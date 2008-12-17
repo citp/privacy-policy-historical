@@ -1,447 +1,280 @@
-<!--The following is the downloaded HTML source of the exbyte.net privacy policy that was archived on 2008-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080604013533id_/http%3A//www.exbyte.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the exbyte.net privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217163938id_/http%3A//www.exbyte.net/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
+<title>Humor, Funny Videos, Sexy Videos, Funny Pictures, Pics</title>
+<meta name="Watch Funny Videos, vids, Sexy Videos, Funny Pictures, Viral Videos, Humor,  - Huge Selection of funny vids, videos, games and celebrities photo galleries, funny pictures and jokes. updated daily!">
+<meta name="keywords" content="Funny Videos, Sexy Videos, Sexy, Funny Video, Humor, Vids, Video Funny, Viral Videos, funny pictures, pictures, games, jokes., Funny Jokes, celebrities, girls, hot babes, stupid videos, crazy videos, funny vids, videos, funny, adult jokes, jokes funny">
+<link rel="stylesheet" type="text/css" href="/cache/templates/exbyte/styles.css">
+<script src="/scripts/prototype.js"></script>
 
-<title>Privacy - ExByte</title>
+<script type="text/javascript">
+var categories = new Array();
+categories[0] = '<a href="/funny/" alt="Generally Funny" title="Generally Funny">Generally Funny</a>';
+categories[1] = '<a href="/skateboard-videos/" alt="Skateboard Videos" title="Skateboard Videos">Skateboard Videos</a>';
+categories[2] = '<a href="/ski-Videos-and-pics/" alt="Ski Videos and Pics" title="Ski Videos and Pics">Ski Videos and Pics</a>';
+categories[3] = '<a href="/sledding-videos/" alt="Sledding" title="Sledding">Sledding</a>';
+categories[4] = '<a href="/funny-jokes/" alt="Jokes" title="Jokes">Jokes</a>';
+categories[5] = '<a href="/funny-pictures/" alt="Funny Pictures" title="Funny Pictures">Funny Pictures</a>';
+categories[6] = '<a href="/geek-humor/" alt="Geek Humor" title="Geek Humor">Geek Humor</a>';
+categories[7] = '<a href="/games/" alt="Games" title="Games">Games</a>';
+categories[8] = '<a href="/sexy-pictures/" alt="Sexy Pictures" title="Sexy Pictures">Sexy Pictures</a>';
+categories[9] = '<a href="/animations/" alt="Animations" title="Animations">Animations</a>';
+categories[10] = '<a href="/nerdy-videos/" alt="Nerdy Videos" title="Nerdy Videos">Nerdy Videos</a>';
+categories[11] = '<a href="/funny-animals/" alt="Funny Animals" title="Funny Animals">Funny Animals</a>';
+categories[12] = '<a href="/funny-videos/" alt="Funny Videos" title="Funny Videos">Funny Videos</a>';
+categories[13] = '<a href="/celebrities/" alt="Celebrities " title="Celebrities ">Celebrities </a>';
+categories[14] = '<a href="/instructional/" alt="Instructional" title="Instructional">Instructional</a>';
+categories[15] = '<a href="/commercials/" alt="Commercials" title="Commercials">Commercials</a>';
+categories[16] = '<a href="/music-videos/" alt="Music Videos" title="Music Videos">Music Videos</a>';
+categories[17] = '<a href="/cool-videos/" alt="Cool Videos" title="Cool Videos">Cool Videos</a>';
+categories[18] = '<a href="/banned-videos/" alt="Banned Videos" title="Banned Videos">Banned Videos</a>';
+categories[19] = '<a href="/crazy-videos/" alt="Crazy Videos" title="Crazy Videos">Crazy Videos</a>';
+categories[20] = '<a href="/sexy-videos/" alt="Sexy Videos" title="Sexy Videos">Sexy Videos</a>';
+categories[21] = '<a href="/funny-links/" alt="Funny Links" title="Funny Links">Funny Links</a>';
+categories[22] = '<a href="/cool-links/" alt="Cool Links" title="Cool Links">Cool Links</a>';
+</script>
 
-<style type="text/css">
-.media_stars {
-	float: left;
-	width: 100px;
-	height: 16px;
-	background-image: url(/images/star_empty.png);
-	overflow: hidden;	
+<script type="text/javascript">
+function rate_media(mid, rating, rval){
+	new Ajax.Request("/rate.php?ajax=true&id=" + mid + "&rating=" + rating, {
+		onComplete: function(transport){
+			if (200 == transport.status){
+				var parts = transport.responseText.split("|");
+				var w = parseInt(parts[0]);
+				document.getElementById(rval).innerHTML = "<div class=\"media_stars_selected\" id=\""+ rval + "_full\"></div>";
+				var nsize = w * 20;
+				document.getElementById(rval + "_full").style.width = nsize + "px";
+			}
+		}
+	});
 }
 
-.media_stars_selected {
-	float: left;
-	position: absolute;
-	height: 16px;
-	background-image: url(/images/star_full.png);
-}
+</script>
 
-.paging{
-	padding: 2px;
-}
+<script type="text/javascript" src="/mouseover.js"></script>
 
-.paging ul{
-	margin: 0;
-	padding: 0;
-	text-align: left; /*Set to "right" to right align paging interface*/
-	font-size: 16px;
-}
-
-.paging li{
-	list-style-type: none;
-	display: inline;
-}
-
-.paging a {
-	display: inline;
-	padding-left: 5px;
-	padding-right: 5px;
-	text-decoration: none;
-	font-weight: bold;
-	margin: 2px;
-	text-align: center;
-	height: 20px;
-	line-height: 20px;
-	vertical-align: middle;
-	border: 1px solid black;
-	color: white;
-}
-
-.paging li a:hover, .paging li .selected {
-	background: black;
-	color: white;
-}
-
-input, select {
-	font-size: 10px;
-	font-family: arial;
-}
-
-.ad {
-	margin-bottom: 5px;
-}
-
-body {
-	background: #00598d;
-	background-image: url(/images/bg.png);
-	background-repeat: repeat-x;
-	margin: 0px;
-	padding: 0px;
-}
-
-body, div, td {
-	font-family: Arial;
-	font-size: 12px;
-	color: white;
-}
-
-.png {
-	behavior: url('/iepngfix.htc');
-}
-
-a img { border: 0px; }
-
-a { color: #3f93e9; }
-
-#container {
-	position: absolute;
-	left: 50%;
-	margin-left: -474px;
-	width: 984px;
-	background: #313334;
-	background-image: url(/images/gradient.png);
-	margin-bottom: 15px;
-}
-
-#container_2 {
-	float: left;
-	width: 100%;
-	background-image: url(/images/mainbg.png);
-	background-repeat: repeat-x;
-}
-
-#container_3 {
-	float: left;
-	margin-left: 14px;
-	margin-right: 15px;
-	display: inline;
-	width: 955px;
-	display: inline;
-}
-
-#header {
-	float: left;
-	width: 100%;
-	height: 125px;
-}
-
-#logo {
-	float: left;
-	margin-left: 34px;
-	display: inline;
-}
-
-#leaderboard {
-	float: right;
-	margin-top: 17px;
-	width: 728px;
-	height: 90px;
-	overflow: hidden;
-}
-
-#nav {
-	float: left;
-	width: 100%;
-	height: 36px;
-	overflow: hidden;
-	background: #0ca0ff;
-	background-image: url(/images/navbg.png);
-	margin-bottom: 14px;
-}
-
-#nav a {
-	float: left;
-}
-
-#left {
-	float: left;
-	width: 193px;
-	overflow: hidden;
-	margin-right: 14px;
-	display: inline;
-}
-
-#main {
-	float: left;
-	width: 434px;
-	overflow: hidden;
-}
-
-#right {
-	float: left;
-	width: 300px;
-	overflow: hidden;
-	margin-left: 14px;
-	display: inline;
-}
-
-#footer {
-	float: left;
-	width: 100%;
-	height: 47px;
-	background: #fbfbfb;
-	background-image: url(/images/footer.png);
-	background-repeat: no-repeat;
-	color: black;
-	text-align: center;
-	line-height: 47px;
-	vertical-align: middle;
-	font-size: 11px;
-}
-
-#left a { color: black; }
-
-#menu {
-	float: left;
-	background: #4597e9;
-	background-image: url(/images/menubg.png);
-	width: 193px;
-	margin-bottom: 15px;
-}
-
-#menu_top {
-	float: left;
-	background-image: url(/images/menutop.png);
-	width: 193px;
-	height: 9px;
-	font-size: 1px;
-	overflow: hidden;
-}
-
-#menu_bottom {
-	float: left;
-	background-image: url(/images/menubottom.png);
-	width: 193px;
-	height: 2px;
-	font-size: 1px;
-	overflow: hidden;
-}
-
-#menu a {
-	display: block;
-	color: white;
-	text-decoration: none;
-	background-image: url(/images/menulink_idle.png);
-	height: 21px;
-	line-height: 21px;
-	vertical-align: middle;
-	overflow: hidden;
-}
-
-#menu a:hover {
-	background-image: url(/images/menulink_hover.png);
-	color: black;
-}
-
-.menupad {
-	margin-left: 30px;
-	display: inline;
-}
-
-.menulink:hover { color: black; }
-
-#sponsors_left {
-	float: left;
-	width: 100%;
-	text-align: center;
-	background: #CCCCCC;
-	background-image: url(/images/sponsors_left.png);
-	background-repeat: no-repeat;
-	padding-top: 35px;
-	padding-bottom: 5px;
-	overflow: hidden;
-	margin-bottom: 15px;
-}
-
-.media {
-	float: left;
-	width: 205px;
-	height: 205px;
-	overflow: hidden;
-	background: #f8fbfd;
-	background-image: url(/images/mediabg.png);
-	margin-top: 6px;
-	margin-bottom: 6px;
-	margin: 6px;
-	display: inline;
-	text-align: left;
-}
-
-.media_title {
-	float: left;
-	width: 205px;
-	height: 29px;
-	line-height: 29px;
-	vertical-align: middle;
-	font-weight: bold;
-	color: white;
-	text-align: center;
-	overflow: hidden;
-	margin-bottom: 6px;
-}
-
-.media_body {
-	float: left;
-	width: 195px;
-	margin-left: 5px;
-	margin-right: 5px;
-	display: inline;
-	height: 165px;
-	overflow: hidden;
-	color: #3c3c3c;
-}
-
-.media_img {
-	float: left;
-	background: #0075B3;
-	padding: 1px;
-	margin-right: 4px;
-	max-width: 92px;
-	display: inline;
-}
-
-.media_description {
-	float: left;
-	width: 99px;
-	height: 96px;
-	overflow: hidden;
-	font-size: 10px;
-	color: #3c3c3c;
-}
-
-.media_bottom {
-	float: left;
-	width: 100%;
-	font-size: 10px;
-	color: #3c3c3c;
-}
-</style>
 </head>
+
 <body>
 
 <div id="container"><div id="container_2"><div id="container_3">
 	<div id="header">
-		<div id="logo"><a href="/"><img src="/images/logo.png" width="147" height="125" alt="ExByte" title="ExByte" class="png"></a></div>
+		<div id="logo"><a href="/"><img src="/cache/templates/exbyte/images/logo.png" width="147" height="125" alt="Funny Videos" title="Funny Videos" class="png"></a></div>
 		<div id="leaderboard"><iframe marginheight="0" marginwidth="0" align="top" scrolling="no" frameborder="0" height="90" width="728" src="http://ads.madisonavenue.com/AdRotator/jAdinatorService.ads?z=1445&amp;i=i" name="window1445"></iframe></div>
 	</div>
 	<div id="nav">
-		<a href="/videos/"><img src="/images/nav_video.png" width="112" height="36" alt="Videos" title="Videos"></a>
-		<a href="/pictures/"><img src="/images/nav_pictures.png" width="119" height="36" alt="Pictures" title="Pictures"></a>
-		<a href="/games/"><img src="/images/nav_games.png" width="105" height="36" alt="Games" title="Games"></a>
-		<a href="/animation/"><img src="/images/nav_animation.png" width="141" height="36" alt="Animation" title="Animation"></a>
-		<a href="/celebrities/" onclick="return false;"><img src="/images/nav_celebrities.png" width="119" height="36" alt="Celebrities" title="Celebrities"></a>
-		<a href="/jokes/" onclick="return false;"><img src="/images/nav_jokes.png" width="98" height="36" alt="Jokes" title="Jokes"></a>
-		<a href="/forum/" onclick="alert('Coming Soon!'); return false;"><img src="/images/nav_forum.png" width="102" height="36" alt="Forum" title="Forum"></a>
-		<a href="http://www.hostedfile.com" target="_blank"><img src="/images/nav_submitmedia.png" width="156" height="36" alt="Submit Media" title="Submit Media"></a>
+		<a href="/funny-videos/"><img src="/cache/templates/exbyte/images/nav_video.png" width="112" height="36" alt="Funny Videos" title="Funny Videos"></a>
+		<a href="/funny-pictures/"><img src="/cache/templates/exbyte/images/nav_pictures.png" width="119" height="36" alt="Funny Pictures" title="Funny Pictures"></a>
+
+		<a href="/games/"><img src="/cache/templates/exbyte/images/nav_games.png" width="105" height="36" alt="Games" title="Games"></a>
+		<a href="/animation/"><img src="/cache/templates/exbyte/images/nav_animation.png" width="141" height="36" alt="Animation" title="Animation"></a>
+		<a href="/Celebrity-Media/"><img src="/cache/templates/exbyte/images/nav_celebrities.png" width="119" height="36" alt="Celebrities" title="Celebrities"></a>
+		<a href="/funny-jokes-media/"><img src="/cache/templates/exbyte/images/nav_jokes.png" width="98" height="36" alt="Funny Jokes" title="Funny Jokes"></a>
+		<a href="/forum/" onclick="alert('Coming Soon!'); return false;"><img src="/cache/templates/exbyte/images/nav_forum.png" width="102" height="36" alt="Forum" title="Forum"></a>
+		<a href="http://www.hostedfile.com" target="_blank"><img src="/cache/templates/exbyte/images/nav_submitmedia.png" width="156" height="36" alt="Submit Media" title="Submit Media"></a>
 	</div>
 	<div id="left">
 		<div id="menu">
+
 			<div id="menu_top"></div>
 			<div style="float: left; width: 100%;">
-				<a href="/"><div class="menupad"></div>Home</a>
-				<a href="/contact.php"><div class="menupad"></div>Contact Us</a>
+				<a href="/" alt="Funny Videos" title="Funny Videos"><div class="menupad"></div>Home</a>
+				<a href="/contact.php" alt="Funny Videos" title="Funny Videos"><div class="menupad"></div>Contact Us</a>
 
 
-				<a href="/contact.php"><div class="menupad"></div>Advertising</a>
-				<a href="/privacy.php"><div class="menupad"></div>Privacy</a>
+				<a href="/advertising.php" alt="Funny Videos" title="Funny Videos"><div class="menupad"></div>Advertising</a>
+				<a href="/privacy.php" alt="Funny Videos" title="Funny Videos"><div class="menupad"></div>Privacy</a>
+
+				<a href="/" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, categories, '150px')" onmouseout="delayhidemenu()"><div class="menupad"></div>Categories</a>
 			</div>
 			<div id="menu_bottom"></div>
 		</div>
+
+		<div style="float: left; width: 193px; background: white; padding-top: 1px; padding-bottom: 1px; margin-bottom: 15px;">
+			<div style="float: left; width: 191px; padding-top: 1px; padding-bottom: 1px; margin-left: 1px; margin-right: 1px; background: #1C78B1; background-image: url(/cache/templates/exbyte/images/sidebg.png); display: inline;">
+				<div style="float: left; width: 189px; margin-left: 1px; margin-right: 1px; display: inline;">
+
+					<div style="float: left; width: 189px; height: 27px; background-image: url(/cache/templates/exbyte/images/sidetitle_bg.png);"><img src="/cache/templates/exbyte/images/sidetitle_topreferrers.png" width="82" height="27"></div>
+					<div style="float: left; width: 189px;">
+<div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/refererout.php?id=15" target="_blank" style="font-size: 12px; text-decoration: none; color: white;">orsm.net</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/refererout.php?id=80" target="_blank" style="font-size: 12px; text-decoration: none; color: white;">leenks.com</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/refererout.php?id=9" target="_blank" style="font-size: 12px; text-decoration: none; color: white;">timekiller.com</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/refererout.php?id=12" target="_blank" style="font-size: 12px; text-decoration: none; color: white;">dirtyvideos.timekiller.com</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/refererout.php?id=3256" target="_blank" style="font-size: 12px; text-decoration: none; color: white;">kickassmovies.com</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/refererout.php?id=3" target="_blank" style="font-size: 12px; text-decoration: none; color: white;">damnfunnypictures.com</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/refererout.php?id=2280" target="_blank" style="font-size: 12px; text-decoration: none; color: white;">shavehead.to</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/refererout.php?id=7" target="_blank" style="font-size: 12px; text-decoration: none; color: white;">planetvids.com</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/refererout.php?id=72" target="_blank" style="font-size: 12px; text-decoration: none; color: white;">onehumor.com</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/refererout.php?id=4479" target="_blank" style="font-size: 12px; text-decoration: none; color: white;">yeah-oops.com</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/refererout.php?id=84" target="_blank" style="font-size: 12px; text-decoration: none; color: white;">babes.timekiller.com</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/refererout.php?id=4" target="_blank" style="font-size: 12px; text-decoration: none; color: white;">geekarmy.com</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/refererout.php?id=4421" target="_blank" style="font-size: 12px; text-decoration: none; color: white;">emow.net</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/refererout.php?id=4491" target="_blank" style="font-size: 12px; text-decoration: none; color: white;">hahakiri.com</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/refererout.php?id=29" target="_blank" style="font-size: 12px; text-decoration: none; color: white;">slackernetwork.com</a></div>					</div>
+				</div>
+			</div>
+		</div>
+
+
 		<div id="sponsors_left"><iframe marginheight="0" marginwidth="0" align="top" scrolling="no" frameborder="0" height="600" width="160" src="http://ads.madisonavenue.com/AdRotator/jAdinatorService.ads?z=1446&amp;i=i" name="window1446"></iframe></div>
 		<div style="float: left; width: 193px; background: white; padding-top: 1px; padding-bottom: 1px;">
-			<div style="float: left; width: 191px; padding-top: 1px; padding-bottom: 1px; margin-left: 1px; margin-right: 1px; background: #1C78B1; background-image: url(/images/sidebg.png);">
-				<div style="float: left; width: 189px; margin-left: 1px; margin-right: 1px;">
-					<div style="float: left; width: 189px; height: 27px; background-image: url(/images/sidetitle_bg.png);"><img src="/images/sidetitle_partners.png" width="82" height="27"></div>
+			<div style="float: left; width: 191px; padding-top: 1px; padding-bottom: 1px; margin-left: 1px; margin-right: 1px; background: #1C78B1; background-image: url(/cache/templates/exbyte/images/sidebg.png); display: inline;">
+				<div style="float: left; width: 189px; margin-left: 1px; margin-right: 1px; display: inline;">
+
+					<div style="float: left; width: 189px; height: 27px; background-image: url(/cache/templates/exbyte/images/sidetitle_bg.png);"><img src="/cache/templates/exbyte/images/sidetitle_partners.png"></div>
 					<div style="float: left; width: 189px;">
-<div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.planetvids.com" onclick="window.open('/hardlinkout.php?id=97'); return false;" style="font-size: 11px; text-decoration: none; color: white;">Planetvids</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.damnfunnypictures.com" onclick="window.open('/hardlinkout.php?id=96'); return false;" style="font-size: 11px; text-decoration: none; color: white;">Damnfunnypictures</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.hostedfile.com" onclick="window.open('/hardlinkout.php?id=98'); return false;" style="font-size: 11px; text-decoration: none; color: white;">Free Hosted File</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.geekarmy.com/" onclick="window.open('/hardlinkout.php?id=99'); return false;" style="font-size: 11px; text-decoration: none; color: white;">Geek Army</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.vegascheapvacations.com" onclick="window.open('/hardlinkout.php?id=101'); return false;" style="font-size: 11px; text-decoration: none; color: white;">Las Vegas Travel Deals</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.pugorama.com" onclick="window.open('/hardlinkout.php?id=73'); return false;" style="font-size: 11px; text-decoration: none; color: white;">Girls Girls Girls</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.onehumor.com" onclick="window.open('/hardlinkout.php?id=82'); return false;" style="font-size: 11px; text-decoration: none; color: white;">Sexy Humor</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.livedump.com" onclick="window.open('/hardlinkout.php?id=95'); return false;" style="font-size: 11px; text-decoration: none; color: white;">Hot Honeys</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.flurl.com" onclick="window.open('/hardlinkout.php?id=93'); return false;" style="font-size: 11px; text-decoration: none; color: white;">Sizzling Hot Videos</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.beautyandthedirt.co.uk" onclick="window.open('/hardlinkout.php?id=76'); return false;" style="font-size: 11px; text-decoration: none; color: white;">Dirty Beauty</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.funnyhub.com" onclick="window.open('/hardlinkout.php?id=15'); return false;" style="font-size: 11px; text-decoration: none; color: white;">Funny Hub</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.viralblast.net/" onclick="window.open('/hardlinkout.php?id=88'); return false;" style="font-size: 11px; text-decoration: none; color: white;">Viral Blast</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.kontraband.com?top100=1588" onclick="window.open('/hardlinkout.php?id=10'); return false;" style="font-size: 11px; text-decoration: none; color: white;">Kontraband Babes</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.funnypictures.tv" onclick="window.open('/hardlinkout.php?id=92'); return false;" style="font-size: 11px; text-decoration: none; color: white;">Sexy Vids &amp; Pics</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.boredtown.com/" onclick="window.open('/hardlinkout.php?id=91'); return false;" style="font-size: 11px; text-decoration: none; color: white;">Boredtown Babes</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.voomed.com" onclick="window.open('/hardlinkout.php?id=57'); return false;" style="font-size: 11px; text-decoration: none; color: white;">Voomed</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.funny-videos.co.uk" onclick="window.open('/hardlinkout.php?id=94'); return false;" style="font-size: 11px; text-decoration: none; color: white;">Funny Videos</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.hollyrude.com" onclick="window.open('/hardlinkout.php?id=75'); return false;" style="font-size: 11px; text-decoration: none; color: white;">HollyRude</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.timekiller.com" onclick="window.open('/hardlinkout.php?id=74'); return false;" style="font-size: 11px; text-decoration: none; color: white;">Timekiller</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.danteesinferno.com/" onclick="window.open('/hardlinkout.php?id=84'); return false;" style="font-size: 11px; text-decoration: none; color: white;">Killer Kool T-Shirts</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.vidaxs.com" onclick="window.open('/hardlinkout.php?id=83'); return false;" style="font-size: 11px; text-decoration: none; color: white;">VidaXs</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.prankies.com" onclick="window.open('/hardlinkout.php?id=79'); return false;" style="font-size: 11px; text-decoration: none; color: white;">Prankies</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.chestcushions.com" onclick="window.open('/hardlinkout.php?id=90'); return false;" style="font-size: 11px; text-decoration: none; color: white;">Chest Cushions</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.godofhumor.com" onclick="window.open('/hardlinkout.php?id=80'); return false;" style="font-size: 11px; text-decoration: none; color: white;">God Of Humor</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.slackernetwork.com" onclick="window.open('/hardlinkout.php?id=58'); return false;" style="font-size: 11px; text-decoration: none; color: white;">Slacker Network</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.dumbr.com" onclick="window.open('/hardlinkout.php?id=81'); return false;" style="font-size: 11px; text-decoration: none; color: white;">DumbR</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.listedineurope.com" onclick="window.open('/hardlinkout.php?id=100'); return false;" style="font-size: 11px; text-decoration: none; color: white;">European Real Estate</a></div>					</div>
+<div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.planetvids.com" onclick="window.open('/hardlinkout.php?id=97'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Funny Videos</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.damnfunnypictures.com" onclick="window.open('/hardlinkout.php?id=96'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Funny Pictures</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.hostedfile.com" onclick="window.open('/hardlinkout.php?id=98'); return false;" style="font-size: 12px; text-decoration: none; color: white;">File Hosting</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.geekarmy.com/" onclick="window.open('/hardlinkout.php?id=99'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Geek Army</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.emow.net" onclick="window.open('/hardlinkout.php?id=164'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Adult Humor</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.imr151.com/lsm/?ref_id=dfp1" onclick="window.open('/hardlinkout.php?id=140'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Earn Cash - Work From Home</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.vegascheapvacations.com" onclick="window.open('/hardlinkout.php?id=101'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Las Vegas Travel Deals</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.orsm.net" onclick="window.open('/hardlinkout.php?id=163'); return false;" style="font-size: 12px; text-decoration: none; color: white;">ORSM dot net</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.pugorama.com" onclick="window.open('/hardlinkout.php?id=73'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Girls Girls Girls</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.emow.net" onclick="window.open('/hardlinkout.php?id=168'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Adult Humor (18+)</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.onehumor.com" onclick="window.open('/hardlinkout.php?id=82'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Sexy Humor</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.livedump.com" onclick="window.open('/hardlinkout.php?id=95'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Hot Honeys</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.flurl.com" onclick="window.open('/hardlinkout.php?id=93'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Sizzling Hot Videos</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.beautyandthedirt.co.uk" onclick="window.open('/hardlinkout.php?id=76'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Dirty Beauty</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.funnyhub.com" onclick="window.open('/hardlinkout.php?id=15'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Funny Hub</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.viralblast.net/" onclick="window.open('/hardlinkout.php?id=88'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Viral Blast</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.kontraband.com?top100=1588" onclick="window.open('/hardlinkout.php?id=10'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Kontraband Babes</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.ownagevideos.com/Our-Content.html" onclick="window.open('/hardlinkout.php?id=108'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Sexy and Ownded Videos</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.buzzhumor.com/" onclick="window.open('/hardlinkout.php?id=103'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Buzz Humor Videos</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.leenks.com" onclick="window.open('/hardlinkout.php?id=112'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Leenks</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.funnypictures.tv" onclick="window.open('/hardlinkout.php?id=92'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Sexy Vids &amp; Pics</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.deezteez.com/" onclick="window.open('/hardlinkout.php?id=136'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Funny T-Shirts</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.voomed.com" onclick="window.open('/hardlinkout.php?id=57'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Voomed</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.timekiller.com" onclick="window.open('/hardlinkout.php?id=74'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Timekiller</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.danteesinferno.com/" onclick="window.open('/hardlinkout.php?id=84'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Killer Kool T-Shirts</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.hollyrude.com" onclick="window.open('/hardlinkout.php?id=75'); return false;" style="font-size: 12px; text-decoration: none; color: white;">HollyRude</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.vidaxs.com" onclick="window.open('/hardlinkout.php?id=83'); return false;" style="font-size: 12px; text-decoration: none; color: white;">VidaXs</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.prankies.com" onclick="window.open('/hardlinkout.php?id=79'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Prankies</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.chestcushions.com" onclick="window.open('/hardlinkout.php?id=90'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Chest Cushions</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.godofhumor.com" onclick="window.open('/hardlinkout.php?id=80'); return false;" style="font-size: 12px; text-decoration: none; color: white;">God Of Humor</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.slackernetwork.com" onclick="window.open('/hardlinkout.php?id=58'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Slacker Network</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.killmyday.com" onclick="window.open('/hardlinkout.php?id=113'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Killmyday</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.dumbr.com" onclick="window.open('/hardlinkout.php?id=81'); return false;" style="font-size: 12px; text-decoration: none; color: white;">DumbR</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="www.exbyte.net" onclick="window.open('/hardlinkout.php?id=107'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Badgirls</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.tangabilder.to" onclick="window.open('/hardlinkout.php?id=116'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Tangabilder</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.clip-tube.com" onclick="window.open('/hardlinkout.php?id=120'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Clip-Tube</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.humor4you.com" onclick="window.open('/hardlinkout.php?id=165'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Humor4You</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.afunnysite.com" onclick="window.open('/hardlinkout.php?id=123'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Afunnysite</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.tokenhumor.com" onclick="window.open('/hardlinkout.php?id=124'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Sexy Videos</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.abum.com" onclick="window.open('/hardlinkout.php?id=126'); return false;" style="font-size: 12px; text-decoration: none; color: white;">abum-Hot Vids</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.shavehead.to" onclick="window.open('/hardlinkout.php?id=127'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Shavehead-Sexy Girls</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.funnyhub.com" onclick="window.open('/hardlinkout.php?id=139'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Viral Videos</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.vidbang.com" onclick="window.open('/hardlinkout.php?id=143'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Vid Bang!</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://collegepartyhouse.com" onclick="window.open('/hardlinkout.php?id=148'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Collge Girls</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.popuplace.com" onclick="window.open('/hardlinkout.php?id=154'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Hot Sexy Videos</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.techoozie.com" onclick="window.open('/hardlinkout.php?id=149'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Technology Information</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.flurl.com" onclick="window.open('/hardlinkout.php?id=150'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Flurl</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://videospud.com" onclick="window.open('/hardlinkout.php?id=152'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Videospud</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://chickencrap.com/" onclick="window.open('/hardlinkout.php?id=153'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Chicken Crap</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.afunnysite.com/" onclick="window.open('/hardlinkout.php?id=155'); return false;" style="font-size: 12px; text-decoration: none; color: white;">A Funny Site</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.fighttips.com" onclick="window.open('/hardlinkout.php?id=156'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Girl Fights</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.fvrss.com" onclick="window.open('/hardlinkout.php?id=157'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Funny Videos</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://kimbo-fights.com" onclick="window.open('/hardlinkout.php?id=158'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Kimbo Slice</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.simplymachine.com" onclick="window.open('/hardlinkout.php?id=159'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Alien Pictures</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.kickhit.com" onclick="window.open('/hardlinkout.php?id=160'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Shocking Videos</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.sprite-sheets.com" onclick="window.open('/hardlinkout.php?id=161'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Sprite Sheets</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.school-fights.com" onclick="window.open('/hardlinkout.php?id=162'); return false;" style="font-size: 12px; text-decoration: none; color: white;">School Fights</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.yeah-oops.com/" onclick="window.open('/hardlinkout.php?id=166'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Yeah Oops!</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.hahakiri.com/" onclick="window.open('/hardlinkout.php?id=167'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Hahakiri</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.laughinglarry.com" onclick="window.open('/hardlinkout.php?id=169'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Pick Up Lines</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="http://www.kickassmovies.com" onclick="window.open('/hardlinkout.php?id=170'); return false;" style="font-size: 12px; text-decoration: none; color: white;">Sexy Videos</a></div>					</div>
+
 				</div>
 			</div>
 		</div>
 	</div>
 	<div id="main">
-
-<b>Privacy Statement for ExByte.net</b><br><br>
-
-We can be reached via our contact form.
-<br><br>
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
-<br><br>
-We collect only the domain name, but not the e-mail address of visitors to our Web page, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
-<br><br>
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to notify consumers about updates to our Web site, shared with other reputable organizations to help them contact consumers for marketing purposes, used by us to contact consumers for marketing purposes.
-<br><br>
-With respect to cookies: We use cookies to store visitors preferences, ensure that visitors are not repeatedly sent the same banner ads.
-<br><br>
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
-<br><br>
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.
-<br><br>
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only data collected from the time of the policy change forward.
-<br><br>
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by sending us e-mail at the above address.
-<br><br>
-Upon request we provide site visitors with access to a description of information that we maintain about them.
-<br><br>
-Consumers can access this information by e-mail us at the above address.
-<br><br>
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
-<br><br>
-Consumers can have this information corrected by sending us e-mail at the above address.
-<br><br>
-If you feel that this site is not following its stated information policy, you may contact using our contact form.
-<br><br>
-Disclaimer
-<br><br>
-Much of the content on this site has been collected via the submissions of visitors. It is assumed they hold the copyright to this submitted material. If this is not the case, please contact us with your claim to the content and it will be removed immediately. 
-
+<div class="title" style="font-weight: bold; font-size: 14px;"> 
+Privacy Statement for Exbyte.net
+<br>
+<br>
+We can be reached via our contact us form if you should have any questions. 
+<br>
+<br>
+For each visitor to our Web page, our Web server automatically recognizes only 
+the consumer's domain name, but not the e-mail address (where possible). 
+<br>
+<br>
+We collect only the domain name, but not the e-mail address of visitors to our 
+Web page, aggregate information on what pages consumers’ access or visit, 
+information volunteered by the consumer, such as survey information and/or site 
+registrations. 
+<br>
+<br>
+The information we collect is used for internal review and is then discarded, 
+used to improve the content of our Web page, used to notify consumers about 
+updates to our Web site, shared with other reputable organizations to help them 
+contact consumers for marketing purposes, used by us to contact consumers for 
+marketing purposes. 
+<br>
+<br>
+With respect to cookies: We use cookies to store visitor’s preferences, ensure 
+that visitors are not repeatedly sent the same banner ads. 
+<br>
+<br>
+If you do not want to receive e-mail from us in the future, please let us know 
+by sending us e-mail at the above address if you have subscribed to our 
+newsletter then you can simply click on newsletter on the menu and unsubscribe 
+there. 
+<br>
+<br>
+With respect to Ad Servers: To try and bring you offers that are of interest to 
+you, we have relationships with other companies that we allow to place ads on 
+our Web pages. As a result of your visit to our site, ad server companies may 
+collect information such as your domain type, your IP address and click stream 
+information. 
+<br>
+<br>
+From time to time, we may use customer information for new, unanticipated uses 
+not previously disclosed in our privacy notice. If our information practices 
+change at some time in the future we will use for these new purposes only data 
+collected from the time of the policy change forward. 
+<br>
+<br>
+Customers may prevent their information from being used for purposes other than 
+those for which it was originally collected by sending us e-mail at the above 
+address. 
+<br>
+<br>
+Upon request we provide site visitors with access to a description of 
+information that we maintain about them. 
+<br>
+<br>
+Consumers can access this information by contact us form at the bottom of our 
+site. 
+<br>
+<br>
+Upon request we offer visitors the ability to have inaccuracies corrected in 
+contact information. 
+<br>
+<br>
+Consumers can have this information corrected clicking on the contact us form at 
+the bottom of our site. 
+<br>
+<br>
+If you feel that this site is not following its stated information policy, you 
+may contact using our contact form. 
+<br>
+<br>
+Disclaimer 
+<br>
+Much of the content on this site has been collected via the submissions of 
+visitors. It is assumed they hold the copyright to this submitted material. If 
+this is not the case, please contact us with your claim to the content and it 
+will be removed immediately
 </div>
+</div>
+
 	<div id="right">
-		<div style="width: 100%; margin-bottom: 10px;" align="center"><form method="post" action="/search">
-			<input type="text" style="font-size: 10px; font-family: arial; width: 200px;" value="Search..." onclick="if (this.value=='Search...') this.value='';" name="search"><br>
-			<select name="category"><option value="1">All Categories</option>
-<option value="2">Funny Videos</option>
-<option value="3">Politics</option>
-<option value="4">Celebrities </option>
-<option value="7">Instructional</option>
-<option value="8">Commercials</option>
-<option value="9">Music Videos</option>
-<option value="10">Racing Videos</option>
-<option value="12">Cool Videos</option>
-<option value="13">Banned Videos</option>
-<option value="14">Crazy Videos</option>
-<option value="15">Funny Videos</option>
-<option value="17">Funny Animals</option>
-<option value="18">Nerdy Videos</option>
-<option value="19">Reenactments</option>
-<option value="20">Skateboard Videos</option>
-<option value="21">Ski Videos and Pics</option>
-<option value="22">Sledding</option>
-<option value="23">Sports Video</option>
-<option value="24">Stupid Vids</option>
-<option value="25">Surf Videos</option>
-<option value="26">Travel</option>
-<option value="27">Jokes</option>
-<option value="28">Pictures</option>
-<option value="29">Geek Humor</option>
-<option value="30">Games</option>
-			</select> <input type="submit" value="Search"></form>
+		<div style="width: 100%; margin-bottom: 10px;" align="center"><form method="post" action="/search.php">
+			<input type="text" style="font-size: 10px; font-family: arial; width: 200px;" value="Search..." onclick="if (this.value=='Search...') this.value='';" name="search"> <input type="submit" value="Search"></form>
 		</div>
+
+<div style="width: 100%; float: left;">
+<div class="rightcolimageholder"><a href="/53695/CAMMY-COSPLAY-CUTIE/" target="_blank"><img src="/thumbnails/f4e7aeabdc32c5048d667fdab5e273dc.jpg" class="partner" width="120" height="120"></a></div><div class="rightcolimageholder"><a href="/53694/OMFG/" target="_blank"><img src="/thumbnails/4a58714bb8711a9a877ab3487ce93c00.jpg" class="partner" width="120" height="120"></a></div><div class="rightcolimageholder"><a href="/53692/Bikinis-18/" target="_blank"><img src="/thumbnails/d06333da56dc5342c80c9c143369c99e.jpg" class="partner" width="120" height="120"></a></div><div class="rightcolimageholder"><a href="/53688/Funny-Christmas-Tree/" target="_blank"><img src="/thumbnails/51e2fa92eb584822809a98516c0371f7.jpg" class="partner" width="120" height="120"></a></div></div>
+
 		<div style="margin-top: 5px;"><iframe marginheight="0" marginwidth="0" align="top" scrolling="no" frameborder="0" height="267" width="300" src="http://ads.madisonavenue.com/AdRotator/jAdinatorService.ads?z=1447&amp;i=i" name="window1447"></iframe></div>
+
+
+
 		<div style="width: 100%;">
 			<div style="float: left; width: 50%; overflow: hidden;">
 				<div class="ad"><iframe marginheight="0" marginwidth="0" align="top" scrolling="no" frameborder="0" height="120" width="120" src="http://ads.madisonavenue.com/AdRotator/jAdinatorService.ads?z=1527&amp;i=i" name="window1527"></iframe></div>
 				<div class="ad"><iframe marginheight="0" marginwidth="0" align="top" scrolling="no" frameborder="0" height="120" width="120" src="http://ads.madisonavenue.com/AdRotator/jAdinatorService.ads?z=1528&amp;i=i" name="window1528"></iframe></div>
 				<div class="ad"><iframe marginheight="0" marginwidth="0" align="top" scrolling="no" frameborder="0" height="120" width="120" src="http://ads.madisonavenue.com/AdRotator/jAdinatorService.ads?z=1530&amp;i=i" name="window1530"></iframe></div>
 				<div class="ad"><iframe marginheight="0" marginwidth="0" align="top" scrolling="no" frameborder="0" height="120" width="120" src="http://ads.madisonavenue.com/AdRotator/jAdinatorService.ads?z=1531&amp;i=i" name="window1531"></iframe></div>
-				<div class="ad"><iframe marginheight="0" marginwidth="0" align="top" scrolling="no" frameborder="0" height="120" width="120" src="http://ads.madisonavenue.com/AdRotator/jAdinatorService.ads?z=1532&amp;i=i" name="window1532"></iframe></div>
-				<div class="ad"><iframe marginheight="0" marginwidth="0" align="top" scrolling="no" frameborder="0" height="120" width="120" src="http://ads.madisonavenue.com/AdRotator/jAdinatorService.ads?z=1533&amp;i=i" name="window1533"></iframe></div>
-				<div class="ad"><iframe marginheight="0" marginwidth="0" align="top" scrolling="no" frameborder="0" height="120" width="120" src="http://ads.madisonavenue.com/AdRotator/jAdinatorService.ads?z=1534&amp;i=i" name="window1534"></iframe></div>
-				<div class="ad"><iframe marginheight="0" marginwidth="0" align="top" scrolling="no" frameborder="0" height="120" width="120" src="http://ads.madisonavenue.com/AdRotator/jAdinatorService.ads?z=1535&amp;i=i" name="window1535"></iframe></div>
+				<div class="ad"><a href="http://www.iwut.com" target="_blank"><img src="/images/ads/120x120_iwut.gif" border="0" hspace="0" vspace="0"></a>
+		</div>
+				<div class="ad"><a href="http://www.godofhumor.com" target="_blank"><img src="/images/ads/120x120_goh.jpg" border="0" hspace="0" vspace="0"></a>
+		</div>
+				<div class="ad"><a href="http://www.magamba.com" target="_blank"><img src="/images/ads/120_magamba.gif" border="0" hspace="0" vspace="0"></a>
+		</div>
+				<div class="ad"><a href="http://www.prankies.com" target="_blank"><img src="/images/ads/120x120_prankies_ani.gif" border="0" hspace="0" vspace="0"></a>
+		</div>
 				<div class="ad"></div>
 				<div class="ad"></div>
 			</div>
-			<div style="float: left; width: 50%; overflow: hidden;"><iframe marginheight="0" marginwidth="0" align="top" scrolling="no" frameborder="0" height="617" width="120" src="http://ads.madisonavenue.com/AdRotator/jAdinatorService.ads?z=1448&amp;i=i" name="window1448"></iframe></div>
+			<div style="float: left; width: 50%; overflow: hidden;"><!--  BEGIN FinditQuick.com Text Ad //-->
+<script type="text/javascript">
+var mooter_ad_format="0";
+var mooter_terms = "";
+var mooter_affiliate = "damnfunny1";
+var mooter_sub = "1423861565842881326";
+var mooter_uid = "1423861565842881326";
+var mooter_IP = "";
+var mooter_width = "120";
+var mooter_height = "600";
+var mooter_num_to_show = "5";
+var mooter_background = "ffffff";
+var mooter_border = "000000";
+var mooter_title = "1C78B1";
+var mooter_desc = "000000";
+var mooter_banner = "1C78B1";
+var mooter_display_url = "34d024";
+var mooter_wrapper_url="";
+var run_method = "preload";
+var mooter_target = "1";
+</script>
+<script type="text/javascript" src="http://adserver.finditquick.com/inline.js"></script>
+<!--  END FinditQuick Text Ad //-->
+</div>
+                       <div style="float: left; width: 50%; overflow: hidden;"><a href="http://feeds.feedburner.com/exbyterss" title="Exbyte.net - Funny-Videos and Sexy-Videos" rel="alternate" type="application/rss+xml" target="_blank"><img src="http://www.feedburner.com/fb/images/pub/feed-icon32x32.png" alt="" style="border:0"></a><br><a href="http://fusion.google.com/add?feedurl=http://feeds.feedburner.com/exbyterss" target="_blank"><img src="http://buttons.googlesyndication.com/fusion/add.gif" width="104" height="17" style="border:0" alt="Add to Google"></a><br><a href="http://add.my.yahoo.com/rss?url=http://feeds.feedburner.com/exbyterss" title="Exbyte.net - Funny-Videos and Sexy-Videos" target="_blank"><img src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif" alt="" style="border:0"></a><br><a href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http://feeds.feedburner.com/exbyterss" title="Exbyte.net - Funny-Videos and Sexy-Videos" target="_blank"><img src="http://www.newsgator.com/images/ngsub1.gif" alt="Subscribe in NewsGator Online" style="border:0"></a><br><a href="http://www.newsburst.com/Source/?add=http://feeds.feedburner.com/exbyterss" target="_blank"><img src="http://i.i.com.com/cnwk.1d/i/newsbursts/btn/newsburst3.gif" width="96" height="20" align="middle" style="border:0" alt="Exbyte.net - Funny-Videos and Sexy-Videos"></a><br><a href="http://client.pluck.com/pluckit/prompt.aspx?GCID=C12286x053&amp;a=http://feeds.feedburner.com/exbyterss" target="_blank"><img src="http://www.pluck.com/images/pluck/pluspluck.png"></a><br><a href="http://www.bloglines.com/sub/http://feeds.feedburner.com/exbyterss" title="Exbyte.net - Funny-Videos and Sexy-Videos" type="application/rss+xml" target="_blank"><img src="http://www.bloglines.com/images/sub_modern1.gif" alt="Subscribe in Bloglines" style="border:0"></a></div>
+
 		</div>
+
+
+		<div style="float: left; width: 193px; background: white; padding-top: 1px; padding-bottom: 1px; margin-bottom: 15px;">
+			<div style="float: left; width: 191px; padding-top: 1px; padding-bottom: 1px; margin-left: 1px; margin-right: 1px; background: #1C78B1; background-image: url(/cache/templates/exbyte/images/sidebg.png); display: inline;">
+				<div style="float: left; width: 189px; margin-left: 1px; margin-right: 1px; display: inline;">
+
+					<div style="float: left; width: 189px; height: 27px; background-image: url(/cache/templates/exbyte/images/sidetitle_bg.png);"><img src="/cache/templates/exbyte/images/sidetitle_sexycategories.png" height="27"></div>
+					<div style="float: left; width: 189px;">
+                   <div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/funny/" alt="Generally Funny" title="Generally Funny" style="font-size: 12px; text-decoration: none; color: white;">Generally Funny</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/skateboard-videos/" alt="Skateboard Videos" title="Skateboard Videos" style="font-size: 12px; text-decoration: none; color: white;">Skateboard Videos</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/ski-Videos-and-pics/" alt="Ski Videos and Pics" title="Ski Videos and Pics" style="font-size: 12px; text-decoration: none; color: white;">Ski Videos and Pics</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/sledding-videos/" alt="Sledding" title="Sledding" style="font-size: 12px; text-decoration: none; color: white;">Sledding</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/funny-jokes/" alt="Jokes" title="Jokes" style="font-size: 12px; text-decoration: none; color: white;">Jokes</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/funny-pictures/" alt="Funny Pictures" title="Funny Pictures" style="font-size: 12px; text-decoration: none; color: white;">Funny Pictures</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/geek-humor/" alt="Geek Humor" title="Geek Humor" style="font-size: 12px; text-decoration: none; color: white;">Geek Humor</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/games/" alt="Games" title="Games" style="font-size: 12px; text-decoration: none; color: white;">Games</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/sexy-pictures/" alt="Sexy Pictures" title="Sexy Pictures" style="font-size: 12px; text-decoration: none; color: white;">Sexy Pictures</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/animations/" alt="Animations" title="Animations" style="font-size: 12px; text-decoration: none; color: white;">Animations</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/nerdy-videos/" alt="Nerdy Videos" title="Nerdy Videos" style="font-size: 12px; text-decoration: none; color: white;">Nerdy Videos</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/funny-animals/" alt="Funny Animals" title="Funny Animals" style="font-size: 12px; text-decoration: none; color: white;">Funny Animals</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/funny-videos/" alt="Funny Videos" title="Funny Videos" style="font-size: 12px; text-decoration: none; color: white;">Funny Videos</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/celebrities/" alt="Celebrities " title="Celebrities " style="font-size: 12px; text-decoration: none; color: white;">Celebrities </a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/instructional/" alt="Instructional" title="Instructional" style="font-size: 12px; text-decoration: none; color: white;">Instructional</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/commercials/" alt="Commercials" title="Commercials" style="font-size: 12px; text-decoration: none; color: white;">Commercials</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/music-videos/" alt="Music Videos" title="Music Videos" style="font-size: 12px; text-decoration: none; color: white;">Music Videos</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/cool-videos/" alt="Cool Videos" title="Cool Videos" style="font-size: 12px; text-decoration: none; color: white;">Cool Videos</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/banned-videos/" alt="Banned Videos" title="Banned Videos" style="font-size: 12px; text-decoration: none; color: white;">Banned Videos</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/crazy-videos/" alt="Crazy Videos" title="Crazy Videos" style="font-size: 12px; text-decoration: none; color: white;">Crazy Videos</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/sexy-videos/" alt="Sexy Videos" title="Sexy Videos" style="font-size: 12px; text-decoration: none; color: white;">Sexy Videos</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/funny-links/" alt="Funny Links" title="Funny Links" style="font-size: 12px; text-decoration: none; color: white;">Funny Links</a></div><div style="margin-left: 10px; width: 179px; overflow: hidden;"><a href="/cool-links/" alt="Cool Links" title="Cool Links" style="font-size: 12px; text-decoration: none; color: white;">Cool Links</a></div>					</div>
+				</div>
+			</div>
+		</div>
+
+
 	</div>
 
 </div></div>
-	<div id="footer">Copyright 2008 ExByte - Design and Integration by <a href="http://www.codeworksplus.com" target="_blank">Code Works Plus</a></div>
+	<div id="footer">
+<a href="/privacy.php">Privacy Policy</a> | <a href="/dmca.php">DMCA</a> | <a href="#" onclick="alert(\'Coming soon!\'); return false;">Webmasters</a> | <a href="/contact.php">Contact Us</a> | <a href="/advertising.php">Advertising</a>
+<br>
+Copyright 2008 ExByte - Design and Integration by <a href="http://www.codeworksplus.com" target="_blank">Code Works Plus</a>
 </div>
 
 <div style="display:none;">
@@ -460,5 +293,53 @@ EXd.write("<img src=http://e1.extreme-dm.com",
 "l="+escape(EXd.referrer)+" height=1 width=1>");//-->
 </script><img src="http://e1.extreme-dm.com/s10.g?login=exbytexx&amp;jv=n&amp;j=y&amp;srw=800&amp;srb=24&amp;l=" height="1" width="1"><noscript><img height="1" width="1" alt=""
 src="http://e1.extreme-dm.com/s10.g?login=exbytexx&j=n&jv=n"/>
+
 </noscript>
+</div>
+
+<div style="display:none;">
+<a href="http://extremetracking.com/open?login=exbyte12">
+<img src="http://t1.extreme-dm.com/i.gif" style="border: 0;" height="38" width="41" id="EXim" alt="eXTReMe Tracker"></a>
+<script type="text/javascript"><!--
+var EXlogin='exbyte12' // Login
+var EXvsrv='s11' // VServer
+EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
+EXb=EXs.colorDepth:EXb=EXs.pixelDepth;
+navigator.javaEnabled()==1?EXjv="y":EXjv="n";
+EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
+EXd.write("<img src=http://e2.extreme-dm.com",
+"/"+EXvsrv+".g?login="+EXlogin+"&amp;",
+"jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
+"l="+escape(EXd.referrer)+" height=1 width=1>");//-->
+</script><img src="http://e2.extreme-dm.com/s11.g?login=exbyte12&amp;jv=n&amp;j=y&amp;srw=800&amp;srb=24&amp;l=" height="1" width="1"><noscript><div id="neXTReMe"><img height="1" width="1" alt=""
+src="http://e2.extreme-dm.com/s11.g?login=exbyte12&amp;j=n&amp;jv=n" />
+</div>
+</noscript>
+</div>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-4837566-1";
+urchinTracker();
+</script>
+
+<!-- BEGIN STANDARD TAG - popunder only - exbyte.net : Run-of-site - DO NOT MODIFY -->
+
+<!-- BEGIN STANDARD TAG - popunder only - exbyte.net : Run-of-site - DO NOT MODIFY -->
+<!-- <SCRIPT TYPE="text/javascript" SRC="http://adserving.cpxinteractive.com/st?ad_type=pop&ad_size=0x0&section=329258&banned_pop_types=29&pop_times=1&pop_frequency=14400"></SCRIPT>-->
+<!-- END TAG -->
+
+<!-- BEGIN STANDARD TAG - popunder only - Exbyte: Run-of-site - DO NOT MODIFY -->
+<!--<SCRIPT TYPE="text/javascript" SRC="http://ad.reduxmedia.com/st?ad_type=pop&ad_size=0x0&section=406074&banned_pop_types=29&pop_times=1&pop_frequency=14400"></SCRIPT>-->
+<!-- END TAG -->
+
+<!--- UNDERDOGMEDIA Pop Under JavaScript ADCODE START--->
+<script language="javascript">                              
+var d=new Date();
+var b=d.getSeconds();
+document.write('<scr'+'ipt language="javascript" src="http://udmserve.net/udm/img.fetch?sid=238;tid=3;ev=1;dt=4;b='+b+'"></scr'+'ipt>');
+</script><script language="javascript" src="http://udmserve.net/udm/img.fetch?sid=238;tid=3;ev=1;dt=4;b=40"></script>
+<!--- UNDERDOGMEDIA Pop Under JavaScript ADCODE END--->
+
 </div></body></html>
