@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the leadclub.net privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517122200id_/http%3A//www.leadclub.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadclub.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061738id_/http%3A//www.leadclub.net/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
-
+[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=737702&afsid=1)
+    
+    
     Privacy Policy
     
     
