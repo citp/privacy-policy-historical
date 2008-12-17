@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nasdaq.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629073731id_/http%3A//www.nasdaq.com/sitespecific/privacy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasdaq.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055542id_/http%3A//www.nasdaq.com/sitespecific/privacy.stm) for the most accurate reproduction.*
 
 # NASDAQ Privacy Statement
 
@@ -15,7 +15,7 @@ If you purchase a product or service from us, we request certain personally iden
 We only use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. 
 
 **Uses of Information**  
-NASDAQ uses the personally identifiable information you provide us to communicate with you in response to your inquiries, to provide the services you request, and to manage your account. Any personally identifiable information gathered by NASDAQ will be used for internal purposes only. We will not disclose or divulge such data outside of NASDAQ. 
+NASDAQ uses the personally identifiable information you provide us to communicate with you in response to your inquiries, to provide the services you request, and to manage your account. Any personally identifiable information gathered by NASDAQ will be used for internal purposes only. We will not disclose or divulge such data outside of NASDAQ. We do not share, sell, rent or trade PII with third parties for their promotional purposes. 
 
 _**Communications from the Site**_
 
@@ -72,7 +72,7 @@ A cookie is a small text file that is stored on a user’s computer for record-k
 
 We use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help" file. 
 
-Some cookies contain the email address provided by you when completing an email profile for that site. This information is used to populate an email address box with your email address. Where appropriate some sites generate disclaimer/notice cookies to confirm that you have read and agreed to its terms of use. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
+Some cookies contain the email address provided by you when completing an email profile for that site. This information is used to populate an email address box with your email address. This information is used to populate an email address box with your email address. Where appropriate some sites generate disclaimer/notice cookies to confirm that you have read and agreed to its terms of use. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
 
 This privacy statement covers the use of cookies by all NASDAQ web sites and does not cover the use of cookies by any advertisers. [See the “Third Party advertising " section.] 
 
@@ -124,7 +124,7 @@ Website: <http://www.emi.nasdaq.com/>
 User Profile update: [ http://emi.nasdaq.com/Management.aspx?tab=home&page=updateUserInfo](http://emi.nasdaq.com/Management.aspx?tab=home&page=updateUserInfo)  
 Email: [emi@nasdaq.com](mailto:emi@nasdaq.com)
 
-Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20080629073731id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)  
+Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20081217055542id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)  
 Email: [enastraq@nastraq.com](mailto:enastraq@nastraq.com)
 
 **Mailing address:**  
@@ -133,14 +133,14 @@ The NASDAQ Stock Market
 43rd and Broadway  
 New York, NY 10036
 
-NASDAQ is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the following NASDAQ websites: 
+NASDAQ is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This privacy statement covers the following NASDAQ websites: 
 
 Website: <http://www.emi.nasdaq.com/>  
 Website: <http://www.nasdaqinsurance.com/>  
 Website: <http://www.nasdaqtrader.com/>  
 Website: [https://www.nasdaq.net](https://www.nasdaq.net/)  
 Website: <http://www.nasdaq.com/>  
-Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20080629073731id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)
+Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20081217055542id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)
 
 Because NASDAQ wants to demonstrate its commitment to your privacy, we has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact the appropriate contact from the list above. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php) . TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
