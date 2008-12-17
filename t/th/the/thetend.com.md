@@ -1,7 +1,235 @@
-> *The following text is extracted and transformed from the thetend.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527032459id_/http%3A//www.thetend.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetend.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040455id_/http%3A//www.thetend.com/privacy.php) for the most accurate reproduction.*
 
 # Amateur video
 
+[](http://www.thetend.com/sp/vid/154/asian-couple-amateur-fuck.php)  
+  
+[Asian couple amateur fuck ](http://www.thetend.com/sp/vid/154/asian-couple-amateur-fuck.php)
+
+(5713 views)
+
+| 
+
+[](http://www.thetend.com/sp/vid/151/asian-girl-homemade-sex.php)
+
+[Asian girl homemade sex ](http://www.thetend.com/sp/vid/151/asian-girl-homemade-sex.php)
+
+(8675 views)
+
+| 
+
+[](http://www.thetend.com/sp/vid/149/boundet-amateur-girl-fucked-hard.php)
+
+[Boundet Amateur Girl fucked hard ](http://www.thetend.com/sp/vid/149/boundet-amateur-girl-fucked-hard.php)
+
+(29633 views)
+
+| 
+
+[](http://www.thetend.com/sp/vid/141/asian-beauty-enjoying-a-cock-at-home.php)
+
+[Asian Beauty enjoying a cock at home ](http://www.thetend.com/sp/vid/141/asian-beauty-enjoying-a-cock-at-home.php)
+
+(49693 views)
+
+| 
+
+[](http://www.thetend.com/sp/vid/137/short-haired-brunette-girl-fucked-in-the-bushes-.php)
+
+[Short haired brunette girl fucked in the bushes ](http://www.thetend.com/sp/vid/137/short-haired-brunette-girl-fucked-in-the-bushes-.php)
+
+(39849 views)  
+  
+[](http://www.thetend.com/sp/vid/133/hotels-are-expensive,-so-they-fuck-in-parking-lot-.php)
+
+[Hotels are expensive, so they fuck in parking lot ](http://www.thetend.com/sp/vid/133/hotels-are-expensive,-so-they-fuck-in-parking-lot-.php)
+
+(25103 views)
+
+| 
+
+[](http://www.thetend.com/sp/vid/127/busty-asian-girl-get-fucked.php)
+
+[Busty Asian girl get fucked ](http://www.thetend.com/sp/vid/127/busty-asian-girl-get-fucked.php)
+
+(64406 views)
+
+| 
+
+[](http://www.thetend.com/sp/vid/125/hot-girl-fucked-outdoor-right-next-to-the-eiffel-tower-.php)
+
+[Hot girl fucked outdoor right next to the Eiffel Tower ](http://www.thetend.com/sp/vid/125/hot-girl-fucked-outdoor-right-next-to-the-eiffel-tower-.php)
+
+(15338 views)
+
+| 
+
+[](http://www.thetend.com/sp/vid/124/cute-japanese-playing-with-her-dildo.php)
+
+[Cute japanese playing with her dildo ](http://www.thetend.com/sp/vid/124/cute-japanese-playing-with-her-dildo.php)
+
+(16034 views)
+
+| 
+
+[](http://www.thetend.com/sp/vid/123/asian-woman-sucks-and-gets-fucked!.php)
+
+[Asian woman sucks and gets fucked! ](http://www.thetend.com/sp/vid/123/asian-woman-sucks-and-gets-fucked!.php)
+
+(42565 views)  
+  
+[](http://www.thetend.com/sp/vid/122/thin-brunette-girl-gets-fucked-hard-from-behind-by-a-stranger-.php)
+
+[Thin brunette girl gets fucked hard from behind by a stranger ](http://www.thetend.com/sp/vid/122/thin-brunette-girl-gets-fucked-hard-from-behind-by-a-stranger-.php)
+
+(49603 views)
+
+| 
+
+[](http://www.thetend.com/sp/vid/118/this-young-asian-babe-is-so-sexy.php)
+
+[This young Asian babe is so sexy ](http://www.thetend.com/sp/vid/118/this-young-asian-babe-is-so-sexy.php)
+
+(73179 views)
+
+| 
+
+[](http://www.thetend.com/sp/vid/114/asian-erotica.php)
+
+[Asian Erotica ](http://www.thetend.com/sp/vid/114/asian-erotica.php)
+
+(23743 views)
+
+| 
+
+[](http://www.thetend.com/sp/vid/112/creampie-thai-teen-bitch.php)
+
+[Creampie thai Teen Bitch ](http://www.thetend.com/sp/vid/112/creampie-thai-teen-bitch.php)
+
+(20346 views)
+
+| 
+
+[](http://www.thetend.com/sp/vid/110/asian-office-lady-fuck.php)
+
+[Asian office lady fuck ](http://www.thetend.com/sp/vid/110/asian-office-lady-fuck.php)
+
+(88753 views)  
+  
+[](http://www.thetend.com/sp/vid/109/asian-chick-in-action.php)
+
+[Asian chick in action ](http://www.thetend.com/sp/vid/109/asian-chick-in-action.php)
+
+(62424 views)
+
+| 
+
+[](http://www.thetend.com/sp/vid/98/biggest-dick-ever-filmed-goes-inside-tiny-asian..php)
+
+[Biggest dick ever filmed goes inside tiny asian. ](http://www.thetend.com/sp/vid/98/biggest-dick-ever-filmed-goes-inside-tiny-asian..php)
+
+(99814 views)
+
+| 
+
+[](http://www.thetend.com/sp/vid/97/holy-shit!-your-wife-would-never-do-this!.php)
+
+[Holy Shit! Your Wife Would Never Do This! ](http://www.thetend.com/sp/vid/97/holy-shit!-your-wife-would-never-do-this!.php)
+
+(35935 views)
+
+| 
+
+[](http://www.thetend.com/sp/vid/96/warning:-very-brutal-threesome-fuck-video.php)
+
+[Warning: Very Brutal Threesome Fuck Video ](http://www.thetend.com/sp/vid/96/warning:-very-brutal-threesome-fuck-video.php)
+
+(75609 views)
+
+| 
+
+[](http://www.thetend.com/sp/vid/94/asian-cute-girl-want-to-have-sex-first-time.php)
+
+[Asian cute girl want to have sex first time ](http://www.thetend.com/sp/vid/94/asian-cute-girl-want-to-have-sex-first-time.php)
+
+(93089 views)  
+  
+[](http://www.thetend.com/sp/vid/90/glamour-blonde-stripping-masturbating-and-fucking.php)
+
+[Glamour blonde stripping masturbating and fucking ](http://www.thetend.com/sp/vid/90/glamour-blonde-stripping-masturbating-and-fucking.php)
+
+(53866 views)
+
+| 
+
+[](http://www.thetend.com/sp/vid/87/cute-virgin-teen-finally-decides-to-have-sex.php)
+
+[Cute virgin teen finally decides to have sex ](http://www.thetend.com/sp/vid/87/cute-virgin-teen-finally-decides-to-have-sex.php)
+
+(188056 views)
+
+| 
+
+[](http://www.thetend.com/sp/vid/80/schoolgirls-tricked-to-get-into-car-and-lose-their-virginity.php)
+
+[Schoolgirls tricked to get into car and lose their virginity ](http://www.thetend.com/sp/vid/80/schoolgirls-tricked-to-get-into-car-and-lose-their-virginity.php)
+
+(262982 views)
+
+| 
+
+[](http://www.thetend.com/sp/vid/78/hot-cocksucking-slut-gets-fucked-on-the-hood-of-a-car-in-public-.php)
+
+[Hot cocksucking slut gets fucked on the hood of a car in public ](http://www.thetend.com/sp/vid/78/hot-cocksucking-slut-gets-fucked-on-the-hood-of-a-car-in-public-.php)
+
+(194362 views)
+
+| 
+
+[](http://www.thetend.com/sp/vid/70/slutty-asian-teen-will-do-anything-for-her-man.php)
+
+[Slutty Asian Teen Will Do Anything For Her Man ](http://www.thetend.com/sp/vid/70/slutty-asian-teen-will-do-anything-for-her-man.php)
+
+(40727 views)  
+  
+[](http://www.thetend.com/sp/vid/64/japanese-student-rides-cock-then-finishes-him-off-with-her-hands.php)
+
+[Japanese student rides cock then finishes him off with her hands ](http://www.thetend.com/sp/vid/64/japanese-student-rides-cock-then-finishes-him-off-with-her-hands.php)
+
+(128501 views)
+
+| 
+
+[](http://www.thetend.com/sp/vid/59/it-guy-help-them-with-the-computer.php)
+
+[IT guy help them with the computer ](http://www.thetend.com/sp/vid/59/it-guy-help-them-with-the-computer.php)
+
+(9308 views)
+
+| 
+
+[](http://www.thetend.com/sp/vid/56/chinese-girls-soaking-wet-little-cunt.php)
+
+[Chinese Girls soaking wet little Cunt ](http://www.thetend.com/sp/vid/56/chinese-girls-soaking-wet-little-cunt.php)
+
+(77651 views)
+
+| 
+
+[](http://www.thetend.com/sp/vid/49/cute-asian-girl-gets-fucked-first-time.php)
+
+[Cute Asian Girl gets fucked first time ](http://www.thetend.com/sp/vid/49/cute-asian-girl-gets-fucked-first-time.php)
+
+(19304 views)
+
+| 
+
+[](http://www.thetend.com/sp/vid/44/cute-chinese-girl-want-to-get-fucked-first-time.php)
+
+[Cute chinese Girl want to get fucked first time ](http://www.thetend.com/sp/vid/44/cute-chinese-girl-want-to-get-fucked-first-time.php)
+
+(61756 views)  
+  
 This document details important information regarding the use and disclosure of User Data collected on TheTend.com 
 
 The security of your Data is very important to TheTend.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused. 
