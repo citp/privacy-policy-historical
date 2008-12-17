@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livestation.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628182126id_/http%3A//www.livestation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livestation.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063457id_/http%3A//www.livestation.com/privacy%3Ftracker%3Dfooter_menu) for the most accurate reproduction.*
 
 # Livestation | Livestation privacy policy | Download the free Livestation player
 
