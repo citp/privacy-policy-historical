@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the didigames.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527174636id_/http%3A//www.didigames.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the didigames.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217025910id_/http%3A//www.didigames.com/privacypolicy.php) for the most accurate reproduction.*
 
-# didigames.com privacy policy
+# didigames.com Privacy Policy & Terms of Use
+
+### Privacy Policy
 
 **Personal Information**  
-didigames.com is committed to protecting your privacy online. didigames.com does not collect any personal information. 
+[didigames.com](http://www.didigames.com/) is committed to protecting your privacy online. didigames.com does not collect any personal information.
 
 **IP address and logging**  
 Your IP address is used to gather broad demographic information and to track your general visiting paterns (how many pages you view while at one website, downloads, etc).
@@ -16,3 +18,29 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 **Liability**  
 It is didigames.com's policy to respond quickly to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, didigames.com will immediately disable and remove games in question.
+
+**External Links**  
+didigames.com site contains links to other sites. didigames.com is not responsible for the privacy practices or the content of such Web sites.
+
+  
+
+
+* * *
+
+###   
+Terms of Use
+
+When visiting didigames.com website and/or using its any software, game, you fully agree with it on its “Privacy Policy” and “Terms of Use” conditions. If you do not agree on any of these conditions, you are not allowed to use the website and or its services. didigames.com has the right to update and modify the policies any time. The visitors always should check the related pages to see updates.
+
+**Access Restrictions**  
+didigames.com website is suitable the visitors over 13 year age, the younger visitors are suggested to use its service and games together with their parents.
+
+**Proprietary Rights of the Games**  
+Most of the published games are submitted or suggested to us by their creators, proprietary rights owners. didigames.com can not confirm if they have respected the others intellectual properties or rights. Upon receiving notification in accordance with any related copyright organization or owner, didigames.com will immediately disable and remove games in question.
+
+**Outgoing and Incoming Links**  
+didigames.com does not accept any responsibility about the websites which are linking to our website and the outgoing links in the games published at the website.
+
+**Advertisements**  
+didigames.com does not accept any responsibility about the advertisements which are published at the website.  
+
