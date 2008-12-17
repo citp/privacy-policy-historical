@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xpressbet.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610132005id_/http%3A//www.xpressbet.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpressbet.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217100531id_/http%3A//www.xpressbet.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # XpressBet® Anytime....from Anywhere®
 
