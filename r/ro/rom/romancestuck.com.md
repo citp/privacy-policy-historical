@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the romancestuck.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612104347id_/http%3A//www.romancestuck.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romancestuck.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217123437id_/http%3A//www.romancestuck.com/privacy.htm) for the most accurate reproduction.*
 
 # RomanceStuck Privacy Policy
 
@@ -28,9 +28,5 @@ For specific privacy policies for other **RomanceStuck** services offered via ot
 
 If you have any questions, about this privacy statement, our online practices, or your dealings with our web sites, you can contact: [webmaster@romancestuck.com](http://www.romancestuck.com/contactus.php)
 
-* * *
-
-Link to this Page
-
-To link to this page, copy the following code to your site:  
-
+ [StumbleUpon](http://www.stumbleupon.com/submit?url=http://www.romancestuck.com/privacy.htm&title=Free%20Custommized%20Printable%20Heart%20Puzzles) |  |  [](http://www.digg.com/submit?phase=2&url=http://www.romancestuck.com/love-horoscope.htm) [Digg](http://www.digg.com/submit?phase=2&url=http://www.romancestuck.com/love-horoscope.htm) |  |  Email  |  |  Print  |  |  Bookmark |  |  [](http://www.romancestuck.com/phpBB/) [Discuss](http://www.romancestuck.com/phpBB/) |  |  [](http://www.romancestuck.com/submit-ideas.htm) [Submit your ideas](http://www.romancestuck.com/submit-ideas.htm)  
+---|---|---|---|---|---|---
