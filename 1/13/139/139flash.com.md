@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 139flash.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011021106id_/http%3A//www.139flash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 139flash.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061453id_/http%3A//www.139flash.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy -
 
@@ -55,4 +55,4 @@ c.| Respond more than once directly to a specific request from a child (such as 
 7.| We encourage children to get their parent's permission before sharing personal information online.  
   
  **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: webmaster@139flash.com 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: webmaster@96flash.com 
