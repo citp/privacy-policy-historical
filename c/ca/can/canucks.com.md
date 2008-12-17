@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canucks.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627195710id_/http%3A//canucks.nhl.com/team/app/%3Fservice%3Dpage%26page%3DNHLPage%26bcid%3D181) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canucks.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060815id_/http%3A//canucks.nhl.com/team/app/%3Fservice%3Dpage%26page%3DNHLPage%26bcid%3D181) for the most accurate reproduction.*
 
 # Vancouver Canucks - Vancouver Canucks Privacy Policy
 
