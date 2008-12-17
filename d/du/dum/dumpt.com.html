@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dumpt.com privacy policy that was archived on 2008-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080503163915id_/http%3A//www.dumpt.com/img/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dumpt.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217025210id_/http%3A//www.dumpt.com/img/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
     <title>Dumpt - Image Host</title>
@@ -7,11 +7,41 @@
     <meta name="description" content="Host your images easily and for free at Dumpt.">
     <meta name="keywords" content="image hosting, image hosting service, multiple image hosting, unlimited bandwidth, quick image hosting">
     <meta name="robots" content="index,follow">
-<script src="/mint/?js" type="text/javascript"></script><script type="text/javascript" src="https://web.archive.org/web/20080915022638/http://www.comics.org/mint/?record&amp;key=39393555713542346a526c59614e4672343178704f534b55323231&amp;referer=&amp;resource=https%3A//web.archive.org/web/20080503163915id_/http%253A//www.dumpt.com/img/info.php%253Fact%253Dprivacy_policy&amp;resource_title=Dumpt%20-%20Image%20Host&amp;resource_title_encoded=0&amp;1580373031576&amp;serve_js"></script>
+<script src="/mint/?js" type="text/javascript"></script><script type="text/javascript" src="https://web.archive.org/web/20080915022638/http://www.comics.org/mint/?record&amp;key=39393555713542346a526c59614e4672343178704f534b55323231&amp;referer=&amp;resource=https%3A//web.archive.org/web/20081217025210id_/http%253A//www.dumpt.com/img/info.php%253Fact%253Dprivacy_policy&amp;resource_title=Dumpt%20-%20Image%20Host&amp;resource_title_encoded=0&amp;1580373029547&amp;serve_js"></script>
     <base href="http://www.dumpt.com/img/">
     <link rel="stylesheet" href="css/style.css" type="text/css">
     <link rel="shortcut icon" href="css/favicon.ico">
     <script type="text/javascript" src="source/javascript.js"></script>
+
+<script language="Javascript"><!--
+
+var isNS = (navigator.appName == "Netscape") ? 1 : 0;
+var EnableRightClick = 0;
+if(isNS) 
+document.captureEvents(Event.MOUSEDOWN||Event.MOUSEUP);
+function mischandler(){
+  if(EnableRightClick==1){ return true; }
+  else {return false; }
+}
+function mousehandler(e){
+  if(EnableRightClick==1){ return true; }
+  var myevent = (isNS) ? e : event;
+  var eventbutton = (isNS) ? myevent.which : myevent.button;
+  if((eventbutton==2)||(eventbutton==3)) return false;
+}
+function keyhandler(e) {
+  var myevent = (isNS) ? e : window.event;
+  if (myevent.keyCode==96)
+    EnableRightClick = 1;
+  return;
+}
+document.oncontextmenu = mischandler;
+document.onkeypress = keyhandler;
+document.onmousedown = mousehandler;
+document.onmouseup = mousehandler;
+//-->
+</script>
+
   </head>
   <body leftmargin="0" rightmargin="0" topmargin="0" marginwidth="0" marginheight="0">
   <div class="page_cell">
@@ -23,9 +53,10 @@
          <a href="index.php">Home</a>
          <a href="../advanced.php">Advanced</a>
          <a href="info.php?act=about_us">About</a>
-         <a href="gallery.php">Gallery</a>
+         <!-- <a href="gallery.php">Gallery</a> -->
          <a href="tools.php">Embed Tool</a>
          <a href="contact.php?act=file_report">Report Image</a>
+         <a href="http://www.mirrorafile.com/"><font color="#FF0000">Upload File</font></a>
          <a href="http://www.clipupload.com/">Upload Video</a>
          <a href="users.php?act=login">Login</a>
          <a href="users.php?act=register">Register</a>
@@ -71,6 +102,16 @@ Dumpt policy is to respect and protect the privacy of our users. Dumpt will not 
 </td></tr></tbody></table>
 
      </div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5438247-12");
+pageTracker._trackPageview();
+</script>
+
   
 
 </body></html>
