@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knitpicks.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527211644id_/http%3A//www.knitpicks.com/help/index.php/cat/terms-of-use/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knitpicks.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217092500id_/http%3A//www.knitpicks.com/help/index.php/archive/privacy-policy) for the most accurate reproduction.*
 
 # Knit Picks Customer Service » Privacy Policy
 
@@ -27,7 +27,7 @@ or register for our weekly drawing, we assume you would not mind receiving addit
 offers from our company both in the mail and online. If you wish to be removed from  
 either our postal mailing address list or our e-mail address list you can contact  
 us via e-mail at CustomerService@KnitPicks.com or call us at (800) 574-1323 (U.S.  
-and Canada), Monday through Friday 5:00 AM - 6:00 PM PT or Saturday 6:00 AM - 5:00  
+and Canada), Monday through Friday 5:00 AM - 6:00 PM PT or Saturday 6:00 AM - 3:00  
 PM PT. Outside the U.S. and Canada you can reach us at (360) 260-8900 x105 Monday  
 through Friday 9:00 AM to 4:30 PM PT. Or feel free to write us at Knit Picks, PO Box  
 870760 Vancouver Wa 98684-7760. 
