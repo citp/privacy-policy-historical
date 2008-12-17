@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonniercorp.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622013340id_/http%3A//www.bonniercorp.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonniercorp.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021158id_/http%3A//bonniercorp.com/privacy_policy.html) for the most accurate reproduction.*
 
 # BONNIER CORPORATION
 
