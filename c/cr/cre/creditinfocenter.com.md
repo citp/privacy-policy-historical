@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditinfocenter.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609200932id_/http%3A//www.creditinfocenter.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditinfocenter.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217104243id_/http%3A//www.creditinfocenter.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy/Acceptable Use Policy - creditinfocenter.com
 
@@ -32,3 +32,8 @@ Web Nation, Inc. does not use cookies on this site.
 **Changes to this privacy policy**
 
 Web Nation, Inc. may edit this policy from time to time. If we make any substantial changes we will notify you by posting a prominent announcement on our pages.
+
+**Do you have a question you feel we haven't answered?**  
+For a small fee, [you can talk to a counselor on the phone](http://www.creditinfocenter.com/misc/ConsultWithTheExpert.php) or [Buy the Book!](http://www.creditinfocenter.com/Books/)
+
+» 
