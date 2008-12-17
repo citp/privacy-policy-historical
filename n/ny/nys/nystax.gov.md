@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nystax.gov privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612045547id_/http%3A//www.nystax.gov/nyshome/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nystax.gov privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080058id_/http%3A//www.nystax.gov/nyshome/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -78,7 +78,17 @@ DTF is committed to protecting personal information collected through this Web s
 
 In addition, DTF has implemented procedures to safeguard the integrity of its information technology assets including, but not limited to, authentication, monitoring, auditing, and encryption. These security procedures have been integrated into the design, implementation, and day-to-day operations of this Web site as part of our continuing commitment to the security of electronic content as well as the electronic transmission of information. 
 
-For Web site security purposes and to maintain the availability of the Web site for all users, DTF employs software to monitor traffic to identify unauthorized attempts to upload or change information or otherwise damage this Web site. For additional information concerning Security at DTF’s Web site, see DTF’s [Security page](https://web.archive.org/web/20080612045547id_/http%3A//www.nystax.gov/nyshome/securesite.htm). 
+For Web site security purposes and to maintain the availability of the Web site for all users, DTF employs software to monitor traffic to identify unauthorized attempts to upload or change information or otherwise damage this Web site. For additional information concerning Security at DTF’s Web site, see DTF’s [Security page](https://web.archive.org/web/20081217080058id_/http%3A//www.nystax.gov/nyshome/securesite.htm). 
+
+### Privacy Act Notification
+
+The Commissioner of Taxation and Finance may collect and maintain personal information pursuant to the New York State Tax Law, including but not limited to, sections 5-a, 171, 171‑a, 287, 308, 429, 475, 505, 697, 1096, 1142, and 1415 of that Law; and may require disclosure of social security numbers pursuant to 42 USC 405(c)(2)(C)(i).
+
+This information will be used to determine and administer tax liabilities and, when authorized by law, for certain tax offset and exchange of tax information programs as well as for any other lawful purpose.
+
+Information concerning quarterly wages paid to employees is provided to certain state agencies for purposes of fraud prevention, support enforcement, evaluation of the effectiveness of certain employment and training programs and other purposes authorized by law.
+
+Failure to provide the required information may subject you to civil or criminal penalties, or both, under the Tax Law.
 
 ### Disclaimer
 
@@ -91,4 +101,4 @@ The information provided in this privacy policy should not be construed as givin
 
 * * *
 
-Last Modified:  September 26, 2007
+Last Modified:  September 19, 2008
