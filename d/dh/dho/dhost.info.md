@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhost.info privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203092627id_/http%3A//dhost.info/content/view/17/30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhost.info privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217084123id_/http%3A//dhost.info/content/view/17/30) for the most accurate reproduction.*
 
 # DeluXe Host - 100MB Free Webspace - Privacy Policy
 
@@ -9,13 +9,14 @@ Note: the privacy practices set forth in this privacy policy are for this web si
 **Collection of Information**  
 We collect personally identifiable information, like usernames, IP addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill you specific request. This information is only used to fulfill your specific request!
 
- **Cookie/Tracking Technology**  
+**Cookie/Tracking Technology**  
 The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties. 
 
 **Distribution of Information**  
 We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes. 
 
-**Commitment to Data Security** Your personally identifiable information is kept secure. Only authorized employees (who have agreed to keep information secure and confidential) have access to this information. 
+**Commitment to Data Security**  
+Your personally identifiable information is kept secure. Only authorized employees (who have agreed to keep information secure and confidential) have access to this information. 
 
 **Privacy Contact Information**  
 If you have any questions, concerns, or comments about our privacy policy you may contact us
