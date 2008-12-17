@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myemoticons.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530104110id_/http%3A//www.myemoticons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myemoticons.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217073930id_/http%3A//www.myemoticons.com/privacy-policy) for the most accurate reproduction.*
 
 # My Emoticons | Privacy Policy
 
