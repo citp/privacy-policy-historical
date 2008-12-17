@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acidfonts.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626075958id_/http%3A//www.acidfonts.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acidfonts.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217145934id_/http%3A//www.acidfonts.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement - free fonts download at Acidfonts - Acid Fonts
 
