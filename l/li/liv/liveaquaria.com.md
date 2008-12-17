@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveaquaria.com privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409201804id_/http%3A//www.liveaquaria.com/general/general.cfm%3Fgeneral_pagesid%3D36%26ref%3D3319%26subref%3DAN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveaquaria.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217104525id_/http%3A//www.liveaquaria.com/general/general.cfm%3Fgeneral_pagesid%3D36) for the most accurate reproduction.*
 
 # Privacy Policy - Security
 
@@ -20,19 +20,11 @@ The information you supply is protected by your personal Password, along with yo
 [Back to top]
 
 **E-mail**  
-We believe that your e-mail address is private information and you have our assurance that we do not rent or sell your e-mail address to anyone. We use your email address to send you order-related emails, like shipping confirmations, as well as informational/sale newsletters. 
+We believe that your email address is private information and you have our assurance that we do not rent or sell your email address to anyone. We use your email address to send you order-related emails, like shipping confirmations, as well as informational/sale newsletters. 
 
-_We will always try to contact you by phone if we have a question about an order you placed. If we are unable to reach you by phone, we may also try to contact you by e-mail._
+_We will always try to contact you by phone if we have a question about an order you placed. If we are unable to reach you by phone, we may also try to contact you by email._
 
-There are basically three ways to get on Drs. Foster & Smith's email subscription list: 
-
-  1. **Subscribe Online** & we'll send you the newsletters you sign up for. 
-  2. **Request a Print Catalog Online or by Phone** & we'll automatically sign you up for related pet emails using the address you provide. 
-  3. **Make a Purchase Online or by Phone** & we'll automatically sign you up for related pet emails using the same address you provide for shipping confirmation.
-
-
-
-Every purchase qualifies you for additional newsletter subscriptions, whether you are a new or existing subscriber. You may opt out at any time from any or ALL newsletters in the series, either online or by using the links provided in every newsletter issue. 
+You may opt out at any time from any or ALL newsletters in the series, either online or by using the links provided in every newsletter issue. 
 
 [Back to top]
 
