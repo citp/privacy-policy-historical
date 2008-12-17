@@ -1,85 +1,79 @@
-> *The following text is extracted and transformed from the clips.com privacy policy that was archived on 2000-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001210164300id_/http%3A//www.clip2.com/privacy.jsp%3FdefeatCache%3D950) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clips.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217141035id_/http%3A//www.clips.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Clip2.com Privacy Policy
+# Privacy Policy - Clips.com
 
-**Clip2 Privacy Policy**
+## Clips.com Privacy Policy
 
-This confirms that Clip2.com, Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [http://www.clip2.com](http://www.clip2.com/) ("Clip2").
+At clips.com we're committed to our customers' privacy and have made this a high priority. Because of this, we've taken every precaution to eliminate the loss and dissemination of any and all sensitive and personal information. Using the best and most-up-to-date security software on the market, we ensure that customers' transactions and data stay with us.
 
-[ ](https://www.truste.org/validate/3202)
+We will neither sell, exchange or otherwise benefit from the information a customer provides on the website.
 
- Click to verify!
+Customers needn't worry about security issues, as our network and proprietary software architecture are PCI (Payment Card Industry) compliant. Using the PCI Data Security Standard as its framework, CISP (Cardholder Information Security Program) provides the tools and measurements needed to protect against cardholder data exposure and compromise across the entire payment industry. 
 
-TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this Web site has agreed to notify you of 
+ScanAlert, a program that acts like a hacker, probing for all known ways to break into servers, polices our LAN (Local Area Network) for being hacker-proof. In this way, hackers are stopped even before they get started. Verisign provides us with 128-bit encryption protocol with secure keys, which further ensures our customers against hackers and tampering. Our site's certification can be verified by clicking on the HackerSafe banner, which is placed at the bottom of every page.
 
-  1. What personally identifiable information of yours is collected from you through the Web site 
-  2. The organization collecting the information 
-  3. How the information is used 
-  4. With whom the information may be shared 
-  5. What choices are available to you regarding collection, use and distribution of the information 
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Clip2.com, Inc. control 
-  7. How you can correct any inaccuracies in the information. 
+What This Privacy Policy Covers
 
-If you feel that this company is not abiding by its posted privacy policy, you should first contact Clip2 by email at [privacy@clip2.com](mailto:privacy@clip2.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [http://www.truste.org](http://www.truste.org/). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+  * This policy covers how Clips.com treats personal information that Clips.com collects and receives, including information related to your past use of Clips.com products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
+  * This policy does not apply to the practices of companies that Clips.com does not own or control, or to people that Clips.com does not employ or manage. In addition, some companies that Clips.com has acquired have their own, preexisting privacy policies which may be viewed on by contacting the individual companies.
 
-* * *
 
-  
-**Information Collection and Use**
 
-Clip2.com, Inc. is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways other than those disclosed in this statement. Clip2.com, Inc. collects information from our users at several different points on our Web site. 
+Information Collection and Use
 
-**Registration**
+General
 
-In order to use some features of this Web site, a user must first complete the registration form. During registration a user is required to give contact information (first and last name and email address). This information is used to contact the user regarding their account, such as when the user has forgotten his password. It is optional for the user to provide demographic information (such as postal code and gender), but this information helps Clip2.com, Inc. better understand the characteristics of its registered users, and this understanding aids Clip2.com, Inc. in delivering better service. As described below, this information may be shared in aggregate form with our partners and advertisers, but never in a way that is linked to an individual person. 
+  * Clips.com collects personal information when you register with Clips.com, when you use Clips.com products or services, and when you visit Clips.com pages or the pages of certain Clips.com partners.
+  * When you register we ask for information such as your name, email address, birth date, and address. When you register with Clips.com and sign in to our services, you are not anonymous to us.
+  * Clips.com automatically receives and records information from your computer and browser, including your IP address, Clips.com information, software and hardware attributes, and the page you request..
+  * Clips.com uses information for the following general purposes: fulfill your requests for products and services, improve our services, contact you, provide anonymous reporting for internal uses. 
 
-**Cookies**
 
-Cookies are data placed on a user’s computer by a Web site. Most browsers enable the user to decide whether or not s/he wants to allow Web sites to place cookies on his/her computer. To use most features of Clip2, the user's browser must be set to accept cookies. Clip2 may store two forms of cookies on a user's computer: an "auto-login" cookie and a "session" cookie. The auto-login cookie is necessary to enable the user to bypass the manual login process on return visits to Clip2, and it contains information necessary to complete the login. This cookie is persistent and remains on your computer until you delete it. This cookie is only placed on computers of registered users who have logged in to Clip2. This cookie contains personally identifiable information. The session cookie enables Clip2 to recognize that a given series of interactions originate from the same user and therefore constitute a session. This cookie is transient and is deleted when you close your browser. This cookie is placed on computers of all visitors to Clip2 who request pages with the filename extension JSP, and it does not contain personally identifiable information. 
 
-**Log Files**
+Children
 
-Clip2.com, Inc. uses IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. We track usage of links that point off of our site but we do not correlate this tracking with personally identifiable information. 
+  * Children under the age of 18 are not permitted to purchase any products or make use of any services on Clips.com. 
+  * Clips.com does not contact children under age 18 about special offers or for marketing purposes. 
+  * Clips.com works with Child Protection Agencies to help maintain a safe internet environment for children. If you are interested in learning how to protect your child's on-line usage, please visit [The Association of Sites Advocating Child Protection](http://www.asacp.org/)
 
-**Sharing**
 
-Clip2.com, Inc. may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. 
 
-**Links**
+Information Sharing and Disclosure
 
-This Web site contains links to other sites. Please be aware that Clip2.com, Inc. is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+  * Clips.com does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
+    * We provide the information to trusted partners who work on behalf of or with Clips.com under confidentiality agreements. These companies may use your personal information to help Clips.com communicate with you about offers from Clips.com and our marketing partners. However, these companies do not have any independent right to share this information. 
+    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Clips.com's terms of use, or as otherwise required by law. 
+    * We transfer information about you if Clips.com is acquired by or merged with another company. In this event, Clips.com will notify you before information about you is transferred and becomes subject to a different privacy policy. 
 
-**Tell-A-Friend**
 
-If a user elects to use our referral service for informing a friend about guides or links on our site, we ask them for the friend’s email address. Clip2.com, Inc. will automatically send the friend a one-time email inviting them to visit the site. We do not store the friend's information for further use. 
 
-**Special Offers**
+Cookies
 
-Clip2.com, Inc. sends all new members a welcoming email to verify password and username. Established members will occasionally receive our newsletter and offers from Clip2.com, Inc. partners. Out of respect for the privacy of our users we present the option to decline these types of communications. Please see the choice/opt-out section below. 
+  * Clips.com may set and access Clips.com cookies on your computer for the purpose of providing you services and products you request. 
 
-**Site and Service Updates**
 
-Clip2.com, Inc. also sends the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email. 
 
-**Correction/Updating Personal Information**
+Your Ability to Edit and Delete Your Account Information and Preferences
 
-If a user’s personally identifiable information changes or if a user no longer desires our service, Clip2.com, Inc. will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can be done by visiting the preferences link off of the account page or by emailing our Customer Service at [service@clip2.com](mailto:service@clip2.com). 
+General
 
-**Choice/Opt-out**
+  * You can edit your Clips.com Account Information, at any time. 
+  * We reserve the right to send you certain communications relating to the Clips.com service, such as service announcements, administrative messages and the Clips.com Newsletter, that are considered part of your Clips.com account, without offering you the opportunity to opt out of receiving them. 
+  * You can delete your Clips.com account by emailing an account deletion request to [Clips.com Customer Support](https://web.archive.org/web/20081217141035id_/http%3A//www.clips.com/contact.php).
 
-Users who no longer wish to receive our newsletter or offers from our partners may opt-out of receiving these communications by visiting the preferences link off of the account page and specifying the appropriate settings. 
 
-**Notification of Changes**
 
-If at any point Clip2.com, Inc. decides to use personally identifiable information in a manner other than that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+Confidentiality and Security 
 
-**Contacting the Web Site**
+  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
+  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
 
-If you have any questions about this privacy statement, the practices of this site or your dealings with this Web site, please contact: 
 
-Privacy Contact  
-Clip2.com, Inc.  
-3145-C Porter Drive  
-Palo Alto, CA 94304  
-[privacy@clip2.com](https://web.archive.org/web/20001210164300id_/http%3A//www.clip2.com/privacy@clip2.com) 
+
+Email
+
+  * We reserve the right to send you certain communications relating to the Clips.com service, such as service announcements, administrative messages and the Clips.com Newsletter, that are considered part of your Clips.com account, without offering you the opportunity to opt out of receiving them. 
+  * Clips.com allows you to opt-in to mailing lists of Clips.com. We do not sell or provide your email information to any 3rd parties, unless directed by you to do so.
+
 
