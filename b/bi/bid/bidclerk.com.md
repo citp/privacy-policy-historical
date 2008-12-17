@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bidclerk.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216185212id_/http%3A//www.bidclerk.com/content/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidclerk.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217141400id_/http%3A//www.bidclerk.com/content/privacy.jsp) for the most accurate reproduction.*
 
-# BidClerk - Privacy Policy
+# Construction Leads for 1000's of U.S. Projects - Updated Daily
 
 Privacy Policy
 
@@ -29,7 +29,7 @@ Order We request information from the user on our order form. A user must provid
 
 Information Use
 
-BidClerk.com uses your information to provide you with the best experience when using the site. Content may be personalized to meet your individual viewing needs. Information is used to ensure that the terms and conditions are abided by. The site does include some adult content and the age of the user during registration is used to block such content. BidClerk.com will also occasionally market various products and services.
+BidClerk.com uses your information to provide you with the best experience when using the site. Content may be personalized to meet your individual viewing needs. Information is used to ensure that the terms and conditions are abided by. BidClerk.com will also occasionally market various products and services.
 
 Profile
 
@@ -113,7 +113,7 @@ the user may contact us at 312.423.3900
 -or-  
 [support@bidclerk.com](mailto:support@bidclerk.com)  
 -or-  
-at: 111 W. Washington Street Suite 450 Chicago, IL. 60602 to opt-out.
+at: 28 N. Clark St. Suite 450, Chicago, IL 60602 to opt-out.
 
 The most immediate method email us at [remove@bidclerk.com](mailto:remove@bidclerk.com?subject=Remove). Please remove to include the email address or contact number that you would like to have removed.
 
@@ -155,8 +155,8 @@ If users have any questions or suggestions regarding our privacy policy, please 
 Phone 312-423-3900  
 Fax 312-423-7729  
 Email [support@bidclerk.com](mailto:support@bidclerk.com)  
-Postal Address: 111 W. Washington Street Suite 450  
-Chicago, IL. 60602  
+Postal Address: 28 N. Clark St. Suite 450  
+Chicago, IL 60602  
 Attn: BidClerk Customer Support  
 Support Department ([support@bidclerk.com](mailto:support@bidclerk.com))  
-or <http://www.bidclerk.com/content/contactus.jsp>
+or <http://www.bidclerk.com/contact-us.html>
