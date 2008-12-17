@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marvel.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615001746id_/http%3A//www.marvel.com/company/index.htm%3Fsub%3Dprivacy_current.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marvel.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217033924id_/http%3A//www.marvel.com/company/index.htm%3Fsub%3Dprivacy_current.htm) for the most accurate reproduction.*
 
-# 
+# Marvel.com Help Page | Login, Comic Subscriptions, Registration Questions
 
 Last Updated: December 19, 2007
 
