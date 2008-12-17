@@ -1,41 +1,77 @@
-> *The following text is extracted and transformed from the dateacougar.com privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412193208id_/http%3A//www.dateacougar.com/%3Fs%3Dprivacy_pol) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dateacougar.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063508id_/http%3A//www.dateacougar.com/%3Fs%3Dprivacy_pol) for the most accurate reproduction.*
 
 # Date a Cougar, Cougar Dating, Dating older women, dating mature ladies @ DateACougar.com!
 
-> Privacy Policy Statement
+**Privacy Policy**   
+
+
+dateacougar (the "Site") is licensed to **First Beat Media Inc.**
+
+Our postal address is   
+5722 S Flamingo Road  
+Cooper City, FL 33330
+
+We can be reached via e-mail at information ( at ) firstbeatmedia dot com
+
+This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscriber and members of this Site. This is an online Site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site. 
+
+This Site does not knowingly seek or collect any personal information or data from persons under the age of 18. 
+
+Notice - Use of Website by the Subscriber Constitutes the Subscriber's Express Assent to the Use of Personal Information Collected by Site. 
+
+**CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS POLICY STATEMENT.**
+
+ ****
+
+**IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE**
+
+**_What Information About Subscribers is Collected?_**
+
+> When any consumer signs-on as a member or subscriber of this Site that consumer will be required to provide certain personal as well as demographic information which may include, but is not necessarily limited to, the subscriber's name, address, birthday, e-mail address, gender, marital status, occupation, education, credit card number and expiration date of the credit card, username and password, and special interests or affiliations. This Site collects any and all such information and includes it in its customer database. 
 > 
-> **Our Commitment To Privacy**
+> If the Site features or conducts any special events, special promotions or offers, contests or polls, a subscriber of the Site may be asked to provide information in order to participate, if the subscriber voluntarily provides that information, all such information may be collected by the Site and included in its customer database. 
 > 
-> Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+> When a subscriber of this Site requests web pages from the Site's server or clicks on banners or other hypertext links, the Site will automatically collect some information or data about the subscriber, including the subscriber's IP address, the information that is collected may also indicate any special preferences or requests of the subscriber; all that information and data will be collected by the Site and included in its customer database. 
 > 
-> **The Information We Collect:** This notice applies to all information collected or submitted on website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+> If a subscriber sends any personal communication or correspondence, by any means, to the Site, or any of its employees, agents or representatives, the Site may collect any information regarding that communication and include that information in its customer database. 
 > 
-> Name:  
->  Email address:   
->  Address:   
->  City:   
->  State:   
->  Country:   
->  Zip:   
->  Username:  
->  Password: 
+> The Site may also automatically collect traffic and click-through data as well as information regarding the online behavior of subscribers by the use of "cookies" or other programming means - any information about subscribers collected by the Site through the use of cookies or other programming means may be included in its customer database. 
 > 
-> **The Way We Use Information:**
+> You may obtain further information about "cookies" and how they function at: <http://www.cookiecentral.com/>.
+
+**_Use of Personal Subscriber Information._**
+
+> The subscriber expressly agrees that the Site may use any personal information that has been provided by the subscriber or that has been collected by the Site about the subscriber for any purpose, including without limitation, technical, administration, research and development, customer administration, marketing, age verification, promotional and advertising use by the Site or third parties authorized to use the information by the Site. We do not rent, sell, or share your email address with outside parties. 
 > 
-> We use the username and password information to pass that info onto the specified processor to help speed up the transaction process. Your email address is stored securely, and only used if you specify in your [Settings](http://www.dateacougar.com/?s=settings) that you wish to receive emails from us or our promotional partners. 
+> By the subscriber's use of the Site, the subscriber expressly agrees that the Site may use any of the personal information about subscribers that it has gathered or collected to provide them with offers to other sites or products that may or may not be of interest. 
 > 
-> **Our Commitment To Data Security:**
+> Please note that personal information about a subscriber may be collected by a third-party web service provider that has an advertising banner or link on the Site. 
 > 
-> To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+> The Site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party web sites that have banner ads or links on the Site. This Site does not control, monitor or endorse the information gathering practices or Privacy Policies of any of those third-party web sites.
 > 
-> **How You Can Access Or Correct Your Information:**
+> Whenever applicable, each subscriber should seek to read the Privacy Policy of any third-party web site provider that has an advertising banner, advertises or has a link on the Site.
 > 
-> You can access all your personally identifiable information that we collect online and maintain by checking your [ or by ](http://www.dateacougar.com/?s=settings)[Contacting Us](http://www.dateacougar.com/?s=contact). We use this procedure to better safeguard your information. 
+> Security of Personal Information Collected by the Site.
 > 
-> You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+> Consistent with the Policies set forth in this Privacy Statement, the Site has adopted and implemented reasonable and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to subscribers that is collected by the Site. 
 > 
-> To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+> All subscribers should consider any information provided to or collected by the Site as non-confidential, and consequently the Site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient.
+
+**_"OPT-IN" and "OPT-OUT" Provisions._**
+
+> There may be occasions when a subscriber will be presented with special offers either from the operators of the Site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers"). 
 > 
-> **How To Contact Us:**
+> **" OPT-IN"** \-- Some Offers may be presented to the subscriber with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes" the subscriber indicates that the subscriber "OPTS-IN" to that Offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties. 
 > 
-> Should you have other questions or concerns about these privacy policies, please [Contact Us](http://www.dateacougar.com/?s=contact). 
+> **" OPT-OUT"** \-- Other Offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the Offer) then the Site may transfer the subscriber's personal profile information to the third-party service or content provider making the Offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
+
+_**"OPT-OUT" Revocation Procedure.**_
+
+> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](http://www.dateacougar.com/?s=settings&p=2) and deselecting "I want to be informed of promotional offers".
+
+_**Terms and Conditions of Membership.**_
+
+> Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this Site to use information that it has gathered from subscribers.
+> 
+> In the event of any conflicts between the [Membership Terms the Conditions](http://www.dateacougar.com/?s=tos) and this Privacy Policy Statement, the provisions of this Privacy Policy shall control.  
+> 
