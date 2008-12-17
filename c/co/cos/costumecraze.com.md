@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costumecraze.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516085217id_/http%3A//www.costumecraze.com/_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumecraze.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217022114id_/http%3A//www.costumecraze.com/_privacy.html) for the most accurate reproduction.*
 
 # Costume Craze Privacy Policy
 
@@ -24,7 +24,7 @@ Questions? Comments? We'd love to hear from you!
 
 ## Email: 
 
-[feedback@costumecraze.com](mailto:feedback@costumecraze.com)
+[support@costumecraze.com](mailto:support@costumecraze.com)
 
 ## Phone: 
 
