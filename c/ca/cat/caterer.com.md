@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caterer.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509074103id_/http%3A//www.caterer.com/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caterer.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217093634id_/http%3A//www.caterer.com/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Caterer.com - Privacy Policy
 
@@ -40,7 +40,7 @@ You have the option to decline or accept these cookies, but if you decline you w
 
 **Accept cookie       Decline cookie**
 
-In addition, the third party companies who sell and provide advertisements to the site, and host our contacts database, make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of web sites in general, please visit the websites of our third party suppliers: [Adtech](http://www.adtech.info/en/cookie_opt-out.html), [Emediate](http://www.emediate.dk/privacy.html) and [DoubleClick](http://www.doubleclick.com/us/about_doubleclick/privacy/). 
+In addition, the third party companies who sell and provide advertisements to the site, and host our contacts database, make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of web sites in general, please visit the websites of our third party suppliers: [Adtech](https://web.archive.org/pgl/Redirect.aspx?page=http://www.adtech.info/en/cookie_opt-out.html), [Atlas](https://web.archive.org/pgl/Redirect.aspx?page=http://www.atlassolutions.com/privacy.aspx), [Emediate](https://web.archive.org/pgl/Redirect.aspx?page=http://www.emediate.dk/privacy.html), [Webtrends](https://web.archive.org/pgl/Redirect.aspx?page=https://ondemand.webtrends.com/privacypolicy.asp) and [Epsilon](https://web.archive.org/pgl/Redirect.aspx?page=http://www.epsilon.com/privacy.html). 
 
 ### Statistical information
 
