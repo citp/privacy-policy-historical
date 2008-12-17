@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the germanwings.com privacy policy that was archived on 2008-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080524055150id_/http%3A//germanwings.com/en/Privacy-Policy-Data-Protection-Declaration.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the germanwings.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217073607id_/http%3A//www21.germanwings.com/en/Privacy-Policy-Data-Protection-Declaration.htm) for the most accurate reproduction.*
 
 # Privacy Policy: Data Protection Declaration, Personal Data, Use of Cookies
 
