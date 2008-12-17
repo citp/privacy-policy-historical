@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melbourneit.com.au privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619021112id_/http%3A//www3.melbourneit.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbourneit.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062449id_/http%3A//www.melbourneit.com.au/privacy) for the most accurate reproduction.*
 
 # Melbourne IT
 
