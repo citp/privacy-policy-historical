@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebaybanned.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609160336id_/http%3A//ebaybanned.com/privacy.php%3FosCsid%3De23863a60c86f25afc5aaa6329f11bdb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebaybanned.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217121432id_/http%3A//ebaybanned.com/privacy.php%3FosCsid%3D90e7b3dfb999024c1fbf942c7490ca99) for the most accurate reproduction.*
 
 # Ebaybanned.com AEG Parts & Combat Gear
 
