@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectpayday.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602092649id_/http%3A//www.projectpayday.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectpayday.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035824id_/http%3A//projectpayday.com/privacy.cgi) for the most accurate reproduction.*
 
 # Project Payday Privacy Policy
 
@@ -73,7 +73,7 @@ Project Payday provides every user with the opportunity to opt-out of receiving 
 
 1\. Email: [support@projectpayday.com](mailto:support@projectpayday.com)  
 2\. Website: [http://www.projectpayday.com/cancel.cgi](https://web.archive.org/cancel.cgi)  
-3\. Postal Mail: 381 Casa Linda Plaza #102, Dallas, TX 75218
+3\. Postal Mail: 1675 Larimer St, Suite 640, Denver CO 80202
 
 **_What happens if there is a transfer of Project Payday's business?_**
 
@@ -99,4 +99,4 @@ By using this website, you consent to the collection and use of the information 
 
 If you have any questions about this Privacy Policy statement, the privacy-related practices of this website, or your dealings with this website, please contact us via one of the methods above for immediate assistance.
 
-This Privacy Policy was last updated December 15th, 2006.
+This Privacy Policy was last updated November 14th, 2008.
