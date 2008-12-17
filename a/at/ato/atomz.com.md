@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atomz.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512150057id_/http%3A//www.atomz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomz.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218002645id_/http%3A//www.atomz.com/privacy.html) for the most accurate reproduction.*
 
 # Atomz Privacy Policy
 
