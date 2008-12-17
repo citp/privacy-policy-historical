@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the bhg.com privacy policy that was archived on 2007-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070826143540id_/http%3A//www.bhg.com/bhg/file.jsp%3Fitem%3D/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhg.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217012100id_/http%3A//bhg.com/bhg/file.jsp%3Fitem%3D/legal/privacy) for the most accurate reproduction.*
 
 # Better Homes & Gardens Online
 
   * Online Privacy Policy
-  * [Offline Privacy Policy](https://secure.meredith.com/privacy/policy.html)
+  * [Offline Privacy Policy](http://www.bhg.com/bhg/file.jsp?item=/privacy/policy)
   * [Visitor Agreement](http://bhg.com/bhg/file.jhtml?item=/legal/terms&temp=no)
   * Your California Privacy Rights
   * Meredith Corporation "Shine the Light" Customer Notice
@@ -12,7 +12,7 @@
 
 ## ONLINE PRIVACY POLICY
 
-Welcome to our website! BHG.com is a service provided by Meredith Corporation ("Meredith," "we" or "us"). Since 1902, Meredith has been committed to providing our customers with products and services characterized by outstanding quality, customer service and value. Our Online Privacy Policy continues our commitment to serve you and to protect your privacy online. Please [click here](https://secure.meredith.com/privacy/policy.html) to see our Offline Privacy Policy.
+Welcome to our website! BHG.com is a service provided by Meredith Corporation ("Meredith," "we" or "us"). Since 1902, Meredith has been committed to providing our customers with products and services characterized by outstanding quality, customer service and value. Our Online Privacy Policy continues our commitment to serve you and to protect your privacy online. Please [click here](http://www.bhg.com/bhg/file.jsp?item=/privacy/policy) to see our Offline Privacy Policy.
 
 By visiting any of our sites, you agree that your visit, and any dispute over privacy, is governed by this Online Privacy Policy and our [Visitor Agreement](http://bhg.com/bhg/file.jhtml?item=/legal/terms&temp=no). Please take a few minutes to read them before using or registering with any of our sites.
 
