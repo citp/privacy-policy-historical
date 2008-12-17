@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the largeformatposters.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513025303id_/http%3A//www.largeformatposters.com/Site-Policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the largeformatposters.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217133310id_/http%3A//www.largeformatposters.com/Site-Policies.html) for the most accurate reproduction.*
 
-# Large Fomat Posters Printing
+# Large Format Posters Printing
 
 **PRIVACY POLICY**
 
