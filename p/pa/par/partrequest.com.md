@@ -1,28 +1,6 @@
-> *The following text is extracted and transformed from the partrequest.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609233536id_/http%3A//www.partrequest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partrequest.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082350id_/http%3A//www.partrequest.com/privacy) for the most accurate reproduction.*
 
 # Used Auto Parts Online
-
-  
-**Find Used Auto Parts Online!**
-
-Locate quality **used auto parts** from **salvage yards** in the United States and Canada. Select a year and make and then click Search. 
-
-  
-**Find Salvage Yards, Junk Yards, Auto Wreckers and Auto Recyclers.**
-
-PartRequest.com allows you to search for reputable salvage yards by region or zip code. 
-
-[](https://web.archive.org/salvage_yards/find)
-
-  
-**Sell used auto parts**
-
-PartRequest.com allows suppliers to respond to the thousands of used auto parts requests submitted to this site each month. Sign up now for a free trial and start selling online. 
-
-[](https://web.archive.org/subscribers/add/salvage_yard)
-
-  
-This month's featured member is [Toyota Salvage](http://www.toyotasalvage.com/). Top quality used Toyota parts and used Nissan parts. 
 
 PartRequest.com is committed to helping you find quality used auto parts online while ensuring the protection of your privacy. 
 
