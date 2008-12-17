@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the hostdepartment.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602012152id_/http%3A//www.hostdepartment.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostdepartment.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217071140id_/http%3A//www.hostdepartment.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Host Department Privacy Policy
+# Privacy Policy - Web Hosting, Reseller Hosting, Domain Name - Host Department
 
    
----  
 Host Department, LLC ("Host Department") and each of its partner sites through which Host Department provides its services ("Partner(s)") agree individually to abide by this Privacy Policy with respect to all Host Department hosted services and Web pages. The terms "we" and "us" refer to each of Host Department and our Partners; provided, in no event shall either of Host Department or our Partners be liable for the other's breach of this Privacy Policy. Our Commitment To Privacy Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available via a link at every point where personally identifiable information may be requested by Host Department and our Partners.   
    
 This notice applies to all information collected on the Host Department Web site, or submitted to Host Department or any Partner at any time through any of our services on any Partner's Web site. Personally Identifiable Information - When visiting Host Department's or any Partner's Web site and signing-up for or using an Host Department powered service on a Partner's Web site, you may choose to supply Host Department and Partner with information that identifies you personally. This information may include your name and contact information, as well as other demographic or commerce related information.   
