@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the coursehero.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615034431id_/http%3A//www.coursehero.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coursehero.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217111254id_/http%3A//www.coursehero.com/privacy.php) for the most accurate reproduction.*
 
 # Course Hero | Privacy Policy
-
-## Privacy Policy
 
 Course Hero's Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using Course Hero located at www.CourseHero.com (the "Website").
 
