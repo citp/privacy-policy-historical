@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the instawares.com privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412030824id_/http%3A//www.instawares.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instawares.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217124633id_/http%3A//www.instawares.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy & Security Policy
 
-  |  [Home](https://web.archive.org/web/20080412030824id_/http%3A//www.instawares.com/default.asp) » [Help Desk](https://web.archive.org/web/20080412030824id_/http%3A//www.instawares.com/help.asp) » **Privacy & Security Policy**  
+  |  [Home](https://web.archive.org/web/20081217124633id_/http%3A//www.instawares.com/default.asp) » [Help Desk](https://web.archive.org/web/20081217124633id_/http%3A//www.instawares.com/help.asp) » **Privacy & Security Policy**  
 ---|---  
   |   
   |   
