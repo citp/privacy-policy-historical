@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickteam.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610094818id_/http%3A//www.clickteam.com/eng/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickteam.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075628id_/http%3A//www.clickteam.com/eng/privacypolicy.php) for the most accurate reproduction.*
 
 # Clickteam.com - Creative Tools for the Creative Age
 
@@ -25,7 +25,7 @@ We do not store credit card numbers or other payment information on our online s
 **Privacy Contact Information**  
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-By e-mail: [Visit our contact us page](https://web.archive.org/web/20080610094818id_/http%3A//www.clickteam.com/eng/contact.php)  
+By e-mail: [Visit our contact us page](https://web.archive.org/web/20081217075628id_/http%3A//www.clickteam.com/eng/contact.php)  
 By Phone: USA -- 1-888-471-4884 : UK -- 07949600231 : World-wide -- +33 472 39 94 59
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
