@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the landwatch.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608012529id_/http%3A//www.landwatch.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landwatch.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217100035id_/http%3A//www.landwatch.com/Privacy_Policy) for the most accurate reproduction.*
 
-# Land for sale, acreages for sale, lots for sale at Landwatch.com
+# Land for sale, acreages for sale, lots for sale at LandWatch.com
 
 This privacy policy ("Policy") explains how personal information is collected, used, and disclosed with respect to your use of our web site located at [www.landwatch.com](https://web.archive.org/) (the "Site") operated by LandWatch, LLC. ("LandWatch", "we" or "us") so you can make an informed decision about using the Site. We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the privacy policy the date it was last updated. Your use of the Site following the posting of such changes or revised statement shall constitute your consent to any changes in our privacy practices. We encourage you to review this Policy whenever you visit our Site to make sure that you understand how any personal information you provide will be used.
 
