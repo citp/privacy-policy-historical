@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daviscup.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608125934id_/http%3A//www.daviscup.com/about/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daviscup.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217090759id_/http%3A//www.daviscup.com/about/legal.asp) for the most accurate reproduction.*
 
 # Davis Cup - Legal Information
 
@@ -46,4 +46,4 @@ We reserve the right to access and disclose individually identifiable informatio
 
 We have strict security procedures covering the storage and disclosure of your information in order to prevent unauthorised access and to comply with the Data Protection Act 1998. This means that sometimes we may ask you for proof of identity before disclosing any personal information to you.
 
-^ [Back to Top](http://www.daviscup.com/about/legal.asp#top)
+^ [Back to top ](http://www.daviscup.com/about/legal.asp#top)
