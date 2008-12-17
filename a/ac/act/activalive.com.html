@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the activalive.com privacy policy that was archived on 2008-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080601203504id_/http%3A//www.activalive.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the activalive.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217122126id_/http%3A//www.activalive.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <base href="http://www.activalive.com/">
@@ -8,7 +8,7 @@
 <meta name="description" content="Live chat software for providing live customer support and online help on Websites.">
 <meta name="keywords" content="live chat, live support software, live website chat, live help, website help">
 <meta http-equiv="imagetoolbar" content="false">
-<link href="css/root.css?rev=55" rel="stylesheet" type="text/css">
+<link href="css/root.css?rev=71" rel="stylesheet" type="text/css">
 
 <!--[if IE 6]><link href="css/ie6.css.php" rel="stylesheet" type="text/css" /><![endif]-->
 <!--[if IE 7]><link href="css/ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
@@ -29,16 +29,16 @@
 <div id="searchbar">
 
 <span>
-<!-- START Activa Live Chat button -->
+<!-- START Activa Live Chat Button/Link Code: Place this code into your HTML wherever you want this button/link to appear -->
 <script type="text/javascript">
 var __ALC_BADGE_SUFFIX = (Math.round(Math.random()*10000000000));
-document.write('<span style="padding:0;" id="__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX+'" style="display: none">888-4-CHAT-44&nbsp;|&nbsp;<a href="javascript://chat" onclick="if ( window.event ) { window.event.returnValue = false; } ALCStartChat(104);">'+decodeURIComponent("Chat%20Live")+'</a>&nbsp;|&nbsp;</span>');
-if ( typeof(__ALC_Badges) == 'undefined' ) { __ALC_Badges = new Array(); }
-__ALC_Badges.push({'id':'104', 'available':'__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX, 'unavailable':'__ALC_BADGE_OFFLINE'+__ALC_BADGE_SUFFIX, 'department':0});
-</script><span style="padding:0;" id="__ALC_BADGE_ONLINE4718165830">888-4-CHAT-44&nbsp;|&nbsp;<a href="javascript://chat" onclick="if ( window.event ) { window.event.returnValue = false; } ALCStartChat(104);">Chat Live</a>&nbsp;|&nbsp;</span>
-<!-- END Activa Live Chat button --><a href="#" onclick="window.open('http://www.activalive.com/operator', '_blank', 'resizable=yes,scrollbars=no,width=1080,height=750'); return false;">Launch Operator Console</a>&nbsp;|&nbsp;<a href="login">Customer Sign In</a></span>
+document.write('<span style="padding:0; display: none;" id="__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX+'"><a href="javascript://chat" onclick="ALCStartChat(1136); return false;"><img id="__ALC_BADGE_ONLINE_IMAGE" src="'+document.location.protocol+'//www.activalive.com/app/custom/buttons/1136/live_chat_top.gif" style="border: 0px none; margin: 0 0 -4px 0;" /></a>&nbsp;|&nbsp;</span><span id="__ALC_BADGE_OFFLINE'+__ALC_BADGE_SUFFIX+'" style="padding:0; display: none;"><a href="javascript://chat" onclick="ALCContact(1136); return false;"><img id="__ALC_BADGE_OFFLINE_IMAGE" src="'+document.location.protocol+'//www.activalive.com/app/custom/buttons/1136/live_chat_top_off.gif" style="border: 0px none; margin: 0 0 -4px 0;" /></a>&nbsp;|&nbsp;</span>');
+if ( typeof(__ALC_Badges) == 'undefined' ) __ALC_Badges = new Array();
+var __ALC_BUTTON = new Object(); __ALC_BUTTON.id = '1136'; __ALC_BUTTON.available = '__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX; __ALC_BUTTON.unavailable = '__ALC_BADGE_OFFLINE'+__ALC_BADGE_SUFFIX; __ALC_BUTTON.department = 17;__ALC_Badges.push(__ALC_BUTTON);
+</script><span style="padding:0; display: none;" id="__ALC_BADGE_ONLINE4619729130"><a href="javascript://chat" onclick="ALCStartChat(1136); return false;"><img id="__ALC_BADGE_ONLINE_IMAGE" src="https://www.activalive.com/app/custom/buttons/1136/live_chat_top.gif" style="border: 0px none; margin: 0 0 -4px 0;"></a>&nbsp;|&nbsp;</span><span id="__ALC_BADGE_OFFLINE4619729130" style="padding:0; display: none;"><a href="javascript://chat" onclick="ALCContact(1136); return false;"><img id="__ALC_BADGE_OFFLINE_IMAGE" src="https://www.activalive.com/app/custom/buttons/1136/live_chat_top_off.gif" style="border: 0px none; margin: 0 0 -4px 0;"></a>&nbsp;|&nbsp;</span>
+<!-- END Activa Live Chat Button/Link Code --><a href="#" onclick="window.open('http://www.activalive.com/operator', '_blank', 'resizable=yes,scrollbars=no,width=1080,height=750'); return false;">Launch Operator Console</a>&nbsp;(or <a href="opcon-desktop">Download</a>)&nbsp;|&nbsp;<a href="login">Dashboard Sign In</a></span>
 <form style="display:inline;" action="search" onsubmit="if ( did('query').value.trim() == '' ) { alert('Please enter a word or phrase before searching. Thank you.'); return false; }">
-<input type="text" id="query" name="query" size="25">
+<input type="text" id="query" name="query" size="15">
 <input class="button" type="submit" value="Search">
 </form>
 
@@ -136,7 +136,7 @@ registerEvent(window, 'load', autoFocus);
 <!--this used to be "side_signin", but was being used multiple times-->
 <div id="side_signin_container">
 <div id="side_signin_control">
-<h2 class="account_nav">Customer Sign In</h2>
+<h2 class="account_nav">Dashboard Sign In</h2>
 <p>Access your Activa Live Chat account. <a href="#" id="rollTrigger" onclick="rollFadeLogin(); return false;">Sign In Here »</a></p>
 </div>
 
@@ -144,7 +144,7 @@ registerEvent(window, 'load', autoFocus);
 <div id="side_signin_form" style="display: none;">
 
 <div id="side_signin">
-<h2 class="account_nav">Customer Sign In</h2>
+<h2 class="account_nav">Dashboard Sign In</h2>
 <form id="slider_login" action="login/auth" method="POST">
 <input autocomplete="off" style="background-image: url(images/formback_login.gif);" class="field" type="text" id="username" name="username" value="" onmouseup="focusField(this, 'Login ID (e-mail)', 'text')" onfocus="focusField(this, 'Login ID (e-mail)', 'text')" onselect="focusField(this, 'Login ID (e-mail)', 'text')" onblur="leaveField(this, 'Login ID (e-mail)', 'text')" onchange="usernameChange()">
 <span>
@@ -157,7 +157,8 @@ registerEvent(window, 'load', autoFocus);
 </div>
 
 <div id="side_signin_button">
-<a class="button" href="#" onclick="window.open('http://www.activalive.com/operator', '_blank', 'resizable=yes,scrollbars=no,width=1080,height=750'); return false;"><img style="float:left;margin-right:7px;border:0px;" src="images/sidebar_launch.gif" alt="launch operator console">Launch Operator Console</a>
+<a class="button" href="#" onclick="window.open('http://www.activalive.com/operator', '_blank', 'resizable=yes,scrollbars=no,width=1080,height=750'); return false;">Operator Console "Webtop"</a>
+<a class="button" href="opcon-desktop">Operator Console "Desktop"</a>
 </div>
 
 </div>
@@ -166,18 +167,22 @@ registerEvent(window, 'load', autoFocus);
 
 
 <h2>Activa Live Chat Features</h2><div id="side_nav">
-<a href="operator-console">Operator Console</a>
+<a href="intelligence-rules">Intelligence Rules</a>
+<a href="proactive-chat">Proactive Chat</a>
+<a href="live-chat">Live Chat</a>
+<a href="visitor-monitoring">Visitor Monitoring</a>
+<a href="cobrowsing">Live Co-Browsing</a>
+<a href="security">Security</a>
+<a href="websites-applications">Websites &amp; RIAs</a>
 <a href="on-demand">On-Demand SaaS</a>
+<a href="operator-console">Operator Console</a>
+<a href="administration">Administration</a>
+<a href="easy">Ease of Use</a>
 <a href="crm-integration">CRM Integration</a>
 <a href="customize">Customization</a>
-<a href="analytics">Reports &amp; Analytics</a>
-<a href="websites-applications">Websites &amp; RIAs</a>
+<a href="analytics">Analytics</a>
+<a href="transcripts-reporting">Transcripts &amp; Reporting</a>
 <a href="compatibility">Compatibility</a>
-<a href="easy">Ease of Use</a>
-<a href="live-support">Live Support</a>
-<a href="proactive-chat">Proactive Chat</a>
-<a href="site-monitoring">Site Monitoring</a>
-<a href="cobrowsing">Live Co-Browsing</a>
 <a href="features">Feature Check List</a>
 </div>
 
@@ -213,7 +218,7 @@ __ALC_Badges.push({'id':'51', 'available':'sidebar_chat_link', 'unavailable':'si
 <p><strong>For  Visitors</strong><br>
 When browsing Activa Live Chat, your computer provides us with some information about you including, but not limited to your Internet Protocol Address, your browser's user-agent, and your screen resolution. We often do not check, store, or record this information but we do not redistribute it. However, there may be times when we do record and securely store this information for our own analysis and quality assurance purposes.</p>
 <p><strong>For Customers</strong><br>
-In order to use our services, you must provide us with personal and potentially sensitive information about you or your company. We keep this information in strictest confidence.   Any information we collect from you is always stored securely and billing information is transmitted through 128-bit encryption on secured servers. As with the Website's visitors, we may collect information such as IP address, user-agent, and screen resolution for our own quality-assurance purposes. </p>
+In order to use our services, you must provide us with personal and potentially sensitive information about you or your company. We keep this information in strictest confidence.   Any information we collect from you is always stored securely and billing information is transmitted through 256-bit High Grade Encryption on secured servers. As with the Website's visitors, we may collect information such as IP address, user-agent, and screen resolution for our own quality-assurance purposes. </p>
 </div>
 
 </div>
@@ -227,18 +232,19 @@ In order to use our services, you must provide us with personal and potentially 
 
 <!-- <p><img src="images/foot_ssl.gif" alt="secured site" /><img src="images/foot_auth.gif" alt="verified merchant" /></p> -->
 
-
-<p>© Copyright 2007–2008 Activa Live, Inc. All rights reserved. <a href="privacy">Privacy Policy</a>|<a href="about">About Us</a>|<a href="contact">Contact Us</a></p>
+<p>The Next Generation of Live Chat™</p>
+<p>© Copyright 2007–2008 Activa Live, Inc. All rights reserved. <a href="privacy">Privacy Policy</a>|<a href="about">About Us</a>|<a href="partner">Partner Application</a>|<a href="contact">Contact Us</a></p>
 </div>
 
 </div><!-- closes #container -->
 
 
 <script type="text/javascript">
-_uacct = "UA-270724-5";
-_udn="none";
-_ulink=1;
-urchinTracker();
+var pageTracker = _gat._getTracker("UA-270724-5");
+pageTracker._setDomainName('none');
+pageTracker._setAllowLinker(true);
+pageTracker._initData();
+pageTracker._trackPageview();
 </script>
 
 <!-- START Activa Live Chat deployment -->
