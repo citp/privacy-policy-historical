@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessspectator.com.au privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630021301id_/http%3A//www.businessspectator.com.au/bs.nsf/pages/Privacy_Policy%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessspectator.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217112011id_/http%3A//www.businessspectator.com.au/bs.nsf/pages/Privacy_Policy%3FOpenDocument) for the most accurate reproduction.*
 
 # Business Spectator - Privacy Policy
 
