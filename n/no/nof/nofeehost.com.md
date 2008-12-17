@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nofeehost.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516035400id_/http%3A//www.nofeehost.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nofeehost.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062349id_/http%3A//www.nofeehost.com/privacy.asp) for the most accurate reproduction.*
 
 # Free Web Hosting Service, 100M free site space, FTP, ASP Hosting
 
@@ -15,7 +15,6 @@
 | [ Abuse](http://www.nofeehost.com/abuse.asp)  
 | [ Hosted CRM](http://www.nofeehost.com/CRM_Solutions/hosted_crm.asp)  
 | [ Business Solutions](http://www.nofeehost.com/Business_Solutions/)  
-|   
 |  |    
   
     _ **NoFeeHost Privacy Policy**_ This statement discloses the privacy practices for the NoFeeHost Website. 
