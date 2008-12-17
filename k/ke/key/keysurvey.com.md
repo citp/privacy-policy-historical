@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keysurvey.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609103003id_/http%3A//www.keysurvey.com/legal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keysurvey.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070903id_/http%3A//www.keysurvey.com/legal/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -93,7 +93,7 @@ To access TRUSTe Watchdog Dispute Resolution form please follow this link: <http
 **Contact Us**   
 If you have any questions or comments about our Privacy Policy, please contact us at 
 
-[_support@keysurvey.com_](mailto:support@keysurvey.com)
+[_support@worldapp.com_](mailto:support@worldapp.com)
 
 .
 
