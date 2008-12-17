@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509143633id_/http%3A//www.compuware.com/corporate/602_ENG_HTML.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062018id_/http%3A//www.compuware.com/corporate/602_ENG_HTML.htm) for the most accurate reproduction.*
 
 # Compuware Corporation - Our Commitment to Privacy
 
@@ -20,9 +20,9 @@ Online job applications
 
 You may visit the web site without disclosing any personally identifiable information. 
 
-**Registration:** Registration is often required, before issuing special offers, promotions, newsletters, etc.  If you wish to subscribe, we may request such personal information as name, title, company, physical address, phone number, fax number, e-mail address, language, informational preferences, topics of interest, etc. Compuware will not request more information than is reasonably necessary to provide requested information or services. Compuware assumes all information will be true, accurate, current, non-misleading, consistent and relevant.
+**Registration:** Registration is often required, before issuing special offers, promotions, newsletters, etc.  If you wish to subscribe, we may request such personal information as name, title, company, physical address, phone number, fax number, e-mail address, primary language preference, informational preferences, topics of interest, etc. Compuware will not request more information than is reasonably necessary to provide requested information or services. Compuware assumes all information will be true, accurate, current, non-misleading, consistent and relevant.  
 
-**E-mail a friend:** Unless otherwise indicated, the names and e-mail addresses provided on "e-mail a friend" forms will be used only to forward the message to the intended recipient and to notify the intended recipient of the sender.  
+**E-mail a friend:** Unless otherwise indicated, the names and e-mail addresses provided on "e-mail a friend" forms will be used only to forward the message to the intended recipient and to notify the intended recipient of the sender.  The recipiet's e-mail address is not stored unless registration information is received.  
 [](https://web.archive.org/corporate/602_ENG_HTML.htm)
 
 ## The use of information collected
@@ -35,7 +35,7 @@ Please note that we do not knowingly solicit information from children and we do
 
 **Information sharing and disclosure:** Compuware values your business and strives to protect your privacy.  Compuware will not trade, sell or otherwise relinquish your information except where:
 
-  * Compuware has partnered with a third party vendor to host an event, and both parties will send invitations.  Compuware's master "opt-out" suppression file will be provided to such vendor to prevent unwanted Compuware material from delivery. 
+  * Compuware has partnered with a third party vendor to host an event and send e-mail invitations on its behalf.  Compuware's master "opt-out" suppression file will be provided to such vendor to prevent unwanted Compuware material from delivery. 
 
 
 
@@ -43,15 +43,11 @@ Please note that we do not knowingly solicit information from children and we do
 
 A "cookie" is a small file that your web browser places on your computer's hard drive to store important data. A cookie cannot be executed as code or deliver viruses. Cookies save you time by enabling your browser to keep track of information such as passwords and account information. In most cases, the cookies that we use will expire after 365 days. In some instances, such as the online job application, the cookies expire as soon as you close your browser.
 
-**Overture Services, Inc.:** We have contracted with Overture Services, Inc. ("Overture") to monitor certain pages of our Web site for the purpose of reporting web traffic, statistics, advertisement "click-throughs", and/or other activities on our site. Where authorized by us, Overture may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics on our web site visitors. No personally identifiable data is collected by or transferred to Overture. For more details on how Overture will use the collected information, please see Overture's privacy policy at <http://www.overture.com/d/USm/about/company/ccprivacypolicy.jhtml>.
-
-**DoubleClick:** Compuware uses pixels, or transparent GIF files, to help manage online advertising. These .GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your web browser, which in turn enables us to learn which advertisements bring users to our web site. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or e-mail address. For more information about DoubleClick, including information about how to opt out of these technologies, go to <http://www.doubleclick.net/us/corporate/privacy>.
-
 **Rejecting cookies:** You have the option of setting your browser to reject cookies. In most cases, if you do not accept the cookie you are still able to use the site. Please note, however, that by not accepting cookies, you will limit the functionality we can provide you when you visit this site.[](https://web.archive.org/corporate/602_ENG_HTML.htm)
 
 ## Opt-out 
 
-We provide the opportunity to opt-out of receiving communications from Compuware at the point where we request information about you and in each instance when you receive material from us. If you have difficulty in opting-out in this manner, please [contact us](mailto:www@compuware.com) and provide your name, e-mail address and subscription you wish to cancel. 
+We provide the opportunity to opt-out of receiving communications from Compuware at the point where we request information about you and in each instance when you receive material from us. If you have difficulty in opting-out in this manner, please visit [www.compuware.com/unsubscribe](http://www.compuware.com/unsubscribe) or e-mail [unsubscribe@compuware.com](mailto:unsubscribe@compuware.com) and provide your name, e-mail address and subscription you wish to cancel. 
 
 ## Links to non-Compuware web sites
 
@@ -98,7 +94,7 @@ Please e-mail us at [compuware.recruiting@compuware.com](mailto:compuware.recrui
 
 Our goal is to respect your privacy. If you seek resolution to any privacy or data collection issue you have with Compuware, or have suggestions on how we can improve our policies, please [contact us](https://web.archive.org/contact/default.asp).
 
-**Revised  June, 2006 **
+**Revised  December 2008 **
 
   
 [](https://web.archive.org/corporate/602_ENG_HTML.htm)
