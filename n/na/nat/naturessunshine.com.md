@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturessunshine.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612012140id_/http%3A//www.naturessunshine.com/us/general/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturessunshine.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217184420id_/http%3A//naturessunshine.com/us/general/privacy.aspx) for the most accurate reproduction.*
 
 # Nature's Sunshine - Privacy Statement
 
@@ -39,6 +39,9 @@ Keeping personal information secure is a top priority. To prevent unauthorized a
 **Our Commitment to Children’s Privacy**  
 We believe that it is important to protect children’s privacy. Nature’s Sunshine does not sell to children under 18 years of age. If you are under the age of 18, you may only use this Website under the supervision of a parent or guardian. We do not collect or maintain personal information from children under 13 years of age. Nature’s Sunshine, in compliance with the Children’s Online Privacy Protection Act, does not knowingly collect or use personal information from children under 13 years of age. 
 
+**Safe Harbor**  
+The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (the "Safe Harbor Principles") to enable U.S. companies to satisfy the requirement under European Union law that adequate protection be given to personal information transferred from the EU to the United States. The European Economic Area has recognized the U.S. Safe Harbor as providing adequate data protection (OJ L 45, 15.2.2001, p. 47). Consistent with its commitment to protect personal privacy, Centofanti Consulting, Inc. adheres to the Safe Harbor Principles. <http://www.export.gov/safeharbor/index.html>
+
 **Links to Other Websites**  
 Our Website may contain links to other sites that are not controlled or operated by Nature’s Sunshine. Once you access another site, you are subject to the privacy policy at the new site. Any links are provided as a service to you, and Nature’s Sunshine does not endorse and is not responsible for the content or policies of any other sites. 
 
@@ -46,7 +49,7 @@ Our Website may contain links to other sites that are not controlled or operated
 To ensure that the information we have is accurate and current, we provide opportunities for you to review and correct your personal information through our Website and via the telephone. To make any changes to your information, please use any of the following methods: 
 
   * Log in to the Nature’s Sunshine Website, click on "Member Services" or "My Account," and then click on "Account Maintenance" under the "Account Tools" section.
-  * Go to the following link [www.naturessunshine.com/us/members/myaccount/accountmaint.aspx](https://web.archive.org/web/20080612012140id_/http%3A//www.naturessunshine.com/us/members/myaccount/accountmaint.aspx), and you will be required to log in.
+  * Go to the following link [www.naturessunshine.com/us/members/myaccount/accountmaint.aspx](https://web.archive.org/web/20081217184420id_/http%3A//naturessunshine.com/us/members/myaccount/accountmaint.aspx), and you will be required to log in.
   * Contact Customer Service at 1-800-223-8225 to have a representative make changes to your account.
 
 
