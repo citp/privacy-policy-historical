@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hemorrhoidmiracle.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623211022id_/http%3A//hemorrhoidmiracle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hemorrhoidmiracle.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062717id_/http%3A//www.hemorrhoidmiracle.com/privacy.php) for the most accurate reproduction.*
 
 # Cure Hemorrhoids | Piles Treatment | Natural Hemorrhoid Remedy | Bleeding Stool Cure
 
