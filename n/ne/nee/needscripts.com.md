@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the needscripts.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612012119id_/http%3A//www.info.needscripts.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the needscripts.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217160948id_/http%3A//www.info.needscripts.com/about/privacy.php) for the most accurate reproduction.*
 
 # Need Scripts: Web Development Resource: ASP, Flash, Java, JavaScripts, Perl, PHP, Visual Basics, XML, and more!
 
