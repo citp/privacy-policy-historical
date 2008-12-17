@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpromote.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616160920id_/http%3A//www.wpromote.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpromote.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217110718id_/http%3A//www.wpromote.com/about/privacy) for the most accurate reproduction.*
 
 # About Wpromote - PPC Management & Adwords campaigns, SEO services
 
