@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendorama.com privacy policy that was archived on 2008-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080329063813id_/http%3A//www.friendorama.com/action/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendorama.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044126id_/http%3A//www.friendorama.com/action/privacy.html) for the most accurate reproduction.*
 
 # Friendorama
 
@@ -8,7 +8,7 @@ The following discloses the Privacy Policy for the use of the website (herein re
 
 #### Overview
 
-As part of the normal operation of our services we collect information about you in order to offer the highest possibility of finding a partner through our site. As a matter of policy, we do not sell, rent, or give any personally identifiable information about you to any third party.
+As part of the normal operation of our services we collect information about you in order to offer the highest possibility of finding a partner through our site. As a matter of policy, we do not sell, rent, or give any personally identifiable information about you to any third party; **except for in cases where our terms and conditions may have been broken.**
 
 #### Information you supply
 
@@ -20,11 +20,11 @@ We automatically collect information, provided by your browser, when you visit o
 
 #### Use of your Information
 
-We do not share your personal information with any third parties. For our own purposes, however, we may make use of your information. These reasons may be, but are not limited to; resolving disputes, troubleshooting problems, enforcing our Terms and Conditions. These uses improve our Websites and help us better meet your needs as a user.
+We do not share your personal information with any third parties; **except for in cases where our terms and conditions may have been broken.** For our own purposes, however, we may make use of your information. These reasons may be, but are not limited to; resolving disputes, troubleshooting problems, enforcing our Terms and Conditions. These uses improve our Websites and help us better meet your needs as a user.
 
 #### Disclosure
 
-As a matter of policy, we do not sell, rent, or give any personally identifiable information about you to any third party. All personally identifiable data is accessible solely to authorized employees, and they may do so only for permitted business functions. However, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed. By way of example (without limiting any of the foregoing), we may be required to disclose information to the government, law enforcement agencies or third parties. Under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or members may abuse or misuse your information that they collect from our Websites. Accordingly, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications will always remain private. That being said, we want you to feel confident using our website. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the United States Federal Trade Commission's website at http://www.ftc.gov/bcp/edu/microsites/idtheft/ for information about how to protect yourself against identity theft.
+As a matter of policy, we do not sell, rent, or give any personally identifiable information about you to any third party; **except for in cases where our terms and conditions may have been broken.** All personally identifiable data is accessible solely to authorized employees, and they may do so only for permitted business functions. However, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed. By way of example (without limiting any of the foregoing), we may be required to disclose information to the government, law enforcement agencies or third parties. Under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or members may abuse or misuse your information that they collect from our Websites. Accordingly, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications will always remain private. That being said, we want you to feel confident using our website. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the United States Federal Trade Commission's website at http://www.ftc.gov/bcp/edu/microsites/idtheft/ for information about how to protect yourself against identity theft.
 
 #### Your use of other Members' Information
 
