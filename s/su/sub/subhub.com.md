@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the subhub.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513065902id_/http%3A//www.subhub.com/static/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subhub.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217143419id_/http%3A//www.subhub.com/static/privacypolicy) for the most accurate reproduction.*
 
-# SubHub: Start a Subscription Web Site or Membership Website - Online Magazine, Online Journal, Online Newsletter, AdSense Website, Affiliate Website
+# Start a Subscription Membership Website, Online Magazine or Advertising-driven Website
 
 **END USER PRIVACY AND COOKIE POLICY**
 
@@ -27,10 +27,6 @@ Your use of our Service signifies your consent to us collecting and using person
 Although certain areas of our website are made available to all visitors, before you can use the Service, you will need to register your details with us in accordance with the registration details. If you have not already done so, please register your details. Should you not register your details, you will not be allowed to use the Service.  
 We reserve the right to ask for your date of birth to verify your age. Please note we will not collect the personal information of any individual who tells us he or she is under the age of 18.
 
-**How we collect information from you**
-
-In order to process your account for the Service and in order to reconcile our accounts, Protx or such other payment partner as we may use from time to time may provide us with information detailing the credits and/or debits made to your credit/debit card.
-
 **Cookies**
 
 Cookies are small files of information which are stored on your computer. Web sites you visit ask your computer to store this information and retrieve the information from your computer so that they can keep track of things like other web sites you visit or how you navigate our website or other files which provide you with the Site. For more information about what cookies are and how they work, visit www.allaboutcookies.org.
@@ -40,6 +36,8 @@ On revisiting our website or in using the files, our computer server will recogn
 **How we look after your information**
 
 We make sure that all the information we hold on you is as safe as possible. In addition, we have strict security procedures covering the storage and disclosure of your information in order to prevent unauthorised access and to comply with the UK Data Protection Act 1998. This means that sometimes we may ask you for proof of identity before disclosing any personal information to you.
+
+SubHub does not store any customer credit card or debit card information on their servers. 
 
 **What do we do with your information?**
 
