@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizensbanking.com privacy policy that was archived on 2008-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080425144048id_/http%3A//www.citizensbanking.com/privacyStatement.aspx%3Fid%3D598) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensbanking.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217102701id_/http%3A//www.citizensbanking.com/privacyStatement.aspx%3Fid%3D598) for the most accurate reproduction.*
 
 # Citizens Bank: Privacy Statement
 
@@ -6,7 +6,6 @@
 
   * Citizens Bank Wealth Management, N.A.
   * Citizens Bank
-  * Citizens Bank Mortgage Company, LLC
   * F&M Bank-Iowa
   * F&M Insurance Services
 
@@ -74,4 +73,4 @@ This policy is designed to comply with the privacy provisions in Title V of the 
 
 In addition, as we establish new affiliates in the future, these privacy standards will apply as well.
 
-Citizens Republic Bancorp © 2007 GLB
+Citizens Republic Bancorp © 2008 GLB
