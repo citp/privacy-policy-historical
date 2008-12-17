@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the ksfcu.org privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202172229id_/http%3A//www.ksfcu.org/default.asp%3FfileID%3D127) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksfcu.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217090520id_/http%3A//www.ksfcu.org/default.asp%3FfileID%3D127) for the most accurate reproduction.*
 
 # Kern Schools Federal Credit Union
 
 |   
 ---  
+ | Privacy Notice|    
  | EFFECTIVE DECEMBER 18, 2003 |    
  | In recognition of our members' expectation of privacy, Kern Schools Federal Credit Union has adopted the following privacy statement.|    
  | Kern Schools will collect only the personal information that is necessary to conduct our business. That means just what is necessary to provide competitive financial products and services - no more. We may gather general information about site visitors' browsing activities. This enables us to track how a visitor navigates through the site and the areas in which they show interest. This is similar to a traffic report: it tracks trends and behaviors of members in general, but does not identify individuals in particular.|    
