@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millets.co.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609094216id_/http%3A//www.millets.co.uk/PrivacyandSecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millets.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217111427id_/http%3A//www.millets.co.uk/PrivacyandSecurity) for the most accurate reproduction.*
 
 # Millets
 
@@ -114,10 +114,10 @@ NN5 5DL
 
 ## Our Policies
 
-  * [Accessibility](https://web.archive.org/web/20080609094216id_/http%3A//www.millets.co.uk/Accessibility)
-  * [Privacy & Security](https://web.archive.org/web/20080609094216id_/http%3A//www.millets.co.uk/PrivacyandSecurity)
-  * [Sale of Knives](https://web.archive.org/web/20080609094216id_/http%3A//www.millets.co.uk/Sale%20of%20Knives)
-  * [Terms & Conditions](https://web.archive.org/web/20080609094216id_/http%3A//www.millets.co.uk/TermsandConditions)
-  * [WEEE](https://web.archive.org/web/20080609094216id_/http%3A//www.millets.co.uk/WEEE)
+  * [Accessibility](https://web.archive.org/web/20081217111427id_/http%3A//www.millets.co.uk/Accessibility)
+  * [Privacy & Security](https://web.archive.org/web/20081217111427id_/http%3A//www.millets.co.uk/PrivacyandSecurity)
+  * [Sale of Knives](https://web.archive.org/web/20081217111427id_/http%3A//www.millets.co.uk/Sale%20of%20Knives)
+  * [Terms & Conditions](https://web.archive.org/web/20081217111427id_/http%3A//www.millets.co.uk/TermsandConditions)
+  * [WEEE](https://web.archive.org/web/20081217111427id_/http%3A//www.millets.co.uk/WEEE)
 
 
