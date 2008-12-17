@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infospaceinc.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512093214id_/http%3A//www.infospaceinc.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infospaceinc.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217074823id_/http%3A//www.infospaceinc.com/privacy.aspx) for the most accurate reproduction.*
 
 # InfoSpace: Privacy Policy
 
