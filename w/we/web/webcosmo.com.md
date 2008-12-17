@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webcosmo.com privacy policy that was archived on 2008-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080404014041id_/http%3A//www.webcosmo.com/help/help_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcosmo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061208id_/http%3A//www.webcosmo.com/help/help_privacy.aspx) for the most accurate reproduction.*
 
-# privacy policy - free classified ads
+# Privacy Policy
 
 This privacy policy explains how your information is collected, protected, and used at Web Cosmo. This privacy policy may be updated by us periodically, and will take affect as soon as it is posted on the site. Its your reponsibility to check this document to keep yourself updated. 
 
