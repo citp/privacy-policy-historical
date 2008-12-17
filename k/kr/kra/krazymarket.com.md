@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krazymarket.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630083149id_/http%3A//www.krazymarket.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krazymarket.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217101412id_/http%3A//www.krazymarket.com/privacy_policy.php) for the most accurate reproduction.*
 
 # KrazyMarket - Indonesia's online marketplace! Beli & jual semua di sini! Temukan harga terbaik!
 
