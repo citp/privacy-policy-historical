@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616110455id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217100119id_/http%3A//offerstation.com/privacy.php) for the most accurate reproduction.*
 
 # OfferStation.com >> Privacy Policy
 
