@@ -1,89 +1,54 @@
-<!--The following is the downloaded HTML source of the qvc.com privacy policy that was archived on 2007-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070514001347id_/http%3A//www.qvc.com/qic/qvcapp.aspx/main.html.file.%257Cprivacypolicy%2Chtml%3Fcm_re%3DHP-_-COPYRIGHT-_-PRIVACY) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qvc.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217050532id_/http%3A//www.qvc.com/qic/qvcapp.aspx/main.html.file.%257Ccs%257Cfaq_privacy%2Chtml/left.html.file.%257Ccs%257Cfaq_nav%2Chtml/%23privacy2%3Frewrite%3Dno) for the most accurate reproduction.-->
 
-<html><!--------------- START head html zone file ----------------------><head>
-	<link rel="stylesheet" href="/masthead.css" type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><!-- begin head html zone file --><head>
 	
-	<script language="Javascript">
-		// if we are not the top frame, put us there
-		if(self != top)
-		{
-			top.location.href = self.location.href;
-		}
-	</script>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<link rel="stylesheet" type="text/css" media="all" href="/content/html/css/common.css">
+	<link rel="stylesheet" type="text/css" media="all" href="/content/html/css/styleFooter.css">
+	<link rel="stylesheet" type="text/css" media="all" href="/content/html/css/styleTopNav.css">
+	
+	<script type="text/javascript" src="/content/html/js/mootools.v1.11.js"></script>
+	<script type="text/javascript" src="/content/html/js/menu.js"></script>
+	
 	
 	<script language="JavaScript" type="text/javascript">
 		function ValidateSearchRequest(f) 
 		{
-			formSearch_search 		= f.search.value;
-			formSearch_referrer 	= f.referrer.value;
-			formSearch_CLASSLEVEL	= f.CLASSLEVEL.value;
-			formSearch_txtDesc 		= f.txtDesc.value;
-			
-			formSearch_txtDesc = formSearch_txtDesc.replace(/\&/g,"%26");
-			
-			
-			formSearch_SearchClass	= f.SearchClass.value;
-			formSearch_action		= "http://www.qvc.com/qic/qvcapp.aspx?app=multi&params=file^/asp/qicIsItemNumberRedirect.asp";
-					
-			select = f.SearchClass; // get the navigation class number attribute
-			option = select.options[select.selectedIndex].value; // get the selected option
-			if(option=="3225") // add department numbers using "or" (example: option=="3225" || option=="1196") here whenever you add a department class to the search dropdown
+			if(f.txtDesc.value!="Enter keyword of item #")
 			{
-				formSearch_CLASSLEVEL = "2";	// set the CLASSLEVEL URL query string to "2" since QVCSearch.aspx needs that parameter for a department search
-			}
-			
-			if(f.txtDesc.value!="")
-			{
-				formSearch_submit = formSearch_action + ",search^" + formSearch_search + ",referrer^" + formSearch_referrer + ",CLASSLEVEL^" + formSearch_CLASSLEVEL + ",txtDesc^" + formSearch_txtDesc + ",SearchClass^" + formSearch_SearchClass;
-				f.action = formSearch_submit;
-				
-				if(top.location.assign)
-				{
-					top.location.assign(formSearch_submit);
-				}
-				else
-				{
-					window.location = formSearch_submit;
-				}
-		
-						
-				//alert("f.action = " + f.action);
-						
-				return false;
+				// car 05June2007 - need to set the form action to /qsearch/search.aspx, and there needs to be
+				// NO query string variables. so we have to make sure qic does not rewrite this form action
+				var searchUrl = "http://www.qvc.com/qsearch/search.aspx";
+				f.action = searchUrl;
+				return true;
 			} else 
 			{
-				alert("Please enter one or more search words before clicking SEARCH.");
-				return false;
+				alert("Please enter one or more search words before clicking SEARCH.");return false;
 			}
 		}	
 	</script>
 	
-    <title>QVC Privacy Statement</title>
-    <link rel="STYLESHEET" href="/cs.css" type="text/css">
-    <script language="Javascript" src="/js/library.js"></script>
-    <meta http-equiv="PRAGMA" content="NO-CACHE">
-    <style type="text/css">
-    .header {font-weight: bold;}
-    </style>
-    <script language="JavaScript">
-    <!--
-      function enterLivePerson(aname, gname, re, name) {
-    		window.name = "lp_parent";
-    		document.cookie = "USELPHEALTH=Y; path=/; domain=.qvc.com";
-    	    if (re == "Beauty" || re == "Electronics")	{
-    			var url="http://server.iad.liveperson.net/hc/LPqvc_qvc/?SESSIONVAR!skill="+re+"&cmd=file&file=visitorWantsToChat&site=LPqvc_qvc&referrer="+document.location;
-       		}
-    	    else  {
-    			var url="http://server.iad.liveperson.net/hc/LPqvc_qvc/?SESSIONVAR!skill=General&cmd=file&file=visitorWantsToChat&site=LPqvc_qvc&referrer="+document.location;
-    	    }
-      		var hWnd = window.open(url,'chatLPqvc_qvc','width=472,height=320');
-    		if (hWnd != null) { if (hWnd.opener == null) { hWnd.opener = self; window.name = "home"; hWnd.location.href=url; } }
-    	}
-    // -->
-    </script>
-  
-<link rel="STYLESHEET" href="/toolbox.css" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>The QVC Privacy Statement</title>
+<script language="Javascript" src="/js/library.js"></script>
+<link rel="stylesheet" type="text/css" media="all" href="/content/html/css/styleTopNav.css">
+<link rel="stylesheet" type="text/css" media="all" href="/content/html/css/leftnav.css">
+<link rel="stylesheet" type="text/css" media="all" href="/content/html/css/faq.css">
+<script type="text/javascript" src="/content/html/js/popups.js"></script>
+<script type="text/Javascript" src="/content/html/js/general_mtagconfig.js"></script>
+<script type="text/javascript" src="/content/html/js/smoothbox.js"></script>
+<script type="text/javascript">
+<!-- begin hiding
+
+
+function open_window(url, specs){
+      var new_win = window.open(url, "win", specs);
+	new_win.focus();
+}
+// end hiding -->
+</script>
 	
 
 	<!-- START: QIC YAH, this code is generated by qvcapp.aspx for the dynamic yah script-->
@@ -113,394 +78,527 @@
 		// override dynamicYAH()
 		function dynamicYAH() {
 	
-			if(typeof displayMetaYAH != 'undefined') {
-	
-				displayMetaYAH(MetaClassCodeQic);
-			} else {
-				function displayMetaYAH(metaClassCode) {
-			  	
-					/* match the class number with the meta name */
-					switch (metaClassCode) {
-				  		case "0008":
-							metaName = "Accessories & Shoes"
-							break;
-						case "0009":
-							metaName = "Women\'s"
-							break;
-						case "0010":
-							metaName = "Home D&eacute;cor"
-							break;
-						case "0011":
-							metaName = "Home Improvement"
-							break;
-						case "0012":
-							metaName = "Toys, Crafts & Leisure"
-						  	break;
-				  		case "6285":
-						  	metaName = "Beauty"
-						  	break;
-						case "7735":
-						  	metaName = "Collectibles"
-						  	break;
-						case "1125":
-						  	metaName = "Cooking & Dining"
-						  	break;
-						case "2039":
-						  	metaName = "Electronics"
-						  	break;
-						case "1002":
-						  	metaName = "Fashion"
-						  	break;
-						case "8565":
-						  	metaName = "Sports & Fitness"
-						  	break;
-						case "9945":
-						  	metaName = "Hobbies & Toys"
-						  	break;
-						case "9255":
-						 	metaName = "House & Home"
-						  	break;
-						case "1001":
-						  	metaName = "Jewelry"
-						  	break;
-						case "2399":
-						  	metaName = "Sports"
-						  	break;
-						case "3279":
-						  	metaName = "Clearance"
-						  	break;
-						case "0003":
-						  	metaName = "Holiday"
-						  	break;
-						case "F600":
-							metaName = "Diamonique"
-						  	break;
-						case "C500":
-						  	metaName = "Men\'s"
-						  	break;
-						case "F500":
-							metaName = "Children\'s"
-						  	break;
-						case "F700":
-						 	metaName = "Gourmet Food"
-		  					break;
-						default:
-					  		metaName = ""
-					  		meta = ""
-			  				break;
-			  		}
-					/* write the link and name of the Meta, to the html file */
-					if (metaName != "") {
-			  			document.write('<a href="/qic/qvcapp.aspx/app.nav/params.class.' + metaClassCode + '/walk.yah.' + metaClassCode + '" target="_top">' + metaName + '</a>');
-			    		document.write('&nbsp;> ');
-			  		}
-				}
+			/* match the class number with the meta name */
+			switch (MetaClassCodeQic) {
+				case "0008":
+					metaName = "Accessories & Shoes"
+					break;
+				case "0009":
+					metaName = "Women\'s"
+					break;
+				case "0010":
+					metaName = "Home D&eacute;cor"
+					break;
+				case "0011":
+					metaName = "Home Improvement"
+					break;
+				case "1965":
+					metaName = "Toys"
+					break;
+				case "6285":
+					metaName = "Beauty"
+					break;
+				case "7735":
+					metaName = "Collectibles"
+					break;
+				case "1125":
+					metaName = "Kitchen & Food"
+					break;
+				case "2039":
+					metaName = "Electronics"
+					break;
+				case "1002":
+					metaName = "Fashion"
+					break;
+				case "8565":
+					metaName = "Sports & Fitness"
+					break;
+				case "9945":
+					metaName = "Hobbies & Toys"
+					break;
+				case "9255":
+					metaName = "House & Home"
+					break;
+				case "1001":
+					metaName = "Jewelry"
+					break;
+				case "2399":
+					metaName = "Sports"
+					break;
+				case "3279":
+					metaName = "Clearance"
+					break;
+				case "0003":
+					metaName = "Holiday"
+					break;
+				case "F600":
+					metaName = "Diamonique"
+					break;
+				case "C500":
+					metaName = "Men\'s"
+					break;
+				case "F500":
+					metaName = "Children\'s"
+					break;
+				case "F700":
+					metaName = "Gourmet Food"
+					break;
+				case "0100":
+					metaName = "Fashion"
+					break;
+				case "0101":
+					metaName = "For the Home"
+					break;
+				case "0104":
+					metaName = "Sports & Leisure"
+					break;
+				case "0102":
+					metaName = "Kitchen & Food"
+					break;
+				case "0103":
+					metaName = "Electronics"
+					break;
+				case "M227":
+					metaName = "Wellness & Sports"
+					break;
+				case "M228":
+					metaName = "Crafts & Leisure"
+					break;								
+				default:
+					metaName = ""
+					meta = ""
+					break;
+			}
+			/* write the link and name of the Meta, to the html file */
+			if (metaName != "") {
+				document.write('<a href="/index.html">QVC</a> : ');
+				document.write('<a href="/qic/qvcapp.aspx/app.nav/params.class.' + MetaClassCodeQic + '/walk.yah.' + MetaClassCodeQic + '" target="_top">' + metaName + '</a>');
+				document.write('&nbsp;: ');
 			}
 		}
 	</script>
 	<!-- END: QIC YAH -->
-</head>
+<script type="text/javascript" charset="iso-8859-1" src="https://sales.liveperson.net/hcp/html/mTag.js?site=LPqvc_qvc"></script></head>
 <body> 
 
-<!--------------- END head html zone file ---------------------->
+<!-- end head html zone file -->
 
-		<table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td width="7" bgcolor="FFFFFF"></td>
-				<td><!-- top zone file -->
+<!-- begin wrapper -->
+<div class="wrapper">
 
-<!-- QPartSource =  : Req time = 0 sec --><div id="mastheadContent"><table cellspacing="0" cellpadding="0" width="100%"><tbody><tr align="left"><td colspan="2" valign="top" height="18"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><a href="http://www.qvc.com/index.html" target="_top"><img src="/qvc/gif/goleft.gif" width="13" height="11" border="0"></a></td><td nowrap=""><a href="http://www.qvc.com/index.html" class="home" target="_top">QVC Homepage</a></td></tr></tbody></table></td></tr><tr><td width="50%"><a href="http://www.qvc.com/index.html" target="_top"><img src="/qvc/gif/hp/qvc_logo.gif" alt="QVC. Quality. Value. Convenience." border="0"></a></td><td width="100%" align="right" height="37"><table cellspacing="0" cellpadding="0" border="0" align="right"><tbody><tr><td width="115"><div class="topLink"><a href="http://www.qvc.com/qic/qvcapp.aspx/view.2/app.multi/params.file.|asp|OrderListRedirect,asp/walk.yah.0000?cm_re=MH-_-CS-_-SHOPPINGCART" target="_top"><img src="/qvc/gif/hp/a_shopcart.gif" width="13" height="12" border="0" alt="Shopping Cart">&nbsp;Shopping Cart</a></div></td><td width="115"><span class="topDot">•</span>&nbsp;<span class="topLink"><nobr><a href="https://www-ssl.qvc.com/qic/qvcapp.aspx/app.multi/params.file.|UniversalLogin|UniversalLogin,asp.Venue.OrderStatus.Dest.|csscripts|cs_order_history,asp/walk.multi.|cshtml|csmenu,asp?cm_re=MH-_-CS-_-ORDERSTATUS">Order Status</a></nobr></span></td><td width="15" rowspan="2" class="tdSeparator">&nbsp;</td><td width="85"><span class="topDot">•</span>&nbsp;<span class="topLink"><nobr><a href="http://www.qvc.com/qic/qvcapp.aspx/view.2/app.html/params.file.|sitemap,html/walk.yah.0000?cm_re=MH-_-CS-_-SITEMAP">Site Map</a></nobr></span></td></tr><tr><td><img src="/qvc/gif/shim.gif" width="10" height="1"><span class="topDot">•</span>&nbsp;<span class="topLink"><nobr><a href="https://www-ssl.qvc.com/qic/qvcapp.aspx/app.multi/params.file.|cshtml|cshome,asp/walk.multi.|cshtml|csmenu,asp?cm_re=MH-_-CS-_-MYACCOUNT">My Account</a></nobr></span></td><td><span class="topDot">•</span>&nbsp;<span class="topLink"><nobr><a href="https://www-ssl.qvc.com/qic/qvcapp.aspx/app.multi/params.file.|cshtml|cs_help,html/walk.multi.|cshtml|cs_helpmenu,asp?cm_re=MH-_-CS-_-CUSTOMERSVC">Customer Service</a></nobr></span></td><td colspan="3"><span class="topDot">•</span>&nbsp;<span class="topLink"><nobr><a href="http://www.qvc.com/qic/qvcapp.aspx/app.nav/params.class.9453/walk.yah.0008-C857?cm_re=MH-_-CS-_-GIFTCARDS">Gift Cards</a></nobr></span></td></tr></tbody></table></td></tr></tbody></table><table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td width="100%"><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td width="12"><img src="/qvc/gif/hp/tab_blue_left.gif" width="12" height="28"></td><td class="tab"><a href="http://www.qvc.com/qic/qvcapp.aspx/app.nav/params.class.0008/walk.yah.0008?cm_re=PAGE-_-MASTHEAD-_-ACCESSORIESSHOES" title="Accessories &amp; Shoes">Accessories &amp; Shoes</a></td><td width="12"><img src="/qvc/gif/hp/tab_blue_right.gif" width="12" height="28"></td></tr></tbody></table></td><td><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td width="12"><img src="/qvc/gif/hp/tab_blue_left.gif" width="12" height="28"></td><td class="tab"><a href="http://www.qvc.com/qic/qvcapp.aspx/app.nav/params.class.0009/walk.yah.0009?cm_re=PAGE-_-MASTHEAD-_-WOMENS" title="Women's">Women's</a></td><td width="12"><img src="/qvc/gif/hp/tab_blue_right.gif" width="12" height="28"></td></tr></tbody></table></td><td><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td width="12"><img src="/qvc/gif/hp/tab_blue_left.gif" width="12" height="28"></td><td class="tab"><a href="http://www.qvc.com/qic/qvcapp.aspx/app.nav/params.class.C500/walk.yah.C500?cm_re=PAGE-_-MASTHEAD-_-MENS" title="Men's">Men's</a></td><td width="12"><img src="/qvc/gif/hp/tab_blue_right.gif" width="12" height="28"></td></tr></tbody></table></td><td><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td width="12"><img src="/qvc/gif/hp/tab_blue_left.gif" width="12" height="28"></td><td class="tab"><a href="http://www.qvc.com/qic/qvcapp.aspx/app.nav/params.class.6285/walk.yah.6285?cm_re=PAGE-_-MASTHEAD-_-BEAUTY" title="Beauty">Beauty</a></td><td width="12"><img src="/qvc/gif/hp/tab_blue_right.gif" width="12" height="28"></td></tr></tbody></table></td><td><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td width="12"><img src="/qvc/gif/hp/tab_blue_left.gif" width="12" height="28"></td><td class="tab"><a href="http://www.qvc.com/qic/qvcapp.aspx/app.nav/params.class.1001/walk.yah.1001?cm_re=PAGE-_-MASTHEAD-_-JEWELRY" title="Jewelry">Jewelry</a></td><td width="12"><img src="/qvc/gif/hp/tab_blue_right.gif" width="12" height="28"></td></tr></tbody></table></td><td><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td width="12"><img src="/qvc/gif/hp/tab_blue_left.gif" width="12" height="28"></td><td class="tab"><a href="http://www.qvc.com/qic/qvcapp.aspx/app.nav/params.class.1125/walk.yah.1125?cm_re=PAGE-_-MASTHEAD-_-COOKING" title="Cooking &amp; Dining">Cooking &amp; Dining</a></td><td width="12"><img src="/qvc/gif/hp/tab_blue_right.gif" width="12" height="28"></td></tr></tbody></table></td><td><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td width="12"><img src="/qvc/gif/hp/tab_blue_left.gif" width="12" height="28"></td><td class="tab"><a href="http://www.qvc.com/qic/qvcapp.aspx/app.nav/params.class.F700/walk.yah.F700?cm_re=PAGE-_-MASTHEAD-_-GOURMETFOOD" title="Gourmet Food">Gourmet Food</a></td><td width="12"><img src="/qvc/gif/hp/tab_blue_right.gif" width="12" height="28"></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td width="12"><img src="/qvc/gif/hp/tab_blue_left.gif" width="12" height="28"></td><td class="tab"><a href="http://www.qvc.com/qic/qvcapp.aspx/app.nav/params.class.0010/walk.yah.0010?cm_re=PAGE-_-MASTHEAD-_-HOMEDECOR" title="Home Décor">Home Décor</a></td><td width="12"><img src="/qvc/gif/hp/tab_blue_right.gif" width="12" height="28"></td></tr></tbody></table></td><td><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td width="12"><img src="/qvc/gif/hp/tab_blue_left.gif" width="12" height="28"></td><td class="tab"><a href="http://www.qvc.com/qic/qvcapp.aspx/app.nav/params.class.0011/walk.yah.0011?cm_re=PAGE-_-MASTHEAD-_-HOMEIMPROVEMENT" title="Home Improvement">Home Improvement</a></td><td width="12"><img src="/qvc/gif/hp/tab_blue_right.gif" width="12" height="28"></td></tr></tbody></table></td><td><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td width="12"><img src="/qvc/gif/hp/tab_blue_left.gif" width="12" height="28"></td><td class="tab"><a href="http://www.qvc.com/qic/qvcapp.aspx/app.nav/params.class.2039/walk.yah.2039?cm_re=PAGE-_-MASTHEAD-_-ELECTRONICS" title="Electronics">Electronics</a></td><td width="12"><img src="/qvc/gif/hp/tab_blue_right.gif" width="12" height="28"></td></tr></tbody></table></td><td><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td width="12"><img src="/qvc/gif/hp/tab_blue_left.gif" width="12" height="28"></td><td class="tab"><a href="http://www.qvc.com/qic/qvcapp.aspx/app.nav/params.class.8565/walk.yah.8565?cm_re=PAGE-_-MASTHEAD-_-SPORTSFITNESS" title="Sports &amp; Fitness">Sports &amp; Fitness</a></td><td width="12"><img src="/qvc/gif/hp/tab_blue_right.gif" width="12" height="28"></td></tr></tbody></table></td><td><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td width="12"><img src="/qvc/gif/hp/tab_blue_left.gif" width="12" height="28"></td><td class="tab"><a href="http://www.qvc.com/qic/qvcapp.aspx/app.nav/params.class.0012/walk.yah.0012?cm_re=PAGE-_-MASTHEAD-_-TOYSCRAFTS" title="Toys, Crafts &amp; Leisure">Toys, Crafts &amp; Leisure</a></td><td width="12"><img src="/qvc/gif/hp/tab_blue_right.gif" width="12" height="28"></td></tr></tbody></table></td><td><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td width="12"><img src="/qvc/gif/hp/tab_blue_left.gif" width="12" height="28"></td><td class="tab"><a href="http://www.qvc.com/qic/qvcapp.aspx/app.nav/params.class.3279/walk.yah.3279?cm_re=PAGE-_-MASTHEAD-_-CLEARANCE" title="Clearance">Clearance</a></td><td width="12"><img src="/qvc/gif/hp/tab_blue_right.gif" width="12" height="28"></td></tr></tbody></table></td><td width="117"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td width="12"><a href="/qic/qvcapp.aspx/app.nav/params.class.0003/walk.yah.0003?cm_re=PAGE-_-MASTHEAD-_-SEASONAL" class="tab"><img src="/qvc/gif/hp/fathersday_tab_1.gif" border="0"></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table width="100%" cellspacing="0" cellpadding="0" border="0"><form action="http://www.qvc.com/asp/qicIsItemNumberRedirect.asp?cm_re=PAGE-_-SEARCH-_-SEARCH" method="get" name="frmQuickSearch" target="_top" id="frmQuickSearch" onsubmit="return ValidateSearchRequest(this);"></form><input type="hidden" name="search" value="SQ"><input type="hidden" name="referrer" value="QVC"><input type="hidden" name="CLASSLEVEL" value=""><tbody><tr><td colspan="8" bgcolor="#ffffff"><img src="/qvc/gif/shim.gif" width="5" height="2"></td></tr><tr><td align="left"><img src="/qvc/gif/hp/lft_grey_corner.gif" border="0" width="6" height="25"></td><td align="right" valign="middle" width="100%" bgcolor="#cccccc">&nbsp;</td><td bgcolor="#cccccc" align="right" class="background" width="100%" nowrap=""><font color="black"><span style="width: 100px; padding-right: 10px;"> Search for:</span></font></td><td bgcolor="#cccccc" align="right" width="9%"><input type="text" size="15" id="txtDesc" name="txtDesc" value=""></td><td bgcolor="#cccccc" width="-1%" class="caption"><font color="black"><div style="width: 25px; text-align: center;"> in </div></font></td><td bgcolor="#cccccc" width="125"><select name="SearchClass"><option value="">All of QVC.com</option><option value="0008">Accessories &amp; Shoes</option><option value="6285">Beauty</option><option value="3279">Clearance</option><option value="1125">Cooking &amp; Dining</option><option value="2039">Electronics</option><option value="F700">Gourmet Food</option><option value="0010">Home Décor</option><option value="0011">Home Improvement</option><option value="1001">Jewelry</option><option value="C500">Men's</option><option value="0003">Seasonal</option><option value="8565">Sports &amp; Fitness</option><option value="0012">Toys, Crafts &amp; Leisure</option><option value="0009">Women's</option></select></td><td align="right" bgcolor="#cccccc" valign="middle" width="25"><div style="width: 25px; text-align: center;"><input type="image" name="search" value="submit" src="/qvc/gif/hp/go_btn.gif" alt="go" width="21" height="21" border="0"></div></td><td align="left"><img src="/qvc/gif/hp/rght_grey_corner.gif" width="10" height="25"></td></tr><tr><td colspan="8"><img src="/qvc/gif/shim.gif" width="5" height="3"></td></tr></tbody></table></div>
+    <div class="masthead">
+         <!-- top zone file -->
 
-</td>
-			</tr>
-		</tbody></table>
-		<table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td width="7" bgcolor="FFFFFF">&nbsp;</td>
-				<td valign="top"><!-- leftnav zone file -->
-<div id="toolboxContent">
-<!-- QPartSource = f:\inetsrv\wwwroot\qvc\html\templates\widgets\us\webparts\htmlfiles\Toolbox.html : Req time = 0 sec -->
-<a href="http://www.qvc.com/qic/qvcapp.aspx/app.pr/walk.multi.|pg_nav,asp?cm_re=PAGE-_-TOOLBOX-_-24HOURPRODREVIEW&amp;cm_sp=TOOLBOX-_-TOOLBOX-_-24HOURPRODREVIEW" target="_top"><img src="/qvc/gif/bttn_24review.gif" alt="24-Hour Product Review"></a>
-<a href="http://www.qvc.com/qic/qvcapp.aspx/app.detail/params.item.tsv!.tpl.tsv.cm_scid.TSV/walk.multi.|pg_nav,asp?cm_re=PAGE-_-TOOLBOX-_-TSV&amp;cm_sp=TOOLBOX-_-TOOLBOX-_-TSV" target="_top"><img src="/qvc/gif/bttn_tsv.gif" alt="Today's Special Value"></a>
-<a href="http://www.qvc.com/qic/qvcapp.aspx/app.detail/params.tpl.onair.item.onair.cm_scid.IOA/walk.multi.|pg_nav,asp?cm_re=PAGE-_-TOOLBOX-_-ITEMONAIR&amp;cm_sp=TOOLBOX-_-TOOLBOX-_-ITEMONAIR" target="_top"><img src="/qvc/gif/bttn_itemonair.gif" alt="Item On Air"></a>
-<a href="http://www.qvc.com/videostream/vid_linear.html?rewrite=no&amp;cm_re=PAGE-_-TOOLBOX-_-WATCHQVC&amp;cm_sp=HP-_-TOOLBOX-_-WATCHQVC" target="_top"><img src="/qvc/gif/bttn_watchqvc.gif" alt="Watch QVC TV Live"></a>
-<a href="http://www.qvc.com/qic/qvcapp.aspx/app.multi/params.file.|pguide|pguide_main,asp/walk.multi.|pg_nav,asp?cm_re=PAGE-_-TOOLBOX-_-PROGRAMGUIDE&amp;cm_sp=TOOLBOX-_-TOOLBOX-_-PROGRAMGUIDE" target="_top"><img src="/qvc/gif/bttn_programguide.gif" alt="Program Guide"></a>
-<a href="http://www.qvc.com/qic/qvcapp.aspx/main.html.file.|qvcVideo|index,html/left.html.file.|qvcVideo|qvc_dd,html?cm_re=HP-_-TOOLBOX-_-QVCVIDEOS&amp;cm_sp=TOOLBOX-_-TOOLBOX-_-QVCVIDEOS"><img src="/qvc/gif/hp/hp_ondemandbtn.gif" alt="Watch QVC Videos" border="0"></a>
+<!-- QPartSource =  : Req time = 0 sec --><div id="backToHome"><a href="http://www.qvc.com/?rewrite=no&amp;cm_re=MH-_-BACKTOHOMEPAGE-_-BACKTOHOMEPAGE&amp;cm_sp=MH-_-BACKTOHOMEPAGE-_-BACKTOHOMEPAGE">Back to Homepage</a></div><div id="topnav"><div id="qlogo"><a href="http://www.qvc.com/?rewrite=no&amp;cm_re=MH-_-LOGO-_-LOGO&amp;cm_sp=MH-_-LOGO-_-LOGO" onmouseover="window.status='Go to the QVC Home Page.'; return true;" onmouseout="window.status=''; return true;"><img src="/pic/shim.gif" width="90" height="82"></a></div><div id="navpromo"><a href="/qic/qvcapp.aspx/main.html.file.|gifts|guaranteedDelivery2008,html/left.html.file.|leftnav|guarDel2008_nav,html?cm_re=MH-_-BANNER-_-GUARANTEEDDELIVERY&amp;cm_sp=MH-_-BANNER-_-GUARANTEEDDELIVERY"><img src="/pic/shim.gif" width="405" height="82"></a></div><div class="newSiteMessage"><a href="http://community.qvc.com/blog-entry/Screen/Welcome-New-Qvccom/3000007715" cm_re="QVCNEWLOOK" cm_sp="QVCNEWLOOK"><img src="/pic/masthead/learn_more_text.gif"></a></div><div id="cslinks"><a href="https://quality-s.qvc.com/qic/qvcapp.aspx/view.2/app.multi/params.file.|UniversalLogin|UniversalLogin,asp.Venue.OrderStatus.Dest.|csscripts|cs_order_history,asp?cm_re=MH-_-CS-_-ORDERSTATUS">Order Status</a><span>|</span><a href="https://quality-s.qvc.com/qic/qvcapp.aspx/view.2/app.multi/params.file.|cshtml|cshome,asp?cm_re=MH-_-CS-_-MYACCOUNT">My Account</a><span>|</span><a href="https://quality-s.qvc.com/qic/qvcapp.aspx/view.2/main.html.file.|cs|cs_main,html?cm_re=MH-_-CS-_-CUSTOMERSVC">Customer Service</a><span>|</span><a href="http://www.qvc.com/wishlist/mywishlist.aspx?rewrite=no">Wish List</a><span>|</span><a href="http://www.qvc.com/qic/qvcapp.aspx/view.2/app.multi/params.file.|asp|OrderListRedirect,asp/walk.yah.0000?cm_re=MH-_-CS-_-SHOPPINGCART" alt="Cart" id="addtocartlink">Cart</a></div><div id="searchbox"><form action="/qic/qvcapp.aspx/view.2/app.multi/params.file.|qsearch|search,aspx" method="post" name="frmQuickSearch" target="_top" id="frmQuickSearch" onsubmit="return ValidateSearchRequest(this);"><ul><li><label for="search">Search:</label></li><li><input class="searchboxinput" id="searchinput" type="text" name="txtDesc" value=""></li><li><input class="gobutton" id="searchbtn" name="searchbtn" type="image" src="/pic/shim.gif" value=""></li></ul></form></div></div><div id="navlinks"><ul><li class="fashion"><a href="http://www.qvc.com/cgen/render.aspx?qp=class|0100&amp;walk.yah=0100&amp;rewrite=no&amp;" title="Fashion" manual_cm_re="MH-_-FASHION-_-FASHION" manual_cm_sp="MH-_-FASHION-_-FASHION">Fashion</a></li><li class="jewelry"><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1001&amp;walk.yah=1001&amp;rewrite=no&amp;" title="Jewelry" manual_cm_re="MH-_-JEWELRY-_-JEWELRY" manual_cm_sp="MH-_-JEWELRY-_-JEWELRY">Jewelry</a></li><li class="beauty"><a href="http://www.qvc.com/cgen/render.aspx?qp=class|6285&amp;walk.yah=6285&amp;rewrite=no&amp;" title="Beauty" manual_cm_re="MH-_-BEAUTY-_-BEAUTY" manual_cm_sp="MH-_-BEAUTY-_-BEAUTY">Beauty</a></li><li class="kitchen"><a href="http://www.qvc.com/cgen/render.aspx?qp=class|0102&amp;walk.yah=0102&amp;rewrite=no&amp;" title="Kitchen &amp; Food" manual_cm_re="MH-_-KITCHENFOOD-_-KITCHENFOOD" manual_cm_sp="MH-_-KITCHENFOOD-_-KITCHENFOOD">Kitchen &amp; Food</a></li><li class="forthehome"><a href="http://www.qvc.com/cgen/render.aspx?qp=class|0101&amp;walk.yah=0101&amp;rewrite=no&amp;" title="For the Home" manual_cm_re="MH-_-FORTHEHOME-_-FORTHEHOME" manual_cm_sp="MH-_-FORTHEHOME-_-FORTHEHOME">For the Home</a></li><li class="electronics"><a href="http://www.qvc.com/cgen/render.aspx?qp=class|0103&amp;walk.yah=0103&amp;rewrite=no&amp;" title="Electronics" manual_cm_re="MH-_-ELECTRONICS-_-ELECTRONICS" manual_cm_sp="MH-_-ELECTRONICS-_-ELECTRONICS">Electronics</a></li><li class="wellness"><a href="http://www.qvc.com/cgen/render.aspx?qp=class|M227&amp;walk.yah=M227&amp;rewrite=no&amp;" title="Wellness &amp; Sports" manual_cm_re="MH-_-WELLNESSSPORTS-_-WELLNESSSPORTS" manual_cm_sp="MH-_-WELLNESSSPORTS-_-WELLNESSSPORTS">Wellness &amp; Sports</a></li><li class="crafts"><a href="http://www.qvc.com/cgen/render.aspx?qp=class|M228&amp;walk.yah=M228&amp;rewrite=no&amp;" title="Crafts &amp; Leisure" manual_cm_re="MH-_-CRAFTSLEISURE-_-CRAFTSLEISURE" manual_cm_sp="MH-_-CRAFTSLEISURE-_-CRAFTSLEISURE">Crafts &amp; Leisure</a></li><li class="toys"><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1965&amp;walk.yah=1965&amp;rewrite=no&amp;" title="Toys" manual_cm_re="MH-_-TOYS-_-TOYS" manual_cm_sp="MH-_-TOYS-_-TOYS">Toys</a></li><li class="gifts"><a href="http://www.qvc.com/cgen/render.aspx?qp=class|H818&amp;walk.yah=H818&amp;rewrite=no&amp;" title="Gifts" manual_cm_re="MH-_-GIFTS-_-GIFTS" manual_cm_sp="MH-_-GIFTS-_-GIFTS">Gifts</a></li></ul></div><div id="fashion" class="sn fashion"><div class="snleft"><span class="snhdr">Accessories &amp; Shoes</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|8125&amp;rewrite=no&amp;level=2&amp;walk.yah=0100-8125" manual_cm_re="MH-_-FASHION-_-ACCESSORIES" manual_cm_sp="MH-_-FASHION-_-ACCESSORIES">Accessories</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|G249&amp;rewrite=no&amp;level=2&amp;walk.yah=0100-G249" manual_cm_re="MH-_-FASHION-_-HANDBAGS" manual_cm_sp="MH-_-FASHION-_-HANDBAGS">Handbags</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1023&amp;rewrite=no&amp;level=2&amp;walk.yah=0100-1023" manual_cm_re="MH-_-FASHION-_-SHOES" manual_cm_sp="MH-_-FASHION-_-SHOES">Shoes</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|2225&amp;rewrite=no&amp;level=2&amp;walk.yah=0100-2225" manual_cm_re="MH-_-FASHION-_-TRAVELLUGGAGE" manual_cm_sp="MH-_-FASHION-_-TRAVELLUGGAGE">Travel &amp; Luggage</a></li></ul><span class="snhdr">Women's Apparel</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|6958&amp;rewrite=no&amp;level=2&amp;walk.yah=0100-6958" manual_cm_re="MH-_-FASHION-_-BLAZERSJACKETS" manual_cm_sp="MH-_-FASHION-_-BLAZERSJACKETS">Blazers, Jackets, Etc.</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|H565&amp;rewrite=no&amp;level=2&amp;walk.yah=0100-H565" manual_cm_re="MH-_-FASHION-_-BLOUSESTOPS" manual_cm_sp="MH-_-FASHION-_-BLOUSESTOPS">Blouses &amp; Tops, Etc.</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|9106&amp;rewrite=no&amp;level=2&amp;walk.yah=0100-9106" manual_cm_re="MH-_-FASHION-_-CUSTOMFIT" manual_cm_sp="MH-_-FASHION-_-CUSTOMFIT">Custom Fit</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|I476&amp;rewrite=no&amp;level=2&amp;walk.yah=0100-I476" manual_cm_re="MH-_-FASHION-_-DRESSESSKIRTS" manual_cm_sp="MH-_-FASHION-_-DRESSESSKIRTS">Dresses &amp; Skirts</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|8455&amp;rewrite=no&amp;level=2&amp;walk.yah=0100-8455" manual_cm_re="MH-_-FASHION-_-INTIMATES" manual_cm_sp="MH-_-FASHION-_-INTIMATES">Intimates</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1025&amp;rewrite=no&amp;level=2&amp;walk.yah=0100-1025" manual_cm_re="MH-_-FASHION-_-OUTERWEAR" manual_cm_sp="MH-_-FASHION-_-OUTERWEAR">Outerwear</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|I477&amp;rewrite=no&amp;level=2&amp;walk.yah=0100-I477" manual_cm_re="MH-_-FASHION-_-PANTSSHORTS" manual_cm_sp="MH-_-FASHION-_-PANTSSHORTS">Pants, Shorts, Etc.</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|I478&amp;rewrite=no&amp;level=2&amp;walk.yah=0100-I478" manual_cm_re="MH-_-FASHION-_-SETS" manual_cm_sp="MH-_-FASHION-_-SETS">Sets</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|I909&amp;rewrite=no&amp;level=2&amp;walk.yah=0100-I909" manual_cm_re="MH-_-FASHION-_-SLEEPWEAR" manual_cm_sp="MH-_-FASHION-_-SLEEPWEAR">Sleepwear</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|I479&amp;rewrite=no&amp;level=2&amp;walk.yah=0100-I479" manual_cm_re="MH-_-FASHION-_-SWEATERS" manual_cm_sp="MH-_-FASHION-_-SWEATERS">Sweaters</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|6956&amp;rewrite=no&amp;level=2&amp;walk.yah=0100-6956" manual_cm_re="MH-_-FASHION-_-SWIMWEAR" manual_cm_sp="MH-_-FASHION-_-SWIMWEAR">Swimwear</a></li></ul></div><div class="snright"><span class="snhdr">Men's</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|J528&amp;rewrite=no&amp;level=2&amp;walk.yah=0100-J528" manual_cm_re="MH-_-FASHION-_-MENSACCESSORIESSHOES" manual_cm_sp="MH-_-FASHION-_-MENSACCESSORIESSHOES">Accessories &amp; Shoes</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|B916&amp;rewrite=no&amp;level=2&amp;walk.yah=0100-B916" manual_cm_re="MH-_-FASHION-_-MENSAPPAREL" manual_cm_sp="MH-_-FASHION-_-MENSAPPAREL">Apparel</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|F396&amp;rewrite=no&amp;level=2&amp;walk.yah=0100-F396" manual_cm_re="MH-_-FASHION-_-MENSJEWELRYWATCHES" manual_cm_sp="MH-_-FASHION-_-MENSJEWELRYWATCHES">Jewelry &amp; Watches</a></li></ul><span class="snhdr">Shop by Brand</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|8077&amp;rewrite=no&amp;level=2&amp;walk.yah=0100-8077" manual_cm_re="MH-_-FASHION-_-CITIKNITS" manual_cm_sp="MH-_-FASHION-_-CITIKNITS">Citiknits</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|4543&amp;rewrite=no&amp;level=2&amp;walk.yah=0100-4543" manual_cm_re="MH-_-FASHION-_-DENIMCO" manual_cm_sp="MH-_-FASHION-_-DENIMCO">Denim &amp; Co.</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|9670&amp;rewrite=no&amp;level=2&amp;walk.yah=0100-9670" manual_cm_re="MH-_-FASHION-_-DOONEYBOURKE" manual_cm_sp="MH-_-FASHION-_-DOONEYBOURKE">Dooney &amp; Bourke</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|4648&amp;rewrite=no&amp;level=2&amp;walk.yah=0100-4648" manual_cm_re="MH-_-FASHION-_-QUACKERFACTORY" manual_cm_sp="MH-_-FASHION-_-QUACKERFACTORY">Quacker Factory</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|4713&amp;rewrite=no&amp;level=2&amp;walk.yah=0100-4713" manual_cm_re="MH-_-FASHION-_-SUSANGRAVER" manual_cm_sp="MH-_-FASHION-_-SUSANGRAVER">Susan Graver</a></li><li><a href="http://www.qvc.com/qic/qvcapp.aspx/app.html/params.file.|brands|brand0100,html/walk.yah.0100" manual_cm_re="MH-_-FASHION-_-BRANDSATOZ" title="View all brands">More</a></li></ul></div><div class="snbtm"><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|L615&amp;rewrite=no&amp;level=2&amp;walk.yah=0100-L615" manual_cm_re="MH-_-FASHION-_-NEWTHISWEEK" manual_cm_sp="MH-_-FASHION-_-FASHIONNEWTHISWEEK">New This Week</a></li><li><a href="/qic/qvcapp.aspx/app.nav/params.class.J677/walk.yah.3279-J677" manual_cm_re="MH-_-FASHION-_-CLEARANCE" manual_cm_sp="MH-_-FASHION-_-FASHIONCLEARANCE">Clearance</a></li></ul></div></div><div id="jewelry" class="sn jewelry"><div class="snleft"><span class="snhdr">Departments</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1021&amp;rewrite=no&amp;level=2&amp;walk.yah=1001-1021" manual_cm_re="MH-_-JEWELRY-_-ACCESSORIES" manual_cm_sp="MH-_-JEWELRY-_-ACCESSORIES">Accessories</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|C928&amp;rewrite=no&amp;level=2&amp;walk.yah=1001-C928" manual_cm_re="MH-_-JEWELRY-_-ANKLEBRACELETS" manual_cm_sp="MH-_-JEWELRY-_-ANKLEBRACELETS">Ankle Bracelets</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1013&amp;rewrite=no&amp;level=2&amp;walk.yah=1001-1013" manual_cm_re="MH-_-JEWELRY-_-BRACELETS" manual_cm_sp="MH-_-JEWELRY-_-BRACELETS">Bracelets</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|6685&amp;rewrite=no&amp;level=2&amp;walk.yah=1001-6685" manual_cm_re="MH-_-JEWELRY-_-CHARMS" manual_cm_sp="MH-_-JEWELRY-_-CHARMS">Charms</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|2585&amp;rewrite=no&amp;level=2&amp;walk.yah=1001-2585" manual_cm_re="MH-_-JEWELRY-_-EARRINGS" manual_cm_sp="MH-_-JEWELRY-_-EARRINGS">Earrings</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|F396&amp;rewrite=no&amp;level=2&amp;walk.yah=1001-F396" manual_cm_re="MH-_-JEWELRY-_-MENS" manual_cm_sp="MH-_-JEWELRY-_-MENS">Men's</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1012&amp;rewrite=no&amp;level=2&amp;walk.yah=1001-1012" manual_cm_re="MH-_-JEWELRY-_-NECKLACES" manual_cm_sp="MH-_-JEWELRY-_-NECKLACES">Necklaces</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|J556&amp;rewrite=no&amp;level=2&amp;walk.yah=1001-J556" manual_cm_re="MH-_-JEWELRY-_-PENDANTS" manual_cm_sp="MH-_-JEWELRY-_-PENDANTS">Pendants</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|2865&amp;rewrite=no&amp;level=2&amp;walk.yah=1001-2865" manual_cm_re="MH-_-JEWELRY-_-PINS" manual_cm_sp="MH-_-JEWELRY-_-PINS">Pins</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1011&amp;rewrite=no&amp;level=2&amp;walk.yah=1001-1011" manual_cm_re="MH-_-JEWELRY-_-RINGS" manual_cm_sp="MH-_-JEWELRY-_-RINGS">Rings</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|3145&amp;rewrite=no&amp;level=2&amp;walk.yah=1001-3145" manual_cm_re="MH-_-JEWELRY-_-WATCHES" manual_cm_sp="MH-_-JEWELRY-_-WATCHES">Watches</a></li></ul></div><div class="snright"><span class="snhdr">Shop by Material</span><ul><li><a href="/qic/qvcapp.aspx/app.nav/params.class.K745.level.2.parent.1001/walk.yah.1001-K745" manual_cm_re="MH-_-JEWELRY-_-DIAMONIQUE" manual_cm_sp="MH-_-JEWELRY-_-DIAMONIQUE">Diamonique</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|A665&amp;rewrite=no&amp;level=2&amp;walk.yah=1001-A665" manual_cm_re="MH-_-JEWELRY-_-GEMSTONE" manual_cm_sp="MH-_-JEWELRY-_-GEMSTONE">Gemstone</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|9398&amp;rewrite=no&amp;level=2&amp;walk.yah=1001-9398" manual_cm_re="MH-_-JEWELRY-_-GOLD" manual_cm_sp="MH-_-JEWELRY-_-GOLD">Gold</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|3407&amp;rewrite=no&amp;level=2&amp;walk.yah=1001-3407" manual_cm_re="MH-_-JEWELRY-_-STERLINGSILVER" manual_cm_sp="MH-_-JEWELRY-_-STERLINGSILVER">Sterling Silver</a></li></ul><span class="snhdr">Shop by Designer &amp; Brand</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|4604&amp;rewrite=no&amp;level=2&amp;walk.yah=1001-4604" manual_cm_re="MH-_-JEWELRY-_-AFFINITYDIAMOND" manual_cm_sp="MH-_-JEWELRY-_-AFFINITYDIAMOND">Affinity Diamond</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|K745&amp;rewrite=no&amp;level=2&amp;walk.yah=1001-K745" manual_cm_re="MH-_-JEWELRY-_-DIAMONIQUE" manual_cm_sp="MH-_-JEWELRY-_-DIAMONIQUE">Diamonique</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|F142&amp;rewrite=no&amp;level=2&amp;walk.yah=1001-F142" manual_cm_re="MH-_-JEWELRY-_-EPIPHANY" manual_cm_sp="MH-_-JEWELRY-_-EPIPHANY">Epiphany</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1652&amp;rewrite=no&amp;level=2&amp;walk.yah=1001-1652" manual_cm_re="MH-_-JEWELRY-_-JOANRIVERS" manual_cm_sp="MH-_-JEWELRY-_-JOANRIVERS">Joan Rivers</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|3768&amp;rewrite=no&amp;level=2&amp;walk.yah=1001-3768" manual_cm_re="MH-_-JEWELRY-_-JUDITHRIPKA" manual_cm_sp="MH-_-JEWELRY-_-JUDITHRIPKA">Judith Ripka</a></li><li><a href="http://www.qvc.com/qic/qvcapp.aspx/app.html/params.file.|brands|brand1001,html/walk.yah.1001" manual_cm_re="MH-_-JEWELRY-_-BRANDSATOZ" title="View all brands">More</a></li></ul></div><div class="snbtm"><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|L617&amp;rewrite=no&amp;level=2&amp;walk.yah=1001-L617" manual_cm_re="MH-_-JEWELRY-_-NEWTHISWEEK" manual_cm_sp="MH-_-JEWELRY-_-JEWELRYNEWTHISWEEK">New This Week</a></li><li><a href="/qic/qvcapp.aspx/app.nav/params.class.3290/walk.yah.3279-3290" manual_cm_re="MH-_-JEWELRY-_-CLEARANCE" manual_cm_sp="MH-_-JEWELRY-_-JEWELRYCLEARANCE">Clearance</a></li></ul></div></div><div id="beauty" class="sn beauty"><div class="snleft"><span class="snhdr">Departments</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1610&amp;rewrite=no&amp;level=2&amp;walk.yah=6285-1610" manual_cm_re="MH-_-BEAUTY-_-BATHBODY" manual_cm_sp="MH-_-BEAUTY-_-BATHBODY">Bath &amp; Body</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|6295&amp;rewrite=no&amp;level=2&amp;walk.yah=6285-6295" manual_cm_re="MH-_-BEAUTY-_-COSMETICS" manual_cm_sp="MH-_-BEAUTY-_-COSMETICS">Cosmetics</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|6495&amp;rewrite=no&amp;level=2&amp;walk.yah=6285-6495" manual_cm_re="MH-_-BEAUTY-_-FACECARE" manual_cm_sp="MH-_-BEAUTY-_-FACECARE">Face Care</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|6365&amp;rewrite=no&amp;level=2&amp;walk.yah=6285-6365" manual_cm_re="MH-_-BEAUTY-_-FRAGRANCE" manual_cm_sp="MH-_-BEAUTY-_-FRAGRANCE">Fragrance</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|6405&amp;rewrite=no&amp;level=2&amp;walk.yah=6285-6405" manual_cm_re="MH-_-BEAUTY-_-HAIRCARE" manual_cm_sp="MH-_-BEAUTY-_-HAIRCARE">Hair Care</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|I803&amp;rewrite=no&amp;level=2&amp;walk.yah=6285-I803" manual_cm_re="MH-_-BEAUTY-_-NAILCARE" manual_cm_sp="MH-_-BEAUTY-_-NAILCARE">Nail Care</a></li></ul></div><div class="snright"><span class="snhdr">Shop by Brand</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1214&amp;rewrite=no&amp;level=2&amp;walk.yah=6285-1214" manual_cm_re="MH-_-BEAUTY-_-BAREESCENTUALS" manual_cm_sp="MH-_-BEAUTY-_-BAREESCENTUALS">Bare Escentuals</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|6105&amp;rewrite=no&amp;level=2&amp;walk.yah=6285-6105" manual_cm_re="MH-_-BEAUTY-_-PHILOSOPHY" manual_cm_sp="MH-_-BEAUTY-_-PHILOSOPHY">philosophy</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|B341&amp;rewrite=no&amp;level=2&amp;walk.yah=6285-B341" manual_cm_re="MH-_-BEAUTY-_-DRDENESE" manual_cm_sp="MH-_-BEAUTY-_-DRDENESE">Dr. Denese</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|2117&amp;rewrite=no&amp;level=2&amp;walk.yah=6285-2117" manual_cm_re="MH-_-BEAUTY-_-LAURAGELLER" manual_cm_sp="MH-_-BEAUTY-_-LAURAGELLER">Laura Geller</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|F815&amp;rewrite=no&amp;level=2&amp;walk.yah=6285-F815" manual_cm_re="MH-_-BEAUTY-_-OJONHAIRCARE" manual_cm_sp="MH-_-BEAUTY-_-OJONHAIRCARE">Ojon Hair Care</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|4203&amp;rewrite=no&amp;level=2&amp;walk.yah=6285-4203" manual_cm_re="MH-_-BEAUTY-_-PROACTIVSOLUTION" manual_cm_sp="MH-_-BEAUTY-_-PROACTIVSOLUTION">Proactiv Solution</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|7526&amp;rewrite=no&amp;level=2&amp;walk.yah=6285-7526" manual_cm_re="MH-_-BEAUTY-_-SMASHBOX" manual_cm_sp="MH-_-BEAUTY-_-SMASHBOX">smashbox</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|K776&amp;rewrite=no&amp;level=2&amp;walk.yah=6285-K776" manual_cm_re="MH-_-BEAUTY-_-BOBBIBROWN" manual_cm_sp="MH-_-BEAUTY-_-BOBBIBROWN">Bobbi Brown</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|K112&amp;rewrite=no" manual_cm_re="MH-_-BEAUTY-_-PERRICONEMD" manual_cm_sp="MH-_-BEAUTY-_-PERRICONEMD">Perricone M.D.</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|K993&amp;rewrite=no&amp;level=2&amp;walk.yah=6285-K993" manual_cm_re="MH-_-BEAUTY-_-CLINIQUE" manual_cm_sp="MH-_-BEAUTY-_-CLINIQUE">Clinique</a></li><li><a href="http://www.qvc.com/qic/qvcapp.aspx/app.html/params.file.|brands|brand6285,html/walk.yah.6285" manual_cm_re="MH-_-BEAUTY-_-BRANDSATOZ" title="View all brands">More</a></li></ul></div><div class="snbtm"><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|L689&amp;rewrite=no&amp;level=2&amp;walk.yah=6285-L689" manual_cm_re="MH-_-BEAUTY-_-NEWTHISWEEK" manual_cm_sp="MH-_-BEAUTY-_-BEAUTYNEWTHISWEEK">New This Week</a></li></ul></div></div><div id="kitchen" class="sn kitchen"><div class="snleft"><span class="snhdr">Kitchen</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|H203&amp;rewrite=no&amp;level=2&amp;walk.yah=0102-H203" manual_cm_re="MH-_-KITCHENFOOD-_-BAKEWARE" manual_cm_sp="MH-_-KITCHENFOOD-_-BAKEWARE">Bakeware</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|J709&amp;rewrite=no&amp;level=2&amp;walk.yah=0102-J709" manual_cm_re="MH-_-KITCHENFOOD-_-COOKBOOKS" manual_cm_sp="MH-_-KITCHENFOOD-_-COOKBOOKS">Cookbooks</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|H204&amp;rewrite=no&amp;level=2&amp;walk.yah=0102-H204" manual_cm_re="MH-_-KITCHENFOOD-_-COOKWARE" manual_cm_sp="MH-_-KITCHENFOOD-_-COOKWARE">Cookware</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|2701&amp;rewrite=no&amp;level=2&amp;walk.yah=0102-2701" manual_cm_re="MH-_-KITCHENFOOD-_-GRILLS" manual_cm_sp="MH-_-KITCHENFOOD-_-GRILLS">Grills</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|4005&amp;rewrite=no&amp;level=2&amp;walk.yah=0102-4005" manual_cm_re="MH-_-KITCHENFOOD-_-KITCHENELECTRICS" manual_cm_sp="MH-_-KITCHENFOOD-_-KITCHENELECTRICS">Kitchen Electrics</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|4465&amp;rewrite=no&amp;level=2&amp;walk.yah=0102-4465" manual_cm_re="MH-_-KITCHENFOOD-_-KITCHENTOOLS" manual_cm_sp="MH-_-KITCHENFOOD-_-KITCHENTOOLS">Kitchen Tools</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|4595&amp;rewrite=no&amp;level=2&amp;walk.yah=0102-4595" manual_cm_re="MH-_-KITCHENFOOD-_-KNIVES" manual_cm_sp="MH-_-KITCHENFOOD-_-KNIVES">Knives</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|9125&amp;rewrite=no&amp;level=2&amp;walk.yah=0102-9125" manual_cm_re="MH-_-KITCHENFOOD-_-STORAGEORGANIZATION" manual_cm_sp="MH-_-KITCHENFOOD-_-STORAGEORGANIZATION">Storage &amp; Organization</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|5145&amp;rewrite=no&amp;level=2&amp;walk.yah=0102-5145" manual_cm_re="MH-_-KITCHENFOOD-_-TABLETOP" manual_cm_sp="MH-_-KITCHENFOOD-_-TABLETOP">Tabletop</a></li></ul><span class="snhdr">Food</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|L660&amp;rewrite=no&amp;level=2&amp;walk.yah=0102-L660" manual_cm_re="MH-_-KITCHENFOOD-_-APPETIZERSSNACKSSIDES" manual_cm_sp="MH-_-KITCHENFOOD-_-APPETIZERSSNACKSSIDES">Appetizers, Snacks &amp; Sides</a></li><li><a href="/qic/qvcapp.aspx/app.nav/params.class.H950.level.2.parent.0102/walk.yah.0102-H950" manual_cm_re="MH-_-KITCHENFOOD-_-COFFEETEA" manual_cm_sp="MH-_-KITCHENFOOD-_-COFFEETEA">Beverages</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|H931&amp;rewrite=no&amp;level=2&amp;walk.yah=0102-H931" manual_cm_re="MH-_-KITCHENFOOD-_-MEATPOULTRY" manual_cm_sp="MH-_-KITCHENFOOD-_-MEATPOULTRY">Meat &amp; Poultry</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|H933&amp;rewrite=no&amp;level=2&amp;walk.yah=0102-H933" manual_cm_re="MH-_-KITCHENFOOD-_-SEAFOOD" manual_cm_sp="MH-_-KITCHENFOOD-_-SEAFOOD">Seafood</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|3245&amp;rewrite=no&amp;level=2&amp;walk.yah=0102-3245" manual_cm_re="MH-_-KITCHENFOOD-_-SWEETSDESERTS" manual_cm_sp="MH-_-KITCHENFOOD-_-SWEETSDESERTS">Sweets &amp; Desserts</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|L895&amp;rewrite=no&amp;level=2&amp;walk.yah=0102-L895" manual_cm_re="MH-_-KITCHENFOOD-_-WINE" manual_cm_sp="MH-_-KITCHENFOOD-_-WINE">Wine</a></li></ul></div><div class="snright"><span class="snhdr">Shop by Brand</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|3344&amp;rewrite=no&amp;level=2&amp;walk.yah=0102-3344" manual_cm_re="MH-_-KITCHENFOOD-_-COOKSESSENTIALS" manual_cm_sp="MH-_-KITCHENFOOD-_-COOKSESSENTIALS">Cook's Essentials</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|I391&amp;rewrite=no&amp;level=2&amp;walk.yah=0102-I391" manual_cm_re="MH-_-KITCHENFOOD-_-TECHNIQUE" manual_cm_sp="MH-_-KITCHENFOOD-_-TECHNIQUE">Technique</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|5316&amp;rewrite=no&amp;level=2&amp;walk.yah=0102-5316" manual_cm_re="MH-_-KITCHENFOOD-_-KANSASCITYSTEAKCOMPANY" manual_cm_sp="MH-_-KITCHENFOOD-_-KANSASCITYSTEAKCOMPANY">Kansas City Steak Company</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|4695&amp;rewrite=no&amp;level=2&amp;walk.yah=0102-4695" manual_cm_re="MH-_-KITCHENFOOD-_-KITCHENAID" manual_cm_sp="MH-_-KITCHENFOOD-_-KITCHENAID">KitchenAid</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|4531&amp;rewrite=no" manual_cm_re="MH-_-KITCHENFOOD-_-LOCKLOCK" manual_cm_sp="MH-_-KITCHENFOOD-_-LOCKLOCK">Lock &amp; Lock</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|E024&amp;rewrite=no&amp;level=2&amp;walk.yah=0102-E024" manual_cm_re="MH-_-KITCHENFOOD-_-POLISHSTONEWARE" manual_cm_sp="MH-_-KITCHENFOOD-_-POLISHSTONEWARE">Polish Stoneware</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|H780&amp;rewrite=no&amp;level=2&amp;walk.yah=0102-H780" manual_cm_re="MH-_-KITCHENFOOD-_-TEMPTATIONS" manual_cm_sp="MH-_-KITCHENFOOD-_-TEMPTATIONS">Temp-tations</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|j647&amp;rewrite=no" manual_cm_re="MH-_-KITCHENFOOD-_-PREPOLOGY" manual_cm_sp="MH-_-KITCHENFOOD-_-PREPOLOGY">Prepology</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|J185&amp;rewrite=no" manual_cm_re="MH-_-KITCHENFOOD-_-PAULADEEN" manual_cm_sp="MH-_-KITCHENFOOD-_-PAULADEEN">Paula Deen</a></li><li><a href="http://www.qvc.com/qic/qvcapp.aspx/app.html/params.file.|gf|gf_selmas,html/walk.yah.F700-0000?" manual_cm_re="MH-_-KITCHENFOOD-_-SELMASCOOKIES" manual_cm_sp="MH-_-KITCHENFOOD-_-SELMASCOOKIES">Selma's Cookies</a></li><li><a href="http://www.qvc.com/qic/qvcapp.aspx/app.html/params.file.|brands|brand0102,html/walk.yah.0102" manual_cm_re="MH-_-KITCHENFOOD-_-BRANDSATOZ" title="View all brands">More</a></li></ul></div><div class="snbtm"><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|L621&amp;rewrite=no&amp;level=2&amp;walk.yah=0102-L621" manual_cm_re="MH-_-KITCHENFOOD-_-NEWTHISWEEK" manual_cm_sp="MH-_-KITCHENFOOD-_-KITCHENFOODTHISWEEK">New This Week</a></li><li><a href="/qic/qvcapp.aspx/app.nav/params.class.3283/walk.yah.3279-3283" manual_cm_re="MH-_-KITCHENFOOD-_-CLEARANCE" manual_cm_sp="MH-_-KITCHENFOOD-_-KITCHENFOODCLEARANCE">Clearance</a></li></ul></div></div><div id="forthehome" class="sn forthehome"><div class="snleft"><span class="snhdr">Home Decor</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|4561&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-4561" manual_cm_re="MH-_-FORTHEHOME-_-ARTGALLERY" manual_cm_sp="MH-_-FORTHEHOME-_-ARTGALLERY">Art Gallery</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|7328&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-7328" manual_cm_re="MH-_-FORTHEHOME-_-BATH" manual_cm_sp="MH-_-FORTHEHOME-_-BATH">Bath</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1641&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-1641" manual_cm_re="MH-_-FORTHEHOME-_-BEDDING" manual_cm_sp="MH-_-FORTHEHOME-_-BEDDING">Bedding</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|I723&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-I723" manual_cm_re="MH-_-FORTHEHOME-_-CANDLESSCENTS" manual_cm_sp="MH-_-FORTHEHOME-_-CANDLESSCENTS">Candles &amp; Scents</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1642&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-1642" manual_cm_re="MH-_-FORTHEHOME-_-COLLECTIBLES" manual_cm_sp="MH-_-FORTHEHOME-_-COLLECTIBLES">Collectibles</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1649&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-1649" manual_cm_re="MH-_-FORTHEHOME-_-DECORATIVEACCENTS" manual_cm_sp="MH-_-FORTHEHOME-_-DECORATIVEACCENTS">Decorative Accents</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1157&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-1157" manual_cm_re="MH-_-FORTHEHOME-_-FLOWERSHOUSEPLANTS" manual_cm_sp="MH-_-FORTHEHOME-_-FLOWERSHOUSEPLANTS">Flowers &amp; Houseplants</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|3335&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-3335" manual_cm_re="MH-_-FORTHEHOME-_-FURNITURE" manual_cm_sp="MH-_-FORTHEHOME-_-FURNITURE">Furniture</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|6925&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-6925" manual_cm_re="MH-_-FORTHEHOME-_-HOLIDAYPARTY" manual_cm_sp="MH-_-FORTHEHOME-_-HOLIDAYPARTY">Holiday &amp; Party</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|2683&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-2683" manual_cm_re="MH-_-FORTHEHOME-_-INDOOROUTDOORLIGHTING" manual_cm_sp="MH-_-FORTHEHOME-_-INDOOROUTDOORLIGHTING">Indoor &amp; Outdoor Lighting</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|F536&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-F536" manual_cm_re="MH-_-FORTHEHOME-_-MATTRESSES" manual_cm_sp="MH-_-FORTHEHOME-_-MATTRESSES">Mattresses, Etc.</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|2393&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-2393" manual_cm_re="MH-_-FORTHEHOME-_-RUGSMATS" manual_cm_sp="MH-_-FORTHEHOME-_-RUGSMATS">Rugs &amp; Mats</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|5145&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-5145" manual_cm_re="MH-_-FORTHEHOME-_-TABLETOP" manual_cm_sp="MH-_-FORTHEHOME-_-TABLETOP">Tabletop</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|D985&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-D985" manual_cm_re="MH-_-FORTHEHOME-_-WINDOWTREATMENT" manual_cm_sp="MH-_-FORTHEHOME-_-WINDOWTREATMENT">Window Treatments</a></li></ul></div><div class="snright"><span class="snhdr">Home Improvement</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|2403&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-2403" manual_cm_re="MH-_-FORTHEHOME-_-CLEANING" manual_cm_sp="MH-_-FORTHEHOME-_-CLEANING">Cleaning</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|G929&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-G929" manual_cm_re="MH-_-FORTHEHOME-_-FLOORCAREVACUUMS" manual_cm_sp="MH-_-FORTHEHOME-_-FLOORCAREVACUUMS">Floorcare &amp; Vacuums</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|K853&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-K853" manual_cm_re="MH-_-FORTHEHOME-_-GARDENCENTER" manual_cm_sp="MH-_-FORTHEHOME-_-GARDENCENTER">Garden Center</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|2701&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-2701" manual_cm_re="MH-_-FORTHEHOME-_-GRILLS" manual_cm_sp="MH-_-FORTHEHOME-_-GRILLS">Grills</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|3815&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-3815" manual_cm_re="MH-_-FORTHEHOME-_-HOMEENVIRONMENT" manual_cm_sp="MH-_-FORTHEHOME-_-HOMEENVIRONMENT">Home Environment</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1682&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-1682" manual_cm_re="MH-_-FORTHEHOME-_-HOMEPROJECTS" manual_cm_sp="MH-_-FORTHEHOME-_-HOMEPROJECTS">Home Projects</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|4755&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-4755" manual_cm_re="MH-_-FORTHEHOME-_-LAUNDRYCLOSET" manual_cm_sp="MH-_-FORTHEHOME-_-LAUNDRYCLOSET">Laundry &amp; Closet</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|K854&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-K854" manual_cm_re="MH-_-FORTHEHOME-_-OUTDOORLIVING" manual_cm_sp="MH-_-FORTHEHOME-_-OUTDOORLIVING">Outdoor Living</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|6765&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-6765" manual_cm_re="MH-_-FORTHEHOME-_-TOOLS" manual_cm_sp="MH-_-FORTHEHOME-_-TOOLS">Tools</a></li></ul><span class="snhdr">Shop by Brand</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|4272&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-4272" manual_cm_re="MH-_-FORTHEHOME-_-NORTHERNNIGHTS" manual_cm_sp="MH-_-FORTHEHOME-_-NORTHERNNIGHTS">Northern Nights</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|6587&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-6587" manual_cm_re="MH-_-FORTHEHOME-_-LORIGREINER" manual_cm_sp="MH-_-FORTHEHOME-_-LORIGREINER">Lori Greiner</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|B119&amp;rewrite=no" manual_cm_re="MH-_-FORTHEHOME-_-BODIPEDIC" manual_cm_sp="MH-_-FORTHEHOME-_-BODIPEDIC">Bodipedic</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|4719&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-4719" manual_cm_re="MH-_-FORTHEHOME-_-ROYALPALACERUGS" manual_cm_sp="MH-_-FORTHEHOME-_-ROYALPALACERUGS">Royal Palace Rugs</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|3399&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-3399" manual_cm_re="MH-_-FORTHEHOME-_-VALERIEPARRHILL" manual_cm_sp="MH-_-FORTHEHOME-_-VALERIEPARRHILL">Valerie Parr Hill</a></li><li><a href="http://www.qvc.com/qic/qvcapp.aspx/app.html/params.file.|brands|brand0101,html/walk.yah.0101" manual_cm_re="MH-_-FORTHEHOME-_-BRANDSATOZ" title="View all brands">More</a></li></ul></div><div class="snbtm"><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|L623&amp;rewrite=no&amp;level=2&amp;walk.yah=0101-L623" manual_cm_re="MH-_-FORTHEHOME-_-FORTHEHOMENEWTHISWEEK" manual_cm_sp="MH-_-FORTHEHOME-_-FORTHEHOMENEWTHISWEEK">New This Week</a></li><li><a href="/qic/qvcapp.aspx/app.nav/params.class.J678/walk.yah.3279-J678" manual_cm_re="MH-_-FORTHEHOME-_-FORTHEHOMECLEARANCE" manual_cm_sp="MH-_-FORTHEHOME-_-FORTHEHOMECLEARANCE">Clearance</a></li></ul></div></div><div id="electronics" class="sn electronics"><div class="snleft"><span class="snhdr">Electronics</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1671&amp;rewrite=no&amp;level=2&amp;walk.yah=0103-1671" manual_cm_re="MH-_-ELECTRONICS-_-CAMCORDERS" manual_cm_sp="MH-_-ELECTRONICS-_-CAMCORDERS">Camcorders</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1672&amp;rewrite=no&amp;level=2&amp;walk.yah=0103-1672" manual_cm_re="MH-_-ELECTRONICS-_-CAMERAS" manual_cm_sp="MH-_-ELECTRONICS-_-CAMERAS">Cameras</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1673&amp;rewrite=no&amp;level=2&amp;walk.yah=0103-1673" manual_cm_re="MH-_-ELECTRONICS-_-CARELECTRONICS" manual_cm_sp="MH-_-ELECTRONICS-_-CARELECTRONICS">Car Electronics</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1115&amp;rewrite=no&amp;level=2&amp;walk.yah=0103-1115" manual_cm_re="MH-_-ELECTRONICS-_-COMPUTERS" manual_cm_sp="MH-_-ELECTRONICS-_-COMPUTERS">Computers</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1681&amp;rewrite=no&amp;level=2&amp;walk.yah=0103-1681" manual_cm_re="MH-_-ELECTRONICS-_-DVDPLAYERSVCRS" manual_cm_sp="MH-_-ELECTRONICS-_-DVDPLAYERSVCRS">DVD Players &amp; VCRs</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|K950&amp;rewrite=no&amp;level=2&amp;walk.yah=0103-K950" manual_cm_re="MH-_-ELECTRONICS-_-GPS" manual_cm_sp="MH-_-ELECTRONICS-_-GPS">GPS Navigation</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1836&amp;rewrite=no&amp;level=2&amp;walk.yah=0103-1836" manual_cm_re="MH-_-ELECTRONICS-_-HOMEAUDIO" manual_cm_sp="MH-_-ELECTRONICS-_-HOMEAUDIO">Home Audio</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|6975&amp;rewrite=no&amp;level=2&amp;walk.yah=0103-6975" manual_cm_re="MH-_-ELECTRONICS-_-HOMEOFFICE" manual_cm_sp="MH-_-ELECTRONICS-_-HOMEOFFICE">Home Office</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1677&amp;rewrite=no&amp;level=2&amp;walk.yah=0103-1677" manual_cm_re="MH-_-ELECTRONICS-_-PHONES" manual_cm_sp="MH-_-ELECTRONICS-_-PHONES">Phones</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1680&amp;rewrite=no&amp;level=2&amp;walk.yah=0103-1680" manual_cm_re="MH-_-ELECTRONICS-_-PORTABLEELECTRONICS" manual_cm_sp="MH-_-ELECTRONICS-_-PORTABLEELECTRONICS">Portable Electronics</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|D943&amp;rewrite=no&amp;level=2&amp;walk.yah=0103-D943" manual_cm_re="MH-_-ELECTRONICS-_-PRINTERS" manual_cm_sp="MH-_-ELECTRONICS-_-PRINTERS">Printers</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|5575&amp;rewrite=no&amp;level=2&amp;walk.yah=0103-5575" manual_cm_re="MH-_-ELECTRONICS-_-SOFTWARE" manual_cm_sp="MH-_-ELECTRONICS-_-SOFTWARE">Software</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1678&amp;rewrite=no&amp;level=2&amp;walk.yah=0103-1678" manual_cm_re="MH-_-ELECTRONICS-_-TELESCOPESETC" manual_cm_sp="MH-_-ELECTRONICS-_-TELESCOPESETC">Telescopes, Etc.</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1679&amp;rewrite=no&amp;level=2&amp;walk.yah=0103-1679" manual_cm_re="MH-_-ELECTRONICS-_-TELEVISIONS" manual_cm_sp="MH-_-ELECTRONICS-_-TELEVISIONS">Televisions</a></li></ul></div><div class="snright"><span class="snhdr">Entertainment</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1055&amp;rewrite=no&amp;level=2&amp;walk.yah=0103-1055" manual_cm_re="MH-_-ELECTRONICS-_-BOOKS" manual_cm_sp="MH-_-ELECTRONICS-_-BOOKS">Books</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1565&amp;rewrite=no&amp;level=2&amp;walk.yah=0103-1565" manual_cm_re="MH-_-ELECTRONICS-_-MOVIESMUSIC" manual_cm_sp="MH-_-ELECTRONICS-_-MOVIESMUSIC">Movies &amp; Music</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|6235&amp;rewrite=no&amp;level=2&amp;walk.yah=0103-6235" manual_cm_re="MH-_-ELECTRONICS-_-VIDEOGAMES" manual_cm_sp="MH-_-ELECTRONICS-_-VIDEOGAMES">Video Games</a></li></ul><span class="snhdr">Shop by Brand</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|5534&amp;rewrite=no&amp;level=2&amp;walk.yah=0103-5534" manual_cm_re="MH-_-ELECTRONICS-_-DELL" manual_cm_sp="MH-_-ELECTRONICS-_-DELL">Dell</a></li><li><a href="http://www.qvc.com/qic/qvcapp.aspx/app.html/params.file.|el|el_bose_ss,html/walk.yah.0103-0000?" manual_cm_re="MH-_-ELECTRONICS-_-BOSE" manual_cm_sp="MH-_-ELECTRONICS-_-BOSE">Bose</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|8789&amp;rewrite=no&amp;level=2&amp;walk.yah=0103-8789" manual_cm_re="MH-_-ELECTRONICS-_-TOSHIBA" manual_cm_sp="MH-_-ELECTRONICS-_-TOSHIBA">Toshiba</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|9148&amp;rewrite=no&amp;level=2&amp;walk.yah=0103-9148" manual_cm_re="MH-_-ELECTRONICS-_-JVC" manual_cm_sp="MH-_-ELECTRONICS-_-JVC">JVC</a></li><li><a href="http://www.qvc.com/qic/qvcapp.aspx/app.html/params.file.|el|el_garmin,html/walk.html.|el|view_all,html?cm_re=PAGE-_-BRANDSHOPS-_-GARMIN" manual_cm_re="MH-_-ELECTRONICS-_-GARMIN" manual_cm_sp="MH-_-ELECTRONICS-_-GARMIN">Garmin</a></li><li><a href="http://www.qvc.com/qic/qvcapp.aspx/app.html/params.file.|brands|brand0103,html/walk.yah.0103" manual_cm_re="MH-_-ELECTRONICS-_-BRANDSATOZ" title="View all brands">More</a></li></ul></div><div class="snbtm"><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|L625&amp;rewrite=no&amp;level=2&amp;walk.yah=0103-L625" manual_cm_re="MH-_-ELECTRONICS-_-ELECTRONICSNEWTHISWEEK" manual_cm_sp="MH-_-ELECTRONICS-_-ELECTRONICSNEWTHISWEEK">New This Week</a></li><li><a href="/qic/qvcapp.aspx/app.nav/params.class.J718/walk.yah.3279-1988" manual_cm_re="MH-_-ELECTRONICS-_-ELECTRONICSCLEARANCE" manual_cm_sp="MH-_-ELECTRONICS-_-ELECTRONICSCLEARANCE">Clearance</a></li></ul></div></div><div id="wellness" class="sn wellness"><div class="snleft"><span class="snhdr">Wellness</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|8575&amp;rewrite=no&amp;level=2&amp;walk.yah=M227-8575" manual_cm_re="MH-_-WELLNESSSPORTS-_-FITNESSEQUIPMENT" manual_cm_sp="MH-_-WELLNESSSPORTS-_-FITNESSEQUIPMENT">Fitness Equipment &amp; DVDs</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|8635&amp;rewrite=no&amp;level=2&amp;walk.yah=M227-8635" manual_cm_re="MH-_-WELLNESSSPORTS-_-HEALTHYLIVING" manual_cm_sp="MH-_-WELLNESSSPORTS-_-HEALTHYLIVING">Healthy Living</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|L521&amp;rewrite=no&amp;level=2&amp;walk.yah=M227-L521" manual_cm_re="MH-_-WELLNESSSPORTS-_-MOTIVATIONAL" manual_cm_sp="MH-_-WELLNESSSPORTS-_-MOTIVATIONAL">Motivational Tools</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|3160&amp;rewrite=no&amp;level=2&amp;walk.yah=M227-3160" manual_cm_re="MH-_-WELLNESSSPORTS-_-NUTRITIONALSUPPLEMENTS" manual_cm_sp="MH-_-WELLNESSSPORTS-_-NUTRITIONALSUPPLEMENTS">Nutritional Supplements</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|4813&amp;rewrite=no&amp;level=2&amp;walk.yah=M227-4813" manual_cm_re="MH-_-WELLNESSSPORTS-_-WEIGHTLOSSNUTRISYSTEM" manual_cm_sp="MH-_-WELLNESSSPORTS-_-WEIGHTLOSSNUTRISYSTEM">Weight Loss by NutriSystem</a></li></ul><span class="snhdr">Sports</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|6261&amp;rewrite=no&amp;level=2&amp;walk.yah=M227-6261" manual_cm_re="MH-_-WELLNESSSPORTS-_-FRFO" manual_cm_sp="MH-_-WELLNESSSPORTS-_-FRFO">For Race Fans Only</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|J735&amp;rewrite=no&amp;level=2&amp;walk.yah=M227-J735" manual_cm_re="MH-_-WELLNESSSPORTS-_-NFL" manual_cm_sp="MH-_-WELLNESSSPORTS-_-NFL">NFL Shop</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|8805&amp;rewrite=no&amp;level=2&amp;walk.yah=M227-8805" manual_cm_re="MH-_-WELLNESSSPORTS-_-SPORTINGGOODS" manual_cm_sp="MH-_-WELLNESSSPORTS-_-SPORTINGGOODS">Sporting Goods</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|4202&amp;rewrite=no&amp;level=2&amp;walk.yah=M227-4202" manual_cm_re="MH-_-WELLNESSSPORTS-_-SPORTSMEMORABILIA" manual_cm_sp="MH-_-WELLNESSSPORTS-_-SPORTSMEMORABILIA">Sports Memorabilia</a></li></ul></div><div class="snright"><span class="snhdr">Shop by Brand</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|4813&amp;rewrite=no&amp;level=2&amp;walk.yah=M227-4813" manual_cm_re="MH-_-WELLNESSSPORTS-_-NUTRISYSTEM" manual_cm_sp="MH-_-WELLNESSSPORTS-_-NUTRISYSTEM">NutriSystem</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|J735&amp;rewrite=no&amp;level=2&amp;walk.yah=M227-J735" manual_cm_re="MH-_-WELLNESSSPORTS-_-NFLSHOP" manual_cm_sp="MH-_-WELLNESSSPORTS-_-NFLSHOP">NFL Shop</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|3160&amp;rewrite=no&amp;level=2&amp;walk.yah=M227-3160" manual_cm_re="MH-_-WELLNESSSPORTS-_-NATURESCODE" manual_cm_sp="MH-_-WELLNESSSPORTS-_-NATURESCODE">Nature's Code</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|6261&amp;rewrite=no&amp;level=2&amp;walk.yah=M227-6261" manual_cm_re="MH-_-WELLNESSSPORTS-_-FORRACEFANSONLY" manual_cm_sp="MH-_-WELLNESSSPORTS-_-FORRACEFANSONLY">For Race Fans Only</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|5067&amp;rewrite=no&amp;level=2&amp;walk.yah=M227-5067" manual_cm_re="MH-_-WELLNESSSPORTS-_-PILATES" manual_cm_sp="MH-_-WELLNESSSPORTS-_-PILATES">Pilates</a></li><li><a href="http://www.qvc.com/qic/qvcapp.aspx/app.html/params.file.|brands|brandM227,html/walk.yah.M227" manual_cm_re="MH-_-WELLNESSSPORTS-_-BRANDSATOZ" title="View all brands">More</a></li></ul></div><div class="snbtm"><ul><li><a href="/qic/qvcapp.aspx/app.nav/params.class.L552/left.html.file.|leftnav|newtoday_nav,html" manual_cm_re="MH-_-WELLNESSSPORTS-_-WELLNESSSPORTSNEWTHISWEEK" manual_cm_sp="MH-_-WELLNESSSPORTS-_-WELLNESSSPORTSNEWTHISWEEK">New This Week</a></li><li><a href="/qic/qvcapp.aspx/app.nav/params.class.1986/walk.yah.3279-1986" manual_cm_re="MH-_-WELLNESSSPORTS-_-WELLNESSSPORTSCLEARANCE" manual_cm_sp="MH-_-WELLNESSSPORTS-_-WELLNESSSPORTSCLEARANCE">Clearance</a></li></ul></div></div><div id="crafts" class="sn crafts"><div class="snleft"><span class="snhdr">Crafts &amp; Leisure</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1055&amp;rewrite=no&amp;level=2&amp;walk.yah=M228-1055" manual_cm_re="MH-_-CRAFTSLEISURE-_-BOOKS" manual_cm_sp="MH-_-CRAFTSLEISURE-_-BOOKS">Books</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|H990&amp;rewrite=no&amp;level=2&amp;walk.yah=M228-H990" manual_cm_re="MH-_-CRAFTSLEISURE-_-COSTUMES" manual_cm_sp="MH-_-CRAFTSLEISURE-_-COSTUMES">Costumes</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|E880&amp;rewrite=no&amp;level=2&amp;walk.yah=M228-E880" manual_cm_re="MH-_-CRAFTSLEISURE-_-CRAFTSSCRAPBOOKING" manual_cm_sp="MH-_-CRAFTSLEISURE-_-CRAFTSSCRAPBOOKING">Crafts &amp; Scrapbooking</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1565&amp;rewrite=no&amp;level=2&amp;walk.yah=M228-1565" manual_cm_re="MH-_-CRAFTSLEISURE-_-MOVIESMUSIC" manual_cm_sp="MH-_-CRAFTSLEISURE-_-MOVIESMUSIC">Movies &amp; Music</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|7605&amp;rewrite=no&amp;level=2&amp;walk.yah=M228-7605" manual_cm_re="MH-_-CRAFTSLEISURE-_-PETSUPPLIES" manual_cm_sp="MH-_-CRAFTSLEISURE-_-PETSUPPLIES">Pet Supplies</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|2225&amp;rewrite=no&amp;level=2&amp;walk.yah=M228-2225" manual_cm_re="MH-_-CRAFTSLEISURE-_-TRAVELLUGGAGE" manual_cm_sp="MH-_-CRAFTSLEISURE-_-TRAVELLUGGAGE">Travel &amp; Luggage</a></li></ul></div><div class="snright"><span class="snhdr">Shop by Brand</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|C360&amp;rewrite=no&amp;level=2&amp;walk.yah=M228-C360" manual_cm_re="MH-_-CRAFTSLEISURE-_-CREATINGKEEPSAKES" manual_cm_sp="MH-_-CRAFTSLEISURE-_-CREATINGKEEPSAKES">Creating Keepsakes</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|I991&amp;rewrite=no&amp;level=2&amp;walk.yah=M228-I991" manual_cm_re="MH-_-CRAFTSLEISURE-_-TRAVELON" manual_cm_sp="MH-_-CRAFTSLEISURE-_-TRAVELON">Travelon</a></li><li><a href="http://www.qvc.com/qic/qvcapp.aspx/app.html/params.file.|brands|brandM228,html/walk.yah.M228" manual_cm_re="MH-_-CRAFTSLEISURE-_-BRANDSATOZ" title="View all brands">More</a></li></ul></div><div class="snbtm"><ul><li><a href="/qic/qvcapp.aspx/app.nav/params.class.L619/left.html.file.|leftnav|newtoday_nav,html" manual_cm_re="MH-_-CRAFTSLEISURE-_-CRAFTSLEISURENEWTHISMONTH" manual_cm_sp="MH-_-CRAFTSLEISURE-_-CRAFTSLEISURENEWTHISMONTH">New This Month</a></li><li><a href="/qic/qvcapp.aspx/app.nav/params.class.3281/walk.yah.3279" manual_cm_re="MH-_-CRAFTSLEISURE-_-CRAFTSLEISURECLEARANCE" manual_cm_sp="MH-_-CRAFTSLEISURE-_-CRAFTSLEISURECLEARANCE">Clearance</a></li></ul></div></div><div id="toys" class="sn toys"><div class="snleft"><span class="snhdr">Toys</span><ul><li><a href="/qic/qvcapp.aspx/app.nav/params.class.1975.level.3/walk.yah.0012-1965" manual_cm_re="MH-_-TOYS-_-ACTIONFIGURES" manual_cm_sp="MH-_-TOYS-_-ACTIONFIGURES">Action Figures &amp; Playsets</a></li><li><a href="/qic/qvcapp.aspx/app.nav/params.class.M092.level.3/walk.yah.0012-1965" manual_cm_re="MH-_-TOYS-_-BIKESSCOOTERS" manual_cm_sp="MH-_-TOYS-_-BIKESSCOOTERS">Bikes, Scooters, &amp; Riding Toys</a></li><li><a href="/qic/qvcapp.aspx/app.nav/params.class.2155.level.3/walk.yah.0012-1965" manual_cm_re="MH-_-TOYS-_-CARSTRUCKS" manual_cm_sp="MH-_-TOYS-_-CARSTRUCKS">Cars &amp; Trucks</a></li><li><a href="/qic/qvcapp.aspx/app.nav/params.class.7985.level.3/walk.yah.0012-1965" manual_cm_re="MH-_-TOYS-_-DOLLS" manual_cm_sp="MH-_-TOYS-_-DOLLS">Dolls</a></li><li><a href="/qic/qvcapp.aspx/app.nav/params.class.1475.level.3/walk.yah.0012-1965" manual_cm_re="MH-_-TOYS-_-GAMES" manual_cm_sp="MH-_-TOYS-_-GAMES">Games</a></li><li><a href="/qic/qvcapp.aspx/app.nav/params.class.3054.level.3/walk.yah.0012-1965" manual_cm_re="MH-_-TOYS-_-INFANTTODDLER" manual_cm_sp="MH-_-TOYS-_-INFANTTODDLER">Infant/Toddler</a></li><li><a href="/qic/qvcapp.aspx/app.nav/params.class.L794.level.3/walk.yah.0012-1965" manual_cm_re="MH-_-TOYS-_-KIDSELECTRONICS" manual_cm_sp="MH-_-TOYS-_-KIDSELECTRONICS">Kids' Electronics</a></li><li><a href="/qic/qvcapp.aspx/app.nav/params.class.M094.level.3/walk.yah.0012-1965" manual_cm_re="MH-_-TOYS-_-LEARNINGSYSTEMS" manual_cm_sp="MH-_-TOYS-_-LEARNINGSYSTEMS">Learning Systems</a></li><li><a href="/qic/qvcapp.aspx/app.nav/params.class.2045.level.3/walk.yah.0012-1965" manual_cm_re="MH-_-TOYS-_-LEARNINGTOYS" manual_cm_sp="MH-_-TOYS-_-LEARNINGTOYS">Learning Toys</a></li><li><a href="/qic/qvcapp.aspx/app.nav/params.class.C227.level.3/walk.yah.0012-1965" manual_cm_re="MH-_-TOYS-_-PLAYSETS" manual_cm_sp="MH-_-TOYS-_-PLAYSETS">Playsets</a></li><li><a href="/qic/qvcapp.aspx/app.nav/params.class.2065.level.3/walk.yah.0012-1965" manual_cm_re="MH-_-TOYS-_-PLAYSTRUCTURES" manual_cm_sp="MH-_-TOYS-_-PLAYSTRUCTURES">Play Structures</a></li><li><a href="/qic/qvcapp.aspx/app.nav/params.class.2165.level.3/walk.yah.0012-1965" manual_cm_re="MH-_-TOYS-_-RADIOCONTROL" manual_cm_sp="MH-_-TOYS-_-RADIOCONTROL">Radio Control</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1965&amp;rewrite=no&amp;level=2&amp;walk.yah=1965-1965" manual_cm_re="MH-_-TOYS-_-VIEWALLTOYS" manual_cm_sp="MH-_-TOYS-_-VIEWALLTOYS">View All Toys</a></li></ul></div><div class="snright"><span class="snhdr">Shop By Age</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|M130&amp;rewrite=no&amp;level=2&amp;walk.yah=1965-M130" manual_cm_re="MH-_-TOYS-_-BIRTH11MONTHS" manual_cm_sp="MH-_-TOYS-_-BIRTH11MONTHS">Birth-11 Months</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|M131&amp;rewrite=no&amp;level=2&amp;walk.yah=1965-M131" manual_cm_re="MH-_-TOYS-_-1223MONTHS" manual_cm_sp="MH-_-TOYS-_-1223MONTHS">12-23 Months</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|M132&amp;rewrite=no&amp;level=2&amp;walk.yah=1965-M132" manual_cm_re="MH-_-TOYS-_-2YEARS" manual_cm_sp="MH-_-TOYS-_-2YEARS">2 Years</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|M133&amp;rewrite=no&amp;level=2&amp;walk.yah=1965-M133" manual_cm_re="MH-_-TOYS-_-34YEARS" manual_cm_sp="MH-_-TOYS-_-34YEARS">3-4 Years</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|M134&amp;rewrite=no&amp;level=2&amp;walk.yah=1965-M134" manual_cm_re="MH-_-TOYS-_-5YEARS" manual_cm_sp="MH-_-TOYS-_-5YEARS">5-7 Years</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|M135&amp;rewrite=no&amp;level=2&amp;walk.yah=1965-M135" manual_cm_re="MH-_-TOYS-_-811YEARS" manual_cm_sp="MH-_-TOYS-_-811YEARS">8-11 Years</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|M136&amp;rewrite=no&amp;level=2&amp;walk.yah=1965-M136" manual_cm_re="MH-_-TOYS-_-1214YEARS" manual_cm_sp="MH-_-TOYS-_-1214YEARS">12-14 Years</a></li></ul><span class="snhdr">Shop By Brand</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|C716&amp;rewrite=no&amp;level=2&amp;walk.yah=1965-C716" manual_cm_re="MH-_-TOYS-_-CHICCO" manual_cm_sp="MH-_-TOYS-_-CHICCO">Chicco</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|L517&amp;rewrite=no&amp;level=2&amp;walk.yah=1965-L517" manual_cm_re="MH-_-TOYS-_-DISNEYSTARS" manual_cm_sp="MH-_-TOYS-_-DISNEYSTARS">Disney Stars</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|B690&amp;rewrite=no&amp;level=2&amp;walk.yah=1965-B690" manual_cm_re="MH-_-TOYS-_-FISHERPRICE" manual_cm_sp="MH-_-TOYS-_-FISHERPRICE">Fisher Price</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|6568&amp;rewrite=no&amp;level=2&amp;walk.yah=1965-6568" manual_cm_re="MH-_-TOYS-_-LEAPFROG" manual_cm_sp="MH-_-TOYS-_-LEAPFROG">Leapfrog</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|C895&amp;rewrite=no&amp;level=2&amp;walk.yah=1965-C895" manual_cm_re="MH-_-TOYS-_-PLAYHUT" manual_cm_sp="MH-_-TOYS-_-PLAYHUT">Playhut</a></li><li><a href="/qic/qvcapp.aspx/app.html/params.file.|brands|brand1965,html/walk.yah.1965" manual_cm_re="MH-_-TOYS-_-MORE" manual_cm_sp="MH-_-TOYS-_-MORE">More</a></li></ul><span class="snhdr"></span><ul></ul></div><div class="snbtm"><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|5901&amp;rewrite=no&amp;level=2&amp;walk.yah=1965-5901" manual_cm_re="MH-_-TOYS-_-NEWTHISWEEK" manual_cm_sp="MH-_-TOYS-_-NEWTHISWEEK">New This Week</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|1245&amp;rewrite=no&amp;level=2&amp;walk.yah=1965-1245" manual_cm_re="MH-_-TOYS-_-CLEARANCE" manual_cm_sp="MH-_-TOYS-_-CLEARANCE">Clearance</a></li></ul></div></div><div id="gifts" class="sn gifts"><div class="snleft"><span class="snhdr">Holiday Features</span><ul><li><a href="/qic/qvcapp.aspx/view.2/app.multi/params.file.|cgen|render,aspx.qp.promo|most_wished_for" manual_cm_re="MH-_-GIFTS-_-MOSTWISHEDFOR" manual_cm_sp="MH-_-GIFTS-_-MOSTWISHEDFOR">Most Wished For</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|9509&amp;rewrite=no&amp;level=2&amp;walk.yah=H818-9509" manual_cm_re="MH-_-GIFTS-_-HOWTOTIPS" manual_cm_sp="MH-_-GIFTS-_-HOWTOTIPS">How To's &amp; Tips</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|B499&amp;rewrite=no&amp;level=2&amp;walk.yah=H818-B499" manual_cm_re="MH-_-GIFTS-_-TOPRATEDGIFTS" manual_cm_sp="MH-_-GIFTS-_-TOPRATEDGIFTS">Top Rated Gifts</a></li></ul><span class="snhdr">Holiday Decor</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|K059&amp;rewrite=no&amp;level=2&amp;walk.yah=H818-K059" manual_cm_re="MH-_-GIFTS-_-BETHLEHEMLIGHTS" manual_cm_sp="MH-_-GIFTS-_-BETHLEHEMLIGHTS">Bethlehem Lights</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|F045&amp;rewrite=no&amp;level=2&amp;walk.yah=H818-F045" manual_cm_re="MH-_-GIFTS-_-MRCHRISTMAS" manual_cm_sp="MH-_-GIFTS-_-MRCHRISTMAS">Mr. Christmas</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|3399&amp;rewrite=no&amp;level=2&amp;walk.yah=H818-3399" manual_cm_re="MH-_-GIFTS-_-VPH" manual_cm_sp="MH-_-GIFTS-_-VPH">Valerie Parr Hill</a></li><li><a href="http://www.qvc.com/qic/qvcapp.aspx/main.html.file.|fth|ha_holiday,html/left.html.file.|leftnav|christmasshoppenav,html" manual_cm_re="MH-_-GIFTS-_-CHRISTMASSHOPPE" manual_cm_sp="MH-_-GIFTS-_-CHRISTMASSHOPPE">More</a></li></ul></div><div class="snright"><span class="snhdr">Category</span><ul><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|F113&amp;rewrite=no&amp;level=2&amp;walk.yah=H818-F113" manual_cm_re="MH-_-GIFTS-_-BEAUTY" manual_cm_sp="MH-_-GIFTS-_-BEAUTY">Beauty</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|H375&amp;rewrite=no&amp;level=2&amp;walk.yah=H818-H375" manual_cm_re="MH-_-GIFTS-_-CRAFTSLEISURE" manual_cm_sp="MH-_-GIFTS-_-CRAFTSLEISURE">Crafts &amp; Leisure</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|L208&amp;rewrite=no&amp;level=2&amp;walk.yah=H818-L208" manual_cm_re="MH-_-GIFTS-_-ELECTRONICS" manual_cm_sp="MH-_-GIFTS-_-ELECTRONICS">Electronics</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|3717&amp;rewrite=no&amp;level=2&amp;walk.yah=H818-3717" manual_cm_re="MH-_-GIFTS-_-FASHION" manual_cm_sp="MH-_-GIFTS-_-FASHION">Fashion</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|A211&amp;rewrite=no&amp;level=2&amp;walk.yah=H818-A211" manual_cm_re="MH-_-GIFTS-_-FOOD" manual_cm_sp="MH-_-GIFTS-_-FOOD">Food</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|L407&amp;rewrite=no&amp;level=2&amp;walk.yah=H818-L407" manual_cm_re="MH-_-GIFTS-_-FORTHEHOME" manual_cm_sp="MH-_-GIFTS-_-FORTHEHOME">For the Home</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|E272&amp;rewrite=no&amp;level=2&amp;walk.yah=H818-E272" manual_cm_re="MH-_-GIFTS-_-JEWELRY" manual_cm_sp="MH-_-GIFTS-_-JEWELRY">Jewelry</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|G135&amp;rewrite=no&amp;level=2&amp;walk.yah=H818-G135" manual_cm_re="MH-_-GIFTS-_-KITCHEN" manual_cm_sp="MH-_-GIFTS-_-KITCHEN">Kitchen</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|H386&amp;rewrite=no&amp;level=2&amp;walk.yah=H818-H386" manual_cm_re="MH-_-GIFTS-_-TOYS" manual_cm_sp="MH-_-GIFTS-_-TOYS">Toys</a></li><li><a href="http://www.qvc.com/cgen/render.aspx?qp=class|B801&amp;rewrite=no&amp;level=2&amp;walk.yah=H818-B801" manual_cm_re="MH-_-GIFTS-_-WELLNESSSPORTS" manual_cm_sp="MH-_-GIFTS-_-WELLNESSSPORTS">Wellness &amp; Sports</a></li></ul></div><div class="snbtm"><ul><li><a href="/qic/qvcapp.aspx/app.nav/params.class.F711/left.html.file.|gifts|view_all_gifts,html" manual_cm_re="MH-_-GIFTS-_-GIFTCARDS" manual_cm_sp="MH-_-GIFTS-_-GIFTCARDS">Gift Cards</a></li></ul></div></div>
+<script>
+var agt = navigator.userAgent.toLowerCase();
+var is_ie = (agt.indexOf('msie') != -1);
+var is_ie5 = (agt.indexOf('msie 5') != -1);
 
-</div>
-</td>				
-				<td width="90%" valign="top"><!-- html zone file -->
-<div id="mainContent">
-<!-- QPartSource = F:\inetsrv\wwwroot\qvc\html\privacypolicy.html : Req time = 0 sec -->
-    <center>
-      <table width="95%" cellpadding="0" cellspacing="0" border="0">
-        <tbody><tr>
-          <td valign="TOP" align="LEFT"><br>
-            <img src="/qvc/gif/pQVCprivacyhd.gif" border="0" align="TOP"> <br>
-            <p><img src="/qvc/gif/pQVCprivacylogo.jpg" border="0" align="RIGHT"></p>
-            <!-- PRIVACY POLICY COPY STARTS -->
-            <p>At QVC, we are committed to giving you quality service.  As part of that commitment, we gather information about our customers and website
-            visitors so we can better serve you.  Because we realize that your privacy is important to you, your privacy is also important to us.  Whether
-            you buy from our show or over the Internet, you can be assured that we respect the confidentiality of personal information that identifies
-            you and treat that information responsibly.  As described in this Privacy Statement, we do not authorize the selling or renting of your personal
-            information to third parties for their business purposes.</p>
-
-            <p>By using our site, you accept the practices that are described in this privacy statement, which is effective as of November 1, 2004, and is
-            part of the <a href="/qic/qvcapp.aspx/app.html/params.file.|termsconditions,html">General Terms and Conditions</a> governing use of this site.  We may change or add to this statement from time to time.
-            When that happens, we will post the revised statement here.  Your use of our site after changes to this privacy statement have been made
-            constitutes acceptance of those changes going forward.</p>
-
-            <p>QVC is not responsible for the privacy policies or practices of the websites from which you access our site, sites we link to, or of any
-            sites that are linked to our site.</p>
-
-            <p>This privacy statement tells you what kinds of customer information we collect, how we use that information and with whom we may share it,
-            and how you can access and change our information about you.  If you have additional questions about QVC’s privacy practices or would like
-            more information, please contact <a href="mailto:Privacy-Statement@QVC.com?nonqiclink">Privacy-Statement@QVC.com</a>.</p>
-            <table cellspacing="0" cellpadding="2" width="80%">
-              <tbody><tr><td>•</td><td class="list"><a name="list_1" href="#copy_1">What personal information do we collect about our customers?</a></td></tr>
-              <tr><td>•</td><td class="list"><a name="list_2" href="#copy_2">What other kinds of customer information do we collect?</a></td></tr>
-              <tr><td>•</td><td class="list"><a name="list_3" href="#copy_3">How do we collect this information?</a></td></tr>
-              <tr><td>•</td><td class="list"><a name="list_4" href="#copy_4">How do we use cookies?</a></td></tr>
-              <tr><td>•</td><td class="list"><a name="list_5" href="#copy_5">How do we use web beacons?</a></td></tr>
-              <tr><td>•</td><td class="list"><a name="list_6" href="#copy_6">Do visitors need to provide personal information to use our site?</a></td></tr>
-              <tr><td>•</td><td class="list"><a name="list_7" href="#copy_7">What if a visitor doesn’t want to give us personal information over the Internet?</a></td></tr>
-              <tr><td>•</td><td class="list"><a name="list_8" href="#copy_8">How do we protect customers’ personal information?</a></td></tr>
-              <tr><td>•</td><td class="list"><a name="list_9" href="#copy_9">How do we use information about our customers?</a></td></tr>
-              <tr><td>•</td><td class="list"><a name="list_10" href="#copy_10">How do we share customers’ personal information with third parties?</a></td></tr>
-              <tr><td>•</td><td class="list"><a name="list_11" href="#copy_11">How do we share other customer information with third parties?</a></td></tr>
-              <tr><td>•</td><td class="list"><a name="list_12" href="#copy_12">How can visitors to our site check or change the information we collect about them?</a></td></tr>
-              <tr><td>•</td><td class="list"><a name="list_13" href="#copy_13">What are third party affinity programs?</a></td></tr>
-              <tr><td>•</td><td class="list"><a name="list_14" href="#copy_14">Do we collect personal information from children?</a></td></tr>
-            </tbody></table>
-            <br><br>
-            <p class="header"><a name="copy_1">What personal information do we collect about our customers?</a></p>
-            <p>Customer information is gathered so we can better serve you, and we make reasonable efforts to insure the security of your personal
-            information and to treat that information responsibly.  We collect the personal information that our customers give us when they choose
-            to purchase a product from QVC or use our site.  For example, when you register with QVC we will ask you to provide your name, e-mail
-            address, physical address and telephone number.  If you purchase a product, we will also ask you for financial information such as your
-            QCard or other credit card number and a shipping address.  Registration with QVC is required to make a purchase or post a message on our
-            <a href="http://community.qvc.com/?cont=policycf" target="_top">Community Forum</a>.  Similarly, we will ask you for contact information if you use our
-            E-mail to a Friend program, or if you request that QVC send you E-newsletters or other promotional
-            notices or seek information or assistance from us.</p>
-
-            <p>If you are a member of a QVC recognized <a href="#copy_13">third party affinity program</a>, we may also collect personal
-            information about your membership and your purchases on our site.</p>
-
-            <p>Your use of certain optional portions of this site such as contest or sweepstakes entries and
-            <a href="http://www.qvc.com/qic/qvcapp.aspx/app.html/params.file.|hr|index,html/left.html.file.|nav|navhqemplo,html" target="_top">employment applications</a> may involve our collection of additional personal information about you,
-            including your social security number.</p>
-
-
-            <p class="header"><a name="copy_2">What other kinds of customer information do we collect?</a></p>
-            <p>If you ask us to ship a purchase to somebody else or you use our E-mail to a Friend program,
-            we will ask you for the name and address or e-mail address of the person to whom you are sending or recommending the product, as well as
-            your name and contact information.</p>
-            <p>Our system also keeps track of which browser and Internet Provider (IP) you use to access our site.  In addition, to help us understand
-            the use of our site by our visitors and improve your shopping experience, we automatically collect information as to how you were directed
-            to the site, how you navigate around it and what products you browse, as well as your purchasing activities.</p>
-
-
-            <p class="header"><a name="copy_3">How do we collect this information?</a></p>
-            <p>When you register with QVC, we compile the personal information you give us about yourself into an individual profile.  We add other personal
-            information about you to that profile as you give it to us.  We also collect information about your purchases and other uses of our site as
-            they are made.</p>
-            <p>We gather other information through the use of <a href="#copy_4">cookies</a> and <a href="#copy_5">web beacons</a>.</p>
-
-
-            <p class="header"><a name="copy_4">How do we use cookies?</a></p>
-            <p>Cookies are pieces of text that allow a website to store on your own computer an identification code associated with you which can later be
-            retrieved and associated with your visit to the site.  Session cookies terminate shortly after you close your Internet browser.  Persistent
-            cookies are stored on your hard drive until they expire or are deleted.  Both types of cookies enhance our ability to serve you by recalling
-            information about you such as your password, shopping preferences and shopping cart.  This saves you time on your next visit to our site and
-            personalizes your shopping experience.</p>
-            <p>We understand that not everyone wants to permit the use of cookies.  The Help portion of the toolbar on most browsers will tell you how to
-            prevent your browser from accepting cookies and how to disable cookies, but we recommend that you leave cookies turned on so that you can take
-            full advantage of the shopping features available on our site.</p>
-
-
-            <p class="header"><a name="copy_5">How do we use web beacons?</a></p>
-            <p>Web beacons are small, transparent graphics that are placed on web pages to track how visitors arrive at a site and what they do there.
-            We use web beacons to track customers’ browsing activities at our website and to compile sales and statistical data.  For example, beacons
-            let us know when a purchase is made on our site by a member of a third party affinity program and when a purchase is initiated by an
-            advertisement we placed on a third party’s website.  This information assists us in managing our site and enhancing your shopping experience.</p>
-
-
-            <p class="header"><a name="copy_6">Do visitors need to provide personal information to use our site?</a></p>
-            <p>Personal information is not required to access or navigate around the site.  However, you will be asked to register and provide personal
-            information if you want to make a purchase or post a message.  Personal information is also required to request information or assistance from
-            us or to take advantage of certain optional features of our site such as our E-mail to a Friend program, contests or sweepstakes and employment
-            opportunities.</p>
-
-
-            <p class="header"><a name="copy_7">What if a visitor doesn’t want to give us personal information over the Internet?</a></p>
-            <p>You are free to look for products on either our show or our site and place a telephone order by calling 1-888-345-5788 toll-free.
-            We respect the confidentiality of all your personal information as described in this Privacy Statement whether you give it to us via the
-            telephone or the Internet.</p>
-
-
-            <p class="header"><a name="copy_8">How do we protect customers’ personal information?</a></p>
-            <p>All of your personal information is encrypted by Secure Sockets Layer (SSL) software when it is transmitted to us via the web.
-            We maintain the servers that store this information in a locked facility with restricted access.  We also truncate your credit card number
-            to the last four digits when we communicate with you about your order.</p>
-
-
-            <p class="header"><a name="copy_9">How do we use information about our customers?</a></p>
-            <p>We use your personal information to process your orders.  This includes for example, contacting you to confirm your order, fulfilling
-            the order and shipping it. We may also contact you if we want to communicate with you about your order.</p>
-            <p>Additionally, we will use your contact information to send you E-newsletters or other promotional notices, or to respond to requests for
-            information or assistance from you.</p>
-            <p>If you are a member of one of our <a href="#copy_13">third party affinity programs</a>, we will use and disclose your
-            personal information to administer and manage that program.  Similarly, if you choose to participate in certain optional features of our
-            website such as our E-mail to a Friend program, contests or sweepstakes and
-            <a href="http://www.qvc.com/qic/qvcapp.aspx/app.html/params.file.|hr|index,html/left.html.file.|nav|navhqemplo,html" target="_top">employment applications</a>,
-            we will use your personal information to administer and manage those features.</p>
-            <p>We may also use your personal information to improve our service to you and for other business purposes.
-            For example, we periodically review customer information as part of servicing our accounts.  We may also contact you from time to time
-            to inform you of the services that we offer and to gather information about how we can improve them.</p>
-            <p>Finally, we analyze information we obtain from cookies and web beacons concerning our customers’ access and navigation of our site
-            and their browsing and purchasing activities to improve our services and enhance our customers’ shopping experiences.</p>
-
-
-            <p class="header"><a name="copy_10">How do we share customers’ personal information with third parties?</a></p>
-            <p>In order to process your orders and requests, we make your name, address, and sometimes your e-mail address or telephone number
-            available to other entities such as credit card companies and package delivery services (for example, American Express, Visa, UPS, and USPS).
-            Similarly, if you order a product that is shipped directly from another company, or offered by QVC in conjunction with another company,
-            we will share personal information about that order with the other company.</p>
-            <p>We may use third party agents, consultants and contractors to perform business functions on our behalf, including customer service,
-            account servicing, customer research, marketing, provision of IT services and records maintenance.  We give these entities access to our
-            customers’ personal information to perform these functions for us and do not authorize them to use that information for any other purpose.</p>
-            <p>Additionally, we share personal information about you when you voluntarily use certain optional features of our site.  If you are a member
-            of a <a href="#copy_13">third party affinity program</a>, we will share information concerning your purchases on our site with that organization.
-            If you ask us to send a particular product to a friend or use our E-mail to a Friend program,
-            we will tell that person we are sending the product or e-mail at your request.  If you participate in a contest or sweepstakes or submit an
-            <a href="http://www.qvc.com/qic/qvcapp.aspx/app.html/params.file.|hr|index,html/left.html.file.|nav|navhqemplo,html" target="_top">employment application</a>,
-            we may share the information you submit with others assisting us in the administration of that feature.  If you post a message for inclusion on
-            our Community Forum or Live Chat, the contents of that posting will be available to all other participants and will be accompanied by your user name.</p>
-            <p>It is possible that QVC or part of its business or one of its affiliates could merge with, acquire or be acquired by another business
-            entity and your personal information could be among the assets transferred.  If this occurs, you will be notified of the change by e-mail
-            or notice on this site.</p>
-            <p>We reserve the right to share personal information about you with our affiliates in the course of our business operations.  We also
-            reserve the right to share personal information about you as required by law or in cooperation with legal authorities and to enforce the
-            General Terms and Conditions governing use of this site or to protect the rights, property, or safety of QVC and its customers.</p>
-
-
-            <p class="header"><a name="copy_11">How do we share other customer information with third parties?</a></p>
-            <p>We may share non-personal non-individually identifiable (aggregate) information about our customers with the group of people with whom
-            we share personal information, as well as with other third parties such as vendors, advertisers and marketing firms.</p>
-
-
-            <p class="header"><a name="copy_12">How can visitors to our site check or change the information we collect about them?</a></p>
-            <p>You can always review your personal profile at QVC and correct or update it by going to the My Account area on our website and clicking
-            on <a href="/qic/qvcapp.aspx/main.multi.file.|cshtml|cshome,asp/left.multi.file.|cshtml|csmenu,asp" target="_top">Account Maintenance</a>.  You can also change personal information
-            such as your shipping address or payment method when ordering by clicking on Custom Check Out.</p>
-            <p>You can subscribe to or unsubscribe from E-newsletters and other promotional notices by going to the My Account area on the site and
-            clicking on <a href="/qic/qvcapp.aspx/main.multi.file.|cshtml|cshome,asp/left.multi.file.|cshtml|csmenu,asp" target="_top">E-mail Services</a>.</p>
-            <p>Our Customer Service Representatives are also ready to assist you in checking or changing your personal profile or removing your name from
-            our contact lists.  You can reach them through <a href="JavaScript:enterLivePerson( 'qvc', 'qvc', 'GENERAL', '' );">LiveHELP</a> or
-            <a href="https://www-ssl.qvc.com/qic/qvcapp.aspx/app.html/params.file.|cshtml|cs_help,html/left.multi.file.|cshtml|cs_helpmenu,asp" target="_top">Automated Customer Service</a>,
-            or by calling 1-888-345-5788 toll-free or writing to QVC, Inc., Customer Service, 1200 Wilson Drive at Studio Park, West Chester, PA 19380.</p>
-            <p>You can opt out of QVC’s use of cookies to recall information about you by setting your browser not to accept cookies or to
-            disable cookies.  You cannot access or change the non-personal information that QVC collects.  However, you can opt out of the process by
-            which certain categories of information are collected by
-            <a href="javascript:open_feature('/qvc_opt_out.html?cont=policy', 'toolbar=no,location=no,status=no,menubar=yes,scrollbars=yes,resizable=no,width=620,height=550')">clicking here</a>.</p>
-
-
-            <p class="header"><a name="copy_13">What are third party affinity programs?</a></p>
-            <p>Occasionally, we participate in rewards programs with other business organizations where customers who are also members of these businesses
-            will get a credit or a reward for their QVC purchases from the other member organizations.  We also sometimes advertise QVC products on other
-            websites in the form of a link so that visitors can click over to our site and purchase the products if they are interested.  In these situations,
-            we share information about our customers’ QVC purchases with these other member organizations and other websites under the contracts these
-            entities have with QVC.</p>
-
-            <p class="header"><a name="copy_14">Do we collect personal information from children?</a></p>
-            <p>Our site is not intended for use by children, and our General Terms and Conditions require that you must be at least 18 years old
-            to use the site.  In addition, we do not solicit or collect information from anyone who tells us that he or she is under 13 years of age.</p>
-            <!-- PRIVACY POLICY COPY ENDS -->
-          </td>
-        </tr>
-      </tbody></table>
-      <p align="center"><a href="JavaScript:enterLivePerson( 'qvc', 'qvc', 'GENERAL', '' );"><img src="/qvc/gif/liveonlinebttn.gif" alt="QVC LiveHELP" border="0" width="175" height="44"></a></p>
-    </center>
-    <hr width="95%">
-    <center>
-      <table width="95%">
-        <tbody><tr>
-          <td align="center"><!--Insert_Copyright-->
-            <font size="-1"><!-- begin ...html\includes\us\footer.inc -->
-
-<center>
-		<table cellspacing="0" cellpadding="2" border="0" align="center" width="95%">
-		  <tbody><tr>
-		    <td valign="middle" width="200" style="border-right: 2px solid #dddddd;">
-		      <table cellspacing="0" cellpadding="2" border="0" align="center">
-		        <tbody><tr>
-		        	<td><a href="https://www.qvc.com/qic/qvcapp.aspx/main.multi.file.|UniversalLogin|UniversalLogin,asp.Venue.email.dest.|email|email_config,asp.timeout.Y/left.multi.file.|cshtml|csmenu,asp?cm_re=PAGE-_-FOOTER-_-EMAIL" target="_top"><img src="/qvc/gif/hp/hp_brown_email_icon_0712.gif" border="0" alt="E-mail sign-up"></a></td>
-		        	<td><a href="https://www.qvc.com/qic/qvcapp.aspx/main.multi.file.|UniversalLogin|UniversalLogin,asp.Venue.email.dest.|email|email_config,asp.timeout.Y/left.multi.file.|cshtml|csmenu,asp?cm_re=FOOTER" class="email" target="_top"><b>E-mail <br> Sign-up</b></a></td></tr>
-		      </tbody></table>
-		    </td>
-
-		    <td valign="middle" style="padding-left: 20px; border-right: 2px solid #dddddd;">
-			<span class="privacy" style="border: 0px solid #000000;">    <a href="/qic/qvcapp.aspx/app.html/params.file.privacypolicy,html?cm_re=PAGE-_-FOOTER-_-PRIVACY" target="_top">QVC Privacy Statement</a></span><br>
-			<span class="terms" style="border: 0px solid #000000;">      <a href="/qic/qvcapp.aspx/app.html/params.file.termsconditions,html?cm_re=PAGE-_-FOOTER-_-TERMSCONDITIONS" target="_top">QVC General Terms and Conditions of Use</a></span><br>
-			<span class="recall" style="border: 0px solid #000000;">     <a href="/qic/qvcapp.aspx/app.html/params.file.|recalls,html?cm_re=PAGE-_-FOOTER-_-PRODUCTRECALL" target="_top">Product Recall Information</a></span><br>
-			<span class="warranty" style="border: 0px solid #000000;">   <a href="/qic/qvcapp.aspx/app.html/params.file.manufacturerwarranty,html?cm_re=PAGE-_-FOOTER-_-WARRANTY" target="_top">Manufacturer's Product Warranty Information</a></span><br>
-			<span class="prices" style="border: 0px solid #000000;">     <a href="/qic/qvcapp.aspx/main.html.file.|faqpricesqvc,html?cm_re=PAGE-_-FOOTER-_-PRICINGFAQ" target="_top">Pricing, Retail Value, Offers &amp; Other Information</a></span><br>
-			<span class="testimonial" style="border: 0px solid #000000;"><a href="/qic/qvcapp.aspx/main.html.file.|faqpricesqvc,html?cm_re=PAGE-_-FOOTER-_-TESTIMONIALS#testimonials" target="_top">On-air Testimonials</a></span><br>
-			<span class="comstandards" style="border: 0px solid #000000;"><a href="/qic/qvcapp.aspx/main.html.file.|community_standards,html?cm_re=PAGE-_-FOOTER-_-COMMUNITYSTANDARDS" target="_top">QVC Community Standards</a></span><br>
-		    </td>
-
-		      <td width="25%" align="middle" valign="middle" class="shopblock">
-				<a href="http://www.qvc.com/qic/qvcapp.aspx/app.html/params.file.|co|shop_confidence,html?cm_re=PAGE-_-FOOTER-_-SHOPWITHCON" target="_top"><img src="/qvc/gif/co/co_hp_shop.gif" border="0" alt="Shop with Confidence"></a>
-		      </td>
-
-		  </tr>
-		 </tbody></table>
-</center>
-
-</font></td></tr>
-<tr>
-<td align="center"><br><font size="-1">
-
-© 1995 - 
-
-<script language="JavaScript" type="text/javascript">
-<!--
-
-function getFullYear(d)
+if (is_ie)
 {
-	var y = d.getYear();
-	if (y < 1000) y += 1900;
-	return y;
+	var control = (is_ie5) ? "Microsoft.XMLHTTP" : "Msxml2.XMLHTTP";
+	try
+	{
+		xmlhttp = new ActiveXObject(control);
+	} catch(e)
+	{
+		document.write( '<' + '!-- Start security info copy --' + '>' );
+		document.write( '<div id="secureErrorMsg" class="secureBanner">' );
+		document.write( '<p>We\'re sorry. Your browser\'s current security settings may be preventing you from viewing pages or searching on QVC.com. If you\'d like to correct this problem, please follow these' );
+		document.write( '<a href="http://www.qvc.com/qic/qvcapp.aspx/main.html.file.%7Ccs%7Cfaq_new_qvc,html/left.html.file.%7Ccs%7Cfaq_nav,html#contact0">helpful instructions</a>.</p>' );
+		document.write( '</div>' );
+		document.write( '<' + '!-- end of security info copy --' + '>' );
+	}
 }
-
-var thedate = new Date( );
-document.write(getFullYear(thedate)); 
-//-->	
-</script>2020
-
-QVC, Inc. All rights reserved. | URL: http://www.qvc.com | 
-<button onclick="window.open('http://www.qvc.com/qvc/html/includes/us/trademark.html',
-'mywindow','top=300,left=300,width=300,height=150,toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=no')" style="width:110;height:20;font: 13px Arial; background-color:transparent;border-style: none; text-decoration: underline; ">Trademark&nbsp;Notice</button>
-
-<script language="JavaScript" type="text/javascript" src="/coremetrics/CoremetricIncludes.js"></script><script src="/asp/ServerVars_js.asp"></script><script type="text/javascript" src="/coremetrics/v40/eluminate.js"></script><script type="text/javascript" src="/coremetrics/cmdatatagutils.js"></script><script type="text/javascript" src="/coremetrics/qvccommon.js"></script>
-
-<!-- end ...html\includes\us\footer.inc --></font>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <font size="-1"> URL: http://www.qvc.com</font>
-            <!--End_Insert_Copyright-->
-          </td>
-        </tr>
-      </tbody></table>
-    </center>
-  
+</script>
+<noscript>
+<!-- Start security info copy -->
+<div id="secureErrorMsg" class="secureBanner">
+<p>We're sorry. Your browser's current security settings may be preventing you from viewing pages or searching on QVC.com. If you'd like to correct this problem, please follow these
+<a href="http://www.qvc.com/qic/qvcapp.aspx/main.html.file.%7Ccs%7Cfaq_new_qvc,html/left.html.file.%7Ccs%7Cfaq_nav,html#contact0">helpful instructions</a>.</p>
 </div>
-</td>
-			</tr>
-		</tbody></table>
+<!-- end of security info copy -->
+</noscript>
+
+
+
+	</div>
+
+	<div class="innerwrapper">
+
+		 <!-- yah zone file -->
+<div id="yahContent">
+
+<!-- begin breadcrumb -->
+		<div class="breadcrumb"> <a href="http://www.qvc.com">QVC</a> : <a href="/qic/qvcapp.aspx/view.2/main.html.file.|cs|cs_main,html/" title="Customer Service Main">Customer Service</a> : The QVC Privacy Statement</div>
+		<!-- end breadcrumb -->
+
+		<!-- begin page header -->
+		<div id="pghdr" style="width: 800px;">
+			<h1 class="metapghdr">The QVC Privacy Statement</h1>
+		</div>
+
+</div>
+
+
+         <div class="leftcol">
+         	
+         	<!-- leftnav zone file -->
+<!-- QPartSource = /cs/faq_nav.html : Req time = 0 sec --><div class="lnavhdr">More FAQs </div>
+<ul class="lnavlist">
+	<li><a href="/qic/qvcapp.aspx/main.html.file.|cs|faq_ordering,html/left.html.file.|cs|faq_nav,html/" title="Frequently Asked Questions: Ordering">Ordering</a></li>
+	<li><a href="/qic/qvcapp.aspx/main.html.file.|cs|faq_shipping,html/left.html.file.|cs|faq_nav,html/" title="Frequently Asked Questions: Shipping">Shipping</a></li>
+	<li><a href="/qic/qvcapp.aspx/main.html.file.|cs|faq_returns,html/left.html.file.|cs|faq_nav,html/" title="Frequently Asked Questions: Returns">Returns</a></li>
+	<li><a href="/qic/qvcapp.aspx/main.html.file.|autodelivery_faq,html/left.html.file.|cs|faq_nav,html/" title="Frequently Asked Questions: Auto-Delivery">Auto-Delivery</a></li>
+	<li><a href="/qic/qvcapp.aspx/main.html.file.|cs|faq_privacy,html/left.html.file.|cs|faq_nav,html/" title="Frequently Asked Questions: Privacy">Your Privacy</a></li>
+	<li><a href="/qic/qvcapp.aspx/main.html.file.|cs|faq_services,html/left.html.file.|cs|faq_nav,html/" title="Frequently Asked Questions: Services">Services</a></li>
+	<li><a href="/qic/qvcapp.aspx/main.html.file.|cs|faq_community,html/left.html.file.|cs|faq_nav,html/" title="Frequently Asked Questions: Community">Community</a></li>
+	<li><a href="/qic/qvcapp.aspx/main.html.file.|cs|faq_technical,html/left.html.file.|cs|faq_nav,html/" title="Frequently Asked Questions: Technical">Technical</a></li>
+	<li><a href="/qic/qvcapp.aspx/main.html.file.|cs|faq_contact,html/left.html.file.|cs|faq_nav,html/" title="Frequently Asked Questions: Contacting Us">Contacting Us</a></li>
+	<li><a href="/qic/qvcapp.aspx/main.html.file.|cs|faq_aboutqvc,html/left.html.file.|cs|faq_nav,html/" title="Frequently Asked Questions: About QVC">About QVC</a></li>
+	<li><a href="/qic/qvcapp.aspx/main.html.file.|cs|faq_new_qvc,html/left.html.file.|cs|faq_nav,html/" title="Frequently Asked Questions: Site Features">Site Features</a></li>
+	<li><a href="http://www.qvcproductsearch.com/?rewrite=no" title="Frequently Asked Questions: Vendor Info" class="popup">Vendor Info</a></li>					
+	<li> <a href="https://quality-s.qvc.com/qic/qvcapp.aspx/view.2/app.multi/params.file.|cshtml|cshome,asp/walk.multi.|cshtml|csmenu,asp?cm_re=MH-_-CS-_-MYACCOUNT">View My Account</a></li>
+ 	
+	<li class="marginTop"><a href="/qic/qvcapp.aspx/view.2/main.html.file.|cs|cs_main,html/" title="View All Customer Service">View All Customer Service</a></li>
+</ul>						
+
+ 
+ 
+ 
+
+
+         </div>
+
+         <div class="stageright">
+        	<!-- html zone file -->
+<!-- QPartSource = /cs/faq_privacy.html : Req time = 0 sec -->
+	<script language="JavaScript" type="text/javascript">
+		<!--
+			 var CM_PageID="Customer Service > FAQ > Privacy";
+			 var CM_CatID="CSFAQ";
+		 //-->
+	</script>
+
+		<!-- begin page content -->
+		<!-- begin left nav -->
+			<div id="leftcolmeta">
+
+				<!-- BEGIN FAQ_NAV -->
+				<!-- END FAQ_NAV -->
+				<!-- BEGIN COMMUNITY -->
+				<!-- END COMMUNITY -->
+            </div>
+			<!-- end left nav -->
+
+			<!-- begin meta page rightside content -->
+			<div id="faqPageMain">
+				<!-- begin meta page top content -->
+<p><img src="/pic/faq/pQVCprivacylogo.jpg" alt="QVC Privacy logo" class="faqImg">At QVC, we are committed to giving you  quality service. As part of that commitment, we gather information about our  customers, users of our websites and other services, and visitors so we can  better serve you. Because we realize that your privacy is important to you,  your privacy is also important to us. Whether you visit or buy from our show,  one of our stores, or one of our websites such as QVC.com, or through one of  our other services such as QVC’s mobile services or a QVC software application  (<em>i.e.</em>, a widget) downloaded to your  desktop (all of which together with our websites we will refer to as  “services”), you can be assured that we respect the confidentiality of personal  information that identifies you and treat that information responsibly. As  described in this Privacy Statement, we do not authorize the selling or renting  of your personal information to third parties for their business purposes.<strong></strong><br>
+  <br>
+By using a QVC service, you accept the  practices that are described in this Privacy Statement, which is effective as  of September 11th, 2008,  and is part of the General Terms and Conditions of Use governing use of this website  and the terms and conditions governing any other QVC service you use. If,  however, another QVC service sets forth a separate or additional privacy  statement, terms and conditions, or other policy, then that separate privacy  statement, terms and conditions, or other policy shall apply in connection with  your use of that service. &nbsp;This Privacy  Statement does not apply to personal information that is collected through the  websites of QVC’s affiliates based outside the United States or through any  other services offered by QVC’s affiliates outside the United States.&nbsp; We may change or add to this Privacy Statement  from time to time. When that happens, we will post the revised Privacy Statement  here. Your use of one of our services after changes to this Privacy Statement  have been posted constitutes your knowledge and acceptance of those changes (i.e.,  that the changes may be applied to the information we collect from and about  you).<br>
+&nbsp; <br>
+QVC is not responsible for the privacy or  data collection policies or practices of the services from which you access our  services, of services we link to, or of any services that are linked to our  services. <strong></strong></p>
+        				<p>This Privacy Statement tells you what kinds of  information we collect about our customers, users, and visitors, how we use  that information and with whom we may share it, and how you can access and  change our information about you. If you have additional questions about QVC's  privacy practices or would like more information, please contact <a href="mailto:Privacy-Statement@QVC.com?nonqiclink">Privacy-Statement@QVC.com</a>.</p>				
+        				<div>
+					<ul class="faqList">
+					  <li><a href="#privacy3">What personal information do we collect from our customers?</a></li>
+					  <li><a href="#privacy4">What other kinds of customer information do we collect?</a></li>
+					  <li><a href="#privacy5">How do we collect this information?</a></li>
+					  <li><a href="#privacy6">How do we use cookies?</a></li>
+					  <li><a href="#privacy7">How do we use web beacons?</a></li>
+					  <!--<li><a href="#privacy8">Do visitors need to provide personal information to use our site?</a></li>-->
+					  <li><a href="#privacy9">What if you don't want to give us personal information?</a></li>
+					  <li><a href="#privacy10">How do we protect our customers' personal information?</a></li>
+					  <li><a href="#privacy11">How do we use information about our customers?</a></li>
+					  <li><a href="#privacy12">How do we share customers' personal information with third parties?</a></li>
+					  <li><a href="#privacy13">How do we share other kinds of information about our customers with third parties?</a></li>
+					 <li><a href="#privacy14">How can users check or change the information we collect from or about them?</a></li>
+					  <li><a href="#privacy15">What are third party affinity programs?</a></li>
+					  <li><a href="#privacy16">Do we collect personal information from children?</a></li>
+			      </ul>
+				    <hr class="faqRule">
+
+						<h3><a name="privacy3" id="privacy3"></a>What personal information do we collect from our customers?</h3>
+						<p>We gather personal information about our  customers so we can better serve you, and we make reasonable efforts to ensure  the security of your personal information and to treat that information  responsibly. We collect the personal information that you give us voluntarily  or in response to our request when you choose to purchase a product from us or  use one of our services. For example, when you register with QVC we will ask  you to provide information such as your name, e-mail address, physical address,  and telephone number. Registration with QVC is generally required to make a  purchase or to use one of our community functions such as posting a message on a  community forum or submitting a product review. Similarly, we will ask you for  contact information if you use our notify a friend program or if you request  that we send you e-newsletters or other promotional notices or seek information  or assistance from us.<br> 
+						  <br>
+If you purchase a product, we will also ask  you for financial information such as your <em>QCard®</em> or other credit card number  and for a billing address and a shipping address.<br> 
+<br>
+Additional personal information may be collected  from you in connection with your use of certain optional services and features  we offer. For example, if you register for QVC’s mobile services, we will ask  you to provide information such as your cell phone number and the name of your  mobile provider, as well as the payment method, billing address, and shipping  address you want to use for any purchases through this service. You will also  be requested to specify payment and shipping information in advance if you want  to purchase items using a speed purchase feature. Similarly, entering one of  our contests or sweepstakes, submitting an employment application, or using one  of our community functions may involve our collection of further personal  information from you such as your social security number and chosen nickname.  If you sign up to receive <em>Today’s Special Value®</em> e-mails, messages or  e-newsletters, you may be asked to provide information concerning your personal  interests. We may also collect personal information from your creation of wish  lists or reminders.&nbsp; </p>
+        				If  you are a member of one of our third party affinity programs, we may also  collect personal information from you about your membership and your purchases from  us.
+        				<p class="faqReturn2top"><a href="#pghdr">Return to top</a></p>
+					<h3><a name="privacy4" id="privacy4"></a>What other kinds of customer information do we collect?</h3>
+						<p>If you ask us to ship a purchase to somebody  else or you use our notify a friend feature, we will ask you to provide the  name and address or e-mail address of the person to whom you are sending or  recommending the product, as well as your name and contact information.<br>
+						  <br>
+We  may also obtain personal information about you such as contact information,  updated address and shipping instructions, and credit information from agents,  consultants, contractors, carriers, and other third parties. We may also  collect contact and other information about prospective customers. </p>
+        				Additionally,  our system keeps track of technical information about your computer or mobile  device, such as the browser type and version, browser plug-in types and  versions, and operating system of your computer, the Internet Service Provider  (ISP) or other  provider you use to access certain of our services, and your internet protocol  (ip) address<strong>, </strong>location<strong>, </strong>and time zone setting. To help us  understand the use of our services by our visitors and improve your shopping  experience and to aid us in marketing and managing our services, we also  automatically collect information as to how you were directed to them, how you  navigate around them, what products you browse, and your purchasing activities.
+        				<p class="faqReturn2top"><a href="#pghdr">Return to top</a></p>
+					<h3><a name="privacy5" id="privacy5"></a>How do we collect this information?</h3>
+						<p>When you register with QVC, we compile the  personal information you give us about yourself into an individual profile,  adding other personal information about you to that profile as we obtain it. We  also collect information about your purchases and other uses of our services as  they occur.<br>
+						  <br>
+Personal and other information about  prospective customers may be collected by us or obtained from our business  partners or other third parties.<br>
+<br>
+We automatically gather other information  (including the technical information identified above) when you access certain  of our services, including through the use of cookies and web beacons.<strong></strong></p>
+        				<p class="faqReturn2top"><a href="#pghdr">Return to top</a></p>
+					<h3><a name="privacy6" id="privacy6"></a>How do we use cookies?</h3>
+						<p>Cookies enhance our ability to serve you.  Basically, they're pieces of text that a website stores on your computer – an  identification code of sorts. This cookie can be accessed by the website when  you revisit it.<br>
+						  <br>
+We use two types of cookies: session cookies  and persistent cookies. Session cookies terminate shortly after you terminate  your internet session. Persistent cookies are stored on your hard drive until  they expire or are deleted. Both types of cookies help provide an enhanced user  experience since they recall your use of the Internet and our services, shopping  preferences, shopping cart information, and your password.<br>
+<br>
+We understand that not everyone wants to  permit the use of cookies. The Help portion of the toolbar on most browsers  will tell you how to prevent your browser from accepting cookies and how to disable  cookies, but we recommend that you leave cookies turned on so that you can take  full advantage of the shopping features we offer.</p>
+						<p class="faqReturn2top"><a href="#pghdr">Return to top</a></p>
+					<h3><a name="privacy7" id="privacy7"></a>How do we use web beacons?</h3>
+						<p>Web beacons are small, transparent graphics  that are placed on web pages to track how visitors arrive at a website and what  they do there. We use web beacons to track customers' visits to and browsing  activities at our websites and to compile sales and statistical data. For  example, beacons let us know when a purchase is made on one of our websites by  a member of one of our third party affinity programs and when a purchase is  initiated by an advertisement we placed on a third party's website. This  information assists us in marketing and managing our websites and enhancing  your shopping experience.</p>
+						<p class="faqReturn2top"><a href="#pghdr">Return to top</a></p>
+					<!--<h3><a name="privacy8" id="privacy8"></a>Do visitors need to provide personal information to use our site?</h3>
+						<p>Personal information is not required to access or navigate around the site. However, you will be asked to register and provide personal information if you want to make a purchase or post a message. Personal information is also required to request information or assistance from us or to take advantage of certain optional features of our site such as our Email to a Friend program, contests or sweepstakes as well as employment opportunities.</p>
+						<p class="faqReturn2top"><a href="#pghdr">Return to top</a></p>-->
+					<h3><a name="privacy9" id="privacy9"></a>What if you don't want to give us personal information?</h3>
+						<p>Personal information is required for you to  make a purchase, request information or assistance, or take advantage of  certain services and features we offer, such as QVC’s mobile services and  desktop applications, our notify a friend feature, community functions,  contests or sweepstakes, or on-line employment  applications. If you do not want to provide personal information through  use of these services and features, you are free to look for products offered  through any of our marketing channels and place a telephone order by calling  1-888-345-5788 toll-free or by visiting one of our stores. We respect the  confidentiality of all your personal information as described in this Privacy  Statement whether you give it to us over the telephone, at one of our stores,  or via any other means.</p>
+						<p class="faqReturn2top"><a href="#pghdr">Return to top</a></p>
+					<h3><a name="privacy10" id="privacy10"></a>How do we protect our customers' personal information?</h3>
+						<p>QVC participates in the VeriSign Secured  Seal Program. All of your personal information is encrypted by Secure Sockets  Layer (SSL) software when it is transmitted to us via the Internet to any  website address beginning with https. We maintain the servers that store this  information in a facility with restricted access. We also truncate your credit  card number to the last four digits when we communicate with you about your  order.</p>
+						<p class="faqReturn2top"><a href="#pghdr">Return to top</a></p>
+					<h3><a name="privacy11" id="privacy11"></a>How do we use information about our customers?</h3>
+						<p>We use your personal information to process  your orders. This includes for example, contacting you to confirm your order,  fulfilling it, and shipping it. We may also contact you about your order.<br>
+						  <br>
+Additionally, we will use your contact  information to send you e-newsletters or other promotional notices, or to  respond to requests for information or assistance from you.<br>
+<br>
+If you are a member of one of our third  party affinity programs, we will use and disclose your personal information to  administer and manage that program. Similarly, if you choose to participate in  certain services or features we offer such as QVC’s mobile services and desktop  applications, our notify a friend feature, community functions, contests or  sweepstakes, and on-line employment applications, we will use your personal  information to administer and manage those services and features.<br>
+<br>
+We may also use your personal information to  improve our service to you, to customize the content you see, and for research,  marketing, and other business purposes. For example, we periodically review  customer information as part of servicing our accounts. We may also contact you  from time to time to inform you of the services that we offer and to gather  information about how we can improve them.<strong></strong><br>
+<br>
+Finally, we analyze information we obtain automatically,  including from cookies and web beacons, concerning our customers' use of, access  to, and navigation of our services and their browsing and purchasing activities  to improve, customize, and market our services and content, to enhance our  customers' shopping experiences, and for research, marketing, and other  business purposes.</p>
+						<p class="faqReturn2top"><a href="#pghdr">Return to top</a></p>
+					<h3><a name="privacy12" id="privacy12"></a>How do we share customers' personal information with third parties?</h3>
+						<p>In order to receive and process your orders  and requests, we may provide your name, address, and other personal  information, such as your e-mail address and telephone number, to other  entities such as credit card companies and package delivery services (for  example, American Express, Visa, UPS, and USPS). Similarly, if you order a  product that is shipped directly from another company, or offered by us in conjunction  with another company, we will share personal information about that order with  the other company.<br> 
+						  <br>
+We may use third party agents, consultants,  and contractors to perform business functions on our behalf, including customer  service, credit review, account servicing, customer research, marketing,  provision of IT services, and records maintenance. We give these entities  access to our customers' personal information to perform these functions for  us. We DO NOT authorize them to use that information for any other purpose.<strong></strong><br>
+<br>
+Additionally, we share personal information  about you when you voluntarily use certain optional services and features we  offer. For example, if you are a member of one of our third party affinity  programs, we will share information concerning your purchases from us with the organization  running that program. If you ask us to send a particular product to another  person or use our notify a friend feature, we  will tell that person we are sending the product or e-mail at your request. If you  participate in a contest or sweepstakes or submit an employment application, we  may share the information you submit with others assisting us in the  administration of that feature. If you use one of our community functions, the  content of your posting will be available to all other participants and will be  accompanied by your user name or chosen nickname.<br>
+<br>
+It is possible that QVC or part of its  business or one of its affiliates could merge with, acquire or be acquired by  another business entity and your personal information could be among the assets  transferred. If this occurs, you will be notified of the change by e-mail or  notice on this website or one of our other services.</p>
+						We  reserve the right to share personal information about you with our affiliates  in the course of our business operations. We also reserve the right to share  personal information about you when we believe this to be appropriate to comply  with the law or in cooperation with legal authorities, to enforce the General  Terms and Conditions governing use of this website and the terms and conditions  governing the use of our other services, or to protect the rights, property,  safety,<strong> </strong>or other interests of QVC  and its customers.
+						<p class="faqReturn2top"><a href="#pghdr">Return to top</a></p>
+					<h3><a name="privacy13" id="privacy13"></a>How do we share other kinds of information about our customers with third parties?</h3>
+						<p>We may share non-personal, non-individually  identifiable information about our customers with the group of people with whom  we share personal information, as well as with other third parties such as  vendors, advertisers, and marketing firms.</p>
+						<p class="faqReturn2top"><a href="#pghdr">Return to top</a></p>
+					<h3><a name="privacy14" id="privacy14"></a>How can users check or change the information we collect from or about them?</h3>
+						<p>You can always review your personal profile  at QVC and correct or update it by going to the area of one of our services dealing  with customers’ accounts and accessing the specific type of information that  you wish to correct or update. You can  also change personal information such as your shipping address or payment  method when ordering.<br>
+						  <br>
+You can subscribe to or unsubscribe from e-newsletters  and other promotional notices by going to the area on one of our services dealing  with customers’ accounts and accessing the type of communication service you  wish to change.<br>
+<br>
+Our customer service representatives are  also ready to assist you in checking or changing your personal profile or  removing your name from our contact lists. You can reach them through links to  customer service that appear throughout our services, by e-mail, or by calling  1-888-345-5788 toll-free or writing to QVC, Inc., Customer Service, 1200 Wilson  Drive at Studio Park, West Chester, PA 19380.</p>
+						<p>You can opt out of our use of cookies to recall  information about you by setting your browser not to accept cookies or to  disable cookies. You cannot access or change the non-personal information that we  collect. However, you can opt out of the process by which certain categories of  information are collected at this website by<a href="javascript:TB_show('', '/cs/qvc_opt_out.html?width=550&amp;height=500', true);"> clicking here</a>.</p>
+
+						<!-- begin overlay -->
+							<div id="overlaywrap" style="display:none">
+								<div id="overlaywrap">
+     								<script language="JavaScript">
+      <!--
+      var newWindow;
+      function viewStatusWindow () {
+      bg_color="FFFFFF"; // optional background color of the popup window
+      bg_img=""; // optional background image for the popup window
+      // complete url needed
+      newWindow=window.open
+      ("http://data.qvc.com/privacy/getStatus.php"+
+      "?bg=" + bg_color + "&im=" + bg_img, "popup1",
+      "resizeable,width=500,height=400")
+      }
+      function optResultWindow ( f ) {
+      // destination_opt_out - url of the page that is displayed in
+      // the pop up window after the opt-out cookie is set
+      destination_opt_out="http://data.qvc.com/privacy/optout.html";
+      // destination_anonymous - url of the page that is displayed in
+      // the pop up window after the anonymous cookie is set
+      destination_anonymous="http://data.qvc.com/privacy/anonymous.html";
+      // destination_cancel - url of the page that is displayed in
+      // the pop up window after the cancel cookie is set
+      destination_cancel="http://data.qvc.com/privacy/cancel.html";
+      if ( f.action[0].checked ) {
+      ac = "anonymous";
+      destination = destination_anonymous;
+      }
+      if ( f.action[1].checked ) {
+      ac = "opt_out";
+      destination = destination_opt_out;
+      }
+      if ( f.action[2].checked ) {
+      ac = "optin";
+      destination = destination_cancel;
+      }
+      newWindow=window.open (
+      "http://data.qvc.com/privacy/privacy_handler.php"+
+      "?dest=" + destination + "&act=" + ac,
+      "popup1", "resizeable,width=500,height=400")
+      }
+      function setStatus(msg) {
+      status = msg
+      return true
+      }
+      //-->
+    </script>
+	<h3>Anonymous Visitor and Opt–Out Options</h3>
+<p>QVC uses service providers to collect and analyze certain categories of information about our customers' browsing and purchasing patterns. QVC uses this information to improve our website and enhance your shopping experience. QVC respects your privacy, and therefore allows you to opt out of the process by which this information is collected by our service providers. If you wish to opt out, there are two methods to choose from, an "Anonymous Visitor" option or "Total Opt Out". In order for either of these options to take effect, you must first accept a cookie issued on behalf of QVC concerning information collection which will allow you to be recognized with an identification code so that your opt-out selection may be honored.</p>
+<p>If you have set your browser to automatically accept cookies, you do not need to change your browser settings.</p>
+<p>If you have set your browser to prompt you for permission to receive cookies, and have not already accepted a cookie issued on behalf of QVC concerning information collection, please click "Refresh" and accept the cookie when prompted.</p>
+<p>If you have set your browser or cookie-blocking software to block cookies, please change this setting to automatically accept cookies or to prompt you for permission to receive cookies and then click "Refresh." If you have chosen  the latter option, please accept the cookie issued on behalf of QVC concerning information collection when prompted.</p>
+<p>Next, please select one of the opt-out choices below. Once you click "Submit" below, your selection will take effect immediately.</p>
+<p>Your opt-out selection will remain in effect for as long as the cookie issued on behalf of QVC concerning information collection remains active on your hard drive. If this cookie becomes inactive or is removed from your hard drive (for instance, if you reinstall or update your browser), you will need to renew your opt-out selection. If you use more than one Web browser or computer, you will need to opt out in each one.</p>
+<p>At any time after you have made your opt-out selection, you may cancel it by selecting the "Cancel Opt-out" option below. For your convenience, you can check your current opt-out status at any time by <a href="javascript:void(0)" onclick="viewStatusWindow()" onmouseover="return setStatus('Click to view Opt-out status')" onmouseout="return setStatus('')">clicking here</a>.</p>
+<h3>Anonymous Visitor</h3>
+	<p>I understand that QVC’s service providers will continue to collect certain information about my experience at QVC’s website, and that QVC will have access to this information. However, such information will be presented as part of a pool of general, anonymous visitors.</p>
+<h3>Total Opt-out</h3>
+	<p>I understand that no information about my experience at QVC's website will be collected by QVC's service providers. I understand that the fact that a "Total Opt Out" election has been made will be recorded, so that aggregated totals of "Total Opt Out" elections can be calculated and recorded.</p>
+<h3>Cancel Opt-out</h3>
+	<p>I understand that I will be issued a new cookie on behalf of QVC to enable information collection by its service providers about my experience at QVC's website.</p>
+	 								<div class="clear"><!-- --></div>
+ 								</div>
+							</div>
+							<!-- end overlay -->
+						<p class="faqReturn2top"><a href="#pghdr">Return to top</a></p>
+					<h3><a name="privacy15" id="privacy15"></a>What are third party affinity programs?</h3>
+						<p>Occasionally, we participate in rewards  programs with other business organizations where customers who are also members  of these businesses will get a credit or a reward for their QVC purchases from  the other member organizations. We also sometimes advertise QVC products on  other services in the form of a link so that visitors can click over to our services  and purchase the products if they are interested. In these situations, we share  information about our customers' QVC purchases with these other member  organizations and other services under the contracts these entities have with  QVC.</p>
+						<p class="faqReturn2top"><a href="#pghdr">Return to top</a></p>
+					<h3><a name="privacy16" id="privacy16"></a>Do we collect personal information from children?</h3>
+						<p>Our services are not intended for use by  children, and the terms and conditions governing the use of our services require  that you must be at least 18 years old to use them. In addition, we do not  solicit or collect information from anyone who tells us that he or she is under  13 years of age.</p>
+						<p class="faqReturn2top"><a href="#pghdr">Return to top</a></p>
+				</div>
+				<!-- end  meta page top content -->
+
+				<div class="clear"><!-- --></div>
+
+</div>
+			<!-- end meta page rightside content -->
+		<!-- end page content -->
+		<!-- insert footer here -->
+
+
+
+         </div>
+
+    </div>
+
+    <div class="footer">
+    	 <!-- bottom zone file -->
+
+<!-- QPartSource = [file] footer.html : Req time = 0 sec --><script language="javascript" type="text/javascript">
+<!--
+function showTDD()
+	{
+	  document.getElementById('tdd').innerHTML='1-800-544-3316';
+		document.getElementById('tdd').style.textDecoration = 'none';
+	}
 	
+	var vURL = new String(document.URL);  
+		if (vURL.search('term=') > 0)
+			{   
+			var str = vURL.split('term=');   
+			CM_SearchString = decodeURI(str[1]);
+		  }
+	
+	//-->
+</script>
+
+
+		<div id="footer">
+			<div class="centeredfootercontent">
+			<p>Need help?  Visit <a href="https://quality-s.qvc.com/qic/qvcapp.aspx/view.2/main.html.file.|cs|cs_main,html" id="cslink" manual_cm_re="FOOTER-_-CUSTOMERSERVICE-_-CUSTOMERSERVICE" manual_cm_sp="FOOTER-_-CUSTOMERSERVICE-_-CUSTOMERSERVICE">Customer Service</a>. <span class="footerSpacer"></span>||<span class="footerSpacer"></span> 
+			Question about the item on air now? <a id="askUsFooter" href="/onair/askus.aspx?rewrite=no">Ask Us Live</a></p>
+			</div>
+			<div id="servicelinks">
+				<ul>
+					<li class="footersep" title="E-Mail Sign-Up"><a href="https://quality-s.qvc.com/qic/qvcapp.aspx/main.html.file.|cs|faq_returns,html/left.html.file.|cs|faq_nav,html" manual_cm_re="FOOTER-_-SERVICE-_-HOLIDAYRETURNPOLICY" manual_cm_sp="FOOTER-_-SERVICE-_-HOLIDAYRETURNPOLICY">Holiday Return Policy</a></li>
+					<li class="footersep" title="E-Mail Sign-Up"><a href="https://quality-s.qvc.com/qic/qvcapp.aspx/view.2/app.multi/params.file.|UniversalLogin|UniversalLogin,asp.Venue.Email.Dest.|email|email_config,asp" manual_cm_re="FOOTER-_-SERVICE-_-EMAILSIGNUP" manual_cm_sp="FOOTER-_-SERVICE-_-EMAILSIGNUP">E-Mail Sign-Up</a></li>
+					<li class="footersep" title="Clearance"><a href="/cgen/render.aspx?qp=class|3279&amp;rewrite=no" manual_cm_re="FOOTER-_-SERVICE-_-CLEARANCE" manual_cm_sp="FOOTER-_-SERVICE-_-CLEARANCE">Clearance</a></li>
+					<li class="footersep" title="Gift Cards"><a href="/cgen/render.aspx?qp=class|F711&amp;rewrite=no" manual_cm_re="FOOTER-_-SERVICE-_-GIFTCARDS" manual_cm_sp="FOOTER-_-SERVICE-_-GIFTCARDS">Gift Cards</a></li>
+					<li class="footersep" title="QVC Community"><a href="http://community.qvc.com/category/Forums/3000000000" manual_cm_re="FOOTER-_-SERVICE-_-QVCCOMMUNITY" manual_cm_sp="FOOTER-_-SERVICE-_-QVCCOMMUNITY">QVC Community</a></li>
+					<li title="Site Map"><a href="http://www.qvc.com/qic/qvcapp.aspx/view.2/main.html.file.|sitemap,html" manual_cm_re="FOOTER-_-SERVICE-_-SITEMAP" manual_cm_sp="FOOTER-_-SERVICE-_-SITEMAP">Site Map</a></li>
+				</ul>
+			</div>
+			<div class="centeredfootercontent">
+		<p>Order toll-free anytime by phone: <span class="phoneNum">1-888-345-5788</span> TDD for the hearing impaired: <a id="tdd" onclick="showTDD();"><span class="tddLink">click here</span></a></p>
+		</div>
+		<div id="footermenubox">
+			<ul id="footermenus">
+				<li><div class="footerHeadline">Corporate</div>
+					<ul class="linkoutdent" style="text-align:left;">
+						<br clear:both="">
+						<li><a href="http://www.qvc.com/qic/qvcapp.aspx/app.html/params.file.|cp|mainhqwel,html/left.html.file.|nav|navhqwel,html" title="About Us" manual_cm_re="FOOTER-_-QCORPORATE-_-ABOUTUS" manual_cm_sp="FOOTER-_-QCORPORATE-_-ABOUTUS"> About Us</a></li>
+						<li><a href="http://www.qvc.com/qic/qvcapp.aspx/app.html/params.file.|cp|cp_host_bios,html/left.html.file.|nav|navhqhosts,html" title="Meet our Hosts" manual_cm_re="FOOTER-_-QCORPORATE-_-MEETOURHOSTS" manual_cm_sp="FOOTER-_-QCORPORATE-_-MEETOURHOSTS"> Meet our Hosts</a></li>
+						<li><a href="http://www.qvc.com/qic/qvcapp.aspx/main.html.file.|hr|index,html/left.html.file.|nav|navhqemplo,html" title="Careers" manual_cm_re="FOOTER-_-QCORPORATE-_-CAREERS" manual_cm_sp="FOOTER-_-QCORPORATE-_-CAREERS"> Careers</a></li>
+						<li><a href="http://www.qvc.com/qic/qvcapp.aspx/app.html/params.file.|cp|mainhqpress,html/left.html.file.|nav|navhqabout,html" title="Press Room" manual_cm_re="FOOTER-_-QCORPORATE-_-PRESSROOM" manual_cm_sp="FOOTER-_-QCORPORATE-_-PRESSROOM"> Media</a></li>
+						<li><a href="http://www.qvc.com/qic/qvcapp.aspx/app.html/params.file.|cp|st_main,html/left.html.file.|nav|navhqvisit,html/walk.html.|nav|navhqwel,html" title="Come Visit Us" manual_cm_re="FOOTER-_-QCORPORATE-_-COMEVISITUS" manual_cm_sp="FOOTER-_-QCORPORATE-_-COMEVISITUS">Come Visit Us</a></li>
+						<li><a href="http://www.iqdou.com?rewrite=no" title="iQdoU?" manual_cm_re="FOOTER-_-QCORPORATE-_-IQDOU" manual_cm_sp="FOOTER-_-QCORPORATE-_-IQDOU">iQdoU?</a></li>
+						<li><a href="http://www.qvcproductsearch.com/index.htm?rewrite=no" target="_blank" title="Vendor Relations" manual_cm_re="FOOTER-_-QCORPORATE-_-VENDORRELATIONS" manual_cm_sp="FOOTER-_-QCORPORATE-_-VENDORRELATIONS">Vendor Relations</a></li>
+					</ul>
+				</li>
+				<li><div class="footerHeadline">International</div>
+					<ul class="linkoutdent" style="text-align:left;">
+					<br clear:both="">
+						<li><a href="http://www.qvcuk.com" title="QVC United Kingdom" manual_cm_re="FOOTER-_-QINTERNATIONAL-_-QVCUK" manual_cm_sp="FOOTER-_-QINTERNATIONAL-_-QVCUK"> QVC United Kingdom</a></li>
+						<li><a href="http://www.qvc.jp?rewrite=no" title="QVC Japan" manual_cm_re="FOOTER-_-QINTERNATIONAL-_-QVCJP" manual_cm_sp="FOOTER-_-QINTERNATIONAL-_-QVCJP"> QVC Japan</a></li>
+						<li><a href="http://www.qvc.de" title="QVC Germany" manual_cm_re="FOOTER-_-QINTERNATIONAL-_-QVCDE" manual_cm_sp="FOOTER-_-QINTERNATIONAL-_-QVCDE"> QVC Germany</a></li>
+						<li><a href="http://www.qvc.com/qic/qvcapp.aspx/app.html/params.file.|cp|mainhqretail,html/left.html.file.|nav|navhqretail,html" title="QVC Retail Stores" manual_cm_re="FOOTER-_-QINTERNATIONAL-_-QVCRETAILSTORES" manual_cm_sp="FOOTER-_-QINTERNATIONAL-_-QVCRETAILSTORES">QVC Retail Stores</a></li>
+
+					</ul>
+				</li>
+				<li><div class="footerHeadline">Policies &amp; Information</div>
+					<ul class="linkoutdent" style="text-align:left;">
+						<br clear:both="">
+						<li id="policycolumn1"><a href="http://www.qvc.com/qic/qvcapp.aspx/main.html.file.|cs|faq_privacy,html/left.html.file.|cs|faq_nav,html/#privacy2?rewrite=no" title="Privacy Statement" manual_cm_re="FOOTER-_-QPOLICIESANDINFO-_-PRIVACY" manual_cm_sp="FOOTER-_-QPOLICIESANDINFO-_-PRIVACY">QVC Privacy Statement</a></li>
+						<li><a href="http://www.qvc.com/qic/qvcapp.aspx/main.html.file.|termsconditions,html" title="Terms and Conditions" manual_cm_re="FOOTER-_-QPOLICIESANDINFO-_-TERMSANDCONDITIONS" manual_cm_sp="FOOTER-_-QPOLICIESANDINFO-_-TERMSANDCONDITIONS">QVC General Terms and Conditions of Use</a></li>
+						<li><a href="http://www.qvc.com/qic/qvcapp.aspx/main.html.file.|community_standards,html" title="Community Standards" manual_cm_re="FOOTER-_-QPOLICIESANDINFO-_-COMMUNITYSTANDARDS" manual_cm_sp="FOOTER-_-QPOLICIESANDINFO-_-COMMUNITYSTANDARDS">QVC Community Standards</a></li>
+						<li><a href="http://www.qvc.com/qic/qvcapp.aspx/main.html.file.|recall,html" title="Product Recalls" manual_cm_re="FOOTER-_-QPOLICIESANDINFO-_-PRODUCTRECALL" manual_cm_sp="FOOTER-_-QPOLICIESANDINFO-_-PRODUCTRECALL"> Product Recall Information</a></li>
+						<li class="reset"><a href="http://www.qvc.com/qic/qvcapp.aspx/main.html.file.|manufacturerwarranty,html" title="Manufacturer's Product Warranty Information" manual_cm_re="FOOTER-_-QPOLICIESANDINFO-_-WARRANTY" manual_cm_sp="FOOTER-_-QPOLICIESANDINFO-_-WARRANTY">Manufacturer's Product Warranty Information</a></li>
+						<li class="column2"><a href="http://www.qvc.com/qic/qvcapp.aspx/main.html.file.|jw_gem_standards,html" title="Gemstone Policy Statement" manual_cm_re="FOOTER-_-QPOLICIESANDINFO-_-GEMSTONEPOLICY" manual_cm_sp="FOOTER-_-QPOLICIESANDINFO-_-GEMSTONEPOLICY">Gemstone Policy Statement</a></li>
+						<li class="column2"><a href="http://www.qvc.com/qic/qvcapp.aspx/main.html.file.|faqpricesqvc,html" title="Pricing Information" manual_cm_re="FOOTER-_-QPOLICIESANDINFO-_-PRICING" manual_cm_sp="FOOTER-_-QPOLICIESANDINFO-_-PRICING">Pricing, Retail Value, Offers &amp; Other Information</a></li>
+						<li class="column2"><a href="http://www.qvc.com/qic/qvcapp.aspx/main.html.file.|faqpricesqvc,html?cm_re=FOOTER-_-QPOLICIESANDINFO-_-ONAIRTESTIMONIALS&amp;cm_sp=FOOTER-_-QPOLICIESANDINFO-_-ONAIRTESTIMONIALS#testimonials" title="Testimonials">On-air Testimonials</a></li>
+					</ul>
+				</li>
+				<li><div class="footerHeadline">QCard</div>
+					<ul class="linkoutdent" style="text-align:left;">
+						<br clear:both="">
+						<li class="bordercolumntop"><a href="https://quality-s.qvc.com/qic/qvcapp.aspx?view=2&amp;app=multi&amp;params=file^/UniversalLogin/UniversalLogin.asp,Venue^qcard,Dest^/qCard/QCardMain.asp%3FRequestType%3Dinitial%26SubRequestType%3Dulsgateway" target="_blank" manual_cm_re="FOOTER-_-QCARD-_-APPLYFORAQCARD" manual_cm_sp="FOOTER-_-QCARD-_-APPLYFORAQCARD">Apply for a QCard</a></li>
+						<li class="bordercolumntop"><a href="https://quality-s.qvc.com/qic/qvcapp.aspx/view.1/app.multi/params.file.|qCard|QCardMain,asp.RequestType.initial.SubRequestType.qmanage" title="Manage Your Account or Pay Your Bill" manual_cm_re="FOOTER-_-QCARD-_-MANAGEACCOUNTORPAYBILL" manual_cm_sp="FOOTER-_-QCARD-_-MANAGEACCOUNTORPAYBILL">Manage Your Account or Pay Your Bill</a></li>
+						<li id="qcard"><a href="https://quality-s.qvc.com/qic/qvcapp.aspx?view=2&amp;app=multi&amp;params=file^/UniversalLogin/UniversalLogin.asp,Venue^qcard,Dest^/qCard/QCardMain.asp%3FRequestType%3Dinitial%26SubRequestType%3Dulsgateway" target="_blank" title="Sign Up" manual_cm_re="FOOTER-_-QCARD-_-SIGNUP" manual_cm_sp="FOOTER-_-QCARD-_-SIGNUP"><img src="/pic/qcard.gif" alt="Sign Up"></a></li>
+					</ul>
+				</li>
+				</ul>
+			</div>
+				<div id="sealimgs">
+				<ul>
+					<li><!-- <a href="/qic/qvcapp.aspx/view.2/main.html.file.|hp|hp_biz_rate_2003,html" manual_cm_re="FOOTER-_-ICONS-_-BIZRATE" manual_cm_sp="FOOTER-_-ICONS-_-BIZRATE"> --><a href="javascript:location.href = 'http://www.bizrate.com/merchant/coe__mid--283.html';"><img src="/pic/hp/bizrate.gif"></a></li>
+					<li id="sealimginner"><a href="" onclick="window.open('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www-ssl.qvc.com&amp;lang=en','VRSN_Splash','location=yes,status=yes,resizable=yes,scrollbars=yes,width=560,height=500'); return false;"><img src="/qvc/gif/hp/verisignseal.gif"></a></li>
+					<li><a href="/qic/qvcapp.aspx/view.2/main.html.file.|hp|hp_shopping_com,html" manual_cm_re="FOOTER-_-ICONS-_-SHOPPINGCOM" manual_cm_sp="FOOTER-_-ICONS-_-SHOPPINGCOM"><img src="/pic/hp_110x40_shop_icon.gif"></a></li>
+				</ul>
+				</div>
+				<div id="libertylinks">
+					<div class="clear"></div>
+					<ul>
+						<li>LIBERTY MEDIA FAMILY:</li>
+						<li><a href="/qic/qvcapp.aspx/view.2/app.multi/params.file.|templates|widgets|us|webparts|htmlfiles|" manual_cm_re="FOOTER-_-LIBERTY-_-BACKCOUNTRY" manual_cm_sp="FOOTER-_-LIBERTY-_-BACKCOUNTRY">Outdoor Gear from Backcountry.com</a><span class="libertysep">|</span> </li>
+						<li><a href="/qic/qvcapp.aspx/view.2/app.multi/params.file.|templates|widgets|us|webparts|htmlfiles|" manual_cm_re="FOOTER-_-LIBERTY-_-PROFLOWERS" manual_cm_sp="FOOTER-_-LIBERTY-_-PROFLOWERS">Flowers from ProFlowers.com</a><span class="libertysep">|</span> </li>
+						<li><a href="/qic/qvcapp.aspx/view.2/app.multi/params.file.|templates|widgets|us|webparts|htmlfiles|" manual_cm_re="FOOTER-_-LIBERTY-_-BUYCOSTUMES" manual_cm_sp="FOOTER-_-LIBERTY-_-BUYCOSTUMES">Holiday Costumes from BuyCostumes.com</a></li>
+					</ul>
+				</div>
+				<span id="trademark">
+
+				<span id="copyYear">©1995-2008</span>
+				QVC, Inc. All rights reserved <a onclick="javascript:window.open('/trademark.html?rewrite=no',
+'mywindow','top=300,left=300,width=400,height=200,toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=no')" manual_cm_re="FOOTER-_-TRADEMARK-_-TRADEMARK" manual_cm_sp="FOOTER-_-TRADEMARK-_-TRADEMARK">Trademark Notice</a></span>
+		</div>	
+
+
+
+    </div>
+</div>
+<!-- end wrapper -->
+<script language="JavaScript" type="text/javascript" src="/content/html/coremetrics/CoremetricIncludes.js"></script>
+
+
 
 
 </body></html>
