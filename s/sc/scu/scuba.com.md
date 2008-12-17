@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scuba.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515235722id_/http%3A//www.scuba.com/resources/security_and_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scuba.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050331id_/http%3A//www.scuba.com/resources/security_and_privacy.asp) for the most accurate reproduction.*
 
 # scuba.com Security and Privacy
 
@@ -84,6 +84,7 @@ Fax us at: 949-221-9323
 Corporate Office: [Scuba.com](http://www.scuba.com/)  
 1752 Langley Avenue, Irvine CA 92614  
   
-Scuba requires professional [scuba diving training and certification](https://web.archive.org/learn2scuba/)   
+Scuba diving portal for [scuba diving equipment](http://www.scuba.com/)   
+Scuba requires professional [scuba diving training and certification](http://www.scuba.com/learn2scuba/)   
 Prices subject to change.  
-Copyright © 1996-2008 
+Copyright © 2000-2008 
