@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarku.edu privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615141818id_/http%3A//www.clarku.edu/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarku.edu privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217170719id_/http%3A//www.clarku.edu/privacy.cfm) for the most accurate reproduction.*
 
 # Clark University | Public Affairs Office
 
