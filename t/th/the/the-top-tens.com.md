@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-top-tens.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623222141id_/http%3A//www.the-top-tens.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-top-tens.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064222id_/http%3A//www.the-top-tens.com/privacy.asp) for the most accurate reproduction.*
 
 # Top Ten Lists - Privacy Policy
 
@@ -15,3 +15,12 @@ The Site makes use cookies and other tracking technology. Cookie and tracking te
 **Distribution of Information**
 
 We will only share collected information with third parties when we are legally required to do so. Information will never be provided to third parties for marketing purposes. 
+
+**Newest Lists**
+
+**Most Popular**
+
+**New Members**
+
+  
+
