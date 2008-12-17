@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-web-directory.co.uk privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514144145id_/http%3A//www.the-web-directory.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-web-directory.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061306id_/http%3A//www.the-web-directory.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
