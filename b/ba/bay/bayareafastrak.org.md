@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bayareafastrak.org privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517121448id_/http%3A//bayareafastrak.org/static/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayareafastrak.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217071622id_/http%3A//www.bayareafastrak.org/static/privacy/index.shtml) for the most accurate reproduction.*
 
 # FasTrak® - Keeping the Bay Area Moving
 
@@ -10,10 +10,13 @@ BATA collects personal information to facilitate enrollment processing, account 
 **How Personal Information is Used**  
 Personal information will only be used by BATA, the Golden Gate Bridge, Highway and Transportation District (GGBHTD), and the California Department of Transportation (Caltrans) for the purpose of administering a FasTrak® user’s account and managing the FasTrak® operations. In the course of administering FasTrak® accounts, BATA may disclose personal information to third party service providers for the purpose of operating the FasTrak® program (e.g., DMV, municipal courts, account processors or collection agencies); otherwise, personal information will not be disclosed to third parties, except as required by law or ordered by a court of competent jurisdiction. Information about a FasTrak® user’s use of the system, but which does not personally identify a user, may be disclosed to others to generate statistical reports for the purpose of managing the FasTrak® operation. 
 
+**Other Uses of Toll Tag Data**  
+The Metropolitan Transportation Commission (MTC)/511 operates a data collection system based on FasTrak® toll tags to provide better information about the transportation network to Bay Area travelers, transportation managers, and transportation planners through the 511 Driving TimesSM service. Encryption software is used to mask each toll tag identification number to ensure that toll tag information is treated anonymously in the data collection process. For more information on the 511 Driving TimesSM service and how customer data is protected, please refer to MTC [511’s Privacy Notice](http://www.511.org/copyright_items/privacy.asp). 
+
 **Security**  
 BATA will take all reasonable steps to safeguard personal information through physical, electronic and procedural means. BATA will treat FasTrak® user information confidentially and require third party service providers to treat it in the same manner.
 
 FasTrak® users retain the right to review and edit all of their personal information pertaining to their accounts, whether stored electronically or on paper. Personal information can be reviewed and edited online at <http://www.bayareafastrak.org/dynamic/accounts/index.shtml>. Any inquiry or request to obtain information, in accordance with the above provisions, should be directed in writing to the FasTrak® Customer Service Center or to BATA. BATA may adopt procedures for review of such information, including but not limited to charging a fee for processing requests for access to personal information.
 
 **Effective Date**  
-The effective date of this privacy policy is May 25, 2005. If BATA makes changes to this privacy policy, BATA will post the revised policy on its FasTrak® website, including the date of any amendments.
+The effective date of this privacy policy is May 25, 2005, as amended on September 24, 2008. If BATA makes changes to this privacy policy, BATA will post the revised policy on its FasTrak® website, including the date of any amendments.
