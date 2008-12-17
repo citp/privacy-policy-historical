@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geelongadvertiser.com.au privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608215059id_/http%3A//www.geelongadvertiser.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geelongadvertiser.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217230721id_/http%3A//www.geelongadvertiser.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy - The Geelong Advertiser
 
@@ -69,4 +69,7 @@ Please contact our Privacy Officer to ask for access to your information or if y
 **Email:** [privacy@geelongadvertiser.com.au](mailto:privacy@geelongadvertiser.com.au)   
 **Telephone:** +61 03 5227 4300  
  **Mail:** Privacy Officer, P.O. Box 91, Geelong VIC 3220  
+
+
+  
 
