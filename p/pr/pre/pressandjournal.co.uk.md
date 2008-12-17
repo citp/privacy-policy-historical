@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressandjournal.co.uk privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615164600id_/http%3A//www.pressandjournal.co.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressandjournal.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217163115id_/http%3A//www.pressandjournal.co.uk/Privacy.aspx) for the most accurate reproduction.*
 
 # Site Privacy Policy and Conditions of Use
 
@@ -35,3 +35,7 @@
     * We have put in place appropriate technology measures and security policies and procedures to protect the personal data that we have under our control from unauthorised access, improper use, alteration, unlawful or accidental destruction or accidental loss.
 
 
+
+[](http://bookadsonline.ajl.co.uk/book/step_1.php?siteid=3&sid=)
+
+[](http://www.pressandjournal.co.uk/)
