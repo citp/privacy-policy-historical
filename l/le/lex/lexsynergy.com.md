@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexsynergy.com privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523095336id_/http%3A//www.lexsynergy.com/index.php/privacy-policy/%3FLEXSESSID%3D797ce30c8aebb121d93e29b0e28bfe75) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexsynergy.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075706id_/http%3A//www.lexsynergy.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Lexsynergy - Domain name management
 
