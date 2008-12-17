@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktvz.com privacy policy that was archived on 2007-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070703084221id_/http%3A//www.ktvz.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktvz.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217114146id_/http%3A//www.ktvz.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # KTVZ.com Central Oregons News, Weather and Sports Leader - This Web Site’s Privacy Policy
 
@@ -63,3 +63,5 @@ We use third-party advertising companies to serve ads when you visit this Web si
 Questions regarding this Privacy Policy should be directed to us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
 
 _Effective date: July 1, 2004_
+
+[](http://www.addthis.com/bookmark.php)
