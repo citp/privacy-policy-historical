@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandinroad.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603172010id_/http%3A//www.grandinroad.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D517%26path%3D1%252C2%252C270%252C517) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandinroad.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217170508id_/http%3A//www.grandinroad.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D517%26path%3D1%252C2%252C270%252C517) for the most accurate reproduction.*
 
 # Privacy & Security - Grandin Road
 
@@ -8,14 +8,18 @@ Your Privacy Rights
 
 Grandin Road respects your privacy and is a member of the Direct Marketing Association (DMA) and follows the DMA privacy guidelines. The DMA's Mail Preference Service reduces the availability of your name and address to many other direct marketing companies. To learn more, click on [_www.dmaconsumers.org_](http://www.dmaconsumers.org/).
 
-Consumer Privacy at Grandin Road, an IAC Company.
+Consumer Privacy at Grandin Road, an HSNi Company.
 
   
 
 
-Grandin Road is part of the IAC family of businesses. IAC is an interactive conglomerate with more than 60 brands, including: Ask.com, Citysearch, Evite, Gifts.com, HSN, LendingTree, Match.com, RealEstate.com, ServiceMagic, Ticketmaster, and many others. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/).
+Grandin Road is part of the HSN, Inc. ("HSNi") family of businesses. HSNi is a retailing powerhouse that spans the full retail spectrum including television (HSN), ecommerce (hsn.com and catalogue websites), catalogues (Cornerstone Brands), and brick & mortar retail (Frontgate, Grandin Road, Ballard Designs, The Territory Ahead). For a complete list of all of HSNi's businesses, please visit 
 
-At IAC, we respect the privacy of our customers and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of Grandin Road, please 
+[_www.hsni.com_](http://www.hsni.com/)
+
+.
+
+At HSNi, we respect the privacy of our customers and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all HSNi websites. To read the entire Privacy Policy of Grandin Road, please 
 
 [_click here_](https://web.archive.org/jump.jsp?itemType=CATEGORY&itemID=533&path=1%2C2%2C270%2C517%2C533)
 
@@ -26,7 +30,7 @@ At IAC, we respect the privacy of our customers and the importance of the inform
 [ _read more_](https://web.archive.org/jump.jsp?itemID=533&itemType=CATEGORY#aboutyou)
 
 )  
-We may collect information that can identify you ("personal information"), such as your name, address, and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. We also may collect other types of information in the following ways when you visit our website: 
+We may collect information that can identify you ("personal information"), such as your name, address, and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other HSNi businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. We also may collect other types of information in the following ways when you visit our website: 
 
   * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends.
   * We may assign your computer one or more cookies which may collect information to facilitate access to our website and to personalize your online experience.
@@ -60,19 +64,19 @@ We may use information to:
 We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with: 
 
   * Service providers, such as credit-card payment processors, performing services on our behalf;
-  * Other IAC businesses;
+  * Other HSNi businesses;
   * Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and
   * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
   * We may share aggregated, non-personal information in any of the above situations and also with advertisers and others.
 
-**Your Choices** ([ _read more_](https://web.archive.org/jump.jsp?itemID=533&itemType=CATEGORY#yourchoices))  
+**Your Choices**  
 You may choose: 
 
   * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;
-  * To stop receiving promotional emails or newsletters from us by sending an email to the contact address below or by [clicking here to unsubscribe](http://www.iac.com/)
+  * To stop receiving promotional emails or newsletters from us by sending an email to the contact address below or by [_clicking here to unsubscribe_](https://web.archive.org/subscribemain.jsp?action=0)
   * To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
   * To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account.
-  * Opt-out. If you do not wish to receive mailings from other companies or to have personal information shared with other companies, including other IAC businesses, please contact us by phone, email or mail.
+  * Opt-out. If you do not wish to receive mailings from other companies or to have personal information shared with other companies, including other HSNi businesses, please contact us by phone, email or mail.
 
 **Our Company Contact Points:**  
 Toll Free: 1.866.668.5962  
@@ -101,6 +105,6 @@ West Chester, OH 45069
 
 [ _ps@grandinroad.com_](mailto:ps@grandinroad.com)
 
-© 2007 IAC/InterActiveCorp. All rights reserved. 
+© 2008 HSN, Inc. All rights reserved. 
 
 | 
