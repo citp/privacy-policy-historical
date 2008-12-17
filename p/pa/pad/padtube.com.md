@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the padtube.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609124007id_/http%3A//www.padtube.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the padtube.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217114805id_/http%3A//www.padtube.com/aboutus.html%3Fsection%3DLegalInformation.PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Statement » Free Software Downloads and Software Reviews » PADTube.com
+# About Us » Free Software Downloads and Software Reviews » PADTube.com
 
-## Privacy Statement 
+## Privacy Statement
 
   
 **Information Logged Automatically**  
@@ -23,7 +23,7 @@ PADTube.com is committed to protecting your privacy. We will not sell, rent, or 
 **Contact Information**  
 If you have questions or suggestions regarding this Privacy Statement, the practices of this site, or your dealings with our web sites, please feel free to contact the PADTube.com using the information provided on our Contact Information page.
 
- **Notice of changes to the Policy**  
+**Notice of changes to the Policy**  
 PADTube.com reserves the right to change this Policy at any time by notifying members via posting the new Policy on the PADTube.com site. All changes to the Policy will be effective when posted, and your continued use of any PADTube.com site or service after the posting will constitute your acceptance of, and agreement to be bound by, those changes. 
 
 Last Updated : Friday, 22 December 2006 
