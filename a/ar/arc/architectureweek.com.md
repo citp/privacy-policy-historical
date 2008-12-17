@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architectureweek.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210215326id_/http%3A//www.architectureweek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architectureweek.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217232242id_/http%3A//www.architectureweek.com/privacy.html) for the most accurate reproduction.*
 
 # ArchitectureWeek Privacy Statement
 
@@ -73,65 +73,65 @@ Kevin Matthews Editor in Chief, ArchitectureWeek Artifice, Inc. PO Box 1588 Euge
 
 [**Daily Architecture Headlines**](http://www.architectureweek.com/headlines.html) — Updated every day at ArchitectureWeek 
 
-[**Four Kentucky Projects Honored for Design Excellence**](http://www.architectureweek.com/cgi-bin/wllk?http://www.aia.org/aiarchitect/thisweek07/1130/1130d_ky.cfm) — AIArchitect, 2007.1130 
+[**Faneuil Hall to Receive 2009 AIA Twenty-Five Year Award**](http://www.architectureweek.com/cgi-bin/wllk?http://www.aia.org/press2_template.cfm?pagename=release_121108_25yearaward) — AIA Press Release, 2008.1211 
 
-[**Controversial Urbanists Win Top Architecture Award**](http://www.architectureweek.com/cgi-bin/wllk?http://www.chicagotribune.com/news/nationworld/chi-1128driehausnov29,1,4410781.story?ctrack=1&cset=true) — Chicago Tribune, 2007.1127 
+[**Olson Sundberg Kundig Allen Architects Receives 2009 AIA Architecture Firm Award**](http://www.architectureweek.com/cgi-bin/wllk?http://www.aia.org/press2_template.cfm?pagename=release_w120408_firm) — AIA Press Release, 2008.1204 
 
-[**Going to Brooklyn for the Views**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/2007/11/25/realestate/25window.html) — New York Times, 2007.1125 
+[**Glenn Murcutt Awarded 2009 AIA Gold Medal**](http://www.architectureweek.com/cgi-bin/wllk?http://www.aia.org/press2_template.cfm?pagename=release_a120408_gold) — AIA Press Release, 2008.1204 
 
-[**Major Earthquake Rattles Chile**](http://www.architectureweek.com/cgi-bin/wllk?http://edition.cnn.com/2007/WORLD/americas/11/14/earthquake.chile/?iref=mpstoryview) — CNN, 2007.1114 
+[**Mannington Commercial Seeking Future Design Talent**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archweek.com/2008/1203/press_release_1-1.html) — Veeder+Perman Press Release, 2008.1203 
 
-[**Container Ship Bumps Bay Bridge Tower**](http://www.architectureweek.com/cgi-bin/wllk?http://www.washingtonpost.com/wp-dyn/content/article/2007/11/07/AR2007110702214.html) — Washington Post, 2007.1107 
+[**Chicago AIA Awards 2008**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archweek.com/2008/1203/news_1-1.html) — ArchitectureWeek, 2008.1203 
 
-[**London 2012 Stadium Revealed**](http://www.architectureweek.com/cgi-bin/wllk?http://www.guardian.co.uk/olympics2012/story/0,,2206656,00.html) — Guardian Unlimited, 2007.1107 
+[**People and Places 2008.1203**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archweek.com/2008/1203/news_2-1.html) — ArchitectureWeek, 2008.1203 
 
-[**Ontario Wood WORKS Honours Architectural Projects for Innovative Design**](http://www.architectureweek.com/cgi-bin/wllk?http://dcnonl.com/article/id25004) — Daily Commercial News and Construction Record, 2007.1107 
+[**Jorn Utzon Dies at 90**](http://www.architectureweek.com/cgi-bin/wllk?http://www.latimes.com/news/obituaries/la-me-utzon30-2008nov30,0,6278913.story) — Los Angeles Times, 2008.1130 
 
-[**AIA Tennessee Recognizes Seven for Design Excellence**](http://www.architectureweek.com/cgi-bin/wllk?http://www.aia.org/aiarchitect/thisweek07/1102/1102d_aiatenn.cfm) — AIArchitect, 2007.1102 
+[**Jorn Utzon, 90, Dies; Created Sydney Opera House**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/2008/11/30/arts/design/30utzon.html?scp=4&sq=building+AND+construction+AND+architecture&st=nyt) — New York Times, 2008.1129 
 
-[**Carmody Groarke Wins YAYA**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bdonline.co.uk/story.asp?storycode=3099106&origin=BDweekly) — BD, 2007.1101 
+[**Gehry-Designed Tolerance Museum Inflames Jerusalem Passions**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bloomberg.com/apps/news?pid=20601088&sid=aJMkhlxaz.bY&refer=home) — Bloomberg, 2008.1121 
 
-[**Fire Victims Navigate Recovery Process**](http://www.architectureweek.com/cgi-bin/wllk?http://www.chron.com/disp/story.mpl/ap/nation/5256110.html) — Houston Chronicle, 2007.1029 
+[**Eli Broad Plans Another Art Space**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/2008/11/20/arts/design/20broa.html?scp=4&sq=building+AND+construction+AND+architecture&st=nyt) — New York Times, 2008.1119 
 
-[**Architect's Wall of Fame Collects Top Honor**](http://www.architectureweek.com/cgi-bin/wllk?http://www.suntimes.com/news/metro/621659,CST-NWS-aia26.article) — Chicago Sun-Times, 2007.1025 
+[**People and Places 2008.1119**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archweek.com/2008/1119/news_2-1.html) — ArchitectureWeek, 2008.1119 
 
-[**Calif. Fires Destroy Hundreds of Homes**](http://www.architectureweek.com/cgi-bin/wllk?http://www.guardian.co.uk/worldlatest/story/0,,-7018623,00.html) — Guardian Unlimited, 2007.1023 
+[**Aussie Architecture Awards 2008**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archweek.com/2008/1119/index.html) — ArchitectureWeek, 2008.1119 
 
-[**Tornadoes Hit Jefferson, Bullitt**](http://www.architectureweek.com/cgi-bin/wllk?http://www.courier-journal.com/apps/pbcs.dll/article?AID=/20071020/NEWS01/710200418/1008) — Louisville Courier-Journal, 2007.1020 
+[**Michael Gould Joins Hunt Hale Jones Architects as Urban Design/ Multifamily Studio Director**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archweek.com/2008/1119/press_release_1-1.html) — Hunt Hale Jones Press Release at ArchitectureWeek, 2008.1119 
 
-[**Accel-E ™ S.T.E.P. Wall System Provides Framing, Insulation, and Sheathing in Single, Easily Installed Panels**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archweek.com/2007/1017/20071017_vantedge.html) — VantEdge Press Release at ArchitectureWee, 2007.1017 
+[**California Fires Could Burn for Days, Official Says**](http://www.architectureweek.com/cgi-bin/wllk?http://www.cnn.com/2008/US/11/17/california.fires/?iref=mpstoryview) — CNN, 2008.1117 
 
-[**Glass: Transparent, Translucent, and Ironic**](http://www.architectureweek.com/cgi-bin/wllk?http://archrecord.construction.com/news/daily/archives/071015glass.asp) — Architectural Record, 2007.1015 
+[**Over 1,000 Houses Damaged in Powerful Earthquake in Indonesia**](http://www.architectureweek.com/cgi-bin/wllk?http://news.xinhuanet.com/english/2008-11/17/content_10372033.htm) — Xinhua, 2008.1117 
 
-[**Gore and U.N. Panel Win Peace Prize for Climate Work**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/2007/10/13/world/13nobel.html?_r=1&ref=us&oref=slogin) — New York Times, 2007.1013 
+[**California Fires Destroy 800 Homes and Continue to Rage**](http://www.architectureweek.com/cgi-bin/wllk?http://www.kold.com/Global/story.asp?S=9361134&nav=menu86_13_19) — KOLD News, 2008.1117 
 
-[**Residents Divided on Design for New Span in Minneapolis**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/2007/10/13/us/13bridge.html) — New York Times, 2007.1013 
+[**LAX Modernization Unveiled**](http://www.architectureweek.com/cgi-bin/wllk?http://www.contracostatimes.com/california/ci_11010607) — Contra Costa Times, 2008.1117 
 
-[**Eden Project Named Best British Building of the Past 20 Years**](http://www.architectureweek.com/cgi-bin/wllk?http://news.independent.co.uk/uk/this_britain/article3052367.ece) — Independent Digital, 2007.1012 
+[**Prasad, Rogers, Bridges and Madelin Make London Mayor’S Design Panel**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bdonline.co.uk/story.asp?sectioncode=725&storycode=3127518&c=1&encCode=000000000187ea62) — BD, 2008.1117 
 
-[**Japanese Architect Kurokawa Dies**](http://www.architectureweek.com/cgi-bin/wllk?http://ap.google.com/article/ALeqM5hywXBEyDHy5M5tiTryzo2B9x_FzwD8S7SJFG1) — Associate Press, 2007.1012 
+[**Hearst Tower Wins International Highrise Award 2008**](http://www.architectureweek.com/cgi-bin/wllk?http://www.international-highrise-award.com/en/index2.html) — International Highrise Award Press Release, 2008.1114 
 
-[**Forest Visitor Centre Wins Building Accolade**](http://www.architectureweek.com/cgi-bin/wllk?http://www.yorkshirepost.co.uk/localnews/Forest-visitor-centre-wins-building.3368736.jp) — Yorkshire Post, 2007.1011 
+[**Stern Snares Scully Prize**](http://www.architectureweek.com/cgi-bin/wllk?http://www.yaledailynews.com/articles/view/26464) — Yale Daily News, 2008.1113 
 
-[**The Shame of British Architecture**](http://www.architectureweek.com/cgi-bin/wllk?http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/visual_arts/architecture_and_design/article2622290.ece) — The Times (London), 2007.1010 
+[**NTSB: Design Errors Caused 2007 Bridge Collapse**](http://www.architectureweek.com/cgi-bin/wllk?http://www.washingtonpost.com/wp-dyn/content/article/2008/11/13/AR2008111300265.html) — Washington Post, 2008.1113 
 
-[**Minneapolis Bridge at Center of Battle**](http://www.architectureweek.com/cgi-bin/wllk?http://ap.google.com/article/ALeqM5g7a6N-dSJUt3-hI_inQsk5RnFlKwD8S5V7AG0) — Associated Press, 2007.1009 
+[**Three Czech Buildings Nominated for European Prize**](http://www.architectureweek.com/cgi-bin/wllk?http://www.praguepost.com/articles/2008/11/12/architecturally-appealing.php) — Prague Post, 2008.1112 
 
-[**Museum of Modern Literature Wins UK Stirling Prize**](http://www.architectureweek.com/cgi-bin/wllk?http://news.bbc.co.uk/1/hi/uk/7032088.stm) — BBC News, 2007.1006 
+[**Velux Awards Student Design**](http://www.architectureweek.com/cgi-bin/wllk?http://www.velux.com/About_Velux/News/News953887.htm) — Velux Press Release, 2008.1112 
 
-[**AIA San Diego Recognizes Projects**](http://www.architectureweek.com/cgi-bin/wllk?http://www.aia.org/aiarchitect/thisweek07/1005/1005d_sd.cfm) — AIArchitect, 2007.1005 
+[**People and Places**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archweek.com/2008/1112/news_2-1.html) — ArchitectureWeek, 2008.1112 
 
-[**'Slow Avalanche' Gobbles Road, Homes in Upscale La Jolla**](http://www.architectureweek.com/cgi-bin/wllk?http://www.cnn.com/2007/US/10/04/lajolla.landslide/index.html) — CNN, 2007.1004 
+[**Climate Change: Stronger, Faster, Sooner**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archweek.com/2008/1112/news_1-1.html) — ArchitectureWeek, 2008.1112 
 
-[**Herbert Muschamp, 59, Architecture Critic, Dies**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/2007/10/03/arts/design/04muschamp.html?hp) — New York Times, 2007.1003 
+[**El-Wakil Wins Classical Architecture Prize**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bdonline.co.uk/story.asp?sectioncode=781&storycode=3127183&c=2) — BD, 2008.1111 
 
-[**RIAS Reveals Short-List for Andrew Doolan Award**](http://www.architectureweek.com/cgi-bin/wllk?http://uk.archiseek.com/scotland/news/2007/000171.html) — Archiseek, 2007.1001 
+[**Gettysburg Cyclorama Building Gets Stay of Execution**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bdonline.co.uk/story.asp?storycode=3127165) — BD, 2008.1110 
 
-[**House Fires in Brooklyn and N.C. Kill 7**](http://www.architectureweek.com/cgi-bin/wllk?http://www.guardian.co.uk/worldlatest/story/0,,-6946399,00.html) — Guardian Unlimited, 2007.0925 
+[**Max Fordham Wins Prince Philip Designers Prize**](http://www.architectureweek.com/cgi-bin/wllk?http://www.designweek.co.uk/Articles/140450/Max+Fordham+wins+Prince+Philip+Designers+Prize.html) — DesignWeek, 2008.1106 
 
-[**Chicago Commission Honors 21 Preservation Landmarks**](http://www.architectureweek.com/cgi-bin/wllk?http://www.aia.org/aiarchitect/thisweek07/0921/0921n_preserve.cfm) — AIArchitect, 2007.0921 
+[**People and Places 2008.1105**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archweek.com/2008/1105/news_1-1.html) — ArchitectureWeek, 2008.1105 
 
-[**Vietnam Architects Shine with Asian Architecture Award**](http://www.architectureweek.com/cgi-bin/wllk?http://www.thanhniennews.com/entertaiments/?catid=6&newsid=32125) — Thanh Nien News, 2007.0920 
+[**Scores Dead in Honduras Flooding**](http://www.architectureweek.com/cgi-bin/wllk?http://www.iol.co.za/index.php?set_id=1&click_id=3&art_id=nw20081103083554757C497242) — IOL, 2008.1103 
 
 Note: Pages will open in a new browser window  
 External sites are not endorsed by ArchitectureWeek.  
@@ -141,4 +141,5 @@ External sites are not endorsed by ArchitectureWeek.
 
 [**News Department Archive**](http://www.architectureweek.com/articles/news_articles.html)
 
-**Special thanks** to [Sustaining Subscriber](http://www.architectureweek.com/cgi-bin/support_archweek.cgi)   **[ BuilderSpace.com](http://www.builderspace.com/) **.
+**Special thanks** to [Sustaining Subscribers](http://www.architectureweek.com/cgi-bin/support_archweek.cgi)  [www.buildingdesign-recruitment.co.uk](http://www.buildingdesign-recruitment.co.uk/),   
+[www.buildingdesign-tenders.co.uk](http://www.buildingdesign-tenders.co.uk/), [www.construction-index.com](http://www.construction-index.com/), [www.beesker.com](http://www.beesker.com/), [Custom Doors](http://www.steinerdoors.com/), and [Von Duprin](http://www.popularhardware.com/). 
