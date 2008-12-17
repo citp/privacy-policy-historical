@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609094257id_/http%3A//www.blacksexfinder.com/public.php%3Fgo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045401id_/http%3A//www.blacksexfinder.com/public.php%3Fgo%3Dprivacy) for the most accurate reproduction.*
 
 # Black Sex - Privacy Policy
 
-| 
-
-[](http://tour1.ghettogaggers.com/track/MTA4MDc5OjE1OjEx/)
-
-[](http://join.bigtitscurvyasses.com/track/NjE5ODo3MToxMw,33/)
-
-|  |  **Information Obtained**
+**Information Obtained**
 
 When you join blacksexfinder.com, you will create a user identity, which will include a username, personal profile, personal narrative and photograph. You will be asked for some personal information to complete your profile such as body type, personal interests, etc. The information you provide is being made available to the public as part of your personal profile and you should recognize as much prior to providing your information. If there is any information that you do not wish to made available to the public at large, you should not post it in your profile. 
 
@@ -43,18 +37,3 @@ blacksexfinder.com reserves the right to change this privacy policy at any time.
 **Contact**
 
 If you have any questions regarding the above Policy Statement, please contact us at info@blacksexfinder.com 
-
-|  | 
-
-[](https://web.archive.org/register.php)
-
-[](https://web.archive.org/rate.php?go=top&p=0&cat=0)
-
-[](http://www.blackpornpass.com/1037076/5//free/index.html) [](http://join.oyeloca.com/track/MTk3NzoyOjk/)
-
-|   
----  
-This website contains adult material, all members and persons appearing on this site have contractually represented to us that they are 18 years of age or older.   
-[18 U.S.C. 2257](http://www.blacksexfinder.com/18U_S_C_2257.php). 
-
-[**WARNING**](http://www.blacksexfinder.com/warning.php). 
