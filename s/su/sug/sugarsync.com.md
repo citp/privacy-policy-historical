@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sugarsync.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527103120id_/http%3A//www.sugarsync.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugarsync.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217095915id_/http%3A//www.sugarsync.com/privacy.html) for the most accurate reproduction.*
 
 # SugarSync - Privacy Policy
 
 This Privacy Policy applies to all of the products, services and websites offered by Sharpcast, Inc. or its subsidiaries or affiliated companies (collectively, Sharpcast’s “services”). This Privacy Policy is designed to assist you in understanding how we collect and use personal information related to our services. We hope that this will help you to make informed decisions when using our services. In this Privacy Policy, references to “we,” “our” and “us” refer to Sharpcast, while “you” and “your” refer to the Sharpcast customer or user.
 
-If you have any questions about this Privacy Policy, please feel free to email us at [support@sharpcast.com](mailto:support@sharpcast.com) or write to us at Privacy Concerns, c/o Sharpcast, Inc., 250 Cambridge Ave., Suite 101, Palo Alto, CA 94306.
+If you have any questions about this Privacy Policy, please feel free to email us at [support@sharpcast.com](mailto:support@sharpcast.com) or write to us at Privacy Concerns, c/o Sharpcast, Inc., 2121 S El Camino Real, 6th Floor, San Mateo, CA 94403.
 
 ##### INFORMATION WE COLLECT
 
