@@ -1,20 +1,18 @@
-<!--The following is the downloaded HTML source of the cfo.com privacy policy that was archived on 2008-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609095023id_/http%3A//www.cfo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cfo.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217041329id_/http%3A//www.cfo.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><link rel="stylesheet" type="text/css" href="/css/header.css">
-<link rel="stylesheet" type="text/css" href="/css/cfo.css" title="cfo"><link rel="stylesheet" type="text/css" href="/css/nav_wide.css"> 
-<link rel="stylesheet" type="text/css" href="/css/nav_narrow.css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><link rel="stylesheet" type="text/css" href="/css/headerwt.css">
+<link rel="stylesheet" type="text/css" href="/css/cfo.css" title="cfo">
       <meta name="description" content="CFO.com: A comprehensive online resource center for senior finance executives. Daily stories include original reporting on new accounting standards, recent capital-raisings, risk management, and professonal career development as well as tools and directories.">
       <meta name="keywords" content="CFO.com, CFO magazine, financial news, corporate finance, accounting, accounting best practices, 401(k), mergers and acquisitions, business finance, balance sheet, financial benchmarking, working capital, CFO, controller, accountant, cpe, cfo jobs, synthetic lease, mezzanine finance, golden parachute, earnings management, revenue recognition, treasury and risk management, generally accepted accounting principles, FASB, IASB, tax efficiency, supply-chain management, performance metrics, outsourcing, investor relations, inventory management, incentive management, forecasts, budgeting and planning, financial statement analysis, finance function, finance department, executive education, discounted cash flow, compensation survey, cfo compensation, cash management, capital expenditure, business intelligence, business ethics, audit standards, asset management, accounting standards, employee stock options, ERP, XBRL, financial sites, return on investment">
     
-	    
-	        
-	        <link href="/rss/cfo_today_in_finance.xml" rel="alternate" type="application/rss+xml" title="Today in Finance">
-	     
-     <title>CFO.com - Privacy Policy
-</title></head>
+      
+          
+          <link href="/rss/cfo_today_in_finance.xml" rel="alternate" type="application/rss+xml" title="Today in Finance">
+       
+     <title>CFO.com - Privacy Policy</title></head>
 
-<body onclick="doClick(event)" onunload="checkClick()">
+<body>
 	<div id="wrap"><script language="JavaScript">
 function popUpContent(URL)
 {
@@ -111,142 +109,7 @@ Rolodex.prototype.collapse = function() {
 		this.contents[i].className += " off-left";
 	}
 }
-</script>
-  <script language="JavaScript">
-    function getCookieVal (offset) {
-      var endstr = document.cookie.indexOf (";", offset);
-      if (endstr == -1)
-      endstr = document.cookie.length;
-      return unescape(document.cookie.substring(offset, endstr));
-    }
-      
-    function getCookie (name) {
-      var arg = name + "=";
-      var alen = arg.length;
-      var clen = document.cookie.length;
-      var i = 0;
-      while (i < clen) {
-      var j = i + alen;
-      if (document.cookie.substring(i, j) == arg)
-      return getCookieVal (j);
-      i = document.cookie.indexOf(" ", i) + 1;
-      if (i == 0) break;
-      }
-      return null;
-    }
-      
-    function SetCookie (name,value,expires,path,domain,secure) {            
-      document.cookie = name + "=" + escape (value) +             
-      ((expires) ? "; expires=" + expires.toGMTString() : "") +             
-      ((path) ? "; path=" + path : "") +             
-      ((domain) ? "; domain=" + domain : "") +             
-      ((secure) ? "; secure" : "");             
-    } 
-    
-    function getArgs() {
-        var args = new Object();
-        var query = location.search.substring(1);  // Get query string.
-        
-        var pairs = query.split("&");              // Break at comma.
-        for(var i = 0; i < pairs.length; i++) {
-    	var pos = pairs[i].indexOf('=');       // Look for "name=value".
-    	if (pos == -1) continue;               // If not found, skip.
-    	var argname = pairs[i].substring(0,pos);  // Extract the name.
-    	var value = pairs[i].substring(pos+1); // Extract the value.
-    	args[argname] = unescape(value);          // Store as a property.
-        }
-        return args;                               // Return the object.
-    }
-    
-    
-    
-      var popUpWidth= '-1';
-      var popUpHeight= '-1';
-      var vPopID = '-1'
-    
-    
-    
-    var URLParameters = window.location.search;
-    var args = getArgs();
-    
-    
-    var vpopCode = ''; 
-    
-     
-   
-    if (getCookie("popcode") != null)
-      {
-       var vpopCode = getCookie("popcode");
-      }
-        
-    if (vpopCode == '' && (URLParameters.indexOf("f=ahha_ad") != -1 ||  URLParameters.indexOf("f=ad_google") != -1 || URLParameters.indexOf("f=ad_kanoodle") != -1)) 
-      {                
-        SetCookie("popcode",args.f,null,"/",".cfo.com",null);
-        vpopCode = args.f;
-      }            
-     
-  
-    var olink = false;
-  	function doClick(e)
-  	{
-     
-  		siteName = 'cfo.com'; //the name of your site
-  		src = e.srcElement;
-  		eRef = src.href;
-  		eTag = e.srcElement.tagName;	   
-      
-      if ( (args.f & (args.f == "ahha_ad" || args.f == "ad_kanoodle" || args.f == "ad_google")) || ( args.popCode & (args.popCode == "ahha_ad" || args.popCode == "ad_kanoodle" || args.popCode == "ad_google"))  || getCookie("popcode") != null)
-      {       
-      
-    		if (src.href) {
-    			if ((eTag == 'A' && eRef.indexOf(siteName) != -1) || eTag=='SELECT'  || eTag == 'IMG')
-    			{
-    			olink = true;
-    			}
-    			else
-    			{
-    			olink = false;
-    			}	
-          
-    		}
-      
-  		}	
-    
-  	return false;
-  	}
-  	function checkClick()
-  	{
-      if ( (args.f & (args.f == "ahha_ad" || args.f == "ad_kanoodle" || args.f == "ad_google")) || ( args.popcode & (args.popcode == "ahha_ad" || args.popcode == "ad_kanoodle" || args.popcode == "ad_google"))  || getCookie("popcode") != null) 
-      {
-        //alert(olink);
-    	  if (olink == true) 
-        {
-          return true;
-        } 
-        else 
-        {  
-          
-          if (popUpWidth != "-1" && getCookie("fromepop") == null) 
-          {           
-            window.open('/popup/index.cfm/' + vPopID + '?pcode=' + vpopCode + '&referer=escape("http://www.cfo.com/privacy/index.cfm")','EXITPOP','directories=no,location=no,menubar=no,personalbar=no,resizable=no,scrollbars=no,status=no,toolbar=no,width=' + popUpWidth + ',height=' + popUpHeight);
-    	    }
-          else
-          {
-            return true;
-          }
-        }
-      }
-      else 
-      {
-        return true;              
-      }  
-    }             
-    
-  </script>            
- 
-
-<div id="top-ad" class="clear">
-  <div>
+</script><div id="top-ad" class="clear"><div>
 
 
 
@@ -259,7 +122,7 @@ document.write('<a href="http://ad.doubleclick.net/jump/cfo2.dart/home;pos=top;c
 document.write('</iframe>');
 document.write('</nolayer>');
 document.write('<ilayer id="ph1" visibility="hide" width=728 height=90 left="0"></ilayer>');
-</script><nolayer><iframe id="ad1" name="ad1" src="http://ad.doubleclick.net/adi/cfo2.dart/home;pos=top;cat=home;kw=;sz=728x90;tile=1;ord=84941541069739400?" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://ad.doubleclick.net/jump/cfo2.dart/home;pos=top;cat=home;kw=;sz=728x90;tile=1;ord=84941541069739400?" target="_top"><IMG SRC="http://ad.doubleclick.net/ad/cfo2.dart/home;pos=top;cat=home;kw=;sz=728x90;tile=1;ord=84941541069739400?" width="728" height="90" border="0"></a></iframe></nolayer><ilayer id="ph1" visibility="hide" width="728" height="90" left="0"></ilayer>
+</script><nolayer><iframe id="ad1" name="ad1" src="http://ad.doubleclick.net/adi/cfo2.dart/home;pos=top;cat=home;kw=;sz=728x90;tile=1;ord=630369776349266800?" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://ad.doubleclick.net/jump/cfo2.dart/home;pos=top;cat=home;kw=;sz=728x90;tile=1;ord=630369776349266800?" target="_top"><IMG SRC="http://ad.doubleclick.net/ad/cfo2.dart/home;pos=top;cat=home;kw=;sz=728x90;tile=1;ord=630369776349266800?" width="728" height="90" border="0"></a></iframe></nolayer><ilayer id="ph1" visibility="hide" width="728" height="90" left="0"></ilayer>
 <noscript>
 <a href="http://ad.doubleclick.net/jump/cfo2.dart/home;pos=top;cat=home;kw=;sz=728x90;tile=1;num=static_number?"><img SRC="http://ad.doubleclick.net/ad/cfo2.dart/home;pos=top;cat=home;kw=;sz=728x90;tile=1;num=static_number?" width="728" height="90" border="0"></a>
 </noscript>
@@ -273,9 +136,10 @@ document.write('<ilayer id="ph1" visibility="hide" width=728 height=90 left="0">
 
 
 </div>
-		</div><div id="header" class="clear"><div class="logo"><a href="/"><img alt="CFO.com" src="/images/cfo_com_logo.gif"></a></div>
+    <a href="http://as400.halldata.com/cgi-bin/subscribe/cf?SS=SHRTFRM&amp;tc=1&amp;pk=NWAD1"><img src="http://www.cfo.com/images/magsubad.gif" id="topsmallad" alt="Free Subscription to CFO Magazine"></a>
+    </div><div id="header" class="clear"><div class="logo"><a href="/"><img alt="CFO.com" src="/images/cfo_com_logo.gif"></a></div>
 <a name="subscription-options"></a>
-<p class="subscriptions"><a href="/video/?f=header"><img src="/images/video_ico.gif" id="vid_icon" alt=""> Video</a> | <a href="/newsletters/?f=header">Newsletters</a> | <a href="/alerts/?f=header">Alerts</a> | <a href="/subscribe/?f=header">Subscribe</a></p>
+<p class="subscriptions"><a href="/video/?f=header"><img src="/images/video_ico.gif" id="vid_icon" alt=""> Video</a> | <a href="/newsletters/?f=header">Newsletters</a> | <a href="/alerts/?f=header">Alerts</a> | <a href="/membercenter/?f=header">Member Center</a> | <a href="/subscribe/?f=header">Subscribe Now</a></p>
 	<script language="javascript">
 		function changeValue() {
 			if (document.SearchForm.qr.value == "Search") {
@@ -298,7 +162,7 @@ document.write('<ilayer id="ph1" visibility="hide" width=728 height=90 left="0">
 			</form>
 			<a name="member-services"></a><p class="services login"><a href="/members/index.cfm/login">Login/Register</a></p></div>
 	</div>
-	<ul id="top-nav-narrow" class="clearfix"><li><a href="http://www.cfo.com/magazine?f=header">Magazines</a></li><li><a href="http://www.cfo.com/europe?f=header">Europe</a></li><li><a href="http://www.cfo.com/archives?f=header">Topics A-Z</a></li><li><a href="http://www.cfo.com/blogs?f=header">Blog</a></li><li><a href="http://www.cfo.com/careers?f=header">Careers</a></li><li><a href="http://www.cfo.com/webcasts?f=header">Webcasts</a></li><li><a href="http://www.cfo.com/whitepapers?f=header">White Papers</a></li><li><a href="http://www.cfo.com/guides?f=header">Special Reports</a></li><li><a href="javascript:viewsite('http://www.cfoconferences.com/cc01a.htm');">Conferences</a></li></ul>
+	<ul id="top-nav-wide" class="clearfix"><li><a href="http://www.cfo.com/magazine/?f=header">Magazines</a></li><li><a href="http://www.cfo.com/europe/?f=header">Europe</a></li><li><a href="http://www.cfo.com/archives/?f=header">Topics A-Z</a></li><li><a href="http://www.cfo.com/blogs/?f=header">Blog</a></li><li><a href="http://www.cfo.com/careers/?f=header">Careers</a></li><li><a href="http://www.cfo.com/webcasts/?f=header">Webcasts</a></li><li><a href="http://www.cfo.com/whitepapers/?f=header">White Papers</a></li><li><a href="http://www.cfo.com/guides/?f=header">Special Reports</a></li><li><a href="http://www.cfo.com/conferences/">Conferences</a></li></ul>
   
     <script type="text/javascript">
     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -311,9 +175,9 @@ document.write('<ilayer id="ph1" visibility="hide" width=728 height=90 left="0">
     </script>
 
   <a name="main-content"></a>
-		<div id="content" class="clear">
-		<div id="crumbs">
-	<h1>About CFO.com</h1><p>You are here: <a href="/?f=bc">Home</a>&nbsp;:&nbsp;<a href="/about/?f=bc">About CFO.com</a>&nbsp;:&nbsp;Privacy Policy</p></div>
+    <div id="content" class="clear">
+    <div id="crumbs">
+  <h1>About CFO.com</h1><p>You are here: <a href="/?f=bc">Home</a>&nbsp;:&nbsp;<a href="/about/?f=bc">About CFO.com</a>&nbsp;:&nbsp;Privacy Policy</p></div>
   <table width="770" border="0" cellspacing="0" cellpadding="0">
     <tbody><tr> 
       <td width="590" valign="top"><img src="/images/x.gif" width="217" height="1" border="0" alt=""></td> 
@@ -384,7 +248,8 @@ CFO also rents a portion of its postal mailing address lists to reputable firms.
       </td>
       <td width="160" valign="top"> 
   <table cellpadding="0" cellspacing="0" border="0">
-  <tbody><tr>
+<tbody><tr><td align="center"><img src="http://www.cfo.com/images/logo_cfomagazine.gif" align="center" alt="CFO Magazine logo"></td></tr>
+  <tr>
     <td><p class="ad">advertisement</p></td>
   </tr>
   <tr>
@@ -401,7 +266,7 @@ document.write('<a href="http://ad.doubleclick.net/jump/cfo2.dart/home;pos=r1;ca
 document.write('</iframe>');
 document.write('</nolayer>');
 document.write('<ilayer id="ph3" visibility="hide" width=160 height=600 left="0"></ilayer>');
-</script><nolayer><iframe id="ad2" name="ad2" src="http://ad.doubleclick.net/adi/cfo2.dart/home;pos=r1;cat=home;kw=;sz=160x600;tile=3;ord=84941541069739400?" width="160" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://ad.doubleclick.net/jump/cfo2.dart/home;pos=r1;cat=home;kw=;sz=160x600;tile=3;ord=84941541069739400?" target="_r1"><IMG SRC="http://ad.doubleclick.net/ad/cfo2.dart/home;pos=r1;cat=home;kw=;sz=160x600;tile=3;ord=84941541069739400?" width="160" height="600" border="0"></a></iframe></nolayer><ilayer id="ph3" visibility="hide" width="160" height="600" left="0"></ilayer>
+</script><nolayer><iframe id="ad2" name="ad2" src="http://ad.doubleclick.net/adi/cfo2.dart/home;pos=r1;cat=home;kw=;sz=160x600;tile=3;ord=630369776349266800?" width="160" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://ad.doubleclick.net/jump/cfo2.dart/home;pos=r1;cat=home;kw=;sz=160x600;tile=3;ord=630369776349266800?" target="_r1"><IMG SRC="http://ad.doubleclick.net/ad/cfo2.dart/home;pos=r1;cat=home;kw=;sz=160x600;tile=3;ord=630369776349266800?" width="160" height="600" border="0"></a></iframe></nolayer><ilayer id="ph3" visibility="hide" width="160" height="600" left="0"></ilayer>
 <noscript>
 <a href="http://ad.doubleclick.net/jump/cfo2.dart/home;pos=r1;cat=home;kw=;sz=160x600;tile=3;num=static_number?"><img SRC="http://ad.doubleclick.net/ad/cfo2.dart/home;pos=r1;cat=home;kw=;sz=160x600;tile=3;num=static_number?" width="160" height="600" border="0"></a>
 </noscript>
@@ -423,12 +288,12 @@ document.write('<ilayer id="ph3" visibility="hide" width=160 height=600 left="0"
   </tbody></table>
   
   <script language="JavaScript">
-		
-		if (typeof(tracking_attrib) == "undefined") {
-			var tracking_attrib = '';
-		}
-  	function getCustomerTrackingAttributes()
-  		{ return '&System=www.cfo.com&Page=Privacy Policy&AdTagId=home&Action=Read' + tracking_attrib; }
+    
+    if (typeof(tracking_attrib) == "undefined") {
+      var tracking_attrib = '';
+    }
+    function getCustomerTrackingAttributes()
+      { return '&System=www.cfo.com&Page=Privacy Policy&AdTagId=home&Action=Read' + tracking_attrib; }
     
     function getSiteId()
       { return '1'; }   
@@ -450,7 +315,7 @@ document.write('<ilayer id="ph3" visibility="hide" width=160 height=600 left="0"
 				var if_protocol=window.location.protocol;
 				var if_tag = "<SCRIPT LANGUAGE='JavaScript' " + "DEFER SRC=http" + "://" + "a248.e.akamai.net/7/836/1132/102403/" + if_Site_ID + ".247realmedia.com/scripts/" + if_Site_ID + "_new_if.js" + "></SCR" + "IPT>";
 				
-	  	  var mep1= getCustomerTrackingAttributes() + "&userType=New&if_nt_UserStatus=anonymous&if_nt_ServerName=WWW3";
+	  	  var mep1= getCustomerTrackingAttributes() + "&userType=New&if_nt_UserStatus=anonymous&if_nt_ServerName=WWW4";
 	      
 	      var if_sid = getSiteId();
 	      
@@ -475,6 +340,5 @@ document.write('<ilayer id="ph3" visibility="hide" width=160 height=600 left="0"
 			<p>© CFO Publishing Corporation 2008. All rights reserved.</p>
 		</div>
 	</div>
-
 
 </div></div></body></html>
