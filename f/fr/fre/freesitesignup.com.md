@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freesitesignup.com privacy policy that was archived on 2008-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080419051251id_/http%3A//www.freesitesignup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesitesignup.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217054048id_/http%3A//www.freesitesignup.com/privacy.php) for the most accurate reproduction.*
 
-# Make Money Online - Internet Money Making - Privacy Policy
+# Free Cash-Pulling Websites Company - Privacy Policy
 
 This website agrees to share with you the details of the privacy policy to ensure your understanding of how your information is protected. When the website guarantees a 100% privacy guaranteed, the details of this privacy guarantee are detailed on this page.
 
@@ -46,7 +46,7 @@ The minimum age for use of this This website is 18 years old. If you are not at 
 
 You can contact the company by mail at: 
 
-Make Money Online - Internet Money Making Websites c/o LLM   
+Free Cash-Pulling Websites Company Websites c/o LLM   
 269 S. Beverly Dr. Suite 500  
 Beverly Hills, California 90210 
 
