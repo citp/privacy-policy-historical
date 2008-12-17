@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rom.on.ca privacy policy that was archived on 2008-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080420095012id_/http%3A//www.rom.on.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rom.on.ca privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217102255id_/http%3A//www.rom.on.ca/privacy.php) for the most accurate reproduction.*
 
 # Royal Ontario Museum | Privacy Policy
 
