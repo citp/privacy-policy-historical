@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the divx.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509121741id_/http%3A//www.divx.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divx.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041032id_/http%3A//www.divx.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
+
+## Privacy Policy
 
 ### Just Between Us
 
@@ -123,13 +125,10 @@ We've been straight with you so far, and we ask that you are straight with us as
   * If you are a Windows user, you may change your email address using the DivX Player by choosing the "User Account" option from the "tools" menu. If you are a Mac user or do not have the DivX player, please send an email to [divx-support@divx.com](mailto:divx-support@divx.com) and we will assist you further.
   
 
-  * You may change various other information by editing your profile at [Edit Profile](http://www.divx.com/account/edit.php)
-  
-
   * To change other personal information, such as social security number, tax ID, address, or stored credit card information, please send an email to [divx-support@divx.com](mailto:divx-support@divx.com) and we will assist you further.
   
 
-  * At your request directed to [divx-support@divx.com](https://web.archive.org/web/20080509121741id_/http%3A//www.divx.com/legal/divx-support@divx.com) and subject to the terms of any other applicable agreements between you and DivX, We will close your account and remove any personally identifiable information from your profile as soon as reasonably possible, based on your account activity, if any, and in accordance with applicable law. In such an event, while your account information will no longer be accessible to you, We will retain all personally identifiable information reasonably necessary to meet our reporting and auditing obligations, collect any fees owed, detect and prevent fraud or other misconduct, and/or enforce our [Terms of Use](http://www.divx.com/legal/terms.php).
+  * At your request directed to [divx-support@divx.com](https://web.archive.org/web/20081217041032id_/http%3A//www.divx.com/legal/divx-support@divx.com) and subject to the terms of any other applicable agreements between you and DivX, We will close your account and remove any personally identifiable information from your profile as soon as reasonably possible, based on your account activity, if any, and in accordance with applicable law. In such an event, while your account information will no longer be accessible to you, We will retain all personally identifiable information reasonably necessary to meet our reporting and auditing obligations, collect any fees owed, detect and prevent fraud or other misconduct, and/or enforce our [Terms of Use](http://www.divx.com/legal/terms.php).
 
 
 
@@ -138,4 +137,4 @@ Thanks for reading. If you have any questions about privacy or how your informat
 Hugs and Kisses,  
 The DivX Team 
 
-Last Updated: February 28, 2008
+Last Updated: December 11, 2008
