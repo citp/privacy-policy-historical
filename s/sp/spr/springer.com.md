@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springer.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626010012id_/http%3A//www.springer.com/generic/privacy%3FSGWID%3D0-40111-0-0-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springer.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217104449id_/http%3A//www.springer.com/generic/privacy%3FSGWID%3D0-40111-0-0-0) for the most accurate reproduction.*
 
 # Journals, Academic Books & Online Media | Springer
 
@@ -6,11 +6,11 @@
 
 Privacy Statement
 
-Welcome to Springer-Verlag New York, LLC and www.springeronline.com, our official website. Our goal via our website is to provide access to a wide selection of books, journals, CD-ROMs and other products for the largest group of people possible. To insure a safe environment for all of our users, we have established our Privacy Statement (Statement). This details what you can expect from us and what we expect from you.   
+Welcome to Springer-Verlag New York, LLC and www.springer.com, our official website. Our goal via our website is to provide access to a wide selection of books, journals, CD-ROMs and other products for the largest group of people possible. To insure a safe environment for all of our users, we have established our Privacy Statement (Statement). This details what you can expect from us and what we expect from you.   
   
 This Statement has been developed as one component of our ongoing commitment to providing our customers top-quality scientific products along with customer service of the highest level. The Statement explains how we collect, store and use information about customers and prospects, and it will be assessed against new technologies, business practices and our customers' changing needs.   
   
-www.springeronline.com is owned and operated by Springer-Verlag New York, LLC. Any references herein to www.springeronline.com shall be deemed to refer to Springer-Verlag New York, LLC and/or www.springeronline.com, as applicable under the circumstances. By accessing any areas of www.springeronline.com, users ("Users") agree to be legally bound and to abide by the terms set forth below. Springer-Verlag New York, LLC reserves the right, in its sole discretion, to revise this Privacy Statement. Users' continued use of this site following posting of any changes constitutes acceptance of such changes.  
+www.springer.com is owned and operated by Springer-Verlag New York, LLC. Any references herein to www.springer.com shall be deemed to refer to Springer-Verlag New York, LLC and/or www.springer.com, as applicable under the circumstances. By accessing any areas of www.springer.com, users ("Users") agree to be legally bound and to abide by the terms set forth below. Springer-Verlag New York, LLC reserves the right, in its sole discretion, to revise this Privacy Statement. Users' continued use of this site following posting of any changes constitutes acceptance of such changes.  
 
 
 Introduction
@@ -35,9 +35,9 @@ Our Statement provides the following:
 
 To provide you with the product(s) or service(s) you have requested, we need to collect and store your name, address, and other basic Personal Data. This information also enables us to develop and customize products to better meet your needs and preferences and to offer you products from Springer-Verlag New York, LLC and its affiliates that may be of interest to you.   
   
-User acknowledges that he or she may provide information regarding his or her tastes, ratings, and preferences. User hereby specifically authorizes www.springeronline.com, Springer-Verlag New York, LLC and their affiliates to use such information in connection with any online or offline offering or any electronic mail offerings directed to User. Further, that www.springeronline.com, Springer-Verlag New York, LLC any such offering or campaign.   
+User acknowledges that he or she may provide information regarding his or her tastes, ratings, and preferences. User hereby specifically authorizes www.springer.com, Springer-Verlag New York, LLC and their affiliates to use such information in connection with any online or offline offering or any electronic mail offerings directed to User. Further, that www.springer.com, Springer-Verlag New York, LLC any such offering or campaign.   
   
-Note. Occasionally, we are approached by companies, vendors, and organizations that have products or services that they believe will be of interest or use to User. It is www.springeronline.com's policy to respect the privacy of its Users and of personal electronic communication. Currently, www.springeronline.com maintains a strict policy on this. We will not share a User's e-mail address or other specific personal information (e.g. name, address) with either these companies or anyone else outside the Springer-Verlag Companies for marketing or any other purpose(s). Should Springer-Verlag ever decide to change this policy, that decision will be posted to www.springeronline.com, subscribers will be notified and an "opt out" clause will be added to the Statement.   
+Note. Occasionally, we are approached by companies, vendors, and organizations that have products or services that they believe will be of interest or use to User. It is www.springer.com's policy to respect the privacy of its Users and of personal electronic communication. Currently, www.springer.com maintains a strict policy on this. We will not share a User's e-mail address or other specific personal information (e.g. name, address) with either these companies or anyone else outside the Springer-Verlag Companies for marketing or any other purpose(s). Should Springer-Verlag ever decide to change this policy, that decision will be posted to www.springer.com, subscribers will be notified and an "opt out" clause will be added to the Statement.   
 
 
 2\. Security. 
@@ -48,13 +48,13 @@ We will maintain appropriate safeguards to ensure the security, integrity and pr
 
 At any time, you may contact us to review and correct the Personal Data we have collected from you. You must make such a request in a manner that can be verified.   
   
-Users' profile information (e.g. type of user (.com, .edu, e.g.), discipline(s) of interest, etc.) may be used to create personalized content, services, and advertising on or related to www.springeronline.com. www.springeronline.com may also use Users' profile information to create aggregate reports. Such profile information is anonymous and does not contain any personally identifiable information.   
+Users' profile information (e.g. type of user (.com, .edu, e.g.), discipline(s) of interest, etc.) may be used to create personalized content, services, and advertising on or related to www.springer.com. www.springer.com may also use Users' profile information to create aggregate reports. Such profile information is anonymous and does not contain any personally identifiable information.   
   
-www.springeronline.com reserves the right to cooperate fully with state, local, and federal officials in any investigation relating to any Content (including personal or private electronic communication transmitted on www.springeronline.com) or purported unlawful activities of any User. 
+www.springer.com reserves the right to cooperate fully with state, local, and federal officials in any investigation relating to any Content (including personal or private electronic communication transmitted on www.springer.com) or purported unlawful activities of any User. 
 
 [Opt-out](http://www.springer.com/generic/privacy/opt+out?SGWID=0-156802-0-0-0)
 
-When you wish to opt-out from the tracking of user activities on springer.com you can do so at the form when following the link [...More!](http://www.springer.com/generic/privacy/opt+out?SGWID=0-156802-0-0-0)
+When you wish to opt-out from the tracking of user activities on springer.com you can do so at the form when following the link [...More](http://www.springer.com/generic/privacy/opt+out?SGWID=0-156802-0-0-0)
 
 |  |  |   
 ---|---|---|---|---
