@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the satisfaction.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609035804id_/http%3A//www.satisfaction.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satisfaction.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217024820id_/http%3A//www.satisfaction.com/pp.php) for the most accurate reproduction.*
 
-# Satisfaction - Free MySpace Comments, MySpace Layouts, MySpace Graphics, Backgrounds, Codes & Auctions
+# Satisfaction - MySpace Layouts, Free MySpace Comments, MySpace Graphics, Backgrounds & Codes
 
 Satisfaction.com strongly believes in the privacy of all information collected through this site and we do not sell, rent or otherwise transfer any personally identifiable information about our users to any third party without the prior consent of the individual user.
 
