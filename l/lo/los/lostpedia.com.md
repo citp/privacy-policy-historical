@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lostpedia.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609045218id_/http%3A//www.lostpedia.com/wiki/Lostpedia%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lostpedia.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217123654id_/http%3A//www.lostpedia.com/wiki/Lostpedia%3APrivacy_policy) for the most accurate reproduction.*
 
 # Lostpedia:Privacy policy - Lostpedia
 
@@ -35,7 +35,7 @@ Lostpedia uses this information to:
   * Keep the website up to date with the latest technologies available. 
   * To ascertain 
     * The most visited content 
-    * The general location of our visitors. This information is not tracked to individual users, and is used to make decisions on the site, such as appointing [SysOps](https://web.archive.org/index.php?title=SysOps&action=edit "SysOps") in the time zones of our most visited countries. 
+    * The general location of our visitors. This information is not tracked to individual users, and is used to make decisions on the site, such as appointing [SysOps](https://web.archive.org/wiki/SysOps "SysOps") in the time zones of our most visited countries. 
     * How many times people revisit the site (Also known as "stickiness") 
     * Which sites are linking to us, and how many visits we get from those links. 
 
