@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonyericssonwtatour.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528201416id_/http%3A//www.sonyericssonwtatour.com/3/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonyericssonwtatour.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217072406id_/http%3A//www.sonyericssonwtatour.com/3/privacypolicy) for the most accurate reproduction.*
 
 # Sony Ericsson WTA Tour
 
