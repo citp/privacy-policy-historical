@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the adsrevenue.net privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610053122id_/http%3A//www.adsrevenue.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsrevenue.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217154353id_/http%3A//www.adsrevenue.net/privacy.php) for the most accurate reproduction.*
 
 # Targeted Internet Advertising
 
   |  |   
 ---  
-| [Home](https://web.archive.org/web/20080610053122id_/http%3A//www.adsrevenue.net/index.php) | [Advertisers](https://web.archive.org/web/20080610053122id_/http%3A//www.adsrevenue.net/advertisers.php) | [Publishers](https://web.archive.org/web/20080610053122id_/http%3A//www.adsrevenue.net/webmasters_affiliate_program.php) | [Resellers](https://web.archive.org/web/20080610053122id_/http%3A//www.adsrevenue.net/traffic_resellers.php) | [Technology](https://web.archive.org/web/20080610053122id_/http%3A//www.adsrevenue.net/advertising_technology.php) | [Company](https://web.archive.org/web/20080610053122id_/http%3A//www.adsrevenue.net/company.php)  
+| [Home](https://web.archive.org/web/20081217154353id_/http%3A//www.adsrevenue.net/index.php) | [Advertisers](https://web.archive.org/web/20081217154353id_/http%3A//www.adsrevenue.net/advertisers.php) | [Publishers](https://web.archive.org/web/20081217154353id_/http%3A//www.adsrevenue.net/webmasters_affiliate_program.php) | [Resellers](https://web.archive.org/web/20081217154353id_/http%3A//www.adsrevenue.net/traffic_resellers.php) | [Technology](https://web.archive.org/web/20081217154353id_/http%3A//www.adsrevenue.net/advertising_technology.php) | [Company](https://web.archive.org/web/20081217154353id_/http%3A//www.adsrevenue.net/company.php)  
 ---|---|---|---|---|---  
 |  | 
 
