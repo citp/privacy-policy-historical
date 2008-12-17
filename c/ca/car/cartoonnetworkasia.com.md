@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cartoonnetworkasia.com privacy policy that was archived on 2008-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080521015808id_/http%3A//www.cartoonnetworkasia.com/jsp/help/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetworkasia.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060115id_/http%3A//www.cartoonnetworkasia.com/parents/privacy.jsp) for the most accurate reproduction.*
 
-# Cartoon Network - Help
-
-PRIVACY POLICY
+# Cartoon Network | SEA
 
 Cartoon Network is fully committed to providing a fun, entertaining and safe web site for people of all ages. Because we want our audience to feel comfortable exploring the content offered on [CartoonNetworkAsia.com](http://www.cartoonnetworkasia.com/), this Online Privacy Policy outlines and clarifies how we collect and use information online, our advertising policies and the safeguards we recommend to ensure a fun and safe web experience. As new technology and online standards evolve, we may modify these policies to better address your concerns. 
 
