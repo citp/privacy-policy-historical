@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prlog.org privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617125740id_/http%3A//www.prlog.org/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prlog.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217015200id_/http%3A//www.prlog.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,7 +33,7 @@ We offer an optional [free press release submission](https://web.archive.org/sub
 
   3. #### Press Release Account
 
-We offer an optional [free press release account](https://web.archive.org/pub/pr-account.html) to users interested in advance features. Any information such gathered is used to customize the user's experience and is not shared with any third parties. We may send a one time confirmation email at the email address provided.
+We offer an optional [free press release account](https://web.archive.org/pub/account.html) to users interested in advance features. Any information such gathered is used to customize the user's experience and is not shared with any third parties. We may send a one time confirmation email at the email address provided.
 
   4. #### "E-mail this to a friend"
 
@@ -86,7 +86,12 @@ We create aggregate reports on user demographics and traffic patterns for advert
 
 We don't share any voluntary or non-voluntary information gathered by us by means other than explained above.
 
-We have third party web service providers to display ads on our website. You can view their privacy policy by [clicking here](http://www.google.com/privacy.html).
+We use third-party advertising companies to serve ads when you visit our website. You can view their privacy policy by [clicking here](http://www.google.com/privacy.html). 
+
+  * Google, as a third party vendor, uses cookies to serve ads on our site.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+
 
 ## Security
 
