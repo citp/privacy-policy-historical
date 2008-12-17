@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the phonedog.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516082155id_/http%3A//www.phonedog.com/content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonedog.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217091257id_/http%3A//www.phonedog.com/content/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | PhoneDog.com
 
-**You're here:**   Privacy Policy
+Privacy Policy
 
 **www.phonedog.com respects your privacy.**   We have created this privacy statement in order to demonstrate our commitment to you, our consumer. This privacy statement discloses the privacy practices for this site, [www.phonedog.com](http://www.phonedog.com/).
 
@@ -42,22 +42,3 @@ If you have any questions about our privacy statement, the practices of this sit
 www.phonedog.com  
 [infodog@phonedog.com](mailto:infodog@phonedog.com)  
 Thank you for your support.
-
-|   
-| 
-
-#### About us
-
-We provide the consumer with the resources to research, compare prices, and shop from a wide array of phoneproducts and services. Please visit the links below for more information.
-
-[About us](https://web.archive.org/content/aboutus.aspx)  |  [Our promise](https://web.archive.org/content/ourpromise.aspx)  |  [Testimonials](https://web.archive.org/content/testimonials.aspx)  |  [In the news](https://web.archive.org/content/inthenews.aspx)
-
-### Got a minute? We'd love to hear from you...
-
-We'd appreciate a minute of your time to help us better understand our precious visitors. [Click here](http://www.surveymonkey.com/s.aspx?sm=aqbC_2bzRoQeKWQDYgXfoshg_3d_3d) to take a short and **completely anonymous** survey.
-
-~ many thanks :)
-
-  
-  
----|---|---
