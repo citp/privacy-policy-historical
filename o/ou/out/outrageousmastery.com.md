@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outrageousmastery.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430175747id_/http%3A//www.outrageousmastery.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outrageousmastery.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044546id_/http%3A//www.outrageouspower.com/privacy-pop.htm) for the most accurate reproduction.*
 
-# Privacy - Outrageous Mastery
+# Privacy - Outrageous Power
 
 We are committed to the protection of the rights of visitors to this site. Any data which is collected from you throughout this site will be used solely for the purpose intended, and will not be given, lent, or sold to any third party.
 
