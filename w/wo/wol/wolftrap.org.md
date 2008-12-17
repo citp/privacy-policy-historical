@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wolftrap.org privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511233616id_/http%3A//www.wolftrap.org/Home/global/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolftrap.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217123608id_/http%3A//www.wolftrap.org/Home/global/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Wolf Trap Foundation for the Performing Arts | Privacy Policy
 
