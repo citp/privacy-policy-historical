@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koodos.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518042604id_/http%3A//www.koodos.com/scat/faqprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koodos.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217030621id_/http%3A//www.koodos.com/scat/faqprivacy) for the most accurate reproduction.*
 
 # koodos.com - Privacy / security
 
@@ -42,23 +42,7 @@ Your payment details are held in an encrypted format until we process your order
 
   * ### Our full privacy statement
 
-Our full privacy statement can be read [here](https://web.archive.org/web/20080518042604id_/http%3A//www.koodos.com/page/privacy).
+Our full privacy statement can be read [here](https://web.archive.org/web/20081217030621id_/http%3A//www.koodos.com/page/privacy).
 
 
 
-
-#### koodos integrity
-
-We're committed to bringing you high quality products from authentic brands.
-
-From our website to your front door, your purchase is backed by our koodos promise.
-
-close
-
-#### The koodos promise
-
-If you're not delighted with your purchase, we'll happily refund your money via our simple returns policy.
-
-#### koodos blog
-
-Check out the [koodos blog](http://www.koodos.com/blog) for wise advice and a little bit of goss.
