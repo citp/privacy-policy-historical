@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashnetsweeps.com privacy policy that was archived on 2008-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080419200419id_/http%3A//www.cashnetsweeps.com/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashnetsweeps.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060931id_/http%3A//www.cashnetsweeps.com/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # CashNet Sweepstakes
 
@@ -25,3 +25,5 @@ If you have any questions about this privacy statement, the practices of this si
 
 Amanda Adams  
 [CashNet Sweepstakes](http://www.cashnetsweeps.com/)
+
+[](http://ab.vcmedia.com/c/s=96049/c=196139/j=0/l=\[slot_id\]/i=1/)
