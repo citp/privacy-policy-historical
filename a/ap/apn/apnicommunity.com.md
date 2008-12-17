@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the apnicommunity.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611103708id_/http%3A//www.apnicommunity.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnicommunity.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217105027id_/http%3A//www.apnicommunity.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Indian Television and Bollywood Forum - Watch Online & Discuss - Privacy Policy
+# Indian Television and Bollywood Forum - Watch Online & Discuss - Apnicommunity.com - Privacy Policy
 
-Join the most happening Desi Social Network and Make friends!  |  |   
----|---|---  
   
   
+| 
 
-
-[](http://www.apnicommunity.com/) **Indian Television and Bollywood Forum - Watch Online & Discuss**
+[](http://www.apnicommunity.com/) **Indian Television and Bollywood Forum - Watch Online & Discuss - Apnicommunity.com**
 
 |   
 ---|---  
@@ -40,9 +38,15 @@ The Federal Trade Commission’s Children Online Privacy Protection Act of 1998 
   
 ---|---|---  
   
-All times are GMT -5. The time now is 05:37 AM.
+All times are GMT -5. The time now is 05:50 AM.
 
-[ ](http://feeds.feedburner.com/apniCommunity) Subscribe to Indian Television & Bollywood Forum | [ ](http://add.my.yahoo.com/rss?url=http://feeds.feedburner.com/apniCommunity)  [ ](http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http://feeds.feedburner.com/apniCommunity)  [ ](http://feeds.my.aol.com/add.jsp?url=http://feeds.feedburner.com/apniCommunity)  [ ](http://www.netvibes.com/subscribe.php?url=http://feeds.feedburner.com/apniCommunity) [ ](http://my.msn.com/addtomymsn.armx?id=rss&ut=http://feeds.feedburner.com/apniCommunity)  [ ](http://fusion.google.com/add?feedurl=http://feeds.feedburner.com/apniCommunity)
+  
+|    
+**Featured Videos**  
 
+
+[](http://videos.apnicommunity.com/Video,Search,Jade+Goody+Big+Boss.html)
+
+  
   
 
