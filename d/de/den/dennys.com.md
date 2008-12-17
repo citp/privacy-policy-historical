@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dennys.com privacy policy that was archived on 2007-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070811202018id_/http%3A//www.dennys.com/en/cms/Privacy%2BPolicy/51.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dennys.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050925id_/http%3A//www.dennys.com/en/cms/Privacy%2BPolicy/51.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Denny's :: Real breakfast 24/7 :: Privacy Policy
 
 **Your Privacy**  
 At Denny's, we are committed to protecting your privacy.  While visiting the Denny’s site you may be asked to provide information that personally identifies you (name, address, billing address, email address, home telephone number, mobile telephone number, credit card number and social security number).  The following are sample areas in the Denny’s site where we request personal information:
