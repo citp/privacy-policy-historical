@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocala4sale.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602032809id_/http%3A//blog.usa4sale.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocala4sale.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217092758id_/http%3A//blog.usa4sale.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : USA4SALE Networks Classified Blog
 
