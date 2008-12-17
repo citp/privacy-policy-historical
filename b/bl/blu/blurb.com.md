@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blurb.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513213333id_/http%3A//www.blurb.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blurb.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217033930id_/http%3A//www.blurb.com/corporate/privacy) for the most accurate reproduction.*
 
 # Policies and Legal - Privacy Policy | Blurb
 
@@ -27,13 +27,14 @@ We collect Personal Information that you submit to us voluntarily through our We
   * When you subscribe to a Blurb newsletter, we will collect your email address.
   * When you contact us to submit comments, questions or feedback using the forms on the Website, we will collect your name, email address and your comment, question or feedback.
   * When you participate in one of our surveys, we may collect additional profile information.
+  * When you use the “Save Contacts” function to save e-mail addresses to which you have sent announcements, we will collect and store such e-mail addresses.
   * When you contact us using the request forms on the Website, we will collect your name, email address and your comment or question that you enter into the form.
   * When you post messages on the message boards of the Website, the information contained in your posting will be stored on our servers and other users will be able to see it.
   * When you contact us by sending us an email, we will collect your email address and any information contained in the email you send us and any information attached to the email.
 
 
 
-Please note that Content that you use for your Books or that you contribute to other Members for their Books might also contain Personal Information. Please be mindful that such Content may be made available to others through your use of the Services as content of your Books or the Books of other Members to which you contributed Content and therefore only use and contribute Content that you are comfortable sharing under these conditions. 
+Please note that Content that you use for your Books or that you contribute to other Members for their Books might also contain Personal Information. Please be mindful that such Content may be made available to others (including through the use of the Book preview functionality) as content of your Books or the Books of other Members to which you contributed Content and that you therefore should only use and contribute Content that you are comfortable sharing under these conditions. 
 
 **Personal Information Collected Via Technology**  
 As you navigate our Website, certain passive information may also be collected, including your Internet protocol address, browser type, domain names, access times, and operating system. We also use Cookies and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the solutions and information for which you searched and which you viewed. This type of information is collected to make our services and solutions more useful to you. 
@@ -57,6 +58,8 @@ If you provide feedback on any of our products and services to us, we may use su
 Except as otherwise stated in this Privacy Policy, we do not trade, rent, or share your Personal Information with third parties and we will not disclose financial information unless you ask us to do so. 
 
 We may share your Personal Information with third parties to provide you with the products and services that we offer you through the Website. These third parties are required not to use your Personal Information other than to provide the products and services requested by Blurb and are bound by confidentiality agreements with regard to their use of such information. You expressly consent to the sharing of your Personal Information with our contractors and third party service providers for the sole purpose of providing products and services to you. 
+
+If you use the Book Preview functionality of the Services, any Personal Information contained in the Book Content of the Book(s) for which you have selected Book Preview will be made publicly available to visitors of the Website, including search engines. 
 
 We may enter into agreements with Partner Companies pursuant to which we provide the Partner Companies with a URL and a customer registration page co-branded with, or private labeled by, the Partner Companies, and the Partner Companies distributes and promotes the URL to its customers. A Partner Company may want access to Personal Information that we collect from their customers. As a result, if you register on the Website through a Partner Company, we may provide your Personal Information to the Partner Company. Because we do not control the privacy practices of our Partner Companies, you should read and understand their privacy policies. 
 
@@ -96,4 +99,4 @@ USA
 **Privacy Policy Updates**  
 This Privacy Statement is a living document. As part of the Blurb Terms and Conditions, this Privacy Policy is subject to occasional amendment, in accordance with the terms of the Terms and Conditions. 
 
-This Policy was last updated in October 2007. 
+This Policy was last updated in August 2008. 
