@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycutegraphics.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611104049id_/http%3A//www.mycutegraphics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycutegraphics.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217104324id_/http%3A//www.mycutegraphics.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,9 +71,5 @@ Unsubscribing: If you wish to unsubscribe from our newsletter you may do so from
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact me:   
 
 
-[By Clicking Here](http://www.mycutegraphics.com/contact/index.php) | 
-
-[](http://www.pyzam.com/?ref=1635)   
-  
-  
+[By Clicking Here](http://www.mycutegraphics.com/contact/index.php) |   
 ---|---|---
