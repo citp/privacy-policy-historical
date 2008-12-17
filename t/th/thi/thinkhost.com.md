@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the thinkhost.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225231917id_/http%3A//www.thinkhost.com/company/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkhost.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217084014id_/http%3A//www.thinkhost.com/company/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy statement - ThinkHost
 
-ThinkHost.com Privacy Statement
-
- 
-
 ThinkHost's policies and procedures for handling customer information have been created in order to demonstrate our firm commitment to maintaining your privacy. This document discloses our information gathering and dissemination practices for the www.thinkhost.com web site.
-
-ThinkHost, Inc. is the sole owner of the information collected on this site. We will not sell, share or rent this information to others in ways different from what is disclosed in this statement. ThinkHost, Inc. will protect the confidentiality of its customers' information, account information and personal communications to the fullest extent possible and consistent with the law. To protect the loss, misuse, and alteration of information that is collected from customers, ThinkHost, Inc. has developed and implemented appropriate physical, electronic, and managerial procedures.
 
 To provide service to our customers, ThinkHost, Inc. acquires and stores customer communications and information that customers may regard as private or sensitive. Information such as the customer's name, address, telephone number and credit card information is provided to ThinkHost, Inc. by its customers in order to establish service. Other information such as the customer's account status, choice of services, and customer logs is created and maintained in the normal course of providing service. ThinkHost, Inc. collects information from our users at several different points:
 
