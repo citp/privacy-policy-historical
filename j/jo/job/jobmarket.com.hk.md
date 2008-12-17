@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the jobmarket.com.hk privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410055833id_/http%3A//www.jobmarket.com.hk/others/privacy_policy_statement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobmarket.com.hk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217033701id_/http%3A//www.jobmarket.com.hk/privacy_statement.jsp) for the most accurate reproduction.*
 
 # JobMarket 求職廣場
 
-|  **** |    
----|---  
+  | 
+
   
-
-
-**** JobMarket Online, www.jobmarket.com.hk, is owned and operated by A Wholly owned subsidiary of Sing Tao News Corporation Limited, Job Market Publishing Limited and its parents, subsidiaries and/or its affiliates (hereafter collectively referred to as "the Company"). Your use of the services ("the Services") available through this Internet site is subject to the terms and conditions set out in this Privacy Policy Statement ("Privacy Policy!"). 
+JobMarket Online, www.jobmarket.com.hk, is owned and operated by A Wholly owned subsidiary of Sing Tao News Corporation Limited, Job Market Publishing Limited and its parents, subsidiaries and/or its affiliates (hereafter collectively referred to as "the Company"). Your use of the services ("the Services") available through this Internet site is subject to the terms and conditions set out in this Privacy Policy Statement ("Privacy Policy!"). 
 
 **About this Privacy Policy Statement**  
 This Privacy Policy will give you information about our practices regarding collection, use, and disclosure of information including personal information that you may provide via this Internet site. Please read this entire Privacy Policy carefully before using or submitting any information including your personal information to this Internet site. 
@@ -43,7 +41,9 @@ Your privacy is highly respected by us and generally speaking, your personal inf
 However, you acknowledge that this Privacy Policy does not apply to the personal data which is transmitted by you to third parties and we are not responsible for the manner in which such data is used by the third parties. 
 
 **Access to and Correction of Personal Information**  
-Under the Personal Data (Privacy) Ordinance of Hong Kong, you are entitled to request access to your personal information collected by us and request the correction or deletion of your personal information from our database upon making a written request by sending email to [enquiry@jobmarket.com.hk](mailto:enquiry@jobmarket.com.hk) or you may edit or amend such personal information at any time in this internet site. 
+Under the Personal Data (Privacy) Ordinance of Hong Kong, you are entitled to request access to your personal information collected by us and request the correction or deletion of your personal information from our database upon making a written request by sending email to 
+
+[enquiry@jobmarket.com.hk](mailto:enquiry@jobmarket.com.hk) or you may edit or amend 
 
 **Security**   
 We take reasonable steps to protect your personal information submitted by you and to protect such information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. We are however not responsible for any loss, misuse, unauthorized access, disclosure, alteration, or destruction of your personal information that have occurred in circumstances beyond our control. You are also reminded to take all steps to safeguard your own username and passwords from being made available to unauthorized parties. 
@@ -55,9 +55,13 @@ This Internet site contains hyperlinks or references to other web sites. Please 
 Your use of this Internet site is subject to the Terms and Conditions posted on this Internet site which are subject to changes from time to time.
 
 **How to Contact Us**  
-If you have any questions, comments or concerns about this Privacy Policy or the information practices of this Internet site, you may contact us by email to [jobmarket@jobmarket.com.hk](mailto:jobmarket@jobmarket.com.hk) or mail to 17/F., Sing Tao News Corporation Building, 3 Tung Wong Road, Shau Kei Wan, Hong Kong. 
+If you have any questions, comments or concerns about this Privacy Policy or the information practices of this Internet site, you may contact us by email to 
+
+[jobmarket@jobmarket.com.hk](mailto:jobmarket@jobmarket.com.hk) or mail to 17/F., Sing Tao News Corporation Building, 3 Tung 
 
 **Changes to This Privacy Policy**   
 This Privacy Policy is subject to changes and revisions from time to time. Please check periodically for updated version before you provide any personal information to this Internet site.
 
 This Privacy Policy was last updated on 07 July, 2006. 
+
+|  
