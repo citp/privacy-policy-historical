@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campusbooks.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605013451id_/http%3A//www.campusbooks.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusbooks.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041235id_/http%3A//www.campusbooks.com/legal/privacy.php) for the most accurate reproduction.*
 
 # CampusBooks Privacy Statement
 
@@ -7,12 +7,6 @@ Our privacy policy is very simple: we do not sell, rent, or otherwise disclose a
 Information Collection and Use
 
 At CampusBooks.com, we are dedicated to protecting you and your privacy. CampusBooks.com is the sole owner of the information collected on this site and we do not sell or rent this information to third parties. CampusBooks.com collects personal information from our users at several different points on our Web site:
-
-Orders
-
-If you buy or sell a book on the CampusBooks Marketplace, we request certain personal information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date).
-
-We use this information for billing purposes, seller payment purposes, and to fill your orders. For Marketplace orders, we provide the Buyer's email address and shipping address to the Seller, and we provide the Seller's email address to the Buyer. If we have trouble processing an order or issuing seller payment, we will use this information to contact you.
 
 Newsletter
 
@@ -32,7 +26,7 @@ Your friend may contact us at [help@campusbooks.com](mailto:help@campusbooks.com
 
 Uses of Information
 
-We use the information you provide to process orders and to contact you regarding any potential problems with buying or selling book on the CampusBooks Marketplace. We never disclose personal information to any third party. We use non-personally identifying information to monitor our site traffic and improve our services.
+We never disclose personal information to any third party. We use non-personally identifying information to monitor our site traffic and improve our services. 
 
 Communications from the Site
 
@@ -54,7 +48,7 @@ Generally, you may not opt-out of these communications, which are not promotiona
 
 Customer Service
 
-Based upon the personal information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes. You may also receive communications from the Buyer or Seller of a Marketplace order.
+Based upon the personal information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
 
 Information Sharing and Disclosure
 
