@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the itch.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617061844id_/http%3A//www.itch.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itch.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217131402id_/http%3A//www.itch.com/privacy.cfm) for the most accurate reproduction.*
 
 # Multiplayer Online Games and Entertainment @ itch.com
 
-    |  **Last Updated: July 6th, 2007**
+|     |  **Last Updated: July 6th, 2007**
 
 ## Personal information and other data we collect:
 
@@ -22,4 +22,5 @@
 
 *** We reserve the right to update our privacy policy at our sole discretion. Any changes will be prompty updated on this page.**
 
-|    
+|      
+---|---|---
