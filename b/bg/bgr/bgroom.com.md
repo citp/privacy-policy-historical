@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bgroom.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517130110id_/http%3A//www.bgroom.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bgroom.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217051531id_/http%3A//www.bgroom.com/privacy_policy.html) for the most accurate reproduction.*
 
-# privacy_policy
+# Welcome to BGRoom - The no.1 Online BackGammon Software
 
 BGroom values and respects the privacy of each and every one of its members, which we safeguard through our Privacy Policy. Please take the time to read the contents of this policy and familiarize yourself with its contents.  
   
