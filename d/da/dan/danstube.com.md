@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danstube.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610090822id_/http%3A//www.danstube.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danstube.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217114037id_/http%3A//www.danstube.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Your Amateur Free Porn Tube Movies and World Sex Video Sharing Community.
 
