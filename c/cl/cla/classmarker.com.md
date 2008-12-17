@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the classmarker.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224211526id_/http%3A//www.classmarker.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classmarker.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217043545id_/http%3A//classmarker.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy - ClassMarker
+# Privacy. Online testing Online testing ClassMarker
 
 **Our commitment to privacy**
 
@@ -24,13 +24,19 @@ We may monitor this website (including using 'cookies') in order to identify use
 
 **Learners** will have access only to their own information and their teachers name. They will also see any notes left by a teacher which is intended to be seen by the whole class.
 
+**Results from online testing** will only be available for the test taker (individual learner) only and their teachers. Learners cannot see each others online test results.
+
 Passwords can not be viewed by teachers or learners at all. Passwords can only be reset via the forgot password page linked to from the home page or via the 'Edit my details' page.
 
 Teachers and Learners alike can easily edit their own information at any time after they have logged in.
 
+**Rebranded tests saved information**
+
+Users taking rebranded tests may be asked to submit personal information like Name, Email address and anything else the ClassMarker account administrator asks for. ClassMarker will not supply this information to any other third party, as stated above, although, this information is available to the account administrator, and therefore ClassMarker is not responsible for this information you provide. Contact the account administrator who gave you access to the test to find out what they will use this information for before giving any information.
+
 **Protection**
 
-Your information is protected by secure servers. Your information is also password-protected so only you will have access to your information.
+Your information is protected by secure servers. Your information is also password-protected so only you will have access to your information unless you choose to share some of your online tests with other users.
 
 New versions will be posted on this web site, so please check back periodically for updates.
 
