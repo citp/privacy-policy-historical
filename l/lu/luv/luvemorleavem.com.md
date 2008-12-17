@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the luvemorleavem.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529062849id_/http%3A//www.luvemorleavem.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luvemorleavem.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217083847id_/http%3A//www.luvemorleavem.com/privacy.cfm) for the most accurate reproduction.*
 
-# Luv 'Em or Leave 'Em | http://www.luvemorleavem.com/
+# Relationship Advice for Women - LuvemOrLeavem.com
 
 **Registration**
 
