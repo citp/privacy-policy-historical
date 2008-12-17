@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hungryhouse.co.uk privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214214207id_/http%3A//hungryhouse.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungryhouse.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217074903id_/http%3A//hungryhouse.co.uk/privacy) for the most accurate reproduction.*
 
 # hungryhouse privacy policy
 
@@ -23,13 +23,13 @@ You can access the Welcome page and browse our site without disclosing your pers
 
 Personal information required during the order process includes name, address, phone number, email address and other similar information used to identify you and complete an order.
 
-Personal information collected at our site will be shared with a restaurant when processing your order. This may include your credit card details to pay for an order. We have a written agreement with all member restaurants, restricting disclosure or further processing of personal information provided to them by us.
+Personal information collected at our site will be shared with a restaurant when processing your order. We have a written agreement with all member restaurants, restricting disclosure or further processing of personal information provided to them by us.
 
 Your personal information will be used to notify you of your order status.
 
 Personal information will not be shared with any of our business partners or affiliates without your permission. It is treated as confidential, and will not be disclosed to outside parties, unless compelled by applicable legislation.
 
-We do not send random marketing emails to personal email addresses (spam).
+We only send marketing emails to those people who have specifically requested to receive this information, and they are sent no more than once per week.
 
  _Introductions_
 
