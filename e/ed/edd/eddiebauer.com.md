@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eddiebauer.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617015154id_/http%3A//www.eddiebauer.com/custserv/custserv.jsp%3FsectionId%3D310%26nonav%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eddiebauer.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050412id_/http%3A//www.eddiebauer.com/custserv/custserv.jsp%3FsectionId%3D310) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -107,7 +107,7 @@ By Postal Mail:
     Redmond, WA 98073-9700
 
 By Phone:
-    Call 24-hours a day at 1-800-426-6253
+    Call 24-hours a day at 1-800-426-8020
 
 By Email:
     [CustomerCare@csc.eddiebauer.com](mailto:CustomerCare@csc.eddiebauer.com)
