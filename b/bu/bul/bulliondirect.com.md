@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulliondirect.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616203724id_/http%3A//www.bulliondirect.com/articles/privacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulliondirect.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217095234id_/http%3A//www.bulliondirect.com/articles/privacyPolicy.do) for the most accurate reproduction.*
 
 # Bullion Direct: Privacy Policy
 
@@ -13,7 +13,7 @@ Because Bullion Direct® wants to demonstrate our commitment to your privacy, we
   * The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Bullion Direct's control
   * How you can correct any inaccuracies in the information
 
-If you feel that we are not abiding by our posted privacy policy, you should first [contact](https://web.archive.org/aboutus/contact.do) Bullion Direct's Compliance Department. If you are unable to resolve your issue directly with our Compliance Department, please contact the Better Business Bureau to enter into a dispute resolution process.
+If you feel that we are not abiding by our posted privacy policy, you should first [contact](https://web.archive.org/aboutus/contact.do) Bullion Direct's Compliance Department. 
 
 As part of the normal operation of our services, we collect information about you. This Privacy Policy describes the information we collect about you and what may happen to that information. Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about Bullion Direct's practices in order to make informed decisions. As described below, some of your personally identifiable information is used by us, and in certain cases, third parties.
 
@@ -61,7 +61,7 @@ If a user elects to use our referral service for informing a friend about our si
 
 This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted (128 bit) and is protected with the best encryption software in the industry--SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just surfing'. To learn more about SSL, select the Verisign logo on this page. While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
 
-**SUPPLERMENTATION OF INFORMATION**
+**SUPPLEMENTATION OF INFORMATION**
 
 In order for this website to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from 3rd party sources. For example, if a customer requests a higher trading allowance, we may use their name and social security number (if applicable) to request a credit report. The report is kept in a secured environment with limited and controlled access. Only authorized employees have access to this information.
 
@@ -83,4 +83,4 @@ Users who no longer wish to receive our newsletter or promotional materials from
 
 **Notification of Changes**
 
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
