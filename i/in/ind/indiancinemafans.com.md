@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiancinemafans.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624121948id_/http%3A//www.indiancinemafans.com/board/upload/rules/18728-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiancinemafans.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050011id_/http%3A//www.indiancinemafans.com/board/upload/rules/18728-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Indiancinemafans - Bringing All The Indian Cinema Fans Together !
 
@@ -14,9 +14,9 @@ Join Date: Mar 2006
 
 Posts: 6 
 
-My Mood:
+Rep Points: 0
 
-Rep Power: 100
+Rep Power: 150
 
 | 
 
