@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the soapcentral.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612024407id_/http%3A//www.soapcentral.com/soapcentral/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soapcentral.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055452id_/http%3A//soapcentral.com/soapcentral/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement | soapcentral.com @ soapcentral.com
 
 Thank you for visiting the **soap** central **.com** site. Your privacy is important to us. In an effort to better protect your privacy, we provide this notice explaining our online information practices of collecting and disseminating information. 
 
 THE INFORMATION WE COLLECT   
-Throughout the **soap** central **.com** site, you can enter contests, expression your opinions on message boards and forums, vote in polls, or subscribe to any or all of our newsletters. In order to access these features we ask that you supply us with personally identifiable information such as name, Email address, and information about your interests in and use of various products, programs and services. 
+Throughout the **soap** central **.com** site, you can enter contests, expression your opinions on message boards and forums, vote in polls, or subscribe to any or all of our newsletters. In order to access these features we ask that you supply us with personally identifiable information such as name, email address, and information about your interests in and use of various products, programs and services. 
 
-At some areas of the **soap** central **.com** site, you can submit information about other people. For example, if you choose to send a Soap Card (an electronic postcard), you might submit the recipient's name and Email address. In this situation, the recipient's Email address is required. 
+At some areas of the **soap** central **.com** site, you can submit information about other people. For example, if you choose to send a Soap Card (an electronic postcard), you might submit the recipient's name and email address. In this situation, the recipient's email address is required. 
 
-The **soap** central **.com** message boards feature an option that allows individual users to determine if they would like to share (display) their Email address with other board visitors. This decision is up to you, the user, who will have the option to post your Email address on and or all messages that you post. By default, the "Do Not Display My Email Address" has been selected for all posters. 
+The **soap** central **.com** message boards feature an option that allows individual users to determine if they would like to share (display) their email address with other board visitors. This decision is up to you, the user, who will have the option to post your email address on and or all messages that you post. By default, the "Do Not Display My email Address" has been selected for all posters. 
 
 We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink). 
 
 HOW WE USE THE INFORMATION WE COLLECT   
 First and foremost, the information we collect is used to enhance all of our visitor's experiences on the **soap** central **.com** web site. 
 
-Another key aspect of collecting information, such as name and Email address, is so that we can respond to the users of our site when they have technical problems or questions about a feature or other aspect of the web site. 
+Another key aspect of collecting information, such as name and email address, is so that we can respond to the users of our site when they have technical problems or questions about a feature or other aspect of the web site. 
 
 We use the information that you provide about others to enable us to send them your gifts or cards. From time to time, we also may use this information to offer our products, programs, or services to them. 
 
