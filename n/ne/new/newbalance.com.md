@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newbalance.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609011312id_/http%3A//www.newbalance.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbalance.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217123450id_/http%3A//www.newbalance.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
