@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800mobiles.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609050835id_/http%3A//www.1800mobiles.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800mobiles.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217182358id_/http%3A//www.1800mobiles.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Security and Privacy Statement for 1800Mobiles.com
 
@@ -13,7 +13,7 @@ Our site's shopping cart requires users to give us personally identifiable infor
 
 1800mobiles.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.1800mobiles.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact our Privacy Office at privacy-policy @1800mobiles.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact 
+If you have questions or concerns regarding this statement, you should first contact our Privacy Office at privacypol @1800mobiles.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact 
 
 [_TRUSTe_](http://www.truste.org/consumers/watchdog_complaint.php) . TRUSTe will then serve as a liaison with the Web site to resolve your concerns. PRIVACY POLICY FOR CELLULAR PHONE ACTIVATIONS WITH SERVICE:
 
@@ -35,7 +35,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can send email us at privacy@1800mobiles.com Children's Guidelines
+If you have any questions about security on our Web site, you can send email us at privacypol @1800mobiles.com Children's Guidelines
 
 1-800-mobiles is not for use by children under the age of 13. Any child wishing to make a purchase from the site must do so through their parent or guardian. 1800mobiles.com does not knowingly collect or store information about children under the age of 13, nor does it market to these individuals. Anyone using the site must be old enough to qualify for a credit card account to make purchases.
 
