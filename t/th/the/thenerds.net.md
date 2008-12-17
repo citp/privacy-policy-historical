@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenerds.net privacy policy that was archived on 2007-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071122175808id_/http%3A//www.thenerds.net/index.php%3Fpage%3Dcustomer%26a%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenerds.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080946id_/http%3A//www.thenerds.net/index.php%3Fpage%3Dcustomer%26a%3Dprivacy) for the most accurate reproduction.*
 
 # TheNerds.net - Your source for Computer Hardware, Consumer Electronics, Office Supplies, GPS Units and much more!
 
