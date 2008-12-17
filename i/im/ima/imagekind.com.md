@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imagekind.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618060237id_/http%3A//www.imagekind.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagekind.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040632id_/http%3A//www.imagekind.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Buying Art Prints Online
 
@@ -56,4 +56,4 @@ Imagekind may use web beacons in promotional emails messages or newsletters in o
 
 ##  How Can You Contact Us For Additional Information?
 
-We welcome your comments regarding this Privacy Policy. If you have questions or believe we have not adhered to this Privacy Policy, please contact us at 1(888)264-1446 or care@Imagekind.com.
+We welcome your comments regarding this Privacy Policy. If you have questions or believe we have not adhered to this Privacy Policy, please contact us at 1(800)351-8986 or care@Imagekind.com.
