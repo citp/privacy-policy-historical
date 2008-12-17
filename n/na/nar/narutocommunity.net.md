@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the narutocommunity.net privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523020516id_/http%3A//www.narutocommunity.net/index.php%3Ffind%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narutocommunity.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217192119id_/http%3A//www.narutocommunity.net/index.php%3Ffind%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Naruto Anime News - Download Direct Naruto Anime Episodes & Manga @ Naruto Community
+# |Naruto Anime News - Download Direct Naruto Anime Episodes & Manga @ Naruto Community
 
 ##  Today's News & Content 
 
