@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightaware.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614225907id_/http%3A//flightaware.com/about/privacy.rvt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightaware.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217043213id_/http%3A//flightaware.com/about/privacy.rvt) for the most accurate reproduction.*
 
 # FlightAware > About FlightAware > Privacy Policy
 
@@ -24,7 +24,7 @@ We store all user information in secure databases protected via a variety of acc
 
 ### What information is made to other FlightAware users?
 
-When contributing to the FlightAware public discussions, it is inherent in the form of communication that your unique user name is revealed to identify yourself. All other information in your profile is optional, but will be displayed if you have entered such information and not specifically asked that it is not displayed. 
+When contributing to the FlightAware public discussions, photo system, or other community feartures, it is inherent in the form of communication that your unique user name is revealed to identify yourself. All other information in your profile is optional, but will be displayed if you have entered such information and not specifically asked that it is not displayed. 
 
 ### Who has access to my information?
 
@@ -44,4 +44,4 @@ For that question, see [the privacy section of our FAQ.](https://web.archive.org
 
 ### Who can I contact if I have any questions regarding my privacy?
 
-Please contact us [contact us via e-mail](mailto:contact-privacy-1213484347@flightaware.com) with any questions or comments. For other contact, please refer to the [contact us](https://web.archive.org/about/contact/) page. 
+Please contact us [contact us via e-mail](mailto:contact-privacy-1229488332@flightaware.com) with any questions or comments. For other contact, please refer to the [contact us](https://web.archive.org/about/contact/) page. 
