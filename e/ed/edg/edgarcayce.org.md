@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the edgarcayce.org privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612120913id_/http%3A//www.edgarcayce.org/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgarcayce.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218203912id_/http%3A//www.edgarcayce.org/policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
-[](https://web.archive.org/web/20080612120913id_/http%3A//www.edgarcayce.org/\(\))Privacy Policy Statement
+[](https://web.archive.org/web/20081218203912id_/http%3A//www.edgarcayce.org/\(\))Privacy Policy Statement
 
 Our address is
 
-Association for Research and Enlightenment, Inc.   
 215 67th Street  
 Virginia Beach, VA 23451
 
-We can be reached via e-mail at [](mailto:are@edgarcayce.org) or you can reach us by telephone at 757-428-3588
+We can be reached via e-mail at [are@edgarcayce.org](mailto:are@edgarcayce.org)  
+or you can reach us by telephone at 757-428-3588
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
