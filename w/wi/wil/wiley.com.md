@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiley.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628042814id_/http%3A//www.wiley.com/WileyCDA/Section/id-301465.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiley.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218185618id_/http%3A//www.wiley.com/WileyCDA/Section/id-301465.html) for the most accurate reproduction.*
 
 # Wiley::Privacy
 
