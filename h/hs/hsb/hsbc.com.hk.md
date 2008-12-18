@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsbc.com.hk privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219141330id_/http%3A//www.hsbc.com.hk/1/2/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbc.com.hk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218073306id_/http%3A//www.hsbc.com.hk/1/2/privacy-security) for the most accurate reproduction.*
 
 # Privacy and Security - HSBC in Hong Kong
 
@@ -39,8 +39,8 @@ All practical steps will be taken to ensure that personal data will not be kept 
 
 **Security Assurance**
 
-  * Both you and HSBC play an important role in protecting against online fraud. You should be careful that your bank account details including your User ID and/or Password are not compromised by ensuring that you do not knowingly or accidentally share, provide or facilitate unauthorised use of it. Do not share your User ID and/or password or allow access or use of it by others. We endeavor to put in place high standards of security to protect your interests. If, in the unlikely event, unauthorised transactions have been conducted through your account through no fraud, fault or negligence on your part, we will see that you are covered for your direct loss up to the full amount of the unauthorised transaction.
-  * You should safeguard your unique User ID and Password by keeping it secret and confidential. Never write them down or share these details with anyone. HSBC will never ask you for your Internet Banking Password, in order to ensure that you are the only person who knows this information. When choosing your unique User ID and Password for the first time, do not create it using easily identifiable information such as your birthday, telephone number or a recognisable part of your name. If you think your User ID and/or password has been disclosed to a third party, is lost or stolen and unauthorised transactions may have been conducted, you are responsible to inform us immediately.
+  * Both you and HSBC play an important role in protecting against online fraud. You should be careful that your bank account details including your Username and/or Password are not compromised by ensuring that you do not knowingly or accidentally share, provide or facilitate unauthorised use of it. Do not share your Username and/or password or allow access or use of it by others. We endeavor to put in place high standards of security to protect your interests. If, in the unlikely event, unauthorised transactions have been conducted through your account through no fraud, fault or negligence on your part, we will see that you are covered for your direct loss up to the full amount of the unauthorised transaction.
+  * You should safeguard your unique Username and Password by keeping it secret and confidential. Never write them down or share these details with anyone. HSBC will never ask you for your Internet Banking Password, in order to ensure that you are the only person who knows this information. When choosing your unique Username and Password for the first time, do not create it using easily identifiable information such as your birthday, telephone number or a recognisable part of your name. If you think your Username and/or password has been disclosed to a third party, is lost or stolen and unauthorised transactions may have been conducted, you are responsible to inform us immediately.
 
 
 
@@ -60,7 +60,7 @@ Occasionally we may collect personal information from visitors to this site and 
 
 You can choose to receive marketing and other promotional materials by email. If you do receive email or promotional direct mailings, you will always have an opportunity to opt-out.
 
-If at any time you would like us to cease sending you direct mailings, please contact our representatives at our Direct Financial Services Centre by calling (852) 2748 3322. We will then, at no cost to you, act on your request within 30 days and ensure that you are not included in future direct marketing promotions.
+If at any time you would like us to cease sending you direct mailings, please contact our representatives by calling (852) 2233 3322 for HSBC Premier customers, (852) 2748 8333 for PowerVantage customers or (852) 2233 3000 for other customers. We will then, at no cost to you, act on your request within 30 days and ensure that you are not included in future direct marketing promotions.
 
 If we do ask you to provide personal information, we will always specify the purpose for which such personal information is collected and ensure that it is only used for the purpose specified at the time of collection.
 
@@ -96,7 +96,7 @@ Information held by the Bank relating to a customer will be kept confidential bu
     3. the drawee bank providing a copy of a paid cheque (which may contain information about the payee) to the drawer;
     4. a person making any payment into the customer's account (by providing a copy of a deposit confirmation slip which may contain the name of the customer);
     5. credit reference agencies, and, in the event of default, to debt collection agencies;
-    6. any person to whom the Bank is under an obligation to make disclosure under the requirements of any law binding on the Bank or any of its branches; and
+    6. any person to whom the Bank is under an obligation to make disclosure under the requirements of any law binding on the Bank or any of its branches or under and for the purposes of any guidelines issued by regulatory or other authorities with which the Bank or any of its branches are expected to comply; and
     7. any actual or proposed assignee of the Bank or participant or sub-participant or transferee of the Bank's rights in respect of the customer.
     8. selected companies for the purpose of informing customers of services which the Bank believes will be of interest to customers.
 
