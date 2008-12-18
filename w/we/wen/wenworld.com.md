@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wenworld.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515192252id_/http%3A//wenatcheeworld.com/article/20070314/SANDR/70314001/1001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wenworld.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218095223id_/http%3A//wenatcheeworld.com/article/20070314/SANDR/70314001/1001) for the most accurate reproduction.*
 
 # The Wenatchee World Online - Online services for Wenatchee, Washington readers
 
@@ -24,13 +24,3 @@ We reserve the right to change this policy at any time. The date of any revision
 
   
 
-
-CLASSIFIED TOP JOBS
-
-Emergency Dept. Manager Clinical Nurse Manager needed for our new Emergency Dept. This person will be an integral part of the design, development, opening and management of our new facility. Must have RN license and a minimum of 1-2 yrs. of progressive nursing leadership experience. Clinical Area Manager Will manage specific outpatient departments, including a Family Practice in our growing multi - specialty medical center. Will function as partners with physicians, and manage all nursing, reception, and technical staff. Will be a part of our overall management team and collaborate with other managers, staff and physicians to implement practice plans and quality improvement efforts. Prefer Bachelor's Degree in Nursing, Business or Healthcare related field and 3-5 yrs. supervisory experience in Ambulatory Clinic setting. Clinical Research Coordinator Clinical Research Coordinator needed to implement and conduct drug research trials in our Oncology Department. The position involves direct patient care, management of all study documents and activities, and development of effective relationships with drug companies and regulatory agencies. Must have demonstrated organizational, administrative and computer skills. CMA, LPN or RN required. Flexible schedule and some travel required. Please visit www.wvmedical.com for more info or to apply. EOE 
-
-TONY’S MARKET is now hiring. Hours include weekends & holidays. Come in to fill out application Mon.-Thurs., 1-4 p.m. only, 1688 Grant Rd., E. Wenatchee. 
-
-Accounts Payable Full time. Word and Excel required. Detail, responsible and dependable a must. Pay DOE. Please mail resumes to: P.O. Box 2155 Wenatchee, WA 98807 
-
-[**MORE CLASSIFIED TOP JOBS**](https://web.archive.org/apps/pbcs.dll/cce?Module=10&Category=Classifieds&class=10020&type=18474)
