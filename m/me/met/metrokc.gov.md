@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the metrokc.gov privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522151547id_/http%3A//www.kingcounty.gov/About/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrokc.gov privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218135351id_/http%3A//www.kingcounty.gov/About/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy and the King County Web site
 
 ### Preface
 
-King County, as a government entity, conducts public business and its records related to the business of King County are generally available for public review. Nevertheless, King County is committed, to the extent allowable by law, to protect and secure your personal information contained in King County records. This privacy commitment must be balanced with the rights of public access under [Chapter 42.17 RCW](http://apps.leg.wa.gov/RCW/default.aspx?cite=42.17), Washington Public Disclosure Act, consistent with [KCC 2.14.030](https://web.archive.org/web/20080522151547id_/http%3A//www.kingcounty.gov/About/~/media/Council/documents/Clerk/Code/05_Title_2.ashx) (549K PDF; scroll down to 2.14.030) and any other applicable federal, state, and local statute or regulation.
+King County, as a government entity, conducts public business and its records related to the business of King County are generally available for public review. Nevertheless, King County is committed, to the extent allowable by law, to protect and secure your personal information contained in King County records. This privacy commitment must be balanced with the rights of public access under [Chapter 42.17 RCW](http://apps.leg.wa.gov/RCW/default.aspx?cite=42.17), Washington Public Disclosure Act, consistent with [KCC 2.14.030](https://web.archive.org/web/20081218135351id_/http%3A//www.kingcounty.gov/About/~/media/Council/documents/Clerk/Code/05_Title_2.ashx) (549K PDF; scroll down to 2.14.030) and any other applicable federal, state, and local statute or regulation.
 
 This privacy notice does not apply to personnel files, job applications, court records, law enforcement investigation, regulatory investigation, assessor records, and recorded documents maintained by the Records, Elections, and Licensing Services division.
 
