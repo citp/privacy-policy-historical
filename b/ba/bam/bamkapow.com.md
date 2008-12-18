@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bamkapow.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629225134id_/http%3A//www.bamkapow.com/page.phtml%3Fp%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bamkapow.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218065314id_/http%3A//www.bamkapow.com/page.phtml%3Fp%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Bam! Kapow!
+# Privacy Policy - Bam! Kapow! Heroes, Villains And Everything In Between.
 
 **Bamkapow.com Privacy Statement**
 
