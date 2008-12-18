@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the scholarshipamerica.org privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413104339id_/http%3A//scholarshipamerica.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipamerica.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218203408id_/http%3A//scholarshipamerica.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Scholarship Programs - College Scholarships from Scholarship America .
 
-## Donate Now!
+##  ScholarBlog
 
-Over 1.5 million students have depended on Scholarship America. We depend on you. [Learn more](https://scholarshipamerica.org/donate.php)
+[Visit the Scholarship America Blog](http://scholarshipamerica.org/sa_blog/index.php) for inspiring stories, useful ideas, and a look at the trends influencing scholarships and financial aid across the country.
 
 .......................
 
   
-Enjoy stories from some of our students and their families as they describe how Scholarship America helped them achieve their goals. [Take a look](https://web.archive.org/web/20080413104339id_/http%3A//scholarshipamerica.org/scholar_stories.php)
+Enjoy stories from some of our students and their families as they describe how Scholarship America helped them achieve their goals. [Take a look](https://web.archive.org/web/20081218203408id_/http%3A//scholarshipamerica.org/scholar_stories.php)
 
 .......................
 
-##   
-Scholarship Blogosphere
-
-Communicate with an inspirational group of students, families, and volunteers as we share stories about the importance of this organization. [Read more](https://web.archive.org/web/20080413104339id_/http%3A//sa_blog/index.php)
+##  Photos from   
+Scholarship America
 
 | 
 
@@ -61,8 +59,8 @@ Scholarship America wants your information and preferences to be accurate and co
 
 > Scholarship America  
 >  Advancement Depatment  
->  7703 Normandale Rd, Suite 110  
->  Minneapolis, MN 55435  
+>  1550 American Boulevard E, Suite 155  
+>  Minneapolis, MN 55425  
 >  Or email: [**development@scholarshipamerica.org**](mailto:development@scholarshipamerica.org)
 
 **How does Scholarship America SECURE my personal information?**  
@@ -86,18 +84,25 @@ Because our Web sites and businesses will continue to implement new technologies
 
 | 
 
-## Upcoming Events
+[](http://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3512)  
+Scholarship America has received the highest rating for sound fiscal management from Charity Navigator for seven straight years. [Learn more ](http://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3512)
 
-Our national and regional offices have plenty of events coming up to celebrate students this spring. [Click here to find out more.](https://web.archive.org/web/20080413104339id_/http%3A//upcoming_events.php)
+................
+
+[](http://www.charitywatch.org/)  
+Scholarship America has received an A+ rating from the American Institute of Philanthropy's Charity Watch.[](http://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3512)
+
+................
+
+## Give Now!
+
+Over 1.5 million students have depended on Scholarship America. We depend on you. [Click to Give Today!](https://scholarshipamerica.org/donate.php)
 
 ................
 
 ##   
 Families of Freedom Scholarship Fund 
 
-has helped hundreds of families affected by 9/11. Find out about this program and other special scholarship initiatives. [Learn more](https://web.archive.org/web/20080413104339id_/http%3A//scholarshipamerica.org/special-initiatives.php)
+has helped hundreds of families affected by 9/11. Find out about this program and other special scholarship initiatives. [Learn more](https://web.archive.org/web/20081218203408id_/http%3A//scholarshipamerica.org/special-initiatives.php)
 
 ................
-
-[](http://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3512)  
-Scholarship America has received the highest rating for sound fiscal management from Charity Navigator for six straight years. [Learn more ](http://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3512)
