@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hamptons.co.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609093606id_/http%3A//www.hamptons.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamptons.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218035147id_/http%3A//hamptons.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Hamptons - Privacy Policy
 
@@ -12,7 +12,7 @@ Hamptons International website uses robust security protocols to ensure that per
 
 You do not need to provide any personal information to use this site.
 
-You can at anytime remove your details from Hamptons International website database through your _[My Hamptons](https://web.archive.org/web/20080609093606id_/http%3A//www.hamptons.co.uk/MyHamptons.aspx)_ account or email [web@hamptons-int.com](mailto:web@hamptons-int.com)
+You can at anytime remove your details from Hamptons International website database through your _[My Hamptons](https://web.archive.org/web/20081218035147id_/http%3A//hamptons.co.uk/MyHamptons.aspx)_ account or email [web@hamptons-int.com](mailto:web@hamptons-int.com)
 
 ##  Cookies
 
@@ -28,4 +28,4 @@ Your details will not be passed to any organisation outside Hamptons Internation
 
 If you have given us permission, we may email you messages to keep you up to date with news about our current services, as well as anything you express an interest in, either online or through other contact with Hamptons International.
 
-If you do not want to be kept informed by email please login into your _[My Hamptons](https://web.archive.org/web/20080609093606id_/http%3A//www.hamptons.co.uk/MyHamptons.aspx)_ account and amend youre account details or email [web@hamptons-int.com](mailto:web@hamptons-int.com).
+If you do not want to be kept informed by email please login into your _[My Hamptons](https://web.archive.org/web/20081218035147id_/http%3A//hamptons.co.uk/MyHamptons.aspx)_ account and amend your account details or email [web@hamptons-int.com](mailto:web@hamptons-int.com).
