@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philau.edu privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626211313id_/http%3A//www.philau.edu/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philau.edu privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219002525id_/http%3A//philau.edu/about/privacy.html) for the most accurate reproduction.*
 
 # Philadelphia University's Mission Statement
 
@@ -26,4 +26,4 @@ In some cases, you will be prompted for authentication to private areas of our n
 
 Questions, comments or concerns about privacy should be addressed via email to [Webmaster@PhilaU.edu](mailto:Webmaster@PhilaU.edu) or through regular mail to: Philadelphia University, Public Relations, School House Lane and Henry Avenue, Philadelphia, PA 19144. 
 
-All questions of a technical nature should be addressed to our Technology Help Desk at [HelpDesk@PhilaU.edu](mailto:HelpDesk@PhilaU.edu) or telephone 215.951.4OIT (4648). 
+All questions of a technical nature should be addressed to our Technology Help Desk at [HelpDesk@PhilaU.edu](mailto:HelpDesk@PhilaU.edu) or telephone 215.951.4648. 
