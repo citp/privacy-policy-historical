@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livejournal.com privacy policy that was archived on 2008-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080407153752id_/http%3A//www.livejournal.com/legal/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livejournal.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218124733id_/http%3A//www.livejournal.com/legal/privacy.bml) for the most accurate reproduction.*
 
 # LiveJournal Privacy Policy
 
@@ -79,9 +79,38 @@ If you request that no further information about your child be collected or used
 
 If there is ever a change to how LiveJournal uses or intends to use personal information, we will post that change to this policy and, if the new policy is materially less restrictive than this policy, we will seek your consent.
 
-## Third Party Advertising
+## Third Party Advertising and Cookies
 
-Advertisements appearing on LiveJournal may be delivered to users by LiveJournal or one of our advertising partners. Our advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, advertising partners (or "ad networks") may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy policy covers the use of cookies by LiveJournal and does not cover the use of cookies by any advertisers.
+Advertisements appearing on LiveJournal may be delivered to users by LiveJournal or one of our advertising partners (or "ad networks"). Ad networks include third party ad servers, ad technology vendors and/or research firms.
+
+Ad networks may set cookies and/or include a file, called a web beacon, within pages served by LiveJournal so the networks may provide auditing, research and reporting for advertisers.
+
+  * Cookies allow the ad server to recognize your computer each time it sends you an online advertisement.
+  * Web beacons are typically an invisible image that may be embedded in a web page or in an advertisement. A web beacon's primary purpose is to count the page's visitors.
+
+
+
+Ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy policy covers the use of cookies by LiveJournal and does not cover the use of cookies by any advertisers.
+
+Please note that no personal identifying information you have provided to LiveJournal is shared with our advertisers as a result of their use of cookies or web beacons.
+
+## Opting Out of Ad Network Cookies
+
+LiveJournal respects our users' wish for privacy, and understands some users may wish to opt-out and/or manage the cookies set on their computers by these ad networks. To understand how these networks allow you to manage cookies set by them, you will need to visit their respective websites. Ad networks generally provide an opt-out on their websites.
+
+Currently, LiveJournal has relationships with the following ad networks and other third parties:
+
+Advertising.com (an AOL Company) - <http://www.advertising.com/>  
+AdBrite - <http://www.adbrite.com/>  
+Blue Lithium (a Yahoo! Company) - <http://www.bluelithium.com/>  
+Casale Media - <http://www.casalemedia.com/>  
+DoubleClick (a Google Company) - <http://www.doubleclick.com/>  
+Google Ad Sense - <https://www.google.com/adsense/>  
+Omniture (includes HitBox) - <http://www.omniture.com/en/>  
+(HitBox specific privacy policy here: <http://www.omniture.com/en/company/acquisitions/visualsciences/privacy/policy/>)  
+Right Media (a Yahoo! Company) - <http://www.rightmedia.com/>
+
+We will be updating this list as the list of ad networks with which we do business changes.
 
 LiveJournal does not share any personally identifiable information with advertisers. LiveJournal may share general demographic information (such as information about members' aggregate interests and occupations) and non-personally identifiable information (such as browser type and IP addresses) with advertisers and partners. If you have a Plus account or are a Basic or Early Adopter account viewing a Plus account's journal or other content, LiveJournal shares your voluntarily-provided public profile information (such as sex, age, location and interests) and your voluntarily-provided advertising preferences information with advertisers. LiveJournal does not give advertisers access to your private personal account information (such as email address, or, if you have elected to make these private or friends-only in your profile, sex and location). However, by selecting, interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
 
@@ -110,4 +139,4 @@ If you have a privacy concern regarding LiveJournal, or this policy, and if you 
 
 If you object to any sharing of your personal information that may be permitted under this policy, you may do so by writing us at the above address. We will take reasonable steps to accommodate your requests as they relate to our advertising practices. In some instances, honoring your requests may interfere with or preclude your ability to use the Service or may require us to terminate our relationship with you.
 
-_Effective Date: April 17, 2006_
+_Effective Date: November 24, 2008_
