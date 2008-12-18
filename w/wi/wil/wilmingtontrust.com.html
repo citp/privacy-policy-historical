@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wilmingtontrust.com privacy policy that was archived on 2008-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080608222624id_/http%3A//www.wilmingtontrust.com/wtcom/index.jsp%3Fsection%3DPrivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wilmingtontrust.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218062124id_/http%3A//www.wilmingtontrust.com/wtcom/index.jsp%3Fsection%3DPrivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <link rel="stylesheet" type="text/css" href="/repositories/wtc_css/layout.css">
@@ -16,12 +16,16 @@
 <!-- Begin Header -->
 
 
+<script language="javascript" src="/wtcom/js/pm_fp.js"></script>
 <script language="javascript" src="/wtcom/js/General.js"></script>
 
  
 
 
-
+	<script type="text/javascript">
+  	var logged_in = "false";
+  </script>
+  
   
   
   <div class="header">
@@ -143,7 +147,7 @@
 
       <table cellspacing="0" cellpadding="2" border="0" align="right" alt="this table is used for layout purposes only">
         <tbody><tr>
-          <form action="?_DARGS=/wtcom/common/layouts/wtredesign/header.jsp.searchForm" name="searchForm" method="post"></form><input value="ISO-8859-1" type="hidden" name="_dyncharset"><input value="4103098117530098541" type="hidden" name="_dynSessConf">                 
+          <form action="?_DARGS=/wtcom/common/layouts/wtredesign/header.jsp.searchForm" name="searchForm" method="post"></form><input value="ISO-8859-1" type="hidden" name="_dyncharset"><input value="4600443783158067393" type="hidden" name="_dynSessConf">                 
             <td><input value="" type="text" onfocus="setEnterKeyEvent();" size="15" name="searchWord"><input value=" " type="hidden" name="_D:searchWord"> </td>
             <td>
             
@@ -212,6 +216,67 @@
     } 
   }
  
+ 	function isBrowserOkForClose() {
+		
+		// MSIE version 6+ is ok
+		 
+		var bName = navigator.appName;
+		var bVer = navigator.appVersion;
+		
+		// alert("Browser: "+bName+", Version: "+bVer);
+		
+		if (bName == "Microsoft Internet Explorer") {
+			var idx = bVer.indexOf("MSIE");
+			if (idx >= 0) {
+				var startIdx = idx+5;
+				var versionStr = bVer.substring(startIdx, startIdx+3);
+				var version = parseFloat(versionStr);
+				// alert("version: "+version);
+				if (version >= 6) {
+					return true;
+				}
+				else {
+					return false;
+				}
+			}
+			else {
+				return false;
+			}
+		}
+		
+		return false;
+	}
+	
+ 	window.onunload = function() {
+ 		// alert("unloading ...: "+window.location.href);
+		// alert("logged in: "+logged_in);
+		
+		// 1 - make sure we're closing the window here 
+		var bClose;
+		if(typeof(bExit) == "undefined") {
+			// alert("bExit is undefined");
+			bClose = false;
+		}
+		else {
+			bClose = bExit;
+		}
+		
+		// alert("browser closing: "+bClose);
+		
+		// 2 - Is this a browser we can handle for closing
+		var okForClose = false;
+		if (bClose) {
+			okForClose = isBrowserOkForClose();
+			// alert("browser ok for close: "+okForClose);
+		}
+		
+		// was this a window close
+		if (logged_in == "true" && bClose && okForClose) {
+   		// alert("Your WT Direct session has ended.");
+			submitlogout();
+ 		}
+ 	}
+ 	
 </script>
 
 <!-- End Header -->
@@ -295,34 +360,44 @@
 
 
 
-  
+
+
     
     
-  
-    
     
       
-      
-      
-      
-			
-        <div class="leftNavOn"><a href="/wtcom/index.jsp?section=Privacy&amp;fileid=1145976694811" class="leftNavOnLink">Security and Privacy Statement</a></div>
-
-      
-      
-      
-      
-			
+        
+        
     
-  
+      
+        
+        
+          
+          
+          
+          
+    			
+            <div class="leftNavOn"><a href="/wtcom/index.jsp?section=Privacy&amp;fileid=1145976694811" class="leftNavOnLink">Security and Privacy Statement</a></div>
 
+          
+          
+          
+          
+    			
+        
+    
+      
+    
+    
+    
+      
+      
+    
+    
+    <div class="leftNavGradient">&nbsp;</div>
 
+    
 
-  
-  
-
-
-<div class="leftNavGradient">&nbsp;</div>
 
 
 
@@ -543,10 +618,12 @@ We recognize that protecting children’s identities and privacy online is impor
 
   
   
-    <form action="https://www.wilmingtontrust.com/wtcom/index.jsp?section=MyHome&amp;_DARGS=/wtcom/common/layouts/wtredesign/components/login.jsp.login" name="login" method="post"><input value="ISO-8859-1" type="hidden" name="_dyncharset"><input value="4103098117530098541" type="hidden" name="_dynSessConf">
+  	<!-- Include the flash object here -->
+    <form action="https://www.wilmingtontrust.com/wtcom/index.jsp?section=MyHome&amp;_DARGS=/wtcom/common/layouts/wtredesign/components/login.jsp.login" name="login" method="post"><input value="ISO-8859-1" type="hidden" name="_dyncharset"><input value="4600443783158067393" type="hidden" name="_dynSessConf">
       <div class="accountLoginHeader">Secure Account Login</div>
       <div class="accountLoginArea">
         
+        <input value="version=1&amp;pm_fpua=mozilla/5.0 (x11; linux x86_64) applewebkit/537.36 (khtml, like gecko) headlesschrome/69.0.3494.0 safari/537.36|5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36|Linux x86_64&amp;pm_fpsc=24|800|600|600&amp;pm_fpsw=&amp;pm_fptz=0&amp;pm_fpln=lang=en-US|syslang=|userlang=&amp;pm_fpjv=0&amp;pm_fpco=1" type="hidden" name="/atg/userprofiling/WtProfileFormHandler.mfaDevicePrint" id="mfaDevicePrint"><input value=" " type="hidden" name="_D:/atg/userprofiling/WtProfileFormHandler.mfaDevicePrint">
   			<table cellspacing="0" cellpadding="0" width="152px">
     			<tbody><tr valign="top">
       			<td class="loginTable"> 
@@ -592,6 +669,62 @@ We recognize that protecting children’s identities and privacy online is impor
         
       </div> <!-- end of accountLoginArea -->
     <input value="/wtcom/common/layouts/wtredesign/components/login.jsp.login" type="hidden" name="_DARGS"></form>
+    
+    <!-- MFA Device Functionality -->
+		<script language="JavaScript" type="text/javascript">
+			document.login.mfaDevicePrint.value = add_deviceprint();
+    </script>
+
+    
+
+
+
+
+
+
+
+
+
+  
+  
+    
+    
+  
+    
+    
+      
+        
+      
+    
+  
+  
+  
+  
+    
+    
+  
+    
+    
+      
+        
+      
+    
+  
+
+
+
+  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="1" height="1">
+    <param name="movie" value="https://www.wilmingtontrust.com/wtcom/jsp/mfa/pmfso.swf">
+    <param name="quality" value="high">
+    <param name="bgcolor" value="#FFFFFF">
+    <param name="FlashVars" value="gotoUrl=&amp;sendUrl=https://www.wilmingtontrust.com/wtcom/DeviceTokenFSOServlet">
+    <embed src="https://www.wilmingtontrust.com/wtcom/jsp/mfa/pmfso.swf" flashvars="gotoUrl=&amp;sendUrl=https://www.wilmingtontrust.com/wtcom/DeviceTokenFSOServlet" quality="high" bgcolor="#FFFFFF" width="1" height="1" type="application/x-shockwave-flash">
+    
+  </object>
+
+  <!-- END OF MFA Device Functionality -->
+				
+
 
   
   
@@ -844,6 +977,8 @@ Articles, publications, and webcasts on a host of topics.<br>
 <meta name="description" content="Footer text used through out the site">
 <title>Welcome to Wilmington Trust!</title>
 
+<link rel="SHORTCUT ICON" href="/repositories/wtc_images/favicon.ico">
+
 <style type="text/css">
 <!--
 .style1 {color: #FFFFFF}
@@ -871,7 +1006,7 @@ Articles, publications, and webcasts on a host of topics.<br>
 </div>
 
 <br>
-<div class="footertext">© 2008 Wilmington Trust Corporation. Affiliates in California, Delaware, Florida, Georgia, Maryland, Massachusetts, Minnesota, Nevada, New Jersey, New York, and Pennsylvania. Members FDIC. Other affiliates in Connecticut, South Carolina, Vermont, London, Dublin, Frankfurt, Luxembourg, Channel Islands, and Cayman Islands.</div><br>
+<div class="footertext">© 2008 Wilmington Trust Corporation. </div><br>
 
 <div class="footertext">
   <table width="98%" border="0">
@@ -907,7 +1042,7 @@ Articles, publications, and webcasts on a host of topics.<br>
       	
       	  
       		<p><font color="#FFFFFF">
-      		<!--Release 2008.01.02 of wtcom.war was built on 5/2/2008 at 01:40 AM<br>wtc-atg-08<br>Sun Jun 08 18:26:24 EDT 2008-->
+      		<!--Release 2008.01.06.1640 of wtcom.war was built on 11/12/2008 at 01:40 PM of wtcom.war was built on 11/12/2008 at 02:01 PM<br>wtc-atg-07<br>Thu Dec 18 01:21:24 EST 2008-->
       		</font></p>      
         
       </div>
@@ -932,7 +1067,10 @@ Articles, publications, and webcasts on a host of topics.<br>
 <meta name="ExpirationDate" content="04/20/2010">
 <meta name="PublishDate" content="04/20/2006">
 <meta name="UpdatedDate" content="08/22/2007">
+<!--
 <meta name="description" content="Google Analytics script used through out the site">
+-->
+
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -941,11 +1079,15 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 <script type="text/javascript">
 var pageTracker = _gat._getTracker("UA-3319476-1");
 pageTracker._initData();
-pageTracker._trackPageview();
+  if(!window.currentActivity || 'null' == currentActivity){
+    pageTracker._trackPageview();
+  } else {
+    pageTracker._trackPageview(currentActivity);
+  }
 </script>
       
     
-
+ 
 
 
 <!-- End Footer -->
