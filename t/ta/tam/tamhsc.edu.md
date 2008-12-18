@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamhsc.edu privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530132231id_/http%3A//www.tamhsc.edu/web/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamhsc.edu privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218100500id_/http%3A//tamhsc.edu/web/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Texas A&M Health Science Center
 
@@ -42,4 +42,4 @@ SERVER LOG INFORMATION: The following information may be collected from server l
 
 ## Security Policy
 
-See the [HSC Policy on the Security of Information Resources](https://web.archive.org/web/20080530132231id_/http%3A//www.tamhsc.edu/facultystaff/rules/249999z1.html) for more information.
+See the [HSC Policy on the Security of Information Resources](https://web.archive.org/web/20081218100500id_/http%3A//tamhsc.edu/facultystaff/rules/249999z1.html) for more information.
