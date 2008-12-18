@@ -1,64 +1,67 @@
-> *The following text is extracted and transformed from the repair-home.com privacy policy that was archived on 2001-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010801214612id_/http%3A//repair-home.com/scratch/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repair-home.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218101746id_/http%3A//www.repair-home.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement for Home Repairs & Etc.
+# Privacy Policy
 
-## Privacy Statement for Home Repairs & Etc.
+**Introduction**
 
-* * *
+We at Repair Home and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. 
 
-Home Repairs & Etc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Home Repairs & Etc. located at http://www.repair-home.com.
+Repair Home has established this Online PRIVACY POLICY so that you can understand the care with which we intend to treat your Personal Information. 
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. We use cookies to save your password so you don't have to re-enter it each time you visit our site.
+Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information. In general, you can visit Repair Home without telling us who you are or revealing any Personal Information about yourself. 
 
-This site contains links to other sites. **Home Repairs & Etc.** is not responsible for the privacy practices or the content of such Web sites.
+If you choose to provide us with your Personal Information on the Web, we may transfer that Information within Repair Home or to Repair Home’s third-party service providers, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. 
 
-Some of our ads are displayed by an outside ad company. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+Repair Home strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, Repair Home intends to adhere to the principles set forth in this Online PRIVACY POLICY even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained. 
 
-## Public Forums
+**Cookies and Other Tracking Technologies**
 
-This site makes forums,  message boards, and/or news groups available to its users. Please remember that posted information is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. Our forums do not disclosed the e-mail addresses of registered users. However, the e-mail addresses are stored on an unsecured server.
+Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. 
 
-## GuestBook
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Web site. 
 
-This site uses provides a guestbook where visitors may leave comments about this site. The information supplied in our guestbook, including the visitor's name and e-mail address, is made public and published immediately to this site.
+Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics. To protect your privacy, we have adopted the following principles: 
 
-## Security (Shopping)
-
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use a secure server in connection with The Home Repair Store. Secured billing information is encrypted before it is transmitted over the internet. Our state of the art encryption systems ensure that billing information cannot be used by any unauthorized parties in the unlikely event that it is intercepted during transmission. Billing information is never stored online or on any internet server.
-
-In special cases we may use an outside agency to bill for any purchases made from our site. Where a billing agent is used, we require the that the agency clearly explain that you will be billed by the named agency and display its privacy policy at the time you checkout. Our billing agent is also required to give you the option of using a secure server when transmitting your personal and billing information. The privacy policy of our billing agent is independent of the privacy policy for this site.
-
-Some products that we sell are drop-shipped directly from an outside vendor. In such cases, we will provide the vendor with information necessary to fulfill your order. We will never, under any circumstances, disclose your credit card or check payment information. 
-
-## Choice/Opt-Out (Newsletter)
-
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. You may, at your option, elect to receive via e-mail our periodic newsletter.
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You may, at your option, elect to discontinue receiving via e-mail our periodic newsletter.
-
-  * You can visit the following URL: <http://www.repair-home.com/home.html>
+  * Notice 
+  * Choice 
+  * Security 
+  * Access/Accuracy 
+  * Notice 
 
 
 
-We do not share your e-mail address with any other internet agencies or organizations. 
+Where Repair Home collects Personal Information on the web, we intend to post a purpose statement that explains why Personal Information will be collected and whether we plan to share such Personal Information outside of Repair Home or those working on Repair Home’s behalf. Repair Home does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Repair Home’s behalf unless such transfer is legally required. Sometimes the purpose statement for our web pages are set forth in privacy policies specifically set forth or linked to from that page. 
 
-## Contacting the Web Site
+**Choice**
 
-For any questions about this privacy statement, the practices of this site, or your dealings with this web site contact :
+You may choose whether or not to provide Personal Information to Repair Home. The notice we intend to provide where Repair Home collects Personal Information on the Web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of Repair Home’s Web sites, but you may be unable to access certain options, offers, and services that involve our interaction with you. 
 
-Frank White, Site Administrator  
-Home Repairs & Etc.  
-719 Davinci St.  
-Durham, North Carolina 27704  
-(919) 317-7600  
-Webmaster@repair-home.com 
+If you chose to have a relationship with Repair Home, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship. 
 
-* * *
+**Security**
 
-**Use of "Home Repairs& Etc. Cookies" **
+Wherever your Personal Information may be held within Repair Home or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure. 
 
-We do not store personal information about you. The Home Repairs & Etc. web sites use what we call "cookies" to store member user names (as opposed to actual names),  passwords and/or the products placed in a shopping cart. We use cookies only in connection with our Discussion Forums and The Home Repair Store. Our use of cookies allow a user to store and retrieve login information or retrieve shopping cart information through a user's browser. 
+**Access/Accuracy**
 
-A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. 
+To the extent that you do provide us with Personal Information, Repair Home wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting Repair Home should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information to privacy@repairhome.com and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable. 
 
-Top of Page
+**Third Party Services**
+
+Third parties may provide certain services available on Repair Home or its affiliate sites on Repair Home’s behalf. Repair Home may provide information, including Personal Information, that Repair Home collects on the Web to third-party service providers and our clients to help us deliver programs, products, information, and services. Repair Home will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on Repair Home’s behalf. 
+
+Repair Home does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Repair Home’s behalf unless such transfer is legally required. Similarly, it is against Repair Home’s policy to sell Personal Information collected online without consent. 
+
+**Children's Privacy**
+
+repair-home.com and its affiliate sites are not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age. 
+
+**Commitment**
+
+Protecting your privacy online is an evolving area, and our Web sites are constantly evolving to meet these demands. 
+
+If you have any comments or questions regarding our Online PRIVACY POLICY, please contact us at privacy@repairhome.com. While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible. 
+
+**Your Consent**
+
+By using this Web site, you consent to the terms of our Online PRIVACY POLICY and to Repair Home’s processing of Personal Information for the purposes given above as well as those explained where Repair Home collects Personal Information on the Web. Should the Online PRIVACY POLICY change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
