@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the crowdstorm.co.uk privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219202922id_/http%3A//www.crowdstorm.co.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdstorm.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218120143id_/http%3A//www.crowdstorm.co.uk/legal/privacy) for the most accurate reproduction.*
 
-# Legal - Crowdstorm UK
+# Expert Product Reviews | Crowdstorm UK
 
 ## Privacy Policy
 
-The following privacy policy sets out the privacy practices of Crowdstorm Limited relating to its web site www.crowdstorm.com which is registered under the Data Protection Act 1998 - further information at www.ico.gov.uk
+The following privacy policy sets out the privacy practices of Crowdstorm Limited relating to its web site www.smoop.com which is registered under the Data Protection Act 1998 - further information at www.ico.gov.uk
 
 We take users' privacy very seriously. This policy sets out what is done with the personal data (information about you) which you send to us.
 
