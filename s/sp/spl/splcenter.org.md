@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splcenter.org privacy policy that was archived on 2008-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080307065940id_/http%3A//www.splcenter.org/center/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splcenter.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218162242id_/http%3A//www.splcenter.org/center/privacy.jsp) for the most accurate reproduction.*
 
 # SPLCenter.org: Privacy Policy
 
