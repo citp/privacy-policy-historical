@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pillsbury.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621073042id_/http%3A//www.pillsbury.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pillsbury.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218041255id_/http%3A//www.pillsbury.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy from Pillsbury.com
 
