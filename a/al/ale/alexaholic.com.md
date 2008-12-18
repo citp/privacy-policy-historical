@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alexaholic.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612132449id_/http%3A//www.alexa.com/site/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexaholic.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218103452id_/http%3A//www.alexa.com/site/help/privacy) for the most accurate reproduction.*
 
 # Alexa Web Search - Privacy Policy
 
