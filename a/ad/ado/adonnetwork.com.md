@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adonnetwork.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611033337id_/http%3A//www.adonnetwork.com/public/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adonnetwork.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218134523id_/http%3A//corporate.adonnetwork.com/public/privacy_policy.jsp) for the most accurate reproduction.*
 
 # AdOn Network - About AdOn Network: Privacy Policy
 
