@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwidelearn.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614211248id_/http%3A//www.worldwidelearn.com/about-worldwidelearn/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwidelearn.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218134037id_/http%3A//www.worldwidelearn.com/about-worldwidelearn/privacy-policy.htm) for the most accurate reproduction.*
 
 # World Wide Learn | Privacy Policy
 
