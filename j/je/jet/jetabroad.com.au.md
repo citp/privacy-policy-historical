@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the jetabroad.com.au privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217174450id_/http%3A//www.jetabroad.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetabroad.com.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218015138id_/http%3A//www.jetabroad.com.au/Privacy) for the most accurate reproduction.*
 
-# Jetabroad: flights to Asia, Europe, North America, South America, Africa and the rest of the world
+# Your privacy with Jetabroad AU
 
 When you disclose your personal information to us, we create a record about you and your purchase(s).
 
 By using our website, you agree that we can collect information necessary to provide you with our products and services, and you agree that this information may be disclosed to third party product providers, such as airlines, hotels, car rental agencies and other third parties authorised by Jetabroad , as required.
 
-Jetabroad may use “cookies”. Where applicable, you agree for us to use cookies on your browser.
+Jetabroad may use "cookies". Where applicable, you agree for us to use cookies on your browser.
 
-If you have “opted-in” to receiving our promotional information, from time to time, we may e-mail you information about products and services which may be of interest to you. If you wish to stop receiving these communications, please email [ customersupport@jetabroad.com](mailto:customersupport@jetabroad.com) from your primary email address stating “UNSUBSCRIBE” in the subject line.
+If you have "opted-in" to receiving our promotional information, from time to time, we may e-mail you information about products and services which may be of interest to you. If you wish to stop receiving these communications, please email [customersupport@jetabroad.com](mailto:customersupport@jetabroad.com) from your primary email address stating "UNSUBSCRIBE" in the subject line.
 
 ##  What information is collected by Jetabroad and how is it used
 
@@ -32,7 +32,7 @@ Links may be present on the Jetabroad site, which may result in you leaving the 
 
 ##  Accessing your information
 
-You may at any time access and change your personal information or subscribed services, either on our website, or by sending an email to [ customersupport@jetabroad.com](mailto:customersupport@jetabroad.com).
+You may at any time access and change your personal information or subscribed services, either on our website, or by sending an email to [customersupport@jetabroad.com](mailto:customersupport@jetabroad.com).
 
 ##  Minors
 
@@ -58,7 +58,7 @@ Jetabroad may amend this Privacy Policy from time to time. If we make any substa
 
 Thank you for taking the time to review the Jetabroad Privacy Policy.
 
-Jetabroad Pty Limited (“Jetabroad”) is a proprietary limited company based in New South Wales, Australia. Our Privacy Policy covers the following websites:
+Jetabroad Pty Limited ("Jetabroad") is a proprietary limited company based in New South Wales, Australia. Our Privacy Policy covers the following websites:
 
 Jetabroad.com  
 Jetabroad.com.au  
