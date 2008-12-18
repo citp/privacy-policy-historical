@@ -1,0 +1,61 @@
+> *The following text is extracted and transformed from the paleycenter.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218124214id_/http%3A//www.paleycenter.org/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | The Paley Center for Media
+
+The Paley Center for Media ("the Paley Center") shares your concern about the protection of your personal information online. This Privacy Policy discloses what information the Paley Center gathers on its website (the "Site"), how the Paley Center uses it, and how to correct or change it. 
+
+**CHILDREN** :  
+The Site is NOT directed to or intended for children under the age of thirteen. Children under thirteen years of age may not register to use the Site. The Paley Center does not knowingly collect any personal information from children under the age of thirteen. To register for full access to the Site and in certain areas of the Site (for example, on sweepstakes and contest entry pages), where personal information is requested, you may be asked for your age or birthdate. You hereby agree that all information you provide to the Paley Center regarding age verification shall be truthful, accurate, and complete. If you are a parent of a child under the age of thirteen and you have questions about our Site or Privacy Policy, please feel free to contact the Paley Center's Privacy Coordinator at Legal@paleycenter.org. 
+
+**INFORMATION THAT THE PALEY CENTER COLLECTS** :  
+The Paley Center gathers personal information about visitors to the Paley Center Site ("Site Visitors") from four different sources: (a) personal information that individual Site Visitors provide when using or registering for full access to the Site or to use one or more of our services, including without limitation our calendar service and any forums; (b) personal and contact information that Site Visitors provide when voluntarily participating in contests, sweepstakes, and other promotions; (c) through merchandise, membership and other service purchase transactions through the Paley Center Site; and (d) information that institutions such as schools and universities provide when registering to use one or more of our services. In addition, user information may be aggregated for tracking data derived by tallying and identifying users' page views throughout our Site, by depositing and tracking cookies, by logging IP addresses, identifying browser type, and through other technologies. Such information enables us to better tailor our content to our Site Visitors' needs and to help advertisers and partners better understand the demographics of our audience. More specifically, the Paley Center may gather user information through the following processes: 
+
+  * General Data Collection  
+The Paley Center collects personal information about you (such as your name, email address, zip code, and interests) when you volunteer such information, for example when you complete a registration form to use one or more of our services ("Registration Information"), or when you complete other forms on the Site, for example to enter a contest or sweepstakes. The Paley Center may also collect information about your transactions with us, our affiliates, or others, and your Site usage patterns, such as the pages on the Paley Center Site you have visited and the amount of time you have spent on our Site. If you contact us, the Paley Center may keep a record of your correspondence. Wherever the Paley Center collects personal information from you online, the Paley Center will make an effort to include a link to this Privacy Policy on that page. The Paley Center may retain personal information you provide us for internal use, such as to provide you with an enhanced or customized experience, or to pre-populate a shipping form in the event that you later purchase something through our Site.
+
+
+
+ _Cookies  
+_ To enhance your experience with our Site, some of our webpages may use "cookies." Cookies are small text files containing information such as your preferences and other information, which the Paley Center uses to make using the Paley Center Site more enjoyable. Cookies may be used to store user information such as your user ID and login where available, and/or other information including the number and nature of pages visited by Site Visitors.
+
+ _The Paley Center Newsletter_  
+Unless you opt out as provided below, any Site Visitor who registers for full access to the Site you will automatically receive a free email subscription to the paleycenter.org Newsletter and various other email updates and bulletins that the Paley Center sends out on a periodic basis containing items that the Paley Center hopes will be of interest to Site Visitors. You may remove yourself from this mailing list by following the Unsubscribe instructions contained in each email that the Paley Center sends.
+
+ _Forums_  
+The Paley Center may provide message boards and other forums on our Site for discussing various topics (collectively, the "Forums"). Although any Site Visitor may read postings in a Forum, only registered Site Visitors can make posts. Please note that information you post to a Forum will be available for any user of that service to read, and is therefore no longer private.
+
+ _Various Periodic Surveys/Polls_  
+The Paley Center may ask Site Visitors to participate in surveys from time to time which are typically aimed at obtaining general or demographic information about Site Visitors. Information obtained in these surveys may be connected with individual Site Visitors and is used to better market our services. Participation is voluntary.
+
+ _Sweepstakes and Contests_  
+The Paley Center offers contests and sweepstakes from time to time which require Site Visitors to provide additional personal information in order to participate so that, for example, the Paley Center can verify entrants' identity and eligibility, and notify potential winners. Participation in such sweepstakes and contests is voluntary. The Official Rules for such contests and sweepstakes may contain additional or different terms regarding the use of personal information provided by entrants. In the event of any conflict between this Privacy Policy and a contest's or sweepstakes' Official Rules, the Official Rules for that promotion will govern.
+
+ _Purchases_  
+If you purchase products or services on our Site, the Paley Center may collect additional information from you, such as your address, phone number, payment information, or shipping information. The Paley Center will not release payment information to third parties except as necessary to complete a transaction between you and such third party, or to otherwise fulfill your order. Credit card transactions are handled by a third-party service provider, which receives the credit card number and other personal information only to verify the credit card number and process transactions.
+
+**HOW THE PALEY CENTER USES AND SHARES INFORMATION** :  
+The Paley Center uses and discloses information obtained from Site Visitors as stated in this Privacy Policy and as permitted by law. The personally identifying information gathered on the Paley Center Site may be shared with certain third parties. For example: Your information may be shared with external third party shippers. These shippers will use such information to fulfill the transaction you may have requested. Additionally, the Paley Center-sponsored or third party sweepstakes, contests or promotions where demographic information is gathered may be shared with third parties for marketing purposes. 
+
+Your information may be shared with the Paley Center's joint venturers, sponsors, partners, and licensees with whom the Paley Center has entered into sharing agreements (collectively, the "the Paley Center Partners") in order to provide you additional products or services. The information the Paley Center collects may be combined with information collected by the Paley Center Partners to enable us to provide better service to you.
+
+The Paley Center also reserves the right to disclose personal information to third parties when the Paley Center believes in good faith that the law requires it, to enforce our Terms of Service, to protect the rights, property, safety, or security of the Paley Center or its partners and affiliates, Site Visitors, or the public, to respond to an emergency, or as otherwise stated in this Privacy Policy. The Paley Center may also disclose information that you have voluntarily provided us, when, for example, entering a contest or making a purchase on our Site. The Paley Center uses tracking data to create aggregate reports on Site Visitor demographics, Site traffic patterns, and consumer behavior. The Paley Center may provide these reports to our advertisers and partners, enabling them to better target their advertisements to Site Visitors. 
+
+**SERVICE PROVIDERS** :  
+The Paley Center works with third parties who provide services which may include website hosting, order processing and fulfillment, credit card clearance, e-commerce affiliation, security, data analysis, emailing, and other services of an administrative nature. Personal information, including financial information, may be shared with such third parties for the purpose of providing such services. The Paley Center seeks to impose confidentiality obligations on such service providers.
+
+**SITE NOTICES** :  
+From time to time, in our sole discretion, the Paley Center may email registered Site Visitors important information regarding their use of the Site or changes to this Privacy Policy or our Terms of Service. You may not opt out of receiving such information.
+
+**LINKING TO OTHER SITES** :  
+Please note that third parties may collect information about you, through cookies or other technologies, when you link to their websites through our Site. You acknowledge that the Paley Center does not monitor or control the information collection or privacy practices of these or any other third parties, and are not responsible for their practices or the content of their websites. The Paley Center encourages you to review the privacy policies of such third parties to understand how they collect and use information.
+
+**SECURITY** :  
+The Paley Center uses reasonable security methods to protect the data that resides on our servers. But because no security system is impenetrable, the Paley Center cannot guarantee the security of our servers. It is also possible that information you supply to us will be intercepted during transmission.
+
+**EXCLUSIONS** :  
+This Privacy Policy does not restrict or prohibit our use or disclosure of public information. The Paley Center reserves the right to transfer any and all information that the Paley Center collects from Site Visitors to third parties in the event that the Paley Center sells or transfers substantially all of our assets related to the Paley Center Site to such third party.
+
+**REVISIONS TO POLICY** :  
+Please note that by using the Paley Center Site, you signify your agreement to this Privacy Policy, as it may be amended from time to time. If you do not agree to this Privacy Policy, please do not use the Site. The Paley Center reserves the right to make changes to this Privacy Policy, which the Paley Center may provide to you by any reasonable means including posting the amended policy on the Paley Center Site or by email. Your continued use of the Site subsequent to changes to this Privacy Policy will mean that you accept and agree to the changes. If you have any questions regarding this Privacy Policy or the Paley Center Site, please email us at Legal@paleycenter.org. Alternatively, you may contact us via postal mail at 25 West 52nd Street; 12th Floor; NY, NY 10019 Attn: Legal and Administration Department. Please note that you will always be able to determine if this Privacy Policy has been updated since your last visit to the Site by observing the "Last Revised" legend at the top of this Privacy Policy. This Privacy Policy, including all revisions and amendments thereto, is governed by the laws of the State of New York, without regard to its principles of conflicts of law.
+
+**Thank you for visiting the Paley Center Site!**
