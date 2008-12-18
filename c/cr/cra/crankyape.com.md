@@ -1,8 +1,58 @@
-> *The following text is extracted and transformed from the crankyape.com privacy policy that was archived on 2008-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080227114428id_/http%3A//www.crankyape.com/default.asp%3Fpg%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crankyape.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218214102id_/http%3A//www.crankyape.com/default.asp%3Fpg%3DPrivacy) for the most accurate reproduction.*
 
-# Crankyape.com Wrecked Atvs, Four Wheelers, Quads, Crashed Atvs, four wheelers, qauds, off road vehicles, dirtbikes, Crashed Powersport Toys.
+# Crankyape.com Wrecked Sleds, snowmobiles, Totaled snowmobiles, Total loss Ski-doo, Totaled Yamaha Nytro, Crashed sleds, Crashed Powersport Toys, Powersport Auctions.
 
-|  | 
+| 
+
+  Search By Unit #  
+  
+---  
+  
+  Categories  
+  
+  * [  ATVs](http://www.crankyape.com/default.asp?pg=DisItems&Cat=1)
+  * [  Cars](http://www.crankyape.com/default.asp?pg=DisItems&Cat=11)
+  * [  Motorcycles](http://www.crankyape.com/default.asp?pg=DisItems&Cat=3)
+  * [  RVs](http://www.crankyape.com/default.asp?pg=DisItems&Cat=6)
+  * [  Snowmobiles](http://www.crankyape.com/default.asp?pg=DisItems&Cat=4)
+  * [  Trailers](http://www.crankyape.com/default.asp?pg=DisItems&Cat=10)
+  * [  Trucks](http://www.crankyape.com/default.asp?pg=DisItems&Cat=12)
+  * [  Vans](http://www.crankyape.com/default.asp?pg=DisItems&Cat=13)
+  * [  Watercraft](http://www.crankyape.com/default.asp?pg=DisItems&Cat=5)
+  * [  Miscellaneous](http://www.crankyape.com/default.asp?pg=DisItems&Cat=7)
+  * [  All items](http://www.crankyape.com/default.asp?pg=todaysInventory)
+
+  
+  
+  FAQ's  
+  
+  * [  FAQ's](http://www.crankyape.com/default.asp?pg=Help)
+
+  
+  
+  Resources  
+  
+  * [  Financing](http://www.crankyape.com/default.asp?pg=Financing)
+  * [  Shipping](http://www.crankyape.com/default.asp?pg=Shipping)
+  * [  Parts &   Accessories](http://www.crankyape.com/default.asp?pg=Parts-and-Accessories)
+  * [  Links](http://www.crankyape.com/default.asp?pg=Links)
+
+  
+  
+  Company  
+  
+  * [  About us](http://www.crankyape.com/default.asp?pg=Company)
+  * [  Hours &  
+  Directions](http://www.crankyape.com/default.asp?pg=hours-information)
+  * [  Tour our facility](http://www.crankyape.com/default.asp?pg=Tour)
+  * [  Work for us](http://www.crankyape.com/default.asp?pg=Careers)
+  * [  News](http://www.crankyape.com/default.asp?pg=News)
+
+
+
+[](http://www.rpmswap.com/)  
+  
+| 
 
  Your Privacy
 
