@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elks.org privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210123610id_/http%3A//www.elks.org/members/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elks.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218072228id_/http%3A//www.elks.org/members/privacy.cfm) for the most accurate reproduction.*
 
 # The Benevolent & Protective Order of Elks of the USA
 
