@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the wired2fish.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518005651id_/http%3A//www.wired2fish.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wired2fish.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218084823id_/http%3A//www.wired2fish.com/Page136/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Wired 2 Fish - Privacy Policy
 
+  
 The following policy outlines the types of information that Wired2Fish gathers from users and the way that the information is used. Wired2Fish will not sell any list or information to any third party and any information provided to us for membership etc is help in strictest confidence and will not be disclosed without permission from disclosing party. 
 
 The information that Wired2Fish gets falls into 3 distinctive categories: 
@@ -16,6 +17,5 @@ Wired2Fish.com uses the aforementioned information to enhance feature richness a
 
 Therefore, Wired2Fish reserves the right to use and to disclose to third parties all of the information that is collected about users and other visitors in any way and for any purpose. There is one exception to that policy. Wired2Fish will not allow any third party to use that information for direct mail or marketing without user consent. If user chooses to receive these promotional offers, then the user's information may be used for direct mail or e-mail marketing. 
 
+  
 All of the information on this site is copyright by Get Outside Media LLC and Wired2Fish.com. Any unauthorized use or storage of Wired2Fish.com, Wired2Fish Radio or Wired2Fish Video or regular or third-party content is strictly prohibited. 
-
-Copyright © 2008. All Rights Reserved 
