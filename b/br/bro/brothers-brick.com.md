@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brothers-brick.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517064641id_/http%3A//www.brothers-brick.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brothers-brick.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218025022id_/http%3A//www.brothers-brick.com/privacy) for the most accurate reproduction.*
 
-# LEGO Blog: The Brothers Brick » Privacy Policy
+# Privacy Policy | The Brothers Brick | LEGO Blog
 
 The Brothers Brick ([Brothers-Brick.com](http://www.brothers-brick.com/)) is a non-commercial fan Web site about [LEGO® brand building bricks](http://www.lego.com/). Brothers-Brick.com isn’t affiliated with or endorsed by The LEGO Group.
 
