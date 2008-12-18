@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the garden.org privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530021914id_/http%3A//www.garden.org/redirect.php%3Fq%3Dhttp%3A//assoc.garden.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garden.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218185051id_/http%3A//garden.org/redirect.php%3Fq%3Dhttp%3A//assoc.garden.org/privacy) for the most accurate reproduction.*
 
 # National Gardening Association :: About NGA
 
-About NGA
-
-[](http://grow.garden.org/index.php?page=video)
+[](http://www.nationalgardenmonth.org/?page=video)
 
 [](https://web.archive.org/login/)
 
-[ ](http://www.garden.org/subscriptions/)
+[](http://www.garden.org/subscriptions/)
 
-[](https://web.archive.org/login/?q=support)
+[](https://secure.garden.org/donation/)
 
 | 
 
