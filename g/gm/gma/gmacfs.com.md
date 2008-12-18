@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmacfs.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620170041id_/http%3A//www.gmacfs.com/us/en/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmacfs.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218052945id_/http%3A//www.gmacfs.com/us/en/privacy_policy.html) for the most accurate reproduction.*
 
 # GMAC Financial Services > Online Privacy Policy for GMAC Automotive Financing
 
