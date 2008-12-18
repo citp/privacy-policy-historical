@@ -1,209 +1,240 @@
-<!--The following is the downloaded HTML source of the funeducation.com privacy policy that was archived on 2007-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214035724id_/http%3A//www.funeducation.com/company/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the funeducation.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218064528id_/http%3A//www.funeducation.com/Company/Privacy) for the most accurate reproduction.-->
 
-<html><head>
-<meta http-equiv="Content-Language" content="en-us">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
+	FunEducation, Inc. Privacy Statement
+</title><link href="../../App_Themes/FunedTheme/TestEngine.css" type="text/css" rel="stylesheet"><script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
 
-<title>FunEducation, Inc. Privacy Statement</title>
-<style fprolloverstyle="">A:hover {color: #FF0000}
-</style>
-</head>
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
 
-<body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0000FF" alink="#FF0000">
-<table border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse" bordercolor="#111111" height="41" class="header_top">
-  <tbody><tr>
-    <td width="100%" bgcolor="#FFFFFF" height="1" colspan="3">
-    <font size="1">&nbsp;</font></td>
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+   }
+   
+//-->
+</script><script language="javascript">
+        function validateSearchBox(aEvent)
+        {
+          try
+          {
+            var keyEvent = aEvent ? aEvent : window.event; 
+            if (keyEvent.keyCode == 13) {
+                validateSearchCriteriaBox();
+            }
+          }
+          catch(c){}
+        }
+        function validateSearchCriteriaBox( ){
+            isitvalid = true;    
+            // Check if user entered anything to search
+            // Remove extra spaces
+            // Max 3 words Logic
+            // No word less than 2 chars
+       
+            var keywordvalue = document.getElementById('txtSearchCriteriaHeader').value;
+            len = keywordvalue.length;
+       
+            prevchar = " ";
+            curchar  = "";
+            newstring = "";
+
+            /* Start of removing extra spaces */
+            for ( i=0;i<len;i++){
+                curchar = keywordvalue.charAt(i);
+                if ( curchar == " " && prevchar == curchar ){
+                } else {
+                    newstring = newstring + curchar;
+                }
+
+                prevchar = curchar;
+            }
+            len = newstring.length; 
+            /* Remove remaining spaces at end */
+            if ( len != 0 && newstring.charAt(len-1)==" " ){
+                newstring = newstring.substring( 0, len-1);	 
+            } 
+            /* End of removing extra spaces */
+		
+            document.getElementById('txtSearchCriteriaHeader').value=newstring;
+            
+            len = newstring.length;
+  
+            tokens = newstring.split( " "  );
+            numtokens = tokens.length;
+            if ( len == 0 ){                                  /* Is the length 0 */
+                document.getElementById('txtSearchCriteriaHeader').value=newstring;
+                document.getElementById('txtSearchCriteriaHeader').focus();
+                isitvalid = false;
+            } else if ( newstring=="Search Tests") {
+                document.getElementById('txtSearchCriteriaHeader').value=newstring;
+                document.getElementById('txtSearchCriteriaHeader').focus();
+                isitvalid = false;
+            }else if ( numtokens > 3 ) {                     /* Too many tokens ? */
+                alert("Please limit your entry to a maximum of 3 Keywords");
+                isitvalid = false;
+            } else {
+                if ( isitvalid ) {    
+                    /* Check for length of tokens */
+                    for ( i=0;i<numtokens;i++){
+                        if ( tokens[i].length < 2){  // Length of each word should be greater than 1.
+                            alert( "Keyword " + (i+1) +" too short. Enter atleast 2 characters.");
+                            isitvalid = false;
+                            break;
+                        }
+                    }
+                } 
+            }
+            
+            document.getElementById('txtSearchCriteriaHeader').focus();
+            if (isitvalid){
+             location.href = "http://www.funeducation.com/Search?q="+document.getElementById('txtSearchCriteriaHeader').value;
+            }
+    }
+    </script></head>
+
+
+    
+<body bgcolor="#707070" leftmargin="0" topmargin="0" onload="MM_preloadImages('http://www.funeducation.com/images/gobut_search2.gif','http://www.funeducation.com/images/funtestbut2.gif','http://www.funeducation.com/images/sharefriendsbut2.gif','http://www.funeducation.com/images/myresultsbut2.gif','http://www.funeducation.com/images/help2.gif','http://www.funeducation.com/images/signin2.gif','http://www.funeducation.com/images/homebut2.gif','http://www.funeducation.com/images/gobuttype2_b.gif')">
+<table width="100%" border="0" style="left:0px;top:0px" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td width="20%" height="5px"></td>
+<td width="749px" height="5px"></td>
+<td height="5px">&nbsp;</td>
+<td height="5px" width="160px"></td>
+<td height="5px"></td>
+</tr>
+<tr>
+<td width="12%">&nbsp;</td>
+<td width="749px" align="center" valign="top">
+<table width="749px" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr> 
+    <td width="10" valign="top" bgcolor="#FFFFFF"><img src="http://www.funeducation.com/images/in_lefttop.gif" width="10" border="0" height="56"></td>
+    <td width="249" align="center" bgcolor="#FFFFFF"><a href="/"><img border="0" src="http://www.funeducation.com/images/inpage_logo.gif" alt="logo" width="196" height="32"></a></td>
+    <td width="500" height="56" align="right" valign="top" bgcolor="#FFFFFF" background="http://www.funeducation.com/images/in_header_1.jpg">
+        <div align="right">
+            <table width="280" border="0" cellpadding="0" cellspacing="0" class="bodytext">
+            <tbody><tr>
+                <td width="130" class="darkgreyboldtext" align="right">&nbsp;</td>
+                <td width="150" align="right"><a class="sublink" href="http://www.funeducation.com/Account/Signin">Sign In</a>&nbsp;/&nbsp;<a class="sublink" href="http://www.funeducation.com/Account/Register/Default.aspx">Register</a></td>
+            </tr>
+            </tbody></table>
+        </div>
+     </td>
+    <td width="6" align="left" valign="top"><img src="http://www.funeducation.com/images/inrighttop.gif" width="6" height="56"></td>
   </tr>
-  <tr>
-    <td width="34%" bgcolor="#FFFFFF" height="1">
-    <p align="center">&nbsp;<a href="http://www.funeducation.com/"><img border="0" src="http://www.funeducation.com/webgraphics/design/logo_funed.gif"></a></p></td>
-    <td width="39%" bgcolor="#FFFFFF" height="1">
-      <p align="center">
-      
-      <font face="Verdana" size="1"><b>Welcome to 
-      FunEducation!<br>
-      </b>
-      
-      <a href="http://www.funeducation.com/account/createaccount.asp">Register</a> | </font>
-      <a href="http://www.funeducation.com/account/signin.asp">
-      <font face="Verdana" size="1">Sign In</font></a><br>
-      
-      </p></td>
-    <td width="27%" bgcolor="#FFFFFF" height="1">
-      <p align="center"><font face="MS Sans Serif" size="2">
-      <a href="https://www.funeducation.com/store/cart.asp">
-    <img border="0" src="http://www.funeducation.com/webgraphics/design/cart_button.gif" width="142" height="27"></a></font> 
-    </p></td>
-  </tr>
-</tbody></table>
-<table border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse" bordercolor="#111111" height="1" class="header_banner">
-  <tbody><tr>
-    <td width="102%" bgcolor="#000080" height="1">
-      <p align="right">
-      <img border="0" src="http://www.funeducation.com/webgraphics/design/cover_right.gif" width="145" height="55"></p>
-    </td>
-  </tr>
-</tbody></table>
-<table border="0" width="100%" height="1" cellspacing="0" cellpadding="0">
- <tbody><tr>
-    <td width="1%" valign="top" height="1" class="header_nav">
-    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%">
+  <tr> 
+    <td colspan="3" valign="top" background="http://www.funeducation.com/images/menubkd_in.gif">
+    <table width="757" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td width="100%">
-        <i><font face="Verdana" size="1">&nbsp;</font></i><font face="Verdana" size="1"><br>
-        &nbsp; </font>
-    <font face="MS Sans Serif" size="2" color="#808080">&gt;</font><font face="Verdana" size="1">
-        <b><a href="http://www.funeducation.com/company/">About Us</a></b><br>
-        &nbsp; </font>
-    <font face="MS Sans Serif" size="2" color="#808080">&gt;</font><font face="Verdana" size="1">
-        <b><a href="http://www.funeducation.com/company/management.asp">Management Team</a></b><br>
-        &nbsp; </font>
-    <font face="MS Sans Serif" size="2" color="#808080">&gt;</font><font face="Verdana" size="1">
-        <b><a href="http://www.funeducation.com/company/investors/">Investors</a></b><br>
-        &nbsp; </font>
-    <font face="MS Sans Serif" size="2" color="#808080">&gt;</font><font face="Verdana" size="1">
-        <b><a href="http://www.funeducation.com/company/press/">Press Releases</a></b><br>
-        &nbsp; </font>
-    <font face="MS Sans Serif" size="2" color="#808080">&gt;</font><font face="Verdana" size="1">
-        <b><a href="http://affiliates.funeducation.com/">Affiliate Program</a></b><br>
-        &nbsp; </font>
-    <font face="MS Sans Serif" size="2" color="#808080">&gt;</font><font face="Verdana" size="1">
-        <b><a href="http://www.funeducation.com/company/jobs/">Jobs</a></b><br>
-        &nbsp; </font>
-    <font face="MS Sans Serif" size="2" color="#808080">&gt;</font><font face="Verdana" size="1">
-        <b><a href="http://www.funeducation.com/support/">Technical Support</a></b><br>
-        &nbsp; </font>
-    <font face="MS Sans Serif" size="2" color="#808080">&gt;</font><font face="Verdana" size="1">
-        <b><a href="http://www.funeducation.com/support/contacts/">Contact Us</a></b><br>
-        &nbsp; </font>
-    <font face="MS Sans Serif" size="2" color="#808080">&gt;</font><font face="Verdana" size="1">
-        <b><a href="http://www.funeducation.com/company/legal/">Terms of Use</a></b><br>
-        &nbsp; </font>
-    <font face="MS Sans Serif" size="2" color="#808080">&gt;</font><font face="Verdana" size="1">
-        <b><a href="http://www.funeducation.com/company/privacy/">Privacy 
-        Statement</a></b></font><br>
-        <font face="Verdana" size="1">&nbsp; </font>
-    <font face="MS Sans Serif" size="2" color="#808080">&gt;</font><font face="Verdana" size="1">
-        <b><a href="http://www.funeducation.com/company/privacy/children.asp">
-        Children's Privacy</a></b></font><br>
-        <font face="MS Sans Serif" size="1">
-        <a href="http://www.funeducation.com/schooling/">
-    <img border="0" src="http://www.funeducation.com/webgraphics/design/tab_education.gif" vspace="10"></a></font></td>
+        <td height="2" valign="top"></td>
+        <td height="2" valign="top"></td>
+        <td height="2"></td>
+        <td height="2"></td>
+        <td height="2"></td>
+        <td height="2"></td>
+        <td height="2" valign="top"></td>
+        <td height="2" valign="top"></td>
       </tr>
       <tr>
-        <td width="100%">
-        <font face="MS Sans Serif" size="1">
-    </font><font face="MS Sans Serif" size="1">
-    </font><font face="MS Sans Serif" size="1">
-    </font><font face="MS Sans Serif" size="1">
-    </font><font face="MS Sans Serif" size="1">
-    </font><table border="0" cellpadding="2" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="129">
-          <tbody><tr>
-            <td width="5" height="18" align="center" valign="top">
-    <font face="MS Sans Serif" size="2" color="#808080">&gt;</font></td>
-    <td width="95%" height="18">
-      <b>
-      <font face="Verdana" size="1">
-      <a href="http://standards.funeducation.com/">State
-      Standards<br>Practice Tests</a></font></b></td>
-    
-          </tr>
-          <tr>
-            <td width="5" height="18" align="center" valign="top" bgcolor="#F4F4F4">
-    <font face="MS Sans Serif" size="2" color="#808080">&gt;</font></td>
-    
-    <td width="95%" height="18" bgcolor="#F4F4F4">
-      <font face="Verdana" size="1"><b>
-      <a href="http://www.funeducation.com/products/testmaster/">Assessment Tests</a></b></font></td>
-          </tr>
-          <tr>
-            <td width="5" height="1" align="center" valign="top">
-    <p align="center">
-    <font face="MS Sans Serif" size="2" color="#808080">&gt;</font></p></td>
-    
-    <td width="95%" height="1">
-      <font face="Verdana" size="1">
-      <a href="http://www.funeducation.com/bigfive45/"><b>Career<br>
-      Personality Profile</b></a></font></td>
-          </tr>
-          <tr>
-            <td width="5" height="1" align="center" valign="top" bgcolor="#F4F4F4">
-    <font face="MS Sans Serif" size="2" color="#808080">&gt;</font></td>
-    <td width="95%" height="1" bgcolor="#F4F4F4">
-      <font face="Verdana" size="1"><b><a href="http://www.funeducation.com/products/iqtest/">IQ Test</a></b></font></td>
-    
-          </tr>
-          <tr>
-            <td width="5" height="1" align="center" valign="top">
-    <font face="MS Sans Serif" size="2" color="#808080">&gt;</font></td>
-    
-    <td width="95%" height="1">
-      <font face="MS Sans Serif" size="1">
-      <b><font face="Verdana" size="1">
-      <a href="http://www.funeducation.com/highereducation/">Higher Education 
-      Degrees</a></font></b></font></td>
-          </tr>
-        </tbody></table>
-        </td>
+        <td width="149" height="24" align="center" valign="top"><input name="txtSearchCriteriaHeader" onkeyup="javascript:validateSearchBox(event);" id="txtSearchCriteriaHeader" type="text" class="input" value="Search Tests" onclick="this.value=''"></td>
+        <td width="35" valign="top"><div align="left"><a href="javascript:validateSearchCriteriaBox();"><img src="http://www.funeducation.com/images/gobut_search.gif" name="headerImage_goButton" id="headerImage_goButton" width="23" height="21" border="0"></a></div></td>
+        <td width="150" valign="top" align="center"><a href="http://www.funeducation.com" onmouseover="MM_swapImage('headerImage_homeButton','','http://www.funeducation.com/images/homebut2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://www.funeducation.com/images/homebut1.gif" name="headerImage_homeButton" width="67" height="32" border="0" id="headerImage_homeButton"></a></td>
+        <td width="181" valign="top"><a href="/Tests" onmouseover="MM_swapImage('headerImage_testsButton','','http://www.funeducation.com/images/funtestbut2.gif',1)" onmouseout="MM_swapImgRestore()">
+         
+        <img src="http://www.funeducation.com/images/funtestbut1.gif" name="headerImage_testsButton" width="140" height="32" border="0" id="Img1"> 
+        
+        </a></td>
+        <td width="182" valign="top"><a href="/Share" onmouseover="MM_swapImage('headerImage_shareButton','','http://www.funeducation.com/images/sharefriendsbut2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://www.funeducation.com/images/sharefriendsbut1.gif" name="headerImage_shareButton" width="140" height="32" border="0" id="headerImage_shareButton"></a></td>
+        <td width="119" valign="top"><a href="/Results" onmouseover="MM_swapImage('headerImage_resultsButton','','http://www.funeducation.com/images/myresultsbut2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://www.funeducation.com/images/myresultsbut1.gif" name="headerImage_resultsButton" width="88" height="32" border="0" id="headerImage_resultsButton"></a></td>
+        <td width="75" valign="top"><a href="/Help" onmouseover="MM_swapImage('headerImage_helpButton','','http://www.funeducation.com/images/help2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://www.funeducation.com/images/help1.gif" name="headerImage_helpButton" width="59" height="22" border="0" id="headerImage_helpButton"></a></td>
+        <td width="61" valign="top">
+        <a onmouseover="MM_swapImage('Image6','','http://www.funeducation.com/images/PageDesign/signin2.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.funeducation.com/Account/Signin"> <img src="http://www.funeducation.com/images/PageDesign/signin1.gif" name="Image6" width="61" height="22" border="0" id="Image6"></a></td>
       </tr>
-      <tr>
-        <td width="100%"><font face="MS Sans Serif" size="1">
-        <a href="http://www.funeducation.com/training/">
-    <img border="0" src="http://www.funeducation.com/webgraphics/design/tab_training.gif" vspace="10"></a></font></td>
-      </tr>
-      <tr>
-        <td width="100%">
-  <font face="MS Sans Serif" size="1">
-        <a href="http://www.funeducation.com/products/">
-    <img border="0" src="http://www.funeducation.com/webgraphics/design/tab_development.gif"></a></font></td>
-      </tr>
-      </tbody></table>
-</td>
-<td width="1%" height="1" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;
-</td><td width="70%" height="1" valign="top"><br class="header_nav">
-<div align="center">
-  <center>
+    </tbody></table>
+    </td>
+    <td width="6" rowspan="3" background="/images/in_rightshadow.gif">&nbsp;</td>
+  </tr>
+  </tbody></table>
+  <table width="763px" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+      <td valign="top" width="10px" bgcolor="#FFFFFF"></td>
+     <td valign="top" bgcolor="#FFFFFF"></td>
+     <td rowspan="2" width="6px" background="/images/in_rightshadow.gif">&nbsp;</td>
+  </tr>
+ <tr>
+ <td valign="top" width="10px" bgcolor="#FFFFFF">&nbsp;
+ </td>
+ <td valign="top" height="260px" bgcolor="#FFFFFF">
+ <form name="aspnetForm" method="post" action="Default.aspx" id="aspnetForm" target="_parent">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTMwNzg3NDY3OQ9kFgJmD2QWAgIBDxYCHgZ0YXJnZXQFB19wYXJlbnRkZKBRJbjc/qWZP57fgHojKIK/OJs3">
+
+    <div style="background-color: White; vertical-align: top;" align="left">
+        <table width="100%" style="text-align:left;">
+            <tbody><tr valign="top">
+                <td>
+                    &nbsp;&nbsp;&nbsp;&nbsp;</td>
+                <td align="left">
+                    
+    
 <table border="0" width="95%" height="651" cellspacing="0" cellpadding="0" style="border-collapse: collapse" bordercolor="#111111">
   <tbody><tr>
-    <td width="65%" height="622" valign="top">
-    <img border="0" src="../../webgraphics/titles/text_privacy.gif" width="274" height="32">
-    <font size="2" face="Verdana"><br>
+    <td width="65%" height="622" valign="top" style="padding-top:4px;">
+    
+    <img border="0" src="../../images/Spacers/transparent.gif" width="5" height="5"><br>
+    
+    <img border="0" src="../../webgraphics/titles/SubpageTitle_Privacy.gif" width="400" height="56" vspace="3"><font size="2" face="Verdana"><br>
+&nbsp;<br>
     </font>
-    <font face="Verdana" style="font-size: 9pt">General 
-    Privacy Statement&nbsp; |&nbsp; <a href="children.asp">Children's Privacy 
+    <font face="Arial" style="font-size: 9pt">General 
+    Privacy Statement&nbsp; |&nbsp; <a href="Children.aspx" class="sublink">Children's Privacy 
     Policy</a></font><hr color="#F0F0F0" width="95%" align="left">
     <p>
-    <font face="Verdana" style="font-weight: 700">FunEducation, Inc. Privacy 
+    <font face="Arial" style="font-weight: 700" size="3">FunEducation, Inc. Privacy 
     Statement</font></p>
-      <p><font face="Verdana" size="2">FunEducation fully respects your rights 
+      <p><font face="Arial" size="2">FunEducation fully respects your rights 
       to privacy and developed this statement to demonstrate our firm commitment 
       to protecting your privacy. The following privacy policy discloses the 
       information gathering and dissemination practices for the funeducation.com 
       Web site ("Site").</font></p><ul>
-      <li><font face="Verdana" size="2"><a href="#info">INFORMATION COLLECTION 
+      <li><font face="Arial" size="2"><a class="sublink" href="#info">INFORMATION COLLECTION 
       AND USE</a></font></li>
-      <li><font face="Verdana" size="2"><a href="#reg">REGISTRATION</a></font></li>
-      <li><font face="Verdana" size="2"><a href="#order">ORDER</a></font></li>
-      <li><font face="Verdana" size="2"><a href="#contest">CONTESTS AND SURVEYS</a></font></li>
-      <li><font face="Verdana" size="2"><a href="#special">SPECIAL OFFERS</a></font></li>
-      <li><font face="Verdana" size="2"><a href="#profile">PROFILE</a></font></li>
-      <li><font face="Verdana" size="2"><a href="#cookies">COOKIES</a></font></li>
-      <li><font face="Verdana" size="2"><a href="#log">LOG FILES</a></font></li>
-      <li><font face="Verdana" size="2"><a href="#gifs">CLEAR GIFS</a></font></li>
-      <li><font face="Verdana" size="2"><a href="#service">CUSTOMER SERVICE</a></font></li>
-      <li><font face="Verdana" size="2"><a href="#agg">AGGREGATE INFORMATION</a></font></li>
-      <li><font face="Verdana" size="2"><a href="#tell">TELL A FRIEND</a></font></li>
-      <li><font face="Verdana" size="2"><a href="#sec">SECURITY PROCEDURES</a></font></li>
-      <li><font face="Verdana" size="2"><a href="#opt">OPT-OUT POLICY</a></font></li>
-      <li><font face="Verdana" size="2"><a href="#corr">CORRECTING AND UPDATING 
+      <li><font face="Arial" size="2"><a class="sublink" href="#reg">REGISTRATION</a></font></li>
+      <li><font face="Arial" size="2"><a class="sublink" href="#order">ORDER</a></font></li>
+      <li><font face="Arial" size="2"><a class="sublink" href="#contest">CONTESTS AND SURVEYS</a></font></li>
+      <li><font face="Arial" size="2"><a class="sublink" href="#special">SPECIAL OFFERS</a></font></li>
+      <li><font face="Arial" size="2"><a class="sublink" href="#profile">PROFILE</a></font></li>
+      <li><font face="Arial" size="2"><a class="sublink" href="#cookies">COOKIES</a></font></li>
+      <li><font face="Arial" size="2"><a class="sublink" href="#log">LOG FILES</a></font></li>
+      <li><font face="Arial" size="2"><a class="sublink" href="#gifs">CLEAR GIFS</a></font></li>
+      <li><font face="Arial" size="2"><a class="sublink" href="#service">CUSTOMER SERVICE</a></font></li>
+      <li><font face="Arial" size="2"><a class="sublink" href="#agg">AGGREGATE INFORMATION</a></font></li>
+      <li><font face="Arial" size="2"><a class="sublink" href="#tell">TELL A FRIEND</a></font></li>
+      <li><font face="Arial" size="2"><a class="sublink" href="#sec">SECURITY PROCEDURES</a></font></li>
+      <li><font face="Arial" size="2"><a class="sublink" href="#opt">OPT-OUT POLICY</a></font></li>
+      <li><font face="Arial" size="2"><a class="sublink" href="#corr">CORRECTING AND UPDATING 
       YOUR INFORMATION</a></font></li>
-      <li><font face="Verdana" size="2"><a href="#changes">CHANGES IN THIS 
+      <li><font face="Arial" size="2"><a class="sublink" href="#changes">CHANGES IN THIS 
       PRIVACY STATEMENT</a></font></li>
       </ul>
-      <p><b><font face="Verdana" size="2"><a name="info">INFORMATION COLLECTION 
-      AND USE</a></font></b></p><p><font face="Verdana" size="2">In order to fulfill 
+      <p><b><font face="Arial" size="2"><a name="info">INFORMATION COLLECTION 
+      AND USE</a></font></b></p><p><font face="Arial" size="2">In order to fulfill 
       licensing transactions or provide service to you as a customer of 
       FunEducation, we may require you to provide certain information to us. 
       Common items may include, but are not limited to, your name, address, 
@@ -211,11 +242,13 @@
       are agreeing to allow us to utilize this information to complete all 
       transactions you request through this Site and to disclose that 
       information and details of all such transactions to our subsidiaries, 
-      affiliates or necessary payment processors. <a href="#top"><img border="0" src="../../webgraphics/design/top.gif" width="33" height="10"></a> </font>
-      </p><p><font face="Verdana" size="2">Here is an explanation of the information 
+      affiliates or necessary payment processors. </font>
+    <a class="sublink" href="#top">
+    <img src="../../webgraphics/design/top.gif" border="0" height="10" width="33"></a> 
+      </p><p><font face="Arial" size="2">Here is an explanation of the information 
       we gather and how it is used: </font>
-      </p><p><b><font face="Verdana" size="2"><a name="reg">REGISTRATION</a></font></b></p><p>
-      <font face="Verdana" size="2">The Site's registration form gathers contact 
+      </p><p><b><font face="Arial" size="2"><a name="reg">REGISTRATION</a></font></b></p><p>
+      <font face="Arial" size="2">The Site's registration form gathers contact 
       information (e.g., your name and address), unique identifiers (e.g., your 
       e-mail address) and demographic information (e.g., your zip code). We use 
       contact information from the registration form to send you important 
@@ -226,9 +259,11 @@
       profile data is also collected at our Site. We use this data to tailor 
       your experience at our Site, showing you content that we think you might 
       be interested in and displaying the content according to your preferences. 
-      This information is shared with our affiliates on an aggregate basis. <a href="#top"><img border="0" src="../../webgraphics/design/top.gif" width="33" height="10"></a> </font>
-      </p><p><b><font face="Verdana" size="2"><a name="order">ORDER</a></font></b></p><p>
-      <font face="Verdana" size="2">The Site uses an order form to request 
+      This information is shared with our affiliates on an aggregate basis. </font>
+      <a class="sublink" href="#top">
+      <img src="../../webgraphics/design/top.gif" border="0" height="10" width="33"></a> 
+      </p><p><b><font face="Arial" size="2"><a name="order">ORDER</a></font></b></p><p>
+      <font face="Arial" size="2">The Site uses an order form to request 
       products and services. We collect contact information (e.g., your shipping 
       address), unique identifiers (e.g., your name and telephone number), 
       financial information (e.g., your credit card number), and demographic 
@@ -243,9 +278,11 @@
       provide a high level of customer service, help you track your orders and 
       offer personalized products and content that we think you would find 
       helpful. Demographic and profile data is also collected during the 
-      checkout process. <a href="#top"><img border="0" src="../../webgraphics/design/top.gif" width="33" height="10"></a> </font>
-      </p><p><b><font face="Verdana" size="2"><a name="contest">CONTESTS AND SURVEYS</a></font></b></p><p>
-      <font face="Verdana" size="2">We run contests and conduct surveys on our 
+      checkout process. </font>
+      <a class="sublink" href="#top">
+      <img src="../../webgraphics/design/top.gif" border="0" height="10" width="33"></a> 
+      </p><p><b><font face="Arial" size="2"><a name="contest">CONTESTS AND SURVEYS</a></font></b></p><p>
+      <font face="Arial" size="2">We run contests and conduct surveys on our 
       Site where we will obtain contact information (e.g. your email address) 
       and demographic information (e.g. your zip code). We use contact data from 
       our contests and surveys to send visitors information about our company, 
@@ -253,21 +290,29 @@
       satisfaction of this Site. Participation in these contests or surveys is 
       completely voluntary and the user therefore has a choice whether or not to 
       disclose this information. Users may opt-out of receiving future mailings; 
-      see the Opt-Out Policy below. <a href="#top"><img border="0" src="../../webgraphics/design/top.gif" width="33" height="10"></a> </font>
-      </p><p><b><font face="Verdana" size="2"><a name="special">SPECIAL OFFERS</a></font></b></p><p>
-      <font face="Verdana" size="2">We send all new members a welcoming email to 
+      see the Opt-Out Policy below. </font>
+      <a class="sublink" href="#top">
+      <img src="../../webgraphics/design/top.gif" border="0" height="10" width="33"></a> 
+      </p><p><b><font face="Arial" size="2"><a name="special">SPECIAL OFFERS</a></font></b></p><p>
+      <font face="Arial" size="2">We send all new members a welcoming email to 
       verify password and username. Established members will occasionally 
       receive information on products, services, special deals, and a 
       newsletter. Out of respect for the privacy of our users we present the 
       option to not receive these types of communications; see the Opt-Out 
-      Policy below. <a href="#top"><img border="0" src="../../webgraphics/design/top.gif" width="33" height="10"></a> </font>
-      </p><p><b><font face="Verdana" size="2"><a name="profile">PROFILE</a></font></b></p><p>
-      <font face="Verdana" size="2">We store information that we collect through 
+      Policy below. </font>
+      <a class="sublink" href="#top">
+      <img src="../../webgraphics/design/top.gif" border="0" height="10" width="33"></a> 
+      </p><p><b><font face="Arial" size="2"><a name="profile">PROFILE</a></font></b></p><p>
+      <font face="Arial" size="2">We store information that we collect through 
       cookies, log files, clear gifs, and third party sources to create a 
       “profile” of your preferences. We tie your personally identifiable 
       information, and your purchasing history, to information in the profile, 
       in order to provide tailored promotions and marketing offers and to 
-      improve the content of the site for you.&nbsp; <a href="#top"><img border="0" src="../../webgraphics/design/top.gif" width="33" height="10"></a>
+      improve the content of the site for you.&nbsp; </font>
+      <font face="Verdana" size="2"> <a class="sublink" href="#top">
+      <img src="../../webgraphics/design/top.gif" border="0" height="10" width="33"></a>
+      </font>
+      <font face="Arial" size="2">
       <br>
       &nbsp;<br>
       Supplementation of Information <br>
@@ -287,8 +332,8 @@
       identifiable information they have provided to us.<br>
       We use IP addresses to analyze trends, administer the site, track user 
       movement, and gather broad demographic information for aggregate use.</font></p><p>
-      <b><font face="Verdana" size="2"><a name="cookies">COOKIES</a></font></b></p><p>
-      <font face="Verdana" size="2">A cookie is a small text file that is stored 
+      <b><font face="Arial" size="2"><a name="cookies">COOKIES</a></font></b></p><p>
+      <font face="Arial" size="2">A cookie is a small text file that is stored 
       on a user’s computer for record-keeping purposes. We use cookies on this 
       site. We link the information we store in cookies to personally 
       identifiable information you submit while on our site. We use both session 
@@ -303,9 +348,11 @@
       target the interests of our users to enhance the experience on our site. 
       Some of our business partners (e.g., advertisers) use cookies on our site. 
       We have no access to or control over these cookies. See “Third Party 
-      Advertisers.” <a href="#top"><img border="0" src="../../webgraphics/design/top.gif" width="33" height="10"></a> </font>
-      </p><p><b><font face="Verdana" size="2"><a name="log">LOG FILES</a></font></b></p><p>
-      <font face="Verdana" size="2">As is true of most Web sites, we gather 
+      Advertisers.” </font>
+      <a class="sublink" href="#top">
+      <img src="../../webgraphics/design/top.gif" border="0" height="10" width="33"></a> 
+      </p><p><b><font face="Arial" size="2"><a name="log">LOG FILES</a></font></b></p><p>
+      <font face="Arial" size="2">As is true of most Web sites, we gather 
       certain information automatically and store it in log files. This 
       information includes internet protocol (IP) addresses, browser type, 
       internet service provider (ISP), referring/exit pages, operating system, 
@@ -317,9 +364,11 @@
       whole. <br>
       &nbsp;<br>
       We do link this automatically-collected data to personally identifiable 
-      information to track and store testing results. <a href="#top"><img border="0" src="../../webgraphics/design/top.gif" width="33" height="10"></a> </font>
-      </p><p><font face="Verdana" size="2"><b><a name="gifs">CLEAR GIFS</a></b> (Web 
-      Beacons/Web Bugs)</font></p><p><font face="Verdana" size="2">We employ a 
+      information to track and store testing results. </font>
+      <a class="sublink" href="#top">
+      <img src="../../webgraphics/design/top.gif" border="0" height="10" width="33"></a> 
+      </p><p><font face="Arial" size="2"><b><a name="gifs">CLEAR GIFS</a></b> (Web 
+      Beacons/Web Bugs)</font></p><p><font face="Arial" size="2">We employ a 
       software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that 
       help us better manage content on our site by informing us what content is 
       effective. Clear gifs are tiny graphics with a unique identifier, similar 
@@ -334,28 +383,36 @@
       have been opened by recipients. This allows us to gauge the effectiveness 
       of certain communications and the effectiveness of our marketing 
       campaigns. If you would like to opt-out of these emails, please see 
-      “Opt-Out Policy.” <a href="#top"><img border="0" src="../../webgraphics/design/top.gif" width="33" height="10"></a> </font>
-      </p><p><b><font face="Verdana" size="2"><a name="service">CUSTOMER SERVICE</a></font></b></p><p>
-      <font face="Verdana" size="2">Based upon the personally identifiable 
+      “Opt-Out Policy.” </font>
+    <a class="sublink" href="#top">
+    <img src="../../webgraphics/design/top.gif" border="0" height="10" width="33"></a> 
+      </p><p><b><font face="Arial" size="2"><a name="service">CUSTOMER SERVICE</a></font></b></p><p>
+      <font face="Arial" size="2">Based upon the personally identifiable 
       information you provide us, we may send you a welcoming email to verify 
       your username and password. We will also communicate with you in response 
       to your inquiries, to provide the services you request, and to manage your 
       account. We will communicate with you by email or telephone, in accordance 
-      with your wishes. <a href="#top"><img border="0" src="../../webgraphics/design/top.gif" width="33" height="10"></a> </font>
-      </p><p><b><font face="Verdana" size="2"><a name="agg">AGGREGATE INFORMATION</a></font></b></p><p>
-      <font face="Verdana" size="2">We share demographic data, sales, traffic 
+      with your wishes. </font>
+      <a class="sublink" href="#top">
+      <img src="../../webgraphics/design/top.gif" border="0" height="10" width="33"></a> 
+      </p><p><b><font face="Arial" size="2"><a name="agg">AGGREGATE INFORMATION</a></font></b></p><p>
+      <font face="Arial" size="2">We share demographic data, sales, traffic 
       patterns and related site information with our affiliates and other 
       reputable third parties in aggregate form only. The shared aggregate data 
-      does not include any personal information.&nbsp; <a href="#top"><img border="0" src="../../webgraphics/design/top.gif" width="33" height="10"></a> </font>
-      </p><p><b><font face="Verdana" size="2"><a name="tell">TELL A FRIEND</a></font></b></p><p>
-      <font face="Verdana" size="2">If you elect to use our referral service for 
+      does not include any personal information.&nbsp; </font>
+      <a class="sublink" href="#top">
+      <img src="../../webgraphics/design/top.gif" border="0" height="10" width="33"></a> 
+      </p><p><b><font face="Arial" size="2"><a name="tell">TELL A FRIEND</a></font></b></p><p>
+      <font face="Arial" size="2">If you elect to use our referral service for 
       informing a friend about our Site, we will ask you for the friend’s name 
       and email address. We will automatically send your friend a one-time email 
       inviting them to visit the Site. We use this information for the sole 
       purpose of sending this one-time email. We do not store, rent, sell or 
-      trade these e-mail addresses.&nbsp; <a href="#top"><img border="0" src="../../webgraphics/design/top.gif" width="33" height="10"></a> </font>
-      </p><p><b><font face="Verdana" size="2"><a name="sec">SECURITY PROCEDURES</a></font></b></p><p>
-      <font face="Verdana" size="2">This Site has security measures in place to 
+      trade these e-mail addresses.&nbsp; </font>
+      <a class="sublink" href="#top">
+      <img src="../../webgraphics/design/top.gif" border="0" height="10" width="33"></a> 
+      </p><p><b><font face="Arial" size="2"><a name="sec">SECURITY PROCEDURES</a></font></b></p><p>
+      <font face="Arial" size="2">This Site has security measures in place to 
       protect the loss, misuse and alteration of the information under our 
       control. All information is stored in a secure database behind a firewall 
       designed to prevent unauthorized access and none of the information can be 
@@ -372,29 +429,41 @@
       it. No method of transmission over the Internet, or method of electronic 
       storage, is 100% secure, however. Therefore, while we strive to use 
       commercially acceptable means to protect your personal information, we 
-      cannot guarantee its absolute security. <a href="#top"><img border="0" src="../../webgraphics/design/top.gif" width="33" height="10"></a> </font>
-      </p><p><b><font face="Verdana" size="2"><a name="opt">OPT-OUT POLICY</a></font></b></p><p>
-      <font face="Verdana" size="2">Our Site gives users the opportunity to 
+      cannot guarantee its absolute security. </font>
+      <a class="sublink" href="#top">
+      <img src="../../webgraphics/design/top.gif" border="0" height="10" width="33"></a> 
+      </p><p><b><font face="Arial" size="2"><a name="opt">OPT-OUT POLICY</a></font></b></p><p>
+      <font face="Arial" size="2">Our Site gives users the opportunity to 
       opt-out of receiving non-essential communications from FunEducation. You 
       can opt-out of receiving non-essential communications from us at any time 
-      by emailing us at
-      <img border="0" src="../../webgraphics/emails/troppus_sm.gif">. In 
+      by emailing us at </font>
+      <font face="Verdana" size="2">
+      <img src="../../webgraphics/emails/troppus_sm.gif" border="0"> </font>
+      <font face="Arial" size="2">. In 
       addition, whenever we send you a non-essential email communication, you 
       can opt-out of similar future mailings by simply clicking on a link 
       provided in the e-mail message.<br>
       If at any time you believe that we have not followed this Privacy Policy, 
       you have any questions about this policy, or if you would like your 
-      information to be removed from our system, please contact us at
-      <img border="0" src="../../webgraphics/emails/troppus_sm.gif">. We will 
-      make reasonable efforts to identify and correct any reported problems.&nbsp; <a href="#top"><img border="0" src="../../webgraphics/design/top.gif" width="33" height="10"></a> </font>
-      </p><p><b><font face="Verdana" size="2"><a name="corr">CORRECTING AND UPDATING 
-      YOUR INFORMATION</a></font></b></p><p><font face="Verdana" size="2">If you 
+      information to be removed from our system, please contact us at </font>
+      <font face="Verdana" size="2">
+      <img src="../../webgraphics/emails/troppus_sm.gif" border="0">
+      <font face="Arial" size="2">. We will 
+      make reasonable efforts to identify and correct any reported problems.&nbsp; </font>
+      <a class="sublink" href="#top">
+      <img src="../../webgraphics/design/top.gif" border="0" height="10" width="33"></a> </font>
+      </p><p><b><font face="Arial" size="2"><a name="corr">CORRECTING AND UPDATING 
+      YOUR INFORMATION</a></font></b></p><p><font face="Arial" size="2">If you 
       would like to revise the information provided to us, or feel that what we 
       currently have on record is incorrect, you may update the information by 
-      emailing us at
-      <img border="0" src="../../webgraphics/emails/troppus_sm.gif">. <a href="#top"><img border="0" src="../../webgraphics/design/top.gif" width="33" height="10"></a> </font>
-      </p><p><b><font face="Verdana" size="2"><a name="changes">CHANGES IN THIS 
-      PRIVACY STATEMENT</a></font></b></p><p><font face="Verdana" size="2">If we 
+      emailing us at </font>
+      <font face="Verdana" size="2">
+      <img src="../../webgraphics/emails/troppus_sm.gif" border="0"> </font>
+      <font face="Arial" size="2">. </font>
+    <a class="sublink" href="#top">
+    <img src="../../webgraphics/design/top.gif" border="0" height="10" width="33"></a> 
+      </p><p><b><font face="Arial" size="2"><a name="changes">CHANGES IN THIS 
+      PRIVACY STATEMENT</a></font></b></p><p><font face="Arial" size="2">If we 
       decide to change our privacy policy, we will post those changes to this 
       privacy statement and other places we deem appropriate so that you are 
       aware of what information we collect, how we use it, and under what 
@@ -403,149 +472,219 @@
       We reserve the right to modify this privacy statement at any time, so 
       please review it frequently. If we make material changes to this policy, 
       we will notify you here, by email, or by means of a notice on our home 
-      page. <a href="#top"><img border="0" src="../../webgraphics/design/top.gif" width="33" height="10"></a> </font>
+      page. </font>
+    <a class="sublink" href="#top">
+    <img src="../../webgraphics/design/top.gif" border="0" height="10" width="33"></a> 
       </p><p><font face="MS Sans Serif" size="1" color="#808080"><br>
-&nbsp;</font></p></td>
+      </font>
+
+      <font face="Arial" size="2">&lt; <a href="../../" class="sublink">
+          Back to Homepage
+      </a>
+      </font>
+
+
+      </p><p><font face="Arial" size="2">&nbsp;</font></p></td>
   </tr>
 </tbody></table>
-  </center>
-</div>
-<p></p>
-        <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%">
-          <tbody><tr>
-            <td width="100%" colspan="3" bgcolor="#8F8F8F">
-    <p align="center">
-    <img border="0" src="http://www.funeducation.com/webgraphics/pixels/transparent.gif" width="6" height="5"></p></td>
-          </tr>
-          <tr>
-            <td width="43%" valign="top" bgcolor="#E9E9E9">
-        &nbsp;</td>
-            <td width="3%" bgcolor="#E9E9E9">
-    &nbsp;</td>
-            <td width="54%" bgcolor="#E9E9E9">
-            <p align="center">
-            <img border="0" src="http://www.funeducation.com/webgraphics/design/advertisement.gif"></p></td>
-          </tr>
-          <tr>
-            <td width="43%" valign="top" bgcolor="#E9E9E9">
-        <p align="center">
-        <font face="Arial" size="1" color="#666666">&nbsp;&nbsp; </font>
-        <font face="Verdana" color="#666666" style="font-size: 9pt; font-weight:700">OTHER TESTS 
-        YOU MIGHT ENJOY...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font>
-        </p>
-        <div align="center">
-          <center>
-          <table border="0" cellpadding="3" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="315" height="1">
-          <tbody><tr>
-            <td width="3" height="1" align="left"></td>
-            <td width="91" height="1" align="left"><b>
-            <font face="Arial" size="1" color="#575757">IQ Tests</font></b></td>
-            <td width="106" height="1" align="left"><b>
-            <font face="Arial" size="1" color="#575757">All About You</font></b></td>
-            <td width="86" height="1" align="left"><b>
-            <font face="Arial" size="1" color="#575757">Business</font></b></td>
-          </tr>
-          <tr>
-            <td width="3" height="1">
+
+                </td>
+            </tr>
+        </tbody></table>
+    </div>
+</form>
+
+
+</td>
+</tr>
+<tr>
+    <td height="2" colspan="2" bgcolor="#DFA62A"><img border="0" src="http://www.funeducation.com/images/Spacers/transparent.gif" width="100%" height="2"></td>
+    <td height="2" width="6"><img src="http://www.funeducation.com/images/in_rightshadow.gif" width="6" height="2"></td>
+</tr>
+<tr>
+    <td height="176" colspan="2" valign="top" bgcolor="#FFFFFF" width="757">
+        <table width="757" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+            <td valign="top" bgcolor="#F0F0F0">
+                <table border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                    <td width="8" height="48"></td>
+                    <td valign="center" bgcolor="#F0F0F0" width="190" class="footerbluetextbig">Fun Tests &amp; Quizzes</td>
+                    <td width="8" bgcolor="#F0F0F0">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="8" bgcolor="#F0F0F0"></td>
+                    <td valign="top" bgcolor="#F0F0F0" width="208">
+                        <div id="navcontainer">
+                        <ul>
+                            <li><a href="http://www.funeducation.com/Tests/IQ.aspx" class="footerlink">IQ Tests</a></li>
+                            <li><a href="http://www.funeducation.com/Tests/SelfDiscovery.aspx" class="footerlink">Self-Discovery Quizzes</a></li>
+                            <li><a href="http://www.funeducation.com/Tests/Career.aspx" class="footerlink">Career Tests</a></li>
+                            <li><a href="http://www.funeducation.com/Tests/" class="footerlink">Other Fun Tests</a></li>
+                        </ul>
+                        </div>
+                    </td>
+                    <td width="8" bgcolor="#F0F0F0">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td height="121" width="8" bgcolor="#F0F0F0">&nbsp;</td>
+                    <td valign="top" width="208" height="121" bgcolor="#F0F0F0"><div id="navcontainer">
+                        <ul>
+                            <li><a class="footerlink" href="http://www.funeducation.com/Company/">Our Company</a></li>
+                            <li><a class="footerlink" href="http://www.funeducation.com/Company/Advertise/">Advertise With Us</a></li>
+                            <li><a class="footerlink" href="http://www.funeducation.com/Help/Contact">Contact Us</a></li>
+                        </ul>
+                    </div>
+                    </td>
+                </tr>
+                </tbody></table>
             </td>
-            <td width="91" height="1">
-            <font face="MS Sans Serif" color="#000080" size="1">&gt;<b> </b></font>
-            <b><font face="Verdana" color="#808080">
-            <a target="_blank" href="http://www.funeducation.com/IQTest/">
-            <font color="#000080" size="1">Free IQ Test</font></a></font></b></td>
-            <td width="106" height="1">
-            <font face="MS Sans Serif" color="#000080" size="1">&gt;<b> </b></font>
-            <b><font face="Verdana" size="1" color="#666666">
-            <a target="_blank" href="http://www.funeducation.com/PersonalityTest/">
-            <font color="#000080">Personality Test</font></a></font></b></td>
-            <td width="86" height="1">
-            <font face="MS Sans Serif" color="#000080" size="1">&gt;<b> </b></font>
-            <b><font face="Verdana" size="1" color="#666666">
-            <a target="_blank" href="http://www.funeducation.com/Products/BMAT/">
-            <font color="#000080">Management</font></a></font></b></td>
-          </tr>
-          <tr>
-            <td width="3" height="1">
+            <td valign="top" bgcolor="#DEE3EB">
+                <table border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                    <td width="8" height="48"></td>
+                    <td valign="center" width="208" class="footerbluetextbig" bgcolor="#DEE3EB">Your Tests</td>
+                    <td width="8" bgcolor="#DEE3EB">&nbsp;</td>
+                </tr>
+                <tr bgcolor="#F0F0F0">
+                    <td height="1" width="8" bgcolor="#DEE3EB"></td>
+                    <td valign="top" width="195" height="1" bgcolor="#DEE3EB"><div id="navcontainer">
+                    <ul>
+                        <li><a class="footerlink" href="http://www.funeducation.com/Share/">Share with Friends</a></li>
+                        <li><a class="footerlink" href="http://www.funeducation.com/Account/">My Account</a></li>
+                        <li><a class="footerlink" href="http://www.funeducation.com/Help/">Help</a></li>
+                    </ul>
+                    </div>
+                    </td>
+                    <td width="8" bgcolor="#DEE3EB">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td height="1" width="8" bgcolor="#DEE3EB"></td>
+                    <td valign="top" width="195" bgcolor="#DEE3EB"><div id="navcontainer">
+                    <ul>
+                        <li><a class="footerlink" href="http://www.funeducation.com/Company/Privacy/">Privacy Policy</a></li>
+                        <li><a class="footerlink" href="http://www.funeducation.com/Company/Terms/">Terms of Use</a></li>
+                    </ul>
+                    </div>
+                    </td>
+                    <td width="8" bgcolor="#DEE3EB">&nbsp;</td>
+                </tr>
+                </tbody></table>
             </td>
-            <td width="91" height="1">
-            <font face="MS Sans Serif" color="#000080" size="1">&gt;<b> </b></font>
-            <b><font face="Verdana" color="#808080">
-            <a target="_blank" href="http://www.funeducation.com/KidsIQTest/">
-            <font color="#000080" size="1">Kids IQ Test</font></a></font></b></td>
-            <td width="106" height="1">
-            <font face="MS Sans Serif" color="#000080" size="1">&gt;<b> </b></font>
-            <b><font face="Verdana" size="1" color="#666666">
-            <a target="_blank" href="http://www.funeducation.com/PersonalityProfile/">
-            <font color="#000080">Career Test</font></a></font></b></td>
-            <td width="86" height="1"></td>
-          </tr>
-          </tbody></table>
-          <p>&nbsp;</p>
-          <p>&nbsp;</p>
-          </center>
-        </div>
-            </td>
-            <td width="3%" rowspan="2" bgcolor="#E9E9E9">
-    <img border="0" src="http://www.funeducation.com/webgraphics/pixels/transparent.gif" width="10" height="10" align="left"></td>
-            <td width="54%" rowspan="2" bgcolor="#E9E9E9">
-            <p align="center">
-            <!-- Casale Media 2006 (C) --><!-- Ad Format: Medium Rectangle --><!-- Domain(s): funeducation.com, rmxads.com, rightmedia.com, yieldmanager.com --><script type="text/javascript"><!--
-var casaleD=new Date();var casaleR=(casaleD.getTime()%8673806982)+Math.random();
-var casaleUU=escape(window.location.href); var casaleHost='.casalemedia.com/';
-var casaleWH='" width="300" height="250" ';
-var casaleFR='marginwidth="0" marginheight="0" frameborder="0" scrolling="no"';
-casaleFR += 'allowtransparency="true">';
-document.write('<ifr'+'ame src="http://as'+casaleHost+'s?s=80187&amp;u='+casaleUU);
-document.write('&amp;f=4&amp;id='+casaleR+casaleWH+casaleFR+'<a hr'+'ef="http://c');
-document.write(casaleHost+'c?s=80187&amp;f=4&amp;id='+casaleR+'" target="_blank">');
-document.write('<i'+'mg src="http://as'+casaleHost+'s?s=80187&amp;u='+casaleUU);
-document.write('&amp;f=4&amp;id='+casaleR+'&amp;if=0'+casaleWH+'border="0"><\/a>');
-document.write('<\/ifr'+'ame>');
-//--></script><iframe src="http://as.casalemedia.com/s?s=80187&amp;u=https%3A//web.archive.org/web/20071214035724id_/http%3A//www.funeducation.com/company/privacy/&amp;f=4&amp;id=1836333193.630298" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true"><a href="http://c.casalemedia.com/c?s=80187&amp;f=4&amp;id=1836333193.630298" target="_blank"><img src="http://as.casalemedia.com/s?s=80187&amp;u=https%3A//web.archive.org/web/20071214035724id_/http%3A//www.funeducation.com/company/privacy/&amp;f=4&amp;id=1836333193.630298&amp;if=0" width="300" height="250" border="0"></a></iframe><noscript>
+            <td valign="top">
+                <table cellpadding="0" cellspacing="0" border="0"><!-- Ad -->
+                    <tbody><tr>
+                        <td width="313" bgcolor="#C5CFDC" align="center"><img src="http://www.funeducation.com/images/Ads/advertisement.gif" border="0" width="120" height="10"></td>
+                    </tr>
+                    <tr>
+                        <td width="313" bgcolor="#C5CFDC" align="center">
+            <!-- Casale Media 2006 (C) -->
+            <!-- Ad Format: Medium Rectangle -->
+            <!-- Domain(s): funeducation.com -->
+            <script type="text/javascript"><!--
+            var casaleD=new Date();var casaleR=(casaleD.getTime()%8673806982)+Math.random();
+            var casaleUU=escape(window.location.href); var casaleHost='.casalemedia.com/';
+            var casaleWH='" width="300" height="250" ';
+            var casaleFR='marginwidth="0" marginheight="0" frameborder="0" scrolling="no"';
+            casaleFR += 'allowtransparency="true">';
+            document.write('<ifr'+'ame src="http://as'+casaleHost+'s?s=80187&amp;u='+casaleUU);
+            document.write('&amp;f=4&amp;id='+casaleR+casaleWH+casaleFR+'<a hr'+'ef="http://c');
+            document.write(casaleHost+'c?s=80187&amp;f=4&amp;id='+casaleR+'" target="_blank">');
+            document.write('<i'+'mg src="http://as'+casaleHost+'s?s=80187&amp;u='+casaleUU);
+            document.write('&amp;f=4&amp;id='+casaleR+'&amp;if=0'+casaleWH+'border="0"><\/a>');
+            document.write('<\/ifr'+'ame>');
+            //--></script><iframe src="http://as.casalemedia.com/s?s=80187&amp;u=https%3A//web.archive.org/web/20081218064528id_/http%3A//www.funeducation.com/Company/Privacy/&amp;f=4&amp;id=3511785635.9389863" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true"><a href="http://c.casalemedia.com/c?s=80187&amp;f=4&amp;id=3511785635.9389863" target="_blank"><img src="http://as.casalemedia.com/s?s=80187&amp;u=https%3A//web.archive.org/web/20081218064528id_/http%3A//www.funeducation.com/Company/Privacy/&amp;f=4&amp;id=3511785635.9389863&amp;if=0" width="300" height="250" border="0"></a></iframe><noscript>
             <iframe src="http://as.casalemedia.com/s?s=80187&u=http%3A%2F%2Ffuneducation.com&f=4&id=1"
 width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" 
 allowtransparency="true">
 <a href="http://c.casalemedia.com/c?s=80187&f=4&id=0" target="_blank"><img
 src="http://as.casalemedia.com/s?s=80187&u=http%3A%2F%2Ffuneducation.com&f=4&id=0&if=0" 
-width="300" height="250" border="0" alt=""></a></iframe></noscript><!-- Casale Media 2006 (C) --></p></td>
-          </tr>
-          <tr>
-            <td width="43%" valign="bottom">
-        <p align="left">&nbsp; <br>
-&nbsp;<br>
-        <font face="Verdana" color="#808080" size="1">
-        <a href="http://www.funeducation.com/company/">Company</a> |
-        <a href="http://www.funeducation.com/company/privacy/">Privacy</a> |
-        <a href="http://www.funeducation.com/company/legal/">Terms of Use</a> |
-        <a href="http://www.funeducation.com/Help/">Help</a> |
-        <a href="http://www.funeducation.com/Help/Contact/">Contact Us</a><br>
-        </font>
-    <img border="0" src="http://www.funeducation.com/webgraphics/pixels/transparent.gif" width="5" height="5"><font face="Verdana" color="#808080" size="1"><br>
-        &nbsp;© 2000-2007 FunEducation, Inc.&nbsp; All Rights 
-            Reserved.</font></p></td>
-          </tr>
-          <tr>
-            <td width="43%" valign="bottom">
-        <font face="Verdana" size="1" color="#808080">&nbsp;</font></td>
-            <td width="3%" bgcolor="#E9E9E9">
-    &nbsp;</td>
-            <td width="54%" bgcolor="#E9E9E9">
-            &nbsp;</td>
-          </tr>
-        </tbody></table>
+width="300" height="250" border="0" alt=""></a></iframe></noscript>
+            <!-- Casale Media 2006 (C) -->
+                    </td>
+                </tr>
+            </tbody></table><!--End of Ad Table-->
         </td>
-      </tr>
-      </tbody></table>
-    
-  
-  
-<p>&nbsp;</p><!-- Start Quantcast tag -->
+        </tr></tbody></table>
+        </td>
+            <td valign="top" background="http://www.funeducation.com/images/PageDesign/in_rightshadow.gif" height="176" width="6">&nbsp;</td>
+        </tr>
+        <tr> 
+            <td height="19" colspan="2" valign="top" width="757px">
+                <img src="http://www.funeducation.com/images/PageDesign/inpage_bottom.gif" width="757" height="15">
+            </td>
+            <td valign="top" height="19" width="6">
+                <img src="http://www.funeducation.com/images/PageDesign/in_bottomright.gif" width="6" height="15">
+            </td>
+        </tr>
+        <tr>
+            <td height="19" colspan="2" align="center" valign="top">
+            <span class="copyrighttext">© 1999-2008 FunEducation, Inc. All Rights Reserved.&nbsp;&nbsp;
+            <a target="_blank" href="http://www.funeducation.com/Feedback" style="color:#C0C0C0">Give Feedback</a>
+            </span>
+            </td>
+            <td valign="top" height="19" width="6">&nbsp;
+            </td>
+        </tr>
+    </tbody></table> <!--end of main content table-->
+</td>
+<td>&nbsp;<!--Blank-->
+</td>
+<td valign="top" width="160px">
+<img border="0" src="http://www.funeducation.com/images/Spacers/transparent.gif" vspace="2" width="5" height="5"><br>
+<!--Tower-->
+<!-- Casale Media 2006 (C) -->
+<!-- Ad Format: Skyscraper -->
+<!-- Domain(s): funeducation.com -->
+<script type="text/javascript"><!--
+var casaleD=new Date();var casaleR=(casaleD.getTime()%8673806982)+Math.random();
+var casaleUU=escape(window.location.href); var casaleHost='.casalemedia.com/';
+var casaleWH='" width="120" height="600" ';
+var casaleFR='marginwidth="0" marginheight="0" frameborder="0" scrolling="no"';
+casaleFR += ' allowtransparency="true">';
+document.write('<ifr'+'ame src="http://as'+casaleHost+'s?s=80187&amp;u='+casaleUU);
+document.write('&amp;f=3&amp;id='+casaleR+casaleWH+casaleFR+'<a hr'+'ef="http://c');
+document.write(casaleHost+'c?s=80187&amp;f=3&amp;id='+casaleR+'" target="_blank">');
+document.write('<i'+'mg src="http://as'+casaleHost+'s?s=80187&amp;u='+casaleUU);
+document.write('&amp;f=3&amp;id='+casaleR+'&amp;if=0'+casaleWH+'border="0"><\/a>');
+document.write('<\/ifr'+'ame>');
+//--></script><iframe src="http://as.casalemedia.com/s?s=80187&amp;u=https%3A//web.archive.org/web/20081218064528id_/http%3A//www.funeducation.com/Company/Privacy/&amp;f=3&amp;id=3511785646.321497" width="120" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true"><a href="http://c.casalemedia.com/c?s=80187&amp;f=3&amp;id=3511785646.321497" target="_blank"><img src="http://as.casalemedia.com/s?s=80187&amp;u=https%3A//web.archive.org/web/20081218064528id_/http%3A//www.funeducation.com/Company/Privacy/&amp;f=3&amp;id=3511785646.321497&amp;if=0" width="120" height="600" border="0"></a></iframe><noscript>
+    <iframe src="http://as.casalemedia.com/s?s=80187&u=http%3A%2F%2Ffuneducation.com&f=3&id=1"
+width="120" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"
+allowtransparency="true"> 
+<a href="http://c.casalemedia.com/c?s=80187&f=3&id=0" target="_blank"><img
+src="http://as.casalemedia.com/s?s=80187&u=http%3A%2F%2Ffuneducation.com&f=3&id=0&if=0" 
+width="120" height="600" border="0" alt=""/></a></iframe></noscript>
+<!-- Casale Media 2006 (C) -->
+
+</td>
+<td width="5%">&nbsp;<!--Blank-->
+</td>
+</tr>
+</tbody></table><!--End of All Tables-->
+
+ 
+
+<!-- Start Quantcast tag -->
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">
-_qacct="p-97J2_EmC54YOo";quantserve();</script>
+<script type="text/javascript">_qacct="p-97J2_EmC54YOo";quantserve();</script>
 <noscript>
-<img src="http://pixel.quantserve.com/pixel/p-97J2_EmC54YOo.gif" style="display: none" height="1" width="1" alt="Quantcast"/></noscript>
+<a href="http://www.quantcast.com/p-97J2_EmC54YOo" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-97J2_EmC54YOo.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
 <!-- End Quantcast tag -->
+
+<!-- Start Google Analytics tag -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-372995-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+<!-- End Google Analytics tag -->
+
 
 
 </body></html>
