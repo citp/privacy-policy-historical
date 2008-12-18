@@ -1,22 +1,21 @@
-> *The following text is extracted and transformed from the biblemoneymatters.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516094103id_/http%3A//www.biblemoneymatters.com/2008/01/bible-money-matters-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblemoneymatters.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218134219id_/http%3A//www.biblemoneymatters.com/privacy-policy) for the most accurate reproduction.*
 
-# Bible Money Matters: Bible Money Matters Privacy Policy
+# Privacy Policy | Bible Money Matters
 
-> **Our Commitment To Privacy**  
->  Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
-> 
-> **The Information We Collect**  
->  This notice applies to all information collected or submitted on our website. The types of personal information collected at these pages are:
-> 
-> **How We Use Information**  
->  We use the information you provide about yourself only to complete a specific request, for example, to post a comment on our blog or to subscribe to our email feed. We never use or share the personally identifiable information provided to us in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
-> 
-> **How We Use Cookies**  
->  A cookie is a small file placed on your computer’s hard drive that enables us to monitor which pages you find useful and which you do not. Our site and third parties such as advertisers may add a cookie to help analyze web traffic or to determine targeted advertisements based on your preferences. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you, however, from taking full advantage of the website.
-> 
-> **Our Commitment To Data Security**  
->  To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
-> 
-> **How To Contact Us**  
->  Should you have other questions or concerns about these privacy policies, please send us an email at The email address listed on the homepage.  
-> 
+**Privacy Policy for[BibleMoneyMatters.com](http://biblemoneymatters.com/ "http://BibleMoneyMatters.com")**
+
+The privacy of our visitors to [BibleMoneyMatters.com](http://biblemoneymatters.com/ "http://BibleMoneyMatters.com") is important to us.
+
+At [BibleMoneyMatters.com](http://biblemoneymatters.com/ "http://BibleMoneyMatters.com"), we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit [BibleMoneyMatters.com](http://biblemoneymatters.com/ "http://BibleMoneyMatters.com"), and how we safeguard your information.  We never sell your personal information to third parties.
+
+Log Files  
+As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+
+Cookies and Web Beacons  
+We do use cookies to store information, such as your personal preferences when you visit our site.  This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+
+We also use third party advertisements on [BibleMoneyMatters.com](http://biblemoneymatters.com/ "http://BibleMoneyMatters.com") to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
+
+_AdSense Privacy Policy Provided by[JenSense](http://jensense.com/)_
