@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrworld.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509094726id_/http%3A//www.hrworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrworld.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218132155id_/http%3A//www.hrworld.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,6 +48,6 @@ Due to the Internet's rapidly evolving nature, Tippit may need to update this Pr
  **  
 Questions?**  
 If you have any questions or suggestions about our privacy or security policies, or if you wish to opt-out or have your information removed from our database, please feel free to contact us at:  
-Tippit  
-514 Bryant Street  
-San Francisco, CA 94107
+Tippit Inc.  
+100 California St., 4th Floor  
+San Francisco, CA 94111
