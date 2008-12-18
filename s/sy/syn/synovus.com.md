@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synovus.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629162618id_/http%3A//www.synovus.com/index.cfm%3Fcatid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synovus.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218223228id_/http%3A//www.synovus.com/index.cfm%3Fcatid%3Dprivacy) for the most accurate reproduction.*
 
 # Synovus
 
@@ -13,7 +13,6 @@ We care about your privacy, and it’s important to us that you understand what 
 > Bank of Coweta (Newnan, GA)  
 > The Bank of Nashville (Nashville, TN)  
 > Bank of North Georgia (Alpharetta, GA)  
-> Bank of Pensacola (Pensacola, FL)  
 > The Bank of Tuscaloosa (Tuscaloosa, AL)  
 > CB&T Bank of East Alabama (Phenix City, AL)  
 > CB&T Bank of Middle Georgia (Warner Robins, GA)  
@@ -22,6 +21,7 @@ We care about your privacy, and it’s important to us that you understand what 
 > Citizens First Bank (Rome, GA)  
 > The Coastal Bank of Georgia (Brunswick, GA)  
 > Coastal Bank and Trust, a division of CB&T of Southeast Alabama (Mobile, AL)  
+> Coastal Bank and Trust of Florida (Pensacola, FL)  
 > Cohutta Banking Company (Chatsworth, GA)  
 > Cohutta Banking Company of Tennessee (Chattanooga, TN)  
 > Columbus Bank and Trust Company (Columbus, GA)  
@@ -46,7 +46,6 @@ We care about your privacy, and it’s important to us that you understand what 
 > Synovus Bank (St. Petersburg, FL)  
 > Tallahassee State Bank (Tallahassee, FL)  
 > Trust One Bank (Memphis, TN)  
-> Vanguard Bank & Trust Company (Valparaiso, FL)  
 > Creative Financial Group, LTD.  
 > GLOBALT, Inc.  
 > Synovus Insurance Services of Alabama, Inc.  
@@ -64,9 +63,9 @@ We care about your privacy, and it’s important to us that you understand what 
 
 In the process of serving you, we obtain certain “non-public personal information” -- information about you that is not available publicly. This information comes to us from a variety of sources: 
 
-  * You or someone acting on your behalf, on forms, via the Internet, by telephone or otherwise. Examples of this type of information include your name, address, Social Security number, credit history and other financial information.
-  * Transactions with us, our affiliates or with others. For example, your payment histories, account balances, and other transaction records.
-  * Credit reporting agencies. For example, information relating to your creditworthiness, your credit score and credit usage.
+  * You or someone acting on your behalf, on forms, via the Internet, by telephone or otherwise. Examples of this type of information include your name, address, Social Security number, credit history and other financial information. 
+  * Transactions with us, our affiliates or with others. For example, your payment histories, account balances, and other transaction records. 
+  * Credit reporting agencies. For example, information relating to your creditworthiness, your credit score and credit usage. 
   * Third parties to verify information you have given us.
 
 
@@ -83,7 +82,7 @@ We want you to know that we limit the collection and sharing of information to w
   * As permitted or required by law 
   * With companies that perform marketing services on our behalf 
   * With related companies listed in this notice to meet your needs or deliver added savings or convenience to you 
-  * With unrelated companies that may provide you with special offers related to their products and services.
+  * With unrelated companies that may provide you with special offers related to their products and services. 
   * For identification purposes to protect your accounts and guard against unauthorized access 
 
 
