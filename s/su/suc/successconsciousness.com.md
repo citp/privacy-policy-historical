@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the successconsciousness.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successconsciousness.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use
 
@@ -8,53 +8,53 @@ Terms of Use
   
 
 
-[Mind Power](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/mind_power.htm)  
-[Self Improvement](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/index_000043.htm)  
-[Power of Concentration](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/index_000004.htm)  
-[Will power & Self Discipline](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/index_000006.htm)
+[Mind Power](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/mind_power.htm)  
+[Self Improvement](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/index_000043.htm)  
+[Power of Concentration](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/index_000004.htm)  
+[Will power & Self Discipline](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/index_000006.htm)
 
 * * *
 
-[Motivation](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/motivation.htm)  
-[Law of Attraction](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/law-of-attraction.htm)  
-[Creative Visualization](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/index_000008.htm)  
-[Power of Affirmations](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/index_00000a.htm)  
-[Power of Positive Thinking](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/index_000009.htm)  
-[Success & Achieving Goals](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/achieving_your_goals.htm)
+[Motivation](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/motivation.htm)  
+[Law of Attraction](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/law-of-attraction.htm)  
+[Creative Visualization](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/index_000008.htm)  
+[Power of Affirmations](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/index_00000a.htm)  
+[Power of Positive Thinking](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/index_000009.htm)  
+[Success & Achieving Goals](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/achieving_your_goals.htm)
 
 * * *
 
-[Meditation](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/meditation.htm)  
-[Happiness](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/index_000065.htm)  
-[Nonduality](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/spirituality_nonduality.htm)  
-[Peace of Mind](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/peace_mind.htm)  
-[Spiritual Growth](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/spiritual_growth.htm)
+[Meditation](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/meditation.htm)  
+[Happiness](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/index_000065.htm)  
+[Nonduality](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/spirituality_nonduality.htm)  
+[Peace of Mind](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/peace_mind.htm)  
+[Spiritual Growth](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/spiritual_growth.htm)
 
 * * *
 
-[Free Articles](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/free_articles.htm)  
-[Inspiring Quotes](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/quotes.htm)  
-[Inspiring Stories](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/index_000020.htm)
+[Free Articles](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/free_articles.htm)  
+[Inspiring Quotes](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/quotes.htm)  
+[Inspiring Stories](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/index_000020.htm)
 
 * * *
 
-[Bookstore](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/books.htm)  
-[Advertising](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/advertising.htm)  
-[Marketplace](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/marketplace/directory.htm)  
-[Privacy Policy](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/privacy.htm)  
-[Affiliate Program](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/affiliate.htm)
+[Bookstore](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/books.htm)  
+[Advertising](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/advertising.htm)  
+[Marketplace](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/marketplace/directory.htm)  
+[Privacy Policy](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/privacy.htm)  
+[Affiliate Program](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/affiliate.htm)
 
 * * *
 
-[Links](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/links.htm)  
-[Free eBooks](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/free_ebooks.htm)  
-[About This Web Site](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/about_website.htm)  
-[Sign Our Guest Book](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/guestbook.htm)  
+[Links](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/links.htm)  
+[Free eBooks](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/free_ebooks.htm)  
+[About This Web Site](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/about_website.htm)  
+[Sign Our Guest Book](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/guestbook.htm)  
 
 
 | 
 
-[Home](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/index.htm)  |   [About Us](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/about.htm)  |   [Our Books](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/ebooks_and_books.htm)  |   [Site Map](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/sitemap.htm)  |  [Contact](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/contact_us/contact.php)  |   [](https://www.2checkout.com/2co/buyer/purchase?sid=33261) [Cart](https://www.2checkout.com/2co/buyer/purchase?sid=33261)   |   [Search](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/search.htm)
+[Home](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/index.htm)  |   [About Us](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/about.htm)  |   [Our Books](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/ebooks_and_books.htm)  |   [Site Map](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/sitemap.htm)  |  [Contact](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/contact_us/contact.php)  |   [](https://www.2checkout.com/2co/buyer/purchase?sid=33261) [Cart](https://www.2checkout.com/2co/buyer/purchase?sid=33261)   |   [Search](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/search.htm)
 
 Privacy Policy and Terms of Use
 
@@ -133,17 +133,17 @@ The Daily Quote
 
 
 [](http://www.successconsciousness.com/blog/feed) [Blog](http://www.successconsciousness.com/blog)  
-[Forum](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/cgi-bin/forum/sc/Blah.pl)  
-[](http://www.successconsciousness.com/ezines/rss/inner_powers_rss.xml) [Free Ezine](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/ezine.htm)  
-[What is Rss](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/rss.htm)  
-[Ezine Archive](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/ezines/index_page.htm)  
-[Guest Authors](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/guest_articles/contents.htm)  
+[Forum](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/cgi-bin/forum/sc/Blah.pl)  
+[](http://www.successconsciousness.com/ezines/rss/inner_powers_rss.xml) [Free Ezine](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/ezine.htm)  
+[What is Rss](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/rss.htm)  
+[Ezine Archive](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/ezines/index_page.htm)  
+[Guest Authors](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/guest_articles/contents.htm)  
 
 
   
 
 
-[Tell-A-Friend](https://web.archive.org/web/20080512000202id_/http%3A//www.successconsciousness.com/tell_a_friend.htm)  
+[Tell-A-Friend](https://web.archive.org/web/20081218082444id_/http%3A//www.successconsciousness.com/tell_a_friend.htm)  
   
 ---|---|---  
   
