@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teagasc.ie privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626021926id_/http%3A//www.teagasc.ie/aboutus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teagasc.ie privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218121301id_/http%3A//www.teagasc.ie/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Teagasc - Privacy Statement
 
@@ -16,7 +16,7 @@ Teagasc does not collect any personal data about you on this website, apart from
 
 ## Collection and Use of Technical Information
 
-[Teagasc does not use cookies to identify your personal information or to detect your subsequent visits to our website. ](http://www.microsoft.com/info/cookies.htm)
+[ Teagasc does not use cookies to identify your personal information or to detect your subsequent visits to our website. ](http://www.microsoft.com/info/cookies.htm)
 
 Technical details in connection with visits to this website are logged in the website log files for statistical purposes. No information is collected that could be used by us to identify website visitors. The technical details logged may include the following items:
 
@@ -42,4 +42,4 @@ Carlow
 Ph: 059 9170200  
 Fax: 059 9182097
 
-Email: [info@hq.teagasc.ie](mailto:info@hq.teagasc.ie)
+Email: [info@teagasc.ie](mailto:info@teagasc.ie)
