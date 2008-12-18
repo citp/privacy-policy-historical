@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bidorbuy.co.za privacy policy that was archived on 2008-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080629072137id_/http%3A//www.bidorbuy.co.za/static/help/PrivacyPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bidorbuy.co.za privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218165248id_/http%3A//www.bidorbuy.co.za/static/help/PrivacyPolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
   <title>Privacy Policy</title>
@@ -8,9 +8,10 @@
   <meta name="Content-Language" content="en-za">
   <meta name="MSSmartTagsPreventParsing" content="true">
   <meta name="robots" content="index,follow,all">
-  <link rel="shortcut icon" href="favicon.ico">
-  <link rel="stylesheet" type="text/css" href="/html/css/bobe_008.css">
-	
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" type="text/css" href="/html/css/bobe_014.css">
+		
   <meta name="description" content="Privacy Policy">
   <meta name="keywords" content="online shopping, South Africa, auction, auctions, online auction, bid, buy, sell, arts, collectibles, auto, cars, boating, cellular, phone, computers, dine, wine, electronics, photography, game, agriculture, household, office, jewellery, movies, music, entertainment, property, sport, hobbies, travel, stamps, coins, collectibles, bargain, cheap">
 </head>
@@ -33,144 +34,124 @@
 
 
 
-		<script language="javascript" type="text/javascript">
-		<!--
-		function setCookie(name,value,days) {
-				var date = new Date();
-				date.setTime(date.getTime()+(days*24*60*60*1000));
-				var expires = "; expires="+date.toGMTString();
 
-			document.cookie = name+"="+value+expires+"; path=/; domain=.bidorbuy.co.za";
-		}
+<script language="javascript" type="text/javascript">
+<!--
+  function setCookie(name,value,days) {
+    var date = new Date();
+    date.setTime(date.getTime()+(days*24*60*60*1000));
+    var expires = "; expires="+date.toGMTString();
+    document.cookie = name+"="+value+expires+"; path=/; domain=.bidorbuy.co.za";
+  }
 
-		function getCookie(name) {
-			var nameEQ = name + "=";
-			var ca = document.cookie.split(';');
-			for(var i=0;i < ca.length;i++) {
-				var c = ca[i];
-				while (c.charAt(0)==' ') c = c.substring(1,c.length);
-				if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-			}
-			return null;
-		}
+  function getCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0;i < ca.length;i++) {
+      var c = ca[i];
+      while (c.charAt(0)==' ') c = c.substring(1,c.length);
+      if (c.indexOf(nameEQ) == 0) {
+        var cookieValue = c.substring(nameEQ.length,c.length);
+        if(cookieValue==null || cookieValue=="''" || cookieValue=='""' || cookieValue=='') {
+          return null;
+        }
+        else {
+          return cookieValue;
+        }
+      }
+    }
+    return null;
+  }
 
-		var countLoginCookie = getCookie('loginId');
-		var loginText = null;
-		var loginURL = null;
-		var joinNowText = "";
-		var joinNowURL = "";
-		var closeLink = "<\/a>";
-		if (countLoginCookie==null || countLoginCookie=="''" || countLoginCookie=='""' || countLoginCookie=='')
-		{
-		  loginText = "Login";
-		  loginURL = "<A href=http://www.bidorbuy.co.za/jsp/my/MyMain.jsp>";
-		  joinNowText = "Join Now!";
-		  joinNowURL = "<A href=/jsp/registration/UserRegistration.jsp>";
-	    }
-		else
-		{
-		  loginText = "Logout ";
-		  loginURL = "<A href=http://www.bidorbuy.co.za/jsp/login/UserLogout.jsp>";
-		  joinNowText = "";
-		  joinNowURL = "<A href=/jsp/registration/UserRegistration.jsp>";
-		}
+  var loginText = null;
+  var loginURL = null;
+  var joinNowText = "";
+  var joinNowURL = "";
+  var closeLink = "<\/a>";
+  var loginCookie = getCookie('loginId');
+  if (loginCookie==null) {
+    loginText = "Login";
+    loginURL = "<a href='http://www.bidorbuy.co.za/jsp/my/MyMain.jsp' accesskey='l' title='Login Here - Shortcut Access: shift + alt + l' rel='nofollow'>";
+    joinNowText = "Join Now!";
+    joinNowURL = "<a href='/jsp/registration/UserRegistration.jsp'  accesskey='j' title='Join Here! - Shortcut Access: shift + alt + j' rel='nofollow'>";
+  }
+  else {
+    loginText = "Logout ";
+    loginURL = "<a href='http://www.bidorbuy.co.za/jsp/login/UserLogout.jsp' accesskey='l' title='Login Here - Shortcut Access: shift + alt + l' rel='nofollow'>";
+    joinNowText = "";
+    joinNowURL = "<a href='/jsp/registration/UserRegistration.jsp' rel='nofollow'>";
+  }
 
-		if (!(document.referrer.indexOf('.bidorbuy.co.za') > -1)) {
+  if (!(document.referrer.indexOf('.bidorbuy.co.za') > -1)) {
+    var referralString = document.referrer.substring(7,207);
+    var sessionCookie = getCookie('registration')
+    if (!sessionCookie) {
+      if (!referralString)
+        referralString = 'Direct';
 
-			var referralString = document.referrer.substring(7,207);
-			var sessionCookie = getCookie('registration')
-			if (!sessionCookie) {
-				if (!referralString)
-					referralString = 'Direct';
+      setCookie('last_time', referralString, 365)
+      var firstTimeCookie = getCookie('first_time')
+      if (!firstTimeCookie)
+        setCookie('first_time', referralString, 365)
+    }
+  }
 
-				setCookie('last_time', referralString, 365)
-				var firstTimeCookie = getCookie('first_time')
-				if (!firstTimeCookie)
-					setCookie('first_time', referralString, 365)
-			}
-		}
+  function MM_jumpMenu(targ,selObj,restore){ //v3.0
+    eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+    if (restore) selObj.selectedIndex=0;
+  }
+//-->
+</script>
 
-		function MM_jumpMenu(targ,selObj,restore){ //v3.0
-			eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
-			if (restore) selObj.selectedIndex=0;
-		}
-
-		//-->
-		</script>
-
-<table cellpadding="0" cellspacing="0" border="0" width="770">
+<table width="770" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
-    <td class="header_logo" rowspan="2" nowrap="">
-      <a href="/"><img src="/images/site/homepage/bidorbuy_logo.gif" width="219" height="50" border="0" alt="bidorbuy - Online Auctions and Online Shopping."></a><br><font title="bidorbuy - Online Auctions and Online Shopping.">Africa's Largest Online Marketplace</font>
-    </td>
-  
+  <td class="header_logo" nowrap="">
+    <a href="http://www.bidorbuy.co.za/"><img src="/images/site/homepage/bidorbuy_logo.gif" width="219" height="50" border="0" alt="bidorbuy - Online Auctions and Online Shopping."></a><br><font title="bidorbuy - Online Auctions and Online Shopping.">Africa's Largest Online Marketplace</font>
+  </td>
 </tr>
 </tbody></table>
 
 <div id="headerGlobal">
 
-<table width="770" cellpadding="0" cellspacing="0" align="center" border="0">	
-  <tbody><tr id="headerGlobalNav">
+<table width="770" cellpadding="3" cellspacing="0" border="0">	
+  <tbody><tr id="headerGlobalNav" height="25">
     <td id="headerGlobalNavBottom">
-				<table cellpadding="0" cellspacing="0" border="0" width="100%"> 
-					<tbody><tr>
-						<td>
-							<table cellpadding="3" cellspacing="0" border="0">
-								<tbody><tr>
-									<td>
-											<a href="/" title="bidorbuy Home">Home</a> | 
-											<script language="javascript" type="text/javascript">
-													<!--
-													document.write(joinNowURL);
-													document.write(joinNowText);
-													document.write(closeLink);
-													if (joinNowText != '')
-													{
-														document.write(' | ');
-													}
-													document.write(loginURL);document.write(loginText+closeLink+" |");
-													-->
-											</script><a href="/jsp/registration/UserRegistration.jsp">Join Now!</a> | <a href="http://www.bidorbuy.co.za/jsp/my/MyMain.jsp">Login</a> | 
-											<a href="http://www.bidorbuy.co.za/jsp/my/MyMain.jsp" title="My bidorbuy">My bidorbuy</a> | 
-											<script language="javascript" type="text/javascript">
-											<!--
-											var countCartCookie = getCookie('Cart');
-											if (countCartCookie!=null) {
-												
-												document.write('<A href="http://www.bidorbuy.co.za/jsp/cart/Cart.jsp" title="View Cart">View Cart<\/A> |');	
-											
-											}
-											-->
-											</script>
-											
-											<a href="/blog/" title="bidorbuy Blog">Blog</a> |
-
-											<a href="http://forum.bidorbuy.co.za" title="bidorbuy Forum">Forum</a> | 
-
-											<a href="/static/help/affiliateInfo.html" title="Earn extra money! Sign in and join our Affiliate programme">Earn Cash</a> | 
-
-											<a href="/static/help/SellPage.html" title="Auction winners">Start Selling!</a>											
-										</td>
-									</tr>
-							</tbody></table>
-							</td>
-						</tr>
-				</tbody></table>				
+      <a href="http://www.bidorbuy.co.za/" accesskey="h" title="bidorbuy Home - Shortcut Access: shift + alt + h">Home</a> | 
+      <script language="javascript" type="text/javascript">
+      <!--
+        document.write(joinNowURL);
+        document.write(joinNowText);
+        document.write(closeLink);
+        if (joinNowText != '') {
+          document.write(' | ');
+        }
+        document.write(loginURL);document.write(loginText+closeLink+" |");
+      -->
+      </script><a href="/jsp/registration/UserRegistration.jsp" accesskey="j" title="Join Here! - Shortcut Access: shift + alt + j" rel="nofollow">Join Now!</a> | <a href="http://www.bidorbuy.co.za/jsp/my/MyMain.jsp" accesskey="l" title="Login Here - Shortcut Access: shift + alt + l" rel="nofollow">Login</a> | 
+      <a href="http://www.bidorbuy.co.za/jsp/my/MyMain.jsp" onclick="this.href=this.href+'?ts='+(new Date()).getTime(); return true;" accesskey="m" title="My bidorbuy - Shortcut Access: shift + alt + m" rel="nofollow">My bidorbuy</a> | 
+      <a href="http://www.bidorbuy.co.za/blog/" accesskey="b" title="bidorbuy Blog - Shortcut Access: shift + alt + b">Blog</a> |
+      <a href="http://forum.bidorbuy.co.za" accesskey="f" title="bidorbuy Forum - Shortcut Access: shift + alt + f">Forum</a> |
+      <a href="http://www.bidorbuy.co.za/static/help/affiliateInfo.html" accesskey="a" title="Earn extra money! Sign in and join our Affiliate programme - Shortcut Access: shift + alt + a" rel="nofollow">Affiliates</a> |
+      <a href="http://www.bidorbuy.co.za/static/help/SellPage.html" accesskey="s" title="Start Selling! - Shortcut Access: shift + alt + s" rel="nofollow">Start Selling!</a>
+      <script language="javascript" type="text/javascript">
+      <!--
+        if (getCookie('ViewedItems')!=null) {
+          document.write(' | <a href="http://www.bidorbuy.co.za/jsp/vieweditems/ViewedItems.jsp" title="Items you\'ve most recently viewed" rel="nofollow">Items you\'ve viewed<\/a>');
+        }
+        if (getCookie('Cart')!=null) {										
+          document.write(' | <a href="http://www.bidorbuy.co.za/jsp/cart/Cart.jsp" accesskey="v" title="View Cart - Shortcut Access: shift + alt + v" rel="nofollow">View Cart<\/a>');
+        }
+      -->
+      </script>
     </td>
-    <td align="left" id="headerGlobalNavBottom">
 
-        &nbsp;|&nbsp;<a href="http://www.bidorbuy.co.za/static/help/Help_Main.html" title="bidorbuy Help">Help</a>		
-
+    <td align="right">
+      <a href="http://www.bidorbuy.co.za/static/help/Help_Main.html" accesskey="q" title="bidorbuy Help - Shortcut Access: shift + alt + q" rel="nofollow">Help</a>		
     </td>
   </tr>
 </tbody></table>
 
 
-
-<table width="770" cellpadding="2" cellspacing="0" border="0" align="center">
-  <tbody><tr>
-    <td class="sfont">
-      
 
 
 
@@ -206,107 +187,99 @@
 //-->
 </script>
 
-<span class="dfont">
-  <form name="HeaderMenuSearchForm" method="post" action="/jsp/tradesearch/TradeSearch.jsp" onsubmit="return checkHeaderMenuSearchForm();" class="dfont" style="margin: 0">
-    <input type="hidden" name="mode" value="execute">
-    <input type="hidden" name="ParameterSource" value="HeaderMenuTradeSearch">
-    <b>Search</b>
-    <select name="CategoryId" class="dfont">
-      <option value="1">All Categories</option>
-      <option value="">------------------------</option>
-      
-        <option value="102">Antiques &amp; Collectables</option>
-      
-        <option value="2548">Art</option>
-      
-        <option value="131">Bikes &amp; Boats</option>
-      
-        <option value="105">Books &amp; Education</option>
-      
-        <option value="2860">Business Opportunities</option>
-      
-        <option value="2708">Camping &amp; Outdoors</option>
-      
-        <option value="134">Cars</option>
-      
-        <option value="145">Cellular Phones</option>
-      
-        <option value="2704">Clothing &amp; Accessories</option>
-      
-        <option value="2702">Coins &amp; Notes</option>
-      
-        <option value="107">Computers</option>
-      
-        <option value="2440">Crafts</option>
-      
-        <option value="122">Electronics</option>
-      
-        <option value="2640">Events &amp; Charity Auctions</option>
-      
-        <option value="3500">Food &amp; Beverage</option>
-      
-        <option value="2705">Gaming</option>
-      
-        <option value="2661">Garden &amp; Pets</option>
-      
-        <option value="2530">Gemstones</option>
-      
-        <option value="2520">Health &amp; Beauty</option>
-      
-        <option value="2710">Hobbies</option>
-      
-        <option value="3020">Holistic &amp; Esoteric</option>
-      
-        <option value="123">Household &amp; Office</option>
-      
-        <option value="622">Jewellery &amp; Watches</option>
-      
-        <option value="2751">Memorabilia</option>
-      
-        <option value="3701">Militaria</option>
-      
-        <option value="2706">Movies &amp; Television</option>
-      
-        <option value="2707">Music &amp; Instruments</option>
-      
-        <option value="2540">Photography</option>
-      
-        <option value="139">Property</option>
-      
-        <option value="3562">Rocks &amp; Minerals</option>
-      
-        <option value="104">Sport</option>
-      
-        <option value="3700">Stamps</option>
-      
-        <option value="2709">Tools &amp; Equipment </option>
-      
-        <option value="2703">Toys &amp; Toddlers</option>
-      
-        <option value="101">Travel</option>
-      
-        <option value="2740">Unusual</option>
-      
-        <option value="2460">Wholesale &amp; Bulk Lots</option>
-      
-        <option value="2666">X- Rated Adult Material</option>
-      
-    </select>
-    for
-    <input type="text" size="30" class="dfont" name="IncludedKeywords" value="">
-    <input type="submit" value="Go" class="dfont">
-    &nbsp;&nbsp;&nbsp;
-    <a href="http://www.bidorbuy.co.za/jsp/tradesearch/TradeSearch.jsp">Advanced&nbsp;Search</a>
-  </form>
-</span>
+<table width="770" cellpadding="2" cellspacing="0" border="0" align="center">
+<form name="HeaderMenuSearchForm" method="post" action="/jsp/tradesearch/TradeSearch.jsp" onsubmit="return checkHeaderMenuSearchForm();" style="margin: 0"></form>
+<tbody><tr><td>
+  <input type="hidden" name="mode" value="execute">
+  <input type="hidden" name="ParameterSource" value="HeaderMenuTradeSearch">
+  <b>Search for</b>
+  <input type="text" size="30" name="IncludedKeywords" value="">
+  &nbsp;<b>in</b>&nbsp;
+  <select name="CategoryId">
+    <option value="1">All Categories</option>
+    <option value="">------------------------</option>
+    
+      <option value="102">Antiques &amp; Collectables</option>
+    
+      <option value="2548">Art</option>
+    
+      <option value="2703">Baby</option>
+    
+      <option value="131">Bikes, Boats &amp; Other Vehicles</option>
+    
+      <option value="105">Books &amp; Education</option>
+    
+      <option value="2860">Business, Farming &amp; Industry</option>
+    
+      <option value="134">Cars &amp; Car Parts</option>
+    
+      <option value="145">Cell Phones &amp; PDAs</option>
+    
+      <option value="2704">Clothing, Shoes &amp; Accessories</option>
+    
+      <option value="2702">Coins &amp; Notes</option>
+    
+      <option value="107">Computers</option>
+    
+      <option value="5380">Crafts</option>
+    
+      <option value="122">Electronics</option>
+    
+      <option value="5164">Gaming</option>
+    
+      <option value="2661">Garden &amp; Pets</option>
+    
+      <option value="2530">Gemstones &amp; Rocks</option>
+    
+      <option value="2520">Health &amp; Beauty</option>
+    
+      <option value="3020">Holistic &amp; Esoteric</option>
+    
+      <option value="123">Home &amp; Living</option>
+    
+      <option value="622">Jewellery &amp; Watches</option>
+    
+      <option value="3701">Militaria</option>
+    
+      <option value="2706">Movies &amp; Television</option>
+    
+      <option value="2707">Music &amp; Instruments</option>
+    
+      <option value="2540">Photography</option>
+    
+      <option value="139">Property</option>
+    
+      <option value="104">Sport &amp; Leisure</option>
+    
+      <option value="3700">Stamps</option>
+    
+      <option value="2440">Toys &amp; Hobbies</option>
+    
+      <option value="101">Travel &amp; Entertainment</option>
+    
+      <option value="2740">Unusual</option>
+    
+      <option value="2460">Wholesale &amp; Bulk Lots</option>
+    
+      <option value="2666">X- Rated Adult Material</option>
+    
+      <option value="5121">Articles</option>
+    
+      <option value="5202">Deleted</option>
+    
+  </select>
+  <input type="submit" value="Go">
+  &nbsp;&nbsp;&nbsp;
+  <a href="http://www.bidorbuy.co.za/jsp/tradesearch/TradeSearch.jsp" title="Advanced Search" rel="nofollow">Advanced&nbsp;Search</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="http://www.bidorbuy.co.za/jsp/tradesearch/PopularSearches.jsp" title="Popular Searches">Popular&nbsp;Searches</a>
 
-    </td>
-  </tr>
+</td></tr>
 </tbody></table>
 
 
-
 </div>
+
 
 
 
@@ -337,7 +310,7 @@
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
 <tbody><tr> 
 <td> 
-<center><span class="bodytxt">This Privacy Statement was last revised on 20 July 2001. </span>
+<center><span class="bodytxt">This Privacy Statement was last revised on 5 August 2008. </span>
 </center></td>
 </tr>
 </tbody></table>
@@ -362,6 +335,7 @@ This privacy statement discloses the privacy practices for the <b>bidorbuy.co.za
 <p><span class="bodytxt">We will also collect financial information about you if you choose to bid for certain goods and services on our site, if you sell on our site, and also as set out in the <u><a href="/static/help/TermsandConditions.html">Terms and Conditions of Use of this Site</a></u>.&nbsp; We do charge fees for selling, and your payment information will be used to charge you accordingly.&nbsp; We may pass your payment information onto recognised partners in certain cases, such as for charging you for selling and in those auctions where the services of shipping and delivery or fulfilment companies are offered to our users, but only in cases where our users have requested those services from us. Other information that we collect is outlined below.</span></p>
 <p class="medhed"><b>Registration&nbsp;</b></p>
 <p><span class="bodytxt">In order to use our site, you must first complete the registration form.&nbsp; When you register we collect personal information such as your name, address, email address, telephone and fax numbers.&nbsp; This information is used to contact you about the services on our site for which you have expressed interest.&nbsp; We also collect additional information (such as “How did you hear about us?”, your interests), and unique identifiers (such as your company name and VAT number, if applicable).&nbsp; All information that is mandatory is made known on the registration form and is necessary to complete the registration process. You are encouraged to provide the additional, optional information specified on the registration form so we can provide you with a more personalized experience on our site.&nbsp;</span></p>
+<p><span class="bodytxt">We may, at our sole discretion, request additional personal information from you. You may be required to confirm such details as your identity, address and contact information for security and verification reasons. This information may include copies of ID documents, passports, utility bills, licenses, rights to sell or distribute a particular item or product, legal or financial documentation, or any other documentation related to your use of this website (but not limited to this).&nbsp;</span></p>
 <p><span class="medhed"><b>Cookies&nbsp;</b></span></p>
 <p><span class="bodytxt">A Cookie is a small data file that your browser writes to your own computer’s hard drive in order to remember certain information and is linked to some personally identifiable information while on our site.&nbsp; Cookies are used to store your Handle and Password so that you don’t need to type these in each time you log in or make a bid, thereby saving time whilst on our site.&nbsp; If you reject cookies, you may still browse our site. However, in order to log in and bid or sell, cookies are required to be turned on.&nbsp;</span></p>
 <p><span class="bodytxt">There are two sorts of cookies used on our site: session cookies and persistent cookies. &nbsp; Once you close your browser, the session cookie simply terminates, whereas the persistent cookie remains to enable us to track and target your interests to enhance your experience on our site.&nbsp;</span></p>
@@ -443,6 +417,7 @@ This privacy statement discloses the privacy practices for the <b>bidorbuy.co.za
 
 
 
+
   
 
 
@@ -467,18 +442,44 @@ This privacy statement discloses the privacy practices for the <b>bidorbuy.co.za
 <hr size="1" noshade="">
 
 <p class="sfont">
-<a href="/" title="bidorbuy HOME">HOME</a> | <a href="https://www.bidorbuy.co.za/jsp/registration/UserRegistration.jsp" title="JOIN bidorbuy">JOIN</a> | <a href="http://www.bidorbuy.co.za/jsp/my/MyMain.jsp" title="My bidorbuy">My bidorbuy</a> | <a href="http://www.bidorbuy.co.za/static/help/affiliateInfo.html" title="bidorbuy Affiliate Programme">Affiliate Programme</a> | <a href="/static/help/tradeBroker.html" title="bidorbuy Trade Broker">Trade Broker</a> | <a href="http://www.bidorbuy.co.za/jsp/seller/seminar/SellingSeminar.jsp" title="bidorbuy Selling Seminar">Selling Seminar</a> | <a href="http://www.bidorbuy.co.za/jsp/tradesearch/TradeSearch.jsp" title="bidorbuy SEARCH">SEARCH</a> | <a href="/static/help/pressrelease/pressReleaseInfo.html" title="bidorbuy Press Releases &amp; Articles">Press Releases &amp; Articles</a> | <a href="/static/help/Help_Main.html" title="bidorbuy HELP">HELP</a><br>
-<a href="/static/help/AboutUs.html" title="bidorbuy about us">about us</a> | <a href="/static/Winners.html" title="bidorbuy auction winners">auction winners</a> | <a href="/static/WhatsNew.html" title="bidorbuy what's new?">what's new?</a> | <a href="/static/WhatsHot.html" title="bidorbuy what's hot?">what's hot?</a> | <a href="/static/ClosingSoon.html" title="bidorbuy items ending soon">ending soon</a> | <a href="/static/CategoryMap.html" title="bidorbuy category map">category map</a><!--  | <a href="/static/CompWinners.html">prize winners</a> --> | <a href="http://www.bidorbuy.co.za/jsp/login/UserLogout.jsp" title="bidorbuy logout">logout</a> | <a href="http://www.bidorbuy.co.za/jsp/header/BidorbuyTime.jsp" title="bidorbuy time">bidorbuy time</a> | <a href="/blog/" title="bidorbuy Blog">bidorbuy Blog</a> | <a href="http://forum.bidorbuy.co.za/" title="bidorbuy Forum">bidorbuy Forum</a></p>
-
-<p class="sfont">
-Copyright 1999-2008 <a href="/" title="bidorbuy South Africa Online Auctions. Bid, Buy or Sell new and used cameras, computers, diamonds, coins, cars and more on auction at cheap prices participating in a fun and exciting secure online shopping experience.">bidorbuy.co.za</a> <a href="/" title="South Africa's biggest online auction site">South Africa</a>, All Rights Reserved | <a href="/static/help/TermsandConditions.html" title="bidorbuy Terms &amp; Conditions">Terms</a> | <a href="/static/help/PrivacyPolicy.html" title="bidorbuy Privacy Policy">Privacy</a> | <a href="http://www.bidorbuy.co.za/jsp/contact/ContactUsWizard.jsp" title="Contact bidorbuy">Contact Us</a><br><a href="/" title="Buy South African">Buy South African</a></p>
-
-<p class="sfont">
-Partner Sites: <a href="http://www.jobs.co.za" title="jobs.co.za">South Africa Jobs Online</a> | <a href="http://www.jump.co.za" title="jump.co.za">Compare Prices</a> | <a href="http://www.theclassifieds.co.za" title="theclassifieds.co.za">The Classifieds</a>
+<a href="http://www.bidorbuy.co.za/" title="Home" rel="nofollow">Home</a> |
+<a href="https://www.bidorbuy.co.za/jsp/registration/UserRegistration.jsp" title="Join" rel="nofollow">Join</a> |
+<a href="http://www.bidorbuy.co.za/jsp/my/MyMain.jsp" title="My bidorbuy" rel="nofollow">My bidorbuy</a> |
+<a href="http://www.bidorbuy.co.za/static/help/affiliateInfo.html" title="Affiliate Programme" rel="nofollow">Affiliate Programme</a> |
+<a href="http://www.bidorbuy.co.za/static/help/tradeBroker.html" title="Trade Broker" rel="nofollow">Trade Broker</a> |
+<a href="http://www.bidorbuy.co.za/jsp/seller/seminar/SellingSeminar.jsp" title="Selling Seminar" rel="nofollow">Selling Seminar</a> |
+<a href="http://www.bidorbuy.co.za/static/category/Cars_Car_Parts_134.html" title="Cars for Sale">Cars for Sale</a> |
+<a href="http://www.bidorbuy.co.za/jsp/tradesearch/TradeSearch.jsp" title="Search" rel="nofollow">Search</a> |
+<a href="http://www.bidorbuy.co.za/articlelist/5101/Press_Releases" title="Press Releases">Press Releases</a> |
+<a href="http://www.bidorbuy.co.za/articlelist/1/Articles" title="Articles"> Articles</a> |
+<a href="http://www.bidorbuy.co.za/static/help/Help_Main.html" title="Help" rel="nofollow">Help</a>
+<br>
+<a href="http://www.bidorbuy.co.za/static/help/AboutUs.html" title="About Us" rel="nofollow">About Us</a> |
+<a href="http://www.bidorbuy.co.za/static/Winners.html" title="Items Sold" rel="nofollow">Items Sold</a> |
+<a href="http://www.bidorbuy.co.za/static/WhatsNew.html" title="What's New?" rel="nofollow">What's New?</a> | 
+<a href="http://www.bidorbuy.co.za/static/WhatsHot.html" title="What's Hot?" rel="nofollow">What's Hot?</a> | 
+<a href="http://www.bidorbuy.co.za/static/ClosingSoon.html" title="Ending Soon" rel="nofollow">Ending Soon</a> | 
+<a href="http://www.bidorbuy.co.za/static/CategoryMap.html" title="Category Map" rel="nofollow">Category Map</a> |
+<a href="http://www.bidorbuy.co.za/jsp/login/UserLogout.jsp" title="Logout" rel="nofollow">logout</a> |
+<a href="http://www.bidorbuy.co.za/jsp/header/BidorbuyTime.jsp" title="bidorbuy Time" rel="nofollow">bidorbuy Time</a> |
+<a href="http://www.bidorbuy.co.za/blog/" title="bidorbuy Blog" rel="nofollow">bidorbuy Blog</a> | <a href="http://forum.bidorbuy.co.za/" title="bidorbuy Forum" rel="nofollow">bidorbuy Forum</a>
 </p>
-<p>
 
-</p></td>
+<p class="sfont">
+Copyright 1999-2008 bidorbuy.co.za South Africa, All Rights Reserved |
+<a href="http://www.bidorbuy.co.za/static/help/TermsandConditions.html" title="bidorbuy Terms &amp; Conditions" rel="nofollow">Terms</a> |
+<a href="http://www.bidorbuy.co.za/static/help/PrivacyPolicy.html" title="bidorbuy Privacy Policy" rel="nofollow">Privacy</a> |
+<a href="http://www.bidorbuy.co.za/jsp/contact/ContactUsWizard.jsp" title="Contact bidorbuy" rel="nofollow">Contact Us</a>
+</p>
+
+<p class="sfont">
+Partner Sites:
+<a href="http://www.jobs.co.za" title="Jobs.co.za" rel="nofollow">Jobs.co.za</a> |
+<a href="http://www.jump.co.za" title="Jump.co.za" rel="nofollow">Jump.co.za</a> |
+<a href="http://www.theclassifieds.co.za" title="TheClassifieds.co.za" rel="nofollow">TheClassifieds.co.za</a> |
+<a href="http://www.privateproperty.co.za/" title="PrivateProperty.co.za" rel="nofollow">PrivateProperty.co.za</a>
+</p>
+</td>
 </tr>
 </tbody></table>
 
@@ -486,7 +487,7 @@ Partner Sites: <a href="http://www.jobs.co.za" title="jobs.co.za">South Africa J
   <table align="center" width="770" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 	  <td align="left" class="bobe-small-font"><small>&nbsp;</small></td>
-	  <td align="right" class="bobe-small-font"><small>Sun, Jun 29, 2008 01:00 AM</small></td>
+	  <td align="right" class="bobe-small-font"><small>Thu, Dec 18, 2008 01:00 AM</small></td>
 	</tr>
 </tbody></table>
 
@@ -495,8 +496,16 @@ Partner Sites: <a href="http://www.jobs.co.za" title="jobs.co.za">South Africa J
 
 
 <!-- START Google Analytics -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">_uacct = "UA-2255658-1";urchinTracker();</script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2255658-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 <!-- END Google Analytics -->
 
 <!-- Page Execution 2 ms. -->
