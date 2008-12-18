@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the nps.gov privacy policy that was archived on 2008-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080511222802id_/http%3A//www.nps.gov/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nps.gov privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218120042id_/http%3A//www.nps.gov/privacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- Content Copyright National Park Service --><!-- JavaScript & DHTML Code Copyright 1998-2005 PaperThin, Inc.  All rights reserved --><head> <title>U.S. National Park Service Privacy Statement</title> <meta name="Description" id="Description" content="Privacy Statement">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- Content Copyright National Park Service --><!-- JavaScript & DHTML Code Copyright 1998-2005 PaperThin, Inc.  All rights reserved --><head> <title>Privacy Statement</title> <meta name="Description" id="Description" content="Privacy Statement">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="Keywords" id="Keywords" content="Acadia National Park, National Park Service, park information">
 <meta name="Generator" id="Generator" content="CommonSpot Content Server Release 4.6.1.16">
@@ -146,25 +146,182 @@
 		left: 0px;
 		}
 	</style>
-<link rel="stylesheet" href="/commonspot/commonspot.css" type="text/css"><script type="text/javascript" language="JavaScript">
-
-var gShowKeywords = 0;
-var gHaveKeywords = 0;
-
-var js_userID=0;
-
-</script></head>
- 
-
-<!-- --> <body onload="onLoadFinished();" lang="en" bgcolor="#FFFFFF" style="margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;"><script type="text/javascript" language="JavaScript">
+<link rel="stylesheet" href="/commonspot/commonspot.css" type="text/css"></head>
+ <body lang="en" bgcolor="#FFFFFF" style="margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;"><script type="text/javascript" language="JavaScript">
 document.CS_StaticURL = "http://www.nps.gov/";
 document.CS_DynamicURL = "http://www.nps.gov/";
-</script><a name="__topdoc__"></a><!-- --><script src="/commonspot/pagemode/always-include-common.js" type="text/javascript" language="JavaScript"></script><script src="/commonspot/pagemode/always-include-ie.js" type="text/javascript" language="JavaScript"></script>
+</script><a name="__topdoc__"></a><!-- --><script src="/commonspot/pagemode/always-include-common.js" type="text/javascript" language="JavaScript"></script><script type="text/javascript" language="JavaScript">
+		// always-include-ie.js  Copyright 1998-2005 PaperThin, Inc. All rights reserved.
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
+var bCanRollover=0;
+if (bName == "Netscape")
+{
+	if(bVer >= 3)
+		bCanRollover=1;
+}
+else if (bName == "Microsoft Internet Explorer")
+{
+	if(bVer >= 4)
+		bCanRollover=1;
+}
+function ImageSet(imgID,newTarget)
+{
+	if (bCanRollover)
+		document[imgID].src=newTarget;
+}
+function clearStatus()
+{
+	window.status = "";
+}
+function setStatbar(statbar)
+{
+	var strStatbar=unescape(statbar);
+	window.status=strStatbar;
+}
+function onLoadComplete()
+{
+	if( menus_included == 1 )
+		document.onmouseover = document_mouseover;	// defined in menu_ie.js
+}
+function HandleLink(parentID,link,displaylink) 
+{
+	// links are in one of the following formats:
+	// 		cpe_60_0,CP___PAGEID=100
+	// 		CPNEWWIN:WindowName^params@CP___
+	// 			CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+	// displaylink is the server relative URL or fully qualified URL
+	if( jsPageAuthorMode == 0 )
+	{
+		windowname = "";
+		windowparams = "";
+		// "CPNEWWIN:" & NewWindowName & "^" & params & "@" & linkStruct.LinkURL; 
+		pos = link.indexOf("CPNEWWIN:");
+		if (pos != -1)
+		{
+			pos1 = link.indexOf ("^");
+			windowname = link.substring (pos+9, pos1);
+			pos2 = link.indexOf ("@");
+			windowparams = link.substring (pos1 + 1, pos2);
+			link = link.substring (pos2 + 1, link.length);
+		}
+		
+		if( displaylink && displaylink != "" )
+		{		
+			if (windowname == "")
+				window.location = displaylink;
+			else
+			{
+				windowparams = FormatWindowParams(windowparams);
+				window.open (displaylink, windowname, windowparams);
+			}
+		}
+		else
+		{
+			targetLink = link;
+			if (link.indexOf ("CP___") != -1)
+			{
+				httpPos = -1;
+				commaPos = link.indexOf(",");
+				if (commaPos != -1)
+				{
+					targetUrl = link.substr(commaPos + 1);
+					if (targetUrl.indexOf("://") != -1 || targetUrl.indexOf("/") == 0)
+					{
+							httpPos = commaPos + 1;
+					}		
+				}
+					
+				if (httpPos != -1)
+				{
+					targetLink = link.substr(httpPos);
+					commaPos = targetLink.indexOf(",");
+					if (commaPos != -1)
+						targetLink = targetLink.substr(0, commaPos);
+				}
+				else
+					targetLink = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
+				
+				if (windowname == "")
+					window.location = targetLink;
+				else
+				{
+					windowparams = FormatWindowParams(windowparams);
+					window.open (targetLink, windowname, windowparams);
+				}
+			}
+			else
+			{
+				commaPos = link.indexOf(",");
+				if (commaPos != -1)
+					link = link.substr(0, commaPos);
+				if (windowname == "")
+					window.location = link;
+				else
+				{
+					windowparams = FormatWindowParams(windowparams);
+					window.open (link, windowname, windowparams);
+				}
+			}
+		}
+	}
+	else if( jsSessionPreviewON == 1 )
+	{
+		previewLink(link);
+	}
+	else
+	{
+		if( document.all[parentID] )
+			document.all[parentID].click();
+	}
+}
+function doWindowOpen(href,name,params)
+{
+	window.open (href, name, params);
+}
+// 	CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+function FormatWindowParams(windowparams)
+{
+	if( windowparams.indexOf(":loc=") != -1 || windowparams.indexOf(":ww=") != -1 || windowparams.indexOf(":hh=") != -1 || 
+	    windowparams.indexOf(":left=") != -1 || windowparams.indexOf(":top=") != -1 )
+	{
+		windowparams = substringReplace(windowparams,':left=',',left=');
+		windowparams = substringReplace(windowparams,'left=','left=');
+		windowparams = substringReplace(windowparams,':ww=',',width=');
+		windowparams = substringReplace(windowparams,'ww=','width=');		
+		windowparams = substringReplace(windowparams,':hh=',',height=');
+		windowparams = substringReplace(windowparams,'hh=','height=');
+		windowparams = substringReplace(windowparams,':loc=',',location=');
+		windowparams = substringReplace(windowparams,'loc=','location=');
+		windowparams = substringReplace(windowparams,':dir=',',directories=');
+		windowparams = substringReplace(windowparams,'dir=','directories=');
+		windowparams = substringReplace(windowparams,':tb=',',toolbar=');
+		windowparams = substringReplace(windowparams,'tb=','toolbar=');
+		windowparams = substringReplace(windowparams,':stat=',',status=');
+		windowparams = substringReplace(windowparams,':mb=',',menubar=');
+		windowparams = substringReplace(windowparams,':sb=',',scrollbars=');
+		windowparams = substringReplace(windowparams,':rs=',',resizable=');
+	}
+	return windowparams;
+}
+function substringReplace(source,pattern,replacement)
+{
+	var pos = 0;
+	var target="";
+	while ((pos = source.indexOf(pattern)) != (-1))
+	{
+		target = target + source.substring(0,pos) + replacement;
+		source = source.substring(pos+pattern.length);
+		pos = source.indexOf(pattern);
+	}
+	return (target + source);
+}
+		</script>
 	<script type="text/javascript" language="JavaScript">
 	function glblLinkHandler(lobj, attr, val)
 	{
 	
-		lobj.style[attr] = val;
+		return;
 	
 	}
 	function onLoadFinished()
@@ -181,7 +338,7 @@ document.CS_DynamicURL = "http://www.nps.gov/";
 		
 		<div id="statTrackingScriptContainer" style="display:none;">
 			
-			<script language="JavaScript" src="/pwr/templates/js/s_code.js"></script><img name="s_i_npsdev" height="1" width="1" border="0" alt="" src="https://stats.nps.gov/b/ss/npsdev/1/H.9-Pdvu-2/s82042644634619?[AQB]&amp;ndh=1&amp;t=30/0/2020%202%3A22%3A2%204%200&amp;ns=nationalparksservice&amp;cl=Session&amp;pageName=/web/20080511222802id_/http%253A//www.nps.gov/privacy.htm&amp;g=https%3A//web.archive.org/web/20080511222802id_/http%253A//www.nps.gov/privacy.htm&amp;cc=USD&amp;server=pwr&amp;events=event1&amp;v2=/web/20080511222802id_/http%253A//www.nps.gov/privacy.htm&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+			<script language="JavaScript" src="/pwr/templates/js/s_code.js"></script><img name="s_i_npsdev" height="1" width="1" border="0" alt="" src="https://stats.nps.gov/b/ss/npsdev/1/H.9-Pdvu-2/s87602930068301?[AQB]&amp;ndh=1&amp;t=30/0/2020%202%3A22%3A5%204%200&amp;ns=nationalparksservice&amp;cl=Session&amp;pageName=/web/20081218120042id_/http%253A//www.nps.gov/privacy.htm&amp;g=https%3A//web.archive.org/web/20081218120042id_/http%253A//www.nps.gov/privacy.htm&amp;cc=USD&amp;server=pwr&amp;events=event1&amp;v2=/web/20081218120042id_/http%253A//www.nps.gov/privacy.htm&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 			<script language="JavaScript">
 			<!--
 			/* You may give each page an identifying name, server, and channel on the next lines. */
@@ -283,7 +440,6 @@ Our website has many links to our partners, especially other federal agencies. I
 <a id="CPNEWWIN:NewWindow^top=10,left=10,width=500,height=400,toolbar=1,location=1,directories=0,status=1,menubar=1,scrollbars=1,resizable=1@http://www.doi.gov/chprivacy.html|" onmouseover=" return self.status='http://www.doi.gov/chprivacy.html'; " onmouseout=" return self.status=''; " href="javascript:HandleLink('cpe_0_0','CPNEWWIN:NewWindow^top=10,left=10,width=500,height=400,toolbar=1,location=1,directories=0,status=1,menubar=1,scrollbars=1,resizable=1@http://www.doi.gov/chprivacy.html');">Department of Interior Childrens Privacy Statement</a></p>
 		</td></tr>
 		</tbody></table>
-		
 <!-- --></div></td></tr>
 	</tbody></table>	</div>
 	<div class="footerHolder">
@@ -325,4 +481,4 @@ function ImageSet(imgID,newTarget)
 }
 </script><!-- -->
 </div>
-<!-- --><div style="display:block; clear:left; padding:0px; font-family:Verdana,Arial; font-size:10px; color:gray;"></div></body></html>
+<div style="display:block; clear:left; padding:0px; font-family:Verdana,Arial; font-size:10px; color:gray;"></div></body></html>
