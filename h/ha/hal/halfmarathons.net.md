@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halfmarathons.net privacy policy that was archived on 2008-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080504033817id_/http%3A//www.halfmarathons.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halfmarathons.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218202900id_/http%3A//www.halfmarathons.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
