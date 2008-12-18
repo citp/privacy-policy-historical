@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the objectmentor.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026141623id_/http%3A//www.objectmentor.com/privacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the objectmentor.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218105038id_/http%3A//www.objectmentor.com/privacyStatement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -50,5 +50,5 @@ USA
 
 ### By Phone
 
-1-800 338-6716  
+1-847-775-8172  
 
