@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etihadguest.com privacy policy that was archived on 2007-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071112075207id_/http%3A//www.etihadairways.com/etihadairways/global/en/footer/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etihadguest.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218155752id_/http%3A//www.etihadairways.com/etihadairways/global/en/footer/Privacy.htm) for the most accurate reproduction.*
 
 # Etihad Airways: Privacy Policy
 
@@ -52,4 +52,4 @@ You have the right to see personal information we keep about you upon payment of
 **Our policy on "Cookies"     
 **There is a technology called "cookies" which may be used by us to provide you with customised information from Etihad Websites. A cookie is an element of data that a website can send to your browser, which may then store it on your system. Cookies allow us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited and to determine the most popular areas of our website. Cookies also allow us to make Etihad Websites more user-friendly by, for example, allowing us to take you to the language site of last use, so that we can give you a better experience when you return to our website. Most web browsers automatically accept cookies. You do not have to accept cookies, and you should read the information that came with your browser software to see how you can set it up to notify you when you receive a cookie, so you can decide whether to accept it.
 
-If you have any comments or queries in connection with our privacy policy, please [click here](https://www.etihadairways.com/etihadairways/global/en/aboutetihad/corporateprofile/). 
+If you have any comments or queries in connection with our privacy policy, please [click here](http://etihadairways.com/etihadairways/global/en/aboutetihad/corporateprofile/). 
