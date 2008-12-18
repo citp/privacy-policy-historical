@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishnews.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511031047id_/http%3A//www.irishnews.com/privacyst.asp%3Fcatid%3D5834) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishnews.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218234110id_/http%3A//www.irishnews.com/privacyst.asp%3Fcatid%3D5834) for the most accurate reproduction.*
 
 # The Irish News - Online Newspaper for Ireland - irishnews.com
 
