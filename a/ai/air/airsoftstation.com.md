@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the airsoftstation.com privacy policy that was archived on 2008-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080418172344id_/http%3A//www.airsoftstation.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airsoftstation.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218064735id_/http%3A//www.airsoftstation.com/privacypolicy.html) for the most accurate reproduction.*
 
-# AirsoftStation.com
+# Privacy Policy - AirsoftStation.com
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
 
@@ -22,9 +22,11 @@ Email address
 Phone number  
 Credit/Debit Card Information
 
-Privacy Airsoftstation.com respects your privacy. Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of Airsoftstation.com.
+Privacy  
+Airsoftstation.com respects your privacy. Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of Airsoftstation.com.
 
-External Sites. Airsoftstation.com is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
+External Sites.  
+Airsoftstation.com is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
 
 Cookies A "cookie" is a small data text file that is placed in your browser and allows Airsoftstation.com to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and Airsoftstation.com does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as newsfeeds.
 
@@ -32,4 +34,8 @@ Remember The Risks Whenever You Use The Internet While we do our best to protect
 
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
-For any other information email info@airsoftstation.com Phone: 877 386-4958
+Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
+
+For any other information send an email to: [](mailto:)
+
+Or call: 651-705-5258
