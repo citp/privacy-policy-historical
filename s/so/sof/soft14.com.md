@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soft14.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011085037id_/http%3A//www.soft14.com/software_program_000024.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft14.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218184504id_/http%3A//www.soft14.com/software_program_000024.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Soft14.com / Site14.com
 
