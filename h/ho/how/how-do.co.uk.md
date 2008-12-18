@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the how-do.co.uk privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517040756id_/http%3A//www.how-do.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the how-do.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218102356id_/http%3A//www.how-do.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# How-Do - Privacy Policy -
+# Privacy Policy - - How-Do
 
 Before using the Website (that is, any site operated by How-Do) it is your responsibility to read the Privacy Policy. You can notify us in the manner set out below if you do not want us to share information about you with third parties.  
  **  
@@ -80,7 +80,7 @@ If you want further information, or wish to communicate with us about this Priva
 
 How-Do is a company registered in England and Wales under company number 6103268 whose registered office is at Hollins Chambers, 64A Bridge Street, Manchester, M3 3BA, UK.
 
-You can mail us at contact@how-do.co.uk with any comments or for further information. 
+You can mail us at contact@how-do.co.uk with any comments or for further information. **Something to add? Then[leave a comment](http://www.how-do.co.uk/privacy-policy/#commentform) below or [email us now](mailto:contact@how-do.co.uk).**
 
 * * *
 
