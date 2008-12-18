@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegamecollection.net privacy policy that was archived on 2008-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080416193321id_/http%3A//www.thegamecollection.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegamecollection.net privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219000218id_/http%3A//www.thegamecollection.net/extra_info_pages.php%3Fpages_id%3D6) for the most accurate reproduction.*
 
 # gamecollection.net
 
@@ -6,7 +6,7 @@ We will treat all your Personal Information as confidential and are committed to
 
 When you shop on this Website, we will ask you to input and will collect Personal Information from you such as your name, e-mail address, billing address, delivery address, telephone number, product selections, and a password. We may also collect information about which pages of our website that were viewed during your visit and any search terms that you entered on our website. We may collect this information even if you do not register with us. This is purely for statistical purposes to improve our website.
 
-We confirm that any Personal Information which you provide to us will be used only for the following purposes: 
+We confirm that any Personal Information which you provide to us will be used only for the following purposes:
 
   * Processing your orders
   * For statistical purposes to improve this Website and its services to you
@@ -16,7 +16,7 @@ We confirm that any Personal Information which you provide to us will be used on
 
 
 
-When you create a shopping account while ordering online you will be given the option to receive information from TheGameCollection.net by e-mail about products, promotions or special offers which we feel may be of interest to you. In the event that you do not wish to be contacted for such purposes, ensure that you tick the appropriate box as you go through the registration process. You may unsubscribe from our contact list at any time by e-mailing us at unsubscribe@thegamecollection.net.
+When you create a shopping account while ordering online you will be given the option to receive information from TheGameCollection.net by e-mail about products, promotions or special offers which we feel may be of interest to you. In the event that you do not wish to be contacted for such purposes, ensure that you tick the appropriate box as you go through the registration process. You may unsubscribe from our contact list at any time by logging into your account and modifying your E-Mail Notifications.
 
 We will not release your Personal Information to any company outside of TheGameCollection.net for mailing or marketing purposes.
 
