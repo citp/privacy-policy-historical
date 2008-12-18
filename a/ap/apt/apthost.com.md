@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apthost.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512092834id_/http%3A//www.apthost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apthost.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218011915id_/http%3A//www.apthost.com/privacy-policy) for the most accurate reproduction.*
 
 # cPanel Website hosting, FFmpeg Hosting, cPanel Reseller hosting, Dedicated Server Hosting, VPS Hosting by AptHost
 
