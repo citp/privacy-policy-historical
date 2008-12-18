@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccl.org privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616175229id_/http%3A//www.ccl.org/leadership/utilities/privacy.aspx%3FpageId%3D1007) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccl.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218145635id_/http%3A//www.ccl.org./leadership/utilities/privacy.aspx%3FpageId%3D1007) for the most accurate reproduction.*
 
 # Center for Creative Leadership - Privacy Commitment
 
@@ -134,7 +134,7 @@ To remove your email address from our electronic newsletters, please visit the [
 **Contacting the Center for Creative Leadership**  
 If you have any questions about this privacy commitment, you may contact:
 
-| **CCL-North America** | **CCL-Europe** | **CCL-Asia**  
+| **CCL - Americas** | **CCL - Europe, Middle East, Africa** | **CCL - Asia-Pacific**  
 ---|---|---|---  
 **Phone** | +1 336 545 2810 | +32 (0) 2 679 09 10 | +65 6854 6000  
 **Facsimile** | +1 336 282 3284 | +32 (0) 2 673 63 06 | +65 6854 6001  
@@ -142,9 +142,9 @@ If you have any questions about this privacy commitment, you may contact:
 **Mailing Address** | Center for Creative Leadership  
 Attn: Client Services  
 P.O. Box 26300  
-Greensboro, NC 27438-6300 | Center for Creative Leadership - Europe  
+Greensboro, NC 27438-6300 | Center for Creative Leadership - EMEA  
 Avenue de Tervueren 270 Tervurenlaan  
-B- 1150 Brussels, Belgium | Center for Creative Leadership - Asia  
+B- 1150 Brussels, Belgium | Center for Creative Leadership - APAC  
 238A Thomson Road #16-06/08  
 Novena Square Tower A  
 Singapore 307684
