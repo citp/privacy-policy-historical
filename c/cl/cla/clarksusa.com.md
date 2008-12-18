@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clarksusa.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622040724id_/http%3A//clarks.zappos.com/privacy.zhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarksusa.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218073159id_/http%3A//clarks.zappos.com/privacy.zhtml) for the most accurate reproduction.*
 
 # Privacy | Clarks Shoes | Powered by Zappos
 
-  Privacy Policy  
+Privacy Policy  
 ---  
   
   
@@ -101,7 +101,7 @@ The Site incorporates physical, electronic, and administrative procedures to saf
 While Zappos.com uses industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
 
  **OPT OUT/CORRECTIONS**  
-Upon your request, Zappos.com will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section of the Site <http://www.zappos.com/cs.zhtml>, or by telephoning, or emailing your request to Zappos.com's Customer Support department 1-800-624-7463 or:  
+Upon your request, Zappos.com will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section of the Site <http://www.zappos.com/cs.zhtml>, or by telephoning, or emailing your request to Zappos.com's Customer Support department 1-800-943-1633 or:  
   
 Please do not email your credit-card number or other sensitive information.
 
@@ -109,7 +109,7 @@ Please do not email your credit-card number or other sensitive information.
 As you might expect from Zappos.com, the majority of information that we collect is obtained through the Sites, and this Privacy Policy applies only to that online collection of personal information. Zappos.com also collects information offline, where we also try to protect the privacy of you personal information. One example involves someone calling Zappos.com to place an order or to ask questions. When someone calls, we will ask only for the personal information we need in order to place the order or to answer the question. When Zappos.com needs to store information (such as order information), we will enter it into our database through SSL encryption. (See the Data Security section above for more information). Another example involves faxes. If you fax something to Zappos.com, we will act upon the fax and then either store it a locked repository or we will shred the fax if there is no need to retain the information. There are other ways Zappos.com could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Policy doesn't discuss or try to predict all of those methods or uses. As Zappos.com mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
 
  **UPDATES TO THIS POLICY**  
-If Zappos.com changes or updates this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. Zappos.com encourages you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact Zappos.com at 1-800-624-7463 or  
+If Zappos.com changes or updates this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. Zappos.com encourages you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact Zappos.com at 1-800-943-1633 or  
 
 
 Effective July 24, 2006  
