@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicarts.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509192803id_/http%3A//www.musicarts.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicarts.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218093639id_/http%3A//www.musicarts.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Music & Arts Center: About
 
