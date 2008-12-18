@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the php-learn-it.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616013832id_/http%3A//www.php-learn-it.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the php-learn-it.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218100105id_/http%3A//php-learn-it.com/privacy.html) for the most accurate reproduction.*
 
 # PHP Learn It! PHP Cookies
 
