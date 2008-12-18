@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitegrader.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515045429id_/http%3A//www.hubspot.com/privacy-policy/tabid/47008/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitegrader.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218120957id_/http%3A//www.hubspot.com/privacy-policy/tabid/47008/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
