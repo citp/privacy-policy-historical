@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the templatekingdom.com privacy policy that was archived on 2008-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080330125854id_/http%3A//www.templatekingdom.com/Template/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatekingdom.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218085117id_/http%3A//www.templatekingdom.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - TemplateKingdom.com
+# Privacy Policy - Template Kingdom
 
 TemplateKingdom.com (hereafter referred to as TemplateKingdom.com) has created this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users. 
 
