@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myps3.com.au privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527091925id_/http%3A//www.myps3.com.au/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myps3.com.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218143419id_/http%3A//www.myps3.com.au/Privacy.aspx) for the most accurate reproduction.*
 
 # MyPS3 - The Best Australian PlayStation 3 Site
 
@@ -12,7 +12,7 @@ This policy sets out how MyPS3 handles your personal information. It explains th
 
 The information MyPS3 collects from you depends on how and why you access this web site. If you visit the web site to read, browse or download information, our computer system may record information about the visit such as the number of pages visited and the duration of the visit. Such information is only used for web site administration and it is not used to identify you. 
 
-MyPS3 ensures that Personal Information is collected by lawful and fair means with your consent. MyPS3 only collects Personal Information from users during: 
+MyPS3 ensures that personal information is collected by lawful and fair means with your consent. MyPS3 only collects personal information from users during: 
 
   1. **Registration to the web site**
 
@@ -32,8 +32,7 @@ MyPS3 may use your personal information in order to:
   * verify your identity;
   * respond to any queries or feedback you may have;
   * provide, administer and manage our services;
-  * research, develop and improve our services;
-  * gain an understanding of your information and communication needs in order
+  * gain an understanding of your information and communication needs in to improve functionalities and services; 
 
 
 
@@ -43,11 +42,11 @@ Below are more details about how MyPS3 uses your personal information and the sp
 
   1. **Email Newsletters**
 
-Users of MyPS3 are automatically registered to receive newsletters that we offer on a periodic basis. We do this to keep you informed of news, events, special offers, services or products that we believe you will find valuable. If you want to update your email address or stop receiving a newsletter, follow the procedures to unsubscribe at the bottom of any newsletter MyPS3 send you or simply visit the [profile page](https://web.archive.org/web/20080527091925id_/http%3A//www.myps3.com.au/profile.aspx) to update your profile. 
+Users of MyPS3 are automatically registered to receive newsletters that we offer on a periodic basis. We do this to keep you informed of news, events, special offers, services or products that we believe you will find valuable. If you want to update your email address or stop receiving a newsletter, follow the procedures to unsubscribe at the bottom of any newsletter MyPS3 send you or simply visit the [profile page](https://web.archive.org/web/20081218143419id_/http%3A//www.myps3.com.au/profile.aspx) to update your profile. 
 
   2. **Co-registration with Other Sites**
 
-To provide better user experiences, MyPS3 offers its users the ability to co-register with other web sites in the same network, which are 100 percent owned and managed by Silver Software. Currently it includes www.mypsp.com.au, www.mygames.com.au and www.MyPS3.com.au (more sites will be listed in the future). Registered users of MyPS3 are automatically registered as a member of the above-mentioned sites and your personal information will shared by these web sites. . If you wish to cancel your membership with these sites, simply advise MyPS3 administrators via email. 
+To provide better user experiences, MyPS3 offers its users the ability to co-register with other web sites in the same network, which are 100 percent owned and managed by Silver Software. Currently it includes www.mypsp.com.au; www.mygames.com.au; www.mywii.com.au; www.myds.com.au; www.myps3.com.au; www.my360.com.au; www.mytelly.com.au; www.mybuzz.com.au; and www.mybluray.com.au. Registered users of MyPS3 are automatically registered as a member of the above-mentioned sites and your personal information will be shared by these web sites. If you wish to cancel your membership with these sites, simply advise MyPS3 administrators via email. 
 
   3. **Advertisers.**
 
@@ -62,13 +61,13 @@ MyPS3 conducts email and web-delivered surveys from time to time, as well as ins
 
 ## Cookies
 
-Cookies are pieces of information that a website transfers to your computer's memory for record keeping purposes. MyPS3 uses cookies to recognize registered users to the site, allowing those users to speed up their future activities on the sites. Most web browsers are set to accept cookies, but you may configure your browser to reject cookies, although it may interfere with some functionality of the site. 
+Cookies are pieces of information that a website transfers to your computer for record keeping purposes. MyPS3 uses cookies to recognize registered users to the site and provide them a more seamless browsing experience. The third-party tools that MyPS3 utilises, including third-party advertisements and statistical tools, may also contain cookies. Most web browsers are set to accept cookies, but you may configure your browser to reject cookies, although it may interfere with some functionalities of the site. 
 
 ## Access, Correction and Update of Information
 
-To access, correct or update your account or other personal information such as your city or interests, please use the "Edit profile page" at the site on which you are registered. 
+To access, correct or update your account or other personal information such as your city or interests, please use the "Edit Profile" page at the site on which you are registered. 
 
-If you have any other questions, comments or complaints regarding this Policy, please contact MyPS3 administrator via [contact form.](https://web.archive.org/web/20080527091925id_/http%3A//www.myps3.com.au/contact.aspx)
+If you have any other questions, comments or complaints regarding this Policy, please contact MyPS3 administrator via [contact form.](https://web.archive.org/web/20081218143419id_/http%3A//www.myps3.com.au/contact.aspx)
 
 ## Storage and Security of Information
 
