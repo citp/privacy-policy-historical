@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the megawebpromotion.com privacy policy that was archived on 2008-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080224040652id_/http%3A//www.megawebpromotion.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megawebpromotion.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218095449id_/http%3A//www.megawebpromotion.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# MEGAWEBPROMOTION
+# MegaWebPromotion - Qualified Customers Driven To Your Site
 
 |  At MegaWebPromotion.com, we are committed to protecting your privacy. By using our website and purchasing services from us, you agree to be bound by this policy. Should we change our privacy policy, we will post those changes on this page to keep you informed of what information we collect and how we use it. 
 
