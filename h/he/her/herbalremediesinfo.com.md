@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbalremediesinfo.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517131947id_/http%3A//www.herbalremediesinfo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbalremediesinfo.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218120647id_/http%3A//www.herbalremediesinfo.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,6 +15,10 @@ CedarLily Publishing collects personally identifiable information from the visit
 We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site's services, a cookie enables herbalremediesinfo.com to recall your specific information on subsequent visits. 
 
 You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site. 
+
+**Advertisers**
+
+We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by the ad companies, and we do not have access to these information. You can choose not to accept cookies by modifying your browser settings. At any time, you may remove any cookie stored on your hard drive by deleting them in your browsers settings section. We work with the ad companies: Google Adsense and Kontera. Please check their websites for respective privacy policies. 
 
 **Children's Online Privacy Protection Act**
 
