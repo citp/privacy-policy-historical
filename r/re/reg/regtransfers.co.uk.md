@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regtransfers.co.uk privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514205053id_/http%3A//www.regtransfers.co.uk/main/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regtransfers.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218021524id_/http%3A//www.regtransfers.co.uk/main/privacy.asp) for the most accurate reproduction.*
 
 # Regtransfers.co.uk ::: Our Privacy Policy
 
