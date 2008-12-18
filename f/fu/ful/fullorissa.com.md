@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullorissa.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514114753id_/http%3A//www.fullorissa.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullorissa.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218033619id_/http%3A//www.fullorissa.com/privacy.aspx) for the most accurate reproduction.*
 
 # Orissa News, Oriya Songs, Classifieds, Videos, Music, Classmates, Entertainment, Privacy Policy
 
@@ -44,10 +44,10 @@ Puri Online Pvt. Ltd. welcomes your comments regarding this Online Privacy Polic
 **[Shopping](http://websearch.fullorissa.com/shopping.html)**  
 [Gifts](http://websearch.fullorissa.com/gifts.html), [Flowers](http://websearch.fullorissa.com/flowers.html), [Cigarettes](http://websearch.fullorissa.com/cigarettes.html), [Autos](http://websearch.fullorissa.com/autos.html), [Antiques](http://websearch.fullorissa.com/antiques.html), [ Hardware](http://websearch.fullorissa.com/hardware.html), [Software](http://websearch.fullorissa.com/software.html), [Computers](http://websearch.fullorissa.com/computers.html), [Online](http://websearch.fullorissa.com/online_shopping.html), [Books](http://websearch.fullorissa.com/books.html) ...
 
-[**Computers**](https://web.archive.org/web/20080514114753id_/http%3A//www.fullorissa.com/computers.html)  
+[**Computers**](https://web.archive.org/web/20081218033619id_/http%3A//www.fullorissa.com/computers.html)  
 [Laptops](http://websearch.fullorissa.com/laptops.html), [Desktops](http://websearch.fullorissa.com/desktops.html), [Accessories](http://websearch.fullorissa.com/accessories.html), [ External Devices](http://websearch.fullorissa.com/external_devices.html), [Internal Devices](http://websearch.fullorissa.com/internet_devices.html), [Networking](http://websearch.fullorissa.com/networking_components.html), [Monitors](http://websearch.fullorissa.com/computer_monitors.html) ...
 
-[**Medicine**](https://web.archive.org/web/20080514114753id_/http%3A//www.fullorissa.com/medicine.html)  
+[**Medicine**](https://web.archive.org/web/20081218033619id_/http%3A//www.fullorissa.com/medicine.html)  
 [Health](http://websearch.fullorissa.com/health.html), [Alternative](http://websearch.fullorissa.com/alternative.html), [ Pharmacy](http://websearch.fullorissa.com/pharmacy.html), [Allergy](http://websearch.fullorissa.com/allergy_relief.html), [Joint Pain](http://websearch.fullorissa.com/joint_pain.html), [Sleep Aid](http://websearch.fullorissa.com/sleep_aid.html) ...
 
 [**Society**](http://websearch.fullorissa.com/society.html)  
