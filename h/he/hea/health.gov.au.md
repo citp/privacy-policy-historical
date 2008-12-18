@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the health.gov.au privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605144034id_/http%3A//www.health.gov.au/internet/main/publishing.nsf/Content/privacy_security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health.gov.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218142809id_/http%3A//health.gov.au/internet/main/publishing.nsf/Content/privacy_security.htm) for the most accurate reproduction.*
 
 # Department of Health and Ageing - Privacy and security
-
-Material on the Department of Health and Ageing web site is being reviewed following the federal election on 24 November 2007. The department’s previous web site and its essential health and ageing information have been archived, but remain accessible [here](http://www.health.gov.au/internet/wcms/publishing.nsf/Content/home). This revised web site will reflect the new government's policies, programs and priorities for the health and ageing portfolio.
 
 Privacy and security information for users of the Department of Health and Ageing website.
 
