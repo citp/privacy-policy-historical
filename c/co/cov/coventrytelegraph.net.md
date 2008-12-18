@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coventrytelegraph.net privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528153301id_/http%3A//www.coventrytelegraph.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coventrytelegraph.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218192245id_/http%3A//www.coventrytelegraph.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy - Coventry Telegraph
 
-## PRIVACY POLICY IN RELATION TO ALL WEB SITE SERVICES OFFERED BY MIDLAND NEWSPAPERS LIMITED ON THIS WEB SITE
+## PRIVACY POLICY IN RELATION TO ALL WEB SITE SERVICES OFFERED BY TRINITY MIRROR MIDLANDS LIMITED ON THIS WEB SITE
 
 We are committed to:
 
@@ -15,7 +15,7 @@ We are committed to:
 
 
 
-Our privacy policy is set out in detail below. Any changes to this policy will be posted here. Please also refer to the Terms and Conditions of this web site. When we refer to "we", "our" or "us" in this policy we mean the activities of Midland Newspapers Limited.
+Our privacy policy is set out in detail below. Any changes to this policy will be posted here. Please also refer to the Terms and Conditions of this web site. When we refer to "we", "our" or "us" in this policy we mean the activities of Trinity Mirror Midlands Limited.
 
 ## WHY WE COLLECT INFORMATION ABOUT YOU
 
@@ -29,7 +29,7 @@ We compile anonymous records of user trends which we may make use of ourselves, 
 
 We may collect information from you when you fill in an online registration or entry form for any of our web site services, (e.g., information services or competitions etc). We may also collect information you give us over the telephone or in written or other communications. The type of information we will collect includes, for example, your name, mailing address, email address and telephone numbers.
 
-We collect information about your use of our web site services through "cookies". Cookies are blocks of text placed in files on your computer's hard drive when you visit a website which contain information to identify you. A cookie does not contain any personal information you have provided us with, except your user name or email address, unless the cookie is attached to personal information collected another way, such as by means of your online registration form. If you do not wish this to happen, you can either email us [here](mailto:support@coventrytelegraph.net?subject=PrivacyPolicyEnquiry) to obtain opt-out details or you can use the cookie preference settings in your browser to help manage this process. More information on this can be found in the "Help" section of the browser that you are using.
+We collect information about your use of our web site services through "cookies". Cookies are blocks of text placed in files on your computer's hard drive when you visit a website which contain information to identify you. A cookie does not contain any personal information you have provided us with, except your user name or email address, unless the cookie is attached to personal information collected another way, such as by means of your online registration form. If you do not wish this to happen, you can either email us [here](mailto:support@birminghampost.net?subject=PrivacyPolicyEnquiry) to obtain opt-out details or you can use the cookie preference settings in your browser to help manage this process. More information on this can be found in the "Help" section of the browser that you are using.
 
 We gather non personal data regarding the visitors to this site using cookies code (java applet) which is embedded in the site. Both the cookies and the embedded code (java applet) provide non-personal statistical information about visits to pages on the site, the duration of individual's page view, paths taken by visitors through the site, data on visitors' screen settings and other general information. We use this type of information, as with that obtained from other cookies used on the site, to help it improve the service to its users.
 
@@ -39,7 +39,7 @@ By giving us your details, you confirm that you consent to our sending you direc
 
 We will not supply your personal information to third parties for their direct marketing activities without their consent.
 
-If you have already consented to us, (our associated companies or third parties), sending you direct marketing or information, but you subsequently decide you no longer wish to receive direct marketing or information from us or our associated companies, or no longer wish us to pass your information to third parties, please notify us by email [here](mailto:%20support@coventrytelegraph.net?subject=PrivacyPolicyEnquiry).
+If you have already consented to us, (our associated companies or third parties), sending you direct marketing or information, but you subsequently decide you no longer wish to receive direct marketing or information from us or our associated companies, or no longer wish us to pass your information to third parties, please notify us by email [here](mailto:%20support@birminghampost.net?subject=PrivacyPolicyEnquiry).
 
 ## HOW WE ENSURE PRIVACY IS MAINTAINED
 
@@ -69,6 +69,6 @@ More information on this can be found in the "Help" section of the browser that 
 
 ## OMNITURE ANALYTICS
 
-Midland Newspapers Limited engages Omniture, a third-party Web traffic analysis company, to log and aggregate information coming through our Web site on our behalf. Midland Newspapers Limited controls how that data may and may not be used. When you visit our Web site, Omniture may use technical tracking methods such as cookies that will be listed under the domain 2o7.net, and web beacons, on our behalf, and may receive anonymous information about your browsing on our Web site. Omniture does not use these technical tracking methods to relate Web site visitors to any personally identifiable information. Information collected by Omniture on behalf of Midland Newspapers Limited is unique to individual visitors but is not personally identifiable to Omniture. Such information provided by Omniture to Midland Newspapers Limited may be reassociated by Midland Newspapers Limited with previously collected information for internal purposes only, including but not limited to providing visitors with relevant content. We may also use these technical tracking methods in HTML e-mails to determine whether the recipients have opened such e-mails, clicked on links contained in those e-mails, and continued to browse our Web site. No personally identifiable information, such as your name, street address, e-mail address, etc. is shared with Omniture. 
+Trinity Mirror Midlands Limited engages Omniture, a third-party Web traffic analysis company, to log and aggregate information coming through our Web site on our behalf. Trinity Mirror Midlands Limited controls how that data may and may not be used. When you visit our Web site, Omniture may use technical tracking methods such as cookies that will be listed under the domain 2o7.net, and web beacons, on our behalf, and may receive anonymous information about your browsing on our Web site. Omniture does not use these technical tracking methods to relate Web site visitors to any personally identifiable information. Information collected by Omniture on behalf of Trinity Mirror Midlands Limited is unique to individual visitors but is not personally identifiable to Omniture. Such information provided by Omniture to Trinity Mirror Midlands Limited may be reassociated by Trinity Mirror Midlands Limited with previously collected information for internal purposes only, including but not limited to providing visitors with relevant content. We may also use these technical tracking methods in HTML e-mails to determine whether the recipients have opened such e-mails, clicked on links contained in those e-mails, and continued to browse our Web site. No personally identifiable information, such as your name, street address, e-mail address, etc. is shared with Omniture. 
 
 Further information regarding Omniture's privacy statement can be found by [clicking here](http://www.omniture.com/privacy/product "Omniture").
