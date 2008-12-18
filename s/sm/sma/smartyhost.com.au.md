@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartyhost.com.au privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621072009id_/http%3A//www.smartyhost.com.au/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartyhost.com.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218082900id_/http%3A//www.smartyhost.com.au/privacypolicy.php) for the most accurate reproduction.*
 
 # SmartyHost
 
