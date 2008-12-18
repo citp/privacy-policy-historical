@@ -1,28 +1,12 @@
-> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214215750id_/http%3A//nanotech-now.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219002654id_/http%3A//www.nanotech-now.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|   
----  
-[ ](https://web.archive.org/nano_intro.htm)  
-[ ](https://web.archive.org/current-months-news.htm)  
-[ ](https://web.archive.org/current-months-press.htm)  
-[ ](https://web.archive.org/submit-press.cgi)  
-[ ](https://web.archive.org/columns/)  
-[ ](https://web.archive.org/products/)  
-[ ](https://web.archive.org/cb/nanotech-now/)  
-[ ](https://web.archive.org/Press_Kit/)  
-[ ](https://web.archive.org/events-2007.htm)  
-[ ](https://web.archive.org/interviews.htm)  
-[ ](https://web.archive.org/best_of.htm)  
-[ ](http://nanotech-now.tinytechjobs.com/)  
-[ ](https://web.archive.org/nanotechnology-glossary-N.htm)  
-[ ](https://web.archive.org/about_us.htm)  
-[ ](https://web.archive.org/advertise.htm)  
-[ ](https://web.archive.org/accounts/)  
 **Our NanoNews Digest Sponsors **
 
-[](https://web.archive.org/banners/track.pl?banner_id=111)
+[](https://web.archive.org/banners/track.pl?banner_id=123)
+
+[](https://web.archive.org/banners/track.pl?banner_id=122)
 
 [](https://web.archive.org/banners/track.pl?banner_id=108)
 
@@ -30,15 +14,15 @@
 
 [](https://web.archive.org/banners/track.pl?banner_id=99)
 
-[](https://web.archive.org/banners/track.pl?banner_id=47)
-
-********
-
 [](https://web.archive.org/banners/track.pl?banner_id=81)
+
+[](http://wikimediafoundation.org/wiki/Donate/en)
 
 ****
 
-[Home](https://web.archive.org/web/20071214215750id_/http%3A//nanotech-now.com/) > Privacy
+******** | 
+
+[Home](https://web.archive.org/web/20081219002654id_/http%3A//www.nanotech-now.com/) > Privacy
 
 **Privacy Notice:**
 
@@ -60,22 +44,4 @@ We use these summary statistics to help us make our site more useful to visitors
 
 **Our site does not now - nor will it ever - knowingly link to or associate with hate, descriminatory, or adult [pornographic] sites.  We individually and collectively subscribe to a system of universal ethical treatment for all people, and strive to reflect that within this website.  While our views, beliefs, and understandings may differ from your's, we commit to always allowing room for being incorrect, and acknowledging everyone's right to free expression.**
 
-|  |   
----  
-[](https://web.archive.org/products/newsdigest/)  
-|  The latest news from around the world, FREE    
-|   
----  
-**   Premium Products**  
-[](https://web.archive.org/products/nanonewscustom/)  
-|  Only the news you want to read!   
- [Learn More](https://web.archive.org/products/nanonewscustom/) |   
-[](https://web.archive.org/products/nanotechtransfer/)  
-|  University Technology Transfer & Patents   
- [Learn More](https://web.archive.org/products/nanotechtransfer/) |   
-[](https://web.archive.org/NanoStrategies.htm)  
-|  Full-service, expert consulting   
- [Learn More](https://web.archive.org/NanoStrategies.htm) |   
-[](https://web.archive.org/products/technologymonitoring/)  
-|  Highly tailored technology monitoring service   
- [Learn More](https://web.archive.org/products/technologymonitoring/) | 
+| 
