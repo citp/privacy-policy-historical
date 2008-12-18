@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the click2mail.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614165955id_/http%3A//www.click2mail.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the click2mail.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218064810id_/http%3A//www.click2mail.com/privacy_policy) for the most accurate reproduction.*
 
 # Click to Mail - Privacy Policy
 
-Click2Mail's Privacy Policy
+[Click2Mail](http://www.click2mail.com/) > Privacy Policy
 
 Privacy Policy
 
@@ -50,9 +50,11 @@ Like most Web sites, Click2Mail sometimes makes use of session "cookies." Cookie
 Changes to Click2Mail's Privacy Policy 
 
 We may make changes to this policy from time to time. You can review the most current version of our Privacy Policy at any time at   
-<https://mailingonline.click2mail.com/PrivacyPolicy.aspx>.
+[https://mailingonline.Click2Mail.com/welcome.asp](https://mailingonline.click2mail.com/welcome.asp).
 
 Comments or Concerns
 
 If you have any comments or concerns about our Privacy Policy you may contact us at   
 [webmaster@Click2Mail.com.](mailto:webmaster@Click2Mail.com).
+
+[](https://mailingonline.click2mail.com/Click2Mail_Register.aspx)
