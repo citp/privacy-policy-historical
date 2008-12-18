@@ -1,6 +1,37 @@
-> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621175956id_/http%3A//www.exploroz.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218150908id_/http%3A//www.exploroz.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy @ ExplorOz
+
+[](https://web.archive.org/Default.aspx)
+
+**www.ExplorOz.com**
+
+Your browser does not support the site menu [ Click Here](https://web.archive.org/Privacy.aspx?Layout=Menu_Static) to load alternative navigation.
+
+  
+| 
+
+Latest News
+
+Search by Topic 
+
+Newsletters
+
+Current Users
+
+| Members| 4  
+---|---  
+Customers| 0  
+Visitors| 4  
+Anon| 533  
+  
+* * *  
+  
+Total| 541  
+  
+[](http://www.addthis.com/bookmark.php)
+
+ 
 
 ##  2\. ExplorOz Visitor & Membership systems
 
@@ -45,7 +76,7 @@ ExplorOz understands that even with our
 
 Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. Most Web browsers are set to accept cookies. However, if you do not wish to receive any cookies you may set your browser to refuse cookies (for more information on disabling cookies, [click here](http://www.microsoft.com/info/cookies.htm). In some instances this may mean you will not be able to take full advantage of parts of the Site. For instance, you may not be able to login as a Visitor or Member. 
 
-The use of cookies can enhance your enjoyment of what is offered by ExplorOz, because they can help personalise your experience of our website. They can make it easier for you to shop online and can ensure that information provided to you is most relevant to your interests. Cookies can provide us with aggregated information on how people use our websites, and which advertisements are effective, which helps us to keep improving our Site. We also use cookies to operate the Visitor & [Membership](https://web.archive.org/Membership/Default.aspx) systems, as they help us to identify visitors to the site who have previously registered. 
+The use of cookies can enhance your enjoyment of what is offered by ExplorOz, because they can help personalise your experience of our website. They can make it easier for you to [shop](https://web.archive.org/Shop/Default.aspx) online and can ensure that information provided to you is most relevant to your interests. Cookies can provide us with aggregated information on how people use our websites, and which advertisements are effective, which helps us to keep improving our Site. We also use cookies to operate the Visitor & [Membership](https://web.archive.org/Membership/Default.aspx) systems, as they help us to identify visitors to the site who have previously registered. 
 
 Cookies in and of themselves do not personally identify users, although they do identify a user's browser. The cookies simply contain a unique identifier which help us to know what our customers find interesting and useful on our website, almost like a continuing questionnaire. 
 
@@ -56,14 +87,25 @@ Cookies in and of themselves do not personally identify users, although they do 
 Our commitment to make ExplorOz [Australia](https://web.archive.org/States/Default.aspx)'s leading 4WD Web Site means that we are constantly adding new sites and features to the Site. Because of this, from time to time, our policies will be reviewed and may be revised. ExplorOz reserves the right to change its [privacy policy](https://web.archive.org/Privacy.asp) at any time and notify you by posting an updated version of the policy on its website.  
 
 
-[ ](https://web.archive.org/SiteUpdates.aspx) [Site Updates](https://web.archive.org/SiteUpdates.aspx)  
-Browse the latest content and stay up-to-date using our automatic Site Updates page. At a glance you can see what's new or updated and click links to view the full page of change. Great for busy people, or true ExplorOz addicts! [[Feature Story]](https://web.archive.org/SiteUpdates.aspx)
+##  Article Feedback
+
+If you wish to Send Feedback please [Logon Now](https://web.archive.org/Users/ExplorOz_Logon.asp?FromPage=%2fPrivacy.aspx)
+
+#### What Others have Posted
+
+##  Related Pages
+
+[ ](https://web.archive.org/StatsPage.aspx) [ExplorOz Site Statistics](https://web.archive.org/StatsPage.aspx)  
+ExplorOz stands out as the top ranking Australian 4WD, Caravan & Camping website and is a major Travel & Automotive Portal. 
+
+[ ](https://web.archive.org/Privacy.asp) [Privacy Policy](https://web.archive.org/Privacy.asp)  
+This statement sets out the ExplorOz policies relating to the collection and use of your personal information. It applies to your conduct on the ExplorOz web site (the "Site"). These policies are in addition to the ExplorOz general Terms of Use governing the Site and should be read in conjunction with such Terms of Use. 
 
 [ ](https://web.archive.org/TermsofUse.aspx) [Terms of Use](https://web.archive.org/TermsofUse.aspx)  
 Your access to the Site is conditional upon your acceptance and compliance with the terms, conditions, notices and disclaimers contained in this document and elsewhere on the Site (known collectively as "Terms of Use"). 
 
-[ ](https://web.archive.org/StatsPage.aspx) [ExplorOz Site Statistics](https://web.archive.org/StatsPage.aspx)  
-ExplorOz stands out as the top ranking Australian 4WD, Caravan & Camping website and is a major Travel & Automotive Portal. 
+[ ](https://web.archive.org/SiteUpdates.aspx) [Site Updates](https://web.archive.org/SiteUpdates.aspx)  
+Browse the latest content and stay up-to-date using our automatic Site Updates page. At a glance you can see what's new or updated and click links to view the full page of change. Great for busy people, or true ExplorOz addicts! 
 
 [ ](https://web.archive.org/RSSFeedList.aspx) [ExplorOz RSS Feeds](https://web.archive.org/RSSFeedList.aspx)  
 RSS (or Really Simple Syndication) provides a convenient way for you to receive content “feeds” from ExplorOz. With over 200 channels of content available there is bound to be a channel suitable for you. 
@@ -71,8 +113,53 @@ RSS (or Really Simple Syndication) provides a convenient way for you to receive 
 [ ](https://web.archive.org/LinktoUs.asp) [Linking to ExplorOz](https://web.archive.org/LinktoUs.asp)  
 If you wish to link to ExplorOz content from your website then you will need to follow these guidelines. 
 
-[ ](https://web.archive.org/Privacy.asp) [Privacy Policy](https://web.archive.org/Privacy.asp)  
-This statement sets out the ExplorOz policies relating to the collection and use of your personal information. It applies to your conduct on the ExplorOz web site (the "Site"). These policies are in addition to the ExplorOz general Terms of Use governing the Site and should be read in conjunction with such Terms of Use. 
-
 [ ](https://web.archive.org/sitesearch_help.asp) [Site Search Help](https://web.archive.org/sitesearch_help.asp)  
-Find out how to use the ExplorOz Site Search System 
+Find out how to use the ExplorOz Site Search System   
+  
+Trader Premium
+
+| [](https://web.archive.org/Trader/View.aspx?ttid=1&id=8639)  
+[TOYOTA PRADO 2003 TURBO DIESEL MANUAL HEAPS OF EXTRAS $31,500](https://web.archive.org/Trader/View.aspx?ttid=1&id=8639)  
+---  
+[](https://web.archive.org/Trader/View.aspx?ttid=1&id=8535)  
+[04/2000 Toyota Landcruiser Troop Carrier 1 HZ Diesel Turbo $31,000](https://web.archive.org/Trader/View.aspx?ttid=1&id=8535)  
+[](https://web.archive.org/Trader/View.aspx?ttid=1&id=8513)  
+[1997 Landcruiser 80 Series $12,500](https://web.archive.org/Trader/View.aspx?ttid=1&id=8513)  
+[](https://web.archive.org/Trader/View.aspx?ttid=1&id=8465)  
+[2002 Toyota Troopcarrier 78 series 4.2 1HZ diesel, Low kilometers, Excellent condition $36,000](https://web.archive.org/Trader/View.aspx?ttid=1&id=8465)  
+[](https://web.archive.org/Trader/View.aspx?ttid=1&id=8438)  
+[Landcruiser 80 Series GXL 1995 $17,600](https://web.archive.org/Trader/View.aspx?ttid=1&id=8438)  
+[](https://web.archive.org/Trader/View.aspx?ttid=1&id=8354)  
+[Toyota Landcruiser 80 Series Turbo Diesel 1991 $35,000](https://web.archive.org/Trader/View.aspx?ttid=1&id=8354)  
+[](https://web.archive.org/Trader/View.aspx?ttid=1&id=8319)  
+[2004 hilux xtra cab $22,000](https://web.archive.org/Trader/View.aspx?ttid=1&id=8319)  
+[](https://web.archive.org/Trader/View.aspx?ttid=1&id=8310)  
+[Landcruiser 80 Series 1997 DX Wagon 4.2 Diesel 259.000 kms POC-667 $12,900](https://web.archive.org/Trader/View.aspx?ttid=1&id=8310)  
+[](https://web.archive.org/Trader/View.aspx?ttid=1&id=8298)  
+[TOYOTA LANDCRUISER PRADO KZJ120R GXL - 2003 $37,500](https://web.archive.org/Trader/View.aspx?ttid=1&id=8298)  
+[](https://web.archive.org/Trader/View.aspx?ttid=1&id=8257)  
+[Top 100 Series Cruiser '02, Auto, Turbo Diesel, Leather Int. 95,000km, Reg till 10/09. $45,000](https://web.archive.org/Trader/View.aspx?ttid=1&id=8257)  
+[](https://web.archive.org/Trader/View.aspx?ttid=3&id=8632)  
+[Off Road Systems Fridge Pack 3 with table, water tank and cargo barrier $2,000](https://web.archive.org/Trader/View.aspx?ttid=3&id=8632)  
+[](https://web.archive.org/Trader/View.aspx?ttid=3&id=8554)  
+[Storage Draws $450](https://web.archive.org/Trader/View.aspx?ttid=3&id=8554)  
+[](https://web.archive.org/Trader/View.aspx?ttid=3&id=8364)  
+[10,000lb Winch Brand New $600](https://web.archive.org/Trader/View.aspx?ttid=3&id=8364)  
+[](https://web.archive.org/Trader/View.aspx?ttid=3&id=8336)  
+[Drawers $899](https://web.archive.org/Trader/View.aspx?ttid=3&id=8336)  
+[](https://web.archive.org/Trader/View.aspx?ttid=3&id=8311)  
+[Complete 100 series wagon Kitchen fitout $950](https://web.archive.org/Trader/View.aspx?ttid=3&id=8311)  
+[](https://web.archive.org/Trader/View.aspx?ttid=3&id=8290)  
+[100 Series Rino Rack with incorporated Solar Panel and rear awning $1,750](https://web.archive.org/Trader/View.aspx?ttid=3&id=8290)  
+[](https://web.archive.org/Trader/View.aspx?ttid=3&id=8235)  
+[Various Goodies: Having a Cleanout $0](https://web.archive.org/Trader/View.aspx?ttid=3&id=8235)  
+[](https://web.archive.org/Trader/View.aspx?ttid=3&id=7756)  
+[Heavy Duty Draw Runners 700mm long FOR SALE $65](https://web.archive.org/Trader/View.aspx?ttid=3&id=7756)  
+[](https://web.archive.org/Trader/View.aspx?ttid=4&id=8556)  
+[USB GPS RECEIVERS $85](https://web.archive.org/Trader/View.aspx?ttid=4&id=8556)  
+[](https://web.archive.org/Trader/View.aspx?ttid=5&id=8637)  
+[Adventure Offroad Camper Trailer - Pilbara - 2004 $28,000](https://web.archive.org/Trader/View.aspx?ttid=5&id=8637)  
+  
+Fast Find  
+  
+Copyright © 1999 - 2008, [I.T. Beyond Pty Ltd.](http://www.itbeyond.com.au/) All rights reserved.
