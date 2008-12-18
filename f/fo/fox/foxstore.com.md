@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxstore.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621035520id_/http%3A//www.foxhome.com/privacy/storepolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxstore.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218173148id_/http%3A//www.foxhome.com/privacy/storepolicy.html) for the most accurate reproduction.*
 
 # Fox Store Privacy Policy
 
