@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rapidonline.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615142804id_/http%3A//www.rapidonline.com/showfile.aspx%3Ffile%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidonline.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218074211id_/http%3A//www.rapidonline.com/showFile.aspx%3Ffile%3Dprivacy) for the most accurate reproduction.*
 
-# Rapid Online sitemap - Electronic components, electrical parts and supplies
+# Back to school offers from Rapid. Low prices on stationery, school and college essentials
 
 When you register on our web site at www.rapidonline.com, we collect information about your organisation such as company name and address, areas that interest the company as well as personal information from you, such as your name, job title, e-mail address and business phone number. 
 
