@@ -1,0 +1,37 @@
+> *The following text is extracted and transformed from the tictacti.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218055204id_/http%3A//www.tictacti.com/Privacy%2520Policy) for the most accurate reproduction.*
+
+# TicTacTi - Broadband Video Commercials
+
+|  | [](http://www.tictacti.com/Interactive-Overlay-Ads) |   
+---|---  
+  
+
+
+### TicTacTi Privacy Policy - Your privacy is important to us.
+
+This privacy policy describes how TicTacTi treats certain information provided by you in connection with your access to and use of the TicTacTi website (the "Service"). This privacy policy does not apply to people not employed by TicTacTi or to entities not owned or controlled by TicTacTi. 
+
+This privacy policy is incorporated into and is subject to the TicTacTi terms of service. If you do not agree to the terms of this privacy policy or the TicTacTi terms of service, do not provide TicTacTi with any information and do not use the Service. This privacy policy may be modified by TicTacTi in its sole discretion at any time without prior notice to you. We will post any revised privacy policy on the Service. Your continued use of the Service after the privacy policy has been modified and posted will signify your acceptance of such modifications for information provided by you. 
+
+**Information Collection**  
+we may collect personal information about you in connection with your use of the Service. Such information may include your name, address, telephone number, email address, IP address, biographical information and other personally identifiable information belonging to you. We may collect such information when you register with the Service and in connection with your transactions with us and some of our business partners. Our servers may automatically receive and record information about you on our server logs. We may use "cookies" containing anonymous unique identifiers stored on your computer. We may let our advertisers set and access their cookies on your computer. Our advertisers do not have access to our cookies. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. You can add or update certain information by clicking on the account settings link. When you update information, we usually keep a copy of the prior version for our records. 
+
+**How we may use this information.**  
+We do not share your personally identifiable information with outside parties. However, personally identifiable information you include in Content that you upload, transmit, post or otherwise make generally available using the Service may be viewed by others and is not subject to this privacy policy, and you may receive unsolicited messages as a result. In addition, when you post a message, your user id or alias may be viewed by others. We may use cookies to assist in keeping track of your preferences and user settings, estimate and report our total number of users and usage traffic, and help us improve the content and services provided in connection with the Service. We may use your IP address to diagnose and prevent or resolve technology problems, estimate the number of users from certain geographic areas or monitor and prevent abuse of the Service. When you send post a video, your IP address may be displayed to the owners or maintainers of certain journals or blogs. We may use or share your personal information where it is necessary to complete a transaction, to operate or improve the Service or to do something that you have asked us to do. We may use your personal information internally to assist us in categorizing or contextualizing advertising content, and we may share aggregated, non-personal information (which does not identify you individually), such as the number of users who viewed or clicked on a particular advertisement. 
+
+We may share your personal information to respond to subpoenas, court orders, or legal process, to establish or exercise our legal rights or, defend against legal claims and if in our judgment in such circumstances disclosure is required or appropriate. In addition, we may share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our various terms of service, or as otherwise required by law. If we sell our business or all or part of the Service, personally identifiable information you have shared with us may be one of the business assets that will be transferred. The transferred personally identifiable information will remain subject to the promises made in this privacy policy or subsequent policies to which you have consented. 
+
+**Data security**  
+We make efforts to ensure data security on our systems to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. However, no data transmissions over the Internet can be guaranteed to be secure. As a result, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. 
+
+**Children related information**  
+The service is not structured to attract children under 13 years of age. Our terms of service prohibit use of the Service by anyone under 13 years of age, and require any person providing access to the Service to anyone under 13 years of age to certify that he or she the parent or legal guardian of such person and to provide reasonable verification required by TicTacTi. We do not knowingly collect or maintain personal information of anyone under 13 years of age, and if we discover that we have inadvertently collected such information, we will promptly delete it. Parents and legal guardians may request us to review, delete or stop the collection of personally identifiable information of their child by contacting us at the email or postal addresses listed below. 
+
+**How to contact us.**  
+Should you have any questions or concerns about these privacy policies, including any questions or concerns about the management or use of personal information, please send us an email at privacy@TicTacTi-inc.com. Our postal mailing address is  
+TicTacTi, Ltd.  
+8 Nachalat Yizhak Street 
+
+Tel Aviv
+
+Israel
