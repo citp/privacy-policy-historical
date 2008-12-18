@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolsnet.com privacy policy that was archived on 2008-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080318235512id_/http%3A//www.schoolsnet.com/uk-schools/schoolsnetContent.jsp%3Fx%3D16180339%26y%3D0%26html_id%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolsnet.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218122337id_/http%3A//www.schoolsnet.com/uk-schools/schoolsnetContent.jsp%3Fx%3D16180339%26y%3D0%26html_id%3DPRIVACY) for the most accurate reproduction.*
 
 # Schoolsnet: The No1 schools guide for parents, and by parents
 
