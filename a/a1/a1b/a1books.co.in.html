@@ -1,11 +1,13 @@
-<!--The following is the downloaded HTML source of the a1books.co.in privacy policy that was archived on 2008-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080611025218id_/http%3A//www.a1books.co.in/privpolicy.do%3Fhome%3DAU) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the a1books.co.in privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218101648id_/http%3A//www.a1books.co.in/privpolicy.do%3Fhome%3DAU) for the most accurate reproduction.-->
 
 <html lang="en"><head>
 <title>
 	A1Books India - Privacy Policy
 </title>
+
 <link href="/default/app.css" type="text/css" rel="StyleSheet">
+
 
 <script language="JavaScript" type="text/javascript" src="validate.js"></script>
 <script language="JavaScript" type="text/javascript" src="validate2.js"></script>
@@ -14,6 +16,7 @@
 <script language="JavaScript" type="text/javascript" src="date.js"></script>
 <script language="JavaScript" type="text/javascript" src="date-picker.js"></script>
 <script language="JavaScript" type="text/javascript" src="formfields.js"></script>
+<script language="JavaScript" src="collapsiblePanel.js" type="text/javascript"></script>
 
 
 <script language="JavaScript">
@@ -168,6 +171,11 @@ function validateSearch (form) {
 		alert ("Keyword is required.");
 		return false;
 	}
+	var selObj = form.searchType;
+	var selValue = selObj.options[selObj.selectedIndex].value;
+	if (selValue == "ebooks") {
+		form.action='http://www.a1books.co.in/shop/searchresult.do';
+	}
 	return true;
 }
 function openPopup (url) {
@@ -183,9 +191,9 @@ function openPopup (url) {
 <!-- Logo ----------------------------------------------------- -->
  <tbody><tr> 
     <td rowspan="2"><a href="http://www.a1books.co.in/homepage.do"><img src="https://www.a1books.com/cm/a1IndiaLogo.jpg" alt="A1Books India" border="0" vspace="0" hspace="5"></a></td>
-		<td nowrap=""><img src="default/images/shared/slogan3.jpg" alt="Logo" border="0" vspace="0"></td>
+		<td nowrap=""><img src="https://www.a1books.com/cm/slogan3.gif" alt="Logo" border="0" vspace="0" hspace="10"><p></p></td>
     <td nowrap="" bgcolor="#FFFFFF" class="title1" width="100%" align="right">
-			Nai Sadak - Just A Click Away&nbsp;&nbsp;
+			Nai Sarak Into Internet Super Highway&nbsp;&nbsp;
 		</td>
 		</tr>
 		<tr>
@@ -194,15 +202,22 @@ function openPopup (url) {
 				<form name="topSearch" method="GET" action="http://www.a1books.co.in/searchresult.do" onsubmit="return validateSearch(this)"></form>
           <tbody><tr> 
 						<td nowrap="">
-							&nbsp;&nbsp;&nbsp;<b>Keyword Search:</b>
+							&nbsp;&nbsp;&nbsp;<b>Search:</b>
 						</td>
-            <td> 
+            <td nowrap=""> 
+							<select name="searchType">
+							<option value="books">Books</option>
+							<option value="ebooks">eBooks</option>
+							</select>
+						</td>
+            <td nowrap=""> 
               <input type="text" name="keyword" size="50">
+              <input type="hidden" name="partnersite" value="a1india">
             </td>
-            <td>
+            <td nowrap="">
               <input type="submit" class="button" name="imageField" value="Go">
             </td>
-            <td><img src="default/images/shared/pix.gif" width="8" height="10"> </td>
+            <td nowrap=""><img src="default/images/shared/pix.gif" width="8" height="10"> </td>
 						<td width="100%" align="right">
   						<a href="https://www.a1books.co.in/accountinfo.do?init=Y&amp;myAccountClicked=Y">My Account</a>
 							
@@ -210,6 +225,7 @@ function openPopup (url) {
 							
 							
   						&nbsp;|&nbsp;<a href="http://www.a1books.co.in/shoppingcart.do?init=Y">Shopping Cart</a>
+  						&nbsp;|&nbsp;<a href="http://www.a1books.co.in/subscription.do?editing=Y">Mailing List</a>
   						&nbsp;|&nbsp;<a href="http://www.a1books.co.in/faq.do?home=FA">FAQ</a>&nbsp;&nbsp;&nbsp;
             </td>
           </tr>
@@ -260,7 +276,7 @@ function openPopup (url) {
               </tr>
             </tbody></table>
           </td>
-<!-- Publishers ----------------------------------------------------- -->
+<!-- Bestsellers ----------------------------------------------------- -->
           <td> 
             <table border="0" cellspacing="0" cellpadding="0">
               <tbody><tr> 
@@ -270,7 +286,7 @@ function openPopup (url) {
               </tr>
               <tr> 
                 <td class="topTab_gray" nowrap=""> 
-                  <div align="center"><a href="http://www.a1books.co.in/pubswithprofile.do" class="topMenu">Publishers</a></div>
+                  <div align="center"><a href="http://www.a1books.co.in/searchresult.do?showBS=Y" class="topMenu">Bestsellers</a></div>
                 </td>
               </tr>
             </tbody></table>
@@ -286,6 +302,21 @@ function openPopup (url) {
               <tr> 
                 <td class="topTab_gray" nowrap=""> 
                   <div align="center"><a href="http://www.a1books.co.in/schome.do?home=SC" class="topMenu">Showcases</a></div>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+<!-- Magazines ----------------------------------------------------- -->
+          <td> 
+            <table border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr> 
+                <td rowspan="2"><img src="default/images/shared/tab_gray_left.gif" width="17" height="17"></td>
+                <td bgcolor="#FFFFFF"><img src="default/images/shared/pix.gif" width="1" height="1"></td>
+                <td rowspan="2"><img src="default/images/shared/tab_gray_right.gif" width="11" height="17"></td>
+              </tr>
+              <tr> 
+                <td class="topTab_gray" nowrap=""> 
+                  <div align="center"><a href="http://www.a1books.co.in/searchresult.do?catCode=MAG000000&amp;home=MZ" class="topMenu">Magazines</a></div>
                 </td>
               </tr>
             </tbody></table>
@@ -306,7 +337,7 @@ function openPopup (url) {
               </tr>
             </tbody></table>
           </td>
-<!-- Bestsellers ----------------------------------------------------- -->
+<!-- eBooks ----------------------------------------------------- -->
           <td> 
             <table border="0" cellspacing="0" cellpadding="0">
               <tbody><tr> 
@@ -316,7 +347,22 @@ function openPopup (url) {
               </tr>
               <tr> 
                 <td class="topTab_gray" nowrap=""> 
-                  <div align="center"><a href="http://www.a1books.co.in/searchresult.do?showBS=Y" class="topMenu">Bestsellers</a></div>
+                  <div align="center"><a href="http://www.a1books.co.in/ebookshome.do?home=EB" class="topMenu">eBooks</a></div>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+<!-- Publishers ----------------------------------------------------- -->
+          <td> 
+            <table border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr> 
+                <td rowspan="2"><img src="default/images/shared/tab_gray_left.gif" width="17" height="17"></td>
+                <td bgcolor="#FFFFFF"><img src="default/images/shared/pix.gif" width="1" height="1"></td>
+                <td rowspan="2"><img src="default/images/shared/tab_gray_right.gif" width="11" height="17"></td>
+              </tr>
+              <tr> 
+                <td class="topTab_gray" nowrap=""> 
+                  <div align="center"><a href="http://www.a1books.co.in/pubswithprofile.do?startingLetter=A" class="topMenu">Publishers</a></div>
                 </td>
               </tr>
             </tbody></table>
@@ -332,21 +378,6 @@ function openPopup (url) {
               <tr> 
                 <td class="topTab_gray" nowrap=""> 
                   <div align="center"><a href="http://www.a1books.co.in/partner/homepage.do?home=MM" class="topMenu">Make Money</a></div>
-                </td>
-              </tr>
-            </tbody></table>
-          </td>
-<!-- Press ----------------------------------------------------- -->
-          <td> 
-            <table border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr> 
-                <td rowspan="2"><img src="default/images/shared/tab_gray_left.gif" width="17" height="17"></td>
-                <td bgcolor="#FFFFFF"><img src="default/images/shared/pix.gif" width="1" height="1"></td>
-                <td rowspan="2"><img src="default/images/shared/tab_gray_right.gif" width="11" height="17"></td>
-              </tr>
-              <tr> 
-                <td class="topTab_gray" nowrap=""> 
-                  <div align="center"><a href="http://www.a1books.co.in/presshome.do?home=PR" class="topMenu">Press</a></div>
                 </td>
               </tr>
             </tbody></table>
@@ -514,6 +545,7 @@ This Policy is governed by the laws of New Delhi, India, without regard to its c
         | <a href="http://www.a1books.co.in/retpolicy.do?home=AU" class="footer">Return Policy</a>
         | <a href="http://www.a1books.co.in/contactus.do?home=AU" class="footer">Contact Us</a>
         | <a href="http://www.a1books.com/cgi-bin/mktFront?act=homeGreet" class="footer">A1Books US</a>
+        | <a href="http://www.a1books.co.in/presshome.do?home=PR" class="footer">Press</a>
       </div>
     </td>
   </tr>
