@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipipeline.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509083350id_/http%3A//www.ipipeline.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipipeline.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218213147id_/http%3A//ipipeline.com/privacy_statement.php) for the most accurate reproduction.*
 
 # iPipeline - Privacy Policy
 
