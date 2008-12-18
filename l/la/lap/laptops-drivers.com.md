@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the laptops-drivers.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621223337id_/http%3A//www.laptops-drivers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laptops-drivers.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218015422id_/http%3A//www.laptops-drivers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Laptop - Notebooks Drivers Updates
+
+LAPTOPS-DRIVERS.COM DOES NOT GUARANTEE THEY WILL PRODUCE THE DESIRED RESULTS. USE OF THE ARTICLES, IN ANY FORM WHATSOEVER, IS DONE AT YOUR OWN DISCRETION. LAPTOPS-DRIVERS.COM DOES NOT ASSUME LIABILITY FOR DAMAGES THAT RESULT IN CONNECTION WITH THE COURSES OF ACTION SPECIFIED.
 
 **Notebooks-Drivers.com Privacy Statement**
 
