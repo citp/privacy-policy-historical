@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urologychannel.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616171109id_/http%3A//www.urologychannel.com/common/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urologychannel.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218152157id_/http%3A//www.urologychannel.com/common/privacystatement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Healthcommunities.com
 
@@ -49,7 +49,7 @@ No information is shared between Healthcommunities.com, Inc., and any of its ret
 
 This site makes forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information, and users should exercise caution when deciding to disclose personal information. 
 
-A user must only insert name and e-mail address (and he/she may use an inaccurate name or e-mail address) to post a question in the forums. This information is not used by Healthcommunities, unless the browser registers for a forum, in which case it is retained. Passwords are retained only when a user registers for a forum.
+A user must only insert name and e-mail address to post a question in the forums. This information is not used by Healthcommunities, unless the browser registers for a forum, in which case it is retained. Passwords are retained only when a user registers for a forum.
 
 **Security**
 
