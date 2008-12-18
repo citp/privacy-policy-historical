@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galvestondailynews.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512074214id_/http%3A//galvestondailynews.com/privacy.lasso) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galvestondailynews.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218161004id_/http%3A//galvestondailynews.com/privacy.lasso) for the most accurate reproduction.*
 
 # The Galveston County Daily News
 
