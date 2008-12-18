@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kitkat.com privacy policy that was archived on 2008-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080420054107id_/http%3A//www.kitkat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitkat.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218101242id_/http%3A//www.kitkat.com/privacy) for the most accurate reproduction.*
 
 # KIT KAT worldwide
 
