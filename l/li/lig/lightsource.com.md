@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lightsource.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517083623id_/http%3A//www.lightsource.com/aboutus/49) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightsource.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218025249id_/http%3A//lightsource.com/aboutus/49) for the most accurate reproduction.*
 
-# Lightsource.com - About Us - Read Our Story & Mission
+# About Us - Read Our Story & Mission
 
-**Last Updated:** February 26, 2008
+**Last Updated:** November 3, 2008
 
 This policy informs you of the policies of Salem Communications Corporation and its subsidiary entities (collectively, “Salem”), including without limitation the Salem and radio stations concerning the collection, use and disclosure of personal information from this Salem-related website.  Because we may gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information.  At Salem we understand your privacy is important to you. Even though we may need to collect information about you to provide you with some of our products and services, you may not want us to disclose that information to others.  Accordingly, what follows is a description of how we gather and use information about you (collectively “Your Information”). 
 
@@ -78,6 +78,9 @@ Salem acquires no personal or registration data about our users except what you 
 **If You Contact Us**  
 We use return email addresses to answer the email we receive from you. Unless you tell us otherwise, we will not use your address for any other purpose.
 
+**Feedback Data**  
+Feedback data is voluntary information (such as success stories) provided directly by you for the purposes of assessing the products or services provided through Salem Web Network sites.  There are areas on Salem Web Network owned sites which allow you to submit feedback. Any feedback you submit in these areas becomes the property of Salem Web Network, and we reserve the right to use this information for the purposes of marketing, quality control, or to contact you for further information.
+
 **Usage (Log) Data**   
 Salem also gathers and analyzes Usage or Log Data including your IP (internet protocol) address assigned by your ISP (internet service provider), and the type of operating system you are using on your computer, and the type of web browser  you are using to view our Website.  Salem management uses Usage or Log Data to help diagnose problems with and optimize performance of the server.  This information also allows us to evaluate user traffic patters into, out from, and within our Website.  These uses, however, do not allow us to connect your IP address with your personal identity.
 
@@ -86,6 +89,15 @@ Salem also gathers and analyzes Usage or Log Data including your IP (internet pr
 
 **Correcting and Updating**  
 You may correct or update your registration data by contacting our member services in the following ways:
+
+  * By mailing us at:
+
+
+
+Salem Web Network  
+Attn: All Pass Registration  
+111 Virginia Street, Suite 500  
+Richmond, Virginia 23219 
 
   * By emailing us at [support@salemwebnetwork.com](mailto:support@salemwebnetwork.com)
   * By faxing us at 804-768-9359
@@ -115,7 +127,7 @@ From time to time we may enter into a special relationship with another company 
 Also, the nature of some features of our site may require that we share personal information about you with persons or companies outside of the Salem corporate enterprise. For example, this may occur at a feature that enables you, via our site, to ask questions of persons or entities that are not part of the Salem enterprise. By responding to those features of the site, whether by email or direct entry of information on our website, you are consenting to our transferring that information to such persons or entities.
 
 **Children's Privacy**  
-Because the safety of children is very important to us, Salem will not knowingly accept personal information from children under the age of 13 without first obtaining written parental consent.  A parent can give such consent by filling out and signing the [Salem Parental Consent Form](https://web.archive.org/web/20080517083623id_/http://lightsource.com/aboutus/49/%3C%=ResolveUrl\(%22~/help/ParentalConsentForm.aspx%22\)%%3E) and returning it to us at the contact point listed below.  If a parent wishes to refuse to permit collection or use of their child's information by Salem, that parent should contact us to request deletion of their child's account.
+Because the safety of children is very important to us, Salem will not knowingly accept personal information from children under the age of 13 without first obtaining written parental consent.  A parent can give such consent by filling out and signing the [Salem Parental Consent Form](https://web.archive.org/web/20081218025249id_/http://www.lightsource.com/aboutus/49/%3C%=ResolveUrl\(%22~/help/ParentalConsentForm.aspx%22\)%%3E) and returning it to us at the contact point listed below.  If a parent wishes to refuse to permit collection or use of their child's information by Salem, that parent should contact us to request deletion of their child's account.
 
 If you have any questions or comments regarding children’s privacy at Salem or if you would like to submit a signed Parental Consent Form, please contact:
 
