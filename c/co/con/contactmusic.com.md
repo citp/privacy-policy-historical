@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the contactmusic.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612085942id_/http%3A//www.contactmusic.com/new/home.nsf/webpages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactmusic.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218214517id_/http%3A//www.contactmusic.com/new/home.nsf/webpages/privacy) for the most accurate reproduction.*
 
-# privacy statement
+# privacy statement - 05/12/02
 
   
 1\. We collect your credit card information, address and billing information so we may process your order and charge your account for products that you purchase.
@@ -17,4 +17,4 @@
 
 7\. All personal information is stored in secure databases. Access to that information is strictly controlled and limited to certain individuals within our Company. If your email address changes and you would like to continue receiving any of our mailings, please notify us at [hello@contactmusic.com](mailto:hello@contactmusic.com) so we can update your records accordingly.
 
-8\. This privacy policy is subject to change. If you have any questions about this privacy policy or any matter pertaining to the use of your personal information on this site, please email us at [help@contactmusic.com](mailto:help@contactmusic.com) for further information.
+8\. This privacy policy is subject to change. If you have any questions about this privacy policy or any matter pertaining to the use of your personal information on this site, please email us at [hello@contactmusic.com](mailto:hello@contactmusic.com) for further information.
