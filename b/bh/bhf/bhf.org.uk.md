@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhf.org.uk privacy policy that was archived on 2008-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080406063102id_/http%3A//www.bhf.org.uk/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhf.org.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218190700id_/http%3A//www.bhf.org.uk/privacy_statement.aspx) for the most accurate reproduction.*
 
 # British Heart Foundation - Privacy Statement
 
@@ -32,7 +32,7 @@ BHF does not sell or rent user information to anyone. From time to time, we agre
 
 * **What is BHF's policy on allowing me to update, correct or delete my personally identifiable information?**
 
-The accuracy of your individual identifying information is important to BHF. If you change email address or any of the other information we hold is inaccurate or out of date, please email us at internet@bhf.org.uk or write to Supporter Services, British Heart Foundation, 14 Fitzhardinge Street, London W1H 6DH.
+The accuracy of your individual identifying information is important to BHF. If you change email address or any of the other information we hold is inaccurate or out of date, please email us at internet@bhf.org.uk or write to Supporter Services, British Heart Foundation, Greater London House, 180 Hampstead Road, London NW1 7AW.
 
 * **How does BHF protect my personal identifiable information?**
 
