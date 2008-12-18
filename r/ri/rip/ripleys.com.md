@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ripleys.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515230718id_/http%3A//www.ripleys.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripleys.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218110544id_/http%3A//www.ripleys.com/privacy.php) for the most accurate reproduction.*
 
 # Ripleys - Privacy Policy
 
