@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multiply.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509122646id_/http%3A//multiply.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multiply.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218123514id_/http%3A//multiply.com/info/privacy) for the most accurate reproduction.*
 
 # Multiply
 
@@ -32,7 +32,7 @@ Like most web sites, Multiply uses cookies and web log files to track site usage
 
 One type of cookie, known as a "persistent" cookie, is set when you log in to your Multiply account if you check the "remember me on this computer" box. The next time you visit the Multiply web site, the persistent cookie will allow us to recognize you as an existing member so you will not need to log in before using the service. In order to change your e-mail address or password, however, you will need to re-enter your password even if your computer contains your persistent cookie. Additionally, if you log out of the Multiply site you will need to re-enter your password the next time you visit in order to log in to your account. Another type of cookie, called a "session" cookie, is used to identify a particular visit to the Multiply site. Session cookies expire after a short time or when you close your web browser.
 
-Due to the communications standards on the Internet, when you visit the Multiply web site we automatically receive the URL of the site from which you came and the site to which you are going when you leave Multiply. We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, as well as the name of your ISP. This information may be used to analyze overall trends to help us improve the Multiply service, but is not linked to personally identifiable information in any way.
+Due to the communications standards on the Internet, when you visit the Multiply web site we automatically receive the URL of the site from which you came and the site to which you are going when you leave Multiply. We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the Web), your computer operating system and type of web browser you are using, as well as the name of your ISP. Tracking technologies are used to gather statistical data on user conversions, including sales and registrations. This information may be used to analyze overall trends to help us improve the Multiply service, but is not linked to personally identifiable information in any way.
 
 ### 6.Children
 
