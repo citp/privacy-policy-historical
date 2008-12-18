@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datingforparents.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512152816id_/http%3A//www.datingforparents.com/index.cfm%3Faction%3Dprivacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingforparents.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218212331id_/http%3A//www.datingforparents.com/index.cfm%3Faction%3Dprivacy%26) for the most accurate reproduction.*
 
 # Online Chat - Privacy - DatingForParents
 
@@ -8,10 +8,11 @@
   2. PRIVACY
   3. WEBSITE DATA COLLECTION
   4. YOUR PERSONAL DATA
-  5. DISCLOSURE OF YOUR PERSONAL DATA
-  6. DATA ACCESS & CORRECTIONS
-  7. TRANS-BORDER DATA TRANSFERS
-  8. GOVERNING LAW AND DISPUTES
+  5. ADVERTISING
+  6. DISCLOSURE OF YOUR PERSONAL DATA
+  7. DATA ACCESS & CORRECTIONS
+  8. TRANS-BORDER DATA TRANSFERS
+  9. GOVERNING LAW AND DISPUTES
 
 
 
@@ -31,13 +32,19 @@ Personal information is collated and stored primarily during the registration pr
 
 ### Your Personal Data
 
-  * Personal data submitted by you to this website will be used for the following purposes only. We will only collect and retain personal data to the extent that it is strictly necessary for our purposes. These purposes are -   
-to assist us in setting up and managing your account;   
-to build up an accurate customer profile of you;   
-in order to make available to you promotional or relevant information from Allegran Limited; 
-  * If you have registered with this website and do not wish to receive promotional or relevant information then please "Login", and "Update your details" to opt out. 
+We collect information about you, our users, so that you are able to use our services effectively. We will only collect and retain personal data to the extent that it is permitted by law and strictly necessary for our purposes. Personal data submitted by you to this website will be used by us for the following purposes only: 
+
+  * To assist us in setting up and managing your account; 
+  * To personalise aspects of our overall service to you by building an accurate customer profile of you; 
+  * To communicate with you about (a) profiles of other users who we believe will be of interest to you; (b) new users who have registered with the website; and (c) users who wish to communicate with you; and 
+  * In order to make available to you promotional information about products and services from Allegran Limited and its [associated companies](http://www.dmgt.co.uk/), and from selected third parties which may be of interest to you.
+  * If you have registered with this website and wish to change your preferences then please Login and access "My Profile" to make the relevant change
 
 
+
+### Advertising
+
+We use third-party advertising technology to serve ads when you visit our website and sites upon which we advertise. This technology uses non-personal information about your visits to this website and the sites upon which we advertise (not including your name, address, or other personal information) to serve ads to you. In the course of delivering advertisements, a unique third-party cookie may be placed or recognized on your browser. In addition, we use web beacons, provided by our ad-serving partner, to help manage our online advertising. These web beacons enable our ad server to recognize a browser’s cookie when a browser visits this site, and to learn which banner ads bring users to our website. The information collected and used by this technology is not personally identifiable. To learn more about this technology and how to “opt-out” from having non-personal information used to serve you ads, please go to <http://www.atlassolutions.com/privacy.aspx>
 
 ### Disclosure of Your Personal Data
 
