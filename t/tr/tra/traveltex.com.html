@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the traveltex.com privacy policy that was archived on 2008-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080605034215id_/http%3A//www.traveltex.com/extra/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the traveltex.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218061753id_/http%3A//www.traveltex.com/extra/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -94,6 +94,20 @@
                 return false;
             }
         } 
+    }
+    
+    function closeSuccessClick()
+    {
+        show_or_hide_control("loginSuccessPopup");
+        var currLoc = document.location.href.toLowerCase();
+        if (currLoc.indexOf("tripplanner.aspx") >= 0)
+        {
+            location="../tripplanner.aspx";
+        }
+        else
+        {
+            return false;
+        }
     }
 </script>
 <!-- Login Panel -->
@@ -245,7 +259,7 @@
             <table width="350">
                 <tbody><tr style="float: right">
                     <td align="right">
-                        <input type="image" name="ctl00$tripPlannerLogin$btnCloseSuccessPopup" id="ctl00_tripPlannerLogin_btnCloseSuccessPopup" src="/images/buttons/close.jpg" onclick="show_or_hide_control('loginSuccessPopup');return false;" border="0">
+                        <input type="image" name="ctl00$tripPlannerLogin$btnCloseSuccessPopup" id="ctl00_tripPlannerLogin_btnCloseSuccessPopup" src="/images/buttons/close.jpg" onclick="closeSuccessClick();" border="0">
                     </td>
                 </tr>
                 <tr>
@@ -998,12 +1012,13 @@ State of Texas TravelTex Web Site</h4>
 				    
 				<div id="footer">
 					<p class="footer_links">
-						<a href="/OffsiteLink.aspx?link=http://travel.state.tx.us/media.aspx">Media</a>
+						<a href="http://travel.state.tx.us/media.aspx">Media</a>
 						<a href="../travelguide/TravelProfessional.aspx">Travel Professionals</a>
 						<a href="/extra/Accessibility.aspx">Accessibility</a>
 						<a href="/extra/Privacy.aspx">Privacy &amp; Security</a>
 						<a href="/ContactUs.aspx">Contact Us</a>
 						<a href="/extra/Faq.aspx">FAQs</a>
+						<a href="/sitemap.aspx">Sitemap</a>
 						<a href="/extra/StateLinks.aspx">Links</a>
 					</p>
 					<p>The Official Site of Texas Tourism <a href="/extra/Copyright.aspx">© 2008</a> Office of the Governor, Economic Development and Tourism. All rights reserved.</p>
