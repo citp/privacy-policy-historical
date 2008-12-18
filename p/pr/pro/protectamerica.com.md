@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615032601id_/http%3A//www.protectamerica.com/pa/priv_p) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218112554id_/http%3A//www.protectamerica.com/pa/priv_p/protect-america) for the most accurate reproduction.*
 
-# Home Security Companies - Protect America - Privacy Policy
+# Protect America - Protect America Home Security - Privacy Policy
 
 ## Protect America, Inc. Privacy Policy (www.protectamerica.com)
 
@@ -10,7 +10,7 @@
 
 **Last Updated:** February 14, 2008
 
-Protect America, Inc. is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this Web site.
+[Protect America](http://www.protectamerica.com/ "Protect America Home | www.protectamerica.com"), Inc. is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this Web site.
 
 ## Information Collected
 
@@ -18,7 +18,7 @@ In general, you can visit this Web site without telling us who you are or reveal
 
 In addition, there are portions of this Web site where we may need to collect personal information from you for a specific purpose, such as to provide you with certain information you request. The information collected from you may include your name, address, telephone, fax number, or e-mail address.
 
-We use a third-party technology to place our advertisements on other Web sites. This technology will install a small "cookie" file on your computer when you view our ad. These cookies will not contain any information that personally identifies you (such as your name or e-mail address) but they will contain a randomly generated number that is unique to your browser and can be recognized by a "Web beacon" (transparent GIF file) on our site if you click through to our site from one of our ads. This allows us to keep track of how many unique visitors we have to our site and from what ads they entered, so that we can measure the effectiveness of our ads and ad placements. The privacy policies of the Web sites on which we advertise, and through which the cookies are installed should inform you about the cookie, and you may of course set your browser to reject cookies. To learn more about the third-party ad-serving technology that we use, cookies, and how to "opt-out," please [email us](http://www.protectamerica.com/pa/info@protectamerica.com "Email: Information").
+We use a third-party technology to place our advertisements on other Web sites. This technology will install a small "cookie" file on your computer when you view our ad. These cookies will not contain any information that personally identifies you (such as your name or e-mail address) but they will contain a randomly generated number that is unique to your browser and can be recognized by a "Web beacon" (transparent GIF file) on our site if you click through to our site from one of our ads. This allows us to keep track of how many unique visitors we have to our site and from what ads they entered, so that we can measure the effectiveness of our ads and ad placements. The privacy policies of the Web sites on which we advertise, and through which the cookies are installed should inform you about the cookie, and you may of course set your browser to reject cookies. To learn more about the third-party ad-serving technology that we use, cookies, and how to "opt-out," please [email us](http://www.protectamerica.com/pa/info@protectamerica.com "Protect America | Email: Information").
 
 This Web site is not intended for persons under 13 years of age. We do not knowingly solicit or collect personal information from or about children, and we do not knowingly market our products or services to children.
 
@@ -30,7 +30,7 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can send email us at [webmaster@protectamerica.com](mailto:webmaster@protectamerica.com "Email: Webmaster").
+If you have any questions about security on our Web site, you can send email us at [webmaster@protectamerica.com](mailto:webmaster@protectamerica.com "Protect America | Email: Webmaster").
 
 ## Use of Collected Information
 
@@ -44,13 +44,17 @@ We may share the personal information you provide with other companies or affili
 
 If you register with one of PAI's affiliates online, they may use this information to provide you with custom information about PAI's offerings in support of your business needs. They may also seek to place a "cookie" (small data file) as discussed above in order to provide you with tailored information. You should review the privacy policy associated with their web site for further information about their privacy practices.
 
+[
+
 ## Tell-A-Friend
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. PAI does not store this information. The information is used only for the sole purpose of sending this one-time email.
+](http://www.protectamerica.com/pa/cust_ref "Protect America | Tell-A-Friend Referral Service")
+
+If you choose to use our [referral service](http://www.protectamerica.com/pa/cust_ref "Protect America | Tell-A-Friend Referral Service") to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. PAI does not store this information. The information is used only for the sole purpose of sending this one-time email.
 
 ## Access to Personally Identifiable Information and Choice/Opt-out
 
-If you purchase a product/service or request more information on our products/services but do not wish to receive any additional marketing materials from PAI you may "opt-out" on our [unsubscribe page](http://www.protectamerica.com/unsubscribe.htm "Unsubscribe from E-mails"). If your personally identifiable information changes you make the change by emailing our Customer Support at [support@protectamerica.com](mailto:support@protectamerica.com "Email: Support"), by contacting us by telephone: 1.800.951.5111 or postal mail at the contact information listed below.
+If you purchase a product/service or request more information on our products/services but do not wish to receive any additional marketing materials from PAI you may "opt-out" on our [unsubscribe page](http://www.protectamerica.com/unsubscribe.htm "Unsubscribe from E-mails from Protect America"). If your personally identifiable information changes you make the change by emailing our Customer Support at [support@protectamerica.com](mailto:support@protectamerica.com "Protect America | Email: Support"), by contacting us by telephone: 1.800.951.5111 or postal mail at the contact information listed below.
 
 ## Links to Other Sites
 
@@ -64,13 +68,21 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 PAI is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site http://www.protectamerica.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact the Webmaster at [webmaster@protectamerica.com](mailto:webmaster@protectamerica.com "Email: Webmaster"). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at [TRUSTe Watchdog](http://www.truste.org/consumers/watchdog_complaint.php "TRUSTe Watchdog"). TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact the Webmaster at [webmaster@protectamerica.com](mailto:webmaster@protectamerica.com "Protect America | Email: Webmaster"). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at [TRUSTe Watchdog](http://www.truste.org/consumers/watchdog_complaint.php "TRUSTe Watchdog"). TRUSTe will then serve as a liaison with us to resolve your concerns.
+
+[
 
 ## Contacting Us
 
-If you have any questions about this privacy policy, please email us. We welcome your questions and suggestions about our privacy policy.
+](http://www.protectamerica.com/pa/contact "Protect America | Contact Information")
+
+If you have any questions about this privacy policy, please [email us](mailto:info@protectamerica.com "Email Protect America Information Inbox"). We welcome your questions and suggestions about our privacy policy.
+
+[
 
 ## Protect America, Inc.
+
+](http://www.protectamerica.com/pa/map "Map to Protect America, Inc.")
 
 5100 N. IH-35, Suite B  
 Round Rock, TX 78681 
@@ -79,5 +91,6 @@ Round Rock, TX 78681
 
 1.800.951.5111  
 or e-mail us at  
-[info@protectamerica.com](mailto:info@protectamerica.com "Email Our Information Inbox")  
+[info@protectamerica.com](mailto:info@protectamerica.com "Email Protect America Information Inbox")  
 
+  *[PAI]: Protect America, Inc.
