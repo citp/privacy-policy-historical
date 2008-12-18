@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadcastingcable.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514194525id_/http%3A//www.broadcastingcable.com/info/CA319082.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadcastingcable.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218015810id_/http%3A//www.broadcastingcable.com/info/CA319082.html) for the most accurate reproduction.*
 
 # Privacy Policy - Broadcasting & Cable
 
