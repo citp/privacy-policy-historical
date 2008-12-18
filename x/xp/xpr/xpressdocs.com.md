@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xpressdocs.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509141308id_/http%3A//xpressdocs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpressdocs.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218102619id_/http%3A//www.xpressdocs.com/privacy.php) for the most accurate reproduction.*
 
-# Real Estate Postcards
+# Xpressdocs Privacy Policy
 
 Xpressdocs knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Xpressdocs´ website, you are accepting the practices described in this Privacy Policy.
 
