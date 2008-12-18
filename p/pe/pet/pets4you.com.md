@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pets4you.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613073457id_/http%3A//www.pets4you.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pets4you.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218040521id_/http%3A//www.pets4you.com/privacy.html) for the most accurate reproduction.*
 
 # Pets 4 You - Privacy Policy
 
@@ -10,10 +10,10 @@ and under what circumstances, if any, we disclose it. **
 WEBSITE ADMINISTRATION  
   
 Business name:  |  Original Services  
-Address:  |  P.O. Box 1584  
-City:  |  Lower Lake  
-State/Province:  |  CA  
-ZIP:  |  95457  
+Address:  |  P.O. Box 948  
+City:  |  Tucson  
+State/Province:  |  AZ  
+ZIP:  |  85702  
 Country:  |  USA   
 Website URL:  |  [http://www.pets4you.com](http://www.pets4you.com/)  
 Website e-mail: |  [webmaster@pets4you.com](mailto:webmaster@pets4you.com)  
@@ -59,7 +59,7 @@ CONFLICT RESOLUTION
 **If problems arise, users may contact us by
 
   * email [ webmaster@pets4you.com](mailto:webmaster@pets4you.com). 
-  * telephone (707) 995-3440. 
+  * telephone (520) 623-4365. 
 
 **  
   
@@ -67,16 +67,16 @@ CONFLICT RESOLUTION
 CONTACT INFORMATION  
   
 If site users have any questions or suggestions regarding our privacy policy, please contact us at:  
-Telephone: |  (707) 995-3440  
+Telephone: |  (520) 623-4365  
 Email: |  [webmaster@pets4you.com](mailto:webmaster@pets4you.com)  
 Postal Address:  
-|  P.O. Box 1584  
-Lower Lake, California  
-USA 95457   
+|  P.O. Box 948  
+Tucson, AZ  
+USA 85702  
 Website URL: |  [http://www.pets4you.com](http://www.pets4you.com/)  
   
 This site is served, operated and maintained by   
 [ Pets4You.com](mailto:webmaster@pets4you.com)®  
-P.O. Box 1584 - Lower Lake, CA 95457  
-Phone: 707-995-3440 / Fax: 707-995-3450  
-All rights reserved. Copyright ©2006-2008
+P.O. Box 948 - Tucson, AZ  85702  
+Phone: 520-623-4365 / Fax: 520-623-0808  
+All rights reserved. Copyright ©2006-2009
