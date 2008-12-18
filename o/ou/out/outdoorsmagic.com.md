@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the outdoorsmagic.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218080105id_/http%3A//www.outdoorsmagic.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorsmagic.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218202859id_/http%3A//www.outdoorsmagic.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
 
 # OUTDOORSmagic - Privacy Policy
 
 | 
 
 |   
----  
-  
 ---  
   
 ---  
@@ -43,10 +41,6 @@ In addition to the uses made of information collected outlined above, all of the
 | 
 
 |   
----  
-  
----  
-  
 ---  
   
 ---
