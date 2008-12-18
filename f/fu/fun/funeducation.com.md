@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the funeducation.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214035724id_/http%3A//www.funeducation.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funeducation.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218064528id_/http%3A//www.funeducation.com/Company/Privacy) for the most accurate reproduction.*
 
 # FunEducation, Inc. Privacy Statement
 
   
-General Privacy Statement  |  [Children's Privacy Policy](https://web.archive.org/web/20071214035724id_/http://www.funeducation.com/company/privacy/children.asp)
+General Privacy Statement  |  [Children's Privacy Policy](https://web.archive.org/web/20081218064528id_/http://www.funeducation.com/Company/Privacy/Children.aspx)
 
 * * *
 
@@ -106,15 +106,18 @@ We follow generally accepted industry standards to protect the personal informat
 
 **OPT-OUT POLICY**
 
-Our Site gives users the opportunity to opt-out of receiving non-essential communications from FunEducation. You can opt-out of receiving non-essential communications from us at any time by emailing us at . In addition, whenever we send you a non-essential email communication, you can opt-out of similar future mailings by simply clicking on a link provided in the e-mail message.  
-If at any time you believe that we have not followed this Privacy Policy, you have any questions about this policy, or if you would like your information to be removed from our system, please contact us at . We will make reasonable efforts to identify and correct any reported problems. 
+Our Site gives users the opportunity to opt-out of receiving non-essential communications from FunEducation. You can opt-out of receiving non-essential communications from us at any time by emailing us at  . In addition, whenever we send you a non-essential email communication, you can opt-out of similar future mailings by simply clicking on a link provided in the e-mail message.  
+If at any time you believe that we have not followed this Privacy Policy, you have any questions about this policy, or if you would like your information to be removed from our system, please contact us at  . We will make reasonable efforts to identify and correct any reported problems. 
 
 **CORRECTING AND UPDATING YOUR INFORMATION**
 
-If you would like to revise the information provided to us, or feel that what we currently have on record is incorrect, you may update the information by emailing us at . 
+If you would like to revise the information provided to us, or feel that what we currently have on record is incorrect, you may update the information by emailing us at  . 
 
 **CHANGES IN THIS PRIVACY STATEMENT**
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
   We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
+
+  
+< [ Back to Homepage ](https://web.archive.org/web/20081218064528id_/http://www.funeducation.com/)
