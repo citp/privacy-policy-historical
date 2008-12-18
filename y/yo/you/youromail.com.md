@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youromail.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528060734id_/http%3A//www.youromail.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youromail.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218095308id_/http%3A//www.youromail.com/pages/privacy.php) for the most accurate reproduction.*
 
 # YouRoMail.com - Get Paid To Read Emails!
 
