@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the transgenderdate.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608082914id_/http%3A//transgenderdate.com/content.php%3Fc%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transgenderdate.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218075359id_/http%3A//transgenderdate.com/content.php%3Fc%3DPRIVACY) for the most accurate reproduction.*
 
-# Free Transgender Personals and Community for Transsexuals and Admirers Worldwide to find Love, Friendship and Support.
+# Free Transgender Personals - Community for Transsexuals and Admirers Worldwide to find Love, Friendship and Support.
 
   
      Transgenderdate.com (" Transgenderdate.com") is committed to ensuring your personal information is protected. This Privacy Policy was created to demonstrate our commitment to protecting your personal information and informing you about how we handle any information we receive from you. This Privacy Policy only applies to transactions and activities in which you engage, and data gathered, on the Transgenderdate.com Website (and double blind email communications between Transgenderdate.com members) (collectively, the "Site") but does not apply to any other Website or offline point of contact between Transgenderdate.com, or any other company, and consumers, that we do not control. 
