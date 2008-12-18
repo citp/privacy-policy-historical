@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shopzilla.com privacy policy that was archived on 2008-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080329121925id_/http%3A//www.shopzilla.com/47_-_content--privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopzilla.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218112418id_/http%3A//www1.shopzilla.com/47_-_content--privacy) for the most accurate reproduction.*
 
-# Shopzilla - Product Reviews and Price Comparison
+# Browse Home Products by : Buy the Best Products at Bargain Prices : Shopzilla
 
-[](http://www.truste.org/ivalidate.php?url=www.bizrate.com&sealid=101)
+[](http://www.truste.org/ivalidate.php?url=www.shopzilla.com&sealid=101)
 
 Shopzilla, Inc. ("Shopzilla") operates online shopping Web sites and provides other services ("Services") designed to deliver the best possible online shopping experience to you, our users. We are committed to protecting the privacy and security of the information we may gather about you, and we appreciate your trust that we will use and share that information carefully and sensibly. 
 
