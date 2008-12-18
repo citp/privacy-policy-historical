@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the starfishsolutions.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617111722id_/http%3A//www.starfishsolutions.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starfishsolutions.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218215221id_/http%3A//www.starfishsolutions.com/privacy.html) for the most accurate reproduction.*
 
 # Starfish Retention Solutions
+
+You Are Here: **Privacy Policy**
 
 January 1, 2008
 
@@ -40,3 +42,5 @@ At Starfish Retention Solutions, Inc. we recognize that privacy is important.  
 
 
 If you feel that this site is not following its stated information policy, you may contact The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
+
+Copyright © 2008 Starfish Retention Solutions, Inc. All Rights Reserved. 
