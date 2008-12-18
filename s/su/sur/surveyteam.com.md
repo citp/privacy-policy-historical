@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the surveyteam.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611104336id_/http%3A//www.surveyteam.com/user/jsp/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyteam.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218072758id_/http%3A//www.surveyteam.com/user/jsp/PrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # ::Welcome to Survey Team::
 
 **PRIVACY POLICY AGREEMENT**
 
-**Revised 15th June 2005**  
+**Revised 15th June 2006**  
 Your privacy is very important to us. We hope the following statement will help you understand how surveyteam.com collects, uses, and safeguards the personal information you provide to us on our Web site.  
 surveyteam.com has created this privacy policy to demonstrate our commitment to the privacy of users like you because your privacy is of utmost importance to us. 
 
@@ -66,7 +66,7 @@ Cookies used by SurveyTeam can only be seen by SurveyTeam, and cannot in any way
 
 4. **AGE REQUIRMENT**
 
-The 'surveyteam.com' service is unavailable to persons under the age of 18. 
+The 'surveyteam.com' service is unavailable to persons under the age of 13. 
 
 **DATA SECURITY**
 
@@ -86,7 +86,7 @@ surveyteam.com members are opted-in to receive surveyteam.com newsletters at the
 
 **CANCELING**
 
-You may cancel your Membership at anytime by [ unsubscribing here ](https://web.archive.org/web/20070611104336id_/http%3A//www.surveyteam.com/user/jsp/Unsubscribe.jsp). If you decide to cancel your membership and later wish to re-enroll, you will be assigned a new account ID and you will not receive credit for earnings made using your previous account. Surveyteam.com reserves the right to terminate or suspend any account at any time with or without notice. surveyteam.com does not tolerate any abuse, harassment, or fraudulent activity aimed towards other members or surveyteam.com. Changes To The Privacy Policy: By registering to use the surveyteam.com service, you agree to accept this privacy policy and are aware that surveyteam.com privacy policy may change from time to time. We strongly advise our members to check back from time to time. We also welcome any feedback from you; please email us at [support@surveyteam.com](mailto:support@surveyteam.com)if you have any comments regarding the information or improvements that can be made to this privacy policy. 
+You may cancel your Membership at anytime by [ unsubscribing here ](https://web.archive.org/web/20081218072758id_/http%3A//www.surveyteam.com/user/jsp/Unsubscribe.jsp). If you decide to cancel your membership and later wish to re-enroll, you will be assigned a new account ID and you will not receive credit for earnings made using your previous account. Surveyteam.com reserves the right to terminate or suspend any account at any time with or without notice. surveyteam.com does not tolerate any abuse, harassment, or fraudulent activity aimed towards other members or surveyteam.com. Changes To The Privacy Policy: By registering to use the surveyteam.com service, you agree to accept this privacy policy and are aware that surveyteam.com privacy policy may change from time to time. We strongly advise our members to check back from time to time. We also welcome any feedback from you; please email us at [support@surveyteam.com](mailto:support@surveyteam.com)if you have any comments regarding the information or improvements that can be made to this privacy policy. 
 
 **CONTACT INFORMATION**
 
