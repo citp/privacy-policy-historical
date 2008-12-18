@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the myinterestingfiles.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531155312id_/http%3A//www.myinterestingfiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myinterestingfiles.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218143652id_/http%3A//www.myinterestingfiles.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy at My Interesting Files
+# Privacy Policy
 
-## Privacy Policy
+Browse: [Home](http://www.myinterestingfiles.com/ "My Interesting Files") / Privacy Policy 
+
+##  [Privacy Policy](http://www.myinterestingfiles.com/privacy-policy "Privacy Policy")
 
 My Interesting Files and Must Read Files Privacy Statement
 
@@ -54,4 +56,12 @@ Contact Information
 
 If you have any questions regarding our privacy policy, please contact us.
 
-Popularity: 1%
+[RSS feed](http://www.myinterestingfiles.com/privacy-policy/feed) | [Trackback URI](http://www.myinterestingfiles.com/privacy-policy/trackback)
+
+No comments yet.
+
+### Trackback responses to this post
+
+
+
+  *[RSS]: Really Simple Syndication
