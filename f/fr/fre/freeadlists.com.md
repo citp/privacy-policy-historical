@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeadlists.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609193009id_/http%3A//www.freeadlists.com/index.php%3Fpag%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadlists.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218033540id_/http%3A//www.freeadlists.com/index.php%3Fpag%3Dpolicy) for the most accurate reproduction.*
 
 # FreeAdLists.com - Free Ads - Free Classified Ads - Free Personal Ads - American Classifieds - Post Free Ads
 
