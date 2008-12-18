@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smithmicro.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616223156id_/http%3A//www.smithmicro.com/privacy.tpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithmicro.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218040854id_/http%3A//www.smithmicro.com/privacy.tpl) for the most accurate reproduction.*
 
 # Privacy Policy - Smith Micro Software, Inc.
 
@@ -45,13 +45,6 @@ Smith Micro uses the personal information we gather for the following purposes:
 
 
 If you desire to not receive information from Smith Micro, you can request to be removed by following the procedures described below.
-
-_Sharing Your Personal Information_  
-From time to time, Smith Micro may provide your information to third parties, including selected business partners, for marketing purposes to communicate to you about products or services that they believe are important to you or your business.
-
-If you desire that we not provide your information to these third party and business partners, you can request to be removed by following the procedures described below.
-
-Please be advised that in certain instances, it may be necessary for Smith Micro to disclose your personal information to government officials or otherwise as required by our legal obligations.
 
 _Email Marketing Campaigns_  
 To help us understand the effectiveness of our email marketing efforts, SmithMicro.com may use "message open" sensing technology which require the use of pixel tags or clear GIFs (also called web beacons). This technology allows us to recognize whether you have opened our email message. This information is used solely for the purpose of determining the effectiveness of our email promotions. We can only detect this if your have enabled your email program to receive HTML emails.
