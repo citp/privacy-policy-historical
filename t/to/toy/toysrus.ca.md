@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toysrus.ca privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610135346id_/http%3A//www.toysrus.ca/helpdesk%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toysrus.ca privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218112356id_/http%3A//www.toysrus.ca/helpdesk%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
 
 # Toys"R"Us/Babies"R"Us : Help Desk
 
