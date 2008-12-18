@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the expatwomen.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413055903id_/http%3A//www.expatwomen.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatwomen.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218142202id_/http%3A//www.expatwomen.com/privacy.php) for the most accurate reproduction.*
 
-# Expat Women - Helping Women Living Overseas
+# Expat Women - Helping Expatriate Women Living Overseas - Expat Relocation Abroad - Expat Blogs
 
-  
-This site is owned and operated by Expat Women Enterprises Pty Ltd. We give full respect to your privacy and confidential contact information. This statement explains our policies and practices regarding the use and disclosure of your personal information by Expat Women Enterprises Pty Ltd. Please note that, Expat Women Enterprises Pty Ltd reviews and updates this Privacy Policy from time to time as needed without notice. Therefore, you should review the terms of this policy periodically to make sure that you are aware of how Expat Women Enterprises Pty Ltd collects and uses personal information. By using our web site, you consent to the collection and use of your personal information by Expat Women Enterprises Pty Ltd as explained below. 
+This site is owned and operated by Expat Women Enterprises Pty Ltd. We give full respect to your privacy and confidential contact information. This statement explains our policies and practices regarding the use and disclosure of your personal information by Expat Women Enterprises Pty Ltd. Please note that, Expat Women Enterprises Pty Ltd reviews and updates this Privacy Policy from time to time as needed without notice. Therefore, you should review the terms of this policy periodically to make sure that you are aware of how Expat Women Enterprises Pty Ltd collects and uses personal information. By using our web site, you consent to the collection and use of your personal information by Expat Women Enterprises Pty Ltd as explained below.    
+
 
 1\. Personal Information
 
@@ -25,7 +25,7 @@ Expat Women Enterprises Pty Ltd will not knowingly give away, rent, or sell any 
 
 4\. Accuracy and Security
 
-The accuracy and security of the personal information is important to Expat Women Enterprises Pty Ltd. Currently, you may request updates to your personal information retained by Expat Women Enterprises Pty Ltd. If you [Contact Us](mailto:contactus@expatwomen.com?subjet=ExpatWomen%20Updates:%20Genuine%20Contact) to correct your personal information, we will attempt to correct such inaccuracies in a timely manner. If you have previously provided us with your [Contact Us](mailto:contactus@expatwomen.com?subjet=ExpatWomen:%20Genuine%20Contact). We will try to accommodate your request, but cannot promise that it will happen immediately. Expat Women Enterprises Pty Ltd is concerned with the security of your Personal information and is committed to taking reasonable steps to protect it from unauthorized access and use of that personal information. __
+The accuracy and security of the personal information is important to Expat Women Enterprises Pty Ltd. Currently, you may request updates to your personal information retained by Expat Women Enterprises Pty Ltd. If you [Contact Us](mailto:contactus@expatwomen.com?subject=ExpatWomen%20Updates:%20Genuine%20Contact) to correct your personal information, we will attempt to correct such inaccuracies in a timely manner. If you have previously provided us with your [Contact Us](mailto:contactus@expatwomen.com?subject=ExpatWomen:%20Genuine%20Contact). We will try to accommodate your request, but cannot promise that it will happen immediately. Expat Women Enterprises Pty Ltd is concerned with the security of your Personal information and is committed to taking reasonable steps to protect it from unauthorized access and use of that personal information. __
 
 5\. External Links
 
@@ -37,4 +37,4 @@ Please also see our Terms and Conditions, which describes the restrictions, disc
 
 9\. General
 
-If you have questions regarding our Privacy Statement, please [Contact Us](mailto:contactus@expatwomen.com?subjet=Expat%20Women%20%C3%A2%E2%82%AC%E2%80%9C%20Genuine%20Contact%20-%20Privacy%20Policy).
+If you have questions regarding our Privacy Statement, please [Contact Us](mailto:contactus@expatwomen.com?subject=ExpatWomen:%20Genuine%20Contact%20-%20Privacy%20Policy).
