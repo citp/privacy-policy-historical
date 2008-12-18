@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailcenterpro.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510123507id_/http%3A//www.emailcenterpro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailcenterpro.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218094108id_/http%3A//www.emailcenterpro.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - Email Center Pro
 
@@ -18,11 +18,11 @@ Palo Alto Software will not disclose to any third party any information or data 
 
 The data we collect is used in the aggregate to give us demographic information about the entire Palo Alto Software, Inc. audience in order to improve our products and services. The information you provide -- name, address, etc. -- allows us to keep you informed about upgrades, products and services of Palo Alto Software, Inc., its affiliates and other third parties that we believe may be of interest to you. If you are a registered user of one of our products, we will only send information regarding your product or any assistance you require. We do not send our business planning newsletter automatically: you will only receive it if you specifically register for it. We only share aggregate information (i.e. number of users, referral URLs, etc.) -- not individual data -- with our advertisers to help them better understand our services and to monitor the reach of their advertising.
 
-If you would like to modify, update or delete information that is collected through ordering, or registration please contact customerservice@paloalto.com or call 1-800-229-7526.
+If you would like to modify, update or delete information that is collected through ordering, or registration please contact customerservice@paloalto.com or call 1-800-605-7057.
 
 Legal Disclaimer: We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our website.
 
-If you have questions, we can be reached by email at customerservice@paloalto.com or 1-800-229-7526.
+If you have questions, we can be reached by email at customerservice@paloalto.com or 1-800-605-7057.
 
 Effective Date: 02/22/08
 
