@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the imleagues.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619135942id_/http%3A//www.imleagues.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imleagues.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218044508id_/http%3A//www.imleagues.com/Portal.aspx%3FPortal%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy - imleagues.com
+# imleagues.com
+
+ 
 
 **Privacy Policy**
 
