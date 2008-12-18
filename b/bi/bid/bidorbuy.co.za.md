@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bidorbuy.co.za privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629072137id_/http%3A//www.bidorbuy.co.za/static/help/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidorbuy.co.za privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218165248id_/http%3A//www.bidorbuy.co.za/static/help/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [Terms & Conditions](https://web.archive.org/static/help/TermsandConditions.html) | [Billing Statement](https://web.archive.org/static/help/BillingStatement.html) | [Rating Rules](https://web.archive.org/static/help/RatingRules.html) | [Listing Policy](https://web.archive.org/static/help/ListingPolicy.html) | [Verified User Agreement](https://web.archive.org/static/help/VerifiedUserAgreement.html) | **Privacy Statement** | [Affiliate Terms](https://web.archive.org/static/help/affiliateTerms.html)
 
-This Privacy Statement was last revised on 20 July 2001. 
+This Privacy Statement was last revised on 5 August 2008. 
 
 This privacy statement discloses the privacy practices for the **bidorbuy.co.za site**.
 
@@ -41,6 +41,8 @@ We will also collect financial information about you if you choose to bid for ce
 **Registration  **
 
 In order to use our site, you must first complete the registration form.  When you register we collect personal information such as your name, address, email address, telephone and fax numbers.  This information is used to contact you about the services on our site for which you have expressed interest.  We also collect additional information (such as “How did you hear about us?”, your interests), and unique identifiers (such as your company name and VAT number, if applicable).  All information that is mandatory is made known on the registration form and is necessary to complete the registration process. You are encouraged to provide the additional, optional information specified on the registration form so we can provide you with a more personalized experience on our site. 
+
+We may, at our sole discretion, request additional personal information from you. You may be required to confirm such details as your identity, address and contact information for security and verification reasons. This information may include copies of ID documents, passports, utility bills, licenses, rights to sell or distribute a particular item or product, legal or financial documentation, or any other documentation related to your use of this website (but not limited to this). 
 
 **Cookies  **
 
