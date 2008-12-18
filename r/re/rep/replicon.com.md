@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the replicon.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629183728id_/http%3A//www.replicon.com/about_replicon/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replicon.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218232232id_/http%3A//www.replicon.com/about_replicon/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Replicon - Privacy Statement
 
-[Home](https://web.archive.org/default.aspx "Replicon, Inc. offers easy to use timesheet software for employee attendance and project billing solutions.") > [About Us](https://web.archive.org/about-replicon.aspx "Replicon, Inc. is the global leader of corporate web-based time and expense management solutions.") > Privacy Statement
+[Home](https://web.archive.org/default.aspx "Timesheet and time tracking software by Replicon. Easy to use timesheet software for employee time tracking, attendance and payroll as well as project time tracking and client billing.") > [About Us](https://web.archive.org/about-replicon.aspx "Replicon, Inc. is the global leader of corporate web-based time and expense management solutions.") > Privacy Statement
 
 ("Replicon" or "we", "us", "our", etc.)
 
@@ -27,9 +27,9 @@ We do not collect any personal information from individuals who simply visit our
 
 Replicon's website server also use cookies, which are small text files containing information sent to the computer of a visitor to our website. Cookies are used to help our web server track such things as user preferences that the user may submit in order to make the website more interactive with the user and more responsive to their preferences. Information stored in cookies is used to pre-populate form fields and to remember user preference. This is done for user convenience as well as to provide us with information on which parts of our website are being viewed and by how many visitors. The tracking process is anonymous and no personal information is used.
 
-**Email**
+**E-mail**
 
-If you voluntarily submit personal information to us by email for purposes of obtaining information, we will consider that you have done so with your consent for purposes reasonably related to your providing the information. If reasonable to do so, after our initial response, we may send further information to you with information that may be useful, but we will include instructions on how to terminate receiving such further information. Please be advised that the Internet and email are inherently insecure media, and we cannot take responsibility for the security or privacy of personal information in transit over the Internet.
+If you voluntarily submit personal information to us by e-mail for purposes of obtaining information, we will consider that you have done so with your consent for purposes reasonably related to your providing the information. If reasonable to do so, after our initial response, we may send further information to you with information that may be useful, but we will include instructions on how to terminate receiving such further information. Please be advised that the Internet and e-mail are inherently insecure media, and we cannot take responsibility for the security or privacy of personal information in transit over the Internet.
 
 **Third Party Websites**
 
@@ -138,7 +138,7 @@ All incoming and outgoing telephone calls using Replicon's telephone systems are
 
 Recordings of telephone calls are initially not reviewed or overheard in any manner, but are archived in digital format on a secure server without review. Such recordings may be subsequently reviewed by Replicon at any time for any one or more of the stated purposes and, in particular, may be used without notification or consent as evidence in the event of an investigation or legal proceeding related to such telephone conversation, or to review the quality of service provided in situations where Replicon has a basis to believe that such quality may not be adequate and generally only with respect to those Replicon representatives who interact with customers.
 
-Callers from outside Replicon are advised that their call may be recorded and potentially used on the foregoing basis by posting a notice to that effect on Replicon's web site. Callers have the option at their request of opting out of such recording by asking their Replicon representative to call them back on a cell phone, which is not subject to automated recording. Individuals may also communicate with Replicon via email, fax or mail.
+Callers from outside Replicon are advised that their call may be recorded and potentially used on the foregoing basis by posting a notice to that effect on Replicon's web site. Callers have the option at their request of opting out of such recording by asking their Replicon representative to call them back on a cell phone, which is not subject to automated recording. Individuals may also communicate with Replicon via e-mail, fax or mail.
 
 Recordings, including recordings that are not reviewed, are retained on the same basis as other personal information pursuant to this Policy. Where required or permitted by law, Replicon may use or disclose personal information contained in recordings. Replicon does not use information contained in recordings for marketing or solicitation purposes. Access to such recordings is restricted to particular individuals within Replicon who have obligations of confidentiality to Replicon and who have a need to review such recordings as part of their obligations to Replicon.
 
@@ -171,7 +171,7 @@ Alberta law permits individuals to submit written requests to us to provide them
 Requests for access are subject to the following:
 
   * Any requests must be in writing.
-  * We do not accept such requests or respond to such requests via email.
+  * We do not accept such requests or respond to such requests via e-mail.
   * In order to receive a response to such a request, the individual must provide us with sufficient information to locate their record, if any, and to respond to them.
   * We will respond to requests in the time allowed by Alberta law, which is generally 45 days. In certain circumstances, we may have a right to extend this period of time and will advise in writing if we are doing so.
   * We will make a reasonable effort to assist applicants and to respond as accurately and completely as reasonably possible.
