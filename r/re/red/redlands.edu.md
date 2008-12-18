@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the redlands.edu privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611100850id_/http%3A//www.redlands.edu/x14087.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redlands.edu privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218214137id_/http%3A//www.redlands.edu/x14087.asp) for the most accurate reproduction.*
 
 # University of Redlands - Privacy Policy
+
+## Privacy Policy
 
 The University of Redlands is committed to ensuring the privacy and accuracy of your confidential information and to compliance with both state and federal regulations concerning the use of personal information. Other than as required by laws that guarantee thrid party to certain types of information, or in response to subpoenas or other legal instruments that authorize access, personally-identifiable information is not shared. In particular, we do not re-distribute or sell personal information collected on our Web servers. This policy applies to information that is collected by any means whether electronically, by telephone or on paper.
 
@@ -29,3 +31,6 @@ Questions regarding users' rights to review, modify or delete their previously p
 
 **Notification of Changes**  
 The University of Redlands Privacy Policy is reviewed periodically and may be modified in the discretion of the University. Changes to the privacy policy will be incorporated and posted on this site. Information will be handled according to the privacy policy in effect at the time the information is used.
+
+
+
