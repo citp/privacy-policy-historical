@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the islandnet.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531030635id_/http%3A//helpdesk.islandnet.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandnet.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218183057id_/http%3A//helpdesk.islandnet.com/help/privacy.php) for the most accurate reproduction.*
 
 # Islandnet.com :: Privacy
 
-[Return to the help index](https://web.archive.org/web/20080531030635id_/http%3A//helpdesk.islandnet.com/help/index.php)
+[Return to the help index](https://web.archive.org/web/20081218183057id_/http%3A//helpdesk.islandnet.com/help/index.php)
 
-**Last updated October 31 2005 at 10:16 am**
+**Last updated June 07 2008 at 12:06 pm**
 
 The policies outlined below deal only with the use of customer and related information. You might also want to view our [**Terms of Use**](https://web.archive.org/help/terms.php).
 
@@ -89,9 +89,9 @@ Customers may request a copy of any information kept about them by Islandnet by 
   * [privacy@islandnet.com](mailto:privacy@islandnet.com)
   * Privacy Officer  
 Islandnet.com  
-1412 Quadra Street  
+#101-777 Goldstream Avenue  
 Victoria, BC  
-V8W 2L1
+V9B 2X4
   * Local telephone/fax: 250-383-0096 
   * Toll-free: 800-331-3055
 
