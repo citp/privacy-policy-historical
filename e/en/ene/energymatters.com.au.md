@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the energymatters.com.au privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605161002id_/http%3A//www.energymatters.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energymatters.com.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218040246id_/http%3A//www.energymatters.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Solar Power & Wind Energy : solar panels, wind generators, batteries, inverters - Energy Matters
 
-  
-
-
 ## 1\. Overview 
 
-Please read our privacy policy carefully. As part of the normal operation of our services we collect, use and from time to time, disclose information about you to third parties. This Privacy Policy governs the information we collect about you and your use of information we provide to you. By accepting this Privacy Policy and the User Guidelines, you expressly consent to our use and disclosure of your personal information in the manner prescribed in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Energy Matters' User Agreement. 
+Please read our privacy policy carefully. As part of the normal operation of our services we collect, use and from time to time, disclose information about you to third parties. This Privacy Policy governs the information we collect about you and your use of information we provide to you. 
+
+By accepting this Privacy Policy and the User Guidelines, you expressly consent to our use and disclosure of your personal information in the manner prescribed in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Energy Matters' User Agreement. 
 
 The privacy practices of this notice apply to the Energy Matters website (collectively the " **Site** "). Energy Matters operates under similar privacy practices as described in this Privacy Policy and, subject to the requirements of applicable law and, in the case of Australia, the requirements of the Privacy Act 1988 (Cth), (as amended by the private sector provisions which came into effect on 21 December 2001) (the " **Privacy Act** ") and in the case of New Zealand, the requirements of the Privacy Act of 1993. 
 
