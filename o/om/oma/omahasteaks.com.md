@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omahasteaks.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217235321id_/http%3A//www.omahasteaks.com/servlet/OnlineShopping%3FDsp%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omahasteaks.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218080201id_/http%3A//www.omahasteaks.com/servlet/OnlineShopping%3FDsp%3D16) for the most accurate reproduction.*
 
 # Omaha Steaks Privacy Policy
 
@@ -77,4 +77,4 @@ To update, correct or delete your personal information, you can contact us at:
 > We may be reached via e-mail at custserv@omahasteaks.com  
 > Or, you may reach us by telephone at 1-800-960-8400.
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections or changes.
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections or changes. 
