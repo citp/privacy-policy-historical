@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vanquis.co.uk privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614204101id_/http%3A//www.vanquis.co.uk/home/About_us/Privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanquis.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218052440id_/http%3A//www.vanquis.co.uk/home/About_us/Privacy_statement.aspx) for the most accurate reproduction.*
 
-# Privacy statement
+# Privacy Statement - Vanquis
 
 **4  June 2006**
 
