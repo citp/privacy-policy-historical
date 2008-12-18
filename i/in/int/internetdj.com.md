@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetdj.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608075507id_/http%3A//www.internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetdj.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218114207id_/http%3A//www.internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.*
 
 # Privacy Statement for InternetDJ.com
 
@@ -54,5 +54,5 @@ This policy, like the online medium itself, is subject to change.
 
 **You need to be logged in** in order to post your comments. 
 
-[**Click Here**](https://web.archive.org/web/20080608075507id_/http%3A//www.internetdj.com/user.php?action=login) to login or register if you don't have an account.   
+[**Click Here**](https://web.archive.org/web/20081218114207id_/http%3A//www.internetdj.com/user.php?action=login) to login or register if you don't have an account.   
 
