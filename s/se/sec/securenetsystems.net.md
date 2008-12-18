@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the securenetsystems.net privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517005158id_/http%3A//www.securenetsystems.net/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securenetsystems.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218202722id_/http%3A//www.securenetsystems.net/company/privacy) for the most accurate reproduction.*
 
-# Securenet Systems' Online Privacy Policy | Your Information is Kept Private
+# Securenet Systems’ Online Privacy Policy
 
 **Information You Give Us**
 
