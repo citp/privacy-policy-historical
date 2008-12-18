@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitarguitar.co.uk privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629005252id_/http%3A//www.guitarguitar.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarguitar.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218094930id_/http%3A//www.guitarguitar.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # GUITARGUITAR - Privacy Policy
 
@@ -12,7 +12,7 @@ We will treat all your personal information as private and confidential except w
 
 GUITARGUITAR Limited may use your information for the purposes of administration, to process an order, to respond to any requests that you may have, to source products for you, customer services, analysing your purchasing preferences and customer profiling. We do not share your information with any third parties. All credit and debit card processing is handled securely by WorldPay. We do not see your card details at any time. 
 
-2\. Marketing If you decide now or at any time that you do not want to receive our Newsletter please e-mail us at [newsletter@guitarguitar.co.uk](mailto:newsletter@guitarguitar.co.uk); use the [Contact us](https://web.archive.org/web/20080629005252id_/http%3A//www.guitarguitar.co.uk/contact.asp) page on our website [www.guitarguitar.co.uk](http://www.guitarguitar.co.uk/); or write to us at GUITARGUITAR Limited, 283-287 St Johns Road, Edinburgh EH12 7XF. You have the right to ask for a copy of your information (subject to a fee). Please write to us at GUITARGUITAR Limited, 283-287 St Johns Road, Edinburgh EH12 7XF.
+2\. Marketing If you decide now or at any time that you do not want to receive our Newsletter please e-mail us at [newsletter@guitarguitar.co.uk](mailto:newsletter@guitarguitar.co.uk); use the [Contact us](https://web.archive.org/web/20081218094930id_/http%3A//www.guitarguitar.co.uk/contact.asp) page on our website [www.guitarguitar.co.uk](http://www.guitarguitar.co.uk/); or write to us at GUITARGUITAR Limited, 283-287 St Johns Road, Edinburgh EH12 7XF. You have the right to ask for a copy of your information (subject to a fee). Please write to us at GUITARGUITAR Limited, 283-287 St Johns Road, Edinburgh EH12 7XF.
 
 3\. Email & Web Site The GUITARGUITAR web site offers a range of products and services. Please ensure that you read the legal information notice when you enter the site. 
 
