@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sunherald.com privacy policy that was archived on 2008-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080521022236id_/http%3A//www.sunherald.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunherald.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218174710id_/http%3A//www.sunherald.com/privacy_policy) for the most accurate reproduction.*
 
-# SunHerald.com : Privacy Policy
+# SunHerald.com Privacy Policy
 
 Effective Date: March 4, 2007.
 
@@ -18,19 +18,19 @@ You may also be asked to create a separate registration account with some of the
 
 If you wish to forward an article to a friend, we will ask that you provide your friend’s name and e-mail address. While we may collect statistics on which articles are forwarded, we do not sell, rent, or market your friend’s personal information, and retain the information only as long as necessary to provide this service. 
 
-**Passive Data Collection and Use**
+## Passive Data Collection and Use
 
 Like most Web sites, SunHerald.com also collects and logs information automatically and through the use of electronic tools that may be transparent to you, such as your IP address, the name and location of your Internet Service Provider, the type and version of your browser, the length of time that you stay on SunHerald.com, search queries, your click-stream data, the location that referred you to SunHerald.com and the average number of pages viewed. If you visit another website prior to browsing SunHerald.com, that website might place personally identifiable information within a URL, which may be logged by us. Your IP address is the identifier assigned to your particular computer when you access the Internet. Depending on how you connect to the Internet, your IP address may always be the same, or it may change each time you access the Internet. Note that logging your IP address does not in and of itself provide us with your name, e-mail address or home or work address. We use this log information for systems administration and troubleshooting purposes and may also use it to gather general demographic information about you such as your general location and your Internet Service Provider. In order to better provide our services to you and to develop member profiles that enable us to focus our site, services and advertisements on your interests, we may correlate this log information with other information about you, such as your registration information or newspaper subscription records.
 
-**Use of Cookies**
+## Use of Cookies
 
-Most standard Web browsers contain a feature called "cookies," which allow a Web site to place information about a user's visit to that Web site in a small data text file that is stored on the user's computer. Our use of cookie technology will likely be transparent to you and is used to recognize you and hold information from one visit to the next in an effort to increase your ease of use of SunHerald.com and to allow us to better understand how people use our site through click-stream analysis. For example, cookies are used to store your membername and password, sparing you from having to re-enter that information each time you visit. Another example is that we may use cookie technology to control the number of times you see a particular advertisement while visiting SunHerald.com. __ You can turn the cookies feature off by using your browser preference options, but doing so will severely limit your access to SunHerald.com and may prevent you from registration. 
+Most standard Web browsers contain a feature called "cookies," which allow a Web site to place information about a user's visit to that Web site in a small data text file that is stored on the user's computer. Our use of cookie technology will likely be transparent to you and is used to recognize you and hold information from one visit to the next in an effort to increase your ease of use of SunHerald.com and to allow us to better understand how people use our site through click-stream analysis. For example, cookies are used to store your membername and password, sparing you from having to re-enter that information each time you visit. Another example is that we may use cookie technology to control the number of times you see a particular advertisement while visiting SunHerald.com. You can turn the cookies feature off by using your browser preference options, but doing so will severely limit your access to SunHerald.com and may prevent you from registration. 
 
 Some of SunHerald.com’s third party content providers also may place a cookie on the user’s computer. If a user chooses to monitor or restrict cookies that are placed on his computer, the user can determine the Web site that is attempting to place a cookie. Those cookies are controlled by the content provider, and users should refer to that provider’s privacy policy for further information regarding its use of cookies.
 
 We use software developed by another company, RealMedia, to display advertising on SunHerald.com, and we may use cookies in conjunction with displaying those ads. In addition, advertisers may elect to use other advertising companies to serve their ads on SunHerald.com, and advertisers themselves may also place a cookie on a user’s computer. We do not have access to the cookies or their contents that are placed by advertisers or by third-party advertising companies.
 
-**Use of Personally Identifiable Information**
+## Use of Personally Identifiable Information
 
 Personally Identifiable Information may be accessed by the user who entered it, by The SunHerald and SunHerald.com personnel, and by certain third parties, such as those who provide technical support or content services to SunHerald.com. We ask these third parties to keep any personal information supplied by us confidential. We also endeavor to keep your Personally Identifiable Information inaccessible to other users or advertisers of SunHerald.com. Note that your first name may be displayed on SunHerald.com when you visit SunHerald.com as a logged-in member. We will also display your e-mail address and contact information in your Member Center. We make every effort to make the Member Center secure, such that; it can only be accessed by logging in with your membername and password. 
 
@@ -42,7 +42,7 @@ We will not disclose your Personally Identifiable Information without your advan
 
 In order to describe our services to prospective partners, advertisers and others, we may use your Personally Identifiable Information to create a compiled, aggregate view of the SunHerald.com audience and their usage patterns. We use Aggregated Information to operate our services and to better understand our audience as we develop new content and services. Aggregated Information may also be shared with third parties we contract with to provide content and services on SunHerald.com as well as advertisers so that they can better understand our audience. For example, we might disclose that a certain percentage of our users are female or within a certain age range or live within a cluster of zip codes. 
 
-**Children's Privacy**
+## Children's Privacy
 
 SunHerald.com is particularly concerned with providing a safe online environment for children. Children under the age 13 will not be allowed to register and become a member of SunHerald.com in order to access general SunHerald.com content, features and services. 
 
@@ -54,7 +54,7 @@ SunHerald.com will not knowingly disclose personal information about users under
 
 SunHerald.com strongly recommends parental supervision when a child uses the Internet, particularly when a child enters a forum or uses e-mail. We also encourage parents to instruct their children not to give out personal information in these areas.
 
-**Member Mail and E-mail Offers**
+## Member Mail and E-mail Offers
 
 SunHerald.com does not rent, sell, barter or give away its user or member lists or its users' or members’ names, e-mail addresses or mailing addresses for use by advertisers and other third parties for the purpose of solicitations, unless the user has previously given his or her consent at the time of general registration or registration for a specific contest or service. If a user granted permission to receive solicitations (referred to as E-mail Offers) at the time of registration but subsequently wishes to opt out from receiving such solicitations, the user may go to the Member Center and change one or more of the category-specific permission related to receiving e-mail from the Sun Herald and SunHerald.com advertisers. 
 
@@ -66,15 +66,17 @@ When a user specifically authorizes e-mail solicitations we make available the u
 
 Our HTML-encoded e-mail messages may include graphic files, which we use to gather information about e-mails sent our members. When such a message is opened in an HTML-capable e-mail program, the recipient’s computer accesses our server to retrieve the graphic file, and allows us to record and store the date and time, the recipient’s e-mail address, and other standard logging information. These HTML-encoded e-mail messages may also read cookies. 
 
-**Affiliated sites, linked sites and advertisements**
+## Affiliated sites, linked sites and advertisements
 
 SunHerald.com expects its partners, providers of content and services and advertisers to respect the privacy of our users. Be aware, however, that third parties, including our partners, providers of content and services, advertisers and others accessible through our site may have their own privacy and data collection policies and practices. For example, during your visit to SunHerald.com you may link to, or view as part of a frame on a SunHerald.com page, certain content that is actually created or hosted by a third party. Also through SunHerald.com you may be introduced to, or be able to access information, services, Web sites, features, contest or sweepstakes offered by other parties. The Sun Herald and SunHerald.com are not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
 
-**Electronic commerce with the Sun Herald**
+We use third-party advertising technology vendors to collect, via includes cookies and web beacons (1x1 pixels), non-personally identifiable data when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. <http://www.networkadvertising.org/consumer/opt_out.asp>
+
+## Electronic commerce with the Sun Herald
 
 For certain electronic commerce services on SunHerald.com, such as placing classified ads electronically or subscribing to the Sun Herald newspaper, we require additional information. To complete these transactions, we may collect information from you such as your name, credit card number and other financial or Personally Identifiable Information. We endeavor to protect the security of your payment information during transmission by using Secure Sockets Layer (SSL) technology, which encrypts information you submit. The Sun Herald uses the credit card and shipping information for the purpose of completing the transaction and does not provide this information to third parties except for the issuers of credit cards in order to process the transaction, or as otherwise set forth in this policy. 
 
-**Changing your personal information**
+## Changing your personal information
 
 In general, a registered member may return to his or her account information page in the _Member Center_ to update the information he or she previously provided to us. To prevent minors from improperly entering contests for which they are not eligible, we may require additional proof from people asking to change their birth date information. Information you provide to SunHerald.com may be stored by us for an indefinite time. This information includes the registration data as well as information provided in conjunction with various membership services, contests or features available on SunHerald.com 
 
@@ -86,15 +88,15 @@ You should know that when you voluntarily disclose personal information on the S
 
 In addition, our advertisers, content providers, partners and other Internet sites or services that may be accessible through SunHerald.com have separate data and privacy practices that are independent of us, and we disclaim any responsibility or liability for their policies or actions. Please contact those sites directly if you have questions about their privacy policies.
 
-**International users**
+## International users
 
 If you are an international user, by using SunHerald.com or by registering for any of its services, you agree that SunHerald.com may collect, use and transfer your personal information as described in this privacy policy, including transfers outside the country where you live. If you reside in a country in the European Union or other jurisdiction that provides access rights under law, you may access your personal information or have it corrected or updated by going to your account information page and personally updating the information. in accordance with applicable law by contacting us. In some jurisdictions, you may be charged a reasonable fee for access to information.
 
-**Platform for Privacy Preferences.**
+## Platform for Privacy Preferences.
 
 SunHerald.com supports P3P, the Platform for Privacy Preferences, which allows us to convey our privacy policies, to the extent possible, in standardized, machine-readable code. While our site supports P3P, the resulting code has inherent limitations such that it does not fully and may not accurately express all of our data practices. Some P3P-enabled browsers may interpret the same P3P code in different ways, while others may interpret P3P code in a manner inconsistent with the original intention. Accordingly, your browser’s interpretation of the P3P code should only be considered as a short-hand expression of our privacy practices. This Privacy Policy remains our primary policy, and takes precedence over the P3P code for all purposes.
 
-**General**
+## General
 
 In the event of the sale or merger of The Sun Herald Company and/or The McClatchy Company, ownership of the information described in this Privacy Policy will be transferred to the acquiring or successor company.
 
