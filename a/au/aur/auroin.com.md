@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auroin.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528150010id_/http%3A//www.auroin.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auroin.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218083116id_/http%3A//www.auroin.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Search Engine Optimization Services in India | Read Privacy Policy for Services
 
