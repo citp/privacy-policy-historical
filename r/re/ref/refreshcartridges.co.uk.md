@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the refreshcartridges.co.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609092613id_/http%3A//www.refreshcartridges.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refreshcartridges.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218052738id_/http%3A//www.refreshcartridges.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# Ink Cartridges, Toner Cartridges, Inkjet and Printer Ink UK - Refresh Cartridges
+# Privicy Policy Refresh Cartridges Refresh Cartridges
 
 Refresh Systems are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
 
