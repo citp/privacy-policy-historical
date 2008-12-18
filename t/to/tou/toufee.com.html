@@ -1,105 +1,222 @@
-<!--The following is the downloaded HTML source of the toufee.com privacy policy that was archived on 2007-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071216053813id_/http%3A//www.toufee.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the toufee.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218220716id_/http%3A//www.toufee.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Description" content="Toufee Is A New Wysiwyg Online Flash Movie Builder That Aims To Make It Easy For Non Technical Users To Quickly Create Impressive Flash Websites With Ease!">
 
-<title>Toufee Flash Movies Privacy Policy</title>
-<meta name="description" content="Toufee understands that your privacy is key to our success.">
+<title>Toufee flash maker - privacy policy</title>
+<link rel="alternate" type="application/rss+xml" title="Toufee - Free movie MakerRSS Feed" href="http://www.toufee.com/rss.php"><link rel="pingback" href="http://www.toufee.com/rss.php">
 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<meta http-equiv="Content-Language" content="en">
-<meta http-equiv="Content-Script-Type" content="text/javascript">
-<meta name="robots" content="all">
-<meta name="author" content="Toufee Flash Movie Maker">
-<meta name="copyright" content="Copyright (c) 2005-2006 Toufee">
-<meta name="keywords" content="flash, movies, swf, files, videos, mx, *.swf, macromedia, animate, animations, flash 7, player">
-<link href="css/toufee2.css" rel="stylesheet" type="text/css">
-<link href="css/toufeeNav.css" rel="stylesheet" type="text/css">
-<!--<base href="http://flash-movies.toufee.com/" />-->
-
-<script type="text/javascript" src="http://www.toufee.com/js/swfobject.js"></script>
-<script type="text/JavaScript">
+<link href="css/toufeepro.css" rel="stylesheet" type="text/css">
+<link href="css/menu.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="/css/lightbox.css" type="text/css" media="screen">
+<script type="text/javascript">
 <!--
-function bookmarkMe() {
-	netscape="Please press CTRL+D to add a bookmark to this site."
-	if (navigator.appName=='Microsoft Internet Explorer') {
-		window.external.AddFavorite('http://www.toufee.com/', 'Toufee: Fast Flash Movie Maker');
-	} else if (navigator.appName=='Netscape') {
-		alert(netscape);
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function clickclear(thisfield, defaulttext) {
+	if (thisfield.value == defaulttext) {
+		thisfield.style.color = '#000000';
+		thisfield.value = "";
+	}
+}
+
+function clickrecall(thisfield, defaulttext) {
+	if (thisfield.value == "") {
+		thisfield.style.color = '#666666';
+		thisfield.value = defaulttext;
 	}
 }
 //-->
 </script>
-<style type="text/css">
-<!--
-.style4 {font-size: 12px}
--->
-</style>
+<script type="text/javascript" src="/js/jquery.pack.js"></script>
+<script type="text/javascript" src="/js/cookie.js"></script>
+<script type="text/javascript" src="/js/thickbox.js"></script>
+<link rel="stylesheet" href="/css/thickbox.css" type="text/css" media="screen">
+<script>
+function updateLang() {
+    var lang = 'en';
+
+    if ( location.host.indexOf('toufee.com') == -1 ) {
+        lang = location.search.substr(location.search.indexOf('en%7C')+5,2);
+    }
+
+	var trd = { ru: 'Russian', nl: 'Dutch', fr: 'French', ja: 'Japanese', el: 'Greek', de: 'German', ko: 'Korean', pt: 'Portuguese', cn: 'Chinese', it: 'Italian', es: 'Spanish', en: 'English' };
+
+    if ( lang ) {
+        mainLang = $('langToolTip');
+        mainLang.innerHTML = '<a href="#" style="color:black;font-size:12px;text-decoration:none"><img src="/toufee2/images2/flags/'+lang+'.png" border=0> ' + '<b>' + trd[lang] + '</b></a>';
+    }
+}
+
+function switchLang(lang) {
+    var page = 'http://www.toufee.com/index.html';
+
+    if ( lang == 'cn' ) {
+        lang = 'zh-CN';
+    }
+
+    if ( lang == 'en' ) {
+        top.location = page;
+    } else {
+        top.location = 'http://translate.google.com/translate_c?hl=en&langpair=en%7C'+lang+'&u='+page;
+    }
+}
+
+</script>
+<script src="/js/countdown.js"></script>
 </head>
 <body>
-<table width="1" border="0" align="center" cellpadding="0" cellspacing="0" class="mainTable" summary="Main Flash Movie Table">
-  <tbody><tr>
-    <td width="826" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0" summary="container">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr class="top_row">
+    <td align="center" valign="top"><table width="942" border="0" cellpadding="0" cellspacing="0">
         <tbody><tr>
-          <td width="1" valign="bottom"><img alt="none" src="newimages/blank.gif" width="38" height="34"></td>
-          <td align="right" valign="middle"><table border="0" cellspacing="3" cellpadding="0" summary="top navigation">
+          <td width="100%" align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr>
-                <td><strong><a style="text-decoration:none" href="/login.html"><font color="#FF0000" size="2">Login</font></a></strong></td>
-                <td>|</td>
-                <td><strong><a style="text-decoration:none" href="#" onclick="bookmarkMe();"><font color="black" size="1">Bookmark!</font></a></strong></td>
-                <td>|</td>
-                <td><a style="text-decoration:none" href="/contact.html"><font color="black" size="1">Contact</font></a></td>
-                <td>|</td>
-                <td><a style="text-decoration:none" href="http://toufee.blogspot.com/" target="_blank"><font color="black" size="1">Blog</font></a></td>
-              </tr>
-            </tbody></table></td>
-          <td width="1"><img alt="none" src="newimages/blank.gif" width="35" height="30"></td>
-        </tr>
-        <tr>
-          <td>&nbsp;</td>
-          <td background="newimages/top_logo_line.gif"><table width="100%" border="0" cellspacing="0" cellpadding="0" summary="main navigation">
-              <tbody><tr>
-                <td><a href="/"><img border="0" src="newimages/flash_logo.gif" alt="Toufee Flash Movie Maker" width="287" height="69"></a></td>
-                <td align="right"><ul id="navCircle">
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/samples.html">Samples</a></li>
-                    <li><a href="/showcase.html">Showcase</a></li>
-                    <li><a href="/signup.html">Signup</a></li>
-                    <li><a href="/wiki.html">FAQs</a></li>
-                  </ul></td>
-              </tr>
-            </tbody></table></td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>&nbsp;</td>
-          <td valign="top" align="left">
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td valign="top" background="flash/movies/bluegrad.jpg"><img src="flash/movies/blank.gif" width="1" height="1"></td>
-    <td valign="top" background="flash/movies/bluegrad.jpg"><table width="100%" border="0" cellpadding="3" cellspacing="1">
-      <tbody><tr>
-        <td align="left" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-          <tbody><tr>
-            <td width="1"><img src="flash/movies/topleftwhite.gif" width="20" height="20"></td>
-            <td height="1" valign="bottom" background="flash/movies/topwhite.gif">&nbsp;</td>
-            <td width="1"><img src="flash/movies/toprightwhite.gif" width="20" height="20"></td>
-          </tr>
-          <tr>
-            <td background="flash/movies/sidewhiteleft.gif">&nbsp;</td>
-            <td height="100%" valign="top"><table width="100%" border="0" cellpadding="2" cellspacing="1">
-              <tbody><tr>
-                <td><span class="f1 heading"><img src="flash/movies/privacy.gif" alt="privacy policy" width="234" height="39"></span></td>
+                <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="1%"><table border="0" cellpadding="0" cellspacing="0">
+                          <tbody><tr>
+                            <td valign="top"><a href="http://www.toufee.com/"><img src="images/toufeelogo.gif" alt="toufee logo" border="0" longdesc="/" style="position:absolute"></a></td>
+                            <td width="100%" valign="bottom"><table border="0" cellpadding="0" cellspacing="0">
+                                <tbody><tr>
+                                  <td><img src="images/blank.gif" width="1" height="70"></td>
+                                </tr>
+                              </tbody></table></td>
+                          </tr>
+                        </tbody></table></td>
+					  <td width="99%" align="right"><form method="get" action="http://www.google.com/search"><table border="0" cellspacing="1" cellpadding="3" id="theheader">
+                          <tbody><tr>
+                            <td nowrap="nowrap">&nbsp;</td>
+                            <td valign="middle" nowrap="nowrap"><a href="https://www.toufee.com/free-trial.html"><b><u><font color="red">Free Sign Up</font></u></b></a> </td>
+                            <td valign="middle" nowrap="nowrap"><img src="images/dot.png" width="8" height="16"></td>
+                            <td valign="middle" nowrap="nowrap"><a href="http://www.toufee.com/login.html">Member Login</a> </td>
+                            <td valign="middle" nowrap="nowrap"><img src="images/dot.png" width="8" height="16"></td>
+							<td valign="middle" nowrap="nowrap"><a href="/support/">Help</a></td>
+							<td valign="middle" nowrap="nowrap"><img src="images/dot.png" width="8" height="16"></td>
+                            <td valign="middle" nowrap="nowrap">               	                    
+								<input type="hidden" name="sitesearch" value="toufee.com">
+								<input type="text" name="q" value="Search" onblur="clickrecall(this,'Search');" onclick="clickclear(this, 'Search')">
+                              </td>
+                            <td valign="middle" nowrap="nowrap"><input type="image" src="images/search.gif" name="submit" width="18" height="15" border="0" value="go"></td>
+                            <td valign="middle" nowrap="nowrap"><img src="images/dot.png" width="8" height="16"></td>
+                            <td valign="middle" nowrap="nowrap"><a href="/accounts.html"><img src="images/cart_icon.gif" width="20" height="19" border="0" alt="pricing"></a></td>
+                            <td valign="middle" nowrap="nowrap"><p>&nbsp;</p>
+                              <p>&nbsp;</p></td>
+                          </tr>
+                        </tbody></table></form></td>
+                    </tr>
+                  </tbody></table></td>
               </tr>
               <tr>
-                <td><br>
-                          <table width="100%" border="0" cellspacing="1" cellpadding="3">
-                            <tbody><tr>
-                              <td><div style="overflow-y:scroll;overflow-x:hidden;height:385px;font-size:12px;padding-right:20px">Toufee.com is committed to customer service and strives to provide a private and secure browsing experience at our website. The following policy will help you to understand how we treat and use your personal information. As we continue to improve our site and services we may take advantage of developments in technology. When new technology is put in place, this policy is subject to change.
-                                <p>Information Collection and Use</p>
+                <td><img src="images/blank.gif" width="1" height="1"></td>
+              </tr>
+              <tr>
+                <td><table border="0" width="100%" cellspacing="0" cellpadding="0" id="menutable" style="background-color:blue">
+                    <tbody><tr>
+                                            <td id="leftcol"><img src="images/blank.gif" width="14" height="1"></td>
+                      <td><a href="/"><font>Home</font></a></td>
+                      <td><img src="images/white.gif" width="1" height="46"></td>
+                      <td nowrap="nowrap"><a href="/create-flash.html"><font>Features</font></a></td>
+                      <td><img src="images/white.gif" width="1" height="46"></td>
+                      <td nowrap="nowrap"><a href="/pricing.html"><font>Pricing</font></a></td>
+                      <td><img src="images/white.gif" width="1" height="46"></td>
+                      <td nowrap="nowrap"><a href="/flash-websites.html"><b><font>Samples</font></b></a></td>
+                      <td><img src="images/white.gif" width="1" height="46"></td>					  <td width="100%" align="center" id="loaderDiv"></td>
+                      <td align="right" valign="top"><table border="0" cellspacing="1" cellpadding="3">
+                          <tbody><tr>
+                            <td><!-- AddThis Button BEGIN -->
+                              <a style="border:0px" href="http://www.addthis.com/bookmark.php" onclick="addthis_url   = location.href; addthis_title = document.title; return addthis_click(this);" target="_blank"><img src="images/bookmarks.png" border="0"></a> </td>
+                          </tr>
+                        </tbody></table></td>
+                      <td id="rightcol"><img src="images/blank.gif" width="14" height="1"></td>
+                    </tr>
+                    <tr>
+                      <td><img src="images/blank.gif" width="10" height="1"></td>
+                      <td><img src="images/blank.gif" width="80" height="1"></td>
+                      <td><img src="images/blank.gif" width="1" height="1"></td>
+                      <td nowrap="nowrap"><img src="images/blank.gif" width="100" height="1"></td>
+                      <td><img src="images/blank.gif" width="1" height="1"></td>
+                      <td nowrap="nowrap"><img src="images/blank.gif" width="100" height="1"></td>
+                      <td><img src="images/blank.gif" width="1" height="1"></td>
+                      <td nowrap="nowrap"><img src="images/blank.gif" width="100" height="1"></td>
+                      <td><img src="images/blank.gif" width="1" height="1"></td>
+                      <td><img src="images/blank.gif" width="1" height="1"></td>
+                      <td><img src="images/blank.gif" width="5" height="1"></td>
+					  <td><img src="images/blank.gif" width="5" height="1"></td>
+                    </tr>
+                  </tbody></table></td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+</tbody></table>
+
+<script>
+	var lloader = document.getElementById('loaderDiv');
+
+	if ( lloader ) {
+		lloader.innerHTML = '<table cellpadding=3 cellspacing=0 style="border:1px solid white"><tr><td><img src="images/blank.gif" width="25" height="1" /></td><td nowrap><b><font color=white size=3>Loading Page:</font></b></td><td><img src="images/blank.gif" width="10" height="1" /></td><td><img src="/images/lloadingBar.gif"></td><td><img src="images/blank.gif" width="25" height="1" /></td></tr></table>';
+
+		$(document).ready( couponClock );	
+	}
+
+	function couponClock() {
+		if ( $.cookie('couponcookie') ) {
+			var theDate = $.cookie('couponcookie') ? new Date($.cookie('couponcookie')) : null;
+			if ( theDate ) {
+				lloader.innerHTML = "<a href='/halfoff.html' style='color:white;font-weight:bold;font-size:14px'>Coupon Expires In: <span id='cntdwn1' style='color:yellow'>60 minutes.</span> [ Avail Discount ]</a>";
+				startcounting($('#cntdwn1'), theDate);
+			}
+		} else {
+			lloader.innerHTML = '';
+		}
+	}
+</script>
+<table width="980" border="0" align="center" cellpadding="0" cellspacing="0" class="repeat_table" style="font-size:12px">
+			<tbody><tr>
+                <td>
+                    <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tbody><tr>
+                            <td width="40">
+                                <img src="images/blank.gif" width="20" height="634">
+                            </td>
+                            <td width="100%" valign="top" align="left">
+                                <table width="100%" border="0" cellspacing="4" cellpadding="4">
+									<tbody><tr>
+                                        <td width="100%">
+
+<p style="padding-left:20px;"><b>Privacy Policy</b></p>
+
+
+				<div style="overflow-y:scroll;overflow-x:hidden;height:530px;font-size:12px;padding-right:40px;padding-left:20px">
+                    <table width="100%" border="0" cellspacing="1" cellpadding="3">
+                      <tbody><tr>
+                        <td><p>Toufee.com is committed to customer service and strives to provide a private and secure browsing experience at our website. The following policy will help you to understand how we treat and use your personal information. As we continue to improve our site and services we may take advantage of developments in technology. When new technology is put in place, this policy is subject to change.
+                                </p><p><b>Information Collection and Use</b></p>
                                 <p>Toufee.com collects information from our web site in several ways including but not limited to, cookies and sessions. During registration, Toufee.com asks for some identifying information such as your email address. Because we are committed to protecting you privacy, Toufee.com will not sell or rent your personal information to any third party, unless you have provided prior permission for us to do so. When prior permission is provided, we will ensure that only your email address is utilised to update you about Toufee.com products and services via email. You may also be asked for personal information when you report a problem with our site and related services or, if you otherwise contact Toufee.com. </p>
                                 <p>As previously stated Toufee.com collects information using cookies, which are small pieces of data stored by your browser and/or your computer's hard drive. This information allows us to more easily service your account needs and ensure proper tracking of sales in our affiliate referral program. Most web browsers automatically accept cookies unless specifically set not to, use of our website requires cookies.</p>
                                 <p>Toufee.com is the sole owner of the information collected on this site, however, we do not store any personal information other than what is necessary to provide proper service. We will not sell, share, or rent this information to others for any reason. Information is collected with the sole purpose of providing Toufee.com services. </p>
@@ -109,102 +226,109 @@ function bookmarkMe() {
                                 <p>Your movie/picture/sound files are stored in the same database as other account holders but are stored in such a way that they are kept separate from other account holders. At no time is information about your movie/picture/sound files shared with any other subscribers, affiliates or partners unless specifically requested by you or unless we must provide data in an effort to render a proper decision concerning spam complaints. </p>
                                 <p>This web site may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites unless they are specifically listed in this privacy policy. </p>
                                 <p><strong><font color="#FF0000">END OF TOUFEE.COM PRIVACY POLICY</font></strong><br>
-                                      </p>
-                              </div></td>
-                            </tr>
-                        </tbody></table></td>
-              </tr>
-            </tbody></table></td>
-            <td background="flash/movies/sidewhiteright.gif">&nbsp;</td>
-          </tr>
-          <tr>
-            <td width="1"><img src="flash/movies/bottomleftwhite.gif" width="20" height="20"></td>
-            <td height="1" background="flash/movies/bottomwhite.gif">&nbsp;</td>
-            <td width="1"><img src="flash/movies/bottomrightwhite.gif" width="20" height="20"></td>
-          </tr>
-        </tbody></table></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td width="1"><img src="flash/movies/gradleft.jpg" width="18" height="20"></td>
-        <td background="flash/movies/gradbottom.jpg">&nbsp;</td>
-        <td width="1" align="right"><img src="flash/movies/gradright.jpg" width="18" height="20"></td>
-      </tr>
+                                      </p></td>
+                      </tr>
+                  </tbody></table></div>
+
+
+
+							</td>
+							<td width="10">
+								<img src="images/blank.gif" width="10" height="1">
+							</td>
+						</tr>
+						</tbody></table>
+					</td>
+					<td width="19" rowspan="2">
+						<img src="images/blank.gif" width="19" height="634">
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+		</td>
+	</tr>
+</tbody></table>
+
+<table width="980" border="0" align="center" cellpadding="0" cellspacing="0" class="bottom_table">
+  <tbody><tr>
+    <td><table align="center" border="0" id="table1" class="border_table" width="96%">
+        <tbody><tr>
+          <td valign="top"><img src="images/blank.gif" width="19" height="10"><img src="images/blank.gif" width="1" height="1"></td>
+        </tr>
+        <tr>
+          <td valign="top"><div align="center" class="footer">
+              <p>
+                <script type="text/javascript">var addthis_pub = 'toufee';</script>
+                <script type="text/javascript" src="https://s9.addthis.com/js/widget.php?v=10"></script>
+                <!-- AddThis Button END -->
+              </p>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0" id="footer_links">
+                <tbody><tr>
+                  <td align="left"><table border="0" cellspacing="1" cellpadding="3">
+                      <tbody><tr>
+                        <td><img src="images/us.png" width="16" height="11"></td>
+                        <td><select name="userLanguage" id="userLanguage">
+                            <option selected="selected" lang="en" value="en">International (English)</option>
+                            <option value="en-us">United States (English)</option>
+                            <option value="en-gb">United Kingdom (English)</option>
+                          </select></td>
+                        <td nowrap="nowrap">&nbsp;</td>
+                        <td nowrap="nowrap"><a href="/moviemaker/">Blog</a></td>
+                        <td nowrap="nowrap">&nbsp;</td>
+                        <td nowrap="nowrap"><a href="/flashmaker.html">Flash Maker</a></td>
+                        <td nowrap="nowrap">&nbsp;</td>
+						<td nowrap="nowrap"><a href="/wiki/">Wiki</a></td>
+						<td nowrap="nowrap">&nbsp;</td>
+						<td nowrap="nowrap"><a href="/affiliates.html"><b>Affiliates</b></a></td>
+                        <td nowrap="nowrap">&nbsp;</td>
+						<td nowrap="nowrap"><a href="/contact.html">Contact</a></td>
+                        <td nowrap="nowrap">&nbsp;</td>
+                        <td nowrap="nowrap">&nbsp;</td>
+                        <td nowrap="nowrap">&nbsp;</td>
+                      </tr>
+                    </tbody></table></td>
+                  <td align="right"><table border="0" cellspacing="1" cellpadding="3">
+                      <tbody><tr>
+                        <td><a href="http://www.addthis.com/bookmark.php" onclick="addthis_url   = location.href; addthis_title = document.title; return addthis_click(this);" target="_blank"><img src="/images/additbookmark.gif" border="0" alt="Bookmark and Share"></a></td>
+                        <td>&nbsp;</td>
+                        <td nowrap="nowrap"><a href="/privacy.html">Privacy Policy </a></td>
+                        <td nowrap="nowrap">&nbsp;</td>
+                        <td nowrap="nowrap"><a href="/terms.html">Legal</a></td>
+                        <td nowrap="nowrap">&nbsp;</td>
+                        <td nowrap="nowrap">© 2008 Toufee.com.</td>
+                      </tr>
+                    </tbody></table></td>
+                </tr>
+              </tbody></table>
+			  <table align="right" border="0" cellspacing="0" cellpadding="0" id="footer_links">
+				  <tbody><tr>
+					<td nowrap="nowrap">A <a href="http://www.dayandnight.in" target="_blank">Day and Night Solutions</a> company.</td>
+                    <td nowrap="nowrap">&nbsp;</td>
+					<td nowrap="nowrap"><a href="/contact.html">Co-Brand Toufee's Flash Maker</a></td>
+				  </tr>
+			  </tbody></table>
+              <p><a href="http://www.addthis.com/bookmark.php" onclick="addthis_url   = location.href; addthis_title = document.title; return addthis_click(this);" target="_blank"></a></p>
+              </div></td>
+        </tr>
     </tbody></table></td>
   </tr>
 </tbody></table>
-</td>
-          <td><img alt="none" src="newimages/blank.gif" width="1" height="522"></td>
-        </tr>
-        <tr>
-          <td>&nbsp;</td>
-          <td align="right" valign="top"><table border="0" cellspacing="4" cellpadding="0" title="Click an icon to select your preferred language" summary="language selection">
-              <tbody><tr>
-                <td valign="top"><font size="2" face="Trebuchet MS, Georgia, Times New Roman, serif"><strong>Language:</strong></font></td>
-                <td valign="top"><a href="/index.html"><img src="newimages/english_version.gif" alt="English (US/UK)" width="28" height="18" border="0" title="English Version"></a></td>
-                <td valign="top"><a href="/index_br.html"><img src="newimages/portuguese_version.gif" alt="Portuguese (Brazilian)" width="28" height="18" border="0" title="Portuguese (Brazilian) Version"></a></td>
-                <td valign="top"><a href="/index_ch.html"><img src="newimages/chinese_version.gif" alt="Chinese (Simplified)" width="28" height="18" border="0" title="Chinese (Simplified) Version"></a></td>
-				<td><img alt="none" src="newimages/blank.gif" width="1" height="22"></td>
-              </tr>
-            </tbody></table></td>
-          <td><img alt="none" src="newimages/blank.gif" width="1" height="36"></td>
-        </tr>
-        <tr>
-          <td>&nbsp;</td>
-          <td align="center" valign="top"><a href="http://toufee.com/wiki.html#q10" style="text-decoration:none;color:black">Contains no added sugar or artificial ingredients. Movies made with toufee are 97% FAT FREE!</a></td>
-          <td><img alt="none" src="newimages/blank.gif" width="1" height="32"></td>
-        </tr>
-        <tr>
-          <td>&nbsp;</td>
-          <td align="center" valign="top">© 2006 Toufee.com. All Rights Reserved.</td>
-          <td><img alt="none" src="newimages/blank.gif" width="1" height="20"></td>
-        </tr>
-        <tr>
-          <td>&nbsp;</td>
-          <td align="center"><table>
-              <tbody><tr>
-                <td><a href="http://del.icio.us/post?url=http%3A%2F%2Ftoufee.com%2F&amp;title=Toufee%20flash%20movie%20maker%20-%20Make%20flash%20movies%20in%20seconds%21&amp;jump=no" target="_blank"><img src="newimages/delicious.gif" width="10" height="10" border="0"></a></td>
-                <td><a href="http://del.icio.us/post?url=http%3A%2F%2Ftoufee.com%2F&amp;title=Toufee%20flash%20movie%20maker%20-%20Make%20flash%20movies%20in%20seconds%21&amp;jump=no" target="_blank">Del.icio.us Toufee</a></td>
-                <td>|</td>
-                <td><a href="/terms.html">Terms of Use</a></td>
-                <td>|</td>
-                <td><a href="/promote.html">Promote!</a></td>
-                <td>|</td>
-                <td><a href="/privacy.html">Privacy Policy</a></td>
-              </tr>
-            </tbody></table></td>
-          <td>&nbsp;</td>
-        </tr>
-      </tbody></table></td>
-    <td width="1"><img alt="none" src="newimages/blank.gif" width="1" height="685"></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img alt="none" src="newimages/blank.gif" width="826" height="1"></td>
-  </tr>
-</tbody></table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<!-- Start of Tracking Code -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+
+<script type="text/javascript" src="/js/header.js"></script>
 <script type="text/javascript">
-_uacct = "UA-850202-1";
-urchinTracker();
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4410180-1");
+pageTracker._trackPageview();
 </script>
-<script type="text/javascript" language="javascript">
-var sc_project=1985902; 
-var sc_invisible=1; 
-var sc_partition=18; 
-var sc_security="13758762"; 
-</script>
-<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script>
-<noscript>
-<a href="http://www.statcounter.com/" target="_blank"><img  src="http://c19.statcounter.com/counter.php?sc_project=1985902&amp;java=0&amp;security=13758762&amp;invisible=1" alt="free invisible hit counter" border="0"></a>
-</noscript>
-<!-- End of Tracking Code -->
 
 
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="/js/pngfix.js"></script>
+<![endif]-->
 </body></html>
