@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlecrux.com privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520181424id_/http%3A//articlecrux.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecrux.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218044315id_/http%3A//articlecrux.com/privacy.php) for the most accurate reproduction.*
 
 # Free High Quality Articles at Article Crux
 
