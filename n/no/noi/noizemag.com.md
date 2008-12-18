@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noizemag.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509164812id_/http%3A//www.noizemag.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noizemag.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218111904id_/http%3A//www.noizemag.com/privacy.html) for the most accurate reproduction.*
 
 # Noize Mag - Privacy Policy
 
@@ -33,7 +33,7 @@ Studio City, California 91602
 
 If we make changes to any terms or conditions of this Privacy Policy, the changes will be posted in this document in order to keep you better informed. We may change, add or remove portions of this Privacy Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise.
 
-[Legal Terms of Use](https://web.archive.org/web/20080509164812id_/http%3A//www.noizemag.com/tou.html)
+[Legal Terms of Use](https://web.archive.org/web/20081218111904id_/http%3A//www.noizemag.com/tou.html)
 
   
 
