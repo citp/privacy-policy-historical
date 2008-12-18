@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the componentone.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612120822id_/http%3A//www.componentone.com/pages.aspx%3FPagesID%3D59%26Panelindex%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the componentone.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218043153id_/http%3A//www.componentone.com/pages.aspx%3FPagesID%3D59%26Panelindex%3D5) for the most accurate reproduction.*
 
-# ComponentOne - Components Focused on Visual Development
+# ComponentOne – Tools for Software Developers and Help Authors
 
 This web site is maintained by ComponentOne LLC, 201 S. Highland Avenue, 3rd Floor, Pittsburgh, PA 15206, USA. By accessing or using the ComponentOne.com Web site, you agree to the terms of the ComponentOne Online Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this site.
 
