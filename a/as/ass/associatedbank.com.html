@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the associatedbank.com privacy policy that was archived on 2007-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071014174556id_/http%3A//www.associatedbank.com/Security/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the associatedbank.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218091845id_/http%3A//www.associatedbank.com/Security/Privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Associated Bank : Privacy</title>
@@ -10,7 +10,7 @@
     <style type="text/css" media="print">
         @import url(/styles/print.css);
     </style>
-	<link rel="stylesheet" href="/styles/print.css" type="text/css" media="print">
+
 <script type="text/javascript" language="javascript" src="/scripts/tabbedbrowsing.js"></script>
 <script language="Javascript">
 <!--
@@ -196,6 +196,14 @@ PopUp(strURL,'775','450','1','','','1','yes');
 </script>
 <script language="JavaScript" type="text/javascript">
 <!-- Begin
+function BusinessCardManagerLeavingAlert(strURL) {
+	alert ("Associated Bank has reinstated the ability for individual cardholder spending limits to be adjusted by the account administrator.  The spending limits can be adjusted up to the approved company credit limit.  At no time will the total combined outstanding balances of all cards be allowed to exceed the company credit limit.  If the company needs an increased credit limit, please contact Customer Care at 1-800-472-7708.  Thank you.");
+PopUp(strURL,'775','450','1','','','1','yes');
+}
+//  End -->
+</script>
+<script language="JavaScript" type="text/javascript">
+<!-- Begin
 function CreditReportAlert() {
 	alert ("NOTICE: In an effort to protect your credit and identity, Associated Bank is pleased to offer personal credit report and identify theft products through its alliance with TrueLink, Inc. Please be advised that you are leaving Associated Bank's web site and by doing so, TrueLink's Privacy Promise and other terms and conditions will apply.")
 }
@@ -277,12 +285,13 @@ function submitFrm(){
         <div id="MakeThisHomepage">
             <a href="#" onclick="SetAsHomePage();">Make this your associatedbank.com homepage</a>
         </div>
-        <div id="TopNav"> 
-            <a href="/Contact/default.asp">Contact</a>     
-            <a href="/AboutUs/">About Us</a>    
-            <a href="/Careers/">Careers</a>
-            <a href="/AboutUs/Sitemap.asp">Sitemap</a>
-            <a href="/Security/Default.asp" class="selected">Security</a>
+        <div id="TopNav">
+            <a href="http://www.associatedbank.com/Contact/Default.asp?ac=&amp;sec=security">Contact Us</a>     
+            <a href="http://www.associatedbank.com/AboutUs/Default.asp?ac=">About Us</a>    
+            <a href="http://www.associatedbank.com/Careers/Default.asp?ac=">Careers</a>
+            <a href="http://www.associatedbank.com/AboutUs/Sitemap.asp?ac=">Sitemap</a>
+            <a href="http://www.associatedbank.com/Security/Default.asp?ac=" class="selected">Security</a>
+            <!-- <a href="/Account/Default.asp" >Your Account</a> -->
         </div>
         <img src="/images/pageElements/nav1RightBorder.gif" alt="" id="RightTopNavBorder">
     </div>
@@ -303,19 +312,22 @@ function submitFrm(){
                     <input type="image" alt="click here to search" src="/images/pageElements/arrow.gif" id="btnBranchSearchField" class="arrow">
                 </form>
             </li>
-            <li><a href="#" onclick="window.print();">Print Page</a> <input onclick="window.print();" type="image" alt="click here to print this page" src="/images/pageElements/arrow.gif" id="btnPrintPage" class="arrow"></li>
+            <!--li><a href="#" onclick="window.print();">Print Page</a> <input onclick="window.print();" type="image" alt="click here to print this page" src="/images/pageElements/arrow.gif"  id="btnPrintPage" class="arrow" /></li-->
+            <li><a id="btnPrintPage" class="arrow" href="/Security/Privacy.asp?print=true&amp;" style="vertical-align:bottom;" type="image" alt="click here to print this page">Print Page <img src="/images/pageElements/arrow.gif" border="0"></a></li>
             <!-- Font size code <li id="FontSizes">Text Size <a href="" class="selected" style="font-size:11px">a</a> <a href="" style="font-size:14px">a</a> <a href="" style="font-size:18px">a</a></li> -->
         </ul>
     </div>
+    
     <div id="WhiteNav">
-        <a href="/default.asp"><img src="/images/pageElements/Logo.gif" id="LogoImg" alt="Associated Bank" border="0"></a>
+        <a href="http://www.associatedbank.com/default.asp"><img src="/images/pageElements/Logo.gif" id="LogoImg" alt="Associated Bank" border="0"></a>
         <div id="MainTabs">
-            <a href="/Personal/" id="PersonalBankingTab"><img src="/images/spacer.gif" alt="Personal"></a>
-            <a href="/SmallBusiness/" id="SmallBusinessBankingTab"><img src="/images/spacer.gif" alt="Small Business"></a>
-            <a href="/Commercial/" id="CommercialBankingTab"><img src="/images/spacer.gif" alt="Commercial"></a>
+            <a href="http://www.associatedbank.com/Personal/Default.asp?ac=" id="PersonalBankingTab"><img src="/images/spacer.gif" alt="Personal"></a>
+            <a href="http://www.associatedbank.com/SmallBusiness/Default.asp?ac=" id="SmallBusinessBankingTab"><img src="/images/spacer.gif" alt="Small Business"></a>
+            <a href="http://www.associatedbank.com/Commercial/Default.asp?ac=" id="CommercialBankingTab"><img src="/images/spacer.gif" alt="Commercial"></a>
         </div>
     </div>
-    <div id="ContentSection" class="detail">
+    
+    <div style="border:0px solid red;" id="ContentSection" class="detail">
         <ul id="breadcrumbTrail"><li><a href="/">Home</a></li><li><a href="http://www.associatedbank.com/Security/Default.asp">Security</a></li><li>Privacy</li></ul>
         <div style="border:0px solid red;" id="Column1">
         
@@ -326,141 +338,133 @@ function submitFrm(){
 			<h2>Privacy</h2>
 			 
 <!--Content -->
-To serve you better, the Associated Web site was set up to capture your domain name and email address.  By capturing this information we will be able to provide you with updates to our Web site, notify you of new products and services being offered, and allow us to enhance our Web site based on traffic trends.
+
+
+To serve you better, the Associated Web site was set up to capture your domain name and email address. By capturing this information we will be able to provide you with updates to our Web site, notify you of new products and services being offered, and allow us to enhance our Web site based on traffic trends. 
 <p>
-Associated may use a "cookie" on some pages of our Web site. A "cookie" is an element of data that a Web site can send to your browser, which may then store it on your system. A cookie helps a Web site to recognize whether or not you have visited the site before, allowing the browser to provide your information back to the server on subsequent visits. A cookie does not retrieve any data from your hard drive, does not carry computer viruses, and does not reveal anything about you that you have not already revealed.
+Associated may use a "cookie" on some pages of our Web site. A "cookie" is an element of data that a Web site can send to your browser, which may then store it on your system. A cookie helps a Web site to recognize whether or not you have visited the site before, allowing the browser to provide your information back to the server on subsequent visits. A cookie does not retrieve any data from your hard drive, does not carry computer viruses, and does not reveal anything about you that you have not already revealed. 
 </p><p>
-Associated is concerned about protecting personal information it gathers about its clients. Associated wants to ensure that all client account information is kept confidential to protect the client's right to privacy, to secure accounts from fraud and to avoid clients receiving unwanted solicitations. Associated believes our clients have the right to be informed about the information being collected about them and about its intended use. Associated may share information we receive from you directly among our affiliated companies to better fulfill your needs for financial products and services.
+Associated is concerned about protecting personal information it gathers about its clients. Associated wants to ensure that all client account information is kept confidential to protect the client's right to privacy, to secure accounts from fraud and to avoid clients receiving unwanted solicitations. Associated believes our clients have the right to be informed about the information being collected about them and about its intended use. Associated may share information we receive from you directly among our affiliated companies to better fulfill your needs for financial products and services. 
 </p><p>
-This information is provided to keep you informed about the privacy policies of Associated and its subsidiaries. This statement reflects our understanding and expectations at the time we provide it. Naturally, these policies could change over time. No information communicated by Associated regarding its privacy policy statement alters, amends or creates any contractual relationship and does not constitute any type of warranty.
-</p>
-<p><span class="header">
-Privacy Policy and Practices at Associated Banc-Corp and Our Affiliates</span></p>
-<p>
-You may be familiar with federal legislation that requires financial institutions to follow some specific guidelines in insuring the privacy of your financial records and nonpublic personal information.  This is a practice that Associated Banc-Corp and its affiliates have always taken very seriously. We understand the sensitivity of your financial information and records and have always maintained strict controls on the sharing of your nonpublic personal information between our affiliates and nonaffiliated third parties. We would like to take this opportunity to clearly outline the guidelines we will follow to protect your nonpublic personal information, including the privacy provisions in Title V of the Gramm-Leach-Bliley Act. After reviewing this information, please contact us if you have additional questions.  Thank you for choosing Associated.  We appreciate your business.
+This information is provided to keep you informed about the privacy policies of Associated and its subsidiaries. This statement reflects our understanding and expectations at the time we provide it. Naturally, these policies could change over time. No information communicated by Associated regarding its privacy policy statement alters, amends or creates any contractual relationship and does not constitute any type of warranty. 
 </p><p>
-</p><p><span class="subhead">
-Benefits of Sharing Information</span></p>
+	<span class="header">
+		Consumer Privacy Policy and Practices at Associated Banc-Corp and Our Affiliates
+	</span>
+</p><p>
+	<span class="subhead">
+		Our commitment to protecting your privacy
+	</span>
+</p><p>
+You may be familiar with federal legislation that requires financial institutions to follow some specific guidelines in insuring the privacy of your financial records and nonpublic personal information. This is a practice that Associated Banc-Corp and its affiliates have always taken very seriously. We understand the sensitivity of your financial information and records and have always maintained strict controls on the sharing of your nonpublic personal information between our affiliates and nonaffiliated third parties. We would like to take this opportunity to clearly outline the guidelines we will follow to protect your nonpublic personal information, including the privacy provisions in Title V of the Gramm-Leach-Bliley Act. After reviewing this information, please contact us if you have additional questions. Thank you for choosing Associated. We appreciate your business. 
+</p><p>
+	<span class="subhead">
+		Benefits of Sharing Information
+	</span>
+</p><p>
+From time to time we may share your nonpublic personal information with our affiliates, service providers, and nonaffiliated third parties that enhance our ability to offer you a full range of financial products and services. We believe that sharing nonpublic personal information, when appropriate, provides you the following advantages:
+</p><p>
+</p><ul class="bulleted">
+	<li>It allows us to make you aware of additional products and services that may be of value to you.</li>
+	<li>It provides us with the opportunity to evaluate your complete relationship with us and our family of companies to ensure that you receive appropriate recommendations and the most favorable pricing on products and services.</li>
+</ul>
+	<span class="subhead">
+		Understanding Privacy Regulations &amp; Terminology
+	</span>
+	<p>
+Throughout this communication we may use terms you are not familiar with, so please take a moment to review the following definitions. We hope you find them helpful.
+</p><p>
+<b>We, Our, Us </b>– Refers to Associated Banc-Corp and its affiliates ("the Associated family" or “the Associated companies”).
+</p><p>
+<b>The use of "you" and "your" </b>– Refers to all of our current and former customers who have or had a deposit account, loan, safe deposit box, Individual Retirement Account and customers from whom we collect a fee for fiduciary, financial, investment or insurance services, including advisory or brokerage services.
+</p><p>
+<b>Nonpublic personal information </b>– Refers to information collected as a result of providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records.
+</p><p>
+<b>Affiliate</b> – A company Associated Banc-Corp owns or controls.
+</p><p>
+<b>Nonaffiliated third party</b> – A company that is not affiliated with Associated Banc-Corp, but with whom we may have a joint marketing agreement or other relationship.
+</p><p>
+<b>Opt out</b> – A choice you can make to prevent the sharing of certain information between Associated Banc-Corp affiliates and by us to nonaffiliated third parties.
+</p><p>
+	<span class="subhead">
+		Protecting Your Privacy and Confidentiality is a Job We Take Seriously
+	</span>
+</p><p>
+Please be assured that we restrict access to your nonpublic personal information to only those employees who need it to perform their job function. We maintain physical, electronic and procedural safeguards that  comply with federal regulations to guard your nonpublic personal information.
+</p><p>
+	<span class="subhead">
+		Nonpublic Personal Information We Collect
+	</span>
+</p><p>
+The type of nonpublic personal information we may collect comes from:
+	 
+</p><ul class="bulleted">
+	<li>Information we receive from you, on applications or other forms, such as your name, address, social security number, assets and income; and</li>
+	<li>Information regarding your transaction history with us, such as account balance, payment history, parties to transactions and credit usage; and</li>
+	<li>Information provided by others about your transactions with nonaffiliated third parties such as credit bureaus and consumer reporting agencies, regarding your creditworthiness and payment history.</li>
+</ul>
+	<span class="subhead">
+		Information Shared With Affiliates and Nonaffiliated Third Parties
+	</span>
 <p>
-From time to time we may share your nonpublic personal information with our affiliates, service providers, and nonaffiliated third parties that enhance our ability to offer you a full range of financial products and services. We believe that sharing nonpublic personal information, when appropriate, provides you the following advantages:</p>
-<table>
-<tbody><tr>
-<td width="2%"></td>
-<td width="2%" nowrap="" valign="top">
-<img src="/images/Bullet.gif" alt="" border="0">
-</td>
-<td width="96%">It allows us to make you aware of additional products and services that may be of value to you.</td>
-</tr>
-<tr>
-<td width="2%"></td>
-<td width="2%" nowrap="" valign="top">
-<img src="/images/Bullet.gif" alt="" border="0">
-</td>
-<td width="96%">It provides us with the opportunity to evaluate your complete relationship with us and our family of companies to ensure that you receive appropriate recommendations and the most favorable pricing on products and services.</td>
-</tr>
-</tbody></table><p></p>
-<p><span class="subhead">
-Understanding Privacy Regulations &amp; Terminology</span></p>
-<p>
-Throughout this communication we may use terms you are not familiar with, so please take a moment to review the following definitions.  We hope you find them helpful.</p>
-<p><span class="subhead">
-<span class="italic">We, Our, Us</span></span>
-–&nbsp;Refers to Associated Banc-Corp and its affiliates ("the Associated family").</p>
-<p><span class="subhead">
-<span class="italic">The use of "you" and "your"</span></span>
-–&nbsp;Refers to all of our current and former customers who have or had a deposit account, loan, safe deposit box, Individual Retirement Account and customers from whom we collect a fee for fiduciary, financial, investment or insurance services, including advisory or brokerage services.</p>
-<p><span class="subhead">
-<span class="italic">Nonpublic personal information</span></span>
-–&nbsp;Refers to information collected as a result of providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records.</p>
-<p><span class="subhead">
-<span class="italic">Affiliate</span></span>
-–&nbsp;A company Associated Banc-Corp owns or controls.</p>
-<p><span class="subhead">
-<span class="italic">Nonaffiliated third party</span></span>
-–&nbsp;A company that is not affiliated with Associated Banc-Corp, but with whom we may have a joint marketing agreement or other relationship.</p>
-<p><span class="subhead">
-<span class="italic">Opt out</span></span>
-–&nbsp;A choice you can make to prevent the sharing of certain information between Associated Banc-Corp affiliates and nonaffiliated third parties.</p>
-<p><span class="subhead">
-Protecting Your Privacy and Confidentiality is  a Job We Take Seriously</span></p>
-<p>
-Please be assured that we restrict access to your nonpublic personal information to only those employees who need it to perform their job function. We maintain physical, electronic and procedural safeguards that strictly comply with federal regulations to guard your information.</p>
-<p><span class="subhead">
-Nonpublic Personal Information We Collect</span></p>
-<p>
-The type of nonpublic personal information we may collect comes from:</p>
-<table>
-<tbody><tr>
-<td width="2%"></td>
-<td width="2%" nowrap="" valign="top">
-<img src="/images/Bullet.gif" alt="" border="0">
-</td>
-<td width="96%">Information we receive from you, on applications or other forms, such as your name, address, social security number, assets and income; and</td>
-</tr>
-<tr>
-<td width="2%"></td>
-<td width="2%" nowrap="" valign="top">
-<img src="/images/Bullet.gif" alt="" border="0">
-</td>
-<td width="96%">Information regarding your transaction history with us, such as account balance, payment history, parties to transactions and credit usage; and</td>
-</tr>
-<tr>
-<td width="2%"></td>
-<td width="2%" nowrap="" valign="top">
-<img src="/images/Bullet.gif" alt="" border="0">
-</td>
-<td width="96%">Information provided by others about your transactions with nonaffiliated third parties such as credit bureaus and consumer reporting agencies, regarding your creditworthiness and payment history.</td>
-</tr>
-</tbody></table><p></p>
-<p><span class="subhead">
-Information Shared With Affiliates and Nonaffiliated Third Parties</span></p>
-<p>
-We use and share nonpublic personal information about your account history or experiences with us within the Associated family of banks and companies as permitted by law. We may also share your nonpublic personal information such as:  name, address, social security number, account balances, account activity, assets, payment history, and parties to the transaction.  This information may be shared among affiliates, those nonaffiliated third parties with whom we have entered into joint marketing agreements, and parties contracted with to provide services on our behalf, such as:  mortgage bankers, investment firms, insurance agents and/or companies and other lending or financial services institutions.</p>
-<p>
-We may also provide such information as permitted or required by law to credit bureaus and to various government entities in response to subpoenas and other legal processes, as well as to those with whom you have requested or authorized us to share nonpublic personal information.</p>
-<p>
-Any nonpublic personal information shared with nonaffiliated third parties is limited to that which is required to fulfill a specific purpose and is protected by strict confidentiality provisions.</p>
-<p>
-We reserve the right to disclose additional nonpublic information with our affiliates and nonaffiliates in accordance with applicable laws.</p>
-<p><span class="subhead">
-Associated Banc-Corp's Affiliates</span></p>
-<p>
+We use and share nonpublic personal information about your account history or experiences with us within the Associated family of banks and companies as permitted by law. We may also share your nonpublic personal information such as: name, address, social security number, account balances, account activity, assets, payment history, and parties to the transaction. This information may be shared among affiliates, those nonaffiliated third parties with whom we have entered into joint marketing agreements, and parties contracted with to provide services on our behalf, such as: mortgage bankers, investment firms, insurance agents and/or companies and other lending or financial services institutions.
+</p><p>
+We may also provide such information as permitted or required by law to credit bureaus and to various government entities in response to subpoenas and other legal processes, as well as to those with whom you have requested or authorized us to share nonpublic personal information.
+</p><p>
+Any nonpublic personal information shared with nonaffiliated third parties is limited to that which is required to fulfill a specific purpose and is protected by strict confidentiality provisions.
+</p><p>
+We reserve the right to disclose additional nonpublic information with our affiliates and nonaffiliates in accordance with applicable laws.
+</p><p>
+	<span class="subhead">
+		Associated Banc-Corp's Affiliates
+	</span>
+</p><p>
 Associated Bank, N.A. <br>
-Associated Commercial Finance, Inc.  <br>
-Associated Financial Group, LLC  <br>
-Associated Investment Services, Inc.  <br>
-Associated Mortgage, LLC  <br>
-Associated Trust Company, N.A.  <br>
-Riverside Finance, Inc. </p>
-<p><span class="subhead">
-Understanding Your Choice About Information Sharing</span></p>
-<p>
-You have the choice regarding whether or not you would like your personal nonpublic information shared with Associated Banc-Corp affiliates and nonaffiliated third parties except under those circumstances permitted by law.  You may notify us of your decision at any point in time. This is referred to as "opting out." By opting out you will be excluded from receiving information regarding beneficial products and services, discounts and other financial services for which you may be eligible.</p>
-<p>
-Please note if you have a joint account and decide to opt out, it will apply to all participants on the account.</p>
-<p>
-  If you have provided an opt out notice in the past, we will continue to honor that opt out request.  You do not have to provide us with another opt out notice.</p>
-<p>
-To opt out, please click on the button below.
+Associated Commercial Finance, Inc. <br>
+Associated Financial Group, LLC <br>
+Associated Investment Management, LLC <br>
+Associated Investment Services, Inc. <br>
+Associated Mortgage, LLC <br>
+Associated Trust Company, N.A. <br>
+Riverside Finance, Inc. <br>
+</p><p>
+	<span class="subhead">
+		Understanding your choice about information sharing
+	</span>
+</p><p>
+Associated Banc-Corp and its affiliates (“the Associated companies”) listed prior are providing this notice.  Federal law gives you the right to limit some but not all marketing from the Associated companies.  Federal law also requires us to give you this notice to tell you about your choice to limit marketing from the Associated companies.  
+</p><p>
+You may limit the Associated companies, such as the Associated banking, loan, insurance, brokerage and wealth management affiliates, from marketing their products or services to you based on your personal information that they receive from other Associated companies.  This information includes your income, your account history, and your credit score.  Your choice to limit marketing offers from the Associated companies by opting-out will apply until you tell us to change your choice.   By opting out, you are indicating to us to not allow any of the Associated companies to use your personal information to market to you.  
+</p><p>
+You have the choice regarding whether or not you would like your personal nonpublic information shared with Associated Banc-Corp affiliates and nonaffiliated third parties except under those circumstances permitted by law. You may notify us of your decision at any point in time. This is referred to as "opting out." By opting out you will be excluded from receiving information regarding beneficial products and services, discounts and other financial services for which you may be eligible.
+</p><p>
+Please note if you have a joint account and decide to opt out, it will apply to all participants on the account.
+</p><p>
+If you have provided an opt out notice in the past, we will continue to honor that opt out request. You do not have to provide us with another opt out notice.
+</p><p>
+To opt out, please click on the button below. 
 </p><p>
 &nbsp;<a href="https://www.associatedbank.com/apps/AboutUs/CustomerCare/Optout.asp"><img src="/images/btnOptOut.gif" width="110" height="21" alt="" border="0"></a></p>
-<p><span class="subhead">
-OR</span></p>
-<p>Mail your request to:</p>
 <p>
-<strong>Associated Banc-Corp</strong><br>
+	<span class="subhead">
+		OR
+	</span>
+</p><p>
+Mail your request to:
+</p><p>
+<b>Associated Banc-Corp</b><br>
 Attn: Opt Out - MS 7710<br>
 1305 Main Street <br>
-Stevens Point, WI  54481</p>
-<p>
-Questions regarding this information should be directed to Customer Care at 1-800-682-4989.
-</p>
+Stevens Point, WI 54481<br>
+</p><p>
+Questions regarding this information should be directed to our Customer Care Center which is open 24 hours a day, seven days a week at 1-800-236-8866. 
+</p><p>
 <a class="detail" href="#Top">
 Back to Top <img src="/images/bltgreenarrow.gif" align="top" alt="Back to Top" border="0" style="margin-top:5px;"></a>
 
 <!-- end content -->
 
-					<div class="clearingDiv"><img src="/images/spacer.gif" alt=""></div>
+					</p><div class="clearingDiv"><img src="/images/spacer.gif" alt=""></div>
 					</div>
 					
         <div id="SubColumn1" class="DetailsPageNav">
@@ -468,7 +472,7 @@ Back to Top <img src="/images/bltgreenarrow.gif" align="top" alt="Back to Top" b
             <strong class="AccountHeader">Access My Account</strong>
                 <form name="apps" action="JavaScript:whereTo();"><!-- The "whereTo" function resides in the footer-->
 		            <select onchange="JavaScript:whereTo();" id="Select1" class="DropDown" name="account">
-			            <option value="https://www.associatedbank.com/includes/FrameseteAccess.asp?id=https://rolb.associatedbank.com">Personal Accounts</option>
+			            <option value="https://www.associatedbank.com/includes/eAccess/Frameset/frameset.asp">Personal Accounts</option>
 			            <option value="http://www.associatedbank.com/SmallBusiness/OnlineBanking.asp">Business Accounts</option>
 		  	            <option value="http://www.associatedbank.com/MyCreditCardAccount.asp">Credit Card Accounts</option>
 			            <option value="http://www.associatedbank.com/Security/CreditReport.asp">Credit Report</option>
@@ -509,7 +513,7 @@ Back to Top <img src="/images/bltgreenarrow.gif" align="top" alt="Back to Top" b
 
 <li><a href="/Security/CCReport.asp">Lost or Stolen Credit Card</a></li>
 
-<li><a href="/Personal/eAccessFAQ.asp#Security">Online Security FAQs</a></li>
+<li><a href="/Security/SecurityFAQs.asp">Online Security FAQs</a></li>
 
 <li><a href="/Security/FundsAvailability.asp">Funds Availability</a></li>
 
@@ -521,7 +525,8 @@ Back to Top <img src="/images/bltgreenarrow.gif" align="top" alt="Back to Top" b
             
 
             </div>
-        </div>    
+        </div>
+           
         </div>
  <div id="Column2" class="DetailsPageSkyscraper">
            
@@ -532,17 +537,30 @@ Back to Top <img src="/images/bltgreenarrow.gif" align="top" alt="Back to Top" b
             <div class="Green">
                 <img src="/images/spacer.gif" class="FixIEminHeight" alt="">
 
-    <img src="/Images/SkyScrapers/Security.gif" alt="Commercial" class="SkyImg">
+    <img src="/Images/SkyScrapers/Security-small.jpg" alt="Commercial" class="SkyImg">
    <h2>Security</h2>
    <p class="First">
-     Imagine a thief using your name and credit to commit fraud and other crimes. 
+     <a href="/Personal/CreditReport.asp">Protect your identity</a> and guard your credit with Associated's identity and credit security suite.  
+   </p>
+   <a href="/Security/Customer.asp"><img src="/Images/SkyScrapers/Notify-Us.gif" alt="Notify Us!"></a>
+   <p class="First">
+     Suspicious Activity/Fraudulent<br>
+     emails and websites:<br>
+     <font size="-2">fraud@associatedbank.com</font><br>
+     or call Customer Care:<br>
+     1-800-682-4989
+    </p>
+   <p class="First">
+     Lost or Stolen<br>
+     Check Card, ATM, HomePower<br>
+     Equity Card™, Business Credit Card:<br>
+     1-800-556-5678
    </p>
    <p class="First">
-     Protect your identity and guard your credit with Associated's identity and credit security suite.  <a href="/Contact/default.asp">Meet with one of our Security Specialists</a> to learn more about our security services. Or click below <br>for more information.  
+     Personal Visa® &amp; MasterCard®<br>
+     Credit Card:<br>
+     1-800-219-7941<br> 
    </p>
-   <p class="First"><a href="/Security/CreditReport.asp">Three in One Credit <br>Report <img src="/images/pageElements/greenArrow.gif" alt="Webcast Calendar"></a></p>
-   <p><a href="/Security/CreditReport.asp">Monitoring &amp; Insurance <img src="/images/pageElements/greenArrow.gif" alt="Webcast Calendar"></a></p>
-   <p><a href="/Security/CreditReport.asp">Single Credit Report <img src="/images/pageElements/greenArrow.gif" alt="Webcast Calendar"></a></p>
 
             </div>
         </div>
@@ -550,21 +568,23 @@ Back to Top <img src="/images/bltgreenarrow.gif" align="top" alt="Back to Top" b
 
         <div class="clearingDiv"><img src="/images/spacer.gif"></div>
     </div>
+    
+
     <!--Footer-->
     <div id="Footer">
         <div id="greenBar">
             <img src="/images/pageElements/GreenFooterLeft.gif" alt="" id="GreenFooterLeft">
             <img src="/images/pageElements/GreenFooterRight.gif" alt="" id="GreenFooterRight">
         </div>
+        
         <ul>
         	<li><a href="/Security/Privacy.asp">Privacy</a> | <a href="/Security/Security.asp">Security</a></li>
             <li id="Verisign"><a href="JavaScript:PopUp('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;type=GOLD&amp;sealid=1&amp;dn=www.associatedbank.com&amp;lang=en','540','450','','1','','1','')"><img src="/images/imgverisign.gif" alt="" width="53" height="21" border="0"></a></li>
             
 			
 					<li><img src="/images/imgeqlhous.gif" alt="Equal Housing Lender"></li>
-					<li><img src="/images/imgfdic.gif" alt="Member FDIC and Associated Banc-Corp"></li>
 				
-            <li id="Copyright">Member Associated Banc-Corp © 2007 Associated Banc-Corp All Rights Reserved.</li>
+            <li id="Copyright"><a href="/AboutUs/fdic.asp">Member FDIC</a> and Associated Banc-Corp © 2008 Associated Banc-Corp All Rights Reserved.</li>
         </ul>
     </div>
 </div> 
@@ -573,15 +593,17 @@ Back to Top <img src="/images/bltgreenarrow.gif" align="top" alt="Back to Top" b
 </form>
 <!--End Footer-->
     
-    <!-- ANALYTICS HERE 
-    <script src="https://www.associatedbank.com/urchin.js" type="text/javascript">
-    </script>
-    <script type="text/javascript">
-    _uacct = "UA-1350782-1";
-    _userv=2;
-    urchinTracker();
-    </script>
-    -->
+    
+    
+<!-- ANALYTICS HERE --> 
+<script src="https://www.associatedbank.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1350782-1";
+_userv=2;
+urchinTracker();
+</script>
+    
 
 
 <script language="JavaScript" type="text/javascript">
@@ -612,10 +634,7 @@ function retension(){
 function whereTo(){
 what = document.apps.account
 goHere = what.options[what.selectedIndex].value
-	if ( document.apps.account.selectedIndex == 0 ){
-		document.appsStore.holder.value = document.apps.account.selectedIndex
-		PopUp(goHere,'','','','','','1','')
-	}else if (document.apps.account.selectedIndex == 2 ){
+  if (document.apps.account.selectedIndex == 2 ){
 		document.appsStore.holder.value = document.apps.account.selectedIndex
 		CitiLeavingAlert(goHere)
 	}else if (document.apps.account.selectedIndex == 6 ){
