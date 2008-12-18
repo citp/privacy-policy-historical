@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bain.com privacy policy that was archived on 2008-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509194206id_/http%3A//www.bain.com/bainweb/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bain.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218061744id_/http%3A//bain.com/bainweb/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Bain &amp; Company: Privacy</title>
@@ -11,8 +11,7 @@
 
 <body onload="preload(); preloadImages();" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0"><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
-
-<script language="JavaScript">
+<script type="text/javascript">
 <!--
 function makeArray() { // JS1.0-compatible
 	var args = makeArray.arguments;
@@ -36,11 +35,16 @@ function img_over(target) {
 function img_off(target) {
 	if (document.images) { document.images[target].src = (imagePrefix + target + imageOffSuffix); }
 }
+function img_on(target) {
+	if (document.images) { document.images[target].src = (imagePrefix + target + imageNewSuffix); }
+}
 
 onload = "preload();";
 var imagePrefix	=	"/bainweb/images/header_";
 var imageOnSuffix =	"_over.gif";
-var imageOffSuffix =	"_off.gif";	
+var imageOffSuffix = "_off.gif";
+var imageNewSuffix = "_on.gif";
+
 var imageNames = new makeArray(
 	"about",
 	"expertise",
@@ -57,16 +61,16 @@ var imageNames = new makeArray(
 	"background"
 	);
 
-
 //this is the code for the pop-up for contact
-	function newWindow() {
-	NewWin = window.open("Introduction.htm","NewWin",'menubar=no,scrollbars=no,toolbar=no,location=0,statusbar=0,resizeable=0,width=350,height=200,screenX=500,screenY=500');
-	}
+function newWindow() {
+  NewWin = window.open("Introduction.htm","NewWin",'menubar=no,scrollbars=no,toolbar=no,location=0,statusbar=0,resizeable=0,width=350,height=200,screenX=500,screenY=500');
+}
 // -->
 </script>
-<script language="javascript" src="/bainweb/includes/site_js.js"></script>
+<script type="text/javascript" src="/bainweb/includes/site_js.js"></script>
 <script type="text/javascript" src="/bainweb/includes/menu.js"></script>
 <!--[if IE]><link href="/bainweb/stylesheet_ie.css" rel="stylesheet"><![endif]-->
+
 
   
 <table border="0" cellspacing="0" cellpadding="0" width="100%" align="center" valign="top">
@@ -80,7 +84,8 @@ var imageNames = new makeArray(
 	<td colspan="7" align="right">
 		<table border="0" cellspacing="0" cellpadding="0" width="377">
 		<tbody><tr>
-		<td><a onmouseover="img_over('quicknavalumni')" onmouseout="img_off('quicknavalumni')" href="/bainweb/alumni/login.asp" target="Alumni"><img src="/bainweb/images/header_quicknavalumni_off.gif" width="42" height="21" border="0" name="quicknavalumni"></a></td>
+		<td><a onmouseover="img_over('quicknavalumni')" onmouseout="img_off('quicknavalumni')" href="https://alumni.bain.com" target="Alumni"><img src="/bainweb/images/header_quicknavalumni_off.gif" width="42" height="21" border="0" name="quicknavalumni"></a></td>
+<!--		<td><a onmouseover="img_over('quicknavalumni')" onmouseout="img_off('quicknavalumni')" href="/bainweb/alumni/default.aspx" target="Alumni"><img src="/bainweb/images/header_quicknavalumni_off.gif" width="42" height="21" border="0" name="quicknavalumni"></a></td>-->
 		<td><img src="/bainweb/images/header_quicknav_divider.gif" width="19" height="21"></td>
 		<td><a onmouseover="img_over('quicknavcontact')" onmouseout="img_off('quicknavcontact')" href="/bainweb/contact.asp"><img src="/bainweb/images/header_quicknavcontact_off.gif" width="47" height="21" border="0" name="quicknavcontact"></a></td>
 		<td><img src="/bainweb/images/header_quicknav_divider.gif" width="19" height="21"></td>
@@ -147,8 +152,9 @@ var imageNames = new makeArray(
   
 </li>
 
-<li id="menu_join"><a onmouseover="img_over('join')" onmouseout="img_off('join')" href="/bainweb/join_bain/join_bain_overview.asp" class="mainfoldericon"><img src="/bainweb/images/header_join_off.gif" width="95" height="28" border="0" name="join"></a>
-  <ul id="sub_menu_join" style="top: 29px;">
+<li id="menu_join"><a onmouseover="img_over('join')" onmouseout="img_off('join')" onmousedown="img_on('join')" href="http://www.joinbain.com" target="_blank"><img src="/bainweb/images/header_join_off.gif" width="95" height="28" border="0" name="join"></a>
+  <!--
+  <ul id="sub_menu_join">
   <li><a href="/bainweb/Join_Bain/people_places.asp" class="CalloutBlack">People and places</a></li>
   <li><a href="/bainweb/Join_Bain/our_culture.asp" class="CalloutBlack">Bain culture</a></li>
   <li><a href="/bainweb/Join_Bain/our_work.asp" class="CalloutBlack">Our work</a></li>
@@ -157,7 +163,7 @@ var imageNames = new makeArray(
   <li><a href="/bainweb/Join_Bain/interview_preparation.asp" class="CalloutBlack">Interview preparation</a></li>
   <li><a href="/bainweb/Join_Bain/application_process.asp" class="CalloutBlack">Application process</a></li>
   </ul>
-  
+  -->
 </li>
 </ul>
 </div>
@@ -173,7 +179,7 @@ var imageNames = new makeArray(
 	</tbody></table>
 
 </td>
-<td width="68%" rowspan="2" background="/bainweb/images/background_right_header_new.gif"><img src="/bainweb/images/transparent.gif" width="10" height="1"></td><!--<input type="submit" name="btnG" value="Google Search"/>--><input type="hidden" name="site" value="bainweb"><input type="hidden" name="client" value="bainweb"><input type="hidden" name="proxystylesheet" value="bainweb"><input type="hidden" name="output" value="xml_no_dtd"><!-- Search My Google Search Appliance-->
+<td width="68%" rowspan="2" background="/bainweb/images/background_right_header_new.gif"><img src="/bainweb/images/transparent.gif" width="10" height="1"></td><!--<input type="submit" name="btnG" value="Google Search"/>--><input type="hidden" name="site" value="default_collection"><input type="hidden" name="client" value="default_frontend"><input type="hidden" name="proxystylesheet" value="default_frontend"><input type="hidden" name="output" value="xml_no_dtd"><!-- Search My Google Search Appliance-->
 </tr>
 </tbody></table>
 <table border="0" cellspacing="0" cellpadding="0" width="100%" align="center" valign="top" height="100%">
@@ -238,7 +244,7 @@ This Site is not directed at children 13 years of age or younger.  Bain, therefo
 <tr valign="bottom">
 <td width="760"></td></tr><tr>
 <td width="32%" rowspan="2" background="/bainweb/images/background_left.gif"><img height="1" src="/bainweb/images/transparent.gif" width="10"></td>
-<td align="center"><br><br><a class="DarkGreyHover" href="/bainweb/about/about_overview.asp"><b>About Bain</b></a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a class="DarkGreyHover" href="/bainweb/consulting_expertise/consulting_expertise_overview.asp"><b>Consulting Expertise</b></a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a class="DarkGreyHover" href="/bainweb/publications/publications_overview.asp"><b>Publications</b></a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a class="DarkGreyHover" href="/bainweb/join_bain/join_bain_overview.asp"><b>Join Bain</b></a><br></td>
+<td align="center"><br><br><a class="DarkGreyHover" href="/bainweb/about/about_overview.asp"><b>About Bain</b></a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a class="DarkGreyHover" href="/bainweb/consulting_expertise/consulting_expertise_overview.asp"><b>Consulting Expertise</b></a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a class="DarkGreyHover" href="/bainweb/publications/publications_overview.asp"><b>Publications</b></a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a class="DarkGreyHover" href="http://www.joinbain.com" target="_blank"><b>Join Bain</b></a><br></td>
 </tr>
 <tr>
 <td colspan="3" style="background-color:#52525C; border-left: 1px solid #FFFFFF; padding-top:3px; padding-bottom:3px;"><span class="verdana7White">&nbsp;&nbsp;&nbsp;&nbsp;© 1996-2008, Bain &amp; Company</span><span style="padding-left:420px;"><a class="CalloutWhite" href="/bainweb/terms_of_use.asp">Terms of Use</a> &nbsp;<span class="verdana7White">|</span>&nbsp; <a class="CalloutWhite" href="/bainweb/privacy.asp">Privacy Policy</a></span></td>
