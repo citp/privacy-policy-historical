@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the justinmind.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501103111id_/http%3A//www.justinmind.com/jim/index.php/eng/directpages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justinmind.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218132728id_/http%3A//www.justinmind.com/jim/index.php/eng/directpages/privacy_policy) for the most accurate reproduction.*
 
-# Privacy policy / Directpages / Home - Justinmind - Prototype and simulate your software projects
-
-[](https://web.archive.org/jim/index.php/eng/products__1/your_suggestions)
+# 
 
 * * *
 
