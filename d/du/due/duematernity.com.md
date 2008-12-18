@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duematernity.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619235611id_/http%3A//www.duematernity.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duematernity.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218213234id_/http%3A//www.duematernity.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,9 +20,8 @@ We use the latest SSL encryption technology to secure your order and personal in
 
 ## Partner Privacy Policies
 
-Some information collected at Due Maternity, including email addresses, may also be subject to the Privacy Policies of our partners. Please read the following policies for more information: 
-
-[BabyToBee Privacy Policy](http://www.babytobee.com/privacy.aspx)
+Some information collected at Due Maternity, including email addresses, may   
+Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com). 
 
 * * *
 
