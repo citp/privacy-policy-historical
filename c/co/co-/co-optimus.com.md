@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the co-optimus.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602062439id_/http%3A//www.co-optimus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the co-optimus.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218195217id_/http%3A//www.co-optimus.com/privacy.php) for the most accurate reproduction.*
 
 # Co-Optimus.com
-
-### Co-Optimus - Web Site Privacy Policy
 
 This privacy policy describes the Co-Optimus’s current policies and practices with regard to personal data collected by the Co-Optimus through this web site. This privacy policy does not apply to information collected offline or in any other way. The term "personal data" refers to personally identifiable information about you, such as your name, birth date, e-mail address or mailing address, and any other information that identifies you personally.
 
