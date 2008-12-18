@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the teamxbox.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514224045id_/http%3A//corp.ign.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamxbox.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218081852id_/http%3A//corp.ign.com/privacy.html) for the most accurate reproduction.*
 
 # IGN Entertainment
 
-Effective as of February 2, 2007
+Updated October 31, 2008
 
 IGN Entertainment, Inc. (together with its subsidiaries, "IGN" or "we") is part of the News America Group, which has adopted a set of Privacy Principles <http://www.newscorp.com/privacy.html> applicable to all its U.S.-based companies. IGN has implemented those Principles in this Privacy Policy, which describes how we collect, use, and share personally identifiable information (information that can be used to identify you, such as your full name, email address, mailing address, or telephone number) ("PII") we obtain from and about individuals located in the U.S. both online and off-line.
 
-This Policy applies to all web sites and services owned or provided by IGN, including its subsidiaries (collectively "IGN Sites"). IGN Sites include, but are not limited to, IGN.com, VaultNetwork.com, CheatsCodesGuides.com, GameStats.com, TeamXbox.com, GameSpy.com, GameSpyArcade.com, GameSpyArena.com, Direct2Drive.com, RottenTomatoes.com, FilePlanet.com, ModCenter.com, Insider.ign.com, and AskMen.com, as well as other IGN-branded services. New sites, domain names, or services that we add to the IGN Sites will be subject to this Policy.
+This Policy applies to all web sites and services owned or provided by IGN, including its subsidiaries (collectively "IGN Sites"). IGN Sites include, but are not limited to, IGN.com, VaultNetwork.com, CheatsCodesGuides.com, GameStats.com, TeamXbox.com, GameSpy.com, GameSpyArcade.com, GameSpyArena.com, Direct2Drive.com, RottenTomatoes.com, FilePlanet.com, ModCenter.com, Insider.ign.com, AskMen.com and GreenPixels.com, as well as other IGN-branded services. New sites, domain names, or services that we add to the IGN Sites will be subject to this Policy.
 
 The IGN Sites are general audience web sites, and IGN does not knowingly collect PII from children under 13 years of age. 
 
