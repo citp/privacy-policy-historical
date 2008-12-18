@@ -1,12 +1,24 @@
-> *The following text is extracted and transformed from the hardwareandtools.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529055942id_/http%3A//www.hardwareandtools.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwareandtools.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218181728id_/http%3A//www.hardwareandtools.com/page/privacy) for the most accurate reproduction.*
 
-# Hardware and Tools Corp. - Privacy Policy
+# HardwareAndTools.com: Privacy Policy
 
   
   
-  
-| 
 
+
+[](https://web.archive.org/icat/hotbuys/ "Hot Buys")
+
+  
+|    
+
+
+|  |  |   
+---|---|---  
+  
+* * *
+
+**Add items above to your shopping cart and these special prices will appear automatically**  
+  
 Privacy Policy
 
   * Information We Gather
@@ -80,8 +92,3 @@ Back to Top
 This policy has been updated as of August 28, 2007
 
 * * *
-
-  |    
-  
-  
-
