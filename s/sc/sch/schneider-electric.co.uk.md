@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schneider-electric.co.uk privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602024639id_/http%3A//www.schneider-electric.co.uk/internet/pws/pws.nsf/luAllByID/267E1E50727B5E22802570DF003E5352) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schneider-electric.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218143553id_/http%3A//www.schneider-electric.co.uk/electricity.nsf/electrical-engineering/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Schneider Electric
 
