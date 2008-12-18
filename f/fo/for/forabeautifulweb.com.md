@@ -1,26 +1,40 @@
-> *The following text is extracted and transformed from the forabeautifulweb.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212212508id_/http%3A//www.forabeautifulweb.com/about/yourprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forabeautifulweb.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218132659id_/http%3A//forabeautifulweb.com/company/privacy) for the most accurate reproduction.*
 
-# Your privacy | For A Beautiful Web
+# Privacy policy | For A Beautiful Web
 
-## Your privacy
+## Privacy policy
 
-### Data Protection
+This privacy policy details how we handle and protect your contact and personal information. It applies to any information you provide to us when using our web site, contacting us by email, phone or when you use our online ticketing system.
 
-[Stuff and Nonsense Ltd.](https://web.archive.org/about/) is the sole owner of the information collected about you and we do not sell, share, or rent this information to anyone else. We always treat your information fairly and in full compliance to the [Data Protection Act 1988](http://www.opsi.gov.uk/ACTS/acts1998/19980029.htm).
+### What information do we collect?
 
-We may photograph or videotape speakers and attendees for use in our online or printed promotions. By virtue of your attendance, you grant us the right to use such photos or videos and to use your likeness in these materials.
+When you register for one of our events or register your interest in hearing about future events, we collect information that is necessary for us to do what you have asked us to do. This information may include:
 
-### Event Wax
-
-The workshop you are registering for uses [Event Wax](http://www.eventwax.com/), a web-based application, to organize attendees, registrants, and bookings. By booking you are acknowledging that:
-
-  * The workshop and all information related to it is the sole responsibility Stuff and Nonsense Ltd.
-  * All payments taken for workshops do not run through Event Wax systems, and any related queries should be made to Stuff and Nonsense Ltd.
+  * Your name and the name of your company or organisation
+  * Your email address, address and phone number(s)
+  * Any special requirements you may have
+  * Your credit/debit card number, expiry date and billing address
 
 
 
-### Prefer your training onsite?
+### How is this information used?
 
-For businesses medium to large, we provide this workshop as on-site training within your organisation. Prices start at £3,500.00 + VAT for teams of up to ten people.
+We may use this information to:
 
-[Contact us](https://web.archive.org/please/contactus) for more information.
+  * Process your order and create your tax invoice and ticket(s)
+  * Send you ongoing information regarding our events
+  * Let you know about related upcoming events
+
+
+
+### Disclosing your information to third parties
+
+When we collect your contact and personal information, we will never share it outside of Stuff and Nonsense Ltd. unless you have authorised us to do so. Will not we sell or receive payment for licensing or disclosing your contact and personal information. We may photograph or video our events including our speakers and attendees for use online or in print. By attending, you give us the right to take such photographs and videos and to use your likeness in our promotional materials.
+
+### Contact information
+
+If you have any questions or suggestions regarding our privacy policy, please contact us by email at [2008@forabeautifulweb.com](mailto:2008@forabeautifulweb.com), telephone us on +44 (0)1745 851848, or write to: For A Beautiful Web. [Stuff and Nonsense Ltd.](http://www.stuffandnonsense.co.uk/), The Cow Shed Studio, Eversleigh, Gwaenysgor, Flintshire, North Wales, LL18 6EP, UK.
+
+> Underpants Over My Trousers - The highlight of the day for me [at An Event Apart]. An avid comic book fan, Clarke discussed how he found inspiration for designing a newspaper site by studying the ways that comics use the convention of differently sized, shaped, and arrange panels to build drama.
+> 
+> [Aaron Rester](http://twitter.com/aaronrester) | [Reviews](http://forabeautifulweb.com/reviews "More reviews")
