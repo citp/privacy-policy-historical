@@ -1,50 +1,49 @@
-> *The following text is extracted and transformed from the cleantech.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630205959id_/http%3A//media.cleantech.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleantech.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218141224id_/http%3A//cleantech.com/privacypolicy.cfm) for the most accurate reproduction.*
 
-# Privacy policy | Cleantech.com
+# Privacy policy
 
-## Privacy policy
+| 
 
-Cleantech Media is committed to your privacy. We created this privacy policy ("Privacy Policy") to inform you of our information gathering and dissemination practices at Cleantech.com (henceforth known as the "Site"). You can generally visit our Site without revealing any personal information about yourself. However, when you engage in certain activities on the Site, such as registering to subscribe to one of the Cleantech Media newsletters or to participate on the message boards, we may ask you to provide certain information that is personally identifiable.
+Cleantech Group ("us," "we" "our" or "Cleantech") created this Web Site Privacy Policy ("Privacy Policy") in order to ensure the confidence of visitors and customers ("you" or "your") of and to our Web site (the "Site"), and to demonstrate our commitment to fair information practices and the protection of privacy.
 
-**Acquisition of Information**
+**1\. Types of Information Collected**
 
-Cleantech Media collects information from you in the following ways:
+> a. _Traffic Data Collected_. We automatically track and collect the following information when you visit our Site, including your: (i) IP address; (ii) domain server; (iii) type of computer; and (iv) type of web browser (collectively "Traffic Data"). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes or for improving your experience on the Site. We also use "cookies" to customize content specific to your interests, to ensure that you do not see the same advertisement repeatedly and to store your password so you do not have to re-enter it each time you visit the Site.
+> 
+> b. _Personal Information Collected_. In order for you to access certain premium services and to purchase products that we offer via the Site, we require you to provide us with information that personally identifies you ("Personal Information"). Personal Information may include: (i) Contact Data (such as your name, mailing and e-mail addresses); (ii) Financial Data (such as your account or credit card number); and (iii) Demographic Data (such as your zip code, age and income). If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards or forums, or otherwise complete online forms, surveys or contest entries, any information provided in such communication may be collected as Personal Information.
 
-  * **User supplied information:** Our registration process requires your e-mail address, and a username and password of your choosing. In addition, our registration process allows you to provide the following information at your option: personal name, title, address, phone number, your business type, your estimated revenue, you role within the company and the technologies you are interested in. From time to time, we may request additional information.
-  * **Cookies:** Our Sites uses "cookies," small files that are sent to your browser and stored on your hard drive. A cookie does not contain any personally identifiable information, but it does enable Cleantech Media to record how and when you use the Site. Any cookies sent by Cleantech Media will be marked so that they will be accessible only by InsideGreentech.com subject to this Privacy Policy. However, at the user’s option and at the user’s sole expense and responsibility, any user may block or delete Cleantech Media cookies from the user’s hard drive or memory. However, by disabling cookies, certain site features and functionality may no longer work properly, or at all.
-  * **Advertising:** Cleantech Media uses both internal and external advertising systems to display ads on the Sites. The external advertising systems are solely controlled by our advertising partners and may contain cookies or other information gathering abilities. Cleantech Media has no access to or control of any information obtained by these advertisers.
+**2\. Uses of Information Collected**
 
+> We use Contact Data to send you information about our company or our products or services, or promotional material from some of our partners, or to contact you when necessary. We use your Financial Data to verify your qualifications for certain products or services and to bill you for products and services. We use your Demographic Data to customize and tailor your experience on the Site, displaying content that we think you might be interest in and according to your preferences.
 
+**3\. Sharing of Personal Information**
 
-**Use of Information**
+> We share Demographic Data with advertisers and other third parties only on an aggregate basis. We may share Contact Data with other companies who may want to send you information about their products or services. If you do not want us to share your Contact Data with any third parties, please email us at <[website@cleantech.com](mailto:website@cleantech.com)>.
 
-We may use any personally identifiable information you provide at your option only to: 
+**4\. User Choice Regarding Collection, Use and Distribution of Personal Information**
 
-  * Predict and respond to your needs by aggregating our users’ information and tracking user trends. Although we may share this aggregated information with other users and third parties, it will not personally identify you.
-  * Provide you with information about Cleantech Media’s products, services, news and events that we believe may be of interest to you. In addition, we may provide this information to third parties who wish to inform you about their products, services, news and events that they believe may be of interest to you. While we may tell you about these other parties, it is entirely your choice whether or not to contact them. We will not share your personally identifiable information with other parties without your prior consent. If you choose to contact any third party, your communication with them will be governed by their privacy policies and not Cleantech Media’s. At any time, you may opt out of receiving information about Cleantech Media or other parties by changing your registration profile.
+> You may choose not to provide us with any Personal Information. In such an event, you can still access and use much of the Site; however you will not be able to access and use those portions of the Site that require your Personal Information. If you do not wish to receive information and promotional material from us or from some of our partners please email us at <[website@cleantech.com](mailto:website@cleantech.com)>.
 
+**5\. Confidentiality and Security of Personal Information**
 
+> Except as otherwise noted in this Privacy Policy, we will keep your Personal Information private and will not share it with third parties, unless such disclosure is necessary to: (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce our Terms of Service. Your Personal Information is stored on secure servers that are not accessible by third parties. We provide you with the capability to transmit your Personal Information via secured and encrypted channels if you use a similarly equipped web browser.
 
-**Transfer**
+**6\. User Ability to Access, Update and Correct Personal Information**
 
-Cleantech Media may disclose your personally identifiable information upon a transfer or sale to another entity of all or substantially all of Cleantech Media’s assets or stock in Cleantech Media’s line of business to which this Privacy Policy relates or upon any other corporate reorganization.
+> In order to ensure that all of your personal information is correct and up-to-date, at any time you may visit your personal profile on our Site. Through your personal profile you may review and update your Personal Information that we have already collected.
 
-**Exclusion**
+**Lost or Stolen Information**
 
-Because Cleantech Media cannot predict, control or be responsible for information you choose to tell us or others in a publicly available fashion, this Privacy Policy does not apply to any information that you voluntarily disclose to Cleantech Media, our partners, our customers or any other third party via online forums or comments, or otherwise where Cleantech Media did not expressly ask you for such information.
+> You must promptly notify us if your credit card, user name or password is lost, stolen or used without permission. In such an event, we will cancel that credit card number, username or password and update our records accordingly.
 
-**Access by Our Employees**
+**8\. Other Limits to Your Privacy**
 
-Cleantech Media uses good faith efforts to limit our employees’ access to your personally identifiable information to the amount reasonably required to provide prompt, high quality service.
+> The Site contains links to other Web sites. We are not responsible for the privacy practices or the content of such Web sites. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when deciding to disclose your Personal Information.
 
-**Update Your Profile**
+**9\. Updates and Changes to Privacy Policy**
 
-Please help us to provide you with the highest quality and most efficient service by ensuring that your registration profile is current and complete. To edit your profile, visit our [User Preferences](https://web.archive.org/user) page.
+> We reserve the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the Site. Any such change, update or modification will be effective immediately upon posting on the Site.
 
-Due to the Internet’s rapidly evolving nature, Cleantech Media may need to update this Privacy Policy from time to time. If so, Cleantech Media will post its updated policy at [media.cleantech.com](http://www.media.cleantech.com/). Cleantech Media encourages you to review this Privacy Policy regularly for any changes.
+**_NOTE: This Privacy Policy is inapplicable to any commercial web site directed to, or that knowingly collects information from, children under age 13._**
 
-**Questions?**
-
-If you have any questions or suggestions about our privacy or security policies, please feel free to [contact us](https://web.archive.org/contact).
-
-[](https://web.archive.org/user/register)
+| 
