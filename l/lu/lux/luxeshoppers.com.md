@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the luxeshoppers.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614202500id_/http%3A//www.luxeshoppers.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxeshoppers.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218055936id_/http%3A//www.luxeshoppers.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
-# Tiffany & Co Special Offers from Ezelegant
+# Louis Vuitton Online Store, 70% Off, Time Limited Offer
 
 We use of personal information that you may submit to us through this Web site is governed by our Privacy Policy. 
 
