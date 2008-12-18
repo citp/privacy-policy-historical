@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the toufee.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216053813id_/http%3A//www.toufee.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toufee.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218220716id_/http%3A//www.toufee.com/privacy.html) for the most accurate reproduction.*
 
-# Toufee Flash Movies Privacy Policy
+# Toufee flash maker - privacy policy
 
 Toufee.com is committed to customer service and strives to provide a private and secure browsing experience at our website. The following policy will help you to understand how we treat and use your personal information. As we continue to improve our site and services we may take advantage of developments in technology. When new technology is put in place, this policy is subject to change. 
 
-Information Collection and Use
+**Information Collection and Use**
 
 Toufee.com collects information from our web site in several ways including but not limited to, cookies and sessions. During registration, Toufee.com asks for some identifying information such as your email address. Because we are committed to protecting you privacy, Toufee.com will not sell or rent your personal information to any third party, unless you have provided prior permission for us to do so. When prior permission is provided, we will ensure that only your email address is utilised to update you about Toufee.com products and services via email. You may also be asked for personal information when you report a problem with our site and related services or, if you otherwise contact Toufee.com. 
 
