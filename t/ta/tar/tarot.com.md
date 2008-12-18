@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tarot.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517075226id_/http%3A//www.tarot.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tarot.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218043530id_/http%3A//www.tarot.com/about-us/privacy) for the most accurate reproduction.*
 
 # Tarot.com :: Tarot, Astrology, Numerology & I-Ching
 
