@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the level3.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608132138id_/http%3A//www.level3.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the level3.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218032355id_/http%3A//www.level3.com/index.cfm%3FpageID%3D323) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,7 +80,7 @@ Level 3
 
 's Site.
 
- **Our Commitment To Children's Privacy:**
+**Our Commitment To Children's Privacy:**
 
 Protecting the privacy of children is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our Site is structured to attract anyone under 13. 
 
@@ -100,7 +100,7 @@ Level 3
 
 expressly disclaims any and all liability related to such collection, use, or disclosure.
 
- **How To Correct, Amend, or Delete Your Information:**
+**How To Correct, Amend, or Delete Your Information:**
 
 We honor requests from you to correct, amend, or delete your account information (for example, your name, address, or billing information). You may verify that appropriate corrections have been made. To correct, amend or delete account information, contact the 
 
