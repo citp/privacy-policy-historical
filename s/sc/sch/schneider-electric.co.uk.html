@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the schneider-electric.co.uk privacy policy that was archived on 2008-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080602024639id_/http%3A//www.schneider-electric.co.uk/internet/pws/pws.nsf/luAllByID/267E1E50727B5E22802570DF003E5352) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the schneider-electric.co.uk privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218143553id_/http%3A//www.schneider-electric.co.uk/electricity.nsf/electrical-engineering/privacy-policy) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>Privacy Policy - Schneider Electric</title><meta name="keywords" content="Electrical distribution, automation control, switchgear, transformers, substations, wiring accessories, intelligent home controls"><meta name="description" content="Schneider Electric manufactures electrical distribution and automation control equipment utilising its world leading brands - Merlin Gerin, Telemecanique, Square D, Clipsal, Sarel and Mita"><meta name="robots" content="index, follow"><meta name="robots" content="noydir"><meta name="robots" content="noodp">
-<script language="JavaScript">
+<script language="JavaScript" type="text/javascript">
 <!-- 
 function gotoSite() {
 	var frm = window.document.forms[0];
@@ -13,7 +13,7 @@ function gotoSite() {
 // -->
 </script>
 
-<script language="JavaScript">
+<script language="JavaScript" type="text/javascript">
 <!-- 
 document._domino_target = "_self";
 function _doClick(v, o, t) {
@@ -30,98 +30,8 @@ function _doClick(v, o, t) {
 // -->
 </script>
 
-<script language="JavaScript">
+<script language="JavaScript" type="text/javascript">
 <!-- 
-vExcludeResult = "DomainSearchExclude";
-vExcludeSTR = "AND(NOT(" + vExcludeResult + "))";
-
-function gotoSiteOLD() {
-	var frm = window.document.forms[0];
-	var page = frm.countrywebsites.value;
-	window.open(page,'popup','width=600,height=600,left=200,top=0,location=yes,menubar=yes,resizable=yes,scrollbars=yes,toolbar=yes,status=yes');
-}
-
-function gotoSiteOLD1() {
-	var frm = window.document.forms[0];
-//	var page = frm.countrywebsites.value;
-	var country=document.getElementById("countrywebsites");
-	alert(country.options[country.selectedIndex].value);
-	var page = (country.options[country.selectedIndex].value);
-//	alert ( document._SearchResults.getOptionIndex.value )
-	window.open(page,'popup','width=600,height=600,left=200,top=0,location=yes,menubar=yes,resizable=yes,scrollbars=yes,toolbar=yes,status=yes');
-}
-
-function gotoSite() {
-	vDebug = false;
-	var frm = window.document.forms[0];
-	
-	if ( vDebug ) alert( typeof( frm.countrywebsites[0] ) );
-	
-	if ( typeof( frm.countrywebsites[0] ) == "undefined" ) {
-		page = frm.countrywebsites.value;
-	} else {
-		if ( frm.countrywebsites[0].value == "" ) {
-			page = frm.countrywebsites.value;
-		} else {
-			page = frm.countrywebsites[0].value;
-		}
-	}
-	
-//	var page = frm.countrywebsites.value;
-	if ( vDebug ) alert( page );
-	
-	window.open(page,'popup','width=600,height=600,left=200,top=0,location=yes,menubar=yes,resizable=yes,scrollbars=yes,toolbar=yes,status=yes');
-}
-
-function searchDomain() {
-	vDebug = false;
-
-	if (window.event && window.event.keyCode == 13) {
-		window.event.keyCode = 10;
-		if ( vDebug ) alert( window.event.keyCode );
-		if ( vDebug ) alert( typeof( document.forms[0].SimpleQuery[0] ) );
-		if ( vDebug ) alert( show_props( document.forms[0], "forms.0" ) );
-		if ( vDebug ) alert( show_props( document.forms[0].SimpleQuery, "forms.0.SimpleQuery" ) );
-		
-		exclude = "DomainSearchExclude" ;
-		if ( vDebug ) alert( typeof( document.forms[0].SimpleQuery[0] ) );
-		if ( typeof( document.forms[0].SimpleQuery[0] ) == "undefined" ) {
-			sTxt = document.forms[0].SimpleQuery.value;
-		} else {
-			sTxt = document.forms[0].SimpleQuery[0].value;
-		}
-		if ( vDebug ) alert( sTxt );
-
-		if ( sTxt !="" ) {
-		
-			//sDB = "/internet/pws/pws.nsf";
-			sDB = document.forms[0]["Structure.dbHome"].value;
-			
-			if ( vDebug ) alert( sDB + " : " + sTxt );
-		
-			if (document.forms[0].searchselectC1.checked) {
-				if ( vDebug ) alert("CATALOGUES");
-					elibDb = "http://" + location.host + "/internet/pws/literature.nsf";
-	
-					var myRegExp = / /gi;
-					s = sTxt.replace(myRegExp,"*+AND+*");
-	
-					sURL = elibDb + "/luSearchCatalogues?SearchView&Query=*" + s + "*";
-				} else {
-					if ( vDebug ) alert("GENERAL");
-					sURL = sDB + "/SearchResults?SearchDomain&Query=(" + sTxt + ")" + vExcludeSTR + "&SearchOrder=&SearchWV=TRUE&SearchThesaurus=FALSE&SearchFuzzy=FALSE&Start=1&Count=20&SearchEntry=ResultEntry&Scope=1";
-			}	
-		
-			//sURL = sDB + "/SearchResults?SearchDomain&Query=(" + sTxt + "*)AND(NOT("+exclude+"))&SearchOrder=&SearchWV=TRUE&SearchThesaurus=FALSE&SearchFuzzy=FALSE&Start=1&Count=20&SearchEntry=ResultEntry&Scope=1";
-			
-			if ( vDebug ) alert( sURL );
-			window.location.href = sURL;
-		}
-	} else {
-			//alert( "Not an enter key=" + window.event.keyCode )
-	}
-}
-
 function doSearch ( s ) {
 
 	f = document.forms[0];
@@ -168,22 +78,25 @@ function checkValue(o) {
 	f = document.forms[0];
 	f.searchselect[o].checked = false;
 	f.searchstring.focus();
-}// -->
+}
+
+// -->
 </script>
 </head>
-<body text="000000" bgcolor="FFFFFF" onload="myForm = window.document.forms[0];
+<body text="#000000" bgcolor="#FFFFFF" onload="myForm = window.document.forms[0];
 frm = window.document.forms[0];
 form = window.document.forms[0];
 ">
 
-<form><link rel="STYLESHEET" type="text/css" href="/electricity.nsf/stylesheets/pws.css">
+<form action=""><link rel="STYLESHEET" type="text/css" href="/electricity.nsf/stylesheets/pws.css">
 <link rel="STYLESHEET" type="text/css" href="/electricity.nsf/stylesheets/se.css">
 <link rel="STYLESHEET" type="text/css" href="/electricity.nsf/stylesheets/menu.css"><link rel="icon" type="image/ico" href="favicon.ico">
 <script type="text/javascript" src="/electricity.nsf/scripts/menu.js"></script>
+<script type="text/javascript" src="/electricity.nsf/scripts/pws.js"></script>
 <div id="wrapper">
   <div id="banner">
     <div id="nav_bar_txt">
-   <a href="http://www.schneider-electric.co.uk" title="Home">Home</a> | <a href="/electricity.nsf/formSitemap?open" title="Sitemap">Sitemap</a> | <a href="/internet/pws/webqueries.nsf" title="Contact us">Contact us</a> | <a href="/electricity.nsf/electrical-engineering/privacy-policy?open&amp;login" title="Login">Login</a>
+   <a href="http://www.schneider-electric.co.uk" title="Home">Home</a> | <a href="/electricity.nsf/formSitemap" title="Sitemap">Sitemap</a> | <a href="/internet/pws/webqueries.nsf" title="Contact us">Contact us</a> | <a href="/electricity.nsf/electrical-engineering/privacy-policy?open&amp;login" title="Login">Login</a>
     </div>
     <div id="welcome_txt">
    
@@ -192,26 +105,26 @@ form = window.document.forms[0];
         <!-- BEGINN 2 Sub nav -->
         <div id="subnav2">
           <div id="ed-more" onmouseover="afficher_sub('ed-more');tempo=false;v=true;" onmouseout="tempo=true;setTimeout('delai_sub();', 500);">
-	<a href="/electricity.nsf/electrical-distribution/low-voltage-switchboards-index" title="Low voltage switchboards">Low voltage switchboards</a><a href="/electricity.nsf/electrical-distribution/medium-voltage-equipment-index" title="Medium voltage equipment">Medium voltage equipment</a><a href="/electricity.nsf/electrical-distribution/overhead-line-equipment-index" title="Overhead line equipment">Overhead line equipment</a><a href="/electricity.nsf/electrical-distribution/electrical-transformers-index" title="Transformers/ packaged substations">Transformers/ packaged substations</a><a href="/electricity.nsf/electrical-distribution/low-voltage-equipment-index" title="Low voltage electrical distribution equipment">Low voltage electrical distribution equipment</a><a href="/electricity.nsf/electrical-distribution/circuit-breakers-index" title="Low voltage circuit breakers">Low voltage circuit breakers</a><a href="/electricity.nsf/electrical-distribution/installation-accessories-index" title="Installation accessories">Installation accessories</a><a href="/electricity.nsf/electrical-distribution/switchgears-feeder-pillars-index" title="Low voltage switchgear &amp; feeder pillars">Low voltage switchgear &amp; feeder pillars</a><a href="/electricity.nsf/electrical-distribution/meters-monitoring-index" title="Metering &amp; monitoring">Metering &amp; monitoring</a><a href="/electricity.nsf/electrical-distribution/wiring-accessories-index" title="Wiring accessories">Wiring accessories</a><a href="/electricity.nsf/electrical-distribution/consumer-units-index" title="Consumer units">Consumer units</a><a href="/electricity.nsf/electrical-distribution/intelligent-lighting-control-index" title="Intelligent lighting control">Intelligent lighting control</a><a href="/electricity.nsf/electrical-distribution/smart-home-systems-index" title="Smart home systems">Smart home systems</a>
+	<a href="/electricity.nsf/electrical-distribution/consumer-units-index" title="Consumer units">Consumer units</a><a href="/electricity.nsf/electrical-distribution/installation-accessories-index" title="Installation accessories">Installation accessories</a><a href="/electricity.nsf/electrical-distribution/intelligent-lighting-control-index" title="Intelligent lighting control">Intelligent lighting control</a><a href="/electricity.nsf/electrical-distribution/circuit-breakers-index" title="Low voltage circuit breakers">Low voltage circuit breakers</a><a href="/electricity.nsf/electrical-distribution/low-voltage-equipment-index" title="Low voltage electrical distribution equipment">Low voltage electrical distribution equipment</a><a href="/electricity.nsf/electrical-distribution/low-voltage-switchboards-index" title="Low voltage switchboards">Low voltage switchboards</a><a href="/electricity.nsf/electrical-distribution/switchgears-feeder-pillars-index" title="Low voltage switchgear &amp; feeder pillars">Low voltage switchgear &amp; feeder pillars</a><a href="/electricity.nsf/electrical-distribution/medium-voltage-equipment-index" title="Medium voltage equipment">Medium voltage equipment</a><a href="/electricity.nsf/electrical-distribution/meters-monitoring-index" title="Metering &amp; monitoring">Metering &amp; monitoring</a><a href="/electricity.nsf/electrical-distribution/overhead-line-equipment-index" title="Overhead line equipment">Overhead line equipment</a><a href="/electricity.nsf/electrical-distribution/smart-home-systems-index" title="Smart home systems">Smart home systems</a><a href="/electricity.nsf/electrical-distribution/electrical-transformers-index" title="Transformers/ packaged substations">Transformers/ packaged substations</a><a href="/electricity.nsf/electrical-distribution/wiring-accessories-index" title="Wiring accessories">Wiring accessories</a>
           </div>
           <div id="ac-more" onmouseover="afficher_sub('ac-more');tempo=false;v=true;" onmouseout="tempo=true;setTimeout('delai_sub();', 500);">
-	<a href="/electricity.nsf/automation-control/detection-equipment-index" title="Detection equipment">Detection equipment</a><a href="/electricity.nsf/automation-control/industrial-automation-equipment-index" title="Automation controllers">Automation controllers</a><a href="/electricity.nsf/automation-control/hmi-human-machine-interfaces-index" title="Human Machine Interface">Human Machine Interface</a><a href="/electricity.nsf/automation-control/distributed-input-output-interfaces-index" title="Distributed I/O &amp; Interfaces">Distributed I/O &amp; Interfaces</a><a href="/electricity.nsf/automation-control/machine-safety-components-index" title="Safety components">Safety components</a><a href="/electricity.nsf/automation-control/gui-interfaces-panel-components-index" title="Interfaces &amp; panel components">Interfaces &amp; panel components</a><a href="/electricity.nsf/automation-control/variable-drives-soft-starters-index" title="Variable drives/soft starts">Variable drives/soft starts</a><a href="/electricity.nsf/automation-control/motion-control-index" title="Motion Control">Motion Control</a><a href="/electricity.nsf/automation-control/power-control-protection-index" title="Power Control &amp; Protection">Power Control &amp; Protection</a><a href="/electricity.nsf/automation-control/networks-communication-index" title="Networks &amp; Communication">Networks &amp; Communication</a><a href="/electricity.nsf/electrical-solutions/control-signalling-devices-index" title="Control &amp; Signalling">Control &amp; Signalling</a><a href="/electricity.nsf/automation-control/plc-legacy-controllers-index" title="Legacy Controllers">Legacy Controllers</a>
+	<a href="/electricity.nsf/automation-control/industrial-automation-equipment-index" title="Automation controllers">Automation controllers</a><a href="/electricity.nsf/electrical-solutions/control-signalling-devices-index" title="Control &amp; Signalling">Control &amp; Signalling</a><a href="/electricity.nsf/automation-control/detection-equipment-index" title="Detection equipment">Detection equipment</a><a href="/electricity.nsf/automation-control/distributed-input-output-interfaces-index" title="Distributed I/O &amp; Interfaces">Distributed I/O &amp; Interfaces</a><a href="/electricity.nsf/automation-control/hmi-human-machine-interfaces-index" title="Human Machine Interface">Human Machine Interface</a><a href="/electricity.nsf/automation-control/gui-interfaces-panel-components-index" title="Interfaces &amp; panel components">Interfaces &amp; panel components</a><a href="/electricity.nsf/automation-control/plc-legacy-controllers-index" title="Legacy Controllers">Legacy Controllers</a><a href="/electricity.nsf/automation-control/motion-control-index" title="Motion Control">Motion Control</a><a href="/electricity.nsf/automation-control/networks-communication-index" title="Networks &amp; Communication">Networks &amp; Communication</a><a href="/electricity.nsf/automation-control/power-control-protection-index" title="Power Control &amp; Protection">Power Control &amp; Protection</a><a href="/electricity.nsf/automation-control/machine-safety-components-index" title="Safety components">Safety components</a><a href="/electricity.nsf/automation-control/variable-drives-soft-starters-index" title="Variable drives/soft starts">Variable drives/soft starts</a>
           </div>
           <div id="ps-more" onmouseover="afficher_sub('ps-more');tempo=false;v=true;" onmouseout="tempo=true;setTimeout('delai_sub();', 500);">
-	<a href="/internet/pws/pws.nsf/luAllByID/F3FC27F8D844EF118025734F0044EE31?open" title="Consultancy services">Consultancy services</a><a href="/electricity.nsf/electrical-projects-services/product-packages" title="Product packages">Product packages</a><a href="/electricity.nsf/electrical-projects-services/support-services" title="Support services">Support services</a><a href="/electricity.nsf/electrical-projects-services/schneider-electric-project-services" title="Projects">Projects</a><a href="/electricity.nsf/electrical-projects-services/electrical-distribution-support-contracts" title="Support contracts">Support contracts</a><a href="/electricity.nsf/electrical-projects-services/schneider-electric-systems-engineering" title="Systems engineering">Systems engineering</a><a href="/electricity.nsf/electrical-projects-services/schneider-electric-training-services" title="Training">Training</a>
+	<a href="/internet/pws/pws.nsf/luAllByID/F3FC27F8D844EF118025734F0044EE31?open" title="Consultancy services">Consultancy services</a><a href="/electricity.nsf/electrical-projects-services/product-packages" title="Product packages">Product packages</a><a href="/electricity.nsf/electrical-projects-services/schneider-electric-project-services" title="Projects">Projects</a><a href="/electricity.nsf/electrical-projects-services/support-services" title="Support services">Support services</a><a href="/electricity.nsf/electrical-projects-services/schneider-electric-systems-engineering" title="Systems engineering">Systems engineering</a><a href="/electricity.nsf/electrical-projects-services/schneider-electric-training-services" title="Training">Training</a><a href="/electricity.nsf/electrical-projects-services/support-contracts-index" title="Support contracts">Support contracts</a>
           </div>
         </div>
         <!-- END 2 Sub nav -->
         <!-- BEGINN Sub nav -->
         <div id="subnav">
-          <div id="solutions" onmouseover="afficher('solutions');tempo=false;" onmouseout="tempo=true;setTimeout('delai();', 500);"><a href="/electricity.nsf/electrical-solutions/airport-solutions" title="Airport solutions">Airport solutions</a><a href="/electricity.nsf/electrical-solutions/outdoor-floodlighting" title="Outdoor Floodlighting">Outdoor Floodlighting</a><a href="/electricity.nsf/electrical-solutions/conveyors-packaging-systems" title="Packing &amp; conveying systems">Packing &amp; conveying systems</a><a href="/electricity.nsf/electrical-solutions/power-plants" title="Power Generation and Control">Power Generation and Control</a><a href="/electricity.nsf/electrical-solutions/waste-management" title="Refuse handling">Refuse handling</a><a href="/electricity.nsf/electrical-solutions/rcd-residual-current-protection" title="Residual Current Protection">Residual Current Protection</a><a href="/electricity.nsf/electrical-solutions/home-automation" title="Smart home systems">Smart home systems</a><a href="/electricity.nsf/electrical-solutions/vision-systems" title="Vision systems">Vision systems</a><a href="/electricity.nsf/electrical-solutions/water-treatment-systems" title="Water solutions">Water solutions</a><a href="/electricity.nsf/electrical-solutions/building-facility-management" title="Building management">Building management</a><a href="/electricity.nsf/electrical-solutions/data-centres" title="Data Centres">Data Centres</a><a href="/electricity.nsf/electrical-solutions/energy-efficiency" title="Energy Efficiency">Energy Efficiency</a><a href="/electricity.nsf/electrical-solutions/food-and-beverage-solutions" title="Food &amp; Beverages">Food &amp; Beverages</a><a href="/electricity.nsf/electrical-solutions/elevators-lifts-and-hoists" title="Hoisting systems">Hoisting systems</a><a href="/electricity.nsf/electrical-solutions/hvac-systems" title="HVAC systems">HVAC systems</a><a href="/electricity.nsf/electrical-solutions/intelligent-lighting-control-systems" title="Intelligent lighting control">Intelligent lighting control</a><a href="/electricity.nsf/electrical-solutions/motor-speed-controllers" title="Intelligent motor controls">Intelligent motor controls</a></div>
+          <div id="solutions" onmouseover="afficher('solutions');tempo=false;" onmouseout="tempo=true;setTimeout('delai();', 500);"><a href="/electricity.nsf/electrical-solutions/business-segments" title="Business Segments">Business Segments</a><a href="/electricity.nsf/electrical-solutions/airport-solutions" title="- Airport solutions">- Airport solutions</a><a href="/electricity.nsf/electrical-solutions/building-facility-management" title="- Building management">- Building management</a><a href="/electricity.nsf/electrical-solutions/data-centres" title="- Data Centres">- Data Centres</a><a href="/electricity.nsf/electrical-solutions/food-and-beverage-solutions" title="- Food &amp; Beverages">- Food &amp; Beverages</a><a href="/electricity.nsf/electrical-solutions/intelligent-lighting-control-systems" title="- Intelligent lighting control">- Intelligent lighting control</a><a href="/electricity.nsf/electrical-solutions/power-plants" title="- Power Generation">- Power Generation</a><a href="/electricity.nsf/electrical-solutions/rcd-residual-current-protection" title="- Residual Current Protection">- Residual Current Protection</a><a href="/electricity.nsf/electrical-solutions/home-automation" title="- Smart home systems">- Smart home systems</a><a href="/electricity.nsf/electrical-solutions/water-treatment-systems" title="- Water solutions">- Water solutions</a><a href="/electricity.nsf/electrical-solutions/original-equipment-manufacturers" title="Machines">Machines</a><a href="/electricity.nsf/electrical-engineering/asset-optimisation" title="Asset Optimisation">Asset Optimisation</a><a href="/electricity.nsf/electrical-solutions/critical-power" title="Critical Power">Critical Power</a><a href="/electricity.nsf/electrical-solutions/energy-efficiency" title="Energy Efficiency">Energy Efficiency</a></div>
           <div id="products" onmouseover="afficher('products');tempo=false;" onmouseout="tempo=true;setTimeout('delai();', 500);">
 	<a href="#" id="linked-more" onmouseover="afficher_sub('ed-more');tempo=false;">Electrical Distribution</a>
 	<a href="#" id="linkac-more" onmouseover="afficher_sub('ac-more');tempo=false;">Automation Control</a>
 	<a href="#" id="linkps-more" onmouseover="afficher_sub('ps-more');tempo=false;">Projects &amp; Services</a>
           </div>
-          <div id="support" onmouseover="afficher('support');tempo=false;" onmouseout="tempo=true;setTimeout('delai();', 500);"><a href="/internet/pws/literature.nsf/lulibrary?open" title="Literature Downloads">Literature Downloads</a><a href="/electricity.nsf/electrical-support/software-downloads" title="Software Downloads">Software Downloads</a><a href="/internet/pws/webqueries.nsf/formWebContact?open&amp;type=sales" title="Sales Support">Sales Support</a><a href="/internet/pws/webqueries.nsf/formWebContact?open&amp;type=product" title="Product Support">Product Support</a><a href="/electricity.nsf/electrical-support/electrical-training-information" title="Training information">Training information</a><a href="/electricity.nsf/electrical-support/electrical-faqs" title="FAQ's">FAQ's</a><a href="/internet/pws/distributorlist.nsf/formSearch?open" title="Find a Distributor">Find a Distributor</a><a href="/internet/pws/webqueries.nsf/formWebContact?open" title="Contact us">Contact us</a><a href="/electricity.nsf/electrical-support/uk-product-showroom-locations" title="UK locations">UK locations</a></div>
-          <div id="customers" onmouseover="afficher('customers');tempo=false;" onmouseout="tempo=true;setTimeout('delai();', 500);"><a href="/electricity.nsf/electrical-customers/consultants" title="Consultants">Consultants</a><a href="/electricity.nsf/electrical-customers/contractors" title="Contractors">Contractors</a><a href="/electricity.nsf/electrical-customers/housebuilders" title="Housebuilders">Housebuilders</a><a href="/electricity.nsf/electrical-customers/panel-builders" title="Panel Builders">Panel Builders</a><a href="/electricity.nsf/electrical-customers/systems-integrators" title="System Integrators">System Integrators</a><a href="/electricity.nsf/electrical-customers/other-customers" title="Other Customers">Other Customers</a></div>
+          <div id="support" onmouseover="afficher('support');tempo=false;" onmouseout="tempo=true;setTimeout('delai();', 500);"><a href="http://www.schneider-electric.co.uk/internet/pws/literature.nsf/catalogue-list" title="Literature Downloads">Literature Downloads</a><a href="/electricity.nsf/electrical-support/software-downloads" title="Software Downloads">Software Downloads</a><a href="/internet/pws/webqueries.nsf/formWebContact?open&amp;type=sales" title="Sales Support">Sales Support</a><a href="/internet/pws/webqueries.nsf/formWebContact?open&amp;type=product" title="Product Support">Product Support</a><a href="/electricity.nsf/electrical-support/electrical-training-information" title="Training information">Training information</a><a href="/electricity.nsf/electrical-support/electrical-faqs" title="FAQ's">FAQ's</a><a href="/internet/pws/distributorlist.nsf/formSearch" title="Find a Distributor">Find a Distributor</a><a href="/internet/pws/webqueries.nsf/formWebContact" title="Contact us">Contact us</a><a href="/electricity.nsf/electrical-support/uk-product-showroom-locations" title="UK locations">UK locations</a><a href="/electricity.nsf/electrical-support/legislation" title="Legislation">Legislation</a></div>
+          <div id="customers" onmouseover="afficher('customers');tempo=false;" onmouseout="tempo=true;setTimeout('delai();', 500);"><a href="/electricity.nsf/electrical-customers/consultants" title="Consultants">Consultants</a><a href="/electricity.nsf/electrical-customers/contractors" title="Contractors">Contractors</a><a href="/electricity.nsf/electrical-customers/housebuilders" title="Housebuilders">Housebuilders</a><a href="/electricity.nsf/electrical-customers/panel-builders" title="Panel Builders">Panel Builders</a><a href="/electricity.nsf/electrical-customers/systems-integrators" title="System Integrators">System Integrators</a><a href="/electricity.nsf/electrical-customers/original-equipment-manufacturers" title="Original Equipment Manufacturers">Original Equipment Manufacturers</a><a href="/electricity.nsf/electrical-customers/other-customers" title="Other Customers">Other Customers</a></div>
           <div id="brands" onmouseover="afficher('brands');tempo=false;" onmouseout="tempo=true;setTimeout('delai();', 500);"><a href="/electricity.nsf/electrical-brands/merlin-gerin" title="Merlin Gerin">Merlin Gerin</a><a href="/electricity.nsf/electrical-brands/square-d" title="SquareD">SquareD</a><a href="/electricity.nsf/electrical-brands/telemecanique" title="Telemecanique">Telemecanique</a><a href="/electricity.nsf/electrical-brands/schneider-electric-brands" title="Others...">Others...</a></div>
         </div>
         <!-- END Sub nav -->
@@ -239,37 +152,8 @@ form = window.document.forms[0];
    </tr>
   </tbody></table>
  </div>
-  <input name="SimpleQuery" required="" size="17" maxlength="100" class="sitesearchinput" onkeypress="javascript:searchDomain()"> <img src="/electricity.nsf/bt_next.jpg?OpenImageResource" width="18" height="18" align="middle" onclick="vDebug = false;
-
-if ( vDebug ) alert( typeof( document.forms[0].SimpleQuery[0] ) );
-
-if ( typeof( document.forms[0].SimpleQuery[0] ) == &quot;undefined&quot; ) {
-	sTxt = document.forms[0].SimpleQuery.value;
-} else {
-	sTxt = document.forms[0].SimpleQuery[0].value;
-}
-
-sDB = document.forms[0][&quot;Structure.dbHome&quot;].value;
-
-if ( vDebug ) alert( sDB + &quot; : &quot; + sTxt );
-
-if (document.forms[0].searchselectC1.checked) {
-	if ( vDebug ) alert(&quot;CATALOGUES&quot;);
-	elibDb = &quot;http://&quot; + location.host + &quot;/internet/pws/literature.nsf&quot;;
-	
-	var myRegExp = / /gi;
-	s = sTxt.replace(myRegExp,&quot;*+AND+*&quot;);
-	
-	sURL = elibDb + &quot;/luSearchCatalogues?SearchView&amp;Query=*&quot; + s + &quot;*&quot;;
-} else {
-	if ( vDebug ) alert(&quot;GENERAL&quot;);
-	sURL = sDB + &quot;/SearchResults?SearchDomain&amp;Query=(&quot; + sTxt + &quot;)&quot; + vExcludeSTR + &quot;&amp;SearchOrder=&amp;SearchWV=TRUE&amp;SearchThesaurus=FALSE&amp;SearchFuzzy=FALSE&amp;Start=1&amp;Count=20&amp;SearchEntry=ResultEntry&amp;Scope=1&quot;;
-}		
-
-if ( vDebug ) alert( sURL );
-
-location.href = sURL">  <input type="checkbox" name="searchselectC1" value="E" onkeypress="javascript:searchDomain()">eCatalogue search
- <div class="hr">&nbsp;</div><div class="paragraph_title"><table bgcolor="#FFFFFF" cellspacing="0"><tbody><tr><td>Direct links</td></tr></tbody></table></div><a href="/electricity.nsf/electrical-engineering/downloads" title="Downloads">Downloads</a><a href="/internet/pws/distributorlist.nsf/formSearch?open" title="Find a Distributor">Find a Distributor</a><a href="/electricity.nsf/electrical-support/electrical-faqs" title="FAQ's">FAQ's</a><a href="https://www.myseuk.schneider-electric.com" title="My Schneider Electric">My Schneider Electric</a><div class="hr">&nbsp;</div><div class="paragraph_title"><table bgcolor="#FFFFFF" cellspacing="0"><tbody><tr><td>Company<br>information</td></tr></tbody></table></div><a href="http://www.jobs.schneider-electric.com:8080" title="Careers" target="_blank">Careers</a><a href="/electricity.nsf/electrical-engineering/about-us" title="About us">About us</a>
+  <input name="SimpleQuery" required="" size="17" maxlength="100" class="sitesearchinput" onkeypress="javascript:searchDomain()"> <img src="/electricity.nsf/bt_next.jpg?OpenImageResource" width="18" height="18" align="middle" onclick="runSearch()" alt="">  <input type="checkbox" name="searchselectC1" value="E" onkeypress="javascript:searchDomain()">eCatalogue search
+ <div class="hr">&nbsp;</div><div class="paragraph_title"><table bgcolor="#FFFFFF" cellspacing="0"><tbody><tr><td>Direct links</td></tr></tbody></table></div><a href="/electricity.nsf/electrical-engineering/downloads" title="Downloads">Downloads</a><a href="/internet/pws/distributorlist.nsf/formSearch?open" title="Find a Distributor">Find a Distributor</a><a href="/electricity.nsf/electrical-support/electrical-faqs" title="FAQ's">FAQ's</a><a href="https://www.myseuk.schneider-electric.com" title="My Schneider Electric">My Schneider Electric</a><div class="hr">&nbsp;</div><div class="paragraph_title"><table bgcolor="#FFFFFF" cellspacing="0"><tbody><tr><td>Company<br>information</td></tr></tbody></table></div><a href="http://www.schneider-electric.co.uk/electricity.nsf/luAllByID/5E84A4ED8A8BB5678025746C004AA350" title="Careers" target="_blank">Careers</a><a href="/electricity.nsf/electrical-engineering/about-us" title="About us">About us</a>
  <div class="hr">&nbsp;</div>
  <div class="paragraph_title">
   <table bgcolor="#FFFFFF" cellpadding="0" cellspacing="0">
@@ -354,10 +238,10 @@ location.href = sURL">  <input type="checkbox" name="searchselectC1" value="E" o
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"> </script> <script type="text/javascript"> _uacct = "UA-2449534-1"; urchinTracker(); </script>
 
 <input name="thisServer" type="hidden" value="">
-<input name="Structure.dbSiteMap" type="hidden" value="SiteMap.nsf">
+<input name="Structure.dbSiteMap" type="hidden" value="sitemap.nsf">
 <input name="Structure.dbRegistration" type="hidden" value="registration.nsf">
-<input name="Structure.dbBasket" type="hidden" value="Basket.nsf">
-<input name="Structure.dbPortal" type="hidden" value="MySchneider.nsf">
+<input name="Structure.dbBasket" type="hidden" value="basket.nsf">
+<input name="Structure.dbPortal" type="hidden" value="myschneider.nsf">
 <input name="thisDatabase" type="hidden" value="electricity.nsf">
 <input name="thisDatabaseWithPath" type="hidden" value="/electricity.nsf">
 <input name="Structure.dbHome" type="hidden" value="/electricity.nsf">
