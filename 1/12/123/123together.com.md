@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the 123together.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229091644id_/http%3A//www.123together.com/ps.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123together.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218080057id_/http%3A//www.123together.com/ps.xhtml) for the most accurate reproduction.*
 
 # 123Together Exchange Hosting Privacy Statement
-
-Privacy Statement 
 
 **123Together.com Privacy Statement:**  
 123Together.com has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy on the 123Together.com web site (the "Site") is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement and will provide notification of the change at least thirty (30) business days prior to the change taking effect.
@@ -25,7 +23,7 @@ Standing alone, cookies do not identify you personally. They merely recognize yo
 
 123Together.com uses session cookies containing encrypted information to allow the system to uniquely identify you while you are logged in. This information allows 123Together.com to process your online transactions and requests. Session cookies help us make sure you are who you say you are after you've logged in and are required in order to use the 123Together.com application. 123Together.com uses persistent cookies, that only 123Together.com can read and use, to identify the fact that you are a 123Together.com customer or prior 123Together.com Website visitor (whatever the case may be). We are especially careful about the security and confidentiality of the information stored in persistent cookies. For example, we do not store account numbers or passwords in persistent cookies. Users who disable their Web browsers' ability to accept cookies will be able to browse our Website but will not be able to successfully use our service.
 
-Third-Party Sites:  
+**Third-Party Sites:**  
 The Site contains links to other web sites. 123Together.com is not responsible for the privacy practices or the content of these other web sites. Customers and visitors will need to check the policy statement of these others web sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential.
 
 **Security:**  
@@ -38,8 +36,5 @@ Our Site has security measures in place to help protect against the loss, misuse
 If customers need to update or change registration information they may so by editing the user or organization record. To update a User Profile, log on to 123Together.com and update the appropriate information. To discontinue the Service and to have data returned, email Support@123Together.com or call 781-273-6245.
 
 **Additional Information:**  
-Questions regarding this Statement or the practices of this Site should be directed to 123Together.com by e-mailing such questions to Support@123Together.com .
+Questions regarding this Statement or the practices of this Site should be directed to 123Together.com by e-mailing such questions to Support@123Together.com.  
 
-### About 123Together.com Exchange Hosting
-
-123Together.com, a Microsoft Gold Certified Partner, is a leading provider of hosted enterprise-class messaging and collaboration solutions including Microsoft Exchange Hosting. Among its offerings are shared and dedicated hosted Exchange Servers, hosted SharePoint, and full support for mobile device integration services such as BlackBerry Enterprise Server, Good Messaging and ActiveSync/Windows Mobile. Customers also receive free Outlook 2007, live 24x7 U.S.-based phone and email support, advanced spam and virus filtering, and a 100% uptime guarantee for dedicated servers. A 30-day no obligation trial is available. 
