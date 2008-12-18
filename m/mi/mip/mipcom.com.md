@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mipcom.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513011512id_/http%3A//www.mipcom.com/App/homepage.cfm%3Fappname%3D100495%26moduleID%3D297%26LinkID%3D21597) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mipcom.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218140606id_/http%3A//www.mipcom.com/App/homepage.cfm%3Fappname%3D100495%26moduleID%3D297%26LinkID%3D21597) for the most accurate reproduction.*
 
 # MIPCOM - The world's audiovisual content market
 
@@ -37,7 +37,7 @@ Reed MIDEM uses Clients’ Financial Information exclusively for purposes of pro
 
 Reed MIDEM uses Clients’ Business Information and share it on a need basis with other organizations, partners or contractors of Reed MIDEM, to enable or to facilitate the performance of contracts entered with the Clients for the supply of products and services as well as to inform them on Reed MIDEM’s similar products and services. Reed MIDEM may also have to disclose Business Information to comply with applicable law and/or court injunction, and to compel respect of rights, property and safety of Reed MIDEM or of third parties. 
 
-As part of MIPCOM / MIPCOM JR 2006 online services, Clients have access to a database containing Business Information, to allow them to identify the participants to MIPCOM / MIPCOM JR 2006 and to communicate with them using their contact details, including their email addresses.
+As part of MIPCOM / MIPCOM JR 2008 online services, Clients have access to a database containing Business Information, to allow them to identify the participants to MIPCOM / MIPCOM JR 2008 and to communicate with them using their contact details, including their email addresses.
 
 **2.3 - Exercise of rights of access and correction of personal data and of the right to opt out**  
 You have the right to access, rectify or object to the personal data relating to you. If you wish to exercise that right, please [contact us](mailto:md@reedmidem.com?subject=Reed%20MIDEM%20/%20MIPCOM%20Privacy%20Policy%20opt%20out&body=Thank%20you%20for%20not%20sending%20future%20commercial%20offers%20for%20products%20and%20services%20through%20use%20of%20my%20email,%20unless%20to%20respond%20to%20an%20express%20request%20on%20my%20part.). 
@@ -46,9 +46,9 @@ You have the right to opt out of receiving future marketing communication from R
 [Thank you for not sending future commercial offers for products and services through use of my email, unless to respond to an express request on my part.](mailto:md@reedmidem.com?subject=Reed%20MIDEM%20/%20MIPCOM%20Privacy%20Policy%20opt%20out&body=Thank%20you%20for%20not%20sending%20future%20commercial%20offers%20for%20products%20and%20services%20through%20use%20of%20my%20email,%20unless%20to%20respond%20to%20an%20express%20request%20on%20my%20part.)
 
 **2.4 - Use by Client of other Client’s personal data**  
-Each client having authorized access to MIPCOM / MIPCOM JR 2006 online services commits to make a use of personal data of other Clients in a good faith manner in compliance with the standards of “Netiquette” and conduct of business dealings in terms mutually approved by the concerned Clients. It is prohibited to use MIPCOM / MIPCOM JR 2006 online services to collect or store personal data about other Clients. 
+Each client having authorized access to MIPCOM / MIPCOM JR 2008 online services commits to make a use of personal data of other Clients in a good faith manner in compliance with the standards of “Netiquette” and conduct of business dealings in terms mutually approved by the concerned Clients. It is prohibited to use MIPCOM / MIPCOM JR 2008 online services to collect or store personal data about other Clients. 
 
-Commercial use of Clients’ personal data made available in the course of the MIPCOM / MIPCOM JR 2006 on line services and not expressly agreed by the concerned Client is formally prohibited and subject to court action for remedy. 
+Commercial use of Clients’ personal data made available in the course of the MIPCOM / MIPCOM JR 2008 on line services and not expressly agreed by the concerned Client is formally prohibited and subject to court action for remedy. 
 
 The Client is fully liable for conforming with applicable rules, more specifically those set forth in the EU Data Protection Directive of 1995 (95/46/EC), regarding the transfer of personal data of Clients to third countries.
 
