@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkrun.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511203759id_/http%3A//www.parkrun.com/home.aspx%3Fctl%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkrun.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218040035id_/http%3A//www.parkrun.com/home.aspx%3Fctl%3DPrivacy) for the most accurate reproduction.*
 
 # parkrun Home
 
