@@ -1,14 +1,7 @@
-> *The following text is extracted and transformed from the lntinfotech.com privacy policy that was archived on 2008-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080316045843id_/http%3A//www.lntinfotech.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lntinfotech.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218022701id_/http%3A//www.lntinfotech.com/privacy.asp) for the most accurate reproduction.*
 
-# L & T Infotech - Privacy Policy
+# L&T Infotech - Privacy Policy
 
-| [](https://web.archive.org/web/20080316045843id_/http%3A//www.lntinfotech.com/index.html) |   
----|---  
-| [](https://web.archive.org/web/20080316045843id_/http%3A//www.lntinfotech.com/index.html) | [](https://web.archive.org/web/20080316045843id_/http%3A//www.lntinfotech.com/aboutus/overview.html) | [](https://web.archive.org/web/20080316045843id_/http%3A//www.lntinfotech.com/industries/industries.html) | [](https://web.archive.org/web/20080316045843id_/http%3A//www.lntinfotech.com/services/services.html) | [](https://web.archive.org/web/20080316045843id_/http%3A//www.lntinfotech.com/solutions/view_by_industry.html) | [](https://web.archive.org/web/20080316045843id_/http%3A//www.lntinfotech.com/knowledge_center/coe/overview.html) | [](https://web.archive.org/web/20080316045843id_/http%3A//www.lntinfotech.com/careers/index.html)  
----|---|---|---|---|---|---  
-|   
----  
-  
 In general, you can visit L&T INFOTECH's World Wide Web without telling us who you are and without revealing any information about yourself. There are times, however, when we may need information from you such as your name and address. When information is needed, we will try (but are not obligated) to let you know at the time of collection, how we will use the personal information. Usually, the personal information we collect is used only by us to respond to your inquiry, process an order or allow you to access specific account information. 
 
 L&T INFOTECH does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
