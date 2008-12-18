@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the climbing.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608010422id_/http%3A//climbing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climbing.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218122811id_/http%3A//www.climbing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -138,3 +138,12 @@ New York, NY 10014
 Or you can fax us at 212-243-8212 Attn: Privacy Coordinator
 
 Updated March 14, 2007
+
+**Cancellation & Refund Policy**
+
+If at any time you wish to cancel your subscription, your refund will be for the unused portion of that subscription. A refund payment will be prorated at the per-issue price paid in advance, based on the number of issues remaining on your subscription. We do not require a reason for cancellation or any advanced notice. We only ask that you notify us by phone or in writing to cancel (1.800.829.2895). 
+
+Subscription Information  
+Climbing Magazine  
+P.O. Box 420235  
+Palm Coast, FL 32142-0235
