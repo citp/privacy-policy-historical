@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridatrend.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609182721id_/http%3A//www.floridatrend.com/section.asp%3FsecID%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridatrend.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218104717id_/http%3A//www.floridatrend.com/section.asp%3FsecID%3D8) for the most accurate reproduction.*
 
 # Florida Trend - Florida's Source For Business News
 
