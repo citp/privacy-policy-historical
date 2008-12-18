@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the htmart.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602075506id_/http%3A//www.htmart.com/pages.php%3Fpageid%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmart.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218225325id_/http%3A//htmart.com/pages.php%3Fpageid%3D5) for the most accurate reproduction.*
 
-# Home Theater Mart » Privacy Policy
+# Home Theater Mart | Privacy Policy
 
 **HT MART Privacy Policy**
 
