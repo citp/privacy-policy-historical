@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlefree4all.com privacy policy that was archived on 2008-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080507022920id_/http%3A//articlefree4all.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlefree4all.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218055138id_/http%3A//articlefree4all.com/privacy.php) for the most accurate reproduction.*
 
 # Article Free 4 All
 
