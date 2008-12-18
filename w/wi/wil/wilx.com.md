@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilx.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615173304id_/http%3A//www.wilx.com/unclassified/647.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilx.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218011031id_/http%3A//www.wilx.com/unclassified/647.html) for the most accurate reproduction.*
 
 # GRAY TELEVISION GROUP, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS / WILX TV 10, Mid-Michigan's Breaking News, Weather and Sports authority serving the Lansing and Jackson area
 
@@ -125,17 +125,19 @@ We will use reasonable efforts to promptly investigate any complaint you may hav
   * [www.wifr.com](http://www.wifr.com/)
   * [www.wilx.com](http://www.wilx.com/)
   * [www.wjhg.com](http://www.wjhg.com/)
-  * [www.witntv.com](http://www.witntv.com/)
+  * [www.witn.com](http://www.witntv.com/)
   * [www.wowt.com](http://www.wowt.com/)
-  * [www.wctv6.com](http://www.wctv6.com/)
+  * [www.wctv.tv](http://www.wctv6.com/)
   * [www.wsaw.com](http://www.wsaw.com/)
   * [www.wtap.com](http://www.wtap.com/)
   * [www.wtok.com](http://www.wtok.com/)
   * [www.wtvynews4.com](http://www.wtvynews4.com/)
-  * [nbc15.madison.com](http://nbc15.madison.com/)
+  * [www.nbc15.com](http://nbc15.madison.com/)
   * [www.wsaz.com](http://www.wsaz.com/)
   * [www.nbc11news.com](http://www.nbc11news.com/)
   * [www.wrdw.com](http://www.wrdw.com/)
+  * [www.tv3winchester.com](http://www.tv3winchester.com/) 
+  * [www.wndu.com](http://www.wndu.com/) 
 
 
 
