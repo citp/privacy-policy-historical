@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aquacard.co.uk privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514165108id_/http%3A//www.aquacard.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquacard.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218121447id_/http%3A//www.aquacard.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
-# SAV
+# Privacy policy
 
 ### Why we need your information and where we obtain it
 
@@ -109,7 +109,7 @@ ii) Link joint applicants and/or any individual identified as your spouse or par
 iii) Take both your and their information into account in future applications by either or both of you  
 iv) Continue this linking until the account closes, or is changed to a sole account _and_ one of you notifies us that you are no longer linked
 
- **So you must be sure that toy have their agreement to disclose information about them.**
+ **So you must be sure that you have their agreement to disclose information about them.**
 
 c) If you give us false or inaccurate information and we suspect fraud, we will record this and may also pass this information to financial and other organisations involved in fraud prevention to protect us, them and our respective customers from fraud and theft
 
