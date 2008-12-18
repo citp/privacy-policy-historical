@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stumpsprom.com privacy policy that was archived on 2008-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080217210810id_/http%3A//www.stumpsprom.com/service.cfm%3Fpage%3Dsite_security%26SecID%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stumpsprom.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218145914id_/http%3A//www.stumpsprom.com/servicepage.cfm%3Fcaid%3D978763) for the most accurate reproduction.*
 
-# Prom Decorations, Prom Favors, Prom 2008 – Stumps Prom and Party
+# Prom Decorations, Prom Ideas, Prom Supplies, Prom Decor - Stumps
 
 ### Site Security
 
@@ -41,8 +41,8 @@
 >> 
 >> Please note:
 >> 
->>   * By visiting or using our website, you are accepting the policies described in this Privacy Policy.
->>   * If, at any time, we alter our Privacy Policy, we will post a notice on our website.
+>>   * By visiting or using our website, you are accepting the policies described in this Privacy Policy. 
+>>   * If, at any time, we alter our Privacy Policy, we will post a notice on our website. 
 >> 
 
 > 
@@ -50,12 +50,12 @@
 >
 >> We receive and gather information (such as customer name, address, phone number, e-mail address, and, when necessary, credit card information) from customers for the following purposes:
 >> 
->>   * To process orders
->>   * To improve customer shopping experiences
->>   * To communicate about our products and services
->>   * To fulfill catalog requests
->>   * To send Order and Shipping Confirmation E-mails
->>   * To contact customers about their order
+>>   * To process orders 
+>>   * To improve customer shopping experiences 
+>>   * To communicate about our products and services 
+>>   * To fulfill catalog requests 
+>>   * To send Order and Shipping Confirmation E-mails 
+>>   * To contact customers about their order 
 >> 
 
 > 
@@ -72,12 +72,12 @@
 >> Mail your request to:
 >>
 >>> Stumps Prom  
->  Attn: Customer Service  
->  P.O. Box 305  
->  South Whitley, IN 46787-0305
+> Attn: Customer Service  
+> P.O. Box 305  
+> South Whitley, IN 46787-0305
 >>> 
 >>> _E-mail your request to:_  
->  [Customer Service](mailto:csr@stumpsprom.com)
+> [Customer Service](mailto:csr@stumpsprom.com)
 >>> 
 >>> _Or call us at:_  
 >  1-800-227-2789
@@ -89,9 +89,9 @@
 >> To remove your name from mailing lists of other printed catalogs that belong to the Direct Marketing Association, write to:
 >>
 >>> Mail Preference Department  
->  Direct Marketing Association  
->  P.O. Box 9008  
->  Farmingdale, NY 11735-9008
+> Direct Marketing Association  
+> P.O. Box 9008  
+> Farmingdale, NY 11735-9008
 > 
 > ### Children's Online Privacy Protection
 >
@@ -102,6 +102,6 @@
 >> If you at any time have questions, concerns, or need assistance with our Privacy Policy, please feel free to e-mail us at [Customer Service](mailto:csr@stumpsprom.com), call us toll free at 1-800-227-2789 or write to us at:
 >>
 >>> Stumps Prom  
->  Attn: Customer Service  
->  P.O. Box 305  
->  South Whitley, IN 46787-0305
+> Attn: Customer Service  
+> P.O. Box 305  
+> South Whitley, IN 46787-0305
