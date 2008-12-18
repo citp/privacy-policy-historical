@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the bankofinternet.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613235905id_/http%3A//www.bankofinternet.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofinternet.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218160241id_/http%3A//www.bankofinternet.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
-
-| 
-
-Privacy Policy
+# Privacy Policy - Bank of Internet
 
 as of January 2006
 
-We want you to know that we are totally committed to protecting and safeguarding your privacy. It is our policy to treat your personal and financial information with the utmost respect, and in accordance with your wishes. Since Bank of Internet USA utilizes traditional bank systems and the Internet to deliver products and services; certain Internet-related privacy issues may be of concern to you. For this reason, and because we want you to be a confident and informed customer, we have adopted the following Privacy Policy. 
+We want you to know that we are totally committed to protecting and safeguarding your privacy. It is our policy to treat your personal and financial information with the utmost respect, and in accordance with your wishes. Since Bank of Internet USA utilizes traditional bank systems and the Internet to deliver products and services, certain Internet-related privacy issues may be of concern to you. For this reason, and because we want you to be a confident and informed customer, we have adopted the following Privacy Policy. 
 
 * * *
 
@@ -18,16 +14,16 @@ _**NO** \- We do not disclose any nonpublic personal information about you to an
 
 * * *
 
-Bank of Internet USA has adopted a strict security policy and procedure that prohibits the selling, or providing, of personal information to third parties for their independent use. However, in the normal course of business, we make information available to Bank of Internet USA vendors if the information is needed to fulfill an authorized service, requested by you, such as a Visa debit card, or mortgage loan. This is the same procedure as would be done by any traditional bank. Please be assured that Bank of Internet USA values our customers and their privacy.
+Bank of Internet USA has adopted a strict security policy and procedure that prohibits the selling, or providing, of personal information to third parties for their independent use. However, in the normal course of business, we make information available to Bank of Internet USA vendors if the information is needed to fulfill an authorized service, requested by you, such as a Visa debit card, or mortgage loan. This is the same procedure as would be done by any traditional bank. Please be assured that Bank of Internet USA values customers and their privacy.
 
-We periodically review these procedures and policies to ensure the highest level of security in regard to your private information. If you ever have any questions or concerns other than those listed below, send us and email at customerservice@bankofinternet.com or call our toll free number (877) 541-BOFI (2634).
+We periodically review these procedures and policies to ensure the highest level of security in regard to your private information. If you ever have any questions or concerns other than those listed below, send us an email at customerservice@bankofinternet.com or call our toll free number (877) 541-BOFI (2634).
 
 What types of non-public personal information do we collect about you?
 
 We collect nonpublic personal information about you from the following sources:
 
-  * Information we receive from you on applications or other forms; 
-  * Information about your transactions with us, and 
+  * Information we receive from you on applications or other forms;
+  * Information about your transactions with us; and
   * Information we receive from a consumer-reporting agency
 
 
@@ -38,13 +34,13 @@ We restrict access to nonpublic personal information about you to those employee
 
 Disclosure of Information to Third Parties
 
-Bank of Internet USA, will not, without your consent, release specific information about you or your account to third parties, except where such release is necessary to complete a banking related transaction you have requested, or unless we are required to do so by law. In addition, we may send information in a report, from time to time, to information reporting companies such as credit/debit reporting agencies. 
+Bank of Internet USA will not, without your consent, release specific information about you or your account to third parties, except where such release is necessary to complete a banking related transaction you have requested, or unless we are required to do so by law. In addition, we may send information in a report, from time to time, to information reporting companies such as credit/debit reporting agencies. 
 
 Should we learn of a valuable product or service that is provided by other vendors, we will ask your permission before we solicit your business. This is known as an “Opt In” confidentiality policy. You the customer must opt in before we present you with the information. You will not be marketed to by third parties based upon our information unless you allow such marketing on a case-by-case basis. 
 
 The Collection and Retention of Personal Information
 
-When you utilize the Apply Online function via the Internet to open a Bank of Internet USA deposit account or loan, we will collect personal information in order to process your application. Such information is collected and maintained, in order to authenticate your identity and to protect you. We must identify and verify you to prevent unauthorized entities from accessing your personal financial information. We also utilize this information to provide the products and services you request and to offer you the new products and services that meet your needs. These associates are only provided the information necessary to fulfill the service.
+When you utilize the Apply Online function via the Internet to open a Bank of Internet USA deposit account or loan, we will collect personal information in order to process your application. Such information is collected and maintained in order to authenticate your identity and to protect you. We must identify and verify you to prevent unauthorized entities from accessing your personal financial information. We also utilize this information to provide the products and services you request and to offer you the new products and services that meet your needs. These associates are only provided the information necessary to fulfill the service.
 
 After you are a customer, your Internet banking sessions, including the transactions you conduct online, are archived. This allows us to process and confirm your transaction and to provide you with the history of your account transactions. 
 
@@ -56,15 +52,15 @@ Confirmation and Maintenance of Personal Information
 
 If you have questions or just want to confirm that your personal information at Bank of Internet USA is correct, please contact us at customerservice@bankofinternet.com or call us at 858-350-6200. If you send an e-mail do not include confidential information.
 
-It is the policy of Bank of Internet, USA to maintain accurate and complete information on our customers. If you have any reason to believe that the information we hold with respect to you or your account is inaccurate, outdated, or incomplete, please contact us by telephone or in writing so that such information may be corrected or updated as soon as possible. 
+It is the policy of Bank of Internet USA to maintain accurate and complete information on our customers. If you have any reason to believe that the information we hold with respect to you or your account is inaccurate, outdated, or incomplete, please contact us by telephone or in writing so that such information may be corrected or updated as soon as possible. 
 
 E-Disclosure Statement
 
-On our website, the statement asks for your consent so that we can provide communications and information to you in electronic rather than in paper form. We will sometimes use the words “electronic records” as a short way to refer to the communications and information that we may provide electronically. Before you decide whether or not you wish to give your consent to receiving electronic records, you should read and consider the following information. Then, if you decide to consent, you can click the “I Agree” button at the bottom of the online statement. (For your consent to be effective, your computer and browser will need to meet the hardware and software requirements discussed below at "Are there any hardware or software requirements for me to access or retain the electronic records.")
+On our website, the statement asks for your consent so that we can provide communications and information to you in electronic form rather than in paper form. We will sometimes use the words “electronic records” as a short way to refer to the communications and information that we may provide electronically. Before you decide whether or not you wish to give your consent to receiving electronic records, you should read and consider the following information. Then, if you decide to consent, you can click the “I Agree” button at the bottom of the online statement. (For your consent to be effective, your computer and browser will need to meet the hardware and software requirements discussed below at "Are there any hardware or software requirements for me to access or retain the electronic records.")
 
-The statement contains important information that we are required by law to provide to you. You should keep a copy for your records. For your convenience, this statement is written in a "Question and Answer" format. If you have any questions about electronic records that are not answered, feel free to communicate with us using any of the following "Contacts":
+The statement contains important information that we are required by law to provide to you. You should keep a copy for your records. For your convenience, this statement is written in a "Question and Answer" format. If you have any questions about electronic records that are not answered, feel free to communicate with us using any of the following "Contact methods":
 
-> Send us an e-mail at customerservice@bankofinternet.com or call us toll free at (877) 541-BOFI (2634); or   
+> Send us an e-mail at customerservice@bankofinternet.com; or call us toll free at (877) 541-BOFI (2634); or   
 >  Write to us at:   
 >  Bank of Internet USA
 
@@ -82,11 +78,11 @@ If you consent, you will receive electronic records that relate to our Online Ba
 
 
   1. Your Deposit Account Agreement and Disclosure. This Agreement contains the terms and conditions governing your deposit account. It also contains information that we are required to disclose to you under the following federal laws (and any implementing Federal Reserve Board or other Regulations): 
-    1. The Truth in Savings Act (and Regulation DD); 
-    2. The Electronic Fund Transfers Act (and Regulation E); and 
+    1. The Truth in Savings Act (and Regulation DD);
+    2. The Electronic Fund Transfers Act (and Regulation E); and
     3. The Expedited Funds Availability Act (and Regulation CC).
-  2. Your monthly account statement. As part of the monthly account statement, you will receive information about your account, including disclosure information required under these same federal laws (and Regulations). 
-  3. Other periodic or special notices (such as hold notices on availability of funds, or error resolution notices if you assert your rights under the federal consumer protection laws and regulations). These include special notices that federal laws and Regulations from time to time might require us to provide to you. 
+  2. Your monthly account statement. As part of the monthly account statement, you will receive information about your account, including disclosure information required under these same federal laws (and Regulations).
+  3. Other periodic or special notices (such as hold notices on availability of funds, or error resolution notices if you assert your rights under the federal consumer protection laws and regulations). These include special notices that federal laws and Regulations from time to time might require us to provide to you.
   4. Privacy notices and disclosures. These notices provide you with information about our privacy practices and policies.
 
 
