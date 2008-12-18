@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citmedialaw.org privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601235913id_/http%3A//www.citmedialaw.org/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citmedialaw.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218041545id_/http%3A//www.citmedialaw.org/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Citizen Media Law Project
 
