@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitwatch.com privacy policy that was archived on 2008-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080228035427id_/http%3A//www.fitwatch.com/about/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitwatch.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218140736id_/http%3A//www.fitwatch.com/about/policies.html) for the most accurate reproduction.*
 
 # FitWatch Website Privacy Policy
 
@@ -8,7 +8,7 @@ FitWatch Inc. understands your privacy is important to you (the "Visitor"). This
 
 **Website:** FitWatch Inc. tracks non-identifiable Visitor information, including but not limited to IP address, browser used, amount of time spent on the Site, amount of pages visited, in order to analyze trends, to gauge Visitor interest in the Site and to make the visit more useful to the Visitor. 
 
-**Cookies:** Cookies are used when a user willingly enters information, including but not limited to age, weight, height, for use in the various calculators and trackers on the Site. 
+**Cookies:** Cookies are used when a user willingly enters information, including but not limited to age, weight, height, for use in the various calculators and trackers on the Site. Also, through advertisements, third parties may be placing cookies or web beacons while ads are being served. For more information about cookies, please read your browser's help file. 
 
 **FitWatch Fitness Tracker:** Information entered may be used for statistical purposes (e.g. to calculate percentage of men vs. women who use the tracker). 
 
@@ -24,4 +24,4 @@ FitWatch Inc. understands your privacy is important to you (the "Visitor"). This
 
 If you have any questions regarding privacy on this Site, please contact [support@fitwatch.com](mailto:support@fitwatch.com "Send me an email"). 
 
-Last revised: August 30th, 2006 
+Last revised: May 2nd, 2008 
