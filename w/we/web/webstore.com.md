@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webstore.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619055148id_/http%3A//auctions.webstore.com/privacy%2Cpage%2Ccontent_pages) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webstore.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218143638id_/http%3A//auctions.webstore.com/privacy%2Cpage%2Ccontent_pages) for the most accurate reproduction.*
 
 # - WebStore
 
