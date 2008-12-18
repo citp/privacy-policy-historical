@@ -1,0 +1,420 @@
+<!--The following is the downloaded HTML source of the linkhunting.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218103929id_/http%3A//www.linkhunting.com/html.php%3Fid%3Dprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title></title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<link href="http://www.linkhunting.com/templates/simple/images/style.css" type="text/css" rel="stylesheet">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+var http = createRequestObject();
+
+function createRequestObject() 
+{
+	var ro;
+	var browser = navigator.appName;
+	if(browser == "Microsoft Internet Explorer")
+	{
+		ro = new ActiveXObject("Microsoft.XMLHTTP");
+	}
+	else
+	{
+		ro = new XMLHttpRequest();
+	}
+	return ro;
+}
+
+function digResponse() 
+{
+	if(http.readyState == 4)
+	{
+        var response = http.responseText;
+		
+		returned = response.split('|');
+
+		if(response.indexOf('|' != -1)) 
+		{
+			var id=returned[1];
+			var numdigs=returned[2];
+			var status=returned[0];
+			
+			if(status == '1')
+			{
+				document.getElementById('digbut'+id).innerHTML = 'buzzed';
+				document.getElementById('numdigs'+id).innerHTML = numdigs;
+  			}
+			else if(status == '2')
+			{
+				document.getElementById('digbut'+id).innerHTML = 'buzzed';
+			}
+			else if(status == '0')
+			{
+				document.getElementById('digbut'+id).innerHTML = '<a href="http://www.linkhunting.com/login.php">Login<\/a>';
+			}
+		}
+    }
+}
+
+function cdigResponse() 
+{
+	if(http.readyState == 4)
+	{
+        var response = http.responseText;
+		
+		returned = response.split('|');
+
+		if(response.indexOf('|' != -1)) 
+		{
+			var id=returned[1];
+			var numdigs=returned[2];
+			var status=returned[0];
+			
+			if(status == '1')
+			{
+				document.getElementById('comd'+id).innerHTML = numdigs+' buzzs';
+				document.getElementById('cup'+id).className = 'opacityit';
+				document.getElementById('cdown'+id).className = 'opacityit';
+  			}
+			else if(status == '2')
+			{
+				// Already dug comment
+				document.getElementById('cup'+id).className = 'opacityit';
+				document.getElementById('cdown'+id).className = 'opacityit';
+			}
+			else if(status == '0')
+			{
+				document.getElementById('comd'+id).innerHTML = '<a href="http://www.linkhunting.com/login.php">Login<\/a>';
+			}
+		}
+    }
+}
+
+function buryResponse() 
+{
+	if(http.readyState == 4)
+	{
+        var response = http.responseText;
+		
+		returned = response.split('|');
+
+		if(response.indexOf('|' != -1)) 
+		{
+			var id=returned[1];
+			var status=returned[0];
+			
+			if(status == '0')
+			{
+				document.getElementById('digbut'+id).innerHTML = '<a href="http://www.linkhunting.com/login.php">Login<\/a>';
+			}
+			else
+			{
+				document.getElementById('storyb'+id).style.filter = "Alpha(Opacity=80)";
+				document.getElementById('storyb'+id).style.opacity = ".2";
+				document.getElementById('digbut'+id).innerHTML = 'Buried';
+				document.getElementById('storyb'+id).disabled = true;
+			}
+		}
+	}
+}
+
+function dig(id)
+{
+	document.getElementById('digbut'+id).innerHTML = 'sending';
+
+	http.open('get', 'http://www.linkhunting.com/dig.php?i='+id);
+    http.onreadystatechange = digResponse;
+    http.send(null);
+}
+
+function digcom(comment_id,dir,story_id)
+{
+	http.open('get', 'http://www.linkhunting.com/dig.php?type=comm&i='+comment_id+'&story='+story_id+'&dir='+dir);
+    http.onreadystatechange = cdigResponse;
+    http.send(null);
+
+	if(dir == 0)
+	{
+		dispcomment(comment_id,false,0);
+	}
+}
+
+function bury_story(id)
+{	
+	if(0 == 0)
+	{
+		document.getElementById('digbut'+id).innerHTML = '<a href="http://www.linkhunting.com/login.php">Login<\/a>';
+		return;
+	}
+
+	http.open('get', 'http://www.linkhunting.com/bury.php?i='+id);
+    http.onreadystatechange = buryResponse;
+    http.send(null);
+}
+
+function inclickcheck(field,def,val)
+{
+	if(field.value == def)
+	{
+		field.value = val;
+	}
+}
+
+function changeuser(field,but)
+{
+	if(field.value == '')
+	{
+		document.getElementById(but).disabled = true;
+	}
+	else
+	{
+		document.getElementById(but).disabled = false;
+	}
+}
+
+function checkavail(field)
+{
+	username = document.getElementById(field).value;
+	
+	if(username.length < 4)
+	{
+		document.getElementById('availres').innerHTML = 'The username "'+username+'" is too short';
+		return;
+	}
+	else if(username.length > 16)
+	{
+		document.getElementById('availres').innerHTML = 'The username "'+username+'" is too long';
+		return;
+	}
+	
+	http.open('get', 'http://www.linkhunting.com/signup.php?avail='+username);
+    http.onreadystatechange = availResponse;
+    http.send(null);
+}
+
+function availResponse() 
+{
+	if(http.readyState == 4)
+	{
+        var response = http.responseText;
+		
+		returned = response.split('|');
+
+		if(response.indexOf('|' != -1)) 
+		{
+			var username=returned[0];
+			var status=returned[1];
+
+			if(status == 1)
+			{
+				document.getElementById('availres').innerHTML = 'The username "'+username+'" is available';
+			}
+			else
+			{
+				document.getElementById('availres').innerHTML = 'Sorry, The username "'+username+'" is taken';
+			}
+		}
+	}
+}
+
+function dispcomment(id,show,ctype)
+{	
+	if(ctype == 0)
+	{
+		if(show)
+		{
+			document.getElementById('commdesc'+id).style.display = '';
+			document.getElementById('commbut'+id).innerHTML = 'Buried [<a href="javascript:dispcomment('+id+',false,0);">Hide Comment</a>]';
+		}
+		else
+		{
+			document.getElementById('commdesc'+id).style.display = 'none';
+			document.getElementById('commbut'+id).innerHTML = 'Buried [<a href="javascript:dispcomment('+id+',true,0);">Show Comment</a>]';
+		}
+	}
+	else if(ctype == 1)
+	{
+		if(show)
+		{
+			document.getElementById('commdesc'+id).style.display = '';
+			document.getElementById('commbut'+id).innerHTML = 'Below Threshold [<a href="javascript:dispcomment('+id+',false,1);">Hide Comment</a>]';
+		}
+		else
+		{
+			document.getElementById('commdesc'+id).style.display = 'none';
+			document.getElementById('commbut'+id).innerHTML = 'Below Threshold [<a href="javascript:dispcomment('+id+',true,1);">Show Comment</a>]';
+		}
+	}
+}
+
+function openWindow(theURL,winName,features) 
+{
+	window.open(theURL,winName,features);
+}
+
+function comreply(id,nickname)
+{
+	if(0 == 0)
+	{
+		alert('Please login before replying');
+		return;
+	}
+
+	document.getElementById('creply').style.display = '';
+	document.getElementById('replynick').innerHTML = nickname;
+	document.getElementById('parentid').value = id;
+}
+
+function replycancel()
+{
+	document.getElementById('creply').style.display = 'none';
+	document.getElementById('replynick').innerHTML = '';
+	document.getElementById('parentid').value = '0';
+}
+//-->
+</script>
+
+<style type="text/css">
+<!--
+#tabsB 
+{
+	float:right;
+	width:100%;
+	background:#FFFFFF;
+	font-size:93%;
+	line-height:normal;
+}
+#tabsB ul 
+{
+	margin:0;
+	padding:0px 0px 0 0px;
+	list-style:none;
+	float:right;
+}
+#tabsB li 
+{
+	display:inline;
+	margin:0;
+	padding:0;
+}
+#tabsB a 
+{
+	float:left;
+	background:url("http://www.linkhunting.com/templates/simple/images/tableftC-Y.gif") no-repeat left top;
+	margin:0;	
+	padding:0 0 0 4px;
+	text-decoration:none;
+}
+#tabsB a span 
+{
+	float:left;
+	display:block;
+	background:url("http://www.linkhunting.com/templates/simple/images/tabrightC-Y.gif") no-repeat right top;
+	padding:5px 15px 4px 6px;
+	color:#666;
+}
+#tabsB a span 
+{
+	float:none;
+}
+#tabsB a:hover span 
+{
+	color:#000;
+}
+#tabsB a:hover 
+{
+	background-position:0% -42px;
+}
+#tabsB a:hover span 
+{
+	background-position:100% -42px;
+}
+#tabsB #current a 
+{
+	background-position:0% -42px;
+}
+#tabsB #current a span 
+{
+	background-position:100% -42px;
+}
+.digbox
+{
+	background-image:url(http://www.linkhunting.com/templates/simple/images/digg_back.jpg);
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="845" border="0" align="center" cellpadding="7" cellspacing="0" style="border:solid 1px #555;">
+  <tbody><tr><td><table>
+    <tbody><tr><td valign="top"><span class="headlogo"><a href="http://www.linkhunting.com/" class="headlogo"><img src="images/logo.gif" border="0"></a></span></td></tr></tbody></table>
+   
+<table width="850" border="0" align="center" cellpadding="5" cellspacing="2">
+  <tbody><tr>
+ <td align="center" width="98%" valign="top" bgcolor="#f7f7f7" style="border:solid 1px #eee;"><font size="3"><b>Social Bookmarking! 
+Submit your news, website and let others Buzz your submission!</b></font></td></tr></tbody></table>
+
+<table bgcolor="#444444" width="845" border="0" align="center" cellpadding="5" cellspacing="0"><tbody><tr><td align="center"> 
+ 
+	  
+	  <a href="http://www.linkhunting.com/index.php"><font size="3" color="#ffffff">View All</font></a><font size="3" color="#ffffff"> | 
+	  
+	  
+	  <a href="http://www.linkhunting.com/cat.php?id=3"><font size="3" color="#ffffff">Business</font></a><font size="3" color="#ffffff"> | 
+	  
+	  
+	  <a href="http://www.linkhunting.com/cat.php?id=6"><font size="3" color="#ffffff">Entertainment</font></a><font size="3" color="#ffffff"> | 
+	  
+	  
+	  <a href="http://www.linkhunting.com/cat.php?id=9"><font size="3" color="#ffffff">Health</font></a><font size="3" color="#ffffff"> | 
+	  
+	  
+	  <a href="http://www.linkhunting.com/cat.php?id=11"><font size="3" color="#ffffff">Pets</font></a><font size="3" color="#ffffff"> | 
+	  
+	  
+	  <a href="http://www.linkhunting.com/cat.php?id=10"><font size="3" color="#ffffff">Politics</font></a><font size="3" color="#ffffff"> | 
+	  
+	  
+	  <a href="http://www.linkhunting.com/cat.php?id=12"><font size="3" color="#ffffff">Religion</font></a><font size="3" color="#ffffff"> | 
+	  
+	  
+	  <a href="http://www.linkhunting.com/cat.php?id=2"><font size="3" color="#ffffff">Science</font></a><font size="3" color="#ffffff"> | 
+	  
+	  
+	  <a href="http://www.linkhunting.com/cat.php?id=4"><font size="3" color="#ffffff">Sports</font></a><font size="3" color="#ffffff"> | 
+	  
+	  
+	  <a href="http://www.linkhunting.com/cat.php?id=1"><font size="3" color="#ffffff">Technology</font></a><font size="3" color="#ffffff"> | 
+	  
+	  
+	  <a href="http://www.linkhunting.com/cat.php?id=5"><font size="3" color="#ffffff">Videos</font></a><font size="3" color="#ffffff"> | 
+	  
+	  
+	  <a href="http://www.linkhunting.com/cat.php?id=8"><font size="3" color="#ffffff">World</font></a><font size="3" color="#ffffff"> | 
+	  </font></font></font></font></font></font></font></font></font></font></font></font></td></tr></tbody></table>
+<table bgcolor="#f7f7f7" width="845" border="0" align="center" cellpadding="5" cellspacing="0" style="border:solid 1px #ddd;"><tbody><tr><td align="center"> 
+<form name="form1" method="get" action="http://www.linkhunting.com/search.php" style="padding:0px;margin:0px;">
+      <input name="q" type="text" id="q" size="55" onfocus="inclickcheck(this,'Search','');" onblur="inclickcheck(this,'','Search');">  
+      <input type="submit" name="Submit" value="Search">
+        </form></td></tr></tbody></table>
+
+
+
+<table width="850" border="0" align="center" cellpadding="5" cellspacing="5">
+  <tbody><tr>
+    <td width="170" valign="top">
+	
+    </td><td valign="top"><strong>Privacy Policy</strong><br>
+	<br>	
+	Linkhunting.com is committed to protecting your privacy when you visit our Web site. You can access and browse our site without disclosing any of your personal data. Linkhunting.com does not collect personal information about individuals, such as names and mailing or e-mail addresses, unless it is knowingly provided by the individual and he or she has agreed to the terms under which Linkhunting.com will use it. <br><br>Linkhunting.com does not sell, trade, or rent your personal information to others. We do not automatically log personal data nor do we link information automatically logged by other means with personal data about specific individuals. We do not collect information about our visitors from other sources, such as public records or bodies, or private organizations. <br><br>Please note that Linkhunting.com contains links to other web sites. Please be aware that we are not responsible for the privacy practices of these other sites. We encourage our users to be aware that when they leave our site that you read the privacy statements of each web site that might collect personally identifying information. <br></td>
+  </tr>
+</tbody></table>
+<br><br><br><br><br><br>
+<div align="center" class="copyright"> <a href="http://www.linkhunting.com/index.php">Home</a> | <a href="http://www.linkhunting.com/html.php?id=privacy">Privacy</a> | <a href="mailto:support@linkhunting.com">Contact</a>
+
+<br><br>
+</div>
+
+</td></tr></tbody></table></body></html>
