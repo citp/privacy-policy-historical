@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anorak.co.uk privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623071634id_/http%3A//www.anorak.co.uk/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anorak.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218203301id_/http%3A//www.anorak.co.uk/terms-and-conditions) for the most accurate reproduction.*
 
-# Anorak News | Terms & Privacy
+# Terms & Privacy | Anorak News
 
 Here at Anorak, we take the privacy of our readers very seriously and operate by the following guidelines.
 
@@ -92,5 +92,3 @@ www.Anorak.co.uk
 Anorak UK Ltd
 
 +44 (0)7980 578831 (mobile)
-
-[ ](http://del.icio.us/post?url=http%3A%2F%2Fwww.anorak.co.uk%2Fterms-and-conditions&title=Terms+%26%23038%3B+Privacy "Save to del.icio.us") [ ](http://reddit.com/submit?url=http%3A%2F%2Fwww.anorak.co.uk%2Fterms-and-conditions&title=Terms+%26%23038%3B+Privacy "Save to Reddit") [ ](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.anorak.co.uk%2Fterms-and-conditions&title=Terms+%26%23038%3B+Privacy "Digg This Post!") [ ](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.anorak.co.uk%2Fterms-and-conditions "Share on Facebook!") [ ](http://technorati.com/faves?add=http%3A%2F%2Fwww.anorak.co.uk%2Fterms-and-conditions "Add to my Technorati Favorites!") [ ](http://www.google.com/bookmarks/mark?op=edit&output=popup&bkmk=http%3A%2F%2Fwww.anorak.co.uk%2Fterms-and-conditions&title=Terms+%26%23038%3B+Privacy "Add to my Google Bookmarks!") [ ](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.anorak.co.uk%2Fterms-and-conditions&title=Terms+%26%23038%3B+Privacy "Stumble it!") [ ](http://tailrank.com/share/?link_href=http%3A%2F%2Fwww.anorak.co.uk%2Fterms-and-conditions&title=Terms+%26%23038%3B+Privacy "Add to Tailrank!") [ ](http://furl.net/storeIt.jsp?u=http%3A%2F%2Fwww.anorak.co.uk%2Fterms-and-conditions&t=Terms+%26%23038%3B+Privacy "Add to Furl") [ ](http://www.bloglines.com/sub/http%3A%2F%2Fwww.anorak.co.uk%2Fterms-and-conditions "Add to Bloglines!") [ ](http://www.newsvine.com/_tools/seed&save?u=http%3A%2F%2Fwww.anorak.co.uk%2Fterms-and-conditions&h=Terms+%26%23038%3B+Privacy "Newsvine") [ ](http://cgi.fark.com/cgi/fark/submit.pl?new_url=http%3A%2F%2Fwww.anorak.co.uk%2Fterms-and-conditions&new_comment=Terms+%26%23038%3B+Privacy&linktype= "Fark")
