@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admeta.se privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414192157id_/http%3A//www.admeta.se/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D40) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admeta.se privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218092514id_/http%3A//www.admeta.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D40) for the most accurate reproduction.*
 
 # Admeta.com - Privacy Policy
 
