@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ladieswholaunch.com privacy policy that was archived on 2008-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080404072344id_/http%3A//www.ladieswholaunch.com/magazine/%3Fpage_id%3D662) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladieswholaunch.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218125420id_/http%3A//www.ladieswholaunch.com/magazine/privacy-policy) for the most accurate reproduction.*
 
-# Ladies Who Launch: the MAGAZINE
+# Privacy Policy
 
 WEBSITE PRIVACY POLICY  
 EFFECTIVE DATE: June 21, 2007
