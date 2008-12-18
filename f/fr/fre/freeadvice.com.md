@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the freeadvice.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604050152id_/http%3A//law.freeadvice.com/resources/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadvice.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218131510id_/http%3A//law.freeadvice.com/resources/privacypolicy.htm) for the most accurate reproduction.*
 
 # FreeAdvice.com's Privacy Policy
+
+  
+
 
 ### Privacy Statement for FreeAdvice.com
 
