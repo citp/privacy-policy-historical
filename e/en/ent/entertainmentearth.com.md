@@ -1,35 +1,41 @@
-> *The following text is extracted and transformed from the entertainmentearth.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617060409id_/http%3A//www.entertainmentearth.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentearth.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218023957id_/http%3A//www.entertainmentearth.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Action Figures, Toys, Gifts, and Collectibles at Entertainment Earth
 
-|  |   |  |    
+|  |    |  |     
 ---|---|---  
- |   
-  |  |    
-   
+  |  |     
+  |  |     
+  |   
   |    
-|    
-  |  **CONTACT US** |    
+|     
+  |  **CONTACT US** |     
   |    
 Order by Phone:  
 1-800-370-2320
 
-Monday - Friday  
-7am - 5:30pm Pacific Time
+Monday - Friday:  
+7:00am - 5:30pm   
+Pacific Time
+
+Saturdays:  
+Nov. 22, 29 and   
+Dec. 6, 13,   
+10:00am to 2:00pm   
+Pacific Time
 
 Client Services:  
 1-818-255-0095  
 Fax: 1-818-255-0091
 
-E-mail: [cs@entertainmentearth.com](mailto:cs@entertainmentearth.com)
+E-mail:  
+[cs@entertainmentearth.com](mailto:cs@entertainmentearth.com)
 
-Product specifications, prices and ship dates are subject to change and availability without notice. 
+Product specifications, prices, ship dates and availability are subject to change without notice. 
 
-|    
+|     
    
   
-[](http://www.entertainmentearth.com/hitlist.asp?theme=Hulk)
-
 **PRIVACY POLICY** Entertainment Earth, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. We have made a commitment to meet the strict requirements regarding how we treat your information. The following discloses our information gathering and dissemination practices for www.entertainmentearth.com.  
 
 
