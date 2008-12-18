@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hystersisters.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014015850id_/http%3A//www.hystersisters.com/vb2/view_privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hystersisters.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218102344id_/http%3A//www.hystersisters.com/vb2/view_privacypolicy.htm) for the most accurate reproduction.*
 
-# Hyster Sisters Privacy Policy - Hysterectomy Information and Support - HysterSisters
+# Hyster Sisters Privacy Policy | HysterSisters.com
 
 **We respect your privacy!**
 
