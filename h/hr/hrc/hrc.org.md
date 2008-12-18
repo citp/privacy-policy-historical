@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrc.org privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620053344id_/http%3A//www.hrc.org/5269.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrc.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218140530id_/http%3A//www.hrc.org/5269.htm) for the most accurate reproduction.*
 
 # HRC | Privacy Policy
 
@@ -59,7 +59,7 @@ All HRC communication, whether via email or US mail, provides information on how
 
 
 ****How to correct information you have provided:****  
-You may correct and/or change any information regarding your membership by contacting our member services at membership@hrc.org or by calling 202-628-4160 or 202/216-1585.  
+You may correct and/or change any information regarding your membership by contacting our member services at membership@hrc.org or by calling 202-628-4160.  
 
 
 ****How to contact us about privacy:****  
