@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powermapper.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627031248id_/http%3A//www.powermapper.com/smallprint/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powermapper.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218052356id_/http%3A//www.powermapper.com/smallprint/privacy.htm) for the most accurate reproduction.*
 
 # Electrum Solutions - Privacy Policy
 
@@ -6,7 +6,7 @@ Your privacy is important to us and we will not do anything to violate your trus
 
 We collect these sorts of information on this site:
 
-  * Anonymous aggregate information about vists to this web site (this cannot be associated with a particular user)
+  * Anonymous aggregate information about visits to this web site (this cannot be associated with a particular user)
   * Personal information collected from customers who purchase products (name, company, address, email address, phone number, and fax number)
   * The optional e-mail address used by the SortSite online demo to send you the scan results.
 
@@ -17,10 +17,16 @@ We treat customer information as strictly confidential - it is never revealed to
 We use customer information for the following purposes:
 
   * Sending replacement copies to customers whose hard disks have failed 
-  * Determining upgrade/update elgibility
+  * Determining upgrade/update eligibility
   * Informing existing customers of new versions
 
 
+
+## Google Site Stats
+
+This site uses Google Site Stats to track clicks on Google Sponsored Links. We use this to make sure the search terms we advertise on are relevant. 
+
+[About Google Site Stats](https://services.google.com/sitestats/en_US.html?cid=1060759437)
 
 ## Google Analytics
 
