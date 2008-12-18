@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the direcpay.com privacy policy that was archived on 2008-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080324125112id_/http%3A//www.timesofmoney.com/direcpay/jsp/dpContent.jsp%3Fvalue%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the direcpay.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218221442id_/http%3A//www.timesofmoney.com/direcpay/jsp/dpContent.jsp%3Fvalue%3Dpolicy) for the most accurate reproduction.*
 
 # DirecPay - The Safe Way to Pay
 
 |  |   
 ---  
-|  | Privacy Policy  
+|  |   
 ---  
+     
+   
   
-Times Online Money Limited ("TOML") operates the web site accessible from the URL www.timesofmoney.com ('Website').  
+     TimesofMoney Limited ("TOML") operates the web site accessible from the URL www.timesofmoney.com ('Website').  
   
 At DirecPay, we dedicate ourselves to revolutionizing the way individuals and businesses manage their financial lives. We want to give you the comfort and confidence so that we can serve your needs better. In that effort, we respect and protect the privacy of those who visit or use our Website. We want you to know how your information is used and we therefore list below the practices which we have adopted for your reference in this regard: 
 
