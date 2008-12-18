@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ajaxian.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611061336id_/http%3A//www.techtarget.com/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajaxian.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218013523id_/http%3A//www.techtarget.com/html/privacy_policy.html) for the most accurate reproduction.*
 
 # TechTarget, The IT Media ROI Experts
 
