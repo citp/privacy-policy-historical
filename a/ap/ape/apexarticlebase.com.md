@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apexarticlebase.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609145626id_/http%3A//www.apexarticlebase.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexarticlebase.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218105416id_/http%3A//www.apexarticlebase.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Article Base Article Directory | Submit Articles | Article Search, Find, Free Content | Original Author Submissions
 
