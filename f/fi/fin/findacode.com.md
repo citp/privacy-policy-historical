@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findacode.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513154138id_/http%3A//www.findacode.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findacode.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218131529id_/http%3A//www.findacode.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Find-A-Code
 
@@ -36,6 +36,6 @@ FindACode.com also provides links to external sites.  The privacy policies of t
 
 **Questions and Feedback**
 
-If you have any questions or feedback related to our Privacy Policy, please email us at [info@FindACode.com](mailto:info@FindACode.com?Subject=Privacy%20Policy) .
+If you have any questions or feedback related to our Privacy Policy, please email us at [info@FindACode.com](mailto:info@FindACode.com) .
 
 Thank you for visiting FindACode.com!
