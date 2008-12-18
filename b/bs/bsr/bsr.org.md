@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bsr.org privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624140136id_/http%3A//www.bsr.org/about/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsr.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218233631id_/http%3A//www.bsr.org/about/privacy-policy.cfm) for the most accurate reproduction.*
 
-# BSR | Business for Social Responsibility
+# BSR | BSR Privacy Policy
 
-#### Business for Social Responsibility
+#### BSR Privacy Policy
 
 Business for Social Responsibility is committed to your right to privacy and to the ethical use of information online. We adhere strictly to the following privacy practices.
 
