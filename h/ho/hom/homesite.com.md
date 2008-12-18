@@ -1,18 +1,17 @@
-> *The following text is extracted and transformed from the homesite.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513153512id_/http%3A//www.homesite.com/article-236.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesite.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218090603id_/http%3A//homesite.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Homeowners Insurance from Homesite
+# Homesite's Privacy Policies
 
 |  |   
 ---  
 ABOUT HOMESITE  
   
   
-[Careers](https://web.archive.org/web/20080513153512id_/http%3A//www.homesite.com/article-174.html)  
-[Our Commitment to Customers](https://web.archive.org/web/20080513153512id_/http%3A//www.homesite.com/article-172.html)  
-[News](https://web.archive.org/web/20080513153512id_/http%3A//www.homesite.com/article-195.html)  
-[Rapid Response Claims Service](https://web.archive.org/web/20080513153512id_/http%3A//www.homesite.com/article-215.html)  
-[Corporate Responsibility](https://web.archive.org/web/20080513153512id_/http%3A//www.homesite.com/article-238.html)  
-[Contact Us](https://web.archive.org/web/20080513153512id_/http%3A//www.homesite.com/article-239.html)  
+[Careers](https://web.archive.org/web/20081218090603id_/http%3A//homesite.com/homesite-careers.html)  
+[Our Commitment to Customers](https://web.archive.org/web/20081218090603id_/http%3A//homesite.com/customers.html)  
+[News](https://web.archive.org/web/20081218090603id_/http%3A//homesite.com/insurance-news.html)  
+[Corporate Responsibility](https://web.archive.org/web/20081218090603id_/http%3A//homesite.com/corporate-responsibility.html)  
+[Contact Us](https://web.archive.org/web/20081218090603id_/http%3A//homesite.com/contact-us.html)  
 | 
 
 At Homesite, we respect the privacy of our customers and website visitors. This policy statement is intended to inform you about our policies with respect to the collection of personal information and how it is used at Homesite. The personal information you provide is primarily used to enhance your relationship with us, and to better serve the collective needs of our visitors and customers. We recognize that this information belongs to you and must be treated accordingly. This policy applies to [www.homesite.com](http://www.homesite.com/) and all other websites owned and operated by Homesite Group Inc.
