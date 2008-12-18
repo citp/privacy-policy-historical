@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the orderwave.com privacy policy that was archived on 2008-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080614010419id_/http%3A//www.orderwave.com/pub/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the orderwave.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218202037id_/http%3A//www.orderwave.com/pub/privacy_policy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Orderwave | Inventory Management, Order Automation, Payment Processing, Shopping Cart, and more.</title>
@@ -58,10 +58,139 @@ select {
 
 
 </style>
+<script src="/javascript/prototype.js" type="text/javascript"></script>
+<script type="text/javascript">
+pumod=0;
 
+function createCookie(name,value,days) {
+   if (days) {
+      var date = new Date();
+      date.setTime(date.getTime()+(days*60*60*1000));
+      var expires = "; expires="+date.toGMTString();
+   }
+   else var expires = "";
+   document.cookie = name+"="+value+expires+"; path=/";
+}
+
+function readCookie(name) {
+   var nameEQ = name + "=";
+   var ca = document.cookie.split(';');
+   for(var i=0;i < ca.length;i++) {
+      var c = ca[i];
+      while (c.charAt(0)==' ') c = c.substring(1,c.length);
+      if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+   }
+   return null;
+}
+
+function eraseCookie(name) {
+   createCookie(name,"",-1);
+}
+
+//------------------------------------------------------------------------------
+function addCommas(nStr)
+   {
+      nStr += '';
+      x = nStr.split('.');
+      x1 = x[0];
+      x2 = x.length > 1 ? '.' + x[1] : '';
+      var rgx = /(\d+)(\d{3})/;
+      while (rgx.test(x1)) {
+         x1 = x1.replace(rgx, '$1' + ',' + '$2');
+      }
+      return x1 + x2;
+   }
+
+//------------------------------------------------------------------------------
+   function udcnt()
+      {
+
+      if(lstcnt2>lstcnt)
+         {
+         lstcnt++;
+         }
+      else
+         {
+         pumod++;
+         }
+
+      if(pumod%30==29)
+         {
+            pu();
+
+            pumod=0;
+         }
+
+      rdr=Math.floor(lstcnt);
+      //rdr=lstcnt;
+      document.getElementById('counter').innerHTML=addCommas(rdr);
+      udtr=setTimeout("udcnt()", 333);
+      }
+//------------------------------------------------------------------------------
+function initcnt()
+      {
+      if(readCookie('owcntr')!=null)
+         {
+         var futdate = new Date();
+         var expdate = futdate.getTime();
+         lstcnt=parseFloat(readCookie('owcntr'));
+         fctr=parseFloat(readCookie('owfctr'));
+         var tmthn=parseFloat(readCookie('owtm'));
+         var tmdiff=(expdate-tmthn)/1000;
+         lstcnt=Math.floor(lstcnt+(tmdiff*fctr))
+         }
+      else
+         {
+         lstcnt=7863927;
+         fctr=0;
+
+         var futdate = new Date();
+         var expdate = futdate.getTime();
+         createCookie( 'owcntr', lstcnt, 1);
+         createCookie( 'owfctr', fctr, 1);
+         createCookie( 'owtm', expdate, 1);
+         }
+      udtr=setTimeout("udcnt()", 1);
+      }
+      lstcnt2=7863927;
+
+   function initcnt2()
+      {
+      var futdate = new Date();
+      var expdate = futdate.getTime();
+
+      eraseCookie('owcntr');
+      eraseCookie('owfctr');
+      eraseCookie('owtm');
+      createCookie( 'owcntr', lstcnt, 1);
+      createCookie( 'owfctr', fctr, 1);
+      createCookie( 'owtm', expdate, 1);
+
+      }
+
+
+function pu()
+	{
+	var plc='aaa';
+	var url='/order_count.html';
+	var pars='a=1';
+	var editr = new Ajax.Updater(
+		plc,
+		url,
+	{
+		method: 'post',
+      parameters: pars,
+		evalScripts: true
+		});
+
+	}
+
+//------------------------------------------------------------------------------
+
+</script>
 
 </head>
-<body bgcolor="#5A6A7A" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
+<body bgcolor="#5A6A7A" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0" onload="initcnt();" onunload="initcnt2();">
 <div align="center">
 
 
@@ -82,7 +211,7 @@ select {
 
 
         <tr>
-            <td valign="top" align="right" background="/images/pub/home2_07.gif" colspan="5" height="10"><font color="#ffffff" size="1">over <strong>2</strong> million orders processed&nbsp;&nbsp;&nbsp;&nbsp; </font></td>
+            <td valign="top" align="right" background="/images/pub/home2_07.gif" colspan="5" height="10"><font color="#ffffff" size="1"><b><span id="counter">7,404,406</span></b>&nbsp;orders processed&nbsp;&nbsp;&nbsp; </font></td>
         </tr>
         <tr>
             <td colspan="5">
