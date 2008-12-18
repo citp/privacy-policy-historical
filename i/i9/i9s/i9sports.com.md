@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i9sports.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502163458id_/http%3A//www.i9sports.com/corporate/InfoReader.aspx%3Foid%3D19) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i9sports.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218012401id_/http%3A//i9sports.com/corporate/InfoReader.aspx%3Foid%3D19) for the most accurate reproduction.*
 
 # i9 Info Reader
 
@@ -16,9 +16,9 @@ The only information we automatically collect is that related to the use of our 
 Cookies allow us to personalize our site for you and to provide you with information that fits your needs and desires. For instance, once you register your product online, a cookie is written to your computer so that you will not need to type information in the future to obtain support. 
 
 **Contact us  
-** i9 Sports Corporation. knows that your privacy is very important to you. We welcome questions and comments regarding this policy, so feel free to contact us at [info@i9sports.com](mailto:info@i9sports.com). Because technologies on the Internet change so quickly, i9 Sports Corporation reserves the right to modify its Privacy Statement from time to time. More legal information can be found in i9 SportsCorporation‘s Legal notices Statement. 
+** i9 Sports Corporation. knows that your privacy is very important to you. We welcome questions and comments regarding this policy, so feel free to contact us at [feedback@i9sports.com](mailto:feedback@i9sports.com). Because technologies on the Internet change so quickly, i9 Sports Corporation reserves the right to modify its Privacy Statement from time to time. More legal information can be found in i9 SportsCorporation‘s Legal notices Statement. 
 
-[Printable Version](https://web.archive.org/web/20080502163458id_/http%3A//www.i9sports.com/corporate/printable_getpage.asp?contentid=31 "Get a printable version of this page")
+[Printable Version](https://web.archive.org/web/20081218012401id_/http%3A//i9sports.com/corporate/printable_getpage.asp?contentid=31 "Get a printable version of this page")
 
   
 
