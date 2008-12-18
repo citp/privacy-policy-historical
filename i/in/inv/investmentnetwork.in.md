@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the investmentnetwork.in privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513202432id_/http%3A//www.investmentnetwork.in/about/18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentnetwork.in privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218220403id_/http%3A//www.investmentnetwork.in/about/18) for the most accurate reproduction.*
 
-# About - Privacy
+# Our Privacy Policy
 
 The Indian Investment Network is the owner of this site and wishes to express that your privacy is of the utmost concern to us. We guarantee to treat any information received from you with the highest level of respect. 
 
