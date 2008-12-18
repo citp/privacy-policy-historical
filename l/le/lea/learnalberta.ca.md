@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnalberta.ca privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609143333id_/http%3A//www.learnalberta.ca/Browse.aspx%3FView%3DPrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnalberta.ca privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218124121id_/http%3A//learnalberta.ca/Browse.aspx%3FView%3DPrivacyStatement) for the most accurate reproduction.*
 
 # Privacy Policy
 
