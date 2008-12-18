@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the dlink.co.in privacy policy that was archived on 2008-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080524085316id_/http%3A//www.dlink.co.in/main/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlink.co.in privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218033011id_/http%3A//www.dlink.co.in/main/policy.aspx) for the most accurate reproduction.*
 
 # D-Link Building Networks for People..
 
 |   
 ---  
-[](https://web.archive.org/web/20080524085316id_/http%3A//www.dlink.co.in/main/index.aspx) |   |   
+[](https://web.archive.org/web/20081218033011id_/http%3A//www.dlink.co.in/main/index.aspx) |   |   
 |  |  |    
 ---  
 |  |   
 ---  
-[Home](https://web.archive.org/web/20080524085316id_/http%3A//www.dlink.co.in/main/index.aspx) : Privacy Policy   
+[Home](https://web.archive.org/web/20081218033011id_/http%3A//www.dlink.co.in/main/index.aspx) : Privacy Policy   
 Privacy Policy    
   
 D-Link India Ltd, Inc. manages www.dlink.co.in 
