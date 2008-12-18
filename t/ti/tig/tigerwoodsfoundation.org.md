@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigerwoodsfoundation.org privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608065835id_/http%3A//www.tigerwoodsfoundation.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerwoodsfoundation.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218054044id_/http%3A//www.tigerwoodsfoundation.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Tiger Woods Foundation - Privacy Policy
 
