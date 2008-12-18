@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftd.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516135440id_/http%3A//www.ftd.com/custserv/security.epl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftd.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218131718id_/http%3A//www.ftd.com/custserv/security.epl) for the most accurate reproduction.*
 
 # Security & Privacy
 
