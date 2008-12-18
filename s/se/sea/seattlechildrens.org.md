@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the seattlechildrens.org privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607042313id_/http%3A//www.seattlechildrens.org/home/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattlechildrens.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218124648id_/http%3A//www.seattlechildrens.org/home/privacy_statement.asp) for the most accurate reproduction.*
 
-# Privacy Statement | Children's Hospital & Regional Medical Center
+# Privacy Statement | Seattle Children's Hospital
 
 You are here: [Home](https://web.archive.org/home/default.asp) » Privacy Statement
 
-Children's Hospital and Regional Medical Center (Children's) is committed to providing its users with an Internet experience that respects and protects their personal privacy choices and concerns.
+Seattle Children's is committed to providing its users with an Internet experience that respects and protects their personal privacy choices and concerns.
 
 We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the website: www.seattlechildrens.org.
 
@@ -46,7 +46,7 @@ The personally identifiable information we collect is not used for any purposes 
 
 It is not disclosed to anyone other than Children's and its partners, contractors and agents, unless we must do so to comply with a court order or other legal process, or we must do so to protect our rights or property.
 
-Please note that Children's Hospital and Regional Medical Center will not intentionally share the contents of any email or form submitted through this site with any third party. However, due to the nature of electronic communications, we cannot and do not provide assurances that the contents will not become known or accessible to third parties.
+Please note that Seattle Children's will not intentionally share the contents of any email or form submitted through this site with any third party. However, due to the nature of electronic communications, we cannot and do not provide assurances that the contents will not become known or accessible to third parties.
 
 WE URGE YOU NOT TO PROVIDE ANY CONFIDENTIAL INFORMATION ABOUT YOU, YOUR HEALTH, OR YOUR PATIENTS TO US VIA ELECTRONIC COMMUNICATION UNLESS WE INDICATE THE FORM HAS BEEN SECURED.
 
@@ -83,7 +83,7 @@ A user who wishes to modify or correct information previously provided should [e
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact:
 
 Web Services Manager  
-Children's Hospital and Regional Medical Center  
+Seattle Children's  
 PO Box 50020 / S-217  
 Seattle, WA 98145  
 [E-mail Web Services](https://web.archive.org/home/contact/contact_form.asp?name=Web%20Services&email=ehealth)
