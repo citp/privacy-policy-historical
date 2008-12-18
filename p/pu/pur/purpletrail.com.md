@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the purpletrail.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216093859id_/http%3A//purpletrail.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purpletrail.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218082952id_/http%3A//purpletrail.com/pt2/cons/mkt/privacypolicy) for the most accurate reproduction.*
 
-# Best party planning and event invitations tool - online or mobile
+# PurpleTrail Free Online Invitations Privacy Policy
 
-## Privacy Policy as of 1st October 2007.
+## Privacy Policy as of October 1st, 2007.
 
 At PurpleTrail we recognize that privacy is important. This document outlines the types of personal information we receive and collect when you use PurpleTrail's services, as well as some of the steps we take to safeguard information. To adhere to the highest standard of privacy, we have based our policy on that of [Google's](http://www.google.com/privacy.html)
 
