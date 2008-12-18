@@ -1,15 +1,22 @@
-> *The following text is extracted and transformed from the british-car-auctions.co.uk privacy policy that was archived on 2008-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080508232804id_/http%3A//www.british-car-auctions.co.uk/Default.aspx%3Fpage%3D1670) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the british-car-auctions.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218231539id_/http%3A//www.british-car-auctions.co.uk/Default.aspx%3Fpage%3D1670) for the most accurate reproduction.*
 
 # Privacy Policy
 
-BCA's privacy policy is to respect and protect the privacy of visitors to the BCA web site and subscribers to any email updates from the web site. This policy statement tells you how we collect information from you and how we use it. It will assist you in making informed decisions when using our site and our services.
+### Data Protection Act 1998
 
-**The data we collect**  
-We do request personal information such as your name, email address, company details, etc which you can choose to provide when you complete and submit a web form on the BCA web site. We collect this information to help us more accurately respond to your enquiry. You are under no obligation to provide any personal data if you don't want to.  Information collected from the registration form on the BCA Digital Sales Guide is used to keep you informed on BCA sales and/or products and services, on which you have requested information.
+British Car Auctions Limited (‘BCA’) respects and values the security and privacy of its customers. BCA follows strict security procedures in the storage and disclosure of personal information in order to prevent unauthorised access. Personal Data is held on our databases either because of services we have provided to you or because we believe that customers may be interested in receiving material from us about our business and services. As such we hold customer contact details and the history of our customer relationship. This allows us to manage our customer relationships effectively and target items of interest so that you do not receive unwanted material through the post.
 
-We also use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our web site, new services and other information we think you will find valuable. If you choose to opt out of receiving any such communications from us, please email us at [news@bca-group.com](mailto:news@bca-group.com) with "Unsubscribe" in the subject line.
+In accordance with your rights under the Act, you may request the amendment of the personal information held or to cease receiving direct marketing materials. Information may, in the ordinary course of business, move between BCA, its associated companies and to our contractors, which may involve the transfer of data outside the European Economic Area.
 
-In the future BCA may decide to also collect aggregate information from all web site visitors. This aggregate data would only be used to customize BCA web content to deliver a better experience for our users and will in no way personally identify you.
+### Privacy policy
+
+British Car Auctions Limited is committed to ensuring that your privacy is protected. This is our Privacy Policy:
+
+When you register with our website or provide your contact details to a BCA branch, in order to respond to your requirements we need to know your name, address, e-mail and contact telephone numbers. From time to time we may provide your information to our customer service agencies for research and analysis purposes so that we can monitor and improve the services we provide. We or our agents and sub-contractors may contact you by post, e-mail or telephone to ask you for your feedback and comments on our services. We and our associated companies may also wish to provide you with information about special features of our website or any other service or products which we think may be of interest to you. If you do not wish to receive this information, please tick the relevant boxes when you complete your online or branch registration or inform us at [news@bca-group.com](mailto:news@bca-group.com)
+
+We may also want to provide you with related information from third parties whose products or services may be of interest to you. If you do not wish to receive this information, please tick the relevant boxes when you complete your online or branch registration or inform us at [news@bca-group.com](mailto:news@bca-group.com)
+
+By submitting your information you consent to the use of that information as set out in this Policy. If we change our Privacy Policy we will post the changes on this page, and may place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times. We will also e-mail you should we make any changes so that you may consent to our use of your information in that way.
 
 **Use of IP Address**  
 An IP address is a number that's automatically assigned to your computer whenever you're surfing the web. web servers automatically identify your computer by its IP address. On occasions, we collect IP addresses for the purposes of system administration, to analyse aggregate information, and to audit the use of our site.
@@ -26,9 +33,6 @@ A clear GIF (Graphics Interchange Format) or pixel tag (also known as a 'Web bea
 
 **Supplementary Information**  
 We may acquire information about individuals from other sources and add such information to our house files.
-
-**Disclosure**  
-We will not publish, give, sell or rent your information to anyone, ever. However, we reserve the right to disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) BCA's rights or property, other users, or anyone else who could be harmed by such activities. We also reserve the right to disclose user information when we believe in good faith that the law requires it.
 
 **Links to Other Sites/ "Public" Areas**  
 You should be aware that when you are on the BCA web site, you could be directed to other sites that are beyond our control. There are links to other sites from BCA web site pages that take you outside our service. These other sites may send their own cookies to users, collect data or solicit personal information. The privacy policies of these other sites may significantly differ from that of BCA. We are not responsible for the privacy practices of any other sites and cannot guarantee the security of any of your personal information collected there.
@@ -66,4 +70,4 @@ These conditions of use are governed by English law and any dispute connected wi
 Please note that these are BCA's terms and conditions of use and if you do not accept these conditions, you must not use this website or services.
 
 British Car Auctions Ltd  
-Privacy Policy & Legal Notice - Version 1.0 20.08.2004
+Privacy Policy & Legal Notice - Version 1.1 01.07.2008
