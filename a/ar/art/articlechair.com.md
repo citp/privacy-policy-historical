@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the articlechair.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623195456id_/http%3A//articlechair.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlechair.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218100806id_/http%3A//articlechair.com/privacy) for the most accurate reproduction.*
 
-# eed fresh content for your website?........................N
-
-## ArticleChair Privacy Policy
+# Need fresh content for your website?........................
 
 This Privacy Policy covers the our treatment of personal information that is recorded when you submit an article, or request an article via email or other methods.
 
@@ -62,6 +60,3 @@ This web site contains links to other sites. We encourage our users to be aware 
 **ArticleChair** does not endorse any statements or claims made in any article on this site and does not accept any responsibility or liability for the use or misuse of the article content on this site or reliance by any person on the site's contents. By using this web site, you agree not to hold **ArticleChair** , its owner, it's partner sites and/or any other affiliated sites or persons, liable for any damages that may occur from use of this web site.
 
 **All terms and conditions are subject to change without prior notice.**
-
-  
-
