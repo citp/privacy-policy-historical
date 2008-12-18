@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookyourselfsolid.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614234929id_/http%3A//www.bookyourselfsolid.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookyourselfsolid.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218075422id_/http%3A//www.bookyourselfsolid.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Untitled Document
 
