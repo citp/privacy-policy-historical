@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adirect2z.com privacy policy that was archived on 2008-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080222185702id_/http%3A//www.adirect2z.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adirect2z.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218165957id_/http%3A//www.adirect2z.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
