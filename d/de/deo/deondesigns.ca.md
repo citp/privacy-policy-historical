@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deondesigns.ca privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305065031id_/http%3A//www.deondesigns.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deondesigns.ca privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218102017id_/http%3A//www.deondesigns.ca/privacy.php) for the most accurate reproduction.*
 
-# Deon Designs offer Web site design database development hosting and E-commerce solutions shopping carts search engine submitions photo gallery flash multimedia animations for small businesses and large companies
+# Deon Designs Privacy Policy Statement
 
 **_Deon Designs_** _has created this privacy statement in order to demonstrate our commitment to privacy for all our users._
 
@@ -33,4 +33,41 @@ After your User session, always remember to log out to ensure that others cannot
 
 **Questions**
 
-Users may direct questions concerning this Privacy Policy and [contact us](https://web.archive.org/web/20050305065031id_/http%3A//www.deondesigns.ca/contact.php) any time.
+Users may direct questions concerning this Privacy Policy and [contact us](https://www.deondesigns.ca/clients/whmcs/contact.php?option=com_dfcontact&Itemid=27) any time.
+
+  
+| **_Quick Map_**  
+---  
+  
+[Search Engine Optimization](http://www.deondesigns.ca/seo.php)  
+[Small & Medium Business Solutions](http://www.deondesigns.ca/seo-Small_Medium_Business_Solutions.php)  
+[**Enterprise Business Solutions**](http://www.deondesigns.ca/seo-Enterprise_Business_Solutions.php)  
+[On-Page Optimization](http://www.deondesigns.ca/seo-On_Page_Optimization.php)  
+[Off-Page Optimization](http://www.deondesigns.ca/seo-Off_Page_Optimization.php)  
+[SEO Dictionary](http://www.deondesigns.ca/seo_dictionary.php)
+
+| 
+
+[Web Hosting](http://www.deondesigns.ca/webhosting.php)  
+[Start Web Hosting](http://www.deondesigns.ca/hosting_start.php)  
+[Deluxe Web Hosting](http://www.deondesigns.ca/hosting_deluxe.php)  
+[Business Web Hosting](http://www.deondesigns.ca/hosting_business.php)  
+[Enterprise Web Hosting](http://www.deondesigns.ca/hosting_enterprise.php)  
+[Order Web Hosting](https://www.deondesigns.ca/clients/whmcs/cart.php)  
+
+
+| 
+
+[Web Design](http://www.deondesigns.ca/webdesign.php)
+
+[E-Commerce](http://www.deondesigns.ca/ecommerce.php)
+
+[Domain Name Registration](http://www.deondesigns.ca/domain.php)
+
+| 
+
+[Contact Us](https://www.deondesigns.ca/clients/whmcs/contact.php)
+
+[Support](https://www.deondesigns.ca/clients/whmcs/)
+
+[Our Clients](http://www.deondesigns.ca/clients.php)
