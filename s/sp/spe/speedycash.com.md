@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the speedycash.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613174752id_/http%3A//www.speedycash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedycash.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218052618id_/http%3A//www.speedycash.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SpeedyCash.com
+# Privacy Policy - SpeedyCash.com
+
+  * [Home](http://www.speedycash.com/ "Home") » 
+  * Privacy
+
+
+
+## Privacy Policy
 
 ## Notice of Your Financial Privacy Rights
 
