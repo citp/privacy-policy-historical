@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upublish.info privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611105920id_/http%3A//www.upublish.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upublish.info privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218073033id_/http%3A//www.upublish.info/privacy.php) for the most accurate reproduction.*
 
 # U Publish Articles
 
