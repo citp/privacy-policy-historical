@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopsafe.co.uk privacy policy that was archived on 2008-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080401051614id_/http%3A//www.shopsafe.co.uk/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopsafe.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218131826id_/http%3A//www.shopsafe.co.uk/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy: Shopsafe
 
@@ -12,9 +12,13 @@ We will not email you in the future unless you have given us your consent or pas
 
 We use a statistics package to track vistors to our website. This is anonymous information.
 
-  
+[](https://web.archive.org/buytop10toys.asp)  
+See our [Top Toys](https://web.archive.org/buytop10toys.asp) buy guide
 
+[](https://web.archive.org/out/btt-285) Buy the **Hallelujah - X-Factor** from [Play.com](https://web.archive.org/out/btt-285). 
 
-### More Safe Online Shops
+[](https://web.archive.org/out/btt-261) Buy **Catcha Beast** from [Hamleys](https://web.archive.org/out/btt-261). 
 
-Can't find what you're looking for? Try a search:
+[](https://web.archive.org/out/btt-257) Buy this **Sony 32** from [Comet](https://web.archive.org/out/btt-257). 
+
+[](https://web.archive.org/out/btt-174) Buy this **Nintendo Wii Console & Big Brain Academy** from [Dixons](https://web.archive.org/out/btt-174). 
