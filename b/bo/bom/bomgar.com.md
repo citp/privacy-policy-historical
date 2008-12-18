@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bomgar.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609031248id_/http%3A//www.bomgar.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bomgar.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218190109id_/http%3A//www.bomgar.com/privacy.htm) for the most accurate reproduction.*
 
 # BOMGAR | Privacy policy
 
@@ -29,6 +29,8 @@ We use cookies to identify which areas of Bomgar's™ Network you have visited o
 How do we use single-pixel gifs?
 
 Bomgar™ may use single-pixel gif images, sometimes referred to as web bugs or web beacons, to count Web page accesses and gather some general statistical information. Bomgar™ does not gather personal information through the use of these images. Our advertisers may use single-pixel gifs which can track personal information from cookies that may have been previously placed on a user's computer by an advertiser.
+
+We work with FetchBack to display Retargeted ads to our site prospects, on our behalf, across the Internet. They collect Non-Personally Identifiable Information about your visits to our Website, and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No Personally Identifiable Information is collected during in this process. To read FetchBack's Privacy Policy, [click here](http://www.fetchback.com/privacy.html). If you do not want FetchBack to collect this information, you may opt out of their service. Opting out will not in any way effect your use of our site. To Opt-Out, of FetchBack Retargeting, please [click here](http://www.fetchback.com/optout.html). Visit the Network Advertising Initiatives Opt-Out by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 What information do we collect when you register for something?
 
