@@ -1,34 +1,88 @@
-> *The following text is extracted and transformed from the gopromos.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501175027id_/http%3A//www.gopromos.com/Default.aspx%3FFocusId%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopromos.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218020041id_/http%3A//www.gopromos.com/Default.aspx%3FFocusId%3Dprivacy.htm) for the most accurate reproduction.*
 
 # Promotional Items, Promotional Products, and Imprinted Logo Products from GOpromos.com
 
-Go Promos is committed to protecting the privacy of our customers and visitors to GOpromos.com. We recognize that any personal information must be maintained and used responsibly.
+### PRIVACY POLICY
 
-Go Promos collects personal information in an effort to improve our customer's shopping experience. We will never misuse the information you provide. We do not share any e-mail addresses with any outside vendors. We do share your contact information with third party intermediaries - vendors, shipping companies and credit card companies - only to the extent necessary to fulfill your order with Go Promos. These companies are used to process your order and no not retain this information.
+At gopromos.com, we respect our customers and understand that you are concerned about privacy. The purpose of this privacy policy is to let you know what kind of information we collect, how we use it, with whom it may be shared, what choices you have regarding our use of your information, and how you may review and change some of the data you provide to us.
 
-Go Promos will occassionally share your mailing address with carefully screened vendors and sister companies whom we feel may provide products and services that will be of benefit to you. If you do not want us to share your mailing address you can send an e-mail to [customerservice@gopromos.com](mailto:customerservice@gopromos.com).
+We are located in the United States and this is a U.S.-based web site. By using this site, you agree to the transfer of your personal information to or within the United States.
 
-Go Promos will, from time-to-time, e-mail members of our e-mail list with special promotions and offers. This will help you take advantage of savings on products that may be of interest to you. If you do not wish to receive promotional e-mails, you can send an e-mail to [customerservice@gopromos.com](mailto:customerservice@gopromos.com) and please type "opt out" in the subject line of your e-mail. Removals are usually done within 24 hours. However, to ensure that the unsubscribe process has been completed successfully, please allow two weeks. Please excuse any interim e-mails that are received while we update our records.
+As we continue to develop our web site and take advantage of technologies to improve the services we offer, this policy likely will change. When we change it, we will post the change(s) on our web site. If we change the policy in a material way, we will provide appropriate online notice to you.
 
-Policy Changes  
-Go Promos does not foresee the need to change our policy concerning the way we collect or use information from our customers. Should a need to alter our policy ever arise, all changes will be posted on this website.
+**What Information Do We Collect and How Do We Use It?**
 
-Information We Collect  
-Go Promos may ask for the following information about you and your organization: first and last name, company name, e-mail address, billing address, and payment information. This information is a necessary part of completing your order. You always have the right to request that your information not be made available or sold to any third party.
+**Personal Information**
 
-Change/Modify Your Personal Information  
-If at any time you wish to review, change or update any personal information provided to us, simply select [MY ACCOUNT](https://web.archive.org/Default.aspx?FocusId=CustomerService/Profile.ascx) from the top menu bar and follow the instructions to update your profile, or e-mail [customerservice@gopromos.com](mailto:customerservice@gopromos.com). To protect the security and integrity of your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information.
+We may collect various types of personal information from you, depending upon how you use our site. The categories of personal information we collect may include:
 
-Security   
-All data collected on our secure product order forms will be encrypted through the use of Secure Socket Layers (SSL) encryption technology for credit cards and other personal information for your security and privacy. 
+  1. Your first and last name
+  2. A home or other physical address, including street name and name of a city or town.
+  3. Your e-mail address.
+  4. Your telephone number.
+  5. If you make a purchase on our site, your credit card number and related information.
 
-Cookies  
-From time to time, Go Promos will send a cookie to your computer. This information is collected to identify your account and personalize your shopping experience. Most browsers automatically accept cookies, but you can usually change your browser to prevent that. Without cookies, you will still be able to use most of the features of our store, but may lose some advanced functionality.
 
-Affiliate Programs  
-As a necessary part of processing orders that originate from an Go Promos affiliate, confirmation of the information gathered will be sent to that affiliate.
 
-IP Address  
-When a visitor requests pages at gopromos.com, our Web servers automatically recognize the browser's domain name and IP address as most Web sites do. This information is collected for statistical and diagnostic purposes only.
+We may combine the information we collect from you with information we receive from you offline. We may also receive information about you from other sources, including, for example, address update services. 
 
-If you have questions or require further information about our privacy policy, e-mail us at [customerservice@gopromos.com](mailto:customerservice@gopromos.com) or call 1-800-523-9909. Our goal is to provide a private, risk-free experience for your company.
+We may use the information we collect from and about you for any of the following purposes: (1) to fulfill your requests for products and services; (2) to provide you with targeted offers and advertising on the site; (3) to contact you with information and promotional materials and offers from our company as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties; (4) to contact you; (5) to review site usage and operations; (6) to address problems with the site, our business or our products and services; and (7) to protect the security or integrity of the site and our business.
+
+**Non-Personal Information**
+
+We, or third-party service providers acting on our behalf, may use cookies or web beacons on our site. A cookie is a small text file that may be stored on the hard drive of your computer when you access the site. A web beacon is an electronic image used to recognize a cookie on your computer when you view a web page. We may use cookies and web beacons to collect non-personal information from you, including your IP address, browser type, the time and length of your visit, the pages of the site you visit and other clickstream data. This information may be used in order to: (1) remember the products in your shopping cart; (2) recognize you when you return to the site; (3) improve and personalize your experience on our site; (4) provide you with customized advertising; and (5) monitor site usage and analyze the behavior of site visitors. We do not collect any personal information through our use of cookies and web beacons, and we do not combine the non-personal information we collect through them with any of your personal information.
+
+You may decline cookies, but by doing so, you may not be able to use certain features on our site. You also may be able to make some web beacons unusable by rejecting cookies. Check the "Help" menu of your browser to learn how to change your cookie preferences.
+
+**Do We Share Your Information?**
+
+We may transfer or otherwise disclose information collected from and about you to the following entities for the following purposes: (1) to our service providers, suppliers and business associates, if the disclosure will enable them to fulfill your request for products or services from us for another vendor on our site; (2) to our service providers and business associates, if the disclosure will enable them to perform a business, professional or technical support function for us; (3) to our affiliates and other third parties so that they may contact you with marketing offers of their own; (4) to other companies, credit bureaus or government agencies in connection with issues related to fraud, credit or debt collection; (5) as necessary if we believe that there has been a violation of our site Terms of Use, of the law or of our rights or the rights of any third party; (6) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (7) if our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets.
+
+Any personal information or content that you voluntarily upload or submit for posting to the site becomes publicly available and can be collected and used by others. It is in violation of the site’s [Terms of Use](https://web.archive.org/Default.aspx?FocusId=Use.htm) for you to post any content that requests personally identifiable information.
+
+**Your California Privacy Rights**
+
+California residents may direct us not to share their personal information with our affiliates and third parties, for those parties’ own marketing purposes, by sending an email to: [customerservice@gopromos.com](mailto:customerservice@gopromos.com). Please include "Opt-Out in the subject line.
+
+**Can I Change My Information?**
+
+You may change or update your personal information by sending an email to: [customerservice@gopromos.com](mailto:customerservice@gopromos.com). Please include "Change My Information" in the subject line.
+
+**What About Information About Children?**
+
+We do not direct the site to, nor do we knowingly collect personal information from, children under thirteen.
+
+**Copyright Violations**
+
+We respect the intellectual property rights of others and will take appropriate steps to protect the intellectual property rights of third parties if it receives notice in accordance with the Digital Millennium Copyright Act. If you believe your copyright or the copyright of anther has been infringed on, please provide our Copyright Agent with a written notice containing the following information:
+
+  1. a physical or electronic signature of the person authorized to act on behalf of the owner of the copyright interest that you believe has been infringed;
+  2. an identification of the copyrighted work that you claim has been infringed;
+  3. a description of where the material that you claim is infringed is located on the site;
+  4. information on how to contact you including your address, telephone number, and email address, if available;
+  5. a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
+  6. a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf.
+
+
+
+Claims of infringement should be mailed via certified mail, return receipt requested, to the following address:
+
+General Counsel  
+GOpromos  
+1725 Roe Crest Drive  
+North Mankato, MN 56002  
+
+
+**Security**
+
+We have taken certain physical, electronic, contractual, and managerial steps to safeguard and secure the information we collect from site visitors.
+
+**Third Party Websites**
+
+The site may contain links to third-party websites, which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these sites. Accordingly, we recommend that you review the privacy policy posted on any site that you may access through our site.
+
+**Contact Us**
+
+Thank you for visiting our site. If you have any questions or comments about this policy, please send an email to: [customerservice@gopromos.com](mailto:customerservice@gopromos.com). Please include "Question or Comment" in the subject line.
+
+**Last Updated: July 11, 2008**
