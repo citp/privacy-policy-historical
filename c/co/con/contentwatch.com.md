@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the contentwatch.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222092825id_/http%3A//www.contentwatch.com/support/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentwatch.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218015342id_/http%3A//www.contentwatch.com/support/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy :: ContentWatch Internet Filtering
+# ContentWatch Privacy Policy
 
 Your privacy is important to ContentWatch Inc. To better protect your privacy, we have provided this statement which explains our online information practices, and the choices regarding the way your personal information is collected and used. We hope this statement will increase your confidence in our Web site and enhance your experience on the Internet with ContentWatch Inc.
 
@@ -30,9 +30,8 @@ This Privacy Statement is subject to change at any time, at the discretion of Co
 
 **6\. HOW WE HANDLE CHILDREN'S PRIVACY.** We do not target or sell products, programs or services to children. Children under 13 years of age may not submit personally identifiable information without the consent of a parent. We do not provide any personally identifiable information about children under 13 years of age to any third party for any purpose whatsoever.
 
-**7\. HOW YOU CONTACT US.** If you need further assistance, if you have any questions or concerns, or if you would like to modify your personally identifiable information in any way, you may send an email to [info@contentwatch.com](mailto:info@contentwatch.com).  You may also send mail to the following address:
+**7\. HOW YOU CONTACT US.** If you need further assistance, if you have any questions or concerns, or if you would like to modify your personally identifiable information in any way, you may send an email to [info@contentwatch.com](mailto:info@contentwatch.com). You may also send mail to the following address:
 
 ContentWatch Corporate Office:  
 2369 West Orton Circle  
-Salt Lake City, Utah 84119 USA  
-
+Salt Lake City, Utah 84119 USA
