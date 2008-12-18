@@ -1,17 +1,19 @@
-<!--The following is the downloaded HTML source of the 2threads.com privacy policy that was archived on 2008-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080502053706id_/http%3A//www.2threads.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 2threads.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218211015id_/http%3A//www.2threads.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- Version: hermes --><head>
-	<title>2Threads : Privacy Policy : A Community Media Project</title>
+	<title>Privacy Policy :  2threads - A social network with style - fashion events, photos, interviews, shopping, community</title>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
-	<meta name="description" content="It's a fashion and nightlife network">
-	<meta name="keywords" content="2threads, fashion, nightlife, parties, sydney, photos, videos, photographs, fashionable, trends, clothing, industry, models, modelling, clothes, community, social, socialite, network, networking, shows, coverage, catwalk, runway, free, forums, discussion, blog, style, celebrity">
-	<style media="all" type="text/css">@import "2threads.css?1208993224";</style>
+	<meta name="description" content="Privacy Policy - 2threads is a fashion,  and nightlife network">
+	<meta name="keywords" content="Privacy Policy, Bohemian Fashion Clothes, 2threads, fashion, nightlife, parties, sydney, photos, videos, photographs, fashionable, trends, clothing, industry, models, modelling, clothes, community, social, socialite, network, networking, shows, coverage, catwalk, runway, free, forums, discussion, blog, style, celebrity">
+	<style media="all" type="text/css">@import "2threads.css?reduxe&1229246602";</style>
 	<link rel="stylesheet" href="jquery.tabs.css" type="text/css">
 	<link rel="stylesheet" href="jquery.tabs-ie.css" type="text/css">
 	<link rel="stylesheet" href="farbtastic.css" type="text/css">
 	<link rel="stylesheet" href="dragdrop.css" type="text/css">	
 	<link rel="stylesheet" href="jcalendar.css" type="text/css">
+	<link rel="stylesheet" href="zoom2.css" type="text/css">
+	<link rel="stylesheet" href="lib/lightbox/lightbox.css">
 <!--[if lt IE 7]>
 	<link rel="stylesheet" type="text/css" href="ie6.css" media="screen"/>
 	<!--link rel="stylesheet" href="tabs_ie.css" type="text/css" media="projection, screen" / -->
@@ -24,9 +26,10 @@
 	<link rel="alternate" type="application/rss+xml" title="Latest Fashion News" href="news/fashion/feed">
 	<link rel="alternate" type="application/rss+xml" title="Latest Music News" href="news/music/feed">
 	<link rel="alternate" type="application/rss+xml" title="Latest Hot Goods" href="hotgoods/feed">
-	<!-- /rss.php?feed=hotgood&n=5&headers=false -->
-	<!--link rel="alternate" type="application/rss+xml" title="Latest 2threads" href="http://www.rssmix.com/u/29307/rss.xml" /-->
-	<script type="text/javascript" src="lib/jquery-1.2.1.pack.js"></script>
+	<script type="text/javascript" src="lib/lightbox/lightbox.js"></script>
+	<script type="text/javascript" src="lib/dom-drag.js"></script>
+	<script type="text/javascript" src="lib/HotSpot2.js"></script>
+	<script type="text/javascript" src="lib/jquery-1.2.6.pack.js"></script>
 	<script type="text/javascript" src="lib/jquery.dimensions.js"></script>
 	<script type="text/javascript" src="lib/jquery.jdMenu.packed.js"></script>
 	<script type="text/javascript" src="lib/jquery.inplace.js"></script>
@@ -36,13 +39,22 @@
 	<script type="text/javascript" src="lib/jcalendar.js"></script>
 	<script type="text/javascript" src="lib/jtip.js"></script>
 	<script type="text/javascript" src="lib/utilities.js"></script>
-	<script type="text/javascript" src="lib/2threads.js?1209450094"></script>
-	<script type="text/javascript">
-	</script>
-</head>
-<body>
+	<script type="text/javascript" src="lib/2threads.js?1227667651"></script>
 
-<div class="top_line" title="fnord"><div style="margin-bottom: 4px;">Check out the latest <a href="videos.php">2threads LIVE videos</a></div><div align="right"><!-- img src="images/close.gif" alt=""/--></div></div>
+		<script type="text/javascript">
+		</script>
+	
+	
+</head>
+<body><div id="overlay" style="display: none; position: absolute; top: 0px; left: 0px; z-index: 101; width: 100%;"></div><div id="lightbox" style="display: none; position: absolute; z-index: 102;"><a href="#" title="Click to close"><img id="lightboxImage"></a><div id="lightboxDetails"><div id="lightboxCaption" style="display: none;"></div><div id="keyboardMsg">press <a href="#" onclick="hideLightbox(); return false;"><kbd>x</kbd></a> to close</div></div></div>
+
+<div class="top_line" title="fnord"><div style="margin-bottom: 0px;">Xmas shopping made easy in the 2threads <a href="http://www.2threads.com/shop_main.php">Shop</a>.
+
+
+
+
+
+</div><div align="right"><!-- img src="images/close.gif" alt=""/--></div></div>
 
 <div id="headerextension"></div>
 <!-- if no topline is displayed, the top: attribute headerleextension must be 0px -->
@@ -52,34 +64,45 @@
 <div id="footerextension"></div>
 <div id="container">
   <div id="header"> 
-        <div id="signincontrols">
+        <div id="signincontrols" style="text-align:right;padding-right:38px;background-image:url(images/shopping_bag.png);background-repeat:no-repeat;background-position:right;">
 <a href="signup.php">Sign in</a> | <a href="signup.php?signup">Sign up</a>
+ <!--select style="wdith:20px;background-color:#c1c;color:#fff;font-size:10px;font-family:Georgia;border:0;">
+									<option value="US">US</option>
+									<option value="AU" >AU</option>
+									</select -->
+	<br><a href="manageshop.php">Create your own 2threads shop</a> | <a href="shoppingbag.php">Checkout</a>
         </div>
-  	<a href="http://www.2threads.com/"><img src="images/2threadslogo08c.jpg" alt="2Threads" style="float:left; margin-left:-4px"></a>
+  	<a href="http://www.2threads.com/"><img src="images/2threadslogo08c.jpg" alt="2Threads" style="float:left; margin-left:-4px"></a><br>
 	<div id="headerbanner">
 <script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://67.19.146.10/openx/www/delivery/ajs.php':'http://67.19.146.10/openx/www/delivery/ajs.php');
+   document.MAX_ct0 ='{clickurl}';
+
+   var m3_u = (location.protocol=='https:'?'https://2threads.com/openx/www/delivery/ajs.php':'http://2threads.com/openx/www/delivery/ajs.php');
    var m3_r = Math.floor(Math.random()*99999999999);
    if (!document.MAX_used) document.MAX_used = ',';
    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=1");
+   document.write ("?zoneid=1&amp;target=_blank");
    document.write ('&amp;cb=' + m3_r);
    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
    document.write ("&amp;loc=" + escape(window.location));
    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
    if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://67.19.146.10/openx/www/delivery/ajs.php?zoneid=1&amp;cb=8749614073&amp;loc=https%3A//web.archive.org/web/20080502053706id_/http%253A//www.2threads.com/privacy.php"></script>
+//]]>--></script><script type="text/javascript" src="https://2threads.com/openx/www/delivery/ajs.php?zoneid=1&amp;target=_blank&amp;cb=12619632278&amp;loc=https%3A//web.archive.org/web/20081218211015id_/http%253A//www.2threads.com/privacy.php"></script>
+<!--<a target="_blank" href="http://clk.atdmt.com/OAT/go/2thrdts80340000027oat/direct/01/"><img src="http://www.2threads.com/openx/www/images/hiptop_728x90_bup.gif"></a>-->
 	</div>
-	<div style="float:right; padding-top:21px;">
+	<div style="float:right; padding-top:11px;">
 	        <div class="left">
 	        	<input class="search_box" name="" type="text" value="search" id="searchkeyword">
 	        </div>
 	        <div class="left">
 	        	<select class="search_box_drop" id="searchlocation" name="">
 		      		<option value="gallery.php?keyword=">Photos</option>
-		      		<option value="hotgoods.php?keyword=">Hot Goods</option>
+		      		<option value="wishlists.php?keyword=">Wishlists</option>
 							<option value="blogs.php?keyword=">Blogs</option>
 							<option value="fashionistas.php?keyword=">People</option>
 		      		<!--option>Videos</option-->
@@ -90,32 +113,36 @@
 					<div class="left" style="margin-right:4px;">
 	       		<input class="search_box_search" tabindex="3" value="go" type="submit" onclick="javascript: if ($('#searchkeyword').val() == 'search') $('#searchkeyword').val('fashion'); document.location=$('#searchlocation').val() + $('#searchkeyword').val()">
 	       	</div>
-					<a href="feeds.php"><img style="float:left;display:inline;padding:2px;" src="images/feed-icon-18x18.gif"></a>
+					<a href="feeds.php"><img style="float:left;display:inline;padding:2px;margin-top:0px;" height="18px" src="images/feed-icon-18x18.gif"></a>
 	</div>
-  </div><div id="super-navigation">
+  </div>
+<div id="super-navigation">
 <ul>
 <!-- /hermes/privacy.php -->
-<li class="selected"><a href="/">Home</a></li>
+<li class="selected"><a href="index.php">Home</a></li>
 <li><a href="fashionistas.php">Community</a></li>
-<li><a href="fashion_home.php">Fashion</a></li>
-<li><a href="music_home.php">Music</a></li>
-<li><a href="news_channel.php">News</a></li>
-<li><a href="videos.php">Videos</a></li>
-<li><a href="gallery.php">Galleries</a></li>
+<li><a href="activities.php">Explore</a></li>
+<li><a href="shop_main.php">Shop</a></li>
+
 </ul><br>
 </div>
-<div id="sub-navigation">
+
+			<div id="sub-navigation">
+
+
 <ul id="main-navigation">
 		</ul>
 		</div>
 		<div id="content">
         <div id="signuprow">
-	     <div id="signupspiel">
-Be part of a growing creative<br>and fashionable community
+	     <div id="signupspiel" style="font:Georgia, serif;color:#FF34B9;">
+<span style="font-size:24px">2THREADS IS A SOCIAL NETWORK WITH</span><br>
+<span style="font-size:22px;"><a href="fashionistas.php" style="color:#FF34B9">Style.</a> <a href="shop_main.php" style="color:#FF34B9;">Shopping.</a> <a href="activities.php" style="color:#FF34B9;">Community.</a></span>
 <a href="signup.php?signup"><img src="images/signupb.jpg" style="float:left; display:inline; padding-top:15px;"></a>
 <ul>
-<li><b>Create and share</b> your tastes with the community</li>
-<li><b>Connect</b> with people who like what you do</li>
+<li><b><a href="gallery.php" style="color:#5B2300">Explore photos</a>,</b> <a href="videos.php" style="color:#5B2300">videos</a>, <a href="news_channel.php" style="color:#5B2300">articles</a>, <a href="wishlists.php" style="color:#5B2300">wishlists</a> and more.</li>
+<li><b><a href="products.php" style="color:#5B2300">Buy products</a></b> or <a href="signup.php?signupshop" style="color:#5B2300">set up a shop</a>.</li>
+<li><b><a href="fashionistas.php" style="color:#5B2300">Find people</a></b> who like what you do. Check it out <a href="activities.php" style="color:#5B2300">live</a>.</li>
 </ul>
 	     </div>
  		<div class="signinform">
@@ -128,11 +155,11 @@ Be part of a growing creative<br>and fashionable community
        </div>
        <div class="signinspielfield">
              <span>Password</span><br>
-	     <input id="member_si_password" name="si_password" class="text" value="password" type="password">
+	     <input id="member_si_password" name="si_password" class="text" value="" type="password">
        </div>
        <div class="signinfield" id="signupbutton">
 		<div class="siginfield_description">
-			<div class="signupbutton" onclick="javascript:$('#spielsigninform').submit();" style="margin-left: 4px; width:56px; float:left; display:inline;"><a href="#">Sign in</a></div>
+			<div class="signupbutton" id="member_si" onclick="javascript:$('#spielsigninform').submit();" style="margin-left: 4px; width:56px; float:left; display:inline;"><a href="#">Sign in</a></div>
 &nbsp;&nbsp;<a href="forgotpassword.php">Forgot your password?</a>
 		</div>
        </div>
@@ -140,6 +167,20 @@ Be part of a growing creative<br>and fashionable community
     	</div>
     </div>
 	</div>
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://2threads.com/openx/www/delivery/ajs.php':'http://2threads.com/openx/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=8");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://2threads.com/openx/www/delivery/ajs.php?zoneid=8&amp;cb=12839998324&amp;loc=https%3A//web.archive.org/web/20081218211015id_/http%253A//www.2threads.com/privacy.php"></script>
 
 
 <!-- first section below banner for ruler, heading and caption -->
@@ -154,32 +195,39 @@ Be part of a growing creative<br>and fashionable community
 <div class="row">
 	<div class="static_box">
 		<br>
-		<p>This statement outlines how we use your personal information, including information collection and usage.
-</p>
-<p>2threads respects your personal privacy and we want your on-line experience with us to be as enjoyable as possible. In order to fulfill this, we operate our collection of your personal information under strict guidelines.
-</p>
-<p>The types of information we collect are personal contact information (emails addresses, addresses, phone numbers etc), profile information (age, status, occupation etc), communication messages (messages within the system) and usage information.
-</p>
-<p>We use your personal contact information that you provide in the sign up process to contact you about our services, notify you of content uploads, and to send you newsletters. Your personal information will not be posted on the website, hired, sold or distributed in anyway to any external 3rd parties that are not part of the 2threads.com business, unless required by law. You can change and update your personal contact information at any time when logged into your profile. You can also unsubscribe to notification emails and newsletters at any time.
-</p>
-<p>Your profile information is provided by you and posted for all members and non-members to see on your profile page in order to improve your interaction with other members of the website. You have the option of not providing this information at all should you choose to, this can be done through your profile page. It is your responsibility to control this information and be aware that is viewable by the public and all 2threads.com members.
-</p>
-<p>Your Communication Messages information is your private information and we do not access or read these message at anytime, unless required to by law or if in a special case where a user is breaking the terms of our user agreement. Your communication messages will not be made available to any 3rd parties at any time that are not part of the 2threads.com business unless required by law.
-</p>
-<p>We collect usage information including statistics on how our users are moving around the website and interacting with certain parts of the website through cookies and other measures. We collect this information so we can learn about our user‘s movements and in turn improve the 2threads.com website for all members. We will occasionally share this information with 3rd parties so they can also learn how our users interact with the website. This information however will never be mixed with your personal information and will only be reviewed as a whole and not on an individual level.
-</p>
-<p>It is always your responsibility to keep your password information private and not pass it onto any 3rd parties. We take no responsibility for any actions that arise for you not abiding by this term. We will never share your password or login information with an 3rd parties under any circumstances unless required by law.
-</p>
-<p>We reserve the right to change or amend this privacy policy at any time. It is your responsibility to stay updated with these changes through the link to this privacy policy on our website.
-</p>
-<p>If you wish to update any forms of your information at ay tem or subscribe from any notifications or newsletter you can do so through your profile page or the unsubscribe links in our newsletters.
-</p>
-<p>If you require any further assistance or would like to discuss our privacy policy with us please email <a href="mailto:feedback@2threads.com">feedback@2threads.com</a>.
-</p>			
+		<p><strong>Privacy Policy<br>
+<br>
+2threads.com ("2THREADS") <br>
+Terms &amp; Conditions of 2THREADS Website<br>
+ABN:  50 127 257 907<br>
+Company: 2 threads Pty Ltd<br>
+Last updated 27th August 2008</strong></p>
+<p>This statement outlines how we use your personal information, including information collection and usage. <br>
+<br>
+2threads respects your personal privacy and we want your on-line experience with us to be as enjoyable as possible. In order to fulfill this, we operate our collection of your personal information under strict guidelines. The types of information we collect are personal contact information (emails addresses, postal addresses, phone numbers etc), financial information (credit card details), profile information (age, status, occupation etc), communication messages (messages within the system), usage information and information associated with the shopping functionality of the website.  <br>
+<br>
+We use your personal contact information that you provide in the sign up process to contact you about our services, notify you of content uploads, and to send you newsletters. Your personal information will not be posted on the website, hired, sold or distributed in anyway to any external 3rd parties that are not part of the 2threads Pty Ltd business or are not an approved partner of        2 threads Pty Ltd, unless required by law. You can change and update your personal contact information at any time when logged into your profile. You can also unsubscribe to notification emails and newsletters at any time. <br>
+<br>
+Your profile information is provided by you and posted for all members and non-members to see on your profile page in order to improve your interaction with other members of the website. You have the option of not providing this information at all should you choose to, this can be done through your profile page. It is your responsibility to control this information and be aware that is viewable by the public and all 2threads.com members. <br>
+<br>
+Your Communication Messages information is your private information and we do not access or read these message at anytime, unless required to by law or if in a special case where a user is breaking the terms of our user agreement. Your communication messages will not be made available to any 3rd parties at any time that are not part of the 2threads.com business unless required by law. <br>
+<br>
+We collect usage information including statistics on how our users are moving around the website and interacting with certain parts of the website through cookies and other measures. We collect this information so we can learn about our user‘s movements and in turn improve the 2threads.com website for all members. We will occasionally share this information with 3rd parties so they can also learn how our users interact with the website. This information however will never be mixed with your personal information and will only be reviewed as a whole and not on an individual level. <br>
+<br>
+It is always your responsibility to keep your password information private and not pass it onto any 3rd parties. We take no responsibility for any actions that arise for you not abiding by this term. We will never share your password or login information with an 3rd parties under any circumstances unless required by law. <br>
+<br>
+We reserve the right to change or amend this privacy policy at any time. It is your responsibility to stay updated with these changes through the link to this privacy policy on our website. <br>
+<br>
+If you wish to update any forms of your information at ay time or subscribe from any notifications or newsletter you can do so through your profile page or the unsubscribe links in our newsletters. <br>
+<br>
+If you require any further assistance or would like to discuss our privacy policy with us please email <a href="mailto:feedback@2threads.com">feedback@2threads.com</a></p>			
 					
 			
 	</div>
-</div>		</div>
+</div>
+
+		</div>
+<div style="position:static;"></div>
 		<div id="footer">
 			<div id="second-navigation">
 				<ul>
@@ -189,41 +237,52 @@ Be part of a growing creative<br>and fashionable community
 						<li><a href="contactus.php">Contact</a></li>
 						<li><a href="advertise.php">Advertise</a></li>
 						<li><a href="press.php">Press</a></li>
-						<li><a href="comingsoon.php?feature=Partners">Partners</a></li></ul></li>
+						<li><a href="clickclique.php">Click Clique</a></li>
+						<li><a href="loves.php">2threads Loves</a></li></ul></li>
 					<li><ul><li><b>WELCOME</b></li>
 						<li><a href="what.php">What is this?</a></li>
 						<li><a href="signup.php?signup">Sign up</a></li>
 						<li><a href="signup.php">Sign in</a></li>
+						<li id="welcome"><a title="bohemian fashion clothes" href="welcome/bohemian+fashion+clothes">Bohemian Fashion Clothes</a></li>
 						<li><a href="faq.php">FAQ</a></li></ul></li>
 					<li><ul><li><b>CONTENT</b></li>
 						<li><a href="archives.php">Newsletters</a></li>
 						<li><a href="feeds.php">Feeds</a></li>
-						<li><a href="fashion_home.php">Fashion</a></li>
-						<li><a href="music_home.php">Music</a></li>
+						<li><a href="products.php">Fashion</a></li>
 						<li><a href="news_channel.php">News</a></li>
-						<li><a href="videos.php">Videos</a></li></ul></li>
+						<li><a href="videos.php">Videos</a></li>
+						<li><a href="gallery.php">Photo Galleries</a></li>
+						<li><a href="wishlists.php">Wishlists</a></li></ul></li>
+					<li><ul><li><b>SHOPPING</b></li>
+						<li><a href="sellers.php">Sellers</a></li>
+						<li><a href="products.php">Products</a></li>
+						<li><a href="howtobuyandsell.php">How to buy and sell</a></li>
+						<li><a href="signup.php?signupshop">Seller sign up</a></li></ul></li>
 					<li><ul><li><b>PARTICIPATE</b></li>
-						<li><a href="contribute.php">Contributor team</a></li>
+						<li><a href="http://www.facebook.com/group.php?gid=16278870054">2threads on Facebook</a></li>
+						<li><a href="http://twitter.com/2threads">2threads@Twitter</a></li>
 						<li><a href="widgets.php" title="Embed the latest updates from 2threads in your webpage or Facebook profile!">Widgets!</a></li>
-						<li><a href="network.php">Start a network</a></li>
-						<li><a href="competition.php">Competitions</a></li>
+						<li><a href="competitions.php">Competitions</a></li>
+						<li><a href="contribute.php">Contributor team</a></li>
 						<li><a href="developers.php">Developers</a></li>
 						<li><a href="jobs.php">Jobs</a></li></ul></li>
 					<li><ul><li><b>TERMS</b></li>
 						<li><a href="terms.php">Site terms</a></li>
 						<li><a href="privacy.php">Privacy</a></li>
 						<li><a href="unsubscribe.php">Unsubscribe</a></li></ul></li></ul>
+
 			</div>
-<br style="clear: both">
-<span style="float:right; padding-right:80px"><small>Code by <a href="http://2threads.com/geeker">geeker</a> | © 2008 <a href="http://2threads.com/">2Threads</a></small></span>
+						<span style="float:right; padding-right:80px;clear:both;"><small><a href="http://www.2influencemedia.com/">2influence Media</a> | <a href="http://www.estile.com/">Estile</a> <!-- Code by <a href="http://2threads.com/geeker">geeker</a>--> | © 2008 <a href="http://2threads.com/">2Threads</a></small></span>
+
 		</div>
 	</div>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-2362353-1";
 urchinTracker();
 </script>
+<script src="http://75325.hittail.com/mlt.js" type="text/javascript"></script>
 <!--script type="text/javascript" src="http://www.SearchNumbersHQ.com/Tracker/8e93168a-c276-46d1-8aeb-2ad51fd20b45.aspx"></script-->
 
 </body></html>
