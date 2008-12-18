@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traveladnetwork.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513222629id_/http%3A//www.traveladnetwork.com/content/view/56/79) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveladnetwork.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218065855id_/http%3A//www.traveladnetwork.com/content/view/56/79) for the most accurate reproduction.*
 
 # www.traveladnetwork.com - Privacy Policy
 
