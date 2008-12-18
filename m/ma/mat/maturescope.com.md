@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maturescope.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513100746id_/http%3A//www.maturescope.com/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maturescope.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218013028id_/http%3A//www.maturescope.com/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
