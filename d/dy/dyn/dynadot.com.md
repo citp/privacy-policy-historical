@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the dynadot.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609113943id_/http%3A//www.dynadot.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynadot.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218071321id_/http%3A//www.dynadot.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Dynadot LLC
+# Privacy Policy - Dynadot.com
 
 **_Privacy Policy_**
 
-v. 3.2  
-February 26, 2007
+v. 3.4  
+October 10, 2008
 
 Welcome to the Dynadot web design, web hosting, and domain name registration service ("Service").  The Service is made available subject to this Privacy Policy.  By using the Service, you agree, without limitation or qualification, to be bound by this Privacy Policy.  This policy may be updated from time to time, so please check back here periodically.
 
@@ -25,7 +25,7 @@ If you submit a complaint to us about our Service or about any one of our custom
 
 The Service does not share your information with any external third parties except when absolutely necessary, as listed here in this Privacy Policy, or when authorized by you. We do not sell information to mailing lists, or send advertisements on behalf of other companies.
 
-If you are registering a domain name, your contact information will be listed on the public Whois service.  This listing is required by ICANN.  In addition, the central registries require the Service to submit to them your contact information and personal data associated with your domain registration.
+If you are registering a domain name, your contact information will be listed on the public Whois service.  This listing is required by ICANN.  Further, ICANN requires the Service to submit your contact information and personal data associated with your domain name registration to an ICANN-approved third party data escrow service provider, such as Iron Mountain Digital.  In addition, the central registries require the Service to submit to them your contact information and personal data associated with your domain registration. 
 
 When placing any order, we submit your billing information to the payment processor. 
 
@@ -37,7 +37,7 @@ If you purchase websites, website templates, site building software, web hosting
 
 The Service is a reseller of the site building software offered on its website.  If you purchase site building software through the Service, you should be aware that we are required to share your name and contact information with the vendor for whom we are a reseller.
 
-If you submit a complaint to us about our Service or about any one of our customers, the Service reserves the right to share your name and contact information with the party against whom you are lodging the complaint, or with a law enforcement agency, as we deem necessary in our sole discretion.
+If you submit a complaint to us about our Service or about any one of our customers, the Service reserves the right to share your name and contact information with the party against whom you are lodging the complaint, with a law enforcement agency, or with a third party during the course of a legal or administrative proceeding, as we deem necessary in our sole discretion.
 
 Though the Service makes every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on us. (Please see our _[Subpoena Policy](http://www.dynadot.com/subpoena_policy.html)_.)
 
@@ -49,4 +49,4 @@ If you purchased our Privacy Service with your domain name registration, we may 
 
 **Do you use "cookies"?**
 
-The Service uses cookies. A cookie is a piece of data stored on the user's computer tied to information about the user. We use cookies to remember where you are in our web site. For example, by setting a cookie when you sign into your account, we know that you are an authorized user. If you reject the cookie, you will not be able to enter the account area of the site.
+The Service uses cookies. A cookie is a piece of data stored on the user's computer tied to information about the user. We use cookies to remember where you are in our web site, and to collect anonymous traffic data in order to help us improve our web site.  For example, by setting a cookie when you sign into your account, we know that you are an authorized user.  If you reject or disable the cookie, you will not be able to enter the account area of the site, and some pages on our web site may not work properly.
