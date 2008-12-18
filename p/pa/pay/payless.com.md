@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payless.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619230656id_/http%3A//www.payless.com/en-US/Consumer/customersupport/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payless.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218023811id_/http%3A//www.payless.com/en-US/Consumer/customersupport/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,8 +27,8 @@ If you have additional questions, or would like further information about our pr
     1. Send us an email at: [CustomerService@csr.payless.com](http://www.payless.com/contact/contactcustomer.aspx)  
 
     2. Call us at: 1-877-452-7500 (Toll-free in U.S. and Canada)  
-7:30 AM - 7:00 PM CST Monday - Saturday  
-9:30 AM - 6:00 PM CST Sunday  
+7:30 AM - 8:00 PM CST Monday - Saturday  
+9:30 AM - 8:00 PM CST Sunday  
 
     3. Write to us at: Payless ShoeSource Customer Service  
 3231 SE Sixth Avenue  
@@ -103,8 +103,8 @@ You can update your Payless.com contact information:
     1. Send us an email at: [CustomerService@csr.payless.com](http://www.payless.com/contact/contactcustomer.aspx)  
 
     2. Call us at: 1-877-452-7500 (Toll-free in U.S. and Canada)  
-7:30 AM - 7:00 PM CST Monday - Saturday  
-9:30 AM - 6:00 PM CST Sunday  
+7:30 AM - 8:00 PM CST Monday - Saturday  
+9:30 AM - 8:00 PM CST Sunday  
 
     3. Write to us at: Payless ShoeSource Customer Service  
 3231 SE Sixth Avenue  
