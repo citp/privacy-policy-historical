@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cff.org privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511202543id_/http%3A//www.cff.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cff.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218134056id_/http%3A//www.cff.org/privacy_policy) for the most accurate reproduction.*
 
 # Cystic Fibrosis Foundation - Privacy Policy
 
@@ -70,6 +70,8 @@ This privacy policy may be modified. Any changes to the CFF online privacy polic
 **How to Contact Us**
 
 If you have any questions about the Site, our privacy policy or the information we collect, please contact us at Cystic Fibrosis Foundation, 6931 Arlington Road, Bethesda, MD 20872, Attn: Communications Department, or send an e-mail to [info@cff.org](mailto:info@cff.org).
+
+back to top
 
 * * *
 
