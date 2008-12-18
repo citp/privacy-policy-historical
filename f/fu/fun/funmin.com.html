@@ -1,0 +1,498 @@
+<!--The following is the downloaded HTML source of the funmin.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218081614id_/http%3A//www.funmin.com/privacy.php) for the most accurate reproduction.-->
+
+<html><head><style>
+.tab{font-family: arial, verdana, san-serif; font-size: 14px;}
+.asd{text-decoration: none; cursor: pointer; font-family: arial, verdana, san-serif; font-size: 13px; color: #4234ff;}
+.row1{background-color: #ffffff;}
+.row2{background-color: #ffffff;}
+</style>
+
+<script language="javascript">
+var color1 = "#ffffff";
+var color2 = "#ffffff";
+var mouseocolor = "#EFEEFE";
+var sitename = "funmin.com";
+
+window.onerror = null;
+var bName = navigator.appName;
+var bVer = parseInt(navigator.appVersion);
+var IE4 = (bName == "Microsoft Internet Explorer" && bVer >= 4);
+var menuActive = 0;
+var menuOn = 0;
+var onLayer;
+var timeOn = null;
+var url = window.location;
+var title = document.title;
+var colnow = color1;
+
+function bookmark(title,url){
+	if(window.sidebar) 
+          window.sidebar.addPanel(title,url,"");
+	else if(window.opera && window.print){
+          var elem = document.createElement('a');
+          elem.setAttribute('href',url);
+          elem.setAttribute('title',title);
+          elem.setAttribute('rel','sidebar');
+          elem.click();
+	}
+	else if(window.external)
+          window.external.AddFavorite(url,title);
+}
+
+function showLayer(layerName,aa){
+	var x =document.getElementById(aa);
+	var tt =findPosX(x);
+	var ww =findPosY(x)+15;
+	
+	//alert(tt+"---"+ww);
+
+	if (timeOn != null) {
+	clearTimeout(timeOn);
+	hideLayer(onLayer);
+	}
+	if (IE4) {
+	var layers = eval('document.all["'+layerName+'"].style');
+	layers.left = tt;
+	layers.top = ww;
+	eval('document.all["'+layerName+'"].style.visibility="visible"');
+	}
+	else {
+		if(document.getElementById){
+		var elementRef = document.getElementById(layerName);
+		if((elementRef.style)&& (elementRef.style.visibility!=null)){
+		elementRef.style.visibility = 'visible';
+		elementRef.style.left = tt;
+		elementRef.style.top = ww;
+		}
+		}
+	}
+	onLayer = layerName
+}
+
+function hideLayer(layerName){
+	if (menuActive == 0)
+	{
+		if (IE4){
+		eval('document.all["'+layerName+'"].style.visibility="hidden"');
+		}
+		else{
+			if(document.getElementById){
+				var elementRef = document.getElementById(layerName);
+				if((elementRef.style)&& (elementRef.style.visibility!=null)){
+					elementRef.style.visibility = 'hidden';
+				}
+			}
+		}
+	}
+}
+
+function btnTimer() {
+	timeOn = setTimeout("btnOut()",600)
+}
+
+function btnOut(layerName){
+	if (menuActive == 0){
+	hideLayer(onLayer)
+	}
+}
+
+var item;
+function menuOver(itemName){
+	item=itemName;
+	itemName.style.backgroundColor = mouseocolor; //background color change on mouse over
+	clearTimeout(timeOn);
+	menuActive = 1
+}
+
+function menuOut(itemName,iid){
+	if(iid == 1)
+		colnow = color1;
+	else
+		colnow = color2;
+
+	if(item)
+		itemName.style.backgroundColor = colnow;
+	menuActive = 0
+	timeOn = setTimeout("hideLayer(onLayer)", 100)
+}
+
+function findPosX(obj)
+{
+var curleft = 0;
+if (obj.offsetParent)
+{
+while (obj.offsetParent)
+{
+curleft += obj.offsetLeft
+obj = obj.offsetParent;
+}
+}
+else if (obj.x)
+curleft += obj.x;
+return curleft;
+}
+
+function findPosY(obj)
+{
+var curtop = 0;
+if (obj.offsetParent)
+{
+while (obj.offsetParent)
+{
+curtop += obj.offsetTop
+obj = obj.offsetParent;
+}
+}
+else if (obj.y)
+curtop += obj.y;
+return curtop;
+}
+
+function wopmove(id)
+{
+	if(id == "stumbleupon")
+		window.location = "http://www.stumbleupon.com/submit?url="+url+"&title="+title;
+	if(id == "delicious")
+		window.location = "http://del.icio.us/post?url="+url+"&title="+title+"&notes="+title;
+	if(id == "digg")
+		window.location = "http://digg.com/submit?phase=2&url="+encodeURI(url)+"&title="+encodeURI(title);
+	if(id == "google")
+		window.location = "http://www.google.com/bookmarks/mark?op=add&bkmk="+url+"&title="+title+"&labels="+sitename;
+	if(id == "yahoo")
+		window.location = "http://myweb2.search.yahoo.com/myresults/bookmarklet?u="+url+"&t="+title;
+	if(id == "techno")
+		window.location = "http://technorati.com/faves?add="+url;
+}
+</script>
+
+</head><body class="bodyc"><div id="menu250" style="position: absolute; border: 1px solid #000000; visibility:hidden; z-index: 1">
+<table cellspacing="0" cellpadding="0" style="filter: alpha(opacity=80); -moz-opacity:.80; opacity:.80; border-collapse: collapse;">
+
+<tbody><tr class="row1" valign="bottom" height="20" onmouseout="menuOut(this,1)" onmouseover="menuOver(this)">
+<td align="left">&nbsp;&nbsp; 
+  <script language="javascript">
+	document.write('<a class=asd href=\"javascript:bookmark(title, url)\">');
+  </script><a class="asd" href="javascript:bookmark(title, url)">
+  Add to Favorites&nbsp;</a> &nbsp; &nbsp;</td></tr>
+
+<tr class="row2" height="25" onmouseout="menuOut(this,2)" onmouseover="menuOver(this)">
+<td align="left">
+&nbsp;&nbsp; <a class="asd" onclick="wopmove(&quot;stumbleupon&quot;)"> Stumble Upon </a> &nbsp;&nbsp;</td></tr>
+
+<tr class="row1" height="25" onmouseout="menuOut(this,1)" onmouseover="menuOver(this)">
+<td align="left">
+&nbsp;&nbsp; <a class="asd" onclick="wopmove(&quot;delicious&quot;)"> Del.icio.us </a> &nbsp;&nbsp;</td></tr>
+
+<tr class="row2" height="25" onmouseout="menuOut(this,2)" onmouseover="menuOver(this)">
+<td align="left">
+&nbsp;&nbsp; <a class="asd" onclick="wopmove(&quot;digg&quot;)"> Digg </a> &nbsp;&nbsp;</td></tr>
+
+<tr class="row1" height="25" onmouseout="menuOut(this,1)" onmouseover="menuOver(this)">
+<td align="left">
+&nbsp;&nbsp; <a class="asd" onclick="wopmove(&quot;google&quot;)"> Google Bookmarks </a> &nbsp;&nbsp;</td></tr>
+
+<tr class="row2" height="25" onmouseout="menuOut(this,2)" onmouseover="menuOver(this)">
+<td align="left">
+&nbsp;&nbsp; <a class="asd" onclick="wopmove(&quot;yahoo&quot;)"> Yahoo Bookmarks </a> &nbsp;&nbsp;</td></tr>
+
+</tbody></table></div>
+
+
+<script language="javascript">var present;present="no";</script><link rel="STYLESHEET" type="text/css" href="http://www.funmin.com/directory/dirstyles.css">
+<style>
+  .cntbg{ width: 400px; height: 25px; padding: 0px; margin: 0px; background-color: #5E7240;}
+  .cntbg a {color: white; }
+  .cntbg2{ width: 50px; height: 25px; background-image: url('http://www.funmin.com/images/bg5.gif'); 
+  background-repeat: no-repeat; }
+  
+</style>
+<style type="text/css">
+#dropmenudiv{
+position:absolute;
+border:0px solid ;
+border-bottom-width: 0;
+font:normal 0px;
+line-height:0px;
+z-index:0;
+}
+
+#dropmenudiv a{
+width: 00%;
+display: block;
+text-indent: 0px;
+border-bottom: 0px solid black;
+padding: 0px 0;
+text-decoration: none;
+font-weight: bold;
+}
+
+#dropmenudiv a:hover{ /*hover background color*/
+}
+
+.bodyc{
+	//background-image: url('http://www.funmin.com/images/back.gif');
+	}
+
+.leftmenu{
+	background-image: url('http://www.funmin.com/images/side-6.gif');
+	width: 13px;
+	}
+
+.rightmenu{
+	background-image: url('http://www.funmin.com/images/side-7.gif');
+	width: 14px;
+	}
+
+.boardtop{
+	background-image: url('http://www.funmin.com/images/top-n.gif');
+	width: 684px;
+	height: 40px;
+}
+
+.boardcenter{
+	background-image: url('http://www.funmin.com/images/c-n.gif');
+	width: 684px;
+	height: 250px;
+}
+
+.boarddown{
+	background-image: url('http://www.funmin.com/images/b-n.gif');
+	width: 684px;
+	height: 50px;
+}
+
+.texttable{
+	width: 500px;
+}
+
+.scroller{
+	height: 200px; 
+	width : 500px; 
+	font-family: arial, verdana, san-serif; 
+	font-size: 13px; 
+	overflow: auto;
+}
+
+.boardcenter1{
+	background-image: url('http://www.funmin.com/images/copy.gif');
+	width: 684px;
+	height: 156px;
+}
+
+.scroller1{
+	height: 110px; 
+	width : 520px; 
+	font-family: arial, verdana, san-serif; 
+	font-size: 13px; 
+	overflow: auto;
+}
+
+table{
+	font-size: 13px;
+	font-family: arial, verdana, san-serif;
+}
+
+.footlink{
+font-family: san-serif;
+color: 456700; text-decoration: none; font-size: 13px; font-weight: 600;
+}
+.footlink:hover
+{
+font-family: san-serif;
+color: #228B22; text-decoration: underline; font-weight: light;
+}
+
+.centerround
+{
+background-position: bottom right; 
+background-repeat: no-repeat; 
+background-image: url('./images/inner.gif'); 
+width: 300px; 
+height: 250px; 
+padding: 10px;
+padding-right: 0px;
+}
+
+</style>
+
+<script type="text/javascript">
+<!--
+image03= new Image()
+image03.src="http://www.funmin.com/images/newimg/online-games.gif"
+image04= new Image()
+image04.src="http://www.funmin.com/images/newimg/online-games1.gif"
+
+image05= new Image()
+image05.src="http://www.funmin.com/images/newimg/download-games.gif"
+image06= new Image()
+image06.src="http://www.funmin.com/images/newimg/download-games1.gif"
+
+image07= new Image()
+image07.src="http://www.funmin.com/images/newimg/flash-games.gif"
+image08= new Image()
+image08.src="http://www.funmin.com/images/newimg/flash-games1.gif"
+image09= new Image()
+image09.src="http://www.funmin.com/images/newimg/invite-friends.gif"
+image10= new Image()
+image10.src="http://www.funmin.com/images/newimg/invite-friends1.gif"
+
+image11= new Image()
+image11.src="http://www.funmin.com/images/newimg/bookmark-us.gif"
+image12= new Image()
+image12.src="http://www.funmin.com/images/newimg/bookmark-us1.gif"
+function rollover(imagename, newsrc){
+document.images[imagename].src=newsrc.src
+}
+//-->
+</script>
+
+
+<!-- table 1 starts here -->
+<table width="798" border="0" align="center" cellpadding="0" cellspacing="0">
+<tbody><tr><td colspan="3">
+	<table background="http://www.funmin.com/images/3-t.gif" border="0" align="center" cellpadding="0" cellspacing="0">
+	<tbody><tr align="center">
+	<td height="120" colspan="3" style=" padding-top:55px;"><br><br><b>&nbsp;&nbsp;&nbsp;</b>
+<a class="footlink" href="http://www.withfriendship.com" target="_blank">Jokes and Pictures</a>&nbsp;&nbsp;&nbsp;
+<a class="footlink" href="http://www.tofocus.info" target="_blank">Internet Stats</a>&nbsp;&nbsp;&nbsp;
+<a class="footlink" href="http://www.easycalculation.com" target="_blank">Easy Calculation</a>&nbsp;&nbsp;&nbsp;
+<a class="footlink" href="http://www.hioxindia.com" target="_blank">Web Hosting</a>&nbsp;&nbsp;&nbsp;
+<a class="footlink" href="http://www.hscripts.com" target="_blank">Free Scripts &amp; Tutorials</a>
+	</td>
+</tr>
+	<tr><td background="http://www.funmin.com/images/t-l.jpg" width="111" height="79" cellpadding="0" cellspacing="0"></td> 
+	
+       <td width="575" valign="top" cellpadding="0" cellspacing="0" align="center" bgcolor="ffffff">
+			<a href="http://www.funmin.com/index.php">
+			<img src="http://www.funmin.com/images/newimg/home.gif" name="exampless2" border="0"></a>
+
+			<a href="http://www.funmin.com/online-games.php" onmouseover="rollover('example', image04)" onmouseout="rollover('example', image03)">
+			<img src="http://www.funmin.com/images/newimg/online-games.gif" name="example" border="0"></a>
+
+			<a href="http://www.funmin.com/download-games.php" onmouseover="rollover('example2', image06)" onmouseout="rollover('example2', image05)">
+			<img src="http://www.funmin.com/images/newimg/download-games.gif" name="example2" border="0"></a>
+
+			<a href="http://www.funmin.com/directory/index.php" onmouseover="rollover('example3', image08)" onmouseout="rollover('example3', image07)">
+			<img src="http://www.funmin.com/images/newimg/flash-games.gif" name="example3" border="0"></a>
+
+			<a href="http://www.funmin.com/directory/refer.php" onmouseover="rollover('example4', image10)" onmouseout="rollover('example4', image09)">
+			<img src="http://www.funmin.com/images/newimg/invite-friends.gif" name="example4" border="0"></a>
+
+			<a id="250" class="subheading" onmouseout="btnTimer()" onmouseover="showLayer(&quot;menu250&quot;,'250')">
+			<img src="http://www.funmin.com/images/newimg/bookmark-us.gif" name="example5" border="0"></a>
+<br>
+
+<div id="submen" style="background-color: rgb(255, 255, 242); visibility: hidden;">
+ <a style="padding-left:100px;" href="http://www.funmin.com/directory/search.php" class="subheading"><strong>Search</strong></a> 
+ <a style="padding-left:20px;" href="http://www.funmin.com/directory/mostplayed.php?sub=visited" class="subheading"><strong>Most Played</strong></a>
+ <a style="padding-left:20px;" href="http://www.funmin.com/directory/HRAS/users/index.php" class="subheading"><strong>Submit</strong></a>
+ <a style="padding-left:20px;" href="http://www.funmin.com/directory/HRAS/login/useradd.php" class="subheading"><strong>SignUp</strong></a>			
+<script language="javascript">
+if(present != "yes")
+   document.getElementById('submen').style.visibility='hidden'; 
+</script>
+
+  <a style="padding-left:80px;" class="subheading" href="http://www.funmin.com/directory/HRAS/login/index.php">Login</a>  ||  <a class="subheading" href="http://www.funmin.com/directory/HRAS/users/index.php">UserHome</a> 
+
+</div>
+	 </td>
+ 	 <td background="http://www.funmin.com/images/t-r.jpg" width="112" height="79" cellpadding="0" cellspacing="0"></td>  
+	 </tr>
+	</tbody></table>
+</td></tr>	
+<tr><td class="leftmenu" cellpadding="0" cellspacing="0" bgcolor="ffffff"></td>
+<td width="771" valign="top" bgcolor="ffffff" align="center">
+<script type="text/javascript"><!--
+google_ad_client = "pub-3229609591361912";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+//2007-10-22: funmin-offline-ad
+google_ad_channel = "5278223310";
+google_color_border = ["FFFFFF","F0F0F0","000000"];
+google_color_bg = ["FFFFFF","F0F0F0","000000"];
+google_color_link = ["3D81EE","0000FF","FFFFFF"];
+google_color_text = ["000000","000000","CCCCCC"];
+google_color_url = ["191919","008000","999999"];
+google_ui_features = "rc:10";
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<br>
+<table align="center" width="80%"><tbody><tr><td align="justify" class="heading1">
+<br>
+
+<p>At Funmin, we are committed to protecting your privacy and to developing technology that gives you the most powerful and secure online experience. You can travel through most of our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this statement of privacy explains data collection and use in those situations. Please read the complete Funmin.com privacy statement.<br><br>
+
+<strong>Collecting your Personal Information</strong><br><br>
+</p><p>We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you are asked to register before entering a contest, rating games. Personal information collected by Funmin often is limited to e-mail address, language, country or location, but may include other information when needed to provide a service you requested.<br><br>
+
+<strong>Use of your Personal Information</strong><br><br>
+</p><p>We use your personal information for four primary purposes:<br><br>
+</p><ul>
+<li>
+To make the site easier for you to use by not making you enter your personal information more than once.<br>
+</li>
+<li>
+To help us create and deliver content most relevant to you. <br><br>
+</li></ul>
+</td></tr>
+<tr><td>
+<p>Funmin.com will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: 
+</p><ol>
+<li>
+conform to the edicts of the law or comply with legal process served on Funmin or the site;
+</li>
+<li>
+ protect and defend the rights or property of Funmin, and 
+</li>
+<li>
+ act in urgent circumstances to protect the personal safety of users of Funmin, its Web site, or the public.<br><br>
+</li>
+</ol>
+</td></tr>
+<tr><td>
+<strong>Control of your Personal Information</strong><br><br>
+<p>When you register, or otherwise give us personal information,Funmin will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above.<br><br>
+
+<strong>Security of your Personal Information</strong><br><br>
+</p><p>Funmin.com strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.<br><br>
+
+</p><p>Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access.<br><br>
+
+</p><p>You also have a significant role in protecting your information. No one can see or edit your personal information without knowing your username and password, so do not share these with others.<br><br>
+
+<strong>Use of Cookies</strong><br><br>
+</p><p>To ensure we are publishing content customers need and want,Funmin collects aggregated site-visitation statistics using cookies. We do not track individual's use of the site.<br><br>
+
+</p><p>When someone visits the site, a cookie is placed on the customer’s machine (if the customer accepts cookies) or is read if the customer has visited the site previously.<br><br>
+
+</p><p>If you have questions regarding this statement, you should first contact games@funmin.com <br><br>
+
+</p></td></tr><tr>
+</tr><tr><td height="15"></td></tr>
+</tbody></table>
+<br><br>
+</td><td class="rightmenu" cellpadding="0" cellspacing="0"></td>
+</tr>
+
+<tr><td colspan="3">
+<table border="0" width="100%" height="80" align="center" background="http://www.funmin.com/images/bottom-1.gif" cellpadding="0" cellspacing="0" style="font-size: 12px;">
+	<tbody><tr><td align="center">
+		   <font color="black"><b></b></font><center><font color="black"><b><br><br><br><a href="http://www.funmin.com/privacy.php" style="color:black; text-decoration:none">Privacy Policy</a>  <span style="color:white" ;=""> || </span>  <a href="http://www.funmin.com/license.php" style="color:black; text-decoration:none">License Agreement</a><br>Free game downloads, Online games 
+			© <a href="http://hiox.com">HIOX</a> India</b> 
+		   </font><br></center>
+	</td>
+	</tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+<!-- table 1 ends here -->
+
+			
+ 	
+	 </body></html>
