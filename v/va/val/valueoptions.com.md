@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valueoptions.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630074737id_/http%3A//valueoptions.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valueoptions.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218202935id_/http%3A//www.valueoptions.com/Privacy.htm) for the most accurate reproduction.*
 
 # ValueOptions®: Privacy
 
