@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prospectiv.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614093809id_/http%3A//www.prospectiv.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prospectiv.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218090724id_/http%3A//www.prospectiv.com/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Prospectiv Corporate Website : Contact Us
 
