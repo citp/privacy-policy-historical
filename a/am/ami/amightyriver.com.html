@@ -1,99 +1,240 @@
-<!--The following is the downloaded HTML source of the amightyriver.com privacy policy that was archived on 2008-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080513031159id_/http%3A//www.amightyriver.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amightyriver.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218144355id_/http%3A//www.amightyriver.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="js"><head>
-    <title>Privacy Policy | A Mighty River</title>
-    <style type="text/css" media="all">@import "/modules/node/node.css";</style>
-<style type="text/css" media="all">@import "/modules/system/defaults.css";</style>
-<style type="text/css" media="all">@import "/modules/system/system.css";</style>
-<style type="text/css" media="all">@import "/modules/user/user.css";</style>
-<style type="text/css" media="all">@import "/sites/all/modules/cck/content.css";</style>
-<style type="text/css" media="all">@import "/sites/all/modules/date/date.css";</style>
-<style type="text/css" media="all">@import "/sites/all/modules/event/event.css";</style>
-<style type="text/css" media="all">@import "/sites/all/modules/cck/fieldgroup.css";</style>
-<style type="text/css" media="all">@import "/sites/all/modules/panels/css/panels.css";</style>
-<style type="text/css" media="all">@import "/sites/all/modules/devel/devel.css";</style>
-<style type="text/css" media="all">@import "/sites/all/themes/amightyriver/style.css";</style>
-    <script type="text/javascript" src="/misc/jquery.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="js"><head>
+  <title>Privacy Policy | A Mighty River</title>
+  <style type="text/css" media="all">@import "/files/css/760db932ee47b7145e5c2ec0c75da871.css";</style>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script type="text/javascript"><!--		
+		// remote scripting library
+		// (c) copyright 2005 modernmethod, inc
+		var sajax_debug_mode = false;
+		var sajax_request_type = "GET";
+		var sajax_target_id = "";
+		var sajax_failure_redirect = "";
+		
+		function sajax_debug(text) {
+			if (sajax_debug_mode)
+				alert(text);
+		}
+		
+ 		function sajax_init_object() {
+ 			sajax_debug("sajax_init_object() called..")
+ 			
+ 			var A;
+ 			
+ 			var msxmlhttp = new Array(
+				'Msxml2.XMLHTTP.4.0',
+				'Msxml2.XMLHTTP.3.0',
+				'Msxml2.XMLHTTP',
+				'Microsoft.XMLHTTP');
+			for (var i = 0; i < msxmlhttp.length; i++) {
+				try {
+					A = new ActiveXObject(msxmlhttp[i]);
+				} catch (e) {
+					A = null;
+				}
+			}
+ 			
+			if(!A && typeof XMLHttpRequest != "undefined")
+				A = new XMLHttpRequest();
+			if (!A)
+				sajax_debug("Could not create connection object.");
+			return A;
+		}
+		
+		var sajax_requests = new Array();
+		
+		function sajax_cancel() {
+			for (var i = 0; i < sajax_requests.length; i++) 
+				sajax_requests[i].abort();
+		}
+		
+		function sajax_do_call(func_name, args) {
+			var i, x, n;
+			var uri;
+			var post_data;
+			var target_id;
+			
+			sajax_debug("in sajax_do_call().." + sajax_request_type + "/" + sajax_target_id);
+			target_id = sajax_target_id;
+			if (typeof(sajax_request_type) == "undefined" || sajax_request_type == "") 
+				sajax_request_type = "GET";
+			
+			uri = "";
+			if (sajax_request_type == "GET") {
+			
+				if (uri.indexOf("?") == -1) 
+					uri += "?rs=" + encodeURIComponent(func_name);
+				else
+					uri += "&rs=" + encodeURIComponent(func_name);
+				uri += "&rst=" + encodeURIComponent(sajax_target_id);
+				uri += "&rsrnd=" + new Date().getTime();
+				
+				for (i = 0; i < args.length-1; i++) 
+					uri += "&rsargs[]=" + encodeURIComponent(args[i]);
+
+				post_data = null;
+			} 
+			else if (sajax_request_type == "POST") {
+				post_data = "rs=" + encodeURIComponent(func_name);
+				post_data += "&rst=" + encodeURIComponent(sajax_target_id);
+				post_data += "&rsrnd=" + new Date().getTime();
+				
+				for (i = 0; i < args.length-1; i++) 
+					post_data = post_data + "&rsargs[]=" + encodeURIComponent(args[i]);
+			}
+			else {
+				alert("Illegal request type: " + sajax_request_type);
+			}
+			
+			x = sajax_init_object();
+			if (x == null) {
+				if (sajax_failure_redirect != "") {
+					location.href = sajax_failure_redirect;
+					return false;
+				} else {
+					sajax_debug("NULL sajax object for user agent:\n" + navigator.userAgent);
+					return false;
+				}
+			} else {
+				x.open(sajax_request_type, uri, true);
+				// window.open(uri);
+				
+				sajax_requests[sajax_requests.length] = x;
+				
+				if (sajax_request_type == "POST") {
+					x.setRequestHeader("Method", "POST " + uri + " HTTP/1.1");
+					x.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+				}
+			
+				x.onreadystatechange = function() {
+					if (x.readyState != 4) 
+						return;
+
+					sajax_debug("received " + x.responseText);
+				
+					var status;
+					var data;
+					var txt = x.responseText.replace(/^\s*|\s*$/g,"");
+					status = txt.charAt(0);
+					data = txt.substring(2);
+
+					if (status == "") {
+						// let's just assume this is a pre-response bailout and let it slide for now
+					} else if (status == "-") 
+						alert("Error: " + data);
+					else {
+						if (target_id != "") 
+							document.getElementById(target_id).innerHTML = eval(data);
+						else {
+							try {
+								var callback;
+								var extra_data = false;
+								if (typeof args[args.length-1] == "object") {
+									callback = args[args.length-1].callback;
+									extra_data = args[args.length-1].extra_data;
+								} else {
+									callback = args[args.length-1];
+								}
+								callback(eval(data), extra_data);
+							} catch (e) {
+								sajax_debug("Caught error " + e + ": Could not eval " + data );
+							}
+						}
+					}
+				}
+			}
+			
+			sajax_debug(func_name + " uri = " + uri + "/post = " + post_data);
+			x.send(post_data);
+			sajax_debug(func_name + " waiting..");
+			delete x;
+			return true;
+		}
+		
+				
+		// wrapper for get_states		
+		function x_get_states() {
+			sajax_do_call("get_states",
+				x_get_states.arguments);
+		}
+		
+		//--></script>
+<meta name="copyright" content="2008 iHispano.com, LLC All Rights Reserved">
+<meta name="DC.Title" content="Privacy Policy">
+<meta name="description" content="Visit AMightyRiver.com which is designed to provide black jobs. We provide African Americans a better platform for their job search.">
+<meta name="keywords" content="african american job search,african american jobs,black jobs,black,african american">
+<meta name="robots" content="index,follow">
+<link rel="stylesheet" href="/sites/all/themes/zen/amightyriver_v3/css/print.css" type="text/css" media="print">
+
+<link rel="shortcut icon" href="/sites/all/themes/zen/amightyriver_v3/images/favicon.ico" type="image/x-icon">
+<script type="text/javascript"><!--// <![CDATA[
+  var OA_zones = {
+    'EOM' : 109,
+    'ROS' : 108,
+    'Industry Leader' : 114,
+    'Skyscraper' : 115,
+    'Charter' : 116,
+    'Industry Leader2' : 114,
+    'Industry Leader3' : 114,
+    'Charter2' : 116,
+    'Charter3' : 116,
+    'Charter4' : 116,
+    'Charter5' : 116,
+    'Charter6' : 116,
+    'Charter7' : 116,
+    'Charter8' : 116,
+    'Charter9' : 116,
+    'Charter10' : 116,
+    'Charter11' : 116,
+    'Charter12' : 116  }
+// ]]> --></script>
+<script type="text/javascript" src="http://ads.ihispano.com/www/delivery/spcjs.php?block=1"></script>
+  <!--[if IE]>
+    <link rel="stylesheet" href="/sites/all/themes/zen/ie.css" type="text/css">
+          <link rel="stylesheet" href="/sites/all/themes/zen/amightyriver_v3/css/ie.css" type="text/css">
+      <![endif]-->
+  <script type="text/javascript" src="/misc/jquery.js"></script>
 <script type="text/javascript" src="/misc/drupal.js"></script>
 <script type="text/javascript" src="/sites/all/modules/jquery_update/compat-1.0.js"></script>
-<script type="text/javascript" src="/sites/all/modules/devel/devel.js"></script>
+<script type="text/javascript" src="/sites/all/modules/panels/js/panels.js"></script>
 <script type="text/javascript" src="/sites/all/modules/jquery_update/collapse-fix.js"></script>
-<script type="text/javascript">Drupal.extend({ settings: { "googleanalytics": { "trackDownload": "pdf|zip|mp3", "LegacyVersion": 0 } } });</script>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta content="AMightyRiver.com's mission is to serve as the premier resource for connecting men and women of all nationalities and backgrounds in an online community that will assist them in realizing their goals as they grow their careers and their lives. By combining the elements of professional networking with the revolutionary tools of the Internet, A Mighty River creates the uplifting and collaborative environment to Mentor, Seek Advice, Build Professional Relationships, Find Business Opportunities, and Share Social Experiences by Leveraging the Power of the Collective Black Community Wisdom." name="description">
-    <meta content="African American jobs, jobs for African Americans, African American employment, African American employment program, African American professionals, African American recruiting, African American recruiters, African American resumes, diversity careers, diversity employment, ihispano, AfricanAmericanCareerChannel, job online post, African American job postings, career tools, career development tools, career management tools, career counseling tools, career assessment tools, career planning tools, African American job search, job search, search resumes, job resume, post resume" name="keywords">
-    <style type="text/css" media="print">@import "/sites/all/themes/amightyriver/print.css";</style>
-    <!--[if lt IE 7]>
-    <style type="text/css" media="all">@import "/sites/all/themes/amightyriver/fix-ie.css";</style>
-    <![endif]-->
-  </head>
-  <body class="sidebar-left">
-<!-- Layout -->
-  <div id="header-region" class="clear-block"></div>
+<script type="text/javascript">Drupal.extend({ settings: { "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip", "LegacyVersion": 0 } } });</script>
+  <script src="/sites/all/themes/zen/amightyriver_v3/search.js" type="text/javascript"></script>
+</head>
 
-    <div id="wrapper">
-    <div id="container" class="clear-block">
-      <div id="header">
-        <div class="bottomL">
-        <div class="t-edge"><div class="topL"></div><div class="topR"></div></div>
-        <div id="logo-floater">
-        <h1><a href="/" title="A Mighty River the power of millions for the benefit of one"><img src="/sites/all/themes/amightyriver/images/amightyriver_logo.gif" alt="A Mighty River" title="A Mighty River the power of millions for the benefit of one" id="logo"></a></h1><span class="monsterPartnership"><img src="/sites/all/themes/amightyriver/images/monster.gif" alt="In Partnership with Monster" title="In Partnership with Monster"></span>        </div>
-        </div>
-      </div> <!-- /header -->
-      <div id="middle">
-              <div id="sidebar-left" class="sidebar">
-          <div id="block-user-0" class="clear-block block block-user">
+<body class="not-front not-logged-in node-type-page two-sidebars page-privacy section-privacy">
 
-  <h2>Login to your Account</h2>
+  <div id="page"><div id="page-inner">
 
-  <div class="content"><form action="/privacy?destination=node%2F27" accept-charset="UTF-8" method="post" id="user-login-form">
-<div><div class="form-item">
- <label for="edit-name">E-mail: <span class="form-required" title="This field is required.">*</span></label>
- <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required">
-</div>
-<div class="form-item">
- <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
- <input type="password" name="pass" id="edit-pass" maxlength="60" size="15" class="form-text required">
-</div>
-<input type="submit" name="op" id="edit-submit" value="Log in" class="form-submit">
-<div class="item-list"><ul><li><a href="/user/register" title="Create a new user account.">Create new account</a></li><li><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div><input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block">
+    <a name="top" id="navigation-top"></a>
 
-</div></form>
-</div>
-</div>
-<div id="block-menu-2" class="clear-block block block-menu">
+    <div id="header"><div id="header-inner" class="clear-block">
 
+              <div id="logo-title">
+          <h1><a href="/" title="A Mighty River-Black Social Networking"><img src="/sites/all/themes/zen/amightyriver_v3/images/amightyriver.gif" alt="A Mighty River" title="A Mighty River-Black Social Networking" id="logo"></a></h1>        </div> <!-- /#logo-title -->
+            <div id="monster-header"><div class="monster-logo"><a href="http://www.monster.com"><img src="/sites/all/themes/zen/amightyriver_v3/images/monster_header.gif" alt="In Partnership with Monster" title="In Partnership with Monster"></a></div>
+<div><a href="javascript: void(0)" onclick="window.open('/sites/amightyriver.com/video.php', 'video', 'width=640,height=480,directories=no,location=no,menubar=no,resizable=no,scrollbars=no,status=no,toolbar=no');return false;"><img src="/sites/all/themes/zen/amightyriver_v3/images/buttons/btn_heres_how.gif" alt="Here's How to Put AMightyRiver.com to Work for You" title="Here's How to Put AMightyRiver.com to Work for You"></a></div></div>
+      
+      
+    </div></div><!-- /#header-inner, /#header -->
+    <div id="main"><div id="main-inner" class="clear-block with-navbar">
 
-  <div class="content">
-<ul class="menu">
-<li class="leaf"><a href="/">Home</a></li>
-<li class="leaf"><a href="/epostcard">Invite a friend</a></li>
-<li class="leaf"><a href="/articles">Articles</a></li>
-<li class="leaf"><a href="/contact">Contact Us</a></li>
+      <div id="content"><div id="content-inner">
 
-</ul>
-</div>
-</div>
-        </div>
-            <div class="sidebarBottom">
-      <div id="center"><div id="squeeze"><div class="right-corner"><div class="left-corner">
-        <div id="nav"><div class="navLinks"><a href="/" title="Home"><img src="/sites/all/themes/amightyriver/images/nav_home.gif" alt="Home" title="Home"></a><a href="http://jobs.amightyriver.com" title="Jobs"><img src="/sites/all/themes/amightyriver/images/nav_jobs.gif" alt="Jobs" title="Jobs"></a><a href="/networking" title="Networking"><img src="/sites/all/themes/amightyriver/images/nav_networking.gif" alt="Networking" title="Networking"></a><a href="/community" title="Community"><img src="/sites/all/themes/amightyriver/images/nav_community.gif" alt="Community" title="Community"></a></div>
-<div class="searchbox"><form action="/search/node" accept-charset="UTF-8" method="post" id="search-theme-form">
-<div><div id="search" class="container-inline"><div class="form-item">
- <input type="text" maxlength="128" name="search_theme_form_keys" id="edit-search-theme-form-keys" size="15" value="" title="Enter the terms you wish to search for." class="form-text">
-</div>
-<input type="submit" name="op" id="edit-submit" value="Search" class="form-submit">
-<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
-</div>
-</div></form>
-</div></div>
-        <div id="content">
-                    <h2>Privacy Policy</h2>                                                  
-<div id="node-27" class="node">
+        
+                  <div id="content-header">
+                                      <h1 class="title page_title">Privacy Policy</h1>
+                                              </div> <!-- /#content-header -->
+        
+        <div id="content-area">
+          <div class="node node-type-page" id="node-27"><div class="node-inner">
 
-
-
+  
+  
+  
+  
   
   <div class="content">
     <p>A Mighty River is committed to protecting the privacy of our users. In addition to providing our users numerous privacy features, A Mighty River has created this Privacy Statement in order to demonstrate in writing our firm commitment to privacy.</p>
@@ -122,30 +263,200 @@
 <li class="last service_links_yahoo"><a href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fwww.amightyriver.com%2Fprivacy&amp;t=Privacy+Policy" title="Bookmark this post on Yahoo." rel="nofollow" class="service_links_yahoo"><img src="/sites/all/modules/service_links/yahoo.png" alt="Yahoo"></a></li>
 </ul></div>  </div>
 
-  <div class="clear-block clear">
-    <div class="meta">
+      <div class="links">
+      <ul class="links inline"><li class="first last forward_links"><a href="/forward?path=node/27" title="Forward this page to a friend" class="forward-page forward_links">Email this page</a></li>
+</ul>    </div>
+  
+</div></div> <!-- /node-inner, /node -->
         </div>
 
-          <div class="links"><ul class="links inline"><li class="first last forward_links"><a href="/forward/27" title="Forward this page to a friend" class="forward-page forward_links">Email this page</a></li>
-</ul></div>
-      </div>
+        
+        
+      </div></div> <!-- /#content-inner, /#content -->
 
-</div>          <span class="clear"></span>
-                </div></div></div></div></div> <!-- /#content, /.left-corner, /.right-corner, /#squeeze, /#center -->
-      <span class="clear"></span>
-      </div>
-      <div id="footer"><a href="/about" title="About Us">About Us</a> | <a href="/contact" title="Contact Us">Contact Us</a> | <a href="/partners" title="Partners">Partners</a> |  <a href="/privacy" title="Privacy Policy">Privacy Policy</a> | <a href="/tos" title="Terms of Service">Terms of Service</a><br>
-©2008 <a href="/" title="AMightyRiver.com">AMightyRiver.com</a> All Rights Reserved
-</div>
-      </div> <!-- /middle -->
-      
-    </div> <!-- /container -->
-  </div>
-<!-- /layout -->
-  <script type="text/javascript">document.write(unescape("%3Cscript src='http://www.google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">var pageTracker = _gat._getTracker("UA-410278-20");pageTracker._initData();pageTracker._trackPageview();</script>
-<script type="text/javascript" src="/sites/all/modules/google_analytics/downloadtracker.js"></script>
+              <div id="navbar"><div id="navbar-inner">
+
+          <a name="navigation" id="navigation"></a>
+        <div id="nav"><div class="navLinks"><a href="/index" title="Home"><img src="/sites/all/themes/zen/amightyriver_v3/images/nav_home.gif" alt="A Mighty River - Black Professionals" title="Home"></a><a href="/networking" title="Networking"><img src="/sites/all/themes/zen/amightyriver_v3/images/nav_networking_on.gif" alt="Black Social Networking" title="Networking"></a><a href="http://jobs.amightyriver.com/careers/jobsearch" title="Careers"><img src="/sites/all/themes/zen/amightyriver_v3/images/nav_jobs.gif" alt="African American Career" title="Careers"></a><a href="/organizations" title="Organizations"><img src="/sites/all/themes/zen/amightyriver_v3/images/nav_community.gif" alt="Black Organizations" title="Organizations"></a></div>
+<div class="searchboxnav">
+<div class="searchboxnav_input"><input type="text" name="keys" id="keys" onkeypress="javascript:submitval(event);"> <img src="/sites/all/themes/zen/amightyriver_v3/images/buttons/btn_go.gif" alt="Search" title="Search" onclick="javascript:getUrl()"></div>
+<a href="javascript:setLink(2);" title="African American Jobs" id="link2">Jobs</a> |
+<a href="javascript:setLink(5);" title="Black Companies" id="link5">Companies</a> |
+<a href="javascript:setLink(3);" title="Black Friends" id="link3">Friends</a> |
+<a href="javascript:setLink(4);" title="Black Organizations" id="link4">Organizations</a> |
+<a href="javascript:setLink(1);" title="Content" id="link1">Content</a>
+<br>
+</div><span class="clear"></span></div>
+        </div></div> <!-- /#navbar-inner, /#navbar -->
+            <div class="banner-ros">
+    <script type="text/javascript"><!--
+      OA_show('ROS');
+    --></script></div>
+                    <div id="sidebar-left"><div id="sidebar-left-inner">
+          <div id="block-user-0" class="block block-user region-odd odd region-count-1 count-1"><div class="block-inner">
+
+      <h2 class="title">User login</h2>
   
+  <div class="content">
+    <form action="/privacy?destination=node%2F27" accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="login_form">
+<div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">E-mail: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required">
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass" maxlength="60" size="15" class="form-text required">
+</div>
+<input type="image" name="op" id="edit-submit" value="Log in" src="/sites/all/themes/zen/amightyriver_v3/images/buttons/btn_login.gif" alt="Login" class="form-submit">
+<p><a href="/user/password">Forgot Password?</a></p><input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block">
+</div>
+
+</div></form>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-2" class="block block-block region-even even region-count-2 count-2"><div class="block-inner">
+
+      <h2 class="title">Not a member?</h2>
+  
+  <div class="content">
+    <div>
+<a href="/user/register" title="Join Us"><img src="/sites/all/themes/zen/amightyriver_v3/images/buttons/btn_join.gif" alt="Join Us" title="Join Us"></a></div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-views-featured_navigator" class="block block-views region-odd odd region-count-3 count-3"><div class="block-inner">
+
+      <h2 class="title">In the Spotlight</h2>
+  
+  <div class="content">
+    <div class="view view-featured-navigator"><div class="view-content view-content-featured-navigator"><div class="item-list"><ul><li><div class="featured-navigator">
+<div class="view-field view-data-field-picture-fid">
+  <img src="/files/pictures/picture-11.jpg" alt="Steve Pemberton" title="Steve Pemberton"></div>
+<div class="view-field view-data-body">
+  <a href="/users/steve-pemberton" title="Let Steve Pemberton help you connect to others!">Let Steve Pemberton help you connect to others!</a><span class="clear"></span>
+</div>
+<div class="view-field view-data-more">
+  <p><a href="/navigators" title="Other Network Navigators">Meet other navigators</a>.</p>
+</div>
+</div>
+
+</li></ul></div></div></div>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-menu-186" class="block block-menu region-even even region-count-4 count-4"><div class="block-inner">
+
+      <h2 class="title">Quick Clicks</h2>
+  
+  <div class="content">
+    
+<ul class="menu">
+<li class="leaf"><a href="/forum">Go to Forums</a></li>
+<li class="leaf"><a href="/og">Networking Gathering</a></li>
+<li class="leaf"><a href="/blog">Blog Central</a></li>
+<li class="leaf"><a href="/event">Coming Events</a></li>
+<li class="leaf"><a href="/business">Business Directory</a></li>
+<li class="leaf"><a href="/articles">Articles &amp; Information</a></li>
+
+</ul>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-8" class="block block-block region-odd odd region-count-5 count-5"><div class="block-inner">
+
+  
+  <div class="content">
+    <div style="padding-right:5px;float:left;">
+<a href="/contact/ask_annie" title="Ask Annie"><img src="/sites/all/themes/zen/amightyriver_v3/images/ask_annie.jpg" alt="Ask Annie" title="Ask Annie"></a></div>
+<div>Need Help?<br>
+Ask Annie!<br>
+<a href="/contact/ask_annie" title="Ask Annie your question">CLICK HERE</a><span class="clear"></span></div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-adicio_accounts-ajax_API_feed" class="block block-adicio_accounts region-even even region-count-6 count-6"><div class="block-inner">
+
+      <h2 class="title">Featured Jobs</h2>
+  
+  <div class="content">
+    <ul class="no_bullets"><li><a href="http://jobs.amightyriver.com/careers/jobsearch/detail/jobId/14111759/viewType/rss">Service Associates/Cashiers</a><br>Orlando, Florida Wal-Mart </li><li><a href="http://jobs.amightyriver.com/careers/jobsearch/detail/jobId/14111763/viewType/rss">Service Associates/Cashiers</a><br>Atlanta, Georgia Wal-Mart </li><li><a href="http://jobs.amightyriver.com/careers/jobsearch/detail/jobId/14111754/viewType/rss">Service Associates/Cashiers</a><br>Sacramento, California Wal-Mart </li></ul>   </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-4" class="block block-block region-odd odd region-count-7 count-7"><div class="block-inner">
+
+  
+  <div class="content">
+    <a href="http://www.monster.com" target="_blank" title="In Partnership with Monster"><img src="/sites/all/themes/zen/amightyriver_v3/images/monster_sidebar.gif" alt="In partnership with Monster" title="In Partnership with Monster"></a>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+        </div></div> <!-- /#sidebar-left-inner, /#sidebar-left -->
+                    <div id="sidebar-right"><div id="sidebar-right-inner"><div id="block-openads-0" class="block block-openads region-odd even region-count-1 count-8"><div class="block-inner">
+
+      <h2 class="title">Employer of the Month</h2>
+  
+  <div class="content">
+    
+    <script type="text/javascript"><!--
+      OA_show('EOM');
+    --></script>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-openads-3" class="block block-openads region-even odd region-count-2 count-9"><div class="block-inner">
+
+  
+  <div class="content">
+    
+    <script type="text/javascript"><!--
+      OA_show('Skyscraper');
+    --></script>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-10" class="block block-block region-odd even region-count-3 count-10"><div class="block-inner">
+
+      <h2 class="title">Find Your Next Gig</h2>
+  
+  <div class="content">
+    <div class="banner-114">
+    <script type="text/javascript"><!--
+      OA_show('Industry Leader');
+    --></script></div><div class="banner-114">
+    <script type="text/javascript"><!--
+      OA_show('Industry Leader2');
+    --></script></div><div class="banner-114">
+    <script type="text/javascript"><!--
+      OA_show('Industry Leader3');
+    --></script></div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+        </div></div> <!-- /#sidebar-right-inner, /#sidebar-right -->
+      
+    </div></div> <!-- /#main-inner, /#main -->
+
+    <div id="footer"><div id="footer-inner">
+
+      <div id="footer-message"><a href="/about" title="About A Mighty River">About Us</a> | <a href="/contact" title="Contact A Mighty River">Contact Us</a> | <a href="/partners" title="Partners">Partners</a> |  <a href="/privacy" title="Privacy Policy">Privacy Policy</a> | <a href="/tos" title="Terms of Service">Terms of Service</a> | <a href="/resources" title="Resources">Resources</a><br>
+©2008 iHispano.com, LLC All Rights Reserved
+</div>
+
+    </div></div> <!-- /#footer-inner, /#footer -->
+
+    
+    <script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js"></script>
+<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">var pageTracker = _gat._getTracker("UA-410278-20");pageTracker._trackPageview();</script>
+
+  </div></div> <!-- /#page-inner, /#page -->
+
 
 
 </body></html>
