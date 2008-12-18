@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the backcountryedge.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509135244id_/http%3A//www.backcountryedge.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backcountryedge.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218181949id_/http%3A//www.backcountryedge.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Backcountry Edge Privacy Policy
-
- Awesome Gear, Amazing Service  -  Free Shipping on Orders Over $50
 
 ## Information Collection & Use 
 
@@ -71,3 +69,6 @@ We reserve the right to modify this privacy statement at any time, so please rev
 #### Contact Us 
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at: [privacy@backcountryedge.com](mailto:privacy@backcountryedge.com)
+
+  
+
