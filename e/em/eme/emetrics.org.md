@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emetrics.org privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615142431id_/http%3A//www.emetrics.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emetrics.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218023933id_/http%3A//www.emetrics.org/privacy.php) for the most accurate reproduction.*
 
 # eMetrics Marketing Optimization Summit, International Web Analytics Conferences
 
@@ -23,7 +23,7 @@ Aggregate Information (non-personally identifiable)
 We share aggregated demographic information about our user base with our partners and advertisers. This information does not identify individual users. We do not link aggregate user data with personally identifiable information. 
 
 **Personally identifiable information:**  
-We only occasion we share personally identifiable information with Third Parties is when particular event attendee lists are made available to other attendees and sponsors of the same event. 
+We only share personally identifiable information with Third Parties when particular event attendee lists are made available to other attendees and sponsors of the same event. 
 
 **Log Files**  
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
