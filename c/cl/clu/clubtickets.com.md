@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubtickets.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225215135id_/http%3A//www.clubtickets.com/info/legal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubtickets.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218142205id_/http%3A//www.clubtickets.com/info/legal/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy : Tickets from Clubtickets.com
 
