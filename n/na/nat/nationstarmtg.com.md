@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationstarmtg.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625015640id_/http%3A//www.nationstarmtg.com/Privacy.aspx%3Fcm_re%3D1%2AFtr%2APrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationstarmtg.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218141230id_/http%3A//www.nationstarmtg.com/Privacy.aspx%3Fcm_re%3D1%2AFtr%2APrivacy) for the most accurate reproduction.*
 
 # Nationstar Mortgage – Privacy Policy
 
@@ -8,7 +8,7 @@ Your online session is about to be timed out. As a security precaution, sessions
 
 [](https://web.archive.org/Default.aspx?cm_re=1*TpNv*Logo)
 
-If you do not wish to receive future solicitation from Nationstar Mortgage, [click here](https://web.archive.org/web/20080625015640id_/http%3A//www.nationstarmtg.com/OptOut.aspx).
+If you do not wish to receive future solicitation from Nationstar Mortgage, [click here](https://web.archive.org/web/20081218141230id_/http%3A//www.nationstarmtg.com/OptOut.aspx).
 
 At Nationstar Mortgage, customer service, trust and confidence is a high priority. That's why we welcome this opportunity to describe our privacy policies, the steps we take to protect and maintain your information and to let you know how you can choose how your customer information may be shared.   
   
@@ -99,7 +99,7 @@ If you pay off your account with Nationstar Mortgage, your account is later sold
   
 This policy is provided by Nationstar Mortgage and its subsidiaries.
 
-You may [opt out](https://web.archive.org/web/20080625015640id_/http%3A//www.nationstarmtg.com/OptOut.aspx) as described in this Privacy Policy by calling us toll-free at 
+You may [opt out](https://web.archive.org/web/20081218141230id_/http%3A//www.nationstarmtg.com/OptOut.aspx) as described in this Privacy Policy by calling us toll-free at 
 
 1-888-480-2432
 
