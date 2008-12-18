@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the n2growth.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513065345id_/http%3A//www.n2growth.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n2growth.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218152736id_/http%3A//www.n2growth.com/privacy.php) for the most accurate reproduction.*
 
 # Strategic Growth Consulting Services,Executive Coaching Services,Leadership Development Services,CEO Coaching, Executive Coaching, Branding and Strategic Growth Services
 
