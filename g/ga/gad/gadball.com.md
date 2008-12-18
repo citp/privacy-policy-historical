@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadball.com privacy policy that was archived on 2008-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080226130954id_/http%3A//www.gadball.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadball.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218074436id_/http%3A//www.gadball.com/Privacy.aspx) for the most accurate reproduction.*
 
 # GadBall : Privacy Statement
 
@@ -11,7 +11,7 @@
 
 GadBall Users can view the profiles of other Users, communicate with friends (both new and old) on the service, share photos, post messages and comments, and describe their professional, personal, and career interests. To enrich and facilitate the experiences of our Users we request and display some personal information to other Users and visitors of GadBall, which allows Users to identify each other and expand their networks. GadBall Users can edit their User profile information at any time and control which internet employment sites receive their information, and how other GadBall Users and GadBall communicates with them. 
 
-Upholding the privacy of our Users is paramount to GadBall. If you have any questions concerning this privacy policy, please [contact us](https://web.archive.org/web/20080226130954id_/http%3A//www.gadball.com/ContactUs.aspx?Subject=Privacy%20Policy "Contact Us"). 
+Upholding the privacy of our Users is paramount to GadBall. If you have any questions concerning this privacy policy, please [contact us](https://web.archive.org/web/20081218074436id_/http%3A//www.gadball.com/ContactUs.aspx?Subject=Privacy%20Policy "Contact Us"). 
 
 **Information Collection and Use by GadBall.com**   
 GadBall collects User submitted information such as name, eMail address, and age to authenticate Users and to send notifications to Users relating to the GadBall service. GadBall also collects other profile data including but not limited to: personal interests, gender, age, work history, education and occupation in order to assist Users in finding and communicating with each other. 
@@ -60,4 +60,4 @@ GadBall Collects Except as described above, GadBall will not disclose personal i
 **From time to time we may make changes to our privacy policy. If we make changes, we will post them on our site to make Users aware of what the changes are so Users will always be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any minor changes to the policy when she or he uses the site after those changes have been posted. If, however, we are going to use Users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify Users by posting a notice on our Web site for 30 days. 
 
 **Contacting the Web Site**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20080226130954id_/http%3A//www.gadball.com/ContactUs.aspx?Subject=Privacy%20Policy "Contact Us") (1400 Quail Street, Suite 260, Newport Beach, CA 92660). Thank you for your interest in how we address Privacy for our Users; we hope you are comfortable joining us and that you benefit from the service(s) we provide – Welcome to GadBall! 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20081218074436id_/http%3A//www.gadball.com/ContactUs.aspx?Subject=Privacy%20Policy "Contact Us") (1400 Quail Street, Suite 260, Newport Beach, CA 92660). Thank you for your interest in how we address Privacy for our Users; we hope you are comfortable joining us and that you benefit from the service(s) we provide – Welcome to GadBall! 
