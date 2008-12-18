@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the populate.net privacy policy that was archived on 2008-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080420032235id_/http%3A//www.populate.net/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the populate.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218202745id_/http%3A//www.populate.net/Privacy.html) for the most accurate reproduction.*
 
-# Free Article Directory - Privacy Policy - Populate.NET
+# Populate.NET Article Directory
 
 ## Populate.NET Privacy Policy Overview
 
