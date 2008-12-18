@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usconcealedcarry.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509090343id_/http%3A//www.usconcealedcarry.com/public/department12.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usconcealedcarry.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218163010id_/http%3A//www.usconcealedcarry.com/public/department12.cfm) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
