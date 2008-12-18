@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the econocom.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012232216id_/http%3A//www.econocom.com/emc.asp%3FpageId%3D2037) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the econocom.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218111646id_/http%3A//www.econocom.com/emc.asp%3FpageId%3D2037) for the most accurate reproduction.*
 
-# Econocom
+# Econocom - Mobility on demand
 
 Copyright © Econocom - All Rights Reserved. Information is subject to change without notice. Econocom assumes no responsibility for errors that appear on this website. Econocom is a registered trademark of Econocom Group. All other trademarks and registered trademarks are the property of their respective companies.
 
@@ -71,5 +71,9 @@ The Econocom website contains links to other websites of product and service ven
 AX069602 © Jim Craigmyle/Corbis  
 42-15211837 © LWA-Dann Tardif/zefa/Corbis  
 David Lees / Nick Clements / Jon Feingersh / Getty Images
+
+**Values Econocom Group**
+
+JL DERU Viaduc de Millau, architecte : Sir Norman Foster, maître de l’ouvrage : Compagnie Eiffage du Viaduc de Millau, études tablier et lançage : bureau Greisch ; CORBIS UK LTD / Jupiterimages ; Riser, UpperCut Images, Photodisc / Gettyimages
 
 top  
