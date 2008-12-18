@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cognos.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608042625id_/http%3A//www.cognos.com/company/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cognos.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218091015id_/http%3A//www.cognos.com/company/legal/privacy.html) for the most accurate reproduction.*
 
 # Cognos Company: Legal Notices - Privacy Statement
 
@@ -60,7 +60,7 @@ If you are dissatisfied with the Cognos site, by all means contact us at [cogweb
 
 This Privacy Statement is made in contemplation of the requirements of Canadian, United States and the European Union laws.
 
-[Read the Australian Privacy Policy ](https://web.archive.org/web/20080608042625id_/http%3A//www.cognos.com/company/legal/privacy_au.html)
+[Read the Australian Privacy Policy ](https://web.archive.org/web/20081218091015id_/http%3A//www.cognos.com/company/legal/privacy_au.html)
 
 Cognos reserves the right to modify this Privacy Statement at any time. Use of the Cognos Web Site is subject to the Terms of Use.
 
