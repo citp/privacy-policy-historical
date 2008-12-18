@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleink.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510015142id_/http%3A//www.articleink.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleink.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218224358id_/http%3A//www.articleink.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Article Directory | Submit Articles Free | Privacy Policy - Article Ink
 
