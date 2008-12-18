@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charbroil.com privacy policy that was archived on 2008-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080311082504id_/http%3A//www.charbroil.com/Consumer/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charbroil.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218101211id_/http%3A//www.charbroil.com/Consumer/Privacy.aspx) for the most accurate reproduction.*
 
 # Char-Broil | Inviting Everybody Outside Since 1948
 
@@ -13,4 +13,7 @@ Information collected by our site is used for internal review only and not share
 W.C. Bradley Co. may contain "links" to other sites, and we make every effort to only link to sites that share our high standards and respect for privacy. However, we are not responsible for the content or the privacy practices employed by other sites.
 
 The Char-Broil web site is built, hosted and maintained by W.C. Bradley Co., PO Box 140, Columbus, GA 31902-0140.  
+
+
+  
 
