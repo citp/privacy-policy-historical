@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdrinc.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509194205id_/http%3A//www.hdrinc.com/5/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdrinc.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218031601id_/http%3A//www.hdrinc.com/5/default.aspx) for the most accurate reproduction.*
 
 # Terms/Privacy
 
@@ -38,6 +38,8 @@ The materials on this Web site are provided by HDR, Inc. for informational purpo
   * State of Iowa Laboratories Facility, Ankeny, Iowa © 2006 Mark Ballogg: Steinkamp/Ballogg Photography, Chicago
 
   * Golden Gate Bridge, San Francisco, California, © 2005 Photography by [Scott Highton](http://www.highton.com/ "Opens in New Window")
+
+  * Saint Alphonsus Regional Medical Center, Boise, Idaho, @ Vince Fox
 
 
 
