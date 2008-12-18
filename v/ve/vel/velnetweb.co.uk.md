@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the velnetweb.co.uk privacy policy that was archived on 2008-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080302044539id_/http%3A//www.velnetweb.co.uk/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velnetweb.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218091038id_/http%3A//www.velnetweb.co.uk/terms.php) for the most accurate reproduction.*
 
 # Velnetweb - Terms & Conditions
 
@@ -63,4 +63,4 @@ Use of the Velnetweb.co.uk website and services indicates your consent to the co
 
 Any changes to this Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval.
 
-Copyright ©2007 velnetweb.co.uk - VelnetWeb Internet services, London N4. 
+Copyright ©2008 velnetweb.co.uk - VelnetWeb Internet services, London N4. 
