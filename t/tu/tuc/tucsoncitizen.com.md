@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the tucsoncitizen.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623014021id_/http%3A//www.tucsoncitizen.com/misc/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tucsoncitizen.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218085046id_/http%3A//www.tucsoncitizen.com/misc/privacypolicy) for the most accurate reproduction.*
 
-# www.tucsoncitizen.com ®
-
-  
-
+# Tucson Citizen
 
 **Effective Date: May 31, 2007**
 
@@ -35,5 +32,3 @@ This children's privacy statement explains our practices with respect to the onl
 If you have subscribed to one or more of our email newsletters, you may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by visiting [www.tucson.com/registration](http://www.tucson.com/registration)
 
  **Questions Regarding Privacy** /p> If you have any questions about this Privacy Policy, our privacy practices, or your dealings with us, you can contact: Online Privacy Coordinator Newspaper Division 7950 Jones Branch Drive McLean, VA 22107 
-
-| 
