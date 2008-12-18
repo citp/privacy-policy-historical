@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejobspider.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617124901id_/http%3A//www.thejobspider.com/job/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejobspider.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218084957id_/http%3A//www.thejobspider.com/job/privacy-policy.asp) for the most accurate reproduction.*
 
 # JobSpider provides hot job searches, job listings, free resume postings
 
