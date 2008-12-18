@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the noheat.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221163951id_/http%3A//www.noheat.com/advice-we-answer-your-questions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noheat.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218122816id_/http%3A//www.noheat.com/advice-we-answer-your-questions) for the most accurate reproduction.*
 
 # Privacy Policy
-
-( **1** votes, average: **5** out of 5)  
-
-
- Loading ...
 
 ### Privacy
 
