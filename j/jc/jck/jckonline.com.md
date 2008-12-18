@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jckonline.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608130256id_/http%3A//www.jckonline.com/info/CA6380736.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jckonline.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218144353id_/http%3A//www.jckonline.com/info/CA6380736.html) for the most accurate reproduction.*
 
 # Privacy Policy - JCK-Jewelers Circular Keystone
 
