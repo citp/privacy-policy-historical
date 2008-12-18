@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfnmdogging.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608173754id_/http%3A//www.cfnmdogging.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfnmdogging.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218233044id_/http%3A//www.cfnmdogging.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
