@@ -1,9 +1,32 @@
-> *The following text is extracted and transformed from the hostsearch.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509161219id_/http%3A//www.hostsearch.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostsearch.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218043410id_/http%3A//www.hostsearch.com/policy.asp) for the most accurate reproduction.*
 
 # Web Hosting Search & Web Host Directory - HostSearch.com
 
+|   
+---  
+|  | [**PronetHosting $4.95**](http://www.hostsearch.com/adtop/go/redirect.asp?D=12/17/2008&File=6535&timestamp=223402&LinkId=)  
+ **100GB** Space/ **1000GB** Bandwidth Free Domain芳ree Setup   
+---  
+[**Hostway Hosting**](http://www.hostsearch.com/adtop/go/redirect.asp?D=12/17/2008&File=6429&timestamp=223402&LinkId=)  
+Solutions for every size business. **Free Consultation**  
+[**VERIO VPS**](http://www.hostsearch.com/adtop/go/redirect.asp?D=12/17/2008&File=6509&timestamp=223402&LinkId=)  
+All-inclusive, no hidden fees, 30-day guarantee!   
+[**Earn residual income**](http://www.hostsearch.com/adtop/go/redirect.asp?D=12/17/2008&File=6479&timestamp=223402&LinkId=)  
+Join now & get 120% commission from **Referback!**  
+[**LYPHA's Amazing Deal**](http://www.hostsearch.com/adtop/go/redirect.asp?D=12/17/2008&File=6366&timestamp=223402&LinkId=)  
+250GB Web Space, 6TB Xfer, UNLIMITED domains!   
+[**HostGator - $4.95/mo**](http://www.hostsearch.com/adtop/go/redirect.asp?D=12/17/2008&File=6451&timestamp=223402&LinkId=)  
+350GB Disk Space 3000GB Bandwidth   
+[**HostRocket - $4.99!**](http://www.hostsearch.com/adtop/go/redirect.asp?D=12/17/2008&File=6317&timestamp=223402&LinkId=)  
+1000GB Disk Space Unlim. Bandwidth & **6 Months Free!**  
+[**HostForWeb - $4.95!**](http://www.hostsearch.com/adtop/go/redirect.asp?D=12/17/2008&File=6482&timestamp=223402&LinkId=)  
+ **100% Satisfaction** Or Your Money Back!   
+[**eBoundhost.com**](http://www.hostsearch.com/adtop/go/redirect.asp?D=12/17/2008&File=6298&timestamp=223402&LinkId=)  
+24/7 Supp, **UNLIMITED** domains, 300G HD, 3,000G BW   
+[**Cheap Reseller Host**](http://www.hostsearch.com/adtop/go/redirect.asp?D=12/17/2008&File=6562&timestamp=223402&LinkId=)  
+ **5GB** HDD, **75GB** bw,24/7 support, **$1** for the first month   
   
-|  |   
+|   
 ---  
 **HostSearch.com Privacy Policy**  
 ---  
