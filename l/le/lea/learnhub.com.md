@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the learnhub.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509034352id_/http%3A//learnhub.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnhub.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218174233id_/http%3A//learnhub.com/about/privacy-policy) for the most accurate reproduction.*
 
-# LearnHub
+# Privacy Policy — LearnHub
 
-This Privacy Policy describes the information, as part of the normal operation of our services, we collect from you and what may happen to that information. 
+This Privacy Policy describes the information, as part of the normal operation of our services, we collect from you and what may happen to that information.
 
-Your privacy is very important to us. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. Please read this privacy policy to learn more about the ways in which we use and protect your personal information. 
+Your privacy is very important to us. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. Please read this privacy policy to learn more about the ways in which we use and protect your personal information.
 
 By accepting the Privacy Policy and [Service Agreement](http://learnhub.com/service_agreement) in registration or by visiting and using the Site, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the [LearnHub Service Agreement](http://learnhub.com/service_agreement).
-
-## Overview
 
 ## A Special Note About Children
 
@@ -20,11 +18,11 @@ Our primary purpose in collecting personal information from you is to provide yo
 
 In general, you can browse the Site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to use our Site, we may require you to provide contact and identity information, billing information, and other personal information as indicated on the forms throughout the Site. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular service or feature.
 
-We use your credit card information to verify the accuracy of your name, address, and other information, as well as to bill you for your use of our services. In addition, under some circumstances, we may ask you for your credit card information or other additional financial information to validate your identity. We do not store credit card information. 
+We use your credit card information to verify the accuracy of your name, address, and other information, as well as to bill you for your use of our services. In addition, under some circumstances, we may ask you for your credit card information or other additional financial information to validate your identity. We do not store credit card information.
 
 We automatically track certain information about you based upon your behaviour on our Site. We use this information to do internal research on our users' demographics, interests, and behaviour to better understand, protect and serve you and our community. This information may include the URL that you just came from (whether this URL is on our Site or not), which URL you next go to (whether this URL is on our Site or not), your computer browser information, and your IP address.
 
-"Cookies" are small files placed on your hard drive that assist us in providing our services. At present we only use cookies to allow you to enter your password less frequently during a session, but in the future we may also use data collection devices, including cookies, on certain pages of the Site to help analyze our web page flow, measure promotional effectiveness, and promote trust and safety, to offer certain features that are only available through the use of a cookie and to allow us to provide information that is targeted to your interests. 
+"Cookies" are small files placed on your hard drive that assist us in providing our services. At present we only use cookies to allow you to enter your password less frequently during a session, but in the future we may also use data collection devices, including cookies, on certain pages of the Site to help analyze our web page flow, measure promotional effectiveness, and promote trust and safety, to offer certain features that are only available through the use of a cookie and to allow us to provide information that is targeted to your interests.
 
 You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on our Site and you may be required to re-enter your password more frequently during a session.
 
@@ -54,7 +52,7 @@ Educational Institutions. We periodically operate programs to collect and provid
 
 ## Legal Requests.
 
-LearnHub cooperates with law enforcement inquires, as well as other third parties, to enforce laws such as intellectual property laws, fraud and other laws, and to help protect you and the LearnHub community from others. Therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can (and you authorize us to) disclose your name, city, province, telephone number, email address, UserID history, fraud complaints, and bidding and listing history without a subpoena. However, in an effort to balance your right to privacy and the ability to keep our community functioning properly, we will not disclose additional information to law enforcement or other government officials without a subpoena, court order or similar legal procedure, except when the additional disclosure of information is necessary to prevent imminent physical harm or financial loss. 
+LearnHub cooperates with law enforcement inquires, as well as other third parties, to enforce laws such as intellectual property laws, fraud and other laws, and to help protect you and the LearnHub community from others. Therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can (and you authorize us to) disclose your name, city, province, telephone number, email address, UserID history, fraud complaints, and bidding and listing history without a subpoena. However, in an effort to balance your right to privacy and the ability to keep our community functioning properly, we will not disclose additional information to law enforcement or other government officials without a subpoena, court order or similar legal procedure, except when the additional disclosure of information is necessary to prevent imminent physical harm or financial loss.
 
 Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose personal information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the Site. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
 
