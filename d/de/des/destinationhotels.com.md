@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the destinationhotels.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514222245id_/http%3A//www.destinationhotels.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationhotels.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218183629id_/http%3A//www.destinationhotels.com/privacy.php) for the most accurate reproduction.*
 
-# Destination Hotels & Resorts
+# Family Travel Packages | Destination Hotels & Resorts - Privacy | Luxury Destinations Resorts
 
 Destination Hotels & Resorts has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: Destinationhotels.com.
 
