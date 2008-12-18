@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the autopartsway.ca privacy policy that was archived on 2008-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080430081024id_/http%3A//www.autopartsway.ca/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the autopartsway.ca privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218221758id_/http%3A//www.autopartsway.ca/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Auto Parts at Auto Parts Way - Privacy Policy</title>
@@ -26,7 +26,73 @@ function clearDefault(el) {
 	function openSSL() { 
 window.open("http://www.trustlogo.com/ttb_searcher/trustlogo?v_querytype=W&v_shortname=COMPE&v_search=http://www.AutoPartsWAY.ca/ssl_site_seal.php&x=6&y=5","ccid","height=500,width=410,location=no,status=no,toolbar=no,menubar=no,scrollbars=no,resizable=no","f");
 	}
+</script><script language="JavaScript">
+<!--
+
+
+
+function formCheck(formobj){
+	// Enter name of mandatory fields
+	var fieldRequired = Array("partnumber");
+	// Enter field description to appear in the dialog box
+	var fieldDescription = Array("Part Number");
+	// dialog message
+	var alertMsg = "You must enter a";
+	
+	var l_Msg = alertMsg.length;
+	
+	for (var i = 0; i < fieldRequired.length; i++){
+		var obj = formobj.elements[fieldRequired[i]];
+		if (obj){
+			switch(obj.type){
+			case "select-one":
+				if (obj.selectedIndex == -1 || obj.options[obj.selectedIndex].text == ""){
+					alertMsg += " - " + fieldDescription[i] + "\n";
+				}
+				break;
+			case "select-multiple":
+				if (obj.selectedIndex == -1){
+					alertMsg += "  " + fieldDescription[i] + "\n";
+				}
+				break;
+			case "text":
+			case "textarea":
+				if (obj.value == "" || obj.value == null){
+					alertMsg += " " + fieldDescription[i] + "\n";
+				}
+				break;
+			default:
+			}
+			if (obj.type == undefined){
+				var blnchecked = false;
+				for (var j = 0; j < obj.length; j++){
+					if (obj[j].checked){
+						blnchecked = true;
+					}
+				}
+				if (!blnchecked){
+					alertMsg += " - " + fieldDescription[i] + "\n";
+				}
+			}
+		}
+	}
+
+	if (alertMsg.length == l_Msg){
+		return true;
+	}else{
+		alert(alertMsg);
+		return false;
+	}
+}
+// -->
+</script><script language="JavaScript" src="http://www.completessl.com/js/trustlogo.js" type="text/javascript">
 </script><link href="/includes/ResStyleL.css" type="text/css" rel="stylesheet"><link href="/includes/style.css" type="text/css" rel="stylesheet"></head>
+
+
+
+
+
+
 
 
 
@@ -66,6 +132,13 @@ window.open("http://www.trustlogo.com/ttb_searcher/trustlogo?v_querytype=W&v_sho
   
   
   
+   
+
+   <b>Toll Free Sales: 866.530.5789</b>
+
+
+
+
   
    <br>
    
@@ -93,8 +166,10 @@ window.open("http://www.trustlogo.com/ttb_searcher/trustlogo?v_querytype=W&v_sho
 		 	<img src="/images/pageleft.gif" width="10" height="1" border="0" align="MIDDLE"></td>
         <td align="left" class="white" width="200">
 		
+			
 					Welcome Guest!
 			
+		
 		</td>
         <td align="center">
 		<img src="/images/freeshipnew75.gif" title="Auto Parts at Auto Parts WAY.  Free Shipping on Auto Parts." alt="Free Shipping on Auto Parts at Auto Parts WAY" width="353" height="27"></td>
@@ -106,9 +181,32 @@ window.open("http://www.trustlogo.com/ttb_searcher/trustlogo?v_querytype=W&v_sho
         <td width="72" nowrap="nowrap">
 		
 		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="whitesmall">
 0 Item(s)</div>
 <div class="whitesmall">$0.00 Total</div>
+
+
+
 
 
 
@@ -121,6 +219,26 @@ window.open("http://www.trustlogo.com/ttb_searcher/trustlogo?v_querytype=W&v_sho
 
 
 
+
+	
+	
+	
+	
+		
+		
+			
+			
+				
+				
+					
+				
+
+
+
+
+
+
+	
 <table width="1000" border="0" align="CENTER" cellpadding="0" cellspacing="0" height="44" bgcolor="#B11116">
 <tbody><tr>
 <td width="10" height="10" align="CENTER" valign="TOP" background="/images/pageleftr.gif"><img src="/images/pageleftr.gif" width="10" height="1" border="0" align="MIDDLE"></td>
@@ -135,6 +253,10 @@ window.open("http://www.trustlogo.com/ttb_searcher/trustlogo?v_querytype=W&v_sho
 </tr>
 </tbody></table>
 	
+
+
+
+
 <table width="1000" border="0" align="CENTER" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
 
 	<tbody><tr bgcolor="#2175bc">
@@ -146,17 +268,18 @@ window.open("http://www.trustlogo.com/ttb_searcher/trustlogo?v_querytype=W&v_sho
 	  
 		
 
-<form name="searchbypart" method="post" action="http://www.autopartsway.ca/getpart.cfm">
+<form name="searchbypart" method="post" action="http://www.autopartsway.ca/getpart.cfm" onsubmit="return formCheck(this);">
 <div id="button" align="left">
 	<ul>
 				<li class="sidetop-active">Search by Part #</li>
 				<li class="PartNumSearch">
 				<table>
 					<tbody><tr>
+					
+						<td><input type="text" name="partnumber" style="width: 20mm" value="Part #" onfocus="this.value=''"></td>
+						<td><input type="image" src="/images/REDgo.gif"></td>
 						
-						<td><input type="text" name="partnumber" style="width: 20mm"></td>
-						<td><input type="image" src="/images/redgo.gif"></td>
-						
+                          
 						<input type="HIDDEN" name="type" value="1">
                         
 					</tr>
@@ -166,13 +289,13 @@ window.open("http://www.trustlogo.com/ttb_searcher/trustlogo?v_querytype=W&v_sho
 			
 				<li class="sidetop-active">Our Store</li>
 				
-				<li class="button-active"><a href="http://www.autopartsway.ca/autoparts/make.cfm">Replacement Auto Parts</a></li>
-				<li class="button-active"><a href="http://www.autopartsway.ca/acc">Performance/Accessories</a></li>
+				<li class="button-active"><a href="http://www.autopartsway.ca/autoparts2">Replacement Auto Parts</a></li>
+				<li class="button-active"><a href="http://www.autopartsway.ca/acp">Performance/Accessories</a></li>
 				
 				<li class="button-active"><a href="http://www.autopartsway.ca/partners/tireswheels">Tires &amp; Wheels</a></li>
                 <li class="button-active"><a href="http://www.autopartsway.ca/partners/Insurance">Auto Insurance</a></li>
                 <li class="button-active"><a href="http://www.autopartsway.ca/Partners/Repair/">Auto Repair Manuals</a></li>
-				<li class="button-active"><a href="http://www.autopartsway.ca/MobileElectronics">Mobile Electronics</a></li>
+			
 				<li class="button-active"><a href="http://www.autopartsway.ca/GiftCertificates">Gift Certificates</a></li>
 			
 				<li class="sidetop">Do-it-Yourself Pages</li>
@@ -185,6 +308,10 @@ window.open("http://www.trustlogo.com/ttb_searcher/trustlogo?v_querytype=W&v_sho
 					
 				<li class="button"><a href="http://www.autopartsway.ca/Affiliates/ServiceProfessionals/">Service Professionals</a></li>
 	
+	
+	
+				
+			
 	</ul>
 </div>
 </form>
@@ -209,6 +336,9 @@ window.open("http://www.trustlogo.com/ttb_searcher/trustlogo?v_querytype=W&v_sho
 </script><script type="text/javascript" src="http://s7.addthis.com/js/addthis_widget.php?v=12"></script>
 <!-- AddThis Bookmark Button END -->
 
+
+
+
 </td></tr>
 
 <tr><td>
@@ -223,7 +353,9 @@ window.open("http://www.trustlogo.com/ttb_searcher/trustlogo?v_querytype=W&v_sho
        <br><br>
        <i>"Autopartsway customer service is great. They are answering to your question fast and with everything you need to know. Very fast service and delevery and quality products. The most important thing...SUPER GOOD PRICE!! Better than autopartsonline where I was purchasing my parts before."</i> - Frederick P.
 
-       
+  <br><br>
+  
+  <i>"I am very impressed with your service, pricing and delivery. I have been an auto tech for 25 years and I can definitely say I will recommend and use you in the future to buy auto parts."</i> - Bob Chambers   
        
 </div>
 
@@ -248,7 +380,9 @@ window.open("http://www.trustlogo.com/ttb_searcher/trustlogo?v_querytype=W&v_sho
 			
 
 
-<div id="cixGcN" style="z-index:100;position:absolute"></div><div id="scxGcN" style="display:inline"></div><div id="sdxGcN" style="display:none"><script type="text/javascript" src="https://secure.providesupport.com/image/js/apwc/safe-standard.js?ps_h=xGcN&amp;ps_t=1580477833369&amp;online-image=http%3A//www.autopartsway.com/images/livesupportonline.gif&amp;offline-image=http%3A//www.autopartsway.com/images/livesupportoffline.gif"></script></div><script type="text/javascript">var sexGcN=document.createElement("script");sexGcN.type="text/javascript";var sexGcNs=(location.protocol.indexOf("https")==0?"https://secure.providesupport.com/image":"http://image.providesupport.com")+"/js/apwc/safe-standard.js?ps_h=xGcN\u0026ps_t="+new Date().getTime()+"\u0026online-image=http%3A//www.autopartsway.com/images/livesupportonline.gif\u0026offline-image=http%3A//www.autopartsway.com/images/livesupportoffline.gif";setTimeout("sexGcN.src=sexGcNs;document.getElementById('sdxGcN').appendChild(sexGcN)",1)</script>
+<div id="cixGcN" style="z-index:100;position:absolute"></div><div id="scxGcN" style="display:inline"></div><div id="sdxGcN" style="display:none"><script type="text/javascript" src="https://secure.providesupport.com/image/js/apwc/safe-standard.js?ps_h=xGcN&amp;ps_t=1580477840057&amp;online-image=http%3A//www.autopartsway.com/images/livesupportonline.gif&amp;offline-image=http%3A//www.autopartsway.com/images/livesupportoffline.gif"></script></div><script type="text/javascript">var sexGcN=document.createElement("script");sexGcN.type="text/javascript";var sexGcNs=(location.protocol.indexOf("https")==0?"https://secure.providesupport.com/image":"http://image.providesupport.com")+"/js/apwc/safe-standard.js?ps_h=xGcN\u0026ps_t="+new Date().getTime()+"\u0026online-image=http%3A//www.autopartsway.com/images/livesupportonline.gif\u0026offline-image=http%3A//www.autopartsway.com/images/livesupportoffline.gif";setTimeout("sexGcN.src=sexGcNs;document.getElementById('sdxGcN').appendChild(sexGcN)",1)</script>
+
+
 	
 
 			</td>
@@ -357,14 +491,11 @@ window.open("http://www.trustlogo.com/ttb_searcher/trustlogo?v_querytype=W&v_sho
 		<td align="center" class="maintext">
 	
 			<a href="http://www.autopartsway.ca/index.cfm">Home</a>&nbsp;|&nbsp;
-			<a href="http://www.autopartsway.ca/autoparts">Replacement&nbsp;Auto&nbsp;Parts</a>&nbsp;|&nbsp;
+			<a href="http://www.autopartsway.ca/autoparts2">Replacement&nbsp;Auto&nbsp;Parts</a>&nbsp;|&nbsp;
 	
-			<a href="http://www.autopartsway.ca/acc/">Performance&nbsp;/&nbsp;Accessories&nbsp;(Top)</a>&nbsp;|&nbsp;
-			<a href="http://www.autopartsway.ca/performance">Performance&nbsp;Auto&nbsp;Parts</a>&nbsp;|&nbsp;
-			<a href="http://www.autopartsway.ca/accessories">Automotive&nbsp;Accessories</a>&nbsp;|&nbsp;
-			
-			<a href="http://www.autopartsway.ca/accessories/topmakes.cfm">Performance Top Makes</a>&nbsp;|&nbsp;
-			<a href="http://www.autopartsway.ca/mobileElectronics/index.cfm">Mobile&nbsp;Electronics</a>&nbsp;|&nbsp;
+			<a href="http://www.autopartsway.ca/acp/">Performance&nbsp;/&nbsp;Accessories&nbsp;(Top)</a>&nbsp;|&nbsp;
+
+
 			<a href="http://www.autopartsway.ca/giftcertificates">Gift&nbsp;Certificates</a>&nbsp;|&nbsp;
 		
 			
@@ -392,6 +523,10 @@ window.open("http://www.trustlogo.com/ttb_searcher/trustlogo?v_querytype=W&v_sho
  <table width="100%" align="center">
  	<tbody><tr>
  		<td valign="top">
+        
+               
+                 
+                 
 	
 	<a href="http://www.controlscan.com/seal/verify2.php?subid=1509&amp;id=13" target="verify"><img border="0" src="http://www.controlscan.com/seal/sealx2.php?subid=1509&amp;id=13" alt="Auto Parts WAY is a Secure Site"></a>
 			<a href="http://www.controlscan.com/seal/verify2.php?subid=1509&amp;id=20" target="verify"><img border="0" src="http://www.controlscan.com/seal/sealx2.php?subid=1509&amp;id=20" alt="Auto Parts WAY is a Secure Site"></a>
@@ -421,8 +556,12 @@ window.open("http://www.trustlogo.com/ttb_searcher/trustlogo?v_querytype=W&v_sho
   			
 <a href="http://www.controlscan.com/seal/verify2.php?subid=1509&amp;id=17" target="verify"><img border="0" src="http://www.controlscan.com/seal/sealx2.php?subid=1509&amp;id=17" alt="Auto Parts WAY is a Secure Site"></a>
 
-		<a href="javascript:openSSL()">
-<img src="/images/seal_rect_89x55.gif" alt="SSL Certificate Authority" width="89" height="55" style="border: 0px;"> </a>
+
+
+
+
+		
+<script type="text/javascript">TrustLogo("/images/ssl_seal.png", "COMPE", "none");</script>
 		</td>
 	</tr>
  </tbody></table>
@@ -445,6 +584,13 @@ window.open("http://www.trustlogo.com/ttb_searcher/trustlogo?v_querytype=W&v_sho
 	</td>
   </tr>
 </tbody></table>
+
+
+
+
+
+
+
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
