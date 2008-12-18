@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typingweb.com privacy policy that was archived on 2008-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080519010443id_/http%3A//www.typingweb.com/knowledge/questions/21/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typingweb.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218015820id_/http%3A//www.typingweb.com/knowledge/questions/21/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # TypingWeb KnowledgeBase :: Privacy Policy
 
