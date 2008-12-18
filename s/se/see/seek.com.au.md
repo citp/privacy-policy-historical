@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the seek.com.au privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608114937id_/http%3A//www.seek.com.au/general_id_items/content/privacy.ascx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seek.com.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218085447id_/http%3A//seek.com.au/general_id_items/content/privacy.ascx) for the most accurate reproduction.*
 
 # SEEK - Privacy Statement
 
-  | 
+__
 
   
 
@@ -114,7 +114,7 @@ From time to time, SEEK may review and update its privacy statement. Revised ver
   12. ## Contact Us
 
   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with SEEK, you can contact us in the following ways:  |  Email: |  [userhelp@seek.com.au](mailto:userhelp@seek.com.au)  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with SEEK, you can contact us in the following ways:  Email: |  [userhelp@seek.com.au](mailto:userhelp@seek.com.au)  
 ---|---  
 Telephone: |  +61 03 9510 7200  
 Post: |  User Help Desk  
@@ -130,4 +130,4 @@ For more information about privacy issues in Australia and protecting your priva
 
 
 
-   
+__
