@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the marketingscoop.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512010236id_/http%3A//www.marketingscoop.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingscoop.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218170122id_/http%3A//www.marketingscoop.com/privacy.htm) for the most accurate reproduction.*
 
 # Marketing, Internet Marketing, Search Engine Optimization - Marketing Scoop
+
+  
+
 
 This privacy statement is designed to help you understand how we use and safeguard the personal information you provide to us. This privacy statement describes the practices of Marketing Scoop, LLC and marketingscoop.com. 
 
