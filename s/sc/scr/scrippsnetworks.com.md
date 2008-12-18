@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrippsnetworks.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628135011id_/http%3A//www.scrippsnetworks.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrippsnetworks.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218170641id_/http%3A//scrippsnetworks.com/privacy.aspx) for the most accurate reproduction.*
 
 # Scripps Networks : Privacy Policy
 
