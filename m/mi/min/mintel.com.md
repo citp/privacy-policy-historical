@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608131033id_/http%3A//www.mintel.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218211450id_/http%3A//www.mintel.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for Mintel International Group Ltd
 
@@ -37,7 +37,7 @@ When you buy something, your information will be stored on our system to complet
 We use e-mail addresses to send you the alerts, newsletters and marketing promotionsyou’ve requested, to answer the e-mail we receive and to communicate with you about publications, service levels and other areas of Mintel’s range which you have told us you would be interested in hearing about. 
 
 **Third Party Use of Your Information**  
-When you buy something, another party must verify your credit card. In addition, the name of your company (but not your name or contact information) may be shared with one of our third party suppliers depending upon the information you bought. 
+When you buy something, another party must verify your credit card. In addition, the name of your company (but not your name or contact information) may be shared with one of our third party suppliers depending upon the information you bought.
 
 From time to time Mintel may send marketing emails informing you of different products and services relating to Mintel Group, if you do not wish to receive these emails do not check the appropriate box when you register or alternatively you may unsubscribe as detailed below. 
 
