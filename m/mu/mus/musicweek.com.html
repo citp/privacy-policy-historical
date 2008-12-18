@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the musicweek.com privacy policy that was archived on 2008-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080530073304id_/http%3A//www.musicweek.com/hybrid.asp%3FtypeCode%3D8%26pubCode%3D1%26navcode%3D54) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the musicweek.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218134405id_/http%3A//www.musicweek.com/hybrid.asp%3FtypeCode%3D8%26pubCode%3D1%26navcode%3D54) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<script type="text/javascript" src="/templates/tablefix.js"></script>
@@ -19,9 +19,10 @@
 	<div id="wrapper">
 		
 
-<div class="skip hide">
+
+<!--div class="skip hide">
   <div class="sleeve">Skip:[<a href="#leftnavstart">To Main Navigation</a> | <a href="#leftnav2">Secondary Navigation</a> | <a href="#topnav">Third Level Navigation</a> | <a href="#maincol">Page Content</a> | <a href="#sitesearch" accesskey="s">Site Search</a>]</div>
-</div>
+</div-->
 <div id="topad" class="ad">
   <div class="sleeve">
   <p class="hide">Advertisement</p>
@@ -33,79 +34,41 @@ document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/
   </div>
 </div>
 <div id="mast">
-	<div id="logo"><a href="index.asp"><img src="/magazine/graphics/mw_logo.gif" alt="Website - Logo" height="91" width="84"></a></div>
-  <div id="topbanner">
-<a href="index.asp"><img src="/magazine/graphics/mw_text.gif" width="499" height="77" alt="Music Week"></a>
-  </div>
+	<!--div id="logo"><a href="index.asp"><img src="/magazine/graphics/mw_logo.gif" alt="Website - Logo" height="91" width="84" /></a></div-->
+  	<div id="topbanner"><a href="index.asp"><img src="/magazine/graphics/mw_text.gif" alt="Music Week"></a></div>
+	<div id="searchbar">
+		<div id="innerdiv">
+			<form name="keywordform" action="search_results.asp" class="searchForm" id="keywordform" method="post">
+			<fieldset>
+				<div class="background">
+				<label for="qkeyword_field">Search</label>
+				<input type="text" class="textbox" id="qkeyword_field" name="qkeyword" value="Enter Keyword" onfocus="if (this.value=='Enter Keyword') {this.value = ''}">
+				<input type="image" value="Search" class="button" src="../magazine/graphics/search.gif" onclick="document.getElementById('keywordform').submit()">
+				</div>
+			</fieldset>
+			</form>
+		</div><!-- close of innerdiv-->
+	</div><!-- close of searchbar -->  	
+  	
 	<script language="JavaScript" type="text/javascript">
-	 var datasubmitcounter = 0; 
-	function datatabsubmit(form) {	  
-	    datasubmitcounter++; 
-	    var sDataURL = '';
-	    var sArtist = (document.getElementById('data_artist').value == 'Enter Artist')? '' : document.getElementById('data_artist').value; 
-	    var sTitle = (document.getElementById('data_title').value == 'Enter Title')? '' : document.getElementById('data_title').value; 
-	    if (datasubmitcounter == 1) {
-	        sDataURL = 'artist=' + sArtist +'&title=' + sTitle; 
-	        form.action += sDataURL; 
-	        form.submit();
-	    }
-	   return true
+	 
+		var datasubmitcounter = 0; 
+	
+		function datatabsubmit(form) {	  
+	
+			datasubmitcounter++; 
+			var sDataURL = '';
+			var sArtist = (document.getElementById('data_artist').value == 'Enter Artist')? '' : document.getElementById('data_artist').value; 
+			var sTitle = (document.getElementById('data_title').value == 'Enter Title')? '' : document.getElementById('data_title').value; 
+			if (datasubmitcounter == 1) {
+				sDataURL = 'artist=' + sArtist +'&title=' + sTitle; 
+				form.action += sDataURL; 
+				form.submit();
+			}
+	   	return true
 	}
 	
 	</script>
-	
-	
-	<div id="searchbar">
-		<div id="innerdiv">
-		<h2>Search</h2>
-		<ul id="formNav">
-			<li class="on"><a href="#keywordform">Articles</a></li>
-			<li><a href="#dataForm">Data</a></li>
-			<li><a href="#companyForm">Directory</a></li>
-		</ul>
-			<form name="keywordform" action="search_results.asp" class="searchForm" id="keywordform" method="post" style="display: block;">
-			<fieldset>
-				<legend>Keyword</legend>
-				<div class="background">
-				<label for="qkeyword_field">Keyword</label>
-				<a href="advanced_search.asp" class="advancedSearch">Advanced Search</a>
-				<input type="text" class="textbox" id="qkeyword_field" name="qkeyword" value="Enter Keyword" onfocus="if (this.value=='Enter Keyword') {this.value = ''}">
-				<input type="submit" class="button" value="Search" onclick="document.getElementById('keywordform').submit()">				
-				</div>
-			</fieldset>
-			</form>
-			
-	<form name="data" method="post" action="/MusicWeekWeb/DisplayChart.aspx?search=2&amp;chartId=&amp;chartname=&amp;weekNo=&amp;year=&amp;chartFamilyId=family-4&amp;sectionHeader=Sales&amp;pageName=&amp;" class="searchForm" id="dataForm" onsubmit="return datatabsubmit(this)" style="display: none;">
-        <fieldset>
-	        <legend>Artist/Title</legend>
-	        <div class="background">
-	          <label for="data_title">Title</label>
-	          <label for="data_artist" class="data_artist">Artist</label>
-	          <input type="text" class="textbox" id="data_title" value="Enter Title" onfocus="if (this.value=='Enter Title') {this.value = ''}">
-	          <input type="text" class="textbox" id="data_artist" value="Enter Artist" onfocus="if (this.value=='Enter Artist') {this.value = ''}">
-	          <input type="submit" class="button" value="Search" id="datasubmit">
-			</div>
-        </fieldset>
-      </form>
-			
-   
-			
-
-			<form name="company" action="mp_searchresults.asp" class="searchForm" id="companyForm" method="post" style="display: none;">
-			<input name="submitted" id="submitted" value="true" type="hidden">
-			<fieldset>
-				<legend>Company / Person</legend>
-				<div class="background">
-				<label for="mast_form_company_artist">Company</label>
-				<a href="#" class="advancedSearch">Advanced Search</a>
-				<input type="text" name="form_company_artist" class="textbox" id="mast_form_company_artist" value="Enter Company Name" onfocus="if (this.value=='Enter Company Name') {this.value = ''}">
-				<input type="submit" class="button" value="Search">				
-				</div>
-			</fieldset>
-			</form>
-		
-			</div><!-- close of innerdiv-->
-		</div><!-- close of searchbar -->	
 	
 </div>
 
@@ -123,43 +86,89 @@ document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/
 <a href="section.asp?navcode=157">All news</a>
 </li>
 <li>
-<a href="section.asp?navcode=72">Live</a>
+<a href="section.asp?navcode=72">Live Music News</a>
 </li>
 <li>
 <a href="section.asp?navcode=75">Artists &amp; management</a>
 </li>
 <li>
-<a href="section.asp?navcode=73">Labels</a>
+<a href="section.asp?navcode=73">Record Label News</a>
 </li>
 <li>
-<a href="section.asp?navcode=77">Digital</a>
+<a href="section.asp?navcode=77">Digital Music News</a>
 </li>
 <li>
-<a href="section.asp?navcode=74">Retail</a>
+<a href="section.asp?navcode=74">Music Retail News</a>
 </li>
 <li>
-<a href="section.asp?navcode=76">Media</a>
+<a href="section.asp?navcode=76">Music Media News</a>
 </li>
 <li>
-<a href="section.asp?navcode=79">Publishing</a>
+<a href="section.asp?navcode=79">Music Publishing News</a>
 </li>
 <li>
-<a href="section.asp?navcode=78">Deals</a>
+<a href="section.asp?navcode=78">Music Company Deals</a>
 </li>
 <li>
-<a href="section.asp?navcode=129">International</a>
+<a href="section.asp?navcode=129">International Music News</a>
 </li>
 </ul>
 </div>
 </li>
 <li>
-<a href="section.asp?navcode=170">Reviews</a>
+<a href="section.asp?navcode=170">Reviews &amp; Music</a>
+<div>
+<span class="line"></span>
+<ul>
+<li>
+<a href="hybrid.asp?typeCode=19&amp;pubCode=1&amp;navcode=81181">Playlist</a>
 </li>
 <li>
-<a href="section.asp?navcode=171">A&amp;R blog</a>
+<a href="section.asp?navcode=220">Music Reviews</a>
+</li>
+</ul>
+</div>
 </li>
 <li>
-<a href="sectionindex.asp?navcode=172">Alan Jones</a>
+<a href="http://www.musicweek.com/MusicWeekWeb/Home.aspx" target="_blank">Charts</a>
+<div>
+<span class="line"></span>
+<ul>
+<li>
+<a href="http://www.musicweek.com/MusicWeekWeb/DisplayChart.aspx?chartfamilyid=family-2&amp;sectionHeader=Sales" target="_blank">Music Sales Charts</a>
+</li>
+<li>
+<a href="http://www.musicweek.com/MusicWeekWeb/DisplayChart.aspx?chartfamilyid=family-2&amp;sectionHeader=Sales" target="_blank">Midweek Music Charts</a>
+</li>
+<li>
+<a href="http://www.musicweek.com/MusicWeekWeb/DisplayChart.aspx?chartfamilyid=family-2&amp;sectionHeader=Sales" target="_blank">Music Download Charts</a>
+</li>
+<li>
+<a href="http://www.musicweek.com/MusicWeekWeb/Live.aspx?chartfamilyid=family-13&amp;sectionheader=Live" target="_blank">Live Music Charts</a>
+</li>
+<li>
+<a href="http://www.musicweek.com/MusicWeekWeb/DisplayChart.aspx?chartfamilyid=family-4&amp;sectionHeader=TV+Airplay" target="_blank">TV Airlplay Charts</a>
+</li>
+<li>
+<a href="http://www.musicweek.com/MusicWeekWeb/DisplayChart.aspx?chartfamilyid=family-3&amp;sectionHeader=Airplay+-+Radio" target="_blank">Radio Airlplay Charts</a>
+</li>
+<li>
+<a href="http://www.musicweek.com/MusicWeekWeb/DisplayChart.aspx?chartfamilyid=family-8&amp;sectionHeader=Club+Charts" target="_blank">Club Charts</a>
+</li>
+<li>
+<a href="http://www.musicweek.com/musicweekweb/PlaylistForm.aspx?playCatId=2&amp;playId=-1&amp;PlaylistId=0" target="_blank">Radio Playlists</a>
+</li>
+<li>
+<a href="http://www.musicweek.com/MusicWeekWeb/PromotionalActivity.aspx?promoCatId=2&amp;promoId=-1&amp;ChannelNameId=0&amp;MediaCategoryId=0&amp;paging=1" target="_blank">Radio: Featured records</a>
+</li>
+<li>
+<a href="http://www.musicweek.com/MusicWeekWeb/NewReleasesLanding.aspx?type=null&amp;visible=false" target="_blank">Key Music Releases</a>
+</li>
+<li>
+<a href="http://www.musicweek.com/MusicWeekWeb/Predictive.aspx?chartfamilyid=family-14&amp;sectionheader=Predictive" target="_blank">Predictive Charts</a>
+</li>
+</ul>
+</div>
 </li>
 <li>
 <a href="sectionindex.asp?navcode=134">Features</a>
@@ -167,133 +176,101 @@ document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/
 <span class="line"></span>
 <ul>
 <li>
-<a href="section.asp?navcode=135">Profiles</a>
+<a href="section.asp?navcode=228">Music Charts Analysis</a>
 </li>
 <li>
-<a href="section.asp?navcode=136">Round tables</a>
+<a href="section.asp?navcode=137">Music Industry Analysis</a>
 </li>
 <li>
-<a href="section.asp?navcode=137">Analysis</a>
+<a href="section.asp?navcode=221">Music Industry Interview</a>
 </li>
 <li>
-<a href="section.asp?navcode=158">Venue Profiles</a>
+<a href="section.asp?navcode=135">People Profiles</a>
 </li>
 <li>
-<a href="section.asp?navcode=162">White papers</a>
+<a href="section.asp?navcode=158">Music Venue Profiles</a>
+</li>
+<li>
+<a href="section.asp?navcode=226">Music Industry Viewpoint</a>
+</li>
+<li>
+<a href="section.asp?navcode=136">Music Industry Debate</a>
+</li>
+<li>
+<a href="section.asp?navcode=162">Music Industry White papers</a>
 </li>
 </ul>
 </div>
 </li>
 <li>
-<a href="section.asp?navcode=67">Talent</a>
+<a href="#">Forums &amp; Blogs</a>
 <div>
 <span class="line"></span>
 <ul>
 <li>
-<a href="section.asp?navcode=127">Quickfire</a>
+<a href="comment_index.asp?navcode=127">Forums</a>
 </li>
 <li>
-<a href="hybrid.asp?typeCode=19&amp;pubCode=1&amp;navcode=81">Playlist</a>
-</li>
-<li>
-<a href="section.asp?navcode=82">Snapshots</a>
-</li>
-<li>
-<a href="section.asp?navcode=85">Videos we like this week</a>
+<a href="section.asp?navcode=223">A&amp;R Blog</a>
 </li>
 </ul>
 </div>
 </li>
 <li>
-<a href="hybrid.asp?typeCode=32&amp;pubCode=1&amp;navcode=68">Data</a>
+<a href="section.asp?navcode=159">Jobs</a>
 <div>
 <span class="line"></span>
 <ul>
 <li>
-<a href="MusicWeekWeb/DisplayChart.aspx?chartfamilyid=family-4&amp;sectionHeader=Sales">Sales charts</a>
+<a href="section.asp?navcode=225">Music Industry Jobs</a>
 </li>
 <li>
-<a href="http://www.musicweek.com/MusicWeekWeb/PlaylistForm.aspx?playCatId=0&amp;playId=-1&amp;PlaylistId=0" target="_blank">Playlists</a>
-</li>
-<li>
-<a href="http://www.musicweek.com/MusicWeekWeb/NewReleasesLanding.aspx?type=null&amp;visible=false" target="_blank">New releases</a>
-</li>
-<li>
-<a href="http://www.musicweek.com/MusicWeekWeb/PromotionalActivity.aspx?promoCatId=2&amp;promoId=-1&amp;ChannelNameId=0&amp;MediaCategoryId=0&amp;paging=1" target="_blank">Promotional activity</a>
-</li>
-<li>
-<a href="http://www.musicweek.com/MusicWeekWeb/ConsolidatedSearchNew.aspx?all=1" target="_blank">Search</a>
+<a href="sectionitems.asp?navcode=161">Music Industry Courses</a>
 </li>
 </ul>
 </div>
 </li>
 <li>
-<a href="section.asp?navcode=69">MyMusicWeek</a>
-<div>
-<span class="line"></span>
-<ul>
-<li>
-<a href="/comment_index.asp?navcode=165">Music Week forum</a>
+<a href="hybrid.asp?typeCode=17&amp;pubCode=1&amp;navcode=68">Subscribe</a>
 </li>
 <li>
-<a href="section.asp?navcode=132">Viewpoint</a>
+<a href="hybrid.asp?typeCode=41&amp;pubCode=1&amp;navcode=69">Digital Edition</a>
 </li>
 <li>
-<a href="section.asp?navcode=116">Jobs</a>
-</li>
-<li>
-<a href="sectionitems.asp?navcode=151">Courses</a>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<a href="section.asp?navcode=159">Careers</a>
-<div>
-<span class="line"></span>
-<ul>
-<li>
-<a href="section.asp?navcode=160">Jobs</a>
-</li>
-<li>
-<a href="sectionitems.asp?navcode=161">Courses</a>
-</li>
-</ul>
-</div>
-</li>
-<li class="last">
 <a href="mp_index.asp?navcode=71">Directory</a>
 </li>
+<li class="last">
+<a href="newsletter.asp?navcode=208">Newsletters</a>
+</li>
 </ul>
 
-
 </div>
-<!-- Empty Login Top Include -->
-<div class="top">
-	<div id="subscription">
-    <h2>Site Login</h2>
-    <div class="subscriptionbox">
-    <form method="post" action="http://www.musicweek.com/hybrid.asp?typeCode=8&amp;pubCode=1&amp;navcode=54" name="frmLogin" class="formbox" id="frmLogin">
-      <fieldset>
-        <input type="hidden" name="subaction" value="new">
-        <input type="hidden" name="loginreferer" value="">
-      <legend>Login Form</legend>	
-      <div class="subscribers">User Login:</div>  
-      <p><span class="width1"><label for="subsUsername" class="labelnormal">Username</label></span>
-      <input type="text" id="subsUsername" name="subsUsername" class="inputnormal" value="Enter your username" onfocus="this.value = ''"></p>
-      <p><span class="width1"><label for="subsPassword" class="labelnormal">Password</label></span>
-      <input type="password" id="subsPassword" name="subsPassword" class="inputnormal"></p>
-      <p><input name="subsPasswordbutton" type="image" src="/magazine/graphics/login.gif" alt="send" value="Send" class="button"></p>
-      </fieldset>
-      <ul><li><a href="register/">Subscribe/register</a> | </li><li><a href="newsletter.asp">Newsletter Signup</a> | </li><li><a href="subsforgottenpassword.asp">Forgotten password</a></li></ul>
-     </form>
-    </div>
 
-	
+
+	<!-- Empty Login Top Include -->
+	<div class="top">
+		<div id="subscription">
+	    <div class="subscriptionbox">
+	    <form method="post" action="http://www.musicweek.com/hybrid.asp?typeCode=8&amp;pubCode=1&amp;navcode=54" name="frmLogin" class="formbox" id="frmLogin">
+	      <fieldset>
+		<input type="hidden" name="subaction" value="new">
+		<input type="hidden" name="loginreferer" value="">
+	      <legend>Login Form</legend>	
+	      <h2>User login:</h2>  
+	      <p><span class="width1"><label for="subsUsername" class="labelnormal">Username</label></span>
+	      <input type="text" id="subsUsername" name="subsUsername" class="inputnormal" value="Enter your username" onfocus="this.value = ''"></p>
+	      <p><span class="width1"><label for="subsPassword" class="labelnormal">Password</label></span>
+	      <input type="password" id="subsPassword" name="subsPassword" class="inputnormal"></p>
+	      <p><input name="subsPasswordbutton" type="image" src="/magazine/graphics/login.gif" alt="send" value="Send" class="button"></p>
+	      <h3 class="forgotten_pword"><a href="subsforgottenpassword.asp">Forgotten Password</a></h3>
+	      </fieldset>
+	     </form>
+	    </div>
+
+		
+		</div>
 	</div>
-</div>
-
-
+	
 
 		<div id="columns">
     
@@ -314,13 +291,81 @@ document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/
 							  <div class="sleeve">
 							  	<span class="hide">-</span>
 <div id="rightcol_mpus">
-<span class="hide">-</span>
+	<span class="hide">-</span>
 	<div class="ad">
 		<p class="hide">Advertisement</p>
 		<script language="JavaScript" type="text/javascript">
 document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/cmpism-mw/hybrid;navcode=54;type=8;pos=sec;sz=336x90,336x120,336x280,300x250;ord=705547511?" type="text/javascript"></scr' + 'ipt>');
 </script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/cmpism-mw/hybrid;navcode=54;type=8;pos=sec;sz=336x90,336x120,336x280,300x250;ord=705547511?" type="text/javascript"></script>
 	</div>
+	
+	
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Untitled Document</title>
+
+
+
+
+<!-- @@@@@@@@@@@@@@@@@@@@@@@@@ CHARTS CONTAINER START @@@@@@@@@@@@@@@@@@@@@@@@@ -->
+
+<style type="text/css">
+<!--
+.style1 {font-weight: bold}
+-->
+</style>
+<div id="mwCharts">
+    <div class="sectionhead"><h2>Charts &amp; Data</h2></div>
+            <div id="mwChartsContainer">
+        <p class="style1"><span id="lblChartTitle" title="The Official UK Singles Chart  Week: 46  Source: The Official UK Charts Company">The OCC singles chart</span> – 14/12/08 </p>
+        
+		<table width="100%" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr>
+    <td width="5" bgcolor="#EDC1B6"> </td>
+    <td width="5" align="right" bgcolor="#EDC1B6">1.</td>
+    <td bgcolor="#EDC1B6"> <strong>Leona Lewis: Run <strong></strong> </strong></td>
+  </tr>
+  <tr>
+    <td width="5"> </td>
+    <td width="5" align="right">2.</td>
+    <td> <strong>Kings Of Leon: Use Somebody </strong></td>
+  </tr>
+  <tr>
+    <td width="5" bgcolor="#EDC1B6"> </td>
+    <td width="5" align="right" bgcolor="#EDC1B6">3.</td>
+    <td bgcolor="#EDC1B6"> <strong> Bandaged: Little Drummer Boy/Peace On Earth </strong></td>
+  </tr>
+  <tr>
+    <td width="5"> </td>
+    <td width="5" align="right">4.</td>
+    <td><strong> Britney Spears: Womanizer</strong></td>
+  </tr>
+  <tr>
+    <td width="5" bgcolor="#EDC1B6"> </td>
+    <td width="5" align="right" bgcolor="#EDC1B6">5.</td>
+    <td bgcolor="#EDC1B6"> <strong> Take That: Greatest Day</strong></td>
+  </tr>
+</tbody></table>
+<br>
+       
+	    <p><strong>MusicWeek.com contains more than 90 music business charts. This includes data supplied by The Official Charts Company, Nielsen Music Control, PRS, Tixdaq &amp; Hitwise, and our own unique charts and data<br>
+      <img src="http://www.musicweek.com/pictures/newsletters/chartlogo.jpg" alt="chartslogos" longdesc="http://www.musicweek.com/pictures/newsletters/chartlogo.jpg"></strong></p>
+        <ul>
+            <li><a href="http://www.musicweek.com/hybrid.asp?typeCode=17&amp;pubCode=1&amp;navcode=110">More about Charts &amp; Data </a></li>
+            <li><a href="http://www.musicweek.com/hybrid.asp?typeCode=17&amp;pubCode=1&amp;navcode=110">Subscribe</a></li>
+        </ul>
+  </div><!--close of mwChartsContainer -->
+</div>
+
+
+<!-- @@@@@@@@@@@@@@@@@@@@@@@@@ CHARTS CONTAINER END @@@@@@@@@@@@@@@@@@@@@@@@@ -->
+
+
+
+
+ 
+
 	<span class="hide">-</span>
 	<div class="ad">
 		<p class="hide">Advertisement</p>
@@ -423,52 +468,59 @@ document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/
 							<div class="storytext">
 								<div class="sleeve">
 									
-									<div style="width:400px;">
-
-<h1 align="center">CMP Information Privacy    Policy<br>
-</h1>
-<p class="sectionhead"><strong>Overview</strong></p>
-      Thank you for using www.musicweek.com<strong> (the "Website")</strong>. We    are committed to protecting your right to privacy as a consumer of our online    services.  Please read the following Privacy    Policy to understand how we use and protect the information that you provide    to us. By using and continuing to use this Website, you    consent to the collection, use and transfer of your information under the    terms of this Privacy Policy.  If you    do not agree to this Privacy Policy, please do not provide your personal    details to us.  We may need to update    this Privacy Policy from time to time and when we do so we will place a    notice on the Website to indicate this has happened. We recommend that you    regularly check this page to ensure that you have read the most recent    version.<strong><u> </u></strong><p></p>
+									
 
 
-<p>
-      In this Privacy Policy, "<strong>CMPi</strong>"    means CMP Information Limited (registered company number: 00370721).  The address from which we provide these    online services is: CMP Information, Ludgate House, 245 Blackfriars Road, London    SE1 9UY.<br>
-      The    information you provide to us will be held on <a href="http://www.cmpi.biz/">CMPi</a> computers that are based in the UK. <a href="http://www.cmpi.biz/">CMPi</a>  processes personal data in accordance with    the Data Protection Act 1998.  This    Privacy Policy only relates to the Website service and does not extend to    your use of the Internet outside of the Website. </p>  
-	  
-	  
-	<p class="sectionhead"><strong>Data Collection</strong></p>
-        <p><strong>What data do we collect?        </strong><br>
-        The data we collect within the Website is necessary to process the online    card payment correctly and to notify internal CMPi systems of the    transaction. This includes your name, contact details, card payment details    and delivery details. This is your personal information. Further data is also    collected to confirm the amount of VAT (tax) that needs to be paid on each    product/service within the transaction. Personal    information does not include aggregated information that does not allow you    to be identified.<strong></strong></p>
-        <p>We will collect, use or disclose your personal information if    permitted by law or required to do so by law or where we believe such action    is necessary in order to protect or defend us or other third parties against    error, negligence, breach of contract, theft fraud and other illegal or    harmful activity, to comply with our audit and security requirements, and to    audit compliance with our corporate policies, procedures, legal and    contractual obligations.Your personal card data will not be stored    alongside your other personal data and will only be accessed for the purpose    of processing refunds in a secure and controlled basis.</p>
-        <p><strong>What    do we do with it?</strong><br>
-          The personal information you provide within the Website is used as follows: </p>
-        <ul>
-        <li>to provide to third parties in order for you to receive    communications from them but only if you have consented during the registration    process</li>
-        <li>to improve the Website and    personalise your experience when you visit the Website  </li>
-        <li>to provide you with access to all parts    of our Website and to supply the goods or services you have requested </li>
-        <li>to bill you and to contact you where    necessary concerning your orders </li>
-        <li>to tell you about changes in our    services or about features we think you may find interesting </li>
-</ul>
-      <p>In the event of a sale, merger, consolidation, change in control,    transfer of substantial assets, reorganisation or liquidation, we may    transfer, sell, or assign to third parties information concerning your    relationship with us, including without limitation, personally identifiable    information that you provide and other information concerning your    relationship with us.  In addition, to maintain    customer service standards and to assist staff training, we may record and    monitor incoming calls.
-        Unless required to do so by law, we will not otherwise share, sell or    distribute any of the information you provide to us without your consent.</p>
-    
-	<p class="sectionhead"><strong>Collection of information by third parties</strong></p>
-	
-        <p>We employ third party companies to process payments on our behalf. Card    payments within the Website are processed through software provided by <a href="http://www.verifone.com/worldwide/emea/uk/index.html">Verifone</a> and    your payment is authorised through a division of <a href="http://www.lloydstsbcardnet.com/">Lloyds TSB</a> called Lloyds Cardnet.  Both have    access to the personal data they require to perform their functions but may    not use personal data for any other purposes and they must process personal    data in accordance with the Data Protection Act 1998. Verifone will not    collect or store your personal data. Lloyds Cardnet will store your personal    data and may transfer to, process and hold your personal data in countries    within the European Economic Area and outside it in order to perform their    duties. Both offer a secure environment for online card payments.</p>
-        <p>In    addition, only your card details are shared with any third parties as is    necessary to process your transaction. Examples of such third parties are    financial institutions necessary to authorise and clear your card payment.<strong></strong>Your    information is not shared with any other third parties.  We do not sell, trade or rent your personal    information to others.  We may    choose to do so in the future with trustworthy third parties but will not do    so without your consent.  </p>
-        
-		<p class="sectionhead"><strong>Our commitment to security</strong></p>
-          
-		<p>  We have taken all appropriate action to safeguard and prevent unauthorised    access to personal data, to maintain data security and to ensure that the    information we collect online is used only in accordance with the Data    Protection Act 1998 and for the purpose(s) outlined above.<strong></strong>However, due    to the open communication nature of the Internet, we cannot guarantee that    communications between you and us, or information stored on our servers, will    be free from unauthorised access by third parties.</p>
-         
-		 <p class="sectionhead"><strong>Cookies</strong></p>
-       
-	     <p>A cookie is a small text file written to your hard    drive that contains information about you.     Cookies do not contain any personal information about users.  Once you close your browser, the cookie    simply terminates.  We use cookies so    that we can personalise your experience of the Website.  If you set up your browser to reject the    cookie, you may still use the Website but your user experience may be    affected.  Some of our business    partners use cookies on our site (for example, advertisers).  We have no access to or control over these    cookies.<u> </u></p>
-	     <p>For further information or to edit your personal information please    contact: <a href="mailto:infomusicweek@musicweek.com">infomusicweek@musicweek.com</a>.
-           </p>
-       
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Untitled Document</title>
 
-</div>
+
+
+<h4>CUSTOMER PRIVACY POLICY</h4>
+<p>This Customer Privacy  Policy governs the collection and use of personal information relating to  potential and existing customers of CMP Information Limited by the company and  its international affiliates (collectively “CMP”).<br>
+    <br>
+  CMP is committed to abiding by this Customer Privacy Policy, as well as the  requirements of applicable laws, in the operation of its business. Please read  this policy carefully as it explains the kinds of personal information we  collect about you and how it is handled.<br>
+  <br>
+  By your continued use of our services (including our web sites), you consent to  the collection and use of your personal information for the purposes set out in  this Customer Privacy Policy.</p>
+<h4>COLLECTION AND USE OF  PERSONAL INFORMATION</h4>
+<p>We will generally let  you know at the time of collection how we intend to use your personal  information. Usually, we collect personal information about you which we  require to respond to your inquires for payment processing and for the  provision of goods and services to you. We also process your personal  information where we are required to do so by law, and for the exercise or  defence of legal claims. <br>
+    <br>
+  From time to time, we may contact you for research purposes, or to tell you  about our special offers and other services in accordance with your contact  preferences. Where appropriate, we will obtain your consent to do so. Personal  information collected from you may include your name, payment processing  information, postal address, email address, landline or mobile telephone  number, delivery details as well as other non sensitive personal information.  If you use our web sites, we may also collect information about you or your  computer when you browse to allow you to use the services available.</p>
+<h4>WEBSITE USAGE &amp; COOKIES</h4>
+<p>If you are using our  web sites, we will use your personal information to help you to log on to your  account and into restricted areas of our web sites and to permit future use of  the web sites. We may use your IP address to help diagnose problems with our server,  or to administer our web sites. We may conduct analyses of user traffic to  measure the use of our sites and to improve the content of our web sites and  our services. These analyses will be performed through the use of IP addresses  and cookies. We may also use cookies to enable the signing in process after you  have registered with us and to provide you with more tailored information when  you return to our web sites. <br>
+    <br>
+  A cookie is a piece of information that is stored on your computer’s hard drive  by your web browser. Most browsers accept cookies automatically, but usually  you can alter the settings of your browser to prevent automatic acceptance. If  you reject the use of cookies please note that the efficient operation of the  web site that you are using may be affected. Most of the advertisements that  you see on the web sites are generated by third parties who may use cookies to  track viewing of their advertisements and for other purposes specified in their  own privacy policies. <br>
+  <br>
+  We have no access to or control over these cookies (although we may use  statistical information provided to us – not containing personal information –  arising from these third party cookies to improve the targeting of  advertisements to you and other users of the web sites). You can obtain further  information about third party privacy policies or disable their cookies by  visiting their web sites.</p>
+<h4>THIRD PARTY ADVERTISEMENTS</h4>
+<p>We will only disclose  personal information about you internally and to third parties for processing  purposes associated with payment processing, the supply of goods and services,  for web site administration, or elsewhere when you have consented to such  disclosures, or where such disclosures are required or permitted by law. These  third parties we contractually bound only to use personal information to  perform the services that we hire them to provide. Where you have agreed that  we may do so, we may lease or rent your personal information to selected third  parties for their postal or telephone marketing use.</p>
+<h4>TRANSFER OF DATA</h4>
+<p>Third party data  processors, advertisers, exhibitors and other such business relationships  outside of the EEA, are required to take adequate technical and organisational  safeguards to protect personal information. We also take measures to ensure that  personal information transferred by us outside of the EEA is adequately  protected.</p>
+<h4>VIRTUAL PRODUCTS</h4>
+<p>In the case of your use  of one of our virtual products e.g. Building Careers Show, we will pass the  information you provided to us to 3rd parties. Generally this will be via a  process whereby you, as the user, choose to give your digital business card to  a 3rd party eg: virtual exhibition. However, in some instances our virtual  shows are sponsored and, in such cases the data you provided to us will be given  to the sponsor. Generally we will let you know at the time of collection if a  show is sponsored.</p>
+<h4>SECURITY OF PERSONAL  INFORMATION</h4>
+<p>We use administrative,  technical, and physical measures to safeguard personal information against  loss, theft and unauthorised uses, access or modifications. Certain areas of  our web sites may be password protected. If you are a user of our web sites and  have a password, you can help to preserve your privacy by ensuring that you do  not share your password with anyone else.<br>
+    <br>
+  Payments made via our web sites are processed in a secure environment using  software provided by Verifone or other third party providers.<br>
+  <br>
+  We take steps to regularly validate the personal information we hold to ensure  that the information is accurate and, where necessary, up to date. Information  that is no longer required for any valid business purpose, and that we are not  required to keep pursuant to any applicable law, will be routinely destroyed by  secure means.</p>
+<h4>MAKING AUTOMATED DECISIONS</h4>
+<p>We do not ordinarily  use personal information for the purposes of automated decision making.  However, may do so in order to fulfil compelling obligations imposed by law, in  which case we will inform of any such processing and provide you with an  opportunity to object.</p>
+<h4>ACCESS TO PERSONAL  INFORMATION</h4>
+<p>You may renew and  update personal information that we hold about you by contacting us as detailed  below.</p>
+<h4>CONTACTING US</h4>
+<p>If you have any  questions about this privacy policy, you can email at
+  <!--   var prefix = '&#109;a' + 'i&#108;' + '&#116;o';   var path = 'hr' + 'ef' + '=';   var addy6401 = 'dp&#97;' + '&#64;';   addy6401 = addy6401 + 'cmp&#105;nf&#111;rm&#97;t&#105;&#111;n' + '&#46;' + 'c&#111;m';   var addy_text6401 = 'dp&#97;' + '&#64;' + 'cmp&#105;nf&#111;rm&#97;t&#105;&#111;n' + '&#46;' + 'c&#111;m';   document.write( '<a ' + path + '\'' + prefix + ':' + addy6401 + '\'>' );   document.write( addy_text6401 );   document.write( '<\/a>' );   //-->
+  \n <a href="mailto:dpa@cmpinformation.com">dpa@cmpinformation.com</a>
+    <!--   document.write( '<span style=\'display: none;\'>' );   //-->
+  or write to the Data Protection Co-ordinator, Audience &amp;  Data Group, CMP Information Ltd, FREEPOST LON 15637, Tonbridge TN9 1BR. Freephone  0800 279 0357. Please note that calls to this number may be recorded and  monitored to maintain customer service standards and to assist staff training.</p>
+<h4>CHANGES TO PRIVACY POLICY</h4>
+<p>We reserve the right to add to or amend this privacy policy at our  sole discretion, without prior notice to you. Please review our privacy policy  on a regular basis to make sure you have read the latest version and you  understand what we do with your personal information. Your continued use of our  services or our web sites following the posting of changes to these terms means  that you consent to those changes.<br>
+    <br>
+    <strong>This version of the privacy policy is  effective as of 2nd April 2008</strong></p>
+
+
+
 									
 								</div>
 							</div>
@@ -484,9 +536,9 @@ document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/
 						<div class="sleeve">
 							<div id="leftnavstart" class="hide"><strong>Main site navigation</strong>:</div>
 <div class="hide">Skip:[<a href="#leftnavend">To end of navigation</a>] </div>
-<div id="leftnav1"><ul><li><span>MW data</span></li><li><a href="http://www.musicweek.com/MusicWeekWeb/DisplayChart.aspx?chartfamilyid=family-4&amp;sectionHeader=Sales" target="_blank">Sales charts</a></li><li><a href="http://www.musicweek.com/MusicWeekWeb/PlaylistForm.aspx?playCatId=0&amp;playId=-1&amp;PlaylistId=0" target="_blank">Playlists</a></li><li><a href="http://www.musicweek.com/MusicWeekWeb/NewReleasesLanding.aspx?type=null&amp;visible=false" target="_blank">New releases</a></li><li><a href="http://www.musicweek.com/MusicWeekWeb/PromotionalActivity.aspx?promoCatId=2&amp;promoId=-1&amp;ChannelNameId=0&amp;MediaCategoryId=0&amp;paging=1" target="_blank">Promotional activity</a></li><li><a href="http://www.musicweek.com/MusicWeekWeb/ConsolidatedSearchNew.aspx?all=1" target="_blank">Search</a></li></ul></div>
+<div id="leftnav1"><ul><li><span>MW SUBSCRIBER'S EXTRAS</span></li><li><a href="sectionindex.asp?navcode=157">Magazine News</a></li><li><a href="http://www.musicweek.com/MusicWeekWeb/DisplayChart.aspx?chartfamilyid=family-2&amp;sectionHeader=Sales" target="_blank">Charts&amp;Data: Sales</a></li><li><a href="http://www.musicweek.com/musicweekweb/DisplayChart.aspx?chartfamilyid=family-2&amp;sectionHeader=Sales" target="_blank">Charts&amp;Data: Midweek</a></li><li><a href="http://www.musicweek.com/MusicWeekWeb/DisplayChart.aspx?chartfamilyid=family-2&amp;sectionHeader=Sales" target="_blank">Charts&amp;Data: Downloads</a></li><li><a href="http://www.musicweek.com/musicweekweb/Live.aspx?chartfamilyid=family-13&amp;sectionheader=Live" target="_blank">Charts&amp;Data: Live</a></li><li><a href="http://www.musicweek.com/musicweekweb/Predictive.aspx?chartfamilyid=family-14&amp;sectionheader=Predictive" target="_blank">Charts&amp;Data: Predictive</a></li><li><a href="http://www.musicweek.com/MusicWeekWeb/PlaylistForm.aspx?playCatId=0&amp;playId=-1&amp;PlaylistId=0" target="_blank">Charts&amp;Data: On the Radio</a></li><li><a href="hybrid.asp?typeCode=45&amp;pubCode=1&amp;navcode=195">Charts&amp;Data: Premium Search</a></li><li><a href="sectionindex.asp?navcode=228">Charts analysis</a></li><li><a href="sectionindex.asp?navcode=134">This week's features</a></li><li><a href="hybrid.asp?typeCode=41&amp;pubCode=1&amp;navcode=199">Digital Edition</a></li><li><a href="mp_index.asp?navcode=203">Music Week Directory</a></li><li><a href="subscribeMenu.asp?navcode=219">Subscriber Registration</a></li></ul></div>
 <div class="hide"><strong>Secondary site navigation</strong>:</div>
-<div id="leftnav2"><ul><li><span>MW services</span></li><li><a href="pictures/newsletters/mwclassified/classified.pdf">Music Week classifieds</a></li><li><a href="section.asp?navcode=167">Today's papers</a></li><li><a href="http://www.musicweek.com/pictures/newsletters/studiomap08.pdf" target="_blank">Studio map</a></li><li><a href="section.asp?navcode=176">White papers</a></li><li><a href="newsletter.asp?navcode=102">Newsletters</a></li><li><a href="rss_home.asp?navcode=103">News feeds</a></li><li><a href="section.asp?navcode=116">Jobs</a></li><li><a href="mp_index.asp?navcode=106">Directory</a></li><li><a href="http://www.subscription.co.uk/musicweek/?src=0021" target="_blank">Subscribe</a></li></ul></div>
+<div id="leftnav2"><ul><li><span>MUSIC WEEK</span></li><li><a href="section.asp?navcode=157">Daily News</a></li><li><a href="section.asp?navcode=225">Music Industry Jobs</a></li><li><a href="mp_index.asp?navcode=106">Music Week Directory</a></li><li><a href="http://www.musicweek.com/pictures/newsletters/mwclassified/classified.pdf" target="_blank">Music Industry Classifieds</a></li><li><a href="http://www.musicweek.com/pictures/newsletters/studiomap08.pdf" target="_blank">Market maps</a></li><li><a href="newsletter.asp?navcode=102">Newsletter signup/unsub</a></li><li><a href="rss_home.asp?navcode=103">News feeds - RSS</a></li><li><a href="http://www.subscription.co.uk/store/displaystore.asp?sid=3647&amp;navcode=167" target="_blank">Back issues - buy</a></li><li><a href="hybrid.asp?typeCode=17&amp;pubCode=1&amp;navcode=110">Subscribe</a></li><li><a href="hybrid.asp?typeCode=39&amp;pubCode=1&amp;navcode=177">Advertise in Music Week</a></li><li><a href="contacts.asp?navcode=178">Contact</a></li></ul></div>
 <div id="leftnavend" class="hide">Main site navigation end</div><span class="hide">-</span>
 <div class="ad"><p class="hide">Advertisement</p><script language="JavaScript" type="text/javascript">
 document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/cmpism-mw/hybrid;navcode=54;type=8;pos=button1;sz=120x60,120x90,125x125,120x240;ord=705547511?" type="text/javascript"></scr' + 'ipt>');
@@ -514,18 +566,7 @@ document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/
 	
 		</div>
 		<!-- End columns -->
-								<script type="text/javascript">
-						// <![CDATA[
-						document.writeln('<ul id="pagetools"><li id="pagetools1"><a href="#pagetools" onclick="history.back(); return false;" onkeypress="history.back(); return false;" title="Return to previous page" class="pageback"><span>Back</span></a></li><li id="pagetools2"><a href="#pagetools" onclick="window.print(); return false;" onkeypress="window.print(); return false;" title="Print current page" class="pageprint"><span>Print</span></a></li><li id="pagetools3"><a href="#pagetools" onclick="window.scrollTo(0,0); return false;" onkeypress="window.scrollTo(0,0); return false;" title="Return to top of page" class="pagetop"><span>Top</span></a></li></ul>');
-						// ]]>
-						</script><ul id="pagetools"><li id="pagetools1"><a href="#pagetools" onclick="history.back(); return false;" onkeypress="history.back(); return false;" title="Return to previous page" class="pageback"><span>Back</span></a></li><li id="pagetools2"><a href="#pagetools" onclick="window.print(); return false;" onkeypress="window.print(); return false;" title="Print current page" class="pageprint"><span>Print</span></a></li><li id="pagetools3"><a href="#pagetools" onclick="window.scrollTo(0,0); return false;" onkeypress="window.scrollTo(0,0); return false;" title="Return to top of page" class="pagetop"><span>Top</span></a></li></ul>
-
-						
-						<noscript>
-							<div id="pagetoolsnoscript">
-								<p><a href="#wrapper" title="Return to top of page">Top</a></p>
-							</div>
-						</noscript><span class="hide">-</span>
+		<span class="hide">-</span>
 <div id="anchored">
   <div class="sleeve">
     <div id="abacusaddress">
@@ -556,44 +597,44 @@ document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/
 <div class="sleeve">
 <ul>
 <li>
-<a class="bottomnavoff" href="#">© Music Week 2007</a>
+<a class="bottomnavoff" href="contacts.asp?navcode=48">Contact us</a>
 </li>
 <li>
-<a class="bottomnavoff" href="hybrid.asp?typeCode=8&amp;pubCode=1&amp;navcode=54">Privacy policy</a>
+<a class="bottomnavoff" href="hybrid.asp?typeCode=17&amp;pubCode=1&amp;navcode=201">Subscribe</a>
+</li>
+<li>
+<a class="bottomnavoff" href="hybrid.asp?typeCode=39&amp;pubCode=1&amp;navcode=177202">Advertise</a>
 </li>
 <li>
 <a class="bottomnavoff" href="hybrid.asp?typeCode=7&amp;pubCode=1&amp;navcode=55">Terms &amp; conditions</a>
 </li>
 <li>
-<a class="bottomnavoff" href="feedback.asp?navcode=46">Feedback</a>
-</li>
-<li>
-<a class="bottomnavoff" href="site_map.asp?navcode=47">Site map</a>
-</li>
-<li>
-<a class="bottomnavoff" href="contacts.asp?navcode=48">Contact us</a>
+<a class="bottomnavoff" target="_blank" href="http://www.privacypolicy.cmpi.net/">Privacy policy</a>
 </li>
 <li>
 <a class="bottomnavoff" href="publicationindex.asp?navcode=49">Issue index</a>
 </li>
 <li>
-<a class="bottomnavoff" target="_blank" href="http://www.cmpi.biz">CMP Information</a>
+<a class="bottomnavoff" href="site_map.asp?navcode=47">Site map</a>
+</li>
+<li>
+<a class="bottomnavoff" target="_blank" href="http://www.cmpi.biz">UBM</a>
 </li>
 </ul>
 </div>
 </div>
-<div id="footer"> <img src="/magazine/graphics/cmp_logo.jpg" alt="CMP Logo">
+<div id="footer"><img alt="UBM Logo" src="/magazine/graphics/ubm_logo.gif">
 	<div class="sleeve">
 		    <p>All contents copyright 2008 
-    <a href="http://www.cmpi.biz">CMPi Ltd</a> All rights reserved. Please review the 
-    <a href="/hybrid.asp?typeCode=7&amp;pubCode=1&amp;navcode=55">Terms and Conditions</a> and <a href="/hybrid.asp?typeCode=8&amp;pubCode=1&amp;navcode=54">Privacy Policy</a> pages before using this site. Your use of the site indicates your agreement to be bound by the <a href="/hybrid.asp?typeCode=7&amp;pubCode=1&amp;navcode=55">Terms and Conditions</a>. Comments or technical problems - contact <a href="mailto:infomusicweek@musicweek.com">infomusicweek@musicweek.com.</a>
+    <a href="http://www.cmpi.biz">UBM Information Ltd </a> All rights reserved. Please review the 
+    <a href="http://www.privacypolicy.cmpi.net/">Terms and Conditions</a> and <a href="http://www.privacypolicy.cmpi.net/">Privacy Policy</a> pages before using this site. Your use of the site indicates your agreement to be bound by the Terms and Conditions. Comments or technical problems - contact <a href="mailto:infomusicweek@musicweek.com">infomusicweek@musicweek.com.</a>
     </p> 
 	</div>
 </div>
 
 <!-- Start of Omniture SiteCatalyst JS Code-->
 <script language="javascript" type="text/javascript" src="/magazine/omniture/s_code.js">
-</script><img name="s_i_cmpimusicweekcom" height="1" width="1" border="0" alt="" src="https://cmpi.122.2O7.net/b/ss/cmpimusicweekcom/1/H.3-pdv-2/s8151946684052?[AQB]&amp;ndh=1&amp;t=31/0/2020%207%3A7%3A8%205%200&amp;ns=cmpi&amp;pageName=Music%20Week&amp;g=https%3A//web.archive.org/web/20080530073304id_/http%253A//www.musicweek.com/hybrid.asp%253FtypeCode%253D8%2526pubCode%253D1%2526navcode%253D54&amp;ch=General&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+</script><img name="s_i_cmpimusicweekcom" height="1" width="1" border="0" alt="" src="https://cmpi.122.2O7.net/b/ss/cmpimusicweekcom/1/H.3-pdv-2/s86447130343419?[AQB]&amp;ndh=1&amp;t=31/0/2020%207%3A7%3A8%205%200&amp;ns=cmpi&amp;pageName=Music%20Week&amp;g=https%3A//web.archive.org/web/20081218134405id_/http%253A//www.musicweek.com/hybrid.asp%253FtypeCode%253D8%2526pubCode%253D1%2526navcode%253D54&amp;ch=General&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 <!-- End of Omniture SiteCatalyst JS code-->
 
 <!-- Start of Omniture SiteCatalyst Code Variables-->
@@ -626,9 +667,10 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 	<!-- End wrapper -->
 	
 
-<div class="skip hide">
+
+<!--div class="skip hide">
   <div class="sleeve">Skip:[<a href="#leftnavstart">To Main Navigation</a> | <a href="#leftnav2">Secondary Navigation</a> | <a href="#topnav">Third Level Navigation</a> | <a href="#maincol">Page Content</a> | <a href="#sitesearch" accesskey="s">Site Search</a>]</div>
-</div>
+</div-->
 
 
 </body></html>
