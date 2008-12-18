@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aol.com.au privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615150112id_/http%3A//www.aol.com.au/global/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aol.com.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218233536id_/http%3A//www.aol.com.au/global/privacy) for the most accurate reproduction.*
 
 # AOL Australia - Privacy Policy
 
