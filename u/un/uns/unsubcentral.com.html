@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the unsubcentral.com privacy policy that was archived on 2008-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080516063759id_/http%3A//www.unsubcentral.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the unsubcentral.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218081537id_/http%3A//www.unsubcentral.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>UnsubCentral - 
@@ -83,6 +83,61 @@ function changeObjectVisibility(objectId, newVisibility) {
 <meta name="keywords" content="Datran Media, UnsubCentral">
 <meta name="author" content="Erik Stark, Sam Eder, John Engler">
 <meta name="description" content="Through UnsubCentral, Inc, Datran Media offers advertisers and affiliates global CAN-SPAM suppression list management solutions.">
+
+<!-- Sam Skin CSS --> 
+<link rel="stylesheet" type="text/css" href="/includes/yui/build/container/assets/container.css"> 
+
+<!-- Dependencies --> 
+<script type="text/javascript" src="/includes/yui/build/yahoo-dom-event/yahoo-dom-event.js"></script> 
+ 
+<!-- OPTIONAL: Animation (only required if enabling animation) --> 
+<script type="text/javascript" src="/includes/yui/build/animation/animation-min.js"></script> 
+ 
+<!-- OPTIONAL: Connection (only required if using asynchronous form submission) --> 
+<script type="text/javascript" src="/includes/yui/build/connection/connection-min.js"></script> 
+ 
+<!-- OPTIONAL: Drag & Drop (only required if enabling Drag & Drop) --> 
+<script type="text/javascript" src="/includes/yui/build/dragdrop/dragdrop-min.js"></script> 
+ 
+<!-- OPTIONAL: YUI Button (these 2 files only required if you want Dialog to use YUI Buttons, instead of HTML Buttons) --> 
+<script type="text/javascript" src="/includes/yui/build/element/element-beta-min.js"></script> 
+<script type="text/javascript" src="/includes/yui/build/button/button-min.js"></script> 
+ 
+<!-- Source file --> 
+<script type="text/javascript" src="/includes/yui/build/container/container-min.js"></script>
+
+<script type="text/javascript">
+YAHOO.namespace('com.lightbox');
+function init() {
+	var handleCancel = function(o){
+		this.cancel();
+	}
+	YAHOO.com.lightbox.dialog5 = 
+	new YAHOO.widget.Dialog("lightbox_1",
+	{ width : "800px",
+	fixedcenter : true,
+	visible : false,
+	close: true,
+	draggable: true,
+	modal: true,
+	constraintoviewport : false});
+	YAHOO.util.Event.addListener('closeImg', 'click', function(o){YAHOO.com.lightbox.dialog5.hide()});
+	YAHOO.com.lightbox.dialog5.render();
+	
+	YAHOO.util.Dom.setStyle(['lightbox_1'], 'display', 'block');
+};
+
+YAHOO.util.Event.addListener(window, "load", init);
+</script>
+<style type="text/css">
+.mask {
+-moz-opacity: 0.8;
+opacity:.80;
+filter: alpha(opacity=80);
+background-color:#2f2f2f;
+}
+</style>
+
 <!-- apogee-search.HitsLink.com/ web tools statistics hit counter code -->
 <script type="text/javascript" id="wa_u" src="https://counter.hitslink.com/track.js"></script>
 <script type="text/javascript">//<![CDATA[
@@ -118,11 +173,12 @@ document.getElementById('wa_u').src=wa_hp+'://counter.hitslink.com/track.js'; //
 						<table cellpadding="0" cellspacing="0">
 							<tbody><tr>
 								<td class="navBox"><a href="/index.php" class="TopNav">HOME</a></td>
-								<td class="navBox">| <a href="/solutions/index.php" class="TopNav">SOLUTIONS</a></td>
-								<td class="navBox">| <a href="/canspam/index.php" class="TopNav">CAN-SPAM</a></td>
-								<td class="navBox">| <a href="/partners/index.php" class="TopNav">PARTNERS</a></td>
+								<td class="navBox">| <a href="/solutions/" class="TopNav">SOLUTIONS</a></td>
+								<td class="navBox">| <a href="/network/" class="TopNav">NETWORK</a></td>
+								<td class="navBox">| <a href="/canspam/" class="TopNav">CAN-SPAM</a></td>
+								<td class="navBox">| <a href="/partners/" class="TopNav">PARTNERS</a></td>
 								<td class="navBox">| <a href="/company/about.php" class="TopNav">COMPANY</a></td>
-								<td class="navBox">| <a href="/news/index.php" class="TopNav">NEWS &amp; RESOURCES</a></td>
+								<td class="navBox">| <a href="/news/" class="TopNav">NEWS</a></td>
 								<td class="navBox">| <a href="/contact.php" class="TopNav">CONTACT</a></td>
 								<td class="navBox">| <a href="/login.php" class="TopNavOn"><strong>CLIENT LOGIN</strong></a></td>
 							</tr>
@@ -154,7 +210,7 @@ document.getElementById('wa_u').src=wa_hp+'://counter.hitslink.com/track.js'; //
 		<td width="100%" height="100%" valign="top" style="padding: 0px 0px 15px 0px;">
 			<table cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" width="100%">
 				<tbody><tr>
-					<td valign="top" style="border-left: 1px solid #666666; border-right: 1px solid #666666; padding: 5px 10px 5px 10px;" width="100%">
+					<td valign="top" width="100%" style="border-left: 1px solid #666666; border-right: 1px solid #666666; padding: 5px 10px 5px 10px;">
 
 <p><strong>Privacy Policy</strong><br>
 <span style="font-size: 10px;">Effective Date : January 18th, 2007</span></p>
@@ -201,7 +257,7 @@ Austin, TX 78701.</p>
 									<a class="footerLink" href="/privacy.php"> PRIVACY POLICY </a> &nbsp; | &nbsp; <a class="footerLink" href="/contact.php"> CONTACT </a>
 								</td>
 								<td class="footerBox" style="color: #FFFFFF; font-size: 10px;" width="100%" align="right">
-									© 2007 UnsubCentral, Inc. All Rights Reserved</td>
+									© 2008 UnsubCentral, Inc. All Rights Reserved</td>
 								
 							</tr>
 						</tbody></table>
@@ -220,7 +276,10 @@ Austin, TX 78701.</p>
 		</td>
 	</tr>
 </tbody></table>
-
+<!-- Begin Salesforce Tracking Code, Place immediately before closing </BODY> tag -->
+<script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
+<script type="text/javascript">__sfga();</script>
+<!-- End Salesforce Tracking Code, Place immediately before closing </BODY> tag -->
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
  </script>
@@ -228,6 +287,17 @@ Austin, TX 78701.</p>
  _uacct = "UA-220915-1";
  urchinTracker();
  </script>
+ 
+ <!-- Start of HubSpot Logging Code  -->
+<script type="text/javascript" language="javascript">
+var hs_portalid=40961; 
+var hs_salog_version = "2.00";
+var hs_ppa = "unsubcentral.demo.hubspot.com"
+document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://unsubcentral.demo.hubspot.com/salog.js.aspx" type="text/javascript"></script>
+<!-- End of HubSpot Logging Code -->
+
+
 
 
 </body></html>
