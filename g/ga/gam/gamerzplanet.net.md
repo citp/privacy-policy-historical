@@ -1,34 +1,37 @@
-> *The following text is extracted and transformed from the gamerzplanet.net privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611151719id_/http%3A//www.gamerzplanet.net/forums/gamerzplanet-discussion/100304-gamerzplanet-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerzplanet.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218132625id_/http%3A//www.gamerzplanet.net/forums/gamerzplanet-discussion/100304-gamerzplanet-privacy-policy.html) for the most accurate reproduction.*
 
 # GamerzPlanet Privacy Policy - GamerzPlanet - For All Your Online Gaming Needs!!
 
-01-16-2007, 09:37 PM  |    #[ **1**](http://www.gamerzplanet.net/forums/gamerzplanet-discussion/100304-gamerzplanet-privacy-policy.html#post622214 "permalink")  
+01-17-2007, 02:37 PM  |    #[ **1**](http://www.gamerzplanet.net/forums/gamerzplanet-discussion/100304-gamerzplanet-privacy-policy.html#post622214 "permalink")  
   
+Head Admin of GzP
+
  
 
-Last Online: Today 03:19 AM
+Last Online: Today 09:13 AM
 
 Join Date: Nov 2005
 
 Location: Canada
 
-Age: 20
+Age: 21
 
-Posts: 7,664 
+Posts: 8,006 
 
-Thanks: 46
+Thanks: 55
 
-Thanked 802 Times in 325 Posts 
+Thanked 1,165 Times in 386 Posts 
 
 iTrader: **[0](http://www.gamerzplanet.net/forums/itrader.php?u=6)** / 0% 
 
-Points: 53,568.37
+Points: 242,802.52
 
-Bank: 0.00
+Bank: 144,553.73
 
-Total Points: 53,568.37
+Total Points: 387,356.25
 
-[ ](http://www.gamerzplanet.net/forums/vbplaza.php?do=item&name=donate&userid=6)[](http://www.gamerzplanet.net/forums/vbplaza.php?do=item&name=give_gifts&userid=6) [](http://www.gamerzplanet.net/forums/vbplaza.php?do=item&name=give_gifts&userid=6) 
+[ ](http://www.gamerzplanet.net/forums/vbplaza.php?do=item&name=donate&userid=6)[](http://www.gamerzplanet.net/forums/vbplaza.php?do=item&name=give_gifts&userid=6) [](http://www.gamerzplanet.net/forums/vbplaza.php?do=item&name=give_gifts&userid=6) [](http://www.gamerzplanet.net/forums/vbplaza.php?do=item&name=give_gifts&userid=6) [](http://www.gamerzplanet.net/forums/vbplaza.php?do=item&name=give_gifts&userid=6) [](http://www.gamerzplanet.net/forums/vbplaza.php?do=item&name=give_gifts&userid=6)   
+[](http://www.gamerzplanet.net/forums/vbplaza.php?do=item&name=give_gifts&userid=6) 
 
 [](http://www.gamerzplanet.net/forums/vbplaza.php?do=item&name=give_ribbons&userid=6) [](http://www.gamerzplanet.net/forums/vbplaza.php?do=item&name=give_ribbons&userid=6) 
 
@@ -72,11 +75,8 @@ We reserve the right to modify and amend these terms at any time without notice.
 
 __________________
 
- **[Only registered and activated users can see links.[](http://www.gamerzplanet.net/forums/register.php)]**  
+ ** Want a more friendly and fun message board? Come join us at ******[Only registered and activated users can see links.[](http://www.gamerzplanet.net/forums/register.php)]** **
 
-
-**[Only registered and activated users can see links.[](http://www.gamerzplanet.net/forums/register.php)]** **\- 3000+ Free Flash Games <\- Brand NEW  
-******[Only registered and activated users can see links.[](http://www.gamerzplanet.net/forums/register.php)]** \- Upload your Images to GzP Upload!** ****[Only registered and activated users can see links.[](http://www.gamerzplanet.net/forums/register.php)]** \- An Off Topic Discussion Message Board  
-**  
+**GzP Recruiting Coders for Combat Arms** \- **[Only registered and activated users can see links.[](http://www.gamerzplanet.net/forums/register.php)]**  
   
-  |  [](http://www.gamerzplanet.net/forums/newreply.php?do=newreply&p=622214)
+  | 
