@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winferno.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609010915id_/http%3A//www.winferno.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winferno.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218200744id_/http%3A//www.winferno.com/privacy.aspx) for the most accurate reproduction.*
 
 # Winferno Software's Privacy Policy
 
@@ -69,6 +69,9 @@ We post customer testimonials on our website which may contain personally identi
 Legal Disclaimer   
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site 
 
+Automatic McAfee Software Renewal   
+Customers may purchase McAfee’s automatic renewal service by selecting that option on the checkout page for McAfee products. By purchasing an automatic renewal service from Winferno Software, customers agree to have their billing information and credit card number encrypted and passed along to McAfee. This information will be used to charge the customer for another subscription after a year from the date of product registration. It is strongly recommended that customers [review McAfee’s privacy policy](http://mcafee.com/us/about/privacy.html) prior to purchasing the automatic renewal service. 
+
 ###  Choice/Opt-out 
 
 We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference once you receive any promotional communications from us. 
@@ -89,7 +92,7 @@ We do not link this automatically collected data to personally identifiable info
 
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. [We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
 
-We use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. For information about cookies please click on the link that follows: <http://www.microsoft.com/info/cookies.msp>
+We use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. For information about cookies please click on the link that follows: <http://www.microsoft.com/info/cookies.msp>
 
 We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
 
