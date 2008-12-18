@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadianbusinessdirectory.ca privacy policy that was archived on 2008-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080211185653id_/http%3A//www.canadianbusinessdirectory.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianbusinessdirectory.ca privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218110926id_/http%3A//www.canadianbusinessdirectory.ca/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - canadianbusinessdirectory.ca
 
