@@ -1,54 +1,73 @@
-> *The following text is extracted and transformed from the roamfree.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205042702id_/http%3A//www.roamfree.com/roamfree-privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roamfree.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218061129id_/http%3A//www.roamfree.com/Privacy.aspx) for the most accurate reproduction.*
 
-# roamfree.com - Privacy Policy
+# roamfree.com - Best Rates Accommodation, Hotels, Resorts
 
-Privacy is the no. 1 concern of Internet users. We understand and respect that. We never want to lose your trust over privacy concerns.
+This Privacy Policy ("Policy") explains in general terms how Global Accommodation Search and controlled entities (Roamfree Ltd ACN 118 452 190) ("roamfree.com", "Roamfree", roamfree4u.com, GAS, "we" "our" or "us") protects the privacy of your personal information. We are firmly committed to protecting the privacy and confidentiality of personal information and maintain robust physical, electronic and procedural safeguards to protect personal information in our care.
 
-Here's what you should know about our commitment to your privacy:
+Personal information is information or an opinion, in any form (whether true or not) about an individual whose identity is apparent or can reasonably be ascertained from the information or opinion. 
 
-roamfree.com will not disclose your personal information to third-party companies without your consent.
+How do we collect personal information?   
+Where practical we will collect personal information directly from you. Generally this will be collected by us when you deal with us either in person, by telephone, letter, facsimile, email or when you visit our website. We may request information about you when you purchase or make enquires about accommodation or other products and services; when you enter competitions, register for promotions or when you request brochures or other information. We may also collect information when we invite you to complete surveys or provide us with feedback or when you register as a member and complete your personal profile and preferences. 
 
-We may share aggregate data about our users with business partners, advertisers or sponsors. For example, we will say the roamfree.com audience is x percent females and y percent males. But our motivation in doing so is to deliver better content and services to you.
+What personal information do we collect?   
+Generally, the type of personal information we collect about you is the information that is needed to facilitate your travel arrangements and bookings and to provide travel services and products to you. For example, we may collect details such as your name, mailing address, telephone number, email address, credit card number and expiry date, passport details, dietary requirements (if any) and health issues relevant to your travel arrangements. We also collect information that is required for use in the business activities of Global Accomodation Search, including for example, financial details necessary in order to process various transactions and any other information you may elect to provide to us. 
 
-We use a combination of self served and third-party advertising companies to serve ads when you visit our web site. Our third-party advertising company also separately places or recognises a cookie file on your browser in the course of delivering advertisements to this site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.
+We are required by law to obtain your consent to the collection of sensitive information. We will assume that you have consented to the collection of all information which is provided to us for use in accordance with this Policy, unless you tell us otherwise. 
 
-We share information discriminately
+When we act as agent   
+When we sell products and services to you, we usually do so as agent for the wholesaler or provider of those products and services. This means that we usually collect personal information about you, both for our internal purposes, and on behalf of the parties for whom we act as agent, for their internal purposes. Accordingly, the consent you provide under this statement to the collection of personal information by us, applies equally to the parties whose products and services we sell. For example, if you purchase a hotel booking from us, then under this policy you will have consented to your personal information being used by us, being provided to that hotel to enable your accommodation to be booked and being used by the hotel. 
 
-roamfree.com may find itself in a situation where it must cooperate with authorities and disclose user information required by law or legal process.
+We act as agent for many hundreds of companies, so it is not possible for us to set out in this statement exactly how each of these companies will use your personal information, but we are happy to provide more specific information to you if you email your query to us at [privacyfeedback@globalaccommodationsearch.com](mailto:privacyfeedback@globalaccommodationsearch.com)
 
-To receive an email from roamfree.com, you will need to give us your first and last name, email address and post code. We will not require any other information. There are cases where roamfree.com may ask you for personal information such as your birth date. roamfree.com needs to collect this information for fulfilling prizes, tracking/verifying compliance with roamfree.com policies as well as federal and state laws and/or for editorial and feedback solicitation purposes.
+How do we use personal information?   
+We will use your personal information to provide you with accommodation and travel related products and services. 
 
-In case you change your mind or some personal information may change (such as your email address or post code), we will endeavor to provide a way to correct, update or remove the personal data you give us. 
+We may use and disclose your personal information for the purposes for which it was collected, or for a related or ancillary purpose such as any one or more of the following purposes: 
 
-We ensure you can opt-out
+Identification of fraud or error;   
+Regulatory reporting and compliance;   
+Developing, improving and marketing our products and services;   
+Servicing our relationship with you by, among other things, providing updates on promotions and services we think may interest you or you have identified an interest in.   
+Involving you in market research gauging customer satisfaction and seeking feedback regarding our relationship with you;   
+To facilitate your participation in loyalty programs;   
+For marketing activities; and   
+Internal accounting and administration.   
+Is the information disclosed to third parties?   
+We may disclose your personal information: 
 
-To keep you in control of your personal information and the communications directed to you, we allow you to opt-out of the following services:
+as permitted or required by law;   
+to various regulatory bodies and law enforcement officials and agencies to protect against fraud and for related security purposes;   
+to our third party service providers as well as to our related entities ;   
+to third parties such as hotels and other accommodation providers and other service providers for the purpose for which the information was collected or for a related purpose, for example to facilitate and process your accommodation arrangements; and   
+to third parties who may involve you in market research for the purpose of servicing our relationship with you and improving the services we provide.   
+The third parties to whom we disclose your personal information may also be taken to have collected your personal information in their own right, for their internal use. For more information, see the heading above, titled 'When we act as agent'. 
 
-* Receiving communications from roamfree.com about new features or services  
-* Receiving communications about offers from third-party companies that offer a product or service that we think would be of value to you
+Where we engage third party contractors to perform services for us those third party contractors may be required to handle your personal information. Under these circumstances those third party contractors must safeguard this information and must only use it for the purposes for which it was supplied, although we are not responsible for ensuring this. 
 
-If a user objects to such use for any reason, he/she may stop that use -- either by email request to [support@roamfree.com](mailto:support@roamfree.com) or by modifying his/her member information online.
+Other than the above, we will not disclose your personal information without your consent unless disclosure is either necessary to prevent a threat to life or health, authorised or required by law, reasonably necessary to enforce the law or necessary to investigate a suspected unlawful activity. 
 
-Why we collect IP addresses
+Trans-Border data flows   
+In providing our services to you it may be necessary for us to forward personal information to relevant overseas third party service providers. 
 
-An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web. Web servers -- the big computers that "serve up" Web pages -- automatically identify your computer by its IP address.
+Security of information   
+Global Accommodation Search has implemented appropriate physical, electronic and managerial security procedures in order to protect personal information from loss, misuse, alteration or destruction. 
 
-We collect IP addresses for the purposes of system administration, to report aggregate information to our advertisers and to audit the use of our site. When guests request pages from our sites, our servers log the guests' IP addresses. We do not link IP addresses to anything personally identifiable, which means that a user's session will be logged, but the user remains anonymous to us. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our house rules or terms of service or to protect our service, site, customers or others.
+Global Accommodation Search regularly reviews security and encryption technologies and will strive to protect information to the fullest extent possible. 
 
-We link to other Internet sites
+Access and correction of personal information   
+Subject to the exceptions set out in the Privacy Act 1988 (Cth), we invite you to access and correct any personal information we may hold on you. If we deny access, we will provide you with the reason for such denial. We may recover from you our reasonable costs of supplying you with access to this information. 
 
-Users should be aware that when you are on a roamfree.com site, you could be directed to other sites that are beyond our control. There are links to other sites from roamfree.com pages that take you outside our service. These other sites may send their own cookies to users, collect data or solicit personal information.
+Opt-out   
+Should you no longer wish to receive information on promotions and services we think may be of interest to you or participate in market research, kindly e-mail us on [privacyfeedback@globalaccommodationsearch.com](mailto:privacyfeedback@globalaccommodationsearch.com)
 
-Please keep in mind that whenever you give out personal information online -- for example, via message boards or chat -- that information can be collected and used by people you don't know. While roamfree.com strives to protect its users' personal information and privacy, we cannot guarantee the security of any information you disclose on-line. You do so at your own risk.
+Use of Cookies   
+A cookie is a small piece of text that is placed within the memory of a computer and can be later retrieved by web page servers. We use cookies to enhance your interaction and convenience with our website and do not use cookies to record any personal information. 
 
-roamfree.com policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond our control, and is not to be applied in any manner contrary to applicable law or governmental regulation.
+Linked Sites   
+Our website may contain links to other sites. We are not responsible for the privacy practices or the content of such web sites. We encourage you to read the privacy statements of any linked sites as their privacy policy may differ from ours. 
 
-What you should know about security
+Feedback / Complaints   
+We welcome your enquiries or comments about our Policy. Should you have any comments or complaints please contact us at  [privacyfeedback@globalaccodmmodationsearch.com](mailto:privacyfeedback@globalaccodmmodationsearch.com)
 
-The importance of security for all personally identifiable information associated with our guests is of utmost concern to us. We exercise great care in providing secure transmission of your information from your PC to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure.
-
-As a result, while we strive to protect your personal information, roamfree.com can't ensure or warrant the security of any information you transmit to us or from our on-line products or services. You do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
-
-Remember to sign out of your roamfree.com account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if your computer is accessible to others or if you share a computer with someone else or are using a computer in a public place like a library or Internet café.
-
-If you have questions or concerns regarding this web site's privacy statement, you should first contact the company at [support@roamfree.com.](mailto:support@roamfree.com)
+Changes to our Policy   
+From time to time it may be necessary for us to review and revise this Policy. We reserve the right to change our Policy at any time, should this occur the amendment would be posted on our website.
