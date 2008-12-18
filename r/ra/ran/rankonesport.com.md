@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rankonesport.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220002600id_/http%3A//rankonesport.com/%3Fm%3DContent%26n%3DPrivacy_Policy%26i%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankonesport.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218105242id_/http%3A//www.rankonesport.com/%3Fm%3DContent%26n%3DPrivacy_Policy%26i%3D7) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# RankOneSport.com .:. PRIVACY POLICY
 
     Rank One Sport LP, a Texas limited partnership (“ROS”), has created this Privacy Policy in order to demonstrate our firm commitment to the privacy of your personal information. The following discloses our information gathering and dissemination practices for the site located at[www.rankonesport.com](http://www.rankonesport.com/) and other affiliated websites owned and operated by ROS and its affiliates (the “Site”).
 
