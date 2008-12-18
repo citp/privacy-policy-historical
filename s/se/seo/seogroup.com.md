@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seogroup.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618185330id_/http%3A//www.seogroup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seogroup.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218140347id_/http%3A//seogroup.com/privacy) for the most accurate reproduction.*
 
-# Try Our Free SEO Tool & SERP Tracking Tool - SEO Group
+# SEO Group, Chicago Illinois
 
 #### Collection of Personally Identifiable Information
 
