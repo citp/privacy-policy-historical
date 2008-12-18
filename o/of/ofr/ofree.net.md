@@ -1,57 +1,31 @@
-> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517011533id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218210940id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at ¤ Only Free
 
-[ ](https://web.archive.org/magazines.html "Get a free magazines subscription!")
+Search Freebies,  
+Free Stuff &   
+Free samples 
 
-**TOP  
-Freebies Sites**
+Don't forget to bookmark us. (Just press "Control, D")
 
-  
-|  |   | 
+### Privacy Policy
 
-**Privacy Policy**
+Ofree.net has created this privacy policy to demonstrate our business in the highest ethical standards and to uphold our promise to the public. However, our policy might change periodically, due to the changes within the environment.
 
-|   Ofree.net has created this privacy policy to demonstrate our business in the highest ethical standards and to uphold our promise to the public. However, our policy might change periodically, due to the changes within the environment.   
----  
-**Collecting Data**  
-  Ofree.net only collects your email address with your consent to join our Free STUFF & Freebies NEWSLETTER! . We will also log your IP in order to prevent abuse. We do not collect any other personal information at this point of time.   
-**Statistical Analysis**  
-  Ofree.net does keep track of the pages you surf to and your user preferences, but we only view the data as a form of statistical analysis. We do not view individual surfing styles of users. 
+Collecting Data
 
-Ofree.net will never disclose your personal information to any third parties.   
-  
-**Disclaimer**  
-  Ofree.net is a portal site and has links to external sites. We are not responsible for the contents of these sites. Additionally, we provide descriptions on our site for the convenience of our visitors and these descriptions are written to the best of our knowledge and editorial guidelines. We cannot be held responsible for any of these descriptions. 
+Ofree.net only collects your email address with your consent to join our Free STUFF & Freebies NEWSLETTER! We will also log your IP in order to prevent abuse. We do not collect any other personal information at this point of time.
+
+Statistical Analysis
+
+Ofree.net does keep track of the pages you surf to and your user preferences, but we only view the data as a form of statistical analysis. We do not view individual surfing styles of users. 
+
+Ofree.net will never disclose your personal information to any third parties.
+
+Disclaimer
+
+Ofree.net is a portal site and has links to external sites. We are not responsible for the contents of these sites. Additionally, we provide descriptions on our site for the convenience of our visitors and these descriptions are written to the best of our knowledge and editorial guidelines. We cannot be held responsible for any of these descriptions. 
 
 Some of the offers listed on our site is not 100% free. You may have to pay Shipping or handling fees or be subjected to other conditions to get some free items. When you are giving out your personal information, please read their privacy policy and all details first. 
 
-For questions regarding this privacy statement or the practises of this site, please contact us by [Clicking Here.](https://web.archive.org/contact.html)  
-  
-   
-  
-**Qualify for a Free $250 Gas Card**
-
-Now While Supplies Last
-
-**or**  
-[](http://feeds.feedburner.com/OnlyFree-NewestFreebiesAndFreeStuff "Subscribe using any feed reader!")  
-to Our  
-[RSS FEED](https://web.archive.org/rss2.xml "Newest Freebies & Free Stuff")  
-and Get Your Newest Free Stuff & Freebies Faster and More Reliably! 
-
-**Free Sony Vaio Laptop Computer**
-
-Always on the go?
-
-**Free BRITA Riviera Water Pitcher !**
-
-More economical and more eco-friendly than bottled water.
-
-**Get Harry Potter and the Deathly Hallows - FREE!**
-
-HARRY POTTER Hardcover Box Set 1-6, PLUS Final Book 7, FREE!
-
-**100% Free Wrigley 5 GUM.**
-
-The Future of Gum is 5.
+For questions regarding this privacy statement or the practises of this site, please contact us by [Clicking Here.](https://web.archive.org/contact.html)
