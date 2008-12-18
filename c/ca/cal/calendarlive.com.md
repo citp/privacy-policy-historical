@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calendarlive.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608185252id_/http%3A//www.calendarlive.com/services/site/cl-privacy%2C0%2C6932976.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendarlive.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218195813id_/http%3A//www.calendarlive.com/services/site/cl-privacy%2C0%2C6932976.story) for the most accurate reproduction.*
 
 # Calendarlive.com Privacy Policy - Los Angeles Times - calendarlive.com
 
@@ -62,14 +62,12 @@ Calendarlive.com does not knowingly collect or solicit Personally Identifiable I
 
 We can be reached by contacting:
 
-**Calendarlive.com
+**Calendarlive.com**
 
-Calendarlive.com  
+ **Calendarlive.com  
 202 W. First Street  
 Los Angeles, CA 90012  
-Email: [feedback@latimes.com](mailto:feedback@latimes.com)
-
-**
+Email: [feedback@latimes.com](mailto:feedback@latimes.com)**
 
 **Changes to this policy.**
 
