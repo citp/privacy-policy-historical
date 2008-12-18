@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the naturalcollection.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629223316id_/http%3A//www.naturalcollection.com/organic/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalcollection.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218233331id_/http%3A//www.naturalcollection.com/organic/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
+  
 We at Green Dot Guides Ltd. [Natural Collection] are committed to protecting your privacy.   
-We use the information you give us to process orders and to provide an improved shopping experience.
+We use the information you give us to process orders and to provide an improved shopping experience. 
 
 When you order, we need to know your name, e-mail address, delivery address, credit or debit card number and the card's expiry date. This allows us to process and fulfil your orders and to notify you of the status of your order. We also ask for your telephone number, which enables us to contact you urgently if there is a problem with your order.
 
