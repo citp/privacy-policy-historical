@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mergemedia.net privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601213802id_/http%3A//mergemedia.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mergemedia.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218170941id_/http%3A//mergemedia.net/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
