@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the michaeljfox.org privacy policy that was archived on 2008-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080501140319id_/http%3A//www.michaeljfox.org/privacyPolicy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the michaeljfox.org privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218082207id_/http%3A//www.michaeljfox.org/privacyPolicy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=iso-8859-1">
@@ -13,14 +13,21 @@
 	
 	<meta name="description" content="For The Michael J. Fox Foundation, there is one clear measure of success: delivering patients better treatments and, ultimately, a cure for Parkinson's disease.">
 	<meta name="keywords" content="Michael J. Fox, Michael J. Fox Foundation, research organization, Parkinson, Parkinsons, Parkinson's disease, Parkinson's, Parkinson's research, Neurology, Nonprofit organization, Movement disorder, Advocacy, fundraisers, cure, science, Genetics, Dopamine, Neuron, Dyskinesia, Levodopa, Stem cell, Biomarker, research, Fox, Michael, Neuroprotective, Animal Models, Alpha-Synuclein, LRRK2, Mitochondrial dysfunction, Lewy bodies,  Gene therapy, Neuroimaging, Cell replacement, Stem cells, Trophic factors, Clinical trials, Exercise, Symptoms, Dopa-non-responsive, non-motor symptoms, speech disorders, Dyskinesia, protein handling, pesticides, Serotonin, Basal Ganglia, Regenerative, Neuropharmacology, Parkin, GDNF, Postural instability, Antioxidents, Neuroimaging, Epidemiology, Complications, PD Subtypes, Nurr1, Environment, Antioxidents, Test in models, grant, funding, Team Fox, treatment, tremor, PD, patient, caregiver, diagnosis, donate, donation, efficiency, translational focus, clinical research, fellowships, understanding disease, MJFF, Parkinson's in the news, open funding programs, awarded grants, PDGene, tools, resources, therapeutic approaches">
+	
 	<link rel="stylesheet" type="text/css" href="_styles.css" media="Screen">
 	<link rel="stylesheet" type="text/css" href="_styles_handheld.css" media="handheld">
 	<link rel="alternate stylesheet" type="text/css" href="_styles_large.css" title="largeFont" disabled="">
 	<link rel="stylesheet" type="text/css" href="_styles_print.css" media="print">
-	
-	
+	<!--[if IE]><link rel="stylesheet" type="text/css" href="_styles_IE.css" media="all"><![endif]-->
 	
 	<script src="_scripts.js" type="text/javascript"></script>
+	
+	
+	<script src="lytebox/lytebox.js" type="text/javascript" language="javascript"></script>
+	<link rel="stylesheet" type="text/css" media="screen" href="lytebox/lytebox.css">
+	<style>/*Grey Style Overlay Override*/
+	#lbOverlay.grey { background-color: #fff; }#lbOuterContainer.grey { border: 3px solid #ff9221;}#lbDetailsContainer.grey {border: 3px solid #ff9221; border-top:none;}</style>
+	
 	<script src="_styleSwitcher.js" type="text/javascript"></script>
 	<noscript>
 		<div id="noscript">
@@ -46,12 +53,23 @@
 	
 	function getData(qry)
 	{
+	
+	//alert(qry);
+	
 	searchString = qry;
+	//due to issues with single quotes in a string and AJAX, we need to convert any " ' " in the string to "%27" to pass long in the URL string.
+	searchString = searchString.replace(/%27/g," -squote- ");
+	searchString = searchString.replace(/'/g," -squote- ");
+	
+	//alert(searchString);
+	
 	DWREngine._execute(_cfscriptLocation, null, 'getDataList', searchString, getDataResult);
 	}
 	
 	function getDataResult(dataArray) {
-	
+		
+		//alert(dataArray);
+		
 		var key = Array();
 		var value = Array();
 		
@@ -59,7 +77,9 @@
 			key[i] = dataArray[i]['KEY'];
 			value[i] = dataArray[i]['VALUE'];
 		}
+		
 		strQuery = selectedSuggestObject.name + '.showQueryDiv("' + searchString + '", key , value)';
+		//alert(strQuery);
 		eval (strQuery);
 	}
 	
@@ -78,12 +98,14 @@
 		
 		
 		onSuggestFieldFocus(dataLookup1);
+		
 	}
 	
 	//must have this in order for this ajax to work
-	window.onload=function(){
+	/*window.onload=function(){
 			onInit()
-	}
+	}*/
+	addLoadEvent(onInit);
 	//]]>
 	</script>
 </head>
@@ -278,4 +300,4 @@ urchinTracker();
 
 
 
-</body></html>
+<div id="lbOverlay" class="grey" style="display: none;"></div><div id="lbMain" style="display: none;"><div id="lbOuterContainer" class="grey"><div id="lbIframeContainer" style="display: none;"><iframe id="lbIframe" name="lbIframe" style="display: none;"></iframe></div><div id="lbImageContainer"><img id="lbImage"><div id="lbHoverNav"><a id="lbPrev" class="grey" href="#"></a><a id="lbNext" class="grey" href="#"></a></div></div><div id="lbLoading"></div></div><div id="lbDetailsContainer" class="grey"><div id="lbDetailsData" class="grey"><div id="lbDetails"><span id="lbCaption"></span><span id="lbNumberDisplay"></span><span id="lbNavDisplay" style="display: none;"></span></div><div id="lbBottomNav"><a id="lbClose" class="grey" href="#"></a><a id="lbPause" class="grey" href="#" style="display: none;"></a><a id="lbPlay" class="grey" href="#" style="display: none;"></a></div></div></div></div></body></html>
