@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twiztv.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609045053id_/http%3A//www.twiztv.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twiztv.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218063030id_/http%3A//www.twiztv.com/about/privacy.html) for the most accurate reproduction.*
 
 # TWIZ TV | About Us Section - Privacy Policy
 
