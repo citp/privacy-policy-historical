@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stwater.co.uk privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509035122id_/http%3A//www.stwater.co.uk/server.php%3Fshow%3Dnav.5618) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stwater.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218123527id_/http%3A//www.stwater.co.uk/server.php%3Fshow%3Dnav.5618) for the most accurate reproduction.*
 
 # privacy policy : Severn Trent Water
 
@@ -12,7 +12,7 @@ Severn Trent Water Ltd (STW) are committed to protecting your privacy and  comp
 
 ### Our Use of Your Personal Information
 
-Any personal information you provide to us on this website is done so on a voluntary basis.  In some circumstances we may use the information provided by you to enhance our services to you.  You will be advised of any particular uses of the data at the time you provide it.  This is known as a Fair Processing or Fair collection Notice.  To see STW's more general notice, [click here](https://web.archive.org/web/20080509035122id_/http%3A//www.stwater.co.uk/server.php?show=ConWebDoc.3353).
+Any personal information you provide to us on this website is done so on a voluntary basis.  In some circumstances we may use the information provided by you to enhance our services to you.  You will be advised of any particular uses of the data at the time you provide it.  This is known as a Fair Processing or Fair collection Notice.  To see STW's more general notice, [click here](https://web.archive.org/web/20081218123527id_/http%3A//www.stwater.co.uk/server.php?show=ConWebDoc.3353).
 
 If you need to provide us with sensitive Personal Information (for example health information), you consent to the processing of this information for the purposes for which you have provided it.
 
