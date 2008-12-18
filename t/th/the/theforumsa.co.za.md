@@ -1,28 +1,27 @@
-> *The following text is extracted and transformed from the theforumsa.co.za privacy policy that was archived on 2007-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071004181941id_/http%3A//www.theforumsa.co.za/wiki/index.php%3Ftitle%3DThe_Forum_SA_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theforumsa.co.za privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218113137id_/http%3A//www.theforumsa.co.za/wiki/index.php%3Ftitle%3DThe_Forum_SA_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # The Forum SA Wiki:Privacy policy - The Forum SA Wiki
-
-### From The Forum SA Wiki
 
 Profile information is managed by the vBulletin forum software installed on this site. Details of The Forum SA's privacy policy is set out below. 
 
 ## Contents
 
   * 1 Summary
-  * 2 Publishing on the wiki and public data
+  * 2 Publishing on The Forum SA and public data
     * 2.1 Identification of an author
     * 2.2 Cookies
     * 2.3 Passwords
   * 3 Private logging
     * 3.1 Policy on release of data derived from page logs
-  * 4 Sharing information with third parties
-  * 5 Security of information
-  * 6 E-mail and mailing lists
-    * 6.1 E-mail
-    * 6.2 Mailing lists
-  * 7 User data
-    * 7.1 Removal of user accounts
-  * 8 Deletion of content
+  * 4 Adservers
+  * 5 Sharing information with third parties
+  * 6 Security of information
+  * 7 E-mail and mailing lists
+    * 7.1 E-mail
+    * 7.2 Mailing lists
+  * 8 User data
+    * 8.1 Removal of user accounts
+  * 9 Deletion of content
 
 
 
@@ -32,33 +31,27 @@ If you only read The Forum SA website, no more information is collected than is 
 
 If you contribute to The Forum SA, you are **publishing** every word you post publicly. If you write something, assume that it will be retained forever. This includes articles, user pages, talk pages and forum posts. Some limited exceptions are described below. 
 
-##  Publishing on the wiki and public data 
+##  Publishing on The Forum SA and public data 
 
 Simply visiting the web site does not expose your identity publicly (but see private logging below). 
 
-When you edit any page in the wiki, **you are publishing a document**. This is a public act, and you are identified publicly with that edit as its author. 
+When you make any post in the forum or edit any page in the wiki, **you are publishing a document**. This is a public act, and you are identified publicly with that edit as its author. 
 
 ###  Identification of an author 
 
-Only registered members may make posts in the forum area. 
-
-When you publish a page in the wiki, you may be logged in or not. 
+Only registered members may make posts in the forum area and edit or publish a page in the wiki. 
 
 If you are logged in, you will be identified by your user name. This may be your real name if you so choose, or you may choose to publish under a pseudonym, whatever user name you selected when you created your account. 
 
-If you have not logged in, you will be identified by your network IP address. This is a series of four numbers which identifies the Internet address from which you are contacting the wiki. Depending on your connection, this number may be traceable only to a large Internet service provider, or specifically to your school, place of business, or home. It may be possible that the origin of this IP address could be used in conjunction with any interests you express implicitly or explicitly by editing articles to identify you even by private individuals. 
+When using a user name, your IP address will not be available to the public except in cases of abuse, including vandalism of a wiki page by you or by another user with the same IP address. In all cases, your IP address will be stored on the wiki servers and can be seen by Wikimedia's server administrators and by users who have been granted "[CheckUser](https://web.archive.org/wiki/index.php/CheckUser "CheckUser")" access. Your IP address, and its connection to any usernames that share it may be released under certain circumstances (see below). 
 
-It may be either difficult or easy for a motivated individual to connect your network IP address with your real-life identity. Therefore if you are very concerned about privacy, you may wish to log in and publish under a pseudonym. 
-
-When using a pseudonym, your IP address will not be available to the public except in cases of abuse, including vandalism of a wiki page by you or by another user with the same IP address. In all cases, your IP address will be stored on the wiki servers and can be seen by Wikimedia's server administrators and by users who have been granted "[CheckUser](https://web.archive.org/wiki/index.php?title=CheckUser "CheckUser")" access. Your IP address, and its connection to any usernames that share it may be released under certain circumstances (see below). 
-
-If you use a company mail server from home or telecommute and use a DSL or cable Internet connection, it is likely to be very easy for your employer to identify your IP address and find all of your IP based Wikimedia project contributions. Using a user name is a better way of preserving your privacy in this situation. However, remember to log out or disconnect yourself after each session using a pseudonym on a shared computer, to avoid allowing others to use your identity. 
+Remember to log out or disconnect yourself after each session using a pseudonym on a shared computer, to avoid allowing others to use your identity. 
 
 ###  Cookies 
 
 The website will set a temporary session cookie (PHPSESSID) whenever you visit the site. If you do not intend to ever log in, you may deny this cookie, but you cannot log in without it. It will be deleted when you close your browser session. 
 
-More cookies may be set when you log in, to avoid typing in your user name (or optionally password) on your next visit. These last up to 30 days. You may clear these cookies after use if you are using a public machine and don't wish to expose your username to future users of the machine. (If so, clear the browser cache as well.) 
+More cookies may be set when you log in, to avoid typing in your user name (or optionally password) on your next visit. These last up to 30 days. You may clear these cookies by logging out after use if you are using a public machine and don't wish to expose your username to future users of the machine. (If so, clear the browser cache as well.) 
 
 ###  Passwords 
 
@@ -84,6 +77,12 @@ It is the policy of The Forum SA that personally identifiable data collected in 
 
 
 The Forum SA policy does not permit public distribution of such information under any circumstances, except as described above. 
+
+##  Adservers
+
+To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, and clickstream information. For further information, consult the privacy policies of: 
+
+Google, inc. <http://www.google.com/privacy.html>
 
 ##  Sharing information with third parties 
 
@@ -119,7 +118,7 @@ Data on users, such as the times at which they edited and the number of edits th
 
 Once created, user accounts will not be removed. It may be possible for a username to be changed by request to an Administrator. The Forum SA does not guarantee that a name will be changed on request. 
 
-A user account may be suspended, either temporarily or permanently, in the event of it being determined that the user is guilty of abuse. 
+A user account may be suspended, either temporarily or permanently, in the event of it being determined that the user is guilty of abuse, or that it is established that the email address associated with the user name is no longer valid. 
 
 ##  Deletion of content
 
