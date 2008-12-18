@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dummiesguideto.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430112700id_/http%3A//www.dummiesguideto.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dummiesguideto.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218080010id_/http%3A//www.dummiesguideto.com/privacy.php) for the most accurate reproduction.*
 
 # Free article content at The Dummies Guide to Everything
 
@@ -61,3 +61,7 @@ We can be reached by e-mailing us via this "MailTo" Link  [info@dummiesguideto.c
 dummiesguideto.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
 | 
+
+[](http://robb58.nichestore.hop.clickbank.net/)
+
+[](http://applepatchdiet.com/rw91172/index.html)
