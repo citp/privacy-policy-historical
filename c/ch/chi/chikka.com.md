@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chikka.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513222727id_/http%3A//www.chikka.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chikka.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218052323id_/http%3A//www.chikka.com/privacy.html) for the most accurate reproduction.*
 
-# All-new Chikka - Send free text, chat with Yahoo!, MSN, Google Talk, AIM and ICQ buddies
+# Chikka Privacy Policy | Your Privacy
 
 ## Privacy Policy
 
