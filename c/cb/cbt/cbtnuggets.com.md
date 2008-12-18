@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbtnuggets.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617005214id_/http%3A//www.cbtnuggets.com/html/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbtnuggets.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218141343id_/http%3A//www.cbtnuggets.com/html/help/privacy.html) for the most accurate reproduction.*
 
 # CBT Nuggets: Privacy Statement for CBT Nuggets, Inc
 
@@ -6,12 +6,12 @@ Privacy Statement for CBT Nuggets, Inc
 
 ## About Us
 
-This is a privacy policy for CBT Nuggets, Inc. Our homepage on the Web is located at [ http://www.cbtnuggets.com](http://www.cbtnuggets.com/). The full text of our privacy policy is available on the Web at [ http://www.cbtnuggets.com/html/help/privacy.html](http://www.cbtnuggets.com/html/help/privacy.html)
+This is a privacy policy for CBT Nuggets, LLC. Our homepage on the Web is located at [ http://www.cbtnuggets.com](http://www.cbtnuggets.com/). The full text of our privacy policy is available on the Web at [ http://www.cbtnuggets.com/html/help/privacy.html](http://www.cbtnuggets.com/html/help/privacy.html)
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
     
     
-    CBT Nuggets, Inc
+    CBT Nuggets
     44 Club Rd 
     Suite 150
     Eugene, OR 97401 
