@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graysonline.com.au privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516194443id_/http%3A//www.graysonline.com.au/help/AU/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graysonline.com.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218165846id_/http%3A//www.graysonline.com.au/help/AU/privacy.asp) for the most accurate reproduction.*
 
 # GraysOnline
 
@@ -82,4 +82,4 @@ We may amend our Online Auctions Privacy Statement if further privacy legislatio
 
 These amendments will take effect from the time of posting and you should check back from time to time for any such amendments.
 
-[Click here](https://web.archive.org/web/20080516194443id_/http%3A//www.graysonline.com.au/help/AU/bid_agreement.asp) to read the complete Bidders Agreement. 
+[Click here](https://web.archive.org/web/20081218165846id_/http%3A//www.graysonline.com.au/help/AU/bid_agreement.asp) to read the complete Bidders Agreement. 
