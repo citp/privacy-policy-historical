@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the patentstorm.us privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517004825id_/http%3A//www.patentstorm.us/index/legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patentstorm.us privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218070216id_/http%3A//www.patentstorm.us/index/legal.html) for the most accurate reproduction.*
 
-# symfony project
+# PatentStorm - Privacy Policy
+
+###  Bizarre Patents 
+
+Patent No. [5307162](https://web.archive.org/patents/5307162.html)
+
+Cloaking System Using Optoelectronically Controlled Camouflage 
+
+A Cloaking System designed to operate in the visible light spectrum, utilizes optoelectronics and/or photonic components to conceal an object within it.
+
+###  Newsletter
+
+To be informed of important news about our site, enter your email here. You can always unsubscribe later. Your address will not be released to others. ([Read our Privacy Policy](https://web.archive.org/index/legal.html)) 
 
 ### Privacy
 
