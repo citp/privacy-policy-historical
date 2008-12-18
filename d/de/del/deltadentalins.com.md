@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deltadentalins.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514200850id_/http%3A//www.deltadentalins.com/HIPAA.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltadentalins.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218034912id_/http%3A//www.deltadentalins.com/HIPAA.html) for the most accurate reproduction.*
 
 # HIPAA Notice of Privacy Practices
 
@@ -80,7 +80,7 @@ Delta Dental of Pennsylvania and its affiliates offer and administer fee for-se
 
 Delta Dental Insurance Company offers and administers fee-for-service dental programs to groups headquartered or located in Alabama, Florida, Georgia, Louisiana, Mississippi, Montana, Nevada, Texas and Utah. 
 
-DeltaCare® USA is underwritten in these states by these entities: AL — Alpha Dental of Alabama, Inc.; AZ — Alpha Dental of Arizona, Inc.; CA — Delta Dental of California; AR, CO, IA, MI, OK, OR, RI, SC, SD, WA, WI, WY — Dentegra Insurance Company; AK, CT, DE, FL, GA, KS, LA, MS, TN, WV and Washington, D.C. — Delta Dental Insurance Company; HI, KY, MD, MO, NJ, OH, TX — Alpha Dental Programs, Inc.; NV — Alpha Dental of Nevada, Inc.; UT — Alpha Dental of Utah, Inc.; NM — Alpha Dental of New Mexico, Inc.; NY — Delta Dental of New York; PA — Delta Dental of Pennsylvania. Delta Dental Insurance Company acts as the DeltaCare USA administrator in all these states, except CA. These companies are financially responsible for their own products.
+DeltaCare® USA is underwritten in these states by these entities: AL — Alpha Dental of Alabama, Inc.; AZ — Alpha Dental of Arizona, Inc.; CA — Delta Dental of California; AR, CO, IA, MI, OK, OR, RI, SC, SD, WA, WI, WY — Dentegra Insurance Company; AK, CT, DE, FL, GA, KS, LA, MS, TN, WV and Washington, D.C. — Delta Dental Insurance Company; HI, ID, IN, KY, MD, MO, NJ, OH, TX — Alpha Dental Programs, Inc.; NV — Alpha Dental of Nevada, Inc.; UT — Alpha Dental of Utah, Inc.; NM — Alpha Dental of New Mexico, Inc.; NY — Delta Dental of New York; PA — Delta Dental of Pennsylvania. Delta Dental Insurance Company acts as the DeltaCare USA administrator in all these states, except CA. These companies are financially responsible for their own products.
 
 You may contact the Privacy Department at the address and telephone number listed below for further information about the complaint process or any of the information contained in this notice.
 
