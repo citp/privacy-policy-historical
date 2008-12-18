@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the autonomy.com privacy policy that was archived on 2008-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080624201132id_/http%3A//www.autonomy.com/content/Legal/PrivacyPolicy.en.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the autonomy.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218185834id_/http%3A//www.autonomy.com/content/Legal/PrivacyPolicy.en.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 
@@ -11,13 +11,13 @@
 
 		<!-- BEGIN METADATA -->
 
-		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-		<meta http-equiv="Last-Modified" content="Wed, 6 Feb 2008 15:34:38 GMT">
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">
 
 		
-<meta http-equiv="content-language" content="en">
 
+<meta http-equiv="Last-Modified" content="Wed, 6 Feb 2008 15:34:38 GMT">
+		
+<meta http-equiv="content-language" content="en">
 
 
 			
@@ -27,15 +27,29 @@
 
 
 
-			<!-- INDEXABLE -->
-
 		
+
+
+
+
+		<meta name="keywords" content="acceptance, according, acknowledge, added, address, agree, appropriate, bound, call, cambridge, certain, com, coming, condition, conditions, confidentiality, contact, contacted, control, database, deems, disclose, disclosed, does, domains, e, efforts, email, england, exist, firewalls, francisco, future, however, identifiable, layers, levels, little, location, mail, name, names, occasion, occur, opportunities, parties, perfect, personally, persons, plans, please, policies, policy, privacy, products, programs, questions, regarding, related, remains, removed, rent, request, safeguard, san, secure, security, sell, services, should, site, socket, standard, statistics, subsidiaries, success, telephone, terms, third, tracks, understand, updated, use, used, uses, visitor, visitors, webmaster, website, wish, write">
+
+
 		<meta name="category" content="legal">
 
-		
 		<link rel="shortcut icon" href="/favicon.ico">
 
-		<link rel="alternate" title="Autonomy Press Releases RSS" href="/XML/feeds/news-rss2.xml?division=autonomy&amp;num=16" type="application/rss+xml">
+		<link rel="alternate" title="Autonomy News RSS 2.0" href="/XML/feeds/news-rss2.xml?division=autonomy&amp;num=16" type="application/rss+xml">
+
+		<link rel="alternate" title="Autonomy Cardiff News RSS 2.0" href="/XML/feeds/news-rss2.xml?division=cardiff&amp;num=16" type="application/rss+xml">
+
+		<link rel="alternate" title="Autonomy Etalk News RSS 2.0" href="/XML/feeds/news-rss2.xml?division=etalk&amp;num=16" type="application/rss+xml">
+
+		<link rel="alternate" title="Autonomy Meridio News RSS 2.0" href="/XML/feeds/news-rss2.xml?division=meridio&amp;num=16" type="application/rss+xml">
+
+		<link rel="alternate" title="Autonomy Virage News RSS 2.0" href="/XML/feeds/news-rss2.xml?division=virage&amp;num=16" type="application/rss+xml">
+
+		<link rel="alternate" title="Autonomy Zantaz News RSS 2.0" href="/XML/feeds/news-rss2.xml?division=zantaz&amp;num=16" type="application/rss+xml">
 
 		<link rel="search" type="application/opensearchdescription+xml" title="Autonomy Group Site Search" href="/content/IDOLServer/OpenSearch/IDOL_OpenSearch.xml">
 
@@ -732,10 +746,14 @@ div.MenuBuilderListBordered div.MenuBuilderListItem div.MenuBuilderListH1
 		<!-- BEGIN JAVASCRIPTS -->
 
 
-			<script language="javascript" type="text/javascript" src="/components/firebug/firebug.js"></script>
+			<script type="text/javascript" src="/components/firebug/firebug.js"></script>
 
 			<script type="text/javascript">
 				<!--
+
+				var SITE_PageLoaded = false;
+
+
 				function getLangCookie () {
 					var c_name = "AUTNPREF_LANG";
 					if( document.cookie.length > 0 ) {
@@ -751,27 +769,693 @@ div.MenuBuilderListBordered div.MenuBuilderListItem div.MenuBuilderListH1
 					}
 					return( "" );
 				}
+
 				var langCookie = getLangCookie();
+
 				if( langCookie.length > 0 ) {
 					if( langCookie != "en" ) {
 						document.location = document.location;
 					}
 				}
-				// -->
-			</script>
 
-			<script type="text/javascript">
-				<!--
-				var SITE_PageLoaded = false;
-				// -->
-			</script>
 
-			<script type="text/javascript" src="/lib.js"></script>
+				/* /lib.js */
+				function popopen( url, name, width, height ) {
+	var options = "width=" + width + ",height=" + height + ",directories=no,location=no,menubar=no,personalbar=no,resizable=no,screenX=0,screenY=0,scrollbars=yes,titlebar=yes,toolbar=no";
+	window.open( url, name, options );
+}
 
-			<script type="text/javascript" src="/content/IDOLServer/AJAX/ajax_idol.js"></script>
+function checkEmail( field ) {
+	// This function performs simple e-mail address checks
+	var theString = new String( field );
+	if( theString.match( /^[^@]+@[^@]+\.[^@]+$/ ) ) {
+		return( true );
+	}
+	return( false );
+}
 
-			<script type="text/javascript">
-				<!--
+function encodeString( s ) {
+  // This function takes a plain text string and encodes
+  // it as Unicode characters into an Array object.
+  var theString = new String( s );
+  var aEncoded  = new Array;
+  for( i = 0 ; i < theString.length ; i++ ) {
+    aEncoded.push( theString.charCodeAt(i) );
+  }
+  return( aEncoded );
+}
+
+function decodeString( aEncoded ) {
+  // This function takes an Array of Unicode values
+  // and constructs a plain text string.
+  var sDecoded = "";
+  for( i = 0 ; i < aEncoded.length ; i++ ) {
+    sDecoded += String.fromCharCode( aEncoded[i] );
+  }
+  return( sDecoded );
+}
+
+function showHide( id ) {
+  var style = document.getElementById(id).style;
+  if( ! style.display ) {
+    style.display = "block";
+  } else {
+    if( style.display == "none" ) {
+      style.display = "block";
+    } else {
+      style.display = "none";
+    }
+  }
+  return( true );
+}
+
+function submitOnReturn ( form ) {
+	if( window.event.keyCode == 13 ) {
+		form.submit();
+	}
+}
+
+
+
+				/* /content/IDOLServer/AJAX/ajax_idol.js */
+				
+
+
+
+
+
+var AjaxIDOL_AppName = 'compliant';
+var AjaxIDOL_docURI  = new String( document.location );
+AjaxIDOL_docURI      = AjaxIDOL_docURI.replace( /^http:\/\/[^\/]+(\/.*)$/, "$1" );
+
+
+switch ( navigator.appName ) {
+	case "Netscape" :
+		AjaxIDOL_AppName = 'compliant';
+		break;
+	case "Microsoft Internet Explorer" :
+		AjaxIDOL_AppName = 'msie';
+		break;
+	default :
+		AjaxIDOL_AppName = 'compliant';
+		break;
+}
+
+
+function AjaxIDOL_Dispatch ( oArg ) {
+	var http_request = null;
+	if( window.XMLHttpRequest ) {
+		http_request = new XMLHttpRequest();
+		if( http_request.overrideMimeType ) {
+			http_request.overrideMimeType("application/xml");
+		}
+	} else if ( window.ActiveXObject ) {
+		try {
+			http_request = new ActiveXObject("Msxml2.XMLHTTP");
+		} catch ( e ) {
+			try {
+				http_request = new ActiveXObject("Microsoft.XMLHTTP");
+			} catch ( e ) {
+				;
+			}
+		}
+	} else {
+		return( true );
+	}
+	http_request.onreadystatechange = function () {
+		oArg.http_request = http_request;
+		AjaxIDOL_Process( oArg );
+	};
+		var url  = 'http://www.autonomy.com/content/IDOLServer/AJAX/XML/' + oArg.file;
+	var post = null;
+	switch( oArg.type ) {
+		case "aqg":
+			post = 'query=' + oArg.text + '&databases=' + oArg.databases;
+			break;
+		case "hyperlink_suggest":
+			post = 'query=' + oArg.text + '&databases=' + oArg.databases;
+			break;
+		default:
+			post = 'reference=' + oArg.reference;
+			break;
+	}
+	http_request.open( "POST", url, true );
+	http_request.setRequestHeader( "Content-Type", "application/x-www-form-urlencoded" );
+	http_request.setRequestHeader( "Content-Type", "application/x-www-form-urlencoded" );
+	http_request.send( post );
+	return( true );
+}
+
+
+function AjaxIDOL_Process ( oArg ) {
+	if( oArg.http_request.readyState == 4 ) {
+		if( oArg.http_request.status == 200 ) {
+			switch( oArg.type ) {
+				case "query_suggest":
+					AjaxIDOL_Render_QuerySuggest( oArg );
+					break;
+				case "hyperlink":
+					AjaxIDOL_Render_Hyperlink( oArg );
+					break;
+				case "hyperlink_suggest":
+					AjaxIDOL_Render_Hyperlink( oArg );
+					break;
+				case "quote":
+					AjaxIDOL_Render_Quote( oArg );
+					break;
+				case "aqg":
+					AjaxIDOL_Render_AQG( oArg );
+					break;
+				default:
+					break;
+			}
+		}
+	}
+	return( true );
+}
+
+
+/** Search Results Related Documents **/
+
+function AjaxIDOL_Render_QuerySuggest ( oArg ) {
+	var wrapperNode = document.getElementById( "AJAXIDOL" + oArg.id );
+	var targetNode  = document.getElementById( "SIMILARDIV" + oArg.id );
+	var nodelist    = oArg.http_request.responseXML.getElementsByTagName("hit");
+	for( var i = 0 ; i < nodelist.length ; i++ ) {
+		var hitNode     = nodelist[i];
+		var title       = AjaxIDOL_GetValue( hitNode, "title" ) || "Untitled Document";
+		var siteicon    = AjaxIDOL_GetValue( hitNode, "siteicon" );
+		var contenttype = AjaxIDOL_GetValue( hitNode, "contenttype" );
+		var url         = AjaxIDOL_GetValue( hitNode, "reference" );
+		if( url ) {
+			var divNode = document.createElement( "div" );
+
+			if( contenttype == "application/pdf" ) {
+				var pdfImgNode       = document.createElement( "img" );
+				pdfImgNode.src       = "/content/IDOLServer/media/icons-small/pdf.gif";
+				pdfImgNode.className = "search-result-tiny-icon";
+				pdfImgNode.width     = 16;
+				pdfImgNode.height    = 16;
+				divNode.appendChild( pdfImgNode );
+			}
+
+			var aNode    = document.createElement( "a" );
+			var textNode = document.createTextNode( " " + title );
+			aNode.href   = url;
+			aNode.appendChild( textNode );
+			divNode.appendChild( aNode );
+			targetNode.appendChild( divNode );
+			targetNode.style.display  = "none";
+			wrapperNode.style.display = "block";
+		}
+	}
+	return( true );
+}
+
+
+/** Active Query Guidance **/
+
+function AjaxIDOL_CrumbTrailAdd ( string ) {
+	var searchForm = document.getElementById("IDOLSearchForm");
+	var crumbValue = new String( searchForm.crumbtrail.value );
+	var terms      = new Array();
+	if( crumbValue.length > 0 ) {
+		terms = crumbValue.split( '::' );
+		terms.push( string );
+	} else {
+		terms = new Array( string );
+	}
+	searchForm.crumbtrail.value = terms.join('::');
+	searchForm.submit();
+}
+
+function AjaxIDOL_CrumbTrailDelete ( i ) {
+	var searchForm = document.getElementById("IDOLSearchForm");
+	var crumbValue = new String( searchForm.crumbtrail.value );
+	var terms      = crumbValue.split( '::' );
+	var newTerms   = new Array();
+	for( var j = 0 ; j < terms.length ; j++ ) {
+		if( i == j ) {
+			continue;
+		} else {
+			newTerms.push( terms[j] );
+		}
+	}
+	searchForm.crumbtrail.value = newTerms.join('::');
+	searchForm.submit();
+}
+
+function AjaxIDOL_CrumbTrailDeleteAll () {
+	var searchForm = document.getElementById("IDOLSearchForm");
+	searchForm.crumbtrail.value = "";
+	searchForm.submit();
+}
+
+function AjaxIDOL_ReplaceQuery ( string ) {
+	var searchForm         = document.getElementById("IDOLSearchForm");
+	var value              = searchForm.query.value;
+	searchForm.query.value = string;
+	document.getElementById("IDOLSearchForm").crumbtrail.value = "";
+	searchForm.submit();
+}
+
+function AjaxIDOL_Render_AQG ( oArg ) {
+	var targetNode      = document.getElementById( oArg.id );
+	var nodelist        = oArg.http_request.responseXML.getElementsByTagName("cluster");
+	var imgCrumbtrailID = 0;
+	for( var i = 0 ; i < nodelist.length ; i++ ) {
+		var clusterNode = nodelist[i];
+		var title       = AjaxIDOL_GetValue(clusterNode,"title") || false;
+		if( ! title ) {
+			continue;
+		}
+		if( title ) {
+			var divNode           = document.createElement( "div" );
+			divNode.className     = "cluster-title";
+			var labelNode         = document.createTextNode( title );
+			var sTitleItemANode   = document.createElement( "a" );
+			sTitleItemANode.href  = "javascript:AjaxIDOL_ReplaceQuery('" + title + "')";
+			sTitleItemANode.title = "Click magnifier to begin new search with this phrase";
+			sTitleItemANode.appendChild( labelNode );
+			divNode.appendChild( sTitleItemANode );
+			targetNode.appendChild( divNode );
+			var itemNodelist = clusterNode.getElementsByTagName("item");
+			for( var j = 0 ; j < itemNodelist.length ; j++ ) {
+				var itemNode             = itemNodelist[j];
+				var itemString           = AjaxIDOL_GetValue(itemNode,"title");
+				var itemDivNode          = document.createElement( "div" );
+				itemDivNode.className    = "cluster-item-title";
+				var quoteRe              = /([\'\"])/g;
+				srchItemString           = itemString.replace( quoteRe, "\\$1");
+				var sItemANode           = document.createElement( "a" );
+				sItemANode.href          = "javascript:AjaxIDOL_ReplaceQuery('" + srchItemString + "')";
+				sItemANode.title         = "Click magnifier to begin new search with this phrase";
+				var sItemImgNode         = document.createElement( "img" );
+				sItemImgNode.src         = "/content/IDOLServer/media/aqg/magnifier.gif";
+				sItemImgNode.onmouseover = "this.src='/content/IDOLServer/media/aqg/magnifier_h.gif'";
+				sItemImgNode.onmouseout  = "this.src='/content/IDOLServer/media/aqg/magnifier.gif'";
+				sItemANode.appendChild( sItemImgNode );
+				itemDivNode.appendChild( sItemANode );
+				var itemANode           = document.createElement( "a" );
+				itemANode.href          = "javascript:AjaxIDOL_CrumbTrailAdd('" + srchItemString + "')";
+				itemANode.title         = "Click to add this phrase to your query";
+				var itemLabelNode       = document.createTextNode( itemString || "Untitled Item" );
+				var crumbID             = "IDOL_AQG_CRUMB_ADD" + imgCrumbtrailID
+				itemANode.onmouseover   = "document.getElementById('" + crumbID + "').src='/content/IDOLServer/media/aqg/crumbtrail-add_h.gif'";
+				itemANode.onmouseout    = "document.getElementById('" + crumbID + "').src='/content/IDOLServer/media/aqg/crumbtrail-add.gif'";
+				var sAddImgNode         = document.createElement( "img" );
+				sAddImgNode.id          = crumbID;
+				sAddImgNode.src         = "/content/IDOLServer/media/aqg/crumbtrail-add.gif";
+				sAddImgNode.onmouseover = "this.src='/content/IDOLServer/media/aqg/crumbtrail-add_h.gif'";
+				sAddImgNode.onmouseout  = "this.src='/content/IDOLServer/media/aqg/crumbtrail-add.gif'";
+				itemANode.appendChild( sAddImgNode );
+				itemANode.appendChild( itemLabelNode );
+				itemDivNode.appendChild( itemANode );
+				targetNode.appendChild( itemDivNode );
+				imgCrumbtrailID++;
+			}
+			document.getElementById(oArg.id+"CONTAINER").style.display = "block";
+		}
+	}
+	return( true );
+}
+
+
+/** Automatic Hyperlinking **/
+
+function AjaxIDOL_Render_Hyperlink ( oArg ) {
+	var targetNode = document.getElementById( oArg.id );
+	var nodelist   = oArg.http_request.responseXML.getElementsByTagName("hit");
+	var aSitenames = new Array();
+	for( var i = 0 ; i < nodelist.length ; i++ ) {
+		var hitNode  = nodelist[i];
+		var sitename = AjaxIDOL_GetValue( hitNode, "sitename" );
+		aSitenames[sitename] = sitename;
+	}
+	var aSitenamesSorted = new Array();
+	for ( var sname in aSitenames ) {
+		aSitenamesSorted.push( sname );
+	}
+	aSitenamesSorted.sort();
+	for ( var i in aSitenamesSorted ) {
+		var sname = aSitenamesSorted[i];
+		var divNode            = document.createElement( "div" );
+		divNode.className      = "hyperlink-block";
+		var titleDivNode       = document.createElement( "div" );
+		titleDivNode.className = "hyperlink-title";
+		var textNode           = document.createTextNode( sname );
+		var aNode              = document.createElement( "a" );
+		aNode.href             = "http://" + sname + "/";
+		aNode.appendChild( textNode );
+		divNode.appendChild( titleDivNode );
+		titleDivNode.appendChild( aNode );
+		targetNode.appendChild( divNode );
+		_AjaxIDOL_Render_Hyperlink_Render_Sitename( divNode, nodelist, sname );
+	}
+	return( true );
+}
+
+
+function _AjaxIDOL_Render_Hyperlink_Render_Sitename ( targetNode, nodelist, sname ) {
+	for( var i = 0 ; i < nodelist.length ; i++ ) {
+		var hitNode     = nodelist[i];
+		var title       = AjaxIDOL_GetValue( hitNode, "title" ) || "Untitled Document";
+		var sitename    = AjaxIDOL_GetValue( hitNode, "sitename" );
+		var siteicon    = AjaxIDOL_GetValue( hitNode, "siteicon" );
+		var ref         = AjaxIDOL_GetValue( hitNode, "reference" );
+		var contenttype = AjaxIDOL_GetValue( hitNode, "contenttype" );
+		var summary     = AjaxIDOL_GetValue( hitNode, "summary" );
+		var cluster     = AjaxIDOL_GetValue( hitNode, "cluster" );
+		var weight      = AjaxIDOL_GetValue( hitNode, "weight" );
+		var category    = AjaxIDOL_GetValue( hitNode, "category" );
+		if( sname != sitename ) {
+			continue;
+		}
+		if( ref ) {
+			var url    = "";
+			if( sitename == "www.autonomy.com" ) {
+				url = ref;
+			} else {
+				url    = "http://" + sitename + ref;
+			}
+			var divNode       = document.createElement( "div" );
+			divNode.className = "hyperlink-result";
+
+			var weightNode = document.createElement( "strong" );
+			var weightTextNode = document.createTextNode( weight + "% " );
+			weightNode.appendChild( weightTextNode );
+			divNode.appendChild( weightNode );
+
+			if( category.length > 0 ) {
+				var catSpanNode = document.createElement( "span" );
+				var catTextNode = document.createTextNode( " [" + category + "] " );
+				catSpanNode.className = "hyperlink-category";
+				catSpanNode.appendChild( catTextNode );
+				divNode.appendChild( catSpanNode );
+			}
+
+			if( contenttype == "application/pdf" ) {
+				var pdfImgNode       = document.createElement( "img" );
+				pdfImgNode.src       = "/components/publications/icons/pdf.gif";
+				pdfImgNode.className = "search-result-tiny-icon";
+				pdfImgNode.width     = 20;
+				pdfImgNode.height    = 19;
+				divNode.appendChild( pdfImgNode );
+			}
+
+			var textNode = document.createTextNode( " " + title );
+			var aNode    = document.createElement( "a" );
+			aNode.href   = url;
+			aNode.appendChild( textNode );
+			divNode.appendChild( aNode );
+			targetNode.appendChild( divNode );
+			document.getElementById( oArg.id + "CONTAINER" ).style.display = "block";
+		}
+	}
+	return( true );
+}
+
+
+function AjaxIDOL_Hyperlink_PopOpen ( event ) {
+	var x = event.clientX;
+	var y = event.clientY;
+	return( true );
+}
+
+
+/** Related Quotes **/
+
+function AjaxIDOL_Render_Quote ( oArg ) {
+	var targetNode = document.getElementById( oArg.id );
+	var nodelist   = oArg.http_request.responseXML.getElementsByTagName("hit");
+	var showQuotes = false;
+	for( var i = 0 ; i < nodelist.length ; i++ ) {
+		var hitNode = nodelist[i];
+		var quote   = AjaxIDOL_GetValue( hitNode, "quote" );
+		var credit  = AjaxIDOL_GetValue( hitNode, "credit" );
+		if( quote ) {
+			var quoteDivNode       = document.createElement( "div" );
+			quoteDivNode.className = "quote";
+			var quoteTextNode      = document.createTextNode( quote );
+			quoteDivNode.appendChild( quoteTextNode );
+			targetNode.appendChild( quoteDivNode );
+			var creditDivNode       = document.createElement( "div" );
+			creditDivNode.className = "quote";
+			var strongNode          = document.createElement( "strong" );
+			var creditTextNode      = document.createTextNode( credit );
+			strongNode.appendChild( creditTextNode );
+			creditDivNode.appendChild( strongNode );
+			targetNode.appendChild( creditDivNode );
+			showQuotes = true;
+		}
+	}
+	if( showQuotes == true ) {
+		document.getElementById( oArg.id + "CONTAINER" ).style.display = "block";
+	} else {
+		document.getElementById( oArg.id + "CONTAINER" ).style.display = "none";
+	}
+	return( true );
+}
+
+
+/** Suggest on Paragraphs **/
+
+var AjaxIDOL_ParaID = 1;
+
+function AjaxIDOL_getParaID () {
+	return( "AjaxIDOL_ParaID" + AjaxIDOL_ParaID++ );
+}
+
+
+function AjaxIDOL_buildNodeList ( nodeList, node, tagName ) {
+	var nodes = node.getElementsByTagName( tagName );
+	for( i = 0 ; i < nodes.length ; i++ ) {
+		var pNodesCheck   = nodes[i].getElementsByTagName("p");
+		var divNodesCheck = nodes[i].getElementsByTagName("div");
+		if( ( pNodesCheck.length + divNodesCheck.length ) == 0 ) {
+			var qText = new String("");
+			if( nodes[i].innerText ) {
+				qText = new String( nodes[i].innerText );
+			} else if( nodes[i].textContent ) {
+				qText = new String( nodes[i].textContent );
+			} else {
+				qText = new String("");
+			}
+			var queryText = new String( qText.replace( /\s+/g, " " ) );
+			if( queryText.length >= 100 ) {
+				var elements = new Array( nodes[i], queryText );
+				nodeList.push( elements );
+			}
+		}
+	}
+	return( true );
+}
+
+
+function AjaxIDOL_runSuggestOnText () {
+	var contentNode = document.getElementById("CONTENT_CONTAINER");
+	var nodeList    = new Array();
+	AjaxIDOL_buildNodeList ( nodeList, contentNode, "p" );
+	AjaxIDOL_buildNodeList ( nodeList, contentNode, "div" );
+	for( i = 0 ; i < nodeList.length ; i++ ) {
+		var queryText    = "query=" + encodeURI( nodeList[i][1] );
+		var http_request = null;
+		if( window.XMLHttpRequest ) {
+			http_request = new XMLHttpRequest();
+			if( http_request.overrideMimeType ) {
+				http_request.overrideMimeType("application/xml");
+			}
+		} else if ( window.ActiveXObject ) {
+			try {
+				http_request = new ActiveXObject("Msxml2.XMLHTTP");
+			} catch ( e ) {
+				try {
+					http_request = new ActiveXObject("Microsoft.XMLHTTP");
+				} catch ( e ) {
+					;
+				}
+			}
+		} else {
+			return( true );
+		}
+		AjaxIDOL_doSuggestOnText( http_request, i, queryText, nodeList );
+	}
+}
+
+
+function AjaxIDOL_doSuggestOnText ( req, pid, queryText, nodeList ) {
+	req.open( "post", "/content/IDOLServer/AJAX/XML/ajax_idol_suggestOnText.xml?pid=" + pid + "&omit=" + AjaxIDOL_docURI, true );
+	req.setRequestHeader( "Content-Type", "application/x-www-form-urlencoded" );
+	req.send( queryText );
+	req.onreadystatechange = function () {
+		try {
+			if( req.readyState == 4 ) {
+				if( req.status == 200 ) {
+					var HITS_FOUND = false;
+					var xmldoc     = req.responseXML;
+					var pid        = -1;
+					var nodes_pid  = xmldoc.getElementsByTagName("pid");
+					for( a = 0 ; a < nodes_pid.length ; a++ ) {
+						pid = nodes_pid[a].getAttribute("value");
+					}
+					var div_id         = AjaxIDOL_getParaID();
+					var div_main       = document.createElement( "div" );
+					div_main.id        = div_id;
+					div_main.className = "suggest-para";
+					var nodes_hit      = xmldoc.getElementsByTagName( "hit" );
+					var div_head       = document.createElement( "div" );
+					div_head.className = "suggest-title";
+					var div_head_text  = document.createTextNode( "Documents related to this section:" );
+					var img_logo       = document.createElement( "img" );
+					img_logo.src       = "/content/IDOLServer/media/suggest/IDOL_Links.gif";
+					img_logo.className = "suggest-idollinks";
+					div_main.appendChild( img_logo );
+					div_head.appendChild( div_head_text );
+					div_main.appendChild( div_head );
+
+					for( i = 0 ; i < nodes_hit.length ; i++ ) {
+						try {
+							var title       = "";
+							var href        = "";
+							var siteicon    = "";
+							var type        = "";
+							var nodes_title = nodes_hit[i].getElementsByTagName("title");
+							var nodes_href  = nodes_hit[i].getElementsByTagName("reference");
+							var nodes_icon  = nodes_hit[i].getElementsByTagName("siteicon");
+							var nodes_type  = nodes_hit[i].getElementsByTagName("contenttype");
+							for( j = 0 ; j < nodes_title.length ; j++ ) {
+								HITS_FOUND = true;
+								nodes_title[j].normalize();
+								nodes_href[j].normalize();
+								nodes_icon[j].normalize();
+								nodes_type[j].normalize();
+								title    = nodes_title[j].firstChild.nodeValue;
+								href     = nodes_href[j].firstChild.nodeValue;
+								siteicon = nodes_icon[j].firstChild.nodeValue;
+								type     = nodes_type[j].firstChild.nodeValue;
+							}
+							var div_item       = document.createElement( "div" );
+							div_item.className = "suggest-para-item";
+							var img_site       = document.createElement( "img" );
+							img_site.src       = siteicon;
+							img_site.className = "suggest-siteicon";
+							div_item.appendChild( img_site );
+							if( type == "application/pdf" ) {
+								var img_type       = document.createElement( "img" );
+								img_type.src       = "/content/IDOLServer/media/icons-small/pdf.gif";
+								img_type.className = "suggest-siteicon";
+								div_item.appendChild( img_type );
+							}
+							var link  = document.createElement( "a" );
+							link.href = href;
+							var label = document.createTextNode( title );
+							link.appendChild( label );
+							div_item.appendChild( link );
+							div_main.appendChild( div_item );
+						} catch ( e ) {
+							//console.log( e );
+						}
+					}
+					var oImg         = document.createElement( "img" );
+					oImg.src         = "/content/IDOLServer/media/suggest/suggest.gif";
+					oImg.className   = "suggest-para-click";
+					oImg.onclick     = function () { AjaxIDOL_ParaToggle( div_id ) };
+					oImg.onmouseover = function () { this.src='/content/IDOLServer/media/suggest/suggest_h.gif' };
+					oImg.onmouseout  = function () { this.src='/content/IDOLServer/media/suggest/suggest.gif' };
+					if( HITS_FOUND == true ) {
+						nodeList[pid][0].appendChild( oImg );
+						if( nodeList[pid][0].nextSibling != null ) {
+							nodeList[pid][0].parentNode.insertBefore( div_main, nodeList[pid][0].nextSibling );
+						} else {
+							nodeList[pid][0].parentNode.appendChild( div_main );
+						}
+						if( document.getElementById("suggest_note") ) {
+							document.getElementById("suggest_note").style.display = "block";
+						}
+					}
+				} else {
+					//console.log( req.status );
+				}
+			}
+		} catch ( e ) {
+			//console.log( e );
+		}
+	};
+	return( true );
+}
+
+
+function AjaxIDOL_ParaToggle ( div_id ) {
+	if( document.getElementById( div_id ).style.display == "block" ) {
+		document.getElementById( div_id ).style.display = "none";
+	} else {
+		document.getElementById( div_id ).style.display = "block";
+	}
+}
+
+
+function AjaxIDOL_waitSuggestOnText () {
+	if( SITE_PageLoaded == true ) {
+		AjaxIDOL_runSuggestOnText();
+	} else {
+		setTimeout( "AjaxIDOL_waitSuggestOnText()", 1000 );
+	}
+}
+
+//setTimeout( "AjaxIDOL_waitSuggestOnText()", 1000 );
+
+
+
+
+/** Utility Functions **/
+
+function AjaxIDOL_GetValue ( node, tagname ) {
+	var value    = false;
+	var nodelist = node.childNodes;
+	for( var i = 0 ; i < nodelist.length ; i++ ) {
+		var item = nodelist[i];
+		if( ( item.tagName == tagname ) && ( item.hasChildNodes ) && item.firstChild ) {
+			value = item.firstChild.nodeValue;
+			return( value );
+		}
+	}
+	return( value );
+}
+
+
+function AjaxIDOL_registerPopup() {
+	window.open( "/components/downloads/popup/index.en.html", "autonomy_register", "width=650,height=500,toolbar=no,menubar=no,status=no,location=no,directories=no,personalbar=no,resizable=no,dependent=yes" );
+}
+
+
+function AjaxIDOL_GetComputedWidth ( obj ) {
+	var value = "";
+	value     = obj.offsetWidth;
+	return( value );
+}
+
+function AjaxIDOL_GetComputedHeight ( obj ) {
+	var value = "";
+	value     = obj.offsetHeight;
+	return( value );
+}
+
+function AjaxIDOL_GetComputedStyle ( obj, css_rule ) {
+	var value = "";
+	if( document.defaultView && document.defaultView.getComputedStyle ) {
+		value = document.defaultView.getComputedStyle(obj, "").getPropertyValue(css_rule);
+	} else if( obj.currentStyle ) {
+		css_rule = css_rule.replace(/\-(\w)/g, function ( strMatch, p1 ) { return p1.toUpperCase() } );
+		value    = obj.currentStyle[css_rule];
+	}
+	return( value );
+}
+
+
+
+
+
+
 
 				var MenuBuilderCategoryID     = 'MB1';
 var MenuBuilderCategoryHilite = '';
@@ -1262,6 +1946,7 @@ function MB_sleep ( ms )
 	}
 }
 
+
 				function handleClick ()
 				{
 					if( SITE_PageLoaded == true )
@@ -1375,7 +2060,7 @@ function MB_sleep ( ms )
 	<tbody><tr>
 		<td class="banner-left-image"><a href="/"><img src="/components/template/banner/left-image.jpg" alt="Go to the Autonomy home page"></a></td>
 		<td class="banner-customers"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="187" height="82" id="customers_xml" align="middle"><param name="allowScriptAccess" value="sameDomain"><param name="movie" value="/components/template/customers_xml/customers_xml.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><param name="bgcolor" value="#ffffff"><embed src="/components/template/customers_xml/customers_xml.swf" quality="high" wmode="transparent" bgcolor="#ffffff" width="187" height="82" name="customers_xml" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></object></td>
-			<td class="banner-banner"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="373" height="82" id="BANNER" name="BANNER" type="application/x-shockwave-flash"><param name="movie" value="/components/template/banner/Banner_20080604.en.swf"><param name="loop" value="true"><param name="quality" value="best"><param name="wmode" value="opaque"><param name="scale" value="noscale"><param name="bgcolor" value="#FFFFFF"><param name="devicefont" value="false"><embed src="/components/template/banner/Banner_20080604.en.swf" loop="true" quality="best" wmode="opaque" scale="noscale" bgcolor="#FFFFFF" width="373" height="82" name="BANNER" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></object></td>
+			<td class="banner-banner"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="373" height="82" id="BANNER" name="BANNER" type="application/x-shockwave-flash"><param name="movie" value="/components/template/banner/Banner_20081208.en.swf"><param name="loop" value="true"><param name="quality" value="best"><param name="wmode" value="opaque"><param name="scale" value="noscale"><param name="bgcolor" value="#FFFFFF"><param name="devicefont" value="false"><embed src="/components/template/banner/Banner_20081208.en.swf" loop="true" quality="best" wmode="opaque" scale="noscale" bgcolor="#FFFFFF" width="373" height="82" name="BANNER" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></object></td>
 		<td class="banner-logo"><a href="/"><img src="/components/template/banner/logo.png" alt="Go to the Autonomy home page"></a></td>
 	</tr>
 </tbody></table>
@@ -1426,15 +2111,12 @@ function MB_sleep ( ms )
 	{
 		text-decoration:none;
 	}
-	--></style><div class="chooselang"><a href="/" title="Please ensure that you have cookies enabled for language switching" alt="Please ensure that you have cookies enabled for language switching" rel="nofollow"><img src="/components/locale/media/en.gif" onmouseover="this.src='/components/locale/media/en_h.gif'" onmouseout="this.src='/components/locale/media/en.gif'" alt="Switch to English"></a><a href="http://www.autonomy.co.jp/" title="Please ensure that you have cookies enabled for language switching" alt="Please ensure that you have cookies enabled for language switching" rel="nofollow"><img src="/components/locale/media/ja.gif" onmouseover="this.src='/components/locale/media/ja_h.gif'" onmouseout="this.src='/components/locale/media/ja.gif'" alt="Go to www.autonomy.co.jp"></a><a href="http://www.autonomy.com.cn/" title="Please ensure that you have cookies enabled for language switching" alt="Please ensure that you have cookies enabled for language switching" rel="nofollow"><img src="/components/locale/media/zh.gif" onmouseover="this.src='/components/locale/media/zh_h.gif'" onmouseout="this.src='/components/locale/media/zh.gif'" alt="Switch to Chinese"></a></div><div style="display:none"><img src="/components/locale/media/en_h.gif"><img src="/components/locale/media/ja_h.gif"><img src="/components/locale/media/zh_h.gif"></div>
+	--></style><div class="chooselang"><a href="http://www.autonomy.com/" title="Go to www.autonomy.com" rel="nofollow"><img src="/components/locale/media/en.gif" onmouseover="this.src='/components/locale/media/en_h.gif'" onmouseout="this.src='/components/locale/media/en.gif'" alt="Go to www.autonomy.com"></a><a href="http://www.autonomy.co.jp/" title="Go to www.autonomy.co.jp"><img src="/components/locale/media/ja.gif" onmouseover="this.src='/components/locale/media/ja_h.gif'" onmouseout="this.src='/components/locale/media/ja.gif'" alt="Go to www.autonomy.co.jp"></a><a href="http://www.autonomy.com.cn/" title="Go to www.autonomy.com.cn"><img src="/components/locale/media/zh.gif" onmouseover="this.src='/components/locale/media/zh_h.gif'" onmouseout="this.src='/components/locale/media/zh.gif'" alt="Go to www.autonomy.com.cn"></a></div><div style="display:none"><img src="/components/locale/media/en_h.gif" alt=""><img src="/components/locale/media/ja_h.gif" alt=""><img src="/components/locale/media/zh_h.gif" alt=""></div>
 
 
 
 
-
-		<div id="MBCC" class="MBCC"><div id="MBC_ITEM1" class="MBCL2"><div id="MBC_ITEM2" class="MBCL2Item"><a href="/content/Autonomy/introduction/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM2');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,0,['L1_0','MBC_ITEM1'],'MBC_ITEM3',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM2')">An Introduction to Autonomy</a></div><div id="MBC_ITEM4" class="MBCL2Item"><a href="/content/Autonomy/introduction/introduction-meaning-based-computing/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM4');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,0,['L1_0','MBC_ITEM1'],'MBC_ITEM5',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM4')">Meaning Based Computing (MBC)</a></div><div id="MBC_ITEM6" class="MBCL2Item"><a href="/content/Autonomy/introduction/introduction-meaning-of-success/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM6');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,0,['L1_0','MBC_ITEM1'],'MBC_ITEM7',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM6')">The Meaning of Success</a></div><div id="MBC_ITEM8" class="MBCL2Item"><a href="/content/Customers/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM8');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,0,['L1_0','MBC_ITEM1'],'MBC_ITEM9',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM8')">A Rich Broad Vertical Customer Base</a></div><div id="MBC_ITEM10" class="MBCL2Item"><a href="/content/OEMs/introduction/introduction-autonomy-oems/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM10');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,0,['L1_0','MBC_ITEM1'],'MBC_ITEM11',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM10')">Autonomy OEMs</a></div><div id="MBC_ITEM12" class="MBCL2Item"><a href="/content/Autonomy/introduction/introduction-innovation/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM12');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,0,['L1_0','MBC_ITEM1'],'MBC_ITEM13',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM12')">Innovation</a></div></div><div id="MBC_ITEM19" class="MBCL2"><div id="MBC_ITEM20" class="MBCL2Item"><a href="/content/Autonomy/Careers/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM20');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,0,['L1_0','MBC_ITEM19'],'MBC_ITEM21',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM20')">Careers at Autonomy</a></div><div id="MBC_ITEM22" class="MBCL2Item"><a href="/content/Autonomy/Careers/Graduates/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM22');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,0,['L1_0','MBC_ITEM19'],'MBC_ITEM23',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM22')">Graduate Careers</a></div><div id="MBC_ITEM24" class="MBCL2Item"><a href="/content/Autonomy/Careers/Openings/North_America/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM24');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,0,['L1_0','MBC_ITEM19'],'MBC_ITEM25',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM24')">Current North American Openings</a></div><div id="MBC_ITEM26" class="MBCL2Item"><a href="/content/Autonomy/Careers/Openings/Global/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM26');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,0,['L1_0','MBC_ITEM19'],'MBC_ITEM27',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM26')">Current Global Openings</a></div></div><div id="L1_0" class="MBCL1"><div id="MBC_ITEM0" class="MBCL1Item"><a href="/content/Autonomy/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM0');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,0,['L1_0'],'MBC_ITEM1',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM0')">An Introduction to Autonomy</a></div><div id="MBC_ITEM14" class="MBCL1Item"><a href="/content/Autonomy/Management/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM14');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,0,['L1_0'],'MBC_ITEM15',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM14')">Management</a></div><div id="MBC_ITEM16" class="MBCL1Item"><a href="/content/Autonomy/Offices/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM16');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,0,['L1_0'],'MBC_ITEM17',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM16')">Autonomy Offices</a></div><div id="MBC_ITEM18" class="MBCL1Item"><a href="/content/Autonomy/Careers/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM18');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,0,['L1_0'],'MBC_ITEM19',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM18')">Careers</a></div><div id="MBC_ITEM28" class="MBCL1Item"><a href="/content/Autonomy/Awards.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM28');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,0,['L1_0'],'MBC_ITEM29',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM28')">Awards</a></div><div id="MBC_ITEM30" class="MBCL1Item"><a href="http://campaign.autonomy.com/registration/register.html?campaign=98fef1cb0710c7fb238102507ea1c9cecontactautonomy" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM30');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,0,['L1_0'],'MBC_ITEM31',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM30')">Request Information</a></div><div id="MBC_ITEM32" class="MBCL1Item"><a href="/content/Autonomy/FAQ/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM32');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,0,['L1_0'],'MBC_ITEM33',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM32')">Frequently Asked Questions</a></div><div id="MBC_ITEM34" class="MBCL1Item"><a href="http://publications.autonomy.com/content/autonomy/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM34');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,0,['L1_0'],'MBC_ITEM35',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM34')">Publications Download Library</a></div><div id="MBC_ITEM36" class="MBCL1Item"><a href="/" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM36');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,0,['L1_0'],'MBC_ITEM37',8)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM36')">Home Page</a></div></div><div id="MBC_ITEM47" class="MBCL3"><div id="MBC_ITEM48" class="MBCL3Item"><a href="/content/Technology/technology/autonomys-technology-differentiation-accuracy/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM48');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,1,['L1_1','MBC_ITEM39','MBC_ITEM47'],'MBC_ITEM49',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM48')">Accuracy</a></div><div id="MBC_ITEM50" class="MBCL3Item"><a href="/content/Technology/autonomys-technology-differentiation-automation/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM50');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,1,['L1_1','MBC_ITEM39','MBC_ITEM47'],'MBC_ITEM51',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM50')">Automation</a></div><div id="MBC_ITEM52" class="MBCL3Item"><a href="/content/Technology/autonomys-technology-differentiation-cross-lingual/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM52');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,1,['L1_1','MBC_ITEM39','MBC_ITEM47'],'MBC_ITEM53',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM52')">Cross-lingual Functionality</a></div><div id="MBC_ITEM54" class="MBCL3Item"><a href="/content/Technology/autonomys-technology-differentiation-language-independence/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM54');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,1,['L1_1','MBC_ITEM39','MBC_ITEM47'],'MBC_ITEM55',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM54')">Language Independence</a></div><div id="MBC_ITEM56" class="MBCL3Item"><a href="/content/Technology/autonomys-technology-differentiation-learning-ability/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM56');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,1,['L1_1','MBC_ITEM39','MBC_ITEM47'],'MBC_ITEM57',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM56')">Learning Ability</a></div><div id="MBC_ITEM58" class="MBCL3Item"><a href="/content/Technology/autonomys-technology-differentiation-format-agnosticism/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM58');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,1,['L1_1','MBC_ITEM39','MBC_ITEM47'],'MBC_ITEM59',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM58')">Format Agnosticism</a></div><div id="MBC_ITEM60" class="MBCL3Item"><a href="/content/Technology/autonomys-technology-differentiation-support-future-technologies/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM60');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,1,['L1_1','MBC_ITEM39','MBC_ITEM47'],'MBC_ITEM61',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM60')">Support for Future Technologies</a></div></div><div id="MBC_ITEM39" class="MBCL2"><div id="MBC_ITEM40" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-a-different-approach/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM40');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM39'],'MBC_ITEM41',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM40')">A Different Approach</a></div><div id="MBC_ITEM42" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-unique-combination-technologies/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM42');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM39'],'MBC_ITEM43',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM42')">A Unique Combination of Technologies</a></div><div id="MBC_ITEM44" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-manual-or-automatic/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM44');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM39'],'MBC_ITEM45',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM44')">Manual or Automatic - It's Not an Either/Or Choice</a></div><div id="MBC_ITEM46" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-differentiation/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM46');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM39'],'MBC_ITEM47',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM46')">Differentiation</a></div></div><div id="MBC_ITEM63" class="MBCL2"><div id="MBC_ITEM64" class="MBCL2Item"><a href="/content/Technology/evolution/evolution-of-search/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM64');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM63'],'MBC_ITEM65',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM64')">Evolution of Search</a></div><div id="MBC_ITEM66" class="MBCL2Item"><a href="/content/Technology/evolution/evolution-of-search-pan-enterprise-search/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM66');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM63'],'MBC_ITEM67',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM66')">Pan-Enterprise Search</a></div></div><div id="MBC_ITEM69" class="MBCL2"><div id="MBC_ITEM70" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-limitations-of-other-approaches-keyword-boolean/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM70');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM69'],'MBC_ITEM71',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM70')">Keyword and Boolean Searches</a></div><div id="MBC_ITEM72" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-limitations-of-other-approaches-parsing/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM72');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM69'],'MBC_ITEM73',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM72')">Parsing and Natural Language Analysis</a></div><div id="MBC_ITEM74" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-limitations-of-other-approaches-manual-tagging/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM74');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM69'],'MBC_ITEM75',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM74')">Manual Tagging, Weighting and XML</a></div><div id="MBC_ITEM76" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-limitations-of-other-approaches-page-rank/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM76');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM69'],'MBC_ITEM77',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM76')">Page Ranking and Popularity-Based Internet Methods</a></div><div id="MBC_ITEM78" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-limitations-of-other-approaches-explicit-thesauri/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM78');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM69'],'MBC_ITEM79',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM78')">Explicit Thesauri</a></div><div id="MBC_ITEM80" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-limitations-of-other-approaches-vector-method/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM80');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM69'],'MBC_ITEM81',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM80')">The Vector Method</a></div><div id="MBC_ITEM82" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-limitations-of-other-approaches-onebox-model/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM82');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM69'],'MBC_ITEM83',8)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM82')">The “OneBox” Model</a></div><div id="MBC_ITEM84" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-limitations-of-other-approaches-social-methods/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM84');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM69'],'MBC_ITEM85',9)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM84')">Social Methods</a></div><div id="MBC_ITEM86" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-limitations-of-other-approaches-federation/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM86');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM69'],'MBC_ITEM87',10)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM86')">Federation: Not an Answer to Pan-Enterprise Search</a></div></div><div id="L1_1" class="MBCL1"><div id="MBC_ITEM38" class="MBCL1Item"><a href="/content/Technology/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM38');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,1,['L1_1'],'MBC_ITEM39',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM38')">Autonomy's Technology</a></div><div id="MBC_ITEM62" class="MBCL1Item"><a href="/content/Technology/evolution/evolution-of-search/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM62');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,1,['L1_1'],'MBC_ITEM63',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM62')">Evolution of Search</a></div><div id="MBC_ITEM68" class="MBCL1Item"><span class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM68');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,1,['L1_1'],'MBC_ITEM69',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM68')">Limitations of Other Approaches</span></div></div><div id="MBC_ITEM91" class="MBCL2"><div id="MBC_ITEM92" class="MBCL2Item"><a href="/content/Products/products-idol-server/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM92');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM91'],'MBC_ITEM93',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM92')">IDOL™ Server</a></div><div id="MBC_ITEM94" class="MBCL2Item"><a href="/content/Products/products-idol-server/index.en.html#ID2" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM94');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM91'],'MBC_ITEM95',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM94')">An Open Architecture</a></div><div id="MBC_ITEM96" class="MBCL2Item"><a href="/content/Products/products-idol-server/index.en.html#ID4" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM96');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM91'],'MBC_ITEM97',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM96')">Security</a></div><div id="MBC_ITEM98" class="MBCL2Item"><a href="/content/Products/products-idol-server/index.en.html#ID5" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM98');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM91'],'MBC_ITEM99',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM98')">Scalability and Performance</a></div><div id="MBC_ITEM100" class="MBCL2Item"><a href="/content/Products/products-idol-server/index.en.html#ID6" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM100');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM91'],'MBC_ITEM101',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM100')">Global Language Support</a></div><div id="MBC_ITEM102" class="MBCL2Item"><a href="/content/Products/products-idol-server/index.en.html#ID7" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM102');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM91'],'MBC_ITEM103',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM102')">IDOL K2™</a></div></div><div id="MBC_ITEM105" class="MBCL2"><div id="MBC_ITEM106" class="MBCL2Item"><a href="/content/Products/KeyView/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM106');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM105'],'MBC_ITEM107',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM106')">KeyView &amp; Connectors</a></div><div id="MBC_ITEM108" class="MBCL2Item"><a href="/content/Products/idol-modules-idol-enterprise-desktop-search/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM108');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM105'],'MBC_ITEM109',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM108')">IDOL Enterprise Desktop Search</a></div><div id="MBC_ITEM110" class="MBCL2Item"><a href="/content/Products/idol-modules-idol-answer/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM110');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM105'],'MBC_ITEM111',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM110')">IDOL Answer</a></div><div id="MBC_ITEM112" class="MBCL2Item"><a href="/content/Products/idol-modules-meaning-analytics-warehouse/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM112');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM105'],'MBC_ITEM113',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM112')">Meaning Analytics Warehouse</a></div><div id="MBC_ITEM114" class="MBCL2Item"><a href="/content/Products/idol-modules-idol-federator/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM114');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM105'],'MBC_ITEM115',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM114')">IDOL Federator</a></div><div id="MBC_ITEM116" class="MBCL2Item"><a href="/content/Products/idol-modules-idol-me/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM116');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM105'],'MBC_ITEM117',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM116')">IDOL Mobile Edition (IDOLme)</a></div><div id="MBC_ITEM118" class="MBCL2Item"><a href="/content/Products/idol-modules-information-governance/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM118');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM105'],'MBC_ITEM119',8)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM118')">Autonomy Information Governance</a></div><div id="MBC_ITEM120" class="MBCL2Item"><a href="/content/Products/idol-modules-idol-echo/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM120');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM105'],'MBC_ITEM121',9)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM120')">IDOL Echo</a></div></div><div id="L1_2" class="MBCL1"><div id="MBC_ITEM88" class="MBCL1Item"><a href="/content/Products/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM88');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,2,['L1_2'],'MBC_ITEM89',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM88')">Products Overview</a></div><div id="MBC_ITEM90" class="MBCL1Item"><a href="/content/Products/products-idol-server/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM90');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,2,['L1_2'],'MBC_ITEM91',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM90')">IDOL™ Server</a></div><div id="MBC_ITEM104" class="MBCL1Item"><span class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM104');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,2,['L1_2'],'MBC_ITEM105',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM104')">IDOL Modules</span></div></div><div id="MBC_ITEM123" class="MBCL2"><div id="MBC_ITEM124" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-legacy-search/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM124');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM123'],'MBC_ITEM125',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM124')">Legacy Search</a></div><div id="MBC_ITEM126" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-conceptual-search/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM126');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM123'],'MBC_ITEM127',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM126')">Conceptual Search</a></div><div id="MBC_ITEM128" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-relevance-ranking/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM128');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM123'],'MBC_ITEM129',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM128')">Relevance Ranking</a></div><div id="MBC_ITEM130" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-directed-navigation/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM130');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM123'],'MBC_ITEM131',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM130')">Directed Navigation</a></div><div id="MBC_ITEM132" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-automatic-hyperlinking/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM132');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM123'],'MBC_ITEM133',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM132')">Automatic Hyperlinking</a></div><div id="MBC_ITEM134" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-aqg/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM134');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM123'],'MBC_ITEM135',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM134')">Automatic Query Guidance (AQG)</a></div><div id="MBC_ITEM136" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-rpq/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM136');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM123'],'MBC_ITEM137',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM136')">Real-Time Predictive Query (RPQ)</a></div><div id="MBC_ITEM138" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-aqf/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM138');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM123'],'MBC_ITEM139',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM138')">Automatic Query Federation (AQF)</a></div><div id="MBC_ITEM140" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-device-specific-answers/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM140');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM123'],'MBC_ITEM141',8)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM140')">Device-Specific Answers</a></div></div><div id="MBC_ITEM143" class="MBCL2"><div id="MBC_ITEM144" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-collaboration-and-expertise-networks/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM144');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM143'],'MBC_ITEM145',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM144')">Collaboration and Expertise Networks (CEN)</a></div><div id="MBC_ITEM146" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-web-2/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM146');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM143'],'MBC_ITEM147',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM146')">Web 2.0</a></div><div id="MBC_ITEM148" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-personalization-operations/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM148');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM143'],'MBC_ITEM149',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM148')">Personalization Operations</a></div></div><div id="MBC_ITEM151" class="MBCL2"><div id="MBC_ITEM152" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-categorization/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM152');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM151'],'MBC_ITEM153',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM152')">Automatic Classification and Taxonomy Generation</a></div><div id="MBC_ITEM154" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-automatic-clustering/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM154');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM151'],'MBC_ITEM155',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM154')">Automatic Clustering</a></div><div id="MBC_ITEM156" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-nlp/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM156');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM151'],'MBC_ITEM157',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM156')">Natural Language Processing (NLP)</a></div><div id="MBC_ITEM158" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-sentiment/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM158');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM151'],'MBC_ITEM159',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM158')">Sentiment Analysis</a></div><div id="MBC_ITEM160" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-idol-eduction/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM160');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM151'],'MBC_ITEM161',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM160')">IDOL Eduction</a></div><div id="MBC_ITEM162" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-content-rationalization/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM162');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM151'],'MBC_ITEM163',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM162')">Content Rationalization</a></div></div><div id="MBC_ITEM165" class="MBCL2"><div id="MBC_ITEM166" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-information-connectivity/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM166');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM165'],'MBC_ITEM167',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM166')">Information Connectivity</a></div><div id="MBC_ITEM168" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-meta-data-and-xml/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM168');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM165'],'MBC_ITEM169',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM168')">Full Metadata and XML Handling</a></div></div><div id="MBC_ITEM171" class="MBCL2"><div id="MBC_ITEM172" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-audio-and-speech/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM172');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM171'],'MBC_ITEM173',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM172')">Audio and Speech Analysis</a></div><div id="MBC_ITEM174" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-video-analysis/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM174');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM171'],'MBC_ITEM175',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM174')">Video Analysis</a></div></div><div id="MBC_ITEM177" class="MBCL2"><div id="MBC_ITEM178" class="MBCL2Item"><a href="/content/Functionality/administration-idol-sentient-dashboard/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM178');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM177'],'MBC_ITEM179',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM178')">IDOL Sentient Dashboard</a></div><div id="MBC_ITEM180" class="MBCL2Item"><a href="/content/Functionality/administration-autonomy-business-console/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM180');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM177'],'MBC_ITEM181',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM180')">Autonomy Business Console (ABC)</a></div><div id="MBC_ITEM182" class="MBCL2Item"><a href="/content/Functionality/administration-statistics-server/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM182');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM177'],'MBC_ITEM183',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM182')">Statistics Server</a></div></div><div id="MBC_ITEM185" class="MBCL2"><div id="MBC_ITEM186" class="MBCL2Item"><a href="/content/Functionality/interfaces-user-exerience-enhancement/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM186');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM185'],'MBC_ITEM187',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM186')">User Experience Enhancement</a></div><div id="MBC_ITEM188" class="MBCL2Item"><a href="/content/Functionality/interfaces-retina/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM188');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM185'],'MBC_ITEM189',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM188')">Retina</a></div><div id="MBC_ITEM190" class="MBCL2Item"><a href="/content/Functionality/interfaces-portal-in-a-box/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM190');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM185'],'MBC_ITEM191',8)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM190')">Portal-in-a-Box</a></div><div id="MBC_ITEM192" class="MBCL2Item"><a href="/content/Functionality/interfaces-pods/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM192');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM185'],'MBC_ITEM193',9)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM192')">Product Oriented Drop-in Solutions (PODS) &amp; Portlets</a></div></div><div id="L1_3" class="MBCL1"><div id="MBC_ITEM122" class="MBCL1Item"><span class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM122');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,3,['L1_3'],'MBC_ITEM123',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM122')">Search &amp; Retrieval</span></div><div id="MBC_ITEM142" class="MBCL1Item"><span class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM142');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,3,['L1_3'],'MBC_ITEM143',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM142')">Collaboration &amp; Personalization</span></div><div id="MBC_ITEM150" class="MBCL1Item"><span class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM150');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,3,['L1_3'],'MBC_ITEM151',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM150')">Analytics &amp; Taxonomy</span></div><div id="MBC_ITEM164" class="MBCL1Item"><span class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM164');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,3,['L1_3'],'MBC_ITEM165',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM164')">Metadata, XML &amp; Connectivity</span></div><div id="MBC_ITEM170" class="MBCL1Item"><span class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM170');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,3,['L1_3'],'MBC_ITEM171',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM170')">Rich Media</span></div><div id="MBC_ITEM176" class="MBCL1Item"><a href="/content/Functionality/administration/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM176');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,3,['L1_3'],'MBC_ITEM177',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM176')">Administration</a></div><div id="MBC_ITEM184" class="MBCL1Item"><a href="/content/Functionality/interfaces/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM184');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,3,['L1_3'],'MBC_ITEM185',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM184')">Interfaces</a></div></div><div id="L1_4" class="MBCL1"><div id="MBC_ITEM194" class="MBCL1Item"><a href="/content/Technology/evolution/evolution-of-search-pan-enterprise-search/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM194');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM195',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM194')">Enterprise Search</a></div><div id="MBC_ITEM196" class="MBCL1Item"><a href="/content/Solutions/solutions-proactive-information-risk-management/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM196');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM197',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM196')">Proactive Information Risk Management</a></div><div id="MBC_ITEM198" class="MBCL1Item"><a href="/content/Solutions/solutions-information-governance/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM198');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM199',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM198')">Information Governance</a></div><div id="MBC_ITEM200" class="MBCL1Item"><a href="/content/Solutions/solutions-ediscovery/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM200');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM201',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM200')">eDiscovery</a></div><div id="MBC_ITEM202" class="MBCL1Item"><a href="/content/Solutions/solutions-consolidated-archiving/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM202');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM203',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM202')">Consolidated Archiving</a></div><div id="MBC_ITEM204" class="MBCL1Item"><a href="/content/Solutions/solutions-crm/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM204');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM205',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM204')">Customer Relationship Management</a></div><div id="MBC_ITEM206" class="MBCL1Item"><a href="/content/Solutions/solutions-contact-center/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM206');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM207',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM206')">Contact Center</a></div><div id="MBC_ITEM208" class="MBCL1Item"><a href="/content/Functionality/interfaces-portal-in-a-box/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM208');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM209',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM208')">Enterprise Portal</a></div><div id="MBC_ITEM210" class="MBCL1Item"><a href="/content/Verticals/ecommerce/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM210');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM211',8)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM210')">eCommerce</a></div><div id="MBC_ITEM212" class="MBCL1Item"><a href="/content/Solutions/solutions-business-intelligence/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM212');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM213',9)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM212')">Business Intelligence</a></div><div id="MBC_ITEM214" class="MBCL1Item"><a href="/content/Solutions/solutions-bpm/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM214');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM215',10)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM214')">Business Process Management</a></div><div id="MBC_ITEM216" class="MBCL1Item"><a href="/content/Solutions/solutions-security-and-surveillance/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM216');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM217',11)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM216')">Security &amp; Surveillance</a></div><div id="MBC_ITEM218" class="MBCL1Item"><a href="/content/Solutions/solutions-rich-media/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM218');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM219',12)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM218')">Rich Media</a></div><div id="MBC_ITEM220" class="MBCL1Item"><a href="http://www.blinkx.com/" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM220');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM221',13)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM220')" target="_blank">Consumer Video Search</a></div></div><div id="MBC_ITEM233" class="MBCL2"><div id="MBC_ITEM234" class="MBCL2Item"><a href="/content/Services/Training/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM234');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,5,['L1_5','MBC_ITEM233'],'MBC_ITEM235',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM234')">Autonomy Training</a></div><div id="MBC_ITEM236" class="MBCL2Item"><a href="/content/Services/Support/Verity/Contacts.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM236');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,5,['L1_5','MBC_ITEM233'],'MBC_ITEM237',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM236')">Autonomy Support Contacts</a></div></div><div id="L1_5" class="MBCL1"><div id="MBC_ITEM222" class="MBCL1Item"><a href="/content/Services/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM222');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,5,['L1_5'],'MBC_ITEM223',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM222')">Overview</a></div><div id="MBC_ITEM224" class="MBCL1Item"><a href="/content/Services/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM224');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,5,['L1_5'],'MBC_ITEM225',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM224')">Autonomy Implementation</a></div><div id="MBC_ITEM226" class="MBCL1Item"><a href="/content/Services/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM226');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,5,['L1_5'],'MBC_ITEM227',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM226')">Autonomy Professional Services</a></div><div id="MBC_ITEM228" class="MBCL1Item"><a href="/content/Services/Training/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM228');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,5,['L1_5'],'MBC_ITEM229',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM228')">Autonomy Customer &amp; Partner Training</a></div><div id="MBC_ITEM230" class="MBCL1Item"><a href="/content/Services/Consulting/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM230');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,5,['L1_5'],'MBC_ITEM231',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM230')">Autonomy Consulting</a></div><div id="MBC_ITEM232" class="MBCL1Item"><a href="/content/Services/Training/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM232');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,5,['L1_5'],'MBC_ITEM233',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM232')">Autonomy Support</a></div></div><div id="L1_6" class="MBCL1"><div id="MBC_ITEM238" class="MBCL1Item"><a href="/content/Verticals/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM238');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,6,['L1_6'],'MBC_ITEM239',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM238')">Solutions By Industry Sector</a></div><div id="MBC_ITEM240" class="MBCL1Item"><a href="/content/Verticals/ecommerce/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM240');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,6,['L1_6'],'MBC_ITEM241',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM240')">eCommerce</a></div><div id="MBC_ITEM242" class="MBCL1Item"><a href="/content/Verticals/energy/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM242');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,6,['L1_6'],'MBC_ITEM243',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM242')">Energy &amp; Utilities</a></div><div id="MBC_ITEM244" class="MBCL1Item"><a href="/content/Verticals/public_sector/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM244');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,6,['L1_6'],'MBC_ITEM245',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM244')">European Public Sector</a></div><div id="MBC_ITEM246" class="MBCL1Item"><a href="/content/Verticals/financial/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM246');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,6,['L1_6'],'MBC_ITEM247',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM246')">Financial Services</a></div><div id="MBC_ITEM248" class="MBCL1Item"><a href="/content/Verticals/investigative/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM248');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,6,['L1_6'],'MBC_ITEM249',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM248')">Investigative</a></div><div id="MBC_ITEM250" class="MBCL1Item"><a href="/content/Verticals/manufacturing/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM250');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,6,['L1_6'],'MBC_ITEM251',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM250')">Manufacturing</a></div><div id="MBC_ITEM252" class="MBCL1Item"><a href="/content/Verticals/media/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM252');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,6,['L1_6'],'MBC_ITEM253',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM252')">Media</a></div><div id="MBC_ITEM254" class="MBCL1Item"><a href="/content/Verticals/pharmaceutical/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM254');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,6,['L1_6'],'MBC_ITEM255',8)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM254')">Pharmaceutical</a></div><div id="MBC_ITEM256" class="MBCL1Item"><a href="/content/Verticals/professional_services/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM256');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,6,['L1_6'],'MBC_ITEM257',9)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM256')">Professional Services</a></div><div id="MBC_ITEM258" class="MBCL1Item"><a href="/content/Verticals/us_federal/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM258');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,6,['L1_6'],'MBC_ITEM259',10)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM258')">U.S. Federal</a></div></div><div id="MBC_ITEM265" class="MBCL2"><div id="MBC_ITEM266" class="MBCL2Item"><a href="/content/Customers/ShowReel/case_studies/ford_learning_network.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM266');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,7,['L1_7','MBC_ITEM265'],'MBC_ITEM267',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM266')">Ford Learning Network</a></div><div id="MBC_ITEM268" class="MBCL2Item"><a href="/content/Customers/ShowReel/case_studies/dti_ibio.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM268');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,7,['L1_7','MBC_ITEM265'],'MBC_ITEM269',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM268')">DTI iBio</a></div><div id="MBC_ITEM270" class="MBCL2Item"><a href="/content/Customers/ShowReel/case_studies/belga.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM270');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,7,['L1_7','MBC_ITEM265'],'MBC_ITEM271',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM270')">Belga</a></div></div><div id="L1_7" class="MBCL1"><div id="MBC_ITEM260" class="MBCL1Item"><a href="/content/Customers/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM260');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,7,['L1_7'],'MBC_ITEM261',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM260')">Autonomy Customers</a></div><div id="MBC_ITEM262" class="MBCL1Item"><a href="/content/Customers/Case_Studies/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM262');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,7,['L1_7'],'MBC_ITEM263',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM262')">Case Studies</a></div><div id="MBC_ITEM264" class="MBCL1Item"><a href="/content/Customers/ShowReel/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM264');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,7,['L1_7'],'MBC_ITEM265',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM264')">Video Case Studies</a></div><div id="MBC_ITEM272" class="MBCL1Item"><a href="/content/Customers/Testimonials.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM272');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,7,['L1_7'],'MBC_ITEM273',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM272')">Testimonials</a></div><div id="MBC_ITEM274" class="MBCL1Item"><a href="/content/Services/Training/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM274');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,7,['L1_7'],'MBC_ITEM275',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM274')">Customer Training</a></div></div><div id="MBC_ITEM277" class="MBCL2"><div id="MBC_ITEM278" class="MBCL2Item"><a href="/content/Partners/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM278');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM277'],'MBC_ITEM279',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM278')">Autonomy Partner Program</a></div><div id="MBC_ITEM280" class="MBCL2Item"><a href="/content/Services/Training/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM280');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM277'],'MBC_ITEM281',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM280')">Partner Training</a></div></div><div id="MBC_ITEM297" class="MBCL3"><div id="MBC_ITEM298" class="MBCL3Item"><a href="/content/Partners/VARs/Austria.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM298');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,8,['L1_8','MBC_ITEM283','MBC_ITEM297'],'MBC_ITEM299',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM298')">Austria</a></div><div id="MBC_ITEM300" class="MBCL3Item"><a href="/content/Partners/VARs/Benelux.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM300');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,8,['L1_8','MBC_ITEM283','MBC_ITEM297'],'MBC_ITEM301',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM300')">Benelux</a></div><div id="MBC_ITEM302" class="MBCL3Item"><a href="/content/Partners/VARs/Czech.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM302');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,8,['L1_8','MBC_ITEM283','MBC_ITEM297'],'MBC_ITEM303',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM302')">Czech Republic</a></div><div id="MBC_ITEM304" class="MBCL3Item"><a href="/content/Partners/VARs/France.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM304');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,8,['L1_8','MBC_ITEM283','MBC_ITEM297'],'MBC_ITEM305',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM304')">France</a></div><div id="MBC_ITEM306" class="MBCL3Item"><a href="/content/Partners/VARs/Germany.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM306');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,8,['L1_8','MBC_ITEM283','MBC_ITEM297'],'MBC_ITEM307',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM306')">Germany</a></div><div id="MBC_ITEM308" class="MBCL3Item"><a href="/content/Partners/VARs/Greece.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM308');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,8,['L1_8','MBC_ITEM283','MBC_ITEM297'],'MBC_ITEM309',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM308')">Greece</a></div><div id="MBC_ITEM310" class="MBCL3Item"><a href="/content/Partners/VARs/Hungary.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM310');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,8,['L1_8','MBC_ITEM283','MBC_ITEM297'],'MBC_ITEM311',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM310')">Hungary</a></div><div id="MBC_ITEM312" class="MBCL3Item"><a href="/content/Partners/VARs/Italy.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM312');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,8,['L1_8','MBC_ITEM283','MBC_ITEM297'],'MBC_ITEM313',8)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM312')">Italy</a></div><div id="MBC_ITEM314" class="MBCL3Item"><a href="/content/Partners/VARs/Romania.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM314');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,8,['L1_8','MBC_ITEM283','MBC_ITEM297'],'MBC_ITEM315',9)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM314')">Romania</a></div><div id="MBC_ITEM316" class="MBCL3Item"><a href="/content/Partners/VARs/Slovakia.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM316');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,8,['L1_8','MBC_ITEM283','MBC_ITEM297'],'MBC_ITEM317',10)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM316')">Slovakia</a></div><div id="MBC_ITEM318" class="MBCL3Item"><a href="/content/Partners/VARs/Slovenia.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM318');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,8,['L1_8','MBC_ITEM283','MBC_ITEM297'],'MBC_ITEM319',11)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM318')">Slovenia</a></div><div id="MBC_ITEM320" class="MBCL3Item"><a href="/content/Partners/VARs/Spain.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM320');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,8,['L1_8','MBC_ITEM283','MBC_ITEM297'],'MBC_ITEM321',12)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM320')">Spain</a></div></div><div id="MBC_ITEM325" class="MBCL3"><div id="MBC_ITEM326" class="MBCL3Item"><a href="/content/Partners/VARs/Australia.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM326');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,8,['L1_8','MBC_ITEM283','MBC_ITEM325'],'MBC_ITEM327',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM326')">Australia</a></div><div id="MBC_ITEM328" class="MBCL3Item"><a href="/content/Partners/VARs/China.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM328');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,8,['L1_8','MBC_ITEM283','MBC_ITEM325'],'MBC_ITEM329',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM328')">China</a></div><div id="MBC_ITEM330" class="MBCL3Item"><a href="/content/Partners/VARs/Hong_Kong.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM330');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,8,['L1_8','MBC_ITEM283','MBC_ITEM325'],'MBC_ITEM331',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM330')">Hong Kong</a></div><div id="MBC_ITEM332" class="MBCL3Item"><a href="/content/Partners/VARs/India.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM332');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,8,['L1_8','MBC_ITEM283','MBC_ITEM325'],'MBC_ITEM333',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM332')">India</a></div><div id="MBC_ITEM334" class="MBCL3Item"><a href="/content/Partners/VARs/Korea.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM334');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,8,['L1_8','MBC_ITEM283','MBC_ITEM325'],'MBC_ITEM335',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM334')">Korea</a></div><div id="MBC_ITEM336" class="MBCL3Item"><a href="/content/Partners/VARs/New_Zealand.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM336');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,8,['L1_8','MBC_ITEM283','MBC_ITEM325'],'MBC_ITEM337',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM336')">New Zealand</a></div><div id="MBC_ITEM338" class="MBCL3Item"><a href="/content/Partners/VARs/Singapore.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM338');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,8,['L1_8','MBC_ITEM283','MBC_ITEM325'],'MBC_ITEM339',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM338')">Singapore</a></div></div><div id="MBC_ITEM283" class="MBCL2"><div id="MBC_ITEM284" class="MBCL2Item"><a href="/content/Partners/ContentPartners.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM284');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM283'],'MBC_ITEM285',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM284')">Content Partners</a></div><div id="MBC_ITEM286" class="MBCL2Item"><a href="/content/Partners/VARs/Global.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM286');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM283'],'MBC_ITEM287',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM286')">Global</a></div><div id="MBC_ITEM288" class="MBCL2Item"><a href="/content/Partners/VARs/NorthAmerica.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM288');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM283'],'MBC_ITEM289',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM288')">North America</a></div><div id="MBC_ITEM290" class="MBCL2Item"><a href="/content/Partners/US_Federal_Partners.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM290');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM283'],'MBC_ITEM291',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM290')">US Federal Partners</a></div><div id="MBC_ITEM292" class="MBCL2Item"><a href="/content/Partners/VARs/LatinAmerica.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM292');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM283'],'MBC_ITEM293',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM292')">Latin America</a></div><div id="MBC_ITEM294" class="MBCL2Item"><a href="/content/Partners/VARs/UnitedKingdom.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM294');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM283'],'MBC_ITEM295',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM294')">United Kingdom &amp; Ireland</a></div><div id="MBC_ITEM296" class="MBCL2Item"><span class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM296');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM283'],'MBC_ITEM297',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM296')">Europe</span></div><div id="MBC_ITEM322" class="MBCL2Item"><a href="/content/Partners/VARs/Nordic.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM322');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM283'],'MBC_ITEM323',8)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM322')">Nordic</a></div><div id="MBC_ITEM324" class="MBCL2Item"><span class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM324');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM283'],'MBC_ITEM325',9)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM324')">Asia-Pacific</span></div><div id="MBC_ITEM340" class="MBCL2Item"><a href="/content/Partners/VARs/Israel.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM340');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM283'],'MBC_ITEM341',10)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM340')">Israel</a></div><div id="MBC_ITEM342" class="MBCL2Item"><a href="/content/Partners/VARs/MiddleEast.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM342');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM283'],'MBC_ITEM343',11)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM342')">Middle East</a></div><div id="MBC_ITEM344" class="MBCL2Item"><a href="/content/Partners/VARs/Africa.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM344');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM283'],'MBC_ITEM345',12)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM344')">Africa</a></div></div><div id="L1_8" class="MBCL1"><div id="MBC_ITEM276" class="MBCL1Item"><a href="/content/Partners/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM276');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,8,['L1_8'],'MBC_ITEM277',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM276')">Autonomy Partner Program</a></div><div id="MBC_ITEM282" class="MBCL1Item"><span class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM282');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,8,['L1_8'],'MBC_ITEM283',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM282')">Autonomy's Partners</span></div></div><div id="L1_9" class="MBCL1"><div id="MBC_ITEM346" class="MBCL1Item"><a href="/content/OEMs/introduction/introduction-autonomy-oems/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM346');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,9,['L1_9'],'MBC_ITEM347',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM346')">Autonomy OEMs</a></div><div id="MBC_ITEM348" class="MBCL1Item"><a href="/content/OEMs/OEM-Portfolio/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM348');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,9,['L1_9'],'MBC_ITEM349',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM348')">OEMs Embedding Autonomy</a></div></div><div id="MBC_ITEM353" class="MBCL2"><div id="MBC_ITEM354" class="MBCL2Item"><a href="/content/News/Releases/2008/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM354');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,10,['L1_10','MBC_ITEM353'],'MBC_ITEM355',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM354')">2008</a></div><div id="MBC_ITEM356" class="MBCL2Item"><a href="/content/News/Releases/2007/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM356');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,10,['L1_10','MBC_ITEM353'],'MBC_ITEM357',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM356')">2007</a></div><div id="MBC_ITEM358" class="MBCL2Item"><a href="/content/News/Releases/2006/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM358');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,10,['L1_10','MBC_ITEM353'],'MBC_ITEM359',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM358')">2006</a></div><div id="MBC_ITEM360" class="MBCL2Item"><a href="/content/News/Releases/2005/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM360');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,10,['L1_10','MBC_ITEM353'],'MBC_ITEM361',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM360')">2005</a></div><div id="MBC_ITEM362" class="MBCL2Item"><a href="/content/News/Releases/2004/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM362');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,10,['L1_10','MBC_ITEM353'],'MBC_ITEM363',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM362')">2004</a></div><div id="MBC_ITEM364" class="MBCL2Item"><a href="/content/News/Releases/2003/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM364');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,10,['L1_10','MBC_ITEM353'],'MBC_ITEM365',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM364')">2003</a></div><div id="MBC_ITEM366" class="MBCL2Item"><a href="/content/News/Releases/2002/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM366');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,10,['L1_10','MBC_ITEM353'],'MBC_ITEM367',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM366')">2002</a></div><div id="MBC_ITEM368" class="MBCL2Item"><a href="/content/News/Releases/2001/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM368');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,10,['L1_10','MBC_ITEM353'],'MBC_ITEM369',8)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM368')">2001</a></div><div id="MBC_ITEM370" class="MBCL2Item"><a href="/content/News/Releases/2000/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM370');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,10,['L1_10','MBC_ITEM353'],'MBC_ITEM371',9)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM370')">2000</a></div><div id="MBC_ITEM372" class="MBCL2Item"><a href="/content/News/Releases/1999/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM372');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,10,['L1_10','MBC_ITEM353'],'MBC_ITEM373',10)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM372')">1999</a></div><div id="MBC_ITEM374" class="MBCL2Item"><a href="/content/News/Releases/1998/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM374');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,10,['L1_10','MBC_ITEM353'],'MBC_ITEM375',11)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM374')">1998</a></div><div id="MBC_ITEM376" class="MBCL2Item"><a href="/content/News/Releases/1997/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM376');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,10,['L1_10','MBC_ITEM353'],'MBC_ITEM377',12)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM376')">1997</a></div><div id="MBC_ITEM378" class="MBCL2Item"><a href="/content/News/Releases/1996/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM378');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,10,['L1_10','MBC_ITEM353'],'MBC_ITEM379',13)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM378')">1996</a></div></div><div id="MBC_ITEM385" class="MBCL2"><div id="MBC_ITEM386" class="MBCL2Item"><a href="/content/News/Events/Seminars/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM386');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,10,['L1_10','MBC_ITEM385'],'MBC_ITEM387',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM386')">Autonomy Seminars</a></div><div id="MBC_ITEM388" class="MBCL2Item"><a href="/content/News/Events/Webinars/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM388');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,10,['L1_10','MBC_ITEM385'],'MBC_ITEM389',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM388')">Autonomy Webinars</a></div><div id="MBC_ITEM390" class="MBCL2Item"><a href="/content/News/Events/Customer/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM390');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,10,['L1_10','MBC_ITEM385'],'MBC_ITEM391',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM390')">Autonomy Customer Events</a></div><div id="MBC_ITEM392" class="MBCL2Item"><a href="/content/News/Events/Tradeshows/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM392');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,10,['L1_10','MBC_ITEM385'],'MBC_ITEM393',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM392')">Autonomy Tradeshows</a></div></div><div id="L1_10" class="MBCL1"><div id="MBC_ITEM350" class="MBCL1Item"><a href="/content/News/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM350');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,10,['L1_10'],'MBC_ITEM351',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM350')">Latest News</a></div><div id="MBC_ITEM352" class="MBCL1Item"><a href="/content/News/Releases/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM352');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,10,['L1_10'],'MBC_ITEM353',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM352')">Press Release Archives</a></div><div id="MBC_ITEM380" class="MBCL1Item"><a href="/content/News/News.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM380');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,10,['L1_10'],'MBC_ITEM381',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM380')">Autonomy in the News</a></div><div id="MBC_ITEM382" class="MBCL1Item"><a href="/content/News/FAQ/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM382');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,10,['L1_10'],'MBC_ITEM383',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM382')">Press Fact Sheet</a></div><div id="MBC_ITEM384" class="MBCL1Item"><a href="/content/News/Events/Seminars/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM384');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,10,['L1_10'],'MBC_ITEM385',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM384')">Autonomy Events</a></div></div><div id="L1_11" class="MBCL1"><div id="MBC_ITEM394" class="MBCL1Item"><a href="/content/Investors/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM394');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,11,['L1_11'],'MBC_ITEM395',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM394')">Investor Relations</a></div><div id="MBC_ITEM396" class="MBCL1Item"><a href="/content/Investors/AnnualReports.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM396');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,11,['L1_11'],'MBC_ITEM397',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM396')">Annual Reports &amp; Shareholder Meetings</a></div><div id="MBC_ITEM398" class="MBCL1Item"><a href="/content/Investors/FinancialResultsDocs/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM398');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,11,['L1_11'],'MBC_ITEM399',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM398')">Financial Results</a></div><div id="MBC_ITEM400" class="MBCL1Item"><a href="/content/Investors/Review/2007/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM400');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,11,['L1_11'],'MBC_ITEM401',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM400')">The Year in Review</a></div><div id="MBC_ITEM402" class="MBCL1Item"><a href="/content/Investors/FAQ.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM402');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,11,['L1_11'],'MBC_ITEM403',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM402')">Investors FAQ</a></div></div><div id="MBCTL" class="MBCTL"><div id="Top0" class="MBCTLItem" onmouseover="typeof(window.MBCAM) &amp;&amp; MBCAM();typeof(window.MBSL1) &amp;&amp; MBSL1( this, 0, 'L1_0' )"><a href="/content/Autonomy/index.en.html" class="MBLk">Company</a></div><div id="Top1" class="MBCTLItem" onmouseover="typeof(window.MBCAM) &amp;&amp; MBCAM();typeof(window.MBSL1) &amp;&amp; MBSL1( this, 1, 'L1_1' )"><a href="/content/Technology/index.en.html" class="MBLk">Technology</a></div><div id="Top2" class="MBCTLItem" onmouseover="typeof(window.MBCAM) &amp;&amp; MBCAM();typeof(window.MBSL1) &amp;&amp; MBSL1( this, 2, 'L1_2' )"><a href="/content/Products/index.en.html" class="MBLk">Products</a></div><div id="Top3" class="MBCTLItem" onmouseover="typeof(window.MBCAM) &amp;&amp; MBCAM();typeof(window.MBSL1) &amp;&amp; MBSL1( this, 3, 'L1_3' )"><a href="/content/Functionality/index.en.html" class="MBLk">Functionality</a></div><div id="Top4" class="MBCTLItem" onmouseover="typeof(window.MBCAM) &amp;&amp; MBCAM();typeof(window.MBSL1) &amp;&amp; MBSL1( this, 4, 'L1_4' )"><a href="/content/Solutions/index.en.html" class="MBLk">Business Solutions</a></div><div id="Top5" class="MBCTLItem" onmouseover="typeof(window.MBCAM) &amp;&amp; MBCAM();typeof(window.MBSL1) &amp;&amp; MBSL1( this, 5, 'L1_5' )"><a href="/content/Services/index.en.html" class="MBLk">Services</a></div><div id="Top6" class="MBCTLItem" onmouseover="typeof(window.MBCAM) &amp;&amp; MBCAM();typeof(window.MBSL1) &amp;&amp; MBSL1( this, 6, 'L1_6' )"><a href="/content/Verticals/index.en.html" class="MBLk">Verticals</a></div><div id="Top7" class="MBCTLItem" onmouseover="typeof(window.MBCAM) &amp;&amp; MBCAM();typeof(window.MBSL1) &amp;&amp; MBSL1( this, 7, 'L1_7' )"><a href="/content/Customers/index.en.html" class="MBLk">Customers</a></div><div id="Top8" class="MBCTLItem" onmouseover="typeof(window.MBCAM) &amp;&amp; MBCAM();typeof(window.MBSL1) &amp;&amp; MBSL1( this, 8, 'L1_8' )"><a href="/content/Partners/index.en.html" class="MBLk">Partners</a></div><div id="Top9" class="MBCTLItem" onmouseover="typeof(window.MBCAM) &amp;&amp; MBCAM();typeof(window.MBSL1) &amp;&amp; MBSL1( this, 9, 'L1_9' )"><a href="/content/OEMs/index.en.html" class="MBLk">OEMs</a></div><div id="Top10" class="MBCTLItem" onmouseover="typeof(window.MBCAM) &amp;&amp; MBCAM();typeof(window.MBSL1) &amp;&amp; MBSL1( this, 10, 'L1_10' )"><a href="/content/News/index.en.html" class="MBLk">News &amp; Events</a></div><div id="Top11" class="MBCTLItem" onmouseover="typeof(window.MBCAM) &amp;&amp; MBCAM();typeof(window.MBSL1) &amp;&amp; MBSL1( this, 11, 'L1_11' )"><a href="/content/Investors/index.en.html" class="MBLk">Investors</a></div></div><script type="text/javascript">typeof(window.MB_Configure) && MB_Configure()</script></div>
-
-
+		
 
 
 
@@ -1456,30 +2138,77 @@ MenuBuilderExpandSideMenu();
 						</script>
 
 
-					<div class="sidepanel">
+					
 
-	<div class="sidepanel-top"><img src="/components/sidepanels/media/communications.en.gif"></div>
 
-	<div class="sidepanel-middle">
 
-		<div>To subscribe, or unsubscribe, to Autonomy Group e-mail communications, please visit the <a href="http://www.autonomy.com/content/Autonomy/forms/subscriptions/index.en.html">Autonomy Group Communications Settings</a> page.</div>
-		
-		<div>Alternatively, if you wish to unsubscribe from <strong>all</strong> Autonomy Group e-mail communications, simply send an e mail to <a href="mailto:unsubscribe@autonomy.com?subject=unsubscribe">unsubscribe@autonomy.com</a>. This will be processed automatically, you do not need to write anything in the message body.</div>
 
-	</div>
-	<div class="sidepanel-bottom"><img src="/components/sidepanels/media/bottom.gif"></div>
-	
-</div>
+
+<table class="rounded" style="width:210px;">
+	<tbody><tr>
+		<td class="left_top"><img src="/components/middlepanels/rounded-panel/media/left_top.gif" alt=""></td>
+		<td class="middle_top title">Autonomy Communications</td>
+		<td class="right_top"><img src="/components/middlepanels/rounded-panel/media/right_top.gif" alt=""></td>
+	</tr>
+	<tr>
+		<td class="left_middle">&nbsp;</td>
+		<td class="middle_middle content">
+
+			
+
+	<div class="medium">To subscribe, or unsubscribe, to Autonomy Group e-mail communications, please visit the <a href="http://www.autonomy.com/content/Autonomy/forms/subscriptions/index.en.html">Autonomy Group Communications Settings</a> page.</div>
+
+	<div class="medium">Alternatively, if you wish to unsubscribe from <strong>all</strong> Autonomy Group e-mail communications, simply send an e mail to <a href="mailto:unsubscribe@autonomy.com?subject=unsubscribe">unsubscribe@autonomy.com</a>. This will be processed automatically, you do not need to write anything in the message body.</div>
+
+
+		</td>
+		<td class="right_middle">&nbsp;</td>
+	</tr>
+	<tr>
+		<td class="left_bottom"><img src="/components/middlepanels/rounded-panel/media/left_bottom.gif" alt=""></td>
+		<td class="middle_bottom"><img src="/components/middlepanels/rounded-panel/media/middle_bottom.gif" alt=""></td>
+		<td class="right_bottom"><img src="/components/middlepanels/rounded-panel/media/right_bottom.gif" alt=""></td>
+	</tr>
+</tbody></table>
+
+
+
 
 
 						
 
-<div class="sidepanel" style="display:none;" id="AJAXIDOLHYPERLINKCONTAINER">
-	<div class="sidepanel-top"><img src="/components/sidepanels/media/related-links.en.gif"></div>
-	<div class="sidepanel-middle" id="AJAXIDOLHYPERLINK">
-	</div>
-	<div class="sidepanel-bottom"><img src="/components/sidepanels/media/bottom.gif"></div>
-</div>
+
+
+
+
+
+
+
+
+<table id="AJAXIDOLHYPERLINKCONTAINER" class="rounded" style="width:210px;display:none;">
+	<tbody><tr>
+		<td class="left_top"><img src="/components/middlepanels/rounded-panel/media/left_top.gif" alt=""></td>
+		<td class="middle_top title">Related Documents</td>
+		<td class="right_top"><img src="/components/middlepanels/rounded-panel/media/right_top.gif" alt=""></td>
+	</tr>
+	<tr>
+		<td class="left_middle">&nbsp;</td>
+		<td class="middle_middle content">
+
+			
+	<div class="medium" id="AJAXIDOLHYPERLINK"></div>
+	<div class="medium"><a href="/content/Functionality/idol-functionality-automatic-hyperlinking/index.en.html">Automatic hyperlinks</a> provided by <a href="/content/Functionality/idol-functionality-automatic-hyperlinking/index.en.html">IDOL Server 7</a></div>
+
+		</td>
+		<td class="right_middle">&nbsp;</td>
+	</tr>
+	<tr>
+		<td class="left_bottom"><img src="/components/middlepanels/rounded-panel/media/left_bottom.gif" alt=""></td>
+		<td class="middle_bottom"><img src="/components/middlepanels/rounded-panel/media/middle_bottom.gif" alt=""></td>
+		<td class="right_bottom"><img src="/components/middlepanels/rounded-panel/media/right_bottom.gif" alt=""></td>
+	</tr>
+</tbody></table>
+
 
 
 
@@ -1508,7 +2237,7 @@ MenuBuilderExpandSideMenu();
 
 		
 		<div id="CONTENT_CONTAINER" class="content">
-			<a name="top" href="/content/home/index.en.html"></a>
+			<a name="top" href="/"></a>
 			<!-- BEGIN_CONTENT -->
 			<!-- START_CONTENT -->
 
@@ -1585,9 +2314,10 @@ MenuBuilderExpandSideMenu();
 			border-width:1px;
 			border-style:solid;
 			border-color:rgb(128,128,128);
-			font-family:Helvetica,Arial,Sans-Serif;
+			font-family:Arial,sans-serif;
 			font-size:9pt;
 			color:rgb(0,114,211);
+			vertical-align:middle;
 		}
 		div.searchall-suggest-note
 		{
@@ -1613,14 +2343,11 @@ MenuBuilderExpandSideMenu();
 
 		var checkSearchFormFlag = true;
 
-		function checkSearchAllForm( form )
-		{
-			if( checkSearchFormFlag == false )
-			{
+		function checkSearchAllForm( form ) {
+			if( checkSearchFormFlag == false ) {
 				return( true );
 			}
-			if( form.query.value == "Search Autonomy" )
-			{
+			if( form.query.value == "Search Autonomy" ) {
 				alert( "Please enter a search term" );
 				return( false );
 			}
@@ -1643,26 +2370,28 @@ MenuBuilderExpandSideMenu();
 			<input type="hidden" name="cats_checkall" value="true">
 
 				<input type="hidden" name="site_www.autonomy.com" value="WWW.AUTONOMY.COM">
-				<input type="hidden" name="site_www.virage.com" value="WWW.VIRAGE.COM">
 				<input type="hidden" name="site_www.cardiff.com" value="WWW.CARDIFF.COM">
 				<input type="hidden" name="site_www.etalk.com" value="WWW.ETALK.COM">
-				<input type="hidden" name="site_www.zantaz.com" value="WWW.ZANTAZ.COM">
-				<input type="hidden" name="site_www.softsound.com" value="WWW.SOFTSOUND.COM">
 				<input type="hidden" name="site_publications.autonomy.com" value="PUBLICATIONS.AUTONOMY.COM">
+				<input type="hidden" name="site_www.autonomy.co.jp" value="WWW.AUTONOMY.CO.JP">
+				<input type="hidden" name="site_www.virage.com" value="WWW.VIRAGE.COM">
+				<input type="hidden" name="site_www.zantaz.com" value="WWW.ZANTAZ.COM">
+				<input type="hidden" name="site_www.meridio.com" value="WWW.MERIDIO.COM">
+				<input type="hidden" name="site_www.softsound.com" value="WWW.SOFTSOUND.COM">
 
 			
 				<input type="hidden" name="cat_NEWS" value="NEWS">
-				<input type="hidden" name="cat_PRODUCTS" value="PRODUCTS">
-				<input type="hidden" name="cat_SOLUTIONS" value="SOLUTIONS">
-				<input type="hidden" name="cat_CUSTOMERS" value="CUSTOMERS">
+				<input type="hidden" name="cat_DOWNLOADS" value="DOWNLOADS">
 				<input type="hidden" name="cat_TECHNOLOGY" value="TECHNOLOGY">
+				<input type="hidden" name="cat_SOLUTIONS" value="SOLUTIONS">
+				<input type="hidden" name="cat_PRODUCTS" value="PRODUCTS">
+				<input type="hidden" name="cat_CUSTOMERS" value="CUSTOMERS">
 				<input type="hidden" name="cat_COMPANY" value="COMPANY">
+				<input type="hidden" name="cat_SERVICES" value="SERVICES">
+				<input type="hidden" name="cat_INVESTORS" value="INVESTORS">
 				<input type="hidden" name="cat_PARTNERS" value="PARTNERS">
 				<input type="hidden" name="cat_OEMS" value="OEMS">
-				<input type="hidden" name="cat_SERVICES" value="SERVICES">
 				<input type="hidden" name="cat_FUNCTIONALITY" value="FUNCTIONALITY">
-				<input type="hidden" name="cat_INVESTORS" value="INVESTORS">
-				<input type="hidden" name="cat_DOWNLOADS" value="DOWNLOADS">
 				<input type="hidden" name="cat_ROI" value="ROI">
 
 				<input type="hidden" name="query_lang" value="en">
@@ -1687,43 +2416,116 @@ MenuBuilderExpandSideMenu();
 
 
 
-<div class="sidepanel">
-	<div class="sidepanel-top"><img src="/components/sidepanels/media/discover.en.gif"></div>
-	<div class="sidepanel-middle" style="white-space:nowrap">
 
-		<div><img src="/components/publications/icons/pdf.gif" style="vertical-align:middle">&nbsp;<a href="http://publications.autonomy.com/content/autonomy/index.en.html">Download Autonomy Publications</a></div>
 
-			<div><img src="/components/publications/icons/info.gif" style="vertical-align:middle">&nbsp;<a href="http://campaign.autonomy.com/registration/register.html?campaign=98fef1cb0710c7fb238102507ea1c9cecontactautonomy">Request Information</a></div>
 
-		<div><img src="/components/publications/icons/webinar.gif" style="vertical-align:middle">&nbsp;<a href="/content/News/Events/Webinars/index.en.html">Autonomy Webinars</a></div>
 
-		<div><img src="/components/publications/icons/video.gif" style="vertical-align:middle">&nbsp;<a href="/content/Customers/ShowReel/index.en.html">Video Case Studies</a></div>
+<table class="rounded" style="width:210px;">
+	<tbody><tr>
+		<td class="left_top"><img src="/components/middlepanels/rounded-panel/media/left_top.gif" alt=""></td>
+		<td class="middle_top title">Discover More...</td>
+		<td class="right_top"><img src="/components/middlepanels/rounded-panel/media/right_top.gif" alt=""></td>
+	</tr>
+	<tr>
+		<td class="left_middle">&nbsp;</td>
+		<td class="middle_middle content">
 
-		<div><img src="/components/publications/icons/offices.gif" style="vertical-align:middle">&nbsp;<a href="/content/Autonomy/Offices/index.en.html">Autonomy Offices</a></div>
+			
 
-	</div>
-	<div class="sidepanel-bottom"><img src="/components/sidepanels/media/bottom.gif"></div>
-</div>
+	<table>
+		<tbody><tr>
+			<td>
+				<a href="http://campaign.autonomy.com/registration/register.html?campaign=98fef1cb0710c7fb238102507ea1c9cecontactautonomy">
+					<img src="/components/publications/icons/info.gif" alt="">
+				</a>
+			</td>
+			<td>
+				<div class="medium">
+					<a href="http://campaign.autonomy.com/registration/register.html?campaign=98fef1cb0710c7fb238102507ea1c9cecontactautonomy">
+						Request Information
+					</a>
+				</div>
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+				<a href="http://publications.autonomy.com/">
+					<img src="/components/publications/icons/pdf.gif" alt="">
+				</a>
+			</td>
+			<td>
+				<div class="medium">
+					<a href="http://publications.autonomy.com/">
+						Downloads Library
+					</a>
+				</div>
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+				<a href="/content/News/Events/Webinars/index.en.html">
+					<img src="/components/publications/icons/webinar.gif" alt="">
+				</a>
+			</td>
+			<td>
+				<div class="medium">
+					<a href="/content/News/Events/Webinars/index.en.html">
+						Autonomy Webinars
+					</a>
+				</div>
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+				<a href="/content/Customers/ShowReel/index.en.html">
+					<img src="/components/publications/icons/video.gif" alt="">
+				</a>
+			</td>
+			<td>
+				<div class="medium">
+					<a href="/content/Customers/ShowReel/index.en.html">
+						Video Case Studies
+					</a>
+				</div>
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+				<a href="/content/Autonomy/Offices/index.en.html">
+					<img src="/components/publications/icons/offices.gif" alt="">
+				</a>
+			</td>
+			<td>
+				<div class="medium">
+					<a href="/content/Autonomy/Offices/index.en.html">
+						Offices Worldwide
+					</a>
+				</div>
+			</td>
+		</tr>
+
+	</tbody></table>
+
+
+		</td>
+		<td class="right_middle">&nbsp;</td>
+	</tr>
+	<tr>
+		<td class="left_bottom"><img src="/components/middlepanels/rounded-panel/media/left_bottom.gif" alt=""></td>
+		<td class="middle_bottom"><img src="/components/middlepanels/rounded-panel/media/middle_bottom.gif" alt=""></td>
+		<td class="right_bottom"><img src="/components/middlepanels/rounded-panel/media/right_bottom.gif" alt=""></td>
+	</tr>
+</tbody></table>
+
+
+
 
 						
 
-<div class="sidepanel" style="display:none;" id="AJAXIDOLQUOTECONTAINER">
-	<div class="sidepanel-top"><img src="/components/sidepanels/media/quotes.en.gif"></div>
-	<div class="sidepanel-middle" id="AJAXIDOLQUOTE"></div>
-	<div class="sidepanel-bottom"><img src="/components/sidepanels/media/bottom.gif"></div>
-</div>
-
-
-<script type="text/javascript">
-	<!--
-	var oArg       = new Object();
-	oArg.id        = "AJAXIDOLQUOTE";
-	oArg.reference = "/content/Legal/PrivacyPolicy.en.html";
-	oArg.type      = "quote";
-	oArg.file      = "ajax_idol_quote.xml";
-	AjaxIDOL_Dispatch( oArg );
-	// -->
-</script>
 
 
 
@@ -1735,11 +2537,16 @@ MenuBuilderExpandSideMenu();
 
 
 
+		<div id="MBCC" class="MBCC"><div id="MBC_ITEM1" class="MBCL2"><div id="MBC_ITEM2" class="MBCL2Item"><a href="/content/Autonomy/introduction/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM2');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,0,['L1_0','MBC_ITEM1'],'MBC_ITEM3',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM2')">An Introduction to Autonomy</a></div><div id="MBC_ITEM4" class="MBCL2Item"><a href="/content/Autonomy/introduction/introduction-meaning-based-computing/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM4');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,0,['L1_0','MBC_ITEM1'],'MBC_ITEM5',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM4')">Meaning-Based Computing (MBC)</a></div><div id="MBC_ITEM6" class="MBCL2Item"><a href="/content/Autonomy/introduction/introduction-meaning-of-success/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM6');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,0,['L1_0','MBC_ITEM1'],'MBC_ITEM7',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM6')">The Meaning of Success</a></div><div id="MBC_ITEM8" class="MBCL2Item"><a href="/content/Customers/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM8');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,0,['L1_0','MBC_ITEM1'],'MBC_ITEM9',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM8')">A Rich Broad Vertical Customer Base</a></div><div id="MBC_ITEM10" class="MBCL2Item"><a href="/content/OEMs/introduction/introduction-autonomy-oems/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM10');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,0,['L1_0','MBC_ITEM1'],'MBC_ITEM11',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM10')">Autonomy OEMs</a></div><div id="MBC_ITEM12" class="MBCL2Item"><a href="/content/Autonomy/introduction/introduction-innovation/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM12');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,0,['L1_0','MBC_ITEM1'],'MBC_ITEM13',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM12')">Innovation</a></div></div><div id="MBC_ITEM19" class="MBCL2"><div id="MBC_ITEM20" class="MBCL2Item"><a href="/content/Autonomy/Careers/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM20');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,0,['L1_0','MBC_ITEM19'],'MBC_ITEM21',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM20')">Careers at Autonomy</a></div><div id="MBC_ITEM22" class="MBCL2Item"><a href="/content/Autonomy/Careers/Graduates/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM22');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,0,['L1_0','MBC_ITEM19'],'MBC_ITEM23',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM22')">Graduate Careers</a></div><div id="MBC_ITEM24" class="MBCL2Item"><a href="/content/Autonomy/Careers/Openings/North_America/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM24');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,0,['L1_0','MBC_ITEM19'],'MBC_ITEM25',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM24')">Current North American Openings</a></div><div id="MBC_ITEM26" class="MBCL2Item"><a href="/content/Autonomy/Careers/Openings/Global/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM26');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,0,['L1_0','MBC_ITEM19'],'MBC_ITEM27',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM26')">Current Global Openings</a></div></div><div id="L1_0" class="MBCL1"><div id="MBC_ITEM0" class="MBCL1Item"><a href="/content/Autonomy/introduction/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM0');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,0,['L1_0'],'MBC_ITEM1',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM0')">An Introduction to Autonomy</a></div><div id="MBC_ITEM14" class="MBCL1Item"><a href="/content/Autonomy/Management/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM14');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,0,['L1_0'],'MBC_ITEM15',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM14')">Management</a></div><div id="MBC_ITEM16" class="MBCL1Item"><a href="/content/Autonomy/Offices/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM16');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,0,['L1_0'],'MBC_ITEM17',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM16')">Autonomy Offices</a></div><div id="MBC_ITEM18" class="MBCL1Item"><a href="/content/Autonomy/Careers/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM18');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,0,['L1_0'],'MBC_ITEM19',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM18')">Careers</a></div><div id="MBC_ITEM28" class="MBCL1Item"><a href="/content/Autonomy/Awards.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM28');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,0,['L1_0'],'MBC_ITEM29',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM28')">Industry Awards</a></div><div id="MBC_ITEM30" class="MBCL1Item"><a href="http://campaign.autonomy.com/registration/register.html?campaign=98fef1cb0710c7fb238102507ea1c9cecontactautonomy" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM30');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,0,['L1_0'],'MBC_ITEM31',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM30')">Request Information</a></div><div id="MBC_ITEM32" class="MBCL1Item"><a href="/content/Autonomy/FAQ/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM32');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,0,['L1_0'],'MBC_ITEM33',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM32')">Frequently Asked Questions</a></div><div id="MBC_ITEM34" class="MBCL1Item"><a href="http://www.autonomy.com/content/Autonomy/Publications/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM34');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,0,['L1_0'],'MBC_ITEM35',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM34')">Publications Download Library</a></div><div id="MBC_ITEM36" class="MBCL1Item"><a href="/" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM36');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,0,['L1_0'],'MBC_ITEM37',8)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM36')">Home Page</a></div></div><div id="MBC_ITEM47" class="MBCL3"><div id="MBC_ITEM48" class="MBCL3Item"><a href="/content/Technology/autonomys-technology-accuracy/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM48');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,1,['L1_1','MBC_ITEM39','MBC_ITEM47'],'MBC_ITEM49',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM48')">Accuracy</a></div><div id="MBC_ITEM50" class="MBCL3Item"><a href="/content/Technology/autonomys-technology-automation/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM50');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,1,['L1_1','MBC_ITEM39','MBC_ITEM47'],'MBC_ITEM51',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM50')">Automation</a></div><div id="MBC_ITEM52" class="MBCL3Item"><a href="/content/Technology/autonomys-technology-cross-lingual/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM52');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,1,['L1_1','MBC_ITEM39','MBC_ITEM47'],'MBC_ITEM53',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM52')">Cross-lingual Functionality</a></div><div id="MBC_ITEM54" class="MBCL3Item"><a href="/content/Technology/autonomys-technology-language-independence/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM54');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,1,['L1_1','MBC_ITEM39','MBC_ITEM47'],'MBC_ITEM55',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM54')">Language Independence</a></div><div id="MBC_ITEM56" class="MBCL3Item"><a href="/content/Technology/autonomys-technology-learning-ability/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM56');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,1,['L1_1','MBC_ITEM39','MBC_ITEM47'],'MBC_ITEM57',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM56')">Learning Ability</a></div><div id="MBC_ITEM58" class="MBCL3Item"><a href="/content/Technology/autonomys-technology-format-agnosticism/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM58');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,1,['L1_1','MBC_ITEM39','MBC_ITEM47'],'MBC_ITEM59',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM58')">Format Agnosticism</a></div><div id="MBC_ITEM60" class="MBCL3Item"><a href="/content/Technology/autonomys-technology-support-future-technologies/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM60');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,1,['L1_1','MBC_ITEM39','MBC_ITEM47'],'MBC_ITEM61',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM60')">Support for Future Technologies</a></div></div><div id="MBC_ITEM39" class="MBCL2"><div id="MBC_ITEM40" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-a-different-approach/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM40');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM39'],'MBC_ITEM41',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM40')">A Different Approach</a></div><div id="MBC_ITEM42" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-unique-combination-technologies/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM42');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM39'],'MBC_ITEM43',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM42')">A Unique Combination of Technologies</a></div><div id="MBC_ITEM44" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-manual-or-automatic/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM44');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM39'],'MBC_ITEM45',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM44')">Manual or Automatic - It's Not an Either/Or Choice</a></div><div id="MBC_ITEM46" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-differentiation/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM46');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM39'],'MBC_ITEM47',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM46')">Differentiation</a></div></div><div id="MBC_ITEM63" class="MBCL2"><div id="MBC_ITEM64" class="MBCL2Item"><a href="/content/Technology/evolution/evolution-of-search/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM64');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM63'],'MBC_ITEM65',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM64')">Evolution of Search</a></div><div id="MBC_ITEM66" class="MBCL2Item"><a href="/content/Technology/evolution/evolution-of-search-pan-enterprise-search/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM66');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM63'],'MBC_ITEM67',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM66')">Enterprise Search</a></div></div><div id="MBC_ITEM69" class="MBCL2"><div id="MBC_ITEM70" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-limitations-of-other-approaches-keyword-boolean/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM70');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM69'],'MBC_ITEM71',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM70')">Keyword and Boolean Searches</a></div><div id="MBC_ITEM72" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-limitations-of-other-approaches-parsing/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM72');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM69'],'MBC_ITEM73',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM72')">Parsing and Natural Language Analysis</a></div><div id="MBC_ITEM74" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-limitations-of-other-approaches-manual-tagging/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM74');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM69'],'MBC_ITEM75',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM74')">Manual Tagging, Weighting and XML</a></div><div id="MBC_ITEM76" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-limitations-of-other-approaches-page-rank/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM76');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM69'],'MBC_ITEM77',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM76')">Page Ranking and Popularity-Based Internet Methods</a></div><div id="MBC_ITEM78" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-limitations-of-other-approaches-explicit-thesauri/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM78');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM69'],'MBC_ITEM79',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM78')">Explicit Thesauri</a></div><div id="MBC_ITEM80" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-limitations-of-other-approaches-vector-method/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM80');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM69'],'MBC_ITEM81',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM80')">The Vector Method</a></div><div id="MBC_ITEM82" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-limitations-of-other-approaches-onebox-model/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM82');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM69'],'MBC_ITEM83',8)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM82')">The "OneBox" Model</a></div><div id="MBC_ITEM84" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-limitations-of-other-approaches-social-methods/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM84');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM69'],'MBC_ITEM85',9)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM84')">Social Methods</a></div><div id="MBC_ITEM86" class="MBCL2Item"><a href="/content/Technology/autonomys-technology-limitations-of-other-approaches-federation/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM86');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,1,['L1_1','MBC_ITEM69'],'MBC_ITEM87',10)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM86')">Federation: Not an Answer to Pan-Enterprise Search</a></div></div><div id="L1_1" class="MBCL1"><div id="MBC_ITEM38" class="MBCL1Item"><a href="/content/Technology/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM38');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,1,['L1_1'],'MBC_ITEM39',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM38')">Autonomy's Technology</a></div><div id="MBC_ITEM62" class="MBCL1Item"><a href="/content/Technology/evolution/evolution-of-search/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM62');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,1,['L1_1'],'MBC_ITEM63',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM62')">Evolution of Search</a></div><div id="MBC_ITEM68" class="MBCL1Item"><span class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM68');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,1,['L1_1'],'MBC_ITEM69',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM68')">Limitations of Other Approaches</span></div></div><div id="MBC_ITEM91" class="MBCL2"><div id="MBC_ITEM92" class="MBCL2Item"><a href="/content/Products/products-idol-server/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM92');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM91'],'MBC_ITEM93',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM92')">IDOL™ Server</a></div><div id="MBC_ITEM94" class="MBCL2Item"><a href="/content/Products/products-idol-server/index.en.html#ID2" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM94');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM91'],'MBC_ITEM95',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM94')">An Open Architecture</a></div><div id="MBC_ITEM96" class="MBCL2Item"><a href="/content/Products/products-idol-server/index.en.html#ID4" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM96');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM91'],'MBC_ITEM97',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM96')">Security</a></div><div id="MBC_ITEM98" class="MBCL2Item"><a href="/content/Products/products-idol-server/index.en.html#ID5" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM98');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM91'],'MBC_ITEM99',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM98')">Scalability and Performance</a></div><div id="MBC_ITEM100" class="MBCL2Item"><a href="/content/Products/products-idol-server/index.en.html#ID6" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM100');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM91'],'MBC_ITEM101',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM100')">Global Language Support</a></div><div id="MBC_ITEM102" class="MBCL2Item"><a href="/content/Products/products-idol-server/index.en.html#ID7" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM102');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM91'],'MBC_ITEM103',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM102')">Cross Platform Solution</a></div><div id="MBC_ITEM104" class="MBCL2Item"><a href="/content/Products/products-idol-server/index.en.html#ID8" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM104');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM91'],'MBC_ITEM105',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM104')">IDOL K2™</a></div></div><div id="MBC_ITEM109" class="MBCL3"><div id="MBC_ITEM110" class="MBCL3Item"><a href="/content/Products/idol-modules-connectors/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM110');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,2,['L1_2','MBC_ITEM107','MBC_ITEM109'],'MBC_ITEM111',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM110')">KeyView IDOL &amp; Connectors</a></div><div id="MBC_ITEM112" class="MBCL3Item"><a href="/content/Products/idol-modules-connectors/index.en.html#ID2" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM112');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,2,['L1_2','MBC_ITEM107','MBC_ITEM109'],'MBC_ITEM113',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM112')">KeyView IDOL Overview</a></div><div id="MBC_ITEM114" class="MBCL3Item"><a href="/content/Products/idol-modules-keyview-filter/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM114');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,2,['L1_2','MBC_ITEM107','MBC_ITEM109'],'MBC_ITEM115',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM114')">KeyView IDOL Filter SDK</a></div><div id="MBC_ITEM116" class="MBCL3Item"><a href="/content/Products/idol-modules-keyview-viewing/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM116');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,2,['L1_2','MBC_ITEM107','MBC_ITEM109'],'MBC_ITEM117',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM116')">KeyView IDOL Viewing SDK</a></div><div id="MBC_ITEM118" class="MBCL3Item"><a href="/content/Products/idol-modules-keyview-export/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM118');typeof(window.MBSLN) &amp;&amp; MBSLN(3,this,2,['L1_2','MBC_ITEM107','MBC_ITEM109'],'MBC_ITEM119',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM118')">KeyView IDOL Export SDK</a></div></div><div id="MBC_ITEM107" class="MBCL2"><div id="MBC_ITEM108" class="MBCL2Item"><a href="/content/Products/idol-modules-connectors/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM108');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM107'],'MBC_ITEM109',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM108')">KeyView IDOL &amp; Connectors</a></div><div id="MBC_ITEM120" class="MBCL2Item"><a href="/content/Products/idol-modules-idol-enterprise-desktop-search/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM120');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM107'],'MBC_ITEM121',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM120')">IDOL Enterprise Desktop Search</a></div><div id="MBC_ITEM122" class="MBCL2Item"><a href="/content/Products/idol-modules-idol-answer/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM122');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM107'],'MBC_ITEM123',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM122')">IDOL Answer</a></div><div id="MBC_ITEM124" class="MBCL2Item"><a href="/content/Products/idol-modules-meaning-analytics-warehouse/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM124');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM107'],'MBC_ITEM125',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM124')">Meaning Analytics Warehouse</a></div><div id="MBC_ITEM126" class="MBCL2Item"><a href="/content/Products/idol-modules-idol-federator/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM126');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM107'],'MBC_ITEM127',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM126')">IDOL Federator</a></div><div id="MBC_ITEM128" class="MBCL2Item"><a href="/content/Products/idol-modules-idol-me/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM128');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM107'],'MBC_ITEM129',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM128')">IDOL Mobile Edition (IDOLme)</a></div><div id="MBC_ITEM130" class="MBCL2Item"><a href="/content/Products/idol-modules-information-governance/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM130');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM107'],'MBC_ITEM131',8)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM130')">Autonomy Information Governance</a></div><div id="MBC_ITEM132" class="MBCL2Item"><a href="/content/Products/idol-modules-idol-echo/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM132');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,2,['L1_2','MBC_ITEM107'],'MBC_ITEM133',9)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM132')">IDOL Echo</a></div></div><div id="L1_2" class="MBCL1"><div id="MBC_ITEM88" class="MBCL1Item"><a href="/content/Products/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM88');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,2,['L1_2'],'MBC_ITEM89',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM88')">Products Overview</a></div><div id="MBC_ITEM90" class="MBCL1Item"><a href="/content/Products/products-idol-server/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM90');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,2,['L1_2'],'MBC_ITEM91',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM90')">IDOL™ Server</a></div><div id="MBC_ITEM106" class="MBCL1Item"><span class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM106');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,2,['L1_2'],'MBC_ITEM107',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM106')">IDOL Modules</span></div></div><div id="MBC_ITEM135" class="MBCL2"><div id="MBC_ITEM136" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-legacy-search/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM136');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM135'],'MBC_ITEM137',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM136')">Legacy Search</a></div><div id="MBC_ITEM138" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-conceptual-search/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM138');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM135'],'MBC_ITEM139',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM138')">Conceptual Search</a></div><div id="MBC_ITEM140" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-relevance-ranking/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM140');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM135'],'MBC_ITEM141',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM140')">Relevance Ranking</a></div><div id="MBC_ITEM142" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-directed-navigation/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM142');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM135'],'MBC_ITEM143',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM142')">Directed Navigation</a></div><div id="MBC_ITEM144" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-automatic-hyperlinking/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM144');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM135'],'MBC_ITEM145',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM144')">Automatic Hyperlinking</a></div><div id="MBC_ITEM146" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-aqg/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM146');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM135'],'MBC_ITEM147',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM146')">Automatic Query Guidance (AQG)</a></div><div id="MBC_ITEM148" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-rpq/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM148');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM135'],'MBC_ITEM149',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM148')">Real-Time Predictive Query (RPQ)</a></div><div id="MBC_ITEM150" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-aqf/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM150');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM135'],'MBC_ITEM151',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM150')">Automatic Query Federation (AQF)</a></div><div id="MBC_ITEM152" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-device-specific-answers/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM152');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM135'],'MBC_ITEM153',8)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM152')">Device-Specific Answers</a></div></div><div id="MBC_ITEM155" class="MBCL2"><div id="MBC_ITEM156" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-collaboration-and-expertise-networks/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM156');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM155'],'MBC_ITEM157',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM156')">Collaboration and Expertise Networks (CEN)</a></div><div id="MBC_ITEM158" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-web-2/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM158');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM155'],'MBC_ITEM159',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM158')">Web 2.0</a></div><div id="MBC_ITEM160" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-personalization-operations/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM160');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM155'],'MBC_ITEM161',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM160')">Personalization Operations</a></div></div><div id="MBC_ITEM163" class="MBCL2"><div id="MBC_ITEM164" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-categorization/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM164');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM163'],'MBC_ITEM165',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM164')">Automatic Classification and Taxonomy Generation</a></div><div id="MBC_ITEM166" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-automatic-clustering/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM166');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM163'],'MBC_ITEM167',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM166')">Automatic Clustering</a></div><div id="MBC_ITEM168" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-nlp/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM168');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM163'],'MBC_ITEM169',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM168')">Natural Language Processing (NLP)</a></div><div id="MBC_ITEM170" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-sentiment/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM170');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM163'],'MBC_ITEM171',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM170')">Sentiment Analysis</a></div><div id="MBC_ITEM172" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-idol-eduction/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM172');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM163'],'MBC_ITEM173',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM172')">IDOL Eduction</a></div><div id="MBC_ITEM174" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-content-rationalization/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM174');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM163'],'MBC_ITEM175',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM174')">Content Rationalization</a></div></div><div id="MBC_ITEM181" class="MBCL2"><div id="MBC_ITEM182" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-audio-and-speech/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM182');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM181'],'MBC_ITEM183',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM182')">Audio and Speech Analysis</a></div><div id="MBC_ITEM184" class="MBCL2Item"><a href="/content/Functionality/idol-functionality-video-analysis/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM184');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM181'],'MBC_ITEM185',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM184')">Video Analysis</a></div></div><div id="MBC_ITEM187" class="MBCL2"><div id="MBC_ITEM188" class="MBCL2Item"><a href="/content/Functionality/administration-idol-sentient-dashboard/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM188');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM187'],'MBC_ITEM189',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM188')">IDOL Sentient Dashboard</a></div><div id="MBC_ITEM190" class="MBCL2Item"><a href="/content/Functionality/administration-autonomy-business-console/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM190');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM187'],'MBC_ITEM191',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM190')">Autonomy Business Console (ABC)</a></div><div id="MBC_ITEM192" class="MBCL2Item"><a href="/content/Functionality/administration-statistics-server/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM192');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM187'],'MBC_ITEM193',8)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM192')">Statistics Server</a></div></div><div id="MBC_ITEM195" class="MBCL2"><div id="MBC_ITEM196" class="MBCL2Item"><a href="/content/Functionality/interfaces-user-experience-enhancement/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM196');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM195'],'MBC_ITEM197',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM196')">User Experience Enhancement</a></div><div id="MBC_ITEM198" class="MBCL2Item"><a href="/content/Functionality/interfaces-retina/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM198');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM195'],'MBC_ITEM199',8)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM198')">Retina</a></div><div id="MBC_ITEM200" class="MBCL2Item"><a href="/content/Functionality/interfaces-portal-in-a-box/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM200');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM195'],'MBC_ITEM201',9)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM200')">Portal-in-a-Box</a></div><div id="MBC_ITEM202" class="MBCL2Item"><a href="/content/Functionality/interfaces-pods/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM202');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,3,['L1_3','MBC_ITEM195'],'MBC_ITEM203',10)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM202')">Product Oriented Drop-in Solutions (PODS) &amp; Portlets</a></div></div><div id="L1_3" class="MBCL1"><div id="MBC_ITEM134" class="MBCL1Item"><span class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM134');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,3,['L1_3'],'MBC_ITEM135',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM134')">Search &amp; Retrieval</span></div><div id="MBC_ITEM154" class="MBCL1Item"><span class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM154');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,3,['L1_3'],'MBC_ITEM155',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM154')">Collaboration &amp; Personalization</span></div><div id="MBC_ITEM162" class="MBCL1Item"><span class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM162');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,3,['L1_3'],'MBC_ITEM163',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM162')">Analytics &amp; Taxonomy</span></div><div id="MBC_ITEM176" class="MBCL1Item"><a href="/content/Functionality/idol-functionality-information-connectivity/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM176');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,3,['L1_3'],'MBC_ITEM177',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM176')">Information Connectivity</a></div><div id="MBC_ITEM178" class="MBCL1Item"><a href="/content/Functionality/idol-functionality-meta-data-and-xml/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM178');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,3,['L1_3'],'MBC_ITEM179',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM178')">Metadata &amp; XML</a></div><div id="MBC_ITEM180" class="MBCL1Item"><span class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM180');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,3,['L1_3'],'MBC_ITEM181',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM180')">Rich Media</span></div><div id="MBC_ITEM186" class="MBCL1Item"><a href="/content/Functionality/administration/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM186');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,3,['L1_3'],'MBC_ITEM187',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM186')">Administration</a></div><div id="MBC_ITEM194" class="MBCL1Item"><a href="/content/Functionality/interfaces/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM194');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,3,['L1_3'],'MBC_ITEM195',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM194')">Interfaces</a></div></div><div id="L1_4" class="MBCL1"><div id="MBC_ITEM204" class="MBCL1Item"><a href="/content/Technology/evolution/evolution-of-search-pan-enterprise-search/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM204');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM205',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM204')">Enterprise Search</a></div><div id="MBC_ITEM206" class="MBCL1Item"><a href="/content/Solutions/solutions-proactive-information-risk-management/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM206');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM207',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM206')">Proactive Information Risk Management</a></div><div id="MBC_ITEM208" class="MBCL1Item"><a href="/content/Solutions/solutions-information-governance/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM208');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM209',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM208')">Information Governance</a></div><div id="MBC_ITEM210" class="MBCL1Item"><a href="/content/Solutions/solutions-ediscovery/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM210');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM211',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM210')">eDiscovery</a></div><div id="MBC_ITEM212" class="MBCL1Item"><a href="/content/Solutions/solutions-consolidated-archiving/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM212');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM213',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM212')">Consolidated Archiving</a></div><div id="MBC_ITEM214" class="MBCL1Item"><a href="/content/Solutions/solutions-crm/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM214');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM215',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM214')">Customer Relationship Management</a></div><div id="MBC_ITEM216" class="MBCL1Item"><a href="/content/Solutions/solutions-contact-center/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM216');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM217',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM216')">Contact Center</a></div><div id="MBC_ITEM218" class="MBCL1Item"><a href="/content/Functionality/interfaces-portal-in-a-box/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM218');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM219',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM218')">Enterprise Portal</a></div><div id="MBC_ITEM220" class="MBCL1Item"><a href="/content/Verticals/ecommerce/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM220');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM221',8)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM220')">eCommerce</a></div><div id="MBC_ITEM222" class="MBCL1Item"><a href="/content/Solutions/solutions-business-intelligence/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM222');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM223',9)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM222')">Business Intelligence</a></div><div id="MBC_ITEM224" class="MBCL1Item"><a href="/content/Solutions/solutions-bpm/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM224');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM225',10)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM224')">Business Process Management</a></div><div id="MBC_ITEM226" class="MBCL1Item"><a href="/content/Solutions/solutions-security-and-surveillance/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM226');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM227',11)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM226')">Security &amp; Surveillance</a></div><div id="MBC_ITEM228" class="MBCL1Item"><a href="/content/Solutions/solutions-rich-media/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM228');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM229',12)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM228')">Rich Media</a></div><div id="MBC_ITEM230" class="MBCL1Item"><a href="http://www.blinkx.com/" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM230');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,4,['L1_4'],'MBC_ITEM231',13)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM230')" target="_blank">Consumer Video Search</a></div></div><div id="MBC_ITEM241" class="MBCL2"><div id="MBC_ITEM242" class="MBCL2Item"><a href="/content/Services/Training/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM242');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,5,['L1_5','MBC_ITEM241'],'MBC_ITEM243',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM242')">Autonomy Training</a></div><div id="MBC_ITEM244" class="MBCL2Item"><a href="/content/Services/Support/Verity/Contacts.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM244');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,5,['L1_5','MBC_ITEM241'],'MBC_ITEM245',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM244')">Autonomy Support Contacts</a></div></div><div id="L1_5" class="MBCL1"><div id="MBC_ITEM232" class="MBCL1Item"><a href="/content/Services/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM232');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,5,['L1_5'],'MBC_ITEM233',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM232')">Autonomy Professional Services</a></div><div id="MBC_ITEM234" class="MBCL1Item"><a href="/content/Services/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM234');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,5,['L1_5'],'MBC_ITEM235',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM234')">Autonomy Implementation</a></div><div id="MBC_ITEM236" class="MBCL1Item"><a href="/content/Services/Training/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM236');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,5,['L1_5'],'MBC_ITEM237',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM236')">Autonomy Customer &amp; Partner Training</a></div><div id="MBC_ITEM238" class="MBCL1Item"><a href="/content/Services/Consulting/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM238');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,5,['L1_5'],'MBC_ITEM239',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM238')">Autonomy Consulting</a></div><div id="MBC_ITEM240" class="MBCL1Item"><a href="/content/Services/Training/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM240');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,5,['L1_5'],'MBC_ITEM241',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM240')">Autonomy Support</a></div></div><div id="L1_6" class="MBCL1"><div id="MBC_ITEM246" class="MBCL1Item"><a href="/content/Verticals/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM246');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,6,['L1_6'],'MBC_ITEM247',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM246')">Solutions By Industry Sector</a></div><div id="MBC_ITEM248" class="MBCL1Item"><a href="/content/Verticals/ecommerce/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM248');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,6,['L1_6'],'MBC_ITEM249',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM248')">eCommerce</a></div><div id="MBC_ITEM250" class="MBCL1Item"><a href="/content/Verticals/energy/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM250');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,6,['L1_6'],'MBC_ITEM251',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM250')">Energy &amp; Utilities</a></div><div id="MBC_ITEM252" class="MBCL1Item"><a href="/content/Verticals/public_sector/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM252');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,6,['L1_6'],'MBC_ITEM253',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM252')">European Public Sector</a></div><div id="MBC_ITEM254" class="MBCL1Item"><a href="/content/Verticals/financial/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM254');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,6,['L1_6'],'MBC_ITEM255',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM254')">Financial Services</a></div><div id="MBC_ITEM256" class="MBCL1Item"><a href="/content/Verticals/investigative/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM256');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,6,['L1_6'],'MBC_ITEM257',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM256')">Investigative</a></div><div id="MBC_ITEM258" class="MBCL1Item"><a href="/content/Verticals/manufacturing/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM258');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,6,['L1_6'],'MBC_ITEM259',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM258')">Manufacturing</a></div><div id="MBC_ITEM260" class="MBCL1Item"><a href="/content/Verticals/media/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM260');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,6,['L1_6'],'MBC_ITEM261',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM260')">Media</a></div><div id="MBC_ITEM262" class="MBCL1Item"><a href="/content/Verticals/pharmaceutical/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM262');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,6,['L1_6'],'MBC_ITEM263',8)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM262')">Pharmaceutical</a></div><div id="MBC_ITEM264" class="MBCL1Item"><a href="/content/Verticals/professional_services/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM264');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,6,['L1_6'],'MBC_ITEM265',9)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM264')">Professional Services</a></div><div id="MBC_ITEM266" class="MBCL1Item"><a href="/content/Verticals/us_federal/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM266');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,6,['L1_6'],'MBC_ITEM267',10)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM266')">U.S. Federal</a></div></div><div id="MBC_ITEM273" class="MBCL2"><div id="MBC_ITEM274" class="MBCL2Item"><a href="/content/Customers/ShowReel/case_studies/ford_learning_network.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM274');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,7,['L1_7','MBC_ITEM273'],'MBC_ITEM275',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM274')">Ford Learning Network</a></div><div id="MBC_ITEM276" class="MBCL2Item"><a href="/content/Customers/ShowReel/case_studies/dti_ibio.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM276');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,7,['L1_7','MBC_ITEM273'],'MBC_ITEM277',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM276')">DTI iBio</a></div><div id="MBC_ITEM278" class="MBCL2Item"><a href="/content/Customers/ShowReel/case_studies/belga.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM278');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,7,['L1_7','MBC_ITEM273'],'MBC_ITEM279',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM278')">Belga</a></div></div><div id="L1_7" class="MBCL1"><div id="MBC_ITEM268" class="MBCL1Item"><a href="/content/Customers/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM268');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,7,['L1_7'],'MBC_ITEM269',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM268')">Autonomy Customers</a></div><div id="MBC_ITEM270" class="MBCL1Item"><a href="/content/Customers/Case_Studies/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM270');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,7,['L1_7'],'MBC_ITEM271',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM270')">Case Studies</a></div><div id="MBC_ITEM272" class="MBCL1Item"><a href="/content/Customers/ShowReel/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM272');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,7,['L1_7'],'MBC_ITEM273',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM272')">Video Case Studies</a></div><div id="MBC_ITEM280" class="MBCL1Item"><a href="/content/Customers/Testimonials.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM280');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,7,['L1_7'],'MBC_ITEM281',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM280')">Testimonials</a></div><div id="MBC_ITEM282" class="MBCL1Item"><a href="/content/Services/Training/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM282');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,7,['L1_7'],'MBC_ITEM283',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM282')">Customer Training</a></div></div><div id="MBC_ITEM285" class="MBCL2"><div id="MBC_ITEM286" class="MBCL2Item"><a href="/content/Partners/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM286');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM285'],'MBC_ITEM287',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM286')">Autonomy Partner Program</a></div><div id="MBC_ITEM288" class="MBCL2Item"><a href="/content/Services/Training/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM288');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM285'],'MBC_ITEM289',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM288')">Partner Training</a></div></div><div id="MBC_ITEM291" class="MBCL2"><div id="MBC_ITEM292" class="MBCL2Item"><a href="/content/Partners/ContentPartners.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM292');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM291'],'MBC_ITEM293',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM292')">Content Partners</a></div><div id="MBC_ITEM294" class="MBCL2Item"><a href="/content/Partners/VARs/Global.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM294');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM291'],'MBC_ITEM295',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM294')">Global</a></div><div id="MBC_ITEM296" class="MBCL2Item"><a href="/content/Partners/VARs/NorthAmerica.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM296');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM291'],'MBC_ITEM297',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM296')">North America</a></div><div id="MBC_ITEM298" class="MBCL2Item"><a href="/content/Partners/US_Federal_Partners.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM298');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM291'],'MBC_ITEM299',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM298')">US Federal Partners</a></div><div id="MBC_ITEM300" class="MBCL2Item"><a href="/content/Partners/VARs/LatinAmerica.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM300');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM291'],'MBC_ITEM301',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM300')">Latin America</a></div><div id="MBC_ITEM302" class="MBCL2Item"><a href="/content/Partners/VARs/UnitedKingdom.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM302');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM291'],'MBC_ITEM303',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM302')">United Kingdom &amp; Ireland</a></div><div id="MBC_ITEM304" class="MBCL2Item"><a href="/content/Partners/VARs/Europe.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM304');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM291'],'MBC_ITEM305',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM304')">Europe</a></div><div id="MBC_ITEM306" class="MBCL2Item"><a href="/content/Partners/VARs/Nordic.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM306');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM291'],'MBC_ITEM307',8)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM306')">Nordic</a></div><div id="MBC_ITEM308" class="MBCL2Item"><a href="/content/Partners/VARs/Asia-Pacific.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM308');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM291'],'MBC_ITEM309',9)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM308')">Asia-Pacific</a></div><div id="MBC_ITEM310" class="MBCL2Item"><a href="/content/Partners/VARs/Israel.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM310');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM291'],'MBC_ITEM311',10)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM310')">Israel</a></div><div id="MBC_ITEM312" class="MBCL2Item"><a href="/content/Partners/VARs/MiddleEast.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM312');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM291'],'MBC_ITEM313',11)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM312')">Middle East</a></div><div id="MBC_ITEM314" class="MBCL2Item"><a href="/content/Partners/VARs/Africa.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM314');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,8,['L1_8','MBC_ITEM291'],'MBC_ITEM315',12)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM314')">Africa</a></div></div><div id="L1_8" class="MBCL1"><div id="MBC_ITEM284" class="MBCL1Item"><a href="/content/Partners/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM284');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,8,['L1_8'],'MBC_ITEM285',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM284')">Autonomy Partner Program</a></div><div id="MBC_ITEM290" class="MBCL1Item"><span class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM290');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,8,['L1_8'],'MBC_ITEM291',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM290')">Autonomy's Partners</span></div></div><div id="L1_9" class="MBCL1"><div id="MBC_ITEM316" class="MBCL1Item"><a href="/content/OEMs/introduction/introduction-autonomy-oems/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM316');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,9,['L1_9'],'MBC_ITEM317',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM316')">Autonomy OEMs</a></div><div id="MBC_ITEM318" class="MBCL1Item"><a href="/content/OEMs/OEM-Portfolio/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM318');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,9,['L1_9'],'MBC_ITEM319',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM318')">OEMs Embedding Autonomy</a></div></div><div id="MBC_ITEM329" class="MBCL2"><div id="MBC_ITEM330" class="MBCL2Item"><a href="/content/News/Events/Seminars/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM330');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,10,['L1_10','MBC_ITEM329'],'MBC_ITEM331',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM330')">Autonomy Seminars</a></div><div id="MBC_ITEM332" class="MBCL2Item"><a href="/content/News/Events/Webinars/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM332');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,10,['L1_10','MBC_ITEM329'],'MBC_ITEM333',5)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM332')">Autonomy Webinars</a></div><div id="MBC_ITEM334" class="MBCL2Item"><a href="/content/News/Events/Customer/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM334');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,10,['L1_10','MBC_ITEM329'],'MBC_ITEM335',6)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM334')">Autonomy Customer Events</a></div><div id="MBC_ITEM336" class="MBCL2Item"><a href="/content/News/Events/Tradeshows/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM336');typeof(window.MBSLN) &amp;&amp; MBSLN(2,this,10,['L1_10','MBC_ITEM329'],'MBC_ITEM337',7)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM336')">Autonomy Tradeshows</a></div></div><div id="L1_10" class="MBCL1"><div id="MBC_ITEM320" class="MBCL1Item"><a href="/content/News/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM320');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,10,['L1_10'],'MBC_ITEM321',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM320')">Latest News</a></div><div id="MBC_ITEM322" class="MBCL1Item"><a href="/content/News/Releases/2008/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM322');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,10,['L1_10'],'MBC_ITEM323',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM322')">Press Release Archives</a></div><div id="MBC_ITEM324" class="MBCL1Item"><a href="/content/News/News.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM324');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,10,['L1_10'],'MBC_ITEM325',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM324')">Autonomy in the News</a></div><div id="MBC_ITEM326" class="MBCL1Item"><a href="/content/News/FAQ/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM326');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,10,['L1_10'],'MBC_ITEM327',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM326')">Press Fact Sheet</a></div><div id="MBC_ITEM328" class="MBCL1Item"><a href="/content/News/Events/Seminars/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM328');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,10,['L1_10'],'MBC_ITEM329',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM328')">Autonomy Events</a></div></div><div id="L1_11" class="MBCL1"><div id="MBC_ITEM338" class="MBCL1Item"><a href="/content/Investors/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM338');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,11,['L1_11'],'MBC_ITEM339',0)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM338')">Investor Relations</a></div><div id="MBC_ITEM340" class="MBCL1Item"><a href="/content/Investors/AnnualReports.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM340');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,11,['L1_11'],'MBC_ITEM341',1)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM340')">Annual Reports &amp; Shareholder Meetings</a></div><div id="MBC_ITEM342" class="MBCL1Item"><a href="/content/Investors/FinancialResultsDocs/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM342');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,11,['L1_11'],'MBC_ITEM343',2)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM342')">Financial Results</a></div><div id="MBC_ITEM344" class="MBCL1Item"><a href="/content/Investors/Review/2007/index.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM344');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,11,['L1_11'],'MBC_ITEM345',3)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM344')">The Year in Review</a></div><div id="MBC_ITEM346" class="MBCL1Item"><a href="/content/Investors/FAQ.en.html" class="MBCLk" onmouseover="typeof(window.MBHSL) &amp;&amp; MBHSL('MBC_ITEM346');typeof(window.MBSLN) &amp;&amp; MBSLN(1,this,11,['L1_11'],'MBC_ITEM347',4)" onmouseout="typeof(window.MBDHSL) &amp;&amp; MBDHSL('MBC_ITEM346')">Investors FAQ</a></div></div><div id="MBCTL" class="MBCTL"><div id="Top0" class="MBCTLItem" onmouseover="typeof(window.MBCAM) &amp;&amp; MBCAM();typeof(window.MBSL1) &amp;&amp; MBSL1( this, 0, 'L1_0' )"><a href="/content/Autonomy/index.en.html" class="MBLk">Company</a></div><div id="Top1" class="MBCTLItem" onmouseover="typeof(window.MBCAM) &amp;&amp; MBCAM();typeof(window.MBSL1) &amp;&amp; MBSL1( this, 1, 'L1_1' )"><a href="/content/Technology/index.en.html" class="MBLk">Technology</a></div><div id="Top2" class="MBCTLItem" onmouseover="typeof(window.MBCAM) &amp;&amp; MBCAM();typeof(window.MBSL1) &amp;&amp; MBSL1( this, 2, 'L1_2' )"><a href="/content/Products/index.en.html" class="MBLk">Products</a></div><div id="Top3" class="MBCTLItem" onmouseover="typeof(window.MBCAM) &amp;&amp; MBCAM();typeof(window.MBSL1) &amp;&amp; MBSL1( this, 3, 'L1_3' )"><a href="/content/Functionality/index.en.html" class="MBLk">Functionality</a></div><div id="Top4" class="MBCTLItem" onmouseover="typeof(window.MBCAM) &amp;&amp; MBCAM();typeof(window.MBSL1) &amp;&amp; MBSL1( this, 4, 'L1_4' )"><a href="/content/Solutions/index.en.html" class="MBLk">Business Solutions</a></div><div id="Top5" class="MBCTLItem" onmouseover="typeof(window.MBCAM) &amp;&amp; MBCAM();typeof(window.MBSL1) &amp;&amp; MBSL1( this, 5, 'L1_5' )"><a href="/content/Services/index.en.html" class="MBLk">Services</a></div><div id="Top6" class="MBCTLItem" onmouseover="typeof(window.MBCAM) &amp;&amp; MBCAM();typeof(window.MBSL1) &amp;&amp; MBSL1( this, 6, 'L1_6' )"><a href="/content/Verticals/index.en.html" class="MBLk">Verticals</a></div><div id="Top7" class="MBCTLItem" onmouseover="typeof(window.MBCAM) &amp;&amp; MBCAM();typeof(window.MBSL1) &amp;&amp; MBSL1( this, 7, 'L1_7' )"><a href="/content/Customers/index.en.html" class="MBLk">Customers</a></div><div id="Top8" class="MBCTLItem" onmouseover="typeof(window.MBCAM) &amp;&amp; MBCAM();typeof(window.MBSL1) &amp;&amp; MBSL1( this, 8, 'L1_8' )"><a href="/content/Partners/index.en.html" class="MBLk">Partners</a></div><div id="Top9" class="MBCTLItem" onmouseover="typeof(window.MBCAM) &amp;&amp; MBCAM();typeof(window.MBSL1) &amp;&amp; MBSL1( this, 9, 'L1_9' )"><a href="/content/OEMs/index.en.html" class="MBLk">OEMs</a></div><div id="Top10" class="MBCTLItem" onmouseover="typeof(window.MBCAM) &amp;&amp; MBCAM();typeof(window.MBSL1) &amp;&amp; MBSL1( this, 10, 'L1_10' )"><a href="/content/News/index.en.html" class="MBLk">News &amp; Events</a></div><div id="Top11" class="MBCTLItem" onmouseover="typeof(window.MBCAM) &amp;&amp; MBCAM();typeof(window.MBSL1) &amp;&amp; MBSL1( this, 11, 'L1_11' )"><a href="/content/Investors/index.en.html" class="MBLk">Investors</a></div></div><script type="text/javascript">typeof(window.MB_Configure) && MB_Configure()</script></div>
+
+
+
+
 		<div class="bottom">
 			
 
 <p class="legal">
-	<a href="/content/home/index.en.html">home</a>
+	<a href="/">home</a>
 	::
 	<a href="/content/Autonomy/Sitemap.en.html">sitemap</a>
 	::
@@ -1751,6 +2558,7 @@ MenuBuilderExpandSideMenu();
 	::
 	<a href="mailto:webmaster@autonomy.com">e-mail webmaster</a>
 </p>
+
 <p class="legal">
 	Copyright 2008 Autonomy Corp.
 </p>
@@ -1760,7 +2568,7 @@ MenuBuilderExpandSideMenu();
 
 
 
-				<script type="text/javascript" src="/components/TrackingCode/whoson_autonomy_trackingonly.js"></script><div id="WhosOn" style="position:absolute;visibility:hidden;"><img src="https://whos-on.autonomy.com:8443/stat.gif?u=&amp;d=www.autonomy.com&amp;p='https%3A//web.archive.org/web/20080624201132id_/http%253A//www.autonomy.com/content/Legal/PrivacyPolicy.en.html'&amp;r=''" height="1" width="1"></div><script language="Javascript" src="https://whos-on.autonomy.com:8443/invite.js?domain=www.autonomy.com"></script>
+				<script type="text/javascript" src="/components/TrackingCode/whoson_autonomy_trackingonly.js"></script><div id="WhosOn" style="position:absolute;visibility:hidden;"><img src="https://whos-on.autonomy.com:8443/stat.gif?u=&amp;d=www.autonomy.com&amp;p='https%3A//web.archive.org/web/20081218185834id_/http%253A//www.autonomy.com/content/Legal/PrivacyPolicy.en.html'&amp;r=''" height="1" width="1"></div><script language="Javascript" src="https://whos-on.autonomy.com:8443/invite.js?domain=www.autonomy.com"></script>
 
 			<script type="text/javascript">
 				<!--
@@ -1776,8 +2584,6 @@ MenuBuilderExpandSideMenu();
 			<p><a href="/spidertrap/">&nbsp;</a></p>
 		</div>
 
-
-		
 
 	
 
