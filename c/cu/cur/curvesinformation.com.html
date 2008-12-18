@@ -1,0 +1,334 @@
+<!--The following is the downloaded HTML source of the curvesinformation.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218120854id_/http%3A//www.curvesinformation.com/privacy-policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>Curves Information  - Privacy Policy</title>
+<meta name="description" content="Curves: Discover a gym where women change their lives 30 minutes at a time.  Curves is the largest fitness franchise in the world dedicated to providing affordable, one-stop exercise and nutritional information for women.">
+<meta name="keywords" content="curves, curves international, curves for women, curves fitness, curves health club, curves for woman, curves gym, curve international, curve">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<link rel="browser sniffer" type="image/x-icon" href="/favicon.ico">
+<script language="Javascript" type="text/javascript" src="/includes/swfobject.js"></script>
+<script language="JavaScript" type="text/javascript" src="/common_scripts/formValidator.js"></script>
+<script language="JavaScript" type="text/javascript">
+//<!-- Little script to make sure when user hits enter that the form is submitted
+function send(myfield, event, do_this) {
+	var keycode;
+	if (window.event) keycode = window.event.keyCode;
+	else if (event) keycode = event.which;
+	else return true;
+	
+	if (keycode == 13)
+	{ //If Enter button was hit, try to execute callback function that was specified
+		return do_this();
+	}
+	else
+		return true;
+}
+//-->
+</script><link rel="stylesheet" href="/css/styles.css" type="text/css">
+<!--[if IE 6]>
+	<link rel="stylesheet" href="/css/styles_ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+	<link rel="stylesheet" href="/css/styles_ie7.css" type="text/css" />
+<![endif]--><script type="text/javascript" src="/includes/jquery.js"></script>
+<script language="JavaScript" type="text/javascript">
+//This is the custom function to set the form, validate, and return the result
+function checkForm()
+{	//This gets a little tricky, since parts of the form are serverd up on the fly, the DOM can't identify all of the pieces at page load
+	//We can get around this by decalaring a new formValidator for each dynamically served up form (even though they are all named the same).
+	var fv = new formValidator();
+	var formSubmitted = false;
+	fv.setForm(document.curves);
+	
+	//Setup custom display values where appropriate, might as well be helpfull :)
+	fv.addDisplayName('day_phone01', 'Daytime Area Code');
+	fv.addDisplayName('day_phone02', 'Daytime Prefix');
+	fv.addDisplayName('day_phone03', 'Daytime Number');
+	
+	fv.addDisplayName('ev_phone01', 'Evening Area Code');
+	fv.addDisplayName('ev_phone02', 'Evening Prefix');
+	fv.addDisplayName('ev_phone03', 'Evening Number');
+
+	fv.addDisplayName('OptIn', 'Interest in being contacted by email');
+	fv.addDisplayName('IsMember', 'Current membership status with Curves');
+
+	fv.addRegExpression('day_phone01', '[0-9]{3}');
+	fv.addRegExpression('day_phone02', '[0-9]{3}');
+	fv.addRegExpression('day_phone03', '[0-9]{4}');
+	fv.addRegExpression('FirstName', '\s*[a-zA-Z0-9]+\s*');
+	fv.addRegExpression('LastName', '\s*[a-zA-Z0-9]+\s*');
+	fv.addRegExpression('ev_phone01', '[0-9]{3}');
+	fv.addRegExpression('ev_phone02', '[0-9]{3}');
+	fv.addRegExpression('ev_phone03', '[0-9]{4}');
+	
+	formSubmitted = fv.validateForm();
+	return formSubmitted;
+}
+
+function set_name()
+{	
+	//Validate all fields in this section before processing ...
+	if(checkForm())
+	{
+		var FirstName = $('#FirstName').val();
+		var LastName =  $('#LastName').val();
+		
+		$.get("/personal-touch/set_name.php?FirstName="+FirstName+"&LastName="+LastName, function(data) {
+			$('#callPhone').hide();
+			$('#name').hide();
+			$('#zipcode').html(""+data);
+			$('#zipcode').show("slow");
+		})
+	}
+	return false; //Don't submit form
+}
+
+function check_zipcode()
+{ //This single Form field is a bit tricky because of the default value that needs to appear in the box
+	//FormValidator isn't smart enough to figure out that it is a prompt, not a value
+	if($('#Zipcode').val() != "" && $('#Zipcode').val() != "Zip/Postal Code")
+	{
+		var Zipcode=$('#Zipcode').val();
+		get_locations(Zipcode);
+	}
+	else	//Keep with the same verbiage as the rest of the site
+		alert("The following field(s) need to be filled out:\n\nZipcode");
+
+	return false; 	//Don't submit form
+}
+
+function get_locations(Zipcode) 
+{
+	$.get("/personal-touch/get_locations.php?Zipcode="+Zipcode, function(data) {
+		$('#callPhone').hide();
+		$('#name').hide();
+		$('#zipcode').hide();
+		$('#locations').html(""+data);
+		$('#locations').show("slow");
+	})
+	return false;	
+}
+
+function set_location(LocationId)
+{
+	$.get("/personal-touch/set_location.php?LocationId="+LocationId, function(data) {
+		$('#locations').hide();		//This call has to come early or no worky
+		$('#callPhone').hide();
+		$('#name').hide();		
+		$('#zipcode').hide();		
+		$('#user_info').html(""+data);
+		$('#user_info').show("slow");
+	})
+	return false;
+}
+
+
+function set_contact_preferences()
+{
+	if (checkForm())
+	{
+		if ($('#optin_yes').attr('checked')){
+			var optin = '1';
+		}else{
+			var optin = '0';
+		}
+		
+		if ($('#ismember_current').attr('checked')){
+			var status = 'current';
+		}else if ($('#ismember_former').attr('checked')){
+			var status = 'former';
+		}else{
+			var status = 'neither';
+		}
+		
+		$.ajax(
+				{
+					type: "POST",
+					url: "/personal-touch/save_contact_preferences.php",
+					data: "optin=" + optin + "&status=" + status,
+					async: false,
+					success: function(data) 
+					{
+						if (data.search("ERROR") != -1)
+						{
+							alert(data);
+						}
+						else
+						{
+							//alert(data);
+							document.curves.submit();
+						}
+					}
+				});
+	}
+	return false;
+}
+
+function duplicate_check()
+{	
+	if(checkForm())
+	{	//Only pass necessary info to do the duplicate check
+		//You can use Jquery to get items that are already in the DOM, but for some reason the current portion of the form that is served
+		//up via AJAX is not in the DOM yet, so those form fields cannot be accessed
+		var FirstName=document.curves.FirstName.value;
+		var LastName=document.curves.LastName.value;
+		var State=document.curves.State.value;
+		var Email=document.curves.Email.value;
+		var Zipcode=$('#final_zipcode').val();
+		var day_phone01= document.curves.day_phone01.value;
+		var day_phone02= document.curves.day_phone02.value;
+		var day_phone03= document.curves.day_phone03.value;
+		var ev_phone01= document.curves.day_phone01.value;
+		var ev_phone02= document.curves.day_phone02.value;
+		var ev_phone03= document.curves.day_phone03.value;
+
+		if ($('#contact_day').attr('checked')){
+			var contact_preference = 'day';
+		}else{
+			var contact_preference = 'night';
+		}
+		
+		$('#locations').hide();
+		$('#zipcode').hide();		
+		
+		//Do a very simple asynch duplicate check ...
+		$.ajax(
+			{
+				type: "GET",
+				url: "/personal-touch/duplicate_check.php",
+				data: "FirstName="+FirstName+"&LastName="+LastName+"&Email="+Email+"&State="+State+"&Zipcode="+Zipcode,
+				async: false,
+				success: function(data) 
+				{
+					if(data.search("Duplicate") != -1)
+					{ 
+						//Entry is a duplicate, allow user to start over
+						alert(data);
+					}
+					else
+					{
+						$.ajax(
+								{
+									type: "POST",
+									url: "/personal-touch/save_lead.php",
+									data: "State=" + State + "&Zipcode=" + Zipcode + "&day_phone01=" + day_phone01 + "&day_phone02=" + day_phone02 + "&day_phone03=" + day_phone03 + "&ev_phone01=" + ev_phone01 + "&ev_phone02=" + ev_phone02 + "&ev_phone03=" + ev_phone03 + "&Email=" + Email +"&contact_preference=" + contact_preference,
+									async: false,
+									success: function(data) 
+									{
+										if (data.search("ERROR") != -1)
+										{
+											alert(data);
+										}
+										else
+										{
+											document.curves.submit();
+											/**
+											$('#locations').hide();		//This call has to come early or no worky
+											$('#callPhone').hide();
+											$('#name').hide();		
+											$('#zipcode').hide();		
+											$('#user_info').hide();
+											$('#contact_preference').html(""+data);	
+											$('#contact_preference').show("slow");	
+											$('#trackingpixels').attr("src","/pixel_iframe.php");
+											*/
+										}
+									}
+								});
+					}
+					return false; //Don't submit form
+				}
+		 });
+		 //You might not think the next line is needed, but it is
+		 //While the AJAX call back function is working, you need to return something to the call in the <form> tag
+		 //In this case, we return false ... and let the callback handle all the work
+		 return false;
+	}
+	else //Don't submit form
+		return false; 
+}
+
+$(document).ready(function() {
+		//Initialize form ...
+		//$('#zipcode').hide();
+		//$('#locations').hide();
+		//$('#user_info').hide();
+});
+</script></head>
+<body bgcolor="#c3a4e8">
+	<div id="secondaryContentContainer" style="height: 1020px;">
+  	<div id="secondaryContent">
+      <div id="logo">
+	<a href="/" title="Home"><img src="/images/logo.jpg" border="0" alt="Curves"></a>
+</div>
+<div id="nav">
+<a href="/">Home</a> | 
+<a href="/about-curves.php">About Curves</a> | 
+<a href="/locations.php">Locations</a> | 
+<a href="/the-workout.php">The Workout</a> | 
+<a href="/curvessmart.php">CurvesSmart</a>
+</div>      <h1>Privacy Policy</h1>
+
+		<p>The privacy policies described below are part of this Agreement. We respect the privacy of our online visitors. We collect information on or through this site that can personally identify you only when it is voluntarily offered by you. For example, we collect personally identifiable information to respond to visitor questions and comments about us and our products and services, and to mail e-newsletters. In addition, we may also collect demographic and other data for market research, advertising and promotional purposes.</p>
+      
+      <p>We do not share any of the personal information you provide to us with any third party other than service providers of ours who assist us in providing the information and/or services we are providing to you. To the extent that we do share your personal information with a service provider, we would only do so if that party has agreed to comply with our privacy standards as described in this privacy policy.</p>
+      
+      <p>Any non-personal information, communications and material you send to this site or to us by E-mail are on a non-confidential basis. We are free to use and reproduce any such information freely, and for any purpose whatsoever. Specifically, we will be free to use any ideas, concepts, know-how or techniques contained in such information for any purpose, including developing, manufacturing or marketing products. Any information you send to this site must be truthful, not violate the rights of others and be legal.</p>
+      
+      <p>Like many other companies, we use "cookie" technology, where our servers deposit special codes on a visitor's computer. This information helps us determine in the aggregate the total number of visitors to the site on an ongoing basis and the types of Internet browsers (e.g., Netscape Navigator or Internet Explorer) and operating systems (e.g., Windows or MacIntosh) used by our visitors. This information is used to enhance your on-line visits. Under no circumstances do we use this information to personally identify visitors or cross-reference the information with any type of personal information that is voluntarily offered on or through the site.</p>
+	  
+	  <p>We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This  anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. If you would like <a href="http://www.networkadvertising.org/index.asp" target="_blank">more information</a> about this practice and to know your choices about not having this anonymous information used by our third party service provider, please <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">click here</a>.</p>
+      
+      <p>We may modify this policy at any time, in our sole discretion and all modifications will be effective immediately upon our posting of the modifications on this site. Unless we specifically provide otherwise, this policy only applies to this site and our online activities, and does not apply to any of our offline activities.</p>
+      <div class="hr"><hr></div>
+    </div>
+		<div id="form">
+			<div id="formPersonal">
+	<div id="callPhone">
+ <h4>Call us at (800) 754-7505 <br>or<br>
+ Fill out the form below</h4>
+</div>
+	<div id="error"></div>
+	<form name="curves" action="/personal-touch-confirmation.php" method="post" onsubmit="return true">
+		<!--FirstName, LastName -->	
+		<div id="name"><div class="start"><img src="../../images/form/arrow_start_here2.gif" alt="Start Here"></div><br>
+	    <p class="formspace">
+				<strong><label for="first-name">First Name:</label></strong><span class="req">*</span>
+				<input type="text" name="FirstName" value="" id="FirstName" size="15" onkeypress="return send(this,event,set_name);">
+	    </p>
+			<p class="formspace">
+				<strong><label for="last-name">Last Name:</label></strong><span class="req">*</span>
+				<input type="text" name="LastName" value="" id="LastName" size="15" onkeypress="return send(this,event,set_name);"><br><br>
+        		<input type="image" src="/images/form/next-button.gif" alt="Next" onclick="return set_name();">
+			</p>
+		</div>
+		
+		<!--Zipcode-->
+		<div id="zipcode"><!-- /personal-touch/set_name_ajax.php injected here ... --></div>
+		
+		<!--LocationId-->
+	  	<div id="locations"><!-- /personal-touch/get_locations_ajax.php injected here ... --></div>
+		  
+	  	<!--User Information-->
+	  	<div id="user_info" style="display:none"><!-- /personal-touch/set_location_ajax.php injected here ... --></div>
+	
+		<!--User Information-->
+	  	<div id="contact_preference"><!-- /personal-touch/save_lead.php injected here ... --></div>  	
+  	
+		<p align="right"><span class="req">*</span><span class="note">denotes a required field</span></p>
+	</form>
+</div>		
+		</div>
+	</div>
+  <div id="ftr">
+	<div id="ftrphone">Call us at (800) 754-7505</div>
+	<a href="/legal.php">Copyright/Legal Info</a>  |  
+	<a href="/privacy-policy.php">Privacy Policy</a>  |  
+	<a href="/site-map.php">Site Map</a>   |  
+	<a href="/site-credit.php">Site Credit</a>
+</div>
+<script src="/includes/hbx_page_code.js" type="text/javascript"></script>
+<script src="/common_scripts/hbx/hbx.js" type="text/javascript"></script>
+
+</body></html>
