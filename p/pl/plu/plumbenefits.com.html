@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the plumbenefits.com privacy policy that was archived on 2008-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080605161109id_/http%3A//www.plumbenefits.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the plumbenefits.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218061259id_/http%3A//www.plumbenefits.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Plum Benefits - Privacy Policy</title>
@@ -26,7 +26,9 @@
 
 <!-- top content area -->
 <div class="content-top">
-<a href="/"><img src="/images/logo.gif" border="0" width="400" height="55"></a>
+
+ <a href="/"><img src="/images/logo.gif" border="0" width="400" height="55"></a>
+
 <div class="login">
 
 <table border="0" cellpadding="0" cellspacing="0">
@@ -62,7 +64,7 @@
 </div> <!-- end nav content -->
 
 <script language="javascript" type="text/javascript">
-function submitBrowse(input, field, value, clear) {
+function submitBrowse(input, field, value, clear) {        
 	var f = document.getElementById('browseForm');
 	f.input.value = input;
 	f.field.value = field;
@@ -76,22 +78,41 @@ function submitBrowse(input, field, value, clear) {
 	return false;
 }
 
+function submitPromoBrowse(input, field, promo) {
+        //alert("browsePromo:"+promo);
+        var f = document.getElementById('browseForm');
+        f.input.value = input;
+        f.field.value = field;
+        f.value.value = promo;
+        f.promo.value = promo;
+        //f.action = "browsePromo";
+        try {
+                if (clear) {
+                        f.clear.value = clear;
+                }
+        } catch(e) {}
+        f.submit();
+        return false;
+}
+
+
 function submitBrowseBarkerCriteria() {    
     var f = document.getElementById('browseForm');
-    //reset the field values
+    //reset the field values    
     f.field.value = "";
     f.value.value = "";
     for (var i=0;i<arguments.length;i++) {
         if (arguments[i].indexOf('Event_Types')==0) {
             if (f.field.value == "") {
-               f.field.value = arguments[i];
+               f.field.value = arguments[i];               
             } else {
-               f.field.value += ";"+arguments[i];            
+               f.field.value += ";"+arguments[i];
+               
             }            
             if (f.value.value == "") {
                 f.value.value = arguments[i + 1];
             } else {
-                f.value.value += ";"+arguments[i + 1];
+                f.value.value += ";"+arguments[i + 1];                
             }                      
             i++;
         }
@@ -137,7 +158,7 @@ function submitBrowseBarkerCriteria() {
 	<input type="hidden" name="value" value="">
         <input type="hidden" name="edition" value="0">
         <input type="hidden" name="offerType" value="All">
-	<input type="hidden" name="clear" value="0">	
+	<input type="hidden" name="clear" value="0">        
 </form>
 
 </div>
@@ -628,22 +649,18 @@ dcsTag();
 <a href="/contact/">Contact Us</a>
 
 <br>
-©2007 Plum Benefits<a class="first" href="/about/legal">Terms of Use</a><a href="/about/privacy">Privacy Policy</a>
+©2005-2008 Plum Benefits<a class="first" href="/about/legal">Terms of Use</a><a href="/about/privacy">Privacy Policy</a>
+
+
 </div>
 </div>
 </div>
 </div>
 </div>
-
-
-
-
-
-
-
-
-
-
+        
+      <script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js"></script>
+      <script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script>      
+   
 
 
 </body></html>
