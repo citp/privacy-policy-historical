@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the flotv.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628201602id_/http%3A//www.flotv.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flotv.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218220315id_/http%3A//www.flotv.com/privacy.shtml) for the most accurate reproduction.*
 
 # FLO TV - Privacy
 
-In this Web Site Privacy Statement ("statement"), we, MediaFLO USA, Inc., provide information about how we collect, use and transfer personally identifiable data from you, a web site visitor, through [www.mediaflousa.com](http://www.mediaflousa.com/) and other web sites that we operate and on which we post a direct link to this statement (collectively the "site").
+In this Web Site Privacy Statement ("statement"), we, MediaFLO USA, Inc., provide information about how we collect, use and transfer personally identifiable data from you, a web site visitor, through [www.flotv.com](http://www.flotv.com/) and / or other web sites that we operate and on which we post a direct link to this statement, and all site–related services associated with the aforementioned (collectively the "site").
 
 ### Scope
 
 This statement does not apply to any other data collection or processing, including, without limitation, data collection practices of other web pages to which we link, data that we or our affiliates collect offline or through web sites that do not display a direct link to this statement ( _e.g.,_ [www.qualcomm.com](http://www.qualcomm.com/)) or to our processing on behalf of wireless carriers and other data controllers on whose behalf we may process personal data in connection with the MediaFLO service that we provide outside the scope of this site and statement. Occasionally, we may refer to this statement in notices and consent requests related to surveys or promotions; under such circumstances, this statement applies as modified in the particular notice or consent request ( _e.g.,_ with respect to types of data collected or purposes of collection). This policy is a supplement to the Qualcomm, Inc. privacy statement which is available at <http://www.qualcomm.com/main/privacy.html> and the terms of this statement only apply to the activities of MediaFLO USA, Inc.
 
-Our Safe Harbor Certification covers offline and human resources data, but not data submitted through the site, as further explained in our [General EEA Safe Harbor Notice](http://www.qualcomm.com/main/eea_safeharbor.html).
+Our Safe Harbor Certification covers offline and human resources data, but not data submitted through the site, as further explained in our [General EEA Safe Harbor Notice](http://www.qualcomm.com/corporate_information/privacy/eea_safeharbor.html).
 
 ### Types of Data and Collection Methods
 
