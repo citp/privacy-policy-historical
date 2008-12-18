@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techyard.net privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626111456id_/http%3A//www.techyard.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techyard.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218035729id_/http%3A//www.techyard.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TECH YARD
 
@@ -25,6 +25,3 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
 The views expressed in this site, [Techyard.net](http://www.techyard.net/) are mine and mine alone. The tips and tweaks,views mentioned are based on my experience or from another sources. I am not responsible if the tips and tweaks,ideas, or anything mentioned here did not work for you or it should cause any damage or loss under any situation. Do it under your own discretion.
 
 If our Privacy Policies change at some time in the future we will post the policy changes to our Web site to notify you of these changes .
-
-Tags: [software](http://www.techyard.net/category/freeware/uncategorized/ "software")  
-
