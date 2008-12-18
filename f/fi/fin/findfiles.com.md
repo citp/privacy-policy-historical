@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findfiles.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213033814id_/http%3A//www.findfiles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findfiles.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218213230id_/http%3A//www.findfiles.com/privacy.php) for the most accurate reproduction.*
 
 # FindFiles.com - Privacy Statement
 
@@ -16,7 +16,7 @@ We use cookies to help you track your recent downloads; to make it easy to check
 
 FindFiles.com web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this Website.
 
-The FileMirrors Mirror Database can be used automatically when downloading files if you use the [GetRight](http://www.getright.com/)® download manager.
+The FindFiles Mirror Database can be used automatically when downloading files if you use the [GetRight](http://www.getright.com/)® * download manager.
 
 Using FindFiles.com for automatic mirror searching is off by default when you install GetRight, so you need to turn it on if you wish to use this service.
 
@@ -34,8 +34,10 @@ Even when enabled, GetRight will not use this service for all downloads. GetRigh
 
 
 
-If you find a file you believe should be removed, please contact us via [contact form](https://web.archive.org/web/20071213033814id_/http%3A//www.findfiles.com/contact.php?subj=removemir) including the file name and/or URL and why it should be excluded. 
+If you find a file you believe should be removed, please contact us via [contact form](https://web.archive.org/web/20081218213230id_/http%3A//www.findfiles.com/contact.php?subj=removemir) including the file name and/or URL and why it should be excluded. 
 
 The information in the database may be used for aggregate statistics for things like the Top Downloads on the FindFiles.com website. 
 
-If you have any questions or concerns, please contact us via [contact form](https://web.archive.org/web/20071213033814id_/http%3A//www.findfiles.com/contact.php).
+If you have any questions or concerns, please contact us via [contact form](https://web.archive.org/web/20081218213230id_/http%3A//www.findfiles.com/contact.php).
+
+* Several other download managers use the FindFiles.com service. Notably, [Lightning Download](http://www.lightningdownload.com/)™, and the resurected Go!Zilla™.
