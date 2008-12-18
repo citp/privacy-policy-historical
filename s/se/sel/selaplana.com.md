@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selaplana.com privacy policy that was archived on 2008-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080308235514id_/http%3A//www.selaplana.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selaplana.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218211636id_/http%3A//www.selaplana.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » SELaplana
 
