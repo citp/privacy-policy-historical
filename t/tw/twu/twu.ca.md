@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twu.ca privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623013910id_/http%3A//www.twu.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twu.ca privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218041701id_/http%3A//www.twu.ca/privacy) for the most accurate reproduction.*
 
 # TWU Website Privacy
 
