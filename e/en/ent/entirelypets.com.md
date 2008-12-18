@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the entirelypets.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610043351id_/http%3A//www.entirelypets.com/privacypolicy2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entirelypets.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218101812id_/http%3A//www.entirelypets.com/privacypolicy2.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
-[](https://www.scanalert.com/RatingVerify?ref=www.entirelypets.com)  
-
-
-| [](https://web.archive.org/web/20080610043351id_/http%3A//www.entirelypets.com/index.html)
+| [](https://web.archive.org/web/20081218101812id_/http%3A//www.entirelypets.com/index.html)
 
 EntirelyPets.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: EntirelyPets.com.
 
@@ -55,4 +52,9 @@ If you have any questions about this privacy statement, the practices of this si
 
 ## Shipping
 
-We offer the [best shipping rates](https://web.archive.org/web/20080610043351id_/http%3A//www.entirelypets.com/shco.html).
+We offer the [best shipping rates](https://web.archive.org/web/20081218101812id_/http%3A//www.entirelypets.com/shco.html).
+
+## Privacy Policy
+
+  
+Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
