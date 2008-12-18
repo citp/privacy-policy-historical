@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baptisthealth.net privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610000717id_/http%3A//www.baptisthealth.net/bhs/en/privacy_policy/0%2C2914%2C3150_4333094%2C00.html%3FfpSiteId%3D3150) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baptisthealth.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218203604id_/http%3A//baptisthealth.net/bhs/en/privacy_policy/0%2C2914%2C3150_4333094%2C00.html%3FfpSiteId%3D3150) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
