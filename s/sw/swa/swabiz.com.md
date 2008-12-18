@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swabiz.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501054224id_/http%3A//www.swabiz.com/travel_center/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swabiz.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218100532id_/http%3A//swabiz.com/travel_center/privacy_policy.html) for the most accurate reproduction.*
 
 # Southwest Airlines Privacy Policy
 
