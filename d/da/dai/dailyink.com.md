@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyink.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609131907id_/http%3A//www.dailyink.com/en-us/about_kfs/terms_and_conditions.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyink.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218052816id_/http%3A//www.dailyink.com/en-us/about_kfs/terms_and_conditions.php) for the most accurate reproduction.*
 
 # DailyINK - Terms and Conditions (About KFS)
 
