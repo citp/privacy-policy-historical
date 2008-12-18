@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613135816id_/http%3A//www.tcgplayer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218133231id_/http%3A//www.tcgplayer.com/privacy.asp) for the most accurate reproduction.*
 
 # TCGplayer.com: Tradable and Collectible Game Player
 
@@ -107,39 +107,28 @@ All rights reserved.
 [Privacy Policy](https://web.archive.org/privacy.asp)  
 
 
-|  | 
-
-  
-| LATEST WoW TCG ARTICLE  
+|  |  | LATEST DREAMBLADE ARTICLE  
 ---  
-  
-|  **[Gingerbread Eclipse](http://wow.tcgplayer.com/db/article.asp?ID=2385)**  
----  
-  
-Before the sun sets over SotB, I want to take a last stab at a priest build that was always right there in front of everybody but never made it in the way other archetypes did.   
-  
-LATEST YGO ARTICLE  
----  
-  
-|  **[Reclaiming the Gold](http://yugioh.tcgplayer.com/db/article.asp?ID=2023)**  
----  
-  
-With the release of Light of Destruction, a new Tier One deck emerge in the form of Lightsworn, and with the added playability of the Gladiator Beast deck, it's time to take a fresh look at Dark Armed Dragon.   
-  
-LATEST DREAMBLADE ARTICLE  
----  
-LATEST VS ARTICLE  
----  
-  
-|  **[The Source: JSA #16](http://vs.tcgplayer.com/db/article.asp?ID=2472)**  
----  
-  
-Justice Society of America is without a doubt one of the best titles flying off DC’s production line. Seriously, JSA and JLA have been far better reads over the course of the past two years than 52, Countdown to Final Crisis or any other major cross title release.   
-  
 LATEST SPOILS ARTICLE  
 ---  
   
 |  **[GG.dec](http://spoils.tcgplayer.com/db/article.asp?ID=2007)**  
 ---  
   
-In this week's instalment of Canadien Bacon, we are going to continue talking about “Rogue Decks” of 1st Edition. We're switching gears and playing the aggro game. 
+In this week's instalment of Canadien Bacon, we are going to continue talking about “Rogue Decks” of 1st Edition. We're switching gears and playing the aggro game.   
+  
+LATEST Pokemon ARTICLE  
+---  
+  
+|  **[Kingdra](http://pokemon.tcgplayer.com/db/article.asp?ID=2742)**  
+---  
+  
+With a new format, there are brand new cards and decks to choose from. Now that Scramble and Double Rainbow Energy have rotated out, the game has changed completely.   
+  
+LATEST Heroclix ARTICLE  
+---  
+  
+|  **[Smoke Cloud](http://heroclix.tcgplayer.com/db/article.asp?ID=2730)**  
+---  
+  
+Smoke Cloud, like Barrier, takes a Power Action to activate but then gives you control of Hindering Terrain tokens which are less useful than its Blocking Terrain counterpart. Or are they? 
