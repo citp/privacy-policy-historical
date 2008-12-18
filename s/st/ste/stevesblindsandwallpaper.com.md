@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the stevesblindsandwallpaper.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608164805id_/http%3A//www.stevesblindsandwallpaper.com/sb_BLPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevesblindsandwallpaper.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218031259id_/http%3A//www.stevesblindsandwallpaper.com/sb_Privacy.aspx) for the most accurate reproduction.*
 
-# sb_BLPrivacy - Steve's Blinds & Wallpaper
-
-  
-
+# Privacy Policy - Steve's Blinds & Wallpaper
 
 Your Privacy and Security is our Top Priority
 
@@ -34,4 +31,5 @@ Accepting cookies through your web browser is your personal choice. You can stil
 
 Changes in Policy
 
-Steve’s reserves the right to change the terms of use and this Privacy Policy, at any time. We will post any changes so that you are always aware of our policy. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
+Steve’s reserves the right to change the terms of use and this Privacy Policy, at any time. We will post any changes so that you are always aware of our policy. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.  
+
