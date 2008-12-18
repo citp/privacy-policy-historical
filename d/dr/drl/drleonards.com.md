@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drleonards.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609210658id_/http%3A//www.drleonards.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drleonards.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218064109id_/http%3A//www.drleonards.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Dr. Leonard's America's Leading Online Healthcare Catalog - Privacy Policy
 
@@ -41,5 +41,3 @@ We use modern technology to protect the information you submit.  All personally
 You may review or delete any personal information we retain about you by sending an email to our Privacy Officer at the address listed below.  However, if you are contacted by one of our partners, you will need to alert them that you wish your information to be deleted. **  **Please note that it is sometimes not possible to erase all copies of your personal data such as that data in storage located on a back up drive.  
 
 [Click Here](mailto:%50%72%69%76%61%63%79%4F%66%66%69%63%65%72%2E%44%52%4C%2E%43%57%47%40%64%72%6C%65%6F%6E%61%72%64%73%2E%63%6F%6D) to Send any questions you may have. 
-
-[](http://www.drleonards.com/home.cfm)
