@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rosenfeldmedia.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630162643id_/http%3A//www.rosenfeldmedia.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosenfeldmedia.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218040945id_/http%3A//www.rosenfeldmedia.com/privacypolicy) for the most accurate reproduction.*
 
 # Rosenfeld Media - Privacy Policy
 
