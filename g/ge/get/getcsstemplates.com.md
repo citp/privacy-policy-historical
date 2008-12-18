@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getcsstemplates.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603111025id_/http%3A//www.getcsstemplates.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getcsstemplates.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218152443id_/http%3A//www.getcsstemplates.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
