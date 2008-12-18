@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gjsentinel.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218114129id_/http%3A//www.gjsentinel.com/services/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gjsentinel.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218184107id_/http%3A//www.gjsentinel.com/services/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # Welcome to GJSentinel!
 
