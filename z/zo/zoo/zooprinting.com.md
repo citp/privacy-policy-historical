@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the zooprinting.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224192933id_/http%3A//www.zooprinting.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooprinting.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218074002id_/http%3A//www.zooprinting.com/company/privacy) for the most accurate reproduction.*
 
-# Zoo Printing - Full Color Business Cards For $41
+# Privacy Policy - Zoo Printing
+
+## PRIVACY POLICY
 
 ### Our Commitment to Privacy
 
-Zoo Printing values its customers and respects their privacy. We collect customer information in an effort to improve your shopping experience and communicate with you about our products, services and promotions. We do not sell or rent your personal information to third parties. As described in this policy, we do, however, share your information, under certain circumstances, with third parties that provide services on our behalf, or with whom we have partnered to offer a particular product or service. This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, you can always contact us in any of three ways (or as discussed in the Contact Us portion of this policy): 
-
-  * **Email:** info@zooprinting.com
-  * **Phone:** 310.253.7751
-  * **Mail:** 5700 Bandini Blvd., Commerce, CA 90040
-
-
+We value our customers and respects their privacy. We collect customer information in an effort to improve your shopping experience and communicate with you about our products, services and promotions. We do not sell or rent your personal information to third parties. As described in this policy, we do, however, share your information, under certain circumstances, with third parties that provide services on our behalf, or with whom we have partnered to offer a particular product or service. This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, you can always contact us in any of three ways (or as discussed in the Contact Us portion of this policy): 
 
 ### Information We Collect
 
@@ -18,7 +14,7 @@ We collect information, such as name, e-mail and postal addresses, phone and cre
 
 ### How We Use Information
 
-When you place an order or make a purchase from Zoo Printing, we use your personal information to process your order, send you e-mails to confirm your order or to contact you via phone, mail or e-mail (if we have questions regarding your order or purchase). We may use an outside credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes, and they are not allowed to use personally identifiable information except to provide the services. When you place an order, make a purchase, or save your information online, we may use your e-mail and postal address to send you information about our products, services, and promotions and to help us learn more about your shopping preferences. If you participate in a promotion, we may use your personal information to send you e-mails, postal mail, or telephone (including text messages) regarding our products, services and promotions. From time to time, we may use this information to contact you via e-mail, postal mail, or telephone to learn more about your shopping preferences. You always have the choice not to receive marketing information or calls. In addition, we may use information about you and your product interests and purchases from us and our affiliates to help us improve our Website design and your online shopping experiences. We may contact you, subject to the choices you have made, via e-mail, mail, or telephone, to conduct market research and learn more about how we can improve our product offerings. To serve you better, we may combine information you give us and information about your product interest and purchases with information from third parties, including demographic information and information that is publicly available. We may also combine this information with information from our affiliates. We may use that combined information to enhance and personalize your shopping experience with us, and to communicate with you in accordance with this policy. 
+When you place an order or make a purchase from us, we use your personal information to process your order, send you e-mails to confirm your order or to contact you via phone, mail or e-mail (if we have questions regarding your order or purchase). We may use an outside credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes, and they are not allowed to use personally identifiable information except to provide the services. When you place an order, make a purchase, or save your information online, we may use your e-mail and postal address to send you information about our products, services, and promotions and to help us learn more about your shopping preferences. If you participate in a promotion, we may use your personal information to send you e-mails, postal mail, or telephone (including text messages) regarding our products, services and promotions. From time to time, we may use this information to contact you via e-mail, postal mail, or telephone to learn more about your shopping preferences. You always have the choice not to receive marketing information or calls. In addition, we may use information about you and your product interests and purchases from us and our affiliates to help us improve our Website design and your online shopping experiences. We may contact you, subject to the choices you have made, via e-mail, mail, or telephone, to conduct market research and learn more about how we can improve our product offerings. To serve you better, we may combine information you give us and information about your product interest and purchases with information from third parties, including demographic information and information that is publicly available. We may also combine this information with information from our affiliates. We may use that combined information to enhance and personalize your shopping experience with us, and to communicate with you in accordance with this policy. 
 
 ### Security
 
@@ -42,7 +38,7 @@ If we make any material changes in our privacy practices, we will use reasonable
 
 ### Kids' Privacy
 
-Zoo Printing is concerned about the safety of children when they use the Internet and will never knowingly request personally identifiable information from anyone under the age of 13. 
+We are concerned about the safety of children when they use the Internet and will never knowingly request personally identifiable information from anyone under the age of 13. 
 
 ### Cookies
 
