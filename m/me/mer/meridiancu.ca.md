@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meridiancu.ca privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414224407id_/http%3A//www.meridiancu.ca/misc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meridiancu.ca privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218015227id_/http%3A//www.meridiancu.ca/misc/privacy.htm) for the most accurate reproduction.*
 
 # Meridian Credit Union - Privacy
 
@@ -65,9 +65,9 @@ Ultimate responsibility for our compliance with the Code, rests, however, with M
 
 We welcome any questions or concerns about our MemberDirect® Privacy Statement, or the practices of this site. Please contact us by email, or in writing at the following address:
 
-Name: **Dave Hammers**  
+Name: **Glen Norton**  
 Title: Privacy Officer  
-Email: [**dave.hammers@meridiancu.ca**](mailto:dave.hammers@eridiancu.ca)
+Email: [**glen.norton@meridiancu.ca**](mailto:glen.norton@meridiancu.ca)
 
 Name: **Sue Bennison**  
 Title: Deputy Privacy Officer  
