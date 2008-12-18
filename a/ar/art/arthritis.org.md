@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arthritis.org privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628061414id_/http%3A//www.arthritis.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthritis.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218142620id_/http%3A//www.arthritis.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Arthritis.org Privacy Policy
 
@@ -26,7 +26,7 @@ We also may collect certain non-personally identifiable information when you vis
 
 ###  Community Tools
 
-Some portions of our site provide special services and offer interactive tools that allow users to upload information for public consumption. In some cases, users can share experiences, give advice and connect with others. This privacy policy does not apply to RA Connect. Please remember that chat rooms, message boards and personal pages are public forums and personal information disclosed there will be seen by others. In addition, please exercise caution when posting information or providing information about yourself to others, especially contact information, such as street address, telephone number or email address. For more on the use of the RA Connect, please refer to the [Frequently Asked Questions](https://web.archive.org/aboutraconnect.php) page for that section of the site.
+Some portions of our site provide special services and offer interactive tools that allow users to upload information for public consumption. In some cases, users can share experiences, give advice and connect with others. This privacy policy does not apply to RA Connect. Please remember that chat rooms, message boards and personal pages are public forums and personal information disclosed there will be seen by others. In addition, please exercise caution when posting information or providing information about yourself to others, especially contact information, such as street address, telephone number or email address. The Arthritis Foundation does not condone solicitations on the boards and anything posted there is not approved/sanctioned by the Arthritis Foundation.  For more on the use of the RA Connect, please refer to the [Frequently Asked Questions](https://web.archive.org/aboutraconnect.php) page for that section of the site.
 
 ### Sharing Information with Others
 
