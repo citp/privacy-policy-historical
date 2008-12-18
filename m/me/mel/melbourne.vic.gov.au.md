@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the melbourne.vic.gov.au privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621012945id_/http%3A//www.melbourne.vic.gov.au/info.cfm%3Fpg%3D665) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbourne.vic.gov.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218012249id_/http%3A//www.melbourne.vic.gov.au/info.cfm%3Fpg%3D665) for the most accurate reproduction.*
 
-# City of Melbourne - Home - Privacy Statement
+# City of Melbourne - Home - Privacy Policy Statement
 
 ## Information privacy
 
