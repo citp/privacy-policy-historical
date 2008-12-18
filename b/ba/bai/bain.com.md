@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bain.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509194206id_/http%3A//www.bain.com/bainweb/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bain.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218061744id_/http%3A//bain.com/bainweb/privacy.asp) for the most accurate reproduction.*
 
 # Bain & Company: Privacy
 
