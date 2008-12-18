@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rouxbe.com privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030182355id_/http%3A//www.rouxbe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rouxbe.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218064321id_/http%3A//rouxbe.com/privacy) for the most accurate reproduction.*
 
-# Rouxbe - The Recipe to Better Cooking
+# Rouxbe — The Recipe to Better Cooking
 
 #### Privacy Policy
 
