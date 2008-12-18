@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trixbox.org privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509123632id_/http%3A//www.trixbox.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trixbox.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218133021id_/http%3A//www.trixbox.com/about-us/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | trixbox | The Open Platform for Business Telephony
+# Privacy Policy | Fonality trixbox | The Open Platform for Business Telephony
 
 ### Privacy Policy
 
