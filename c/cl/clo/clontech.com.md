@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clontech.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610082429id_/http%3A//www.clontech.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clontech.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218112654id_/http%3A//www.clontech.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
-[Home](https://web.archive.org/web/20080610082429id_/http%3A//www.clontech.com/default.asp) > [About](https://web.archive.org/web/20080610082429id_/http%3A//www.clontech.com/about/default.asp) > Website Privacy Policy 
+[Home](https://web.archive.org/web/20081218112654id_/http%3A//www.clontech.com/default.asp) > [About](https://web.archive.org/web/20081218112654id_/http%3A//www.clontech.com/about/default.asp) > Website Privacy Policy 
 
 **Effective Date: This Privacy policy was last updated on August 21, 2007.**
 
