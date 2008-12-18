@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpp.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616015623id_/http%3A//www.cpp.com/private.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpp.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218213142id_/http%3A//www.cpp.com/private.asp) for the most accurate reproduction.*
 
 # CPP - Privacy Statement
 
@@ -14,23 +14,22 @@ YOUR PRIVACY
   
 ---  
   
-CPP, Inc. and Davies-Black® Publishing strive to protect your privacy. We work diligently to protect confidentiality, restrict transfer of personal data, incorporate technical safeguards and appropriate security policies, and identify privacy implications in new services. To that end, we would like you to know how we use the personal information you entrust to us.   
+CPP, Inc. and Davies-Black® Publishing strive to protect your privacy. We work diligently to protect confidentiality, restrict transfer of personal data, incorporate technical safeguards and appropriate security policies, and identify privacy implications in new services. To that end, we would like you to know how we use the personal information you entrust to us.  
   
    
   
-CPP, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the following websites:  [www.cpp.com](http://www.cpp.com/), [ www.skillsone.com](http://www.skillsone.com/), online.cpp.com, fulfillment.cpp.com, [ www.cppsurveys.com](http://www.cppsurveys.com/). Because CPP wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+CPP, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the following websites:  [www.cpp.com](http://www.cpp.com/), [www.skillsone.com](http://www.skillsone.com/), online.cpp.com, [www.cppiconsuccess.com,](http://www.cppiconsuccess.com/) fulfillment.cpp.com, [www.cppsurveys.com](http://www.cppsurveys.com/), discovery.skillsone.com, and www.response.cpp.com. Because CPP wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact the Legal Department of CPP, Inc. by email at [ privacy@cpp.com](mailto:privacy@cpp.com), by phone (1-800-624-1765) or by mail (Legal Department, 1055 Joaquin Road, 2nd Floor, Mountain View, CA 94043).  If you do not receive acknowledgment of your inquiry, or if your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Dispute Resolution Process at [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php).  TRUSTe will serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact the Legal Department of CPP, Inc. by email at [privacy@cpp.com](mailto:privacy@cpp.com), by phone (1-800-624-1765) or by mail (Legal Department, 1055 Joaquin Road, 2nd Floor, Mountain View, CA 94043).  If you do not receive acknowledgment of your inquiry, or if your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Dispute Resolution Process at <http://www.truste.org/consumers/watchdog_complaint.php>.  TRUSTe will serve as a liaison with the Web site to resolve your concerns. 
 
 CPP, Inc. complies EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.  
-  
    
   
 **COLLECTION OF INFORMATION ON THE INTERNET**  
   
 Our web site may log a user's IP address, browser type and version, dial-up domain, and computer operating system when he/she visits the site. IP addresses may in some cases be linked to personally identifiable information. We use the tracked information to help diagnose problems with our server and to administer our website. IP addresses of our web site users are used to diagnose problems with our server, and to administer our web site. IP addresses may also be used to gather broad demographic information-information that is not associated with any individual, and is anonymous.
 
-Our web site uses an order form for customers to purchase products and services. We collect customers' contact information (such as their address and email address) and financial information (such as their account or credit card numbers). We verify our customer-provided credit card information with a third party prior to order processing. 
+Our web site uses an order form for customers to purchase products and services. We collect customers' contact information (such as their name, address and email address) and financial information (such as their account or credit card numbers). We verify our customer-provided credit card information with a third party prior to order processing. 
 
 Contact information from the order form is used to send orders to our customers. We also provide mailings and other marketing collateral regarding product information and releases. We also conduct surveys during which non-personally identifiable information is collected but will not be used other than to garner survey results.  Users may opt out of receiving any of the surveys by contacting CPP by email, mail or phone as noted above or by selecting the appropriate option during account setup or modification once they are logged into their account.  We reserve the right to aggregate or compile and use data obtained from the scoring or other processing of products listed on this site or other wise sold or licensed by CPP, and to utilize this data for research, product development, and statistical analysis. Be assured that such data is only used in aggregate and never discloses any individual's identity.
 
@@ -38,34 +37,45 @@ If a user chooses to sign up to receive a CPP newsletter, that user will be able
 
 CPP collects the name and e-mail address of the end-user (the assessment taker) for the sole purpose of providing CPP’s customers with assessment results.  CPP does not share this information with any third parties (other than the test administrator). 
 
-Certain federal, state, local or other government regulations may require that we disclose personally identifiable information about you. In such cases, we will use reasonable efforts to disclose only the information required under applicable law.
+Certain federal, state, local or other government regulations may require that we disclose personally identifiable information about you. In such cases, we will use reasonable efforts to disclose only the information required under applicable law, such as in response to a court order or subpeona.
 
-Our web site may contain links to other web sites. We have no control over the privacy practices of such other web sites nor should the link be considered an endorsement of such other web sites' privacy practices. We recommend that you read the privacy policies of such other websites.  
-  
+Our web site may contain links to other web sites. We have no control over the privacy practices of such other web sites nor should the link be considered an endorsement of such other web sites' privacy practices. We recommend that you read the privacy policies of such other websites.   
    
   
 **COOKIES**  
   
-Our web site also uses "cookies." Cookies are small data files that certain web sites write to a user's hard drive during a visit. A cookie file tracks information as the user visits pages within the site. This information will be used to improve the user's online experience by delivering content specific to the user's interests. Users have the choice to accept, reject or be notified when a site sets a cookie by configuring their browser preferences. 
+Our web site also uses "cookies." Cookies are small data files that certain web sites write to a user's hard drive during a visit. A cookie file tracks information as the user visits pages within the site. This information will be used to improve the user's online experience by delivering content specific to the user's interests. Users have the choice to accept, reject or be notified when a site sets a cookie by configuring their browser preferences.
 
 CPP’s websites use cookies as follows:
 
-www.cpp.com site cookie –The cookie used on this site does not contain any personally identifiable information and contains order and shopping cart information.   
+www.cpp.com – The cookie used on this site does not contain any personally identifiable information and contains order and shopping cart information.   
 
-www.skillsone.com – Two cookies are used on this site.  The first cookie stores the user’s account information and qualification level but is destroyed when the user logs out, when the user leaves the [www.skillsone.com](http://www.skillsone.com/) site or when the browser window is closed.  The second cookie is used for order processing from the www.skillsone.com site and does not include any personally identifiable information.
+www.skillsone.com – Two cookies are used on this site.  The first cookie stores the user’s account information and qualification level but is destroyed when the user logs out, when the user leaves the www.skillsone.com site or when the browser window is closed.  The second cookie is used for order processing from the www.skillsone.com site and does not include any personally identifiable information. 
 
-online.cpp.com  \- The cookie used on this site does not contain any personally identifiable information cookie and contains session-based information.
+online.cpp.com  \- The cookie used on this site does not contain any personally identifiable information cookie and contains session-based information. 
 
-fulfillment.cpp.com - The cookie used on this site does not contain any personally identifiable information cookie and contains session-based information.
+fulfillment.cpp.com - The cookie used on this site does not contain any personally identifiable information cookie and contains session-based information. 
 
-www.cppsurveys.com - The cookie used on this site does not contain any personally identifiable information cookie and contains session-based information.  
-  
+www.cppsurveys.com - The cookie used on this site does not contain any personally identifiable information cookie and contains session-based information. 
+
+www.response.cpp.com – The cookie used on this site does not contain any personally identifiable information cookie and contains session-based information.
+
+www.cppiconsuccess.com -  The cookies used on this site store and hash the user name and password so that users to do not have to re-enter this information each time the comment on the blog or log in.
+
+     
+
+Discovery.skillsone.com – This site does not use cookies.
+
+Other than as stated above, CPP does not link the information we store in cookies to any personally identifiable information you submit while on our site.
+
+CPP does not have access to or control over cookies used by third parties accessed through links on our side.  This privacy statement does not cover the use of cookies by any of those third parties.  
    
   
 **SECURITY**  
   
-When a user pays for an instrument or places an order online, the user's personal information and credit card information are processed and encrypted by offsite, secure servers: Verisign.com and cybercash.com, using industry-standard SSL encryption. SSL is short for Secure Sockets Layer, a protocol developed by Netscape for transmitting private documents via the Internet.  We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can send email us at privacy@cpp.com.   
-  
+When a user pays for an instrument or places an order online (using the [www.cpp.com](http://www.cpp.com/) or online.cpp.com, [www.skillsone.com](http://www.skillsone.com/)), the user's personal information and credit card information are processed and encrypted by offsite, secure servers: Verisign.com and cybercash.com, using industry-standard SSL encryption. SSL is short for Secure Sockets Layer, a protocol developed by Netscape for transmitting private documents via the Internet.  We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can send email us at privacy@cpp.com. 
+
+Note:  SSL is not used on the discovery.skillsone.com, [www.fulfillment.cpp.com](http://www.fulfillment.cpp.com/), [www.cppsurvey.com](http://www.cppsurvey.com/) and [www.response.cpp.com](http://www.response.cpp.com/) websites because sensitive personal information is not collected on those sites.  
    
   
 **CHILDREN'S USE OF THE WEB SITE**  
@@ -76,7 +86,7 @@ CPP recognizes the importance of children's safety and privacy on the Internet. 
   
 **WILL CPP DISCLOSE THE INFORMATION IT COLLECTS TO OUTSIDE PARTIES?**  
   
-We do not sell, trade or rent or otherwise give to any other entity or organization the individual information our customers submit when placing an order or taking an instrument on our site except as noted in this privacy policy. CPP does provide its customers with the individual information they need to properly counsel or advise their clients. In other words if you are taking an instrument on our site at the direction of a consultant, counselor or other individual, that consultant, counselor or other individual will receive, from CPP, individually identifiable information so that he or she may properly counsel or advise you.
+We do not share, sell, trade or rent or otherwise give to any other entity or organization the individual information our customers submit when placing an order or taking an instrument on our site except as noted in this privacy policy. CPP does provide its customers with the individual information they need to properly counsel or advise their clients. In other words if you are taking an instrument on our site at the direction of a consultant, counselor or other individual, that consultant, counselor or other individual will receive, from CPP, individually identifiable information so that he or she may properly counsel or advise you.
 
 From time to time, CPP will provide its approved distributors in international markets with a list of customers, including name and contact information, residing in that distributor’s CPP-approved area of distribution.  CPP will do so only when it reasonably believes that providing such information will permit improved service to CPP customers in that distributor’s area, and only when the distributor’s use of such information is in accordance with CPP’s privacy policies in general.
 
@@ -86,25 +96,25 @@ If a customer neglects to pay amounts due and owing to CPP, CPP may send that CP
 
 Other than the above, if we provide a third party with client information, it will be in the form of aggregate data and used for the purposes of product development, research or statistical analysis. The information will remain anonymous, stripped of all personally identifiable data and compiled among all of our visitors' answers to survey questions and instrument responses as well as grouped on-site behavior. Again, all identifiable individual information will be removed.
 
-CPP may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law; (ii) enforce or apply the terms of any of our user agreements; or (iii) protect the rights, property or safety of CPP, our users, or others.
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web sites.
 
-If you need to update or correct the personal information that you have provided to CPP, please send an email to [custserv@cpp.com](mailto:custserv@cpp.com).  You can expect a response to your request within 30 days.  
-  
+CPP may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law; (ii) enforce or apply the terms of any of our user agreements; or (iii) protect the rights, property or safety of CPP, our users, or others. 
+
+If you need to delete, update or correct the personal information that you have provided to CPP, please send an email to [custserv@cpp.com](mailto:custserv@cpp.com).  You can expect a response to your request within 30 days.   
    
   
 **SUMMARY**  
   
 CPP is committed to protecting our customers' privacy. We use the information collected on our site to improve our products, your experience, and scientific study. By using our Web site, you consent to the collection and use of information by CPP. We may from time to time change our privacy policy, but we will always post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-Because of the changing legal landscape and the evolving nature of technologies, we may amend this privacy policy from time to time, and will post any revisions on this web site.  A prominent notice will be posted when there are material changes to this site’s use of your personal information.   You can determine when this privacy policy was last updated by looking at the “Last Updated” statement at the bottom of this web page.   
-  
+Because of the changing legal landscape and the evolving nature of technologies, we may amend and reserve the right to amend this privacy policy from time to time.  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.   You can determine when this privacy policy was last updated by looking at the “Last Updated” statement at the bottom of this web page.   
    
   
 **CONTACT US**  
   
-We need your help in making sure your personal information is correct in our systems. Please notify us of changes to information you've previously provided. If you have any changes, or if you have any questions or comments about privacy, please do not hesitate to contact us at [privacy@cpp.com](mailto:privacy@cpp.com). If you are not satisfied with our response, we will provide you with further information concerning where you can address any issues related to your privacy. We can also be reached at 1055 Joaquin Road, 2nd Floor, Mountain View, CA 94043.
+We need your help in making sure your personal information is correct in our systems. Please notify us of changes to information you've previously provided. If you have any changes, wish to remove inaccuracies or delete your information, or if you have any questions or comments about privacy, please do not hesitate to contact us at [privacy@cpp.com](mailto:privacy@cpp.com). If you are not satisfied with our response, we will provide you with further information concerning where you can address any issues related to your privacy. We can also be reached at 1055 Joaquin Road, 2nd Floor, Mountain View, CA 94043.
 
-Last Updated:  February 2007   
+Last Updated: November 2008  
   
    
  
