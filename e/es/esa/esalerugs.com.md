@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the esalerugs.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413074946id_/http%3A//esalerugs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esalerugs.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218103914id_/http%3A//esalerugs.com/customer-service/privacy_policy) for the most accurate reproduction.*
 
-# Our Commitment to Privacy
+# Rug Education Center
+
+## Privacy Policy
 
 Your email address and other personally identifiable information will be used only in order fulfillment, and to send you newsletters if you so request. We will never sell or give your information to third parties, unless related to order fulfillment (such as giving your email address to UPS so that they can inform you if there is a problem with delivery.)
 
@@ -10,17 +12,28 @@ Because we gather certain types of information about our users, we feel you shou
 
 Definition of the Information Unique USA Inc gathers and keeps track of.
 
+Unique USA Inc gathers two types of information about users:
+
+  * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys:
+  * Information Unique USA Inc gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because Unique USA Inc derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free to users. Under no circumstances does Unique USA Inc divulge any information about an individual user to a third party. 
+
+
+
+Unique USA Inc Gathers User Information In The Following Processes:
+
+### OPTIONAL VOLUNTARY INFORMATION
+
 We offer the following free services, which require some type of voluntary submission of personal information by users:
 
-* **Electronic newsletters (Dispatches)**  
+  1. **Electronic newsletters (Dispatches)**  
 We will offer a free electronic newsletter to users. Unique USA Inc gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.
-* **Message boards/forums**  
+  2. **Message boards/forums**  
 Users of the site's Message Boards and Forums must register separately for these services (both are free of charge) in order to post messages, although they needn't register to visit the site. During registration the user is required to supply a username, password, and email address.
-* **"E-mail this to a friend" Service.**  
+  3. **"E-mail this to a friend" Service.**  
 Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
-* **Polling**  
+  4. **Polling**  
 We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. Unique USA Inc may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
-* **5\. Surveys**  
+  5. **5\. Surveys**  
 Unique USA Inc may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party.
 
 ### CHILDREN
@@ -61,11 +74,12 @@ Unique USA Inc operates secure data networks protected by industry standard fire
 
 We give users options wherever necessary and practical. Such choices include:
 
-  * Opting not to register to receive our electronic newsletters.
-  * Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users.
-
-
+    * Opting not to register to receive our electronic newsletters.
+    * Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users.
 
 ### YOUR CONSENT
 
 By using this site, you consent to the collection and use of this information by Unique USA Inc. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+
+
+
