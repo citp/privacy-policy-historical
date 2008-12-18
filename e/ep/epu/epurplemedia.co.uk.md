@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epurplemedia.co.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609193400id_/http%3A//www.epurplemedia.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epurplemedia.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218142529id_/http%3A//www.epurplemedia.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,14 +8,13 @@ The statements on this page disclose our information collection practices and ou
 
 **Domain:** http://www.epurplemedia.co.uk 
 
-**Owner:**
-
-> Rupiz media ltd.  
->  First Floor, 26 Fouberts Place,  
-> London W1F 7PP  
->  United Kingdom  
->  Phone: 02070972694  
->  Email: m.wali@epurplemedia.co.uk 
+**Owner:**   
+Parade House,  
+135, The Parade High Street,  
+Watford, Hertfordshire,  
+WD17 1NS, United Kingdom  
+Phone: +44 207 0972695  
+Free Phone: 0800 097 0237 
 
 **General Data Collection Statement:** Identifiable information is collected.  
 Our website collects information and/or some information may be used to identify the website user. 
@@ -31,11 +30,11 @@ Other Identified Data: access is given to certain other identified data (e.g., u
 
 If a website visitor wants to file a dispute pertaining to your websites privacy policy, the dispute will be resolved by: Individual may complain to the Web sites customer service representative for resolution of disputes regarding the use of collected data.
 
-You may view information on our dispute resolution policies and procedures here: [privacy.html](https://web.archive.org/web/20080609193400id_/http%3A//www.epurplemedia.co.uk/privacy.html)
+You may view information on our dispute resolution policies and procedures here: [privacy.html](https://web.archive.org/web/20081218142529id_/http%3A//www.epurplemedia.co.uk/privacy.html)
 
 Customer support at Rupiz media Ltd. can be contacted via email at info@epurplemedial.co.uk. Please allow atleast 72 hrs for us to do the initial investigation and response. 
 
-A visitor may verify our privacy practice here: [privacy.html](https://web.archive.org/web/20080609193400id_/http%3A//www.epurplemedia.co.uk/privacy.html)
+A visitor may verify our privacy practice here: [privacy.html](https://web.archive.org/web/20081218142529id_/http%3A//www.epurplemedia.co.uk/privacy.html)
 
 Our organization responds to visitor claims by: Errors or wrongful actions arising in connection with the privacy policy will be remedied by the service. 
 
