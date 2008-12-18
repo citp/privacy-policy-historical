@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the hollandbulbfarms.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605150607id_/http%3A//www.hollandbulbfarms.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollandbulbfarms.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218061634id_/http%3A//www.hollandbulbfarms.com/privacy.asp) for the most accurate reproduction.*
 
 # Holland Bulb Farms Privacy Policy
 
-Sign Up and Save!
-
-Special savings, tips and invite only pricing e-mailed to you.
+Join our newsletter
 
 Enter Your E-Mail Address
 
 [ ](https://hosted8.whoson.com/chat/chatstart.htm?domain=www.hollandbulbfarms.com)
-
-[](https://web.archive.org/web/20080605150607id_/http%3A//www.hollandbulbfarms.com/items.asp?Cc=FlowerBulbDeals&Bc=&layout=grid)
-
-[](https://web.archive.org/web/20080605150607id_/http%3A//www.hollandbulbfarms.com/items.asp?Cc=GiftCard&iTpStatus=0&Tp=&Bc=&layout=)
 
 | 
 
