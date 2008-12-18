@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priscillaofboston.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517101111id_/http%3A//priscillaofboston.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priscillaofboston.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218041022id_/http%3A//www.priscillaofboston.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Priscilla of Boston
 
@@ -32,6 +32,13 @@ From time to time, we may share anonymous information with our ad agencies in an
 The personally identifiable information we collect online is sent to the Priscilla of Boston salon in your area so the salon can provide you with information regarding special events and offers in your area. Priscilla of Boston may choose to share your personally identifiable information within our family of companies and with other selected retailers, so that you can be provided with offers we believe would be attractive to our customers. If you wish to opt out of these offers, please send an email to [mkent@priscillaofboston.com](mailto:mkent@priscillaofboston.com). 
 
 We also may use non-identifying and aggregate information to improve the design of our web site and to share with advertisers. For example, we may tell an advertiser that X-number of individuals visited a certain area on our Web site, or that Y-number of women who filled out our registration form are from the northeast U.S., but we will not disclose anything that could be used to identify those individuals. 
+
+* * *
+
+  
+**Coremetrics**
+
+We have carefully selected a company, Coremetrics, that will assist us in better understanding your use of our site. Coremetrics will place cookies on your computer to collect information on our behalf that will educate us on such things as search engine referral, how you navigate around our site, unique visitor identification, and product browsing and purchasing information. Priscilla of Boston does not allow Coremetrics to collect credit card, username or password information. Coremetrics analyzes the information it collects on our behalf and returns it to Priscilla of Boston through a secure web connection. The information and analysis will be used to assist us in better understanding your use of our web site and how to better serve you. Coremetrics is contractually prohibited from using our data for any other purposes and is required to maintain all information collected and the analysis in strictest confidence. As a visitor to the Priscilla of Boston site, you may choose to continue to benefit from the improved shopping experience which the Coremetrics analysis allows us to provide to you, but maintain your anonymity. You also have the option to deactivate the ability of Coremetrics to analyze your browsing and purchasing behavior on our site. To learn more about the various levels of privacy and confidentiality you can select with respect to Coremetrics and to exercise your choice, [click here](https://web.archive.org/privacy_optout.jsp). 
 
 * * *
 
