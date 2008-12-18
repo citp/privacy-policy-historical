@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spiritualnow.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014035845id_/http%3A//www.spiritualnow.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritualnow.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218220147id_/http%3A//www.spiritualnow.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Spiritual Now
 
 **An Overview**   
 Spiritual Now, Inc. ("Spiritual Now," "we" or "us") provides a variety of online services and products to its users on the website currently located at [www.SpiritualNow.com](http://www.spiritualnow.com/) and its e-mail newsletters (collectively known as (the "Site"). Spiritual Now is strongly committed to protecting the privacy of your personal information, and providing a safe and secure environment for our users. 
