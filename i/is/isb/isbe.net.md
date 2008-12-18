@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the isbe.net privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609112524id_/http%3A//www.isbe.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isbe.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218220028id_/http%3A//www.isbe.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
+
+* * *
 
 Thank you for visiting the Web site of the Illinois State Board of Education (ISBE). The agency is committed to respecting and protecting your privacy as a visitor to our Web site at [http://www.isbe.net](http://www.isbe.net/). 
 
@@ -8,15 +10,16 @@ The ISBE takes the issue of privacy very seriously and values the trust you plac
 
 The policy may change from time to time without notice so please check back periodically. If you have any questions about our privacy policies, we encourage you to contact us using any of the methods outlined at the end of this Privacy Policy.
 
-**Personal Information and Choice**
+#### **Personal Information and Choice**
 
 "Personal information" is information about an individual that is readily identifiable to that specific individual. Personal information includes personal identifiers such as an individual's name, address, phone number, and social security number. A domain name or Internet Protocol address is not considered personal information. 
 
 We collect no personal information about you unless you voluntarily participate in an activity that asks for information (e.g., sending an e-mail or participating in a survey). If you choose not to participate in these activities, your choice will in no way affect your ability to use any other feature of the ISBE web site. If personal information is requested on the web site or volunteered by the user, state law and the federal Privacy Act of 1974 (5 U.S.C. 552a) may protect it. However, this information is a public record once you provide it, and may be subject to public inspection and copying if not otherwise protected by federal or state law. [e.g., Electronic Communications Privacy Act (ECPA) (18 U.S.C. 2510-2520, 2701-2709); Illinois Freedom of Information Act (FOIA) (5 ILCS 140/1 et seq.); Data Processing Confidentiality Act (30 ILCS 585/0.01 et seq.).]
 
-**What Information Is Automatically Collected?**
+#### **What Information Is Automatically Collected?**
 
-If, during your visit to the ISBE Web site, you just browse or download information, the following information about your visit will be automatically collected and stored in the Web server's log:
+If, during your visit to the ISBE Web site, you just browse or download information, the following information about your visit will be automatically collected and stored in the Web server's log:  
+
 
   1. Your Internet Protocol address (not the e-mail address).
   2. The type of web browser used to access this site (Internet Explorer, Netscape, etc.). (Web pages do not always display the same on every type or version of web browser and thus must be coded for appropriate access.)  
@@ -24,11 +27,13 @@ If, during your visit to the ISBE Web site, you just browse or download informat
 
 
 
-Our Web site logs do not contain personally identifiable information, and we make no attempt to link them with the individuals who browse this Web site. 
+Our Web site logs do not contain personally identifiable information, and we make no attempt to link them with the individuals who browse this Web site.   
 
-**What Information Is Collected Only with Your Permission?**
 
-If you visit our Web site and participate in a survey, fill out a Web-based form, or send an e-mail, the following additional information will be collected: 
+#### **What Information Is Collected Only with Your Permission?**
+
+If you visit our Web site and participate in a survey, fill out a Web-based form, or send an e-mail, the following additional information will be collected:   
+
 
   1. Internet Correspondence: If an individual sends ISBE an e-mail message or fills out a Web-based form with a question or comment that contains personal identifying information, that information will only be used to respond to the request and to analyze trends. The message may be redirected to another government agency or person who is better able to answer the question. We may retain that email address and other information as appropriate for official business purposes. 
   2. Surveys: Any information you volunteered in response to a survey. Survey information is used for the purpose designated.   
@@ -36,8 +41,7 @@ If you visit our Web site and participate in a survey, fill out a Web-based form
 
 
 
-  
-**How Do We Use the Information We Collect?**   
+#### **How Do We Use the Information We Collect?**   
 
 
 The information that we gather both automatically and with your permission during your visit to our Web site is used in the following ways:   
@@ -56,13 +60,8 @@ The information that we gather both automatically and with your permission durin
 
 
 
-**
+#### **Access and Correction of Personal Information**
 
-Access and Correction of Personal Information
-
-**
-
-  
 Upon request, we provide site visitors with access to the following: 
 
   * A description of information (e.g., name, address, phone number) that we maintain about them 
@@ -71,12 +70,9 @@ Upon request, we provide site visitors with access to the following:
 
 
 
-  
-Individuals can access, review, and request correction to this information, as necessary, by contacting us at the address at the end of this Privacy Policy.   
+Individuals can access, review, and request correction to this information, as necessary, by contacting us at the address at the end of this Privacy Policy. 
 
-
-**  
-Our Use of Cookies**
+#### **Our Use of Cookies**
 
 A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. For example, a Web site may use a cookie to store and sometimes track information about your preferences or the pages you last visited. Cookies can be used to provide useful online features for their visitors, such as customized pages and personalized services.
 
@@ -84,11 +80,11 @@ The ISBE Web site uses two types of cookies: session cookies and persistent cook
 
 Your browser software can be set to reject all cookies, or to ask you if you would like to accept or decline a cookie from a particular site before it is set. 
 
-**Registration for Access**
+#### **Registration for Access**
 
 The ISBE Web site does requires registration to access certain forms requiring digital signature via the ISBE Web Application System (IWAS). At registration, you are asked to provide name, login name, password, and an email address. Once registered, you may enter the password protected website by keying in your login name and password. If the login name and password match, you are granted access to forms requiring digital signature. 
 
-**Our Children's Privacy Policy**
+#### **Our Children's Privacy Policy**
 
 ISBE and the State of Illinois are committed to protecting children's privacy and complying fully with the Children's Online Privacy Protection Act of 1998. (COPPA) (15 U.S.C. 6501 et seq.). 
 
@@ -100,7 +96,7 @@ If you are under the age of 13, you are not authorized to provide us with person
 
 Users are cautioned that the collection of personal information volunteered by children on-line or by e-mail will be treated the same as information given by an adult and may be subject to public access.
 
-**Links to Other Sites**
+#### **Links to Other Sites**
 
 The ISBE Web site often provides a number of links that offer direct access to other useful or interesting educational web sites holding potential value to site visitors. Inclusion of the other sites by links does not imply any endorsement by ISBE of the material or information on the other sites. 
 
@@ -108,9 +104,10 @@ We encourage users to review the privacy policy of each linked site, as we are n
 
 We will make efforts to notify you when you are leaving our site and you may be subjected to different privacy policies than those we have established for our Web site.
 
-**Security of Communications**
+#### **Security of Communications**
 
-ISBE recognizes that many people are concerned about the privacy and protection of information as it is transmitted over the Internet. You should keep in mind that the possibility exists for unauthorized individuals to intercept any e-mail message you send over the Internet. In some cases, information can be encrypted (scrambled or encoded) to make it very difficult to read if it is intercepted during communication. Certain technology and practices allow Web sites to provide an increased level of security for your personal and health-related information when appropriate. We use the following practices on our Web site to enhance the level of security for communication and the transmission of personal information: 
+ISBE recognizes that many people are concerned about the privacy and protection of information as it is transmitted over the Internet. You should keep in mind that the possibility exists for unauthorized individuals to intercept any e-mail message you send over the Internet. In some cases, information can be encrypted (scrambled or encoded) to make it very difficult to read if it is intercepted during communication. Certain technology and practices allow Web sites to provide an increased level of security for your personal and health-related information when appropriate. We use the following practices on our Web site to enhance the level of security for communication and the transmission of personal information:   
+
 
   * We use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.
   * We have taken reasonable steps to ensure the integrity and confidentiality of personally identifiable information that you may provide.
@@ -122,15 +119,14 @@ ISBE recognizes that many people are concerned about the privacy and protection 
 
 
 
-**  
-Changes in Our Privacy Policy**   
-
+#### **Changes in Our Privacy Policy**
 
 ISBE reserves the right, at its sole discretion, to modify this policy at any time without notice. ISBE will regularly review and revise this Privacy Policy. If our information practices change we will post the policy changes to the Web site. Changes shall be effective immediately. If you are concerned about how your information is used, you should check this Privacy Policy periodically. 
 
-**Web Site Contact Information**
+#### **Web Site Contact Information**
 
-If you have questions about our privacy policy, or believe that this site is not following its stated information policy, please contact us. 
+If you have questions about our privacy policy, or believe that this site is not following its stated information policy, please contact us.   
+
 
 > Privacy Officer  
 >  Multimedia & Web Services  
