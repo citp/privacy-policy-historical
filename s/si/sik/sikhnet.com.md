@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the sikhnet.com privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409202605id_/http%3A//www.sikhnet.com/s/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sikhnet.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218043020id_/http%3A//www.sikhnet.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Sikhnet's Privacy Policy
-
-**PRIVACY POLICY**  
-
+# Privacy Policy | SikhNet
 
 **Privacy Statement for Sikhnet**
 
@@ -23,7 +20,7 @@ Our online surveys ask visitors for demographic information (like their zip code
 
 **Consumer Information**
 
-During the process of delivering a web page to you on some web site sections like the Sikh Matrimonials, Sikhnet does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, Sikhnet does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by SikhNet is used for the purpose of knowing how to best serve it’s user base.
+During the process of delivering a web page to you on some web site sections like the Sikh Matrimonials, Sikhnet does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, Sikhnet does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by SikhNet is used for the purpose of knowing how to best serve itâ€™s user base.
 
 If you would like additional information about the types of non-personally identifiable information that is collected by Sikhnet please let us know.
 
@@ -37,8 +34,7 @@ If you have any additional questions about Sikhnet's dedication to consumer priv
 
 Sikhnet does not sell, share or distribute any of the information that it collects with any business or persons not affiliated with it.
 
-**Public Forums**
-
+**Public Forums**  
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. Sikhnet is not responsible for the loss, misuse, or alteration of any personal information you disclose in public forums. SikhNet is not responsible for interactions that happens between users through the chat room, discussion forum, or Matrimonial ads, both online and off-line. Sikhnet will never give out user information regardless of the situation unless obligated by law. 
 
 **Security**  
@@ -53,17 +49,18 @@ SikhNet is not responsible for interactions that happen between users either thr
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-1\. You can send email to [](mailto:/)[_support@sikhnet.com_](mailto:support@sikhnet.com)   
-2\. You can call the following telephone number: 505-753-3117
-  
-**Correct/Update**  
+1\. [Contact SikhNet via emai](https://web.archive.org/contact)  
+2\. You can call the following telephone number: +1-505-629-4121
+
+ **Correct/Update**  
 This site gives users the following options for changing and modifying information previously provided. 
 
-1\. email [_support@sikhnet.com_](mailto:support@sikhnet.com)   
-2\. Registration info: [_http://www.sikhnet.com/registration_](http://www.sikhnet.com/registration)   
-2\. Membership info: [_http://www.sikhnet.com/sikhnet/membership.nsf_](http://www.sikhnet.com/sikhnet/membership.nsf)   
-3\. call the following telephone number: 505-753-3117
-  
+1\. [Contact SikhNet via email](https://web.archive.org/contact)  
+2\. Registration info: [_http://www.sikhnet.com/registration_](https://web.archive.org/registration)   
+2\. Membership info: [_http://www.sikhnet.com/sikhnet/membership.nsf_](https://web.archive.org/sikhnet/membership.nsf)   
+3\. call the following telephone number: +1-505-629-4121
+
+
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
@@ -71,6 +68,6 @@ _Sikhnet_
 _01-A Ram Das Guru Pl_  
 _Espanola, NM. 87532_  
 _USA_  
-[_support@sikhnet.com_](mailto:support@sikhnet.com)   
-505-753-3117  
+[Contact Form](http://web2.sikhnet.com/contact)  
++1-505-629-4121  
 
