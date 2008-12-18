@@ -1,29 +1,8 @@
-> *The following text is extracted and transformed from the investmentnews.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213110540id_/http%3A//www.investmentnews.com/page.cms%3FpageId%3D39) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentnews.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218113849id_/http%3A//www.investmentnews.com/apps/pbcs.dll/qwikNavsearch%3FQwikNav%3DPRIVACY) for the most accurate reproduction.*
 
-# Privacy Policy - InvestmentNews - The Weekly Newspaper for Financial Advisers
+# Privacy Policy - InvestmentNews
 
-[](https://web.archive.org/summit)[](https://web.archive.org/ind.cms)[](https://web.archive.org/reg.cms)
-
-NEWS BEATS
-
-DEPARTMENTS
-
-FEATURES
-
-OPINION
-
-SUBSCRIPTION CENTER
-
-INVESTMENTNEWS RESOURCES
-
-ADVERTISING CENTER
-
-| | | |   
-
-
-Privacy Policy 
-
-_InvestmentNews.com_ is the Web site of _InvestmentNews_ , a publication of the InvestmentNews Group, a business unit of Crain Communications Inc. Our postal address is 711 Third Avenue, New York, NY 10017-4036. We can be reached by e-mail at [webmaster@investmentnews.com](mailto:webmaster@investmentnews.com) or by telephone at 212-210-0120. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions. 
+_InvestmentNews.com_ is the Web site of _InvestmentNews_ , a publication of the InvestmentNews Group, a business unit of Crain Communications Inc. Our postal address is 711 Third Avenue, New York, NY 10017-4036. We can be reached by e-mail at [in_webmaster@investmentnews.com](mailto:in_webmaster@investmentnews.com) or by telephone at 212-210-0100. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions. 
 
 We have developed this Privacy Policy to advise subscribers and users of our products about our possible uses of information collected by us and to inform you on how to modify your marketing preferences. This Privacy Policy is subject to change. When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site and by changing the date on this page noting when the Privacy Policy was last updated.
 
@@ -33,26 +12,12 @@ We may also set cookies to your computer to allow subscribers and users to store
 
 Information collected about subscribers and users may be used by us and our affiliates and partnering third-party companies to provide subscribers and users with the features of the site, to enable us to provide the products you requested, to personalize content and advertising, to send you e-mail notifications about our services and products, for audits, to perform statistical analysis of user behavior in order to measure interest in the various areas of our site (such as for product development purposes), to enforce our user agreement and to inform advertisers as to how many users have seen or "clicked" their advertising banners. We will disclose site usage information to third parties only in aggregate. 
 
-From time to time, we may make individual subscriber or user information available to carefully selected third parties to send you information through e-mail or postal mail about their products or services. If you prefer not to have your personal information disclosed to third parties for direct marketing purposes, please send an e-mail stating this preference and including your full name and e-mail address to [webmaster@investmentnews.com](mailto:webmaster@investmentnews.com) or, if you are a print subscriber, please call 1-800-678-9595. Also, during the registration process, a user can indicate on the registration form that he or she does not wish to receive such marketing materials. Registrants can opt out of future contact or change/correct personal information by altering the settings on the "EDIT PROFILE" page of this Web site. We retain the right to contact a subscriber or registered user regarding account status, orders for products or services, changes to the registration agreement or to enforce our subscription agreement. 
+From time to time, we may make individual subscriber or user information available to carefully selected third parties to send you information through e-mail or postal mail about their products or services. If you prefer not to have your personal information disclosed to third parties for direct marketing purposes, please send an e-mail stating this preference and including your full name and e-mail address to [in_webmaster@investmentnews.com](mailto:in_webmaster@investmentnews.com) or, if you are a print subscriber, please call 1-800-678-9595. Also, during the registration process, a user can indicate on the registration form that he or she does not wish to receive such marketing materials. Registrants can opt out of future contact or change/correct personal information by altering the settings on the "EDIT PROFILE" page of this Web site. We retain the right to contact a subscriber or registered user regarding account status, orders for products or services, changes to the registration agreement or to enforce our subscription agreement. 
 
-We will remove any registrant (and their personal information) from our database pursuant to a request from the registrant, including full name and e-mail address, to [webmaster@investmentnews.com](mailto:webmaster@investmentnews.com). You may not be able to fully access this Web site if you request removal of your personal information. 
+We will remove any registrant (and their personal information) from our database pursuant to a request from the registrant, including full name and e-mail address, to [in_webmaster@investmentnews.com](mailto:in_webmaster@investmentnews.com). You may not be able to fully access this Web site if you request removal of your personal information. 
 
 This Web site is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provided to us will be transferred to the United States. By using our Web site, participating in any of our services and/or providing us with your information, you consent to this transfer. 
 
 If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact the Crain Communications Inc Legal Department at [privacyhelp@crain.com](mailto:privacyhelp@crain.com) or 313-446-6000.
 
-Policy Last Updated: January 1, 2005
-
-| | | | 
-
-[](http://oascentral.investmentnews.com/RealMedia/ads/click_nx.ads/www.investmentnews.com/page/39/13725306379@Right,x01,x02,x03,x04,x05,Top,Middle,Left,Bottom!Right?)
-
-[](http://oascentral.investmentnews.com/RealMedia/ads/click_nx.ads/www.investmentnews.com/page/39/13725306379@Right,x01,x02,x03,x04,x05,Top,Middle,Left,Bottom!x01?)
-
-[](http://oascentral.investmentnews.com/RealMedia/ads/click_nx.ads/www.investmentnews.com/page/39/13725306379@Right,x01,x02,x03,x04,x05,Top,Middle,Left,Bottom!x02?)
-
-[](http://oascentral.investmentnews.com/RealMedia/ads/click_nx.ads/www.investmentnews.com/page/39/13725306379@Right,x01,x02,x03,x04,x05,Top,Middle,Left,Bottom!x03?)
-
-[](http://oascentral.investmentnews.com/RealMedia/ads/click_nx.ads/www.investmentnews.com/page/39/13725306379@Right,x01,x02,x03,x04,x05,Top,Middle,Left,Bottom!x04?)
-
-[](http://oascentral.investmentnews.com/RealMedia/ads/click_nx.ads/www.investmentnews.com/page/39/13725306379@Right,x01,x02,x03,x04,x05,Top,Middle,Left,Bottom!x05?)
+Policy Last Updated: January 1, 2005 
