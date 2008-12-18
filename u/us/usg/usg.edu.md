@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usg.edu privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628225657id_/http%3A//www.usg.edu/siteinfo/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usg.edu privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218072246id_/http%3A//www.usg.edu/siteinfo/privacy.phtml) for the most accurate reproduction.*
 
 # Privacy Policy for WWW.USG.EDU - Board of Regents of the University System of Georgia
 
