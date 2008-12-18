@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ashp.org privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615185739id_/http%3A//www.ashp.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashp.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218113219id_/http%3A//www.ashp.org/privacy) for the most accurate reproduction.*
 
-# ASHP Website : Privacy Policy
+# Privacy Policy
+
+Privacy Policy 
 
 Privacy Statement for WWW.ASHP.ORG
 
@@ -50,7 +52,7 @@ Choosing to opt out of emails currently means you will NOT receive ANY email fro
 
 Users who do not want to receive mailings or emails from ASHP can contact ASHP by the following means and request to be excluded: 
 
-  1. [Change of Address Form](https://shop.ashp.org/timssnet/login/tnt_login.cfm?&redirect=CUSUPDATE)
+  1. [Change of Address Form](http://www.ashp.org/go/account.aspx)
   2. [custserv@ashp.org](mailto:custserv@ashp.org)
   3. Postal mail: **American Society of Health-System Pharmacists  
 ** 7272 Wisconsin Avenue  
@@ -63,9 +65,9 @@ Bethesda, MD 20814
 
 Users have the ability to change information previously provided such as name, address, telephone, and e-mail address. Please contact ASHP by the following means to request the change: 
 
-  1. [Online Change of Address Form](https://shop.ashp.org/timssnet/login/tnt_login.cfm?&redirect=CUSUPDATE)
+  1. [Online Change of Address Form](http://www.ashp.org/go/account.aspx)
   2. [custserv@ashp.org](mailto:custserv@ashp.org)
-  3. Telephone: [(866) 279-0681](c2c://866-279-0681/ "Click to call \(866\) 279-0681")
+  3. Telephone: (866) 279-0681 
 
 
 
