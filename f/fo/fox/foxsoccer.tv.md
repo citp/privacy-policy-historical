@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxsoccer.tv privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620040539id_/http%3A//foxsoccer.tv/binn/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxsoccer.tv privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218132238id_/http%3A//foxsoccer.tv/binn/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
