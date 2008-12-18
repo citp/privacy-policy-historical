@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktuu.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623224245id_/http%3A//www.ktuu.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktuu.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218034445id_/http%3A//www.ktuu.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # KTUU.com | Alaska's news and information source | This Web Site’s Privacy Policy
 
@@ -63,3 +63,5 @@ We use third-party advertising companies to serve ads when you visit this Web si
 Questions regarding this Privacy Policy should be directed to us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
 
 _Effective date: July 1, 2004_
+
+[](http://www.addthis.com/bookmark.php)
