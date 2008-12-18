@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talk-sports.net privacy policy that was archived on 2008-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080227072725id_/http%3A//www.talk-sports.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talk-sports.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218080335id_/http%3A//talk-sports.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy - kbcafe
 
@@ -38,4 +38,4 @@ Any changes to our privacy policy will be posted on this page so that you are al
 
 ## Tell us what you think
 
-TalkSports welcomes your questions and comments about our privacy policy. Please send e-mail to feedback@kbcafe.com.
+TalkSports welcomes your questions and comments about our privacy policy. Please send e-mail to webmaster@talk-sports.net.
