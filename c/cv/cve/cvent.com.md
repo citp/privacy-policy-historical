@@ -1,60 +1,64 @@
-> *The following text is extracted and transformed from the cvent.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529093641id_/http%3A//www.cvent.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvent.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218201915id_/http%3A//www.cvent.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Cvent
 
 ([Downloadable PDF](http://www.cvent.com/pdf/privacy-policy.pdf))
 
-Cvent, Inc. (sometimes referred to as "Cvent," "we," "us," or "our") takes your privacy seriously. This Privacy Policy discloses our information collection and dissemination practices.
+Cvent, Inc. (sometimes referred to as "Cvent") respects individual privacy and values the confidence of its customers, shareholders, employees, vendors, users and business partners. Not only does Cvent strive to collect, use, and disclose personally identifiable information (Personal Information) in a manner consistent with the laws of the countries in which it does business, but it also has a tradition of upholding the highest ethical standards in its business practices. Cvent abides by the Safe Harbor Principles developed by the U.S. Department of Commerce and the European Commission.
 
-## Our Service 
+This Privacy Policy sets forth the privacy principles that Cvent follows with respect to collection, usage and transfer of Personal Information anywhere in the world, including transfers from the European Union (EU) to the United States.
 
-Cvent provides visitors to our web site with access to powerful event planning, registration, and event marketing tools. Event planners ("Planners") use our tools to create an online marketing campaign for an event and to register invitees ("Invitees") (Planners and Invitees, collectively "Members").
+## Definitions
 
-## Privacy Protections and Use of Information
+For purposes of this Privacy Policy, the following definitions shall apply:
 
-We will not disclose or share personally identifiable information collected on our web site with any third party (except as required by law or pursuant to a governmental request). Cvent never has, and never will, use information collected by our customers via the Cvent system for any purposes other than those specifically designated by our customers themselves.
+"Cvent" means Cvent, Inc. its predecessors, successors, subsidiaries, divisions and groups.
 
-Aggregate Data. We may share reports with third parties based on aggregated data of our Members ("Aggregated Member Data"). Aggregated Member Data does not include any personally identifiable information about Planners or Invitees. For example, these reports will not include your personal or organization name. Information about Members is aggregated for the purposes of determining successful event benchmarks and other similar activities. 
+“Personal Information” means any set of information that identifies or could be used to identify an individual. Personal Information does not include information that is encoded or publicly available information not combined with private Personal Information.
 
-Event Registration. When you register for an event on our site, you have granted us permission to release the information you entered as an Invitee to the Planner. 
+“User” means any user of the Cvent application, including Cvent customers and their guests who may register or respond to Cvent Events, Surveys or Requests For Proposals (RFPs). “Planner(s)” will refer to Cvent’s customer(s), solely.
 
-Special Circumstances. We may disclose personal information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who is violating our [Terms of Use](https://web.archive.org/assets/terms-of-use.html) or may be causing injury to or interference with other Cvent users or anyone else who could be harmed by such activities. 
+### Our Service
 
-Cookies. A cookie is a small data file that some web sites write to your hard drive when you visit them. A cookie may contain information like a user ID that allows the site to track which web pages you have visited. The only personal information a cookie contains is information you decide to supply. A cookie cannot read data from your hard drive or cookie files created by other web sites. We use cookies to save your username so you do not have to retype each time; and to "time-out" your session if it is idle for a long period of time.
+Cvent licenses three (3) software product solutions referred to as: (i) the Supplier Network (ii) Event Product, and (iii) Survey Product. These solutions may also be referenced in this Privacy Policy and other collateral as System, Tool, Product, Service, Solution, Application and other derivations thereof. Cvent users are subject to the terms only for the product solution they use or purchase.
 
-IP Addresses. We may use your IP address to diagnose problems with our servers and administer our web site. 
+#### Notice
 
-## eCommerce 
+Cvent will not disclose or share Personal Information collected on its web site with any third party, except as required by law and/or pursuant to a governmental request, or as necessary to provide services to support its software solutions. For example, Cvent may pass Personal Information to Cvent business partners necessary to process online/ecommerce payments and travel related reservations. Cvent never has, and never will, use information collected by it’s customers via the Cvent system for any purposes other than those specifically designated by its customers.
 
-If you are registering for a paid event as an Invitee, we may request payment information to conclude the transaction as well as your mailing address or other contact information to ensure authentication and proper delivery. We use industry-standard secure socket layer (SSL) encryption. We do not sell or rent your personal financial information.
+Aggregate Data. Cvent may share reports with third parties based on aggregated data of it’s users ("Aggregated User Data"). Aggregated User Data does not include any Personal Information about users and is aggregated for the purposes of determining successful application benchmarks and other similar activities.
 
-When you engage in an eCommerce transaction on our site using a credit card, your credit card information, including the number and expiration date and your billing addresses, is passed onto the merchant with whom the transaction was placed; only Cvent and the merchant with whom you placed the order has access to your credit card information. Your credit card information is stored with each order in the Cvent system just long enough to fully process your transaction. After the transaction has completed, your credit card information is removed from our system for security reasons.
+Event Registration. Cvent customers may invite guests to register for events created in the Cvent application. If a user/guest chooses to register for an event and provides Personal Information during registration, that information is transferred to the event Planner and event Planner’s organization. Similarly, survey responses submitted will be presented to Planner after submission. Any information collected by Cvent on behalf of a customer is owned in its entirety by the customer. Cvent is not responsible for the privacy practices of its customers.
 
-You can decline to provide credit card information and any other information at our site at anytime. If you should choose to withhold requested information; however, we may not be able to provide you with the full spectrum of our services. 
+Special Circumstances. Cvent may disclose Personal Information when it has reason to believe that disclosing such information is necessary to identify, contact or bring legal action against someone who is violating Cvent’s [Terms of Use](http://www.cvent.com/terms-of-use.html) or may be causing injury to or interference with other Cvent users or anyone else who could be harmed by such activities.
 
-## Web Site Links 
+Cookies. A cookie is a small data file written to a user’s hard drive when a website is accessed. Cookies are used for authenticating, session tracking, and maintaining specific information about users, such as site preferences. A cookie cannot read or access other cookies or any data from a user’s hard drive. Cvent uses cookies to save usernames in order to minimize data entry and for general ease of use. Cookies are also used to to "time-out" user sessions that are idle for an extended period of time.
 
-Our site contains links to other web sites. We are not responsible for the privacy practices or content of these web sites. 
+IP Addresses. Cvent may use user IP addresses to diagnose problems with Cvent servers and to administer the Cvent application.
 
-## Security Procedures
+##### Choice
 
-This site has security measures in place to protect against the loss, misuse and alteration of information under our control. We protect secure data with industry-standard firewall and password protection systems. We periodically review and improve our security and privacy policies as necessary. We only allow pre-authorized individuals access to our servers and to information provided by our Members.
+Cvent users may choose whether or not to submit Personal Information while using Cvent’s services. In some cases, Cvent’s customers require Pesonal Information from their guests. In such cases, choosing to withhold PersonalInformation, may limit a user’s ability to use all of Cvent’s services.
 
-## Corrections and Updates
+###### Security
 
-To change or modify information you previously provided, you may (i) use the User Profile Manager within the "My Account" section of the site or (ii) send an email to [customercare@cvent.com](mailto:customercare@cvent.com).
+Cvent has security measures in place to protect against the loss, misuse and alteration of information under its control. Cvent protects secure data with industry-standard firewall and password protection systems. Cvent periodically reviews and improves its security and privacy policies as necessary. Only pre-authorized individuals have access to Cvent servers and information provided by its users.
 
-Please note that no data transmission over the Internet is infallible. Any information you transmit through our site is done at your own risk. Once we receive your information, we will take every reasonable precaution to ensure its security on our systems.
+Cvent will use Personal Information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual. Reasonable steps will be taken to ensure that Personal Information is relevant accurate, complete and current, to its intended use.
 
-## Notification of Changes
+Cvent users may change or modify previously submitted Personal Information by (i) using the User Profile Manager within the "My Account" section of the Cvent application or (ii) sending an email request to [customercare@cvent.com](mailto:customercare@cvent.com).
 
-If at some point in the future, there is a change to our information usage practices that affect your personally identifiable information, we will notify you by email of the relevant changes. At the time of this message, you will be able to opt-out of this information usage by sending a message to [customercare@cvent.com.](mailto:customercare@cvent.com)
+Please note that no data transmission over the Internet is infallible. Any information transmitted through the Cvent application is done at the user’s own risk. Once Cvent receives the information, it will take every reasonable precaution to ensure its security.
 
-Cvent reserves the right to change this policy, so please check back periodically to review any changes to this policy.
+Cvent will conduct compliance audits of its relevant privacy practices to verify adherence to this Privacy Policy and the US Department of Commerce Safe Harbor Principles. Any employee that Cvent determines is in violation of this Privacy Policy will be subject to disciplinary action up to and including termination of employment.
 
-## [Contact Us](https://web.archive.org/contact/)
+When a Cvent user submits an RFP to a property or service provider listed on the Supplier Network, Cvent will contact the applicable supplier and disclose information necessary to submit the RFP, which may contain Personal Information. Cvent suppliers will not have access to the Cvent user’s address book or information collected through the Cvent Event or Survey Products.
 
-We do everything we can to protect the privacy of our Members. If you have any questions about this Privacy Policy, the practices of this site, or dealings with this site, please contact us at:
+Cvent contains links to other web sites. Cvent is not responsible for the privacy practices or content of these web sites.
+
+As this Privacy Policy may be ammended from time to time, please check back periodically to review any changes. The last modified date will provided at the bottom of the page.
+
+Cvent does everything it can to protect the privacy of its users. For questions about this Privacy Policy, the practices of this site, or dealings with this site, please contact Cvent at:
 
 **Cvent**  
 Privacy Representation   
@@ -62,3 +66,5 @@ Privacy Representation
 Suite 450   
 McLean, VA 22102   
 [privacy@cvent.com](mailto:privacy@cvent.com)
+
+Last Modified: May 29th, 2008
