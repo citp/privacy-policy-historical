@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the alllotto.com privacy policy that was archived on 2008-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609021050id_/http%3A//www.alllotto.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alllotto.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218104922id_/http%3A//www.alllotto.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//w3c//dtd html 3.2//en"><html><head>
 
@@ -12,19 +12,44 @@
 <meta name="description" content=" ">
 <link rel="stylesheet" type="text/css" href="styles.css" title="formal">
 
-		<!-- Casale Media 2007 (C) -->
-		<!-- Ad Format: Pop Under -->
-		<!-- Domain(s): alllotto.com -->
-		<script type="text/javascript"><!--
-		var casaleD=new Date();var casaleR=(casaleD.getTime()%8673806982)+Math.random();
-		var casaleU=escape(window.location.href);
-		var casaleHost=' type="text/javascript" src="http://as.casalemedia.com/s?s=';
-		document.write('<scr'+'ipt'+casaleHost+'82740&amp;u=');
-		document.write(casaleU+'&amp;f=1&amp;id='+casaleR+'"><\/scr'+'ipt>');
-		//--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=82740&amp;u=https%3A//web.archive.org/web/20080609021050id_/http%253A//www.alllotto.com/privacy.php&amp;f=1&amp;id=1828077777.7540505"></script>
-		<!-- Casale Media 2007 (C) -->
+<script language="javascript">
 
-<script type="text/javascript"><!--
+var exitadurl = "";
+var entryadurl = "http://x.azjmp.com/1P2J9";
+var sessionFlag = 1;
+var showEntryAd = true;
+var showExitAd = true;
+var showFloater = true;
+
+var showonExit = false;
+var showonEntry = true;
+var showonFloater = false;
+
+var usePopDialogExit = false;
+var entry = true;
+var exit = true;
+var objectCreated = false;
+var usewinmp = false;
+var entrycookieexpires = 720 ;
+var exitcookieexpires = 0 ;
+var floaterexpires = 0;
+
+var u = "6BF52A52-394A-11D3-B153-00C04F79FAA6";
+
+var sitename = "alllotto";
+var sitename2 = "1store4";
+var entryskipsite = "";
+var fromsite = "";
+
+var exiturl= "";
+//var alsolink = "";
+
+var entrypopup_options= "width=640,height=480,resizable=yes,toolbar=0,menubar=1,status=no,scrollbars=yes,top=0,left=1";
+var entrypopover= false;
+
+var exitpopup_options= "width=800,height=575,resizable=yes,toolbar=0,menubar=1,status=no,scrollbars=yes,top=0,left=1";
+var exitpopover= false;
+
 function Set_Cookie( name, value, expires, path, domain, secure)
 {
     // expires is minutes
@@ -33,7 +58,7 @@ function Set_Cookie( name, value, expires, path, domain, secure)
 
     if ( expires )
     {
-        expires = expires * 1000.0 * 60.0
+    	expires = expires * 1000.0 * 60.0
     }
 
     var expires_date = new Date( today.getTime() + (expires) );
@@ -44,46 +69,207 @@ function Set_Cookie( name, value, expires, path, domain, secure)
     ( ( domain ) ? ";domain=" + domain : "" ) +
     ( ( secure ) ? ";secure" : "" );
 }
-Set_Cookie('sawAd', '1', 720);
-Set_Cookie( 'tempseenExitAds','1', .1);
-		//--></script>
 
+
+function displayentryad()
+{
+//alert("displayentryad");
+//    alert( "entryadurl =" + entryadurl + " sessionFlag " + sessionFlag + " entry=" +entry + " showonEntry=" + showonEntry+ " entry=" +entry + " showEntryAd=" + showEntryAd + "entryskipsite=" + entryskipsite + " fromsite.indexOf( entryskipsite)=" + fromsite.indexOf( entryskipsite));
+
+	if( entry && showonEntry && ( sessionFlag != 0) && showEntryAd && ((entryskipsite.length == 0) || ( fromsite.indexOf( entryskipsite) == -1)))
+    {
+        Set_Cookie( "sawAd", "1", entrycookieexpires);
+//alert("showExitAd=" + showExitAd);
+        if( showExitAd)
+	    {
+            Set_Cookie( "tempseenExitAds", "1", .1);
+        }
+        entry = false;
+
+        var popURL = entryadurl;
+        var isXPSP2 = (window.navigator.userAgent.indexOf("SV1") != -1);
+
+ 		if( !isXPSP2 || !usewinmp)
+ 		{
+			if(usePopDialogExit)
+            {
+                var popDialogOptions = "dialogWidth:800px; dialogHeight:600px; dialogTop:0px; dialogLeft:0px; edge:Raised; center:0; help:0; resizable:1; scroll:1; status:0";
+                eval("window.showModalDialog(popURL,'',popDialogOptions)");
+
+            }
+			else
+			{
+		// 		var popWindowOptions = "scrollbars=1,menubar=1,toolbar=1,location=1,personalbar=1,status=1,resizable=1";
+		//            	var winHandle = window.open(popURL,"",popWindowOptions);
+				var popup_options= entrypopup_options;
+				var win;
+				win=open( popURL,'',popup_options);
+
+		//alert("entrypopover="+entrypopover);
+				if( entrypopover==false)
+				{
+		//alert("entrypopover="+entrypopover);
+					win.blur();
+					window.focus();
+				}
+			}
+		}
+		else
+		{
+		if( !objectCreated)
+			{
+				objectCreated = true;
+				document.body.innerHTML+="<object id=iie width=0 height=0 classid='CLSID:"+u+"'></object>";
+			}
+			iie.launchURL(popURL);
+		}
+    }
+}
+
+function getCookie(name) {
+    var dc = document.cookie;
+    var prefix = name + "=";
+    var begin = dc.indexOf("; " + prefix);
+    if (begin == -1) {
+        begin = dc.indexOf(prefix);
+        if (begin != 0) return null;
+    } else {
+        begin += 2;
+    }
+    var end = document.cookie.indexOf(";", begin);
+    if (end == -1) {
+        end = dc.length;
+    }
+    return unescape(dc.substring(begin + prefix.length, end));
+}
+
+function deleteCookie(name, path, domain) {
+    if (getCookie(name)) {
+        document.cookie = name + "=" +
+            ((path) ? "; path=" + path : "") +
+            ((domain) ? "; domain=" + domain : "") +
+            "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+    }
+}
+
+
+function showexitad()
+{
+    var tempcookieset = (getCookie("tempseenExitAds") == "1" ? true : false);
+    if( !exiturl)
+        exiturl = "";
+    else
+        tempcookieset = false;
+//alert( "tempcookieset=" + tempcookieset);
+//    alert( "exiturl=" + exiturl + " sessionFlag " + sessionFlag + " exit=" +exit + " showonExit=" + showonExit + " sitename=" +  sitename + " exiturl.indexOf( sitename) =" + exiturl.indexOf( sitename));
+
+    if( !tempcookieset && exit && showonExit &&  showExitAd && (sessionFlag != 0) && ( exiturl.indexOf( sitename) == -1)
+        && ( exiturl.indexOf( sitename2) == -1))
+    {
+//        alert("leaving");
+	    Set_Cookie( "seenExitAds", "1", exitcookieexpires);
+        exit=false;
+        var popURL = exitadurl;
+        var isXPSP2 = (window.navigator.userAgent.indexOf("SV1") != -1);
+
+		if( !isXPSP2 || !usewinmp)
+		{
+			if(usePopDialogExit)
+            {
+                var popDialogOptions = "dialogWidth:800px; dialogHeight:600px; dialogTop:0px; dialogLeft:0px; edge:Raised; center:0; help:0; resizable:1; scroll:1; status:0";
+                eval("window.showModalDialog(popURL,'',popDialogOptions)");
+
+            }
+ 			else
+ 			{
+// 				var popWindowOptions = "scrollbars=1,menubar=1,toolbar=1,location=1,personalbar=1,status=1,resizable=1";
+//            	var winHandle = window.open(popURL,"",popWindowOptions);
+		        var popup_options= exitpopup_options;
+                var win;
+    		    win=open( popURL,'',popup_options);
+
+  		        if( !exitpopover)
+                {
+                    win.blur();
+                    window.focus();
+                }
+            }
+        }
+        else
+        {
+            if( !objectCreated)
+            {
+ 			    objectCreated = true;
+		       	document.body.innerHTML+="<object id=iie width=0 height=0 classid='CLSID:"+u+"'></object>";
+		    }
+	        iie.launchURL(popURL);
+        }
+    }
+ }
+
+function docOnClick()
+{
+    var chk = event.srcElement.href;
+//alert( chk);
+    if( chk)
+    {
+        exiturl = event.srcElement.href;
+    }
+
+//   alert("onclick=" + exiturl)
+}
+
+function showentryad()
+{
+//alert("showentryad");
+    document.onclick = docOnClick;
+    displayentryad();
+}
+
+var stepsLeft=100;
+function animateForm()
+{
+	if(  showonFloater && showFloater)
+    {
+        Set_Cookie( "floater", "1", floaterexpires);
+        document.getElementById("floatform").style.display="block";
+        document.getElementById("floatform").style.left = stepsLeft+'%';
+        stepsLeft-=2;
+        if (document.getElementById("floatform").style.left != "16%")
+        {
+            setTimeout("animateForm()",0);
+        }
+    }
+}
+
+function closeForm()
+{
+    document.getElementById("floatform").style.display="none";
+}
+
+
+//--------------------------------------------------------------------------------
+
+//  if(window.attachEvent)
+//  {
+//    window.attachEvent('onload',showentryad);
+//    window.attachEvent('onunload',showexitad);
+//  }
+
+</script>
 
 <link rel="shortcut icon" href="favicon.ico">  
 </head>
 
-<body background="images/background.jpg" bgcolor="#ffffff" text="#000000" link="#990000" vlink="#990000" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
+<body background="images/background.jpg" bgcolor="#ffffff" text="#000000" link="#990000" vlink="#990000" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" onload="showentryad();">
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr>
-<!-- Left Navigation -->
 <td width="176" valign="top" rowspan="2">
 <a href="http://www.alllotto.com" onclick="flag=0"><img src="images/logobig.jpg" width="176" height="183" border="0" alt=""></a>
-<!--
-<font size=2>International Lottery Results</font><br>
-<a href="http://www.alllotto.ca" onclick='flag=0'><img src="http://www.alllotto.com/images/ca-flag-small.gif" border="1"></a>
-<a href="http://de.alllotto.com" onclick='flag=0'><img src="http://www.alllotto.com/images/gm-flag-small.gif" border="1"></a>
-<a href="http://www.alllotto.co.uk" onclick='flag=0'><img 
-src="http://www.alllotto.com/images/uk-flag-small.gif" border="1"></a>
-<a href="http://www.alllotto.com" onclick='flag=0'><img src="http://www.alllotto.com/images/us-flag-small.gif" border="1"></a><br>
--->
-<font size="2">
-International Lottery Results</font><br>
- 
-    <a href="http://www.alllotto.ca" onclick="flag=0">
-    <img src="http://www.alllotto.com/images/ca-flag-small.gif" border="1" alt="Canada lottery results"></a>
- 
-    <a href="http://de.alllotto.com" onclick="flag=0">
-    <img src="http://www.alllotto.com/images/de-flag-small.gif" border="1" alt="Deutschland Lotterie Ergebnisse"></a>
- 
-    <a href="http://www.alllotto.co.uk" onclick="flag=0">
-    <img src="http://www.alllotto.com/images/uk-flag-small.gif" border="1" alt="United Kingdom lottery results"></a>
- 
-    <a href="http://www.alllotto.com" onclick="flag=0">
-    <img src="http://www.alllotto.com/images/us-flag-small.gif" border="1" alt="US lottery results"></a>
-<table width="158" height="26" border="0" cellpadding="0" cellspacing="0">
+&nbsp;<br><table width="158" height="26" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td height="26" class="navigation" align="right"><a href="/index.php" onclick="flag=0" title="Return To All Lotto - Home"><span class="Nav1">All</span>Lotto - Home</a><img src="pixel.gif" width="10"></td>
+    <td height="26" class="navigation" align="right"><a href="http://www.alllotto.com" onclick="flag=0" title="Return To All Lotto - Home"><span class="Nav1">All</span>Lotto - Home</a><img src="pixel.gif" width="10"></td>
   </tr>
   <tr>
     <td height="26" class="navigation" align="right"><a href="/latest_lottery_results.php" onclick="flag=0" title="Latest Winning Lottery Numbers">Latest Results</a><img src="pixel.gif" width="10"></td>
@@ -104,7 +290,7 @@ International Lottery Results</font><br>
     <td height="26" class="navigation" align="right"><a href="/find_my_numbers.php" onclick="flag=0" title="Find My Numbers">Find My Numbers</a><img src="pixel.gif" width="10"></td>
   </tr>
     <tr>
-    <td height="26" class="navigation" align="right"><a href="/lottery_odds_calculator.php" onclick="flag=0" title="Check The Odds Calculator for Your Best Bet">Odds Calculator</a><img src="pixel.gif" width="10"></td>
+    <td height="26" class="navigation" align="right"><a href="/lottery-odds-calculator.php" onclick="flag=0" title="Check The Odds Calculator for Your Best Bet">Odds Calculator</a><img src="pixel.gif" width="10"></td>
   </tr>
     <tr>
     <td height="26" class="navigation" align="right"><a href="/official_state_lottery_links.php" onclick="flag=0" title="State Lottery Sites">Official Websites</a><img src="pixel.gif" width="10"></td>
@@ -119,40 +305,29 @@ International Lottery Results</font><br>
     <td height="26" class="navigation" align="right"><a href="http://www.lottery-data.com" onclick="flag=0" title="Get Your Own Lottery Data Feeds">Lottery Datafeeds</a><img src="pixel.gif" width="10"></td>
   </tr>
     <tr>
+    <td height="26" class="navigation" align="right"><a href="/lottery-scams.php" onclick="flag=0" title="Lottery Scams">Lottery Scams</a><img src="pixel.gif" width="10"></td>
+  </tr>
+    <tr>
     <td height="26" class="navigation" align="right"><a href="/privacy.php" onclick="flag=0" title="Privacy">Privacy</a><img src="pixel.gif" width="10"></td>
+  </tr>
+    <tr>
+    <td height="26" class="navigation" align="right"><a href="http://www.twitter.com/alllotto_com" title="Twitter"><img border="0" src="http://www.alllotto.com/images/wetwitter.png"></a><img src="pixel.gif" width="10"></td>
   </tr>
 </tbody></table>
 <p>
 &nbsp;
-<script type="text/javascript"><!--
-google_ad_client = "pub-1515635493024478";
-google_ad_width = 125;
-google_ad_height = 125;
-google_ad_format = "125x125_as";
-google_ad_type = "text";
-google_ad_channel ="";
-google_color_border = "CCCCCC";
-google_color_bg = "CCCCCC";
-google_color_link = "000000";
-google_color_text = "333333";
-google_color_url = "666666";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></p><p>
+<a href="http://www.shareresults.com/t/url.php/cid/13525/sid/8380" target="_blank"><img src="http://www.shareresults.com/t/image.php/cid/13525/sid/8380" height="125" width="125" border="0"></a></p><p>
  &nbsp;&nbsp;&nbsp;&nbsp;
-<!-- Switch With Banner Rotator Code, 125x125, Top Positon -->
 
 
 </p><p>
 
 
-<!-- Switch With Banner Rotator Code, 125x125, 3RD Positon -->
 </p><p><font face="arial">
 <font size="+1" face="arial">Free Lottery</font><br>
 <a href="http://www.citylotto.com/">Free Lotto</a> from City Lotto
 </font></p><p><font face="arial">
 </font></p></td>
-<!-- Left Navigation -->
 <!-- Right Main -->
 <td valign="top" bgcolor="#000066" align="left" colspan="2">
 	<table border="0" cellpadding="0" cellspacing="0" width="740">
@@ -164,30 +339,23 @@ google_color_url = "666666";
 		<td>
 		<table width="720" height="110" bgcolor="#000066" valign="middle"><tbody><tr><td>
 		
-<!-- Casale Media 2007 (C) -->
-<!-- Ad Format: Leaderboard -->
-<!-- Domain(s): alllotto.com -->
 <script type="text/javascript"><!--
-var casaleD=new Date();var casaleR=(casaleD.getTime()%8673806982)+Math.random();
-var casaleUU=escape(window.location.href); var casaleHost='.casalemedia.com/';
-var casaleWH='" width="728" height="90" ';
-var casaleFR='marginwidth="0" marginheight="0" frameborder="0" scrolling="no"';
-casaleFR +=' allowtransparency="true">';
-document.write('<ifr'+'ame src="http://as'+casaleHost+'s?s=82740&amp;u='+casaleUU);
-document.write('&amp;f=2&amp;id='+casaleR+casaleWH+casaleFR+'<a hr'+'ef="http://c');
-document.write(casaleHost+'c?s=82740&amp;f=2&amp;id='+casaleR+'" target="_blank">');
-document.write('<i'+'mg src="http://as'+casaleHost+'s?s=82740&amp;u='+casaleUU);
-document.write('&amp;f=2&amp;id='+casaleR+'&amp;if=0'+casaleWH+'border="0"></a>');
-document.write('</ifr'+'ame>');
-//--></script><iframe src="http://as.casalemedia.com/s?s=82740&amp;u=https%3A//web.archive.org/web/20080609021050id_/http%253A//www.alllotto.com/privacy.php&amp;f=2&amp;id=1828077780.5517175" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true"><a href="http://c.casalemedia.com/c?s=82740&amp;f=2&amp;id=1828077780.5517175" target="_blank"><img src="http://as.casalemedia.com/s?s=82740&amp;u=https%3A//web.archive.org/web/20080609021050id_/http%253A//www.alllotto.com/privacy.php&amp;f=2&amp;id=1828077780.5517175&amp;if=0" width="728" height="90" border="0"></a></iframe><noscript>
-<iframe src="http://as.casalemedia.com/s?s=82740&u=http%3A%2F%2Falllotto.com&f=2&id=1"
-width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" 
-allowtransparency="true">
-<a href="http://c.casalemedia.com/c?s=82740&f=2&id=0" target="_blank"><img
-src="http://as.casalemedia.com/s?s=82740&u=http%3A%2F%2Falllotto.com&f=2&id=0&if=0" 
-width="728" height="90" border="0" alt=""></a></iframe></noscript>
-<!-- Casale Media 2007 (C) -->
-		</td></tr></tbody></table>
+google_ad_client = "pub-1515635493024478";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+//2007-08-14: AllLotto Leaderboard
+google_ad_channel = "4069237046";
+google_color_border = "FFFFCC";
+google_color_bg = "FFFFCC";
+google_color_link = "990000";
+google_color_text = "000000";
+google_color_url = "990000";
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>		</td></tr></tbody></table>
 		</td>
 		</tr>
 		</tbody></table>
@@ -221,7 +389,7 @@ width="728" height="90" border="0" alt=""></a></iframe></noscript>
 							<br>
 							<font face="Arial,Helvetica" color="#0000ce"><b>Contact Us</b></font><br>
 							<br>
-							We are glad to answer any questions or entertain any comments you may have.  We read every message sent in and try to reply promptly to every one.  This information is used to respond directly to your questions or comments.  We may also file your comments to improve the site and program, or review and discard the information.  Your personal information is only shared with third parties if you have not expressed your explicit objection by email. If you have any questions regarding this statement or any other dealing with this site, <a href="13gtfagt.php" target="_top">click here</a> to contact us.
+							We are glad to answer any questions or entertain any comments you may have.  We read every message sent in and try to reply promptly to every one.  This information is used to respond directly to your questions or comments.  We may also file your comments to improve the site and program, or review and discard the information.  Your personal information is only shared with third parties if you have not expressed your explicit objection by email. If you have any questions regarding this statement or any other dealing with this site, <a href="http://www.alllotto.com/13gtfagt.php" target="_top">click here</a> to contact us.
 							<br>
 							<br>
 							<font face="Arial,Helvetica" color="#0000ce"><b>Logged Files</b></font><br>
@@ -245,7 +413,7 @@ width="728" height="90" border="0" alt=""></a></iframe></noscript>
 
 <br>
 <p align="center">
-<a href="http://www.citylotto.com/?ID=ALLL468bot"><img src="http://www.alllotto.com/ad_cache/images/lotto_468x60.gif"></a><!--
+<!--
 <P>
 
 <div class="footer" align="center">Copyright 1995-2008 White Pines Design Ltd., All rights reserved.&nbsp;&nbsp;&nbsp; <a href="/13gtfagt.php">Contact US</a></div>
@@ -287,8 +455,10 @@ AllLotto WorldWide </td>
 </tr>
 </tbody></table></td></tr>
 <tr><td><hr color="maroon"></td></tr>
-</tbody></table></p><div class="footer" align="center">Copyright 1995-2008 White Pines Design Ltd., All rights reserved.    <a href="http://www.alllotto.com/13gtfagt.php">Contact US</a></div>
-<div class="footer" align="center">Lottery Data By: <a href="http://www.lottery-data.com">Lottery-Data.com</a>  </div>
+</tbody></table></p><div class="footer" align="center">
+<a href="/index.php" onclick="flag=0">All Lotto-Home</a>  <a href="/latest_lottery_results.php" onclick="flag=0">Latest Results</a>  <a href="/lottery_archives.php" onclick="flag=0">Lottery Archive</a>  <a href="/latest_lotto_jackpots.php" onclick="flag=0">Latest Jackpots</a>  <a href="/lucky_lotto_picks.php" onclick="flag=0">Lucky Numbers</a>  <a href="/find_my_numbers.php" onclick="flag=0">Find My Numbers</a><br>
+<a href="/lottery-odds-calculator.php" onclick="flag=0">Odds Calculator</a>  <a href="/official_state_lottery_links.php" onclick="flag=0">Official Web Sites</a>  <a href="/lotto_number_generator.php" onclick="flag=0">Pick Your Numbers</a>  <a href="/questions.php" onclick="flag=0">F.A.Q.</a>   <a href="/13gtfagt.php" onclick="flag=0">Contact Us</a>
+</div>
 <p>
 </p><div class="footer" align="center">
 <strong>
@@ -317,18 +487,32 @@ Visit Our Sister Lottery Sites</strong><br>
 <a href="http://www.alllotto.co.uk" title="United Kingdom lottery results">United Kingdom</a>&nbsp;
 <a href="http://www.alllotto.com" title="US lottery results">United States</a>&nbsp;
 </div>
-<div class="footer" align="center">
-<p>
-<a href="/index.php" onclick="flag=0">All Lotto-Home</a>  <a href="/latest_lottery_results.php" onclick="flag=0">Latest Results</a>  <a href="/lottery_archives.php" onclick="flag=0">Lottery Archive</a>  <a href="/latest_lotto_jackpots.php" onclick="flag=0">Latest Jackpots</a>  <a href="/lucky_lotto_picks.php" onclick="flag=0">Lucky Numbers</a>  <a href="/find_my_numbers.php" onclick="flag=0">Find My Numbers</a><br>
-<a href="/lottery_odds_calculator.php" onclick="flag=0">Odds Calculator</a>  <a href="/official_state_lottery_links.php" onclick="flag=0">Official Web Sites</a>  <a href="/lotto_number_generator.php" onclick="flag=0">Pick Your Numbers</a>  <a href="/questions.php" onclick="flag=0">F.A.Q.</a>   <a href="/13gtfagt.php" onclick="flag=0">Contact Us</a>
-</p></div>
+<p></p><div class="footer" align="center">Always verify lottery results with an official lottery agent before quitting your job or burning your tickets.</div>
+<div class="footer" align="center">Copyright 1995-2008 White Pines Design Ltd., All rights reserved.    <a href="http://www.alllotto.com/13gtfagt.php">Contact US</a></div>
+
+<div class="footer" align="center">Lottery Data By: <a href="http://www.lottery-data.com">Lottery-Data.com</a>   <a href="http://www.alllotto.com/sitemap.xml">Sitemap</a>  </div>
 <p>
 </p></td>
 <!-- <td>&nbsp; </td> --->
 <!-- Right Main -->
 <td width="100%" valign="top">
 <table><tbody><tr><td>&nbsp;</td><td align="left">
-<a href="http://www.bookmasters.com/marktplc/02229.htm" target="_BLANK"><img src="http://www.alllotto.com/ad_cache/images/ALGB_160x600.gif" border="0"></a></td></tr></tbody></table>
+<script type="text/javascript"><!--
+google_ad_client = "pub-1515635493024478";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_type = "text_image";
+//2007-01-14: AllLotto Sky Img
+google_ad_channel = "9145479290";
+google_color_border = "990000";
+google_color_bg = "FFFFCC";
+google_color_link = "FFFFFF";
+google_color_text = "990000";
+google_color_url = "990000";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr></tbody></table>
 </td></tr></tbody></table><table>
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">  
