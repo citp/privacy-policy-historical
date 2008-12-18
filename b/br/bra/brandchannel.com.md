@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandchannel.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607150647id_/http%3A//www.brandchannel.com/disclaimer.asp%23disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandchannel.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218065838id_/http%3A//www.brandchannel.com/disclaimer.asp%23disclaimer) for the most accurate reproduction.*
 
 # brandchannel.com | disclaimer
 
