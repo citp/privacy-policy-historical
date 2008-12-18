@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bizhostnet.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512014009id_/http%3A//www.bizhostnet.com/windows-hosting-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizhostnet.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218052245id_/http%3A//www.bizhostnet.com/windows-hosting-privacy.html) for the most accurate reproduction.*
 
-# ASP.NET Web Hosting, Windows 2003 Hosting Server with Free MySQL Database, Microsoft Frontpage 2003 Hosting, ASP asp.NET PHP Support, Web Design, Email Services, and Web Host Dedicated Collocation
+# ASP.NET Hosting, ASP .NET Web Hosting, Windows 2008 Webhosting, AJAX Hosting, Free SQL MySQL Database, PHP Support, Free Domain Name, Email Services at BizHostNet.COM
 
   
   
@@ -9,11 +9,8 @@
 |   
   
 ---|---|---  
-|   
-|  |   
-  
----|---|---  
-  
+| 
+
 At BIZHOSTNET, we are committed to protecting your privacy. The limited information we do collect is used to provide you with a personalized experience, better service all the time.The Information Collected and How It Is Used  
 
 
@@ -32,8 +29,8 @@ All data collected at BIZHOSTNET is done so with the use of secure servers. The 
   
 If one has initially opted-in, our site provides users with the opportunity to opt out of receiving communications from BIZHOSTNET and our partners that are not directly related to the services we provide. Please note: BIZHOSTNET does reserve the right to send account-related e-mail communications to all active customers. 
 
-To unsubscribe from BIZHOSTNET newsletters and promotional mailings, please update your preferences with our subscription settings tool or e-mail us at [customer service](https://web.archive.org/web/20080512014009id_/http%3A//www.bizhostnet.com/contact-us.html). If you would like to cancel a BIZHOSTNET plan completely, please contact customer service through our online [support form](https://web.archive.org/web/20080512014009id_/http%3A//www.bizhostnet.com/contact-us.html).Correct/Update  
-To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact and billing information up to date. You can update all account-related information directly through your Members Area. Alternatively, you can contact the customer service through our online [support form](https://web.archive.org/web/20080512014009id_/http%3A//www.bizhostnet.com/contact-us.html).  
+To unsubscribe from BIZHOSTNET newsletters and promotional mailings, please update your preferences with our subscription settings tool or e-mail us at [customer service](https://web.archive.org/web/20081218052245id_/http%3A//www.bizhostnet.com/contact-us.html). If you would like to cancel a BIZHOSTNET plan completely, please contact customer service through our online [support form](https://web.archive.org/web/20081218052245id_/http%3A//www.bizhostnet.com/contact-us.html).Correct/Update  
+To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact and billing information up to date. You can update all account-related information directly through your Members Area. Alternatively, you can contact the customer service through our online [support form](https://web.archive.org/web/20081218052245id_/http%3A//www.bizhostnet.com/contact-us.html).  
 Contacting BIZHOSTNET  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with BIZHOSTNET, you can contact: 
 
@@ -46,6 +43,7 @@ Updated September 10, 2002
 
    
   
+---  
   
 |   
 |   
