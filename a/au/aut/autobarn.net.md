@@ -1,27 +1,9 @@
-> *The following text is extracted and transformed from the autobarn.net privacy policy that was archived on 2007-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071109120545id_/http%3A//www.autobarn.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobarn.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218021954id_/http%3A//www.autobarn.net/privacypolicy.html) for the most accurate reproduction.*
 
-# AutoBarn.com Info
-
-| 
-
-[ ](http://www.autobarn.net/index.html)  
-  
----  
-**CALL TOLL FREE:  
-1-888-484-9560  
-or (516)484-6497  
-M-F: 8:30AM-6PM ET**  
-**Customer    
-Testimonials**  
----  
-  
-"I only found the product I wanted on 3 websites. Autobarn had the lowest price and the item was delivered in a timely manor"   
-**Nov 23, 2006**  
-  
-| | [](https://web.archive.org/web/20071109120545id_/http%3A//www.autobarn.net/index.html)
+# Policies
 
 **AutoBarn.com Privacy Policy** | **We are committed to maintaining your privacy.**  
-To demonstrate our commitment to your privacy, AutoBarn.com has developed a Privacy Policy to engender trust and confidence in our site and the Internet by encouraging full disclosure and informed consent. This statement discloses the privacy practices for the AutoBarn.com web site. Questions regarding this statement should be directed to AutoBarn.com [Customer Service](mailto:customerservice@autobarn.com).  
+To demonstrate our commitment to your privacy, AutoBarn.com has developed a Privacy Policy to engender trust and confidence in our site and the Internet by encouraging full disclosure and informed consent. This statement discloses the privacy practices for the AutoBarn.com web site. Questions regarding this statement should be directed to AutoBarn.com through our [Customer Service Center.](http://www.autobarn.net/support.html)  
 ---  
   
   
@@ -34,7 +16,7 @@ An Internet Protocol (IP) address is a number that is automatically assigned to 
 "Cookies" are pieces of data your browser stores on your computer's hard drive. They enable us to determine when you or someone using the same browser you previously used revisits AutoBarn.com. Cookies also enable us to create a more personalized shopping experience for you. Most browsers are set up to accept cookies, but you can usually change your browser settings to refuse them. AutoBarn.com does not use cookies to retrieve personal information about you from your computer. Our policy does not cover the use of cookies by any advertisers or any other third parties with links on our site.  
   
 **Other Information We Collect**  
-When you purchase a product we ask you for information such as name, address, and credit card information. We store and use this information so we can process your order. If necessary, we might use this information to contact you for help processing your order. From time to time we send out notices by email of special offers or sales on our site. If for any reason, you do not want to receive these notifications, just email us  at [customerservice@autobarn.com](mailto:CustomerService@autobarn.com), or contact us using one of the methods listed below under How to Contact Us. Each email offer also includes simple instructions on how to remove your e-mail address from future mailings.
+When you purchase a product we ask you for information such as name, address, and credit card information. We store and use this information so we can process your order. If necessary, we might use this information to contact you for help processing your order. From time to time we send out notices by email of special offers or sales on our site. If for any reason, you do not want to receive these notifications, just contact us through our [Customer Service Center](http://www.autobarn.net/support.html), or contact us using one of the methods listed below under How to Contact Us. Each email offer also includes simple instructions on how to remove your e-mail address from future mailings.
 
 Whenever you send us personal correspondence, such as e-mail or letters, or if other users or third parties send us correspondence about your activities or postings on the site, we may collect and store such information. From time to time, AutoBarn.com holds contests and sweepstakes. We will collect and store all information relating to such contests and sweepstakes. AutoBarn.com might purchase information from third parties in order to supplement the information we have received from our customers.  
   
@@ -69,10 +51,10 @@ Shopping with us is so safe we guarantee it with our Safe Shopping Guarantee. In
 By using our Web site, you are consenting to the collection, storage, and dissemination of data as described above. We will post any changes to our privacy policy on this page so you can readily review our most current policy. AutoBarn.com also reserves the right to e-mail you regarding changes to our Privacy Policy or any other matters AutoBarn.com thinks is necessary for the administration of the site.  
   
 **How to Contact Us**  
-We're interested in your comments about our privacy policy. You can send general comments about it to [Customerservice@autobarn.com](mailto:CustomerService@autobarn.com) You also can use that e-mail address to:  
+We're interested in your comments about our privacy policy. You can send general comments about it to us through our [ Customer Service Center](http://www.autobarn.net/support.html). You also can use that e-mail address to:  
    
 **Other Methods of Contacting Us**  
-| **E-mail:** | [customerservice@autobarn.com](mailto:CustomerService@autobarn.com)  
+| **E-mail:** |  [Use Our Customer Service Center](http://www.autobarn.net/support.html)  
 ---|---  
 **Phone:** | 1-888-484-9560 or 516-484-9500  
 **Fax:** | 516-484-4341  
@@ -81,29 +63,6 @@ PO Box 100
 Roslyn, NY 11576  
 Attention: Customer Service  
   
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._  
-  
-  
+_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
 
-
-| 
-
-Sales and Support Hours  
-Monday - Friday: 8:30AM - 6:00PM ET  
-  **CALL TOLL FREE:  
-1-888-484-9560  
-or (516)484-6497**
-
-| 
-
-[](http://www.autobarn.net/info.html)
-
-| 
-
-SECURE SHOPPING  
-Shop with confidence! Every transaction you make at AutoBarn is protected and guaranteed 100% safe!  
-[See Details](http://www.autobarn.net/privacypolicy.html#Safety%20&%20Security "Secure Shopping")  
-  
----|---|---  
-  
- 
+ _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
