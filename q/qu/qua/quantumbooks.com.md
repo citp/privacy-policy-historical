@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the quantumbooks.com privacy policy that was archived on 2008-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080420121623id_/http%3A//www.quantumbooks.com/Merchant2/merchant.mvc%3FScreen%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantumbooks.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218173156id_/http%3A//www.quantumbooks.com/Merchant2/merchant.mvc%3FScreen%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy for Quantum Books
+# Privacy Policy for Quantum Bookseller Services
 
 ### Our Privacy Policy in a Nutshell
 
-Since opening our doors in 1986, Quantum Books has made a commitment to never share the personal information of our customers, for any reason. The personal information you submit to Quantum Books online also will never be shared, sold, or disclosed to any third party for any purpose or in any form. 
+Since opening our doors in 1986, Quantum Bookseller Services has made a commitment to never share the personal information of our customers, for any reason. The personal information you submit to Quantum Bookseller Services online also will never be shared, sold, or disclosed to any third party for any purpose or in any form. 
 
-Quantum Books has an opt-in policy concerning commercial email. Should you wish to receive our newsletter or new book information in subject categories you select, you can join our list of subscribers. Otherwise, you will not receive any email from us except for those directly related to any order you place, such as your confirmation and receipt.
+Quantum Bookseller Services has an opt-in policy concerning commercial email. Should you wish to receive our newsletter or new book information in subject categories you select, you can join our list of subscribers. Otherwise, you will not receive any email from us except for those directly related to any order you place, such as your confirmation and receipt.
 
-Please note that this site contains links to other sites. Quantum Books is not responsible for the privacy practices or the content of such Web sites.
+Please note that this site contains links to other sites. Quantum Bookseller Services is not responsible for the privacy practices or the content of such Web sites.
 
 ### Our Full Privacy Policy
 
-Your privacy is important, so we'd like to explain what information we collect when you visit Quantum Books (http://www.quantumbooks.com), why we collect it and how it is used. We'd also like to explain your options to access and control your information, our data security practices and other matters.
+Your privacy is important, so we'd like to explain what information we collect when you visit Quantum Bookseller Services (http://www.quantumbooks.com), why we collect it and how it is used. We'd also like to explain your options to access and control your information, our data security practices and other matters.
 
 THE PRIVACYBOT TRUSTMARK
 
@@ -76,7 +76,7 @@ This Policy is governed by Massachusetts law, excluding conflicts of law princip
 
 IF YOU HAVE A PRIVACY QUESTION
 
-If you have a privacy question about our Site, please email: William Szabo at [quantum@quantumbooks.com](mailto:quantum@quantumbooks.com). Or write: Quantum Books, Attn: William Szabo, 4 Cambridge Center, Cambridge MA, 02142.
+If you have a privacy question about our Site, please email: William Szabo at [quantum@quantumbooks.com](mailto:quantum@quantumbooks.com). Or write: Quantum Bookseller Services, Attn: William Szabo, Quantum Bookseller Services / Unit 15 355 Middlesex Avenue, Wilmington, MA 01887.
 
 ### Privacy Practices Summary 
 
