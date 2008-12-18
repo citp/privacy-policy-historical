@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superbhosting.net privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627200751id_/http%3A//www.superbhosting.net/p-priv.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbhosting.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218161123id_/http%3A//www.superbhosting.net/p-priv.php) for the most accurate reproduction.*
 
 # Web Hosting, Cheap Web Hosting, Dedicated Servers by Superbhosting.Net
 
@@ -8,9 +8,9 @@
 
  **by Superb Internet**
 
-Superb Internet Corporation takes the privacy of its customers and users of its web site seriously. This Privacy Policy covers the ways in which Superb attains, manages, stores, processes and shares information given to it by its customers and visitors to Superb.s web sites. As a thoughtful and responsible member of the Internet community, Superb is committed to monitoring changes in the attitudes of both customers and the community in general towards the use of information. As part of this commitment, Superb will make changes from time-to-time to its Privacy Policy. Superb endeavors to give advance notice of material changes to the Privacy Policy, but reserves the right to make changes without notice. The most recent version of the Privacy Policy may always be found on Superb.s web site.
+Superb Internet Corporation takes the privacy of its customers and users of its web site seriously. This Privacy Policy covers the ways in which Superb attains, manages, stores, processes and shares information given to it by its customers and visitors to Superb's web sites. As a thoughtful and responsible member of the Internet community, Superb is committed to monitoring changes in the attitudes of both customers and the community in general towards the use of information. As part of this commitment, Superb will make changes from time-to-time to its Privacy Policy. Superb endeavors to give advance notice of material changes to the Privacy Policy, but reserves the right to make changes without notice. The most recent version of the Privacy Policy may always be found on Superb's web site.
 
-**1\. Information Collected from Visitors to Superb.s Web Sites**
+**1\. Information Collected from Visitors to Superb's Web Sites**
 
 Superb may collect the following information from its customers:
 
@@ -18,18 +18,18 @@ Superb may collect the following information from its customers:
   * Domain name;
   * User name;
   * Password; and
-  * Credit card information. ( .Customer Information.)
+  * Credit card information. (Customer Information)
 
 
 
-Customer Information is provided knowingly and voluntarily by customers during Superb.s sign up process. Customers knowingly and willingly provide Customer Information to us as part of the provisioning and use of their accounts.
+Customer Information is provided knowingly and voluntarily by customers during Superb's sign up process. Customers knowingly and willingly provide Customer Information to us as part of the provisioning and use of their accounts.
 
 In addition, Superb may collect the following information from visitors to its web sites, who may or may not be customers:
 
   * IP addresses;
-  * Initial, and elapsed, time on the web site; 
+  * Initial and elapsed, time on the web site; 
   * Page(s) visited; and
-  * Cookies containing information about whether you have visited Superb.s web sites in the past and/or promotional/discount codes.( .Web Site Information.)
+  * Cookies containing information about whether you have visited Superb's web sites in the past and/or promotional/discount codes. (Web Site Information)
 
 
 
@@ -37,41 +37,41 @@ Web Site Information may not be provided knowingly and voluntarily by customers 
 
 From time-to-time we may offer visitors to our web site, and customers, the opportunity to participate in other incentive programs. The information collected as part of these programs will be voluntary, the purposes for which the information is used disclosed, and its use will be set out on, or associated with, the page on which it is collected.
 
-**How we use information we collect**
+**How we Use the Information we Collect**
 
-a Customer Information is collected: 
+a) Customer Information is collected: 
 
-  1. To establish, provision, maintain and provide services to you and third parties.
-  2. To allow us to bill you for our services.
-  3. To establish security features for your account.
-  4. To fulfill our obligations under agreements with domain name registrars.
-  5. To fulfill our obligations under agreements governing the use, governance and structure of the Internet.
-  6. To associate the services we provide you with an account and an individual or entity.
-  7. To contact you regarding the services we provide you.
-  8. For legal and regulatory purposes.
+  1. To establish, provision, maintain and provide services to you and third parties;
+  2. To allow us to bill you for our services;
+  3. To establish security features for your account;
+  4. To fulfill our obligations under agreements with domain name registrars;
+  5. To fulfill our obligations under agreements governing the use, governance and structure of the Internet;
+  6. To associate the services we provide you with an account and an individual or entity;
+  7. To contact you regarding the services we provide you;
+  8. For legal and regulatory purposes; and
   9. To establish your creditworthiness and collect debts.
 
 
 
-b Web Site Information is collected:
+b) Web Site Information is collected:
 
-  1. To determine the number of visitors to our web sites and the pages visited.
-  2. For legal and regulatory purposes.
-  3. To determine the general geographic region of visitors.
-  4. To establish a fraud profile.
-  5. If a visitor participates in an incentive program or clicks through an affiliate or a sales person, a cookie is placed on their computer . only used at the time of order . to ensure that the discount or affiliate/sales commission is accordingly provided when and if service is ordered. Cookies are not used for tracking our web site visitors.
+  1. To determine the number of visitors to our web sites and the pages visited;
+  2. For legal and regulatory purposes;
+  3. To determine the general geographic region of visitors;
+  4. To establish a fraud profile;
+  5. If a visitor participates in an incentive program or clicks through an affiliate or a sales person, a cookie is placed on their computer - it is only used at the time of order to ensure that the discount or affiliate/sales commission is accordingly provided when and if service is ordered. Cookies are not used for tracking our web site visitors.
 
 
 
-**3\. How we disclose Customer Information and Web Site Information**
+**3\. How we Disclose Customer Information and Web Site Information**
 
 We may disclose Customer Information and Web Site Information in the following circumstances, with, or without, your knowledge and/or approval:
 
   1. To a governmental entity, an agent acting on behalf of a governmental entity, a law enforcement agency, or an individual or entity acting under the color of law;
   2. To a quasi-governmental organization administering the Internet;
   3. To domain name registrars;
-  4. To Superb.s parent companies or subsidiaries;
-  5. To your agents, or individuals or entities who, based on Superb.s reasonable belief, are acting as your agent;
+  4. To Superb's parent companies or subsidiaries;
+  5. To your agents, or individuals or entities who, based on Superb's reasonable belief, are acting as your agent;
   6. To a debt collection agency; 
   7. Internally, to administer your account, determine the effectiveness of our programs and services, and to optimize and improve our services, web sites and network; and/or
   8. To a company or individual employed by Superb, or acting as our agent, to perform functions related to your account.
@@ -80,9 +80,9 @@ We may disclose Customer Information and Web Site Information in the following c
 
 Superb generally asks that Customer Information or Web Site Information disclosed to a third party be kept confidential. However, Superb cannot control the third party use of the information set out in 3 a-e above. 
 
-**4\. Information Collected by Superb.s Customers**
+**4\. Information Collected by Superb's Customers**
 
-This policy does not cover information collected by Superb.s customers. These customers may collect more or less information than Superb, and use it in different ways. Superb may have access to this information depending on the services it provides to customers. However, Superb will not intentionally access or use this information unless absolutely necessary.
+This policy does not cover information collected by Superb's customers. These customers may collect more or less information than Superb, and use it in different ways. Superb may have access to this information depending on the services it provides to customers. However, Superb will not intentionally access or use this information unless absolutely necessary.
 
 **5\. Retention of Information**
 
