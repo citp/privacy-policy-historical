@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alllotto.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609021050id_/http%3A//www.alllotto.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alllotto.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218104922id_/http%3A//www.alllotto.com/privacy.php) for the most accurate reproduction.*
 
 # Latest Lottery News
 
@@ -10,7 +10,7 @@ AllLotto works with a third party that serves data to this site. To find out mor
 
  **Contact Us**
 
-We are glad to answer any questions or entertain any comments you may have. We read every message sent in and try to reply promptly to every one. This information is used to respond directly to your questions or comments. We may also file your comments to improve the site and program, or review and discard the information. Your personal information is only shared with third parties if you have not expressed your explicit objection by email. If you have any questions regarding this statement or any other dealing with this site, [click here](https://web.archive.org/web/20080609021050id_/http%3A//www.alllotto.com/13gtfagt.php) to contact us. 
+We are glad to answer any questions or entertain any comments you may have. We read every message sent in and try to reply promptly to every one. This information is used to respond directly to your questions or comments. We may also file your comments to improve the site and program, or review and discard the information. Your personal information is only shared with third parties if you have not expressed your explicit objection by email. If you have any questions regarding this statement or any other dealing with this site, [click here](http://www.alllotto.com/13gtfagt.php) to contact us. 
 
 **Logged Files**
 
