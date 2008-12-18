@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lutron.com privacy policy that was archived on 2008-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509123903id_/http%3A//www.lutron.com/lutron/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lutron.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218080407id_/http%3A//www.lutron.com/lutron/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 		<title>Lutron Electronics, Inc.</title> 
@@ -21,6 +21,58 @@
 			document.location.href=(form.lstContinent.options[sample].value);	
 		}
 </script>
+<script language="javascript">
+	<!--
+	function valForm20()
+	{
+		if(form2.QueryText.value=='') 
+		{
+			alert('You must enter search criteria.\nPlease try again.');
+			form2.QueryText.focus();
+			return false;
+		} 
+		else
+		{
+		    window.location='http://www.lutron.com/lutronsitesearch/';
+		}     
+		return true;
+		
+	} 
+	function valForm1()
+	{
+		if(form1.query.value=='Site Search')
+		{
+			alert('You cannot search for [Site Search].\nPlease try again.');
+			form1.query.focus();
+			return false;
+		}
+		if(form1.query.value=='')
+		{
+			alert('You must enter search criteria.\nPlease try again.');
+			form1.query.focus();
+			return false;
+		}
+		return true;
+	}
+	
+	function valForm()
+	{
+		if(form.query.value=='Part-number Search')
+		{
+			alert('You cannot search for [Part-number Search].\nPlease try again.');
+			form.query.focus();
+			return false;
+		}
+		if(form.query.value=='')
+		{
+			alert('You must enter search criteria.\nPlease try again.');
+			form.query.focus();
+			return false;
+		}
+		return true;
+	}
+	//-->
+			</script>
 <!--Begin outer table-->
 <table width="755" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
@@ -28,7 +80,7 @@
 			<!--Begin 2nd level table-->
 			<table border="0" cellspacing="0" cellpadding="0">
 				<tbody><tr>
-					<td><form>
+					<td><form id="Form1">
 							<table border="0" cellpadding="0" cellspacing="0">
 								<tbody><tr>
 									<td><a href="http://www.lutron.com/default.asp"><img height="58" alt="Lutron Electronics Company, Inc. -- Dimmers, Switches, and Lighting Controls for Home and Commercial Applications" src="/common/images/lutron_logo.gif" width="195" border="0" align="left" name="LutronLogo"></a></td>
@@ -40,25 +92,27 @@
 											<option value="/default.asp" selected="">United States</option>
 											<option value="/asia">Asia</option>
 											<option value="http://www.lutron.jp/">Japan</option>
+											<option value="/latinamerica">Latin America</option>
 										</select></td>
 								</tr>
 							</tbody></table>
+							
 					</form></td>
-					<td width="70">&nbsp;</td>
-					<td width="110" valign="top"><br>
-						<table border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
+					<td width="145">&nbsp;</td>
+					<!--<td width="110" valign="top"><br>
+						<table border="0" cellSpacing="0" cellPadding="0">
+							<tr>
 								<td align="left" valign="top">
-									<img height="8" src="/common/images/pixspc.gif" width="1" border="0"> <a href="/technical_info/" class="headerlink">
+									<IMG height="8" src="/common/images/pixspc.gif" width="1" border="0"> <a href="/technical_info/" class="headerlink">
 										&nbsp;Site Search</a><br>
-									<img height="8" src="/common/images/pixspc.gif" width="1" border="0"> <a href="/technical_info/" class="headerlink">
+									<IMG height="8" src="/common/images/pixspc.gif" width="1" border="0"> <a href="/technical_info/" class="headerlink">
 										&nbsp;Part-number Search</a>
 								</td>
 							</tr>
-						</tbody></table>
-						
+						</table>
+						</form>
 					</td>
-					<td width="20">&nbsp;</td>
+					<td width="20">&nbsp;</td>-->
 					<td width="110" valign="top"><br>
 						<table border="0" cellspacing="0" cellpadding="0" align="left">
 							<tbody><tr>
@@ -102,6 +156,25 @@
 							</tr>
 						</tbody></table>
 					</td>
+					<td width="280" valign="top"><br><form action="http://www.lutron.com/lutronsitesearch/" method="get" target="_self" id="Form2" name="form2" onsubmit="return valForm20();">
+						<table border="0" cellspacing="0" cellpadding="0" id="Table2">
+							<tbody><tr>
+								<td align="top" valign="bottom" nowrap="">
+									
+										<!--<div id="searchPosition"><div id="lutronInput">--><input type="hidden" name="IW_DATABASE" value="lutron web pages" id="Hidden2"> <input type="text" id="QueryText" name="IW_FIELD_WEB_STYLE" value="" size="17"><!--</div>--><!--</div>-->
+										<!--<div id="searchButtonPosition">--><!--<input type="submit" name="submit2" value="Search" ID="Submit2">-->
+										
+									
+									
+															
+														
+								</td>
+								<td>&nbsp;&nbsp;<input type="image" src="/common/images/searchbutton.gif" name="submit2" value="Search" id="Submit2"><!--</div>--></td>
+							</tr>
+						</tbody></table></form>
+						<!--</form>-->
+					</td>
+					<td width="20">&nbsp;</td>
 				</tr>
 			</tbody></table>
 			<!--end 2nd level table-->
@@ -152,107 +225,35 @@
 						<tr>
 							<td valign="top"></td>
 							<td valign="top">
-								<p>Lutron Electronics, Inc. respects the privacy of our website visitors. Please 
-									review the following document that explains how we continue to maintain the 
-									highest level of integrity while continuing to offer world-class products and 
-									services to our customers.</p>
-								<p>Lutron's Commitment to Privacy</p>
-								<p>This policy is designed to aid you in recognizing how we collect, use and 
-									safeguard any personal information that you voluntarily provide to us. This 
-									statement will be continuously assessed against new technologies and business 
-									practices as well as our customers' needs.</p>
-								<p>What Information Does Lutron Collect?</p>
-								<p>When you visit www.lutron.com you may provide us with two types of information: 
-									web site use information collected on an aggregate basis as you and other 
-									people browse our web site, and personal information you knowingly and 
-									voluntarily choose to disclose to Lutron that we collect on an individual 
-									basis.</p>
-								<p>How Does Lutron Collect Web Site Use Information?</p>
-								<p>Similar to other web sites, www.lutron.com utilizes a standard technology called 
-									cookies (see below) and web server logs to accumulate information about traffic 
-									on our web site (such as the time spent at our web site, the pages viewed, the 
-									date and time of visits, the web sites visited just before and just after our 
-									web site, etc.). This information is only collected on an aggregate basis and 
-									is NOT associated with you as an individual.</p>
-								<p>What Are Cookies?</p>
-								<p>Cookies are a standard feature of web browser software that allows web servers 
-									to recognize the computer used to access a web site. Cookies are small pieces 
-									of data that are stored by a user's web browser on the visitor's hard drive. 
-									Cookies can remember what information a visitor accesses on one web page to 
-									simplify subsequent interactions with that web site by the same visitor or to 
-									use the information to streamline the visitor's transactions on related web 
-									pages. This makes it easier for a visitor to move from web page to web page and 
-									to complete commercial transactions over the Internet.</p>
-								<p>How Does Lutron Use Information Collected from Cookies?</p>
-								<p>We use tools such as cookies and web server logs to gather information about 
-									customers' browsing activities in order to constantly improve our web site and 
-									better serve our customers. This information assists us to design and arrange 
-									our web pages in a user-friendly manner and to continually improve our web site 
-									to better meet the needs of our current and prospective customers.</p>
-								<p>Cookies also help us collect important business and technical statistics. The 
-									information in the cookies lets us trace the paths followed by visitors to our 
-									web site as they move from one page to another. Web server logs allow us to 
-									count how many people visit our web site and evaluate our web site's visitor 
-									capacity and speed of response. Lutron does not use these technologies to 
-									capture your individual email address or any personally identifying information 
-									about you.</p>
-								<p>Will I Get A Banner Ad or Other Targeted Advertisement Sent To Me?</p>
-								<p>Anytime you visit a website and have "cookies" enabled, you provide enough 
-									information for the hosting company to allow other companies to send you 
-									"banner ads" or other forms of advertisements. This is in spite of the fact 
-									that the advertising companies will not be able to associate a specific name of 
-									a viewer with a corresponding email address.</p>
-								<p>Lutron does not participate in any revenue-sharing programs with any banner 
-									advertising companies, so you will never receive a banner ad as a result of a 
-									visit to www.lutron.com .</p>
-								<p>Notice of New Services and Changes</p>
-								<p>Once in a while we may notify you via email about important changes to our web 
-									site, new products and services, or special offers that we believe you will 
-									find valuable.&nbsp;You will always be given an opportunity to remove your 
-									email address from this list at the end of each electronic communication. 
-									Finally, we will not attempt to ever contact you via phone unless you have 
-									specifically given us permission to do.</p>
-								<p>How Does Lutron Ensure the Security of Credit Card Transactions?</p>
-								<p>
-									Customers can not purchase products directly from Lutron through our website.</p>
-								<p>
-									Lutron provides links to Lutron accounts that offer their own hosted online 
-									store where you can purchase (via credit card) a limited number of Lutron 
-									products. Each one of these companies has their own policy on transaction 
-									security and handling of private information. You should understand how each 
-									company uses the information they collect and how they maintain the security of 
-									their site and credit card transactions BEFORE electing to do business with any 
-									company. Note that while Lutron will only provide initial links to web sites 
-									offering Lutron products for sale that we believe are using secure transmission 
-									technologies, we DO NOT continuously monitor these sites and as such can make 
-									no representations about the current security of these sites.</p>
-								<p>Other email that you may send to us may not be secure unless we advise you that 
-									security measures will be in place prior to your transmitting the information. 
-									For that reason, please do not send confidential information such as Social 
-									Security or account numbers to us through an unsecured email.</p>
-								<p>What If Lutron Is Legally Compelled to Disclose Information?</p>
-								<p>We may disclose information when legally compelled to do so, in other words, 
-									when we, in good faith, believe that the law requires it or for the protection 
-									of our legal rights or our customer's legal rights.</p>
-								<p>What About Other Web Sites Linked to Our Web Site?</p>
-								<p>We do not monitor the content, information, or web practices of any of web sites 
-									linked to or from our web site, and as such cannot be held responsible for said 
-									content, information, or web practices. In particular, while Lutron will only 
-									provide initial links to web sites offering Lutron products for sale that we 
-									believe are using secure transmission technologies, we DO NOT continuously 
-									monitor these sites and as such can make no representations about the current 
-									security of these sites.</p>
-								<p>What Information Does Lutron Retain?</p>
-								<p>In addition to retaining aggregate visitor information and personal information 
-									you voluntarily have provided to us, if you choose to correspond further with 
-									us through email, we may retain the content of your email messages together 
-									with your email address and our responses. We provide the same protections for 
-									these electronic communications that we employ in the maintenance of 
-									information received by mail and telephone.</p>
-								<p>Who Do I Contact If I Have Any Further Questions Regarding Privacy and/or 
-									Security?</p>
-								<p><a href="Contact.asp">Click here</a> to contact
-										Lutron</p>
+								<p>Lutron Electronics Co., Inc. respects the privacy of our website visitors. Please review the following document that explains what information we collect and how we intend to use that information.</p>
+								<p style="font-weight: bold;">What Information Does Lutron Collect?</p>
+								<p>When you visit www.lutron.com you may provide us with two types of information: (1) web site use information collected on an aggregate basis as you and other people browse our web site, and (2) personal information you knowingly and voluntarily choose to disclose to Lutron that we collect on an individual basis.  Please be advised that any information that you provide to Lutron shall become the sole and exclusive property of Lutron upon submission.</p>
+								<p style="font-weight: bold;">How Does Lutron Collect Web Site Use Information?</p>
+								<p>Similar to other web sites, www.lutron.com utilizes a standard technology called cookies (see below) and web server logs to accumulate information about traffic on our web site (such as the time spent at our web site, the pages viewed, the date and time of visits, the number of visitors, etc.). This information is only collected on an aggregate basis and is NOT associated with you as an individual -- Lutron does not capture your individual e-mail address or other personally identifying information about you with these technologies.</p>
+								<p>We use this information to gather information about our customers, to design and improve our web pages, to monitor website usage and capacity, and to compile important business and technical statistics.  We may share this information on an aggregate basis with third parties in furtherance of our business needs.</p>
+								<p style="font-weight: bold;">What Are Cookies?</p>
+								<p>Cookies are small pieces of data that are stored by a user's web browser on the visitor's hard drive. Cookies are part of the flow of information between computers and web browsers, and can be used for, among other things, customizing user interaction with web sites and enhancing web site performance and utility.</p>
+								<p>You may elect to refuse to accept cookies by changing your browser preferences and/or utilizing commercially available software programs.  Please understand that if you do not accept cookies from this site, it may affect the performance of this site, including your ability to access certain features. </p>
+								<p style="font-weight: bold;">How does Lutron Utilize Personal Information That Is Colelcted on this Site?</p>
+								<p>Certain areas of our website allow you to voluntarily provide us with personal information, such as your name, address, and e-mail address, in connection with, for example, a request for literature, documents or other types of information from Lutron, requests for customer or technical service, or in downloading software from the website.  </p>
+								<p>Lutron will use this information to fulfill requests made through our web site, as well as to analyze and respond to questions and inquiries about Lutron and our products.  Lutron may also use this information to contact you, electronically or otherwise, about services and products that we believe may interest you or to otherwise enhance our marketing and promotional efforts.  </p>
+								<p>In responding to your communications, we may share your information with our affiliates or other third-parties (such as dealers, distributors, independent sales representatives, or other entities working on Lutron's behalf). </p>
+								<p style="background-color: yellow;">We strongly advise you NOT to submit to us sensitive information, such as 
+								   your Social Security Number or credit card information, unless it is absolutely necessary for the purpose 
+								   of your communication.  Even though we strive to protect your personal information and privacy, we can not 
+								   guarantee the security of information you disclose online and you do so at your own risk.</p>
+								<p>Lutron may disclose information that you have provided us if we have a good faith belief that such disclosure is necessary to (a) comply with the law or legal process served on Lutron; or (b) protect and defend the rights and property of Lutron.</p>
+								<p style="font-weight: bold;">Will I Get A Banner Ad or Other Targeted Advertisement Sent To Me?</p>
+								<p>You will never receive a banner ad or targeted advertisement as a result of a visit to www.lutron.com.</p>
+								<p style="font-weight: bold">What About Other Web Sites Linked to Our Web Site?</p>
+								<p>This Policy applies only to Lutron Electronics Co. Inc. and this site.  We do not monitor the content, information, or web practices of any web sites linked to or from our web site, and make no representations about the current security of these sites.  We encourage users to review the privacy statements of every website that collects personally identifiable information.</p>
+								<p>Please note that the existence of any external link to another website does not suggest that we are endorsing the linked company, its products and/or its services.  </p>
+								<p style="font-weight: bold;">A Note About Children</p>
+								<p>This site is not intended for use by minors under the age of 13 years, and we do not intend to collect any personal information or data from children under the age of 13.  We do not believe that minors should submit personal information without the consent of a parent or guardian, and encourage parents and guardians to supervise their children's online activities.</p>
+								<p style="font-weight: bold;">Conditions of Use</p>
+								<p>Your use of this site is subject to this Privacy Statement.  By using this site, you agree to be bound by this Policy.</p>
+								<p style="font-weight: bold;">Who Do I Contact If I Have Any Further Questions Regarding Privacy and/or Security?</p>
+								<p><a href="Contact.asp">Click here</a> to contact Lutron</p>
 							</td>
 						</tr>
 						<tr>
