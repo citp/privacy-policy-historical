@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clrwtr.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613091410id_/http%3A//www.clrwtr.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clrwtr.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218200223id_/http%3A//www.clrwtr.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# Clearwater Tech | Privacy Policy
+# Clearwater Technologies, Inc. | Privacy Policy
 
 [**www.clrwtr.com**](http://www.clrwtr.com/) wants to demonstrate our firm commitment to privacy by providing you this privacy policy statement.
 
