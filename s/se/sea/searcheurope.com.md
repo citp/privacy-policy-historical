@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searcheurope.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611203237id_/http%3A//www.searcheurope.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searcheurope.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218211915id_/http%3A//www.searcheurope.com/info/privacy.shtml) for the most accurate reproduction.*
 
-# Search Europe
+# Search Europe - privacy policy
 
 **Privacy Statement for Search Europe** SearchEurope.com, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Search Europe.
 
@@ -43,5 +43,5 @@ This site gives users the following options for changing and modifying informati
 
 
  **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact SearchEurope.com, Inc. 351 N. Congress Ave. Boynton Beach, FL 33426, USA [contact_us@searcheurope.com](mailto:contact_us@searcheurope.com?subject=Re%20Search%20Europe)  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact SearchEurope.com, Inc. 5756 Descartes Circle Boynton Beach, FL 33472, USA [contact_us@searcheurope.com](mailto:contact_us@searcheurope.com?subject=Re%20Search%20Europe)  
 
