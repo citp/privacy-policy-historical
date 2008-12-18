@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ezlinks.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613173121id_/http%3A//www.ezlinks.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezlinks.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218102145id_/http%3A//www.ezlinks.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
-# Privacy Statement
+# ezlinks.com - Online tee times made EZ
 
 **Privacy Statement for**  www.ezlinks.com   
 
@@ -19,7 +19,7 @@ We may use an outside ad company to display ads on our site. Ads may contain coo
 
 _Security_ :
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our secure certificate is provided by [VeriSign](http://www.verisign.com/).
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our secure certificate is provided by [Network Solutions](http://www.networksolutions.com/).
 
 _Choice/Opt-Out_ :
 
