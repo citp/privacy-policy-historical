@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlcalc.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614094748id_/http%3A//www.mlcalc.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlcalc.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218071444id_/http%3A//www.mlcalc.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Mortgage Loan Calculator
 
