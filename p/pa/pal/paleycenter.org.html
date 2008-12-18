@@ -1,0 +1,401 @@
+<!--The following is the downloaded HTML source of the paleycenter.org privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218124214id_/http%3A//www.paleycenter.org/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" id="paleycenter"><head> 
+		<title>Privacy Policy | The Paley Center for Media</title>
+	
+	<base href="http://www.paleycenter.org/">
+	<meta http-equiv="imagetoolbar" content="no">
+	<!--[if gt IE 7]>
+		<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<![endif]-->
+    
+	<meta name="viewport" content="width=980">
+	
+	<meta name="generator" http-equiv="generator" content="SilverStripe 2.0 - http://www.silverstripe.com">
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="en">
+
+	
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="stylesheet" href="themes/paley/styles/init.css" type="text/css">
+	<link rel="stylesheet" href="themes/paley/styles/basic.css" type="text/css">
+	<link rel="stylesheet" href="themes/paley/styles/advanced.css" type="text/css">
+    <link rel="stylesheet" href="themes/paley/styles/admin-styles.css" type="text/css">
+    <link rel="stylesheet" href="themes/paley/styles/print.css" type="text/css" media="print">
+    
+    <!--[if lt IE 7]>
+    	<link rel="stylesheet" href="themes/paley/styles/ie6.css" type="text/css" />
+    <![endif]-->
+	<script type="text/javascript" src="themes/paley/scripts/jquery.js"></script>
+	<script type="text/javascript" src="themes/paley/scripts/scrollto.js"></script>
+	<script type="text/javascript">
+	    var J = jQuery.noConflict();
+	</script>
+	<script type="text/javascript" src="themes/paley/scripts/devicetest.js"></script>
+	<script type="text/javascript" src="themes/paley/scripts/nav.js"></script>
+	<script type="text/javascript" src="themes/paley/scripts/cookie.js"></script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+    J(document).ready(function(){
+            J("table[align='left']").css('float', 'left');
+            J("table[align='right']").css('float', 'right');
+
+            J("img[align='left']").css('float', 'left');
+            J("img[align='right']").css('float', 'right');
+    });
+
+    function view_calendar_event(date, link_id) {
+        var date_array = date.split("/");
+        var month = date_array[0];
+        var day = date_array[1];
+        var year = date_array[2];
+        var load_url = "/api/event_info?day=" + day + "&month=" + month + "&year=" + year;
+        J("#event_table a").removeClass("active");
+        J("#"+link_id).addClass("active");
+        J("#event-info").load(load_url);
+        return false;
+    }
+    
+    function get_calendar(direction) {
+        var my = J('.calendar-month .month').attr('id');
+        var my_array = my.split("_");
+        var month = my_array[0];
+        var year = my_array[1];
+        var load_url = "/api/calendar_info?month=" + month + "&year=" + year + "&direction=" + direction;
+        J("#event-info").html("");
+        J("#calendar").load(load_url);
+    }
+
+</script>
+
+      
+	      
+</head> 
+
+    <body class="bg01">
+
+	<div id="page">
+		<div id="header" class="clearfix"> 
+			<h1 class="inner"><a style="display: block;" href="/"><img style="display: block;" src="/i/global/logo.png" alt="The Paley Center for Media | Leading Today's Media Conversation" height="88" width="971"></a></h1>
+			<!--<div id="RegisterLogin">
+	
+		<span>
+			<a href="Security/login" title="Click here to login">Login</a> |
+			<a href="Security/lostpassword" title="Click here to retrieve your password">forgot password</a> |
+			<a href="MemberProfile/register" title="Click here to register">register</a>
+		</span>
+	
+</div>
+-->
+		</div>
+		
+		<div id="content" class="clearfix">
+
+			<img src="/i/global/logo-print.gif" width="971" height="88" border="0" alt="" id="logo-print">
+<div class="nav-bar clearfix" style="padding-top: 1px; position: relative; top: -1px;">
+<ul id="nav" class="clear">
+	<li id="perspectives"><a href="/perspectives">Perspectives on Media</a></li>
+	<li id="blogs"><a href="/blogs">Blogs</a></li>
+	<li id="collection"><a href="/collection">The Collection</a></li>
+	<li id="events"><a href="/events">Public Programs</a></li>
+</ul>
+
+
+</div>
+
+
+			
+				<div> <!-- DIV WRAPPER FOR IE -->
+    
+	<form method="get" name="search" action="/privacy-policy/results" id="search" enctype="application/x-www-form-urlencoded">
+    
+		<fieldset> 
+			<label for="q" class="accessibility">Search</label>
+			<input type="text" name="Search" id="q" size="15" title="Search"><input type="image" name="go" id="go" value="go" src="/i/buttons/search-go.gif">
+			<input class="hidden" type="hidden" id="SearchForm_SearchForm_formController" name="formController" value="privacy-policy/"> 
+			<input class="hidden" type="hidden" id="SearchForm_SearchForm_executeForm" name="executeForm" value="SearchForm">
+        	</fieldset>
+        
+      	<script type="text/javascript">
+            J(document).ready(function() {
+                textfields();
+            });
+            
+            function textfields() {
+                J(":text").each(function() {
+                    var helpTxt = J(this).attr("title");
+                    J(this).val(helpTxt);
+                    J(this).blur(function () {
+                        if(J(this).val() == '') { J(this).val(helpTxt) }
+                    });
+                    J(this).focus(function() {
+                        if(J(this).val() == helpTxt) { J(this).val("")}
+                    });
+                });
+            }
+        </script>
+    </form>
+</div> <!-- / DIV WRAPPER FOR IE -->   
+			
+			 
+			
+			
+                    
+                    <div id="page-wrapper">
+                        
+
+
+<div id="sec" class="span2 alpha">
+	    <div id="nav-sec" class="">
+    
+    
+	<ul>
+	<li><a href="/about">About</a><span class="opcl">-</span>
+<ul>
+	<li><a href="/about-leadership">Leadership</a>
+</li>
+	<li><a href="/about-mission-history">Mission &amp; History</a>
+</li>
+	<li><a href="/inside-the-paley-center">Inside the Paley Center</a>
+</li>
+	<li><a href="/about-volunteer-internships">Volunteer &amp; Internships</a>
+</li>
+	<li><a href="/about-annual-report">Annual Report</a>
+</li>
+	<li><a href="/about-contact-us">Contact Us</a>
+</li>
+	<li><a href="/rentals">Facility Use and Entertaining</a>
+</li>
+</ul>
+</li>
+	<li><a href="/education">Education</a><span class="opcl">-</span>
+<ul>
+	<li><a href="/classes-workshops">Classes &amp; Workshops</a>
+</li>
+	<li><a href="/videoconferencing">Videoconferencing</a>
+</li>
+	<li><a href="/education-workshops-educators">Workshops for Educators</a>
+</li>
+	<li><a href="/education-family-programs">Family Programs</a>
+</li>
+	<li><a href="/educational-resources">Educational Resources</a>
+</li>
+	<li><a href="/scholars-room">The Scholars Room</a>
+</li>
+	<li><a href="/university-series">University Series</a>
+</li>
+</ul>
+</li>
+	<li><a href="/about-press-room">Press Room</a><span class="opcl">-</span>
+<ul>
+	<li><a href="/about-pressroom-current-press-releases">Current Press Releases</a>
+</li>
+	<li><a href="/about-pressroom-press-release-archive">Press Release Archive</a>
+</li>
+	<li><a href="/about-pressroom-press-kit">Press Kit</a>
+</li>
+	<li><a href="/about-pressroom-press-register">Register for Press Information</a>
+</li>
+</ul>
+</li>
+	<li><a href="/collection-screening-room-828">Screening Room</a><span class="opcl">-</span>
+</li>
+</ul>
+<ul>
+	<li><a href="/join-us">Join Us</a><span class="opcl">-</span>
+<ul>
+	<li><a href="/join-us-levels-of-membership">Levels of Membership</a>
+</li>
+	<li><a href="/join-us-renew">Renew</a>
+</li>
+	<li><a href="/paleyafterdark">PaleyAfterDark</a>
+</li>
+	<li><a href="/join-us-sponsorship-opportunities">Sponsorship Opportunities</a>
+</li>
+	<li><a href="/join-us-corporate-membership">Corporate Membership</a>
+</li>
+	<li><a href="/join-us-donor-wall">Donor Wall</a>
+</li>
+	<li><a href="/join-us-facility-use-entertaining">Facility Use and Entertaining</a>
+</li>
+</ul>
+</li>
+	<li><a href="/visit">Visit</a><span class="opcl">-</span>
+<ul>
+	<li><a href="/visit-visitny">Plan Your NY Visit</a>
+</li>
+	<li><a href="/visit-visitla">Plan Your LA Visit</a>
+</li>
+	<li><a href="/visit-directions">Directions</a>
+</li>
+	<li><a href="/visit-ny-virtual-building-tour">NY Virtual Tour</a>
+</li>
+	<li><a href="/visit-la-virtual-building-tour">LA Virtual Tour</a>
+</li>
+	<li><a href="/visit-group-visits">Group Visits</a>
+</li>
+	<li><a href="/visit-daily-schedule">Daily Schedule</a>
+</li>
+	<li><a href="/join-us-facility-use-entertaining-718">Facility Use and Entertaining</a>
+</li>
+</ul>
+</li>
+	<li><a href="/shop">Shop</a><span class="opcl">-</span>
+</li>
+	<li><a href="/support-us">Support Us</a><span class="opcl">-</span>
+<ul>
+	<li><a href="/los-angeles-gala-2008">LA Gala Evening 2008</a>
+</li>
+	<li><a href="/new-york-gala-2009">NY Gala: SAVE THE DATE</a>
+</li>
+	<li><a href="/annual-appeal">Annual Appeal</a>
+</li>
+</ul>
+</li>
+	<li><a href="/enews">eNews</a><span class="opcl">-</span>
+</li>
+</ul>
+<ul>
+	<li><a href="/media-council">Media Council</a><span class="opcl">-</span>
+<ul>
+	<li><a href="/mediacouncil-upcomingevents">Upcoming Events</a>
+</li>
+	<li><a href="/past-events-from-2008-09-season">Past 2008-09 Events</a>
+</li>
+	<li><a href="/media-council-sponsors">About Our Sponsors</a>
+</li>
+</ul>
+</li>
+	<li><a href="/international-council">International Council</a><span class="opcl">-</span>
+<ul>
+	<li><a href="/international-council-india-program">Program Theme and Panels</a>
+</li>
+	<li><a href="/international-council-about">About the IC Meetings</a>
+</li>
+	<li><a href="/international-council-media-highlights">Media Highlights from Previous Meetings</a>
+</li>
+	<li><a href="/international-council-members-attendees">Past IC Members and Attendees </a>
+</li>
+	<li><a href="/international-council-sponsors">Hosts and Sponsors</a>
+</li>
+</ul>
+</li>
+</ul>
+
+
+    <div id="event-calendar" class="segment-divide">
+        <h1>Upcoming Events</h1>
+       
+        <div id="calendar" class="">
+            <h3 class="calendar-month clearfix"><span class="month" id="12_2008">December&nbsp;2008</span> <span class="key"><span class="ny">NY</span><span class="la">LA</span></span></h3>
+  <h3 id="month-control" class="clearfix">
+                    <span id="prev"><a href="privacy-policy/#" onclick="get_calendar('prev'); return false;">« prev</a></span>
+                    <span id="next"><a href="privacy-policy/#" onclick="get_calendar('next'); return false;">next »</a></span>
+                </h3><table id="event_table" width="100%" cellspacing="0" cellpadding="0" border="0" class="calendar"><tbody><tr><td class="spacer" colspan="1">&nbsp;</td><td valign="middle" align="middle"><div>1</div></td><td valign="middle" align="middle"><div class="has_event  has_event_la  has_event_multiple "><a href="privacy-policy/#" id="d2" onclick="view_calendar_event('12/2/2008', 'd2'); return false;">2</a></div></td><td valign="middle" align="middle"><div class="has_event  has_event_la  has_event_multiple "><a href="privacy-policy/#" id="d3" onclick="view_calendar_event('12/3/2008', 'd3'); return false;">3</a></div></td><td valign="middle" align="middle"><div class="has_event  has_event_la "><a href="privacy-policy/#" id="d4" onclick="view_calendar_event('12/4/2008', 'd4'); return false;">4</a></div></td><td valign="middle" align="middle"><div class="has_event  has_event_ny "><a href="privacy-policy/#" id="d5" onclick="view_calendar_event('12/5/2008', 'd5'); return false;">5</a></div></td><td valign="middle" align="middle"><div>6</div></td></tr>
+<tr><td valign="middle" align="middle"><div>7</div></td><td valign="middle" align="middle"><div>8</div></td><td valign="middle" align="middle"><div class="has_event  has_event_ny "><a href="privacy-policy/#" id="d9" onclick="view_calendar_event('12/9/2008', 'd9'); return false;">9</a></div></td><td valign="middle" align="middle"><div>10</div></td><td valign="middle" align="middle"><div class="has_event  has_event_la "><a href="privacy-policy/#" id="d11" onclick="view_calendar_event('12/11/2008', 'd11'); return false;">11</a></div></td><td valign="middle" align="middle"><div>12</div></td><td valign="middle" align="middle"><div>13</div></td></tr>
+<tr><td valign="middle" align="middle"><div>14</div></td><td valign="middle" align="middle"><div>15</div></td><td valign="middle" align="middle"><div>16</div></td><td valign="middle" align="middle"><div>17</div></td><td valign="middle" align="middle"><div>18</div></td><td valign="middle" align="middle"><div class="has_event  has_event_ny "><a href="privacy-policy/#" id="d19" onclick="view_calendar_event('12/19/2008', 'd19'); return false;">19</a></div></td><td valign="middle" align="middle"><div>20</div></td></tr>
+<tr><td valign="middle" align="middle"><div>21</div></td><td valign="middle" align="middle"><div>22</div></td><td valign="middle" align="middle"><div>23</div></td><td valign="middle" align="middle"><div>24</div></td><td valign="middle" align="middle"><div>25</div></td><td valign="middle" align="middle"><div>26</div></td><td valign="middle" align="middle"><div>27</div></td></tr>
+<tr><td valign="middle" align="middle"><div>28</div></td><td valign="middle" align="middle"><div>29</div></td><td valign="middle" align="middle"><div>30</div></td><td valign="middle" align="middle"><div>31</div></td><td class="spacer" colspan="3">&nbsp;</td></tr>
+</tbody></table>
+
+        </div>
+        <div id="event-info" class="">
+        </div>
+        
+        <h2><a href="/events">View Public Programs</a></h2>
+    </div>
+
+</div>
+</div> 
+
+
+<div id="primary" class="span13 omega">
+	
+	<div class="span13 alpha omega">
+		<div class="span10 alpha omega article-header">
+			<p class="topic-header">
+			    	    
+        			        
+        			    
+			 
+			</p>
+			<h2>Privacy Policy</h2>
+			
+		
+		</div> 
+			
+				<div class="span10 alpha admin-styles">
+					<h1 class="subtitle"></h1>
+				</div> 
+			
+	</div> 
+	
+	<div class="span10 alpha segment topic-article">
+	    <div class="typography">
+		    <p> The Paley Center for Media ("the Paley Center") shares your concern about the protection of your personal information online. This Privacy Policy discloses what information the Paley Center gathers on its website (the "Site"), how the Paley Center uses it, and how to correct or change it. <br> <br>  <strong>CHILDREN</strong>:<br> The Site is NOT directed to or intended for children under the age of thirteen. Children under thirteen years of age may not register to use the Site. The Paley Center does not knowingly collect any personal information from children under the age of thirteen. To register for full access to the Site and in certain areas of the Site (for example, on sweepstakes and contest entry pages), where personal information is requested, you may be asked for your age or birthdate. You hereby agree that all information you provide to the Paley Center regarding age verification shall be truthful, accurate, and complete. If you are a parent of a child under the age of thirteen and you have questions about our Site or Privacy Policy, please feel free to contact the Paley Center's Privacy Coordinator at Legal@paleycenter.org. <br> <br>  <strong>INFORMATION THAT THE PALEY CENTER COLLECTS</strong>:<br>The Paley Center gathers personal information about visitors to the Paley Center Site ("Site Visitors") from four different sources: (a) personal information that individual Site Visitors provide when using or registering for full access to the Site or to use one or more of our services, including without limitation our calendar service and any forums; (b) personal and contact information that Site Visitors provide when voluntarily participating in contests, sweepstakes, and other promotions; (c) through merchandise, membership and other service purchase transactions through the Paley Center Site; and (d) information that institutions such as schools and universities provide when registering to use one or more of our services. In addition, user information may be aggregated for tracking data derived by tallying and identifying users' page views throughout our Site, by depositing and tracking cookies, by logging IP addresses, identifying browser type, and through other technologies. Such information enables us to better tailor our content to our Site Visitors' needs and to help advertisers and partners better understand the demographics of our audience. More specifically, the Paley Center may gather user information through the following processes: </p><ul><li><span style="font-style: italic">General Data Collection</span><br> The Paley Center collects personal information about you (such as your name, email address, zip code, and interests) when you volunteer such information, for example when you complete a registration form to use one or more of our services ("Registration Information"), or when you complete other forms on the Site, for example to enter a contest or sweepstakes. The Paley Center may also collect information about your transactions with us, our affiliates, or others, and your Site usage patterns, such as the pages on the Paley Center Site you have visited and the amount of time you have spent on our Site. If you contact us, the Paley Center may keep a record of your correspondence. Wherever the Paley Center collects personal information from you online, the Paley Center will make an effort to include a link to this Privacy Policy on that page. The Paley Center may retain personal information you provide us for internal use, such as to provide you with an enhanced or customized experience, or to pre-populate a shipping form in the event that you later purchase something through our Site.</li></ul><p><em>Cookies<br></em>To enhance your experience with our Site, some of our webpages may use "cookies." Cookies are small text files containing information such as your preferences and other information, which the Paley Center uses to make using the Paley Center Site more enjoyable. Cookies may be used to store user information such as your user ID and login where available, and/or other information including the number and nature of pages visited by Site Visitors.</p><p><em>The Paley Center Newsletter</em><br>Unless you opt out as provided below, any Site Visitor who registers for full access to the Site you will automatically receive a free email subscription to the paleycenter.org Newsletter and various other email updates and bulletins that the Paley Center sends out on a periodic basis containing items that the Paley Center hopes will be of interest to Site Visitors. You may remove yourself from this mailing list by following the Unsubscribe instructions contained in each email that the Paley Center sends.</p><p><em>Forums</em><br>The Paley Center may provide message boards and other forums on our Site for discussing various topics (collectively, the "Forums"). Although any Site Visitor may read postings in a Forum, only registered Site Visitors can make posts. Please note that information you post to a Forum will be available for any user of that service to read, and is therefore no longer private.</p><p><em>Various Periodic Surveys/Polls</em><br>The Paley Center may ask Site Visitors to participate in surveys from time to time which are typically aimed at obtaining general or demographic information about Site Visitors. Information obtained in these surveys may be connected with individual Site Visitors and is used to better market our services. Participation is voluntary.</p><p><em>Sweepstakes and Contests</em><br>The Paley Center offers contests and sweepstakes from time to time which require Site Visitors to provide additional personal information in order to participate so that, for example, the Paley Center can verify entrants' identity and eligibility, and notify potential winners. Participation in such sweepstakes and contests is voluntary. The Official Rules for such contests and sweepstakes may contain additional or different terms regarding the use of personal information provided by entrants. In the event of any conflict between this Privacy Policy and a contest's or sweepstakes' Official Rules, the Official Rules for that promotion will govern.</p><p><em>Purchases</em><br>If you purchase products or services on our Site, the Paley Center may collect additional information from you, such as your address, phone number, payment information, or shipping information. The Paley Center will not release payment information to third parties except as necessary to complete a transaction between you and such third party, or to otherwise fulfill your order. Credit card transactions are handled by a third-party service provider, which receives the credit card number and other personal information only to verify the credit card number and process transactions.</p>  <strong>HOW THE PALEY CENTER USES AND SHARES INFORMATION</strong>:<br> The Paley Center uses and discloses information obtained from Site Visitors as stated in this Privacy Policy and as permitted by law. The personally identifying information gathered on the Paley Center Site may be shared with certain third parties. For example: Your information may be shared with external third party shippers. These shippers will use such information to fulfill the transaction you may have requested. Additionally, the Paley Center-sponsored or third party sweepstakes, contests or promotions where demographic information is gathered may be shared with third parties for marketing purposes. <br> <br> Your information may be shared with the Paley Center's joint venturers, sponsors, partners, and licensees with whom the Paley Center has entered into sharing agreements (collectively, the "the Paley Center Partners") in order to provide you additional products or services. The information the Paley Center collects may be combined with information collected by the Paley Center Partners to enable us to provide better service to you.<br> <br> The Paley Center also reserves the right to disclose personal information to third parties when the Paley Center believes in good faith that the law requires it, to enforce our Terms of Service, to protect the rights, property, safety, or security of the Paley Center or its partners and affiliates, Site Visitors, or the public, to respond to an emergency, or as otherwise stated in this Privacy Policy. The Paley Center may also disclose information that you have voluntarily provided us, when, for example, entering a contest or making a purchase on our Site. The Paley Center uses tracking data to create aggregate reports on Site Visitor demographics, Site traffic patterns, and consumer behavior. The Paley Center may provide these reports to our advertisers and partners, enabling them to better target their advertisements to Site Visitors. <br> <br>  <strong>SERVICE PROVIDERS</strong>:<br> The Paley Center works with third parties who provide services which may include website hosting, order processing and fulfillment, credit card clearance, e-commerce affiliation, security, data analysis, emailing, and other services of an administrative nature. Personal information, including financial information, may be shared with such third parties for the purpose of providing such services. The Paley Center seeks to impose confidentiality obligations on such service providers.<br> <br>  <strong>SITE NOTICES</strong>:<br> From time to time, in our sole discretion, the Paley Center may email registered Site Visitors important information regarding their use of the Site or changes to this Privacy Policy or our Terms of Service. You may not opt out of receiving such information.<br> <br>  <strong>LINKING TO OTHER SITES</strong>:<br> Please note that third parties may collect information about you, through cookies or other technologies, when you link to their websites through our Site. You acknowledge that the Paley Center does not monitor or control the information collection or privacy practices of these or any other third parties, and are not responsible for their practices or the content of their websites. The Paley Center encourages you to review the privacy policies of such third parties to understand how they collect and use information.<br> <br>  <strong>SECURITY</strong>:<br> The Paley Center uses reasonable security methods to protect the data that resides on our servers. But because no security system is impenetrable, the Paley Center cannot guarantee the security of our servers. It is also possible that information you supply to us will be intercepted during transmission.<br> <br>  <strong>EXCLUSIONS</strong>:<br> This Privacy Policy does not restrict or prohibit our use or disclosure of public information. The Paley Center reserves the right to transfer any and all information that the Paley Center collects from Site Visitors to third parties in the event that the Paley Center sells or transfers substantially all of our assets related to the Paley Center Site to such third party.<br> <br>  <strong>REVISIONS TO POLICY</strong>:<br> Please note that by using the Paley Center Site, you signify your agreement to this Privacy Policy, as it may be amended from time to time. If you do not agree to this Privacy Policy, please do not use the Site. The Paley Center reserves the right to make changes to this Privacy Policy, which the Paley Center may provide to you by any reasonable means including posting the amended policy on the Paley Center Site or by email. Your continued use of the Site subsequent to changes to this Privacy Policy will mean that you accept and agree to the changes. If you have any questions regarding this Privacy Policy or the Paley Center Site, please email us at Legal@paleycenter.org. Alternatively, you may contact us via postal mail at 25 West 52nd Street; 12th Floor; NY, NY 10019 Attn: Legal and Administration Department. Please note that you will always be able to determine if this Privacy Policy has been updated since your last visit to the Site by observing the "Last Revised" legend at the top of this Privacy Policy. This Privacy Policy, including all revisions and amendments thereto, is governed by the laws of the State of New York, without regard to its principles of conflicts of law.<br> <br>  <strong>Thank you for visiting the Paley Center Site!</strong>  <p></p>
+		</div>
+            
+		
+		<div class="span10 alpha omega">
+		    
+		</div>
+	</div> 
+	
+	<div class="span7 omega">
+		
+		
+		
+		
+			
+				
+		
+	</div> 
+	
+</div> 
+
+
+
+                          
+                    </div>
+                
+			
+		</div> 
+		
+		<div id="footer" class="clearfix">
+						
+			<ul>
+				<li class="alpha"><a href="/copyright/">Copyright 1995-2008</a></li>
+				<li><a href="/terms-of-service/">Terms of service</a></li>
+				<li><a href="/privacy-policy/">Privacy policy</a></li>
+				<li><a href="/paley-sitemap/">Sitemap</a></li>
+			</ul>
+			<ul>
+				<li class="alpha"><a href="/credits/">Credits</a></li>
+				<li><a href="/join-us-sponsorship-opportunities/">Advertising and Sponsorship</a></li>
+				<li><a href="/about-contact-us/">Contact us</a></li>
+				<li><a href="/visit-directions/">Directions</a></li>
+			</ul>
+ 
+		</div> 
+		    
+	</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5345190-1");
+pageTracker._trackPageview();
+</script> 
+<div id="video_message"></div>
+ 
+ 
+ </body></html>
