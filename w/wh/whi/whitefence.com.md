@@ -1,40 +1,40 @@
-> *The following text is extracted and transformed from the whitefence.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212163541id_/http%3A//www.whitefence.com/trustbox/privacyandsecurity.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitefence.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218064540id_/http%3A//www.whitefence.com/corporate/privacy) for the most accurate reproduction.*
 
-# Privacy and Security Statement
+# WhiteFence Privacy and Security Statement
 
 This site is powered by WhiteFence ("we," "our" or "us"). This Privacy and Security Statement discloses the privacy policy and security practices for this site. This site is specifically designed for persons who are 18 years of age or older and is intended for use by persons who have entered it directly or through a Web site owned or operated by or for the organization sponsoring this site ("Site Partner").
 
 ## Security and Protection of Your Personally Identifiable Information
 
-[](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.WHITEFENCE.COM&lang=en)We are committed to maintaining the security of Personally Identifiable Information (defined below) obtained through our site. We take significant precautions to protect your Personally Identifiable Information both online and offline. Maintaining a high degree of confidence from you and our service providers regarding the protection and secure transmission of all Personally Identifiable Information obtained through our site is of the utmost importance to us. Accordingly, we back the secure transmission of your credit card information with our Credit Card Security Guarantee. We have implemented a security policy to keep Personally Identifiable Information that is stored in our systems protected from unauthorized access. Our systems are configured with data encryption technologies and firewalls. When you send Personally Identifiable Information to us over the Internet, or we send it to service providers over the Internet, your data is protected by 128-bit Secure Socket Layer (SSL) technology to ensure safe transmission. We also have a digital certificate from VeriSign, Inc., a top maker of hardware and software used to protect and manage computer network access, certifying the secure nature of our site. All of our servers storing Personally Identifiable Information are kept in a secure environment and may be accessed only by a limited number of authorized persons. All of our employees have signed written confidentiality agreements specifically prohibiting their use or dissemination of such information in any unauthorized manner.
+We are committed to maintaining the security of Personally Identifiable Information (defined below) obtained through our site. We take significant precautions to protect your Personally Identifiable Information both online and offline. Maintaining a high degree of confidence from you and our service providers regarding the protection and secure transmission of all Personally Identifiable Information obtained through our site is of the utmost importance to us. Accordingly, we back the secure transmission of your credit card information with our Credit Card Security Guarantee. We have implemented a security policy to keep Personally Identifiable Information that is stored in our systems protected from unauthorized access. Our systems are configured with data encryption technologies and firewalls. When you send Personally Identifiable Information to us over the Internet, or we send it to service providers over the Internet, your data is protected by 128-bit Secure Socket Layer (SSL) technology to ensure safe transmission. We also have a digital certificate from VeriSign, Inc., a top maker of hardware and software used to protect and manage computer network access, certifying the secure nature of our site. All of our servers storing Personally Identifiable Information are kept in a secure environment and may be accessed only by a limited number of authorized persons. All of our employees have signed written confidentiality agreements specifically prohibiting their use or dissemination of such information in any unauthorized manner.
 
 ## Information Collected About You
 
-We collect information about you that is provided by you to us or a Site Partner, such as your name, address, telephone numbers, e-mail addresses and other information that can identify you as a specific individual ("Personally Identifiable Information"). On those pages of our site where Personally Identifiable Information is collected in order for you to purchase or request further information about a product or service, we describe what information is required in order to provide you with the product, service or information that you have requested. We do not knowingly collect information from children under 13. If a Service Provider requires a birth date to order a specific product or service, you will not be able to enter a birth date that indicates that you are less than 13 years old. We collect Personally Identifiable Information when you: 
+We collect information about you that is provided by you to us or a Site Partner, such as your name, address, telephone numbers, e-mail addresses and other information that can identify you as a specific individual ("Personally Identifiable Information"). On those pages of our site where Personally Identifiable Information is collected in order for you to purchase or request further information about a product or service, we describe what information is required in order to provide you with the product, service or information that you have requested. We do not knowingly collect information from children under 13. If a Service Provider requires a birth date to order a specific product or service, you will not be able to enter a birth date that indicates that you are less than 13 years old. We collect Personally Identifiable Information when you:
 
   * Become authorized to use our site through a Site Partner
   * Purchase a product or service
   * Request further information regarding a product or service
   * Disconnect a service
-  * Contact us 
+  * Contact us
 
 
 
 ## Your Information
 
-You and/or a Site Partner representative may provide us with the Personally Identifiable Information necessary to allow you to use our site and to optimize your use of our service. This Personally Identifiable Information may include your name, address and other Personally Identifiable Information that you or a Site Partner determines will enhance your experience in using our site, such as your telephone numbers and e-mail addresses. 
+You and/or a Site Partner representative may provide us with the Personally Identifiable Information necessary to allow you to use our site and to optimize your use of our service. This Personally Identifiable Information may include your name, address and other Personally Identifiable Information that you or a Site Partner determines will enhance your experience in using our site, such as your telephone numbers and e-mail addresses.
 
 ## Purchase Information
 
-We collect credit card information necessary to set up the billing for the services and products that you purchase, which may include card number, card type, cardholder name, billing address and expiration date. If you use automatic deduction (electronic funds transfer) to purchase services or products, we collect account information necessary to set up the billing and payment for the services and products that you purchase. This account information includes the account number, account type, account name and the ABA routing number of the financial institution where the account is located. 
+We collect credit card information necessary to set up the billing for the services and products that you purchase, which may include card number, card type, cardholder name, billing address and expiration date. If you use automatic deduction (electronic funds transfer) to purchase services or products, we collect account information necessary to set up the billing and payment for the services and products that you purchase. This account information includes the account number, account type, account name and the ABA routing number of the financial institution where the account is located.
 
 ## Requests for Further Information Regarding Products and Services
 
-When you request additional information or have a question regarding products or services offered on this site, we collect Personally Identifiable Information that the applicable service provider may need to contact you with a response to your request or inquiry. 
+When you request additional information or have a question regarding products or services offered on this site, we collect Personally Identifiable Information that the applicable service provider may need to contact you with a response to your request or inquiry.
 
 ## Surveys, Contests and Sweepstakes
 
-We may offer residents an opportunity to participate in surveys, contests or sweepstakes for the purpose of improving this site or promoting the use of this site. Information collected by us when you participate in a survey, contest or sweepstakes may include Personally Identifiable Information. You may at any time opt out of receiving e-mails or other notifications from us regarding surveys, contests or sweepstakes available through this site, by e-mailing us at [customerservice@whitefence.com](mailto:customerservice@whitefence.com). 
+We may offer residents an opportunity to participate in surveys, contests or sweepstakes for the purpose of improving this site or promoting the use of this site. Information collected by us when you participate in a survey, contest or sweepstakes may include Personally Identifiable Information. You may at any time opt out of receiving e-mails or other notifications from us regarding surveys, contests or sweepstakes available through this site, by e-mailing us at customerservice@whitefence.com.
 
 ## Links to Other Sites
 
@@ -42,7 +42,7 @@ This Web site may contain links to other sites that are not owned or controlled 
 
 ## Our Service Providers
 
-It is our intention to maintain reputable service providers to offer residents a variety of products and services on our site. All services and products throughout our site are provided by third parties and are identified and described as such. When choosing to purchase products or services from any service provider, you must take into consideration that you will be transacting business directly with this service provider. The information provided by you and collected by a service provider will be similar to information that would be provided pursuant to a purchase of such product or service by telephone or in person. 
+It is our intention to maintain reputable service providers to offer residents a variety of products and services on our site. All services and products throughout our site are provided by third parties and are identified and described as such. When choosing to purchase products or services from any service provider, you must take into consideration that you will be transacting business directly with this service provider. The information provided by you and collected by a service provider will be similar to information that would be provided pursuant to a purchase of such product or service by telephone or in person.
 
 ## Cookies
 
@@ -52,8 +52,8 @@ We do not track or collect information about your visits to other Internet sites
 
 Personally Identifiable Information collected on this site may be used to:
 
-  * Facilitate your orders for services and products 
-  * Send notifications 
+  * Facilitate your orders for services and products
+  * Send notifications
   * Promote our service and other available services and products
   * Respond to your questions or suggestions
   * Improve the quality of our site
@@ -62,7 +62,7 @@ Personally Identifiable Information collected on this site may be used to:
 
 ## Ordering Products and Services
 
-Information collected when you order a product or service is used to confirm and process that order, and may be reused to assist with the processing of your orders of other products and services. For example, if you desire to purchase multiple products and services using the same credit card, you will be able to submit your purchase orders without retyping your credit card information each time. In addition, information collected from you when you order products or services is used to process the billing and payment for these services through your credit card or automatic deduction (electronic funds transfer) account, if applicable. If you set up an ongoing billing and payment account with any of our service providers, these ongoing (usually monthly) charges to your credit card or automatic deduction account will be billed and collected directly by the service provider. 
+Information collected when you order a product or service is used to confirm and process that order, and may be reused to assist with the processing of your orders of other products and services. For example, if you desire to purchase multiple products and services using the same credit card, you will be able to submit your purchase orders without retyping your credit card information each time. In addition, information collected from you when you order products or services is used to process the billing and payment for these services through your credit card or automatic deduction (electronic funds transfer) account, if applicable. If you set up an ongoing billing and payment account with any of our service providers, these ongoing (usually monthly) charges to your credit card or automatic deduction account will be billed and collected directly by the service provider.
 
 ## Notifications and Promotions
 
@@ -74,7 +74,7 @@ We will not share your Personally Identifiable Information in ways different fro
 
 ## Responses to Your Questions or Suggestions
 
-We will use your e-mail address or telephone number to respond when you submit a question or suggestion, or request assistance with using or accessing this site. 
+We will use your e-mail address or telephone number to respond when you submit a question or suggestion, or request assistance with using or accessing this site.
 
 ## Improving the Quality of Our Sites
 
@@ -82,7 +82,7 @@ We may collect information about your computer (IP address, operating system and
 
 ## Sharing Your Personally Identifiable Information
 
-We do not sell, share or rent your Personally Identifiable Information to others in ways different from what is disclosed in this statement. 
+We do not sell, share or rent your Personally Identifiable Information to others in ways different from what is disclosed in this statement.
 
 ## Service Providers
 
@@ -90,22 +90,20 @@ When you order a product or service, we deliver Personally Identifiable Informat
 
 ## Site Partner
 
-A Site Partner will not have access to your credit card or automatic deduction account information, or other sensitive data that you may provide to service providers, such as your social security number, unless you provide such information to the Site Partner through other means. We may share information with a Site Partner regarding your use of this site and the products and services that you purchase from our service providers. Organizations and other persons interested in becoming channel partners or service providers of WhiteFence are requested to provide certain personally identifiable information, such as name, type of organization, address and contact information. WhiteFence use this information to evaluate channel partner and service provider candidates and reply to their inquiries. 
+A Site Partner will not have access to your credit card or automatic deduction account information, or other sensitive data that you may provide to service providers, such as your social security number, unless you provide such information to the Site Partner through other means. We may share information with a Site Partner regarding your use of this site and the products and services that you purchase from our service providers. Organizations and other persons interested in becoming channel partners or service providers of WhiteFence are requested to provide certain personally identifiable information, such as name, type of organization, address and contact information. WhiteFence use this information to evaluate channel partner and service provider candidates and reply to their inquiries.
 
 ## Legal Obligations
 
-If required by law, we may disclose information you have provided in connection with your use of this site or the purchase of products and services. We may also disclose information about someone who poses a threat to our interests (such as customer fraud) or whose activities could damage or bring harm to others. 
+If required by law, we may disclose information you have provided in connection with your use of this site or the purchase of products and services. We may also disclose information about someone who poses a threat to our interests (such as customer fraud) or whose activities could damage or bring harm to others.
 
-## My Profile 
+## My Profile
 
 The "My Profile" area of this site allows you to view, correct or delete information collected about you. If you delete information contained in "My Profile," such as credit card or contact information, you may not be able to fully enjoy many of the features and advantages available through our site. You may also inadvertently cancel pending service orders by deleting information required to process these pending orders. You may check the status of your service orders by visiting the "My Orders" area of this site. Information deleted from "My Profile" will be removed from all viewable screens on this site, but may remain in our archives.
 
 ## Notifications of Changes
 
-We reserve the right to modify or amend this Privacy and Security Statement at any time and for any reason. If we are going to use your Personally Identifiable Information in a manner materially different from that stated at the time of collection we will notify you via e-mail or other available means. You will have a choice as to whether or not we use your information in this materially different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post the notice we will also e-mail users, notifying them of the changes in our privacy practices. 
+We reserve the right to modify or amend this Privacy and Security Statement at any time and for any reason. If we are going to use your Personally Identifiable Information in a manner materially different from that stated at the time of collection we will notify you via e-mail or other available means. You will have a choice as to whether or not we use your information in this materially different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post the notice we will also e-mail users, notifying them of the changes in our privacy practices.
 
 ## Contacting Us
 
-If you need help using our service or have a question regarding the products or services offered by any of our service providers, please call our customer service line at 1-877-213-1053, write us at WhiteFence, Attn: Customer Service, 5333 Westheimer, Suite 1000, Houston, TX 77056, or e-mail us at [customerservice@whitefence.com](mailto:customerservice@whitefence.com). 
-
-_Last updated as of November 22, 2006._
+If you need help using our service or have a question regarding the products or services offered by any of our service providers, please call our customer service line at 1-877-213-1053, write us at WhiteFence, Attn: Customer Service, 5333 Westheimer, Suite 1000, Houston, TX 77056, or e-mail us at customerservice@whitefence.com.
