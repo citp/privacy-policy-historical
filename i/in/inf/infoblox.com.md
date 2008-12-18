@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoblox.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609113323id_/http%3A//www.infoblox.com/company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoblox.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218081109id_/http%3A//www.infoblox.com/company/privacy.cfm) for the most accurate reproduction.*
 
 # Infoblox Privacy Statement
 
