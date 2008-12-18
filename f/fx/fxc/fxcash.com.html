@@ -1,0 +1,824 @@
+<!--The following is the downloaded HTML source of the fxcash.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218011041id_/http%3A//fxcash.com/bottom_pages/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<link rel="favicon" href="/images/favicon.ico">
+<script src="/js/general.js" type="text/javascript"></script>
+
+<!----------------------------------------
+these are for fancy zoom on home page
+----------------------------------------->
+
+<script src="/js/FancyZoom.js" type="text/javascript"></script>
+<script src="/js/FancyZoomHTML.js" type="text/javascript"></script>
+
+<!----------------------------------------
+this is for the sliding login panel
+----------------------------------------->
+<script type="text/javascript" src="/js/jquery.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+
+    $(".btn-slide").click(function(){
+        $("#panel").slideToggle("slow");
+        $(this).toggleClass("active"); return false;
+    });
+
+
+});
+</script>
+<!----------------------------------------
+fading effect on screenshots
+----------------------------------------->
+<script type="text/javascript">
+//<![CDATA[
+
+var Header = {
+    // Let's write in JSON to make it more modular
+    addFade : function(selector){
+        $("<span class=\"fake-hover\"></span>").css("display", "none").prependTo($(selector));
+        // Safari dislikes hide() for some reason
+        $(selector+" a").bind("mouseenter",function(){
+            $(selector+" .fake-hover").fadeIn("slow");
+        });
+        $(selector+" a").bind("mouseleave",function(){
+            $(selector+" .fake-hover").fadeOut("slow");
+        });
+
+    }
+};
+
+$(function(){
+    Header.addFade("#header");
+});
+
+//]]>
+</script>
+
+<!----------------------------------------
+this is for tips on signup form
+----------------------------------------->
+<script type="text/javascript">
+function addLoadEvent(func) {
+  var oldonload = window.onload;
+  if (typeof window.onload != 'function') {
+    window.onload = func;
+  } else {
+    window.onload = function() {
+      oldonload();
+      func();
+    }
+  }
+}
+
+function prepareInputsForHints() {
+    var inputs = document.getElementsByTagName("input");
+    for (var i=0; i<inputs.length; i++){
+        // test to see if the hint span exists first
+        if (inputs[i].parentNode.getElementsByTagName("span")[0]) {
+            // the span exists!  on focus, show the hint
+            inputs[i].onfocus = function () {
+                this.parentNode.getElementsByTagName("span")[0].style.display = "inline";
+            }
+            // when the cursor moves away from the field, hide the hint
+            inputs[i].onblur = function () {
+                this.parentNode.getElementsByTagName("span")[0].style.display = "none";
+            }
+        }
+    }
+    // repeat the same tests as above for selects
+    var selects = document.getElementsByTagName("select");
+    for (var k=0; k<selects.length; k++){
+        if (selects[k].parentNode.getElementsByTagName("span")[0]) {
+            selects[k].onfocus = function () {
+                this.parentNode.getElementsByTagName("span")[0].style.display = "inline";
+            }
+            selects[k].onblur = function () {
+                this.parentNode.getElementsByTagName("span")[0].style.display = "none";
+            }
+        }
+    }
+}
+addLoadEvent(prepareInputsForHints);
+</script>
+
+
+
+<title>FXCASH- Your Slice of the Forex Pie.</title>
+
+<link rel="stylesheet" type="text/css">
+<style type="text/css" media="all">
+    @import "/css/typography.css";
+    @import "/css/layout.css";
+    @import "/js/css/slimbox.css";
+</style>
+
+<!--[if IE 6]>  <link href="/css/ie6_hacks.css" rel="stylesheet" type="text/css" /><![endif]-->
+<!--[if gte IE 7]>  <link href="/css/ie_hacks.css" rel="stylesheet" type="text/css" /><![endif]-->
+
+
+<!----------------------------------------
+this is for printing the terms and conditions page
+
+----------------------------------------->
+
+<script language="JavaScript">
+var gAutoPrint = true; // Tells whether to automatically call the print function
+
+function printSpecial()
+{
+    if (document.getElementById != null)
+    {
+    var html = '<HTML>\n<HEAD>\n';
+
+    if (document.getElementsByTagName != null)
+    {
+    var headTags = document.getElementsByTagName("head");
+    if (headTags.length > 0)
+    html += headTags[0].innerHTML;
+    }
+
+    html += '\n</HE>\n<BODY>\n';
+
+    var printReadyElem = document.getElementById("printReady");
+
+    if (printReadyElem != null)
+    {
+    html += printReadyElem.innerHTML;
+    }
+    else
+    {
+    alert("Could not find the printReady function");
+    return;
+    }
+
+    html += '\n</BO>\n</HT>';
+
+    var printWin = window.open("","printSpecial");
+    printWin.document.open();
+    printWin.document.write(html);
+    printWin.document.close();
+    if (gAutoPrint)
+    printWin.print();
+    }
+    else
+    {
+    alert("The print ready feature is only available if you are using an browser. Please update your browswer.");
+    }
+}
+
+
+
+function IsNumeric(strString)
+   //  check for valid numeric strings
+   {
+       var strValidChars = "0123456789.+";
+       var strChar;
+       var blnResult = true;
+
+       if (strString.length == 0) return false;
+
+       //  test strString consists of valid characters listed above
+       for (i = 0; i < strString.length && blnResult == true; i++)
+          {
+          strChar = strString.charAt(i);
+          if (strValidChars.indexOf(strChar) == -1)
+             {
+             blnResult = false;
+             }
+          }
+       return blnResult;
+   }
+
+function close_signup_home_message() {
+        document.getElementById('signup_home_message').style.display = "none";
+    }
+
+    function validateSmallSignupBoxFields(formId){
+        var form = document.getElementById(formId);
+        var triger = 0;
+        var validation_messages = Array();
+        for(i=0;i<form.elements.length;i++){
+            //alert(form.elements[i].name);
+
+            if(form.elements[i].id == "PreSignupFirstName"){
+
+                if('First Name' == form.elements[i].value  || form.elements[i].value == ''){
+
+                    validation_messages[validation_messages.length+1] = 'Si prega di inserire il proprio nome';
+                }else{
+                    if(form.elements[i].value.length < 2 || form.elements[i].value.lenght > 20){
+                        validation_messages[validation_messages.length+1] = 'Lunghezza errata del nome: min 2 / max 20';
+                    }
+                }
+            }
+
+            if(form.elements[i].id == "PreSignupLastName"){
+                if('Last Name' == form.elements[i].value || form.elements[i].value == ''){
+                    validation_messages[validation_messages.length+1] = 'Si prega di inserire il proprio cognome';
+                }else{
+                    if(form.elements[i].value.length < 2 || form.elements[i].value.lenght > 20){
+                        validation_messages[validation_messages.length+1] = 'Lunghezza errata del cognome: min 2 / max 20';
+                    }
+                }
+            }
+            if(form.elements[i].id == "PreSignupEmail"){
+                if(form.elements[i].id == form.elements[i].value || form.elements[i].value == ''){
+                    validation_messages[validation_messages.length+1] = 'Si prega di inserire il proprio indirizzo email';
+                }else{
+                    if(isValidEmail(form.elements[i].value) == false){
+                        validation_messages[validation_messages.length+1] = 'Si prega di inserire l\'email nel formato corretto';
+                    }
+                }
+            }
+
+            if(form.elements[i].id == "PreSignupPhone"){
+                if(form.elements[i].id == form.elements[i].value || form.elements[i].value == ''){
+                    validation_messages[validation_messages.length+1] = 'Si prega di inserire il proprio recapito telefonico';
+                }
+                else{
+
+                    if(((form.elements[i].value.length < 6) || (form.elements[i].value.length > 15)) || (IsNumeric(form.elements[i].value)== false)){
+                        validation_messages[validation_messages.length+1] = 'Il numero telefonico deve contenere solo caratteri numerici';
+                        validation_messages[validation_messages.length+1] = 'Lunghezza del numero telefonico errata: min 6 / max 15';
+                        break;
+                    }
+                }
+            }
+
+        }
+
+        var set_defaults_text = '<ol style="list-style-type:none;">';
+        for(i=0;i<validation_messages.length;i++){
+            if(validation_messages[i]){
+                set_defaults_text = set_defaults_text+'<li>'+validation_messages[i]+'</li>';
+            }
+        }
+        set_defaults_text = set_defaults_text + '<a onclick="close_signup_home_message()" class="signup_home_message_bottom" id="signup_home_message_bottom">Cliccare qui per chiudere</a>';
+        set_defaults_text = set_defaults_text+'</ol>';
+
+        if(validation_messages.length != 0){
+            document.getElementById('signup_home_message').style.display = "block";
+            document.getElementById('signup_home_message').innerHTML = set_defaults_text;
+            //document.getElementById('signup_home_message').textContent = set_defaults_text;
+            return false;
+        }else {
+            document.getElementById('signup_home_message').style.display = "none";
+            return true;
+        }
+    }
+
+
+//				function isValidEmail(str) {
+//				   return (str.indexOf(".") > 2) && (str.indexOf("@") > 0);
+//				}
+
+function isValidEmail(str) {
+    regexpemail = /^[\w-\.]+\@[\w\.-]+\.[a-zA-Z]{2,4}$/;
+    if (str == "")
+      return false;
+    else if (regexpemail.exec(str))
+       return true;
+    else
+     return false;
+}
+
+
+                function validate(){
+
+                        var s2fform = document.getElementById('send2friend');
+
+                        var yourNameErr = document.getElementById('yourNameErr');
+                        var yourEmailErr = document.getElementById('yourEmailErr');
+                        var friendsNamesErr = document.getElementById('friendsNamesErr');
+                        var friendsEmailsErr = document.getElementById('friendsEmailsErr');
+                        var emp_c = '_';
+
+                        var msg_1 = 'Please enter your name.';
+                        var msg_2 = 'Please enter your email.';
+                        var msg_3 = 'Please enter your email in correct format.';
+                        var msg_4 = 'Please enter your friend\'s name.';
+                        var msg_5 = 'Please enter your friend\'s email.';
+
+                        for(i=0;i < s2fform.elements.length;i++){
+                            if(s2fform.elements[i].name == 'yourName'){
+                                if(s2fform.elements[i].value.length == 0){
+                                    yourNameErr.textContent = msg_1;
+                                    yourNameErr.innerText = msg_1;
+                                    return false;
+                                }else{
+                                    yourNameErr.textContent = emp_c;
+                                    yourNameErr.innerText = emp_c;
+                                }
+                            }else{
+                                if(s2fform.elements[i].name == 'yourEmail'){
+                                    if(s2fform.elements[i].value.length == 0){
+                                        yourEmailErr.textContent = msg_2;
+                                        yourEmailErr.innerText = msg_2;
+                                        return false;
+                                    }else{
+                                        if(isValidEmail(s2fform.elements[i].value) == false){
+                                            yourEmailErr.textContent = msg_3;
+                                            yourEmailErr.innerText = msg_3;
+                                            return false;
+                                        }else {
+                                            yourEmailErr.textContent = emp_c;
+                                            yourEmailErr.innerText = emp_c;
+                                        }
+                                    }
+                                }else{
+                                    if(s2fform.elements[i].name == 'friendsNames[]'){
+                                        if(s2fform.elements[i].value.length == 0){
+                                            friendsNamesErr.textContent = msg_4;
+                                            friendsNamesErr.innerText = msg_4;
+                                            return false;
+                                        }else{
+                                            friendsNamesErr.textContent = emp_c;
+                                            friendsNamesErr.innerText = emp_c;
+                                        }
+                                    }else{
+                                        if(s2fform.elements[i].name == 'friendsEmails[]'){
+                                            if(s2fform.elements[i].value.length == 0){
+                                                friendsEmailsErr.textContent = msg_5;
+                                                friendsEmailsErr.innerText = msg_5;
+                                                return false;
+                                            }else{
+                                                if(isValidEmail(s2fform.elements[i].value) == false){
+                                                    friendsEmailsErr.textContent = msg_3;
+                                                    friendsEmailsErr.innerText = msg_3;
+                                                    return false;
+                                                }else{
+                                                    friendsEmailsErr.textContent = emp_c;
+                                                    friendsEmailsErr.innerText = emp_c;
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+
+                    s2fform.submit();
+                }
+
+                function shows2Form(){
+                    var s2f_div = document.getElementById('sendForm');
+
+                    if(s2f_div.style.display =='' | s2f_div.style.display == 'none'){
+                        s2f_div.style.display = 'block';
+                    }else{
+                        s2f_div.style.display = 'none';
+                    }
+                }
+
+            function validateLogin(){
+                var form = document.getElementById('login');
+
+                var valid_user = false;
+                var valid_pass = false;
+
+                for(i=0;i<form.elements.length;i++){
+                    if(form.elements[i].id == "login_username"){
+                        if( (form.elements[i].value != form.elements[i].alt) && (form.elements[i].value != '')){
+                            valid_user = true;
+                        }else{
+                            valid_user = false;
+                        }
+                    }
+
+                    if(form.elements[i].id == "login_pass"){
+
+                        if( (form.elements[i].value != form.elements[i].alt)  && (form.elements[i].value != '')){
+                            valid_pass = true;
+                        }else{
+                            valid_pass = false;
+                        }
+                    }
+                }
+                        validated = (valid_user && valid_pass);
+
+                        if(validated){
+                            form.submit();
+                        }else{
+                                document.getElementById('hint_elogin').style.display = 'block';
+                                setTimeout('hideLoginTip()',1500);
+                        }
+
+            }
+
+            function hideLoginTip(){
+                document.getElementById('hint_elogin').style.display = 'none';
+            }
+</script>
+</head>
+<!-- it|/kunden/homepages/41/d225316866/htdocs/fxcash/languages/ -->
+<body onload="setupZoom();prepareInputsForHints();"><div id="ZoomSpin" style="position: absolute; left: 10px; top: 10px; visibility: hidden; z-index: 525;"><img id="SpinImage" src="/images-global/zoom/zoom-spin-1.png"></div><div id="ZoomBox" style="position: absolute; left: 10px; top: 10px; visibility: hidden; z-index: 499;"><img src="/images-global/zoom/spacer.gif" id="ZoomImage" border="0" style="box-shadow: rgba(0, 0, 0, 0) 0px 5px 25px; display: block; width: 10px; height: 10px; cursor: pointer;"><div id="ZoomClose" style="position: absolute; left: -15px; top: -15px; visibility: hidden;"><img src="/images-global/zoom/closebox.png" width="30" height="30" border="0" style="cursor: pointer;"></div></div><div id="ZoomCapDiv" style="position: absolute; visibility: hidden; margin-left: auto; margin-right: auto; z-index: 501;"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><img src="/images-global/zoom/zoom-caption-l.png" width="13" height="26" style="display: block;"></td><td background="/images-global/zoom/zoom-caption-fill.png" id="ZoomCaption" valign="middle" style="font-size: 14px; font-family: Helvetica; font-weight: bold; color: rgb(255, 255, 255); text-shadow: rgb(0, 0, 0) 0px 2px 4px; white-space: nowrap;"></td><td><img src="/images-global/zoom/zoom-caption-r.png" width="13" height="26" style="display: block;"></td></tr></tbody></table></div>
+
+
+<div id="bodybg">
+
+<style type="text/css">
+
+a:focus {
+	outline: none;
+}
+#panel {
+	background: #e4f1f5;
+	height: 150px;
+	display: none;
+	width:550px;
+	border-left: 1px solid #333366;
+	border-right: 1px solid #333366;
+	background-image: url(/images/footer_spritz.gif);background-repeat:repeat-x;position:top;
+}
+.slide {
+	margin: 0;
+	padding: 0;
+	border-top: solid 4px #333366;
+	background: url(/images/btn-slide.gif) no-repeat center top;
+}
+.btn-slide {
+	background: url(/images/white-arrow.gif) no-repeat right -50px;
+	text-align: center;
+	width: 166px;
+	height: 33px;
+	padding: 10px 10px 0 0;
+	margin: 0 auto;
+	display: block;
+	font: bold 90%/100% Arial, Helvetica, sans-serif;
+	color: #fff;
+	text-decoration: none;
+}
+div#login_content a.btn-slide {
+	text-decoration:none;
+	color: #fff;
+}
+div#login_content a.btn-slide:hover {
+	text-decoration:none;
+	background:none;
+}
+.active {
+	background-position: right 12px;
+}
+</style>
+
+<div id="login_bg">
+<div id="login_content">
+<div id="panel">
+	<form method="post" action="https://secure.fxcash.com" name="login" id="login">
+	<table height="22" border="0" cellspacing="10" width="550" "="">
+	<tbody><tr>
+	<td colspan="3" valign="top">If you are already a FXCASH affiliate, Sign in:</td>
+	</tr>
+	<tr>
+		<td valign="top"> <input class="inputstyle" type="text" onclick="clearDefault(this)" alt="Email/Login" value="Email/Login" name="DL_AUTH_USERNAME" id="login_username" size="20" maxlength="150" autocomplete="none"></td>
+		<td valign="top"> <input class="inputstyle" type="password" onclick="clearDefault(this)" alt="Password" value="Password" name="DL_AUTH_PASSWORD" id="login_pass" size="20" maxlength="150" autocomplete="none"></td>
+		<td valign="bottom"><div class="clear" id="buttons"><a class="button_green" href="#" onclick="this.blur();validateLogin();"><span>Login</span></a></div><!-- buttons -->
+		<span id="hint_elogin">Please insert username and password.<span class="hint_pointer_elogin">&nbsp;</span></span>
+	</td>
+	</tr>
+	<tr>
+	<td colspan="3" valign="top"><div style="width:260px;margin-left:230px;margin-top:-5px;"><a href="https://secure.fxcash.com/forgot_password.html" target="_blank">forgot password?</a> / <a href="https://secure.fxcash.com/affiliate_signup.html">Sign up for FREE</a></div></td>
+
+	</tr>
+	</tbody></table>
+	</form>
+</div><!-- panel -->
+<p class="slide"><a href="#" class="btn-slide">Log In to Platform</a></p>
+</div><!-- login content-->
+</div><!-- login-->
+<!-- container of flags and nav --><div id="container">
+    <div id="banner">
+
+    <div id="logo"><a href="../index.php"><img src="/images/fxcash_logo.png"></a></div><!-- logo div -->
+
+    <div id="flag_seperation">
+	<div id="flags">
+	<ul id="flag_list">
+		<li><a href="/bottom_pages/privacy.php?lang=en"><img src="/images/flag_us.png"></a></li>
+		<li><a href="/bottom_pages/privacy.php?lang=it"><img src="/images/flag_it.png"></a></li>
+		<li><a href="/bottom_pages/privacy.php?lang=fr"><img src="/images/flag_fr.png"></a></li>
+		<li><a href="/bottom_pages/privacy.php?lang=de"><img src="/images/flag_de.png"></a></li>
+		<li><a href="/bottom_pages/privacy.php?lang=es"><img src="/images/flag_sp.png"></a></li>
+	</ul>
+	</div><!-- flags -->
+	</div><!-- flag seperation -->
+    <div id="top_nav">
+	<h1>Main Navigation</h1>
+
+	<a href="/index.php">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="/about/whyfxcash.php">Why FXCASH</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="/how/how.php">How it Works</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="/about/merchants.php">Merchants</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="/questions/contact.php">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="/questions/faq.php">FAQ</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://secure.fxcash.com/affiliate_signup.html">Sign up!</a>
+
+	</div><!-- top nav -->
+    </div><!-- banner -->
+    <div style="width:950px;height:165px;z-index:0;"><img src="/images/top_page_shade.png" style="z-index:0;"></div>
+
+    <div id="left">
+        <div id="side_nav">
+        
+
+<!--michael....use this for the style of on that page link
+<img style="padding-bottom:2px;" src="/images/bullet_red.png"><span class="onpage">Product Choice</span><br/>
+-->
+
+		<h4>Explore</h4>
+		<hr class="sidenav_line">
+		<a href="https://secure.fxcash.com/affiliate_signup.html">Sign Up</a><br>
+		<a href="/how/how.php">How it Works</a><br>
+		<a href="/about/whyfxcash.php">Why FXCASH?</a><br>
+		<a href="/questions/faq.php">FAQ</a><br>
+		<br>
+		<h4>About</h4>
+		<hr class="sidenav_line">
+		<a href="/about/whyfxcash.php">Why FXCASH?</a><br>
+		<a href="/about/whatisfx.php">What is Forex?</a><br>
+		<a href="/about/aboutus.php">About Us</a><br>
+		<a href="/about/partners.php">Partners</a><br>
+        </div><!-- side nav -->
+    </div><!-- left -->
+    <div id="content">
+        <div style="position:absolute;width:150px;height:100%;margin-left:550px;margin-top:9.7em;">
+            <div style="width:150px;position:relative;background-color:#c6eab1;border:1px solid #7bb54a;padding: .5em .5em .5em .5em;margin-right:auto;margin-left:auto;font-size:11px;">
+            <p><span id="align_icon"><img src="/images/icon_printer.gif"></span>&nbsp;<a href="javascript:void(printSpecial())">Print this Page</a></p>
+            </div><!--green box-->
+        </div><!--right_column-->
+            <div style="width:500px;" id="printReady">
+            <h2>FXCASH Pricacy Policy</h2>
+                <p>We are pleased to provide this privacy policy to inform you
+                  of our practices with respect to how we collect and use
+                  Personal Information (defined below) about visitors to the
+                  Site. We realize that the privacy of your personal
+                  information is very important and we will not treat this
+                  information in ways different from what is disclosed in this
+                  statement. By using this Site, you consent to the following
+                  terms.</p>
+
+                <h4>What We Collect</h4>
+                <p>The information collected on fxcash.com is Publisher only
+                  related personally identifiable information and
+                  non-personally identifiable information. Forex Media Ltd is
+                  the sole owner of all the data collected on this site.</p>
+                <p>Publishers wishing to join the Fxcash Publisher Network are
+                  required to provide personally identifiable information
+                  including name, address, phone number, e-mail address.</p>
+                <p>We may also collect certain non-personally identifiable
+                  information. This information is anonymous; it is not
+                  connected with your personal information. Types of
+                  non-personally identifiable information we may collect, not
+                  exhaustive:</p>
+                <ul>
+                  <li>The URL that you came to our site from.</li>
+                  <li>Your IP address at the time you visited our site.</li>
+                  <li>Pages from our site you visited and time you spent at
+                      each page.</li>
+                </ul>
+                <h4>What we do not collect:</h4>
+                <p>We do not collect ANY personally identifiable information
+                  originating from advertising served by our clients. FXCASH
+                  acts as a third party solution provider and has NO access
+                  neither process any sort of information that could identify
+                  in any shape or form clients and/or prospects of products
+                  being advertised through our systems.</p>
+                <h4>Cookies</h4>
+                <p>Cookies are small data files that a web site server stores on
+                  a computer. They contain information about activities
+                  performed by a user of the computer on the specific web site
+                  and characteristics of the computer at the time the user
+                  navigates the site. Examples: the IP address of the computer
+                  at the time the user navigates the site. As cookies are data
+                  files, not code, they cannot erase or read information from a
+                  computer's hard drive or from other sites the computer user
+                  visits. Cookies can only be read by the server of the site
+                  that set them, so that information about activities on one
+                  site can't be transferred through a cookie to another site.</p>
+
+                <p>We may store two types of cookies on your computer:</p>
+                <ul>
+                  <li>Session Cookies: These cookies are stored in the Internet
+                      browser and are deleted each time the browser is closed.
+                      We use session cookies mainly to facilitate site
+                      navigation: for example, once you log in to the site, you
+                      don't have to log in again during the same session; and
+                      to personalize site experience.</li>
+                  <li>Permanent Cookies: These cookies are stored on the hard
+                      drive of your computer. They are not exactly "permanent".
+                      Each cookie has different "life span" determined by the
+                      web site that sets the cookie. We may use permanent
+                      cookies to store your username and password (encrypted)
+                      on your computer if you opt to have it saved.</li>
+                  </ul>
+                <p>We may use both types of cookies for aggregate audience
+                  analysis: where our visitors and Publishers come from, which
+                  pages they visit, how much time they spend on the site, etc.
+                  No personal information is stored in the cookies.</p>
+                <h4>Use of the Information</h4>
+
+                <p>The Publisher personally identifiable information is used for
+                  business correspondence and for making payments to
+                  Publishers; it aids us to serve our Publishers in the most
+                  efficient and convenient way.</p>
+                <p>We use the non-personally identifiable information to enhance
+                  the functionality and usability of our site and to diagnose
+                  and prevent technical problems.</p>
+                <h4>Disclosure</h4>
+                <p>FXCASH will not share Publishers' personally identifiable
+                  information with any third parties except when required by
+                  law or as necessary to conduct business: to assist in normal
+                  and customary operational and statistical matters, or to
+                  provide administrative services such as billing and payments.
+                  If FXCASH or any of its assets are acquired by or merged with
+                  another entity, Publisher information will be one of the
+                  transferred assets.</p>
+                <h4>Links</h4>
+                <p>In connection with the Site, we may provide links to certain
+                  third party websites or referrals to certain third parties’
+                  products or services. If you choose to visit a third party’s
+                  website or use its products or services, please be aware that
+                  these third parties’ policies with respect to privacy, and
+                  not the fxcash privacy policy, will govern your activities
+                  and any information you disclose while interacting with these
+                  third parties. fxcash does not bear any responsibility for
+                  any actions or policies of such third party websites.</p>
+                <h4>Personal Information Updates</h4>
+
+                <p>You may change certain of your Personal Information we have
+                  on file for you at any time by visiting the Edit Account page
+                  on the Site and making your desired changes.</p>
+                <h4>Personal Information Security</h4>
+                <p>FXCASH uses both proprietary technology and methods in order
+                  to collect and store information. FXCASH has implemented
+                  technical and managerial procedures in order to protect
+                  Publishers' personal information from unauthorized access and
+                  against loss, misuse or alteration.</p>
+                <p>However, due to the open nature of the Internet, no data
+                  transmission can be guaranteed to be 100% secure. Therefore,
+                  fxcash cannot warrant that the information stored on our
+                  servers or transmitted to or from a user will be absolutely
+                  safe and fxcash disclaims any liability for any theft or
+                  loss, unauthorized access or damage, or interception of any
+                  data or communications.</p>
+                <p>Your information may be stored and processed in the United
+                  States or any other country in which fxcash or its
+                  affiliates, subsidiaries or agents maintain facilities, and
+                  by using the Fxcash.com site, you consent to any such
+                  transfer of information outside of your country.</p>
+                <h4>No Information Collected from Children</h4>
+                <p>In compliance with the&nbsp;Children's Online Privacy
+                  Protection Act (COPPA)&nbsp;we will never knowingly collect
+                  any personal information about children under the age of 13.
+                  If we obtain indication that we have collected personal
+                  information about a child under the age of 13, that
+                  information will be immediately deleted from our database.</p>
+
+                <h4>Changes to Privacy Policy</h4>
+                <p>By using the site you acknowledge your acceptance of our
+                  Privacy Policy. FXCASH reserves the right, at our only
+                  discretion to change, add or remove portions of this policy
+                  at any time. Please check this page periodically for changes.
+                  Your continued use of our site following the posting of
+                  changes to these terms will mean you accept those changes.</p>
+
+            <p></p><h4>Contact Information:</h4>Forex Media Ltd <br>57 Rue du Rhône<br>1211 Geneva <br>Switzerland <br>Telephone: +41225349228 <br>Facsimile: +41225948376<br>            <p></p>
+            <br><br>
+        </div><!-- unnamed holds text -->
+    </div><!-- content -->
+</div>
+<div id="footer">
+<div id="containerfooter">
+
+        <div id="sendForm">
+<form action="/send2friend/send2Friend.php" name="send2friend" id="send2friend" method="post">
+	<table border="0" width="430" background="#ccc" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td colspan="2"><b>Send this site to your friends email:</b><br><br></td>
+		</tr>
+		<tr>
+			<td width="300" valign="top"><span class="required">*</span>&nbsp;Your name</td>
+			<td valign="top"><input class="inputstyle" type="text" name="yourName" value="" size="30" maxlength="30" style="margin-top:0px;"></td>
+		</tr>
+		<tr>
+			<td colspan="2"><span class="validation" id="yourNameErr">&nbsp;</span></td>
+		</tr>
+			<tr><td valign="top"><span class="required">*</span>&nbsp;
+			Your email:</td>
+			<td valign="top"><input class="inputstyle" type="text" name="yourEmail" value="" size="30" maxlength="255" style="margin-top:0px;"></td>
+		</tr>
+		<tr>
+			<td colspan="2"><span class="validation" id="yourEmailErr">&nbsp;</span></td>
+		</tr>
+		<tr>
+			<td valign="top"><span class="required">*</span>&nbsp;
+			Your friend's name:</td>
+			<td width="382" valign="top"><input class="inputstyle" type="text" name="friendsNames[]" value="" size="30" maxlength="30" style="margin-top:0px;"></td>
+		</tr>
+		<tr>
+			<td colspan="2"><span class="validation" id="friendsNamesErr">&nbsp;</span></td>
+		</tr>
+		<tr>
+			<td valign="top"><span class="required">*</span>&nbsp;
+			Your friend's email:</td>
+			<td valign="top"><input class="inputstyle" type="text" name="friendsEmails[]" value="" size="30" maxlength="255" style="margin-top:0px;">
+			</td>
+		</tr>
+		<tr><td colspan="2"><span class="validation" id="friendsEmailsErr">&nbsp;</span></td></tr>
+		<tr>
+			<td colspan="2">
+				<div class="buttons" style="margin-left:270px;">
+					<input type="hidden" name="url" value="http://fxcash.com/bottom_pages/privacy.php">
+					<input type="hidden" name="mid" value="21">
+				<div class="clear" id="buttons"><a class="button_green" href="javascript:document.getElementById('contactForm').submit()" onclick="validate();this.blur();"><span>Send to Friend</span></a></div><!-- buttons -->
+			</div></td>
+		</tr>
+</tbody></table></form>
+</div><!-- send to friend form --><div id="footer_nav">
+
+<div id="footer_signup_button">
+<div class="clear" id="buttons"><a class="button_red" href="https://secure.fxcash.com/affiliate_signup.html" onclick="this.blur();"><span>Sign up FREE!</span></a></div><!--buttons-->
+</div><!--footer_signup_button-->
+
+<span><div id="footer_concept" class="stick fc"></div></span>
+<div id="footer_nav_1">
+		<h5>How it Works</h5>
+		<hr class="footernav_line">
+		<a href="/how/rp_trading.php">Revenue Programs</a><br>
+		<a href="/how/traffic_opt.php">Traffic Optimization</a><br>
+		<a href="/how/product_choice.php">Product Choice</a><br>
+		<a href="/how/send_traffic.php">Send Traffic</a><br>
+		</div><!-- footer nav 1-->
+
+
+		<div id="footer_nav_2">
+		<h5>About</h5>
+		<hr class="footernav_line">
+		<a href="/about/whyfxcash.php">Why FXCASH?</a><br>
+		<a href="/about/whatisfx.php">What is Forex?</a><br>
+		<a href="/about/aboutus.php">About Us</a><br>
+		<a href="/about/partners.php">Partners</a><br>
+		</div><!-- footer nav 2-->
+
+		<div id="footer_nav_3">
+		<h5>Questions</h5>
+		<hr class="footernav_line">
+		<a href="/questions/faq.php">FAQ</a><br>
+		<a href="/questions/contact.php">Contact</a><br>
+		<a href="https://secure.fxcash.com/affiliate_signup.html">Sign Up</a><br>
+
+		</div><!-- footer nav 3-->
+		
+		<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+			<script type="text/javascript">
+			var pageTracker = _gat._getTracker("UA-3530438-1");
+			pageTracker._initData();
+			pageTracker._trackPageview();
+		</script>
+        <div id="share">
+<br>
+<h4>Share FXCASH:</h4><br>
+<table width="400" border="0">
+	<tbody><tr>
+		<td width="45" valign="top">
+		<!-- AddThis Bookmark Button BEGIN -->
+		<script type="text/javascript">
+  		addthis_url    = location.href;
+  		addthis_title  = document.title;
+  		addthis_pub    = 'drrwingate';
+		</script><script type="text/javascript" src="http://s7.addthis.com/js/addthis_widget.php?v=12"></script>
+		<!-- AddThis Bookmark Button END -->
+		</td>
+		<td width="175">
+		<div class="clear" id="buttons"><a class="button_green" onclick="shows2Form();this.blur();return false;"><span>Send to Friend</span></a></div><!-- buttons -->
+		</td>
+	</tr>
+</tbody></table>
+
+
+
+
+<br><br>
+        <span id="align_icon"><img src="/images/icon_spam.gif"></span><a href="/bottom_pages/spam.php">Spam Policy</a>&nbsp;|&nbsp;
+    <a href="/bottom_pages/terms.php">Terms &amp; Conditions</a>&nbsp;|&nbsp;
+    <a href="/bottom_pages/privacy.php">Privacy Policy</a>&nbsp;|&nbsp;
+    <a href="/bottom_pages/forex-directory.php">Affiliate directory</a><!--<a href="merchant_terms.php">Merchants Terms & Conditions</a>-->
+<br><br><span class="copyright">©2008 FXCASH All Rights Reserved</span>
+        </div><!-- share fxcash and copyright and bottom links -->
+        </div><!-- footer nav -->
+
+</div><!-- container footer -->
+
+</div><!-- footer -->
+
+</div><!-- bodybg -->
+
+
+
+</body></html>
