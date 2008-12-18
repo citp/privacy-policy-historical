@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the excellentguide.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609165743id_/http%3A//www.excellentguide.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excellentguide.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218134058id_/http%3A//www.excellentguide.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Excellent Guide Privacy Policy
+# Excellentguide Privacy Policy
 
 Excellent Guide Web directory understands and respects your concerns about privacy. At the same time, we do ask that you provide information about yourself in order for us to understand your needs better and make your experience at Excellent Guide more valuable to you. 
 
