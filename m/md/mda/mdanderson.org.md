@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdanderson.org privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412065958id_/http%3A//www.mdanderson.org/misc/display.cfm%3Fid%3DDA14B8D3-85A5-11D4-B10B00508B603A14%26method%3DdisplayFull) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdanderson.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218161730id_/http%3A//www.mdanderson.org/misc/display.cfm%3Fid%3DDA14B8D3-85A5-11D4-B10B00508B603A14%26method%3DdisplayFull) for the most accurate reproduction.*
 
 # Privacy Policy - M. D. Anderson Cancer Center
 
