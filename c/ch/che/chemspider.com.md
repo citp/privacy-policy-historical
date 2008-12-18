@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the chemspider.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514211733id_/http%3A//www.chemspider.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemspider.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218075058id_/http%3A//www.chemspider.com/Privacy.aspx) for the most accurate reproduction.*
 
 # ChemSpider™ Privacy Policy
+
+| 
 
 March 13th, 2007
 
@@ -44,4 +46,6 @@ If you no longer wish to receive e-mail communications as a result of registerin
 
 If you have any questions, comments, or suggestions regarding our Privacy Policy or ChemSpider's use of your personal information, please contact us at _info-at-chemspider-dot-com_.
 
-The management of ChemSpider reserves the right to modify this Privacy Policy at any time. Changes to this policy will be posted on our web site, [www.chemspider.com](http://www.chemspider.com/).
+The management of ChemSpider reserves the right to modify this Privacy Policy at any time. Changes to this policy will be posted on our web site, [www.chemspider.com](http://www.chemspider.com/).  
+  
+---|---
