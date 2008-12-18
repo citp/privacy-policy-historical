@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the quomon.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623114203id_/http%3A//quomon.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quomon.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218131258id_/http%3A//quomon.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Quomon.com - Privacy
+# Quomon.com - Questions and Answers for IT & Graphic Design Professionals
+
+Privacy
 
 This privacy policy describes how we will handle the personal data that is provided by our users. We collect, use, store in data files, and share such personal data to help the Quomon website work and keep it safe (details are below). When you access Quomon's site and services you accept the conditions provided and detailed in this policy and grand your consent to Quomon in order to carry out the data processing provided herein. This policy is effective 05/20/2006.
 
