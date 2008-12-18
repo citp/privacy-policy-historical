@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ipaustralia.gov.au privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605033033id_/http%3A//www.ipaustralia.gov.au/about/site_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaustralia.gov.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218010240id_/http%3A//www.ipaustralia.gov.au/about/site_privacy.shtml) for the most accurate reproduction.*
 
 # IP Australia : About IP Australia > About this Site > Privacy Policy
 
-[Home](https://web.archive.org/web/20080605033033id_/http%3A//www.ipaustralia.gov.au/index.html) [About IP Australia](https://web.archive.org/web/20080605033033id_/http%3A//www.ipaustralia.gov.au/about/index.shtml) [About this site](https://web.archive.org/web/20080605033033id_/http%3A//www.ipaustralia.gov.au/about/index.shtml) Privacy Policy  
+[Home](https://web.archive.org/web/20081218010240id_/http%3A//www.ipaustralia.gov.au/index.html) [About IP Australia](https://web.archive.org/web/20081218010240id_/http%3A//www.ipaustralia.gov.au/about/index.shtml) [About this site](https://web.archive.org/web/20081218010240id_/http%3A//www.ipaustralia.gov.au/about/index.shtml) Privacy Policy  
   
  
 
