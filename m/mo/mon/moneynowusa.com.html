@@ -1,398 +1,352 @@
-<!--The following is the downloaded HTML source of the moneynowusa.com privacy policy that was archived on 2008-03-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080329145948id_/http%3A//www.moneynowusa.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moneynowusa.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218095636id_/http%3A//www.moneynowusa.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<title>MoneyNowUSA</title>
-<meta name="description" content="Offers personal cash advance loans including unsecured personal bad credit loans.">
-<meta name="keywords" content="personal loans, payday loans, credit loans, cash advance, bad credit personal loans, personal payday advance">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta http-equiv="Content-Language" content="en-us">
-<link type="text/css" rel="stylesheet" href="home_styles.css">
-<link type="text/css" rel="stylesheet" href="styles.css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="Personal cash advance loans wired to your account as fast as in 24 hours! Bad credit OK. Get approved in minutes for payday cash advances and unsecured personal loans now!">
+<link rel="shortcut icon" href="uploads/favicon.ico">
 
-<link rel="stylesheet" type="text/css" href="nav.css">
-<link rel="SHORTCUT ICON" href="http://www.moneynowusa.com/images/favicon.ico">
+<title>Privacy Policy :: Privacypolicy :: MoneyNowUSA Privacy Policy</title>
+<meta name="keywords" content="privacy policy ">
+<meta name="description" content="Privacy Policy Money Now! USA ">
+<link rel="stylesheet" type="text/css" href="script/css/moodalbox.css" media="screen">
+<link rel="stylesheet" type="text/css" href="script/css/valid_form.css" media="screen">
+<link rel="stylesheet" type="text/css" href="script/css/iefix.css" media="screen">
+<link rel="StyleSheet" type="text/css" href="script/css/smdform.css">
 
-
-<script language="javascript" type="text/javascript" src="menu.js"></script>
-
-<script type="text/javascript">
-			startList = function() {
-				if (document.all && document.getElementById) {
-					navRoot = document.getElementById("dropdown");
-					for (i=0; i<navRoot.childNodes.length; i++) {
-						node = navRoot.childNodes[i];
-						if (node.nodeName=="LI") {
-							node.onmouseover=function() {
-								this.className+=" over";
-							}
-							node.onmouseout=function() {
-								this.className=this.className.replace(" over", "");
-							}
-						}
-					}
-				}
-			}
-			window.onload=startList;
-		</script>
-<script type="text/javascript" src="http://www.google-analytics.com/urchin.js">
-</script>
-<script type="text/javascript">
-_uacct = "UA-856405-1";
-urchinTracker();
-</script>
-<script>
-function checkForm12() {
-  return true;
-</script>
-<script language="JavaScript1.2"><!--
-function computeLoan(f) {
-  var errorMessage = "";
-  var principal = stringToNumber(f.amount.value);
-  var rate      = stringToNumber(f.rate.value);
-  var years     = stringToNumber(f.term.value);
-  var addition  = stringToNumber(f.additional.value);
-  if (principal == null || isNaN(principal) || principal <= 0) { errorMessage += "Please enter a positive number for the loan amount.\n"; }
-  if (rate == null      || isNaN(rate)      || rate <= 0)      { errorMessage += "Please enter a positive number for the interest rate.\n"; }
-  if (years == null     || isNaN(years)     || years <= 0)     { errorMessage += "Please enter a positive number for the term.\n"; }
-  if (addition == null  || isNaN(addition)  || addition < 0)   { errorMessage += "Please enter 0 or a positive number for the additional monthly payment.\n"; }
-  if (errorMessage != "") {
-    alert(errorMessage);
-    setLoanCalcResults(f,"","","","");
-  }
-  else {
-    var period   = 12;
-    var interest = rate / (period * 100);
-    var periods  = years * period;
-    var periodPayment = addition + ( principal * ( interest / ( 1 - Math.pow( (1 + interest) , (0 - periods) ) ) ) );
-    periods = 0 - ( Math.log( 1 - (interest * principal / periodPayment) ) / Math.log(1 + interest) );
-    var interest_total = (periodPayment * periods) - principal;
-    setLoanCalcResults( f, periodPayment, interest_total, (interest_total / periods), (periods / period) );
-  }
-}
-function setLoanCalcResults(f, payment, interest, interest_avg, years) {
-  f.monthly_payment.value = (payment == "") ? "" : commify(Math.round(payment * 100) / 100);
-  f.total_interest.value = (interest == "") ? "" : commify(Math.round(interest * 100) / 100);
-  f.average_monthly_interest.value = (interest_avg == "") ? "" : commify(Math.round(interest_avg * 100) / 100);
-  f.num_of_years.value = (years == "") ? "" : commify(Math.round(years * 100) / 100);
-}
-function stringToNumber(numIn) {
-  var numOut = numIn.toString().replace(/[$\,\%\+]/g,'');
-  var decimalCount = 0;
-  var invalidCount = 0;
-  for (var i = 0; i < numOut.length; i++) {
-    var oneChar = numOut.charAt(i);
-    if (oneChar == ".") { decimalCount++; }
-    else if (oneChar < "0" || oneChar > "9") { invalidCount++; }
-  }
-  if (decimalCount > 1 || invalidCount > 0) { return null; }
-  else { return parseFloat(numOut); }
-}
-function commify(numIn) {
-  var parts = numIn.toString().split(".");
-  var temp  = "";
-  while(parts[0].length > 3) {
-    temp = "," + parts[0].match(/\d{3}$/)[0] + temp;
-    parts[0] = parts[0].replace(/\d{3}$/,"");
-  }
-  if (parts.length < 2) { parts[1] = "00"; }
-  while(parts[1].length < 2) { parts[1] += "0"; }
-  return parts[0] + temp + (parts.length == 2 ? "." + parts[1] : "");
-}
-//-->
-</script>
-
-<link type="text/css" rel="stylesheet" href="home_styles.css">
-<link type="text/css" rel="stylesheet" href="styles.css">
-<style type="text/css">
-<!--
-.quick-help-links    {font: bold 12px arial; color: #17324F; text-decoration:underline; padding: 15px 6px 34px 20px; line-height: 25px;}
-.quick-help-links A,
-.quick-help-links A:link,
-.quick-help-links A:visited  {font: bold 12px arial; color: #17324F; text-decoration:underline;}
-.quick-help-links A:hover {font: bold 12px arial; color: #17324F; text-decoration:underline;}
-
-.footer-links    {font: 12px arial; color: #006BFF; text-decoration:none; padding: 10px 5px 10px 5px; background-color: #E4E7EB;}
-.footer-links A,
-.footer-links A:link,
-.footer-links A:visited  {font: 11px arial; color: #006BFF; text-decoration:underline;}
-.footer-links A:hover {font: 11px arial; color: #006BFF; text-decoration:underline;}
+<link href="themes/moneynow/css/style.css" rel="stylesheet" type="text/css">
+<link href="themes/moneynow/product_menu.css" rel="stylesheet" type="text/css">
 
 
--->
-</style>
+<script type="text/javascript" src="script/js/sack.js"></script>
+<script type="text/javascript" src="script/js/js_dumper.js"></script>
+<script type="text/javascript" src="script/js/tree/simpletreemenu.js"></script>
+<!--[if IE 5]>
+<style>body {text-align: center;}#wrapper {text-align: left;}.menulist a {float: left; clear: both;}</style>
+<![endif]-->
+<!--[if lte IE 7]>
+<style>body {behavior: url("csshover.htc");} #wrapper, #column_wrapper, #footer, #masthead {zoom: 1;}</style>
+<![endif]-->
+
+
+
+
+
+
+
+
+
+<script language="javascript" type="text/javascript" src="themes/moneynow/js/swfobject.js"></script>
+
+<script type="text/javascript" src="themes/moneynow/js/jquery-latest.pack.js"></script>
+<script type="text/javascript" src="themes/moneynow/js/jquery.js"></script>
+<script type="text/javascript" src="themes/moneynow/js/pluginpage.js"></script>
+
+<script type="text/javascript" src="themes/moneynow/js/jquery.pngFix.js"></script>
+<script type="text/javascript" src="themes/moneynow/js/jquery.validate.js"></script>
+<script type="text/javascript" src="themes/moneynow/js/loalcalculator.js"></script>
+<script type="text/javascript" src="themes/moneynow/js/functions.js"></script>
+
+
+<!--[if IE]><link rel="stylesheet" type="text/css" href="themes/moneynow/css/ie-style.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" href="themes/moneynow/css/ie6-style.css" /><![endif]-->
+
+
+
 </head>
+<body>
 
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<table width="764" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td colspan="2"><table width="764" border="0" cellpadding="0" cellspacing="0" class="text">
-      <tbody><tr>
-        <td height="93" align="left" valign="top"><img src="images/dote_pxl.gif" width="1" height="1">
-            <div style="padding: 25px 0px 0px 20px;"><a href="index.html"><img src="images/logo-mnu.gif" width="312" height="52" border="0"></a></div></td>
-      </tr>
-      <tr>
-        <td><div id="container" style="position:relative">
-          <!-- BEGIN MAIN NAV -->
-          <div class="textoff"><a href="#skip">Skip Navigation</a></div>
-          <ul id="mainNav">
-            <li><a href="personalloans.html" style="border-top: 0px;">Personal<br>
-              Loans</a>
-                <ul>
-                  <li><a href="personalloans.html" style="border-top: 0px;">Personal Loans</a></li>
-                  <li><a href="CashAdvance.html">Payday Loans</a></li>
-                </ul>
-            </li>
-            <li><a href="CashAdvance.html">Cash<br>
-              Advance</a>
-                <ul>
-                  <li><a href="CashAdvance.html">Cash Advance</a></li>
-                  <li><a href="http://www.credit.com/r/card_secure/af=p41404&amp;ag=">Secured Credit Cards</a></li>
-                  <li><a href="bankaccount.html">Debt Cards Bad Credit</a></li>
-                </ul>
-            </li>
-            <li><a href="Car.html">Auto<br>
-              Loans</a>
-                <ul>
-                  <li><a href="auto-loan-refi.html" style="border-top: 0px;">Auto Refinance</a></li>
-                  <li><a href="bad-credit-carloan.html">Bad Credit Car Loan</a></li>
-                  <li><a href="new-carloan.html">New Car Loans</a>
-                          </li></ul>
-            </li>
-            <li><a href="MortgageLoans.html">Mortgage<br>
-              Loans</a>
-                <ul>
-                  <li><a href="refinance-loans.html">Refinance</a></li>
-                  <li><a href="home-equity-loans.html">Home Equity</a></li>
-                  <li><a href="purchase-loans.html">Purchase</a></li>
-                  <li><a href="debt-consolidation.html">Debt Consolidation</a></li>
-                </ul>
-            </li>
-            <li><a href="consol-ccards.html">Consolidation<br>
-              Loans</a>
-                <ul>
-                  <li><a href="consol-ccards.html" style="border-top: 0px;">Consolidate Credit Cards</a></li>
-                  <li><a href="consol-student-loans.html">Consolidate Student Loans</a></li>
-                  <li><a href="consol-mortgage-loans.html">Consolidate Mortgage Loans</a></li>
-                </ul>
-            </li>
-            <li><a href="creditreport.html">Credit<br>
-              Report</a>
-                <ul>
-                  <li><a href="creditreport.html" style="border-top: 0px;">Free Credit Report</a></li>
-                  <li><a href="3in1-credit-report.html">3 In One Credit Report</a></li>
-                  <li><a href="http://www.credit.com/r/ccard/af=p41404&amp;ag=">Credit Cards</a></li>
-                </ul>
-            </li><li><a href="loanguide.html">Loan<br>
-              Guide</a>
-                <ul>
-                  <li><a href="loanguide.html">Loan Guide</a></li>
-                  <li><a href="faq.html">Frequently Asked Questions</a></li>
-                  <li><a href="contact.html">Contact Us</a></li>
-                </ul>
-            </li><li><a href="index.html">Home</a> </li>
-            
-          </ul>
-          <div class="textoff"><a name="skip">End of Navigation</a></div>
-          <br clear="all">
-          <!-- END MAIN NAV -->
-        </div></td>
-      </tr>
-      <tr>
-        <td height="5" align="right" bgcolor="#71A0E1"><img src="images/dote_pxl.gif" width="1" height="1"><img src="images/w_dote.gif" width="5" height="5"></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-  
-  
-  
-  <tr>
-    <td colspan="2" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="text">
-      <tbody><tr>
-        <td width="193" valign="top"><br>
-            <table width="100%" border="0" cellpadding="0" cellspacing="0" class="text">
-              <tbody><tr bgcolor="#71A2E3">
-                <td width="1" height="1"><img src="images/dote_pxl.gif" width="1" height="1"></td>
-                <td><img src="images/dote_pxl.gif" width="1" height="1"></td>
-                <td><img src="images/dote_pxl.gif" width="1" height="1"></td>
-              </tr>
-              <tr>
-                <td bgcolor="#71A2E3"><img src="images/dote_pxl.gif" width="1" height="1"></td>
-                <td><table width="100%" border="0" cellpadding="0" cellspacing="0" class="b1text">
-                  <tbody><tr>
-                    <td height="20" background="images/bg.gif" class="bluetext">&nbsp;&nbsp;&nbsp;Choose from:</td>
-                  </tr>
-                  <tr>
-                    <td height="1" bgcolor="#71A2E3"><img src="images/dote_pxl.gif" width="1" height="1"></td>
-                  </tr>
-                  <tr>
-                    <td height="20">&nbsp;&nbsp;&nbsp;<a href="loanguide.html">Loan Guide</a></td>
-                  </tr>
-                  <tr>
-                    <td height="1" bgcolor="#71A2E3"><img src="images/dote_pxl.gif" width="1" height="1"></td>
-                  </tr>
-                  <tr>
-                    <td height="20">&nbsp;&nbsp;&nbsp;<a href="privacy.html">Frequently Asked Questions </a><a href="militaryloans.html"></a></td>
-                  </tr>
-                  <tr>
-                    <td height="1" bgcolor="#71A2E3"><img src="images/dote_pxl.gif" width="1" height="1"></td>
-                  </tr>
-                  <tr>
-                    <td height="20">&nbsp;&nbsp;&nbsp;<a href="contact.html">Contact Us</a> </td>
-                  </tr>
-                  <tr>
-                    <td height="1" bgcolor="#71A2E3"><img src="images/dote_pxl.gif" width="1" height="1"></td>
-                  </tr>
-                  <tr>
-                    <td height="20">&nbsp;</td>
-                  </tr>
-                  <tr>
-                    <td height="1" bgcolor="#71A2E3"><img src="images/dote_pxl.gif" width="1" height="1"></td>
-                  </tr>
-                  <tr>
-                    <td height="20">&nbsp;</td>
-                  </tr>
-                  <tr>
-                    <td height="1" bgcolor="#71A2E3"><img src="images/dote_pxl.gif" width="1" height="1"></td>
-                  </tr>
-                  <tr>
-                    <td height="20">&nbsp;</td>
-                  </tr>
-                </tbody></table></td>
-                <td width="1" bgcolor="#71A2E3"><img src="images/dote_pxl.gif" width="1" height="1"></td>
-              </tr>
-              <tr bgcolor="#71A2E3">
-                <td><img src="images/dote_pxl.gif" width="1" height="1"></td>
-                <td bgcolor="#71A2E3"><img src="images/dote_pxl.gif" width="1" height="1"></td>
-                <td bgcolor="#71A2E3"><img src="images/dote_pxl.gif" width="1" height="1"></td>
-              </tr>
-            </tbody></table>
-          <img src="images/dote_pxl.gif" width="1" height="2"><br>
-            <img src="images/content_cash.jpg" width="192" height="114"><br>
-            <br>
-            <img src="images/girl-banner.jpg" width="192" height="94"></td>
-        <td valign="top"><br>
-          <table width="100%" cellpadding="0" cellspacing="0" class="textb">
-            <tbody><tr>
-              <td width="20">&nbsp;</td>
-              <td width=""><div align="justify" class="textb"><strong>
-                  <div align="center">Privacy Policy  </div>
-                </strong>
-                      <table width="100%" border="0" cellpadding="0" cellspacing="0" class="textb">
-                        <tbody><tr>
-                          <td valign="top"><span style="font-size:14px;line-height:17px;">At <span class="boldtext">MoneyNowUSA.com</span> we promise not to contact you unless you request information. Our goal is to provide consumers free information on loans and loan products without pop-up’s and Spam. Money Now! USA is operated by Blue Global LLC 15849 North71st Street Scottsdale, AZ 85254. We can be reached by e-mail at support@MoneyNowUsa.com or you can Contact us by phone by calling 1- 877-263-1690</span><b><span style="font-size:14px;line-height:17px;">.<br>
-                            <br>
-                            </span></b><span style="font-size:14px;line-height:17px;">For each visitor to our Web page, our Web server automatically <br soft="">
-                            recognizes the consumer's domain name and e-mail address (where <br soft="">
-                            possible).<br>
-                            <br>
-                            We collect only the domain name, but </span><b><span style="font-size:14px;line-height:17px;">not the e-mail address of <br soft="">
-                            visitors</span></b><span style="font-size:14px;line-height:17px;"> to our Web page, the e-mail addresses of those who <br soft="">
-                            communicate with us via e-mail,aggregate information on what pages <br soft="">
-                            consumers access or visit, information volunteered by the consumer, <br soft="">
-                            such as survey information and/or site registrations.<br>
-                            <br>
-                            The information we collect is used to improve the content of our Web <br soft="">
-                            page, used by us to contact consumers for marketing purposes, not <br soft="">
-                            shared with other organizations for commercial purposes.<br>
-                            <br>
-                            <br>
-                            With respect to cookies: We do not set any cookies.<br>
-                            If you do not want to receive e-mail from us in the future, please let us <br soft="">
-                            knowby sending us e-mail at the above address.<br>
-                            <br>
-                            <br>
-                            From time to time, we make the e-mail addresses of those who access <br soft="">
-                            our site available to other reputable organizations whose products or <br soft="">
-                            services we think you might find interesting. If you do not want us to share <br soft="">
-                            your e-mail address with other companies or organizations, please let us <br soft="">
-                            know by calling us at the number provided above.<br>
-                            <br>
-                            From time to time, we make our customer e-mail list available to other <br soft="">
-                            reputable organizations whose products or services we think you might <br soft="">
-                            find interesting. If you do not want us to share your e-mail address with <br soft="">
-                            other companies or organizations, please let us know by calling us at the <br soft="">
-                            number provided above.<br>
-                            <br>
-                            If you supply us with your postal address on-line you will only receive the<br>
-                            information for which you provided us your address.<br>
-                            Persons who supply us with their telephone numbers on-line may receive <br soft="">
-                            telephone contact from us with information regarding new products and <br soft="">
-                            services or upcoming events. If you do not wish to receive such <br soft="">
-                            telephone calls, please let us know by sending us e-mail at the above <br soft="">
-                            address.<br>
-                            <br>
-                            Persons who supply us with their telephone numbers on-line may receive <br soft="">
-                            telephone contact from other reputable companies. You can, however, <br soft="">
-                            have your name put on our do-not-share list by , sending us e-mail at the <br soft="">
-                            above address.<br>
-                            <br>
-                            Please provide us with your name and phone number. We will be sure <br soft="">
-                            your name is removed from the list we share with other organizations &nbsp;<br>
-                            With respect to Ad Servers: We do not partner with or have special <br soft="">
-                            relationships with any ad server companies.<br>
-                            <br>
-                            From time to time, we may use customer information for new, <br soft="">
-                            unanticipated uses not previously disclosed in our privacy notice. &nbsp;If our <br soft="">
-                            information practices change at some time in the future we will post the <br soft="">
-                            policy changes to our Website to notify you of these changes and provide <br soft="">
-                            you with the ability to opt out of these new uses. &nbsp;If you are concerned <br soft="">
-                            about how your information is used, you should check back at our Web <br soft="">
-                            site periodically.<br>
-                            <br>
-                            Customers may prevent their information from being used for purposes <br soft="">
-                            other than those for which it was originally collected by e-mailing us at the <br soft="">
-                            above address.<br>
-                            <br>
-                            Upon request we provide site visitors with access to contact information <br soft="">
-                            (e.g.,name, address, phone number) that we maintain about them .<br>
-                            Consumers can access this information by e-mail us at the above <br soft="">
-                            address.<br>
-                            <br>
-                            Upon request we offer visitors no ability to have factual inaccuracies <br soft="">
-                            corrected in information that we maintain about them-<br>
-                            With respect to security: When we transfer and receive certain types of<br>
-                            sensitive information such as financial or health information, we redirect<br>
-                            visitors to a secure server and will notify visitors through a pop-up screen <br soft="">
-                            onour site, We have appropriate security measures in place in our <br soft="">
-                            physical facilities to protect against the loss, misuse or alteration of <br soft="">
-                            information thatwe have collected from you at our site.<br>
-                            <br>
-                            If you feel that this site is not following its stated information policy, you<br>
-                            may contact us at the above addresses or phone number, The DMA's <br soft="">
-                            Committee on Ethical Business Practices at mgoldberger@the-dma.org, <br soft="">
-                            state or local chapters of the Better Business Bureau, state or local <br soft="">
-                            consumer protection office, The Federal Trade Commission by phone at <br soft="">
-                            202.FTC-HELP (202.382.4357)<br>
-                          or electronically at http://www.ftc.gov/ftc/complaint.htm.<br>
-                          </span></td>
-                        </tr>
-                      </tbody></table>
-              </div></td>
-              <td width="10">&nbsp;</td>
-            </tr>
-          </tbody></table></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top"><img src="images/spacer.gif" width="1" height="15">
-      <table width="100%" border="0" cellpadding="0" cellspacing="0" class="text">
-        <tbody><tr>
-          <td><div align="center" class="footer-links"><a href="index.html">Home</a><span class="space"> |</span> <a href="loanguide.html">Loan Guide</a> <span class="footer-links-space">|</span> <a href="creditreport.html">Free Credit Report</a> | <a href="http://www.credit.com/r/card_secure/af=p41404&amp;ag=">Secured Credit Cards</a> | <a href="creditrepair.html">Credit Repair</a> | <a href="personalloans.html">Personal Loans</a> | <a href="Car.html">Car Loans</a> | <a href="MortgageLoans.html">Mortgage Loans</a> | <a href="privacy.html">Privacy Policy</a> | <a href="contact.html">Contact Us</a></div>          
-          &nbsp;</td>
-          <td width="5">&nbsp;</td>
-        </tr>
-    </tbody></table></td>
-  </tr>
-  <tr>
-    <td colspan="2"></td>
-  </tr>
-  <tr>
-    <td><div align="left" style="font: 10px tahoma; color: #000000; text-decoration:none; padding: 1px 0px 5px 13px;">Money Now! USA - No Hassle Personal Loans</div></td>
-    <td><div align="right" style="font: 10px tahoma; color: #3399FF; text-decoration:none; padding: 1px 13px 5px 0px;">2006-2007 Money Now! USA</div></td>
-  </tr>
+
+<div class="wrapper"> <!-- body wrapper -->
+	
+<div id="header">
+	<div class="inner">
+		<a href="index.php?language=en" id="logo" title="Money Now USA"><span></span>Money Now USA</a>
+    	<div id="quick-contact">
+        	<p><span class="phone">(877) 510-5000</span><a href="http://webhost.lightspoke.com/moneynowusa/contact.jsp" class="email">support@moneynowusa.com</a></p>
+        </div>
+
+    </div>
+    
+    <ul id="mainnav">
+ 	<li id="mainnav-personal-loans"><a href="http://www.moneynowusa.com/personalloans.html">Personal Loans</a>
+<div class="sub">
+<ul>
+<li class=""><a href="http://www.moneynowusa.com/bad-credit-personal-loans.html">Bad Credit Personal Loans</a></li>
+<li class=""><a href="http://www.moneynowusa.com/Fair-Credit-Personal-Loans.html">Fair Credit Personal Loans</a></li>
+<li class=""><a href="http://www.moneynowusa.com/Good-Credit-Personal-Loans.html">Good Credit Personal Loans</a></li>
+<li class=""><a href="http://www.moneynowusa.com/military-loans.html">Military Loans</a></li>
+<li class=""><a href="http://www.moneynowusa.com/Personal-Loans-For-Homeowners.html">Personal Loans For Homeowners</a></li>
+<li class=""><a href="http://www.moneynowusa.com/personal-loans-facts.html">Personal Loans Facts</a></li>
+</ul></div>
+</li>
+<li id="mainnav-cash-advance"><a href="http://www.moneynowusa.com/CashAdvance.html">Cash Advance</a>
+<div class="sub">
+<ul>
+<li class=""><a href="https://www.MoneyNowUSA.com/apply-for-cash-advance.html   ">Apply For A Cash Advance</a></li>
+<li class=""><a href="http://www.moneynowusa.com/CashAdvance.html">$1,000 Cash Advance Loans</a></li>
+<li class=""><a href="bankaccount.html">Debit Cards Bad Credit</a></li>
+<li class=""><a href="http://www.moneynowusa.com/bankaccount.html">Bank Accounts 100% Approved</a></li>
+<li class=""><a href="http://www.moneynowusa.com/prepaid-debt-card.html">Prepaid Debit Card</a></li>
+<li class=""><a href="http://www.moneynowusa.com/pay-day-loan-facts.html">Pay Day Loan Facts</a></li>
+</ul></div>
+</li>
+<li id="mainnav-auto-loans"><a href="http://www.moneynowusa.com/auto-loans.html">Auto Loans</a>
+<div class="sub">
+<ul>
+<li class=""><a href="http://www.moneynowusa.com/Car.html">Apply For An Auto Loan</a></li>
+<li class=""><a href="http://www.moneynowusa.com/bad-credit-carloan.html">Bad Credit Auto Loan</a></li>
+<li class=""><a href="http://www.moneynowusa.com/auto-loan-refi.html">Refinance Auto Loans</a></li>
+<li class=""><a href="http://www.moneynowusa.com/new-carloan.html">New Car Loans</a></li>
+<li class=""><a href="http://www.moneynowusa.com/private-auto-loans.html">Private Auto Loans</a></li>
+<li class=""><a href="http://www.moneynowusa.com/auto-title-loans.html">Auto Title Loans</a></li>
+<li class=""><a href="http://www.moneynowusa.com/auto-loan-facts.html">Auto Loan Facts</a></li>
+</ul></div>
+</li>
+<li id="mainnav-student-loans"><a href="http://www.moneynowusa.com/student-loans.html">Students Loans</a>
+<div class="sub">
+<ul>
+<li class=""><a href="http://www.moneynowusa.com/apply-for-student-loans.html">Apply For A Student Loan </a></li>
+<li class=""><a href="http://www.dpbolvw.net/click-2097394-10552094">Private Student Loans</a></li>
+<li class=""><a href="http://www.moneynowusa.com/student-loan-refinance.html">Student Loan Refinance</a></li>
+<li class=""><a href="http://www.moneynowusa.com/stafford-loans.html">Stafford Loans</a></li>
+<li class=""><a href="http://www.moneynowusa.com/plus-loans.html">Plus Loans</a></li>
+<li class=""><a href="http://www.moneynowusa.com/consol-student-loans.html">Consolidate Student Loans</a></li>
+<li class=""><a href="http://www.moneynowusa.com/grad-plus-loans.html">Grad PLUS Loans</a></li>
+<li class=""><a href="http://www.moneynowusa.com/scholarships-and-grants.html">Scholarships &amp; Grants</a></li>
+<li class=""><a href="http://www.moneynowusa.com/student-loan-facts.html">Student Loan Facts</a></li>
+<li class=""><a href="http://www.jdoqocy.com/click-2097394-10577602">Student Loan Finder</a></li>
+</ul></div>
+</li>
+<li id="mainnav-debt-consolidation"><a href="http://www.moneynowusa.com/debt-consolidation.html">Debt Consolidation</a>
+<div class="sub">
+<ul>
+<li class=""><a href="http://www.moneynowusa.com/consol-ccards.html">Debt Relief</a></li>
+<li class=""><a href="http://www.moneynowusa.com/debt-settlement.html">Debt Settlement</a></li>
+<li class=""><a href="http://www.moneynowusa.com/debt-consolidation-loans.html">Debt Consolidation Loans</a></li>
+<li class=""><a href="http://www.moneynowusa.com/debt-consultation.html">Debt Consultation</a></li>
+<li class=""><a href="http://www.moneynowusa.com/hard-money-loans.html">Tax Debt Relief</a></li>
+<li class=""><a href="http://www.moneynowusa.com/debt-consolidation-facts.html">Debt Consolidation Facts</a></li>
+</ul></div>
+</li>
+<li id="mainnav-credit-cards"><a href="http://www.moneynowusa.com/credit-cards.html">Credit Cards</a>
+<div class="sub">
+<ul>
+<li class=""><a href="http://www.moneynowusa.com/apply-for-credit-card.html">Apply For A Credit Card</a></li>
+<li class=""><a href="http://www.moneynowusa.com/secured-credit-cards.html">Secured Credit Cards</a></li>
+<li class=""><a href="http://www.moneynowusa.com/prepaid-debt-cards.html">Prepaid Debt Cards</a></li>
+<li class=""><a href="http://www.credit.com/r/card_student/af=p41404&amp;ag=">Student Credit Cards</a></li>
+<li class=""><a href="http://www.credit.com/r/card_reward/af=p41404&amp;ag=">Cards For Good Credit</a></li>
+<li class=""><a href="http://www.credit.com/r/Orchard-Bank-Classic-MasterCards/af=p41404&amp;ag=">Cards For Fair Credit</a></li>
+<li class=""><a href="http://www.credit.com/r/card_subprime/af=p41404&amp;ag=">Cards For Bad Credit</a></li>
+<li class=""><a href="http://www.moneynowusa.com/cards-for-no-credit.html">Cards For No Credit</a></li>
+<li class=""><a href="http://www.moneynowusa.com/credit-card-facts.html">Credit Card Facts</a></li>
+<li class=""><a href="http://www.moneynowusa.com/creditcards.html">Credit Card Finder</a></li>
+</ul></div>
+</li>
+<li id="mainnav-credit-reports"><a href="http://www.moneynowusa.com/apply-for-credit-report.html">Credit Reports</a>
+<div class="sub">
+<ul>
+<li class=""><a href="http://www.moneynowusa.com/apply-for-credit-report.html">Apply For A Credit Report </a></li>
+<li class=""><a href="http://www.moneynowusa.com/creditreport.html">Credit Reports</a></li>
+<li class=""><a href="http://www.moneynowusa.com/three-In-one-credit-report.html">3-In-1 Credit Report</a></li>
+<li class=""><a href="http://www.credit.com/r/identity-guard/af=p41404&amp;ag=">Free Credit Report</a></li>
+<li class=""><a href="http://www.ecreditrepair.com/rotation.asp?RefId=146192">Credit Repair</a></li>
+<li class=""><a href="http://www.moneynowusa.com/credit-monitoring.html">Credit Monitoring</a></li>
+<li class=""><a href="http://www.moneynowusa.com/credit-consultation.html">Credit Consultation</a></li>
+<li class=""><a href="http://www.moneynowusa.com/credit-report-facts.html">Credit Report Facts</a></li>
+</ul></div>
+</li>
+<li id="mainnav-home-loans"><a href="http://www.moneynowusa.com/home-loans.html">Home Loans</a>
+<div class="sub">
+<ul>
+<li class=""><a href="http://www.moneynowusa.com/apply-for-a-home-loan.html">Apply For A Home Loan</a></li>
+<li class=""><a href="http://www.moneynowusa.com/refinance-loans.html">Refinance</a></li>
+<li class=""><a href="http://www.moneynowusa.com/purchase-loans.html">Purchase</a></li>
+<li class=""><a href="http://www.moneynowusa.com/home-equity-loans.html">Home Equity Loans</a></li>
+<li class=""><a href="http://www.moneynowusa.com/Reverse-Mortgages.html">Reverse Mortgage</a></li>
+<li class=""><a href="http://www.moneynowusa.com/bad-credit-home-loans.html">Bad Credit Home Loans</a></li>
+<li class=""><a href="http://www.moneynowusa.com/foreclosure.html">Foreclosure Help</a></li>
+<li class=""><a href="http://www.moneynowusa.com/personal-loans-for-home-owners.html">Personal Loans for HomeOwners</a></li>
+<li class=""><a href="http://www.moneynowusa.com/Home-price-estimate.html">Home Value Estimator </a></li>
+<li class=""><a href="http://www.moneynowusa.com/home-loan-facts.html">Home Loan Facts</a></li>
+</ul></div>
+</li>
+<li id="mainnav-loan-guide"><a href="http://www.moneynowusa.com/loan-guide.html">Loan Guide</a>
+<div class="sub">
+<ul>
+<li class=""><a href="http://www.moneynowusa.com/faq.html">Frequently Asked Questions</a></li>
+<li class=""><a href="http://www.moneynowusa.com/loanguide.html">Loan Guide</a></li>
+<li class=""><a href="http://www.moneynowusa.com/business.html">How It Works</a></li>
+<li class=""><a href="http://www.moneynowusa.com/quick-loan-finder.html">Quick Loan Finder</a></li>
+<li class=""><a href="http://www.moneynowusa.com/loan-comparison-chart.html">Loan Comparison </a></li>
+<li class=""><a href="http://www.moneynowusa.com/loan-facts.html">Loan Facts</a></li>
+</ul></div>
+</li>
+<li id="mainnav-learning-center"><a href="learning-center.html">Learning Center</a>
+<div class="sub">
+<ul>
+<li class=""><a href="http://www.moneynowusa.com/articles.html">Articles</a></li>
+</ul></div>
+</li>
+
+    
+    </ul>
+</div> 
+
+
+
+<!---->
+<div id="content">
+
+
+
+
+	<div id="content">
+<div id="flashcontent"><a href="https://www.money4nowusa.com/LFpost.aspx?LF=e2c59575-9ef6-dc11-8c8c-00145e7aa2f0&amp;aid=LF175"><img src="http://www.moneynowusa.com/uploads/images/topimg/generic1.jpg" alt="Cash Advance Apply now" title="Apply Now!" width="700" height="166"></a></div>
+<div id="maincontent">
+<h1>Privacy Policy</h1>
+<p>At MoneyNowUSA.com we promise not to contact you unless you request information. Our goal is to provide consumers free information on loans and loan products without pop-up’s and Spam. Money Now! USA is operated by Blue Global LLC located at 7652 East Greenway Road Suite 103 Scottsdale, AZ 85260. If you have a question comment or suggestion we can be reached by e-mail at <a href="mailto:http://www.ftc.gov/ftc/complaint.htm">chris@MoneyNowUSA.com</a>.<br><br>For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).<br><br>We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail,aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.<br><br>The information we collect is used to improve the content of our Web page, used by us to contact consumers for marketing purposes, not shared with other organizations for commercial purposes.<br><br>With respect to cookies: We do not set any cookies. If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.<br><br>From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.<br><br>From time to time, we make our customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.<br><br>If you supply us with your postal address on-line you will only receive the information for which you provided us your address. Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address.<br><br>Persons who supply us with their telephone numbers on-line may receive telephone contact from other reputable companies. You can, however, have your name put on our do-not-share list by sending us e-mail at the above address.<br><br>Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.<br><br>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.<br><br>Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.<br><br>Upon request we provide site visitors with access to contact information (e.g.,name, address, phone number) that we maintain about them. Consumers can access this information by e-mail at the above address.<br><br>Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them- With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.<br><br>If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at mgoldberger@the-dma.org, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <a target="_blank" href="http://www.ftc.gov/ftc/complaint.htm">http://www.ftc.gov/ftc/complaint.htm</a>.</p>
+</div>
+<!-- end: maincontent -->
+<div class="sidebar"><a href="https://www.money4nowusa.com/LFpost.aspx?LF=e2c59575-9ef6-dc11-8c8c-00145e7aa2f0&amp;aid=LF175"><img src="uploads/images/topright/generic.jpg" alt="Approval in 60 seconds, Apply now!" title="Apply now!" class="topright"></a> <img src="uploads/images/apply-steps.gif"></div>
+</div>
+
+
+
+
+
+
+	<div id="tellfriend" style="display:none">
+		<h2>Tell a Friend</h2> 
+	    <img onclick="document.getElementById('tellfriend').display = 'none';" src="uploads/images/tellfriend-close.gif" alt="close" class="close">
+	    <form action="#">
+	    <ul class="tell-friend">
+	    	<li><label for="ftfname">Your Name:</label><input class="txt-field" name="ftfname" id="ftfname"></li>
+	    	<li><label for="ftfemail">Your Email:</label><input class="txt-field" name="ftfemail" id="ftfemail"></li>
+	    	<li><label for="ftffriendsname">Friend's Name:</label><input class="txt-field" name="ftffriendsname" id="ftffriendsname"></li>
+	    	<li><label for="ftffriendsemail">Friend's Email:</label><input class="txt-field" name="ftffriendsemail" id="ftffriendsemail"></li>      
+	    	<li class="message"><label for="ftfmessage">Message:</label><textarea class="textarea" name="ftfmessage" id="ftfmessage" cols="5" rows="5"></textarea></li> 
+	        <li class="submit"><input type="image" src="uploads/images/btn-friend-submit.gif" value="Submit" class="submit" onclick="submitTellAFriend(); return false;"></li>                        
+	    </ul> 
+	    </form>  
+	</div>
+
+</div>	 <!-- end: content -->
+</div>  <!-- end: body wrapper --><div id="footer">
+<div class="wrapper">
+	<div class="side">
+   	  <p class="copy">© 2006-2008 Money Now! USA All Rights Reserved. Design by <a href="http://www.ciplex.com">CIPLEX</a>.</p>
+    </div>
+    
+    
+	<ul id="footernav">
+            <li class=" active"><a href="privacy.html">Privacy Policy</a></li>            
+            <li><a href="contact.html">Contact Us</a></li>
+            <li><a href="affiliates.html">Affiliates</a></li>
+            <li><a href="loan-finder.html">Loan Finder</a></li>     
+            <li><a href="index.php?section=site_map">Sitemap</a></li>            
+            <li><a href="loan-calculator.html">Loan Calculator</a></li>  
+            <li><a href="moreproducts.html">More Products</a></li>   
+            <li><a href="#" class="tellfriend">Tell a Friend  </a></li>    
+            <li><a href="index.html">Home</a></li> 
+            <li><a href="resources.html">Resources</a></li> 
+            <li><a href="resources2.html">Resources2</a></li> 
+                           
+     </ul>
+      <div class="verisign">
+<table width="135" border="0" cellpadding="0" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
+<tbody><tr>
+<td width="135"><script src="https://seal.verisign.com/getseal?host_name=www.moneynowusa.com&amp;size=M&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
+<a href="http://www.verisign.com/ssl-certificate/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px; ">ABOUT SSL CERTIFICATES</a></td>
+</tr>
 </tbody></table>
+</div>
+		<div id="language-block">
+					 <!--<div id=language-one>-->English<img src="uploads/flags/png/us.png" border="0" alt="English" title="English"> <!--</div>-->					<!--<div id=language-one>--><a href="index.php?language=es">Spanish<span><img src="uploads/flags/png/es.png" border="0" alt="Spanish" title="Spanish"> </span></a> <!--</div>-->		   
+        </div>
+ 
+</div> 
 
 
-<!-- text below generated by server. PLEASE REMOVE --><!-- Counter/Statistics data collection code --><script language="JavaScript" src="http://us.js2.yimg.com/us.js.yimg.com/lib/smb/js/hosting/cp/js_source/whv2_001.js"></script><script language="javascript">geovisit();</script><noscript><img src="http://visit.webhosting.yahoo.com/visit.gif?us1206802788" alt="setstats" border="0" width="1" height="1"></noscript></body></html>
+
+<!-- end: footer wrapper -->
+</div>  <!-- end: footer -->
+
+ 
+
+<script type="text/javascript">
+
+	var menuDiv = document.getElementById('footernav');
+	var elements = menuDiv.getElementsByTagName("li");
+	var aElements = menuDiv.getElementsByTagName("a");
+	var cont = false;
+	for(i=0; i < aElements.length; i++) {
+
+		if(aElements[i].href == window.location.href) {
+			elements[i].className = elements[i].className + ' active';
+			cont = true;
+		}
+
+		
+	}
+
+
+</script>
+
+<script type="text/javascript">
+
+	var menuNav = document.getElementById('mainnav');
+	var Lielements = menuNav.getElementsByTagName("li");
+	var Aelements = menuNav.getElementsByTagName("a");
+	var cont = false;
+
+	for(i=0; i < Lielements.length; i++) {
+
+		if(Aelements[i].href == window.location.href ) {
+			Lielements[i].className = Lielements[i].className + ' active';
+			Lielements[i].parentNode.parentNode.parentNode.className = Lielements[i].parentNode.parentNode.parentNode.className + ' active';
+			cont = true;
+		} 
+	}
+
+</script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-317480-18");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+
+<script type="text/javascript">
+
+var ajax = new sack();
+
+
+function submitTellAFriend() {
+	ajax.method = "GET";
+	ajax.setVar('section', 'send_to_friend');
+	ajax.setVar('subsection', 'send_mail');
+	ajax.setVar('ftfname', document.getElementById('ftfname').value);
+	ajax.setVar('ftfemail', document.getElementById('ftfemail').value);
+	ajax.setVar('ftffriendsname', document.getElementById('ftffriendsname').value);
+	ajax.setVar('ftffriendsemail', document.getElementById('ftffriendsemail').value);
+	ajax.setVar('ftfmessage', document.getElementById('ftfmessage').value);
+	ajax.requestFile = 'index.php';	// Specifying which file to get
+	ajax.onCompletion = createContent;	// Specify function that will be executed after file has been found
+	ajax.runAJAX();		// Execute AJAX function
+}
+function createContent() {
+	eval(ajax.response);	// Executing the response from Ajax as Javascript code
+}
+
+</script>
+
+
+</body></html>
