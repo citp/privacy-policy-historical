@@ -1,0 +1,225 @@
+<!--The following is the downloaded HTML source of the postbox-inc.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218061804id_/http%3A//www.postbox-inc.com/company/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us"><head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8">
+   <title>Postbox | Privacy Policy</title>
+   <link rel="icon" href="/favicon.ico" type="image/x-icon">
+   <link rel="icon" href="/images/template/favicon.png" type="image/png">
+   <meta name="author" content="">
+
+   <!--- Blueprint CSS Framework -->
+   <link rel="stylesheet" href="/css/blueprint/screen.css" type="text/css" media="screen, projection">
+   <link rel="stylesheet" href="/css/blueprint/lib/grid.css" type="text/css" media="screen, projection">
+   <link rel="stylesheet" href="/css/blueprint/print.css" type="text/css" media="print">
+
+   <!-- Homepage CSS -->
+   <link rel="stylesheet" href="/css/site.css" type="text/css" media="screen, projection">
+</head> 
+ 
+<body id="company" class="
+home"> 
+
+<div class="container">
+   <div class="column span-6 prepend-3 append-1 first">
+     <a id="logo" href="/">Post Box</a>
+   </div>
+   <div class="column span-7 prepend-3 append-3 last" id="site_navigation">
+     <ul class="clear_fix">  
+     	<li>
+				<a class="company" href="/company/">Company</a>
+			</li>
+     	<li>
+				<a class="home" href="/">Home</a>  
+			</li>
+     </ul>
+   </div>
+   <div class="column span-17 prepend-3 append-3 first last">
+    <hr>
+   </div>
+   <div id="sidebar" class="column span-5 prepend-3 first">  
+			
+<!--
+<ul id="sidebar_navigation" class="n1">
+	<li>
+		<a class="n1" href="/company/">About Us</a>
+	</li>
+</ul>
+-->
+		 <div id="sidebar_content">  
+      
+<blockquote class="no_top_space">The best way to learn more about <strong>Postbox</strong> is to try it out.</blockquote>	
+<div class="box">
+	<p>
+	 	Please enter your email address below and we'll let you know when it's released.
+	</p>
+	<!-- borrowed from http://www.captain.at/howto-ajax-form-post-get.php -->
+<script type="text/javascript" language="javascript">
+var req = null;
+function makeRequest(url, data) 
+{
+   req = false;
+   if (window.XMLHttpRequest) { // Mozilla, Safari,...
+      req = new XMLHttpRequest();
+      if (req.overrideMimeType) {
+         req.overrideMimeType('text/xml');
+      }
+   } else if (window.ActiveXObject) { // IE
+      try {
+         req = new ActiveXObject("Msxml2.XMLHTTP");
+      } catch (e) {
+         try {
+            req = new ActiveXObject("Microsoft.XMLHTTP");
+         } catch (e) {}
+      }
+   }
+   if (!req) {
+      alert('Cannot create XMLHTTP instance');
+      return false;
+   }
+   req.onreadystatechange = stateChange;
+   document.getElementById('message').innerHTML = "Processing...";
+   req.open('POST', url, true);
+   req.setRequestHeader('Content-type','application/x-www-form-urlencoded; charset=utf-8');
+   req.setRequestHeader("Content-length", data.length);
+   req.send(data);
+}
+
+function rvToMessage(aRv) 
+{
+  switch (aRv) {
+    case "0":
+      return "Incorrect input (signup email address not provided, etc.)";
+    case "1": 
+    case "-2":
+     return "Thank you for registering for our beta!";
+    case "-1":
+      return "Please enter a valid email address.";
+    case "-3":
+      return "Failure: connection to database failed";
+    case "-4":  
+      return "Failure: starting the database transaction failed";
+    case "-5": 
+      return "Failure: unknown database failure";
+    default:
+      return "unknown error";
+  }
+}
+
+function stateChange(aEvt) 
+{
+   if (req.readyState == 4) {
+      if (req.status == 200) {
+         var rv = req.responseXML.getElementsByTagName('rv')[0].firstChild.data;
+         document.getElementById('message').innerHTML = rvToMessage(rv);
+      } else {
+         document.getElementById('message').innerHTML = 'There was a problem with the request.  Please try again later.';
+      }
+   }
+}
+ 
+function signup() 
+{
+   var data = "signupAddr=" + encodeURIComponent(document.getElementById("signupAddr").value);
+   makeRequest('/php/signup.php', data);
+}
+</script>
+
+<form action="javascript:signup()">Email address:<input type="text" id="signupAddr"><input type="button" name="button" value="Sign me up!" onclick="javascript:signup();"></form><span id="message"></span>
+</div>
+<a href="http://www.techcrunch50.com/2008/"><img src="/images/techcrunch/tc50_badge.png"></a>
+ 
+     </div>
+   </div>
+
+   <div class="column span-12 append-3 last">
+      
+      <p class="title">Privacy Policy</p>
+
+<p>Postbox, Inc. ("Company") knows that you care about how your personal information is used and shared, and we take your privacy seriously.  Please read the following to learn more about our privacy policy.  By using Company’s products and services and/or visiting the <a href="http://www.postbox-inc.com">www.postbox-inc.com</a> website and domain name, and any other linked pages, features, content, or application services offered from time to time by Company in connection therewith (collectively, the "Services"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy.</p>
+
+<h3>WHAT DOES THIS PRIVACY POLICY COVER?</h3>
+<p>This Privacy Policy covers Company’s treatment of personally identifiable information ("Personal Information") that Company gathers when you use our Services.  This policy does not apply to the practices of companies that Company does not own or control, or to individuals that Company does not employ or manage.</p>
+
+<h3>WHAT PERSONAL INFORMATION DOES COMPANY COLLECT?</h3>
+<p>The information we gather from customers enables us to personalize and improve our services. We collect the following types of information from our customers:</p>
+
+<h4>Personal Information You Provide to Us:</h4>
+<p>We receive and store any information you enter on our website or provide to us in any other way.  The types of Personal Information collected include your full name, email address, phone number, credit card and/or other payment information, username, password and any other information necessary for us to provide our services. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.  The Personal Information you provide is used for such purposes as answering questions, notifying you of product updates, and communicating with you about Company’s products and services, including specials and new features.</p>
+
+<h4>Other Information Collected Automatically:</h4>
+<p>
+</p><ul>
+<li>We receive and store certain other types of information that are not Personal Information whenever you interact with the Services.  For example, Company automatically receives and records information on our server logs from your browser including your IP address, browser information, cookie information, and the page you requested.</li>
+<li>Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our website and its components or the frequency with which users use the Services to interact with third-party sites and services, similar to TV ratings that indicate how many people watched a particular show.  Company only uses this data in aggregate or anonymous form, and not in a manner that would identify you personally.  In some cases, anonymous information may need to be sent to third parties in order to use some features of the Services, such as web forgery protection or web searches.  This type of aggregate or anonymous data also enables us to figure out how often customers use parts of the Services so that we can make the Services appealing to as many customers as possible, and improve those services.  As part of this use of information, we may provide aggregate or anonymous information to our partners about how our customers, collectively, use our Services.  We share this type of data so that our partners also understand how often people use the Services, so that they, too, may provide you with an optimal online experience. Again, Company never discloses aggregate or anonymous information to a partner in a manner that would identify you personally.</li>
+</ul>
+<p></p>
+
+<h4>E-mail Communications:</h4>
+<p>We often receive a confirmation when you open an email from Company if your computer supports this type of program. Company uses this confirmation to help us make emails more interesting and helpful.  When you receive e-mail from Company, you can opt out of receiving further e-mails by following the included instructions to unsubscribe.</p>
+
+<h4>What About Cookies?</h4>
+<p>
+</p><ul>
+<li>Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people.  We use cookies to enhance visitors’ experiences, to learn more about their use of the Services and to improve quality.</li>
+<li>Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways.  We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our website’s most attractive features.</li>
+</ul>
+<p></p>
+
+<h3>WILL COMPANY SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?</h3>
+<p>Respecting our customers’ Personal Information is an integral part of our business.  We neither rent nor sell your Personal Information to anyone.  We share your Personal Information only as described below.</p>
+
+<p><em>Affiliated Businesses We Do Not Control</em>: We anticipate that we may become affiliated with a variety of businesses and work closely with them.  In certain situations, these businesses may sell items to you through the website.  In other situations, Company may provide services, or sell products jointly with affiliated businesses.  You can easily recognize when an affiliated business is associated with your transaction, and we will share your Personal Information that is related to such transactions with that affiliated business.</p>
+
+<p><em>Agents</em>: We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you.    Unless we tell you differently, Company’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
+Business Transfers: In some cases, we may choose to buy or sell assets.  In these types of transactions, customer information is typically one of the business assets that are transferred.  Moreover, if Company, or substantially all of its assets were acquired, or in the unlikely event that Company goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Company or its assets may continue to use your Personal Information as set forth in this policy.</p>
+
+<p><em>Protection of Company and Others</em>: We may release Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others.  This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.</p>
+
+<p><em>With Your Consent</em>: Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.</p>
+
+<h3>IS PERSONAL INFORMATION ABOUT ME SECURE?</h3>
+<p>Company endeavors to protect user information to ensure that user account information is kept private, however, Company cannot guarantee the security of Personal Information.  Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.</p>
+
+<p>The Services contain links to and interactions with other sites and services. Company is not responsible for the privacy policies and/or practices of other sites and services. When linking to another site or service you should read the privacy policy provided by that site or service.  This Privacy Policy only governs information collected through the Services.</p>
+
+<p>This Privacy Policy addresses only the use and disclosure of information we collect from you. If you disclose your information to others, different rules may apply to their use or disclosure of the information you disclose to them. Company does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others.</p>
+
+<h3>WHAT CHOICES DO I HAVE?</h3>
+<p>
+</p><ul>
+<li>As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain features of the Services.</li>
+<li>You can turn off or not use certain features of the Services that require you to disclose information, such as automated product updating, web searching and phishing and malware protection.</li>
+<li>If you do not wish to receive email or other mail from us, please indicate this preference during the registration process.  Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes.</li>
+</ul>
+<p></p>
+
+<h3>CHANGES TO THIS PRIVACY POLICY</h3>
+<p>Company may amend this Privacy Policy from time to time.  Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used.  If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our website or sending you an email.  Users are bound by any changes to the Privacy Policy when he or she uses the Services after such changes have been first posted.
+</p>
+<h3>QUESTIONS OR CONCERNS</h3>
+<p>If you have any questions or concerns regarding privacy in our Services, please send us a detailed message at privacy [at] postbox-inc.com.  We will make every effort to resolve your concerns.</p>
+<p>Effective Date: December 4th, 2008</p>
+
+
+   </div> 
+   <div class="column span-17 prepend-3 append-3 first last">
+    <hr>
+   </div>
+   <div class="column span-17 prepend-3 append-3 first last" id="footer">
+ 
+     <p>Copyright ©2008 Postbox, Inc. All rights reserved. <a href="/company/privacy.html">Privacy Policy</a>&nbsp;&nbsp;<a href="/legal/tos/terms.html">Terms</a></p>
+        </div>
+
+</div>
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-5529298-1");
+	pageTracker._trackPageview();
+</script>
+
+ 
+</body></html>
