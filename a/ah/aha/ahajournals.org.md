@@ -1,57 +1,67 @@
-> *The following text is extracted and transformed from the ahajournals.org privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603214159id_/http%3A//www.americanheart.org/presenter.jhtml%3Fidentifier%3D11405) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahajournals.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218214633id_/http%3A//www.americanheart.org/presenter.jhtml%3Fidentifier%3D11405) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy
 
 |    
 
 
-**Privacy Statement**
+**Privacy Policy**
 
-This is the American Heart Association's Internet Privacy Statement. Together with the Policy on Collection and Use of Personal Information, this privacy statement discloses the privacy practices for www.americanheart.org and my.americanheart.org. 
+**Collection, Use and Security of Personal Information**
 
-**Information Collection and Use**  
-The American Heart Association is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways other than those outlined in this statement. The American Heart Association collects information from our users at several different points on our Web site. Personal info provided by users will be used by the AHA to improve the site and provide a more personalized experience for the user, but information which identifies a specific individual will not be disclosed to others without the user’s permission unless necessary to provide services which the user has requested.
+The American Heart Association values and respects an individual's right to keep certain Personal Information private.  Likewise, the AHA values the need to collect and use Personal Information which will enable the AHA to effectively deliver products and services leading to a reduction in disability and death from heart diseases and stroke.  This Privacy Policy applies to activities of the AHA and additionally to persons visiting AHA Web sites, signing up for AHA publications and mailings, or entering into transactions with the AHA, and covers the collection, use, storage and disclosure of information and data as described in this Privacy Policy. The Privacy Policy does not apply to information that the AHA collects on contractors, vendors or other entities with which the AHA does business, although the AHA will contractually require them to comply with relevant provisions of the Privacy Policy.
 
-**Registration**  
-It is optional for a user to complete a registration form. If a user chooses to complete one, a user is required to give certain information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. It is optional for the user to provide additional demographic information (such as income level and gender), but encouraged so we can provide a more personalized experience on our site.
+**A.   AHA Collection of Personal Information**
 
-**Cookies**  
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes the browser, the cookie simply terminates. For instance, by setting a cookie from our site,   the user would not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still use our site. Cookies can also enable us to track and target the interests of our users as they visit different sections of our site.
+1\.  The AHA will collect Personal Information on an individual only if the individual provides the information to the AHA.  The AHA also may collect information about a person who has been referred to the website to send them emails regarding AHA’s efforts or a person to whom the AHA has been asked to send emails regarding AHA’s programs or efforts.  If a person donates to the AHA, the AHA may collect sensitive Personal Information such as the donor’s credit card number, card type, expiration date and keep a record of the financial transaction. 
 
-**Log Files**  
-We use IP addresses to analyze trends, administer the site, track users' movement, and gather broad information for aggregate use. IP addresses are not linked to personally identifiable information.
+The AHA may collect Demographic Information it obtains from individuals and third parties for fund raising purposes and to notify persons of AHA programs, events, educational opportunities and upcoming meetings.
 
-**Sharing**  
-We will share aggregate information with our partners and advertisers. This aggregate information does not contain personally identifiable information and therefore cannot identify any specific individual.  We use an outside credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. We partner with other parties to provide specific services such as a secured site for financial transactions. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services, with the permission of the user. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+The AHA may collect Aggregate and Transactional Information and add to its database every time a person visits an AHA Web Site. Also, the AHA collects Aggregate Information for research purposes.
 
-**Links**  
-This Web site contains links to other sites. Please be aware that the American Heart Association is not responsible for the privacy practices of such sites. We encourage our users to be aware when they leave our site and to read the privacy statements of every Web site that collects personally identifiable information. The AHA privacy statement applies solely to information collected by the American Heart Association Web site.
+2.  Types of information: "Personal Information" is "Demographic Information" and/or "Medical Information" which identifies a specific individual with a minimal degree of effort. _Demographic Information_ includes name, address, city and other similar information. _Medical Information_ includes diseases, treatments, lifestyle behaviors, family history, genotype, phenotype and other similar information. _Transactional Information_ is data collected on an individual based on the individuals' interactions with the AHA, which may include sensitive information such as credit card information and Medical Information. _Aggregate Information_ is information presented  in summary or statistical form which does not contain data that would permit the identification of a specific individual without extraordinary effort.
 
-**Newsletter**  
-If a user wishes to subscribe to our push email technology or newsletters, we ask for contact information such as name and email address.
+**B.   AHA Use of Personal Information**
 
-**Surveys & Contests**  
-From time to time our site requests information from users via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include demographic information (such as name and shipping address, zip code, or age level. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+1.  When an individual provides Personal Information to the AHA, the AHA may use the Personal Information for its programs, research and fund raising.
 
-**Security**  
-This Web site takes every precaution to protect our users' information. All of our users' information is restricted in our offices. Only employees who need the information to perform a specific job (e.g., our Finance department) are granted access to personally identifiable information. The servers used to store personally identifiable information are kept in a secure environment. If you have any questions about the security at our Web site, you can use our [contact form](https://web.archive.org/presenter.jhtml?identifier=10000023).
+2.  The AHA uses Transactional Information for research purposes for the development or implementation of its programs, products and services.  The presumption is that, since Transactional Information is highly proprietary, it will not be disclosed to third parties.
 
-**Supplementation of Information**  
-In order for this Web site to enhance its ability to tailor the site to an individual's preference, we might combine information about the purchasing habits of users with similar information from other partners, to create a personalized user profile. The personalized user profile will be used to improve the site and provide a more personalized experience for the user, but will not be disclosed to others.
+3.  The AHA will disclose all information as required by law.
 
-**Site and Service Updates**  
-We also send the registered site users service announcement updates. Users are not able to unsubscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and account information via email or phone.
+4.  The AHA will make every effort to discontinue the use of an individual's Personal Information as soon as practicable if requested by that individual.  The AHA may need to retain Information in its archives and records to comply with law, resolve disputes, analyze problems, assist with any investigations, enforce AHA’s User Agreement and other policies, and take other actions otherwise permitted or required by law.
 
-**Correction/Updating Personal Information**  
-If a user's personally identifiable information changes (such as a zip code), or if a user no longer desires our service, we will make our best effort to provide a way to correct, update or remove that user's personal data from our records, but this may require additional effort as the Association works to synchronize all customer data sources. This can usually be done on the member information page or by emailing our [Customer Support](http://www.americanheart.org/presenter.jhtml?identifier=10000046&title=Web%20Site%20General%20Questions). Users can also reach us at 800-AHA-USA1 (800-242-8721).
+[Review or request removal of your information](https://web.archive.org/presenter.jhtml?identifier=10000023)
 
-**Choice/Opt-out**  
-Our users are given the opportunity to "opt-out" of having their personal information used by third parties for purposes not directly related to our site at the point where we ask for the information. For example, our informational email messages have an "opt-out" mechanism so users who register can change their mind and be removed form receiving future informational messages. In some instances AHA requires users to “opt-in” for their personal information to be used.
+**C.   Specific Requirements**
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by following the "unsubscribe" instructions in the email message. Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party. 
+1.  Administrative
 
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post changes on our home page so our users are always aware of the information we collect, the ways we use it, and any circumstances under which we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+a.  The AHA will take reasonable and appropriate measures to keep Personal Information confidential and in a secure environment, including taking appropriate action in the event of unauthorized disclosure.
+
+b.  Access to Personal Information will be restricted to only those personnel with a legitimate business purpose.
+
+c.  The AHA owns all Personal Information provided to it by individuals and collected in accordance with this Policy.  When an individual provides Medical Information to the AHA, the AHA will ensure that the individual acknowledges their assignment of the right to use the data to the AHA.
+
+2.  Scientific Research
+
+Any research funded by the AHA that involves human subjects (e.g., information collected on individuals) must be endorsed by the sponsoring institution's committee on clinical investigation or other appropriate body, and conform ethically to the guidelines prescribed by the National Institutes of Health, which includes obtaining informed consent from each individual.
+
+3.Third Party Disclosure
+
+Permission is required before the AHA discloses Personal Information to a third party.  No permission is necessary for Aggregate Information, since Aggregate Information does not identify a specific individual. 
+
+a.  For disclosure of Demographic Information (e.g., rentals or exchanges of donor lists), the AHA as a minimum will use the "Opt Out" approach.  An "opt-out" is obtained when the AHA through some correspondence gives an individual the opportunity to decline or "opt-out" of disclosures to third parties.  If the individual does not opt out, permission is deemed granted.  Depending upon the nature of an activity or project, a higher standard than "opt-out" may be used, such as "opt-in" whereby an individual must affirmatively give consent before information is disclosed.
+
+b.  For research awardees, permission is deemed granted upon submission of an application for a grant to the AHA.  Therefore, the AHA may disclose Personal Information, including funding and project summary information, on research program awardees to third parties.
+
+c.  For disclosure of Medical Information, Informed Consent is required before the AHA discloses Medical Information to a third party.  Informed Consent occurs when an individual has sufficient facts about the disclosure _,_ comprehends those facts, and voluntarily consents to the disclosure.  Where a third party such as the employer or healthcare provider of an individual requires the individual to participate in an AHA program which collects Medical Information, the AHA will require the employer or healthcare provider to procure Informed Consent before the AHA will  release Medical Information to that employer or healthcare provider.
+
+d.  From time to time, there is a benefit in allowing a third party to use collected Personal Information on individuals.   However, unless an individual gives permission, the AHA will not disclose Personal Information collected by the AHA to any third party. The AHA sometimes engages third parties to provide certain operational services to the AHA or on its behalf.   The AHA may disclose Personal  Information to those third parties on a “need to know” basis under a written contract.
+
+e.  The AHA uses and allows third parties to use Aggregate Information for research purposes for the development or implementation of its programs, products and services.
+
+_Last updated  10/09/2008_
 
 |  |    
 
