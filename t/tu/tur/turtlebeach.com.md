@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turtlebeach.com privacy policy that was archived on 2008-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080421070725id_/http%3A//www.turtlebeach.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turtlebeach.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218142204id_/http%3A//www.turtlebeach.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -20,6 +20,9 @@ Our online surveys ask visitors for contact information (like their email addres
 
 We run contests on our site in which we ask visitors for contact information (like their email address) and demographic information (like their zip code, age or income level). We use contact data from our contests to send users information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at out site. We use this data to tailor our visitor's experience at our site, showing them the content that we think they might be interested in, and displaying the content according to their preferences.
 
+**Privacy of Children  
+**Voyetra Turtle Beach, Inc. is not directed to children under the age of 13. We operate our network in compliance with the Children's Online Privacy Protection Act (“COPPA”) and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. This requirement is clearly posted during the registration process.
+
 **Public Forums**  
 This site makes chat rooms, forums, message boards and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
@@ -37,4 +40,5 @@ Voyetra Turtle Beach
 150 Clearbrook Rd. Suite 162  
 Elmsford, NY 10523  
 [webmaster@voyetra.com](mailto:webmaster@voyetra.com) or  
-[webmaster@tbeach.com](mailto:webmaster@tbeach.com)
+[webmaster@tbeach.com](mailto:webmaster@tbeach.com)[  
+](mailto:webmaster@tbeach.com)
