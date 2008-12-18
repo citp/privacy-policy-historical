@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmacy2u.co.uk privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509092200id_/http%3A//www.pharmacy2u.co.uk/Static/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmacy2u.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218131348id_/http%3A//www.pharmacy2u.co.uk/Static/privacy.asp) for the most accurate reproduction.*
 
 # Pharmacy2U
 
@@ -178,7 +178,12 @@ Our complaints policy is in line with the NHS Pharmaceutical Services Regulation
 In this class we will publish any changes we make to this publication scheme, the criteria on which our information management policies are made and a referral point for all enquires regarding information management generally in the practice. We will also publish any proposed changes or additions to publications already available.   
   
 **Cost of Information**  
-For the most part, we will charge you only for hard copies or copying onto media (e.g. CD-ROM). Some information is available free, but for others there may be a charge. The charges will vary according to how information is made available. Charges are as follows:
+
+
+  * For the most part, we will charge you only for hard copies or copying onto media (e.g. CD-ROM). Some information is available free, but for others there may be a charge. The charges will vary according to how information is made available. Charges are as follows:
+
+
+
 
 > a) Via our website – free of charge, although any charges for Internet Service provider and personal printing costs would have to be met by the individual.
 > 
