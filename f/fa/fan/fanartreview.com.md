@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanartreview.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516083207id_/http%3A//www.fanartreview.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanartreview.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218102440id_/http%3A//www.fanartreview.com/privacy.jsp) for the most accurate reproduction.*
 
 # FanArtReview.com - Post your art, photos, or digital art on this art and photograph sharing site.
 
@@ -58,4 +58,4 @@ To protect your privacy and security, we will take reasonable steps to help veri
 
 ###  How to Contact Us 
 
-If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [info@fanartreview.com](https://web.archive.org/web/20080516083207id_/http%3A//www.fanartreview.com/formcontactfanstory.jsp). 
+If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [info@fanartreview.com](https://web.archive.org/web/20081218102440id_/http%3A//www.fanartreview.com/formcontactfanstory.jsp). 
