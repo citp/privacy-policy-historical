@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usedcars.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611075011id_/http%3A//www.usedcars.com/Sites/UCC/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usedcars.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218015753id_/http%3A//usedcars.com/Sites/UCC/privacypolicy.aspx) for the most accurate reproduction.*
 
-# used cars - generic page
+# UsedCars.com - Privacy Policy
 
 **Our General Policies And Practices**
 
