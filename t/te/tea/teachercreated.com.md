@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachercreated.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527010314id_/http%3A//www.teachercreated.com/company/security.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachercreated.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218114935id_/http%3A//www.teachercreated.com/company/security.php) for the most accurate reproduction.*
 
 # Teacher Created Resources: Security and Privacy
 
@@ -28,6 +28,6 @@ If you have any questions about the Teacher Created Resources or require further
 (6am - 5pm Pacific Time)  
 Phone: 888-343-4335  
 Fax: 800-525-1254  
-[custserv@teachercreated.com](mailto:%63%75%73tse%72v%40%74%65%61%63h%65%72%63r%65%61%74%65d.%63%6fm)
+[custserv@teachercreated.com](mailto:%63%75%73%74%73%65r%76%40te%61%63%68%65rc%72eate%64%2ec%6f%6d)
 
 For more answers to your questions about the Teacher Created Resources Online Catalog, please visit our Help page. 
