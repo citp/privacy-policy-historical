@@ -1,47 +1,58 @@
-> *The following text is extracted and transformed from the lbc.co.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609103605id_/http%3A//www.lbc.co.uk/article.asp%3Fid%3D26816) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbc.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218033748id_/http%3A//www.lbc.co.uk/privacy-policy-3553) for the most accurate reproduction.*
 
-# LBC Radio
+# Privacy Policy | LBC
 
-|  Privacy PolicyThis policy applies to the website of LBC for the radio stations LBC 97.3FM and LBC News 1152AM at www.lbc.co.uk 
+Any information you provide about yourself to Global Radio UK Limited (“Global Radio”) or our associated companies will only be used in accordance with our Privacy Policy Statement, detailed below. Please note, the Privacy Policy Statement does not apply to websites or text services operated by third parties.  
+We collect information from you for a number of reasons, for example:  
+•    To provide personalised services for our individual users.   
+•    To enable us to send out editorial content that you’ve requested.   
+•    To enable us to send out promotions in which we think you will be interested.   
+•    To help us to improve the services we offer.  To use anonymous, aggregated details about our users to sell appropriate advertising space on our websites and other properties (for example, we may need to tell advertisers what proportion of the visitors to our websites are female), collect promotional and marketing information, and to pass on offers to our users, and does not mean sharing an individual's details with an advertiser. 
 
-If you have any questions about this privacy policy please contact [sam.walker@lbc.co.uk](mailto:sam.walker@lbc.co.uk)
+## Our Aims
 
-Your privacy on the Internet is important to us. As part of the operation of our site, we gather certain types of information about our users, and we would like to explain the types of information we gather and what we do with it. 
+1\. We are fully committed to protecting your privacy and will respect your privacy in terms of email, mobile and any other details you submit to us via any media.  
+2\. We will not collect personally identifying information except with your specific knowledge and consent.  
+3\. We will work with our suppliers to ensure that your data is protected with high quality, reliable and secure technology. Our technology partners invest in high-quality security and work hard to protect your privacy.  
+4\. We follow strict security procedures set out in UK Data Protection Legislation in respect of the storage and disclosure of information given by you via our websites, your mobile or via any other media.  
+Collection of Information  
+5\. We collect information on our users through cookies on websites, interactions with both our websites and our text services and via other media, such as postal registrations to club membership.  
+6\. The information we need depends on how you are interacting with our website, text or otherwise but could include an email address, a password, age, gender and postcode and a mobile telephone number although additional information may also be requested.  We may ask further or different questions for different services, including competitions. Unless stated, all questions are compulsory. We may also ask some further, voluntary questions so we can gain a clearer understanding of our users. Your responses help us to sell appropriate advertising space and to alert you to information we think may be of interest to you and so improve the offering we can make to users. They also enable us to personalise services for our users, for example through club membership.  We do not share this information with third parties unless you have specifically consented to this.  
+7\. If you are registered you may update your personal information at any time via the “My Details” page for web users, where registration is available on the site. You can get to the “My Details Page” from most pages on the website if you are logged-on. If you are a text user then the text messages you receive from us will alert you to options for unsubscription and/ or change of details – please follow these messages.  
+8\. When you interact with us via either online or text services you may be invited to register with us. Such registration is your choice. Your decision to register or otherwise will not have any effect on the outcome of any competition.
 
-**Information Collected by This Site**
+## “Cookies”
 
-We collect two types of personally identifying information from users: personal data (such as names and e-mail addresses); and aggregated data (such as information about traffic patterns on the site, for example how many users log into the site on a daily basis). 
+9\. You may have read about "cookies", small pieces of information that are stored by your browser on your computer's hard drive. Global Radio uses cookies to identify registered users without needing to ask for registration details every time you access one of our sites. The cookies control the display of ads, to ensure that you don't see the same ad too many times in a single session, for example, and to track usage patterns on our sites. Our cookies do not contain any personally identifying information.  While using the sites, you may notice that our advertisers occasionally serve you cookies, either directly or when you link to their sites. We cannot directly control what our advertisers or these cookies do, but it's our policy that advertisers on the sites should use cookies the same way we do.  
+10\. Occasionally, we may use cookies to track registered or unregistered users as they travel through the site - for instance, we might use cookies to count the total number of unique users who are accessing the site over a particular period of time. This information will never be shared with a third party at an individual level, and is used to make our systems more efficient.  
+11\. If you are concerned about cookies, you can turn them off in your browser. However, please note that if you do this some areas of the site may not work properly.
 
-**Personal Data**
+## “Safe Harbor”
 
-Personal data is collected when users provide personal data to the site, for example in registering for electronic newsletters or other membership services, sending email to the site, and registering for contests. 
+12\. For purely technical and operational reasons, your user data may from time to time be stored on our behalf on servers based overseas.  All contractors operating such storage on our behalf will be identifiable as “Safe Harbor” compliant.
 
-**Aggregated Information**
+## “Data Protection Act”
 
-Aggregated information, such as which pages users access or visit and information volunteered by users, such as survey information and/or site registrations, is collected by various methods. For example, we collect IP addresses. An IP address is a number that is automatically assigned to your computer whenever you’re surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address, and when you request a page from a website, its servers log your IP address. We do not link IP addresses to anything personally identifiable, so although your session will be logged, you will remain anonymous to the site. We collect IP addresses for the purposes of system administration. 
+13\. We will ensure that all personal information supplied is held securely in accordance with the Data Protection Act 1998 and its relevant subordinate legislation and we will comply with the principles set out in that Act. When you supply any personal information to us we will meet our legal obligations towards you in the way that we deal with that information. In accordance with the data protection principles we have to collect the information fairly and to let you know how we will use it (see paragraphs 14 - 18) and whether we will pass the information on to anyone else. We will not supply your personal information to third parties without your express prior consent or where required by law. We will ensure that any information will be held only as long as is necessary to ensure that our service runs smoothly. We use up to date industry procedures to keep personal data as safe and secure as possible and to protect against loss, unauthorised disclosure or access.
 
-**Use of Cookies**
+## Use of Information
 
-Our site also uses "cookies" to collect information. A cookie is a small data file that most major websites write into your hard drive for record keeping purposes when you visit them. Cookies allow a website to measure activity on their site and to improve your user experience, for example by remembering your passwords and viewing preferences, thus allowing you to visit various member-only parts of the site without re-registering. We do not use cookies to retrieve information from your computer that was not originally sent in a cookie. Except for personal information voluntarily provided by you (i.e. during membership registration or a contest), we do not use information transferred through cookies for any promotional or marketing purposes, and that information is not shared with third parties. 
+14\. Where you have submitted personal information about yourself we may from time to time provide you by e-mail, mail, text or otherwise with an update of information about our services and products. You may "opt out" by clicking on unsubscribe links provided in subsequent communications.  
+15\. You should be aware that any information you post in our public areas on our websites, such as message boards, may be seen, collected and used by others, and may result in unsolicited messages from other users or parties. Alas, we can't control this; you post at your own risk.  
+16\. We will e-mail, mail, text or otherwise, as appropriate, occasionally with information about your registration and/or your club membership if you have joined one.  
+17\. Sometimes you will provide us with data that doesn't reveal your personal identity. We may use this sort of information for editorial marketing and promotion purposes and occasionally for other purposes.  
+18\. Any research carried out via our websites or through text message to your mobile is for the exclusive use of Global Radio unless specifically stated at the time of completion. However, please note that “pooled” responses to questions may be shared with our partner organisations.
 
-You may occasionally get cookies from advertisers on the site, which is standard on the Internet. These cookies are outside the control of our site, and are not subject to our privacy policy. Most browsers are initially set to accept cookies. If you’d prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site will not function properly if you do. 
+## Advertisers, Sponsors and Associates
 
-**Use of Information Collected by Our Site**
+19\. Where we collect registration information from you, we will only contact you ourselves.  
+20\. We will not sell, trade, rent or pass on any individual’s user details (including your email address and/ or mobile telephone number) unless we have your prior consent. With your permission we will only share the information with carefully chosen, reputable and trustworthy third parties.  
+21\. We will never share your personally identifying information with a third party, including an advertiser, without your explicit permission. Similarly, you will receive unsolicited mail or texts only from Global Radio and associated companies only if you have agreed to this.  
+22\. A few special cases are worth noting: From time to time we may run competitions or request material we can publish; to participate, you must usually supply us with your identity which you agree to have publicly associated with your submission. The exact rules vary from case to case, and will be noted clearly on the relevant pages. Your participation will always be voluntary and knowing.  
+23\. Otherwise, we will only share anonymous aggregate statistics about our users, sales and traffic patterns with our advertisers. Whilst your individual information is protected as outlined above, we reserve the right to use aggregated, anonymous data about our users as a group whether this is in connection with either web or text users. For example, we might report to potential advertisers that a certain percentage of our users are interested in its products, based on information requests.  
+24\. We reserve the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate our systems properly and to protect both ourselves and our users.  
+25\. We may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information.  
+26\. Global Radio and our associated companies follow the relevant legal requirements and uses all reasonable precautions to ensure only responsible third parties see the information, however we are not responsible for any breach of security or any actions of any third parties who receive the information.  
+We reserve the right to change our privacy policy and all changes will be posted here.  Where the changes are significant, we may also choose to email all our registered users with the new privacy policy.
 
-Our site uses both the personal and aggregated information collected for multiple purposes. The information is used to improve the content of the site, to customise the content and/or layout of the site for each individual user and to notify users about updates to the site or promotional offers or opportunities that we believe will be of interest to you. 
-
-We share aggregated information collected from the site with third parties for both advertising and promotional purposes. 
-
-Personal information collected by this site may be shared with other Global Radio companies or with our agents, such as the company handling our Listener Club mailings. With your permission, we may also share personal information collected on the site with pre-screened third parties for marketing or promotional purposes. We will provide users with an opportunity to decline this service when such information is requested from you online. In addition, if you are the winner of a contest your name and town may be posted on the site. Personal information may also be shared only as necessary with third parties who provide technical services to the Site, or host portions of the site, who will not share or otherwise disseminate this information other than as necessary to perform these services. 
-
-Also, if you have subscribed to our listener club and do not want to receive e-mail newsletters in the future, please discontinue your membership by coming to the website and following the instructions to “unsubscribe”. 
-
-**Links to Other Sites**
-
-It is important to note that this site contains links to other sites, and that those sites may not follow the same privacy policies as our site. For instance, if you click on an advertisement on the site, this will take you away from the site and to an entirely different site. This can include links from advertisers, content providers and partners who may use the sites’ logo and or style as a result of a co-branding agreement. These sites may send their own cookies to you, and may collect data and make uses of it that this site would not. 
-
-**USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE AND PRIVACY POLICY.**
-
-We reserve the right to change this policy at any time by posting a revised privacy policy here.   
-  
----|---
+© Global Radio UK Limited 2008 
