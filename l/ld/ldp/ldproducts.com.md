@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ldproducts.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630152150id_/http%3A//www.ldproducts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldproducts.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218221432id_/http%3A//www.ldproducts.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ldproducts
 
@@ -38,6 +38,8 @@ We use non-identifying and aggregate information to better design our website an
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
+We occasionally use third-party service providers to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service providers, please click here <http://www.networkadvertising.org/managing/>.
+
 ### Our Commitment To Data Security
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
@@ -48,7 +50,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ### How You Can Access Or Correct Your Information
 
-You can access all your personally identifiable information that we collect online and maintain by calling our toll free number (888-321-2552). Note: All personal information is destroyed after 90 days. We do not keep any personal, billing, or contact information after 90 days. We use this procedure to better safeguard your information.
+You can access all your personally identifiable information that we collect online and maintain by calling our toll free number (888.321.2552). Note: All personal information is destroyed after 90 days. We do not keep any personal, billing, or contact information after 90 days. We use this procedure to better safeguard your information.
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
@@ -60,7 +62,7 @@ Although most changes are likely to be minor, ldproducts.com reserves the right,
 
 ### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please call us at [888-321-2552] or send us an [email](mailto:email@ldproducts.com). 
+Should you have other questions or concerns about these privacy policies, please call us at [888.321.2552] or send us an [email](mailto:email@ldproducts.com). 
 
   
 Effective January 24, 2008
