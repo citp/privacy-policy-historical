@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlancers.com privacy policy that was archived on 2008-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080423211304id_/http%3A//www.joomlancers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlancers.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218114951id_/http%3A//www.joomlancers.com/privacy.php) for the most accurate reproduction.*
 
 # Joomla Freelance Jobs and Projects - JoomLancers Marketplace
 
@@ -20,7 +20,7 @@ The use of an individual's e-mail address is necessary to keep our Customers wel
 We like to keep our Customers informed via e-mail and other means. Sometimes Joomlancers.com uses personal and demographic information to help us determine which Joomlancers.com products and Services are most likely to be of interest to you or help diagnose problems with our servers or administration of our sites. We also use demographic information to gather general interest in our products, to help in the analysis of product usage, purchasing, and target markets. 
 
 ** Correct/Update  **   
-If you want to change or modify information you have previously provided to us, please [ contact us ](https://web.archive.org/web/20080423211304id_/http%3A//www.joomlancers.com/contact.php)
+If you want to change or modify information you have previously provided to us, please [ contact us ](https://web.archive.org/web/20081218114951id_/http%3A//www.joomlancers.com/contact.php)
 
 ** Cookies  **   
 Some of the websites we host place small bits of text or "cookies" onto your computer's hard drive. Cookies enable us to deliver content specific to your interests and keep track of your password so you do not have to re-enter it each time you visit our web sites. After you accept a cookie, it is passed from your browser to our servers each time you request a page. This cookie consists of a unique token that anonymously identifies to the server so that you can more easily access the features of the Joomlancers.com Service. Please note that you may configure your web browser to warn you before you accept a cookie. 
@@ -29,7 +29,7 @@ Some of the websites we host place small bits of text or "cookies" onto your com
 ** Joomlancers.com will not read or disclose e-mail content to others unless required by law or deemed necessary to operate our services.  **
 
 ** Contacting the Web Site    
-** If you have any questions about Joomlancers.com's privacy policy or the privacy practices of our web sites, please [ contact us ](https://web.archive.org/web/20080423211304id_/http%3A//www.joomlancers.com/contact.php) ****
+** If you have any questions about Joomlancers.com's privacy policy or the privacy practices of our web sites, please [ contact us ](https://web.archive.org/web/20081218114951id_/http%3A//www.joomlancers.com/contact.php) ****
 
 **** Changes to the Privacy Policy  **   
 In the event our Privacy Policy needs to be modified, those changes will be reflected in the next revision of this Privacy Policy which will be posted on the Joomlancers.com web site. Please check back often to review any revisions. **** **
