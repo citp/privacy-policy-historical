@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edf.org privacy policy that was archived on 2008-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080302232639id_/http%3A//www.edf.org/page.cfm%3FtagID%3D703) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edf.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218231215id_/http%3A//www.edf.org/page.cfm%3FtagID%3D703) for the most accurate reproduction.*
 
 # Privacy Policy - Environmental Defense Fund
 
