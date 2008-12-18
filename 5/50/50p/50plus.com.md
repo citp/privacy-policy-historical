@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the 50plus.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513115017id_/http%3A//www.50plus.com/AboutUs/About50Plus/index.cfm%3FdocumentID%3D8773) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50plus.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218014654id_/http%3A//www.50plus.com/AboutUs/About50Plus/index.cfm%3FdocumentID%3D8773) for the most accurate reproduction.*
 
 # 50Plus.com Privacy Policy
+
+[](http://www.50plus.com/index.cfm)
+
+ABOUT US 
 
 _50plus.com has created this privacy statement in order to demonstrate our firm commitment to the privacy of our visitors and members._
 
@@ -18,29 +22,7 @@ Our online surveys ask you for demographic information (like your age, sex, prov
 We run **contests** on our site in partnership with other companies. Please see each contest's privacy statement. 
 
 **A note about our public forums**   
-This site makes net friends, greeting cards and discussion forums available to its users. Please remember that any information that is disclosed in these areas becomes publicly readable information and you should exercise caution when deciding to disclose your personal information. All forum posts become the property of Fifty-Plus.net. 
+This site makes net friends, greeting cards and discussion forums available to its users. Please remember that any information that is disclosed in these areas becomes publicly readable information and you should exercise caution when 
 
-**Our E-mail lists**   
-This site makes e-mail list sign-up available to its users. We do **not** subscribe people to these lists without their consent or sell the e-mail addresses gathered on these lists. We strongly believe that you should easily be able to unsubscribe from our newsletters if you no longer wish to receive them. 
-
-You can unsubscribe from the **50Plus.com Promotions newsletter** by contacting Fifty-Plus.net staff by e-mail: [support@50plus.com](mailto:support@50plus.com?subject=unsubscribe%20Promotions)
-
-You can unsubscribe from the **50plus.com newsletter** by contacting Fifty-Plus.net staff by e-mail: [support@50plus.com](mailto:support@50plus.com?subject=unsubscribe%2050plus.com%20newsletter)
-
-**Other**   
-We collect non-personal identification information through the use of "cookie" technology and/or IP address tracking. Non-personal identification information might include the browser you use, the type of computer, the 
-
-**Visitors comments**
-
-| 
-
-**Reply**  
-  
----|---  
-  
-Sorry, but what is mariburjeka? Jane.  
-**sweet-bh@mail.com**
-
-| 
-
-[Email Me](mailto:sweet-bh@mail.com)
+|   
+---|---
