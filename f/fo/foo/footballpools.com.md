@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the footballpools.com privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429192831id_/http%3A//www.footballpools.com/cust%3Faction%3DGoHelp%26help_page%3Dprivpol%26tab%3Dfootball) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballpools.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218033010id_/http%3A//www.footballpools.com/cust%3Faction%3DGoHelp%26help_page%3Dprivpol) for the most accurate reproduction.*
 
-# FootballPools.com home of Premier 10, Classic Pools and Online Football games
+# Understand more about the Football Pools privacy policy
 
 **Privacy Policy**
 
