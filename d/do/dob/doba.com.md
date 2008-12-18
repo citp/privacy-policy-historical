@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doba.com privacy policy that was archived on 2008-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080406080108id_/http%3A//www.doba.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doba.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218215818id_/http%3A//www.doba.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Doba
 
@@ -26,9 +26,11 @@ We also use registration information to let you know about new features or other
 
 Doba will not disclose your personal information provided in connection with membership registration or purchases, except with your knowledge and consent as described in this Privacy Policy or as may be required by law, or to protect the rights or property of Doba.
 
-Information submitted by you online (such as information about products you purchase from us, your name, address, email address) may be shared with companies with which we have a commercial relationship and through which you reached Doba, for marketing purposes. For example, if you make a purchase with us because of a special offer made through another site acting as a distributor of our products, in that circumstance you will be considered their customer as well. We will not, except as may be required by law, share with any other party your password or payment information.
+Information submitted by you online (such as information about products you purchase from us, your name, address, email address) may be shared with companies with which we have a commercial relationship, including companies through which you reached Doba. For example, if you make a purchase with us because of a special offer made through another site acting as a distributor of our products, in that circumstance you will be considered their customer as well.
 
-We reserve the right to disclose aggregated user statistics, such as "45% of our users are female" in order to describe our services to prospective partners, advertisers, and other third parties. Under protection of confidentiality agreements, Doba may match common user information, such as name, address and phone number with third party data to avoid duplication and prevent errors.
+We will not, except as may be required by law, share with any other party your password or payment information. We may also share information about you (including name, email address, phone number, and postal address) to our marketing partners or other companies with whom we have a commercial relationship so they may contact you about information and services that we feel you would benefit from.
+
+We also reserve the right to disclose aggregated user statistics, such as "45% of our users are female" in order to describe our services to prospective partners, advertisers, and other third parties. Under protection of confidentiality agreements, Doba may match common user information, such as name, address and phone number with third party data to avoid duplication and prevent errors.
 
  **Our commitment to data security**
 
@@ -38,7 +40,7 @@ When our registration/order form asks users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Finally, the servers that store personally identifiable information are in a secure environment, behind a locked cage in a locked facility.
 
-If users have any questions about the security at our website, users can send an email to support@doba.com.
+Doba reserves the right to make any amendments, modifications or changes to this Privacy Policy at any time. If any material change is made to this Privacy Policy, we will notify our users about those changes via email. If you do not agree to such changes, you can modify your notification settings to opt out of certain notices from Doba or its marketing partners. If users have any questions about the security at our website, users can send an email to support@doba.com.
 
  **Our commitment to children's privacy**
 
@@ -52,4 +54,4 @@ You can access your personally identifiable information collected by Doba by log
 
 Should you have other questions or concerns about these privacy policies, please call us at 877-321-DOBA or send us an email at support@doba.com.
 
-Last updated on Mar 1, 2007.
+Last updated on May 27, 2008.
