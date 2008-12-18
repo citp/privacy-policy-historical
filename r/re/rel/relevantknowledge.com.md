@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the relevantknowledge.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629012107id_/http%3A//www.relevantknowledge.com/RKPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relevantknowledge.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218113114id_/http%3A//www.relevantknowledge.com/RKPrivacy.aspx) for the most accurate reproduction.*
 
 # RelevantKnowledge
 
-Our online market research community has millions of participants who are interested in voicing their opinions through surveys and allowing their passively-tracked online browsing and purchasing behavior (including the content of web pages visited) to be used as part of anonymous market research reports that help shape the future of the Internet. The information that you contribute is used by comScore, Inc., a U.S.-based market research company that is a nationally-recognized authority on Internet and general economic trends, whose data are routinely cited by major media outlets such as the New York Times, the Wall Street Journal, and CNBC, and is extensively used by the largest Internet services companies and scores of Fortune 500 companies.
+Our online market research community has millions of participants who are interested in voicing their opinions through surveys and who allow their online browsing and purchasing behavior (including the content of web pages visited) and their general computer hardware and application usage information to be passively tracked. The data collected is used as part of anonymous market research reports that help shape the future of the Internet. The information that you contribute is used by comScore, Inc., a U.S.-based market research company that is a nationally-recognized authority on Internet and general economic trends, whose data are routinely cited by major media outlets such as the New York Times, the Wall Street Journal, and CNBC, and is extensively used by the largest Internet services companies and scores of Fortune 500 companies.
 
 Be assured that protection of your privacy is one of our top priorities. While participation in our program will allow us to send you periodic surveys and track information about your online activities such as where you surf and the transactions that you make, 
 
@@ -13,7 +13,7 @@ PRIVACY POLICY & USER LICENSE AGREEMENT
   
 
 
-Before joining our program, enjoying the benefits of this program, and downloading our application, you must review and agree to the terms and conditions below and provide and obtain consent to this agreement from anyone who will be using the computers on which you install this application. By installing our application, you agree to be bound by this privacy policy & user license agreement, including the storage of the market research information provided by you on our computer systems in the United States.
+Before joining our program, enjoying the benefits of this program, and installing our application, you must review and agree to the terms and conditions below and provide and obtain consent to this agreement from anyone who will be using the computers on which you install this application. By installing our application, you agree to be bound by this privacy policy & user license agreement, including the storage of the market research information provided by you on our computer systems in the United States.
 
 _Requirements for participation:_
 
@@ -21,12 +21,13 @@ In order to participate in this program, you must:
 
   * Be at least 18 years of age and capable of entering into a binding agreement;
   * Be the parent or legal guardian of anyone under 18 having access to such computer;
-  * Own or control the computers that you allow to be configured to use this system; and
-  * Not be employed or related to an individual employed by an unaffiliated market research company.
+  * Own or control the computers that you allow to be configured to use this system;
+  * Not be employed or related to an individual employed by an unaffiliated market research company; and
+  * Acknowledge and agree to allow the software to operate as described herein, including allowing the software to automatically upgrade provided that any such upgrades do not change the functionality of the software beyond what is described in this privacy policy and user license agreement.
 
 
 
-Please note: many companies restrict the download of software onto work computers. Before you download this software onto a work computer, please check your company’s software download policy.
+Please note: many companies restrict the installation of software onto work computers. Before you install this software onto a work computer, please check your company’s software installation policy.
 
 What information is collected? 
 
@@ -43,22 +44,28 @@ Once you agree to participate in this program, we may notify you of survey oppor
 
  _Computer hardware, software, and other configuration information:_
 
-Our application may collect certain basic hardware, software, computer configuration and application usage information about the computer on which you install our application, including such data as the speed of the computer processor, its memory capacities and Internet connection speed. In addition, our application may report on devices connected to your computer, such as the type of printer or router you may be using.
+Our application may collect general hardware, software, computer configuration and application usage information about the computer on which you install our application, including such data as the speed of the computer processor, its memory capacities and Internet connection speed. In addition, our application may report on devices connected to your computer, such as the type of printer or router you may be using.
 
  _Internet usage information:_
 
-Once you install our application, it monitors all of the Internet behavior that occurs on the computer on which you install the application, including both your normal web browsing and the activity that you undertake during secure sessions, such as filling a shopping basket, completing an application form or checking your online accounts, which may include personal financial or health information. We may use the information that we monitor, such as name and address, for the purpose of better understanding your household demographics; however we make commercially viable efforts to automatically filter confidential personally identifiable information such as UserID, password, credit card numbers, and account numbers. Inadvertently, we may collect such information about our panelists; and when this happens, we make commercially viable efforts to purge our database of such information. 
+Once you install our application, it monitors all of the Internet behavior that occurs on the computer on which you install the application, including both your normal web browsing and the activity that you undertake during secure sessions, such as filling a shopping basket, completing an application form or checking your online accounts. We may use the information that we monitor, such as name and address, for the purpose of better understanding your household demographics; however we make commercially viable efforts to automatically filter confidential personally identifiable information such as UserID, password, credit card numbers, and account numbers. Inadvertently, we may collect such information about our panelists; and when this happens, we make commercially viable efforts to purge our database of such information. 
 
-This application also tracks the pace and style with which you enter information online (for example, whether you click on links, type in webpage names, or use shortcut keys), the usage of cookies, and statistics about your use of online applications (for example, it may observe that during a given period of use of a computer, the computer downloaded X number of bytes of data using a particular Internet enabled gaming application).
-
-Please note: Our application does not examine the text of your instant messages or e-mail messages. We may, however, review select e-mail header information from web-based e-mails as a way to verify your contact information and your online usage information.
+Our application will review the content of all web pages to determine the language being used in the web site, and the application may review select e-mail header information from web-based e-mails as a way to verify your contact information and your online usage information.
 
 How is the information collected? 
 
   
 
 
-This application monitors your Internet usage by transmitting to our servers information about the web pages that you visit and the actions that you take while online. In addition, we may ask for information about you using surveys, for which participation is completely voluntary. We may also combine the information that you provide us with additional information (such as select credit bureau and prescription information) or with information obtained from other sources (such as consumer preference reporting companies, credit reporting agencies, and prescription benefits managers) using confidential matching procedures. In these cases, we will: (i) provide the third party data match processor only the personal information necessary to perform a match and, infrequently, to assist us performing statistical analyses; (ii) establish procedures and legal obligations that prohibit use of the information received for any other purpose or disclosure of this information to anyone else; and (iii) require destruction of the received information after completion of the match. The information that we obtain from other sources will not include confidential personally identifiable information such as credit card numbers and account numbers. Your information is stored in the United States where our central database is operated. The data protection and other laws of other countries may differ from those of the United States. Your information may be processed outside of the United States, provided that the data protection laws of such processing location affords similar if not more protections than those afforded in the United States for the processed data.
+This application monitors your Internet usage by transmitting to our servers information about the web pages that you visit and the actions that you take while online.
+
+Consequently, the software may communicate with our servers while you are connected to but not browsing the Internet. Such communications could include the transmission of collected data as outlined in this privacy policy, or it could include incoming instructions for our software. For example, our servers need to tell our software about survey opportunities, so that we can provide you with invitations where you can take a survey in exchange for sweepstake entries, cash, or other prizes. 
+
+In addition, we may ask for information about you using surveys, for which participation is completely voluntary. We may also combine the information that you provide us with information obtained from other sources (such as consumer preference reporting companies, credit reporting agencies and companies that collect TV viewing information) using confidential matching procedures. In these cases, we will: (i) provide a data match processor with only the personal information necessary to perform a match and, infrequently, to assist us performing statistical analyses; (ii) establish procedures and legal obligations that prohibit use of the information received for any other purpose or disclosure of this information to anyone else; and (iii) require destruction of the received information after completion of the match and analysis. The information that we obtain from other sources will not include confidential personally identifiable information such as credit card numbers and account numbers.
+
+The software will collect information on the types of applications you use and general statistics on how you use them. So, for instance, you may open a word processor, and our software would collect information on how the type of word processing software that you are using, and how long the word processor was open, but it would not have any knowledge of what was typed in the word processor.
+
+Your information is stored in the United States where our central database is operated. The data protection and other laws of other countries may differ from those of the United States. Your information may be processed outside of the United States, provided that the data protection laws of such processing location affords similar if not more protections than those afforded in the United States for the processed data.
 
 How is the collected information used? 
 
@@ -90,14 +97,14 @@ We have implemented a variety of safeguards (including physical, digital, and le
 
 If you would like to access, modify, and/or request deletion of the personally identifiable profile information submitted by you as part of this program, you may complete a support form on our website, or e-mail our support staff at the e-mail address provided below.
 
-Are cookies used by your website or your application? 
+Does the application use cookies? 
 
   
 
 
 We do not use our cookies to store or acquire data about you; however, we do use cookies to identify you as you go through any required registration processes on our site, and to assist us in conducting occasional diagnostic tests to ensure that our system is functioning correctly. Our cookie does not contain any personally identifiable information about you. Please note that if you configure your browser not to accept cookies, you may not be able to complete our registration process and enjoy the benefits of being a program participant.
 
-What privacy commitments do you make relating to specific participant benefits? 
+What privacy commitments are made relating to specific participant benefits? 
 
   
 
@@ -115,11 +122,11 @@ You may resign at any time by contacting us at the support address listed below 
 
  _Removing our Application:_
 
-You may remove our application using the Windows Add/Remove Programs function (known as “Programs and Features” in Vista). Alternatively, you may e-mail our support staff at the e-mail address provided below and request removal instructions. Please be sure to follow this same removal procedure on all of the computers from which you wish to remove this application. Removing the application will stop tracking of your online browsing and purchasing behavior, but unless you resign from the panel in accordance with the procedure stated above, you still may be contacted for administrative purposes or for special participant opportunities. After you remove our application from a computer, all settings we have made to your computer will be deactivated; however, some inactive elements may remain on your machine such as registry entries or DLL files, which is not at all unusual for many types of online services and software.
+You may remove our application using the Windows Add/Remove Programs function (known as “Programs and Features” in Vista). Alternatively, you may e-mail our support staff at the e-mail address provided below and request removal instructions. Please be sure to follow this same removal procedure on all of the computers from which you wish to remove this application. Removing the application will stop tracking of your online browsing and purchasing behavior, but unless you resign from all services in accordance with the procedure stated above, you still may be contacted for administrative purposes or for special participant opportunities. After you remove our application from a computer, all settings we have made to your computer will be deactivated; however, some inactive elements may remain on your machine such as registry entries or DLL files, which is not at all unusual for many types of online services and software. 
 
- _Use of Third Party Programs to Remove our Software:_
+_Use of Third Party Programs to Remove our Software:_
 
-Please note that use of third party programs to remove this application may cause instability in your system and to your Internet connection. We reserve the right to repair any of its settings that are partially removed, to minimize potential instability. Should you wish to resign, we ask that you use the instructions provided above.
+Please note that use of third party programs to remove this application may cause instability in your system and to your Internet connection. We reserve the right to repair any of its settings that are partially removed, to minimize potential instability. In fact, our software will inspect itself and make repairs when necessary. This action is not done to try and stop you from uninstalling our software, it is only done to assure that while our software is operating properly on your computer, it works the way it should and does not cause any technical problems. This ability to upgrade or repair corrupted files in no way impedes your ability to delete the program. Once the program has been has been uninstalled through the Windows Add/Remove Programs function, the application will be removed, so that no updates or repairs may be made. So, should you wish to resign, we ask that you use the instructions provided above.
 
  _Stop Participating in Surveys:_
 
@@ -157,13 +164,14 @@ As a participant, you agree to:
 
 As a participant, you agree not to:
 
-  * Use this program in any way that: (i) harms or harasses others; (ii) violates any federal, state or local laws or ordinances; (iii) violates or infringes on the rights of any third parties including, but not limited to, copyright, trademark, patent, trade secret, rights of privacy or publicity or other proprietary right; or (iv) interferes with or disrupts this program; and
+  * Use this program in any way that: (i) harms or harasses others; (ii) violates any federal, state or local laws or ordinances; (iii) violates or infringes on the rights of any third parties including, but not limited to, copyright, trademark, patent, trade secret, rights of privacy or publicity or other proprietary right; or (iv) interferes with or disrupts this program;
+  * Attempt to reverse engineer, decompile, or disassemble the program; and
   * Attempt to defeat or circumvent our application, it being your responsibility to remove this application as instructed in this agreement or expressly by an authorized service representative.
 
   
 
 
-What is our commitment to participants? 
+What is your commitment to participants? 
 
 We commit to making commercially reasonable efforts to do the following:
 
@@ -223,7 +231,7 @@ _ENTIRE AGREEMENT:_
 
 This Agreement constitutes the entire agreement between sponsor and you with respect to the subject matter contained in the Agreement.
 
-This Agreement is effective as of June 11, 2008.
+This Agreement is effective as of November 13, 2008.
 
 Whom can I contact if I have additional questions? 
 
@@ -240,4 +248,4 @@ Reston, VA 20190
 
 For any support issues, please contact: support@tmrginc.com.
 
-LP 0824
+LP 0846
