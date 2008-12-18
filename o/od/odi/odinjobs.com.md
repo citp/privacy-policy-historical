@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odinjobs.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623010700id_/http%3A//www.odinjobs.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odinjobs.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219004002id_/http%3A//www.odinjobs.com/privacy_policy.html) for the most accurate reproduction.*
 
 # OdinJobs - The Technology Job Search Engine
 
@@ -92,8 +92,3 @@ b. Our advertisers include financial service providers (such as banks, insurance
 **Changes to this Privacy Policy**
 
 1\. OdinJobs may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your OdinJobs account or by placing a prominent notice on our site. 
-
-#####   
-**Questions and Suggestions**
-
-1\. OdinJobs is TRUSTe-certified. Our TRUSTe certification is on the Web at: (https://www.truste.org/validate/361). This certification applies to all English-language sites under the OdinJobs.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact TRUSTe on the Web at: (http://www.truste.org/users/users_watchdog.html). TRUSTe is an independent privacy organization and serves as a liaison with OdinJobs to resolve your concern. 
