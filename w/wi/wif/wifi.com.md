@@ -1,54 +1,15 @@
-> *The following text is extracted and transformed from the wifi.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506191430id_/http%3A//www.wifi.com/p_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wifi.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218165639id_/http%3A//wifi.com/privacypolicy.html) for the most accurate reproduction.*
 
-# WiFi.com - Your Wireless Internet Technology Resource
+# Your Privacy is Important to Us | WiFi.com
 
-|  |  **What is "WiFi"?** |   
----|---|---  
-  
-WiFi is a universal wireless networking technology that utilizes radio frequencies to transfer data.
+wifi.com Privacy policy
 
-WiFi allows for high speed Internet connections without the use of cables or wires.   
-  
-|  **WiFi.com Factoids** |   
----|---|---  
-  
-**59%** of visitors feel wireless Internet is very to extremely important.
+Last Revised: June 5th 2008
 
-**24%** of visitors feel wireless Internet is extremely unimportant.
+At wifi.com, we respect the privacy of the users of our website and services and we are committed to protecting it. We have created this policy to demonstrate our commitment to you and to help you understand it. We ask you to be aware that by using the wifi.com website you are giving consent to the privacy policy outlined below. From time to time it may become necessary for us to revise our privacy practices and we encourage you to check with us often to ensure your continued agreement. We will include all updated information in this policy and notify you of the revision date.
 
-**61%** of visitors prefer a wireless over a wired Internet connection.
+In order to provide top-notch service to you, we may collect personal information, such as email addresses, when you register to use the wifi.com website and services related to the wifi.com software application. You may be asked to voluntarily submit personal information by way of registration to aid us in providing you with service. However, there is additional personal information, such as Internet Protocol (IP) addresses or browser information that is automatically submitted by your computer. This information is not identified with you but used in an aggregate or anonymous form to provide insight on general trends and other statistical information. You are capable of changing your computer privacy settings but we are not responsible for those settings or the potential decline in our ability to provide you with our service as a result of your privacy settings. Unless required by law, we will not share your personal information with third parties, except in aggregate or anonymous form.
 
-[More Stats](http://www.wifi.com/p_survey_results_1.html)  
-  
-|  **Contact** |   
----|---|---  
-  
-WiFi.com is a wireless Internet portal offered by Salient Properties, LLC.
+Our web site contains links to other web sites. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party's privacy policy. We are not responsible for the content or privacy and security practices and policies of web sites to which we link. Links from our web site to third parties or to other sites are provided for your convenience. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
 
-If you have any specific questions about this site, or need information regarding wireless Internet - WiFi; please [email us](mailto:info@wifi.com)  
-  
-|   
----  
-**
-
-WiFi.com Privacy Policy
-
-**
-
-Your privacy is of the utmost importance to us. In order to best protect the personal information of all WiFi.com visitors, we will highlight below how we collect and use the personal information of our users.
-
-WiFi.com is in the business of offering information and selling products and services related to wireless Internet technology. When you enter our site information regarding your geographic location is collected. This information allows us to help you navigate the site in order to find the information you seek. This is a standard practice; most websites track where their traffic is coming from. WiFi.com does not share this information with any outside parties. 
-
-WiFi.com will protect your information by using a secure database, so you can be assured we will not voluntarily share your information with any source without expressed consent by you to directly access your user information from our secure database.
-
-If you purchase a product or service through any of our affiliates they may require information from you to complete the sale. In this case WiFi.com does not bear responsibility for how the information is used. WiFicom has trusted relationships with our Third Party vendors, but it is important for you to know we do not control the privacy of your information once you access sites not controlled by us.
-
-**
-
-WiFi.community
-
-**
-
-If you decide to sign up as a member with our community we do collect other information about you. To be specific; email addresses are collected for verification. You are also prompted to offer additional information. However, nothing more than a valid email address is required. WiFi.com does not re-sell or share your email address with any other parties. The email addresses may be used to inform our members of news and products related to wifi technology. 
-
-If you suspect your personal information is being used wrongly by WiFi.com or any representatives of WiFi.com, please contact our abuse department: abuse @wifi.com
+If you have any questions or concerns about this Privacy Policy, the practices of this website or your dealings with Wifi.com, you may send an e-mail to [privacy@wifi.com](mailto:privacy@wifi.com).
