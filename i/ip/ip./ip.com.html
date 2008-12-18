@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ip.com privacy policy that was archived on 2008-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509062741id_/http%3A//www.ip.com/about/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ip.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218043447id_/http%3A//www.ip.com/about/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="content-Type" content="text/html; charset=utf-8">
@@ -24,7 +24,6 @@
 	
 	<script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAA1jvZX91O7R2jRkopMaPksBROkMqh_wtu72AkuVrJQacghyN-uhSXJgtrv_4eJ-y8tmobf8RS-ZjV9w"></script>
 	<script type="text/javascript" src="/js/jquery.js"></script>
-	<script type="text/javascript" src="/js/jquery.autogrow.js"></script>
 	<script type="text/javascript" src="/js/scripts.js"></script>
 	<script type="text/javascript" src="/js/tabcontent.js"></script>
 	<script type="text/javascript" src="/js/flashdetect.js"></script>
@@ -39,18 +38,15 @@
 
 
 <!-- Global Header -->
-<div id="header">
+<div id="toplinks" class="clear">
+	<a href="/">Home</a>
+	<a href="/about/">About us</a>
+	<a href="/contact/">Contact us</a>
+	<a href="#" onclick="makeRequest('/site_map.jsp', 'site_map'); toggleDiv('site_map'); return false;">Site map</a>
+	<a href="https://priorart.ip.com/?po=true" class="last"><strong class="red">Patent Examiner Search</strong></a>
+</div>
 
-	<div id="toplinks" class="clear">
-		<a href="/">Home</a>
-		<a href="/about/">About us</a>
-		<a href="/contact/">Contact us</a>
-		<a href="#" onclick="makeRequest('/site_map.jsp', 'site_map'); toggleDiv('site_map'); return false;">Site map</a>
-		<a href="https://priorart.ip.com/?po=true" class="last"><strong class="red">Patent Examiner Search</strong></a>
-	</div>
-
-	<div class="clear"></div>
-	
+<div id="header">	
 	<h1 title="IP.com Home" onclick="location.href='/'"><a href="http://www.ip.com">IP.com</a></h1>	
 
 		
@@ -97,11 +93,18 @@
 			
 			<li id="blog"><a href="/about/clients.jsp">Clients</a></li>		
 			
-			<li id="patent-debate"><a href="http://www.patentdebate.com/" target="_blank">Patent Debate</a></li>
-			
-			<li id="blog"><a href="http://www.ipnewsflash.com/" target="_blank">IP Newsflash</a></li>		
+			<li id="community"><a href="#">Community<em></em><!--[if IE 7]><!--></a><!--<![endif]-->
+			<!--[if lte IE 6]><table><tr><td><![endif]-->
+				<ul>
+					<li><a href="http://www.securinginnovation.com" target="_blank">Blog</a></li>
+					<li><a href="http://ip.personforce.com/jobboard.php" target="_blank">Job Board</a></li>		
+					<li><a href="http://www.ipnewsflash.com/" target="_blank">IP Newsflash</a></li>
+					<li><a href="/email/" target="_blank">Newsletter</a></li>					
+					<li><a href="http://forum.ip.com" target="_blank">Discussion Forum</a></li>
+				</ul>				
+			<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
 
-			<li id="blog"><a href="http://ip.personforce.com/jobboard.php" target="_blank">Job Board</a></li>		
 
 			<li id="blog"><a href="http://www.securinginnovation.com" target="_blank">Blog</a></li>		
 			
@@ -125,8 +128,8 @@
 		<div id="sites">
 			<!--
 			<a href="/cn/" title="访问IP.com中文网站 (Chinese site)">中文网页</a>
-			-->
 			<a href="/uk/" title="Visit the IP.com UK Website">UK Website</a>
+			-->
 		</div>
 					
 		<ul class="crumb">
@@ -244,10 +247,34 @@
 <div id="globalfooter">
 	<div id="footer">
 	
+		<div class="directory column">
+			
+			<div class="full">		
+				<ul>
+					<li class="first"><a href="http://www.securinginnovation.com" target="_blank">Read our Blog</a></li>		
+					<li><a href="/email/">Newsletter</a></li>
+					<li><a href="http://ip.personforce.com/jobboard.php" target="_blank">Job Board</a></li>		
+					<li><a href="http://www.ipnewsflash.com/" target="_blank">IP Newsflash</a></li>
+					<li><a href="/contact/">Contact us</a></li>
+				</ul>
+			</div>
+            
+			<div class="full">	
+				<ul>
+					<li class="first"><a href="/prior-art-database/">Prior Art Database</a></li>
+					<li><a href="/innovationq/">InnovationQ</a></li>
+					<li><a href="/creative-registry/">Creative Registry</a></li>
+					<li><a href="/technical-publication-library/">Technical Publication Library</a></li>
+				</ul>
+			</div>
+		
+		</div><!-- /column -->
+		
+		
 		<div class="copyright">
 			Copyright © 2008 IP.com, Inc. All rights reserved. &nbsp;|&nbsp; 
 			<a href="/about/privacy.jsp">Privacy Statement</a>  &nbsp;|&nbsp; 
-			<a href="http://feeds.lexblog.com/SecuringInnovation" target="_blank">RSS Feed <img src="/images/icons/feed.gif" width="14" height="14"></a>
+			<a href="http://feeds.lexblog.com/SecuringInnovation" class="rss" target="_blank">RSS Feed</a>
 		</div>									
 		
 	</div><!-- footer -->
@@ -270,7 +297,7 @@
 	document.write(ui+'.htm"><img src="http://server3.web-stat.com/count.pl?');
 	document.write(qry+'" border="0" alt="'+al+'"/><\/a>');
 	//-->
-	</script><a href="http://www.web-stat.com/stats/ipcom.htm"><img src="http://server3.web-stat.com/count.pl?ipcom:2::::800x600::24::::::0.10970769835546679::https%3A//web.archive.org/web/20080509062741id_/http%253A//www.ip.com/about/privacy.jsp" border="0" alt="Web-Stat hit counters"></a><noscript>
+	</script><a href="http://www.web-stat.com/stats/ipcom.htm"><img src="http://server3.web-stat.com/count.pl?ipcom:2::::800x600::24::::::0.7730499858851594::https%3A//web.archive.org/web/20081218043447id_/http%253A//www.ip.com/about/privacy.jsp" border="0" alt="Web-Stat hit counters"></a><noscript>
 	<a href="http://www.web-stat.com">
 	<img src="http://server3.web-stat.com/count.pl?ipcom:2::NoJavaScript" alt="Web-Stat hit counter" border="0"/>
 	</a></noscript>
