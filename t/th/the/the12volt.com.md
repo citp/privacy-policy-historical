@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608043817id_/http%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218091244id_/http%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,6 +62,7 @@ Forums
 [Lights, Neon, LEDs, HIDs](http://www.the12volt.com/installbay/forum_topics.asp~FID~18 "Lights, Neon, LEDs, HIDs")  
 [Miscellaneous](http://www.the12volt.com/installbay/forum_topics.asp~FID~4 "Miscellaneous - Off Topic")  
 [Mobile Video & Navigation](http://www.the12volt.com/installbay/forum_topics.asp~FID~9 "Mobile Video, Navigation")  
+[Motorcycle Electronics](http://www.the12volt.com/installbay/forum_topics.asp~FID~21 "Motorcycle Electronics")  
 [Music, Favorite Songs](http://www.the12volt.com/installbay/forum_topics.asp~FID~19 "Music, Favorite Songs, Movies, Videos, Test CD's")  
 [Forum & Site Notices](http://www.the12volt.com/installbay/forum_topics.asp~FID~12 "Notices")  
 [Relays](http://www.the12volt.com/installbay/forum_topics.asp~FID~5 "Relays")  
@@ -84,9 +85,9 @@ General Information
 [Vehicle Wiring Database](http://www.the12volt.com/installbay/vehicles.html "Vehicle Wiring Information")  
 Et Cetera  
 [About the12volt](http://www.the12volt.com/about/about.asp "About the12volt")  
-[Support Us!](http://www.the12volt.com/installbay/donations.asp "Make a donation to the12volt.com")  
 [Hurricane Katrina](http://www.the12volt.com/index.asp "Hurricane Katrina")  
 [Link to Us](http://www.the12volt.com/links/linktous.asp "Link to the12volt.com")  
+[Support Us](http://www.the12volt.com/installbay/donations.asp "Support the12volt.com. Make a donation and link to us. Help support the free exchange of information for mobile electronics installers and enthusiasts.")  
   
   
   
@@ -140,8 +141,6 @@ Third party advertisers may be placing and reading cookies on your browser, or w
   
   
 |    
-|  Send [this page](mailto:?SUBJECT=Take%20a%20look%20at%20this%20web%20page%20I%20found%2C%20Privacy%20Policy&BODY=You%20can%20see%20it%20here%3A%20https%3A//web.archive.org/web/20080608043817id_/http%253A//www.the12volt.com/privacy/privacy.asp "Send this page to a friend") to a friend.  
+|  Send [this page](mailto:?SUBJECT=Take%20a%20look%20at%20this%20web%20page%20I%20found%2C%20Privacy%20Policy&BODY=You%20can%20see%20it%20here%3A%20https%3A//web.archive.org/web/20081218091244id_/http%253A//www.the12volt.com/privacy/privacy.asp "Send this page to a friend") to a friend.  
 ---  
-Saturday, June 07, 2008 | • | Copyright © 1999-2008 the12volt.com | • | [Donate to the12volt.com](https://www.paypal.com/xclick/business=the12volt%40the12volt.com&item_name=Donate+to+the12volt.com&no_note=1&tax=0&currency_code=USD "Make a donation to the12volt.com") | • | [Privacy Policy](http://www.the12volt.com/privacy/privacy.asp) | • | [Advertising](http://www.the12volt.com/adv/default.asp)  
-| [](http://www.the12volt.com/) |   
----|---
+Thursday, December 18, 2008 | • | Copyright © 1999-2008 the12volt.com | • | [Donate to the12volt.com](https://www.paypal.com/xclick/business=the12volt%40the12volt.com&item_name=Donate+to+the12volt.com&no_note=1&tax=0&currency_code=USD "Make a donation to the12volt.com") | • | [Privacy Policy](http://www.the12volt.com/privacy/privacy.asp) | • | [Advertising](http://www.the12volt.com/adv/default.asp)
