@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberindian.net privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628182638id_/http%3A//www.cyberindian.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberindian.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218231119id_/http%3A//www.cyberindian.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « CyberIndian Tech
 
@@ -25,14 +25,14 @@ Questions and Comments
 Your IP address is automatically logged by our Apache webserver. However that information is only used statistically to find out the reach of this website. All the logs are automatically discarded every couple of months. Non-identifying aggregate information may be retained.
 
 **Cookies**  
-A cookie is a piece of information which is designed to be stored on your computer’s hard drive by your web browser. We **DO NOT USE COOKIES!** on Cyberindian Tech website and we don�t need them!
+A cookie is a piece of information which is designed to be stored on your computer’s hard drive by your web browser. We **DO NOT USE COOKIES!** on Cyberindian Tech website and we don’t need them!
 
 **Third Party Advertising**
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.� Cyberindian.net does not use or have access to this information.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.  Cyberindian.net does not use or have access to this information.
 
 **Third Party Cookies**
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
 
 Questions regarding this privacy statement, should be sent via e-mail : [contact@cyberindian.net](mailto:contact@cyberindian.net)
