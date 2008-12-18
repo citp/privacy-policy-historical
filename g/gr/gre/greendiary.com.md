@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greendiary.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612140144id_/http%3A//www.greendiary.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greendiary.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218214402id_/http%3A//www.greendiary.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Green Diary: Greendiary can be a converging point of latest news, information and analysis on our planet's dynamic environment - be it global warming, pollution, climate change, conservation, ecology or sustainable development...
 
