@@ -1,11 +1,17 @@
-> *The following text is extracted and transformed from the theotaku.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222093534id_/http%3A//www.theotaku.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theotaku.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218103751id_/http%3A//www.theotaku.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - theOtaku.com
 
-This page is designed to cover how theOtaku.com, myOtaku.com, and OtakuBoards.com ("The Network") handle personal information that is collected. Personal information is defined as information that is personally identifiable like your name, email address, or address, and that is not otherwise publicly available. 
+## Privacy Policy
 
-"The Network" automatically receives and stores user IP addresses. "The Network" also uses cookies to save login information, deliver advertisements, and moderate user activity. 
+We collect aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
-"The Network" will never sell, rent, or give away your personal information to any other company. 
+The information we collect is used to improve the content of our Web page.
 
-"The Network" uses third-party advertising to serve ads to visitors. Advertising is handled by: Google, Inc., Burst! Media, BUDS INC, and Mamma Media Solutions. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
+**With respect to cookies:** We use cookies to record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads.
+
+**With respect to Ad Servers:** To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of [Google](http://www.google.com/privacy.html) and [Burst! Media](http://www.burstmedia.com/isl/privacy.asp)
+
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
+
+**With respect to security:** We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
