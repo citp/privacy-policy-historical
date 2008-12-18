@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listings.sg privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624151528id_/http%3A//www.listings.sg/faqs/official-documents/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listings.sg privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218215628id_/http%3A//www.listings.sg/faqs/official-documents/privacy-policy) for the most accurate reproduction.*
 
 # Listings Singapore | Privacy Policy | Professionals, Privacy, Estate, Referred,
 
