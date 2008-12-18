@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the netquote.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615000930id_/http%3A//www.netquote.com/about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netquote.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218010128id_/http%3A//www.netquote.com/about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | NetQuote
 
   
 
 
-The following privacy statement discloses  
-the privacy practices for NetQuote.  
+The following privacy statement discloses the privacy practices for NetQuote.  
 Last revised: _May 8, 2007_
 
 **NetQuote** , Inc.   
@@ -25,7 +24,7 @@ Helping you save money is important but so is your privacy.  This policy outlin
 
 Your Privacy is Important to Us
 
-At NetQuote, your privacy is our chief concern. We understand that you entrust us with your private information to help us match you with an insurance agent (we refer to all of these as "Agents") who can meet your needs. In exchange for your trust, you expect and deserve our commitment to treat your information with respect.  Rest assured that we protect your privacy. Under no circumstances will NetQuote sell or share any personal information about you to or with any person or organization except: as authorized by you, to participating agents or other parties involved in your transaction, or as may be required by law or court order. The Privacy Policy below describes the standards we adhere to in handling information about you and your insurance quote request.
+At NetQuote, your privacy is our chief concern. We understand that you entrust us with your private information to help us match you with an insurance agent (we refer to all of these as "Agents") who can meet your needs. In exchange for your trust, you expect and deserve our commitment to treat your information with respect.  Rest assured that we protect your privacy. Under no circumstances will NetQuote sell or share any personal information about you to or with any person or organization except: as authorized by you, to participating agents or other parties involved in your transaction, or as may be required by law or court order. The Privacy Policy below describes the standards we adhere to in handling information about you and your insurance quote request..
 
 What We Want You to Know
 
@@ -39,7 +38,7 @@ What We Want You to Know
 
 1\.  Who We Are and What We Do
 
-NetQuote is the leading online marketplace connecting consumers with insurance agents to compete for their business across a variety of insurance policy types.  NetQuote has been in business since 1989.  NetQuote is not an insurance agency and does not provide quotes directly to consumers.  Rather, NetQuote is a free matching service that instantly connects you with our nationwide network of quality insurance agents. 
+NetQuote is the leading online marketplace connecting consumers with insurance agents to compete for their business across a variety of insurance policy types.  NetQuote has been in business since 1989.  NetQuote is not an insurance agency and does not provide quotes directly to consumers.  Rather, NetQuote is a free matching service that instantly connects you with our nationwide network of quality insurance agents.   
 
 After you submit your quote request via our web site, NetQuote immediately matches you to local and national agents who can meet your insurance needs.  We create this connection by emailing you the list of matching agents and their contact information as well as passing your information to the agents.  Your matching agents will use the information you provided in your quote request to run your quote and contact you with the details.  Sometimes, NetQuote does not have a matching agent based on your location and insurance needs.  In this event, your information may be passed to one of our partner companies to ensure that you receive as many competitive quotes as possible. 
 
@@ -99,11 +98,8 @@ We collect and track certain technical information to ensure that your consumer 
   
 
   * Information from Banner Ads – if you arrive at NetQuote.com through a banner ad, NetQuote can track where you arrived from, as well as clicks that might have impacted our servers.  This information is anonymous and cannot be used to gather personal information about you.
-  
 
-**Survey information**
 
-NetQuote uses survey information to gather feedback from consumers who have filled out insurance quote requests on our web site.  We use this information to track our customer satisfaction and make improvements to our service. This survey, which will arrive approximately one week after a quote request has been filled out, is completely voluntary and anonymous.  No personal information will be asked of you.
 
 **Information from the "Contact Us" section of the web site**
 
@@ -115,7 +111,7 @@ Our agent web site contains preliminary information for insurance agents who mig
 
 **Information gathered from affiliates**
 
-The affiliate section of our web site contains preliminary information for people who might like to join our affiliate network.  If you sign up as an affiliate we will gather personal information such as name, postal address, and phone number.  This information is used to contact you with information such as payment delivery notifications and a monthly affiliate newsletter.  This information is never shared with any outside parties.
+The affiliate section of our web site contains preliminary information for people who might like to join our affiliate network. If you sign up as an affiliate we will gather personal information such as name, postal address, and phone number. This information is used to contact you with information such as payment delivery notifications and a monthly affiliate newsletter. This information is never shared with any outside parties.
 
 3\.  How Your Information is Used
 
@@ -126,10 +122,6 @@ When you submit a quote request with NetQuote, your information is used to match
 **How we internally use technical information to improve marketing**
 
 NetQuote uses technical information such as cookies and web logs to study how our sites are being used.  We can also use cookies to track your preferences so that when you return to our web site, you can navigate more easily without having to re-enter certain information.  By analyzing the data that cookies and web logs provide, we can determine how to improve our web sites and banner ad campaigns to better serve our customers.
-
-**How we use survey data to measure satisfaction**
-
-NetQuote uses information from our consumer satisfaction survey to better understand the consumer experience and improve our services.  Personal information is not visible to anyone as this survey is completely anonymous.
 
 **Other uses of your information by third parties**
 
@@ -156,14 +148,6 @@ In the event that a match cannot be made, you will receive an email informing yo
 
 After submitting a quote request through NetQuote, your quote request is matched with qualified, licensed agents.  These agents may contact you via the information that you provided in your quote request.
 
-**Customer satisfaction surveys**
-
-Approximately one week after you submit a quote request through NetQuote, you will receive an anonymous customer service satisfaction survey.  This survey is short and completely voluntary.  Also, we may, from time-to-time, send additional surveys to better understand your customer experience so we can enhance our service.  Again, participation is voluntary and you can unsubscribe from this communication at any time.
-
-**Customer Communications**
-
-After submitting a quote request with NetQuote, you’ll receive monthly customer tip emails with helpful tips and information to help you continue to make informed insurance decisions.  In addition, NetQuote provides expiration alert emails that notify consumers about their policy renewal dates.  If you wish to no longer receive these communications, you can opt-out using the unsubscribe link available in every email communication.  This will ensure you will be removed from future NetQuote communications.
-
 **Newsletter**
 
 You have the opportunity to sign up for NetQuote’s monthly newsletter on the last page of each quote request, within the newsletter center within NetQuote.com, or on the designated areas located throughout the site.  After signing up to receive this newsletter, you will receive a welcome email to confirm your subscription and provide you an opportunity to unsubscribe for any reason.  You will receive the NetQuote e-newsletter once a month to your email inbox.  You can opt out of this newsletter at any time by clicking the Unsubscribe link in the email.
@@ -176,13 +160,13 @@ NetQuote provides this site and the information provided herein as a service to 
 
 **Email preferences**
 
-NetQuote email communications consist of our customer satisfaction surveys, our e-newsletter, customer tips, and expiration notices.  If you do not wish to receive these communications, please take one of the following actions: 
+NetQuote email communications consist of our monthly e-newsletter.  If you are subscribed to the newsletter and no longer wish to receive it, please take one of the following actions: 
 
   * Click the unsubscribe link at the bottom of any email communication. (This is the fastest and most effective way to unsubscribe.)
 
 In certain situations, our system will be unable to process your unsubscribe request. The most likely reason for this is that you are subscribed with a different email address. At the bottom of the original email you received, you will see a line that says "you are subscribed as." This is the email address we have on file for you.
 
-In order to find your exact record and unsubscribe you, please send an e-mail to [nqtalks@netquote.com](mailto:nqtalks@netquote.com) that contains the "subscribed as" email address. This will ensure your prompt removal from our mailing lists. 
+In order to find your exact record, please send an e-mail to [nqtalks@netquote.com](mailto:nqtalks@netquote.com) containing the "subscribed as" email address. This will ensure your prompt removal from our mailing lists. 
 
   * Send an email to [nqtalks@netquote.com](mailto:nqtalks@netquote.com) with the subject line “Unsubscribe.” ****
   * Submit a written request for removal to our mailing address:
@@ -218,7 +202,7 @@ By filling out the forms and providing information about yourself on this and th
   * You have read, understand and agree to NetQuote’s Privacy Policy, and NetQuote may send you electronically (via email or otherwise) any notices with respect to the Privacy Policy
   
 
-  * NetQuote may provide the information you submit to third parties for the purposes of providing you information and quotes about insurance, that such third parties may contact you by the email addresses, physical address or phone numbers that you provide, and that such third parties may use your information to gather additional information about you, such as insurance or credit scores.
+  * NetQuote may provide the information you submit to third parties for the purposes of providing you information and quotes about insurance, that such third parties may contact you by the email addresses, physical address or phone numbers that you provide, and that such third parties may use your information to gather additional information about you, such as insurance or credit scores. You further agree that NetQuote is not responsible for the third parties’ compliance with any applicable law concerning telephone, e-mail, or facsimile communications with you. 
   
 
   * NetQuote may contact you using the information you provide.
