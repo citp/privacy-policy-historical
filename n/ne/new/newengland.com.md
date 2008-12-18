@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newengland.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514173212id_/http%3A//newengland.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newengland.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218135344id_/http%3A//www.newengland.com/privacy.php) for the most accurate reproduction.*
 
 # New England.com - Six States of Excitement
 
