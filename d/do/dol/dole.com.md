@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dole.com privacy policy that was archived on 2008-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080521035716id_/http%3A//www.dole.com/Global/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dole.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218034237id_/http%3A//www.dole.com/Global/Privacy.jsp) for the most accurate reproduction.*
 
 # Dole | Site Map
 
