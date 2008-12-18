@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aws.org privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610050044id_/http%3A//www.aws.org/w/a/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aws.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218184721id_/http%3A//www.aws.org/w/a/privacypolicy.html) for the most accurate reproduction.*
 
 # AWS -- My AWS -- Privacy Policy
 
