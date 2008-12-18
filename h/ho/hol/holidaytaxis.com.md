@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidaytaxis.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621052619id_/http%3A//www.holidaytaxis.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaytaxis.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218154206id_/http%3A//www.holidaytaxis.com/about/privacy.php) for the most accurate reproduction.*
 
 # Holiday Taxis | Airport Transfers | Airport Taxi | Minibus | Limousines
 
@@ -12,7 +12,7 @@ At Holiday Taxis we are committed to protecting your privacy and take the respon
 
 In order to process your booking we do require certain information. This will include the name of the person making the booking, address, telephone number, email address, and your credit card number and expiry date. We also need to establish your flight details, destination resort and accommodation.
 
-All of this information is collated for different reasons. Obviously we need to establish your holiday details to ensure your taxi is waiting for the correct flight and knows which hotel to take you to. Your telephone/Email address are required in to send your booking confirmation and contact you in the unlikely event of any changes prior to departure. We need your address to assist in processing your credit card transaction as proof of authentication helping prevent any potential fraudulent activity.
+All of this information is collated for different reasons. Obviously we need to establish your holiday details to ensure your taxi is waiting for the correct flight and knows which hotel to take you to. Your telephone/Email address are required in order to send your booking voucher and contact you in the unlikely event of any changes prior to departure. We need your address to assist in processing your credit card transaction as proof of authentication helping prevent any potential fraudulent activity.
 
 ### NB
 
@@ -24,7 +24,7 @@ Holiday Taxis collates your information solely for the purpose of making your bo
 
 ### Holiday Taxis special offer service.
 
-[ Holiday Taxis have many trade partners who from time to time give us access to offers and promotions they may have running, allowing you to become one of the first to be notified of any great travel bargains. You give us prior authorisation to email these offers by registering on the website and can of course opt out by unsubscribing at any time.]
+Holiday Taxis have many trade partners who from time to time give us access to offers and promotions they may have running, allowing you to become one of the first to be notified of any great travel bargains. You give us prior authorisation to email these offers by registering on the website and can of course opt out by unsubscribing at any time.
 
 ### Other Web sites
 
@@ -36,8 +36,12 @@ In addition and as required by the UK Data Protection Legislation, (Acts of 1984
 
 ### Cookies
 
-Cookies are small pieces of information that are stored by your browser on your computers hard drive. Our cookies do not contain any personally identifying information. Cookies can be deleted from your hard drive if you wish. Most web browsers automatically accept cookies, but you can usually change your browser settings to prevent that. Even without a cookie you can still use most of the features on the web site.
+Cookies are small pieces of information that are stored by your browser on your computers hard drive. Our Cookies do not contain any personally identifying information. Cookies can be deleted from your hard drive if you wish. Most web browsers automatically accept Cookies, but you can usually change your browser settings to prevent that. Even without a Cookie you can still use most of the features on the web site.
 
 ### Your Consent
 
 By using the Holiday Taxis Web site, you consent to the collection and use of this information by Holiday Taxis in the ways outlined above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of the information that we collect, how we use it and in what circumstances we disclose it.
+
+### Third-Party Web Beacons
+
+We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website.Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://ondemand.indextools.com/optout,OptOut.vm?domain=stats.indextools.com).
