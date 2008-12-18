@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barrett-jackson.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606065452id_/http%3A//www.barrett-jackson.com/about/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barrett-jackson.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218053259id_/http%3A//www.barrett-jackson.com/about/privacypolicy.asp) for the most accurate reproduction.*
 
 # Barrett-Jackson - The World's Greatest Collector Car Events™
 
