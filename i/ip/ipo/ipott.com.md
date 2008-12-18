@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the ipott.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622033506id_/http%3A//www.ipott.com/jsp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipott.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218045228id_/http%3A//www.ipott.com/jsp/privacy.jsp) for the most accurate reproduction.*
 
-# iPOTT : Our Privacy Policy
+# iPOTT - Our Privacy and Information Policy
 
 ## Did you notice something?
 
-We keep encouraging you to register with us as. We also insist upon you to provide us certain Personally Identifiable Information. We insist on providing a valid company mail id. This section is intended to give you an explanation, why we collect the information and how we use it? 
+We keep encouraging you to register with us. We also insist upon you to provide us certain Personally Identifiable Information. We insist on providing a valid company mail id. This section is intended to give you an explanation, why we collect the information and how we use it based on our information policy? 
 
 ## Personally identifiable information
 
-  * We require you to provide us a valid mail id during registration. We suggest you avoid free mail ids like rediff, yahoo, hotmail, etc. A generic company mail id is more appropriate. This mail id will be used for correspondence. This mail id will be displayed on the website for the 'buyers/seekers' to contact you.   
+  * We require you to provide us a valid mail id during registration. We suggest you avoid free mail ids like rediff, yahoo, hotmail, etc. A generic company mail id is more appropriate. This mail id will be used for correspondence. This mail id will be displayed on the website for the 'Buyer or Seeker' to contact you.   
 We will not resell this mail id to any other individual or company. It will be used only for the intended purpose, specified above and in other areas on this website. 
   * We ask you to provide information like your Company name, Logo, Address, Contact Name, E-mail, Web page URL etc., This information will be made available on our web. We will be collecting all the information at the time of registration. We will also disclose contact information to the 'users' of iPOTT website. 
-  * As a 'Buyer or Seeker' you have to provide us with your Name, Designation, Company Address, E-mail, Size of Company, Value of software looking for etc. This information will be helpful to provide you with more information on the software / service you are looking for. The information is totally confidential. Only your contact details will be provided to the 'Promoters / Providers' if they have to contact you. 
+  * As a 'Buyer or Seeker' you have to provide us with your Name, Designation, Company Address, E-mail, Size of Company, Value of software looking for etc. This information will be helpful to provide you with more information on the software / service you are looking for. The information is totally confidential. Only your contact details will be provided to the 'Promoter or Provider' if they have to contact you. 
   * You have to register in order to get full access to the information on iPOTT. The information submitted by you is totally confidential and will not be used for any other purpose other then the intended purpose. 
 
 
@@ -84,4 +84,4 @@ Overall, cookies help us give you a better web site to use, by letting us monito
 
 ## Contact us
 
-Please address all your queries and doubts pertaining to our privacy policy and security measures to [info@ipott.com](mailto:info@ipott.com). 
+Please address all your queries and doubts pertaining to our privacy policy and security measures to [info@ipott.co.in](mailto:info@ipott.co.in)
