@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weeno.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513013908id_/http%3A//www.weeno.com/Pages/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeno.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218080349id_/http%3A//www.weeno.com/Pages/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -18,4 +18,27 @@ We use an outside ad company to display ads on our site. These ads may contain c
 
 Our site's registration form requires users to give us contact information (like their name, background information, website), and unique identifiers (like their email address). 
 
-The customer's contact information is also used to get in touch with the customer when necessary. Personal information such as name, background information and website are associated with your submitted articles and will be publically
+The customer's contact information is also used to get in touch with the customer when necessary. Personal information such as name, background information and website are associated with your submitted articles and will be publically viewable by the Weeno community. You may choose to submit articles anonymously, however a valid email address is required. However, your email address will remain confidential. 
+
+Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+
+Unique identifiers (such as email addresses) are collected from Web site visitors to verify the user's identity. 
+
+####  External Links 
+
+This site contains links to other sites. **Weeno.com** is not responsible for the privacy practices or the content of such Web sites. 
+
+####  Public Forums 
+
+This site makes message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+
+####  Security 
+
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. 
+
+##  Contacting the Web Site 
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
+
+
+[ feedback@weeno.com ](mailto:feedback@weeno.com)
