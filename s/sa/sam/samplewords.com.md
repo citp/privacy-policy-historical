@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samplewords.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609002601id_/http%3A//www.samplewords.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samplewords.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218150444id_/http%3A//www.samplewords.com/privacy.html) for the most accurate reproduction.*
 
 # Search Results
 
