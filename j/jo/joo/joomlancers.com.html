@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the joomlancers.com privacy policy that was archived on 2008-04-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080423211304id_/http%3A//www.joomlancers.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the joomlancers.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218114951id_/http%3A//www.joomlancers.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <title>Joomla Freelance Jobs and Projects - JoomLancers Marketplace</title>
@@ -14,7 +14,123 @@
 <link rel="stylesheet" type="text/css" media="all" href="http://www.joomlancers.com/templates/css/windoo.aero.css">
 <link rel="stylesheet" type="text/css" media="all" href="http://www.joomlancers.com/templates/css/windoo.aqua.css">
 <link rel="stylesheet" type="text/css" media="all" href="http://www.joomlancers.com/templates/css/windoo.alphacube.css">
+<script type="text/javascript">
+/*<![CDATA[*/
 
+	
+	//validate email
+	function stringEmpty ( address ) {
+	    // CHECK THAT THE STRING IS NOT EMPTY
+	    if ( address.length < 1 ) {
+	        return ( true );
+	    } else {
+	        return ( false );
+	    }
+	}
+
+	function noAtSign ( address ) {
+	    // CHECK THAT THERE IS AN '@' CHARACTER IN THE STRING
+	    if ( address.indexOf ( '@', 0 ) == -1 ) {
+	        return ( true )
+	    } else {
+	        return ( false );
+	    }
+	}
+
+	function nothingBeforeAt ( address ) {
+	    // CHECK THERE IS AT LEAST ONE CHARACTER BEFORE THE '@' CHARACTER
+	    if ( address.indexOf ( '@', 0 ) < 1 ) {
+	        return ( true )
+	    } else {
+	        return ( false );
+	    }
+	}
+
+	function noLeftBracket ( address ) {
+	    // IF EMAIL ADDRESS IN FORM 'user@[255,255,255,0]', THEN CHECK FOR LEFT BRACKET
+	    if ( address.indexOf ( '[', 0 ) == -1 && address.charAt ( address.length - 1 ) == ']' ) {
+	        return ( true )
+	    } else {
+	        return ( false );
+	    }
+	}
+
+	function noRightBracket ( address ) {
+	    // IF EMAIL ADDRESS IN FORM 'user@[255,255,255,0]', THEN CHECK FOR RIGHT BRACKET
+	    if ( address.indexOf ( '[', 0 ) > -1 && address.charAt ( address.length - 1 ) != ']' ) {
+	        return ( true );
+	    } else {
+	        return ( false );
+	    }
+	}
+
+	function noValidPeriod ( address ) {
+	    // IF EMAIL ADDRESS IN FORM 'user@[255,255,255,0]', THEN WE ARE NOT INTERESTED
+	    if ( address.indexOf ( '@', 0 ) > 1 && address.charAt ( address.length - 1 ) == ']' )
+	        return ( false );
+
+	    // CHECK THAT THERE IS AT LEAST ONE PERIOD IN THE STRING
+	    if ( address.indexOf ( '.', 0 ) == -1 )
+	        return ( true );
+
+	    return ( false );
+	}
+
+	function noValidSuffix ( address ) {
+	    // IF EMAIL ADDRESS IN FORM 'user@[255,255,255,0]', THEN WE ARE NOT INTERESTED
+	    if ( address.indexOf ( '@', 0 ) > 1 && address.charAt ( address.length - 1 ) == ']' )
+	        return ( false );
+
+	    // CHECK THAT THERE IS A TWO OR THREE CHARACTER SUFFIX AFTER THE LAST PERIOD
+	    var len = address.length;
+	    var pos = address.lastIndexOf ( '.', len - 1 ) + 1;
+	    if ( ( len - pos ) < 2 || ( len - pos ) > 3 ) {
+	        return ( true );
+	    } else {
+	        return ( false );
+	    }
+	}
+
+	function emailValidation ( addressField ) {
+	    if ( stringEmpty(addressField))
+	        alert ( "Error! There is no E-Mail address entered" );
+	    else if ( noAtSign ( addressField ) )
+	        alert ( "Error! The E-Mail address does not contain an '@' character" );
+	    else if ( nothingBeforeAt ( addressField ) )
+	        alert ( "Error! An E-Mail address must contain at least one character before the '@' character" );
+	    else if ( noLeftBracket ( addressField ) )
+	        alert ( "Error! The E-Mail address contains a right square bracket ']',\nbut no corresponding left square bracket '['" );
+	    else if ( noRightBracket ( addressField ) )
+	        alert ( "Error! The E-Mail address contains a left square bracket '[',\nbut no corresponding right square bracket ']'" );
+	    else if ( noValidPeriod ( addressField ) )
+	        alert ( "Error! An E-Mail address must contain a period ('.') character" );
+	    else if ( noValidSuffix ( addressField ) )
+	        alert ( "Error! An E-Mail address must contain a two or three character suffix" );
+	    else
+	        return (true);
+
+	    return ( false );
+	}
+
+	//submit button
+	function send_request()
+	{
+		var form =  document.aweberform;
+		//alert('aa');
+		if(form.name.value=="") {
+			alert("Please enter your name");
+			return;
+		}		
+		
+		if(emailValidation(form.from.value)) {
+			form.submit();
+		}
+		
+
+	}
+
+/*]]>*/
+</script>
 <script type="text/javascript" src="http://www.joomlancers.com/templates/js/mootools.v1.11.js"></script>
 <script type="text/javascript" src="http://www.joomlancers.com/templates/js/windoo.js"></script>
 <script type="text/javascript" src="http://www.joomlancers.com/templates/js/yahoo.js"></script>
@@ -36,6 +152,9 @@ document.write ('<style type="text\/css">.ja-tab-content{display: none;}\n#ja-hp
 /*]]>*/
 </script><style type="text/css">.ja-tab-content{display: none;}
 #ja-hpwrap{height:0;overflow:hidden;visibility:hidden;}</style>
+
+
+
 </head>
 
 <body>
@@ -47,7 +166,29 @@ document.write ('<style type="text\/css">.ja-tab-content{display: none;}\n#ja-hp
 	
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 	<tbody>
+<!--	<tr>
+		<td colspan="2" class="tinfo" style="padding-left: 20px; background:#CC5132;">
+		  <span>We are developing the V3 of Joomlancers. Tell us features you want</span>
+		
+		</td>
+	</tr> -->
+		<tr>
+	
+		<td class="tinfo" style="text-align:left; padding: 0px 5px 0px 25px; background: url(../images/new.gif) no-repeat 2px 5px;">
+		Upcoming JoomLancers <span style="padding:2px 5px; background:#FFFF00; font-weight: bold;"> Version 3.0</span> <!--Visit the Development Blog -  --><a href="http://feedback.joomlancers.com/" target="_blank"> <strong>Tell us features you want</strong></a>
+		 
+		 <!--
+		 Open project: <span>139</span>&nbsp;
+		Buyers: <span>10792</span>&nbsp;
+		Freelancers: <span>7229</span>&nbsp; -->		</td>
+		
+		<td class="tinfo" style="padding-right: 20px; text-align:right;">
+<a href="http://www.joomlancers.com/signup.php" title="Register"><b>Join now</b></a> | <a href="http://www.joomlancers.com/login.php" title="Login"><span id="ja-hp-switch">Login</span> </a>
+		</td>
+	</tr>
 	<tr>
+
+		
 		<td colspan="2">
 			<div id="ja-hpwrap">	
 			<form action="" method="post" style="margin:0px;">
@@ -62,19 +203,7 @@ document.write ('<style type="text\/css">.ja-tab-content{display: none;}\n#ja-hp
 			</div>
 		</td>
 	</tr>
-	<tr>
-	
-		<td class="tinfo" style="padding-left: 20px;">
-		 Open project: <span>203</span>&nbsp;
-		Buyers: <span>8445</span>&nbsp;
-		Freelancers: <span>5145</span>&nbsp;
-		
-		</td>
-		
-		<td class="tinfo" style="padding-right: 20px; text-align:right;">
-<a href="http://www.joomlancers.com/signup.php" title="Register"><b>Join now</b></a> | <a href="http://www.joomlancers.com/login.php" title="Login"><span id="ja-hp-switch">Login</span> </a>
-		</td>
-	</tr>
+
 	</tbody>
 </table>
 <!--END: REGISTRATION OR SIGN OUT-->
@@ -85,7 +214,30 @@ document.write ('<style type="text\/css">.ja-tab-content{display: none;}\n#ja-hp
 		<a href="http://www.joomlancers.com" title="JOOMLANCERS.com V2.5 Beta">
 		<img src="http://www.joomlancers.com/templates/images/joomlancers.jpg" alt="JOOMLANCER.com V2.5 Beta" border="0" width="205" height="55">
 		</a>
-	</h1>
+		
+</h1>
+<div style="float:right; padding:10px;">
+<span style="color:#FFFFFF; font-weight:bold;">JoomLancers as a Joomla component is being developed. 
+<span style="color:#FF0000; font-weight:bold"> Be </span> the <span style="color:#FF0000; font-weight:bold">first</span> to know.</span>
+
+				<form action="http://www.aweber.com/scripts/addlead.pl" method="post" name="aweberform">
+			<input type="hidden" value="1075793005" name="meta_web_form_id">
+			<input type="hidden" value="" name="meta_split_id">
+			<input type="hidden" value="joomlancers" name="unit">
+			<input type="hidden" id="redirect_c2ed294d5b3313c24145f84a6e1b5eb7" value="http://www.joomlancers.com/thanks.php" name="redirect">
+			<input type="hidden" value="" name="meta_redirect_onlist">
+			<input type="hidden" value="" name="meta_adtracking">
+			<input type="hidden" value="1" name="meta_message">
+			<input type="hidden" value="from" name="meta_required">
+			<input type="hidden" value="0" name="meta_forward_vars">
+			
+			
+			
+			<span style="color:#FFFFFF; font-weight:bold;">Sign up to JL Newsletter:</span> <input type="text" size="20" value="Name" name="name" onblur="if(this.value=='') this.value='Name';" onfocus="if(this.value=='Name') this.value='';" style="margin: 0pt; padding: 0pt; font-size: 90%; color:#666666;">
+			<input type="text" size="20" value="Email" name="from" onblur="if(this.value=='') this.value='Email';" onfocus="if(this.value=='Email') this.value='';" style="margin: 0pt; padding: 0pt; font-size: 90%; color:#666666;">
+			<input name="button" type="button" class="button" onclick="send_request();" value="Submit" style="margin: 0pt; padding: 0pt; font-size: 90%;">
+				</form>
+	</div>
 </div>
 <!--END: HEADER AND QUICK SEARCH-->
 
