@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the teck.in privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505053926id_/http%3A//teck.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teck.in privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218052655id_/http%3A//teck.in/privacy) for the most accurate reproduction.*
 
-# Privacy Policy « TECK.IN
+# Privacy Policy
 
-TECK.IN may from time to time collect name, email address and/or details of website visitors. This may include the mailing list, blog comments sections and in various sections of the TECK.IN site. These details will not be passed onto any other third party or other organization unless we are required to by government or other law enforcement authority.
+TECK.IN may from time to time collect name, email address and/or details of website visitors. This may include the content of the mailing lists, any blog comments entered or any content in any other section. These details will not be passed onto any other third party or other organization unless we are required to by government or other law enforcement authority.
 
 If you contribute content, such as discussion comments, to the site, your contribution may be publicly displayed including personally identifiable information.
 
@@ -10,7 +10,7 @@ TECK.IN links to independently run websites outside of the TECK.IN domain. We ta
 
 TECK.IN uses cookies to save login details and visitors preferences, and to collect statistical information about the numbers of visitors to the site. To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.  For further information, consult the privacy policies of: http://www.google.com/privacypolicy.html
 
-TECK.IN is suitable for all ages, but not knowingly collect personal information from children under 13 years old.
+TECK.IN is suitable for all ages, but we not knowingly collect personal information from children under 13 years of age.
 
 Comments are welcome. However, tasteless and insulting comments may be deleted. Any personal remarks and attacks may be deleted. The same holds true for off-topic comments. Any comments that reek of link spam or marketing messages will be deleted. TECK.IN is not responsible for the content in comments other than those made by the blog author.
 
