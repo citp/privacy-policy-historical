@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emptees.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503105158id_/http%3A//www.emptees.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emptees.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218014827id_/http%3A//emptees.com/privacy) for the most accurate reproduction.*
 
 # Emptees - Privacy Policy
 
@@ -64,4 +64,4 @@ Indie Labs seeks to use reasonable security measures to help protect against the
 
 ### Contact Us
 
-If you have any questions about this Policy, the data collection and usage practices of this Site, or your dealings with this Site, or if you wish to report a violation of this Policy, please contact: [contact [at] indielabs.com](mailto:contact@indielabs.com)
+If you have any questions about this Policy, the data collection and usage practices of this Site, or your dealings with this Site, or if you wish to report a violation of this Policy, please contact: [contact [at] indielabs.com](mailto:%63%6f%6e%74%61%63%74@%69%6e%64%69%65%6c%61%62%73.%63%6f%6d)
