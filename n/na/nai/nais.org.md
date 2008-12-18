@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nais.org privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611124837id_/http%3A//www.nais.org/about/index.cfm%3FItemnumber%3D145942) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nais.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218171334id_/http%3A//www.nais.org/about/index.cfm%3FItemnumber%3D145942) for the most accurate reproduction.*
 
 # NAIS - About NAIS - Legal and Privacy Information
 
