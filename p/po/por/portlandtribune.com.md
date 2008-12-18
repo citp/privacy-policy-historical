@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portlandtribune.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517011028id_/http%3A//www.portlandtribune.com/news/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandtribune.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218011139id_/http%3A//www.portlandtribune.com/news/privacy.php) for the most accurate reproduction.*
 
 # The Portland Tribune Ι News
 
@@ -76,3 +76,16 @@ The Pamplin Media Group regularly reviews its compliance with this Policy. Pleas
 Please note that this Policy may change from time to time. We will not reduce your rights under this Policy without your explicit written consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Policy in an archive for your review. 
 
 If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Pamplin Media Group Attn: Webmaster, 6605 SE Lake Road, Portland, OR 97222, USA. 
+
+Portland, Oregon OR - [**_Right Brain Resource_**](http://www.rightbrainresource.com/home/index.php) is a professional executive employment agency staffing temporary (temp) and direct hire careers. We staff Marketing jobs, Administrative jobs, Creative Design jobs, Engineering jobs and Information Technology IT jobs. Check out our [_**FREE Job Board**_](http://www.rightbrainresource.com/jobs/advancedsearch.php), **Post your Resume** or **read our blog.**
+
+KosmosCentral [**Portland Web Design, eCommerce and Marketing**](http://www.kosmoscentral.com/) providing quality web development services and custom web solutions for small businesses and large across North America and World Wide. 
+
+Search engine marketing, website templates, [**portland web design**](http://www.webfu-design.com/) and website promotion by Webfu // 503.381.5553 
+
+New down and fleece north face jackets. The largest selection of [**North Face Jackets**](http://www.intermountaintraders.com/) available online. Free shipping on orders over $40.00 
+
+See the latest styles of ski jackets and backpacks from [**The North Face**](http://www.nationalgeographic.com/adventure/north-face.html). 
+
+Mystery/adventure novels with a SciFi twist! Visit [**www.SeedsOfCivilization.com**](http://www.seedsofcivilization.com/)  
+
