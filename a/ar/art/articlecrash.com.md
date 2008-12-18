@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlecrash.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616143102id_/http%3A//www.articlecrash.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecrash.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218044434id_/http%3A//www.articlecrash.com/privacy.php) for the most accurate reproduction.*
 
-# ArticleCrash Directory | Free Author Submission | Find Free Content for Publication | RSS Feeds- Free Content for your Website!
+# Article Directory | Free Content for Publication | RSS Feeds- Free Content for your Website!
 
 ArticleCrash.com™ values the privacy of our Authors/Publisher, we will not disclose any personal information to any vendor, partner or outside agency. This includes your e-mail address, name, and location.
 
