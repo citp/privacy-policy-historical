@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the articlesisland.com privacy policy that was archived on 2008-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080516093235id_/http%3A//www.articlesisland.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the articlesisland.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218071010id_/http%3A//www.articlesisland.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <meta name="verify-v1" content="Yk7gfZoE03xZTrTeGZ1l3Nl5zUxdmR2XBxT6wPT2qRw=">
@@ -36,11 +36,11 @@
 
 
 <script language="JavaScript1.2">
-
+/***********************************************
 // Drop-in content box- By Dynamic Drive
 // For full source code and more DHTML scripts, visit http://www.dynamicdrive.com
 // This credit MUST stay intact for use
-
+***********************************************/
 var ie=document.all
 var dom=document.getElementById
 var ns4=document.layers
@@ -89,8 +89,29 @@ return (document.compatMode && document.compatMode!="BackCompat")? document.docu
 }
 
 
-window.onload=initbox
+function get_cookie(Name) {
+var search = Name + "="
+var returnvalue = ""
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) {
+offset += search.length
+end = document.cookie.indexOf(";", offset)
+if (end == -1)
+end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
 
+function dropornot(){
+if (get_cookie("droppedin")==""){
+window.onload=initbox
+document.cookie="droppedin=yes"
+}
+}
+dropornot()
 </script>
 
 <script type="text/javascript">
@@ -189,12 +210,11 @@ document.getElementById(subobj).style.display="none"
           <a href="/"><img src="http://www.articlesisland.com/skins/default/ai.png" alt="Articles island - a directory of quality articles, free quality articles reprint for your web site and email newsletter." title="Articles island"></a>
         </div>
         </div>
-
       </td>
 
 <td style="background-color: rgb(153, 0, 0);" class="title_top_right">
                <div class="quicknav">
-<div class="categorycolumnlatest4">Free Articles Reprint for Your Web Site, Email Newsletter, Blog, Ezine and RSS Feed.<br>Submit Your Articles to Our Article Directory for Massive Exposure.<br>Total Live Articles: 92384&nbsp;&nbsp;Total Categories: 389</div>
+<div class="categorycolumnlatest4">Free Articles Reprint for Your Web Site, Email Newsletter, Blog, Ezine and RSS Feed.<br>Submit Your Articles to Our Article Directory for Massive Exposure.<br>Total Live Articles: 92613&nbsp;&nbsp;Total Categories: 389</div>
         
         </div> <!-- class="quicknav" -->
       </td>
@@ -347,18 +367,18 @@ window.sidebar.addPanel(title, url, "")
 <!-- Block_main_item_2 -->
 <div class="photoinactive">
 <div class="navbarauthorphoto">
-<a href="/profile/glinda-mcduffie-4403.html"><img src="/uploads/picture_4403.jpg" align="left" style="max-width:64px;width:expression(this.width > 64 ? 64: true)" alt="Articles island Expert Author - Glinda McDuffie" title="Glinda McDuffie"></a>
+<a href="/profile/rohan-jagtap-7438.html"><img src="/uploads/picture_7438.jpg" align="left" style="max-width:64px;width:expression(this.width > 64 ? 64: true)" alt="Articles island Expert Author - Rohan Jagtap" title="Rohan Jagtap"></a>
 </div>
 <div class="authorcolumntopphoto">
-<u>Author Name:</u><br><a class="authornamelink" href="/profile/glinda-mcduffie-4403.html">Glinda McDuffie</a><br>
-<u>Country:</u><br>United States<br>
-<u>Member Since:</u><br>3 Mar 2008
+<u>Author Name:</u><br><a class="authornamelink" href="/profile/rohan-jagtap-7438.html">Rohan Jagtap</a><br>
+<u>Country:</u><br>India<br>
+<u>Member Since:</u><br>Today
 </div>
 <div class="leftnavauthorbiowords">
-An entrepreneur since opening her first business at age 25, Glinda McDuffie has nearly 30 years experience as a successful business person. Now Glinda is focusing her energies on taking her brick-and-mortar experience to the 'net where she will build her next empire.
+Rohan Jagtap is a philosopher. He believes that our life is nothing but the result of Law of Attraction acting upon us. He says you can change your life by changing your own thoughts. He read thousands of articles from web related with LOA. And now he knows LOA gives the answer of any problem that you are facing in your life.
 </div>
 <div class="photowordright">
-<a class="redwordmoreauthor" href="/profile/glinda-mcduffie-4403.html">Read More...</a>
+<a class="redwordmoreauthor" href="/profile/rohan-jagtap-7438.html">Read More...</a>
 <br>
 </div>
 </div>
@@ -368,7 +388,12 @@ An entrepreneur since opening her first business at age 25, Glinda McDuffie has 
 <!-- /Block_main_item_2 -->
 
 
-</div>
+  <center><div class="adsenselogo">
+    
+
+
+ </div> <!-- class="referralAd" -->
+</center>
 
 <!-- ### navigation box ends ### -->
 
@@ -376,7 +401,7 @@ An entrepreneur since opening her first business at age 25, Glinda McDuffie has 
 
     
         <!-- ### content column starts ### -->
-        </td><td class="main">
+        </div></td><td class="main">
         <div class="path">
          <!-- Block_navbar -->
 <div id="printReady2">
