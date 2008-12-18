@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the culinate.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610004134id_/http%3A//www.culinate.com/culinate/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culinate.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218121403id_/http%3A//www.culinate.com/culinate/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy :: Culinate
 
 As individuals, we value our own privacy; as a company, we value yours. The information you give to Culinate stays with us, and we protect it diligently. We do not give out your information on our website, nor do we sell or rent any personally identifying information to any of our advertisers and partners unless you have previously requested we do so.
 
