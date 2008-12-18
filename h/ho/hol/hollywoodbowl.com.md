@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywoodbowl.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509090808id_/http%3A//www.hollywoodbowl.com/about/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodbowl.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218100134id_/http%3A//www.hollywoodbowl.com/about/privacy_policy.cfm) for the most accurate reproduction.*
 
 # LA Phil Presents Hollywood Bowl | Privacy Policy
 
