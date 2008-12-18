@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interesting-articles.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630233149id_/http%3A//interesting-articles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interesting-articles.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218065859id_/http%3A//interesting-articles.com/privacy.php) for the most accurate reproduction.*
 
 # Interesting Articles
 
