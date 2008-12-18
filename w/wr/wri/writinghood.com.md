@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writinghood.com privacy policy that was archived on 2008-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080420103612id_/http%3A//www.writinghood.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writinghood.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218134548id_/http%3A//www.writinghood.com/privacy) for the most accurate reproduction.*
 
 # Writinghood :: Privacy
 
