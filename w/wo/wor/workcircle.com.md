@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the workcircle.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509083846id_/http%3A//www.workcircle.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workcircle.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218104349id_/http%3A//www.workcircle.com/privacypolicy) for the most accurate reproduction.*
 
-# Jobs from Workcircle
+# Privacy policy | Workcircle
 
 **a) General:   ** We are strongly committed to protecting users’ privacy, and this sets out our policy on the use of personal data which has been collected in relation to access to and use of the Site.  
 
@@ -29,10 +29,10 @@
 **i) Security:   ** The Site has industry standard security measures in place to protect the loss, misuse, and alteration of the information under our control. While there is no such thing as "perfect security" on the Internet, we will take reasonable steps to ensure the safety of your personal information.  
 
 
-**j) Updating information:   ** We allow users the option to change or modify information previously provided. To do this, visit [www.workcircle.com](http://www.workcircle.com/), click on the log in link, log in, click on the ‘Settings’ link, and follow the on-screen instructions.  
+**j) Updating information:   ** We allow users the option to change or modify information previously provided. To do this, visit [www.workcircle.com](https://web.archive.org/), click on the log in link, log in, click on the ‘Settings’ link, and follow the on-screen instructions.  
 
 
-**k) Cancellation:   ** Upon your request, we will deactivate your information from our active databases. To make this request, visit [www.workcircle.com](http://www.workcircle.com/), click on the log in link, log in, click on the ‘Settings’ link, and follow the on-screen instructions. Such information will be deactivated as soon as reasonably possible in accordance with our deactivation policy and applicable law.   We will retain in our files some personal information you may have requested to remove, solely in order to keep an archival set of records and to comply with legal requirements as required or permitted by law. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. However, such personal information will only be available to select Workcircle personnel, or otherwise as legally required.  
+**k) Cancellation:   ** Upon your request, we will deactivate your information from our active databases. To make this request, visit [www.workcircle.com](https://web.archive.org/), click on the log in link, log in, click on the ‘Settings’ link, and follow the on-screen instructions. Such information will be deactivated as soon as reasonably possible in accordance with our deactivation policy and applicable law.   We will retain in our files some personal information you may have requested to remove, solely in order to keep an archival set of records and to comply with legal requirements as required or permitted by law. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. However, such personal information will only be available to select Workcircle personnel, or otherwise as legally required.  
 
 
-**l) Opt out:   ** You may opt-out of receiving communications from us, to do this visit [www.workcircle.com](http://www.workcircle.com/), click on the log in link, log in, click on the ‘Settings’ link, and follow the on-screen instructions.
+**l) Opt out:   ** You may opt-out of receiving communications from us, to do this visit [www.workcircle.com](https://web.archive.org/), click on the log in link, log in, click on the ‘Settings’ link, and follow the on-screen instructions.
