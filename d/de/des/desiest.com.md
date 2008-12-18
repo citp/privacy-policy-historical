@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desiest.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609094239id_/http%3A//www.desiest.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desiest.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218221514id_/http%3A//www.desiest.com/privacy.jsp) for the most accurate reproduction.*
 
 # . :: Desiest.com :: Privacy Policy :: .
 
