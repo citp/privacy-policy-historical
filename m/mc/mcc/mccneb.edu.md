@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mccneb.edu privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608182404id_/http%3A//www.mccneb.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mccneb.edu privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218225754id_/http%3A//www.mccneb.edu/privacy.asp) for the most accurate reproduction.*
 
-# Metro | Privacy Policy
+# MCC | Privacy Policy
 
 Metropolitan Community College has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Metropolitan Community College. 
 
