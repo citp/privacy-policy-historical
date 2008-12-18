@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nisamerica.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609113731id_/http%3A//www.nisamerica.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nisamerica.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218204740id_/http%3A//www.nisamerica.com/privacy.htm) for the most accurate reproduction.*
 
-# NIS, America Inc. -- Privacy Policy
+# NIS America, Inc. -- Privacy Policy
 
 ### NIS America Online Privacy Policy
 
@@ -72,7 +72,7 @@ Back to the top.
 
 ### Can I choose how my personal information is used?
 
-If you do not want to be contacted by NIS America about our products or services, you may opt out at the time your information is collected. You may also call us at (714) 456-1763 between the hours of 10:00 am and 5:00 pm PST.
+If you do not want to be contacted by NIS America about our products or services, you may opt out at the time your information is collected. You may also call us at (714) 540-1122 between the hours of 10:00 am and 5:00 pm PST.
 
 Back to the top.
 
@@ -80,7 +80,7 @@ Back to the top.
 
 If you would like to receive or correct information that you submitted to our customer database, you may access it by phone or postal mail.
 
-You may call us at (714) 456-1763 between the hours of 10:00 am and 5:00 pm PST. Or contact us by postal mail at **NIS America, Inc. 1231 E. Dyer Rd. Suite 270, Santa Ana, CA 92705.**
+You may call us at (714) 540-1122 between the hours of 10:00 am and 5:00 pm PST. Or contact us by postal mail at **NIS America, Inc. 1221 E. Dyer Rd. Suite 210, Santa Ana, CA 92705.**
 
 Back to the top.
 
@@ -108,16 +108,16 @@ You may review or request to delete any information your child has submitted to 
 
 Children's Online Privacy  
 NIS America, Inc.  
-1231 E. Dyer Rd. Suite270  
+1221 E. Dyer Rd. Suite210  
 Santa Ana, CA 92705
 
 Back to the top.
 
 ### Question or complaint
 
-Feel free to write us at NIS America, 1231 E. Dyer Rd. Suite270, Santa Ana, CA 92705.
+Feel free to write us at NIS America, 1221 E. Dyer Rd. Suite210, Santa Ana, CA 92705.
 
-You can also call us at **(714) 456-1763** between the hours of **10:00am and 5:00pm PST**. Ask to speak with a Customer Service Representative and please state the nature of the call.
+You can also call us at **(714) 540-1122** between the hours of **10:00am and 5:00pm PST**. Ask to speak with a Customer Service Representative and please state the nature of the call.
 
 By using this site, you signify your assent to NIS America’s Online Privacy Policy. If you do not agree to this policy, please do not use any NIS America websites. We reserve the right to make changes in this policy at any time. Please check the policy each time you use our web site to ensure you are aware of any changes in our privacy practices. Our privacy policy will indicate the date it was last updated.
 
