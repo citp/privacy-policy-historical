@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the amazon.ca privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502174901id_/http%3A//www.amazon.ca/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D918814) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazon.ca privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218212134id_/http%3A//www.amazon.ca/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D918814) for the most accurate reproduction.*
 
 # Amazon.ca: Help > Privacy and Security > Amazon.ca Privacy Notice
 
-Vous voulez voir cette page en français ? [Cliquez ici](https://web.archive.org/gp/help/customer/display.html?ie=UTF8&nodeId=918814&lang=fr%5FCA).
+Vous voulez voir cette page en français ? [Cliquez ici](https://web.archive.org/gp/switch-language/help/customer/display.html?ie=UTF8&nodeId=918814&language=fr%5FCA). 
 
- **Amazon.ca Privacy Notice**
+**Amazon.ca Privacy Notice**
 
  **Last Updated: August 14, 2007** ([Click here](https://web.archive.org/gp/help/customer/display.html?nodeId=200038080) to see what's changed.)
 
