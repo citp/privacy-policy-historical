@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourbizwebsites.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614002557id_/http%3A//yourbizwebsites.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourbizwebsites.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218053645id_/http%3A//www.yourbizwebsites.com/Privacy.html) for the most accurate reproduction.*
 
 # Grab Your FREE Website - TODAY - From YourBizWebsites
 
@@ -42,4 +42,5 @@ By using the YourBizWebsites.com subscription form, you consent to the collectio
 
 Copyright 2008© YourBizWebsites.com | All rights reserved.
 
-Automated Income Stream LLC, 881 West State Street, 140407 Pleasant Grove, Utah, 84062
+**Automated Income Stream Ltd** : Suite 127, Communications House, 9 St Johns Street, Colchester, Essex CO2 7NN United Kingdom   
+Registered Number: 6307027. Data Protection Registration: Z1030471 
