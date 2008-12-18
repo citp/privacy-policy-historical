@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ufs.ac.za privacy policy that was archived on 2008-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080519144444id_/http%3A//www.ufs.ac.za/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufs.ac.za privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218095156id_/http%3A//www.ufs.ac.za/legal/privacy.php) for the most accurate reproduction.*
 
 # A university of excellence, equity and innovation
 
