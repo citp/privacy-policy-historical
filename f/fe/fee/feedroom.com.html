@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the feedroom.com privacy policy that was archived on 2008-03-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080313012024id_/http%3A//www.feedroom.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the feedroom.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218074825id_/http%3A//www.feedroom.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><link href="css/main.css" rel="stylesheet" type="text/css">
 <script>
@@ -11,10 +11,23 @@
         }
         else
         {
-            document.location.href = "http://" + document.location.host + "/FeedRoom/search.aspx?search=" +  document.getElementById("search").value;
+            document.location.href = "http://" + document.location.host + "/search.aspx?search=" +  document.getElementById("search").value;
             
         }
     };
+    function KeyDownHandler(btn)
+    {
+        
+        // process only the Enter key
+        if (event.keyCode == 13)    
+        {
+            // cancel the default submit
+            event.returnValue=false;
+            event.cancel = true;
+            // submit the form by programmatically clicking the specified button
+            btn.click();
+        }
+    }
 </script>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -24,7 +37,13 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 var pageTracker = _gat._getTracker("UA-297051-11");
 pageTracker._initData();
 pageTracker._trackPageview();
-</script><title>
+</script>
+<!--This is LeadLander Analytics Code-->
+<script type="text/javascript" language="javascript">llactid=11173</script>
+<script type="text/javascript" language="javascript" src="http://t4.trackalyzer.com/trackalyze.js"></script>
+<!--End LeadLander Analytics Code-->
+
+<title>
 	The FeedRoom - About Us - Leadership
 </title></head>
 <body>
@@ -37,9 +56,9 @@ pageTracker._trackPageview();
     </map>
   </div>
   <div id="topnav"><a href="about.aspx?mode=about"><img id="ctl00_iabout" alt="About Us" src="art/b_about_us.gif" border="0">
-      </a><a href="solutions.aspx?mode=solution"><img id="ctl00_isolutions" alt="solutions" src="art/b_solutions.gif" border="0"></a><a href="product.aspx?mode=products"><img id="ctl00_iProducts" alt="Products + Services" src="art/b_products.gif" border="0"></a><a href="news.aspx?mode=news"><img id="ctl00_iNews" alt="News" src="art/b_news.gif" border="0"></a><a href="events.aspx?mode=events"><img id="ctl00_iEvents" alt="Events" src="art/b_events.gif" border="0"></a><a href="clients.aspx?mode=clients"><img id="ctl00_iClient" alt="Client Portfolio" src="art/b_client.gif" border="0"></a><!-- butt tags to fix IE spacing bug -->
-      <form id="searchform" action="">
-      <input id="search" name="search" type="text" value="">
+      </a><a href="solutions.aspx?mode=solution"><img id="ctl00_isolutions" alt="solutions" src="art/b_solutions.gif" border="0"></a><a href="product.aspx?mode=products"><img id="ctl00_iProducts" alt="Products + Services" src="art/b_products.gif" border="0"></a><a href="news.aspx?mode=news"><img id="ctl00_iNews" alt="News" src="art/b_news.gif" border="0"></a><a href="events.aspx?mode=events"><img id="ctl00_iEvents" alt="Events" src="art/b_events.gif" border="0"></a><a href="byclients.aspx?mode=clients"><img id="ctl00_iClient" alt="Client Portfolio" src="art/b_client.gif" border="0"></a><!-- butt tags to fix IE spacing bug -->
+      <form id="searchform" action="search.aspx">
+      <input id="search" name="search" type="text" value="" onkeydown="KeyDownHandler(searchbutton)">
       <input name="submit" id="searchbutton" type="button" value="SEARCH" onclick="GoSerchpage();">
     </form>
     <div id="subnav">
@@ -48,7 +67,7 @@ pageTracker._trackPageview();
   <!--[if IE]><div id="IEfix1"><![endif]-->
   <!-- positioning fix for IE -->
   <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkZM6QT6wYUwRgUXt9u4veioJ4xAjW">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgICEw9kFgICBw8PFgIeB1Zpc2libGVoZGRkR9ODkC0FHpvma8BwYGnmmmZkm44=">
 
 
 <script src="/ScriptResource.axd?d=jo57HXvXTx4CWQtDHcjefOBhEnfNM39843J9A6TNxf39oGLVofHZ9Y_09A6OG9RFJGyRQ3WVtJ_yZTQ6veS0Irj4OMHwOPI98RoiAe2ChFo1&amp;t=633155139071875000" type="text/javascript"></script>  
@@ -131,26 +150,7 @@ pageTracker._trackPageview();
   <div id="right">
     <div id="howhelp"><a href="contact_us.aspx?mode=about"><img src="art/b_contact_sales.gif" alt="Contact FeedRoom Sales" style="padding-bottom:15px;"></a><a href="mailto:support@feedroom.com"><img src="art/b_tech_assist.gif" alt="Technical Assistance" style="padding-bottom:11px;"></a><a href="mailto:info@feedroom.com"><img src="art/b_gen_inquiries.gif" alt="General Inquiries" style="padding-bottom:9px;"></a></div>
   <span id="ctl00_Related_link1_lblrightlink"></span>
-    
-<div id="broadband">
-    <table width="90%" border="0" cellpadding="0" cellspacing="0" style="color:White">
-        <tbody><tr>
-            <td>
-                <img src="art/h_focus_bkgd.gif" alt="Broadband Video ASP Matrix" style="padding-bottom:10px;">
-            </td>
-        </tr>
-        <tr>
-            <td height="150px"><div style="padding:0px 10px 0px 15px; text-align:left;">
-                <span id="ctl00_focus1_lbldescp"></span>
-            </div></td>
-        </tr>
-        <tr>
-            <td>             
-                <img src="art/a_right_bottom.gif" alt="The FeedRoom" style="padding-top:5px;">
-            </td>
-        </tr>
-    </tbody></table>
-</div> 
+     
   </div>
   <div id="foot">
     <p> <a href="contact_us.aspx?mode=about">CONTACT US</a> | <a href="privacy.aspx">PRIVACY POLICY</a> </p>
