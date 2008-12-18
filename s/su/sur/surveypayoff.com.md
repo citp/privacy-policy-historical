@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveypayoff.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614233034id_/http%3A//www.surveypayoff.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveypayoff.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218121847id_/http%3A//www.surveypayoff.com/privacy.html) for the most accurate reproduction.*
 
 # SurveyPayoff.com - Get Paid For Your Opinion!
 
@@ -18,7 +18,7 @@ Anonymous aggregate information about your visit to the Website may be collected
 
 _ Use of Information  _
 
-We use the personal information you submit to provide you with the services affiliated with the Website.  For example, if you join the Website, we will send you updates to our database or new survey offers.  You can simply unsubscribe to these updates by clicking the link at the bottom of the first email update or by [clicking here](https://web.archive.org/web/20080614233034id_/http%3A//www.surveypayoff.com/unsub.html).   
+We use the personal information you submit to provide you with the services affiliated with the Website.  For example, if you join the Website, we will send you updates to our database or new survey offers.  You can simply unsubscribe to these updates by clicking the link at the bottom of the first email update or by [clicking here](https://web.archive.org/web/20081218121847id_/http%3A//www.surveypayoff.com/unsub.html).   
 
 Upon registration with the Website, you will be presented the opportunity to request and receive special offers provided by other companies.  You can choose some offers, all of them, or none of them - it's up to you. By choosing an offer and clicking the Submit/Continue button on the bottom of the offer page, you authorize us to pass along your email address and the information you provide to us on the sign-up form to the advertisers you select.  The privacy policies of these advertisers will be available for you to review before you select the offer. 
 
@@ -48,4 +48,4 @@ We take great efforts to provide security for your information.  However, no sy
 
 _ Questions_
 
-If you have any questions regarding how your information is collected or used on the Website, we can be contacted by [clicking here](https://web.archive.org/web/20080614233034id_/http%3A//www.surveypayoff.com/contact.html).
+If you have any questions regarding how your information is collected or used on the Website, we can be contacted by [clicking here](https://web.archive.org/web/20081218121847id_/http%3A//www.surveypayoff.com/contact.html).
