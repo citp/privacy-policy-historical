@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the semaphore-software.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609175341id_/http%3A//www.semaphore-software.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semaphore-software.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218094857id_/http%3A//www.semaphore-software.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Software Development Outsourcing, Offshore Software Development, software development services, web site design
 
