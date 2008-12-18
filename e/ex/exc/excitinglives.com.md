@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the excitinglives.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615135327id_/http%3A//www.excitinglives.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excitinglives.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218215421id_/http%3A//www.excitinglives.com/privacy.shtml) for the most accurate reproduction.*
 
-# India Online Gift, Sending Gift to India, Anniversary Gift India, Gift from India
+# Exciting Lives - Anniversary Birthday gifts in India
 
 Privacy Policy
 
@@ -19,9 +19,14 @@ You can subscribe to the our mailing lists at the time of registering your accou
 
 We generally send weekly or monthly emails that contain content relevant to the experiences provided on the website and which we feel may be useful for you. 
 
-At any point of time you can go to the subscription page and unsubscribe from this list and will thereafter receive no emails from us. 
+At any point of time you can click on the 'unsubscribe' link at the bottom of each email to remove yourself from the list. You will thereafter receive no emails from us. 
 
 Your email address and other details are not shared with any company or organisation. Basis your subscription with us you shall recieve mails only from our organisation. 
+
+**Member Information:**  
+We completely respect your privacy and hate spam as much as you do. Your name, address, phone number and email addresses collected while joinging the website are never revealed to a third-party or marketing agency. You can be assured no spam will reach you because of us. 
+
+When you use the 'Tell A Friend' facility an email is sent out on your behalf about the website and your intention of sharing this with the persons you mention. These email addresses are however not stored and they are not used for further communication ever. 
 
 **External Links:**  
 This site contains links to other sites. We are not responsible for the privacy practices or the content of any websites whose links are provided on this website or those which link to us. 
@@ -29,5 +34,5 @@ This site contains links to other sites. We are not responsible for the privacy 
 **Contacting the Web Site:**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us using the links provided below. 
 
-[Contact Information](https://web.archive.org/web/20080615135327id_/http%3A//www.excitinglives.com/contact.shtml)  
-[Terms Of Use](https://web.archive.org/web/20080615135327id_/http%3A//www.excitinglives.com/terms.shtml)
+[Contact Information](https://web.archive.org/web/20081218215421id_/http%3A//www.excitinglives.com/contact.shtml)  
+[Terms Of Use](https://web.archive.org/web/20081218215421id_/http%3A//www.excitinglives.com/terms.shtml)
