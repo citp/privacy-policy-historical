@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the coremetrics.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514205956id_/http%3A//www.coremetrics.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coremetrics.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218194247id_/http%3A//www.coremetrics.com/company/privacy.php) for the most accurate reproduction.*
 
-# Coremetrics
+# Coremetrics Privacy Policy
 
 Coremetrics is a leader in online privacy. This Privacy Statement is designed to inform you (i) of our privacy beliefs and practices; and (ii) about how to take greater control over your own online privacy.
 
 This Privacy Statement includes (i) the privacy policies for our collection of visitor data at our own web site, [www.coremetrics.com](http://www.coremetrics.com/), and (ii) a description of the services that we provide to our clients, including our analytics services (the "Services"). This Statement also discusses our visitor opt-out policy. Unless otherwise stated, this Statement does not cover our offline data practices.
+
+[](http://www.truste.org/ivalidate.php?url=www.coremetrics.com&sealid=101)
 
 Privacy Policy For The Coremetrics Web Site
 
