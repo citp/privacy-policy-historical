@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yamabay.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611052938id_/http%3A//www.yamabay.com/YamabayPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yamabay.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218181929id_/http%3A//www.yamabay.com/YamabayPrivacy.htm) for the most accurate reproduction.*
 
 # Yamabay Privacy
 
