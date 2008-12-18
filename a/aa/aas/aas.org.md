@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the aas.org privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630171107id_/http%3A//www.aas.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aas.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218012958id_/http%3A//aas.org/privacy_policy.php) for the most accurate reproduction.*
 
-# AAS — Privacy Policy
+# Privacy Policy | American Astronomical Society
+
+| 
 
 The American Astronomical Society (AAS) is committed to the value of privacy. As you use our web sites, you may be prompted to enter information when you:
 
@@ -52,3 +54,5 @@ AAS sites are general audience sites and do not knowingly collect any personal i
 ## Notification of changes
 
 If we make material changes to our privacy policy, these changes will be posted to our privacy policy page. You should review this page regularly for updates.
+
+| 
