@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alcoa.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211051005id_/http%3A//www.alcoa.com/global/en/general/privacy.asp%3Flc%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alcoa.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218110634id_/http%3A//alcoa.com/global/en/general/privacy.asp%3Flc%3D3) for the most accurate reproduction.*
 
 # Alcoa: About Alcoa: Reference: Privacy
 
@@ -32,4 +32,5 @@ editor@alcoa.com
 Because Alcoa offers a wide range of online business opportunities for its customers, the amount of information Alcoa needs to collect in order to serve you in a particular business transaction will sometimes vary from case to case. Regardless of the amount of information collected, the principles listed above will apply. Wherever Alcoa collects personal information, you will find a link to an Alcoa privacy statement. If you choose not to provide some information, for example to enable confirmation of credit status or contact information to permit sending you requested information, it may not be possible for you to proceed with your chosen business activity with Alcoa. |  |  Use of cookies  
   
   
-In order to improve our site, we utilize "cookies" to maintain a record of your visit. A cookie is a small amount of data that is transferred to a web browser by a web server and can only be read by the server that gave it to you. This information does not identify you personally and you remain anonymous unless you have otherwise provided Alcoa with personal identifiable information. If you do not wish to accept cookies you will find instructions for disabling this function within your browser.
+In order to improve our site, we utilize "cookies" to maintain a record of your visit. A cookie is a small amount of data that is transferred to a web browser by a web server and can only be read by the server that gave it to you. This information does not identify you personally and you remain anonymous unless you have otherwise provided Alcoa with personal identifiable information. If you do not wish to accept cookies you will find instructions for disabling this function within your browser. **AS/400 Data Privacy**  
+[download [PDF, 16KB]](https://web.archive.org/global/en/pdf/Alcoa_-_AS_400_Privacy_Statement.pdf)
