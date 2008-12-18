@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sefanboy.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503070409id_/http%3A//sefanboy.com/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sefanboy.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219003434id_/http%3A//sefanboy.com/privacy-policy-statement) for the most accurate reproduction.*
 
 # Privacy Policy » Sony Ericsson Fanboy
 
@@ -21,7 +21,7 @@ Your personally identifiable information is kept secure. Only authorized employe
 Privacy Contact Information  
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-By e-mail: marbolec@sefanboy.com  
+By e-mail: marbolec(at)gmail.com  
 By Phone: +6285216986649
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
