@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the sonesta.com privacy policy that was archived on 2008-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080601145306id_/http%3A//www.sonesta.com/Corporate/index.cfm%3Ffa%3Dmisc.PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sonesta.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218143608id_/http%3A//www.sonesta.com/Corporate/index.cfm%3Ffa%3Dmisc.PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 
 	
 	<title>Sonesta Hotels, Resorts &amp; Nile Cruises - Sonesta New Orleans, Boston, Miami, St. Maarten, Brazil, Peru, Egypt</title>
-	<meta name="description" content="Official site of Sonesta – including Royal Sonesta Hotels, Nile Cruises, Beach Resorts, Trump International, and Chateau. Discover the distinctive Sonesta resorts and hotels in New Orleans, Maho Beach, Boston / Cambridge, Coconut Grove, Key Biscayne, and more.">
+	<meta name="description" content="Official site of Sonesta – including Royal Sonesta Hotels, Nile Cruises and Beach Resorts. Discover the distinctive Sonesta resorts and hotels in New Orleans, Maho Beach, Boston / Cambridge, Coconut Grove, and more.">
 	
-	<meta name="keywords" content="Sonesta,Sonesta Hotels,Royal Sonesta,Sonesta Hotel,Sonesta Hotels,royal sonesta hotel cambridge,trump international sonesta,sonesta maho beach resort,royal sonesta hotels,trump international beach resort,royal sonesta new orleans hotel,sonesta nile cruises,sonesta beach resorts,sonesta beach,sonesta resorts">
+	<meta name="keywords" content="Sonesta,Sonesta Hotels,Royal Sonesta,Sonesta Hotel,Sonesta Hotels,royal sonesta hotel cambridge,sonesta maho beach resort,royal sonesta hotels,royal sonesta new orleans hotel,sonesta nile cruises,sonesta beach resorts,sonesta beach,sonesta resorts,sonesta sole,sonesta sole miami,sole miami,royal sonesta cambridge ma">
 	<link rel="stylesheet" media="screen" href="/includes/css/structure.css" type="text/css">
-	<link rel="stylesheet" media="print" href="/includes/css/print.css?81095" type="text/css">
+	<link rel="stylesheet" media="print" href="/includes/css/print.css?50884" type="text/css">
 	<link rel="icon" href="/favicon.ico" type="image/gif">
 	<link rel="alternate" type="application/rss+xml" title="Sonesta RSS Feed" href="/corporate/index.cfm?fa=xml.NewsAndOffers">
 	<link rel="stylesheet" media="all" href="/includes/css/boston.css" type="text/css">
@@ -77,9 +77,7 @@
 		
 			aI("text=Miami - Coconut Grove;url=index.cfm?fa=c.LocationRedirect&sid=55&region=united%20states;");
 		
-			aI("text=Miami - Sunny Isles - Trump Sonesta;url=index.cfm?fa=c.LocationRedirect&sid=59&region=united%20states;");
-		
-			aI("text=New Orleans - Chateau Sonesta;url=index.cfm?fa=c.LocationRedirect&sid=8&region=united%20states;");
+			aI("text=Miami - Sunny Isles - Sonesta Sol&eacute;;url=index.cfm?fa=c.LocationRedirect&sid=59&region=united%20states;");
 		
 			aI("text=New Orleans - Royal Sonesta;url=index.cfm?fa=c.LocationRedirect&sid=9&region=united%20states;");
 		
@@ -438,9 +436,6 @@
 						
 
 
-
-
-
  
 
 
@@ -474,74 +469,184 @@
 		</div>
 			<div class="padding">
 
+
 			<script>
 			function Validate(form) {
-				if (form.sid.value.length == '') {
+
+				if (typeof(form.sid) != "undefined" && form.sid.value.length == '') {
 					alert('Please enter a location');
 					return false;
 				}
+
+				callOmnitureTrackingCode('Reservation Widget');
+
+				return true;
 			}
+
+			function nileCruiseSelected(obj){
+				//alert(obj.value);
+
+				if (obj.value == 500){
+
+					 window.location="/NileCruises/index.cfm?fa=nilecruises.reservationStep1";
+				/*
+					document.getElementById("resWidgTbl").style.display = 'none';
+					document.getElementById("spacerBlock").style.display = 'block';
+				*/
+				}
+				/*
+				else {
+					document.getElementById("resWidgTbl").style.display = 'block';
+					document.getElementById("spacerBlock").style.display = 'none';
+				}
+				*/
+			}
+
 			</script>
+
 				<form action="index.cfm?fa=misc.reservation" method="post" onsubmit="return Validate(this)">
 				
-				<select name="sid" id="sid" style="font-size:10px; width:185px;">
+				<select name="sid" id="sid" style="font-size:10px; width:185px;" onchange="nileCruiseSelected(this)">
 					<option value=""> - Choose A Location - </option>
 				
-					<option value="6">Boston - Cambridge</option>
+					
+						
+							<option value="6">Boston - Cambridge</option>
+						
+					
 				
-					<option value="55">Miami - Coconut Grove</option>
+					
+						
+							<option value="55">Miami - Coconut Grove</option>
+						
+					
 				
 					
 				
-					<option value="8">New Orleans - Chateau Sonesta</option>
-				
-					<option value="9">New Orleans - Royal Sonesta</option>
+					
+						
+							<option value="9">New Orleans - Royal Sonesta</option>
+						
+					
 				
 					
 				
-					<option value="33">Brazil - Brasilia</option>
+					
+						
+							<option value="33">Brazil - Brasilia</option>
+						
+					
 				
-					<option value="74">Brazil - São Paulo</option>
+					
+						
+							<option value="74">Brazil - São Paulo</option>
+						
+					
 				
 					
 				
-					<option value="13">Egypt - Cairo</option>
+					
+						
+							<option value="13">Egypt - Cairo</option>
+						
+					
 				
-					<option value="19">Egypt - Hurghada</option>
+					
+						
+							<option value="19">Egypt - Hurghada</option>
+						
+					
 				
-					<option value="14">Egypt - Luxor</option>
+					
+						
+							<option value="14">Egypt - Luxor</option>
+						
+					
+				
+					
+						
+							<option value="500">Egypt - Nile Cruises</option>
+						
+					
+				
+					
+						
+							<option value="15">Egypt - Port Said</option>
+						
+					
+				
+					
+						
+							<option value="17">Egypt - Sharm El Sheikh - Beach</option>
+						
+					
+				
+					
+						
+							<option value="18">Egypt - Sharm El Sheikh - Club</option>
+						
+					
+				
+					
+						
+							<option value="32">Egypt - Taba</option>
+						
+					
 				
 					
 				
-					<option value="15">Egypt - Port Said</option>
-				
-					<option value="17">Egypt - Sharm El Sheikh - Beach</option>
-				
-					<option value="18">Egypt - Sharm El Sheikh - Club</option>
-				
-					<option value="32">Egypt - Taba</option>
-				
+					
+						
+							<option value="69">Peru - Arequipa</option>
+						
 					
 				
-					<option value="69">Peru - Arequipa</option>
+					
+						
+							<option value="22">Peru - Cusco</option>
+						
+					
 				
-					<option value="22">Peru - Cusco</option>
+					
+						
+							<option value="25">Peru - Lake Titicaca - Puno</option>
+						
+					
 				
-					<option value="25">Peru - Lake Titicaca - Puno</option>
+					
+						
+							<option value="26">Peru - Lima - El Olivar</option>
+						
+					
 				
-					<option value="26">Peru - Lima - El Olivar</option>
+					
+						
+							<option value="24">Peru - Lima - Miraflores</option>
+						
+					
 				
-					<option value="24">Peru - Lima - Miraflores</option>
+					
+						
+							<option value="27">Peru - Sacred Valley - Yucay</option>
+						
+					
 				
-					<option value="27">Peru - Sacred Valley - Yucay</option>
+					
+						
+							<option value="72">St. Maarten - Great Bay</option>
+						
+					
 				
-					<option value="72">St. Maarten - Great Bay</option>
-				
-					<option value="5">St. Maarten - Maho Beach</option>
+					
+						
+							<option value="5">St. Maarten - Maho Beach</option>
+						
+					
 				
 				</select>
 				
-				<table border="0" cellpadding="2" cellspacing="0">
+				<div id="spacerBlock" style="display:none;height:5px;">&nbsp;</div>
+				<table border="0" cellpadding="2" cellspacing="0" id="resWidgTbl">
 					
 					<tbody><tr>
 						<td colspan="3"><b>Arriving:</b> <span id="arriveDateString"></span></td>
@@ -620,24 +725,6 @@
 							
 		
 			
-			<option value="6/01/2008">Jun 08</option>
-		
-			
-			<option value="7/01/2008">Jul 08</option>
-		
-			
-			<option value="8/01/2008">Aug 08</option>
-		
-			
-			<option value="9/01/2008">Sep 08</option>
-		
-			
-			<option value="10/01/2008">Oct 08</option>
-		
-			
-			<option value="11/01/2008">Nov 08</option>
-		
-			
 			<option value="12/01/2008">Dec 08</option>
 		
 			
@@ -693,6 +780,24 @@
 		
 			
 			<option value="6/01/2010">Jun 10</option>
+		
+			
+			<option value="7/01/2010">Jul 10</option>
+		
+			
+			<option value="8/01/2010">Aug 10</option>
+		
+			
+			<option value="9/01/2010">Sep 10</option>
+		
+			
+			<option value="10/01/2010">Oct 10</option>
+		
+			
+			<option value="11/01/2010">Nov 10</option>
+		
+			
+			<option value="12/01/2010">Dec 10</option>
 		
 		
 							</select>
@@ -792,24 +897,6 @@
 							
 		
 			
-			<option value="6/01/2008">Jun 08</option>
-		
-			
-			<option value="7/01/2008">Jul 08</option>
-		
-			
-			<option value="8/01/2008">Aug 08</option>
-		
-			
-			<option value="9/01/2008">Sep 08</option>
-		
-			
-			<option value="10/01/2008">Oct 08</option>
-		
-			
-			<option value="11/01/2008">Nov 08</option>
-		
-			
 			<option value="12/01/2008">Dec 08</option>
 		
 			
@@ -866,6 +953,24 @@
 			
 			<option value="6/01/2010">Jun 10</option>
 		
+			
+			<option value="7/01/2010">Jul 10</option>
+		
+			
+			<option value="8/01/2010">Aug 10</option>
+		
+			
+			<option value="9/01/2010">Sep 10</option>
+		
+			
+			<option value="10/01/2010">Oct 10</option>
+		
+			
+			<option value="11/01/2010">Nov 10</option>
+		
+			
+			<option value="12/01/2010">Dec 10</option>
+		
 		
 							</select>
 						</td>
@@ -911,25 +1016,15 @@
 				</form>
 				
 	<div class="center" style="padding: 5px 0px 0px 0px;">
+
 		Call for Reservations <br>800.SONESTA (U.S. &amp; Canada) <br>or call the hotel direct <br> Or to reach the corporate office<br> call 617.421.5400
+
 		
 	</div>
 	
 				
 			</div>
 		</div>
-		
-		 
-			<div class="promoBlockL" style="margin-top:-3px;">
-				<div class="header">
-					<img src="/images/nav/en/HeaderAirReservations.png">
-				</div>
-				<img src="/images/nav/misc/FlightImage.jpg">
-				<div class="padding">
-					<input type="button" class="submit" name="button" value="check availability &amp; rates" style="width:185px;" onclick="window.open ('http://book.reservations--online.com/pl/SONESTA/reservations.htm', 'reservationWindow')">
-				</div>
-			</div>
-		
 		
 
 		
@@ -1023,8 +1118,8 @@
 			function () {
 				var config = {};
 				for (var i in YahooCalendarConfig) { config[i] = YahooCalendarConfig[i] }
-				config.mindate = "06/01/2008";
-				config.maxdate = "06/01/2010";
+				config.mindate = "12/18/2008";
+				config.maxdate = "12/18/2010";
 				reserveArriveCalendar = new YAHOO.widget.Calendar("reserveArriveCalendar","reserveArriveCalendarContainer", config );
 				reserveArriveCalendar.render();
 
@@ -1045,8 +1140,8 @@
 				YAHOO.util.Event.addListener(["departDate", "departMonthYear"], "change", function () { onReservationDateChange("depart") });
 				YAHOO.util.Event.addListener(["departDate", "departMonthYear"], "keyup", function () { onReservationDateChange("depart") });
 
-				reserveArriveCalendar.select(new Date(2008, 5, 1));
-				reserveDepartCalendar.select(new Date(2008, 5, 2));
+				reserveArriveCalendar.select(new Date(2008, 11, 18));
+				reserveDepartCalendar.select(new Date(2008, 11, 19));
 			}
 		);
 
@@ -1144,6 +1239,9 @@ At times our privacy policy may be changed and any updates will be posted to thi
 </div>
 </div>
 					</div>
+				
+
+				
 				
 						<div class="clearLeft"><br></div>
 
@@ -1322,6 +1420,25 @@ At times our privacy policy may be changed and any updates will be posted to thi
   urchinTracker();
   </script>
 
+
+
+
+<script type="text/javascript" src="/includes/js/scodeToServiceArray.js?564"></script>
+
+<script>
+	function callOmnitureTrackingCode(callerName){
+		var locationSCode = getLocationSCode('63','63');
+		//alert(callerName + ' - ' + locationSCode);
+
+		var s=s_gi(locationSCode);
+		s.linkTrackVars='prop1,eVar1,events';
+		s.events='event1';
+		s.prop1= callerName + ' - Sonesta - Corporate';
+		s.eVar1= callerName + ' - Sonesta - Corporate';
+		s.tl(this,'o',callerName + ' - Sonesta - Corporate');
+
+	}
+</script>
 
 
 
