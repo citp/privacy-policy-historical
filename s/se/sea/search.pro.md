@@ -1,104 +1,32 @@
-> *The following text is extracted and transformed from the search.pro privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611082748id_/http%3A//www.hostway.com/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search.pro privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218163243id_/http%3A//search.pro/privacy.html) for the most accurate reproduction.*
 
-# Hostway's Privacy Statement
+# Search Pro
 
-last updated December 21, 2007
+SEARCH.PRO respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy is only applicable to the site, http://www.search.pro (the "Site"), and not any other websites that are accessible from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. We are not responsible for the privacy practices of such websites. 
 
-Hostway Corporation (“Hostway”) respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy covers the site [http://www.hostway.com](https://web.archive.org/index.html). We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us or as specifically outlined in this Policy. This Policy is incorporated into and subject to the Terms of Use (“TOU”) Agreement found at [http://www.hostway.com/legal/terms_of_use.html](https://web.archive.org/legal/terms_of_use.html). 
+**INFORMATION AUTOMATICALLY COLLECTED BY THE SITE**   
+Like many websites, we collect and analyze certain user behavior on the Site and store it in log files. This information is non-personally identifiable and may include, but is not limited to, Internet Protocol (IP) addresses, browser type, referring/exit pages, the date & time, and search queries. We also collect information regarding user activities on the Site. We use this information to analyze website traffic, improve the performance of our search services, improve our geo-targeted advertising services, administer the website and prevent fraud. This helps us to determine how best to provide useful information to users and to understand which parts of the Site and services are of most interest to them. 
 
-Hostway is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+On occasion we may share your non-personally identifiable information that we collect to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of SEARCH.PRO's Terms of Use, in order to diagnose a problem with our server, to administer the Site or as we otherwise deem necessary in our sole and absolute discretion. We will transfer information about you if SEARCH.PRO is acquired by or merged with another company and this may occur with or without notice to you. Also, we will provide your personal information to respond to subpoenas, court orders, or legal process or to establish or exercise our legal rights or defend against legal claims. 
 
-If you have questions or concerns regarding this statement, you should first contact the Hostway Legal Department at [legal@hostway.com](mailto:legal@hostway.com?subject=Legal%20Inquiry). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns.
+**COOKIES AND WEB BEACONS:**  
+We track user behavior and use of our services through the use of cookies and web beacons. A “cookie” is a small text file that a website can place on your computer's hard drive in order, for example, to collect information about your activities on the website or to make it easier to use certain website functions. The cookie transmits this information back to the website's computer. Many users do not know that “cookies” are being placed on their computers when they visit a website. If you want to know when this happens, or prevent it from happening, you can set your browser to warn you when a website attempts to place a “cookies” on your computer. 
 
-Hostway complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
+We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search and which advertisements they click on. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your computer for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's “help” file. We use cookies on the Site to provide our service, including without limitation, in the following ways: We use cookies to track when a search user clicks on a sponsored listing, and in some cases we use cookies and web beacons to determine whether the click resulted in an actual purchase of products or services from the advertiser's site. This information is used to determine the effectiveness of our advertising services. We also use cookies to analyze how visitors, in the aggregate, use the Site, in order to make the Site as useful as possible for them. We do not use cookies to collect or store personally identifiable information. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some of our services may not function properly if your cookies are disabled. We also use web beacons (a small transparent image, iframe, script, object or other transparent tag embedded in a web page) on some of our web pages and advertising services. Whenever the user opens the page with a browser, the web beacon or tag is requested from the server storing it, allowing the server to take notice of the download. As a result, our servers (or the Site analytics company's servers) are informed of when the web page has been viewed. 
 
-This Policy describes our general principles for the collection and use of information from customers and visitors to our Web sites. We want to ensure that you understand how we will and will not use the information you entrust to us. In order to fully understand your rights we encourage you to read this Policy.
+**PERSONAL INFORMATION:**  
+We do not collect any personally identifiable information or financial information like credit card numbers, postal address, financial statements, etc. We do however collect a user's name and email address (if and when a user voluntarily chooses to provide) when he submits his feedback on ways to improve his experience on Search.pro 
 
-For visitors, we've structured our Web sites so that, in general, you can visit us on Web without identifying yourself or revealing any personal information.
+**LINKS TO OTHER WEBSITES:**  
+The Site includes links to thousands of other websites whose privacy practices may differ from those of SEARCH.PRO. SEARCH.PRO does not control the websites of third parties that are linked from the Site or through our services, and is not responsible for information included in those services. If you submit personal information to any of those websites, your information is subject to their privacy statements. SEARCH.PRO's Privacy Policy applies only to our own services, and does not apply to any other website. We encourage you to carefully read the privacy statement of any website you visit. SEARCH.PRO is not responsible for the privacy practices or the content of other websites.
 
-For prospective and existing customers and partners, once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your relationship with Hostway. 
+**PRIVACY POLICY UPDATES:**  
+SEARCH.PRO may update this Privacy Policy from time to time. We may notify you about significant changes in the way we treat your information by sending a notice to you, although we are not required to do so, or we may simply place a notice on the Site. Not withstanding the foregoing, we reserve the right to change this Privacy Policy without any notice whatsoever to you and for whatever reason we deem appropriate under the circumstances. Your continued use of the Site and our services will be construed as your acceptance of any such change. We encourage you to periodically check back and review this Privacy Policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
 
-#### What type of information does Hostway collect? 
+**TERMS OF USE:**  
+Use of the Site and our services are governed by the provisions contained in the Terms of Use located [here](http://search.pro/termsofuse.html). Your use, or access, of the Site and our Service constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE OR THE SERVICE. **
 
-When you visit our Web site, our Web server collects basic user information about you that includes your ISP's domain, the time you accessed our Web site, and the pages from within our Web site that you visit and is not personally identifiable information except as needed to prevent fraud or abuse of the system.
+CONTACTING US:
 
-When you sign up for Hostway's services, you provide us with both contact and payment information. Contact information typically includes your name, address, and phone number. Payment information typically includes your credit card number.
-
-While you are a Hostway customer, we manage information with regard to your account status, choice of services, and customer logs. In addition, we may store customers' electronic mail and other communications as a necessary incident to the transmission and delivery of those communications. 
-
-#### Surveys or Contests
-
-From time-to-time, we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).
-
-We use this information to notify contest winners and award prizes, to monitor site traffic or personalize the site (in the case of anonymous information collected in surveys), to send participants an email newsletter.
-
-We may use a third party service provider to conduct these surveys or contests; that company will be prohibited from using our users’ personally identifiable information for any other purpose including their own marketing. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice. 
-
-#### How do we use this information? 
-
-We use the contact information you provide us to establish our service for you. We use payment information for payment processing purposes only. We create and maintain other information such as customer account status, choice of services, and customer logs in the normal course of providing service. By pressing the “submit” button, each visitor constitutes consent to use the information for purposes stated in this Policy.
-
-Hostway may use customer information to provide customers with system information or information about new or upgraded products if you have chosen to receive such offers. You may opt out of receiving these offers by changing your preferences in your account information or by following the unsubscribe instructions in each email sent to you.
-
-Our trusted affiliates are responsible for processing or handling some of the information we receive, such as order fulfillment for phone services. Those affiliates are not authorized to use such information for purposes beyond those specified by us including marketing and are required to preserve the confidentiality with which we treat such information.
-
-We may disclose contact information with your permission when gathering and posting testimonials.
-
-We will not otherwise disclose customer personal and account information unless we have reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of Hostway, our customers, or others. We may provide information to regulatory authorities and law enforcement officials in accordance with applicable laws, respond to legal process, or where Hostway has a good faith belief that the law requires such disclosure.
-
-Hostway also will not disclose to third parties the contents of any electronic mail or other electronic communications that Hostway stores or transmits for its customers except where: (a) it is a matter or public safety or policy; (b) it is in connection with the transfer of other business assets; (c) it is required to cooperate with orders, warrants, or other legal process that Hostway determines in its sole discretion to be valid and enforceable; and (d) it is necessary to provide to a law enforcement agency when the contents are inadvertently obtained by Hostway and appear to pertain to the commission of a crime.
-
-Hostway disclaims any intention to censor, edit, or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. Hostway will, however, review, delete, or block access to communications that may harm Hostway, its customers or third parties. The grounds on which Hostway may take such action include, but are not limited to, actual or potential violations of the TOU.
-
-Please note that Hostway may use this information collected to direct service notices as well as provide you with other general information that may be of interest to you and information about our services or product offerings that you have opted to receive, as well as other important information regarding your account or services at our discretion. You may not opt our of receiving service related email communications.
-
-Customers may opt out of receiving newsletters and/or promotional emails from Hostway by sending a request to [newsletter-unsubscribe@hostway.com](mailto:newsletter-unsubscribe@hostway.com?subject=Unsubscribe%20Me), by using the unsubscribe instructions included in each promotional communication, or by changing your email preferences on the site within your Account information. In this request, customers must identify their domain name and contact information. Customers may not opt out of receiving information from Hostway which is essential for maintaining or updating customers account or system information. 
-
-#### Third Party Advertising and Cookies
-
-The basic user information collected is used to help us analyze Web traffic, improve the content of our Web site and improve your experience on our Web site. 
-
-We do not trade, rent or sell your personal information to others, except as detailed in this Policy. We currently contract with several online partners who use the data only on our behalf to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Action Tags and cookies provided by our marketing company on this site. The information collected by the marketing company through the use of Action Tags and cookies is not personally identifiable. We have no access or control over these third party cookies or action tags. The information they collect and share with us helps us learn things like what kinds of customers our site attracts, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used.
-
-We use other third parties to provide credit card processing services on our site. When you purchase a service or product from us we will share contact and credit card information as necessary for the third party to provide that service. 
-
-These third parties are prohibited from using your personally identifiable information for any other purpose including their own marketing services.
-
-We may at times also use cookies, which are small pieces of information that a Web site can store in a designated file on your computer. Cookies allow a Web application to respond to you as an individual. Our cookies are tied to your personally identifiable informant for this purpose. By gathering and remembering information about your preferences, the Web application can tailor its operation to your needs, likes, and dislikes. Most web browsers allow you to control this use of cookies. Please take a look at your particular browser for instructions on this function. If you elect to disable cookies, please keep in mind that you will not be able to take full advantage of a personalized experience on our Web site. It is possible that some portions of the site will not function properly or may perform more slowly if you choose to reject cookies. 
-
-Our Web site may allow for a chat function. Chat functions allow you to participate in “live” online conversations with us on our Web site. Although the transcripts from the chats may be stored internally on in-house servers for our records only, we collect no personally identifiable information about you when you participate unless you choose to provide that information to us. 
-
-#### How Can I access my personal information?
-
-You can access your personal information, such as your address and contact information, at anytime to correct, change or delete any of the data shared with us when you became a customer of Hostway. As a customer of Hostway you can access your personal information by clicking on the “Customer Login” link at the top of any Web page. Your account information is secure and is accessible by using a password that you select. If you need assistance or have questions about correcting information you can contact us via email at [support@hostway.com](mailto:support@hostway.com?subject=Customer%20Support%20Inquiry). Hostway will respond to access requests within 30 days. 
-
-#### Security
-
-Hostway has security measures in place to help prevent the loss, misuse and alteration of the information under our control. When you place an order online, your information, including your credit card number, is protected using Secure Socket Layer (SSL) encryption technology. This encrypts order data and is designed to aid in ensuring the accuracy and security of that customer information.
-
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-If you have any questions about security on our Web site, you can send email us at [privacy@hostway.com](mailto:privacy@hostway.com?subject=Privacy%20Inquiry).
-
-####  Links 
-
-Our Web site provides links to other Web sites, sites that may be maintained by companies that are not affiliates of ours. We are not responsible for the privacy practices or the content of such Web sites and we encourage you to use caution. In particular, we recommend that you view the privacy policy posted on each site to confirm the sites policies are acceptable to you. This Policy applies solely to information collected by this Web site. 
-
-#### Children’s Privacy 
-
-Hostway does not sell products or services for purchase by children. Customers must be at least 18 years of age. Any individual under the age of 18 (“Minor”) must have a parent or guardian accept the TOU in order for the Minor to become a Customer. If you are under 18, we strongly encourage you to use our Web site only with the involvement of a parent or guardian. 
-
-#### Changes to our Policy
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a prominent notice on our home page. 
-
-#### Contact Us
-
-If you have questions or concerns regarding this Policy, you should contact us by email at [privacy@hostway.com](mailto:privacy@hostway.com?subject=Privacy%20Inquiry). 
-
-Hostway Corporation   
-425 West Randolph Street  
-8th Floor  
-Chicago, IL 60606 
+**  
+If you have any questions about this privacy policy, the practices of this Site or Service or your dealings with us, you can contact us at: [admin@search.pro](mailto:admin@search.pro).
