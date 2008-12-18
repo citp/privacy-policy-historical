@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the francethisway.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602014127id_/http%3A//www.francethisway.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the francethisway.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218143553id_/http%3A//www.francethisway.com/privacy.php) for the most accurate reproduction.*
 
 # France This Way privacy policy
 
