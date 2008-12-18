@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the womantribune.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616115419id_/http%3A//womantribune.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womantribune.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218090858id_/http%3A//womantribune.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Woman Tribune - a web space for women
+# Privacy Policy | Woman Tribune
 
-  
+Browse >
 
+[Home](http://womantribune.com/ "Browse to: Home") / Privacy Policy 
 
 **Our Commitment to Privacy**
 
