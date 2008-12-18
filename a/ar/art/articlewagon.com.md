@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlewagon.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015151805id_/http%3A//articlewagon.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlewagon.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218091801id_/http%3A//articlewagon.com/privacy.php) for the most accurate reproduction.*
 
 # Article Wagon -- free article for publishers
 
