@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsdot.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625010200id_/http%3A//www.wsdot.wa.gov/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsdot.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218112846id_/http%3A//www.wsdot.wa.gov/policy/privacy.htm) for the most accurate reproduction.*
 
 # WSDOT - Web Privacy Notice
 
@@ -95,7 +95,7 @@ You can review any personally identifiable information we collect about you by u
 
 ### G. Cookies
 
-WSDOT uses "cookies" to customize your browsing experience on the WSDOT Web. Cookies are simple text files stored on your computer by your web browser. Generally, we use the cookie feature only to store a randomly generated identifying tag on your computer that identifies your computer as a returning visitor to the WSDOT Web and allows you to keep the text size you specified by clicking on the smaller or larger text option.
+WSDOT uses "cookies" to customize your browsing experience on the WSDOT Web. Cookies are simple text files stored on your computer by your web browser. We use the cookie feature to store a randomly generated identifying tag on your computer that identifies your computer as a returning visitor to the WSDOT Web and allows you to keep the text size you specified by clicking on the smaller or larger text option. We also use a cookie that collects anonymous traffic data.
 
 If you choose to download software from WSDOT, we do request that you provide personal information so that we may offer software support. This information is collected from an online form and stored on your computer in the form of a cookie. While this cookie will simplify your process for obtaining additional software, you may elect to decline this cookie. 
 
