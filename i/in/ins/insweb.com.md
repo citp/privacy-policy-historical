@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insweb.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514051435id_/http%3A//www.insweb.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insweb.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218091011id_/http%3A//www.insweb.com/privacy_policy.html) for the most accurate reproduction.*
 
 # InsWeb.com - Privacy & Security
 
