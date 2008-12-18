@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612062847id_/http%3A//www.acop.com/PrivacyPolicy.aspx%3FL%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218101732id_/http%3A//www.acop.com/PrivacyPolicy.aspx%3FL%3D1) for the most accurate reproduction.*
 
 # Paid online surveys for money and free online paid opinion surveys - American Consumer Opinion
 
@@ -97,11 +97,11 @@ Back to top
 
 Back to top
 
-You may "opt out" of giving personal information at anytime when taking a survey. You may also [update or delete](https://www.acop.com/AcopApps/RegistrationUtilities/Login.aspx?L=1) your personal information at any time. 
+You may "opt out" of giving personal information at anytime when taking a survey. You may also [update or delete](https://www.a2.acop.com/AcopApps/RegistrationUtilities/Login.aspx?L=1) your personal information at any time. 
 
   * Once you join our panel and receive invitations to complete surveys, you are under no obligation to complete those surveys. You can simply choose not to respond.
   * If you start taking a survey and are asked questions you do not wish to respond to, you may simply stop taking the survey at any point.
-  * Once you have registered, you may safely [update or delete](https://www.acop.com/AcopApps/RegistrationUtilities/Login.aspx?L=1) your membership (and all of your personal data) online at any time.
+  * Once you have registered, you may safely [update or delete](https://www.a2.acop.com/AcopApps/RegistrationUtilities/Login.aspx?L=1) your membership (and all of your personal data) online at any time.
 
 
 
