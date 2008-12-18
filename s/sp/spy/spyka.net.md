@@ -1,61 +1,67 @@
-> *The following text is extracted and transformed from the spyka.net privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212005901id_/http%3A//www.spyka.co.uk/static/privacy.sx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyka.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218061850id_/http%3A//www.spyka.co.uk/privacy) for the most accurate reproduction.*
 
-# spyka Web Group | Privacy Policy
+# spyka Web Group - privacy policy
 
-## Privacy Policy
+### Privacy Policy
 
-**Last revised: 13th August 2007**
+**Last revised: 10th December 2008**
 
 This policy explains in detail how spyka Web Group (hereinafter "sWG", "us", "we", "our") use any information collected during any visit by you (hereinafter "your", "visitor", "user")
 
-### Sites covered by this Privacy Policy
+##### Sites covered by this Privacy Policy
 
-This Privacy Policy applies to all spyka Web Group websites and domains including, but not limited to: ahiddenhaven.net, spyka.net, spyka.co.uk, randomquirk.com and spykawebdesign.com.
+This Privacy Policy applies to all spyka Web Group websites and domains including, but not limited to: ahiddenhaven.net, hiddenhaven.co.uk, spyka.net, spyka.co.uk, randomquirk.com, profileartist.net, spykapages.com, awesomestyles.com, forum-promotion.net, justfreetemplates.com and spykawebdesign.com.
 
-### Automatically collected information
+##### Automatically collected information
 
 Our web server automatically logs information when you visit any of our websites. This information includes, but is not limited to: Your IP, Hostname, Browser and Operating system information, Plug-in information, referrer and the pages you visit. None of the information we automatically collect identifies you personally. This information is kept for up to one month on our server. The information is then processed and analysed to produce website statistics. We use these statistics to enhance your browsing experience by creating pages tuned to specific browsers and operating systems. We may also use the information collected to administer and troubleshoot technical problems.
 
-### Cookies
+##### Cookies
 
-Cookies are small text files on your computer set by our web server. We use cookies in various ways across our websites. Our domains use statistics software, Google Analytics, to count and track visitors through our website. These cookies are used to identify repeat and unique visitors. Cookies are also used to keep visitors logged into their accounts by storing account info in cookies. Some cookies are also used to aid your browsing experience. We use cookies to store site specific settings you may set, such as colour styles, layouts or text sizes. To learn how to disable cookies in browser [click here](http://www.randomquirk.com/computing/disable-internet-cookies.html "Disable internet cookies"). Disabling cookies may cause some parts of our websites to not function properly.
+Cookies are small text files on your computer set by our web server. We use cookies in various ways across our websites. Our domains use statistics software, Google Analytics, to count and track visitors through our website. In this case these cookies are used to identify repeat and unique visitors and which webpages our website you visit. Cookies are also used to keep visitors logged into their accounts by storing account information, such as session and login IDs, in cookies. Some cookies are also used to aid your browsing experience. We use cookies to store site specific settings you may set, such as colour styles, layouts, text sizes or languages. To learn how to disable cookies in your browser [click here](http://www.randomquirk.com/computing/disable-internet-cookies.html "Disable internet cookies"). Please note that disabling cookies may cause some parts of our websites to not function properly.
 
-### Personal information
+##### Personal information
 
-All personal information we collect is kept securely and is not shared, sold or otherwise passed on to any person or company outside of the spyka Web Group management. We only collect personal information which you wilfully supply. We only ask you for information we need to process your request. Once this information has been used it is deleted. This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We ask you to provide a name and email address when contacting us, this information is essential for a reply from us. We do not keep personal information collected in this manner, once used it is deleted.
+All personal information we collect is kept securely and is not shared, sold or otherwise passed on to any person or company outside of the spyka Web Group management. We only collect personal information which you wilfully supply. We only ask you for the information we require to process your request. Once this information has been used it is deleted. This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We ask you to provide a name and email address when contacting us, this information is essential for a reply from us. We do not keep personal information collected in this manner, once used it is deleted.
 
-### IP identification
+##### Query logging
 
-An IP is the numeric address of a computer connected to the Internet; also called Internet address. Some of our web applications use IP addresses to identify users and supply them with their personal settings. For this reason your IP address may be stored in a database for future requests and processing. 
+sWG do not monitor, view, share, store or in any other way make available queries you may enter into search forms on our websites.
 
-### Public forums
+##### IP identification
+
+An IP is the numeric address of a computer connected to the internet; also called internet address. Some of our web applications use IP addresses to identify users and supply them with their personal settings. For this reason an encrypted version of your IP address may be stored in a database for future requests and processing. We may also encrypt, log, store IP addresses in order to prevent multiple voting in polls, surveys or in order to prevent damage to server resources. When your IP is stored using any of our applications it is encrypted and anonymised using a one-way hash function.
+
+##### Public forums
 
 Users are reminded that some sections of our forums are viewable by the public and as such we warn you to be careful when posting personal information on them and advise against it.
 
-### phpBB forums
+##### Community forums
 
-All forums on our servers are run with phpBB (hereinafter "they", "them", "their", "phpBB software", "www.phpbb.com", "phpBB Group", "phpBB Teams"). The passage hereunder describes how information is collected and stored with the phpBB software.
+All forums on our servers are run by vBulletin, a software platform by Jelsoft Enterprises Ltd (hereinafter "Jelsoft"). The passage hereunder describes how information is collected and stored with the vBulletin software.
 
-Your information is collected via two ways. Firstly, by browsing a forum will cause the phpBB software to create a number of cookies, which are small text files that are downloaded on to your computer's web browser temporary files. The first two cookies just contain a user identifier (hereinafter "user-id") and an anonymous session identifier (hereinafter "session-id"), automatically assigned to you by the phpBB software. A third cookie will be created once you have browsed topics within a forum and is used to store which topics have been read, thereby improving your user experience.
+Your information is collected via two ways. Firstly, by browsing a forum will cause the forum software to create a number of cookies, which are small text files that are downloaded on to your computer's web browser temporary files (see: "Cookies" above for more information). These cookies are used by the software to identify you, keep track of read topics, page visits and the page you are currently visiting in order to improve your browsing experience.
 
-We may also create cookies external to the phpBB software whilst browsing the forums, though these are outside the scope of this document which is intended to only cover the pages created by the phpBB software. The second way in which we collect your information is by what you submit to us. This can be, and is not limited to: posting as an anonymous user (hereinafter "anonymous posts"), registering on a forum (hereinafter "your account") and posts submitted by you after registration and whilst logged in (hereinafter "your posts").
+The second way in which we collect your information is by what you submit to us. This can be, and is not limited to: posting as an anonymous user, registering on our forums and posts submitted by you after registration and whilst logged in.
 
-Your account will at a bare minimum contain a uniquely identifiable name (hereinafter "your user name"), a personal password used for logging into your account (hereinafter "your password") and a personal, valid e-mail address (hereinafter "your e-mail"). Your information for your account on forums is protected by data-protection laws applicable in the country that hosts us. Any information beyond your user name, your password and your e-mail required by the forums during the registration process are at our digression what is mandatory and what is optional. In all cases, you have the option of what information in your account is publicly displayed. Furthermore, within your account, you have the option to opt-in or opt-out of automatically generated e-mails from the phpBB software.
+Your account will at a bare minimum contain a uniquely identifiable name, a personal password used for logging into your account and a personal, valid e-mail address. Your information for your account on forums is protected by data-protection laws applicable in the country that hosts us (USA). Any information beyond your user name, your password and your e-mail required by the forums during the registration process are at our digression what is mandatory and what is optional. In all cases, you have the option of what information in your account is publicly displayed. At all times you can view from your account any personal information you have provided by selecting the User CP menu option on our forums. Also, at any time, you have a right to request removal of any of this information and your account from our system. Furthermore, within your account, you have the option to opt-in or opt-out of automatically generated e-mails from the forum software.
 
-Your password is ciphered (a one-way hash) so that it is secure. However, it is recommended that you do not reuse the same password across a number of different websites. Your password is the means of accessing your account on forums, so please guard it carefully and under no circumstance will anyone affiliated with sWG, phpBB or another 3rd party, legitimately ask you for your password. Should you forget your password for your account, you can use the "I forgot my password" feature provided by the phpBB software. This process will ask you to submit your user name and your e-mail, then the phpBB software will generate a new password to reclaim your account.
+Your password is ciphered (a one-way hash) so that it is secure. However, it is recommended that you do not reuse the same password across a number of different websites. Your password is the means of accessing your account on forums, so please guard it carefully and under no circumstance will anyone affiliated with sWG, Jelsoft or another 3rd party, legitimately ask you for your password. Should you forget your password for your account, you can use the "I forgot my password" feature provided by the forum software. This process will ask you to submit your user name and your e-mail, then the forum software will generate a new password to reclaim your account. If, for whatever reason, you are unable to access your email you can request a new password to be set manually upon presentation of proof of your ownership of the account in question.
 
-### Advertisers
+Private messages will remain private, sWG will never monitor, view, share or in any other way access messages sent between you and any other user unless expressly asked to do so. We will only view private messages when given expressed written permission from you and only if we believe there is near or immediate risk to the safety of our users and their data. In such cases you will be informed of any progress made.
 
-spyka Web Group uses third party ad companies (Google Adsense) to display advertisements on our websites. These outside companies may use cookies and other information gathering methods to deliver targeted ads to our visitors. spyka Web Group accepts no responsibility for any third party advertisements that may appear on our websites.
+##### Advertisers
 
-### External links
+spyka Web Group uses third party ad companies to display advertisements on our websites. These outside companies use cookies and other information gathering methods to deliver targeted ads to our visitors. Google adsense will place and use the doubleclick DART cookie when serving adverts, users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_cookies.html). spyka Web Group accepts no responsibility for any third party advertisements that may appear on our websites or how they may collect and use your information. When clicking on an advert you are longer protected by this privacy policy (see: external links below).
+
+##### External links
 
 spyka Web Group is in no way responsible for the content, security or privacy policy of websites outside of the spyka Web Group network of websites. Once you leave a sWG website you will be subject to that sites privacy policy.
 
-### Policy changes
+##### Policy changes
 
 spyka Web Group reserves the right to revise and make changes to this policy at any time. The up to date version will be available from www.spyka.co.uk 
 
-### Contact information
+##### Contact information
 
-You can contact sWG by email in regards to this privacy policy from this [contact form](https://web.archive.org/contact.htm "Contact us")
+You can contact sWG by email in regards to this privacy policy from this [contact form](https://web.archive.org/contact "Contact us")
