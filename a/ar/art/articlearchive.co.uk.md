@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlearchive.co.uk privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511040917id_/http%3A//www.articlearchive.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlearchive.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218171844id_/http%3A//www.articlearchive.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Article Archive | Privacy Statement
 
