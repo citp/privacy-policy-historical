@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the weirdasianews.com privacy policy that was archived on 2008-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080318224411id_/http%3A//www.weirdasianews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weirdasianews.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218132643id_/http%3A//www.weirdasianews.com/privacy-policy) for the most accurate reproduction.*
 
-# Weird Asia News, China, Japan, Korea | Offbeat, Strange, Odd, Crazy, Engrish » Privacy Policy
-
-## Privacy Policy
+# Privacy Policy | Weird Asia News
 
 This is the web site of **Weird Asia News**.
-
-Our postal address is  
-**2201 Bridgepointe Pkwy, 302A  
-San Mateo, CA, 94404**
 
 We can be reached via e-mail at info(at)weirdasianews.com
 
@@ -30,5 +24,3 @@ If you feel that this site is not following its stated information policy, you m
 
 Sun Tzu  
 Weird Asia News
-
-These icons link to social bookmarking sites where readers can share and discover new web pages.
