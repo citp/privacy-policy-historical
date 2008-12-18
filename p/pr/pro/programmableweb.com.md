@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the programmableweb.com privacy policy that was archived on 2008-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080524071308id_/http%3A//www.programmableweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the programmableweb.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218011909id_/http%3A//www.programmableweb.com/privacy) for the most accurate reproduction.*
 
 # ProgrammableWeb: Privacy
 
@@ -22,10 +22,9 @@ ProgrammableWeb is committed to preserving your privacy and safeguarding your in
 
 
 
-[](http://www.programmableweb.com/adserver/www/delivery/ck.php?oaparams=2__bannerid=64__zoneid=31__cb=e753e9c6eb__maxdest=http://www.bungeeconnect.com/?bl_signup=pw080129)
+      
 
-  
- 
+[](http://www.programmableweb.com/adserver/www/delivery/ck.php?oaparams=2__bannerid=140__zoneid=38__cb=7fbe8fb416__maxdest=http://www.bluemountainlabs.com/index.html)
 
   
 
