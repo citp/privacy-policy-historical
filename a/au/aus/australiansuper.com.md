@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australiansuper.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526141201id_/http%3A//www.australiansuper.com/home_privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australiansuper.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218200621id_/http%3A//www.australiansuper.com/home_privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - AustralianSuper
 
@@ -77,7 +77,7 @@ If you submit incomplete or inaccurate information to CommInsure, they may not b
 **Information required when making a claim  
 **In the event that you claim for either TPD or Income Protection (for temporary disablement), the relevant insurer may provide your personal information to AustralianSuper and our fund administrator, to assist with the assessment and administration of the insurance claim. The insurer may also pass information to claims investigators, medical practitioners, reinsurers, insurance reference bureaux and certain organisations to whom they outsource some functions. 
 
-If your claim is declined and you take legal action or complain to the [Superannuation Complaints Tribunal (SCT),](https://web.archive.org/web/20080526141201id_/http%3A//www.australiansuper.com/toolsandresources_glossary.aspx?g=Superannuation%20Complaints%20Tribunal%20\(SCT\)) AustralianSuper and our service providers must provide your personal details and information about your health to legal representatives of AustralianSuper and the insurer, officers of the SCT and court officials. 
+If your claim is declined and you take legal action or complain to the [Superannuation Complaints Tribunal (SCT),](https://web.archive.org/web/20081218200621id_/http%3A//www.australiansuper.com/toolsandresources_glossary.aspx?g=Superannuation%20Complaints%20Tribunal%20\(SCT\)) AustralianSuper and our service providers must provide your personal details and information about your health to legal representatives of AustralianSuper and the insurer, officers of the SCT and court officials. 
 
 In all cases where contractors and agents may become aware of your personal information, strict confidentiality arrangements apply. Personal information may only be used for the purpose of administering and assessing your insurance-related matters. 
 
