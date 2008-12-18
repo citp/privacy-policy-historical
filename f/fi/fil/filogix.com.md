@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filogix.com privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030013406id_/http%3A//www.filogix.com/showPage.do%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filogix.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218134553id_/http%3A//www.filogix.com/showPage.do%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Filogix
 
@@ -8,7 +8,7 @@ _As of August 15, 2007_
 
 In the course of operating our business, Filogix Limited Partnership and its general partner Filogix Inc. (together, “Filogix”) may collect personally identifiable information from our customers, from our employees and from others. Filogix values its relationship with these individuals and recognizes the importance of an individual's right to keep personally identifiable information private. 
 
-We recognize the importance of an individual's right to keep personally identifiable information private. Filogix is committed to ensuring that the personal information in our custody remains secure and is not used in a manner without such individual's consent. We are committed to adhering to the principles set out below, which are based on the _Personal Information Protection and Electronic Documents Act_. For a more complete description of Filogix' information practices, please refer to the Filogix Information Practices Code, which is available by [clicking here. ](https://web.archive.org/web/20071030013406id_/http%3A//www.filogix.com/showPage.do?page=fipc)
+We recognize the importance of an individual's right to keep personally identifiable information private. Filogix is committed to ensuring that the personal information in our custody remains secure and is not used in a manner without such individual's consent. We are committed to adhering to the principles set out below, which are based on the _Personal Information Protection and Electronic Documents Act_. For a more complete description of Filogix' information practices, please refer to the Filogix Information Practices Code, which is available by [clicking here. ](https://web.archive.org/web/20081218134553id_/http%3A//www.filogix.com/showPage.do?page=fipc)
 
 **Accountability**
 
