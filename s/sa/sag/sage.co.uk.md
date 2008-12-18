@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the sage.co.uk privacy policy that was archived on 2008-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080323161518id_/http%3A//www.sage.co.uk/legal/home.aspx%3Ftid%3D141648) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sage.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218080604id_/http%3A//www.sage.co.uk/footlinks/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Sage (UK) Limited - Legal
+# Privacy policy
 
-## Privacy Policy
-
-### Privacy & Cookie Policy
+Privacy & Cookie Policy
 
 **1.  About this policy**  
 This is the privacy policy of Sage (UK) Limited (“Sage”). It applies only to personal data as defined in s.1 of the 1998 Data Protection Act (“personal information” or “information”) and not other types of business or general information. The policy tells you who we are, how we collect personal information about you through this website, what we intend to use that information for, with whom we intend to share it, how we keep it secure, and how we transfer your information outside the European Economic Area (‘EEA’).
@@ -12,7 +10,7 @@ This is the privacy policy of Sage (UK) Limited (“Sage”). It applies only to
 Please read the policy carefully. By accessing or using this web site you are deemed to agree to the terms of this privacy policy, and if you do not agree with it, then you must not send us any personal information.  
 Note that if you follow a link from this site to another site, this policy will no longer apply. We are not responsible for other sites’ information handling practices. Use of your information by the owner of the linked site will normally be governed by that site’s privacy policy, which we encourage you to read.
 
-Further information about privacy and data protection issues including the online Register of Data Controllers can be found on the Information Commissioner’s website at [http://www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/).
+Further information about privacy and data protection issues including the online Register of Data Controllers can be found on the Information Commissioner’s website at <http://www.informationcommissioner.gov.uk/>.
 
 **2.  Who we are**  
 We are Sage (UK) Limited, a company registered in England and Wales with company registration number 01045967. Our registered office is at North Park, Newcastle upon Tyne, NE13 9AA. Please see our contact section for more information.   If you have any queries about the information we hold on you, please contact our Data Protection Compliance Officer, who you may write to at the address above, or email at [privacy@sage.com](mailto:privacy@sage.com) or telephone on **0191 294 3000**.
@@ -27,7 +25,7 @@ Cookies
 
 3.2. A cookie is a small text file which is transferred from a website and stored on your computer’s hard drive. It enables a website to “remember” who you are.
 
-3.3. Most browsers are automatically set to accept cookies but if you are using Microsoft’s Internet Explorer or Netscape Navigator, you should be able to configure your browser to restrict cookies or block all cookies if you wish. This will however, affect your ability to log into and use our shopping channel, community areas and other restricted areas of our website. Browser-specific instructions on how to restrict or block cookies may be found on the Interactive Advertising Bureau’s website at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+3.3. Most browsers are automatically set to accept cookies but if you are using Microsoft’s Internet Explorer or Netscape Navigator, you should be able to configure your browser to restrict cookies or block all cookies if you wish. This will however, affect your ability to log into and use our shopping channel, community areas and other restricted areas of our website. Browser-specific instructions on how to restrict or block cookies may be found on the Interactive Advertising Bureau’s website at <http://www.allaboutcookies.org/>.
 
 3.4. We use session cookies (which are temporary cookies) in the products and services and communities sections of our website to verify your identity when you log in, to keep track of which pages you visit and what is in your shopping basket, to personalise our service to you, including sending you or your business any marketing information you have indicated you would be happy to receive and to improve our website. Our session cookies currently contain your customer account number and company name. From approximately March 2004, our session cookies will contain your email address. Session cookies are deleted when you close your browser (i.e. the software program you use for searching and viewing various kinds of Internet resources such as information on a web site).
 
@@ -42,7 +40,7 @@ Cookies
 
 **Further information**
 
-3.9. More information on cookies and web beacons can be found at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+3.9. More information on cookies and web beacons can be found at <http://www.allaboutcookies.org/>.
 
 3.10. By registration
 
@@ -78,7 +76,7 @@ Cookies
 
 5.2. If you register to use one of the community areas or other restricted areas on our website, we will use your information to provide those membership services to you.
 
-5.3. If you agree when you register with us or buy from us, we will also use your information for marketing purposes. If you do not want the information we hold on you to be used in this manner, you must first contact us either by writing to our Data Protection Compliance Officer, or by e-mailing us at [support@sage.com](mailto:support@sage.com) and establish your preferences.
+5.3. If you agree when you register with us or buy from us, we will also use your information for marketing purposes. If you do not want the information we hold on you to be used in this manner, you must first contact us either by writing to our Data Protection Compliance Officer, or by e-mailing us at support@sage.com and establish your preferences.
 
 5.4. If you do not object, we will use the information we hold on you to contact you for feedback on your use of our software and/or services and/or website.
 
@@ -95,7 +93,7 @@ Cookies
 
 6.1.4. We may share your information with any group companies of ours so that they can provide any products and services to you that you request.
 
-6.1.5.  We may, on occasion share your information with carefully selected businesses so that they can send you details of other software-related products and services. Alternatively, we may on occasion use your information to send you details of the products and services of carefully selected businesses which are complementary to our own products and services. If you do not want the information we hold on you to be used in this manner, you must contact us either by writing to our Data Protection Compliance Officer, or by e-mailing us at [support@sage.com](mailto:support@sage.com).
+6.1.5.  We may, on occasion share your information with carefully selected businesses so that they can send you details of other software-related products and services. Alternatively, we may on occasion use your information to send you details of the products and services of carefully selected businesses which are complementary to our own products and services. If you do not want the information we hold on you to be used in this manner, you must contact us either by writing to our Data Protection Compliance Officer, or by emailing us at [support@sage.com](mailto:support@sage.com).
 
 6.1.6. We may provide anonymous aggregated data to reputable third parties on a commercial basis.
 
