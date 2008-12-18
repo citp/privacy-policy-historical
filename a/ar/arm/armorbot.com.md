@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the armorbot.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410175725id_/http%3A//www.armorbot.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armorbot.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218115311id_/http%3A//www.armorbot.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Armor Bot - Privacy Policy
 
