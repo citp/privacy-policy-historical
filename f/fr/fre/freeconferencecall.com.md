@@ -1,27 +1,27 @@
-> *The following text is extracted and transformed from the freeconferencecall.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511222435id_/http%3A//www.freeconferencecall.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeconferencecall.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218090833id_/http%3A//www.freeconferencecall.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Free Conference Call - Free Conference Call Services
 
   
 Free Conferencing Corporation Privacy Policy  
-Last Updated: September 1, 2006
+Last Updated: September 1, 2008
 
-> > Free Conferencing Corporation recognizes the importance of protecting the privacy of all information provided by users of our products, services and websites. We created this policy out of respect for our customers fundamental right to privacy and to help guide our relationship with our customers. This Privacy Policy discloses the privacy practices for all products and services owned by Free Conferencing Corporation. A current list of our products can be found at [www.FreeConferenceCall.com](http://www.freeconferencecall.com/)
+> > Free Conferencing Corporation recognizes the importance of protecting the privacy of all information provided by users of our products, services and websites. We created this policy out of respect for our customers' fundamental right to privacy and to help guide our relationship with our customers. This Privacy Policy discloses the privacy practices for all products and services owned by Free Conferencing Corporation. A current list of our products can be found at [www.FreeConferenceCall.com](http://www.freeconferencecall.com/).
 > 
 > **1\. GENERAL POLICY REGARDING CUSTOMER INFORMATION**  
 > 
->     1. FREE CONFERENCING CORPORATION DOES NOT SELL, RENT OR DISTRIBUTE CUSTOMERS PERSONAL INFORMATION INCLUDING NAME, EMAIL ADDRESS, PHONE NUMBER, ADDRESS OR COMPANY. We periodically issue technical and marketing information, and are committed to an "opt in/opt out" permission based philosophy. If you voluntarily submit your e-mail address to receive information, we may subsequently issue information via e-mail. However, we respect the right to opt out, and will remove e-mails from our list on request.
+>     1. FREE CONFERENCING CORPORATION DOES NOT SELL, RENT OR DISTRIBUTE CUSTOMERS PERSONAL INFORMATION INCLUDING NAME, EMAIL ADDRESS, PHONE NUMBER, ADDRESS OR COMPANY. We periodically issue technical and marketing information and are committed to an "opt in/opt out" permission based philosophy. If you voluntarily submit your e-mail address to receive information, we may subsequently issue information via e-mail. However, we respect the right to opt out and will remove e-mails from our list on request.
 > 
 **2\. CUSTOMER INFORMATION COLLECTION**  
 > 
->     1. Registration Pages- Each of our products requires the customer to register with at least a name and email address. For internal purposes we use this information to identify accounts and monitor usage. This information is also used to communicate with our customers (see section 2: Customer Communications for full details). Our paid services including SimpleTollFree, SimpleFlatRate and SimpleEvent Paid Version require customer credit card information. This includes name, card number and expiration date, which is used for our or our agent’s billing purposes only, and is not otherwise shared.
+>     1. Registration Pages- Each of our products requires the customer to register with at least a name and email address. For internal purposes, we use this information to identify accounts and monitor usage. This information is also used to communicate with our customers (See Section 2: Customer Communications for full details). Our paid services including SimpleEvent, SimpleFlatRate, SimpleTollFree, SimpleVoiceBox and SimpleVoiceCenter require customer credit card information. This includes name, card number and expiration date, which is used for our or our agents' billing purposes only, and is not otherwise shared.
 >     2. Telemarketing- Some customer information is obtained through telemarketing and marketing lists. Potential customer information is not registered into the Free Conferencing Corporation database unless express permission is given.
 >     3. Customer Service- Additional customer information given through our customer service group is not currently appended to the customer account information.
->     4. Surveys and Contests- Customer information including phone number, address, email, title and company may be collected during a survey or contest. Since prizes may be awarded during these events it is critical that Free Conferencing Corporation collect full customer details. This information is stored in a separate database and may be used for further marketing activities.
+>     4. Surveys and Contests- Customer information including phone number, address, email, title and company may be collected during a survey or contest. Since prizes may be awarded during these events, it is critical that Free Conferencing Corporation collect full customer details. This information is stored in a separate database and may be used for further marketing activities.
 > 
 **3\. CUSTOMER COMMUNICATIONS**  
 > 
->     1. Email Contact- Free Conferencing Corporation does make contact with it’s customers through email. Customers receive an initial registration email with all account details listed. After each call, customers receive call detail reports via email. Finally, Free Conferencing Corporation uses email to communicate promotions, product updates and technical advisories with their customers.
+>     1. Email Contact- Free Conferencing Corporation uses email to make contact with its customers. Customers receive an initial registration email with all account details listed. After each call, customers receive call detail reports via email. Finally, Free Conferencing Corporation uses email to communicate promotions, product updates and technical advisories with their customers.
 >     2. Opting Out of Contact- Opting out of contact with Free Conferencing Corporation can be done by unsubscribing from email lists. There are 3 main lists that a customer will need to unsubscribe from; call detail reports, email marketing and technical advisories. Unsubscribing from technical advisories will result in the cancellation of the customers account.
 > 
 **4\. SECURITY**  
