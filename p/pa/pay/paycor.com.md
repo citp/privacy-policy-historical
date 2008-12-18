@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paycor.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608235310id_/http%3A//paycor.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paycor.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218033301id_/http%3A//www.paycor.com/privacy.aspx) for the most accurate reproduction.*
 
 # Payroll Services, Payroll Processing Solutions, Payroll Specialist
 
