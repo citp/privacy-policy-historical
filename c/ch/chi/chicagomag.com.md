@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicagomag.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629115016id_/http%3A//www.chicagomag.com/Chicago-Magazine/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagomag.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218215907id_/http%3A//www.chicagomag.com/Chicago-Magazine/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Chicago
 
