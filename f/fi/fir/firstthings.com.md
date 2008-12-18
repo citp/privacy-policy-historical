@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstthings.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610004205id_/http%3A//www.firstthings.com/article.php3%3Fid_article%3D58) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstthings.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218140605id_/http%3A//www.firstthings.com/article.php3%3Fid_article%3D58) for the most accurate reproduction.*
 
 # FIRST THINGS: A Journal of Religion, Culture, and Public Life
 
