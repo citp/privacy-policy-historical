@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mohankumars.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610010302id_/http%3A//www.mohankumars.com/index.php%3Fpid%3D15) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mohankumars.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218015713id_/http%3A//www.mohankumars.com/index.php%3Fpid%3D15) for the most accurate reproduction.*
 
 # ((:: MohanKumars.Com ::))
 
