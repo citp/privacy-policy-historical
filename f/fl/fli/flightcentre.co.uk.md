@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flightcentre.co.uk privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624074305id_/http%3A//www.flightcentre.co.uk/info/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightcentre.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218163417id_/http%3A//www.flightcentre.co.uk/info/policies) for the most accurate reproduction.*
 
-# Flight Centre UK | Cheap flights, holiday packages, hotels, car hire, touring and travel insurance
+# Cheap flights, holiday packages, hotels, car hire, touring and travel insurance | Flight Centre
 
 ## Privacy Policy
 
