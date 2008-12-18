@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the viddler.com privacy policy that was archived on 2008-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080515204254id_/http%3A//www.viddler.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the viddler.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218022911id_/http%3A//www.viddler.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -10,10 +10,11 @@
 
 
 
-<link rel="stylesheet" type="text/css" href="http://cdn-ll-static.viddler.com/css/style.css?timestamp=1208978069000">
+<link rel="stylesheet" type="text/css" href="http://cdn-ll-static.viddler.com/css/style.css?timestamp=1227001604000">
 <script type="text/javascript">var loggedIn=false;var loggedUsername='';</script>
-<script type="text/javascript">document.write( '<scr'+'ipt type="text/javascript" src="' ); if( document.location.toString().indexOf( 'https://' ) != -1 ) { document.write( 'https://ssl' ); } else { document.write( 'http://www' ); } document.write( '.google-analytics.com/urchin.js"><\/scr'+'ipt>' ); </script><script type="text/javascript" src="https://ssl.google-analytics.com/urchin.js"></script> <script type="text/javascript"> _uacct = "UA-971344-2"; urchinTracker(); </script> <script type="text/javascript"> document.write( '<scr'+'ipt type="text/javascript">' ); if( document.referrer.toString().indexOf( 'dev0.viddler.com' ) ==-1 ) { document.write( 'urchinTracker(document.referrer);' ); } document.write( '<\/scr'+'ipt>' ); </script><script type="text/javascript">urchinTracker(document.referrer);</script>
-<script type="text/javascript" src="http://cdn-ll-static.viddler.com/js/script.js?timestamp=1209664339000"></script>
+<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> 
+<script type="text/javascript">if (document.referrer.toString().indexOf( 'dev0.viddler.com' ) ==-1) { var pageTracker = _gat._getTracker("UA-971344-2"); pageTracker._trackPageview(); } </script>
+<script type="text/javascript" src="http://cdn-ll-static.viddler.com/js/script.js?timestamp=1222339324000"></script>
 
 </head>
 
@@ -42,7 +43,7 @@ function search() {
 }
 
 function searchYours() {
- $('searchbox').action='/search/yours_videos/'
+ $('searchbox').action=Get_Cookie("thumbnailSearchResult")==1?'/search/yours_videos/': '/search_detailed/yours_videos/'
  search();
 }
 
@@ -81,7 +82,7 @@ function resetSearch() {
 
 <div id="logosearch" class="topfloat">
 	<h1 id="viddler_logo"><a href="/">Viddler</a></h1>
-	<form id="searchbox" method="get" action="/search/" onsubmit="return newSearch()">
+	<form id="searchbox" method="get" action="#" onsubmit="return newSearch()">
 		<input id="search" name="searchString" type="text" size="20">
 		<div id="searchWrap" class="menuOff">
 			<a href="javascript:search()" id="searchButton">Search</a>
@@ -98,6 +99,10 @@ function resetSearch() {
 		  </div>
   </form>	
 </div>
+
+<script type="text/javascript">
+ $('searchbox').action=Get_Cookie("thumbnailSearchResult")==1?'/search/': '/search_detailed/'
+</script>
 	
  
  
@@ -504,32 +509,41 @@ Bethlehem, PA 18015</p>
 
 
 
+
 <div id="footer"><div id="footerContent">
+<ul>
+  <li><h4>About Us</h4></li>
+  <li><a href="/about/">About &amp; Contact</a> </li>
+  <li><a href="http://blog.viddler.com/">Viddler Blog</a></li>
+  <li><a href="/terms-of-use/">Terms of Use</a>,
+    <a href="/privacy-policy/" class="current">Privacy</a> 
+  </li>  
+</ul>
+<ul>
+  <li><h4>Services</h4></li>
+  <li><a href="http://advertise.viddler.com/">Advertise</a></li>
+  <li><a href="http://b2b.viddler.com/">Business</a></li>
+  <li><a href="http://developers.viddler.com/">Developers</a></li>
+  <li><a href="http://vidgets.viddler.com/">Vidgets</a></li>
+</ul>
+<ul>
+  <li><h4>Need Help?</h4></li>
+  <li><a href="/help/faq/">FAQ</a></li>
+  <li><a href="/forums/">Forums</a></li>
+  <li><a href="/about/contact/">Submit a Bug</a></li>
+  <li><a href="/rss/">RSS Feeds</a></li>
+</ul>
 
-
-	<ul>
-	  <li><h4>Actions</h4></li>
-	  <li><a href="/signup/step1/">Sign Up</a></li>
-	  <li><a href="/learn-more/">Learn More</a></li>
-	  <li><a href="/explore/">Explore</a></li>
-	</ul>
-
-  <ul><li><h4>Viddler</h4></li>
-    <li><a href="/about/">About Viddler</a></li>
-    <li><a href="http://blog.viddler.com/">The Viddler Spotlight</a></li>
-    <li><a href="/advertise/">Advertise</a></li>
-    <li class="current"><a href="/privacy-policy/">Privacy Policy</a></li>
-    <li><a href="/terms-of-use/">Terms of Use</a></li>
-  </ul>
-  <ul><li><h4>Help</h4></li>
-    <li><a href="/forums/">Forums</a></li>
-    <li><a href="/help/faq/">FAQ</a></li>
-    <li><a href="/about/contact/">Contact</a></li>
-    <li><a href="/rss/">RSS Feeds</a></li>
-  </ul>
 </div></div>
+
 <p id="copyright">© 2008 Viddler, Inc. All rights reserved</p>
 
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">_qoptions={qacct:"p-3ea1dOmGdnYEs"};</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript><a href="http://www.quantcast.com/p-3ea1dOmGdnYEs" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-3ea1dOmGdnYEs.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a></noscript>
+<!-- End Quantcast tag -->
 
 
 </body></html>
