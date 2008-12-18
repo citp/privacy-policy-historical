@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epage.com privacy policy that was archived on 2005-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050309224229id_/http%3A//epage.com/js/faq%3Fpath%3DFAQ/About_EPage%26rid%3DHF0000001036) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epage.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218043802id_/http%3A//www.epage.com/js/faq%3Fpath%3DFAQ/About_EPage%26rid%3DHF0000001036) for the most accurate reproduction.*
 
 # FAQ/About_EPage
 
