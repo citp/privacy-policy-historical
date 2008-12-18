@@ -1,15 +1,7 @@
-> *The following text is extracted and transformed from the articlescrub.com privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414061940id_/http%3A//articlescrub.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlescrub.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218072831id_/http%3A//articlescrub.com/privacy.php) for the most accurate reproduction.*
 
 # ArticleScrub.com
 
-### Free Cash Rewards® Platinum Visa® Card  
-  
----  
-|  Get the reward that everyone can use: free cash. Use the card for everyday purchases and watch your free cash add up. The more you spend, the more you get back!  |  | **APR:**|  0.0% Intro APR  
----|---  
-**Ongoing:**|  as low as Prime + 5.99%  
-**Issuer:**|  Chase Manhattan Bank  
-  
 **www.ARTICLESCRUB.com  
 **
 
@@ -62,7 +54,7 @@ All of our employees are familiar with our security policy and practices. The Pe
 Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [JT@ARTICLESCRUB.com](mailto:JT@ARTICLESCRUB.com)
 
 **Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**  
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [JT@ARTICLESCRUB.com](https://web.archive.org/web/20080414061940id_/http%3A//articlescrub.com/JT@ARTICLESCRUB.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [JT@ARTICLESCRUB.com](https://web.archive.org/web/20081218072831id_/http%3A//articlescrub.com/JT@ARTICLESCRUB.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
 
 **What happens if the Privacy Policy Changes?**  
 We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
