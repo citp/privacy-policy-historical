@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fideliscare.org privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620114554id_/http%3A//www.fideliscare.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fideliscare.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218151347id_/http%3A//www.fideliscare.org/privacy.aspx) for the most accurate reproduction.*
 
-# Fidelis Care
+# Fidelis Care - New York State Catholic Health Plan
 
 Notice of Privacy Practices of Fidelis Care New York
 
@@ -10,8 +10,6 @@ FIDELIS CARE NEW YORK**
 **_THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY_**.
 
 In order to provide you with the benefits to which you are entitled, Fidelis must collect, create and maintain health information about you. Fidelis is required by law to maintain the privacy of this information. This Notice of Privacy Practices describes how Fidelis uses and discloses your health information, and explains certain rights you have regarding this information. Fidelis is required by law to provide you with this Notice and we will comply with its terms during the period when it is effective.
-
-**_How Fidelis Uses and Discloses Your Health Information_**
 
 The following is a list of the ways in which Fidelis may use and disclose your health information. We will use and disclose your health information only for one of the purposes on this list. In certain cases we provide examples of the types of uses or disclosures that fall within a particular category. These examples are intended to help you understand what these categories mean; they do not cover every type of use or disclosure within each category. Please note that, as discussed later in this Notice of Privacy Practices, special rules apply to our disclosure of certain alcohol and drug abuse treatment records.
 
@@ -58,31 +56,33 @@ m. _To individuals involved in your care_. We may disclose your health informati
 
 
 
-**_Your Rights Regarding Your Health Information_**
-
 You have the following rights regarding your health information:
 
-  1. _Right to Inspect and Copy_. You have the right to inspect or request a copy of health information about you that we maintain and that we may use in making decisions about your benefits. Your request should describe the information you want to review and the format in which you want to review it; for example, whether you want to inspect your records at our offices, receive paper copies or get the information on a computer diskette. We may refuse to allow you to inspect or obtain copies of this information in certain limited cases. We may charge you a reasonable fee for copies to cover our costs. You may ask to inspect or obtain copies of your information by writing to Amy Ebinger, Chief Privacy Officer, Fidelis Legal Affairs Department, 95-25 Queens Blvd, 8th Floor, Rego Park, NY 11374.
-  2. _Right to Request Amendments_. You have the right to request changes to any health information we maintain about you if you state a reason why this information is incorrect or incomplete. We do not have to agree to make the changes you request. If we do not believe the changes you requested are appropriate, we will notify you in writing how you can have your objection to our decision included in our records. You may request changes to your health information by writing to Amy Ebinger, Chief Privacy Officer, Fidelis Legal Affairs Department, 95-25 Queens Blvd, 8th Floor, Rego Park, NY 11374.
-  3. _Right to an Accounting of Disclosures_. You have the right to receive a list of disclosures of your health information that have been made by Fidelis. The list will not include disclosures made for certain types of purposes, such as disclosures for treatment, payment or health care operations or disclosures you authorized in writing. Your request should specify the time period for which you want this list, which can be no longer than six years and may not include dates prior to April 14, 2003. The first time you ask for a list of disclosures in any 12-month period, we will provide it for free. If you request additional lists during a 12-month period, we may charge you a fee to cover our costs in providing the additional lists. You may request a list of disclosures by writing to Amy Ebinger, Chief Privacy Officer, Fidelis Legal Affairs Department, 95-25 Queens Blvd, 8th Floor, Rego Park, NY 11374.
-  4. _Right to Request Restrictions_. You have the right to request restrictions on the ways in which we use and disclose your health information for treatment, payment and health care operations, or disclose this information to disaster relief organizations or individuals who are involved in your care. We do not have to agree to the restrictions you request. You may request a restriction on the use or disclosure of your health information by writing to Amy Ebinger, Chief Privacy Officer, Fidelis Legal Affairs Department, 95-25 Queens Blvd, 8th Floor, Rego Park, NY 11374.
-  5. _Right to Request Confidential Communications_. You have the right to ask us to send health information to you in a different way or at a different location if you believe that you may be endangered by our ordinary form of communication. For example, if you are afraid that someone living with you may open mail we send you and harm you as a result, you can ask us to send your mail to a relative's or employer's address. You must state in your request that you believe our ordinary form of communication will endanger you but you do not have to explain why you believe this is the case. Your request should also specify where and/or how we should contact you. We will accommodate all reasonable requests. You may ask us to send health information to you in a different way or at a different location by writing to Amy Ebinger, Chief Privacy Officer, Fidelis Legal Affairs Department, 95-25 Queens Blvd, 8th Floor, Rego Park, NY 11374.
-  6. _Right to Paper Copy of Notice_. You have the right to receive a paper copy of this Notice of Privacy Practices at any time. You may receive a paper copy even if you have previously requested to receive this Notice electronically. You may obtain a paper copy of this Notice, by writing to Amy Ebinger, Chief Privacy Officer, Fidelis Legal Affairs Department, 95-25 Queens Blvd, 8th Floor, Rego Park, NY 11374. You may also print out a copy of this Notice by going to our website at [http://www.fideliscare.org](http://www.fideliscare.org/).
+  1. _Right to Inspect and Copy_. You have the right to inspect or request a copy of health information about you that we maintain and that we may use in making decisions about your benefits. Your request should describe the information you want to review and the format in which you want to review it; for example, whether you want to inspect your records at our offices, receive paper copies or get the information on a computer diskette. We may refuse to allow you to inspect or obtain copies of this information in certain limited cases. We may charge you a reasonable fee for copies to cover our costs. You may ask to inspect or obtain copies of your information by writing to Robert Pigott, Chief Privacy Officer, Fidelis Legal Affairs Department, 95-25 Queens Blvd, 8th Floor, Rego Park, NY 11374.
+  2. _Right to Request Amendments_. You have the right to request changes to any health information we maintain about you if you state a reason why this information is incorrect or incomplete. We do not have to agree to make the changes you request. If we do not believe the changes you requested are appropriate, we will notify you in writing how you can have your objection to our decision included in our records. You may request changes to your health information by writing to Robert Pigott, Chief Privacy Officer, Fidelis Legal Affairs Department, 95-25 Queens Blvd, 8th Floor, Rego Park, NY 11374.
+  3. _Right to an Accounting of Disclosures_. You have the right to receive a list of disclosures of your health information that have been made by Fidelis. The list will not include disclosures made for certain types of purposes, such as disclosures for treatment, payment or health care operations or disclosures you authorized in writing. Your request should specify the time period for which you want this list, which can be no longer than six years and may not include dates prior to April 14, 2003. The first time you ask for a list of disclosures in any 12-month period, we will provide it for free. If you request additional lists during a 12-month period, we may charge you a fee to cover our costs in providing the additional lists. You may request a list of disclosures by writing to Robert Pigott, Chief Privacy Officer, Fidelis Legal Affairs Department, 95-25 Queens Blvd, 8th Floor, Rego Park, NY 11374.
+  4. _Right to Request Restrictions_. You have the right to request restrictions on the ways in which we use and disclose your health information for treatment, payment and health care operations, or disclose this information to disaster relief organizations or individuals who are involved in your care. We do not have to agree to the restrictions you request. You may request a restriction on the use or disclosure of your health information by writing to Robert Pigott, Chief Privacy Officer, Fidelis Legal Affairs Department, 95-25 Queens Blvd, 8th Floor, Rego Park, NY 11374.
+  5. _Right to Request Confidential Communications_. You have the right to ask us to send health information to you in a different way or at a different location if you believe that you may be endangered by our ordinary form of communication. For example, if you are afraid that someone living with you may open mail we send you and harm you as a result, you can ask us to send your mail to a relative's or employer's address. You must state in your request that you believe our ordinary form of communication will endanger you but you do not have to explain why you believe this is the case. Your request should also specify where and/or how we should contact you. We will accommodate all reasonable requests. You may ask us to send health information to you in a different way or at a different location by writing to Robert Pigott, Chief Privacy Officer, Fidelis Legal Affairs Department, 95-25 Queens Blvd, 8th Floor, Rego Park, NY 11374.
+  6. _Right to Paper Copy of Notice_. You have the right to receive a paper copy of this Notice of Privacy Practices at any time. You may receive a paper copy even if you have previously requested to receive this Notice electronically. You may obtain a paper copy of this Notice, by writing to Robert Pigott, Chief Privacy Officer, Fidelis Legal Affairs Department, 95-25 Queens Blvd, 8th Floor, Rego Park, NY 11374. You may also print out a copy of this Notice by going to our website at [http://www.fideliscare.org](http://www.fideliscare.org/).
 
 
 
-**_Complaints_**
-
-If you believe your privacy rights have been violated, you may file a complaint with Fidelis or the Secretary of the U.S. Department of Health and Human Services. You may file a complaint with Fidelis by writing to Amy Ebinger, Chief Privacy Officer, Fidelis Legal Affairs Department, 95-25 Queens Blvd, 8th Floor, Rego Park, NY 11374. You will not be penalized or retaliated against by Fidelis for filing a complaint.
-
-**_Changes to this Notice_**
+If you believe your privacy rights have been violated, you may file a complaint with Fidelis or the Secretary of the U.S. Department of Health and Human Services. You may file a complaint with Fidelis by writing to Robert Pigott, Chief Privacy Officer, Fidelis Legal Affairs Department, 95-25 Queens Blvd, 8th Floor, Rego Park, NY 11374. You will not be penalized or retaliated against by Fidelis for filing a complaint.
 
 Fidelis may change the terms of this Notice of Privacy Practices at any time. If we change the terms of this Notice, the new terms will apply to all of your health information, whether created or received by Fidelis before or after the date on which the Notice is changed. We will notify you of changes to this Notice by mailing you a copy of the new Notice within 60 days of the date on which it becomes effective.
 
-**_Additional Information_**
-
-If you have any questions or would like additional information about this Notice or Fidelis' privacy practices, please contact Amy Ebinger, Chief Privacy Officer, Fidelis Legal Affairs Department, 95-25 Queens Blvd, 8th Floor, Rego Park, NY 11374.
-
-**_Effective Date_**
+If you have any questions or would like additional information about this Notice or Fidelis' privacy practices, please contact Robert Pigott, Chief Privacy Officer, Fidelis Legal Affairs Department, 95-25 Queens Blvd, 8th Floor, Rego Park, NY 11374.
 
 This Notice of Privacy Practices is effective as of April 14, 2003.
+
+Effective Date
+
+Additional Information
+
+Changes to this Notice
+
+Complaints
+
+Your Rights Regarding Your Health Information
+
+How Fidelis Uses and Discloses Your Health Information
