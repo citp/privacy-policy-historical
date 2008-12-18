@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winterparkresort.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223062906id_/http%3A//www.intrawest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winterparkresort.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218132558id_/http%3A//www.intrawest.com/privacy) for the most accurate reproduction.*
 
 # Intrawest - Privacy Policy
 
