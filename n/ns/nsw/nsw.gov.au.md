@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nsw.gov.au privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609224520id_/http%3A//www.nsw.gov.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsw.gov.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218095119id_/http%3A//www.nsw.gov.au/privacy.asp) for the most accurate reproduction.*
 
-# Privacy - NSW Government Portal
-
-     
+# Privacy Statement - NSW Government Portal
 
 The NSW Government website is maintained by the New South Wales government's Government Chief Information Office (GCIO). This Privacy Policy applies to all the publicly accessible pages on the NSW Government site located at http://www.nsw.gov.au and to all the publicly accessible pages listed in the search results web pages. GCIO does not have any responsibility for the privacy policies or practices of third party sites linked to the NSW Government site. If you have any questions about the NSW Government site, or the application of this Privacy Policy or a request for access to information held please contact Trevor Waters, Manager NSW Government, Level 21, McKell Building, 2-24 Rawson Place, Sydney, phone 9372 8274 and email [trevor.waters@commerce.nsw.gov.au](mailto:trevor.waters@commerce.nsw.gov.au)
 
@@ -66,4 +64,10 @@ GCIO captures this information on its own computers. Access to the raw data is r
 
 Due to the developing nature of privacy principles for online communication, this policy may be modified or expanded in light of new developments or issues that may arise from time to time. The amended policy will be posted to this site and will operate from the time it is posted.
 
-     
+## Cookies
+
+'Cookies' are small pieces of text data that a web server can store on, and later retrieve from, a user's computer. They do not personally identify you, but do identify your browser. Cookies can be either 'persistent' or 'session' based. Persistent cookies are stored on your computer, contain an expiration date, and may be used to track your browsing behaviour upon return to the issuing web site. Session cookies are short-lived, are used only during a browsing session, and expire when you shut down your browser.
+
+This NSW Government website uses persistent cookies. They record your preferences in relation to your use of the site and provide us with other information about your enquiry that allows us to recognise your browser if you return to this website in the future. This allow GCIO to present information that may be most relevant to you based on your previous visits. They also help GCIO to understand what parts of the site users find the most useful and improve the effectiveness of the website.
+
+The cookies on this site do not read the information on your hard drive. They do not make your computer perform any actions or make your computer send information to any other computer via the internet. GCIO makes no attempt to associate cookies with users' names or identities. Our server cannot find out your name or email address, or anything about your computer, by using cookies.
