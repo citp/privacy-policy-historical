@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nahuiollin.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622204548id_/http%3A//www.nahuiollin.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nahuiollin.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218172223id_/http%3A//www.nahuiollin.com/privacy.php) for the most accurate reproduction.*
 
-# .: Nahui Ollin Candy Wrapper Bags :.
+# .: Nahui Ollin Handmadehandbags :.
 
 Your privacy and security are very important to us. All personal information (such as email address, name, mailing address, credit card number, etc) are transmitted in an encrypted form for your safety. All transactions are kept secure when you use any compatible Secure Sockets Layer (SSL) browser such as Internet Explorer, Netscape Navigator etc.. to order our products. These browsers automatically scramble personal information so it remains safe as it traverses over the Internet. NahuiOllin.com, CANDY-WRAPPER-BAGS.COM, CANDY-WRAPPER-PURSES.COM, CANDY-WRAPPER-TOTES.COM, GUMWRAPPERBAGS.COM, HAND-MADE-PURSES.COM or other Websites that Nahui Ollin collects information from our customers and users at several points on our website to facilitate the fulfillment of your order. Nahui Ollin does not sell, share, or rent our customers personal information in any way. The information that you provide is collected for our use only and we take every precaution to protect it both online and offline. 
 
