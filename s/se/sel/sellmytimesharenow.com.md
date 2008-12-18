@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellmytimesharenow.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514003524id_/http%3A//www.sellmytimesharenow.com/main/index/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellmytimesharenow.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218181028id_/http%3A//www.sellmytimesharenow.com/main/index/content/privacy) for the most accurate reproduction.*
 
 # timeshare resales and rentals, buy and sell timeshare fast and easy<
 
@@ -32,7 +32,7 @@ SellMyTimeShareNOW.com does not sell or rent your Personal Data to anyone. SellM
 
 **SellMyTimeshareNOW.com's Agents** : Many of the operations we perform require us to hire other companies to help us with these tasks. For example, SellMyTimeShareNOW.com hires companies to help us handle the delivery of information to you (including sending and delivering packages, postal mail and e-mail), provide services to our clients, analyze the data we collect, market our products and services, handle credit card transactions and aid us in developing the site. The companies we employ to assist us with these tasks have access to Personal Data to perform their functions, but are not permitted use Personal Data for any other purposes. Also, SellMyTimeShareNOW.com requires all agents to whom Personal Data is disclosed to enter into confidentiality agreements to protect your Personal Data.
 
-**Advertisements, Marketing Material and Other Offers** : Visitors who submit Personal Data through SellMyTimeshareNOW.com are required to inform us if and when you no longer wish to receive these communications from us. SellMyTimeShareNOW.com will occasionally send advertisements, marketing material or other offers on behalf our company or of other services that we think might be of interest to you.
+**Advertisements, Marketing Material and Other Offers** : Visitors who submit Personal Data through SellMyTimeshareNOW.com are required to inform us if and when you no longer wish to receive these communications from us. SellMyTimeShareNOW.com will occasionally send advertisements, marketing material or other offers on behalf of our company or of other services that we think might be of interest to you.
 
 **Future Business Transfers** : Our business is constantly changing. As part of that process, SellMyTimeShareNOW.com may sell or buy other companies, and Personal Data may be transferred as part of these transactions. It is also possible that SellMyTimeShareNOW.com, or substantially all of its assets, may be acquired by another company, whether by merger, sale of assets or otherwise, and Personal Data may be transferred as part of such a transaction.
 
