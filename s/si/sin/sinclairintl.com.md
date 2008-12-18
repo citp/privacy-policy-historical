@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sinclairintl.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509054527id_/http%3A//www.sinclairintl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sinclairintl.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218094621id_/http%3A//www.sinclairintl.com/privacy.html) for the most accurate reproduction.*
 
 # Sinclair International - Privacy
 
