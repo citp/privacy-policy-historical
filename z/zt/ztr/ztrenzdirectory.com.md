@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ztrenzdirectory.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522020116id_/http%3A//www.ztrenzdirectory.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ztrenzdirectory.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218102505id_/http%3A//www.ztrenzdirectory.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: zTrenz Directory.com
 
