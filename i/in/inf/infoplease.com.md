@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoplease.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610104537id_/http%3A//fen.com/resources/privacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoplease.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218012338id_/http%3A//fen.com/resources/privacyStatement.html) for the most accurate reproduction.*
 
 # Fen.com - Privacy Statement
 
@@ -6,11 +6,11 @@
 
 Privacy Statement: (Revised January, 2005) 
 
-Family Education Network is committed to protecting the privacy and security of its online visitors. We are also extremely sensitive to family and educator concerns about their children's personal information and safety. We want you to know about and understand the measures we have taken to keep Family Education Network a safe and secure environment for everyone. This privacy statement tells you how and why we collect information from you, and how we use that information. Please note that your use of this Site is also subject to the [Terms of Use](https://web.archive.org/web/20080610104537id_/http%3A//fen.com/resources/agreeDisclaim.html) (of which this privacy statement is a part) posted on this site. 
+Family Education Network is committed to protecting the privacy and security of its online visitors. We are also extremely sensitive to family and educator concerns about their children's personal information and safety. We want you to know about and understand the measures we have taken to keep Family Education Network a safe and secure environment for everyone. This privacy statement tells you how and why we collect information from you, and how we use that information. Please note that your use of this Site is also subject to the [Terms of Use](https://web.archive.org/web/20081218012338id_/http%3A//fen.com/resources/agreeDisclaim.html) (of which this privacy statement is a part) posted on this site. 
 
 We encourage our visitors to read through and understand our privacy statement. We may update it from time to time to address new issues or reflect changes on our site. Please refer to this privacy statement regularly. Family Education Network reserves the right to revise this privacy statement at any time and such revisions shall be effective immediately upon notice thereof. Notice may be given by any means including, but not limited to, posting the revised privacy statement on this site. Any use of our site by you subsequent to such notice shall be deemed to constitute acceptance by you of such revision. 
 
-If you have any questions or concerns about the statement, please contact us at [CustomerCare@fen.com](mailto:customercare@fen.com). To quickly access a particular section of this policy, you can click directly on the links below: 
+If you have any questions or concerns about the statement, please contact us at [Customer Support](http://fen.custhelp.com/cgi-bin/learningnetwork.cfg/php/enduser/ask.php?p_pv=1.1&p_prods=1). To quickly access a particular section of this policy, you can click directly on the links below: 
 
 Information You Provide to Us   
 How We Use the Information You Provide   
@@ -29,9 +29,9 @@ Family Education Network is part of Pearson.
 
 Please note that certain services and programs offered by Family Education Network may have additional privacy terms and/or limitations. Please check the specific service/program link(s) below to find these additional terms and/or limitations: 
 
-[SchoolCash](https://web.archive.org/resources/privacyStatement.html?&add=Schoolcash#Schoolcash)  
-[MyGradeBook](https://web.archive.org/resources/privacyStatement.html?&add=Mygradebook#Mygradebook)  
-[Quiz Lab](https://web.archive.org/resources/privacyStatement.html?&add=Quizlab#Quizlab)
+[SchoolCash](https://web.archive.org/resources/privacyStatement.html?add=Schoolcash#Schoolcash)  
+[MyGradeBook](https://web.archive.org/resources/privacyStatement.html?add=Mygradebook#Mygradebook)  
+[Quiz Lab](https://web.archive.org/resources/privacyStatement.html?add=Quizlab#Quizlab)
 
 Information You Provide to Us:    
 Family Education Network collects information in several ways via different parts of our site. Providing personal information and becoming a Family Education Network member is voluntary. Nonmembers can still use the majority of our site. However, nonmembers will not have the opportunity to access certain enhanced content and application areas, win our seasonal promotions, experience future personalization, and voice their questions and concerns as quickly. When you register with Family Education Network, you provide personal information. Family Education Network uses this information to better create and organize our content programming to meet your needs. 
@@ -62,7 +62,7 @@ As a parent, you've probably done a lot of thinking about protecting your family
   8. We will advise children under the age of 13 that they MUST obtain permission from their parent or guardian before sharing ANY personal information. 
   9. Upon request, Family Education Network will provide a parent or guardian with a description of the information that may have been provided about their child during a registration process for a program or service of this site. Family Education Network only asks for a child's or teen's personal information if it is necessary to participate in the program or service.
 
-If you have any questions about our Kids' Privacy Policy, please call Family Education Network at: 1-800-927-6006. 
+If you have any questions about our Kids' Privacy Policy, please call Family Education Network at: 1-800-498-3264. 
 
 Notification and Verifiable Parental Consent:   
 Before any personally identifiable information is collected, we will do our best to notify the parent or guardian that their child is participating. Notification will include the exact nature and intended use of the information we are collecting, as well as the opportunity for the parent or guardian to prevent the use of the information and the child's participation in the activity. For every child (anyone under 13 years of age) we require the parent or guardian to provide verifiable parental consent such as an email, mail-in letter, fax, or toll-free phone call to Family Education Network. 
@@ -113,9 +113,9 @@ Family Education Network has security measures in place to protect the loss, mis
 Contacting Family Education Network:   
 If you have any questions about this privacy statement, the practices of Family Education Network, or your dealings with Family Education Network, please: 
 
-  * E-mail us at [CustomerCare@fen.com](mailto:customercare@fen.com), 
+  * E-mail us at [Customer Support](http://fen.custhelp.com/cgi-bin/learningnetwork.cfg/php/enduser/ask.php?p_pv=1.1&p_prods=1), 
   * Write to us at: Family Education Network, 501 Boylston St, Suite 900, Boston, MA 02116 
-  * Call us at: 1-800-927-6006 
+  * Call us at: 1-800-498-3264 
 
   
   | 
