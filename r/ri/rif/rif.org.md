@@ -1,45 +1,64 @@
-> *The following text is extracted and transformed from the rif.org privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623131745id_/http%3A//www.rif.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rif.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218125101id_/http%3A//rif.org/privacy) for the most accurate reproduction.*
 
 # Reading Is Fundamental | Privacy Policy
 
 | 
 
-**Reading Is Fundamental, Inc. (hereafter "RIF") is committed to earning and keeping the trust and confidence of our donors and those who use our website. To that end, RIF 1 has established the following practices regarding privacy. This policy also includes, in Section 3g, RIF's practices with respect to the protection of the privacy of children using RIF's website.**
+**Reading Is Fundamental, Inc. (hereafter "RIF") is committed to earning and keeping the trust and confidence of our donors.  To that end, RIF1 has established the following practices regarding privacy.**
 
-**1\. Institutional Donor Recordkeeping**
+Thank you for your support of Reading Is Fundamental.  We value the trust you have placed in us. This privacy policy describes the measures we take to protect the personal information of our donors. It also describes our solicitation strategies and the choices you can make about how we use the information you provide to us. At the end of this privacy policy, you will find a link to help you update your preferences and contact information for RIF's development department.
+
+**1\. Protection of Donor  Information **
 
 RIF understands that a donor's or prospective donor's (referred to herein collectively as "Donor") personal information collected through the fundraising process is sensitive. RIF personnel who have access to "Donor Information" (as defined below) are required to sign an internal confidentiality policy, which is reviewed and updated annually, and to acknowledge the ethical policies of the Association of Professional Researchers for Advancement, the Association of Fundraising Professionals, and the Donor Bill of Rights. 
 
 The following practices guide RIF's recordkeeping on donors:
 
-  1. Access to information in RIF's donor database and paper files containing personal information of donors or prospective donors ("Donor Information") is limited to personnel in the Marketing and External Relations Department, other select RIF personnel and certain other non-profit organizations. 
-  2. Electronic and paper documents maintained by RIF and relating primarily to Donor Information will be disposed of when no longer needed. 
-  3. RIF notifies its vendors, consultants, and other third parties of RIF's confidentiality policies before such third parties gain access to Donor Information for purposes of carrying out fundraising activities for RIF. 
-  4. Donors may have reasonably prompt access to their own Donor Information upon written request, but may not view any other records.
-
-
+> a.  Access to information in RIF's donor database and paper files containing personal information of donors or prospective donors ("Donor Information") is limited to personnel in the Development Department, other select RIF personnel and certain other non-profit organizations. 
+> 
+> b.  Electronic and paper documents maintained by RIF and relating primarily to Donor Information will be disposed of when no longer needed. 
+> 
+> c.  RIF notifies its vendors, consultants, and other third parties of RIF's confidentiality policies before such third parties gain access to Donor Information for purposes of carrying out fundraising activities for RIF. 
+> 
+> d.  Donors may have reasonably prompt access to their own Donor Information upon written request, but may not view any other records.
 
 All Donor Information is the property of RIF.
 
 **2\. General Solicitation Practices**
 
-It is RIF's standard practice to include all donors in our regular solicitation schedule. Donors and prospective donors may call or e-mail the development staff to advise that they wish to be solicited once a year, not receive solicitations, not receive any mail at all from RIF, not receive e-mail, or that their contact information not be shared with other organizations. RIF will do its best to honor any such request.
+It is RIF's standard practice to include all donors in our regular solicitation schedule. Donors and prospective donors may call or e-mail the development staff to advise how often  they wish to be solicited, to not receive solicitations, to not receive any mail at all from RIF, to not receive e-mail, or that their contact information not be shared with other organizations. RIF will do its best to honor any such request.
 
 RIF defines these options as follows:
 
-**_One solicitation per year_** : A donor or prospective donor will receive a solicitation as part of RIF’s year-end direct mail appeal. Additionally, donors and prospective donors may also receive e-mail communications from RIF if they have provided an e-mail address.
+**_One solicitation per year_ :** A donor or prospective donor will receive a solicitation as part of RIF’s year-end direct mail appeal. Additionally, donors and prospective donors may also receive e-mail communications from RIF if they have provided an e-mail address.
 
-**_Do not solicit_** : A donor or prospective donor will not receive any solicitations from RIF. A donor will still receive standard acknowledgments when a gift is made, Required Reading (RIF's donor newsletter), an annual report, and may receive addressed return envelopes in acknowledgments. 
+**_Do not solicit_ :** A donor or prospective donor will not receive any solicitations from RIF. A donor will still receive standard acknowledgments when a gift is made, Required Reading (RIF's donor newsletter), and an annual report. 
 
-**_Do not mail_** : The only mail these donors will receive are acknowledgments from RIF when a gift is made. These donors may, however, continue to receive e-mails. Donors must also request that their record be marked "Do not e-mail" if they do not wish to receive electronic communications.
+**_Do not mail_ : **The only mail these donors will receive are acknowledgments from RIF when a gift is made. These donors may, however, continue to receive e-mails. Donors must also request that their record be marked "Do not e-mail" if they do not wish to receive electronic communications.
 
-**_Do not e-mail_** : For all gifts made online, RIF requires donors to submit their e-mail address. However, donors may choose not to receive communication via e-mail through a check-off box at the end of the online donation form. Checking this box will notify RIF that the donor does not wish to receive RIF’s eNewsletter (unless they have previously subscribed) or any other electronic solicitations. Donors will still receive an automatic electronic acknowledgment for their gift shortly after it is made.
+**_Do not e-mail_ : **For all gifts made online, RIF requires donors to submit their e-mail address. However, donors may choose not to receive communication via e-mail through a check-off box at the end of the online donation form. Checking this box will notify RIF that the donor does not wish to receive RIF’s eNewsletter (unless they have previously subscribed) or any other electronic solicitations. Donors will still receive an automatic electronic acknowledgment for their gift shortly after it is made.
 
-**_Do not share_** : Although RIF does not sell its mailing or e-mail lists, we may exchange lists with other nonprofit organizations through a recognized list brokerage firm. Any donor may request that their name not be shared with other organizations. Donors will continue to receive mailings, solicitations and general communications from RIF.
+**_Do not share_ : **Although RIF does not sell its mailing or e-mail lists, we may exchange lists with other nonprofit organizations through a recognized list brokerage firm. Any donor may request that their name not be shared with other organizations. Donors will continue to receive mailings, solicitations and general communications from RIF.
 
 In addition, any donor may request to give anonymously. Anonymity means that the donor will be excluded from any annual report or general donation listings. In addition, that individual's record will automatically be marked "Do not share" to ensure that his or her name is excluded should RIF share any of its lists. Anonymous donors will continue to receive solicitations and updates on RIF. 
 
 Please note that RIF reserves the right to contact a donor by whatever means necessary should a problem arise with a gift.
+
+_[_Click here_ ](https://secure2.convio.net/rif/site/SPageServer?pagename=myPage&JServSessionIdr001=fuh0848ms2.app6a)_if you wish to update your preferences or your contact information.
+
+Donor requests:
+
+> a.  Via U.S. Mail: 
+>
+>> Reading Is Fundamental, Inc.  
+> Attn: Development Department  
+> 1825 Connecticut Avenue, NW  
+> Suite 400  
+> Washington, DC 20009-5726 
+> 
+> b.  Via e-mail: [development@rif.org](mailto:development@rif.org) 
+> 
+> c.  Via telephone: (888)725-4801
 
 **3\. Website Privacy**
 
@@ -88,40 +107,27 @@ Before a child enters a game or contest where he or she may win a prize, we firs
 
 As described above in Section 3(c), the "Reading Planet" portion of our web site also uses cookies.
 
-At any time parents can refuse to permit us to collect further personal information from their child and can request that any personal information we have collected be deleted from our records. Parents can also access the personal information we have collected. To make such a request, a parent must send an e-mail to [kids@rif.org](mailto:kids@rif.org "E-mail kids@rif.org"). Please include the child's member name and the parent's e-mail address in the e-mail so that we can better assist you with your inquiry or request.
+At any time parents can refuse to permit us to collect further personal information from their child and can request that any personal information we have collected be deleted from our records. Parents can also access the personal information we have collected. To make such a request, a parent must send an e-mail to [kids@rif.org](mailto:kids@rif.org). Please include the child's member name and the parent's e-mail address in the e-mail so that we can better assist you with your inquiry or request.
 
 We may amend our Privacy Policy at any time. We will provide parents notice by e-mail of any material changes in the way we intend to collect, use, and/or share children’s personal information and will make changes in accordance with COPPA. Please note that, at all times, parents should update their personal information to provide us current e-mail addresses.
 
-If you have questions or concerns about our Privacy Policy as it pertains to children please e-mail us at [kids@rif.org](mailto:kids@rif.org "E-mail kids@rif.org") or contact us via regular mail at Reading Is Fundamental, Inc., Attention Angela Gooden, 1825 Connecticut Avenue, NW, Suite 400, Washington, DC 20009 or call us at 1 (877) RIF-READ or (202) 536-3400. 
+If you have questions or concerns about our Privacy Policy as it pertains to children please e-mail us at [kids@rif.org](mailto:kids@rif.org) or contact us via regular mail at Reading Is Fundamental, Inc., Attention RIF Online Team, 1825 Connecticut Avenue, NW, Suite 400, Washington, DC 20009 or call us at 1 (877) RIF-READ or (202) 536-3400. 
 
   8. **Changes to Policy and Contact Information** :  
 Except as set forth in the portion of this policy concerning the collection of personal information of children (Section g), RIF reserves the right, at any time and without notice, to modify this policy by simply posting such changes on our website. Any modifications will be effective immediately upon posting. If you have any questions or comments about this policy, want to review your personal information collected by RIF, or wish to inform us of your solicitation preferences as stated in Section 2, please contact us through any of the following communication channels: 
 
-**Donor specific requests** :
-
-**Via U.S. Mail** :  
-Reading Is Fundamental, Inc.  
-Attn: Development Staff - Privacy Policy  
-1825 Connecticut Avenue, NW  
-Suite 400  
-Washington, DC 20009-5726 
-
-**Via e-mail** :  
-[development@rif.org](mailto:development@rif.org)
-
-**All other website requests** :
-
-**Via U.S. Mail** :  
-Reading Is Fundamental, Inc.  
-Attn: Web Team - Privacy Policy  
-1825 Connecticut Avenue, NW  
-Suite 400  
-Washington, DC 20009-5726 
-
-**Via e-mail** :  
-[feedback@rif.org](mailto:feedback@rif.org "E-mail feedback@rif.org")
 
 
+Website requests:
 
+> Via U.S. Mail:
+
+> > Reading Is Fundamental, Inc.  
+> Attn: Web Team - Privacy Policy  
+> 1825 Connecticut Avenue, NW  
+> Suite 400  
+> Washington, DC 20009-5726 
+> 
+> Via e-mail: [feedback@rif.org](mailto:feedback@rif.org)
 
 1Please note: the procedures set forth in this policy apply only to Reading Is Fundamental, Inc. Any contact with local RIF programs is guided by their established procedures.
