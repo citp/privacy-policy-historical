@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crewind.com privacy policy that was archived on 2008-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080313055156id_/http%3A//crewind.com/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crewind.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218105023id_/http%3A//www.crewind.com/legal/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy and policy
 
 This Privacy Policy states the manner in which Crewind Communications collects, uses, maintains and discloses private information collected from the users of this website.
 
