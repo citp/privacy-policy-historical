@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadaccess.net privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512150918id_/http%3A//www.downloadaccess.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadaccess.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218121844id_/http%3A//www.downloadaccess.net/privacy) for the most accurate reproduction.*
 
 # Welcome to DownloadAcces - Best Download Source On The Net
 
