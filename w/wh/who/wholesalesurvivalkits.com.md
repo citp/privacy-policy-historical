@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wholesalesurvivalkits.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609160546id_/http%3A//www.wholesalesurvivalkits.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesalesurvivalkits.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218052509id_/http%3A//www.wholesalesurvivalkits.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Become a Distributor/Affiliates
+# Guardian - Privacy Policy
 
 **Privacy Policy**
 
