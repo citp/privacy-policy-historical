@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hss.edu privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513151133id_/http%3A//www.hss.edu/notice-of-privacy-practices.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hss.edu privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218222643id_/http%3A//hss.edu/notice-of-privacy-practices.asp) for the most accurate reproduction.*
 
 # HSS - Notice of Privacy Practices
 
@@ -25,7 +25,7 @@ Acrobat Reader is required. [Download](http://www.adobe.com/products/acrobat/rea
 
 This Notice describes how medical information about you may be used and disclosed and how you can get access to this information. Please review it carefully. 
 
-Respect for our patients' privacy has long been highly valued at Hospital for Special Surgery. Not only is it what our patients expect, it is the right way to conduct health care. As required by law, we will protect the privacy of health information that may reveal your identity and provide you with a copy of our notice which describes the health information privacy practices of our Hospital and its medical staff and affiliated health care providers when providing health care services for our Hospital. Our notice will be posted in our main entrance area and in other locations at the Hospital. You will also be able to obtain your own copy by accessing our website at [www.hss.edu](http://www.hss.edu/), calling Health Information Management at 212.606.1254, or asking for one at the time of your next visit. 
+Respect for our patients' privacy has long been highly valued at Hospital for Special Surgery. Not only is it what our patients expect, it is the right way to conduct health care. As required by law, we will protect the privacy of health information that may reveal your identity and provide you with a copy of our notice which describes the health information privacy practices of our Hospital and its medical staff and affiliated health care providers when providing health care services for our Hospital. Our notice will be posted in our main entrance area and in other locations at the Hospital. You will also be able to obtain your own copy by accessing our website at <http://www.hss.edu/>, calling Health Information Management at 212.606.1254, or asking for one at the time of your next visit. 
 
 If you have any questions about this notice or would like further information, please contact the Privacy Officer at 212.774.7500.
 
@@ -54,7 +54,7 @@ Back to Top
 
 ## Important Summary Information
 
-**Requirement for Written Authorization.** We will generally obtain your [written authorization](https://web.archive.org/files/HSS_Authorization_Form.pdf) before using your health information or sharing it with others outside the Hospital. You may also initiate the transfer of your records to another person by completing a written authorization form. If you provide us with written authorization, you may revoke that written authorization at any time, except to the extent that we have already relied upon it. To revoke a written authorization, please write to the Hospital's Health Information Management office.
+**Requirement for Written Authorization.** We will generally obtain your [written authorization](https://web.archive.org/files/HSSAuthorizationForm.pdf) before using your health information or sharing it with others outside the Hospital. You may also initiate the transfer of your records to another person by completing a written authorization form. If you provide us with written authorization, you may revoke that written authorization at any time, except to the extent that we have already relied upon it. To revoke a written authorization, please write to the Hospital's Health Information Management office.
 
 **Exceptions to Written Authorization Requirement.** There are some situations when we do not need your written authorization before using your health information or sharing it with others. They are:
 
@@ -81,7 +81,7 @@ Back to Top
 
 **How to Obtain a Copy of This Notice.** You have the right to a paper copy of this notice. You may request a paper copy at any time, even if you have previously agreed to receive this notice electronically. To do so, please call Health Information Management at (212) 606-1254. You may also obtain a copy of this notice from our website at <http://www.hss.edu/> or by requesting a copy at your next visit.
 
-**How to Obtain a Copy of Revised Notice.** We may change our privacy practices from time to time. If we do, we will revise this notice so you will have an accurate summary of our practices, and the revised notice will apply to all of your health information. We will post any revised notice in our admitting areas and other locations in the Hospital. You will also be able to obtain your own copy of the revised notice by accessing our website at [www.hss.edu](http://www.hss.edu/), calling our Health Information Management office at (212) 606-1254, or asking for one at the time of your next visit. The effective date of the notice will always be noted in the cover and at the top outside corner of the each page. We are required to abide by the terms of the notice that is currently in effect.
+**How to Obtain a Copy of Revised Notice.** We may change our privacy practices from time to time. If we do, we will revise this notice so you will have an accurate summary of our practices, and the revised notice will apply to all of your health information. We will post any revised notice in our admitting areas and other locations in the Hospital. You will also be able to obtain your own copy of the revised notice by accessing our website at <http://www.hss.edu/>, calling our Health Information Management office at (212) 606-1254, or asking for one at the time of your next visit. The effective date of the notice will always be noted in the cover and at the top outside corner of the each page. We are required to abide by the terms of the notice that is currently in effect.
 
 **How to File a Complaint.** If you believe your privacy rights have been violated, you may file a complaint with us or with the Secretary of the Department of Health and Human Services. To file a complaint with us, please contact the Privacy Officer at (212) 774-7500 or send a letter to the Hospital to the attention of the Privacy Officer. No one will retaliate or take action against you for filing a complaint.
 
@@ -246,3 +246,6 @@ Back to Top
 
   
 _Last Updated March 26, 2003_
+
+  
+
