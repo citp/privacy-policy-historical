@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bauergriffinonline.com privacy policy that was archived on 2008-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080120153701id_/http%3A//bauergriffinonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bauergriffinonline.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218140604id_/http%3A//www.bauergriffinonline.com/privacy.php) for the most accurate reproduction.*
 
-# Bauer-Griffin: Privacy Policy
+# 
 
 This privacy statement ("Privacy Policy") covers all the websites owned, affiliated or operated by Bauer-Griffin. ("Bauer-Griffin", "we", "us", "our"). Bauer-Griffin knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Bauer-Griffin websites, submitting information or using any of our products or services, you are accepting the practices outlined in this Privacy Policy.
 
