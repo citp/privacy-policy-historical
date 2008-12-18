@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-midi.org privacy policy that was archived on 2008-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080326193140id_/http%3A//www.free-midi.org/privacy_policy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-midi.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218212753id_/http%3A//free-midi.org/privacy_policy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -16,5 +16,10 @@ With respect to cookies: We use cookies to store visitors preferences, record pa
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
 <http://www.google.com/privacy.html>
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site. 
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+
+
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses.
