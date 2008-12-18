@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the rapidrepair.com privacy policy that was archived on 2008-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080321205214id_/http%3A//rapidrepair.com/Privacy/PP.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidrepair.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218122921id_/http%3A//www.rapidrepair.com/Privacy/PP.htm) for the most accurate reproduction.*
 
-# Welcome to Rapid Repair (Formerly iPodMods) - iPod Repair & Modification Center
+# Rapid Repair - Links | iPod Repair, iPhone Repair, Batteries, LCD Screens and more | Fast iPod Repair, iPhone Repair and Zune Repair | Fast iPod Repair, iPhone Repair and Zune Repair
 
 **Rapid Repair Privacy Policy**
 
 * * *
 
-##  [ ](http://www.truste.org/ivalidate.php?url=www.ipodmods.com&sealid=101)
+##  [ ](http://www.truste.org/ivalidate.php?url=www.rapidrepair.com&sealid=101)
 
 **_Orders_**
 
@@ -24,7 +24,7 @@ If you purchase a product or service from us, we request certain personally iden
 
 -         shipping notification
 
- We may contact you via phone or e-mail for any one of the steps listed above.  We may also contact you if we have trouble processing your order during any one of these steps.
+ We may contact you via phone or e-mail for any one of the steps listed above.  We may also contact you if we have trouble processing your order during any one of these steps. There will be a 15% restocking fee for all parts and devices that are returned in fully functional order.
 
 _Uses of Information_
 
@@ -52,6 +52,23 @@ Rapid Repair
 1825 W. Main St.  
 Kalamazoo, MI 49006  
 (Please do NOT mail in an iPod without placing an order online first.)
+
+_Rush Processing_
+
+RapidRepair.com offers rush processing for orders placed before before 12PM EST for a small additional fee. The billing and shipping information must be the same. RapidRepair will make a strong effort to ship the order the same day (for self installed parts) and rush repairs (for mail in device repairs) but we cannot guarantee the order will ship same day even with this fee. If we fail to ship the order out on the same day, we will refund the rush processing fee. This rush processing fee is non-refundable for mail in repair orders (in-house diagnostics & repairs). 
+
+Rush Processing is only available if the following conditions are met:
+
+  * Billing address and shipping address are accurate and verified.
+  * If parts are in stock(99% of items will be available)
+  * Order is placed before the shipping deadline.
+
+
+
+***Not valid for self installed parts when paying with a check, money order, or PayPal.  
+***Valid Monday through Friday only, Saturday and Sunday we do not ship orders.  
+***Holidays are also excluded for this offer.  
+***Shipping deadline for any business day is 3PM EST.
 
 **Information Sharing and Disclosure**
 
@@ -136,3 +153,5 @@ Rapid Repair is a licensee of the TRUSTe Privacy Program.  TRUSTe is an indepen
 If you have questions or concerns regarding this statement, you should first contact Customer Service.  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at  [ _http://www.truste.org/consumers/watchdog_complaint.php_](http://www.truste.org/consumers/watchdog_complaint.php).  TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
+
+>  
