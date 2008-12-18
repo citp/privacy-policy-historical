@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gtsads.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529045104id_/http%3A//www.gtsads.com/advertiserRegistration.do%3Faction%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtsads.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218065901id_/http%3A//www.gtsads.com/advertiserRegistration.do%3Faction%3DprivacyPolicy) for the most accurate reproduction.*
 
-# MadisonAvenue.com Ad Management System - Welcome
+# GTSAds.com | PRIVACY POLICY | Advanced Traffic Acquisition Platform
 
-> Site: MadisonAvenue
+> Site: GTSAds.com
 > 
-> URL: http://www.MadisonAvenue.com
+> URL: http://GTSAds.com
 > 
-> MadisonAvenue.com has created and publicly posted this privacy statement in order to demonstrate our commitment to privacy.   
+> GTSAds.com has created and publicly posted this privacy statement in order to demonstrate our commitment to privacy.   
 > The following discloses the information gathering and dissemination practices for our website and services.
 > 
 > **Information Automatically Logged**
@@ -21,13 +21,13 @@
 > 
 > **Personal Information**
 > 
-> MadisonAvenue.com collects your name and email address, and other pertinent information.
+> GTSAds.com collects your name and email address, and other pertinent information.
 > 
 > This information is used to facilitate delivery of and buying and selling of advertisements on the Internet.
 > 
 > We do not share any personal information with any third parties nor do we use any personal information for any purposes beyond those stated here.
 > 
-> Log into your Publisher or Advertiser Account from any page of www.madisonavenue.com to update your personal information.
+> Log into your Publisher or Advertiser Account from any page of www.GTSAds.com to update your personal information.
 > 
 > **Cookies**
 > 
@@ -45,10 +45,10 @@
 > 
 > All credit card information is encrypted with 40-bit SSL encryption before it is transmitted across the network.
 > 
-> MadisonAvenue.com complies with all statutory and legal requirements with respect to access to information.
+> GTSAds.com complies with all statutory and legal requirements with respect to access to information.
 > 
 > **Contact Information**
 > 
-> MadisonAvenue.com complies with all statutory and legal requirements with respect to access to information.
+> GTSAds.com complies with all statutory and legal requirements with respect to access to information.
 > 
-> If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact support@madisonavenue.com. 
+> If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact support@gtsads.com. 
