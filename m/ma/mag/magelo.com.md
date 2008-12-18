@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the magelo.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616022136id_/http%3A//www.magelo.com/privacy_policy.jspa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magelo.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218060448id_/http%3A//www.magelo.com/privacy_policy.jspa) for the most accurate reproduction.*
 
 # Magelo - Privacy policy
 
-The intent of this privacy policy is to detail the information Magelo Entertainment Limited ("Magelo") may gather about individuals who visit our websites and create accounts with us. Further it will discuss how that information is used and Magelo's disclosure practices. 
+The intent of this privacy policy is to detail the information Magelo SA ("Magelo") may gather about individuals who visit our websites and create accounts with us. Further it will discuss how that information is used and Magelo's disclosure practices. 
 
  Site usage information
 
@@ -35,4 +35,4 @@ We collect credit card information for the purpose of conducting financial trans
 
  Credit card statement
 
-Magelo will appear on your credit card statement. 
+Magelo will appear on your credit card statement.The payments will be collected by Magelo Entertainment Limited in UK. 
