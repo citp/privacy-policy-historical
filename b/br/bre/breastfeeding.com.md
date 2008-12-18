@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the breastfeeding.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609195428id_/http%3A//www.breastfeeding.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breastfeeding.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218063430id_/http%3A//www.breastfeeding.com/privacy.html) for the most accurate reproduction.*
 
-# Breastfeeding.com, The #1 site for breastfeeding information, support, and attitude!
+# Privacy
 
-  |    
+  
 At Breastfeeding.com, we are committed to maintaining your privacy and your trust. This Privacy Policy explains how we collect and protect information about you when you use the Breastfeeding.com website. We hope this information increases your confidence in Breastfeeding.com. 
 
   
@@ -41,6 +41,4 @@ Breastfeeding.com contains links to other sites. It is possible for you to recei
 
 **Changes to the Privacy Policy.** We may change this Privacy Policy from time to time. The most recent version of the Privacy Policy will always be posted on the Site, with the "Effective Date" posted at the top of the Policy. We will inform you if we substantially modify the way we handle your personally identifiable information by posting a notice on the Site, and we will give you the opportunity to opt-out of such uses. 
 
-**Contacting Us.** If you have any questions about this Privacy Policy, or the practices of this Site, please email us at feedback@breastfeeding.com
-
-|   |  |  
+**Contacting Us.** If you have any questions about this Privacy Policy, or the practices of this Site, please email us at [feedback@breastfeeding.com](mailto:feedback@breastfeeding.com)
