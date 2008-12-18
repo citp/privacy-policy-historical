@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localpages.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616205807id_/http%3A//corporate.localpages.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localpages.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218061214id_/http%3A//corporate.localpages.com/privacy) for the most accurate reproduction.*
 
 # LocalPages - Bringing Your Neighborhood to You
 
