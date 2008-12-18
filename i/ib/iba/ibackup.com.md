@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibackup.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622202431id_/http%3A//www.ibackup.com/policy_new.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibackup.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218052703id_/http%3A//www.ibackup.com/policy_new.htm) for the most accurate reproduction.*
 
 # Privacy policy - Secure online storage and backup
 
@@ -30,7 +30,7 @@ Security
 
 Never share the password with anyone, unless You intend to collaborate with them, for which they need to read-write access to Your files. On receipt of certain types of sensitive data like financial information, we redirect visitors to the secure portion of our site, using industry standard SSL. This site has security measures in place to protect against loss, misuse and alteration of the information under our control. The user data is password protected.
 
-For details, see [Terms of Service](https://web.archive.org/web/20080622202431id_/http%3A//license/terms_new.htm).
+For details, see [Terms of Service](https://web.archive.org/web/20081218052703id_/http%3A//license/terms_new.htm).
 
 IBackup uses cookies for user session tracking. They are used solely for identifying user sessions and do not store any personal information.
 
