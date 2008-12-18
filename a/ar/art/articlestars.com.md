@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlestars.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214144207id_/http%3A//articlestars.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlestars.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218071841id_/http%3A//articlestars.com/privacy.php) for the most accurate reproduction.*
 
-# Articlestars.com
+# Article Directory Submission | Submit Quality Original Articles
 
 **Your ArticleStars Directory Privacy Policy**
 
