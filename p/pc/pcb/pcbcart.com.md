@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pcbcart.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611025105id_/http%3A//www.pcbcart.com/cart.php%3Ftarget%3Dhelp%26mode%3Dprivacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcbcart.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218071940id_/http%3A//www.pcbcart.com/cart.php%3Ftarget%3Dhelp%26mode%3Dprivacy_statement) for the most accurate reproduction.*
 
 # PCBCART, Prototype to Production PCB supplier from China - Help section
 
-| [](https://web.archive.org/web/20080611025105id_/http%3A//www.pcbcart.com/cart.php)  
+| [](https://web.archive.org/web/20081218071940id_/http%3A//www.pcbcart.com/cart.php)  
 ---  
 |    
 |   Privacy statement  
