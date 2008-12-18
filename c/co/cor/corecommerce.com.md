@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corecommerce.com privacy policy that was archived on 2008-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080406183310id_/http%3A//www.corecommerce.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corecommerce.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218123015id_/http%3A//www.corecommerce.com/company/privacy.html) for the most accurate reproduction.*
 
 # Ecommerce Software - Privacy Policy
 
