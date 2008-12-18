@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the incansoft.com privacy policy that was archived on 2008-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080408173326id_/http%3A//incansoft.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incansoft.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218102958id_/http%3A//www.incansoft.com/Privacy.php) for the most accurate reproduction.*
 
-# |
+# Incansoft | Experience The Difference Today!
 
 **Incansoft Privacy Statement**
 
