@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohmyrockness.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618080130id_/http%3A//www.ohmyrockness.com/static_pages.cfm%3FgetPage%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohmyrockness.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218115019id_/http%3A//www.ohmyrockness.com/static_pages.cfm%3FgetPage%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Oh My Rockness ((Privacy Policy))
 
