@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imagecomics.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514171805id_/http%3A//www.imagecomics.com/termsofservice.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagecomics.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218121455id_/http%3A//www.imagecomics.com/termsofservice.php) for the most accurate reproduction.*
 
 # Image Comics | Terms of Service & Privacy Policy
 
