@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the fasttrackfundraising.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611133833id_/http%3A//www.fasttrackfundraising.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fasttrackfundraising.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218014852id_/http%3A//www.fasttrackfundraising.com/privacy.php) for the most accurate reproduction.*
 
 # FastTrack privacy policy – FastTrack Fundraising
 
 [Home](http://www.fasttrackfundraising.com/) » FastTrack Fundraiser privacy policy
 
-[](https://web.archive.org/tell-a-friend.php)
+[](http://www.addthis.com/bookmark.php)
+
+[](http://www.freetellafriend.com/tell/?u=3785 "Tell a Friend")
 
 **SECURITY & PRIVACY STATEMENT**  
 Effective November 20, 2002
