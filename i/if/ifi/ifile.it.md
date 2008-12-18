@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifile.it privacy policy that was archived on 2008-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080331075727id_/http%3A//ifile.it/wiki/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifile.it privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218113825id_/http%3A//ifile.it/wiki/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - ifile.it
 
