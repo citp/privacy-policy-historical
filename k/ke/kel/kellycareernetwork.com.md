@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kellycareernetwork.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214045003id_/http%3A//www.kellyservices.us/web/us/services/en/pages/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellycareernetwork.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218112113id_/http%3A//www.kellyservices.us/web/us/services/en/pages/privacy_statement.html) for the most accurate reproduction.*
 
-# Kelly Services : Privacy Statement -
+# Kelly Services : Privacy Statement |
 
 Kelly Services, Inc. respects the privacy of our customers, applicants, and employees and we acknowledge that you have certain rights related to any personal information we collect from you. Kelly supports the various national and local privacy laws, and has procedures in place to meet the requirements of those laws.
 
