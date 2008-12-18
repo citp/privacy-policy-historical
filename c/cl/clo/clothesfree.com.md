@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clothesfree.com privacy policy that was archived on 2008-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080415045540id_/http%3A//www.clothesfree.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clothesfree.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218150255id_/http%3A//www.clothesfree.com/privacypolicy.html) for the most accurate reproduction.*
 
 # ClothesFree.com Refund Policy
 
@@ -35,4 +35,4 @@ E-mail: 
 **Toll Free 877-261-6184 or 559-683-2388  
 fax: 559-421-1909**
 
-[Back to ClothesFree.com](https://web.archive.org/web/20080415045540id_/http%3A//www.clothesfree.com/index.html)
+[Back to ClothesFree.com](https://web.archive.org/web/20081218150255id_/http%3A//www.clothesfree.com/index.html)
