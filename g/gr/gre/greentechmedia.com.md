@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greentechmedia.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621143358id_/http%3A//www.greentechmedia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greentechmedia.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218095304id_/http%3A//www.greentechmedia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Greentech Media | Privacy Policy
 
