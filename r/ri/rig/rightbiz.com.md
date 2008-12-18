@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rightbiz.com privacy policy that was archived on 2008-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080403035040id_/http%3A//www.rightbiz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightbiz.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218085050id_/http%3A//www.rightbiz.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# RightBiz Information Portal
+
+Privacy Policy
 
   
 RightBiz Enterprises respects the privacy of all our visitors and we will never sell, barter, or rent your Personally Identifiable Information (your name, e-mail address, street address, telephone number) to any unauthorized third party. Period." 
@@ -61,7 +63,7 @@ You can subscribe to our mailing list by sending an e-mail with your name and e-
 
 ### How you can get more information
 
-Send an email to info@rightbiz.com stating what it is you want, or use our on-line form at <http://www.rightbiz.com/info.html>
+Send an email to info@rightbiz.com stating what it is you want, or use our on-line form at the[ Helpdesk](http://www.rightbiz.com/cgi-bin/uss/login.cgi?login)
 
 ### Spam Policy
 
@@ -69,4 +71,12 @@ Spamming, such as indiscriminate advertising, unsolicited commercial email, or p
 
 ### Changes to this Policy
 
-RightBiz.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
+RightBiz.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.  | 
+
+[](htps://web.archive.org/web/20081218085050id_/http%3A//www.rightbiz.com/privacy.php) [](https://web.archive.org/german.php/?https://web.archive.org/web/20081218085050id_/http%3A//www.rightbiz.com/privacy.php) [](https://web.archive.org/spanish.php/?https://web.archive.org/web/20081218085050id_/http%3A//www.rightbiz.com/privacy.php) [](https://web.archive.org/french.php/?https://web.archive.org/web/20081218085050id_/http%3A//www.rightbiz.com/privacy.php) [](https://web.archive.org/italian.php/?https://web.archive.org/web/20081218085050id_/http%3A//www.rightbiz.com/privacy.php) [](https://web.archive.org/portuguese.php/?https://web.archive.org/web/20081218085050id_/http%3A//www.rightbiz.com/privacy.php) [](https://web.archive.org/japanese.php/?https://web.archive.org/web/20081218085050id_/http%3A//www.rightbiz.com/privacy.php) [](https://web.archive.org/korean.php/?https://web.archive.org/web/20081218085050id_/http%3A//www.rightbiz.com/privacy.php) [](https://web.archive.org/chinese.php/?https://web.archive.org/web/20081218085050id_/http%3A//www.rightbiz.com/privacy.php)
+
+[](http://www.rightbiz.com/bookmark/?url=http://www.rightbiz.com&title=RightBiz+Article+Directory)   
+
+
+[ ](http://www.getresponse.com/index/stankennedy) [ ](http://www.sysnito.com/?crid=35196&linkID=129) [](https://www.e-junkie.com/ecom/gb.php?ii=127570&c=ib&aff=41609)   
+
