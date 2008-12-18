@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the graphicsfactory.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625181025id_/https%3A//members.graphicsfactory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicsfactory.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218022332id_/https%3A//members.graphicsfactory.com/privacy.html) for the most accurate reproduction.*
 
 # Graphics Factory.com - Privacy Policy
 
+[](http://www.graphicsfactory.com/) | **Privacy Statement**  
+Effective Date: August 23, 2006|   
+---|---|---  
   
-GraphicsFactory.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site http://www.graphicsfactory.com/ and http://members.graphicsfactory.com/. 
+  
+GraphicsFactory.com has been reviewed by the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site http://www.graphicsfactory.com/ and http://members.graphicsfactory.com/. 
 
 Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
@@ -39,7 +43,7 @@ These third parties are prohibited from using your personally identifiable infor
 
 The security of your personal information is important to us. We have strong security measures in place to protect from the loss, misuse or alteration of information under our control. Our site uses secure order forms for our customers to make purchases in safe and private manner. All data submitted through our secure forms is protected the entire online route - from the customer's computer to ours - with powerful SSL encryption technology. To learn more about SSL, [follow this link](http://en.wikipedia.org/wiki/Secure_Sockets_Layer). 
 
-If you have any questions about security on our Web site, you can send email us at [ssl@graphicsfactory.com](mailto:ssl@graphicsfactory.com). 
+If you have any questions about security on our Web site, you can send email us at [feedback@graphicsfactory.com](mailto:feedback@graphicsfactory.com). 
 
 **Testimonials** If you post a testimonial on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of this site, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit on this site. 
 
@@ -56,8 +60,8 @@ This site gives users the option of changing, modifying or deleting information 
 [privacy@graphicsfactory.com](mailto:privacy@graphicsfactory.com).
 
 GraphicsFactory.com  
-2018 E 140 S  
-Saint George, UT 84790 
+2051 E Red Hills Pkwy #2  
+Saint George, UT 84770 
 
 1-800-339-2383 
 
