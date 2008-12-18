@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the lsc.gov.uk privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429215812id_/http%3A//www.lsc.gov.uk/DPA.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsc.gov.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218195801id_/http%3A//www.lsc.gov.uk/DPA.htm) for the most accurate reproduction.*
 
 # Learning and Skills Council - Privacy and copyright statement
 
 The LSC website, with the exception of the registration systems and the discussions facility does not capture or store personal information, but merely logs the user's IP address (the Internet address of your computer) to give us an idea of which part of our website you visit and how long you spend there. 
 
-In common with many other commercial websites the LSC website may use a standard technology called a 'cookie' to collect information about how you use the site; this is a small data file that certain websites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited, but the only personal information a cookie can contain is information you supply yourself. A cookie can't readdata off your hard disk or read cookie files created by other sites.
+In common with many other commercial websites the LSC website may use a standard technology called a 'cookie' to collect information about how you use the site; this is a small data file that certain websites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited, but the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites.
 
 Some parts of the LSC website uses cookies to track user traffic patterns. We do this in order to determine the usefulness of our website information to our users and to see how effective our navigational structure is in helping users reach that information. If you prefer not to receive cookies while browsing our website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. You do not need to have cookies turned on to use/navigate through many parts of our website, except access to certain parts of the LSC web pages may require a login and password.
 
 If you register to receive updates your information will be held on a secure server and the data will not be shared with any organisations outside government. It will be used only to provide you with email updates on the topics you have requested or postal information if you request that service. If you respond online to a consultation exercise your data will only be used to facilitate the analysis of responses and will be deleted subsequently.
 
-This privacy statement only covers the LSC website and subsequent sub-sites of that domain. Other websites linked to or from the LSC website are not coveredby this privacy statement.
+This privacy statement only covers the LSC website and subsequent sub-sites of that domain, and those other sites specifically referred to in this statement. Other websites linked to or from the LSC website are not coveredby this privacy statement.
 
 **Data protection**
 
@@ -53,9 +53,9 @@ Users of Learner Support Services register separately for these services, which 
 
 **LSC Employment Vacancies**
 
-Users of LSC Employment Vacancies register separately for these services, which enable individuals to apply for employment vacancies with the LSC and to be kept informed of possible employment opportunities. Personal data is retained for these purposes. Data will be processed by Oracle on behalf of the LSC and where data is transferred and stored outside of EU boundaries, it will be protected and remain the responsibility of the LSC. Data will be stored for up to six months after the completion of an employment application and retained further if an application results in an offer of employment beingmade for the purposes of processing that offer. 
+Users of LSC Employment Vacancies register separately for these services, which enable individuals to apply for employment vacancies with the LSC and to be kept informed of possible employment opportunities. Personal data is retained for these purposes. Data will be processed by Oracle on behalf of the LSC and where data is transferred and stored outside of EU boundaries, it will be protected and remain the responsibility of the LSC. Data will be stored for up to six months after the completion of an employment application and retained further if an application results in an offer of employment being made for the purposes of processing that offer. 
 
-**Mailing Lists and forums**
+**Mailing Lists and forums (including MIAP and _the information authority_ )**
 
 Users of the LSC's mailing lists and forums must register separately for these services. These services are free and on the whole will only require registration when posting messages. Details of how to register and remove personal details from LSC mailing lists and forums are located with the mailing lists.
 
