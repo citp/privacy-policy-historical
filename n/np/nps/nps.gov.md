@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nps.gov privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511222802id_/http%3A//www.nps.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nps.gov privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218120042id_/http%3A//www.nps.gov/privacy.htm) for the most accurate reproduction.*
 
-# U.S. National Park Service Privacy Statement
+# Privacy Statement
 
 We collect no personal information about you when you visit our website unless you choose to provide this information to us. However, we collect and store certain information automatically. Here is how we handle information about your visit to our website.
 
