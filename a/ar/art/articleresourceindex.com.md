@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleresourceindex.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611172758id_/http%3A//www.articleresourceindex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleresourceindex.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218062633id_/http%3A//www.articleresourceindex.com/privacy.php) for the most accurate reproduction.*
 
 # The Web's Complete Article Resource Directory - Article Resource Index
 
