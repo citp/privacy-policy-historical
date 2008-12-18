@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visordown.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511011441id_/http%3A//www.visordown.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visordown.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218180306id_/http%3A//www.visordown.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
 
 # Visordown - Privacy Policy
 
@@ -7,10 +7,10 @@
 **Sign up today and you could win a Duke DVD. We've got one to give away every month!**  
 [why join?](https://web.archive.org/members/whyjoin.asp?sp=&v=1)    
   
-| **643** Total Reviews  
+| **1029** Total Reviews  
 ---|---  
   
-| **4896103** Total Messages  
+| **5066671** Total Messages  
 ---|---  
   
 "The best features from 7 years of TWO magazine"  
@@ -51,4 +51,4 @@ In addition to the uses made of information collected outlined above, all of the
   
 [](http://www.visordown.com/two/)
 
-Ride faster at your next track day with Niall Mackenzie, RC8 and 1098 go head-to-head, and meet the 10 most powerful people in motorcycling.
+Exclusive Rossi interview, we ride with Prince William & Harry, GS1150 Buyer's Guide, Street Triple R, Win a Ducati 848 
