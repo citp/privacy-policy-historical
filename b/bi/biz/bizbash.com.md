@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bizbash.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613165054id_/http%3A//www.bizbash.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizbash.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218015807id_/http%3A//www.bizbash.com/privacy.php) for the most accurate reproduction.*
 
-# BizBash Los Angeles | Events * Meetings * Marketing * Style * Strategy * Ideas
+# BizBash Florida | Events * Meetings * Marketing * Style * Strategy * Ideas
 
 We respect your privacy! The following section explains the type of information we may collect during the normal operation of our Web site and how BizBash Media would use and protect such collected information. If you have any questions, please don't hesitate to contact us at 646.638.3600. 
 
