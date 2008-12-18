@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the javaworld.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526103944id_/http%3A//www.javaworld.com/info/jw-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javaworld.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218014636id_/http%3A//www.javaworld.com/info/jw-privacy.html) for the most accurate reproduction.*
 
 # JavaWorld.com About Us
 
 The Java World Web site and associated sites are maintained by
 
 Network World, Inc.   
-118 Turnpike Road   
-Southborough, MA 01772
+492 Old Connecticut Path   
+Framingham, MA 01701 
 
-Java World collects personally identifying information and data about individuals, their company, and the companies' demographics (personally identifying information and data) including (i) when you provide information to Java World, such as when you register or sign up for any of our products such as publications, subscriptions, e-mails, contests, newsletters, memberships, RSS Feeds, content delivery via SMS text or other technologies, webcasts, White Papers, online seminars, conferences and other communications with Java World, (ii) when you register or sign up on the Java World site or when you register for any other IDG Publishing Network products individually or through auto register, your information will be known to Java World and (iii) from time to time we may add other information that we collect from third party sources to enhance the information that you provided to Java World.
+Java World collects personally identifying information and data about individuals, their company, and the companies demographics (?personally identifying information and data?) including (i) when you provide information to Java World, such as when you register or sign up for any of our products such as publications, subscriptions, e-mails, contests, newsletters, memberships, RSS Feeds, webcasts, White Papers, online seminars, conferences and other communications with Java World, (ii) when you register or sign up on the Java World site or when you register for any other IDG Publishing Network products individually or through ?auto register?, your information will be known to Java World and (iii) from time to time we may add other information that we collect from third party sources to enhance the information that you provided to Java World.
 
 Below is the current policy regarding the usage of personally identifying information and data collected by Java World. We reevaluate this policy on an ongoing basis based on feedback from readers. Java World reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifying information and data that is different from that stated at the time of collection, we will notify you by posting a notice on our website. 
 
@@ -24,7 +24,7 @@ Other cookies without personally identifying information and data are used to en
 
 Browsers or third-party software can allow you to block the use of cookies while you surf our site. Or, you can use third-party "anonymizer" services to mask information in your cookies, or even general data such as your IP address. In such cases you would not be able to take advantage of most of the personalization services offered by Java World.com. 
 
-For more information about cookies, head to Network World's Cookies [page](http://www.networkworld.com/details/719.html). 
+For more information about cookies, head to Network World's Cookies [QuickStudy](http://www.networkworld.com/details/719.html). 
 
 The aggregated information we collect is used for a number of purposes including the following :
 
@@ -39,9 +39,7 @@ The aggregated information we collect is used for a number of purposes including
 
 Postal addresses, and other personally identifying information and data will be used to promote Java World and other IDG companies ? products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the personally identifying information and data are rented and/or licensed for use and the users are required to target their offers carefully. 
 
-Residential telephone numbers of Java World print subscribers are used by Java World to collect re-qualification data and may be used by Java World, IDG and other IDG companies, affiliates and it's advertisers for promotional purposes. Java World may rent and/or license for use phone numbers to selected outside firms for promotional purposes. Offers for which the numbers are rented and/or licensed for use are required to target their offers carefully. 
-
-Mobile telephone numbers that are provided to JavaWorld will be used to provide the products and services you've specifically requested, such as, but not limited to content delivery via sms text or other technologies, and for customer service related to the products and services you've requested. With your express consent, your mobile telephone number may be used to promote other products and services of JavaWorld, as well as the products and services of other IDG companies. Further, your mobile phone number may, with your express consent, be used to promote the products and services of carefully chosen third parties. At any time you may "opt-out" of receiving communications via your mobile phone from JavaWorld, other IDG companies, and third parties, by visiting <https://www.networkworld.com/nl/pclogin.jsp> and clicking on the unsubscribe link or clicking the unsubscribe link of any individual message you may receive. Because many phone companies recycle phone numbers, it is possible for users who purchase a new phone to receive messages that the previous owner had subscribed to or otherwise consented to receive. 
+Telephone numbers of Java World print subscribers are used by Java World to collect re-qualification data and may be used by Java World, IDG and other IDG companies, affiliates and it's advertisers for promotional purposes. Java World may rent and/or license for use phone numbers to selected outside firms for promotional purposes. Offers for which the numbers are rented and/or licensed for use are required to target their offers carefully. 
 
 Fax numbers of Java World print subscribers are used by Java World to collect re-qualification data and may be used for surveys for Java World and third parties. Except as set forth in this policy no fax numbers are rented and/or licensed to outside firms. 
 
@@ -53,11 +51,11 @@ Personal identifying information submitted on portions of our site developed wit
 
 Java World users should be aware that when they disclose personal identifying information (e.g., user name, address, company name, telephone number, demographic information, buying information, other data and E-mail address) in discussion forums, chat rooms or other areas that are publicly accessible by others, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. Java World nor its parent company or any of its subsidiaries or affiliates are not responsible for any information that you provide in the above areas. 
 
-In the event that part of or all of the ownership of Java World or any of its products are sold or transferred, all lists and data which contains personally identifying information and data including for example user name, address, company name, telephone number, demographic information, buying information, other data and e-mail address, will be transferred to the new owner. 
+In the event that the ownership of Java World or any of its products are sold or transferred, all lists and data which contains personally identifying information and data including for example user name, address, company name, telephone number, demographic information, buying information, other data and e-mail address, will be transferred to the new owner. 
 
-**PRINT SUBSCRIBER AND AUTO REGISTER PRIVACY POLICY**
+**PRINT SUBSCRIBER AND ?AUTO REGISTER? PRIVACY POLICY**
 
-Java World collects personally identifying information and data about individuals their company and the company?s demographics (personally identifying information and data) (i) when you provide information to Java World, such as when you register or sign up for any of our products such as publications, subscriptions, RSS Feeds, content delivery via SMS text or other technologies, webcasts, White Papers, online seminars, conferences emails, contests, newsletters, memberships and other communications with Java World. (ii) when you register or sign up on the Java World site or when you register for any other IDG Publishing Network products individually or through auto register, your information will be known to Java World and (iii) from time to time we may add other information that we collect from third party sources to enhance the information that you provided to Java World. 
+Java World collects personally identifying information and data about individuals their company and the company?s demographics (?personally identifying information and data?) (i) when you provide information to Java World, such as when you register or sign up for any of our products such as publications, subscriptions, RSS Feeds, web casts, White Papers, online seminars, conferences emails, contests, newsletters, memberships and other communications with Java World. (ii) when you register or sign up on the Java World site or when you register for any other IDG Publishing Network products individually or through ?auto register?, your information will be known to Java World and (iii) from time to time we may add other information that we collect from third party sources to enhance the information that you provided to Java World. 
 
 Below is the current policy regarding the usage of personally identifying information and data collected by Java World. We reevaluate this policy on an ongoing basis based on feedback from readers. Java World reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifying information and data that is different from that stated at the time of collection, we will notify you by posting a notice on our website. 
 
@@ -74,7 +72,7 @@ Subscribers and applicants for Java World Print subscriptions are asked to compl
 
 Postal addresses, and other personally identifying information and data will be used to promote Java World and IDG products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the names are rented and/or licensed for use and the users are required to target their offers carefully. 
 
-Residential telephone numbers of Java World print subscribers are used by Java World to collect re-qualification data and may be used by Java World, IDG, its subsidiaries and affiliates, their advertisers for promotional purposes. Java World may rent and/or license for use telephone numbers to selected outside firms for promotional purposes. Offers for which the telephone numbers are rented and/or licensed for use require users to target their offers carefully. 
+Telephone numbers of Java World print subscribers are used by Java World to collect re-qualification data and may be used by Java World, IDG, its subsidiaries and affiliates, their advertisers for promotional purposes. Java World may rent and/or license for use telephone numbers to selected outside firms for promotional purposes. Offers for which the telephone numbers are rented and/or licensed for use require users to target their offers carefully. 
 
 Fax numbers of Java World print subscribers are used by Java World to collect re-qualification data and may be used for surveys for Java World, IDG and its affiliates and third parties. Except as set forth in this policy, no fax numbers are rented and/or licensed to outside firms. 
 
@@ -86,8 +84,8 @@ Print Subscribers or applicants who do not want their names used in any of the a
 
 Java World Circulation Department   
 Network World, Inc.   
-118 Turnpike Road   
-Southborough, MA 01772 
+492 Old Connecticut Path   
+Framingham, MA 01701 
 
 **IDG PUBLISHING NETWORK ONLINE REGISTRATION PRIVACY POLICY**
 
@@ -105,4 +103,4 @@ The IDG Publishing Network is intended for individuals over the age of 13 years 
 If you have any questions or comments regarding the IDG Publishing Network or its use of information please send email to [IDGNetwork@idg.com](mailto:IDGNetwork@idg.com) or write to us at IDG Publishing Network, 3 Post Office Square, Boston, MA 02109. 
     
     
-     Last updated: Sept. 14, 2007 
+     Last updated: August 4, 2008 
