@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myindospace.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608221935id_/http%3A//www.myindospace.com/content/index.php%3Fid%3D50) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myindospace.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218171907id_/http%3A//www.myindospace.com/content/index.php%3Fid%3D50) for the most accurate reproduction.*
 
 # MyIndoSpace.com - Privacy policy
 
