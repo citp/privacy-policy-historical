@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiashines.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612034131id_/http%3A//www.indiashines.com/index.php%3Fop%3Dcontent%26type%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiashines.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218035142id_/http%3A//www.indiashines.com/privacy.php) for the most accurate reproduction.*
 
-# Indiashines - Best times of Mumbai, Maharashtra Friends, Jobs, Classifieds, Videos, Photos, Music
+# Privacy Policy @ Indiashines
 
 The Indiashines Privacy Policy describes how we treat personal information when you use Indiashines 's products and services, including information provided when you use Indiashines. In addition, the following describes our additional privacy practices that are specific to Indiashines. 
 
