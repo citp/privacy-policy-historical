@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fita.org privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217204715id_/http%3A//fita.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fita.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218221705id_/http%3A//fita.org/privacy.html) for the most accurate reproduction.*
 
 # Export Import, International Business and Trade Leads – FITA World Trade Leads
 
