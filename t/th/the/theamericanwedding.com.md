@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theamericanwedding.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509063725id_/http%3A//www.theamericanwedding.com/customerService/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theamericanwedding.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218131954id_/http%3A//www.theamericanwedding.com/customerService/privacy.asp) for the most accurate reproduction.*
 
 # Your Privacy Is Important | Customer Service | The American Wedding
 
@@ -133,7 +133,7 @@ We reserve the right to make changes to this policy at our sole discretion. If w
   **Contact Information  
 **If users have any questions or suggestions regarding our privacy policy, please contact us at: 
 
-Email: [webmaster@americanstationery.com](mailto:webmaster@americanstationery.com)  
+[www.tawhelp.com](http://www.tawhelp.com/)  
 Phone: 1-765-473-4438   
 Fax: 1-765-472-8510   
 Postal Address: The American Stationery Company, Inc.  
