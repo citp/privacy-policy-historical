@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnhi.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602113849id_/http%3A//www.cnhi.com/homepage/resources_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnhi.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218184218id_/http%3A//www.cnhi.com/homepage/resources_privacypolicy) for the most accurate reproduction.*
 
 # Community Newspaper Holdings, Inc. - Community Newspaper Holdings, Inc. (CNHI) - Homepage
 
@@ -46,9 +46,10 @@ Company makes some public chat rooms, forums, message boards, and news groups av
 
 We have policies and procedures in place to protect the privacy and confidentiality of your Personal Information that we collect and maintain. All Personal Information is stored on our secured servers, behind a firewall at a data center with access to data strictly controlled. We use Secure Sockets Layering (SSL) to encrypt your personal credit information, including your credit card number, before it travels over the Internet. Any unauthorized use of the Site may result in criminal and/or civil prosecution.
 
-Company Profile
+News from CNHI
 
-Community Newspaper Holdings Inc. is one of the leading publishers of local news and information in the United States. CNHI's newspapers, television stations, Web sites and niche publications serve more than 150 communities throughout the United States. Founded in 1997, CNHI is a privately owned company based in Birmingham, Ala.
+  
+
 
 Click Here To View Our Local Papers  
   
@@ -56,7 +57,7 @@ Click Here To View Our Local Papers
 | 
 
 ALABAMA   
-•   [The News-Courier, Athens, AL](http://enewscourier.com/)   
+•   [The News Courier, Athens, AL](http://enewscourier.com/)   
 •   [The Cullman Times, Cullman, AL](http://cullmantimes.com/)  
 
 
@@ -291,7 +292,6 @@ TEXAS
 •   [Greenville Herald Banner, Greenville, TX ](http://heraldbanner.com/)   
 •   [The Huntsville Item, Huntsville, TX ](http://itemonline.com/)   
 •   [Jacksonville Daily Progress, Jacksonville, TX ](http://jacksonvilleprogress.com/)   
-•   [The Mexia Daily News, Mexia, TX ](http://mexiadailynews.com/)   
 •   [Mineral Wells Index, Mineral Wells, TX ](http://mineralwellsindex.com/)   
 •   [The Orange Leader, Orange, TX ](http://orangeleader.com/)   
 •   [Palestine Herald-Press, Palestine, TX ](http://palestineherald.com/)   
@@ -305,7 +305,6 @@ Non-daily publications:
 •   [Royse City Herald Banner, Greenville, TX](http://www.roysecityheraldbanner.com/)   
 •   [Commerce Journal, Commerce, TX](http://commercejournal.com/)   
 •   [Cedar Creek Pilot, Gun Barrel City, TX](http://cedarcreekpilot.com/)   
-•   The Hubbard City News, Mexia, TX  
 
 
 WEST VIRGINIA   
