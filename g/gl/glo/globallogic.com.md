@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globallogic.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230163055id_/http%3A//www.globallogic.com/privacy_statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globallogic.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218095921id_/http%3A//www.globallogic.com/privacy_statement.shtml) for the most accurate reproduction.*
 
-# GlobalLogic
+# Offshore Product Developers, Outsourced Software Development, Outsourced Product Development
 
 GlobalLogic, Inc. is sensitive to privacy issues on the Internet. Although generally a User is under no obligation to provide personal information while accessing the GlobalLogic Site, there are some circumstances under which a User may be asked to provide such information. 
 
