@@ -1,46 +1,65 @@
-> *The following text is extracted and transformed from the musicweek.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530073304id_/http%3A//www.musicweek.com/hybrid.asp%3FtypeCode%3D8%26pubCode%3D1%26navcode%3D54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicweek.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218134405id_/http%3A//www.musicweek.com/hybrid.asp%3FtypeCode%3D8%26pubCode%3D1%26navcode%3D54) for the most accurate reproduction.*
 
 # Music Week
 
-**Overview**
+Untitled Document
 
-Thank you for using www.musicweek.com **(the "Website")**. We are committed to protecting your right to privacy as a consumer of our online services. Please read the following Privacy Policy to understand how we use and protect the information that you provide to us. By using and continuing to use this Website, you consent to the collection, use and transfer of your information under the terms of this Privacy Policy. If you do not agree to this Privacy Policy, please do not provide your personal details to us. We may need to update this Privacy Policy from time to time and when we do so we will place a notice on the Website to indicate this has happened. We recommend that you regularly check this page to ensure that you have read the most recent version. ** __**
+#### CUSTOMER PRIVACY POLICY
 
-In this Privacy Policy, " **CMPi** " means CMP Information Limited (registered company number: 00370721). The address from which we provide these online services is: CMP Information, Ludgate House, 245 Blackfriars Road, London SE1 9UY.  
-The information you provide to us will be held on [CMPi](http://www.cmpi.biz/) computers that are based in the UK. [CMPi](http://www.cmpi.biz/) processes personal data in accordance with the Data Protection Act 1998. This Privacy Policy only relates to the Website service and does not extend to your use of the Internet outside of the Website. 
+This Customer Privacy Policy governs the collection and use of personal information relating to potential and existing customers of CMP Information Limited by the company and its international affiliates (collectively “CMP”).
 
-**Data Collection**
+CMP is committed to abiding by this Customer Privacy Policy, as well as the requirements of applicable laws, in the operation of its business. Please read this policy carefully as it explains the kinds of personal information we collect about you and how it is handled.
 
-**What data do we collect?**  
-The data we collect within the Website is necessary to process the online card payment correctly and to notify internal CMPi systems of the transaction. This includes your name, contact details, card payment details and delivery details. This is your personal information. Further data is also collected to confirm the amount of VAT (tax) that needs to be paid on each product/service within the transaction. Personal information does not include aggregated information that does not allow you to be identified. ****
+By your continued use of our services (including our web sites), you consent to the collection and use of your personal information for the purposes set out in this Customer Privacy Policy.
 
-We will collect, use or disclose your personal information if permitted by law or required to do so by law or where we believe such action is necessary in order to protect or defend us or other third parties against error, negligence, breach of contract, theft fraud and other illegal or harmful activity, to comply with our audit and security requirements, and to audit compliance with our corporate policies, procedures, legal and contractual obligations.Your personal card data will not be stored alongside your other personal data and will only be accessed for the purpose of processing refunds in a secure and controlled basis.
+#### COLLECTION AND USE OF PERSONAL INFORMATION
 
-**What do we do with it?**  
-The personal information you provide within the Website is used as follows: 
+We will generally let you know at the time of collection how we intend to use your personal information. Usually, we collect personal information about you which we require to respond to your inquires for payment processing and for the provision of goods and services to you. We also process your personal information where we are required to do so by law, and for the exercise or defence of legal claims. 
 
-  * to provide to third parties in order for you to receive communications from them but only if you have consented during the registration process
-  * to improve the Website and personalise your experience when you visit the Website 
-  * to provide you with access to all parts of our Website and to supply the goods or services you have requested 
-  * to bill you and to contact you where necessary concerning your orders 
-  * to tell you about changes in our services or about features we think you may find interesting 
+From time to time, we may contact you for research purposes, or to tell you about our special offers and other services in accordance with your contact preferences. Where appropriate, we will obtain your consent to do so. Personal information collected from you may include your name, payment processing information, postal address, email address, landline or mobile telephone number, delivery details as well as other non sensitive personal information. If you use our web sites, we may also collect information about you or your computer when you browse to allow you to use the services available.
 
+#### WEBSITE USAGE & COOKIES
 
+If you are using our web sites, we will use your personal information to help you to log on to your account and into restricted areas of our web sites and to permit future use of the web sites. We may use your IP address to help diagnose problems with our server, or to administer our web sites. We may conduct analyses of user traffic to measure the use of our sites and to improve the content of our web sites and our services. These analyses will be performed through the use of IP addresses and cookies. We may also use cookies to enable the signing in process after you have registered with us and to provide you with more tailored information when you return to our web sites. 
 
-In the event of a sale, merger, consolidation, change in control, transfer of substantial assets, reorganisation or liquidation, we may transfer, sell, or assign to third parties information concerning your relationship with us, including without limitation, personally identifiable information that you provide and other information concerning your relationship with us. In addition, to maintain customer service standards and to assist staff training, we may record and monitor incoming calls. Unless required to do so by law, we will not otherwise share, sell or distribute any of the information you provide to us without your consent.
+A cookie is a piece of information that is stored on your computer’s hard drive by your web browser. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you reject the use of cookies please note that the efficient operation of the web site that you are using may be affected. Most of the advertisements that you see on the web sites are generated by third parties who may use cookies to track viewing of their advertisements and for other purposes specified in their own privacy policies. 
 
-**Collection of information by third parties**
+We have no access to or control over these cookies (although we may use statistical information provided to us – not containing personal information – arising from these third party cookies to improve the targeting of advertisements to you and other users of the web sites). You can obtain further information about third party privacy policies or disable their cookies by visiting their web sites.
 
-We employ third party companies to process payments on our behalf. Card payments within the Website are processed through software provided by [Verifone](http://www.verifone.com/worldwide/emea/uk/index.html) and your payment is authorised through a division of [Lloyds TSB](http://www.lloydstsbcardnet.com/) called Lloyds Cardnet. Both have access to the personal data they require to perform their functions but may not use personal data for any other purposes and they must process personal data in accordance with the Data Protection Act 1998. Verifone will not collect or store your personal data. Lloyds Cardnet will store your personal data and may transfer to, process and hold your personal data in countries within the European Economic Area and outside it in order to perform their duties. Both offer a secure environment for online card payments.
+#### THIRD PARTY ADVERTISEMENTS
 
-In addition, only your card details are shared with any third parties as is necessary to process your transaction. Examples of such third parties are financial institutions necessary to authorise and clear your card payment. ****Your information is not shared with any other third parties. We do not sell, trade or rent your personal information to others. We may choose to do so in the future with trustworthy third parties but will not do so without your consent.
+We will only disclose personal information about you internally and to third parties for processing purposes associated with payment processing, the supply of goods and services, for web site administration, or elsewhere when you have consented to such disclosures, or where such disclosures are required or permitted by law. These third parties we contractually bound only to use personal information to perform the services that we hire them to provide. Where you have agreed that we may do so, we may lease or rent your personal information to selected third parties for their postal or telephone marketing use.
 
-**Our commitment to security**
+#### TRANSFER OF DATA
 
-We have taken all appropriate action to safeguard and prevent unauthorised access to personal data, to maintain data security and to ensure that the information we collect online is used only in accordance with the Data Protection Act 1998 and for the purpose(s) outlined above. ****However, due to the open communication nature of the Internet, we cannot guarantee that communications between you and us, or information stored on our servers, will be free from unauthorised access by third parties.
+Third party data processors, advertisers, exhibitors and other such business relationships outside of the EEA, are required to take adequate technical and organisational safeguards to protect personal information. We also take measures to ensure that personal information transferred by us outside of the EEA is adequately protected.
 
-**Cookies**
+#### VIRTUAL PRODUCTS
 
-A cookie is a small text file written to your hard drive that contains information about you. Cookies do not contain any personal information about users. Once you close your browser, the cookie simply terminates. We use cookies so that we can personalise your experience of the Website. If you set up your browser to reject the cookie, you may still use the Website but your user experience may be affected. Some of our business partners use cookies on our site (for example, advertisers). We have no access to or control over these cookies. __
+In the case of your use of one of our virtual products e.g. Building Careers Show, we will pass the information you provided to us to 3rd parties. Generally this will be via a process whereby you, as the user, choose to give your digital business card to a 3rd party eg: virtual exhibition. However, in some instances our virtual shows are sponsored and, in such cases the data you provided to us will be given to the sponsor. Generally we will let you know at the time of collection if a show is sponsored.
 
-For further information or to edit your personal information please contact: [infomusicweek@musicweek.com](mailto:infomusicweek@musicweek.com). 
+#### SECURITY OF PERSONAL INFORMATION
+
+We use administrative, technical, and physical measures to safeguard personal information against loss, theft and unauthorised uses, access or modifications. Certain areas of our web sites may be password protected. If you are a user of our web sites and have a password, you can help to preserve your privacy by ensuring that you do not share your password with anyone else.
+
+Payments made via our web sites are processed in a secure environment using software provided by Verifone or other third party providers.
+
+We take steps to regularly validate the personal information we hold to ensure that the information is accurate and, where necessary, up to date. Information that is no longer required for any valid business purpose, and that we are not required to keep pursuant to any applicable law, will be routinely destroyed by secure means.
+
+#### MAKING AUTOMATED DECISIONS
+
+We do not ordinarily use personal information for the purposes of automated decision making. However, may do so in order to fulfil compelling obligations imposed by law, in which case we will inform of any such processing and provide you with an opportunity to object.
+
+#### ACCESS TO PERSONAL INFORMATION
+
+You may renew and update personal information that we hold about you by contacting us as detailed below.
+
+#### CONTACTING US
+
+If you have any questions about this privacy policy, you can email at  \n [dpa@cmpinformation.com](mailto:dpa@cmpinformation.com) or write to the Data Protection Co-ordinator, Audience & Data Group, CMP Information Ltd, FREEPOST LON 15637, Tonbridge TN9 1BR. Freephone 0800 279 0357. Please note that calls to this number may be recorded and monitored to maintain customer service standards and to assist staff training.
+
+#### CHANGES TO PRIVACY POLICY
+
+We reserve the right to add to or amend this privacy policy at our sole discretion, without prior notice to you. Please review our privacy policy on a regular basis to make sure you have read the latest version and you understand what we do with your personal information. Your continued use of our services or our web sites following the posting of changes to these terms means that you consent to those changes.
+
+**This version of the privacy policy is effective as of 2nd April 2008**
