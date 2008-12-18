@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the coolchaser.us privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509161507id_/http%3A//www.coolchaser.us/l/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolchaser.us privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218104715id_/http%3A//www.coolchaser.us/l/privacy_policy) for the most accurate reproduction.*
 
 # My Coolchaser: MySpace Layouts, Cool Layouts for MySpace, MySpace Backgrounds, Yuwie Layouts, Hi5 Layouts, My Year Book Layouts
 
 ## What This Privacy Policy Covers
 
-  * This privacy policy pertains to the use of all services related to NextSmallThings Corporation (in formation), including the coolchaser web site at [www.coolchaser.com](https://web.archive.org/), clipclip web site at [www.clipclip.org](http://www.clipclip.org/) and url website at [www.url.com](http://www.url.com/).
+  * This privacy policy pertains to the use of all services related to NextSmallThings (a California Corporation), including the coolchaser web site at [www.coolchaser.com](https://web.archive.org/), clipclip web site at [www.clipclip.org](http://www.clipclip.org/) and url website at [www.url.com](http://www.url.com/).
   * This privacy policy covers how CoolChaser treats personal information that CoolChaser collects and receives. Personal information is information about you that is personally identifiable including but not limited to your name, address, email address, or phone number.
   * Children under 13 are not permitted to use any CoolChaser services, and so this privacy policy makes no provision for children's use of the site.
 
