@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patni.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608084143id_/http%3A//www.patni.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patni.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218093648id_/http%3A//www.patni.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,3 +28,6 @@ Some pages on this site use "cookies," which are small files that the site place
 Our site may contain links to other sites such as our partners and affiliates. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by other sites. 
 
 Patni reserves the right to change, modify, or update this statement at any time without notice.
+
+**Ability to OPT-OUT  
+**Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://ondemand.indextools.com/optout,OptOut.vm?domain=stats.indextools.com).
