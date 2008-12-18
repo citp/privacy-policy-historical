@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the designpublic.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501130500id_/http%3A//www.designpublic.com/content/legal/privacy-policy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designpublic.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218020554id_/http%3A//www.designpublic.com/content/legal/privacy-policy-security) for the most accurate reproduction.*
 
 # Design Public » Privacy Policy & Security
 
-We are committed to protecting the privacy of our customers and to providing a secure and safe shopping experience. If you have any questions at all about our policies, please [contact us](https://web.archive.org/web/20080501130500id_/http%3A//www.designpublic.com/content/legal/index.php?mod=contact).
+We are committed to protecting the privacy of our customers and to providing a secure and safe shopping experience. If you have any questions at all about our policies, please [contact us](https://web.archive.org/web/20081218020554id_/http%3A//www.designpublic.com/content/legal/index.php?mod=contact).
 
 ## What information we collect and why
 
