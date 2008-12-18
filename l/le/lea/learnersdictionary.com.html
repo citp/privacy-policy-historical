@@ -1,202 +1,322 @@
-<!--The following is the downloaded HTML source of the learnersdictionary.com privacy policy that was archived on 2008-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080615234600id_/http%3A//www.learnersdictionary.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the learnersdictionary.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218032040id_/http%3A//learnersdictionary.com/info/privacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-<title>Merriam-Webster's LearnersDictionary.com</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="keywords" lang="en" content="ESL, EFL, English language learners, English as a second language">
-<meta name="Description" content="Merriam-Webster's language site for adult and teenage non-English speakers features Merriam-Webster's Learner's Word of the Day and interactive language tools with audio.">
-<link href="/learners.css" rel="stylesheet" type="text/css">
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-</head>
-
-<body>
-
-<div id="banner">
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-    <td width="465"><a href="/index.html"><img src="/images/hdr_left_mw_logo.gif" width="465" height="100" alt="Merriam-Webster's LearnersDictionary.com" border="0"></a></td>
-    <td>&nbsp;</td>
-    <td width="290" align="right"><a href="/index.html"><img src="/images/hdr_right_worldimage.gif" width="290" height="100" alt="Connecting the World" border="0"></a></td>
-</tr>
-</tbody></table>
-</div>
-
-<div id="page">
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td valign="top" bgcolor="#FFC307" width="150">
-
-	<div id="sidebar_nav">
-	<div id="nav">
-		<div class="navitem"><a href="/index.html">Home Page</a></div>
-		<div class="navitem"><a href="/wod.htm">Learner's<br>Word of the Day</a></div>
-		<div class="navitem"><a href="/pron.htm">Perfect Pronunciation</a></div>
-		<div class="navitem"><a href="/langhelp.htm">Language Help</a></div>
-		<div class="navitem"><a href="/titles.htm">Books for Learners</a></div>
-		<div class="navitem"><a href="/sites.htm">Merriam-Webster<br>Web Sites</a></div>
-		<div class="navitem"><a href="/contact.htm">Contact Us</a></div>
-		<div class="navitem"><a href="/help.htm">Site Help</a></div>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+		<title>Merriam-Webster's Learner's Dictionary</title>
+		<link rel="stylesheet" type="text/css" href="/skins/default/styles/learners.css">		
+		<link rel="stylesheet" type="text/css" href="/skins/default/styles/ref.css">
+		<link rel="stylesheet" type="text/css" href="/skins/default/styles/flashcard.css">
+		<script type="text/javascript" src="/skins/default/scripts/drag.js"></script>
+		<script type="text/javascript" src="/skins/default/scripts/flashcard.js"></script>
+		<script type="text/javascript" src="/skins/default/scripts/ajax.js"></script>		
+		<script type="text/javascript" src="/skins/default/scripts/learners.js"></script>
+		<script type="text/javascript" src="/skins/default/scripts/mydictionary.js"></script>
+		<script type="text/javascript" src="/logged_in.php?output=javascript"></script>
+	</head>
+	<body onload="initPage();" id="app_info_privacy">
+		<div id="template">
+			<div id="header">
+				<div class="welcome">
+					<div class="welcome_actions">
+						<a href="/signup.php"><img src="/images/menu_bar/button_join.jpg" alt="Join"></a>
+						<a href="/loginout.php" onclick="SignInDialogGadget.show(); return false;"><img src="/logged_in.php?output=image" alt="Sign In/Out"></a>
+					</div>
+					<div class="greeting">Access features beyond dictionary search! <a href="/signup.php">Sign up is FREE!</a></div>
+				</div>
+				<a href="/"><img src="/images/img_logo.jpg" alt="Logo"></a>
+			</div>
+			<form id="search_bar" action="/learnersdev/" method="post">
+				<div class="bar">
+					<div class="inputs">
+						<input id="search_term" name="va" type="text" autocomplete="off">							
+						<input type="image" src="/images/search_bar/button_search.gif" style="vertical-align: middle;">					
+						<input id="search_ref" name="search_ref" type="hidden" value="learners">
+					</div>
+					<ol>
+						<li><a href="/lwod.php"><img src="/images/menu_bar/button_learn.jpg" alt="Learn"></a></li>
+						<li><a href="/practice/index.htm"><img src="/images/menu_bar/button_practice.jpg" alt="Practice"></a></li>
+						<li><a href="/blog.php"><img src="/images/menu_bar/button_chat.jpg" alt="Blog"></a></li>
+						<li><a href="/shop/index.htm"><img src="/images/menu_bar/button_shop.jpg" alt="Shop"></a></li>
+						<li><a href="/help/sitehelp.htm"><img src="/images/menu_bar/button_help.jpg" alt="Help"></a></li>
+					</ol>
+				</div>							
+				<ol id="search_bar_tabs" class="tabs tab_learners">
+					<li class="tab_learners"><a href="#" onclick="return false;"><img src="/images/search_bar/link_learners.gif" alt="Learners"></a></li>
+					<li class="tab_mydict"><a href="#" onclick="return false;"><img src="/images/search_bar/link_mydict.gif" alt="My Dictionary"></a></li>					
+					<li class="tab_search_history"><a href="#" onclick="return false;"><img src="/images/search_bar/link_search_history.gif" alt="Search History"></a></li>			
+					<li class="tab_words3k"><a href="#" onclick="return false;"><img src="/images/search_bar/link_words3k.gif" alt="3000 Words"></a></li>
+					<li class="manage_all"><a href="/term_view.php" onclick="return assertLogin(this.href);"><img src="/images/search_bar/link_manage_all.gif" alt="Manage All"></a></li>
+				</ol>
+				<div id="auto_complete"></div>						
+			</form>								  			
+			<div id="content" class="pane page_info_privacy">			
+				<table class="ld_bordered_pane" border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr class="ld_bordered_pane">						
+						<td class="content_col">					
+											
+<style type="text/css">
+	@import url("/skins/default/styles/structure.css");
+</style>
+<div class="left_panel">
+	<div class="pane_header">
+		<h1><span class="help">Help</span></h1>
 	</div>
-	<a href="/pron.htm"><img src="/images/btn_pron_exercises.gif" width="150" height="30" alt=""></a>
-	</div>
+	<script type="text/javascript" src="http://www.learnersdictionary.com//promos/learners_promo.js"></script>
+
+<div id="ldContainer">
+  
+<div id="ldContent"> 
+    <h2>Privacy Policy</h2>
+    <p>Merriam-Webster is committed to respecting the privacy of visitors to
+    its Web sites. The guidelines below explain some of the steps we have
+    taken to protect the privacy of visitors to Merriam-Webster's LearnersDictionary.com and
+    its features.</p>
+
+    <p><strong>Privacy and Personal Information</strong></p>
+
+    <p>Merriam-Webster protects the identity of visitors to Merriam-Webster's LearnersDictionary.com 
+    by limiting the collection of personal information. For certain
+    promotions and to access certain features, such as to receive a Word of
+    the Day subscription, we may request a voluntary submission of
+    information such as name, e-mail address, city, state, and age.</p>
+
+    <p>Merriam-Webster does not knowingly collect or solicit personally
+    identifying information from or about children under 13, except as
+    permitted by law. If we discover we have received any information from
+    a child under 13 in violation of this policy, we will delete that
+    information immediately. If you believe Merriam-Webster has any
+    information from or about anyone under 13, please e-mail us at the
+    Comments and Suggestions address listed on our 
+      <a href="contact.htm">Contact Us</a> page.</p>
+
+    <p>All personally identifying information collected through
+    Merriam-Webster's LearnersDictionary.com is used by Merriam-Webster and its staff to
+    process and manage subscriptions, track site usage patterns and
+    statistics, or to deliver services through the site; such information
+    may also be used by the company for market research or for prize or
+    information-request fulfillment unless otherwise indicated. Such
+    information will not be posted or published by us, and, except as
+    specified below in this privacy policy regarding anonymous aggregated
+    data, or to provide services to you on behalf of Merriam-Webster's LearnersDictionary.com, 
+    it will not be provided to third-party providers without
+    consent.</p>
+
+    <p>If you choose to provide personally identifying information to us, you may receive the following types of e-mails from us:</p>
+
+    <ul>
+        <li>E-mails related to subscription-maintenance activities.</li>
+        <li>Periodic e-mail newsletters highlighting new features, content, and usage tips for Merriam-Webster's LearnersDictionary.com.</li>
+        <li>Periodic special offers for additional Merriam-Webster and Encyclopædia Britannica (Merriam-Webster's parent company) products and services.</li>
+        <li>Periodic special offers from Merriam-Webster approved partners if you "opt-in" or give us your permission to send them.</li>
+    </ul>
+
+    <p>When you provide personally identifying information to us, you can let
+    us know that you do not wish to receive special Merriam-Webster or
+    partner offers. Each offer will also have information available to
+    allow you to "opt out" if you wish to receive no further offers.</p>
+    
+    <p>Anonymous aggregated data may be provided to other companies we do
+    business with for statistical or market research purposes. For example,
+    we may report to advertisers that a certain percentage of our site's
+    users are adults between the ages of 25 and 35.</p>
+    
+    <p>This site, Merriam-Webster's LearnersDictionary.com, may use the services of an
+    advertising agency for the serving and/or targeting of ads, promotions
+    and other marketing messages. To do this, the agency may collect
+    anonymous data through the use of cookies or by other means.</p>
+
+    <p>Merriam-Webster's LearnersDictionary.com may also use other third-party providers to
+    facilitate the delivery of the services described above, and these
+    third-party providers may be supplied with or have access to personally
+    identifying information for the sole purpose of providing these
+    services to you on behalf of Merriam-Webster's LearnersDictionary.com.</p>
+    
+    <p>Merriam-Webster may also disclose personally identifying information in
+    special legal circumstances. For instance, such information may be used
+    where it is necessary to protect our copyright or intellectual property
+    rights, or if the law requires us to do so.</p>
+    
+    <p><strong>Opting Out of Third-Party Ad Servers</strong></p>
+    
+    <p>If you want to prevent a third-party ad server from sending and reading
+    cookies on your computer, you must visit the ad network's Web site and
+    opt out.</p>
+    
+    <p><strong>Security</strong></p>
+
+    <p>Any personally identifying information collected through this site is
+    stored on limited-access servers. We will maintain safeguards to
+    protect these servers and the personal information they store.</p>
+
+	<p><strong>Surveys</strong></p>
+
+	<p>We may occasionally conduct on-line surveys. All surveys are voluntary and you may decline to participate.</p>
+
+	<p><strong>Cookies</strong></p>
+
+    <p>We use cookie technology and software logs to monitor the use of
+    Merriam-Webster's LearnersDictionary.com and to gather non-personal information about
+    visitors to the site. None of the information we gather in this way can
+    be used to identify any individual who visits the site. These
+    monitoring systems allow us to track general information about our
+    visitors, such as the type of browsers (for example, Netscape or
+    Internet Explorer), the operating systems (for instance, Windows or
+    Macintosh), or the Internet providers (for instance, AOL) they use.
+    This information is used for statistical and market research purposes
+    to tailor content to usage patterns and to provide services requested
+    by our customers.</p>
+
+	<p><strong>Copyright</strong></p>
+
+    <p>All of the content on Merriam-Webster's LearnersDictionary.com is copyrighted by
+    Merriam-Webster, Incorporated, 47 Federal Street, P.O. Box 281,
+    Springfield, MA 01102, and it cannot be redistributed or used for
+    commercial purposes. More detailed information about Merriam-Webster's
+    copyrights and trademarks is available on our <a href="/info/copyright.htm">Copyright Notice</a> page.</p>
+    
+    <p><strong>Contacting Us</strong></p>
+    
+    <p>If you have questions about Merriam-Webster or its products, visit our <a href="/info/contact.htm">Contact Us</a> page to 
+    find e-mail addresses and other contact information for the appropriate department.</p>
+    
+    <p><strong>Acceptance of Privacy Policy Terms and Conditions</strong></p> 
+    
+    <p>By using this site, you signify your agreement to the terms and conditions of
+    this Merriam-Webster's LearnersDictionary.com Privacy Policy. If you do not agree to
+    these terms, please do not use this site. We reserve the right, at our
+    sole discretion, to change, modify, add, or remove portions of this
+    policy at any time. Please check this page periodically for any
+    modifications. Your continued use of Merriam-Webster's LearnersDictionary.com following
+    the posting of any changes to these terms shall mean that you have
+    accepted those changes.</p>
+
+    <p>If you have any questions or concerns, please <a href="/info/contact.htm">Contact Us</a>.</p> 
+</div><!--ldContent-->
+    
+</div><!--ldContainer-->
 	
-		</td>
-		<td valign="top">
-
-	<div id="content">	
-
-<!-- begin page content -->
-	
-	<h2>Privacy Policy</h2>
-	
-	<p>Merriam-Webster is committed to respecting the privacy of visitors to
-its Web sites. The guidelines below explain some of the steps we have
-taken to protect the privacy of visitors to Merriam-Webster's LearnersDictionary.com and
-its features.</p>
-
-<p><b>Privacy and Personal Information </b><br>
-Merriam-Webster protects the identity of visitors to Merriam-Webster's LearnersDictionary.com by limiting the collection of personal information. For certain
-promotions and to access certain features, such as to receive a Word of
-the Day subscription, we may request a voluntary submission of
-information such as name, e-mail address, city, state, and age.</p>
-
-<p>Merriam-Webster does not knowingly collect or solicit personally
-identifying information from or about children under 13, except as
-permitted by law. If we discover we have received any information from
-a child under 13 in violation of this policy, we will delete that
-information immediately. If you believe Merriam-Webster has any
-information from or about anyone under 13, please e-mail us at the
-Comments and Suggestions address listed on our <a href="/contact.htm">Contact Us</a> page.</p>
-
-<p>All personally identifying information collected through
-Merriam-Webster's LearnersDictionary.com is used by Merriam-Webster and its staff to
-process and manage subscriptions, track site usage patterns and
-statistics, or to deliver services through the site; such information
-may also be used by the company for market research or for prize or
-information-request fulfillment unless otherwise indicated. Such
-information will not be posted or published by us, and, except as
-specified below in this privacy policy regarding anonymous aggregated
-data, or to provide services to you on behalf of Merriam-Webster's LearnersDictionary.com, it will not be provided to third-party providers without
-consent.</p>
-
-<p>
-If you choose to provide personally identifying information to us, you may receive the following types of e-mails from us:
-</p><ul>
-<li>E-mails related to subscription-maintenance activities. 
-</li><li>Periodic e-mail newsletters highlighting new features, content, and usage tips for Merriam-Webster's LearnersDictionary.com. 
-</li><li>Periodic special offers for additional Merriam-Webster and
-Encyclopædia Britannica (Merriam-Webster's parent company) products and
-services. </li><li>Periodic special offers from Merriam-Webster approved partners if you
-"opt-in" or give us your permission to send them.</li></ul>
-When you provide personally identifying information to us, you can let
-us know that you do not wish to receive special Merriam-Webster or
-partner offers. Each offer will also have information available to
-allow you to "opt out" if you wish to receive no further offers.<p></p>
-
-<p>Anonymous aggregated data may be provided to other companies we do
-business with for statistical or market research purposes. For example,
-we may report to advertisers that a certain percentage of our site's
-users are adults between the ages of 25 and 35.</p>
-
-<p>This site, Merriam-Webster's LearnersDictionary.com, may use the services of an
-advertising agency for the serving and/or targeting of ads, promotions
-and other marketing messages. To do this, the agency may collect
-anonymous data through the use of cookies or by other means.</p>
-
-<p>Merriam-Webster's LearnersDictionary.com may also use other third-party providers to
-facilitate the delivery of the services described above, and these
-third-party providers may be supplied with or have access to personally
-identifying information for the sole purpose of providing these
-services to you on behalf of Merriam-Webster's LearnersDictionary.com.</p>
-
-<p>Merriam-Webster may also disclose personally identifying information in
-special legal circumstances. For instance, such information may be used
-where it is necessary to protect our copyright or intellectual property
-rights, or if the law requires us to do so.</p>
-
-<p>
-<b>Opting Out of Third-Party Ad Servers</b><br>
-If you want to prevent a third-party ad server from sending and reading
-cookies on your computer, you must visit the ad network's Web site and
-opt out.</p>
-
-<p>Currently, we have a relationship with the following third-party ad network (click to visit their Web site):</p><div style="margin-left: 5%;">
-24/7 Real Media, Inc.<br>
-<a href="http://www.247realmedia.com/privacy.html" target="_blank">http://www.247realmedia.com/privacy.html</a></div>
-<br>
-<b>Security</b><br>
-Any personally identifying information collected through this site is
-stored on limited-access servers. We will maintain safeguards to
-protect these servers and the personal information they store.<p></p>
-
-<p><b>Surveys</b><br>
-
-We may occasionally conduct on-line surveys. All surveys are voluntary and you may decline to participate. </p>
-
-<p><b>Cookies </b><br>
-We use cookie technology and software logs to monitor the use of
-Merriam-Webster's LearnersDictionary.com and to gather non-personal information about
-visitors to the site. None of the information we gather in this way can
-be used to identify any individual who visits the site. These
-monitoring systems allow us to track general information about our
-visitors, such as the type of browsers (for example, Netscape or
-Internet Explorer), the operating systems (for instance, Windows or
-Macintosh), or the Internet providers (for instance, AOL) they use.
-This information is used for statistical and market research purposes
-to tailor content to usage patterns and to provide services requested
-by our customers.</p>
-
-<p><b>Copyright </b><br>
-All of the content on Merriam-Webster's LearnersDictionary.com is copyrighted by
-Merriam-Webster, Incorporated, 47 Federal Street, P.O. Box 281,
-Springfield, MA 01102, and it cannot be redistributed or used for
-commercial purposes. More detailed information about Merriam-Webster's
-copyrights and trademarks is available on our <a href="/copyright.htm">Copyright Notice</a> page.</p>
-
-<p><b>Contacting Us</b><br>
-If you have questions about Merriam-Webster or its products, visit our <a href="/contact.htm">Contact Us</a> page to find e-mail addresses and other contact information for the appropriate department. 
-</p>
-
-<p><b>Acceptance of Privacy Policy Terms and Conditions</b><br> By using
-this site, you signify your agreement to the terms and conditions of
-this Merriam-Webster's LearnersDictionary.com Privacy Policy. If you do not agree to
-these terms, please do not use this site. We reserve the right, at our
-sole discretion, to change, modify, add, or remove portions of this
-policy at any time. Please check this page periodically for any
-modifications. Your continued use of Merriam-Webster's LearnersDictionary.com following
-the posting of any changes to these terms shall mean that you have
-accepted those changes.</p>
-
-<p>If you have any questions or concerns, please send an e-mail to our 
-<a href="/contact.htm">suggestion box</a>.</p>
-<!-- end page content -->
-	   	
-	</div>
-	 	
-		</td>
-	</tr>
-</tbody></table>
-
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-    	<td>
-
-<div id="nav_bottom">
-		<strong><a href="/contact.htm">Contact Us</a> &nbsp;&nbsp; <a href="/privacy.htm">Privacy Policy</a> &nbsp;&nbsp; <a href="/help.htm">Site Help</a></strong><br>
-		Visit:&nbsp;&nbsp;<a href="http://www.merriam-webster.com">Merriam-Webster Online</a> / <a href="http://www.merriam-webstercollegiate.com">Merriam-WebsterCollegiate.com</a> / <a href="http://unabridged.merriam-webster.com">Merriam-WebsterUnabridged.com</a> / <a href="http://www.wordcentral.com">WordCentral.com</a> / <a href="http://www.word.com">Word.com</a>
-
-		<script language="JavaScript1.2" type="text/javascript" src="/copy.js"></script>
 </div>
-		
-		</td>
-	</tr>
-</tbody></table>	
+						</td>
+						<td class="creative_col">
+							<div id="creatives">
+								<div class="creative">
+<script type="text/javascript" language="JavaScript">
+<!-- Hide from old browsers
+// Modify to reflect site specifics
+adserver = "http://eb.adbureau.net"; 
+target = "/site=LEARNERS/area=GEN/aamsz=300x250/pos=rec1"; 
 
-</div>
+// Cache-busting and pageid values 
+random = Math.round(Math.random() * 10000000000); 
+if (!pageNum) var pageNum = Math.round(Math.random() * 10000000000); 
+document.write('<IFRAME SRC="'+adserver+'/hserver/acc_random='+ random + target + '/pageid=' + pageNum + '"'); 
+document.write(' NORESIZE SCROLLING=NO HSPACE=0 VSPACE=0 FRAMEBORDER=0 MARGINHEIGHT=0 MARGINWIDTH=0 WIDTH=300 HEIGHT=250 allowTransparency="true">'); document.write('<SCR'); 
+document.write('IPT SRC="' + adserver + '/jnserver/acc_random=' + random + target + '/pageid=' + pageNum + '">'); 
+document.write('</SCR'); 
+document.write('IPT>'); 
+document.write('</IFRAME>'); 
+// End Hide --> 
+</script><iframe src="http://eb.adbureau.net/hserver/acc_random=6640757280/site=LEARNERS/area=GEN/aamsz=300x250/pos=rec1/pageid=6229655706" noresize="" scrolling="NO" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="300" height="250" allowtransparency="true"><SCRIPT SRC="http://eb.adbureau.net/jnserver/acc_random=6640757280/site=LEARNERS/area=GEN/aamsz=300x250/pos=rec1/pageid=6229655706"></SCRIPT></iframe>
+<noscript>
+  <A HREF="http://eb.adbureau.net/adclick/site=LEARNERS/area=GEN/aamsz=300x250/pos=rec/pageid=1">
+  <IMG SRC="http://eb.adbureau.net/nserver/site=LEARNERS/area=GEN/aamsz=300x250/pos=rec/pageid=1"></A>
+</noscript>								
+								</div>
+								<script type="text/javascript">
+								//<![CDATA[
 
+									// Create the flashcard.
+									var flashcard = new Flashcard("flashcard", "XXXXXXXXXXXXXXXXXXXXX");
 
+									// Now output it.
+									flashcard.output();
 
+								//]>
+								</script><form id="flashcard" action="#init" method="post"><div class="container"><h1>Flash Cards — Drag and Drop</h1><div class="body"><div id="flashcard_pane" class="pane manage_view"><ol class="tabs"><li class="manage_tab"><a id="flashcard_manage_tab" href="#"><img src="/skins/default/images/flashcard/tab.gif" alt="Manage"></a></li><li class="practice_tab"><a id="flashcard_practice_tab" href="#"><img src="/skins/default/images/flashcard/tab.gif" alt="Practice"></a></li></ol><div class="view_manage"><dl id="flashcard_select_list_view" style="display: none;"><dt>&nbsp;<label for="flashcard_add_to">Add To:</label></dt><dd><div>&nbsp;<select id="flashcard_add_to" value="-1" onchange="document.getElementById('flashcard').loadFlashCards(this.value);"></select></div><div>&nbsp;<a href="#" class="icon" onclick="document.getElementById('flashcard').showCreateListView(); return false;"><img src="/skins/default/images/flashcard/icon_add_item.gif" alt="Create" title="Create a new list"></a><a href="#" class="icon" onclick="document.getElementById('flashcard').deleteCurrList(); return false;"><img src="/skins/default/images/flashcard/icon_remove_item.gif" alt="Delete" title="Delete this list"></a><a href="#" class="icon" onclick="document.getElementById('flashcard').loadFlashcardLists(); return false;"><img src="/skins/default/images/flashcard/icon_refresh.gif" alt="Reload" title="Reload"></a></div></dd></dl><dl id="flashcard_create_list_view" style="display: block;"><dt>&nbsp;<label for="flashcard_create_list_title">Title:</label></dt><dd><div>&nbsp;<input id="flashcard_create_list_title" name="" type="input" autocomplete="off" class="new_title"></div><div>&nbsp;<input type="image" src="/skins/default/images/flashcard/icon_next.gif" title="Create list"><input id="flashcard_create_list_cancel_button" type="image" src="/skins/default/images/flashcard/icon_cancel.gif" title="Cancel"></div></dd></dl><ol id="flashcard_list"></ol></div><div id="flashcard_practice_view" class="view_practice"></div></div><h2>Instructions</h2><ol><li>1.) Register and sign in to LearnersDictionary.com.</li><li>2.) Give your new set of Flash Cards a title or select a set you have already created.  Click the arrow button to save the title of a new set of Flash Cards.</li><li>3.) Drag words from your MyDictionary list and drop them here to add them to your Flash Cards.</li><li>4.) Click "Practice" to begin using your Flash Cards.</li></ol></div></div></form>
+								<div id="learn_about">
+									<em>Learn about the book...</em>
+									<h2>Merriam-Webster's</h2>
+									<h3>Advanced Learner's Dictionary</h3>
+									<p>It's here! The first learner's dictionary from America's language experts is the perfect resource for teachers and students of English as a second language, with over 100,000 words and phrases, loads of drawings and illustrations, and the most example sentences of any learner's dictionary. It also includes a free eBook download. Learn more <a href="http://www.merriam-webster.com/cgi-bin/book.pl?learners.htm&amp;1">here</a>.</p>
+								</div>
+								<div class="browse">
+									<h2>Browse the Learner's Dictionary</h2>
+									<ol>
+										<ol>
+											<li><a href="/browse/learners/a.htm">A</a></li>
+											<li><a href="/browse/learners/b.htm">B</a></li>
+											<li><a href="/browse/learners/c.htm">C</a></li>
+											<li><a href="/browse/learners/d.htm">D</a></li>
+											<li><a href="/browse/learners/e.htm">E</a></li>
+											<li><a href="/browse/learners/f.htm">F</a></li>
+											<li><a href="/browse/learners/g.htm">G</a></li>
+											<li><a href="/browse/learners/h.htm">H</a></li>
+											<li><a href="/browse/learners/i.htm">I</a></li>
+											<li><a href="/browse/learners/j.htm">J</a></li>
+											<li><a href="/browse/learners/k.htm">K</a></li>
+											<li><a href="/browse/learners/l.htm">L</a></li>
+											<li><a href="/browse/learners/m.htm">M</a></li>
+											<li><a href="/browse/learners/n.htm">N</a></li>
+											<li><a href="/browse/learners/o.htm">O</a></li>
+											<li><a href="/browse/learners/p.htm">P</a></li>
+											<li><a href="/browse/learners/q.htm">Q</a></li>
+											<li><a href="/browse/learners/r.htm">R</a></li>
+											<li><a href="/browse/learners/s.htm">S</a></li>
+											<li><a href="/browse/learners/t.htm">T</a></li>
+											<li><a href="/browse/learners/u.htm">U</a></li>
+											<li><a href="/browse/learners/v.htm">V</a></li>
+											<li><a href="/browse/learners/w.htm">W</a></li>
+											<li><a href="/browse/learners/x.htm">X</a></li>
+											<li><a href="/browse/learners/y.htm">Y</a></li>
+											<li><a href="/browse/learners/z.htm">Z</a></li>
+									</ol>
+								</ol></div>
+							</div>		
+						</td>
+					</tr>
+					<tr class="ld_bordered_pane">
+						<td colspan="2">
+							<div class="pane_footer">
+								<div class="border_left">
+									<ol>
+										<li><a href="http://www.merriam-webster.com/">Merriam-Webster OnLine</a></li>
+										<li><a href="http://www.wordcentral.com/">Word Central</a></li>
+										<li><a href="http://www.myspellit.com/">Spell It!</a></li>
+										<li><a href="http://www.merriam-websterunabridged.com/">Merriam-Webster Unabridged</a></li>
+										<li><a href="http://www.word.com/">Word.com</a></li>
+									</ol>								
+									<div class="bottom"><span>&nbsp;</span></div>
+								</div>
+							</div>
+						</td>
+					</tr>
+				</tbody></table>		
+			</div>
+			<div id="footer"></div>
+		</div>
+		<div id="links">
+			<div>
+				<ol>
+					<li><a href="/info/privacy.htm">Privacy Policy</a></li>
+					<li><a href="/help/sitehelp.htm">Site Help</a></li>
+					<li><a href="/info/copyright.htm">©
+					
+					<script type="text/javascript">
+						document.write(new Date().getFullYear());
+					</script>2020
+							
+					Merriam-Webster, Incorporated</a></li>
+				</ol>
+			</div>
+		</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-296234-5");
+pageTracker._trackPageview();
+</script>			
+	
 
-</body></html>
+<iframe src="/flashcard.php?action=list.all&amp;transid=0&amp;appid=flashcard&amp;token=XXXXXXXXXXXXXXXXXXXXX" style="border: 0px; display: block; height: 0px; margin: 0px; padding: 0px; width: 0px;"></iframe></body></html>
