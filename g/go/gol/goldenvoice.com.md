@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenvoice.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613044327id_/http%3A//www.goldenvoice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenvoice.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218105608id_/http%3A//goldenvoice.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: Goldenvoice
 
@@ -145,4 +145,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 Attn: Privacy Policy AEG Live  
 1100 South Flower St. Suite 3200 Los Angeles, CA 90015 
 
-[You may also contact us via our contact form.](http://goldenvoice.com/contact/)
+[You may also contact us via our contact form.](http://www.goldenvoice.com/contact/)
