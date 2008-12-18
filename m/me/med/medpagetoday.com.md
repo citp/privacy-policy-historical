@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medpagetoday.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531082117id_/http%3A//www.medpagetoday.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medpagetoday.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218162600id_/http%3A//www.medpagetoday.com/About/Privacy) for the most accurate reproduction.*
 
 # MedPage Today: Breaking Medical News + CME
 
@@ -68,7 +68,7 @@ Employees are required to sign a confidentiality agreement. All employees and co
 We also provide your personally identifiable information in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity. We also can release your personally identifiable information in connection with an investigation of fraud, intellectual property infringement, piracy or other unlawful activity.
 
 **Privacy Questions or Concerns about Our Web Site**  
-For privacy questions or concerns about the MedPage Today Web site, please contact [privacy@medpagetoday.com](mailto:privacy@medpagetoday.com). For questions regarding Continuing Medical Education, please contact the University of Pennsylvania School of Medicine Office of CME via e-mail at [penncme@mail.med.upenn.edu](https://web.archive.org/web/20080531082117id_/http://www.medpagetoday.com/About/Privacy/penncme@mail.med.upenn.edu) or by regular mail at:   
+For privacy questions or concerns about the MedPage Today Web site, please contact [privacy@medpagetoday.com](mailto:privacy@medpagetoday.com). For questions regarding Continuing Medical Education, please contact the University of Pennsylvania School of Medicine Office of CME via e-mail at [penncme@mail.med.upenn.edu](mailto:penncme@mail.med.upenn.edu) or by regular mail at:   
 Office of Continuing Medical Education   
 University of Pennsylvania School of Medicine   
 333 Blockley Hall   
