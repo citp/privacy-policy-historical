@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northshorelij.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629034824id_/http%3A//www.northshorelij.com/body.cfm%3Fid%3D102) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northshorelij.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218051417id_/http%3A//www.northshorelij.com/body.cfm%3Fid%3D102) for the most accurate reproduction.*
 
 # Privacy Policy
 
