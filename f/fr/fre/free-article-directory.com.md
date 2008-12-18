@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-article-directory.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610050053id_/http%3A//free-article-directory.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-article-directory.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218055005id_/http%3A//www.free-article-directory.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # privacy Free-Article-Directory.Com
 
