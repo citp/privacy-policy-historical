@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the zooplus.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506073544id_/http%3A//www.zooplus.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooplus.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218115647id_/http%3A//www.zooplus.com/content/privacy) for the most accurate reproduction.*
 
 # Pet Supplies, Pet Food, and Pet Products on Sale Now at zooplus.com
 
-  
+## Privacy & Security
+
 Dear customers, 
 
 We value your trust and thus make every effort to make your shopping experience safe and enjoyable. zooplus employs highest security standards at all times to ensure the protection of all your personal data from unauthorised access or use. Your order, personal data as well as your credit card details are protected by technical encryption and an additional authorisation process - both when transferring data and saving data on our servers. 
@@ -33,4 +34,6 @@ During your shopping session at zooplus we transfer a permanent cookie onto your
 Cookies can be activated via the help function of most Web browsers. For detailed information please click here. 
 
 **The zooplus guarantee**  
-All zooplus products are covered by a 2-year warranty. 
+All zooplus products are covered by a 2-year warranty.
+
+[ ](https://web.archive.org/myzooplus "my zooplus")
