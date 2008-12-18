@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the travelsignposts.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608083511id_/http%3A//www.travelsignposts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsignposts.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218200659id_/http%3A//www.travelsignposts.com/privacy.php) for the most accurate reproduction.*
 
 # Travel Signposts
 
 ##### 
 
-[ ](http://www.travelsignposts.com/Destination/v/ChristmasinEurope/Innsbruck/IMG_0976.jpg.html)
+[ ](http://www.travelsignposts.com/Destination/v/Croatia/Zadar/DSC_1621.jpg.html)
 
-Innsbruck, Austria 
+Zadar - Croatia 
 
 | 
 
@@ -17,12 +17,9 @@ Our Privacy Statement  |
 
 ##### 
 
-[ ](http://www.travelsignposts.com/Destination/v/Italy/Rome/RomeToday/IMG264italy.jpg.html)
+[ ](http://www.travelsignposts.com/Destination/v/Turkey/Istanbul/Topkapi/DSC_0069.jpg.html)
 
-Rome  
-[Rome - Italy] 
-
-[](http://www.travelsignpostsphoto.com/ebook/index.php)
+Topkapi Palace, Istanbul, Turkey 
 
 | 
 
