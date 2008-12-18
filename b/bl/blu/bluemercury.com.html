@@ -1,0 +1,542 @@
+<!--The following is the downloaded HTML source of the bluemercury.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218083454id_/http%3A//www.bluemercury.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.-->
+
+<html><head><script language="JavaScript">
+// Disable edit cell tab.
+   parent.editCell.className    = "tab-button-dis";
+
+function saveForm() {
+    location.replace("/admin/displayeditcell.do?action=save");
+}
+
+   function editCell(ruleID, itemID, slotID, itemType) {
+        parent.editDisplay.className     = "tab-button";
+        if(typeof(parent.displayRules)!="undefined") {
+            parent.displayRules.className = "tab-button";
+        }
+        parent.editCell.className    = "tab-button-on";
+
+        location.replace("/admin/displayeditcell.do?action=init&itemID=" + itemID + "&ruleID=" + ruleID + "&slotID="+ slotID + "&itemType=" + itemType );
+//        parent.parent.frames('toolbarbottom').altButtons.style.display= "inline";
+    }
+      function clickIt()
+      {
+          if(window.event.srcElement.id != "good") {
+              window.event.returnValue = false;
+           }
+      }
+</script>
+
+<link rel="stylesheet" href="/admin/include/styles/adminbrowser.css" type="text/css">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <title>
+      
+        Privacy and Security
+        -  
+      
+        Customer Service
+        
+      
+      - bluemercury
+    </title>
+  
+
+
+
+    <meta name="description" content="Privacy and Security">
+  
+
+
+
+    <meta name="keywords" content=" ">
+  
+
+        <link rel="stylesheet" type="text/css" href="/p2p/personalization/Personalization.css" title="style">
+        <link rel="stylesheet" type="text/css" href="/includes/stylesheet.css" title="style">
+        <script src="/includes/common.js"></script>
+        <script src="/includes/flyopen.js"></script>
+        <script src="/includes/rollover.js"></script>
+        <script src="/includes/cleartext.js"></script>
+        
+    </head>
+<body class="main">
+
+<table width="768" border="0" cellpadding="0" cellspacing="0" class="mainLayoutTable">
+
+  <tbody><tr>
+    <td colspan="3" class="navheaderbg">
+      <div><!--TopNav Start-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  function checkKeyword(keyword, defaultText) {
+    var minKeywordLength = 0;
+    var maxKeywordLength = 0;
+    minKeywordLength += 3;
+    maxKeywordLength += 30;
+    var errMsg = '';
+    //alert("minKeywordLength " + minKeywordLength);
+    var searchTerms = '';
+    searchTerms = keyword.value;
+    //alert("searchTerms.length " + searchTerms.length);
+
+    var noSearchTerm = 'Please enter a keyword or item number';
+    var shortSearchTerm = 'Your keyword or item number must be at least 3 characters long';
+
+    if (searchTerms == defaultText) {
+        alert(noSearchTerm);
+        return false;
+    }
+    if (searchTerms == '') {
+        alert(noSearchTerm);
+        return false;
+    } else if ( searchTerms.length < minKeywordLength ) {
+        alert(shortSearchTerm);
+        return false;
+    } else {
+      return true;
+    }
+  }
+</script>
+
+<table border="0" width="768" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td class="clearbg"><a href="/home.do"><img src="/images/en_US/global/globalnav/logo01.gif" border="0" alt="bluemercury"></a></td>
+
+	<td valign="top" align="right" class="clearbg"><table border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr valign="bottom">
+			<td align="right"><table border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr><td colspan="2"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="22" border="0"></td></tr>					   
+		   <tr>
+		    <td><a href="/category/customer+service/store+locations.do?nav=%2Fcategory%2Fid%2F200%2F202" onmouseover="rollover('top_storelocater','/images/en_US/global/globalnav/storelocator_on.gif');" onmouseout="rollover('top_storelocater','/images/en_US/global/globalnav/storelocator_off.gif');"><img src="/images/en_US/global/globalnav/storelocator_off.gif" border="0" alt="Store Locator" name="top_storelocater"></a></td>
+
+		   <td><a href="/basket.do?nav=%2Fcategory%2Fid%2F200%2F202" onmouseover="rollover('top_shopbasket','/images/en_US/global/globalnav/shopbasket_on.gif');" onmouseout="rollover('top_shopbasket','/images/en_US/global/globalnav/shopbasket_off.gif');"><img src="/images/en_US/global/globalnav/shopbasket_off.gif" border="0" alt="Shopping Basket" name="top_shopbasket"></a></td>
+	</tr>
+    <tr>
+		    <td><a href="/category/customer+service.do" onmouseover="rollover('top_customerserv','/images/en_US/global/globalnav/customerserv_on.gif');" onmouseout="rollover('top_customerserv','/images/en_US/global/globalnav/customerserv_off.gif');"><img src="/images/en_US/global/globalnav/customerserv_off.gif" border="0" alt="Customer Service" name="top_customerserv"></a></td>
+		    
+		   <td><a href="/account.do?method=start" onmouseover="rollover('top_myaccount','/images/en_US/global/globalnav/myaccount_on.gif');" onmouseout="rollover('top_myaccount','/images/en_US/global/globalnav/myaccount_off.gif');"><img src="/images/en_US/global/globalnav/myaccount_off.gif" border="0" alt="My Account" name="top_myaccount"></a></td>
+		   </tr>
+
+		   <tr><td colspan="2"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="0" height="8" border="0"></td></tr>
+	</tbody></table></td>
+
+		</tr><tr>
+			<td><table border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td><a href="/catalogQuickShop.do" onmouseover="rollover('top_cqs','/images/en_US/global/globalnav/catquickshop_on.gif');" onmouseout="rollover('top_cqs','/images/en_US/global/globalnav/catquickshop_off.gif');"><img src="/images/en_US/global/globalnav/catquickshop_off.gif" border="0" alt="Catalog Quick Shop" name="top_cqs"></a></td>
+				<td><a href="/ancillary/catalogrequest.do" onmouseover="rollover('top_catrequest','/images/en_US/global/globalnav/catrequest_on.gif');" onmouseout="rollover('top_catrequest','/images/en_US/global/globalnav/catrequest_off.gif');"><img src="/images/en_US/global/globalnav/catrequest_off.gif" border="0" alt="Catalog Request" name="top_catrequest"></a></td>
+				<td><a href="/ancillary/emailsignup.do" onmouseover="rollover('top_emailsignup','/images/en_US/global/globalnav/emailsignup_on.gif');" onmouseout="rollover('top_emailsignup','/images/en_US/global/globalnav/emailsignup_off.gif');"><img src="/images/en_US/global/globalnav/emailsignup_off.gif" border="0" alt="Email Signup" name="top_emailsignup"></a></td>
+			</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table></td>
+	<td class="clearbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
+	<td align="right" class="clearbg"><table border="0" cellpadding="0" cellspacing="0">
+	<form name="searchForm" action="http://www.bluemercury.com/p2p/basicSearch.do" onsubmit="return checkKeyword(this.keyword, 'Keyword or Item#');"></form>
+	<tbody><tr>
+			<td align="right"><input type="text" name="keyword" value="Keyword or Item#" size="10" maxlength="30" class="navsearchbox" onfocus="if(this.value=='Keyword or Item#')this.value='';"></td>
+			<td><input type="Image" name="Search" src="/images/en_US/global/globalgraphics/search_btn.gif" border="0" alt="Search"></td>
+        </tr>
+        
+            <tr>
+                <td align="right" colspan="3"><a href="/p2p/advancedSearch.do?init=true" onmouseover="rollover('top_advancedsearch','/images/en_US/global/globalnav/advancedsearch_on.gif');" onmouseout="rollover('top_advancedsearch','/images/en_US/global/globalnav/advancedsearch_off.gif');"><img src="/images/en_US/global/globalnav/advancedsearch_off.gif" border="0" alt="Advanced Search" name="top_advancedsearch"></a></td>
+            </tr>
+        
+		
+	</tbody></table></td>
+	<td class="clearbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
+</tr>
+</tbody></table>
+<!--TopNav End-->
+</div>
+      <div><!--CatNav Start-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  var aCatImgs = new Array();
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav01_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav01_on.gif";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav02_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav02_on.gif";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav03_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav03_on.gif";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav04_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav04_on.gif";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav05_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav05_on.gif";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav06_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav06_on.gif";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav07_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav07_on.gif";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav08_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav08_on.gif";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav09_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav09_on.gif";
+  
+  preload(aCatImgs);
+</script>
+
+
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+
+
+    
+        
+            
+                    <td><a href="/category/makeup.do" onmouseover="rollover('category:100199','/images/en_US/global/globalnav/globalnav01_on.gif');" onmouseout="rollover('category:100199','/images/en_US/global/globalnav/globalnav01_off.gif');"><img border="0" name="category:100199" src="/images/en_US/global/globalnav/globalnav01_off.gif" alt="Makeup"></a></td>
+                
+        
+            
+                    <td><a href="/category/skincare.do" onmouseover="rollover('category:100241','/images/en_US/global/globalnav/globalnav02_on.gif');" onmouseout="rollover('category:100241','/images/en_US/global/globalnav/globalnav02_off.gif');"><img border="0" name="category:100241" src="/images/en_US/global/globalnav/globalnav02_off.gif" alt="Skincare"></a></td>
+                
+        
+            
+                    <td><a href="/category/category3.do" onmouseover="rollover('category:6','/images/en_US/global/globalnav/globalnav03_on.gif');" onmouseout="rollover('category:6','/images/en_US/global/globalnav/globalnav03_off.gif');"><img border="0" name="category:6" src="/images/en_US/global/globalnav/globalnav03_off.gif" alt="Body Care"></a></td>
+                
+        
+            
+                    <td><a href="/category/category4.do" onmouseover="rollover('category:7','/images/en_US/global/globalnav/globalnav04_on.gif');" onmouseout="rollover('category:7','/images/en_US/global/globalnav/globalnav04_off.gif');"><img border="0" name="category:7" src="/images/en_US/global/globalnav/globalnav04_off.gif" alt="Hair Care"></a></td>
+                
+        
+            
+                    <td><a href="/category/category5.do" onmouseover="rollover('category:8','/images/en_US/global/globalnav/globalnav05_on.gif');" onmouseout="rollover('category:8','/images/en_US/global/globalnav/globalnav05_off.gif');"><img border="0" name="category:8" src="/images/en_US/global/globalnav/globalnav05_off.gif" alt="Fragrances &amp; Candles"></a></td>
+                
+        
+            
+                    <td><a href="/category/men.do" onmouseover="rollover('category:9','/images/en_US/global/globalnav/globalnav06_on.gif');" onmouseout="rollover('category:9','/images/en_US/global/globalnav/globalnav06_off.gif');"><img border="0" name="category:9" src="/images/en_US/global/globalnav/globalnav06_off.gif" alt="Men"></a></td>
+                
+        
+            
+                    <td><a href="/category/gifts.do" onmouseover="rollover('category:21','/images/en_US/global/globalnav/globalnav07_on.gif');" onmouseout="rollover('category:21','/images/en_US/global/globalnav/globalnav07_off.gif');"><img border="0" name="category:21" src="/images/en_US/global/globalnav/globalnav07_off.gif" alt="Gifts"></a></td>
+                
+        
+            
+                    <td><a href="/category/spa+services.do" onmouseover="rollover('category:22','/images/en_US/global/globalnav/globalnav08_on.gif');" onmouseout="rollover('category:22','/images/en_US/global/globalnav/globalnav08_off.gif');"><img border="0" name="category:22" src="/images/en_US/global/globalnav/globalnav08_off.gif" alt="Spa Services"></a></td>
+                
+        
+            
+                    <td><a href="/category/brands.do" onmouseover="rollover('category:23','/images/en_US/global/globalnav/globalnav09_on.gif');" onmouseout="rollover('category:23','/images/en_US/global/globalnav/globalnav09_off.gif');"><img border="0" name="category:23" src="/images/en_US/global/globalnav/globalnav09_off.gif" alt="Brands"></a></td>
+                
+        
+      
+
+  </tr>
+</tbody></table>
+<!--CatNav End-->
+</div>
+    </td>
+  </tr>
+
+
+  <tr valign="top">
+    
+    <td width="0" class="contentbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="0" height="1" border="0"></td>
+    <td width="768" class="contentbg">
+      <div><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="768" height="20" border="0"></div>
+      <div>
+        
+        
+
+
+
+
+        <table border="0" cellpadding="0" cellspacing="0" width="768">
+          <tbody><tr>
+            <td>
+              <table border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                  <td><a href="/category/customer+service.do"><img src="/images/en_US/local/headers/main/customerservice_mhd.gif" border="0" alt="Customer Service"></a></td>
+                  <td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  function changeCat(frm, thisbox) {
+     var optiontxt = thisbox.options[thisbox.selectedIndex].value;
+     if (optiontxt == "0") return;
+     else location.href = optiontxt
+  }
+</script>
+
+
+<select name="subCatdd" onchange="changeCat(this.form,this)">
+    
+    
+            <option value="/category/customer+service/store+locations.do">Store Locations</option>
+        
+    
+    
+            <option value="/category/customer+service/about+us.do">About Us</option>
+        
+    
+    
+            <option value="/category/customer+service/privacy+and+security.do?sortby=ourPicks" selected="">Privacy and Security</option>
+        
+    
+    
+            <option value="/category/customer+service/returns+and+exchanges.do">Returns and Exchanges</option>
+        
+    
+    
+            <option value="/category/customer+service/ordering+and+payment.do">Ordering and Payment</option>
+        
+    
+    
+            <option value="/category/customer+service/shipping+information.do">Shipping Information</option>
+        
+    
+    
+            <option value="/category/customer+service/careers+%40+bluemercury.do">Careers @ bluemercury</option>
+        
+    
+    
+            <option value="/category/customer+service/contact+us.do">Contact Us</option>
+        
+    
+</select>
+
+</td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+          <tr>
+            <td class="headerrule"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+          </tr>
+          <tr>
+            <td><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="15" border="0"></td>
+          </tr>
+          <tr valign="top">
+            <td>
+              <div class="default"><style type="text/css"><!--.style1 {	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 12px;	color: #666666;	line-height: 16px;	font-weight: 100;}a:link {	color: #6699FF;	text-decoration: none;}a:visited {	text-decoration: none;}a:hover {	text-decoration: underline;}a:active {	text-decoration: none;}.style2 {	font-size: 12px;	color: #333333;	line-height: 16px;	font-family: Verdana, Arial, Helvetica, sans-serif;	font-weight: bolder;	text-transform: none;}.style3 {	color: #666666;	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 12px;	font-weight: bold;	list-style-type: square;	list-style-position: outside;}--></style><span class="style1">When you provide us with information through bluemercury.com (the "Site"), we respect your privacy. It is important for you to understand what information we collect about you during your visit and what we do with that information. Your visit to the Site is subject to this Privacy Policy and our Terms and Conditions. Please note that this Privacy Policy governs only information provided to bluemercury Online and communications from bluemercury Online. It does not govern any other information or communications that may reference bluemercury, e.g., communications from retailers or brick and mortar stores. </span><ol>  <li class="style2">Collection of Personally Identifiable Information by bluemercury Online<br>    <span class="style1">We do not collect personally identifiable information about you, except when you provide it to us. For example, if you decide to complete a user registration form, complete an online survey or make a purchase, you may be asked to provide certain information such as your contact information (name, email address, mailing address, and telephone number), age group, gender and product and/or cosmetic concerns, and the brands and products you use. If you decide to place an order, we will also need to know your delivery and billing address, credit card number and expiration date. To protect your personal information, users registering at the Site must also enter a user name/email address and password. If you would prefer that we not collect any personally identifiable information from you, please do not provide us with any such information.<br>    <br>When you submit your personally identifiable information on the Site, you are giving your consent to the collection, use and disclosure of your personal information as set forth in this Privacy Policy.</span><br>  <br>  </li>  <li class="style2">Use of Personally Identifiable Information by bluemercury Online<br>    <br>    <ul>      <li class="style3">Opt-In For Email – <span class="style1">If you opt-in during the Site registration process or at other times when you submit personally identifiable information, the information you provide may be used by bluemercury Online to create and deliver to you emails such as our newsletters, surveys or other email messages containing product and event information, cosmetics tips or promotions ("Opt-In Emails"). If you prefer not to receive such Opt-In Emails, please do not opt-in to receive these emails. If you do opt-in and later decide that you would no longer like to receive these emails, <strong>see Section 13 (Choice/Opt-Out) below. </strong>You may receive the benefit of hearing from bluemercury Online via mail or phone even if you have not opted-in to receive email.</span><br>          <br>      </li>      <li class="style3">Email communications to Serve You – <span class="style1">If you have elected to provide us with your contact information, e.g., by registering at the Site, emailing our Customer Service department or placing an order, we may provide you with service related announcements concerning the Site or contact you regarding your customer service requests or your order. For example, all users who purchase one or more items from bluemercury.com and provide their email address will receive a confirmation email confirming their purchase. We may also contact you to respond to product questions or concerns that you may express. These types of communications are necessary to serve you, respond to your concerns and to provide the high level of customer service that bluemercury Online offers its customers.<br>      </span></li>      <br>      <br>    </ul>  </li> <li class="style2">No Disclosure of Personally Identifiable Information for Third Party Marketing Without Your Consent <br>    <span class="style1">We will not provide your personally identifiable information to third parties for their use in marketing their products or services to you without your consent.</span><br>    <br>    </li>     <li class="style2">Disclosure of Personally Identifiable Information<br><br>  </li>  <ul>    <li class="style3">Fraud Protection and Compliance with Law<span class="style1"> – We may disclose any information, including personally identifiable information, we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process or governmental request. We may also exchange information, including personally identifiable information, with other companies and organizations for credit fraud protection and risk reduction.</span><br>      <br>    </li>    <li class="style3"><strong>Service Providers </strong><span class="style1">– We may retain other companies and individuals to perform functions consistent with our Privacy Policy on our behalf. Examples include customer support specialists, webhosting companies, fulfillment companies (e.g., companies that fill product orders or coordinate mailings), data analysis firms and email service providers. Such third parties may be provided with access to personally identifiable information needed to perform their functions, but may not use such information for any other purpose.</span><br>      <br>    </li>    <li class="style3"><strong>Special Events </strong><span class="style1">– If you elect to participate in any promotions, sweepstakes, surveys, questionnaires or other events during your visit to our Site, the rules or terms and conditions for those events may indicate that your personally identifiable information will be shared with third parties. By choosing to participate and submitting your personally identifiable information with respect to such events, you consent to disclosure of your personally identifiable information to such third parties. bluemercury Online is not responsible for and disclaims all liability for any use of the information you choose to provide to such third parties.</span><br>      <br>    </li>    <li class="style3"><strong>Business Transfers </strong>– <span class="style1">As we continue to develop our business, we might sell certain of our assets. In such transactions, user information, including personally identifiable information, generally is one of the transferred business assets, and by submitting your personal information on the Site you agree that your data may be transferred to such parties in these circumstances.</span><br>      <br>    </li>  </ul>  <li class="style2">Cookies and IP Addresses<br>    <span class="style1">A cookie is a piece of data that enables us to track and target your preferences. We may place a "cookie" on your computer's hard drive so we can recognize you as a return user and personalize your experience and your use of our Site. The cookie will be stored on your computer's hard drive until you remove it. We may also use temporary or "session" cookies to help you shop. These cookies will expire when you place an order. We may use flash cookies to personalize your experience. You can have your browser and/or plugs to your browser, such as flash, notify you of, or automatically reject, cookies. If you reject our cookies, you may still use the Site, but you may be limited in the use of some of the features. We may also use IP addresses to analyze trends, administer the Site, track traffic patterns, and gather demographic information for aggregate use, as well as in combination with your personally identifiable information for credit fraud protection and risk reduction. </span><br>    <br>    </li>  <li class="style2">Pixel Tags and Tracking Technology <br>    <span class="style1">When you visit this Site or view one of our emails, we may use pixel tags (also called "clear" gifs), tracking links and/or similar technology to note some of the pages you visit on our Site and personalize your experience. We may also use pixel tags to determine what types of email your browser supports. We may use the information collected through pixel tags, tracking links and similar technology in combination with your personally identifiable information. <br>    <br>  </span></li>  <li class="style2">Use of Aggregate Information<br>    <span class="style1">We may use the information you provide in aggregate (non-personally identifiable) form for internal business purposes, such as generating statistics and developing marketing plans. We may collect, store or accumulate certain non-personally identifiable information concerning your use of the Site, such as information regarding which of our pages are most popular. We may share or transfer non-personally identifiable information with or to our affiliates, licensees and partners.</span><br>    <br>    </li>  <li class="style2">Children under 13<br>    <span class="style1">If you are under 13 years of age, you may browse our Site. However, you may not provide personal information to us. For example, you cannot register or make a purchase. This Site is not designed for children and we do not knowingly collect personally identifiable information from any children under 13.</span><br>    <br>    </li>  <li class="style2">Links <br>    <span class="style1">The Site may contain links to or from other websites. Please be aware that we are not responsible for the privacy practices of other websites. This Privacy Policy applies only to the information we collect on the Site. We encourage you to read the privacy policies of other websites you link to from the Site or otherwise visit.</span><br>    <br>    </li>  <li class="style2">Security<br>    <span class="style1">We implement various security measures in accordance with industry standards to protect the security of your personal information both online and offline. If you have any questions about security at the Site, you can email us at <a href="mailto:team@bluemercury.com">team@bluemercury.com</a>. </span><br>    <br>    </li>  <li class="style2">Notification of Changes <br>  <span class="style1"> We may revise this Privacy Policy from time to time. If we decide to change our Privacy Policy, we will post the revised policy here. As we may make changes at any time without notifying you, we suggest that you periodically consult this Privacy Policy. Please note that our rights to use your personally identifiable information will be based on the privacy policy in effect at the time the information is used.</span><br>    <br>    </li>  <li class="style2">Updating Your Information <br>  <span class="style1">You have the ability to review, change and/or correct the personally identifiable information you provide us by emailing us at <a href="mailto:team@bluemercury.com">team@bluemercury.com</a>. If you are a registered user, you can also review, change or correct your personal information at any time by entering your account. You may request that we deactivate your account by emailing us at <a href="mailto:team@bluemercury.com">team@bluemercury.com</a>. </span><br>    <br>    </li>   <li class="style2">Choice/Opt-Out <br>   <span class="style1"> You may opt-out of receiving future Opt-In Emails from bluemercury Online when you register at the Site or otherwise provide your contact information to bluemercury Online. You may change your preferences at any time emailing us at <a href="mailto:team@bluemercury.com">team@bluemercury.com</a>. Please note that this opt-out only applies to bluemercury Online Opt-in Emails and does not apply to communications to serve you (described in Section 2(b) of this Privacy Policy) or to other communications which may reference b, e.g., from one of our retail stores.</span><br>    <br>    </li>  <li class="style2">Comments <br>  <span class="style1">We have taken great measures to ensure that your visit to the Site is an excellent one and that your privacy is constantly respected. If you have any questions, comments or concerns about the Site's privacy practices, please contact us by email at <a href="mailto:team@bluemercury.com">team@bluemercury.com</a>.</span></li></ol><p></p><p></p><p><span class="style1"> Copyright © 2008 bluemercury, Inc. All worldwide rights reserved.</span><br><span class="style1">This Privacy Policy was last updated 8/1/2008.</span></p></div>
+            </td>
+          </tr>
+        </tbody></table>
+    </div>
+      <div><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="768" height="15" border="0"></div>
+    </td>
+    <td width="0" class="contentbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="0" height="245" border="0"></td>
+  </tr>
+
+
+  <tr valign="bottom">
+    <td align="center" colspan="3" class="navfooterbg"><!--BottomNav Start-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="768" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td colspan="2" class="clearbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="768" height="5" border="0"></td>
+</tr>
+<tr>
+	<td class="clearbg"><table border="0" cellspacing="0" cellpadding="0">
+		<form id="emailSignUp" method="post" action="/ancillary/emailsignup.do"></form>
+		<tbody><tr>
+			<td><img src="/images/en_US/global/globalgraphics/emailsignup.gif" border="0" alt="Email Updates"></td>
+			<td><input name="emailAddress" type="text" value="Your Email Address" size="12" maxlength="100" class="navemailbox" onfocus="if(this.value=='Your Email Address')this.value='';" onfocusout="if(this.value=='')this.value='Your Email Address';"></td>
+			<td><input type="image" name="emailSubmit" src="/images/en_US/global/globalgraphics/emailsignup_btn.gif" border="0" alt="Submit"></td>
+		</tr>
+		
+	</tbody></table></td>
+	<td align="right" class="clearbg"><table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td class="footer" nowrap="" align="right"><a href="/category/customer+service/contact+us.do">Contact Us</a>
+      |
+      <a href="/category/customer+service/privacy+and+security.do">Privacy &amp; Security</a>
+      |
+      <a href="/category/customer+service/terms+of+use.do">Terms of Use</a>
+      |
+      
+      <a href="/ancillary/sitemap.do">Site Map</a>
+      |
+      
+      <a href="/wishlist/friendfind.do?initial=true">Find Wish List</a><br>
+			©2008 bluemercury</td>
+			<td><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="12" height="1" border="0"></td>
+		</tr>
+	</tbody></table></td>
+</tr>
+<tr>
+	<td colspan="2" class="clearbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="5" border="0"></td>
+</tr>
+</tbody></table>
+<!--BottomNav End-->
+</td>
+  </tr>
+</tbody></table>
+
+
+ 
+   
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- Google Analytics Reporting Support -->
+  <!-- Google Analytics More info available at http://www.google.com/analytics/index.html --> 
+  <script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-2217560-1";urchinTracker();</script>
+  <!-- End, Google Analytics Reporting Support -->
+
+
+
+      
+
+
+
+
+
+
+
+
+
+
+</body></html>
