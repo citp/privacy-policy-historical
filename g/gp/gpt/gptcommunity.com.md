@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gptcommunity.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612024200id_/http%3A//www.gptcommunity.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gptcommunity.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218055537id_/http%3A//www.gptcommunity.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
 # GPT Community - Manual Traffic Exchange
 
