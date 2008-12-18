@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uvrx.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526055933id_/http%3A//www.uvrx.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uvrx.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218114709id_/http%3A//www.uvrx.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.uvrx.com
 
@@ -9,7 +9,7 @@ The privacy of visitors to www.uvrx.com is important to us.
 At www.uvrx.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use/visit this site, and how we safeguard your information. We never sell your personal information to third parties.
 
 Log Files  
-As with most other websites, we collect and use the data contained in log files. The information in the log files includes your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), date/time stamp and screen resolution. This information helps us determine the best design/layout to use for maximum compatibility with our visitors.  
+As with most other websites, we collect and use the data contained in log files. The information in the log files includes your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer, [Google Chrome](http://www.google.com/chrome "Google Chrome"), Opera, Firefox etc), date/time stamp and screen resolution. This information helps us determine the best design/layout to use for maximum compatibility with our visitors.  
 IP addresses and other such information are not linked to any information that is personally identifiable.
 
 Cookies and Web Beacons  
