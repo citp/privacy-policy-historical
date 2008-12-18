@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prosper202.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506110126id_/http%3A//prosper202.com/apps/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosper202.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218051041id_/http%3A//prosper202.com/apps/about/privacy) for the most accurate reproduction.*
 
 # Prosper202 Self Hosted Apps
 
