@@ -1,77 +1,72 @@
-> *The following text is extracted and transformed from the exponential.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610210956id_/http%3A//www.exponential.com/who-we-are/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exponential.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218152844id_/http%3A//www.exponential.com/who-we-are/privacy-policy.jsp) for the most accurate reproduction.*
 
-# Exponential™
+# Exponential®
 
-Exponential®Privacy Policy 
+EXPONENTIAL INTERACTIVE, INC.  
+PRIVACY POLICY
 
-Exponential® Interactive, Inc. is committed to protecting your privacy. The following statement describes Exponential's® privacy policy as it relates to Exponential's services, including ad placements, advertising, marketing, and lead generation through the FullTango®, LeadGenuity™ and Tribal Fusion® brands and any other brands that Exponential® may use in the future. The purpose of this privacy policy is to inform you of the following:
+_Updated on June 26, 2008_
 
-    * What kind of information, including any personally identifiable information, is collected from you;
-    * Who collects the information;
-    * How the information is used;
-    * With whom the information may be shared;
-    * What choices are available to you regarding collection, use and distribution of the information; 
-    * The security procedures that are in place to protect the information; and how you can correct any inaccuracies in the information.  
+Exponential Interactive, Inc. (“Exponential”) is a technology-enabled media services company whose clients and customers include both online advertisers (“Advertisers”) and Internet content sites (“Publishers”). We deliver innovative products and services designed to:
 
+    * enable Advertisers to better reach their target audiences; and
+    * enable Publishers to support, grow and monetize their websites through the sale of advertisements. 
 
 
+
+Our product offerings and services currently include Tribal Fusion, FullTango, EchoTopic and LeadGenuity (together, referred to herein as our “Services”). For a full description of these Services please see our website at [www.exponential.com](http://www.exponential.com/).
+
+At Exponential we believe that safe, secure and respectful practices regarding the use of consumer information are fundamental to our business success and to the growth and vitality of the Internet as a whole. We are a member of the Network Advertising Initiative ("NAI") and we maintain compliance with the [NAI’s Self-Regulatory Principles](http://www.networkadvertising.org/managing/principles.asp).
+
+This Privacy Policy is intended to provide consumers with clear and complete information about the consumer data we collect in connection with our Services and the way that data is stored and used by our company, our Advertisers and our Publishers. For information about our privacy practices as they relate to our corporate website, please see below.
 
 **Information We Collect  
-**_Non-Personally Identifiable Information._ Non-personally identifiable information is information that, by itself, cannot be tracked to a specific individual.  Exponential® may collect non-personally identifiable information while you are visiting an Exponential® Web site or the Web site of one of Exponential's® business customers, including advertisers, Web publishers, educational institutions, or financial service providers (collectively "Business Customers").  While providing services, Exponential® may collect Web surfing data such as Web surfers' IP addresses, Web pages that have been visited, time and date, and whether or not a Web surfer clicked on various advertisements ("Web Surfing Data").
+**
 
-We use different types of technologies to collect this information, including cookies, action tags, Web beacons and single pixel GIFs.
+_Non-Personal Information Collected by our Services_
 
-If your browser is configured to accept the cookies, these cookies will be used to recognize your computer when you revisit a Web site, in order to provide you with a superior Web surfing experience, for example, by allowing us to learn how you use the Web sites and to show you advertisements we think you would want to see.   However, if you wish, you can configure your browser to block cookies.
+We deliver advertisements from hundreds of Advertisers across a multitude of Publisher websites. When you visit one of the Publisher websites in our network, our automated system may collect “click stream data” related to your visit to the website. Click stream data is anonymous and can include information such as your IP address, Web pages viewed, the date and time at which those pages were viewed and interaction with content and advertisements on those Web pages. Technologies used to collect this click stream data, include cookies and Web beacons. For a description of cookies and Web beacons see our FAQ section. Our anonymous cookies are programmed to expire in six months. 
 
-Exponential® may place advertisements of third-party advertisers on Web sites that you are visiting.  If you choose to click on an advertisement, Exponential® may provide non-personally identifiable information to the advertiser and Web publisher.  Also, the Web publisher or Exponential's® other Business Customers may use cookies, action tags, GIFs, or Web beacons to collect information when you are visiting their Web sites.  The information they collect is governed by their individual privacy policies, not Exponential's.
+In order to improve performance, we augment our click stream data with non-personally-identifiable behavioral and demographic data from Publishers. This anonymous data may include such things as zip code, age, gender and income range. 
 
-_Personally Identifiable Information._  When using services offered through Exponential® or its Business Customers, you may choose to enter your name, contact information, and other personal information such as education level, gender, address, home value, credit and bankruptcy status.  You will have clear notification that we are collecting this information so that you can choose not to provide it.
+We utilize the non-personal information described above to better customize the sort of advertisements you see. We also aggregate anonymous cookie data in order to identify large audience segments that assist advertisers in targeting their campaigns to the most relevant Internet audience. 
 
-Users may also provide contact information while visiting exponential.com to request information or apply for a job at Exponential™.
+**Consumer Choice - Opting Out of Receiving Cookies**  
+We use technology which includes cookies and web beacons in the delivery of our Services. We believe that the use of these tools enables us to provide users with a more meaningful web experience. You may adjust your computer’s web browser settings to refuse all cookies. However, please note that because cookies are widely used, disabling the use of cookies in your web browser may interfere with full use of various websites.
 
-Business Customers may provide to Exponential® personally identifiable information that is necessary to conduct business, such as the Business Customers' credit card numbers and bank account information.
+You may opt out of receiving Exponential cookies by clicking here 
 
-**Use of the Information We Collect  
-**_Use of Non-Personally Identifiable Information._ Exponential® may use non-personally identifiable information collected to improve the quality of Exponential's® services, for example, by increasing ad placements on Web sites that are receiving more Web traffic and presenting you with ads that we think you would be interested in seeing.
+[](https://web.archive.org/web/20081218152844id_/http%3A//www.exponential.com/who-we-are/cookie-thankyou.jsp)
 
-Exponential® may market its services by sharing Web Surfing Data with Business Customers in such a way that you are not identified. Exponential® also may provide your non-personally identifiable information to companies so that they can perform services for us.
+You can also opt out of receiving cookies from Exponential and other NAI member companies by clicking here
 
-_Use of Personally Identifiable Information._ Exponential® does not provide personally identifiable information to Business Customers or other third parties except under the following conditions.  If you provide personally identifiable information as part of an inquiry about products or services provided by one of our Business Customers, we will provide that information only to that Business Customer so that they may attempt to provide you with information regarding the products or services you inquired about.
+[](http://www.networkadvertising.org/managing/opt_out.asp)
 
-Exponential® may use the personally identifiable information provided by users or Business Customers at exponential.com for internal purposes, such as sales, human resources, marketing, and administration ( _e.g_., billing and communicating with our Business Customers and maintaining their account information).  We may share this information with third parties who provide Exponential® with administrative services.  If Exponential® shares any of the information collected from you with a third party, their use of that information will be governed by the third party's privacy policy.
+Through this opt-out procedure, your computer will request an “opt-out cookie” ID tag that will prevent your anonymous data from being matched to your computer and thereby prevent us from using that data to deliver targeted advertising or other content to your computer’s browser. Please note that this opt-out process will erase the cookie ID associated with your computer but _not_ the cookie itself - the cookie itself _must_ remain on your computer in order for us to recognize you as an opt-out user. This means that if you use multiple computers or multiple browsers you will need to opt out of receiving cookies on each computer and for each browser. Also, if you change computers or delete cookies from your computer you will need to repeat this opt-out process. 
 
-**Other Sharing of Information  
-**Exponential® may release information when necessary to comply with the law or a court order.  Exponential™ also may release information to law enforcement to protect its rights, property, or other interests, including those of its customers or users or to prevent illegal activities or violations of Exponential's Terms of Use Agreement.
+_Personally Identifiable Information Collected By Our LeadGenuity Service_
 
-In the event that Exponential®, in whole or in part, is acquired by, or merged with, another company, collected information may be transferred to the acquiring or merging company. 
+LeadGenuity helps marketers reach potential customers who are interested in receiving information about their products or services. In response to a marketer’s advertisement, you may choose to provide personally identifiable information such as your name, address, telephone number and/or email address. Exponential will not merge any of this data with any non-personally identifiable information collected by our systems and will not use this personally identifiable information in any way that is not authorized by the marketer for whom it is collected. In addition, we keep this data in a separate database to preserve our guarantee that advertisements are delivered only through the utilization of anonymous consumer data. 
 
-**Use Opt-Out Procedure  
-**If you do not want to receive cookies from Exponential®, be sure to disable cookies in your browser.
+_Personally Identifiable Information Collected Through Our Corporate Website_
 
-  **Email Newsletters  
-**Exponential® provides free e-mail newsletters to those who sign up for them. These newsletters are sent only to people who have chosen to receive them, and can be opted-out of at any time. Exponential® does not sell its e-mail lists to third parties. Each newsletter has your e-mail address stamped on it with simple instructions on how to unsubscribe that address from our newsletter list. 
+You may also provide us with personally identifiable information (such as your name, email address, physical address or telephone number) when you elect to contact us about this Privacy Policy or any other customer-service related matter. We will only utilize such personal information for the purpose of responding to your inquiry. However, we do reserve the right to retain an archival record of all such correspondence.
 
-**Corrections/Updates  
+We reserve the right to disclose personally identifiable information you have disclosed to us in response to judicial process or court order or to provide information to law enforcement agencies or in connection with an investigation of matters related to public safety, as permitted by law. 
+
+**International Transfers of Data  
+**Personally identifiable information collected by Exponential on its own behalf or on behalf of its LeadGenuity clients may be stored and processed in the United States or any other country in which Exponential or its affiliates, subsidiaries, agents or customers maintain facilities. You acknowledge and agree that personally identifiable information you provide to us may be transferred outside of the country in which you reside. Providing such information will constitute your consent to any such transfer. 
+
+**Information Security  
+**Exponential follows generally accepted industry standards to protect against unauthorized access to, destruction or disclosure of data. This includes undertaking necessary physical, electronic and management activities required to protect data integrity, access and use. Any data that is stored on our servers is treated as confidential and is not made generally available to the public. Our servers are protected by firewalls and are located in secure data facilities to further increase security. Please keep in mind, however, that despite these reasonable efforts to protect data on our servers no method of transmission over the Internet is guaranteed to be secure. Therefore, while we strive to protect your personal data at all times, we cannot guarantee its absolute security and shall not be liable for any breach of security by an outside party. 
+
+**Transfer of Data Upon Change of Control  
+**In the event that another company acquires all or substantially all of the assets of our business through a consolidation, merger, asset purchase or other transaction, we reserve the right to transfer all data (including any personally identifiable data) that is in our possession or under our control to such acquiring party.
+
+**Changes to this Privacy Policy  
+**We reserve the right to make changes to this Privacy Policy by posting an updated version on this page. The date on which the current Privacy Policy was posted will always be noted at the top of this page. Any change we make to our Privacy Policy will be made in compliance with applicable law.  
 **  
-Exponential® allows users who choose to provide personally identifiable information to access their information to ensure that it is correct and up to date. Exponential® provides users the following options for changing and modifying information previously submitted: (1) you can send email to [usersupport@exponential.com](mailto:usersupport@exponential.com) with the word "Updates" in the subject field, or (2) you can send mail to: Updates, Exponential® Interactive, Inc., 2200 Powell Street, Suite 600, Emeryville, California 94608.
+Contact Us  
+**Questions and comments regarding this Privacy Policy should be directed to [privacy@exponential.com](mailto:privacy@exponential.com) or mailed to: 
 
-**Child Protection  
-**Exponential® does not offer services to, or target, persons under the age of 18.  In compliance with the Children's Online Privacy Protection Act, any information we receive from people we believe to be minors will be purged from our database. 
-
-**European Union  
-**The European Union privacy laws differ significantly from U.S. laws. To reconcile these differences, the U.S. and the European Union have created a set of guidelines called a "Safe Harbor" that define mutually acceptable privacy procedures.  Exponential® adheres to the Safe Harbor principals.  For more information go to [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
-
-**Security  
-**Exponential® makes significant efforts to protect against the loss, misuse and alteration of the collected information.  These measures may include the use of secure server technology.  Any information we collect is treated as confidential information, except for the uses described above.  Collected information is not generally available to the public. Be aware, however, that the Internet is not 100% secure.  Therefore, we cannot ensure the security of any information transmitted to us over the Internet and we accept no liability for any unintentional disclosure.  
-**  
-Links to Web Publishers, Advertisers, and Other Web Sites  
-**Exponential's services are combined with content from Web publishers and advertisers.  Exponential's services may contain links to other Web sites. Exponential® is not responsible for the privacy practices or the content of Web publishers, advertisers, or other Web sites that may be linked to Exponential's Web sites. 
-
-**Contacting the Web Site  
-**If you have questions or concerns regarding this policy, you should contact Exponential® by sending email to [usersupport@exponential.com](mailto:mailto:usersupport@exponential.com) with "Privacy" in the subject line, or by writing to Privacy, Exponential® Interactive, Inc., 2200 Powell Street, Suite 600, Emeryville CA 94608.  
-
-  **Acceptance of Privacy Statement  
-**Your use of our Web site is subject to this privacy policy and the Terms of Use Agreement.  BY USING OUR WEB SITE, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY POLICY AND OUR TERMS OF USE AGREEMENT.  We reserve the right to modify this privacy policy at any time by posting the changes on this page.  Please check the effective date at the bottom of this page to determine if the privacy policy has been modified since you last reviewed it.  Your continued use of our Web site following posting of the updated privacy policy will constitute your acceptance of the changes.
-
-  **Effective Date  
-**The privacy policy was last revised on October 15th, 2007.
+Exponential Interactive, Inc., 2200 Powell Street, Suite 600, Emeryville, CA 94608, Attn: Legal Department. 
