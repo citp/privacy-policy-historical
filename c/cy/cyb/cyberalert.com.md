@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the cyberalert.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531144154id_/http%3A//www.cyberalert.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberalert.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218134555id_/http%3A//www.cyberalert.com/privacy_policy.html) for the most accurate reproduction.*
 
 # CyberAlert®: Press Clipping, Broadcast Monitoring, and Web Clipping Service
 
 |    
 [](https://secure.cyberalert.com/ftorder.html)  
   
-[](https://web.archive.org/web/20080531144154id_/http%3A//www.cyberalert.com/whitepaper.html)  
+[](https://web.archive.org/web/20081218134555id_/http%3A//www.cyberalert.com/whitepaper.html)  
   
 |  |    
 CyberAlert's Privacy Policy 
