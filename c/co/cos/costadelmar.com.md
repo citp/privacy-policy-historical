@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the costadelmar.com privacy policy that was archived on 2008-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080209133819id_/http%3A//www.costadelmar.com/aidStation/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costadelmar.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218173002id_/http%3A//www.costadelmar.com./PrivacyPolicy) for the most accurate reproduction.*
 
-# Aid Station: FAQ, Costa Repairs, Costa Dealers, Pro Qualifications
+# Costa Del Mar: See What's Out There...
 
 At Costa Del Mar, we are committed to protecting your privacy  
 and to developing technology that gives you the most powerful  
