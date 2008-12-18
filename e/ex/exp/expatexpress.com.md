@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the expatexpress.com privacy policy that was archived on 2008-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080308182518id_/http%3A//www.expatexpress.com/Expat/jsp/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatexpress.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218171349id_/http%3A//www.expatexpress.com/Expat/jsp/help/privacy.jsp) for the most accurate reproduction.*
 
 # ExpatExpress
 
-  * [Contact Us](https://web.archive.org/Expat/jsp/help/contact.jsp)
-  * [Privacy Policy](https://web.archive.org/Expat/jsp/help/privacy.jsp)
-  * [Disclaimer](https://web.archive.org/Expat/jsp/help/disclaimer.jsp)
-  * [FAQ](https://web.archive.org/Expat/jsp/help/faq.jsp)
+  * [連絡先](https://web.archive.org/Expat/jsp/help/contact.jsp)
+  * [プライバシーポリシー](https://web.archive.org/Expat/jsp/help/privacy.jsp)
+  * [免責事項](https://web.archive.org/Expat/jsp/help/disclaimer.jsp)
+  * [よくあるご質問](https://web.archive.org/Expat/jsp/help/faq.jsp)
 
 
 
