@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 14dayz.com privacy policy that was archived on 2008-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080130154445id_/http%3A//www.14dayz.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 14dayz.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218140027id_/http%3A//www.14dayz.com/en/privacy.php) for the most accurate reproduction.*
 
 # 14Dayz.com - Time Tracking Made Simple
 
@@ -16,9 +16,9 @@ Brains4All servers may record the IP address of the computer you are using; the 
 
 We use this information to measure the number of visitors to different sections of the site, to diagnose and correct system errors, and to improve the site. We do not connect this information to your name or identity, and we periodically delete this information from the server.
 
-Information that is not provided with the express intent of subscription, ordering, or general use of the 14dayz application is not saved and will not be captured for use in other communications. See below for details on how we treat information provided in subscription and ordering contexts.
+Information that is not provided with the express intent of subscription, ordering, or general use of the 14Dayz application is not saved and will not be captured for use in other communications. See below for details on how we treat information provided in subscription and ordering contexts.
 
-We make limited use of "cookies" on this site. These cookies are only accessible by, [14dayz.com](http://14dayz.com/) and are typically deleted as soon as possible.
+We make limited use of "cookies" on this site. These cookies are only accessible by, [14Dayz.com](http://14dayz.com/) and are typically deleted as soon as possible.
 
 ##### Mailing List Policies
 
