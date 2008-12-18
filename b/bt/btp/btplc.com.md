@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the btplc.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625081747id_/http%3A//www.btplc.com/privacypolicy/Privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btplc.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218103015id_/http%3A//www.btplc.com/privacypolicy/Privacypolicy.htm) for the most accurate reproduction.*
 
-# privacypolicy
+# Privacy policy
 
 Who are we?  
 Why do we have a Privacy Policy?  
@@ -22,7 +22,7 @@ Are third party sites covered by this policy?
 
 We have developed this policy because we want you to feel confident about the privacy and security of your personal information
 
-## Who are we?
+##    Who are we?
 
 BT Group plc is the holding company for an integrated group of businesses that provides voice and data services in the UK and overseas. British Telecommunications plc is a wholly-owned subsidiary of BT Group plc and holds virtually all businesses and assets of the BT group.
 
@@ -32,7 +32,7 @@ BT Global Services provides a range of products and services, including communic
 
 When we refer to "we" or "our" or "BT" we are referring to BT Group plc (which includes British Telecommunications plc) and its subsidiaries, or any of them, as the context requires.
 
-## Why do we have a Privacy Policy?
+##    Why do we have a Privacy Policy?
 
 We have developed this policy because we want you to feel confident about the privacy and security of your personal information. BT is registered under the data protection laws in the United Kingdom and takes all reasonable care to prevent any unauthorised access to your personal information.
 
@@ -42,13 +42,13 @@ Please read this privacy policy carefully. If you are visiting any of our websit
 
  Back to top
 
-## What does this privacy policy cover?
+##    What does this privacy policy cover?
 
 This privacy policy only applies to how BT deals with your personal information. It does not apply to any other company or to any other company's websites even if you access them through BT. If you disclose your personal information to other companies your information will be dealt with according to their privacy practices. 
 
  Back to top
 
-## What personal information do we collect about you, and when do we collect it?
+##    What personal information do we collect about you, and when do we collect it?
 
 We may ask you for information to enable us to provide a service to you and we collect this information by telephone, written correspondence or via a website. We may ask you for information including your name, private/business address, contact telephone numbers and email address. We may also ask you for other information that relates to the service you are using or ordering. For example, we may need your credit card number to charge you for certain services. 
 
@@ -80,7 +80,7 @@ We do not use this information to:
 
 Back to top
 
-## What personal information do we collect about you from other companies and organisations?
+##    What personal information do we collect about you from other companies and organisations?
 
   * We may receive personal information about you from other companies and organisations (for example, for marketing purposes) and we rely on these third parties to obtain your consent for us to use this information. 
 
@@ -111,17 +111,17 @@ If you believe the personal information we hold on your is incorrect you may ame
 
 Back to top
 
-## For how long does BT keep personal information?
+##    For how long does BT keep personal information?
 
 The time period for which we keep information varies according to what the information is used for. In some cases, there are legal requirements to keep data for a minimum period. Unless there is a specific legal requirement for us to keep the information, we will retain it for no longer than is necessary for the purposes for which the data was collected or for which it is to be further processed.
 
-## How do we protect your data when it is transferred out of Europe?
+##    How do we protect your data when it is transferred out of Europe?
 
 Countries in the European Economic Area (EEA) are required to have a similar standard of protection of personal data but this is not always the case in countries outside of the EEA. We do sometimes transfer data outside the EEA but before doing so take steps to ensure that your data will be given adequate protection as required by the Data Protection Act.
 
 Back to top
 
-## How can I find out what personal information BT holds about me?
+##    How can I find out what personal information BT holds about me?
 
 If you want specific information please tell us and give us any relevant information to enable us to locate the information about you because this will speed up our reply. We may be able to provide the specific information you want without you having to make a formal request.
 
@@ -130,11 +130,11 @@ Data Protection Manager, Box 17, BT Centre, 81 Newgate Street, London.  EC1A 7A
 
 Back to top
 
-## How can I change the personal information BT holds about me?
+##    How can I change the personal information BT holds about me?
 
 If the information we hold about you is inaccurate, please let us know and we will make the necessary amendments and confirm that these have been made.
 
-## How can I manage BT's contact with me for marketing purposes?
+##    How can I manage BT's contact with me for marketing purposes?
 
 You may choose not to receive marketing information from BT and, if you are already receiving such information from us, you can ask us to stop at any time. If you would like BT not to call or mail you with details of products, services and special offers, please call 0800 800 150 (residential customers) or 0800 400 400 (business customers) or contact your Account Manager.
 
@@ -144,20 +144,20 @@ If you would like to stop unsolicited direct marketing mailings companies (inclu
 
 Back to top
 
-## How do we protect your personal information?
+##    How do we protect your personal information?
 
 We are serious about guarding the security of your personal information and the details of any transactions made. We take appropriate organisational and technical security measures to protect your data against unauthorised disclosure or processing. We use a secure server to store the information you give us when you register or make an order (including your credit card details and your password). Any personal data you send us on-line is securely encrypted.  
 Please note that your billing account number is a sensitive piece of information, which can be used with your telephone number to find out information about your use of BT's services. Please be sure to keep this information safe, and do not share it with others. For access to information such as itemised billing and some business account and ordering services, extra proof of identity and authorisation may be needed. 
 
 Back to top
 
-## How do you find out about changes to our privacy policy?
+##    How do you find out about changes to our privacy policy?
 
 We may change our privacy policy from time to time. New policies will be published on our web sites. 
 
 Back to top
 
-## Does BT's privacy policy protect me when I use BT's websites?
+##    Does BT's privacy policy protect me when I use BT's websites?
 
 BT's privacy policy also applies to information collected when you use any of our websites.  
 You do not have to register to access most of our websites. However, if you provide information via the "contact us" or any of the other interactive features, you indicate your consent to our use of your personal data in the manner described in this privacy policy. 
@@ -212,7 +212,7 @@ We do not use this information to:
 
 Back to top
 
-## When do we use cookies?
+##    When do we use cookies?
 
 A "cookie" is a text file which is allocated by our server to your personal computer (PC) when you visit areas of our website. If you want to know more about cookies please go to [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org hyperlink 47") which explains how cookies work and how you can manage their use. We use "cookies" to collect information from visitors to our websites and registered customers.
 
@@ -243,7 +243,7 @@ Please note that as the cookie is based on your PC, we will not find it if you v
 
 Back to top
 
-## How do you disable cookies?
+##    How do you disable cookies?
 
 All types of cookies can be removed from your PC but there may be some deterioration in the service you receive (for example, you may receive many pop up boxes containing the same advertisements or you may not be able to access a page you earlier personalised).
 
@@ -255,7 +255,7 @@ _For removing the "Remember me" cookie, just unpick the box when you sign in.
 
 Back to top
 
-## Are third party sites covered by this policy?
+##    Are third party sites covered by this policy?
 
 Third party Internet sites that you can link to from BT's websites are not covered by our privacy policy, so we urge you to be careful when you enter any personal information online. BT accepts no responsibility or liability for these sites.
 
