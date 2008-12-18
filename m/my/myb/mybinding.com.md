@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybinding.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627200014id_/http%3A//www.mybinding.com/.sc/ms/sp/ee) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybinding.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218100257id_/http%3A//www.mybinding.com/.sc/ms/sp/ee) for the most accurate reproduction.*
 
 # MyBinding.com Secure Shopping Guarantee and Security Policy
 
