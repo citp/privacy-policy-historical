@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mycashnow.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514210235id_/http%3A//www.mycashnow.com/Small-Cash-Loans-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycashnow.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218125224id_/http%3A//www.mycashnow.com/Small-Cash-Loans-privacy-policy.php) for the most accurate reproduction.*
 
-# Cash Loans Till Payday, Online Payday Loan Instant Approval MyCashNow -Login, Best Personal Loan Rates, Small Cash Loans, Payday Money Advance -
+# Best Personal Loan Rates-MyCashNow–Information about our Privacy Policy
 
 ## MyCashNow™ Privacy Policy
 
