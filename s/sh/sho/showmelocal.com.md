@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showmelocal.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502112822id_/http%3A//www.showmelocal.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showmelocal.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218192143id_/http%3A//showmelocal.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # ShowMeLocal.com - Privacy Policy
 
