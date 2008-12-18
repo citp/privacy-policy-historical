@@ -1,19 +1,17 @@
-> *The following text is extracted and transformed from the liewcf.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230224753id_/http%3A//www.liewcf.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liewcf.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218201409id_/http%3A//www.liewcf.com/blog/privacy) for the most accurate reproduction.*
 
-# Privacy Statement at LiewCF
+# Privacy Policy for LiewCF.com at LiewCF.com
 
-Your Privacy is a priority for us at LiewCF.com. We will never give or sell your personal information to anyone.
+The privacy of our visitors to LiewCF.com is important to us. 
 
-1\. The only information we may collect on this Blog is as follows:
+At LiewCF.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit LiewCF.com, and how we safeguard your information. We never sell your personal information to third parties.
 
-Your IP (that is to say, your computer’s individual identification number) will be logged on our server when you visit this Blog.
+Log Files  
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocal) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
 
-If you choose to leave comments in our Comments Section then, at your option, we use a ‘cookie’ to recognise you. A ‘cookie’ is a small amount of data which we send to your computer. The data is then stored on your browser or hard disk. The cookie is only activated at your request and if you wish to activate it, you may do so by indicating ‘Yes’ in the ‘Remember Me’ function which you will find in each Comments Window. Most web browsers can be set to prevent you from receiving new cookies, notify you before accepting cookies or disable cookies altogether. Details about this can normally be found in the Help facility provided with your browser.
+Cookies and Web Beacons  
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-If you choose to leave your email address in your comments it will be viewable to other readers - you do so at your own risk of others using it for their own purposes. Leaving your email address in comments is completely optional.
+We also use third party advertisements on LiewCF.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-If you choose to subscribe to our Mailing List then we will store your name and e-mail address which information will only be used to provide you with our e-mail newsletter and similar updates and bulletins.
-
-2\. You can ask us to update or remove your personal information by sending an email through our contact form.
-
-3\. This privacy policy is applicable only to this Blog and does not apply to any other Blogs or websites to which we may be linked.
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
