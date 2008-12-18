@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ancientfaces.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613185031id_/http%3A//www.ancientfaces.com/site/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancientfaces.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218201935id_/http%3A//www.ancientfaces.com/site/content/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -22,7 +22,3 @@ AncientFaces never shares any of our visitors' personal information. However, we
 AncientFaces is dedicated to protecting your personal information. AncientFaces uses Secure-Socket Layer (SSL) encryption powered by VeriSign to keep your personal information safe. SSL is an Internet Protocol, which allows for the secure transfer of data. Rather than transferring data between a number of carriers, SSL creates a secure connection between the client (you) and the host (AncientFaces). To ensure your personal information is safe, such as credit card and banking information, we employ SSL as well as several other methods of security. We also validate your credit card information before it is sent for processing so that we can prevent the need for multiple transmissions, and thus prevent the chance that your data is put at risk.
 
 AncientFaces gives you access to certain information about you for the limited purpose of viewing and, in certain cases, updating that information. You can find this information in 'Your Account' if you are a Registered user or Seller. Conditions of Use, Notices, and Revisions If you choose to visit AncientFaces, your visit and any disputes over privacy is subject to this Privacy Policy and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at AncientFaces, please send us a thorough description to AFC@ancientfaces.com, and we will try to resolve it. Our business changes constantly and this policy along with the Conditions of Use will also change.
-
-  
-  
-
