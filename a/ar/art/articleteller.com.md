@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the articleteller.com privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409120232id_/http%3A//www.articleteller.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleteller.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218100929id_/http%3A//www.articleteller.com/privacy.php) for the most accurate reproduction.*
 
 # Articleteller - The Free Article Directory
+
+[NEED ONLINE LOANS? - Apply for Loans Online - Click Here!](http://www.online-loans-pro.com/ "Online Loans - Apply for Loans Online")
 
 **Articleteller.com Privacy Policy**
 
@@ -32,7 +34,7 @@ Articleteller.com does not control the use of this technology by third parties o
 
 **Children**
 
-Articleteller.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Articleteller.com has any information from or about anyone under 13, please contact us at the address listed below. Contact Us: [Click Here](mailto:info@freelancemarketer.com)
+Articleteller.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Articleteller.com has any information from or about anyone under 13, please contact us at the address listed below. Contact Us: [Click Here](mailto:kenchuks@gmail.com)
 
 **Changes to this Policy**
 
