@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shef.ac.uk privacy policy that was archived on 2008-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080330045601id_/http%3A//www.shef.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shef.ac.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218160930id_/http%3A//www.shef.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -67,7 +67,7 @@ You have the right to request a copy of the personal information The University 
   
 #### Feedback 
 
-If you feel this site is not following its stated information policy, you may contact us at [a.cutler@shef.ac.uk](mailto:a.cutler@shef.ac.uk) or write to John Hawley, Corporate Information & Computing Services  
+If you feel this site is not following its stated information policy, you may contact us at [a.cutler@shef.ac.uk](mailto:a.cutler@shef.ac.uk) or write to A Cutler, Corporate Information & Computing Services  
 285 Glossop Road, Sheffield, S10 2HB. 
 
 
