@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exoticindiaart.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510150309id_/http%3A//www.exoticindiaart.com/privacy_policy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exoticindiaart.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218043505id_/http%3A//www.exoticindiaart.com/privacy_policy.php3) for the most accurate reproduction.*
 
 # Indian Art: Exotic India
 
@@ -28,7 +28,7 @@ This site gives users the following options for removing their information from 
 **Correct/Update**  
 This site gives users the following options for changing and modifying information previously provided, through the following address :
 
-  * email: **[update@exoticindia.com](mailto:update@exoticindia.com)**
+  * email: **[info@exoticindia.com](mailto:infoexoticindia.com)**
 
 
 
