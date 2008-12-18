@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the osiaffiliate.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609045929id_/http%3A//www.osiaffiliate.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osiaffiliate.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218082738id_/http%3A//www.osiaffiliate.com/privacy.htm) for the most accurate reproduction.*
 
 # ebusiness software | Privacy
 
-Omnistar Interactive has created this privacy statement to demonstrate our firm commitment to privacy. This statement sets forth our information gathering and dissemination practices for all sites in the Omnistar Interactive family of sites. 
+Omnistar Interactive has implemented this privacy policy to demonstrate our firm commitment to protecting our customers' privacy. This statement sets forth our information gathering and dissemination practices for all sites in the Omnistar Interactive family of sites. 
 
 **What We Collect and Where**  
 Our sites use several different forms that our customers can use to request information, products, and services. From these forms, we collect the following information:
@@ -29,5 +29,3 @@ Except as provided for in this Privacy Policy, Service Provider will never share
 
 **Privacy Policy Changes**   
 If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy, our Web site, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this Policy, we will notify you via this page.
-
-**We value your opinions and feedback**. If you have comments or questions about our Privacy Policy, please email [_support@omnistaretools.com_](mailto:support@omnistaretools.com).
