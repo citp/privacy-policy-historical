@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the chieftain.com privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409212203id_/http%3A//www.chieftain.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chieftain.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218055536id_/http%3A//www.chieftain.com/privacy_policy) for the most accurate reproduction.*
 
-# The Pueblo Chieftain Online - Pueblo, Colorado U.S.A
-
-| 
-
-ADVERTISEMENT
-
-ADVERTISEMENT
+# The Pueblo Chieftain Online ::
 
 **Contact information**  
 To contact The Pueblo Chieftain Online regarding this privacy policy, please use one of the following methods:  
@@ -42,28 +36,3 @@ From time to time, we make our customer list available to other companies or org
 The Pueblo Chieftain Internet Services reserves the right to restrict access to anyone for, included in but not limited to, "hacking" the server or website, corrupting the website through wrongful information or otherwise abusing the privileges of the website. 
 
 *The Pueblo Chieftain Internet Services reserves all publishing rights and approval for publishing.
-
-| 
-
-Ticket Center
-
-From The Colorado State Fair to the Pepsi Center, We have the tickets you want.  
-Visit our online ticket center and get yours today.  
-[Chieftain Tickets](http://tickets.pueblochieftain.com/)
-
-Ads
-
-TopHomes
-
-Subscribe  
-[Click here](https://web.archive.org/subscribe) to get your Southern Colorado news!
-
-Advertising  
-[Begin here](https://web.archive.org/advertising) to get the word out about your business!
-
-Classifieds  
-[Start here](https://web.archive.org/classifieds/placead/) to place an ad whatever your needs are!
-
-The View  
-[One click](http://www.pueblowestview.com/) to read The Pueblo West View Online!  
-
