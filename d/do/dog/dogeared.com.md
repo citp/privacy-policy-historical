@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dogeared.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413130154id_/http%3A//www.dogeared.com/mm5/merchant.mvc%3FScreen%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogeared.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218201955id_/http%3A//www.dogeared.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Dogeared Jewels and Gifts: Privacy Policy
+# Privacy Policy : Dogeared Jewels and Gifts
 
 This Web site is owned by Dogeared Jewels and Gifts LLC (Dogeared). We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Dogeared. The following discloses our Privacy Policy.
 
@@ -13,7 +13,7 @@ We only collect personally identifiable information about you via this Website w
 
 We may also collect, store or accumulate certain non-personally identifiable information concerning your use of this Website, such as information regarding which of our pages are most popular. Information gathered may be used in aggregate form for internal business purposes, such as generating statistics and developing marketing plans. We may share or transfer such aggregate, non-personally identifiable information with or to our affiliates, licensees and partners.
 
-This Website is intended for adults. We do not knowingly collect personal information from children under the age of 13. However, if the parent or guardian of a child under 13 believes that the child has provided us with personally identifiable information, the parent or guardian of that child should [contact us](http://www.dogeared.com/contact)  if they want this information deleted from our files so that it is not in retrievable form. If we otherwise obtain knowledge that we have personally identifiable information about a child under 13 in retrievable form in our files, we will delete that information from our existing files so that it is not retrievable.
+This Website is intended for adults. We do not knowingly collect personal information from children under the age of 13. However, if the parent or guardian of a child under 13 believes that the child has provided us with personally identifiable information, the parent or guardian of that child should [contact us](http://www.dogeared.com/contact.php)  if they want this information deleted from our files so that it is not in retrievable form. If we otherwise obtain knowledge that we have personally identifiable information about a child under 13 in retrievable form in our files, we will delete that information from our existing files so that it is not retrievable.
 
   
 
@@ -28,7 +28,7 @@ We guarantee that every online transaction you make will be 100% safe. This mean
 
 ## 4.   Technology Utilized
 
-There are two commonly used technologies used on this site, clear GIFs and “cookies.” We use these to monitor the performance of the site and to measure its effectiveness. Cookies are small pieces of information stored by your browser on your computer's hard drive. We do not use cookies to obtain any personally identifying information. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent this. Please be assured that accepting a cookie does not give us access to your computer or personal information under any circumstances. If you disable cookies, you may be unable to order or use other features of our sites. If you experience any problems, please [contact us](http://www.dogeared.com/contact).
+There are two commonly used technologies used on this site, clear GIFs and “cookies.” We use these to monitor the performance of the site and to measure its effectiveness. Cookies are small pieces of information stored by your browser on your computer's hard drive. We do not use cookies to obtain any personally identifying information. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent this. Please be assured that accepting a cookie does not give us access to your computer or personal information under any circumstances. If you disable cookies, you may be unable to order or use other features of our sites. If you experience any problems, please [contact us](http://www.dogeared.com/contact.php).
 
 Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. Clear GIFs are not tied to users' personally identifiable information.
 
@@ -42,6 +42,6 @@ We may revise this Privacy Policy from time to time. If we decide to change our 
 
 ## 7.   E-mail Marketing
 
-We want to communicate with you via e-mail correspondence only if you want to hear from us. When you purchase an Dogeared product, we may from time to time send you e-mail messages describing new products, special offer, and great values. If for any reason you would no longer like to receive e-mail messages from Dogeared, you can visit our [subscription management](http://www.dogeared.com/subscribe) section to remove yourself from our e-mailing list. Please allow up to 10 days for us to process your request.
+We want to communicate with you via e-mail correspondence only if you want to hear from us. When you purchase an Dogeared product, we may from time to time send you e-mail messages describing new products, special offer, and great values. If for any reason you would no longer like to receive e-mail messages from Dogeared, you can visit our [subscription management](http://www.dogeared.com/email-subscribe.php) section to remove yourself from our e-mailing list. Please allow up to 10 days for us to process your request.
 
-Please Note: If you decide not to receive marketing e-mails from Dogeared, you may still receive “transactional” e-mail messages regarding your order (e.g. order confirmation, shipping information, customer service notifications, etc.). If you have questions or concerns regarding this statement, please contact us via the email form on the [contact us](http://www.dogeared.com/contact) page.
+Please Note: If you decide not to receive marketing e-mails from Dogeared, you may still receive “transactional” e-mail messages regarding your order (e.g. order confirmation, shipping information, customer service notifications, etc.). If you have questions or concerns regarding this statement, please contact us via the email form on the [contact us](http://www.dogeared.com/contact.php) page.
