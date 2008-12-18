@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotcast.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214053359id_/http%3A//www.gotcast.com/content/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotcast.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218080333id_/http%3A//www.gotcast.com/content/Privacy.aspx) for the most accurate reproduction.*
 
 # Gotcast.com: Privacy
 
@@ -27,6 +27,6 @@ We will not release your personal information to any party unless required to do
 If you have a question about this privacy policy, please email [info@gotcast.com](mailto:info@gotcast.com) or write to us at: 
 
 Attn: Privacy Policy   
-Direct Casting, LLC   
+GotCast, LLC   
 1275 Kinnear Road   
 Columbus, Ohio 43212 
