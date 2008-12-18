@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1ink.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628143629id_/http%3A//www.1ink.com/privacy1.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1ink.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218095127id_/http%3A//www.1ink.com/privacy1.asp) for the most accurate reproduction.*
 
 # Canon Epson HP Inkjet Cartridges and Laser Toners Supplies.
 
