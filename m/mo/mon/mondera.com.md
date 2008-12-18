@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mondera.com privacy policy that was archived on 2008-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080209142202id_/http%3A//www.mondera.com/help/privacy.asp%3Fmscssid%3DDQDYEONRYRBUQWZNCTTIOAEQEPQBYPUH) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mondera.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218040316id_/http%3A//www.mondera.com/help/privacy.asp%3Fmscssid%3DHINPFPWHBNYTSUTXWRKAKSNHGOFYFAYO) for the most accurate reproduction.*
 
 # Mondera.com - Help (Privacy Policy)
 
@@ -26,7 +26,7 @@ You explicitly provide information via:
 
   * Feedback Form 
     * \- Should you contact us through our feedback form, we require your name and email address only to send you a reply.
-    * \- If you use the form to send comments about your shopping experience at Mondera, we may include the comment with your name in our [ Customer Testimonials](http://www.mondera.com/about/testimonials.asp?mscssid=MOMPOOYDBTLRRLEHVMRDIYUPVAAYADBU) section.
+    * \- If you use the form to send comments about your shopping experience at Mondera, we may include the comment with your name in our [ Customer Testimonials](http://www.mondera.com/about/testimonials.asp?mscssid=LSTNFEHLDSFERARCHHAXNYAFAOBRGZRJ) section.
   * Email Newsletter," "Email Special Offers" and "Catalog" Sign-up Features 
     * \- Should you participate in these services we will only use the information you provide to promote Mondera services and products.
     * \- We will not share any personal information with third parties.
@@ -41,6 +41,8 @@ You explicitly provide information via:
   * Merchant co-promotions - Mondera will be tying up with various third party merchants to offer value added promotions & offers to you in the form of creative, banners etc. If you choose to click on these, we are not responsible for privacy policies and content of these sites.
 
 
+
+Mondera is the registered trademark of Mondera.com. Only Mondera has the exclusive right to use this trademark or authorize others to use the trademark with regard to its products & services. Any company or person using this trademark to promote its/his products without Mondera’s permission or using a deceptively similar one is liable to be prosecuted for infringing its trademark rights.
 
 By using our website, you consent to the usage and collection of this information. If we decide to alter our privacy policy, these changes will be posted on this page so that you will always be informed about what information is collected, how it is used, and under what circumstances it will be disclosed.
 
