@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lifelabs.com privacy policy that was archived on 2008-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080403081026id_/http%3A//lifelabs.com/MDS_Diagnostic_Services/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifelabs.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218194130id_/http%3A//lifelabs.com/Lifelabs_ON/Privacy.asp) for the most accurate reproduction.*
 
-# MDS Diagnostic Services -
+# 
 
 **Privacy Statement for LifeLabs**
 
