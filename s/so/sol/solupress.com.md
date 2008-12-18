@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solupress.com privacy policy that was archived on 2008-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080426215717id_/http%3A//www.solupress.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solupress.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218164853id_/http%3A//www.solupress.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Solupress - [Privacy Policy]
 
@@ -18,4 +18,4 @@ Solupress and its affiliated companies respects and is dedicated to honoring the
 
 **6\. External Links.** Solupress web site provides links to other third party web sites. Even if the third party is affiliated with Solupress through a business partnership or otherwise, Solupress is not responsible for the privacy policies or practices or the content of such external links. These links are provided to you for convenience purposes only and you access them at your own risk. 
 
-**7\. Terms of Service.** Please also see Solupress's [Terms Of Service](https://web.archive.org/web/20080426215717id_/http%3A//www.solupress.com/termsofservice.aspx), which describes the use, disclaimers, indemnification and limitation of liability governing the use of the entire Solupress web site.
+**7\. Terms of Service.** Please also see Solupress's [Terms Of Service](https://web.archive.org/web/20081218164853id_/http%3A//www.solupress.com/termsofservice.aspx), which describes the use, disclaimers, indemnification and limitation of liability governing the use of the entire Solupress web site.
