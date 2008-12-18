@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the killerdana.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516181325id_/http%3A//www.killerdana.com/killerdana/dept.asp%3Fdept_id%3D3320) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killerdana.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218055621id_/http%3A//www.killerdana.com/killerdana/dept.asp%3Fdept_id%3D3320) for the most accurate reproduction.*
 
 # FAQ & Privacy Policy at Killer Dana Surf Shop - Home of the Boardshort Superstore
 
@@ -17,7 +17,9 @@
 6\. [What happens if something I order is out of stock?](http://www.killerdana.com/killerdana/dept.asp?dept_id=3320&/#Anchor-57434)  
 7\. [How can I return merchandise to Killer Dana?](http://www.killerdana.com/killerdana/dept.asp?dept_id=3320&/#Anchor-11022)  
 8\. [How can I check on my order?](http://www.killerdana.com/killerdana/dept.asp?dept_id=3320&/#Anchor-31645)  
-9\. [Can I become a Killer Dana Affiliate?](http://www.killerdana.com/killerdana/dept.asp?dept_id=3320&/#Anchor-49865)  
+9\. [Can I become a Killer Dana Affiliate?](http://www.killerdana.com/killerdana/dept.asp?dept_id=3320&/#Anchor-49865)
+
+10\. [What is Killer Dana's Reward Program?](http://www.killerdana.com/killerdana/#anchor)  
   
 * * *  
   
@@ -110,4 +112,8 @@ Please either return the merchandise with a copy of the packing slip or a note e
   
 * * *  
   
-**9\. Can I become a Killer Dana affiliate?** Join many of the surfing world's best known companies and become a Killer Dana Affiliate. If you have a website that is dedicated to surfing, we'd be stoked to team up with you. Killer Dana is the leading surf specific online retailer selling all the best brands and highest quality products. If your website's visitors are looking for these types of products, we are the obvious company to team up with. Killer Dana runs its own proprietary system for tracking affilate traffic. We will pay you a commission on any sales that originate in your website. Additionally, we will custom design a banner that meets your specifications. Please contact us at [info@killerdana.com](mailto:info@killerdana.com) if you would like to get involved - it sure beats working.
+**9\. Can I become a Killer Dana affiliate?** Join many of the surfing world's best known companies and become a Killer Dana Affiliate. If you have a website that is dedicated to surfing, we'd be stoked to team up with you. Killer Dana is the leading surf specific online retailer selling all the best brands and highest quality products. If your website's visitors are looking for these types of products, we are the obvious company with whom to team up. [Commission Junction](http://www.cj.com/) runs our affiliate program. You can find our links and information there. Visit [www.cj.com](http://www.cj.com/) for more information and to sign up.  
+  
+* * *  
+  
+**10\. What is the Killer Dana Rewards Program?** Anyone who shops at Killer Dana or www.killerdana.com is eligible to earn KD Rewards Points. Basically, we give you 10% of the value of your purchases back in points. Customers get 10 points per dollar spent on regular priced items and 5 points per dollar spent on sale priced items. Spend $100 on regularly priced items at Killer Dana, and you will get 1000 points. You can then spend those points on the KD Rewards site a [www.kdrewards.com](http://www.kdrewards.com/). You must have enough points to cover your full purchase - you cannot use part points and part credit card. Points can also only be redeemed online. They cannot be used in-store. Points expire 2 years after being earned. Anyone who provides Killer Dana with an email address is eligible for KD Rewards Points.
