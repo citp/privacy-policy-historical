@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the essanteworldwide.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614133916id_/http%3A//www.essanteworldwide.com/content.aspx%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essanteworldwide.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219000744id_/http%3A//www.essanteworldwide.com/content.aspx%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
-# None
+# 
 
 ### What information do we collect? How do we use it?
 
