@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the australiaonlineadvertising.com.au privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616004157id_/http%3A//australiaonlineadvertising.com.au/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australiaonlineadvertising.com.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218170711id_/http%3A//australiaonlineadvertising.com.au/page.php%3Fname%3Dpolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Add Url | Free Ads | Business Directory
+# Privacy Policy Marketing | Free Ads | Business Directory
 
 #### Overview
 
