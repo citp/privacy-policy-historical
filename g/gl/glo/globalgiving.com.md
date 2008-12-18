@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalgiving.com privacy policy that was archived on 2007-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071004025022id_/http%3A//www.globalgiving.com/privacypol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgiving.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218135359id_/http%3A//www.globalgiving.com/privacypol.html) for the most accurate reproduction.*
 
 # Privacy Policy | GlobalGiving
 
@@ -72,7 +72,7 @@ Our privacy policy is regularly reviewed to make sure we continue to serve the p
 
 You may contact us by using the "Contact Us" links on the footer of our site. We try to reply promptly to every message we receive. This information is used to respond directly to your questions or comments. We also may file your comments and share them with our customer care team to improve our service in the future. 
 
-If you still have questions or concerns regarding our privacy policy, please email us at or write us at: 
+If you still have questions or concerns regarding our privacy policy, please email us at [help@globalgiving.com](mailto:help@globalgiving.com) or write us at: 
 
 GlobalGiving
 
