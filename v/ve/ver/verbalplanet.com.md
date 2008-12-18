@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the verbalplanet.com privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414232931id_/http%3A//www.verbalplanet.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verbalplanet.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218105658id_/http%3A//www.verbalplanet.com/privacy.asp) for the most accurate reproduction.*
 
-# Protecting Your Privacy
-
-Protecting Your Privacy
+# Verbalplanet | Terms and Conditions
 
 By using Verbalplanet.com you accept the terms of this privacy statement. 
 
