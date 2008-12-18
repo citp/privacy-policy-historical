@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dance.net privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011031625id_/http%3A//www.dance.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dance.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218110140id_/http%3A//www.dance.net/privacy.html) for the most accurate reproduction.*
 
 # dance.net - Privacy: Ballet, Jazz, Modern, Hip Hop, Tap, Irish, Disco, Twirling, Cheer: Photos, Chat, Games, Jobs, Events!
 
-|  Dance.net Privacy Policy
+Dance.net Privacy Policy
 
 Your privacy and trust is something we don't take lightly. If there is anything else we can answer, feel free to ask us at webmaster @ dance.net. 
 
@@ -86,4 +86,4 @@ Users of our site are always notified when their information is being collected 
 
 ### Notification of Changes
 
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.  | 
+If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
