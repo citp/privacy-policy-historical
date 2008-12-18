@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quakeroats.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614203503id_/http%3A//www.quakeroats.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quakeroats.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218020658id_/http%3A//www.quakeroats.com/Privacy.cfm) for the most accurate reproduction.*
 
 # Quaker's Privacy Policy
 
