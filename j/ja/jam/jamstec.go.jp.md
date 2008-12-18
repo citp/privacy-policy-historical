@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamstec.go.jp privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626094047id_/http%3A//www.jamstec.go.jp/e/about/privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamstec.go.jp privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218203838id_/http%3A//www.jamstec.go.jp/e/about/privacy_policy/index.html) for the most accurate reproduction.*
 
 # Basic Policy on the Protection of Personal Information < About JAMSTEC < JAMSTEC
 
