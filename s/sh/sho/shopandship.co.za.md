@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopandship.co.za privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628134820id_/http%3A//www.shopandship.co.za/customer-info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopandship.co.za privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218111601id_/http%3A//www.shopandship.co.za/customer-info/privacy-policy.html) for the most accurate reproduction.*
 
 # Shop and Ship Online (Pty) Ltd. - Privacy Policy
 
