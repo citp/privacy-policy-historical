@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adforum.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623234510id_/http%3A//www.adforum.com/help/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adforum.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218100116id_/http%3A//www.adforum.com/help/Privacy_Policy.asp) for the most accurate reproduction.*
 
 # AdForum: Advertising Agencies, TV Commercials, Commercial Ads, Award Winning Ads
 
-### [Other Privacy Issues](https://web.archive.org/web/20080623234510id_/http%3A//www.adforum.com/help/privacy_policy.asp?#18)
+### [Other Privacy Issues](https://web.archive.org/web/20081218100116id_/http%3A//www.adforum.com/help/privacy_policy.asp?#18)
 
 **WHAT INFORMATION WE COLLECT AND WHY**
 
@@ -52,7 +52,7 @@ Users who no longer wish to receive our newsletters, e-alerts or promotional mat
 \- Removing their email address from our database at: [www.adforum.com/signup/newsletter/ssf.asp?action=remove](http://www.adforum.com/signup/newsletter/ssf.asp?action=remove)   
 \- Replying to the email message with the word UNSUBSCRIBE in the subject line   
 \- Sending an email to unsubscribe@adforum.com from the address they want to unsubscribe   
-\- Sending a letter to MayDream, Information Center, 80 Park Avenue, Office Suite 3, Hoboken, NJ 07030, USA   
+\- Sending a letter to MayDream, Information Center, 70 Hudson Street, Office 4B, Hoboken, NJ 07030, USA   
 When the user makes an “unsubscribe” request we commit to remove the email address from our mailing lists as soon as possible, and usually before the next mailing. 
 
 ###  4\. Sharing of information
@@ -84,7 +84,7 @@ Click here to review Real Media's privacy policy: [www.realmedia.com/privacy.htm
 
 We provide a way to correct or update user personal data from our records should information change. For a user who no longer desires to be on our mailing list, see our opt-out process.  
 A delay of 3 days applies to corrections and updates of personal information as Maydream attempts to verify the identity of a user requesting such changes to their information before they are made.  
-To correct or update personal information, send an email to our Customer Support Department or send a letter to MayDream, Information Center, 80 Park Avenue, Office 3, Hoboken, NJ 07030, USA. 
+To correct or update personal information, send an email to our Customer Support Department or send a letter to MayDream, Information Center, 70 Hudson Street, Office 4B, Hoboken, NJ 07030, USA. 
 
 ###  9\. Accessing your information
 
