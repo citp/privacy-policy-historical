@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realbird.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615162547id_/http%3A//www.realbird.com/Default.aspx%3Fp%3Dcontent.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realbird.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218055653id_/http%3A//www.realbird.com/Default.aspx%3Fp%3Dcontent.privacy) for the most accurate reproduction.*
 
 # Real estate listing marketing, single property website, syndication
 
