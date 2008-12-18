@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the alfy.com privacy policy that was archived on 2008-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509090632id_/http%3A//www.alfy.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alfy.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218150105id_/http%3A//www.alfy.com/privacy.aspx) for the most accurate reproduction.-->
 
 <html><head>
 		<title>Alfy.com: Free Games, Clip Art, On-line Puzzles, Kid's Coloring Pages, Fresh 
@@ -14,7 +14,7 @@
 	<body topmargin="0" leftmargin="0" background="/Images/backgroundimage.gif">
 		<center>
 			<form name="webForm" method="post" action="privacy.aspx" id="webForm">
-<input type="hidden" name="__VIEWSTATE" value="dDwtMTE0Nzg1NDc2Mzs7Pq+YO8okYdokKwBqhtA9+1yPlBGJ">
+<input type="hidden" name="__VIEWSTATE" value="dDwtMzI0OTE5MTA0O3Q8O2w8aTwwPjs+O2w8dDw7bDxpPDE+Oz47bDx0PDtsPGk8MT47aTwzPjs+O2w8dDxwPHA8bDxWaXNpYmxlOz47bDxvPHQ+Oz4+Oz47Oz47dDxwPHA8bDxWaXNpYmxlOz47bDxvPGY+Oz4+Oz47Oz47Pj47Pj47Pj47PoNhAAmq/plhkTdao/ri+grjt+dK">
 
 				<div align="left">
 					<table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -28,21 +28,563 @@ var axel = Math.random() + "";
 var ord = axel * 1000000000000000000;
 //-->
 </script>
-<!--SID: 222-->
+<!--SID: 212-->
 
-
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="946" height="90" id="alfynav_new-for-relative-link" align="middle" viewastext="">
-	<param name="allowScriptAccess" value="always">
-	<param name="movie" value="/alfynav_092107.swf?finit=http://www.alfy.com/news.xml">
-	<param name="quality" value="high">
-	<param name="wmode" value="transparent">
-	<embed src="/alfynav_092107.swf?finit=http://www.alfy.com/news.xml" quality="high" wmode="transparent" width="946" height="90" name="alfynav_new-for-relative-link" align="middle" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
-</object>
 <script language="javascript" src="/JSScripts/ObjectEmbed.js"></script>
-<script language="javascript">
-	//EmbedFlash("/alfynav_v4.swf", 953, 116, "#FFFFFF", "high", "", "", "", "showall", "true", "", "false", "http:/download.macromedia.com/pub/shockwave/cabs/flash/swflash5r42.cab#version=5,0,42,0", "", "")
+<script language="javascript"> 
+				function global_playgame(gameID,gameName)
+				{
+					var newWindow;
+					var url = "/Games/playgamepopup.aspx?gameID="+ gameID +"&gameName=" + gameName
+					var windowFeatures ="toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=1,resizable=yes,width=790,height=670";
+				
+					newWindow = window.open(url, "playgame", windowFeatures);
+					
+					if (newWindow == null)
+					{
+						alert("Popup blocker detected, please disable your popup blocker.")
+					}
+
+				}//end function
 </script>
-</td>
+
+		<style type="text/css">
+			a.nav_link{
+			    font-family: Arial; 
+			    color:#000000; 
+			    font-size: 9pt;
+			    margin-left:5px;
+			    margin-right:5px;
+			    font-weight:bold;
+			}
+			
+			a.nav_link:visited{
+			    color:#000000;
+			    font-weight:bold;
+			}
+
+			a.nav_link:hover{
+			    color:#000000;
+			    font-weight:bold;
+			}
+			
+			a.sub_link{
+			    font-family: Arial; 
+			    color:#FF6A0C; 
+			    text-decoration:none;
+			    font-size: 8pt;
+			    margin-left:5px;
+			    margin-right:5px;
+			    font-weight:bold;
+			}
+			
+			a.sub_link:visited{
+			    color:#FF6A0C;
+			    font-weight:bold;
+			}
+			
+			a.sub_link:hover{
+			    color:#78A2FE;
+			    font-weight:bold;
+			}
+			
+
+			
+			.navSpacer{
+			    width: 2px;
+			}
+			
+			.navSpacer_subbutton{
+			    width: 5px;
+			}
+			
+			
+			
+			body{
+			    margin: 0px;
+			}
+		</style>
+		
+		
+		<script language="javascript">
+			var alfynav_menus = new Array();
+			var alfynav_HEIGHT = 50; //must be an interval of 10
+			var alfynav_current_height = 0;
+			var alfynav_menu_animation = null;
+			
+			function alfynav_showSubMenu(menuID){
+				for(var i=0; i<alfynav_menus.length;i++){
+					var alfynav_submenu = document.getElementById(alfynav_menus[i]);
+					if (alfynav_submenu){
+						alfynav_submenu.style.display = "none";
+					}//end if
+				}//end if
+				
+
+				var alfynav_submenu = document.getElementById(menuID);
+				if (alfynav_submenu){
+					alfynav_submenu.style.display = "";
+				}//end if
+				
+				if (menuID=="AlfyNav_MyAlfy"){
+					alfynav_HEIGHT = 100; //must be an interval of 10
+				}else{
+					alfynav_HEIGHT = 50;
+				}//end if
+				alfynav_show();				
+				
+			}//end function
+			
+			function document_onmousemove(ev){
+				ev = ev || window.event;
+				if(ev){
+					var target   = ev.target || ev.srcElement;
+					if(target){
+						if(travel_idExistInParentNode(target,"group","alfyNav")){
+							//document.getElementById("subnav_outter").style.display = '';
+						}else{
+							alfynav_hide();
+							//document.getElementById("subnav_outter").style.display = 'none';
+						}//end if
+						
+						//document.getElementById("div_test").innerHTML = travel_idExistInParentNode(target,"group","alfyNav");
+					}//end if
+				}//end if
+			}//end document_onmousemove
+
+
+			function alfynav_show(){
+				clearInterval(alfynav_menu_animation);
+				alfynav_menu_animation=setInterval("alfynav_startingshowing()",1);
+			}
+			
+			function alfynav_hide(){
+				clearInterval(alfynav_menu_animation);
+				alfynav_menu_animation=setInterval("alfynav_startinghidding()",1);
+			}
+			
+			function alfynav_startingshowing(){
+				var objsubnav_outter = document.getElementById("subnav_outter");
+				if (objsubnav_outter){
+					objsubnav_outter.style.display = '';
+					if (alfynav_current_height == alfynav_HEIGHT){
+						clearInterval(alfynav_menu_animation);
+					}else{
+						if (alfynav_current_height > alfynav_HEIGHT){
+							alfynav_current_height=alfynav_current_height-10;
+						}//end if
+						if (alfynav_current_height < alfynav_HEIGHT){
+							alfynav_current_height=alfynav_current_height+10;
+						}//end if
+						objsubnav_outter.style.height = alfynav_current_height + 'px';
+					}//end if
+				}//end if
+			}//end if
+						
+			function alfynav_startinghidding(){
+				var objsubnav_outter = document.getElementById("subnav_outter");
+				if (objsubnav_outter){
+					if (alfynav_current_height <= 10){
+						//objsubnav_outter.style.height = '3px';
+						objsubnav_outter.style.display = 'none';
+						clearInterval(alfynav_menu_animation);
+					}else{
+						alfynav_current_height=alfynav_current_height-10;
+						objsubnav_outter.style.height = alfynav_current_height + 'px';
+					}//end if
+				}//end if
+			}//end if
+			
+
+			
+			
+			function travel_idExistInParentNode(currentNode, name, value){
+				if (currentNode){
+					if(currentNode.getAttribute){
+						if(currentNode.getAttribute(name) == value){
+							return true;
+						}else{
+							return travel_idExistInParentNode(currentNode.parentNode, name, value)
+						}//end if
+					}else{
+						return travel_idExistInParentNode(currentNode.parentNode, name, value)
+					}//end if
+					
+				}else{
+					return false
+				}//end if
+			}//end if
+
+			//window.onload = function(){
+			 document.onmousemove = document_onmousemove;
+			//}
+		</script>
+		<div id="test_msg"></div>
+		<script language="Javascript">
+<!--
+var axel = Math.random() + "";
+var ord = axel * 1000000000000000000;
+//-->
+</script>
+		
+		<div style="width:929px;">
+	    <table cellpadding="0" cellspacing="0" border="0" style="width:929px;">
+	        <tbody><tr>
+					<td valign="top" background="/img_alfynav/bkgrdimage.gif">
+						<div style="margin-top:3px;"><a href="/"><img src="/img_alfynav/aflylogo.gif" alt="Alfy.com" border="0"></a></div>
+					</td>
+
+				
+					<td valign="top" style="width: 776px;" align="right" background="/img_alfynav/bkgrdimage.gif">
+						
+						<p align="right" style="margin:0px;">
+						<table cellpadding="0" cellspacing="0" border="0" width="100%">
+							<tbody><tr>
+								<td width="48" valign="top" align="right"><img src="/images_0001/ad002.gif" width="15" height="30"></td>
+								<td valign="top" align="right">
+									
+									
+										<script language="JavaScript">
+										document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/site159.tmus/TopNav;tile=1;pos=1;dcopt=ist;sz=728x90;ord=' + ord + '?" ><\/SCRIPT>');
+										</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/site159.tmus/TopNav;tile=1;pos=1;dcopt=ist;sz=728x90;ord=595171277053444700?"></script>
+										<script>
+										if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
+										document.write('<A HREF="http://ad.doubleclick.net/jump/site159.tmus/TopNav;tile=1;pos=1;dcopt=ist;sz=728x90;ord=' + ord + '?" TARGET="_blank">');
+										document.write('<IMG SRC="http://ad.doubleclick.net/ad/site159.tmus/TopNav;tile=1;pos=1;dcopt=ist;sz=728x90;ord=' + ord + '?" WIDTH="728" HEIGHT="90" BORDER="0" ALT=""></A>');
+										}
+										</script>
+										<noscript>
+										<A HREF="http://ad.doubleclick.net/jump/site159.tmus/TopNav;tile=1;pos=1;dcopt=ist;sz=728x90;ord=123456789?" TARGET="_blank">
+										<IMG SRC="http://ad.doubleclick.net/ad/site159.tmus/TopNav;tile=1;pos=1;dcopt=ist;sz=728x90;ord=123456789?" WIDTH="728" HEIGHT="90" BORDER="0" ALT=""></A>
+										</noscript>	
+									
+								</td>
+							</tr>
+						</tbody></table>
+						</p>
+						
+						
+					</td>
+		</tr>
+		<tr>
+				<td colspan="2" background="/img_alfynav/bkgrdimage.gif"><div style="margin-top:5px;"></div></td>
+		</tr>
+		
+		<tr>
+					<td colspan="2" valign="top">	
+						
+						
+
+						<div group="alfyNav" style="width: 929px; padding:2px; margin-top:0px; border:solid 2px #78A2FE; background-color:#ffffff">
+								<!--Begin Buttons------------------------------------------------------------------------------------->
+								<table cellpadding="0" cellspacing="0" border="0" width="100%">
+									<tbody><tr>
+									
+										<script language="javascript">alfynav_menus[0] = "alfynav_games";</script>
+										<td>
+											<table cellpadding="0" cellspacing="0" border="0">
+												<tbody><tr>
+													
+													<td group="alfyNav" nowrap="nowrap"><img src="/img_alfynav/ico_game.gif"></td>
+													
+													<td group="alfyNav" nowrap="nowrap"><a onmouseover="javascript:alfynav_showSubMenu('alfynav_games');" href="/games/" class="nav_link" styles="color:#000000;">GAMES</a></td>
+												</tr>
+											</tbody></table>	                
+										</td>
+										<td group="alfyNav" class="navSpacer"></td>
+										
+										<script language="javascript">alfynav_menus[1] = "alfynav_answers";</script>
+										<td>
+											<table cellpadding="0" cellspacing="0" border="0">
+												<tbody><tr>
+													
+													<td group="alfyNav" nowrap="nowrap"><img src="/img_alfynav/ico_answersicon2.gif"></td>
+													
+													<td group="alfyNav" nowrap="nowrap"><a onmouseover="javascript:alfynav_showSubMenu('alfynav_answers');" href="/answers/" class="nav_link" styles="color:#000000;">ANSWERS</a></td>
+												</tr>
+											</tbody></table>	                
+										</td>
+										<td group="alfyNav" class="navSpacer"></td>
+										
+										<script language="javascript">alfynav_menus[2] = "alfynav_polls";</script>
+										<td>
+											<table cellpadding="0" cellspacing="0" border="0">
+												<tbody><tr>
+													
+													<td group="alfyNav" nowrap="nowrap"><img src="/img_alfynav/ico_pollsicon.gif"></td>
+													
+													<td group="alfyNav" nowrap="nowrap"><a onmouseover="javascript:alfynav_showSubMenu('alfynav_polls');" href="/MyAlfy/Poll/" class="nav_link" styles="color:#000000;">POLLS</a></td>
+												</tr>
+											</tbody></table>	                
+										</td>
+										<td group="alfyNav" class="navSpacer"></td>
+										
+										<script language="javascript">alfynav_menus[3] = "alfynav_boards";</script>
+										<td>
+											<table cellpadding="0" cellspacing="0" border="0">
+												<tbody><tr>
+													
+													<td group="alfyNav" nowrap="nowrap"><img src="/img_alfynav/ico_board.gif"></td>
+													
+													<td group="alfyNav" nowrap="nowrap"><a onmouseover="javascript:alfynav_showSubMenu('alfynav_boards');" href="/messageboard/" class="nav_link" styles="color:#000000;">BOARDS</a></td>
+												</tr>
+											</tbody></table>	                
+										</td>
+										<td group="alfyNav" class="navSpacer"></td>
+										
+										<script language="javascript">alfynav_menus[4] = "alfynav_coolstuff";</script>
+										<td>
+											<table cellpadding="0" cellspacing="0" border="0">
+												<tbody><tr>
+													
+													<td group="alfyNav" nowrap="nowrap"><img src="/img_alfynav/ico_coolstuff.gif"></td>
+													
+													<td group="alfyNav" nowrap="nowrap"><a onmouseover="javascript:alfynav_showSubMenu('alfynav_coolstuff');" href="/cool_stuff/" class="nav_link" styles="color:#000000;">COOL STUFF</a></td>
+												</tr>
+											</tbody></table>	                
+										</td>
+										<td group="alfyNav" class="navSpacer"></td>
+										
+										<script language="javascript">alfynav_menus[5] = "alfynav_artscrafts";</script>
+										<td>
+											<table cellpadding="0" cellspacing="0" border="0">
+												<tbody><tr>
+													
+													<td group="alfyNav" nowrap="nowrap"><img src="/img_alfynav/ico_artcraft.gif"></td>
+													
+													<td group="alfyNav" nowrap="nowrap"><a onmouseover="javascript:alfynav_showSubMenu('alfynav_artscrafts');" href="/arts_crafts/" class="nav_link" styles="color:#000000;">ARTS &amp; CRAFTS</a></td>
+												</tr>
+											</tbody></table>	                
+										</td>
+										<td group="alfyNav" class="navSpacer"></td>
+										
+										<script language="javascript">alfynav_menus[6] = "alfynav_prizecenter";</script>
+										<td>
+											<table cellpadding="0" cellspacing="0" border="0">
+												<tbody><tr>
+													
+													<td group="alfyNav" nowrap="nowrap"><img src="/img_alfynav/ico_pricecenter.gif"></td>
+													
+													<td group="alfyNav" nowrap="nowrap"><a onmouseover="javascript:alfynav_showSubMenu('alfynav_prizecenter');" href="/Points/Prize_Center/" class="nav_link" styles="color:#000000;">PRIZES</a></td>
+												</tr>
+											</tbody></table>	                
+										</td>
+										<td group="alfyNav" class="navSpacer"></td>
+										
+										<script language="javascript">alfynav_menus[7] = "AlfyNav_MyAlfy";</script>
+										<td>
+											<table cellpadding="0" cellspacing="0" border="0">
+												<tbody><tr>
+														<td nowrap="nowrap"><a href="/login/" class="nav_link" style="color:#78A2FE;">LOGIN</a></td>
+												</tr>
+											</tbody></table>	                
+										</td>
+										
+									
+										<td align="right">
+											
+<script language="Javascript">
+	function Ctl_ListOfGamesDropDown_v1_GoToGame(p_select){
+		var p_gameID =  p_select.options[p_select.selectedIndex].value
+		var p_name = p_select.options[p_select.selectedIndex].text
+		if(p_select.options[p_select.selectedIndex].value != '-1')
+			parent.document.location.href = "/adredirect/?r=" + escape("/Games/playgame.aspx?gameID=") + p_gameID + "&m=" + escape(p_name)
+	}
+</script>
+<select style="font-family: Arial; font-size: 8pt;" onchange="javascript:Ctl_ListOfGamesDropDown_v1_GoToGame(this)"><option value="-1">---Play a Game---</option><option value="614">18 Wheeler</option><option value="726">1i</option><option value="743">24 Puzzle</option><option value="447">3 Foot Ninja</option><option value="552">3 on 1</option><option value="498">3D Reversi</option><option value="317">3D Tic Tac Toe</option><option value="790">3D Worm</option><option value="388">3ft Ninja II</option><option value="495">4 x 4 Rally</option><option value="658">501 Darts</option><option value="706">Absolute Zero</option><option value="587">Acid Factory</option><option value="789">Add Like Mad</option><option value="412">Adventure Elf</option><option value="696">After Glow</option><option value="770">AIB</option><option value="546">Air Dodge</option><option value="503">Air Hockey</option><option value="560">ALFY and Havoc</option><option value="564">ALFY and the Broken Toy</option><option value="558">ALFY Fort</option><option value="557">ALFY Goes Camping</option><option value="563">ALFY Goes to School</option><option value="299">ALFY's Col</option><option value="562">ALFY's Snow Day</option><option value="519">Alien</option><option value="373">Alien Abduction</option><option value="425">Alien Attack</option><option value="568">Alien Clones</option><option value="723">Alien Discipline</option><option value="266">Alien Invasion</option><option value="742">Alien Prison Break</option><option value="363">Alpha Attack</option><option value="520">Alpha Bravo Charlie</option><option value="695">Alphabet Jungle</option><option value="672">Alphabet Soup</option><option value="599">Ammo Ambush</option><option value="567">Animal Rescue - Australia</option><option value="565">Ant Parade</option><option value="554">Ant War</option><option value="600">Armed Invasion</option><option value="715">Asteroid Evasion</option><option value="650">Asteroid Field</option><option value="269">Asteroids</option><option value="277">Astrofighter</option><option value="608">Automaton</option><option value="403">Badaboom</option><option value="798">Ball Master</option><option value="261">Ballistic Biscuit</option><option value="626">Balloon Frenzy</option><option value="513">Balloony</option><option value="223">Bap</option><option value="441">Baseball</option><option value="606">Battle Over Berlin</option><option value="418">Battle Pong</option><option value="472">Battle Tanks</option><option value="224">Battleship</option><option value="435">Battleships</option><option value="712">Big Truck Adventures 2</option><option value="632">Bike Challenge</option><option value="752">Bike Challenge 2</option><option value="769">Billiards</option><option value="620">BIONICLE - Hahli</option><option value="619">BIONICLE - Hewkii</option><option value="621">BIONICLE - Jaller</option><option value="622">BIONICLE - Kongu</option><option value="624">BIONICLE - Matoro</option><option value="623">BIONICLE - Nuparu</option><option value="635">BIONICLE - Pohatu Nuva</option><option value="634">BIONICLE - Vamprah</option><option value="366">Bloomin' Gardens</option><option value="367">Blox Forever</option><option value="229">Bomber</option><option value="533">Bomber Bob</option><option value="737">Boo</option><option value="637">Bop A Roll</option><option value="230">Boulder Dash</option><option value="526">Bowling</option><option value="540">Bowling Master</option><option value="702">Brainiac</option><option value="258">Break Out</option><option value="543">Breakout</option><option value="297">Bridges</option><option value="497">Bubble Bobble The Revival</option><option value="325">Bubble Java</option><option value="577">Bubble Maker</option><option value="406">Bubble Trouble</option><option value="501">Bug</option><option value="431">Bug on a Wire</option><option value="415">Bunch</option><option value="541">Buzzer</option><option value="404">Cable Capers 2</option><option value="451">Cannon Blast</option><option value="421">Canyon Glider</option><option value="426">Carnival Jackpot</option><option value="659">Castle Defender</option><option value="725">Catch A Smoochie</option><option value="642">Caveman Run</option><option value="799">Celebrity Memory</option><option value="502">Chain Reaction</option><option value="305">Checkers</option><option value="662">Cheese Hunt</option><option value="544">Chinese Checkers</option><option value="670">Chomper</option><option value="242">City Defender</option><option value="573">Clowning Around</option><option value="727">Color Burst</option><option value="311">Color Wheel</option><option value="332">Coloring Book</option><option value="514">Colors</option><option value="260">Commando</option><option value="581">Commando</option><option value="676">Cone Crazy</option><option value="475">Connect 2</option><option value="531">Connect 4</option><option value="648">Conquer Antarctica</option><option value="691">Conundrum</option><option value="604">Cosmic Switch</option><option value="387">Couronne Deluxe</option><option value="471">Cowboy Bullet</option><option value="438">Crash Down</option><option value="791">Crazy Boxes</option><option value="379">Crimson Viper</option><option value="422">Crypt Raider</option><option value="703">Crystal Caverns</option><option value="424">Cube Buster</option><option value="704">Cube Crash</option><option value="499">Cubeez</option><option value="446">Cyber Mice</option><option value="222">Dallas</option><option value="411">DaNumba</option><option value="618">Dare Devil</option><option value="643">Dare Devil 2</option><option value="283">Debris</option><option value="699">Deep Sea Dive</option><option value="582">Deluxe Pool</option><option value="664">Desert Ambush</option><option value="456">Detonator</option><option value="666">Diamond Chaser</option><option value="566">Dig Into Dinosaurs</option><option value="244">Digger</option><option value="771">Dino Drop</option><option value="570">Dirt Bike</option><option value="613">Dirt Bike 2</option><option value="673">Dirt Bike 4</option><option value="733">Dirt Bike Championship</option><option value="377">Disc Golf</option><option value="697">Dogfight</option><option value="225">Don's Dugout</option><option value="593">Downhill Dilly</option><option value="306">Dr. Jakob's Ladder</option><option value="780">Drive And Dodge</option><option value="605">Dune Bashing in Dubai</option><option value="641">Dungeon Hunt</option><option value="598">Easter Egg Hop</option><option value="209">Egg Game</option><option value="462">Elastic Soccer</option><option value="683">Extreme Racing</option><option value="707">Extreme Racing 2</option><option value="272">Falling Stars</option><option value="235">Fanball</option><option value="575">Fat Fred</option><option value="674">Field Goal</option><option value="439">Field Goal Challenge</option><option value="657">Final Knockout</option><option value="477">Fish Eat Fish</option><option value="206">Fish Game</option><option value="300">Fiver</option><option value="210">Flag Game</option><option value="718">Flappy</option><option value="355">Flash ABCs</option><option value="509">Flash Ludo</option><option value="482">Flash Minesweeper</option><option value="430">Flashman</option><option value="678">Flower Frenzy</option><option value="528">Fly Plane</option><option value="493">Forest Challenge 2</option><option value="508">Formula Fog</option><option value="764">Four Fighters</option><option value="549">Four Second Fury</option><option value="455">Fowl Words</option><option value="392">Fowl Words 2</option><option value="314">Freefall</option><option value="628">Frog Race</option><option value="529">Frogger</option><option value="667">Fruit Drop</option><option value="287">Galactic Journey</option><option value="428">Galactic Warrior</option><option value="538">Galaxians</option><option value="507">Gem Mania</option><option value="601">Ghost Wrath</option><option value="239">Giana</option><option value="615">Glass Works</option><option value="572">Go Green Go</option><option value="756">Go Home</option><option value="569">Gold Diggers</option><option value="705">Grid</option><option value="625">Halloween</option><option value="751">Halloween Smash</option><option value="559">Halloween Tale</option><option value="801">Hallows Revenge</option><option value="724">Hang The Alien</option><option value="301">Hare and Hounds</option><option value="401">Harvey Wallbanger</option><option value="797">Haunted hybrid</option><option value="585">Heart to Heart</option><option value="609">Hoops Mania</option><option value="372">Hostile Skies</option><option value="775">Hot Shots</option><option value="688">Hungry Bob</option><option value="661">Hungry Elf</option><option value="591">Hunter</option><option value="214">Ice Blox</option><option value="398">Ice Breakout</option><option value="649">Ice Castle Blaster</option><option value="611">Icy Candy</option><option value="515">Indiana Jones</option><option value="278">Invaders</option><option value="241">Iron Giant Puzzle</option><option value="286">Iron Giant Puzzle 2</option><option value="467">Island Defense</option><option value="579">Jack O' Lantern Lab</option><option value="701">Jacked Up</option><option value="731">Jada Bug</option><option value="479">Jewel Thief</option><option value="708">Jig Saw - Mad Dog</option><option value="651">Jigsaw Basketball</option><option value="680">Jigsaw Monkey</option><option value="750">Jigsaw Paradise Island</option><option value="255">Jonah Game</option><option value="234">Jump and Catch</option><option value="466">Jumping Troll</option><option value="766">Jungle Assassin</option><option value="483">Jungle Crash</option><option value="784">Jungle Escape</option><option value="545">Kaboom</option><option value="487">Keep Ups 2</option><option value="523">Keepups</option><option value="638">Kerchunk</option><option value="530">Kickups</option><option value="778">Kilroy</option><option value="365">King of the Hill</option><option value="518">Knockers</option><option value="511">Konnectors</option><option value="597">Labyrinth</option><option value="312">Last Ball</option><option value="734">Last Shot</option><option value="610">Lenny's Australia Day Blast</option><option value="226">Leprechaun Game</option><option value="331">Let's Make Weather</option><option value="433">Letter Rip</option><option value="262">Lickety Splat</option><option value="804">Life Buoys</option><option value="631">Link Five</option><option value="589">Little Bugga</option><option value="410">Little Rocketman</option><option value="492">Little Shepherd</option><option value="603">Logical Dominos</option><option value="227">Long Ball 2</option><option value="746">Love Slide</option><option value="489">Lucky Balls</option><option value="491">Lucky Clover</option><option value="386">Lunar Command</option><option value="500">Ma Balls</option><option value="517">Mad Cows</option><option value="453">Magic Balls</option><option value="700">Magical Awakening</option><option value="671">Major Slant</option><option value="352">Mancala Snails</option><option value="351">Map Race</option><option value="777">Match A Smiley</option><option value="211">Match Shape Game</option><option value="478">Match the Bugz</option><option value="484">Maxims Day Out</option><option value="480">Maxims Seaside Adventure</option><option value="779">Mayan Mask Mayhem</option><option value="320">Maze 2</option><option value="548">Medivoid</option><option value="555">Meerkat Manor</option><option value="660">Mega Jump</option><option value="539">Mega Puzzle</option><option value="290">Memory</option><option value="736">Memory</option><option value="207">Memory Game</option><option value="729">Metal Wall</option><option value="481">Micro Tanks</option><option value="208">Milk Game</option><option value="315">MineSweeper</option><option value="728">Mini Moto</option><option value="474">Mini Nitros</option><option value="524">Mini Pool</option><option value="525">Mini Pool 2</option><option value="532">Mini Putt 3</option><option value="271">Missile Commando 2</option><option value="280">Missile Defender</option><option value="419">Mission Mars</option><option value="427">Monkey Lander</option><option value="800">Monster Dropper</option><option value="681">Monster Hatch</option><option value="675">Monster Munch</option><option value="795">Monsters Gone Wild</option><option value="687">Moodmatch</option><option value="279">Moon Patrol</option><option value="282">Moon Raid</option><option value="330">Mosaic Design</option><option value="576">Mountain Bike</option><option value="755">Mountaineer</option><option value="639">Mr. Mothball</option><option value="744">Mr. Shuster</option><option value="516">Muay Thai</option><option value="781">Multiplication Station</option><option value="721">Mushroom Farm Defender</option><option value="607">My Sweet 16</option><option value="629">My Sweet 16 Photo Shoot</option><option value="633">Mystic Circle</option><option value="485">Naval Gun</option><option value="644">Ninja Pop</option><option value="218">Nobby Nuss</option><option value="370">Nordic Chill</option><option value="265">Numbers</option><option value="488">Numbers</option><option value="714">Ocean Catch Match</option><option value="536">Office Paintball</option><option value="304">Othello</option><option value="735">Othello</option><option value="212">Pac-Man</option><option value="586">Pack a Picnic</option><option value="240">PacTag</option><option value="420">Paint Ball</option><option value="334">Paint Book</option><option value="213">Pang</option><option value="437">Panik</option><option value="450">Park-a-Lot 2</option><option value="459">Pearl Diver</option><option value="783">Pearl Hunt</option><option value="375">PengaPop</option><option value="571">Penguin Push</option><option value="774">Penguinoids</option><option value="469">Pharaoh's Treasure</option><option value="655">Pig on the Rocket</option><option value="584">Pig Wars</option><option value="323">Pinball in a Browser</option><option value="358">Pine Hill Trees</option><option value="682">Ping</option><option value="748">Ping AI</option><option value="590">Ping Pong</option><option value="385">Pipe Down</option><option value="322">Pipe Dream</option><option value="522">PipeMania</option><option value="463">Pixel Platformer</option><option value="221">Pixie Roundup</option><option value="753">Pizza King</option><option value="732">Planet Racer</option><option value="470">Pointless</option><option value="362">Police Chopper</option><option value="713">Poxxle</option><option value="646">Premier League Foosball</option><option value="747">Private George</option><option value="698">Pulse</option><option value="761">Puppet Melee</option><option value="512">Push It</option><option value="309">Puzzle</option><option value="288">Puzzle Game</option><option value="204">Puzzle Game 2</option><option value="768">Pyramid Adventures</option><option value="730">Qube In</option><option value="792">Quick Rotation</option><option value="313">Quod</option><option value="329">Rainbow Paint</option><option value="238">Rapid River</option><option value="376">Red Beard</option><option value="203">Red Bugs</option><option value="765">Red Tassled Fighters</option><option value="694">Redneck Olympics</option><option value="381">Reel Gold</option><option value="627">Remaze</option><option value="602">RetroMania</option><option value="506">Rickshaw Jam</option><option value="806">Rings</option><option value="636">Rise of Atlantis</option><option value="231">Roady</option><option value="757">Rocket Fighter</option><option value="216">Rockslide</option><option value="393">Roll On</option><option value="553">Roll On</option><option value="796">Rubik Cube 2</option><option value="383">Rural Racer</option><option value="773">Rush Hour Madness</option><option value="537">Saloon Shootout</option><option value="414">Samurai Warrior</option><option value="423">Santa Balls 2</option><option value="264">Santa does Christmas</option><option value="630">Santa Golf</option><option value="807">Santa Jump</option><option value="808">Santa Munch</option><option value="390">Save the Sheriff</option><option value="289">Scrambler</option><option value="292">Scrambler 2</option><option value="716">Sequencer</option><option value="434">Shanghai Mahjongg</option><option value="443">Sheepish</option><option value="217">Shooter</option><option value="454">Shootin Hoops</option><option value="359">Shooting Gallery</option><option value="413">Shove It</option><option value="465">Show Jumping</option><option value="640">Sim Taxi</option><option value="374">Skidoo TT</option><option value="464">Sky Shooter</option><option value="760">Skywolf One</option><option value="416">Slacking</option><option value="665">Slidermania</option><option value="588">Slingette</option><option value="408">Slingshot</option><option value="432">Smashing</option><option value="787">Snowball Warrior</option><option value="793">Snowboard Challenge</option><option value="788">Snowboard XS</option><option value="397">Snowboarder XS</option><option value="228">Soccer</option><option value="653">Soccer Ball</option><option value="316">Sokoban</option><option value="293">Solitaire</option><option value="468">Solitarie</option><option value="490">Space Bugs</option><option value="369">Space Escape</option><option value="542">Space Explorer</option><option value="429">Space Fighter</option><option value="396">Space Invaders</option><option value="786">Space Out</option><option value="445">Spank the Frank</option><option value="717">Spark Your Neurons</option><option value="356">Spell A Puzzle</option><option value="679">Sports Smash</option><option value="668">Squeaky</option><option value="692">Squish</option><option value="436">Stan Skates</option><option value="802">Star Fire</option><option value="595">Star Trap</option><option value="457">Starship Eleven</option><option value="645">Steel Tower</option><option value="486">Stone Breaker</option><option value="767">Street Avenger</option><option value="596">Stunt Bike Island</option><option value="382">Sub Commander</option><option value="776">Subtraction Action</option><option value="711">Sundown Shootout</option><option value="219">Super Kid</option><option value="440">Super Santa Ski Jump</option><option value="361">SuperBike GP</option><option value="384">Surfs Up</option><option value="617">Sushi Dash</option><option value="473">Sweet Tooth</option><option value="594">Swoopa</option><option value="504">Table Tennis</option><option value="302">TacTix</option><option value="200">Tail Gunner</option><option value="294">Tangram</option><option value="759">Tank Attack</option><option value="647">Tank Wars</option><option value="521">Tanks</option><option value="580">Taxi Driver</option><option value="709">Techno Bounce</option><option value="754">Temple Guardian</option><option value="763">Temple Guardian 2</option><option value="452">Tennis Ace</option><option value="652">Tetrix</option><option value="684">Tetrix 2</option><option value="720">Tetrix 2 - Egyptian</option><option value="758">The Great Raccoon Escape</option><option value="561">The Lemonade Stand</option><option value="677">The Lost Warrior</option><option value="556">The Time Capsule</option><option value="663">The Viking</option><option value="686">Tic Tac Toe 2</option><option value="354">Time Flies</option><option value="449">Topsy Turvy</option><option value="256">Touch Me</option><option value="476">Tower Defence</option><option value="303">Tower of Hanoi</option><option value="583">Toy Cars</option><option value="353">Trading Places</option><option value="460">Trech2</option><option value="295">Triangle</option><option value="762">Tribal Hero</option><option value="690">Tribal Olympics</option><option value="719">Tribal Olympics 2</option><option value="739">Tribal Slider</option><option value="794">Turkey Attack</option><option value="805">Turtle Bridge</option><option value="237">Tux on the run</option><option value="442">Twiddlestix</option><option value="296">Twins</option><option value="669">UFO 101</option><option value="268">UFO Attack</option><option value="364">UFO Joe</option><option value="740">Ultimate Baseball</option><option value="654">Ultimate Billiards</option><option value="745">Ultimate Billiards 2 </option><option value="738">Ultimate Crush</option><option value="722">Ultimate Football</option><option value="689">Ultimate Matzoh Balls</option><option value="693">Ultimate Mega Hoops</option><option value="749">Ultimate Mega Hoops 2</option><option value="656">Ultimate Racing</option><option value="612">Up Beat</option><option value="785">UR Checkers</option><option value="378">Verti Golf 2</option><option value="461">Virtual Champions League</option><option value="257">Wack a Mole</option><option value="327">Wacky Water Machine</option><option value="772">Wacky Word Search</option><option value="391">Wakeboard XS</option><option value="285">Wall</option><option value="494">War Games</option><option value="267">War Zone</option><option value="273">Warp</option><option value="710">Warrior Quest</option><option value="505">Wheelers</option><option value="399">White House Joust</option><option value="527">Wild Wild west</option><option value="551">Wink the Game</option><option value="616">Wipeout</option><option value="782">Word Cube</option><option value="741">Word Search MX</option><option value="803">World Domination</option><option value="233">Worm Game</option><option value="371">Xraye</option><option value="685">Zap in Space</option><option value="395">Zed</option></select>
+
+										</td>
+									</tr>
+								</tbody></table>
+								<!--End Buttons------------------------------------------------------------------------------------->
+			                    
+
+
+								<div id="subnav_outter" style=" display:none; overflow: hidden; " group="alfyNav">
+								<table width="100%" cellpadding="0" cellspacing="0" style="height:1000px;">
+									<tbody><tr>
+									           
+									<td bgcolor="white" valign="top">
+											
+												<div id="alfynav_games" style="display:none" onmouseover="document.getElementById('subnav_outter').style.display = '';">
+													<table cellpadding="0" cellspacing="0" border="0" style="margin-top: 15px;">
+														<tbody><tr>
+															<td class="navSpacer" style="width:20px;"></td> 
+															
+																<td><a href="/games/action/" class="sub_link">Action</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+																<td><a href="/games/adventure/" class="sub_link">Adventure</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+																<td><a href="/games/arcade/" class="sub_link">Arcade</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+																<td><a href="/games/puzzle/" class="sub_link">Puzzle</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+																<td><a href="/games/mind/" class="sub_link">Mind</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+																<td><a href="/games/classic/" class="sub_link">Classic</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+																<td><a href="/games/sports/" class="sub_link">Sports</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+																<td><a href="/games/learning/" class="sub_link">Learning</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+																<td><a href="/games/kids/" class="sub_link">Kids</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+														</tr>
+													</tbody></table>
+												</div>
+											
+												<div id="alfynav_answers" style="display:none" onmouseover="document.getElementById('subnav_outter').style.display = '';">
+													<table cellpadding="0" cellspacing="0" border="0" style="margin-top: 15px;">
+														<tbody><tr>
+															<td class="navSpacer" style="width:20px;"></td> 
+															
+																<td><a href="/answers/" class="sub_link">Ask a Question</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+																<td><a href="/answers/" class="sub_link">Answer Questions</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+														</tr>
+													</tbody></table>
+												</div>
+											
+												<div id="alfynav_polls" style="display:none" onmouseover="document.getElementById('subnav_outter').style.display = '';">
+													<table cellpadding="0" cellspacing="0" border="0" style="margin-top: 15px;">
+														<tbody><tr>
+															<td class="navSpacer" style="width:20px;"></td> 
+															
+																<td><a href="/myalfy/poll/index.aspx" class="sub_link">Create your own Polls!</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+														</tr>
+													</tbody></table>
+												</div>
+											
+												<div id="alfynav_boards" style="display:none" onmouseover="document.getElementById('subnav_outter').style.display = '';">
+													<table cellpadding="0" cellspacing="0" border="0" style="margin-top: 15px;">
+														<tbody><tr>
+															<td class="navSpacer" style="width:20px;"></td> 
+															
+																<td><a href="/messageboard/" class="sub_link">Post, rant, sound off!</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+														</tr>
+													</tbody></table>
+												</div>
+											
+												<div id="alfynav_coolstuff" style="display:none" onmouseover="document.getElementById('subnav_outter').style.display = '';">
+													<table cellpadding="0" cellspacing="0" border="0" style="margin-top: 15px;">
+														<tbody><tr>
+															<td class="navSpacer" style="width:20px;"></td> 
+															
+																<td><a href="/cool_stuff/quiz/" class="sub_link">Quizzes</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+																<td><a href="/cool_stuff/video/" class="sub_link">Funny Videos</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+																<td><a href="/cool_stuff/music_videos/" class="sub_link">Music Videos</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+																<td><a href="/cool_stuff/movie_trailers/" class="sub_link">Movies</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+																<td><a href="/cool_stuff/video_games/" class="sub_link">Video Game Reviews</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+														</tr>
+													</tbody></table>
+												</div>
+											
+												<div id="alfynav_artscrafts" style="display:none" onmouseover="document.getElementById('subnav_outter').style.display = '';">
+													<table cellpadding="0" cellspacing="0" border="0" style="margin-top: 15px;">
+														<tbody><tr>
+															<td class="navSpacer" style="width:20px;"></td> 
+															
+																<td><a href="/arts_crafts/holidays/" class="sub_link">Holiday Fun</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+																<td><a href="/arts_crafts/clip_art/" class="sub_link">Clip Art</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+																<td><a href="/arts_crafts/coloring_pages/" class="sub_link">Coloring Pages</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+																<td><a href="/arts_crafts/puzzles/" class="sub_link">Puzzles</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+																<td><a href="/arts_crafts/kitchen_table_projects/" class="sub_link">Kitchen Table Projects</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+														</tr>
+													</tbody></table>
+												</div>
+											
+												<div id="alfynav_prizecenter" style="display:none" onmouseover="document.getElementById('subnav_outter').style.display = '';">
+													<table cellpadding="0" cellspacing="0" border="0" style="margin-top: 15px;">
+														<tbody><tr>
+															<td class="navSpacer" style="width:20px;"></td> 
+															
+																<td><a href="/Points/Prize_Center/" class="sub_link">Use your Points to Win!</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+																<td><a href="/Points/Prize_Center/" class="sub_link">Great Prizes Available!</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+														</tr>
+													</tbody></table>
+												</div>
+											
+											<script language="javascript">alfynav_menus[8] = "alfy_nav_default";</script>
+											<div id="alfy_nav_default">
+											
+													<table cellpadding="0" cellspacing="0" border="0" style="margin-top: 15px;">
+														<tbody><tr>
+															<td class="navSpacer" style="width:20px;"></td> 
+															
+																<td><a href="/myalfy/poll/index.aspx" class="sub_link">Create your own Polls!</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+																<td><a href="/cool_stuff/quiz/index.aspx" class="sub_link">Take a QUIZ!</a></td>
+																<td class="navSpacer_subbutton"></td>
+															
+														</tr>
+													</tbody></table>
+																
+											</div>
+											
+											<div id="AlfyNav_MyAlfy">
+												
+													&nbsp;
+												
+											</div>
+									</td>
+									
+									<td style="background-color:#ffffff; width:200px;" valign="top">
+&nbsp;&nbsp;
+									</td> 
+									</tr>
+								</tbody></table>
+								</div>
+						</div>	
+					</td>
+	        </tr>
+	    </tbody></table>
+	    </div>
+
+	    
+
+        
+        </td>
 										</tr>
 										<tr>
 											<td width="100%" style="border-bottom: 1px solid rgb(219,219,219)"><div align="left">
@@ -288,8 +830,8 @@ var ord = axel * 1000000000000000000;
 				Contact Us</a> | <a href="/media/">
 					Advertise with Us</a> | <a href="/recommend/">Send 
 					to a Friend</a> | <a href="/privacy.aspx">Privacy 
-				Policy</a> | <a href="/teachers/">Teachers Section</a> | <a href="mailto:bug@alfy.com">
-				Report a Bug</a> | <a href="mailto:feedback@alfy.com">
+				Policy</a> | <a href="/teachers/">Teachers Section</a> | <a href="/alfynetwork/">
+				The ALFY Network</a> | <a href="mailto:feedback@alfy.com">
 				Send us Feedback</a></font> 
 		<br>
 		<br>
@@ -299,7 +841,7 @@ var ord = axel * 1000000000000000000;
 			Inc., © 2008 Alfy, Inc. All rights reserved. </font>
 		<br>
 		<br>
-		<font style="FONT-SIZE: 9pt; FONT-FAMILY: Arial"><a href="/messageboard/">Kids Chat 
+		<font style="FONT-SIZE: 9pt; FONT-FAMILY: Arial"><a href="/answers/">ALFY Answers</a> | <a href="/messageboard/">Kids Chat 
 				Boards</a> | <a href="/American_Idol_Watch/">American Idol Winners</a> | <a href="/Most_Wanted/">
 				Most Wanted</a> | <a href="/MyAlfy/Poll/">Create Your Own Polls!</a>| <a href="/Points/Prize_Center/">
 				The Prize Center</a></font>
@@ -385,11 +927,29 @@ var ord = axel * 1000000000000000000;
 								</div>
 			
 		
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
-		_uacct = "UA-272706-2";
-		urchinTracker();
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-272706-2");
+pageTracker._trackPageview();
 </script>
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-ffAhVZO2IdWOk";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-ffAhVZO2IdWOk" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-ffAhVZO2IdWOk.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!--HitTail Code-->
+<script src="http://73722.hittail.com/mlt.js" type="text/javascript"></script> 
+<!--End HitTail Code-->
+
+
 
 	
 
