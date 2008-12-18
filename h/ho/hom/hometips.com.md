@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hometips.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531230036id_/http%3A//www.hometips.com/2-privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometips.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218074734id_/http%3A//hometips.com/2-privacypolicy.php) for the most accurate reproduction.*
 
-# Home Tips: The Web's Most Helpful Home Improvement and Repair Site
+# Home Tips - Privacy Policy
 
 Thank you for visiting HomeTips. Your privacy is important to us. We will endeavor to respect and protect it. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this site. Please read this privacy policy carefully so that you understand our privacy practices regarding: 
 
