@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the coull.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620224830id_/http%3A//coull.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coull.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218153547id_/http%3A//coull.com/company/privacy) for the most accurate reproduction.*
 
 # Coull
 
 **Who we are**
 
-In this privacy policy references to we, us and our are Coull ltd. References to our Website or the Website are to www.coull.com.
+In this privacy policy references to we, us and our are Coull. References to our Website or the Website are to www.coull.com.
 
 **What information we collect and how**
 
@@ -33,11 +33,12 @@ We may need to pass the information we collect to other companies for administra
 You have the right to request a copy of any information that we currently hold about you. In order to receive such information please send your contact details including address and payment of £10 to cover administration expenses to the following address:
 
 Privacy  
-Coull Ltd  
-The Television Centre  
-Bath Road  
+Coull   
+fourth floor  
+centre gate  
+colston avenue  
 Bristol  
-BS4 3HG
+BS1 4TR
 
 **Other Websites**
 
