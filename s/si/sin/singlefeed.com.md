@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singlefeed.com privacy policy that was archived on 2007-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070217115621id_/http%3A//www.singlefeed.com%3Fs%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singlefeed.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218074049id_/http%3A//www.singlefeed.com%3Fs%3Dpp) for the most accurate reproduction.*
 
 # SingleFeed - Data feed management, data feed submission, and data feed optimization
 
