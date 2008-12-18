@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the action8cricket.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515111826id_/http%3A//action8cricket.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the action8cricket.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218200302id_/http%3A//www.action8cricket.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,6 +29,6 @@ We will never share/give out personal information of users without prior permiss
 
 You may disable the use of cookies on your browser by disabling the cookies option on the internet option menu of your Internet Explorer/Mozilla/Netscape/Opera or Safari browser .However, the disabling of cookies may lead to limited functionality on our cricket portal. You can cancel your subscription to your news updates and you have total rights on applying for various competitions that many be here on our site from time to time.
 
-For more information on our TOS please visit [F.A.Q.](https://web.archive.org/web/20080515111826id_/http%3A//action8cricket.com/faq.htm)
+For more information on our TOS please visit [F.A.Q.](https://web.archive.org/web/20081218200302id_/http%3A//www.action8cricket.com/faq.htm)
 
 In case of any doubts or further queries please contact us at [action8cricket@gmail.com](mailto:action8cricket@gmail.com)
