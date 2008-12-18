@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scosche.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615155130id_/http%3A//www.scosche.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scosche.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218135322id_/http%3A//www.scosche.com/privacy) for the most accurate reproduction.*
 
-# Scosche Industries : Car Audio Accessories, iPod Accessories, Bluetooth Wireless Accessories, EFX Hyperformance, Accumat Sound Damping, Soundkase audio backpacks, CD and DVD storage systems
+# Scosche Industries : Car Audio Accessories, iPod Accessories, Bluetooth Wireless Accessories, EFX Hyperformance, Accumat Sound Damping, Soundkase audio backpacks, CD and DVD storage systems at Scosche.com
 
 Welcome to the Scosche website. You may visit this site anonymously, without revealing any personal information. At times, Scosche will request personal information when necessary to provide a product, service, or information. This information may include your name, account number, shipping address, billing address, telephone numbers, credit card information and e-mail address.  By providing such information, you are agreeing to allow Scosche to use the information provided to complete the transaction. Scosche will not disclose your personal information to third parties without your consent.
 
