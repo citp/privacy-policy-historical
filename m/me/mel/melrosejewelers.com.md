@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melrosejewelers.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614220041id_/http%3A//www.melrosejewelers.com/content/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melrosejewelers.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218142749id_/http%3A//www.melrosejewelers.com/content/privacy.htm) for the most accurate reproduction.*
 
 # Melrose Jewelers USA Privacy Notice - Rolex Watches For Sale at Wholesale Prices, Used Mens & Lady Rolex Watches, Preowned Rolex President, Presidential & Rolex Datejust Watches
 
