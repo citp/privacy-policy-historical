@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicknearn.net privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604043111id_/http%3A//www.clicknearn.net/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicknearn.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218172921id_/http%3A//www.clicknearn.net/policy.htm) for the most accurate reproduction.*
 
 # ::.. Welcome to Clicknearn.net ..:: Policy
 
@@ -8,7 +8,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 **The Information We Collect:**
 
-This notice applies to all information collected or submitted on ClickNearn.net website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+This notice applies to all information collected or submitted on ClickNEarn.Net website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
 Name:
 
