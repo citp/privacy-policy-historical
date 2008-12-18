@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the taxmanagementindia.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501053246id_/http%3A//www.taxmanagementindia.com/Web/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxmanagementindia.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218093923id_/http%3A//www.taxmanagementindia.com/Web/privacy-policy.asp) for the most accurate reproduction.*
 
-# Tax Management India . Com - Privacy Policy
+# Privacy Policy
 
 Please note that the practices of www.taxmanagementindia.com, with respect to data collected and used by [www.taxmanagementindia.com](http://www.taxmanagementindia.com/) in connection with this website are governed by this online privacy policy ("Privacy Policy") as amended from time to time. Please regularly review our Privacy Policy. If you have objections to the Privacy Policy, you should immediately discontinue use of the Site and the Products and Services enabled by the Site.
 
