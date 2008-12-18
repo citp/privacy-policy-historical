@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the redeye.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509070731id_/http%3A//www.redeye.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redeye.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218134435id_/http%3A//www.redeye.com/privacy_policy.php) for the most accurate reproduction.*
 
-# 
-
-  
-Privacy Policy
+# Privacy policy for RedEye International
 
 At RedEye we respect your privacy and are committed to protecting the confidentiality of your personal information. Our aim is to be as clear and open as possible about what we do and why. 
 
@@ -29,7 +26,7 @@ Understanding the way you interact with our site is very important to us which i
 
 Respecting your opt-in and opt-out preferences, RedEye may use the information we hold about you to write to, email or telephone you about other products and services offered by RedEye and our carefully selected partners. Occasionally we may incorporate cookie-generated data together with form submitted data to communicate with you in the most appropriate way.
 
-RedEye may also compile and provide aggregate statistics about our site users, information requests, traffic patterns and any other related site information to reputable third parties. However, RedEye will not provide any information of this nature to any third party that could identify you as an individual. RedEye reserves the right to store, own and retain any personal data that is submitted by you via the web site or other means. By using and registering with our web site you consent to the collection and use of this information by RedEye. The Data Protection Act gives you the right to request a copy of the information we hold about you. You can do this by emailing redeyeprivacy@redeye.com
+RedEye may also compile and provide aggregate statistics about our site users, information requests, traffic patterns and any other related site information to reputable third parties. However, RedEye will not provide any information of this nature to any third party that could identify you as an individual. RedEye reserves the right to store, own and retain any personal data that is submitted by you via the web site or other means. By using and registering with our web site you consent to the collection and use of this information by RedEye. The Data Protection Act gives you the right to request a copy of the information we hold about you. You can do this by emailing [privacy@redeye.com](mailto:privacy@redeye.com)
 
 **Confidentiality and security of your data**
 
@@ -47,4 +44,4 @@ This site contains links to other websites. RedEye is not responsible for the pr
 
 **Tell us what you think**
 
-Your views on privacy are important to us. If you have comments or questions email [redeyeprivacy@redeye.com](mailto:redeyeprivacy@redeye.com)
+Your views on privacy are important to us. If you have comments or questions email [privacy@redeye.com](mailto:redeyeprivacy@redeye.com)
