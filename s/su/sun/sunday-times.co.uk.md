@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunday-times.co.uk privacy policy that was archived on 2007-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071018033605id_/http%3A//www.nidp.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunday-times.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218111926id_/http%3A//www.nidp.com) for the most accurate reproduction.*
 
 # News International Data Protection
 
@@ -40,6 +40,8 @@ When you provide personal information to The Times Literary Supplement the data 
 When you provide personal information to thelondonpaper or thelondonpaper.com the data controller is NI Free Newspapers Limited.
 
 When you provide personal information to milkround.com, secondpost.com, diversitymilkround.com, fsmilkround.com, milkroundtools.com or workazoo.com (the "Milkround Online Network") the data controller is Milkround Online Limited.
+
+When you provide personal information to Globrix or globrix.com the data controller is Globrix Limited.
 
 If another company is the data controller, this will be made clear when you provide your personal information.
 
