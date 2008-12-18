@@ -1,31 +1,25 @@
-> *The following text is extracted and transformed from the kenexa.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509091421id_/http%3A//www.kenexa.com/en/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenexa.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218093258id_/http%3A//www.kenexa.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Kenexa.com
+# Kenexa - Privacy Policy
 
-  |  | 
+[](http://www.truste.org/ivalidate.php?url=www.kenexa.com&sealid=103)
 
-**I.   INTRODUCTION**
+**I. INTRODUCTION**
 
 The following sets forth Kenexa’s and its subsidiaries’ Privacy Policy, which contains four separate sections as follows: 
 
-  * This Introduction; 
-
-
-  * Kenexa Online Privacy Policy, which addresses the privacy practices applicable to usage of the Kenexa websites; 
-
-
-  * Kenexa's ASP Privacy Policy, which addresses the privacy practices applicable to information processed by Kenexa in its role as an ASP provider; 
-
-
-  * A General Section, which applies to all of our privacy policies. 
+  * This Introduction;
+  * Kenexa Online Privacy Policy, which addresses the privacy practices applicable to usage of the Kenexa websites;
+  * Kenexa's ASP Privacy Policy, which addresses the privacy practices applicable to information processed by Kenexa in its role as an ASP provider;
+  * A General Section, which applies to all of our privacy policies.
 
 
 
 Kenexa respects individual privacy. Kenexa strives to collect and use personal information in a manner consistent with the laws of the countries in which it does business. Kenexa abides by the Safe Harbor Principles developed by the U.S. Department of Commerce and the European Commission. 
 
-Kenexa is a licensee of the TRUSTe Privacy Program and the TRUSTe EU Safe Harbor Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This Privacy Policy covers the Web site Kenexa.com and our on-line URC site which is available only to clients of Kenexa.  Because Kenexa wants to demonstrate its commitment to its users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. 
+Kenexa is a licensee of the TRUSTe Privacy Program and the TRUSTe EU Safe Harbor Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This Privacy Policy covers the Web site Kenexa.com and our on-line URC site which is available only to clients of Kenexa. Because Kenexa wants to demonstrate its commitment to its users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this Policy, you should first contact [Privacy@kenexa.com](mailto:Privacy@kenexa.com).  If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <http://www.truste.org/consumers/watchdog_complaint.php>, by mail at WatchDog Complaints, TRUSTe, 685 Market Street, Suite 270, San Francisco, CA, USA 94105, by phone at 415-520-3400, or by fax at 415-520-3420.  If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <http://www.truste.org/consumers/watchdog_complaint.php> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
+If you have questions or concerns regarding this Policy, you should first contact [Privacy@kenexa.com](mailto:Privacy@kenexa.com). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <http://www.truste.org/consumers/watchdog_complaint.php>, by mail at WatchDog Complaints, TRUSTe, 685 Market Street, Suite 270, San Francisco, CA, USA 94105, by phone at 415-520-3400, or by fax at 415-520-3420.  If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <http://www.truste.org/consumers/watchdog_complaint.php> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
 
 **Legal Disclaimer**  
 We may disclose Personal Information when required by law or regulation or in the good faith belief that such action is necessary in order to conform to the edicts of the law, comply with legal mandates, or to protect the rights, property, or personal safety of Kenexa, its employees, users and the public. 
@@ -36,8 +30,8 @@ This Online Privacy Policy covers use of the site www.kenexa.com and our on-line
 
 We may use personal information we obtain relating to you, including but not limited to your name, mailing address, phone number and email address, for the purposes of contacting you, conducting internal business research, and carrying out other marketing activities. 
 
-**Registering On-line   **  
-In order to download documents on this Web site or apply for a job, you must first complete the registration form and/or create a user name and password.  During registration you are required to give contact information (such as name and email address). This information can be used to contact you about our services or a job posting. 
+**Registering On-line**  
+In order to download documents on this Web site or apply for a job, you must first complete the registration form and/or create a user name and password. During registration you are required to give contact information (such as name and email address). This information can be used to contact you about our services or a job posting.
 
 We may collect prospective employee information through use of our own application for internal job placement. That information will be treated according to local regulations governing employment practices.
 
@@ -60,8 +54,8 @@ We may request certain information from you (such as your name, address, telepho
 
 If you use a bulletin board, blog, or chat room on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.  We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-We may post customer testimonials on our web site which may contain personally identifiable information such as the customer's name.  We obtain the customer's consent prior to posting the testimonial.  
-** **  
+We may post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We obtain the customer's consent prior to posting the testimonial.
+
 Kenexa is the sole owner of the information collected on www.kenexa.com.
 
 **Order Processing**  
@@ -72,32 +66,32 @@ We use this information for billing purposes and to fill your orders.  If we ha
 Some Kenexa events will require you to pay to attend. Kenexa uses third parties to process the credit card transactions. The billing information is not stored on Kenexa’s servers.
 
 **Third Parties**  
-We use third parties ( _i.e_., emailing or direct mail services, marketing services, Web analytics) to assist with the marketing services on our site.  When you register on the website or purchase services from us on-line, we will share your name and address as necessary for the third party to provide service.  These third parties are not permitted to use such information for their own purposes _._
+We use third parties ( _i.e_., emailing or direct mail services, marketing services, Web analytics) to assist with the marketing services on our site.  When you register on the website or purchase services from us on-line, we will share your name and address as necessary for the third party to provide service. These third parties are not permitted to use such information for their own purposes.
 
-Kenexa does not share, sell, trade, or rent your personal information to third parties for their promotional purposes.   
+Kenexa does not share, sell, trade, or rent your personal information to third parties for their promotional purposes.
 
-If you choose to use our referral service to tell a friend about our Kenexa Connection newsletter, we will ask you for that person’s name and email address.  We will automatically send that person a one-time email inviting him or her to visit the site. Kenexa does not store this information.  Your friend may contact us at [Privacy@kenexa.com](mailto:Privacy@kenexa.com) to request that we remove this information from our database.
+If you choose to use our referral service to tell a friend about our Kenexa Connection newsletter, we will ask you for that person’s name and email address. We will automatically send that person a one-time email inviting him or her to visit the site. Kenexa does not store this information. Your friend may contact us at [Privacy@kenexa.com](mailto:Privacy@kenexa.com) to request that we remove this information from our database.
 
 **Maintenance of Data and Passwords**  
 For our web systems on which you have a user account, you have access to your information to update and maintain your profile. It is solely your responsibility to maintain the confidentiality of your password. If you believe your password has been compromised, please contact [Privacy@Kenexa.com](mailto:Privacy@Kenexa.com).
 
-If your personally identifiable information changes, or if you no longer desire to receive marketing materials, you may correct, update, delete or deactivate it by emailing [Privacy@kenexa.com](mailto:Privacy@kenexa.com).  Kenexa will respond to your request within 30 days of receiving the request. If your personally identifiable information changes, or if you no longer desire our service, you may update this information by making the change on our member information page or emailing us at [Privacy@Kenexa.com](mailto:Privacy@Kenexa.com). To access your information you must login by clicking on “Log in” in the upper right hand corner. If you don’t remember your password, it can be emailed to you by using the “forgot password” function. Once logged on, click “My Account” in the upper right hand corner. This page will allow you to make changes to your contact information, update subscriptions and change your password.
+If your personally identifiable information changes, or if you no longer desire to receive marketing materials, you may correct, update, delete or deactivate it by emailing [Privacy@kenexa.com](mailto:Privacy@kenexa.com). Kenexa will respond to your request within 30 days of receiving the request. If your personally identifiable information changes, or if you no longer desire our service, you may update this information by making the change on our member information page or emailing us at [Privacy@Kenexa.com](mailto:Privacy@Kenexa.com). To access your information you must login by clicking on “Log in” in the upper right hand corner. If you don’t remember your password, it can be emailed to you by using the “forgot password” function. Once logged on, click “My Account” in the upper right hand corner. This page will allow you to make changes to your contact information, update subscriptions and change your password.
 
 We may provide access via a hyperlink in an email or a web page or through on-line support when you need to update or correct your contact information or, for clients, to report a bug or problem with their system. 
 
 **Security**  
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
 If you have any questions about security on our Web site, you can send email us at [Privacy@kenexa.com](mailto:Privacy@kenexa.com).
 
 **Cookies and Google Analytics**  
 We use cookies on this site. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
-We use both session ID cookies and/or persistent cookies.  We use session cookies to make it easier for you to download documents on the site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
+We use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to download documents on the site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
 
 Our web analytics product uses cookies to track page views and visitors on the site. This information is only used to analyze the traffic on our websites by Kenexa. This information is not tied to personally identifiable information.
 
-If you chose to do so, we set a persistent cookie to store your passwords, so you don’t have to enter it more than once.  Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
+If you chose to do so, we set a persistent cookie to store your passwords, so you don’t have to enter it more than once.  Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as document downloads will be limited. 
 
@@ -113,9 +107,9 @@ We reserve the right to modify this Privacy Policy at any time, so please review
 
 **III.       Kenexa's Application Service Provider (ASP) Personal Information Privacy Policy**
 
-Kenexa provides our customers with applications that facilitate many Human Resource related requirements. These applications are not a part of our corporate web site. Kenexa serves as a Data Processor for the clients who use these applications. More specifically, Kenexa does not own the information that is submitted to our applications. The information that is submitted to our applications will be subject to our clients’ privacy policies. 
+Kenexa provides our customers with applications that facilitate many Human Resource related requirements. These applications are not a part of our corporate web site. Kenexa serves as a Data Processor for the clients who use these applications. More specifically, Kenexa does not own the information that is submitted to our applications. The information that is submitted to our applications will be subject to our clients’ privacy policies.
 
-Kenexa participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <http://www.truste.org/consumers/watchdog_complaint.php>, fax at 415-520-3420, or mail at Watchdog Complaints, TRUSTe, 685 Market Street, Suite 270, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <http://www.truste.org/consumers/watchdog_complaint.php> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities. Any questions, comments or complaints about the data practices (including without limitation compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of a client for whom Kenexa processes data should be addressed to that client. 
+Kenexa participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <http://www.truste.org/consumers/watchdog_complaint.php>, fax at 415-520-3420, or mail at Watchdog Complaints, TRUSTe, 685 Market Street, Suite 270, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <http://www.truste.org/consumers/watchdog_complaint.php> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities. Any questions, comments or complaints about the data practices (including without limitation compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of a client for whom Kenexa processes data should be addressed to that client.
 
 The following information discloses how information is submitted via our applications and how we handle the information for our clients who are the owners of this data. 
 
@@ -161,6 +155,3 @@ Kenexa is committed to protecting the privacy needs of children and we encourag
 Last updated on: ­­ February 12, 2008
 
 © 2008 Kenexa. All Rights Reserved
-
-|  |    
----|---|---|---|---
