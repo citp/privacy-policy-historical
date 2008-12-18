@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the messagelabs.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609033848id_/http%3A//www.messagelabs.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the messagelabs.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218033445id_/http%3A//www.messagelabs.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
