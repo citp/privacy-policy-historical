@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the scotchbrand.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621063949id_/http%3A//www.3m.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotchbrand.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218132344id_/http%3A//solutions.3m.com/wps/portal/3M/en_US/WW2/Country/Corp/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-  
-
+# 3M United States: Privacy Policy
 
 3M Global Internet Privacy Policy  
 
@@ -35,7 +32,7 @@ Return to Top
 
 By using a 3M Internet Site or providing personal information to us, you are consenting to the collection, use and disclosure of your personal information as described in this Policy and any applicable Country or Web Site Privacy Statements.
 
-If you do not consent to the collection, use and disclosure of your personal information as described in this Policy (and any applicable Country or Web Site Privacy Statements), do not use 3M Internet Sites.
+If you do not consent to the collection, use and disclosure of your personal information as described in this Policy (and any applicable Country or Web Site Privacy Statements), do not use 3M Internet Sites or Contact 3M/Contact Us forms.
 
 **Limitations on the Collection, Use and Disclosure of Personal Information**
 
@@ -127,7 +124,7 @@ Return to Top
 
 **Access to Personal Information**
 
-You may review, correct and update the personal information that you provide to us at a 3M Internet Site by using the feedback mechanisms provided at a particular 3M Internet Site, by clicking on this [feedback link](https://web.archive.org/wps/portal/3M/en_US/WW/Country/Corp/Contact/3M/) or by writing to us at 3M, Global Internet Privacy Policy, Business Conduct and Compliance, 220-11W-02, 3M Center, 3M Company, St. Paul, MN 55144-1000.  
+You may review, correct and update the personal information that you provide to us at a 3M Internet Site by using the feedback mechanisms provided at a particular 3M Internet Site, by clicking on this [feedback link](http://solutions.3m.com/wps/portal/3M/en_US/WW/Country/Corp/Contact/3M/) or by writing to us at 3M, Global Internet Privacy Policy, Business Conduct and Compliance, 220-11W-02, 3M Center, 3M Company, St. Paul, MN 55144-1000.  
 
 
 Return to Top  
@@ -142,7 +139,7 @@ Return to Top
 
 **Children and Parents**
 
-3M Internet Sites are generally not intended for persons under 13 years of age. 3M does not knowingly solicit or collect personal information from or about children on its Internet Sites except as permitted under applicable law. If your child has submitted personal information and you would like to request that such information be deleted from our records, you may do so by using the feedback mechanisms provided at a particular 3M Internet Site, by clicking on this [feedback link](https://web.archive.org/wps/portal/3M/en_US/WW/Country/Corp/Contact/3M/) or by writing to us at 3M, Global Internet Privacy Policy, Business Conduct and Compliance, 220-11W-02, 3M Center, 3M Company, St. Paul, MN 55144-1000.  
+3M Internet Sites are generally not intended for persons under 13 years of age. 3M does not knowingly solicit or collect personal information from or about children on its Internet Sites except as permitted under applicable law. If your child has submitted personal information and you would like to request that such information be deleted from our records, you may do so by using the feedback mechanisms provided at a particular 3M Internet Site, by clicking on this [feedback link](http://solutions.3m.com/wps/portal/3M/en_US/WW/Country/Corp/Contact/3M/) or by writing to us at 3M, Global Internet Privacy Policy, Business Conduct and Compliance, 220-11W-02, 3M Center, 3M Company, St. Paul, MN 55144-1000.  
 
 
 Return to Top  
@@ -150,7 +147,7 @@ Return to Top
 
 **Questions about this Policy or our Privacy Statements**
 
-If you have any questions about this Policy or a Country or Web Site Privacy Statement or our use of your personal information, please contact us by clicking on this [feedback link](https://web.archive.org/wps/portal/3M/en_US/WW/Country/Corp/Contact/3M/) or write to us at 3M, Global Internet Privacy Policy, Business Conduct and Compliance, 220-11W-02, 3M Center, 3M Company, St. Paul, MN 55144-1000.  
+If you have any questions about this Policy or a Country or Web Site Privacy Statement or our use of your personal information, please contact us by clicking on this [feedback link](http://solutions.3m.com/wps/portal/3M/en_US/WW/Country/Corp/Contact/3M/) or write to us at 3M, Global Internet Privacy Policy, Business Conduct and Compliance, 220-11W-02, 3M Center, 3M Company, St. Paul, MN 55144-1000.  
 
 
 Return to Top  
