@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netiq.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610053256id_/http%3A//www.netiq.com/about_netIQ/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netiq.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218204516id_/http%3A//www.netiq.com/about_netIQ/privacypolicy.asp) for the most accurate reproduction.*
 
 # NetIQ: Privacy Policy
 
