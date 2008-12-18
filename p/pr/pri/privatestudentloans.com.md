@@ -1,151 +1,73 @@
-> *The following text is extracted and transformed from the privatestudentloans.com privacy policy that was archived on 2008-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080423025541id_/http%3A//www.privatestudentloans.com/private-student-loans-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privatestudentloans.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218070617id_/http%3A//www.privatestudentloans.com/privacy.php) for the most accurate reproduction.*
 
 # Private Student Loans from the Student Loan Network
 
-This site, as a wholly owned and operated subsidiary of the Edvisors Network, Inc., is happy to provide and comply with the privacy policy for The Edvisors Network. Our corporate homepage on the Web is located at [www.Edvisors.com](http://www.edvisors.com/ "Edvisors Online Education Programs"). The full text of our privacy policy is available on the Web at [Edvisors Privacy Statement](http://www.edvisors.com/about/privacy.html). 
+Edvisors is committed to protecting the privacy of your personal information. As part of that commitment, we provide this policy to explain our privacy practices, including what information we collect, how we use it, and what choices you have about collection and use of your personal information. We urge you to review this entire policy. 
 
-## Opt-Out and Contact
+This privacy policy covers all Edvisors sites, including all [Student Loan Network](http://www.studentloannetwork.com/student-resources/links.php) sites. This policy also covers User Information received by Edvisors that is submitted on forms accessible from Edvisors sites and managed by third-party partners. We invite you to contact us if you have questions about this policy. You may write to us at: 
 
-This privacy policy is all inclusive for all Edvisors Network properties, including the **[Student Loan Network](http://www.studentloannetwork.com/ "Student Loans")**.
+Edvisors   
+1250 Hancock Street, Suite 703N   
+Quincy, MA 02169 USA 
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
-    
-    
-    Edvisors 
-    1250 Hancock Street, Suite 703N
-    Quincy, MA 02169 
-    United States of America
-    
+You may also [email](mailto:privacy@edvisors.com) us. 
 
-You may contact us by [email](mailto:privacy@edvisors.com) or call us at 617-328-1565. 
+If you are not able to resolve questions or concerns you have about this policy or our privacy practices by using our [opt-out page](http://www.studentloannetwork.com/opt-out.php) or by contacting us directly, you can contact the [Better Business Bureau](http://reports.bosbbb.org/Boston/Public/Reports/BrandedReport.aspx?firm=88239). Edvisors is a member of the BBB Reliability Program. 
 
-## Dispute Resolution and Privacy Seals
+_Please note: If you apply for a loan, loan consolidation service, or other product or service, you may be redirected to the website of one of our third-party service providers (banks, lenders, facilitators, servicers, guarantors, and marketers); other links on our sites may also direct you to third party websites. This policy covers only what we do with the information you or the third-party provides to us; we are not responsible for, nor can we control the privacy practices and policies of these third party entities. We encourage you to review their policies carefully._
 
-We have the following privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern. 
+## What Information Do You Collect?
 
-  * **BBB** : The Better Business Bureau 
+We collect information about you as you use Edvisors sites, including: 
 
-
-
-## Additional Information
-
-This policy is valid until 1 Sep, 2008 at 12:00:00 EST. 
-
-## Data Collection
-
-We utilize third-party services that provide data analyses and audience segmentation services and allow them and other third parties to place cookies onto your computer when you visit our websites. These companies may use information about the search terms you use and your visits to this and other websites in order to provide advertisements about goods and services of interest to you. In order to maintain your privacy we do not allow companies to use personally identifiable information (such as name, address, email address or telephone numbers) and we do not allow any collection or analysis of data from any secure application pages. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/managing/opt_out.asp>.
-
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 1 data group. 
-
-## Group "Customer Information"
-
-We collect the following information: 
-
-  * HTTP cookies 
+  * **User Information** , which you provide when you register on an Edvisors site, subscribe to an email newsletter, provide us with your contact information, or apply to receive information from a financial service provider through Edvisors. User Information may also include information you provide on an application other than Confidential Application Information described below. User Information includes, for example, your name, address, email address, school, graduation year, grade level, date of birth, and income range. 
+  * **Technical Information** , which we collect automatically from you and your computer about how you use the Edvisors sites. This includes your IP address, the referring URL, browser type, and other usage information, along with information about your use of the Edvisors websites. 
+  * **Confidential Application Information** , which consists of certain information you submit as part of an application. Specifically, this includes your Social Security Number, your driver's license information, your credit information, and the names and contact information of your references. This information is used to process your application and may be shared with financial services companies to provide the services you request, in accordance with that company's privacy policy. 
 
 
 
-At the user's option, we may also collect the following data: 
+We are not informed of the basis for credit-based loan decisions from financial service providers. 
 
-  * Physical contact information 
-  * Purchase information 
-  * Financial information 
+Edvisors uses "cookies" and other technologies to help us learn more about how our users use our sites and to recognize you when you return. Cookies are text files that are placed in your computer's browser, and that can be used to help recognize you as an Edvisors user. Cookies may store user preferences and other information, and can be deleted or blocked by changing the settings on your Web browser. 
 
+## How Do You Protect My Information?
 
+We take the security of your personal information very seriously, and have implemented policies and procedures designed to safeguard it. We share your information with third parties only in accordance with this policy. We require all third party advertising and marketing partners with whom we share your information to make reasonable efforts to protect it. 
 
-This data will be used for the following purposes: 
+## How Do You Use My Information?
 
-  * Completion and support of the current activity. 
-  * Web site and system administration. The user is allowed to **opt-out** of this usage. 
-  * Research and development. The user is allowed to **opt-out** of this usage. 
-  * One-time tailoring. The user is allowed to **opt-out** of this usage. 
-  * Anonymous user analysis. The user is allowed to **opt-out** of this usage. 
-  * Anonymous user profiling and decision-making. The user is allowed to **opt-out** of this usage. 
-  * User analysis. The user is allowed to **opt-out** of this usage. 
-  * User profiling and decision-making. The user is allowed to **opt-out** of this usage. 
-  * Contacting visitors for marketing of services or products. The user is allowed to **opt-out** of this usage. 
-  * Telemarketing. The user is allowed to **opt-out** of this usage. 
-  * Historical preservation. The user is allowed to **opt-out** of this usage. 
-  * Provided to select partners for sales and marketing. The user must **opt-out** to this usage. 
+We use your information to provide you the services your request, to improve Edvisors sites and your experience on our sites, and to personalize the content you receive. Specifically: 
+
+  * We use **User Information** to provide the services you request, such as newsletters, to customize our sites, and to improve your user experience and our services. 
+  * We use **Technical Information** to operate, administer, and improve our sites, and to customize your experience. 
+  * We use **Confidential Application Information** solely to facilitate your transaction with the financial service provider. We do not use this information for any other purpose. 
 
 
 
-This data will be used by ourselves and our agents. In addition, the following types of entities will receive this information: 
+## How Do You Share My Information?
 
-  * Others following different practices. The user must **opt-in** to this data sharing. 
+**Edvisors Sites:** The sites that constitute Edvisors all access and use the same information about you for the purposes described above. 
 
+**Financial Service Providers:** We share User and Confidential Application Information with financial service providers in order to process applications you submit. 
 
+**Advertisers and Marketing Partners:** From time to time we also share User Information and Technical Information with third parties whose products and services we think may be of interest to you. If you prefer not to receive marketing materials from third parties, you may opt out. 
 
-The following explanation is provided for why this data is collected: 
+**Online Advertising Networks:** We may also permit third party advertising networks to place cookies on your computer that enable them to deliver relevant advertising to you when you visit websites in their network. This will not increase the number of advertisements you see when you visit our sites or other websites, but will increase the likelihood that those advertisements you do see on some sites are relevant to you. To learn more about how this works, please visit <http://www.networkadvertising.org/>. While these advertising networks may obtain some of your Technical Information, we do not share your name or other information that can personally identify you, or any data from loan application pages. You may opt out of this data collection by visiting <http://www.networkadvertising.org/managing/opt_out.asp> and following the instructions on that site. 
 
-> Used for purchases of services and products, as well as informational updates. 
+**Other:** We also may share your personal information in response to a valid law enforcement request or legal process, to protect our or third party interests or property, or as otherwise permitted or required by law. 
 
-## Cookies
+## What Choices Do I Have About the Use of My Information?
 
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
+To edit any of your privacy preferences, please visit our [opt-out page](http://www.studentloannetwork.com/opt-out.php). On that page, you may choose to opt out of our use of your information for marketing purposes or change your email delivery options. Due to special rules affecting Vermont residents, if you register with a Vermont address, we will not share your personally-identifiable information with third party marketers. 
 
-Our site makes use of cookies. Cookies are used for the following purposes: 
+If you wish to opt out of the use of your Technical Information by Online Advertising Networks, please visit <http://www.networkadvertising.org/managing/opt_out.asp>; this link is also available on our [opt-out page](http://www.studentloannetwork.com/opt-out.php). You can also disable or delete cookies directly on your web browser. Please see your browser's "help" content if you are not sure how to do this. 
 
-  * Site administration 
-  * Contacting users 
-  * Completing the user's current activity 
-  * User targeting 
-  * Pseudononymous analysis 
-  * Pseudonym-based decision-making 
-  * User analysis 
-  * Individual-based decision-making 
-  * Research and development 
-  * Other (Provided to select partners for sales and marketing) 
+If you have any problems or questions regarding your privacy preferences or opt-out options, and cannot resolve them using our [opt-out page](http://www.studentloannetwork.com/opt-out.php), please [email](mailto:privacy@edvisors.com) us. 
 
+Please note that you cannot opt out of the use of your information for completion and support of your loan or loan consolidation applications. You also cannot opt out of sharing your information to comply with valid law enforcement requests, legal process, to protect our interests or property or those of third parties, or as otherwise permitted or required by law. 
 
+## Changes to this Policy
 
-* * *
+We may need to modify this privacy policy from time to time to reflect our current privacy practices, so please check back to view any changes. When you register or submit your email address on any Edvisors site, you acknowledge receipt of this privacy policy and agree to receive future notices about it online. We make this policy continuously available online. We will inform you of material modifications to this policy in the future by posting changes on the Edvisors sites and/or sending you email where appropriate. 
 
-## Compact Policy Summary
-
-The compact policy which corresponds to this policy is: 
-
-CP="NON DSP COR CURa ADMo DEVo TAIo PSAo PSDo IVAi IVDi CONo HISo TELo OTPi OUR OTRi BUS PHY PUR FIN NAV HEA" 
-
-The following table explains the meaning of each field in the compact policy. 
-
-Field  |  Meaning   
----|---  
-`CP=` |  This is the compact policy header; it indicates that what follows is a P3P compact policy.   
-`NON` |  No access is available to collected information.   
-`DSP` |  The policy contains at least one dispute-resolution mechanism.   
-`COR` |  Violations of this policy will be corrected.   
-`CURa` |  The data is used for completion of the current activity.   
-`ADMo` |  The data is used for site administration, unless the user chooses otherwise.   
-`DEVo` |  The data is used for research and development, unless the user chooses otherwise.   
-`TAIo` |  The data is used for tailoring the site, unless the user chooses otherwise.   
-`PSAo` |  The data is used for pseudononymous analysis, unless the user chooses otherwise.   
-`PSDo` |  The data is used for pseudononymous decision-making, unless the user chooses otherwise.   
-`IVAi` |  The data is used for analysis, including knowledge of the visitor's identity, if the user selects it.   
-`IVDi` |  The data is used for decision-making, including knowledge of the visitor's identity, if the user selects it.   
-`CONo` |  The data is used for contacting the user, unless the user chooses otherwise.   
-`HISo` |  The data is used for historical archival purposes, unless the user chooses otherwise.   
-`TELo` |  The data is used for telemarketing, unless the user chooses otherwise.   
-`OTPi` |  The data is used for other purposes, if the user selects it.   
-`OUR` |  The data is given to ourselves and our agents.   
-`OTRi` |  The data is given to other organizations with different privacy practices, if the user selects it.   
-`BUS` |  Our business practices specify how long the data will be kept.   
-`PHY` |  Physical contact information is collected.   
-`PUR` |  Purchase information is collected.   
-`FIN` |  Financial information is collected.   
-`NAV` |  Navigation and clickstream data is collected.   
-`HEA` |  Health-related information is collected.   
-  
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
-
-## Policy Evaluation
-
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
-
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
-
-**Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings. 
-
-## Fraud and Identity Theft Deterrence
-
-For the safety and security of our valued customers, information including visitor data and any application data is recorded and stored, and will be provided to law enforcement officials upon request. Customers may not opt out of information collection for the purposes of providing law enforcement with relevant data for investigation. 
+This policy was last modified on May 19, 2008 
