@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the americares.org privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614165911id_/http%3A//www.americares.org/tools/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americares.org privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219004839id_/http%3A//www.americares.org/tools/privacypolicy.html) for the most accurate reproduction.*
 
-# AmeriCares Privacy Policy- AmeriCares International
+# AmeriCares Privacy Policy- AmeriCares
 
-AmeriCares has established this privacy policy to demonstrate our commitment to maintaining the confidentiality and privacy of information about visitors to our web sites and donors.  This policy explains why we collect particular information and how we will protect your personal privacy within our web sites. The following also discloses our information gathering and dissemination practices for the web sites located at [www.americares.org](https://web.archive.org/), [www.americareshomefront.org](http://www.americareshomefront.org/), [www.campamerikids.org](http://www.campamerikids.org/), and [www.americaresfreeclinics.org](http://www.americaresfreeclinics.org/). These are collectively referred to below as “the Site.” 
+AmeriCares has established this privacy policy to demonstrate our commitment to maintaining the confidentiality and privacy of information about visitors to our web sites and donors.  This policy explains why we collect particular information and how we will protect your personal privacy within our web sites. The following also discloses our information gathering and dissemination practices for the web sites located at [www.americares.org](http://www.americares.org/), [www.americareshomefront.org](http://www.americareshomefront.org/), [www.campamerikids.org](http://www.campamerikids.org/), and [www.americaresfreeclinics.org](http://www.americaresfreeclinics.org/). These are collectively referred to below as “the Site.” 
 
 In order to fully understand your rights we encourage you to read this Privacy Policy. Our privacy policies may be changed from time to time, simply by posting such changes on our site, so we encourage you to check back regularly. Any such change will be effective immediately upon posting.
 
@@ -50,7 +50,7 @@ Attention: Webmaster
 
 Stamford, CT  06902
 
-You can also send an email to: webmaster@americares.org 
+You can also send an email to: [info@americares.org](mailto:info@americares.org)
 
 © 2008 AmeriCares | 88 Hamilton Avenue | Stamford, CT 06902    
 (800) 486-HELP | (800) 486-4357
