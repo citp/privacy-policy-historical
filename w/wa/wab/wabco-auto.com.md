@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wabco-auto.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608005744id_/http%3A//www.wabco-auto.com/service/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wabco-auto.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218105318id_/http%3A//www.wabco-auto.com/service/privacy_policy) for the most accurate reproduction.*
 
 # WABCO's Privacy Policy - WABCO
 
