@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the rachaelraymag.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027144807id_/http%3A//www.rachaelraymag.com/content/18674) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rachaelraymag.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219005035id_/http%3A//www.rachaelraymag.com/in-this-issue/rachaelraymagcom-privacy-policy/article.html) for the most accurate reproduction.*
 
-# Rachael Ray - RachaelRayMag.com Privacy Policy
+# Rachaelraymag.com Privacy Policy
 
   
   
-The policies below are applicable to rachaelraymag.com (edwrr.com) and other Web sites on the World Wide Web originating in the United States and owned and operated by The Reader's Digest Association, Inc. (collectively "RD sites") unless otherwise indicated. Our Privacy Policy will tell you what information we collect when you visit RD sites, how we protect it and what choices you have about how that information is used. We urge you to read our entire Privacy Policy so that you will understand both our commitment to you and your privacy, and how you can participate in that commitment.
+The policies below are applicable to RachaelRaymag.com, the online home of _Every Day with Rachael Ray_ magazine and other Web sites on the World Wide Web originating in the United States and owned and operated by The Reader's Digest Association, Inc. (collectively "RD sites") unless otherwise indicated. Our Privacy Policy will tell you what information we collect when you visit RD sites, how we protect it and what choices you have about how that information is used. We urge you to read our entire Privacy Policy so that you will understand both our commitment to you and your privacy, and how you can participate in that commitment.
 
 Collection of Personally Identifiable Information  
-Some functions and services offered through RD sites require that you provide certain Personally Identifiable information (PII). PII that we collect includes email address, name, postal address, telephone number, date of birth and credit card number. We collect this PII for example, when you order a product, enter a contest or sweepstakes, request a catalog, or register for a mailing list. You can make changes to your PII by logging in and clicking "Update My Profile, or by contacting customer service at Reader's Digest, PO Box 50005, Prescott, AZ 86301-5005.
+Some functions and services offered through RD sites require that you provide certain Personally Identifiable information (PII). PII that we collect includes email address, name, postal address, telephone number, date of birth and credit card number. We collect this PII for example, when you order a product, enter a contest or sweepstakes, request a catalog, or register for a mailing list. For RachaelRaymag.com, you can make changes to your PII by clicking to our [Newsletter Preferences](https://web.archive.org/rachael-ray-newsletter-preferences.do), or by contacting customer care at Reader's Digest, PO Box 50005, Prescott, AZ 86301-5005.
 
 Receiving Email and Postal Correspondence  
-Our online Membership Registration form and other online submission forms contain clearly identified checkboxes indicating that by submitting the form you will be entitled to receive email correspondence from Reader's Digest, our affiliates and partners unless you opt out of receiving email correspondence by unchecking each box. Each time you submit your email address your privacy preferences will be updated. Web site visitors over the age of 18 who have submitted their names, mailing addresses, or email addresses but have not opted out may occasionally receive email correspondence from Reader's Digest, our affiliates and partners, containing information such as newsletters or special offers. If you do not wish to receive these messages, you can check the box that allows you to opt out. If you have already submitted an online Membership Registration form and wish to change your preferences, see the section below on Opting Out.
+The online Membership Registration form and other online submission forms for RachaelRaymag.com contain clearly identified checkboxes indicating that by submitting the form you will be entitled to receive email correspondence from RachaelRaymag.com, _Every Day with Rachael Ray_ magazine, and other Reader's Digest affiliates and partners unless you opt out of receiving email correspondence by unchecking each box. Each time you submit your email address your privacy preferences will be updated. Web site visitors over the age of 18 who have submitted their names, mailing addresses, or email addresses but have not opted out may occasionally receive email correspondence from _Every Day with Rachael Ray_ , and other Reader's Digest affiliates and partners, containing information such as newsletters or special offers. If you do not wish to receive these messages, you can check the box that allows you to opt out. If you have already submitted an online Membership Registration form and wish to change your preferences, see the section below on Opting Out.
 
-Except as noted below, Reader's Digest will not share email addresses we collect through RD sites with any unaffiliated third parties unless we specify this at the point of the collection. Except as otherwise noted, unless you consent to the disclosure of your personally identifiable information, only we and our affiliates, our technical consultants, third-party auditors and other third parties who make RD sites available, enhance their functionality, or provide associated services and/or who deal with you in delivering content, samples, products, and gifts and prizes, have access to this information and we require them to agree that they are covered by this policy.
+Except as noted below, we will not share email addresses we collect through any RD sites (including RachaelRaymag.com) with any unaffiliated third parties unless we specify this at the point of the collection. Except as otherwise noted, unless you consent to the disclosure of your personally identifiable information, only we and our affiliates, our technical consultants, third-party auditors and other third parties who make RD sites available, enhance their functionality, or provide associated services and/or who deal with you in delivering content, samples, products, and gifts and prizes, have access to this information and we require them to agree that they are covered by this policy.
 
 Occasionally, Reader's Digest may make names and postal addresses we collect through the RD sites available to reputable companies whose products and/or services may interest you, unless you opt out of being included in our postal mailing list. (See the section below on opting out of postal mailings).
 
@@ -21,11 +21,11 @@ Please note that we do reserve the right to transfer your personally identifiabl
 Reader's Digest may also provide aggregate statistics about our customers, traffic patterns and related site information to reputable third parties for statistical analysis, but these statistics will include no personal information.
 
 Opting Out of Receiving Email and Postal Correspondence  
-Receiving email messages and postal mail from Reader's Digest, our affiliates and partners is optional. You may choose not to receive certain email, even after granting prior permission, or you may wish to correct information you previously provided. If you do not wish to receive email or wish to correct information you provided to Reader's Digest and you know you are a member of edwrr.com, please go to the [Update My Profile](http://www.rd.com/updateprofile.do) section of rd.com; otherwise please [click here](http://www.rd.com/privacyOptionAction.do) to go to the [E-Mail Preference Center](http://www.rd.com/privacyOptionAction.do) form. Reader's Digest will use commercially reasonable efforts to delete records from our database when we receive requests to do so; however, because of possible retention of a residual copy in a system backup file, we cannot guarantee deletion in every instance.
+Receiving email messages and postal mail from _Every Day with Rachael Ray_ and other Reader's Digest, affiliates and partners is optional. You may choose not to receive certain email, even after granting prior permission, or you may wish to correct information you previously provided. If you do not wish to receive email or wish to correct information you provided to _Every Day with Rachael Ray_ and you know you are a member of RachaelRaymag.com, please go to the [Newsletter Preferences](https://web.archive.org/rachael-ray-newsletter-preferences.do) page. _Every Day with Rachael Ray_ will use commercially reasonable efforts to delete records from our database when we receive requests to do so; however, because of possible retention of a residual copy in a system backup file, we cannot guarantee deletion in every instance.
 
-We reserve the right to send you certain communications such as service announcements and administrative messages, relating to Reader's Digest and rd.com that are necessary to our relationship with you.
+We reserve the right to send you certain communications such as service announcements and administrative messages, relating to _Every Day with Rachael Ray_ and RachaelRaymag.com that are necessary to our relationship with you.
 
-If you prefer not to receive postal mailings from Reader's Digest or from reputable companies we may share your name and postal address with, write to us at the address below.
+If you prefer not to receive postal mailings from _Every Day with Rachael Ray_ , Reader's Digest , or from other reputable companies we may share your name and postal address with, write to us at the address below.
 
 We also may share personal information we obtain from you through offline sources (such as when you respond to a survey, subscribe to our magazine, or buy one of our products). You may opt out of receiving postal communications or telemarketing calls or emails, regardless of how we obtained the information, by writing to the address below.
 
@@ -33,13 +33,13 @@ Reader's Digest
 PO Box 50005  
 Prescott, AZ 86301-5005
 
-You may also use the address above for general customer service questions.
+You may also use the address above for general customer care questions.
 
 Newsletters  
-You can unsubscribe from our newsletter(s) by: 
+You can unsubscribe from any RachaelRaymag.com newsletter(s) by: 
 
   * Clicking on the unsubscribe link at the bottom of your newsletter. 
-  * Unchecking the appropriate box on the [E-Mail Preference Center](http://www.rd.com/privacyOptionAction.do) form. 
+  * Unchecking the appropriate box on the [Newsletter Preferences](https://web.archive.org/rachael-ray-newsletter-preferences.do) form. 
 
 Online Policy for Individuals 17 Years Old and Younger  
 No personal information should be submitted or posted on RD sites by individuals 17 years of age or younger without their parent's or guardian's permission. We may request name, address, phone number, email address and date of birth from your child for contest participation so that we may notify him or her if selected a winner. In the event we do so, we will request your consent prior to collection.
@@ -48,7 +48,7 @@ No information collected from online guests 17 years of age or younger is used f
 
 Note to parents: If your child has submitted his or her name through any RD site, and you wish to review that information, to have it corrected or deleted from our records, or to refuse to permit further collection or use of the child's information, please communicate your wishes to us at Reader's Digest, PO Box 50005, Prescott, AZ 86301-5005, or via email to Parents.rdw@rd.com or call us at 1-800-934-0977. Reader's Digest pledges to exert reasonable efforts to assure that the information is deleted as soon as possible.
 
-Some Reader's Digest contests are open to individuals 17 years old and younger if the official rules so provide. In such contests, if a winner is 17 years old or younger, notification and prizes are sent to the parent or guardian who is also required to complete all necessary documents.
+Some Reader's Digest contests, including some _Every Day with Rachael Ray_ contests are open to individuals 17 years old and younger if the official rules so provide. In such contests, if a winner is 17 years old or younger, notification and prizes are sent to the parent or guardian who is also required to complete all necessary documents.
 
 We encourage parents to be aware of their children's online activities, and to learn about software that can filter objectionable materials. We cannot and will not request more information from your child than is reasonably necessary to participate in any online activity.
 
@@ -56,12 +56,12 @@ Advertisers
 If you submit your name through a form on any RD site to request information from an advertiser or other third party, Reader's Digest is not responsible for any marketing or other use of your name by the third party. To learn more about any other company or organization's privacy policies, we suggest visiting its Web site or contacting it by postal mail or telephone.
 
 Discussion Boards  
-Please be aware that discussion board postings are not private. Others may capture your email address and send you email messages if you post your email address. Reader's Digest cannot control such actions by others; however, we urge you and any other discussion board user not to use our forums as a source of email addresses for sending unsolicited messages. For more information on our discussion boards, please see [Instructions and Terms of Use](http://communitytalk.rd.com/webx?termsOfUse@@.ee93238) in the Community Talk section of rd.com as well as our [Terms of Use](https://web.archive.org/content/18775/) for the site.
+Please be aware that discussion board postings are not private. Others may capture your email address and send you email messages if you post your email address. We Reader's Digest cannot control such actions by others; however, we urge you and any other discussion board user not to use our forums as a source of email addresses for sending unsolicited messages. For more information on our discussion boards, please see our [Terms of Use](https://web.archive.org/in-this-issue/rachaelraymagcom-terms-of-use/article.html) for the site.
 
 Only individuals 18 years of age or older may participate in our discussion boards.
 
 Opinion Polls  
-Opinion polls on rd.com and other RD sites, such as the "Your Two Cents" feature, are anonymous. We do not correlate votes submitted via such polls with names or individual email addresses, unless otherwise disclosed at the point of collection.
+Opinion polls on RachaelRaymag.com and other RD sites are anonymous. We do not correlate votes submitted via such polls with names or individual email addresses, unless otherwise disclosed at the point of collection.
 
 Searches  
 Keyword search functions are provided on the RD sites as a convenience to our users. We do not collect your name or email address as a result of using a search feature. We may keep logs of all words searched to help us learn what kinds of information rd.com visitors are seeking, and to improve our service to visitors.
@@ -70,18 +70,18 @@ Other Interactive Features
 When you use an interactive feature on our site, if there is no clearly identified information indicating that you may receive correspondence and a link to this Privacy Policy, we will not save your name or email address.
 
 Email Messages  
-If you send Reader's Digest an email message, we may retain that message and your email address, as well as any response we send you.
+If you send _Every Day with Rachael Ray_ or RachaelRaymag.com an email message, we may retain that message and your email address, as well as any response we send you.
 
 Hyperlinks to Other Web Sites  
 RD sites may include links to Web sites of other companies unaffiliated with Reader's Digest. Please note that we are unable to review all such sites and take no responsibility for the content or privacy practices of any unaffiliated Web site.
 
 Cookies and Server Logs  
-Reader's Digest, related Web hosting providers, and advertisers and ad serving and tracking companies sometimes utilize "cookie" technology. Cookies are bits of data stored on your hard drive that contain no personally identifying information but which help enhance your Web-browsing experience. Not all Web browsers accept cookies, and those that do usually provide a preference or setting that allows you to refuse cookies. If your browser does not accept cookies, you may still enjoy RD sites.
+_Every Day with Rachael Ray_ , related Web hosting providers, and advertisers and ad serving and tracking companies sometimes utilize "cookie" technology. Cookies are bits of data stored on your hard drive that contain no personally identifying information but which help enhance your Web-browsing experience. Not all Web browsers accept cookies, and those that do usually provide a preference or setting that allows you to refuse cookies. If your browser does not accept cookies, you may still enjoy RD sites.
 
 Server logs capture certain non-personally identifying data, such as the time and date of a Web visit, the browser and operating system being used, and the Web URL a user linked from. This information is used in aggregate form to help us plan system enhancements when necessary and to provide content that is compatible with our visitors' Web-browsing systems.
 
 Credit Cards  
-Reader's Digest uses credit card numbers submitted to us through rd.com for payment purposes only, and not for marketing purposes. Your credit card information will be saved for future purchases, as long as you log in. We utilize industry standard secure encryption technology to reasonably assure the privacy and security of the credit card numbers of anyone who places online orders with us.
+_Every Day with Rachael Ray_ uses credit card numbers submitted to us through RachaelRaymag.com for payment purposes only, and not for marketing purposes. Your credit card information will be saved for future purchases, as long as you log in. We utilize industry standard secure encryption technology to reasonably assure the privacy and security of the credit card numbers of anyone who places online orders with us.
 
 Privacy Precaution Warning  
 Please note that no data transmission over the Internet is 100% secure. As a result, we cannot guarantee the security of the information that you transmit via our online services.
@@ -95,7 +95,7 @@ Reader's Digest wants your personal information to remain as secure as reasonabl
 Acceptance of Privacy Policy  
 By using this site, you signify your agreement to the RD sites privacy policy. You further authorize the export of personal information to the USA and its storage and use as specified in this policy when you provide such information to us. If you do not agree to this policy, please do not use this site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please bookmark this page and check it periodically. We will post any changes to this privacy policy on our site. Your continued use of any RD site following the posting of any changes to these terms shall mean that you have accepted those changes. This policy and all of our legal obligations are subject to the laws of New York and the USA, regardless of the location of any user. Any claims or complaints must be filed in the USA in the State of New York.
 
-Policy last updated December 2004
+Policy last updated April 2008
 
 Legal Notice and Terms and Conditions  
-Please also read the RD sites [Terms of Use](https://web.archive.org/content/18775/) to understand the additional terms and conditions which apply to use of the sites.
+Please also read the RD sites [Terms of Use](https://web.archive.org/in-this-issue/rachaelraymagcom-terms-of-use/article.html) to understand the additional terms and conditions which apply to use of the sites.
