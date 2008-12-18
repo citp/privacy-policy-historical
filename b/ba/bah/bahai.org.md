@@ -1,12 +1,5 @@
-> *The following text is extracted and transformed from the bahai.org privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630172759id_/http%3A//www.bahai.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bahai.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218153010id_/http%3A//www.bahai.org/privacy) for the most accurate reproduction.*
 
-# Privacy - The Bahá’í Faith
+# The Bahá'ís: Privacy Policy
 
-In this web site we try to ensure your privacy. We only collect personal information provided to us by you on a voluntary basis, in order to respond to your queries and to send you any additional information and material that you request. Visitors to this Website are not tracked, except to produce aggregate statistical data which will not identify individual users. Where we must use cookies to provide essential functionality, these are not used to track your use of the site or to store personally-identifiable information. Steps have been taken to ensure that all information collected from you will remain secure, free from unauthorised access, use or disclosure. Please keep in mind that if you leave this site via a link, the other site may have a different policy regarding privacy. We will occasionally update this Privacy Statement and encourage you to periodically review our Statement to keep informed. If you wish to correct your personal information, or have any questions regarding this policy, please send an email to [www@bahai.org](mailto:www@bahai.org).
-
- 
-
-  * [Home](https://web.archive.org/) >
-  * Privacy
-
-
+In this web site we try to ensure your privacy. We only collect personal information provided to us by you on a voluntary basis, in order to respond to your queries and to send you any additional information and material that you request. Visitors to this Website are not tracked, except to produce aggregate statistical data which will not identify individual users. Where we must use cookies to provide essential functionality, these are not used to track your use of the site or to store personally-identifiable information. Steps have been taken to ensure that all information collected from you will remain secure, free from unauthorised access, use or disclosure. Please keep in mind that if you leave this site via a link, the other site may have a different policy regarding privacy. We will occasionally update this Privacy Statement and encourage you to periodically review our Statement to keep informed. If you wish to correct your personal information, or have any questions regarding this policy, please send an email to [www@bahai.org](mailto:www@bahai.org). 
