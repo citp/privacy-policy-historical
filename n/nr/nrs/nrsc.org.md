@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrsc.org privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518055531id_/http%3A//www.nrsc.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrsc.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218181648id_/http%3A//www.nrsc.org/privacy) for the most accurate reproduction.*
 
 # National Republican Senatorial Committee
 
