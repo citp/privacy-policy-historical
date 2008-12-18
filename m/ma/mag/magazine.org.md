@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magazine.org privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608081749id_/http%3A//www.magazine.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazine.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218135412id_/http%3A//www.magazine.org/privacy_policy/index.aspx) for the most accurate reproduction.*
 
-# MPA Privacy Policy
+# Magazine Publishers of America - Privacy Policy
 
 This is the Website of the **Magazine Publishers of America** , the industry association for the consumer magazine industry. 
 
