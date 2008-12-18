@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pmq.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613115611id_/http%3A//www.pmq.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmq.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218163513id_/http%3A//www.pmq.com/privacy.php) for the most accurate reproduction.*
 
-# PMQ's Pizza Magazine
+# PMQ's Pizza Magazine - The #1 Pizza Trade Magazine and Official Website of the Pizza Industry
 
 Our postal address is   
 904 North Lamar Blvd. Suite 2  
