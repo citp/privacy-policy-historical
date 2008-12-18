@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acousticguitar.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624122848id_/http%3A//www.acousticguitar.com/leveltwo/PrivacyStatement-181.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acousticguitar.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218184107id_/http%3A//www.acousticguitar.com/leveltwo/PrivacyStatement-181.aspx) for the most accurate reproduction.*
 
 # Acoustic Guitar Central: Privacy Policy
 
