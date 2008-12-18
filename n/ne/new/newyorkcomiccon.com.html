@@ -1,0 +1,928 @@
+<!--The following is the downloaded HTML source of the newyorkcomiccon.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218112721id_/http%3A//www.nycomiccon.com/app/homepage.cfm%3Fappname%3D100453%26moduleID%3D2570%26LinkID%3D17915) for the most accurate reproduction.-->
+
+<html><head><meta name="WT.alias" content="New York Comic-Con Privacy Policy">
+			
+				<meta name="WT.langid" content="1">
+			
+
+			
+			<script language="Javascript"><!--
+			gVersion="1.0";
+			//-->
+			</script>
+			<script language="Javascript1.1"><!--
+			gVersion="1.1";
+			//-->
+			</script>
+			<script language="Javascript1.2"><!--
+			gVersion="1.2";
+			var RE={"%09":/\t/g, "%20":/ /g, "%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+			//-->
+			</script>
+			<script language="Javascript1.3"><!--
+			gVersion="1.3";
+			//-->
+			</script>
+			<script language="Javascript1.4"><!--
+			gVersion="1.4";
+			//-->
+			</script>
+			<script language="Javascript1.5"><!--
+			gVersion="1.5";
+			//-->
+			</script>
+			<script language="Javascript">gDomain = '12.47.195.94';</script>
+			<script language="Javascript" src="/app/js/dcs_tag.js"></script>
+			<noscript>
+				<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://12.47.195.94/njs.gif?dcsuri=/nojavascript&WT.js=No">
+			</noscript>
+		
+
+
+
+	
+	
+
+	<script language="Javascript">
+  		// convert all characters to lowercase to simplify testing
+	    var agt=navigator.userAgent.toLowerCase();
+
+	 	// *** BROWSER VERSION ***
+	    // Note: On IE5, these return 4, so use is_ie5up to detect IE5.
+	    var is_major = parseInt(navigator.appVersion);
+	    var is_minor = parseFloat(navigator.appVersion);
+
+	    // Note: Opera and WebTV spoof Navigator.  We do strict client detection.
+	    // If you want to allow spoofing, take out the tests for opera and webtv.
+	    var is_nav  = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1)
+	                && (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1)
+	                && (agt.indexOf('webtv')==-1));
+	    var is_nav2 = (is_nav && (is_major == 2));
+	    var is_nav3 = (is_nav && (is_major == 3));
+	    var is_nav4 = (is_nav && (is_major == 4));
+	    var is_nav4up = (is_nav && (is_major >= 4));
+	    var is_navonly      = (is_nav && ((agt.indexOf(";nav") != -1) ||
+	                          (agt.indexOf("; nav") != -1)) );
+	    var is_nav5 = (is_nav && (is_major == 5));
+	    var is_nav5up = (is_nav && (is_major >= 5));
+
+	    var is_ie   = (agt.indexOf("msie") != -1);
+	    var is_ie3  = (is_ie && (is_major < 4));
+	    var is_ie4  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")==-1) );
+	    var is_ie4up  = (is_ie  && (is_major >= 4));
+	    var is_ie5  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")!=-1) );
+	    var is_ie5up  = (is_ie  && !is_ie3 && !is_ie4);
+
+	    // KNOWN BUG: On AOL4, returns false if IE3 is embedded browser
+	    // or if this is the first browser window opened.  Thus the
+	    // variables is_aol, is_aol3, and is_aol4 aren't 100% reliable.
+	    var is_aol   = (agt.indexOf("aol") != -1);
+	    var is_aol3  = (is_aol && is_ie3);
+	    var is_aol4  = (is_aol && is_ie4);
+
+	    var is_opera = (agt.indexOf("opera") != -1);
+	    var is_webtv = (agt.indexOf("webtv") != -1);
+
+	   	var is_js;
+	    if (is_nav2 || is_ie3) is_js = 1.0
+	    else if (is_nav3 || is_opera) is_js = 1.1
+	    else if ((is_nav4 && (is_minor <= 4.05)) || is_ie4) is_js = 1.2
+	    else if ((is_nav4 && (is_minor > 4.05)) || is_ie5) is_js = 1.3
+	    else if (is_nav5) is_js = 1.4
+	    // NOTE: In the future, update this code when newer versions of JS
+	    // are released. For now, we try to provide some upward compatibility
+	    // so that future versions of Nav and IE will show they are at
+	    // *least* JS 1.x capable. Always check for JS version compatibility
+	    // with > or >=.
+	    else if (is_nav && (is_major > 5)) is_js = 1.4
+	    else if (is_ie && (is_major > 5)) is_js = 1.3
+	    // HACK: no idea for other browsers; always check for JS version with > or >=
+	    else is_js = 0.0;
+
+		//For email validation on forms, use onSubmit="return isReady(this)"
+		function isEmail(elm) {
+			if (elm.value.indexOf("@") != "-1" &&
+				elm.value.indexOf(".") != "-1" &&
+				elm.value != "")
+			return true;
+			else return false;
+		}
+		function isReady(form) {
+			if (isEmail(form.email) == false) {
+				alert("Please enter a valid email address");
+				form.email.focus();
+				return false;
+			}
+			return true;
+		}
+
+		//issue 5759 MM 13 April For email validation on email group forms"
+		function isReadyNow(button) {
+			var form = button.form;
+			if (isEmail(form.email) == false) {
+				alert("Please enter a valid email address");
+				form.email.focus();
+			return false;
+			}
+			var postPage = "NewsLetterSubscribe.cfm?appname=100453&action=action&";
+			postPage = postPage + "&" + button.name + "=" + button.name;
+			var URLLink = postPage + '&email=' + form.email.value;
+			newwindow = window.open(URLLink,"Information","width=400, height=300, toolbar=no ,menubar=no");
+			return false;
+			}
+		//END MM 13 April email group
+
+		//For PopUp Window for ICR 348 for Add to Outlook window.
+		function AddtoOutlook(iID){
+			var contentPage = "AddtoOutlook/ACT_ADDTOOUTLOOK.cfm?appname=100453";
+			var URLLink = contentPage + '&iOutlookID=' + iID;
+			var width1=2;
+			var height1=2;
+			newwindow = window.open(URLLink,"AddtoOutlook","toolbar = no, width="+width1+", height="+height1+", status=no, location = no, scrollbars = no, resizable = no, menubar = no, screenx=0,left=1000 screeny=0,top=1000");
+		}
+
+		//For PopUp Window displaying the module content
+		function openpopup1(width1,height1,moduleid1){
+			var contentPage = "popupcontent.cfm?appname=100453";
+			var URLLink = contentPage + '&moduleid=' + moduleid1;
+			newwindow = window.open(URLLink,"Content","toolbar = no, width="+width1+", height="+height1+", status=no, scrollbars = yes, resizable = yes, menubar = no");
+		}
+
+		//For PopUp Window displaying module and link content
+		function openpopup2(width1,height1,moduleid1,linkid1) {
+			var contentPage = "popupcontent.cfm?appname=100453";
+			var URLLink = contentPage + '&moduleid=' + moduleid1 +'&linkid=' + linkid1;
+			Popup1 = window.open(URLLink,"Content","toolbar = no, width="+width1+", height="+height1+", status=no, scrollbars = yes, resizable = yes, menubar = no");
+		}
+
+		
+		//For PopUp Window displaying module, link and form content
+		function openpopup3(width1,height1,moduleid1,linkid1,date1) {
+			var contentPage = "popupcontent.cfm?appname=100453";
+			var URLLink = contentPage + '&moduleid=' + moduleid1 + '&linkid=' + linkid1 + '&date=' + date1;
+			Popup1 = window.open(URLLink,"Content","toolbar = no, width="+width1+", height="+height1+", status=no, scrollbars = yes, resizable = yes, menubar = no");
+		}
+
+		
+		// This handles all the PDF creation for any given link in the system
+		function generatePDFSample (pdftogenerate,eventid,issample) {
+		var urlToOpen = 'pdfengine/generatepdf.cfm?pdf=' + pdftogenerate + '&appname=' + eventid + '&sample=' + issample;
+		window.open(urlToOpen,'filegen','toolbars=no, scrollbars=yes, resizable = yes');
+		}
+
+		
+
+		function openReferAFriend(){
+			ReferThis=window.open("ReferAFriend.cfm?appname=100453&querystring=appname=100453@moduleID=2570@LinkID=17915","ReferThis","status=yes,toolbar=no,scrollbars=no,height=600,width=460,resizable=yes"); 
+			
+			
+		}
+	</script>
+
+	
+	
+
+		<title>New York Comic Con - February 6-8, 2009</title>
+
+		<meta name="Description" content="New York ComicCon, New York's Comic Convention 2008, has the inside scoops on hundreds of the entertainment world’s most cutting-edge products, from comics and anime  and manga to graphic novels and games and gaming.">
+
+		<meta name="Keywords" content="Comics, comic convention, new york comic con, new york comiccon, ny comiccon, comic show, comic book show, anime convention, new york anime, new york comics, anime con, nyc comics, ny comicon, new york comicon, comic con new york, new york comiccon, ny comiccon, east coast comic show, new york comic show, comic book artists, comic book creators">
+		      
+				<style>
+				<!--
+				div {font: 8pt Arial}
+				div.white {font: 8pt Arial; color:white}
+				a.white {font: 8pt Arial; color:white;font-weight:bold}
+				a.blue {font: 8pt Arial; color:blue;font-weight:bold}
+				a.black {TEXT-DECORATION:none; color:black;}
+				A.black:visited  {TEXT-DECORATION:none; color:black;}
+				b.thick {font-weight: bold;}
+				PrevewTxt {}
+
+				/* INCLUDE STANDARD STYLES FOR RSS */
+				.main {
+					background-color:white;
+					border:1px solid black;
+					text-align:center;
+					margin-bottom:5px;
+				}
+				.feedContent {
+					color:black;
+					text-align:left;
+					background-color:white;
+					border-top:1px solid black;
+				}
+				.feedTable {
+					color:black;
+					text-align:left;
+					background-color:white;
+				}
+				.feedHeader {
+					background-color:white;
+					padding-left:2px;
+					color:black;
+					font-weight:bold;
+				}
+				.feedLink {
+					color:black;
+				}
+				.feedDiv {
+					font-weight: bold;
+					text-align:left;
+					color:black;
+				}
+				-->
+				</style>
+	
+	<style type="text/css">
+	  <!--
+	  .redtext {color: Red;}
+	.blacktext {color: Black;}
+	  BODY  {
+	  	font-family : 12pt Arial;
+		}
+	   BODY {color: }
+
+	  td  {
+	  	font-family : Arial;
+		color : 
+	      }
+
+	  
+	  	 td.background {
+	   		background-repeat : repeat;
+	   		}
+	  
+
+	    td.Headercell{
+	   font : 9pt;
+	   color :  
+	   }
+		tr.HeaderRow{
+		background : ;
+		}
+		tr.OnRow{
+		background : #eeeeee;
+		}
+		tr.OffRow{
+		background : #ffffff;
+		}
+	  td.small {
+	  	font : 9pt Arial;
+		color : 
+		}
+
+	  SELECT  {
+	  	font : 9pt Arial;
+	  }
+
+	   A.side  {font: 9pt Arial;
+	  	text-decoration : none;
+	  	color : Blue;
+	  }
+
+	  A.side:active {color: Red; }
+
+	   A.navi  {
+	   	color : ;
+	   }
+	  A.navi:visited  {
+	  	color : Purple;}
+
+	    A.navi:hover{
+	   	text-decoration : underline;
+	   	color : ;
+	   }
+
+	  A.side:visited  {
+	  	color : Purple;
+	  }
+
+	   A  {
+	  	text-decoration : none;
+	  	color : Blue;
+	  }
+
+	  A:active {color: Red; }
+
+	  A:visited  {
+	  	color : Purple;
+	  }
+
+	  td.test {background-color: blue;}
+	   td.infobarCustom{
+		 background-color : #b5111b;
+		}
+	   table.infobar{
+			padding : 0px 0px 0px 0px;
+			width : 150px;
+			border: 0px inset ;
+		}
+		td.infobarHeader{
+		 background-color : ;
+		 color : ;
+		}
+		td.infobarEventsLeft{
+		background-color : White;
+		border-bottom: 1px solid Black;
+		}
+		td.infobarEventsRight{
+		background-color : White;
+		border-bottom: 1px solid Black;
+		border-left: 1px solid Black;
+		}
+		span.infoBarDate{
+		background-color : White;
+		}
+		span.infoBarVenue{
+		background-color : White;
+		}
+		A.EventList  {
+	   	text-decoration : none;
+	   	color : Blue;
+	   }
+	   A.EventList :active {color: Red; }
+
+	   A.EventList :visited  {
+	   	color : Purple;
+	   }
+
+	   A.EventList :hover  {
+	   	text-decoration : underline;
+	   	color : Red;
+	   }
+		tr.fsspacer{
+			height : 5px;
+		}
+	  -->
+
+
+	  </style>
+	
+				<style>
+				
+div#websitesearch {font-family: Arial; font-size: 9px; font-weight: bold ; width: 100%;}
+
+div#websitesearch-header { font-size: 9px; color: #999999; margin-bottom:10px; margin-top:5px; }
+div#websitesearch-footer { font-size: 9px; color: #999999; margin-bottom:10px; margin-bottom:5px; }
+.websitesearch-title { font-weight: bold; font-size: 15px;  text-transform:uppercase; }
+.websitesearch-space {height: 10px; }
+.websitesearch-line { color:#000000; margin-top:10px; margin-bottom:10px; clear: both; border-bottom: 1px solid gray;}
+
+/* START Below header and below shortline styles for basic search */
+div#websitesearch-basic { text-align: right; color:Blue; font-family: Arial;  font-size: 11px; font-weight: bold; }
+div#websitesearch-basic TABLE {width: 100%;  padding-bottom: 0px; padding-top: 0px;}	
+div#websitesearch-basic TD { text-align: right; color:Blue; font-family: Arial;  font-size: 11px; font-weight: bold; padding-bottom: 5px; padding-top: 5px;}
+div#websitesearch-basic a { text-align: right; text-decoration: underline; font-family:  Arial;  font-size: 11px; font-weight: bold ; color:Blue; padding-bottom: 5px; padding-top: 5px;}
+div#websitesearch-basic a:hover { text-align: right; text-decoration: underline; font-family:  Arial;  font-size: 11px; font-weight: bold ; color:Red; padding-bottom: 5px; padding-top: 5px;}
+div#websitesearch-basic INPUT.keyword {font-family:  Arial; font-size: 11px; color: #000000; font-weight: normal; height: 19px; width: 115px; background-color: #FFFFFF; padding-left: 2px;}
+div#websitesearch-basic INPUT.go {font-family:  Arial; font-size: 11px; font-weight: normal; color: #000000; font-weight: normal; cursor: hand; margin-right: 5px;}		
+/* END Below header, below shortline, content area top & bottom styles for basic search */
+
+/* START Content area top & bottom styles for basic search */
+/* RI 11963: Style sheet issue for Shot show fixed with the clear property */
+div#websitesearch-basiccontentarea { text-align: right; color:Black; font-family: Arial;  font-size: 11px; font-weight: bold; margin-top: 5px; }
+div#websitesearch-basiccontentarea TABLE {width: 100%;  padding-bottom: 0px; padding-top: 0px; border-top: 1px solid; border-bottom: 1px solid;}	
+div#websitesearch-basiccontentarea TD { text-align: right; color:Black; font-family: Arial;  font-size: 11px; font-weight: bold; padding-bottom: 5px; padding-top: 5px;}
+div#websitesearch-basiccontentarea a { text-align: right; text-decoration: none; font-family:  Arial;  font-size: 11px; font-weight: bold ; color:Blue; padding-bottom: 5px; padding-top: 5px;}
+div#websitesearch-basiccontentarea a:hover { text-align: right; text-decoration: underline; font-family:  Arial;  font-size: 11px; font-weight: bold ; color:Red; padding-bottom: 5px; padding-top: 5px;}
+div#websitesearch-basiccontentarea INPUT.keyword {font-family:  Arial; font-size: 11px; color: #000000; font-weight: normal; height: 19px; width: 115px; background-color: #FFFFFF; padding-left: 2px;}
+div#websitesearch-basiccontentarea INPUT.go {font-family:  Arial; font-size: 11px; font-weight: normal; color: #000000; font-weight: normal; cursor: hand; margin-right: 5px;}		
+/* END Below header, below shortline, content area top & bottom styles for basic search */
+
+/* START side bar styles for basic search */
+div#websitesearch-basicsidebar { font-family: Arial;  color:Black; text-align: left; font-size: 11px; font-weight: bold; margin-top: 5px; }
+div#websitesearch-basicsidebar TABLE {width: 95%;  padding-bottom: 0px; padding-top: 0px; border-bottom: 1px solid;}	
+div#websitesearch-basicsidebar TD { text-align: left; color:Black; font-family: Arial;  font-size: 11px; font-weight: bold; }
+div#websitesearch-basicsidebar TD.header {text-align: left; width: 95%; font-family: Arial;  font-size: 8pt; font-weight: bold ; }
+div#websitesearch-basicsidebar a { text-align: left; text-decoration: none; font-family: Arial;  font-size: 11px; font-weight: bold ; color:Blue; padding-bottom: 5px; padding-top: 5px;}
+div#websitesearch-basicsidebar a:hover { text-align: left; text-decoration: underline; font-family: Arial;  font-size: 11px; font-weight: bold ; color:Red; padding-bottom: 5px; padding-top: 5px;}
+div#websitesearch-basicsidebar INPUT.keyword {font-family: Arial; font-size: 11px; color: #000000; font-weight: normal; height: 19px; width: 100px; background-color: #FFFFFF; padding-left: 2px;}
+div#websitesearch-basicsidebar INPUT.go {font-family: Arial; font-size: 11px; font-weight: normal; color: #000000; font-weight: normal; cursor: hand; margin-right: 1px;}		
+.websitesearch-space {height: 10px; }
+/* END side bar styles for basic search */
+
+/* START navigation styles for basic search */
+div#websitesearch-basicnavigation { text-align: left; color:Blue; font-family: Arial;  font-size: 11px; font-weight: bold; margin-bottom: 5px;}
+div#websitesearch-basicnavigation TABLE {width: 95%; border-top: 1px solid; border-bottom: 1px solid;}	
+div#websitesearch-basicnavigation TD { text-align: left; color:Blue; font-family: Arial;  font-size: 11px; font-weight: bold; padding-bottom: 2px; padding-top: 2px;}
+div#websitesearch-basicnavigation TD.header {text-align: left; width: 95%; font-family: Arial;  color:Blue; font-size: 8pt; font-weight: bold ;}
+div#websitesearch-basicnavigation a { text-align: left; text-decoration: none; font-family:  Arial;  font-size: 11px; font-weight: bold ; color:Blue; }
+div#websitesearch-basicnavigation a:hover { text-align: left; text-decoration: underline; font-family:  Arial;  font-size: 11px; font-weight: bold ; color:Red; }
+div#websitesearch-basicnavigation INPUT.keyword {font-family:  Arial; font-size: 11px; color: #000000; font-weight: normal; height: 19px; width: 90px; }
+div#websitesearch-basicnavigation INPUT.go {font-family:  Arial; font-size: 11px; font-weight: normal; color: #000000; font-weight: normal; cursor: hand; }		
+.websitesearch-space {height: 10px; }
+/* END navigation styles for basic search */
+
+div#websitesearch-advsearch TD { padding-right: 10px; padding-bottom: 10px; vertical-align: top;}
+div#websitesearch-advsearch INPUT.text {height: 22px; width: 175px; }
+div#websitesearch-advsearch INPUT.checkboxes {background-color: #FFFFFF; margin-right: 8px;}
+div#websitesearch-advsearch INPUT.buttons {}
+div#websitesearch-advsearch SELECT {}
+
+div#websitesearch-result { font-family:  Arial;  font-size: 12px; color:#000000; font-weight: normal;  margin-bottom:20px; clear: both; padding-right: 10px; padding-bottom: 5px;}
+div#websitesearch-result a { text-decoration: none; color: #LinkColor#; font-weight: bold; }
+div#websitesearch-result a:hover { text-decoration: underline; color: #HoverColor#; font-weight: bold; }
+.websitesearch-othercategories {  font-size: 12px; font-weight: bold; color:#000000; text-transform:uppercase;}
+
+div#websitesearch-left { font-family:  Arial;  font-size: 12px; color:#000000; font-weight: normal ; text-align: justify; margin-right: 20px; display: block; }
+div#websitesearch-left a { text-decoration: none; color: Blue; font-weight: bold;}
+div#websitesearch-left a:hover { text-decoration: underline; color: Red; font-weight: bold;}
+.websitesearch-category { font-size: 12px; font-weight: bold; color:#000000; text-transform:uppercase; margin-bottom:10px;}
+.websitesearch-category2 { font-size: 10px; font-weight: bold; color:#4D4D4D;}
+.websitesearch-document {font-size: 9px; text-decoration: none; color: #888888;}
+.websitesearch-document a {font-size: 9px; text-decoration: none; color: Blue;}
+.websitesearch-document a:hover {font-size: 9px; text-decoration: none; color: Red;}
+
+div#websitesearch-right { font-family:  Arial; font-size: 12px; color:#000000; font-weight: normal ; display: block; }
+div#websitesearch-right ul { list-style-type: none; padding: 0; margin: 0; }
+div#websitesearch-right ul li { margin-top: 4px; }
+div#websitesearch-right ul li a	{font-weight: bold; display: block; width: 120px; text-decoration: none; color: Blue; }
+div#websitesearch-right ul li a:hover {font-weight: bold;  text-decoration: underline; color: Red;  }
+				</style>
+			
+		<link rel="StyleSheet" href="../images/100453/2008_CSS/comiccon_07.css" type="text/css">
+		
+
+
+
+	<script language="JavaScript">
+		
+
+		function openModuleHelp(){
+			appletwin2=window.open("remote.cfm?appname=100453&moduleid=2570","appletwin3","status=yes,toolbar=no,scrollbars=yes,width=300,height=400");
+		}
+	</script>
+
+	
+		<script language="javascript">
+			function openBoothSalesWin(){
+				appletwin2=window.open
+			   ("BoothSales/BoothSales.cfm?appname=100453","appletwin2","status=yes,toolbar=no,scrollbars=yes,width=650,height=550,top=0,left=0")
+			}
+		</script>
+
+		<script language="javascript">
+			function openthewin(){
+				appletwin=window.open
+			   ("ExhibitHall/ExhibitHallvisual.cfm?appname=100453&moduleid=2570&linkid=17915","appletwin","status=yes,toolbar=no,scrollbars=yes,width=650,height=550,top=0,left=0")
+			}
+		</script>
+
+		<script>
+			
+			<!--
+			function openPrintFriendly(){
+				lastwin=window.open
+				("http://www.nycomiccon.com/app/PrintFriendly.cfm?LinkID=17915&moduleID=2570&appname=100453","printFrindly","width=620,menubar=yes,scrollbars=yes");
+			}
+			//-->
+		</script>
+	
+</head>
+
+
+<body bgcolor="#b5111b" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0" background="../images/100453/2008_NEWGraphics/nycc_bg.jpg">
+
+
+	
+	
+	
+
+
+	
+	
+
+
+
+
+
+
+
+
+		
+		<a name="top">
+		
+		<table border="0" align="Center" width="920" bgcolor="" cellpadding="0" cellspacing="0" id="custom_main_borders">
+		
+
+			<tbody><tr>
+				<td width="100%" valign="top">
+					<table align="center" cellpadding="0" border="0" cellspacing="0" width="100%">
+
+
+
+
+
+
+
+
+						
+						
+						
+						
+							<tbody><tr>
+								<td>
+								  
+									<!-- top custom -->
+									
+									
+	<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="">
+			<tbody><tr>
+				<td><script src="http://www.nycomiccon.com/images/100453/2009_peel/peel.js" type="text/javascript"></script>
+<div style="width:920px; "><img src="http://www.nycomiccon.com/images/100453/2008_NEWGraphics/buy_tickets_header1.gif" width="66" height="130" border="0"><a href="http://www.nycomiccon.com/app/main.cfm?appname=100453&amp;moduleID=4698"><img src="http://www.nycomiccon.com/images/100453/2008_NEWGraphics/buy_tickets_header2.jpg" alt="Buy tickets NOW!" title="Buy tickets NOW" width="175" height="130" border="0"></a><a href="http://www.nycomiccon.com/App/homepage.cfm?moduleid=2577&amp;appname=100453"> <img src="http://www.nycomiccon.com/images/100453/2008_NEWGraphics/main_header1.gif" alt="Home!" width="495" height="164" border="0"></a><a href="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleID=2577&amp;LinkID=28730" target="_self"> <img src="http://www.nycomiccon.com/images/100453/2008_NEWGraphics/date_header.jpg" alt="April 18-20, 2008 @ the Jacob Javits Center, NYC" title="April 18-20, 2008 @ the Jacob Javits Center, NYC" width="175" height="104" border="0"></a>
+  <div style="text-align:center; padding:5px 0 0 58px;">
+    <!-- begin ad tag-->
+    <script language="JavaScript" src="http://ad.doubleclick.net/adj/comic.rx/;sz=728x90;ord=[timestamp]?" type="text/javascript"></script>
+    <noscript>
+    <a href="http://ad.doubleclick.net/jump/comic.rx/;sz=728x90;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/comic.rx/;sz=728x90;ord=[timestamp]?" alt="" width="728" height="90" border="0"></a>
+    </noscript>
+    <!-- End ad tag -->
+  </div>
+  <table width="920" border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+      <td height="32" valign="bottom" align="right"><table width="845" border="0" cellpadding="0" cellspacing="0" class="white_nav" bgcolor="#104a7d">
+          <tbody><tr>
+            <td align="left"><img src="http://www.nycomiccon.com/images/100453/2008_NEWGraphics/tile_l_nav.gif" width="7" height="26" border="0"></td>
+            <td width="100" align="center"><a href="http://www.nycomiccon.com/app/homepage.cfm?moduleid=4524&amp;appname=100453" target="_self"><span class="white_nav" title="Kids Day">Kids Day</span></a></td>
+            <td align="center"><img src="http://www.nycomiccon.com/images/100453/2008_NEWGraphics/nav_break.gif" width="7" height="26" border="0"></td>
+            <td width="150"><a href="http://www.nycomiccon.com/app/homepage.cfm?moduleid=2528&amp;appname=100453" target="_self"><span class="white_nav" title="Professionals">Professionals</span></a></td>
+            <td align="center"><img src="http://www.nycomiccon.com/images/100453/2008_NEWGraphics/nav_break.gif" width="7" height="26" border="0"></td>
+            <td width="100"><a href="http://www.nycomiccon.com/app/homepage.cfm?moduleid=3109&amp;appname=100453" target="_self"><span class="white_nav" title="Exhibitors">For Exhibitors</span></a></td>
+            <td align="center"><img src="http://www.nycomiccon.com/images/100453/2008_NEWGraphics/nav_break.gif" width="7" height="26" border="0"></td>
+            <td width="100"><a href="http://www.nycomiccon.com/app/homepage.cfm?moduleid=2697&amp;appname=100453" target="_self"><span class="white_nav" title="Volunteers">Volunteers</span></a></td>
+            <td align="center"><img src="http://www.nycomiccon.com/images/100453/2008_NEWGraphics/nav_break.gif" width="7" height="26" border="0"></td>
+            <td width="100"><a href="http://www.nycomiccon.com/App/homepage.cfm?moduleid=2529&amp;appname=100453" target="_self"><span class="white_nav" title="Press">Press</span></a></td>
+            <td align="right"><img src="http://www.nycomiccon.com/images/100453/2008_NEWGraphics/tile_r_nav.gif" width="7" height="26" border="0"></td>
+          </tr>
+        </tbody></table>
+    </td></tr>
+  </tbody></table>
+</div>
+</td>
+			</tr>
+	</tbody></table>
+										<!-- /top custom -->
+								  
+
+								</td>
+							</tr>
+						
+					</tbody></table>
+
+
+					
+					
+					
+					
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" class="ControlNavigationCellHeight">
+					
+						
+
+						<tbody><tr valign="top" height="325">
+							
+							
+							
+							
+									
+									
+									
+									<td width="0px" bgcolor="" class="ControlNavigationCellHeight">
+										
+										
+											<table width="0px" cellspacing="0" cellpadding="0" class="ControlNavigationCellHeight">
+										
+											<tbody><tr>
+												<!-- navigationcustom -->
+												<td class="ControlNavigationCellHeight"> 
+
+
+ <script>
+	TYPEID =  0 
+</script>
+
+
+
+
+<table border="0" height="361" cellpadding="0" cellspacing="0">
+
+	
+	<tbody><tr><td class="ControlNavigationCellHeight"><script src="js/form_validation.js" type="text/javascript"></script>
+<script type="text/javascript">
+function checkBasicSearchForm(form) {
+	// validate ticket entries (which fields are requried)
+	form.keywords.required = true;
+ 	form.keywords.requiredError = 'Please enter the keyword(s).';
+
+	var errors = getFormErrors(form);
+    if (errors.length > 0) {
+    	var errorMessage = '';
+        for (var errorIndex = 0; errorIndex < errors.length; errorIndex++) {
+        	errorMessage += '* ' + errors[errorIndex] + '\n';
+        }
+        errorMessage += '';
+        alert(errorMessage);
+        return false;
+	}
+
+	return true;
+}
+//-->
+</script>
+<div id="left">
+  <div id="nav">
+    <div id="nav_top">&nbsp;</div>
+    <div id="nav_content">
+      <form action="homepage.cfm?appname=100453&amp;moduleid=2577&amp;siteadvsearch=1&amp;collections=1,10,2,3,4,5,6,7,8&amp;searchtype=all&amp;displaytype=relevance&amp;fuseaction=search.results" method="get" id="frmBasicSearch" onsubmit="return checkBasicSearchForm(this);">
+        <input type="hidden" name="appname" value="100453">
+        <input type="hidden" name="moduleid" value="2577">
+        <input type="hidden" name="campaignid" value="42917">
+        <input type="hidden" name="iusercampaignid" value="25080207">
+        <input type="hidden" name="siteadvsearch" value="1">
+        <input type="hidden" name="collections" value="1,10,2,3,4,5,6,7,8">
+        <input type="hidden" name="searchtype" value="all">
+        <input type="hidden" name="displaytype" value="relevance">
+        <input type="hidden" name="searchmethod" value="basic">
+        <input type="hidden" name="fuseaction" value="search.results">
+        <input name="keywords" type="text" class="searchbox" value="Search" size="20">
+        <br>
+        <input type="submit" value="Go" name="submit232" class="submit_button">
+      </form>
+      <ul>
+        <li><a href="http://www.nycomiccon.com/App/homepage.cfm?moduleid=2524&amp;appname=100453">About</a></li>
+        <li><a href="http://www.nycomiccon.com/App/homepage.cfm?moduleid=2526&amp;appname=100453">Tickets</a></li>
+        <li><a href="http://www.nycomiccon.com/app/homepage.cfm?moduleid=2920&amp;appname=100453">Guests</a></li>
+        <li><a href="http://www.nycomiccon.com/App/homepage.cfm?moduleid=2525&amp;appname=100453">Programming</a></li>
+        <li>
+          <!-- DYNAMIC EXHIB LIST<a href="http://www.nycomiccon.com/app/homepage.cfm?moduleid=2523&appname=100453" class="blue_nav2">-->
+          <a href="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleID=2523&amp;LinkID=31114">Our Exhibitors</a></li>
+        <li><a href="http://www.nycomiccon.com/app/homepage.cfm?moduleid=4568&amp;appname=100453">Artist Alley</a></li>
+        <li><a href="http://www.nycomiccon.com/app/main.cfm?appname=100453&amp;moduleID=4565">Hotels and Travel</a></li>
+        <li><a href="http://www.nycomiccon.com/App/homepage.cfm?moduleid=4156&amp;appname=100453">Spread the Word</a></li>
+        <li><a href="http://www.nycomiccon.com/App/homepage.cfm?moduleid=3277&amp;appname=100453">The NYCC Store</a></li>
+        <li><a href="http://www.nycomiccon.com/app/main.cfm?appname=100453&amp;moduleID=2577&amp;LinkID=31207">Charities</a></li>
+        <li><a href="http://www.nycomiccon.com/app/homepage.cfm?moduleid=4563&amp;appname=100453">Sponsors</a></li>
+        <li><a href="http://twitter.com/NY_Comic_Con" target="_blank">follow me on twitter</a></li>
+        <li><a href="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleID=2577&amp;LinkID=31204">Vlog</a> </li>
+      </ul>
+    </div>
+    <div id="nav_bottom">&nbsp;</div>
+  </div>
+  <div id="email_block">
+    <form action="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleid=2592&amp;linkid=21350&amp;date=1636&amp;campaignid=42917&amp;iUserCampaignID=32689527" method="post" id="CFForm_1" onsubmit="return _CF_checkCFForm_1(this)">
+      <input name="afb_20923" type="text" class="searchbox" id="search2" size="20">
+      <br>
+      <input name="submit" type="submit" class="submit_button" value="Submit" style="margin-top:3px;">
+      <input type="hidden" name="formID" value="1636">
+      <input type="hidden" name="FormName" value="New York Comic Con Newsletter">
+      <input type="hidden" name="fuseaction" value="submitForm">
+    </form>
+  </div>
+  <div id="left_bottom"> <a href="http://www.nycomiccon.com/app/homepage.cfm?moduleid=4421&amp;appname=100453"><img src="http://www.nycomiccon.com/images/100453/2008_NEWGraphics/show_hours.gif" alt="Show Hours!" title="Show Hours!" width="175" height="41" border="0"></a><br>
+    <a href="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleID=3109&amp;LinkID=30733"><img src="http://www.nycomiccon.com/images/100453/2008_NEWGraphics/reservespace.gif" alt="Reserve Your Space!" width="175" height="43" border="0" title="Reserve Your Space!"></a> </div>
+  <div id="dc_nav">
+    <!-- begin ad tag-->
+    <script src="http://ad.doubleclick.net/adj/comic.rx/;kw=POS2;sz=120x300;ord=[timestamp]?" type="text/javascript"></script>
+    <noscript>
+    <a href="http://ad.doubleclick.net/jump/comic.rx/;kw=POS2;sz=120x300;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/comic.rx/;kw=POS2;sz=120x300;ord=[timestamp]?" width="120" height="300" border="0" alt="" /></a>
+    </noscript>
+    <!-- End ad tag -->
+  </div>
+</div>
+</td> </tr>
+
+	
+	
+</tbody></table>
+</td>
+											</tr>
+										</tbody></table>
+									</td>
+								
+
+							
+							
+							
+							<!-- Include Center -->
+							
+							
+							
+							
+							
+							<td valign="top" rowspan="2" width="100%" class="background" background="../images/100453/2008_NEWGraphics/nycc_bg.jpg" bgcolor="White">
+							
+
+	<!-- link content -->
+	
+	
+		<table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0" id="content_right_borders">
+		
+			<tbody><tr>
+				<td width="75%" valign="top"> 
+					
+					
+					
+					
+					<table width="100%" cellspacing="0" cellpadding="0" border="0">
+						
+						<tbody><tr>
+							
+								<td width="0%"></td>
+							
+							<td width="100%" valign="top">
+							
+							
+							
+							<div id="corpsitecontent" name="corpsitecontent">
+
+									
+									
+										
+										<!--Template Start Start Content from here-->
+										
+										<div id="content_container">
+  <!-- begin ad tag-->
+  <div align="center" style="padding:5px 0;">
+    <script language="JavaScript" src="http://ad.doubleclick.net/adj/comic.rx/;sz=468x60;ord=[timestamp]?" type="text/javascript"></script>
+    <noscript>
+    <a href="http://ad.doubleclick.net/jump/comic.rx/;sz=468x60;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/comic.rx/;sz=468x60;ord=[timestamp]?" alt="" width="468" height="60" border="0"></a>
+    </noscript>
+  </div>
+  <!-- End ad tag -->
+  <div id="content_top">&nbsp;</div>
+  <div id="content_body">
+    <h1>Privacy Policy</h1>
+    <p>The effective date of this policy as posted is March 22, 2004.</p>
+    <p>Reed Exhibitions and New York Comic-Con respect the information provided by our customers. Because we gather certain types of information when our customers communicate with us, we believe you should fully understand the terms and conditions surrounding the information we capture and the use of that information. This privacy statement discloses the type of information we capture about our customers, how we use it to communicate with our customers, and how you can request to no longer receive communications from New York Comic-Con.</p>
+    <p><strong>US Policy</strong><br>
+    New York Comic-Con is produced and managed by Reed Exhibitions United States (Reed-US), a division of Reed Elsevier, Inc. This privacy policy applies to all Reed-US offices and conforms to the spirit of the Reed Exhibitions Corporate Privacy Policy, which can be found at <a href="http://www.reedexpo.com/" target="_blank">www.reedexpo.com</a>.</p>
+    <p><strong>Our Customers</strong><br>
+    This policy applies to all customers of&nbsp; New York Comic-Con and Reed-US, who include but are not limited to, our show exhibitors, show visitors, conference visitors, customer inquiries, speakers, press, and other individuals with whom Reed-US maintains business relationships or communications.</p>
+    <p><strong>Customer Information and Use</strong><br>
+    Two primary types of information are gathered about our customers:</p>
+    <p>Financial Information is payment information used for or gathered during the registration process and includes, but is not limited to, credit card numbers, financial institutions, and expiration dates. This information is not used for any purpose other than that for which it is being provided to us, and is used only to the extent necessary for processing the transaction or to facilitate future transactions.</p>
+    <p>Professional Information includes, but is not limited to, name, address, company name, company address, phone number, fax number, and email address, as well as questions answered on survey or registration forms. Data captured during a customer’s visit to the New York Comic-Con web site, as well as during a visit with a New York Comic-Con customer is also considered professional information and may also be stored in our customer database for our internal use. Professional information may be, upon the consent of&nbsp; New York Comic-Con, shared with other organizations or New York Comic-Con customers for the purpose of facilitating business relationships believed by Reed-US to be in our customers’ best interests.</p>
+    <p><strong>Opting Out</strong><br>
+    Reed-US will accept, implement and maintain any customer request to opt out of future communication from New York Comic-Con, Reed-US, or a third party to whom New York Comic-Con provided the customer’s information. If you would like to opt out of communications you are receiving from New York Comic-Con, Reed-US, or a third party contacting you on behalf of New York Comic-Con, please visit the&nbsp;<a href="http://www.recusprivacy.com/" target="_blank">privacy website</a>&nbsp;and enter the information requested so we may thoroughly implement your request within 10 days of receipt.</p>
+    <p><strong>Security</strong><br>
+    This site utilizes a secure server to protect your financial and professional information. Secure server software is used to encrypt the information sent between your Internet browser and our Internet site. This ensures the security of your professional and financial transaction details when using the site. We follow strict security procedures in the storage and disclosure of information you have given to us and may, on occasion, request proof of identity before we disclose any professional information to you.</p>
+    <p><strong>Method of Transaction Security</strong><br>
+      Products of New York Comic Con use Secure Sockets Layer (SSL) protocol to safeguard customer information during online transactions. SSL encryption is the generally accepted method of transaction security in online ordering.<br>
+    </p>
+    <p><strong>Cookies</strong><br>
+    A "cookie" is a bit of data sent by a website through the browser to the computer of the user visiting the site, and enables the site to return the results the browser expects. The New York Comic-Con website uses temporary, session-specific cookies to ensure visits to its websites are smooth and customized for the visitor. Such cookies allow us to provide a visitor's browser with information tailored to the visitor's preferences and needs. We use permanent or persistent cookies that remain on a visitor's computer after the visitor leaves the New York Comic-Con website. However, our cookies neither reveal nor contain any identifying or personal data. Cookies also cannot read any information on a visitor's computer or interact with other cookies on the visitor's hard drive.</p>
+    <p>If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in the browser's settings. However, disabling the cookie support function of the browser will prevent our website from functioning properly and you may not be able to utilize fully all of the site's features and information.</p>
+    <p><strong>Policy Changes</strong><br>
+    Reed-US reserves the right to review and change this Policy. Policy changes may be made without prior notice to existing customers. Policy revisions only apply to information gathered as of the effective date of the revised policy, unless we give you notice and choice as to the changes in use, in which case all information is subject to the new policy.</p>
+    <p><strong>Review and Correction of Customer Information or Other Questions</strong><br>
+    If you have any questions or concerns about your customer information or your request to opt-out of communications from New York Comic-Con or its third party partners, or if you would like to review the information we’ve collected about you, please call or write our Privacy Administrator:</p>
+    <p>Reed Exhibitions<br>
+      US Privacy Administrator/Database Dept<br>
+      383 Main Ave.<br>
+      Norwalk, CT 06851</p>
+    <p>Phone:&nbsp;<br>
+      Within the US at 888-306-2344<br>
+      Outside the US at 203-840-5810<br>
+      Email:&nbsp;&nbsp;<a href="mailto:privacy@reedexpo.com">privacy@reedexpo.co</a></p>
+  </div>
+  <div id="content_bottom">&nbsp;</div>
+</div> 
+										<!--Template End -->
+									
+										
+
+							
+							</div>
+
+							
+							
+							</td>
+						</tr>
+						
+					</tbody></table>
+
+					
+					
+
+				</td>
+
+				<!-- /Include Center -->
+				
+								<td valign="top" width="30%">
+							
+									<table>
+								
+				<tbody><tr>
+					<td>
+						
+			<table class="infobar" cellspacing="0">
+			
+			
+			
+			
+			<tbody><tr>
+				<td class="infobarCustom" width="2%">&nbsp;</td>
+				<td class="infobarCustom" width="98%"><div style="text-align:center; padding:5px 0; width:175px;">
+  <p><a href="http://www.reedexpo.com" target="_blank"><img src="http://www.nycomiccon.com/images/100453/2008_NEWGraphics/reed_logo.gif" alt="Reed Exhibitions" border="0" vspace="1"></a></p>
+  <!-- begin ad tag-->
+  <script language="JavaScript" src="http://ad.doubleclick.net/adj/comic.rx/;sz=120x600;ord=[timestamp]?" type="text/javascript"></script>
+  <noscript>
+  <a href="http://ad.doubleclick.net/jump/comic.rx/;sz=120x600;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/comic.rx/;sz=120x600;ord=[timestamp]?" width="120" height="600" border="0" alt=""></a>
+  </noscript>
+  <!-- End ad tag -->
+  <p style="margin:0;">&nbsp;</p>
+  <!-- begin ad tag-->
+  <script language="JavaScript" src="http://ad.doubleclick.net/adj/comic.rx/;kw=POS1;sz=120x300;ord=[timestamp]?" type="text/javascript"></script>
+  <noscript>
+  <a href="http://ad.doubleclick.net/jump/comic.rx/;kw=POS1;sz=120x300;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/comic.rx/;kw=POS1;sz=120x300;ord=[timestamp]?" width="120" height="300" border="0" alt=""></a>
+  </noscript>
+  <!-- End ad tag -->
+</div></td>
+			</tr>
+			</tbody></table>
+		
+					</td>
+				</tr>
+				
+			<tr>
+				<td>
+					
+					
+				</td>
+			</tr>
+			
+			<tr>
+				<td>
+					
+					
+				</td>
+			</tr>
+			
+			<tr>
+				<td>
+					
+					
+				</td>
+			</tr>
+				
+		
+	
+								</tbody></table>
+							</td>
+						
+			</tr>
+			
+		</tbody></table>
+	
+	<!-- /link content -->
+	
+	
+
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+
+			
+			
+						<tr>
+							<td bgcolor="">
+								
+	
+
+	
+
+	<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td width="60" align="left" valign="top" class="footer" style="padding-top:5px"> </td>
+    <td align="left" valign="top" class="footer" style="padding-top:5px"><div align="center"><a href="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleID=2570&amp;LinkID=17916" class="footer">Sitemap</a> | <a href="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleID=2570&amp;LinkID=17915" class="footer">Privacy Policy</a> | <a href="http://www.reedexpo.com/" target="_blank" class="footer">Reed Exhibitions</a> | <a href="http://www.reed-elsevier.com/" target="_blank" class="footer">Reed Elsevier</a> | <a href="http://www.nycomiccon.com/app/homepage.cfm?moduleid=2592&amp;appname=100453" class="footer">Contact Us</a><br>
+        <br>
+    </div> </td>
+  </tr>
+  <tr>
+    <td width="60" align="left" valign="top" class="footer" style="padding-top:5px"> </td>
+    <td align="left" valign="top" class="footer" style="padding-top:5px"><div align="center">New York Comic Con is not affiliated with any other comic convention event having Comic Con in its name.</div></td>
+  </tr>
+</tbody></table> 
+	
+
+	
+
+	
+							</td>
+						</tr>
+					
+		</tbody></table>
+		
+		
+				
+
+
+
+
+<!-- RXWEB01
+-->
+
+</a></body></html>
