@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livechatinc.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509162942id_/http%3A//www.livechatinc.com/en/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livechatinc.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218182031id_/http%3A//www.livechatinc.com/en/company/privacy_policy) for the most accurate reproduction.*
 
 # LIVECHAT Software Privacy Policy | LIVECHAT Software- Live Help, Live Support Software, Enterprise and Corporate Instant Messenger
 
