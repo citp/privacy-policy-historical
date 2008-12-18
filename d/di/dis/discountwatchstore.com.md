@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the discountwatchstore.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617140755id_/http%3A//www.discountwatchstore.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountwatchstore.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218103023id_/http%3A//www.discountwatchstore.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-###   
-We are commited to your privacy!
+  
+Last updated 7/30/2008
 
 Your privacy is important, so we'd like to explain what information we collect when you visit this web site, why we collect it and how it is used. We want to inform you that we utilize a secure check out to better protect your sensitive information. This Policy is governed by our Terms of Service.  
 When you use our Site, we may request your name, street address, telephone number or other "real world" contact information.
