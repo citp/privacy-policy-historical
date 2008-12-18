@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pelco.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509174838id_/http%3A//www.pelco.com/company/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pelco.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218102455id_/http%3A//www.pelco.com/company/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Pelco - Privacy Policy
 
