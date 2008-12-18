@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the awf.org privacy policy that was archived on 2008-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080514192834id_/http%3A//www.awf.org/section/_footer/_privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the awf.org privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218031544id_/http%3A//www.awf.org/section/_footer/_privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en-us"><head>
 <title>AWF: Privacy Policy</title>
@@ -8,7 +8,7 @@
 <meta name="Keywords" content="">
 <link type="text/css" href="/style.css" rel="stylesheet">
 <link type="text/css" href="/javascript/jquery.tooltip.css" rel="stylesheet">
-<script type="text/javascript" src="/javascript/jquery-1.2.1.pack.js"></script>
+<script type="text/javascript" src="/javascript/jquery-1.2.6.pack.js"></script>
 <script type="text/javascript" src="/javascript/jquery.tooltip.pack.js"></script>
 <script type="text/javascript" src="/javascript/jquery.dimensions.js"></script>
 <script type="text/javascript" src="/javascript/swfobject.js"></script>
@@ -119,42 +119,130 @@ function changeImages() {
                         </tr>
                         <tr>
                             <td style="vertical-align: bottom; text-align: right;" align="right">                    
-                            <div id="headerNav"><a href="/section/my_awf">My AWF</a> | <a href="http://shop.awf.org/store">Shop</a> | <a href="http://shop.awf.org/adopt">Adopt an Animal</a> | <a href="/section/safaris">Safaris</a> | <a href="/section/engaging_you/donate/" class="bold">DONATE</a></div>
+                                <div id="headerNav">
+                                    <a href="/blog">Blogs</a>
+                                    | <a href="http://shop.awf.org/store">Shop</a>
+                                    | <a href="http://shop.awf.org/adopt">Adopt an Animal</a>
+                                    | <a href="/section/safaris">Safaris</a>
+                                    | <a href="/section/engaging_you/donate/" class="bold">DONATE</a>
+                                </div>
                             </td>
                         </tr>
                     </tbody></table>
                 </div>
             </div>
-  <table border="0" cellspacing="0" cellpadding="0" style="position:absolute; font:normal 9px verdana;">
-  <tbody><tr onmouseout="isActiveLink(event);"><td style="line-height: 6px;"><!--
-  
-  these comment tags prevent unnecessary spacing between images
-  
-  
-    --><a href="/section/heartlands"><img alt="Where We Work" src="/images/header/where_we_work.gif" onmouseover="this.src='/images/header/where_we_work_dwn.gif'; doSubMenu('where_we_work');" onmouseout="this.src='/images/header/where_we_work.gif';"></a><!--
 
-    --><a href="/section/wildlife"><img alt="Conserving Wildlife" src="/images/header/conserving_wildlife.gif" onmouseover="this.src='/images/header/conserving_wildlife_dwn.gif'; doSubMenu('conserving_wildlife');" onmouseout="this.src='/images/header/conserving_wildlife.gif';"></a><!--
+<script type="text/javascript">
+var active = "";
 
-    --><a href="/section/land"><img alt="Protecting Land" src="/images/header/protecting_land.gif" onmouseover="this.src='/images/header/protecting_land_dwn.gif'; doSubMenu('protecting_land');" onmouseout="this.src='/images/header/protecting_land.gif';"></a><!--
+$(function() {
+    $("#nav a").mouseover(function() {
+        if ("" != active) {
+            var last_image = $("." + active).children("img").attr("src");
+            last_image = last_image.substr(0, last_image.length - 8) + ".gif";
+            $("." + active).children("img").attr("src", last_image);
+        }
+        $(".sub").hide();
+        $("#subnav").show();
+        var classname = $(this).attr("class");
+        var src = "/images/header/" + classname + "_dwn.gif";
+        $(this).children("img").attr("src", src);
+        $("." + classname).show();
+        active = classname;
+        setCloseEvent();
+    });
+});
 
-    --><a href="/section/people"><img alt="Empowering People" src="/images/header/empowering_people.gif" onmouseover="this.src='/images/header/empowering_people_dwn.gif'; doSubMenu('empowering_people');" onmouseout="this.src='/images/header/empowering_people.gif';"></a><!--
+function setCloseEvent() {
+    var pos = $("#subnav").offset();
+    $().mousemove(function(e) {
+        if (e.pageY > pos.top + 60) {
+            $("#subnav").hide();
+        }
+    });
+}
+</script>
 
-    --><a href="/section/engaging_you"><img alt="Engaging You" src="/images/header/engaging_you.gif" onmouseover="this.src='/images/header/engaging_you_dwn.gif'; doSubMenu('engaging_you');" onmouseout="this.src='/images/header/engaging_you.gif';"></a><!--
+<div id="nav">
+    <a href="/section/heartlands" title="Where We Work" class="where_we_work" style="width:121px"><img src="/images/header/where_we_work.gif"></a><!--
+    --><a href="/section/wildlife" title="Conserving Wildlife" class="conserving_wildlife"><img src="/images/header/conserving_wildlife.gif"></a><!--
+    --><a href="/section/land" title="Protecting Land" class="protecting_land"><img src="/images/header/protecting_land.gif"></a><!--
+    --><a href="/section/people" title="Empowering People" class="empowering_people"><img src="/images/header/empowering_people.gif"></a><!--
+    --><a href="/section/engaging_you" title="Engaging You" class="engaging_you"><img src="/images/header/engaging_you.gif"></a><!--
+    --><a href="/section/about" title="About AWF" class="about_awf"><img src="/images/header/about_awf.gif"></a>
+</div>
 
-    --><a href="/section/about"><img alt="About AWF" src="/images/header/about_awf.gif" onmouseover="this.src='/images/header/about_awf_dwn.gif'; doSubMenu('about_awf');" onmouseout="this.src='/images/header/about_awf.gif';"></a><!--
-   
-    --></td></tr>
-    <tr onmouseout="isActiveLink(event);"><td id="submenu"><!-- javascript inserted here --></td></tr>
-  </tbody></table>
-<div style="padding-top: 24px;"></div><!-- insert flash below -->
-            
+<div id="subnav">
+    <div class="sub where_we_work">
+		<a href="/section/heartlands">The African Heartlands</a> |
+		<a href="/content/heartland/detail/1288">Congo</a> |
+		<a href="/content/heartland/detail/1287">Kazungula</a> |
+		<a href="/content/heartland/detail/1283">Kilimanjaro</a> |
+		<a href="/content/heartland/detail/1286">Limpopo</a> |
+		<a href="/content/heartland/detail/1282">Maasai Steppe</a> |
+		<a href="/content/heartland/detail/1281">Samburu</a> |
+		<a href="/content/heartland/detail/1284">Virunga</a> |
+		<a href="/content/heartland/detail/1285">Zambezi</a>
+    </div>
+    <div class="sub conserving_wildlife">
+		<a href="/section/wildlife">Overview</a> |
+		<a href="/section/wildlife/elephants">Elephants</a> |
+		<a href="/section/wildlife/gorillas">Gorillas</a> |
+		<a href="/section/wildlife/bonobos">Bonobos</a> |
+		<a href="/section/wildlife/rhinos">Rhinos</a> |
+		<a href="/section/wildlife/carnivores">Carnivores</a> |
+		<a href="/section/wildlife/zebras">Grevy's Zebras</a> |
+		<a href="/section/wildlife/otherspecies">Species Research</a> |
+		<a href="/section/wildlife/gallery">Wildlife Gallery</a> |
+		<a href="/section/wildlife/help">Want to Help?</a>
+    </div>
+    <div class="sub protecting_land">
+		<a href="/section/land">Overview</a> |
+		<a href="/section/land/protectedareas">Protected Areas Support</a> |
+		<a href="/section/land/landuse">Local Land Use Planning</a> |
+		<a href="/section/land/landtrusts">Land Trusts</a> |
+		<a href="http://shop.awf.org/acre/default.aspx">Adopt African Acres</a> |
+		<a href="/section/land/help">Want to Help?</a>
+    </div>
+    <div class="sub empowering_people">
+		<a href="/section/people">Overview</a> |
+		<a href="/section/people/enterprise">Conservation Enterprise</a> |
+		<a href="/section/people/education">Education &amp; Training in Africa</a> |
+		<a href="/section/people/policy">Support African Policy Initiatives</a> |
+		<a href="/section/people/help">Want to Help?</a>
+    </div>
+    <div class="sub engaging_you">
+		<a href="/section/engaging_you">Overview</a> |
+		<a href="/section/engaging_you/donate">Donate</a> |
+		<a href="/section/engaging_you/monthly">Monthly Giving</a> |
+		<a href="/section/engaging_you/renew">Renew</a> |
+		<a href="http://shop.awf.org/adopt">Adopt an Animal</a> |
+		<a href="/section/engaging_you/getcc">AWF Credit Card</a> |
+		<a href="javascript:openwin(0)">Sign-up for eNews</a> |
+		<a href="/section/engaging_you/corporate">For Foundations &amp; Corporations</a>
+    </div>
+    <div class="sub about_awf">
+		<a href="/section/about">Overview</a> |
+		<a href="/section/about/history">AWF's History</a> |
+		<a href="/section/about/ourstaff">Our Staff</a> |
+		<a href="/section/about/trustees">Trustees</a> |
+		<a href="/section/about/ourpartners">Partners</a> |
+		<a href="/section/about/corporate">Corporate Supporters</a> |
+		<a href="/section/about/resources">Resources &amp; Documents</a> |
+		<a href="/section/about/newsroom">News Room</a> |
+		<a href="/section/about/jobs">Jobs</a> |
+		<a href="/section/about/contactus">Contact Us</a>
+    </div>
+</div>
+
             <table width="100%" border="0" cellpadding="0" cellspacing="0">
             <tbody><tr>
               <td class="left">
-<img src="/files/3616_file_Buffalo_Haviland.JPG" width="544" height="161">    		      </td>
+                    <img src="/files/3623_file_Elephant_sholley.JPG" width="544">
+    		      </td>
     		      
-        <td class="right" style="width: 210px">
-        Outside national parks in East Africa, buffaloes frequently come into conflict with humans. Though still numerous in many parts of East Africa, in some areas buffaloes have been eliminated or greatly reduced in number.
+        <td class="right" style="width:210px">
+        Elephants are fascinated by the remains of their dead.  They will often examine the remaining bones and tusks.
               </td>
             </tr>
             </tbody></table>
