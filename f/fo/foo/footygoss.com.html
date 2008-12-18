@@ -1,12 +1,11 @@
-<!--The following is the downloaded HTML source of the footygoss.com privacy policy that was archived on 2008-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080513232152id_/http%3A//www.footygoss.com/main/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the footygoss.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218040158id_/http%3A//www.footygoss.com/index.php/main/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <!-- Metadata Package -->
 <meta name="beginpackage" content="FootyGoss :: Privacy Statement">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="name" content="FootyGoss :: Privacy Statement">
-<meta name="author" content="WebSmart">
 <meta name="keywords" content="Australian Sport, Sport, Football, foot ball, footy, Australian Rules, Australian Rules Football, Westar, Westar Rules, Westar Rules Football, Gossip, goss, rumour, rumours, footychat, chat, footy chat, message board, chat board, AFL, Australian Football League, WAFL, Western Australian Football League, WA Football League, Australian Rules Football League, Aussie Rules, Player Injuries, Team Stats, Draft, Fixture, AFL Grand Final, Grand Final, Premiers, Brownlow Medal, Norm Smith, Sandover Medal, Rising Star, Rising Stars, Rover, Tackle, Statistics, Stats, Results, East Perth, Royals, Subiaco, Lions, West Perth, Falcons, East Fremantle, Sharks, Perth, Demons, South Fremantle, Bulldogs, Claremont, Tigers, Peel, Thunder, Swan Districts, Swans, West Coast Eagles, Eagles, West Coast, Fremantle Dockers, Dockers, Brisbane, Lions, Port Adelaide, Power, Collingwood, The Pies, Magpies, Woods, Adelaide Crows, Crows, Essendon, Bombers, Hawthorn, Hawks, Geelong, Cats, Richmond Tigers, Tigers, Western Bulldogs, Bulldogs, Doggies, Sydney Swans, Swans, Melbourne Demons, Demons, Carlton, Blues, North Melbourne, Kangaroos, Subiaco Oval, Perth Oval, Arena Joondalup, Lathlain Oval, Fremantle Oval, Claremont Oval, Swan Districts Oval">
 <meta name="description" content="all the latest AFL and WAFL breaking news">
 <meta name="distribution" content="global">
@@ -18,9 +17,9 @@
 <title>FootyGoss :: Privacy Statement</title>
 
 <!-- stylesheets -->
-<link rel="stylesheet" type="text/css" media="projection, screen" href="http://www.footygoss.com/styles/standard_css/">
-<link rel="stylesheet" type="text/css" media="print" href="http://www.footygoss.com/styles/print_css/">
-<link rel="stylesheet" type="text/css" media="handheld" href="http://www.footygoss.com/styles/handheld_css/">
+<link rel="stylesheet" type="text/css" media="projection, screen" href="http://www.footygoss.com/index.php/styles/standard_css/">
+<link rel="stylesheet" type="text/css" media="print" href="http://www.footygoss.com/index.php/styles/print_css/">
+<link rel="stylesheet" type="text/css" media="handheld" href="http://www.footygoss.com/index.php/styles/handheld_css/">
 <!--[if IE]>
 
 
@@ -89,7 +88,187 @@
 
 
 
-        <script type="text/javascript" src="http://www.mawainc.org.au/ClickShowHideMenu.js"></script>
+<script type="text/javascript">
+
+/*
+ * DO NOT REMOVE THIS NOTICE
+ *
+ * PROJECT:   mygosuMenu
+ * VERSION:   1.3.3
+ * COPYRIGHT: (c) 2003,2004 Cezary Tomczak
+ * LINK:      http://gosu.pl/dhtml/mygosumenu.html
+ * LICENSE:   BSD (revised)
+ */
+
+function ClickShowHideMenu(id) {
+    this.box1Hover = true;
+    this.box2Hover = true;
+    this.highlightActive = false;
+
+    this.init = function() {
+        if (!document.getElementById(this.id)) {
+            alert("Element '"+this.id+"' does not exist in this document. ClickShowHideMenu cannot be initialized");
+            return;
+        }
+        this.parse(document.getElementById(this.id).childNodes, this.tree, this.id);
+        this.load();
+        if (window.attachEvent) {
+            window.attachEvent("onunload", function(e) {self.save();});
+        } else if (window.addEventListener) {
+            window.addEventListener("unload", function(e) {self.save();}, false);
+        }
+    }
+
+    this.parse = function(nodes, tree, id) {
+        for (var i = 0; i < nodes.length; i++) {
+            if (nodes[i].nodeType != 1) {continue;}
+            if (nodes[i].className) {
+                if ("box1" == nodes[i].className.substr(0, 4)) {
+                    nodes[i].id = id + "-" + tree.length;
+                    tree[tree.length] = new Array();
+                    eval('nodes[i].onmouseover = function() {self.box1over("'+nodes[i].id+'");}');
+                    eval('nodes[i].onmouseout = function() {self.box1out("'+nodes[i].id+'");}');
+                    eval('nodes[i].onclick = function() {self.box1click("'+nodes[i].id+'");}');
+                }
+                if ("section" == nodes[i].className) {
+                    id = id + "-" + (tree.length - 1);
+                    nodes[i].id = id + "-section";
+                    tree = tree[tree.length - 1];
+                }
+                if ("box2" == nodes[i].className.substr(0, 4)) {
+                    nodes[i].id = id + "-" + tree.length;
+                    tree[tree.length] = new Array();
+                    eval('nodes[i].onmouseover = function() { self.box2over("'+nodes[i].id+'", "'+nodes[i].className+'"); }');
+                    eval('nodes[i].onmouseout = function() { self.box2out("'+nodes[i].id+'", "'+nodes[i].className+'"); }');
+                }
+            }
+            if (this.highlightActive && nodes[i].tagName && nodes[i].tagName == "A") {
+                if (document.location.href == nodes[i].href) {
+                    nodes[i].className = (nodes[i].className ? ' active' : 'active')
+                }
+            }
+            if (nodes[i].childNodes) {
+                this.parse(nodes[i].childNodes, tree, id);
+            }
+        }
+    }
+
+    this.box1over = function(id) {
+        if (!this.box1Hover) return;
+        if (!document.getElementById(id)) return;
+        document.getElementById(id).className = (this.id_openbox == id ? "box1-open-hover" : "box1-hover");
+    }
+
+    this.box1out = function(id) {
+        if (!this.box1Hover) return;
+        if (!document.getElementById(id)) return;
+        document.getElementById(id).className = (this.id_openbox == id ? "box1-open" : "box1");
+    }
+
+    this.box1click = function(id) {
+        if (!document.getElementById(id)) {return;}
+        var id_openbox = this.id_openbox;
+        if (this.id_openbox) {
+            if (!document.getElementById(id + "-section")) {return;}
+            this.hide();
+            if (id_openbox == id) {
+                if (this.box1hover) {
+                    document.getElementById(id_openbox).className = "box1-hover";
+                } else {
+                    document.getElementById(id_openbox).className = "box1";
+                }
+            } else {
+                document.getElementById(id_openbox).className = "box1";
+            }
+        }
+        if (id_openbox != id) {
+            this.show(id);
+            var className = document.getElementById(id).className;
+            if ("box1-hover" == className) {
+                document.getElementById(id).className = "box1-open-hover";
+            }
+            if ("box1" == className) {
+                document.getElementById(id).className = "box1-open";
+            }
+        }
+    }
+
+    this.box2over = function(id, className) {
+        if (!this.box2Hover) return;
+        if (!document.getElementById(id)) return;
+        document.getElementById(id).className = className + "-hover";
+    }
+
+    this.box2out = function(id, className) {
+        if (!this.box2Hover) return;
+        if (!document.getElementById(id)) return;
+        document.getElementById(id).className = className;
+    }
+
+    this.show = function(id) {
+        if (document.getElementById(id + "-section")) {
+            document.getElementById(id + "-section").style.display = "block";
+            this.id_openbox = id;
+        }
+    }
+
+    this.hide = function() {
+        document.getElementById(this.id_openbox + "-section").style.display = "none";
+        this.id_openbox = "";
+    }
+
+    this.save = function() {
+        if (this.id_openbox) {
+            this.cookie.set(this.id, this.id_openbox);
+        } else {this.cookie.del(this.id);}
+    }
+
+    this.load = function() {
+        var id_openbox = this.cookie.get(this.id);
+        if (id_openbox) {
+            this.show(id_openbox);
+            document.getElementById(id_openbox).className = "box1-open";
+        }
+    }
+
+    function Cookie() {
+        this.get = function(name) {
+            var cookies = document.cookie.split(";");
+            for (var i = 0; i < cookies.length; i++) {
+                var a = cookies[i].split("=");
+                if (a.length == 2) {
+                    a[0] = a[0].trim();
+                    a[1] = a[1].trim();
+                    if (a[0] == name) {
+                        return unescape(a[1]);
+                    }
+                }
+            }
+            return "";
+        }
+        this.set = function(name, value) {
+            document.cookie = name + "=" + escape(value);
+        }
+        this.del = function(name) {
+            document.cookie = name + "=; expires=Thu, 01-Jan-70 00:00:01 GMT";
+        }
+    }
+
+    var self = this;
+    this.id = id;
+    this.tree = new Array();
+    this.cookie = new Cookie();
+    this.id_openbox = "";
+}
+
+if (typeof String.prototype.trim == "undefined") {
+    String.prototype.trim = function() {
+        var s = this.replace(/^\s*/, "");
+        return s.replace(/\s*$/, "");
+    }
+}
+
+</script>
 
 
 
@@ -183,16 +362,15 @@
 <!-- top ad -->
 <div class="top_ad">
 <!-- begin ad tag -->
-<script language="JavaScript" type="text/javascript">
-ord=Math.random()*10000000000000000;
-document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/footygoss/;dcopt=ist;sz=468x60;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/footygoss/;dcopt=ist;sz=468x60;ord=653256249767404.4?" type="text/javascript"></script><noscript><a href="http://ad.uk.doubleclick.net/jump/footygoss/;sz=468x60;ord=123456789?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/footygoss/;sz=468x60;ord=123456789?" width="468" height="60" border="0" alt=""></a></noscript>
+
+<a href="http://jobs.bhpbilliton.com"><img src="/images/ads/bhp_animation.gif"></a>
+
 <!-- End ad tag -->
 </div>
 <!-- page title and logo -->
-<h1><a href="http://www.footygoss.com/main/" title="FootyGoss :: Privacy Statement" target="_self">FootyGoss :: Privacy Statement</a></h1>
+<h1><a href="http://www.footygoss.com/index.php/main/" title="FootyGoss :: Privacy Statement" target="_self">FootyGoss :: Privacy Statement</a></h1>
 <div class="logo">
-<a href="http://www.footygoss.com/main/" title="FootyGoss :: Privacy Statement" target="_self"><img src="http://www.footygoss.com/themes/site_themes/footy/images/logo.jpg" alt="FootyGoss :: Privacy Statement Logo"></a>
+<a href="http://www.footygoss.com/index.php/main/" title="FootyGoss :: Privacy Statement" target="_self"><img src="http://www.footygoss.com/themes/site_themes/footy/images/logo.jpg" alt="FootyGoss :: Privacy Statement Logo"></a>
 </div>
 </div>
 </div>
@@ -216,7 +394,7 @@ _m1PosY=20;
 
 <div class="breadcrumbs">
 	<p>
-		<a href="http://www.footygoss.com/main/" title="Home" target="_self">Home</a> » Privacy Statement	</p>
+		<a href="http://www.footygoss.com/index.php/main/" title="Home" target="_self">Home</a> » Privacy Statement	</p>
 </div>
 
 <h2>Privacy Statement</h2>
@@ -258,13 +436,13 @@ If you have any questions about this Policy or our web site, please feel free to
          xmlns:dc="http://purl.org/dc/elements/1.1/">
 <rdf:Description
     rdf:about="http://footy.pmhclients.com/privacy_policy/"
-    trackback:ping="http://www.footygoss.com/trackback/299505/"
+    trackback:ping="http://www.footygoss.com/index.php/trackback/299505/"
     dc:title="Privacy Policy"
     dc:identifier="http://footy.pmhclients.com/privacy_policy/" 
     dc:subject=""
     dc:description=""
     dc:creator="Footygoss Admin"
-    dc:date="2007-05-30 11:29:01 AM GMT" />
+    dc:date="2007-05-31 12:29:01 AM GMT" />
 </rdf:RDF>
 -->
 
@@ -274,14 +452,14 @@ If you have any questions about this Policy or our web site, please feel free to
 
 <div id="nav">
 <ul id="pmenu">
-<li class="tc main"><a href="http://www.footygoss.com/main/" title="Home">Home</a></li>
+<li class="tc main"><a href="http://www.footygoss.com/index.php/main/" title="Home">Home</a></li>
 
 <li class="tc drop main"><a href="#nogo" title="About Us">About Us<!--[if IE 7]><!--></a><!--<![endif]-->
 	<!--[if lte IE 6]><table><tr><td><![endif]-->
 	<ul>
 	
-	<li><a href="http://www.footygoss.com/main/about/vision/" title="Our Vision">Our Vision</a></li>
-	<li><a href="http://www.footygoss.com/main/about/contact/" title="Contact Us">Contact Us</a></li>
+	<li><a href="http://www.footygoss.com/index.php/main/about/vision/" title="Our Vision">Our Vision</a></li>
+	<li><a href="http://www.footygoss.com/index.php/main/about/contact/" title="Contact Us">Contact Us</a></li>
 	</ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -294,23 +472,23 @@ If you have any questions about this Policy or our web site, please feel free to
 
 		<!--[if lte IE 6]><table><tr><td><![endif]-->
 		<ul>
-		<li><a href="http://www.footygoss.com/main/club_news/afl_general/" class="enclose">General AFL News</a></li>
-		<li><a href="http://www.footygoss.com/main/club_news/adelaide/">Adelaide</a></li>
-		<li><a href="http://www.footygoss.com/main/club_news/brisbane/">Brisbane</a></li>
-		<li><a href="http://www.footygoss.com/main/club_news/carlton/">Carlton</a></li>
-		<li><a href="http://www.footygoss.com/main/club_news/collingwood/">Collingwood</a></li>
-		<li><a href="http://www.footygoss.com/main/club_news/essendon/">Essendon</a></li>
-		<li><a href="http://www.footygoss.com/main/club_news/fremantle/">Fremantle</a></li>
-		<li><a href="http://www.footygoss.com/main/club_news/geelong/">Geelong</a></li>
-		<li><a href="http://www.footygoss.com/main/club_news/hawthorn/">Hawthorn</a></li>
-		<li><a href="http://www.footygoss.com/main/club_news/kangaroos/">Kangaroos</a></li>
-		<li><a href="http://www.footygoss.com/main/club_news/melbourne/">Melbourne</a></li>
-		<li><a href="http://www.footygoss.com/main/club_news/port_adelaide/">Port Adelaide</a></li>
-		<li><a href="http://www.footygoss.com/main/club_news/richmond/">Richmond</a></li>
-		<li><a href="http://www.footygoss.com/main/club_news/st_kilda/">St. Kilda</a></li>
-		<li><a href="http://www.footygoss.com/main/club_news/sydney/">Sydney</a></li>
-		<li><a href="http://www.footygoss.com/main/club_news/west_coast/">West Coast</a></li>
-		<li><a href="http://www.footygoss.com/main/club_news/bulldogs/">Bulldogs</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/afl_general/" class="enclose">General AFL News</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/adelaide/">Adelaide</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/brisbane/">Brisbane</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/carlton/">Carlton</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/collingwood/">Collingwood</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/essendon/">Essendon</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/fremantle/">Fremantle</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/geelong/">Geelong</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/hawthorn/">Hawthorn</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/kangaroos/">Kangaroos</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/melbourne/">Melbourne</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/port_adelaide/">Port Adelaide</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/richmond/">Richmond</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/st_kilda/">St. Kilda</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/sydney/">Sydney</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/west_coast/">West Coast</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/bulldogs/">Bulldogs</a></li>
 		</ul>
 		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 	</li>
@@ -319,30 +497,30 @@ If you have any questions about this Policy or our web site, please feel free to
 
 		<!--[if lte IE 6]><table><tr><td><![endif]-->
 		<ul>
-		<li><a href="http://www.footygoss.com/main/club_news/claremont/" class="enclose">Claremont</a></li>
-		<li><a href="http://www.footygoss.com/main/club_news/east_fremantle/">East Fremantle</a></li>
-		<li><a href="http://www.footygoss.com/main/club_news/east_perth/">East Perth</a></li>
-		<li><a href="http://www.footygoss.com/main/club_news/peel/">Peel</a></li>
-		<li><a href="http://www.footygoss.com/main/club_news/perth/">Perth</a></li>
-		<li><a href="http://www.footygoss.com/main/club_news/south_fremantle/">South Fremantle</a></li>
-		<li><a href="http://www.footygoss.com/main/club_news/subiaco/">Subiaco</a></li>
-		<li><a href="http://www.footygoss.com/main/club_news/swan_districts/">Swan Districts</a></li>
-		<li><a href="http://www.footygoss.com/main/club_news/west_perth/">West Perth</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/claremont/" class="enclose">Claremont</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/east_fremantle/">East Fremantle</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/east_perth/">East Perth</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/peel/">Peel</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/perth/">Perth</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/south_fremantle/">South Fremantle</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/subiaco/">Subiaco</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/swan_districts/">Swan Districts</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/club_news/west_perth/">West Perth</a></li>
 		</ul>
 		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 	</li>
 
-	<li><a href="http://www.footygoss.com/main/news_general/aflnt/" title="AFLNT" target="_self">AFLNT</a></li>
-	<li><a href="http://www.footygoss.com/main/news_general/sanfl/" title="SANFL" target="_self">SANFL</a></li>
-	<li><a href="http://www.footygoss.com/main/breaking_news/" title="Breaking News" target="_self">Breaking News</a></li>
-	<li><a href="http://www.footygoss.com/main/top_stories/" title="Top Stories" target="_self">Top Stories</a></li>
+	<li><a href="http://www.footygoss.com/index.php/main/news_general/aflnt/" title="AFLNT" target="_self">AFLNT</a></li>
+	<li><a href="http://www.footygoss.com/index.php/main/news_general/sanfl/" title="SANFL" target="_self">SANFL</a></li>
+	<li><a href="http://www.footygoss.com/index.php/main/breaking_news/" title="Breaking News" target="_self">Breaking News</a></li>
+	<li><a href="http://www.footygoss.com/index.php/main/top_stories/" title="Top Stories" target="_self">Top Stories</a></li>
 	
 	<li class="fly"><a href="#nogo">Gains and Losses<!--[if IE 7]><!--></a><!--<![endif]-->
 
 		<!--[if lte IE 6]><table><tr><td><![endif]-->
 		<ul>
-		<li><a href="http://www.footygoss.com/main/results/gains_losses/afl/" class="enclose" title="AFL" target="_self">AFL</a></li>
-		<li><a href="http://www.footygoss.com/main/results/gains_losses/wafl/" title="WAFL" target="_self">WAFL</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/results/gains_losses/afl/" class="enclose" title="AFL" target="_self">AFL</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/results/gains_losses/wafl/" title="WAFL" target="_self">WAFL</a></li>
 
 		</ul>
 		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
@@ -360,15 +538,15 @@ If you have any questions about this Policy or our web site, please feel free to
 
 		<!--[if lte IE 6]><table><tr><td><![endif]-->
 		<ul>
-		<li><a href="http://www.footygoss.com/main/results/ladders/afl/" class="enclose" title="AFL" target="_self">AFL</a></li>
-		<li><a href="http://www.footygoss.com/main/results/ladders/wafl/" title="WAFL" target="_self">WAFL</a></li>
-		<li><a href="http://www.footygoss.com/main/results/ladders/wafl_colts/" title="WAFL Colts" target="_self">WAFL Colts</a></li>
-		<li><a href="http://www.footygoss.com/main/results/ladders/wafl_reserves/" title="WAFL Reserves" target="_self">WAFL Reserves</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/results/ladders/afl/" class="enclose" title="AFL" target="_self">AFL</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/results/ladders/wafl/" title="WAFL" target="_self">WAFL</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/results/ladders/wafl_colts/" title="WAFL Colts" target="_self">WAFL Colts</a></li>
+		<li><a href="http://www.footygoss.com/index.php/main/results/ladders/wafl_reserves/" title="WAFL Reserves" target="_self">WAFL Reserves</a></li>
 		</ul>
 		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 	</li>
 	
-	<li><a href="http://www.footygoss.com/main/results/reports/" title="Round News" target="_self">Round News</a></li>
+	<li><a href="http://www.footygoss.com/index.php/main/results/reports/" title="Round News" target="_self">Round News</a></li>
 	</ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -377,9 +555,9 @@ If you have any questions about this Policy or our web site, please feel free to
 	<!--[if lte IE 6]><table><tr><td><![endif]-->
 	<ul>
 	
-	<li><a href="http://www.footygoss.com/main/columns/talent/" title="Future Talent" target="_self">Future Talent</a></li>
-	<li><a href="http://www.footygoss.com/main/columns/memory/" title="Memory Lane" target="_self">Memory Lane</a></li>
-	<li><a href="http://www.footygoss.com/main/columns/otd/" title="On This Day" target="_self">On This Day</a></li>
+	<li><a href="http://www.footygoss.com/index.php/main/columns/talent/" title="Future Talent" target="_self">Future Talent</a></li>
+	<li><a href="http://www.footygoss.com/index.php/main/columns/memory/" title="Memory Lane" target="_self">Memory Lane</a></li>
+	<li><a href="http://www.footygoss.com/index.php/main/columns/otd/" title="On This Day" target="_self">On This Day</a></li>
 	</ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -388,14 +566,14 @@ If you have any questions about this Policy or our web site, please feel free to
 	<!--[if lte IE 6]><table><tr><td><![endif]-->
 	<ul>
 	
-	<li><a href="http://www.footygoss.com/main/fans_corner/poll/" title="Public Poll" target="_self">Public Poll</a></li>
-	<li><a href="http://www.footygoss.com/main/fans_corner/letters/" title="Letters" target="_self">Letters</a></li>
-	<li><a href="http://www.footygoss.com/main/fans_corner/rumour/" title="Rumour Mill" target="_self">Rumour Mill</a></li>
+	<li><a href="http://www.footygoss.com/index.php/main/fans_corner/poll/" title="Public Poll" target="_self">Public Poll</a></li>
+	<li><a href="http://www.footygoss.com/index.php/main/fans_corner/letters/" title="Letters" target="_self">Letters</a></li>
+	<li><a href="http://www.footygoss.com/index.php/main/fans_corner/rumour/" title="Rumour Mill" target="_self">Rumour Mill</a></li>
 	</ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 
-<li class="tc main"><a href="http://www.footygoss.com/forums/" class="enclose" title="FootyChat Forum" target="_self">Footychat Forum</a></li>
+<li class="tc main"><a href="http://www.footygoss.com/index.php/forums/" class="enclose" title="FootyChat Forum" target="_self">Footychat Forum</a></li>
 </ul>
 </div>
 
@@ -407,11 +585,11 @@ If you have any questions about this Policy or our web site, please feel free to
 	
 		<h2>Mailing List</h2>
 
-<form id="mailinglist_form" method="post" action="http://www.footygoss.com/">
+<form id="mailinglist_form" method="post" action="http://www.footygoss.com/index.php">
 <div>
-<input type="hidden" name="XID" value="e0a81837732061f66e6bb2a59f9c9099d3fa51b6">
+<input type="hidden" name="XID" value="1068c2392ea86cf07de5f6ebb13e5847f11efc85">
 <input type="hidden" name="ACT" value="3">
-<input type="hidden" name="RET" value="http://www.footygoss.com/main/legal/privacy/">
+<input type="hidden" name="RET" value="http://www.footygoss.com/index.php/main/legal/privacy/">
 <input type="hidden" name="list" value="footygoss">
 </div>
 
@@ -430,23 +608,23 @@ If you have any questions about this Policy or our web site, please feel free to
 	<!--left boxes -->
 	<div id="boxes">
 		<div class="boxlink">
-<a href="http://www.footygoss.com/main/results/reports/" title="Round News" target="_self">
+<a href="http://www.footygoss.com/index.php/main/results/reports/" title="Round News" target="_self">
 			<img name="gainslossesblue" src="http://www.footygoss.com/themes/site_themes/footy/images/round-reports-blue.gif" width="150" height="90" border="0" usemap="#m_gainslossesblue" alt="Round News">
 </a>
 			<!--//<map name="m_gainslossesblue">
-			<area shape="rect" coords="88,57,118,71" href="http://www.footygoss.com/main/results/gains_losses/wafl/" title="Gains WAFL" alt="Gains WAFL" >
-			<area shape="rect" coords="55,57,78,71" href="http://www.footygoss.com/main/results/gains_losses/afl/" title="Gains AFL" alt="Gains AFL" >
+			<area shape="rect" coords="88,57,118,71" href="http://www.footygoss.com/index.php/main/results/gains_losses/wafl/" title="Gains WAFL" alt="Gains WAFL" >
+			<area shape="rect" coords="55,57,78,71" href="http://www.footygoss.com/index.php/main/results/gains_losses/afl/" title="Gains AFL" alt="Gains AFL" >
 			</map>//-->
 		</div>
 		
 		<!--<div class="boxlink">
-			<a href="http://www.footygoss.com/main/columns/memory/" title="Memory Lane" target="_self">
+			<a href="http://www.footygoss.com/index.php/main/columns/memory/" title="Memory Lane" target="_self">
 				<img alt="Memory Lane" src="http://www.footygoss.com/themes/site_themes/footy/images/memory-lane-blue.gif">
 			</a>
 		</div>
 		
 		<div class="boxlink">
-			<a href="http://www.footygoss.com/main/columns/talent/" title="Future Talent" target="_self">
+			<a href="http://www.footygoss.com/index.php/main/columns/talent/" title="Future Talent" target="_self">
 				<img alt="Future Talent" src="/themes/site_themes/footy/images/future-talent-blue.gif">
 			</a>
 		</div>-->
@@ -469,10 +647,17 @@ If you have any questions about this Policy or our web site, please feel free to
 	<!-- tower -->
 	<div class="tower">
 	<!-- begin ad tag  (tile=1) -->
-<script language="JavaScript" type="text/javascript">
-ord=Math.random()*10000000000000000;
-document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/footygoss/;tile=1;sz=120x600;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
-</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/footygoss/;tile=1;sz=120x600;ord=5258603492662568?" type="text/javascript"></script><noscript><a href="http://ad.uk.doubleclick.net/jump/footygoss/;tile=1;sz=120x600;ord=123456789?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/footygoss/;tile=1;sz=120x600;ord=123456789?" width="120" height="600" border="0" alt=""></a></noscript>
+<script language="JavaScript">
+if(typeof(ord)=="undefined"){var ord=Math.floor(Math.random()*10000000000)};
+if(typeof(tile)=="undefined"){var tile=1} else {tile++};
+if(typeof(dcopt)=="undefined"){var dcopt="dcopt=ist;"} else {dcopt=""};
+document.write('<script src="http://ad.au.doubleclick.net/adj/footygoss;' + dcopt + 'tile=' + tile + ';sz=120x600;ord=' + ord + '?" language="JavaScript"><\/SCRIPT>');
+</script><script src="http://ad.au.doubleclick.net/adj/footygoss;dcopt=ist;tile=1;sz=120x600;ord=8846915074?" language="JavaScript"></script>
+<noscript>
+<A href="http://ad.au.doubleclick.net/jump/footygoss;sz=120x600;ord=123456789?" target="_blank">
+<img border="0" width="120" src="http://ad.au.doubleclick.net/ad/footygoss;sz=120x600;ord=123456789?" height="600">
+</A>
+</noscript>
 <!-- End ad tag -->		
 	</div>
 
@@ -484,9 +669,9 @@ document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/
 	
 		<h2>Member Area</h2>
 		
-					<form method="post" action="http://www.footygoss.com/">
+					<form method="post" action="http://www.footygoss.com/index.php">
 <div>
-<input type="hidden" name="XID" value="fb238822d7690599718dbdfbcb09bc783f18c113">
+<input type="hidden" name="XID" value="2fab8775e7b476bdb12ac7c60aae208af5671421">
 <input type="hidden" name="ACT" value="9">
 <input type="hidden" name="RET" value="main/legal/privacy">
 </div>
@@ -505,8 +690,8 @@ document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/
 
 			<p><input type="submit" name="submit" value="Submit" class="submit"></p>
 
-			<p class="small"><a href="http://www.footygoss.com/forums/member/forgot_password/">Forgot your password?</a></p>
-			<p class="small"><a href="http://www.footygoss.com/forums/member/register/">Register</a></p>
+			<p class="small"><a href="http://www.footygoss.com/index.php/forums/member/forgot_password/">Forgot your password?</a></p>
+			<p class="small"><a href="http://www.footygoss.com/index.php/forums/member/register/">Register</a></p>
 
 			</form>
 				
@@ -516,38 +701,49 @@ document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/
 	</div>
 	
 
-	<!-- tower -->
-	<div class="tower">
-		<!-- begin ad tag  (tile=2) -->
-<!--<script language="JavaScript" type="text/javascript">
-document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/footygoss/;tile=2;sz=120x600;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
-</script><noscript><a href="http://ad.uk.doubleclick.net/jump/footygoss/;tile=2;sz=120x600;ord=123456789?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/footygoss/;tile=2;sz=120x600;ord=123456789?" width="120" height="600" border="0" alt=""></a></noscript>-->
-<!-- End ad tag -->
-<!--JavaScript General Redirect Tag // Tag for network 591: MediaRun Australia // Website: Footygoss // Page: ROS AU // Placement: 120 x 600 (1406035) // created at: 16-Aug-07 AM 09:11-->
-<script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|591|1406035|0|168|ADTECH;loc=100;target=_blank;misc=[TIMESTAMP];rdclick="></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|591|1406035|0|168|ADTECH;loc=300;misc=[TIMESTAMP]" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|591|1406035|0|168|ADTECH;loc=300;misc=[TIMESTAMP]" border="0" width="120" height="600"></a></noscript>
-<!-- End of JavaScript Tag -->
-	</div>
-	
 	<!-- poll -->
 	<div class="poll">
 		
 		<h2>Poll</h2>
 		<p>
-			
-				</p><form method="post" action="http://www.footygoss.com/main/legal/privacy/">
+<!--			
+				<form method="post" action="http://www.footygoss.com/index.php/main/legal/privacy/"  >
 <div>
-<input type="hidden" name="XID" value="a0fd6c43d87e0d29bbeaee5e5da97de8858612f6">
+<input type="hidden" name="XID" value="5d2814ec8686305155ea825725239696476a4a88" />
+<input type="hidden" name="mode" value="vote" />
+<input type="hidden" name="poll" value="75" />
+</div>
+
+<div class='pollWrapper'>
+<div class='pollBlock'>
+<div class='pollQuestion'>Would Ben Cousins be a draw card to WA Footy if he played for East Fremantle or Perth</div>
+<div class='pollAnswerBlock'>
+<div class='pollAnswer'><label for='p75_1'><input type='radio' class='pollRadio' name='vote' alt='poll option' id='p75_1' value='1' />Yes</label></div>
+<div class='pollAnswer'><label for='p75_2'><input type='radio' class='pollRadio' name='vote' alt='poll option' id='p75_2' value='2' />No</label></div>
+</div>
+<div class='pollButtonBlock'>
+<input class='pollButton' type='submit' name='submit' value='Vote' />
+</div>
+</div>
+</div>
+</form>
+
+			 -->
+<!-- Shows the latest poll. Must not be cached. -->
+
+    </p><form method="post" action="http://www.footygoss.com/index.php/main/legal/privacy/">
+<div>
+<input type="hidden" name="XID" value="5be8ee4245396cb1dfe1a419bb7ce1a2c7f899c0">
 <input type="hidden" name="mode" value="vote">
-<input type="hidden" name="poll" value="69">
+<input type="hidden" name="poll" value="75">
 </div>
 
 <div class="pollWrapper">
 <div class="pollBlock">
-<div class="pollQuestion">Which team is a challenger to Subiaco?</div>
+<div class="pollQuestion">Would Ben Cousins be a draw card to WA Footy if he played for East Fremantle or Perth</div>
 <div class="pollAnswerBlock">
-<div class="pollAnswer"><label for="p69_1"><input type="radio" class="pollRadio" name="vote" alt="poll option" id="p69_1" value="1">South Fremantle</label></div>
-<div class="pollAnswer"><label for="p69_2"><input type="radio" class="pollRadio" name="vote" alt="poll option" id="p69_2" value="2">Perth</label></div>
-<div class="pollAnswer"><label for="p69_3"><input type="radio" class="pollRadio" name="vote" alt="poll option" id="p69_3" value="3">Swan Districts</label></div>
+<div class="pollAnswer"><label for="p75_1"><input type="radio" class="pollRadio" name="vote" alt="poll option" id="p75_1" value="1">Yes</label></div>
+<div class="pollAnswer"><label for="p75_2"><input type="radio" class="pollRadio" name="vote" alt="poll option" id="p75_2" value="2">No</label></div>
 </div>
 <div class="pollButtonBlock">
 <input class="pollButton" type="submit" name="submit" value="Vote">
@@ -556,40 +752,38 @@ document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/
 </div>
 </form>
 
-			
+
 		<p></p>
 	</div>
+
+	<!-- tower -->
+	<div class="tower">
+		<!-- BEGIN STANDARD TAG - 120 x 600 (no flash) - ROS: Run-of-site - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="120" height="600" src="http://ad.bannerconnect.net/st?ad_type=iframe&amp;ad_size=120x600&amp;section=365719&amp;ban_flash=1"></iframe>
+<!-- END TAG -->
+
+	</div>
+	
+
 
 </div>
 <div id="copyright">
 
 	<div class="footer_ad">
-<!--JavaScript General Redirect Tag // Tag for network 591: MediaRun Australia // Website: Footygoss // Page: ROS AU // Placement: 468 x 60 (1406037) // created at: 16-Aug-07 AM 09:11-->
-<script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|591|1406037|0|1|ADTECH;loc=100;target=_blank;misc=[TIMESTAMP];rdclick="></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|591|1406037|0|1|ADTECH;loc=300;misc=[TIMESTAMP]" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|591|1406037|0|1|ADTECH;loc=300;misc=[TIMESTAMP]" border="0" width="468" height="60"></a></noscript>
-<!-- End of JavaScript Tag -->
+<!-- No advertising on the footer of the main page, as there are ads embedded in the content -->
 </div>
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-3324523-1");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
 
 <script type="text/javascript">
 <!--
 function confirmation() {
-	var answer = confirm("Hi . Our records indicate that you are not yet signed up to our mailing list. Click OK to join. You will only see this message once, if you want to sign up at a later date, you can use the mailing list sign up box on the left hand side of the page. Thanks for using FootyGoss.com!");
+ var answer = confirm("Hi . Our records indicate that you are not yet signed up to our mailing list. Click OK to join. You will only see this message once, if you want to sign up at a later date, you can use the mailing list sign up box on the left hand side of the page. Thanks for using FootyGoss.com!");-->
 	if (answer){
 		var cur_loc = window.location;
-		window.location = "http://www.footygoss.com/code_blocks/manage_mailing/?action=yes&user=0&redirect=" + cur_loc;
+		window.location = "http://www.footygoss.com/index.php/code_blocks/manage_mailing/?action=yes&user=0&redirect=" + cur_loc;
 	}
 	else{
 		var cur_loc = window.location;
-		window.location = "http://www.footygoss.com/code_blocks/manage_mailing/?action=no&user=0&redirect=" + cur_loc;
+		window.location = "http://www.footygoss.com/index.php/code_blocks/manage_mailing/?action=no&user=0&redirect=" + cur_loc;
 	}
 }
 //-->
@@ -599,13 +793,13 @@ function confirmation() {
 
 	<div id="navBeta">
 
-	<a href="http://www.footygoss.com/main/about/contact/" title="Contact Us" target="_self">Contact Us</a> | 
-	<a href="http://www.footygoss.com/main/legal/privacy/" title="Privacy Policy" target="_self">Privacy Policy</a> | 
-	<a href="http://www.footygoss.com/main/legal/terms/" title="Terms of Use" target="_self">Terms of Use</a>
+	<a href="http://www.footygoss.com/index.php/main/about/contact/" title="Contact Us" target="_self">Contact Us</a> | 
+	<a href="http://www.footygoss.com/index.php/main/legal/privacy/" title="Privacy Policy" target="_self">Privacy Policy</a> | 
+	<a href="http://www.footygoss.com/index.php/main/legal/terms/" title="Terms of Use" target="_self">Terms of Use</a>
 
 </div>
 
-	<p>Copyright © 2002 - 2008 | Site Maintained By <a href="http://www.websmart.com.au" title="WebSmart Design" target="_blank">WebSmart Design</a></p>
+	<p>Copyright © FootyGoss Pty Ltd 2002 - 2008 | Site maintained by <a href="http://www.sirtech.com.au">Sir Technology</a></p>
 
 </div>
 
