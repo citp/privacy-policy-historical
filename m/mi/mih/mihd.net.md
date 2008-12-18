@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mihd.net privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518182800id_/http%3A//mihd.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mihd.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218101215id_/http%3A//mihd.net/privacy) for the most accurate reproduction.*
 
 # Privacy - mihd.net
 
- Loading...
+ loading...
 
 At MiHD.net we recognize that privacy is important. This document outlines the types of personal information we receive and collect when you use of MiHD.net services, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us. 
 
