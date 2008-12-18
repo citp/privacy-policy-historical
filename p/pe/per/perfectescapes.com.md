@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the perfectescapes.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511224035id_/http%3A//www.perfectescapes.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectescapes.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218070555id_/http%3A//perfectescapes.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Perfect Escapes - Privacy Policy
 
  
 
-| [](http://www.truste.org/ivalidate.php?url=www.perfectescapes.com&sealid=101)| Perfect Escapes is a certified licensee of the TRUSTe® Privacy Seal Program. The privacy statement and practices of www.perfectescapes.com have been reviewed by TRUSTe for compliance with its strict program requirements.   
----|---  
+| [](http://www.truste.org/ivalidate.php?url=www.perfectescapes.com&sealid=101) | Perfect Escapes is a certified licensee of the TRUSTe® Privacy Seal Program. The privacy statement and practices of www.perfectescapes.com have been reviewed by TRUSTe for compliance with its strict program requirements.  | **Last Updated: May 23, 2008**  
+---|---|---  
   
 
 
@@ -19,7 +19,7 @@ This Privacy Policy describes the information Perfect Escapes collects about its
 
 By using this Site, you signify your assent to this Privacy Policy. Perfect Escapes may amend this Privacy Policy at any time and will notify Users of any such amendment by posting the amended Privacy Policy on the Site. A User's continued use of Perfect Escapes' services, or of this Site, following such posting will mean that the User has accepted those amendments. 
 
-By accepting the Perfect Escapes User Agreement, you consent to our use and disclosure of your personally identifiable information as set forth in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Perfect Escapes [User Agreement](https://web.archive.org/web/20080511224035id_/http%3A//www.perfectescapes.com/Agreement.aspx) and [ Legal Notice](https://web.archive.org/web/20080511224035id_/http%3A//www.perfectescapes.com/Legal.aspx). Any dispute over privacy is subject to this Privacy Policy and to our User Agreement, including limitations on damages, arbitration of disputes, and application of the law of the State of California. 
+By accepting the Perfect Escapes User Agreement, you consent to our use and disclosure of your personally identifiable information as set forth in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Perfect Escapes [User Agreement](https://web.archive.org/web/20081218070555id_/http%3A//perfectescapes.com/Agreement.aspx) and [ Legal Notice](https://web.archive.org/web/20081218070555id_/http%3A//perfectescapes.com/Legal.aspx). Any dispute over privacy is subject to this Privacy Policy and to our User Agreement, including limitations on damages, arbitration of disputes, and application of the law of the State of California. 
 
 INFORMATION THAT PERFECT ESCAPES COLLECTS.
 
@@ -34,19 +34,23 @@ Perfect Escapes logs IP addresses (a unique number assigned to every connection 
 To receive our free e-mail updates, and to receive other offers from time to time, you must first register by providing your e-mail address and postal Zip Code. Information you provide may be used to contact you about the services on our Site. 
 
 
-  3. Promotions:  
+  3. Hotel Reservations:  
+If you decide to make a hotel reservation through the Site, to process your request we collect contact information such as your name, address and email address, as well as payment information such as your credit card account information. 
+
+
+  4. Promotions:  
 From time to time we may provide you the opportunity to participate in sweepstakes or other promotions on our Site, which might be sponsored or conducted by a third party. If you participate, we will request certain personally identifiable information from you. Participation in these sweepstakes is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information. If there is a third party sponsor involved please make sure to review that party's privacy policy. 
 
 
-  4. Surveys:  
+  5. Surveys:  
 We may from time to time provide a survey for our Users to fill out providing us with demographic information (such as income level and gender). We encourage you to submit this information so we can provide you a more personalized experience on our Site but participation is entirely voluntary. 
 
 
-  5. Third Party Links:  
+  6. Third Party Links:  
 We encourage you to be aware when you leave our Site and to read the privacy statements of each and every Web Site that collects personally identifiable information. This Privacy Policy applies only to information collected by our Site. 
 
 
-  6. User Requests for Third Party Service Provider Information:  
+  7. User Requests for Third Party Service Provider Information:  
 From time to time we offer through our Site opportunities for Users to request from third party service providers information about the third party’s products or services. In order to facilitate the User’s request for information regarding a third party’s services, we may ask that the User provide personally identifiable information such as the User’s name, address, e-mail address and/or telephone number before receiving the third party service provider information. We collect this information only through Site pages that have an expressly stated purpose of permitting the User to request the third party service provider’s information or brochures, and we clearly state on the relevant page of the Site that the User’s information will be forwarded to the third party service provider. We do not put this collected name, address or telephone information to use ourselves, and we do not share this information with any third party other than the third party disclosed on the page . 
 
 USE OF PERSONAL INFORMATION.
@@ -92,9 +96,13 @@ THE SUITE LIFE BLOG
 
 If you access our Suite Life blog through this Web site, you should be aware that any personally identifiable information you submit to or through the blog can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
 
+HOTEL REVIEWS
+
+We provide users an opportunity to review hotels on the Site. Should you decide to write a review, we request certain personal information such as your first name, last name, city and country of residence, and your email address (which we do not publish) to complete your review. Please be aware that any personally identifiable information you submit within a review can be read, collected, or used by other users. We are not responsible for any personally identifiable information that you may choose to submit in these forums. 
+
 MODIFICATIONS TO PRIVACY POLICY
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. 
+If we decide to make any material changes to our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. 
 
 TRUSTe PRIVACY PROGRAM
 
