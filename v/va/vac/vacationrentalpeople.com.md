@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vacationrentalpeople.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618161628id_/http%3A//www.vacationrentalpeople.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationrentalpeople.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218151110id_/http%3A//www.vacationrentalpeople.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Vacationrentalpeople.com Privacy Policy
 
 **Vacation Rental People.com LTD  ** **PRIVACY POLICY**
 
@@ -63,14 +63,3 @@ Privacy V1.1 February 2008
 
 Modification History :  
 1.0 to 1.1 : Modified point 3 of "What we do with your information" to permit usage as per our T&C's 
-
-(c) 2007, 2008 Vacation Rental People.com Ltd
-
-* * *
-
-  
-
-
-[ ](http://www.awin1.com/cread.php?s=96326&v=1238&q=71850&r=78838)
-
-[ ](http://www.awin1.com/cread.php?s=106490&v=1901&q=70705&r=78838)
