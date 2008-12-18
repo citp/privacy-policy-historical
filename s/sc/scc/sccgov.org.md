@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sccgov.org privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229081300id_/http%3A//www.sccgov.org/portal/site/scc/footer%3FarticleType%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sccgov.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218140803id_/http%3A//www.sccgov.org/portal/site/scc/footer%3FarticleType%3D8) for the most accurate reproduction.*
 
 # The County of Santa Clara - SCC Public Portal
 
