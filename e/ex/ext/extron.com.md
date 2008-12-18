@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extron.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609204635id_/http%3A//www.extron.com/company/article.aspx%3Fid%3Dprivacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extron.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218110907id_/http%3A//www.extron.com/company/article.aspx%3Fid%3Dprivacystatement) for the most accurate reproduction.*
 
 # Extron Electronics - Extron Electronics Privacy Policy
 
@@ -17,6 +17,13 @@
   ****  
   
   ****  
+ | [Advertisements](https://web.archive.org/download/download.aspx?type=file&material=25)  
+---|---  
+[Andrew Online](https://web.archive.org/company/andrewonline.aspx)  
+[ExtroNews](https://web.archive.org/company/extronews.aspx)  
+[News](https://web.archive.org/company/archive.aspx?archive=news)  
+[Press Releases](https://web.archive.org/company/archive.aspx?archive=press)  
+[Tweeker Contest](https://web.archive.org/company/tweeker.aspx)  
   
 
 
@@ -31,7 +38,7 @@ Extron Electronics cares about your right to privacy. This policy explains how w
 The Extron Web site is available for use by anyone, regardless of their willingness to disclose personal identification information. Sharing your personal identification information makes it easier for you to: 
 
   * Request information or materials concerning our products and services.
-  * Receive personalized newsletters and other messages on our products and services that we feel may be relevant to your interests, and generally facilitate future communication with you. For example, your Extron Web site registration information and customer profile will be used to generate personalized web content and send you Extron E-News, a monthly e-mail newsletter (if you select that option), and occasionally send you informative e-mails about Extron products and services.
+  * Receive personalized newsletters and other messages on our products and services that we feel may be relevant to your interests. Your personal identity information generally facilitates future communication with you. For example, your Extron Web site registration information and customer profile will be used to generate personalized Web content and send you Extron E-News, a monthly e-mail newsletter (if you select that option), and to occasionally send you informative e-mails about Extron products and services.
   * Purchase Extron products online (Extron dealers only).
   * Download software that supports Extron products.
   * View specialized content such as pricing, product availability, and special events (available to Extron dealers only).
@@ -45,31 +52,29 @@ We also collect certain anonymous information that cannot be associated with you
 
 #### Opting In, Opting Out
 
-You may opt in or out of receiving information at any time. When you register with Extron, you have the option of selecting or deselecting the information you wish to receive (or not receive) from us. You may also change your mind and subscribe or unsubscribe at any time. For example, e-mail messages will contain instructions on how to unsubscribe from receiving the e-mail in question: 
+You may opt in or out of receiving information at any time. When you register with Extron, you have the option of selecting or deselecting the information you wish to receive (or not receive) from us. You may also change your mind and subscribe or unsubscribe at any time. For example, e-mail messages will contain instructions on how to unsubscribe so that you will not receive the e-mail in question in the future: 
 
   * If you'd like to be removed from this E-News, please send an e-mail message to [e-news@extron.com](mailto:e-news@extron.com). Type the words UNSUBSCRIBE E-NEWS followed by your e-mail address in the subject line.
   * To unsubscribe from A/V Wire, please send an e-mail message to [avwire@extron.com](mailto:avwire@extron.com) with the words UNSUBSCRIBE A/V WIRE followed by your e-mail address in the subject line.
   * If you are not involved in the sales or support of Extron products, or you prefer to receive NewsFlash via fax, please contact your Extron Customer Service Representative.
 
-If you have a dealer login, you can go to Preferences to change your subscriptions. 
+If you have a dealer login, you can go to Preferences to change your subscriptions.
 
-#### Cookies
-
-Cookies are small text files that Web sites place on your computer's hard drive. If your browser is set to accept cookies, then your browser adds the text in a small file. We do not use cookies to read any other information on your computer's hard drive. We use cookie technology to authenticate your access to various areas of our Web site, tailor its content to your dealer authorization, and help us analyze Web traffic in general. Cookies may be used when you request something from Extron such as literature, CD-ROMs, technical support, etc. Most browsers are initially set to accept cookies. You can set yours to refuse cookies or to warn you before a cookie is placed. If you choose not to accept cookies, you may have to manually input user IDs and passwords to receive certain data. 
+Cookies are small text files that Web sites place on your computer's hard drive. If your browser is set to accept cookies, then your browser adds the text in a small file. We do not use cookies to read any other information on your computer's hard drive. We use cookie technology to authenticate your access to various areas of our Web site, tailor its content to your dealer authorization, and help us analyze Web traffic in general. Cookies may be used when you request something from Extron such as literature, CD-ROMs, technical support, etc. Most browsers are initially set to accept cookies. You can set yours to refuse cookies or to warn you before a cookie is placed. If you choose not to accept cookies, you may have to manually input user IDs and passwords to receive certain data.
 
 #### Accuracy and Access
 
-We want your personal identification information to remain accurate. If you are registered with Extron, you may contact your Extron Customer Service Representative to confirm or change your information. See [Contact Us](https://web.archive.org/company/contactus.aspx). 
+We want your personal identification information to remain accurate. If you are registered with Extron, you may contact your Extron Customer Service Representative to confirm or change your information. See [Contact Us](https://web.archive.org/company/contactus.aspx).
 
 #### Safeguarding Your Personal Identification Information
 
-We protect the personal identification information you share with us. Extron uses a variety of commercially available security technologies to protect your personal identification information, including secure servers and firewalls. 
+We protect the personal identification information you share with us. Extron uses a variety of commercially available security technologies to protect your personal identification information, including secure servers and firewalls.
 
 #### Disclosure to Third Parties
 
-Extron does not share your personal identification information with third party organizations. 
+Extron does not share your personal identification information with third party organizations.
 
-#### Contact us
+#### Contact Us
 
 If you have any questions about our privacy policy, contact your Extron Customer Service Representative at one of the numbers below: 
 
@@ -78,8 +83,8 @@ If you have any questions about our privacy policy, contact your Extron Customer
 >  **Asia** +800.S3.EXTRON (+800.7339.8766) or +65.6383.4400  
 >  **Japan** +81.3.3511.7655
 
-We reserve the right to change this policy at any time. While we do not intend to change this policy often, please check back occasionally to be sure that you have read and agree with what information we collect, how we use it, and under what circumstances we disclose it. For more information on using Extron's Web sites, see [Terms of Use](https://web.archive.org/company/archive.asp?id=termsprivacy).
+We reserve the right to change this policy at any time. While we do not intend to change this policy often, please check back occasionally to be sure that you have read and agree with the type of information we collect, how we use it, and under what circumstances we disclose it. For more information on using Extron's Web sites, see [Terms of Use](https://web.archive.org/company/archive.asp?id=termsprivacy).
 
-Policy last revised on June 29, 2004.
+Policy last revised on October 31, 2008.
 
 | 
