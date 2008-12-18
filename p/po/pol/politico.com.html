@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the politico.com privacy policy that was archived on 2008-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080618015726id_/http%3A//www.politico.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the politico.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218034936id_/http%3A//www.politico.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <link rel="shortcut icon" type="image/ico" href="http://www.politico.com/favicon.ico">
@@ -16,7 +16,25 @@
 
 <script type="text/javascript" src="http://www.politico.com/swfobject.js"></script>
 <script type="text/javascript" src="http://www.politico.com/js/animatedcollapse.js"></script>
-<script type="text/javascript" src="http://www.politico.com/politicov3.js"></script>
+
+<script type="text/javascript" src="http://www.politico.com/incAutosuggestKeyword.js"></script>
+<style>
+#suggestionForm td{
+	position: relative;
+}
+#mainsuggestdiv
+{
+position : relative;left : 0; z-index:999;
+}
+.suggest {
+	position : absolute;
+	cursor: default;
+	display : none;
+	left: 0;
+	top: 15px;
+	max-height:200px;
+}
+</style>
 
  <!-- OAS SETUP begin -->
  <script type="text/javascript">
@@ -51,7 +69,7 @@
     OAS_NORMAL(pos);
    }
    }
- </script><script language="JavaScript1.1" src="http://oascentral.wjla.com/RealMedia/ads/adstream_mjx.ads/www.politico.com/1639832614@x01,x05?"></script>
+ </script><script language="JavaScript1.1" src="http://oascentral.wjla.com/RealMedia/ads/adstream_mjx.ads/www.politico.com/1106268764@x01,x05?"></script>
  <!-- OAS SETUP end --> <!-- START OF SDC Advanced Tracking Code -->
 <!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
 <!-- V8.0 -->
@@ -438,6 +456,8 @@ dcsTag();
 <IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcs3tne5r00000wgiy2f55etr_4b6o/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.0">
 </noscript>
 <!-- END OF SmartSource Data Collector  TAG -->	<script type="text/javascript">
+function valButton(btn) {var cnt = -1;for (var i=btn.length-1; i > -1; i-- ) {if (btn[i].checked) {cnt = i; i = -1;}}if (cnt > -1) {return btn[cnt].value;} else {return null;}}
+
 function Trim(str) {
 	while(str.charAt(0) == (" ")) {
 		str = str.substring(1);
@@ -593,7 +613,7 @@ function pop_windowCartoonNoResize(url,wd,ht) {
 			 var popit = window.open(url,'console','scrollbars=no,resizable=no,width='+wd+',height='+ht);
 			 }
 function pop_windowKoteki(url) {
-			 var popit = window.open(url,'console','scrollbars=no,resizable=no,width=810,height=650');
+			 var popit = window.open(url,'console','scrollbars=no,resizable=no,width=1024,height=650');
 			 }			 
 function pop_windowCartoonScroll(url,wd,ht) {
 			 var popit = window.open(url,'console','scrollbars=yes,resizable=no,width='+wd+',height='+ht);
@@ -636,7 +656,7 @@ function openPopup(url) {
 
 //Input the IDs of the IFRAMES you wish to dynamically resize to match its content height:
 //Separate each ID with a comma. Examples: ["myframe1", "myframe2"] or ["myframe"] or [] for none:
-var iframeids=["calloutboxIFrame","mtvuiframe"]
+var iframeids=["calloutboxIFrame","mtvuiframe","politico44IFrame"]
 
 //Should script hide iframe from browsers that don't support this script (non IE5+/NS6+ browsers. Recommended):
 var iframehide="yes"
@@ -817,10 +837,11 @@ menu2[3]='<a href="http://dyn.politico.com/snetwork/profile/profile_account_edit
 menu2[4]='<a href="http://www.politico.com/employment/">Employment</a>'
 menu2[5]='<a href="http://mobile.politico.com/">Mobile Politico</a>'
 menu2[6]='<a href="http://www.politico.com/inprint.html">Politico in Print</a>'
-menu2[7]='<a href="http://www.politico.com/rss/">RSS/Widgets</a>'
-menu2[8]='<a href="http://www.politico.com/sitemap/">Site Map</a>'
-menu2[9]='<a href="http://www.cafepress.com/thepolitico">Store</a>'
-menu2[10]='<a href="http://www.politico.com/subscriptions/">Subscription</a>'
+menu2[7]='<a href="http://dyn.politico.com/politicojobs/">Politico Jobs</a>'
+menu2[8]='<a href="http://www.politico.com/rss/">RSS/Widgets</a>'
+menu2[9]='<a href="http://www.politico.com/sitemap/">Site Map</a>'
+menu2[10]='<a href="http://www.cafepress.com/thepolitico">Store</a>'
+menu2[11]='<a href="http://www.politico.com/subscriptions/">Subscription</a>'
 		
 		
 		
@@ -973,12 +994,35 @@ function ReadCookie(name) {
 	}
 	return null;
 }
+</script> <!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-7bhLrd63bC8jI"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<a href="http://www.quantcast.com/p-7bhLrd63bC8jI" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-7bhLrd63bC8jI.gif" style="display: none;" border="0" height="0" width="0" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag --> <script language="JavaScript">
+	function previewSlideShow(type,id) {
+		if(isDefined("slideshow") == true) {
+			slideshow.close();
+		}
+		
+			slideshow = window.open("http://www.politico.com/slideshow/slideshow.html?xml=xml/" + id + "#id=" + id, "slideshow", "width=1000,height=775,status=no,resizable=yes,top=20,left=20");
+		
+	}
+	function isDefined(variable) {
+		return (typeof(window[variable]) != "undefined");
+	}
 </script>
 
 
 <link rel="stylesheet" href="http://www.politico.com/stylemainv3.css" type="text/css">
 <link rel="stylesheet" href="http://www.politico.com/css/dropdownmenu.css" type="text/css">
 <link rel="stylesheet" href="http://www.politico.com/css/modal.css" type="text/css" media="screen" title="no title">
+<link rel="stylesheet" href="http://www.politico.com/css/interim.css" type="text/css">
 
 
 <!--[if IE 6]>
@@ -1014,7 +1058,7 @@ function ReadCookie(name) {
 	
 	
 	<tr>
-		<td colspan="20" bgcolor="#FFFFFF"><div style="padding:5px 0px 5px 10px; line-height:1.5em; vertical-align:middle; float:left"><a href="http://www.politico.com" class="topnav">Home</a>&nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp;<span class="topnavblack">My Politico:</span> 
+		<td colspan="20" bgcolor="#FFFFFF"><div style="padding:5px 0px 5px 5px; line-height:1.5em; vertical-align:middle; float:left"><a href="http://www.politico.com" class="topnav">Home</a>&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;<span class="topnavblack">My Politico:</span> 
 		
 <script>
 var handle = ReadCookie('MEMBERHANDLE'); 
@@ -1023,101 +1067,120 @@ if (handle != null)
 else {document.write('<A HREF="http://dyn.politico.com/members" class="topnav">Log In / Register</A>')}
 </script><a href="http://dyn.politico.com/members" class="topnav">Log In / Register</a>		
 		
-		&nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp;<a href="http://www.politico.com/aboutus/feedback.html" class="topnavred">Feedback</a></div>
+		&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;<a href="http://www.politico.com/aboutus/feedback.html" class="topnav">Feedback</a>&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;<a href="http://dyn.politico.com/politicojobs/" class="topnavred">Classifieds</a></div>
 		
-		
-		<form action="http://dyn.politico.com/mainsearch.cfm" method="get" name="searchform">
+		<form action="http://find.politico.com/index.cfm" method="get" name="searchform" style="margin:0px; padding:0px">
 	    <input type="hidden" name="adv" value="0">
 		<div style="padding:5px 0px 5px 5px; line-height:1.5em; vertical-align:middle; float:right; background-color:#f2f2f2">
-			<div style="float:left; vertical-align:middle;"><span class="topnavgray">Find stories by:</span>&nbsp;<span class="topnavblue">Author</span>&nbsp;</div>
+			<div style="float:left; vertical-align:middle;"><span class="topnavgray">Find Stories by:</span>&nbsp;<span class="topnavblue">Author</span>&nbsp;</div>
 			<div style="float:left; vertical-align:middle;">
 			
 			<select name="reporters" style="font-family:arial; font-size:10px;color:#696969;font-weight:bold; width:130px;">
-				<option value="">Any Reporter</option>
+				<option value="">» Any Reporter</option>
 			
-				<option value="557" title="Alyssa Schwenk - The Daily Pennsylvanian">Alyssa Schwenk - The Daily Pennsylvanian</option>
+				<option value="810" title="Abruzzese, Sarah ">Abruzzese, Sarah </option>
 			
-				<option value="411" title="Amie Parnes">Amie Parnes</option>
+				<option value="318" title="Adler, Ben ">Adler, Ben </option>
 			
-				<option value="24" title="Andrew Glass">Andrew Glass</option>
+				<option value="550" title="Alexovich, Ariel ">Alexovich, Ariel </option>
 			
-				<option value="549" title="Angelica Dongallo - The Daily Californian">Angelica Dongallo - The Daily Californian</option>
+				<option value="32" title="Allen, Mike ">Allen, Mike </option>
 			
-				<option value="31" title="Anne Schroeder Mullins">Anne Schroeder Mullins</option>
+				<option value="616" title="Barbash, Fred ">Barbash, Fred </option>
 			
-				<option value="27" title="Aoife McCarthy">Aoife McCarthy</option>
+				<option value="738" title="Barr, Andy ">Barr, Andy </option>
 			
-				<option value="556" title="Ashley Trott - The Daily Californian">Ashley Trott - The Daily Californian</option>
+				<option value="36" title="Bresnahan, John ">Bresnahan, John </option>
 			
-				<option value="291" title="Avi Zenilman">Avi Zenilman</option>
+				<option value="58" title="Budoff Brown, Carrie ">Budoff Brown, Carrie </option>
 			
-				<option value="318" title="Ben Adler">Ben Adler</option>
+				<option value="587" title="Burns, Alexander ">Burns, Alexander </option>
 			
-				<option value="34" title="Ben Smith">Ben Smith</option>
+				<option value="381" title="Calderone, Michael ">Calderone, Michael </option>
 			
-				<option value="177" title="Beth Frerking">Beth Frerking</option>
+				<option value="705" title="Coller, Andie ">Coller, Andie </option>
 			
-				<option value="147" title="Bill Nichols">Bill Nichols</option>
+				<option value="292" title="Cullen, Richard T.">Cullen, Richard T.</option>
 			
-				<option value="58" title="Carrie Budoff Brown">Carrie Budoff Brown</option>
+				<option value="103" title="Cummings, Jeanne ">Cummings, Jeanne </option>
 			
-				<option value="422" title="Charles Mahtesian">Charles Mahtesian</option>
+				<option value="470" title="DiMascio, Jen ">DiMascio, Jen </option>
 			
-				<option value="152" title="Chris Frates">Chris Frates</option>
+				<option value="152" title="Frates, Chris ">Frates, Chris </option>
 			
-				<option value="20" title="Daniel W. Reilly">Daniel W. Reilly</option>
+				<option value="177" title="Frerking, Beth ">Frerking, Beth </option>
 			
-				<option value="12" title="David Mark">David Mark</option>
+				<option value="24" title="Glass, Andrew ">Glass, Andrew </option>
 			
-				<option value="243" title="David Paul Kuhn">David Paul Kuhn</option>
+				<option value="905" title="Gordon, Craig ">Gordon, Craig </option>
 			
-				<option value="426" title="David Rogers">David Rogers</option>
+				<option value="436" title="Grieve, Tim ">Grieve, Tim </option>
 			
-				<option value="305" title="Erika Lovley">Erika Lovley</option>
+				<option value="26" title="Grim, Ryan ">Grim, Ryan </option>
 			
-				<option value="23" title="Helena Andrews">Helena Andrews</option>
+				<option value="597" title="Hagenbuch, Stephen ">Hagenbuch, Stephen </option>
 			
-				<option value="560" title="Jacqueline Johnston - The Daily Californian">Jacqueline Johnston - The Daily Californian</option>
+				<option value="242" title="Harris, John F.">Harris, John F.</option>
 			
-				<option value="103" title="Jeanne Cummings">Jeanne Cummings</option>
+				<option value="14" title="Hearn, Josephine ">Hearn, Josephine </option>
 			
-				<option value="359" title="Jeffrey Ressner">Jeffrey Ressner</option>
+				<option value="876" title="Henderson, Nia-Malika ">Henderson, Nia-Malika </option>
 			
-				<option value="470" title="Jen DiMascio">Jen DiMascio</option>
+				<option value="532" title="Hillman, G. Robert">Hillman, G. Robert</option>
 			
-				<option value="33" title="Jim VandeHei">Jim VandeHei</option>
+				<option value="467" title="Javers, Eamon ">Javers, Eamon </option>
 			
-				<option value="36" title="John Bresnahan">John Bresnahan</option>
+				<option value="301" title="Kady II, Martin ">Kady II, Martin </option>
 			
-				<option value="242" title="John F. Harris">John F. Harris</option>
+				<option value="551" title="Klingebiel, Jacqueline ">Klingebiel, Jacqueline </option>
 			
-				<option value="17" title="Jonathan Martin">Jonathan Martin</option>
+				<option value="86" title="Kraushaar, Josh ">Kraushaar, Josh </option>
 			
-				<option value="14" title="Josephine Hearn">Josephine Hearn</option>
+				<option value="836" title="Lee, Carol E.">Lee, Carol E.</option>
 			
-				<option value="86" title="Josh Kraushaar">Josh Kraushaar</option>
+				<option value="249" title="Lerer, Lisa ">Lerer, Lisa </option>
 			
-				<option value="15" title="Kenneth P. Vogel">Kenneth P. Vogel</option>
+				<option value="469" title="Libit, Daniel ">Libit, Daniel </option>
 			
-				<option value="249" title="Lisa Lerer">Lisa Lerer</option>
+				<option value="305" title="Lovley, Erika ">Lovley, Erika </option>
 			
-				<option value="301" title="Martin Kady II">Martin Kady II</option>
+				<option value="422" title="Mahtesian, Charles ">Mahtesian, Charles </option>
 			
-				<option value="381" title="Michael Calderone">Michael Calderone</option>
+				<option value="12" title="Mark, David ">Mark, David </option>
 			
-				<option value="32" title="Mike Allen">Mike Allen</option>
+				<option value="17" title="Martin, Jonathan ">Martin, Jonathan </option>
 			
-				<option value="29" title="Patrick O'Connor">Patrick O'Connor</option>
+				<option value="339" title="McGrane, Victoria ">McGrane, Victoria </option>
 			
-				<option value="292" title="Richard T. Cullen">Richard T. Cullen</option>
+				<option value="588" title="Moore, Sydelle ">Moore, Sydelle </option>
 			
-				<option value="30" title="Roger Simon">Roger Simon</option>
+				<option value="31" title="Mullins, Anne Schroeder">Mullins, Anne Schroeder</option>
 			
-				<option value="26" title="Ryan Grim">Ryan Grim</option>
+				<option value="147" title="Nichols, Bill ">Nichols, Bill </option>
 			
-				<option value="310" title="Samuel Loewenberg">Samuel Loewenberg</option>
+				<option value="29" title="O'Connor, Patrick ">O'Connor, Patrick </option>
 			
-				<option value="339" title="Victoria McGrane">Victoria McGrane</option>
+				<option value="411" title="Parnes, Amie ">Parnes, Amie </option>
+			
+				<option value="900" title="Raju, Manu ">Raju, Manu </option>
+			
+				<option value="20" title="Reilly, Daniel W.">Reilly, Daniel W.</option>
+			
+				<option value="359" title="Ressner, Jeffrey ">Ressner, Jeffrey </option>
+			
+				<option value="426" title="Rogers, David ">Rogers, David </option>
+			
+				<option value="547" title="Siegel, Harry ">Siegel, Harry </option>
+			
+				<option value="30" title="Simon, Roger ">Simon, Roger </option>
+			
+				<option value="34" title="Smith, Ben ">Smith, Ben </option>
+			
+				<option value="678" title="Thrush, Glenn ">Thrush, Glenn </option>
+			
+				<option value="33" title="VandeHei, Jim ">VandeHei, Jim </option>
+			
+				<option value="15" title="Vogel, Kenneth P.">Vogel, Kenneth P.</option>
 			
 			</select>
 			</div>
@@ -1127,35 +1190,35 @@ else {document.write('<A HREF="http://dyn.politico.com/members" class="topnav">L
             
 			<select name="dt" style="font-family:arial; font-size:10px;color:#696969;font-weight:bold;">
 				<option value="all" selected="selected">Any Date</option>
-				<option value="0">6/17/2008</option>
-				<option value="1">6/16/2008</option>
-				<option value="2">6/15/2008</option>
-				<option value="3">6/14/2008</option>
-				<option value="4">6/13/2008</option>
-				<option value="5">6/12/2008</option>
-				<option value="6">6/11/2008</option>
+				<option value="0">12/17/2008</option>
+				<option value="1">12/16/2008</option>
+				<option value="2">12/15/2008</option>
+				<option value="3">12/14/2008</option>
+				<option value="4">12/13/2008</option>
+				<option value="5">12/12/2008</option>
+				<option value="6">12/11/2008</option>
 			</select>
             
 			</div>
+			
 			<div style="float:left; vertical-align:middle;">
 			<span class="topnavred">&nbsp;Or&nbsp;</span><span class="topnavblue">Keywords</span>&nbsp;</div>
-			<div style="float:left; vertical-align:middle;">			
-			<input type="text" name="key" size="15" style="font-family:arial; font-size:10px; padding:0px 0px 0px 0px;"><a href="javascript:document.searchform.submit()"><img border="0" src="http://images.politico.com/global/v3/searchgo.gif" name="go" align="absmiddle"></a>&nbsp;&nbsp;&nbsp;
+			<div style="float:left; vertical-align:middle;" id="mainsuggestdiv">			
+			<input type="text" name="key" id="newkey" onkeyup="loadDoc(event);" autocomplete="off" size="15" style="font-family:arial; font-size:10px; padding:0px 0px 0px 0px;"><div id="key_choices" class="suggest" style="height: expression( this.scrollHeight > 99 ? '200px' : 'auto' );" onmouseover="clearhidesuggest()" onmouseout="dynamichidesuggest(event)"></div><a href="javascript:document.searchform.submit()"><img border="0" src="http://images.politico.com/global/v3/searchgo.gif" name="go" align="absmiddle"></a>&nbsp;&nbsp;
 			</div>
 		</div>
 		</form></td>
 	</tr>
-	
+		
 	
 	<tr>
 		<td colspan="20"><div style="height:9px"><img src="http://images.politico.com/global/v3/topblackline.gif" width="992" height="6" alt=""></div></td>
 	</tr>
 	<tr>
 		<td colspan="5" bgcolor="#FFFFFF" valign="middle"><div style="padding:0px 0px 0px 10px;"><a href="http://www.politico.com"><img src="http://images.politico.com/global/v3/homelogo.gif" alt="Politico.com Logo - Click to return to home page" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://images.politico.com/global/v3/vertical_pipe.gif" height="35" width="8" border="0"></div></td>
-		<td colspan="7" bgcolor="#FFFFFF"><img src="http://images.politico.com/global/v3/section_aboutus.gif" border="0"></td>
-		<td colspan="8" bgcolor="#FFFFFF" align="right"><script language="JavaScript"><!--
-							OAS_AD('x13');
-							//--></script></td>
+		<td colspan="5" bgcolor="#FFFFFF"><img src="http://images.politico.com/global/v3/section_aboutus.gif" border="0"></td>
+		<td colspan="10" bgcolor="#FFFFFF" align="right"><a href="http://www.politico.com/politico44/"><img src="http://images.politico.com/global/v3/politico44_toppromo.gif" border="0" alt="Politico44"></a>&nbsp;&nbsp;
+		</td>
 	</tr>
 	<tr>
 		<td colspan="20"><img src="http://images.politico.com/global/v3/graydot.gif" width="992" height="1" alt=""></td>
@@ -1163,17 +1226,17 @@ else {document.write('<A HREF="http://dyn.politico.com/members" class="topnav">L
 
 	<tr>
 		<td colspan="20" bgcolor="#FFFFFF">
-		<div align="center" class="navMainBlue" id="nav" style="width:94px"><a href="http://www.politico.com/congress/" class="navmain" id="congress">CONGRESS</a></div>
-		<div align="center" class="navMainBlue" id="nav" style="width:101px"><a href="http://www.politico.com/politics08/" class="navmain" id="politics08">POLITICS '08</a></div>
-		<div align="center" class="navMainBlue" id="nav" style="width:90px"><a href="http://www.politico.com/lobbying/" class="navmain" id="lobbying">LOBBYING</a></div>
+		<div align="center" class="navMainBlue" id="nav" style="width:100px"><a href="http://www.politico.com/politico44/" class="navmain" id="politico44">POLITICO 44</a></div>
+		<div align="center" class="navMainBlue" id="nav" style="width:96px"><a href="http://www.politico.com/congress/" class="navmain" id="congress">CONGRESS</a></div>
+		<div align="center" class="navMainBlue" id="nav" style="width:103px"><a href="http://www.politico.com/politics08/" class="navmain" id="politics08">POLITICS '08</a></div>
+		<div align="center" class="navMainBlue" id="nav" style="width:93px"><a href="http://www.politico.com/lobbying/" class="navmain" id="lobbyists">LOBBYING</a></div>
 		<div align="center" class="navMainBlue" id="nav" style="width:54px"><a href="http://www.politico.com/life/" class="navmain" id="life">LIFE</a></div>
 		<div align="center" class="navMainBlue" id="nav" style="width:62px"><a href="http://www.politico.com/ideas/" class="navmain" id="ideas">IDEAS</a></div>
 		<div align="center" class="navMainBlue" id="nav" style="width:80px"><a href="http://www.politico.com/campuspolitico/" class="navmain" id="campuspolitico">CAMPUS</a></div>
 		<div align="center" class="navMainBlue" id="nav" style="width:101px"><a href="http://dyn.politico.com/members/forums/" class="navmain" id="community">COMMUNITY</a></div>
 		<div align="center" class="navMainBlue" id="nav" style="width:101px"><a href="http://www.politico.com/multimedia/" class="navmain" id="multimedia">MULTIMEDIA</a></div>
-		<div align="center" class="navMainBlue" id="nav" style="width:111px"><a href="http://dyn.politico.com/politicojobs/" class="navmain" id="classifieds">POLITICO JOBS</a></div>
-		<div align="center" class="navMainRed" id="nav" style="width:90px"><a href="javascript:;" class="navmain" onmouseover="dropdownmenu(this, event, menu1, '150px')" onmouseout="delayhidemenu()">COLUMNS</a></div>
-		<div align="center" class="navMainRedLast" id="nav" style="width:98px"><a href="javascript:;" class="navmain" onmouseover="dropdownmenu(this, event, menu2, '150px')" onmouseout="delayhidemenu()">MORE INFO</a></div>
+		<div align="center" class="navMainRed" id="nav" style="width:93px"><a href="javascript:;" class="navmain" onmouseover="dropdownmenu(this, event, menu1, '150px')" onmouseout="delayhidemenu()">COLUMNS</a></div>
+		<div align="center" class="navMainRedLast" id="nav" style="width:99px"><a href="javascript:;" class="navmain" onmouseover="dropdownmenu(this, event, menu2, '150px')" onmouseout="delayhidemenu()">MORE INFO</a></div>
 		</td>
 	</tr>
 	
@@ -1397,7 +1460,7 @@ else {document.write('<A HREF="http://dyn.politico.com/members" class="topnav">L
 			<table cellpadding="5" cellspacing="0" width="100%">
 				<tbody><tr>
 					<td class="bottomnav">
-						<div>&nbsp; &nbsp; <a href="http://www.politico.com/rss" class="footerSmall">RSS / Widgets</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://dyn.politico.com/members/" class="footerSmall">E-mail Alerts</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.politico.com/multimedia" class="footerSmall">Multimedia</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.politico.com/sitemap" class="footerSmall">Site Map</a></div>
+						<div>&nbsp; &nbsp; <a href="http://www.politico.com/rss" class="footerSmall">RSS / Widgets</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.politico.com/subscribe/email.html" class="footerSmall">E-mail Alerts</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.politico.com/multimedia" class="footerSmall">Multimedia</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.politico.com/sitemap" class="footerSmall">Site Map</a></div>
 						<div style="margin:5px 0px 0px 0px;">&nbsp; &nbsp; <a href="http://www.politico.com/" class="footerBig">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.politico.com/aboutus" class="footerBig">ABOUT US</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.politico.com/subscriptions" class="footerBig">SUBSCRIPTION INFORMATION</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.politico.com/advertising" class="footerBig">ADVERTISING INFORMATION</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.politico.com/privacy" class="footerBig">PRIVACY POLICY</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.politico.com/employment" class="footerBig">EMPLOYMENT</a></div>
 						<div style="margin:10px 0px 0px 0px; font-size:12px; color:#000000;">&nbsp; &nbsp; © 2008 Capitol News Company LLC <br>
 						&nbsp; &nbsp; Please read our Privacy Policy. By using this site, you accept our <a href="http://www.politico.com/termsofservice/" class="footerSmall">Terms of Service</a>.</div>
@@ -1460,7 +1523,7 @@ else {document.write('<A HREF="http://dyn.politico.com/members" class="topnav">L
 </tr>
 <tr><td colspan="2"><img src="http://images.politico.com/global/v2/shadowright.gif" width="0" height="0"></td></tr>
 </tbody></table>
-<script type="text/javascript" src="http://cetrk.com/pages/scripts/0008/3035.js"> </script>
+
 <!-- START Nielsen//NetRatings SiteCensus V5.3 -->
 <!-- COPYRIGHT 2007 Nielsen//NetRatings -->
 <div style="display:none">
@@ -1478,7 +1541,7 @@ else {document.write('<A HREF="http://dyn.politico.com/members" class="topnav">L
 	<div><img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-politico&amp;cg=0&cc=1" alt=""/></div>
 </noscript>
 </div>
-<!-- END Nielsen//NetRatings SiteCensus V5.3 -->
+<!-- END Nielsen//NetRatings SiteCensus V5.3 --> <!--politicoCluster4 {ts '2008-12-17 22:00:04'}-->
 
 
- <!--timestamp {ts '2008-06-17 20:57:47'}--></body></html>
+ <!--timestamp {ts '2008-12-17 22:00:04'}--></body></html>
