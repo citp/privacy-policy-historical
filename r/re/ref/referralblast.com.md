@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the referralblast.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229003528id_/http%3A//www.referralblast.com/pu_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the referralblast.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218110512id_/http%3A//www.referralblast.com/pu_privacy.htm) for the most accurate reproduction.*
 
 # Referral Blast Website Promotion and Marketing
 
