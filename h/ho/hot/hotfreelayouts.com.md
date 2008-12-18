@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotfreelayouts.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619055722id_/http%3A//www.hotfreelayouts.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotfreelayouts.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218074624id_/http%3A//www.hotfreelayouts.com./main/privacy) for the most accurate reproduction.*
 
 # MyHotComments - Privacy Policy
 
@@ -6,9 +6,9 @@ Contact:
     
     
     X92.net, Inc.
-    hotfreelayouts@gmail.com
-    1417 6th St Suite 302
-    Santa Monica, CA 90401
+    hotfreelayouts AT gmail.com
+    5757 Wilshire Blvd Suite 620
+    Los Angeles, CA 90036
     
 
 This Privacy Policy is effective on 10/10/05 
