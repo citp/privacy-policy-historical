@@ -1,12 +1,29 @@
-> *The following text is extracted and transformed from the agweb.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616015420id_/http%3A//www.agweb.com/get_article.aspx%3Fpageid%3D138972) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agweb.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218135725id_/http%3A//www.agweb.com/get_article.aspx%3Fpageid%3D138972) for the most accurate reproduction.*
 
 # Your Spot for Futures Trading, Commodities Info, Ag News, Successful Farming Tips & More
+
+[](http://mymachinery.com/ "MyMachinery.com")
+
+Futures | MO | Last | Chg  
+---|---|---|---  
+[Corn](https://web.archive.org/Markets_Commodity.aspx?UTC=-5&market=1&futures=C) | March  | 389'4  | -4'4  
+[Soybeans](https://web.archive.org/Markets_Commodity.aspx?UTC=-5&market=1&futures=S) | January  | 864'0  | 5'4  
+[Wheat](https://web.archive.org/Markets_Commodity.aspx?UTC=-5&market=1&futures=W) | March  | 557'4  | 13'4  
+[Milk](https://web.archive.org/Markets_Commodity.aspx?UTC=-5&market=3&futures=DA) | December  | 15.16  | -0.02  
+[Feeder Cattle](https://web.archive.org/Markets_Commodity.aspx?UTC=-5&market=3&futures=FC) | January  | 93.450  | 2.325  
+[Live Cattle](https://web.archive.org/Markets_Commodity.aspx?UTC=-5&market=3&futures=LC) | December  | 86.450  | -0.125  
+[Lean Hogs](https://web.archive.org/Markets_Commodity.aspx?UTC=-5&market=3&futures=LH) | February  | 62.625  | 0.175  
+[Cotton](https://web.archive.org/Markets_Commodity.aspx?UTC=-5&market=4&futures=CT) | March  | 46.16  | 0.20  
+  
+Enter Zip Code below for live local results.
+
+Charts & Quotes 
 
 ## AgWeb Privacy Policy
 
 12/21/2007
 
- **Your Privacy**
+**Your Privacy**
 
 AgWeb.com respects your privacy. Our goal is to be your trusted, objective source of information for the business of farming and ranching. We want you to make the most of our services and feel confident while doing so online. We have a clear privacy policy: we collect no private, personal information unless you voluntarily supply it. This privacy statement explains under what circumstances we gather your individually identifiable information, how we use it, and who may access that information. It also provides you the means to "opt-out" of providing personal information that you do not wish to provide and to access, change, or remove any identifying information already collected. 
 
@@ -73,7 +90,7 @@ By using our web site, you consent to the collection and use of information as s
 Our goal is to protect your privacy. To comment on or help us improve this privacy policy, please contact us by email at [feedback@agweb.com](mailto:feedback@agweb.com).   
 
 
-[ Printer-friendly version](https://web.archive.org/web/20080616015420id_/http%3A//www.agweb.com/news_printer.aspx?articleID=138972)
+[ Printer-friendly version](https://web.archive.org/web/20081218135725id_/http%3A//www.agweb.com/news_printer.aspx?articleID=138972)
 
 ### Email Article to a Friend
 
