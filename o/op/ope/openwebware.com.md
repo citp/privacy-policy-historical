@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the openwebware.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410134438id_/http%3A//www.openwebware.com/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openwebware.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218071916id_/http%3A//www.openwebware.com/about/privacy.shtml) for the most accurate reproduction.*
 
-# openWebWare - Privacy Policy
+# Open Source Cross-Browser WYSIWYG Editor
 
 openWebWare takes your privacy very seriously. We want to earn your trust by telling you how we collect and use information about you. Please read the following to learn more about our privacy policy.
 
-1\. The Information We Collect  
+**1\. The Information We Collect**  
 openWebWare may collect personally identifiable information from Users in a variety of ways, these include:
 
   * **Online Forms**  
@@ -20,5 +20,5 @@ We may collect information at other instances where Users are invited to volunte
 
 
 
-2\. Questions  
+**2\. Questions**  
 Visitors may direct questions concerning this Privacy Policy by email to [webmaster@openwebware.com](mailto:webmaster@openwebware.com).
