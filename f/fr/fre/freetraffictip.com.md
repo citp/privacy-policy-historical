@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freetraffictip.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513211227id_/http%3A//freetraffictip.com/services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetraffictip.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218100106id_/http%3A//freetraffictip.com/services/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » IYWT
+# » Privacy Policy | Free Traffic Tips |
 
-##  Privacy Policy 
+## [Privacy Policy](http://www.freetraffictip.com/services/privacy-policy "Privacy Policy")
 
 ### Privacy
 
@@ -25,5 +25,3 @@ While we do our best to protect your personal information, we cannot guarantee t
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
 For any other information email us at staff @ freetraffictip.com.
-
-How To Get Unstoppable Traffic? [Go Evergreen](http://www.marlonsanders.com/evergreen/). Read the story of how the owner of this site, ill and preparing to retire, created traffic so powerful that she couldn’t manage to turn it off.
