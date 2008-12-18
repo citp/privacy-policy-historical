@@ -1,17 +1,20 @@
-> *The following text is extracted and transformed from the desertusa.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516051316id_/http%3A//desertusa.com/who/du_who.html%23anchor1141274) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desertusa.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218080119id_/http%3A//desertusa.com/who/du_who.html%23anchor1141274) for the most accurate reproduction.*
 
 # DesertUSA General Information
 
+### DesertUSA.com
+
+A comprehensive resource about the North American deserts and Southwest Destinations. Learn about desert biomes while you discover fascinating details about how plants and animals learn to adapt to the harsh desert environment. 
+
+Study desert landscapes and how the geologic features unique to the desert regions are formed. Find travel information about national parks, state parks, BLM land, and Southwest cities and towns located in or near the desert regions of the United States. 
+
+Access maps and information about the Sonoran Desert, Mojave desert, Great Basin Desert, Chihuhuan Desert which lie in the geographic regions of Arizona, California, New Mexico Nevada, Texas, Utah in the United States and into Mexico.  
+  
+
+
 **Who We Are**
 
-DesertUSA.com is a monthly Internet-based magazine published by Digital West Media, Inc., a San Diego-based multimedia company which has been in the communications business for more than two decades. Among other services, Digital West Media, Inc. designs and produces information-based products such as software products and commercial Web sites.
-
-### Our Purpose
-
-DesertUSA's purpose is to provide a tool for discovery -- a publication which entertains educates and explores with our readers, the beauty, life and culture of the North American deserts.
-
-To this end, DesertUSA.com contains images, stories, movie and audio clips, virtual reality tours and hard data about, virtually any desert-related topic: plants, animals, geology, cultural and natural history, recreation, parks, cities, travel and people.  
-
+DesertUSA.com is maintained by Digital West Media, Inc., a San Diego-based multimedia company which has been in the communications business for more than two decades. Among other services, Digital West Media, Inc. designs and produces information-based products such as software products and commercial Web sites.
 
 * * *
 
@@ -21,11 +24,11 @@ DesertUSA offers advertising opportunities to businesses that would like to prom
 
   * A link from DesertUSA to your existing Web site 
   * Your own DesertUSA Web Page
-  * A Banner Ad strategically placed within the DesertUSA Web site
+  * A [Banner Ad ](https://web.archive.org/web/20081218080119id_/http%3A//desertusa.com/ads/du_adrates.html)strategically placed within the DesertUSA Web site
 
 
 
-[**Advertising rates and general site information**](https://web.archive.org/web/20080516051316id_/http%3A//desertusa.com/ads/du_adrates.html)
+[**Advertising rates and general site information**](https://web.archive.org/web/20081218080119id_/http%3A//desertusa.com/ads/du_adrates.html)
 
 ### 
 
@@ -54,11 +57,11 @@ If you would like information about licensing materials from DesertUSA, please c
   
 Submitting Content To DesertUSA.com
 
-If you would like to [submit an article, story or personal adventure ](https://web.archive.org/web/20080516051316id_/http%3A//desertusa.com/who/du_submissions.html)to DesertUSA for possible publication, you can do so by following the guidelines listed on the [Content Submission page.](https://web.archive.org/web/20080516051316id_/http%3A//desertusa.com/who/du_submissions.html) DesertUSA reserves the right to refuse any content submitted. Manuscripts and content are not acknowledged or returned unless accompanied by self-addressed return envelope with proper postage attached. No responsibility is assumed for unsolicited contributions.
+If you would like to [submit an article, story or personal adventure ](https://web.archive.org/web/20081218080119id_/http%3A//desertusa.com/who/du_submissions.html)to DesertUSA for possible publication, you can do so by following the guidelines listed on the [Content Submission page.](https://web.archive.org/web/20081218080119id_/http%3A//desertusa.com/who/du_submissions.html) DesertUSA reserves the right to refuse any content submitted. Manuscripts and content are not acknowledged or returned unless accompanied by self-addressed return envelope with proper postage attached. No responsibility is assumed for unsolicited contributions.
 
-If you would like to submit a news item for the news blog, [DesertUSAblog.com](http://www.desertusa.com/desertblog), please [click here](https://web.archive.org/web/20080516051316id_/http%3A//desertusa.com/who/du_talk.html#news) for more information.
+If you would like to submit a news item for the news blog, [DesertUSAblog.com](http://www.desertusa.com/desertblog), please [click here](https://web.archive.org/web/20081218080119id_/http%3A//desertusa.com/who/du_talk.html#news) for more information.
 
-If you would like to submit and essay or photos for our [Desert Talk](https://web.archive.org/web/20080516051316id_/http%3A//desertusa.com/who/du_talk.html) area, please [click here](https://web.archive.org/web/20080516051316id_/http%3A//desertusa.com/who/du_talk.html#essay) for more information.
+If you would like to submit and essay or photos for our [Desert Talk](https://web.archive.org/web/20081218080119id_/http%3A//desertusa.com/who/du_talk.html) area, please [click here](https://web.archive.org/web/20081218080119id_/http%3A//desertusa.com/who/du_talk.html#essay) for more information.
 
 ### 
 
