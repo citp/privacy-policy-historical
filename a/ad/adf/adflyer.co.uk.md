@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adflyer.co.uk privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530035957id_/http%3A//www.adflyer.co.uk/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adflyer.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218104305id_/http%3A//www.adflyer.co.uk/terms/privacy.asp) for the most accurate reproduction.*
 
 # AdFlyer Classifieds - Free Local Classified Ads UK
 
@@ -55,13 +55,13 @@ We may disclose your personal information to third parties:
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
   * If Adflyer Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
   * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Website terms and conditions and other agreements; or to protect the rights, property, or safety of Adflyer Limited, our customers, or others.
-  * Where personal information is provided in respect of an advert.  Where this is the case data (including any personal data in the advert) is shared with third parties with whom Adflyer contracts and adverts may appear on websites with whom Adflyer has arrangements.   If you have any questions about where the advert will appear please [contact adflyer](https://web.archive.org/web/20080530035957id_/http%3A//www.adflyer.co.uk/contact/default.asp)
+  * Where personal information is provided in respect of an advert.  Where this is the case data (including any personal data in the advert) is shared with third parties with whom Adflyer contracts and adverts may appear on websites with whom Adflyer has arrangements.   If you have any questions about where the advert will appear please [contact adflyer](https://web.archive.org/web/20081218104305id_/http%3A//www.adflyer.co.uk/contact/default.asp)
 
 
 
 **Your Rights**
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time please [contact adflyer](https://web.archive.org/web/20080530035957id_/http%3A//www.adflyer.co.uk/contact/default.asp)
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time please [contact adflyer](https://web.archive.org/web/20081218104305id_/http%3A//www.adflyer.co.uk/contact/default.asp)
 
 The Website may, from time to time, contain links to and from the websites of third parties. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -75,6 +75,6 @@ Any changes we may make to our data protection and privacy policy in the future 
 **  
 Contact**
 
-Questions, comments and requests regarding this data protection and privacy policy are welcomed and you should please [contact adflyer](https://web.archive.org/web/20080530035957id_/http%3A//www.adflyer.co.uk/contact/default.asp)  
+Questions, comments and requests regarding this data protection and privacy policy are welcomed and you should please [contact adflyer](https://web.archive.org/web/20081218104305id_/http%3A//www.adflyer.co.uk/contact/default.asp)  
   
 ---|---
