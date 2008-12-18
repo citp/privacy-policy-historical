@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cambridge-news.co.uk privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601051444id_/http%3A//www.cambridge-news.co.uk/cn_news_home/DisplayArticle.asp%3FID%3D79375) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cambridge-news.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218092058id_/http%3A//www.cambridge-news.co.uk/cn_news_home/DisplayArticle.asp%3FID%3D79375) for the most accurate reproduction.*
 
-# Privacy Policy - Cambridge News
+# Cambridge News Home - Privacy Policy
 
 ## Privacy Policy
 
@@ -47,7 +47,7 @@ Yes. In order to receive a copy of any information that we currently hold about 
   
 
 
-Published: 24/04/2007 13:43:06
+Published: 24/04/2007
 
   
 
