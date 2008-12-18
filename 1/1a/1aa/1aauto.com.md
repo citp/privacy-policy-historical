@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the 1aauto.com privacy policy that was archived on 2008-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080316201549id_/http%3A//www.1aauto.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1aauto.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218150942id_/http%3A//www.1aauto.com/privacy_statement.php) for the most accurate reproduction.*
 
 # Privacy Statement
-
-**Get the 1A Auto Car & Truck Parts Advantage**
-
-  * Factory trained technicians available to help you choose the correct auto part for your car or truck 
-  * Our engineering staff inspects all our suppliers to get you the highest quality auto parts
-  * All orders for "In Stock" auto parts are subject to our "No Hassle" return policy
-  * Secure Online Ordering
-  * Speed! 98% of orders for stock items leave our warehouse within 24 hours (1 business day)
-
-
 
 Due to various transgressions and violations of unethical businesses, privacy has been a major concern of late. 1A Auto®, Inc. (1A Auto®) is committed to taking the steps necessary for preserving your confidentiality. The statements below outline the policies that 1A Auto® has adopted to protect your information as well as your rights as a consumer. 
 
