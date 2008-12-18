@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the googleslapper.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626145234id_/http%3A//www.googleslapper.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googleslapper.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218040646id_/http%3A//www.googleslapper.com/privacy.html) for the most accurate reproduction.*
 
-# Landing page
+# Google Slapper Privacy Policy
+
+** Privacy Policy**
+
+1\. Our Commitment to Privacy. This notice describes our Privacy Policy. Our Privacy Policy is designed to advise you about how we collect, use, and protect the Personally Identifiable Information you provide. By visiting this site, you are accepting the practices described in this Privacy Policy. 
 
 2\. What Information is Collected.
 
@@ -52,3 +56,7 @@ Most browsers are set up to accept cookies, but you can change your settings to 
 11\. Effective Date. This Privacy Policy is effective as of June 16th, 2008.
 
 12\. Contact E-Mail. You may contact us concerning this Privacy Policy at the following e-mail address admin(at)googleslapper.com
+
+**©2008 GoogleSlapper.com All Rights Reserved**
+
+**[ Privacy Policy](http://www.googleslapper.com/privacy.html)  |  [ Terms](http://www.googleslapper.com/terms.html)  |  [Disclaimer](http://www.googleslapper.com/disclaimer.html)**
