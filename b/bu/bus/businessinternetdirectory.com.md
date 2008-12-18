@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businessinternetdirectory.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509095307id_/http%3A//www.businessinternetdirectory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessinternetdirectory.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218093834id_/http%3A//www.businessinternetdirectory.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Business Internet Directory
+# Privacy Policy
 
 Privacy Policy - www.businessinternetdirectory.com 
 
@@ -29,11 +29,11 @@ I. You will appreciate that we may need to gather some information about you in 
 (iii) telephone number  
 (iv) A category for your business
 
-The information we collect will then be featured in the Business Internet Directory as a Standard Free Entry and will be made available to users of our Website when they search our database. We may also use the information we collect to contact you about our Priority Advert and other services which we offer. 
+The information we collect will then be featured in the Business Internet Directory as a Standard Free Entry and will be made available to users of our Website when they search our database. We may also use the information we collect to contact you about our Online Business Builder service and other services which we offer. 
 
-_Business Internet Directory Priority Advert_
+_Business Internet Directory Online Business Builder service_
 
-II. You will appreciate that may need to gather some information from you when you wish to register to use our Priority Advertisement Service. This information may include: __
+II. You will appreciate that may need to gather some information from you when you wish to register to use our Online Business Builder service. This information may include: __
 
 (i) contact forename and surname  
 (ii) Company/business name  
@@ -46,7 +46,7 @@ II. You will appreciate that may need to gather some information from you when y
 (ix) A category for your business  
 (x) Keywords that describe your business offering
 
-The information you provide (excepting your payment details) will then be featured in the Business Internet Directory as a Priority Advert and will be made available to users of our Website when they search our database. The information in your Priority Advert will be given priority over the other Standard Free Entry in the database and will be displayed along with a map, e mail and web address hyperlinks. We may also use the information you provide to contact you about other services which we provide and to contact you should we encounter any problems in the provisions of services to you. 
+The information you provide (excepting your payment details) will then be featured in the Business Internet Directory within the Online Business Builder service and will be made available to users of our Website when they search our database. The information in your Online Business Builder service will be displayed along with a map, e mail and web address hyperlinks. We may also use the information you provide to contact you about other services which we provide and to contact you should we encounter any problems in the provisions of services to you. 
 
 III. We may, on occasions, collect additional personal information from surveys on the Website, which you will not be obliged to fill in or return to us.
 
@@ -91,7 +91,7 @@ You may change and modify the information you have previously provided to us, as
 
 | 
 
-01904 601011  
+0844 736 1086  
   
 8.3 Send a letter to:
 
