@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nintendo-scene.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609051016id_/http%3A//nintendo-scene.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendo-scene.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218180516id_/http%3A//nintendo-scene.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Nintendo-Scene
 
 **Privacy Policy**
 
