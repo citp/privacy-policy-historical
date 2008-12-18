@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silverlotto.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522100406id_/http%3A//www.silverlotto.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silverlotto.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218173425id_/http%3A//www.silverlotto.com/privacy.htm) for the most accurate reproduction.*
 
 # Win Lotto
 
