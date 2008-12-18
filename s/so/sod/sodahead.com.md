@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sodahead.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201120923id_/http%3A//sodahead.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sodahead.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218070925id_/http%3A//www.sodahead.com/about-us/privacy) for the most accurate reproduction.*
 
-# Privacy
+# SodaHead.com - Privacy
 
 Date Last Modified: March 5, 2007. 
 
