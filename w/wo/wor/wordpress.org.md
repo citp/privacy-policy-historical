@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wordpress.org privacy policy that was archived on 2007-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071117091101id_/http%3A//wordpress.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordpress.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218070048id_/http%3A//wordpress.org/about/privacy) for the most accurate reproduction.*
 
 # WordPress › About » Privacy Policy
-
-## Privacy Policy
 
 ### Website Visitors
 
