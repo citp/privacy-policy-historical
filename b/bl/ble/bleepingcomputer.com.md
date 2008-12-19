@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617051426id_/http%3A//www.bleepingcomputer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219233352id_/http%3A//www.bleepingcomputer.com/privacy.php) for the most accurate reproduction.*
 
 # BleepingComputer.com - Privacy Policy
 
@@ -12,11 +12,13 @@ BleepingComputer is dedicated to protecting your personal information and due to
 
 **Overview of the information we collect.**
 
-BleepingComputer.com will collect personally identifying information during the following: (i) user surveys; (ii) events, sweepstakes, contests or promotion registrations; (iii) member registration; and (iv) registrations for certain interactive parts of our site where visitors can provide content and suggestions or participate in interactive discussions. 
+BleepingComputer.com will collect personally identifying information during the following: (i) optional user surveys; (ii) optional events, sweepstakes, contests or promotion registrations; (iii) member registration; and (iv) registrations for certain interactive parts of our site where visitors can provide content and suggestions or participate in interactive discussions. 
 
 Each time a visitor connects to our Web Page, our Web Server will automatically log that visitor's domain name and ip address. This is standard policy with all sites and is used to track which pages visitors access and how long they spend there. This information will only be used internally to Bleeping Computer to allow us to find what content is relevant to our members. We will collect information that visitors provide to us through surveys and other submissions but will never share this information unless given permission by the member. BleepingComputer.com may retain information indefinitely. 
 
-BleepingComputer.com may at time allow user profiles to be visible to the public. These profiles may contain personally identifying information volunteered by its visitors. All information that is publicly visible can be changed by the user by editing their profile. Under no circumstances will unauthorized member information be able to be seen by the public. 
+Email addresses are collected when you register an account or to contact the site administrators. These email addresses are used for only the following purposes: (i) Validation of a member registration, (ii) Topic and forum subscription notifications, (iii) For the site administrator to contact the particular user. At no time will email addresses be provided to 3rd parties or be used for other purposes. 
+
+BleepingComputer.com may at time allow user profiles to be visible to the public. These profiles may contain personally identifying information volunteered by its visitors. All information that is publicly visible is provided by the member and can be changed by the member by editing their profile. Under no circumstances will unauthorized member information be able to be seen by the public. 
 
 From time to time Bleeping Computer may offer surveys, sweekpstakes, and promotions to visitors. Any information that is collected by these surveys, sweepstakes, or promotions may be passed on to third party organizations. Under no circumstances will we pass on this information without notifying you that this will be done at the beginning of the survey, sweepstake, or promotion. If you choose not to participate in these promotions then your information will never be released to any third-party organizations. 
 
@@ -27,10 +29,6 @@ BleepingComputer.com uses the information in a myriad of ways. BleepingComputer 
 In addition, BleepingComputer has the right to disclose personally identifying information if BleepingComputer believes that such action is reasonably necessary to enforce its User Agreement, to comply with the law, to comply with the legal process, or to protect the property and rights of the site itself and its users. 
 
 Our third party partners, which advertise on our site or provide promotions, may collect information about you. BleepingComputer does not control the collection or use of this information and you should contact our partners directly if you have any issues on how they use this information. 
-
-At times with the permission of a visitor who is 13 years of age or over, information submitted at the time of registration or submission, which can include but not be limited to, age, genders, phone number, address and income level, may be used for marketing and promotion purposes by BleepingComputer. This information will never be provided to third-party companies or organizations without the direct consent from the visitor. If a visitor objects to such use of their information, they will have the option to not allow the sharing of this information on submission or they may contact using this [feedback form](http://www.bleepingcomputer.com/contactus.php). 
-
-If a postal address is supplied to us during registration or future promotion or sweepstake, you may receive periodic mailings from us with information on new products, services, and upcoming events. If you do not wish to receive these mailings, you will have the ability to specify this at submission or you can mail us using this [feedback form](http://www.bleepingcomputer.com/contactus.php) with your contact information. 
 
 As was stated above, from time to time Bleeping Computer will present to its visitors surveys, sweepstakes, and promotions. At the beginning of such survey, sweepstake, and promotion a user will be notified as to whether the information they submit can be passed on to third-party organizations. By completing the submission you acknowledge that Bleeping Computer has notified you and that you expressly agreed to the passing of your submitted information to a third-party. If you choose not to participate in these surveys, sweepstakes, or promotions your information will never be given out. 
 
