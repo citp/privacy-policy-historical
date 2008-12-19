@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123mycodes.com privacy policy that was archived on 2008-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080224235514id_/http%3A//www.123mycodes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123mycodes.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219183537id_/http%3A//www.123mycodes.com/privacy.php) for the most accurate reproduction.*
 
 # 123mycodes.com User Agreement - Privacy Policy
 
@@ -31,9 +31,6 @@ This web site contains links to other sites. Please be aware that we, 123mycodes
 **MODIFICATION OF POLICY**
 
 We reserve the right to modify this terms of service policy without notice. It is up to you to check for modifications periodically.
-
-  
-
 
 [](https://web.archive.org/virtualmeter/)
 
