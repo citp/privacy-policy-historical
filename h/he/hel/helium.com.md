@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helium.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604122555id_/http%3A//www.helium.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helium.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219050904id_/http%3A//www.helium.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Helium
 
@@ -22,7 +22,7 @@
 **Children**
 
   * This site is designed for adult users, and Helium does not knowingly collect personal information from children under 13, nor does it allow children under age 13 to register for an account.
-  * If you are a parent and suspect that your child has provided Helium with personally identifiable information, please contact us at help@helium.com.
+  * If you are a parent and suspect that your child has provided Helium with personally identifiable information, please contact us at [help@helium.com](mailto:help@helium.com).
 
 
 
@@ -47,7 +47,7 @@
 **Account Information and Communications**
 
   * You can edit your Helium Account Information at any time by logging in to the site and entering the My Helium area.
-  * You may opt out of receiving Helium marketing materials by editing your email preferences [here](http://corp.helium.com/email/getemailaddress). Please note that even if you do opt out of receiving marketing materials, we reserve the right, and will continue to send you certain infrequent communications relating to the Helium service and/or your account, such as service announcements and administrative messages, that are considered part of your Helium account, without offering you the opportunity to opt-out of receiving them.
+  * You may opt out of receiving Helium emails by clicking on the “Unsubscribe” link. Please note that even if you do opt out of receiving marketing materials, we reserve the right, and will continue to send you certain infrequent communications relating to the Helium service and/or your account, such as service announcements and administrative messages, that are considered part of your Helium account, without offering you the opportunity to opt-out of receiving them.
 
 
 
@@ -80,6 +80,6 @@
 
 **Questions**
 
-  * To contact us for more information about this privacy policy or how your information is treated, please contact us by email at [help@helium.com](https://web.archive.org/web/20080604122555id_/http%3A//www.helium.com/content/help@helium.com).
+  * To contact us for more information about this privacy policy or how your information is treated, please contact us by email at [help@helium.com](mailto:help@helium.com).
 
 
