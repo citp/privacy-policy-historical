@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesbutnobutyes.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410060043id_/http%3A//www.yesbutnobutyes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesbutnobutyes.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219155422id_/http%3A//www.yesbutnobutyes.com/privacy.html) for the most accurate reproduction.*
 
 # YesButNoButYes: Privacy Policy
 
@@ -13,3 +13,5 @@ Basic stats for our site are available from the [Sitemeter link](http://www.site
 This site contain links to other sites. We are not responsible for the privacy practices or the content of such Web sites. (And that includes how funny they may or may not be, especially if it's on cracked.com.) 
 
 Finally, if any of you people have a problem with any of that, then you better email us at [webmaster@yesbutnobutyes.com](maito:webmaster@yesbutnobutyes.com). (But then, of course, we'll know exactly who you are.) 
+
+[Stumble This](http://www.stumbleupon.com/submit?url=http://www.yesbutnobutyes.com/privacy.html&title=Privacy%20Policy)    [Reddit!](http://reddit.com/submit?url=http://www.yesbutnobutyes.com/privacy.html&title=Privacy%20Policy)
