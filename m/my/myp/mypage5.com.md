@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypage5.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630200027id_/http%3A//www.mypage5.com/page.php%3Ftopic%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypage5.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219123903id_/http%3A//www.mypage5.com/page.php%3Ftopic%3D4) for the most accurate reproduction.*
 
 # MyPage 5 : meet new friends as you network, share photos, create blogs, share videos, upload music, make new friends, revenue sharing, social networking website uk, dating uk, videos uk
 
