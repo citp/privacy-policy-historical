@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ashleymadison.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622161958id_/http%3A//www.ashleymadison.com/app/public/privacy.p) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashleymadison.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219115854id_/http%3A//www.ashleymadison.com/app/public/privacy.p) for the most accurate reproduction.*
 
-# Married Dating : Affairs : Married Women : Extramarital Affair - The Ashley Madison Agency
+# Privacy Policy | The Ashley Madison Agency
 
 The Ashley Madison Agency Privacy Statement
 
