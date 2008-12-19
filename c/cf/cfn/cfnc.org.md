@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfnc.org privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618132825id_/http%3A//www.cfnc.org/global/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfnc.org privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219184850id_/http%3A//www.cfnc.org/global/privacy_policy.jsp) for the most accurate reproduction.*
 
 # CFNC - Privacy of Information
 
@@ -79,7 +79,7 @@ Return to top
 
 #### A Privacy Policy Statement from Pathways of North Carolina
 
-Effective as of March 03, 2008 
+Effective as of September 19, 2008 
 
 Pathways of North Carolina recognizes and respects the privacy interests of Pathways of North Carolina users. It is committed to protecting that privacy and keeping users informed about our privacy policy.
 
@@ -112,7 +112,7 @@ WHAT THIS PRIVACY POLICY STATEMENT COVERS:
 
 
 PATHWAYS OF NORTH CAROLINA'S PRIVACY POLICY AND ITS EXCEPTIONS   
-Except as set forth below, personally identifiable data you enter on Pathways of North Carolina is not made available or distributed to third parties, except with your express consent or at your express direction. In particular, Pathways of North Carolina (including the University of North Carolina General Administration (UNCGA) which administers the Pathways of North Carolina program) and will not give, sell or provide access to your personal information to any company, individual or organization for its use in marketing or commercial solicitation or for any other non-permitted purpose, except with your express consent, as is necessary for the operation of this site, or pursuant to one of the exceptions listed below.
+Except as set forth below, personally identifiable data you enter on CFNC.org is not made available or distributed to third parties, except with your express consent or at your express direction. In particular, Pathways of North Carolina (including the University of North Carolina General Administration (UNCGA) which administers the Pathways of North Carolina program) will not give, sell or provide access to your personal information to any company, individual or organization for its use in marketing or commercial solicitation or for any other non-permitted purpose, except with your express consent, as is necessary for the operation of this site, or pursuant to one of the exceptions listed below.
 
 Exceptions to the privacy policy  
 There are limited exceptions to the Pathways of North Carolina privacy policy. When required by law to comply with any valid legal process such as a search warrant, subpoena, statute, regulation or court order, UNCGA will supply such information contained in your CFNC account as UNCGA reasonably determines, based on the advice of counsel, it is legally required to supply. In addition, UNCGA may release specific information relevant to special cases, such as a physical threat to you or others or an attempted breach of security on the Pathways of North Carolina site.
@@ -140,12 +140,13 @@ Pathways of North Carolina will use your personal identifying information to com
 
   * Transmit freshman planners, which can assist you in selecting courses and otherwise planning to meet admission requirements  
 
-  * Communicate your requests for information or material to colleges or other institutions you have specified
+  * Communicate your interest in or your requests for information or material to colleges or other institutions you have specified
 
   
   
 Your personal identifying information may also be used for the following purposes:
 
+  * We may use your personal identifying information for enrollment verification purposes.
   * We may use your identifying information to help diagnose problems with CFNC.org's server and to administer the CFNC.org website.   
 
   * Summary data representing a compilation of aggregate data representing CFNC.org users may be collected by UNCGA and provided to various entities including colleges and other educational institutions represented on CFNC.org. NO PERSONAL IDENTIFYING INFORMATION IS MADE AVAILABLE AS PART OF THESE SUMMARY REPORTS, AND THE DATA IS AGGREGATED IN SUCH LARGE SETS THAT NO PERSONAL INFORMATION CAN BE IDENTIFIED. Some examples of summary data are the number of monthly visitors to the site, the number of admission applications submitted over CFNC.org, and the CFNC.org functions utilized by students in specified age or grade ranges.
@@ -163,21 +164,38 @@ In each of the circumstances described below, data specifically required to perf
 
   * If you request that your data be transferred to FAFSA on the Web to help you fill out your federal financial aid application, data relevant to that application will be provided to a processor specified and authorized to process your financial aid applications (FAFSA) by the U.S. Department of Education.   
 
-  * If you request that a college or other educational institution send you material, your contact information will be provided to that institution.   
+  * If you request that a college or other educational institution send you material or save a college or education institution in your My CFNC profile, your contact information will be provided to that institution.   
+
+  * If you register for the College Redirection Pool, your contact information will be provided to all CFNC institutions.   
+
+  * If you register for the Transfer Assured Admissions Policy (TAAP), your contact information will be provided to all CFNC institutions.   
 
   * Unless you opt out, your My CFNC profile will automatically be associated with the specific high school you select on the Student Planner section of CFNC.org. Information saved in your My CFNC profile will be made available to qualified educational professionals at the school you select. Please be aware that those whom you have authorized will be permitted to view personally identifying information about you unless you opt-out. If you do not opt-out, this will constitute consent to share education records under Family Educational Right and Privacy Act (FERPA).  
 
 
 
 
-UNCGA, which administers the Pathways of North Carolina program, will have access to your personally identifying information. UNCGA has agreed to treat all personally identifying information that you entered on CFNC.org and which has been made available to UNC as educational records under the provisions of the Family Educational Right and Privacy Act (FERPA), and on that basis the personally identifying information will receive from UNCGA the privacy protections afforded by FERPA.
+UNCGA, which administers the Pathways of North Carolina program, will have access to your personally identifying information. UNCGA will treat personally identifying information you enter on CFNC.org as educational records under the provisions of the Family Educational Right and Privacy Act (FERPA). These educational records will receive from UNCGA the privacy protections afforded by FERPA. UNCGA will consider as “directory information,” and thus not protected from disclosure, the following:
+
+  * name
+  * date and place of birth
+  * addresses: local and permanent
+  * email and telephone number(s)
+  * institution(s) applied to and major(s) declared (if any)
+  * dates of application and/or intended attendance
+  * previous institutions attended
+  * degree(s) earned
+  * honors / awards received and honorary organizations
+  * participation in officially recognized activities and sports
+
+
 
 When visiting CFNC.org, you may link from CFNC.org to other websites for a variety of purposes such as visiting an official college website. This Pathways of North Carolina privacy statement does not apply to any other website, including websites to which CFNC.org may be linked. For your protection, we recommend that you read and understand the privacy policy at any website prior to providing personal information on that website.  
   
    
   
 SECURITY MEASURES TO PREVENT MISUSE OF INFORMATION ENTRUSTED TO PATHWAYS OF NORTH CAROLINA   
-Pathways of North Carolina causes the data you input to be encrypted when in route between your browser and the CFNC.org server and when in route between the CFNC.org server and some other browser or server. This practice helps prevent unauthorized third parties from intercepting and gaining access to your private data during transmission over the Internet. CFNC.org uses 56-bit, Secure Socket Layer encryption supported by both Netscape's and Microsoft's browsers.
+Pathways of North Carolina causes the data you input to be encrypted when in route between your browser and the CFNC.org server and when in route between the CFNC.org server and some other browser or server. This practice helps prevent unauthorized third parties from intercepting and gaining access to your private data during transmission over the Internet. CFNC.org uses Secure Socket Layer encryption supported by both Netscape's and Microsoft's browsers.
 
 Data residing on the CFNC.org server is password protected, and access is provided only to the account holder who created the password, anyone to whom that account holder entrusted the password, those employees who require such access to administer and maintain the CFNC.org system or to provide requested customer support to users of CFNC.org, and those employees of UNCGA who require such access to create reports based on aggregated information that is rendered no longer personally identifying in the aggregation process. Each employee who has access to the data residing on the CFNC.org server has agreed in writing to respect the privacy of all such personal data.
 
@@ -190,8 +208,8 @@ Most browsers are initially set to accept cookies. If you don't want cookies, yo
 LINKS  
 CFNC.org hosts links to other sites or resources having privacy policies that may differ from those of Pathways of North Carolina. It is not responsible for the privacy practices or the content of those websites. UNCGA and the colleges and the associations of colleges and agencies represented on CFNC.org do not have control over and do not endorse such external sites and resources. UNCGA, and the colleges, association of colleges or any other state agency represented on CFNC.org shall not be liable for any content, advertising, products or other materials on or available from such sites or resources. In addition, UNCGA, the colleges, association of colleges or any other state agency represented on CFNC.org shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such site or resource.
 
-MODIFYING AND DELETING YOUR INFORMATION   
-You may update, otherwise modify or delete from the data stored on CFNC.org any personal information you previously provided. To modify personal information, (i) log on to CFNC.org, (ii) access either your user profile or an application containing the information you want to change, and (iii) modify that information using standard word-processing techniques. To delete personal information, (i) log on to CFNC.org, (ii) access your user profile, and (iii) delete the information you want to remove from CFNC.org using standard word-processing techniques. Please recognize that if you delete information, it will no longer be available on CFNC.org so that, for example, if a college to which you previously submitted an application were to attempt to retrieve that application from CFNC.org after you made the deletion the deleted information would no longer be accessible. Similarly, when accessed over CFNC.org, information that has been updated or otherwise modified will appear in its then-most current form, rather than in the form in which it may have been submitted at some earlier time.
+MODIFYING YOUR INFORMATION   
+You may modify the personal information data stored on CFNC.org you previously provided. To modify personal information, (i) log on to CFNC.org, (ii) access either your user profile or an application containing the information you want to change, and (iii) modify that information using standard word-processing techniques. To delete non-required personal information, (i) log on to CFNC.org, (ii) access your user profile, and (iii) delete the information you want to remove from CFNC.org using standard word-processing techniques. Please recognize that if you delete information, it will no longer be available on CFNC.org so that, for example, if a college to which you previously submitted an application were to attempt to retrieve that application from CFNC.org after you made the deletion the deleted information would no longer be accessible. Similarly, when accessed over CFNC.org, information that has been updated or otherwise modified will appear in its then-most current form, rather than in the form in which it may have been submitted at some earlier time.
 
 AMENDING THIS PRIVACY STATEMENT   
 Pathways of North Carolina may amend this Privacy Statement from time to time. If Pathways of North Carolina makes any substantial changes to this Privacy Statement concerning use of your personal identifying information, it will notify you by posting a message on the CFNC.org homepage. If feasible, the notice will be posted for at least thirty days before taking effect.
