@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the changeip.com privacy policy that was archived on 2008-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080228061154id_/http%3A//www.changeip.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changeip.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219233621id_/http%3A//www.changeip.com/privacy.asp) for the most accurate reproduction.*
 
 # ChangeIP.com - Privacy Statement
 
@@ -28,7 +28,10 @@ Like most standard Web site servers we use log files.  This includes internet p
 **Clear Gifs** (Web Beacons/Web Bugs)  
 We 
 
-_do not_ employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs) to track web usage. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence.  You may find many 1x1 transparent pixels on our site, however these are tracked no differently than any other image on our site. 
+_do not_ employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs) to track web usage. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence.  You may find many 1x1 transparent pixels on our site, however these are tracked no differently than any other image on our site.
+
+ **DNS  
+**ChangeIP.com records DNS packets that are directed towards our infrastructure.  These DNS packets are collected for statistical, technical, troubleshooting, and other related reasons.  A captured DNS packet contains the source IP address of the client who requested the DNS lookup, and question / answer payload.  This information is used internally to make decisions related to expanding infrastructure, tracking anomalies, assisting with legal requests / subpoenas, analyzing malware and botnets, and the general health of our DNS infrastructure.  At our discretion we may also submit DNS packet streams to trusted 3rd parties to assist with the above mentioned activities.
 
 **  Communications from the Site**
 
@@ -95,3 +98,6 @@ If a user’s personally identifiable information changes (such as zip code, pho
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email.
+
+ **Update History  
+**April 24th, 2008 - Added DNS section.
