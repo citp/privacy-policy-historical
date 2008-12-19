@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mshare.net privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522163121id_/http%3A//www.mshare.net/mindshare_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mshare.net privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219194020id_/http%3A//www.mshare.net/mindshare_privacy_policy.html) for the most accurate reproduction.*
 
 # Mindshare Privacy Policy
 
