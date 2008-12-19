@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cio.com.au privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607072418id_/http%3A//www.cio.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cio.com.au privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219073626id_/http%3A//www.cio.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | CIO
+# CIO - Privacy Policy
 
 **Privacy Statement for IDG Communications Pty Ltd**
 
