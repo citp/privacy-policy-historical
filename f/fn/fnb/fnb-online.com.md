@@ -1,103 +1,121 @@
-> *The following text is extracted and transformed from the fnb-online.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016004835id_/http%3A//www.fnbcorporation.com/corporateHome/121) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnb-online.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219181535id_/http%3A//www.fnbcorporation.com/corporateHome/121) for the most accurate reproduction.*
 
 # FNB Corporation Online Privacy Policy
 
-We recognize the sensitive nature of your personal financial information and take precautions to protect your privacy. When you entrust us with your financial information, you can be certain it will be used within our guidelines.
+December 19, 2008    **[FNB](http://www.fnbcorporation.com/corporatehome/133)**  12.60 as of 1:00pm 
 
-We are committed to your right to have your personal financial information remain private and secure. While information is the cornerstone of our ability to provide superior service, our most important asset is our customer trust. Therefore, we have adopted this Privacy Policy.
+While information is the cornerstone of our ability to provide superior service, our most important asset is our customer’s trust. When you entrust us with your personal information, you can be certain we will use it within the guidelines provided in this notice. We are committed to your right to have your personal financial information remain private and secure. 
 
-We have prepared this Policy to explain what types of information we collect, how we use it, and under what circumstances we may share it. We want you to know that we use information we know about you responsibly to:
+This notice explains what types of information we collect and under what circumstances we may disclose it. We want you to know that we use your information responsibly to: 
 
-Provide you with the services you have requested. Offer you other bank products and services. Alert you to financial products and services made available by our carefully selected marketing partners.
+   • manage your current financial services and products,  
+   • offer you other financial services and products, and to  
+   • alert you to financial services and products made available by our carefully selected  
+     marketing partners.  
 
-This Policy covers Customer Information, which means personally identifiable information about a consumer or a consumer's current or former relationship with us.
 
-**You do not have to take any action to prevent us from selling your information because we do not sell customer information to any third parties.**
+**Information Collection**
 
-**Collection and Use**  
-We limit the personal information about you which we collect and use to that which is necessary to provide superior customer service, maintain and administer your account, and to provide financial services that are of interest to you. Generally, the information we gather about customers is provided directly by you. We develop additional information as part of providing a service and gather information from outside sources such as public records, market research and credit reports. We use that information only in accordance with the principles set out in this Policy.
+We only collect information about you that is necessary to provide superior customer service, maintain and administer your account, and to provide financial services that are of interest to you. Generally, the personal information we collect is provided directly by you. We may collect additional information from outside sources such as public records, market research and credit reports. The type of information we collect and use is:  
+   • information we receive from you on applications or other forms, such as your name, address,  
+     social security number, assets, or income;  
+   • information about your transactions with us, such as your account balance or payment history;  
+   • information we obtain from specialized marketing information firms, such as household  
+     demographics; and  
+   • information we receive from consumer reporting agencies and others, such as your  
+     creditworthiness and credit history.
 
-**Accuracy** We continually strive to ensure that the information we maintain about you is complete and accurate. You have the right to notify us if you believe we have reported inaccurate information about you or your account to any consumer reporting agency. Notices should be sent in writing and include your complete name, current address, Social Security Number, telephone number, account number, type of account, specific item in dispute and the reason why you believe the information reported is in error. Send your notice to:
+**Information Security; Confidentiality and Accuracy**
 
-_F.N.B. Technology Center_  
-_Attn: Privacy Department_  
-_4140 East State Street_  
-_Hermitage, Pennsylvania 16148-3487_  
-_Phone: 1-800-555-5455_
+We routinely train our employees to respect your privacy and to protect your personal information. Even if you are no longer our customer, we will continue to treat your personal information in the same way as if you were still a customer. We maintain physical, electronic and procedural safeguards to guard your personal information. 
 
-We will investigate your concerns and correct any inaccuracies and confirm our actions to you.
+We continually strive to ensure that the information we maintain about you is complete and accurate. Please report any inaccuracies to the appropriate affiliate(s) listed below. Be sure to include your complete name, current address, telephone number, account number and a brief description of the specific dispute item. We will promptly investigate your concerns, correct any inaccuracies, and confirm our actions to you. 
 
-**Confidentiality and Security**  
-We will allow employees to access information about you when that access is necessary to maintain your accounts, service your needs, or perform other required activities. We educate our employees about the importance of confidentiality and customer privacy. Additionally, our employees are governed by a Code of Ethics that includes the responsibility to protect the confidentiality of each customer's personal information. We maintain physical, electronic and procedural safeguards to guard your nonpublic personal information.
+**Information Disclosure**
 
-Even if you are no longer our customer, we will continue to treat your nonpublic personal information in the same way as if you were still a customer. In addition, we maintain physical, electronic and procedural safeguards to guard this personal information.
+The information we share helps us bring you greater convenience and more choices. We limit who receives customer information and what type of information is shared as described below. 
 
-**Managing Information for Your Convenience** The information we share helps us bring you greater convenience and more choices. We limit who receives customer information and what type of information is shared as described below.
+Third Parties   
+We will not share your personal information with any company or third party outside of our family of companies, except as permitted by law. For example, we may disclose your personal information to third parties:   
+   • upon your request or your authorization to do so.  
+   • that work for us such as check printing companies, data processors, and bank software  
+     vendors or marketing firms.  
+   • for joint marketing arrangements to enhance our financial product or service offerings.  
+   • to protect against or prevent fraud or to resolve customer disputes.  
+   • such as financial institution examiners and auditors.  
+   • when compelled to do so by court order.  
+   • that are credit reporting agencies or similar reporting agencies.
 
-**Sharing Customer Information with Affiliates**  
-We are a Financial Services Holding Company which owns banks located in Pennsylvania and Ohio, a trust company with operations in Pennsylvania and Ohio, a consumer finance company with offices in Pennsylvania, Ohio and Tennessee, and an insurance agency in Pennsylvania. All of these companies work together to provide financial services to you. We can serve you more efficiently and make it easier for you to do business with us by sharing your information among our affiliates. 
+**F.N.B. Corporation Family of Companies**
 
-We share personal information about you among our affiliates. The type of information we may share with our affiliates includes the following: information we receive from you on applications or other forms, such as your name, address, Social Security Number, assets, or income; information about your transactions with us, such as your account balance or payment history; information obtained from specialized marketing information firms, such as household demographics; and information we receive from consumer reporting agencies and others, such as your creditworthiness and credit history. 
+F.N.B. Corporation is a diversified financial services holding company operating multiple financial companies. We can serve you more efficiently by sharing information among our family of companies. By sharing your information among our group of affiliates, it is our intention to provide you with a full array of financial services specifically tailored to meet your needs or to save you time if you decide to open an account with one of our companies. However, we do not share your information solely for marketing purposes. If you do not want us to share your personal information within our family of companies, you may opt out of those disclosures by calling each affiliate with whom you have accounts, toll-free, Monday through Friday, 8:00 a.m. to 5:00 p.m., at the number listed below or by writing to the appropriate affiliate(s) at the address listed below. Your election to opt out of information disclosure will also apply to any joint account owner. If you have previously elected to opt out, you do not need to do so again. 
 
-**Sharing Information with Outside Service Providers**  
-We may disclose the above information to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements.
+    | **FAMILY OF COMPANIES** |     | **TOLL-FREE NUMBER**  
+---|---|---|---  
+    | First National Bank |     | 1-800-555-5455  
+    | Regency Finance Company |     | 1-866-427-7540  
+    | Citizens Financial Services |     | 1-866-427-7540  
+    | F.N.B. Consumer Discount Company |     | 1-866-427-7540  
+    | FMAC |     | 1-866-427-7540  
+    | Wealth Management |     | 1-800-542-5978  
+    | First National Insurance Agency |     | 1-800-252-4850  
+    | Mid-Penn Insurance Associates |     | 1-800-252-4850  
+    | FNB Financial Services, LP |     | 1-866-427-7540  
+  
+**Medical Information**
 
-**Medical Information**   
-We occasionally receive medical information about a customer, for example, if a customer applies for insurance from us. If we do receive medical or health information about a customer, we will not share it, except as necessary to maintain accounts, process transactions or provide services the customer has requested or initiated.
+We occasionally receive medical information about our customers; for example, if a customer applies for insurance from us. We will not share your medical or health information except as necessary to maintain accounts, process transactions or provide services you have requested or initiated. 
 
-**Sharing Information with Consumer Reporting Agencies and Other Companies**  
-In accordance with standard banking industry practice, and as allowed under federal and state law, we routinely provide data about customer loan repayment and other transactions to these agencies and other creditors.
+**Our Family of Companies**
 
-**Sharing Information with Courts and Government Entities**  
-Certain federal and state statutes may require us to disclose information about you. For example, if you are involved in litigation with a third party, we may be ordered to provide information to a court or the other litigant. In these circumstances, we will only disclose the specific information required by law, subpoena, or court order.
+If you have questions, concerns or comments about our privacy practices or the way your information is maintained and used, we’d like to hear from you. Please write to us at the address noted below. 
 
-**Affiliates**  
-If you are also a customer of any of our affiliates (listed on back) and you receive a notice of that affiliate's intent to share certain information about you with others, you will need to separately notify the particular affiliate if you do not want that information shared.
+This Privacy Notice applies to the following affiliates as of September 1, 2008. 
 
-**Keeping Up-to-date with Our Privacy Policy**  
-We will provide notice of our Privacy Policy annually, as long as you maintain an ongoing relationship with us. We reserve the right to change this Privacy Policy at any time. You will be advised of any changes. You can always review our current Policy by contacting us for a copy at 1-800-555-5455.
+      First National Bank  
+         F.N.B. Technology Center  
+         Attn: Privacy Department  
+         4140 East State Street  
+         Hermitage, PA 16148-3487
 
-**Telephone Solicitation**  
-You may request to be excluded from telephone solicitations by us and third party providers working with us. If you do not wish to receive such telephone solicitations, inform the person calling you and you will be placed on a list of people that will not be solicited by phone, or you may call the Customer Service Center of F.N.B. at 1-800-555-5455 or write to us at:
+      First National Trust Company  
+      First National Investment Services Company, LLC  
+      F.N.B. Investment Advisors, Inc.  
+         Wealth Management  
+         Attn: Privacy Department  
+         532 Main Street, Suite 7  
+         Johnstown, PA 15901
 
-_F.N.B. Technology Center_  
-_Attn: Privacy Department_  
-_4140 East State Stree_  
-_Hermitage, Pennsylvania 16148-3487_  
-_Phone: 1-800-555-5455_
+      Regency Finance Company  
+         Divisions:  
+         Finance and Mortgage Acceptance Corporation (FMAC)  
+         F.N.B. Consumer Discount Company  
+         Citizens Financial Services, Inc.
 
-**Your Opportunity to Choose How Your Information is Used**  
-By sharing information among our group of affiliates, it is our intention to provide you with a full array of financial services specifically tailored to meet your needs or to save you time if you decide to open an account with one of our other companies. If you do not want us to share nonpublic information about you with our affiliates, you may opt out of those disclosures by writing to us at:
+         Regency Finance Company  
+         3320 East State Street  
+         Hermitage, PA 16148
 
-_F.N.B. Technology Center_  
-_Attn: Privacy Department_  
-_4140 East State Street_  
-_Hermitage, Pennsylvania 16148-3487_  
-_Phone: 1-800-555-5455_
+      First National Insurance Agency, LLC  
+         First National Corporation  
+            d/b/a First National Insurance Services Company
 
-You may contact us at any time to change your elections.
+         Divisions:  
+         Mid-Penn Insurance Associates
 
-If your account is a joint account, your decision to opt out will affect all account holders and we will not share the information of any account holder (other than as permitted by law).
+         First National Insurance Agency, LLC  
+         Attn: Privacy Department  
+         740 North Main Street  
+         Meadville, PA 16335
 
-Please note that you may still receive mailings if your information was permissibly shared prior to processing your opt out or if the mailings can be provided without violating your opt out request.
+      FNB Financial Services, LP  
+         103 Foulk Road  
+         Wilmington, DE 19803 
 
-You should also know that even if you opt out of information disclosure, various federal laws allow us to share with our affiliates and other companies specific details about your transactions and experience with us, including information about your account balances or payment history.
+We will provide notice of our Privacy Policy annually, as long as you maintain an ongoing relationship with us. We reserve the right to change this Privacy Policy at any time. You will be advised of any changes. You can always view our current Policy by visiting our website at [http://www.fnbcorporation.com ](http://www.fnbcorporation.com/) or by writing to the appropriate affiliate at the address noted above. 
 
-**Where to Find out More** If you have questions, concerns, or comments about our privacy practices or the way your information is maintained and used, we'd like to hear from you. Please call or write us at:
+As a visitor to our website, you need not be concerned about the privacy of your personal information. Our site is not designed to collect personally identifying data on visitors. 
 
-_F.N.B. Technology Center_  
-_Attn: Privacy Department_  
-_4140 East State Street_  
-_Hermitage, Pennsylvania 16148-3487_  
-_Phone: 1-800-555-5455_
+Our website does not require you to disclose any personally identifying information. If, however, you choose to contact us via e-mail, please keep in mind that your e-mail address, and any other information your e-mail header shows about you, such as your name or organization, will be revealed to us in the e-mail. We pledge, however, that when you communicate with us via e-mail, we will use your e-mail information only for the purpose of responding to your comment or questions and to enable us to contact you with additional information about our bank and its products and services. Your e-mail address will not be sold, nor will it be shared with others outside the bank unless we are compelled to do so by law. A "cookie" is a small piece of information about an internet session that may be created when a visitor accesses a website. Presently, our website does not use cookies if you are a visitor. If you have signed up for Internet Banking, our bill pay option or other services, our website will create a cookie. It is necessary for our system to create the cookie in order that we can identify you during your online banking session, your online banking session will be enhanced and navigation of our website will be easier. Our cookies do not contain any personal information regarding you and do not retrieve any information from your computer. 
 
-**Our Family of Companies**  
-If you desire to view a current list of affiliates to whom this Policy applies, visit our corporate website at [http://www.fnbcorporation.com ](http://www.fnbcorporation.com/)
-
-As a visitor to our website, you need not be concerned about the privacy of your personal information. Our site is not designed to collect personally identifying data on visitors.
-
-Our website does not require you to disclose any personally identifying information. If, however, you choose to contact us via e-mail, please keep in mind that your e-mail address, and any other information your e-mail header shows about you, such as your name or organization, will be revealed to us in the e-mail. We pledge, however, that when you communicate with us via e-mail, we will use your e-mail information only for the purpose of responding to your comment or questions and to enable us to contact you with additional information about our bank and its products and services. Your e-mail address will not be sold, nor will it be shared with others outside the bank unless we are compelled to do so by law.
-
-A "cookie" is a small piece of information about an internet session that may be created when a visitor accesses a website. Presently, our website does not use cookies if you are a visitor. If you have signed up for Internet Banking, our bill pay option or other services, our website will create a cookie. It is necessary for our system to create the cookie in order that we can identify you during your online banking session, your online banking session will be enhanced and navigation of our website will be easier. Our cookies do not contain any personal information regarding you and do not retrieve any information from your computer.
-
-We reserve the right to change this policy at any time by posting a new Privacy Policy.
+We reserve the right to change this policy at any time by posting a new Privacy Policy. 
