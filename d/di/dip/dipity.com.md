@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dipity.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605132147id_/http%3A//www.dipity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dipity.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219044000id_/http%3A//www.dipity.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
