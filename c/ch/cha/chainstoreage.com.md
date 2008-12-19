@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chainstoreage.com privacy policy that was archived on 2008-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080415054558id_/http%3A//www.chainstoreage.com/%28S%28efd0xofnpbfu4445gi11ur55%29%29/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chainstoreage.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219220623id_/http%3A//chainstoreage.com/%28S%28nebr4rifjucr4zfwvf1kglya%29%29/privacy.aspx) for the most accurate reproduction.*
 
 # Chain Store Age
 
