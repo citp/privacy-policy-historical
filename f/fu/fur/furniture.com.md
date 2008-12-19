@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the furniture.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625024845id_/http%3A//www.furniture.com/common/CustomerService/policies/default.asp%237) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniture.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219115525id_/http%3A//www.furniture.com/common/CustomerService/policies/default.asp%237) for the most accurate reproduction.*
 
 # Furniture.com
 
 |   | 
 
-|  | [](http://www.furniture.com/default.aspx?se=520) |  | [](http://www.furniture.com/Common/Advice/default.asp) | [](http://www.furniture.com/Common/CustomerService/default.asp) | [](http://www.furniture.com/Common/Order/shoppingcart.asp?se=44) |   
+|  | [](http://www.furniture.com/default.aspx?se=203) |  | [](http://www.furniture.com/Common/Advice/default.asp) | [](http://www.furniture.com/Common/CustomerService/default.asp) | [](http://www.furniture.com/Common/Order/shoppingcart.asp?se=13) |   
 ---|---|---|---|---|---  
    
 |   |    
@@ -161,12 +161,12 @@ If you’re not satisfied with a purchase you made from a Furniture.com retail p
 
 For the avoidance of doubt, an order placed on Furniture.com is placed with our retail partners, who both accept your payment and are responsible for the successful fulfillment of your order. Furniture.com disclaims any responsibility or liability for any damage, loss, or injury arising out of the activities of any retail partner; the goods or services offered by a retail partner; your purchase of or inability to purchase any retail partner’s goods or services; or our retail partner's failure to complete your delivery.   
   
-**Our Retail Partners' Pricing**  
+**Pricing and Other Errors**  
 Prices shown for items on this website's product pages and in your shopping cart are for merchandise only. Please proceed to checkout to see the total cost of your order, including any applicable tax, delivery or other fees.
 
 Pricing on Furniture.com is provided by our retail partners. While they strive for accuracy in their pricing and the other product information they provide, errors can occur.
 
-In cases where such errors do occur, our retail partners expressly reserve the right not to honor offers they make on this website, either in stores or when accepting an order online. In the case that an order placed online is not accepted, any payments that have been authorized for that order will immediately be reversed.  
+In cases where such errors do occur, our retail partners expressly reserve the right not to honor offers they make on this website, either in stores or when accepting an order online. In the case that an order placed online is not accepted, any payments that have been authorized for that order will immediately be reversed. Should you discover an error once your order is delivered, your sole recourse is to return your order in accordance with our retail partner's return policy  
   
 **Paying for your order**  
 Furniture.com takes your privacy seriously. We provide your credit card number, billing and shipping information to our retail partners from whom you buy goods. The collection of payments, including deposits is between you and our retail partners. These retailers are solely responsible for how they use your information and any other information they independently acquire from you or about you. For more information, please read the Furniture.com Privacy Policy.
