@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukbride.co.uk privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624040002id_/http%3A//www.ukbride.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukbride.co.uk privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219112558id_/http%3A//www.ukbride.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,8 +49,8 @@ We make every effort to check and test material at all stages of production. It 
 You do not have to ask permission to link directly to pages hosted on this site. We do not object to you linking directly to the information that is hosted on our site. However, we do not permit our pages to be loaded into frames on your site.
 
 UKbride  
-Whitespace Publishers Ltd  
-Boston  
+Elm Grange Studios  
+East Heckington   
 Lincolnshire  
-PE21 8EA  
-**Tel** : 01205 357575 | **Fax** : 01205 357756
+PE20 3QF   
+**Tel** : 01529 469977| **Fax** : 01529 469978 
