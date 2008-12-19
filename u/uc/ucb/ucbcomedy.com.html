@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ucbcomedy.com privacy policy that was archived on 2008-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080520180358id_/http%3A//www.ucbcomedy.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ucbcomedy.com privacy policy that was archived on 2008-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219164020id_/http%3A//www.ucbcomedy.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>UCBcomedy.com : Privacy</title>
@@ -10,9 +10,42 @@
 <link rel="alternate" title="Top Rated Videos" type="application/rss+xml" href="/videos/rss/rated">
 <link rel="alternate" title="Most Viewed Videos" type="application/rss+xml" href="/videos/rss/viewed">
 <link rel="alternate" title="Recent Videos" type="application/rss+xml" href="/videos/rss/recent">
-<script src="/js/ucbcomedy.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="/css/ucbcomedy.css"><script src="/js/scriptaculous/lib/prototype.js" type="text/javascript"></script>
+<script src="/js/scriptaculous/src/scriptaculous.js" type="text/javascript"></script>
+<script src="/js/ucbcomedy.js?20080916" type="text/javascript"></script>
 <script src="/js/swfobject.js" type="text/javascript"></script>
-<link rel="stylesheet" type="text/css" href="/css/ucbcomedy.css"></head>
+<script type="text/javascript">
+	Event.observe(window, 'load', function() { initialize(); });
+</script>
+<!--[if lte IE 7]>
+	<style type="text/css">
+		ul.videos.small li.vidListing {
+			margin-top: -3px !important;
+		}
+
+		ul.videos.small li.vidListing a.vidLink,
+		ul.videos.small li.vidListing span.vidLinkDisabled {
+			height: 3.4em;
+			overflow: hidden !important;
+		}
+
+		ul.videos.small li.vidListing a.vidLink span,
+		ul.videos.small li.vidListing span.vidLinkDisabled span {
+			height: inherit;
+			overflow: hidden;
+		}
+
+		ul.videos.small li.vidListing a.vidLink img,
+		ul.videos.small li.vidListing span.vidLinkDisabled img {
+			width: 36% !important;
+			height: auto !important;
+		}
+	</style>
+<![endif]-->
+<!--[if lt IE 7]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" />	<script defer="true" src="/js/ie.js" type="text/javascript"></script>
+<![endif]-->
+</head>
 <body>
 	<div id="container">
 		
@@ -28,8 +61,9 @@
 			<p>Original comedy from the twisted minds of the Upright Citizens Brigade Theatre’s best improv, sketch
 			and stand up comedians. Funny, F’d Up and Illegal videos, podcasts, jokes and other content from the
 			largest comedy community in the world.</p>
-			<form id="searchform" action="/videos/search" method="post">				<input type="text" name="search" id="search" size="38">
-				<input type="image" name="SearchButton" id="SearchButton" src="/img/search_button.png">
+			<form action="/videos/search" method="get" id="searchform">
+				<input type="text" name="q" id="search" size="38">
+				<input type="image" name="s" id="SearchButton" src="/img/search_button.png">
 			</form>
 		</div>
 		<div id="content">		
@@ -102,58 +136,6 @@ its contents, please contact UCB at [info@ucbcomedy.com].
 </div>			<div class="clear"></div>
 		</div>		<div id="footer"><a href="/pages/terms_of_use">Terms of Use</a> <a href="/pages/privacy">Privacy Policy</a></div>
 	</div>
-	<div id="debug" style="font-family: 'consolas','monaco',fixed; font-size: 0.8em; color: red; text-align: left;">
-	</div>
-	<script type="text/javascript">
-		initialize();
-	</script>
-	<!--[if lte IE 7]>
-	<style type="text/css">
-		ul.videos.small li.vidListing {
-			margin-top: -3px !important;
-		}
-	</style>
-	<![endif]-->
-	<!--[if lt IE 7]>
-	<style type="text/css">
-		div#container div#content div#center div#featured div#main {
-			margin-left: 6px !important;
-		}
-
-		div#container div#content div#center div#featured div#other {
-			margin-left: 10px !important;
-			margin-right: 10px !important;
-		}
-
-		div#container div#content div#center div.subVideos ul.videos {
-			margin-left: 10px;
-		}
-	</style>
-	<script defer="true" type="text/javascript">
-		var arVersion = navigator.appVersion.split("MSIE")
-		var version = parseFloat(arVersion[1])
-
-		if ((version >= 5.5) && (document.body.filters)) {
-			var img = document.getElementById('logo')
-			var imgName = img.src.toUpperCase()
-
-			var imgID = (img.id) ? "id='" + img.id + "' " : ""
-			var imgClass = (img.className) ? "class='" + img.className + "' " : ""
-			var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' "
-			var imgStyle = "display:inline-block;" + img.style.cssText
-
-			if (img.align == "left") imgStyle = "float:left;" + imgStyle
-			if (img.align == "right") imgStyle = "float:right;" + imgStyle
-			if (img.parentElement.href) imgStyle = "cursor:hand;" + imgStyle
-
-			var strNewHTML = "<span " + imgID + imgClass + imgTitle
-				+ " style=\"" + "width:" + img.width + "px; height:" + img.height + "px;" + imgStyle + ";"
-				+ "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
-				+ "(src=\'" + img.src + "\', sizingMethod='scale');\"></span>"
-			img.outerHTML = strNewHTML
-		}
-	</script>
-	<![endif]-->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -164,4 +146,4 @@ pageTracker._initData();
 pageTracker._trackPageview();
 </script>
 
-</body></html>
+<!-- 0.0293s --></body></html>
