@@ -1,710 +1,254 @@
-<!--The following is the downloaded HTML source of the cmog.org privacy policy that was archived on 2008-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080525103443id_/http%3A//www.cmog.org/index.asp%3FpageId%3D1075%26mnu%3D9%26mid%3Dmi2) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cmog.org privacy policy that was archived on 2008-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219174106id_/http%3A//www.cmog.org/dynamic.aspx%3Fid%3D304) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head> 
-		                          
-		<title>Corning Museum of Glass | Privacy Policy</title>
-		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-		<meta http-equiv="imagetoolbar" content="no">
-		<meta name="keywords" lang="en-us" content="glass,museum,corning,ny,blowing,glass blowing,new york">
-		<meta name="description" lang="en-us" content="The Corning Museum of Glass is committed to protecting your privacy when you use our website. We have adopted the following policies to safeguard personal information.">
-		<!--<meta name="ICBM" content="42.149003, -77.05332">
-		<meta name="DC.title" content="The Corning Museum of Glass">-->
-		
-		<link rel="shortcut icon" href="favicon.ico">
-		<link rel="stylesheet" type="text/css" href="/css/form.css">		
-		<link rel="STYLESHEET" type="text/css" href="css/indexPage.css">
-		<link rel="STYLESHEET" type="text/css" href="/usr/css/CMoG.css">
-		
-		<script src="script/common.js" type="text/javascript"></script>
-		<script language="JavaScript1.2" src="/script/validation.js" type="text/javascript"></script>
-		<script language="JavaScript1.2" src="/script/slideshow.js" type="text/javascript"></script>
-		
-		<script language="JavaScript" src="/script/calendar2.js"></script><!-- Date only with year scrolling -->
-   		<script language="JavaScript" type="text/javascript">
-	 function init(){	   
-	 var eIMG = document.getElementById("cardImage");
-				if (eIMG){
-					eIMG.selectedIndex=0;
-					showECardImage(eIMG);
-				}
-			if(mac)
-			{				   		   
-				var table = document.getElementById("index");
-				if (table)
-					_subOffsetLeft= (table.clientLeft * -1) + 2;
-						
-				var fullTable = document.getElementById("FullPage");
-				if (fullTable)
-					_subOffsetLeft= (fullTable.clientLeft * -1) + 2;	
-				
-					
-				var pane = document.getElementById("leftPane");
-				if (pane)
-					_subOffsetTop=(pane.clientTop * -1) + 2;
-			}
-			
-				var el = document.getElementById("btnSave");
-				if(el){
-		    		el.onclick = btnSave_onClick;
-					var showEL = document.getElementById("showAlert");
-					if (showEL){
-						if (showEL.value!="")
-						alert("Thank You \n Your form submission has been sent.");
-					}
-				}
-		}
-		function showECardImage(el){
-			var selText = el.value;
-			var imagePos = selText.lastIndexOf("~~");
-			var imageLength = selText.length;
-			
-			var imageRecID = selText.substr(0,imagePos);
-			imagePos = imagePos + 2;
-			imageLength = imageLength-imagePos;
-			var imageName = selText.substr(imagePos, imageLength)
-			var imgID = document.getElementById("ePostCard");
-			imgID.src = imageName;
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>
+	Corning Museum of Glass - Kids and Teens Free! (19 and under)
+</title><link rel="shortcut icon" href="favicon.ico"><link rel="apple-touch-icon" href="apple-touch-icon.png"><link rel="stylesheet" type="text/css" class="mainStyle" href="Custom/Css/StyleSheet.css">
+    <script type="text/javascript" src="js/jQuery.js"></script>
+    <script type="text/javascript" language="javascript">
+           jQuery(document).ready(function(){
 
-			document.getElementById("PostcardID").value = imageRecID;
-			document.getElementById("PostcardURL").value = imageName;
-		}
-		
-     function btnSave_onClick(){
-         if (validateForm(document.InputForm)) {
-            document.InputForm.submit()
-         } else {
-            alert("Please correct the indicated fields and try again.");
-         } 
-      }
-		</script>
+            var rv = -1; // Return value assumes failure.
 
-	<style type="text/css" media="print">
-		IFrame.mmenu {display:none;}
-	</style>
+            if (navigator.appName == 'Microsoft Internet Explorer')
+            {
+                var ua = navigator.userAgent;
+
+                var re  = new RegExp("MSIE ([0-9]{1,}[\.0-9]{0,})");
+
+                if (re.exec(ua) != null)
+
+                rv = parseFloat( RegExp.$1 );
+            }
+
+            if( rv == 6 )
+            {
+                jQuery(".mainStyle").attr("href", "Custom/Css/StyleSheetIE6.css");  
+            }
+            });
+            
+            if (navigator.appName == 'Microsoft Internet Explorer')
+            {
+                var ua = navigator.userAgent;
+
+                var re  = new RegExp("MSIE ([0-9]{1,}[\.0-9]{0,})");
+
+                if (re.exec(ua) != null)
+
+                ieversion = parseFloat( RegExp.$1 );
+                
+                if (ieversion == 6)
+                {
+                    function showMenu(obj)
+                    {
+                        if(obj.className == "active_w_sub" || obj.className == "sel_active_w_sub" || obj.className == "notactive_w_sub")
+                        {
+                            obj.style.background = "#000000 url(/uploadedImages/General/arrow.gif) no-repeat right center";
+                            obj.childNodes[0].style.color = "#ffffff";
+                        }
+                        else
+                        {
+                            obj.style.background = "#000000";
+                            obj.childNodes[0].style.color = "#ffffff";
+                        }
+                        var current = obj.childNodes[0].nextSibling;
+                        current.style.visibility = "visible";
+                    }
+                    function hideMenu(obj, level)
+                    {
+                        if(level > 1)
+                        {
+                            if(obj.className == "active_w_sub" || obj.className == "sel_active_w_sub")
+                            {
+                                obj.style.background = "#808080 url(/uploadedImages/General/arrow.gif) no-repeat right center";
+                                obj.childNodes[0].style.color = "#ffffff";
+                            }
+                            else if(obj.className == "notactive_w_sub")
+                            {
+                                obj.style.background = "#808080 url(/uploadedImages/General/arrow.gif) no-repeat right center";
+                                obj.childNodes[0].style.color = "#000000";
+                            }
+                            else if(obj.className == "active_wo_sub")
+                            {
+                                obj.style.background = "#808080";
+                                obj.childNodes[0].style.color = "#ffffff";
+                            }
+                            else
+                            {
+                                obj.style.background = "#808080";
+                                obj.childNodes[0].style.color = "#000000";
+                            }
+                        }
+                        else
+                        {
+                             obj.style.background = "#ffffff";
+                             obj.childNodes[0].style.color = "#000000";
+                        }
+                        var current = obj.childNodes[0].nextSibling;
+                        current.style.visibility = "hidden";
+                       } 
+                }
+
+            }   
+            function clearSearch(obj)
+            {
+                obj.value="";
+            }
+    </script>
+
+<link id="EktronEditorsMenuCSS" href="/WorkArea/csslib/EktronEditorsMenu.css" type="text/css" rel="stylesheet">
+
+<script id="EktronJQueryJS" type="text/javascript" src="/WorkArea/java/EktronJQuery.js"></script>
+
+<script id="EktronWebToolbarJS" type="text/javascript" src="/WorkArea/java/webtoolbar.js"></script>
+
+<script id="EktronFlexMenuJS" type="text/javascript" src="/WorkArea/java/ek_flexmenu.js"></script>
+
+<link id="_Custom_Css_none.css" href="/Custom/Css/none.css" type="text/css" rel="stylesheet">
 </head>
+<body>
+    <form name="aspnetForm" method="post" action="dynamic.aspx?id=304" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTgzMjkwNTg4MA9kFgJmD2QWAmYPZBYCAgMPZBYEAgMPZBYCAgMPD2QWAh4Hb25Gb2N1cwURY2xlYXJTZWFyY2godGhpcylkAgsPZBYCAgEPZBYCAgEPFgIeBFRleHQFDlByaXZhY3kgUG9saWN5ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUjY3RsMDAkY3RsMDAkY3RsU2l0ZVNlYXJjaCRidG5TZWFyY2ht/szkAIGdgTL9VlpS1Hjw0G8FgA==">
 
-<body onload="init();">
-		<script type="text/javascript" src="/script/milonic_src.js"></script> 
-		<param copyright="JavaScript Menu by Milonic http://www.milonic.com">
-		<script type="text/javascript">
-		<!-- 
-		if(ns4)_d.write("<SCR"+"IPT LANGUAGE=JavaScript SRC=/script/mmenuns4.js><\/SCR"+"IPT>"); 
-		else _d.write("<SCR"+"IPT LANGUAGE=JavaScript SRC=/script/mmenudom.js><\/SCR"+"IPT>"); 
-		-->
-		</script><script language="JavaScript" src="/script/mmenudom.js"></script><script>function getflta(ap){return _f}</script>
-		
-		<script language="JavaScript" src="/script/dropMenuConfig2.js" type="text/javascript"></script>
-		<script language="JavaScript">
-			
-			with(milonic=new menuname("mi0")){
-			style=submenuStyle;
-			overflow="scroll";
-					
-		aI("text=General Information;url=index.asp?pageId=782;target=;status=General Information;showmenu=mi1;");		
-		aI("text=Buy Tickets;url=http://reservations.cmog.org/;target=;status=Buy Tickets;");		
-		aI("text=Calendar;url=index.asp?pageId=983;target=;status=Calendar;");		
-		aI("text=Explore the Region;url=index.asp?pageId=449;target=;status=Explore the Region;");		
-		aI("text=Audio Tours;url=index.asp?pageId=1488;target=;status=Audio Tours;");		
-		aI("text=Especially for Families;url=index.asp?pageId=1000;target=;status=Especially for Families;");		
-		aI("text=Group Tours;url=index.asp?pageId=448;target=;status=Group Tours;showmenu=mi13;");		
-		aI("text=Scout Programs ;url=index.asp?pageId=1396;target=;status=Scout Programs ;");		
-		aI("text=Summer Youth Activities;url=;target=;status=Summer Youth Activities;showmenu=mi23;");		
-		aI("text=Facility Rental;url=index.asp?pageId=714;target=;status=Facility Rental;");
-			}
-		
-			with(milonic=new menuname("mi29")){
-			style=submenuStyle;
-			overflow="scroll";
-					
-		aI("text=Hot Glass Show;url=index.asp?pageId=804;target=;status=Hot Glass Show;showmenu=mi30;");		
-		aI("text=GlassLab;url=http://www.cmog.org/glasslab/;target=;status=GlassLab;");		
-		aI("text=Magic of Glass;url=index.asp?pageId=1219;target=;status=Magic of Glass;");
-			}
-		
-			with(milonic=new menuname("mi37")){
-			style=submenuStyle;
-			overflow="scroll";
-					
-		aI("text=Individual Experiences;url=index.asp?pageId=672;target=;status=Individual Experiences;");		
-		aI("text=Groups of 10 or more;url=index.asp?pageId=777;target=;status=Groups of 10 or more;");		
-		aI("text=Take Classes;url=index.asp?pageId=1043;target=;status=Take Classes;");
-			}
-		
-			with(milonic=new menuname("mi41")){
-			style=submenuStyle;
-			overflow="scroll";
-					
-		aI("text=Browse the Collection;url=http://www.cmog.org/collection/;target=;status=Browse the Collection;");		
-		aI("text=Galleries;url=index.asp?pageId=434;target=;status=Galleries;showmenu=mi43;");		
-		aI("text=Glass Innovation Center;url=index.asp?pageId=456;target=;status=Glass Innovation Center;");		
-		aI("text=Rakow Commissions;url=index.asp?pageId=1459;target=;status=Rakow Commissions;");		
-		aI("text=Recent Acquisitions;url=index.asp?pageId=1647;target=;status=Recent Acquisitions;showmenu=mi50;");		
-		aI("text=Curator's Choice;url=index.asp?pageId=1282;target=;status=Curator's Choice;showmenu=mi55;");		
-		aI("text=On The Road;url=index.asp?pageId=758;target=;status=On The Road;");
-			}
-		
-			with(milonic=new menuname("mi61")){
-			style=submenuStyle;
-			overflow="scroll";
-					
-		aI("text=Current Exhibitions ;url=index.asp?pageId=1101;target=;status=Current Exhibitions ;showmenu=mi62;");		
-		aI("text=Upcoming Exhibitions ;url=index.asp?pageId=1057;target=;status=Upcoming Exhibitions ;showmenu=mi65;");		
-		aI("text=Past Exhibitions;url=index.asp?pageId=562;target=;status=Past Exhibitions;");
-			}
-		
-			with(milonic=new menuname("mi69")){
-			style=submenuStyle;
-			overflow="scroll";
-					
-		aI("text=Glassworking Videos;url=;target=;status=Glassworking Videos;showmenu=mi70;");		
-		aI("text=Corning Museum Publications;url=index.asp?pageId=1461;target=;status=Corning Museum Publications;showmenu=mi73;");		
-		aI("text=Podcasts &amp; Audio Guide;url=index.asp?pageId=1574;target=;status=Podcasts &amp; Audio Guide;showmenu=mi78;");		
-		aI("text=Glass Dictionary;url=index.asp?pageId=687;target=;status=Glass Dictionary;");		
-		aI("text=Resource on Glass;url=index.asp?pageId=426;target=;status=Resource on Glass;");		
-		aI("text=Glass Chemistry Game;url=http://www.cmog.org/glasschemistry/;target=_blank;status=Glass Chemistry Game;");		
-		aI("text=Telescopes;url=http://www.cmog.org/telescopes/;target=;status=Telescopes;");		
-		aI("text=Czech Glass Design ;url=http://www.cmog.org/Czech/CzechGlass.html;target=;status=Czech Glass Design ;");		
-		aI("text=Glass Exhibition Database;url=index.asp?pageId=1225;target=;status=Glass Exhibition Database;");		
-		aI("text=Articles;url=index.asp?pageId=1465;target=;status=Articles;showmenu=mi88;");		
-		aI("text=Seminars/Lectures;url=;target=;status=Seminars/Lectures;showmenu=mi96;");		
-		aI("text=Glass Schools;url=index.asp?pageId=1593;target=;status=Glass Schools;");
-			}
-		
-			with(milonic=new menuname("mi100")){
-			style=submenuStyle;
-			overflow="scroll";
-					
-		aI("text=2300°;url=index.asp?pageId=1304;target=;status=2300°;");		
-		aI("text=Meet the Artist;url=index.asp?pageId=1417;target=;status=Meet the Artist;");		
-		aI("text=Families Explore;url=index.asp?pageId=806;target=;status=Families Explore;");		
-		aI("text=Little Gather;url=index.asp?pageId=1253;target=;status=Little Gather;");		
-		aI("text=Vitreous Adventures;url=index.asp?pageId=1456;target=;status=Vitreous Adventures;");		
-		aI("text=GLASSLAB;url=http://www.cmog.org/glasslab/;target=;status=GLASSLAB;");		
-		aI("text=Seminar on Glass;url=index.asp?pageId=1178;target=;status=Seminar on Glass;");		
-		aI("text=Holiday Open House;url=index.asp?pageId=1095;target=;status=Holiday Open House;");
-			}
-		
-			with(milonic=new menuname("mi109")){
-			style=submenuStyle;
-			overflow="scroll";
-					
-		aI("text=Membership;url=index.asp?pageId=451;target=;status=Membership;showmenu=mi110;");		
-		aI("text=Volunteer Opportunities;url=index.asp?pageId=454;target=;status=Volunteer Opportunities;");		
-		aI("text=Junior Curators;url=index.asp?pageId=464;target=;status=Junior Curators;showmenu=mi118;");		
-		aI("text=Explainers;url=index.asp?pageId=1094;target=;status=Explainers;");		
-		aI("text=Residencies, Grants, Competitions and Scholarships;url=index.asp?pageId=1589;target=;status=Residencies, Grants, Competitions and Scholarships;");		
-		aI("text=Employment;url=index.asp?pageId=799;target=;status=Employment;showmenu=mi123;");
-			}
-		
-			with(milonic=new menuname("mi125")){
-			style=submenuStyle;
-			overflow="scroll";
-					
-		aI("text=School Tours;url=index.asp?pageId=772;target=;status=School Tours;showmenu=mi126;");		
-		aI("text=Online Resources;url=;target=;status=Online Resources;showmenu=mi133;");		
-		aI("text=Student Involvement;url=index.asp?pageId=1521;target=;status=Student Involvement;showmenu=mi138;");		
-		aI("text=Hands-on Glassmaking;url=index.asp?pageId=777;target=;status=Hands-on Glassmaking;");		
-		aI("text=Professional Development;url=index.asp?pageId=1520;target=;status=Professional Development;");
-			}
-		
-			with(milonic=new menuname("mi144")){
-			style=submenuStyle;
-			overflow="scroll";
-					
-		aI("text=About The Studio ;url=index.asp?pageId=755;target=;status=About The Studio ;");		
-		aI("text=Studio Courses ;url=index.asp?pageId=1043;target=;status=Studio Courses ;");		
-		aI("text=Scholarships ;url=index.asp?pageId=413;target=;status=Scholarships ;");		
-		aI("text=Fall/Winter Application ;url=index.asp?pageId=771;target=;status=Fall/Winter Application ;");		
-		aI("text=Spring/Summer Application;url=index.asp?pageId=1125;target=;status=Spring/Summer Application;");		
-		aI("text=Renting at The Studio ;url=index.asp?pageId=779;target=;status=Renting at The Studio ;");		
-		aI("text=Photography Room;url=index.asp?pageId=1283;target=;status=Photography Room;");		
-		aI("text=Residencies ;url=index.asp?pageId=754;target=;status=Residencies ;");		
-		aI("text=Video Series ;url=index.asp?pageId=780;target=;status=Video Series ;");		
-		aI("text=Artists / Instructors ;url=index.asp?pageId=776;target=;status=Artists / Instructors ;");
-			}
-		
-			with(milonic=new menuname("mi155")){
-			style=submenuStyle;
-			overflow="scroll";
-					
-		aI("text=Ask a Librarian ;url=index.asp?pageId=1382;target=;status=Ask a Librarian ;");		
-		aI("text=About the Rakow Library ;url=index.asp?pageId=416;target=;status=About the Rakow Library ;");		
-		aI("text=Library Catalogs Intro ;url=index.asp?pageId=691;target=;status=Library Catalogs Intro ;");		
-		aI("text=Library Catalogs ;url=http://rakow.cmog.org/;target=;status=Library Catalogs ;");		
-		aI("text=Worldwide Glass Exhibitions Database;url=index.asp?pageId=1225;target=;status=Worldwide Glass Exhibitions Database;");		
-		aI("text=Additional Resources ;url=index.asp?pageId=1070;target=;status=Additional Resources ;");		
-		aI("text=Interlibrary Loan ;url=index.asp?pageId=1109;target=;status=Interlibrary Loan ;");
-			}
-		
-			with(milonic=new menuname("mi163")){
-			style=submenuStyle;
-			overflow="scroll";
-					
-		aI("text=Shop Online;url=http://glassmarket.cmog.org/browse.cfm;target=;status=Shop Online;");		
-		aI("text=About the GlassMarket;url=index.asp?pageId=418;target=;status=About the GlassMarket;");		
-		aI("text=;url=;target=;status=;");
-			}
-		
-			with(milonic=new menuname("mi1")){
-			style=submenuStyle;
-			overflow="scroll";
-			itemwidth="120";
-					
-		aI("text=Hours &amp; Admission ;url=index.asp?pageId=1252;target=;status=Hours &amp; Admission ;");		
-		aI("text=Directions;url=index.asp?pageId=781;target=;status=Directions;");		
-		aI("text=Museum Maps;url=index.asp?pageId=1463;target=;status=Museum Maps;");		
-		aI("text=Parking;url=index.asp?pageId=435;target=;status=Parking;");		
-		aI("text=Food &amp; Beverage;url=index.asp?pageId=1247;target=;status=Food &amp; Beverage;");		
-		aI("text=Frequently Asked Questions (FAQ);url=index.asp?pageId=774;target=;status=Frequently Asked Questions (FAQ);");
-			}
-		
-			with(milonic=new menuname("mi13")){
-			style=submenuStyle;
-			overflow="scroll";
-			itemwidth="120";
-					
-		aI("text=Overview;url=index.asp?pageId=448;target=;status=Overview;");		
-		aI("text=A Typical Tour;url=index.asp?pageId=790;target=;status=A Typical Tour;");		
-		aI("text=Tour Enhancements;url=index.asp?pageId=788;target=;status=Tour Enhancements;");		
-		aI("text=Contacts &amp; Reservations;url=index.asp?pageId=789;target=;status=Contacts &amp; Reservations;");		
-		aI("text=Dining Options ;url=index.asp?pageId=786;target=;status=Dining Options ;");		
-		aI("text=Corporate Group Tours;url=index.asp?pageId=768;target=;status=Corporate Group Tours;");		
-		aI("text=Request a Sales Kit;url=http://www.cmog.org/forms2/form_saleskit.aspx;target=;status=Request a Sales Kit;");		
-		aI("text=Profile Sheet (1MB);url=/usr/media/Group_Tour_Profile_Sheet 2007.pdf;target=_blank;status=Profile Sheet (1MB);");
-			}
-		
-			with(milonic=new menuname("mi23")){
-			style=submenuStyle;
-			overflow="scroll";
-			itemwidth="120";
-					
-		aI("text=Summer Youth Tours;url=index.asp?pageId=1447;target=;status=Summer Youth Tours;");		
-		aI("text=Little Gather;url=index.asp?pageId=1253;target=;status=Little Gather;");		
-		aI("text=Vitreous Adventures;url=index.asp?pageId=1456;target=;status=Vitreous Adventures;");		
-		aI("text=You Design It; We Make It;url=index.asp?pageId=987;target=;status=You Design It; We Make It;");
-			}
-		
-			with(milonic=new menuname("mi30")){
-			style=submenuStyle;
-			overflow="scroll";
-			itemwidth="120";
-					
-		aI("text=At the Museum;url=index.asp?pageId=773;target=;status=At the Museum;");		
-		aI("text=On the Road;url=index.asp?pageId=676;target=;status=On the Road;");		
-		aI("text=At Sea;url=index.asp?pageId=1635;target=;status=At Sea;");		
-		aI("text=You Design It; We Make It! ;url=index.asp?pageId=987;target=;status=You Design It; We Make It! ;");
-			}
-		
-			with(milonic=new menuname("mi43")){
-			style=submenuStyle;
-			overflow="scroll";
-			itemwidth="120";
-					
-		aI("text=Glass Collection Galleries;url=index.asp?pageId=1174;target=;status=Glass Collection Galleries;");		
-		aI("text=Contemporary Glass Gallery;url=index.asp?pageId=802;target=;status=Contemporary Glass Gallery;");		
-		aI("text=Carder Gallery;url=index.asp?pageId=527;target=;status=Carder Gallery;");		
-		aI("text=Gallery Tours;url=index.asp?pageId=1279;target=;status=Gallery Tours;");
-			}
-		
-			with(milonic=new menuname("mi50")){
-			style=submenuStyle;
-			overflow="scroll";
-			itemwidth="120";
-					
-		aI("text=2007;url=index.asp?pageId=1647;target=;status=2007;");		
-		aI("text=2006;url=index.asp?pageId=1540;target=;status=2006;");		
-		aI("text=2005;url=index.asp?pageId=1418;target=;status=2005;");		
-		aI("text=2004;url=index.asp?pageId=1175;target=;status=2004;");
-			}
-		
-			with(milonic=new menuname("mi55")){
-			style=submenuStyle;
-			overflow="scroll";
-			itemwidth="120";
-					
-		aI("text=2005 Archive ;url=index.asp?pageId=1138;target=;status=2005 Archive ;");		
-		aI("text=2004 Archive;url=index.asp?pageId=977;target=;status=2004 Archive;");		
-		aI("text=2003 Archive;url=index.asp?pageId=976;target=;status=2003 Archive;");		
-		aI("text=2002 Archive;url=index.asp?pageId=975;target=;status=2002 Archive;");
-			}
-		
-			with(milonic=new menuname("mi62")){
-			style=submenuStyle;
-			overflow="scroll";
-			itemwidth="120";
-					
-		aI("text=Reflecting Antiquity;url=index.asp?pageId=1587;target=;status=Reflecting Antiquity;");		
-		aI("text=Joel Philip Myers and Steven I. Weinberg;url=index.asp?pageId=1586;target=;status=Joel Philip Myers and Steven I. Weinberg;");
-			}
-		
-			with(milonic=new menuname("mi65")){
-			style=submenuStyle;
-			overflow="scroll";
-			itemwidth="120";
-					
-		aI("text=Glass of the Alchemists;url=index.asp?pageId=1588;target=;status=Glass of the Alchemists;");		
-		aI("text=Frantisek Vizner;url=index.asp?pageId=1605;target=;status=Frantisek Vizner;");
-			}
-		
-			with(milonic=new menuname("mi70")){
-			style=submenuStyle;
-			overflow="scroll";
-			itemwidth="120";
-					
-		aI("text=Glassworking Video Clips;url=index.asp?pageId=1565;target=;status=Glassworking Video Clips;");		
-		aI("text=Studio Video Series;url=index.asp?pageId=780;target=;status=Studio Video Series;");
-			}
-		
-			with(milonic=new menuname("mi73")){
-			style=submenuStyle;
-			overflow="scroll";
-			itemwidth="120";
-					
-		aI("text=New Publications;url=index.asp?pageId=488;target=;status=New Publications;");		
-		aI("text=New Glass Review;url=index.asp?pageId=457;target=;status=New Glass Review;");		
-		aI("text=Journal of Glass Studies;url=index.asp?pageId=1491;target=;status=Journal of Glass Studies;");		
-		aI("text=Publications Archive ;url=index.asp?pageId=1464;target=;status=Publications Archive ;");
-			}
-		
-			with(milonic=new menuname("mi78")){
-			style=submenuStyle;
-			overflow="scroll";
-			itemwidth="120";
-					
-		aI("text=Meet the Artist;url=index.asp?pageId=1592;target=;status=Meet the Artist;");		
-		aI("text=Glass Collection and Exhibitions;url=index.asp?pageId=1591;target=;status=Glass Collection and Exhibitions;");		
-		aI("text=Audio Guide;url=index.asp?pageId=1488;target=;status=Audio Guide;");
-			}
-		
-			with(milonic=new menuname("mi88")){
-			style=submenuStyle;
-			overflow="scroll";
-			itemwidth="120";
-					
-		aI("text=Glass Lighting Featured;url=index.asp?pageId=688;target=;status=Glass Lighting Featured;");		
-		aI("text=Morgan Cup;url=index.asp?pageId=425;target=;status=Morgan Cup;");		
-		aI("text=The Glass Giant;url=index.asp?pageId=673;target=;status=The Glass Giant;");		
-		aI("text=A Brief History of Islamic Glassmaking;url=index.asp?pageId=686;target=;status=A Brief History of Islamic Glassmaking;");		
-		aI("text=Daphne Ewer;url=index.asp?pageId=573;target=;status=Daphne Ewer;");		
-		aI("text=Medieval Glassmaking in the Levant;url=index.asp?pageId=1002;target=;status=Medieval Glassmaking in the Levant;");		
-		aI("text=Does Glass Flow?;url=index.asp?pageId=745;target=;status=Does Glass Flow?;");
-			}
-		
-			with(milonic=new menuname("mi96")){
-			style=submenuStyle;
-			overflow="scroll";
-			itemwidth="120";
-					
-		aI("text=Seminar on Glass;url=index.asp?pageId=1178;target=;status=Seminar on Glass;");		
-		aI("text=Lectures;url=index.asp?pageId=812;target=;status=Lectures;");
-			}
-		
-			with(milonic=new menuname("mi110")){
-			style=submenuStyle;
-			overflow="scroll";
-			itemwidth="120";
-					
-		aI("text=Membership Information;url=index.asp?pageId=451;target=;status=Membership Information;");		
-		aI("text=Contributing Memberships;url=index.asp?pageId=536;target=;status=Contributing Memberships;");		
-		aI("text=Individual Educator Membership;url=index.asp?pageId=662;target=;status=Individual Educator Membership;");		
-		aI("text=Purchase Membership;url=index.asp?pageId=463;target=;status=Purchase Membership;");		
-		aI("text=Corporate Membership;url=index.asp?pageId=412;target=;status=Corporate Membership;");		
-		aI("text=Ennion Society;url=index.asp?pageId=981;target=;status=Ennion Society;");
-			}
-		
-			with(milonic=new menuname("mi118")){
-			style=submenuStyle;
-			overflow="scroll";
-			itemwidth="120";
-					
-		aI("text=Junior Curators Program ;url=index.asp?pageId=464;target=;status=Junior Curators Program ;");		
-		aI("text=Junior Curators Application ;url=index.asp?pageId=446;target=;status=Junior Curators Application ;");
-			}
-		
-			with(milonic=new menuname("mi123")){
-			style=submenuStyle;
-			overflow="scroll";
-			itemwidth="120";
-					
-		aI("text=Full Time Positions;url=index.asp?pageId=827;target=;status=Full Time Positions;");
-			}
-		
-			with(milonic=new menuname("mi126")){
-			style=submenuStyle;
-			overflow="scroll";
-			itemwidth="120";
-					
-		aI("text=Overview;url=index.asp?pageId=772;target=;status=Overview;");		
-		aI("text=Tour Options ;url=index.asp?pageId=1110;target=;status=Tour Options ;");		
-		aI("text=Lunch Options ;url=index.asp?pageId=1307;target=;status=Lunch Options ;");		
-		aI("text=School Tour Pre-Registration;url=http://www.cmog.org/Forms2/form_school_vii.aspx;target=_blank;status=School Tour Pre-Registration;");		
-		aI("text=Pre-Visit Resources;url=index.asp?pageId=428;target=;status=Pre-Visit Resources;");		
-		aI("text=Campus Map (PDF);url=/usr/media/cmog_campus_map_school_version.pdf;target=_blank;status=Campus Map (PDF);");
-			}
-		
-			with(milonic=new menuname("mi133")){
-			style=submenuStyle;
-			overflow="scroll";
-			itemwidth="120";
-					
-		aI("text=Glassworking Videos;url=index.asp?pageId=1565;target=;status=Glassworking Videos;");		
-		aI("text=Glass Dictionary;url=index.asp?pageId=687;target=;status=Glass Dictionary;");		
-		aI("text=Resource on Glass;url=index.asp?pageId=426;target=;status=Resource on Glass;");		
-		aI("text=Glass Chemistry Game;url=http://www.cmog.org/glasschemistry/;target=_blank;status=Glass Chemistry Game;");
-			}
-		
-			with(milonic=new menuname("mi138")){
-			style=submenuStyle;
-			overflow="scroll";
-			itemwidth="120";
-					
-		aI("text=Explainers;url=index.asp?pageId=1094;target=;status=Explainers;");		
-		aI("text=Junior Curators;url=index.asp?pageId=464;target=;status=Junior Curators;");
-			}
-			  
-			
-		</script> 
-		
-		
-			<table id="index" align="center" cellspacing="0" cellpadding="0" border="0" height="400">
-		
-		<tbody><tr>
-			<td colspan="2">
-<script language="JavaScript" type="text/javascript">
-	function clearSearch()
-	{
-		var el = document.getElementById("searchString")
-		if (el)
-			el.value = "";
-	}
-</script>
-<a name="TOP" id="TOP"></a>
-<table cellspacing="0" cellpadding="0" border="0" style="= sHeaderStyle %>">
-<tbody><tr valign="top">
-	<td valign="top" colspan="2">
-		<table border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td width="450"><a href="default.asp" title="Corning Museum of Glass"><img src="webImgs/corning_museum_of_glass.gif" width="407" height="53" alt="Corning Museum of Glass" border="0"></a></td>
-				<td align="right" width="320" valign="top">
-					<form action="/index.asp?mod=search" method="post" name="searchForm" id="searchForm" style="display:inline;">
-					<table border="0" cellspacing="0" cellpadding="0" width="100%">
-						<tbody><tr>
-							
-										<td align="right">
-											<span id="SearchText">Search</span>
-										</td>
-										<td align="right">
-											<input type="Text" id="searchString" name="searchString" maxlength="100" style="font-size:11px;width:160px;" value="Enter a search term" onfocus="javascript:clearSearch();">
-										</td>
-										<td><input type="image" src="webImgs/go.gif" alt="start search"></td>
-										
-								
-							<td align="right"><a href="default.asp" title="Corning Museum of Glass"><img src="webImgs/cmog_logo.gif" width="53" height="53" alt="Corning Museum of Glass" border="0"></a></td>
-						</tr>
-					</tbody></table>
-					</form>
-				</td>
-			</tr>
-		</tbody></table>
-	</td>
-</tr>
-<tr valign="top">
-	<td valign="top" colspan="2" id="headerBarPane">
-		<table border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr valign="top" style="padding-top:1px;">
-				<td width="470"><table border="0" cellpadding="0" cellspacing="0" xmlns:helper="urn:helper"><tbody><tr class="menuContainer">
-<td><a class="headerBarMenuItem" id="mi0" href="http://www.cmog.org/" target="">Home</a></td>
-<td><a class="headerBarMenuItem" href="javascript:void(0);" style="cursor:default;">&nbsp;&nbsp;|&nbsp;&nbsp;</a></td>
-<td><a class="headerBarMenuItem" id="mi2" href="index.asp?pageId=781&amp;mnu=7&amp;mid=mi2" target="">One Museum Way,&nbsp;Corning,&nbsp;New York</a></td>
-<td><a class="headerBarMenuItem" href="javascript:void(0);" style="cursor:default;">&nbsp;&nbsp;|&nbsp;&nbsp;</a></td>
-<td><a class="headerBarMenuItem" id="mi4" href="index.asp?pageId=421&amp;mnu=7&amp;mid=mi4" target="">1.800.732.6845</a></td>
-</tr></tbody></table>
-</td>
-				<td><table border="0" cellpadding="0" cellspacing="0" xmlns:helper="urn:helper"><tbody><tr class="">
-<td><a class="headerBarMenuItem" id="mi0" href="index.asp?pageId=1260&amp;mnu=8&amp;mid=mi0" target="">About Us</a></td>
-<td><a class="headerBarMenuItem" href="javascript:void(0);" style="cursor:default;">&nbsp;&nbsp;|&nbsp;&nbsp;</a></td>
-<td><a class="headerBarMenuItem" id="mi2" href="index.asp?pageId=972&amp;mnu=8&amp;mid=mi2" target="">Press Room</a></td>
-<td><a class="headerBarMenuItem" href="javascript:void(0);" style="cursor:default;">&nbsp;&nbsp;|&nbsp;&nbsp;</a></td>
-<td><a class="headerBarMenuItem" id="mi4" href="index.asp?pageId=421&amp;mnu=8&amp;mid=mi4" target="">Contact Us</a></td>
-</tr></tbody></table>
-</td>
-			</tr>
-		</tbody></table>
-	</td>
-</tr>
-</tbody></table></td>
-		</tr>
-	<tr valign="top">
-		<td colspan="2" id="pageNamePane" style="">
-			<div class="pageTitle" style="margin:0px;"><img src="/usr/headers/SH-privacy_policy.gif"></div>
-		</td>
-	</tr>
-		<tr valign="top">
-			<td id="leftPane">
-					<script language="JavaScript1.2">
-						
-		
-			with(milonic=new menuname("Main Menu")){
-			style=MasterStyle;
-			position="relative";
-			alwaysvisible=1;
+        <!-- ECD: Top of page anchor, accessed from footer -->
+        <a name="TopOfPage" id="TopOfPage"></a>
+        <div id="default">
+            <div id="headerPane">
+                
+                
 
-					
-		aI("text=Plan Your Visit;url=;status=Plan Your Visit;showmenu=mi0;");
-			
-		aI("text=Watch Glassmaking;url=index.asp?pageId=804;status=Watch Glassmaking;showmenu=mi29;");
-			
-		aI("text=Make Your Own Glass;url=index.asp?pageId=466;status=Make Your Own Glass;showmenu=mi37;");
-			
-		aI("text=Glass Collection;url=;status=Glass Collection;showmenu=mi41;");
-			
-		aI("text=Exhibitions;url=;status=Exhibitions;showmenu=mi61;");
-			
-		aI("text=Glass Resources;url=;status=Glass Resources;showmenu=mi69;");
-			
-		aI("text=Programs + Events;url=;status=Programs + Events;showmenu=mi100;");
-			
-		aI("text=Get Involved ;url=;status=Get Involved ;showmenu=mi109;");
-			
-		aI("text=For Educators;url=;status=For Educators;showmenu=mi125;");
-			
-		aI("text=---------------;url=;status=---------------;");
-			
-		aI("text=The Studio ;url=index.asp?pageId=755;status=The Studio ;showmenu=mi144;");
-			
-		aI("text=Rakow Research Library;url=index.asp?pageId=416;status=Rakow Research Library;showmenu=mi155;");
-			
-		aI("text=GlassMarket;url=http://glassmarket.cmog.org/browse.cfm;status=GlassMarket;showmenu=mi163;");
-	
-			}
-  	
-						drawMenus();
-					</script>
-				<img src="webImgs/pixel.gif" width="98" height="1" border="0" alt="">
-			</td>
-			<td id="centerPane">
-				<div id="divContent">
-					<table border="0" cellpadding="0" cellspacing="0" width="640"><tbody><tr valign="top"><td>
-<h2>Privacy Policy </h2>
-<p><strong>The Corning Museum of Glass is committed to protecting your privacy 
-when you use our website. We have adopted the following policies to safeguard 
-personal information.</strong></p>
+<!-- Header Logo user control -->
+<div id="headerImage">
+    <a href="default.aspx" title="Corning Museum of Glass">
+        <img src="uploadedimages/Home_Page/corning_museum_of_glass.gif" width="407" height="53" alt="Corning Museum of Glass" border="0">
+    </a>
+</div>
+                
+                
+
+
+<div id="item_search">
+    <span id="ctl00_ctl00_ctlSiteSearch_lblSearch" class="searchText">Search</span>
+    <input name="ctl00$ctl00$ctlSiteSearch$txtSearch" type="text" value="Enter a search term" maxlength="100" id="ctl00_ctl00_ctlSiteSearch_txtSearch" class="box" onfocus="clearSearch(this)" style="font-size:11px;width:158px;">
+    <input type="image" name="ctl00$ctl00$ctlSiteSearch$btnSearch" id="ctl00_ctl00_ctlSiteSearch_btnSearch" class="button" src="uploadedimages/Home_Page/go.gif" border="0">
+</div>
+
+                
+                
+
+<!-- Small Logo user control -->
+<div id="smallLogo">
+    <a href="default.aspx" title="Corning Museum of Glass">
+        <img src="uploadedimages/Home_Page/cmog_logo.gif" width="53" height="53" alt="Corning Museum of Glass" border="0">
+    </a>
+</div>
+
+
+            </div>
+            <div id="headerBarPane">
+                
+                
+
+<div id="topMenuLeft">
+    <ul><li class="noborder"><a href="/Default.aspx" target="_self">Home</a></li><li><a href="/dynamic.aspx?id=102" target="_self">One Museum Way, Corning, New York</a></li><li><a href="/dynamic.aspx?id=1670" target="_self">1.800.732.6845</a></li></ul>
+</div>
+
+                
+                
+
+<!-- Header Right Utility Menu user control -->
+<div id="topMenuRight">
+    <ul><li class="noborder"><a href="/dynamic.aspx?id=1668" target="_self">About Us</a></li><li><a href="/dynamic.aspx?id=1662" target="_self">Press Room</a></li><li><a href="/dynamic.aspx?id=1670" target="_self">Contact Us</a></li></ul>
+</div>
+
+            </div>
+            
+    
+    <div id="pageNamePane">
+        <div class="pageTitle">
+            Privacy Policy
+        </div>
+    </div>
+
+
+            
+    <div id="centerPaneContent">
+        
+    
+    <div id="divContent">
+    	<h2>Privacy Policy </h2>
+<p>
+	<strong>The Corning Museum of Glass is committed to protecting your privacy when you use our website. We have adopted the following policies to safeguard personal information.</strong>
+</p>
 <h3>Tracking Website Usage </h3>
-<p>The Museum’s web server tracks visitors to the site and collects generalized 
-information about the number of visits, most popular pages, domain names, 
-countries, downloads, etc. </p>
+<p>The Museum’s web server tracks visitors to the site and collects generalized information about the number of visits, most popular pages, domain names, countries, downloads, etc. </p>
 <h3>Cookies </h3>
-<p>Cookies are small files of information that are stored on your computer’s 
-hard drive by your web browser. We use cookies to help us to track website use 
-so we can provide users with the best possible service. The cookies we use do 
-not contain any personal information. </p>
+<p>Cookies are small files of information that are stored on your computer’s hard drive by your web browser. We use cookies to help us to track website use so we can provide users with the best possible service. The cookies we use do not contain any personal information. </p>
 <h3>Collecting Personal Information </h3>
-<p>The Corning Museum of Glass does not collect personal information about 
-individuals, such as names and mailing or e-mail addresses, unless the user 
-knowingly provides it. Some pages throughout the site may request specific 
-information submitted by a form or e-mail. Information such as names, addresses, 
-phone numbers, e-mail addresses, etc. will only be used by The Corning Museum of 
-Glass to respond to inquiries, or for specific Corning Museum of Glass marketing 
-activities, events or services.</p>
-<p>If you have submitted personal information to The Corning Museum of Glass and 
-would like it removed or modified, please contact us and we shall use reasonable 
-efforts to comply with your request. </p>
+<p>The Corning Museum of Glass does not collect personal information about individuals, such as names and mailing or e-mail addresses, unless the user knowingly provides it. Some pages throughout the site may request specific information submitted by a form or e-mail. Information such as names, addresses, phone numbers, e-mail addresses, etc. will only be used by The Corning Museum of Glass to respond to inquiries, or for specific Corning Museum of Glass marketing activities, events or services.</p>
+<p>If you have submitted personal information to The Corning Museum of Glass and would like it removed or modified, please contact us and we shall use reasonable efforts to comply with your request. </p>
 <h3>Online Purchases</h3>
-<p>When you buy a ticket or purchase an item via The Corning Museum of Glass 
-website, we need to know your name, billing and shipping addresses, telephone 
-number, e-mail address, and credit card information to process your order. Your 
-credit card information will be used only as needed to process your transaction. 
-So that we can track your order, we will retain your order information for our 
-records.</p>
+<p>When you buy a ticket or purchase an item via The Corning Museum of Glass website, we need to know your name, billing and shipping addresses, telephone number, e-mail address, and credit card information to process your order. Your credit card information will be used only as needed to process your transaction. So that we can track your order, we will retain your order information for our records.</p>
 <h3>Electronic Communications</h3>
-<p>We reserve the right to retain electronic communications sent by visitors. 
-Further, the Museum uses a SMTP gateway to forward e-mail and to log e-mail 
-transactions. Logs of e-mail transactions include: </p>
+<p>We reserve the right to retain electronic communications sent by visitors. Further, the Museum uses a SMTP gateway to forward e-mail and to log e-mail transactions. Logs of e-mail transactions include: </p>
 <ul>
-<li>Date and time of message 
-</li><li>Name and IP address of connecting host 
-</li><li>E-mail address of message originator 
-</li><li>CMoG address of recipient </li></ul>
-<p>Information supplied through The Corning Museum of Glass website, including 
-but not limited to, feedback, data, answers, questions, comments, suggestions, 
-plans, ideas or the like, will not be treated as proprietary or as confidential 
-and the Museum assumes no obligation to protect such information from 
-disclosure. </p>
-<p>Further, the submission of such information to The Corning Museum of Glass 
-shall not restrict the purchase, manufacture or use of similar products, 
-services, plans and ideas by the Museum or any purpose whatever and The Corning 
-Museum of Glass shall be free to reproduce, use, disclose and distribute the 
-information to others without restriction. </p>
+	<li>Date and time of message </li>
+	<li>Name and IP address of connecting host </li>
+	<li>E-mail address of message originator </li>
+	<li>CMoG address of recipient </li>
+</ul>
+<p>Information supplied through The Corning Museum of Glass website, including but not limited to, feedback, data, answers, questions, comments, suggestions, plans, ideas or the like, will not be treated as proprietary or as confidential and the Museum assumes no obligation to protect such information from disclosure. </p>
+<p>Further, the submission of such information to The Corning Museum of Glass shall not restrict the purchase, manufacture or use of similar products, services, plans and ideas by the Museum or any purpose whatever and The Corning Museum of Glass shall be free to reproduce, use, disclose and distribute the information to others without restriction. </p>
 <h3>E-Marketing</h3>
-<p>As a service, The Corning Museum of Glass offers website visitors the 
-opportunity to subscribe to our e-mail updates, a service provided by 
-ExactTarget, which has agreed to use the e-mail address you provide only to send 
-museum updates to you. You may choose to subscribe or unsubscribe at any time by 
-updating your profile at <a href="http://www.cmog.org/email.htm">http://www.cmog.org/email.htm</a>.</p>
-<p>The Corning Museum of Glass does not endorse, nor does it participate in the 
-practice of "spamming" (sending of unsolicited promotional e-mail). If you 
-believe you have received such a message contact <a href="mailto:web@cmog.org">web@cmog.org</a>.</p>
+<p>As a service, The Corning Museum of Glass offers website visitors the opportunity to subscribe to our e-mail updates, a service provided by ExactTarget, which has agreed to use the e-mail address you provide only to send museum updates to you. You may choose to subscribe or unsubscribe at any time by updating your profile at: <a title="EMail Form" href="/dynamic.aspx?id=7890">Email Form</a>.</p>
+<p>The Corning Museum of Glass does not endorse, nor does it participate in the practice of "spamming" (sending of unsolicited promotional e-mail). If you believe you have received such a message contact <a href="mailto:web@cmog.org">web@cmog.org </a>.</p>
 <h3>Children 13 and Under</h3>
-<p>The Corning Museum of Glass does not intend to collect information from 
-children under the age of thirteen (13) without the consent of the child's 
-parent or legal guardian. Children under the age of thirteen (13) should only 
-submit information with the prior consent of their parent or legal guardian. If 
-your child has submitted personal information to The Corning Museum of Glass and 
-you would like to request that such information be removed please contact us and 
-we shall use reasonable efforts to remove such information. </p>
+<p>The Corning Museum of Glass does not intend to collect information from children under the age of thirteen (13) without the consent of the child's parent or legal guardian. Children under the age of thirteen (13) should only submit information with the prior consent of their parent or legal guardian. If your child has submitted personal information to The Corning Museum of Glass and you would like to request that such information be removed please contact us and we shall use reasonable efforts to remove such information. </p>
 <h3>Disclosure of Information</h3>
-<p>The Corning Museum of Glass will not sell or rent the personal information 
-you provide to us online. We may compile aggregate statistics about our 
-visitors, sales, traffic and related site information, but these statistics will 
-not include any personally identifying information.</p>
-<p>The Museum may release account information when such a release is reasonably 
-necessary to comply with the law; enforce the terms of any of our user 
-agreements; or protect the rights, property, and safety of The Corning Museum of 
-Glass, the users of its site, or others.</p>
-<p>We may notify you by e-mail about events or activities at or related to the 
-Museum that we believe may be of interest to you, or to alert you about sales or 
-other promotional events. If you do not want us to use your e-mail address to 
-contact you for these purposes, you can modify your content preference by 
-selecting the “Update My Profile” link in the email, or you may unsubscribe from 
-receiving any e-mail from the Museum by selecting the “Unsubscribe” link.</p>
+<p>The Corning Museum of Glass will not sell or rent the personal information you provide to us online. We may compile aggregate statistics about our visitors, sales, traffic and related site information, but these statistics will not include any personally identifying information.</p>
+<p>The Museum may release account information when such a release is reasonably necessary to comply with the law; enforce the terms of any of our user agreements; or protect the rights, property, and safety of The Corning Museum of Glass, the users of its site, or others.</p>
+<p>We may notify you by e-mail about events or activities at or related to the Museum that we believe may be of interest to you, or to alert you about sales or other promotional events. If you do not want us to use your e-mail address to contact you for these purposes, you can modify your content preference by selecting the “Update My Profile” link in the email, or you may unsubscribe from receiving any e-mail from the Museum by selecting the “Unsubscribe” link.</p>
 <h3>Security</h3>
-<p>The Corning Museum of Glass uses industry-standard Secure Socket Layer (SSL) 
-encryption technology to secure its sites (Verisign for the main website and 
-ticketing system and Thawte for the GlassMarket site). SSL encodes your personal 
-information, including credit card number, name, and address, as it travels over 
-the Internet. If you prefer, you may also purchase tickets onsite or purchase 
-GlassMarket items over the phone at (800) 723-9156.</p>
+<p>The Corning Museum of Glass uses industry-standard Secure Socket Layer (SSL) encryption technology to secure its sites (Verisign for the main website and ticketing system and Thawte for the GlassMarket site). SSL encodes your personal information, including credit card number, name, and address, as it travels over the Internet. If you prefer, you may also purchase tickets onsite or purchase GlassMarket items over the phone at (800) 723-9156.</p>
 <h3>Revisions to our Privacy Policy</h3>
-<p>The Corning Museum of Glass may revise its privacy policy at any time. Such 
-revisions may arise in response to changes in the law, policy, or other factors. 
-We encourage you to periodically visit this page to review our most current 
-policy.</p>
-<p>See <strong><a href="http://www.cmog.org/index.asp?pageId=729">Terms of 
-Use</a></strong> for more information.</p>
-<p>&nbsp;</p></td></tr></tbody></table>	
-				</div>
-			</td>
-		</tr>
-       <tr valign="top">
-			<td colspan="2" id="footerPane" align="center">
- <table style=""><tbody><tr>
-	<td width="270" id="footerMenu"><table border="0" cellpadding="0" cellspacing="0" xmlns:helper="urn:helper"><tbody><tr class="menuContainer">
-<td><a class="footerMenuItem" id="mi0" href="index.asp?pageId=1572&amp;mnu=9&amp;mid=mi0" target="">Site Map</a></td>
-<td><a class="footerMenuItem" href="javascript:void(0);" style="cursor:default;">&nbsp;&nbsp;|&nbsp;&nbsp;</a></td>
-<td><a class="footerMenuItem" id="mi2" href="index.asp?pageId=1075&amp;mnu=9&amp;mid=mi2" target="">Privacy Policy</a></td>
-<td><a class="footerMenuItem" href="javascript:void(0);" style="cursor:default;">&nbsp;&nbsp;|&nbsp;&nbsp;</a></td>
-<td><a class="footerMenuItem" id="mi4" href="index.asp?pageId=729&amp;mnu=9&amp;mid=mi4" target="">Terms of Use</a></td>
-</tr></tbody></table>
-</td>
-	<td width="500" align="right" id="copyright">
-		Copyright �2002-2008 Corning Museum of Glass. All rights reserved.&nbsp;
-		<a href="#top" style="text-decoration:none;">&nbsp;Top^</a>&nbsp;&nbsp;
-	</td>
-</tr></tbody></table></td>
-		</tr>
-	</tbody></table>
-  
+<p>The Corning Museum of Glass may revise its privacy policy at any time. Such revisions may arise in response to changes in the law, policy, or other factors. We encourage you to periodically visit this page to review our most current policy.</p>
+<p>See <strong>
+		<a href="/dynamic.aspx?id=306">Terms of Use </a>
+	</strong>for more information.</p>
+	</div>
+
+    </div>
+
+            
+    <div id="leftPaneContent">
+        
+        
+
+<!-- Main Menu user control -->
+<ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 1);" class="notactive"><a href="&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;#&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;" target="_self">Plan Your Visit</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_w_sub"><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=104" target="_self">General Information</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=104" target="_self">Hours &amp; Admission</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=102" target="_self">Directions</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=114" target="_self">Museum Maps</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=108" target="_self">Parking</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=110" target="_self">Food &amp; Beverage</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=112" target="_self">Frequently Asked Questions (FAQ)</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="http://reservations.cmog.org/" target="_self">Buy Tickets</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/calendar.aspx" target="_self">Calendar</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=2486" target="_self">Explore the Region</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=282" target="_self">Audio Tours</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=106" target="_self">Especially for Families</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_w_sub"><a href="/dynamic.aspx?id=122" target="_self">Group Tours</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=122" target="_self">Overview</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=124" target="_self">A Typical Tour</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=126" target="_self">Tour Enhancements</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=128" target="_self">Contacts &amp; Reservations</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=130" target="_self">Dining Options</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=132" target="_self">Corporate Group Tours</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/uploadedFiles/Plan_Your_Visit/Group_Tours/Group_Tour_Profile_Sheet_2007.pdf" target="_blank">Profile Sheet (1MB)</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=120" target="_self">Scout Programs</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_w_sub"><a href="&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;#&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;" target="_self">Summer Youth Activities</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=134" target="_self">Summer Youth Tours</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=136" target="_self">Little Gather</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=138" target="_self">Vitreous Adventures</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=140" target="_self">You Design It; We Make It</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=1700" target="_self">Facility Rental</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 1);" class="notactive"><a href="/dynamic.aspx?id=142" target="_self">Watch Glassmaking</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_w_sub"><a href="/dynamic.aspx?id=142" target="_self">Hot Glass Show</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=144" target="_self">At the Museum</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=146" target="_self">On the Road</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=148" target="_self">At Sea</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=140" target="_self">You Design It; We Make It</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=150" target="_self">Magic of Glass and Demos</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/GlassLab.aspx?id=7684" target="_self">GlassLab</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 1);" class="notactive"><a href="&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;#&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;" target="_self">Make Your Own Glass</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=152" target="_self">Individual Experiences</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=154" target="_self">Groups of 10 or more</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=156" target="_self">Take Classes</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 1);" class="notactive"><a href="&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;#&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;" target="_self">Glass Collection</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="http://collection.cmog.org/main.php?module=objects" target="_self">Browse the Collection</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_w_sub"><a href="/dynamic.aspx?id=5996" target="_self">Galleries</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=192" target="_self">Glass Collection Galleries</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=194" target="_self">Contemporary Glass Gallery</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=196" target="_self">Carder Gallery</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=198" target="_self">Glass Innovation Center</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=200" target="_self">Rakow Commissions</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_w_sub"><a href="/dynamic.aspx?id=204" target="_self">Recent Acquisitions</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=8958" target="_self">2008</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=204" target="_self">2007</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=206" target="_self">2006</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=208" target="_self">2005</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=210" target="_self">2004</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_w_sub"><a href="&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;#&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;" target="_self">Curator's Choice</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=212" target="_self">2005 Archive</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=214" target="_self">2004 Archive</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=216" target="_self">2003 Archive</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=218" target="_self">2002 Archive</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=202" target="_self">On the Road</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 1);" class="sel_active_w_sub"><a href="&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;#&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;" target="_self">Exhibitions</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_w_sub"><a href="/dynamic.aspx?id=1432" target="_self">Current Exhibitions</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=224" target="_self">Masters of Studio Glass: Frantisek Vizner</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=9098" target="_self">Glittering Traditions: Glass Holiday Ornaments from the Study Collection</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=3824" target="_self">Glass of the Alchemists Lead Crystal–Gold Ruby, 1650–1750</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=9020" target="_self">Science of Glassmaking</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_w_sub"><a href="/dynamic.aspx?id=1434" target="_self">Upcoming Exhibitions</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=8540" target="_self">Masters of Studio Glass: Richard Meitner</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=8964" target="_self">Voices of Contemporary Glass: The Heineman Collection</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=220" target="_self">Past Exhibitions</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 1);" class="notactive"><a href="&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;#&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;" target="_self">Glass Resources</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_w_sub"><a href="&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;#&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;" target="_self">Glassworking Videos</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=260" target="_self">Glassworking Video Clips</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=188" target="_self">Studio Video Series</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_w_sub"><a href="/dynamic.aspx?id=268" target="_self">Corning Museum Publications</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=270" target="_self">New Publications</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=272" target="_self">New Glass Review</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=274" target="_self">Journal of Glass Studies</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=276" target="_self">Publications Archive</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_w_sub"><a href="&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;#&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;" target="_self">Podcasts &amp; Audio Guide</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=278" target="_self">Meet the Artist</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=280" target="_self">Glass Collection and Exhibitions</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=282" target="_self">Audio Guide</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=262" target="_self">Glass Dictionary</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=264" target="_self">Resource on Glass</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="http://www.cmog.org/glasschemistry/" target="_self">Glass Chemistry Game</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="http://www.cmog.org/telescopes/" target="_self">Telescopes</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="http://www.cmog.org/Czech/CzechGlass.html" target="_self">Czech Glass Design</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="http://exhibitdb.cmog.org/index.asp?pageId=1225" target="_self">Glass Exhibition Database</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_w_sub"><a href="&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;#&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;" target="_self">Articles</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=5992" target="_self">Glass Lighting Featured</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=286" target="_self">Morgan Cup</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=288" target="_self">The Glass Giant</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=5994" target="_self">A Brief History of Islamic Glassmaking</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=290" target="_self">Daphne Ewer</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=292" target="_self">Medieval Glassmaking in the Levant</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=294" target="_self">Does Glass Flow?</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_w_sub"><a href="&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;#&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;" target="_self">Seminars/Lectures</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=164" target="_self">Seminar on Glass</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=298" target="_self">Lectures</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=284" target="_self">Glass Schools</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=8546" target="_self">Stories from the Crystal City</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 1);" class="notactive"><a href="&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;#&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;" target="_self">Programs + Events</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=158" target="_self">2300°</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=166" target="_self">Holiday Open House</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=162" target="_self">Families Explore</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=160" target="_self">Meet the Artist</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/GlassLab.aspx?id=7684" target="_self">GlassLab</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=164" target="_self">Seminar on Glass</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 1);" class="notactive"><a href="&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;#&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;" target="_self">Get Involved</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_w_sub"><a href="/dynamic.aspx?id=226" target="_self">Membership</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=226" target="_self">Membership Information</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=228" target="_self">Contributing Memberships</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=230" target="_self">Individual Educator Membership</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=2" target="_self">Purchase Membership</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=232" target="_self">Corporate Membership</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=234" target="_self">Ennion Society</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=236" target="_self">Volunteer Opportunities</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_w_sub"><a href="/dynamic.aspx?id=238" target="_self">Junior Curators</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=238" target="_self">Junior Curators Program</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=240" target="_self">Junior Curators Application</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=242" target="_self">Explainers</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=244" target="_self">Residencies, Grants, Competitions and Scholarships</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_w_sub"><a href="/dynamic.aspx?id=248" target="_self">Employment</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=248" target="_self">About Employment</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=246" target="_self">Full Time Positions</a></li></ul></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 1);" class="notactive"><a href="&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;#&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;" target="_self">For Educators</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_w_sub"><a href="/dynamic.aspx?id=252" target="_self">School Tours</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=252" target="_self">Overview</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=254" target="_self">Tour Options</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=256" target="_self">Lunch Options</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="http://www.cmog.org/Forms2/form_school_vii.aspx" target="_self">School Tour Pre-Registration</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=258" target="_self">Pre-Visit Resources</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/usr/media/cmog_campus_map_school_version.pdf" target="_blank">Campus Map (PDF)</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_w_sub"><a href="&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;#&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;" target="_self">Online Resources</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=260" target="_self">Glassworking Videos</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=262" target="_self">Glass Dictionary</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=264" target="_self">Resource on Glass</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="http://www.cmog.org/glasschemistry/" target="_self">Glass Chemistry Game</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_w_sub"><a href="/dynamic.aspx?id=5934" target="_self">Student Involvement</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=242" target="_self">Explainers</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 3);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=238" target="_self">Junior Curators</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=154" target="_self">Hands-on Glassmaking</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=266" target="_self">Professional Development</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 1);" class="notactive"><a href="/#" target="_self">---------------</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 1);" class="notactive"><a href="&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;#&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;" target="_self">The Studio</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=174" target="_self">About the Studio</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=156" target="_self">Studio Courses</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=176" target="_self">Scholarships</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/usr/media/studio_course_application_fw2009.pdf" target="_blank">Fall/Winter Application</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=182" target="_self">Renting at The Studio</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=184" target="_self">Photography Room</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=186" target="_self">Residencies</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=188" target="_self">Video Series</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=190" target="_self">Artists / Instructors</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 1);" class="notactive"><a href="&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;#&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;" target="_self">Rakow Research Library</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=1894" target="_self">Ask a Librarian</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=168" target="_self">About the Rakow Library</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=170" target="_self">Library Catalogs Intro</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="http://rakow.cmog.org" target="_self">Library Catalogs</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="http://exhibitdb.cmog.org/index.asp?pageId=1225" target="_self">Worldwide Glass Exhibitions Database</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=5908" target="_self">Additional Resources</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=172" target="_self">Interlibrary Loan</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=8546" target="_self">Stories from the Crystal City</a></li></ul></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 1);" class="notactive"><a href="&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;#&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;" target="_self">GlassMarket</a><ul><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="http://glassmarket.cmog.org/browse.cfm" target="_self">Shop Online</a></li><li onmouseover="javascript:showMenu(this);" onmouseout="javascript:hideMenu(this, 2);" class="notactive_wo_sub"><a href="/dynamic.aspx?id=302" target="_self">About the GlassMarket</a></li></ul></li></ul>
+    </div>
+
+            <div id="footerPane">
+                
+                
+
+<div id="footer_menu">
+    <ul><li class="noborder"><a href="/dynamic.aspx?id=7650" target="_self" class="">Site Map</a></li><li><a href="/dynamic.aspx?id=304" target="_self">Privacy Policy</a></li><li><a href="/dynamic.aspx?id=306" target="_self">Terms of Use</a></li></ul>
+</div>
+                
+                
+
+<!-- ECD: Copyright user control -->
+<div id="copyright">
+    Copyright ©2002-2008 Corning Museum of Glass. All rights reserved.
+    <!-- ECD: Top of page anchor link, anchor is on masterpage -->
+    <a href="#TopOfPage" style="text-decoration: none;">&nbsp;Top^</a>&nbsp;&nbsp;
+</div>
+
+            </div>
+        </div>
+    
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKfwLfeDwKJ08HSCgLZn7aJClUlEC1ljoCmt2v18bM/A57pRAsg"></form>
 
 
 </body></html>
