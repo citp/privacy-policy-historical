@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the adrenalin.com.au privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610043716id_/http%3A//www.adrenalin.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adrenalin.com.au privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219225821id_/http%3A//www.adrenalin.com.au/privacy) for the most accurate reproduction.*
 
-# privacy - Adrenalin
+# Privacy - Adrenalin
 
 **Copyright**
 
-Copyright in the Material on this Web Site is owned or licensed by Adrenalin Pty Ltd.
+Copyright in the Material on this Web Site is owned or licensed by TRACKCORP ADRENALIN PTY LTD.
 
-Except where necessary for viewing the Material on this web site on your browser, or as permitted under the Copyright Act 1968 or other applicable laws, no Material on this web site may be reproduced, adapted, uploaded to a third party, linked to, framed, performed in public, distributed or transmitted in any form by any process without the specific written consent of Adrenalin Pty Ltd.
+Except where necessary for viewing the Material on this web site on your browser, or as permitted under the Copyright Act 1968 or other applicable laws, no Material on this web site may be reproduced, adapted, uploaded to a third party, linked to, framed, performed in public, distributed or transmitted in any form by any process without the specific written consent of TRACKCORP ADRENALIN PTY LTD.
 
-'Adrenalin', 'LIVE Adrenalin', 'A.365', 'Serious Fun', ‘Corporate Adrenalin’ and ‘a.gear’ all associated trademarks, are trademarks of Adrenalin Pty Ltd.  ACN 25 091 787 549.
+'Adrenalin', 'LIVE Adrenalin', 'A.365', 'Serious Fun', ‘Corporate Adrenalin’ and ‘a.gear’ all associated trademarks, are trademarks of TRACKCORP ADRENALIN PTY LTD.  ACN 117 402 838.
 
 **Privacy**
 
