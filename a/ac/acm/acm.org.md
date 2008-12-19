@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acm.org privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619081628id_/http%3A//www.acm.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acm.org privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219162226id_/http%3A//www.acm.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Association for Computing Machinery
 
@@ -18,7 +18,7 @@ Just like any other record keeper, ACM may be required to disclose personal info
 
 Personal data about ACM members and customers may, from time to time, be collected or shared with outside contractors, auditors, consultants, and others hired by ACM to assist in carrying out financial or operational activities. ACM informs recipients about safeguarding personal information, and requires them to use it only for an authorized purpose consistent with this privacy policy, and to return it or destroy it upon completion of the activity.
 
-ACM members may access the information contained in their membership records and correct and update their member profile and mailing information by going to the following web page. - [URL] In order to update your postal tolerance you will need to contact ACM's Member Services Department by phone: +1-212-626-0500, 1-800-342-6626, fax: +1-212-944-1318, or email: [acmhelp@acm.org](mailto:acmhelp@acm.org).
+ACM members may access the information contained in their membership records and correct and update their member profile and mailing information by logging into [myACM](http://www.myacm.org/dashboard.cfm) and clicking on the "My Contact Information" link at left. For futher assistance please contact ACM's Member Services Department by phone: +1-212-626-0500, 1-800-342-6626, fax: +1-212-944-1318, or email: [acmhelp@acm.org](mailto:acmhelp@acm.org).
 
        **Email Policies**
 
