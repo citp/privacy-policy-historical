@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the raisingchildren.net.au privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611225046id_/http%3A//raisingchildren.net.au/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raisingchildren.net.au privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219035600id_/http%3A//raisingchildren.net.au/privacy/privacy.html) for the most accurate reproduction.*
 
 # Raising Children Network | Privacy Statement
 
 The Raising Children Network (RCN) website provides information and services designed for parents, carers and professionals involved in rearing children.
 
-This privacy statement applies to the raisingchildren.net.au website only (also accessed via [www.raisingchildren.net.au](http://www.raisingchildren.net.au/), [www.raisingchildren.info](http://www.raisingchildren.info/) and [www.raisingchildren.tv](http://www.raisingchildren.tv/)).
+This privacy statement applies to the raisingchildren.net.au website only (also accessed via [www.raisingchildren.net.au](http://www.raisingchildren.net.au/) and [www.raisingchildren.tv](http://www.raisingchildren.tv/)).
 
 Your personal information is protected under the Privacy Act 1988. RCN collects personal and sensitive information if you choose to provide it, such as your email address. Your personal information will not be used other than for the purpose that you provide it without your consent.
 
