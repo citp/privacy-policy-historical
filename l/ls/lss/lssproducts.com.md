@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lssproducts.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616081535id_/http%3A//www.lssproducts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lssproducts.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219192353id_/http%3A//www.lssproducts.com/privacy) for the most accurate reproduction.*
 
 # Low Vision Aids | Hard of Hearing | Magnifiers | Assistive Technology - LS&S Products
 
@@ -34,6 +34,6 @@ LS&S, LLC
 1808 Janke Dr. Ste G  
 Northbrook IL 60062  
 (800) 468-4789  
-(847) 498-9777
+(716) 348-3500
 
 Effective May 21, 2007
