@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the archpaper.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611174828id_/http%3A//www.archpaper.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archpaper.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219052104id_/http%3A//www.archpaper.com/privacy.asp) for the most accurate reproduction.*
 
-# The Architect's Newspaper
+# The Architect's Newspaper - Privacy Policy
 
 _The Architect's Newspaper_ , LLC understands that confidential business information must remain confidential. We are absolutely committed to keeping your private information private. This Privacy Statement discloses the information gathering and dissemination practices we use on the archpaper.com website.
 
