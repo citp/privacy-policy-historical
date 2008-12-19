@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreclosureradar.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516071502id_/http%3A//www.foreclosureradar.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreclosureradar.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219145324id_/http%3A//www.foreclosureradar.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ForeclosureRadar.com
 
@@ -10,7 +10,7 @@ ForeclosureRadar understands that privacy is important. This Privacy Policy appl
 
 **Subscribers** \- When you subscribe to our service we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, address and phone) and financial information (such as credit card number and expiration date). We use this information for billing purposes and to contact you if necessary. You also may have the option to provide us with demographic information (such as your occupation or interest in foreclosures). We use this information to enhance our services and provide a more personalized experience.
 
-**Services** \- Our services allow you to store search criteria, search history, photos, notes, financial analysis, and other information for your convenience and use of the site. We use this information solely to provide you the requested services. Note that you may choose to share this information with other users by adding other users to a group you create, or by joining a group created by another user. Whether or not you enter information into a group shared with other users is solely your decision.
+**Services** \- Our services allow you to store search criteria, search history, photos, notes, financial analysis, and other information for your convenience and use of the site. We use this information solely to provide you the requested services. Note that you may choose to share this information with others, although it must be in accordance to the user agreement.
 
 **Email Alerts, News or Reports** \- When you sign up for Email Alerts, News or Reports we request your email address and demographic information (such as your occupation or interest in foreclosures). We use this information to provide the requested alerts and to enhance our services and provide a more personalized experience.
 
@@ -30,7 +30,7 @@ ForeclosureRadar understands that privacy is important. This Privacy Policy appl
 
 **Special Offers & Updates** \- We will occasionally send you information on our products and services in an effort to promote our site. If you have requested Email Alerts, News or Reports and do not want to receive offers or updates that may be included with them, you may unsubscribe using the link provided with each email.
 
-**Service-Related Announcements** \- We will send subscribers service related announcements when necessary to inform of you service upgrades, outages, or other events that may impact your ability to use the service.
+**Service-Related Announcements** \- We will send subscribers service related announcements when necessary to inform you of service upgrades, outages, or other events that may impact your ability to use the service.
 
 **Customer Service** \- Based on the personally identifiable information you provide us, we will send you a welcoming email upon registration and a series of of tips and suggestions on using the service. We will also communicate with you in response to your inquiries, to provide services you request, and to manage your account. We will communicate with you by email or telephone as needed.
 
@@ -52,7 +52,7 @@ ForeclosureRadar processes personal information for the purposes described below
 
 
 
-ForeclosureRadar specifically uses third party services to maintain billing and account information, and to host this site and the related services. These third party services are prohibited from using your personally identifiable for any other purpose.
+ForeclosureRadar specifically uses third party services to maintain billing and account information, and to host this site and the related services. These third party services are prohibited from using your personally identifiable information for any other purpose.
 
 **Choices for personal information** \- When you sign up for a particular service that requires registration, we ask you to provide personal information. If we propose to use personal information for any purposes other than those described in this Privacy Policy and/or in the specific service notices, we will offer you a choice to opt out of the use of personal information for those other purposes. You may also decline to submit personal information to any of our services, in which case ForeclosureRadar may not be able to provide those services to you.
 
@@ -62,7 +62,7 @@ This Privacy Policy applies to any web sites and services that are owned and ope
 
 ## Information Security
 
-The security of your information is important to us. When you enter sensitive information (such as a credit card number) we encrypt that information using secure socket layer technology (SSL). We follow commercially accepted industry standards to protect the personal information submitted to us. Nonetheless, no method of transmission over the internet, or electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you any questions about security on our website please email us at info@foreclosureradar.com.
+The security of your information is important to us. When you enter sensitive information (such as a credit card number) we encrypt that information using secure socket layer technology (SSL). We follow commercially accepted industry standards to protect the personal information submitted to us. Nonetheless, no method of transmission over the internet, or electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website please email us at info@foreclosureradar.com.
 
 ## Accessing and Updating Personal Information
 
