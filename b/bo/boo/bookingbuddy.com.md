@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookingbuddy.com privacy policy that was archived on 2007-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070819035148id_/http%3A//www.bookingbuddy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookingbuddy.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219013520id_/http%3A//www.bookingbuddy.com/privacy.php) for the most accurate reproduction.*
 
-# 
+# BookingBuddy privacy policy
 
 _This Privacy Policy was last changed February 15, 2007._
 
