@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitepoint.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514100040id_/http%3A//www.sitepoint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitepoint.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219144323id_/http%3A//www.sitepoint.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -69,6 +69,14 @@ The information collected during the registration process for the SitePoint Comm
 Information collected in this process can also be used to prevent banned users from re-registering under a different username. The email address will only be seen by moderators and administrators if the "Keep your email address viewable to other users when you post notes?" option is set to **no**. Cookies may be sent to your browser to enable automatic log-ins upon further visits, as well as for content customization. 
 
 If you purchase products directly from SitePoint, your contact information and a transaction history will be kept by SitePoint. We may use the contact information to inform you about the status of your order, as well as to let you know about upcoming SitePoint Products. 
+
+Any postings in our Forums, Blogs, Articles, Community or Marketplace, should be considered public knowledge and will be accessible by search engine spiders. This includes any information you provode in the "profile" associated with any accounts you have at SitePoint. SitePoint will not retroactively edit your username, profile or posted messages.
+
+If you participate in the Marketplace, your contact information may be shared with the counter-party to any transactions you are entering into.
+
+Any messages sent through SitePoint's servers, including person-to-person communcations, are unencrypted and may be accessed by SitePoint Employees or Contractors.
+
+SitePoint complies with all law enforcement agency requests for information
 
 If you request sample chapters of one of SitePoint’s information products/books, your email address will be used for follow-up purposes. You may unsubscribe from these mailings at any time by clicking on the unsubscribe link.
 
