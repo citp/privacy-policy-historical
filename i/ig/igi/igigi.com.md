@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the igigi.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514214927id_/http%3A//www.igigi.com/sidepages/custserv/privacy/index.cfm/pagetitle/Security-And-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igigi.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219030250id_/http%3A//www.igigi.com/sidepages/custserv/privacy/index.cfm/pagetitle/Security-And-Privacy) for the most accurate reproduction.*
 
-# Sexy Plus Size Clothing by Igigi: Security-And-Privacy
+# Sexy Plus Size Clothing, Dresses and Work Wear by IGIGI: Security And Privacy
 
 |  |  |   
 ---|---|---  
-|  |  | 
+|  |  |   | 
+
+Security And Privacy
 
 Browser Support
 
@@ -74,5 +76,8 @@ _(last updated March 2006)_
   
 |  |   
 |  |   
+---  
+What Is IGIGI? (ee zhee zhee)  
+IGIGI specializes in sexy and sophisticated [plus size clothing](http://www.igigi.com/), with an emphasis on [plus size formal wear](http://www.igigi.com/plus-size-clothing/Plus-Size-Formal-Gowns/) and [plus size dresses](http://www.igigi.com/plus-size-clothing/Plus-Size-All-Dresses/). We believe that words like "ample," "opulent," "curvaceous," and "voluptuous" should be mainstays in the fashion dictionary. It is important to accentuate and celebrate the beauty and sensuality of the female figure rather than cover it up with piles of fabric.  |   
   
-Please wait... 
+
