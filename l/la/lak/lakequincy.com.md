@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lakequincy.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617142515id_/http%3A//lakequincy.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakequincy.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219191549id_/http%3A//lakequincy.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy :: Lake Quincy Media
 
