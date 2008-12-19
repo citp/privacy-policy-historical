@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmaster-tips.net privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509065757id_/http%3A//www.webmaster-tips.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmaster-tips.net privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219190100id_/http%3A//www.webmaster-tips.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Joomla CMS - Download Joomla Components, Modules, Templates - Privacy Policy
 
@@ -15,12 +15,12 @@ Our registration process requires only a valid e-mail address and a unique user 
 We may use Data to customize and improve your user experience on this site. We will make efforts so that your Data will not be provided to third parties unless (i) provided for otherwise in this Privacy Policy; (ii) we obtain your consent, such as when you choose to opt-in or opt-out to the sharing of Data; (iii) a service provided on our site requires the interaction with or is provided by a third party, by way of example an Application Service Provider; (iv) pursuant to legal process or law enforcement; (v) we find that your use of this site violates our this Policy, Terms of Service, other usage guidelines or as deemed reasonably necessary by us to protect our legal rights and/or property; (vi) or (vi) this site is purchased by a third party whereby that third party will be able to use the Data in the same manner as we can as set forth in this Policy. In the event you choose to use links that appear on our site to visit other web sites, you are advised to read the privacy policies that appear on those sites.
 
 3\. Cookies.  
+A cookie is a piece of data stored on the users computer tied to information about the user. Our site does not use cookies. However, some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.  
 Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings. Advertisements may appear on our web site and, if so, may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisement. However, the companies serving the advertising do not have access to our cookies. These companies usually use non-personally identifiable or anonymous codes to obtain information about your visits to our site.
 
 4\. Advertisers
 
-  
-We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by the ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense, etc. Please check their websites for respective privacy policies. 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html) .
 
 5\. Children.  
 We do not allow persons who are ages thirteen or younger to become members of this site. For more information, please contact our webmaster.
