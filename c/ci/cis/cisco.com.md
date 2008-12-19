@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the cisco.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511205734id_/http%3A//www.cisco.com/web/siteassets/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cisco.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219084050id_/http%3A//www.cisco.com/web/siteassets/legal/privacy.html) for the most accurate reproduction.*
 
 # Cisco Systems, Inc. Online Privacy Statement - Cisco Systems
 
-  * Information Collection
-  * Notice
-  * Cookies and Other Tracking Technologies
-  * How We Use Information Collected
-  * Information Sharing and Disclosure
+  * The Information We Collect
+  * Your Choice and Control
+  * How We Use Cookies and Other Tracking Technologies
+  * How We Use Your Personal Information
   * Your Ability to Access, Update or Deactivate Your Information
-  * Data Security
+  * How We Protect Your Information
   * Children and Privacy
   * Third Party Sites
   * Changes to this Privacy Statement
@@ -19,79 +18,136 @@
 
 * * *
 
-Cisco respects your privacy and is committed to protecting the personal information you share with us. This statement describes how Cisco Systems collects and uses your personal information to provide services that you request or when you choose to provide us with your personal information.
+Cisco respects your privacy and is committed to protecting the personal information you provide to us. We would like to share with you the following principles that govern our privacy practices.
 
-### Information Collection
+Because Cisco is a global company, your personal information may be shared with other [Cisco offices](https://web.archive.org/web/siteassets/contacts/offices/index.html) or subsidiaries around the world (collectively “Cisco”). All such entities are bound by appropriate confidentiality and data transfer agreements. In addition, all such entities are governed by this Privacy Statement, except when you are dealing directly with Linksys, Ironport or WebEx, which are Cisco companies. In those cases, [Linksys’](http://www.linksys.com/servlet/Satellite?c=L_Content_C1&childpagename=US%2FLayout&cid=1116519876585&pagename=Linksys%2FCommon%2FVisitorWrapper&lid=7658527773F02), [Ironport’s](http://www.ironport.com/privacy/) or [WebEx’s](http://webex.com/companyinfo/webex_privacy.html) respective privacy statements will apply. This statement may be superseded by specific program-level documentation or agreements between you and Cisco.
 
-Personal information means any information that may be used to identify an individual, including, but not limited to, a first and last name, email address, a home, postal or other physical address, other contact information, title, occupation, industry, personal interests, and other information when needed to provide a service or product or carry out a transaction you have requested.
+  
 
-When you browse our website, you do so anonymously, unless you have previously registered with us. We do not automatically collect personal information, including your email address. We do log your IP address (the Internet address of your computer) to give us an idea of which part of our website you visit and how long you spend there. But we do not link your IP address to any personal information unless you have registered with us. Like many other commercial websites, the Cisco website may use a standard technologies, such as ?cookies? and other HTML tools, to collect information about how you use the site or to record that you opened an email marketing message. Please go to "Cookies and Other Tracking Technologies" below for more information.
 
-Cisco collects personal information when you register with Cisco for a Cisco account, when you use certain Cisco products or services, when you register to attend a seminar or participate in an online survey, when you ask to be included in an email or other mailing list, or when you submit an entry for a sweepstakes or other promotions, or when you submit your personal information to Cisco for any other reason. From time to time, Cisco receives personal information from business partners and vendors. Cisco only uses such information if it has been collected in accordance with acceptable privacy practices consistent with this Privacy Statement and applicable laws.
+### The Information We Collect
 
-Access to certain Cisco web pages requires a login and a password. The use of those web pages, and the information or programs downloadable from those sites, may be governed by a written agreement between your employer and Cisco. Unless you request deactivation of your personal information as specified below, your personal information may be retained by Cisco to verify compliance with the agreement, log software licenses granted, track software downloaded from those pages, or track usage of other applications available on those pages.
+Throughout this policy, we refer to information that personally identifies you as “Personal Information” or “Sensitive Personal Information.” Cisco collects your Personal Information or Sensitive Personal Information so that we can respond to your requests, which may include, for example, processing your orders, adding you to email lists, or registering you for events.
 
-### Notice
+[Read more about Personal Information]
 
-When personal information is collected, we will inform you at the point of collection the purpose for the collection. Cisco will not transfer your personal information to third parties without your consent, except under the limited conditions described under the discussion entitled "Information Sharing and Disclosure" below.
+Personal Information is any information that can identify you as an individual, such as your name, postal or email address, phone number, occupation, or personal interests. Sensitive Personal Information is any information that would permit access to your financial account, including account number, credit or debit card number, in combination with any required security code, access code or password.
 
-In most cases we will provide you with the opportunity to "opt in" prior to receiving direct marketing or market research information. This means we will require your affirmative action to indicate your consent before we use your information for purposes other than the purpose for which it was submitted. At a minimum, we will always give you the opportunity to "opt out" of receiving such materials. This means we assume you have given us your consent to collect and use your information in accordance with this Privacy Statement unless you take affirmative action to indicate that you do not consent, for instance by clicking or checking the appropriate option or box at the point of collection.
+If you give us Personal Information about somebody else, such as a spouse or work colleague, you must have that person’s permission to do so.
 
-### Cookies and Other Tracking Technologies
+In many instances, you may browse the Cisco website anonymously. When you arrive at the Cisco website, we record your IP address (the Internet address of your computer) to give us an idea of which parts of the website you visit and how long you spend there. We do not link your IP address to any Personal Information unless you have registered with us and logged in using your profile.
 
-A cookie is a small data file that certain websites write to your computer?s hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited, but the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. Some parts of Cisco's website use cookies to track user traffic patterns. We do this in order to determine the usefulness of our website information to our users and to see how effective our navigational structure is in helping users reach that information.
+Access to certain Cisco web pages, services, products and activities requires a login and a password. It is your responsibility to maintain the confidentiality of your login and password information.
 
-Some Cisco websites and HTML-formatted e-mail newsletters may use web beacons in conjunction with cookies to understand user behavior. A web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page view, and a description of the page where the web beacon is placed. Some Web beacons may be unusable if you elect to reject their associated cookies. Cisco may also use customized links or other similar technologies to track email links that you click. We may associate that information with your personal information in order to provide you more focused e-mail communications or purchase information. Each e-mail communication includes an unsubscribe link allowing you to stop delivery of that type of communication.
+[Read more about the situations in which we collect Personal Information]
 
-If you prefer not to receive cookies while browsing our website or via HTML-formatted emails, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, although you may not be able to take full advantage of Cisco's website if you do so. In particular, you may be required to accept cookies in order to complete certain actions on our website. You do not need to have cookies turned on, however, to use/navigate through many parts of our website, except access to certain of Cisco's web pages may require a login and password.
+You may choose to give us Personal Information in a variety of situations, including when you: 
 
-For additional information about cookies and other tracking technologies, including instructions for blocking their use, see <http://privacy.getnetwise.org/browsing/tools/>.
-
-### How We Use Information Collected
-
-Cisco uses information for several general purposes: to fulfill your requests for certain products and services, to personalize your experience on our website, to keep you up to date on the latest product announcements, software updates, special offers or other information we think you would like to hear about either from us or from our business partners, and to better understand your needs and provide you with better services. We may also use your information to send you, or to have our business partners send you, direct marketing information or contact you for market research.
-
-### Information Sharing and Disclosure
-
-Because Cisco is a global company, your personal information may be shared with other Cisco offices or subsidiaries around the world. All such entities are governed by this Privacy Statement or are bound by appropriate confidentiality and data transfer agreements.
-
-Your personal information is never shared outside Cisco without your permission, except under conditions explained below. Inside Cisco, data is stored in controlled servers with limited access. Your information may be stored and processed in the United States or any other country where Cisco, its subsidiaries, affiliates or agents are located. 
-
-Cisco may send your personal information to other companies or people under any of the following circumstances:
-
-  * When we have your consent to share the information;
-  * If sharing your information is necessary to provide a product or service you have requested (If your information is shared with third parties we will only provide the information they need to deliver the service. Also, such companies are prohibited from using your information for any other purpose);
-  * As part of a joint sales promotion or to pass sales leads to one of our distribution partners; and
-  * To keep you up to date on the latest product announcements, software updates, special offers or other information we think you would like to hear about either from us or from our business partners (unless you have opted out of these types of communications).
+  * register with Cisco for an account on Cisco websites;
+  * use certain Cisco products or services;
+  * register to attend a seminar;
+  * participate in an online survey;
+  * ask to be included in an email or other mailing list;
+  * submit an entry for a sweepstakes or other promotion; or
+  * when you submit your personal information to Cisco for any other reason
 
 
 
-We will also disclose your personal information if required to do so by law, to enforce our [Terms of Use](https://web.archive.org/web/siteassets/legal/terms_condition.html), or in urgent circumstances, to protect personal safety, the public or our websites.
+From time to time, Cisco receives personal information from our business partners and vendors. Cisco only uses this information if it has been collected in accordance with privacy practices consistent with this Privacy Statement.
+
+### Your Choice and Control
+
+We will always tell you before we collect any Personal Information and inform you of the purpose of the collection. We will ask for your consent before we use or share your information for any purpose other than the reason you provided it. In order to let us know your preferences, we will require an action on your part, such as checking the appropriate option, to indicate your consent.
+
+### How We Use Cookies and Other Tracking Technologies
+
+Like many websites, Cisco uses technologies, such as cookies and web beacons, which allow us to make your visit to our website easier, more efficient and more valuable by providing you with a customized experience and recognizing you when you return.
+
+[Read more]
+
+A cookie is a small data file transferred by a website to your computer’s hard drive. Cisco’s website sends cookies when you visit it, make purchases, request or personalize information, or register yourself for certain services. A cookie cannot read personal data off your hard disk or read cookie files created by other sites; indeed, the only personal information a cookie can contain is information you supply yourself. Accepting the cookies used on our website may give us access to information about your browsing behavior, which we may use to personalize your experience and track user traffic patterns. We do this in order to determine the usefulness of our website information to our users and to see how effective our navigational structure is in helping users reach that information.
+
+Cookies are typically classified as either “session” cookies or “persistent” cookies. 
+
+  * **Session cookies** do not stay on your computer after you close your browser.
+  * **Persistent cookies** remain on your computer until you delete them or they expire.
+
+
+
+You may browse most of Cisco’s website without accepting cookies from Cisco, however, some website functionality may be lost by disabling cookies on your computer. Other Cisco web pages, particularly those which require a login and password, require cookies and cannot be used when you have disabled cookies in your browser.
+
+In addition, Cisco uses web beacons in conjunction with cookies to understand user behavior. A web beacon is an electronic image, found on a website or HTML-formatted email and is called a single-pixel (1x1) or clear GIF. The web beacon is one of the ingredients of the page, just like other images and text except it is so small and clear that it is effectively invisible. Web beacons can recognize certain types of information on a user’s computer, such as cookies, time and date of a page view and a description of the page where the web beacon is placed. They are simply a convenient way of gathering basic statistics and managing cookies, and do not give away any extra information from your computer. Turning off your browser's cookies will prevent web beacons from tracking your specific activity. The web beacon may still record an anonymous visit from your IP address, but unique information will not be recorded.
+
+Cisco may also use customized links or other similar technologies to track email links that you click. We may associate that information with your Personal Information in order to provide you more focused e-mail communications or purchase information. Each e-mail communication includes an unsubscribe link allowing you to stop delivery of that type of communication.
+
+If you prefer not to receive cookies while browsing our website or via HTML-formatted emails, you can set your browser to warn you before it accepts cookies or refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser.
+
+For additional information about cookies and other tracking technologies, including instructions for blocking their use, see <http://privacy.getnetwise.org/browsing/tools>
+
+### How We Use Your Personal Information
+
+Cisco uses your Personal Information to respond to your requests, and to do so, we may need to share your information with others. In that case, we share only the information necessary to handle your request and obligate these other parties to limit their use of your Personal Information to fulfilling your request. In addition, we may use your Personal Information to contact you as part of our customer satisfaction surveys or for market research purposes, with your permission.
+
+[Read more]
+
+We will use your Personal Information to provide products and services you have asked for, to respond to callback requests, and to provide specific marketing materials you have requested. The third parties we may need to share your information with include our business partners (for instance, as part of a joint sales promotion or to pass sales leads to one of our distribution partners); service vendors; shipping companies; and postal and government authorities (such as Customs authorities).
+
+In the event that your employer has a written agreement with Cisco governing access to Cisco information or programs, Cisco may use your Personal Information to verify compliance with the agreement, log software licenses granted, track software downloaded from those pages, or track usage of other applications available on those pages.
+
+We may also use your Personal Information to create anonymous data records or aggregations of data, to perform statistical analyses and for other purposes, by omitting or removing information (such as your name) that makes the data personally identifiable to you. We will also disclose your Personal Information if required to do so by law, to enforce our Terms of Use, or in urgent circumstances, to protect personal safety, the public or our websites.
+
+Any Sensitive Personal Information that you provide will only be used to implement the specific activity or event it was submitted for and will then be destroyed.
 
 ### Your Ability to Access, Update or Deactivate Your Information
 
-If you are a registered user, you can review your personal information and make change requests by accessing <http://tools.cisco.com/RPF/profile/profile_management.do>. You may also request deactivation of your Cisco account or any of your personal information held by us by sending an email to [privacy@cisco.com](mailto:privacy@cisco.com). If you choose to deactivate your account, we will retain in our files some personal information you have requested to remove to prevent fraud, resolve disputes, troubleshoot problems, enforce our [Terms of Use](https://web.archive.org/web/siteassets/legal/terms_condition.html), respect your opt-out preferences, and comply with legal requirements as permitted by law.
+Registered users may review and revise their Personal Information at http://tools.cisco.com/RPF/profile/profile_management.do. You may request deactivation of your Cisco account or any of your Personal Information held by us by sending an email to privacy@cisco.com.
 
-### Data Security
+[Read more about deactivation]
 
-Your Cisco account information is password-protected for your privacy and security. Cisco safeguards the security of the data you send us with physical, electronic, and managerial procedures. In certain areas of our websites, Cisco uses industry-standard SSL-encryption to enhance the security of sensitive data transmissions. While we strive to protect your personal information, we cannot ensure the security of the information you transmit to us, and so we urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.
+If you choose to deactivate your account, where permitted by law we will retain in our files some of your Personal Information to prevent fraud, resolve disputes, troubleshoot problems, enforce our Terms of Use, respect your opt-out preferences, and comply with legal requirements.
+
+  
+
+
+### How We Protect Your Information
+
+Cisco safeguards the security of the data you send us with industry-standard physical, electronic, and managerial procedures. When appropriate, Cisco websites use SSL-encryption to enhance the security of sensitive data transmissions. Inside Cisco, data is stored in controlled servers with limited access. Your information may be stored and processed in the United States or any other country where Cisco, its subsidiaries, affiliates or agents are located.
+
+While we strive to protect your personal information, we cannot ensure the security of the information you transmit to us over an unsecured Internet connection. We therefore urge you to take every precaution to protect your personal data when you are on the Internet.
+
+[Read more]
+
+Some ways to protect your personal data include changing your passwords often, using a combination of letters and numbers in passwords, and making sure you use a secure browser. In addition, be aware of phishing attacks, which attempt to steal consumers' personal identity data and financial account credentials. “Phishers ” use 'spoofed' e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging sensitive personal information such as credit card numbers, account usernames, passwords and social security numbers. Cisco will never send an email asking you to provide or confirm Sensitive Personal Information. If you receive a communication such as this, please immediately forward it to [privacy@cisco.com](mailto:privacy@cisco.com) and immediately delete it from your computer.
+
+  
+
 
 ### Children and Privacy
 
-Our websites do not target and are not intended to attract children under the age of 13. Cisco does not knowingly solicit personal information from children under the age of 13 or send them requests for personal information.
+Our websites do not target and are not intended to attract children under the age of 13. Cisco does not knowingly solicit personal information from children under the age of 13 or send them requests for Personal Information.
 
 ### Third Party Sites
 
-Cisco's website contains links to other sites. Cisco does not share your personal information with those websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.
+Cisco's website contains links to third party websites, some of which may be co-branded with the Cisco logo. However, these websites are not operated or maintained by Cisco, and Cisco does not share your Personal Information with these websites and is not responsible for their privacy practices. Your use of any third party website is at your own risk.
 
-Our website may contain links to websites operated by other companies. Some of these third-party sites may be co-branded with a Cisco logo, even though they are not operated or maintained by Cisco. Although we choose our business partners carefully, Cisco is not responsible for the privacy practices of web sites operated by third parties that are linked to our site. Once you have left our website, you should check the applicable privacy statement of the third party website to determine how they will handle any information they collect from you.
+[Read more]
+
+Although we choose our business partners carefully, Cisco cannot be responsible for the privacy practices of websites operated by third parties that are linked to from our site. Once you have left our website, you should make a practice of checking the applicable privacy statement of the third party website to determine how they will use any information they collect from you.
+
+  
+
 
 ### Changes to this Privacy Statement
 
-Cisco will amend this privacy statement from time to time. If we make any substantial changes in the way we use your personal information we will make that information available by posting a notice on this site.
+This document was last updated on August 11, 2008. Cisco may amend this privacy statement from time to time, and at any time. We will post a notice on our website home page for 30 days whenever this Privacy Statement is materially changed. Your continued use of the Cisco website after any change will signify and confirm your assent to those changes.
 
 ### Questions or Suggestions
 
-If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us at [privacy@cisco.com](mailto:privacy@cisco.com).
+If you have questions or concerns about our collection, use, or disclosure of your Personal Information, please email us at [privacy@cisco.com](mailto:privacy@cisco.com).
 
-This document was last updated August 30, 2005
+Legal Department  
+Attn: Van T. Dang, VP, Law & Deputy General Counsel  
+Cisco Systems, Inc.  
+170 West Tasman Drive  
+San Jose, CA 95134  
+USA
