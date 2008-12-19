@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the zango.com privacy policy that was archived on 2008-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080403225143id_/http%3A//zango.com/Destination/Corporate/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zango.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219230103id_/http%3A//corporate.zango.com/privacy.aspx) for the most accurate reproduction.*
 
 # Zango Privacy Policy
 
-| 
-
 **Zango Privacy Policy**  
-(Last Revised February 18, 2008)
+(Last Revised April 03, 2008)
 
 At Zango, Inc., we are committed to protecting your privacy. This Privacy Policy applies to any Web site ("Web site") that references this Policy and is provided by Zango or its affiliates ("we" or "Zango"), and to those Zango-owned software products made available to you from a Web site ("Software") (please see below for important information on third party software products made available from the Web sites). This Privacy Policy governs information you provide to us or that we learn from you by your use of our Web sites and Software, and tells you how we may collect, use, and, in some instances, share this information. 
 
@@ -35,6 +33,4 @@ Our Software product automatically collects information from you to enable the S
 
 **Changes and Updates.** Zango reserves the right to change the provisions of this Privacy Policy at any time. Zango will post those changes on the privacy page of each Web site so you can be aware of what information we collect and how we use it. Your use of a Web site or Software following the posting of any change to the Privacy Policy will constitute your acceptance of any such changes. We encourage you to review our Privacy Policy frequently to make sure that you understand how Zango collects, uses, and discloses information. 
 
-**Contact Us.** If you have any questions about Zango, a Web site, or any Software or related services, you should first consult our Web site at [http://www.zango.com](http://www.zango.com/). This site includes links to company information, answers to frequently asked questions, and all of Zango's current policies. If you have further questions or concerns, please contact us at <http://www.zango.com/destination/corporate/contactus.aspx> or write to Zango Support, 3600 136th Place SE, Bellevue, WA 98006.  
-  
----|---
+**Contact Us.** If you have any questions about Zango, a Web site, or any Software or related services, you should first consult our Web site at [http://www.zango.com](http://www.zango.com/). This site includes links to company information, answers to frequently asked questions, and all of Zango's current policies. If you have further questions or concerns, please contact us at <http://corporate.zango.com/support/contact.aspx> or write to Zango Support, 3600 136th Place SE, Bellevue, WA 98006.
