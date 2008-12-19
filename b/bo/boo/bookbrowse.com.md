@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookbrowse.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215182315id_/http%3A//www.bookbrowse.com/information/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookbrowse.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219044625id_/http%3A//www.bookbrowse.com/information/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
 
 # BookBrowse.com's privacy statement
 
@@ -15,7 +15,7 @@ Email addresses collected when people enter BookBrowse giveaways, quizzes or tak
 
 Membership information is stored on a secure server. 
 
-_**We have never; and will never; sell, give-away or rent email addresses, or any other personal information.**_
+_**We have never, and will never sell, give-away or rent email addresses, or any other personal information**_ without your advance permission or unless ordered by a court of law. 
 
 **Tell-A-Friend Tool**   
 Visitors often wish to tell a friend about a particular page at BookBrowse, or send themselves a reminder. For this reason, like many other websites, BookBrowse provides a convenient 'tell-a-friend' tool that allows you to send a personal message to a friend telling them about BookBrowse. 
@@ -49,4 +49,6 @@ _Advertising_
 From time to time we use third-party advertising companies to serve ads on our Web site. These companies use cookies to track your visits to this and other websites in order to provide advertisements that may be of interest to you. The information about you does not include personal details such as your name or address, it is simply a cookie (as explained in the previous section) that tracks general traffic movements. If you would like more information about this practice, or you would like to opt out from having your data collected by some advertising networks, please [click here](http://www.networkadvertising.org/optout_nonppii.asp "opt out of ads"). 
 
 **Contacting BookBrowse.com**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [contact us](https://web.archive.org/web/20071215182315id_/http%3A//www.bookbrowse.com/information/contactus "contact us"). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [contact us](https://web.archive.org/web/20081219044625id_/http%3A//www.bookbrowse.com/information/contactus "contact us").   
+  
+Last updated November 2008
