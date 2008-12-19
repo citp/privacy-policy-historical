@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adult-empire.com privacy policy that was archived on 2008-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080222045242id_/http%3A//www.adult-empire.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adult-empire.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219021649id_/http%3A//www.adult-empire.com/privacy.htm) for the most accurate reproduction.*
 
 # Adult-Empire.com Privacy
 
@@ -26,7 +26,7 @@ Please see our [payment processor's Privacy Policy](http://www.standardpay.com/s
 
 Copyright notice. 
 
-All materials on this web site are copyrighted with all rights reserved by Galitsin-news.com. No image of this site may be reproduced without written permission. No part of this site may be reproduced, duplicated, copied, sold, resold, visited, or otherwise used for any commercial purposes. You may not frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images, text, page layout, or form) of ours. You may not use any meta tags or any other "hidden text" utilizing any of our trade names or trademarks without our permission in writing. Any unauthorized use terminates the permission or license to access this site. Spidering (automatic retrieving the entire site or parts of it with a specific program) is forbidden. Searching our servers for unpublished or offline files is forbidden too. 
+All materials on this web site are copyrighted with all rights reserved. No image of this site may be reproduced without written permission. No part of this site may be reproduced, duplicated, copied, sold, resold, visited, or otherwise used for any commercial purposes. You may not frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images, text, page layout, or form) of ours. You may not use any meta tags or any other "hidden text" utilizing any of our trade names or trademarks without our permission in writing. Any unauthorized use terminates the permission or license to access this site. Spidering (automatic retrieving the entire site or parts of it with a specific program) is forbidden. Searching our servers for unpublished or offline files is forbidden too. 
 
 If you have any questions or comments about the information presented here, please contact the support-team via phone or e-mail support@adult-empire.com .   
   
