@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbc-2.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212214125id_/http%3A//www.nbc-2.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbc-2.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220000107id_/http%3A//www.nbc-2.com/privacy.shtml) for the most accurate reproduction.*
 
 # NBC2 Online - Privacy Policy
 
