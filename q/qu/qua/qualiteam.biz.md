@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qualiteam.biz privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215102650id_/http%3A//www.qualiteam.biz/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualiteam.biz privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219152356id_/http%3A//www.qualiteam.biz/privacy_statement.html) for the most accurate reproduction.*
 
-# Internet business solutions & b2c e-commerce development - QUALITEAM
+# Qualiteam: Privacy statement
 
 We respect your right to privacy. This policy summarizes what personally identifiable information we may collect, and how we might use this information. This policy also describes other important topics relating to your privacy. 
 
