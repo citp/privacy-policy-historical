@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the udayton.edu privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626015914id_/http%3A//www.udayton.edu/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udayton.edu privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219221045id_/http%3A//www.udayton.edu/Privacy_Policy) for the most accurate reproduction.*
 
 # University of Dayton - (Privacy Policy)
 
@@ -11,13 +11,23 @@ This policy was created in order to demonstrate the University of Dayton's commi
   * business.udayton.edu
   * calendar.udayton.edu
   * campusreport.udayton.edu
+  * careers.udayton.edu
+  * education.udayton.edu
+  * emergency.udayton.edu
+  * engineering.udayton.edu
+  * events.udayton.edu
+  * gened.udayton.edu
+  * llc.udayton.edu
   * lud.udayton.edu
   * lvillage.udayton.edu
+  * ministry.udayton.edu
   * mylife.udayton.edu
   * news.udayton.edu
   * portfolio.udayton.edu
+  * president.udayton.edu
   * publicrelations.udayton.edu
   * search.udayton.edu
+  * strategicplan.udayton.edu
   * supportud.udayton.edu
   * vo.udayton.edu
   * voparents.udayton.edu
@@ -27,8 +37,7 @@ This policy was created in order to demonstrate the University of Dayton's commi
 
 For the purposes of this policy, "us", "we", and "our" refers to the University of Dayton and/or UD employees, both as representing the aforementioned web sites covered by this policy; "you" and "your" refers to you as an individual user of such a web site.
 
-LAST UPDATED: November 14, 2007  
-
+LAST UPDATED: August 26, 2008
 
 ### Information UD Gathers and Uses
 
@@ -44,8 +53,7 @@ Information Gathered from You Passively by Us
 UD web sites passively gather information about you. Such passive gathering may not be readily noticeable to you, and may include, but not be limited to: IP Address, domain from which you access the Internet, individual pages accessed within a UD web site, access and session times, environmental variables such as web browser, platform, and operating system, the URL from which you came, the URL you visit when leaving. This information is gathered and analyzed to enhance our web sites, detect problems, determine trends, maintain security, and overall, to assist us in improving the offering of information and services. This information is generally non-personally identifiable, however, may be combined with personally identifiable information to better provide information and services.
 
 Cookies  
-To enhance the information and services provided, many of our web sites utilize "cookies." Cookies are small text files we place on your computer, associated to your computer's web browser. These cookies do not and will never contain personally identifiable information; however, information stored in these cookies may be linked to personally identifiable information gathered in a manner as previously indicated.  
-
+To enhance the information and services provided, many of our web sites utilize "cookies." Cookies are small text files we place on your computer, associated to your computer's web browser. These cookies do not and will never contain personally identifiable information; however, information stored in these cookies may be linked to personally identifiable information gathered in a manner as previously indicated.
 
 ### Information UD Disseminates to Others
 
@@ -53,8 +61,7 @@ Information Disseminated by Us to Any UD Division, Office and/or Official
 In certain instances, in order to provide information and services, we may disseminate both non-personally and personally identifiable information to any UD division, office, and/or official. Such instances in which we disseminate information may not be readily noticeable to you, and may include, but not be limited to: taking online exams; registering for courses; purchasing products or services; submitting certain online forms for registration, application, or related activities; or electing interests or preferences. In all such instances, personally identifiable information is disseminated and used within appropriate guidelines, and only to the extent to which it is necessary in our ability to provide information and services, and/or the ability of any UD division, office, and/or official to do the same.
 
 Information Disseminated by Us to Strategic Partners and Others  
-In certain instances, we may disseminate to strategic partners and others outside UD both non-personally and personally identifiable information for research, presentation, and/or to provide information and services. In such instances information will be provided only to the extent to which it is necessary in our ability to provide information and services, and/or the ability of our strategic partners and others to do the same.  
-
+In certain instances, we may disseminate to strategic partners and others outside UD both non-personally and personally identifiable information for research, presentation, and/or to provide information and services. In such instances information will be provided only to the extent to which it is necessary in our ability to provide information and services, and/or the ability of our strategic partners and others to do the same.
 
 ### Information You Disseminated to Others
 
@@ -72,17 +79,13 @@ We take technical, contractual, administrative, and physical security steps to p
 
 Although we take appropriate measures to protect personally identifiable information, we can not guarantee that this information will never be disclosed in a manner that is inconsistent with this policy.
 
-### Policy Updates  
-
+### Policy Updates
 
 The University of Dayton reserves the right to make changes to this policy at any time.
 
-### Contact  
+### Contact
 
-
-Internet Development Division  
+Systems Integration Division  
 University of Dayton  
 300 College Park  
 Dayton, OH 45469-1501
-
-E-mail: [IDD@udayton.edu](mailto:IDD@udayton.edu?subject=Privacy%20Policy)
