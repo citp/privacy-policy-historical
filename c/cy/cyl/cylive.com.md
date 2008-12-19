@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the cylive.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216192728id_/http%3A//www.cylive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cylive.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219064301id_/http%3A//www.cylive.com/privacy) for the most accurate reproduction.*
 
-# Cylive Faq
-
-**Cylive** respects the privacy of users using the website and services offered. This policy document demonstrates our commitment to privacy of all the private content that you keep at Cylive. 
-
-| 
+# Cylive Privacy Policy
 
 ## March 1st, 2006 
 
@@ -33,5 +29,3 @@ Cylive reserves the right to modify all or some of this Privacy Policy at any ti
 If Cylive becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
 
 If you have any questions about this Privacy Policy, the practices of this website or your dealings with Cylive, you can send an e-mail, in English, to [privacy@cylive.com](mailto:privacy@cylive.com).
-
-|  
