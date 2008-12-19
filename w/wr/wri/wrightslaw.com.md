@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wrightslaw.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509125417id_/http%3A//www.wrightslaw.com/priv_plcy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrightslaw.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219231006id_/http%3A//www.wrightslaw.com/priv_plcy.htm) for the most accurate reproduction.*
 
 # Wrightslaw Privacy and Securities Policies
 
 **Wrightslaw Privacy and **Security** Policies**
 
-We value our privacy and we respect the privacy of newsletter subscribers, individuals who answer our surveys, and fill out our questionnaires.
+[Print this page](https://web.archive.org/phprint.php) We value your privacy and we respect the privacy of newsletter subscribers, individuals who answer our surveys, and fill out our questionnaires.
 
 Key components of our privacy policy:
 
@@ -23,5 +23,8 @@ These policies apply to all websites owned by Wrightslaw including [wrightslaw.c
 
 If you have any concerns or questions about our privacy policy or information collected on our sites,  please  [email us](mailto:privacy@wrightslaw.com) .  
 
+
+To Top  
+Last updated: 10/28/08
 
 [](http://www.constantcontact.com/safesubscribe.jsp)
