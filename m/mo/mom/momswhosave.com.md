@@ -1,8 +1,28 @@
-> *The following text is extracted and transformed from the momswhosave.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611210848id_/http%3A//www.momswhosave.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momswhosave.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219142000id_/http%3A//www.momswhosave.com/privacy.html) for the most accurate reproduction.*
 
-# MomsWhoSave.com
+# MomsWhoSave.com coupon codes, discounts, & freebies
 
-privacy policy
+
+
+
+[](http://www.addthis.com/bookmark.php)
+
+  
+
+
+* * *
+
+[Click to Follow my Updates on twitter. See Deals Not Listed Here --Updated Several Times a Day! ](http://www.twitter.com/momswhosave)  
+
+
+[](http://twittercounter.com/?username=momswhosave "TwitterCounter for @momswhosave")  
+
+
+* * *
+
+| 
+
+##      privacy policy                                                                                                    
 
 Newsletter  
 If you wish to subscribe to our newsletter, we will ask for contact information such as name and email address. No personal information will be sold or rented to any third party, or used for any other purpose. You may unsubscribe from our newsletter at any time, and unsubscribe information will be included with every newsletter.
@@ -19,3 +39,4 @@ We do not knowingly collect information from children under 18. We will delete t
 
 Questions?
 If you have any questions, please use the "contact us" link found on every page of this site. 
+| 
