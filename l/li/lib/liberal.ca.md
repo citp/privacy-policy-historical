@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the liberal.ca privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611204602id_/http%3A//www.liberal.ca/privacy_e.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberal.ca privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219055346id_/http%3A//www.liberal.ca/privacy_e.aspx) for the most accurate reproduction.*
 
 # Liberal.ca :: Privacy Policy
 
 The Liberal Party of Canada is committed to ensuring that the information you provide to us remains private and secure. Our privacy policy contains information relating to the following topics:
 
-  * How we collect information about you
-  * How we use your information
-  * How to update records or to unsubscribe from our website
-  * How we protect your information
-  * Information about children
-  * Links to other websites
-  * How you may contact us 
+  * [How we collect information about you](https://extranet.liberal.ca/pmc/pagecontent.aspx?id=371#1)
+  * [How we use your information](https://extranet.liberal.ca/pmc/pagecontent.aspx?id=371#2)
+  * [How to update records or to unsubscribe from our website](https://extranet.liberal.ca/pmc/pagecontent.aspx?id=371#3)
+  * [How we protect your information](https://extranet.liberal.ca/pmc/pagecontent.aspx?id=371#4)
+  * [Information about children](https://extranet.liberal.ca/pmc/pagecontent.aspx?id=371#5)
+  * [Links to other websites](https://extranet.liberal.ca/pmc/pagecontent.aspx?id=371#6)
+  * [How you may contact us ](https://extranet.liberal.ca/pmc/pagecontent.aspx?id=371#7)
 
 
 
@@ -18,7 +18,7 @@ The Liberal Party of Canada is committed to ensuring that the information you pr
 
 We collect no personal information about you, such as your name, address and telephone number, without your permission. When you visit our website, you may choose to provide us with personal information for the specific purpose of becoming involved with the Liberal Party of Canada, whether as a member, volunteer or as a financial contributor. You may also wish to become a subscriber to our website in order to receive news and information which may be of interest to you.
 
-**How we use your information:**
+******How we use your information:**
 
 We only use your personal information to communicate with you about the Liberal Party of Canada and its activities, as well as to provide you with news and information. We do not sell your personal information to anyone under any circumstances.
 
@@ -26,7 +26,7 @@ The information you provide when you make a contribution to the Liberal Party of
 
 Because the Liberal Party of Canada is a national organization, we may share your personal information internally with our provincial and territorial offices, as well as our local riding associations. If you have been a contributor, we may contact you again to seek your financial support.
 
-**How to update records or to unsubscribe from our website:**
+******How to update records or to unsubscribe from our website:**
 
 You may update or correct the information you provide to us by e-mailing us at [info@liberal.ca](mailto:info@liberal.ca). If you have subscribed to our website to receive information from us, you may unsubscribe by replying to an e-mail and inserting the word "unsubscribe" in the subject line. If you change your email address, you can unsubscribe from our mailing list and sign up again with your new e-mail address.
 
@@ -42,11 +42,11 @@ We log IP addresses, or the location of your computer network on the Internet, f
 
 The Liberal Party of Canada does not ask for personal information about children under 14 years of age. Membership in the Liberal Party of Canada is restricted to persons aged 14 and over. Persons under the age of 18 are not permitted to contribute via our website.
 
-**Links to other websites:**
+******Links to other websites:**
 
 Our website contains links to a limited number of other websites including those for our provincial and territorial associations. The Liberal Party of Canada is not responsible for the content or the privacy policies of these websites.
 
-**How you may contact us:**
+******How you may contact us:**
 
 If you have any questions about our privacy policy or the information you have provided to us online, simply email us at [webmaster@liberal.ca](mailto:webmaster@liberal.ca).
 
@@ -54,7 +54,7 @@ You can also reach us by regular mail at the following address:
 
 > **Liberal Party of Canada  
 >  81 Metcalfe Street, Suite 400  
->  Ottawa, Ontario K1P 6M8
+> Ottawa, Ontario K1P 6M8
 > 
 > Attention: Privacy Officer
 > 
