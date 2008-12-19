@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatham.edu privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617024058id_/http%3A//www.chatham.edu/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatham.edu privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219014451id_/http%3A//www.chatham.edu/legal/privacy.cfm) for the most accurate reproduction.*
 
 # Chatham University
 
