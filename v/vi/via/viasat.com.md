@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viasat.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515095357id_/http%3A//www.viasat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viasat.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219151955id_/http%3A//www.viasat.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ViaSat
 
@@ -9,6 +9,7 @@ ViaSat, Inc. and our subsidiaries (collectively, ViaSat) respect your privacy an
   * Information Sharing and Disclosure
   * Data Security
   * Children and Privacy
+  * EEA Safe Harbor Notice
   * Changes to this Privacy Policy
   * Questions or Suggestions
 
@@ -30,7 +31,7 @@ If you choose to provide us with your personal information, we may transfer that
 
 We will always give you the opportunity to "opt out" of receiving direct marketing or market research information. This means we will use the information you provide for direct marketing or market research information unless you take affirmative action to indicate that you do not want us to do so, for instance by clicking or checking the appropriate option or box at the point of collection.
 
-Finally, you can opt-out of receiving marketing at any time. If you do not want to be included on ViaSat's marketing list, simply tell us when you give us your personal information. Or, at any time, you can easily opt-out by sending an email to [privacy@viasat.com](mailto:privacy@viasat.com).
+Finally, you can opt-out of receiving marketing at any time. If you do not want to be included on ViaSat's marketing list, simply tell us when you give us your personal information. Or, at any time, you can easily opt-out by sending an email to [privacy@viasat.com](mailto:privacy@viasat.com). Individuals in the European Economic Area (“EEA”) may also send an email to this address to ask to opt-out of disclosures to third parties, but such a limitation on data sharing may make it difficult or impossible for ViaSat US to provide the requested services. Notwithstanding other statements in this Privacy Policy, ViaSat US may disclose contact information of individuals in the EEA, including, without limitation, names, addresses, work phone numbers and work email addresses, where ViaSat US is legally required to disclose (e.g., under statutes, contracts or otherwise) or the disclosure is permitted by law and ViaSat US has a legitimate business interest in such disclosure.
 
 ### How We Use Information Collected
 
@@ -61,10 +62,14 @@ ViaSat safeguards the security of the data you send us with physical, electronic
 
 ViaSat takes the privacy of children seriously. ViaSat does not seek to collect personal information about children. If we become aware that a person submitting personal information to us is a child, we delete the information as soon as we discover it and do not use it for any purpose, nor do we disclose it to third parties.
 
+### **EEA Safe Harbor Notice**
+
+ViaSat, Inc. US adheres to the Safe Harbor Privacy Principles published by US Department of Commerce (“Safe Harbor Principles”) with respect to personal data about individuals in the EEA that subsidiaries, customers and other business partners in the EEA send to ViaSat, Inc. US. ViaSat US’s Safe Harbor Certification does not extend to data that ViaSat US receives directly through [www.viasat.com](http://www.viasat.com/ "www.viasat.com") or other websites (information on ViaSat US’s practices regarding data received through websites is contained in the applicable website privacy statements, if any). More information on the Safe Harbor Principles and ViaSat US’s scope of participation is available at [www.export.gov/safeharbor](http://www.export.gov/safeharbor/sh_overview.html "http://www.export.gov/safeharbor/sh_overview.html").
+
 ### Changes to this Privacy Policy
 
 ViaSat will amend this Privacy Policy from time to time. If we make any substantial changes in the way we use your personal information we will make that information available by posting a notice on this site. We may also, but are not required to, notify you by email or regular mail.
 
 ### Questions or Suggestions
 
-If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us at [privacy@viasat.com](mailto:privacy@viasat.com) This document was last updated November 07, 2007.
+If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us at [privacy@viasat.com](mailto:privacy@viasat.com) This document was last updated June 27, 2008.
