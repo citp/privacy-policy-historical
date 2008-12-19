@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secondlife.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512204449id_/http%3A//secondlife.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secondlife.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219010945id_/http%3A//secondlife.com/corporate/privacy.php) for the most accurate reproduction.*
 
 # Second Life | Privacy Policy
 
@@ -7,7 +7,7 @@ At Linden Lab, we are committed to protecting your privacy and creating a strong
   1. We collect personal information and usage statistics to maintain a high-quality customer experience and deliver superior customer service. 
   2. Some information we request directly from you during registration. Other pieces of data are gathered indirectly from website traffic, your computer hardware and Internet connection, or Second Life usage. 
   3. Except under certain limited circumstances set forth here and in our terms of service posted at <http://secondlife.com/corporate/tos.php>, Linden Lab does not disclose personal information you provide it to any third parties without your permission. Linden Lab may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Linden Lab, this web site or any user of Second Life; (b) protect and defend the rights or property of Linden Lab, Second Life or the users of Second Life; or (c) act in urgent circumstances to protect the personal safety of users of this web site, Second Life or the public. In addition, if Linden Lab should ever file for bankruptcy or merge with another company, we may sell the information you provide to us on this site to a third party or share your personal information with any company with whom we merge. 
-  4. You will have the ability to update the personal data you provided to us during registration by contacting us at [contact-legal@lindenlab.com](mailto:contact-legal@lindenlab.com) .
+  4. You will have the ability to update the personal data you provided to us during registration by contacting us at <http://secondlife.com/support>.
   5. We will update this privacy policy in a timely fashion when any changes occur. 
 
 
@@ -20,7 +20,6 @@ The privacy policy below refers to the online service Second Life and the follow
   * How We Protect Your Personal Data
   * Notice to Those Under the Age of 13
   * Your Consent
-  * How to Contact Us
 
 
 
@@ -53,9 +52,6 @@ Linden Lab does not collect information from children ages 12 or younger because
 
   
 Periodically we may need to update our privacy policy to reflect changes in the types of information we collect, the means we use to collect information, and/or our usage of collected information. When this occurs we will make reasonable efforts to alert you to these changes. Your use of the Linden Lab websites and/or any Linden Lab products or services (including without limitation Second Life) noted above signifies your assent to this Linden Lab Privacy Policy. 
-
-  
-Linden Lab welcomes your questions and comments surrounding privacy. Please direct any communications to [contact-legal@lindenlab.com](mailto:contact-legal@lindenlab.com) .
 
 Privacy Policy   
 Linden Lab   
