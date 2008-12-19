@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unlockthegame.com privacy policy that was archived on 2008-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080428073229id_/http%3A//www.unlockthegame.com/utility/showArticle%3FobjectID%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlockthegame.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219174247id_/http%3A//www.unlockthegame.com/utility/showArticle%3FobjectID%3D16) for the most accurate reproduction.*
 
 # Free Cold Calling Tips and Sales Techniques – Ari Galper’s Unlock The Game
 
