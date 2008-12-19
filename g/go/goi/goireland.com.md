@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goireland.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628022648id_/http%3A//www.goireland.com/about/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goireland.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219113042id_/http%3A//www.goireland.com/about/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - GoIreland.com
 
@@ -17,9 +17,10 @@ We collect general information about each individual visitor’s experience of o
 Certain sections of the site use cookies to which allow us to track and record user sessions and to recognise you, if you come back to our site. A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information back from the browser. You have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. 
 
 **Subscribing to our Newsletter**   
-The newsletter sign up form allows you to register for our regular newsletters. This means that you will be the first to hear about last minute deals, special offers, discounts and new products and services. We send this newsletter to you by email, and we collect your email address for this purpose. Our email management provider (Constant Contact) processes the sending out of our newsletter. Our email management provider is located in the US, and your email address is transferred outside of Ireland, to them solely to allow them process the sending of the newsletter. If you do not agree to this, please contact our privacy officer, whose details are indicated below. For more information on Constant Contact, see [www.roving.com](http://www.roving.com/). 
+The newsletter sign up form allows you to register for our regular newsletters. This means that you will be the first to hear about last minute deals, special offers, discounts and new products and services. We send this newsletter to you by email, and we collect your email address for this purpose. Our email management provider (Newsweaver) processes the sending out of our newsletter. Our email management provider is located in Ireland. For more information on Newsweaver see <http://www.newsweaver.ie/>
 
-With each newsletter that we send to you, we provide you a link to this Privacy Policy and also give you the right to unsubscribe from our email list. We will delete your email address from our list of newsletter subscribers as soon as possible after we receive your unsubscribe notification. 
+  
+With each newsletter that we send to you, we provide you a link to this Privacy Policy and also give you the right to unsubscribe from our email list. We will delete your email address from our list of newsletter subscribers as soon as possible after we receive your unsubscribe notification.
 
 **External Links**   
 This site contains links to other websites. We cannot be held responsible for the privacy or security practices or the content of such websites. 
