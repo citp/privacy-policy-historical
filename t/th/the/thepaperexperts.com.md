@@ -1,27 +1,12 @@
-> *The following text is extracted and transformed from the thepaperexperts.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628173152id_/http%3A//www.thepaperexperts.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepaperexperts.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219171629id_/http%3A//www.thepaperexperts.com/privacypolicy.shtml) for the most accurate reproduction.*
 
-# Privacy Policy - Term Paper Outline
+# Privacy Policy - ThePaperExperts.Com: Term Paper Outline
 
   
-|  [Login](https://www.thepaperexperts.com/secure/start.cgi)  
----  
-[Quick Quote Request]()  
-| 
-
-[Customized Writing Service](https://www.thepaperexperts.com/secure/customized_orderform_cart.cgi)[](https://web.archive.org/jobopportunity.shtml)
-
-[Premium Writing Service](https://www.thepaperexperts.com/secure/customized_orderform.cgi?PREMIUM=Y)
-
-[Comprehensive Editing Service](https://www.thepaperexperts.com/secure/editessay_orderform_cart.cgi)  
-[Resume Writing $69.95](http://www.thepaperexperts.com/custom-written-resumes.shtml)[](https://www.thepaperexperts.com/secure/editessay_orderform_cart.cgi)  
-
-
+  
+  
+  
 |   
-  
-  
-  
-  
-  
 Privacy Policy
 
 **_PLEASE READ!!!_** _  
@@ -43,7 +28,14 @@ Your business is appreciated! Please feel free to contact us regarding any quest
 [](https://www.thepaperexperts.com/secure/customized_orderform.cgi?PREMIUM=Y)
 
 _ |    
-  
+| ACADEMIC ADVISORS  
+---  
+| [](https://www.secureonlineorder.net/tpeservices.com/?do=PshowAcademicRequire&nomenu=) |   
+| 
+
+[Free 15-min Help!](https://www.secureonlineorder.net/tpeservices.com/?do=PshowAcademicRequire&nomenu=)
+
+|   
   
   
 
