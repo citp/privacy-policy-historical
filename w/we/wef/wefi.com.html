@@ -1,200 +1,377 @@
-<!--The following is the downloaded HTML source of the wefi.com privacy policy that was archived on 2007-10-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071030162850id_/http%3A//www.wefi.com/privacy/index.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wefi.com privacy policy that was archived on 2008-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219011847id_/http%3A//www.wefi.com/privacy) for the most accurate reproduction.-->
 
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"><head>
-		<meta http-equiv="Expires" content="Mon, 04 Dec 1999 21:29:02 GMT">
-		<title>WeFi Privacy Policy</title>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="Keywords" content="WiFi, wireless internet, WiFi network, access point, free wireless internet, free internet, share WiFi, WiFi sharing, WiFi cafe, WiFi maps, connectivity, mobile WiFi, WiFi coverage, location based">
-		<link rel="icon" type="image/ico" href="/images/template/favicon.ico">
-		<meta name="Keywords" content="WeFi Privacy Policy">
-		<meta name="Description" content="WeFi Privacy Policy">
-		<link href="/css/template.css" rel="stylesheet" type="text/css">
-		<link href="/css/legal.css" rel="stylesheet" type="text/css">
-		
-		
-		
-		
-		<script src="/js/template.js" type="text/javascript" language="JavaScript"></script>
-		
-		
-		
-		
-		<script language="JavaScript">
-			<!--
-			
-				function CheckLoginFrm () {
-					var UserName = document.getElementById('username').value;
-					var UserPass = document.getElementById('password').value;
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+    <script type="text/javascript">
+        var g_User = {
+                        loggedin:parseInt("0",10),
+                        located:parseInt("0",10),
+                        debug:parseInt("0",10),
+                        cnu:"",
+                        email:"",
+                        lat:"",
+                        longt:"",
+                        ssid:""
+                        }
 
-					if ( UserName == '' || UserPass == '' ) {
-						window.location.href = '/login/index.jsp?err=1';
-						return false;
-					}
+    </script>
 
-					return true;
-				}
+    <title>WeFi Privacy Policy</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="keywords" content=" Wi-Fi, find wi-fi, free Wi-Fi, wireless connection,  WeFi, wireless network, hotspot, internet">
+    <meta name="description" content="Find Free Wi-Fi anywhere and Friends everywhere! With WeFi you automaticlly connect to the best available Wi-Fi.">
+    <link rel="shortcut icon" href="/global/master/images/favicon.ico">
+    <link href="/global/master/template.css?ver=symphony3.4.6" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="/global/js/global.js.php?ver=symphony3.4.6"></script>
+    
+<link href="/EULA/legal.css" rel="stylesheet" type="text/css">
 
+</head>
+<body>
+<div id="" style="width: 1025px;">
+<img src="/global/master/images/logoclouds.jpg" id="unClick" style="display:none;width:1024px;height:900PX;z-index:1000;position:absolute;top:0;left:0;opacity:0.1;filter:alpha(opacity=40)" alt="">
+<div id="leftBar">
+    <a href="/" title="Find free Wi-Fi anywhere and friends everywhere!">
+        <img src="/global/master/images/wefi_logo.jpg" alt="Find free Wi-Fi anywhere and friends everywhere!">
+    </a>
+    <p id="leftTagline">Find Wi-Fi anywhere<br>and friends everywhere</p>
+    <span id="cntNum" style="display:none"></span>
+    <div id="counter">
+        <ul id="numbers"><li></li></ul>
+        <p>Wi-Fi networks discovered
+            <img style="display:none" src="/global/master/images/help.jpg" alt="Help">
+        </p>
+    </div>
+    <div id="findBox">
+        <p>Find Wi-Fi in:</p>
+        <input type="text" name="" id="finfField" value="Enter address" onclick="this.value = ''">
+        <input type="button" name="" id="findSubmit" value="" onclick="mstSearch(event,this.form)">
+    </div>
+</div>
+<div id="frame">
+    <div id="outerFrame">
+        <div id="innerFrame">
+            <div id="header">
 
-				function get_ConnectedTo () {
-				    document.getElementById('connectif').src = '/ConnectedTo?cnc=null&cnu=null';
-				}
+					<ul id="sitenav">
+	                    <li id="maps"><a href="/maps/" title="">Find Wi-Fi</a></li>
+	                    <li id="friends"><a href="/maps/?type=ff" title="">Find Friends</a></li>
+	                    <li id="download"><a href="/download/" title="">Download</a>
+                            <ul>
+								<li><a href="/download/?cat=windows" title="">Windows</a></li>
+								<li><a href="/download/?cat=mac" title="">Mac</a></li>
+								<li><a href="/download/?cat=mobile" title="">Windows Mobile</a></li>
+								<li><a href="/download/?cat=nokia" title="">Nokia</a></li>
+                            </ul>
+                        </li>
+	                    <li id="about"><a href="/tour/" title="">What is WeFi</a>
+							<ul>
+								<li><a href="/tour/" title="">Guided Tour</a></li>
+								<li><a href="/download/compare.php" title="">Compare WeFi</a></li>
+							</ul>
+	                    </li>
+						<li id="community"><a href="/forum/" title="">Community</a>
+							<ul>
+								<li><a href="/forum/" title="">Forum</a></li>
+								<li><a href="/blog/" title="">Blog</a></li>
+                                <li><a href="/topmappers/" title="">Top Mappers</a></li>
+                                <li id="masInvite" style="display:none"><a href="/invite/" title="">Invite Friends</a></li>
+							</ul>
+						</li>
+						<li id="corporate"><a href="/about/" title="">About Us</a>
+							<ul>
+								<li><a href="/about/" title="">Overview</a></li>
+								<li><a href="/about/contact.php" title="">Contact</a></li>
+								<li><a href="/about/execs.php" title="">Executive Team</a></li>
+								<li><a href="/about/board.php" title="">Board of Directors</a></li>
+								<li><a href="/about/founders.php" title="">Founders</a></li>
+								<li><a href="/about/investors.php" title="">Investors</a></li>
+								<li><a href="/partners/" title="">Partners</a></li>
+								<li><a href="/partners/recommended/" title="">Recommended Products</a></li>
+								<li><a href="/press/" title="">WeFi in the News</a></li>
+							</ul>
+						</li>
+	                    <li id="feedback"><a href="/feedback/" title="">Feedback</a></li>
+	                </ul>
 
+                <a href="/faq/" title="Help">
+                    <img src="/global/master/images/q_mark.png" alt="Help" id="headerHelp">
+                </a>
+                <div id="loginbox">
+                    <div id="lgnLoggedIn" align="right" class="bodystyle" style="display:none">
+    Welcome
+    <strong>
+        <a href="/profile/" id="logEmail"></a>
+    </strong>
+    <span class="smallblue"> | </span>
+    <a href="/login/logout.php">Logout</a>
+    <span class="smallblue" id="lgnSSIDRef1" style="display:none;"> | Connected to </span>
+    <a href="#" id="lgnSSIDRef2" style="display:none;"></a>
+</div>
+<div id="lgnNotLoggedIn" align="right" style="display:none" class="bodystyle">Welcome
+    <strong>Guest</strong>
+    <span class="smallblue"> | </span>
+    <a href="/login/">Login</a>
+		<span class="smallblue"> | </span>
+		<a href="/login/register/">Sign up</a>
+</div>                </div>
+                <div class="clear"></div>
+            </div>
+            <div id="page">
+                                                <!--********Content Starts ***************  -->
+                <div id="main">
+					<div id="leftside">
+    <ul id="legalNav">
+        <li>
+            <a href="/privacy/" title="" class="legalOn">Privacy Policy</a>
+        </li>
+        <li>
+            <a href="/EULA/" title="">End User Lisence Agreement</a>
+        </li>
+        <li>
+            <a href="/TOS/" title="">Terms of Service</a>
+        </li>
+    </ul>
+</div>
+<div id="content">
+    <div class="buttons">
+        <a href="javascript:window.print();">
+            <img src="/EULA/images/print.gif" alt="Print">
+        </a>
+        <a href="javascript:history.go(-1);" style="display:none">
+            <img src="/EULA/images/close.gif" alt="Close">
+        </a>
+    </div>
+    <h1>Privacy Policy</h1>
 
-				function GetUrl () {
-					var url = '';
-					url = window.location.href;
-					document.getElementById('ref').value = url;
-					return true;
-				}
+    <p>WeFi (
+        <strong>"WeFi"</strong>
+        ,
+        <strong>"us"</strong>
+        or
+        <strong>"we"</strong>
+        ) respects the privacy of the visitors to the Website, the home page of which is located at
+        <a href="/">http://www.wefi.com</a>
+        .
+    </p>
+    <p>This privacy policy (the
+        <strong>"Privacy Policy"</strong>
+        ) is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information and Anonymous Information you submit to us through our Services and/or the WeFi connectivity software (the
+        <strong>"WeFi Software"</strong>
+        ). Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms set forth in the Terms of Service Agreement for the WeFi Services at
+        <a href="/TOS/">http://www.wefi.com/TOS/</a>
+        ) and any WeFi License Agreement (at
+        <a href="/EULA/">http://www.wefi.com/EULA/</a>
+        ).
+    </p>
+    <p>
+        <strong>"Personal Information"</strong>
+        is information about you that is personally identifiable to you like your name, address, e-mail address, or phone number, as well as other non-public information that is associated with the foregoing.
+    </p>
+    <p>
+        <strong>"Anonymous Information"</strong>
+        means information that is not associated with or linked to your Personal Information; Anonymous Information does not permit the identification of individual persons.
+    </p>
+    <p>We collect and use Personal Information and Anonymous Information as described in this Privacy Policy.</p>
 
+    <h3>User Consent</h3>
 
-				function logout () {
-					document.getElementById('logout').src = '/login/logout_tx.jsp';
-					document.getElementById('login_tab_outer').innerHTML = '<div id="login_tab_inner" onclick="ShowLogin();">Login</div>';
-				}
-				
+    <p>By submitting Personal Information through our Services and/or the WeFi Software, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Information according to this Privacy Policy.</p>
 
-				function loginForm () {
-					document.getElementById('header_info').innerHTML = '<form onsubmit="return CheckLoginFrm();" action="/login/ctlLogin" method="post" style="margin: 0; padding: 0; display: inline;"><p class="logger_info"><input type="text" id="username" name="email_email" value="Email Address" onclick="this.value=\'\';" /><input type="password" id="password" name="password_str" value="Password" onfocus="this.value=\'\';" onfocus="this.select();" /><input type="hidden" name="ref" id="ref" value="" style="background-color: transparent; border: 0; margin: 0; padding: 0;" /><input type="submit" id="login_button" value="Login" /></p><p class="connectedto_info">You are not connected to WeFi.</p></form>';
-                }
-	
+    <p>Your Personal Information may be processed by us in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in your country.</p>
 
-			//-->
-		</script>
-	</head>
-<body><iframe src="" frameborder="0" width="0" height="0" border="0" id="logout"></iframe>
-<iframe src="" width="0" height="0" border="0" frameborder="0" id="connectif"></iframe>
+    <h3>Personal Information You Provide to Us</h3>
 
-	<div align="center">
-		<div id="header">
-			<div id="logo">
-				<a href="http://www.wefi.com" title="WeFi"><img src="/images/template/wefi_beta_logo.jpg" border="0" title="WeFi"></a>
-				<p class="tagline">WiFi anywhere. Friends everywhere.</p>
-			</div>
-			<div id="header_info">
-				
-					<p class="logger_info">Welcome <strong>Guest</strong> <span class="small">( <a href="javascript: loginForm();">login</a> )</span></p>
-				
-				
-					<p class="connectedto_info">You are not connected to WeFi.</p>
-					
-				<div id="login_errors">
-					
-			</div>
-			</div>
-			<ul id="nav">
-				
-					<li><a href="/" title="Home">Home</a></li>
-				
-				
-					<li><a href="/maps/" title="Maps">Maps</a></li>
-				
-				
-					<li><a href="/download/" title="Download">Download</a></li>
-				
-				<li><a href="http://www.wefi.com:81/faq/" title="Support">Support</a></li>	
-				<div style="clear: both;"></div>
-			</ul>
-			<div class="clear"></div>
-		</div>
+    <p>The Personal Information we gather from you helps us learn about our members and potential members of our community and the users of the WeFi Software. We collect Personal Information that you submit to us voluntarily through our Service and/or the WeFi Software. The types of Personal Information we collect are:</p>
+    <ul style="list-style: square;">
+        <li>When you sign up for our WeFi Community Services, either on the Website or through the WeFi Software, we will collect the username and password that you choose and the e-mail address you provide to us.</li>
+        <li>When you personalize your WeFi Profile, we will collect any information you provide, such as your name or address.</li>
+        <li>When you enter any information, including Personal Information, into any postings or comments within the WeFi Services, we will collect such information and this information might be available for some, a subgroup of, or even all members of the WeFi Services, depending on how and where this information was posted by you (see
+            <em>Use of Information</em>
+            below).
+        </li>
+        <li>When you use the functionality of the WeFi Software and the Services to import data, such as contact lists, profile information, and/or address books, we will collect the information that you import and/or upload.</li>
+        <li>When you contact us by sending us an e-mail, we will collect your e-mail address and any information contained in the e-mail you send us.</li>
+        <li>When you post notes for other Users at Access Points, we will collect the content of such notes.</li>
+        <li>When you use the WeFi Software to share an Access Point, we collect information that is required to enable such sharing, including without limitation, the hardware address of the network adapter of your computer and information that is necessary to access your wireless router.</li>
+        <li>When you use any of the location-based functions of the WeFi Software or the WeFi Community Services, we will collect information about your geographical location.</li>
+    </ul>
+    <p>The WeFi Profile that you create when you sign up for our WeFi Services contains Personal Information such as your username, e-mail address and password.&nbsp; Only your WeFi Member name will be visible to other WeFi Members. All the information in your WeFi Profile that you select to be publicly displayed will be public information and any WeFi Member will be able to see it, including any Personal Information that is stored in your WeFi Profile that you decide to select as public information.</p>
+
+    <h3>Personal Information Collected Via Technology</h3>
+
+    <p>As you navigate our Website or use the WeFi Community Services, certain information may also be collected passively, including your Internet protocol address, browser type, and operating system. We also use Cookies and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the information for which you searched and viewed. This type of information is collected to better understand how you use our community and make the community and the Services we provide more useful to you.</p>
+
+    <p>When you use our WeFi Software to improve your connectivity, the Services collects information about the computer on which the WeFi Software is executed, including without limitation, the hardware address of its network adapter.</p>
+
+    <p>The WeFi Software also transmits information to the Services that allow the Services to identify your geographical location based on the Access Points you are using to establish an online connection. We may connect such geographical information with Personal Information we have collected from you, to provide you with specific location-based services that are tailored to meet your needs or interests.</p>
+
+    <p>An
+        <strong>"Internet protocol address"</strong>
+        or
+        <strong>"IP Address"</strong>
+        is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP Address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP Address probably varies from session to session. We track IP Addresses solely in conjunction with session cookies to analyze our web page flow.
+    </p>
+    <p>
+        <strong>"Cookies"</strong>
+        are small pieces of information that a website sends to your computer's hard drive while you are viewing a website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Website. Persistent Cookies can be removed by following Internet browser help file directions. If you choose to disable Cookies, some areas of the Website may not work properly.
+    </p>
+    <p>We may also contract with third parties in order to promote the products and/or services of these third parties by placing ads on the Website. We may use information that was posted by WeFi Members to tailor the display of ads to the interest of the Users. Clicking on such ads will direct you to the website of the third party and the third party may also use Cookies in connection with these ads. Please be advised that we are not responsible for these other websites or any content on these other websites and that this Privacy Statement does not govern your visit of these other websites.</p>
+
+    <h3>Personal Information We Receive From Other Sources</h3>
+
+    <p>We may receive Personal Information about you from other sources like telephone or fax, or from third parties that provide services for us in connection with the WeFi Services. We may add this information to the information we have already collected from you via our Website or through the WeFi Software in order to improve our community and our Services.</p>
+
+    <h3>Use of Information</h3>
+
+    <p>In general, Personal Information you submit to us is used by us either to sign you up for our community, respond to requests that you make, to improve our community and Services and to better tailor the features, performance and support of the Services and the WeFi Software, and to offer you additional information, opportunities, and functionality. We may also use your Personal Information to provide you with electronic newsletters or promotional e-mails, should you request to receive such communications from us.</p>
+
+    <p>The idea behind the WeFi community is that the members of our community share information and knowledge, supported by the location-based functionality of the WeFi Software. Therefore, you should assume that any information that you enter into or post on the WeFi Services (including the information in your WeFi Profile that you have selected to be public information), either through the Website or through the WeFi Software, will be openly shared with other WeFi Members and may also be available to people outside the WeFi community. Depending on where you post your information, you might be able to further specify which WeFi Members or group of WeFi Members will be able to have access to this information. Please be aware that if you enter any Personal Information into publicly available sections of the WeFi Services, this information will be displayed to anyone who has access to these sections. These publicly available sections of the WeFi Services include, without limitation, any public folder within the WeFi Services and even posts and comments of other WeFi Members.</p>
+
+    <p>Members are also able to search for publicly available information that was posted by a WeFi Member in a public section of the WeFi Services, or for information in a WeFi Profile.</p>
+
+    <p>We use the location-based information we collect from you when you use the WeFi Software of the relevant functions of the WeFi Services to provide you with specific information and services that are related to your location. Please be aware that this information might also be available to other WeFi Members.</p>
+
+    <p>We may create Anonymous Information records from Personal Information by excluding information (such as your name) that make the information personally identifiable to you. We may use this Anonymous Information to analyze usage patterns so that we may enhance our community and Services. We reserve the right to use and disclose Anonymous Information to third parties in our discretion.</p>
+
+    <h3>Feedback</h3>
+
+    <p>If you provide feedback to us, we may use and disclose such feedback for any purpose, provided we will not associate such feedback with your Personal Information. We will collect any information contained in such communication and will treat the Personal Information in such communication in accordance with this Privacy Policy.</p>
+
+    <h3>Disclosure of Personal Information</h3>
+
+    <p>Except as otherwise stated in this Privacy Policy, we do not trade, rent, or share your Personal Information with third parties, unless you ask or authorize us to do so.&nbsp;&nbsp; We may provide your Personal Information to third party service providers who work on behalf of or with us to provide some of the services and features of the WeFi Services and to help us communicate with the WeFi Members. However, these service providers do not have any independent right to share this information (expect pursuant to a legal requirement such as a subpoena or warrant).</p>
+
+    <p>Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively,
+        <strong>"Affiliates"</strong>
+        ), we may in the future. We may share some or all of your Personal Information with these Affiliates, in which case we will require our Affiliates to honor this Privacy Policy.
+    </p>
+    <p>If our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.</p>
+
+    <p>We may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; or (b) to protect and defend the rights or property of us, Users and Visitors of our Website, or third parties.</p>
+
+    <h3>Your Choices Regarding Your Personal Information</h3>
+
+    <p>We offer you choices regarding the collection, use and sharing of your Personal Information. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to
+        <strong>"opt-out"</strong>
+        by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information below).&nbsp; If you wish to remove your Access Point as it has been mapped by a WeFi Member, please contact us at
+        <a href="mailto:support@wefi.com">support@wefi.com</a>
+        and your site will be removed from the database.
+    </p>
+    <p>Despite your indicated e-mail preferences, we may send you administrative e-mails regarding the WeFi Services or notices of any updates to our Terms of Service for the WeFi Service, any WeFi License Agreement, or Privacy Policy.</p>
+
+    <p>You may change any of the Personal Information in your WeFi Profile by editing it.</p>
+
+    <h3>Regarding Children</h3>
+
+    <p>We do not intentionally gather Personal Information about Visitors or Users who are under the age of 13.&nbsp; If you believe that we have collected Personal Information about a Visitor or User who is under the age of 13, please contact WeFi at
+        <a href="mailto:support@wefi.com">support@wefi.com</a>
+        and such WeFi Profile will be deleted.
+    </p>
+    <h3>Other Sites</h3>
+
+    <p>Our provision of links to other websites or locations is for your convenience and does not signify our endorsement of such other websites or location or its contents. Links to other websites or locations may also be posted by other WeFi Members. We have no control over, do not review, and cannot be responsible for these outside websites or their content. Please be aware that the terms of our Privacy Policy do not apply to these outside websites.</p>
+
+    <h3>Security</h3>
+
+    <p>We use reasonable measures to maintain the security of your Personal Information. However, no company, including us, can fully eliminate security risks associated with Personal Information.</p>
+
+    <h3>Contact Us</h3>
+
+    <p>Should you have any questions or concerns regarding this Privacy Policy, please contact us at
+        <a href="mailto:support@wefi.com">support@wefi.com</a>
+    </p>
+    <h3>Privacy Policy Updates</h3>
+
+    <p>This Privacy Policy is subject to occasional re vision, and changes will be posted on this page.&nbsp; If we make any substantial changes in the way we use or disclose your Personal Information, we will notify you at the email address listed in your WeFi Profile and obtain your consent to a change in the use or disclosure of your Personal Information. If you object to any such changes, we will delete your WeFi Profile.</p>
+
+    <p>This Policy was last updated in February 2008.</p>
+
+    <div class="buttons">
+        <a href="javascript:window.print();">
+            <img src="/EULA/images/print.gif" alt="Print">
+        </a>
+    </div>
+</div>
+<div id="rightside">
+    <a href="/download/" title="Download WeFi">
+        <img src="/global/master/images/sm_download.png" alt="">
+    </a>
+</div>
+<div class="clear"></div>
+                </div>
+				<!--********Content Ends ***************  -->
+                                            </div>
+        </div>
+    </div>
+</div>
+<div id="footer">
+    <ul>
+        <li>© 2008 WeFi.com |</li>
+        <li><a href="/" title="">Home</a> | </li>
+        <li><a href="/download/" title="">Download</a> | </li>
+        <li><a href="/about/" title="">Corporate</a> | </li>
+        <li><a href="/partners/" title="">Partners</a> | </li>
+        <li><a href="/partners/recommended/" title="">Recommended Products</a> | </li>
+        <li><a href="/blog/" title="">Blog</a> | </li>
+        <li><a href="/forum/" title="">Forum</a> | </li>
+        <li><a href="/faq/" title="Help">Help</a> | </li>
+        <li id="inviteF" style="display:none"><a href="/invite/" title="">Invite Friends</a> | </li>
+        <li><a href="/feedback/" title="">Feedback</a> | </li>
+        <li><a href="/sitemap/" title="">Site Map</a></li>
+    </ul>
+    <ul>
+        <li><a href="/privacy/" title="">Privacy Policy</a> | </li>
+        <li><a href="/EULA/" title="">End User License Agreement</a> | </li>
+        <li><a href="/TOS/" title="">Terms of Service</a></li>
+    </ul>
+    <div id="noSpyware">
+        <img src="/global/master/images/nospyware.gif" alt="No Spyware, No Adware">
+    </div>
+</div>
+</div>
+
+<div id="alertMsgBox">
+	<div class="msgTop">
+		<p id="alertMsgBoxHeader"></p>
 	</div>
-	
-	<div class="clear"></div>
-
-	<div align="center">
-		<div id="main_body">
-			<div id="content">
-				<h2>WeFi Privacy Policy</h2>
-				<p>WeFi (<b>"WeFi"</b>, <b>"us"</b> or <b>"we"</b>) respects the privacy of the visitors to the Website, the home page of which is located at <a href="http://www.wefi.com/">http://www.wefi.com</a>.</p>
-				<p>This privacy policy (the <b>"Privacy Policy"</b>) is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information and Anonymous Information you submit to us through our Services and/or the WeFi connectivity software (the <strong>"WeFi Software"</strong>). Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms set forth in the Terms of Service Agreement for the WeFi Services at <a href="/TOS/">http://www.wefi.com/TOS/</a>) and any WeFi License Agreement (at <a href="/EULA/">http://www.wefi.com/EULA/</a>).</p>
-				<p><b>"Personal Information"</b> is information about you that is personally identifiable to you like your name, address, e-mail address, or phone number, as well as other non-public information that is associated with the foregoing.</p>
-				<p><b>"Anonymous Information"</b> means information that is not associated with or linked to your Personal Information; Anonymous Information does not permit the identification of individual persons.</p>
-				<p>We collect and use Personal Information and Anonymous Information as described in this Privacy Policy.</p>
-				<h3>User Consent</h3>
-				<p>By submitting Personal Information through our Services and/or the WeFi Software, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Information according to this Privacy Policy.</p>
-				<p class="intro">Your Personal Information may be processed by us in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in your country.</p>
-				<h3>Personal Information You Provide to Us</h3>
-				<p>The Personal Information we gather from you helps us learn about our members and potential members of our community and the users of the WeFi Software. We collect Personal Information that you submit to us voluntarily through our Service and/or the WeFi Software. The types of Personal Information we collect are:</p>
-				<ul>
-					<li>When you sign up for our WeFi Community Services, either on the Website or through the WeFi Software, we will collect the username and password that you choose and the e-mail address you provide to us.</li>
-					<li>When you personalize your WeFi Profile, we will collect any information you provide, such as your name or address.</li>
-					<li>When you enter any information, including Personal Information, into any postings or comments within the WeFi Community Services, we will collect such information and this information might be available for some, a subgroup of, or even all members of the WeFi Community Services, depending on how and where this information was posted by you (see <i>Use of Information</i> below).</li>
-					<li>When you use the functionality of the WeFi Software and the Services to import data, such as contact lists, profile information, and/or address books, we will collect the information that you import and/or upload.</li>
-					<li>When you leave us feedback using, we will collect any information that is contained in your feedback.</li>
-					<li>When you contact us by sending us an e-mail, we will collect your e-mail address and any information contained in the e-mail you send us.</li>
-					<li>When you post notes for other Users at Access Points, we will collect the content of such notes.</li>
-					<li>When you use the WeFi Software to share an Access Point, we collect information that is required to enable such sharing, including without limitation, the hardware address of the network adapter of your computer and information that is necessary to access your wireless router.</li>
-					<li>When you use any of the location-based functions of the WeFi Software or the WeFi Community Services, we will collect information about your geographical location. </li>
-				</ul>
-				<p>The WeFi Profile that you create when you sign up for our WeFi Community Services contains Personal Information such as your username, e-mail address and password and only the username and the e-mail address is visible to other members of the WeFi community. All the information in your WeFi Profile that you select to be publicly displayed will be public information and any WeFi Member will be able to see it, including any Personal Information that is stored in your WeFi Profile that you decide to select as public information.</p>
-				<h3>Personal Information Collected Via Technology</h3>
-				<p>As you navigate our Website or use the WeFi Community Services, certain information may also be collected passively, including your Internet protocol address, browser type, and operating system. We also use Cookies and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the information for which you searched and viewed. This type of information is collected to better understand how you use our community and make the community and the Services we provide more useful to you.</p>
-				<p>When you use our WeFi Software to improve your connectivity, the Services collects information about the computer on which the WeFi Software is executed, including without limitation, the hardware address of its network adapter.</p>
-				<p>The WeFi Software also transmits information to the Services that allow the Services to identify your geographical location based on the Acces Points you are using to establish an online connection. We may connect such geographical information with Personal Information we have collected from you, to provide you with specific location-based services that are tailored to meet your needs or interests. </p>
-				<p>An <b>"Internet protocol address"</b> or <b>"IP Address"</b> is a number that is automatically assigned to your computer when you use the Internet.  In some cases your IP Address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP Address probably varies from session to session.  We track IP Addresses solely in conjunction with session cookies to analyze our web page flow.</p>
-				<p><b>"Cookies"</b> are small pieces of information that a website sends to your computer's hard drive while you are viewing a website.  We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Website.  Persistent Cookies can be removed by following Internet browser help file directions.  If you choose to disable Cookies, some areas of the Website may not work properly.</p>
-				<p>We may also contract with third parties in order to promote the products and/or services of these third parties by placing ads on the Website. We may use information that was posted by members of the WeFi Community Services to tailor the display of ads to the interest of the members of our community. Clicking on such ads will direct you to the website of the third party and the third party may also use Cookies in connection with these ads. Please be advised that we are not responsible for these other websites or any content on these other websites and that this Privacy Statement does not govern your visit of these other websites.</p>
-				<h3>Personal Information We Receive From Other Sources</h3>
-				<p>We may receive Personal Information about you from other sources like telephone or fax, or from third parties that provide services for us in connection with the WeFi Community Services.  We may add this information to the information we have already collected from you via our Website or through the WeFi Software in order to improve the our community and our Services.</p>
-				<h3>Use of Information</h3>
-				<p>In general, Personal Information you submit to us is used by us either to sign you up for our community, respond to requests that you make, to improve our community and Services and to better tailor the features, performance and support of the Services and the WeFi Software, and to offer you additional information, opportunities, and functionality. We may also use your Personal Information to provide you with electronic newsletters or promotional e-mails, should you request to receive such communications from us.</p>
-				<p>The idea behind the WeFi community is that the members of our community share information and knowledge, supported by the location-based functionality of the WeFi Software. Therefore, you should assume that any information that you enter into or post on the WeFi Community Services (including the information in your WeFi Profile that you have selected to be public information), either through the Website or through the WeFi Software, will be openly shared with other community members and may also be available to people outside the WeFi community. Depending on where you post your information, you might be able to further specify which members or group of members of the WeFi community will be able to have access to this information. Please be aware that if you enter any Personal Information into publicly available sections of the WeFi Community Services, this information will be displayed to anyone who has access to these sections. These publicly available sections of the WeFi Community Services include, without limitation, any public folder within the WeFi Community Services and even posts and comments of other WeFi Members.</p>
-				<p>Members are also able to search for publicly available information that was posted by a WeFi Member in a public section of the WeFi Community Services, or for information in a WeFi Profile. </p>
-				<p>We use the location-based information we collect from you when you use the WeFi Software of the relevant functions of the WeFi Community Services to provide you with specific information and services that are related to your location. Please be aware that this information might also be available to other WeFi Members. </p>
-				<p>We may create Anonymous Information records from Personal Information by excluding information (such as your name) that make the information personally identifiable to you.  We may use this Anonymous Information to analyze usage patterns so that we may enhance our community and Services.  We reserve the right to use and disclose Anonymous Information to third parties in our discretion. </p>
-				<h3>Feedback</h3>
-				<p>If you provide feedback to us, we may use and disclose such feedback for any purpose, provided we will not associate such feedback with your Personal Information.  We will collect any information contained in such communication and will treat the Personal Information in such communication in accordance with this Privacy Policy.</p>
-				<h3>Disclosure of Personal Information</h3>
-				<p>Except as otherwise stated in this Privacy Policy, we do not trade, rent, or share your Personal Information with third parties, unless you ask or authorize us to do so. </p>
-				<p>We may provide your Personal Information to third party service providers who work on behalf of or with us to provide some of the services and features of the WeFi community and Services and to help us communicate with the members of our community. However, these service providers do not have any independent right to share this information (expect pursuant to a legal requirement such as a subpoena or warrant).</p>
-				<p>Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, <b>"Affiliates"</b>), we may in the future. We may share some or all of your Personal Information with these Affiliates, in which case we will require our Affiliates to honor this Privacy Policy.</p>
-				<p>If our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.</p>
-				<p>We may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; or (b) to protect and defend the rights or property of us, Users and Visitors of our Website, or third parties. </p>
-				<h3>Your Choices Regarding Your Personal Information</h3>
-				<p>We offer you choices regarding the collection, use and sharing of your Personal Information. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to <strong>"opt-out"</strong> by following the unsubscribe instructions provided in the e-mail your receive or by contacting us directly (please see contact information below).</p>
-				<p>Despite your indicated e-mail preferences, we may send you administrative e-mails regarding our community and Services or notices of any updates to our Terms of Service for the WeFi Service, any WeFi License Agreement, or Privacy Policy. </p>
-				<p>You may change any of the Personal Information in your WeFi Profile by editing it.</p>
-				<h3>Regarding Children</h3>
-				<p>We do not intentionally gather Personal Information about Visitors or Users who are under the age of 13.</p>
-				<h3>Other Sites</h3>
-				<p>Our provision of links to other websites or locations is for your convenience and does not signify our endorsement of such other websites or location or its contents. Links to other websites or locations may also be posted by other WeFi Members within the WeFi community. We have no control over, do not review, and cannot be responsible for these outside websites or their content. Please be aware that the terms of our Privacy Policy do not apply to these outside websites.</p>
-				<h3>Security</h3>
-				<p>We use reasonable measures to maintain the security of your Personal Information. However, no company, including us, can fully eliminate security risks associated with Personal Information.</p>
-				<h3>Contact Us</h3>
-				<p>Should you have any questions or concerns regarding this Privacy Policy, please contact us at <a href="mailto:support@wefi.com">support@wefi.com</a></p>
-				<h3>Privacy Policy Updates</h3>
-				<p>This Privacy Policy is subject to occasional revision, and if we make any substantial changes in the way we use or disclose your Personal Information, we will post a notice on this page.  If you object to any such changes, you must cease using our Services. Continued use of our Services following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.</p>
-				<p>This Policy was last updated in December 2006.</p>
-			<div class="clear"></div>
-		</div>
+	<div class="msgMid">
+		<p id="alertMsgBoxDetail"></p>
+		<input type="button" class="buttonOk" onclick="glCloseAlertxx();" id="alertMsgBoxButton">
 	</div>
+	<div class="msgBot"></div>
+</div>
 
-
-
-	<div align="center">
-		<div id="footer">
-			<p id="footer_top"><a href="#top" title="WeFi">Top</a></p>
-			<div class="clear"></div>
-			<a href="/" title="WeFi"><img src="/images/template/logo_small.jpg" alt="WeFi" border="0" id="footer_logo"></a>
-			<ul>
-				<li><a href="/" title="Home">Home</a></li>
-				<li><a href="/about.jsp" title="About">About</a></li>
-				<li><a href="/maps" title="Maps">Maps</a></li>
-				<li><a href="/download/" title="Download">Download</a></li>
-				<li><a href="http://www.wefi.com:81/faq/" title="FAQ">Support</a></li>
-				<li><a href="http://www.wefi.com:81/blog/" title="Blog">Blog</a></li>
-				<li><a href="/feedback/" title="Feedback">Feedback</a></li>
-				<li><a href="/TOS/index.jsp" title="Terms of service">Terms of service</a></li>
-				<li><a href="/privacy/index.jsp" title="Privacy policy">Privacy policy</a></li>
-			</ul>
-		</div>
+<div id="msgBox">
+	<div class="msgTop">
+		<p id="msgBoxHeader">Loading...</p>
 	</div>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+	<div class="msgMid">
+		<img src="/global/images/loading.gif" alt="Please Wait" height="20px" width="20px" id="loading">
+		<p id="msgBoxDetail">Please wait while we process your request</p>
+	</div>
+	<div class="msgBot"></div>
+</div>
+
+<div id="msgAlert">
+	<div class="msgTop">
+		<p id="msgAlertHeader"></p>
+	</div>
+	<div class="msgMid">
+		<p id="msgAlertDetail"></p>
+		<input type="button" class="buttonOk" onclick="return glCloseAlert()" id="msgAlertButton">
+	</div>
+	<div class="msgBot"></div>
+</div>
+
 <script type="text/javascript">
-_uacct = "UA-2158202-1";
-urchinTracker();
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker((location.href.match(new RegExp("(http|https)://cf\.")))?"UA-2158202-3":"UA-2158202-1");
+pageTracker._trackPageview();
 </script>
 
-</div></body></html>
+
+</body></html>
