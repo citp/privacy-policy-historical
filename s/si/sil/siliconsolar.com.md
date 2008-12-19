@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the siliconsolar.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517183943id_/http%3A//www.siliconsolar.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconsolar.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219025920id_/http%3A//www.siliconsolar.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Solar Energy Privacy Policy
 
 In our ongoing effort to improve the services and features we provide to our customers, Silicon Solar will continue to implement new technologies from time to time. As a result, this policy is subject to change without prior notice. We encourage you to review our privacy policy periodically.
 
@@ -8,8 +8,8 @@ In our ongoing effort to improve the services and features we provide to our cus
 
 The type of information we gather online falls into five general categories: 
 
-  * Online Order Information 
-  * Voluntary Registered Shopper Information 
+  * Online Order Information
+  * Voluntary Registered Shopper Information
 
 **WHAT HAPPENS TO MY INFORMATION AFTER WE RECEIVE IT?**
 
@@ -19,11 +19,11 @@ SSL protects information en route to us. THAWte certificate technology helps ens
 
 If you choose to purchase products from any of Silicon Solar's websites, we require the following information in order to fulfill your order: 
 
-  * Name 
-  * Contact phone number (s) 
-  * Address 
-  * E-mail address 
-  * Credit card account information or payment information. 
+  * Name
+  * Contact phone number (s)
+  * Address
+  * E-mail address
+  * Credit card account information or payment information.
 
 We use this information to process your order and to make sure that it is delivered to you. Aggregated order information is also used to track and analyze overall shopping trends, which allows Silicon Solar to improve product offerings and services to its members and customers.
 
@@ -41,4 +41,4 @@ We understand that many consumers are concerned about Internet security. Silicon
 
 We work hard to protect the information that you send to us while it is in route to and from our sites. To provide secure transmission, Silicon Solar employs Secure Sockets Layer technology (SSL) on those pages that involve sensitive information such as credit card numbers. SSL, which is supported by a vast majority of Internet browsers available today, is the most commonly employed method of secure, encrypted communication used on the Internet.
 
-We have also obtained THAWte digital security certificates for all of our websites. THAWte is an independent third party that authenticates the identity of others on the Internet. By registering with THAWte, we provide you a method of independently authenticating that the entity you are dealing with over the Internet is actually Silicon Solar. 
+We have also obtained THAWte digital security certificates for all of our websites. THAWte is an independent third party that authenticates the identity of others on the Internet. By registering with THAWte, we provide you a method of independently authenticating that the entity you are dealing with over the Internet is actually Silicon Solar.
