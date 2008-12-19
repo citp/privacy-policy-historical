@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the arizonahighways.com privacy policy that was archived on 2008-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080616185823id_/http%3A//www.arizonahighways.com/sitelink/index.cfm%3FcontentID%3D187) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the arizonahighways.com privacy policy that was archived on 2008-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219111539id_/http%3A//www.arizonahighways.com/sitelink/index.cfm%3FcontentID%3D187) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <style type="text/css" media="all">
@@ -95,6 +95,54 @@ background-repeat:repeat-x;
 	<meta http-equiv="cache-control" content="must-revalidate">	
     
 
+	
+
+ 
+<script type="text/javascript">
+  <!--
+  // Detect if browser is >= Netscape 3 or >= IE 4
+  bName = navigator.appName;
+  bVer = parseInt(navigator.appVersion);
+  if ((bName == 'Netscape' && bVer >= 3) || (bName == 'Microsoft Internet Explorer' && bVer >= 4)) 
+    br = 'n3'; 
+  else 
+    br = 'n2';
+  
+  var banner = 0;
+  var init = 1;
+    
+	var bannerIDs = new Array(13, 14);
+	var bannerPics = new Array('2_mesa_azhighways.gif', '08holidayAHM.gif');
+	var bannerAlts = new Array('Mesa CVB', 'AHM Holiday Gift Renewal 08');
+  
+  
+	var rotation = 20000;
+  
+	//Function to Rotate through banners  
+	function rotateBanner() {
+		if (bannerPics.length > 0) {
+			if (br == 'n3') { 
+				if (init == 1) {
+					init = 0;
+					window.setTimeout('rotateBanner();', rotation);				
+					return true;
+				}
+				if (++banner > bannerPics.length - 1) banner = 0;
+	      		document.images['topbanner'].alt = bannerAlts[banner];
+				document.images['topbanner'].src = '../images/banners/' + bannerPics[banner];
+				window.setTimeout('rotateBanner();', rotation);
+			} else {
+	  			if (++banner > bannerPics.length - 1) banner = 0;
+			}
+		}
+	}
+  
+
+  function bannerLink() {
+    var newwin = openWindow('../banners/?BannerID=' + bannerIDs[banner]);
+  }
+  //-->
+</script>
 
 
 
@@ -155,7 +203,7 @@ background-repeat:repeat-x;
 	</script>
 
 </head>
-<body style="background-color:#2a1e19;background-image:url(http://www.arizonahighways.com/images/background.jpg); background-repeat:repeat-x; background-position:top left; background-attachment:scroll;" onload="">
+<body style="background-color:#2a1e19;background-image:url(http://www.arizonahighways.com/images/background.jpg); background-repeat:repeat-x; background-position:top left; background-attachment:scroll;" onload="rotateBanner()">
 <div id="container" align="center">
 <table id="containerTable" width="800" border="0" cellpadding="0" cellspacing="0" align="center">
   <!--DWLayoutTable-->
@@ -166,18 +214,14 @@ background-repeat:repeat-x;
         <td align="right"><div style="display:inline;position:relative; top:50px;left:0px; width:100%;"><form name="sitesearch" method="post" action="http://www.arizonahighways.com/MainSearch/index.cfm?action=search" style="display: inline; margin: 0;"><input name="homesearch" type="text" id="homesearch" size="17" onfocus="this.value=''">
               <input type="Submit" class="searchbutton" name="btnSearch" value="Site Search" id="btnSearch"></form></div></td>
         <td valign="middle" align="center"> 
-                        
-                        <div id="bannercontainer">
-                        <div id="bannertxt" class="bantxt"><a href="https://www.neodata.com/pub/arzh/riskfree.shtml" class="bantxt" target="_blank">Risk Free Trial Offer</a></div>
-                        <div id="bannerimg"><a href="https://www.neodata.com/pub/arzh/riskfree.shtml" target="_blank"><img src="../images/banners/coverpic_trial.jpg" alt="Risk Free Trial Offer" height="80" border="0"></a></div>
-                      </div>
-  </td>
+						<a href="javascript:bannerLink();"><img alt="Mesa CVB" border="0" id="topbanner" name="topbanner" src="../images/banners/2_mesa_azhighways.gif"></a>
+					</td>
       </tr>
     </tbody></table>
         <table width="800" cellpadding="0" cellspacing="0" id="menuTable">
           <tbody><tr>
             <td> 
-<div class="imrcmain0 imgl" style="width:800px;z-index:999999;position:relative;">
+<div class="imrcmain0 imgl" style="width:800px;z-index:80;position:relative;">
 	<div class="imcm" id="imouter0">
 		
 	<ul id="imenus0">
@@ -238,7 +282,7 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="dvs8" id="ulitem0z0z0z6"><a href="../sitelink/index.cfm?contentid=1007" id="ulaitem0z0z0z6">Calendars</a>
+			<li class="dvs8" id="ulitem0z0z0z6"><a href="../sitelink/index.cfm?contentid=1007" id="ulaitem0z0z0z6">2009 Calendars</a>
 				
 			</li>
 		
@@ -256,7 +300,7 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="dvs8" id="ulitem0z0z0z9"><a href="../sitelink/index.cfm?contentid=998" id="ulaitem0z0z0z9">Clothing</a>
+			<li class="dvs8" id="ulitem0z0z0z9"><a href="../sitelink/index.cfm?contentid=998" id="ulaitem0z0z0z9">Clothing/Purses</a>
 				
 			</li>
 		
@@ -298,7 +342,7 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="dvs8" id="ulitem0z0z0z16"><a href="../sitelink/index.cfm?contentid=1005" id="ulaitem0z0z0z16">Puzzles and Playing Cards</a>
+			<li class="dvs8" id="ulitem0z0z0z16"><a href="../sitelink/index.cfm?contentid=1005" id="ulaitem0z0z0z16">Games and Puzzles</a>
 				
 			</li>
 		
@@ -314,6 +358,12 @@ background-repeat:repeat-x;
 				
 			</li>
 		
+
+		
+			<li class="dvs8" id="ulitem0z0z0z19"><a href="../sitelink/index.cfm?contentid=1205" id="ulaitem0z0z0z19">CLEARANCE SECTION</a>
+				
+			</li>
+		
 		</ul>
 	
 					</div>
@@ -323,7 +373,7 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="dvs8" id="ulitem0z0z1"><a href="../sitelink/index.cfm?contentid=113" id="ulaitem0z0z1">Corporate Sales</a>
+			<li class="dvs8" id="ulitem0z0z1"><a href="../sitelink/index.cfm?contentid=114" id="ulaitem0z0z1">Customer Product Account Management</a>
 				
 				<div class="imsc">
 					<div class="imsubc" style="width:130px; top: -20px; left: 135px; "><div class="imunder"></div><div></div>
@@ -332,25 +382,19 @@ background-repeat:repeat-x;
 	
 
 		
-			<li class="dvs8" id="ulitem0z0z1z0"><a href="../sitelink/index.cfm?contentid=118" id="ulaitem0z0z1z0">Imprinted Holiday Cards</a>
+			<li class="dvs8" id="ulitem0z0z1z0"><a href="../sitelink/index.cfm?contentid=122" id="ulaitem0z0z1z0">My Account</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs8" id="ulitem0z0z1z1"><a href="../sitelink/index.cfm?contentid=119" id="ulaitem0z0z1z1">Imprinted Calendars</a>
+			<li class="dvs8" id="ulitem0z0z1z1"><a href="../sitelink/index.cfm?contentid=123" id="ulaitem0z0z1z1">My Wish List</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs8" id="ulitem0z0z1z2"><a href="../sitelink/index.cfm?contentid=120" id="ulaitem0z0z1z2">Partnerships</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs8" id="ulitem0z0z1z3"><a href="../sitelink/index.cfm?contentid=121" id="ulaitem0z0z1z3">Trade / Bulk Sales</a>
+			<li class="dvs8" id="ulitem0z0z1z2"><a href="../sitelink/index.cfm?contentid=126" id="ulaitem0z0z1z2">Change Address</a>
 				
 			</li>
 		
@@ -363,28 +407,40 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="dvs8" id="ulitem0z0z2"><a href="../sitelink/index.cfm?contentid=114" id="ulaitem0z0z2">Customer Product Account Management</a>
+			<li class="dvs8" id="ulitem0z0z2"><a href="../sitelink/index.cfm?contentid=115" id="ulaitem0z0z2">Customer Service</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs8" id="ulitem0z0z3"><a href="../sitelink/index.cfm?contentid=116" id="ulaitem0z0z3">Gift Shops Info</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs8" id="ulitem0z0z4"><a href="../sitelink/index.cfm?contentid=113" id="ulaitem0z0z4">Corporate Sales</a>
 				
 				<div class="imsc">
 					<div class="imsubc" style="width:130px; top: -20px; left: 135px; "><div class="imunder"></div><div></div>
 						
-	<ul style="background-color:#cfd0e1;margin:0px 0px;" id="x1ub0z0z2">
+	<ul style="background-color:#cfd0e1;margin:0px 0px;" id="x1ub0z0z4">
 	
 
 		
-			<li class="dvs8" id="ulitem0z0z2z0"><a href="../sitelink/index.cfm?contentid=122" id="ulaitem0z0z2z0">My Account</a>
+			<li class="dvs8" id="ulitem0z0z4z0"><a href="../sitelink/index.cfm?contentid=118" id="ulaitem0z0z4z0">Imprinted Holiday Cards</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs8" id="ulitem0z0z2z1"><a href="../sitelink/index.cfm?contentid=123" id="ulaitem0z0z2z1">My Wish List</a>
+			<li class="dvs8" id="ulitem0z0z4z1"><a href="../sitelink/index.cfm?contentid=119" id="ulaitem0z0z4z1">Imprinted Calendars</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs8" id="ulitem0z0z2z2"><a href="../sitelink/index.cfm?contentid=126" id="ulaitem0z0z2z2">Change Address</a>
+			<li class="dvs8" id="ulitem0z0z4z2"><a href="../sitelink/index.cfm?contentid=121" id="ulaitem0z0z4z2">Trade / Bulk Sales</a>
 				
 			</li>
 		
@@ -392,18 +448,6 @@ background-repeat:repeat-x;
 	
 					</div>
 				</div>
-				
-			</li>
-		
-
-		
-			<li class="dvs8" id="ulitem0z0z3"><a href="../sitelink/index.cfm?contentid=115" id="ulaitem0z0z3">Customer Service</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs8" id="ulitem0z0z4"><a href="../sitelink/index.cfm?contentid=116" id="ulaitem0z0z4">Gift Shops Info</a>
 				
 			</li>
 		
@@ -415,13 +459,13 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="dvs8" id="ulitem0z0z6"><a href="../sitelink/index.cfm?contentid=484" id="ulaitem0z0z6">Books</a>
+			<li class="dvs8" id="ulitem0z0z6"><a href="../sitelink/index.cfm?contentid=484" id="ulaitem0z0z6">Shop for Books</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs8" id="ulitem0z0z7"><a href="../sitelink/index.cfm?contentid=485" id="ulaitem0z0z7">Calendars</a>
+			<li class="dvs8" id="ulitem0z0z7"><a href="../sitelink/index.cfm?contentid=485" id="ulaitem0z0z7">Shop for Calendars</a>
 				
 			</li>
 		
@@ -473,13 +517,79 @@ background-repeat:repeat-x;
 	
 
 		
-			<li class="dvs7" id="ulitem0z1z1z0z0"><a href="../sitelink/index.cfm?contentid=1120" id="ulaitem0z1z1z0z0">May 2008</a>
+			<li class="dvs7" id="ulitem0z1z1z0z0"><a href="../sitelink/index.cfm?contentid=1206" id="ulaitem0z1z1z0z0">November 2008</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs7" id="ulitem0z1z1z0z1"><a href="../sitelink/index.cfm?contentid=1107" id="ulaitem0z1z1z0z1">April 2008</a>
+			<li class="dvs7" id="ulitem0z1z1z0z1"><a href="../sitelink/index.cfm?contentid=1199" id="ulaitem0z1z1z0z1">October 2008</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs7" id="ulitem0z1z1z0z2"><a href="../sitelink/index.cfm?contentid=1187" id="ulaitem0z1z1z0z2">September 2008</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs7" id="ulitem0z1z1z0z3"><a href="../sitelink/index.cfm?contentid=1168" id="ulaitem0z1z1z0z3">August 2008</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs7" id="ulitem0z1z1z0z4"><a href="../sitelink/index.cfm?contentid=1162" id="ulaitem0z1z1z0z4">July 2008</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs7" id="ulitem0z1z1z0z5"><a href="../sitelink/index.cfm?contentid=1158" id="ulaitem0z1z1z0z5">June 2008</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs7" id="ulitem0z1z1z0z6"><a href="../sitelink/index.cfm?contentid=1120" id="ulaitem0z1z1z0z6">May 2008</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs7" id="ulitem0z1z1z0z7"><a href="../sitelink/index.cfm?contentid=1107" id="ulaitem0z1z1z0z7">April 2008</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs7" id="ulitem0z1z1z0z8"><a href="../sitelink/index.cfm?contentid=1098" id="ulaitem0z1z1z0z8">March 2008</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs7" id="ulitem0z1z1z0z9"><a href="../sitelink/index.cfm?contentid=1093" id="ulaitem0z1z1z0z9">February 2008</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs7" id="ulitem0z1z1z0z10"><a href="../sitelink/index.cfm?contentid=1092" id="ulaitem0z1z1z0z10">January 2008</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs7" id="ulitem0z1z1z0z11"><a href="../sitelink/index.cfm?contentid=1080" id="ulaitem0z1z1z0z11">December 2007</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs7" id="ulitem0z1z1z0z12"><a href="../sitelink/index.cfm?contentid=1074" id="ulaitem0z1z1z0z12">November 2007</a>
 				
 			</li>
 		
@@ -511,13 +621,69 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="dvs7" id="ulitem0z1z4"><a href="../sitelink/index.cfm?contentid=50" id="ulaitem0z1z4">Featured Prints</a>
+			<li class="dvs7" id="ulitem0z1z4"><a href="../sitelink/index.cfm?contentid=1190" id="ulaitem0z1z4">Where Is This?</a>
+				
+				<div class="imsc">
+					<div class="imsubc" style="width:130px; top: -20px; left: 135px; "><div class="imunder"></div><div></div>
+						
+	<ul style="background-color:#dcc5c5;margin:0px 0px;" id="x1ub0z1z4">
+	
+
+		
+			<li class="dvs7" id="ulitem0z1z4z0"><a href="../sitelink/index.cfm?contentid=1191" id="ulaitem0z1z4z0">Where Is This? Archive</a>
+				
+				<div class="imsc">
+					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
+						
+	<ul style="background-color:#dcc5c5;margin:0px 0px;" id="x1ub0z1z4z0">
+	
+
+		
+			<li class="dvs7" id="ulitem0z1z4z0z0"><a href="../sitelink/index.cfm?contentid=1209" id="ulaitem0z1z4z0z0">November 2008</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs7" id="ulitem0z1z5"><a href="../sitelink/index.cfm?contentid=51" id="ulaitem0z1z5">Digital Edition</a>
+			<li class="dvs7" id="ulitem0z1z4z0z1"><a href="../sitelink/index.cfm?contentid=1204" id="ulaitem0z1z4z0z1">October 2008</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs7" id="ulitem0z1z4z0z2"><a href="../sitelink/index.cfm?contentid=1197" id="ulaitem0z1z4z0z2">September 2008</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs7" id="ulitem0z1z4z0z3"><a href="../sitelink/index.cfm?contentid=1192" id="ulaitem0z1z4z0z3">August 2008</a>
+				
+			</li>
+		
+		</ul>
+	
+					</div>
+				</div>
+				
+			</li>
+		
+		</ul>
+	
+					</div>
+				</div>
+				
+			</li>
+		
+
+		
+			<li class="dvs7" id="ulitem0z1z5"><a href="../sitelink/index.cfm?contentid=50" id="ulaitem0z1z5">Featured Prints</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs7" id="ulitem0z1z6"><a href="../sitelink/index.cfm?contentid=51" id="ulaitem0z1z6">Digital Edition</a>
 				
 			</li>
 		
@@ -609,43 +775,357 @@ background-repeat:repeat-x;
 	
 
 		
-			<li class="dvs6" id="ulitem0z2z2z0z0"><a href="../sitelink/index.cfm?contentid=1133" id="ulaitem0z2z2z0z0">May 2008: Patagonia Lake</a>
+			<li class="dvs6" id="ulitem0z2z2z0z0"><a href="../sitelink/index.cfm?contentid=1203" id="ulaitem0z2z2z0z0">Ghost Town Cycle Tour</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs6" id="ulitem0z2z2z0z1"><a href="../sitelink/index.cfm?contentid=1111" id="ulaitem0z2z2z0z1">April 2008: Boyce Thompson Arboretum</a>
+			<li class="dvs6" id="ulitem0z2z2z0z1"><a href="../sitelink/index.cfm?contentid=1184" id="ulaitem0z2z2z0z1">September 2008: Playing the Slots — Arizona Style</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs6" id="ulitem0z2z2z0z2"><a href="../sitelink/index.cfm?contentid=1100" id="ulaitem0z2z2z0z2">March 2008: Picacho Peak on Horseback</a>
+			<li class="dvs6" id="ulitem0z2z2z0z2"><a href="../sitelink/index.cfm?contentid=1174" id="ulaitem0z2z2z0z2">August 2008: Navajo Bed and Breakfast</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs6" id="ulitem0z2z2z0z3"><a href="../sitelink/index.cfm?contentid=1095" id="ulaitem0z2z2z0z3">February 2008: Castle Dome Museum</a>
+			<li class="dvs6" id="ulitem0z2z2z0z3"><a href="../sitelink/index.cfm?contentid=1167" id="ulaitem0z2z2z0z3">July 2008: Virgin River Gorge</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs6" id="ulitem0z2z2z0z4"><a href="../sitelink/index.cfm?contentid=1083" id="ulaitem0z2z2z0z4">January 2008: The Salsa Trail</a>
+			<li class="dvs6" id="ulitem0z2z2z0z4"><a href="../sitelink/index.cfm?contentid=1161" id="ulaitem0z2z2z0z4">June 2008: John Wayne's Ranch</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs6" id="ulitem0z2z2z0z5"><a href="../sitelink/index.cfm?contentid=1082" id="ulaitem0z2z2z0z5">December 2007: Flagstaff</a>
+			<li class="dvs6" id="ulitem0z2z2z0z5"><a href="../sitelink/index.cfm?contentid=1133" id="ulaitem0z2z2z0z5">May 2008: Patagonia Lake</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs6" id="ulitem0z2z2z0z6"><a href="../sitelink/index.cfm?contentid=1055" id="ulaitem0z2z2z0z6">November 2007: Yuma</a>
+			<li class="dvs6" id="ulitem0z2z2z0z6"><a href="../sitelink/index.cfm?contentid=1111" id="ulaitem0z2z2z0z6">April 2008: Boyce Thompson Arboretum</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z2z0z7"><a href="../sitelink/index.cfm?contentid=1100" id="ulaitem0z2z2z0z7">March 2008: Picacho Peak on Horseback</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z2z0z8"><a href="../sitelink/index.cfm?contentid=1095" id="ulaitem0z2z2z0z8">February 2008: Castle Dome Museum</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z2z0z9"><a href="../sitelink/index.cfm?contentid=1083" id="ulaitem0z2z2z0z9">January 2008: The Salsa Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z2z0z10"><a href="../sitelink/index.cfm?contentid=1082" id="ulaitem0z2z2z0z10">December 2007: Flagstaff</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z2z0z11"><a href="../sitelink/index.cfm?contentid=1055" id="ulaitem0z2z2z0z11">November 2007: Yuma</a>
+				
+			</li>
+		
+		</ul>
+	
+					</div>
+				</div>
+				
+			</li>
+		
+		</ul>
+	
+					</div>
+				</div>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3"><a href="../sitelink/index.cfm?contentid=843" id="ulaitem0z2z3">Archives</a>
+				
+				<div class="imsc">
+					<div class="imsubc" style="width:130px; top: -20px; left: 135px; "><div class="imunder"></div><div></div>
+						
+	<ul style="background-color:#ebe7c5;margin:0px 0px;" id="x1ub0z2z3">
+	
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0"><a href="../sitelink/index.cfm?contentid=844" id="ulaitem0z2z3z0">Trip Planner</a>
+				
+				<div class="imsc">
+					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
+						
+	<ul style="background-color:#ebe7c5;margin:0px 0px;" id="x1ub0z2z3z0">
+	
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z0"><a href="../sitelink/index.cfm?contentid=885" id="ulaitem0z2z3z0z0">Historic Destinations Guide</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z1"><a href="../sitelink/index.cfm?contentid=892" id="ulaitem0z2z3z0z1">State Parks Guide</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z2"><a href="../sitelink/index.cfm?contentid=896" id="ulaitem0z2z3z0z2">Riordan Mansion State Park</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z3"><a href="../sitelink/index.cfm?contentid=893" id="ulaitem0z2z3z0z3">Dead Horse Ranch State Park</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z4"><a href="../sitelink/index.cfm?contentid=891" id="ulaitem0z2z3z0z4">SEPT TP Boyce Thompson Arboretum</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z5"><a href="../sitelink/index.cfm?contentid=890" id="ulaitem0z2z3z0z5">SEPT TP Alamo Lake</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z6"><a href="../sitelink/index.cfm?contentid=894" id="ulaitem0z2z3z0z6">SEPT TP Kartchner Caverns</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z7"><a href="../sitelink/index.cfm?contentid=895" id="ulaitem0z2z3z0z7">SEPT TP Oracle State Park</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z8"><a href="../sitelink/index.cfm?contentid=845" id="ulaitem0z2z3z0z8">06 TRIP PLANNER october</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z9"><a href="../sitelink/index.cfm?contentid=848" id="ulaitem0z2z3z0z9">Prescott Folk Music Festival</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z10"><a href="../sitelink/index.cfm?contentid=847" id="ulaitem0z2z3z0z10">06 Trip Planner OCTOBER dad</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z11"><a href="../sitelink/index.cfm?contentid=846" id="ulaitem0z2z3z0z11">06 Trip Planner OCTOBER bugle</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z12"><a href="../sitelink/index.cfm?contentid=849" id="ulaitem0z2z3z0z12">06 Trip Planner OCTOBER jetski</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z13"><a href="../sitelink/index.cfm?contentid=859" id="ulaitem0z2z3z0z13">November 06 TP low country fall color</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z14"><a href="../sitelink/index.cfm?contentid=860" id="ulaitem0z2z3z0z14">November 06 TP Rainbow Forest Museum</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z15"><a href="../sitelink/index.cfm?contentid=858" id="ulaitem0z2z3z0z15">November 06 TP AZ Art Walks</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z16"><a href="../sitelink/index.cfm?contentid=861" id="ulaitem0z2z3z0z16">DECEMBER 06 TRIP PLANNER</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z17"><a href="../sitelink/index.cfm?contentid=862" id="ulaitem0z2z3z0z17">DEC 06 TP holiday happenings</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z18"><a href="../sitelink/index.cfm?contentid=863" id="ulaitem0z2z3z0z18">DEC 06 TP Snow Country Fun Guide </a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z19"><a href="../sitelink/index.cfm?contentid=855" id="ulaitem0z2z3z0z19">JAN 07 TP AZ from The Air</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z20"><a href="../sitelink/index.cfm?contentid=856" id="ulaitem0z2z3z0z20">JAN 07 TP Grand Canyon Helicopter</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z21"><a href="../sitelink/index.cfm?contentid=865" id="ulaitem0z2z3z0z21">FEB 07 TP Expanded Res Guide</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z22"><a href="../sitelink/index.cfm?contentid=867" id="ulaitem0z2z3z0z22">March 07 TP Wildflower Guide</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z23"><a href="../sitelink/index.cfm?contentid=868" id="ulaitem0z2z3z0z23">SR80 Small Town Tour 307</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z24"><a href="../sitelink/index.cfm?contentid=871" id="ulaitem0z2z3z0z24">APR 07 TP Slot Canyons</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z25"><a href="../sitelink/index.cfm?contentid=872" id="ulaitem0z2z3z0z25">APR 07 TP Superstition Hikes</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z26"><a href="../sitelink/index.cfm?contentid=870" id="ulaitem0z2z3z0z26">APR 07 TP Rock Climbing</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z27"><a href="../sitelink/index.cfm?contentid=876" id="ulaitem0z2z3z0z27">507 TP Wine Guide</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z28"><a href="../sitelink/index.cfm?contentid=875" id="ulaitem0z2z3z0z28">507 TP Verde Vineyards</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z29"><a href="../sitelink/index.cfm?contentid=874" id="ulaitem0z2z3z0z29">507 TP Duke</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z30"><a href="../sitelink/index.cfm?contentid=880" id="ulaitem0z2z3z0z30">JUNE 07 TP SOUTH rim</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z31"><a href="../sitelink/index.cfm?contentid=879" id="ulaitem0z2z3z0z31">607 TP Rim Roaming Guide</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z32"><a href="../sitelink/index.cfm?contentid=878" id="ulaitem0z2z3z0z32">607 TP NORTH rim guide</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z33"><a href="../sitelink/index.cfm?contentid=883" id="ulaitem0z2z3z0z33">JULY 07 TP volunteer</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z34"><a href="../sitelink/index.cfm?contentid=882" id="ulaitem0z2z3z0z34">JULY 07 TP white mountains guide</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z35"><a href="../sitelink/index.cfm?contentid=888" id="ulaitem0z2z3z0z35">10 Historical Sites</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z36"><a href="../sitelink/index.cfm?contentid=887" id="ulaitem0z2z3z0z36">History Travel Guide</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z37"><a href="../sitelink/index.cfm?contentid=899" id="ulaitem0z2z3z0z37">SEPT 07 TP TRAINS</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z38"><a href="../sitelink/index.cfm?contentid=898" id="ulaitem0z2z3z0z38">SEPT 07 TP Canyoneering Guide</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z39"><a href="../sitelink/index.cfm?contentid=851" id="ulaitem0z2z3z0z39">OCT 07 TP BACK ROADS GUIDE</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z40"><a href="../sitelink/index.cfm?contentid=852" id="ulaitem0z2z3z0z40">OCT 07 TP Haunted AZ Guide</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs6" id="ulitem0z2z3z0z41"><a href="../sitelink/index.cfm?contentid=853" id="ulaitem0z2z3z0z41">OCT 07 TP HOTELS</a>
 				
 			</li>
 		
@@ -789,43 +1269,79 @@ background-repeat:repeat-x;
 	
 
 		
-			<li class="dvs5" id="ulitem0z3z2z0z0"><a href="../sitelink/index.cfm?contentid=1135" id="ulaitem0z3z2z0z0">Hopi Pottery – Today’s Artists Keep Tradition</a>
+			<li class="dvs5" id="ulitem0z3z2z0z0"><a href="../sitelink/index.cfm?contentid=1212" id="ulaitem0z3z2z0z0">November 2008</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs5" id="ulitem0z3z2z0z1"><a href="../sitelink/index.cfm?contentid=1110" id="ulaitem0z3z2z0z1">Kokopelli, a Case of Mistaken Identity</a>
+			<li class="dvs5" id="ulitem0z3z2z0z1"><a href="../sitelink/index.cfm?contentid=1202" id="ulaitem0z3z2z0z1">October 2008: Halloween at Yuma Prison</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs5" id="ulitem0z3z2z0z2"><a href="../sitelink/index.cfm?contentid=1105" id="ulaitem0z3z2z0z2">The Luck of the Irish - Arizona Cowboy Bill O’Brien</a>
+			<li class="dvs5" id="ulitem0z3z2z0z2"><a href="../sitelink/index.cfm?contentid=1186" id="ulaitem0z3z2z0z2">Arizona’s Historic Hit Parade</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs5" id="ulitem0z3z2z0z3"><a href="../sitelink/index.cfm?contentid=1091" id="ulaitem0z3z2z0z3">Cactus Carver Bruce Law</a>
+			<li class="dvs5" id="ulitem0z3z2z0z3"><a href="../sitelink/index.cfm?contentid=1173" id="ulaitem0z3z2z0z3">Nursemaids of the Sonoran Desert — Ironwood Trees</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs5" id="ulitem0z3z2z0z4"><a href="../sitelink/index.cfm?contentid=1087" id="ulaitem0z3z2z0z4">Meteor Crater's Impact</a>
+			<li class="dvs5" id="ulitem0z3z2z0z4"><a href="../sitelink/index.cfm?contentid=1163" id="ulaitem0z3z2z0z4">P.R. Childs, Hero of the Charcoal Camp</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs5" id="ulitem0z3z2z0z5"><a href="../sitelink/index.cfm?contentid=1086" id="ulaitem0z3z2z0z5">The Myth of the Owl</a>
+			<li class="dvs5" id="ulitem0z3z2z0z5"><a href="../sitelink/index.cfm?contentid=1157" id="ulaitem0z3z2z0z5">Arizona’s Assortment of Roadside Oddities</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs5" id="ulitem0z3z2z0z6"><a href="../sitelink/index.cfm?contentid=1085" id="ulaitem0z3z2z0z6">The Red Ghost Galumphs</a>
+			<li class="dvs5" id="ulitem0z3z2z0z6"><a href="../sitelink/index.cfm?contentid=1135" id="ulaitem0z3z2z0z6">Hopi Pottery – Today’s Artists Keep Tradition</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs5" id="ulitem0z3z2z0z7"><a href="../sitelink/index.cfm?contentid=1110" id="ulaitem0z3z2z0z7">Kokopelli, a Case of Mistaken Identity</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs5" id="ulitem0z3z2z0z8"><a href="../sitelink/index.cfm?contentid=1105" id="ulaitem0z3z2z0z8">The Luck of the Irish - Arizona Cowboy Bill O’Brien</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs5" id="ulitem0z3z2z0z9"><a href="../sitelink/index.cfm?contentid=1091" id="ulaitem0z3z2z0z9">Cactus Carver Bruce Law</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs5" id="ulitem0z3z2z0z10"><a href="../sitelink/index.cfm?contentid=1087" id="ulaitem0z3z2z0z10">Meteor Crater's Impact</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs5" id="ulitem0z3z2z0z11"><a href="../sitelink/index.cfm?contentid=1086" id="ulaitem0z3z2z0z11">The Myth of the Owl</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs5" id="ulitem0z3z2z0z12"><a href="../sitelink/index.cfm?contentid=1085" id="ulaitem0z3z2z0z12">The Red Ghost Galumphs</a>
 				
 			</li>
 		
@@ -863,13 +1379,49 @@ background-repeat:repeat-x;
 	
 
 		
-			<li class="dvs5" id="ulitem0z3z3z0z0"><a href="../sitelink/index.cfm?contentid=1132" id="ulaitem0z3z3z0z0">Hiking Lesson</a>
+			<li class="dvs5" id="ulitem0z3z3z0z0"><a href="../sitelink/index.cfm?contentid=1210" id="ulaitem0z3z3z0z0">The Power of Collecting</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs5" id="ulitem0z3z3z0z1"><a href="../sitelink/index.cfm?contentid=1131" id="ulaitem0z3z3z0z1">Miss Baker's Prickly Legacy</a>
+			<li class="dvs5" id="ulitem0z3z3z0z1"><a href="../sitelink/index.cfm?contentid=1198" id="ulaitem0z3z3z0z1">The Black Cat – Seligman’s Favorite Haunt</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs5" id="ulitem0z3z3z0z2"><a href="../sitelink/index.cfm?contentid=1185" id="ulaitem0z3z3z0z2">Red River</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs5" id="ulitem0z3z3z0z3"><a href="../sitelink/index.cfm?contentid=1172" id="ulaitem0z3z3z0z3">Finding Serenity on Lookout Mountain</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs5" id="ulitem0z3z3z0z4"><a href="../sitelink/index.cfm?contentid=1164" id="ulaitem0z3z3z0z4">Crying Fowl in the Grand Canyon</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs5" id="ulitem0z3z3z0z5"><a href="../sitelink/index.cfm?contentid=1140" id="ulaitem0z3z3z0z5">Have You Heard the One about the Yuma Prison?</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs5" id="ulitem0z3z3z0z6"><a href="../sitelink/index.cfm?contentid=1132" id="ulaitem0z3z3z0z6">Hiking Lesson</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs5" id="ulitem0z3z3z0z7"><a href="../sitelink/index.cfm?contentid=1131" id="ulaitem0z3z3z0z7">Miss Baker's Prickly Legacy</a>
 				
 			</li>
 		
@@ -1371,85 +1923,103 @@ background-repeat:repeat-x;
 	
 
 		
-			<li class="dvs5" id="ulitem0z3z9z0z0"><a href="../sitelink/index.cfm?contentid=1142" id="ulaitem0z3z9z0z0">The Arizona Territory’s Feminine and Formidable Sarah Butler York</a>
+			<li class="dvs5" id="ulitem0z3z9z0z0"><a href="../sitelink/index.cfm?contentid=1183" id="ulaitem0z3z9z0z0">Landmark Letters</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs5" id="ulitem0z3z9z0z1"><a href="../sitelink/index.cfm?contentid=1144" id="ulaitem0z3z9z0z1">Department of Public Safety History</a>
+			<li class="dvs5" id="ulitem0z3z9z0z1"><a href="../sitelink/index.cfm?contentid=1171" id="ulaitem0z3z9z0z1">Geronimo’s Last Raid</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs5" id="ulitem0z3z9z0z2"><a href="../sitelink/index.cfm?contentid=1145" id="ulaitem0z3z9z0z2">Abandoned Mansion in the Hualapai Mountains</a>
+			<li class="dvs5" id="ulitem0z3z9z0z2"><a href="../sitelink/index.cfm?contentid=1143" id="ulaitem0z3z9z0z2">Following in the Footsteps of Sara Plummer Lemmon</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs5" id="ulitem0z3z9z0z3"><a href="../sitelink/index.cfm?contentid=1146" id="ulaitem0z3z9z0z3">Harris Cave</a>
+			<li class="dvs5" id="ulitem0z3z9z0z3"><a href="../sitelink/index.cfm?contentid=1142" id="ulaitem0z3z9z0z3">The Arizona Territory’s Feminine and Formidable Sarah Butler York</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs5" id="ulitem0z3z9z0z4"><a href="../sitelink/index.cfm?contentid=1147" id="ulaitem0z3z9z0z4">Miles’ Big Lie</a>
+			<li class="dvs5" id="ulitem0z3z9z0z4"><a href="../sitelink/index.cfm?contentid=1144" id="ulaitem0z3z9z0z4">Department of Public Safety History</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs5" id="ulitem0z3z9z0z5"><a href="../sitelink/index.cfm?contentid=1148" id="ulaitem0z3z9z0z5">The Frustration of Lt. Leighton Findley</a>
+			<li class="dvs5" id="ulitem0z3z9z0z5"><a href="../sitelink/index.cfm?contentid=1145" id="ulaitem0z3z9z0z5">Abandoned Mansion in the Hualapai Mountains</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs5" id="ulitem0z3z9z0z6"><a href="../sitelink/index.cfm?contentid=1149" id="ulaitem0z3z9z0z6">Chiricahua Apaches Scouts, Remembered</a>
+			<li class="dvs5" id="ulitem0z3z9z0z6"><a href="../sitelink/index.cfm?contentid=1146" id="ulaitem0z3z9z0z6">Harris Cave</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs5" id="ulitem0z3z9z0z7"><a href="../sitelink/index.cfm?contentid=1150" id="ulaitem0z3z9z0z7">The Army’s “Medicine Man” and the Medal of Honor</a>
+			<li class="dvs5" id="ulitem0z3z9z0z7"><a href="../sitelink/index.cfm?contentid=1147" id="ulaitem0z3z9z0z7">Miles’ Big Lie</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs5" id="ulitem0z3z9z0z8"><a href="../sitelink/index.cfm?contentid=1151" id="ulaitem0z3z9z0z8">The Haunting Legend of Apache Leap</a>
+			<li class="dvs5" id="ulitem0z3z9z0z8"><a href="../sitelink/index.cfm?contentid=1148" id="ulaitem0z3z9z0z8">The Frustration of Lt. Leighton Findley</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs5" id="ulitem0z3z9z0z9"><a href="../sitelink/index.cfm?contentid=1152" id="ulaitem0z3z9z0z9">Arizona Gliding Academy</a>
+			<li class="dvs5" id="ulitem0z3z9z0z9"><a href="../sitelink/index.cfm?contentid=1149" id="ulaitem0z3z9z0z9">Chiricahua Apaches Scouts, Remembered</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs5" id="ulitem0z3z9z0z10"><a href="../sitelink/index.cfm?contentid=1153" id="ulaitem0z3z9z0z10">Roxaboxen: AZ’s Imaginary Town Lives On</a>
+			<li class="dvs5" id="ulitem0z3z9z0z10"><a href="../sitelink/index.cfm?contentid=1150" id="ulaitem0z3z9z0z10">The Army’s “Medicine Man” and the Medal of Honor</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs5" id="ulitem0z3z9z0z11"><a href="../sitelink/index.cfm?contentid=1154" id="ulaitem0z3z9z0z11">Whiskey Making in Arizona</a>
+			<li class="dvs5" id="ulitem0z3z9z0z11"><a href="../sitelink/index.cfm?contentid=1151" id="ulaitem0z3z9z0z11">The Haunting Legend of Apache Leap</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs5" id="ulitem0z3z9z0z12"><a href="../sitelink/index.cfm?contentid=1155" id="ulaitem0z3z9z0z12">Jessie Benton Freemont, An Arizona First Lady</a>
+			<li class="dvs5" id="ulitem0z3z9z0z12"><a href="../sitelink/index.cfm?contentid=1152" id="ulaitem0z3z9z0z12">Arizona Gliding Academy</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs5" id="ulitem0z3z9z0z13"><a href="../sitelink/index.cfm?contentid=1156" id="ulaitem0z3z9z0z13">Meet Unlucky Joe Goldwater</a>
+			<li class="dvs5" id="ulitem0z3z9z0z13"><a href="../sitelink/index.cfm?contentid=1153" id="ulaitem0z3z9z0z13">Roxaboxen: AZ’s Imaginary Town Lives On</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs5" id="ulitem0z3z9z0z14"><a href="../sitelink/index.cfm?contentid=1154" id="ulaitem0z3z9z0z14">Whiskey Making in Arizona</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs5" id="ulitem0z3z9z0z15"><a href="../sitelink/index.cfm?contentid=1155" id="ulaitem0z3z9z0z15">Jessie Benton Freemont, An Arizona First Lady</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs5" id="ulitem0z3z9z0z16"><a href="../sitelink/index.cfm?contentid=1156" id="ulaitem0z3z9z0z16">Meet Unlucky Joe Goldwater</a>
 				
 			</li>
 		
@@ -1783,7 +2353,7 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="dvs5" id="ulitem0z3z10z2z3"><a href="../sitelink/index.cfm?contentid=947" id="ulaitem0z3z10z2z3">Ironwood</a>
+			<li class="dvs5" id="ulitem0z3z10z2z3"><a href="../sitelink/index.cfm?contentid=947" id="ulaitem0z3z10z2z3">Ironwood Tree</a>
 				
 			</li>
 		
@@ -2086,121 +2656,76 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="imatm" style="width:98px; height:29px; " id="ulitem0z4"><a href="../sitelink/index.cfm?contentid=19" himg="../images/nav/photo_u.jpg" style="background-image:url(../images/nav/photo_b.jpg);background-repeat:no-repeat;background-position:center center;" id="ulaitem0z4"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z4"></span></span></a>
+			<li class="imatm" style="width:99px; height:29px; " id="ulitem0z4"><a href="../sitelink/index.cfm?contentid=191" himg="../images/nav/hike_u.jpg" style="background-image:url(../images/nav/hike_b.jpg);background-repeat:no-repeat;background-position:center center;" id="ulaitem0z4"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z4"></span></span></a>
 				
 				<div class="imsc">
 					<div class="imsubc" style="width:145px;top:0px;left:0px;"><div class="imunder"></div><div></div>
 						
-	<ul style="background-color:#c3bcd9;margin:0px 0px;" id="x1ub0z4">
+	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z4">
 	
 
 		
-			<li class="dvs4" id="ulitem0z4z0"><a href="../sitelink/index.cfm?contentid=53" id="ulaitem0z4z0">Portfolio</a>
-				
-				<div class="imsc">
-					<div class="imsubc" style="width:130px; top: -20px; left: 135px; "><div class="imunder"></div><div></div>
-						
-	<ul style="background-color:#c3bcd9;margin:0px 0px;" id="x1ub0z4z0">
-	
-		</ul>
-	
-					</div>
-				</div>
+			<li class="dvs3" id="ulitem0z4z0"><a href="../sitelink/index.cfm?contentid=192" id="ulaitem0z4z0">Hike of the Month</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z1"><a href="../sitelink/index.cfm?contentid=54" id="ulaitem0z4z1">Slideshows</a>
+			<li class="dvs3" id="ulitem0z4z1"><a href="../sitelink/index.cfm?contentid=193" id="ulaitem0z4z1">Hike Archive by Region</a>
 				
 				<div class="imsc">
 					<div class="imsubc" style="width:130px; top: -20px; left: 135px; "><div class="imunder"></div><div></div>
 						
-	<ul style="background-color:#c3bcd9;margin:0px 0px;" id="x1ub0z4z1">
+	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z4z1">
 	
 
 		
-			<li class="dvs4" id="ulitem0z4z1z0"><a href="../sitelink/index.cfm?contentid=1103" id="ulaitem0z4z1z0">View More Slideshows</a>
-				
-			</li>
-		
-		</ul>
-	
-					</div>
-				</div>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z2"><a href="../sitelink/index.cfm?contentid=57" id="ulaitem0z4z2">Photo Tips</a>
-				
-				<div class="imsc">
-					<div class="imsubc" style="width:130px; top: -20px; left: 135px; "><div class="imunder"></div><div></div>
-						
-	<ul style="background-color:#c3bcd9;margin:0px 0px;" id="x1ub0z4z2">
-	
-
-		
-			<li class="dvs4" id="ulitem0z4z2z0"><a href="../sitelink/index.cfm?contentid=1078" id="ulaitem0z4z2z0">Photo Tips Archives</a>
+			<li class="dvs3" id="ulitem0z4z1z0"><a href="../sitelink/index.cfm?contentid=299" id="ulaitem0z4z1z0">North East AZ</a>
 				
 				<div class="imsc">
 					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
 						
-	<ul style="background-color:#c3bcd9;margin:0px 0px;" id="x1ub0z4z2z0">
+	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z4z1z0">
 	
 
 		
-			<li class="dvs4" id="ulitem0z4z2z0z0"><a href="../sitelink/index.cfm?contentid=1137" id="ulaitem0z4z2z0z0">Sports Photography</a>
+			<li class="dvs3" id="ulitem0z4z1z0z0"><a href="../sitelink/index.cfm?contentid=424" id="ulaitem0z4z1z0z0">Escudilla Mountain</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z2z0z1"><a href="../sitelink/index.cfm?contentid=1136" id="ulaitem0z4z2z0z1">Photoshop Techniques</a>
+			<li class="dvs3" id="ulitem0z4z1z0z1"><a href="../sitelink/index.cfm?contentid=425" id="ulaitem0z4z1z0z1">Tour the White House (Ruins)</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z2z0z2"><a href="../sitelink/index.cfm?contentid=1126" id="ulaitem0z4z2z0z2">Lens Choices for Portraiture</a>
+			<li class="dvs3" id="ulitem0z4z1z0z2"><a href="../sitelink/index.cfm?contentid=426" id="ulaitem0z4z1z0z2">Veit Springs Trail</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z2z0z3"><a href="../sitelink/index.cfm?contentid=1121" id="ulaitem0z4z2z0z3">Working the Subject—Changing Light</a>
+			<li class="dvs3" id="ulitem0z4z1z0z3"><a href="../sitelink/index.cfm?contentid=1114" id="ulaitem0z4z1z0z3">Sand Hill Crack</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z2z0z4"><a href="../sitelink/index.cfm?contentid=1122" id="ulaitem0z4z2z0z4">Scouting Locations</a>
+			<li class="dvs3" id="ulitem0z4z1z0z4"><a href="../sitelink/index.cfm?contentid=1176" id="ulaitem0z4z1z0z4">South Canyon</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z2z0z5"><a href="../sitelink/index.cfm?contentid=1123" id="ulaitem0z4z2z0z5">Warming Filters for On-Camera Flash</a>
+			<li class="dvs3" id="ulitem0z4z1z0z5"><a href="../sitelink/index.cfm?contentid=1178" id="ulaitem0z4z1z0z5">The Dogie Trial</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z2z0z6"><a href="../sitelink/index.cfm?contentid=1124" id="ulaitem0z4z2z0z6">Get Closer: In the Thick of the Action</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z2z0z7"><a href="../sitelink/index.cfm?contentid=1125" id="ulaitem0z4z2z0z7">Get Closer: Composition</a>
-				
-			</li>
-		
-		</ul>
-	
-					</div>
-				</div>
+			<li class="dvs3" id="ulitem0z4z1z0z6"><a href="../sitelink/index.cfm?contentid=1182" id="ulaitem0z4z1z0z6">Cathedral Rock</a>
 				
 			</li>
 		
@@ -2213,129 +2738,160 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z3"><a href="../sitelink/index.cfm?contentid=60" id="ulaitem0z4z3">Featured Prints</a>
-				
-				<div class="imsc">
-					<div class="imsubc" style="width:130px; top: -20px; left: 135px; "><div class="imunder"></div><div></div>
-						
-	<ul style="background-color:#c3bcd9;margin:0px 0px;" id="x1ub0z4z3">
-	
-		</ul>
-	
-					</div>
-				</div>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z4"><a href="../sitelink/index.cfm?contentid=61" id="ulaitem0z4z4">Vintage Covers</a>
-				
-				<div class="imsc">
-					<div class="imsubc" style="width:130px; top: -20px; left: 135px; "><div class="imunder"></div><div></div>
-						
-	<ul style="background-color:#c3bcd9;margin:0px 0px;" id="x1ub0z4z4">
-	
-
-		
-			<li class="dvs4" id="ulitem0z4z4z0"><a href="../sitelink/index.cfm?contentid=784" id="ulaitem0z4z4z0">1940s</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z4z1"><a href="../sitelink/index.cfm?contentid=785" id="ulaitem0z4z4z1">1950s</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z4z2"><a href="../sitelink/index.cfm?contentid=786" id="ulaitem0z4z4z2">1960s</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z4z3"><a href="../sitelink/index.cfm?contentid=787" id="ulaitem0z4z4z3">1970s</a>
-				
-			</li>
-		
-		</ul>
-	
-					</div>
-				</div>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z5"><a href="../sitelink/index.cfm?contentid=62" id="ulaitem0z4z5">Virtual Tours</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z6"><a href="../sitelink/index.cfm?contentid=63" id="ulaitem0z4z6">Tours &amp; Workshops</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7"><a href="../sitelink/index.cfm?contentid=518" id="ulaitem0z4z7">Photography Archives</a>
-				
-				<div class="imsc">
-					<div class="imsubc" style="width:130px; top: -20px; left: 135px; "><div class="imunder"></div><div></div>
-						
-	<ul style="background-color:#c3bcd9;margin:0px 0px;" id="x1ub0z4z7">
-	
-
-		
-			<li class="dvs4" id="ulitem0z4z7z0"><a href="../sitelink/index.cfm?contentid=737" id="ulaitem0z4z7z0">Photo Tips</a>
+			<li class="dvs3" id="ulitem0z4z1z1"><a href="../sitelink/index.cfm?contentid=298" id="ulaitem0z4z1z1">North West AZ</a>
 				
 				<div class="imsc">
 					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
 						
-	<ul style="background-color:#c3bcd9;margin:0px 0px;" id="x1ub0z4z7z0">
+	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z4z1z1">
 	
 
 		
-			<li class="dvs4" id="ulitem0z4z7z0z0"><a href="../sitelink/index.cfm?contentid=1127" id="ulaitem0z4z7z0z0">Photo Illustration</a>
+			<li class="dvs3" id="ulitem0z4z1z1z0"><a href="../sitelink/index.cfm?contentid=396" id="ulaitem0z4z1z1z0">Brins Mesa Trail</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z0z1"><a href="../sitelink/index.cfm?contentid=1112" id="ulaitem0z4z7z0z1">Lens Choices for Portraiture</a>
+			<li class="dvs3" id="ulitem0z4z1z1z1"><a href="../sitelink/index.cfm?contentid=397" id="ulaitem0z4z1z1z1">Inner Basin Trail</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z0z2"><a href="../sitelink/index.cfm?contentid=738" id="ulaitem0z4z7z0z2">Working the Subject—Changing Light</a>
+			<li class="dvs3" id="ulitem0z4z1z1z2"><a href="../sitelink/index.cfm?contentid=398" id="ulaitem0z4z1z1z2">West Fork of Oak Creek</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z0z3"><a href="../sitelink/index.cfm?contentid=740" id="ulaitem0z4z7z0z3">Warming Filters for On-Camera Flash</a>
+			<li class="dvs3" id="ulitem0z4z1z1z3"><a href="../sitelink/index.cfm?contentid=399" id="ulaitem0z4z1z1z3">North Canyon Trail</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z0z4"><a href="../sitelink/index.cfm?contentid=739" id="ulaitem0z4z7z0z4">Scouting Locations</a>
+			<li class="dvs3" id="ulitem0z4z1z1z4"><a href="../sitelink/index.cfm?contentid=400" id="ulaitem0z4z1z1z4">Woods Canyon Trail</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z0z5"><a href="../sitelink/index.cfm?contentid=741" id="ulaitem0z4z7z0z5">Get Closer Part One</a>
+			<li class="dvs3" id="ulitem0z4z1z1z5"><a href="../sitelink/index.cfm?contentid=401" id="ulaitem0z4z1z1z5">Sitgreaves Mountain</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z0z6"><a href="../sitelink/index.cfm?contentid=742" id="ulaitem0z4z7z0z6">Get Closer Part Two</a>
+			<li class="dvs3" id="ulitem0z4z1z1z6"><a href="../sitelink/index.cfm?contentid=402" id="ulaitem0z4z1z1z6">Kendrick Mountain</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z1z7"><a href="../sitelink/index.cfm?contentid=403" id="ulaitem0z4z1z1z7">Sandys Canyon</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z1z8"><a href="../sitelink/index.cfm?contentid=404" id="ulaitem0z4z1z1z8">Wilson Canyon</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z1z9"><a href="../sitelink/index.cfm?contentid=405" id="ulaitem0z4z1z1z9">Strawberry Crater</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z1z10"><a href="../sitelink/index.cfm?contentid=406" id="ulaitem0z4z1z1z10">Nankoweap Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z1z11"><a href="../sitelink/index.cfm?contentid=407" id="ulaitem0z4z1z1z11">Munds Wagon Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z1z12"><a href="../sitelink/index.cfm?contentid=408" id="ulaitem0z4z1z1z12">Keyhole Sink</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z1z13"><a href="../sitelink/index.cfm?contentid=409" id="ulaitem0z4z1z1z13">Buck Mountain</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z1z14"><a href="../sitelink/index.cfm?contentid=410" id="ulaitem0z4z1z1z14">Mormon Lake Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z1z15"><a href="../sitelink/index.cfm?contentid=411" id="ulaitem0z4z1z1z15">Camp Beale Loop Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z1z16"><a href="../sitelink/index.cfm?contentid=412" id="ulaitem0z4z1z1z16">Big Tank Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z1z17"><a href="../sitelink/index.cfm?contentid=413" id="ulaitem0z4z1z1z17">Verde River Greenway</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z1z18"><a href="../sitelink/index.cfm?contentid=414" id="ulaitem0z4z1z1z18">Walnut Canyon</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z1z19"><a href="../sitelink/index.cfm?contentid=415" id="ulaitem0z4z1z1z19">Grand Canyon's Interior Peaks</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z1z20"><a href="../sitelink/index.cfm?contentid=416" id="ulaitem0z4z1z1z20">Red Mountain Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z1z21"><a href="../sitelink/index.cfm?contentid=1115" id="ulaitem0z4z1z1z21">Sand Hill Crack</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z1z22"><a href="../sitelink/index.cfm?contentid=1138" id="ulaitem0z4z1z1z22">The Dogie Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z1z23"><a href="../sitelink/index.cfm?contentid=1139" id="ulaitem0z4z1z1z23">South Canyon</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z1z24"><a href="../sitelink/index.cfm?contentid=1175" id="ulaitem0z4z1z1z24">Cathedral Rock</a>
 				
 			</li>
 		
@@ -2348,196 +2904,46 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z1"><a href="../sitelink/index.cfm?contentid=743" id="ulaitem0z4z7z1">Phototography Talk</a>
+			<li class="dvs3" id="ulitem0z4z1z2"><a href="../sitelink/index.cfm?contentid=300" id="ulaitem0z4z1z2">Western AZ</a>
 				
 				<div class="imsc">
 					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
 						
-	<ul style="background-color:#c3bcd9;margin:0px 0px;" id="x1ub0z4z7z1">
+	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z4z1z2">
 	
 
 		
-			<li class="dvs4" id="ulitem0z4z7z1z0"><a href="../sitelink/index.cfm?contentid=744" id="ulaitem0z4z7z1z0">In Praise of the View Camera</a>
+			<li class="dvs3" id="ulitem0z4z1z2z0"><a href="../sitelink/index.cfm?contentid=427" id="ulaitem0z4z1z2z0">Potato Patch Trail</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z1z1"><a href="../sitelink/index.cfm?contentid=745" id="ulaitem0z4z7z1z1">Improving Your Photography</a>
+			<li class="dvs3" id="ulitem0z4z1z2z1"><a href="../sitelink/index.cfm?contentid=428" id="ulaitem0z4z1z2z1">Sycamore Spring</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z1z2"><a href="../sitelink/index.cfm?contentid=746" id="ulaitem0z4z7z1z2">Flowing Water in Landscape Photographs</a>
+			<li class="dvs3" id="ulitem0z4z1z2z2"><a href="../sitelink/index.cfm?contentid=429" id="ulaitem0z4z1z2z2">Hualapai Mountain Park</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z1z3"><a href="../sitelink/index.cfm?contentid=748" id="ulaitem0z4z7z1z3">Film vs. Digital</a>
+			<li class="dvs3" id="ulitem0z4z1z2z3"><a href="../sitelink/index.cfm?contentid=430" id="ulaitem0z4z1z2z3">Wabayuma Peak Trail</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z1z4"><a href="../sitelink/index.cfm?contentid=749" id="ulaitem0z4z7z1z4">What I Know About Photography</a>
+			<li class="dvs3" id="ulitem0z4z1z2z4"><a href="../sitelink/index.cfm?contentid=431" id="ulaitem0z4z1z2z4">Palm Canyon</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z1z5"><a href="../sitelink/index.cfm?contentid=747" id="ulaitem0z4z7z1z5">Improving Your Photography 2</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7z1z6"><a href="../sitelink/index.cfm?contentid=750" id="ulaitem0z4z7z1z6">Emotional Content</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7z1z7"><a href="../sitelink/index.cfm?contentid=751" id="ulaitem0z4z7z1z7">Notes for a Picture Editor</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7z1z8"><a href="../sitelink/index.cfm?contentid=752" id="ulaitem0z4z7z1z8">Film vs. Digital Revisited</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7z1z9"><a href="../sitelink/index.cfm?contentid=753" id="ulaitem0z4z7z1z9">Aspire to the Level of Your Best Competition</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7z1z10"><a href="../sitelink/index.cfm?contentid=754" id="ulaitem0z4z7z1z10">Who Said That</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7z1z11"><a href="../sitelink/index.cfm?contentid=755" id="ulaitem0z4z7z1z11">Don’t Confuse Resolution With Quality</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7z1z12"><a href="../sitelink/index.cfm?contentid=769" id="ulaitem0z4z7z1z12">Think Like a Camera</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7z1z13"><a href="../sitelink/index.cfm?contentid=768" id="ulaitem0z4z7z1z13">In Photography, Less is Often More</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7z1z14"><a href="../sitelink/index.cfm?contentid=756" id="ulaitem0z4z7z1z14">A World in Motion</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7z1z15"><a href="../sitelink/index.cfm?contentid=767" id="ulaitem0z4z7z1z15">Choose the Right Tool</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7z1z16"><a href="../sitelink/index.cfm?contentid=757" id="ulaitem0z4z7z1z16">Getting Published</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7z1z17"><a href="../sitelink/index.cfm?contentid=758" id="ulaitem0z4z7z1z17">A Tale of Two Media</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7z1z18"><a href="../sitelink/index.cfm?contentid=770" id="ulaitem0z4z7z1z18">Technology vs Art</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7z1z19"><a href="../sitelink/index.cfm?contentid=759" id="ulaitem0z4z7z1z19">Chasing Ghosts with a Camera</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7z1z20"><a href="../sitelink/index.cfm?contentid=760" id="ulaitem0z4z7z1z20">In Your Own Backyard</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7z1z21"><a href="../sitelink/index.cfm?contentid=761" id="ulaitem0z4z7z1z21">Glen Canyon Vista</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7z1z22"><a href="../sitelink/index.cfm?contentid=762" id="ulaitem0z4z7z1z22">Photographing Antelope Canyon</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7z1z23"><a href="../sitelink/index.cfm?contentid=763" id="ulaitem0z4z7z1z23">Baja Photo Trip</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7z1z24"><a href="../sitelink/index.cfm?contentid=764" id="ulaitem0z4z7z1z24">Photographing Tombstone</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7z1z25"><a href="../sitelink/index.cfm?contentid=765" id="ulaitem0z4z7z1z25">Photographing San Xavier</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7z1z26"><a href="../sitelink/index.cfm?contentid=766" id="ulaitem0z4z7z1z26">Photographing Wupatki </a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7z1z27"><a href="../sitelink/index.cfm?contentid=772" id="ulaitem0z4z7z1z27">FIlm/Digital LETTERS</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7z1z28"><a href="../sitelink/index.cfm?contentid=771" id="ulaitem0z4z7z1z28">Lil Cowpokes</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7z1z29"><a href="../sitelink/index.cfm?contentid=774" id="ulaitem0z4z7z1z29">Photographing Clifton </a>
-				
-			</li>
-		
-
-		
-			<li class="dvs4" id="ulitem0z4z7z1z30"><a href="../sitelink/index.cfm?contentid=773" id="ulaitem0z4z7z1z30">AZ's Two Best Ghost Towns</a>
+			<li class="dvs3" id="ulitem0z4z1z2z5"><a href="../sitelink/index.cfm?contentid=432" id="ulaitem0z4z1z2z5">Short Painted Desert Trail</a>
 				
 			</li>
 		
@@ -2550,190 +2956,418 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2"><a href="../sitelink/index.cfm?contentid=797" id="ulaitem0z4z7z2">Ask the Photo Editor</a>
+			<li class="dvs3" id="ulitem0z4z1z3"><a href="../sitelink/index.cfm?contentid=301" id="ulaitem0z4z1z3">Central AZ</a>
 				
 				<div class="imsc">
 					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
 						
-	<ul style="background-color:#c3bcd9;margin:0px 0px;" id="x1ub0z4z7z2">
+	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z4z1z3">
 	
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z0"><a href="../sitelink/index.cfm?contentid=803" id="ulaitem0z4z7z2z0">Does <i>Arizona Highways</i> use 35mm and digital photography?</a>
+			<li class="dvs3" id="ulitem0z4z1z3z0"><a href="../sitelink/index.cfm?contentid=433" id="ulaitem0z4z1z3z0">Parsons Trail</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z1"><a href="../sitelink/index.cfm?contentid=798" id="ulaitem0z4z7z2z1">Which lenses should I buy for a 35mm camera?</a>
+			<li class="dvs3" id="ulitem0z4z1z3z1"><a href="../sitelink/index.cfm?contentid=434" id="ulaitem0z4z1z3z1">Little Wolf Creek</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z2"><a href="../sitelink/index.cfm?contentid=799" id="ulaitem0z4z7z2z2">What type of filter holders are best for large-format?</a>
+			<li class="dvs3" id="ulitem0z4z1z3z2"><a href="../sitelink/index.cfm?contentid=435" id="ulaitem0z4z1z3z2">Robber's Roost</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z3"><a href="../sitelink/index.cfm?contentid=800" id="ulaitem0z4z7z2z3">How do I improve the quality of my pictures?</a>
+			<li class="dvs3" id="ulitem0z4z1z3z3"><a href="../sitelink/index.cfm?contentid=436" id="ulaitem0z4z1z3z3">Sterling Pass Trail</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z4"><a href="../sitelink/index.cfm?contentid=801" id="ulaitem0z4z7z2z4">What are the differences between 4 x 5 View Cameras?</a>
+			<li class="dvs3" id="ulitem0z4z1z3z4"><a href="../sitelink/index.cfm?contentid=437" id="ulaitem0z4z1z3z4">Towel Creek</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z5"><a href="../sitelink/index.cfm?contentid=802" id="ulaitem0z4z7z2z5">What aperture setting is best to capture lightning?</a>
+			<li class="dvs3" id="ulitem0z4z1z3z5"><a href="../sitelink/index.cfm?contentid=438" id="ulaitem0z4z1z3z5">Maverick Mountain</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z6"><a href="../sitelink/index.cfm?contentid=804" id="ulaitem0z4z7z2z6">Does <i>Arizona Highways</i> have a film preference?</a>
+			<li class="dvs3" id="ulitem0z4z1z3z6"><a href="../sitelink/index.cfm?contentid=439" id="ulaitem0z4z1z3z6">Brittlebush Trail</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z7"><a href="../sitelink/index.cfm?contentid=805" id="ulaitem0z4z7z2z7">Are 645 transparencies acceptable for landscape photography?</a>
+			<li class="dvs3" id="ulitem0z4z1z3z7"><a href="../sitelink/index.cfm?contentid=440" id="ulaitem0z4z1z3z7">Boulder Canyon</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z8"><a href="../sitelink/index.cfm?contentid=806" id="ulaitem0z4z7z2z8">Does <i>Arizona Highways</i> sell photos suitable for framing?</a>
+			<li class="dvs3" id="ulitem0z4z1z3z8"><a href="../sitelink/index.cfm?contentid=441" id="ulaitem0z4z1z3z8">Pinnacle Peak</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z9"><a href="../sitelink/index.cfm?contentid=807" id="ulaitem0z4z7z2z9">Can I submit my photos to <i>Arizona Highways</i>?</a>
+			<li class="dvs3" id="ulitem0z4z1z3z9"><a href="../sitelink/index.cfm?contentid=442" id="ulaitem0z4z1z3z9">Lynx Lake</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z10"><a href="../sitelink/index.cfm?contentid=808" id="ulaitem0z4z7z2z10">Where can I learn more about photography?</a>
+			<li class="dvs3" id="ulitem0z4z1z3z10"><a href="../sitelink/index.cfm?contentid=443" id="ulaitem0z4z1z3z10">Reynolds Creek</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z11"><a href="../sitelink/index.cfm?contentid=809" id="ulaitem0z4z7z2z11">How can I improve my amateur photography?</a>
+			<li class="dvs3" id="ulitem0z4z1z3z11"><a href="../sitelink/index.cfm?contentid=444" id="ulaitem0z4z1z3z11">Brazaletes Pueblo Ruin</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z12"><a href="../sitelink/index.cfm?contentid=810" id="ulaitem0z4z7z2z12">Does <i>Arizona Highways</i> publish amateur photography?</a>
+			<li class="dvs3" id="ulitem0z4z1z3z12"><a href="../sitelink/index.cfm?contentid=445" id="ulaitem0z4z1z3z12">Coffee Flat Trail</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z13"><a href="../sitelink/index.cfm?contentid=811" id="ulaitem0z4z7z2z13">Which film stock should I use?</a>
+			<li class="dvs3" id="ulitem0z4z1z3z13"><a href="../sitelink/index.cfm?contentid=446" id="ulaitem0z4z1z3z13">Thumb Butte</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z14"><a href="../sitelink/index.cfm?contentid=812" id="ulaitem0z4z7z2z14">How are images prepared for publication on the Internet?</a>
+			<li class="dvs3" id="ulitem0z4z1z3z14"><a href="../sitelink/index.cfm?contentid=447" id="ulaitem0z4z1z3z14">Packard Trail</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z15"><a href="../sitelink/index.cfm?contentid=813" id="ulaitem0z4z7z2z15">Which lens is best for landscape photographs?</a>
+			<li class="dvs3" id="ulitem0z4z1z3z15"><a href="../sitelink/index.cfm?contentid=448" id="ulaitem0z4z1z3z15">Willow Springs Trail</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z16"><a href="../sitelink/index.cfm?contentid=814" id="ulaitem0z4z7z2z16">Which filter should I use?</a>
+			<li class="dvs3" id="ulitem0z4z1z3z16"><a href="../sitelink/index.cfm?contentid=449" id="ulaitem0z4z1z3z16">Agua Fria</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z17"><a href="../sitelink/index.cfm?contentid=815" id="ulaitem0z4z7z2z17">How was the December 1994 cover photographed?</a>
+			<li class="dvs3" id="ulitem0z4z1z3z17"><a href="../sitelink/index.cfm?contentid=1119" id="ulaitem0z4z1z3z17">Cottonwood Creek</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z18"><a href="../sitelink/index.cfm?contentid=816" id="ulaitem0z4z7z2z18">When is the best time to photograph Havasu Falls?</a>
+			<li class="dvs3" id="ulitem0z4z1z3z18"><a href="../sitelink/index.cfm?contentid=1177" id="ulaitem0z4z1z3z18">The Dogie Trail</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z19"><a href="../sitelink/index.cfm?contentid=817" id="ulaitem0z4z7z2z19">Will <i>Arizona Highways</i> ever accept digital photography?</a>
+			<li class="dvs3" id="ulitem0z4z1z3z19"><a href="../sitelink/index.cfm?contentid=1179" id="ulaitem0z4z1z3z19">Trailhead Two-Sixty</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z20"><a href="../sitelink/index.cfm?contentid=818" id="ulaitem0z4z7z2z20">What's the best film for rafting in the Grand Canyon?</a>
+			<li class="dvs3" id="ulitem0z4z1z3z20"><a href="../sitelink/index.cfm?contentid=1181" id="ulaitem0z4z1z3z20">Cathedral Rock</a>
+				
+			</li>
+		
+		</ul>
+	
+					</div>
+				</div>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z21"><a href="../sitelink/index.cfm?contentid=819" id="ulaitem0z4z7z2z21">When is an image too saturated?</a>
+			<li class="dvs3" id="ulitem0z4z1z4"><a href="../sitelink/index.cfm?contentid=302" id="ulaitem0z4z1z4">Eastern AZ</a>
+				
+				<div class="imsc">
+					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
+						
+	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z4z1z4">
+	
+
+		
+			<li class="dvs3" id="ulitem0z4z1z4z0"><a href="../sitelink/index.cfm?contentid=450" id="ulaitem0z4z1z4z0">Bear Wallow Trail</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z22"><a href="../sitelink/index.cfm?contentid=820" id="ulaitem0z4z7z2z22">What’s the best way to take great landscape photos?</a>
+			<li class="dvs3" id="ulitem0z4z1z4z1"><a href="../sitelink/index.cfm?contentid=451" id="ulaitem0z4z1z4z1">Pieper Hatchery Trail</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z23"><a href="../sitelink/index.cfm?contentid=821" id="ulaitem0z4z7z2z23">Which filters and film are best for 4x5 photography?</a>
+			<li class="dvs3" id="ulitem0z4z1z4z2"><a href="../sitelink/index.cfm?contentid=452" id="ulaitem0z4z1z4z2">Woods Canyon Lake</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z24"><a href="../sitelink/index.cfm?contentid=822" id="ulaitem0z4z7z2z24">What’s the best way to use a light meter with landscape subjects?</a>
+			<li class="dvs3" id="ulitem0z4z1z4z3"><a href="../sitelink/index.cfm?contentid=453" id="ulaitem0z4z1z4z3">Picketpost Mountain</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z25"><a href="../sitelink/index.cfm?contentid=823" id="ulaitem0z4z7z2z25">Will <i>Arizona Highways</i> publish technical data for each photo?</a>
+			<li class="dvs3" id="ulitem0z4z1z4z4"><a href="../sitelink/index.cfm?contentid=454" id="ulaitem0z4z1z4z4">Lanphier Trail</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z26"><a href="../sitelink/index.cfm?contentid=824" id="ulaitem0z4z7z2z26">How can I correct for "red eye?"</a>
+			<li class="dvs3" id="ulitem0z4z1z4z5"><a href="../sitelink/index.cfm?contentid=455" id="ulaitem0z4z1z4z5">Indian Springs Trail</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z27"><a href="../sitelink/index.cfm?contentid=825" id="ulaitem0z4z7z2z27">What's the best lens for a Canon 20D?</a>
+			<li class="dvs3" id="ulitem0z4z1z4z6"><a href="../sitelink/index.cfm?contentid=456" id="ulaitem0z4z1z4z6">Spur Cross Trail</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z28"><a href="../sitelink/index.cfm?contentid=826" id="ulaitem0z4z7z2z28">How many megapixels should I get?</a>
+			<li class="dvs3" id="ulitem0z4z1z4z7"><a href="../sitelink/index.cfm?contentid=457" id="ulaitem0z4z1z4z7">Lower Fish Creek Trail</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z7z2z29"><a href="../sitelink/index.cfm?contentid=827" id="ulaitem0z4z7z2z29">What is Aspect Ratio?</a>
+			<li class="dvs3" id="ulitem0z4z1z4z8"><a href="../sitelink/index.cfm?contentid=458" id="ulaitem0z4z1z4z8">Mexican Hay Lake</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z4z9"><a href="../sitelink/index.cfm?contentid=459" id="ulaitem0z4z1z4z9">Thompson Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z4z10"><a href="../sitelink/index.cfm?contentid=460" id="ulaitem0z4z1z4z10">Forks in the Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z4z11"><a href="../sitelink/index.cfm?contentid=461" id="ulaitem0z4z1z4z11">Rose Peak</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z4z12"><a href="../sitelink/index.cfm?contentid=462" id="ulaitem0z4z1z4z12">San Carlos Apache Indian Reservation</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z4z13"><a href="../sitelink/index.cfm?contentid=1180" id="ulaitem0z4z1z4z13">Trailhead Two-Sixty</a>
+				
+			</li>
+		
+		</ul>
+	
+					</div>
+				</div>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z5"><a href="../sitelink/index.cfm?contentid=303" id="ulaitem0z4z1z5">Phoenix Area</a>
+				
+				<div class="imsc">
+					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
+						
+	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z4z1z5">
+	
+
+		
+			<li class="dvs3" id="ulitem0z4z1z5z0"><a href="../sitelink/index.cfm?contentid=463" id="ulaitem0z4z1z5z0">Lost Goldmine Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z5z1"><a href="../sitelink/index.cfm?contentid=464" id="ulaitem0z4z1z5z1">Bronco Creek Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z5z2"><a href="../sitelink/index.cfm?contentid=1118" id="ulaitem0z4z1z5z2">Cottonwood Creek</a>
+				
+			</li>
+		
+		</ul>
+	
+					</div>
+				</div>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z6"><a href="../sitelink/index.cfm?contentid=304" id="ulaitem0z4z1z6">Tucson Area/South East AZ</a>
+				
+				<div class="imsc">
+					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
+						
+	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z4z1z6">
+	
+
+		
+			<li class="dvs3" id="ulitem0z4z1z6z0"><a href="../sitelink/index.cfm?contentid=465" id="ulaitem0z4z1z6z0">Cody Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z6z1"><a href="../sitelink/index.cfm?contentid=466" id="ulaitem0z4z1z6z1">Scotia Canyon Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z6z2"><a href="../sitelink/index.cfm?contentid=467" id="ulaitem0z4z1z6z2">Sardine Canyon</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z6z3"><a href="../sitelink/index.cfm?contentid=468" id="ulaitem0z4z1z6z3">Mount Lemmon Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z6z4"><a href="../sitelink/index.cfm?contentid=469" id="ulaitem0z4z1z6z4">Box Camp Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z6z5"><a href="../sitelink/index.cfm?contentid=470" id="ulaitem0z4z1z6z5">Scheelite Canyon Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z6z6"><a href="../sitelink/index.cfm?contentid=471" id="ulaitem0z4z1z6z6">Sixshooter Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z6z7"><a href="../sitelink/index.cfm?contentid=472" id="ulaitem0z4z1z6z7">Haunted Canyon</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z6z8"><a href="../sitelink/index.cfm?contentid=473" id="ulaitem0z4z1z6z8">Carr Peak Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z6z9"><a href="../sitelink/index.cfm?contentid=474" id="ulaitem0z4z1z6z9">Painted Bluff Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z6z10"><a href="../sitelink/index.cfm?contentid=475" id="ulaitem0z4z1z6z10">Snowshed Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z6z11"><a href="../sitelink/index.cfm?contentid=476" id="ulaitem0z4z1z6z11">San Bernadino Wildlife Refuge</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z6z12"><a href="../sitelink/index.cfm?contentid=477" id="ulaitem0z4z1z6z12">Perimeter Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z6z13"><a href="../sitelink/index.cfm?contentid=478" id="ulaitem0z4z1z6z13">Bloody Spring</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z6z14"><a href="../sitelink/index.cfm?contentid=479" id="ulaitem0z4z1z6z14">Parker Canyon Lake</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z6z15"><a href="../sitelink/index.cfm?contentid=480" id="ulaitem0z4z1z6z15">Seven Falls Bear Canyon</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z6z16"><a href="../sitelink/index.cfm?contentid=481" id="ulaitem0z4z1z6z16">Table Top Mountain 107</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z6z17"><a href="../sitelink/index.cfm?contentid=482" id="ulaitem0z4z1z6z17">San Pedro Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z6z18"><a href="../sitelink/index.cfm?contentid=483" id="ulaitem0z4z1z6z18">Sugarloaf Mtn., Chiricahua Mon.</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z6z19"><a href="../sitelink/index.cfm?contentid=1113" id="ulaitem0z4z1z6z19">Hot Springs Loop</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z6z20"><a href="../sitelink/index.cfm?contentid=1116" id="ulaitem0z4z1z6z20">Honey Bee Canyon</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z1z6z21"><a href="../sitelink/index.cfm?contentid=1117" id="ulaitem0z4z1z6z21">The Anza Trail</a>
 				
 			</li>
 		
@@ -2753,7 +3387,85 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="dvs4" id="ulitem0z4z8"><a href="../sitelink/index.cfm?contentid=775" id="ulaitem0z4z8">Submissions: Photography</a>
+			<li class="dvs3" id="ulitem0z4z2"><a href="../sitelink/index.cfm?contentid=194" id="ulaitem0z4z2">Hike Archive by Date</a>
+				
+				<div class="imsc">
+					<div class="imsubc" style="width:130px; top: -20px; left: 135px; "><div class="imunder"></div><div></div>
+						
+	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z4z2">
+	
+
+		
+			<li class="dvs3" id="ulitem0z4z2z0"><a href="../sitelink/index.cfm?contentid=1089" id="ulaitem0z4z2z0">2008 Hike of the Month Archive</a>
+				
+				<div class="imsc">
+					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
+						
+	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z4z2z0">
+	
+
+		
+			<li class="dvs3" id="ulitem0z4z2z0z0"><a href="../sitelink/index.cfm?contentid=1090" id="ulaitem0z4z2z0z0">January 2008: Honey Bee Canyon</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z0z1"><a href="../sitelink/index.cfm?contentid=1094" id="ulaitem0z4z2z0z1">February 2008: Sand Hill Crack</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z0z2"><a href="../sitelink/index.cfm?contentid=1099" id="ulaitem0z4z2z0z2">March 2008: Hot Springs Loop</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z0z3"><a href="../sitelink/index.cfm?contentid=1108" id="ulaitem0z4z2z0z3">April 2008: South Canyon</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z0z4"><a href="../sitelink/index.cfm?contentid=1129" id="ulaitem0z4z2z0z4">May 2008: The Dogie Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z0z5"><a href="../sitelink/index.cfm?contentid=1160" id="ulaitem0z4z2z0z5">June 2008: Trailhead Two-Sixty</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z0z6"><a href="../sitelink/index.cfm?contentid=1166" id="ulaitem0z4z2z0z6">July 2008: Cathedral Rock</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z0z7"><a href="../sitelink/index.cfm?contentid=1170" id="ulaitem0z4z2z0z7">August 2008: Little Bear Loop</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z0z8"><a href="../sitelink/index.cfm?contentid=1189" id="ulaitem0z4z2z0z8">September 2008: Kinder Crossing</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z0z9"><a href="../sitelink/index.cfm?contentid=1201" id="ulaitem0z4z2z0z9">October 2008: Jacob Canyon</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z0z10"><a href="../sitelink/index.cfm?contentid=1208" id="ulaitem0z4z2z0z10">November 2008: Pima Canyon</a>
 				
 			</li>
 		
@@ -2766,181 +3478,652 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="imatm" style="width:99px; height:29px; " id="ulitem0z5"><a href="../sitelink/index.cfm?contentid=191" himg="../images/nav/hike_u.jpg" style="background-image:url(../images/nav/hike_b.jpg);background-repeat:no-repeat;background-position:center center;" id="ulaitem0z5"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z5"></span></span></a>
+			<li class="dvs3" id="ulitem0z4z2z1"><a href="../sitelink/index.cfm?contentid=216" id="ulaitem0z4z2z1">2007 Hike of the Month Archive</a>
+				
+				<div class="imsc">
+					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
+						
+	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z4z2z1">
+	
+
+		
+			<li class="dvs3" id="ulitem0z4z2z1z0"><a href="../sitelink/index.cfm?contentid=371" id="ulaitem0z4z2z1z0">January 2007: Table Top Mountain</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z1z1"><a href="../sitelink/index.cfm?contentid=372" id="ulaitem0z4z2z1z1">February 2007: Agua Fria National Monument</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z1z2"><a href="../sitelink/index.cfm?contentid=373" id="ulaitem0z4z2z1z2">March 2007: Rose Peak Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z1z3"><a href="../sitelink/index.cfm?contentid=374" id="ulaitem0z4z2z1z3">April 2007: San Pedro Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z1z4"><a href="../sitelink/index.cfm?contentid=375" id="ulaitem0z4z2z1z4">May 2007: Sugarloaf Mountain</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z1z5"><a href="../sitelink/index.cfm?contentid=376" id="ulaitem0z4z2z1z5">June 2007: Grand Canyon</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z1z6"><a href="../sitelink/index.cfm?contentid=377" id="ulaitem0z4z2z1z6">July 2007: San Carlos Apache Indian Reservation</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z1z7"><a href="../sitelink/index.cfm?contentid=378" id="ulaitem0z4z2z1z7">August 2007: Veit Springs Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z1z8"><a href="../sitelink/index.cfm?contentid=379" id="ulaitem0z4z2z1z8">September 2007: Red Mountain Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z1z9"><a href="../sitelink/index.cfm?contentid=1088" id="ulaitem0z4z2z1z9">October 2007: View Point Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z1z10"><a href="../sitelink/index.cfm?contentid=1069" id="ulaitem0z4z2z1z10">November 2007: Cottonwood Creek</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z1z11"><a href="../sitelink/index.cfm?contentid=1079" id="ulaitem0z4z2z1z11">December 2007: The Anza Trail</a>
+				
+			</li>
+		
+		</ul>
+	
+					</div>
+				</div>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z2"><a href="../sitelink/index.cfm?contentid=215" id="ulaitem0z4z2z2">2006 Hike of the Month Archive</a>
+				
+				<div class="imsc">
+					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
+						
+	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z4z2z2">
+	
+
+		
+			<li class="dvs3" id="ulitem0z4z2z2z0"><a href="../sitelink/index.cfm?contentid=347" id="ulaitem0z4z2z2z0">January 2006: San Bernadino Wildlife Refuge</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z2z1"><a href="../sitelink/index.cfm?contentid=348" id="ulaitem0z4z2z2z1">February 2006: Perimeter Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z2z2"><a href="../sitelink/index.cfm?contentid=349" id="ulaitem0z4z2z2z2">March 2006: Willow Springs Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z2z3"><a href="../sitelink/index.cfm?contentid=350" id="ulaitem0z4z2z2z3">April 2006: Camp Beale Loop Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z2z4"><a href="../sitelink/index.cfm?contentid=351" id="ulaitem0z4z2z2z4">May 2006: Canyon de Chelly</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z2z5"><a href="../sitelink/index.cfm?contentid=352" id="ulaitem0z4z2z2z5">June 2006: White Mountains</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z2z6"><a href="../sitelink/index.cfm?contentid=353" id="ulaitem0z4z2z2z6">July 2006: Kaibab Plateau</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z2z7"><a href="../sitelink/index.cfm?contentid=354" id="ulaitem0z4z2z2z7">August 2006: Fort Bowie</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z2z8"><a href="../sitelink/index.cfm?contentid=355" id="ulaitem0z4z2z2z8">September 2006: Dead Horse Ranch State Park</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z2z9"><a href="../sitelink/index.cfm?contentid=356" id="ulaitem0z4z2z2z9">October 2006: Walnut Canyon</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z2z10"><a href="../sitelink/index.cfm?contentid=357" id="ulaitem0z4z2z2z10">November 2006: Parker Canyon Lake</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z2z11"><a href="../sitelink/index.cfm?contentid=358" id="ulaitem0z4z2z2z11">December 2006: Seven Falls, Bear Canyon</a>
+				
+			</li>
+		
+		</ul>
+	
+					</div>
+				</div>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z3"><a href="../sitelink/index.cfm?contentid=214" id="ulaitem0z4z2z3">2005 Hike of the Month Archive</a>
+				
+				<div class="imsc">
+					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
+						
+	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z4z2z3">
+	
+
+		
+			<li class="dvs3" id="ulitem0z4z2z3z0"><a href="../sitelink/index.cfm?contentid=323" id="ulaitem0z4z2z3z0">January 2005: Coffee Flat Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z3z1"><a href="../sitelink/index.cfm?contentid=325" id="ulaitem0z4z2z3z1">February 2005: Wabayuma Peak Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z3z2"><a href="../sitelink/index.cfm?contentid=327" id="ulaitem0z4z2z3z2">March 2005: Palm Canyon</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z3z3"><a href="../sitelink/index.cfm?contentid=329" id="ulaitem0z4z2z3z3">April 2005: Munds Wagon Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z3z4"><a href="../sitelink/index.cfm?contentid=331" id="ulaitem0z4z2z3z4">May 2005: Keyhole Sink</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z3z5"><a href="../sitelink/index.cfm?contentid=333" id="ulaitem0z4z2z3z5">June 2005: Buck Mountain</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z3z6"><a href="../sitelink/index.cfm?contentid=335" id="ulaitem0z4z2z3z6">July 2005: Mormon Lake Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z3z7"><a href="../sitelink/index.cfm?contentid=337" id="ulaitem0z4z2z3z7">August 2005: Painted Bluff Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z3z8"><a href="../sitelink/index.cfm?contentid=339" id="ulaitem0z4z2z3z8">September 2005: Thumb Butte</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z3z9"><a href="../sitelink/index.cfm?contentid=341" id="ulaitem0z4z2z3z9">October 2005: Snowshed Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z3z10"><a href="../sitelink/index.cfm?contentid=343" id="ulaitem0z4z2z3z10">November 2005: Packard Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z3z11"><a href="../sitelink/index.cfm?contentid=345" id="ulaitem0z4z2z3z11">December 2005: Short Painted Desert Trail</a>
+				
+			</li>
+		
+		</ul>
+	
+					</div>
+				</div>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z4"><a href="../sitelink/index.cfm?contentid=213" id="ulaitem0z4z2z4">2004 Hike of the Month Archive</a>
+				
+				<div class="imsc">
+					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
+						
+	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z4z2z4">
+	
+
+		
+			<li class="dvs3" id="ulitem0z4z2z4z0"><a href="../sitelink/index.cfm?contentid=287" id="ulaitem0z4z2z4z0">January 2004: Sycamore Spring</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z4z1"><a href="../sitelink/index.cfm?contentid=288" id="ulaitem0z4z2z4z1">February 2004: Wilson Canyon</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z4z2"><a href="../sitelink/index.cfm?contentid=289" id="ulaitem0z4z2z4z2">March 2004: Boulder Canyon</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z4z3"><a href="../sitelink/index.cfm?contentid=290" id="ulaitem0z4z2z4z3">April 2004: Pinnacle Peak</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z4z4"><a href="../sitelink/index.cfm?contentid=291" id="ulaitem0z4z2z4z4">May 2004: Lynx Lake</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z4z5"><a href="../sitelink/index.cfm?contentid=292" id="ulaitem0z4z2z4z5">June 2004: Strawberry Crater</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z4z6"><a href="../sitelink/index.cfm?contentid=293" id="ulaitem0z4z2z4z6">July 2004: Hualapai Mountain Park</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z4z7"><a href="../sitelink/index.cfm?contentid=305" id="ulaitem0z4z2z4z7">August 2004: Nankoweap Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z4z8"><a href="../sitelink/index.cfm?contentid=306" id="ulaitem0z4z2z4z8">September 2004: Carr Peak Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z4z9"><a href="../sitelink/index.cfm?contentid=307" id="ulaitem0z4z2z4z9">October 2004: Thompson Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z4z10"><a href="../sitelink/index.cfm?contentid=308" id="ulaitem0z4z2z4z10">November 2004: Reynolds Creek</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z4z11"><a href="../sitelink/index.cfm?contentid=309" id="ulaitem0z4z2z4z11">December 2004: Brazaletes Pueblo Ruin</a>
+				
+			</li>
+		
+		</ul>
+	
+					</div>
+				</div>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z5"><a href="../sitelink/index.cfm?contentid=212" id="ulaitem0z4z2z5">2003 Hike of the Month Archive</a>
+				
+				<div class="imsc">
+					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
+						
+	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z4z2z5">
+	
+
+		
+			<li class="dvs3" id="ulitem0z4z2z5z0"><a href="../sitelink/index.cfm?contentid=263" id="ulaitem0z4z2z5z0">January 2003: Scheelite Canyon Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z5z1"><a href="../sitelink/index.cfm?contentid=264" id="ulaitem0z4z2z5z1">February 2003: Bronco Creek Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z5z2"><a href="../sitelink/index.cfm?contentid=265" id="ulaitem0z4z2z5z2">March 2003: Sterling Pass Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z5z3"><a href="../sitelink/index.cfm?contentid=266" id="ulaitem0z4z2z5z3">April 2003: Sixshooter Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z5z4"><a href="../sitelink/index.cfm?contentid=267" id="ulaitem0z4z2z5z4">May 2003: Towel Creek</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z5z5"><a href="../sitelink/index.cfm?contentid=268" id="ulaitem0z4z2z5z5">June 2003: Lower Fish Creek Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z5z6"><a href="../sitelink/index.cfm?contentid=269" id="ulaitem0z4z2z5z6">July 2003: Kendrick Mountain</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z5z7"><a href="../sitelink/index.cfm?contentid=270" id="ulaitem0z4z2z5z7">August 2003: Maverick Mountain</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z5z8"><a href="../sitelink/index.cfm?contentid=271" id="ulaitem0z4z2z5z8">September 2003: Sandys Canyon</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z5z9"><a href="../sitelink/index.cfm?contentid=272" id="ulaitem0z4z2z5z9">October 2003: Haunted Canyon</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z5z10"><a href="../sitelink/index.cfm?contentid=273" id="ulaitem0z4z2z5z10">November 2003: Mexican Hay Lake</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z5z11"><a href="../sitelink/index.cfm?contentid=274" id="ulaitem0z4z2z5z11">December 2003: Brittlebush Trail</a>
+				
+			</li>
+		
+		</ul>
+	
+					</div>
+				</div>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z6"><a href="../sitelink/index.cfm?contentid=211" id="ulaitem0z4z2z6">2002 Hike of the Month Archive</a>
+				
+				<div class="imsc">
+					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
+						
+	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z4z2z6">
+	
+
+		
+			<li class="dvs3" id="ulitem0z4z2z6z0"><a href="../sitelink/index.cfm?contentid=239" id="ulaitem0z4z2z6z0">January 2002: Lost Goldmine Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z6z1"><a href="../sitelink/index.cfm?contentid=240" id="ulaitem0z4z2z6z1">February 2002: Sardine Canyon</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z6z2"><a href="../sitelink/index.cfm?contentid=241" id="ulaitem0z4z2z6z2">March 2002: Potato Patch Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z6z3"><a href="../sitelink/index.cfm?contentid=242" id="ulaitem0z4z2z6z3">April 2002: Mount Lemmon Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z6z4"><a href="../sitelink/index.cfm?contentid=243" id="ulaitem0z4z2z6z4">May 2002: Woods Canyon Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z6z5"><a href="../sitelink/index.cfm?contentid=244" id="ulaitem0z4z2z6z5">June 2002: Box Camp Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z6z6"><a href="../sitelink/index.cfm?contentid=245" id="ulaitem0z4z2z6z6">July 2002: Little Wolf Creek</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z6z7"><a href="../sitelink/index.cfm?contentid=246" id="ulaitem0z4z2z6z7">August 2002: Lanphier Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z6z8"><a href="../sitelink/index.cfm?contentid=247" id="ulaitem0z4z2z6z8">September 2002: Sitgreaves Mountain</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z6z9"><a href="../sitelink/index.cfm?contentid=248" id="ulaitem0z4z2z6z9">October 2002: Indian Springs Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z6z10"><a href="../sitelink/index.cfm?contentid=249" id="ulaitem0z4z2z6z10">November 2002: Spur Cross Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z6z11"><a href="../sitelink/index.cfm?contentid=250" id="ulaitem0z4z2z6z11">December 2002: Robber's Roost</a>
+				
+			</li>
+		
+		</ul>
+	
+					</div>
+				</div>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z7"><a href="../sitelink/index.cfm?contentid=208" id="ulaitem0z4z2z7">2001 Hike of the Month Archive</a>
+				
+				<div class="imsc">
+					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
+						
+	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z4z2z7">
+	
+
+		
+			<li class="dvs3" id="ulitem0z4z2z7z0"><a href="../sitelink/index.cfm?contentid=210" id="ulaitem0z4z2z7z0">January 2001: Cody Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z7z1"><a href="../sitelink/index.cfm?contentid=228" id="ulaitem0z4z2z7z1">February 2001: Scotia Canyon Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z7z2"><a href="../sitelink/index.cfm?contentid=229" id="ulaitem0z4z2z7z2">March 2001: Brins Mesa Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z7z3"><a href="../sitelink/index.cfm?contentid=230" id="ulaitem0z4z2z7z3">April 2001: Inner Basin Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z7z4"><a href="../sitelink/index.cfm?contentid=231" id="ulaitem0z4z2z7z4">May 2001: Bear Wallow Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z7z5"><a href="../sitelink/index.cfm?contentid=232" id="ulaitem0z4z2z7z5">June 2001: Pieper Hatchery Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z7z6"><a href="../sitelink/index.cfm?contentid=233" id="ulaitem0z4z2z7z6">July 2001: Woods Canyon Lake</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z7z7"><a href="../sitelink/index.cfm?contentid=234" id="ulaitem0z4z2z7z7">August 2001: West Fork of Oak Creek</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z7z8"><a href="../sitelink/index.cfm?contentid=235" id="ulaitem0z4z2z7z8">September 2001: North Canyon Trail</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z7z9"><a href="../sitelink/index.cfm?contentid=236" id="ulaitem0z4z2z7z9">October 2001: Escudilla Mountain</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z7z10"><a href="../sitelink/index.cfm?contentid=237" id="ulaitem0z4z2z7z10">November 2001: Picketpost Mountain</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs3" id="ulitem0z4z2z7z11"><a href="../sitelink/index.cfm?contentid=238" id="ulaitem0z4z2z7z11">December 2001: Parsons Trail</a>
+				
+			</li>
+		
+		</ul>
+	
+					</div>
+				</div>
+				
+			</li>
+		
+		</ul>
+	
+					</div>
+				</div>
+				
+			</li>
+		
+		</ul>
+	
+					</div>
+				</div>
+				
+			</li>
+		
+
+		
+			<li class="imatm" style="width:98px; height:29px; " id="ulitem0z5"><a href="../sitelink/index.cfm?contentid=19" himg="../images/nav/photo_u.jpg" style="background-image:url(../images/nav/photo_b.jpg);background-repeat:no-repeat;background-position:center center;" id="ulaitem0z5"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z5"></span></span></a>
 				
 				<div class="imsc">
 					<div class="imsubc" style="width:145px;top:0px;left:0px;"><div class="imunder"></div><div></div>
 						
-	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z5">
+	<ul style="background-color:#c3bcd9;margin:0px 0px;" id="x1ub0z5">
 	
 
 		
-			<li class="dvs3" id="ulitem0z5z0"><a href="../sitelink/index.cfm?contentid=192" id="ulaitem0z5z0">Hike of the Month</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1"><a href="../sitelink/index.cfm?contentid=193" id="ulaitem0z5z1">Hike Archive by Region</a>
+			<li class="dvs4" id="ulitem0z5z0"><a href="../sitelink/index.cfm?contentid=53" id="ulaitem0z5z0">Portfolio</a>
 				
 				<div class="imsc">
 					<div class="imsubc" style="width:130px; top: -20px; left: 135px; "><div class="imunder"></div><div></div>
 						
-	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z5z1">
+	<ul style="background-color:#c3bcd9;margin:0px 0px;" id="x1ub0z5z0">
 	
-
-		
-			<li class="dvs3" id="ulitem0z5z1z0"><a href="../sitelink/index.cfm?contentid=298" id="ulaitem0z5z1z0">North West AZ</a>
-				
-				<div class="imsc">
-					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
-						
-	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z5z1z0">
-	
-
-		
-			<li class="dvs3" id="ulitem0z5z1z0z0"><a href="../sitelink/index.cfm?contentid=396" id="ulaitem0z5z1z0z0">Brins Mesa Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z0z1"><a href="../sitelink/index.cfm?contentid=397" id="ulaitem0z5z1z0z1">Inner Basin Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z0z2"><a href="../sitelink/index.cfm?contentid=398" id="ulaitem0z5z1z0z2">West Fork of Oak Creek</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z0z3"><a href="../sitelink/index.cfm?contentid=399" id="ulaitem0z5z1z0z3">North Canyon Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z0z4"><a href="../sitelink/index.cfm?contentid=400" id="ulaitem0z5z1z0z4">Woods Canyon Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z0z5"><a href="../sitelink/index.cfm?contentid=401" id="ulaitem0z5z1z0z5">Sitgreaves Mountain</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z0z6"><a href="../sitelink/index.cfm?contentid=402" id="ulaitem0z5z1z0z6">Kendrick Mountain</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z0z7"><a href="../sitelink/index.cfm?contentid=403" id="ulaitem0z5z1z0z7">Sandys Canyon</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z0z8"><a href="../sitelink/index.cfm?contentid=404" id="ulaitem0z5z1z0z8">Wilson Canyon</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z0z9"><a href="../sitelink/index.cfm?contentid=405" id="ulaitem0z5z1z0z9">Strawberry Crater</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z0z10"><a href="../sitelink/index.cfm?contentid=406" id="ulaitem0z5z1z0z10">Nankoweap Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z0z11"><a href="../sitelink/index.cfm?contentid=407" id="ulaitem0z5z1z0z11">Munds Wagon Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z0z12"><a href="../sitelink/index.cfm?contentid=408" id="ulaitem0z5z1z0z12">Keyhole Sink</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z0z13"><a href="../sitelink/index.cfm?contentid=409" id="ulaitem0z5z1z0z13">Buck Mountain</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z0z14"><a href="../sitelink/index.cfm?contentid=410" id="ulaitem0z5z1z0z14">Mormon Lake Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z0z15"><a href="../sitelink/index.cfm?contentid=411" id="ulaitem0z5z1z0z15">Camp Beale Loop Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z0z16"><a href="../sitelink/index.cfm?contentid=412" id="ulaitem0z5z1z0z16">Big Tank Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z0z17"><a href="../sitelink/index.cfm?contentid=413" id="ulaitem0z5z1z0z17">Verde River Greenway</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z0z18"><a href="../sitelink/index.cfm?contentid=414" id="ulaitem0z5z1z0z18">Walnut Canyon</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z0z19"><a href="../sitelink/index.cfm?contentid=415" id="ulaitem0z5z1z0z19">Grand Canyon's Interior Peaks</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z0z20"><a href="../sitelink/index.cfm?contentid=416" id="ulaitem0z5z1z0z20">Red Mountain Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z0z21"><a href="../sitelink/index.cfm?contentid=1115" id="ulaitem0z5z1z0z21">Sand Hill Crack</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z0z22"><a href="../sitelink/index.cfm?contentid=1138" id="ulaitem0z5z1z0z22">The Dogie Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z0z23"><a href="../sitelink/index.cfm?contentid=1139" id="ulaitem0z5z1z0z23">South Canyon</a>
-				
-			</li>
-		
 		</ul>
 	
 					</div>
@@ -2950,548 +4133,138 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z1z1"><a href="../sitelink/index.cfm?contentid=299" id="ulaitem0z5z1z1">North East AZ</a>
-				
-				<div class="imsc">
-					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
-						
-	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z5z1z1">
-	
-
-		
-			<li class="dvs3" id="ulitem0z5z1z1z0"><a href="../sitelink/index.cfm?contentid=424" id="ulaitem0z5z1z1z0">Escudilla Mountain</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z1z1"><a href="../sitelink/index.cfm?contentid=425" id="ulaitem0z5z1z1z1">Tour the White House (Ruins)</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z1z2"><a href="../sitelink/index.cfm?contentid=426" id="ulaitem0z5z1z1z2">Veit Springs Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z1z3"><a href="../sitelink/index.cfm?contentid=1114" id="ulaitem0z5z1z1z3">Sand Hill Crack</a>
-				
-			</li>
-		
-		</ul>
-	
-					</div>
-				</div>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z2"><a href="../sitelink/index.cfm?contentid=300" id="ulaitem0z5z1z2">Western AZ</a>
-				
-				<div class="imsc">
-					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
-						
-	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z5z1z2">
-	
-
-		
-			<li class="dvs3" id="ulitem0z5z1z2z0"><a href="../sitelink/index.cfm?contentid=427" id="ulaitem0z5z1z2z0">Potato Patch Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z2z1"><a href="../sitelink/index.cfm?contentid=428" id="ulaitem0z5z1z2z1">Sycamore Spring</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z2z2"><a href="../sitelink/index.cfm?contentid=429" id="ulaitem0z5z1z2z2">Hualapai Mountain Park</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z2z3"><a href="../sitelink/index.cfm?contentid=430" id="ulaitem0z5z1z2z3">Wabayuma Peak Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z2z4"><a href="../sitelink/index.cfm?contentid=431" id="ulaitem0z5z1z2z4">Palm Canyon</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z2z5"><a href="../sitelink/index.cfm?contentid=432" id="ulaitem0z5z1z2z5">Short Painted Desert Trail</a>
-				
-			</li>
-		
-		</ul>
-	
-					</div>
-				</div>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z3"><a href="../sitelink/index.cfm?contentid=301" id="ulaitem0z5z1z3">Central AZ</a>
-				
-				<div class="imsc">
-					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
-						
-	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z5z1z3">
-	
-
-		
-			<li class="dvs3" id="ulitem0z5z1z3z0"><a href="../sitelink/index.cfm?contentid=433" id="ulaitem0z5z1z3z0">Parsons Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z3z1"><a href="../sitelink/index.cfm?contentid=434" id="ulaitem0z5z1z3z1">Little Wolf Creek</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z3z2"><a href="../sitelink/index.cfm?contentid=435" id="ulaitem0z5z1z3z2">Robber's Roost</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z3z3"><a href="../sitelink/index.cfm?contentid=436" id="ulaitem0z5z1z3z3">Sterling Pass Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z3z4"><a href="../sitelink/index.cfm?contentid=437" id="ulaitem0z5z1z3z4">Towel Creek</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z3z5"><a href="../sitelink/index.cfm?contentid=438" id="ulaitem0z5z1z3z5">Maverick Mountain</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z3z6"><a href="../sitelink/index.cfm?contentid=439" id="ulaitem0z5z1z3z6">Brittlebush Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z3z7"><a href="../sitelink/index.cfm?contentid=440" id="ulaitem0z5z1z3z7">Boulder Canyon</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z3z8"><a href="../sitelink/index.cfm?contentid=441" id="ulaitem0z5z1z3z8">Pinnacle Peak</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z3z9"><a href="../sitelink/index.cfm?contentid=442" id="ulaitem0z5z1z3z9">Lynx Lake</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z3z10"><a href="../sitelink/index.cfm?contentid=443" id="ulaitem0z5z1z3z10">Reynolds Creek</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z3z11"><a href="../sitelink/index.cfm?contentid=444" id="ulaitem0z5z1z3z11">Brazaletes Pueblo Ruin</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z3z12"><a href="../sitelink/index.cfm?contentid=445" id="ulaitem0z5z1z3z12">Coffee Flat Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z3z13"><a href="../sitelink/index.cfm?contentid=446" id="ulaitem0z5z1z3z13">Thumb Butte</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z3z14"><a href="../sitelink/index.cfm?contentid=447" id="ulaitem0z5z1z3z14">Packard Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z3z15"><a href="../sitelink/index.cfm?contentid=448" id="ulaitem0z5z1z3z15">Willow Springs Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z3z16"><a href="../sitelink/index.cfm?contentid=449" id="ulaitem0z5z1z3z16">Agua Fria</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z3z17"><a href="../sitelink/index.cfm?contentid=1119" id="ulaitem0z5z1z3z17">Cottonwood Creek</a>
-				
-			</li>
-		
-		</ul>
-	
-					</div>
-				</div>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z4"><a href="../sitelink/index.cfm?contentid=302" id="ulaitem0z5z1z4">Eastern AZ</a>
-				
-				<div class="imsc">
-					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
-						
-	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z5z1z4">
-	
-
-		
-			<li class="dvs3" id="ulitem0z5z1z4z0"><a href="../sitelink/index.cfm?contentid=450" id="ulaitem0z5z1z4z0">Bear Wallow Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z4z1"><a href="../sitelink/index.cfm?contentid=451" id="ulaitem0z5z1z4z1">Pieper Hatchery Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z4z2"><a href="../sitelink/index.cfm?contentid=452" id="ulaitem0z5z1z4z2">Woods Canyon Lake</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z4z3"><a href="../sitelink/index.cfm?contentid=453" id="ulaitem0z5z1z4z3">Picketpost Mountain</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z4z4"><a href="../sitelink/index.cfm?contentid=454" id="ulaitem0z5z1z4z4">Lanphier Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z4z5"><a href="../sitelink/index.cfm?contentid=455" id="ulaitem0z5z1z4z5">Indian Springs Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z4z6"><a href="../sitelink/index.cfm?contentid=456" id="ulaitem0z5z1z4z6">Spur Cross Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z4z7"><a href="../sitelink/index.cfm?contentid=457" id="ulaitem0z5z1z4z7">Lower Fish Creek Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z4z8"><a href="../sitelink/index.cfm?contentid=458" id="ulaitem0z5z1z4z8">Mexican Hay Lake</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z4z9"><a href="../sitelink/index.cfm?contentid=459" id="ulaitem0z5z1z4z9">Thompson Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z4z10"><a href="../sitelink/index.cfm?contentid=460" id="ulaitem0z5z1z4z10">Forks in the Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z4z11"><a href="../sitelink/index.cfm?contentid=461" id="ulaitem0z5z1z4z11">Rose Peak</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z4z12"><a href="../sitelink/index.cfm?contentid=462" id="ulaitem0z5z1z4z12">San Carlos Apache Indian Reservation</a>
-				
-			</li>
-		
-		</ul>
-	
-					</div>
-				</div>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z5"><a href="../sitelink/index.cfm?contentid=303" id="ulaitem0z5z1z5">Phoenix Area</a>
-				
-				<div class="imsc">
-					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
-						
-	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z5z1z5">
-	
-
-		
-			<li class="dvs3" id="ulitem0z5z1z5z0"><a href="../sitelink/index.cfm?contentid=463" id="ulaitem0z5z1z5z0">Lost Goldmine Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z5z1"><a href="../sitelink/index.cfm?contentid=464" id="ulaitem0z5z1z5z1">Bronco Creek Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z5z2"><a href="../sitelink/index.cfm?contentid=1118" id="ulaitem0z5z1z5z2">Cottonwood Creek</a>
-				
-			</li>
-		
-		</ul>
-	
-					</div>
-				</div>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z6"><a href="../sitelink/index.cfm?contentid=304" id="ulaitem0z5z1z6">Tucson Area/South East AZ</a>
-				
-				<div class="imsc">
-					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
-						
-	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z5z1z6">
-	
-
-		
-			<li class="dvs3" id="ulitem0z5z1z6z0"><a href="../sitelink/index.cfm?contentid=465" id="ulaitem0z5z1z6z0">Cody Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z6z1"><a href="../sitelink/index.cfm?contentid=466" id="ulaitem0z5z1z6z1">Scotia Canyon Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z6z2"><a href="../sitelink/index.cfm?contentid=467" id="ulaitem0z5z1z6z2">Sardine Canyon</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z6z3"><a href="../sitelink/index.cfm?contentid=468" id="ulaitem0z5z1z6z3">Mount Lemmon Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z6z4"><a href="../sitelink/index.cfm?contentid=469" id="ulaitem0z5z1z6z4">Box Camp Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z6z5"><a href="../sitelink/index.cfm?contentid=470" id="ulaitem0z5z1z6z5">Scheelite Canyon Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z6z6"><a href="../sitelink/index.cfm?contentid=471" id="ulaitem0z5z1z6z6">Sixshooter Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z6z7"><a href="../sitelink/index.cfm?contentid=472" id="ulaitem0z5z1z6z7">Haunted Canyon</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z6z8"><a href="../sitelink/index.cfm?contentid=473" id="ulaitem0z5z1z6z8">Carr Peak Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z6z9"><a href="../sitelink/index.cfm?contentid=474" id="ulaitem0z5z1z6z9">Painted Bluff Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z6z10"><a href="../sitelink/index.cfm?contentid=475" id="ulaitem0z5z1z6z10">Snowshed Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z6z11"><a href="../sitelink/index.cfm?contentid=476" id="ulaitem0z5z1z6z11">San Bernadino Wildlife Refuge</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z6z12"><a href="../sitelink/index.cfm?contentid=477" id="ulaitem0z5z1z6z12">Perimeter Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z6z13"><a href="../sitelink/index.cfm?contentid=478" id="ulaitem0z5z1z6z13">Bloody Spring</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z6z14"><a href="../sitelink/index.cfm?contentid=479" id="ulaitem0z5z1z6z14">Parker Canyon Lake</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z6z15"><a href="../sitelink/index.cfm?contentid=480" id="ulaitem0z5z1z6z15">Seven Falls Bear Canyon</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z6z16"><a href="../sitelink/index.cfm?contentid=481" id="ulaitem0z5z1z6z16">Table Top Mountain 107</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z6z17"><a href="../sitelink/index.cfm?contentid=482" id="ulaitem0z5z1z6z17">San Pedro Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z6z18"><a href="../sitelink/index.cfm?contentid=483" id="ulaitem0z5z1z6z18">Sugarloaf Mtn., Chiricahua Mon.</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z6z19"><a href="../sitelink/index.cfm?contentid=1113" id="ulaitem0z5z1z6z19">Hot Springs Loop</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z6z20"><a href="../sitelink/index.cfm?contentid=1116" id="ulaitem0z5z1z6z20">Honey Bee Canyon</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z1z6z21"><a href="../sitelink/index.cfm?contentid=1117" id="ulaitem0z5z1z6z21">The Anza Trail</a>
-				
-			</li>
-		
-		</ul>
-	
-					</div>
-				</div>
-				
-			</li>
-		
-		</ul>
-	
-					</div>
-				</div>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2"><a href="../sitelink/index.cfm?contentid=194" id="ulaitem0z5z2">Hike Archive by Date</a>
+			<li class="dvs4" id="ulitem0z5z1"><a href="../sitelink/index.cfm?contentid=54" id="ulaitem0z5z1">Slideshows</a>
 				
 				<div class="imsc">
 					<div class="imsubc" style="width:130px; top: -20px; left: 135px; "><div class="imunder"></div><div></div>
 						
-	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z5z2">
+	<ul style="background-color:#c3bcd9;margin:0px 0px;" id="x1ub0z5z1">
 	
 
 		
-			<li class="dvs3" id="ulitem0z5z2z0"><a href="../sitelink/index.cfm?contentid=1089" id="ulaitem0z5z2z0">2008 Hike of the Month Archive</a>
+			<li class="dvs4" id="ulitem0z5z1z0"><a href="../sitelink/index.cfm?contentid=1103" id="ulaitem0z5z1z0">View More Slideshows</a>
+				
+			</li>
+		
+		</ul>
+	
+					</div>
+				</div>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z2"><a href="../sitelink/index.cfm?contentid=1193" id="ulaitem0z5z2">Where Is This?</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z3"><a href="../sitelink/index.cfm?contentid=57" id="ulaitem0z5z3">Photo Tips</a>
+				
+				<div class="imsc">
+					<div class="imsubc" style="width:130px; top: -20px; left: 135px; "><div class="imunder"></div><div></div>
+						
+	<ul style="background-color:#c3bcd9;margin:0px 0px;" id="x1ub0z5z3">
+	
+
+		
+			<li class="dvs4" id="ulitem0z5z3z0"><a href="../sitelink/index.cfm?contentid=1078" id="ulaitem0z5z3z0">Photo Tips Archives</a>
 				
 				<div class="imsc">
 					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
 						
-	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z5z2z0">
+	<ul style="background-color:#c3bcd9;margin:0px 0px;" id="x1ub0z5z3z0">
 	
 
 		
-			<li class="dvs3" id="ulitem0z5z2z0z0"><a href="../sitelink/index.cfm?contentid=1090" id="ulaitem0z5z2z0z0">January 2008: Honey Bee Canyon</a>
+			<li class="dvs4" id="ulitem0z5z3z0z0"><a href="../sitelink/index.cfm?contentid=1207" id="ulaitem0z5z3z0z0">Making the Switch</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z0z1"><a href="../sitelink/index.cfm?contentid=1094" id="ulaitem0z5z2z0z1">February 2008: Sand Hill Crack</a>
+			<li class="dvs4" id="ulitem0z5z3z0z1"><a href="../sitelink/index.cfm?contentid=1200" id="ulaitem0z5z3z0z1">Entry Points - October 2008 Photo Tips</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z0z2"><a href="../sitelink/index.cfm?contentid=1099" id="ulaitem0z5z2z0z2">March 2008: Hot Springs Loop</a>
+			<li class="dvs4" id="ulitem0z5z3z0z2"><a href="../sitelink/index.cfm?contentid=1188" id="ulaitem0z5z3z0z2">The Eyes Have It</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z0z3"><a href="../sitelink/index.cfm?contentid=1108" id="ulaitem0z5z2z0z3">April 2008: South Canyon</a>
+			<li class="dvs4" id="ulitem0z5z3z0z3"><a href="../sitelink/index.cfm?contentid=1169" id="ulaitem0z5z3z0z3">Fear Factor</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z0z4"><a href="../sitelink/index.cfm?contentid=1129" id="ulaitem0z5z2z0z4">May 2008: The Dogie Trail</a>
+			<li class="dvs4" id="ulitem0z5z3z0z4"><a href="../sitelink/index.cfm?contentid=1165" id="ulaitem0z5z3z0z4">Water Softener</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z3z0z5"><a href="../sitelink/index.cfm?contentid=1159" id="ulaitem0z5z3z0z5">Family Style</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z3z0z6"><a href="../sitelink/index.cfm?contentid=1137" id="ulaitem0z5z3z0z6">Sports Photography</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z3z0z7"><a href="../sitelink/index.cfm?contentid=1136" id="ulaitem0z5z3z0z7">Photoshop Techniques</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z3z0z8"><a href="../sitelink/index.cfm?contentid=1126" id="ulaitem0z5z3z0z8">Lens Choices for Portraiture</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z3z0z9"><a href="../sitelink/index.cfm?contentid=1121" id="ulaitem0z5z3z0z9">Working the Subject—Changing Light</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z3z0z10"><a href="../sitelink/index.cfm?contentid=1122" id="ulaitem0z5z3z0z10">Scouting Locations</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z3z0z11"><a href="../sitelink/index.cfm?contentid=1123" id="ulaitem0z5z3z0z11">Warming Filters for On-Camera Flash</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z3z0z12"><a href="../sitelink/index.cfm?contentid=1124" id="ulaitem0z5z3z0z12">Get Closer: In the Thick of the Action</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z3z0z13"><a href="../sitelink/index.cfm?contentid=1125" id="ulaitem0z5z3z0z13">Get Closer: Composition</a>
+				
+			</li>
+		
+		</ul>
+	
+					</div>
+				</div>
 				
 			</li>
 		
@@ -3504,82 +4277,129 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z1"><a href="../sitelink/index.cfm?contentid=216" id="ulaitem0z5z2z1">2007 Hike of the Month Archive</a>
+			<li class="dvs4" id="ulitem0z5z4"><a href="../sitelink/index.cfm?contentid=60" id="ulaitem0z5z4">Featured Prints</a>
+				
+				<div class="imsc">
+					<div class="imsubc" style="width:130px; top: -20px; left: 135px; "><div class="imunder"></div><div></div>
+						
+	<ul style="background-color:#c3bcd9;margin:0px 0px;" id="x1ub0z5z4">
+	
+		</ul>
+	
+					</div>
+				</div>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z5"><a href="../sitelink/index.cfm?contentid=61" id="ulaitem0z5z5">Vintage Covers</a>
+				
+				<div class="imsc">
+					<div class="imsubc" style="width:130px; top: -20px; left: 135px; "><div class="imunder"></div><div></div>
+						
+	<ul style="background-color:#c3bcd9;margin:0px 0px;" id="x1ub0z5z5">
+	
+
+		
+			<li class="dvs4" id="ulitem0z5z5z0"><a href="../sitelink/index.cfm?contentid=784" id="ulaitem0z5z5z0">1940s</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z5z1"><a href="../sitelink/index.cfm?contentid=785" id="ulaitem0z5z5z1">1950s</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z5z2"><a href="../sitelink/index.cfm?contentid=786" id="ulaitem0z5z5z2">1960s</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z5z3"><a href="../sitelink/index.cfm?contentid=787" id="ulaitem0z5z5z3">1970s</a>
+				
+			</li>
+		
+		</ul>
+	
+					</div>
+				</div>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z6"><a href="../sitelink/index.cfm?contentid=62" id="ulaitem0z5z6">Virtual Tours</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z7"><a href="../sitelink/index.cfm?contentid=63" id="ulaitem0z5z7">Tours &amp; Workshops</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z8"><a href="../sitelink/index.cfm?contentid=518" id="ulaitem0z5z8">Photography Archives</a>
+				
+				<div class="imsc">
+					<div class="imsubc" style="width:130px; top: -20px; left: 135px; "><div class="imunder"></div><div></div>
+						
+	<ul style="background-color:#c3bcd9;margin:0px 0px;" id="x1ub0z5z8">
+	
+
+		
+			<li class="dvs4" id="ulitem0z5z8z0"><a href="../sitelink/index.cfm?contentid=737" id="ulaitem0z5z8z0">Photo Tips</a>
 				
 				<div class="imsc">
 					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
 						
-	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z5z2z1">
+	<ul style="background-color:#c3bcd9;margin:0px 0px;" id="x1ub0z5z8z0">
 	
 
 		
-			<li class="dvs3" id="ulitem0z5z2z1z0"><a href="../sitelink/index.cfm?contentid=371" id="ulaitem0z5z2z1z0">January 2007: Table Top Mountain</a>
+			<li class="dvs4" id="ulitem0z5z8z0z0"><a href="../sitelink/index.cfm?contentid=1127" id="ulaitem0z5z8z0z0">Photo Illustration</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z1z1"><a href="../sitelink/index.cfm?contentid=372" id="ulaitem0z5z2z1z1">February 2007: Agua Fria National Monument</a>
+			<li class="dvs4" id="ulitem0z5z8z0z1"><a href="../sitelink/index.cfm?contentid=1112" id="ulaitem0z5z8z0z1">Lens Choices for Portraiture</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z1z2"><a href="../sitelink/index.cfm?contentid=373" id="ulaitem0z5z2z1z2">March 2007: Rose Peak Trail</a>
+			<li class="dvs4" id="ulitem0z5z8z0z2"><a href="../sitelink/index.cfm?contentid=738" id="ulaitem0z5z8z0z2">Working the Subject—Changing Light</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z1z3"><a href="../sitelink/index.cfm?contentid=374" id="ulaitem0z5z2z1z3">April 2007: San Pedro Trail</a>
+			<li class="dvs4" id="ulitem0z5z8z0z3"><a href="../sitelink/index.cfm?contentid=740" id="ulaitem0z5z8z0z3">Warming Filters for On-Camera Flash</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z1z4"><a href="../sitelink/index.cfm?contentid=375" id="ulaitem0z5z2z1z4">May 2007: Sugarloaf Mountain</a>
+			<li class="dvs4" id="ulitem0z5z8z0z4"><a href="../sitelink/index.cfm?contentid=739" id="ulaitem0z5z8z0z4">Scouting Locations</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z1z5"><a href="../sitelink/index.cfm?contentid=376" id="ulaitem0z5z2z1z5">June 2007: Grand Canyon</a>
+			<li class="dvs4" id="ulitem0z5z8z0z5"><a href="../sitelink/index.cfm?contentid=741" id="ulaitem0z5z8z0z5">Get Closer Part One</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z1z6"><a href="../sitelink/index.cfm?contentid=377" id="ulaitem0z5z2z1z6">July 2007: San Carlos Apache Indian Reservation</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z1z7"><a href="../sitelink/index.cfm?contentid=378" id="ulaitem0z5z2z1z7">August 2007: Veit Springs Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z1z8"><a href="../sitelink/index.cfm?contentid=379" id="ulaitem0z5z2z1z8">September 2007: Red Mountain Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z1z9"><a href="../sitelink/index.cfm?contentid=1088" id="ulaitem0z5z2z1z9">October 2007: View Point Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z1z10"><a href="../sitelink/index.cfm?contentid=1069" id="ulaitem0z5z2z1z10">November 2007: Cottonwood Creek</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z1z11"><a href="../sitelink/index.cfm?contentid=1079" id="ulaitem0z5z2z1z11">December 2007: The Anza Trail</a>
+			<li class="dvs4" id="ulitem0z5z8z0z6"><a href="../sitelink/index.cfm?contentid=742" id="ulaitem0z5z8z0z6">Get Closer Part Two</a>
 				
 			</li>
 		
@@ -3592,82 +4412,196 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z2"><a href="../sitelink/index.cfm?contentid=215" id="ulaitem0z5z2z2">2006 Hike of the Month Archive</a>
+			<li class="dvs4" id="ulitem0z5z8z1"><a href="../sitelink/index.cfm?contentid=743" id="ulaitem0z5z8z1">Phototography Talk</a>
 				
 				<div class="imsc">
 					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
 						
-	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z5z2z2">
+	<ul style="background-color:#c3bcd9;margin:0px 0px;" id="x1ub0z5z8z1">
 	
 
 		
-			<li class="dvs3" id="ulitem0z5z2z2z0"><a href="../sitelink/index.cfm?contentid=347" id="ulaitem0z5z2z2z0">January 2006: San Bernadino Wildlife Refuge</a>
+			<li class="dvs4" id="ulitem0z5z8z1z0"><a href="../sitelink/index.cfm?contentid=744" id="ulaitem0z5z8z1z0">In Praise of the View Camera</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z2z1"><a href="../sitelink/index.cfm?contentid=348" id="ulaitem0z5z2z2z1">February 2006: Perimeter Trail</a>
+			<li class="dvs4" id="ulitem0z5z8z1z1"><a href="../sitelink/index.cfm?contentid=745" id="ulaitem0z5z8z1z1">Improving Your Photography</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z2z2"><a href="../sitelink/index.cfm?contentid=349" id="ulaitem0z5z2z2z2">March 2006: Willow Springs Trail</a>
+			<li class="dvs4" id="ulitem0z5z8z1z2"><a href="../sitelink/index.cfm?contentid=746" id="ulaitem0z5z8z1z2">Flowing Water in Landscape Photographs</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z2z3"><a href="../sitelink/index.cfm?contentid=350" id="ulaitem0z5z2z2z3">April 2006: Camp Beale Loop Trail</a>
+			<li class="dvs4" id="ulitem0z5z8z1z3"><a href="../sitelink/index.cfm?contentid=748" id="ulaitem0z5z8z1z3">Film vs. Digital</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z2z4"><a href="../sitelink/index.cfm?contentid=351" id="ulaitem0z5z2z2z4">May 2006: Canyon de Chelly</a>
+			<li class="dvs4" id="ulitem0z5z8z1z4"><a href="../sitelink/index.cfm?contentid=749" id="ulaitem0z5z8z1z4">What I Know About Photography</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z2z5"><a href="../sitelink/index.cfm?contentid=352" id="ulaitem0z5z2z2z5">June 2006: White Mountains</a>
+			<li class="dvs4" id="ulitem0z5z8z1z5"><a href="../sitelink/index.cfm?contentid=747" id="ulaitem0z5z8z1z5">Improving Your Photography 2</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z2z6"><a href="../sitelink/index.cfm?contentid=353" id="ulaitem0z5z2z2z6">July 2006: Kaibab Plateau</a>
+			<li class="dvs4" id="ulitem0z5z8z1z6"><a href="../sitelink/index.cfm?contentid=750" id="ulaitem0z5z8z1z6">Emotional Content</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z2z7"><a href="../sitelink/index.cfm?contentid=354" id="ulaitem0z5z2z2z7">August 2006: Fort Bowie</a>
+			<li class="dvs4" id="ulitem0z5z8z1z7"><a href="../sitelink/index.cfm?contentid=751" id="ulaitem0z5z8z1z7">Notes for a Picture Editor</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z2z8"><a href="../sitelink/index.cfm?contentid=355" id="ulaitem0z5z2z2z8">September 2006: Dead Horse Ranch State Park</a>
+			<li class="dvs4" id="ulitem0z5z8z1z8"><a href="../sitelink/index.cfm?contentid=752" id="ulaitem0z5z8z1z8">Film vs. Digital Revisited</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z2z9"><a href="../sitelink/index.cfm?contentid=356" id="ulaitem0z5z2z2z9">October 2006: Walnut Canyon</a>
+			<li class="dvs4" id="ulitem0z5z8z1z9"><a href="../sitelink/index.cfm?contentid=753" id="ulaitem0z5z8z1z9">Aspire to the Level of Your Best Competition</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z2z10"><a href="../sitelink/index.cfm?contentid=357" id="ulaitem0z5z2z2z10">November 2006: Parker Canyon Lake</a>
+			<li class="dvs4" id="ulitem0z5z8z1z10"><a href="../sitelink/index.cfm?contentid=754" id="ulaitem0z5z8z1z10">Who Said That</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z2z11"><a href="../sitelink/index.cfm?contentid=358" id="ulaitem0z5z2z2z11">December 2006: Seven Falls, Bear Canyon</a>
+			<li class="dvs4" id="ulitem0z5z8z1z11"><a href="../sitelink/index.cfm?contentid=755" id="ulaitem0z5z8z1z11">Don’t Confuse Resolution With Quality</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z8z1z12"><a href="../sitelink/index.cfm?contentid=769" id="ulaitem0z5z8z1z12">Think Like a Camera</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z8z1z13"><a href="../sitelink/index.cfm?contentid=768" id="ulaitem0z5z8z1z13">In Photography, Less is Often More</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z8z1z14"><a href="../sitelink/index.cfm?contentid=756" id="ulaitem0z5z8z1z14">A World in Motion</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z8z1z15"><a href="../sitelink/index.cfm?contentid=767" id="ulaitem0z5z8z1z15">Choose the Right Tool</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z8z1z16"><a href="../sitelink/index.cfm?contentid=757" id="ulaitem0z5z8z1z16">Getting Published</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z8z1z17"><a href="../sitelink/index.cfm?contentid=758" id="ulaitem0z5z8z1z17">A Tale of Two Media</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z8z1z18"><a href="../sitelink/index.cfm?contentid=770" id="ulaitem0z5z8z1z18">Technology vs Art</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z8z1z19"><a href="../sitelink/index.cfm?contentid=759" id="ulaitem0z5z8z1z19">Chasing Ghosts with a Camera</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z8z1z20"><a href="../sitelink/index.cfm?contentid=760" id="ulaitem0z5z8z1z20">In Your Own Backyard</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z8z1z21"><a href="../sitelink/index.cfm?contentid=761" id="ulaitem0z5z8z1z21">Glen Canyon Vista</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z8z1z22"><a href="../sitelink/index.cfm?contentid=762" id="ulaitem0z5z8z1z22">Photographing Antelope Canyon</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z8z1z23"><a href="../sitelink/index.cfm?contentid=763" id="ulaitem0z5z8z1z23">Baja Photo Trip</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z8z1z24"><a href="../sitelink/index.cfm?contentid=764" id="ulaitem0z5z8z1z24">Photographing Tombstone</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z8z1z25"><a href="../sitelink/index.cfm?contentid=765" id="ulaitem0z5z8z1z25">Photographing San Xavier</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z8z1z26"><a href="../sitelink/index.cfm?contentid=766" id="ulaitem0z5z8z1z26">Photographing Wupatki </a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z8z1z27"><a href="../sitelink/index.cfm?contentid=772" id="ulaitem0z5z8z1z27">FIlm/Digital LETTERS</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z8z1z28"><a href="../sitelink/index.cfm?contentid=771" id="ulaitem0z5z8z1z28">Lil Cowpokes</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z8z1z29"><a href="../sitelink/index.cfm?contentid=774" id="ulaitem0z5z8z1z29">Photographing Clifton </a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z8z1z30"><a href="../sitelink/index.cfm?contentid=773" id="ulaitem0z5z8z1z30">AZ's Two Best Ghost Towns</a>
 				
 			</li>
 		
@@ -3680,441 +4614,190 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z3"><a href="../sitelink/index.cfm?contentid=214" id="ulaitem0z5z2z3">2005 Hike of the Month Archive</a>
+			<li class="dvs4" id="ulitem0z5z8z2"><a href="../sitelink/index.cfm?contentid=797" id="ulaitem0z5z8z2">Ask the Photo Editor</a>
 				
 				<div class="imsc">
 					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
 						
-	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z5z2z3">
+	<ul style="background-color:#c3bcd9;margin:0px 0px;" id="x1ub0z5z8z2">
 	
 
 		
-			<li class="dvs3" id="ulitem0z5z2z3z0"><a href="../sitelink/index.cfm?contentid=323" id="ulaitem0z5z2z3z0">January 2005: Coffee Flat Trail</a>
+			<li class="dvs4" id="ulitem0z5z8z2z0"><a href="../sitelink/index.cfm?contentid=803" id="ulaitem0z5z8z2z0">Does <i>Arizona Highways</i> use 35mm and digital photography?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z3z1"><a href="../sitelink/index.cfm?contentid=325" id="ulaitem0z5z2z3z1">February 2005: Wabayuma Peak Trail</a>
+			<li class="dvs4" id="ulitem0z5z8z2z1"><a href="../sitelink/index.cfm?contentid=798" id="ulaitem0z5z8z2z1">Which lenses should I buy for a 35mm camera?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z3z2"><a href="../sitelink/index.cfm?contentid=327" id="ulaitem0z5z2z3z2">March 2005: Palm Canyon</a>
+			<li class="dvs4" id="ulitem0z5z8z2z2"><a href="../sitelink/index.cfm?contentid=799" id="ulaitem0z5z8z2z2">What type of filter holders are best for large-format?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z3z3"><a href="../sitelink/index.cfm?contentid=329" id="ulaitem0z5z2z3z3">April 2005: Munds Wagon Trail</a>
+			<li class="dvs4" id="ulitem0z5z8z2z3"><a href="../sitelink/index.cfm?contentid=800" id="ulaitem0z5z8z2z3">How do I improve the quality of my pictures?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z3z4"><a href="../sitelink/index.cfm?contentid=331" id="ulaitem0z5z2z3z4">May 2005: Keyhole Sink</a>
+			<li class="dvs4" id="ulitem0z5z8z2z4"><a href="../sitelink/index.cfm?contentid=801" id="ulaitem0z5z8z2z4">What are the differences between 4 x 5 View Cameras?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z3z5"><a href="../sitelink/index.cfm?contentid=333" id="ulaitem0z5z2z3z5">June 2005: Buck Mountain</a>
+			<li class="dvs4" id="ulitem0z5z8z2z5"><a href="../sitelink/index.cfm?contentid=802" id="ulaitem0z5z8z2z5">What aperture setting is best to capture lightning?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z3z6"><a href="../sitelink/index.cfm?contentid=335" id="ulaitem0z5z2z3z6">July 2005: Mormon Lake Trail</a>
+			<li class="dvs4" id="ulitem0z5z8z2z6"><a href="../sitelink/index.cfm?contentid=804" id="ulaitem0z5z8z2z6">Does <i>Arizona Highways</i> have a film preference?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z3z7"><a href="../sitelink/index.cfm?contentid=337" id="ulaitem0z5z2z3z7">August 2005: Painted Bluff Trail</a>
+			<li class="dvs4" id="ulitem0z5z8z2z7"><a href="../sitelink/index.cfm?contentid=805" id="ulaitem0z5z8z2z7">Are 645 transparencies acceptable for landscape photography?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z3z8"><a href="../sitelink/index.cfm?contentid=339" id="ulaitem0z5z2z3z8">September 2005: Thumb Butte</a>
+			<li class="dvs4" id="ulitem0z5z8z2z8"><a href="../sitelink/index.cfm?contentid=806" id="ulaitem0z5z8z2z8">Does <i>Arizona Highways</i> sell photos suitable for framing?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z3z9"><a href="../sitelink/index.cfm?contentid=341" id="ulaitem0z5z2z3z9">October 2005: Snowshed Trail</a>
+			<li class="dvs4" id="ulitem0z5z8z2z9"><a href="../sitelink/index.cfm?contentid=807" id="ulaitem0z5z8z2z9">Can I submit my photos to <i>Arizona Highways</i>?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z3z10"><a href="../sitelink/index.cfm?contentid=343" id="ulaitem0z5z2z3z10">November 2005: Packard Trail</a>
+			<li class="dvs4" id="ulitem0z5z8z2z10"><a href="../sitelink/index.cfm?contentid=808" id="ulaitem0z5z8z2z10">Where can I learn more about photography?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z3z11"><a href="../sitelink/index.cfm?contentid=345" id="ulaitem0z5z2z3z11">December 2005: Short Painted Desert Trail</a>
-				
-			</li>
-		
-		</ul>
-	
-					</div>
-				</div>
+			<li class="dvs4" id="ulitem0z5z8z2z11"><a href="../sitelink/index.cfm?contentid=809" id="ulaitem0z5z8z2z11">How can I improve my amateur photography?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z4"><a href="../sitelink/index.cfm?contentid=213" id="ulaitem0z5z2z4">2004 Hike of the Month Archive</a>
-				
-				<div class="imsc">
-					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
-						
-	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z5z2z4">
-	
-
-		
-			<li class="dvs3" id="ulitem0z5z2z4z0"><a href="../sitelink/index.cfm?contentid=287" id="ulaitem0z5z2z4z0">January 2004: Sycamore Spring</a>
+			<li class="dvs4" id="ulitem0z5z8z2z12"><a href="../sitelink/index.cfm?contentid=810" id="ulaitem0z5z8z2z12">Does <i>Arizona Highways</i> publish amateur photography?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z4z1"><a href="../sitelink/index.cfm?contentid=288" id="ulaitem0z5z2z4z1">February 2004: Wilson Canyon</a>
+			<li class="dvs4" id="ulitem0z5z8z2z13"><a href="../sitelink/index.cfm?contentid=811" id="ulaitem0z5z8z2z13">Which film stock should I use?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z4z2"><a href="../sitelink/index.cfm?contentid=289" id="ulaitem0z5z2z4z2">March 2004: Boulder Canyon</a>
+			<li class="dvs4" id="ulitem0z5z8z2z14"><a href="../sitelink/index.cfm?contentid=812" id="ulaitem0z5z8z2z14">How are images prepared for publication on the Internet?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z4z3"><a href="../sitelink/index.cfm?contentid=290" id="ulaitem0z5z2z4z3">April 2004: Pinnacle Peak</a>
+			<li class="dvs4" id="ulitem0z5z8z2z15"><a href="../sitelink/index.cfm?contentid=813" id="ulaitem0z5z8z2z15">Which lens is best for landscape photographs?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z4z4"><a href="../sitelink/index.cfm?contentid=291" id="ulaitem0z5z2z4z4">May 2004: Lynx Lake</a>
+			<li class="dvs4" id="ulitem0z5z8z2z16"><a href="../sitelink/index.cfm?contentid=814" id="ulaitem0z5z8z2z16">Which filter should I use?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z4z5"><a href="../sitelink/index.cfm?contentid=292" id="ulaitem0z5z2z4z5">June 2004: Strawberry Crater</a>
+			<li class="dvs4" id="ulitem0z5z8z2z17"><a href="../sitelink/index.cfm?contentid=815" id="ulaitem0z5z8z2z17">How was the December 1994 cover photographed?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z4z6"><a href="../sitelink/index.cfm?contentid=293" id="ulaitem0z5z2z4z6">July 2004: Hualapai Mountain Park</a>
+			<li class="dvs4" id="ulitem0z5z8z2z18"><a href="../sitelink/index.cfm?contentid=816" id="ulaitem0z5z8z2z18">When is the best time to photograph Havasu Falls?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z4z7"><a href="../sitelink/index.cfm?contentid=305" id="ulaitem0z5z2z4z7">August 2004: Nankoweap Trail</a>
+			<li class="dvs4" id="ulitem0z5z8z2z19"><a href="../sitelink/index.cfm?contentid=817" id="ulaitem0z5z8z2z19">Will <i>Arizona Highways</i> ever accept digital photography?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z4z8"><a href="../sitelink/index.cfm?contentid=306" id="ulaitem0z5z2z4z8">September 2004: Carr Peak Trail</a>
+			<li class="dvs4" id="ulitem0z5z8z2z20"><a href="../sitelink/index.cfm?contentid=818" id="ulaitem0z5z8z2z20">What's the best film for rafting in the Grand Canyon?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z4z9"><a href="../sitelink/index.cfm?contentid=307" id="ulaitem0z5z2z4z9">October 2004: Thompson Trail</a>
+			<li class="dvs4" id="ulitem0z5z8z2z21"><a href="../sitelink/index.cfm?contentid=819" id="ulaitem0z5z8z2z21">When is an image too saturated?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z4z10"><a href="../sitelink/index.cfm?contentid=308" id="ulaitem0z5z2z4z10">November 2004: Reynolds Creek</a>
+			<li class="dvs4" id="ulitem0z5z8z2z22"><a href="../sitelink/index.cfm?contentid=820" id="ulaitem0z5z8z2z22">What’s the best way to take great landscape photos?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z4z11"><a href="../sitelink/index.cfm?contentid=309" id="ulaitem0z5z2z4z11">December 2004: Brazaletes Pueblo Ruin</a>
-				
-			</li>
-		
-		</ul>
-	
-					</div>
-				</div>
+			<li class="dvs4" id="ulitem0z5z8z2z23"><a href="../sitelink/index.cfm?contentid=821" id="ulaitem0z5z8z2z23">Which filters and film are best for 4x5 photography?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z5"><a href="../sitelink/index.cfm?contentid=212" id="ulaitem0z5z2z5">2003 Hike of the Month Archive</a>
-				
-				<div class="imsc">
-					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
-						
-	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z5z2z5">
-	
-
-		
-			<li class="dvs3" id="ulitem0z5z2z5z0"><a href="../sitelink/index.cfm?contentid=263" id="ulaitem0z5z2z5z0">January 2003: Scheelite Canyon Trail</a>
+			<li class="dvs4" id="ulitem0z5z8z2z24"><a href="../sitelink/index.cfm?contentid=822" id="ulaitem0z5z8z2z24">What’s the best way to use a light meter with landscape subjects?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z5z1"><a href="../sitelink/index.cfm?contentid=264" id="ulaitem0z5z2z5z1">February 2003: Bronco Creek Trail</a>
+			<li class="dvs4" id="ulitem0z5z8z2z25"><a href="../sitelink/index.cfm?contentid=823" id="ulaitem0z5z8z2z25">Will <i>Arizona Highways</i> publish technical data for each photo?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z5z2"><a href="../sitelink/index.cfm?contentid=265" id="ulaitem0z5z2z5z2">March 2003: Sterling Pass Trail</a>
+			<li class="dvs4" id="ulitem0z5z8z2z26"><a href="../sitelink/index.cfm?contentid=824" id="ulaitem0z5z8z2z26">How can I correct for "red eye?"</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z5z3"><a href="../sitelink/index.cfm?contentid=266" id="ulaitem0z5z2z5z3">April 2003: Sixshooter Trail</a>
+			<li class="dvs4" id="ulitem0z5z8z2z27"><a href="../sitelink/index.cfm?contentid=825" id="ulaitem0z5z8z2z27">What's the best lens for a Canon 20D?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z5z4"><a href="../sitelink/index.cfm?contentid=267" id="ulaitem0z5z2z5z4">May 2003: Towel Creek</a>
+			<li class="dvs4" id="ulitem0z5z8z2z28"><a href="../sitelink/index.cfm?contentid=826" id="ulaitem0z5z8z2z28">How many megapixels should I get?</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs3" id="ulitem0z5z2z5z5"><a href="../sitelink/index.cfm?contentid=268" id="ulaitem0z5z2z5z5">June 2003: Lower Fish Creek Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z5z6"><a href="../sitelink/index.cfm?contentid=269" id="ulaitem0z5z2z5z6">July 2003: Kendrick Mountain</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z5z7"><a href="../sitelink/index.cfm?contentid=270" id="ulaitem0z5z2z5z7">August 2003: Maverick Mountain</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z5z8"><a href="../sitelink/index.cfm?contentid=271" id="ulaitem0z5z2z5z8">September 2003: Sandys Canyon</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z5z9"><a href="../sitelink/index.cfm?contentid=272" id="ulaitem0z5z2z5z9">October 2003: Haunted Canyon</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z5z10"><a href="../sitelink/index.cfm?contentid=273" id="ulaitem0z5z2z5z10">November 2003: Mexican Hay Lake</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z5z11"><a href="../sitelink/index.cfm?contentid=274" id="ulaitem0z5z2z5z11">December 2003: Brittlebush Trail</a>
-				
-			</li>
-		
-		</ul>
-	
-					</div>
-				</div>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z6"><a href="../sitelink/index.cfm?contentid=211" id="ulaitem0z5z2z6">2002 Hike of the Month Archive</a>
-				
-				<div class="imsc">
-					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
-						
-	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z5z2z6">
-	
-
-		
-			<li class="dvs3" id="ulitem0z5z2z6z0"><a href="../sitelink/index.cfm?contentid=239" id="ulaitem0z5z2z6z0">January 2002: Lost Goldmine Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z6z1"><a href="../sitelink/index.cfm?contentid=240" id="ulaitem0z5z2z6z1">February 2002: Sardine Canyon</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z6z2"><a href="../sitelink/index.cfm?contentid=241" id="ulaitem0z5z2z6z2">March 2002: Potato Patch Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z6z3"><a href="../sitelink/index.cfm?contentid=242" id="ulaitem0z5z2z6z3">April 2002: Mount Lemmon Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z6z4"><a href="../sitelink/index.cfm?contentid=243" id="ulaitem0z5z2z6z4">May 2002: Woods Canyon Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z6z5"><a href="../sitelink/index.cfm?contentid=244" id="ulaitem0z5z2z6z5">June 2002: Box Camp Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z6z6"><a href="../sitelink/index.cfm?contentid=245" id="ulaitem0z5z2z6z6">July 2002: Little Wolf Creek</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z6z7"><a href="../sitelink/index.cfm?contentid=246" id="ulaitem0z5z2z6z7">August 2002: Lanphier Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z6z8"><a href="../sitelink/index.cfm?contentid=247" id="ulaitem0z5z2z6z8">September 2002: Sitgreaves Mountain</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z6z9"><a href="../sitelink/index.cfm?contentid=248" id="ulaitem0z5z2z6z9">October 2002: Indian Springs Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z6z10"><a href="../sitelink/index.cfm?contentid=249" id="ulaitem0z5z2z6z10">November 2002: Spur Cross Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z6z11"><a href="../sitelink/index.cfm?contentid=250" id="ulaitem0z5z2z6z11">December 2002: Robber's Roost</a>
-				
-			</li>
-		
-		</ul>
-	
-					</div>
-				</div>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z7"><a href="../sitelink/index.cfm?contentid=208" id="ulaitem0z5z2z7">2001 Hike of the Month Archive</a>
-				
-				<div class="imsc">
-					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
-						
-	<ul style="background-color:#e5d8e0;margin:0px 0px;" id="x1ub0z5z2z7">
-	
-
-		
-			<li class="dvs3" id="ulitem0z5z2z7z0"><a href="../sitelink/index.cfm?contentid=210" id="ulaitem0z5z2z7z0">January 2001: Cody Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z7z1"><a href="../sitelink/index.cfm?contentid=228" id="ulaitem0z5z2z7z1">February 2001: Scotia Canyon Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z7z2"><a href="../sitelink/index.cfm?contentid=229" id="ulaitem0z5z2z7z2">March 2001: Brins Mesa Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z7z3"><a href="../sitelink/index.cfm?contentid=230" id="ulaitem0z5z2z7z3">April 2001: Inner Basin Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z7z4"><a href="../sitelink/index.cfm?contentid=231" id="ulaitem0z5z2z7z4">May 2001: Bear Wallow Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z7z5"><a href="../sitelink/index.cfm?contentid=232" id="ulaitem0z5z2z7z5">June 2001: Pieper Hatchery Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z7z6"><a href="../sitelink/index.cfm?contentid=233" id="ulaitem0z5z2z7z6">July 2001: Woods Canyon Lake</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z7z7"><a href="../sitelink/index.cfm?contentid=234" id="ulaitem0z5z2z7z7">August 2001: West Fork of Oak Creek</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z7z8"><a href="../sitelink/index.cfm?contentid=235" id="ulaitem0z5z2z7z8">September 2001: North Canyon Trail</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z7z9"><a href="../sitelink/index.cfm?contentid=236" id="ulaitem0z5z2z7z9">October 2001: Escudilla Mountain</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z7z10"><a href="../sitelink/index.cfm?contentid=237" id="ulaitem0z5z2z7z10">November 2001: Picketpost Mountain</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs3" id="ulitem0z5z2z7z11"><a href="../sitelink/index.cfm?contentid=238" id="ulaitem0z5z2z7z11">December 2001: Parsons Trail</a>
-				
-			</li>
-		
-		</ul>
-	
-					</div>
-				</div>
+			<li class="dvs4" id="ulitem0z5z8z2z29"><a href="../sitelink/index.cfm?contentid=827" id="ulaitem0z5z8z2z29">What is Aspect Ratio?</a>
 				
 			</li>
 		
@@ -4134,37 +4817,50 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="imatm" style="width:103px; height:29px; " id="ulitem0z6"><a href="../sitelink/index.cfm?contentid=24" himg="../images/nav/subscription_u.jpg" style="background-image:url(../images/nav/subscription_b.jpg);background-repeat:no-repeat;background-position:center center;" id="ulaitem0z6"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z6"></span></span></a>
+			<li class="dvs4" id="ulitem0z5z9"><a href="../sitelink/index.cfm?contentid=1220" id="ulaitem0z5z9"><i>Arizona Highways</i> Trophy Winner</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs4" id="ulitem0z5z10"><a href="../sitelink/index.cfm?contentid=775" id="ulaitem0z5z10">Submissions: Photography</a>
+				
+			</li>
+		
+		</ul>
+	
+					</div>
+				</div>
+				
+			</li>
+		
+
+		
+			<li class="imatm" style="width:108px; height:29px; " id="ulitem0z6"><a href="../sitelink/index.cfm?contentid=25" himg="../images/nav/contact_u.jpg" style="background-image:url(../images/nav/contact_b.jpg);background-repeat:no-repeat;background-position:center center;" id="ulaitem0z6"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z6"></span></span></a>
 				
 				<div class="imsc">
 					<div class="imsubc" style="width:145px;top:0px;left:0px;"><div class="imunder"></div><div></div>
 						
-	<ul style="background-color:#c0d1eb;margin:0px 0px;" id="x1ub0z6">
+	<ul style="background-color:#f0d6c4;margin:0px 0px;" id="x1ub0z6">
 	
 
 		
-			<li class="dvs2" id="ulitem0z6z0"><a href="../sitelink/index.cfm?contentid=127" id="ulaitem0z6z0">Print Edition</a>
+			<li class="dvs1" id="ulitem0z6z0"><a href="../sitelink/index.cfm?contentid=148" id="ulaitem0z6z0">Contact Info</a>
 				
 				<div class="imsc">
 					<div class="imsubc" style="width:130px; top: -20px; left: 135px; "><div class="imunder"></div><div></div>
 						
-	<ul style="background-color:#c0d1eb;margin:0px 0px;" id="x1ub0z6z0">
+	<ul style="background-color:#f0d6c4;margin:0px 0px;" id="x1ub0z6z0">
 	
 
 		
-			<li class="dvs2" id="ulitem0z6z0z0"><a href="../sitelink/index.cfm?contentid=135" id="ulaitem0z6z0z0">New Self Subscription</a>
+			<li class="dvs1" id="ulitem0z6z0z0"><a href="../sitelink/index.cfm?contentid=154" id="ulaitem0z6z0z0">Gift Shops Info</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs2" id="ulitem0z6z0z1"><a href="../sitelink/index.cfm?contentid=136" id="ulaitem0z6z0z1">Renew Subscriptions</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs2" id="ulitem0z6z0z2"><a href="../sitelink/index.cfm?contentid=137" id="ulaitem0z6z0z2">Gift Subscriptions</a>
+			<li class="dvs1" id="ulitem0z6z0z1"><a href="../sitelink/index.cfm?contentid=155" id="ulaitem0z6z0z1">Info for Shoppers</a>
 				
 			</li>
 		
@@ -4177,53 +4873,22 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="dvs2" id="ulitem0z6z1"><a href="../sitelink/index.cfm?contentid=128" id="ulaitem0z6z1">Digital Edition</a>
+			<li class="dvs1" id="ulitem0z6z1"><a href="../sitelink/index.cfm?contentid=149" id="ulaitem0z6z1">Corporate Sales</a>
 				
 				<div class="imsc">
 					<div class="imsubc" style="width:130px; top: -20px; left: 135px; "><div class="imunder"></div><div></div>
 						
-	<ul style="background-color:#c0d1eb;margin:0px 0px;" id="x1ub0z6z1">
+	<ul style="background-color:#f0d6c4;margin:0px 0px;" id="x1ub0z6z1">
 	
 
 		
-			<li class="dvs2" id="ulitem0z6z1z0"><a href="../sitelink/index.cfm?contentid=138" id="ulaitem0z6z1z0">Digital Edition FAQs</a>
-				
-			</li>
-		
-		</ul>
-	
-					</div>
-				</div>
-				
-			</li>
-		
-
-		
-			<li class="dvs2" id="ulitem0z6z2"><a href="../sitelink/index.cfm?contentid=129" id="ulaitem0z6z2">Current Issue Table of Contents</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs2" id="ulitem0z6z3"><a href="../sitelink/index.cfm?contentid=130" id="ulaitem0z6z3"><i>Arizona Highways</i> Newsletter</a>
+			<li class="dvs1" id="ulitem0z6z1z0"><a href="../sitelink/index.cfm?contentid=156" id="ulaitem0z6z1z0">Imprinted Cards</a>
 				
 				<div class="imsc">
-					<div class="imsubc" style="width:130px; top: -20px; left: 135px; "><div class="imunder"></div><div></div>
+					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
 						
-	<ul style="background-color:#c0d1eb;margin:0px 0px;" id="x1ub0z6z3">
+	<ul style="background-color:#f0d6c4;margin:0px 0px;" id="x1ub0z6z1z0">
 	
-
-		
-			<li class="dvs2" id="ulitem0z6z3z0"><a href="../sitelink/index.cfm?contentid=139" id="ulaitem0z6z3z0">Sample Newsletter</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs2" id="ulitem0z6z3z1"><a href="../sitelink/index.cfm?contentid=1008" id="ulaitem0z6z3z1">Newsletter Sign-up</a>
-				
-			</li>
-		
 		</ul>
 	
 					</div>
@@ -4233,40 +4898,23 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="dvs2" id="ulitem0z6z4"><a href="../sitelink/index.cfm?contentid=131" id="ulaitem0z6z4">Customer Subscription Account Management</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs2" id="ulitem0z6z5"><a href="../sitelink/index.cfm?contentid=132" id="ulaitem0z6z5">Customer Service</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs2" id="ulitem0z6z6"><a href="../sitelink/index.cfm?contentid=134" id="ulaitem0z6z6">About <i>Arizona Highways</i></a>
+			<li class="dvs1" id="ulitem0z6z1z1"><a href="../sitelink/index.cfm?contentid=157" id="ulaitem0z6z1z1">Imprinted Calendars</a>
 				
 				<div class="imsc">
-					<div class="imsubc" style="width:130px; top: -20px; left: 135px; "><div class="imunder"></div><div></div>
+					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
 						
-	<ul style="background-color:#c0d1eb;margin:0px 0px;" id="x1ub0z6z6">
+	<ul style="background-color:#f0d6c4;margin:0px 0px;" id="x1ub0z6z1z1">
 	
-
-		
-			<li class="dvs2" id="ulitem0z6z6z0"><a href="../sitelink/index.cfm?contentid=147" id="ulaitem0z6z6z0">Masthead</a>
+		</ul>
+	
+					</div>
+				</div>
 				
 			</li>
 		
 
 		
-			<li class="dvs2" id="ulitem0z6z6z1"><a href="../sitelink/index.cfm?contentid=146" id="ulaitem0z6z6z1"><i>Arizona Highways</i> History</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs2" id="ulitem0z6z6z2"><a href="../sitelink/index.cfm?contentid=145" id="ulaitem0z6z6z2"><i>Arizona Highways</i> Magazine Awards and Recognition</a>
+			<li class="dvs1" id="ulitem0z6z1z2"><a href="../sitelink/index.cfm?contentid=159" id="ulaitem0z6z1z2">Trade / Bulk Sales</a>
 				
 			</li>
 		
@@ -4279,13 +4927,19 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="dvs2" id="ulitem0z6z7"><a href="../sitelink/index.cfm?contentid=795" id="ulaitem0z6z7">Back Issue Availability List</a>
+			<li class="dvs1" id="ulitem0z6z2"><a href="../sitelink/index.cfm?contentid=150" id="ulaitem0z6z2">Photo Submission Guide</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs2" id="ulitem0z6z8"><a href="../sitelink/index.cfm?contentid=796" id="ulaitem0z6z8">Resellers of <i>Arizona Highways</i> Magazines</a>
+			<li class="dvs1" id="ulitem0z6z3"><a href="../sitelink/index.cfm?contentid=152" id="ulaitem0z6z3">Employment</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs1" id="ulitem0z6z4"><a href="../sitelink/index.cfm?contentid=794" id="ulaitem0z6z4">Arizona Highways Television</a>
 				
 			</li>
 		
@@ -4298,31 +4952,37 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="imatm" style="width:108px; height:29px; " id="ulitem0z7"><a href="../sitelink/index.cfm?contentid=25" himg="../images/nav/contact_u.jpg" style="background-image:url(../images/nav/contact_b.jpg);background-repeat:no-repeat;background-position:center center;" id="ulaitem0z7"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z7"></span></span></a>
+			<li class="imatm" style="width:103px; height:29px; " id="ulitem0z7"><a href="../sitelink/index.cfm?contentid=24" himg="../images/nav/subscription_u.jpg" style="background-image:url(../images/nav/subscription_b.jpg);background-repeat:no-repeat;background-position:center center;" id="ulaitem0z7"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z7"></span></span></a>
 				
 				<div class="imsc">
 					<div class="imsubc" style="width:145px;top:0px;left:0px;"><div class="imunder"></div><div></div>
 						
-	<ul style="background-color:#f0d6c4;margin:0px 0px;" id="x1ub0z7">
+	<ul style="background-color:#c0d1eb;margin:0px 0px;" id="x1ub0z7">
 	
 
 		
-			<li class="dvs1" id="ulitem0z7z0"><a href="../sitelink/index.cfm?contentid=148" id="ulaitem0z7z0">Contact Info</a>
+			<li class="dvs2" id="ulitem0z7z0"><a href="../sitelink/index.cfm?contentid=127" id="ulaitem0z7z0">Print Edition</a>
 				
 				<div class="imsc">
 					<div class="imsubc" style="width:130px; top: -20px; left: 135px; "><div class="imunder"></div><div></div>
 						
-	<ul style="background-color:#f0d6c4;margin:0px 0px;" id="x1ub0z7z0">
+	<ul style="background-color:#c0d1eb;margin:0px 0px;" id="x1ub0z7z0">
 	
 
 		
-			<li class="dvs1" id="ulitem0z7z0z0"><a href="../sitelink/index.cfm?contentid=154" id="ulaitem0z7z0z0">Gift Shops Info</a>
+			<li class="dvs2" id="ulitem0z7z0z0"><a href="../sitelink/index.cfm?contentid=135" id="ulaitem0z7z0z0">New Self Subscription</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs1" id="ulitem0z7z0z1"><a href="../sitelink/index.cfm?contentid=155" id="ulaitem0z7z0z1">Info for Shoppers</a>
+			<li class="dvs2" id="ulitem0z7z0z1"><a href="../sitelink/index.cfm?contentid=136" id="ulaitem0z7z0z1">Renew Subscriptions</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs2" id="ulitem0z7z0z2"><a href="../sitelink/index.cfm?contentid=137" id="ulaitem0z7z0z2">Gift Subscriptions</a>
 				
 			</li>
 		
@@ -4335,22 +4995,53 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="dvs1" id="ulitem0z7z1"><a href="../sitelink/index.cfm?contentid=149" id="ulaitem0z7z1">Corporate Sales</a>
+			<li class="dvs2" id="ulitem0z7z1"><a href="../sitelink/index.cfm?contentid=128" id="ulaitem0z7z1">Digital Edition</a>
 				
 				<div class="imsc">
 					<div class="imsubc" style="width:130px; top: -20px; left: 135px; "><div class="imunder"></div><div></div>
 						
-	<ul style="background-color:#f0d6c4;margin:0px 0px;" id="x1ub0z7z1">
+	<ul style="background-color:#c0d1eb;margin:0px 0px;" id="x1ub0z7z1">
 	
 
 		
-			<li class="dvs1" id="ulitem0z7z1z0"><a href="../sitelink/index.cfm?contentid=156" id="ulaitem0z7z1z0">Imprinted Cards</a>
+			<li class="dvs2" id="ulitem0z7z1z0"><a href="../sitelink/index.cfm?contentid=138" id="ulaitem0z7z1z0">Digital Edition FAQs</a>
+				
+			</li>
+		
+		</ul>
+	
+					</div>
+				</div>
+				
+			</li>
+		
+
+		
+			<li class="dvs2" id="ulitem0z7z2"><a href="../sitelink/index.cfm?contentid=129" id="ulaitem0z7z2">Current Issue Table of Contents</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs2" id="ulitem0z7z3"><a href="../sitelink/index.cfm?contentid=130" id="ulaitem0z7z3"><i>Arizona Highways</i> Newsletter</a>
 				
 				<div class="imsc">
-					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
+					<div class="imsubc" style="width:130px; top: -20px; left: 135px; "><div class="imunder"></div><div></div>
 						
-	<ul style="background-color:#f0d6c4;margin:0px 0px;" id="x1ub0z7z1z0">
+	<ul style="background-color:#c0d1eb;margin:0px 0px;" id="x1ub0z7z3">
 	
+
+		
+			<li class="dvs2" id="ulitem0z7z3z0"><a href="../sitelink/index.cfm?contentid=139" id="ulaitem0z7z3z0">Sample Newsletter</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs2" id="ulitem0z7z3z1"><a href="../sitelink/index.cfm?contentid=1008" id="ulaitem0z7z3z1">Newsletter Sign-up</a>
+				
+			</li>
+		
 		</ul>
 	
 					</div>
@@ -4360,13 +5051,43 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="dvs1" id="ulitem0z7z1z1"><a href="../sitelink/index.cfm?contentid=157" id="ulaitem0z7z1z1">Imprinted Calendars</a>
+			<li class="dvs2" id="ulitem0z7z4"><a href="../sitelink/index.cfm?contentid=131" id="ulaitem0z7z4">Customer Subscription Account Management</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs2" id="ulitem0z7z5"><a href="../sitelink/index.cfm?contentid=132" id="ulaitem0z7z5">Customer Service</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs2" id="ulitem0z7z6"><a href="../sitelink/index.cfm?contentid=134" id="ulaitem0z7z6">About <i>Arizona Highways</i></a>
 				
 				<div class="imsc">
-					<div class="imsubc" style="width:130px; top: -20px; left: 120px; "><div class="imunder"></div><div></div>
+					<div class="imsubc" style="width:130px; top: -20px; left: 135px; "><div class="imunder"></div><div></div>
 						
-	<ul style="background-color:#f0d6c4;margin:0px 0px;" id="x1ub0z7z1z1">
+	<ul style="background-color:#c0d1eb;margin:0px 0px;" id="x1ub0z7z6">
 	
+
+		
+			<li class="dvs2" id="ulitem0z7z6z0"><a href="../sitelink/index.cfm?contentid=147" id="ulaitem0z7z6z0">Masthead</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs2" id="ulitem0z7z6z1"><a href="../sitelink/index.cfm?contentid=146" id="ulaitem0z7z6z1"><i>Arizona Highways</i> History</a>
+				
+			</li>
+		
+
+		
+			<li class="dvs2" id="ulitem0z7z6z2"><a href="../sitelink/index.cfm?contentid=145" id="ulaitem0z7z6z2"><i>Arizona Highways</i> Magazine Awards and Recognition</a>
+				
+			</li>
+		
 		</ul>
 	
 					</div>
@@ -4376,38 +5097,13 @@ background-repeat:repeat-x;
 		
 
 		
-			<li class="dvs1" id="ulitem0z7z1z2"><a href="../sitelink/index.cfm?contentid=159" id="ulaitem0z7z1z2">Trade / Bulk Sales</a>
-				
-			</li>
-		
-		</ul>
-	
-					</div>
-				</div>
+			<li class="dvs2" id="ulitem0z7z7"><a href="../sitelink/index.cfm?contentid=795" id="ulaitem0z7z7">Back Issue Availability List</a>
 				
 			</li>
 		
 
 		
-			<li class="dvs1" id="ulitem0z7z2"><a href="../sitelink/index.cfm?contentid=150" id="ulaitem0z7z2">Photo Submission Guide</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs1" id="ulitem0z7z3"><a href="../sitelink/index.cfm?contentid=151" id="ulaitem0z7z3">Writer Submission Guide</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs1" id="ulitem0z7z4"><a href="../sitelink/index.cfm?contentid=152" id="ulaitem0z7z4">Employment</a>
-				
-			</li>
-		
-
-		
-			<li class="dvs1" id="ulitem0z7z5"><a href="../sitelink/index.cfm?contentid=794" id="ulaitem0z7z5">Arizona Highways Television</a>
+			<li class="dvs2" id="ulitem0z7z8"><a href="../sitelink/index.cfm?contentid=796" id="ulaitem0z7z8">Resellers of <i>Arizona Highways</i> Magazines</a>
 				
 			</li>
 		
@@ -4481,9 +5177,16 @@ color:#000000;
 
 
 <div id="featuredcontainer">
-<div id="featuredimg"><a href="https://www.shoparizonahighways.com/store/products/index.cfm?action=detail&amp;productid=7291&amp;rtntype=cat&amp;catid=6&amp;pname=&amp;price=&amp;start=1&amp;searchby="><img border="0" name="productthumb" width="85" src="https://www.shoparizonahighways.com/images/store/products/thumbnails/GLST7th2.jpg" alt=""></a></div>
-<div id="featuredtitle">Beverage Glasses with a Southwestern Flair</div>
-<div id="featuredprice">$42.99</div>
+<div id="featuredimg"><a href="https://www.shoparizonahighways.com/store/products/index.cfm?action=detail&amp;productid=7331&amp;rtntype=cat&amp;catid=10&amp;pname=&amp;price=&amp;start=1&amp;searchby="><img border="0" name="productthumb" width="85" src="https://www.shoparizonahighways.com/images/store/products/thumbnails/ORNC8th.jpg" alt=""></a></div>
+<div id="featuredtitle">2008 Christmas Ornament</div>
+<div id="featuredprice">$24.99</div>
+
+</div>
+
+<div id="featuredcontainer">
+<div id="featuredimg"><a href="https://www.shoparizonahighways.com/store/products/index.cfm?action=detail&amp;productid=7324&amp;rtntype=cat&amp;catid=21&amp;pname=&amp;price=&amp;start=1&amp;searchby="><img border="0" name="productthumb" width="85" src="https://www.shoparizonahighways.com/images/store/products/thumbnails/AZZC8th.jpg" alt=""></a></div>
+<div id="featuredtitle">Zachary Z. Packrat and His Amazing Collections</div>
+<div id="featuredprice">$19.95</div>
 
 </div>
 
@@ -4598,12 +5301,12 @@ color:#000000;
 &nbsp;|&nbsp;
 
 
-<a href="../sitelink/index.cfm?contentID=176" class="botnavhref">PHOTOGRAPHY</a>
+<a href="../sitelink/index.cfm?contentID=179" class="botnavhref">BOOKS</a>
 
 &nbsp;|&nbsp;
 
 
-<a href="../sitelink/index.cfm?contentID=177" class="botnavhref">ARCHIVES</a>
+<a href="../sitelink/index.cfm?contentID=176" class="botnavhref">PHOTOGRAPHY</a>
 
 &nbsp;|&nbsp;
 
@@ -4613,19 +5316,14 @@ color:#000000;
 &nbsp;|&nbsp;
 
 
-<a href="../sitelink/index.cfm?contentID=179" class="botnavhref">BOOKS</a>
-
-&nbsp;|&nbsp;
-
-
 <a href="../sitelink/index.cfm?contentID=181" class="botnavhref">SUBSCRIPTIONS</a>
 
-<br>
+&nbsp;|&nbsp;
 
 
 <a href="../sitelink/index.cfm?contentID=183" class="botnavhref">CONTACT US</a>
 
-&nbsp;|&nbsp;
+<br>
 
 
 <a href="../sitelink/index.cfm?contentID=203" class="botnavhref">CUSTOMER SERVICE</a>
@@ -4697,7 +5395,14 @@ color:#000000;
 </noscript>
 <!-- ^^^ CLICK TRACKING CODE 3.0 ^^^ -->
 
-
+<!-- vvv URCHIN CODE ADDED 10/3/08 vvv -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-5986255-1";
+urchinTracker();
+</script>
+<!-- ^^^ URCHIN CODE ADDED 10/3/08 ^^^ -->
 
 
 </body></html>
