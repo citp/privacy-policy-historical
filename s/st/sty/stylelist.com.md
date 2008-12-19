@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the stylelist.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624030351id_/http%3A//about.aol.com/aolnetwork/aol_pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylelist.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219073702id_/http%3A//www.aol.com/aolnetwork/aol_pp.html) for the most accurate reproduction.*
 
 # Privacy Policy - About AOL
+
+[](http://www.truste.org/ivalidate.php?url=www.aol.com&sealid=101)
 
 Thank you for registering your Screen Name to obtain enhanced access to the network of Web sites and services offered by AOL LLC ("AOL"). The AOL Network improves your online experience by offering you access to a variety of features, offerings and content. By registering your Screen Name, you gain access to the AOL Network, which consists of [AOL Enhanced Websites and Services](http://about.aol.com/aolnetwork/aol_enhanced.html) such as AIM Mail, and other content and offerings from the AOL Network's [affiliated providers](http://about.aol.com/aolnetwork/affiliates.html) (collectively the "AOL Network" or "Network").
 
@@ -66,7 +68,7 @@ Because the choices you make in connection with your AOL Network information may
 
 The AOL Network may use [cookies, web beacons, or similar technologies ](http://about.aol.com/aolnetwork/beacons.html) in combination with your AOL Network information to enhance and personalize your experience on the AOL Network, including to operate and improve offerings through the AOL Network; to help authenticate you when you use the AOL Network; to remember your preferences and registration information; to enable a shopping cart; to present and help measure and research the effectiveness of AOL Network offerings, advertisements, and e-mail communications (by determining which Network e-mails you open and act upon); and to customize the content and advertisements provided to you through the AOL Network.
 
-The AOL Network and its advertisers may also use ad network providers, including AOL subsidiaries such as Advertising.com, to help present advertisements on the AOL Network and other Web sites. These ad network providers use cookies, web beacons, or similar technologies on your computer to help present, better target, and measure the effectiveness of their advertisements, using data gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. The AOL Network may share certain non-personally identifiable information about you as a Network user (such as user age and zip code) with certain ad network providers, including Advertising.com, to help them deliver more relevant advertisements through their ad networks. The use of cookies, web beacons, or similar technologies by Advertising.com and other ad network providers is subject to their own privacy policies, not the AOL Network's. You can find out more about ad network providers and the choices you have about these technologies by clicking [here ](http://about.aol.com/aolnetwork/beacons.html). 
+The AOL Network and its advertisers may also use ad network providers, including AOL subsidiaries such as Advertising.com and TACODA, to help present advertisements on the AOL Network and other Web sites. These ad network providers use cookies, web beacons, or similar technologies on your computer to help present, better target, and measure the effectiveness of their advertisements, using data gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. The AOL Network may share certain non-personally identifiable information about you as a Network user (such as user age and zip code) with certain ad network providers, including Advertising.com and TACODA, to help them deliver more relevant advertisements through their ad networks. The use of cookies, web beacons, or similar technologies by Advertising.com, TACODA, and other ad network providers is subject to their own privacy policies, not the AOL Network's. You can find out more about ad network providers and the choices you have about these technologies by clicking [here ](http://about.aol.com/aolnetwork/beacons.html). 
 
 ### Information for AOL and CompuServe Subscribers
 
@@ -104,4 +106,12 @@ The AOL Network may update this Privacy Policy from time to time, and so you sho
 
 Your California Privacy Rights: California privacy law allows California residents to obtain specific disclosures about a business's privacy practices if it shares information with other companies for direct marketing purposes. To make a request to the AOL Network under California's privacy law, please send an e-mail to: CAPrivacyInfoAN@aol.com.
 
-Last Updated 4-03-06
+European Union Residents: AOL adheres to the EU-US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the [U.S. Department of Commerce's Safe Harbor Program](http://www.export.gov/safeharbor/). Click [here](http://about.aol.com/aolnetwork/safe_harbor) for more details.
+
+### TRUSTe
+
+The AOL Network is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe.
+
+If you have questions or concerns regarding this statement, you should first contact us at **PrivacyQuestions@aol.com**. If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+
+Last Updated 09-23-2008
