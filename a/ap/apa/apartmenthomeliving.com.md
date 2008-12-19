@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the apartmenthomeliving.com privacy policy that was archived on 2008-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080408071532id_/http%3A//www.apartmenthomeliving.com/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmenthomeliving.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219165911id_/http%3A//www.apartmenthomeliving.com/info/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Apartments for Rent at Apartment Home Living
+# Privacy Policy at Apartment Home Living
+
+These are the most word-filled pages we have on our site. We know they seem smart, but please do not copy for your term papers. You will probably flunk. 
 
 This Privacy Policy governs the use, disclosure, and collection of your personal information by Web Home Showcase, LP and its affiliates (collectively, “WHS”), operator of www.apartmenthomeliving.com (“Site”), along with the [**Terms and Conditions of Use**](https://web.archive.org/info/terms.aspx) as incorporated by reference hereto and applying to any dispute concerning collection or use of your personal information. This Privacy Policy extends to information you may provide to WHS directly, indirectly, or through its affiliated or related parties. Please read this Privacy Policy carefully. By visiting this Site, you agree to the terms of this Privacy Policy and to the [**Terms and Conditions of Use.**](https://web.archive.org/info/terms.aspx) WHS is committed to making your search for rental property a positive experience on this Site. If you do not agree to the terms of this Privacy Policy, cease use of this Site and do not provide personal information directly or indirectly to WHS or its affiliates. By using this Site or contacting WHS, Apartment Home Living or their affiliates, you accept this Privacy Policy and agree to the use, disclosure, and collection of your personal information.
 
