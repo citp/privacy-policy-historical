@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kikkomanusa.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629193702id_/http%3A//www.kikkomanusa.com/_pages/priv_policy.asp%3Floc%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kikkomanusa.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219154224id_/http%3A//www.kikkomanusa.com/_pages/priv_policy.asp%3Floc%3D) for the most accurate reproduction.*
 
 # Soy Sauce, Teriyaki Products and Home Cooking Recipes - Kikkoman Products and Recipes
 
-|  | [](https://web.archive.org/_pages/consumer/index.asp?loc=)    Home Cooks >> |   
+|  |  [](https://web.archive.org/web/20081219154224id_/http%3A/index.asp)    Home Cooks >> |   
 ---|---  
   
 |  |    
