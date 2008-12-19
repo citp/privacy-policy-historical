@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the etoro.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224041715id_/http%3A//www.etoro.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etoro.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219043528id_/http%3A//www.etoro.com/about-us/privacy.aspx) for the most accurate reproduction.*
 
-# eToro - Privacy Policy
+# eToro - Online Forex Trading Platform
 
-This privacy policy explains the manner in which we collect and maintain non public information about our customers (such as your full name, mailing address, identification number, passports, driver's license etc, hence forth "Information"). **By providing us with Information, you are giving us your consent to collect, use and store the Information in the manner explained hereto**. 
+[ ](https://web.archive.org/downloads.aspx) [ ](https://web.archive.org/why-etoro/etoro-promotions.aspx)
+
+|  |  [ ](http://server.iad.liveperson.net/hc/56337159/?cmd=file&file=visitorWantsToChat&site=56337159&byhref=1&VISITORVAR!survey3744045=&VISITORVAR!survey3744044=WebSite&VISITORVAR!subject=WebSite)  
+---|---  
+  
+This privacy policy explains the manner in which we collect and maintain non public information about our customers (such as your full name, mailing address, identification number, passports, driver's license etc, hence forth "Information"). **By providing us with Information, you are giving us your consent to collect, use and store the Information in the manner explained hereto**.
 
   * When do we collect information from you?
 
@@ -14,34 +19,34 @@ We collect information from you when you (a) open an account and provide us with
 
 
 
-You directly provide us with most of the Information we collect. You do this by filling out the electronic form that we post on our website and by voluntarily providing us with other required documents. Additionally, you provide us with Information by trading on our system, by contacting us or responding to a promotion. The information we indirectly collect may include logging your Internet Protocol (IP) address, software configuration, operating system and use of Cookies; Cookies are small files sent from us to your computer and sometimes back. Cookies ultimately help us improve your navigation and ease of use of our website. Cookies do not contain any personally identifiable information. 
+You directly provide us with most of the Information we collect. You do this by filling out the electronic form that we post on our website and by voluntarily providing us with other required documents. Additionally, you provide us with Information by trading on our system, by contacting us or responding to a promotion. The information we indirectly collect may include logging your Internet Protocol (IP) address, software configuration, operating system and use of Cookies; Cookies are small files sent from us to your computer and sometimes back. Cookies ultimately help us improve your navigation and ease of use of our website. Cookies do not contain any personally identifiable information.
 
-  * **How do we use the Information collected?**
-    *  **Use of Information**
+  * ** How do we use the Information collected? **
+    * ** Use of Information **
 
 We use personal information only as appropriate to provide you quality service and security. For example, we may use the Information collected from you to verify your identity. We may also use this Information to establish and set up your trading account, issue an account number, issue a password, log your activity and contact you from time to time. The Information helps us improve our services to you, customize your browsing experience and inform you about additional products, services or promotions that may be of interest to you. Should you ever deactivate your account with us, we will keep your information on file, but only use it to comply with regulatory requirements and to contact you occasionally with the option to reactivate your account. Please note that you may opt out of our Information sharing policies at any time by notifying us of your desire to do so as explained below;
 
-    * **Sharing Information**
+    * ** Sharing Information **
 
 We do not disclose or share Information about any of our users (whether active or inactive) to any affiliated third parties or non-affiliated third parties other than in the manner and entities set forth below:
 
       * To service providers for the purpose of opening, operating and servicing your account. Such service providers may include attorneys, accountants, auditors, financial and other professionals; 
       * To respond to a subpoena or court order, judicial process or to regulatory authorities; and 
       * To protect against fraud, unauthorized transactions (such as money laundering), claims or other liabilities. 
-      * We do not share credit information, such as credit history, net worth, or other income information. 
+      * We do not share credit information, such as credit history, net worth, or other income information.
 
 
   * Security and Integrity of Information. 
 
 
 
-We protect your Information by using data security technology and using tools such as firewalls and data encryption. We also require that you use a personal username and password every time you access your account online. We restrict access to Information at our offices so that only officers and/or employees who need to know the Information have access to it. 
+We protect your Information by using data security technology and using tools such as firewalls and data encryption. We also require that you use a personal username and password every time you access your account online. We restrict access to Information at our offices so that only officers and/or employees who need to know the Information have access to it.
 
   * Changes to this Privacy Policy
 
 
 
-We reserve the right to amend, revise, modify, and/or change this Privacy Policy at any time. Should we decide to make any changes to this Privacy Policy we will notify you of any such change by either posting notice on our website for public view or alternatively by notifying you by email of any changes to our policies. 
+We reserve the right to amend, revise, modify, and/or change this Privacy Policy at any time. Should we decide to make any changes to this Privacy Policy we will notify you of any such change by either posting notice on our website for public view or alternatively by notifying you by email of any changes to our policies.
 
   * Links
 
@@ -53,10 +58,19 @@ Our website may contain links to other websites on the internet. We are not resp
 
 
 
-In the event that you believe our Information is in anyway inaccurate, please let us know immediately. We will make sure we investigate the matter and correct any inaccuracies as quickly as possible where necessary. 
+In the event that you believe our Information is in anyway inaccurate, please let us know immediately. We will make sure we investigate the matter and correct any inaccuracies as quickly as possible where necessary.
 
   * Questions
 
 
 
-Should you have any questions regarding our privacy policy, please contact us at [support@etoro.com](mailto:support@etoro.com). Please include your name, mailing address, email and telephone number. 
+Should you have any questions regarding our privacy policy, please contact us at [support@etoro.com](mailto:support@etoro.com). Please include your name, mailing address, email and telephone number.
+
+* * *
+
+* * *
+
+  
+
+
+Copyright © 2008 **eToro**. All rights reserved.
