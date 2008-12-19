@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ushmm.org privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512004701id_/http%3A//www.ushmm.org/priv_acc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ushmm.org privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219041532id_/http%3A//www.ushmm.org/priv_acc/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Thank you for visiting the United States Holocaust Memorial Museum Web site and for reviewing our privacy policy. The United States Holocaust Memorial Museum (USHMM) is committed to protecting the personal information that you provide to us when using our Web site.
+The United States Holocaust Memorial Museum (USHMM) is committed to protecting the personal information that you provide to us when using our Web site.
 
 This Privacy Policy describes how we handle all user data collected during your visit.
 
@@ -20,7 +20,7 @@ Occasionally, changes in the technology, functionality, or content we provide on
 
 **Information Collected and Use of Data**
 
-We collect two types of user data: 1) anonymous data that is automatically collected from all visitors to our site and 2) personally identifiable data that you voluntarily submit to us (Personal Data).
+We collect two types of user data: 1) anonymous data that is automatically collected from all visitors to our site and 2) personally identifiable data (Personal Data).
 
 We will occasionally provide an online program for children. When children participate in such a program they may be required to provide their personal information, which will be stored in our database. We will use this information to contact them for the purposes of the program and to notify them of any other programs for children that we may offer at another time. It is our policy not to request or accept donations from anyone under 18.
 
@@ -39,7 +39,7 @@ If you do nothing during your visit but browse through the Web site, read pages,
 
    
 _**Personal Data**_  
-The type of information we may collect includes: name, postal address, e-mail address; preferences for types of information of interest; name, address or e-mail address of friend to whom you wish us to send information, tribute gift, or gift membership; and similar information. A specific type of Personal Data that may be collected is Financial Information, as further described below.
+The type of information we may collect includes: name, postal address, e-mail address, telephone number; preferences for types of information of interest; name, address or e-mail address of friend to whom you wish us to send information, tribute gift, or gift membership; and similar information. A specific type of Personal Data that may be collected is Financial Information, as further described below.
 
 Personal Data may be collected when you:
 
@@ -143,4 +143,4 @@ If you have questions or concerns relating to USHMM programs, research, activiti
 
 We hope you join with us in our growing online community. Our success is made possible through your continuing online participation.
 
- **Last Revised: 08/12/2006**
+ **Last Revised: 10/03/08**
