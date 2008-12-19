@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panasonic.co.in privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611015120id_/http%3A//www.panasonic.co.in/web/cid/1064) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panasonic.co.in privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220002230id_/http%3A//panasonic.co.in/web/cid/1064) for the most accurate reproduction.*
 
 # Privacy | Panasonic India
 
