@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iceposter.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013060349id_/http%3A//www.iceposter.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iceposter.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219095633id_/http%3A//www.iceposter.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy at IcePoster.com
 
@@ -8,6 +8,4 @@ Information and data collected by Iceposter.com is used exclusively for order fu
 
 Iceposter.com uses the information you submit to process your orders and to create a more unique and exciting online shopping experience.
 
-Iceposter.com does not sell, share, trade or distribute any personal information relating to you and your order history to third parties for any reason.  
-[](http://www.it-happens.org/)[  
-](http://www.savebutterscotch.com/)
+Iceposter.com does not sell, share, trade or distribute any personal information relating to you and your order history to third parties for any reason.
