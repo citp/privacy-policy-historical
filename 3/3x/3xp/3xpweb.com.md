@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3xpweb.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619075617id_/http%3A//3xpweb.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3xpweb.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219102249id_/http%3A//www.3xpweb.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 3XP WEB SOLUTIONS
 
