@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the israeltoday.co.il privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619233120id_/http%3A//www.israeltoday.co.il/default.aspx%3Ftabid%3D1%26def%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the israeltoday.co.il privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219110009id_/http%3A//www.israeltoday.co.il/default.aspx%3Ftabid%3D244%26def%3DPrivacy) for the most accurate reproduction.*
 
-# israel today > Home
+# Israel Today - Israel News and Perspective
 
 israel today is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the israel today Web site and governs data collection and usage. By using the israel today website, you consent to the data practices described in this statement.
 
