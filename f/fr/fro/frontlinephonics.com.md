@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontlinephonics.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509124228id_/http%3A//www.frontlinephonics.com/privacy_legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontlinephonics.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219204207id_/http%3A//www.frontlinephonics.com/privacy_legal.html) for the most accurate reproduction.*
 
 # Frontline Phonics - Yes. Read.™
 
