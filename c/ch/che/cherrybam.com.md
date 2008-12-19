@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the cherrybam.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516180111id_/http%3A//www.cherrybam.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cherrybam.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219140722id_/http%3A//www.cherrybam.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](http://www.cherrybam.com/)   
-Sexy And Glitter Graphics for Myspace, Friendster, Hi5, Facebook, Piczo and more! 
-
-CherryBam Privacy Policy 
+[](http://www.addthis.com/bookmark.php)
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. 
 
@@ -24,6 +21,5 @@ Most browsers are initially set up to accept cookies, but you can reset your bro
 
 If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. 
 
-We can be contacted by this [email.](mailto:sam@cherrybam.com)
+  
 
-Return to previous page
