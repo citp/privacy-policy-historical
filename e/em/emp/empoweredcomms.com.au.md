@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the empoweredcomms.com.au privacy policy that was archived on 2008-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080401171022id_/http%3A//www.empoweredcomms.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empoweredcomms.com.au privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219163624id_/http%3A//www.empoweredcomms.com.au/privacy.php) for the most accurate reproduction.*
 
-# Empowered Communications - Permission Marketing, Loyalty Marketing, SMSPup, eDocument Management, email SMS marketing, CRM, eBills, eForms, PDF Forms.
+# Empowered Communications
 
 Privacy Policy
 
