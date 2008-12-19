@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allbestarticles.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225213927id_/http%3A//www.allbestarticles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbestarticles.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219231753id_/http%3A//www.allbestarticles.com/privacy) for the most accurate reproduction.*
 
-# AllBestArticles.com
+# None
 
 ## AllBestArticles.com Privacy Policy Overview
 
