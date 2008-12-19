@@ -1,42 +1,44 @@
-> *The following text is extracted and transformed from the millennialmedia.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511175918id_/http%3A//www.millennialmedia.com/contact/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millennialmedia.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219161648id_/http%3A//www.millennialmedia.com/contact/policies.html) for the most accurate reproduction.*
 
 # Millennial Media
 
-**Span of Privacy Policy**  
-Millennial Media, Inc. is committed to clearly informing users about the collection and use of information when using our services.  As a result, we have put together this Privacy Policy to explain how we collect and use certain information.  This Privacy Policy applies to Millennial Media's mobile advertising products and services, as well as our websites located at www.millennialmedia.com and www.decktrade.com .
+**Company Privacy Policy**  
+Millennial Media is committed to protecting consumer privacy and to clearly informing users about the collection and use of information when using our services. As a result, we have put together this Privacy Policy to explain how we collect and use certain information. This Privacy Policy applies to Millennial Media's mobile advertising products and services, as well as our websites located at www.millennialmedia.com and www.decktrade.com.
 
-**Description of Information Collected**
+**Website Data Collection**  
+Millennial Media is the sole owner of the information collected on our websites, [www.millennialmedia.com](http://www.millennialmedia.com/) and [www.decktrade.com](http://www.decktrade.com/). We do not share, sell, rent, or provide this data to any other parties. Millennial Media collects this data and uses it exclusively to provide requested information to prospective clients and to establish self-service advertiser and publisher accounts.
 
-**Information provided by user**  
-Millennial Media collects three kinds of information from its users:  Personal Information, Demographic Information and Anonymous Information.  All three are described below.
+**Links to Third Party Sites**  
+Millennial Media’s websites contain links to other websites. Millennial Media is not responsible for the privacy practices of these websites. Specifically, the www.millennialmedia.com website links to sites providing news coverage, to partner sites for case studies, and to industry association sites of which Millennial Media is a member. The www.decktrade.com site links to individual advertiser and publisher websites to enable account owners to review and approve campaign setup and delivery options.
 
-As you use our Services, you may choose to provide personally identifiable information about yourself such as your name, email address or mobile number (“Personal Information”) in connection with our Services or for the benefit of a specified advertiser.  Personal Information will only be collected from you when you have specifically chosen to provide us or our business partners with such information.
+**Non-Personally Identifiable Consumer Data**  
+Millennial Media uses technology to uniquely identify most mobile devices to deliver better targeted marketing messages to consumers. We believe that the presentation of more relevant services assist in providing a more meaningful mobile web experience. For example, this technology enables Millennial Media to limit the number of times a specific message is presented to a consumer (frequency capping) as well as to support used-defined product category preferential marketing.
 
-In addition, we may collect demographic information about you (“Demographic Information”) if you choose to provide it when using our Services, or those provided by our business partners.  Demographic Information may include your age, gender or location.
+**Opt Out**  
+Consumers may choose to opt out of targeting that relies on the unique identification of their mobile device. Once the opt out has been completed, the consumer will still receive advertising messages, however these will be based on generic factors such as time of day or the current website page content.
 
-Lastly, we may collect anonymous information which does not identify any particular user, such as your page views or the number of unique viewers that were reached by a campaign (“Anonymous Information”).  Millennial Media utilizes cookies and other enabling technologies intended to provide the ability to differentiate one user from another and track their usage of the Service.  We may do this for the benefit of Millennial Media or its trusted business partners.  A “cookie” is a small file that may be automatically downloaded to your hardware to enable us to collect Anonymous Information as you use the Services.  These technologies are not used to capture Personal Information, as it is not the intent of Millennial Media to obtain and use Personal Information without your knowledge. 
+If viewing this page with your mobile device, click on the following link to opt out:
 
-**Use of Aggregate and Anonymous Information**  
-Millennial Media uses information collected to make assumptions regarding the consumer's interests and preferences and to provide ads that best match the consumer's interests and preferences.  Ads are only provided, when consumers are voluntarily interacting with Millennial Media, or one of our network partners.  Millennial Media will use Aggregate and Anonymous Information to provide targeted ads. ****
+<http://lp.mp.mydas.mobi/custom/optout>
 
-**Sharing of Collected Information**  
-Millennial Media will not share, sell, or distribute any Personal Information to a third party without your prior consent, except as described in this paragraph.  We may access or disclose Personal Information as required by courts or administrative agencies and to the extent required to permit us to investigate suspected fraud, harassment or other violations of any law, rule or regulation, the Service rules or policies, or the rights of third parties or to investigate any suspected conduct which we deem improper.  We may also share Personal Information with our contractors who are using the information solely to perform services for us.  We may also transfer Personal Information in connection with the sale or merger, in whole or in part, of Millennial Media or the division responsible for the applicable Services.
-
-Demographic Information and Anonymous Information may be shared with Millennial Media's trusted third party business partners and other third parties.
+If viewing this page with your personal computer, you will have to enter the above URL into your mobile device browser page address field to opt out. 
 
 Back to Top
 
  **Third Party Websites**  
-Our Service may contain links to third party services.  This Privacy Policy does not extend to those sites and services, and Millennial Media is not responsible for the security and privacy practices of those sites.
+Our Service may contain links to third party services. This Privacy Policy does not extend to those sites and services, and Millennial Media is not responsible for the security and privacy practices of those sites.
 
-**Children**  
-We have no intention of collecting Personal Information from children under the age of 13.  When we become aware that Personal Information from a child under 13 has been collected without such child's parent or guardian's consent, we will use all reasonable efforts to delete such information from our database.
+**Children’s Privacy**  
+Millennial Media is very sensitive to the issue of children's privacy. Millennial Media's websites, products, and services are not developed for, or directed at, children. If you believe your child has provided Millennial Media with personally identifiable data, or registered at one of Millennial Media's websites, and you would like to have the data removed, please contact us.
 
 **Security**  
-We do make efforts to implement and maintain reasonable security for your Personal Information.  However, the Internet and mobile worlds are not completely secure, so you acknowledge that there is some risk and that we will not be responsible for any unauthorized access to your Personal Information.
+Millennial Media views security to be equally as important as privacy. To that end, we have designed and deployed hardware, software, and networking solutions to reasonably secure and protect access to our systems and data.
+
+**Legal Disclaimer**  
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our websites.
 
 **Changes to Privacy Policy**  
-We may change our Privacy Policy at any time by posting such changes here.  However, if we change how we disclose Personal Information, we will give you reasonable prior notice to opt-out of such differing uses.
+Strong consumer privacy rights are fundamental to the success of Millennial Media and to the mobile advertising industry as a whole. Millennial Media is committed to continually examining and reviewing its privacy practices, and may make changes to its Privacy Policy. In the event that any material changes are made to the company's privacy practices, we will promptly make changes to this privacy policy that discloses the changes.
 
 **Questions and Concerns:**  
 If you have any questions or concerns about our privacy practices, you may contact us as follows:  
