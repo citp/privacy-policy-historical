@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eon.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514193612id_/http%3A//www.eon.com/en/infoservice/3140.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eon.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219193224id_/http%3A//www.eon.com/en/infoservice/3140.jsp) for the most accurate reproduction.*
 
 # E.ON - Power and Gas - Info-Service - Help - Legal - Privacy Policy
 
