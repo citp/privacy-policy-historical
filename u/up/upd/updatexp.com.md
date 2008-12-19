@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the updatexp.com privacy policy that was archived on 2008-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080208122943id_/http%3A//www.marcliron.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the updatexp.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219141949id_/http%3A//www.marcliron.com/privacy.html) for the most accurate reproduction.*
 
-# Marc Liron - Microsoft MVP and Digital Media Expert
+# Privacy Policy
 
  The following provides detail about the **www.marcliron.com** Privacy Policy.
 
@@ -39,4 +39,4 @@ LINCOLN
 LN5 5BD  
 United Kingdom**
 
-Any further questions please contact me via the [contact page](https://web.archive.org/web/20080208122943id_/http%3A//www.marcliron.com/contact.html).
+Any further questions please contact me via the [contact page](https://web.archive.org/web/20081219141949id_/http%3A//www.marcliron.com/contact.html).
