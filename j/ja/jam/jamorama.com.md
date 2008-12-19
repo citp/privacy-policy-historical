@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamorama.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609202745id_/http%3A//www.jamorama.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamorama.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219034800id_/http%3A//www.jamorama.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Jamorama | Privacy Policy
 
@@ -77,7 +77,7 @@ If we decide to change our privacy policy, we will post those changes via the Pr
 Thank you for visiting this Rock Star Recipes Ltd website.   
 
 
-[Learn Guitar - Home](http://www.jamorama.com/) | [About Us](http://www.jamorama.com/about-us.php) | [F.A.Q.](http://www.jamorama.com/faq.html) | [Links](http://www.jamorama.com/learn-guitar-links.php) | [Order Now](http://www.jamorama.com/#ordernow) | [Privacy Policy](http://www.jamorama.com/privacy-policy.php)  
-[Terms of Use](http://www.jamorama.com/terms-of-use.php) | [Site Map](http://www.jamorama.com/jamorama-sitemap.php) | [Affiliates](http://www.jamorama.com/affiliates) | [Learn to Play Guitar Articles](https://web.archive.org/articles/index.php) | [Contact Us](http://www.jamorama.com/contact.html)
+[Learn to Play Guitar - Home](http://www.jamorama.com/) | [About Us](http://www.rockstarrecipes.com/index.php) | [F.A.Q.](http://www.jamorama.com/faq.html) | [Learn Guitar Links](http://www.jamorama.com/learn-guitar-links.php) | Order Now  
+[Privacy Policy](http://www.jamorama.com/privacy-policy.php) | [Terms of Use](http://www.jamorama.com/terms-of-use.php) | [Site Map](http://www.jamorama.com/jamorama-sitemap.php) | [Affiliates](http://www.jamorama.com/affiliates) | [Learn Guitar Articles](https://web.archive.org/learn-guitar-articles/index.php) | [Contact Us](http://www.jamorama.com/contact.html)
 
 All Rights Reserved. Copyright © 2008 Rock Star Recipes
