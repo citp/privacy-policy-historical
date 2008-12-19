@@ -1,27 +1,108 @@
-> *The following text is extracted and transformed from the ewaydirect.com privacy policy that was archived on 2007-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070522063606id_/http%3A//ewaydirect.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewaydirect.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219200243id_/http%3A//www.ewaydirect.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy eWay Direct.com
+# Privacy Policy - eWayDirect
 
-Privacy Policy
+eWayDirect, Inc. places the highest level of importance on respecting the privacy of our clients and their customers. Each of our employees is dedicated to maintaining the security of client lists. 
 
-Since we sometimes collect personal information from our site, it is our policy to never offer any of this information to outside companies unless we receive prior consent from our site visitors. Personal information will be handled in a responsible manner. eWayDirect.com reserves the right to disclose such information where required by law or by a government agency, or in an emergency situation or for security reasons.
+## Security & Privacy
 
-You should be aware that when you are visiting the eWayDirect.com site or reading our newsletters and/or members' newsletters, you could be directed to other sites that are beyond our control. There are links to other sites from our publications and our members' publications that take you outside our service. These other sites may send their cookies to site visitors, or otherwise collect data or solicit personal information. Always be aware of where you end up on the Internet!
+At eWayDirect, all personally identifiable information associated with our clients and their customers is maintained at the highest level of security. We are a Safe Harbor certified company. We exercise great care in providing secure transmission of information, utilizing high-grade (128-bit) encryption. We store the information in a database in a secure environment at a Class A Internet service provider. 
 
-eWayDirect.com is committed to protecting the privacy of our members and their subscriber lists. 
+Only employees, in the course of their day-to-day operations, may have access to this private information. Any employee who violates our privacy and/or security policies is subject to disciplinary action, including possible termination and civil and/or criminal prosecution. 
 
-Your Right to Opt Out
+Be aware that we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
 
-eWayDirect.com will periodically email special information on our products and services. Recipients may opt out/unsubscribe from receiving these mailings, as instructed in our publications. Our site may use order forms and registration forms for visitors to request information, products, and services. We may collect contact information (like users' email addresses, names, telephone numbers and mailing addresses) through these forms. Contact information from the forms is used to send out requested information and for record-keeping. 
+## Email Unsubscribe Policies
 
-By using the eWayDirect.com site, you signify your acceptance of our Privacy Policy stated herein.
+All email sent by eWayDirect, either for its own business or on behalf of its clients will contain clear and concise instructions (such as clicking on the link at the bottom of an email) for how to opt-out of receiving future communications. People clicking on this link will be opted-out of future mailings in real time. 
 
-Security 
+In addition, upon request, and after receiving proof of identity, we provide people with access to any and all information that we maintain about them individually. People then have the ability to request that we correct or remove their contact information and we will do so. All requests will be honored within 5 days of the user notification and proof of identity. 
 
-eWayDirect.com is committed to protecting the privacy of our members and the security of their subscriber databases/lists. You can rest assured that our eWayDirect.com system is secure. Other eWayDirect members never have access to your e-lists or private data. At eWayDirect.com, we know that customer privacy is a huge concern to any company that does business over the Internet.
+__Client Email Campaigns__
 
-Therefore, we provide a secure community where you market to your own customers, and, with the permission of other members, can market to their subscribers/customers, too. All content and newsletter sharing is completely at your discretion. You hold the key, and no one will ever have access to your database except you through your password-protected co-branded Web site.
+eWayDirect delivers permission-based electronic marketing campaigns on behalf of our clients. Campaigns are sent only to people who have agreed to receive these emails. In doing so: 
 
-eWayDirect.com maintains the confidentiality, security and integrity of personal information that we obtain from, and for, our members. We do not disclose personal information to any party beyond the network, unless required by law or by a government agency, or in an emergency situation.
+  1. eWayDirect stores client database lists. These lists may contain email addresses, street addresses, contact information and other information. Confidentiality of the client list is a top priority and they are never shared with other clients or third parties.
 
-The importance of security for all personally identifiable information associated with our members is of utmost concern to us. Only those employees who need access to our members' information in order to do their jobs are allowed access. Any employee who violates our privacy and/or security policies is subject to disciplinary action, including possible termination and civil and/or criminal prosecution.
+  2. We track a recipient's ability to support HTML email, as well as whether an HTML email message has been opened or previewed. This capability is used to deliver relevant content to the recipient.
+
+  3. We collect information regarding the activity of email recipients, which is only reported to the client who owns the list.
+
+  4. If eWayDirect determines a client has knowingly used our system for sending unsolicited email, we may revoke the right of this client to use our system.
+
+  5. eWayDirect does not sell, share, or rent the mailing lists of our clients.
+
+
+
+
+__Content Guidelines.__ The following content shall not be included in emails: 
+
+  1. Content relating to the illegal sale of tobacco or alcohol products
+
+  2. Content endorsing or enticing any illegal activity or violence
+
+  3. We collect information regarding the activity of email recipients, which is only reported to the client who owns the list.
+
+  4. Content which is pornographic or involves the sale of "adult services", including, without limitation, massage parlors or escort services
+
+  5. Content relating to the illegal sale or use of firearms
+
+  6. Content which gratuitously or excessively uses the word "sex" or other sexually explicit or vulgar term or description
+
+  7. Content which gratuitously or excessively uses violence
+
+  8. Content which promotes any form of online gambling
+
+  9. Content which may be deemed offensive to minors
+
+
+
+
+eWayDirect retains the right, at its reasonable sole discretion, to disallow any piece of content from being used in Client messages. All content used in Client messages shall be owned or licensed by Client and Client represents that use of such content shall not constitute copyright infringement or any other violation of a third party's proprietary rights. 
+
+## Information Collection & Use On Our Website
+
+eWayDirect is the sole owner of the information collected at our site. We do not sell, share, or rent information to third parties. The information is used to determine the most appropriate information to send to those who request it. 
+
+  1. Request Information Form: Users provide contact information./span>
+
+  2. Resume Submissions: Users provide contact information.
+
+  3. Log Files: We use IP addresses to monitor our site. IP addresses are anonymous and are not linked to personal information.
+
+  4. Sharing: We may share aggregated data with clients or partners. This does not include information that can identify any individual person. Nor does it disclose confidential or proprietary client information.
+
+  5. Cookies: We use cookies to make it easier to navigate our site and to track and measure the results of a particular marketing campaign.
+
+  6. Ad Server Relationships: We do not have relationships with ad server companies.
+
+
+
+
+**Links On Our Web Site**
+
+eWayDirect and their clients agree to conduct their respective businesses in compliance with CANSPAM and other applicable federal, state, provincial and local laws, rules and regulations, including without limitation all laws, rules and regulations regarding list acquisition, email deployment, and advertising. 
+
+**Compliance**
+
+eWayDirect and their clients agree to conduct their respective businesses in compliance with CANSPAM and other applicable federal, state, provincial and local laws, rules and regulations, including without limitation all laws, rules and regulations regarding list acquisition, email deployment, and advertising. 
+
+If you feel that this company, or any of its clients is not abiding by its posted privacy policy, you should contact eWayDirect. 
+
+In addition, you should be aware that eWayDirect is a member of several associations focused around building and maintaining the integrity of legitimate direct marketers and their email marketing initiatives. These organizations include: 
+
+  1. Email Service Providers Coalition (ESPC)
+
+  2. The Direct Marketing Association (DMA)
+
+
+
+
+**Contacting Us**
+
+eWayDirect, Inc.  
+200 Pequot Avenue  
+Southport, CT 06890 
+
+Phone: 888-655-0464  
+Email: [info@ewaydirect.com](mailto:info@ewaydirect.com)
