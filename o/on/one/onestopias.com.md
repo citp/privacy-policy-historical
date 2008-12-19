@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onestopias.com privacy policy that was archived on 2008-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080424141450id_/http%3A//www.onestopias.com/privacy-policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestopias.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219124941id_/http%3A//www.onestopias.com/privacy-policies.asp) for the most accurate reproduction.*
 
 # Privacy Policies | Vyom Privacy Policies | Corporate Privacy policies
 
