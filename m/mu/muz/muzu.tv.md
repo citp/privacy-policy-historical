@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the muzu.tv privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429162938id_/http%3A//www.muzu.tv/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muzu.tv privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219181534id_/http%3A//www.muzu.tv/site/privacyPolicy) for the most accurate reproduction.*
 
-# MUZU - Privacy
-
-Privacy Policy
+# MUZU TV - Bands, Festivals, Venues and Fans Broadcast your Music TV on the Web
 
 1
 
@@ -10,7 +8,7 @@ WHO WE ARE AND WHAT THIS POLICY IS FOR...
 
 1.1
 
-Our name is Our Digital Universe Limited and we operate MUZU™.tv ("Our Website") for your enjoyment. If you need to contact us for any reason then all correspondence should be sent to the General Manager at our address is 19 South William Street, Dublin 2, Ireland (Company No. 402870). 
+Our name is Our Digital Universe Limited and we operate MUZU™ TV ("Our Website") for your enjoyment. If you need to contact us for any reason then all correspondence should be sent to the General Manager at our address is 19 South William Street, Dublin 2, Ireland (Company No. 402870). 
 
 1.2
 
@@ -26,7 +24,7 @@ We collect and maintain personally identifiable information ("Your Info") that y
 
 2.2
 
-Our software uses Your Info to personalise and manage Our Website for you. For example, Our Website stores your favourite Artist Networks and music preferences. If you do decide to give us any of Your Info, you are telling us that this information is both true and accurate. Also, you are telling us that you are entitled to provide us with that information. 
+Our software uses Your Info to personalise and manage Our Website for you. For example, Our Website stores your favourite Artist Channels and music preferences. If you do decide to give us any of Your Info, you are telling us that this information is both true and accurate. Also, you are telling us that you are entitled to provide us with that information. 
 
 2.3
 
@@ -54,7 +52,7 @@ Providing us with your email address gives us the chance to email you a new pass
 
 3.3
 
-At the time of registering to become a Member we give you the option of receiving emails from us. We think they are quite amusing, useful and contain the sort of information about Our Website and your favourite artists that you would like to receive but you may not and can opt out any time. Our emails are sent from a MUZU™.tv address and are sent to your real email address. Every email that we send has an opt-out URL, so you can unsubscribe when you want. 
+At the time of registering to become a Member we give you the option of receiving emails from us. We think they are quite amusing, useful and contain the sort of information about Our Website and your favourite artists that you would like to receive but you may not and can opt out any time. Our emails are sent from a MUZU™ TV address and are sent to your real email address. Every email that we send has an opt-out URL, so you can unsubscribe when you want. 
 
 4
 
@@ -62,7 +60,7 @@ WHAT WE'LL DO WITH YOUR INFO...
 
 4.1
 
-What's yours is yours. Any of Your Info that you chose to share with us stays with us and our record labels and musician partners (the "Music Guys"). We won't sell Your Info to anyone and only us and the Music Guys will have access to it. There might be one exception in the event Our Website itself is sold. In this case we would transfer Your Info to our buyers so that they could continue to provide the same great MUZU™.tv service. 
+What's yours is yours. Any of Your Info that you chose to share with us stays with us and our record labels and musician partners (the "Music Guys"). We won't sell Your Info to anyone and only us and the Music Guys will have access to it. There might be one exception in the event Our Website itself is sold. In this case we would transfer Your Info to our buyers so that they could continue to provide the same great MUZU™ TV service. 
 
 4.2
 
@@ -98,7 +96,7 @@ IF THE AUTHORITIES COME KNOCKING...
 
 5.1
 
-We may disclose Your Info to properly authorised third parties to whom we are required to disclose such information by law. This might include disclosing Your Info where we reasonably believe that you are attempting to commit fraud, conduct activities that could bring harm to others, are using Our Website for any other criminal or immoral purpose or are in serious breach of the [terms and conditions of use](https://web.archive.org/site/terms) of Our Website. If you are using Our Website for reasons other than simply enjoying the Artist Networks and innocently interacting with the Music Guys and other users, please don't worry as this section will not affect you. 
+We may disclose Your Info to properly authorised third parties to whom we are required to disclose such information by law. This might include disclosing Your Info where we reasonably believe that you are attempting to commit fraud, conduct activities that could bring harm to others, are using Our Website for any other criminal or immoral purpose or are in serious breach of the [terms and conditions of use](https://web.archive.org/site/termsAndConditions) of Our Website. If you are using Our Website for reasons other than simply enjoying the Artist channels and innocently interacting with the Music Guys and other users, please don't worry as this section will not affect you. 
 
 6.1
 
@@ -118,7 +116,7 @@ The bottom line is, when it comes to information security, we mean business. Som
 
 7.3
 
-Unfortunately, the transmission of information via the internet or mobile networks is not completely secure. Although we will do our best to protect your private information, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access 
+Unfortunately, the transmission of information via the internet or mobile channels is not completely secure. Although we will do our best to protect your private information, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access 
 
 8
 
@@ -134,7 +132,7 @@ Permanent cookie files remain on your computer's hard drive until you delete the
 
 8.3
 
-In order to offer this service both the Music Guys and ourselves do make money by selling advertising on Our Website and the Artist Networks. Our third party advertising partners often use a cookie or third party web beacon (such as a single pixel GIF image) to track when a click by you on advertising on Our Website becomes a sale. None of Your Info is ever sent to these advertising partners. 
+In order to offer this service both the Music Guys and ourselves do make money by selling advertising on Our Website and the Artist Channels. Our third party advertising partners often use a cookie or third party web beacon (such as a single pixel GIF image) to track when a click by you on advertising on Our Website becomes a sale. None of Your Info is ever sent to these advertising partners. 
 
 8.4
 
@@ -154,7 +152,7 @@ TEENAGERS AND ABOVE ONLY PLEASE...
 
 10.1
 
-In accordance with our [terms and conditions of use](https://web.archive.org/site/terms), we do not knowingly collect personal information from people under the age of 13. If we become aware of the fact that a minor is attempting to submit this information, we will inform the minor that he or she is ineligible to do so. We will then remove this information from our records. 
+In accordance with our [terms and conditions of use](https://web.archive.org/site/termsAndConditions), we do not knowingly collect personal information from people under the age of 13. If we become aware of the fact that a minor is attempting to submit this information, we will inform the minor that he or she is ineligible to do so. We will then remove this information from our records. 
 
 11
 
