@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the screenstepslive.com privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520085255id_/http%3A//www.screenstepslive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenstepslive.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219170118id_/http%3A//www.screenstepslive.com/privacy) for the most accurate reproduction.*
 
 # ScreenSteps Live
 
 ## PRIVACY POLICY
 
 What This Privacy Policy Covers   
-This policy covers how Blue Mango Multimedia, LLC ("Blue Mango," "we," "us," or "our") treats personal information that it collects and receives on ScreenSteps Live and www.screenstepslive.com] (â€œScreenSteps Liveâ€). Information you share with us is used for ScreenSteps Liveâ€™s business purposes. Blue Mango is not in the business of selling information about you. This notice tells you what information we collect, steps we take to protect and secure it, how we use and share information, and finally, how you can contact us with questions or concerns.
+This policy covers how Blue Mango Multimedia, LLC ("Blue Mango," "we," "us," or "our") treats personal information that it collects and receives on ScreenSteps Live and www.screenstepslive.com] (“ScreenSteps Live”). Information you share with us is used for ScreenSteps Live’s business purposes. Blue Mango is not in the business of selling information about you. This notice tells you what information we collect, steps we take to protect and secure it, how we use and share information, and finally, how you can contact us with questions or concerns.
 
 ### Information We Gather
 
@@ -81,7 +81,7 @@ ScreenSteps Live does not share personal information we learn about you from you
 
 When you provide personal information through using ScreenSteps Live you are however sharing your personal information with Blue Mango Multimedia, LLC and its affiliated entities. The use of your personal information by these organizations is subject to this policy.
 
-We do not share your information with unrelated third parties for their direct marketing purposes. However, ScreenSteps Live may display targeted advertisements based on personally non-identifiable information (such as browser type and IP address) and/or personal selection (See the Section entitled â€œThird Party Advertisingâ€ below for more information on how your information is shared with advertisers).
+We do not share your information with unrelated third parties for their direct marketing purposes. However, ScreenSteps Live may display targeted advertisements based on personally non-identifiable information (such as browser type and IP address) and/or personal selection (See the Section entitled “Third Party Advertising” below for more information on how your information is shared with advertisers).
 
 ScreenSteps Live may use or share your personal information where it is necessary to complete a transaction, to operate or improve the ScreenSteps Live products and services, to do something that you have asked us to do, or tell you of products and services that we think may be of interest.
 
@@ -91,7 +91,7 @@ Where you are contacted with an offer or service based on information you have s
 
 When you register for ScreenSteps Live, Blue Mango collects user-submitted account information such as name, email address and age to identify users and send notifications related to the use of the service. Blue Mango also collects user-submitted profile information, including additional contact information, location, biographical information and photos. This additional profile information will assist other users in finding and communicating with you.
 
-ScreenSteps Live will display your â€œFirst and Last Nameâ€ on your ScreenSteps Live Site. 
+ScreenSteps Live will display your “First and Last Name” on your ScreenSteps Live Site. 
 
 ScreenSteps Live will display your name and email address on your ScreenSteps Live Site according to the preferences you set in your account. Additionally, Blue Mango will display any user-submitted profile information on your ScreenSteps Live Site.
 
@@ -120,7 +120,7 @@ Advertisements appearing on the ScreenSteps Live Site, Product or Services may b
 
 Blue Mango does not share any personally identifiable information with advertisers. 
 
-Blue Mango may share general demographic information (such as aggregated statistics about membersâ€™ interests and occupations) and non-personally identifiable information (such as browser type and IP addresses) with advertisers and partners. Blue Mango does not give advertisers access to your individual personal account information. However, by selecting, interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
+Blue Mango may share general demographic information (such as aggregated statistics about members’ interests and occupations) and non-personally identifiable information (such as browser type and IP addresses) with advertisers and partners. Blue Mango does not give advertisers access to your individual personal account information. However, by selecting, interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
 
 From time to time, Blue Mango or a partner, may sponsor a promotion, sweepstake or contest on ScreenSteps Live. You may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. Blue Mango may transfer personal information to certain advertising partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.
 
