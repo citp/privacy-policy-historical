@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the medianet.com.au privacy policy that was archived on 2007-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070301134930id_/http%3A//www.medianet.com.au/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medianet.com.au privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219152848id_/http%3A//www.medianet.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Medianet - Privacy Policy
+# AAP Medianet Privacy Policy | Press Release Distribution AAP Medianet Australia
 
 Medianet is a division of Australian Associated Press Pty Limited (ABN 88 006 180 801) of 3 Rider Blvd, Rhodes, NSW 2138. We respect the privacy of our clients, business contacts and suppliers. We understand that the privacy of your information is important to you.
 
@@ -8,7 +8,7 @@ This privacy policy outlines the types of personal information that we collect a
 
 Personal information is any information which can be used to identify an individual and includes such personal details as name, address, telephone numbers, job title, email address and IP address. By providing us with personal information, you consent to our collection, use and disclosure of that information in accordance with this policy. It is therefore important that you read and understand this policy. If you have any questions in relation to this policy please contact us at the following email address: [privacy@aap.com.au](mailto:privacy@aap.com.au).
 
-### 1\. What Kind of Information Is Collected?
+#### 1\. What Kind of Information Is Collected?
 
 **(a) As a client of Medianet**
 
@@ -26,33 +26,33 @@ We may log your IP address and the use of your username and password. We will us
 
 Our business distributes media releases, on behalf of third parties, to a wide range of media organisations. Through our own investigations, we identify potential recipients of media releases whom we reasonably conclude may be interested in receiving such media releases (Recipient).
 
-If we have identified you as a potential Recipient we will collect your business contact details. Such details may include your name, job title, employer and business contact details, including a business email address. We use this information to distribute media releases from Australian and overseas sources to you. Whenever you receive a media release as a Recipient you may opt-out of receiving further media releases by following the "opt-out" instructions below. 
+If we have identified you as a potential Recipient we will collect your business contact details. Such details may include your name, job title, employer and business contact details, including a business email address. We use this information to distribute media releases from Australian and overseas sources to you. Whenever you receive a media release as a Recipient you may opt-out of receiving further media releases by following the "opt-out" instructions below.
 
 **(c) General - Cookies**
 
-We may use cookies on the Medianet website. Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. Cookies in and of themselves do not personally identify users, although they do identify a user's browser. Most Web browsers are set to accept cookies. However, if you do not wish to receive any cookies you may set your browser to refuse cookies. 
+We may use cookies on the Medianet website. Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. Cookies in and of themselves do not personally identify users, although they do identify a user's browser. Most Web browsers are set to accept cookies. However, if you do not wish to receive any cookies you may set your browser to refuse cookies.
 
-### 2\. Does Medianet give personal information about clients to anyone else?
+#### 2\. Does Medianet give personal information about clients to anyone else?
 
-We do not, and will not, sell, share or rent personal information relating to our clients to any third party, except that (a) we may share information with our subsidiaries and affiliates for similar uses to the uses outlined above; (b) we may provide information when required in order to respond to subpoenas, court orders or legal process; and (c) in the event of a sale of the Medianet business or of AAP, such information could be part of the business transferred. 
+We do not, and will not, sell, share or rent personal information relating to our clients to any third party, except that (a) we may share information with our subsidiaries and affiliates for similar uses to the uses outlined above; (b) we may provide information when required in order to respond to subpoenas, court orders or legal process; and (c) in the event of a sale of the Medianet business or of AAP, such information could be part of the business transferred.
 
-### 3\. Does Medianet give personal information about recipients to anyone else?
+#### 3\. Does Medianet give personal information about recipients to anyone else?
 
 As a Recipient, we may disclose your name to our Medianet clients, affiliates and partners (some of whom are located overseas and include PRNMedia, who may use that information for the purpose of compiling distribution lists for the selection of Recipients of media releases through their use of the Medianet service. If at any time you no longer wish to have your personal information disclosed or used in this manner, please tell us by following the "opt-out" instructions below. 
 
-We may also disclose your personal information when required in order to respond to subpoenas, court orders or legal process, and in the event of a sale of the Medianet business, or of AAP, such information could be part of the business transferred. 
+We may also disclose your personal information when required in order to respond to subpoenas, court orders or legal process, and in the event of a sale of the Medianet business, or of AAP, such information could be part of the business transferred.
 
-### 4\. How Secure is Your Personal Information?
+#### 4\. How Secure is Your Personal Information?
 
 We take reasonable steps to ensure the security of personal information held by us from such risks as loss or unauthorised access, destruction, use, modification or disclosure. Our IT systems are password protected, protected by firewalls and satisfy other industry standard security measures, and if personal information is held on paper files, it can only be accessed by authorised personnel. 
 
-### 5\. How Can You "Opt-Out" of Communications From Us?
+#### 5\. How Can You "Opt-Out" of Communications From Us?
 
 Where we have given you the option to "opt-out" of receiving certain types of communication from us, or from having your personal information used in certain ways, you can exercise your right to "opt-out" by contacting AAP's Privacy Officer at [privacy@aap.com.au](mailto:privacy@aap.com.au).
 
 Please note that the only way to unsubscribe from service announcements is to cancel your subscription to the relevant service. 
 
-### 6\. What Rights do You Have in Relation to Personal Information We Hold About You?
+#### 6\. What Rights do You Have in Relation to Personal Information We Hold About You?
 
 Under the Privacy Act, you have a right to seek access to information we hold about you (although there are some exceptions to this). You also have the right to ask us to correct information about you which is inaccurate, incomplete or out of date. 
 
@@ -68,15 +68,15 @@ Also please be aware that if the relevant personal information was collected bef
 
 If you are of the view that personal information about you is not accurate, complete or up to date, please provide AAP's Privacy Officer with your request for correction. Our policy is to consider any requests for correction in a timely manner. 
 
-### 7\. Contacting Medianet and AAP
+#### 7\. Contacting Medianet and AAP
 
-If you have any questions or comments about this privacy policy, or if you have a complaint about the handling of your personal information, please contact AAP's Privacy Officer by one of the following means: 
+If you have any questions or comments about this privacy policy, or if you have a complaint about the handling of your personal information, please contact AAP's Privacy Officer by one of the following means:
 
-### 8\. Changes to this Privacy Statement
+#### 8\. Changes to this Privacy Statement
 
 We may change this privacy policy from time to time, by posting changes to this site. We encourage you to visit this site periodically. This policy was last updated on 17 May 2006.
 
-### 9\. Australian Privacy Commissioner
+#### 9\. Australian Privacy Commissioner
 
 If you are not satisfied with the way in which we handle your enquiry or complaint, you can contact the Office of the Australian Privacy Commissioner by any of the following methods:
 
