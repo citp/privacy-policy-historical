@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aggreko.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625000005id_/http%3A//www.aggreko.com/useful_links/useful_links/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aggreko.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219021416id_/http%3A//www.aggreko.com/useful_links/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
