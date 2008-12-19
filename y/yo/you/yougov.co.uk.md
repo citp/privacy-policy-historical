@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yougov.co.uk privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603012602id_/http%3A//www.yougov.co.uk/extranets/yg/template/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yougov.co.uk privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220004309id_/http%3A//www.yougov.co.uk/extranets/yg/template/privacypolicy.asp) for the most accurate reproduction.*
 
 # Welcome to YouGov
 
