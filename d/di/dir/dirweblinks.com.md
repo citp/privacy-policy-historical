@@ -1,11 +1,25 @@
-> *The following text is extracted and transformed from the dirweblinks.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514071657id_/http%3A//www.dirweblinks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirweblinks.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219114348id_/http%3A//www.dirweblinks.com/Privacy_policy.html) for the most accurate reproduction.*
 
 # Dirweblinks - Privacy Policy
 
-Welcome to Dirweblinks (the "Site").
+**Privacy Policy for www.dirweblinks.com**
 
-We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Dirweblinks (collectively, "Services") ("Authorized Customers").
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@dirweblinks.com. 
 
-### "Personally Identifiable Information"
+At www.dirweblinks.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.dirweblinks.com and how it is used. 
 
-Refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
+**Log Files**  
+Like many other Web sites, www.dirweblinks.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+
+**Cookies and Web Beacons**   
+www.dirweblinks.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, . 
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.dirweblinks.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+
+www.dirweblinks.com has no access to or control over these cookies that are used by third-party advertisers. 
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.dirweblinks.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
