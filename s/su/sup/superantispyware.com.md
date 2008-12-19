@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superantispyware.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610150600id_/http%3A//www.superantispyware.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superantispyware.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219144246id_/http%3A//www.superantispyware.com/privacy_policy.html) for the most accurate reproduction.*
 
 # SUPERAntiSpyware.com - Privacy Policy
 
@@ -23,4 +23,9 @@ We only use cookies to facilitate the placing of orders via our secure website. 
 **Purchasing Products**  
 In order to accept credit cards over the Internet, and reduce fraudulent charges, we collect standard information including your IP. This information is only used in the case of fraudulent charges and is designed as an added layer of security and protection for our valued customers.
 
-If you have any questions regarding the above information, please do not hesitate to contact us.
+If you have any questions regarding the above information, please do not hesitate to contact us.  
+  
+  
+[Donate](https://web.archive.org/donation.html) | [Terms of Service](https://web.archive.org/termsofservice.html) | [Privacy Policy](https://web.archive.org/privacy_policy.html) | [Company](https://web.archive.org/company.html) | [Contact](https://web.archive.org/contact.html)
+
+(c) Copyright 2005-2008 - SUPERAntiSpyware.com
