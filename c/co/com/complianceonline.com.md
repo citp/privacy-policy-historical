@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the complianceonline.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608235423id_/http%3A//www.complianceonline.com/cms/cms/Offline/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the complianceonline.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219063139id_/http%3A//www.complianceonline.com/cms/cms/Offline/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ComplianceOnline Quality & Compliance Portal
 
@@ -38,7 +38,7 @@ ComplianceOnline will occasionally update this privacy statement. For material c
 
 **Contact**
 
-Queries regarding this privacy statement please contact us at editor@complianceonline.com, or call 650-620-3937 or send mail to ComplianceOnline, 3000 Bridge Parkway ,Redwood Shores, CA 94065
+Queries regarding this privacy statement please contact us at editor@complianceonline.com, or call 650-620-3937 or send mail to ComplianceOnline, 2600 E. Bayshore Road,Palo Alto, CA 94303
 
 **Last Update**
 
