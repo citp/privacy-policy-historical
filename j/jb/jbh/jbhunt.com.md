@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jbhunt.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509092751id_/http%3A//www.jbhunt.com/shared/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbhunt.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219164203id_/http%3A//www.jbhunt.com/shared/privacy.html) for the most accurate reproduction.*
 
-# J.B. Hunt - The Transportation Logistics Company - Privacy
+# J.B. Hunt - Privacy
 
 We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise to take the steps necessary to use your personal information only in ways that are compatible with this Privacy Policy. 
 
