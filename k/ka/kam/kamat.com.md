@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kamat.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515161137id_/http%3A//www.kamat.com/ppolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kamat.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219231010id_/http%3A//www.kamat.com/ppolicy.htm) for the most accurate reproduction.*
 
 # Kamat's Potpourri: Privacy Policy
 
-Last Updated On: December 21,2007
+Last Updated On: September 07,2008
 
 ###  Privacy Statement for Kamat's Potpourri 
 
@@ -40,4 +40,4 @@ This site makes guest books, chat rooms, forums, message boards, and/or news gro
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [](https://web.archive.org/tools/contact.php)
 
-For more information, you can also see [Frequently Asked Questions](https://web.archive.org/web/20080515161137id_/http%3A//www.kamat.com/faq.htm), [Disclaimers & Copyright](https://web.archive.org/web/20080515161137id_/http%3A//www.kamat.com/copyrite.htm), and [Kamat Colophon](https://web.archive.org/colophon/index.htm) sections.
+For more information, you can also see [Frequently Asked Questions](https://web.archive.org/web/20081219231010id_/http%3A//www.kamat.com/faq.htm), [Disclaimers & Copyright](https://web.archive.org/web/20081219231010id_/http%3A//www.kamat.com/copyrite.htm), and [Kamat Colophon](https://web.archive.org/colophon/index.htm) sections.
