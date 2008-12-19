@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicrelief.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624100757id_/http%3A//www.comicrelief.com/all-about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicrelief.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219182518id_/http%3A//comicrelief.com/all-about-us/privacy-policy) for the most accurate reproduction.*
 
 # Comic Relief
 
