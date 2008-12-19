@@ -1,179 +1,122 @@
-> *The following text is extracted and transformed from the mynrma.com.au privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005093458id_/http%3A//www.mynrma.com.au/member_centre_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynrma.com.au privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219141542id_/http%3A//www.mynrma.com.au/cps/rde/xchg/mynrma/hs.xsl/privacy_policy.htm) for the most accurate reproduction.*
 
-# Privacy - About Us - MyNRMA - About Us - MyNRMA
+# Privacy Policy - NRMA Motoring & Services
 
-This statement is effective from 1 January 2004
+##### Privacy Statement
 
-  * [Click here for Q & A's relating to use of our website.](https://web.archive.org/web/20061005093458id_/http%3A//www.mynrma.com.au/member_centre_privacy.asp#qa)
+**This statement is effective from 31 July 2008** ****
 
+ **
 
+##### 1 Our commitment to privacy 
 
-## Commitment to privacy and responsible use of information
+**
 
-Privacy of members and our customers is of utmost importance to the National Roads and Motorists' Association Limited. This includes information or opinions about members and customers that we collect and record and which could be used to reasonably identify them.
+****The privacy of members and our customers is of utmost importance to the National Roads and Motorists' Association Limited (ACN 090 839 197) ( **NRMA** ).  This Privacy Statement sets out how we manage personal information across our business.  It applies to NRMA and to each wholly owned subsidiary of NRMA ( **NRMA Group** ) and to the practices of the agents and contractors engaged by the NRMA Group to provide goods and services.  It also applies to your use of any NRMA Group website, your dealings with the NRMA Group as a member or a customer, and any third party information which may be collected by us.
 
-We view privacy as a serious matter and we strictly adhere to the National Privacy Principles and the Privacy Act 1988. Privacy safeguards are also featured in our Service Charter to members.
+We may update our policies and this Privacy Statement from time to time.  The most current version will always be located on our website and is also available by contacting us on (02) 8741 6590 or contacting our [Privacy Officer](mailto:privacy.officer@mynrma.com.au "Privacy Officer") by email or at the address detailed below.
 
-This Privacy Policy Statement sets out our policies on how we manage personal information across our business and includes NRMA Open Road Pty Ltd ABN 91 000 026 844, publisher of The Open Road magazine and NRMA Travel Pty Limited ABN 48 001 233 567. 
+##### 2 Types of personal information we collect
 
-This website shares a home page with Insurance Australia Limited ABN 11 000 016 722 and related entities, which is separate and independent organization. This online Privacy Statement is not issued by Insurance Australia Limited and does not relate to any website or web pages operated or managed by them.  
- 
+The types of personal information we collect will vary depending on your membership, your dealings with the NRMA Group and the products, services and benefits we (or our agents, contractors and third parties) provide to you, or a request or inquiry you make in relation to such products, benefits and services.  This information may include any or all of the following:
 
-## Type of personal information we collect
-
-The kind of information we collect generally includes your name, address, telephone numbers and other contact details, date of birth, vehicle registration details. We may also collect information about your use of our products and services, and any preferences you tell us about.
-
-We do not collect sensitive information, such as your political or religious beliefs, ethnic background or sexual preference.
-
-We also collect general information for statistical and maintenance purposes that enables us to continually evaluate the performance of this website. 
-
-This information includes:
-
-  * the number of users visiting this website and the number of pages viewed; 
-  * the date, time and duration of visits; and 
-  * the path taken through this website.
+  * name, address(es), telephone number(s) and other contact details; 
+  * electronic address(es); 
+  * date of birth; 
+  * gender; 
+  * vehicle details including registration, model and colour; 
+  * transaction details relating to your use of our products, services or member benefits; 
+  * any benefits you obtain from your membership; any of the above information in respect of additional cardholders or your family members; and 
+  * any preferences you tell us about. 
 
 
 
-This information will not identify you and we will not combine it with any information in a way where we can identify you.
+We may collect sensitive information, such as the fact that you are disabled, to allow us to provide our services more effectively to you (particularly Roadside Assistance) but only if you provide express consent at the time it is provided.
 
-## Why we collect personal information
+Information is also generated whenever a page is accessed on our website that records information such as the time, date and specific page.  We collect such information for statistical and maintenance purposes that enables us to continually evaluate  our website performance.  Some parts of our websites also use "cookies".  A "cookie" is a small text file that is placed on your computer´s hard drive by a web page server.  Cookies store information about the use of our website and are used to identify new or previous visitors to the website and what pages have been accessed.  Most web browsers are set to accept cookies, but this function can usually be disabled if you wish and doing so will not affect your ability to use a website.
 
-Generally, we collect and use personal information about members and customers to establish memberships and provide a range of products and services relating to mobility and related lifestyle needs, and to assist our internal administration and operations including accounting, risk management, record keeping, archiving, systems development and testing, and staff training.
+##### 3 Why we collect personal information
 
-## How we collect information
+Generally, we collect and use personal information about members and customers to establish memberships and provide a range of products, services and benefits to members and customers relating to their motoring and related lifestyle needs.
+
+We also collect personal information to assist in identifying ways in which we can serve you better, such as providing our products and services to you more effectively, and to assist our internal administration and operations including accounting, risk management, record keeping, archiving, systems development and testing, and staff training.
+
+Some of the information we collect is for the purpose of improving our interaction with members and their involvement in the NRMA Group.
+
+We collect personal information about third parties, including family members, for purposes in relation to yours and their dealings (either directly or indirectly) with the NRMA Group.  These purposes include providing secondary membership cards and gift memberships and for the purposes set out above.
+
+Members who nominate an additional cardholder or provide personal information about a third party individual need to ensure that those persons are aware of this Privacy Statement, understand it and agree to accept it.  If that individual does not have the capacity to understand and agree to these terms, NRMA requires a parent or guardian to give the assurances set out in this paragraph.
+
+##### 4 How we collect information
 
 Generally, we collect personal information directly from you, such as when you apply for membership or request a product or service, in the course of providing you with that product or service (eg: roadside assistance), or when you have other dealings with us.
 
-We may collect and update that information over the phone, at roadside, over the Internet, in person (when you visit us at an NRMA office), when you write to us or if you participate in our marketing campaigns.
+We may collect and update that information over the phone, at roadside, over the Internet, in person (when you visit us at an NRMA office), when you write to us or if you participate in our marketing campaigns.  We may also collect personal information through third parties such as:
 
-We may also collect personal information through third parties such as:
+  * our related companies; 
+  * affiliated interstate motorists' clubs; 
+  * our business partners who provide member benefits; 
+  * car dealers and manufacturers who provide membership packages in the sale of vehicles; and 
+  * data washing organisations and postal service providers, including Australia Post. 
 
-  * NRMA Insurance Limited which staff the NRMA offices, some call centres and manage some of the NRMA Country Service Centres; 
-  * affiliated interstate motorists' clubs to provide roadside assistance; and 
-  * car dealers and manufacturers who provide membership packages in the sale of vehicles. 
 
 
+##### 5 Storage and protection of personal information
 
-## How we store information
+We store personal information in a combination of secure computer storage facilities and paper-based files and other records. In so doing, we have taken numerous steps to protect your personal information from misuse, loss, and unauthorised access, modification or disclosure. 
 
-We store personal information in a combination of secure computer storage facilities and paper-based files and other records. In so doing, we have taken numerous steps to protect your personal information from misuse, loss, and unauthorised access, modification or disclosure.
+Additionally we take reasonable steps to destroy or permanently de-identify personal information when we no longer need it.  We impose strict requirements of security and confidentiality on all third parties as to how they store, handle and deal with your personal information.
 
-Additionally we take reasonable steps to destroy or permanently de-identify personal information when we no longer need it. Wherever practicable we will provide you the option of interacting with us anonymously.
+##### 6 How we use personal information
 
-## Other organisations and marketing to you
+We may use and disclose your personal information for a variety of purposes in connection with servicing you as a member or customer and in relation to our business operations.  These include:
 
-Because your privacy is important we will not sell, rent or trade your personal information without your consent.
+  * processing and administering your membership or dealings with us as a customer; 
+  * providing you with the products and services you have requested from us; 
+  * developing processes, products, services and benefits to better meet your needs; 
+  * disclosing your information for use by relevant parties in connection with your membership and services, such as to affiliated interstate motorists' clubs or the Australian Automobile Association; and 
+  * conducting market research and marketing our products and services to you more generally.
 
-However, to ensure a high level of service, we may disclose information about you to outside contractors to carry out specialised activities on our behalf, eg a mailing house. In particular, NRMA Insurance Limited and its related entities provide us with a range of administrative, information technology, call centre and NRMA office services.
 
-We may use your personal information and disclose it to companies in the NRMA Motoring & Services Group, NRMA Insurance Limited and its related entities, and to our other business partners, to give you information and offers about products and services offered by us or these companies.
 
-If you do not wish to receive marketing information from us or any of these companies, please contact us on the contact details below to update your preferences.
+We may also use your personal information to offer or provide you with loyalty benefits, discounts or other information about such schemes that may be operated by us or third parties.  This includes:
 
-We may also disclose personal information to NRMA Insurance Limited and its related entities so that they may offer members discounts on their products from time to time.
+  * providing your personal information to companies in the NRMA Group, and to our other business partners, to give you information and offers about products and services offered by us or these companies; 
+  * obtaining details about how you acquire and use our products, services and membership benefits; 
+  * rewarding members for utilising our products and services through mechanisms such as discounts, special pricing offers and prizes; and 
+  * targeting appropriate marketing of products and services to you.
 
-We may also disclose personal information to other relevant parties in connection with your requests, such as to affiliated interstate motorists' clubs or the Australian Automobile Association.
 
-To better protect your privacy, we impose strict requirements of security and confidentiality on all third parties as to how they handle your personal information. Outside contractors are not allowed to use information about you for any purpose except to perform the services we have asked them to provide.
 
-## Access to personal information
+The fact that you lodged a proxy form and/or attended a member meeting in person or voted in a board election will be stored by us and used in accordance with this Privacy Statement. The way that you (or your proxy) voted will NOT be recorded except on an aggregated basis to determine the outcome of any vote.
 
-We will take reasonable steps to make sure that the personal information we collect, use or disclose is accurate, complete and up to date. If your personal details change, such as your address or phone number, please contact us on 132 132 to update your details so we can still provide you with our services.
+We may provide your personal information to our agents, contractors or related companies for the purposes of, or in connection, with the supply of products and services to you and for the same purposes above.
 
-Following a request (PDF 419KB/1 page), we will provide you with a copy of any personal information which we hold about you in accordance with our obligations under the Privacy Act. We may charge a fee for retrieving this information, in which case we will inform you of the fee in advance of providing the information.
+If you do not wish to receive marketing information from the NRMA Group, please use the contact details below to update your preferences.  Please note that if you make such a request:
 
-We undertake to promptly acknowledge and investigate any complaint about the way we manage personal information.  
- 
+  * we may still need to use your personal information to provide you with the services and products you have requested as a member or customer; and 
+  * it may not be possible for us to immediately action a request to cease receiving any or all marketing material.  However, we will respond to such requests as soon as practicable and will make all reasonable efforts to promptly activate a change in preference to opt out of receiving future marketing material.
 
-## Other Third Parties and our Website
 
-We use RedSheriff, an independent market research company, to gather general information from code embedded in the web pages of this website. This information is not capable of identifying you. Types of information include your IP address, what pages you have viewed, time of your view and your location previous to accessing the website. We use this information for statistical and maintenance purposes. You can obtain a copy of RedSheriff's Privacy Policy by visiting their website. 
 
-We also use external companies for the following reasons:
+We will not sell or rent your personal information without your consent. We may disclose your personal information where we are required or authorised by law to disclose your personal information or for any purposes connected to a fraud, crime prevention or impropriety investigation.
 
-  * for web hosting services for this website 
-  * for maintenance or problem solving; and 
-  * to gather non-personal information from cookies in order to evaluate the effectiveness of online marketing activities. 
+##### 7 Access to personal information
 
+We will take reasonable steps to make sure that the personal information we collect, use or disclose is accurate, complete and up to date. If your personal details change, such as your address or phone number, please contact us on **(02) 8741 6590** to update your details.
 
+Following a request, we will provide you with a copy of any personal information which we hold about you in accordance with our obligations under the Privacy Act.  We may charge a fee for retrieving this information, in which case we will inform you of the fee in advance of providing the information.
 
-## Our Privacy Policy
+We undertake to promptly acknowledge and investigate any complaint about the way we manage personal information.
 
-We may update our policies and this Privacy Policy Statement from time to time. The most current version will always be located on our website and is available in print at NRMA offices.
+##### 8 Contacting us
 
-## Contacting us
+If you have any questions about this Privacy Statement, if you wish to update information we hold about you or if you wish to make a complaint, please write to: 
 
-If you have any questions about this policy or if you wish to update information we hold about you or to make a complaint, please write to: 
+The Privacy Officer  
+National Roads and Motorists' Association Limited   
+9 George Street  
+North Strathfield NSW 2137
 
-The Privacy Officer National Roads and Motorists' Association Limited 388 George Street SYDNEY NSW 2000
-
-You can also telephone us on **132 132** , visit an NRMA office or email our Privacy Officer. NRMA Insurance Limited and its related entities are separate and unrelated to National Roads and Motorists' Association Limited
-
-#### Q&A's about Privacy and Security on our website
-
-The following information applies to the NRMA Motoring & Services website operated on behalf of National Roads and Motorists' Association Limited.
-
-Protecting the information of Members and other users of our website is important to us. Any information collected is held in strictest confidence.
-
-**What information is collected on the website? Can I use the website anonymously?**
-
-Yes you can use the website anonymously. The type of information we can collect depends on how you use this web site. If you visit our website to read or download information only, our system will record the date and time that the site was accessed and the information viewed or downloaded.
-
-If you apply for membership, request a product or service or submit your credit card details to make a payment we only collect the information required to complete the transaction.
-
-**How will you use any information which I submit?**
-
-We will use your information for the purposes for which we have collected it, or in any other ways described in our Privacy Policy Statement. If you apply online for membership, we use the information to process your application and service your membership once it is established. 
-
-**If I make a mistake can I correct it? What if I don't proceed to submit the information?**
-
-At any point before submitting a request you can use your browser's back button to return to previous pages to modify or correct your information. Information that has been modified or corrected before submitting your form will be automatically deleted. If you close the website or cancel the request before submitting your information, the information entered is automatically deleted.
-
-**Will you sell my information to other companies?**
-
-No. We never sell, trade, lease or rent any personally identifiable information to other companies without your consent.
-
-**What will you do with credit card details once the transaction has been completed?**
-
-Once the transaction has taken place, all details of the credit card will be discarded - the details of your card will not remain with us.
-
-**How do you protect my information as it passes over the Internet?**
-
-You can feel confident that when you deal with us online, we have taken all reasonable steps to ensure that your personal information will not be used in anyway that you did not intend it to be used. Your information is encrypted as it travels between your computer and our servers. Encryption makes it exceedingly difficult for others to view your information. This web site uses a 128 bit Secure Socket Layer encryption.
-
-We also monitor developments in security and encryption technologies, and we review and update our processes and procedures in line with industry standards. However, no data transmission over the internet can be guaranteed as fully secure. We do not guarantee the security of any information you transmit to us.
-
-Once we receive your information, we make all efforts to protect the data held in our system against misuse, loss and unauthorised access. If we no longer need your information, we will destroy or de-identify it.
-
-**Do you use any tracking devices?**
-
-Whenever a page is accessed over the internet, our website records the time, date and URL (Uniform Resource Locater -global address on the internet) of the request. This information cannot uniquely identify a user. It allows us to improve our service to you and to other customers as a whole.
-
-**What are cookies and do you use them?**
-
-A cookie is a small text file placed on your computer hard drive by a web page server. Cookies may then be accessed later by our web servers. Cookies store information about your use of our web site.
-
-We use cookies to:
-
-  * determine if you have previously visited the NRMA Motoring & Services website; 
-  * identify what pages from our website that you have accessed. 
-
-
-
-Most web browsers are set to accept cookies but if you are not comfortable accepting cookies you can use your browser to disable them. If your browser is set to reject cookies you may not be able to make full use of our web site or access services on the site that require cookies in order for you to participate.
-
-**When I connect to another web site from your web site does this privacy and security statement still apply?**
-
-No. When you use a link from our website to other websites, including NRMA Insurance Limited, those websites are not subject to our privacy policy statement. You will need to contact those websites to find out about their privacy and security policies.
-
-**What if this privacy and security statement changes?**
-
-This privacy and security statement sets out our current website privacy and security policies. We may change these policies from time to time. We will notify you of these changes by publishing them on this website - we will not separately notify you of these changes. You should check this statement from time to time. By continuing to use this website, you are agreeing to accept any changes we make.
-
-If you have any other questions about this website's privacy and security, please contact our [Privacy Officer](mailto:privacy_officer@mynrma.com.au)
-
-You can obtain information on privacy issues in Australia by visiting the Australian Federal Privacy Commissioner's website. 
-
-  
+You can also telephone us on **(02) 8741 6590,** visit an NRMA office or email our [Privacy Officer](mailto:privacy.officer@mynrma.com.au "Privacy Officer").  NRMA Insurance Limited and its related entities are separate and unrelated to National Roads and Motorists' Association Limited.  
 
