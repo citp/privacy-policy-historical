@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratecity.com.au privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430080930id_/http%3A//www.ratecity.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratecity.com.au privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219235736id_/http%3A//www.ratecity.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RateCity.com.au
 
@@ -7,7 +7,7 @@ _Last updated: 13 September, 2007_
 **Introduction  
 **
 
-RateCity Pty Limited ("RateCity") is a joint venture between ninemsn and CANNEX Pty Limited. As the operator of Australia's leading personal finance comparison website, RateCity delivers content drawn from CANNEX's extensive financial product databases, as well as providing access to third-party content. Any information that you provide under RateCity services provided through our site may be collected and used by RateCity, governed by this privacy policy.   
+RateCity Pty Limited ("RateCity") is a joint venture between ninemsn and CANSTAR CANNEX Pty Limited. As the operator of Australia's leading personal finance comparison website, RateCity delivers content drawn from CANSTAR CANNEX's extensive financial product databases, as well as providing access to third-party content. Any information that you provide under RateCity services provided through our site may be collected and used by RateCity, governed by this privacy policy.   
 This statement sets out RateCity's policies relating to the collection and use of your personal information. It applies to your conduct on the RateCity website. These policies are in addition to RateCity's general Terms of Use governing the website and should be read in conjunction with such Terms of Use. You must not use our website or our Services if you do not accept this Privacy Policy. 
 
 **Your personal information is important to us**
