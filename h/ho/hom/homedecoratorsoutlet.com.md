@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homedecoratorsoutlet.com privacy policy that was archived on 2008-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080313224334id_/http%3A//www.homedecoratorsoutlet.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedecoratorsoutlet.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219052216id_/http%3A//www.homedecoratorsoutlet.com/Privacy) for the most accurate reproduction.*
 
 # HomeDecoratorsOutlet.com
 
@@ -11,7 +11,7 @@
 [About Us](http://www.homedecoratorsoutlet.com/page.php?file=faq&faqGroup=About+Us)
 | 
 
-Last updated: May 1, 2006
+Last updated: November 28, 2008
 
 We appreciate the trust you place in Home Decorators Collection, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy describes the information we collect and how we use it. HomeDecorators.com and HomeDecoratorsOutlet.com are owned by The Home Depot. Every effort has been made to check our information for accuracy. Descriptive or typographical errors are subject to correction.
 
@@ -106,6 +106,10 @@ If you set your browser to refuse cookies, please call us at 1-877-537-8539 (tol
 We also use cookies and pixel tags (tiny graphic images) to tell us what parts of our website you have visited. Pixel tags also enable us to send you email in a format you can read and let us know when you have opened an email message from us.
 
 We also may contract with other companies who use cookies or other online tools such as pixel tags to measure the performance of a marketing effort on our behalf. We prohibit these companies from using this information for their own marketing purposes or from sharing this information with anyone other than Home Decorators Collection.
+
+We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this website. They may collect anonymous information about your visits to our website. They may also use information about your visits to this and other sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major sites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifiable information about users of this website. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third-party service provider, please click [here](http://acerno.com/privacy.html).
+
+You can also read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative's website by clicking [here](http://www.networkadvertising.org/).
 
 **How We Use Email**   
 When you provide us your email address, we may send you emails necessary to process your order or respond to a request. For example, after you place an order at HomeDecorators.com and HomeDecoratorsOutlet.com, you will receive an email confirmation and, in most cases, an email with delivery tracking information.
