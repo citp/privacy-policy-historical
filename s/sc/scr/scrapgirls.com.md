@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrapgirls.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608084950id_/http%3A//www.scrapgirls.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapgirls.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219134729id_/http%3A//www.scrapgirls.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Scrap Girls - Privacy Policy
 
@@ -74,7 +74,7 @@ Scrap Girls.com reserves the right to modify or amend this policy at any time by
 
 **7\. Questions or comments**
 
-If you have any questions regarding our Privacy Policy, please email using the information found on our [contact page](https://web.archive.org/web/20080608084950id_/http%3A//www.scrapgirls.com/About_Us.html).  
+If you have any questions regarding our Privacy Policy, please email using the information found on our [contact page](https://web.archive.org/web/20081219134729id_/http%3A//www.scrapgirls.com/About_Us.html).  
    
 
 
