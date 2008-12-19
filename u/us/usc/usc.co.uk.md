@@ -1,34 +1,47 @@
-> *The following text is extracted and transformed from the usc.co.uk privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223182450id_/http%3A//www.usc.co.uk/shop/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usc.co.uk privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219165001id_/http%3A//www.usc.co.uk/Privacy%2520Policy/M116_EDITORIAL_CONTENT_PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# USC Fashion & Designer Clothes for Men & Women
+# Privacy Policy - USC, UK's No.1 Branded Fashion Retailer
 
-At USC Ltd we are committed to protecting your privacy. We use the information we collect about you to progress orders and to provide a more personalised shopping experience. Please read on for more detail about our privacy policy.
+#### Privacy Policy
 
-**What information do we collect? How do we use it?**
+**Personal information**
 
-**  
-** When you order, we need to know your name, e-mail address, delivery address, credit or debit card number and expiry date. This allows us to process and fulfill your orders and to notify you of your order status. 
+  
+When you use this website, we may collect, store and use the following kinds of data:  
+Information about your PC and your visits to this website such as your IP address, geographical location, browser type, referral source, length of visit and number of pages view;  
+Information relating to any transactions carried out between you and USC on or in relation to this website, including information relating to any purchases you make of our goods and/or services;  
+Information that you provide to us for the purpose of registering with us and allowing us to send you email notifications and/or newsletters;  
+Information that you provide to us for the purpose of signing up for our email newsletters.
 
-We also ask for your telephone number which enables us to contact you urgently if there is a problem with your order (for some international deliveries, this number may be given to our couriers). 
+  
+**Using your personal information**
 
-When you enter a contest or other promotional feature, we may ask for your name, address and e-mail address so we can administer the contest and notify winners. 
+Personal data submitted to us will be used for the purposes specified in this section or as found elsewhere in the relevant parts of the website. We may use your personal information to:
 
-We personalise your shopping experience by using your purchases to shape our recommendations about the merchandise that might be of interest to you. We also monitor customer traffic patterns and site usage to help us develop the design and layout of the store. 
+Administer the website;  
+Improve your browsing experience by developing and improving the design and layout of the website, through the monitoring of your usage;  
+Process your orders;  
+Provide you with information such as news regarding the website, new services and special offers or promotions that may be of interest to you but only if you have specifically agreed to this (also see Keeping in touch with you).
 
-We may also use the information we collect to occasionally notify you about important changes to usc.co.uk, new services and special offers we think you'll find valuable.
+  
+**Data Protection**
 
-When you place orders or access your account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, as required by the UK Data Protection Acts of 1984 and 1998, we follow strict security procedures in the storage and distribution of information which you have given us, to prevent unauthorised access. Our security procedures mean that we may occasionally request proof of identity before we are able to disclose sensitive information to you.
+  
+USC uses the latest in Secure Server Technology to ensure that all of your personal and transactional information is protected to the highest standards. We never make your personal details available to companies outside USC for marketing purposes, although our representatives and appointed agents and business partners may hold your data so that your details and/or order can be processed and/or account maintained. USC (Stores) Ltd is registered with the Information Commissioners Office as a Data Controller. We will comply with the standard, procedures and requirements as laid down in the Data Protection Acts 1984 and 1998 and to ensure that your personal data is kept secure and processed as required by the various laws in force from time-to-time.
 
-We do not store or see any credit card information on systems. All credit card transactions are cleared using HSBC’s banking system.
+  
+**Keeping in touch with you**
 
-When you create an online account with USC Ltd we do not sell, trade or rent any personal information gathered. 
+  
+We want to keep you up to date with key information about new ranges, promotional offers and what's coming soon to USC stores. We may also use your details to send you information about other goods and services we sell or for our research purposes. If you have registered to receive email newsletters from us, you can remove your email address from our list by using the 'unsubscribe' links in the emails we send you. ** **
 
-USC Ltd may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third party vendors, but these statistics will include no personally identifying information. 
+**Third parties**
 
-When you enter a joint competition or promotion with USC and another party then the information gathered will be shared between the two parties. 
+  
+Your personal information may be disclosed to other businesses within the USC and to reputable third parties who will help process your order. USC requires that all such third parties treat your personal information as fully confidential and to fully comply with all applicable UK Data Protection and consumer legislation in place from time-to-time. We will not release your personal information to any external company for mailing or marketing purposes unless we have your prior approval. We may pass on personal information about sales and website usage to reputable third parties for research or analysis purposes.
 
-USC Ltd reserve the right to co-operate with legal officials in the investigation of alleged unlawful activities of our customers related to electronic communication transmitted on our site. USC Ltd will have no legal liability for such disclosures.
+  
+**Policy amendments**
 
-We are committed to protecting your privacy. We use the information we collect on the site to make shopping at www.usc.co.uk possible and to enhance your overall shopping experience. We do not sell, trade or rent your personal information to others.
-
-By using our Web site, you consent to the collection and use of this information by USC Ltd. If we decide to change our privacy policy, we will post these changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. 
+  
+We may update our policies from time-time by posting a new version on our website. You should check our policy pages occasionally to ensure you are happy with any changes.
