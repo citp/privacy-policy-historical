@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lamag.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511212542id_/http%3A//www.lamag.com/reader_services/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamag.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219105132id_/http%3A//www.lamag.com/reader_services/privacy.aspx) for the most accurate reproduction.*
 
 # LA Mag
 
