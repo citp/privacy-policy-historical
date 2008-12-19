@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cedarville.edu privacy policy that was archived on 2008-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080610051848id_/http%3A//www.cedarville.edu/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cedarville.edu privacy policy that was archived on 2008-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219034215id_/http%3A//www.cedarville.edu/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Cedarville University Privacy Policy</title>
@@ -18,67 +18,76 @@ urchinTracker();
 // -->
 </script>
 
-<script type="text/javascript"><!--
-function cuSetMastheadTitle(titleName, titleLink) {
-  var mhAnchorObj=document.getElementById('mastheadtitleanchor');
-  var mhSpanObj=document.getElementById('mastheadtitlespan');
-  var so = new SWFObject("/styles/mastheadtitle.swf","mastheadtitle","304","18","8");
-  // do this just in case user doesn't have flash
-  mhSpanObj.innerHTML=titleName; // does this need to be innerHtml?
-  mhAnchorObj.href=titleLink;
-  // setup flash
-  so.addVariable("MastheadTitle", titleName);
-  so.addVariable("MastheadUrl", titleLink);
-  so.addParam("wmode", "transparent");
-  // so.useExpressInstall('/lib/swf/expressinstall.swf');
-  so.setAttribute("style",";");//bugfix for swfobject 1.5
-  // write out flash object (replaces all contents of specified object)
-  so.write("mastheadtitleflash");
-}
-// -->
-</script>
-<style type="text/css">
-	@import "/styles/main.css";
+<script type="text/javascript" src="/lib/swfobject.js"></script>
+<script type="text/javascript">
+	function cuSetMastheadTitle(titleName, titleLink) {
+		var mhAnchorObj=document.getElementById('mastheadtitleanchor');
+  		var mhSpanObj=document.getElementById('mastheadtitlespan');
+  		// do this just in case user doesn't have flash
+  		mhSpanObj.innerHTML=titleName;
+  		mhAnchorObj.href=titleLink;
+		// setup flash
+		
+		var flashvars = {
+			MastheadTitleVar: titleName, MastheadLinkVar: titleLink, width: "760", height: "22" 
+		};
+		var params = {
+		  wmode: "transparent" 
+		};
+		var attributes = {
+			id: "mastheadtitleflash", name: "mastheadtitle" 
+		};
+		swfobject.embedSWF("/lib/swf/mastheadtitle.swf", "mastheadtitleflash", "760", "22", "9.0.45", "", flashvars, params, attributes);
 	
+	}
+</script>
+
+<style type="text/css">
+	@import "/styles/v6/main.css?20081203.1";
 </style>
-<link rel="stylesheet" type="text/css" href="/styles/print.css" media="print">
-
-
-<link href="/styles/main_nonav.css" title="No Left Nav" rel="alternate stylesheet" type="text/css">
-<link href="/styles/main_wide.css" title="Wide" rel="alternate stylesheet" type="text/css">
-<link href="/styles/main_grey.css" title="Grey Masthead" rel="alternate stylesheet" type="text/css">
-</head>
+<!--[if IE 6]>
+<link href="/styles/v6/main_ie6.css" title="IE6" rel="stylesheet" type="text/css" />
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/styles/v6/print.css?20081203.1" media="print">
+<script src="/lib/jquery/jquery.js" type="text/javascript"></script><script type="text/javascript">jQuery.noConflict(); // don't conflict with other script libraries, such as DWR in ajaxcfc
+</script></head>
 <body> 
-<!-- AfterBodyStartTagBeforeBreadcrumbs_v5 (AKA inserttop): START -->
+<!-- AfterBodyStartTag_v6 (AKA inserttop): START -->
 <div class="sitetitle">
-	<h1>Cedarville University</h1>
+	<h1>Cedarville University Privacy Policy</h1>
 	<p>http://www.cedarville.edu/privacy.cfm</p>
 	<div id="contentlink"><p><a href="#top">Skip to Content</a></p></div>
 	<hr>
 </div>
-
 <div id="main">
+	<div id="cusearch"> 
+<form action="http://www.cedarville.edu/search/index.cfm" id="cse-search-box">
 	
-    <div id="topnav"><ul><li class="topnavfirst"><a href="http://www.cedarville.edu/about/">About</a></li><li><a href="http://www.cedarville.edu/alumni/">Alumni</a></li><li><a href="http://www.cedarville.edu/admissions/">Admissions</a></li><li><a href="http://www.cedarville.edu/academics/">Academics</a></li><li><a href="http://yellowjackets.cedarville.edu/">Athletics</a></li><li><a href="http://www.cedarville.edu/events/">Events</a></li><li><a href="http://www.cedarville.edu/christianministries/">Ministries</a></li><li><a href="http://www.cedarville.edu/departments/">Offices</a></li></ul></div>
+	    <input type="hidden" name="cx" value="000860001049061226207:jhiex0l2in8">
+	    <input type="hidden" name="cof" value="FORID:11">
+	    <input type="hidden" name="ie" value="UTF-8">
+	    <input type="text" name="q" id="q" class="textinput" size="25" value="Search Cedarville" onclick="this.value='';"> 
+	    <input type="submit" name="sa" value="Search" class="submitbutton">
 	
-    <div id="masthead">
-		<div id="mastheadlogo"><a href="http://www.cedarville.edu" title="Cedarville University"><span>Cedarville University</span></a></div>
+</form>
+</div>
+	<div id="mainlogo"><a href="http://www.cedarville.edu" title="Cedarville University"><span>Cedarville University</span></a></div>
+	
+    	<div id="topnav"><ul><li class="topnavfirst"><a href="http://www.cedarville.edu/about/">About</a></li><li><a href="http://www.cedarville.edu/academics/">Academics</a></li><li><a href="http://www.cedarville.edu/admissions/">Admissions</a></li><li><a href="http://www.cedarville.edu/alumni/">Alumni</a></li><li><a href="http://yellowjackets.cedarville.edu/">Athletics</a></li><li><a href="http://www.cedarville.edu/events/">Events</a></li><li><a href="http://www.cedarville.edu/christianministries/">Ministries</a></li><li><a href="http://www.cedarville.edu/departments/">Offices</a></li><li><a href="http://www.cedarville.edu/studentlife/">Student Life</a></li></ul></div>
+	
+	
+	<div id="content">
+		<div id="masthead"><img src="/images/masthead/common/01.jpg" alt="Cedarville University" title="Cedarville University" class="nofloatnoborder"></div> 
 		<div id="mastheadtitle">
-			<script type="text/javascript" src="/lib/swfobject.js"></script>
 			<div id="mastheadtitleflash">
 			  <h2><a href="/" id="mastheadtitleanchor"><span id="mastheadtitlespan"></span></a></h2>
 			</div>
 		</div>
-	</div>
-	<div class="clear"></div>
-	<div id="content">
-		
 		<div id="contenttext">
-			<div id="breadcrumbs">
-<!-- AfterBodyStartTagBeforeBreadcrumbs_v5 (AKA inserttop): END -->
-<!-- AfterBodyStartTagAfterBreadcrumbs_v5 (AKA inserttop): START -->
-		</div><!-- end breadcrumbs div --><div id="contenttextbuffer"><a name="top"></a> 
-<!-- AfterBodyStartTagAfterBreadcrumbs_v5 (AKA inserttop): END --> 
+			<a name="top"></a>
+			
+			<!-- AfterBodyStartTag_v6 (AKA inserttop): END -->
+
 <h1>PRIVACY POLICY STATEMENT FOR CEDARVILLE UNIVERSITY WEBSITES</h1>
 
 <p>Cedarville University is committed to honoring the privacy of visitors to its
@@ -120,36 +129,26 @@ please contact us at
 </p>
 
 
-</div></div>
+</div>
 <div id="nav">
+</div>
+<div id="navbottom">&nbsp;</div>
+<div class="clear"></div>
+</div>
+</div>
 
-<div id="cusearchbox">
-<h3 class="search">Search Cedarville</h3>
-<form name="mainsearchform" method="post" action="/search/index.cfm" style="margin: 0px; padding: 0px;" id="mainsearchform">
-<input type="text" size="18" style="margin: 5px 0 0 0;" id="q" name="q"><br>
-<input type="submit" name="submit" value="Search">
-</form>
-</div>
-</div><div class="contentclear"><img src="/images/spacer.gif" width="1" height="1" alt="" title=""></div>
-</div>
-</div>
-<div class="sitetitle"><br><hr></div>
 <div id="footer">
+	<p>
+	Cedarville University | 251 N. Main St. | Cedarville, OH 45314 USA | 1-800-CEDARVILLE (233-2784) | 1-937-766-7700
+	<br>
+	©Copyright 1996-2008 Cedarville University | All Rights Reserved | <a href="http://www.cedarville.edu/departments/compserv/copyright.htm">Copyright Infringement Notification</a> | <a href="http://www.cedarville.edu/legalinformation.cfm">Legal Information</a>
+	<br>
+	Please read our <a href="http://www.cedarville.edu/cgi-bin/getpage?disclaimer">web disclaimer</a> and <a href="http://www.cedarville.edu/privacy.cfm">privacy statement</a>. Send problems or questions to the <script type="text/javascript" language="JavaScript">
+	//<![CDATA[
+	function safeMailwebmaster(aEmailAddress) { var newAddr=aEmailAddress; newAddr=aEmailAddress.replace(/6tqfgkby/g, ''); location.href = 'mailto:'+newAddr;}
+	//]]>
+	</script><a onmouseout="window.status='Done';return true" onmouseover="window.status='Send e-mail to the director of web development';return true" href="javascript:safeMailwebmaster('webmaster@ce6tqfgkbydarville.edu')">director of web development</a>.
+	</p>
+</div>
 
-<div class="oldbrowsers">
-	<strong>Please note:</strong> This site's design is only visible in a graphical browser that supports Web standards, but its content is accessible to any browser or Internet device. If you are using an old web browser, you will need to upgrade to a Web standards compliant browser to see this site as it was designed.
-</div>
-<p>
-Cedarville University | 251 N. Main St. | Cedarville, OH 45314 USA | 1-800-CEDARVILLE (233-2784) | 1-937-766-7700
-<br>
-©Copyright 1996-2008 Cedarville University | All Rights Reserved | <a href="http://www.cedarville.edu/departments/compserv/copyright.htm">Copyright Infringement Notification</a> | <a href="http://www.cedarville.edu/legalinformation.cfm">Legal Information</a>
-<br>
-Please read our <a href="http://www.cedarville.edu/cgi-bin/getpage?disclaimer">web disclaimer</a> and <a href="http://www.cedarville.edu/privacy.cfm">privacy statement</a>. Send problems or questions to the <script type="text/javascript" language="JavaScript">
-//<![CDATA[
-function safeMailwebmaster(aEmailAddress) { var newAddr=aEmailAddress; newAddr=aEmailAddress.replace(/6tqfgkby/g, ''); location.href = 'mailto:'+newAddr;} 
-//]]>
-</script><a onmouseout="window.status='Done';return true" onmouseover="window.status='Send e-mail for the Web Development Coordinator';return true" href="javascript:safeMailwebmaster('webmaster@ce6tqfgkbydarville.edu')">web development coordinator</a>.
-</p>
-<div id="footerlogo"><a href="http://www.cedarville.edu" title="Cedarville University"><span>Cedarville University</span></a></div>
-</div>
  </body></html>
