@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dillards.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620164122id_/http%3A//www.dillards.com/info/notices.jsp%23PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dillards.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219221330id_/http%3A//www.dillards.com/info/notices.jsp%23PrivacyPolicy) for the most accurate reproduction.*
 
 # Dillard's.com | Company Notices and Terms of Use
 
