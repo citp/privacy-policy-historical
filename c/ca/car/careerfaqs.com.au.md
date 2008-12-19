@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerfaqs.com.au privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612095149id_/http%3A//www.careerfaqs.com.au/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerfaqs.com.au privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219134150id_/http%3A//www.careerfaqs.com.au/privacy.shtml) for the most accurate reproduction.*
 
 # Career FAQs - Privacy and policies
 
@@ -67,8 +67,14 @@ If you order multiple items and they are not all in stock, we will advise you of
 ### Shipping costs within Australia:
 
 1 – 2 items $6.95  
-3 – 4 items $9.95  
-5 items or more – FREE Postage
+3 – 4 items $12.95  
+5 – 10 items $19.95  
+11 – 20 items $32.95  
+21 – 35 items $45.95  
+36 – 50 items $64.95  
+51 – 80 items $80.95  
+81 – 100 items $90.00  
+For more than 100 items please call for a quote.
 
 ### Shipping outside Australia:
 
