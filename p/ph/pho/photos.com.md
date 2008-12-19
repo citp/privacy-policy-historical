@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photos.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529003901id_/http%3A//www.photos.com/en/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photos.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219222751id_/http%3A//www.photos.com/en/company/privacy) for the most accurate reproduction.*
 
 # Stock Photos - Professional Royalty-Free Stock Photos by Subscription at Photos.com
 
