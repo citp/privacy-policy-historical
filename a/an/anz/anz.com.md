@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anz.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509160737id_/http%3A//www.anz.com./Help/ANZs-Web-Site/ANZ-Web-Site-Security-And-Privacy-Statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anz.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219092247id_/http%3A//www.anz.com/Help/ANZs-Web-Site/ANZ-Web-Site-Security-And-Privacy-Statement.asp) for the most accurate reproduction.*
 
 # Help: About This Site
 
@@ -86,20 +86,24 @@ When you access the ANZ website after viewing an ANZ advertisement on a Third Pa
 In addition, ANZ also uses the following companies to collect information on how you utilise the ANZ website:
 
   * Nielsen//NetRatings
+  * Omniture
 
 ('tracking companies'). These tracking companies also use cookies to collect information similar to that collected by the advertising company.
 
-The advertising company and tracking companies ('companies') use that information to perform statistical analyses of aggregate user behaviour, but those analyses are not based on personal information. ANZ uses those analyses to measure advertising effectiveness and relative consumer interest in the various areas of the ANZ website. As a general rule, no personal information is collected by the Companies in this process. If, however, any information is automatically collected, these companies are required under their arrangements with ANZ to maintain the privacy and confidentiality of that personal information.
+The advertising company and tracking companies ('companies') use that information to perform statistical analyses of aggregate user behaviour, but those analyses are not based on personal information. ANZ uses those analyses to measure advertising effectiveness and relative consumer interest in the various areas of the ANZ website. As a general rule, no personal information is collected by the Companies in this process. If, however, any information is automatically collected, these companies are required under their arrangements with ANZ to maintain the privacy and confidentiality of that personal information. 
 
-We may disclose the information collected by a Company, in an aggregate form only, to third parties including advertisers or potential advertisers.
+We may disclose the information collected by a Company, in an aggregate form only, to third parties including advertisers or potential advertisers. 
 
 You can opt-out of DoubleClick cookies. This opt-out is applicable to DoubleClick tracking your current browser throughout DoubleClick's network of websites, including the ANZ website.
 
 Find out more about Nielsen//NetRatings.
 
+Find out more about Omniture.
+
 You can access the Privacy Statements from the Companies here:
 
   * Nielsen//NetRatings
+  * Omniture
 
   
 top   
