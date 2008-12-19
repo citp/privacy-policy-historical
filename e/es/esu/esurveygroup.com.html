@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the esurveygroup.com privacy policy that was archived on 2008-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080528200136id_/http%3A//esurveygroup.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the esurveygroup.com privacy policy that was archived on 2008-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219114306id_/http%3A//www.esurveygroup.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head><link rel="stylesheet" type="text/css" href="./css/style.css.php">
 
@@ -131,8 +131,8 @@ function initialize() {
 
 
 <script language="javascript" type="text/javascript">
+<!--
 PopOn=true;  /*variable set to true when an onclick stays within the current site*/
-popexit=true;
 
 function getCookie(name) {
     var dc = document.cookie;
@@ -151,26 +151,44 @@ function getCookie(name) {
     return unescape(dc.substring(begin + prefix.length, end));
 }
 
-
-
-
 function openedu(){
 /*
-
-
 Put back if they want a BEP popup
-
-
 newwin=open("http://www.besteducationprograms.com/home.php?lp=1&fname=&lname=&home_address=&home_zip=&home_email=&w_ph_ac=&w_ph_pre=&w_ph_num=&h_ph_ac=&h_ph_pre=&h_ph_num=&b_mon=&b_day=&b_year=&Gender=&pixelURL=", "dispwin","width=1200,height=800,scrollbars=yes,menubar=yes");
 */
-
-
 }
 
+function dpiu(){
+	piu = false;
+}
+function popitup(){
+	//alert('value is: '+piu);
+	if( piu ){
+		var newpow = "";
+		//alert('url is: '+newpow);
+		window.open(newpow, "", "toolbar=no,scrollbars=yes,location=no,status=no,menubar=yes,resizable=1,width=1024,height=800,left=0,top=0");
+	}
+}
+function initialize(){
+	// don't pop up a window if user submits a form
+	for(var i=0;i<document.forms.length;i++) {
+		document.forms[i].onsubmit = dpiu;
+	}
+	// don't pop up a window if user clicks on a link
+	document.onclick = dpiu;
+}
+
+var piu = true;
+window.captureEvents(Event.SUBMIT);
+//window.onunload = popitup;
+window.onsubmit = dpiu;
+window.onclick = dpiu;
+-->
 </script>
 
 </head>
-<body>  <!-- onunload="if(PopOn){openedu();}" -->
+<body>
+<!-- onunload="if(PopOn){openedu();}" -->
    <center>
    <table width="800" border="0" cellpadding="0" cellspacing="0" bgcolor="FFCC00">
 <tbody><tr>
@@ -314,6 +332,7 @@ newwin=open("http://www.besteducationprograms.com/home.php?lp=1&fname=&lname=&ho
 
 </p><p class="main" align="justify"> or its successors and assigns may amend the terms and conditions of the Privacy Policy at any time, or substitute a different Agreement by posting a revised version, on the  Sites. Please refer to our site periodically for updates. Amendments shall become effective upon posting. As we continue to develop our business, we might sell or buy certain assets. In such transactions, customer information generally is one of the transferred business assets. If  or its assets are acquired, customer information will of course be one of the transferred assets.
 
+</p><p class="main" align="justify">We may sell, brand or share your personal information that you supply to us with other 3rd party businesses so they can bring selected retail opportunities via direct mail, e-mail or telemarketing for the privacy policy.
 
 </p><p class="gen_topic" align="justify" style="font-size:15pt">Contact Information:
 
@@ -353,6 +372,13 @@ display_border_bottom(bordersize, bordersize);
             </td>
          </tr>
       </tbody></table>
+	<!-- Start Quantcast tag -->
+	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+	<script type="text/javascript">_qacct="p-5dOvJ1YkvUimc";quantserve();</script>
+	<noscript>
+	<a href="http://www.quantcast.com/p-5dOvJ1YkvUimc" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-5dOvJ1YkvUimc.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+	</noscript>
+	<!-- End Quantcast tag -->
    
 
 </center></body></html>
