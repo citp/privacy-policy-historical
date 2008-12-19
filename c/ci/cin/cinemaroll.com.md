@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinemaroll.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517024855id_/http%3A//www.cinemaroll.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinemaroll.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219145943id_/http%3A//www.cinemaroll.com/privacy) for the most accurate reproduction.*
 
 # Cinemaroll :: Privacy
 
@@ -26,4 +26,36 @@ d.  Cinemaroll may offer, from time to time, optional questionnaires, surveys a
 
 3.  **Use and Disclosure of Information**. 
 
-a.  Cinemaroll collects, stores and processes your personal information on serves loca
+a.  Cinemaroll collects, stores and processes your personal information on serves located in San Francisco, CA, USA. Cinemaroll shall use your personal information for such purposes stated above in Section 2(e); 
+
+b.  Unless otherwise expressly provided herein Cinemaroll will not sell, lease or otherwise share or provide your personal information to any third parties, without your express permission. Notwithstanding the above, there may be certain circu ms tances in which some of your personal information will be shared with third parties, under strict restrictions, as further provided in this Privacy Policy. 
+
+c.  Cinemaroll may disclose personal information collected as provided herein: 
+
+(1)  Cinemaroll shall disclose information that it, in good faith, believes is appropriate to cooperate in investigations of suspected fraud or other illegal activity, situations involving potential threat to the physical safety of any person, or to conduct investigations of violation of its Publishing Agreement; or any such similar information. 
+
+(2)  Cinemaroll shall disclose information in response to a subpoena, warrant, court order, levy, attachment, or any comparable or applicable process; or otherwise to establish or exercise Cinemaroll's legal rights or to defend against legal clai ms . 
+
+(3)  Cinemaroll may share information with or disclose information to its employees, officers, directors, consultants, advisors, subsidiaries, affiliates, business partners, joint ventures, provided such disclosure is on a need-to-know basis, and subject to confidentiality provisions. 
+
+(4)  Cinemaroll may share aggregated statistic data provided such information is not connected with personally identifiable data. 
+
+(5)  In the event that v is merged with or acquired by another entity, the successor entity will have access to the information maintained by Cinemaroll. In such case the successor entity shall continue to be bound by the provisions of this Privacy Policy, unless and until amended in accordance with the provisions in this Privacy Policy. 
+
+4.  **Communications**. 
+
+a.  Cinemaroll will generally communicate with its users via email. Cinemaroll further reserves the right to use your email address to send you other communications, such as periodic newsletters, user questionnaires and surveys, and any other communications. 
+
+b.  You will be able to choose whether to receive these communications, in whole or in part, upon completing a standard registration form, or at any time thereafter, by changing your preferences as instructed on the Site. 
+
+5.  **Changing your Information**. 
+
+You can review the personal information you have provided us and make any desired changes to such information including deleting information, at any time, by changing the preferences and information as instructed on the Site. 
+
+6.  **Security**. 
+
+Cinemaroll is committed to handling your personal information with the highest standards of security information. Cinemaroll shall maintain physical, electronic and procedural safeguards to maintain the secrecy of the personal information, and will test its security syste ms regularly. 
+
+7.  **Contact**. 
+
+If you have any questions about this Privacy Policy or your dealings with Cinemaroll, you can contact us at: 1-800-671-1860 (USA) Monday through Thursday between 10:00 – 18:00 GMT, or write to as at webmaster@www.cinemaroll.com . 
