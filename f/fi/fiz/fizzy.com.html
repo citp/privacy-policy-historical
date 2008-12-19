@@ -1,27 +1,54 @@
-<!--The following is the downloaded HTML source of the fizzy.com privacy policy that was archived on 2008-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080514210128id_/http%3A//www.fizzy.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fizzy.com privacy policy that was archived on 2008-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219190054id_/http%3A//www.fizzy.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head style="">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
-<!-- Flava Select - CSS and JS -->
+<!-- IE Hover for Nav -->
+<script defer="" type="text/javascript" src="/js/iehover.js"></script>
+
+<!-- Flava CSS and JS-->
 <link href="/css/flava1.css" rel="stylesheet" type="text/css" title="flava1">
-<link href="/css/flava2.css" rel="alternate stylesheet" type="text/css" title="flava2">
-<link href="/css/flava3.css" rel="alternate stylesheet" type="text/css" title="flava3">
-
-<link href="/css/global.css,layout.css,navigation.css,forms.css,shop.css" rel="stylesheet" type="text/css">
-
-<!-- PNG FIX JS for IE 6 and Earlier -->
-<!--[if lt IE 7.]>
-<script defer type="text/javascript" src="/js/pngfix.js"></script>
-<![endif]-->
-
-
-<!-- Page Specific JS -->
+<link href="/css/flava2.css" rel="alternate stylesheet" type="text/css" title="flava2" disabled="">
+<link href="/css/flava3.css" rel="alternate stylesheet" type="text/css" title="flava3" disabled="">
+<script type="text/javascript" src="/js/flavas.js"></script>
 
 <!-- sIFR CSS and JS -->
 <link rel="stylesheet" href="/css/sIFR-screen.css" type="text/css" media="screen">
 <link rel="stylesheet" href="/css/sIFR-print.css" type="text/css" media="print">
+<script type="text/javascript" src="/js/sifr.js"></script>
+<script type="text/javascript" src="/js/sifr-config.js"></script>
+
+<link href="/css/combined.css" rel="stylesheet" type="text/css">
+
+<link rel="stylesheet" type="text/css" href="/css/jquery/fancy.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/css/jquery/jquery.rater.css" media="screen">
+
+<script type="text/javascript" src="/js/jquery/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.countdown.pack.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.fancybox-1.0.0.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.rater.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.innerfade.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.spy.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.fizzy.custom.js"></script>
+<script type="text/javascript" src="/js/swfobject.js"></script>
+
+<!--[if lt IE 7]>
+
+		<link rel="stylesheet" type="text/css" href="/css/iehacks.css" />
+
+		<script defer type="text/javascript" src="/js/supersleight-min.js"></script>
+		
+<![endif]--> 
+
+<!-- DROPDOWN MENU -->
+<link rel="stylesheet" media="all" type="text/css" href="/css/dropdown.css">
+<!--[if lte IE 6]>
+<link rel="stylesheet" media="all" type="text/css" href="/css/dropdown_ie.css" />
+<![endif]-->
+
+
+<!-- Page Specific JS -->
 
 
 <link rel="SHORTCUT ICON" href="/images/icons/favicon.ico">
@@ -30,7 +57,6 @@
 <link rel="alternate" type="application/rss+xml" title="Latest Fizzy News" href="http://www.fizzy.com/news/rss">
 
 <title>Fizzy Home :: Support :: Privacy</title>
-
 
 <script language="javascript" type="text/javascript">
 <!--
@@ -53,6 +79,28 @@ function writeit( text, id ) {
 -->
 </script>
 
+<!-- Clear login panel when a user clicks on it and change the password type to password -->
+<script type="text/javascript" language="javascript">/* <![CDATA[ */
+function clearLoginForm() {
+	
+	/*var username = document.getElementById("login_username");
+	var password = document.getElementById("login_password");
+	if (username.value == "username") {
+		username.value = "";
+		password.value = "";
+	}*/
+	var form = document.getElementById("header_login_form");
+	
+	if (form.username.value == "USERNAME") {
+		form.username.value = "";
+		form.password.value = "";
+	}
+	
+	return true;
+}
+/* ]]> */</script>
+
+
 
     
 <!-- OTHERPAGE -->
@@ -74,210 +122,398 @@ _m1PosY=20;
 <!-- Body ID used to set 'On' states for Nav -->
 <body id="section_support">
 <a name="top" id="top"></a>
-
 <!-- Wrapper Starts, Ends in Footer Include -->
-<div id="wrapper">
+<div class="wrapper">
+		
+		<!-- Cap Starts  - Use for Alerts, Reminders etc
+		<div class="cap">
 
-		<!-- Content Wrapper Starts, Ends in Footer Include -->
-		<div id="content_wrapper">
+				Cap goes here - use for Alerts, Reminders etc
+		
+		</div>
+		Cap Ends -->
+		
+		<!-- Header Wrapper Starts -->
+		<div class="header_wrapper">
+		
+				<!-- Header Banner Starts -->
+				<div class="header_banner">
 				
-				<!--
-				<div id="cap"><span class="copy_small_caps"><a href="/developers/" title="Fizzy Developers">FIZZY DEVELOPERS:</a> Are you a game developer who wants to earn good money for your games? <a href="/developers/" title="Fizzy Developers">become a Fizzy Developer</a> today!</span></div>
-				-->
-
-				<!-- Header Wrapper Starts -->
-				<div id="header_wrapper">
-				
-						<!-- Logo Starts -->	
 						<div class="header_logo">
-						<a href="/" target="_self" title="Fizzy.com"><img src="/images/flavas/one/logo.gif" alt="Fizzy.com" border="0"></a>
-						</div>
-						<!-- Logo Ends -->
-						
-						<!-- Flavas Starts -->
-						<div class="header_flavas">
-						
-								<div class="header_flavas_flava1"><a href="#" onclick="setActiveStyleSheet('flava1'); return false;"><img src="/images/flavas/one/flavanav/flava1.gif" alt="Clear Fizz" border="0"></a></div>
 								
-								<div class="header_flavas_flava2"><a href="#" onclick="setActiveStyleSheet('flava2'); return false;"><img src="/images/flavas/one/flavanav/flava2.gif" alt="Tangerine Fizz" border="0"></a></div>
+								<!-- Logo -->
+								<div style="position:absolute;top:8px; left:5px; z-index:10;"><a href="/" title="Fizzy.com"><img src="/images/flavas/one/logo.png" alt="Fizzy.com"></a></div>
 								
-								<div class="header_flavas_flava3"><a href="#" onclick="setActiveStyleSheet('flava3'); return false;"><img src="/images/flavas/one/flavanav/flava3.gif" alt="Citrus Fizz" border="0"></a></div>
-						
+								<!-- Stats -->
+								<div style="position:absolute; top:15px; right:7px; z-index:10; width:50px; text-align:right;" class="copy_lineheight_1">
+										
+										<span class="copy_highlight">19.12.08</span>
+										<br>
+										Now with
+										<br>
+										<span class="copy_highlight">230</span>
+										<br>
+										<a href="/games" title="Games List" class="link_grey">games</a>
+										<br>
+										&amp;
+										<br>
+										<span class="copy_highlight">265,524</span>
+										<br>
+										<a href="/user/register" title="Join Club Soda" class="link_grey">members</a>
+										
+								</div>
+								
 						</div>
-						<!-- Flavas Ends -->
 						
-						<!-- Leaderboard Starts -->
-						<div class="header_leaderboard_ad">
+						<div class="header_leaderboard">
 						
-<!-- DEFAULT -->
+								<div class="ads_leaderboard">
 
+<!-- DEFAULT -->
 <iframe src="/ads/leaderboard_ros.html" framespacing="0" frameborder="no" scrolling="no" width="728" height="90"></iframe>
 
+</div>						
+						</div>
+			
+				</div>
+				<!-- Header Banner Ends -->
+				
+				<!-- Header Nav Starts -->
+				<div class="header_nav">
+				
+						<!-- Game Dropdown Starts -->
+						<div style="position: absolute; top:117px; right:15px; z-index:10;">
+						<form class="form_gameslist">
+							<select onchange="MM_jumpMenu('parent',this,1)">
+								<option selected="" style="background-color:#f2f2f2;">Find Games by Name</option>
+							<option style="" value="/games/3d_logic">3D Logic</option><option style="" value="/games/3d_logic_2_stronghold_of_sage">3D Logic 2: Stronghold of Sage</option><option style="" value="/games/3d_missle_game">3D Missle Game</option><option style="" value="/games/3d_reversi">3D Reversi</option><option style="" value="/games/41st_reality">41st Reality</option><option style="" value="/games/abominaball_snow_maze">Abominaball Snow Maze</option><option style="" value="/games/aero_acrobat">Aero Acrobat</option><option style="" value="/games/air_balloon_rally">Air Balloon Rally</option><option style="" value="/games/air_hockey">Air Hockey</option><option style="" value="/games/alaskan_adversary">Alaskan Adversary</option><option style="" value="/games/alphabet_jungle">Alphabet Jungle</option><option style="" value="/games/alpha_bravo_charlie">Alpha Bravo Charlie</option><option style="" value="/games/amenra">Amenra</option><option style="" value="/games/amoebas">Amoebas</option><option style="" value="/games/aquatica">Aquatica</option><option style="" value="/games/arms_dealer_2">Arms Dealer 2</option><option style="" value="/games/ashes_to_ashes">Ashes to Ashes</option><option style="" value="/games/avatarget_racing">Avatarget Racing</option><option style="" value="/games/baby_boom">Baby Boom</option><option style="" value="/games/barricades_2">Barricades! 2</option><option style="" value="/games/battle_pool">Battle Pool</option><option style="" value="/games/big_fish">Big Fish</option><option style="" value="/games/big_truck_adventures">Big Truck Adventures</option><option style="" value="/games/block_n_roll">Block N Roll</option><option style="" value="/games/blueshift">Blueshift</option><option style="" value="/games/bucketball">Bucketball</option><option style="" value="/games/busy_burger">Busy Burger</option><option style="" value="/games/button_games_compilation">Button Games Compilation</option><option style="" value="/games/castle_smasher">Castle Smasher</option><option style="" value="/games/catacombs_the_lost_amphora">Catacombs. The lost Amphora</option><option style="" value="/games/chan_chu">Chan Chu</option><option style="" value="/games/christmas_party">Christmas Party</option><option style="" value="/games/circle_of_pain">Circle of Pain</option><option style="" value="/games/climbing_ninja">Climbing Ninja</option><option style="" value="/games/clinker_castle">Clinker Castle</option><option style="" value="/games/concatenation">Concatenation</option><option style="" value="/games/connect_2">Connect 2</option><option style="" value="/games/conquer_antarctica">Conquer Antarctica</option><option style="" value="/games/console_wars">Console Wars</option><option style="" value="/games/counter_terror">Counter Terror</option><option style="" value="/games/crazy_flasher_4">Crazy Flasher 4</option><option style="" value="/games/crumble_blocks">Crumble Blocks</option><option style="" value="/games/cube_crash">Cube Crash</option><option style="" value="/games/cut_cover_smash">Cut Cover Smash</option><option style="" value="/games/dare_devil">Dare Devil</option><option style="" value="/games/darkage">Darkage</option><option style="" value="/games/death_row">Death Row</option><option style="" value="/games/derailed">Derailed</option><option style="" value="/games/diesel_and_death">Diesel and Death</option><option style="" value="/games/ding_ding">Ding Ding</option><option style="" value="/games/dirt_bike">Dirt Bike</option><option style="" value="/games/dirt_bike_2">Dirt Bike 2</option><option style="" value="/games/dogfight">Dogfight</option><option style="" value="/games/dogfight_2">Dogfight 2</option><option style="" value="/games/dont_look_up">Don't Look Up</option><option style="" value="/games/doomland_2154">Doomland 2154</option><option style="" value="/games/double_bubble">Double Bubble</option><option style="" value="/games/dough_bro">Dough Bro</option><option style="" value="/games/driving_mad">Driving Mad</option><option style="" value="/games/dwarf_on_a_wharf">Dwarf on a Wharf</option><option style="" value="/games/dyna_miner">Dyna Miner</option><option style="" value="/games/elecktra">Elecktra</option><option style="" value="/games/enemyspace">EnemySpace</option><option style="" value="/games/escape">Escape</option><option style="" value="/games/eternal_red">Eternal Red</option><option style="" value="/games/exmortis">Exmortis</option><option style="" value="/games/exofusion_2">Exofusion 2</option><option style="" value="/games/extreme_racing">Extreme Racing</option><option style="" value="/games/face_chase">Face Chase</option><option style="" value="/games/fairy_fishing">Fairy Fishing</option><option style="" value="/games/fat_fred">Fat Fred</option><option style="" value="/games/fire_in_the_hole_2">Fire in the Hole 2</option><option style="" value="/games/flash_bombs">Flash Bombs</option><option style="" value="/games/flash_minesweeper">Flash Minesweeper</option><option style="" value="/games/fling">Fling</option><option style="" value="/games/flowergirl">Flowergirl</option><option style="" value="/games/food_fight">Food Fight</option><option style="" value="/games/foofa_race">Foofa Race</option><option style="" value="/games/forest_brat">Forest Brat</option><option style="" value="/games/fracture_2">Fracture 2</option><option style="" value="/games/frantic">Frantic</option><option style="" value="/games/frog_zen_pond">Frog Zen Pond</option><option style="" value="/games/gangster_life">Gangster Life</option><option style="" value="/games/ghoul_academy">Ghoul Academy</option><option style="" value="/games/giggly_pops">Giggly Pops</option><option style="" value="/games/go_go_plant">Go Go Plant</option><option style="" value="/games/gravitee">Gravitee</option><option style="" value="/games/gringo_bandido">Gringo Bandido</option><option style="" value="/games/grossout_battle">Gross Out</option><option style="" value="/games/halfpipe_hero">Halfpipe Hero</option><option style="" value="/games/hamsterball">Hamsterball</option><option style="" value="/games/havoc_mountain">Havoc Mountain</option><option style="" value="/games/hawaiian_runner">Hawaiian Runner</option><option style="" value="/games/hexstar">HexStar</option><option style="" value="/games/hive">Hive</option><option style="" value="/games/holo_holo_island">Holo Holo Island</option><option style="" value="/games/hornets_nest">Hornets Nest</option><option style="" value="/games/hoverally">Hoverally</option><option style="" value="/games/hungry_are_the_dead">Hungry are the Dead</option><option style="" value="/games/ice_castle_blaster">Ice Castle Blaster</option><option style="" value="/games/i_lost_my_puppy">I Lost My Puppy</option><option style="" value="/games/jewelthief_worldtour">Jewel Thief: World Tour</option><option style="" value="/games/jewel_thief">Jewel Thief</option><option style="" value="/games/jungle_assassin">Jungle Assassin</option><option style="" value="/games/kami">Kami</option><option style="" value="/games/karma_wash_your_sins">Karma - Wash your Sins</option><option style="" value="/games/king_of_air_guitar">King of Air Guitar</option><option style="" value="/games/knife">Knife</option><option style="" value="/games/lenny_the_lizard">Lenny The Lizard</option><option style="" value="/games/let_it_flow">Let It Flow</option><option style="" value="/games/lightning_break">Lightning Break</option><option style="" value="/games/lightning_crazy_golf">Lightning Crazy Golf</option><option style="" value="/games/lightning_pool">Lightning Pool</option><option style="" value="/games/lightning_pool2">Lightning Pool 2</option><option style="" value="/games/lights_out">Lights Out</option><option style="" value="/games/linked">Linked</option><option style="" value="/games/lucky_coins">Lucky Coins</option><option style="" value="/games/mad_monday">Mad Monday</option><option style="" value="/games/maxims_seaside_adventure">Maxims Seaside Adventure</option><option style="" value="/games/ma_balls">Ma Balls</option><option style="" value="/games/metal_wall">Metal Wall</option><option style="" value="/games/mini_moto">Mini Moto</option><option style="" value="/games/moko_moko">Moko Moko</option><option style="" value="/games/monkey_cliff_diving"> Monkey Cliff Diving</option><option style="" value="/games/monster_truck_maniac">Monster Truck Maniac</option><option style="" value="/games/mosquito_trouble">Mosquito Trouble</option><option style="" value="/games/mower_move">Mower Move</option><option style="" value="/games/msoids">MSOIDS</option><option style="" value="/games/muay_thai_2">Muay Thai 2</option><option style="" value="/games/mushroom_farm_defender">Mushroom Farm Defender</option><option style="" value="/games/ninjas_">Ninjas!</option><option style="" value="/games/ninja_pop"> Ninja Pop</option><option style="" value="/games/numbles">Numbles</option><option style="" value="/games/ocean_catch_match">Ocean Catch Match</option><option style="" value="/games/one_shot">One Shot</option><option style="" value="/games/parasite_x">Parasite X</option><option style="" value="/games/pigeons_revenge_2">Pigeons Revenge 2</option><option style="" value="/games/pigrace">PigRace</option><option style="" value="/games/pirate_cove">Pirate Cove</option><option style="" value="/games/pirate_girl_dressup_game">Pirate Girl Dressup Game</option><option style="" value="/games/planet_cruncher">Planet Cruncher</option><option style="" value="/games/planet_platformer_2">Planet Platformer 2</option><option style="" value="/games/play_safe_use_condoms">Play Safe - Use Condoms</option><option style="" value="/games/plink">Plink</option><option style="" value="/games/pointless">Pointless</option><option style="" value="/games/poker_joker">Poker Joker</option><option style="" value="/games/poop_shoot">Poop Shoot</option><option style="" value="/games/popebox_racer">Popebox Racer</option><option style="" value="/games/postal_panic">Postal Panic</option><option style="" value="/games/practice_chapped">Practice Chapped</option><option style="" value="/games/prawn_of_the_dead">Prawn of the Dead</option><option style="" value="/games/precision_penalties">Precision Penalties</option><option style="" value="/games/premiere_league_foosball">Premiere League Foosball</option><option style="" value="/games/puffin_putt">Puffin Putt</option><option style="" value="/games/putting_mad">Putting Mad</option><option style="" value="/games/putt_it_in">Putt It In</option><option style="" value="/games/pyramid_adventures">Pyramid Adventures</option><option style="" value="/games/qwerty_warriors_2">QWERTY Warriors 2</option><option style="" value="/games/replicator">Replicator</option><option style="" value="/games/robokill_trainer">Robokill Trainer</option><option style="" value="/games/rudolphs_kick_n_fly">Rudolphs Kick n' Fly</option><option style="" value="/games/salad_dodger">Salad Dodger</option><option style="" value="/games/santa_s_stacking_filler">Santa's Stacking Filler</option><option style="" value="/games/seascape">Seascape </option><option style="" value="/games/sea_jewels">Sea Jewels</option><option style="" value="/games/sea_jewels_hooks_gold">Sea Jewels Hook's Gold</option><option style="" value="/games/sheepish">Sheepish</option><option style="" value="/games/sim_lemonade_millionaire">Sim Lemonade Millionaire</option><option style="" value="/games/sky_chopper">Sky Chopper</option><option style="" value="/games/slimeball">Slime Ball</option><option style="" value="/games/snake">Snake</option><option style="" value="/games/snake_rattle_and_scroll">Snake Rattle and Scroll</option><option style="" value="/games/space_combat_simulation_te_001">Space Combat Simulation: TE 001</option><option style="" value="/games/spell_duelist">Spell Duelist</option><option style="" value="/games/spheracles">Spheracles</option><option style="" value="/games/squareman">Squareman</option><option style="" value="/games/stabika_ep_1_escape">Stabika ep:1 Escape</option><option style="" value="/games/stabika_ep_2_carnage">Stabika ep.2: Carnage</option><option style="" value="/games/stabika_ep_3_defiance">Stabika ep.3: Defiance</option><option style="" value="/games/stanley_hedgehog">Stanley Hedgehog</option><option style="" value="/games/starryland">Starryland</option><option style="" value="/games/stoneage_panic">Stoneage Panic</option><option style="" value="/games/strong_bow">Strong Bow</option><option style="" value="/games/st_nick_the_quick">St Nick the Quick</option><option style="" value="/games/sundown_shootout">Sundown Shootout</option><option style="" value="/games/supertank">SUPERTANK</option><option style="" value="/games/super_hyberdoze">Super HyberDoze</option><option style="" value="/games/swarm">Swarm</option><option style="" value="/games/switch">Switch</option><option style="" value="/games/swords_and_sandals1">Swords and Sandals 1: Gladiator</option><option style="" value="/games/swords_and_sandals2">Swords and Sandals 2: Emperor's Reign</option><option style="" value="/games/swords_and_sandals_crusader">Swords and Sandals: Crusader</option><option style="" value="/games/swords_sandals_3_multiplae_ultratus">Swords and Sandals 3: Multiplae Ultratus</option><option style="" value="/games/swords_sandals_3_solo_ultratus">Swords and Sandals 3: Solo Ultratus</option><option style="" value="/games/symphony_in_b">Symphony in B</option><option style="" value="/games/tank_wars">Tank Wars</option><option style="" value="/games/the_big_blue">The Big Blue</option><option style="" value="/games/the_big_online_quiz">The Big Online Quiz</option><option style="" value="/games/the_champions_2">The Champions 2</option><option style="" value="/games/the_contraption">The Contraption</option><option style="" value="/games/the_lost_warrior">The Lost Warrior</option><option style="" value="/games/the_scarlet_carnival">The Scarlet Carnival</option><option style="" value="/games/the_stoneager">The Stoneager</option><option style="" value="/games/the_world_s_hardest_game">The World's Hardest Game</option><option style="" value="/games/the_world_s_hardest_game_2">The World's Hardest Game 2</option><option style="" value="/games/thing_thing_4">Thing Thing 4</option><option style="" value="/games/through_the_machine">Through the Machine</option><option style="" value="/games/tijuana_nother_drink">Tijuana Nother Drink?</option><option style="" value="/games/tikibrick">TikiBrick</option><option style="" value="/games/tikidoku">TikiDoku</option><option style="" value="/games/tikiswitch">TikiSwitch</option><option style="" value="/games/tornado_button_smashing">Tornado Button Smashing</option><option style="" value="/games/treasure_seas_inc">Treasure Seas Inc</option><option style="" value="/games/trick_hoops_challenge">Trick Hoops Challenge</option><option style="" value="/games/trick_mountain">Trick Mountain</option><option style="" value="/games/trikitiki">TrikiTiki</option><option style="" value="/games/t_zero_turbo_x">T-Zero Turbo X</option><option style="" value="/games/vhackavole2">Vhackavole2</option><option style="" value="/games/war_machines">War Machines</option><option style="" value="/games/weapons_of_maths_destruction">Weapons of Maths Destruction</option><option style="" value="/games/wheelers">Wheelers</option><option style="" value="/games/where_is_osama">Where Is Osama</option><option style="" value="/games/whiz_words">Whiz Words</option><option style="" value="/games/whooly_and_the_lost_treasures">Whooly and the Lost Treasures</option><option style="" value="/games/wolfnswine">Wolf N' Swine</option><option style="" value="/games/wolfnswine2_desertscorn">Wolf N' Swine 2: Desert Scorn</option><option style="" value="/games/wolfnswine_hungry_like_the_wolves">WolfNSwine: Hungry Like The Wolves</option><option style="" value="/games/work_experience_waiter">Work Experience Waiter</option><option style="" value="/games/xrunning">xRunning</option><option style="" value="/games/zombie_invaders">Zombie Invaders</option>							</select>
+						</form>
+						</div>
+						<!-- Game Dropdown Ends -->
 
-						</div>
+						<!-- Primary Nav Starts -->
+						<div class="menu">
+
+		<ul>
+        	            	<li class="Home"><a class="hide" href="/"><span class="text_remove">Home</span></a>
+            			<!--[if lte IE 6]>
+			<a href="/" title="Home"><span class="text_remove">Home</span>
+			<table><tr><td>
+			<![endif]-->
+										<ul>
+						<!--[if !IE 6]><!-->
+						<li><a href="/user/register">Join&nbsp;for&nbsp;Free</a></li>
+						<li><a href="/user/register">Subscribe</a></li>
+						<li><a href="/user/login">Login</a></li>	
+						<!--<![endif]-->
+						
+						<!--[if lte IE 6]>
+						<li><a href="http://www.fizzy.com/user/register">Join&nbsp;for&nbsp;Free</a></li>
+						<li><a href="http://www.fizzy.com/user/register">Subscribe</a></li>
+						<li><a href="http://www.fizzy.com/user/login">Login</a></li>	
+						<![endif]-->
+					</ul>
+								
+			<!--[if lte IE 6]>
+			</td></tr></table>
+			</a>
+			<![endif]-->
+			
+			</li>
+			
+			<li class="Games"><a class="hide" href="/games"><span class="text_remove">Games</span></a>
+			
+			<!--[if lte IE 6]>
+			<a href="/games"><span class="text_remove">Games</span>
+			<table><tr><td>
+			<![endif]-->
+			
+				<ul>
+					<!--[if !IE 6]><!-->
+					<li><a href="/games/all">All Games</a></li>			
+					<li><a href="/games/download">Download</a></li>
+					<li><a href="/games/subscription">Subscription</a></li>
+					<li><a href="/games/enhanced">Enhanced</a></li>
+					<li><a href="/games/latest">Latest</a></li>
+					<li><a href="/games/popular">Popular</a></li>
+					<li><a href="/games/highest_rated">Rated</a></li>
+					<li><a href="/games/free_multiplayer">Multiplayer</a></li>
+					<li><a href="/games/beta">Beta</a></li>
+					<li><a href="/games">More Categories</a></li>
+					<!--<![endif]-->
 					
-					<div class="header_leaderboard_link"><a href="http://3rdsense.com/advertise/" target="_blank" title="Advertise on Fizzy"><span class="text_remove">Advertise on Fizzy</span></a></div>
-						<!-- Leaderboard Ends -->
-						
-						<!-- Header Nav Starts -->
-						<div id="header_nav">
-						
-								<!-- Primary Nav Starts -->
-								<div id="header_primarynav">
-										
-										<ul id="nav_left">
-											
-											<li id="liHome"><a href="/" title="Home"><span class="text_remove">Home</span></a></li>
-											<li id="liGames"><a href="/games" title="Games"><span class="text_remove">Games</span></a></li>
-											<li id="liShop"><a href="/shop" title="Fizzy Shop"><span class="text_remove">Fizzy Shop</span></a></li>
-											<li id="liDevelopers"><a href="/developers" title="Developers"><span class="text_remove">Developers</span></a></li>
-											<li id="liNews"><a href="/news" title="News"><span class="text_remove">News</span></a></li>
-											
-										</ul>
-										
-										<ul id="nav_right">
+					<!--[if lte IE 6]>
+					<li><a href="http://www.fizzy.com/games/download">Download</a></li>
+					<li><a href="http://www.fizzy.com/games/subscription">Subscription</a></li>
+					<li><a href="http://www.fizzy.com/games/enhanced">Enhanced</a></li>
+					<li><a href="http://www.fizzy.com/games/latest">Latest</a></li>
+					<li><a href="http://www.fizzy.com/games/popular">Popular</a></li>
+					<li><a href="http://www.fizzy.com/games/highest_rated">Rated</a></li>
+					<li><a href="http://www.fizzy.com/games/free_multiplayer">Multiplayer</a></li>
+					<li><a href="http://www.fizzy.com/games/beta">Beta</a></li>
+					<![endif]-->
+					
+				</ul>
+			
+			<!--[if lte IE 6]>
+			</td></tr></table>
+			</a>
+			<![endif]-->
+			
+			</li>
+			
+			<li class="Shop"><a class="hide" href="/shop"><span class="text_remove">Shop</span></a>
+			
+			<!--[if lte IE 6]>
+			<a href="/shop"><span class="text_remove">Shop</span>
+			<table><tr><td>
+			<![endif]-->
+			
+				<ul>
+					<!--[if !IE 6]><!-->
+					<li><a href="/shop">All&nbsp;Products</a></li>
+					<li><a href="/shop/game">Games</a></li>
+					<li><a href="/shop/checkout">Checkout</a></li>
+					<li><a href="/support">Support</a></li>
+					<!--<![endif]-->
+					
+					<!--[if lte IE 6]>
+					<li><a href="http://www.fizzy.com/shop">All&nbsp;Products</a></li>
+					<li><a href="http://www.fizzy.com/shop/game">Games</a></li>
+					<li><a href="http://www.fizzy.com/shop/checkout">Checkout</a></li>
+					<li><a href="http://www.fizzy.com/support">Support</a></li>
+					<![endif]-->
+				</ul>
+			
+			<!--[if lte IE 6]>
+			</td></tr></table>
+			</a>
+			<![endif]-->
+			
+			</li>
+			
+			<li class="Club_Soda"><a class="hide" href="/club_soda"><span class="text_remove">Club Soda</span></a>
+			
+			<!--[if lte IE 6]>
+			<a href="/club_soda"><span class="text_remove">Club Soda</span>
+			<table><tr><td>
+			<![endif]-->
+			
+				<ul>
+					<li><a href="/club_soda">Club&nbsp;Soda&nbsp;HQ</a></li>
+					<li><a href="/competition">Competition</a></li>
+					<li><a href="/club_soda/top_members">Top&nbsp;Members</a></li>
+									
+					<!--[if !IE 6]><!-->
+					<li><a href="/user/register">Join&nbsp;Club&nbsp;Soda</a></li>
+					<li><a href="/user/login">Login</a></li>
+					<!--<![endif]-->	
+					<!--[if lte IE 6]>
+					<li><a href="http://www.fizzy.com/user/register">Join&nbsp;Club&nbsp;Soda</a></li>
+					<li><a href="http://www.fizzy.com/user/login">Login</a></li>
+					<![endif]-->
+					
+									<li><a href="/support">Support</a></li>
+				</ul>
+			
+			<!--[if lte IE 6]>
+			</td></tr></table>
+			</a>
+			<![endif]-->
+			
+			</li>
 	
-																				
-											<div style="display:inline; position:relative; margin-right:1px; float:right; overflow:hidden;">
-											<form class="form_small" action="/user/login/" method="POST">
+			<li class="More"><a class="hide" href="/"><span class="text_remove">More</span></a>
+			
+			<!--[if lte IE 6]>
+			<a href="/"><span class="text_remove">More</span>
+			<table><tr><td>
+			<![endif]-->
+			
+				<ul>
+					<!--[if !IE 6]><!-->
+					<li><a href="/news">News</a></li>
+					<li><a href="/developers">Developers</a></li>
+					<li><a href="/affiliates">Affiliates</a></li>
+					<li><a href="/about">About</a></li>
+					<li><a href="/support">Support</a></li>
+					<li><a href="/terms">Terms &amp; Conditions</a></li>
+					<li><a href="/contact">Contact</a></li>
+					<!--<![endif]-->
+					
+					<!--[if lte IE 6]>
+					<li><a href="http://www.fizzy.com/news">News</a></li>
+					<li><a href="http://www.fizzy.com/developers">Developers</a></li>
+					<li><a href="http://www.fizzy.com/affiliates">Affiliates</a></li>
+					<li><a href="http://www.fizzy.com/about">About</a></li>
+					<li><a href="http://www.fizzy.com/support">Support</a></li>
+					<li><a href="http://www.fizzy.com/terms">Terms &amp; Conditions</a></li>
+					<li><a href="http://www.fizzy.com/contact">Contact</a></li>
+					<![endif]-->
+				</ul>
+			
+			<!--[if lte IE 6]>
+			</td></tr></table>
+			</a>
+			<![endif]-->
+			
+			</li>
+		</ul>
+	
+	</div>
+
+<!--
+<ul id="nav">
+
+		<li><a href="/">Home</a>
+
+				<ul>
+					<li><a href="/games">Find&nbsp;a&nbsp;Game</a></li>
+					<li><a href="/user/register">Join Club Soda</a></li>
+					<li><a href="/user/login">Login</a></li>
+					<li><a href="/news">News</a></li>
+
+					<li><a href="/support">Support</a></li>
+				</ul>
+		
+		</li>
+		
+		<li><a href="/games">Games</a>
+
+				<ul>
+					<li><a href="/games/latest">Latest</a></li>
+					<li><a href="/games/popular">Popular</a></li>
+					<li><a href="/games/highest_rated">Rated</a></li>
+					<li><a href="/games/free_multiplayer">Multiplayer</a></li>
+					<li><a href="/games/beta">Beta</a></li>
+					<li><a href="/games">More&nbsp;Categories...</a></li>
+				</ul>
+				
+		</li>
+		<li><a href="/shop">Shop</a>
+			
+				<ul>
+					<li><a href="/shop">All&nbsp;Products</a></li>
+					<li><a href="/shop/game">Games</a></li>
+					<li><a href="/shop/voucher">Vouchers</a></li>
+					<li><a href="/shop/checkout">Checkout</a></li>
+					<li><a href="/support">Support</a></li>
+				</ul>
+		</li>
+		
+		<li><a href="/club_soda">Club Soda</a>
+				
+				<ul>
+					<li><a href="/club_soda">Club&nbsp;Soda&nbsp;HQ</a></li>
+					<li><a href="/competition">Competition</a></li>
+					<li><a href="/club_soda/top_members">Top&nbsp;Members</a></li>
+									<li><a href="/user/register">Join&nbsp;Club&nbsp;Soda</a></li>
+					<li><a href="/user/login">Login</a></li>
+									<li><a href="/support">Support</a></li>
+				</ul>
+				
+		</li>
+		
+</ul>
+-->						<!-- Primary Nav Ends -->
+
+				</div>
+				<!-- Header Nav Ends -->
+				
+				
+				<!-- Header Member Panel Starts -->
+				<div class="header_member_panel">
+						
+						
+
+		
+							
+								<div class="padding20_RL" style="margin-top:10px; width:930px;">
+									
 										
-													<div class="float_left" style="margin:6px 5px 0 0; overflow:hidden;"><input id="quick_login_username" name="username" type="text" value="USERNAME" style="width:59px;"></div>
-													
-													<div class="float_left" style="margin:6px 5px 0 0; overflow:hidden;"><input id="quick_login_password" name="password" type="password" value="******" style="width:59px;"></div>
-													
-													<div class="float_left" style="width:30px; margin:6px 0 0 0; overflow:hidden;"><input id="quick_login_submit" type="submit" name="login" value="GO" class="form_button" style="width:25px;"></div>
-												
-											</form>
-											</div>
-										
-											<li id="liLogin"><a href="/user/login" title="Login"><span class="text_remove">Login</span></a></li>
-											<li id="liJoin"><a href="/user/register" title="Join for Free"><span class="text_remove">Join for Free</span></a></li>
-											<li id="liCompetition"><a href="/competition" title="Competition"><span class="text_remove">Competition</span></a></li>
-											<li id="liClubSoda"><a href="/club_soda" title="Club Soda"><span class="text_remove">Club Soda</span></a></li>
+											<!-- Welcome Starts -->
+											<div class="float_left" style="padding-right:10px; border-right:1px solid #d9d9d9; height:27px;">
 											
-																						
-										</ul>
-								
+													<span class="copy_highlight">Welcome to Fizzy!</span>
+													<br>
+													<a href="/user/register" title="Join for Free">Join free</a>, <a href="/user/upgrade" title="Upgrade to become a VIP">Upgrade</a> or <a href="/user/login" title="Login" class="link_arrow">Login</a>
+											
+											</div>
+											<!-- Welcome Ends -->
+											
+											<!-- Login Starts -->
+											<div class="float_left" style="margin-left:10px; padding-right:10px; border-right:1px solid #d9d9d9; overflow:hidden; height:25px;">
+											<table border="0">
+											<form action="/user/login" method="post" class="form_standard"></form>
+											<input type="hidden" value="1" name="name_513f17890f5945e8c6414042ce5964d0">
+												<tbody><tr>
+													<td>Username:&nbsp;</td>
+													<td><input type="text" value="" id="username" name="username" style="width:65px;">&nbsp;</td>
+													<td>Password:&nbsp;</td>
+													<td><input type="password" value="" id="password" name="password" style="width:65px;">&nbsp;</td>
+													<td><input type="checkbox" value="1" name="remember_me">&nbsp;</td>
+													<td>Remember?&nbsp;</td>
+													<td><input type="submit" value="Login" id="login" name="login" class="form_button_60x23"></td>
+													<td>&nbsp;&nbsp;<a href="/user/forgotten_password" title="Forgotten Password" class="link_grey">Forgot Password?</a></td>
+												</tr>
+											
+											</tbody></table>	
+											</div>
+											<!-- Login Ends -->
+											
+											
+														
+											<!-- Kart Starts -->
+											<div style="position:relative; float:right;">
+													
+													<div class="float_left" style="margin-right:8px;">
+													<img src="/images/flavas/one/icons/cart_27.gif" alt="Cart" width="27" height="27">
+													</div>
+													
+													<div class="float_left">
+													
+															<a href="/shop" title="Fizzy Shop" class="link_grey">Shopping Cart:</a>
+															<br>
+															<div id="cart_header">
+															
+
+		<!-- No Items in Cart -->
+		<span class="copy_highlight">0 </span>Items in My Cart&nbsp;<span class="copy_light_grey">|</span>&nbsp;<a href="/shop" title="Shop" class="link_arrow">Shop</a>				
+
+															</div>
+															
+												</div>
+			
+										</div>
+										<!-- Kart Ends -->
+		
 								</div>
-								<!-- Primary Nav Ends -->
-								
-						</div>
-						<!-- Header Nav Ends -->
-						
-						<!-- Game Nav Starts -->
-						<div class="header_gamenav">
-						
-								<div class="button_gamenav_download">
-									<a href="/games/download" title="Download Games on Fizzy"><span class="text_remove">Download Games on Fizzy</span></a>
-								</div>
-								
-								<div class="button_gamenav_multi">
-									<a href="/games/multiplayer" title="Multi-Player Games on Fizzy"><span class="text_remove">Multi-Player Games on Fizzy</span></a>
-								</div>
-								
-								<div class="button_gamenav_free">
-									<a href="/games/free" title="Free Games on Fizzy"><span class="text_remove">Free Games on Fizzy</span></a>
-								</div>
-								
-								<div class="header_gamenav_gameslist_box">
-								<form class="form_gameslist">
-									<select onchange="MM_jumpMenu('parent',this,1)">
-										
-										<option selected="">Full Games List</option>
-										
-																				<optgroup label="Download Games" class="download">
-                                            										<option value="/games/clinker_castle">Clinker Castle</option>
-                                            										<option value="/games/double_bubble">Double Bubble</option>
-                                            										<option value="/games/ghoul_academy">Ghoul Academy</option>
-                                            										<option value="/games/grossout_battle">Gross Out</option>
-                                            										<option value="/games/hawaiian_runner">Hawaiian Runner</option>
-                                            										<option value="/games/holo_holo_island">Holo Holo Island</option>
-                                            										<option value="/games/jewelthief_worldtour">Jewel Thief: World Tour</option>
-                                            										<option value="/games/lightning_crazy_golf">Lightning Crazy Golf</option>
-                                            										<option value="/games/lightning_pool2">Lightning Pool 2</option>
-                                            										<option value="/games/sea_jewels_hooks_gold">Sea Jewels Hook's Gold</option>
-                                            										<option value="/games/swords_and_sandals1">Swords and Sandals 1: Gladiator</option>
-                                            										<option value="/games/swords_and_sandals2">Swords and Sandals 2: Emperor's Reign</option>
-                                            										<option value="/games/swords_and_sandals_crusader">Swords and Sandals: Crusader</option>
-                                        										</optgroup>
-																				<optgroup label="Multiplayer Games" class="multiplayer">
-                                            										<option value="/games/battle_pool">Battle Pool</option>
-                                        										</optgroup>
-																				<optgroup label="Free Games" class="free">
-                                            										<option value="/games/abominaball_snow_maze">Abominaball Snow Maze</option>
-                                            										<option value="/games/ashes_to_ashes">Ashes to Ashes</option>
-                                            										<option value="/games/baby_boom">Baby Boom</option>
-                                            										<option value="/games/battle_pool">Battle Pool</option>
-                                            										<option value="/games/christmas_party">Christmas Party</option>
-                                            										<option value="/games/crumble_blocks">Crumble Blocks</option>
-                                            										<option value="/games/death_row">Death Row</option>
-                                            										<option value="/games/diesel_and_death">Diesel and Death</option>
-                                            										<option value="/games/dont_look_up">Don't Look Up</option>
-                                            										<option value="/games/dough_bro">Dough Bro</option>
-                                            										<option value="/games/driving_mad">Driving Mad</option>
-                                            										<option value="/games/dwarf_on_a_wharf">Dwarf on a Wharf</option>
-                                            										<option value="/games/dyna_miner">Dyna Miner</option>
-                                            										<option value="/games/face_chase">Face Chase</option>
-                                            										<option value="/games/fairy_fishing">Fairy Fishing</option>
-                                            										<option value="/games/forest_brat">Forest Brat</option>
-                                            										<option value="/games/frog_zen_pond">Frog Zen Pond</option>
-                                            										<option value="/games/giggly_pops">Giggly Pops</option>
-                                            										<option value="/games/halfpipe_hero">Halfpipe Hero</option>
-                                            										<option value="/games/havoc_mountain">Havoc Mountain</option>
-                                            										<option value="/games/hornets_nest">Hornets Nest</option>
-                                            										<option value="/games/hoverally">Hoverally</option>
-                                            										<option value="/games/i_lost_my_puppy">I Lost My Puppy</option>
-                                            										<option value="/games/lenny_the_lizard">Lenny The Lizard</option>
-                                            										<option value="/games/lightning_break">Lightning Break</option>
-                                            										<option value="/games/lightning_pool">Lightning Pool</option>
-                                            										<option value="/games/numbles">Numbles</option>
-                                            										<option value="/games/poker_joker">Poker Joker</option>
-                                            										<option value="/games/poop_shoot">Poop Shoot</option>
-                                            										<option value="/games/popebox_racer">Popebox Racer</option>
-                                            										<option value="/games/prawn_of_the_dead">Prawn of the Dead</option>
-                                            										<option value="/games/precision_penalties">Precision Penalties</option>
-                                            										<option value="/games/putting_mad">Putting Mad</option>
-                                            										<option value="/games/salad_dodger">Salad Dodger</option>
-                                            										<option value="/games/sea_jewels">Sea Jewels</option>
-                                            										<option value="/games/slimeball">Slime Ball</option>
-                                            										<option value="/games/spheracles">Spheracles</option>
-                                            										<option value="/games/st_nick_the_quick">St Nick the Quick</option>
-                                            										<option value="/games/symphony_in_b">Symphony in B</option>
-                                            										<option value="/games/the_contraption">The Contraption</option>
-                                            										<option value="/games/tijuana_nother_drink">Tijuana Nother Drink?</option>
-                                            										<option value="/games/trick_mountain">Trick Mountain</option>
-                                            										<option value="/games/whiz_words">Whiz Words</option>
-                                            										<option value="/games/wolfnswine">Wolf N' Swine</option>
-                                            										<option value="/games/wolfnswine2_desertscorn">Wolf N' Swine 2: Desert Scorn</option>
-                                            										<option value="/games/wolfnswine_hungry_like_the_wolves">WolfNSwine: Hungry Like The Wolves</option>
-                                            										<option value="/games/work_experience_waiter">Work Experience Waiter</option>
-                                        										</optgroup>
-										
-									</select>
-								</form>
-								</div>
-								
-						</div>
-						<!-- Game Nav Ends -->
 						
 				</div>
-				<!-- Header Wrapper Ends -->
-		
+				<!-- Header Member Panel Ends -->
+						
+		</div>
+		<!-- Header Wrapper Ends -->		
 		<!-- Page Location & Options Starts -->
 		<div id="page">
 
 <!-- Breadcrumb Trail -->
+<div class="float_left" style="margin-top:1px;">
 <a href="/" class="breadcrumb_link">FIZZY HOME</a>
 <a href="/support" class="breadcrumb_link">SUPPORT</a>
     <span class="breadcrumb_end">PRIVACY</span>
-
-<div style="display:inline;" id="cart_header">
-
-<!-- No Items in Cart -->
-<div class="float_right">
-		<span class="cart_icon"><img src="/images/icons/shop/cart_10.gif" alt="Cart"></span><span class="copy_small_caps"><span class="cart_items"><span class="copy_colour7">0 </span>Items in My Cart</span><a href="/shop" title="Fizzy Shop" class="cart_checkout">Fizzy Shop</a></span>
 </div>
-</div></div>
+
+<!-- Bookmark -->
+<div class="float_right" id="add_this_div">
+			<!-- AddThis Bookmark Button BEGIN -->
+			<script type="text/javascript">
+			  addthis_url    = location.href;   
+			  addthis_title  = document.title;  
+			  addthis_pub    = 'jevsta';     
+			</script><script type="text/javascript" src="http://s7.addthis.com/js/addthis_widget.php?v=12"></script>
+			<!-- AddThis Bookmark Button END -->
+		</div></div>
 		<!-- Page Location & Options Ends -->
 		
 		<!--  Row Starts  -->
@@ -290,31 +526,32 @@ _m1PosY=20;
 						<div class="titleBox_colour1"><h1 class="colour1">SUPPORT</h1></div>
 						
 						<div id="subnav_box">
-								<div id="subnav">
-									<ul>
-										<li><a href="/support" title="Fizzy Support">Support Home</a></li>
-										<li><a href="/about" title="About Fizzy">About Fizzy</a></li>
-										<li class="on"><a href="/privacy" title="Privacy Policy">Privacy Policy</a></li>
-										<li><a href="/terms" title="Terms of Use">Terms of Use</a></li>
-										<li><a href="/refund" title="Refund Policy">Refund Policy</a></li>
-										<li><a href="/contact" title="Contact Us">Contact Us</a></li>
-									</ul>
-								</div>
+								
+								<ul>
+											<li id="top"><a href="/support" title="Support Home">Support Home</a></li>
+											<li><a href="/about" title="About Fizzy">About Fizzy</a></li>
+											<li class="on"><a href="/privacy" title="">Privacy Policy</a></li>
+											<li><a href="/terms" title="Terms of Use">Terms of Use</a></li>
+											<li><a href="/refund" title="Refund Policy">Refund Policy</a></li>
+											<li id="bottom"><a href="/contact" title="Contact Us">Contact Us</a></li>
+										</ul>
+								
+								
 						</div>
 						
-						<div id="ad_skyscraper">
+						<div id="ad_skyscraper"><div class="ads_skyscraper">
+
 <!-- DEFAULT -->
 
 <iframe src="/ads/sky_ros.html" framespacing="0" frameborder="no" scrolling="no" width="120" height="600"></iframe>
 
-
-</div>
+</div></div>
 						
 				</div>
 				<!-- Column A Ends -->
 				
 				<!-- Column B Starts -->
-				<div class="col_layout1_colA">
+				<div class="col_470" style="left:30px;">
 						
 						<div class="titleBox_colour7"><h1 class="colour7">PRIVACY POLICY</h1></div>
 						
@@ -451,402 +688,265 @@ _m1PosY=20;
 				<!-- Column B Ends -->
 				
 				<!-- Column C Starts -->
-				<div class="col_layout1_colB">
+				<div class="col_310" style="left:45px;">
 						
 						<div class="row"><!-- If Logged in Show Member Panel -->
 
+		<div style="width:300px; height:250px; position:relative; float:left; overflow:hidden;">
+
+				
+		<!-- DEFAULT -->
 		
-<!-- DEFAULT -->
-
-<iframe src="/ads/mpu_ros.html" framespacing="0" frameborder="no" scrolling="no" width="300" height="250"></iframe>
-
-
-
+		<iframe src="/ads/mpu_ros.html" framespacing="0" frameborder="no" scrolling="no" width="300" height="250"></iframe>
+		
+				
+</div>
 </div>
 						
-						<div class="row_paddingtop_10">
-<div class="titleBox_colour7"><h1 class="colour7">Around Fizzy</h1></div>
-								
-<div class="contentBox_white">
+						<div class="row_paddingtop_15"><div class="padding15_RL">
 
-		<div style="position:relative; padding:5px 10px 10px 10px; float:left;">
+		<h2>Member Activity</h2>
 				
-				<div class="row_paddingbottom_10">
-
-
-                                <div class="row_paddingtop_5">
-
-                                        <div class="inset_floatleft_marginright_5">
-                                        
-                                                <img src="/images/icons/events/score_submitted_free_16.gif" width="16" height="16" title="Score Submitted" border="0">
-                                        
-                                        </div>
-										
-										<span class="copy_small">
-                                        
-										<a href="/profile/kMach" title="kMach : Level 9 : Points 475 ">kMach</a> scored 23670 in <a href="/games/wolfnswine_hungry_like_the_wolves" title="WolfNSwine: Hungry Like The Wolves">WolfNSwine: Hungry Like The Wolves</a> (<strong>+63 pts</strong>)
-										</span>
-                                        		
-                                </div>
-
-                                <div class="row_paddingtop_5">
-
-                                        <div class="inset_floatleft_marginright_5">
-                                        
-                                                <img src="/images/icons/events/score_submitted_free_16.gif" width="16" height="16" title="Score Submitted" border="0">
-                                        
-                                        </div>
-										
-										<span class="copy_small">
-                                        
-										<a href="/profile/Paparobo" title="Paparobo : Level 22 : Points 20614 ">Paparobo</a> scored 25060 in <a href="/games/whiz_words" title="Whiz Words">Whiz Words</a> (<strong>+63 pts</strong>)
-										</span>
-                                        		
-                                </div>
-
-                                <div class="row_paddingtop_5">
-
-                                        <div class="inset_floatleft_marginright_5">
-                                        
-                                                <img src="/images/icons/events/score_submitted_download_16.gif" width="16" height="16" title="Download Score Submitted" border="0">
-                                        
-                                        </div>
-										
-										<span class="copy_small">
-                                        
-										<a href="/profile/barbmessg" title="barbmessg : Level 39 : Points 883886 ">barbmessg</a> scored 7700 in <a href="/games/double_bubble" title="Double Bubble">Double Bubble</a> (<strong>+20 pts</strong>)
-										</span>
-                                        		
-                                </div>
-
-                                <div class="row_paddingtop_5">
-
-                                        <div class="inset_floatleft_marginright_5">
-                                        
-                                                <img src="/images/icons/events/score_submitted_download_16.gif" width="16" height="16" title="Download Score Submitted" border="0">
-                                        
-                                        </div>
-										
-										<span class="copy_small">
-                                        
-										<a href="/profile/Corby1" title="Corby1 : Level 22 : Points 20045 ">Corby1</a> scored 1917 in <a href="/games/swords_and_sandals_crusader" title="Swords and Sandals: Crusader">Swords and Sandals: Crusader</a> (<strong>+20 pts</strong>)
-										</span>
-                                        		
-                                </div>
-
-                                <div class="row_paddingtop_5">
-
-                                        <div class="inset_floatleft_marginright_5">
-                                        
-                                                <img src="/images/icons/events/score_submitted_download_16.gif" width="16" height="16" title="Download Score Submitted" border="0">
-                                        
-                                        </div>
-										
-										<span class="copy_small">
-                                        
-										<a href="/profile/barbmessg" title="barbmessg : Level 39 : Points 883886 ">barbmessg</a> scored 8020 in <a href="/games/double_bubble" title="Double Bubble">Double Bubble</a> (<strong>+20 pts</strong>)
-										</span>
-                                        		
-                                </div>
-
-                                <div class="row_paddingtop_5">
-
-                                        <div class="inset_floatleft_marginright_5">
-                                        
-                                                <img src="/images/icons/events/profile_16.gif" width="16" height="16" title="Profile" border="0">
-                                        
-                                        </div>
-										
-										<span class="copy_small">
-                                        
-										<a href="/profile/eboi" title="eboi : Level 1 : Points 15 ">eboi</a> joined Club Soda (<strong>+15 pts</strong>)
-										</span>
-                                        		
-                                </div>
-
-                                <div class="row_paddingtop_5">
-
-                                        <div class="inset_floatleft_marginright_5">
-                                        
-                                                <img src="/images/icons/events/score_submitted_download_16.gif" width="16" height="16" title="Download Score Submitted" border="0">
-                                        
-                                        </div>
-										
-										<span class="copy_small">
-                                        
-										<a href="/profile/barbmessg" title="barbmessg : Level 39 : Points 883886 ">barbmessg</a> scored 67417 in <a href="/games/holo_holo_island" title="Holo Holo Island">Holo Holo Island</a> (<strong>+20 pts</strong>)
-										</span>
-                                        		
-                                </div>
-
-                                <div class="row_paddingtop_5">
-
-                                        <div class="inset_floatleft_marginright_5">
-                                        
-                                                <img src="/images/icons/events/score_submitted_download_16.gif" width="16" height="16" title="Download Score Submitted" border="0">
-                                        
-                                        </div>
-										
-										<span class="copy_small">
-                                        
-										<a href="/profile/barbmessg" title="barbmessg : Level 39 : Points 883886 ">barbmessg</a> scored 83620 in <a href="/games/holo_holo_island" title="Holo Holo Island">Holo Holo Island</a> (<strong>+20 pts</strong>)
-										</span>
-                                        		
-                                </div>
-
-                                <div class="row_paddingtop_5">
-
-                                        <div class="inset_floatleft_marginright_5">
-                                        
-                                                <img src="/images/icons/events/profile_16.gif" width="16" height="16" title="Profile" border="0">
-                                        
-                                        </div>
-										
-										<span class="copy_small">
-                                        
-										<a href="/profile/akira_yuki13" title="akira_yuki13 : Level 1 : Points 15 ">akira_yuki13</a> joined Club Soda (<strong>+15 pts</strong>)
-										</span>
-                                        		
-                                </div>
-
-                                <div class="row_paddingtop_5">
-
-                                        <div class="inset_floatleft_marginright_5">
-                                        
-                                                <img src="/images/icons/events/profile_16.gif" width="16" height="16" title="Profile" border="0">
-                                        
-                                        </div>
-										
-										<span class="copy_small">
-                                        
-										<a href="/profile/nirmaster1" title="nirmaster1 : Level 1 : Points 15 ">nirmaster1</a> joined Club Soda (<strong>+15 pts</strong>)
-										</span>
-                                        		
-                                </div>
-
-                                <div class="row_paddingtop_5">
-
-                                        <div class="inset_floatleft_marginright_5">
-                                        
-                                                <img src="/images/icons/events/score_submitted_download_16.gif" width="16" height="16" title="Download Score Submitted" border="0">
-                                        
-                                        </div>
-										
-										<span class="copy_small">
-                                        
-										<a href="/profile/barbmessg" title="barbmessg : Level 39 : Points 883886 ">barbmessg</a> scored 76416 in <a href="/games/holo_holo_island" title="Holo Holo Island">Holo Holo Island</a> (<strong>+20 pts</strong>)
-										</span>
-                                        		
-                                </div>
-
-                                <div class="row_paddingtop_5">
-
-                                        <div class="inset_floatleft_marginright_5">
-                                        
-                                                <img src="/images/icons/events/score_submitted_download_16.gif" width="16" height="16" title="Download Score Submitted" border="0">
-                                        
-                                        </div>
-										
-										<span class="copy_small">
-                                        
-										<a href="/profile/barbmessg" title="barbmessg : Level 39 : Points 883886 ">barbmessg</a> scored 6680 in <a href="/games/double_bubble" title="Double Bubble">Double Bubble</a> (<strong>+20 pts</strong>)
-										</span>
-                                        		
-                                </div>
-
-                                <div class="row_paddingtop_5">
-
-                                        <div class="inset_floatleft_marginright_5">
-                                        
-                                                <img src="/images/icons/events/profile_16.gif" width="16" height="16" title="Profile" border="0">
-                                        
-                                        </div>
-										
-										<span class="copy_small">
-                                        
-										<a href="/profile/_eikka_" title="_eikka_ : Level 1 : Points 15 ">_eikka_</a> joined Club Soda (<strong>+15 pts</strong>)
-										</span>
-                                        		
-                                </div>
-
-                                <div class="row_paddingtop_5">
-
-                                        <div class="inset_floatleft_marginright_5">
-                                        
-                                                <img src="/images/icons/events/profile_16.gif" width="16" height="16" title="Profile" border="0">
-                                        
-                                        </div>
-										
-										<span class="copy_small">
-                                        
-										<a href="/profile/dajuanenonli" title="dajuanenonli : Level 1 : Points 15 ">dajuanenonli</a> joined Club Soda (<strong>+15 pts</strong>)
-										</span>
-                                        		
-                                </div>
-
-                                <div class="row_paddingtop_5">
-
-                                        <div class="inset_floatleft_marginright_5">
-                                        
-                                                <img src="/images/icons/events/score_submitted_free_16.gif" width="16" height="16" title="Score Submitted" border="0">
-                                        
-                                        </div>
-										
-										<span class="copy_small">
-                                        
-										<a href="/profile/Librebrisa" title="Librebrisa : Level 21 : Points 16032 ">Librebrisa</a> scored 58060 in <a href="/games/crumble_blocks" title="Crumble Blocks">Crumble Blocks</a> (<strong>+3 pts</strong>)
-										</span>
-                                        		
-                                </div>
-
-                                <div class="row_paddingtop_5">
-
-                                        <div class="inset_floatleft_marginright_5">
-                                        
-                                                <img src="/images/icons/events/score_submitted_free_16.gif" width="16" height="16" title="Score Submitted" border="0">
-                                        
-                                        </div>
-										
-										<span class="copy_small">
-                                        
-										<a href="/profile/mickilyn" title="mickilyn : Level 16 : Points 4941 ">mickilyn</a> scored 6890 in <a href="/games/fairy_fishing" title="Fairy Fishing">Fairy Fishing</a> (<strong>+3 pts</strong>)
-										</span>
-                                        		
-                                </div>
-
-                                <div class="row_paddingtop_5">
-
-                                        <div class="inset_floatleft_marginright_5">
-                                        
-                                                <img src="/images/icons/events/profile_16.gif" width="16" height="16" title="Profile" border="0">
-                                        
-                                        </div>
-										
-										<span class="copy_small">
-                                        
-										<a href="/profile/BiggZ95" title="BiggZ95 : Level 2 : Points 25 ">BiggZ95</a> updated their avatar (<strong>+10 pts</strong>)
-										</span>
-                                        		
-                                </div>
-
-                                <div class="row_paddingtop_5">
-
-                                        <div class="inset_floatleft_marginright_5">
-                                        
-                                                <img src="/images/icons/events/score_submitted_free_16.gif" width="16" height="16" title="Score Submitted" border="0">
-                                        
-                                        </div>
-										
-										<span class="copy_small">
-                                        
-										<a href="/profile/barbmessg" title="barbmessg : Level 39 : Points 883886 ">barbmessg</a> scored 15 in <a href="/games/st_nick_the_quick" title="St Nick the Quick">St Nick the Quick</a> (<strong>+3 pts</strong>)
-										</span>
-                                        		
-                                </div>
-
-                                <div class="row_paddingtop_5">
-
-                                        <div class="inset_floatleft_marginright_5">
-                                        
-                                                <img src="/images/icons/events/score_submitted_free_16.gif" width="16" height="16" title="Score Submitted" border="0">
-                                        
-                                        </div>
-										
-										<span class="copy_small">
-                                        
-										<a href="/profile/barbmessg" title="barbmessg : Level 39 : Points 883886 ">barbmessg</a> scored 40 in <a href="/games/st_nick_the_quick" title="St Nick the Quick">St Nick the Quick</a> (<strong>+3 pts</strong>)
-										</span>
-                                        		
-                                </div>
-
-                                <div class="row_paddingtop_5">
-
-                                        <div class="inset_floatleft_marginright_5">
-                                        
-                                                <img src="/images/icons/events/score_submitted_free_16.gif" width="16" height="16" title="Score Submitted" border="0">
-                                        
-                                        </div>
-										
-										<span class="copy_small">
-                                        
-										<a href="/profile/donrichard" title="donrichard : Level 14 : Points 2512 ">donrichard</a> scored 96737 in <a href="/games/lightning_pool" title="Lightning Pool">Lightning Pool</a> (<strong>+3 pts</strong>)
-										</span>
-                                        		
-                                </div>
-
-
+		<div class="row_paddingbottom_10">
+		
+				
+				<div class="row_paddingtop_5">
+		
+						<div class="float_left" style="width:26px;"><img src="/images/icons/events/download_score_submitted_16.gif" width="16" height="16" title="Download Score Submitted" border="0"></div>
+						
+						<div class="float_left"><a href="/profile/barbmessg" title="barbmessg : Level 54 : Points 33136717 ">barbmessg</a> scored 2806600 in <a href="/games/sheepish" title="Sheepish">Sheepish</a> <span class="copy_light_grey">(+2020 pts)</span></div>
+						
 				</div>
 				
-				<div class="row_border_top">
 				
-						<div class="row_paddingtop_5">
-				
-								<div class="float_right"><span class="copy_small_caps"><a href="/news" title="Fizzy News">Fizzy News</a> | <a href="/news/rss" title="FizzyMail RSS Feed" target="_blank">RSS Feed</a> | <a href="/news/signup" title="Get FizzyMail">GET FIZZYMAIL</a></span></div>
+				<div class="row_paddingtop_5">
+		
+						<div class="float_left" style="width:26px;"><img src="/images/icons/events/score_submitted_16.gif" width="16" height="16" title="Score Submitted" border="0"></div>
 						
-						</div>
+						<div class="float_left"><a href="/profile/Freiheit" title="Freiheit : Level 45 : Points 4390949 ">Freiheit</a> scored 1000 in <a href="/games/tikidoku" title="TikiDoku">TikiDoku</a> <span class="copy_light_grey">(+2003 pts)</span></div>
+						
+				</div>
+				
+				
+				<div class="row_paddingtop_5">
+		
+						<div class="float_left" style="width:26px;"><img src="/images/icons/events/score_submitted_16.gif" width="16" height="16" title="Score Submitted" border="0"></div>
+						
+						<div class="float_left"><a href="/profile/Freiheit" title="Freiheit : Level 45 : Points 4390949 ">Freiheit</a> scored 1000 in <a href="/games/tikidoku" title="TikiDoku">TikiDoku</a> <span class="copy_light_grey">(+2003 pts)</span></div>
+						
+				</div>
+				
+				
+				<div class="row_paddingtop_5">
+		
+						<div class="float_left" style="width:26px;"><img src="/images/icons/events/playing_16.gif" width="16" height="16" title="Playing" border="0"></div>
+						
+						<div class="float_left"><a href="/profile/Norway1231" title="Norway1231 : Level 2 : Points 25 ">Norway1231</a> is playing <a href="/games/grossout_battle">Gross Out</a> <span class="copy_light_grey">(+0 pts)</span></div>
+						
+				</div>
+				
+				
+				<div class="row_paddingtop_5">
+		
+						<div class="float_left" style="width:26px;"><img src="/images/icons/events/playing_16.gif" width="16" height="16" title="Playing" border="0"></div>
+						
+						<div class="float_left"><a href="/profile/magemagemage" title="magemagemage : Level 5 : Points 75 ">magemagemage</a> is playing <a href="/games/connect_2">Connect 2</a> <span class="copy_light_grey">(+0 pts)</span></div>
+						
+				</div>
+				
+				
+				<div class="row_paddingtop_5">
+		
+						<div class="float_left" style="width:26px;"><img src="/images/icons/events/playing_16.gif" width="16" height="16" title="Playing" border="0"></div>
+						
+						<div class="float_left"><a href="/profile/mrblack22" title="mrblack22 : Level 10 : Points 573 ">mrblack22</a> is playing <a href="/games/lightning_break">Lightning Break</a> <span class="copy_light_grey">(+0 pts)</span></div>
+						
+				</div>
+				
+				
+				<div class="row_paddingtop_5">
+		
+						<div class="float_left" style="width:26px;"><img src="/images/icons/events/playing_16.gif" width="16" height="16" title="Playing" border="0"></div>
+						
+						<div class="float_left"><a href="/profile/heidihunny" title="heidihunny : Level 7 : Points 153 ">heidihunny</a> is playing <a href="/games/battle_pool">Battle Pool</a> <span class="copy_light_grey">(+0 pts)</span></div>
+						
+				</div>
+				
+				
+				<div class="row_paddingtop_5">
+		
+						<div class="float_left" style="width:26px;"><img src="/images/icons/events/playing_16.gif" width="16" height="16" title="Playing" border="0"></div>
+						
+						<div class="float_left"><a href="/profile/L33tGamer08" title="L33tGamer08 : Level 2 : Points 25 ">L33tGamer08</a> is playing <a href="/games/pirate_cove">Pirate Cove</a> <span class="copy_light_grey">(+0 pts)</span></div>
+						
+				</div>
+				
+				
+				<div class="row_paddingtop_5">
+		
+						<div class="float_left" style="width:26px;"><img src="/images/icons/events/playing_16.gif" width="16" height="16" title="Playing" border="0"></div>
+						
+						<div class="float_left"><a href="/profile/magemagemage" title="magemagemage : Level 5 : Points 75 ">magemagemage</a> is playing <a href="/games/air_balloon_rally">Air Balloon Rally</a> <span class="copy_light_grey">(+0 pts)</span></div>
+						
+				</div>
+				
+				
+				<div class="row_paddingtop_5">
+		
+						<div class="float_left" style="width:26px;"><img src="/images/icons/events/playing_16.gif" width="16" height="16" title="Playing" border="0"></div>
+						
+						<div class="float_left"><a href="/profile/PatrikVagner" title="PatrikVagner : Level 2 : Points 25 ">PatrikVagner</a> is playing <a href="/games/swords_sandals_3_multiplae_ultratus">Swords and Sandals 3: Multiplae Ultratus</a> <span class="copy_light_grey">(+0 pts)</span></div>
+						
+				</div>
+				
+				
+				<div class="row_paddingtop_5">
+		
+						<div class="float_left" style="width:26px;"><img src="/images/icons/events/playing_16.gif" width="16" height="16" title="Playing" border="0"></div>
+						
+						<div class="float_left"><a href="/profile/WarWolfen" title="WarWolfen : Level 2 : Points 25 ">WarWolfen</a> is playing <a href="/games/swords_sandals_3_multiplae_ultratus">Swords and Sandals 3: Multiplae Ultratus</a> <span class="copy_light_grey">(+0 pts)</span></div>
+						
+				</div>
+				
+				
+				<div class="row_paddingtop_5">
+		
+						<div class="float_left" style="width:26px;"><img src="/images/icons/events/playing_16.gif" width="16" height="16" title="Playing" border="0"></div>
+						
+						<div class="float_left"><a href="/profile/L33tGamer08" title="L33tGamer08 : Level 2 : Points 25 ">L33tGamer08</a> is playing <a href="/games/pirate_cove">Pirate Cove</a> <span class="copy_light_grey">(+0 pts)</span></div>
+						
+				</div>
+				
+				
+				<div class="row_paddingtop_5">
+		
+						<div class="float_left" style="width:26px;"><img src="/images/icons/events/playing_16.gif" width="16" height="16" title="Playing" border="0"></div>
+						
+						<div class="float_left"><a href="/profile/edukettu" title="edukettu : Level 2 : Points 25 ">edukettu</a> is playing <a href="/games/battle_pool">Battle Pool</a> <span class="copy_light_grey">(+0 pts)</span></div>
+						
+				</div>
+				
+				
+				<div class="row_paddingtop_5">
+		
+						<div class="float_left" style="width:26px;"><img src="/images/icons/events/playing_16.gif" width="16" height="16" title="Playing" border="0"></div>
+						
+						<div class="float_left"><a href="/profile/treeter" title="treeter : Level 5 : Points 74 ">treeter</a> is playing <a href="/games/swords_and_sandals2">Swords and Sandals 2: Emperor's Reign</a> <span class="copy_light_grey">(+0 pts)</span></div>
+						
+				</div>
+				
+				
+				<div class="row_paddingtop_5">
+		
+						<div class="float_left" style="width:26px;"><img src="/images/icons/events/playing_16.gif" width="16" height="16" title="Playing" border="0"></div>
+						
+						<div class="float_left"><a href="/profile/oblitrator" title="oblitrator : Level 7 : Points 147 ">oblitrator</a> is playing <a href="/games/swords_and_sandals_crusader">Swords and Sandals: Crusader</a> <span class="copy_light_grey">(+0 pts)</span></div>
+						
+				</div>
+				
+				
+				<div class="row_paddingtop_5">
+		
+						<div class="float_left" style="width:26px;"><img src="/images/icons/events/playing_16.gif" width="16" height="16" title="Playing" border="0"></div>
+						
+						<div class="float_left"><a href="/profile/Nonni09" title="Nonni09 : Level 28 : Points 72060 ">Nonni09</a> is playing <a href="/games/the_scarlet_carnival">The Scarlet Carnival</a> <span class="copy_light_grey">(+0 pts)</span></div>
+						
+				</div>
+				
+				
+				<div class="row_paddingtop_5">
+		
+						<div class="float_left" style="width:26px;"><img src="/images/icons/events/playing_16.gif" width="16" height="16" title="Playing" border="0"></div>
+						
+						<div class="float_left"><a href="/profile/WarWolfen" title="WarWolfen : Level 2 : Points 25 ">WarWolfen</a> is playing <a href="/games/swords_sandals_3_multiplae_ultratus">Swords and Sandals 3: Multiplae Ultratus</a> <span class="copy_light_grey">(+0 pts)</span></div>
+						
+				</div>
+				
+				
+				<div class="row_paddingtop_5">
+		
+						<div class="float_left" style="width:26px;"><img src="/images/icons/events/playing_16.gif" width="16" height="16" title="Playing" border="0"></div>
+						
+						<div class="float_left"><a href="/profile/treeter" title="treeter : Level 5 : Points 74 ">treeter</a> is playing <a href="/games/swords_and_sandals1">Swords and Sandals 1: Gladiator</a> <span class="copy_light_grey">(+0 pts)</span></div>
+						
+				</div>
+				
+				
+				<div class="row_paddingtop_5">
+		
+						<div class="float_left" style="width:26px;"><img src="/images/icons/events/playing_16.gif" width="16" height="16" title="Playing" border="0"></div>
+						
+						<div class="float_left"><a href="/profile/PatrikVagner" title="PatrikVagner : Level 2 : Points 25 ">PatrikVagner</a> is playing <a href="/games/swords_sandals_3_multiplae_ultratus">Swords and Sandals 3: Multiplae Ultratus</a> <span class="copy_light_grey">(+0 pts)</span></div>
+						
+				</div>
+				
+				
+				<div class="row_paddingtop_5">
+		
+						<div class="float_left" style="width:26px;"><img src="/images/icons/events/playing_16.gif" width="16" height="16" title="Playing" border="0"></div>
+						
+						<div class="float_left"><a href="/profile/clube" title="clube : Level 13 : Points 2012 ">clube</a> is playing <a href="/games/kami">Kami</a> <span class="copy_light_grey">(+0 pts)</span></div>
+						
+				</div>
+				
+				
+				
+		</div>
+		
+		<div class="row_border_top">
+		
+				<div class="row_paddingtop_5" style="width:278px; text-align:right;">
+		
+						<span class="copy_small_caps"><a href="/club_soda" title="Club Soda">Club Soda</a> <span class="copy_light_grey">|</span> <a href="/club_soda/top_members" title="Top Members">Top Members</a></span>
 				
 				</div>
 		
 		</div>
-	
-</div>
-</div>
+
+</div></div>
 				
 				</div>
 		
 		</div>
 		<!--  Row Ends  -->
 
-				</div>
-				<!-- Content Wrapper Ends, Starts in Header -->
-
-		<!-- Footer Wrapper Starts -->
-		<div id="footer_wrapper">
-		
-				<div class="footer_nav">
+		<div class="footer">
 				
-						<div class="float_left" style="margin:7px 0 0 10px;" id="add_this_div">
-			<!-- AddThis Bookmark Button BEGIN -->
-			<script type="text/javascript">
-			  addthis_url    = location.href;   
-			  addthis_title  = document.title;  
-			  addthis_pub    = 'jevsta';     
-			</script><script type="text/javascript" src="http://s7.addthis.com/js/addthis_widget.php?v=12"></script>
-			<!-- AddThis Bookmark Button END -->
+				<div class="float_left">
+				
+						<a href="/about" title="About Fizzy" class="link_white">About Fizzy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a href="/affiliates" title="Fizzy Affiliates" class="link_white">Affiliates</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a href="/contact" title="Contact Us" class="link_white">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a href="/developers" title="Developers" class="link_white">Developers</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a href="/support" title="Support" class="link_white">Support</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a href="/terms" title="Terms &amp; Conditions" class="link_white">Terms &amp; Conditions</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                        <img src="/images/flags/.png" alt="USD">
+						
+				</div>
+				
+				<div class="float_right">
+				
+						Copyright © 2008 <a href="http://www.3rdsense.com" title="Visit www.3RDsense.com" class="link_white" target="_blank">3RDsense</a> Pty Ltd
+						
+				</div>
+				
 		</div>
-				
-						<div class="footer_link"><a href="/refund" title="Refund Policy">Refund Policy</a></div>
-						<div class="footer_link"><a href="/privacy" title="Privacy Policy">Privacy Policy</a></div>
-						<div class="footer_link"><a href="/terms" title="Terms of Use">Terms of Use</a></div>
-						<div class="footer_link"><a href="/support" title="Support">Support</a></div>
-						<div class="footer_link"><a href="/developers" title="Developers">Developers</a></div>
-						<div class="footer_link"><a href="/contact" title="Contact Us">Contact Us</a></div>
-						<div class="footer_link"><a href="/affiliates" title="Fizzy Affiliates">Affiliates</a></div>
-						<div class="footer_link"><a href="/about" title="About Fizzy">About Fizzy</a></div>
-						
-				</div>
-				
-				<div class="footer_copyright">
-						
-						<span class="copy_small">Copyright © 2008 <a href="http://www.3rdsense.com" title="Visit www.3RDsense.com" target="_blank">3RDsense</a> Pty Ltd</span>
-						
-				</div>
-
-		</div>
-		<!--  Footer Wrapper Ends  -->
 		
+		<div style="position:relative; float:left; width:100%; height:1px; overflow:hidden;">
+
+		<div style="position:relative; float:left;"><img src="/images/space.gif" alt="Display Image" width="1" height="1"></div>
+		
+		<div style="position:relative; float:right;"><img src="/images/space.gif" alt="Display Image" width="1" height="1"></div>
+
+</div>		
 </div>
 <!-- Wrapper Ends, Starts in Header -->
 
 <!-- Page JS -->
 
-		<script type="text/javascript" src="/js/yahoo/yahoo/yahoo-min.js,yahoo/dom/dom-min.js,yahoo/yahoo-dom-event/yahoo-dom-event.js,yahoo/animation/animation-min.js,yahoo/container/container-min.js,yahoo/event/event-min.js,yahoo/connection/connection-min.js,add_to_cart.js,send_voucher.js,common.js,sifr.js,sifr-config.js,swfobject.js,flavas.js,general.js" language="javascript"></script>
-
-
 <!--  If Logged In SWF Object for Level Up Graphic in Member Panel  -->
 
 <!-- BEGIN PAGE FOOTER JS -->
-
 
 <!-- END PAGE FOOTER JS -->
 
@@ -866,26 +966,6 @@ _m1PosY=20;
 
 	<!-- END AFFILIATE CODE -->
 
-<!-- Google Analytics Code Start -->
-<script type="text/javascript">
-
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-
-var pageTracker = _gat._getTracker("UA-647003-5");
-
-pageTracker._initData();
-
-pageTracker._trackPageview();
-
-</script>
-<!-- End Google Analytics Code End -->
-
 <!-- If NOT SECURE POPUNDERS -->
 
 		<div id="temp_add_this_div" style="display: none;"></div>
@@ -898,34 +978,6 @@ pageTracker._trackPageview();
 		temp_div.innerHTML = '';
 		temp_div.style.display = 'none';
 		</script>
-
-		<!-- BEGIN: Platform9 M1ACV Release 2.1.1 -->
-		<!-- (c)2002-2007, MediaOne Network Inc. All Rights Reserved. -->
-		<div id="M1DIV" name="M1DIV"></div>
-		<img id="M1IMG" name="M1IMG" width="0" height="0" border="0" src="http://acvs.mediaonenetwork.net/client/pixel.gif">
-		<script language="javascript" type="text/javascript" src="http://acvs.mediaonenetwork.net/client/acv211.js">
-		</script>
-		<noscript>
-		<img border="0" src="http://acvs.mediaonenetwork.net/client/njs.aspx" width="0" height="0" alt="">
-		</noscript>
-		<!-- END: Platform9 M1ACV -->
-
-		<!--  Popunder Ad Starts  -->
-		<script type="text/javascript"><!--//<![CDATA[
-		var m3_u = (location.protocol=='https:'?'https://delivery.3rdads.com/delivery/ajs.php':'http://delivery.3rdads.com/delivery/ajs.php');
-		var m3_r = Math.floor(Math.random()*99999999999);
-		if (!document.MAX_used) document.MAX_used = ',';
-		document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-		document.write ("?zoneid=9");
-		document.write ('&amp;cb=' + m3_r);
-		if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-		document.write ("&amp;loc=" + escape(window.location));
-		if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-		if (document.context) document.write ("&context=" + escape(document.context));
-		if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-		document.write ("'><\/scr"+"ipt>");
-		//]]>--></script><script type="text/javascript" src="https://delivery.3rdads.com/delivery/ajs.php?zoneid=9&amp;cb=75423263158&amp;loc=https%3A//web.archive.org/web/20080514210128id_/http%253A//www.fizzy.com/privacy"></script><noscript><a href='http://delivery.3rdads.com/delivery/ck.php?n=a02385ec&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://delivery.3rdads.com/delivery/avw.php?zoneid=9&amp;n=a02385ec' border='0' alt='' /></a></noscript>
-		<!--  Popunder Ad Ends  -->
 
 		<!-- Start Quantcast tag -->
 		<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
@@ -955,6 +1007,7 @@ pageTracker._trackPageview();
 
 </script>
 <!-- End Google Analytics -->
+
 
 
 </body></html>
