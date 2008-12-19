@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the bluetoad.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612040418id_/http%3A//bluetoad.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetoad.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219145435id_/http%3A//www.bluetoad.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# BlueToad
 
-  
-
-
-### BlueToad Privacy Policy
-
-It is important to BlueToad that our customers understand what information we gather about them, how we use it, and how we work to protect it. By using the BlueToad products and services \- the BlueToad service, the BlueToad website - you consent to information practices outlined in BlueToad Terms of Use Agreement.
+It is important to BlueToad that our customers understand what information we gather about them, how we use it, and how we work to protect it. By using the BlueToad products and services - the BlueToad service, the BlueToad website - you consent to information practices outlined in BlueToad Terms of Use Agreement.
 
 **Information Collection**
 
@@ -19,7 +14,7 @@ Personally Identifiable Information is information that can be used to contact y
 \- When you submit a request for more information or assistance, BlueToad will keep a record of the request and the manner in which it was processed.  
 \- We may also automatically receive and record information in our server logs from your browser, including your IP address, your computer's name, the type and version of your web browser, referrer addresses, and other generally-accepted log information. We may also record page views (hit counts) and other general statistical and tracking information.
 
-**Limits on Information Collection**
+Limits on Information Collection
 
 We must have your Personally Identifiable Information in order for us to adequately provide you with the BlueToad service.
 
@@ -33,7 +28,7 @@ BlueToad may set and access our own cookies on your computer. BlueToad may use c
 
 BlueToad may also allow other companies that are presenting content on our site to set and access their own cookies on your computer. Other companies' use of cookies is subject to their own respective privacy policies. We do not have access to any information stored by third party advertisers about you.
 
-We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here.](http://www.networkadvertising.org/consumer/opt_out.asp.)
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click here.
 
 **Disclosure of Personally Identifiable Information**
 
@@ -56,7 +51,7 @@ Anonymous Information is any information other than Personally Identifiable Info
 
 **Changing or Removing Information**
 
-You have control over your Personally Identifiable Information and can change your Registration or Subscription Information, by clicking [www.BlueToad.com.](http://www.bluetoad.com/)
+You have control over your Personally Identifiable Information and can change your Registration or Subscription Information, by clicking www.BlueToad.com.
 
 If you wish to delete your Registration or Subscription Information you can e-mail deletesubscriptions@BlueToad.com. Your information will then be deleted assuming (i) you are current with all payment obligations; (ii) BlueToad does not believe it is reasonably necessary to keep such information for any pending legal action; and (iii) we are under no other legal obligation to retain such information. If your information is deleted, however, any unfulfilled subscriptions will be canceled without refund and you will have to re-register with BlueToad in order to use the BlueToad service.
 
@@ -80,4 +75,4 @@ BlueToad may change its privacy policy from time to time. If we make any changes
 
 **Questions**
 
-If you have any questions regarding our Privacy Policy or our use of your information, please email: [info@BlueToad.com.](mailto:info@BlueToad.com)
+If you have any questions regarding our Privacy Policy or our use of your information, please email: [support@BlueToad.com](mailto:%20support@bluetoad.com).
