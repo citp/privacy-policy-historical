@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the theonlineticketshop.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602002452id_/http%3A//www.theonlineticketshop.com/static/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theonlineticketshop.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219082504id_/http%3A//www.theonlineticketshop.com/static/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# The Online Ticket Shop : Buy Tickets Beyonce Tickets Genesis Tickets Scissor Sisters Tickets
+# The Online Ticket Shop: Privacy Policy.
+
+**Welcome to the Privacy Policy for TheOnlineTicketShop.com ("Privacy Policy").** The services available at [http://www.TheOnlineTicketshop.com](http://www.theonlineticketshop.com/) are provided by **TheOnlineTicketExchange.COM LIMITED** ("TheOnlineTicketExchange", "we", "us" or "our"), company number 6492553 whose registered office is at 85-87 Borough High Street, London, SE1 1NH United Kingdom. 
 
 Your privacy is very important to us. Please read this Privacy Policy to learn about the ways in which we use and protect your personal information. If you have additional questions about TheOnlineTIcketShop.com's general privacy principles, please either read the pages at our Privacy Central section available or contact [ inforeq@theonlineticketshop.com](mailto:inforeq@theonlineticketshop.com). 
 
@@ -52,8 +54,6 @@ TheOnlineTicketShop.com MAY USE YOUR INFORMATION FOR ANY LEGALLY PERMISSIBLE PUR
 We may enhance or merge your personally identifiable information with data collected from other sources to use in direct or online marketing, including the data services described on the Site. All information provided to us may be used to support our marketing and data services businesses. These services include the provision of and use of personally identifiable data to marketing companies, advertising agencies, data compilers, data companies, and, to the extent permitted by law, individual reference and look-up service programs. 
 
 We send e-mail to individuals who have agreed on the Site to receive e-mail from us or to individuals who have agreed on third party websites to receive e-mail from third parties such as us. As a result, laws requiring particular information or certain formatting for unsolicited commercial e-mail are not applicable to our messages.
-
-NOTWITHSTANDING ANY OTHER PROVISION OF THIS POLICY, WE MAY SELL OR TRANSFER YOUR INDIVIDUAL INFORMATION TO THIRD PARTIES FOR ANY PURPOSE IN OUR SOLE DISCRETION. 
 
 TheOnlineTicketShop.com cooperates with law enforcement inquiries, as well as other third parties, to enforce laws and third party rights, such as intellectual property rights and laws relating to fraud. Therefore, in response to a verified request by law enforcement or other government officials such as a Section 29 (3) Data Protection Act 1998 form relating to a criminal investigation or alleged illegal activity, or other activity that may expose us or you to legal liability, we can (and you authorise us to) disclose personal information such as name, address, telephone number, email address, User ID history and listing history about you as we, in our sole discretion, believe necessary or appropriate. 
 
