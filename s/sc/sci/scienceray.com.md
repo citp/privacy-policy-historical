@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scienceray.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501171227id_/http%3A//www.scienceray.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scienceray.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219122419id_/http%3A//www.scienceray.com/privacy) for the most accurate reproduction.*
 
 # Scienceray :: Privacy
 
