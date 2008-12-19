@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silobreaker.com privacy policy that was archived on 2008-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080417172930id_/http%3A//www.silobreaker.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silobreaker.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219213400id_/http%3A//www.silobreaker.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Silobreaker: Privacy Policy
 
