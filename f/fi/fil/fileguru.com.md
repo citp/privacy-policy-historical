@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fileguru.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526171257id_/http%3A//www.fileguru.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileguru.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219204639id_/http%3A//www.fileguru.com/privacy) for the most accurate reproduction.*
 
-# FileGuru.Com Your One Stop Shop For Great Software Downloads
+# FileGuru.Com Privacy Policy Information
 
 ## Privacy Policy for FileGuru.com
 
