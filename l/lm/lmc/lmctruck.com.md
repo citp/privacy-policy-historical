@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lmctruck.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512153323id_/http%3A//www.lmctruck.com/sol_lmc_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lmctruck.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219131230id_/http%3A//www.lmctruck.com/sol_lmc_privacy.htm) for the most accurate reproduction.*
 
-# LMC Truck Parts: Chevy Chevrolet Blazer S10 GMC Jimmy S15 Ford Bronco Ranger Pickup Pick Up Accessories/Catalogs
+# Privacy and Safe Technology Statement from LMCTruck.com
 
 LMC Truck Privacy Statement
 
