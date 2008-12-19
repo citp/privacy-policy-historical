@@ -1,36 +1,42 @@
-> *The following text is extracted and transformed from the spotcrime.com privacy policy that was archived on 2008-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080524064742id_/http%3A//spotcrime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotcrime.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219182817id_/http%3A//spotcrime.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-ReportSee Inc. has created this privacy policy page to demonstrate our firm commitment to your privacy and the protection of your information. 
+ReportSee, Inc./Spotcrime.com ("We" or "Us"), created this Privacy Policy to demonstrate our firm commitment to Your online privacy. This Privacy Policy discloses our information gathering and disseminating practices for our website, www.spotcrime.com (the "Website").
 
-##  Why did you receive an email from us? 
+## Notice
 
-You received an e-mail from us for one of two reasons: (a) your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future ("opt-in"), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings. 
+Your use of this Website constitutes acceptance of this Privacy Policy and Our Website Terms of Use. We may change the Privacy Policy, Acceptable Use Policy and/or Our Website Terms of Use at any time by posting revisions to Our Website. Your continued usage after such changes are posted constitutes acceptance of each revised Privacy Policy and/or Terms of Use. We encourage You to familiarize yourself with both policies. Our Website Terms of Use may found under a link at the main website location. If You do not agree to the terms and conditions of this Privacy Policy, Our Terms of Use or any revised policy, please exit this Website immediately.
 
-## How we protect your privacy
+## Privacy Statement
 
-We use security measures to protect against the loss, misuse, and alteration of data used by our system. 
+We believe in protecting the privacy and confidentiality of personally identifiable information that refers or relates to our Website users ("You"). We explain what information We collect about You, how We use the information We collect, how We protect the security and confidentiality of such information, and what You should do if You have any questions or comments. Our commitment to You is clear: We do not sell, license or rent any personally identifiable information about You to any third party without Your express consent and will take reasonable measures to protect the confidentiality of personally identifiable information You provide to Us.
 
-## Sharing and Usage 
+## What Information is Collected?
 
-We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information and to contracted service providers for purposes of providing services relating to our communications with you. 
+Our Website may collect information in the form of cookies. A cookie is a small data file that is stored on Your hard drive when You visit the Website. A cookie file can contain information such as a user ID that identifies Your computer to the Website. Cookies can only identify You as a unique, but anonymous, user of the Website unless You choose to submit personally identifiable information through the Website. We may use cookies as a mechanism for creating a user "session," identifying a unique user as he or she moves among pages of the Website. This could include the storage of computer identifying information such as Your computer's internet protocol address or media access control address of Your computer. Combined with Website usage logging, We may track user Website use patterns, such as whether You click on various links throughout the Website. We use the cookie information to identify Your computer in Our database and to track the pages You visit on the Website. However, a cookie can't read data off Your hard disk. Further, We cannot read cookies created by other websites, nor can other websites read cookies created by Us. WE DO NOT store any personally identifiable information in a cookie, such as Your name or contact information.
 
-## How can you stop receiving email from us?
+At our Website, We don't collect personally identifiable information about You unless You voluntarily provide it to Us. If You choose to post feedback on the Website or reach Us by email, You may be asked to provide such information as Your name, address, email address, telephone and fax number, business name, business address, e-mail address, telephone and fax number. You may also be asked certain questions about You and/or Your business, which will help Us to better meet Your needs and respond to Your inquiries regarding the Website and/or Our various services featured on the Website. If You choose to provide personally identifiable information to Us, You represent and warrant that all such information is true, accurate and complete, and in compliance with our Website Terms of Use. 
 
-Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the instructions at the end of any email. 
+If you have signed up for our Crime Alerts, we will collect information about your address, name, email address, and preferences (such as to the frequency of reports, and whether they are text or HTML). You may also elect to have the reports sent to your cell phone. We will only use this contact information and preference information in determining which emails or messages to send to you. We may expand this service to include other crime related reporting information to you, but we will only do so once you have elected to receive such information. You may terminate your account with Us at any time, and we will cease sending you emails or messages promptly, but in any event, within the time period required by applicable law (currently 10 days).
 
-If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to [info@reportsee.com](mailto:info@reportsee.com) for review. 
+While we take reasonable effort to report correct information, you may receive incorrect crime report alerts. Because of both the volume and source of some of the crime reports data, we take no responsibility for and hereby disclaim any and all claims for any erroneously reported information. Our liability in respect of crime report alerts is limited in accordance with the Terms of Use. 
 
-## External Links
+## General Use of This Website.
 
-ReportSee Inc. is not responsible for the privacy practices or content of any external Web sites that are used as links. 
+We continually seek to improve the quality of our Website and services so that We may better meet Your needs. As part of this process, the information We collect from our Website users and data regarding Your use of this Website is used in the following ways:
 
-## Privacy Policy Changes 
+By Us - We use personally identifiable information that You provide to Us (such as Your name, address, phone and fax numbers, email address and other similar types of information specific to You) to statistically analyze Website usage and to improve the Website and our product and service offerings. We may use Your email address, mailing address, phone or fax number to contact You regarding feedback that You may have provided or information that You actively requested from Us. Further, We may be required to disclose personally identifiable information by court or administrative order such as a law, regulation, search warrant, or subpoena. We may also provide third parties with aggregate information regarding users of the Website. For example, We might inform third parties regarding the number of unique users of our Website, the number of times a Website link was selected by users, and aggregate information on the types of the activities such users conducted while on Our Website. This aggregate information will contain nothing that can identify You, and will not contain any personally identifiable information that refers or relates to You. Notwithstanding the above, in the case where we merge, sell our business, or otherwise transfer operational control of our business to a new owner, whether we do so directly or indirectly, You hereby authorize Us to transfer your entire personal information to such purchaser, so long as such Purchaser agrees to abide by the terms of this policy.
 
-This policy was created on March 4, 2008. This privacy statement may be changed at any time; if any changes are made, they will be posted to this page.   
-If you feel that this site is not following its stated information policy, you may contact a customer representative at [cr@reportsee.com](mailto:cr@reportsee.com)
+By Third Parties - We provide no personally identifiable information about You to any third party without Your express consent (which consent may be provided by you electronically, via a selection on a web form or in another manner). Further, without Your consent, no third party will contact You using personally identifiable information You gave to Us through the Website. 
 
-300 E. Lombard St.  
-Suite 840  
-Baltimore, MD 21202
+## Security for Personally Identifiable Information.
+
+We take the security of personally identifiable information very seriously. Our Website and database servers are hosted in a secured physical and network environment. Reasonable efforts are made to secure web servers, networks, host operating systems and databases against unauthorized access. Please remember that the security measures taken above are not foolproof; no website can guarantee that personally identifiable information will be protected in all situations. Therefore We can only state that We will make a reasonable effort to protect from unauthorized access the information that You provide, and that if we are notified of a breach, we will comply with applicable law, however, unless a statute provides You a right that cannot be waived, you specifically waive and covenant not to sue us for any data loss or breach of our system resulting in loss of personal information, and you agree to receive notice of any such event via electronic email. 
+
+## Updating Your Personal Information and Contacting Us.
+
+You can always contact Us in order to: (i) update the personally identifiable information You have provided; or (ii) direct Us to render inactive on our systems all personally identifiable information that refers or relates to You. We may be reached by email at support@reportsee.com or at: ReportSee, Inc..
+
+Questions or comments regarding this Privacy Policy should be directed to us care of [support@reportsee.com](mailto:support@reportsee.com).  
+
