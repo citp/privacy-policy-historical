@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fonebank.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630062201id_/http%3A//www.fonebank.com/privacy.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonebank.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219114608id_/http%3A//www.fonebank.com/privacy.aspx%23privacy) for the most accurate reproduction.*
 
-# Sell and recycle your mobile phone
+# Sell, trade in or recycle your old mobile phone for cash
 
 Privacy Policy
 
