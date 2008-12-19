@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agl.com.au privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516010041id_/http%3A//www.agl.com.au/SiteTools/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agl.com.au privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219145136id_/http%3A//agl.com.au/SiteTools/pages/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# Site Tools
 
 The AGL Energy Group comprises the companies set out in the AGL Energy Group of Companies list. All references to "AGL Energy", "we", "us" and "our" in this Privacy Policy apply to the these companies. 
 
