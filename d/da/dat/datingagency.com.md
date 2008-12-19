@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datingagency.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630061837id_/http%3A//www.datingagency.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingagency.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219022651id_/http%3A//www.datingagency.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -44,7 +44,7 @@ If you join you supply us with data that collectively, is personally-identifiabl
 
 
 
-This is used to allow you to log in in future, to send you your welcome message and for messages intended for you to be notified to your email account or to send you occasional bulletins about datingagency.com. It is used for no other purposes, such as direct mailing, unless you decide to opt in to our weekly bulletin. It is not used to send you any information unrelated to datingagency.com. Nor may it be sold, lent, rented or in any way passed to any third party.
+This is used to allow you to log in in future, to send you your welcome message and for messages intended for you to be notified to your email account or to send you occasional bulletins about datingagency.com. It is used for no other purposes, such as direct mailing, unless you decide to opt in to our weekly bulletin. It is not used to send you any information unrelated to datingagency.com. Nor may it be sold, lent, rented or in any way passed to any third party except in the event of a business transfer or sale.
 
 If you add a profile we also collect the following personally-identifiable information:
 
