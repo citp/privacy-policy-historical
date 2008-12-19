@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidecrm.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517202929id_/http%3A//www.insidecrm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidecrm.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219130622id_/http%3A//www.insidecrm.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Inside CRM
 
@@ -42,9 +42,9 @@ Questions? If you have any questions or suggestions about our privacy or securit
 
 Tippit 
 
-514 Bryant Street 
+100 California St., 4th Floor 
 
-San Francisco, Calif. 94107 
+San Francisco, Calif. 94111 
 
 ### California Privacy Rights 
 
@@ -88,7 +88,7 @@ Questions? If you have any questions or suggestions about our privacy or securit
 
 Tippit 
 
-514 Bryant Street 
+100 California St, 4th Floor 
 
-San Francisco, Calif. 94107   
+San Francisco, Calif. 94111   
 
