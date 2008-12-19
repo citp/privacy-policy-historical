@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lambeth.gov.uk privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530071024id_/http%3A//www.lambeth.gov.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lambeth.gov.uk privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219034055id_/http%3A//www.lambeth.gov.uk/privacy.htm) for the most accurate reproduction.*
 
 # London Borough of Lambeth | Privacy policy
 
-[Home](http://www.lambeth.gov.uk/ "Home") / Privacy policy
+[Home](http://www.lambeth.gov.uk/ "Home") > Privacy policy
 
   * Information you supply on electronic forms available on our web site will only be used for the purpose(s) stated on the form. 
   * Information you provide in e-mails to us will only be used for the purpose (which we reasonably believe) that you give it to us for. 
