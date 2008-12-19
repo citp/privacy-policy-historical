@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacobtime.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526210911id_/http%3A//www.jacobtime.com/osc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacobtime.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219125202id_/http%3A//www.jacobtime.com/osc/privacy.php) for the most accurate reproduction.*
 
 # watches
 
