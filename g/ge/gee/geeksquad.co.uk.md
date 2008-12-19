@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geeksquad.co.uk privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502193532id_/http%3A//www.geeksquad.co.uk/misc/misc.aspx%3Fid%3D252) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeksquad.co.uk privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219232740id_/http%3A//www.geeksquad.co.uk/misc/misc.aspx%3Fid%3D252) for the most accurate reproduction.*
 
 # Geek Squad UK
 
