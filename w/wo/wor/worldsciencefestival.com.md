@@ -1,70 +1,37 @@
-> *The following text is extracted and transformed from the worldsciencefestival.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606051210id_/http%3A//www.worldsciencefestival.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsciencefestival.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219035806id_/http%3A//www.worldsciencefestival.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — World Science Festival 2008 - Five Day Science Festival In New York City Featuring Nobel Laureates Co-Founded by Brian Greene
+# Privacy Policy — World Science Festival
 
-## What personally identifiable information is collected about visitors to www.worldsciencefestival.com or www.worldsciencefest.org?
+## PRIVACY POLICY
 
-"Personally identifiable information" is non-anonymous information such as your name, phone number, credit card information, address or email address or anything that could identify you personally. Visitors to _www.worldsciencefestival.com_ or _www.worldsciencefest.org_ are not required to provide personally identifiable information to use the Website.
+The World Science Festival (“WSF”) is owned and organized by the Science Festival Foundation, a 501(c)(3) non-profit organization. For the purposes of this privacy policy, the term "WSF" shall refer to both the Science Festival Foundation and the World Science Festival.
 
-There are three instances in which the Science Festival Foundation (or World Science Festival, WSF) may receive your name, email address, or other information that identifies you personally.
+WSF is committed to protecting the privacy of its website visitors. In accordance with applicable laws and regulations. All information gathered from you in connection with your use of this website (the “Site”) is governed by this Privacy Policy.
 
-The first is if you contact WSF, for example, to request information. Clicking on a website link in order to contact our organization may result in your email application sending us a query. Such a query would contain your email address and could contain your name.
+By their nature, electronic communication protocols require our servers and your computer to share information about each other, some of which could potentially be used to figure out more about you. WSF makes no attempt to identify individual users of our Site.
 
-The second is if you request further information about World Science Festival’s programs. In this case, you may be directed to another website that is hosted by Vertical Response. At the Vertical Response site, you will be governed by the privacy policy of _Vertical Response_ (viewable as of the date of this Privacy Policy at <http://www.verticalresponse.com/about/privacy_tos.html>), not by that of WSF. WSF, however, may still have access to any email address or name you choose to enter at this Vertical Response page.
+We do not systematically collect names, addresses, phone numbers, e-mail addresses or other personally identifying information (“Personal Information”) of Site users, unless you voluntarily send it to us by subscribing to our newsletter, requesting additional information about our WSF programs or signing up to comment on our blog.
 
-The third is if you click a button to make a donation to WSF. In this case, you may be directed to another website that is hosted by _Network for Good_ at [guidestar.org](http://guidestar.org/). At the Network for Good site, you will be governed by the privacy policy of Network for Good (viewable as of the date of this Privacy Policy at [http://support.networkforgood.org/?a=4&q=152](http://support.networkforgood.org/?a=4&q=152)), not by that of WSF. WSF, however, may still have access to any email address or name you choose to enter at this Network for Good site.
+When you sign up to be on the WSF email or mailing list or otherwise voluntarily provide us with Personal Information in order to receive information about WSF, the Personal Information you provide is passed on to Vertical Response, which serves as the email service provider for WSF.  The information stored at Vertical Response is governed by the [privacy policy](http://www.verticalresponse.com/about/privacy_tos.html) of Vertical Response.
 
-## What we do and do not do with information we collect:   
+WSF may sell tickets on our Site through third party ticketing agents. When you purchase tickets via the Site, WSF and its third party ticketing agent will request information necessary to process your ticket purchase, which will include Personal Information. In order to complete the purchase, you will be transferred to the ticketing agent’s website and you will be governed by their own independent Privacy Policy.
 
+WSF also collects donations via the Site through a third party non-proft, _Network for Good._ When you make an online donation to WSF, you will be directed to the _Network for Good_ website and you will be asked to provide Personal Information to complete the transaction. At this point, you will be governed by _Network for Good_ ’s [privacy policies](http://support.networkforgood.org/Default.asp?c=11).
 
-We do not rent, sell or distribute your personally identifying information to other companies or individuals, unless we have your consent. We may share such information in any of the following limited circumstances:
+WSF may have access to any Personal Information you provide to our third party vendors as described above. Our third party vendors will never share your credit card information with us. We do not sell, rent or otherwise distribute the Personal Information we do collect, but we might share it with trusted organizations we work with in producing the Festival. For example, if we hire a third party to market the Festival, we might share our email list with them. Under all circumstances, however, these third parties would be required to maintain the confidentiality and security of any Personal Information provided to them in the course of their performing services for WSF.
 
-  * We have your consent.   
+We use Google Analytics to better understand how to service users of our Site. Google Analytics requires we temporarily store information on your machine, which Google uses to track how you use the Site (but only the WSF website). Through this tool, Google is able to generate aggregate statistics about our users as a group. This aggregate information is not linked to any Personal Information, and we do not share the information collected with any third parties.
 
-  * We provide such information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures.
-  * We conclude that we are required by law or have a good faith belief that access, preservation or disclosure of such information is reasonably necessary to protect the rights, property or safety of WSF, its program participants, website users or the public.   
+[Google Analytics](http://www.google.com/privacypolicy.html) uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
+If you would like to disable Google's cookies, please look up "cookies" in your browser's help files and follow the directions there for blocking cookies. You may choose to reject these cookies at any time without preventing your access to the Site.
 
+This Site is not specifically dedicated to children, and WSF does not seek to actively solicit information from children. Children under the age of 14 are required to obtain permission from an adult before submitting any information to the Site.
 
+If you have any concerns or questions about how information gathered on our website is used, please contact us at [info@worldsciencefest.org](mailto:info@worldsciencefest.org) with "PRIVACY" in the subject line.
 
-We may share aggregated information with others. Examples of this include the number of users who searched for certain items on our website or how many users clicked on a particular page of our website.
+This Privacy Policy may be modified without notice from time to time. The effective date of each version will be noted at the bottom of this page.
 
-##  WSF and the Children's Online Privacy Protection Act (“COPPA”):
+**EFFECTIVE DATE:** October 29, 2008
 
-It is the policy of WSF to collect through our website NO personally identifiable information from children under the age of 14 years, unless we have received parental consent in connection with such collection of information. All individuals are therefore required to be 14 years or older to submit their email address at our website, or obtain parental consent with respect to the furnishing of that information to us.
-
-## What anonymous information is collected about visitors to www.worldsciencefestival.com or www.worldsciencefest.org?
-
-"Anonymous Information" means information that cannot be traced back to you as a specific individual. WSF receives standard web log information: cookies, referrer IDs, IP addresses and system information. None of this information identifies you personally. It is anonymous and will never be combined or linked to any Personally identifiable information.
-
-## What is a cookie?   
-
-
-A "cookie" is a small bit of record-keeping information that websites often store on a user's computer. Cookies do not generally include people's names, email addresses, or other information that identifies you personally; they are used to identify a computer, not a person. Cookie technology is fairly commonplace on the Internet because cookies allow website owners to personalize their service based on a user's preferences. On most browsers, you can ask to be notified by your browser when you receive a cookie, giving you the opportunity to decide whether or not to accept it. WSF does not require that you accept cookies, nor will we intentionally prevent you from using our websites if you decline to accept cookies.
-
-## How does WSF use cookies?
-
-As of March 2008, the WSF Website does not employ cookies
-
-## What is a referrer ID?   
-
-
-A "referrer ID" is information from your web browser which shows us what URL you linked from. This allows us to see what websites link to _www.worldsciencefestival.com_ and _www.worldsciencefest.org_.This information is automatically gathered by our server. Referrer IDs contain no information that identifies you personally.
-
-## What is an IP address?   
-
-
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer so that data (such as the web pages you request) can be sent to you. They are automatically gathered by our web server when you visit www.worldsciencefestival.com or www.worldsciencefest.org. WSF will not use your IP address to attempt to identify your personal information.
-
-## What is system information?   
-
-
-System information we gather from our web logs includes time of your visit, type of browser you used, and the operating system, platform and CPU speed of your computer. This kind of anonymous information is routinely sent by your browser when you connect to websites. WSF uses this information only for broad demographic statistics. For example: it tells us what percentage of users have Firefox browsers versus Internet Explorer. You will not be personally identified by this information.
-
-## Will I receive unsolicited commercial email ("spam") as a result of visiting the Website of WSF?
-
-No.
-
-## Changes to this Policy
-
-**Please note this Privacy Policy may be changed from time to time. We will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. Each version will be noted at the bottom of the page. If you have any additional questions, please feel free to contact us at**[info@worldsciencefest.org](mailto:info@worldsciencefest.org).
+ 
