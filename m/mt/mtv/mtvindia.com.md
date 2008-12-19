@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the mtvindia.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214071645id_/http%3A//www.mtvindia.com/mtv/aboutus/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvindia.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219102022id_/http%3A//www.mtvindia.com/aboutus/pp.html) for the most accurate reproduction.*
 
-# About MTV
+# Privacy Policy
+
+| 
+
+Privacy Policy
+
+  
+
 
 Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
@@ -43,3 +50,8 @@ MTVindia.com
 Viacom18 Media Pvt Ltd.   
 36 B, Dr. R. K. Shirodkar Marg,   
 Parel (East) Mumbai - 400012
+
+  
+
+
+| 
