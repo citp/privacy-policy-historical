@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoanything.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530042658id_/http%3A//www.autoanything.com/help/policy.aspx%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoanything.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219124243id_/http%3A//www.autoanything.com/help/policy.aspx%23privacypolicy) for the most accurate reproduction.*
 
 # AutoAnything Privacy Policy
 
@@ -27,13 +27,13 @@ And, to show our commitment to you, you have 1 FULL Year of price protection fro
 
 If you want to purchase a product from AutoAnything and you see it advertised at a lower price anywhere else, there are two ways to get that price for your order:
 
+  * **Use our online checkout process***  
+Place your order online as you would normally order an item from AutoAnything. In the "Additional Information" area, located on the order and payment review page during checkout, note the lower price you found and where you found that price. We will adjust your order to reflect a credit for the difference.
+
+*Please note: your online receipt will not reflect the price adjustment. A corrected receipt will be emailed to you once the adjustment has been processed.
+
   * **Place your order by email**  
 Email us at [sales@autoanything.com](mailto:sales@autoanything.com), and we will gladly place your order at the lower price. Include the lower price and the location where it was found.
-  * **Use our online shopping cart**  
-Place your order online as you would normally order an item from AutoAnything. In the "comments" area in the checkout section of your shopping cart, note the lower price you found and where you found that price. We will adjust your order to reflect a credit of the difference.
-
-**Please note: your online receipt will not reflect the price adjustment if you order with our shopping cart. It will be emailed to you immediately once the adjustment has been processed.
-
 
 
 
@@ -41,7 +41,7 @@ Processing your order at the lower match price is done at the discretion of Auto
 
 ### Price match for products you have already purchased
 
-Email us at [sales@autoanything.com](mailto:sales@autoanything.com), providing the lower price, source and the date you purchased the item from us. We will then gladly look into your order and process your refund. You will receive confirmation of the refund by email.
+Email us at [customerservice@autoanything.com](mailto:customerservice@autoanything.com), providing the lower price, source and the date you purchased the item from us. We will then gladly look into your order and process your refund. You will receive confirmation of the refund by email.
 
 Processing your order at the lower match price is done at the discretion of AutoAnything and is subject to evaluation using the terms and conditions below.
 
@@ -67,7 +67,7 @@ Please keep in mind, however, the assurance of AutoAnything's 1-Year Low Price G
 
 This is AutoAnything.com's ("AutoAnything.com") online privacy policy ("Policy"). This policy applies only to activities AutoAnything.com engages in on its website and does not apply to AutoAnything.com activities that are "offline" or unrelated to the website. AutoAnything.com collects certain anonymous data regarding the usage of the website. This information does not personally identify users, by itself or in combination with other information, and is gathered to improve the performance of the website. The anonymous data collected by the AutoAnything.com website can include information such as the type of browser you are using, browsing patterns, originating web pages, number of visits to AutoAnything.com, vehicle selections, items viewed, pages viewed, and the length of the visit to the website.
 
-You may also be asked to provide personally identifiable information on the AutoAnything.com website, which may include your name, address, telephone number, and e-mail address. In addition, if a purchase is made, we collect credit card information, billing and shipping address, customer information, vehicle information, and prior purchases. This information can be gathered when feedback or e-mails are sent to AutoAnything.com, when you register for services, or make purchases via the website. In all such cases you have the option of providing us with personally identifiable information. You may always choose not to provide the requested information, but you then may not be able to participate in the particular activity that requires such information. If you do provide us with your personally identifiable information, you agree that we may contact you to provide you with information we believe may be of interest to you.
+You may also be asked to provide personally identifiable information on the AutoAnything.com website, which may include your name, address, telephone number, and e-mail address. In addition, if a purchase is made, we collect credit card information, billing and shipping address, customer information, vehicle information, and prior purchases. This information can be gathered when feedback or e-mails are sent to AutoAnything.com, when you register for services, or make purchases via the website, or when you enter information in the checkout process but do not complete your checkout. In all such cases you have the option of providing us with personally identifiable information. You may always choose not to provide the requested information, but you then may not be able to participate in the particular activity that requires such information. If you do provide us with your personally identifiable information, you agree that we may contact you to provide you with information we believe may be of interest to you.
 
 ### Cookies: Web Beacons.
 
@@ -79,7 +79,7 @@ AutoAnything.com pages may contain electronic images known as Web beacons or act
 
 Except as otherwise stated below, we do not sell, trade or rent your personally identifiable information collected on the site to others. The information collected by our site is used to confirm and process orders, to keep you informed about your order status, to notify you of products or special offers that may be of interest to you, to obtain reviews, ratings or testimonials relating to your experience with AutoAnything products purchased, and for statistical purposes for improving our site. We will disclose your personally identifiable information to third parties for tracking purposes, to charge your credit card (or process your check or money order, as appropriate), fill your order, improve the functionality of our site, perform statistical and data analyses, deliver your order and deliver promotional emails to you from us. For example, we must release your credit card number to confirm payment; and release your mailing address information to the delivery service to deliver products that you ordered.
 
-AutoAnything.com may use non-personal "aggregated data" to enhance the operation of our website, or analyze interest in the areas of our website. Moreover, we may in some circumstances disclose personally identifiable information to third parties to enhance your experience on our website. Additionally, if you provide AutoAnything.com with content for publishing or feedback, we may publish your user name or other identifying data.
+AutoAnything.com may use non-personal "aggregated data" to enhance the operation of our website, or analyze interest in the areas of our website. Moreover, we may in some circumstances disclose personally identifiable information to third parties to enhance your experience on our website. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/consumer/opt_out.asp). Additionally, if you provide AutoAnything.com with content for publishing or feedback, we may publish your user name or other identifying data.
 
 AutoAnything.com may also disclose personally identifiable information in order to respond to a subpoena, court order or other such request. AutoAnything.com may also provide such personally identifiable information in response to a law enforcement agency's request or as otherwise required by law. Your personally identifiable information may be provided to a party if AutoAnything.com files for bankruptcy, or there is a transfer of the assets or ownership of AutoAnything.com in connection with proposed or consummated corporate reorganizations, such as mergers or acquisitions.
 
@@ -151,7 +151,7 @@ AutoAnything's Top Affiliate Partners Earn Over $4,000 a month! Join our Affilia
 
 ### How does it work?
 
-  * Click on one of the links below to join our program through [Performics](https://www.connectcommerce.com/secure/partner_app.html?ccmid=K30464) or [Commission Junction](https://signup.cj.com/member/brandedPublisherSignUp.do?air_refmerchantid=1376813).
+  * Click on one of the links below to join our program through [Google Affiliate Network](https://www.connectcommerce.com/secure/partner_app.html?ccmid=K30464) or [Commission Junction](https://signup.cj.com/member/brandedPublisherSignUp.do?air_refmerchantid=1376813).
   * Read our affiliate agreement. 
   * Complete the online application. 
   * Once your application is approved (typically within 48 hours), you will receive an email notification with your login and linking instructions. 
@@ -218,13 +218,22 @@ San Diego, CA 92123
 
 **Customer service:**|  1-800-874-8888  
 ---|---  
-| Hours: M-F 6am-5pm*  
 **Phone sales:**|  1-800-874-8888  
-| Hours: Mon-Thu 5am-6pm; Fri 5am-5pm; Sat-Sun 6am-3:30pm*  
 **Direct:**|  858-569-8111  
 **Fax:**|  858-569-8503  
   
-_*All times pacific_
+
+
+### Hours
+
+**Customer Service:** | Monday - Friday | 6:00am - 5:00pm  
+---|---|---  
+**Phone Sales:** | Monday - Thursday | 5:30am - 8:00pm  
+(All times PST) | Friday | 5:30am - 5:00pm  
+800.874.8888 | Saturday | 6:00am - 6:00pm  
+  | Sunday | 6:00am - 7:00pm  
+  
+
 
 ### Email
 
@@ -235,6 +244,6 @@ _*All times pacific_
 **Order status info:**| [orderstatus@autoanything.com](mailto:orderstatus@autoanything.com)  
 **Cancel an order:**| [cancel@autoanything.com](mailto:cancel@autoanything.com)  
 **Returns & exchanges:**| [returns@autoanything.com](mailto:returns@autoanything.com)  
-**Job opportunities:**| [jobs@autoanything.com](mailto:jobs@autoanything.com)  
+**Job opportunities:**| [careers@autoanything.com](mailto:careers@autoanything.com)  
 **Affiliate program:**| [affiliatemarketing@autoanything.com](mailto:affiliatemarketing@autoanything.com)  
 **Customer Service:**| [customerservice@autoanything.com](mailto:customerservice@autoanything.com)
