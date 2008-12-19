@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squiz.net privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608185248id_/http%3A//matrix.squiz.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squiz.net privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219204352id_/http%3A//matrix.squiz.net/privacy-policy) for the most accurate reproduction.*
 
 # MySource Matrix Open Source CMS - Privacy Policy
 
