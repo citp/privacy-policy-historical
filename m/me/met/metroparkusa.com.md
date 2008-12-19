@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the metroparkusa.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609093506id_/http%3A//www.metroparkusa.com/store/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metroparkusa.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219132226id_/http%3A//www.metroparkusa.com/store/privacy_policy) for the most accurate reproduction.*
 
-# Metropark - Privacy Policy
-
-Your email has successfully been removed from the mailing list.
+# Metropark / Privacy Policy
 
 ### INTRODUCTION
 
@@ -56,7 +54,7 @@ Clique may occasionally update this Privacy Policy. When we do, we will also rev
 
 ### CONTACT US
 
-If you have questions regarding this Privacy Policy, please submit your question to customer support online at <http://support.metroparkusa.sparkart.com/>. You can also contact Clique at:
+If you have questions regarding this Privacy Policy, please submit your question to customer support online at <http://www.metroparkusa.com/support/>. You can also contact Clique at:
 
 Clique  
 PO Box 8639  
