@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonnieplants.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514172736id_/http%3A//www.bonnieplants.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonnieplants.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219041824id_/http%3A//bonnieplants.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Bonnie Plants > Home
 
@@ -44,4 +44,4 @@ Bonnie Plants will occasionally update this Statement of Privacy to reflect comp
 
 Contact Information
 
-Bonnie Plants welcomes your comments regarding this Statement of Privacy. If you believe that Bonnie Plants has not adhered to this Statement, please contact Bonnie Plants at [byron@byronford.com](mailto:byron@byronford.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Bonnie Plants welcomes your comments regarding this Statement of Privacy. If you believe that Bonnie Plants has not adhered to this Statement, please contact Bonnie Plants at byron@byronford.com. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
