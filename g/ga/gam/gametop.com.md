@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gametop.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623211838id_/http%3A//www.mediacontact.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gametop.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219104621id_/http%3A//www.mediacontact.com/privacy.html) for the most accurate reproduction.*
 
 # MEDIA CONTACT LLC WEB SITE PRIVACY STATEMENT
 
