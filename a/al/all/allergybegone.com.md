@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allergybegone.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512143330id_/http%3A//www.allergybegone.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allergybegone.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219191845id_/http%3A//www.allergybegone.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,6 +13,7 @@ When visiting our web site, you may provide us with two types of information: pe
   * **Order Information:** The billing and shipping information collected during checkout. This includes your name, billing and shipping addresses, and contact phone number and email address.
   * **Website Use Information:** This information is automatically collected as you browse through our website. It includes the date and time of your visit, the address of the site you came from before visiting our site, search terms used to find our site, any pages viewed on the site, and keywords used to look for products on our site. We do not collect any personally identifiable information via this process.
   * **Email Information:** You may choose to receive notifications about our products and special promotions. In order to subscribe you to these notifications, we need to collect your name and email address. This information is also collected during checkout.
+  * **Third-Party Web Beacons:** We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
 
 
 
@@ -46,7 +47,7 @@ Occasionally, we may ask you to take part in customer surveys. We will use the i
 
 #### How can you access and correct your information?
 
-You may [contact us](https://web.archive.org/web/20080512143330id_/http%3A//www.allergybegone.com/info.html#address) to request access to all your personally identifiable information that we collect online and maintain in our database.
+You may [contact us](https://web.archive.org/web/20081219191845id_/http%3A//www.allergybegone.com/info.html#address) to request access to all your personally identifiable information that we collect online and maintain in our database.
 
 #### Other sites linking to and linked from AllergyBeGone.com
 
