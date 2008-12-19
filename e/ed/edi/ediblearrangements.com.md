@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ediblearrangements.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230142525id_/http%3A//www.ediblearrangements.com/Legal/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ediblearrangements.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219055334id_/http%3A//www.ediblearrangements.com/Legal/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Edible Arrangements® - Website Privacy Policy
 
 **_ Website Privacy Policy_**
 
-## Edible Arrangements Franchise Group, Inc. (" ** _Edible Arrangements_** ," " ** _we_** ," " ** _us_** " or " ** _our_** ") respects your privacy!  We know you care how information about you is used and shared.  This Website Privacy Policy (the " ** _Policy_** ") describes our privacy practices with respect to information collected by or submitted to us on our <www.EdibleArrangements.com>, <www.eafg.net> and other websites (each a " ** _Website_** ").  **This Policy is made a part of theEdible Arrangements [ Terms of Use](https://web.archive.org/Legal/Terms_Of_Use.aspx) (**" ** _Terms_** " **).   **
+## Edible Arrangements International, Inc. (" ** _Edible Arrangements_** ," " ** _we_** ," " ** _us_** " or " ** _our_** ") respects your privacy!  We know you care how information about you is used and shared.  This Website Privacy Policy (the " ** _Policy_** ") describes our privacy practices with respect to information collected by or submitted to us on our <www.EdibleArrangements.com>, <www.eafg.net> and other websites (each a " ** _Website_** ").  **This Policy is made a part of theEdible Arrangements [ Terms of Use](https://web.archive.org/Legal/Terms_Of_Use.aspx) (**" ** _Terms_** " **).   **
 
 ## By visiting our Website, you acknowledge and agree that you have read this Policy and agree to the collection, use and other processing of your information in accordance with the practices described in this Policy.  If you do not agree to all of the terms, conditions and practices set forth herein, do not access the Website or any of its pages. 
 
@@ -20,7 +20,7 @@ This Website is hosted, and all information that you submit through this Website
 
 Generally, we do not collect information that personally identifies individuals except when individuals knowingly and voluntarily provide such information to us.  For example, we will gather information about individuals when they submit comments, questions or requests for information to us on this Website.  We use information we receiver to operate and improve the content of this Website, and to provide the product(s), service(s) or information, or carry out the transaction(s) that you have requested or authorized.  We may share any of the information we gather on our Website or otherwise maintain with our affiliates, franchisees, and service providers (for more information please see the section entitled  SHARING INFORMATION below).  We also collect personally identifiable information in the following ways and for the following purposes:
 
-·        **Orders and Purchases:   ** If you submit an order for an EDIBLE ARRANGEMENTS® arrangement or other product on this Website, you will be required to submit verifiable and accurate identity and contact information, shipping address and payment information.  This personally identifiable information will be used for billing purposes and to fill products orders, and may be retained for record keeping and legal purposes along with the content of your order.  We utilize industry-standard Secure Sockets LayerSM (" ** _SSL_** ") technology to allow for the encryption of all product orders submitted on our Website in order to protect your credit card and other information.  For additional details about our information security practices please see the section entitled **SECURITY** below.  If you are uncomfortable with submitting your credit card or other order information via the Internet for any reason, please feel free to call in your order at 1-877-DoFruit™. 
+·        **Orders and Purchases:   ** If you submit an order for an EDIBLE ARRANGEMENTS® arrangement or other product on this Website, you will be required to submit verifiable and accurate identity and contact information, shipping address and payment information.  This personally identifiable information will be used for billing purposes and to fill products orders, and may be retained for record keeping and legal purposes along with the content of your order.  We utilize industry-standard Secure Sockets LayerSM (" ** _SSL_** ") technology to allow for the encryption of all product orders submitted on our Website in order to protect your credit card and other information.  For additional details about our information security practices please see the section entitled **SECURITY** below.  If you are uncomfortable with submitting your credit card or other order information via the Internet for any reason, please feel free to call in your order at 1-877-DoFruit®. 
 
 ·        **Accounts:**   We permit our Website users to register for an EDIBLE ARRANGEMENTS® account for their personal use (" ** _User Account_** ") and/or for their organization’s use (" ** _Corporate Account_** ").  If you decide to register for a User Account or a Corporate Account (collectively, " ** _Accounts_** "), you will be required to provide us with your name and contact information (including organization information for Corporate Accounts), and to choose a username and password.  For each Account, we will maintain and allow Account holders to view order history and order shipment status.  Account registrants may, but are not required to, provide us their credit card information for express checkout for orders on our Website (so that credit card information does not have to re-entered next time an order is placed from the Account); set up birthday or gift reminders within their Accounts; and create address book entries for recipients of the EDIBLE ARRANGEMENTS® arrangements or other products they order on this Website.  We will use this information to customize the experience on our Website.  We utilize industry-standard SSL technology to allow for the encryption of all Account registrations on our Website. ****  For additional details about our information security practices please see the section entitled **SECURITY** below. 
 
@@ -84,13 +84,13 @@ If you have any questions regarding this Policy, please contact us at:
 
 Edible Arrangements International, Inc. 
 
-1952 Whitney Ave.
+95 Barnes Road
 
-Hamden, CT 06517  USA
+Wallingford, CT 06492-1800  USA
 
-Telephone:  203-907-0066
+Telephone:  +1 203 774-8000
 
-Facsimile: 203-230-0792
+Facsimile: +1 203 774-0531
 
 E-mail:  mail@eafg.net
 
