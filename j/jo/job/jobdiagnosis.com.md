@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobdiagnosis.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502142810id_/http%3A//www.jobdiagnosis.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D12%26Itemid%3D28) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobdiagnosis.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219083249id_/http%3A//www.jobdiagnosis.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - JobDiagnosis
+# JobDiagnosis | Vhmnetwork, Information, May, Use, Web | Privacy Policy - JobDiagnosis
 
 **Effective as of 01/01/2007 VHMnetwork LLC ("VHMnetwork")**
 
