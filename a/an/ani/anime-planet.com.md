@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the anime-planet.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628063520id_/http%3A//www.anime-planet.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anime-planet.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219093948id_/http%3A//www.anime-planet.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Anime-Planet
 
 At Anime-Planet, we value your privacy. Your personal information (email, IP address, contact information) will never be sold to a third party. For more details, please see below.
 
-### Anime-Planet collects the following information:
+## Anime-Planet collects the following information:
 
   * IP address (used to verify login authenticity)
   * Host name
@@ -22,4 +22,4 @@ Anime-Planet reserves the right to share statistical data with third parties; th
 
 Anime-Planet reserves the right to modify this policy at any time. Though we take heavy precautions to safeguard your personal information, we are not responsible for information that is unlawfully obtained from our servers. We are not responsible for any information publicly disclosed by an individual regarding him or herself by means of our services, including the chat room, forum, blogs, or profile.
 
-If you have additional questions about our privacy policy, please [contact us](https://web.archive.org/contact.php).
+If you have additional questions about our privacy policy, please contact us.
