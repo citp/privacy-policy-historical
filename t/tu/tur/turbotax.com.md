@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turbotax.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509063110id_/http%3A//turbotax.intuit.com/corp/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turbotax.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219225332id_/http%3A//turbotax.intuit.com/corp/privacy.jsp) for the most accurate reproduction.*
 
 # TurboTax® Privacy Policy - Review the TurboTax Privacy Statement
 
@@ -8,7 +8,7 @@ These Highlights and the full privacy statement apply to those TurboTax websites
 
 ## Important Information
 
-At Intuit, we place the highest importance on respecting and protecting the privacy of our customers. Our most important asset is our relationship with you. We want you to feel comfortable and confident when using our products and services and with entrusting your personal and tax return information to us. The full TurboTax Privacy Statement can be found [here](https://web.archive.org/corp/privacy_full.jhtml;jsessionid=VFNMFNOR0TXK4CQIAULRYUQKBACQ4F4K).
+At Intuit, we place the highest importance on respecting and protecting the privacy of our customers. Our most important asset is our relationship with you. We want you to feel comfortable and confident when using our products and services and with entrusting your personal and tax return information to us. The full TurboTax Privacy Statement can be found [here](https://web.archive.org/corp/privacy_full.jsp).
 
 ## Personal Information
 
@@ -19,7 +19,7 @@ At Intuit, we place the highest importance on respecting and protecting the priv
 
 
 
-[Click here](https://web.archive.org/corp/privacy_full.jhtml;jsessionid=VFNMFNOR0TXK4CQIAULRYUQKBACQ4F4K#information_collection) for more information.
+[Click here](https://web.archive.org/corp/privacy_full.jsp#information_collection) for more information.
 
 ## Uses
 
@@ -33,11 +33,11 @@ At Intuit, we place the highest importance on respecting and protecting the priv
 
 
 
-[Click here](https://web.archive.org/corp/privacy_full.jhtml;jsessionid=VFNMFNOR0TXK4CQIAULRYUQKBACQ4F4K#information_use) for more information.
+[Click here](https://web.archive.org/corp/privacy_full.jsp#information_use) for more information.
 
 ## Your Choices
 
-  * You may change your account and contact information any time by clicking [here](https://turbotax.intuit.com/commerce/account/secure/login.jhtml).
+  * You may change your account and contact information any time by clicking [here](https://turbotax.intuit.com/commerce/account/secure/login.jsp).
   * You may change the information in your TurboTax Online tax return until the point you have electronically filed or printed your completed tax return. After that, changes may be made by the procedures set up by the IRS or state tax agency.
   * You may unsubscribe from our newsletters by using the unsubscribe link provided in the newsletter sent to you.
   * You may choose to answer surveys about our products and services.
@@ -45,6 +45,6 @@ At Intuit, we place the highest importance on respecting and protecting the priv
 
 
 
-[Click here](https://web.archive.org/corp/privacy_full.jhtml;jsessionid=VFNMFNOR0TXK4CQIAULRYUQKBACQ4F4K#information_access) for more information.
+[Click here](https://web.archive.org/corp/privacy_full.jsp#information_access) for more information.
 
-[View full privacy statement](https://web.archive.org/corp/privacy_full.jhtml;jsessionid=VFNMFNOR0TXK4CQIAULRYUQKBACQ4F4K).
+[View full privacy statement](https://web.archive.org/corp/privacy_full.jsp).
