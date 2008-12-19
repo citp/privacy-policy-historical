@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewellerynetasia.com privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429222822id_/http%3A//www.jewellerynetasia.com/privacy.aspx%3Flang%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewellerynetasia.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219092802id_/http%3A//www.jewellerynetasia.com/privacy.aspx%3Flang%3D0) for the most accurate reproduction.*
 
 # JewelleryNetAsia.com - Asia's Leading On-line Network for the Jewellery and Gem Industries
 
