@@ -1,17 +1,14 @@
-> *The following text is extracted and transformed from the nvidia.in privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615115855id_/http%3A//www.nvidia.in/object/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nvidia.in privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219231536id_/http%3A//www.nvidia.in/object/privacy_policy.html) for the most accurate reproduction.*
 
 # NVIDIA Privacy Policy
 
 | 
 
-|   
+  
+  
 ---  
- | 
+ | NVIDIA Privacy Policy
 
-  
-| | | NVIDIA Privacy Policy  
----  
-  
 This policy was last updated on February 25, 2008.
 
 NVIDIA respects the privacy of all visitors to its world wide family of NVIDIA-owned websites, including www.nvidia.com, www.slizone.com and www.nzone.com.
@@ -86,10 +83,3 @@ By using this website, you consent to the terms of our Online Privacy Policy and
 
 
 
-
-* * *
-
-  
-  
-  
- 
