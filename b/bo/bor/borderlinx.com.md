@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the borderlinx.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216145227id_/http%3A//www.borderlinx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the borderlinx.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219070623id_/http%3A//www.borderlinx.com/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
-
-## Privacy Policy
 
 Borderlinx is committed to maintaining customer privacy and maintaining the security of any personal data which we receive from you and retain on your behalf. 
 
@@ -34,7 +32,3 @@ Your rights
 (ii) You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us, enclosing a cheque for 10 Pounds, 16 Euros or 18 US Dollars payable to Borderlinx Ltd to cover our administration costs. 
 
 BPP V1.1 NOV06
-
-[Ready to Join?](http://www.borderlinx.com/cgi-bin/borderlinx/pprint.pl?efile=register&mode=s)
-
-[Back to homepage](http://www.borderlinx.com/index.html)
