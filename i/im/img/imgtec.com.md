@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imgtec.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509194250id_/http%3A//www.imgtec.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgtec.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219145638id_/http%3A//www.imgtec.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# Imagination Technologies - Developing and Licensing IP cores for Graphics, Video, Communications and Processing
+# Privacy Policy
 
   
 
