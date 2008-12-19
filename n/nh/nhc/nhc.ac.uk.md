@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the nhc.ac.uk privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502023710id_/http%3A//www.nhc.ac.uk/site/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhc.ac.uk privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219142250id_/http%3A//www.nhc.ac.uk/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement of North Hertfordshire College
+# Privacy
 
-|    
+## Privacy Statement of North Hertfordshire College
+
+|   
 ---|---  
   
 ## Information about our Organisation and Web site 
@@ -82,4 +84,4 @@ Hitchin,
 Herts, SG4 0JD  
 [privacy@nhc.ac.uk](mailto:privacy@nhc.ac.uk)
 
-If you are not satisfied with our response to your concern you may wish to contact Information Commissioner (<http://www.dataprotection.gov.uk/>).
+If you are not satisfied with our response to your concern you may wish to contact Information Commissioner (<http://www.dataprotection.gov.uk/>
