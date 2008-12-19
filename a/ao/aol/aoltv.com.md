@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the aoltv.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213052412id_/http%3A//about.aol.com/aolnetwork/aol_pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aoltv.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219073702id_/http%3A//www.aol.com/aolnetwork/aol_pp.html) for the most accurate reproduction.*
 
 # Privacy Policy - About AOL
+
+[](http://www.truste.org/ivalidate.php?url=www.aol.com&sealid=101)
 
 Thank you for registering your Screen Name to obtain enhanced access to the network of Web sites and services offered by AOL LLC ("AOL"). The AOL Network improves your online experience by offering you access to a variety of features, offerings and content. By registering your Screen Name, you gain access to the AOL Network, which consists of [AOL Enhanced Websites and Services](http://about.aol.com/aolnetwork/aol_enhanced.html) such as AIM Mail, and other content and offerings from the AOL Network's [affiliated providers](http://about.aol.com/aolnetwork/affiliates.html) (collectively the "AOL Network" or "Network").
 
@@ -104,4 +106,12 @@ The AOL Network may update this Privacy Policy from time to time, and so you sho
 
 Your California Privacy Rights: California privacy law allows California residents to obtain specific disclosures about a business's privacy practices if it shares information with other companies for direct marketing purposes. To make a request to the AOL Network under California's privacy law, please send an e-mail to: CAPrivacyInfoAN@aol.com.
 
-Last Updated 10-29-2007
+European Union Residents: AOL adheres to the EU-US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the [U.S. Department of Commerce's Safe Harbor Program](http://www.export.gov/safeharbor/). Click [here](http://about.aol.com/aolnetwork/safe_harbor) for more details.
+
+### TRUSTe
+
+The AOL Network is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe.
+
+If you have questions or concerns regarding this statement, you should first contact us at **PrivacyQuestions@aol.com**. If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+
+Last Updated 09-23-2008
