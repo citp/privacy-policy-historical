@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zoho.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611052125id_/http%3A//www.zoho.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoho.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219051958id_/http%3A//zoho.com/privacy.html) for the most accurate reproduction.*
 
-# Online Office, Word Processor, Spreadsheet, Presentation, CRM and more
+# Email Hosting, CRM, Project Management, Office Suite, Document Management and more
 
   
 
@@ -98,7 +98,7 @@ We make every effort including periodic reviews to ensure that Personal Informat
 ##   
 Notification of Changes 
 
-Any changes to the Zoho Privacy Policy will be posted on our websites in order to keep you informed of any changes in nature of information collected, manner of collection, use and sharing of information. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by email and provide you with the ability to opt out of these new uses unless you have opted out from receiving email notifications from us. You will not receive email notification of minor changes to the Zoho Privacy Policy. If you are concerned about how your information is used, you should check back at [http://www.zoho.com/privacy.html](https://web.archive.org/web/20080611052125id_/http%3A//www.zoho.com/privacy.html) periodically. 
+Any changes to the Zoho Privacy Policy will be posted on our websites in order to keep you informed of any changes in nature of information collected, manner of collection, use and sharing of information. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by email and provide you with the ability to opt out of these new uses unless you have opted out from receiving email notifications from us. You will not receive email notification of minor changes to the Zoho Privacy Policy. If you are concerned about how your information is used, you should check back at [privacy.html](https://web.archive.org/web/20081219051958id_/http%3A//zoho.com/privacy.html) periodically. 
 
 ##   
 END OF PRIVACY POLICY 
