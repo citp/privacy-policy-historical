@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esurveygroup.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528200136id_/http%3A//esurveygroup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esurveygroup.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219114306id_/http%3A//www.esurveygroup.com/privacy.php) for the most accurate reproduction.*
 
 # eSurveyGroup.com - A Short Survey Could Win You $100,000!
 
@@ -98,6 +98,8 @@ You further acknowledge that operates in the United States. You agree (i) to per
 .com may transfer, sell or assign information concerning your use of this Site, including without limitation, personally identifiable information that you provide and other information concerning your use of the Site, to third parties, as a result of a sale, merger, consolidation, changing control, transfer of substantial assets, reorganization or liquidation of .com. 
 
 or its successors and assigns may amend the terms and conditions of the Privacy Policy at any time, or substitute a different Agreement by posting a revised version, on the Sites. Please refer to our site periodically for updates. Amendments shall become effective upon posting. As we continue to develop our business, we might sell or buy certain assets. In such transactions, customer information generally is one of the transferred business assets. If or its assets are acquired, customer information will of course be one of the transferred assets. 
+
+We may sell, brand or share your personal information that you supply to us with other 3rd party businesses so they can bring selected retail opportunities via direct mail, e-mail or telemarketing for the privacy policy. 
 
 Contact Information: 
 
