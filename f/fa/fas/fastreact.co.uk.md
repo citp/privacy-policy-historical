@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastreact.co.uk privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510144215id_/http%3A//www.fastreact.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastreact.co.uk privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219120324id_/http%3A//www.fastreact.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Fastreact
 
@@ -49,3 +49,11 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Evolution House, Stephensons Way, The Wyvern, Derby, DE21 6LY.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+**Fast React** are specialist providers of Planning, Sourcing and Critical Path Management solutions specifically developed for the Apparel, Textiles and Footwear sectors where tight margins and short lead-times are commonplace.
+
+## Latest News
+
+Textured Jersey Lanka, one of Sri Lanka’s largest Weft knit fabric manufacturers goes live with FastReact planning alongside its SAP ERP solution. [More…](http://www.fastreact.co.uk/news-item/textured-jersey-goes-live-with-fastreact-planning-solution/90)
+
+[](http://www.fastreact.co.uk/includes/news_rss.xml) | What is RSS? 
