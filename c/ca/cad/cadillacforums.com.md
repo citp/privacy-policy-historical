@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cadillacforums.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229074944id_/http%3A//www.cadillacforums.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadillacforums.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219153020id_/http%3A//www.cadillacforums.com/privacy.html) for the most accurate reproduction.*
 
 # Cadillac Forums: The Cadillac web site for serious enthusiasts
 
@@ -30,7 +30,8 @@ Web Site and System Administration
 Completion and Support of Current Activity  
 This data may be shared with:  
 Ourselves and/or our agents  
-Data retained for indeterminate time. 
+Data retained for indeterminate time. Cookies and AdSense **:**
 
-Third Party Cookies  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
+Third parties, such as Google AdSense, may place and read cookies on your browser, or use web beacons to collect information, while serving ads on AssociatePrograms.com. 
+
+Here is how Google explains cookies: "A 'cookie' is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies."
