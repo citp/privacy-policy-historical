@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nursingcenter.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210234331id_/http%3A//nursingcenter.com/about/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nursingcenter.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220002319id_/http%3A//www.nursingcenter.com/about/privacypolicy.asp) for the most accurate reproduction.*
 
 # NursingCenter - About Us - Privacy Policy
 
@@ -28,7 +28,7 @@ We use contact information to notify winners and award prizes. Survey responses 
   
 ---|---  
 | Participating in public forums  
-NursingCenter may offer its members chat rooms, forums, interactive webcasts, message boards, and news groups. Please remember that these are public areas and that information you choose to disclose in them may be viewed by anyone, anywhere. Exercise caution when disclosing personal information in any of these areas.
+NursingCenter may offer its members chat rooms, forums, interactive webcasts, interactive job fairs and expos, message boards, and news groups. Please remember that these are public areas and that information you choose to disclose in them may be viewed by anyone, anywhere. Exercise caution when disclosing personal information in any of these areas.
 
 NursingCenter cannot be held accountable for information willingly shared in a public forum or other area because the information can be viewed by other members and anonymous parties over whom NursingCenter has no control. Keep in mind at all times that information shared by other users in a public area is never examined by the clinical and editorial experts at NursingCenter for accuracy, appropriateness, and currentness. NursingCenter cannot be held liable for events arising from the use of information in a public forum.  
   
@@ -39,7 +39,7 @@ When purchasing a product or service from NursingCenter, you will be asked to pr
 | 
 
 Registration Form  
-NursingCenter collects personal information, including email address, when visitors register on the site to become members.  This information allows us to present you with a more customized experience on NursingCenter, including offers, products and services from NursingCenter, Lippincott Williams & Wilkins, and third parties whom we deem appropriate.  We comply with the provisions of the CAN-SPAM Act of 2003 and will not provide your email address to any outside parties without your express consent.  You may unsubscribe from any email series by following the instructions in the email, or by sending an unsubscribe request to [editor@nursingcenter.com](mailto:editor@nursingcenter.com).  
+NursingCenter collects personal information, including email address, when visitors register on the site to become members.  This information allows us to present you with a more customized experience on NursingCenter, including offers, products and services from NursingCenter, Lippincott Williams & Wilkins, and third parties whom we deem appropriate.  We comply with the provisions of the CAN-SPAM Act of 2003 and will not provide your email address to any outside parties without your express consent.  You may unsubscribe from any email series by following the instructions in the email, or by sending an unsubscribe request to [editor@nursingcenter.com](mailto:editor@nursingcenter.com). If you no longer wish to receive _any_ email correspondence from NursingCenter other than purchase confirmations, please send an email to [editor@nursingcenter.com](mailto:editor@nursingcenter.com?subject=Unsubscribe%20All) with the subject line: Unsubscribe All.  
   
 ---|---  
 | Sharing information with third parties  
