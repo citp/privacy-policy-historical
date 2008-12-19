@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipostad.com privacy policy that was archived on 2008-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080426054203id_/http%3A//www.ipostad.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipostad.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220000407id_/http%3A//www.ipostad.com/privacy.html) for the most accurate reproduction.*
 
 # None
 
