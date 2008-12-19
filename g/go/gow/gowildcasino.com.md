@@ -1,67 +1,64 @@
-> *The following text is extracted and transformed from the gowildcasino.com privacy policy that was archived on 2008-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080212050237id_/http%3A//www.idotz.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowildcasino.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219132652id_/http%3A//www.gowildcasino.com/privacypolicy.html) for the most accurate reproduction.*
 
-# iDotz.Net - Domain Name Registrar: Cool Domains @ Great Prices!
+# GoWild Casino | Privacy Policy
 
-  **iDotz.Net™ Privacy Policy  
-   **(effective July 1, 2002) 
+  
+This website (the “Site”) is operated by and information collected from this Site is collected by GoWild Malta Ltd, a company incorporated and based in Malta (company registration no. C43606) (“GoWild”, “us” or “we”). 
 
-  This notice describes our privacy policy. By visiting our Web site or by otherwise interacting with dotFM, you agree to accept the practices described in this Privacy Policy. For questions on the Privacy Policy please contact 
+GoWild respects the privacy of its online visitors and users of the Site. 
 
-[privacy@idotz.net](mailto:privacy@idotz.net).
+GoWild recognises the importance of protecting certain information collected from users and has adopted this Privacy Policy to explain how GoWild gathers, stores, and uses information provided by users through the Sites as described below.
 
-  Your privacy is very important to iDotz.Net, a division on BRS Media Inc., which owns all information collected from the site and is a registrar of domain names. iDotz.Net also offers other supplementary products and services (the "Service"). We recognize your right to confidentiality and are committed to protecting your privacy. This privacy statement describes how we collect information, how we use the information we collect, and to whom and under what conditions we may disclose this information. This statement reflects our concern with your privacy. Please understand that the following statement applies to www.idot.net only. 
+If you use the Site, you are accepting the terms and conditions of this Privacy Policy, and GoWild will have the right to use your information as described in this Privacy Policy. 
 
-  When you use our Service, iDotz.Net asks for your first and last name, organization, city, state, zip code (or country and postal code for non-U.S. residents), telephone number, e-mail address, and credit card information. We may use this personally identifiable information to contact you about your account or other matters relating to the Service, such as to inform you about new features on our Site. We may also use this personally identifiable information to send you our newsletter or e-mail messages regarding products or services we think you might be interested in. (See below for instructions on how you can "opt out" of our newsletter or these e-mail messages.) These communications are essential to our relationship with you and to our ability to provide you with quality products and services that are responsive to your needs. At the same time, these communications, and your responses to them, give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use. When you utilize the Service, we may also ask you for a "screen name." Although we may not use it now, the screen name you select may appear on the web site in connection with future services we provide. 
+If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Site. We reserve the right to modify this Privacy Policy at any time.   
+Your continued use of the Site, after we either personally notify you or generally post changes on the Site, will constitute your acceptance of those changes. 
 
-  Like many other commercial web sites, our Site employs a standard technology called a "cookie" to collect information about how our Site is used, such as which pages are the most frequently visited by our customers. "Cookies" are small pieces of electronic information that are stored by your browser on your computer's hard drive. Cookies enable our systems to recognize your browser and provide personalized information and features such as pre-populated address forms and storage of selected items in your Shopping Cart between visits. Cookies are required for normal website functionality, and most web browsers automatically accept cookies, although you can usually change your browser to deactivate cookies by modifying your computer browser preferences. If you choose to deactivate cookies, please note that deactivation of cookies will sometimes hinder your ability to use some features available from the Service. Through the use of cookies, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of your access to various parts of the Site. We may collect the information passed along by your web browser that references the Web URL you linked from, the time, type of web browser being used, screen size, Internet speed of connection, the operating system/platform, and CPU speed. This information may be used to identify demographic trends and to provide information tailored to your interests. 
+A cookie is a file containing electronic information which stored on a user’s hard drive to provide information needed by the user on a regular basis.   
+Cookies are often used to save website customisations and website login information. GoWild only uses cookies for the operation of the Site. An IP address is a number that uniquely identifies your computer on the internet. 
 
-  Cookies may also be utilized by third parties who advertise or provide links on the Site. Due to the way the Internet technically operates, iDotz.Net cannot the control data collection activities by such third-party advertisers or linked web sites. You should contact these advertisers or web site operators if you have any questions about their use of the information they collect. Also, if you register a domain name through another registrar, you may receive a cookie from that registrar, but you will not receive a cookie from us. 
+GoWild may collect IP addresses for the purposes of system administration, security, troubleshooting, and compiling aggregate information (such as how many visitors logged on to the Site). When you visit a particular web page on the Site, our servers may log your IP address.
 
-Registrants may elect not to receive e-mail communications from iDotz.Net regarding other products or services provided by iDotz.Net or BRS Media Inc. To do so, please send an email to 
+Any information that is disclosed in a public area of the Site by users is public information and users should exercise caution when deciding to disclose personal information on the Site. 
 
-[privacy@idotz.net](mailto:privacy@idotz.net) that reads, "Remove from E-mail List." You can also fax us at +1 (415) 677-4025 or send us mail at:
+If you voluntarily disclose information in a public area of the Site, such as a message board, that information may be collected and used by a third-party to send you unsolicited messages, advertisements or for other purposes. We do not control the actions of these third parties in public areas of the Site, so if you disclose information in a public area, you do so at your own risk.
 
-BRS Media Inc.  
-Attention: iDotz.Net Opting Out  
-55 New Montgomery St. Suite 622  
-San Francisco, CA 94105-3432
+GoWild may use customer contact information provided by you to send information about GoWild and the products, Services and/or Sites for which you subscribed or otherwise used or accessed, including news about product updates, contests, events, and other promotional materials. If you have given us your consent, we will also send communications for unrelated products or Services. 
 
- iDotz.Net understands that security is important to our users. The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. When you transmit personal information to us, we encrypt it using SSL (Secure Socket Layer), the industry standard for encryption software. Encryption provides a secure means to protect your information as it passes over the web to our server. iDotz.Net utilizes Thawte SSL Web Server Certificates to offer secure communications by encrypting all data to and from the site. You can verify this certificate by clicking here: 
+GoWild provides users the opportunity to opt-out of receiving communications from GoWild when you are asked to provide information to us. In addition, GoWild gives users the option of discontinuing receipt of communications from GoWild. 
 
-iDotz.Net Certificate
+Instructions for discontinuing receipt of communications from GoWild will be made available with each communication from GoWild or on the related Site.
 
- iDotz.Net will use commercially available and acceptable means to protect any information you provide, but cannot ensure or warrant the security of any information you transmit to us from our products and services, and you do so at your own risk. iDotz.Net will not be liable for disclosures of your personal information due to errors in transmission or unauthorized acts of third parties.
+GoWild will take reasonable steps to protect the information users share with us. We use a variety of security technologies and procedures to help protect your personal information from unauthorised access, use or disclosure. 
 
-  As the registrar of domain names, we may make certain information about you available to the general public via our domain name look-up and directory "whois" service (e.g., name, address, telephone and email of the Registrant). Additionally, we may share the information stored on that database, as well as other information we collect or you provide, with our subsidiaries and other parties selected by us, including with the parties or circumstances including, but not limited to: 
+We may require your personal information for access to certain parts of the Site and related products or Services. We may collect your personal information when you: (a) register to become a member or user of our Services; (b) voluntarily provide it when you use the Site; (c) disclose it in a public area of the Site; or (d) provide it when you communicate with us.
 
-   · Agents or vendors who are responsible for handling your Account or performing  
-     other necessary service that you or we require. 
+If you register to become a member or user of our Services through the Site, we may use the personal information that you provide for billing purposes, and to administer and manage your account and provide promotional updates regarding such products or Services as contemplated above. 
 
-   · Business partners whose services you may request or access on or through our  
-     Site. 
+GoWild may send out periodic e-mails informing you of technical, Service or security issues related to a product or Service you requested, confirming you requested a product or Service, or providing periodic updates or information relating to the product or Service you requested. For so long as you are subscribed to a Service, you will not be able to choose to unsubscribe from these mailings, as they are considered an essential part of the Service you have chosen. 
 
-   · Business partners or vendors who we believe offer products or services that may  
-     be of interest to you. 
+GoWild may occasionally hire other companies to provide limited Services on our behalf, including without limitation, identity verification, payment processing and the provision of software. GoWild will only provide these companies that information which is reasonably required to perform the Service, and they will be prohibited from using that information for any other purpose. 
 
-   · Transfer of ownership of our business or a part of our business. If our business  
-     or a part of our business is acquired, sold or transferred to another business,  
-     customer information may be a part of that acquisition, sale or transfer. 
+Generally, when our third-party contrac
 
- _Protection of iDotz.Net and Others_ : We may release personally identifiable information and/or non-personally-identifiable account information if required to do so by law, subpoena, search warrant, court order or other government or law enforcement authority or regulatory agency, including ICANN; to enforce or apply our Services Agreement or other agreements; or when we believe in good faith that disclosing this information is necessary or advisable, including, for example, to protect the rights, property, or safety of BRS Media Inc., iDotz.Net, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+tors or partners collect and/or have access to your personal information we require that they adhere to our stated privacy policies and protect the confidentiality of your personal information. 
 
- If you do not want us to share personally identifiable information about you with our business partners or vendors, you may send us e-mail at 
+GoWild may elect to share your personal information with qualified third-party partners for marketing or other similar purposes but only where you agree to share such information. Such partners will be prohibited from disclosing or using such information except for the limited purposes which the users have consented to. 
 
-[ privacy@idotz.net](mailto:privacy@idotz.net). You may not opt out from having your personal information displayed in our "whois" database.
+The Site contains links to third-party websites. When you follow these links you leave the Site and are transferred to a third party website. You should be aware that these third-party websites may have their own information collection practices and privacy policies. We do not control the privacy policies of third parties that have websites linked to the Site.
 
-  We may enter into agreements to allow third party registrars of domain. When users register domain names through these third party registrars, we will transfer the registration information collected during the registration process to the domain Registry. We may also be required to submit this information to ICANN (Internet Corporation for Assigned Names and Numbers), or other regulatory bodies.
+If you follow a third-party advertisement or link, the privacy policies of the third-party website that you link to will govern the use of your information by that website’s operator. The Privacy Policy does not extend to these external websites and companies. Please refer directly to the privacy policies on such third party websites. 
 
-  Although iDotz.Net is committed to protecting your privacy, not all other Web sites are as conscientious. Therefore, iDotz.Net cannot be responsible for the content or privacy policies of other Web sites including those of advertisers to which it may link and those which link to iDotz.Net. This Privacy Policy applies only to the information collected by this Web site. We ask that you review the privacy policies of every online service you use before submitting personal information. 
+We assume no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise. Accordingly, please make sure you are aware of and comfortable with the privacy policies of any third-party websites to which you are transferred by following a link. 
 
-  We welcome your feedback. If you have questions or comments about our privacy policies, please feel free to send us an e-mail at 
+GoWild may disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process or any governmental request; (b) protect and defend the rights or property of GoWild or its affiliated companies; (c) enforce the Terms and Conditions; or (d) act in urgent circumstances to protect the personal safety of GoWild’s employees, users of the Site, or members of the public. 
 
-[privacy@idotz.net](mailto:privacy@idotz.net) or by mail at:
+By using the Site, users agree that GoWild may share with other parties aggregate information and non-identifiable information gathered by GoWild in the course of the continuing use of the Site. Aggregate information or non-identifiable information may be used to improve the Site, for internal marketing studies, or simply to collect demographic information about users. 
 
-BRS Media Inc.  
-Attention: iDotz.Net Privacy Policy  
-55 New Montgomery St. Suite 622  
-San Francisco, CA 94105-3432
+Although we will use reasonable efforts to safeguard the privacy of your information, transmissions on the internet cannot be made absolutely secure. Accordingly, we assume no responsibility or liability for disclosure of any of your information due to errors in transmission, unauthorised third-party access or other causes beyond our reasonable control. 
+
+Please remember that protection of your privacy begins with you. You are solely responsible for maintaining the secrecy of any account ID or password you use to register, and you should always be careful and responsible whenever disclosing information online. 
+
+Corrections, Updates and Removal of Information If you are concerned with the accuracy of the personal information provided by you and maintained by GoWild or would like your personal information removed from GoWild records, you may use the tools made available on the Site to update or remove such information. 
+
+GoWild reserves the right to charge a reasonable fee for supplying copies of such information. If you choose to delete your personal information, you may not be able to access some areas of the Site and/or Services to which you have subscribed. We will not provide a refund for any prepaid Service which is inaccessible to you because of the deletion of your personal information. We may, however, still retain your personal information in our files to resolve disputes, to enforce our user agreement, and to comply with any and all technical and legal requirements and constraints related to the security, integrity and operation of the Site.
