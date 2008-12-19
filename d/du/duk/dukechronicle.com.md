@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dukechronicle.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609085916id_/http%3A//www.dukechronicle.com/user/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dukechronicle.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219224059id_/http%3A//www.dukechronicle.com/user/privacypolicy) for the most accurate reproduction.*
 
 # The Chronicle
 
