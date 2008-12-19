@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netstarter.com.au privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222224219id_/http%3A//www.netstarter.com.au/website_privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netstarter.com.au privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219161456id_/http%3A//www.netstarter.com.au/Content_Common/pg-website-privacypolicy.seo) for the most accurate reproduction.*
 
 # Web design Sydney Australia - Net Starter website site map
 
@@ -14,7 +14,7 @@ Net Starter provides this Online Privacy Statement to make you aware of our priv
 
 **3\. What we collect**
 
-On some Net Starter web sites, you can subscribe to different events and seminars, make requests, and register to receive materials. The types of personal information collected at these pages are name, contact and some preference information. 
+On some Net Starter [web sites](http://www.netstarter.com.au/), you can subscribe to different events and seminars, make requests, and register to receive materials. The types of personal information collected at these pages are name, contact and some preference information. 
 
 In order to tailor our subsequent communications to you and continuously improve our products and services (including registration), we may also ask you to provide us with information regarding your professional interests, demographics and more detailed contact preferences. 
 
