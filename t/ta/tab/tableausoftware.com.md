@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tableausoftware.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514194955id_/http%3A//www.tableausoftware.com/about/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tableausoftware.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219190503id_/http%3A//www.tableausoftware.com/about/policies) for the most accurate reproduction.*
 
 # Policies
 
@@ -33,15 +33,6 @@ Any information Tableau determines to be inaccurate, unhelpful or inappropriate 
 Please note that with each post, your IP address is recorded, in the event that you need to be banned from this forum or your ISP contacted. This will only happen in the event of a major violation of this agreement. 
 
 Also note that Tableau’s online forums place a cookie, a text file containing bits of information (such as your username and password), in your browser's cache. The collection and usage of this information is governed by Tableau’s Privacy Policy. 
-
-## Return and Cancellation
-
-To request a return, please follow the steps below:
-
-1\. Request a Letter of Destruction (LOD) via email at [customerservice@tableausoftware.com](mailto:customerservice@tableausoftware.com)  
-2\. A LOD will be emailed to you.  
-3\. Follow the instructions in the email. These instructions will inform you how to submit your LOD.  
-4\. Upon receiving the LOD, the returns department will validate the return according to our policy.
 
 ## Questions and Suggestions
 
