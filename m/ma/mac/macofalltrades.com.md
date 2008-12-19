@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the macofalltrades.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225153247id_/http%3A//www.macofalltrades.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macofalltrades.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219161523id_/http%3A//www.macofalltrades.com/Terms_privacy.asp) for the most accurate reproduction.*
 
 # Sell & Buy Used Macs - Refurbished Apple Desktop, Apple Notebooks, Peripherals - Mac Of All Trades
 
-**Privacy Policy**
+**
 
-All information managed through our website is routed through 100% secure servers and remains confidential. We have a VeriSign Secure Site and are members of The Better Business Bureau Online Reliability Program (please go to our home page to verify). Our system monitors attempted fraudulent transactions and automatically releases evidence to the proper authorities. 
+**
 
-**What information do we collect?**
+All information managed through our website is routed through 100% secure servers and remains confidential. We have a VeriSign Secure Site and are members of The Better Business Bureau Online Reliability Program (please go to our home page to verify). Our system monitors attempted fraudulent transactions and automatically releases evidence to the proper authorities.
+
+ **What information do we collect?**
 
   * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature. 
   * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously. 
@@ -71,7 +73,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms of Use](https://web.archive.org/web/20071225153247id_/http%3A//www.macofalltrades.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms of Use](https://web.archive.org/web/20081219161523id_/http%3A//www.macofalltrades.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
