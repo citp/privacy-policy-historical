@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the taxactonline.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509134515id_/http%3A//www.taxactonline.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxactonline.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219102551id_/http%3A//www.taxactonline.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # TaxACT Online Truste Privacy Policy Statement
 
 **www.taxactonline.com** is the web site of **2nd Story Software, Inc.**
 
 Our postal address is  
- **5925 Dry Creek Lane NE  
+ **1425 60th Street NE, Suite 300  
 Cedar Rapids, IA 52402**
 
 We can be reached via e-mail at customerservice@taxact.com  
@@ -58,7 +58,7 @@ In addition, on October 15 of each year, the IRS no longer accepts e-filed retur
 
 Our primary concern is that your tax return and other personal information (including email address) is private and secure. At 2nd Story Software we use the industry-standard Secure Socket Layers (SSL) protocol which provides data encryption, message integrity, and server authentication when your data is sent to us. When you see a small lock in the bottom right or left corner of your browser window, you know your data is being encrypted for transmission.
 
-All information (including email address) you enter while using TaxACT Online is used strictly by 2nd Story Software, Inc. to provide the services requested by our customers. We maintain physical, electronic, and procedural safeguards to protect your personal information (including email address). All data is stored on 2nd Story Software servers and is backed up to prevent the loss of data. Electronically filed returns, which are further encrypted, are sent directly from 2nd Story Software to the IRS via a secure connection. Access to (and the use thereof) personally identifiable customer information (including email address) is restricted to authorized personnel and is permitted only when prompted by you, or as dictated by service, support, and/or fulfillment requirements. **2nd Story Software, Inc. will not sell or rent your name or other personal information (including email address) to any third party in ways other than disclosed in this privacy statement. Personally identifiable information (including email address) is only shared with third party intermediaries providing they have been contracted to act on 2nd Story Software's behalf or to carry out a specific function. Under these circumstances, third party intermediaries may not sell or transfer this information nor may they use information for any secondary purpose.**
+All information (including email address) you enter while using TaxACT Online is used strictly by 2nd Story Software, Inc. to provide the services requested by our customers. We maintain physical, electronic, and procedural safeguards that comply with applicable law and federal standards. All data is stored on 2nd Story Software servers and is backed up to prevent the loss of data. Electronically filed returns, which are further encrypted, are sent directly from 2nd Story Software to the IRS via a secure connection. Access to (and the use thereof) personally identifiable customer information (including email address) is restricted to authorized personnel and is permitted only when prompted by you, or as dictated by service, support, and/or fulfillment requirements. **2nd Story Software, Inc. will not sell or rent your name or other personal information (including email address) to any third party in ways other than disclosed in this privacy statement. Personally identifiable information (including email address) is only shared with third party intermediaries providing they have been contracted to act on 2nd Story Software's behalf or to carry out a specific function. Under these circumstances, third party intermediaries may not sell or transfer this information nor may they use information for any secondary purpose.**
 
 ## Third Party Intermediaries
 
