@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blogshares.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628002959id_/http%3A//blogshares.com/wikihelp/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogshares.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219111947id_/http%3A//blogshares.com/wikihelp/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | BlogShares Help System
 
-System Time: 17:06 27 Jun 2008 - 9 Players Online
+System Time: 03:12 19 Dec 2008 - 5 Players Online
 
 [Category](https://web.archive.org/wikihelp/Special:Categories "Special:Categories"): [Official Pages](https://web.archive.org/wikihelp/Category:Official_Pages "Category:Official Pages")
 
