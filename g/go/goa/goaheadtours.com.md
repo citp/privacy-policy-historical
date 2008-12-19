@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goaheadtours.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609193358id_/http%3A//www.goaheadtours.com/content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goaheadtours.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219052059id_/http%3A//www.goaheadtours.com/content/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | Go Ahead Tours
 
@@ -48,5 +48,8 @@ You can also update or correct factual information about your account by contact
 **Your Consent**  
 By using our website, you consent to the collection and use of this information by goaheadtours.com. If we decide to change our privacy policy, we will post any changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
-**How To Contact Us  
+**Contest Rules  
+** For contest rules and regulations click here: [goaheadtours.com/contest](http://www.goaheadtours.com/contest/)
+
+ **How To Contact Us  
 ** Should you have other questions or concerns about these privacy policies, please call us at **1-800-597-0350** or contact us online. 
