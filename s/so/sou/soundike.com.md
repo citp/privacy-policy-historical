@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundike.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615010206id_/http%3A//www.soundike.com/help3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundike.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219225829id_/http%3A//www.soundike.com/help3.html) for the most accurate reproduction.*
 
 # Soundike.com Help
 
@@ -30,7 +30,7 @@ Service soundike.com in its work operates with IP-addresses of the visitors and 
 
 Exemption from Liability
 
-soundike.com can disclose your Personal Information only in cases stipulated by the Laws of Kazahstan.
+soundike.com can disclose your Personal Information only in cases stipulated by the Laws of Russian Federation.
 
 soundike.com can contain links to the web sites of 3rd parties. soundike.com doesn't take any responsibility for functioning and the resources of those sites, and also the possible damage caused by working with them.
 
