@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ico.gov.uk privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624065251id_/http%3A//www.ico.gov.uk/Global/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ico.gov.uk privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219100820id_/http%3A//www.ico.gov.uk/Global/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Privacy statement
 
