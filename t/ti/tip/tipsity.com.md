@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the tipsity.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615154532id_/http%3A//www.tipsity.com/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipsity.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219020610id_/http%3A//www.tipsity.com/general/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Tips. Tax Tips, sedu beauty tips, VOIP tips, investment tips, interview tips
-
-<div class="ad-auto-inserted" style="float:left; margin: 0 1em .25em 0;">
-
-</div>
 
 The privacy of our visitors to [http://www.tipsity.com](http://www.tipsity.com/) is important to us. 
 
@@ -21,6 +17,5 @@ We also use third party advertisements on [http://www.tipsity.com](http://www.ti
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
   
+  
 
-
-<br class="clear"/>
