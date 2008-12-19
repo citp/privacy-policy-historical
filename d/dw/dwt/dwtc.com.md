@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dwtc.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607204803id_/http%3A//www.dwtc.com/Home/PrivacyPolicy_en_gb.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwtc.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219010457id_/http%3A//www.dwtc.com/PrivacyPolicy_en_gb.aspx) for the most accurate reproduction.*
 
 # DWTC - Privacy Policy
-
-[Home](https://web.archive.org/web/20080607204803id_/http%3A//www.dwtc.com/Default_en.html) > Privacy Policy 
 
 Dubai World Trade Centre L.L.C. respects your privacy and is committed to protecting it. We provide this Privacy Statement to inform you of our Privacy Policy and practices, and of the choices you can make about what information is collected, the manner in which that information is collected and how that information is used.
 
