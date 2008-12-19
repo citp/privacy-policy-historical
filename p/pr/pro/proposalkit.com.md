@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the proposalkit.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509164454id_/http%3A//www.proposalkit.com/htm/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proposalkit.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219210934id_/http%3A//www.proposalkit.com/htm/policy.htm) for the most accurate reproduction.*
 
 # Proposal Kit Privacy Policies
 
-We do not give out any personal information to any companies. We do not rent, sell or share in any way any information provided to us by customers or web site visitors.
+We do not give out any personal information to any companies ***. We do not rent, sell or share in any way any information provided to us by customers or web site visitors.
+
+*** If you have purchased a 3rd party product resold on Proposal Kit which requires activation codes, your name and email will be sent to that company to register the product and obtain activation codes and download instructions for their software.
 
 In cases of fraud any personal information submitted will be sent to the appropriate authorities, merchant processors, banks, etc. as needed. 
 
