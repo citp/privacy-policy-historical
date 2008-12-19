@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the ljworld.com privacy policy that was archived on 2008-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080513165106id_/http%3A//www2.ljworld.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ljworld.com privacy policy that was archived on 2008-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219053524id_/http%3A//www2.ljworld.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"><html lang="en"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="verify-v1" content="gH80Ag1lqccG7ja9rd9z9OVq+8uJ+3fJZ2MidSps9r0=">
 	<title>LJWorld.com / Privacy policy</title>
   
 
@@ -19,6 +20,7 @@
 	<script type="text/javascript" src="http://media.ljworld.com/javascript/widget/show-hide.js"></script>
 	<script type="text/javascript" src="http://media.ljworld.com/javascript/widget/popup-link.js"></script>
 	<script type="text/javascript" src="http://media.ljworld.com/javascript/util/cookies.js"></script>
+  <script type="text/javascript" src="http://media.ljworld.com/scripts/swfobject2.js"></script>
 	
 
 	<script type="text/javascript">
@@ -33,6 +35,7 @@
       if (document.getElementById('living_nav')) var living_drop = new WOL.widget.popupMenu('living_nav', 'off', 'on');
       if (document.getElementById('opinion_nav')) var opinion_drop = new WOL.widget.popupMenu('opinion_nav', 'off', 'on');
       if (document.getElementById('multimedia_nav')) var multimedia_drop = new WOL.widget.popupMenu('multimedia_nav', 'off', 'on');
+      if (document.getElementById('help_nav')) var help_drop = new WOL.widget.popupMenu('help_nav', 'off', 'on');
 
       
     }
@@ -43,7 +46,8 @@
   <link type="application/rss+xml" href="http://www2.ljworld.com/rss/headlines/news/" rel="alternate" title="RSS">
   
 
-  <link type="text/css" rel="stylesheet" href="http://media.ljworld.com/stylesheets/base.css">
+  <link type="text/css" rel="stylesheet" href="http://media.ljworld.com/stylesheets/base.css?date=20081218">
+    
   <!--[if lt IE 7]>
     <script src="http://media.ljworld.com/weather.js" type="text/javascript"></script>
     <link type="text/css" rel="stylesheet" href="http://media.ljworld.com/stylesheets/ie.css">
@@ -53,266 +57,281 @@
 </head>
 
 <body class="" id="ljworld">
+<div id="page">
+	
 
+	<div id="toolbar">
+	  <div class="block">
+	    <div id="toolbar_user">
+	      
+	      <p><a href="/accounts/login/" title="Sign into the Lawrence Journal-World">Sign in.</a></p>
+	      
+	    </div><!-- /toolbar_user -->
 
-
-<div id="toolbar">
-  <div class="block">
-    <div id="toolbar_user">
-      
-      <p><a href="/accounts/login/" title="Sign into the Lawrence Journal-World">Sign in.</a></p>
-      
-    </div><!-- /toolbar_user -->
-
-    
+	    
 <div id="toolbar_weather">
   
-  <p><a href="http://www.6newslawrence.com/weather/" class="icon"><img id="weatherImage" src="http://media.ljworld.com/images/weather/fog.png" alt="Haze"></a>
-    <a href="http://www.6newslawrence.com/weather/">68° <span class="conditions">Haze</span></a></p>
-  <p class="forecast"><a href="http://www.6newslawrence.com/weather/">See complete forecast</a></p>
+  <p><a href="/weather/" class="icon"><img id="weatherImage" src="http://media.ljworld.com/images/weather/overcast-night.png" alt="Overcast"></a>
+    <a href="/weather/">34° <span class="conditions">Overcast</span></a></p>
+  <p class="forecast"><a href="/weather/">See complete forecast</a></p>
   
 </div>
 
 
-    <div id="toolbar_search">
-      <form action="/search/" method="get" name="toolbar_search_form">
-      <p><input type="text" name="q" value="" id="search">
-        <input type="hidden" name="sortby" value="date">
-        <a href="#" onclick="document.toolbar_search_form.submit();">Search</a></p>
-      <div class="menu">
-        <a class="menu-button" href="#search_menu">menu</a>
-        <div id="search_menu" class="off">
-          <ul>
-            <li><a href="/search/">Advanced Search</a></li>
-            <li><a href="/news/today/">Archives</a></li>
-            <li><a href="/sitemap/">Site map</a></li>
-          </ul>
-        </div>
-      </div>
-      </form>
-    </div>
+	    <div id="toolbar_search">
+	      <form action="/search/" method="get" name="toolbar_search_form">
+	      <p><input type="text" name="query" value="" id="search">
+	        <a href="#" onclick="document.toolbar_search_form.submit();">Search</a></p>
+	      <div class="menu">
+	        <a class="menu-button" href="#search_menu">menu</a>
+	        <div id="search_menu" class="off">
+	          <ul>
+	            <li><a href="/search/">Advanced Search</a></li>
+	            <li><a href="/news/today/">Archives</a></li>
+	            <li><a href="/sitemap/">Site map</a></li>
+	          </ul>
+	        </div>
+	      </div>
+	      </form>
+	    </div>
 
-    <div id="marketplace-pin"></div><!-- hack -->
-  </div>
-</div>
+	    <div id="marketplace-pin"></div><!-- hack -->
+	  </div>
+	</div>
 
-<div id="header">
-  
-  <div class="block">
-    <h1><a href="/">LJWorld.com</a></h1>
-    
-    <ul id="nav-temp">
-      <li id="news_nav">
-        <span>
-          <a href="/news/today/">News</a>
-          <a class="menu-button" href="#news_drop"><img class="arrow" src="http://media.ljworld.com/images/arrows/menu-blank.gif" title="" alt=""></a>
-        </span>
-        <div class="dropdown off" id="news_drop">
-          <a href="/news/today/">Today's news</a>
-          <a href="/news/weather/">Weather</a>
-          <a href="/news/lawrence/">Local news</a>
-		  <a href="/obits/">Obituaries</a>
-		  <a href="/news/lawrence/government/city_hall/">City hall</a>
-		  <a href="/news/business/">Business</a>
-          <a href="/news/state_regional/">State &amp; regional</a>
-          <a href="/news/politics/kansas_legislature/">Kansas government</a>
-          <a href="/news/nation_world/">Nation &amp; World</a>
-          <a href="/news/crime_fire_courts/">Crime, fire &amp; courts</a>
-          <a href="/news/lawrence/gasoline/">Pump patrol</a>
-          <a href="/news/education/">Schools &amp; education</a>
-          <a href="/news/education/ku/">KU news</a>
-          <a href="/news/education/haskell/">Haskell</a>
-          <a href="/couples/">Couples</a>
-          <a href="/births/">Births</a>
-          <a href="/qa/sound_off/">Sound off</a>
-          <a href="/special_coverage/">Special features</a>
+	<div id="header">
+	  
+	  <div class="block">
+	    <h1><a href="/">LJWorld.com</a></h1>
+	    
+	    <ul id="nav-temp">
+	      <li id="news_nav">
+	        <span>
+	          <a href="/news/today/" class="news">News</a>
+	          <a class="menu-button" href="#news_drop"><img class="arrow" src="http://media.ljworld.com/images/arrows/menu-blank.gif" title="" alt=""></a>
+	        </span>
+	        <div class="dropdown off" id="news_drop">
+	          <a href="/news/today/">Today's news</a>
+	          <a href="/weather/">Weather</a>
+	          <a href="/news/lawrence/">Local news</a>
+			  <a href="/obits/">Obituaries</a>		
+			  <a href="/events/">Events</a>
+			  <a href="/news/lawrence/government/city_hall/">City hall</a>
+			  <a href="/news/business/">Business</a>
+	          <a href="/news/state_regional/">State &amp; regional</a>
+	          <a href="/news/politics/kansas_legislature/">Kansas government</a>
+	          <a href="/news/nation_world/">Nation &amp; World</a>
+	          <a href="/news/crime_fire_courts/">Crime, fire &amp; courts</a>
+	          <a href="/news/lawrence/gasoline/">Pump patrol</a>
+	          <a href="/news/education/">Schools &amp; education</a>
+	          <a href="/news/education/ku/">KU news</a>
+	          <a href="/news/education/haskell/">Haskell</a>
+                  <a href="/releases/">Press Releases</a>
+	          <a href="/couples/">Couples</a>
+	          <a href="/births/">Births</a>
+	          <a href="/qa/sound_off/">Sound off</a>
+	          <a href="/special_coverage/">Special features</a>
 
-        </div>
-      </li>
-      <li id="sports_nav">
-        <span>
-          <a href="/news/sports/">Sports</a>
-          <a class="menu-button" href="#sports_drop"><img class="arrow" src="http://media.ljworld.com/images/arrows/menu-blank.gif" title="" alt=""></a>
-        </span>
-        <div class="dropdown off" id="sports_drop">
-          <a href="http://www.kusports.com/">Jayhawks</a>
-          <a href="/news/sports/college/haskell/">Haskell</a>
-          <a href="/news/high_school_sports/">High school</a>
-          <a href="/news/sports/game/">Game (Youth sports)</a>
-          <a href="/news/sports/professional/">Professional</a>
-          <a href="/news/sports/columns/">Columns</a>
-        </div>
-      </li>
-      <li id="ae_nav">
-        <span>
-          <a href="/news/ae/">Arts &amp; Entertainment</a>
-          <a class="menu-button" href="#ae_drop"><img class="arrow" src="http://media.ljworld.com/images/arrows/menu-blank.gif" title="" alt=""></a>
-        </span>
-        <div class="dropdown off" id="ae_drop">
-          <a href="/news/entertainment/movies/">Movies</a>
-          <a href="/news/entertainment/television/">TV</a>
-          <a href="/news/arts/music/">Music</a>
-          <a href="/extra/comics/">Comics</a>
-          <a href="/extra/crossword/">Crossword</a>
-          <a href="/sudoku/">Sudoku</a>
-          <a href="/news/arts/visual_arts/">Visual arts</a>
-          <a href="/news/arts/literature/">Literature</a>
-          <a href="/news/arts/theatre/">Theatre</a>
-          <a href="/news/arts/dance/">Dance</a>
-          <a href="/events/search/?category=Art">Arts events</a>
-        </div>
-      </li>
-      <li id="living_nav">
-        <span>
-          <a href="/news/living/">Living</a>
-          <a class="menu-button" href="#living_drop"><img class="arrow" src="http://media.ljworld.com/images/arrows/menu-blank.gif" title="" alt=""></a>
-        </span>
-        <div class="dropdown off" id="living_drop">
-		  <a href="/news/living/religion/">Faith</a>
-          <a href="/news/living/18_under/">18 and under</a>
-          <a href="/news/living/food/">Food</a>
-          <a href="/news/living/travel/">Travel</a>
-          <a href="/news/living/seniors/">Seniors</a>
-          <a href="/news/living/home_garden/">Home &amp; Garden</a>
-          <a href="/news/living/outdoors/">Outdoors</a>
-          <a href="/news/living/pets/">Pets</a>
-          <a href="/news/lawrence/volunteering/">Volunteers</a>
-          <a href="/news/living/shopping/antiques_collectibles/">Antiques</a>
-          <a href="/news/living/health/">Health</a>
-	 	  <a href="http://www.boomergirl.com/">Boomergirl.com</a>
-        </div>
-      </li>
-      <li id="opinion_nav">
-        <span>
-          <a href="/news/opinion/">Opinion</a>
-          <a class="menu-button" href="#opinion_drop"><img class="arrow" src="http://media.ljworld.com/images/arrows/menu-blank.gif" title="" alt=""></a>
-        </span>
-        <div class="dropdown off" id="opinion_drop">
-          <a href="/blogs/">Blogs</a>
-          <a href="/discussions/">Discussion/Forums</a>
-          <a href="/news/analysis_opinion/editorial/">Editorials</a>
-		  <a href="/news/analysis_opinion/columns/dolph_simons_jr/">Saturday column</a>
-          <a href="/news/analysis_opinion/columns/take_a_stand/">Take a stand</a>
-          <a href="/news/analysis_opinion/letters_to_editor/">Letters to the editor</a>
-          <a href="/submit/letter_to_the_editor/">Submit your letter</a>
-          <a href="/news/columns/">Local columns</a>
-          <a href="/news/analysis_opinion/columns/syndicated/">Syndicated columns</a>
-          <a href="/onthestreet/">On the street</a>
-        </div>
-      </li>
-      <li id="multimedia_nav">
-        <span>
-          <a href="/multimedia/">Multimedia</a>
-          <a class="menu-button" href="#multimedia_drop"><img class="arrow" src="http://media.ljworld.com/images/arrows/menu-blank.gif" title="" alt=""></a>
-        </span>
-        <div class="dropdown off" id="multimedia_drop">
-          <a href="/photos/today/">Photos</a>
-          <a href="/videos/">Videos</a>
-          <a href="/podcasts/">Podcasts</a>
-          <a href="/photos/galleries/sets/">Photo galleries</a>
-          <a href="/photos/galleries/sets/audio_slide_shows/">Audio slide shows</a>
-          <a href="/downloads/webcams/">Webcams</a>
-		  <a href="/submit/photo/">Submit a photo</a>
-        </div>
-      </li>
-    </ul>
-    <ul class="tabs" id="altnav">
-      <li class="marketplace"><a href="/marketplace/">Marketplace</a></li>
-      
-      <li class="jobs"><a href="http://jobhawk.ljworld.com/">Jobs</a></li>
-      <li class="classifieds"><a href="/classifieds/">Classifieds</a></li>
-      <li class="real-estate"><a href="http://hometownlawrence.com/">Real Estate</a></li>
-      <li class="coupons"><a href="http://coupons.lawrence.com/">Coupons</a></li>
-    </ul>
-    
-    
-  </div>
-  
-</div>
+	        </div>
+	      </li>
+	      <li id="sports_nav">
+	        <span>
+	          <a href="/news/sports/" class="sports">Sports</a>
+	          <a class="menu-button" href="#sports_drop"><img class="arrow" src="http://media.ljworld.com/images/arrows/menu-blank.gif" title="" alt=""></a>
+	        </span>
+	        <div class="dropdown off" id="sports_drop">
+	          <a href="http://www.kusports.com/">Jayhawks</a>
+	          <a href="/news/sports/college/haskell/">Haskell</a>
+	          <a href="/news/sports/high_school/">High school</a>
+	          <a href="/news/sports/professional/">Professional</a>
+	          <a href="/news/sports/columns/">Columns</a>
+	        </div>
+	      </li>
+	      <li id="ae_nav">
+	        <span>
+	          <a href="/news/ae/" class="ae">Arts &amp; Entertainment</a>
+	          <a class="menu-button" href="#ae_drop"><img class="arrow" src="http://media.ljworld.com/images/arrows/menu-blank.gif" title="" alt=""></a>
+	        </span>
+	        <div class="dropdown off" id="ae_drop">
+	          <a href="/news/entertainment/movies/">Movies</a>
+	          <a href="/news/entertainment/television/">TV</a>
+	          <a href="/news/arts/music/">Music</a>
+	          <a href="/extra/comics/">Comics</a>
+	          <a href="/extra/crossword/">Crossword</a>
+	          <a href="/sudoku/">Sudoku</a>
+	          <a href="/news/arts/visual_arts/">Visual arts</a>
+	          <a href="/news/arts/literature/">Literature</a>
+	          <a href="/news/arts/theatre/">Theatre</a>
+	          <a href="/news/arts/dance/">Dance</a>
+	          <a href="/events/search/?category=Art">Arts events</a>
+	        </div>
+	      </li>
+	      <li id="living_nav">
+	        <span>
+	          <a href="/news/living/" class="living">Living</a>
+	          <a class="menu-button" href="#living_drop"><img class="arrow" src="http://media.ljworld.com/images/arrows/menu-blank.gif" title="" alt=""></a>
+	        </span>
+	        <div class="dropdown off" id="living_drop">
+			  <a href="/news/living/religion/">Faith</a>
+	          <a href="/news/living/18_under/">18 and under</a>
+	          <a href="/news/living/food/">Food</a>
+	          <a href="/news/living/travel/">Travel</a>
+	          <a href="/news/living/seniors/">Seniors</a>
+	          <a href="/news/living/home_garden/">Home &amp; Garden</a>
+	          <a href="/news/living/outdoors/">Outdoors</a>
+	          <a href="/news/living/pets/">Pets</a>
+	          <a href="/news/lawrence/volunteering/">Volunteers</a>
+	          <a href="/news/living/shopping/antiques_collectibles/">Antiques</a>
+	          <a href="/news/living/health/">Health</a>
+		 	  <a href="http://www.boomergirl.com/">Boomergirl.com</a>
+	        </div>
+	      </li>
+	      <li id="opinion_nav">
+	        <span>
+	          <a href="/news/opinion/" class="opinion">Opinion</a>
+	          <a class="menu-button" href="#opinion_drop"><img class="arrow" src="http://media.ljworld.com/images/arrows/menu-blank.gif" title="" alt=""></a>
+	        </span>
+	        <div class="dropdown off" id="opinion_drop">
+		      <a href="/weblogs/staff/">Staff blogs</a>
+		      <a href="/weblogs/">Reader blogs</a>
+		      <a href="/news/analysis_opinion/editorial/">Editorials</a>
+		      <a href="/news/analysis_opinion/letters_to_editor/">Letters to the editor</a>
+			  <a href="/news/analysis_opinion/columns/dolph_simons_jr/">Saturday column</a>
+			  <a href="/onthestreet/">On the street</a>
+			<a href="/discussions/">Discussion/Forums</a>
+	          <a href="/news/analysis_opinion/columns/take_a_stand/">Take a stand</a>
+	          <a href="/news/columns/">Local columns</a>
+	          <a href="/news/analysis_opinion/columns/syndicated/">Syndicated columns</a>
+	          <a href="/submit/letter_to_the_editor/">Submit your letter</a>
+	        </div>
+	      </li>
+	      <li id="multimedia_nav">
+	        <span>
+	          <a href="/multimedia/" class="multimedia">Multimedia</a>
+	          <a class="menu-button" href="#multimedia_drop"><img class="arrow" src="http://media.ljworld.com/images/arrows/menu-blank.gif" title="" alt=""></a>
+	        </span>
+	        <div class="dropdown off" id="multimedia_drop">
+	          <a href="/photos/today/">Photos</a>
+	          <a href="/videos/">Videos</a>
+	          <a href="/podcasts/">Podcasts</a>
+	          <a href="/photos/galleries/sets/">Photo galleries</a>
+	          <a href="/photos/galleries/sets/audio_slide_shows/">Audio slide shows</a>
+	          <a href="/downloads/webcams/">Webcams</a>
+			  		<a href="/submit/photo/">Submit a photo</a>
+	        </div>
+	      </li>
+				<li id="help_nav">
+	        <span>
+	          Help
+	          <a class="menu-button" href="#help_drop"><img class="arrow" src="http://media.ljworld.com/images/arrows/menu-blank.gif" title="" alt=""></a>
+	        </span>
+					<div class="dropdown off" id="help_drop">
+						<a href="/subscribe/">Subscribe</a>
+						<a href="/contact/">Contact us</a>
+						<a href="/alerts/manage/">Email &amp; Text alerts</a>
+						<a href="/search/">Advanced search</a>
+						<a href="/submit/photo/">Submit a photo</a>
+						<a href="/submit/">Submit a news item</a>
+	        </div>
+				</li>
+	    </ul>
+	    <ul class="tabs" id="altnav">
+	      <li class="marketplace"><a href="/marketplace/">Marketplace</a></li>
+	      
+	      <li class="jobs"><a href="http://jobhawk.ljworld.com/">Jobs</a></li>
+	      <li class="classifieds"><a href="/classifieds/">Classifieds</a></li>
+	      <li class="real-estate"><a href="http://hometownlawrence.com/">Real Estate</a></li>
+	      <li class="coupons"><a href="http://coupons.lawrence.com/">Coupons</a></li>
+	    </ul>
+	    
+	    
+	  </div>
+	  
+	</div>
 
-<div id="body">
-  
-    
-    
-    
-  
+	<div id="body">
+	  
+	    
+	    
+	    
+	    <div id="breaking_news" class="container">
+	      <h1>Breaking news</h1>
+	      
+	      <p>
+	        <a href="/news/2008/dec/18/looming-ice-leads-cancellations/?breaking">Basehor-Linwood cancels Friday classes; other area cancellations reported</a>
+	        <span class="time">
+	          
+	            <span class="updated">updated 1 hour, 46 minutes ago</span>
+	          
+	        </span>
+	      </p>
+	      
+	    </div>
+	    
+	  
 
-  
-  
-  <div id="primary">
-    
-    <div class="block">
-      <div class="content">
-        
-        
+	  
+	  
+	  <div id="primary">
+	    
+	    <div class="block">
+	      <div class="content">
+	        
+	        
   
   <h2 class="legend">Privacy policy</h2>
   
   
-    <p>Updated February 2007</p>
+    <p>The World Company is sensitive to issues of individual privacy on the Internet. To that end, we provide the following policy on the use of information gathered on LJWorld.com:</p>
 
-<p>World Online is  sensitive to issues of individual privacy on the Internet. To that end, we provide the following policy on the use of information gathered on LJworld.com:</p>
- 
-<h2>Categories of information collected</h2>
+<p><strong>Categories of information collected</strong></p>
+<p>    ¢ LJWorld.com gathers identifying information about individuals only when individuals provide that information on a voluntary basis such as in reader comments and blogs, for our SMS and email alerts and if using social networking tools.</p>
 
-<ul class="stories">
-	<li>LJworld.com gathers identifying information about individuals only when individuals provide that information on a voluntary basis such as on our reader reaction forums, for our SMS and email alerts, and in our secure ecommerce store.</li>
-</ul>
+<p><strong>Third parties</strong></p>
+<p>It is not the policy of The World Company to sell or make available such information to unrelated third parties; occasionally such information may be shared with other divisions of the World Company. We may inform advertisers of the results of such analyses. And under any circumstance, LJWorld.com will refer only to general, aggregate usage data from these analyses - never specific identifying information. If you choose to participate in our social networking tools, your favorites may be shared with other LJWorld.com users who are also taking advantage of those tools.</p>
 
-<h2 style="padding: 6px 0 0 0;">Third parties</h2>
+<p>    ¢LJWorld.com may allow users to utilize site-wide social networking tools, which can include befriending other users, updating profile information, posting comments on other users profiles and identifying pieces of content as something of interest to a user. When a user takes advantage of the social networking tools, the user is agreeing to share personal information with other users. LJWorld.com provides privacy tools within its social networking framework to enable users to control which types of personal information is shared with other users.</p>
 
-<p>It is not the policy of World Online to sell or make available such information to unrelated third parties; occasionally such information may be shared with other divisions of the World Company. We may inform advertisers of the results of such analyses. And under any circumstance, LJworld.com will refer only to general, aggregate usage data from these analyses - never specific identifying information.
+<p>    ¢ LJWorld.com performs statistical analyses of its server logs to study the use and popularity of various areas of our site. We also look at IP addresses to analyze where we are getting our audience.</p>
 
-</p><ul class="stories">
-	<li>LJworld.com performs statistical analyses of its server logs to study the use and popularity of various areas of our site. We also look at IP addresses to analyze where we are getting our audience.</li>
-</ul>
+<p>    ¢ Users should keep in mind that, when posting their user name or e-mail address on bulletin boards or in other user-posted content areas, that information, along with any information in their postings, can be read by any third parties and may result in unsolicited messages from other posters or third parties. LJWorld.com has no control over that.</p>
 
-<ul class="stories">
-	<li>Users should keep in mind that, when posting their user name or e-mail address on bulletin boards or in other user-posted content areas, that information, along with any information in their postings, can be read by any third parties and may result in unsolicited messages from other posters or third parties. LJworld.com has no control over that.</li>
-</ul>
+<p>    ¢ LJWorld.com may make use of or refer to user-posted content for the purposes of promotion of LJWorld.com. This will mainly involve taking screen shots of a particular area of the site and using that screen shot as a graphic in an advertisement. LJWorld.com makes no claim of ownership to such user-posted content.</p>
 
-<ul class="stories">
-	<li>LJworld.com may make use of or refer to user-posted content for the purposes of promotion of LJworld.com. This will mainly involve taking screen shots of a particular area of the site and using that screen shot as a graphic in an advertisement. LJworld.com makes no claim of ownership to such user-posted content.</li>
-</ul>
+<p>    ¢ LJWorld.com employs 'cookies' in circumstances that require session data or require user verification. </p>
 
-<ul class="stories">
-	<li>LJworld.com employs 'cookies' in circumstances that require session data or require user verification.
-</li></ul>
+<p><strong>Process to remove your personal information</strong></p>
+<p>Most of our services include information on how to remove your information and cancel the service. You may alternatively send us an email at webmaster@ljworld.com requesting the services and information you would like removed. Please provide explicit reasons why we should remove the content. We reserve the right to decline requests for removal of information based on maintaining the historical and archival nature of our Web site.</p>
 
-<h2>Process to remove your personal information</h2>
+<p><strong>Changes to this policy &amp; effective dates</strong></p>
+<p>    ¢ LJWorld.com reserves the right to change this policy at any time. The effective date of this policy shall be reflected by the updated date at the top of this page.</p>
 
-Most of our services include information on how to remove your information and cancel the service. You may alternatively send us an email at <a href="mailto:webmaster@ljworld.com">webmaster@ljworld.com</a> requesting the services and information you would like removed.
-
-<h2>Changes to this policy &amp; effective dates</h2>
-
-<ul class="stories">
-	<li>LJworld.com reserves the right to change this policy at any time. The effective date of this policy shall be reflected by the updated date at the top of this page.</li>
-</ul>
+<p><em>Policy last updated November 2008</em></p>
   
   
   
 
-      </div>
-      <div class="rail">
-        
-          <div class="ad primary-ad">
+	      </div>
+	      <div class="rail">
+	        
+	          <div class="ad primary-ad">
   <iframe id="a14c31b4" name="a14c31b4" src="http://ads2.ljworld.com/www/delivery/afr.php?zoneid=51&amp;cb=76846745675674567" framespacing="0" frameborder="no" scrolling="no" width="300" height="250"><a href="http://ads2.ljworld.com/www/delivery/ck.php?n=ab98c243&amp;cb=76846745675674567" target="_blank"><img src="http://ads2.ljworld.com/www/delivery/avw.php?zoneid=51&amp;cb=76846745675674567&amp;n=ab98c243" border="0" alt=""></a></iframe>
 </div>
-          
+	          
 
 <div class="textads section-break">
   <h6>Top ads <a class="feed" href="/rss/classifieds/publications/top-ads/">RSS</a></h6>
   <ul>
     
-    <li><a href="/classifieds/employment/general/10216869/">TEAM LEADER CLO is currently recruiting an energetic individual for ...</a></li>
+    <li><a href="/classifieds/employment/hotel-restaurant/10258556/">Assistant Manager Lawrence Competitive Salary Benefits including 401(k) Bonus/Promotion Opportunities ...</a></li>
     
-    <li><a href="/classifieds/employment/general/10215167/">Inbound Customer Service - no sales- at premier local call ...</a></li>
+    <li><a href="/classifieds/employment/schools-instruction/10257305/">Part Time Food Service Basehor-Linwood USD 458 CALL 913-724-1396</a></li>
     
-    <li><a href="/classifieds/employment/health-care/10216704/">Lawrence Memorial Hospital has positions available in the following areas: ...</a></li>
+    <li><a href="/classifieds/employment/health-care/10258609/">LPN/CMA Evening Shift CMA/CNA Night Shift Vintage Park at Baldwin ...</a></li>
     
-    <li><a href="/classifieds/employment/accounting-finance/10215100/">Account Services Representative KU Endowment, full-time. Requires two years experience ...</a></li>
+    <li><a href="/classifieds/employment/automotive/10258544/">Hyundai/Quick Lane Parts Manager We are looking for an experienced ...</a></li>
     
-    <li><a href="/classifieds/employment/health-care/10216536/">Join the team that plays all day long. Harbor House ...</a></li>
+    <li><a href="/classifieds/employment/general/5024/">City of Lawrence</a></li>
     
   </ul>
   <p class="categories">
@@ -321,7 +340,7 @@ Most of our services include information on how to remove your information and c
     <a href="/classifieds/publications/top-ads/transportation/">Top transportation</a>
   </p>
 </div>
-          
+	          
 
 
 <div class="marketplace-ad">
@@ -330,15 +349,13 @@ Most of our services include information on how to remove your information and c
   <div class="place">
     
     
-    <a class="thumb" href="/marketplace/businesses/laird-noller-hyundai/">
+    <a class="thumb" href="/marketplace/businesses/palace-cards-gifts/">
       
-        
-        <img src="http://media.lawrence.com/img/marketplace/businesses/video/stills/2007/12/03/1290775444_r130x80.jpg?1991eca4fcf34609ad1278d7c3f09b3ef6ea7059" alt="">
-        
+        <img src="http://media.lawrence.com/img/marketplace/businesses/images/2007/08/28/Palace_r130x80.jpg?1991eca4fcf34609ad1278d7c3f09b3ef6ea7059" alt="">
       
     </a>
     
-    <h4 class="name"><a href="/marketplace/businesses/laird-noller-hyundai/"> Laird Noller Hyundai</a> <span class="phone">785-838-2327</span></h4>
+    <h4 class="name"><a href="/marketplace/businesses/palace-cards-gifts/"> Palace Cards &amp; Gifts</a> <span class="phone">785-843-1099</span></h4>
     <p class="more">Find more businesses on <a href="/marketplace/">Marketplace</a></p>
   </div>
   
@@ -347,13 +364,16 @@ Most of our services include information on how to remove your information and c
     <a href="/marketplace/categories/arts-and-entertainment/bars-clubs/">Bars</a> ·
     <a href="/marketplace/categories/arts-and-entertainment/theatre/">Theatres</a> ·
     <a href="/marketplace/categories/food-and-dining/restaurants/">Restaurants</a> ·
-    <a href="/marketplace/categories/food-and-dining/coffee/">Coffeehouses</a> ·
-    <a href="/marketplace/categories/community-clubs-organizations/libraries/">Libraries</a> ·
+    <a href="/marketplace/categories/food-and-dining/coffee-tea/">Coffeehouses</a> ·
+    <a href="/marketplace/categories/community-organizations/libraries/">Libraries</a> ·
     <a href="/marketplace/categories/retail/antiques-collectibles/">Antiques</a> ·
     <a href="/marketplace/categories/services/">Services</a>
   </p>
 </div> 
-          
+	          
+
+
+
 
 <div id="popular-news">
   <div class="tab-widget" id="popular-news-tabs">
@@ -364,126 +384,15 @@ Most of our services include information on how to remove your information and c
   </div>
 
   
-   
-  
-  
   <div id="discussed">
     <ul class="linklist">
       
       
         
           <li class="story">
-            <a href="/news/2008/may/13/hundreds_arrested_immigration_raid/">Hundreds arrested in immigration raid</a> 
-            <span class="quiet">May 13, 2008 · 9 comments</span>
+            <a href="/news/2008/dec/18/ku-joe-college-continues-years-long-legal-battle/">KU, Joe-College face new battle in lengthy legal contest</a> 
+            <span class="quiet">December 18, 2008 · 48 comments</span>
           </li>
-        
-        
-        
-        
-        
-
-        
-        
-          
-        
-
-      
-      
-        
-        
-        
-        
-        <li class="weblog">
-          <strong>Weblog:</strong>
-          <a href="/weblogs/dangerous-ideas/2008/may/12/in-my-yard-so-pink-it-hurts/">In My Yard-So Pink It Hurts</a> 
-          <span class="quiet">May 12, 2008 · 7 comments</span>
-        </li>
-        
-        
-
-        
-        
-          
-          
-          
-          
-          
-        
-
-      
-      
-        
-          <li class="story">
-            <a href="/news/2008/may/13/walmart_nearly_ready_build_citys_new_store/">Wal-Mart nearly ready to build city’s new store</a> 
-            <span class="quiet">May 13, 2008 · 117 comments</span>
-          </li>
-        
-        
-        
-        
-        
-
-        
-        
-          
-        
-
-      
-      
-        
-        
-        
-        
-        <li class="weblog">
-          <strong>Weblog:</strong>
-          <a href="/weblogs/at-random/2008/apr/23/the-backyard-fence-blog/">The Backyard Fence Blog</a> 
-          <span class="quiet">April 23, 2008 · 407 comments</span>
-        </li>
-        
-        
-
-        
-        
-          
-          
-          
-          
-          
-        
-
-      
-      
-        
-        
-        
-        
-        
-        <li class="onthestreet">
-          <strong>On the street:</strong>
-          <a href="/onthestreet/2008/may/13/mos_graduation/">What is an appropriate amount to spend on a graduation gift?</a> 
-          <span class="quiet">May 13, 2008 · 39 comments</span>
-        </li>
-        
-
-        
-        
-          
-          
-          
-          
-          
-          
-          
-        
-
-      
-      
-        
-          <li class="story">
-            <a href="/news/2008/may/12/t_taxi/">T for taxi?</a> 
-            <span class="quiet">May 12, 2008 · 101 comments</span>
-          </li>
-        
         
         
         
@@ -498,10 +407,9 @@ Most of our services include information on how to remove your information and c
       
         
           <li class="story">
-            <a href="/news/2008/may/12/siren_sound/">Siren sound off</a> 
-            <span class="quiet">May 12, 2008 · 57 comments</span>
+            <a href="/news/2008/dec/18/right-life/">Right to life</a> 
+            <span class="quiet">December 18, 2008 · 144 comments</span>
           </li>
-        
         
         
         
@@ -516,10 +424,9 @@ Most of our services include information on how to remove your information and c
       
         
           <li class="story">
-            <a href="/news/2008/may/13/marine_corps_army_exceed_recruiting_goals/">Marine Corps, Army exceed recruiting goals</a> 
-            <span class="quiet">May 13, 2008 · 50 comments</span>
+            <a href="/news/2008/dec/18/freezing-rain-expected-make-lawrence-streets-very-/">Precipitation expected to redevelop later; ice not expected to be severe</a> 
+            <span class="quiet">December 18, 2008 · 78 comments</span>
           </li>
-        
         
         
         
@@ -534,10 +441,26 @@ Most of our services include information on how to remove your information and c
       
         
           <li class="story">
-            <a href="/news/2008/may/13/self_may_give_assist_sports_facility/">Self may give assist to sports facility</a> 
-            <span class="quiet">May 13, 2008 · 32 comments</span>
+            <a href="/news/2008/dec/17/gun-rules-tightened-after-court-ruling/">Gun rules tightened after court ruling</a> 
+            <span class="quiet">December 17, 2008 · 159 comments</span>
           </li>
         
+        
+        
+        
+
+        
+        
+          
+        
+
+      
+      
+        
+          <li class="story">
+            <a href="/news/2008/dec/18/looming-ice-leads-cancellations/">Basehor-Linwood cancels Friday classes; other area cancellations reported</a> 
+            <span class="quiet">December 18, 2008 · 5 comments</span>
+          </li>
         
         
         
@@ -555,10 +478,9 @@ Most of our services include information on how to remove your information and c
         
         <li class="blog">
           <strong>Blog:</strong>
-          <a href="/blogs/lawrence_blotter/2008/may/13/tuesday/">Video game equipment stolen</a> 
-          <span class="quiet">May 13, 2008 · 5 comments</span>
+          <a href="/weblogs/at-random/2008/dec/17/it-isnt-christmas-until-i-hear-this-song/">  It Isn't Christmas Until I Hear This Song....</a> 
+          <span class="quiet">December 17, 2008 · 91 comments</span>
         </li>
-        
         
         
 
@@ -566,6 +488,75 @@ Most of our services include information on how to remove your information and c
         
           
           
+          
+          
+          
+        
+
+      
+      
+        
+        
+        <li class="poll">
+          <strong>Poll:</strong>
+          <a href="/polls/2008/dec/recycling/">The city of Lawrence is having trouble getting rid of the recyclables it collects. Does knowing this affect your decision to put materials in city recycling bins? </a> 
+          <span class="quiet">December 18, 2008 · 17 comments</span>
+        </li>
+        
+        
+        
+
+        
+        
+
+      
+      
+        
+          <li class="story">
+            <a href="/news/2008/dec/18/bush-i-didnt-compromise-my-soul-be-popular/">Bush: ‘I didn’t compromise my soul’ to be popular</a> 
+            <span class="quiet">December 18, 2008 · 67 comments</span>
+          </li>
+        
+        
+        
+        
+
+        
+        
+          
+        
+
+      
+      
+        
+          <li class="story">
+            <a href="/news/2008/dec/17/lawrence-man-wont-face-charges-relation-sodomy-acc/">Lawrence man won't face charges in relation to sodomy accusation</a> 
+            <span class="quiet">December 17, 2008 · 110 comments</span>
+          </li>
+        
+        
+        
+        
+
+        
+        
+          
+        
+
+      
+      
+        
+          <li class="story">
+            <a href="/news/2008/dec/18/chi-omega-fountains-frozen-assets/">Chi Omega fountain’s Frozen Assets</a> 
+            <span class="quiet">December 18, 2008 · 14 comments</span>
+          </li>
+        
+        
+        
+        
+
+        
+        
           
         
 
@@ -578,117 +569,132 @@ Most of our services include information on how to remove your information and c
   <div id="emailed">
     <ul class="linklist">
       
-        <li><a href="/news/2008/may/13/walmart_nearly_ready_build_citys_new_store/">Wal-Mart nearly ready to build city’s new store</a> <span class="quiet">May 13, 2008</span></li>
+        <li><a href="/news/2008/dec/17/longtime-chief-homicide-detective-retire-weeks-end/">Longtime chief homicide detective to retire at week's end</a> <span class="quiet">December 17, 2008</span></li>
       
-        <li><a href="/news/2008/may/13/administrator_stepping_down/">Administrator stepping down</a> <span class="quiet">May 13, 2008</span></li>
+        <li><a href="/news/2008/dec/18/chi-omega-fountains-frozen-assets/">Chi Omega fountain’s Frozen Assets</a> <span class="quiet">December 18, 2008</span></li>
       
-        <li><a href="/news/2008/may/13/barnstorming_tour_comes_lawrence_high_wednesday_ni/">Barnstorming Tour comes to Lawrence High Wednesday night</a> <span class="quiet">May 13, 2008</span></li>
+        <li><a href="/news/2008/dec/18/comfort-joy-judge-deanell-tacha-decorates-home-spi/">Comfort &amp; Joy: Judge Deanell Tacha decorates home with spirit, sentiment</a> <span class="quiet">December 18, 2008</span></li>
       
-        <li><a href="/news/2008/may/12/siren_sound/">Siren sound off</a> <span class="quiet">May 12, 2008</span></li>
+        <li><a href="/news/2008/dec/18/freezing-rain-expected-make-lawrence-streets-very-/">Precipitation expected to redevelop later; ice not expected to be severe</a> <span class="quiet">December 18, 2008</span></li>
       
-        <li><a href="/news/2008/may/12/jayhawksbe_get_little_good_press/">Jayhawks-to-be get a little good press</a> <span class="quiet">May 12, 2008</span></li>
+        <li><a href="/news/2008/dec/18/ku-joe-college-continues-years-long-legal-battle/">KU, Joe-College face new battle in lengthy legal contest</a> <span class="quiet">December 18, 2008</span></li>
       
-        <li><a href="/news/2008/may/13/wendys_receives_bert_nash_award/">Wendy’s receives Bert Nash award</a> <span class="quiet">May 13, 2008</span></li>
+        <li><a href="/news/2008/dec/17/companies-find-benefits-spending-little-money-empl/">Companies find benefits in spending a little money on employee health</a> <span class="quiet">December 17, 2008</span></li>
       
-        <li><a href="/news/2008/may/11/empty_nest_syndrome_manifests_strongest_pull_garde/">Empty nest syndrome manifests strongest pull in garden</a> <span class="quiet">May 11, 2008</span></li>
+        <li><a href="/news/2008/dec/17/eudora-baldwin-win/">Eudora, Baldwin win</a> <span class="quiet">December 17, 2008</span></li>
       
-        <li><a href="/news/2008/may/13/regional_revenge/">Regional revenge</a> <span class="quiet">May 13, 2008</span></li>
+        <li><a href="/news/2008/dec/18/accident-closes-highway-40-west-lawrence/">Accident closes Highway 40 west of Lawrence, now reopened</a> <span class="quiet">December 18, 2008</span></li>
       
-        <li><a href="/news/2008/may/13/clinton_should_do_right_thing/">Clinton should do the ‘right’ thing</a> <span class="quiet">May 13, 2008</span></li>
+        <li><a href="/news/2008/dec/18/local-tree-farmer-grows-holiday-cheer/">Local tree farmer grows holiday cheer</a> <span class="quiet">December 18, 2008</span></li>
       
-        <li><a href="/news/2008/may/13/ncaa_opens_mayo_investigation/">NCAA opens Mayo investigation</a> <span class="quiet">May 13, 2008</span></li>
+        <li><a href="/news/2008/dec/17/suspect-arrested-lawrence-credit-union-robbery/">Suspect arrested in Lawrence credit union robbery</a> <span class="quiet">December 17, 2008</span></li>
       
     </ul>
     <p class="more"><a href="/popular/emailed/stories/">More</a></p>
   </div>
 </div>
-          <div class="ad">  
+	          <div class="ad">  
   <iframe id="a40a0335" name="a40a0335" src="http://ads2.ljworld.com/www/delivery/afr.php?zoneid=52&amp;cb=345634534531" framespacing="0" frameborder="no" scrolling="no" width="300" height="250">
     <a href="http://ads2.ljworld.com/www/delivery/ck.php?n=a4562099&amp;cb=345634534531" target="_blank">
       <img src="http://ads2.ljworld.com/www/delivery/avw.php?zoneid=52&amp;cb=345634534531&amp;n=a4562099" border="0" alt="">
     </a>
   </iframe>
 </div>
-		  
-        
-      </div>
-    </div>
-    
-  </div>
-  <div id="secondary">
-    
-    <div class="block">
-      <div class="content"></div>
-      <div class="rail"></div>
-    </div>
-    
-  </div>
-  
-  
+			  
+	        
+	      </div>
+	    </div>
+	    
+	  </div>
+	  <div id="secondary">
+	    
+	    <div class="block">
+	      <div class="content"></div>
+	      <div class="rail"></div>
+	    </div>
+	    
+	  </div>
+	  
+	  
+	</div>
+
+	<div id="footer">
+	  <div class="block">
+	    <dl>
+	      
+	      <dt>Sections</dt>
+	      <dd>
+	        <a href="/news/today/">Today's news</a> /
+	        <a href="/news/lawrence/">Local</a> /
+	        <a href="/news/state_regional/">State</a> /
+	        <a href="/news/sports/">Sports</a> /
+	        <a href="/news/ae/">A&amp;E</a> /
+	        <a href="/news/living/">Living</a> /
+	        <a href="/news/business/">Business</a> /
+	        <a href="/news/opinion/">Opinion</a> /
+	        <a href="/news/living/religion/">Faith</a> /
+	        <a href="/news/politics/">Politics</a>
+	      </dd>
+	      <dt>LJWorld.com</dt>
+	      <dd>
+	        <a href="/news/today/">News archives</a> /
+	        <a href="/about/">About</a> /
+	        <a href="/submit/feedback/">Feedback</a> /
+	        <a href="/contact/">Contact</a> /
+	        <a href="/privacy/">Privacy Policy</a> /
+	        <a href="/staff/">Staff</a> /
+	        <a href="http://jobpath.com/csh/search.aspx?csh=CSH_WORLDCOMPANY">Jobs</a> /
+	        <a href="/sitemap/">Sitemap</a>
+	      </dd>
+	      <dt>Services</dt>
+	      <dd>
+	        <a href="/subscribe/">Subscribe</a> /
+	        <a href="/advertising/">Advertising</a> /
+	        <a href="/customer/service/">Customer service</a> /
+	        <a href="http://pictopia.com/perl/gal?provider_id=136&amp;process=deliver&amp;page=requests_xsl">Photo reprints</a> /
+	        <a href="http://www.ljworldstore.com/">Online store</a>
+	      </dd>
+	      <dt>Submit</dt>
+	      <dd>
+	        <a href="/submit/">News</a> /
+	        <a href="/submit/photo/">Photo</a> /
+                <a href="/events/submit/">Events</a> /
+	        <a href="/submit/engagements/">Engagement</a> /
+	        <a href="/submit/weddings/">Wedding</a> /
+	        <a href="/submit/anniversaries/">Anniversary</a> /
+	        <a href="/submit/obituaries/">Obituary</a> /
+	        <a href="/submit/births/">Births</a> /
+	        <a href="/submit/letter_to_the_editor/">Letter to the Editor</a> /
+	        <a href="/submit/press_release/">Press release</a>
+	      </dd>
+	      <dt>News neighbors</dt>
+	      <dd>
+					<a href="http://www.baldwincity.com">Baldwin City</a> / 
+	        <a href="http://www.basehorinfo.com">Basehor</a> / 
+	        <a href="http://www.bonnersprings.com/">Bonner Springs</a> / 
+	        <a href="http://www.desotoexplorer.com">De Soto</a> / 
+	        <a href="http://www.eudoranews.com/">Eudora</a> / 
+	        <a href="http://www.lansingcurrent.com">Lansing</a> / 
+		    	<a href="http://www.shawneedispatch.com/">Shawnee</a> /
+			<a href="http://www.tonganoxiemirror.com">Tonganoxie</a>
+	      </dd>
+	      <dt>Also online</dt>
+	      <dd>
+	        <a href="/photos/">Photos</a> /
+	        <a href="/podcasts/">Podcasts</a> /
+	        <a href="/videos/">Videos</a> /
+                <a href="/releases/">Press Releases</a> /
+	        <a href="http://mobile.ljworld.com/">Mobile edition</a> /
+	        <a href="/rss/">RSS Feeds</a> /
+                <a href="http://www.youtube.com/ljworldlawrence">YouTube</a> /
+			<a href="http://twitter.com/ljworld">Follow us on Twitter</a>
+	      </dd>
+	    </dl>
+
+	    <p><small>Contents of this site are © Copyright 2008 The Lawrence Journal-World. All rights reserved. See our <a href="/site/rules/#rss">terms of use for RSS feeds.</a></small></p>
+	  </div>
+	</div>
 </div>
-
-<div id="footer">
-  <div class="block">
-    <dl>
-      
-      <dt>Sections</dt>
-      <dd>
-        <a href="/news/today/">Today's news</a> /
-        <a href="/news/lawrence/">Local</a> /
-        <a href="/news/state_regional/">State</a> /
-        <a href="/news/sports/">Sports</a> /
-        <a href="/news/ae/">A&amp;E</a> /
-        <a href="/news/living/">Living</a> /
-        <a href="/news/business/">Business</a> /
-        <a href="/news/opinion/">Opinion</a> /
-        <a href="/news/living/religion/">Faith</a> /
-        <a href="/news/politics/">Politics</a>
-      </dd>
-      <dt>LJWorld.com</dt>
-      <dd>
-        <a href="/news/today/">News archives</a> /
-        <a href="/about/">About</a> /
-        <a href="/submit/feedback/">Feedback</a> /
-        <a href="/contact/">Contact</a> /
-        <a href="/privacy/">Privacy Policy</a> /
-        <a href="/staff/">Staff</a> /
-        <a href="http://jobpath.com/csh/search.aspx?csh=CSH_WORLDCOMPANY">Jobs</a> /
-        <a href="/sitemap/">Sitemap</a>
-      </dd>
-      <dt>Services</dt>
-      <dd>
-        <a href="http://www.ljworldstore.com/subscriptions.html">Subscribe</a> /
-        <a href="/advertising/">Advertising</a> /
-        <a href="/customer/service/">Customer service</a> /
-        <a href="http://pictopia.com/perl/gal?provider_id=136&amp;process=deliver&amp;page=requests_xsl">Photo reprints</a> /
-        <a href="http://www.ljworldstore.com/">Online store</a>
-      </dd>
-      <dt>Submit</dt>
-      <dd>
-        <a href="/submit/">News</a> /
-        <a href="/submit/photo/">Photo</a> /
-        <a href="/submit/engagements/">Engagement</a> /
-        <a href="/submit/weddings/">Wedding</a> /
-        <a href="/submit/anniversaries/">Anniversary</a> /
-        <a href="/submit/obituaries/">Obituary</a> /
-        <a href="/submit/births/">Birth</a> /
-        <a href="/submit/letter_to_the_editor/">Letter to the Editor</a> /
-        <a href="/submit/press_release/">Press release</a>
-      </dd>
-      <dt>Also online</dt>
-      <dd>
-        <a href="/photos/">Photos</a> /
-        <a href="/podcasts/">Podcasts</a> /
-        <a href="/videos/">Videos</a> /
-        <a href="http://mobile.ljworld.com/">Mobile edition</a> /
-        <a href="/rss/">Feeds</a>
-      </dd>
-    </dl>
-
-    <p><small>Contents of this site are © Copyright 2008 The Lawrence Journal-World. All rights reserved. See our <a href="/site/rules/#rss">terms of use for RSS feeds.</a></small></p>
-  </div>
-</div>
-
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
 _uacct = "UA-381152-1";
