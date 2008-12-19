@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sleeptrain.com privacy policy that was archived on 2008-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080419122107id_/http%3A//www.sleeptrain.com/Page.aspx%3Fnid%3D116) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleeptrain.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219020347id_/http%3A//www.sleeptrain.com/Page.aspx%3Fnid%3D116) for the most accurate reproduction.*
 
 # Sleep Train - Privacy Policy
 
   
   
-At Sleep Train we are committed to ensuring the privacy of our customers. This privacy policy explains Sleep Train’s privacy practices, including those of our Web site located at [www.sleeptrain.com](http://www.sleeptrain.com/) (“Site”), for our customers who purchase our products and services. By using our Site, you consent to the terms of this privacy policy.   
+At Sleep Train we are committed to ensuring the privacy of our customers. This privacy policy explains Sleep Train’s privacy practices, including those of our Web site located at [www.sleeptrain.com](http://www.sleeptrain.com/ "Sleep Train") (“Site”), for our customers who purchase our products and services. By using our Site, you consent to the terms of this privacy policy.   
 
 
 * * *
@@ -67,4 +67,4 @@ We will modify this privacy policy if our privacy practices change in the future
 * * *
 
 **Your Comments or Concerns**  
-We welcome your feedback. If you have any comments or concerns about this privacy policy or would like to contact us for any reason, you may reach a customer service representative via e-mail at [customerservice@sleeptrain.com](mailto:customerservice@sleeptrain.com) or phone at 1-800-919-2337
+We welcome your feedback. If you have any comments or concerns about this privacy policy or would like to contact us for any reason, you may reach a customer service representative via e-mail at [customerservice@sleeptrain.com](mailto:customerservice@sleeptrain.com) or phone at 1-800-919-2337 
