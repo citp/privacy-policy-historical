@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kickapps.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623024834id_/http%3A//www.kickapps.com/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kickapps.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219104929id_/http%3A//www.kickapps.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - KickApps
 
@@ -27,6 +27,8 @@ In operating this Site, we may use cookies. A cookie is a piece of information t
 ### Our Use of Your Personal Data and Other Information
 
 We will use the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by e-mail, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Services, we will use your Personal Data to provide access to such services and to monitor your use of such services. We may also use your Personal Data and other personally non-identifiable information collected through the Site to help us improve the content and functionality of the Site, to better understand our users and to improve the Services. We may use this information to contact you in the future to tell you about services we believe will be of interest to you. 
+
+We will communicate with you through email and notices posted via the Services. These communications may include a series of welcome emails which help inform you about various features of the Services. Please be aware that you will always receive certain emails from us related to the proper functioning of your account. We may send you promotional information unless you have opted out of receiving such information. If you wish to opt-out of receiving promotional emails, please click the "unsubscribe" link at the bottom of the email. 
 
 ###   
 Our Disclosure of Your Personal Data and Other Information
@@ -76,7 +78,7 @@ We process Personal Data only for the purposes for which it was collected and in
 ###   
 Enforcement
 
-We regularly review our compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or our treatment of Personal Data by [contacting us](http://www.kickapps.com/contact-us/index.php?phpMyAdmin=LucfE%2CjKMFSsaqE8hfKYzDTgzpf) through this web site or by writing to us at Privacy Matters, KickApps Corporation, 29 W 38th Street, 5th Floor, New York, NY 10018 USA. When we receive formal written complaints at this address, it is our policy to contact the complainant regarding his or her concerns. KickApps is a participant in The DMA Safe Harbor Program. If you believe KickApps has not satisfactorily addressed your data privacy concerns, you may contact The Direct Marketing Association's Safe Harbor Line at:  [safeharbor@the-dma.org](mailto:safeharbor@the-dma.org), 202-861-2410 (phone). 
+We regularly review our compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or our treatment of Personal Data by [contacting us](http://www.kickapps.com/contact-us/index.php) through this web site or by writing to us at Privacy Matters, KickApps Corporation, 29 W 38th Street, 5th Floor, New York, NY 10018 USA. When we receive formal written complaints at this address, it is our policy to contact the complainant regarding his or her concerns. KickApps is a participant in The DMA Safe Harbor Program. If you believe KickApps has not satisfactorily addressed your data privacy concerns, you may contact The Direct Marketing Association's Safe Harbor Line at:  [safeharbor@the-dma.org](mailto:safeharbor@the-dma.org), 202-861-2410 (phone). 
 
 ###   
 Changes to Our Privacy Policy
