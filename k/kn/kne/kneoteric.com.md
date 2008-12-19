@@ -1,31 +1,11 @@
-> *The following text is extracted and transformed from the kneoteric.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101063623id_/http%3A//www.kneoteric.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kneoteric.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219070115id_/http%3A//www.kneoteric.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Search engine optimization Privecy Policy
+# Privacy Policy: Kneoteric
 
-You are here : [Home](https://web.archive.org/web/20061101063623id_/http%3A//www.kneoteric.com/index.html) > [Services](https://web.archive.org/web/20061101063623id_/http%3A//www.kneoteric.com/seo-services-india.html) > Title and Meta Tag optimization
+Kneoteric recognizes and respects your right to confidentiality and is committed to protecting the privacy of the visitors to its web site [http://www.kneoteric.com](http://www.kneoteric.com/). 
 
-Our Commitment to Privacy: 
+Kneoteric is the sole owner of personal Information divulged voluntarily, including (without limitation) your name, contact information (including e-mail address and URL), and other individually identifiable information about you. We will not give, rent, loan, or sell any identifiable personal information to any other third party, unless legally required to do so. 
 
-We have created this Privacy Policy statement in order to lay bare our commitment to the privacy and protection of your information. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
+Kneoteric retains the right to contact the person who has submitted the information at any time unless otherwise specified. We may send emails to you at the email id provided by you. We respect your privacy and in the event that you choose not to receive such emails, we will take all steps to remove you from our list. We will make all efforts to respond to you in a timely manner to fulfill your requests.
 
-The Information Collected and Used
-
-You can be sure that all the information submitted on our site or collected by us will never be passed on to any third party or misused in any case. The type of personal information collected includes:
-
-  * Name
-  * Company Name
-  * Address
-  * Email address
-  * Phone number
-  * Web address
-  * Description of business issues
-
-
-
-Our Commitment to Data Security
-
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, proper safety measures are implemented.
-
-Altering or Correcting Information
-
-You can easily get the errors rectified, if any, in the information you provide to us. Send us a request mail asking the same and it will be rectified at the earliest. Before changing or correcting the information certain steps will be taken to verify your identity.
+If you have any questions about this privacy policy statement and/or our website, please [get in touch](https://web.archive.org/web/20081219070115id_/http%3A//www.kneoteric.com/contact.html) with us.
