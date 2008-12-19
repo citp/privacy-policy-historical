@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandcentral.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630152326id_/http%3A//www.grandcentral.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandcentral.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219103039id_/http%3A//www.grandcentral.com/legal/privacypolicy) for the most accurate reproduction.*
 
 # GrandCentral: The New Way To Use Your Phones
 
