@@ -1,41 +1,17 @@
-> *The following text is extracted and transformed from the cellphoneforums.net privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008074535id_/http%3A//midibuddy.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellphoneforums.net privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219223800id_/http%3A//cellphoneforums.net/privacy.php) for the most accurate reproduction.*
 
-# MIDIBuddy - Privacy Policy
+# Privacy Policy - Cell Phone Forums
 
-> **MIDIBuddy** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ MIDIBuddy ](http://midibuddy.net/)
-> 
-> ####  Information Automatically Logged 
-> 
-> We use your IP address to help diagnose problems with our server and to administer our Web site. It is automatically logged through the sites trackers and log files. The message board software also tracks your IP which is stored in a secure area only seen by adminstrators. 
-> 
-> ####  Advertisers 
-> 
-> We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
-> 
-> ####  Registration Forms 
-> 
-> Our board software stores user information (input upon registration), including your e-mail address, in a secure database. Other users may see this info, if you choose. To change these settings please vitit your user control panel at <http://board.midibuddy.net/usercp.php>
-> 
-> Your e-mail address is only used for purpose of sending you updates and information and is not distributed in any way. 
-> 
-> Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-> 
-> ####  External Links 
-> 
-> This site contains links to other sites. **MIDIBuddy** is not responsible for the privacy practices or the content of such Web sites. 
-> 
-> ####  Choice/Opt-Out 
-> 
-> Our site provides users the opportunity to opt-out of receiving future mailings of any type. 
-> 
->   1. You can visit the following URL: [ http://board.midibuddy.net/usercp.php ](http://board.midibuddy.net/usercp.php) to change your user settings. 
->   2. You can also visit the unsubscribe URL posted at the bottom of every e-mail sent out in every mailing. 
-> 
+Cell Phone Forums recognizes that you care about the personal information that obtained about you and how it is used. The following outlines the various ways Cell Phone Forums uses information to provide you a better browsing experience.
 
-> 
-> ##  Contacting the Web Site 
-> 
-> If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-> 
-> 
-> [ webmster@midibuddy.net ](mailto:webmaster@midibuddy.net)
+  * This privacy policy applies to all personal data, submitted by you, to the Cell Phone Forums web site.
+  * By registering to Cell Phone Forums you submit a chosen name and an e-mail address. No sensitive personal information, such as Social Security or Credit Card numbers are stored by us.
+  * Cell Phone Forums also stores and reads cookies to and from your computer. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our forums and general website features to recognize your browser for when you return to this web site. By using this website, you agree that both the webserver, and any trusted 3rd party we chose, such as advertising networks, may place a tracking cookie on your machine and access it at any time during your session. In general, cookies are safe and are not a security issue when being used from 'trusted' internet sites, such as Cell Phone Forums. For information on how to manage cookies in your browser, please visit [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=2)
+  * Cell Phone Forums will not sell, transmit or distribute any data held without your prior permission or consent, unless required to do so under relevant United States legislation.
+  * All other information provided by you goes into a "public profile" and is entirely optional, all information held in that profile is held there at your own risk. This info is edited via your [User Control Panel](https://web.archive.org/usercp.php).
+  * You have a legal right for the personal information held at Cell Phone Forums to be updated, if it is incorrect, or removed fromt he site completely if you choose. Most of this can be done through your [User Control Panel](https://web.archive.org/usercp.php). If you are having issues with this, please [contact us](https://web.archive.org/sendmessage.php) for assistance.
+  * Cell Phone Forums will take all reasonable effort to ensure that all personal information about you submitted is maintained secure on our server. However, we make no warranty to this.
+  * This site is intended for individuals over the age of 13. Any information collected is intended to be of individuals over the age of 13. According to [COPPA](http://www.ftc.gov/coppa/index.html), our site does NOT cater to children. "Operators of commercial websites or online services directed to children under 13 that collect personal information from children" require a COPPA agreement and privacy policy. Since we do not cater to this age group, no COPPA exists on Cell Phone Forums
+  * This Privacy Policy may be modified at any time without notice. It is your responsibility to check this page for updates or changes. If you have any questions regarding your privacy, then [Contact Us](https://web.archive.org/sendmessage.php)
+
+
