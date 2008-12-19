@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the footlocker.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614060141id_/http%3A//www.footlocker.com/content/custserv/help--privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footlocker.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219115954id_/http%3A//www.footlocker.com/content/custserv/help--privacyPolicy) for the most accurate reproduction.*
 
 # Foot Locker
 
 |  **Help Index**   
   
 ---  
-|  [](http://www.footlocker.com/content/custserv/help--account/)  
+|  [My Account](http://www.footlocker.com/content/custserv/help--account/)  
   
-|  [](http://www.footlocker.com/content/custserv/help--orderInfo/)  
+|  [Order Information](http://www.footlocker.com/content/custserv/help--orderInfo/)  
   
-|  [](http://www.footlocker.com/content/custserv/help--shipInfo/)  
+|  [Shipping Information](http://www.footlocker.com/content/custserv/help--shipInfo/)  
   
-|  [](http://www.footlocker.com/content/custserv/help--returnsExchanges/)  
+|  [Returns and Exchanges](http://www.footlocker.com/content/custserv/help--returnsExchanges/)  
   
-|  [](http://www.footlocker.com/content/custserv/help--giftInfo/)  
+|  [Gift Certificates and GiftCards](http://www.footlocker.com/content/custserv/help--giftInfo/)  
   
-|  [](http://www.footlocker.com/content/custserv/help--otherServices/)  
+|  [Other Services](http://www.footlocker.com/content/custserv/help--otherServices/)  
   
-|  [](http://www.footlocker.com/content/custserv/help--generalSizing/)  
+|  [General Sizing Information](http://www.footlocker.com/content/custserv/help--generalSizing/)  
   
-|  [](http://www.footlocker.com/content/custserv/help--sportSpecificSizing/)  
+|  [Sport-Specific Sizing Help, Tips & Information](http://www.footlocker.com/content/custserv/help--sportSpecificSizing/)  
   
 |   
 ---  
@@ -31,15 +31,15 @@ Other Services
 ---  
 Foot Locker believes in keeping your confidential information confidential. With this in mind, we have adopted the online privacy policy described below, which addresses:  
    
-[Registration](https://web.archive.org/content/custserv/help--privacyPolicy/#Registration) | [Option to Opt-Out](https://web.archive.org/content/custserv/help--privacyPolicy/#Option)  
-[Order Information](https://web.archive.org/content/custserv/help--privacyPolicy/#Order) | [Security Information](https://web.archive.org/content/custserv/help--privacyPolicy/#Security)  
-[Use of Information](https://web.archive.org/content/custserv/help--privacyPolicy/#Information) | [Contests](https://web.archive.org/content/custserv/help--privacyPolicy/#Contests)  
-[Updating of Information](https://web.archive.org/content/custserv/help--privacyPolicy/#Updating) | [Contacting the website](https://web.archive.org/content/custserv/help--privacyPolicy/#Contacting)  
-[Changes to Our Privacy Policy](https://web.archive.org/content/custserv/help--privacyPolicy/#Changes) | [External Links](https://web.archive.org/content/custserv/help--privacyPolicy/#External)  
-[Cookies](https://web.archive.org/content/custserv/help--privacyPolicy/#Cookies) |    
+[Registration](http://www.footlocker.com/content/custserv/help--privacyPolicy/#Registration) | [Option to Opt-Out](http://www.footlocker.com/content/custserv/help--privacyPolicy/#Option)  
+[Order Information](http://www.footlocker.com/content/custserv/help--privacyPolicy/#Order) | [Security Information](http://www.footlocker.com/content/custserv/help--privacyPolicy/#Security)  
+[Use of Information](http://www.footlocker.com/content/custserv/help--privacyPolicy/#Information) | [Contests](http://www.footlocker.com/content/custserv/help--privacyPolicy/#Contests)  
+[Updating of Information](http://www.footlocker.com/content/custserv/help--privacyPolicy/#Updating) | [Contacting the website](http://www.footlocker.com/content/custserv/help--privacyPolicy/#Contacting)  
+[Changes to Our Privacy Policy](http://www.footlocker.com/content/custserv/help--privacyPolicy/#Changes) | [External Links](http://www.footlocker.com/content/custserv/help--privacyPolicy/#External)  
+[Cookies](http://www.footlocker.com/content/custserv/help--privacyPolicy/#Cookies) |    
    
 Registration  
-We encourage you to register when shopping at our website, however it is not required. Our [registration form](https://www.footlocker.com/account/default.cfm?TID=5555-18140800322118000669451-0&action=accountCreate) requires users to give us contact information (such as name, age range, mailing address, daytime telephone number, email address and password). You must be 13 years of age or older to register. Registration helps us to provide you with a quick and simple checkout experience. The customer contact information you supply on the registration form will be used to contact you concerning the status of an order or to answer your questions. In addition, unless you choose to opt-out, it will be used to send you email updates about upcoming sales, contests, promotions and product information. _You acknowledge and agree that you are responsible for maintaining the confidentiality of your registration information and password._ If you would like, you can also fill out a customer profile. While it is not required, information obtained from the customer profile questions helps us to learn more about our customers and is used to improve our customers' shopping experience with us.  
+We encourage you to register when shopping at our website, however it is not required. Our [registration form](https://www.footlocker.com/account/default.cfm?TID=5555-59190805202159051275442-0&action=accountCreate) requires users to give us contact information (such as name, age range, mailing address, daytime telephone number, email address and password). You must be 13 years of age or older to register. Registration helps us to provide you with a quick and simple checkout experience. The customer contact information you supply on the registration form will be used to contact you concerning the status of an order or to answer your questions. In addition, unless you choose to opt-out, it will be used to send you email updates about upcoming sales, contests, promotions and product information. _You acknowledge and agree that you are responsible for maintaining the confidentiality of your registration information and password._ If you would like, you can also fill out a customer profile. While it is not required, information obtained from the customer profile questions helps us to learn more about our customers and is used to improve our customers' shopping experience with us.  
    
 Order Information  
 Foot Locker does not sell products for purchase by children. We sell children's products for purchase by adults. Customers may use an order form to purchase products. When you place an order, we collect contact information, such as your shipping and email addresses, and financial information, such as your account or credit card numbers. Contact information from the order form is used to send orders and information to our customers and to get in touch with them when necessary. Financial information is used to bill the customer for products. You also have the option of ordering products over the telephone and you may choose to pay by check, credit card or money order.  
@@ -59,7 +59,7 @@ We do not sell any information about our users on the individual customer level.
 As with any business, it is possible that as our business develops, we might sell or buy online stores or other assets. In such transactions, information about customers often is among the transferred assets. Accordingly, in the unlikely event that our company or substantially all of our assets are acquired by a third party, such information may be one of the transferred assets.  
    
 Updating of Information  
-In order to change or modify information previously provided by you, please choose "[My Account](https://www.footlocker.com/account/default.cfm?TID=5555-18140800322118000669451-0)" and update your information using the options on this page.  
+In order to change or modify information previously provided by you, please choose "[My Account](https://www.footlocker.com/account/default.cfm?TID=5555-59190805202159051275442-0)" and update your information using the options on this page.  
    
 Changes to Our Privacy Policy  
 We may amend this Privacy Policy at any time. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending you an email at the last email address that you provided us, and/or by prominently posting notice of the changes on the website covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our transmittal of an email notice to you or thirty (30) calendar days following our posting of the notice of changes on the website covered by the Privacy Policy.  
@@ -76,7 +76,7 @@ If you register with us or order from our website, we use cookies to monitor and
 Most web browsers automatically accept cookies, but you can usually change the configuration of your browser to prevent this from occurring. Even without a cookie, you can still take advantage of most of the features of our website, but you will not be able to make a purchase with cookies disabled. Additionally, we will not be able to recognize you as a registered user unless you log-in.  
    
 Option to Opt-out  
-At all times, you have the option of "opting out" of receiving future email updates by sending us an email with "unsubscribe" in the subject line at [customer_service@footlocker.com](mailto:customer_service@footlocker.com)  
+At all times, you have the option of "opting out" of receiving future email updates by sending us an email with "unsubscribe" in the subject line at [customer_service@footlocker.com](http://www.footlocker.com/content/feedback/customSubject--unsubscribe/)  
    
 Security of Information  
 Foot Locker has security measures in place to protect against the loss, misuse or alteration of the information you provide. We encrypt your personal information, including your credit card number, when transmitting over the Internet using triple key encryption technology by Secure Server Certification Authority RSA Data Security Inc. US and a VeriSign SSL (Secure Socket Layer), to safeguard your Internet transactions. VeriSign, Inc. is a leading provider of Public Key Infrastructure and digital certificate solutions used by enterprises, websites and consumers to conduct secure communications and transactions over the Internet and private networks.  
@@ -89,7 +89,7 @@ Foot Locker may occasionally conduct contests on our website in which we ask par
 Contacting the Website  
 Should you have any further questions regarding this Privacy Statement, the practices of this website, or your dealings with this website, please:  
    
-  | 1. | Contact our Customer Service Department at : [customer_service@footlocker.com](mailto:customer_service@footlocker.com); or  
+  | 1. | Contact our Customer Service Department at : [customer_service@footlocker.com](http://www.footlocker.com/content/feedback/); or  
   |   |    
   | 2. | Write to us at:  
   |   |    
@@ -104,4 +104,4 @@ This website contains links to other sites. We are not responsible for the priva
    
 You acknowledge and agree that Foot Locker is not responsible for the content, accuracy, legality, decency, copyright compliance, privacy practices, security or any other aspects of any such linked websites, and that the access or use of any such linked websites is solely at your own risk, and you hereby waive any and all claims against Foot Locker with respect to such linked websites.  
    
-If you can't find answers to your questions here, please [ contact us](mailto:customer_service@footlocker.com).
+If you can't find answers to your questions here, please [ contact us](http://www.footlocker.com/content/custserv/help--contactUs/).
