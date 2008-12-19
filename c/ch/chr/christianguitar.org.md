@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the christianguitar.org privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616235201id_/http%3A//www.christianguitar.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianguitar.org privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219183552id_/http%3A//www.christianguitar.org/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - ChristianGuitar.org
+# Privacy Policy - Christian Guitar Tabs
 
 [home](https://web.archive.org/) > Privacy Policy
 
@@ -34,10 +34,10 @@ This site makes message boards available to its users. Please remember that any 
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by clicking [here](https://web.archive.org/web/20080616235201id_/http%3A//www.christianguitar.org/contactus.php).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by clicking [here](https://web.archive.org/web/20081219183552id_/http%3A//www.christianguitar.org/contactus.php).
 
-**[Sweetwater Sound](http://www.sweetwater.com/)**  
-CGR has partnered with Sweetwater Sound to help the CGR community in all our guitar needs. They have everything from strings, guitars, pedals, and more. Sweetwater, where you can get the best guitar gear for the best price.
+**[Complimentary Christian Ringtones](http://x.azjmp.com/0ZR2g)**  
+Dadamobile and CGR have teamed up to bring your favorite Christian artists right to your phone. Sign up today and get 10 complementary ringtones!
 
 **[Tab Country](http://www.tabcountry.com/)**  
 Did you know CGR has a sister site w/ country guitar tabs? Well we do! Its called Tab Country. It has a great archive with a lot of country tabs.
@@ -45,8 +45,8 @@ Did you know CGR has a sister site w/ country guitar tabs? Well we do! Its calle
 **[Rockin Tabs](http://www.rockintabs.com/)**  
 Are you looking for a site that has rock guitar tabs? Then Rockintabs.com is the place for you. It is a budding site with many rock guitar tabs. Submit your tab today.
 
-**[Christian Ringtones](http://x.azjmp.com/0ZR2g)**  
-Dadamobile and CGR have teamed up to bring your favorite Christian artists right to your phone. Sign up today and get 10 complementary ringtones!
+**[Tab Gallery](http://www.tabgallery.com/)**  
+Tab Gallery has a compilation of christian, rock, and country tabs all in one place. Come visit us.
 
 | 
 
@@ -54,32 +54,32 @@ Subscribe and stay up to date
 
 [](http://feeds.feedburner.com/CGR)
 
-There are currently **133** users ( **23** members and **110** guests) on the site. 
+There are currently **311** users ( **24** members and **287** guests) on the site. 
 
-As of June 16th, 2008 we have **14,529** tabs, which have been viewed **68,321,033** times.
+As of December 19th, 2008 we have **14,592** tabs, which have been viewed **68,701,870** times.
 
 sponsor
 
 [](https://web.archive.org/forums/forumdisplay.php?forumid=296)
 
-April 14th, 2008  
-[New Super Moderator](https://web.archive.org/web/20080616235201id_/http%3A//www.christianguitar.org/forums/showthread.php?threadid=164781&goto=newpost "New Super Moderator")
+October 24th, 2008  
+[Apologize for the downtime](http://www.christianguitar.org/forums/showthread.php?threadid=171844&goto=newpost "Apologize for the downtime")
 
-i would like to introduce to you the newest member of our admin team. she has been a member...
+sorry about the downtime. it seems we had a traffic spike late at night that caused the mysql connections...
 
-April 3rd, 2008  
-[more server maintenance](https://web.archive.org/web/20080616235201id_/http%3A//www.christianguitar.org/forums/showthread.php?threadid=164369&goto=newpost "more server maintenance")
+September 13th, 2008  
+[New Features and Thoughts](http://www.christianguitar.org/forums/showthread.php?threadid=170630&goto=newpost "New Features and Thoughts")
 
-we had to do more maintenance this morning and had to rebuild some data tables. sorry for the downtime....
+i just wanted everyone to know that we will be upgrading to vb 3.7.3 next week. this means that...
 
-March 27th, 2008  
-[Server Maintenance](https://web.archive.org/web/20080616235201id_/http%3A//www.christianguitar.org/forums/showthread.php?threadid=164092&goto=newpost "Server Maintenance")
+September 2nd, 2008  
+[Keeping Me On My Toes](http://www.christianguitar.org/forums/showthread.php?threadid=170301&goto=newpost "Keeping Me On My Toes")
 
-We are going to be doing some server maintenance at 12am EST on April 1st for about 2 hours. ...
+sorry about the downtime overnight. what happened was you all filled up one of our hard drives, so we...
 
-December 6th, 2007  
-[sorry about the downtime](https://web.archive.org/web/20080616235201id_/http%3A//www.christianguitar.org/forums/showthread.php?threadid=159781&goto=newpost "sorry about the downtime")
+August 19th, 2008  
+[New Administrator](http://www.christianguitar.org/forums/showthread.php?threadid=169851&goto=newpost "New Administrator")
 
-we had some issues at the datacenter...but everything should be good now. again, i apologize for the downtime....
+I would like to let you all know that CGR has a new Administrator. he has been serving our...
 
 [Complete News Archive](https://web.archive.org/forums/forumdisplay.php?forumid=296)
