@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bajaao.com privacy policy that was archived on 2008-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080405171828id_/http%3A//www.bajaao.com/privacy-policy-i-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bajaao.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219223545id_/http%3A//www.bajaao.com/privacy-policy-i-3.html) for the most accurate reproduction.*
 
-# Bajaao - India - Buy and Review Musical Instruments Online
+# BAJAAO.COM - India - Buy & Review Musical Instruments in India - BAJAO
 
 At Bajaao.com, we are committed to protecting the privacy of our customers and users of our web site located at www.bajaao.com (the "Site") . This privacy policy ("Privacy Policy") gives you details of our privacy practices, including (a) what information we collect about you when you use the Site; (b) how the information will be used or disclosed; and (c) your rights with respect to our collection and use of your data. We may modify these policies from time to time and will provide notice of any major changes by posting such notice on the Site.
 
@@ -46,7 +46,7 @@ The Site provides links to various Web sites maintained by third parties. When y
 
 **Terms and Modifications to Privacy Statement**
 
-By using the Site, you signify your agreement to the terms of our Privacy Policy. If you do not agree with these terms, you should not use the Site. Bajaao.com may modify this privacy statement at any time. If a material change is made to this Privacy Policy and/or the way we use our users’ personally identifiable information, then we will post prominent notice of the nature of such change on the first page of this Privacy Policy and also on our home page. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the Site indicates your assent to any changes to this Privacy Policy.
+By using the Site, you signify your agreement to the terms of our Privacy Policy. If you do not agree with these terms, you should not use the Site. Bajaao.com may modify this privacy statement at any time. If a material change is made to this Privacy Policy and/or the way we use our usersâ€™ personally identifiable information, then we will post prominent notice of the nature of such change on the first page of this Privacy Policy and also on our home page. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the Site indicates your assent to any changes to this Privacy Policy.
 
 **Children**
 
