@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totaltravel.com.au privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231101224id_/http%3A//www.totaltravel.com/about/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltravel.com.au privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219231257id_/http%3A//www.totaltravel.com/about/policies/privacy-policy) for the most accurate reproduction.*
 
 # totaltravel.com - Privacy Policy
 
