@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qsc.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509092745id_/http%3A//www.qsc.com/registration/privacy/website_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qsc.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219163422id_/http%3A//www.qsc.com/registration/privacy/website_privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -36,7 +36,10 @@ QSC gathers email addresses and personal information as a condition to access so
 QSC gathers names and email addresses when supplied voluntarily via our contact request form. This information is shared with third party sales representative firms that are employed by QSC. The information is stored by QSC and the rep firm and is used to provide improved customer satisfaction. QSC does not use this information for advertising. 
 
 **9\. Rebates**  
-To fulfill rebates, name, address, email and product UPC codes are collected by a third-party fulfillment company. QSC receives a report with this information. QSC does not use information collected in rebate programs for advertising and end-users are not contacted except to facilitate the rebate request.
+To fulfill rebates, name, address, email and product UPC codes are collected by a third-party fulfillment company. QSC receives a report with this information. QSC does not use information collected in rebate programs for advertising and end-users are not contacted except to facilitate the rebate request.  
+  
+**10\. Internet Protocol (IP) address geolocation data**  
+Any device requesting data from our webservers transmits the IP address assigned to it. QSC uses a database to match IP addresses with the country and/or the city where it is registered. This is usually the location of the Internet Service Provider (ISP) but in some cases can be the actual location of the device. We use this data to enhance your use of the site by enabling dynamic content that is appropriate to your region. We do not attempt to link location data with other personally identifiable information. We sometimes share this data in aggregate with our partners but not information about specific individuals.
 
  **WEBSITE TRAFFIC TRACKING**
 
@@ -67,7 +70,7 @@ X
 
 X
 
-|  |  |  |    
+|  |  |  |   
 Your e-mail address |  | 
 
 X
@@ -80,7 +83,10 @@ X
 
 X
 
-|  |  |  | X*  
+|  |  |  | 
+
+X*  
+  
 User ID and password |  | 
 
 X
@@ -94,7 +100,7 @@ X
 X  
 
 
-|  |    
+|  |   
 Your purchases |  | 
 
 X
@@ -112,17 +118,46 @@ X
 X  
 
 
-|    
+|   
 Your financial history | 
 
 X
 
-|  |  |  |  |  |  |    
-Your PC configuration | 
+|  |  |  |  |  |  |   
+Your IP address  |  | 
 
 X
 
-|  |  |  |  |  |  |    
+| 
+
+X
+
+|  |  | 
+
+X
+
+| 
+
+X
+
+|   
+Your geographic location  |  | 
+
+X
+
+| 
+
+X
+
+|  |  | 
+
+X
+
+| 
+
+X
+
+|   
 Navigation and clickstream data |  | 
 
 X
@@ -135,18 +170,21 @@ X
 
 X
 
-|    
+|   
 How you use interactive features | 
 
 X
 
-|  |  |  |  |  |  |    
+|  |  |  |  |  |  |   
 Demographic, social or economic data |  | 
 
 X  
 
 
-|  |  |  |  |  | X*  
+|  |  |  |  |  | 
+
+X*  
+  
 Your personal preferences |  | 
 
 X
@@ -159,7 +197,7 @@ X
 
 X
 
-|  |    
+|  |   
 Your postings and on-line content |  | 
 
 X
@@ -180,7 +218,7 @@ X
 
 X
 
-|  |    
+|  |   
 * opt-in only   
   
 Are cookies used? | YES  
@@ -200,8 +238,7 @@ Do we allow users to maintain and edit personal information on the site? | YES
 We store incoming and outgoing email messages at tech_support@qscaudio.com for training, service quality monitoring, and for future problem resolution. Technical support forum registrants may be asked for contact information in order to be of assistance for product or system troubleshooting, or dispute resolution. The aggregate of this information is not disclosed. However, where third party technical assistance may be needed, individual contact information and product / audio system data may be revealed to others.
 
 **EXCEPTIONAL DISCLOSURES  
-**We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct. Disclosure may be required by law or if we receive legal process.  
-
+**We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct. Disclosure may be required by law or if we receive legal process.
 
 **HOW DO WE PROTECT INFORMATION WE COLLECT?  
 **We follow technical and management practices we believe are reasonable under the circumstances to protect the confidentiality, security and integrity of information stored on our system, but we do not operate a completely secure site. For example, we generally do not use secure pages to collect information and we generally do not store data in encrypted form.
@@ -209,6 +246,8 @@ We store incoming and outgoing email messages at tech_support@qscaudio.com for t
 For sections of the web site pertaining to transactions and online order handling, we rely on secure pages as identified in the browser address bar as https://. Address protocol identifiers as http:// or ftp:// represent unsecured pages. Some of these locations are hosted by our web site, but the data may be available to third-party servers.
 
 Customer information is collected for warranty registrations and mailers. Technical support forums are visible on our web site where customers view other customer's questions, contact information, and audio system descriptions. Through our technical support section of the web site we collect customer and audio system data for follow up support requests, tracking, and history.
+
+**Special note about passwords:** For some of our web-based applications, we ask users to create a username and password to login with. For your own protection, we require that you do not use passwords on qscaudio.com that you also use elsewhere, especially passwords used for sensitive applications such as email or online banking logins. 
 
 **HOW LONG DO WE KEEP USER INFORMATION?  
 **We generally keep user data on our server or in our archives for as long as we reasonably need it. We may alter this practice according to changing requirements. For example, we may delete some data if needed to free up storage space. We may keep other data for longer periods if the law requires it. As a QSC web site user you should not rely on us for collected or stored data for restorative or commercial purposes. QSC does not maintain a process for you to review or revise the information you have provided us.  
@@ -221,7 +260,7 @@ Customer information is collected for warranty registrations and mailers. Techni
 
 1) JURISDICTION
 
-**. QSC AUDIO PRODUCTS LLC is a California corporation located in the State of California. This site is for your convenience and information only and is not a solicitation of your business. By your access to or any use of this site you agree that QSC AUDIO PRODUCTS LLC does not submit to the jurisdiction of any other state, country, or governmental entity, and you further agree that for any claim, demand, civil action, or grievance in any manner related to or arising from this web site or your use of the internet to access this site that exclusive jurisdiction is in the State of California and that California law shall govern.
+**. QSC AUDIO PRODUCTS LLC is a Limited Liability Company located in the State of California. This site is for your convenience and information only and is not a solicitation of your business. By your access to or any use of this site you agree that QSC AUDIO PRODUCTS LLC does not submit to the jurisdiction of any other state, country, or governmental entity, and you further agree that for any claim, demand, civil action, or grievance in any manner related to or arising from this web site or your use of the internet to access this site that exclusive jurisdiction is in the State of California and that California law shall govern.
 
 **2) DISCLAIMER LIABILITY.** We have taken reasonable efforts to ensure that the information contained in this web site is accurate. IN NO EVENT SHALL WE BE LIABLE FOR ANY SPECIAL, INDIRECT, PUNITIVE OR CONSEQUENTIAL DAMAGES RESULTING FROM ANY USE OR PERFORMANCE OF OR CONTENT ERRORS OR OMISSIONS IN THE INFORMATION, EVEN IF NOTIFIED IN ADVANCE OF THE POTENTIAL FOR SUCH DAMAGES.
 
