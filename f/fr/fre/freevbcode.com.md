@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freevbcode.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509194658id_/http%3A//www.jupitermedia.com/corporate/privacy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freevbcode.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219134352id_/http%3A//www.jupitermedia.com/corporate/privacy/privacypolicy.html) for the most accurate reproduction.*
 
 # Jupitermedia Privacy Policy
 
