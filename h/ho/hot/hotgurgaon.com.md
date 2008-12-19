@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hotgurgaon.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611012502id_/http%3A//www.hotgurgaon.com/includes/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotgurgaon.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219145957id_/http%3A//www.hotgurgaon.com/includes/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy hot gurgaon
+# Privacy Policy Hot Gurgaon
+
+This policy tells you about how we use and protect your personal information. 
 
 **Contents**
 
@@ -128,3 +130,7 @@ Except as otherwise expressly included in this Privacy Policy, this document add
 ###  General 
 
 We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 30 days after they are initially posted on the Site. In addition, we will notify you through the hotgurgaon.com Message Center. If your questions are not answered online, you may write to us at: hotgurgaon.com
+
+###  **Disclaimer**
+
+The content posted by users on this website belongs to a private person, www.hotgurgaon.com is not responsible for the  content posted by the users. 
