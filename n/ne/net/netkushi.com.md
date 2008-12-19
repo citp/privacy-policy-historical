@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netkushi.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624150348id_/http%3A//netkushi.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netkushi.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220001141id_/http%3A//netkushi.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
