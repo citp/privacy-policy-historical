@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the oursportscentral.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621122003id_/http%3A//www.oursportscentral.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oursportscentral.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219182325id_/http%3A//www.oursportscentral.com/about/privacy) for the most accurate reproduction.*
 
 # Minor League Sports News on OurSports Central
 
+Effective 9/28/01
+
 Privacy Notice Table Of Contents:   
 
-
-  
 
   * Our Commitment To Privacy   
 
@@ -51,6 +51,3 @@ Because we do not collect any personal information, there is nothing that will n
  **How To Contact Us**
 
 Should you have other questions or concerns about these privacy policies, please [contact us](http://www.oursportscentral.com/about/contact).
-
-  
-
