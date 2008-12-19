@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the memsaab.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413115455id_/http%3A//www.memsaab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memsaab.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219181141id_/http%3A//www.memsaab.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Memsaab.com
+# Privacy Policy | Memsaab - Global Indian Woman
 
 Memsaab.com delivers content drawn from its partners and other sources, as well as providing access to message boards, chat sessions. Any information that you provide under memsaab.com services provided through the site may be collected and used by memsaab.com.
 
