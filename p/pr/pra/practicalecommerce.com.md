@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the practicalecommerce.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623085714id_/http%3A//www.practicalecommerce.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicalecommerce.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219130615id_/http%3A//www.practicalecommerce.com/legal/privacy) for the most accurate reproduction.*
 
-# Practical Ecommerce Privacy Policy
-
-### About Practical Ecommerce 
+# Privacy Policy | Practical eCommerce
 
 Practical eCommerce is committed to protecting your privacy. That is why we have adopted this Privacy Policy. It is intended to describe how we use and process your personal information. Please note that by visiting and using Practical eCommerce, you are accepting the practices described in this Privacy Policy.
 
@@ -33,7 +31,8 @@ You can choose whether or not to accept cookies by changing the settings of your
 
 We may also request your email address or mailing address for the purposes of conducting a survey, adding you to our mailing list, or by your request to have someone contact you for additional information. Whenever we request the identity of a visitor, we will clearly indicate the purpose of the inquiry before the information is requested. We will not sell, rent, or otherwise give your email address to a third party without your consent.
 
-Will Practical eCommerce disclose the information collected to third parties?  
+_*Will Practical eCommerce disclose the information collected to third parties? *_
+
 Practical eCommerce will disclose your personal information or any of its log file information when required by law or in the good-faith belief that such actions are necessary to:
 
   * Confirm the edicts of the law or comply with a legal process served on Practical eCommerce.
