@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adspeed.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514210648id_/http%3A//www.adspeed.com/Knowledges/1/Resources/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adspeed.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219102354id_/http%3A//www.adspeed.com/Knowledges/1/Content/Privacy_Statement.html) for the most accurate reproduction.*
 
 # AdSpeed.com - Privacy Statement
 
-AdSpeed.com has created this privacy statement in order to demonstrate our commitment to protecting your privacy. The following document discloses the information gathering and dissemination practices for this website. We also have a [Privacy Statement for advertisements](http://www.adspeed.com/Knowledges/188/Resources/Privacy_Statement_Ad_Serving.html) served by AdSpeed. 
+AdSpeed.com has created this privacy statement in order to demonstrate our commitment to protecting your privacy. The following document discloses the information gathering and dissemination practices for this website. We also have a [Privacy Statement for advertisements](http://www.adspeed.com/Knowledges/188/Content/Privacy_Statement_Ad_Serving.html) served by AdSpeed. 
 
 #### Personal/Site Information
 
@@ -18,4 +18,26 @@ We use IP addresses to help you identify any unauthorized access to your account
 
 #### Cookie
 
-Our site uses cookies to authorize accesses to your account. If you already log in, the server knows you are an authorized user and lets you navigate around the site without asking you for authorization repeatedly. For visitors, we use cookies to improve website navigation. We do not track visitors through 
+Our site uses cookies to authorize accesses to your account. If you already log in, the server knows you are an authorized user and lets you navigate around the site without asking you for authorization repeatedly. For visitors, we use cookies to improve website navigation. We do not track visitors through different websites once you leave AdSpeed.com. 
+
+#### Newsletter Opt In/Out
+
+When signing up, you have an option to subscribe to our monthly newsletter. If you authorize us to send you a monthly newsletter, you will receive it directly from us. You may unsubscribe at any time with no hassle. 
+
+#### Advertisers/Sponsors
+
+We have external ad agents as well as direct advertisers display ads on this site and display sponsor ads on your web site if your account is free/sponsor-based. We do not have access to any information that they collect from you. All sponsor ads will comply with our policy of acceptable contents. Please consult their privacy statement for details. In case you could not find the appropriate documents, please contact us for help. 
+
+#### External Links
+
+This site contains links to external websites. We are not responsible for the privacy practices or the content of such websites. 
+
+#### Public Forums
+
+To help our members with the service, we provide forums, message boards. Please note that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+
+#### General
+
+By registering as a member of our service, you are agreeing to accept this privacy policy. We reserve the right to modify this policy at any time prior to any notice. It is your own benefit to check for any update of the policy in case we have not yet noticed our members. 
+
+If you have any questions about this privacy statement, or the practices of AdSpeed.com, you can contact us.
