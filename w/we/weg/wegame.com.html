@@ -1,147 +1,874 @@
-<!--The following is the downloaded HTML source of the wegame.com privacy policy that was archived on 2008-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080511223123id_/http%3A//www.wegame.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wegame.com privacy policy that was archived on 2008-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219132959id_/http%3A//www.wegame.com/page/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" debug="true"><head profile="http://a9.com/-/spec/opensearch/1.1/">
-		<title>Privacy</title>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="description" content="Watch, upload, and record game videos on WeGame.com.">
-		
-		<link rel="search" type="application/opensearchdescription+xml" href="http://www.wegame.com/search.xml" title="WeGame Video Search">
-		
-		
-		<link rel="shortcut icon" href="http://www.wegame.com/favicon.ico">
-				<link rel="stylesheet" href="/static/css/master.css?v=24" type="text/css" media="screen">
-		<link rel="stylesheet" href="/static/css/ie.css?v=3" type="text/css" media="screen">	
-		
-		<script type="text/javascript" src="/static/js/scripts.js?v=1"></script>
-<script type="text/javascript" src="/static/js/functions.js?v=3"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head profile="http://a9.com/-/spec/opensearch/1.1/">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title>WeGame - Privacy Policy</title>
+<meta name="description" content="Read more on WeGame's privacy policy.">
+<link rel="stylesheet" type="text/css" media="screen, projection" href="http://cdn-static.wegame.com/static/css/screen.css?v=1891">
+<link rel="search" type="application/opensearchdescription+xml" href="http://www.wegame.com/opensearch.xml" title="WeGame Video Search">
+<script type="text/javascript" src="http://cdn-static.wegame.com/static/js/jquery.js?v=34"></script>
+<script type="text/javascript" src="http://cdn-static.wegame.com/static/js/suckerfish.js?v=130"></script>
+<script type="text/javascript" src="http://cdn-static.wegame.com/static/js/thickbox-min.js?v=1945"></script>
+<script type="text/javascript" src="http://cdn-static.wegame.com/static/js/autocomplete.js?v=1775"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+		AutoComplete('global-search-input','global-search-results','/autocomplete/query/');
+		AC['global-search-input']['autosubmit'] = false;
+		AC['global-search-input']['requirevalid'] = false;
+		AC['global-search-input']['hide'].change(function(e) { window.location = $(this).val(); e.stopPropagation(); }).removeAttr('name');
+		AC['global-search-input']['src'].attr('name','query');
+		AC['global-search-input']['autoselect'] = false;
+	});
+	
+</script>
 
 <script type="text/javascript">
-var R_O_M = false;
-</script>			
-	</head>
-
-	<body>
-	
-		<!-- PRELOAD -->
-		<img src="/static/images/nav-item-on.png" class="preload_img">
-		<img src="/static/images/nav-first-item-on.png" class="preload_img">
-		<!-- END PRELOAD -->
-
-		<a name="top"></a>
-
-		<div id="container">
-			<div id="header">
-		<a href="/" id="logo">WeGame.com</a>
-		
-	<div id="profile-links">
-						<strong><a href="/signup/">Sign Up</a></strong>
-		<a href="/signup/" onclick="show_login_box(); return false;">Login</a>
-					</div>
-	
-		<div id="nav">
-		<ul>
-			<li class="first-off"><a href="/" class="first">Home</a></li>
-			<li><a href="/browse/">Watch</a></li>
-			<li><a href="/upload/">Upload</a></li>
-			<li><a href="/download/">Record</a></li>
-			<li><a href="/users/">Users</a></li>
-			<li><a href="/groups/">Groups</a></li>
-			<li><a href="/forums/">Forums</a></li>
-		</ul>
-		<form id="search" action="/browse/" method="get">
-			<fieldset>
-				<input type="text" id="search_input" name="q" class="text"> <input type="image" alt="Search" src="/static/images/search_button.png">
-				<input type="hidden" name="time" value="a">
-			</fieldset>
-		</form>
-	</div>
-	</div>			
-						<div id="content" class="clearfix">
-
-	<div id="content-head">
-		<div class="h-text">
-			<h1>Privacy</h1>
-		</div>
-	</div>
-
-	<div id="one-col">
-		<div class="pod">
-			<div class="body clearfix">
-				<style>
-
-#pvp p {
-	margin: 15px 0 15px 0;
+function createCookie(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+function hide_system_message(id)
+{
+	$('#system-msg-bar').hide();
+	createCookie('hide_system_msg-'+id, 1, 30);
 }
 
-</style>
+</script>
 
-<div id="pvp">
 
-  <p align="center"><font face="Arial" size="2"><b>Privacy Notice</b></font>&nbsp;<br>
-</p>
-<p align="justify"><font face="Arial" size="2">WeGame.com, Inc. ("WeGame") 
-is committed to protecting your privacy.&nbsp; This WeGame Privacy Notice 
-applies to data collected by WeGame through the <a href="http://www.WeGame.com" target="_blank">www.WeGame.com</a> domain 
-name, the "WeGame Website" or "Website"), as well as 
-through WeGame's proprietary software (including the WeGame "Embeddable 
-Player" and the WeGame "Client")(collectively, the "Software") 
-and any other such service provided by WeGame (collectively with the 
-Software, the "Service"). </font>&nbsp;<br></p>
-<p align="justify"><a name="0.2_01000001"></a><font face="Arial" size="2"><b>Accessing 
-Your Personal Information</b></font>&nbsp;<br></p>
-<p align="justify"><font face="Arial" size="2">You may view or edit 
-your personal information and preferences by visiting the Website and 
-logging into your WeGame account (the "WeGame Account") online. <a name="0.2_01000002"></a>
+<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" media="screen, projection" href="http://cdn-static.wegame.com/static/css/ie6.css?v=1990" />
+<![endif]-->
 
-From your WeGame Account, you can choose to receive or stop the delivery 
-of future newsletters, promotional e-mail, and surveys from WeGame.</font>&nbsp;<br>
-</p>
-<p align="justify"><font face="Arial" size="2">Please note that this 
-does not apply to the display of online advertising, nor do they apply 
-to the receipt of mandatory service communications that are considered 
-part of the Services, which you may receive periodically unless you 
-cancel your WeGame Account. </font>&nbsp;<br></p>
-<p align="justify"><font face="Arial" size="2"><b>Collection of Your 
-Personal Information</b></font>&nbsp;<br></p>
-<p align="justify"><font face="Arial" size="2">When you open a user 
-account with WeGame, we ask you to provide certain personal information, 
-such as your name, e-mail address, home or work address, and/or telephone 
-number. We may also collect general demographic information, such as 
-your age, gender, ZIP code, preferences, and interests.&nbsp; We may 
-also collect information about your visit to the Website, such as pages 
-viewed, links clicked and other similar navigation action in connection 
-with the Website.&nbsp; Additionally, we collect certain standard browser 
-information, such as your browser type, IP address, and access times.</font>&nbsp;<br>
-</p>
-<p align="justify"><font face="Arial" size="2">When you receive promotional 
-e-mails or newsletters from WeGame, we may use customized links or similar 
-technologies to determine whether such newsletters or e-mail has been 
-opened and which links you click.&nbsp; This information is used to 
-provide you more focused e-mail communications and/or other information.</font>&nbsp;<br>
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" media="screen, projection" href="http://cdn-static.wegame.com/static/css/ie7.css?v=2110" />
+<![endif]-->
 
-</p>
-<p align="justify"><a name="0.2_01000003"></a><font face="Arial" size="2"><b>Use 
-of Your Personal Information</b></font>&nbsp;<br></p>
-<p align="justify"><font face="Arial" size="2">WeGame collects and uses 
-your personal information to operate and improve the Website and better 
-deliver the Services. These uses may include performing analysis aimed 
-at improving the Service; making the Website or Services more user friendly 
-by reducing the need for you to repeatedly enter the same information; 
-and displaying advertising and content that are tailored to your preferences 
-and interests.</font>&nbsp;<br></p>
-<p align="justify"><font face="Arial" size="2">WeGame may support the 
-Website and the Service by advertising, and accordingly, we may use 
-some of the information collected in order to customize the advertisements 
-to your interests and preferences.&nbsp; However, the process of selecting 
-customized ads tailored to you will use data that does not personally 
-identify you, such as using demographic data such as ZIP code&nbsp;</font>&nbsp;<br>
-</p>
-<p align="justify"><font face="Arial" size="2">We also use your personal 
-information to communicate with you, such as providing you with mandatory 
-notices or discretionary notices about the Service.&nbsp; From time 
-to time, we may also send you surveys or promotional mailings to inform 
-you of other products or services available from WeGame and its affiliates. </font></p>
-<p align="justify"><font face="Arial" size="2">In the event that you 
-are offered to participate in a survey, such survey will includes a 
-privacy sta</font></p></div></div></div></div></div></div></body></html>
+<link rel="shortcut icon" href="/static/images/favicon.ico">
+</head>
+
+<body id="general" class="sm">
+
+<div id="system-msg-bar" class="system-msg">
+	<img src="/static/images/icon-notification-friends.gif" alt=""> Welcome to the new WeGame! <a href="http://blog.wegame.com/" target="_blank">See what's new on our blog</a>. <a href="#" onclick="hide_system_message(1); return false" class="s">[Hide]</a>
+</div>
+
+<div id="global-container-wrap">
+<div id="global-container" class="clearfix">
+<div class="clearfix">
+<div id="user-dashboard" class="clearfix">
+        <p style="display: inline;" class="clearfix">
+		<a href="/login/?next=/page/privacy/" class="user-nav user-nav-login">Login</a>
+		<a href="/signup/?next=/page/privacy/" class="user-nav user-nav-signup">Sign Up</a>
+		<a href="/screenshots/upload" class="user-nav user-nav-ss">Upload Screenshots</a>
+		<a href="/videos/upload/" class="user-nav user-nav-vid">Upload Video</a>
+        <!--<a href="/signup/?next=/page/privacy/">Sign Up</a> or 
+        <a href="/login/?next=/page/privacy/">Login</a>-->
+    </p>
+    </div><!-- end user-dashboard -->
+</div>
+
+<div id="header" class="clearfix">
+	<div id="logo"><!-- change to a gif later to make bottom space disappear-->
+		<a href="/"><img src="/static/images/logo-wegame.png" alt="WeGame.com"><img src="/static/images/logo-wegame-hover.png" id="logo-hover" alt=""></a>
+	</div>
+	<ul id="nav" class="clearfix">
+		<li class="ramrod fne "><span><a href="/videos/" class="main-nav-link">Videos</a><a class="menu-arrow" href="/videos/"></a></span>
+			<div style="display:none;" class="header-drop-down">
+    			<ul>
+    				<li class="first"><a href="/videos/browse/" class="browse">Browse Videos</a></li>
+    				<li class="even"><a href="/videos/browse/" class="sub-link">Popular</a></li>
+    				<li><a href="/videos/browse/?sort=recent" class="sub-link">Recent</a></li>
+    				<li class="even"><a href="/videos/browse/?sort=featured" class="sub-link">Featured</a></li>
+    				<li><a href="/videos/browse/?sort=likes" class="sub-link">Most Liked</a></li>
+    				<li class="even"><a href="/videos/browse/?sort=comments" class="sub-link">Most Discussed</a></li>
+    				<li class="last"><a href="/videos/upload/">Upload Videos</a></li>
+    			</ul>
+			</div>
+		</li>
+		<li class="ramrod fne "><span><a href="/screenshots/" class="main-nav-link">Screenshots</a><a class="menu-arrow" href="/screenshots/">&nbsp;</a></span>
+			<div style="display:none;" class="header-drop-down">
+    			<ul>
+    				<li class="first"><a href="/screenshots/browse/" class="browse">Browse Screenshots</a></li>
+    				<li class="even"><a href="/screenshots/browse/" class="sub-link">Popular</a></li>
+    				<li><a href="/screenshots/browse/?sort=recent" class="sub-link">Recent</a></li>
+    				<li class="even"><a href="/screenshots/browse/?sort=featured" class="sub-link">Featured</a></li>
+    				<li><a href="/screenshots/browse/?sort=likes" class="sub-link">Most Liked</a></li>
+    				<li class="even"><a href="/screenshots/browse/?sort=comments" class="sub-link">Most Discussed</a></li>
+    				<li class="last"><a href="/screenshots/upload/">Upload Screenshots</a></li>
+    			</ul>
+			</div>
+		</li>
+		<li class="ramrod "><span><a href="/games/" class="main-nav-link">Games</a><a class="menu-arrow" href="/games/"></a></span>
+			<div style="display:none;" class="header-drop-down games-menu-div clearfix">
+    			<ul class="games-menu clearfix">
+<li><a href="/games/bf2/"><img src="http://icons.wegame.com/game/bf224.png" alt="">Battlefield 2</a></li>
+<li><a href="/games/cod4/"><img src="http://icons.wegame.com/game/cod424.png" alt="">Call of Duty 4</a></li>
+<li><a href="/games/diablo3/"><img src="http://icons.wegame.com/game/diablo324.png" alt="">Diablo 3</a></li>
+<li><a href="/games/halo3/"><img src="http://icons.wegame.com/game/halo324.png" alt="">Halo 3</a></li>
+<li><a href="/games/misc/"><img src="http://icons.wegame.com/game/misc24.png" alt="">Misc Gaming</a></li>
+<li><a href="/games/sl/"><img src="http://icons.wegame.com/game/sl24.png" alt="">Second Life</a></li>
+<li><a href="/games/starcraft/"><img src="http://icons.wegame.com/game/starcraft24.png" alt="">StarCraft</a></li>
+<li><a href="/games/tf2/"><img src="http://icons.wegame.com/game/tf224.png" alt="">Team Fortress 2</a></li>
+<li><a href="/games/wow/"><img src="http://icons.wegame.com/game/wow24.png" alt="">World of Warcraft</a></li>
+    				<li><a href="/games/"><img src="/static/images/icon-more.png" alt="">More Games</a></li>
+    			</ul>
+			</div>
+		</li>
+		<li class="ramrod fne "><span><a href="/fun/" class="main-nav-link">Fun</a><a class="menu-arrow" href="/fun/"></a></span>
+			<div style="display:none;" class="header-drop-down fun-menu">
+    			<ul>
+    				<li><a href="http://quiz.wegame.com">Quizzes</a></li>
+    				<li class="even"><a href="http://wiki.wegame.com">Wiki</a></li>
+    				<li><a href="http://games.wegame.com">Games</a></li>
+    				<li class="even"><a href="/contest/videos/">Upload Contests</a></li>
+    			</ul>
+			</div>
+		</li>
+		<li class="nav-forums-btn "><span><a href="/forums/" class="main-nav-link">Forums&nbsp;</a></span></li>
+	</ul>
+	
+	<div id="global-search">
+		<form action="/search/">
+			<div>
+				<input name="search" type="text" id="global-search-input" value="Search">
+				<button type="submit" id="global-search-submit">search</button>
+			</div>
+		</form>
+		<div id="global-search-results" class="autocomplete">
+			<dl>
+				<dt class="menu clearfix">Videos &amp; Screenshots (82) <a href=""><img src="/static/images/icon-arrow-white.gif" alt="More..."></a></dt>
+				<dd class="video"><a href=""><em>Le</em>t's go to Bed</a></dd>
+				<dd class="video"><a href=""><em>Le</em> Walk</a></dd>
+				<dd class="screenshot"><a href=""><em>Le</em> Lovecats</a></dd>
+				<dd class="video"><a href=""><em>Le</em> Caterpillar</a></dd>
+				<dd class="video last"><a href=""><em>Le</em> Koop Lung Bao</a></dd>
+				<dt class="clearfix">Games (10) <a href=""><img src="/static/images/icon-arrow-white.gif" alt="More..."></a></dt>
+				<dd class="screenshot"><a href=""><em>Le</em> In Between Days</a></dd>
+				<dd class="screenshot"><a href=""><em>Le</em> Close to Me</a></dd>
+				<dd class="screenshot last"><a href=""><em>Le</em> A Night like This</a></dd>
+				<dt class="clearfix">Gamers (5) <a href=""><img src="/static/images/icon-arrow-white.gif" alt="More..."></a></dt>
+				<dd class="screenshot"><a href=""><em>Le</em>oxhorn</a></dd>
+				<dd class="screenshot"><a href=""><em>Le</em>starfeeder</a></dd>
+				<dd class="screenshot last"><a href=""><em>Le</em>jared</a></dd>
+			</dl>
+			<div class="bottom"></div>
+		</div><!-- end global-search-results -->
+	</div><!-- end global-search -->
+
+</div><!-- header -->
+
+<div id="page-wrap">
+	<div id="sub-header" class="clearfix">
+		<div id="global-download">
+			<a href="/download/">Download Client</a>
+		</div>
+		<ul id="global-messaging" class="clearfix">
+			<li>Win a free MacBook! <a href="http://www.wegame.com/forums/Christmas_Machinima_Contest_2008/Official_Contest_Rules/">Check out the Christmas Machinima Contest »</a></li>
+		</ul>
+	</div><!-- sub-header -->
+	<div id="content" class="clearfix">
+<div class="clearfix">
+<div id="subcol">
+<div class="s pod">
+	<div class="hd">
+		<div class="tl"></div><h2>WeGame</h2><div class="tr"></div>
+	</div><!-- end header -->
+		<div class="bd">
+			<ul class="general-subnav">
+				<li><a href="/about/">About Us</a></li>
+				<li><a href="http://blog.wegame.com/">Company Blog</a></li>
+				<li><a href="/advertising/">Advertising</a></li>
+				<li><a href="/contact/">Contact Us</a></li>
+				<li><a href="/help/">Help</a></li>
+			</ul>
+		</div><!-- end body -->
+	<div class="hd">
+		<div class="tl"></div><h2>Legal</h2><div class="tr"></div>
+	</div><!-- end header -->
+		<div class="bd">
+			<ul class="general-subnav">
+				<li class="selected"><a href="/privacy/">Privacy Policy</a></li>
+				<li><a href="/terms/">Terms of Service</a></li>
+			</ul>
+		</div><!-- end body -->
+	<div class="ft">
+		<div class="bl"></div><div class="br"></div> 
+	</div><!-- end footer -->
+</div><!-- end pod -->
+</div><!-- end subcol -->
+
+<div id="maincol">
+	
+	
+<div class="s pod">
+	<div class="hd">
+		<div class="tl"></div><h2 style="text-align: center;">Privacy Notice</h2><div class="tr"></div>
+	</div><!-- end header -->
+		<div class="bd">
+			<p align="justify"><font face="Arial" size="2">WeGame.com, Inc. ("WeGame") 
+			is committed to protecting your privacy.&nbsp; This WeGame Privacy Notice 
+			applies to data collected by WeGame through the <a href="http://www.WeGame.com" target="_blank">www.WeGame.com</a> domain 
+			name, the "WeGame Website" or "Website"), as well as 
+			through WeGame's proprietary software (including the WeGame "Embeddable 
+			Player" and the WeGame "Client")(collectively, the "Software") 
+			and any other such service provided by WeGame (collectively with the 
+			Software, the "Service"). </font>&nbsp;<br></p>
+			<p align="justify"><a name="0.2_01000001"></a><font face="Arial" size="2"><b>Accessing 
+			Your Personal Information</b></font>&nbsp;<br></p>
+			<p align="justify"><font face="Arial" size="2">You may view or edit 
+			your personal information and preferences by visiting the Website and 
+			logging into your WeGame account (the "WeGame Account") online. <a name="0.2_01000002"></a>
+
+			From your WeGame Account, you can choose to receive or stop the delivery 
+			of future newsletters, promotional e-mail, and surveys from WeGame.</font>&nbsp;<br>
+			</p>
+			<p align="justify"><font face="Arial" size="2">Please note that this 
+			does not apply to the display of online advertising, nor do they apply 
+			to the receipt of mandatory service communications that are considered 
+			part of the Services, which you may receive periodically unless you 
+			cancel your WeGame Account. </font>&nbsp;<br></p>
+			<p align="justify"><font face="Arial" size="2"><b>Collection of Your 
+			Personal Information</b></font>&nbsp;<br></p>
+			<p align="justify"><font face="Arial" size="2">When you open a user 
+			account with WeGame, we ask you to provide certain personal information, 
+			such as your name, e-mail address, home or work address, and/or telephone 
+			number. We may also collect general demographic information, such as 
+			your age, gender, ZIP code, preferences, and interests.&nbsp; We may 
+			also collect information about your visit to the Website, such as pages 
+			viewed, links clicked and other similar navigation action in connection 
+			with the Website.&nbsp; Additionally, we collect certain standard browser 
+			information, such as your browser type, IP address, and access times.</font>&nbsp;<br>
+			</p>
+			<p align="justify"><font face="Arial" size="2">When you receive promotional 
+			e-mails or newsletters from WeGame, we may use customized links or similar 
+			technologies to determine whether such newsletters or e-mail has been 
+			opened and which links you click.&nbsp; This information is used to 
+			provide you more focused e-mail communications and/or other information.</font>&nbsp;<br>
+
+			</p>
+			<p align="justify"><a name="0.2_01000003"></a><font face="Arial" size="2"><b>Use 
+			of Your Personal Information</b></font>&nbsp;<br></p>
+			<p align="justify"><font face="Arial" size="2">WeGame collects and uses 
+			your personal information to operate and improve the Website and better 
+			deliver the Services. These uses may include performing analysis aimed 
+			at improving the Service; making the Website or Services more user friendly 
+			by reducing the need for you to repeatedly enter the same information; 
+			and displaying advertising and content that are tailored to your preferences 
+			and interests.</font>&nbsp;<br></p>
+			<p align="justify"><font face="Arial" size="2">WeGame may support the 
+			Website and the Service by advertising, and accordingly, we may use 
+			some of the information collected in order to customize the advertisements 
+			to your interests and preferences.&nbsp; However, the process of selecting 
+			customized ads tailored to you will use data that does not personally 
+			identify you, such as using demographic data such as ZIP code&nbsp;</font>&nbsp;<br>
+			</p>
+			<p align="justify"><font face="Arial" size="2">We also use your personal 
+			information to communicate with you, such as providing you with mandatory 
+			notices or discretionary notices about the Service.&nbsp; From time 
+			to time, we may also send you surveys or promotional mailings to inform 
+			you of other products or services available from WeGame and its affiliates. </font></p>
+			<p align="justify"><font face="Arial" size="2">In the event that you 
+			are offered to participate in a survey, such survey will includes a 
+			privacy statement that details the way WeGame will use the information 
+			submitted with that survey.</font>&nbsp;<br></p>
+
+			<p align="justify"><font face="Arial" size="2">Personal information 
+			collected on WeGame sites and services may be stored and processed in 
+			the United States or any other country in which WeGame or its affiliates, 
+			subsidiaries or agents maintain facilities, and by using a WeGame site 
+			or service, you consent to any such transfer of information outside 
+			of your country. </font>&nbsp;<br></p>
+
+			<p align="justify"><a name="0.2_01000004"></a><font face="Arial" size="2"><b>Sharing 
+			of Your Personal Information</b></font>&nbsp;<br></p>
+			<p align="justify"><font face="Arial" size="2">Except as described in 
+			this Privacy Notice, your personal information will be used only by 
+			WeGame and its controlled subsidiaries and affiliates, and your personal 
+			information will not be disclosed to any other third party without your 
+			consent.  By accessing your WeGame Account, you may choose to share 
+			your personal information with select WeGame partners so that they can 
+			contact you about their respective products, services or offers. </font>&nbsp;<br>
+			</p>
+			<p align="justify"><font face="Arial" size="2">WeGame occasionally hires 
+			other companies to provide limited administrative and communication 
+			services on our behalf, such as hosting websites, the processing and 
+			delivery of mailings, providing customer support, or performing statistical 
+			analysis of the Services. Those companies will be permitted to obtain 
+			only such personal information as necessary for them to deliver the 
+			service. Those companies are required to maintain the confidentiality 
+			of the information and are prohibited from using it for any other purpose.</font>&nbsp;<br>
+			</p>
+			<p align="justify"><font face="Arial" size="2">WeGame may access and/or 
+			disclose personal information about you or your account without your 
+			prior consent if WeGame has a good faith belief that such action is 
+			necessary to: (i) comply with legal process or other legal requirements 
+			of any governmental authority; (ii) protect and defend the rights or 
+			property of WeGame (including the enforcement of our agreements); (iii) 
+			enforce the Terms of Use, which can be accessed at </font><a href="http://www.wegame.com/tos" target="_blank"><font face="Arial" size="2">www.wegame.com/tos</font></a><font face="Arial" size="2">; 
+			(v) operate or conduct maintenance and repair of the Services or equipment 
+			as authorized by law; or (vi) act in urgent circumstances to protect 
+			the personal safety of users of WeGame Services or members of the public.</font>&nbsp;<br>
+			</p>
+			<p align="justify"><a name="0.2_01000005"></a><a name="0.2_01000006"></a><font face="Arial" size="2"><b>Security 
+			of Your Personal Information</b></font>&nbsp;<br></p>
+
+			<p align="justify"><font face="Arial" size="2">The personally identifiable 
+			information WeGame collects is securely stored within our database, 
+			and we use standard, industry-wide practices such as firewalls, encryption, 
+			and (in certain areas) Secure Socket Layers ("SSL") for protecting 
+			your information. However, as effective as encryption technology is, 
+			no security system is impenetrable. WeGame cannot guarantee the security 
+			of our database, nor can we guarantee that information you supply won't 
+			be intercepted while being transmitted to WeGame over the Internet. 
+			We recommend that you not disclose your password to anyone. &nbsp;</font>&nbsp;<br>
+
+			</p>
+			<p align="justify"><a name="0.2_01000007"></a><font face="Arial" size="2"><b>Collection 
+			and Use of Children's Personal Information</b></font>&nbsp;<br></p>
+			<p align="justify"><font face="Arial" size="2">The Website and the Service 
+			are intended for general audiences, and WeGame does not knowingly collect 
+			any personal information from children.  During the registration process 
+			for a WeGame Account, WeGame does collect age information, and if users 
+			identify themselves as under 13 years of age, WeGame will block such 
+			users from providing personal information</font>&nbsp;<br></p>
+			<p align="justify"><font face="Arial" size="2"><b>Collection 
+			and Use of Information About Your Computer</b></font>&nbsp;<br></p>
+			<p align="justify"><font face="Arial" size="2">Certain features of the 
+			Service connect to WeGame's computer systems over the Internet.&nbsp; You 
+			will not receive a separate notice when these features connect. <b>By 
+			using the Service or the Software, you expressly consent to the transmission 
+			and use of this information as set forth herein.</b>&nbsp; These services 
+			use Internet protocols, which send to the appropriate systems computer 
+			information, such as:</font>&nbsp;<br></p>
+
+			<ul type="disc">
+			  <li><font face="Arial" size="2">what gaming software is on 
+			  your computer;</font></li>
+
+			  <li><font face="Arial" size="2">your Internet protocol address;</font></li>
+			  <li><font face="Arial" size="2">type of operating system;</font></li>
+			  <li><font face="Arial" size="2">browser and name and version; </font></li>
+			  <li><font face="Arial" size="2">your hardware ID; </font></li>
+
+			  <li><font face="Arial" size="2">your regional and language 
+			  settings;</font></li>
+			  <li><font face="Arial" size="2">version of the Software you 
+			  are using; and</font></li>
+
+			  <li><font face="Arial" size="2">language code of the device 
+			  where you installed the Software. </font></li>
+			</ul>
+			&nbsp;<br>
+			<p align="justify"><font face="Arial" size="2">WeGame uses this information 
+			to make other features and services available to you.&nbsp; WeGame may use 
+			the computer information to improve the Service, including, but not 
+			limited to, the Software and the Internet-Specific Services.&nbsp; We may 
+			also share such non-personal information with others, such as hardware 
+			and software vendors.&nbsp; They may use the information to improve how their 
+			products run with the Service.</font>&nbsp;<br></p>
+
+			<p align="justify"><a name="0.2_01000008"></a><font face="Arial" size="2"><b>Use 
+			of Cookies</b></font>&nbsp;<br></p>
+			<p align="justify"><font face="Arial" size="2">WeGame uses "cookies" 
+			to collect non-personal data and information. Cookies are small text 
+			files a website uses to recognize repeat users, and is typically placed 
+			on your hard disk by a Web page server. Cookies contain information 
+			that can later be read by a web server in the domain that issued the 
+			cookie to you.&nbsp; The way cookies function is by assigning a number 
+			to the user that has no meaning outside of the assigning Web site.</font></p>
+
+			<p align="justify"><font face="Arial" size="2"> </font></p>
+			<p align="justify"><font face="Arial" size="2">You should be aware that 
+			WeGame cannot control the use of cookies (or the resulting information) 
+			by WeGame's third-party partners or advertisers.</font>&nbsp;<br></p>
+			<p align="justify"><font face="Arial" size="2">You have the ability 
+			to accept or decline cookies. Most Web browsers automatically accept 
+			cookies, but you can usually modify your browser setting to decline 
+			cookies if you prefer. If you choose to decline cookies, you may not 
+			be able to sign in or use other interactive features of WeGame sites 
+			and services that depend on cookies.</font>&nbsp;<br></p>
+			<p align="justify"><a name="0.2_01000009"></a><a name="0.2_0100000A"></a><font face="Arial" size="2"><b>Advertisements 
+			Displayed by Third Parties </b></font>&nbsp;<br></p>
+			<p align="justify"><font face="Arial" size="2">WeGame may allow third-party 
+			ad serving companies, including ad networks, to display advertisements 
+			on the Website. Ad serving companies may place a persistent cookie on 
+			your computer in order to recognize your computer each time they display 
+			an online advertisement to you, and as such, they may be able to compile 
+			information over time about whether you reviewed or clicked on advertisements 
+			they display.&nbsp; These companies may use this information to display targeted 
+			advertisements and may associate this information with your subsequent 
+			visits, purchases or other activities on participating advertisers' 
+			websites.&nbsp; </font>&nbsp;<br></p>
+
+			<p align="justify"><a name="0.2_0100000B"></a><a name="0.2_0100000C"></a><a name="0.2_0100000D"></a><font face="Arial" size="2"><b>Comments Regarding this Privacy 
+			Notice</b></font>&nbsp;<br></p>
+			<p align="justify"><font face="Arial" size="2">WeGame welcomes your 
+			comments regarding this Privacy Notice. If you have questions regarding 
+			this Privacy Notice, please contact us by e-mail at <a href="https://mail.google.com/mail?view=cm&amp;tf=0&amp;to=privacy@wegame.com" target="_blank">privacy@wegame.com</a>.</font>&nbsp;<br>
+
+			</p>
+			<p align="justify"><a name="0.2_0100000E"></a><font face="Arial" size="2"><b>Modifications 
+			of this Privacy Notice</b></font>&nbsp;<br></p>
+			<p align="justify"><a name="0.2_0100000F"></a><font face="Arial" size="2">WEGAME 
+			MAY MODIFY THIS PRIVACY NOTICE AT ANY TIME, IN WEGAME'S SOLE DISCRETION, 
+			AND SUCH MODIFICATION SHALL BE EFFECTIVE IMMEDIATELY UPON EITHER POSTING 
+			OF THE MODIFIED PRIVACY NOTICE ON THE WEBSITE OR NOTIFYING YOU. YOU 
+			AGREE TO REVIEW THIS PRIVACY NOTICE PERIODICALLY TO ENSURE THAT YOU 
+			ARE AWARE OF ANY MODIFICATIONS. YOUR CONTINUED ACCESS OR USE OF THE 
+			WEBSITE AND/OR THE SOFTWARE SHALL BE DEEMED YOUR CONCLUSIVE ACCEPTANCE 
+			OF THE MODIFIED PRIVACY NOTICE.</font>&nbsp;<br></p>
+			<p align="justify"><font face="Arial" size="2"><i>Last modified on January 
+			7, 2008.</i></font></p>
+
+
+			
+		</div><!-- end body -->
+	<div class="ft">
+		<div class="bl"></div><div class="br"></div> 
+	</div><!-- end footer -->
+</div><!-- end pod -->
+</div><!-- end maincol -->
+</div><!-- end clearfix -->
+	</div><!-- end content -->
+	<div class="clearfix"></div>
+	<div id="footer-extra">
+		<div class="clearfix" style="padding: 14px;">
+
+			<div class="ft-col">
+				<h3>Videos</h3>
+			<ul>
+				<li><a href="/videos/browse/?sort=recent">Recently Added</a></li>
+				<li><a href="/videos/browse/?sort=featured">Featured</a></li>
+				<li><a href="/videos/browse/?sort=likes">Most Popular</a></li>
+				<li><a href="/videos/browse/?sort=comments">Most Discussed</a></li>
+				<li class="last"><a href="/videos/upload/">Upload Videos</a></li>
+			</ul>
+			</div><!-- end ft-col -->
+
+			<div class="ft-col">
+				<h3>Screenshots</h3>
+			<ul>
+				<li><a href="/screenshots/browse/?sort=recent">Recently Added</a></li>
+				<li><a href="/screenshots/browse/?sort=featured">Featured</a></li>
+				<li><a href="/screenshots/browse/?sort=likes">Most Popular</a></li>
+				<li><a href="/screenshots/browse/?sort=comments">Most Discussed</a></li>
+				<li class="last"><a href="/screenshots/upload/">Upload Screenshots</a></li>
+			</ul>
+			</div><!-- end ft-col -->
+
+			<div class="games-col">
+				<h3>Games</h3>
+				<ul>
+										<li>					<a class="game icon clearfix" href="/games/bf2/">
+					<img src="http://icons.wegame.com/game/bf224.png" alt="">
+					<span class="v-center-wrapper">
+					<span class="v-center-middle">
+					<span class="v-center-object">
+						Battlefield 2					</span>
+					</span>
+					</span>
+					</a>
+					</li>
+										<li>					<a class="game icon clearfix" href="/games/cod4/">
+					<img src="http://icons.wegame.com/game/cod424.png" alt="">
+					<span class="v-center-wrapper">
+					<span class="v-center-middle">
+					<span class="v-center-object">
+						Call of Duty 4					</span>
+					</span>
+					</span>
+					</a>
+					</li>
+										<li>					<a class="game icon clearfix" href="/games/diablo3/">
+					<img src="http://icons.wegame.com/game/diablo324.png" alt="">
+					<span class="v-center-wrapper">
+					<span class="v-center-middle">
+					<span class="v-center-object">
+						Diablo 3					</span>
+					</span>
+					</span>
+					</a>
+					</li>
+										<li>					<a class="game icon clearfix" href="/games/halo3/">
+					<img src="http://icons.wegame.com/game/halo324.png" alt="">
+					<span class="v-center-wrapper">
+					<span class="v-center-middle">
+					<span class="v-center-object">
+						Halo 3					</span>
+					</span>
+					</span>
+					</a>
+					</li>
+										<li class="last">					<a class="game icon clearfix" href="/games/misc/">
+					<img src="http://icons.wegame.com/game/misc24.png" alt="">
+					<span class="v-center-wrapper">
+					<span class="v-center-middle">
+					<span class="v-center-object">
+						Misc Gaming					</span>
+					</span>
+					</span>
+					</a>
+					</li>
+					</ul><ul>					<li>					<a class="game icon clearfix" href="/games/sl/">
+					<img src="http://icons.wegame.com/game/sl24.png" alt="">
+					<span class="v-center-wrapper">
+					<span class="v-center-middle">
+					<span class="v-center-object">
+						Second Life					</span>
+					</span>
+					</span>
+					</a>
+					</li>
+										<li>					<a class="game icon clearfix" href="/games/starcraft/">
+					<img src="http://icons.wegame.com/game/starcraft24.png" alt="">
+					<span class="v-center-wrapper">
+					<span class="v-center-middle">
+					<span class="v-center-object">
+						StarCraft					</span>
+					</span>
+					</span>
+					</a>
+					</li>
+										<li>					<a class="game icon clearfix" href="/games/tf2/">
+					<img src="http://icons.wegame.com/game/tf224.png" alt="">
+					<span class="v-center-wrapper">
+					<span class="v-center-middle">
+					<span class="v-center-object">
+						Team Fortress 2					</span>
+					</span>
+					</span>
+					</a>
+					</li>
+										<li>					<a class="game icon clearfix" href="/games/wow/">
+					<img src="http://icons.wegame.com/game/wow24.png" alt="">
+					<span class="v-center-wrapper">
+					<span class="v-center-middle">
+					<span class="v-center-object">
+						World of Warcraft					</span>
+					</span>
+					</span>
+					</a>
+					</li>
+										<li class="last">
+					<a class="game icon clearfix" href="/games/">
+					<img src="/static/images/icon-more.png" alt="">
+					<span class="v-center-wrapper">
+					<span class="v-center-middle">
+					<span class="v-center-object">
+						More Games
+					</span>
+					</span>
+					</span>
+					</a>
+					</li>
+				</ul>
+			
+			</div><!-- end games-col -->
+
+		</div>
+		<div style="clear:both;"></div>
+	</div>
+
+	</div><!-- end page-wrap -->
+
+	<div id="footer">
+		<ul>
+			<li><a href="/" class="home">Home</a></li>
+			<li><a href="http://blog.wegame.com/about/">About Us</a></li>
+			<li><a href="http://blog.wegame.com/">Blog</a></li>
+			<li><a href="http://blog.wegame.com/advertising/">Advertising</a></li>
+			<li><a href="http://blog.wegame.com/contact/">Contact</a></li>
+			<li><a href="/terms/">Terms</a></li>
+			<li><a href="/privacy/">Privacy</a></li>
+			<li><a href="/help/">Help</a></li>
+		</ul>
+		<p>© 2008 WeGame.com, Inc.</p>
+		
+	</div><!-- end footer -->
+	</div><!-- end global-container -->
+	</div><!-- end global-container-wrap -->
+	<div style="display: none;" id="popLogin" class="clearfix">
+		<p class="tb">
+			</p><ul class="tb-tabs clearfix">
+				<li id="selected"><a href="javascript:void(0);" class="btn-signup">Sign Up <img src="/static/images/smiley-light-blue-lg.png" alt=""></a></li>
+				<li><a class="btn-login" href="javascript:void(0);">Login</a></li>
+			</ul>
+			
+			<div class="tb-content">
+			    
+	    		<form id="tb-sign-up-form" class="tb-sign-up-form spin-form" method="post" action="/signup/create/">
+		            <div class="error-inline" style="display: block; width: 272px; margin: 0 0 5px 0;"> Hey, you need to signup to do that!</div>
+	    			<fieldset>
+	    				<ul>
+	    					<li>
+							<label for="username">Username</label>
+							<input class="inputtext" type="text" id="username" name="username" value="" onfocus="if($(this).val()=='Desired Username') { $(this).val(''); }"></li>
+	    					<li>
+							<label for="password">Password</label>
+							<input class="inputtext" type="password" id="password" name="password" value="" onfocus="if($(this).val()=='Password') { $(this).val(''); }"></li>
+	    					<li>
+							<label for="email">Email Address</label>
+							<input class="inputtext" type="text" id="email" name="email" value="" onfocus="if($(this).val()=='Email Address') { $(this).val(''); }"></li>
+	    					<!--<li><label style="font-size: 1.2em; font-weight: normal; color: #666;">Used to send you your password if you forget it.</label></li>-->
+	    					<li>
+	    						<input type="hidden" name="next" value="/page/privacy/">
+	    						<button style="float: left;" class="btn main" type="submit" id="submit">
+	    							<span>Done</span><span class="icon"></span>
+	    						</button>
+	    						<a style="position: absolute; top: 322px; left: 120px;" class="btn-cancel tb-close" href="javascript:void(0);">Close</a>
+	    					</li>
+	    				</ul>
+					</fieldset>
+	    		</form>
+	
+				<form id="tb-login-form" class="spin-form" style="display: none;" method="post" action="/login/">
+	    			<fieldset>
+	    				<ul>
+	    					<li>
+							<label for="username">Username</label>
+							<input class="inputtext" type="text" id="username" name="username" value="" tabindex="1" onfocus="if($(this).val()=='Username') { $(this).val(''); }"></li>
+	    					<li>
+							<label for="password">Password  (<a href="/login/lost/" class="lost-password">Lost your password?</a>)</label>
+							<input class="inputtext" type="password" id="password" name="password" value="" tabindex="2" onfocus="if($(this).val()=='Password') { $(this).val(''); }"></li>
+	    					<li><input type="checkbox" name="remember" value="0" id="remember" tabindex="3"> <label style="color: #666; position: relative; top: -2px; display: inline;" for="remember">Remember me</label></li>
+	    					<li>
+	    						<input type="hidden" name="next" value="/page/privacy/">
+	    						<button style="float: left;" class="btn main" type="submit" id="submit">
+	    							<span>Login</span><span class="icon"></span>
+	    						</button>
+	    						<a style="position: absolute; top: 255px; left: 125px;" class="btn-cancel tb-close" href="javascript:void(0);">Close</a>
+	    					</li>
+	    				</ul>
+					</fieldset>
+	    		</form>
+			</div><!-- end tb-content -->
+		<p></p>
+	</div><!-- end popLogin -->
+	
+	<!-- <script type="text/javascript" src="http://cdn-static.wegame.com/static/js/jquery.browser.plugin.js?v=1846"></script> -->
+	<!--[if lte IE 7]>
+		<script>
+		$("#logo a").hover(
+	    	function(){
+				$("img#logo-hover").show();
+			},
+			
+			function(){
+				$("img#logo-hover").hide();
+			}
+	    );
+	    </script>
+	<![endif]-->
+	
+	<script type="text/javascript">
+	    
+	    $(".btn-signup").click(function() {
+	    	$(".btn-login").parent().attr("id", "");
+	    	$(".btn-signup").parent().attr("id", "selected");
+	    	$("form#tb-login-form").hide();
+	        $("form#tb-sign-up-form").show();
+	    });
+	    
+	    $(".btn-login").click(function() {
+	    	$(".btn-signup").parent().attr("id", "");
+	    	$(".btn-login").parent().attr("id", "selected");
+	    	$("form#tb-sign-up-form").hide();
+	    	$("form#tb-login-form").show();
+	    });
+	    
+	    function thickbox_login() {
+	        $("ul.tb-tabs li").attr("id", "");
+	        $("ul.tb-tabs li:last").attr("id", "selected");
+	        $("form#tb-sign-up-form").hide();
+	        $("form#tb-login-form").show();
+	        return true;
+	    }
+	    
+	    function thickbox_signup() {
+	        $("ul.tb-tabs li").attr("id", "");
+	        $("ul.tb-tabs li:first").attr("id", "selected");
+	        $("form#tb-sign-up-form").show();
+	        $("form#tb-login-form").hide();
+	        return true;
+	    }
+	    
+	    $("a.thickbox").click(function(e) {
+	        $("#flash_player object").css("visibility", "hidden");
+	        tb_show(null,'#TB_inline?height=375&amp;width=340&amp;inlineId=popLogin');
+	    });
+	    
+	    /* Main Nav Water Polo! */
+	    $("body").click(function(ele){
+	        if($(ele.target).hasClass('tb-close')) {
+    	        var tmp = $("#flash_player object");
+    	        if(tmp.length > 0)
+        	        tmp.css("visibility", "visible");
+        	    tb_remove();
+        	    return false;
+        	} else {
+        		/*
+    	        if( $(ele.target).hasClass("menu-arrow") ) {
+        		    var link = $(ele.target);
+    		        var tmp = $(link).parent().next("div");
+    		        if(link.parent().parent().hasClass("selected")) {
+    		       	    link.parent().parent().removeClass("selected");
+        		        $("div.header-drop-down").hide();
+        		        $("#flash_player object").css("visibility", "visible");
+        		    } else {
+        		    	$("a.menu-arrow").each(function() {
+        		            $(this).parent().parent().removeClass("selected");
+        		        });
+        		        $("a.menu-arrow").removeClass("selected");
+        		        $("div.header-drop-down").hide();
+        		        link.parent().parent().addClass("selected");
+        		        tmp.show();
+        		        $("#flash_player object").css("visibility", "hidden");
+        		    }
+    	        } else {
+    	            var tmp = $("div#TB_ajaxContent");
+    	            if(tmp.length == 0) {
+        		        $("a.menu-arrow").each(function() {
+        		            $(this).parent().parent().removeClass("selected");
+        		            $(this).parent().next("div").hide(); 
+        		            $("#flash_player object").css("visibility", "visible");
+        		        });
+        		    }
+    		    }
+    		    */
+    		}
+	    });
+	    
+	    
+	    /* Tabs for Recent Activity */
+	    $("#activity-friends-tab").click(function(){
+	    	$("#activity-everyone-tab").parent().removeClass("active")
+		 	$("#activity-friends-tab").parent().addClass("active")
+	    	$("#activity-everyone").hide();
+			$("#activity-friends-wrapper").show();
+		});
+		$("#activity-everyone-tab").click(function(){
+			$("#activity-friends-tab").parent().removeClass("active")
+		 	$("#activity-everyone-tab").parent().addClass("active")
+			$("#activity-friends-wrapper").hide();
+			$("#activity-everyone").show();
+		});
+	    
+	    
+	    /* This is for drop downs on hover instead of click */
+	    $(".ramrod").hover(
+			function(){
+				$(this).addClass('selected');
+				$(this).children(1).show();
+				$("#flash_player object").css("visibility", "hidden");
+			},
+			function(){
+				$(this).removeClass('selected');
+				$("div.header-drop-down").hide();
+				$("#flash_player object").css("visibility", "visible");
+			}
+	    );
+	    
+		
+		/* Puts the bone into the chicken */
+		$("#user-nav").hover(
+			function(){
+				$("#user-nav").addClass("user-nav-hover");
+				$("#user-nav em").addClass("user-nav-text-hover");
+				$("#dash-nav").show();
+			},
+			function(){
+				$("#user-nav").removeClass("user-nav-hover");
+				$("#user-nav em").removeClass("user-nav-text-hover");
+				$("#dash-nav").hide();
+			}
+	    );
+	    
+	    $("#dash-nav").hover(
+			function(){
+				$("#user-nav").addClass("user-nav-hover");
+				$("#user-nav em").addClass("user-nav-text-hover");
+				$(this).show();
+			},
+			function(){
+				$("#user-nav").removeClass("user-nav-hover");
+				$("#user-nav em").removeClass("user-nav-text-hover");
+				$(this).hide();
+			}
+	    );
+	    
+	    $("#logo a").hover(
+	    	function(){
+				$.browser.chrome = /chrome/.test(navigator.userAgent.toLowerCase());
+				if($.browser.chrome){
+					$("img#logo-hover").css("top", "-48px");
+					$("img#logo-hover").show();
+				} else {
+					$("#logo-hover").fadeIn(800);
+				}
+			},
+			
+			function(){
+				$.browser.chrome = /chrome/.test(navigator.userAgent.toLowerCase());
+				if($.browser.chrome){
+					$("img#logo-hover").hide();
+				} else {
+					$("#logo-hover").fadeOut(1300);
+				}
+			}
+	    );
+	    
+        $("form.spin-form").submit(function(e) {
+            var button = $(this).find("button[@type=submit]");
+            $(button).attr("disabled", "disabled");
+            $(button).addClass("disabled");
+            $(button).after("<div class='ajax-spinner'><img src='/static/images/loading-white.gif' style='vertical-align: middle;' alt='' /></div>");
+            return true;
+        });
+        
+		/* Load download hover image into memory */
+		new Image().src = "/static/images/global-download-icon-bounce.gif";
+	</script>
+		
+	<!--[if lte IE 6]>
+	<script type="text/javascript" src="/static/js/supersleight-min.js"></script>
+	<![endif]-->
+	
+		    <!-- Google Analytics -->
+        <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+        <script type="text/javascript">
+        _uacct = "UA-187450-3";
+        urchinTracker();
+        </script>
+        <!-- End of Google Analytics Code -->
+
+        <!-- Start of StatCounter Code -->
+        <script type="text/javascript">
+        var sc_project=3319743;
+        var sc_invisible=1;
+        var sc_partition=36;
+        var sc_security="78fe81a2";
+        </script>
+        <script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><a class="statcounter" href="http://www.statcounter.com/"><img class="statcounter" src="http://c37.statcounter.com/3319743/0/78fe81a2/0/" alt="click analytics" /></a></div></noscript>
+        <!-- End of StatCounter Code -->
+
+        <!-- Start Quantcast tag -->
+        <script type="text/javascript">
+        _qoptions={
+        qacct:"p-88i0ZwyX5gNmY"
+        };
+        </script>
+        <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+        <noscript>
+        <a href="http://www.quantcast.com/p-88i0ZwyX5gNmY" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-88i0ZwyX5gNmY.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+        </noscript>
+        <!-- End Quantcast tag -->
+    	
+
+</body></html>
