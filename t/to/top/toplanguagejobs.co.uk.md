@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toplanguagejobs.co.uk privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618140200id_/http%3A//www.toplanguagejobs.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toplanguagejobs.co.uk privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219092726id_/http%3A//www.toplanguagejobs.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Top Language Jobs
 
