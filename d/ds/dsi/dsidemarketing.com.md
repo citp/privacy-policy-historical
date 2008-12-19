@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsidemarketing.com privacy policy that was archived on 2008-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080313220211id_/http%3A//www.dsidemarketing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsidemarketing.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219234828id_/http%3A//www.dsidemarketing.com/privacy.html) for the most accurate reproduction.*
 
 # dSide Marketing Privacy Policy
 
@@ -32,4 +32,4 @@ Our Website may contain links to Websites operated by other companies. Some of t
 
 dSide Marketing will amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will make that information available by posting a notice on this site.
 
-If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us using our [contact form](https://web.archive.org/web/20080313220211id_/http%3A//www.dsidemarketing.com/contact.html).
+If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us using our [contact form](https://web.archive.org/web/20081219234828id_/http%3A//www.dsidemarketing.com/contact.html).
