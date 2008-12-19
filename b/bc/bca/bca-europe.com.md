@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bca-europe.com privacy policy that was archived on 2007-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070809144122id_/http%3A//www.bca-europe.com/Default.aspx%3Fpage%3D17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bca-europe.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219052407id_/http%3A//www.bca-europe.com/Default.aspx%3Fpage%3D17) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,8 +9,8 @@ We do request personal information such as your name, email address, company det
 
 We also use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our web site, new services and other information we think you will find valuable. If you choose to opt out of receiving any such communications from us, please email us at [news@bca-group.com](mailto:news@bca-group.com)with "Unsubscribe" in the subject line.
 
-  
-In the future BCA may decide to also collect aggregate information from all web site visitors. This aggregate data would only be used to customize BCA web content to deliver a better experience for our users and will in no way personally identify you.
+In the future BCA may decide to also collect aggregate information from all web site visitors. This aggregate data would only be used to customize BCA web content to deliver a better experience for our users and will in no way personally identify you.  
+
 
 Use of IP Address  
 An IP address is a number that's automatically assigned to your computer whenever you're surfing the web. web servers automatically identify your computer by its IP address. On occasions, we collect IP addresses for the purposes of system administration, to analyse aggregate information, and to audit the use of our site.
@@ -44,10 +44,8 @@ The List Owner (the Data Controller)
 The List Owner and Data Controller is British Car Auctions Ltd, Expedier House, Portsmouth Road, Hindhead, Surrey GU26 6TJ. www.bca-europe.com
 
 Access to your own data  
-To be provided with a copy of your own personal data that we collect online and maintain in our database, and to contest and correct inaccuracies, or request that your personal data be deleted, please send an e-mail and we will action your request. To unsubscribe BCA email communications please email us at
-
-[news@bca-group.com](mailto:news@bca-group.com)with "Unsubscribe" in the subject, and we will take you off the list.
-
+To be provided with a copy of your own personal data that we collect online and maintain in our database, and to contest and correct inaccuracies, or request that your personal data be deleted, please send an e-mail and we will action your request. To unsubscribe BCA email communications please email us at [news@bca-group.com](mailto:news@bca-group.com)with "Unsubscribe" in the subject, and we will take you off the list.  
+  
 Your Acceptance of the Terms of this Privacy Policy  
 By using this site, you signify your assent to the BCA Privacy Policy. If you do not agree to this policy, please do not use this site. The terms of this Privacy Policy may change from time to time without prior notice to you, so please check this page periodically for any changes. Your continued use of this site following the posting of changes to these terms will mean you accept those changes.
 
