@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wize.com privacy policy that was archived on 2008-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080128160312id_/http%3A//wize.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wize.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219222056id_/http%3A//wize.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Wize.com
+# Wize Product Reviews Privacy Policy
 
 Effective November 9, 2007 
 
@@ -19,8 +19,10 @@ All registered users may review, update, correct or delete the Personal Informat
   5. **Security**   
 Wize.com is very concerned with safeguarding your information. We employ reasonable measures designed to protect your information from unauthorized access. 
   6. **Our Policy Toward Children**   
-This Site is not directed to children under 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at Privacy@wize.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. 
+This Site is not directed to children under 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [Privacy@wize.com](mailto:Privacy@wize.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. 
   7. **Contacting Us**   
 If you have any questions about this Privacy Policy, please contact us at [Privacy@wize.com](mailto:Privacy@wize.com). 
 
 
+
+© 2020 Wize, Inc. 
