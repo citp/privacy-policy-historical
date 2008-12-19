@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyork.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618101654id_/http%3A//www.newyork.com/information/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyork.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219164015id_/http%3A//www.newyork.com/information/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - NewYork.com
 
@@ -49,12 +49,12 @@ Your Personal Information:
 
 
 
-       Additional Information: If you don't find what you're looking for, feel free to send us an email at feedback@newyork.com. You may remove yourself from any of our mailing lists by following the instructions in the message or by sending a request to [support@staff.newyork.com](mailto:worldsgreatestwebsite@gmail.com). Tell us your email address and the mailing list that you are on, and we will delete your information. Some of our services are provided by our partner companies and not by NewYork.com. When using these services, please direct questions to the appropriate company. If you have comments or complaints about these companies' services, please let us know at [support@newyork.com](mailto:support@newyork.com). 
+       Additional Information: If you don't find what you're looking for, feel free to send us an email at NewYorkInfo@newyork.com. You may remove yourself from any of our mailing lists by following the instructions in the message or by sending a request to [NewYorkInfo@newyork.com](mailto:worldsgreatestwebsite@gmail.com). Tell us your email address and the mailing list that you are on, and we will delete your information. Some of our services are provided by our partner companies and not by NewYork.com. When using these services, please direct questions to the appropriate company. If you have comments or complaints about these companies' services, please let us know at [NewYorkInfo@newyork.com](mailto:support@newyork.com). 
 
      NewYork.com reserves the right to update this policy at any time. If there are any significant changes to how we handle personal information we will send a notice to the email address in your NewYork.com account, or publish a notice on our site. 
 
      If you have questions you can contact us at:: 
 
 NewYork.com.  
-5 Penn Plaza, 23rd Floor  
+345 7th Ave, Suite 1800  
 New York, NY 10001
