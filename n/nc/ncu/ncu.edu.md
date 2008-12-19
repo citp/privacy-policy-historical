@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncu.edu privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602114625id_/http%3A//www.ncu.edu/about/information_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncu.edu privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219182657id_/http%3A//www.ncu.edu/about/information_privacy.aspx) for the most accurate reproduction.*
 
 # Information Privacy | Northcentral University
 
