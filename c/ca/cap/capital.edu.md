@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capital.edu privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614073359id_/http%3A//www.capital.edu/82) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capital.edu privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219063547id_/http%3A//www.capital.edu/82) for the most accurate reproduction.*
 
 # Privacy
 
@@ -36,5 +36,3 @@ Some web pages within the "capital.edu" domain may collect personal information 
 #### Contacting Us
 
 If you have any questions about the practices of this site, please contact the Webmaster at [webmanager@capital.edu](mailto:webmanager@capital.edu).
-
-1 College and Main, Columbus, OH 43209-2394
