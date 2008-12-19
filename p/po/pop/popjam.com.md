@@ -1,0 +1,109 @@
+> *The following text is extracted and transformed from the popjam.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219182627id_/http%3A//popjam.com/privacy) for the most accurate reproduction.*
+
+# PopJam - Privacy Policy
+
+### Last modified: September 18, 2008
+
+This privacy statement ('Privacy Policy') covers the website www.popjam.com, owned and operated by PopJam Ltd. ('PopJam', 'we', 'us', 'our'). PopJam knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the PopJam website, submitting information or using any of our products or services, you are accepting the practices outlined in this Privacy Policy.
+
+## What Does This Privacy Policy Cover?
+
+This Privacy Policy covers PopJam's treatment of personal information that PopJam gathers when you are on the PopJam website and when you use PopJam services. Also, this Privacy Policy covers PopJam's treatment of any personal information that PopJam's business partners share with PopJam. This Privacy Policy does not apply to the practices of third parties that PopJam does not own or control, or to individuals that PopJam does not employ or manage.
+
+### What Personal Information Does PopJam Collect?
+
+Our primary goal in collecting personal information is to personalize and improve our service. We collect the following types of information from you:
+
+  1. **Information You Provide to Us:**
+
+We may receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The personal information you provide may be used for such purposes as responding to your requests for certain products and services, customizing the advertising and content you see, and communicating with you about your account, site updates and new products.
+
+Registration: In order for you to use our website, you must complete a registration form. As part of this registration form, we require your email address, name, and nickname.
+
+  2. **Automatic Information:**
+    * We may receive and store certain types of information whenever you interact with us. PopJam may automatically receive and record certain "traffic data" on our server logs from your browser including your IP address, PopJam cookie information, and the page you requested. PopJam uses this traffic data to help diagnose problems with its server, analyze trends and administer the website.
+    * Generally, our service may automatically collect usage information, such as the numbers and frequency of visitors to our website and its components. This data is only used in the aggregate, that is, as a statistical measure, and not in a manner that would identify you personally. This type of collective data enables us to figure out how often users use parts of the website, so we can make the website appealing to as many users as possible. In addition, we may provide statistical information, not information about you personally, to our partners about how our users, collectively, use our website. We share this type of statistical data so that our partners also understand how often people use their areas and our website, so that they, too, may provide you with an optimal Web experience.
+    * Many companies offer programs that help you to visit websites anonymously. While PopJam will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
+  3. **E-mail Communications:**
+
+We may receive a confirmation when you open an e-mail from PopJam if your computer supports this type of program, in order to help us make e-mails more interesting and helpful. We may also send out emails with news, notifications, or promotions. If you do not want to receive e-email or other mail from us, please update your profile under the 'Settings - Notificaitons' section of the website.
+
+  4. **Information from Other Sources:**
+
+For purposes such as improving personalization of our service, we may receive information about you from other sources and add it to our account information.
+
+
+
+
+## What about Cookies?
+
+  * Cookies are alphanumeric identifiers that we may transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. PopJam cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your email address is.
+  * The 'help' portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of PopJam's most attractive features.
+  * Some of our business partners may use cookies on our website (for example, advertisers). However, we have no access to or control over these cookies.
+
+
+
+## Will PopJam Share Any of the Information it Receives?
+
+We neither rent nor sell your personal information to anyone. We share your personal information only with your consent or to the business partners and affiliates as described below:
+
+  * **Personnel:**
+
+Our personnel (including, for the avoidance of doubt, consultants and/or contractors) may have access to user information while carrying out their duties in the normal course of our company business.
+
+  * **Agents:**
+
+We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include sending e-mail, removing repetitive information from our database, analyzing data, providing marketing assistance, and providing customer service. You hereby consent to our sharing of your personal information for the above purposes.
+
+  * **Business Transfers:**
+
+In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Moreover, if PopJam, or substantially all of its assets, were acquired, customer information would be one of the assets that is transferred or acquired by a third party.
+
+  * **Protection of PopJam and Others:**
+
+We may release personal information when we believe in good faith that release is necessary to comply with that law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of PopJam, our employees, our customers, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+
+
+
+
+## Is Information About Me Secure?
+
+Your PopJam account information is protected by a password for your privacy and security. You need to work to protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer. All user passwords are encrypted in our database and cannot be read in their raw original form, even by us.
+
+Only PopJam employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to that personal information. All of our employees are kept up to date on our privacy and security practices.
+
+## What Information Can I Access?
+
+You can access your personal information on our website and correct, amend, or delete information that is inaccurate by updating your profile under the 'Settings' section of the website.
+
+## What Choices Do I Have?
+
+As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website.
+
+You are able to add or update certain information on pages, such as those listed in the 'What Personal Information Does PopJam Collect?' section above. When you update information, however, we often maintain a copy of the unrevised information in our records.
+
+You may request deletion of your PopJam account by sending an email to **info[at]popjam[dotcom]**. Please note that some information may remain in our records after deletion of your account.
+
+If you do not wish to receive e-mail or other mail from us, please update your profile under the 'Settings' section of the website. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the PopJam website, and you are responsible for reviewing such legal notices for changes.
+
+As explained earlier, the 'help' portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features.
+
+## Can Children Use PopJam's Services?
+
+You must be at least 13 years old to register to use the PopJam website. As a result, PopJam does not specifically collect information about children.
+
+## Conditions of Use
+
+If you decide to visit the PopJam website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/terms), including limitations on damages, arbitration of disputes, and application of the laws of England & Wales.
+
+## Third Party Websites
+
+PopJam services may permit you to link to other websites on the Internet, and other websites may contain links to the PopJam website. These other websites are not under PopJam control. The privacy and security practices of websites linked to or from the PopJam website are not covered by this Privacy Policy, and PopJam is not responsible for the privacy or security practices or the content of such websites.
+
+## Changes to this Privacy Policy
+
+PopJam may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. We recommend that you periodically check the site for changes, so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
+
+## Questions or Concerns
+
+If you have any questions or concerns regarding privacy at the PopJam website, please send a detailed message to **info[at]popjam[dotcom]**. Your privacy is important to us and we will make every effort to resolve your concerns.
