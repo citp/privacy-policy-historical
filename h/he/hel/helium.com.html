@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the helium.com privacy policy that was archived on 2008-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080604122555id_/http%3A//www.helium.com/content/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the helium.com privacy policy that was archived on 2008-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219050904id_/http%3A//www.helium.com/content/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
     <title>Privacy Policy - Helium</title>
@@ -14,9 +14,7 @@
     <script src="http://www.helium.com/javascripts/window.js" type="text/javascript"></script>
     <script src="http://www.helium.com/javascripts/AC_RunActiveContent.js" type="text/javascript"></script>
 
-    <link href="http://www.helium.com/stylesheets/helium_global_3_0.css" rel="Stylesheet" media="screen, projection" type="text/css">
-    <!--[if IE 6]><link href='http://www.helium.com/stylesheets/helium_global_3_0_IE6.css' rel='Stylesheet' media='screen, projection' type='text/css'  /><![endif]-->
-    <!--[if IE 7]><link href='http://www.helium.com/stylesheets/helium_global_3_0_IE7.css' rel='Stylesheet' media='screen, projection' type='text/css'  /><![endif]-->
+    <link href="http://www.helium.com/css/css/main.css" media="screen, projection" rel="Stylesheet" type="text/css">
 
     <link href="http://www.helium.com/cmsstyles/styles.css" media="screen, projection" rel="Stylesheet" type="text/css">
     <!--[if IE 6]><link href="http://www.helium.com/cmsstyles/stylesIE6.css" media="screen, projection" rel="Stylesheet" type="text/css" /><![endif]-->
@@ -34,35 +32,10 @@
     <div id="bigWrapper">
       <div id="topNav">  
   <a href="http://www.helium.com/">
-    <img src="http://www.helium.com/images/30logo.gif" id="headerLogo" alt="Helium - Where Knowledge Rules">
+    <img src="http://www.helium.com/images/layout/30logo.gif" id="headerLogo" alt="Helium - Where Knowledge Rules">
   </a>
-
-  <div id="toolBar">
-    <div id="search">
-      <script type="text/javascript">
-      // <!--
-      function postFormUnlessEmptySearch(number)
-      {
-        var search_field_value = document.forms["searchform"+number]["search_query"].value;
-        if (search_field_value.length == 0 || search_field_value == "Search Helium") {
-          document.forms["searchform"+number]["search_query"].value = "";
-        }
-        else {
-          $("searchform" + number).submit();
-        }
-      }
-      // --> 
-      </script>
-
-      <form action="http://www.helium.com//search/search" id="searchform1" method="get" target="_top">
-        <div id="searchResults">
-          <img src="http://www.helium.com/images/searchbox_button_go.gif" onclick="postFormUnlessEmptySearch(1);return false;" alt="Searchbox_button_go">
-          <input id="search_query" type="text" class="text default" name="search_query" size="40" value="Search Helium" onclick="clearTextBoxOnClick('searchform1','search_query','Search Helium')" maxlength="200">
-        </div>
-      </form>
-    </div> <!-- end search -->
-
-    <div id="utilityNav">
+  
+  <div id="utilityNav">
        <a href="http://www.helium.com/registration/signup" rel="nofollow" target="_top">Join</a> | 
        <a href="http://www.helium.com/login" rel="nofollow" target="_top">Login</a>
 </div>
@@ -72,15 +45,39 @@
 	to_url = to_url + '&original_referer=' + referer + '&int_referer=' + referer;
 	new Ajax.Request(to_url,{asynchronous:true, evalScripts:true});
 </script>
-  </div> <!-- end toolBar -->
 
   <ul id="globalNav">
-    <li id="whatIsNav"><a href="/whatishelium" target="_top">What is Helium?</a></li>
-    <li><a href="http://www.helium.com/write_wizard" target="_top">Write</a></li>
-    <li><a href="http://www.helium.com/items/rate" target="_top">Rate</a></li>
-    <li><a href="http://www.helium.com/users/my_account" target="_top">My Helium</a></li>
-    <li class="userGuide" id="helpNav"><a href="/user-guide" target="_top">User Guide</a></li>
+    <li id="marketplace"><a href="http://www.helium.com/marketplace" target="_top"></a></li>
+    <li id="journ"><a href="http://www.helium.com/journalism-awards" target="_top"></a></li>
+    <li id="contest"><a href="http://writing-contests.helium.com" target="_top"></a></li>
+    <li id="myhelium"><a href="http://www.helium.com/users/my_account" target="_top"></a></li>
+    <li id="write"><a href="http://www.helium.com/write_menu" target="_top"></a></li>
+    <li id="rate"><a href="http://www.helium.com/items/rate" target="_top"></a></li>
   </ul>
+  
+  <div id="search">
+    <script type="text/javascript">
+    // <!--
+    function postFormUnlessEmptySearch(number)
+    {
+      var search_field_value = document.forms["searchform"+number]["search_query"].value;
+      if (search_field_value.length == 0 || search_field_value == "Search Helium") {
+        document.forms["searchform"+number]["search_query"].value = "";
+      }
+      else {
+        $("searchform" + number).submit();
+      }
+    }
+    // --> 
+    </script>
+
+    <form action="http://www.helium.com//search/search" id="searchform1" method="get" target="_top">
+      <div id="searchResults">
+        <img src="http://www.helium.com/images/topNav/search.gif" onclick="postFormUnlessEmptySearch(1);return false;" alt="Search">
+        <input id="search_query" type="text" class="text default" name="search_query" size="40" value="Search Helium" onclick="clearTextBoxOnClick('searchform1','search_query','Search Helium')" maxlength="200">
+      </div>
+    </form>
+  </div> <!-- end search -->
 
 <script>
 function highlightWhatNav(){
@@ -89,27 +86,28 @@ $('whatIsNav').addClassName('on');
 function highlightHelpNav(){
 $('helpNav').addClassName('on');
 }
+function highlightJournalismNav(){
+$('journ').addClassName('on');
+}
 </script>
 
 </div>
       <div id="contentw">
          <div id="channelList">
-  <img src="http://www.helium.com/images/highlightsButton.gif" alt="Highlights">
+    <img src="http://www.helium.com/images/channelNav/highlightsButton.gif" alt="Highlights">
   <div id="channelNav" class="corp">
-    <div id="innerChannel">
-<ul>
-    <li class="none"><a href="http://www.helium.com/Marketplace" title="Freelance Writing Marketplace">Marketplace</a></li>
-    <li><a href="/pulitzer-contest-overview" title="Pulitzer Center">Pulitzer Center</a></li>
-    <li><a href="/journalism-awards" title="Journalism Awards">Journalism Awards</a></li>
-    <li><a href="http://corp.helium.com/marketingcontest/list" title="Writing Contests">Writing Contests</a></li>
-    <li><a href="http://www.helium.com/partners" title="Causes &amp; Charities">Causes &amp; Charities</a></li>
-    <li><a href="/writers-resources" title="Writers' Resources">Writers’ Resources</a></li>
-    <li><a href="/content/quickstart" title="Helium Quick Start Guide">Helium Quick Start Guide</a></li>
-    <li><a href="http://corp.helium.com/debate" title="Helium Debates">Helium Debates</a></li>
-</ul>
-    </div>
-  </div>
-    <img alt="About" src="/galleries/1/about_button.gif">
+      <ul>
+        <li class="none"><a href="http://www.helium.com/partners/write_cause">Causes &amp; Charities</a></li>
+        <li><a href="http://corp.helium.com/debate">Helium Debates</a></li>
+        <li><a href="/quickstart">Helium Quick Start Guide</a></li>
+        <li><a href="http://heliumblog.wordpress.com/" target="new">Helium's Official Blog</a></li>
+        <li><a href="http://www.helium.com/pulitzer-contest-overview">Pulitzer Center</a></li>
+        <li><a href="http://www.helium.com/user-guide">User Guide</a></li>
+        <li><a href="http://writing-contests.helium.com">Writing Contests</a></li>
+        <li><a href="http://www.helium.com/writers-resources">Writers’ Resources</a></li>
+      </ul>
+  </div><!-- end channelNav -->
+    <img alt="About" src="http://corp.helium.com/images/about_button.gif">
   <div id="channelNav">
     <div id="innerChannel">
       <ul>
@@ -165,7 +163,7 @@ $('helpNav').addClassName('on');
 
 	<ul>
 	<li>This site is designed for adult users, and Helium does not knowingly collect personal information from children under 13, nor does it allow children under age 13 to register for an account.</li>
-		<li>If you are a parent and suspect that your child has provided Helium with personally identifiable information, please contact us at help@helium.com.</li>
+		<li>If you are a parent and suspect that your child has provided Helium with personally identifiable information, please contact us at <a href="mailto:help@helium.com">help@helium.com</a>.</li>
 	</ul>
 
 
@@ -198,7 +196,7 @@ $('helpNav').addClassName('on');
 
 	<ul>
 	<li>You can edit your Helium Account Information at any time by logging in to the site and entering the My Helium area.</li>
-		<li>You may opt out of receiving Helium marketing materials by editing your email preferences <a href="http://corp.helium.com/email/getemailaddress">here</a>. Please note that even if you do opt out of receiving marketing materials, we reserve the right, and will continue to send you certain infrequent communications relating to the Helium service and/or your account, such as service announcements and administrative messages, that are considered part of your Helium account, without offering you the opportunity to opt-out of receiving them.</li>
+		<li>You may opt out of receiving Helium emails by clicking on the “Unsubscribe” link. Please note that even if you do opt out of receiving marketing materials, we reserve the right, and will continue to send you certain infrequent communications relating to the Helium service and/or your account, such as service announcements and administrative messages, that are considered part of your Helium account, without offering you the opportunity to opt-out of receiving them.</li>
 	</ul>
 
 
@@ -241,7 +239,7 @@ $('helpNav').addClassName('on');
 
 
 	<ul>
-	<li>To contact us for more information about this privacy policy or how your information is treated, please contact us by email at <a href="help@helium.com">help@helium.com</a>.</li>
+	<li>To contact us for more information about this privacy policy or how your information is treated, please contact us by email at <a href="mailto:help@helium.com">help@helium.com</a>.</li>
 	</ul>
            
            <div id="extended">
@@ -252,13 +250,14 @@ $('helpNav').addClassName('on');
       </div>
       <div id="footerNav">
   <p>
-     <a href="/whatishelium">What is Helium?</a> | 
-     <a href="/content/user-guide">User Guide</a> | 
-     <a href="http://www.helium.com/smf/index.php">Community</a> |  
-     <a href="http://corp.helium.com/linkhelium">Link to Helium</a> |  
-     <a href="/privacy">Privacy</a> | 
-     <a href="/tos">User agreement</a> |
-     <a href="/proprietary-rights-complaint-process-and-notification-form">DMCA</a>
+     <a rel="nofollow" href="/whatishelium">What is Helium?</a> | 
+     <a rel="nofollow" href="/content/user-guide">User Guide</a> | 
+     <a rel="nofollow" href="http://www.helium.com/smf/index.php">Community</a> |  
+     <a rel="nofollow" href="http://heliumblog.wordpress.com/" target="new">Helium's Official Blog</a> |  
+     <a rel="nofollow" href="http://corp.helium.com/linkhelium">Link to Helium</a> |  
+     <a rel="nofollow" href="/privacy">Privacy</a> | 
+     <a rel="nofollow" href="/tos">User agreement</a> |
+     <a rel="nofollow" href="/proprietary-rights-complaint-process-and-notification-form">DMCA</a>
   </p>
 
   <p class="copyright">
