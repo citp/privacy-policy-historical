@@ -1,137 +1,96 @@
-> *The following text is extracted and transformed from the virtualmedicalcentre.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515091625id_/http%3A//www.virtualmedicalcentre.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualmedicalcentre.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219183145id_/http%3A//virtualmedicalcentre.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
-**VirtualMedicalcentre.com** represents all virtual medical & disease education and resource centres.
+## Privacy Policy
 
-VirtualMedicalcentre.com is the central of our medical and disease centre community of which all entities as a whole, and separately are committed to protecting any privacy and personal information we collect from you during the course of any relationship.  
-We believe that respect for your privacy forms an integral part of the ongoing trust we wish to develop with you. 
-
-## What personal information do we keep?
-
-Below is a summary of the information virtualmedicalcentre.com (this entity encompasses the same conditions for all 13 sites) has access to and keeps stored. The types of information fall within three broad headings. These are your Member Registration, Member Profile, Patient History and Personal Journal.
-
-## Member Registration
-
-If you are a registered member of virtualmedicalcentre.com we generally store the following personal information which is collected during the registration process. This is the minimum information you are required to supply to register as a member:
-
-  * Your name 
-  * Email address 
-  * Country of origin 
-  * Whether you are a site member, medical practitioner or health profession 
-  * The type of information you are interested in 
-  * How you heard about virtualmedicalcentre.com (optional) 
-  * Whether you would like to receive virtualmedicalcentre.com newsletters (optional) 
+  * Privacy Policy Overview
+  * What Personal Information does VMC collect and how does VMC use your Personal Information?
+  * Protecting Your Personal Information
+  * Accessing and Correcting Your Personal Information
+  * Your Personal Information and Third Parties
+  * Cookies
 
 
 
-## Who can access my Member Registration?
+### Privacy Policy Overview
 
-The general public and other registered members are not able to access this information. 
+Virtual Medical Centre (VMC) is committed to protecting your privacy. As a visitor or member of VMC´s website (site), you are interested in knowing more about health issues for you, someone close to you or your practice. We understand that health is a very personal matter and that personal information is provided in confidence. We recognise the importance of privacy and respect your right to control how personal information is collected and used.
 
-## Member Profile
+VMC may vary this privacy policy from time to time. The updates will be posted on this page. We recommend you familiarise yourself with this page when using the site.
 
-If you are a registered member and you choose to provide further information (optional) you may do so by completing the membership final sign up page or Member Profile. This profile contains more specific or personal information such as:
+### What Personal Information does VMC collect and how does VMC use your Personal Information?
 
-  * Your name; 
-  * Email address; 
-  * Likes and dislikes; 
-  * Health information; 
-  * Hobbies; 
-  * General information. 
-
-
-
-## Who can access my Member Profile?
-
-You have a choice as to who can access this information by choosing specific access levels and providing a password. You can either:
-
-  * Allow the general public to view your Member Profile;
-  * Allow the general public to see that you have created a Member Profile but do not allow them to view the contents of your Member Profile unless you provide to them your password;
-  * Allow only other registered members to view your Member Profile;
-  * Allow only other registered members to see that you have created a Member Profile but do not allow them to view the contents of your Member Profile unless you provide them with your password;
-  * Keep the fact that you have created a Member Profile and its contents private.
-
-
-
-## Patient Profile
-
-If you are a registered member and you are a patient you are also able to create a Patient Profile. When completed correctly your Patient Profile contains an accurate record of your illness and treatment history. It contains information relating to:
-
-  * The type of cancer you have and its severity; 
-  * Your medical history including dates of operations and other treatments; 
-  * Medication; 
-  * Your current health practitioners. 
-
-
-
-## Who can access my Patient Profile?
-
-Neither the general public nor other registered members can access this information. It is a record of information primarily for your own use. You may wish to print your Patient Profile and use it to provide your treating doctors as an accurate record of your illness and treatment history.
-
-## Personal Journal
-
-If you are a registered member you may wish to create a Personal Journal. This Journal may contain your own personal experiences, or any matters you wish to write about. It is also possible to post photos to your Journal. 
-
-## Who can access my Journal entries?
-
-Neither the general public nor other registered members can access your Personal Journal. However if you would like to share any experiences or entries with other registered members you can do so by asking (via the website) for that particular entry to be posted to the Patient Gallery. Only other registered members can access the Patient Gallery. All postings to the Patient Gallery are first checked and reviewed by virtualmedicalcentre.com for their content and appropriateness. virtualmedicalcentre.com reserves the right to veto any posting if it deems it inappropriate.
-
-## What does virtualmedicalcentre.com use the information it collects for?
-
-The information collected through your member registration, member profile, patient history and generally through the website, is kept for the following purposes:
-
-  * To let us know who you are; 
-  * To help us identify special offers, events or other matters that might interest you, and inform you about them (if you have indicated to us via the website that you wish to be informed); 
-  * To aggregate anonymous statistical information to be used to ensure that the type, quality and amount of information on the website reflects the needs of the members. 
+  * If you do nothing during your visit to this site but browse or download information, we automatically collect and store the following information about your visit: 
+    * The Internet Protocol address and domain name used but not the email address. The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer. We use the Internet to deliver information to you;
+    * The type of browser and operating system you used and your connection speed;
+    * The date and time you visited this site;
+    * The web pages or services you accessed at this site; and
+    * The previous website you visited prior to coming to this site.
+  * The information we automatically collect or store is used to improve the content of our web services and to help us understand how people are using our services. VMC analyses our site logs to continually improve the value of the materials available on our site. Our site logs are not personally identifiable, and we make no attempt to link them with the individuals that browse this site.
+  * VMC will not collect your personal information unless you have consented and given it to us.
+  * Where and what personal information is collected and how it is used: 
+    * [Sign-up page](https://web.archive.org/web/20081219183145id_/http%3A//virtualmedicalcentre.com/signup.asp)
+      * General Patient Membership 
+        * What personal information is collected: If you sign-up as a patient member of the site, the following information is collected: title, name, username, password, gender, year of birth, your interest in receiving our patient email publications and your interest in receiving marketing materials from Telstra.
+        * How this personal information is used: This information is used to identify you, so you can log into the site, for correspondence with you (if you opt to receive VMC publications) and for VMC internal statistics purposes.
+        * If you opt in to receive marketing materials from Telstra, this personal information will be passed onto them and they will deal with it in accordance with their privacy policy located at <http://www.telstra.com.au/privacy/privacy_statement.html>.
+      * Health Professional Membership 
+        * What personal information is collected: If you are signing up as a health professional, the following information is collected: title, name, username, password, gender, year of birth, professional area, professional body provider number, areas of interest, if you are interested in receiving VMC professional email and print publications and your interest in receiving marketing materials from Telstra.
+        * How this personal information is used: For health professionals, professional body numbers are collected to ensure that you are in fact a health professional, in order to view the password-secure professional level of information.
+        * If you opt in to receive marketing materials from Telstra, this personal information will be passed onto them and they will deal with it in accordance with their privacy policy located at <http://www.telstra.com.au/privacy/privacy_statement.html>.
+    * [Surveys](https://web.archive.org/web/20081219183145id_/http%3A//virtualmedicalcentre.com/survey.asp)
+      * Surveys are conducted on both the website and enewsletters. They are optional. 
+        * What information is collected: Health surveys collect opinions on a health topic- the opinions are recorded but are anonymous.
+        * User acceptance surveys collect opinions of the services VMC provide, an email and username.
+        * How this information is used: Health surveys are used for health promotion purposes.
+        * User acceptance surveys are used to improve the services VMC provide.
+    * [Continuing Medical Education (CME) (Health Professionals only)](https://web.archive.org/web/20081219183145id_/http%3A//virtualmedicalcentre.com/education.asp)
+      * What personal information is collected: The CME program collects the following information from health professionals who choose to participate in the education program: title, name, email, username, password, college, college identification number.
+      * The health professional also submits educational materials (including edited disease information, research on relevant clinical trials, case study and clinical audit).
+      * How this personal information is used: This personal information is collected for identification purposes and accreditation with CME points (if work is of a sufficient standard).
+      * The educational materials are collected for marking purposes by the specialist mentoring the GP.
+    * [Tools](https://web.archive.org/web/20081219183145id_/http%3A//virtualmedicalcentre.com/tools.asp)
+      * What personal information is collected: Tools collect your responses to the questions in the tool. Some tools are for health promotion purposes, some for symptom management, some for investigation analysis and some for drug dose conversions.
+      * Some tools give the option for you to enter your name so you can print the tool and results and take it to the doctor with you. However, we do not save your name.
+      * How this personal information is used: We may look at responses to the tools for statistical purposes only.
 
 
 
-## Third Parties and Your Personal Information 
+### Protecting Your Personal Information
 
-Virtualmedicalcentre.com will not disclose to any unrelated third party any of your personal information except as provided for below:
-
-  * Where virtualmedicalcentre.com believes in good faith that you have consented; 
-  * Where virtualmedicalcentre.com is required to do so by law; 
-  * Virtualmedicalcentre.com may disclose anonymous, aggregated, statistical information to non-related third parties such as advertisers, health professionals, relevant product or service providers. 
+  * VMC will take all reasonable steps to protect any personal information misuse, loss, unauthorised access, modification or disclosure.
+  * VMC will also take reasonable steps to destroy personal information if it is no longer needed.
 
 
 
-## How can I correct/update my information?
+### Accessing and Correcting Your Personal Information
 
-At any time you have the ability to alter any of the information we store about you. If you find that this information is inaccurate, incomplete or out of date then you can correct it on line. You are able to update and add to Member Sign-up, Member Profile, Patient History or Personal Journal.
-
-## Virtualmedicalcentre.com Complaints Procedures
-
-We understand that the information provided to us is often very personal and sensitive information. We value your privacy in this regard and will take all reasonable precautions to prevent unauthorized access to any personal information entrusted to us. At your request we will provide you with further information about the way virtualmedicalcentre.com manages and handles the personal information it holds. If you have any concerns about our handling procedures, your privacy or any other matter please contact virtualmedicalcentre.com (contact details provided below).
-
-#### Contact Details
-
-  * Mail: PO 1048, Subiaco, WA, 6904, Australia 
-  * Email (preferred form of communication): service@virtualmedicalcentre.com 
-  * Telephone: +61 8 9388 0344 
-  * Facsimile: +61 8 9388 0611 
+  * Every effort is made to ensure that personal information held on members is current, accurate and complete.
+  * You can review any personal information VMC collects about you. You may recommend changes to personal information you believe is an error by submitting a written request.
+  * If you believe that your personal information is being used for a purpose other than what you intended it for, [contact VMC](https://web.archive.org/web/20081219183145id_/http%3A//virtualmedicalcentre.com/contactus.asp).
+  * A member´s identity needs to be validated before his⁄her personal information is divulged when requested. In all cases, VMC will take reasonable steps to verify your identity before granting access to personal information or making corrections. If in doubt we do not divulge any information.
 
 
 
-## On receipt of your concern, question or complaint, virtualmedicalcentre.com will:
+### Your Personal Information and Third Parties
 
-  * Acknowledge your correspondences within five working days of receipt; 
-  * Provide a substantive response to the correspondence within two working weeks for routine enquiries; 
-  * Keep you informed of more complex enquiries requiring investigation; 
-  * Include in our response details of the name and contact telephone number of the person responsible for the matter. 
-
+  * Contracts with all service providers⁄consultants whose service involves access to personal information comply with the VMC Privacy Policy.
+  * Third parties are required to sign an undertaking that the information will only be used for the purpose for which the information was provided. This includes mailing houses which receive personal information in order to provide a service for VMC. If you opt-in to receive direct marketing from Telstra when you sign up as a member, Telstra will treat your personal information in accordance with its privacy policy located at   
+<http://www.telstra.com.au/privacy/privacy_statement.html>.
 
 
-## On-line Security
 
-Virtualmedicalcentre.com takes the issue of your on-line security seriously. 
+### Cookies
 
-On-line access to your information is protected by your virtualmedicalcentre.com user name and password which must be provided before you can gain access to your information. As a registered member there is an option for virtualmedicalcentre.com to remember "user name and password" so that you do not have to log in every time you use the site. Obviously if you are using a public computer this would enable any member of the public to visit the site and view your personal information. This would therefore not be an option you would choose. If, however, you are the only user of the computer it may be something you may wish to use for convenience. Virtualmedicalcentre.com cannot take any responsibility for any unauthorized access in these circumstances.
+  * A cookie is a small amount of data, which may include an anonymous unique identifier, that is sent to an individual´s browser from a website´s computers and may either be used only during the internet session (a "session" cookie) or may be stored on the individual´s computer hard drive (a "persistent" cookie).
+  * Cookies can contain data about user movement during the visit to a website. If an individual´s browser software is set to allow cookies, a website can send its own cookie to them. A website cannot access cookies sent to the individual by other sites.
+  * VMC uses cookies to make the individual´s use of the VMC site and services as enjoyable as possible. Cookies themselves do not personally identify users, although they do identify a user´s browser. Cookies are useful to estimate the number of VMC site members and determine overall traffic patterns through the website.
+  * An individual can configure their browser to accept all cookies, reject all cookies, or notify them when a cookie is sent. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.)
 
-## Anonymity
 
-You may browser the VirtualMedicalCentre.com websites freely, without having to provide any personal identifying information. Although membership is necessary to access certain areas, the personal information required is kept to a minimum.
 
   
 
+
+[](http://www.addthis.com/bookmark.php)
