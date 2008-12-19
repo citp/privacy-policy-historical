@@ -1,18 +1,29 @@
-<!--The following is the downloaded HTML source of the hockeystreams.com privacy policy that was archived on 2008-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080518145509id_/http%3A//www.hockeystreams.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hockeystreams.com privacy policy that was archived on 2008-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219120527id_/http%3A//www.hockeystreams.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Hockey Streams - Privacy Policy</title>
-<link rel="StyleSheet" href="/css/default.css" media="screen">
-<link rel="icon" href="/favico.ico" type="image/x-icon">
-<link rel="shortcut icon" href="/favico.ico" type="image/x-icon">
-<script type="text/javascript" src="/js/prototype.js"></script>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<!--[if IE]>
-  <style type="text/css">
-    @import url(/css/ie.css);
-  </style>
-<![endif]-->
+<link rel="StyleSheet" href="/css/default.css" media="screen" type="text/css">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/dropdown.js"></script>
+<script type="text/javascript" src="/js/tooltips.js"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+	$("#signin").click(function(){
+	$("#username").focus();
+	$("#username").css("background-color", "#f8f8f8");
+	$("#password").css("background-color", "#f8f8f8");
+	});
+	});
+
+function popUp(URL) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=530,height=200');");
+}
+</script>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -22,250 +33,676 @@ var pageTracker = _gat._getTracker("UA-3236867-2");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
-<script type="text/javascript">
-function popUp(URL) {
-day = new Date();
-id = day.getTime();
-eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=530,height=200');");
-}
-</script>
-<script type="text/javascript">
-function changeImage(newsrc) {
-  document.getElementById('teamimage').src = newsrc;
-}
-</script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!--[if IE]>
+  <style type="text/css">
+    @import url(/css/ie.css);
+  </style>
+<![endif]-->
+<style type="text/css">
+.anaheimducks {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/anahiem.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.atlantathrashers {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/atlanta.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.bostonbruins {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/boston.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.buffalosabres {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/buffalo.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.calgaryflames {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/calgary.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.carolinahurricanes {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/carolina.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.chicagoblackhawks {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/chicago.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.coloradoavalanche {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/colorado.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.columbusbluejackets {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/columbus.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.dallasstars {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/dallas.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.detroitredwings {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/detroit.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.edmontonoilers {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/edmonton.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.floridapanthers {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/florida.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.losangeleskings {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/losangeles.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.minnesotawild {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/minnesota.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.montrealcanadiens {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/montreal.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.nashvillepredators {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/nashville.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.newjerseydevils {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/newjersey.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.newyorkislanders {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/newyorki.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.newyorkrangers {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/newyorkr.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.ottawasenators {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/ottawa.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.philadelphiaflyers {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/philadelphia.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.phoenixcoyotes {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/phoenix.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.pittsburghpenguins {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/pittsburgh.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.sanjosesharks {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/sanjose.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.stlouisblues {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/stlouis.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.tampabaylightning {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/tampabay.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.torontomapleleafs {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/toronto.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.vancouvercanucks {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/vancouver.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.washingtoncapitals {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/washington.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.canada {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/canada.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.sweden {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/sweden.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.germany {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/germany.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.czechrepublic {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/czechrepublic.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.kazakhstan {
+		display: block;
+		height: px;
+		background-image: url('/images/teams/kazakhstan.gif');
+		background-repeat: no-repeat;
+		text-indent: 10px;
+		line-height: px;
+}			
+.unitedstates {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/unitedstates.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.finland {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/finland.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.russia {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/russia.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.latvia {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/latvia.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+.slovakia {
+		display: block;
+		height: 31px;
+		background-image: url('/images/teams/slovakia.gif');
+		background-repeat: no-repeat;
+		text-indent: 41px;
+		line-height: 31px;
+}			
+</style>
 </head>
 <body>
-<div id="header">
-<span style="float: right; position: relative; top: 7px;"><img src="/images/euro.gif" alt="EuroCUP"></span>
-<a href="/" class="logo"></a>
-</div>
+<div id="header"><div class="contain"><a class="logo" href="/"></a></div></div>
+<div class="divide"></div>
 <div id="menu">
-                <ul>
-                        <li><a href="/" class="home">Home</a></li>
-                        <li><a href="/members/streams" class="streams">View Streams</a></li>
-                        <li><a href="/forums/1/1" class="news">Latest News</a></li>
-                        <li><a href="/members" class="members">Members</a></li>
-                        <li><a href="/schedule" class="schedule">Schedule</a></li>
-                        <li><a href="/forums" class="forums">Forums</a></li>
-                        <li><a href="/about" class="about">About Us</a></li>
-                        <li><a href="/contact" class="contact">Contact Us</a></li>
-						<li><a href="/archives/05-18-2008" class="archives">Game rchives</a></li>
-                        <li><a href="/forums/5" class="rumours">Rumour Mill</a></li>
-						                        <li><a href="/register" class="register">Create Account</a></li>
-						                        <li><a class="space"></a></li>
-                </ul>
+<ul id="nav">
+<li style="padding-left: 15px; padding-right: 15px; min-width: 32px;"><a href="/">Home</a></li>
+<li><a class="border"></a></li>
+<li style="padding-left: 15px; padding-right: 15px; min-width: 52px;"><a href="/watch_hockey">Watch Hockey</a>
+<ul>
+<li><a href="/live_streams">Live Games</a></li>
+<li><a href="/hockey_archives">Archived Games</a></li>
+</ul>
+</li>
+<li><a class="border"></a></li>
+<li style="padding-left: 15px; padding-right: 15px; min-width: 45px;"><a href="/forums/site_related/announcements/december_raffle/640">Raffles</a>
+</li>
+<li><a class="border"></a></li>
+<li style="padding-left: 15px; padding-right: 15px;"><a href="/forums">Forums</a>
+<ul>
+<li><a href="/forums/site_related">Site Related</a></li>
+<li><a href="/forums/around_the_nhl">Around the NHL</a></li>
+<li><a href="/forums/general_chat">General Chat</a></li>
+<li><a href="/forums/rumour_mill">Rumour Mill</a></li>
+<li><a href="/forums/national_hockey_league_team_chat">NHL Team Chat</a></li>
+</ul>
+</li>
+<li><a class="border"></a></li>
+<li style="padding-left: 15px; padding-right: 15px; min-width: 56px;"><a href="/team_zone">Team Zone</a></li>
+<li><a class="border"></a></li>
+<li style="padding-left: 15px; padding-right: 15px; "><a href="/members">My Account</a>
+<ul>
+<li><a href="/members/message_center">Message Center</a></li>
+<li><a href="/members/referals">Track Referals</a></li>
+<li><a href="/members/subscriptions">View Subscriptions</a></li>
+<li><a href="/members/payments">View Payments</a></li>
+<li><a href="/members/raffle">Raffle Tickets</a></li>
+</ul>
+</li>
+<li><a class="border"></a></li>
+<li style="padding-left: 15px; padding-right: 15px; min-width: 50px;"><a href="/calendar">Calendar</a></li>
+<li><a class="border"></a></li>
+<li style="padding-left: 15px; padding-right: 15px; min-width: 50px;"><a href="/about_us">About Us</a></li>
+<li><a class="border"></a></li>
+<li style="padding-left: 15px; padding-right: 15px; min-width: 50px;"><a href="/contact_us">Contact Us</a></li>
+<li><a class="border"></a></li>
+<li style="padding-left: 15px; padding-right: 15px; min-width: 50px;"><a style="color: yellow;" href="/register">Register</a></li>
+</ul>
 </div>
-<div id="teamBg">
-<table style="margin-top: 4px;">
-<tbody><tr>
-<td style="padding-left: 5px;">
-<a href="/teams/anahiem_ducks" style="display: block; background-image: url('/images/teams/anahiem.gif'); height: 14px; width: 53px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/atlanta_thrashers" style="display: block; background-image: url('/images/teams/atlanta.gif'); height: 29px; width: 34px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/boston_bruins" style="display: block; background-image: url('/images/teams/boston.gif'); height: 31px; width: 31px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/buffalo_sabres" style="display: block; background-image: url('/images/teams/buffalo.gif'); height: 25px; width: 37px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/calgary_flames" style="display: block; background-image: url('/images/teams/calgary.gif'); height: 25px; width: 29px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/carolina_hurricanes" style="display: block; background-image: url('/images/teams/carolina.gif'); height: 24px; width: 40px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/chicago_blackhawks" style="display: block; background-image: url('/images/teams/chicago.gif'); height: 28px; width: 33px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/colorado_avalanche" style="display: block; background-image: url('/images/teams/colorado.gif'); height: 28px; width: 34px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/columbus_blue_jackets" style="display: block; background-image: url('/images/teams/columbus.gif'); height: 31px; width: 35px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/dallas_stars" style="display: block; background-image: url('/images/teams/dallas.gif'); height: 25px; width: 38px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/detroit_red_wings" style="display: block; background-image: url('/images/teams/detroit.gif'); height: 25px; width: 33px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/edmonton_oilers" style="display: block; background-image: url('/images/teams/edmonton.gif'); height: 28px; width: 28px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/florida_panthers" style="display: block; background-image: url('/images/teams/florida.gif'); height: 31px; width: 31px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/los_angeles_kings" style="display: block; background-image: url('/images/teams/losangeles.gif'); height: 26px; width: 29px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/minnesota_wild" style="display: block; background-image: url('/images/teams/minnesota.gif'); height: 28px; width: 42px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/montreal_canadiens" style="display: block; background-image: url('/images/teams/montreal.gif'); height: 21px; width: 32px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/nashville_predators" style="display: block; background-image: url('/images/teams/nashville.gif'); height: 27px; width: 45px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/new_jersey_devils" style="display: block; background-image: url('/images/teams/newjersey.gif'); height: 31px; width: 31px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/new_york_islanders" style="display: block; background-image: url('/images/teams/newyorki.gif'); height: 27px; width: 27px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/new_york_rangers" style="display: block; background-image: url('/images/teams/newyorkr.gif'); height: 28px; width: 30px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/ottawa_senators" style="display: block; background-image: url('/images/teams/ottawa.gif'); height: 35px; width: 29px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/philadelphia_flyers" style="display: block; background-image: url('/images/teams/philadelphia.gif'); height: 22px; width: 32px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/phoenix_coyotes" style="display: block; background-image: url('/images/teams/phoenix.gif'); height: 34px; width: 32px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/pittsburgh_penguins" style="display: block; background-image: url('/images/teams/pittsburgh.gif'); height: 30px; width: 31px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/san_jose_sharks" style="display: block; background-image: url('/images/teams/sanjose.gif'); height: 31px; width: 37px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/st_louis_blues" style="display: block; background-image: url('/images/teams/stlouis.gif'); height: 26px; width: 31px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/tampa_bay_lightning" style="display: block; background-image: url('/images/teams/tampabay.gif'); height: 29px; width: 28px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/toronto_maple_leafs" style="display: block; background-image: url('/images/teams/toronto.gif'); height: 29px; width: 25px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/vancouver_canucks" style="display: block; background-image: url('/images/teams/vancouver.gif'); height: 31px; width: 34px;"></a>
-</td>
-
-<td style="padding-left: 5px;">
-<a href="/teams/washington_capitals" style="display: block; background-image: url('/images/teams/washington.gif'); height: 28px; width: 47px;"></a>
-</td>
-
-</tr>
-</tbody></table>
-</div>
-<table cellspacing="0" cellpadding="0" style="width: 100%;" id="menuBg">
-<tbody><tr>
-<td><span class="menuBgleft"><span class="clock" style="margin-left: 10px; position: relative; top: 2px; color: #ffffff; font-weight: bold;">10:55 AM 
-EST</span></span></td>
-<td style="width: 100%;">
-<span class="menuBg">
-<span style="float: left;"><a href="/">Home</a> » <a href="/privacy">Privacy Policy</a></span>
-<span style="float: right;">
-There are currently <a href="/online">2</a> members online
-</span>
-</span>
-</td>
-<td><span class="menuBgRight"><span style="margin-left: 130px; position: relative; top: 7px; color: #ffffff; font-weight: bold;"><a href="/pool" style="color: #ffffff;">View the 2007-2008 Playoff Pool</a></span></span></td>
-</tr>
-</tbody></table>
+<div class="divide" style="margin-top: 1px;"></div>
+<div id="top">
+<ul id="top_boxes">
+<li><div style="clear: left"><div class="top_box_left"></div><div class="top_box_bg">Articles</div><div class="top_box_right"></div></div>
+<div class="top_box">
+<span style="float: right; margin-top: 7px; margin-right: 5px;">10/31/2008 - 04:17 PM</span><span style="display: block; padding: 6px; text-indent: 0px;"><a style="color: #000;" href="/forums/site_related/announcements/non-televised_games/525">Non-Televised Games</a></span>
+<span style="float: right; margin-top: 7px; margin-right: 5px;">10/06/2008 - 05:45 AM</span><span style="display: block;background-color: #E6CFCF; padding: 6px; text-indent: 0px;"><a style="color: #000;" href="/forums/site_related/announcements/introducing_premium_hd/278">Introducing Premium HD™</a></span>
+<span style="float: right; margin-top: 7px; margin-right: 5px;">09/25/2008 - 02:08 AM</span><span style="display: block; padding: 6px; text-indent: 0px;"><a style="color: #000;" href="/forums/site_related/announcements/hockeystreams_referral_program/207">HockeyStreams Referral Program...</a></span>
+<span style="float: right; margin-top: 7px; margin-right: 5px;">09/25/2008 - 01:59 AM</span><span style="display: block;background-color: #E6CFCF; padding: 6px; text-indent: 0px;"><a style="color: #000;" href="/forums/site_related/announcements/hockeystreams_on_apple_mac/206">HockeyStreams on Apple Mac</a></span>
+</div></li>
+<li><div style="clear: both"><div class="top_box_left"></div><div class="top_box_bg">Sign In</div><div class="top_box_right"></div></div><div class="top_box">
+You are currently <b>not</b> signed in! Sign in below or <a href="/register">register now!</a>
 <form method="post" action="/verify/login">
-<div class="containers">
-<span class="firstcont">
-<span class="mainhead">Today's Streams</span>
-<span style="display: block; padding: 2px; background-color: #f1f1f1;"> <span class="stream">WORLD CUP</span> <b>Russia (0) @ Canada (0)</b> - 1:00 PM</span>
-<span style="display: block; padding: 2px; backgorund-color: #f8f8f8;"><span class="stream">NHL</span> <a href="/teams/philadelphia_flyers">Philadelphia Flyers</a> (0) @ <a href="/teams/pittsburgh_penguins">Pittsburgh Penguins</a> (0)  - 3:00 PM</span>
-<span style="display: block; padding: 2px; background-color: #f1f1f1;"> <span class="stream">MEMORIAL CUP</span> <b>Spokane (0) @ Kitchener (0)</b> - 4:30 PM</span>
-
-</span>
-<span class="secondcont">
-<span style="display: block; padding: 5px;">
-<b>You are not logged in!</b> Login below or <a href="/register">Click Here</a> to register.
-</span>
-<span style="display: block; padding: 5px; padding-left: 10px;">
-<b>Username</b>
-<br>
-<input type="text" name="username" style="border: 1px solid #cecece; height: 18px; padding-top: 2px; border-right: 2px solid #cecece; border-bottom: 2px solid #cecece; color: #000000;" size="35"> <input style="font-size: 10px; text-align: right; font-family: Tahoma; border: none;" type="checkbox" name="remember"> Remember Me
-<br>
-<b>Password</b>
-<br>
-<input type="password" name="password" style="border: 1px solid #cecece; height: 18px; padding-top: 2px; border-right: 2px solid #cecece; border-bottom: 2px solid #cecece; color: #000000;" size="35"> 
-<input type="submit" name="submit" value="Login" class="loginbut" style="display: inline">
-</span>
-</span>
-<span class="thirdcont">
-<span class="mainhead">Recent News</span>
-<span style="display: block; padding: 6px; text-indent: 20px;"><a href="/forums/1/1/157">New Website</a><span style="float: right; position: relative; bottom: 20px;">05/03/2008 - 04:09 AM</span></span>
-<span style="display: block;background-color: #ececec; padding: 6px; text-indent: 20px;"><a href="/forums/1/1/139">TNA Lockdown</a><span style="float: right; position: relative; bottom: 20px;">04/13/2008 - 02:11 AM</span></span>
-<span style="display: block; padding: 6px; text-indent: 20px;"><a href="/forums/1/1/76">Game Archives are up!</a><span style="float: right; position: relative; bottom: 20px;">04/01/2008 - 11:57 PM</span></span>
-<span style="display: block;background-color: #ececec; padding: 6px; text-indent: 20px;"><a href="/forums/1/1/73">Special Offer until 04/16/2008</a><span style="float: right; position: relative; bottom: 20px;">03/28/2008 - 03:45 AM</span></span>
+<table style="width: 100%; margin-top: 5px;">
+<tbody><tr>
+<td style="width: 70px;"><label for="username"><b>Username</b>:</label></td>
+<td><input type="text" size="33" name="username" id="username" style=" border: 1px solid #cecece; padding: 5px;"></td>
+</tr>
+<tr>
+<td><label for="password"><b>Password</b>:</label></td>
+<td><input type="password" size="33" name="password" id="password" style="border: 1px solid #cecece; padding: 5px;"></td>
+</tr>
+<tr>
+<td colspan="2" align="right"><a href="/recover_password" style="float: left; margin-top: 5px;">Lost Password?</a><input type="submit" name="submit" value="Sign In" style="float: right;"></td>
+</tr>
+</tbody></table>
+</form>
+</div></li>
+<li><div style="clear: both"><div class="top_box_left"></div><div class="top_box_bg">Recent News</div><div class="top_box_right"></div></div><div class="top_box">
+<span style="float: right; margin-top: 7px; margin-right: 5px;">12/16/2008 - 02:30 PM</span><span style="display: block; padding: 6px; text-indent: 0px;"><a style="color: #000;" href="/forums/site_related/announcements/will_the_world_juniors_be_available_on_hockeystreams/835"><b>Will the World Juniors be avai...</b></a></span>
+<span style="float: right; margin-top: 7px; margin-right: 5px;">12/15/2008 - 04:50 AM</span><span style="display: block;background-color: #E6CFCF; padding: 6px; text-indent: 0px;"><a style="color: #000;" href="/forums/site_related/announcements/january_raffle/831">January Raffle</a></span>
+<span style="float: right; margin-top: 7px; margin-right: 5px;">12/09/2008 - 03:56 AM</span><span style="display: block; padding: 6px; text-indent: 0px;"><a style="color: #000;" href="/forums/site_related/announcements/free_daily_previews/814"><b>Free Daily Previews</b></a></span>
+<span style="float: right; margin-top: 7px; margin-right: 5px;">12/08/2008 - 04:41 AM</span><span style="display: block;background-color: #E6CFCF; padding: 6px; text-indent: 0px;"><a style="color: #000;" href="/forums/site_related/announcements/free_preview_-_december_8th_2008/809">Free Preview - December 8th, 2...</a></span>
+</div></li>
+</ul>
+</div>
+<div class="divide"></div>
+<div id="location_bar">
+<div class="text">
+<span style="float: left;" class="where"><a href="/">Home</a> » <a href="/privacy_policy">Privacy Policy</a></span>
+<span style="float: right;">
+There are currently <a style="color: #fff;" href="/online">0</a> members online
 </span>
 </div>
-</form>
-<table cellspacing="0" cellpadding="0" style="width: 100%;">
+</div>
+<div class="divide" style="margin-top: 1px;"></div>
+<div id="container">
+<div style="float: left; width: 330px;">
+
+<ul id="boxes">
+<li>
+<div style="clear: left">
+<div class="body_box_left"></div>
+<div class="body_box_bg"><span style="float: right; font-size: 9px; font-family: Tahoma; color: yellow;">currently 07:05 AM</span>Today's Streams <span style="font-size: 10px; font-family: Tahoma; color: #fff;">(12/19/2008)</span></div>
+<div class="body_box_right"></div>
+</div>
+<div class="body_box" style="padding: 0px; padding-top: 5px; width: 313px; min-height: 150px;">
+<div style="background-color: #fff; padding: 5px; text-align: center;"><b>DISPLAY SCORES</b>:  <span style="color: red; font-weight: bold;">OFF</span> <a href="/scores_on">ON</a> </div>
+<script type="text/javascript">
+function chatUp_558() {
+window.open( "/include/stream_chat.inc.php?stream=558", "chatUp_558", "status = 0, height = 390, width = 755, resizable=0, menubar=0, statusbar=0" )
+}
+
+function summaryUp_558() {
+window.open( "/include/summary.inc.php?stream=558", "summaryUp_558", "status = 1, height = 500, width = 675, resizable=1, menubar=0, statusbar=0, scrollbars=yes" )
+}
+</script>
+<div style="padding: 5px; border: 1px solid #cecece; margin: 5px; ">
+<span style="border-bottom: 1px dashed #000; padding: 5px; display: block; font-weight: bold;">
+<a onclick="summaryUp_558()" style="font-weight: bold; float: right; cursor: pointer;"> Game Summary</a>
+<a onclick="chatUp_558()" style="font-weight: bold; float: right; cursor: pointer;">Open Chat |&nbsp;</a>
+7:00 PM</span>
+
+<div style="float: right; position: relative; top: 4px;">
+<a class="profilebut" style="width: 100px; background-image: none; background-color: gray; color: #cccccc; cursor: default;"> <span style="font-size: 16px; position: absolute; left: 30px; filter:alpha(opacity=35); -moz-opacity:.35; opacity:.35; color: #000;">FREE</span>   Watch Live</a>
+<a class="profilebut" style="width: 100px; background-image: none; background-color: gray; color: #cccccc; cursor: default;"> <span style="font-size: 16px; position: absolute; left: 30px; filter:alpha(opacity=35); -moz-opacity:.35; opacity:.35; color: #000;">FREE</span>  Watch Live (HD)</a>
+</div>
+<div>
+<a class="newjerseydevils" href="/team_zone/new_jersey_devils" style="font-weight: bold; color: #000; font-size: 10px;">New Jersey Devils</a>
+<a class="ottawasenators" href="/team_zone/ottawa_senators" style="font-weight: bold; color: #000; font-size: 10px;">Ottawa Senators</a>
+</div>
+<div style="clear: both;"></div>
+</div>
+<script type="text/javascript">
+function chatUp_4691125() {
+window.open( "/include/stream_chat.inc.php?stream=4691125", "chatUp_4691125", "status = 0, height = 390, width = 755, resizable=0, menubar=0, statusbar=0" )
+}
+
+function summaryUp_4691125() {
+window.open( "/include/summary.inc.php?stream=4691125", "summaryUp_4691125", "status = 1, height = 500, width = 675, resizable=1, menubar=0, statusbar=0, scrollbars=yes" )
+}
+</script>
+<div style="padding: 5px; border: 1px solid #cecece; margin: 5px; background-color: #f7f7f7;">
+<span style="border-bottom: 1px dashed #000; padding: 5px; display: block; font-weight: bold;">
+<a onclick="summaryUp_4691125()" style="font-weight: bold; float: right; cursor: pointer;"> Game Summary</a>
+<a onclick="chatUp_4691125()" style="font-weight: bold; float: right; cursor: pointer;">Open Chat |&nbsp;</a>
+7:00 PM</span>
+
+<div style="float: right; position: relative; top: 4px;">
+<a class="profilebut" style="width: 100px; background-image: none; background-color: gray; color: #cccccc; cursor: default;">  Watch Live</a>
+<a class="profilebut" style="width: 100px; background-image: none; background-color: gray; color: #cccccc; cursor: default;"> Watch Live (HD)</a>
+</div>
+<div>
+<a class="canada" href="/team_zone/canada" style="font-weight: bold; color: #000; font-size: 10px;">Canada</a>
+<a class="sweden" href="/team_zone/sweden" style="font-weight: bold; color: #000; font-size: 10px;">Sweden</a>
+</div>
+<div style="clear: both;"></div>
+</div>
+<script type="text/javascript">
+function chatUp_559() {
+window.open( "/include/stream_chat.inc.php?stream=559", "chatUp_559", "status = 0, height = 390, width = 755, resizable=0, menubar=0, statusbar=0" )
+}
+
+function summaryUp_559() {
+window.open( "/include/summary.inc.php?stream=559", "summaryUp_559", "status = 1, height = 500, width = 675, resizable=1, menubar=0, statusbar=0, scrollbars=yes" )
+}
+</script>
+<div style="padding: 5px; border: 1px solid #cecece; margin: 5px; ">
+<span style="border-bottom: 1px dashed #000; padding: 5px; display: block; font-weight: bold;">
+<a onclick="summaryUp_559()" style="font-weight: bold; float: right; cursor: pointer;"> Game Summary</a>
+<a onclick="chatUp_559()" style="font-weight: bold; float: right; cursor: pointer;">Open Chat |&nbsp;</a>
+7:30 PM</span>
+
+<div style="float: right; position: relative; top: 4px;">
+<a class="profilebut" style="width: 100px; background-image: none; background-color: gray; color: #cccccc; cursor: default;">  Watch Live</a>
+</div>
+<div>
+<a class="buffalosabres" href="/team_zone/buffalo_sabres" style="font-weight: bold; color: #000; font-size: 10px;">Buffalo Sabres</a>
+<a class="losangeleskings" href="/team_zone/los_angeles_kings" style="font-weight: bold; color: #000; font-size: 10px;">Los Angeles Kings</a>
+</div>
+<div style="clear: both;"></div>
+</div>
+<script type="text/javascript">
+function chatUp_560() {
+window.open( "/include/stream_chat.inc.php?stream=560", "chatUp_560", "status = 0, height = 390, width = 755, resizable=0, menubar=0, statusbar=0" )
+}
+
+function summaryUp_560() {
+window.open( "/include/summary.inc.php?stream=560", "summaryUp_560", "status = 1, height = 500, width = 675, resizable=1, menubar=0, statusbar=0, scrollbars=yes" )
+}
+</script>
+<div style="padding: 5px; border: 1px solid #cecece; margin: 5px; background-color: #f7f7f7;">
+<span style="border-bottom: 1px dashed #000; padding: 5px; display: block; font-weight: bold;">
+<a onclick="summaryUp_560()" style="font-weight: bold; float: right; cursor: pointer;"> Game Summary</a>
+<a onclick="chatUp_560()" style="font-weight: bold; float: right; cursor: pointer;">Open Chat |&nbsp;</a>
+8:00 PM</span>
+
+<div style="float: right; position: relative; top: 4px;">
+<a class="profilebut" style="width: 100px; background-image: none; background-color: gray; color: #cccccc; cursor: default;">  Watch Live</a>
+</div>
+<div>
+<a class="minnesotawild" href="/team_zone/minnesota_wild" style="font-weight: bold; color: #000; font-size: 10px;">Minnesota Wild</a>
+<a class="newyorkislanders" href="/team_zone/new_york_islanders" style="font-weight: bold; color: #000; font-size: 10px;">New York Islanders</a>
+</div>
+<div style="clear: both;"></div>
+</div>
+<script type="text/javascript">
+function chatUp_561() {
+window.open( "/include/stream_chat.inc.php?stream=561", "chatUp_561", "status = 0, height = 390, width = 755, resizable=0, menubar=0, statusbar=0" )
+}
+
+function summaryUp_561() {
+window.open( "/include/summary.inc.php?stream=561", "summaryUp_561", "status = 1, height = 500, width = 675, resizable=1, menubar=0, statusbar=0, scrollbars=yes" )
+}
+</script>
+<div style="padding: 5px; border: 1px solid #cecece; margin: 5px; ">
+<span style="border-bottom: 1px dashed #000; padding: 5px; display: block; font-weight: bold;">
+<a onclick="summaryUp_561()" style="font-weight: bold; float: right; cursor: pointer;"> Game Summary</a>
+<a onclick="chatUp_561()" style="font-weight: bold; float: right; cursor: pointer;">Open Chat |&nbsp;</a>
+9:00 PM</span>
+
+<div style="float: right; position: relative; top: 4px;">
+<a class="profilebut" style="width: 100px; background-image: none; background-color: gray; color: #cccccc; cursor: default;">  Watch Live</a>
+<a class="profilebut" style="width: 100px; background-image: none; background-color: gray; color: #cccccc; cursor: default;"> Watch Live (HD)</a>
+</div>
+<div>
+<a class="calgaryflames" href="/team_zone/calgary_flames" style="font-weight: bold; color: #000; font-size: 10px;">Calgary Flames</a>
+<a class="chicagoblackhawks" href="/team_zone/chicago_blackhawks" style="font-weight: bold; color: #000; font-size: 10px;">Chicago Blackhawks</a>
+</div>
+<div style="clear: both;"></div>
+</div>
+<script type="text/javascript">
+function chatUp_562() {
+window.open( "/include/stream_chat.inc.php?stream=562", "chatUp_562", "status = 0, height = 390, width = 755, resizable=0, menubar=0, statusbar=0" )
+}
+
+function summaryUp_562() {
+window.open( "/include/summary.inc.php?stream=562", "summaryUp_562", "status = 1, height = 500, width = 675, resizable=1, menubar=0, statusbar=0, scrollbars=yes" )
+}
+</script>
+<div style="padding: 5px; border: 1px solid #cecece; margin: 5px; background-color: #f7f7f7;">
+<span style="border-bottom: 1px dashed #000; padding: 5px; display: block; font-weight: bold;">
+<a onclick="summaryUp_562()" style="font-weight: bold; float: right; cursor: pointer;"> Game Summary</a>
+<a onclick="chatUp_562()" style="font-weight: bold; float: right; cursor: pointer;">Open Chat |&nbsp;</a>
+9:00 PM</span>
+
+<div style="float: right; position: relative; top: 4px;">
+<a class="profilebut" style="width: 100px; background-image: none; background-color: gray; color: #cccccc; cursor: default;">  Watch Live</a>
+</div>
+<div>
+<a class="edmontonoilers" href="/team_zone/edmonton_oilers" style="font-weight: bold; color: #000; font-size: 10px;">Edmonton Oilers</a>
+<a class="anaheimducks" href="/team_zone/anaheim_ducks" style="font-weight: bold; color: #000; font-size: 10px;">Anaheim Ducks</a>
+</div>
+<div style="clear: both;"></div>
+</div>
+</div>
+</li>
+<li>
+<div style="clear: left">
+<div class="body_box_left"></div>
+<div class="body_box_bg">Membership Features</div>
+<div class="body_box_right"></div>
+</div>
+<div class="body_box" style="padding: 0px; width: 313px;">
+<table style="width: 100%;" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td valign="top" style="width: 20%; border-right: 3px solid #05158c;">
-<div class="boxhead">Donate-Per-Day</div>
-<div class="boxcontent">
+<td style="width: 33%; padding: 5px;">&nbsp;</td>
+<td style="width: 33%; padding: 5px; text-align: center;"><b>Regular</b></td>
+<td style="padding: 5px; background-color: #e6cfcf; text-align: center;"><b>Premium &amp; HD</b></td>
+</tr>
+<tr>
+<td style="padding: 5px; font-weight: bold; border-bottom: 1px dotted #000000;"><a class="tooltip" title="Chat on the forums, create topics, participate in polls.">(?)</a> Forums</td>
+<td align="center" style="padding: 5px; font-weight: bold; border-bottom: 1px dotted #000000; align: center; margin: auto;"><a class="checkg" title="Yes"></a></td>
+<td align="center" style="padding: 5px; background-color: #e6cfcf; font-weight: bold; border-bottom: 1px dotted #000000;"><a class="checkg" title="Yes"></a></td>
+</tr>
+<tr>
+<td style="padding: 5px; font-weight: bold; border-bottom: 1px dotted #000000;"><a class="tooltip" title="View latest news regarding all 30 teams in the NHL, Rumours, Incidents, etc.">(?)</a> Team Zone</td>
+<td align="center" style="padding: 5px; font-weight: bold; border-bottom: 1px dotted #000000; align: center; margin: auto;"><a class="checkg" title="Yes"></a></td>
+<td align="center" style="padding: 5px; background-color: #e6cfcf; font-weight: bold; border-bottom: 1px dotted #000000;"><a class="checkg" title="Yes"></a></td>
+</tr>
+<tr>
+<td style="padding: 5px; font-weight: bold; border-bottom: 1px dotted #000000;"><a class="tooltip" title="Watch hockey games as they happen! LIVE broadcasts of all 30 teams in the NHL.">(?)</a> Live Streams</td>
+<td align="center" style="padding: 5px; font-weight: bold; border-bottom: 1px dotted #000000; align: center; margin: auto;"><a class="x" title="No"></a></td>
+<td align="center" style="padding: 5px; background-color: #e6cfcf; font-weight: bold; border-bottom: 1px dotted #000000;"><a class="checkg" title="Yes"></a></td>
+</tr>
+<tr>
+<td style="padding: 5px; font-weight: bold; border-bottom: 1px dotted #000000;"><a class="tooltip" title="Missed a game? No problem! Go back and watch every game for all 30 teams within the season!">(?)</a> Archives </td>
+<td align="center" style="padding: 5px; font-weight: bold; border-bottom: 1px dotted #000000; align: center; margin: auto;"><a class="x" title="No"></a></td>
+<td align="center" style="padding: 5px; background-color: #e6cfcf; font-weight: bold; border-bottom: 1px dotted #000000;"><a class="checkg" title="Yes"></a></td>
+</tr>
+<tr>
+<td style="padding: 5px; font-weight: bold; border-bottom: 1px dotted #000000;"><a class="tooltip" title="Participate in Draws, Raffles, and many more give-away promotions!">(?)</a> Raffles</td>
+<td align="center" style="padding: 5px; font-weight: bold; border-bottom: 1px dotted #000000; align: center; margin: auto;"><a class="x" title="No"></a></td>
+<td align="center" style="padding: 5px; background-color: #e6cfcf; font-weight: bold; border-bottom: 1px dotted #000000;"><a class="checkg" title="Yes"></a></td>
+</tr>
+<tr>
+<td style="padding: 5px; font-weight: bold; border-bottom: 1px dotted #000000;"><a class="tooltip" title="How much could all of this cost you?">(?)</a> Fee</td>
+<td align="center" style="padding: 5px; font-weight: bold; border-bottom: 1px dotted #000000; align: center; margin: auto;">$0.00</td>
+<td align="center" style="padding: 5px; background-color: #e6cfcf; font-weight: bold; font-weight: bold; color: #0e19af; border-bottom: 1px dotted #000000;">$3.99*</td>
+</tr>
+<tr>
+<td style="padding: 5px; font-weight: bold;">&nbsp;</td>
+<td align="center" style="padding: 5px; font-weight: bold;  align: center; margin: auto;"><a href="/register">Register</a></td>
+<td align="center" style="padding: 5px; background-color: #e6cfcf; font-weight: bold;"><a href="/members/subscriptions">Go Premium!</a></td>
+</tr>
+</tbody></table>
+</div>
+</li>
+
+<li>
+<div style="clear: left">
+<div class="body_box_left"></div>
+<div class="body_box_bg">Donate-Per-Day</div>
+<div class="body_box_right"></div>
+</div>
+<div class="body_box">
 <b>HockeyStreams™</b> is proud to introduce our 24 Hour DPD accounts.
 <br><br>
-If you would like to watch one or more games, and are not interested in donating for a whole month. You may donate for a single day to gain access for that day's games, and all of the archives. The amount is $3.99! We are always finding new ways to help our users. If you have any suggestions, feel free to <a href="/contact">Contact Us</a>
+If you would like to watch one or more games, and are not interested in donating for a whole month. You may donate for a single day to gain access for that day's games, and all of the archives. The amount is $3.99! We are always finding new ways to help our users. If you have any suggestions, feel free to Contact Us 
 </div>
-<div class="boxhead">Watch 'em all, right here!</div>
-<div class="boxcontent">
-<b>HockeyStreams™</b> streams NHL© hockey games LIVE!
+</li>
+
+<li>
+<div style="clear: both">
+<div class="body_box_left"></div>
+<div class="body_box_bg">Watch 'em all, right here!</div>
+<div class="body_box_right"></div>
+</div>
+<div class="body_box">
+<b>HockeyStreams™</b> streams NHL® hockey games LIVE!
 <br><br>
 We stream Pre-season, Regular Season, and Post Season games. But wait; we also stream the Draft, and the Player Awards!
 <br><br>
-That's not all, we also stream the All-Star game, the Olympics, and last but not least the Trade Deadline. By becoming a member you can watch all of those streams plus have access to our revolutionaly members area that allows you to track the schedule, view scores, view news, rumors, chat in the forums, and much, much more!
+That's not all, we also stream the All-Star game, the Olympics, and last but not least the Trade Deadline. By becoming a member you can watch all of those streams plus have access to our revolutionaly members area that allows you to track the schedule, view scores, view news, rumors, chat in the forums, and much, much more! 
 </div>
-<div class="boxhead">Earn Extra Money!</div>
-<div class="boxcontent">
-<b>HockeyStreams™</b> has created a program which would benefit both us, and the referer. You can earn extra money easily by referring users to our website!
-For every premium member that you refer, you will receive:
-<br><br>
-<ul>
-<li>1 Month - $1</li>
-<li>3 Months - $2</li>
-<li>6 Months - $3</li>
-<li>12 Months - $5</li>
+</li>
 </ul>
-<br><br>
-We will payout every $50. Alternatively, you may use your saved up referal credit for a premium membership on our website! 
 </div>
-</td>
-<td style="width: 80%;" valign="top">
-<div>
-<div class="heading">Privacy Policy</div>
-<div class="mainbody" style="padding: 10px;">
+<div style="float: left; position: relative; left: 5px; width: 670px;">
+<ul id="boxes2">
+<li>
+<div class="bar">Privacy Policy</div>
+<div class="body_box" style="width: 658px;">
 <b>General</b><br><br>
 
 HockeyStreams™ respects the privacy of every individual who visits hockeystreams (the "Website") or responds to any promotions listed on the Website. HockeyStreams™ Privacy Policy 
@@ -342,16 +779,20 @@ password is yours to protect. You may change it anytime within the control panel
 
 Please check this privacy policy periodically to inform yourself of any changes. Although we reserve the right to modify or supplement this privacy policy, we will provide notice to you on this Website 
 of any major changes for at least 30 days following the change. </div>
+</li>
+</ul>
 </div>
-</td>
-</tr>
-</tbody></table>
+</div>
+<div id="bottom">
+<div class="divide"></div>
 <div id="footer">
+<div class="text">
 Copyright © 2008 HockeyStreams<br><br>
-<a href="/terms">Terms &amp; Conditions</a> | <a href="/privacy">Privacy Policy</a> | <a href="/rules">Rules</a> | <a href="/about">About Us</a> | <a href="/contact">Contact Us</a>
+<a href="/terms_of_use">Terms &amp; Conditions</a> | <a href="/privacy_policy">Privacy Policy</a> | <a href="/rules">Rules</a> | <a href="/about_us">About Us</a> | <a href="/contact_us">Contact Us</a>
 <br><br>
-All prices quoted are in Canadian Dollars (CAD$)
-<a class="wads" href="http://www.wads.ca">Website Created by WADS</a>
+All prices quoted are in US Dollars (US$)
+</div>
+</div>
 </div>
 
 
