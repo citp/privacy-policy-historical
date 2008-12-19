@@ -1,41 +1,43 @@
-> *The following text is extracted and transformed from the freelinks.com privacy policy that was archived on 2001-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010619114527id_/http%3A//www.freelinks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelinks.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219041344id_/http%3A//www.freelinks.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement for FreeLinks.com
+# Privacy Policy - Free Links
 
-## Privacy Statement for FreeLinks.com
+**Privacy Policy**
 
-K. Clough, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [FreeLinks](http://www.freelinks.com/). 
+This is the web site of Christopher Logan. 
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. 
+Our postal address is  
+PO Box 2453  
+Silverthorne, CO 80498-2453
 
-Our site's registration form requires users to give us contact information (like their name and email address). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+We can be reached via e-mail at webmaster@freelinks.com. 
 
-This site contains links to other sites. **FreeLinks.com** is not responsible for the privacy practices or the content of such Web sites. 
+For each visitor to our web page, our web server does not automatically recognize any information regarding the visitor's domain or e-mail address. 
 
-We use an outside ad company to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. Our site does not use cookies. We do not have access to any information about you from cookies you might receive while visiting our site. Some customer data is shared with the advertising companies. 
+We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations. 
 
-## Security
+The information we collect is used to improve the content of our web pages. 
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+**With respect to cookies:** We do not set any cookies. 
 
-## Choice/Opt-Out
+**With respect to Ad Servers:** To try and bring you offers that are of interest to you, we have a relationship with Google that allows them to place ads on our web pages. As a result of your visit to our site, Google may collect information such as your domain type, your IP address and clickstream information when viewing pages that include their advertisements. For further information, consult the privacy policy of Google here: http://www.google.com/privacypolicy.html 
 
-Users who do not wish to receive communications from us and our partners should not submit any forms which request information. 
+**More About Your Personal Information:**
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail at the above address. 
 
-  1. You can send email to [comments@freelinks.com](mailto:comments@freelinks.com)
+If you supply us with your postal address on-line you will only receive the information for which you provided us your address. 
 
+Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line. 
 
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses. 
 
-## Correct/Update
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address. 
 
-This site gives users the following options for changing and modifying information previously provided. 
+Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them . 
 
-  1. email [comments@freelinks.com](mailto:comments@freelinks.com)
+Consumers can access this information by e-mailing us at the above address or writing to us at the above address. 
 
+Consumers can have this information corrected by sending us an e-mail at the above address or writing to us at the above address. 
 
-
-## Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Robert Clough K. Clough, Inc. comments@freelinks.com [Back To FreeLinks.com](http://www.freelinks.com/)
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses. 
