@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mercatornet.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513171527id_/http%3A//www.mercatornet.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercatornet.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219064337id_/http%3A//www.mercatornet.com/info/privacy) for the most accurate reproduction.*
 
-# MercatorNet | Info | Privacy
+# MercatorNet. A voice for human dignity. Our focus is parenting and family issues, bioethics, religion, philosophy and entertainment.
 
 ## MercatorNet’s Privacy Policy
 
