@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ldonline.org privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512040904id_/http%3A//www.ldonline.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldonline.org privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219130824id_/http%3A//www.ldonline.org/privacy) for the most accurate reproduction.*
 
 # LD OnLine :: Privacy Policy
 
@@ -52,7 +52,7 @@ LD OnLine's Web server gathers information about all users collectively, such as
 
 ## Privacy of children
 
-LD OnLine's policy is to not collect personally identifiable information from children. Please see the [Privacy Policy for the kids area.](http://ldonline.org/kids_privacy) Parents may also request the removal of any drawings or writings their child has submitted for publication on our site.
+LD OnLine's policy is to not collect personally identifiable information from children. Please see the [Privacy Policy for the kids area.](http://www.ldonline.org/kids_privacy) Parents may also request the removal of any drawings or writings their child has submitted for publication on our site.
 
 LD OnLine does not:
 
