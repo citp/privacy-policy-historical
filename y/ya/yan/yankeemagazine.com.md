@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yankeemagazine.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607212517id_/http%3A//www.yankeemagazine.com/contact/aboutyankee/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yankeemagazine.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219012235id_/http%3A//www.yankeemagazine.com/contact/aboutyankee/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Yankee Magazine
 
-#### [Contact](https://web.archive.org/contact) → [About YANKEE](https://web.archive.org/contact/aboutyankee) → 
+#### [Contact](https://web.archive.org/contact) → [About Yankee](https://web.archive.org/contact/aboutyankee) → 
 
 **For Web Visitors**
 
@@ -24,6 +24,8 @@ Some of the ads appearing on this Web site are delivered to you by DoubleClick, 
 
 Yankee Publishing is currently contracted with Tacoda, Inc., a third party, to track and analyze anonymous usage and browsing patterns of our visitors and customers. All data collected by Tacoda on behalf of our Web sites is owned by Yankee Publishing. This information is used to help provide advertisers with more targeted advertising opportunities, which means that our users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. For more information about Tacoda's privacy policy, including how to opt out, go to [www.tacoda.com/notice](http://www.tacoda.com/notice).
 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
 
 **Print Subscribers Privacy Policy**
@@ -32,11 +34,11 @@ We occasionally make our subscriber mailing list available to mailers whose offe
 
 > **SEND TO:**   
 >  YANKEE Magazine   
->  PO Box 1991   
->  Marion OH 43306-8091 
-> 
+>  PO Box 59603   
+>  Boulder CO 80322-9603 
+
 > **EMAIL:** [Email us.](http://www.yankeemagazine.com/feedback/index.php) (Be sure to include your full address.) 
-> 
+
 > **PHONE:** 800-288-4284 
 
 Thank you for your interest in YANKEE Magazine, YankeeMagazine.com and NewEngland.com. 
