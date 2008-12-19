@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikemagic.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629002436id_/http%3A//www.bikemagic.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikemagic.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219025131id_/http%3A//www.bikemagic.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
 
 # BIKEmagic - Privacy Policy
 
@@ -13,13 +13,6 @@ Join today & you could win one of five Joe's no flats tubeless conversion kits f
 **  
 [why join?](https://web.archive.org/members/whyjoin.asp?sp=&v=1)    
   
-**Got gear to[BUY](https://web.archive.org/classifieds/classifieds.asp?) or [SELL](https://web.archive.org/classifieds/classifieds.asp?)?**
-
-  
-Don't post it up in the forum!   
-Go to the [BM Classifieds](https://web.archive.org/classifieds/classifieds.asp?) and post an advert or see what's on offer.  
-And if you can't see what you want then post in the [Wanteds](https://web.archive.org/classifieds/wanteds.asp?) section. 
-
 | 
 
 |   
@@ -50,3 +43,19 @@ You should be aware that if we are requested by the police or any regulatory or 
 In addition to the uses made of information collected outlined above, all of the information Magicalia collects, both what you tell us and what we collect through the use of cookies, is aggregated, such that the information collected from many users is grouped together in a way that does not disclose the personal information of any particular individual user. This aggregated information may be used by Magicalia and may be transferred to third parties. Any such statistical or demographic information will not include personal details through which you could be identified.  
   
 | 
+
+[](https://web.archive.org/cl.asp?cn=2141)   
+
+
+**Got gear to[BUY](https://web.archive.org/classifieds/classifieds.asp?) or [SELL](https://web.archive.org/classifieds/classifieds.asp?)?**
+
+  
+Don't post it up in the forum!   
+Go to the [BM Classifieds](https://web.archive.org/classifieds/classifieds.asp?) and post an advert or see what's on offer.  
+And if you can't see what you want then post in the [Wanteds](https://web.archive.org/classifieds/wanteds.asp?) section. 
+
+| [](https://web.archive.org/gallery/image.asp?sp=&v=1&uabn=677&uin=5513)  
+---  
+bike 035 (Small).jpg  
+  
+by TIM ARMITAGE
