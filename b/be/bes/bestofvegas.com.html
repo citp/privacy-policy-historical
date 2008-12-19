@@ -1,9 +1,14 @@
-<!--The following is the downloaded HTML source of the bestofvegas.com privacy policy that was archived on 2008-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080517061538id_/http%3A//www.bestofvegas.com/pages/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bestofvegas.com privacy policy that was archived on 2008-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219191656id_/http%3A//www.bestofvegas.com/pages/Privacy_Policy) for the most accurate reproduction.-->
 
 <html><head>
-<title>BestofVegas.com - Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Las Vegas Hotels, Vacations, Travel Deals &amp; Show Tickets, Nevada</title>
+<meta name="description" content="BestofVegas.com is your #1 source for Las Vegas Hotels and Vacations.  Search for Las Vegas shows, cheap vacation packages and the lowest Las Vegas Nevada travel deals!">
+<meta name="keywords" content="Las Vegas Hotels, Vegas Hotels, Las Vegas Shows, Vegas Shows, Las Vegas Vacations, Vegas Vacations, Las Vegas Vacation, Vegas Vacation, Las Vegas Travel, Vegas Travel, Las Vegas Travel Deals, Vegas Travel Deals, Las Vegas Show Tickets, Vegas Show Tickets, Las Vegas Nevada Travel">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<script language="JavaScript" src="http://www.bestofvegas.com//tpl/default/js/pkg_scripts.js" type="text/JavaScript"></script>
+<script language="JavaScript" src="http://www.bestofvegas.com//tpl/default/js/new_pkgScript.js" type="text/JavaScript"></script>
 <script language="javascript" src="/js/EBG_js/flashActivation.js"></script>
 
 <!--CSS file (default YUI Sam Skin) --> 
@@ -19,6 +24,7 @@
 
 <script type="text/javascript">
 <!--
+var homeUrl = "http://www.bestofvegas.com/";
 function MM_preloadImages() { //v3.0
   var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
     var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
@@ -41,127 +47,288 @@ function MM_swapImage() { //v3.0
   var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
+function videos(url,ap,name){
+	window.location = homeUrl+"videos?url="+url+"&ap="+ap+"&name="+name;
+}
+
+function setEngType(val){
+
+var roomComboData = "<table border='0' cellspacing='0' cellpadding='0'><tr><td>" + buildOcc() + "</td></tr></table>";
+
+	document.forms["form1"].pkgType.value = val;
+	document.forms["ResPkgSearchForm"].pkgType.value = val;
+	document.forms["ResPkgSearchForm"].elements["engineType"].value=val;
+	if (val=="H"){
+		document.getElementById("roomComboH").innerHTML=roomComboData;
+		document.getElementById("hotelDisplay").style.display="block";
+		showRooms(1);
+		document.forms["form1"].elements["H_nights"].value="1";
+		document.forms["form1"].elements["hid_H_Loc"].value="10255|Las Vegas - NV|35|55|Nevada|USA";
+	}
+}
+
+function search(){
+	document.forms["ResPkgSearchForm"].elements["pkgType"].value=document.forms["form1"].pkgType.value;
+	//alert("XXX" + document.forms["form1"].pkgType.value); 
+	eval("loadDataNew_"+document.forms["form1"].pkgType.value+"()");
+}
+
+function hotelSearchDisplayer(){
+	return;
+}
+
 //-->
 </script>
 
 
-
 </head>
 <body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('http://www.bestofvegas.com//tpl/default/images/topnav-hotels-on.jpg','http://www.bestofvegas.com//tpl/default/images/topnav-shows-on.jpg','http://www.bestofvegas.com//tpl/default/images/topnav-hotel-show-on.jpg','http://www.bestofvegas.com//tpl/default/images/topnav-nightlife-on.jpg','http://www.bestofvegas.com//tpl/default/images/topnav-dining-on.jpg','http://www.bestofvegas.com//tpl/default/images/topnav-tours-on.jpg','http://www.bestofvegas.com//tpl/default/images/topnav-golf-on.jpg');  ">
-<table width="990" border="0" align="center" cellpadding="0" cellspacing="0">
-  <!--<tr>
-    <td colspan="3">
-    <table width="990" border="0" cellpadding="0" cellspacing="0">-->
-    
 
-<tbody><tr height="25">
+<div id="headerTable">
+<table border="0" align="center" cellpadding="0" cellspacing="0" width="990">
+	<!--
+<tr height="25">
   <td colspan="3" align="right" valign="bottom" class="home_page_viewmycart"></td>
 </tr>
 <tr>
   <td width="30" align="left"></td>
-  <td width="247" align="right" valign="top"><a href="http://www.bestofvegas.com/"><img src="http://www.bestofvegas.com//tpl/default/images/topnav-bestofvegas1.jpg" alt="Best of Vegas Logo"></a></td>
+  <td width="247" align="right" valign="top"><a href="http://www.bestofvegas.com/"><img src="http://www.bestofvegas.com//tpl/default/images/topnav-bestofvegas1.gif" alt="Best of Vegas Logo"></td>
   <td width="698" align="left" valign="bottom">
 	  <table cellpadding="0" cellspacing="0" border="0">
-	    <tbody><tr height="0"><td valign="bottom"><a href="http://www.bestofvegas.com/hotels"><img src="http://www.bestofvegas.com//tpl/default/images/topnav-hotels.jpg" alt="Las Vegas Hotels" name="tophotel" id="tophotel" onmouseover="MM_swapImage('tophotel','','http://www.bestofvegas.com//tpl/default/images/topnav-hotels-on.jpg',1)" onmouseout="MM_swapImgRestore()"></a><a href="http://www.bestofvegas.com/Shows-Tickets"><img src="http://www.bestofvegas.com//tpl/default/images/topnav-shows.jpg" alt="Las Vegas Shows" name="topshows" id="topshows" onmouseover="MM_swapImage('topshows','','http://www.bestofvegas.com//tpl/default/images/topnav-shows-on.jpg',1)" onmouseout="MM_swapImgRestore()"></a><a href="http://www.bestofvegas.com/Night-Clubs"><img src="http://www.bestofvegas.com//tpl/default/images/topnav-nightlife.jpg" alt="Las Vegas Nightlife" name="topnightlife" id="topnightlife" onmouseover="MM_swapImage('topnightlife','','http://www.bestofvegas.com//tpl/default/images/topnav-nightlife-on.jpg',1)" onmouseout="MM_swapImgRestore()"></a><a href="http://www.bestofvegas.com/Restaurants"><img src="http://www.bestofvegas.com//tpl/default/images/topnav-dining.jpg" alt="Las Vegas Dining" name="topdining" id="topdining" onmouseover="MM_swapImage('topdining','','http://www.bestofvegas.com//tpl/default/images/topnav-dining-on.jpg',1)" onmouseout="MM_swapImgRestore()"></a><a href="http://www.bestofvegas.com/Tours"><img src="http://www.bestofvegas.com//tpl/default/images/topnav-tours.jpg" alt="Las Vegas Tours" name="toptours" id="toptours" onmouseover="MM_swapImage('toptours','','http://www.bestofvegas.com//tpl/default/images/topnav-tours-on.jpg',1)" onmouseout="MM_swapImgRestore()"></a><a href="http://www.bestofvegas.com/Golf-Courses"><img src="http://www.bestofvegas.com//tpl/default/images/topnav-golf.jpg" alt="Las Vegas Golf" name="topgolf" id="topgolf" onmouseover="MM_swapImage('topgolf','','http://www.bestofvegas.com//tpl/default/images/topnav-golf-on.jpg',1)" onmouseout="MM_swapImgRestore()"></a></td></tr>
-	    <tr><td background="http://www.bestofvegas.com//tpl/default/images/graydivider.jpg" alt="" align="right"><span class="footer" style="padding-right:25px">Local / International Call 702-425-7513</span></td></tr>
-	  </tbody></table>
+	    <tr height="0"><td valign="bottom"><a href="http://www.bestofvegas.com/hotels"><img src="http://www.bestofvegas.com//tpl/default/images/topnav-hotels.jpg" alt="Las Vegas Hotels" name="tophotel" id="tophotel" onMouseOver="MM_swapImage('tophotel','','http://www.bestofvegas.com//tpl/default/images/topnav-hotels-on.jpg',1)" onMouseOut="MM_swapImgRestore()"></a><a href="http://www.bestofvegas.com/Shows-Tickets"><img src="http://www.bestofvegas.com//tpl/default/images/topnav-shows.jpg" alt="Las Vegas Shows" name="topshows" id="topshows" onMouseOver="MM_swapImage('topshows','','http://www.bestofvegas.com//tpl/default/images/topnav-shows-on.jpg',1)" onMouseOut="MM_swapImgRestore()"></a><a href="http://www.bestofvegas.com/Night-Clubs"><img src="http://www.bestofvegas.com//tpl/default/images/topnav-nightlife.jpg" alt="Las Vegas Nightlife" name="topnightlife" id="topnightlife" onMouseOver="MM_swapImage('topnightlife','','http://www.bestofvegas.com//tpl/default/images/topnav-nightlife-on.jpg',1)" onMouseOut="MM_swapImgRestore()"></a><a href="http://www.bestofvegas.com/Restaurants"><img src="http://www.bestofvegas.com//tpl/default/images/topnav-dining.jpg" alt="Las Vegas Dining" name="topdining" id="topdining" onMouseOver="MM_swapImage('topdining','','http://www.bestofvegas.com//tpl/default/images/topnav-dining-on.jpg',1)" onMouseOut="MM_swapImgRestore()"></a><a href="http://www.bestofvegas.com/Tours"><img src="http://www.bestofvegas.com//tpl/default/images/topnav-tours.jpg" alt="Las Vegas Tours" name="toptours" id="toptours" onMouseOver="MM_swapImage('toptours','','http://www.bestofvegas.com//tpl/default/images/topnav-tours-on.jpg',1)" onMouseOut="MM_swapImgRestore()"></a><a href="http://www.bestofvegas.com/Golf-Courses"><img src="http://www.bestofvegas.com//tpl/default/images/topnav-golf.jpg"  alt="Las Vegas Golf" name="topgolf" id="topgolf" onMouseOver="MM_swapImage('topgolf','','http://www.bestofvegas.com//tpl/default/images/topnav-golf-on.jpg',1)" onMouseOut="MM_swapImgRestore()"></a></td></tr>
+	    <tr><td background="http://www.bestofvegas.com//tpl/default/images/graydivider.jpg"  alt="" align="right"><span class="footer" style="padding-right:25px">Local / International Call 702-425-7513</span></td></tr>
+	  </table>
   </td>
 </tr>
 <tr height="9"><td></td></tr>
-    <!--</table>
-    </td>
-  </tr>-->
+-->
+
+<style type="text/css">
+td.padding_repeat {
+	padding-top:2px;
+	background-repeat:no-repeat;
+	cursor:pointer;
+}
+.secondary_nav {
+	color:#FFFFFF;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	vertical-align:middle;
+	text-decoration:none;
+}
+.seperator {
+	text-align:center;
+	padding-left:3px;
+	padding-right:3px;
+	color:#FFFFFF;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+}
+.secondary_seperator {
+	text-align:center;
+	padding-left:10px;
+	padding-right:10px;
+	color:#FFFFFF;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+</style>
+
+</table><table align="center" cellpadding="0" cellspacing="0" border="0" style="padding-bottom:12px;">
+	<tbody><tr height="20">
+    	<td colspan="3"></td>
+	</tr>
+	<tr>
+    	<td width="272" height="69" valign="middle" align="center" style="padding-right:5px;">
+        	<a href="http://www.bestofvegas.com/"><img src="http://www.bestofvegas.com//tpl/default/images/topnav-bestofvegas1.jpg" alt="Best of Vegas Logo" border="0"></a>
+        </td>
+      	<td width="673" align="right" valign="middle">
+        	<table cellpadding="0" cellspacing="0" border="0">
+            	<tbody><tr>
+                	<td height="23" width="673">
+                    	<table width="100%" cellpadding="0" cellspacing="0">
+                        	<tbody><tr>
+                            	<td class="padding_repeat" align="center" width="64" onclick="window.location='http://www.bestofvegas.com/'" background="http://www.bestofvegas.com//tpl/default/images/BOV_Nav_under_Home.gif"><a style="color:#000000;font-family:Arial, Helvetica, sans-serif;font-size:14px;font-weight:bold;text-decoration:none;" href="http://www.bestofvegas.com/">HOME</a></td>
+                                <td class="seperator">|</td>
+                                <td class="padding_repeat" align="center" width="72" onclick="window.location='http://www.bestofvegas.com/hotels'" background="http://www.bestofvegas.com//tpl/default/images/BOV_Nav_under_Hotels.gif"><a style="color:#000000;font-family:Arial, Helvetica, sans-serif;font-size:14px;font-weight:bold;text-decoration:none;" href="http://www.bestofvegas.com/hotels">HOTELS</a></td>
+                                <td class="seperator">|</td>
+                                <td class="padding_repeat" align="center" width="66" onclick="window.location='http://www.bestofvegas.com/Shows-Tickets'" background="http://www.bestofvegas.com//tpl/default/images/BOV_Nav_under_Shows.gif"><a style="color:#000000;font-family:Arial, Helvetica, sans-serif;font-size:14px;font-weight:bold;text-decoration:none;" href="http://www.bestofvegas.com/Shows-Tickets">SHOWS</a></td>
+                                <td class="seperator">|</td>
+                                <td class="padding_repeat" align="center" width="87" onclick="window.location='http://www.bestofvegas.com/Night-Clubs'" background="http://www.bestofvegas.com//tpl/default/images/BOV_Nav_under_Nightlife.gif"><a style="color:#000000;font-family:Arial, Helvetica, sans-serif;font-size:14px;font-weight:bold;text-decoration:none;" href="http://www.bestofvegas.com/Night-Clubs">NIGHTLIFE</a></td>
+                                <td class="seperator">|</td>
+                                <td class="padding_repeat" align="center" width="64" onclick="window.location='http://www.bestofvegas.com/Tours'" background="http://www.bestofvegas.com//tpl/default/images/BOV_Nav_under_Tours.gif"><a style="color:#000000;font-family:Arial, Helvetica, sans-serif;font-size:14px;font-weight:bold;text-decoration:none;" href="http://www.bestofvegas.com/Tours">TOURS</a></td>
+                                <td align="right"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_Nav_phone.gif" alt="Best of Vegas Phone Numbers" border="0"></td>
+                            </tr>
+                       	</tbody></table>
+                  	</td>
+                </tr>
+                <tr>
+                	<td height="29" width="673" background="http://www.bestofvegas.com//tpl/default/images/BOV_Nav_bottombg.gif" style="background-repeat:no-repeat;">
+                    	<table cellpadding="0" cellspacing="0" border="0">
+                        	<tbody><tr>
+                            	<td class="secondary_nav" style="padding-left:12px;">Las Vegas Guide:</td>
+                                <td style="padding-left:10px;"></td>
+                                <td><a style="color:#FFFFFF;font-family:Arial, Helvetica, sans-serif;font-size:11px;vertical-align:middle;text-decoration:none;" href="http://www.bestofvegas.com/Golf-Courses">Golf</a></td>
+                                <td class="secondary_seperator">|</td>
+                                <td><a style="color:#FFFFFF;font-family:Arial, Helvetica, sans-serif;font-size:11px;vertical-align:middle;text-decoration:none;" href="http://www.bestofvegas.com/Restaurants">Dining</a></td>
+                                <td class="secondary_seperator">|</td>
+                                <td><a style="color:#FFFFFF;font-family:Arial, Helvetica, sans-serif;font-size:11px;vertical-align:middle;text-decoration:none;" href="http://www.bestofvegas.com/Attractions">Attractions</a></td>
+                               	<td class="secondary_seperator">|</td>
+                                <td><a style="color:#FFFFFF;font-family:Arial, Helvetica, sans-serif;font-size:11px;vertical-align:middle;text-decoration:none;" href="http://www.bestofvegas.com/Weddings">Weddings</a></td>
+                                <td class="secondary_seperator">|</td>
+                                <td><a style="color:#FFFFFF;font-family:Arial, Helvetica, sans-serif;font-size:11px;vertical-align:middle;text-decoration:none;" href="http://www.bestofvegas.com/Spas">Spas</a></td>
+                                <td class="secondary_seperator">|</td>
+                                <td><img src="http://www.bestofvegas.com//tpl/default/images/video_icon.gif" alt="Best of Vegas Video" border="0" width="14" height="29"></td>
+                                <td valign="middle"><a style="color:#FFFFFF;font-family:Arial, Helvetica, sans-serif;font-size:11px;text-decoration:none;" href="http://www.bestofvegas.com/videos">&nbsp;Video</a></td>
+                                <td align="right" width="220"></td>
+                            </tr>
+                       	</tbody></table>
+                  	</td>
+               	</tr>
+        	</tbody></table>
+		</td>
+	</tr>
 </tbody></table>
-<table width="990" border="0" align="center" cellpadding="0" cellspacing="0">
+</div>
+<table id="contentTable" border="0" align="center" cellpadding="0" cellspacing="0" width="990">
+    <tbody><tr>
+        <td width="33"></td>
+        <td width="252" valign="top">
+        	<table width="252" cellspacing="0" cellpadding="0" border="0">
+        		<!--<tr>
+    <td valign="top" width="255">
+      
+          </td>
+  </tr>-->
   <tbody><tr>
-    <td width="33" align="left" valign="top">&nbsp;</td>
-    <td width="930" align="left" valign="top">
-      <table width="930" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td width="260" align="left" valign="top">
-        <table width="255" cellspacing="0" cellpadding="0" border="0">
-  	<!--<tr>
-	    <td valign="top" width="255">
-	      
-	              </td>
-      </tr>-->
-      <tbody><tr>
-      	          <td valign="top" width="240" background="http://www.bestofvegas.com//tpl/default/images/leftcol_background.jpg">
-            <p>
-			
-			 <img width="260" height="23" alt="" src="http://www.bestofvegas.com//tpl/default/images/leftcol_emptytop.jpg"><br><span style="padding-left:10px; color:#ffffff;">Quick Find</span>
-			</p>
-			<p class="style6">  
-			  <a class="leftcoltext" href="http://www.bestofvegas.com/hotels">Las Vegas Hotels </a>
-			  <a class="leftcoltext" href="http://www.bestofvegas.com/Shows-Tickets">Las Vegas Shows </a>
-			  <a class="leftcoltext" href="http://www.bestofvegas.com/Night-Clubs">Las Vegas Night Clubs </a>
-			  <a class="leftcoltext" href="http://www.bestofvegas.com/Tours">Las Vegas Tours &amp; Attractions </a>
-			  <a class="leftcoltext" href="http://www.bestofvegas.com/">Best of Las Vegas </a>
-			  <br>
-			</p>
-		            <p class="leftcol_redrule"></p>
+  	      <td valign="top" width="252" background="http://www.bestofvegas.com//tpl/default/images/sidemenu_background.gif" style="background-repeat:repeat-y;">
+        <p><img width="252" height="38" alt="" src="http://www.bestofvegas.com//tpl/default/images/about_us.gif">
+</p><p class="style6">  
+  <!--<a class="leftcoltext" href="http://www.bestofvegas.com/pages/Contact_Us">Customer Care/Contact</a>
+  <a class="leftcoltext" href="http://www.bestofvegas.com/">Frequently Asked Questions</a>
+  <a class="leftcoltext" href="http://www.bestofvegas.com/pages/Privacy_Policy">Privacy Policy & Security</a><br />
+  <a class="leftcoltext" href="http://www.bestofvegas.com/">Press & Media Inquiries</a>
+  <a class="leftcoltext" href="http://www.bestofvegas.com/">Advertising</a>-->
+    <a class="leftcoltext" href="http://www.bestofvegas.com/pages/About_Us">About Us</a>
+    <a class="leftcoltext" href="http://www.bestofvegas.com/pages/Contact_Us">Customer Care/Contact Us</a>
+    <a class="leftcoltext" href="http://www.bestofvegas.com/pages/Privacy_Policy">Privacy Policy</a>
+    <a class="leftcoltext" href="http://www.bestofvegas.com/pages/Terms_and_Conditions">Terms and Conditions</a>
+  </p>        <span class="leftcol_redrule"></span><br><br>
+<table width="252" background="http://www.bestofvegas.com//tpl/default/images/BOV_video_sidebar_dark_bg.jpg" style="border-top:#666666 solid 1px;">
+ <tbody><tr>
+  <td colspan="3">
+   <table cellpadding="0" cellspacing="0">
+    <tbody><tr>
+     <td colspan="3" height="22" valign="middle"><span style="font-family:Arial, Helvetica, sans-serif; padding-left:5px; color:#FFFFFF; font-size:13px; font-weight:bold;"><u>VIDEOS:</u></span></td>
+    </tr>
+   </tbody></table>
+  </td>
+ </tr>
+ <tr>
+  <td align="center">
+   <table cellspacing="0" cellpadding="0" border="0" bgcolor="#000000">
+    <tbody><tr>
+     <td valign="top" width="3"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_video_sidebar_top_left_corner.jpg"></td>
+     <td valign="top" style="border-top:1px solid #5e5e5e;"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_video_pixel_spacer.jpg"></td>
+     <td valign="top" width="3"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_video_sidebar_top_right_corner.jpg"></td>
+    </tr>
+    <tr>
+     <td valign="top" style="border-left:1px solid #5e5e5e;"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_video_pixel_spacer.jpg"></td>
+     <td valign="top">
+      <table>
+       <tbody><tr>
+        <td><a href="javascript:videos('21293/21293_2008-08-15-100237','1','Le%20Reve%20Backstage');"><img border="0" src="http://www.bestofvegas.com//tpl/default/images/le_reve_small.jpg" width="68" height="50"></a></td>
+       </tr>
+       <tr>
+        <td><a style="text-decoration:none;font-family:Arial, Helvetica, sans-serif;font-size:9px;color:#FFFFFF;" href="javascript:videos('21293/21293_2008-08-15-100237','1','Le%20Reve%20Backstage');">Le Reve<br> <span style="color:#999999">01:10</span></a></td>
+        
+       </tr>
+       </tbody></table>
+      </td>
+      <td valign="top" style="border-right:1px solid #5e5e5e;"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_video_pixel_spacer.jpg"></td>
+     </tr>
+     <tr>
+      <td valign="top" width="3"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_video_sidebar_bottom_left_corner.jpg"></td>
+      <td style="border-bottom:1px solid #5e5e5e;"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_video_pixel_spacer.jpg"></td>
+      <td valign="top" width="3"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_video_sidebar_bottom_right_corner.jpg"></td>
+     </tr>
+    </tbody></table>
+  </td>
+  <td align="center">
+   <table cellspacing="0" cellpadding="0" border="0" bgcolor="#000000">
+     <tbody><tr>
+      <td valign="top" width="3"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_video_sidebar_top_left_corner.jpg"></td>
+      <td valign="top" style="border-top:1px solid #5e5e5e;"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_video_pixel_spacer.jpg"></td>
+      <td valign="top" width="3"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_video_sidebar_top_right_corner.jpg"></td>
+     </tr>
+     <tr>
+      <td valign="top" style="border-left:1px solid #5e5e5e;"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_video_pixel_spacer.jpg"></td>
+      <td valign="top">
+       <table>
+        <tbody><tr>
+         <td><a href="javascript:videos('21576/21576_2008-08-19-081857','1','Cher%20One-on-One');"><img border="0" src="http://www.bestofvegas.com//tpl/default/images/cher_small.jpg" width="67" height="50"></a></td>
+        </tr>
+        <tr>
+         <td><a style="text-decoration:none; font-family:Arial, Helvetica, sans-serif; font-size:9px; color:#FFFFFF;" href="javascript:videos('21576/21576_2008-08-19-081857','1','Cher%20One-on-One');">Cher<br> <span style="color:#999999">01:59</span></a></td>
+        </tr>
+       </tbody></table>
+      </td>
+      <td valign="top" style="border-right:1px solid #5e5e5e;"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_video_pixel_spacer.jpg"></td>
+     </tr>
+     <tr>
+      <td valign="top" width="3"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_video_sidebar_bottom_left_corner.jpg"></td>
+      <td style="border-bottom:1px solid #5e5e5e;"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_video_pixel_spacer.jpg"></td>
+      <td valign="top" width="3"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_video_sidebar_bottom_right_corner.jpg"></td>
+     </tr>
+    </tbody></table>
+  </td>
+  <td align="center">
+   <table cellspacing="0" cellpadding="0" border="0" bgcolor="#000000">
+     <tbody><tr>
+      <td valign="top" width="3"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_video_sidebar_top_left_corner.jpg"></td>
+      <td valign="top" style="border-top:1px solid #5e5e5e;"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_video_pixel_spacer.jpg"></td>
+      <td valign="top" width="3"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_video_sidebar_top_right_corner.jpg"></td>
+     </tr>
+     <tr>
+      <td valign="top" style="border-left:1px solid #5e5e5e;"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_video_pixel_spacer.jpg"></td>
+      <td valign="top">
+       <table>
+        <tbody><tr>
+         <td><a href="javascript:videos('21296/21296_2008-08-15-102848','1','Mystere%20-%20Cirque%20du%20Soleil');"><img border="0" src="http://www.bestofvegas.com//tpl/default/images/mystere_small.jpg" width="67" height="50"></a></td>
+        </tr>
+        <tr>
+         <td><a style="text-decoration:none; font-family:Arial, Helvetica, sans-serif; font-size:9px; color:#FFFFFF;" href="javascript:videos('21296/21296_2008-08-15-102848','1','Mystere%20-%20Cirque%20du%20Soleil');">Mystere<br> <span style="color:#999999">00:48</span></a></td>
+        </tr>
+       </tbody></table>
+      </td>
+      <td valign="top" style="border-right:1px solid #5e5e5e;"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_video_pixel_spacer.jpg"></td>
+     </tr>
+     <tr>
+      <td valign="top" width="3"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_video_sidebar_bottom_left_corner.jpg"></td>
+      <td style="border-bottom:1px solid #5e5e5e;"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_video_pixel_spacer.jpg"></td>
+      <td valign="top" width="3"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_video_sidebar_bottom_right_corner.jpg"></td>
+     </tr>
+    </tbody></table>
+  </td>
+ </tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0">
+ <tbody><tr>
+  <td align="center">
+   <table cellpadding="0" cellspacing="0" style="border-collapse:collapse; border-top:1px solid #5e5e5e" width="252" background="http://www.bestofvegas.com//tpl/default/images/BOV_video_sidebar_white_bg.jpg">
+    <tbody><tr>
+     <td colspan="3" height="22" valign="top"><span style="font-family:Arial, Helvetica, sans-serif; padding-left:5px; color:#FF0000; font-size:11px; font-weight:bold;">LIVE:</span> <span style="font-family:Arial, Helvetica, sans-serif; font-weight:bold; font-size:11px;">Videos</span><span style="padding-left:120px;"><a style="font-size:11px;font-family:Arial, Helvetica, sans-serif;color:#000000" href="http://www.bestofvegas.com/videos"><u>+View All</u></a></span></td>
+    </tr>
+   </tbody></table>
+  </td>
+ </tr>
+</tbody></table>
+        <p class="leftcol_redrule"></p>
 <p align="center">
 <a href="http://www.bestofvegas.com/Newsletter"><img width="231" height="100" border="0" src="http://www.bestofvegas.com//tpl/default/images/bov_home_4_43.jpg"></a>
 </p>
-	        <p class="leftcol_redrule"></p><!--<img width="255" height="9" alt="" src="http://www.bestofvegas.com//tpl/default/images/leftcol_redrule.jpg"/></p>-->
-	          <span style="padding-left:10px;"><font color="#ffffff">Most Popular Hotels</font></span>
-	        <p></p>
-	        <p class="style6">
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Ballys-Las-Vegas/">Bally's Las Vegas</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Bellagio-Hotel-and-Casino-Las-Vegas/">Bellagio Hotel and Casino Las Vegas</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Best-Western-Mardi-Gras-Hotel-and-Casino/">Best Western Mardi Gras Hotel and Casino</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Caesars-Palace-Las-Vegas/">Caesars Palace Las Vegas</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/El-Cortez-Las-Vegas-Hotel-And-Casino/">El Cortez</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Excalibur-Las-Vegas-Hotel-And-Casino/">Excalibur</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Flamingo/">Flamingo</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Four-Seasons/">Four Seasons</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Fremont-Las-Vegas/">Fremont Hotel and Casino</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Golden-Nugget-Las-Vegas/">Golden Nugget</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Green-Valley-Ranch-Resort-and-Spa-Las-Vegas/">Green Valley Ranch Resort and Spa Las Vegas</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Hard-Rock-Hotel-Casino-Las-Vegas/">Hard Rock Hotel Casino Las Vegas</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Harrah's-Las-Vegas/">Harrah's Las Vegas</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Hooters-Las-Vegas/">Hooters Las Vegas</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Imperial-Palace/">Imperial Palace</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/JW-Marriott-Las-Vegas/">JW Marriott Las Vegas</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Las-Vegas-Hilton/">Las Vegas Hilton</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Loews-Lake-Las-Vegas/">Loews Lake Las Vegas</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Orleans-Las-Vegas/">Orleans Las Vegas</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Palace-Station/">Palace Station</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Palms-Las-Vegas/">Palms Las Vegas</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Paris-Las-Vegas/">Paris Las Vegas</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Planet-Hollywood-Las-Vegas/">Planet Hollywood Las Vegas</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Rio-All-Suite-Hotel-and-Casino/">Rio All-Suite Hotel and Casino</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Riviera-Hotel-and-Casino/">Riviera Hotel and Casino</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Sahara-Hotel-Casino-Las-Vegas/">Sahara Hotel and Casino</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/St.-Tropez-All-Suite-Hotel/">St. Tropez All Suite Hotel</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Stratosphere/">Stratosphere</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Summer-Bay-Resort/">Summer Bay Resort</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Sunset-Station/">Sunset Station</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/The-Ritz-Carlton-Lake-Las-Vegas/">The Ritz-Carlton Lake Las Vegas</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/The-Venetian/">The Venetian</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Treasure-Island/">Treasure Island</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Tropicana/">Tropicana</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Whiskey-Pete's/">Whiskey Pete's</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Wild-Wild-West/">Wild Wild West</a>
-	          	              <a class="leftcoltext" href="http://www.bestofvegas.com/hotels/Wynn-Las-Vegas/">Wynn Las Vegas</a>
-	          	          </p><p class="leftcol_grayrule"><!--<span class="style6"><img width="255" height="6" alt="" src="http://www.bestofvegas.com//tpl/default/images/leftcol_grayrule.jpg"/></span>--></p>
-	        <p></p>	        <p class="leftcol_redrule"></p><!--<img width="255" height="9" alt="" src="http://www.bestofvegas.com//tpl/default/images/leftcol_redrule.jpg"/></p>-->
-<span style="padding-left:10px; color:#ffffff;">Most Popular Las Vegas Shows</span>
-<p class="style6">
-<a class="leftcoltext" href="http://www.bestofvegas.com/Shows-Tickets/Bette-Midler/">Bette Midler</a>
-<a class="leftcoltext" href="http://www.bestofvegas.com/Shows-Tickets/Blue-Man-Group/">Blue Man Group</a>
-<a class="leftcoltext" href="http://www.bestofvegas.com/Shows-Tickets/Cher/">Cher</a>
-<a class="leftcoltext" href="http://www.bestofvegas.com/Shows-Tickets/Elton-John-and-the-Red-Piano/">Elton John and the Red Piano</a>
-<a class="leftcoltext" href="http://www.bestofvegas.com/Shows-Tickets/KA/">KA</a>
-<a class="leftcoltext" href="http://www.bestofvegas.com/Shows-Tickets/Le-Reve/">Le Reve</a>
-<a class="leftcoltext" href="http://www.bestofvegas.com/Shows-Tickets/LOVE/">LOVE</a>
-<a class="leftcoltext" href="http://www.bestofvegas.com/Shows-Tickets/Mystere/">Mystere</a>
-<a class="leftcoltext" href="http://www.bestofvegas.com/Shows-Tickets/O/">O</a>
-<a class="leftcoltext" href="http://www.bestofvegas.com/Shows-Tickets/Wayne-Brady/">Wayne Brady</a>
-<a class="leftcoltext" href="http://www.bestofvegas.com/Shows-Tickets/Zumanity/">Zumanity</a>
-</p><p class="leftcol_grayrule"><!--span class="style6"><img width="255" height="6" alt="" src="http://www.bestofvegas.com//tpl/default/images/leftcol_grayrule.jpg"/></span>--></p>
-<p></p>
-	        	        <table width="230" height="275" align="center" border="1" cellpadding="0" cellspacing="0" border-color="#FFFFFF">
+        <table width="230" height="275" align="center" border="1" cellpadding="0" cellspacing="0" border-color="#FFFFFF">
 	<tbody><tr>
     	<td valign="top" align="left">
     	<img src="http://www.bestofvegas.com//tpl/default/images/bov_home_4_56.jpg">
@@ -189,20 +356,21 @@ function MM_swapImage() { //v3.0
 		</p>
 		</td>
   	</tr>
-</tbody></table>        
-	      <!--<img width="250" height="29" alt="" src="http://www.bestofvegas.com//tpl/default/images/bov_home_4_76.jpg"/>--></td>  
-                    </tr></tbody></table>
+</tbody></table>      <img width="252" height="29" alt="" src="http://www.bestofvegas.com//tpl/default/images/bov_home_4_76.jpg"></td>
+      </tr>        	</tbody></table>
         </td>
-        <td width="670" align="left" valign="top">
-        <table width="670" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="670" align="left" valign="top"><img src="http://www.bestofvegas.com//tpl/default/images/content_top.jpg" width="670" height="23"></td>
-          </tr>
-          <tr>
-            <td align="left" valign="top" background="http://www.bestofvegas.com//tpl/default/images/content_background.jpg">
-              <div align="center">
-                                          </div>
-                              <table width="670" cellspacing="0" cellpadding="0" border="0">
+        <td width="8"></td>
+        <td width="681" align="left" valign="top">
+        	<table border="0" cellspacing="0" cellpadding="0">
+        		<tbody><tr>
+        			<!--HOTELS-->
+        			                    	<td valign="top" style="background-image:url('http://www.bestofvegas.com//tpl/default/images/content_top.jpg');" height="23"></td>
+                            		</tr>
+        		<tr>
+        			<td valign="top" background="http://www.bestofvegas.com//tpl/default/images/content_background.jpg">
+                        <div align="center">
+                                                                        </div>
+                                                <table width="670" cellspacing="0" cellpadding="0" border="0">
   <tbody>
     <tr>
       <td width="670" valign="center" height="41" background="http://www.bestofvegas.com//tpl/default/images/bar-bestofcategory3.jpg" align="left">
@@ -231,7 +399,7 @@ function MM_swapImage() { //v3.0
                     </tr>
                   </tbody>
                 </table>
-                <p><span style="font-size: 8pt; color: black; font-family: Verdana">Privacy is of the utmost importance to Bestofvegas.com. And as such we have drafted a privacy policy that clearly states what will and will not be done with all personal information. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its practices regarding personal information. </span></p><p><span style="font-size: 8pt; color: black; font-family: Verdana">The following discloses our information gathering and dissemination practices. BestofVegas.com is strongly committed to protecting the privacy of its website users and </span><span style="font-size: 8pt; font-family: Verdana">current customers. The intent of this privacy policy is to detail the information BestofVegas.com may gather about individuals who visit its Web sites, how that information is used, and its disclosure practices. Please note that this policy applies only to BestofVegas.com’s websites and not to the Web sites of our partners, other companies, or organizations to which we provide links. </span></p><p><span style="font-size: 8pt; font-family: Verdana">We may collect information that can identify you (“personal information”), such as your name and email address, when you (or other users) provide it to us when using our website or in some other manner, or from our business partners, and from other third parties. We may combine the personal information that we receive from different sources<span style="color: #333333">. </span></span></p><p><span style="font-size: 8pt; font-family: Verdana"></span><strong><span style="font-size: 8pt; color: black; font-family: Verdana">Your Personal Information -</span></strong><span style="font-size: 8pt; color: black; font-family: Verdana"> We do not collect personal information when you visit our site unless you complete an optional registration, submit a survey, make a purchase, or enter a contest. If you do register, submit a survey, make a purchase, or enter a contest, it is BestofVegas.com's, practice never to disclose any of your personal information to third parties. When providing personal information, we may ask for contact information such as name, postal address and email address. With your permission in providing your information to us, we will use this contact information to send newsletters, information about BestofVegas.com or other promotional materials. You always have the option of discontinuing future mailings. To do so, please contact the company directly by using the information found in the "Contact Us" section below, or simply follow the link provided in any mailing. </span></p><p><span style="font-size: 8pt; color: black; font-family: Verdana">We use email links or Web forms throughout our site for customer comments and suggestions. We will make every effort to respond to your questions or comments in a prompt manner. Any information we collect from emails or Web forms is used for the purpose of responding to the questions or comments. We may also file your comments to improve the site and program, or review and discard the information. </span></p><p><span style="font-size: 8pt; color: black; font-family: Verdana">BestofVegas.com is fully committed to protecting your personal information. We do not by practice share, sell, or rent any information you provide to us to any unaffiliated third party. BestofVegas.com may disclose aggregate data and statistics in order to describe our site and services to prospective partners, co-branded partners, advertisers and other third parties, or other lawful purposes. We do not use your mailing address information for unsolicited marketing unless you have provided us with your information by registering or making a purchase, we either have your permission or believe in good faith that the law requires it. </span></p><p><strong><span style="font-size: 8pt; color: black; font-family: Verdana">Third Parties -</span></strong><span style="font-size: 8pt; color: black; font-family: Verdana"> BestofVegas.com has partnerships with third parties who may provide you with a variety of services if you have signed up for them. As a part of these partnerships, any information you provide directly to that third party in connection with these services is covered by the privacy practices of that third party. BestofVegas.com recommends you consult the privacy policies of our third party partners prior to providing any personal information to them. </span></p><p><strong><span style="font-size: 8pt; color: black; font-family: Verdana">Purchases -</span></strong><span style="font-size: 8pt; color: black; font-family: Verdana"> When you place an order on BestofVegas.com and any sites located on the domain with a co-branded domain, we will ask you for the following personal information: name, email address, mailing address, phone number, credit card number and its expiration date. This information is transmitted via a </span><span style="font-size: 8pt; font-family: Verdana">secure encrypted server using Secure Sockets Layer (SSL) technology, the approved industry standard (see Security section below). We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure. If necessary, we will use your personal information to contact you for account purposes and/or to present you with new offers and promotions.<span>&nbsp; </span>Please note that on all correspondence, with respect to sending you electronic communications with new offers and special discounts- you have the ability to unsubscribe from receiving additional emails from BestofVegas.com at anytime by clicking the “unsubscribe” link.</span></p><p><strong><span style="font-size: 8pt; color: black; font-family: Verdana">Contests or Surveys -</span></strong><span style="font-size: 8pt; color: black; font-family: Verdana"> In the case of promotions or surveys, personal data will be collected. Such surveys or contests may ask you for personal information, which may include demographic details (e.g., ZIP code, age or income level). If necessary, we will use your personal information to contact you regarding your entry. This information is also collected for the purpose of verifying eligibility and in some case entrant preferences. In these cases information will be passed on only in anonymous aggregate form unless otherwise specifically stated. Whereas it is specifically stated that this information will be passed on there will be an option available to have personal information withheld and information will only be used for clearly defined purposes. </span></p><p><strong><span style="font-size: 8pt; color: black; font-family: Verdana">Cookies, IP Addresses and Security -</span></strong><span style="font-size: 8pt; color: black; font-family: Verdana"> "Cookies" are used to distinguish and relate non-personal data to individuals. These are "small strings of text" that are stored in Browsers; Cookies are not programs that can damage your computer. These "cookies" are also used to help you set your preferences when visiting our sites, so once you have filled out preferences or other information you don't have to fill it out on your next visit. </span></p><p><span style="font-size: 8pt; color: black; font-family: Verdana">If you wish to stop the Cookie functionality on your browser you may do so by following some simple procedures. If you are using Netscape Navigator visit http://sitesearch.netscape.com/products/security/resources/faq/cookies.html. If you are using Internet Explorer visit <a href="http://register.microsoft.com/regwiz/include/cookies.htm">http://register.microsoft.com/regwiz/include/cookies.htm</a>. </span></p><p><span style="font-size: 8pt; color: black; font-family: Verdana">We also use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you. </span></p><p><span style="font-size: 8pt; color: black; font-family: Verdana">We use industry-standard SSL authentication to protect the confidentiality and privacy of online transactions conducted at our site. SSL authentication and encryption (scrambling) ensures that your online transaction and credit card information are safe from third-party interception. </span></p><p><strong><span style="font-size: 8pt; color: black; font-family: Verdana">Notification of Changes -</span></strong><span style="font-size: 8pt; color: black; font-family: Verdana"> This policy will be revised over time as new features are added to the Web site. We will post changes prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If there is a change in the way we use your personal information, we will notify you via written or email notice of those changes and post the changes in our privacy statement a minimum of 30 days prior to the change taking effect. At the time you receive such a message, you will be able to opt-out of having your information used by contacting us via any of the methods listed above or below. </span></p><p><strong><span style="font-size: 8pt; color: black; font-family: Verdana">Compliance -</span></strong><span style="font-size: 8pt; color: black; font-family: Verdana"> BestofVegas.com reserves the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users. Where practical, BestofVegas.com will attempt to obtain the prior consent of the individual prior to disclosing individually identifiable information. As mentioned above, we also reserve the right to share aggregated "site usage" information with third parties. </span><strong><span style="font-size: 8pt; color: black; font-family: Verdana">&nbsp;</span></strong></p><p><strong><span style="font-size: 8pt; color: black; font-family: Verdana">Contacting Us -</span></strong><span style="font-size: 8pt; color: black; font-family: Verdana"> In addition to accessing the Contact Us page, BestofVegas.com offers you the following options for contacting us should you have questions regarding any aspect of our service; removing your information from our database; opting out of future communications; correcting, updating or deleting personal information; or no longer receiving our service: </span></p><p><span style="font-size: 8pt; color: black; font-family: Verdana">Direct questions or concerns to:</span></p><p><span style="font-size: 8pt; color: black; font-family: Verdana">Email: <a href="mailto:privacyissues@bestofvegas.com">privacyissues@bestofvegas.com</a></span><span style="font-size: 8pt; color: black; font-family: Verdana">&nbsp;</span></p><p><span style="font-size: 8pt; color: black; font-family: Verdana">BestofVegas.com<br></span><span style="font-size: 8pt; color: black; font-family: Verdana">Southeast Service Center<br>Address: One Oakwood Blvd, Suite&nbsp;140 <br>Hollywood, FL 33020<br>Fax: (954) 342-2906&nbsp;</span><span style="font-size: 8pt; color: black; font-family: Verdana">&nbsp;</span></p><p><span style="font-size: 8pt; color: black; font-family: Verdana">Thank you for taking the time to review our privacy policy. Your privacy is very important to us we promise to protect it. </span><span style="font-size: 8pt; font-family: Verdana">&nbsp;</span></p>
+                <p><span style="font-size: 8pt; color: black; font-family: Verdana">Privacy is of the utmost importance to BestOfvegas.com. And as such we have drafted a privacy policy that clearly states what will and will not be done with all personal information. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its practices regarding personal information. </span></p><p><span style="font-size: 8pt; color: black; font-family: Verdana">The following discloses our information gathering and dissemination practices. BestOfVegas.com is strongly committed to protecting the privacy of its website users and </span><span style="font-size: 8pt; font-family: Verdana">current customers. The intent of this privacy policy is to detail the information BestOfVegas.com may gather about individuals who visit its Web sites, how that information is used, and its disclosure practices. Please note that this policy applies only to BestOfVegas.com’s websites and not to the Web sites of our partners, other companies, or organizations to which we provide links. </span></p><p><span style="font-size: 8pt; font-family: Verdana">We may collect information that can identify you (“personal information”), such as your name and email address, when you (or other users) provide it to us when using our website or in some other manner, or from our business partners, and from other third parties. We may combine the personal information that we receive from different sources<span style="color: #333333">. </span></span></p><p><strong><span style="font-size: 8pt; color: black; font-family: Verdana">Your Personal Information -</span></strong><span style="font-size: 8pt; color: black; font-family: Verdana"> We do not collect personal information when you visit our site unless you complete an optional registration, submit a survey, make a purchase, or enter a contest. If you do register, submit a survey, make a purchase, or enter a contest, it is BestOfVegas.com's, practice never to disclose any of your personal information to third parties. When providing personal information, we may ask for contact information such as name, postal address and email address. With your permission in providing your information to us, we will use this contact information to send newsletters, information about BestOfVegas.com or other promotional materials. You always have the option of discontinuing future mailings. To do so, please contact the company directly by using the information found in the "Contact Us" section below, or simply follow the link provided in any mailing. </span></p><p><span style="font-size: 8pt; color: black; font-family: Verdana">We use email links or Web forms throughout our site for customer comments and suggestions. We will make every effort to respond to your questions or comments in a prompt manner. Any information we collect from emails or Web forms is used for the purpose of responding to the questions or comments. We may also file your comments to improve the site and program, or review and discard the information. </span></p><p><span style="font-size: 8pt; color: black; font-family: Verdana">BestOfVegas.com is fully committed to protecting your personal information. We do not by practice share, sell, or rent any information you provide to us to any unaffiliated third party. BestOfVegas.com may disclose aggregate data and statistics in order to describe our site and services to prospective partners, co-branded partners, advertisers and other third parties, or other lawful purposes. We do not use your mailing address information for unsolicited marketing unless you have provided us with your information by registering or making a purchase, we either have your permission or believe in good faith that the law requires it. </span></p><p><strong><span style="font-size: 8pt; color: black; font-family: Verdana">Third Parties -</span></strong><span style="font-size: 8pt; color: black; font-family: Verdana"> BestOfVegas.com has partnerships with third parties who may provide you with a variety of services if you have signed up for them. As a part of these partnerships, any information you provide directly to that third party in connection with these services is covered by the privacy practices of that third party. BestOfVegas.com recommends you consult the privacy policies of our third party partners prior to providing any personal information to them. </span></p><p><strong><span style="font-size: 8pt; color: black; font-family: Verdana">Purchases -</span></strong><span style="font-size: 8pt; color: black; font-family: Verdana"> When you place an order on BestOfVegas.com and any sites located on the domain with a co-branded domain, we will ask you for the following personal information: name, email address, mailing address, phone number, credit card number and its expiration date. This information is transmitted via a </span><span style="font-size: 8pt; font-family: Verdana">secure encrypted server using Secure Sockets Layer (SSL) technology, the approved industry standard (see Security section below). We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure. If necessary, we will use your personal information to contact you for account purposes and/or to present you with new offers and promotions.<span>&nbsp; </span>Please note that on all correspondence, with respect to sending you electronic communications with new offers and special discounts- you have the ability to unsubscribe from receiving additional emails from BestOfVegas.com at anytime by clicking the “unsubscribe” link.</span></p><p><strong><span style="font-size: 8pt; color: black; font-family: Verdana">Contests or Surveys -</span></strong><span style="font-size: 8pt; color: black; font-family: Verdana"> In the case of promotions or surveys, personal data will be collected. Such surveys or contests may ask you for personal information, which may include demographic details (e.g., ZIP code, age or income level). If necessary, we will use your personal information to contact you regarding your entry. This information is also collected for the purpose of verifying eligibility and in some case entrant preferences. In these cases information will be passed on only in anonymous aggregate form unless otherwise specifically stated. Whereas it is specifically stated that this information will be passed on there will be an option available to have personal information withheld and information will only be used for clearly defined purposes. </span></p><p><strong><span style="font-size: 8pt; color: black; font-family: Verdana">Cookies, IP Addresses and Security -</span></strong><span style="font-size: 8pt; color: black; font-family: Verdana"> "Cookies" are used to distinguish and relate non-personal data to individuals. These are "small strings of text" that are stored in Browsers; Cookies are not programs that can damage your computer. These "cookies" are also used to help you set your preferences when visiting our sites, so once you have filled out preferences or other information you don't have to fill it out on your next visit. </span></p><p><span style="font-size: 8pt; color: black; font-family: Verdana">If you wish to stop the Cookie functionality on your browser you may do so by following some simple procedures. If you are using Netscape Navigator visit <a href="http://sitesearch.netscape.com/products/security/resources/faq/cookies.html">http://sitesearch.netscape.com/products/security/resources/faq/cookies.html</a> . If you are using Internet Explorer visit <a href="http://register.microsoft.com/regwiz/include/cookies.htm">http://register.microsoft.com/regwiz/include/cookies.htm</a>. </span></p><p><span style="font-size: 8pt; color: black; font-family: Verdana">We also use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you. </span></p><p><span style="font-size: 8pt; color: black; font-family: Verdana">We use industry-standard SSL authentication to protect the confidentiality and privacy of online transactions conducted at our site. SSL authentication and encryption (scrambling) ensures that your online transaction and credit card information are safe from third-party interception. </span></p><p><strong><span style="font-size: 8pt; color: black; font-family: Verdana">Notification of Changes -</span></strong><span style="font-size: 8pt; color: black; font-family: Verdana"> This policy will be revised over time as new features are added to the Web site. We will post changes prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If there is a change in the way we use your personal information, we will notify you via written or email notice of those changes and post the changes in our privacy statement a minimum of 30 days prior to the change taking effect. At the time you receive such a message, you will be able to opt-out of having your information used by contacting us via any of the methods listed above or below. </span></p><p><strong><span style="font-size: 8pt; color: black; font-family: Verdana">Compliance -</span></strong><span style="font-size: 8pt; color: black; font-family: Verdana"> BestOfVegas.com reserves the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users. Where practical, BestOfVegas.com will attempt to obtain the prior consent of the individual prior to disclosing individually identifiable information. As mentioned above, we also reserve the right to share aggregated "site usage" information with third parties. </span><strong><span style="font-size: 8pt; color: black; font-family: Verdana">&nbsp;</span></strong></p><p><strong><span style="font-size: 8pt; color: black; font-family: Verdana">Contacting Us -</span></strong><span style="font-size: 8pt; color: black; font-family: Verdana"> In addition to accessing the Contact Us page, BestOfVegas.com offers you the following options for contacting us should you have questions regarding any aspect of our service; removing your information from our database; opting out of future communications; correcting, updating or deleting personal information; or no longer receiving our service: </span></p><p><span style="font-size: 8pt; color: black; font-family: Verdana">Direct questions or concerns to:</span></p><p><span style="font-size: 8pt; color: black; font-family: Verdana">Email: <a href="mailto:privacyissues@bestofvegas.com">privacyissues@bestOfvegas.com</a></span><span style="font-size: 8pt; color: black; font-family: Verdana">&nbsp;</span></p><p><span style="font-size: 8pt; color: black; font-family: Verdana">BestOfVegas.com<br></span><span style="font-size: 8pt; color: black; font-family: Verdana">Southeast Service Center<br>Address: 19495 Biscayne Blvd, Suite 600 <br>Aventura, FL 33180<br>Fax: (954) 342-2906&nbsp;</span><span style="font-size: 8pt; color: black; font-family: Verdana">&nbsp;</span></p><p><span style="font-size: 8pt; color: black; font-family: Verdana">Thank you for taking the time to review our privacy policy. Your privacy is very important to us we promise to protect it. </span><span style="font-size: 8pt; font-family: Verdana">&nbsp;</span></p>
               </td>
             </tr>
           </tbody>
@@ -240,76 +408,87 @@ function MM_swapImage() { //v3.0
     </tr>
   </tbody>
 </table>
-                          </td>
-          </tr>
-          <tr>
-            <td align="left" valign="top"><p align="center"><img src="http://www.bestofvegas.com//tpl/default/images/content_bottom.jpg" width="670" height="30" alt=""><br>
-            </p></td>
-          </tr>
-          <tr>
-            <td>
-                   <!--http://bestofvegas.com/tpl/default/images/bov_logo_footer.jpg-->
-         <table width="660" border="0" align="center" cellpadding="0" cellspacing="0"><!--style="border-color:#ffffff; border-left:solid; border-right:solid; border-top:solid; border-bottom:solid;"-->
-        
-           <tbody><tr>
-             <td valign="top" align="right"><img src="http://www.bestofvegas.com//tpl/default/images/bov_logo_footer.jpg"></td>
-             <td>
-               <table align="left">
-                  <tbody><tr>
-		            <td align="center" class="footer">
-		              BestofVegas.com guards your privacy and security. We are certified by <a href="http://www.geotrust.com" class="footer" style="text-decoration:underline;">Geotrust</a>.
-		            </td>
-		          </tr>
-		          <tr>
-		            <td>
-		              <table cellpadding="5" align="center">
-		                <tbody><tr>
-		                  <!--$base_href = http://bestofvegas.com/-->
-		                  <td><a href="http://www.bestofvegas.com/" class="footer" style="text-decoration:underline;">Home</a> </td>
-		                  <td><a href="http://www.bestofvegas.com/hotels" class="footer" style="text-decoration:underline;">Hotels</a> </td>
-		                  <td><a href="http://www.bestofvegas.com/Show-Tickets" class="footer" style="text-decoration:underline;">Shows</a> </td>
-		                  <td><a href="http://www.bestofvegas.com/Night-Clubs" class="footer" style="text-decoration:underline;">Nightlife</a> </td>
-		                  <td><a href="http://www.bestofvegas.com/Restaurants" class="footer" style="text-decoration:underline;">Dining</a> </td>
-		                  <td><a href="http://www.bestofvegas.com/Tours" class="footer" style="text-decoration:underline;">Tours</a> </td>
-		                  <td><a href="http://www.bestofvegas.com/Golf-Courses" class="footer" style="text-decoration:underline;">Golf</a> </td>
-		                  <td><a href="http://www.bestofvegas.com/pages/Contact_Us" class="footer" style="text-decoration:underline;">Contact</a> </td>
-		                  <td><a href="http://www.bestofvegas.com/pages/About_Us" class="footer" style="text-decoration:underline;">About</a> </td>
-		                </tr>
-		              </tbody></table>
-		            </td>
-		          </tr>
-		       </tbody></table>
-		     </td>
-		   </tr>
-		   <tr>
-		     <td colspan="2">
-		       <table align="center" border="0" width="100%">
-		          <tbody><tr>
-		            <td align="center" class="footer">
-		              Use of this Web site constitutes acceptance of the BestofVegas.com <a href="http://www.bestofvegas.com/pages/User_Agreement" class="footer" style="text-decoration:underline;">User Agreement</a> and <a href="http://www.bestofvegas.com/pages/Privacy_Policy" class="footer" style="text-decoration:underline;">Privacy Policy</a>.<br>
-		              All logos, photographs, brand names and images are registered trademarks and copyright of their respected Company.
-		<br>© 2008, BestofVegas.com, LLC. All rights reserved. <a href="http://www.internetgroove.com" class="footer">Website design by Internet Groove</a>.
-		
-		All offers are subject to change. Prices displayed before taxes &amp; fees and are samples based on non-peak times and may vary based on availability.<br> 
-		CST# 2091178-50.  FL ST35222, NV Seller of Travel License NV2008-0022.
-		               
-		            </td>
-		          </tr>
-               </tbody></table>
-             </td>
-           </tr>
-         </tbody></table>
-        
+                                			</td>
+        		</tr>
+                <tr>
+                   	<td align="left" valign="top"><p align="center"><img src="http://www.bestofvegas.com//tpl/default/images/content_bottom.jpg" width="670" height="30" alt=""><br></p>
                     </td>
-          </tr>
-         </tbody></table>      
-       </td>
-       </tr>
-     </tbody></table>
-    </td><td width="27" align="left" valign="top"></td>
-  </tr>
+                </tr>
+                <tr>
+                  	<td>
+                  		<table width="660" border="0" align="center" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+    	<td valign="top" width="163" align="right"><img src="http://www.bestofvegas.com//tpl/default/images/bov_logo_footer.gif"></td>
+		<td width="497" align="center">
+        	<table cellpadding="0" cellspacing="0">
+            	<tbody><tr>
+		        	<td align="center" class="footer">
+					BestOfVegas.com guards your privacy and security with Secure Socket Layer technology.
+		            </td>
+				</tr>
+		        <tr>
+		        	<td>
+		            	<table align="center" cellpadding="0" cellspacing="0">
+		                	<tbody><tr>
+		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/" class="footer" style="text-decoration:underline;">Home</a> </td>
+		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/pages/Contact_Us" class="footer" style="text-decoration:underline;">Contact</a> </td>
+		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/pages/About_Us" class="footer" style="text-decoration:underline;">About</a> </td>
+								<td align="center" width="70"><a href="http://www.bestofvegas.com/hotels" class="footer" style="text-decoration:underline;">Hotels</a> </td>
+		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/Show-Tickets" class="footer" style="text-decoration:underline;">Shows</a> </td>
+		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/Night-Clubs" class="footer" style="text-decoration:underline;">Nightlife</a> </td>	                  		
+		                	</tr>
+		                	<tr>
+		                		<td align="center" width="70"><a href="http://www.bestofvegas.com/Tours" class="footer" style="text-decoration:underline;">Tours</a> </td>
+		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/Golf-Courses" class="footer" style="text-decoration:underline;">Golf</a> </td>
+		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/Attractions" class="footer" style="text-decoration:underline;">Attractions</a> </td>
+		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/Weddings" class="footer" style="text-decoration:underline;">Weddings</a> </td>
+		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/Spas" class="footer" style="text-decoration:underline;">Spas</a> </td>
+		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/videos" class="footer" style="text-decoration:underline;">Videos</a> </td>
+							</tr>
+		              	</tbody></table>
+		        	</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<table align="center" border="0" width="100%">
+		    	<tbody><tr>
+		            <td align="center" class="footer">
+					Use of this Web site constitutes acceptance of the BestOfVegas.com <a href="http://www.bestofvegas.com/pages/User_Agreement" class="footer" style="text-decoration:underline;">User Agreement</a> and <a href="http://www.bestofvegas.com/pages/Privacy_Policy" class="footer" style="text-decoration:underline;">Privacy Policy</a>.<br>All logos, photographs, brand names and images are registered trademarks and copyright of their respected Company.<br>© 2008, BestOfVegas.com, LLC. All rights reserved. All offers are subject to change.<br>Prices displayed before taxes &amp; fees and are samples based on non-peak times and may vary based on availability.<br>CST# 2091178-50. FL ST35222, NV Seller of Travel License NV2008-0022.
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>                  	</td>
+                </tr>
+      		</tbody></table>      
+    	</td>
+	</tr>
 </tbody></table>
-<p>&nbsp;</p>
+<div align="center" id="loading" style="display:none;padding-top:100px;">
+	<table align="center">
+		<tbody><tr>
+			<td>
+				<img src="http://www.bestofvegas.com//tpl/default/images/PleaseWaitLogo.gif" vspace="10" hspace="10">
+			</td>
+		</tr>
+		<tr>
+			<td align="center" style="color:#ffffff">
+				<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="374" height="21"><param name="movie" value="http://www.bestofvegas.com//tpl/default/swf/preload_new.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><embed src="http://www.bestofvegas.com//tpl/default/swf/preload_new.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="374" height="21"></object><br><br><b>Thank you for your patience.<br>If you prefer to speak with us, Call us at 1-800-947-1081</b>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+
+<script type="text/javascript">
+function hideFlashBanner() {
+	document.getElementById('hideFlash').style.display = 'none';
+}
+</script>
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -320,5 +499,36 @@ pageTracker._initData();
 pageTracker._trackPageview();
 </script>
 
+<script language="JavaScript1.2">
+function hideLayer() {
+  if (document.getElementById) {
+    document.getElementById('headerTable').style.display = "none";
+    document.getElementById('contentTable').style.display = "none";
+    document.getElementById('loading').style.display = "block";
+  }
+  else if (document.all) {
+    document.all['headerTable'].style.display = "none";
+    document.all['contentTable'].style.display = "none";
+    document.all['loading'].style.display = "block";
+  }
+  else if (document.layers) {
+    document.layers['headerTable'].display = "none";
+    document.layers['contentTable'].display = "none";
+    document.layers['loading'].display = "block";
+  }
+}
+
+function loadSplash() {
+  hideLayer();
+  window.scrollTo(0,0);
+  document.body.style.overflow = "hidden";
+  window.onerror = null;
+}
+</script>
+
+<script language="JavaScript" src="http://www.bestofvegas.com//tpl/default/js/LocationPage.js" type="text/JavaScript"></script>
+<script language="JavaScript">
+setEngType('H');
+</script>
 
 </body></html>
