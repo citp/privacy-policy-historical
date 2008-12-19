@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the planethollywoodresort.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620001008id_/http%3A//www.planethollywoodresort.com/ftr_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planethollywoodresort.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219053020id_/http%3A//www.planethollywoodresort.com/ftr_privacy_policy.php) for the most accurate reproduction.*
 
-# Planet Hollywood - Footer - Privacy Policy
+# Henderson Hotels: Planet Hollywood Resort and Casino Las Vegas Nevada NV Henderson area luxury hotel casino spa gambling conference center romantic vacations getaways weddings fine dining bars concerts shopping golf meetings planning
 
 ## Privacy Policy
 
