@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airfare.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605014324id_/http%3A//www.airfare.com/airfare3/sitecontent/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airfare.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219141915id_/http%3A//www.airfare.com/airfare3/sitecontent/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Airfare.com®- PrivacyPolicy
 
@@ -10,15 +10,15 @@
 ---  
   
   
-5815 Seminary Rd. Suite 1000    
-Falls Church, VA 22041 
-
+5110 ridgefield rd, Suite 409,   
+Bethesda, MD 20816   
 1-800-AIR-FARE(247-3273)    
 703-379-1777 ** 
 
 Call Center Hours 
 
-**Open **24** Hours / **365** Day
+**Open **24** Hours / **365** Day  
+ 
 
   
   
@@ -30,7 +30,7 @@ Call Center Hours
 
 | 
 
-**[ Home](https://web.archive.org/web/20080605014324id_/http%3A//www.airfare.com/airfare3/default.aspx)** **Site Information** Privacy Policy
+**[ Home](https://web.archive.org/web/20081219141915id_/http%3A//www.airfare.com/airfare3/default.aspx)** **Site Information** Privacy Policy
 
 |   
 ---|---  
