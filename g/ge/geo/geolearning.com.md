@@ -1,48 +1,178 @@
-> *The following text is extracted and transformed from the geolearning.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616014454id_/http%3A//www.geolearning.com/main/Support/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geolearning.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219125804id_/http%3A//www.geolearning.com/main/Support/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Notice
 
-GeoLearning recognizes the importance of protecting the privacy of our customers and other visitors to our Web site while permitting us to conduct legitimate business by providing services and information. Our privacy policy is stated below:
+1\. Policy  
+It is the policy of GeoLearning, Inc. (collectively, “GeoLearning”) to comply with all applicable privacy and data protection laws. This policy reflects the importance we place on earning and keeping the trust of our employees, customers, and others who share their personal information with us.
 
-Collection & Storage of Personal Information  
-We will collect certain personal information, including your name, address, and e-mail address, when you register for our services or purchase our products. We maintain this information in our customer database. We may also collect additional information, such as in connection with events, special offers, contests, or other promotions.
+2\. Scope  
+This policy applies to all employees of GeoLearning and covers all personal information processed by GeoLearning, whether it relates to internal or external data subjects, and no matter where it is processed. 
 
-If you provide us with any personal information you should inform us immediately of any changes to the information that you provided by updating your personal details by sending an e-mail to [info@geolearning.com](mailto:info@geolearning.com).
+3\. Effective Date  
+This policy is effective as of December 10, 2008. 
 
-Additional Information Collected Automatically  
-In some cases, when you connect to our Web site we may automatically (i.e., not via registration) collect technical information that is not personally identifiable. Examples of this type of information include the type of Internet browser you are using, the type of computer operation system you are using and the domain name of the Web site from which you linked to our site.
+4\. Definitions  
+_“Data subject”_ generally means a natural person who can be individually identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his or her physical, physiological, mental, economic, cultural or social identity. Note, however, that in certain countries, for example, Switzerland and Italy, the term “data subject” may also refer to legal entities.
 
-Information Placed Automatically on Your Computer  
-Cookies: When you view our Web site, we may store some information on your computer. This information will be in the form of a “Cookie” or similar file and can help us in many ways. For example, Cookies allow us to tailor our Web site to better match your interests and preferences. With most Internet browsers, you can erase Cookies from your computer hard drive, block all Cookies or receive a warning before a Cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions.
+_"Personal Information"_ means an individual’s first name or last name in combination with any one or more of the following data elements: 
 
-Use of Information  
-This information is used: 
-
-  * to deliver the service or product you requested.
-  * to enable billing and shipping.
-  * to provide you with information about related products and services.
-  * to improve our Web site.
-  * to better administer and troubleshoot our systems.
+  1. social security number, drivers license number, or any other government-issued identification number
+  2. birth date
+  3. race/national origin
+  4. sex
+  5. address
 
 
 
-In some instances we share postal addresses of visitors with authorized partner organizations. However we DO NOT share direct contact information such as e-mail addresses, phone numbers or fax numbers with any third parties. To request that your postal address not be shared with authorized partner organizations, send your request to [info@geolearning.com](mailto:info@geolearning.com). Information concerning individuals’ usage of our site will not be disclosed to third parties except in aggregate form such that your information will not be personally identifiable.
+Personal information does not include information that is lawfully obtained from publically available resources, or from federal, state, or local government records lawfully made available to the general public.
 
-European Economic Area  
+_“Processing”_ of personal information means doing anything with personal information, whether or not by automatic means, such as collecting, recording, organizing, storing, adapting, altering, retrieving, consulting, using, disclosing, transmitting, disseminating, accessing or providing access to, combining, erasing, or destroying personal information.
+
+_“Affiliate”_ means any entity that is controlled, directly or indirectly, by GeoLearning. 
+
+5\. Responsibilities of GeoLearning Employees   
+All GeoLearning businesses and functions must review their data practices in light of this policy and establish and maintain procedures to implement this policy.
+
+All employees of GeoLearning must comply with all applicable privacy and data protection laws, this policy, and all related GeoLearning polices and procedures. 
+
+6\. Adherence to U.S. Safe Harbor Principles  
+GeoLearning adheres to and will comply with the U.S. Safe Harbor Principles, including the relevant guidelines provided in the U.S. Safe Harbor Frequently Asked Questions. 
+
+7\. Privacy Principles   
+Although privacy and data protection laws vary from country to country, most are based on the following privacy principles. Accordingly, to assure compliance with all applicable data protection laws and achieve consistency across the organization, GeoLearning will adhere to the following privacy principles at least to the extent required by applicable law: 
+
+_Limitations on the Collection, Use and Disclosure of Personal Information_
+
+_Notice and Consent_ – We will collect and process information fairly and lawfully, and where appropriate, with the knowledge or consent of the data subject. The type of notice or consent required will depend on the context and the circumstances, the sensitivity of the personal information, the data subject’s reasonable expectations, and legal requirements.
+
+  * _Specific Purpose_ – We will collect and process personal information only for specified, limited and legitimate purposes.
+  * _Limitations on Use_ – We will not process personal information in a manner inconsistent with the purposes for which it was originally collected without first obtaining the data subject’s consent. The type of consent required will depend on the context and the circumstances, the sensitivity of the personal information, the data subject’s reasonable expectations, and legal requirements.
+  * _Data Proportionality_ – The personal information we collect will be relevant, adequate and not excessive for the purposes for which it is collected or to which the data subject subsequently consents.
+  * _Direct Marketing_ – We will not use personal information for direct marketing purposes without the data subject’s consent. The data subject’s consent may be express or implied, “opt-out” or “opt-in,” depending on the circumstances and legal requirements.
+  * _Automated Decisions_ – We will not make decisions based solely on automated processing of personal information except as permitted by applicable law. 
+  * _Transfers to Third Parties_
+    * We will disclose personal information to third parties (including our affiliates) only for purposes consistent with those for which the personal information was originally collected or to which the data subject has subsequently consented. We will take appropriate measures, by contract or otherwise, to provide adequate protection for personal information that is disclosed to a third party.
+    * Before we transfer personal information to a third party to use for its own marketing purposes, we will obtain the data subject’s consent. The data subject’s consent may be express or implied, “opt-out” or “opt-in,” depending on the circumstances and legal requirements.
+    * There may be exceptions to these general rules, depending on applicable law, if, for example, the disclosure is required by court order, to comply with a law, to prevent a crime, to enforce a legal right.
+  * _Transfers to Other Countries_ – We will take appropriate measures, by contract or otherwise, to provide adequate protection for personal information that is transferred from one country to another, including transfers among affiliates. If required by law, we will first obtain the data subject’s consent to the transfer. In such cases, the type of consent required will depend on the context and the circumstances, the sensitivity of the personal information, the data subject’s reasonable expectations, and legal requirements.
+
+
+
+_Management of Personal Information_
+
+  * _Quality_ – We will take appropriate steps to ensure that personal information is accurate and reliable for its intended use and, where necessary for its intended use, kept up-to-date.
+  * _Access_ – We will maintain procedures to give data subjects appropriate access to their personal information and, when appropriate, an effective means to have their personal information corrected or deleted.
+  * _Security_ – We will implement reasonable administrative, physical and technological security measures to protect personal information from unauthorized access, unauthorized use, and unauthorized or accidental destruction, modification or disclosure. We will provide a level of security appropriate to the risks and the sensitivity of the personal information.
+  * _Retention_ – We will not keep personal information in a form that permits identification of data subjects for longer than is necessary for the purposes for which it was collected or to which the data subject has consented, except for legitimate purposes permitted by law, such as regulatory compliance.
+
+
+
+_Accountability and Enforcement_
+
+  * _Accountability_ – We will designate data subjects within GeoLearning to be accountable for compliance with privacy and data protection laws, this policy, and related procedures.
+  * _Enforcement_ – We will provide internal controls for verifying compliance with privacy and data protection laws, this policy, and related procedures.
+  * _Complaint Process_ – We will provide a fair process for investigating and resolving complaints and objections regarding our data practices and will take appropriate steps to communicate our process to the data subjects who entrust their personal information to us.
+
+
+
+GeoLearning Privacy Statement  
+
+
+**Effective as of December 10, 2008**
+
+GeoLearning, Inc. (“Geolearning.com” or the “Company”) is committed to protecting the privacy of your information. This Privacy Statement describes GeoLearning’s information practices.
+
+GeoLearning abides by the EU Safe Harbor Framework as outlined by the U.S. Department of Commerce and the European Union. For more information on the EU Safe Harbor Framework, please visit <http://www.export.gov/safeharbor/>. 
+
+GeoLearning acts as a “data processor” with respect to much of the personal information it receives from the European Economic Area. A “data processor” is an entity that processes personal information on behalf of a data controller. A “data controller” is an entity that determines the purpose and means for processing personal information. 
+
+When GeoLearning receives personal information from the European Economic Area as a “data processor,” GeoLearning protects the personal information in accordance with the terms of the contract between GeoLearning and the “data controller” and the relevant Safe Harbor Principles. 
+
+If you have any questions about this Privacy Statement, please contact GeoLearning, Inc by e-mailing [privacy@geolearning.com](mailto:privacy@geolearning.com). 
+
+1\. Web Sites Covered  
+This Privacy Statement covers the information practices of Web sites that link to this Privacy Statement: <https://gm1.geolearning.com/geonext/login.geo> (GeoMaestro), <https://gm2.geolearning.com/geonext/login.geo>(GeoMaestro), [http://www.geolearning.com](http://www.geolearning.com/), and [https://geoengage.geolearning.com](https://geoengage.geolearning.com/) (collectively referred to as "GeoLearning's Web sites" or "the Company's Web sites"). 
+
+GeoMaestro, (<https://gm1.geolearning.com/geonext/login.geo>, <https://gm2.geolearning.com/geonext/login.geo>, and [https://geoenage.geolearning.com](https://geoengage.geolearning.com/)) is an online Talent, Learning, and Performance Management web application that is owned and operated by GeoLearning. Customers of GeoLearning use the application to administer e-learning activities to employees and other clients. While the primary application is hosted by GeoLearning, the company does offer additional integrated applications that might be hosted by a third party. When applications are hosted by GeoLearning, this Privacy Statement applies. When applications are hosted by third parties, the privacy statement of the third party applies, and this Privacy Statement does not apply. 
+
+GeoLearning's Web sites may contain links to other Web sites. GeoLearning is not responsible for the information practices or the content of such other Web sites. The Company encourages you to review the privacy statements of other Web sites to understand their information practices. 
+
+2\. Personal Information Collected    
+GeoLearning offers a variety of services that are collectively referred to as the “Service.” GeoLearning collects information from individuals who visit the Company’s Web sites (“Visitors”) and individuals who register to use the Service (“Customers”). 
+
+When expressing an interest in obtaining additional information about the Service or registering to use the Service, GeoLearning requires you to provide the Company with contact information, such as name, company name, address, phone number, and email address (“Required Contact Information”). When purchasing the Service, GeoLearning requires you to provide the Company with financial qualification and billing information, such as billing name and address, credit card number, and the number of employees within the organization that will be using the Service (“Billing Information). GeoLearning may also ask you to provide additional information, such as company annual revenues, number of employees, or industry (“Optional Information”). Required Contact Information, Billing Information, and Optional Information are referred to collectively as “Data About GeoLearning Customers.” 
+
+As you navigate the Company’s Web sites, GeoLearning may also collect information through the use of commonly-used information-gathering tools, such as cookies and Web beacons (“Web Site Navigational Information”). Web Site Navigational Information includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on the Company’s Web sites (such as the Web pages viewed and the links clicked). For additional information about GeoLearning’s collection of Web Site Navigational Information, please see Section 4 of this Privacy Statement.
+
+3\. Use of Information Collected    
+The Company uses Data about GeoLearning Customers to perform the services requested. For example, if you fill out a “Contact Me” Web form, the Company will use the information provided to contact you about your interest in the Service. 
+
+The Company may also use Data About GeoLearning Customers for marketing purposes. For example, the Company may use information you provide to contact you to further discuss your interest in GeoLearning’s products, the Service, and to send you information regarding the Company and its partners, such as information about promotions or events. 
+
+GeoLearning uses credit card information solely to check the financial qualifications of prospective Customers and to collect payment for the Service. 
+
+GeoLearning uses Web Site Navigational Information to operate and improve the Company’s Web sites. The Company may also use Web Site Navigational Information in combination with Data About GeoLearning Customers to provide personalized information about the Company. 
+
+In some instances, we share postal addresses of visitors with authorized partner organizations. However, we DO NOT share direct contact information such as e-mail addresses, phone numbers or fax numbers with any third parties. To request that your postal address not be shared with authorized partner organizations, send your request to [privacy@geolearning.com](mailto:privacy@geolearning.com). Information concerning individuals’ usage of our site will not be disclosed to third parties except in aggregate form such that your information will not be personally identifiable.
+
+European Economic Area 
+
 Please note that your personal information will be transferred outside the European Economic Area for the purposes of processing by GeoLearning and its affiliates. By using the GeoLearning Web site and providing your personal information, you consent to this transfer.
 
-External Sites  
-As a service to you, our Web site may feature links to external Web sites. GeoLearning is not responsible for the privacy practices or the content of any external Web sites. Accordingly, we recommend that you review the privacy policy of any external Web sites that you may enter from our site.
+For additional information about the Company’s use of Web Site Navigational Information, please see section 4 of this Privacy Statement. 
 
-Your Acceptance of These Terms  
-By using this site, you signify your assent to the GeoLearning Internet Privacy Statement. If you do not agree to this policy, please do not use our site. We reserve the right, at our discretion, to change, modify, add or remove portions from this policy at any time. Please check this page periodically for changes. Your continued use of the GeoLearning Web site following the posting of changes to these terms means you accept these changes.
+4\. Web Site Navigational Information    
+GeoLearning uses commonly-used information-gathering tools, such as cookies and Web beacons, to collect information as you navigate the Company’s Web sites (“Web Site Navigational Information”) . This section describes the types of Web Site Navigational Information the Company may collect and how the Company may use this information. 
 
-Your Rights  
-You may review and approve the information about you collected upon registration in our customer database. Upon request, we will remove that information from our customer database or change/correct personal information that you state is erroneous. However, you should understand that information about you in our database might come from a number of sources, including orders placed by you and third party mailing lists.
+Cookies   
+GeoLearning uses cookies to make interactions with the Company’s Web sites easy and meaningful. When you visit one of the Company’s Web sites, GeoLearning’s servers send a cookie to your computer. Standing alone, cookies do not personally identify you. They merely recognize your Web browser. Unless you choose to identify yourself to GeoLearning, either by responding to a promotional offer, opening an account, or filling out a Web form (such as a “Contact Me” or a “Send me a White Paper” Web form), you remain anonymous to the Company. 
 
-If you choose not to register and provide personal information, you can still use most of the GeoLearning site. However, you will not be able to access areas that require registration.
+There are two types of cookies: session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer. 
 
-If for some reason you believe GeoLearning has not adhered to these principles, please notify us by e-mail at [info@geolearning.com](mailto:info@geolearning.com), and we will use commercially reasonable efforts to promptly determine and correct the problem.
+If you have chosen to identify yourself to GeoLearning, the Company uses session cookies containing encrypted information to allow the Company to uniquely identify you. Each time you log into the Service, a session cookie containing an encrypted, unique identifier that is tied to your account is placed your browser. These session cookies allow the Company to uniquely identify you when you are logged into the Service and to process your online transactions and requests. Session cookies are required to use the Service. 
 
-Privacy Contact  
-Questions regarding this policy should be directed to GeoLearning at [webmaster@geolearning.com](mailto:webmaster@geolearning.com).
+GeoLearning does not employ the use of persistent cookies. 
+
+GeoLearning may use information from session and persistent cookies in combination with Data About GeoLearning Customers to provide you with information about the Company and the Service.
+
+IP Addresses    
+When you visit GeoLearning’s Web sites, the Company collects your Internet Protocol (“IP”) addresses to track and aggregate non-personally identifiable information. For example, GeoLearning uses IP addresses to monitor the regions from which Customers and Visitors navigate the Company’s Web sites. 
+
+GeoLearning also collects IP addresses from Customers whey they log into the Service as part of the Company’s “Identity Confirmation” security features.
+
+Third Party Cookies    
+From time-to-time, GeoLearning engages third parties to track and analyze non-personally identifiable usage and volume statistical information from individuals who visit the Company’s Web sites. GeoLearning may also use other third-party cookies to track the performance of Company advertisements. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after the Company receives it. This Privacy Statement does not cover the use of third party cookies.
+
+5\. Public Forums, Refer a Friend, and Customer Testimonials   
+GeoLearning may provide bulletin boards, blogs, or chat rooms on the Company’s Web sites. Any personally identifiable information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. GeoLearning is not responsible for the personally identifiable information you choose to submit in these forums. 
+
+GeoLearning posts a list of Customers and testimonials on the Company’s Web sites that contain information such as Customer names and titles. GeoLearning obtains the consent of each Customer prior to posting any information on such a list or posting testimonials.
+
+6\. Sharing of Information Collected   
+GeoLearning may share Data About GeoLearning Customers with the Company’s agents so that these agents can contact Customers and Visitors who have provided contact information on our behalf. GeoLearning may also share Data About GeoLearning Customers with the Company’s agents to ensure the quality of information provided. GeoLearning does not share, sell, rent, or trade personally identifiable information with third parties for their promotional purposes.
+
+GeoLearning uses a third-party intermediary to manage credit card processing. This intermediary is not permitted to store, retain, or use Billing Information except for the sole purpose of credit card processing on the Company’s behalf. 
+
+GeoLearning reserves the right to disclose personally identifiable information of the Company’s Customers or Visitors if required by law or if the Company reasonably believes that disclosure is necessary to protect the Company’s rights and/or to comply with a judicial proceeding, court order, or legal process.
+
+7\. Communications Preferences   
+GeoLearning offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking [unsubscribe@geolearning.com](mailto:unsubscribe@geolearning.com) by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to [unsubscribe@geolearning.com](mailto:unsubscribe@geolearning.com). Customers cannot opt out of receiving transactional emails related to their account with GeoLearning or the Service.
+
+8\. Correcting and Updating Your Information   
+Customers may update or change their registration information by editing their user or organization record. To update a user profile, please contact your individual LMS administrator. To update an organization’s information, please login and contact your individual Customer Care Administrator. To update Billing Information, please email [geoaccounting@geolearning.com](https://web.archive.org/web/20081219125804id_/http%3A//www.geolearning.com/main/Support/geoaccounting@geolearning.com) or call 1(800)970-9903. To discontinue your account and to have information you maintained in the Service returned to you, please email [privacy@geolearning.com](https://web.archive.org/web/20081219125804id_/http%3A//www.geolearning.com/main/Support/privacy@geolearning.com) or call 1(800)970-9903.
+
+To discontinue marketing messages and information please contact GeoLearning at [unsubscribe@geolearning.com](mailto:unsubscribe@geolearning.com).
+
+9\. Customer Data   
+GeoLearning Customers use the Service (<https://gm1.geolearning.com/geonext/login.geo> (GeoMaestro), <https://gm2.geolearning.com/geonext/login.geo>(GeoMaestro) to host data and information ("Customer Data"). GeoLearning will not review, share, distribute, or reference any such Customer Data except as provided in the GeoLearning Master Software Subscription Agreement, or as may be required by law. Individual records of Customer Data may be viewed or accessed only for the purpose of resolving a problem, support issues, or suspected violation of the GeoLearning Master Software Subscription Agreement, or as may be required by law. Customers are responsible for maintaining the security and confidentiality of their GeoMaestro usernames.
+
+10\. Security   
+GeoLearning uses robust security measures to protect Customer Data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of Customer Data. When the Service is accessed using Internet Explorer version 6.0 or later, Firefox version 2.0 or later, or Safari version 3.0 or later, Secure Socket Layer (“SSL”) technology protects Customer Data using both server authentication and data encryption. These technologies help ensure that Customer Data is safe, secure, and only available to the Customer to whom the information belongs and those to whom the Customer has granted access. GeoLearning also implements an advanced security method based on dynamic data and encoded session identifications, and the Company hosts its Web sites in a secure server environment that uses firewalls and other advanced technology to prevent interference or access from outside intruders. GeoLearning also offers enhanced security features within the Service that permit Customers to configure security settings to the level they deem necessary. 
+
+Because the Company uses the Service to maintain Data about GeoLearning Customers, this information is secured in the same manner as described above for Customer Data.
+
+11\. Changes to this Privacy Statement    
+GeoLearning reserves the right to change this Privacy Statement. GeoLearning will provide notification of the change through the Company’s Web sites at least thirty (30) business days prior to the change taking effect.
+
+12\. Contacting Us    
+Questions regarding this Privacy Statement or the information practices of the Company’s Web sites should be directed to GeoLearning Privacy by e-mailing [privacy@geolearning.com](https://web.archive.org/web/20081219125804id_/http%3A//www.geolearning.com/main/Support/privacy@geolearning.com) or mailing GeoLearning Privacy, 4600 Westown Parkway, Suite 301, West Des Moines, IA 50266.
