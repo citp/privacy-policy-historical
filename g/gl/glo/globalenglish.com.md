@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalenglish.com privacy policy that was archived on 2008-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080327211707id_/http%3A//www.globalenglish.com/m/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalenglish.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219142037id_/http%3A//www.globalenglish.com./m/privacy) for the most accurate reproduction.*
 
 # GlobalEnglish - Privacy Statement
 
@@ -10,7 +10,7 @@ GlobalEnglish acknowledges the importance of the personal information provided b
 
 GlobalEnglish employs security measures at the network, SQL, and application levels. GlobalEnglish consistently maintains production servers with the latest operating system security patches. All sensitive customer information--including, but not limited to, user names, passwords, first name, last name, email address, and activity records--is contained within the secure users database that exists in a professionally managed, secure co-location facility, protected by physical and network security measures. Media containing sensitive customer information is destroyed in the event that it is defective and/or taken out of service.
 
-Notifications, inquiries, corrections, and requests for discontinuation of use of customer information in connection with the Services may be directed to [privacy@globalenglish.com](https://web.archive.org/web/20080327211707id_/http://www.globalenglish.com/m/about/contact/technical_support/).
+Notifications, inquiries, corrections, and requests for discontinuation of use of customer information in connection with the Services may be directed to [privacy@globalenglish.com](https://web.archive.org/web/20081219142037id_/http://www.globalenglish.com/m/about/contact/technical_support/).
 
 In addition to personal information, GlobalEnglish may collect certain profile information from its users (such as profession, education, age, and gender) in order to improve our content, product offerings, and promotional and marketing efforts. GlobalEnglish may use such profile information to create aggregate reports about its users. The profile information and aggregate reports are anonymous and do not contain information that can identify you personally.
 
