@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esurveyspro.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011093645id_/http%3A//www.esurveyspro.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esurveyspro.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219024546id_/http%3A//esurveyspro.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Online Surveys. Survey software to create online surveys.
 
