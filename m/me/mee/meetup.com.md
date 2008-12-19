@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetup.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630185057id_/http%3A//www.meetup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetup.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220002848id_/http%3A//www.meetup.com/privacy) for the most accurate reproduction.*
 
 # Meetup Privacy Policy Statement - Meetup.com
 
@@ -37,7 +37,7 @@ Protecting your privacy is a serious matter and doing so is very important to us
 
 ### 4\. Communications from Meetup and Members of the Meetup Community
 
-  * 4.1. Communication from Meetup and Members of the Meetup Community are governed by Sections 6.1 and 6.2 of our Terms of Service. You may manage your subscriptions to all Meetup Communications in the Communication Preferences tab of the [Your Account](http://www.meetup.com/account/) page.
+  * 4.1. Communication from Meetup and Members of the Meetup Community are governed by Sections 7.1 and 7.2 of our Terms of Service. You may manage your subscriptions to all Meetup Communications in the Communication Preferences tab of the [Your Account](http://www.meetup.com/account/) page.
 
 
 
