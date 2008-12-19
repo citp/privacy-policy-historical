@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postini.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623203729id_/http%3A//www.postini.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postini.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219102424id_/http%3A//www.postini.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Postini: Resource Center
 
@@ -6,9 +6,11 @@
 
 [](http://www.truste.org/ivalidate.php?url=www.postini.com&sealid=102)
 
+**Notice: Effective January 9, 2009, Postini, Inc., a wholly owned subsidiary of Google Inc., will adopt the following[privacy policy](http://www.google.com/a/help/intl/en/security/terms/new_privacy.html).**
+
 Google Inc. (NASDAQ: GOOG) has completed the acquisition of Postini as of September 13, 2007.
 
-**Effective February 16, 2007**
+**Effective August 10, 2008**
 
 **_Overview_**
 
@@ -24,7 +26,7 @@ Google Inc. (NASDAQ: GOOG) has completed the acquisition of Postini as of Septem
 
 **_What Is Not Covered in this Privacy Statement?_** We cover only our data processing practices described in the preceding paragraph. Without limitation, this Privacy Statement does not cover data that we collect offline, on businesses or legal entities or on our employees. 
 
-**_How Can You Contact Us?_** If you have questions or concerns regarding this Privacy Statement, you should first contact us by email at [privacyrequest@postini.com](mailto:privacyrequest@postini.com). You can also write to Postini at 1600 Amphitheatre Parkway, Mountain View, CA 94043, Attention: Information Security Administrator. Postini will respond to personal information change requests within 30 days of receiving such requests. 
+**_How Can You Contact Us?_** Please feel free to direct any questions or concerns regarding this Privacy Statement by [contacting us](http://www.google.com/support/bin/request.py?form_type=user&stage=fm&user_type=user&contact_type=privacy&hl=en) or by writing to us at Privacy Matters, c/o Google Inc., 1600 Amphitheatre Parkway, Mountain View, California, 94043, USA. Postini will respond to personal information change requests within 30 days of receiving such requests. 
 
 **_What If You Do Not Get A Satisfactory Response?_** We will try our best to see that you will always get a satisfactory response from us. As part of this effort, we also offer you recourse to TRUSTe®, an independent, nonprofit organization dedicated to enabling individuals and organizations to establish trusting relationships based on respect for personal identity and information in the evolving networked world. Postini is a licensee of the TRUSTe Privacy Program. This Privacy Statement covers the url [www.postini.com](https://web.archive.org/). TRUSTe's certification covers the gathering and dissemination of information described in this Privacy Statement, but not any of our other data processing practices. If you do not receive an acknowledgment of an inquiry sent to Postini, or if your inquiry has not been satisfactorily addressed, you may then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with Postini to resolve your concerns. 
 
@@ -46,7 +48,7 @@ _**What Is Covered by This Section?**_ The paragraphs in this section describe h
 
 Public Website Visitors may sign up to receive various information or services from us, including the following: (i) free trials of our services, (ii) our Newsletter, (iii) White Papers, (iv) product demonstrations, (v) our Webinars or those of other third parties. Each of these submissions will produce an automated email response to the email address entered into the form. We may send promotional emails to Public Website Visitors who have sent us such Web Forms, although we do not currently do so for newsletter subscribers. If you consent to it, we may provide your information from these Web Forms to certain of our authorized resellers to communicate information to you about our services. If thereafter you prefer us not to provide this information to our authorized resellers, you may let us know by following the instructions described in this policy.
 
-If you do not wish to submit the personal information requested by these forms, you may call us at 888.584.3150 or 650.216.3574. 
+If you do not wish to submit the personal information requested by these forms, you may call us at the numbers located [here](https://web.archive.org/about_postini/contact.php). 
 
 Postini also allows Public Website Visitors to contact us by email with questions, comments or requests. The information collected from these emails is used to reply to such questions, comments, or requests. Sometimes we file visitor's comments, so that we can improve the Public Website in the future. A small sample of visitors to the Public Website who contact us may be invited to participate in usability studies.
 
@@ -58,7 +60,7 @@ As its business evolves, Postini may sell, transfer or otherwise share some or a
 
 **_Links to Other Sites._** The Public Website may contain links to other sites, including under the "News and Events" and "Postini Resource Center" sections of the Public Website. Postini is not responsible for the privacy practices of any sites other than its own. This section on "Public Website Privacy" applies only to information collected by Postini on the Public Website. In addition, the webinar registration portion of our Public Website may contain links to other sites. We may use service providers to collect certain information about those users who register for our webinars including the user's name, title, company name, physical address, email address, phone and fascimile number, web address, job title, company size, and job function. Our service providers then provide us this information so that we may follow-up to provide our services to such users. 
 
-**_Security of Data._** Postini treats data as a valuable asset, and applies technology and operations practices that are designed to ensure the security of this data both during transmission and while stored on our servers. Postini takes reasonable precautions to protect this data against loss, misuse, and alteration. To learn more, please see the [Postini Security Statement](https://web.archive.org/web/20080623203729id_/http%3A//www.postini.com/legal/security.php).
+**_Security of Data._** Postini treats data as a valuable asset, and applies technology and operations practices that are designed to ensure the security of this data both during transmission and while stored on our servers. Postini takes reasonable precautions to protect this data against loss, misuse, and alteration. To learn more, please see the [Postini Security Statement](https://web.archive.org/web/20081219102424id_/http%3A//www.postini.com/legal/security.php).
 
 Our Public Website includes certain testimonials from customers who have agreed to the use of their testimonials on our Public Website. 
 
