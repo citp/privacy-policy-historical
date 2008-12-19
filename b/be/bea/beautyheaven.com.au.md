@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beautyheaven.com.au privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615124007id_/http%3A//www.beautyheaven.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyheaven.com.au privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219013335id_/http%3A//www.beautyheaven.com.au/privacy) for the most accurate reproduction.*
 
-# beautyheaven.com.au
+# Privacy
 
 PRIVACY POLICY  
 Updated September 2007  
