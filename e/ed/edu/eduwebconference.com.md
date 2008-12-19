@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduwebconference.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616224434id_/http%3A//www.eduwebconference.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduwebconference.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219033638id_/http%3A//www.eduwebconference.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # eduWEB - Conference 2006
 
