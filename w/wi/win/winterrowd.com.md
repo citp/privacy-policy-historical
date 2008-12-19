@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the winterrowd.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609041123id_/http%3A//www.winterrowd.com/HomePage/tabid/52/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winterrowd.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219181610id_/http%3A//www.winterrowd.com/Privacy) for the most accurate reproduction.*
 
-# winterrowd.com - the best place for online pranks!
+# Winterrowd.com - The original place for pranks and everything scary or spooky!
+
+##  Privacy Statement
 
 Winterrowd Solutions is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Winterrowd Solutions Web site and governs data collection and usage. By using the Winterrowd Solutions website, you consent to the data practices described in this statement.
 
@@ -44,4 +46,4 @@ Winterrowd Solutions will occasionally update this Statement of Privacy to refle
 
 Contact Information
 
-Winterrowd Solutions welcomes your comments regarding this Statement of Privacy. If you believe that Winterrowd Solutions has not adhered to this Statement, please contact Winterrowd Solutions at [jeremy@winterrowd.com](mailto:jeremy@winterrowd.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Winterrowd Solutions welcomes your comments regarding this Statement of Privacy. If you believe that Winterrowd Solutions has not adhered to this Statement, please contact Winterrowd Solutions using our [ contact form](http://www.winterrowd.com/Contact). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
