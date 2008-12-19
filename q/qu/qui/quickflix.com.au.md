@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickflix.com.au privacy policy that was archived on 2008-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080318183742id_/http%3A//www.quickflix.com.au/public/home/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickflix.com.au privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219072752id_/http%3A//www.quickflix.com.au/public/home/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy policy at Quickflix
 
@@ -49,7 +49,7 @@ The Quickflix website is frequently trawled and indexed by search engines such a
 During the course of your membership, you will receive postal mail and/or emails from Quickflix that contain information relating to your account and the service provided to you as a member, including but not limited to website changes, product additions, news and current updates concerning the industry, website and account, product availability and the status of deliveries and/or returned items. 
 
 After your membership, from time to time we may contact you regarding offers or promotions that may be of interest to you. If you do not wish to receive these emails after your membership is closed you can unsubscribe from the Quickflix Mailing List by visiting:  
-<http://www.quickflix.com.au/public/tools/unsubscribe.aspx>
+<http://www.quickflix.com.au/public/tools/ManageEmailSubscriptions.aspx>
 
 ## Links to external sites
 
