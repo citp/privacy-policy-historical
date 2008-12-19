@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erayo.com privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414012508id_/http%3A//www.erayo.com/Privacy-Policy.content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erayo.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219194256id_/http%3A//www.erayo.com/Privacy-Policy.content) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@ information that you share with it. Erayo believes that its registered users ("E
 Members") have a full right to know its policies and practices regarding the information  
 Erayo collects while visiting and using its website at the address [http://www.erayo.com](http://www.erayo.com/)   
 (the "Website") and System (as such term is define in Seller Terms of Use and   
-[Erayo Buyer Terms of Use ](https://web.archive.org/Buyer-Terms-of-Use.content)). The guidelines contained herein (the "Privacy  
+[Erayo Buyer Terms of Use ](https://web.archive.org/Terms-of-Use.content)). The guidelines contained herein (the "Privacy  
 Policy") apply only to the Website and System operated by or for Erayo, and it is not  
 applicable for any other business which Erayo may have. 
 
@@ -18,7 +18,7 @@ Privacy Policy.
 
 Erayo collects personal information provided consciously and voluntarily by Erayo  
 Members during the creation and activation of an Account (as such term is defined in  
-Erayo Seller Terms of Use and Erayo [Buyer Terms of Use ](https://web.archive.org/Buyer-Terms-of-Use.content)) via the Website  
+Erayo Seller Terms of Use and Erayo [Terms of Use ](https://web.archive.org/Terms-of-Use.content)) via the Website  
 (the "Registration Process"). "Personal Information” means individually identifiable  
 information such as the name, telephone number, email address, financial information  
 such as bank account and credit card details, and other information collected during your  
