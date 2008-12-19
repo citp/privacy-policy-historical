@@ -1,48 +1,48 @@
-> *The following text is extracted and transformed from the thinkgeek.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229224057id_/http%3A//www.thinkgeek.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkgeek.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219161501id_/http%3A//www.thinkgeek.com/privacy.shtml) for the most accurate reproduction.*
 
 # ThinkGeek :: ThinkGeek :: Privacy Policy
 
-## ThinkGeek Privacy Policies
+ThinkGeek is committed to the privacy of our customers. ThinkGeek, Inc. is a wholly-owned subsidiary of SourceForge Inc. The following is an Overview of the Privacy Statement of ThinkGeek, Inc. and SourceForge Inc. 
 
-ThinkGeek has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website (www.thinkgeek.com). 
+(Last Updated July 2, 2008) 
 
-We use your IP address to help diagnose problems with our server, to administer our Web site, and to collect demographic information for internal purposes. 
+##  Scope 
 
-Our site uses cookies to keep track of your shopping cart and to store current session information. 
-
-In order to place an order with ThinkGeek, you must register for an account. We maintain your address information and order history on our servers. 
-
-This site contains links to other sites. **www.thinkgeek.com** is not responsible for the privacy practices or the content of such Web sites. 
-
-Our site uses an order form for customers to request products and services. We collect visitor's contact information (like their email address) and financial information (credit card numbers). Contact information from the order form is used to send orders to our customers. The customer's contact information is used to get in touch with the visitor when necessary. Financial information that is collected is used to bill the user for products and services. **We do not release any customer information to third parties.**
-
-Our [feedback page](https://web.archive.org/feedback.shtml) asks visitors for demographic information (age). Demographic and profile data (favorite programming language, favorite operating system, etc.) is also collected. We use this data internally to help identify our customer's interests. We will not distribute this information to anyone. 
-
-## Choice/Opt-Out
-
-When you first enter your contact information, you may select if you would like to receive our e-mail newsletters. 
-
-You may be removed from our em-ail or snail mail list at anytime, by doing one of the following: 
-
-  1. If you have an account, edit your preferences in your [Account Info](https://www.thinkgeek.com/brain/account/finger.cgi). 
-  2. If you do not have an account, send an email to webmaster@thinkgeek.com. 
-  3. Call the following telephone number: (703) 293-6299. 
+  * This Overview highlights the SourceForge, Inc. (“SourceForge”) United States/European Union Safe Harbor Privacy Statement, found at: [**http://web.sourceforge.com/privacy-statement**](http://web.sourceforge.com/privacy-statement). This Overview and the Privacy Statement apply to the Internet sites SourceForge.com, SourceForge.net, Slashdot.org, freshmeat.net, ITmanagersJournal.com, Linux.com, and ThinkGeek.com (the “Sites”). 
 
 
 
-## Correct/Update
+##  Information Collected 
 
-This site gives users the following options for changing and modifying information previously provided. 
-
-  1. Send an email to [webmaster@thinkgeek.com](mailto:webmaster@thinkgeek.com)
-  2. Or you may call the following telephone number: (703) 293-6299
-
+  * When you use the Sites, SourceForge may ask you to provide certain personal information. SourceForge may also collect certain non-personal information concerning your use and activity related to the Sites.
+  * The information SourceForge collects may be combined with information collected from each of the Sites.
+  * SourceForge uses cookies and other technologies to keep track of your interactions with the Sites and SourceForge services to offer a personalized experience.
 
 
-## Contacting ThinkGeek
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+##  Uses of Information 
 
-Jennifer Frazier ThinkGeek, Inc. 10201 Main Street, Suite 100 Fairfax, VA 22030
+  * SourceForge uses the information SourceForge collects from the Sites to provide the services requested by you. SourceForge services may include the display of personalized content and advertising. 
+  * SourceForge uses your information to inform you about the products or services offered by SourceForge and its subsidiaries and affiliates, and to send you relevant information related to SourceForge.
+  * SourceForge does not sell, rent, or lease its customer lists to third parties. In order to help provide its services, it occasionally provides customer information to other companies that work on its behalf.
 
-webmaster@thinkgeek.com 
+
+
+##  Your Choices 
+
+  *   * You can choose to stop delivery of promotional e-mail from the Sites by following the instructions included in each such email. 
+  * To view and edit your personal information, go to the [Data Integrity and Access section of the Privacy Statement](http://web.sourceforge.com/privacy-statement#data_inegrity_and_access).
+
+
+
+##  How to Contact Us 
+
+  * For more information about SourceForge privacy practices and its contact information, please see the [Privacy Statement](http://web.sourceforge.com/privacy-statement).
+
+
+
+##  Special Note to Users of ThinkGeek.com 
+
+  * Display names of ThinkGeek.com users are not publicly available. However, if you elect to post a comment to a blog or post in a forum on ThinkGeek.com, then you will be assigned a nickname that will be publicly available.
+
+
