@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelalerts.ca privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502120141id_/http%3A//www.travelalerts.ca/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D1517%26Itemid%3D185) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelalerts.ca privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220004415id_/http%3A//www.travelalerts.ca/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D1517%26Itemid%3D185) for the most accurate reproduction.*
 
 # Travelalerts.ca - Privacy Policy
 
@@ -24,7 +24,7 @@ Please note that at all times, users can click the unsubscribe link on one of th
   
 
 
-## How is this information disclosed? 
+## How is this information disclosed?
 
 Travelalerts.ca does not sell or rent your Personal Data to anyone. Travelalerts.ca will share Personal Data with third parties only as a requirement for fulfilling a service you have chosen.   
 Travelalerts.ca may disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating the Terms of Use of Travelalerts.ca or may be causing injury to or interference with (either intentionally or unintentionally) the rights or property of Travelalerts.ca, other users of Travelalerts.ca, or anyone else that could be harmed by such activities. Travelalerts.ca may disclose or access personal information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services.
@@ -60,7 +60,7 @@ Travelalerts.ca contains many links to other websites. Please note that we are n
 
 ## Do you have any questions?
 
-If you have any questions about this Privacy Policy, Please contact us via email at administrator @ travelalerts.ca.
+If you have any questions about this Privacy Policy, please contact us via email at administrator @ travelalerts.ca.
 
-[](http://www.addthis.com/bookmark.php)   
-
+|  [](http://www.addthis.com/bookmark.php) |   
+---|---
