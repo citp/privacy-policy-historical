@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the free-article-depot.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502120640id_/http%3A//free-article-depot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-article-depot.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219215700id_/http%3A//free-article-depot.com/privacy.php) for the most accurate reproduction.*
 
-# Free Article Depot
+# Ezine Article Submission - Submit Your Best Quality Original Articles For Massive Exposure, Ezine Publishers Get 25 Free Article Reprints
 
 **www.free-article-depot.com  
 **
