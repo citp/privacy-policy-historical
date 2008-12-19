@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sirius.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511161538id_/http%3A//www.sirius.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sirius.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219232650id_/http%3A//www.sirius.com/privacypolicy) for the most accurate reproduction.*
 
 # SIRIUS Satellite Radio - Privacy Policy
 
-Last updated: May 7, 2008 
+Last updated: September 30, 2008 
 
-This Privacy Policy governs SIRIUS Satellite Radio Inc.’s (“we”, “us” or " SIRIUS") treatment of personally identifiable information that SIRIUS collects when you use the sirius.com website or our online media player (the "Site”) and when you provide information to us in any medium for the SIRIUS Satellite Radio Service, SIRIUS Internet Radio or any other service offered by SIRIUS (the “SIRIUS Service”). 
+This Privacy Policy governs SIRIUS XM Radio Inc.’s (“we”, “us” or " SIRIUS") treatment of personally identifiable information that SIRIUS collects when you use the sirius.com website or our online media player (the "Site”) and when you provide information to us in any medium for the SIRIUS Satellite Radio Service, SIRIUS Internet Radio or any other service offered by SIRIUS (the “SIRIUS Service”). 
 
 Sirius.com is owned by SIRIUS. SIRIUS values your privacy and is dedicated to protecting your personal information and providing you with: 
 
@@ -14,10 +14,10 @@ How the information is used
 With whom the information may be shared
 
 **Consent**  
-What choices you have regarding collection, use and distribution of that information 
+What choices you have regarding collection, use and distribution of that information
 
 **Security**  
-Procedures we use to protect against the loss, misuse or alteration of that information 
+Procedures we use to protect against the loss, misuse or alteration of that information
 
 **Access**  
 How you can correct any inaccuracies in the information we have collected from you 
@@ -26,7 +26,7 @@ How you can correct any inaccuracies in the information we have collected from y
 
 Tracking Technology. SIRIUS logs IP addresses (a unique number assigned to every computer on the Internet) in order to improve security, analyze trends and administer the Site. We may track your movement within the Site, the third-party website pages from which you were referred, your use of the media player, access times and browser types. We use this information to gauge the effectiveness of our Site, track information for statistical purposes and to improve the products and services we provide. We store information that we collect through cookies, log files and other tracking technology such as clear gifs. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on the Site. We use session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our Site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. Persistent cookies are used to differentiate users of the Site from subscribers, to customize the content of certain sections of the Site and to enable us to track and cater to the interests of users, in order to enhance their experience on the Site. If you reject cookies, you may still use the Site, but your ability to use some areas of the Site may be limited and you may not be able to use certain features of the Site, including ordering hardware, subscribing to the SIRIUS Service, listening to music online, suggesting songs or entering sweepstakes or contests. 
 
-Supplemental Information. We may supplement the information you provide us by acquiring commercially available demographic and marketing information from third parties, for instance, to verify your address or to update your information and to create a profile of your preferences. We tie your personally identifiable information to information in the profile, in order to improve the content of the Site for you or to inform you about products or services that we think will be of interest to you. We may also receive information from the retailer, dealer, or automaker from whom you obtained your satellite radio. 
+Supplemental Information. We may supplement the information you provide us by acquiring commercially available demographic and marketing information from third parties, for instance, to verify your address or to update your information and to create a profile of your preferences. We tie your personally identifiable information to information in the profile, in order to improve the content of the Site for you or to inform you about products or services that we think will be of interest to you. We may also receive information from the retailer, dealer, or automaker from whom you obtained your satellite Receiver. 
 
 Users. We collect information you provide to us when you purchase products from us and when you subscribe to and/or use the SIRIUS Service. For example, you may provide us a billing address and credit card information, including your name, address, email address and telephone number, when you become a user of the SIRIUS Service or perhaps purchase a product through our online store. When you register online to subscribe, purchase and/or use the SIRIUS Service, you must complete a registration form that may require you to provide personally identifiable information, including your name, address, email address and telephone number. Our online registration forms may also request your date of birth. 
 
@@ -84,5 +84,5 @@ If you choose to visit the Site, your visit and any dispute over privacy is subj
 
 If you have any questions about our privacy policy contact us at privacyadministrator@sirius.com with a thorough description of your concerns or questions. 
 
-©2008, SIRIUS Satellite Radio Inc.  
-Effective Date: May 7, 2008
+©2008, SIRIUS XM Radio Inc.  
+Effective Date: September 30, 2008
