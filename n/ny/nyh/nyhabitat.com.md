@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyhabitat.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616150229id_/http%3A//www.nyhabitat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyhabitat.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219141617id_/http%3A//www.nyhabitat.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -15,13 +15,16 @@
 > Email address   
 > Phone and Fax number 
 
-|    
+  
 **The BBBOnLine Reliability seal program** is the Better Business Bureau's system's reliability assurance program for the World Wide Web. Its mission is to help Web users find reliable, trustworthy businesses on-line and to help reliable businesses identify themselves as such, all via voluntary self-regulatory programs that help avoid government regulation of the Internet.   
 New York Habitat is a member of the Better Business Bureau in good standing. Displaying the BBBOnLine Reliability seal on our site gives New York Habitat customers the assurance that will stand behind its service. | [](http://www.bbbonline.org/cks.asp?id=10010131129112469)  
 ---|---  
   
   
 Cookies are small pieces of information that some web sites ask to store on (and later retrieve from) your computer. When you visit New York Habitat website, cookies are stored into your browser, provided your browser accepts them. The information stored on those cookies contains a randomly generated string but no personal information. Those cookies will allow you to retrieve previously selected preferences (if any) each time you come back visiting our website. Additionally, we may use cookies and third parties applications from time to time to build statistics using information such as browser, URL, IP address. 
+
+**  THE WAY WE PROTECT YOUR PRIVACY : **  
+
 
 We use the information you provide about yourself when placing a request only to complete that request **. We do not share this information with outside parties except to the extent necessary to complete that order**. 
 
