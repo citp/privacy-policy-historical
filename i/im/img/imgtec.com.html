@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the imgtec.com privacy policy that was archived on 2008-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509194250id_/http%3A//www.imgtec.com/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imgtec.com privacy policy that was archived on 2008-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219145638id_/http%3A//www.imgtec.com/privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Imagination Technologies - Developing and Licensing IP cores for Graphics, Video, Communications and Processing</title>
+<title>Privacy Policy</title>
 <link href="css/site.css" rel="stylesheet" type="text/css">
 <link href="SpryAssets/SpryCollapsiblePanel.css" rel="stylesheet" type="text/css">
 <script src="SpryAssets/SpryCollapsiblePanel.js" type="text/javascript"></script>
@@ -11,150 +11,174 @@
 </head>
 
 <body>
+<div id="BodyShadow" style="width:1035px; margin:0px auto; background-image:url(images/bodyshadow.png); background-position:left; background-repeat:repeat-y;">
 <div id="container">
-<script src="/SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
-<link href="/SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
-<table width="980px" border="0" cellspacing="0" cellpadding="0">
+<script src="/js/jquery-1.2.3.js" type="text/javascript"></script>
+<script type="text/javascript">// Form input text effect
+$(function(){ 
+    $('input:text').hint();
+   })
+   
+   jQuery.fn.hint = function() {
+    return this.each(function(){
+     var t = $(this); // get jQuery version of 'this'
+     var title = t.attr('title'); // get it once since it won't change
+     
+     if (title) { // only apply logic if the element has the attribute
+      
+      // on focus, set value to blank if current value matches title attr
+      t.focus(function(){
+       if (t.val() == title) {
+         t.val('');
+         t.removeClass('blur');
+       }
+      })
+ 
+      // on blur, set value to title attr if text is blank
+      t.blur(function(){
+       if (t.val() == '') {
+         t.val(title);
+         t.addClass('blur');
+       }
+      })
+ 
+      // clear the pre-defined text when form is submitted
+      t.parents('form:first()').submit(function(){
+       if (t.val() == title) {
+        t.val('');
+        t.removeClass('blur');
+       }
+      });
+ 
+      // now change all inputs to title
+      t.blur();
+     }
+    })    
+   }
+// End Form input text effect
+</script>
+<script src="/SpryAssets/SpryMenuBar2.js" type="text/javascript"></script>
+<link href="/SpryAssets/SpryMenuBarHorizontal2.css" rel="stylesheet" type="text/css">
 
-  <!--DWLayoutTable-->
-  <tbody><tr>
-    <td width="256px" height="90"><a href="/index.asp"><img src="/images/IMG_Logo2.gif" width="256" height="80" border="0px"></a></td>
-    <td width="544px" align="right" valign="middle" class="corporatelinks"><a href="/corporate/index.asp" target="_blank">CORPORATE</a>&nbsp; | &nbsp;<b>TECHNOLOGY</b>&nbsp; | &nbsp;<a href="/corporate/careers.asp">CAREERS</a>&nbsp; | &nbsp;<a href="/corporate/contactus.asp">CONTACT US</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-	<td width="180px" align="right" valign="middle" class="verticaldivider">
-<form action="/search/index.asp" method="get" name="SearchForm" id="SearchForm" style="*/margin-top:20px;">
-<input name="zoom_query" type="text" id="Keywords" class="textfields"> 
-<input name="button1" type="image" src="/images/magnifyingglass2.gif" align="top">
+<script type="text/javascript"> 
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+<div id="headercontainer" style="width:980px; text-align:left; margin:0px auto;">
+<div id="imglogo" style="float:left; margin-top:7px;"><a href="/index.asp"><img src="/images/IMG_Logo4.gif" width="256" height="80" border="0px"></a></div>
+<div class="corporatelinks" style="float:left; text-align:right; width:530px; margin:10px 0px 0px 0px;">
+<form action="" method="get" style="margin:0px 0px 10px 0px;">
+Language 
+  <select name="jumpMenu" id="jumpMenu" onchange="MM_jumpMenu('parent',this,0)" style="font-size:11px;">
+    <option value="/index.asp" selected="selected">English</option>
+    <option value="/jp">æ—¥æœ¬èªž</option>
+  </select>
 </form>
-</td> 
-  </tr>
-  <tr>
-  <td colspan="100%" height="1px" bgcolor="#cccccc"></td>
-  </tr>
-  <tr>
-    <td height="18" colspan="100%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-  <td align="center"> | </td>
-    <td align="left" valign="top">
-      <ul id="MenuBar8" class="MenuBarHorizontal">
-        <li><a href="/index.asp">Home</a></li>
-      </ul>
-      </td>
-  
-  
-  <td align="center"> | </td>
-    <td align="left" valign="top">
-      <ul id="MenuBar1" class="MenuBarHorizontal">
+<a href="/corporate/index.asp" target="_blank">CORPORATE</a>&nbsp; | &nbsp;<b>TECHNOLOGY</b>&nbsp; | &nbsp;<a href="/corporate/careers.asp" target="_blank">CAREERS</a>&nbsp; | &nbsp;<a href="/corporate/contactus.asp">CONTACT US</a>
+</div>
+<div id="mainsearch" style="float:right; width:180px; text-align:right; height:80px; background-image:url(/images/tabledividervert.gif); background-repeat:repeat-y; background-position:left;"><form action="/search/index.asp" method="get" name="SearchForm" id="SearchForm" style="margin-top:34px; */margin-top:34px;">
+<input name="zoom_query" type="text" class="textfields blur" id="Keywords" title="Search"> 
+<input name="button1" type="image" src="/images/magnifyingglass2.gif" align="top">
+</form></div>
+<div style="clear:both;"></div>
+<div id="mainnav">
+<div id="leftend" style="float:left;"><img src="/images/menunew/leftend2.gif" alt="#"></div>
+  <div id="navcontent" style="float:left;">
+    <ul id="MenuBar1" class="MenuBarHorizontal">
+      <li><a href="/index.asp">Home</a></li>
+      <li style="width:5px;"><img src="/images/menunew/divider2.gif" alt="#"></li>
         <li><a class="MenuBarItemSubmenu" href="/products.asp">Products</a>
-            <ul>
-              <li><a href="/powervr/powervr-graphics.asp">POWERVR Graphics</a></li>
-              <li><a href="/powervr/powervr-video.asp">POWERVR Video &amp; Display</a></li>
-              <li><a href="/ensigma/ensigma.asp">ENSIGMA Demodulators</a></li>
-              <li><a href="/meta/meta.asp">META Processing/DSP</a></li>
-              <li><a href="/codescape/codescape.asp">CODESCAPE Tools</a></li>
-			  <li><a href="/imgworks/imgworks.asp">IMGworks Design</a></li>
-            </ul>
+          <ul style="background-image:url(/images/menunew/itemshadow.gif); background-repeat:repeat-x; background-color: #FFFFFF;">
+            <li><a href="/powervr/powervr-graphics.asp">POWERVR Graphics</a></li>
+            <li><a href="/powervr/powervr-video.asp">POWERVR Video &amp; Display</a></li>
+            <li><a href="/ensigma/ensigma.asp">ENSIGMA Receivers</a></li>
+            <li><a href="/meta/meta.asp">META Processing</a></li>
+            <li><a href="/codescape/codescape.asp">CODESCAPE Tools</a></li>
+            <li><a href="/imgworks/imgworks.asp">IMGworks Design</a></li>
+          </ul>
         </li>
-      </ul>
-      </td>
-      <td align="center"> | </td>
-    <td valign="top"><ul id="MenuBar2" class="MenuBarHorizontal">
+        <li style="width:5px;"><img src="/images/menunew/divider2.gif" alt="#"></li>
         <li><a class="MenuBarItemSubmenu" href="/technology.asp">Technology</a>
-            <ul>
-              <li><a href="/powervr/powervr-technology.asp">POWERVR IP Cores</a></li>
-              <li><a href="/ensigma/ensigma-technology.asp">ENSIGMA IP Cores</a></li>
-              <li><a href="/meta/meta-technology.asp">META IP Cores</a></li>
-              </ul>
+          <ul style="background-image:url(/images/menunew/itemshadow.gif); background-repeat:repeat-x; background-color: #FFFFFF;">
+            <li><a href="/powervr/powervr-technology.asp">POWERVR IP Cores</a></li>
+            <li><a href="/ensigma/ensigma-technology.asp">ENSIGMA IP Cores</a></li>
+            <li><a href="/meta/meta-technology.asp">META IP Cores</a></li>
+          </ul>
         </li>
-      </ul></td>
-      <td align="center"> | </td>
-    <td valign="top"><ul id="MenuBar3" class="MenuBarHorizontal">
-        <li><a class="MenuBarItemSubmenu" href="/markets.asp">Markets</a>
-            <ul>
-              <li><a href="/markets/digital-radio.asp">Digital Radio</a></li>
-              <li><a href="/markets/mobile-multimedia.asp">Mobile Phones</a></li>
-              <li><a href="/markets/pmp.asp">Personal Media Players</a></li>
-              <li><a href="/markets/navigation.asp">Navigation &amp; Driver Info</a></li>
-              <li><a href="/markets/umpc-mid.asp">UMPC &amp; MID</a></li>
-              <li><a href="/markets/digital-tv.asp">Digital TV &amp; Set Top Box</a></li>
-              <li><a href="/markets/mobile-tv.asp">Mobile TV</a></li>
-              <li><a href="/markets/amusement.asp">Amusement &amp; Arcades</a></li>
-            </ul>
+        <li style="width:5px;"><img src="/images/menunew/divider2.gif" alt="#"></li>
+        <li><a class="MenuBarItemSubmenu MenuBarItemSubmenu" href="/markets.asp">Markets</a>
+          <ul style="background-image:url(/images/menunew/itemshadow.gif); background-repeat:repeat-x; background-color: #FFFFFF;">
+            <li><a href="/markets/digital-radio.asp">Digital Radio</a></li>
+            <li><a href="/markets/mobile-multimedia.asp">Mobile Phones</a></li>
+            <li><a href="/markets/pmp.asp">Personal Media Players</a></li>
+            <li><a href="/markets/navigation.asp">Navigation &amp; Driver Info</a></li>
+            <li><a href="/markets/umpc-mid.asp">Mobile Internet Devices</a></li>
+            <li><a href="/markets/digital-tv.asp">Digital TV &amp; Set Top Box</a></li>
+            <li><a href="/markets/mobile-tv.asp">Mobile TV</a></li>
+            <li><a href="/markets/amusement.asp">Amusement &amp; Arcades</a></li>
+          </ul>
         </li>
-      </ul></td>
-      <td align="center"> | </td>
-    <td valign="top"><ul id="MenuBar4" class="MenuBarHorizontal">
+        <li style="width:5px;"><img src="/images/menunew/divider2.gif" alt="#"></li>
         <li><a class="MenuBarItemSubmenu" href="/partners.asp">Partners</a>
-            <ul>
-              <li><a href="/partners/Licensees.asp">Licensees</a></li>
-              <li><a href="/partners/Industry-Bodies.asp">Industry Partners</a></li>
+          <ul style="background-image:url(/images/menunew/itemshadow.gif); background-repeat:repeat-x; background-color: #FFFFFF;">
+            <li><a href="/partners/Licensees.asp">Licensees</a></li>
+              <li><a href="/partners/Industry-Partners.asp">Industry Partners</a></li>
               <li><a href="/partners/Technology-Partners.asp">Technology Partners</a></li>
-              </ul>
+              <li><a href="/oem/index.asp">OEM Products</a></li>
+          </ul>
         </li>
-      </ul></td>
-      <td align="center"> | </td>
-    <td valign="top"><ul id="MenuBar5" class="MenuBarHorizontal">
-        <li><a class="MenuBarItemSubmenu" href="/developers.asp">Developers</a>
-            <ul>
-              <li><a href="/powervr/insider/powervr-insider.asp">POWERVR <i>Insider</i></a></li>
+        <li style="width:5px;"><img src="/images/menunew/divider2.gif" alt="#"></li>
+        <li><a class="MenuBarItemSubmenu MenuBarItemSubmenu" href="/developers.asp">Developers</a>
+          <ul style="background-image:url(/images/menunew/itemshadow.gif); background-repeat:repeat-x; background-color: #FFFFFF;">
+            <li><a href="/powervr/insider/powervr-insider.asp">POWERVR <i>Insider</i></a></li>
               <li><a href="/powervr/insider/powervr-sdk.asp">POWERVR <i>Insider</i> SDK</a></li>
               <li><a href="/powervr/insider/powervr-utilities.asp">POWERVR <i>Insider</i> Utilities</a></li>
               <li><a href="/powervr/insider/powervr-demos.asp">POWERVR <i>Insider</i> Demos</a></li>
               <li><a href="/powervr/insider/powervr-software.asp">POWERVR <i>Insider</i> Partners</a></li>
-              <li><a href="/forum/">POWERVR <i>Insider</i> Forum</a></li>
+              <li><a href="/powervr/insider/forum/">POWERVR <i>Insider</i> Forum</a></li>
               <li><a href="/powervr/insider/pvrnewsletters/powervr-newsletter.asp">POWERVR <i>Insider</i> News</a></li>
-              </ul>
+          </ul>
         </li>
-      </ul></td>
-      <td align="center"> | </td>
-    <td valign="top"><ul id="MenuBar6" class="MenuBarHorizontal">
-        <li><a class="MenuBarItemSubmenu" href="/News/index.asp">News</a>
-            <ul>
+        <li style="width:5px;"><img src="/images/menunew/divider2.gif" alt="#"></li>
+        <li><a class="MenuBarItemSubmenu MenuBarItemSubmenu" href="/News/index.asp">News</a>
+          <ul style="background-image:url(/images/menunew/itemshadow.gif); background-repeat:repeat-x; background-color: #FFFFFF;">
               <li><a href="/News/index.asp">Press Releases</a></li>
               <li><a href="/News/inthenews.asp">In the News</a></li>
               <li><a href="/News/events.asp">Events</a></li>
-            </ul>
+          </ul>
         </li>
-      </ul></td>
-      <td align="center"> | </td>
-    <td valign="top"><ul id="MenuBar7" class="MenuBarHorizontal">
-        <li><a href="/downloads.asp">Downloads</a>        </li>
-    </ul></td>
-      <td align="center"> | </td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-  <tr>
-  <td colspan="100%" height="7px" bgcolor="#cccccc"></td>
-  </tr>
-</tbody></table>
+        <li style="width:5px;"><img src="/images/menunew/divider2.gif" alt="#"></li>
+        <li style="width:119px;"><a href="/downloads.asp">Downloads</a></li>
+    </ul>
+  </div>
+  <div id="rightend" style="float:left;"><img src="/images/menunew/rightend2.gif" alt="#"></div>
+  <div style="clear:both; height:0px;"></div>
+  </div>
+</div>
 <script type="text/javascript">
 <!--
-var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
-var MenuBar2 = new Spry.Widget.MenuBar("MenuBar2", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
-var MenuBar3 = new Spry.Widget.MenuBar("MenuBar3", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
-var MenuBar4 = new Spry.Widget.MenuBar("MenuBar4", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
-var MenuBar5 = new Spry.Widget.MenuBar("MenuBar5", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
-var MenuBar6 = new Spry.Widget.MenuBar("MenuBar6", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
-var MenuBar7 = new Spry.Widget.MenuBar("MenuBar7", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
-var MenuBar8 = new Spry.Widget.MenuBar("MenuBar8", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"../SpryAssets/SpryMenuBarDownHover.gif", imgRight:"../SpryAssets/SpryMenuBarRightHover.gif"});
 //-->
 </script>
 
 <div class="content">
 <div class="SideBarLeft">
-  <img src="/images/productsservices2.gif" width="200" height="27" style="margin-bottom:1px;">
+  <img src="/images/productsservices2.gif" width="200" height="27" style="margin-bottom:0px;">
 <div id="CollapsiblePanel1" class="CollapsiblePanel CollapsiblePanelClosed">
 
   <div class="CollapsiblePanelTab" tabindex="0"><a href="/powervr/powervr-graphics.asp"> POWERVR Graphics</a></div>
   <div class="CollapsiblePanelContent" style="display: none;">
-  <a href="/powervr/mbx.asp"> » MBX Graphics IP Core Family</a>
   <a href="/powervr/sgx.asp"> » SGX Graphics IP Core Family</a>
+  <a href="/powervr/mbx.asp"> » MBX Graphics IP Core Family</a>
 </div>
 </div>
 
 <div id="CollapsiblePanel3" class="CollapsiblePanel CollapsiblePanelClosed">
-  <div class="CollapsiblePanelTab" tabindex="0"><a href="/powervr/powervr-video.asp"> POWERVR Video &amp; Display</a></div>
+  <div class="CollapsiblePanelTab"><a href="/powervr/powervr-video.asp"> POWERVR Video &amp; Display</a></div>
   <div class="CollapsiblePanelContent" style="display: none;">
   <a href="/powervr/powervr-vxd.asp"> » VXD Video Decoder IP Core Family</a>
   <a href="/powervr/powervr-vxe.asp"> » VXE Video Encoder IP Core Family</a>
@@ -163,42 +187,54 @@ var MenuBar8 = new Spry.Widget.MenuBar("MenuBar8", {imgDown:"SpryAssets/SpryMenu
 </div>
 
 <div id="CollapsiblePanel4" class="CollapsiblePanel CollapsiblePanelClosed">
-    <div class="CollapsiblePanelTab" tabindex="0"><a href="/ensigma/ensigma.asp"> ENSIGMA Demodulator IP Platform</a></div>
+    <div class="CollapsiblePanelTab"><a href="/ensigma/ensigma.asp"> ENSIGMA Receiver IP Platform</a></div>
   <div class="CollapsiblePanelContent" style="display: none;">
-    <a href="/ensigma/ensigma-uccp220-ip.asp"> » UCCP220 Demodulator IP Platform</a>
-    <a href="/ensigma/ensigma-uccp230-ip.asp"> » UCCP230 Demodulator IP Platform</a>
+    <a href="/ensigma/ensigma-technology.asp"> » UCC Technology Overview</a>
+    <a href="/ensigma/ensigma-uccp230-ip.asp"> » UCCP230 Receiver IP Platform</a>
 </div>
 </div>
   
 <div id="CollapsiblePanel5" class="CollapsiblePanel CollapsiblePanelClosed">
-  <div class="CollapsiblePanelTab" tabindex="0"><a href="/meta/meta.asp">META Processing/DSP</a></div>
+  <div class="CollapsiblePanelTab"><a href="/meta/meta.asp">META Processing</a></div>
   <div class="CollapsiblePanelContent" style="display: none;">
   <a href="/meta/meta-atp.asp"> » ATP IP Core</a>
   <a href="/meta/meta-htp.asp"> » HTP IP Core</a>
   <a href="/meta/meta-mtx.asp"> » MTX IP Core</a>
-  <a href="/meta/meta-software.asp"> » Software</a></div>
-</div>
+  <a href="/meta/meta-linux.asp"> » META Linux™</a>
+  <a href="/meta/meta-meos.asp"> » META MeOS™</a>
+  <a href="/meta/meta-aaf.asp"> » META AAF</a>
+  <a href="/meta/meta-lca.asp"> » META LCA</a>
+  <a href="/meta/meta-developmentplatform.asp"> » Development Platform</a>
+</div></div>
 
 
 <div id="CollapsiblePanel6" class="CollapsiblePanel CollapsiblePanelClosed">
-  <div class="CollapsiblePanelTab" tabindex="0"><a href="/codescape/codescape.asp"> CODESCAPE Tools</a></div>
+  <div class="CollapsiblePanelTab"><a href="/codescape/codescape.asp"> CODESCAPE Tools</a></div>
   <div class="CollapsiblePanelContent" style="display: none;">
   <a href="/codescape/codescape-ide.asp"> » Development Tools &amp; IDE</a>
-  <a href="/codescape/codescape-debugger.asp"> » Advanced Debugger</a>
+  <a href="/codescape/codescape-debugger.asp"> » Advanced Debugging</a>
   <a href="/codescape/codescape-graphicalscripting.asp"> » Graphical Scripting</a>
   </div>
 </div>
 
 <div id="CollapsiblePanel7" class="CollapsiblePanel CollapsiblePanelClosed">
-  <div class="CollapsiblePanelTab" tabindex="0" style="background-image:none;"><a href="/imgworks/imgworks.asp" style="display:block;"> IMGworks Design</a></div>
+  <div class="CollapsiblePanelTab" style="background-image:none;"><a href="/imgworks/imgworks.asp" style="display:block;"> IMGworks Design</a></div>
 
 </div>
 <img src="/images/menusbottom.gif">
   
 </div>
-<div class="Breadcrumb"><a href="corporate/index.asp">Imagination Technologies Corporate</a> » Privacy Policy</div>
+<div class="Breadcrumb">
+<div style="float:left;"><a href="index.asp">Home</a> » Privacy Policy</div>
+<div style="float:right; margin-right:20px;">
+
+Welcome <b>Guest</b>&nbsp; |&nbsp; <a href="powervr/insider/powervr-login.asp">Log-In</a>&nbsp; |&nbsp; <a href="powervr/insider/powervr-register.asp">Register</a>
+
+</div>
+<div class="clear"></div>
+</div>
 <div class="SubContent">
-<h1>PRIVACY <span class="Normal">POLICY</span></h1><br>
+<h1>PRIVACY POLICY</h1><br>
 
 <p>Last Updated January 2008<br>
 <br>
@@ -223,29 +259,31 @@ var MenuBar8 = new Spry.Widget.MenuBar("MenuBar8", {imgDown:"SpryAssets/SpryMenu
    </p>
 </div>
 <div class="SideBarRightSub">
-  <div style="background-color:#E8E8E8; width:160px;">
-<img src="/images/markets5.gif">
-<ul>
+  <div><img src="/images/markets5.gif"></div>
+<div style=" width:158px; font-size:10px; border:1px #CCCCCC solid;">
+<ul style="margin-left:4px; */margin-left:8px; margin-bottom:20px;">
 <li><a href="/markets/digital-radio.asp"> Digital Radio/Audio</a></li>
 <li><a href="/markets/mobile-multimedia.asp"> Mobile Phones</a></li>
 <li><a href="/markets/pmp.asp"> Personal Media Player</a></li>
 <li><a href="/markets/navigation.asp"> Navigation/Driver Info</a></li>
-<li><a href="/markets/umpc-mid.asp"> UMPC/MID</a></li>
+<li><a href="/markets/umpc-mid.asp"> Mobile Internet Devices</a></li>
 <li><a href="/markets/digital-tv.asp"> Digital TV &amp; Set<br>
 Top Box</a></li>
 <li><a href="/markets/mobile-tv.asp"> Mobile TV</a></li>
 <li><a href="/markets/amusement.asp"> Amusement</a></li>
 </ul>
-<img src="/images/menusbottom160px.gif"></div>
+</div>
+<div><img src="/images/rightcol_backgshadow.gif"></div>
 <br>
 
-<div style="background-color:#E8E8E8; width:160px; margin-top:0px;">
-<img src="/images/technology4.gif" width="160" height="27" align="absmiddle">
-<ul>
+<div><img src="/images/technology4.gif" width="160" height="27"></div>
+<div style="width:158px; margin-top:0px; font-size:10px; border:1px #CCCCCC solid;">
+<ul style="margin-left:4px; */margin-left:8px; margin-bottom:20px;">
 <li><a href="/powervr/powervr-technology.asp"> POWERVR</a></li>
 <li><a href="/meta/meta-technology.asp"> META</a></li>
 <li><a href="/ensigma/ensigma-technology.asp"> ENSIGMA</a></li>
-</ul><img src="/images/menusbottom160px.gif"></div>
+</ul></div>
+<div><img src="/images/rightcol_backgshadow.gif"></div>
 <br>
 
 </div>
@@ -253,8 +291,8 @@ Top Box</a></li>
 </div>
 
 <div class="footer">
-  <div class="footerleft" id="footerleft"><img src="/images/imggrey.gif" width="40" height="22" align="absmiddle">&nbsp; © 2006 - 2008 Imagination Technologies Ltd. All rights reserved</div>
-  <div class="footerright" id="footerright"><a href="/index.asp">Home</a> &nbsp;| &nbsp;<a href="/trademarks.asp">Trademarks</a> &nbsp;| &nbsp;<a href="/privacypolicy.asp">Privacy Policy</a> &nbsp;| &nbsp;<a href="/tandc.asp">Terms &amp; Conditions</a>&nbsp;| &nbsp;<a href="/corporate/index.asp">About Us</a>&nbsp;| &nbsp;<a href="/corporate/contactus.asp">Contact Us</a>&nbsp;| &nbsp;<a href="/sitemap.asp">Site Map</a> &nbsp;| &nbsp;<a href="/pressrelease-rss.asp">RSS</a> <a href="/pressrelease-rss.asp"><img src="/images/rss.png" alt="Press Releases" width="17" height="17" border="0" align="absmiddle" title="Press Releases"></a></div>
+  <div class="footerleft" id="footerleft"><img src="/images/imggrey.gif" width="40" height="22" align="absmiddle">&nbsp; © 2008 Imagination Technologies Ltd. All rights reserved</div>
+  <div class="footerright" id="footerright"><a href="/index.asp">Home</a> &nbsp;| &nbsp;<a href="/trademarks.asp">Trademarks</a> &nbsp;| &nbsp;<a href="/privacypolicy.asp">Privacy Policy</a> &nbsp;| &nbsp;<a href="/tandc.asp">Terms &amp; Conditions</a>&nbsp;| &nbsp;<a href="/corporate/technology.asp">About Us</a>&nbsp;| &nbsp;<a href="/corporate/contactus.asp">Contact Us</a>&nbsp;| &nbsp;<a href="/sitemap.asp">Site Map</a> &nbsp;| &nbsp;<a href="/pressrelease-rss.asp">RSS</a> <a href="/pressrelease-rss.asp"><img src="/images/rss.png" alt="Press Releases" width="17" height="17" border="0" align="absmiddle" title="Press Releases"></a></div>
 </div>
 
 </div>
@@ -269,6 +307,7 @@ var pageTracker = _gat._getTracker("UA-3749906-2");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
+</div>
 
 
 <script type="text/javascript">
