@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelsmag.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527132305id_/http%3A//www.hotelsmag.com/info/CA6460493.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelsmag.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219161410id_/http%3A//www.hotelsmag.com/info/CA6460493.html) for the most accurate reproduction.*
 
 # Privacy Policy - Hotels
 
