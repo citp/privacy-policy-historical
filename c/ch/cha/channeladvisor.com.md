@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the channeladvisor.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622083218id_/http%3A//www.channeladvisor.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channeladvisor.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219041456id_/http%3A//www.channeladvisor.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # ChannelAdvisor: Legal
 
-Privacy Policy
+**  
+Privacy Policy **
 
 ChannelAdvisor Corporation (" **ChannelAdvisor** ") provides technology and services that enable industry-leading companies (" **ChannelAdvisor Client(s)** ") to use online marketplaces to acquire customers (" **Buyers** ") and maximize inventory yield. ChannelAdvisor is committed to maintaining the privacy of its users, including both ChannelAdvisor Customers and Buyers. If you have accessed this Privacy Policy by clicking on the privacy policy link on a site other than the ChannelAdvisor web site, your information may be collected by ChannelAdvisor as a service to the entity that controls such other web site and the ChannelAdvisor privacy policy terms will apply to the collection of your personal information.
 
@@ -65,5 +66,4 @@ Fax: 919-388-9405
 
 You may also use the above contact information if you think any information about you is inaccurate, incomplete, or if you want to change the sort of information about you that ChannelAdvisor may have collected. 
 
-**Section Headings.** The section headings contained herein are for reference purposes only and shall not in any way affect the meaning or interpretation of this Agreement.  
-
+**Section Headings.** The section headings contained herein are for reference purposes only and shall not in any way affect the meaning or interpretation of this Agreement.
