@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anytimecostumes.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616080401id_/http%3A//www.anytimecostumes.com/ecommerce/control/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anytimecostumes.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220003615id_/http%3A//www.anytimecostumes.com/ecommerce/control/privacy_policy) for the most accurate reproduction.*
 
-# Great Halloween Costumes Since 1954 - Adult, Child & Plus Size Halloween Costumes - Costume Accessories
+# Halloween Costumes for Adults & Kids Since 1954 - Anytime Costumes
 
 **Safety & Privacy**
 
@@ -41,5 +41,4 @@ Email: [customer.service@anytimecostumes.com](mailto:customer.service@anytimecos
 
 **Quality and Customer Experience**
 
-AnytimeCostumes.com, Inc. is committed to quality customer experience. We are constantly reviewing your feedback to improve and enhance your shopping experience. You can tell us what you think by sending us an email or contacting our customer care department toll-free at 1-877-546-2757 Monday - Friday 9:30 AM - 6:00 PM EST.   
-
+AnytimeCostumes.com, Inc. is committed to quality customer experience. We are constantly reviewing your feedback to improve and enhance your shopping experience. You can tell us what you think by sending us an email or contacting our customer care department toll-free at 1-877-546-2757. 
