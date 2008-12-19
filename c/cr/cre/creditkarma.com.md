@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the creditkarma.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615204402id_/http%3A//www.creditkarma.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditkarma.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219092259id_/http%3A//www.creditkarma.com/about/privacy) for the most accurate reproduction.*
 
-# Credit Karma | Free Credit Scores and More
+# Credit Karma Privacy Policy
 
 _Effective date January 15, 2008_
 
-Credit Karma takes your privacy seriously. This policy covers how Credit Karma treats personal information that Credit Karma collects and receives.  
-Credit Karma is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.creditkarma.com](https://web.archive.org/web/20080615204402id_/http%3A//www.creditkarma.com/about/www.creditkarma.com). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+[](http://www.truste.org/ivalidate.php?url=www.creditkarma.com&sealid=101)
 
-If you have questions or concerns regarding this statement, you should first contact Credit Karma at [privacy@creditkarma.com](mailto:privacy@creditkarma.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> . TRUSTe will then serve as a liaison with us to resolve your concerns.
+Credit Karma takes your privacy seriously. This policy covers how Credit Karma treats personal information that Credit Karma collects and receives.  
+Credit Karma is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.creditkarma.com](http://www.creditkarma.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+
+If you have questions or concerns regarding this statement, you should first contact Credit Karma at [privacy@creditkarma.com](mailto:privacy@creditkarma.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 Information we collect and how we use it:  
 Credit Karma collects personal information when you register with Credit Karma. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number.
