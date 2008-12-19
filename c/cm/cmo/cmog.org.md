@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cmog.org privacy policy that was archived on 2008-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080525103443id_/http%3A//www.cmog.org/index.asp%3FpageId%3D1075%26mnu%3D9%26mid%3Dmi2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmog.org privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219174106id_/http%3A//www.cmog.org/dynamic.aspx%3Fid%3D304) for the most accurate reproduction.*
 
-# Corning Museum of Glass | Privacy Policy
+# Corning Museum of Glass - Kids and Teens Free! (19 and under)
 
 ## Privacy Policy 
 
@@ -41,9 +41,9 @@ Further, the submission of such information to The Corning Museum of Glass shall
 
 ### E-Marketing
 
-As a service, The Corning Museum of Glass offers website visitors the opportunity to subscribe to our e-mail updates, a service provided by ExactTarget, which has agreed to use the e-mail address you provide only to send museum updates to you. You may choose to subscribe or unsubscribe at any time by updating your profile at <http://www.cmog.org/email.htm>.
+As a service, The Corning Museum of Glass offers website visitors the opportunity to subscribe to our e-mail updates, a service provided by ExactTarget, which has agreed to use the e-mail address you provide only to send museum updates to you. You may choose to subscribe or unsubscribe at any time by updating your profile at: [Email Form](https://web.archive.org/dynamic.aspx?id=7890 "EMail Form").
 
-The Corning Museum of Glass does not endorse, nor does it participate in the practice of "spamming" (sending of unsolicited promotional e-mail). If you believe you have received such a message contact [web@cmog.org](mailto:web@cmog.org).
+The Corning Museum of Glass does not endorse, nor does it participate in the practice of "spamming" (sending of unsolicited promotional e-mail). If you believe you have received such a message contact [web@cmog.org ](mailto:web@cmog.org).
 
 ### Children 13 and Under
 
@@ -65,4 +65,4 @@ The Corning Museum of Glass uses industry-standard Secure Socket Layer (SSL) enc
 
 The Corning Museum of Glass may revise its privacy policy at any time. Such revisions may arise in response to changes in the law, policy, or other factors. We encourage you to periodically visit this page to review our most current policy.
 
-See **[Terms of Use](http://www.cmog.org/index.asp?pageId=729)** for more information.
+See **[Terms of Use ](https://web.archive.org/dynamic.aspx?id=306) **for more information.
