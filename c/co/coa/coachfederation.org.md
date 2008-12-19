@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coachfederation.org privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509134110id_/http%3A//www.coachfederation.org./ICF/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachfederation.org privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219022532id_/http%3A//coachfederation.org/ICF/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -67,7 +67,7 @@ This Site is controlled and operated by ICF from its offices within the United S
 **Site Content**  
 You may access, download and print materials on this Web site for your personal and non-commercial use. You may not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell any information, software, products or services obtained from this Web site without first obtaining written consent from ICF. Furthermore, you may not use the materials found on this Web site on any other Web sites or in a networked environment without first obtaining written consent from ICF. 
 
-All materials on this site (as well as the organization and layout of the site) are owned and copyrighted by the International Coach Federation. © Copyright International Coach Federation (ICF) 1998 - 2005. All rights reserved. No reproduction, distribution, or transmission of the copyrighted materials at this site is permitted without the written permission of the ICF. 
+All materials on this site (as well as the organization and layout of the site) are owned and copyrighted by the International Coach Federation. © Copyright International Coach Federation (ICF) 1998 - 2008. All rights reserved. No reproduction, distribution, or transmission of the copyrighted materials at this site is permitted without the written permission of the ICF. 
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact the following: 
