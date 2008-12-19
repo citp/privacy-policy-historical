@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the threatfire.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617231320id_/http%3A//www.threatfire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threatfire.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219152731id_/http%3A//www.threatfire.com/privacy) for the most accurate reproduction.*
 
 # ThreatFire.com Privacy Statement
 
