@@ -1,20 +1,32 @@
-> *The following text is extracted and transformed from the dropshipsites.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527140503id_/http%3A//www.dropshipsites.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropshipsites.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219014222id_/http%3A//www.dropshipsites.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Drop Ship Search Engine
+# Drop Ship Sites - Privacy Policy
 
-## Our Privacy Policy
+* * *
 
 **DropshipSites.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
-**Routine Information Collection**  
+  
+
+
+## Routine Information Collection
+
    All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
 
-**Cookies and Web Beacons**  
+  
+
+
+## Cookies and Web Beacons
+
    Where necessary, DropshipSites.com uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
    Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
 
-**Controlling Your Privacy**  
+  
+
+
+## Controlling Your Privacy
+
    Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
 
 If you have any questions or concerns about this privacy policy please contact us for further clarification.
