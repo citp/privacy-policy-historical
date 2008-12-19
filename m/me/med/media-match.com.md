@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the media-match.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611025657id_/http%3A//www.media-match.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the media-match.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219221944id_/http%3A//www.media-match.com/privacy.php) for the most accurate reproduction.*
 
-# Directory Of Film And Tv Jobs In The Usa Updated Daily | Register Online Profile | Post Jobs | Www.media-match.com
+# Directory Of Film And Tv Jobs In The Usa Updated Daily | Register Online Profile | Post Jobs | Www.media-match.com:
 
 Privacy Policy
 
@@ -22,7 +22,3 @@ Address : media-match, 714 Nth La Brea, Los Angeles, CA 90038
 Registered users of the media-match site who choose to opt out will have their details remove from all media-match lists and access correspondingly terminated.
 
 We will update the specific records related to your request as promptly as practical. Note, however, that you may receive additional communications from third parties after you submit your request while we process the request. Additionally, your information may exist in multiple lists within the company and our technology limits the processing of opt out requests to the specific list source. We will continuously assess our responsiveness to opt out requests against new technologies, business practices and our customers' needs.
-
-If you have any difficulties using this site please [contact us](mailto:info@media-match.com?subject=Feedback) on 323 284 5589. 
-
-Media-Match US Ltd, all use subject to [Terms](http://www.media-match.com/disclaimer.php). See our [Privacy Policy](http://www.media-match.com/privacy.php).
