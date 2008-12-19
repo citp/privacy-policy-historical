@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thesudburystar.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616040851id_/http%3A//www.thesudburystar.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesudburystar.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219092445id_/http%3A//thesudburystar.com/Privacy.aspx) for the most accurate reproduction.*
 
-# The Sudbury Star - Ontario, CA
+# Privacy
 
 ## Osprey Media.
 
