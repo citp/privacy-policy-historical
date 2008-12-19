@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the jangomail.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513221757id_/http%3A//www.jangomail.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jangomail.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219092329id_/http%3A//www.jangomail.com/privacy.asp) for the most accurate reproduction.*
 
-# JangoMail
+# JangoMail Email Marketing and Broadcast System - Privacy Policy
 
 JangoMail Privacy Statement  **PRIVACY STATEMENT**
 
 JangoMail has created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with the JangoMail public web site and the JangoMail application (for clients). We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
 **Your E-mail Lists and Databases**  
-JangoMail and its parent company will never sell, rent, share, or otherwise make available your e-mail lists and/or databases to anyone except internal support personnel who may be assisting you in troubleshooting your account. JangoMail is not in the business of selling data. JangoMail is in the business of providing a web-based mass e-mail service.
+JangoMail and its parent company will never sell, rent, share, or otherwise make available your e-mail lists and/or databases to anyone except internal support personnel who may be assisting you in troubleshooting your account, unless it is required to do so in connection with legal process or in accordance with any law, regulation or order of a court or regulatory agency of competent jurisdiction. JangoMail is not in the business of selling data. JangoMail is in the business of providing a web-based mass e-mail service.
 
 **Website Usage Information**  
 We use your IP address to help diagnose problems with our server, and to administer our Web site. We do not link your IP address to any personally identifiable information. We use tracking information to determine which areas our site users visit based on traffic to those areas. JangoMail does not track what individual users read, but rather how often each page is visited. This helps us maintain a superior and informative website for you.
@@ -22,13 +22,13 @@ JangoMail has made a substantial investment in the latest server, database, back
 **In the event that JangoMail (or a substantial portion of its assets) is acquired, customer information would be considered part of those assets, and may be part of those assets that are transferred.
 
 **Policy Modifications  
-**We may change this Privacy Policy from time to time. If/when JangoMail makes changes to this privacy statement, we will highlight the changes on our homepage and email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+**We may change this Privacy Policy from time to time. If/when JangoMail makes changes to this privacy statement, we will post any changes here, so be sure to check back periodically.
 
 **Contacting JangoMail about Privacy and JangoMail.com  
 **If you have any questions about our privacy statement, the information we have collected from you online, the practices of this site, or your dealings with this Web site, please contact:
 
 JangoMail Inquiries  
 JangoMail  
-6302 Far Hills Avenue  
-Dayton, OH 45459  
-Or see the [Contact Us](https://web.archive.org/web/20080513221757id_/http%3A//www.jangomail.com/contactus.asp) page
+1930 N. Lakeman Drive, Ste 108  
+Bellbrook, OH 45305  
+Or see the [Contact Us](https://web.archive.org/web/20081219092329id_/http%3A//www.jangomail.com/contactus.asp) page
