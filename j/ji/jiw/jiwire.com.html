@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jiwire.com privacy policy that was archived on 2008-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080601101458id_/http%3A//www.jiwire.com/privacy-policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jiwire.com privacy policy that was archived on 2008-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219112346id_/http%3A//www.jiwire.com/privacy-policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 	<title> JiWire Wi-Fi Advertising Network, Wi-Fi Finder and Hotspot Directory</title>
@@ -35,7 +35,7 @@ http://www.omniture.com --><script type="text/javascript" language="JavaScript">
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
 var s_pageName=""
-var s_server="web1"
+var s_server="web3"
 var s_channel=""
 var s_pageType=""
 var s_prop1="null"
@@ -69,7 +69,7 @@ var s_wd=window,s_tm=new Date;if(s_code!=' '){s_code=s_dc(
 'jiwire');if(s_code)document.write(s_code)}else
 document.write('<im'+'g src="http://jiwire.112.2O7.net/b/ss/jiwire/1/G.4--FB/s'+s_tm.getTime()+'?[AQB]'
 +'&j=1.0&[AQE]" height="1" width="1" border="0" alt="" />')
-//--></script><img src="http://jiwire.112.2O7.net/b/ss/jiwire/1/G.4--FB/s1582538083462?[AQB]&amp;j=1.0&amp;[AQE]" height="1" width="1" border="0" alt=""><script type="text/javascript" language="JavaScript"><!--
+//--></script><img src="http://jiwire.112.2O7.net/b/ss/jiwire/1/G.4--FB/s1582538074815?[AQB]&amp;j=1.0&amp;[AQE]" height="1" width="1" border="0" alt=""><script type="text/javascript" language="JavaScript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><noscript><img src="http://jiwire.112.2O7.net/b/ss/jiwire/1/G.4--NS/0"
 height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
@@ -209,7 +209,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 	</script>
 	
 
-
+     <!-- jwc-b=jiwire -->
 
 
 
@@ -222,8 +222,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 <script type="text/javascript">
 function geoResults(obj) {
-	var jwIntf = "/search-wifi-hotspots.htm?type=reload&result_display=list&technology_id=0&city_id=0";    
-
+    var jwIntf = "/search-wifi-hotspots.htm?result_display=list&technology_id=0&venue_group_id=0&city_id=0&disableBrowseBy=false&type=&state_id=0&city=";
     var msg = "Geocode Results:\n";
     msg += "Status: " + obj.Status.code + " : " + obj.Status.message + "\n";
     msg += "Source: " + obj.Source + "\n";
@@ -238,12 +237,6 @@ function geoResults(obj) {
         msg += "State: " + obj.Placemark[0].AddressDetails.state + "\n";
         msg += "Zip: " + obj.Placemark[0].AddressDetails.postalcode + "\n"; 
         msg += "Country: " + obj.Placemark[0].AddressDetails.country + "\n";
-        jwIntf += "&latitude="+obj.Placemark[0].Latitude;
-        jwIntf += "&longitude="+obj.Placemark[0].Longitude;
-        var addr = new String(obj.Placemark[0].Address);
-        addr = addr.replace(/ /g,"+");
-        addr = addr.replace(/,/g,"%2C");
-        jwIntf += "&address="+addr;
         if (obj.WiFiKeywords.strictmode==false)
         {
             if (obj.WiFiKeywords.userlocationtypecode >= 0)
@@ -259,10 +252,24 @@ function geoResults(obj) {
             if (obj.WiFiKeywords.radius.length > 0)
                 jwIntf += "&radius="+obj.WiFiKeywords.radius.length;
             else if (obj.Placemark[0].accuracy!="city"&&obj.Placemark[0].accuracy!="zip"&&obj.Placemark[0].accuracy!="street"&&obj.Placemark[0].accuracy!="intersection"&&obj.Placemark[0].accuracy!="address")
+			{
+                jwIntf += "&latitude=";
+                jwIntf += "&longitude=";
                 jwIntf += "&radius=100.0";
+                jwIntf += "&address=";
+                if (obj.Placemark[0].accuracy=="country")
+                   jwIntf += "&country="+obj.Placemark[0].AddressDetails.country;			
+			}
             else
+            {
+                var addr = new String(obj.Placemark[0].Address);
+                addr = addr.replace(/ /g,"+");
+                addr = addr.replace(/,/g,"%2C");
+                jwIntf += "&address="+addr;
+                jwIntf += "&latitude="+obj.Placemark[0].Latitude;
+                jwIntf += "&longitude="+obj.Placemark[0].Longitude;
                 jwIntf += "&radius=10.0";
-           
+            }   
             msg += "WiFi Keywords Found:\n";
             msg += "  - Hotspot Type: " + obj.WiFiKeywords.hotspottype + "\n"; 
             msg += "  - User Location Type Code: " + obj.WiFiKeywords.userlocationtypecode + "\n"; 
@@ -278,8 +285,34 @@ function geoResults(obj) {
 	    //alert(msg);
 	    window.location=jwIntf;
 	}
+	else if (obj.Status.code == 6000)
+	{
+        if (obj.WiFiKeywords.strictmode==false)
+        {
+            if (obj.WiFiKeywords.userlocationtypecode >= 0)
+                jwIntf += "&location_type_id="+obj.WiFiKeywords.userlocationtypecode;
+            if (obj.WiFiKeywords.venuename.length > 0)
+                jwIntf += "&hotspot_name="+obj.WiFiKeywords.venuename;
+            if (obj.WiFiKeywords.hotspottype.length > 0)
+                jwIntf += "&pay_free="+obj.WiFiKeywords.hotspottype;
+            if (obj.WiFiKeywords.providerid.length > 0)
+                jwIntf += "&provider_id="+obj.WiFiKeywords.providerid;
+            if (obj.WiFiKeywords.possiblezip.length > 0)
+                jwIntf += "&zip="+obj.WiFiKeywords.zip;
+            if (obj.WiFiKeywords.radius.length > 0)
+            
+            jwIntf += "&radius="+obj.WiFiKeywords.radius.length;
+            jwIntf += "&latitude=";
+            jwIntf += "&longitude=";
+            jwIntf += "&radius=100.0";
+            jwIntf += "&address=";
+            jwIntf += "&country_id=";
+ 	        window.location=jwIntf;
+       }
+	}
 	else if (obj.Status.code == 5000 || obj.Status.code == 5001)
 	{
+	    jwIntf += "&type=parametric";
 	    window.location=jwIntf;
 	}
 	else
@@ -347,7 +380,7 @@ function geoResults(obj) {
 	  }
 	  addr = addr.replace(/&/g," and ");
 	  addr = addr.replace(/e.g. Hotspots/g,"Hotspots");
-	  var sel = document.getElementById('engine');
+	  //var sel = document.getElementById('engine');
 	  //sel = document.getElementById('strict');
 	  //var strict = sel.options[sel.selectedIndex].value;
 	  url += "&strict="+false;
@@ -976,10 +1009,6 @@ function geoResults(obj) {
 
 
 
-				<li><a href="http://www.jiwire.com/registration.htm?action=weeklywire">WeeklyWire Newsletter</a></li>
-
-
-
 				<li><a href="http://www.jiwire.com/registration.htm">Sign In to My Account</a></li>
 
 
@@ -1009,10 +1038,6 @@ function geoResults(obj) {
 
 
 				<li><a href="http://www.jiwire.com/skypebot-download.htm">Hotspot Finder for Skype</a></li>
-
-
-
-				<li><a href="http://www.jiwire.com/osx-tiger-dashboard-widget.htm">Mac OS X Widget</a></li>
 
 
 
@@ -1157,7 +1182,7 @@ function geoResults(obj) {
 
 
 
-		<!-- CODE VERSION: new_jsps/jiwire/ V4 Server : web1 -->
+		<!-- CODE VERSION: new_jsps/jiwire/ V4 Server : web3 -->
 
 
 
