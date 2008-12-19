@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the salford.ac.uk privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027110237id_/http%3A//www.isd.salford.ac.uk/governance/legislation/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salford.ac.uk privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219203401id_/http%3A//www.ils.salford.ac.uk/governance/legislation/privacy) for the most accurate reproduction.*
 
-# Information Governance | Information Services Division | University of Salford - A Greater Manchester University
+# Information Governance | Information & Learning Services | University of Salford - A Greater Manchester University
 
 ## Our commitment to privacy
 
@@ -136,6 +136,10 @@ We use the following practices on our website to enhance the level of security f
 Purchasing items or making donations over the Internet usually requires you to provide your personal identifying information and credit card information on a website. Many people have become accustomed to on-line commerce as a time-saving and useful convenience. There are a number of practices that can make providing your sensitive credit card information more secure and therefore make you feel more comfortable about doing so.
 
 At this time, we do not process credit card payments for donations, merchandise, or services on our website.
+
+## International Enquiries
+
+The data sent in international enquiries to the University for UG and PG programmes via webform will be held by Hobsons plc, on behalf of the University of Salford. Your data will be used for the purposes of dealing with your enquiry, and sending you relevant information about the University of Salford. Neither Hobsons plc nor the University of Salford will pass your details on to any third party. If you wish to remove yourself from the University of Salford's database please contact Hobsons plc, Challenger House, 42 Adler Street, London E1 1EE, or international-enquiries@salford.ac.uk.
 
 ## Advertising servers
 
