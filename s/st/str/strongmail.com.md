@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strongmail.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623090933id_/http%3A//www.strongmail.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strongmail.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219121811id_/http%3A//www.strongmail.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | StrongMail
 
@@ -64,8 +64,8 @@ Redwood City, CA 94065
 
 **Privacy Officer**  
 StrongMail Systems UK, Ltd  
-Carmelite, 50 Victoria Embankment,   
-Blackfriars, London EC4Y 0DX  
+5 New Street Square,   
+London EC4A 3TW  
 **[privacy@strongmail.com](mailto:privacy@strongmail.com)**
 
 ### General provisions
@@ -78,9 +78,9 @@ We may delay enforcing our rights under this Privacy Policy without losing them.
 
 No waiver by either party of any right hereunder shall constitute a waiver of this or any other right.
 
-StrongMail Systems UK, Ltd is a company registered in England and Wales at Carmelite, 50 Victoria Embankment, Blackfriars, London EC4Y 0DX. Reg. No. 6398867. VAT # GB 925 07 6228.
+StrongMail Systems UK, Ltd is a company registered in England and Wales at 5 New Street Square, London EC4A 3TW. Reg. No. 6398867. VAT # GB 925 07 6228.
 
-These Terms were last updated on February 1, 2008.
+These Terms were last updated on November 20, 2008.
 
 Copyright (c) 2008 StrongMail Systems, Inc. STRONGMAIL and the STRONGMAIL logo are registered trademarks in the United States, other countries or both. All Rights Reserved.
 
