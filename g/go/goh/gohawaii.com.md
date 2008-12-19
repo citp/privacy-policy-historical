@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gohawaii.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615150105id_/http%3A//www.gohawaii.com/about_hawaii/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gohawaii.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219191115id_/http%3A//www.gohawaii.com/about_hawaii/Privacy_Policy) for the most accurate reproduction.*
 
 # Hawaii's Official Tourism Site -- HVCB Privacy Policy
 
