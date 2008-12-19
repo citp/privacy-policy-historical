@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the lamaloli.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218024601id_/http%3A//www.lamaloli.com/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamaloli.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219022356id_/http%3A//www.lamaloli.com/privacy_notice) for the most accurate reproduction.*
 
-# LamaLoLi, Makes Kids Smile – Kids clothing, fashion and presents
-
-  
-
+# LamaLoLi - Kid's fashion online store
 
 **1.     ****Purpose for Information Collection and Usage**
 
