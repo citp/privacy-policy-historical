@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the unit5.org privacy policy that was archived on 2008-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080222072102id_/http%3A//www.unit5.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unit5.org privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219050028id_/http%3A//www.unit5.org/districtinformation/contact/departments/technology/privacy.shtml) for the most accurate reproduction.*
 
-# Unit 5 Online. McLean County Unit 5, Normal, Illinois.
+# Online and Hosted Unit 5 Sites Privacy Policy
 
-#### **Proposed PRIVACY POLICY**
+######  [Español](http://translate.google.com/translate?u=https://web.archive.org/web/20081219050028id_/http%3A//www.unit5.org/districtinformation/contact/departments/technology/privacy.shtml&hl=en&ie=UTF-8&sl=en&tl=es "*** Haga clic aquí para ver esta página traducida al español. Debido a un formato diferente el sitio puede tener una apariencia ligeramente diferente y alguna funcionalidad se puede perder. ****  Click to view this page translated into Spanish. Due to different formatting the site may have a slightly different appearance and some functionality may be lost. ***") 
 
-#### **UNIT 5 ONLINE and UNIT 5 HOSTED SITES**
+##### **Online and Hosted Unit 5 Sites** Privacy Policy
 
 **INTRODUCTION**
 
@@ -42,7 +42,7 @@ You'll find more information on how to reach on our Contact page.
 
 Although we may collect certain information from you as discussed below, please be reassured in knowing the following:
 
-  * We do not use any information about where you personally go on our Site, nor do we give such information out to third parties;
+  * We do not use any information about where you personally go on our site, nor do we give such information out to third parties;
   * We do not give out your name, telephone number, or other personal information, unless you (or, if you are a child under the age of 13, your parent) authorize us to do so;
   * Information gathered by our website via some form of electronic submission, except where noted below, is not held for any period of time beyond that which is needed and is never disclosed to third parties outside the district;
   * Unit 5 limits the use of cookies to those that do not gather personal information about the users of Unit 5 Online or other Unit 5 hosted sites;
@@ -65,7 +65,7 @@ There are various areas on our Site where we either require or permit you to tra
 > 
 > **Images**. Unit 5 has a very specific policy regarding the posting and use of staff and student images on Unit 5 hosted websites. Policy disclosure is available in the Web Publishing Guidelines. Staff and student images must meet specific privacy protection minimums or they may not be posted.
 
-#### **INFORMATION THAT WE INDEPENDENTLY DERIVE FROM YOUR USE OF OUR SITE**
+##### **INFORMATION THAT WE INDEPENDENTLY DERIVE FROM YOUR USE OF OUR SITE**
 
 Aside from any information you may actively disclose to us, there is other, less obvious, information that we might gain from you. Generally, we use such information for internal purposes such as to improve the content of our Web pages and/or refine the layout of our pages. This is generalized information that does not compromise your privacy; no information of a personal nature is gathered in this process.
 
@@ -139,22 +139,5 @@ By using this Site, you signify your assent to the McLean County Unit 5 Privacy 
 
 If you have questions or concerns regarding this Web site's privacy statement and/or terms of use, you should contact us via email at: district@unit5.org. 
 
-* * *
+Document Revised 7/11/2001.  Version 1.01   
 
-Document Revised 7/11/2001.  Version 1.01 
-
-* * *
-
-This document is in Adobe PDF format and requires that you have Adobe Acrobat 5 installed on your computer (it's a free download).  Just click on the View PDF! button to see the document you are interested in. 
-
-[](https://web.archive.org/web/20080222072102id_/http%3A//www.unit5.org/pdf_o/privacypolicy.pdf)
-
-* * *
-
-#### Acquiring Adobe Acrobat Reader 5
-
-In order to view PDF documents, you will need to have Adobe Acrobat Reader 5.  This is a free download which will enable you to view the PDF (Portable Document Files) linked above.  It plugs directly into your browser(s) automatically and enables you to view the original document as intended.
-
-Please click the button below to get your free copy of Adobe Acrobat Reader 5.
-
-[](http://www.adobe.com/products/acrobat/readstep.html)
