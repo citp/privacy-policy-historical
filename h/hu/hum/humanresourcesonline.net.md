@@ -1,0 +1,45 @@
+> *The following text is extracted and transformed from the humanresourcesonline.net privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219085753id_/http%3A//www.humanresourcesonline.net/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | Human Resources Online
+
+When you register with Marketing Interactive under our SUBSCRIBE TO MARKETING FREE area, your contact details are added to our electronic mailing list so that, from time to time, we can send you information about new features, additions, and changes to our Web site. Also, Marketing Magazine occasionally makes subscriber information available to other units within Lighthouse Independent Media as well as to selected outside companies whose products or services we feel may be of interest to you.
+
+Sometimes third parties, called third-party ad servers or ad networks, deliver ads to you on our behalf. These third-party ad servers may also collect and use non-personally identifiable information about your visits to this and other web sites in order to present advertisements that may be of interest to you. If you would like more information about this practice or to opt out of having this information used by third-party ad servers to provide targeted ads, please visit <http://www.networkadvertising.org/optout_nonppii.asp>.
+
+Please be assured that we take your concerns about privacy quite seriously, and we intend to take every reasonable effort to protect it. To that end, Lighthouse Independent Media has developed a comprehensive privacy policy. If you'd like more information about our use of customer data, please review Lighthouse Independent Media Customer Privacy Policy Statement below.
+
+Questions or comments can be sent to Justin Randles.
+
+After you've read the policy, click your back button to return to Marketing Interactive.
+
+If you prefer not to receive relevant business information from companies outside Lighthouse Independent Media, please send us the Opt Out Email.
+
+Thanks
+
+**LIGHTHOUSE INDEPENDENT MEDIA CUSTOMER PRIVACY POLICY STATEMENT**
+
+Lighthouse Independent Media' Customer Privacy Policy has been developed as an extension of our commitment to combine the finest quality products and services with the highest level of integrity in dealing with our customers. The Policy guides how we collect, store and use information about customers and prospects, and it will be periodically assessed against new technologies, business practices and our customers' changing needs.
+
+Lighthouse Independent Media may, from time to time, modify this Customer Privacy Policy to reflect legal, technological and other developments. In that event, the changes will appear at this location.
+
+Please note that privacy notices advising customers and prospects as to the specific uses that are being made of their Personally-Identifiable Information by specific business units within Lighthouse Independent Media may also be modified from time to time to reflect changes in business practices. In this event, those changes will appear in the relevant privacy notices.
+
+Lighthouse Independent Media will also comply with applicable non-Singapore laws that impose additional responsibilities on Lighthouse Independent Media beyond those stated in this Policy in connection with the treatment of Personally-Identifiable Information about its customers and prospects.
+
+Our Policy recognises two kinds of personal data that deserve varying levels of protection. Personally-Identifiable Information includes, for example, e-mail addresses, billing information, employment status and "click stream" data that tracks user activity on a Web site or online service. A subset of that category, Sensitive Data, deserves additional safeguards. Sensitive Data includes, by way of example, Social Security numbers, personal financial data (such as specific salary, net worth or individual portfolio information) and information about specific medical conditions.
+
+Lighthouse Independent Media is committed to using all reasonable efforts to abide by the following Policy statement:
+
+  1. Collection. Personally-Identifiable Information will only be collected to the extent that Lighthouse Independent Media deems reasonably necessary to serve a legitimate business purpose. Please be aware that if you disclose Personally-Identifiable Information on Web site message boards or chat areas, that information may be collected and used by third parties without our knowledge and may result in unsolicited communications from third parties. Such activities are beyond the control of Lighthouse Independent Media.
+  2. Notification. Customers and prospects will be notified (usually at the point where Personally-Identifiable Information is collected) as to the uses the business unit may make of the Personally-Identifiable Information collected from them.
+  3. Choice: Opt Out for External Distribution of Personally-Identifiable Information. Customers and prospects will be given the opportunity to refuse permission for External Distribution of their name, address or other Personally-Identifiable Information through an Opt Out mechanism. (External Distribution does not include certain limited distributions such as sharing Personally-Identifiable Information with an entity working on behalf of Lighthouse Independent Media to serve our customers; transfer of Personally-Identifiable Information in conjunction with the sale or similar transfer of a business unit; or the disclosure of Personally-Identifiable Information in connection with legal proceedings, investigations of crimes or other wrongdoing. However, sharing Personally-Identifiable Information with an entity working on behalf of Lighthouse Independent Media or transferring Personally-Identifiable Information in conjunction with the sale or similar transfer of a business unit is considered an Onward Transfer and will be handled as described below.)
+  4. Security. Appropriate safeguards will be implemented in an effort to ensure the security, integrity and privacy of Personally-Identifiable Information about our customers and prospects.
+  5. Access: Review and correction. Procedures have been developed through which customers and prospects can, upon request, review and correct the Personally-Identifiable Information that has been collected from them by Lighthouse Independent Media. These procedures may not, however, compromise the security, integrity and privacy of either Lighthouse Independent Media's own proprietary databases or databases licensed from third party companies.
+  6. Sensitive Data. The collection and use of Sensitive Data carries with it special obligations and responsibilities in order to maintain the data's security, integrity and privacy. Sensitive Data will not be rented or otherwise made available for External Distribution outside Lighthouse Independent Media (although it may be made available through Onward Transfer as described below). Customers and prospects will be given the opportunity to refuse permission for their Sensitive Data to be distributed outside of the business unit that collected the Sensitive Data through use of an Opt Out mechanism for Internal Distribution within Lighthouse Independent Media.
+  7. Onward Transfer. Whenever Lighthouse Independent Media permits a third party outside of Lighthouse Independent Media to access Personally-Identifiable Information through either External Distribution or Onward Transfer, commercially appropriate procedures will be followed to help ensure that the Information is used only for authorised purposes and by authorised persons in a manner consistent with the choices customers and prospects have made under this Policy, and that the security, integrity and privacy of the information is maintained. Please note that our Web sites may contain links to other Web Sites that have their own privacy policies and practices. While Lighthouse Independent Media will employ commercially appropriate procedures to help ensure that your information is only used for authorised purposes as described above, Lighthouse Independent Media cannot make any guarantees with respect to the actions or policies of such third parties.
+
+
+
+**Questions and comments?** Lighthouse Independent Media Customer Privacy Policy has been developed out of respect for the privacy preferences and choices of our customers and prospects. We have established procedures to ensure that every reasonable effort is made to address your concerns.
+
+To ensure that we follow our stated Policy, we also conduct periodic and random reviews of our Web sites and other products and services. The results of our reviews are shared with senior management and our Board of Directors.
