@@ -1,6 +1,31 @@
-> *The following text is extracted and transformed from the uaeexchange.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608093904id_/http%3A//www.uaeexchange.com/uaexchange.php%3Fcat%3D8%26id%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uaeexchange.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219114039id_/http%3A//www.uaeexchange.com/uaexchange.php%3Fcat%3D8%26id%3D1) for the most accurate reproduction.*
 
 # UAEXchange
+
+  
+
+
+Privacy Policy
+
+Policy
+
+|  What's New   
+---  
+  
+  * [UAE Exchange bags the Mohammed bin Rashid Al Maktoum Business Award 2007](https://web.archive.org/web/20081219114039id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=4&id=2&sid=2)  
+
+  * [UAE Exchange bags the prestigious Dubai Quality Appreciation Program](https://web.archive.org/web/20081219114039id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=4&id=2&sid=3)  
+
+  * [Dr.B.R.Shetty has been awarded the Pravasi Bharatiya Samman 2007](https://web.archive.org/web/20081219114039id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=4&id=2&sid=4)  
+
+
+
+  
+  
+[Home](https://web.archive.org/web/20081219114039id_/http%3A//www.uaeexchange.com/index.php) > Privacy Policy > Policy     
+
+  
+
 
 This privacy policy (statement) covers all websites that are operated by UAE Exchange including www.uaeexchange.com because UAE Exchange wishes to demonstrate its commitment to our users' privacy, we have agreed to disclose our information practices. 
 
@@ -12,3 +37,11 @@ We store information that we collect through cookies, log files, and/or third pa
 
 **Legal Disclaimer**  
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
+
+  
+  
+  
+   •  [About Us](https://web.archive.org/web/20081219114039id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=1&id=1)     •  [Services](https://web.archive.org/web/20081219114039id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=2&id=1)     •  [News](https://web.archive.org/web/20081219114039id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=4&id=1)     •  [Careers](https://web.archive.org/web/20081219114039id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=6&id=1)     •  [Contact Us](https://web.archive.org/web/20081219114039id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=5&id=1)     •  [Network](https://web.archive.org/web/20081219114039id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=5&id=3)     •  [Privacy Policy](https://web.archive.org/web/20081219114039id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=8&id=1)
+
+  
+Copyright © 2008 UAE Exchange Centre LLC. All rights reserved.
