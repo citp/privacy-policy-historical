@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503060113id_/http%3A//www.modernhealthcare.com/apps/pbcs.dll/section%3Fcategory%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219084015id_/http%3A//www.modernhealthcare.com/apps/pbcs.dll/section%3Fcategory%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Modern Healthcare Online
+# Privacy Policy and Rules - Modern Healthcare
 
 | 
 
 [](http://oascentral.modernhealthcare.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/privacypolicy/index/15620892959@TopLeft,Top1,Left1,Right1,Right2,x21,x22,x23,x24!Left1?)
 
-SEARCH
+Search
 
 EVENT CALENDAR
 
