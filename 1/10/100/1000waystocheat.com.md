@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the 1000waystocheat.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609194654id_/http%3A//www.1000waystocheat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000waystocheat.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219032845id_/http%3A//www.1000waystocheat.com/privacy.html) for the most accurate reproduction.*
 
 # 1,000 Ways to Cheat - Privacy Policy
 
-Privacy Policy 
+Privacy Policy
 
-This privacy policy discloses the privacy practices for 1,000 Ways to Cheat (http://www.1000waystocheat.com). If you have any question regarding this privacy policy, please contact us. 
+This privacy policy discloses the privacy practices for 1,000 Ways to Cheat (http://www.1000waystocheat.com). If you have any question regarding this privacy policy, please contact us.
 
 **Information Collection and Use**  
-1,000 Ways to Cheat is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. 1,000 Ways to Cheat collects information from our users at several different points on our website. 
+1,000 Ways to Cheat is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. 1,000 Ways to Cheat collects information from our users at several different points on our website.
 
 **Cookies**   
 A cookie is a piece of data stored on the user’s hard drive containing information about the user. 1,000 Ways to Cheat uses cookies to enhance the user's experience, often allowing a user to browse the site more quickly. The storage of such cookie is optional, and the user will still be able to use the website, with the exception of some of the site's functions. Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
