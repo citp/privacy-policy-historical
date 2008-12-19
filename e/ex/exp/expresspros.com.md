@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the expresspros.com privacy policy that was archived on 2008-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080416025506id_/http%3A//www.expresspersonnel.com/us/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expresspros.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219223450id_/http%3A//www.expresspros.com/us/company/privacy.aspx) for the most accurate reproduction.*
 
-# Express Personnel Services
+# Express Employment Professionals
 
 ### Protecting Your Privacy
 
@@ -46,15 +46,15 @@ If there are changes or additions to this Privacy Policy, we will post those cha
 
 #### Contact Us
 
-If you wish to change or delete your registration information or opt-out of any promotional materials please contact Express Personnel Services International Headquarters in the manner described below.
+If you wish to change or delete your registration information or opt-out of any promotional materials please contact Express Employment Professionals International Headquarters in the manner described below.
 
-If you have any questions or complaints regarding our personal information handling practices and policies, please contact our Express Personnel Services International Headquarters.
+If you have any questions or complaints regarding our personal information handling practices and policies, please contact our Express Employment Professionals International Headquarters.
 
 Express Services Inc.  
 8516 NW Expressway  
 Oklahoma City, OK 73162  
 Phone: 1-405-840-5000  
 Fax: 1-405-717-5516  
-[Email the Webmaster](https://web.archive.org/web/20080416025506id_/http%3A//www.expresspersonnel.com/us/contact.aspx)
+[Email the Webmaster](https://web.archive.org/web/20081219223450id_/http%3A//www.expresspros.com/us/contact.aspx)
 
 We will address your concern and attempt to resolve any problem.
