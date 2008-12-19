@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfitnesspal.com privacy policy that was archived on 2008-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080401162637id_/http%3A//www.myfitnesspal.com/welcome/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfitnesspal.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219151246id_/http%3A//www.myfitnesspal.com/welcome/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - MyFitnessPal.com
 
