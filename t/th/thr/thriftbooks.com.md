@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thriftbooks.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626075050id_/http%3A//www.thriftbooks.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thriftbooks.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219051824id_/http%3A//www.thriftbooks.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Thriftbooks - privacyPolicy
 
