@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the symantec-norton.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502030012id_/http%3A//www.symantec-norton.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symantec-norton.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219145239id_/http%3A//www.symantec-norton.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Norton Products by Symantec | Privacy Policy
 
+### Privacy Policy
+
   
 
-
-### Privacy Policy
 
 Our privacy policy adheres to the US Safe Harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. We are strongly committed to protecting the privacy of this site's visitors as well as personal information by following responsible information handling practices in keeping with privacy laws.
 
@@ -38,3 +38,6 @@ We regularly review our policies and procedures to ensure we remain current with
 We welcome comments and questions on this policy. If you need to reach out to us about our privacy practices, you can simply send an email to: [privacy@symantec-norton.com](mailto:privacy@symantec-norton.com). 
 
 Please be aware that due to the evolving nature of the technologies we use to communicate with you, we may occasionally update this policy. However, notices for all revisions will be posted on our site in clear view.
+
+  
+
