@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the articles-freeway.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624155625id_/http%3A//www.articles-freeway.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articles-freeway.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219142356id_/http%3A//www.articles-freeway.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # Article Marketing Directory: privacy Articles Freeway
-
-  
-  
-  
-Popular Pages:   [ Article Writing Software](http://www.articles-freeway.com/article-writing-software.htm)        [ Create Unique Articles in Minutes](https://web.archive.org/web/20080624155625id_/http%3A//www.articles-freeway.com/article-writing-software.htm)        [Get Paid to Write Articles](https://web.archive.org/web/20080624155625id_/http%3A//www.articles-freeway.com/get_paid_to_write_articles.htm)         [ Weddings](http://www.articles-freeway.com/weddings.htm)        [ Ezine Marketing](http://www.articles-freeway.com/cid129/Ezine-Marketing/)       [ Travel](http://www.articles-freeway.com/cid44/Travel-Leisure)   
- 
 
 **Articles Freeway Privacy Policy**
 
