@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australianshortfilms.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516190844id_/http%3A//www.australianshortfilms.com/100151.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australianshortfilms.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219221316id_/http%3A//www.australianshortfilms.com/100151.php) for the most accurate reproduction.*
 
 # Privacy Policy Australian Short Films
 
