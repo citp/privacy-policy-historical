@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ura.gov.sg privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626144408id_/http%3A//www.ura.gov.sg/privacy/body.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ura.gov.sg privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219190707id_/http%3A//www.ura.gov.sg/privacy/body.htm) for the most accurate reproduction.*
 
 # Privacy Statment
 
@@ -17,7 +17,7 @@
 
   7. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 
-  8. Should you have any queries or complaints on any issue relating to our privacy policy as set out above, you may wish to send an email to our Quality Service Manager at jemail("ura_siu", "ura", "gov.sg"); [ura_siu@ura.gov.sg ](mailto:ura_siu@ura.gov.sg) or you may call our toll free line at 1800-221-2616.
+  8. Should you have any queries or complaints on any issue relating to our privacy policy as set out above, you may wish to send an email to our Quality Service Manager at [ura_siu@ura.gov.sg ](mailto:ura_siu@ura.gov.sg) or you may call our toll free line at 1800-221-2616.
 
 
   
