@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the processlibrary.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601152410id_/http%3A//www.processlibrary.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the processlibrary.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219110024id_/http%3A//www.processlibrary.com/privacy) for the most accurate reproduction.*
 
 # ProcessLibrary.com Privacy Policy
 
@@ -22,7 +22,7 @@ When you use ProcessLibrary.com, our servers automatically record information th
 
 **User communications.**
 
-When you download and run the ProcessScanner Software it will communicate with ProcessLibrary.com. This communication includes information gathered by the software regarding your computer’s process information and activity. This information does not include personal information (such as the contents of personal documents, web browsing history or cookies). We may retain this communication in order to provide statistics, process your inquiries, respond to your requests and improve our services. All gathered data is anonymized and no personal details are retained. Scans are only identifiable by a scan number displayed in the results page. 
+When you download and run the ProcessScanner Software it will communicate with ProcessLibrary.com. This communication includes information gathered by the software regarding your computer's process information and activity. This information does not include personal information (such as the contents of personal documents, web browsing history or cookies). We may retain this communication in order to provide statistics, process your inquiries, respond to your requests and improve our services. All gathered data is anonymized and no personal details are retained. Scans are only identifiable by a scan number displayed in the results page. 
 
 ProcessLibrary.com processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We only process personal information to provide our own services.
 
@@ -34,7 +34,7 @@ If we propose to use personal information for any purposes other than those desc
 
 **Information sharing**
 
-ProcessLibrary.com only shares personal information with other commercial projects from Uniblue Systems Ltd. upon obtaining the user’s consent. We require opt-in consent for the sharing of any personal information.
+ProcessLibrary.com only shares personal information with other commercial projects from Uniblue Systems Ltd. upon obtaining the user's consent. We require opt-in consent for the sharing of any personal information.
 
 **Information security**
 
@@ -48,7 +48,7 @@ ProcessLibrary.com processes personal information only for the purposes for whic
 
 **Accessing and updating personal information**
 
-When you use ProcessLibrary.com services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Users can access and or modify their details by visiting ‘My Account’.
+When you use ProcessLibrary.com services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Users can access and or modify their details by visiting 'My Account'.
 
 **Changes to this policy**
 
