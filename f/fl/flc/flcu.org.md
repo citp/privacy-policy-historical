@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the flcu.org privacy policy that was archived on 2008-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080519093911id_/http%3A//www.flcu.org/About/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flcu.org privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219050634id_/http%3A//www.flcu.org/About/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # FLCU-Florida Credit Union-Your Mortgage Solution
 
   
-_**Effective Date: June 2007  
+_**Effective Date: June 2008  
 **_  
 At Florida Credit Union, your privacy is a top priority. When you provide personal   
 information in order to process your transaction, you fully expect your data to be used only for its intended purpose and to be kept confidential. At Florida Credit Union, we respect your confidentiality and take every possible measure to ensure that your personal information is protected. Your membership is valuable to us and we hope to maintain a financial relationship with you for many years to come. 
