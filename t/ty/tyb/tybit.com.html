@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tybit.com privacy policy that was archived on 2008-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080608022713id_/http%3A//www.tybit.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tybit.com privacy policy that was archived on 2008-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219034313id_/http%3A//tybit.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -20,13 +20,13 @@
 
 	<div style="float:left;" id="source_select">
 			<ul>
-				<li><a href="#" ref="Web">Web</a></li>
-				<li><a href="#" ref="Image">Image</a></li>
-				<li><a href="#" ref="Video">Video</a></li>
-				<li><a href="#" ref="News">News</a></li>
-				<li><a href="#" ref="Music">Music</a></li>
-				<li><a href="#" ref="Local">Local</a></li>
-				<li><a href="#" ref="Shop">Shop</a></li>
+				<li><a href="#" rel="Web">Web</a></li>
+				<li><a href="#" rel="Image">Image</a></li>
+				<li><a href="#" rel="Video">Video</a></li>
+				<li><a href="#" rel="News">News</a></li>
+				<li><a href="#" rel="Music">Music</a></li>
+				<li><a href="#" rel="Local">Local</a></li>
+				<li><a href="#" rel="Shop">Shop</a></li>
 			</ul>			
 	</div>
 	
@@ -36,7 +36,7 @@
 		<!--	<li><a href="">Login/ Sign Up</a></li>-->
 			<li><a href="/subscribers.php">Subscribers</a></li>
 		  <li><a href="/advertisers.php">Advertisers</a></li>
-		  <li><a href="/partners.php">Partners</a></li>
+		  <li><a href="/partners.php">Publishers</a></li>
 	<!--	  <li><a href="/adscribers.php">adScribers&trade;</a></li>-->
 	  </ul>
 	</div>
@@ -118,7 +118,7 @@
   	<li><a href="/">Home</a></li>
   	<li><a href="http://www.tyVille.com" target="_blank">tyVille</a></li>
   	<li><a href="/advertisers.php">Advertisers</a></li>
-  	<li><a href="/partners.php">Partners</a></li>
+  	<li><a href="/partners.php">Publishers</a></li>
   	
     <li><a href="/subscribers.php">Subscribers</a></li>
     <li><a href="/affiliates.php">Affiliates</a></li>
@@ -138,12 +138,13 @@
 
 
 <script type="text/javascript" charset="utf-8">
+	// <![CDATA[
   var tybit_source = "Web";
   
   $(document).ready(function(){
     $("#source_select a").click(function(){
       $(this).parent().children().removeClass("active");
-      document.forms[0].t.value = window.tybit_source = $(this).attr("ref");
+      document.forms[0].t.value = window.tybit_source = $(this).attr("rel");
       $(this).addClass("active");
       // $("#sbox").removeClass().addClass(window.tybit_source.toLowerCase());
       $("#sb").attr("value", $(this).text() + " Search");  
@@ -163,6 +164,7 @@
     }
     return true;
   }
+	//]]>
 </script>
 
 
