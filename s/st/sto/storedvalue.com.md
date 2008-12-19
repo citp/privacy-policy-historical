@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the storedvalue.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616211049id_/http%3A//www.storedvalue.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storedvalue.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219221848id_/http%3A//www.storedvalue.com/privacy.php) for the most accurate reproduction.*
 
 # Stored Value Solutions - Stored Value Solutions Internet Privacy Policy
 
-[Home](https://web.archive.org/web/20080616211049id_/http%3A//www.storedvalue.com/index.php) >> [Privacy Policy](https://web.archive.org/web/20080616211049id_/http%3A//www.storedvalue.com/privacy.php)
+[Home](https://web.archive.org/web/20081219221848id_/http%3A//www.storedvalue.com/index.php) >> [Privacy Policy](https://web.archive.org/web/20081219221848id_/http%3A//www.storedvalue.com/privacy.php)
 
 ### SVS’s Commitment to Privacy
 
@@ -34,7 +34,11 @@ Some areas of SVS’ Web site may offer users the option to receive marketing in
 
 ### Security 
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, SVS has put into place the appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. Policy Changes We may change this privacy policy at any time in our sole discretion. Any updates to our privacy policy will be posted on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Continued use of the SVS Web site following our posting of the change notice or an updated privacy policy will constitute binding acceptance of those changes. 
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, SVS has put into place the appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+
+### Policy Changes 
+
+We may change this privacy policy at any time in our sole discretion. Any updates to our privacy policy will be posted on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Continued use of the SVS Web site following our posting of the change notice or an updated privacy policy will constitute binding acceptance of those changes. 
 
 ### Contact Information 
 
@@ -50,7 +54,7 @@ Except as expressly provided above, SVS reserves all other rights, and nothing c
 
 The information provided in these web pages is provided by SVS as a convenience to you. SVS does not warrant the accuracy or completeness of the information contained in these web pages or any linked web pages. 
 
-### StoredValue.com Web Site Site Linking Guidelines 
+### StoredValue.com Linking Guidelines 
 
 _Linking to StoredValue.com: Terms and Conditions_   
 You may only use the graphics and code ("Button") supplied by SVS communications. By using SVS graphics and code, you agree to be bound by the following terms and conditions. 
