@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ttiqq.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617125040id_/http%3A//www.ttiqq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ttiqq.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219070249id_/http%3A//www.ttiqq.com/privacy) for the most accurate reproduction.*
 
 # TTiqq.com Version 0.5
 
