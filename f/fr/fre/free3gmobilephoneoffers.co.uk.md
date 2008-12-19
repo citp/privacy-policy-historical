@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free3gmobilephoneoffers.co.uk privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612152057id_/http%3A//www.free3gmobilephoneoffers.co.uk/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free3gmobilephoneoffers.co.uk privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219145757id_/http%3A//www.free3gmobilephoneoffers.co.uk/privacy-policy.asp) for the most accurate reproduction.*
 
 # Free3gMobilePhoneOffers
 
@@ -43,7 +43,7 @@ We provide site members with access to all information that we maintain about th
 To facilitate your use of our website and to collect aggregate information, we may use "cookies". Cookies are merely text files, used to identify individual users. They are placed in computer's browser to store preferences. Cookies, are not plug ins nor are they programs. They are stored on the computer's hard drive and can be deleted at any time. When you visit the website again, the cookie allows that site to recognize your browser.
 
 Cookies, by themselves, do not tell us email address or other personal information unless a person choose to provide this information to us by, for example, registering at our site. They do not contain any personal information about you. Cookies do not act maliciously on computer systems.   
-To view our Cookie Policy, please [click here](https://web.archive.org/web/20080612152057id_/http%3A//www.free3gmobilephoneoffers.co.uk/cookies.asp).
+To view our Cookie Policy, please [click here](https://web.archive.org/web/20081219145757id_/http%3A//www.free3gmobilephoneoffers.co.uk/cookies.asp).
 
 #### 8\. Changes to Privacy Policy
 
