@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sojo.net privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625231400id_/http%3A//www.sojo.net/index.cfm%3Faction%3Dabout_us.privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sojo.net privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219205149id_/http%3A//www.sojo.net/index.cfm%3Faction%3Dabout_us.privacy_statement) for the most accurate reproduction.*
 
 # Sojourners : About Us : Privacy Statement
 
@@ -42,4 +42,4 @@ You can also click on the links below for information on how to adjust your cook
 
 
 
-If you have any questions about this privacy policy or your dealings with our site, please contact the [webmaster@sojo.net](mailto:webmaster@sojo.net) or call 202-328-8842. 
+If you have further questions about this privacy policy, please contact us at [sojourners@sojo.net](mailto:sojourners@sojo.net) or call 202-328-8842. 
