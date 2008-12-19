@@ -1,30 +1,29 @@
-> *The following text is extracted and transformed from the simplyelectronics.net privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601192205id_/http%3A//www.simplyelectronics.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyelectronics.net privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219020130id_/http%3A//simplyelectronics.net/privacy.php) for the most accurate reproduction.*
 
-# SimplyElectronics: Digital Cameras, Camcorders, IT products, Lens - online High Tech shop
+# Buy Consumer Electronics at Simply Electronics
 
   
 | **   Shopping Basket**  
 ---  
-| 
-
-Your shopping basket is empty
-
-|   
+|    
+  
+  
+|   **usd** | [](https://web.archive.org/web/20081219020130id_/http%3A//simplyelectronics.net/checkout.php)  
+---|---  
   
 **   Country**  
 ---  
 |  |  |     
 ---|---  
   
+  
 **   Security**  
 ---  
 |  |   
   
-
-
-  
 | [](http://server.iad.liveperson.net/hc/19483306/?cmd=file&file=visitorWantsToChat&site=19483306&byhref=1&imageUrl=http://images.liveperson.com/lp/19483306)  
 ---|---  
+  
   
 It is our commitment to safeguard our customers information when shopping with SimplyElectronics.net. 
 
@@ -52,22 +51,30 @@ We may use third parties to carry out certain activities, such as processing and
 
 **Your rights**
 
-You can ask us to update or remove your personal information by emailing info@simplyelectronics.net.
+You can ask us to update or remove your personal information by emailing [info@simplyelectronics.net](mailto:info@simplyelectronics.net).
 
 **Other Websites**
 
 This privacy policy only covers our Websites. Any other websites which may be linked to by our Websites are subject to their own policy, which may differ from ours. 
 
-|  | **   Hot Deals**  
----  
-| [](https://web.archive.org/web/20080601192205id_/http%3A//www.simplyelectronics.net/deal.php) |   
+| 
+
   
-**   Free Delivery**  
----  
-|  |   
+
+
   
-**   Buying From Us**  
+
+
+[](https://web.archive.org/web/20081219020130id_/http%3A//simplyelectronics.net/deal.php)
+
+  
+
+
+[](https://web.archive.org/web/20081219020130id_/http%3A//simplyelectronics.net/exdemo.php)
+
+  
+| **   Buying From Us**  
 ---  
-|  [](https://web.archive.org/web/20080601192205id_/http%3A//www.simplyelectronics.net/reasons.php) |   
+|  [](https://web.archive.org/web/20081219020130id_/http%3A//simplyelectronics.net/reasons.php) |   
   
 
