@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaai.org privacy policy that was archived on 2007-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071004234104id_/http%3A//www.aaai.org/Organization/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaai.org privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219091424id_/http%3A//www.aaai.org/Organization/privacy.php) for the most accurate reproduction.*
 
 # AAAI Privacy Policy
 
@@ -29,5 +29,3 @@ AAAI web site may contain links to other Web sites. AAAI is not responsible for 
 ### Questions Regarding this Statement
 
 Any questions regarding this statement or our privacy policies should be directed to the AAAI site manager. (Choose webmaster at the contact form.) By visiting and using AAAI's web site, you are accepting the practices described in this Privacy Policy. This privacy statement was last updated on 1 June 2003.
-
-* * *
