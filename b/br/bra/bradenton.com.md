@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bradenton.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628182422id_/http%3A//www.bradenton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradenton.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219173747id_/http%3A//www.bradenton.com/privacy_policy) for the most accurate reproduction.*
 
-# Bradenton.com | Privacy Policy
+# Bradenton.com Privacy Policy
 
 ##### Effective Date: Jan. 1, 2007.
 
@@ -17,6 +17,8 @@ Access to special content, services and features on Bradenton.com requires users
 You may also be asked to create a separate registration account with some of the services provided by partners and other providers on Bradenton.com. An example is the sacbeeMail e-mail service. Be aware that the information collected by a provider may be subject to the privacy policy and terms of use of that provider, and we recommend reviewing these prior to submitting your registration.
 
 If you wish to forward an article to a friend, we will ask that you provide your friend’s name and e-mail address. While we may collect statistics on which articles are forwarded, we do not sell, rent, or market your friend’s personal information, and retain the information only as long as necessary to provide this service.
+
+We use third-party advertising technology vendors to collect, via includes, cookies and web beacons (1x1 pixels), non-personally identifiable data when you visit our Web site. **These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,[click here](http://www.networkadvertising.org/consumer/opt_out.asp).**
 
 ## Passive Data Collection and Use
 
