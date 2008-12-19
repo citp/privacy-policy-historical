@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tumblr.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231052530id_/http%3A//www.tumblr.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tumblr.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219014330id_/http%3A//tumblr.com/privacy_policy) for the most accurate reproduction.*
 
-# Tumblr
+# Privacy Policy | Tumblr
 
 Tumblr, Inc. (“Tumblr”) takes the private nature of your personal information very seriously. This Privacy Policy (which we adapted from a policy originally provided by [Automattic](http://www.automattic.com/) ([WordPress.com](http://www.wordpress.com/))) describes how we treat the information we collect when you visit and use the website available at Tumblr.com (the “Website”) and is made available under the **Creative Commons Sharealike** license. Please read this notice very carefully. 
 
