@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zocdoc.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227191622id_/http%3A//www.zocdoc.com/public/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zocdoc.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219091628id_/http%3A//www.zocdoc.com/public/privacypolicy.aspx) for the most accurate reproduction.*
 
 # ZocDoc - Privacy Policy
 
@@ -89,8 +89,10 @@ ZocDoc is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an indepe
 If you have any comments on or questions about this Privacy Policy, please contact us at privacy@zocdoc.com or
 
 ZocDoc, Inc.  
-P.O. Box 230399, New York, NY 10023   
-Phone: (646) 233-3810  
+81 Franklin St  
+5th Floor  
+New York, NY 10013  
+Phone: (866) ZOCDOC 1  
 Fax: (646) 843-4745
 
 If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns. 
