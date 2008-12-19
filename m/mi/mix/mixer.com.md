@@ -1,92 +1,77 @@
-> *The following text is extracted and transformed from the mixer.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223235246id_/http%3A//www.3guppies.com/ringtones/module/Misc/action/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixer.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219193240id_/http%3A//www.myxer.com/privacy) for the most accurate reproduction.*
 
-# Ringtones, Cell Phone Games, mp3 ringtones, Screen Graphics and more at 3Guppies.com
+# Myxer - Privacy Policy
 
-Last Updated: May 29, 2007
+Myxer understands the importance of privacy and is committed to protecting the privacy of your personal information. This Privacy Policy explains how Myxer collects and uses your personal information. 
 
-## 3Guppies, Inc. ("3Guppies") takes your privacy seriously.  
-Please read this to learn about our policy regarding visitor and member privacy.
+## WHY DO WE COLLECT PERSONAL INFORMATION?
 
-3Guppies is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site 3guppies.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Myxer collects personal information to improve the manner by which we operate and offer our products and services. We use the personal information to communicate with you about those products and services, and provide effective, timely customer support when needed. We will never rent or sell any of the personal information we collect from you to anyone, and will not share your personal information with anyone without your consent except as described in this Privacy Policy. 
 
-If you have questions or concerns regarding this statement, you should first contact 3Guppies at [customer-support@support.3guppies.com](mailto:customer-support@support.3guppies.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+## WHAT PERSONAL INFORMATION DO WE COLLECT?
 
-3Guppies participates in the Council of Better Business Bureau's BBBOnLine® Privacy Program. As such, we have made a commitment to meet the program's strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/).
+The information we gather is different based upon the services that you use. 
 
-**What this Privacy Policy Covers**
-
-This Privacy Policy covers 3Guppies' treatment of anonymous and personally identifiable information that 3Guppies collects when you are on the Web site located at www.3Guppies.com, and when you use 3Guppies' services. This policy also covers 3Guppies' treatment of any personally identifiable information that 3Guppies' business partners share with 3Guppies.
-
-This policy does not apply to the practices of companies that 3Guppies does not own or control or to people that 3Guppies does not employ or manage.
-
-**Information Collection and Use**
-
-3Guppies logs non-personally-identifiable (anonymous) information including IP address, page requests, profile information, aggregate user data, and browser type, from visitors to the site. This data is used to manage the Web site, track usage and improve the Web site services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members.
-
-You can use 3Guppies’ Web site by providing us your cell phone number and/or your cell phone carrier and model. Once you provide this information or register with 3Guppies and sign in to our services, you are not anonymous to us. 3Guppies collects personally identifiable information when you register for a 3Guppies account and when you use the service. 3Guppies may also receive personally identifiable information from our business partners. When you register with 3Guppies, we may ask for your name, email address, and cell phone number, carrier, and model. When you purchase at 3Guppies, we may ask you for credit card and other billing information. You may also be requested to provide additional information to 3Guppies after you have registered, such as personal interests, gender, education and occupation in order to assist users in finding and communicating with each other.
-
-User Profile information including members' pictures and user names are displayed to people in order to facilitate user interaction in the 3Guppies community. Your full name and cell phone number will not be revealed to others unless you choose to make this information available in your profile. Email addresses may be used to send you notifications related to the service and your account; further, you may choose to use your email address to invite new friends to join 3Guppies and to receive promotional information.
-
-From time to time, 3Guppies or a partner may sponsor a promotion, sweepstake or contest on 3Guppies’ Web site. You may be asked to provide personal information including name, email address or other information or to answer questions in order to participate. We may transfer personal information to certain ad partners if you have explicitly requested to receive information from them. It will be clear at the point of collection who is collecting the personal information and whose privacy policy will apply.
-
-In addition to processing your orders for the purchase of our services and products, we may use the information you provide to us for sending you special promotions and incentives, to customize the advertising and content you see on our pages, providing additional services, gathering demographic and website usage information, improving our website and the quality of your online visits, and in some cases, to contact you. With membership, your account is automatically set for you to receive special promotions and incentives, but you can opt out of this under My Settings.
-
-Please be aware that whenever you voluntarily post public information to the Web site, that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications.
-
-Notwithstanding any other provision of this Privacy Policy, any information 3Guppies receives from you is an asset of 3Guppies and may be transferred if 3Guppies merges with another entity, is consolidated, sells all or part of its assets, or files for bankruptcy.
-
-**Invitations and Other Communications to Non-members**
-
-On some pages, you can choose to send content to, or otherwise communicate with, a friend. In these instances, we may ask you to provide the recipient’s cell phone number, name, and/or email address. We will store this information for the sole purposes of delivering the content or message to your friend and to facilitate any further use of our services by your friend. If you choose to use our referral service to tell a friend about our site, we may ask you for your friend’s name, cell phone number, and email address. We will automatically send your friend a one-time email or text message inviting him or her to visit the site. We store this information for the sole purpose of sending this one-time message and tracking the success of our referral program. Your friend may contact us at customer-support@support.3Guppies.com to request that we remove this information from our database.
-
-**Information Sharing and Disclosure**
-
-Except as otherwise described in this privacy statement, 3Guppies will not provide your personally identifiable information to other companies or people except in the following instances: 
-
-  * We have your consent to share the information;
-  * We need to share your information to provide the product or service you have requested;
-  * We need to send the information to companies who work on behalf of 3Guppies to provide a product or service to you;
-  * We respond to judicial proceedings, court orders or legal process; or
-  * We find that your actions on our Web sites violate the 3Guppies Terms of Use, or any of our usage guidelines for specific products or services.
+  * The information may include your mobile phone number; your name and email address and certain optional information such as your birth year and zip code.
+  * If you decide to purchase content from us, we may also ask for your billing information including your billing address.
+  * We automatically receive information on our server logs from your browser, including your computer configuration (such as operating system, connection speed, and peripherals); mobile phone device information and network carrier information and the Internet IP address and URL of the website that sent you to the Myxer registration page.
+  * We also collect other optional profile data including but not limited to a display image.
+  * We collect the types of peripherals used by Myxer products on your computer.
+  * We collect demographic information provided by you (such as language, gender and age, and, if applicable, content preferences and personalization information).
+  * We collect your musical usage patterns and types of music you listen to and whether you logged into or out of a Myxer service, or changed your password or billing information.
 
 
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
+We will not sell, rent or otherwise distribute your personal information to third parties without your consent, except as set forth below. 
 
-We use a credit card processing company to bill you for goods and services. This company does not retain, share, store or use personally identifiable information for any other purposes. We use other third parties to provide marketing services, Web analytics, and Web hosting on our site. When you use our services, we will share your cell phone number, email address, and name as necessary for the third party to provide that service. These third parties are prohibited from using your personally identifiable information for any other purpose.
+## HOW DO WE USE COOKIES?
 
-We do not share, sell, rent or trade personally identifiable information with third parties for their promotional purposes.
+Myxer uses cookies to store visitors' preferences and to record session information, for purposes including ensuring that visitors are not repeatedly offered the same advertisements. Myxer uses cookies to customize newsletter, advertising, and web page content based on browser type and user profile information. Myxer uses cookies to help track usage to help us understand which parts of our website are the most popular, where our visitors are going, and how much time they spend there. 
 
-**Cookies**
+Myxer does not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences, however, you must enable cookies in order to use most functions on the Myxer website. 
 
-Your Internet browser has a feature called "cookies" which may store small amounts of data on your computer about your visit to our site. 3Guppies and its agents may set and access 3Guppies cookies on your computer. When you interact with the site, we strive to make that experience easy and meaningful. When you come to the 3Guppies site, our web server uses cookies to improve your interaction with the site by, for example, remembering your preferences. We link the information we store in cookies to personally identifiable information you submit while on our site. As such, 3Guppies uses cookies to measure your behavior on the web site, to save personal settings on specific pages, to save your username and password so that 3Guppies can quickly log you in, to make sure you are who you say you are after you've logged in, and to identify the fact that you are a 3Guppies member or a prior visitor. If you disable their Web browsers' ability to accept cookies, you will still be able to browse the web site; however, you may lose some of the functionality provided by the use of cookies. Cookies tell us nothing about who you are unless you specifically give us personally identifiable information.
+## HOW DO WE USE YOUR PERSONAL INFORMATION?
 
-3Guppies allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to 3Guppies' cookies.
+Myxer uses your mobile phone number and mobile phone device information to deliver to you mobile phone content such as ringtones, full-track music downloads, pictures, and videos.
 
-3Guppies uses web beacons to access our cookies within our network of web sites and in connection with 3Guppies products and services.
+Myxer uses your other personal information to deliver to you and bill you for Myxer products and services, and communicate with you concerning your account and customer service issues. This may include: 
 
-**Your Ability to Edit and Delete Your Account Information and Preferences**
+  * verifying authorization of credit card usage before any purchase of premium content or services; 
+  * updating you on important changes to your account such as the receipt of payments and thanks for inviting your friends.
+  * determining if you meet the minimum system requirements to use our products, and providing information concerning compatibility and interoperability to you;
+  * asking you to participate in surveys about products, services, news and events; 
+  * offering you product upgrades, content and services for you to purchase; 
+  * providing you with content, services, instructions, and a more personalized experience based on personal information, such as zip/postal code and any content or other preferences you provide; 
+  * in the case of the Myxer Desktop Agent or any other downloaded Myxer software, auto-updating that downloaded Myxer software; 
+  * providing you with news, free newsletters, updates, targeted advertising, promotions, and special offers that give you a better understanding of how our products are used. 
 
-You can change your profile at any time by logging into My 3Guppies with your user name and password. Once you have logged in, you can change your cellular phone model, cellular carrier, adult status, preferences, email address, telephone number and password. Any errors that cannot be corrected through My 3Guppies may be corrected by sending us a support request.
 
-We recognize that you may not want to receive offers or other information from 3Guppies. At any time, you may request to discontinue receiving offers or other information from us by replying to the email or regular mail you receive from us and informing us of your request. In any event, 3Guppies retains the right to communicate with you on non-promotional matters such as the status or use of your account. If you do not wish to receive any communications from 3Guppies, you can deactivate your account by contacting us at [customer-support@support.3guppies.com](mailto:customer-support@support.3guppies.com).
 
-**Privacy of Children**
+The information that makes up your "public profile" including the display name you choose to associate with your account, and an optional image you may have chosen to use to represent you, are public information that may be shared with others. In addition, information about what band "fanlists" you have joined, and what content you have recently contributed to or downloaded from Myxer are public by default. You may choose to hide this last bit of information by choosing the appropriate selections from the account preferences pages. 
 
-3Guppies is not directed to children under the age of 13 and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. We require users to be at least 14 years of age to use the web site.
+## HOW DO WE HANDLE CHILDREN’S PRIVACY CONCERNS?
 
-**Security**
+Myxer does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on any Myxer website from persons under 13 years of age, and no part of our websites is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Myxer websites or services at any time or in any manner. If Myxer learns that personally identifiable information of persons under 13 years of age has been collected on the Myxer websites without verified parental consent, then Myxer will take the appropriate steps to delete this information. 
 
-The security of your personal information is important to us. Your 3Guppies account information is password-protected for your privacy and security. Further, when you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
+## WHEN AND HOW DO WE SHARE YOUR INFORMATION WITH THIRD PARTIES?
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+Myxer does not sell, rent, or share your personal information to anyone unless you consent to provide such information. Myxer may disclose relevant information about our customers to our contractors (e.g. a customer service contractor or a credit card clearing service) in order for them to provide specific services for Myxer, and to better serve our customers. Myxer's contractors are bound by strict contractual requirements to keep all personal information they process strictly confidential and to use such information solely on behalf of Myxer. Also, Myxer may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to:
 
-If you have any questions about security on our Web site, you can send email us at [customer-support@support.3guppies.com](mailto:customer-support@support.3guppies.com).
+(a) conform to the edicts of the law or comply with legal process served on Myxer;  
+(b) protect and defend the rights or property of Myxer and its products; or   
+(c) act in urgent circumstances to protect the personal safety of users of Myxer products or the public at large.
 
-**Changes to this Privacy Policy**
+The Myxer websites and products may contain links to other websites and products. Myxer is not responsible for the privacy practices or the content of such websites or products. Please visit the privacy policies of these sites in order to understand their privacy policies and data collection practices. 
 
-We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+## CHANGES TO OUR PRIVACY POLICY
 
-**Questions or Suggestions**
+We frequently revise this Privacy Policy to keep it up to date with Myxer products, services and web pages. 
 
-If you have questions or suggestions, please send an email to [termsofuse@fishtank.3guppies.com ](mailto:termsofuse@fishtank.3guppies.com) or mail us at 3Guppies, Inc., 100 S. King St, #320, Seattle, WA 98104.
+## NO ERROR FREE PERFORMANCE
+
+We customarily release alpha and beta versions of our products, which are further refined before the release of the final version. Because these products are still in a test phase, we may not always catch an unintended privacy issue, despite our efforts to do so. As such, we welcome feedback on any privacy concerns you may have, and on how to improve our products generally, in all stages of release. Myxer does not guarantee error-free performance under this privacy policy. We will use reasonable efforts to comply with this privacy policy and will take prompt corrective action when we learn of any failure to comply with our privacy policy. Myxer shall not be liable for any incidental, consequential or punitive damages relating to this Privacy Policy. This Privacy Policy shall be governed by the laws of the United States. 
+
+If you have questions about the privacy aspects of our products or services or would like to make a complaint, please contact: [support@myxertones.com](mailto:support@myxertones.com)
+
+NOTE: mVisible®, Myxer®, MyxerTones®, MyxerTags™, MyxerCodes™, and MyxerPix™ are trademarks of Myxer Inc.  
+Last modified: January 11th, 2007 
