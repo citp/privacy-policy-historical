@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the epltalk.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630151906id_/http%3A//www.epltalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epltalk.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219014317id_/http%3A//www.epltalk.com/privacy-policy) for the most accurate reproduction.*
 
 # EPL Talk Privacy Policy | EPL Talk
 
-[](http://scripts.affiliatefuture.com/AFClick.asp?affiliateID=30305&merchantID=2544&programmeID=7010&mediaID=0&tracking=&url=http://www.subside.us.com/)[EPLTalk.com](http://www.epltalk.com/) respects your right to privacy, and we’ve created this Customer Privacy Policy (our “Privacy Policy”) to address these important issues. By visiting our Website, you are accepting the practices described in this Privacy Policy.
+[EPLTalk.com](http://www.epltalk.com/) respects your right to privacy, and we’ve created this Customer Privacy Policy (our “Privacy Policy”) to address these important issues. By visiting our Website, you are accepting the practices described in this Privacy Policy.
 
 We will collect and use personally identifiable information in the following ways:
 
@@ -33,3 +33,6 @@ If you have any questions or concerns about this Privacy Policy, or if you belie
 We may update this Privacy Policy from time to time, and if we do, we will notify you of changes by posting a notice on our Website. The changes will become effective when posted, and your continued use of any of our services, or the Website will signify your acceptance of the new terms. If you do not accept the changes, please immediately discontinue use of our services and the Website. Please check back frequently to review our Customer Privacy Policy and to stay informed about how we treat personally identifiable information that we collect.
 
 This Customer Privacy Policy is effective November 11, 2005.
+
+  
+
