@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diablomedia.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513035202id_/http%3A//www.diablomedia.com/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diablomedia.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219103118id_/http%3A//www.diablomedia.com/about_us/privacy_policy) for the most accurate reproduction.*
 
 # Diablo Media
 
@@ -26,11 +26,7 @@ We encourage you to revisit our Privacy Statement on an ongoing basis to remain 
 
 Our consumer privacy advocates may be reached via e-mail or postal mail via the contact information below:
 
-**Arizona Office**  
-10115 E. Bell Rd. Suite 107-147  
-Scottsdale, AZ 85260 USA
-
-**Colorado Office**  
+**Diablo Media, LLC**  
 1550 Larimer St. Suite 606  
 Denver, CO 80202 USA
 
@@ -39,12 +35,7 @@ F: +1 (800) 665-1879
 
 ##### Diablo Media, LLC
 
-**Arizona Office**  
-10115 E. Bell Rd. Suite 107-147  
-Scottsdale, AZ 85260 USA
-
-**Colorado Office**  
-1550 Larimer St. Suite 606  
+1553 Platte St. Suite 205  
 Denver, CO 80202 USA
 
 P: +1 (800) 368-0973  
