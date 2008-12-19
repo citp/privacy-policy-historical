@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livingsocial.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430200542id_/http%3A//www.livingsocial.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingsocial.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219042701id_/http%3A//livingsocial.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | LivingSocial
+# Privacy Policy - LivingSocial
 
 ## Privacy Policy
 
