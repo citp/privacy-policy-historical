@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hennepin.us privacy policy that was archived on 2006-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061009052632id_/http%3A//hennepin.us/vgn/portal/internet/hcdetailmaster/0%2C2300%2C1273__100004243%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hennepin.us privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219095907id_/http%3A//www.hennepin.us/portal/site/HCInternet/menuitem.3f94db53874f9b6f68ce1e10b1466498/%3Fvgnextoid%3D46a8c9ba6cf6d010VgnVCM1000000f094689RCRD) for the most accurate reproduction.*
 
 # Hennepin County
 
@@ -93,3 +93,6 @@ Hennepin County Government Center - 181
 Minneapolis, MN 55487
 
 If you would prefer to send your comments via e-mail, send to [Henn.Net@co.hennepin.mn.us](mailto:Henn.Net@co.hennepin.mn.us)
+
+  
+
