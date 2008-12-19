@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildlife-pictures-online.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511143151id_/http%3A//www.wildlife-pictures-online.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildlife-pictures-online.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219120143id_/http%3A//www.wildlife-pictures-online.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Wildlife Pictures Online and Wildlife Photography Blog
 
