@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualityunit.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629032131id_/http%3A//www.qualityunit.com/company/privacy-policy-quality-unit) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualityunit.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219164238id_/http%3A//www.qualityunit.com/company/privacy-policy-quality-unit) for the most accurate reproduction.*
 
 # Quality Unit - company pages
 
