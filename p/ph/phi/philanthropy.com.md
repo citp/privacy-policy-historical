@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philanthropy.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629061741id_/http%3A//www.philanthropy.com/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philanthropy.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219155626id_/http%3A//philanthropy.com/help/privacy.htm) for the most accurate reproduction.*
 
 # The Chronicle of Philanthropy: Privacy statement
 
@@ -58,7 +58,7 @@ _The Chronicle_ may perform statistical, demographic, and marketing analyses of 
 
 **Products and services from The Chronicle**
 
-From time to time, we may provide subscribers with information and offers about other products and services offered by _The Chronicle,_ including subscriptions, products, and services. If you do not wish to receive such information and offers, you may opt out.
+From time to time, we may provide subscribers with information and offers about other products and services offered by _The Chronicle,_ including subscriptions, products, and services. If you do not wish to receive such information and offers, you may opt out by emailing [optout@philanthropy.com](mailto:optout@philanthropy.com).
 
 **Banner advertising**
 
@@ -76,11 +76,11 @@ We will not share, sell, rent, swap, or authorize any third party to use your e-
 
 **E-mail newsletters:** _The Chronicle_ offers several e-mail newsletters. If you no longer wish to receive a specific newsletter, follow the “unsubscribe” instructions located near the bottom of each newsletter. To manage your Chronicle.com e-mail preferences, please [click here.](https://web.archive.org/services/email_lists?minimal=y)
 
-**Promotional e-mail:** _The Chronicle_ may periodically e-mail you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by either (1) following the “unsubscribe” instructions located near the bottom of each e-mail, or (2) [opting out.](https://web.archive.org/services/email_lists?minimal=y)
+**Promotional e-mail:** _The Chronicle_ may periodically e-mail you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by either (1) following the “unsubscribe” instructions located near the bottom of each e-mail, or (2) emailing us at [optout@philanthropy.com](mailto:optout@philanthropy.com).
 
 **Survey e-mail:** We may send you e-mail inviting you to participate in user surveys, asking for feedback about _The Chronicle_ or philanthropy.com and about existing or prospective products and services, as well as information to better understand our readers. Reader surveys help us to improve our Web site, and any information we obtain in such surveys will not be shared with third parties, except in aggregate form. 
 
-Occasionally, we may send you an e-mail message inviting you to participate in a third-party sponsored survey. We recommend that you review the third party's privacy policy if you have any questions about how your responses might be used.
+Occasionally, we may send you an e-mail message inviting you to participate in a third-party sponsored survey. We recommend that you review the third party's privacy policy if you have any questions about how your responses might be used. If you would not like to participate in third party surveys please email us at [optout@philanthropy.com](mailto:optout@philanthropy.com).
 
 **HTML e-mail:** We may include coding to determine whether or not readers have viewed messages. This process does not leave any information on your computer, nor does it collect information from your computer. _The Chronicle_ will share this data with others in aggregate only.
 
@@ -108,7 +108,7 @@ There are a number of things you can do in [Manage Your Account](https://web.arc
 
 **E-mail promotions**
 
-If, at any time, you prefer not to receive e-mail marketing information from us, simply follow the unsubscribe options at the bottom of each e-mail message. Or log into [Manage Your Account](https://web.archive.org/services/) and [change your e-mail settings.](https://web.archive.org/services/email_lists?minimal=y)
+If, at any time, you prefer not to receive e-mail marketing information from us, simply follow the unsubscribe options at the bottom of each e-mail message, or email us at [optout@philanthropy.com](mailto:optout@philanthropy.com).
 
 If you experience difficulty with the process, feel free to contact us at [help@philanthropy.com](mailto:help@philanthropy.com) and provide your e-mail address along with the name of the newsletter from which you would like to unsubscribe.
 
