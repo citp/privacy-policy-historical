@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the athensams.net privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511192638id_/http%3A//www.athensams.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the athensams.net privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219083641id_/http%3A//www.athensams.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -20,7 +20,7 @@ When an Athens account is created, the registered user is required to provide a 
 
 This personal data is held by Eduserv in a database on servers located at Eduserv principal place of business and not less than two other locations within the United Kingdom. The personal data held may include name, organisational identifier, department, email address, username, role and other relevant information which Eduserv requires to provide the Athens service.
 
-Personal information about your account is made available to Athens systems administrators via the Athens Administration Interface. It may be used by the administrator to identify and contact the individual and to generate statistics about usage of Athens accounts. Athens systems administrators are appointed by their organisation to perform this role, and are subject to [Athens Terms and Conditions](https://web.archive.org/terms_and_conditions), which include a requirement to meet appropriate privacy legislation.
+Personal information about your account is made available to Athens systems administrators via the Athens Administration Interface. It may be used by the administrator to identify and contact the individual and to generate statistics about usage of Athens accounts. Athens systems administrators are appointed by their organisation to perform this role, and are subject to [Athens Terms and Conditions](https://web.archive.org/athens/terms_and_conditions.aspx), which include a requirement to meet appropriate privacy legislation.
 
 2.2. Registered users (local authentication)
 
