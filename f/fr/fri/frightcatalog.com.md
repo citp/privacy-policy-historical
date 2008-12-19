@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the frightcatalog.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612101026id_/http%3A//www.frightcatalog.com/Site/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frightcatalog.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219151214id_/http%3A//www.frightcatalog.com/Site/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Policy as of 6/12/2008
+Policy as of 12/19/2008
 
 The Fright Catalog values its customers and respects their privacy. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. When you visit any website, your computer exchanges information with other computers. The Fright Catalog recognizes that it must maintain and use customer information responsibly. Therefore, we support your right to decide what information you share and how it is used. If you ever have a question about your privacy please email us at [service@frightcatalog.com](mailto:service@frightcatalog.com) or fill out our online [contact form](https://web.archive.org/Assistance/ContactUs).
 
@@ -23,4 +23,4 @@ We use information you provide about yourself when placing an order only to comp
 
 ## Corrections and Removal
 
-Please contact our customer service representatives at 1-888-437-4448 or email at [service@frightcatalog.com](https://web.archive.org/web/20080612101026id_/http://www.frightcatalog.com/Site/PrivacyPolicy/service@frightcatalog.com) or fill out our online [contact form](https://web.archive.org/Assistance/ContactUs) if corrections are necessary or you wish not to receive advertisements in the mail. If you have subscribed to our email newsletter and would like to be removed, please go to our [unsubscribe page](https://web.archive.org/Assistance/Unsubscribe?emsrc=mm).
+Please contact our customer service representatives at 1-888-437-4448 or email at [service@frightcatalog.com](https://web.archive.org/web/20081219151214id_/http://www.frightcatalog.com/Site/PrivacyPolicy/service@frightcatalog.com) or fill out our online [contact form](https://web.archive.org/Assistance/ContactUs) if corrections are necessary or you wish not to receive advertisements in the mail. If you have subscribed to our email newsletter and would like to be removed, please go to our [unsubscribe page](https://web.archive.org/Assistance/Unsubscribe?emsrc=mm).
