@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the namesbeyond.com privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516203205id_/http%3A//www.namesbeyond.com/pages/additionaldocs/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namesbeyond.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219122515id_/https%3A//www.namesbeyond.com/pages/additionaldocs/privacypolicy.php) for the most accurate reproduction.*
 
-# Names Beyond a leading ICANN accredited registrar. domain names, web hosting , web development , domain transfer, domain renewal, email services
+# Register your domain name, Create your web site, Host your web site, Email services
 
 | 
 
