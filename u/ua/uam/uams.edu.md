@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uams.edu privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612015809id_/http%3A//www.uams.edu/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uams.edu privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219064740id_/http%3A//www.uams.edu/legal/privacy.asp) for the most accurate reproduction.*
 
 # UAMS Online Privacy Statement - University of Arkansas for Medical Sciences - Where Medicine Lives
 
