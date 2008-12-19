@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zap2it.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617032247id_/http%3A//www.zap2it.com/services/site/zap-privacy-policy%2C0%2C7712844.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zap2it.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219132602id_/http%3A//www.zap2it.com/services/site/zap-privacy-policy%2C0%2C7712844.story) for the most accurate reproduction.*
 
 # Privacy policy - Zap2it
 
