@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the anz.com privacy policy that was archived on 2008-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509160737id_/http%3A//www.anz.com./Help/ANZs-Web-Site/ANZ-Web-Site-Security-And-Privacy-Statement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the anz.com privacy policy that was archived on 2008-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219092247id_/http%3A//www.anz.com/Help/ANZs-Web-Site/ANZ-Web-Site-Security-And-Privacy-Statement.asp) for the most accurate reproduction.-->
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="stylesheet" href="/common/css/new/layout.css" type="text/css" media="screen, projection">
@@ -85,28 +85,28 @@ function openPopupWindow(url, name, width, height, returnWindow)
 <script language="javascript" type="text/javascript">
 
 function openPopupLocator(country,url)
- { 
+ {
  //Passing the URL as argument is optional. However country is compulsory
 	var height,width;
 	 if(!(country==null)&&!(country==""))
 		country=country.toUpperCase();
 		switch(country)
 		{ 
-			case 'AUS': width="900";height="700"; 
+			case 'AUS': width="760";height="645";
 				       if ((url==null)||(url==""))
-						url='/australia/aboutanz/anzservices/anzlocator/';		   				   	
+						url='/australia/aboutanz/anzservices/anzlocator/';
 				       break;
-		    case 'NZ': width="760";height="645"; 
+		    case 'NZ': width="760";height="645";
 				       if ((url==null)||(url==""))
-						url='/nz/tools/nzlocator/';
+						url='http://www.anz.co.nz/tools/nzlocator/';
 				       break;
-			default:   width="600";height="500"; 
-										  
+			default:   width="600";height="500";
 		}
 		
+		//changed to open locator in current browser window instead of pop-up
 		if (!(url==null)&&!(url==""))
-			openPopupWindow(url,'locator',width,height,false);
-	 } 
+			document.location = url;
+	 }
  
 </script> 
 
@@ -143,7 +143,8 @@ function tpconfirm(windowURL, windowName, options, windowPopup)
 	}
 	else return;
 }
-</script>		<ul id="access" class="horizontallist pipedlist nonvisual">
+</script><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<ul id="access" class="horizontallist pipedlist nonvisual">
 			
 			<li>
 				<a id="contentlink" href="#contentstart" accesskey="2" title="Go directly to the content by skipping over the navigation" tabindex="2">skip to main content</a>
@@ -184,7 +185,7 @@ function tpconfirm(windowURL, windowName, options, windowPopup)
 <h2 class="nonvisual">The ANZ website contains the following categories:</h2>
 <ul id="tabs">
 <li id="tabs-personal" onclick="personalClick()"><a href="/default.asp"><span>Personal</span></a></li>
-<li id="tabs-business"><a href="/aus/ANZ-Business-Banking/default.asp"><span>Business</span></a></li>
+<li id="tabs-business"><a href="/aus/Small-Business/default.asp"><span>Small Business</span></a></li>
 <li id="tabs-corporate"><a href="/aus/corporate/default.asp"><span>Corporate</span></a></li>
 <li id="tabs-aboutanz" class="currentfirstlevel"><a href="/aus/about-ANZ/default.asp"><span>About ANZ<em class="nonvisual"> (current category)</em></span></a></li>
 </ul>
@@ -192,10 +193,10 @@ function tpconfirm(windowURL, windowName, options, windowPopup)
 <div id="secondary-nav">
 <h3 class="nonvisual">The About ANZ category contains the following sections:</h3>
 <ul id="tabs-subnav" class="horizontallist">
-<li><a href="/australia/aboutanz/default.asp">Our Company</a></li>
+<li><a href="/aus/about-anz/our-company/default.asp">Our Company</a></li>
 <li><a href="/aus/shares/default.asp">Shareholders</a></li>
 <li><a href="/aus/careers/default.asp">Careers</a></li>
-<li><a href="/aus/values/default.asp">Corporate Responsibility</a></li>
+<li><a href="/aus/about-anz/corporate-responsibility/default.asp">Corporate Responsibility</a></li>
 </ul>
 </div>
 
@@ -203,37 +204,53 @@ function tpconfirm(windowURL, windowName, options, windowPopup)
 		</div>
     	<div style="clear:both;"></div>
 	</div>
-	<div id="anzglobalbackground" style="background: url(&quot;/common/img/mh/mh_background.gif&quot;) 0% 0% repeat-x scroll transparent;">
+	<div id="anzglobalbackground">
 
 	<table cellpadding="0" cellspacing="0" border="0" width="780">
 	<tbody><tr>
 		<td valign="top" width="204" bgcolor="#ffffff">
 			<div id="navWrapper">
 <div id="LHNtoppanel"></div>
-<div id="navigation"><script type="text/javascript">
-          document.getElementById( "navigation" ).style.textIndent = "-999em";
-        </script><h2>In this section</h2>
+<div id="navigation">
+<noscript>
+<style>
+						#navigation ul.hide_nav {
+							display:block;
+						}
+						
+						#navigation a.anznav_openwidget div.anznav_widget_image {
+							background: none;
+						}
+						
+						#navigation a.anznav_closewidget div.anznav_widget_image {
+							background: none;
+						}
+					</style>
+</noscript>
+<h2>In this section</h2>
 <ul>
-<li class="anznav_thirdlevel"><a class="anznav_widget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a href="/Help/default.asp" class="navlink">Help</a></li>
-<li class="anznav_thirdlevel"><a class="anznav_widget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a href="/aus/IB/TSQuest4.asp" class="navlink">Software Settings</a></li>
-<li class="anznav_thirdlevel"><a class="anznav_widget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a href="/Help/Screen-Resolution.asp" class="navlink">Screen Resolution</a></li>
-<li class="anznav_thirdlevel"><a class="anznav_widget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a href="/Help/Set-Your-Home-page.asp" class="navlink">Set Your Homepage</a></li>
-<li class="anznav_thirdlevel"><a class="anznav_widget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a href="/Help/Downloads.asp" class="navlink">Downloads</a></li>
-<li class="anznav_thirdlevel"><a class="anznav_widget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a href="/Help/Demonstrations.asp" class="navlink">Demonstrations</a></li>
-<li class="anznav_thirdlevel anznav_expandable"><a class="anznav_widget anznav_closewidget" href="javascript:void(0);" title="Click to expand or contract"><img src="/common/navbar/aus/img/plus.gif" width="7" vspace="5" hspace="6" border="0" alt="Click to expand or contract"></a><a href="/Help/Glossaries-Of-Terms/default.asp" class="navlink">Glossaries of Terms</a><ul style="display: none;">
-<li><a class="anznav_widget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a href="/Help/Glossaries-Of-Terms/Investment-Terms.asp">Investment Terms</a></li>
-<li><a class="anznav_widget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a href="/Help/Glossaries-Of-Terms/Housing-Terms.asp">Housing Terms</a></li>
-<li><a class="anznav_widget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a href="/Help/Glossaries-Of-Terms/Real-Estate-Terms.asp">Real Estate Terms</a></li>
-<li><a class="anznav_widget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a href="/Help/Glossaries-Of-Terms/Financial-Terms.asp">Financial Terms</a></li>
+<li class="anznav_thirdlevel"><a class="anznav_widget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a class="anznav_widget"><div class="anznav_widget_image"></div></a><a href="/Help/default.asp" class="navlink">Help</a></li>
+<li class="anznav_thirdlevel"><a class="anznav_widget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a class="anznav_widget"><div class="anznav_widget_image"></div></a><a href="/aus/IB/TSQuest4.asp" class="navlink">Software Settings</a></li>
+<li class="anznav_thirdlevel"><a class="anznav_widget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a class="anznav_widget"><div class="anznav_widget_image"></div></a><a href="/Help/Screen-Resolution.asp" class="navlink">Screen Resolution</a></li>
+<li class="anznav_thirdlevel"><a class="anznav_widget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a class="anznav_widget"><div class="anznav_widget_image"></div></a><a href="/Help/Set-Your-Home-page.asp" class="navlink">Set Your Homepage</a></li>
+<li class="anznav_thirdlevel"><a class="anznav_widget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a class="anznav_widget"><div class="anznav_widget_image"></div></a><a href="/Help/Downloads.asp" class="navlink">Downloads</a></li>
+<li class="anznav_thirdlevel"><a class="anznav_widget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a class="anznav_widget"><div class="anznav_widget_image"></div></a><a href="/Help/Demonstrations.asp" class="navlink">Demonstrations</a></li>
+<li class="anznav_thirdlevel anznav_expandable"><a class="anznav_widget anznav_closewidget" href="javascript:void(0);" title="Click to expand or contract"><img src="/common/navbar/aus/img/plus.gif" width="7" vspace="5" hspace="6" border="0" alt="Click to expand or contract"></a><a href="javascript:void(0);" title="Click to expand or contract" class="anznav_widget anznav_closewidget" onclick="$(this).toggleClass('anznav_closewidget').toggleClass('anznav_openwidget').siblings('ul').slideToggle('fast');"><div class="anznav_widget_image"></div></a><a href="/Help/Glossaries-Of-Terms/default.asp" class="navlink">Glossaries of Terms</a><ul class="hide_nav" style="display: none;">
+<li><a class="anznav_widget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a class="anznav_widget"><div class="anznav_widget_image"></div></a><a href="/Help/Glossaries-Of-Terms/Investment-Terms.asp">Investment Terms</a></li>
+<li><a class="anznav_widget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a class="anznav_widget"><div class="anznav_widget_image"></div></a><a href="/Help/Glossaries-Of-Terms/Housing-Terms.asp">Housing Terms</a></li>
+<li><a class="anznav_widget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a class="anznav_widget"><div class="anznav_widget_image"></div></a><a href="/Help/Glossaries-Of-Terms/Real-Estate-Terms.asp">Real Estate Terms</a></li>
+<li><a class="anznav_widget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a class="anznav_widget"><div class="anznav_widget_image"></div></a><a href="/Help/Glossaries-Of-Terms/Financial-Terms.asp">Financial Terms</a></li>
 </ul>
 </li>
-<li class="anznav_thirdlevel anznav_expandable anznav_currentthirdlevel"><a class="anznav_widget anznav_openwidget" href="javascript:void(0);" title="Click to expand or contract"><img src="/common/navbar/aus/img/minus.gif" width="7" vspace="5" hspace="6" border="0" alt="Click to expand or contract"></a><a href="/Help/ANZs-Web-Site/default.asp" class="navlink">ANZ's Web Site</a><ul style="display: block;">
-<li><a class="anznav_widget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a href="/Help/ANZs-Web-Site/Web-Site-Terms-Of-Use.asp">Web Site Terms of Use</a></li>
-<li><a class="anznav_widget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a href="/Help/ANZs-Web-Site/About-This-Site.asp">About this site</a></li>
-<li class="anznav_currentfourthlevel"><a class="anznav_widget anznav_openwidget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a class="currentPage">ANZ Web Site Security and Privacy Statement<em class="nonvisual"> (you are here)</em></a></li>
+<li class="anznav_thirdlevel anznav_expandable anznav_currentthirdlevel"><a class="anznav_widget anznav_openwidget" href="javascript:void(0);" title="Click to expand or contract"><img src="/common/navbar/aus/img/minus.gif" width="7" vspace="5" hspace="6" border="0" alt="Click to expand or contract"></a><a href="javascript:void(0);" title="Click to expand or contract" class="anznav_widget anznav_openwidget" onclick="$(this).toggleClass('anznav_closewidget').toggleClass('anznav_openwidget').siblings('ul').slideToggle('fast');"><div class="anznav_widget_image"></div></a><a href="/Help/ANZs-Web-Site/default.asp" class="navlink">ANZ's Web Site</a><ul class="display_nav" style="display: block;">
+<li><a class="anznav_widget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a class="anznav_widget"><div class="anznav_widget_image"></div></a><a href="/Help/ANZs-Web-Site/Web-Site-Terms-Of-Use.asp">Web Site Terms of Use</a></li>
+<li><a class="anznav_widget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a class="anznav_widget"><div class="anznav_widget_image"></div></a><a href="/Help/ANZs-Web-Site/About-This-Site.asp">About this site</a></li>
+<li class="anznav_currentfourthlevel"><a class="anznav_widget anznav_openwidget"><img src="/common/img/misc/trans_dot.gif" width="7" vspace="5" hspace="6" border="0"></a><a class="anznav_widget anznav_openwidget"><div class="anznav_widget_image"></div></a><a class="currentPage">ANZ Web Site Security and Privacy Statement<em class="nonvisual"> (you are here)</em></a></li>
 </ul>
 </li>
-</ul></div></div>
+</ul>
+</div>
+</div>
 
 
 <script language="javascript" type="text/javascript">
@@ -294,28 +311,28 @@ function openPopupWindow(url, name, width, height, returnWindow)
 <script language="javascript" type="text/javascript">
 
 function openPopupLocator(country,url)
- { 
+ {
  //Passing the URL as argument is optional. However country is compulsory
 	var height,width;
 	 if(!(country==null)&&!(country==""))
 		country=country.toUpperCase();
 		switch(country)
 		{ 
-			case 'AUS': width="900";height="700"; 
+			case 'AUS': width="760";height="645";
 				       if ((url==null)||(url==""))
-						url='/australia/aboutanz/anzservices/anzlocator/';		   				   	
+						url='/australia/aboutanz/anzservices/anzlocator/';
 				       break;
-		    case 'NZ': width="760";height="645"; 
+		    case 'NZ': width="760";height="645";
 				       if ((url==null)||(url==""))
-						url='/nz/tools/nzlocator/';
+						url='http://www.anz.co.nz/tools/nzlocator/';
 				       break;
-			default:   width="600";height="500"; 
-										  
+			default:   width="600";height="500";
 		}
 		
+		//changed to open locator in current browser window instead of pop-up
 		if (!(url==null)&&!(url==""))
-			openPopupWindow(url,'locator',width,height,false);
-	 } 
+			document.location = url;
+	 }
  
 </script> 
 
@@ -330,8 +347,12 @@ function openPopupLocator(country,url)
 				<td>
 					
 	<link href="/common/css/new/masthead.css" rel="stylesheet" type="text/css">
-	<div id="contentstart" class="mastheadbackground"><div class="masthead" style="background:url('/common/img/mh/mh_anzwebsite_aus.gif') no-repeat;"><h2>ANZ's Web Site</h2></div></div>
-	<script>document.getElementById('anzglobalbackground').style.background = 'transparent url(/common/img/mh/mh_background.gif) repeat-x scroll 0% 0%';</script>
+	<div id="contentstart" class="mastheadbackground">
+		<div class="masthead" style="background:url('/common/img/mh/mh_anzwebsite_aus.gif') no-repeat;">
+			<h2>ANZ's Web Site</h2>
+		</div>
+	</div>
+	<!--<script>document.getElementById('anzglobalbackground').style.background = 'transparent url(/common/img/mh/mh_background.gif) repeat-x scroll 0% 0%';</script>-->
 
 				</td>	
 			</tr>
@@ -489,15 +510,18 @@ function openPopupLocator(country,url)
 		In addition, ANZ also uses the following companies to collect information on how you utilise the ANZ website:<br>
 		<ul>
 			<li>Nielsen//NetRatings</li> 
+			<li>Omniture</li>
 		</ul>
 		('tracking companies'). These tracking companies also use cookies to collect information similar to that collected by the advertising company.<br><br>
-		The advertising company and tracking companies ('companies') use that information to perform statistical analyses of aggregate user behaviour, but those analyses are not based on personal information. ANZ uses those analyses to measure advertising effectiveness and relative consumer interest in the various areas of the ANZ website. As a general rule, no personal information is collected by the Companies in this process. If, however, any information is automatically collected, these companies are required under their arrangements with ANZ to maintain the privacy and confidentiality of that personal information.<br><br>
-		We may disclose the information collected by a Company, in an aggregate form only, to third parties including advertisers or potential advertisers.<br><br>
+		The advertising company and tracking companies ('companies') use that information to perform statistical analyses of aggregate user behaviour, but those analyses are not based on personal information. ANZ uses those analyses to measure advertising effectiveness and relative consumer interest in the various areas of the ANZ website. As a general rule, no personal information is collected by the Companies in this process. If, however, any information is automatically collected, these companies are required under their arrangements with ANZ to maintain the privacy and confidentiality of that personal information. <br><br>
+		We may disclose the information collected by a Company, in an aggregate form only, to third parties including advertisers or potential advertisers. <br><br>
 		You can <a href="javascript:tpconfirm('http://www.doubleclick.net/us/corporate/privacy/opt-out.asp?asp_object_1=&amp;','OptOut','',true)">opt-out of DoubleClick cookies</a>. This opt-out is applicable to DoubleClick tracking your current browser throughout DoubleClick's network of websites, including the ANZ website.<br><br>  
 		<a href="javascript:tpconfirm('http://www.netratings.com/privacy.jsp?section=leg_scs ','netratings','',true)">Find out more about Nielsen//NetRatings</a>.<br><br>
+		<a href="javascript:tpconfirm('http://www.omniture.com/en/privacy','netratings','',true)">Find out more about Omniture</a>.<br><br>
 		You can access the Privacy Statements from the Companies here:<br>
 		<ul>
 			<li><a href="javascript:tpconfirm('http://www.netratings.com/privacy.jsp?section=leg_scs ','netratings','',true)">Nielsen//NetRatings</a></li>
+			<li><a href="javascript:tpconfirm('http://www.omniture.com/en/privacy','netratings','',true)">Omniture</a></li>
 		</ul>
 	</td>
 </tr>
@@ -614,6 +638,7 @@ function openPopupLocator(country,url)
 </tr>
 </tbody></table>
 
+
 				</td>
 			</tr>
 			</tbody></table>
@@ -628,22 +653,71 @@ function openPopupLocator(country,url)
 
 <div id="footer">
 <span name="NOINDEX">
+
+
+
 <p>©
 <!-- BeginNoIndex -->
 
+
 	Copyright Australia and New Zealand Banking Group Limited (ANZ) 100 Queen Street, Melbourne 3000, ABN 11 005 357 522, 1996-2008.
     ANZ's colour blue is a trade mark of ANZ. Any advice does not take into account your personal needs and financial circumstances and you should consider whether it is appropriate for you.<br>
-	ANZ recommends you read the <a href="/aus/RateFee/default.asp#FTPDS">Product Disclosure Statement</a> and the <a href="/documents/AU/aboutANZ/FinancialServicesGuide.pdf">Financial Services Guide</a> before acquiring the product.
+	ANZ recommends you read the <a href="/aus/RateFee/default.asp">Product Disclosure Statement</a> and the <a href="/documents/AU/aboutANZ/FinancialServicesGuide.pdf">Financial Services Guide</a> before acquiring the product.
 
 </p>
 <ul class="horizontallist pipedlist">
 	<li><a href="/Help/ANZs-Web-Site/default.asp" target="_blank">Web Site Terms of Use</a></li>
 	<li><a href="/Help/ANZs-Web-Site/ANZ-Web-Site-Security-And-Privacy-Statement.asp" target="_blank">ANZ Web Site Security and Privacy Statement</a></li>
-	<li class="lastlistitem"><a href="/Site-Map/default.asp" target="_blank">Site Map</a></li>
+	<li><a href="/Site-Map/default.asp" target="_blank">Site Map</a></li>
+	<li class="lastlistitem"><a href="/aus/careers/" target="_blank">Jobs at ANZ</a></li>
 </ul>
 
 <!-- EndNoIndex -->
 
+	<!-- begin Omniture Tracking -->
+	
+<!-- SiteCatalyst code version: H.15.1.
+Copyright 1997-2008 Omniture, Inc. More info available at
+http://www.omniture.com -->
+
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="/common/code/js/s_code.js"></script>
+
+
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+/* s.pageName=""
+s.server=""
+s.channel=""
+s.prop1=""
+s.prop2=""
+s.prop3=""
+s.prop4=""
+s.prop5=""
+/* Conversion Variables */
+/* s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+/* Hierarchy Variables */
+/*s.hier1="" */
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://info.anz.com/b/ss/anzcomprd/1/H.15.1--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.15.1. -->
+
+	<!-- End Omniture Tracking -->
+	
 	<!-- START Nielsen//NetRatings SiteCensus V5.3 -->
 	<!-- COPYRIGHT 2007 Nielsen//NetRatings -->
 
