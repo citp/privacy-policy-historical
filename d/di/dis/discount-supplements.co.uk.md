@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discount-supplements.co.uk privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622015823id_/http%3A//www.discount-supplements.co.uk/shopcontent.asp%3Ftype%3DdsPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discount-supplements.co.uk privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219030419id_/http%3A//www.discount-supplements.co.uk/shopcontent.asp%3Ftype%3DdsPrivacy) for the most accurate reproduction.*
 
-# Sports Supplements, Sports Nutrition, Bodybuilding Supplements at Discount Prices - Privacy Policy
+# Supplements | Protein | Creatine | Whey | Privacy Policy
 
 **Who We Are?  
 **  
@@ -32,9 +32,9 @@ We would also like to inform you of various promotions, goods and services that 
 
  **Your Rights  
 **  
-1\. You can ask us to update your personal information by emailing precise details of your request to us [here](https://web.archive.org/shopcontent.asp?type=contactTypes). Please ensure you type "update" in the subject line of your email. 
+1\. You can ask us to update your personal information by emailing precise details of your request to us [here](https://web.archive.org/contact_us.asp). Please ensure you type "update" in the subject line of your email. 
 
-2\. You can ask us not to send you future marketing communications. To do this, simply email us [here](http://www1.discount-supplements.co.uk/shopcontent.asp?type=contactTypes). Type "No Marketing" in the subject line and then the following in the main text:-   
+2\. You can ask us not to send you future marketing communications. To do this, simply email us [here](https://web.archive.org/contact_us.asp). Type "No Marketing" in the subject line and then the following in the main text:-   
 your postal address, including postcode, your email address  
 We will then suppress your data from all direct marketing, although we will still keep it for processing your order and fulfilling customer service and after sale obligations.  
 Alternatively, you can post your request to the address in (3) below. 
