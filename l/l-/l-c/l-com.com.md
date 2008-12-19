@@ -1,22 +1,12 @@
-> *The following text is extracted and transformed from the l-com.com privacy policy that was archived on 2002-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021009150011id_/http%3A//www.l-com.com/content/Customer/Customermain.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the l-com.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219142111id_/http%3A//www.l-com.com/content/FAQ.aspx%3FType%3DFAQ%26ID%3D13) for the most accurate reproduction.*
 
-# L-com Connectivity Products - Cable Assemblies, Adapters, Connectors and More
+# L-com - What is your privacy policy?
 
-|  |  |  | 
+We collect the mail address, e-mail address, and phone information of those who communicate with us via written correspondence, e-mail, phone calls, and information volunteered by the customer such as survey information and/or site registration. 
 
-  
-We collect the mail address, email address, and phone information of those who communicate with us via written correspondence, email, phone calls, and information volunteered by the customer such as survey information and/or site registration. 
+The information that you give us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. This information may also be shared with other marketers to bring you offers of interest. If you prefer that we do not share your name and address with other marketers, please e-mail us at [update@L-com.com](mailto:update@l-com.com "mailto:update@l-com.com") or write us at the address below.
 
-The information we collect is **confidential** and **we do not share or rent your information with other organizations.**
-
-The information we collect is used to improve the content of our web page and printed material. We also use this information to contact customers for marketing purposes. If you do not want to receive promotional material by mail or e-mail from us in the future, please let us know by email, written correspondence or phone. Our company information is listed below. Please tell us that you do not want to receive any promotional materials from our company and provide us with your full name, company, and full address information. If you do not provide complete information we can not guarantee that your name will be removed. We will, however, do our best to remove you from all promotional materials. 
-
-Email: [update@L-com.com](mailto:update@L-com.com)  
-Fax: 978-689-9484 
-
-Address:  
 L-com, Inc.  
-Attn: Mail Manager  
+Attn: Mailroom Manager  
 45 Beechwood Drive  
-North Andover, MA 01845  
-
+North Andover, MA 01845
