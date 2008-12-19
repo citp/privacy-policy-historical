@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fileqube.com privacy policy that was archived on 2008-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080419124654id_/http%3A//www.fileqube.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileqube.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219102127id_/http%3A//www.fileqube.com/privacy.html) for the most accurate reproduction.*
 
-# Free Online Storage - File Qube
+# File Qube - Free Online Storage
 
 ## Logging IP Addresses
 
