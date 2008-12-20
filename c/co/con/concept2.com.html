@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the concept2.com privacy policy that was archived on 2008-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080519213500id_/http%3A//concept2.com/us/company/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the concept2.com privacy policy that was archived on 2008-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220013340id_/http%3A//www.concept2.com/us/company/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <title>Concept2: Privacy Policy</title>
@@ -13,7 +13,7 @@
 	<link rel="stylesheet" href="/us/css/navigation.css" type="text/css">
 
 
-<script type="text/javascript" src="/us/js/jquery-1.2.3.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
 
  <!--[if lte IE 6]>
     <script type="text/javascript" src="/us/js/menu.js"></script>
@@ -35,9 +35,25 @@ function siteselect(targ,selObj,restore){
 	}
 
       jQuery(document).ready(function() {
-        jQuery('.toggler').click(function() {
+        jQuery('.toggler2').click(function() {
           jQuery(this).next().slideToggle('normal');
         });
+		
+		
+		jQuery(".toggler").toggle(function(){
+			jQuery(this).css({backgroundImage:"url(http://www.concept2.com/us/images/blue-arrowonly-down.png)",borderBottom:"0",backgroundColor:"#4473AB",color:"#fff"});
+			jQuery(this).next().slideDown("fast");
+		},function(){
+			jQuery(this).next().slideToggle("fast");
+  			jQuery(this).css({backgroundImage:"url(http://www.concept2.com/us/images/blue-arrowonly-right.png)",borderBottom:"1px solid #4473AB",backgroundColor:"#b7c8d8",color:"#000"});
+		}).next().hide();
+
+		
+		jQuery(".expander").click(function() {
+ 		  var expand = jQuery(this).attr("rel");
+  			jQuery("#"+expand).slideToggle();
+		 }); 
+
       
 	  	        
     
@@ -68,8 +84,19 @@ function siteselect(targ,selObj,restore){
  	
   <div id="wrapper">	
  	<div id="topnav">
-           <a href="/us/company/contact/default.asp">Contact Us</a> | <a href="/us/company/sitemap.asp">Site Map</a> | <a href="http://www.concept2cts.com"><b>Concept2 Commercial</b></a> 
-  	</div>
+        	<div id="search_box">
+		    	<form id="search_form" method="get" action="http://search.atomz.com/search/">
+				<input type="hidden" name="sp-a" value="sp10032de9">
+				<input type="hidden" name="sp-p" value="all">
+				<input type="hidden" name="sp-f" value="ISO-8859-1">
+				<input type="hidden" name="sp-t" value="concept2">
+				<input type="hidden" name="sp-k" value="Concept2">
+        		<input type="text" id="search" class="search" value="Search" name="sp-q">
+        		<input type="image" src="/us/images/search_icon_small.gif" width="19" height="19" id="go" alt="Search" title="Search">
+    			</form>
+			</div>
+			<div id="topnavlinks"><span class="phone">800.245.5676</span> | <a href="/us/company/contact/default.asp">Contact Us</a> | <a href="/us/company/sitemap.asp">Site Map</a> | </div>
+	</div>
 	<div id="page">
 
 		<div id="header">
@@ -86,8 +113,6 @@ function siteselect(targ,selObj,restore){
         	<ul>
 	<li><a href="/us/indoorrowers/default.asp">Indoor Rowers</a>
 		<ul>
-					<li><a href="/us/indoorrowers/benefits.asp">Benefits of Rowing</a></li>
-					<li><a href="/us/indoorrowers/choose_c2.asp">Why Choose Concept2?</a></li>
 					<li><a href="/us/indoorrowers/d_home.asp">Model D</a></li>
 					<li><a href="/us/indoorrowers/e_home.asp">Model E</a></li>
 					<li><a href="/us/indoorrowers/d_e_compare.asp">D/E Compare</a></li>
@@ -96,6 +121,8 @@ function siteselect(targ,selObj,restore){
 							<li><a href="/us/indoorrowers/monitors/pm4.asp">PM4</a></li>
 							<li><a href="/us/indoorrowers/monitors/pm3.asp">PM3</a></li>
 							<li><a href="/us/indoorrowers/monitors/pm3_pm4_compare.asp">PM3/PM4 Compare</a></li>
+							<li><a href="/us/indoorrowers/monitors/retrofits.asp">Retrofitting</a></li>
+
 						</ul>
 					</li>
             		<li><a href="/us/indoorrowers/accessories/" class="daddy">Accessories</a>
@@ -105,55 +132,52 @@ function siteselect(targ,selObj,restore){
 							<li><a href="/us/indoorrowers/accessories/otheraccessories.asp">Other</a></li>
 						</ul>
 					</li>	
+					<li><a href="/us/indoorrowers/benefits.asp">Benefits of Rowing</a></li>
+					<li><a href="/us/indoorrowers/choose_c2.asp">Why Choose Concept2?</a></li>	
 					<li><a href="/us/indoorrowers/order_ship.asp">Ordering &amp; Shipping</a></li>
 					<li><a href="/us/indoorrowers/brochure_request.asp">Request Brochure</a></li>
 		</ul>
        </li>     
        <li><a href="/us/oars/default.asp">Oars</a>
 						<ul>
-							<li><a href="/us/oars/coach/default.asp">What's Best for My Crew?</a></li>
 							<li><a href="/us/oars/pursuit/default.asp" class="daddy">Efficient Blades</a>
 								<ul>
 									<li><a href="/us/oars/pursuit/blade_path.asp">The Path of the Blade Through the Water</a></li>
 									<li><a href="/us/oars/pursuit/blade_spectrum.asp">Oar Loading Profiles</a></li>
 									<li><a href="/us/oars/pursuit/oar_testing.asp">On-Water Testing Results</a></li>
+									<li><a href="/us/oars/pursuit/vortexedge.asp">Vortex Edge</a></li>							
+									<li><a href="/us/oars/selection/blades/blades.asp">Blade Options</a></li>
 								</ul>
 							</li>
+							<li><a href="/us/oars/coach/default.asp">What's Best for My Crew?</a></li>
+
 							<li><a href="/us/oars/selection/default.asp" class="daddy">Ordering Info</a>
 								<ul>
 									<li><a href="/us/oars/selection/default.asp">Ordering Oars</a></li>
 									<li><a href="/us/oars/selection/scull_ordering_guide.asp">Scull Ordering Guide</a></li>
 									<li><a href="/us/oars/selection/sweep_ordering_guide.asp">Sweep Ordering Guide</a></li>
-									<li><a href="/us/oars/selection/blades.asp">Blades</a></li>
+									<li><a href="/us/oars/selection/blades/blades.asp">Blades</a></li>
 									<li><a href="/us/oars/selection/shafts.asp">Shafts</a></li>
 									<li><a href="/us/oars/selection/scull_grips.asp">Scull Handles &amp; Grips</a></li>
 									<li><a href="/us/oars/selection/sweep_handles.asp">Sweep Handles &amp; Grips</a></li>
 									<li><a href="/us/oars/selection/oarlength.asp">Oar Length</a></li>
-									<li><a href="/us/oars/selection/fsoars.asp">Reduced Price Sweep Oars</a></li>
+									<li><a href="/us/oars/selection/fsoars.asp">Reduced Price Oars</a></li>
 								</ul>
 							</li>
 							<li><a href="/us/oars/related_products/default.asp" class="daddy">Related Products</a>
 								<ul>
 									<li><a href="/us/oars/related_products/scullcase.asp">Scull Case</a></li>
+									<li><a href="/us/oars/related_products/scullgrips.asp">Scull Grips</a></li>
 									<li><a href="/us/oars/related_products/Oarlocks.asp">Oarlocks</a></li>
 									<li><a href="/us/oars/related_products/clams.asp">C.L.A.M.S.</a></li>
 									<li><a href="/us/oars/related_products/pitchfixture.asp">Pitch Fixture</a></li>
+									<li><a href="/us/oars/related_products/otheroarparts.asp">Other Oar Parts</a></li>
 								</ul>
 							</li>
-							<li><a href="/us/oars/maintenance/default.asp" class="daddy">Care &amp; Maintenance</a>
-								<ul>
-									<li><a href="/us/oars/maintenance/default.asp">Oar Care &amp; Maintenance</a></li>
-									<li><a href="/us/oars/maintenance/painting_blades.asp">Painting Blades</a></li>
-									<li><a href="/us/oars/maintenance/oarlength.asp">Setting Oar Length</a></li>
-									<li><a href="/us/oars/maintenance/handleandgrip.asp">Handle &amp; Grip Care</a></li>
-									<li><a href="/us/oars/maintenance/sleeves.asp">Sleeves &amp; Collars</a></li>
-									<li><a href="/us/oars/maintenance/damage.asp">Evaluating Damage</a></li>
-									<li><a href="/us/oars/maintenance/manuals.asp">Manuals</a></li>
-									<li><a href="/us/oars/maintenance/warranty.asp">Warranty</a></li>
-								</ul>
-							</li>
-						
-							
+							<li><a href="/us/oars/maintenance/default.asp">Care &amp; Maintenance</a></li>
+
+							<li><a href="/us/oars/regattaservice/default.asp">Regatta Service</a></li>
+
 							<li><a href="/us/oars/newsforcoaches/default.asp">News For Coaches</a></li>
 							<li><a href="/us/oars/camps/default.asp" class="daddy">Rowing Camps</a>
 								<ul>
@@ -170,17 +194,16 @@ function siteselect(targ,selObj,restore){
 		
   	</li>
   
-  	<li><a href="/us/interactive/default.asp">Interactive Tools</a>
+  	<li><a href="/us/interactive/default.asp">Online Tools</a>
 		<ul>
 							<li><a href="http://www.concept2.com/sranking03/log.asp">Online Logbook</a></li>
-							<li><a href="http://www.concept2.com/sranking03/rankings.asp">Online Ranking</a></li>
+							<li><a href="http://www.concept2.com/sranking03/rankings.asp">Online World Ranking</a></li>
 							<li><a href="http://www.c2forum.com">Forum</a></li>
 							<li><a href="/us/interactive/calculators/default.asp" class="daddy">Calculators</a>
 								<ul>
-									<li><a href="/us/interactive/calculators/weight_adjustment.asp">Weight Adjustment</a></li>
 									<li><a href="/us/interactive/calculators/pacecalculator.asp">Pace</a></li>
-									<li><a href="/us/interactive/calculators/vo2max.asp">V02 Max</a></li>
-								</ul>
+									<li><a href="/us/interactive/calculators/vo2max.asp">V02max</a></li>
+									<li><a href="/us/interactive/calculators/weight_adjustment.asp">Weight Adjustment</a></li>								</ul>
 							</li>
 							<li><a href="/us/interactive/workoutoftheday.asp">Workout of the Day</a></li>
 							<li><a href="/us/interactive/rowerfinder.asp">Find an Indoor Rower</a></li>
@@ -252,6 +275,7 @@ function siteselect(targ,selObj,restore){
 									<li><a href="/us/training/programs/competition.asp">Training for Competition</a></li>
 									<li><a href="/us/training/programs/marathon.asp">Training for a Marathon</a></li>
 									<li><a href="/us/training/programs/itrain.asp">iTRAIN</a></li>
+									<li><a href="/us/training/programs/pmaxaudio.asp">PMAX</a></li>
 									<li><a href="/us/training/programs/other.asp">Other Programs</a></li>
 							    </ul>
 							 </li>
@@ -267,6 +291,7 @@ function siteselect(targ,selObj,restore){
 									<li><a href="/us/training/crosstraining/paddling.asp">Paddling</a></li>
 							    </ul>
 							 </li>
+							 <li><a href="/us/training/getcertified.asp">Getting Certified</a></li>
 							 <li><a href="/us/training/resources.asp">Free Resources</a></li>
 							
 							
@@ -275,38 +300,102 @@ function siteselect(targ,selObj,restore){
 	
 	<li><a href="/us/racing/default.asp">Racing</a>
 		<ul>
-							<li><a href="/us/racing/race_calendar.asp" class="daddy">Calendar</a>
+							<li><a href="/us/racing/calendar/default.asp" class="daddy">Calendar</a>
 								<ul>
-									<li><a href="/us/racing/race_calendar.asp">US/Canada Events</a></li>
-									<li><a href="/us/racing/race_calendar_intl.asp">International</a></li>
+									<li><a href="/us/racing/calendar/default.asp">US/Canada Events</a></li>
+									<li><a href="/us/racing/calendar/international.asp">International</a></li>
 								</ul>
 							</li>
-							<li><a href="/us/racing/crashb/default.asp" class="daddy">CRASH-B</a>
+							<li><a href="/us/racing/crashb/default.asp" class="daddy">C.R.A.S.H.-B.</a>
 								<ul>
+									<li><a href="/us/racing/crashb/results2008.asp">2008 Results</a></li>
+									<li><a href="/us/racing/crashb/videos2008.asp">2008 Race Videos</a></li>
+									<li><a href="/us/racing/crashb/replays2008.asp">2008 Replays</a></li>
+									<li><a href="/us/racing/crashb/photographs2008.asp">2008 Photo Gallery</a></li>
+									<li><a href="http://www.crash-b.org/" target="_blank">C.R.A.S.H.-B. Website</a></li>						
 									<li><a href="/us/racing/crashb/crashb_qual.asp">Qualifying Times</a></li>
-									<li><a href="/us/racing/crashb/photographs2008.asp">Photo gallery</a></li>
+									
 								</ul>
 							</li>
 							<li><a href="/us/racing/start_racing.asp">First Time Advice</a></li>
 							<li><a href="/us/racing/records/default.asp" class="daddy">World Records</a>
 								<ul>
-									<li><a href="/us/racing/records/2000m_records.asp">2000 meters</a></li>
-									<li><a href="/us/racing/records/all_records.asp">Ranking Records</a></li>
-									<li><a href="/us/racing/records/ultra_records.asp">Ultra-Distance</a></li>
 									<li><a href="/us/racing/records/default.asp">Requirements</a></li>
+									<li><a href="/us/racing/records/2000m_records.asp">2000 Meters</a></li>
+									<li><a href="/us/racing/records/all_records.asp">World Ranking</a></li>
+									<li><a href="/us/racing/records/ultra_records.asp">Ultra-Distance</a></li>
 								</ul>
 							</li>
-							<li><a href="/us/racing/vra.asp">Venue Race Software</a></li>
+							<li><a href="/us/racing/c2monitors/default.asp" class="daddy">With Concept2 Performance Monitors</a>
+								<ul>
+									<li><a href="/us/racing/c2monitors/racepm4.asp">PM4s</a></li>
+									<li><a href="/us/racing/c2monitors/racepm321.asp">PM3s–PM1s</a></li>
+								</ul>
+							</li>
+								
+									
 		</ul>
 	</li>
-	
+
 	<li><a href="/us/communities/default.asp">Communities</a>
 		<ul>
-							<li><a href="/us/communities/motor_sports/default.asp">Motor Sports</a></li>
-							<li><a href="/us/communities/women/default.asp">Women</a></li>
-							<li><a href="/us/communities/adaptive/default.asp">Adaptive</a></li>
-							<li><a href="/us/communities/weightcontrol/default.asp">Weight Control</a></li>
-							<li><a href="/us/communities/diabetics/default.asp">Diabetics</a></li>
+							<li><a href="/us/communities/motor_sports/default.asp" class="daddy">Motor Sports</a>
+								<ul>
+									<li><a href="/us/communities/motor_sports/default.asp">Motocross Training &amp; Rowing</a></li>
+									<li><a href="/us/communities/motor_sports/photogallery.asp">Photo Gallery</a></li>
+									<li><a href="/us/communities/motor_sports/videogallery.asp">Video Gallery</a></li>
+									<li><a href="/us/communities/motor_sports/radio.asp">As Seen in MotoX Media</a></li>							
+									<li><a href="/us/communities/motor_sports/pastrana.asp">Secrets from Travis Pastrana</a></li>
+									<li><a href="/us/communities/motor_sports/motox_accessories.asp">Motocross Accessories for Rowing</a></li>
+									<li><a href="/us/communities/motor_sports/pitfit.asp">Pit Fit</a></li>
+									<li><a href="/us/communities/motor_sports/watercross.asp">Watercross Racing</a></li>		
+								</ul>																																		
+							</li>
+							<li><a href="/us/communities/crossfit/default.asp" class="daddy">CrossFit</a>
+								<ul>
+									<li><a href="/us/communities/crossfit/default.asp">Overview</a></li>
+									<li><a href="/us/communities/crossfit/default.asp">CrossFit Journal Articles</a></li>
+									<li><a href="/us/communities/crossfit/videogallery.asp">Video Gallery</a></li>
+
+								</ul>
+							</li>
+							<li><a href="/us/communities/women/default.asp" class="daddy">Women</a>
+								<ul>
+									<li><a href="/us/communities/women/default.asp">Women's Rowing</a></li>
+									<li><a href="/us/communities/women/profiles.asp">Women Who Row</a></li>
+									<li><a href="/us/communities/women/onwatercamps.asp">On-Water Rowing for Women</a></li>
+									<li><a href="/us/communities/women/pregnancy.asp">Rowing in Pregnancy</a></li>
+									<li><a href="/us/communities/women/osteoporosis.asp">Osteoporosis</a></li>
+									<li><a href="/us/communities/women/young_children.asp">Young Children</a></li>
+									<li><a href="/us/communities/women/books.asp">Books to Read</a></li>
+								</ul>									
+							</li>
+							<li><a href="/us/communities/adaptive/default.asp" class="daddy">Adaptive</a>
+								<ul>
+									<li><a href="/us/communities/adaptive/adapting_rower.asp">Adapting the Indoor Rower</a></li>
+									<li><a href="/us/communities/adaptive/fisa_adaptive.asp">FISA Adaptive</a></li>
+									<li><a href="/us/communities/adaptive/tmi_rowers.asp">TMI Rowers</a></li>
+									<li><a href="/us/communities/adaptive/profiles.asp">Blind Rowers</a></li>
+									<li><a href="/us/communities/adaptive/opportunities.asp">Opportunities</a></li>
+									<li><a href="/us/communities/adaptive/resources.asp">Resources</a></li>
+								</ul>
+							</li>
+							<li><a href="/us/communities/weightcontrol/default.asp" class="daddy">Weight Control</a>
+								<ul>
+									<li><a href="/us/communities/weightcontrol/default.asp">Overview</a></li>
+									<li><a href="/us/communities/weightcontrol/support.asp">Support</a></li>
+									<li><a href="/us/communities/weightcontrol/nutrition.asp">Nutrition</a></li>
+									<li><a href="/us/communities/weightcontrol/workouts.asp">Workout Advice</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="/us/communities/diabetics/default.asp" class="daddy">Diabetics</a>
+								<ul>
+									<li><a href="/us/communities/diabetics/default.asp">Overview</a></li>
+									<li><a href="/us/communities/diabetics/default.asp">Stories</a></li>
+								</ul>
+							</li>
+							
 		</ul>
 	</li>
 	
@@ -328,6 +417,7 @@ function siteselect(targ,selObj,restore){
 									<li><a href="/us/service/monitors/pm2plus/">PM2+</a></li>
 									<li><a href="/us/service/monitors/pm2/">PM2</a></li>
 									<li><a href="/us/service/monitors/pm1/">PM1</a></li>
+									<li><a href="/us/service/dyno/default.asp">DYNO Force Monitor</a></li>
 								</ul>
 							</li>
 							<li><a href="/us/service/software/default.asp" class="daddy">Software/Firmware</a>
@@ -341,7 +431,20 @@ function siteselect(targ,selObj,restore){
 								</ul>
 							</li>
 							<li><a href="/us/service/slides/">Slides</a></li>
-							<li><a href="/us/service/oars/">Oars</a></li>
+							<li><a href="/us/service/oars/default.asp" class="daddy">Oars</a>
+								<ul>
+									<li><a href="/us/service/oars/default.asp">Oar Care &amp; Maintenance</a></li>
+									<li><a href="/us/service/oars/painting_blades.asp">Painting Blades</a></li>
+									<li><a href="/us/service/oars/oarlength.asp">Checking &amp; Setting Oar Length</a></li>
+									<li><a href="/us/service/oars/pitch.asp">Checking &amp; Setting Pitch</a></li>									
+									<li><a href="/us/service/oars/handleandgrip.asp">Handle &amp; Grip Care</a></li>
+									<li><a href="/us/service/oars/sleeves.asp">Sleeves &amp; Collars</a></li>
+									<li><a href="/us/service/oars/damage.asp">Evaluating Damage</a></li>
+									<li><a href="/us/service/oars/manuals.asp">Manuals</a></li>
+									<li><a href="/us/service/oars/videorepairs.asp">Repair Videos</a></li>
+									<li><a href="/us/service/oars/warranty.asp">Warranty</a></li>
+								</ul>
+							</li>
 							<li><a href="/us/service/dyno/">DYNO</a></li>
 							<li><a href="/us/service/hrequip/default.asp" class="daddy">Heart Rate Equipment</a>
 								<ul>
@@ -350,6 +453,7 @@ function siteselect(targ,selObj,restore){
 								</ul>
 							</li>
 							<li><a href="/us/service/manuals.asp">Manuals &amp; Schematics</a></li>
+							<li><a href="/us/service/registration/default.asp">Customer Registration</a></li>
 							<li><a href="/us/service/warranties.asp">Warranties</a></li>
 							
 							
@@ -369,34 +473,38 @@ function siteselect(targ,selObj,restore){
 									<li><a href="/us/company/story/default.asp">The Concept2 Story</a></li>
 									<li><a href="/us/company/story/c2_today.asp">Concept2 Today</a></li>
 									<li><a href="/us/company/story/timeline.asp">Timeline</a></li>
-									<li><a href="/us/company/story/people.asp">C2 People</a></li>
+									<li><a href="/us/company/story/people.asp">The Concept2 Crew</a></li>
 								</ul>
 							</li>
 							<li><a href="/us/company/citizenship/default.asp">Corporate Citizenship</a></li>
 							<li><a href="/us/company/pressroom/default.asp" class="daddy">Press Room</a>
 								<ul>
-									<li><a href="/us/company/pressroom/default.asp">As Seen In</a></li>
-									<li><a href="/us/company/pressroom/c2_press_releases.asp">Press Releases</a></li>
+									<li><a href="/us/company/pressroom/default.asp">In the Media</a></li>
+									<li><a href="/us/company/pressroom/pressreleases.asp">Press Releases</a></li>
 									<li><a href="/us/company/pressroom/presskit.asp">Press Kit</a></li>
 									<li><a href="/us/company/pressroom/logos_images.asp">Logos</a></li>
 								</ul>
 							</li>
 							<li><a href="/us/company/employment/default.asp">Employment</a></li>
-		</ul>
-	</li>	
-	<li class="last">
-			<div id="search_box">
-		    	<form id="search_form" method="get" action="http://search.atomz.com/search/">
-				<input type="hidden" name="sp-a" value="sp10032de9">
-				<input type="hidden" name="sp-p" value="all">
-				<input type="hidden" name="sp-f" value="ISO-8859-1">
-				<input type="hidden" name="sp-t" value="concept2">
-				<input type="hidden" name="sp-k" value="Concept2">
-        		<input type="text" id="search" value="Search" name="sp-q">
-        		<input type="image" src="/us/images/search_icon_small.gif" width="19" height="19" id="go" alt="Search" title="Search">
-    			</form>
-			</div>
+							<li><a href="/us/company/policies/privacy.asp" class="daddy">Internet Policies</a>
+								<ul>
+									<li><a href="/us/company/policies/privacy.asp">Privacy Policy</a></li>
+									<li><a href="/us/company/policies/coppa.asp">COPPA Statement</a></li>
+								</ul>
+							</li>
+        </ul>
 	</li>
+	
+	<li class="last">
+	<a href="http://www.concept2cts.com">Commercial &amp; Team Sales</a>
+			<!--<form>
+			<select class='siteselect' onchange="siteselect('parent',this,0)">
+            		<option value="http://www.concept2cts.com">Concept2 CTS</option>
+                    <option value="http://www.concept2.com">Concept2</option>
+			</select>
+			</form>-->
+	</li>
+	
 </ul> 
         </div>
 	
@@ -453,12 +561,83 @@ function siteselect(targ,selObj,restore){
 
 
 <script type="text/javascript">
+
+function popup_open (href, params)
+{
+    // Defaults (don't leave it to the browser)
+    var defaultParams = {
+        "width":       "700",   // Window width
+        "height":      "500",   // Window height
+        "top":         "50",     // Y offset (in pixels) from top of screen
+        "left":        "40",     // X offset (in pixels) from left side of screen
+        "directories": "no",    // Show directories/Links bar?
+        "location":    "no",    // Show location/address bar?
+        "resizable":  "yes",   // Make the window resizable?
+        "menubar":     "no",    // Show the menu bar?
+        "toolbar":     "no",    // Show the tool (Back button etc.) bar?
+        "scrollbars":  "yes",   // Show scrollbars?
+        "status":      "no"     // Show the status bar?
+    };
+
+    var windowName = params["windowName"] || "new_window";
+
+    var i, useParams = "";
+
+    // Override defaults with custom values while we construct the params string
+    for (i in defaultParams)
+    {
+        useParams += (useParams === "") ? "" : ",";
+        useParams += i + "=";
+        useParams += params[i] || defaultParams[i];
+    }
+
+    return window.open(href, windowName, useParams);
+};
+
      jQuery(document).ready(function($){
     	$("a[href='privacy.asp']").addClass("current");
-     });
+     
+		 $('a[rel*=external]').click(function() { 
+        window.open(this.href);
+		return false;
+    	});
+
+    	$("a[rel*=popup]").click(function (){
+
+           // Grab parameters using jQuery's data() method
+            var params = $(this).data("popup") || {};            
+            if ($(this).attr("target"))
+            {
+                params.windowName = $(this).attr("target");
+            }
+            var windowObject = popup_open(this.href, params);
+            // Save the window object for other code to use
+            $(this).data("windowObject", windowObject);
+			return false;
+    	});
+
+
+		$('a').each(function() {
+	  		var domain = document.domain;
+			domain = domain.replace(/www./, "");
+
+		  	var href = $(this).attr('href');
+			
+	  		if ( (href.match(/^http/)) && (! href.match(domain)) ) {
+				$(this).click(function() {
+					pageTracker._trackPageview('/external/' + href);
+				});
+		  	} else if (href.match(/\.(doc|pdf|xls|ppt|zip|txt|vsd|vxd|js|css|rar|exe|dmg|wma|mov|avi|wmv|mp3)$/)) {
+				$(this).click(function() {
+					pageTracker._trackPageview('/downloads/' + href);
+				});
+	  	  	} 
+	 	});
+
+	 });
 </script>
 
-<script language="javascript">
+<script type="text/javascript">
 var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
 var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-concept2.hitbox.com";
 
@@ -510,7 +689,7 @@ hbx.hrf="";//CUSTOM REFERRER
 hbx.pec="";//ERROR CODES
 </script>
 
-<script language="javascript1.1" defer="" src="/us/js/hbx.js"></script>
+<script type="text/javascript" src="/us/js/hbx.js"></script>
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -518,6 +697,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
 var pageTracker = _gat._getTracker("UA-383575-1");
+pageTracker._setDomainName(".concept2.com");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
