@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the smsheat.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509145417id_/http%3A//www.smsheat.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsheat.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220044016id_/http%3A//www.smsheat.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# PRIVACY POLICY FOR SMSHEAT
-
-_**PRIVACY POLICY FOR SMSHEAT.COM**_
+# SMSHeat.Com - Privacy Policy
 
 This is the privacy policy of web site SMSHeat.Com.
 
@@ -18,7 +16,7 @@ We do not collect the e-mail address of visitors to our Web pages except the e-m
 The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor.
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies* like Google (www.google.com/adsense) that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policy of:  
-<http://www.google.com/privacy.html>
+[ http://www.google.com/privacy.html](http://www.google.com/privacy.html)
 
 www.smsheat.com has no access to or control over these cookies/Web beacons that are used by third-party advertisers.
 
