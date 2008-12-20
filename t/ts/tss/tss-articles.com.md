@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tss-articles.com privacy policy that was archived on 2008-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080411041702id_/http%3A//tss-articles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tss-articles.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220163655id_/http%3A//tss-articles.com/privacy.php) for the most accurate reproduction.*
 
 # tss-articles.com
 
