@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speech-topics-help.com privacy policy that was archived on 2008-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080422192733id_/http%3A//www.speech-topics-help.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speech-topics-help.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220015955id_/http%3A//www.speech-topics-help.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Speech Topics Help
 
@@ -27,6 +27,15 @@ While I do my best to protect your personal information, we cannot guarantee the
 
 For further information and questions about this Privacy Policy you are welcome to use the [Contact Form](http://www.speech-topics-help.com/contact.html). 
 
+* * *
+
+* * *
+
+**Share this page:  **  
+What's This? |  |  |  |   
+---|---|---|---|---  
+|  |   
+  
 * * *
 
 [](http://www.speech-topics-help.com/copyright-notice-for-speech-topics-help.html)  
