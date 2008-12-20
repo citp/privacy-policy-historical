@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presidentialprayerteam.org privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608044001id_/http%3A//www.presidentialprayerteam.org/site/PageServer%3Fpagename%3Dppt_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presidentialprayerteam.org privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220043528id_/http%3A//www.presidentialprayerteam.org/site/PageServer%3Fpagename%3Dppt_privacy_policy) for the most accurate reproduction.*
 
 # The Presidential Prayer Team: Privacy Policy
 
