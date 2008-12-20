@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mlslirealtor.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609004140id_/http%3A//www.mlslirealtor.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlslirealtor.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220152724id_/http%3A//www.mlslirealtor.com/privacy.cfm) for the most accurate reproduction.*
 
-# MLSLI.com - Privacy Policy
+# MLSLI.com – Long Island Real Estate – Find A Home in Nassau, Suffolk & Queens
 
 ### Privacy Policy
 
