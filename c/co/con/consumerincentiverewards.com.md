@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerincentiverewards.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011052444id_/http%3A//consumerincentiverewards.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D848name) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerincentiverewards.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220141314id_/http%3A//www.consumerincentiverewards.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D848name) for the most accurate reproduction.*
 
 # Help Desk
 
