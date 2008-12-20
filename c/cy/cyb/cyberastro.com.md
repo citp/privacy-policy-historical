@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cyberastro.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509081320id_/http%3A//www.cyberastro.com/asp/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberastro.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220153700id_/http%3A//www.cyberastro.com/asp/privacy_policy.asp) for the most accurate reproduction.*
 
-# CyberAstro: Take control of your destiny!
+# Privacy Policy- cyberastro.com
 
 At Cyber Astro, Ltd. we take the privacy of the information you provide us very seriously. This statement demonstrates our firm commitment to our privacy policy. Please read this carefully to understand how we use any information you provide us at [www.cyberastro.com](http://www.cyberastro.com/). 
 
@@ -12,17 +12,6 @@ At Cyber Astro, Ltd. we take the privacy of the information you provide us very 
 Since new items will get added to our services as we modify and expand, we suggest that you check back from time to time in order to understand how we treat your information. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what personal information we collect, how we use it and under what circumstances we disclose it. Your continued use of the site will constitute your acknowledgment of our Privacy Policy.  
 This document is rather long because we want to give our users all the facts about our privacy policy. The items below provide an index to the information that follows: 
 
-  * _What personal information do we collect, and what choices do you have in not providing the information?_
-  * _How do we use this information?_
-  * _What are cookies and how Cyber Astro uses them?_
-  * _Links to other sites_
-  * _Who has access to your personally identifiable information?_
-  * _How can you correct/update your membership profile or information?_
-  * _What communications do we send you?_
-  * _What is our policy regarding Children's Online Privacy Protection?_
-  * _Who can you contact regarding this Privacy Policy?_
-
-  
 **What personal information do we collect?**
 
 **Registration Data**
@@ -42,6 +31,3 @@ For payment of the paid services, we use two independent secure server companies
 **Other information that we may collect**
 
 Any other information we may have for you, comes from actual email or other contact you may have made with us in regard to specific services or products. As a general rule, these are not made part of your member profile, and are used only to address your specific need or concern that you may have communicated to us on. Although we give you the option to tell your friends about our site, we do not monitor or keep any record of friends you may contact. Information gathered on our “Affiliate with Us”, is used primarily for a Business-to-Business purpose and to encourage inquiries from other web sites that might be interested in obtaining our Astrology Content for their own site. Information from “Advertise with Us” similarly is used to generate interest in other sites or companies that may wish to purchase banner advertising on our site.
-
-  
-
