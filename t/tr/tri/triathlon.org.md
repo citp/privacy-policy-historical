@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triathlon.org privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613045010id_/http%3A//www.triathlon.org/%3Fcall%3DTWpZMQ%3D%3D%26keep%3Dsh) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triathlon.org privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220112847id_/http%3A//triathlon.org/%3Fcall%3DTWpZMQ%3D%3D%26keep%3Dsh) for the most accurate reproduction.*
 
 # www.triathlon.org -The Official Triathlon Resource
 
