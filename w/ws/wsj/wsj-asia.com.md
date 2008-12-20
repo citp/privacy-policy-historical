@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsj-asia.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410064343id_/http%3A//www.wsj-asia.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsj-asia.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220113436id_/http%3A//www.wsj-asia.com/privacy_policy.html) for the most accurate reproduction.*
 
 # The Wall Street Journal Asia
 
