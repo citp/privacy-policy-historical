@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecommerceexpo.co.uk privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606073900id_/http%3A//www.ecommerceexpo.co.uk/page.cfm/Link%3D2/t%3Dm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecommerceexpo.co.uk privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220232546id_/http%3A//www.ecommerceexpo.co.uk/page.cfm/Link%3D2/t%3Dm) for the most accurate reproduction.*
 
 # E Commerce Expo 2008 - Privacy Pledge
 
