@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the multichoice.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026001848id_/http%3A//www.multichoice.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multichoice.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220114345id_/http%3A//www.multichoice.co.za/multichoice/view/multichoice/en/page115) for the most accurate reproduction.*
 
-# Privacy Policy
+# MultiChoice | People | Careers in TV, internet and mobile services
 
 **MULTICHOICE AFRICA (PTY) LTD ("MULTICHOICE")**
 
   1. MultiChoice Africa ("MultiChoice") believes in protecting the personal information it collects from individuals that access or use ("users") the website situated at http://www.multichoice.co.za ("the MultiChoice website"). 
-  2. By accessing the multichoice website, users agree to be bound by the privacy policy effective at the time of such access. This privacy policy forms part of the MultiChoice website [terms and conditions.](https://web.archive.org/web/20071026001848id_/http%3A//www.multichoice.com/terms_conditions.aspx)
+  2. By accessing the multichoice website, users agree to be bound by the privacy policy effective at the time of such access. This privacy policy forms part of the MultiChoice website [terms and conditions.](https://web.archive.org/multichoice/view/multichoice/en/page114)
   3. MultiChoice reserves the right in its sole discretion to amend this privacy policy from time to time. In this event, MultiChoice will post the revised policy on the multichoice website. Each time a user accesses the multichoice website, the user agrees to be bound by the policy posted on the multichoice website at the time. 
   4. MultiChoice will take all reasonable steps to use or disclose users' personal information only in the manner allowed by this policy. 
   5. In clauses 14, 15 and 22 "MultiChoice" includes companies in the Naspers/MIH Group of companies ("MultiChoice's affiliates"). 
@@ -29,8 +29,8 @@
 
 **Consent to collection, use and storage of user's personal information**
 
-  14. The user agrees that MultiChoice may collect, use and store the user's personal information 
-    * 14.1 to establish and verify a user's identity;   
+  14. The user agrees that MultiChoice may collect, use and store the user's personal information   
+14.1 to establish and verify a user's identity;   
 14.2 to maintain and update MultiChoice's customer, or potential customer, databases;   
 14.3 to greet the user when he/she accesses the website;   
 14.4 to provide the user with value added services;   
@@ -74,8 +74,8 @@
 
 **Security**
 
-  23. MultiChoice takes reasonable steps to put in place and maintain electronic procedures and systems with reference to accepted technological standards - 
-    * 23.1 to ensure the accuracy of;   
+  23. MultiChoice takes reasonable steps to put in place and maintain electronic procedures and systems with reference to accepted technological standards -   
+23.1 to ensure the accuracy of;   
 23.2 to prevent unauthorised access to or disclosure of;   
 23.3 to protect from misuse, loss, alteration or destruction 
 
