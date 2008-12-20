@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyfuture.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509173235id_/http%3A//cyfuture.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyfuture.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220212149id_/http%3A//www.cyfuture.com/privacy.htm) for the most accurate reproduction.*
 
 # Cyber Futuristics India Pvt. Ltd.
 
@@ -10,7 +10,7 @@
   
 [](http://www.go4customer.com/)
 
-[](https://web.archive.org/web/20080509173235id_/http%3A//cyfuture.com/support.htm) **PRIVACY POLICY**
+[](https://web.archive.org/web/20081220212149id_/http%3A//www.cyfuture.com/support.htm) **PRIVACY POLICY**
 
   
 
@@ -29,4 +29,63 @@ We receive and store certain types of information whenever you interact with us.
 
  **What About Cookies?**
 
-» Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web brow
+» Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser. Besides using the information as described above, CyFuture utilizes cookies to control the flow of the ordering processes by maintaining the state of your online transactions.
+
+Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
+
+ **Does CyFuture Share the Information It Receives?**
+
+Yes, we do share information but only as described below. Otherwise we will not provide your personal information without your consent. 
+
+¤ **WHOIS:**  
+the Internet Corporation requires us for Assigned Names and Numbers ("ICANN"), the organization that assumes responsibility for domain name allocation, to collect information about you during the domain name registration process. This information includes your full name, mailing address, phone number, email address, and, where provided, your facsimile number. 
+
+ICANN then requires all registrars to make your full name, mailing address, phone number, email address, and, where provided, your facsimile number, as well as the creation and expiration dates of your domain name registration and the name server information associated with your domain name, to the public via an interactive Web page and a "port 43" WHOIS service. For the purposes of this Privacy Notice we will refer to this information as your "WHOIS Information." Please note that we may not be able to control how members of the public may use the WHOIS Information.
+
+¤ **Advertisers:**  
+We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+
+¤ **Partners:**  
+We partner with other parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services.
+
+¤ **Agents:**  
+We engage other companies and individuals to perform functions on our behalf. Examples include processing credit card payments, providing marketing assistance, providing customer services, sending postal mail and email to you, removing repetitive information from customer lists, and analyzing data. These persons have access to personal information needed to perform their functions. These companies do not retain, share, store or use personally identifiable information that you provide to CyFuture for any secondary purposes.
+
+¤ **Service Providers:**  
+We engage other companies and individuals to perform enhanced services on our behalf. For example, we have engaged Critical Path, Inc. to provide free electronic mail services to our domain name registrants. In addition, certain of our enhanced services such as our Web Site Generator require that we contact Internet directories and various search engines on your behalf. Many of our service providers have access to personal information needed to perform their services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+
+¤ **Business Transfer:**  
+As we continue to develop our business, we might sell or buy businesses or their assets. In such transactions, customer information generally is one of the transferred business assets. Also, if Cyfuture. or all or substantially all of its assets were ever to be acquired, customer information will of course be one of the transferred assets.
+
+¤ **Compliance:**  
+We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Services Agreement and other agreements; or protect the rights, property, or safety of CyFuture, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+
+ **How Secure Is Information About Me?**
+
+» We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input and the information we may send to our agents. 
+
+» CyFuture has gone to great lengths to ensure your information is securely obtained and held in compliance with the Card Holder Information Security Program. For example, we encrypt your credit card number before it is stored in our database. This ensures that no one may access your credit card from our system.
+
+» It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
+
+ **What Information Can I Access?**
+
+» CyFuture gives you access to certain information about you for the limited purpose of viewing and, in certain cases, updating that information. To view or change this information, log-in to your account. When you update information, we usually keep a copy of the prior version for our records.
+
+ **Links**
+
+» Sites provided by CyFuture contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+
+ **Children**
+
+» CyFuture does not sell services for purchase by children. If you are under 18, you may use our services only with involvement of a parent or guardian.
+
+ **Conditions of Use, Notices, and Revisions**
+
+» If you choose to visit CyFuture, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at CyFuture, please send us a thorough description to support@go4hosting.com, and we will try to resolve it. Our business changes constantly. 
+
+This Notice and the Terms and Conditions will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes
+
+[](https://web.archive.org/web/20081220212149id_/http%3A//www.cyfuture.com/support.htm)
+
+| 
