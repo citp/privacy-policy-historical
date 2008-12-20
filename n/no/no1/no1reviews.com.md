@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the no1reviews.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526145449id_/http%3A//www.no1reviews.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the no1reviews.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220152642id_/http%3A//www.no1reviews.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # No1Reviews.com Privacy Policy
 
@@ -51,11 +51,10 @@ How to Contact Us
 
 Please use the Contact Us link at the bottom of this page to contact us. 
 
-Footer
+[No1Reviews.com](http://www.no1reviews.com/) | [About Us ](http://www.no1reviews.com/AboutUs.html) | [Privacy Policy](http://www.no1reviews.com/Privacy-Policy.html) | [Spot a Mistake? ](http://www.no1reviews.com/Feedback.html)  
+[FAQ](http://www.no1reviews.com/faq.html) | [Useful Links](https://web.archive.org/links.html) | [Site Map](https://web.archive.org/sitemap.html) | [Terms & Conditions](http://www.no1reviews.com/TC.html) | [Webmasters](http://www.no1reviews.com/webmasters.html) | [Contact Us](http://www.no1reviews.com/Contact.html)
 
-[Home](https://web.archive.org/index.html) | [About Us ](https://web.archive.org/AboutUs.html) | [Privacy Policy](https://web.archive.org/Privacy-Policy.html) | [Spot a Mistake? ](https://web.archive.org/Feedback.html)  
-[FAQ](https://web.archive.org/faq.html) | [Useful Links](https://web.archive.org/Links.html) | [Site Map](https://web.archive.org/sitemap.html) | [Terms & Conditions](https://web.archive.org/TC.html) | [Webmasters](https://web.archive.org/webmasters.html) | [Contact Us  
-](https://web.archive.org/Contact.html)
+[](http://www.no1reviews.com/)
 
 Web site and all contents © Copyright No1Reviews.com 2020, All rights reserved.  
-Reproduction in whole or in part in any form or medium without express written permission of No1Reviews.com is strictly prohibited. Plagiarism will be detected by Copyscape. 
+Reproduction in whole or in part in any form or medium without express written permission of No1Reviews.com is strictly prohibited. Plagiarism will be detected immediately by Copyscape. Copyright theft has been dealt with harshly in the past. Our policy is to immediately file DMCA complaints and federal copyright infringement lawsuits against any webmaster caught stealing content from No1Reviews.com and to press for statutory damages as high as $150,000 as set forth in Section 504(c)(2) under 17 U.S.C. Section 101 et seq.
