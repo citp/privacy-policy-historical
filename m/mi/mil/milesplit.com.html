@@ -1,303 +1,584 @@
-<!--The following is the downloaded HTML source of the milesplit.com privacy policy that was archived on 2007-09-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070903113844id_/http%3A//www.milesplit.com/help/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the milesplit.com privacy policy that was archived on 2008-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220171224id_/http%3A//www.milesplit.us/help/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<title>Mile Split Network - Privacy Policy</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots>" content="">
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="refresh" content="12000">
 
-	<title>Mile Split Network</title>
-	
-	<link rel="stylesheet" type="text/css" media="screen, projection, tv" href="http://www.milesplit.com/_common/css/screen.css">
-	<link rel="stylesheet" type="text/css" media="screen, projection, tv" href="http://www.milesplit.com/_common/css/network.css">
-	<link rel="stylesheet" type="text/css" media="print" href="http://www.milesplit.com/_common/css/print.css">
-	<link rel="stylesheet" type="text/css" media="handheld" href="http://www.milesplit.com/_common/css/handheld.css">
-	
-	<link rel="start" href="/">
-	<link rel="search" href="/search">
-	
-	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
-	<meta http-equiv="refresh" content="12000">
-	<meta name="robots" content="index,nofollow">
-	<link rel="alternate" type="application/rss+xml" title="Mile Split Network RSS" href="http://www.milesplit.com/rssfeed.php">
-	
-		<script language="JavaScript">
-		<!--
-		if (parent.frames.length > 0) 
-		{
-		parent.location.href = location.href;
+<link rel="stylesheet" type="text/css" media="screen, projection, tv" href="http://www.milesplit.us/css/20087/network.css">
+<link rel="stylesheet" type="text/css" media="handheld" href="http://www.milesplit.us/css/20087/handheld.css">
+<link rel="stylesheet" type="text/css" media="all" href="http://www.milesplit.us/css/dialog.css">
+<link rel="stylesheet" type="text/css" media="all" href="/css/help.css">
+<link rel="stylesheet" type="text/css" media="screen, projection, tv" href="/assets/usa/usa.css">
+
+<link rel="apple-touch-icon" href="http://www.milesplit.us/images/milesplit-iphone.png">
+<link rel="shortcut icon" href="http://www.milesplit.us/images/milesplitshortcut.png">
+
+<script language="JavaScript" src="http://www.milesplit.us/js/prototype/prototype.js"></script>
+<script language="JavaScript" src="http://www.milesplit.us/js/scriptaculous/scriptaculous.js?load=effects,builder"></script>
+<script language="JavaScript" src="http://www.milesplit.us/js/milesplit.main.js"></script>
+<script language="JavaScript" src="http://www.milesplit.us/js/rounded.js"></script>
+<script type="text/javascript">
+   <!--//--><![CDATA[//><!--
+    activateMenu = function(nav, width, top, left) {
+	    if (window.opera || document.all) {
+		    $(nav).observe('mouseover', function() {
+			    var me = this.down('div.dropdown');
+			    me.style.display = 'block';
+			    me.absolutize();
+			    me.style.position = 'absolute';
+			    if (!window.opera) {
+				    me.style.width = width;
+				    me.style.top = top;
+				    if (left) me.style.left = left;
+				    else me.style.left = 'auto';
+			    }
+			});
+			$(nav).observe('mouseout', function() {
+				var me = this.down('div.dropdown');
+				me.style.display = 'none';
+			});
+        }
+    }
+    Event.observe(window, 'load', function() {
+	    // Get sizes
+	    var user = $('user').cumulativeOffset();
+	    // Dropdowns
+	    activateMenu('flag', 600, 140);
+	    activateMenu('user', 370, 140, user.left + 15);
+	    var menus = $('navbar').getElementsByClassName('dropdown');
+	    for (i=0; i < menus.length; i++) {
+			li = menus[i].up('li');
+			lidim = li.cumulativeOffset();
+			activateMenu(li.identify(), 175, lidim.top + 39, lidim.left + 15);
+	    }
+	    // Search
+	    $('searchbox').observe('focus', function() {
+		   	 $('searchbox').value = '';
+	    });
+	    $('searchbox').observe('blur', function() {
+		    if ($('searchbox').value == '') {
+			   	 $('searchbox').value = 'Search MileSplit...';
+		   	 }
+	    });
+		// Round corners
+		Rounded($$('#sitebar div.lining div.bumper'), 5, 5, 0, 0);
+    });
+   //--><!]]>
+</script>
+<script language="JavaScript">
+	<!--
+	function ExecuteSearch() {
+		var elterm = $('searchbox');
+		var term = elterm.value.replace(' ', '_');
+		if (term != '' && term != 'Search_MileSplit...') {
+			document.location = '/search/' + term;	
 		}
-		-->
-	</script>
-		<script language="JavaScript1.1" type="text/javascript" src="http://www.milesplit.com/_common/js/dropdown.js"></script>
-	
+		return false;
+	}
+	function SearchKeyPress(e) {
+		var key;
+		if (window.event) key = window.event.keyCode; // IE
+		else key = e.which; // FF
+		if (key == 13) { // Enter key pressed
+			ExecuteSearch();
+			return false;
+		} else {
+			return true;	
+		}
+	}
+	-->
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">
+	_qacct="p-44piXe9gY_gqg";quantserve();
+</script>
+<noscript>
+<a href="http://www.quantcast.com/p-44piXe9gY_gqg" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-44piXe9gY_gqg.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-2658534230977335");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+  GA_googleAddSlot("ca-pub-2658534230977335", "SecondBTF300x250");
+</script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script>
 </head>
+<body id="help">
 
-<body>
+<div id="container">
 
-	<a name="top"></a>
-	
-	<table cellpadding="0" border="0" width="100%" cellspacing="0" bgcolor="#cdcdcd">
-		<tbody><tr>
-			<td style="padding-left: 10px; padding-top: 10px; padding-bottom: 4px;">
-				<a href="http://www.milesplit.com"><img src="http://www.milesplit.com/_common/images/logo-small.gif" width="100" height="25" border="0"></a><br>
-				<form>
-					<b>Explore the Network</b><br>
-										<select onchange="location=this.options[this.selectedIndex].value" style="font: 12px Arial; width: 140px; height: 17px">
-						<option onclick="document.location = 'http://www.milesplit.com'">Network Portal Page</option>
-						<option value="http://www.milesplit.com">--Our State Sites--</option>
-												<option value="http://al.milesplit.com">Alabama</option>
-												<option value="http://rockies.milesplit.com">Colorado</option>
-												<option value="">Connecticut</option>
-												<option value="http://md.milesplit.com">District of Columbia</option>
-												<option value="http://fl.milesplit.com">Florida</option>
-												<option value="http://ga.milesplit.com">Georgia</option>
-												<option value="http://in.milesplit.com">Indiana</option>
-												<option value="http://ky.milesplit.com">Kentucky</option>
-												<option value="http://la.milesplit.com">Louisiana</option>
-												<option value="http://md.milesplit.com">Maryland</option>
-												<option value="http://ms.milesplit.com">Mississippi</option>
-												<option value="">Missouri</option>
-												<option value="http://nj.milesplit.com">New Jersey</option>
-												<option value="">New York</option>
-												<option value="http://nc.milesplit.com">North Carolina</option>
-												<option value="http://oh.milesplit.com">Ohio</option>
-												<option value="http://ok.milesplit.com">Oklahoma</option>
-												<option value="http://or.milesplit.com">Oregon</option>
-												<option value="http://pa.milesplit.com">Pennsylvania</option>
-												<option value="http://sc.milesplit.com">South Carolina</option>
-												<option value="http://tn.milesplit.com">Tennessee</option>
-												<option value="http://tx.milesplit.com">Texas</option>
-												<option value="http://rockies.milesplit.com">Utah</option>
-												<option value="http://va.milesplit.com">Virginia</option>
-												<option value="http://wa.milesplit.com">Washington</option>
-												<option value="http://wv.milesplit.com">West Virginia</option>
-												<option value="http://rockies.milesplit.com">Wyoming</option>
-											</select>
-				</form>
-			</td>
-			<td width="475" align="center">
-				<script language="JavaScript" type="text/javascript">
-				<!--
-				   if (!document.phpAds_used) document.phpAds_used = ',';
-				   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-				   
-				   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-				   document.write ("http://phpadsnew.milesplit.com/adjs.php?n=" + phpAds_random);
-				   document.write ("&amp;what=zone:23");
-				   document.write ("&amp;exclude=" + document.phpAds_used);
-				   if (document.referer)
-				      document.write ("&amp;referer=" + escape(document.referer));
-				   document.write ("'><" + "/script>");
-				//-->
-				</script><script language="JavaScript" type="text/javascript" src="http://phpadsnew.milesplit.com/adjs.php?n=042807637&amp;what=zone:23&amp;exclude=,"></script><noscript><a href='http://phpadsnew.milesplit.com/adclick.php?n=aee47a6f' target='_blank'><img src='http://phpadsnew.milesplit.com/adview.php?what=zone:23&amp;n=aee47a6f' border='0' alt=''></a></noscript>
-			</td>
-			<td align="center">
-									<b>Not Logged In</b><br>
-					<a href="http://www.milesplit.com/bb/login.php?done=http://milesplit.com/help/privacy.php&amp;site=MileSplit">Login</a> | <a href="http://www.milesplit.com/bb/register.php?done=http://milesplit.com/help/privacy.php&amp;site=MileSplit">Register</a>
-	    			    		<div style="margin-top: 5px">
-		    		<form action="http://www.milesplit.com/search.php" method="POST">
-		    			<input type="hidden" name="scope" value="all">
-						<input name="phrase" type="text" value="Search..." style="font: 12px Arial; height: 17px; width: 100px; border: solid 1px #a0a0a0" onfocus="if (this.value == 'Search...') { this.value=''; }" onblur="if (this.value.length == 0) { this.value='Search...'; }">
-						<input type="submit" value="Go">
-					</form>
-				</div>
-			</td>
-		</tr>
-	</tbody></table>
-
-	<table border="0" cellpadding="0" cellspacing="0" width="100%" id="StatePane" height="80">
-		<tbody><tr>
-			<td width="315">
-				<a href="http://www.milesplit.com"><img src="http://www.milesplit.com/_common/images/logos/milesplit.gif" border="0"></a>
-			</td>
-			<td>
-				
-				<!--<div style="padding: 2px"><a href='http://phpadsnew.milesplit.com/adclick.php?n=ad43f01b' target='_blank'><img src='http://phpadsnew.milesplit.com/adview.php?what=zone:30&amp;n=ad43f01b' border='0' alt=''></a></div>-->
-	
-			</td>
-			<td align="right" style="padding: 3px">
-							
-				<!--<iframe name="scroller" allowtransparency="true" background-color="transparent" width="283" height="73"
-					border="0" frameborder="0" framepadding="0" style="margin-left: 5px"
-					src="http://www.milesplit.com/_common/swf/rssscroll.html">
-					MileSplit RSS Scroller Not Available on your browser.
-				</iframe>-->
-				
-			</td>
-			<td align="left" width="120">
-			
-				<script language="JavaScript" type="text/javascript">
-				<!--
-				   if (!document.phpAds_used) document.phpAds_used = ',';
-				   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-				   
-				   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-				   document.write ("http://phpadsnew.milesplit.com/adjs.php?n=" + phpAds_random);
-				   document.write ("&amp;what=zone:31");
-				   document.write ("&amp;exclude=" + document.phpAds_used);
-				   if (document.referer)
-				      document.write ("&amp;referer=" + escape(document.referer));
-				   document.write ("'><" + "/script>");
-				//-->
-				</script><script language="JavaScript" type="text/javascript" src="http://phpadsnew.milesplit.com/adjs.php?n=991218955&amp;what=zone:31&amp;exclude=,"></script><noscript><a href='http://phpadsnew.milesplit.com/adclick.php?n=aee47a6f' target='_blank'><img src='http://phpadsnew.milesplit.com/adview.php?what=zone:31&amp;n=aee47a6f' border='0' alt=''></a></noscript>
-
-			</td>
-		</tr>
-	</tbody></table>
-	
-	<div id="NavBar">
-		<ul id="nav">
-<li>
-<a href="http://www.milesplit.com">Home</a>
-</li>
-
-<li>
-<a href="http://www.milesplit.com/networknews.php">Articles</a>
-<ul>
-<li><a href="http://www.milesplit.com/networknews.php">MileSplit Network News</a></li>
-<li><a href="http://www.milesplit.com/worldnews.php">World/National News</a></li>
-<li><a href="http://www.milesplit.com/collegenews.php">College News</a></li>
-</ul>
-</li>
-<li><a href="http://www.milesplit.com/results/">Results</a></li>
-<li>
-<a href="#">Rankings</a>
-<ul>
-<li><a href="http://www.milesplit.com/performances.php?year=2007&amp;season=Outdoor&amp;sex=m&amp;level=HS">2007 HS Outdoor Boys</a></li>
-<li><a href="http://www.milesplit.com/performances.php?year=2007&amp;season=Outdoor&amp;sex=f&amp;level=HS">2007 HS Outdoor Girls</a></li>
-<li><a href="http://www.milesplit.com/performances.php?year=2006&amp;season=Outdoor&amp;sex=m&amp;level=HS">2006 HS Outdoor Boys</a></li>
-<li><a href="http://www.milesplit.com/performances.php?year=2006&amp;season=Outdoor&amp;sex=f&amp;level=HS">2006 HS Outdoor Girls</a></li>
-<li><a href="http://www.milesplit.com/performances.php?year=2006&amp;season=Indoor&amp;sex=m&amp;level=HS">2006 HS Indoor Boys</a></li>
-<li><a href="http://www.milesplit.com/performances.php?year=2006&amp;season=Indoor&amp;sex=f&amp;level=HS">2006 HS Indoor Girls</a></li>
-<li><a href="http://www.milesplit.com/performances.php?year=2005&amp;season=Outdoor&amp;sex=m&amp;level=HS">2005 HS Outdoor Boys</a></li>
-<li><a href="http://www.milesplit.com/performances.php?year=2005&amp;season=Outdoor&amp;sex=f&amp;level=HS">2005 HS Outdoor Girls</a></li>
-<li><a href="http://www.milesplit.com/performances.php?year=2005&amp;season=Indoor&amp;sex=m&amp;level=HS">2005 HS Indoor Boys</a></li>
-<li><a href="http://www.milesplit.com/performances.php?year=2005&amp;season=Indoor&amp;sex=f&amp;level=HS">2005 HS Indoor Girls</a></li>
-<li><a href="http://www.milesplit.com/performances.php?year=2004&amp;season=CC&amp;sex=m&amp;level=HS">2004 HS CC Boys</a></li>
-<li><a href="http://www.milesplit.com/performances.php?year=2006&amp;season=Indoor&amp;sex=m&amp;level=HS">2006 HS Indoor Boys</a></li>
-<li><a href="http://www.milesplit.com/performances.php?year=2006&amp;season=Indoor&amp;sex=f&amp;level=HS">2006 HS Indoor Girls</a></li>
-<li><a href="http://www.milesplit.com/performances.php?year=2004&amp;season=CC&amp;sex=f&amp;level=HS">2004 HS CC Girls</a></li>
-</ul>
-</li>
-<!-- CAMPS -->
-<li>
-<a href="http://www.milesplit.com/camps.php?site=MileSplit&amp;state=&amp;sport=&amp;type=&amp;audience=">Camps/Clinics</a>
-<ul>
-<li><a href="http://www.milesplit.com/camps.php?type=camp&amp;sport=tf&amp;site=MileSplit">Track &amp; Field Camps</a></li>
-<li><a href="http://www.milesplit.com/camps.php?type=clinic&amp;sport=tf&amp;site=MileSplit">Track &amp; Field Clinics</a></li>
-<li><a href="http://www.milesplit.com/camps.php?type=camp&amp;sport=cc&amp;site=MileSplit">Cross Country Camps</a></li>
-</ul>
-</li>
-<li>
-<a href="http://milesplit.com/training/">Training</a>
-</li>
-<li>
-<a href="http://www.milesplit.com/bb/topics.php?forum=National">Forum</a>
-<ul>
-
-<li><a href="http://www.milesplit.com/bb/topics.php?forum=National">National Forum</a></li>
-<li><a href="http://www.milesplit.com/bb/topics.php?forum=General">General Forum</a></li>
-</ul>
-</li>
-<li><a href="http://www.milesplit.com/chat.php">Chat</a></li>
-<li>
-<a href="#">Misc</a>
-<ul>
-<li><a href="http://racetab.milesplit.com" target="_new">RaceTab Meet Manager</a></li>
-<li><a href="http://www.milesplit.com/calc/">Conversion Calculator</a></li>
-</ul>
-</li>
-
-<li>
-<a href="http://www.milesplit.com/help">Help</a>
-<ul>
-<li><a href="http://www.milesplit.com/bb/trouble.php?site=MileSplit">Login Help</a></li>
-<li><a href="http://www.milesplit.com/help/privacy.php">Privacy Policy</a></li>
-<li><a href="http://www.milesplit.com/help/index.php">About Mile Split, Inc.</a></li>
-<li><a href="http://www.milesplit.com/help/contact.php">Contact Us</a></li>
-<li><a href="http://www.milesplit.com/help/advertise.php">Advertise</a></li>
-</ul>
-</li>
-</ul>			</div>
-	
-
-
-	<div id="Content"><div id="Content2">
-	
-
-<div class="padding">
-
-<h1>Privacy Policy</h1>
-
-<table>
-	<tbody><tr valign="top"><td width="200">
-	
-		<a href="index.php">About the Company</a><br>
-		<a href="advertise.php">Advertise</a><br>
-		<a href="contact.php">Contact Us</a><br>
-		<a href="copyright.php">Copyright Information</a><br>
-		<a href="privacy.php">Privacy Policy</a><br>
-	
-	</td><td>
-	
-		<p>
-		Updated: August 24, 2006
-		</p>
-		<p>
-		MileSplit, Inc. will always look after the best interests and the privacy of our visitors first.  We will never sell your personal information to a third party or provide it to individuals outside of our company without your specific permission, where required by law, or to protect public safety.
-		</p><p>
-		We decided to structure our privacy policy a little different than many sites:  in plain (non-technical) English that 
-		is simple to understand.  We value transparency and trust. And we hope to earn and keep your trust.
-		</p><p>
-		Updates to this privacy policy may be made periodically and will be posted here.
-		</p><p>
-		<b>What data do you collect about visitors?</b>
-		</p><p>
-		Traffic patterns are monitored on an aggregate basis.  In other words, we keep track of what pages within our web site people are going to, what geographic areas they're coming from, what web site referred them to us, etc.  However, that information is never tied to a specific user.  
-		</p><p>
-		In order to access certain parts of the web site (such as the forums or subscription only areas) we ask you to register 
-		to create an account with us.  When setting you your account, you define your privacy settings so no one outside of 
-		our company will have access to your real name, location, email address, etc. unless you let them.  We will not sign 
-		you up for any mailing lists and while we may contact you, it will only be for specific information regarding your 
-		account (not generic bulk emails) or to get an important message out to our users.  We have no desire to clog your inbox with 
-		garbage and we won't do it.
-		</p><p>
-		<b>What are cookies and how do you use them?</b>
-		</p><p>
-		Cookies are a small file that your web browser stores in order for a web site to store a bit of information that it can retrieve later.  A web site can only read cookie data that it wrote and not cookies that other web sites set.  We use cookies to allow you to login, remember your preferences, and other such things.
-		</p><p>
-		<b>Will you provide my personal information to others?</b>
-		</p><p>
-		Simply: No.  The only exception would be where we are legally required to do so or in order to protect public safety.  We will never sell or otherwise provide your information
-		to a third party without your specific permission.
-		</p><p>
-		<b>How do I change my personal information or privacy settings in my account?</b>
-		</p><p>
-		You can log in to your account (if you created one) and change your information or settings at any time.  Just login 
-		and then click on the "Profile" link at the top right of any page.  From your profile there will be edit buttons that allow you to make changes to different areas.
-		You will not be able to change your login name or email address.  This is because both of these must be unique in our system and also because
-		we require valid email addresses.
-		</p><p>
-		<b>Why should I trust you?</b>
-		</p><p>
-		Because we're good people!  And we hate spam email just as much as you do!
-		</p><p>
-		<b>How will you secure my credit card/financial information?</b>
-		</p><p>
-		We do not store any credit card or other financial data.
-		</p>
+	<div id="wrapper">
 		
-	</td></tr>
-</tbody></table>
+		<div id="adbar"><div class="lining"><div class="bumper">
+			<div class="leaderboard"><script type="text/javascript" language="JavaScript"><!--//--><![CDATA[//><!--
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/jtvs.23000.universalsports/partner/milesplitus/;tile=1;dcopt=ist;sz=728x90;ord=868557?"><\/script>');
 
+//--><!]]></script><script type="text/javascript" src="http://ad.doubleclick.net/adj/jtvs.23000.universalsports/partner/milesplitus/;tile=1;dcopt=ist;sz=728x90;ord=868557?"></script><noscript><a href="http://ad.doubleclick.net/jump/jtvs.23000.universalsports/partner/milesplitus/;pos=;tile=1;sz=728x90;ord=868557?" target="_blank"><img src="http://ad.doubleclick.net/ad/jtvs.23000.universalsports/partner/milesplitus/;pos=;tile=1;sz=728x90;ord=868557?" border="0" alt="" /></a></noscript></div>
+			<div class="search">
+				<div class="partner"><a href="/click/48" title="Universal Sports" target="_new" style=""><img src="http://www.milesplit.us/files/usa/ads/universal-122008.jpg" width="200" height="63"></a></div>
+				<form action="/search" onsubmit="return ExecuteSearch()">
+				<input id="searchbox" class="textbox" name="q" type="text" value="Search MileSplit..." onkeypress="return SearchKeyPress(event)">
+				<button type="submit" value="Go">Go</button>
+				</form>
+			</div>
+		</div></div></div>
+		
+		<div id="networkbar"><div class="lining"><div class="bumper">
+			<div id="flag">
+				<div class="motto"><a href="http://www.milesplit.us">THE NATION'S PREMIER HIGH SCHOOL T&amp;F/XC NETWORK</a></div>
+				<div class="dropdown">
+					<table style="with: 100%"><tbody><tr valign="top"><td style="padding-right: 10px;">
+						<strong>MileSplit US - Highlighted Features</strong>
+						<p>
+							<a href="http://USA.milesplit.mobi"><img src="http://www.milesplit.us/images/logos/msmobile.png" align="left" hspace="5"></a>
+							<b><a href="http://USA.milesplit.mobi">MileSplit for Mobile</a></b><br>
+							Access MileSplit on your smart phone at <a href="http://USA.milesplit.mobi">milesplit.mobi</a>
+						</p>
+						<p>
+							<b><a href="http://www.racetab.us">RaceTab Meet Manager</a></b><br>
+							Now available FREE!  <a href="http://www.racetab.us">Download version 2 now</a>. Version will be released in February 2009.
+						</p>
+					</td><td style="width: 170px;">
+						<strong>MileSplit Sites</strong>
+						<ul>
+							<li><b><a href="http://www.milesplit.us">National Portal</a></b></li>
+							<li><a href="http://AL.milesplit.us">Alabama</a></li>
+							<li><a href="http://AK.milesplit.us">Alaska</a></li>
+							<li><a href="http://AZ.milesplit.us">Arizona</a></li>
+							<li><a href="http://AR.milesplit.us">Arkansas</a></li>
+							<li><a href="http://CA.milesplit.us">California</a></li>
+							<li><a href="http://CO.milesplit.us">Colorado</a></li>
+							<li><a href="http://CT.milesplit.us">Connecticut</a></li>
+							<li><a href="http://DE.milesplit.us">Delaware</a></li>
+							<li><a href="http://DC.milesplit.us">District of Columbia</a></li>
+							<li><a href="http://FL.milesplit.us">Florida</a></li>
+							<li><a href="http://GA.milesplit.us">Georgia</a></li>
+							<li><a href="http://HI.milesplit.us">Hawaii</a></li>
+							<li><a href="http://ID.milesplit.us">Idaho</a></li>
+							<li><a href="http://IL.milesplit.us">Illinois</a></li>
+							<li><a href="http://IN.milesplit.us">Indiana</a></li>
+							<li><a href="http://IA.milesplit.us">Iowa</a></li>
+							<li><a href="http://KS.milesplit.us">Kansas</a></li>
+							<li><a href="http://KY.milesplit.us">Kentucky</a></li>
+							<li><a href="http://LA.milesplit.us">Louisiana</a></li>
+							<li><a href="http://ME.milesplit.us">Maine</a></li>
+							<li><a href="http://MD.milesplit.us">Maryland</a></li>
+							<li><a href="http://MA.milesplit.us">Massachusetts</a></li>
+							<li><a href="http://MI.milesplit.us">Michigan</a></li>
+							<li><a href="http://MN.milesplit.us">Minnesota</a></li>
+							<li><a href="http://MS.milesplit.us">Mississippi</a></li>
+							<li><a href="http://MO.milesplit.us">Missouri</a></li>
+							<li><a href="http://MT.milesplit.us">Montana</a></li>
+							<li><a href="http://NE.milesplit.us">Nebraska</a></li>
+							<li><a href="http://NV.milesplit.us">Nevada</a></li>
+							<li><a href="http://NH.milesplit.us">New Hampshire</a></li>
+							<li><a href="http://NJ.milesplit.us">New Jersey</a></li>
+							<li><a href="http://NM.milesplit.us">New Mexico</a></li>
+							<li><a href="http://NY.milesplit.us">New York</a></li>
+							<li><a href="http://NC.milesplit.us">North Carolina</a></li>
+							<li><a href="http://ND.milesplit.us">North Dakota</a></li>
+							<li><a href="http://OH.milesplit.us">Ohio</a></li>
+							<li><a href="http://OK.milesplit.us">Oklahoma</a></li>
+							<li><a href="http://OR.milesplit.us">Oregon</a></li>
+							<li><a href="http://PA.milesplit.us">Pennsylvania</a></li>
+							<li><a href="http://RI.milesplit.us">Rhode Island</a></li>
+							<li><a href="http://SC.milesplit.us">South Carolina</a></li>
+							<li><a href="http://SD.milesplit.us">South Dakota</a></li>
+							<li><a href="http://TN.milesplit.us">Tennessee</a></li>
+							<li><a href="http://TX.milesplit.us">Texas</a></li>
+							<li><a href="http://UT.milesplit.us">Utah</a></li>
+							<li><a href="http://VT.milesplit.us">Vermont</a></li>
+							<li><a href="http://VA.milesplit.us">Virginia</a></li>
+							<li><a href="http://WA.milesplit.us">Washington</a></li>
+							<li><a href="http://WV.milesplit.us">West Virginia</a></li>
+							<li><a href="http://WI.milesplit.us">Wisconsin</a></li>
+							<li><a href="http://WY.milesplit.us">Wyoming</a></li>
+						</ul>
+					</td></tr></tbody></table>
+				</div>
+			</div>
+			<div id="user">
+								<div class="info">
+					<span class="welcome">You are not logged in. <a href="/register">Register</a> or <a href="#">Login</a>.</span>
+				</div>
+				<div class="dropdown">
+					<strong>MileSplit/MileSplit US Login</strong>
+					<form method="POST"><table style="margin-top: 5px;">
+					<tbody><tr>
+						<td>User Name:</td>
+						<td><input type="text" name="user"></td>
+						<td rowspan="2">
+							<button type="submit" name="action" value="Login">Login</button>
+							<a href="/register">Register</a>
+							<a href="/forgot">Forgot your login info?</a>
+						</td>
+					</tr>
+					<tr>
+						<td>Password:</td>
+						<td><input type="password" name="password"></td>
+					</tr>
+					</tbody></table>
+					</form>
+					<strong>Login with Facebook <span style="color: #ff0000">NEW!</span></strong>
+					<table style="margin-top: 5px;">
+						<tbody><tr><td>
+							<a href="/fb/connect"><img src="http://wiki.developers.facebook.com/images/b/be/Connect_white_medium_short.gif"></a>
+							<i><a href="/help/faq/loggingin#facebook">What's this?</a></i>
+						</td></tr>
+					</tbody></table>
+				</div>
+							</div>
+		</div></div></div>
+		
+		<div id="sitebar"><div class="lining"><div class="lining2"><div class="bumper"><div class="bumper2">
+			<div class="customhtml"><span><a href="http://pa.milesplit.us/pages/Online_Registration"><img src="http://pa.milesplit.us/files/pa/08templatefiles/meet_reg.gif"></a></span></div>
+			<a href="/" class="logo"></a>
+		</div></div></div></div></div>
+		
+		<div id="navbar"><div class="lining"><div class="lining2"><div class="bumper"><div class="bumper2">
+					<ul>
+				<li>
+					<a href="/">Home</a>
+				</li>
+								<li>
+					<a href="/articles">News</a>
+					<div class="dropdown">
+						<a href="/articles">Articles Archive</a>
+						<a href="/signings">College Signings</a>
+					</div>
+				</li>
+				<li>
+					<a href="/meets/results">Results</a>
+					<div class="dropdown">
+												<strong>Indoor Track &amp; Field</strong>
+						<a href="/meets/results/2008/indoor">2008 Indoor T&amp;F</a>
+						<a href="/meets/results/2007/indoor">2007 Indoor T&amp;F</a>
+						<a href="/meets/virtual/2008/indoor/hs">Create a Virtual Meet</a>
+												<strong>Cross Country</strong>
+						<a href="/meets/results/2008/cc">2008 Cross Country</a>
+						<a href="/meets/results/2007/cc">2007 Cross Country</a>
+						<a href="/meets/virtual/2007/cc/hs">Create a Virtual Meet</a>
+						<strong>Outdoor Track &amp; Field</strong>
+						<a href="/meets/results/2008/outdoor">2008 Outdoor T&amp;F</a>
+						<a href="/meets/results/2007/outdoor">2007 Outdoor T&amp;F</a>
+						<a href="/meets/virtual/2008/outdoor/hs">Create a Virtual Meet</a>
+						<strong>Road Racing</strong>
+						<a href="/meets/results/2008/road">2008 Road Racing</a>
+						<a href="/meets/results/2007/road">2007 Road Racing</a>
+					</div>
+				</li>
+				<li>
+					<a href="/rankings/2008">Rankings</a>
+					<div class="dropdown">
+												<strong>Indoor Track &amp; Field</strong>
+						<a href="/rankings/2009/indoor/hs/f">High School Girls</a>
+						<a href="/rankings/2009/indoor/hs/m">High School Boys</a>
+																								<strong>Cross Country</strong>
+						<a href="/rankings/2008/cc/hs/f/5000m">2008 High School Girls Individuals</a>
+						<a href="/rankings/2008/cc/hs/m/5000m">2008 High School Boys Individuals</a>
+						<a href="/teamscores/2008/cc/hs/f/5000m">2008 High School Girls Teams</a>
+						<a href="/teamscores/2008/cc/hs/m/5000m">2008 High School Boys Teams</a>
+						<a href="/rankings/2007/cc/hs/f/5000m">2007 High School Girls Individuals</a>
+						<a href="/rankings/2007/cc/hs/m/5000m">2007 High School Boys Individuals</a>
+						<a href="/teamscores/2007/cc/hs/f/5000m">2007 High School Girls Teams</a>
+						<a href="/teamscores/2007/cc/hs/m/5000m">2007 High School Boys Teams</a>
+																		<strong>Outdoor Track &amp; Field</strong>
+						<a href="/rankings/2008/outdoor/hs/f">High School Girls</a>
+						<a href="/rankings/2008/outdoor/hs/m">High School Boys</a>
+																	</div>
+				</li>
+				<li>
+					<a href="/meets/calendar/2009">Calendar</a>
+					<div class="dropdown">
+						<strong>Cross Country</strong>
+						<a href="/meets/calendar/2008/cc">2008 Cross Country</a>
+						<a href="/meets/calendar/2009/cc">2009 Cross Country</a>
+						<strong>Indoor Track &amp; Field</strong>
+						<a href="/meets/calendar/2009/indoor">2009 Indoor T&amp;F</a>
+						<strong>Outdoor Track &amp; Field</strong>
+						<a href="/meets/calendar/2009/outdoor">2009 Outdoor T&amp;F</a>
+						<strong>Road Racing</strong>
+						<a href="/meets/calendar/2008/road">2008 Road Racing</a>
+						<a href="/meets/calendar/2009/road">2009 Road Racing</a>
+					</div>
+				</li>
+				<li>
+					<a href="/forums/National">Community</a>
+					<div class="dropdown">
+						<strong>Forums</strong>
+						<a href="/forums/National">National Forum</a>
+						<a href="/forums/National">National</a>
+						<strong>Training Blogs</strong>
+						<a href="/trainingblogs">Latest Blogs</a>
+					</div>
+				</li>
+				<li>
+					<a href="/videos">Videos</a>
+					<div class="dropdown">
+						<a href="/videos">List All</a>
+						<a href="/videos/tags/race">Race Footage</a>
+						<a href="/videos/tags/interview">Interviews</a>
+					</div>
+				</li>
+				<li><a href="/photos">Photos</a></li>
+				<li>
+					<a href="/teams">Teams</a>
+					<div class="dropdown">
+						<a href="/teams">List of Schools</a>
+						<a href="/clubs">List of Clubs</a>
+						<a href="/teams/County">Counties</a>
+												<a href="/teams/Region">Regions</a>					</div>
+				</li>
+				<li>
+					<a href="/camps">Camps</a>
+									</li>
+				<li>
+					Resources
+					<div class="dropdown">
+						<a href="/calc">Conversion Calculator</a>
+						<a href="http://racetab.milesplit.com">RaceTab Meet Manager</a>
+						<a href="http://www.milesplit.us/pages/Online_Registration">Online Registration</a>
+						<a href="http://www.milesplit.us/pages/training">Training Docs</a>
+					</div>
+				</li>
+				<li>
+					<a href="/help">Help</a>
+					<div class="dropdown">
+						<a href="/staff">Site Staff</a>
+						<a href="/help/faq">Frequently Asked Questions</a>
+						<a href="/help/about/contact">Contact Us</a>
+						<a href="/help/about/corporate">About MileSplit US</a>
+						<a href="/help/jobs">MileSplit Jobs Opportunities</a>
+					</div>
+				</li>
+							</ul>
+					</div></div></div></div></div>
+		
+		<div id="content"><div class="lining"><div class="bumper">
+<div class="withsky">
 
-</div></div>
+<div id="leftcol" class="column">
+
+	<h1><a href="/help">Help</a>: Privacy Policy</h1>
 	
-<div id="footer">
-	<div id="copyright"> 
-		© Copyright and/or <a href="http://www.milesplit.com/help/copyright.php">Mile Split, Inc.</a>   All rights reserved. <a href="http://www.milesplit.com/help/privacy.php">Privacy Policy</a>
+
+	
+<p>
+Updated: October 18, 2007
+</p><p>
+MileSplit, Inc. will always look after the best interests and the privacy of our visitors first.  
+This Site is offered and made available only to users 13 years of age or older who reside in the 
+United States of America, its territories and possessions ("U.S."). If you are not yet 13 years old, 
+or do not reside in the U.S., please discontinue using the Site immediately, or if, for any reason, 
+you do not agree with this Privacy Policy, please do not participate in the features, activities and 
+services that require you to provide your Personal Information. This Privacy Policy is legally binding 
+on all users.
+</p><p>
+<b>What information do you collect about me? </b><br>
+MileSplit collects personal identifying information from you only if you voluntarily submit such information 
+to us on website and through email. When visiting our online sites, we collect volunteered information such as 
+survey information and/or site registration. 
+</p><p>
+<b>What's in it for me? </b><br>
+Plenty! The information we collect allows us to customize the content and/or layout of our page for each 
+visitor. Plus, it enables us to notify you about updates to our Web site...contact you with special offers of 
+interest...and customize your Web site experience. In addition, information is shared with reputable organizations 
+who may contact you with special offers of possible interest. 
+</p><p>
+<b>What are "cookies" and what do they do for me? </b><br>
+Cookies are a small file that your web browser stores in order for a web site to store a bit of information 
+that it can retrieve later. A web site can only read cookie data that it wrote and not cookies that other 
+web sites set. We use cookies to allow you to login, remember your preferences, and other such things. 
+</p><p>
+<b>With whom do you share information about me? </b><br>
+We will not share your information with third parties unless you authorize it.  For example, you may choose 
+to allow us to share your information with Rodale Inc., the publisher of Runner's World and Running Times 
+Magazines.  The only other exception would be where we are legally required to do so or in order to protect 
+public safety. We will never sell or otherwise provide your information to a third party without your permission. 
+</p><p>
+<b>Links </b><br>
+Our site may, on occasion, contain links to other sites with information gathering practices different from 
+our own. Visitors should consult privacy policies for all other sites as we have no control over information 
+submitted to or collected by such third parties. 
+</p><p>
+Our site sometimes offers promotions sponsored or co-sponsored by third parties. These third parties may obtain 
+personally identifiable information that visitors voluntarily submit to participate in the contest, sweepstakes 
+or promotion. We have no control over the third party sponsor's use of this information.  This site will notify 
+you at the time of requesting personally identifiable information if third party sponsors will be provided access 
+to such information. 
+</p><p>
+<b>What if I don't want e-mail from MileSplit? </b><br>
+We do not send out an regular emails or bulk mails.  But if you want to be excluded from any communication
+with us, please let us know by emailing admin@milesplit.com. 
+</p><p>
+<b>May I see the information you collect about me? </b><br>
+Yes! Upon request, we provide our customers with access to personal account information and contact information. 
+You may access the information by logging in to your account (if you created one) and change your information or 
+settings at any time. Just login and then click on the "Profile" link at the top right of any page. From your 
+profile there will be edit buttons that allow you to make changes to different areas. You will not be able to 
+change your login name or email address. This is because both of these must be unique in our system and also 
+because we require valid email addresses. 
+</p><p>
+<b>Changes... </b><br>
+We may need to change this privacy policy from time to time in order to address new issues, evolving technologies, 
+changes on our sites or business practices. We may change this policy without notice to you but we will post those 
+changes so you will always know what information we gather and how we might use that information. Please refer back 
+to this policy regularly. 
+</p><p>
+<b>Rules for Submissions and Messages </b><br>
+Responsibility for what is posted in the discussion forums lies with each user--you alone are responsible for the 
+content of your messages, and the consequences of any such messages. We cannot and do not review every submission 
+a user may make. We neither endorse nor guarantee the accuracy or propriety of any submission. We do, however, 
+reserve the right but do not assume the obligation to restrict or prohibit your use of our sites if we believe 
+you are violating any of the terms of the agreement and to remove, edit, or relocate any submission as we see fit 
+whether for legal or other reasons. 
+</p><p>
+<b>Member Conduct </b><br>
+You understand that all information, data, text, software, music, sound, photographs, graphics, video, messages 
+or other materials ("Content"), whether publicly posted or privately transmitted, are the sole responsibility of 
+the person from which such Content originated. This means that you, and not MileSplit, Inc., are entirely responsible 
+for all Content that you upload, post or otherwise transmit. We do not control the Content posted and, as such, 
+does not guarantee the accuracy, integrity or quality of such Content. You understand that by using the site, you 
+may be exposed to Content that is offensive, indecent or objectionable. 
+</p><p>
+<b>You agree to not use our site in order to: </b><br>
+upload, post or otherwise transmit any Content that is unlawful, harmful, threatening, abusive, harassing, tortious, 
+defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically or otherwise 
+objectionable;  harm minors in any way; impersonate any person or entity, including, but not limited to, a MileSplit 
+official, forum leader, guide or host, or falsely state or otherwise misrepresent your affiliation with a person or 
+entity; forge headers or otherwise manipulate identifiers in order to disguise the origin of any Content transmitted 
+through the Service or develop restricted or password-only access pages, or hidden pages or images (those not linked 
+to from another accessible page); upload, post or otherwise transmit any Content that you do not have a right to
+transmit under any law or under contractual or fiduciary relationships (such as inside information, proprietary and 
+confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements); 
+upload, post or otherwise transmit any Content that infringes any patent, trademark, trade secret, copyright or 
+other proprietary rights of any party; 
+upload, post or otherwise transmit any unsolicited or unauthorized advertising, promotional materials, "junk mail," 
+"spam," "chain letters," "pyramid schemes," or any other form of solicitation, except in those areas of the Service 
+that are designated for such purpose; 
+upload, post or otherwise transmit any material that contains software viruses or any other computer code, files or 
+programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or 
+telecommunications equipment; 
+interfere with or disrupt the servers or networks connected to the site, or disobey any requirements, procedures, 
+policies or regulations of networks connected to the site; 
+intentionally or unintentionally violate any applicable local, state, national or international law, including, 
+but not limited to, regulations promulgated by the U.S. Securities and Exchange Commission, any rules of any 
+national or other securities exchange, including, without limitation, the New York Stock Exchange, the 
+American Stock Exchange or the NASDAQ, and any regulations having the force of law; 
+"stalk" or otherwise harass another; 
+collect or store personal data about other users; 
+promote or provide instructional information about illegal activities, promote physical harm or injury against 
+any group or individual, or promote any act of cruelty to animals. 
+use your home page (or directory) as storage for remote loading or as a door or signpost to another home page 
+engage in commercial activities without the express written consent of MileSplit, Inc. This includes, but is not 
+limited to, the following activities: 
+offering for sale any products or services; 
+soliciting for advertisers or sponsors; 
+conducting raffles or contests that require any type of entry fee; 
+displaying a sponsorship banner of any kind, including those that are generated by banner or link exchange services 
+displaying banners for services that provide cash or cash-equivalent prizes to users in exchange for hyperlinks to 
+their web sites. 
+</p><p>
+<b>Rights </b><br>
+You acknowledge that we acquire all Rights to use any posted materials as described above so that we do not violate 
+any Rights you may have in materials you post. By submitting content to or through our sites, you grant us the 
+non-exclusive right to reproduce, modify and distribute it as we see fit in any medium and for any purpose in 
+any form, media, or technology now known or later developed. You also permit any other user to access, display, 
+and print such content for personal use. You vouch that any material you submit does not violate, plagiarize or 
+infringe upon the right of any third party, including copyright, trademark or proprietary rights. If non-original 
+content is included in your posting, you must obtain permission from the content owner and attribute it. 
+</p><p>
+<b>We appreciate the opportunity to serve you! </b><br>
+If you have any questions regarding this privacy policy statement or if you feel that this site has not followed 
+its stated information policy, feel free to contact us. Our postal address is: 1035 Pine Street, Apopka, FL 32703 
+and we can be reached via e-mail at: admin@milesplit.com. 
+</p><p>
+<b>Why should you trust us? </b><br>
+Because we're good people! And we hate spam email just as much as you do! 
+</p><p>
+<b>How will we secure your credit card/financial information? </b><br>
+We do not store any credit card or other financial data. 
+</p>
+
+</div>
+
+<div id="rightcol" class="column">
+
+	<div id="skyscraper">
+		<script type="text/javascript" language="JavaScript"><!--//--><![CDATA[//><!--
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/jtvs.23000.universalsports/partner/milesplitus/;tile=2;dcopt=ist;sz=160x600;ord=868557?"><\/script>');
+
+//--><!]]></script><script type="text/javascript" src="http://ad.doubleclick.net/adj/jtvs.23000.universalsports/partner/milesplitus/;tile=2;dcopt=ist;sz=160x600;ord=868557?"></script><noscript><a href="http://ad.doubleclick.net/jump/jtvs.23000.universalsports/partner/milesplitus/;pos=;tile=2;sz=160x600;ord=868557?" target="_blank"><img src="http://ad.doubleclick.net/ad/jtvs.23000.universalsports/partner/milesplitus/;pos=;tile=2;sz=160x600;ord=868557?" border="0" alt="" /></a></noscript>	</div>
+	
+</div>
+	
+
+</div>			<div class="clearer">&nbsp;</div>
+		</div></div></div>
+		
 	</div>
-	<div id="contact">
-		<em>Webmaster:</em>	Jason Byrne - <a href="mailto:admin@milesplit.com">admin@milesplit.com</a>
-	</div>
+	
+	<div id="footer"><div class="lining"><div class="bumper">
+		<div class="logo">
+	 		<a href="http://www.milesplit.us"><img src="/images/logos/milesplit-night.png"></a>
+	 		<p>
+	 			Fran McLaughlin, Webmaster<br>
+	 			<a href="mailto:fmclaughlin@milesplit.us" style="color: #ffffff">fmclaughlin@milesplit.us</a>
+	 		</p>
+	 	</div>
+	 	<div class="copyright">
+	 		© <a href="/help/support/contact">Copyright</a> 2008. MileSplit US, All Rights Reserved. <br>
+	 		In partnership with <a href="http://www.universalsports.com">Universal Sports</a>.
+	 		<a href="/help/privacy">Privacy Policy</a>
+	 	</div>
+	 	<div class="links">
+	 		<a href="http://www.milesplit.us"><strong>MileSplit US</strong></a>
+	 		<a href="/help/about">About Us</a>
+	 		<a href="/help/advertise">Advertise</a>
+	 		<a href="/help/about/management">Management Team</a>
+	 		<a href="/help/about/partners">Our Partners</a>
+	 	</div>
+	 	<div class="links">
+	 		<a href="/help"><strong>Support</strong></a>
+	 		<a href="/help/support/faq">Frequent Questions</a>
+	 		<a href="/help/support/contact">Contact Us</a>
+	 	</div>
+	 	<div class="links">
+	 		<a href="/meets/results"><strong>Meet Coverage</strong></a>
+	 		<a href="/articles">Articles</a>
+	 		<a href="/meets/results">Meet Results</a>
+	 		<a href="/meets/calendar">Meet Calendar</a>
+	 		<a href="/rankings">Rankings</a>
+	 	</div>
+	 	<div class="links">
+	 		<a href="/meets/video"><strong>Multimedia</strong></a>
+	 		<a href="/photos">Photo Albums</a>
+	 		<a href="/videos/tags/race">Race Videos</a>
+	 		<a href="/videos/tags/interview">Video Interviews</a>
+	 	</div>
+	 	<div class="links">
+	 		<div><strong>Resources</strong></div>
+	 		<a href="http://racetab.milesplit.com">RaceTab Software</a>
+	 		<a href="http://www.milesplit.us/pages/Online_Registration">Online Registration</a>
+	 	</div>
+	 	<div class="links">
+	 		<div><strong>Community</strong></div>
+	 		<a href="http://www.milesplit.us/forums/national">National Forum</a>
+	 		<a href="/trainingblogs">Latest Blogs</a>
+	 	</div>
+	 	<div class="breaker"></div>
+	</div></div></div>
+
 </div>
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
@@ -308,7 +589,4 @@ urchinTracker();
 </script>
 
 
-
-
-
-</div></body></html>
+</body></html>
