@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the karafun.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612085359id_/http%3A//www.karafun.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karafun.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220040814id_/http%3A//www.karafun.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
 **Introduction**  
-The terms listed here in constitute the RECISIO's Privacy policy for their online services . This Privacy policy consist in an explanatory document outlining how personal details are collected, processed and used for RECISIO's services. Please, consider that this policy is only available for RECISIO's www.karafun.com websites and affiliated services, hereafter the “Website”, and does not apply for the others third party sites linked on our pages. 
+The terms listed here in constitute the RECISIO's Privacy policy for their online services . This Privacy policy consists in an explanatory document outlining how personal details are collected, processed and used for RECISIO's services. Please, consider that this policy is only available for RECISIO's www.karafun.com websites and affiliated services, hereafter the ?Website?, and does not apply for the others third party sites linked on our pages. 
 
 By using our services, you agree to accept the terms listed below. 
 
