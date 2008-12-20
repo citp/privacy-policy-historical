@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antarestech.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618014226id_/http%3A//www.antarestech.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antarestech.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220111919id_/http%3A//www.antarestech.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Antares Audio Technologies
 
@@ -32,4 +32,4 @@
 
   4\. UPDATES AND CHANGES TO PRIVACY POLICY. We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site.
 
-©2008 Antares Audio Technologies. All rights reserved. [[ Privacy Policy ](https://web.archive.org/about/privacy.shtml)]
+©2008 Antares Audio Technologies. All rights reserved. [[ Privacy Policy ](http://www.antarestech.com/about/privacy.shtml)]
