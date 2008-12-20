@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instra.com privacy policy that was archived on 2008-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080223232833id_/http%3A//www.instra.com/policies/DDPrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instra.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220040907id_/http%3A//www.instra.com/policies/DDPrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Domain Directors - Your Trusted Global Domain and ENUM Registrar
 
@@ -39,7 +39,7 @@
 
 
 
-## WHOIS Policy
+## [WHOIS Policy](http://www.auda.org.au/whois-policy)
 
 The public WHOIS service is a standard feature of domain name systems around the world. The purpose of the WHOIS service is to allow users to query a domain name to find out the identity and contact details of the registrant. The WHOIS service is provided by the registry via a web-based tool and Port 43. 
 
@@ -49,7 +49,7 @@ The public WHOIS service is a standard feature of domain name systems around the
     3. Due to the policy requirements in the .au domain, the WHOIS data that is collected by registrars at the time of registration is highly accurate and reliable. However, the integrity of the WHOIS database is undermined if the data is not kept up-to-date. 
     4. In order to maintain the integrity of the WHOIS database, registrants are required to notify their registrar of any changes to WHOIS data for their domain name(s) and the registrar must update the WHOIS database on receipt of new information from the registrant. 
   2. Disclosure of WHOIS Data 
-    1. The table in [Schedule A](http://domaindirectors.com.au/policies/scheduleAtable.pdf) lists the data fields that will be disclosed on the WHOIS service (web-based and Port 43) for all domain names in the open 2LDs. 
+    1. The table in [Schedule A](http://www.instra.com/policies/scheduleAtable.pdf) lists the data fields that will be disclosed on the WHOIS service (web-based and Port 43) for all domain names in the open 2LDs. 
     2. In order to comply with Australian privacy legislation, the street address, telephone and facsimile numbers of registrants will not be disclosed. 
     3. It is necessary for the WHOIS data to include a contact email address for the registrant, for the purpose of contacting the registrant in relation to their domain name. The registrant does not have to nominate their own personal email address, but they must nominate an email address at which they can be contacted. 
     4. To address user concerns about privacy and spam, and in line with international best practice, auDA has implemented Image Verification Check (IVC) on the web-based WHOIS service. The purpose of IVC is to prevent or hinder unauthorised access to WHOIS data by automated data mining programs or scripts. For consistency, auDA has removed all email addresses from Port 43 WHOIS responses; users of Port 43 WHOIS will be referred to the web-based WHOIS service to access email addresses via IVC. 
