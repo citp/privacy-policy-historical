@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gantthead.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610010603id_/http%3A//www.gantthead.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gantthead.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220185752id_/http%3A//www.gantthead.com/privacy.cfm) for the most accurate reproduction.*
 
 # gantthead.com Privacy Policy
 
@@ -119,14 +119,13 @@ Last updated July 11, 2005.
 
 sponsored announcements and special offers
 
-**Looking to improve your requirements management practice?** Download a NEW independent report by Forrester Research, compliments of MKS: " **[Selecting the Right Requirements Management Tool -- Or Maybe None Whatsoever](http://www.gantthead.com/redirect/clickCount.cfm?ID=242678)** " 
+**["Selecting the Right Requirements Management Tool – Or Maybe None Whatsoever"](http://www.gantthead.com/redirect/clickCount.cfm?ID=245032)** – Get your **free copy** of this independent report by Forrester Research, compliments of MKS. 
 
-**Join Citrix for a live webinar to discuss how to "Boost Margins and Client Satisfaction with Remote Services."** Learn from Don Farber of Vineyardsoft how they leverage remote services to exceed Service Level Agreement expectations and increase consulting margins and expand their business geographically without adding headcount or new office locations. Live Q&A. **[Register now to attend.](http://www.gantthead.com/redirect/clickCount.cfm?ID=242850)** Can't attend? Register and we'll send you access to the archive. 
+**Since incomplete, inaccurate, and misunderstood requirements are a major source of project failures, identifying the "right" requirements for initiatives has become a high-stakes activity.** **[Learn about IBM Rational Requirements Definition and Management solutions and best practices.](http://www.gantthead.com/redirect/clickCount.cfm?ID=246093)**
 
-**Need project management training or PDUs?** Visit **[PMI.org](http://www.gantthead.com/redirect/clickCount.cfm?ID=243134)** to learn about PMI's onsite seminars and eLearning opportunities; or search the PMI Registered Education Provider (R.E.P.) database for training facilities and courses in your area 
+**Coming Soon: _New Editions_ of Four PMI Standards. Pre-order Yours Now!** Special combo offer: Pre-order one standard, get a second standard 40% off! Start meeting your standards for better project performance. Order today at **[PMI.org/MyStandards](http://www.gantthead.com/redirect/clickCount.cfm?ID=246241)**
 
-**The Best and Most Informative Toolkit for the PMO by Daptiv (formerly eProject).** The Daptiv PMO Toolkit features quality Project Management knowledge, tips and tools, recommended best practices, and case studies from our partners. For a successful PMO - **[Download the FREE PMO Toolkit!](http://www.gantthead.com/redirect/clickCount.cfm?ID=242896)**
+**There is a balance between monitoring and blocking web use in the workplace.** IT Managers need to determine the best way to deal with employee internet access while keeping the overall good of the business a priority. **[Download this whitepaper](http://www.gantthead.com/redirect/clickCount.cfm?ID=246371)** to help make an informed decision about your own web monitoring requirements 
 
-If man could be crossed with the cat, it would improve man but deteriorate the cat.  
----  
-\- Mark Twain
+**PPM WEBCAST: How Misys PLC Improved Global Resource Management — Hosted by CA**  
+Join us for this live webcast as Misys PLC discusses how they improved global visibility into their projects and portfolios while streamlining the allocation of resources across the enterprise using CA Clarity™ PPM. This interactive webcast will include a live Q&A session. **[Register now.](http://www.gantthead.com/redirect/clickCount.cfm?ID=246295)**
