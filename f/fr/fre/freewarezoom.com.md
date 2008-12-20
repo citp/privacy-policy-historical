@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freewarezoom.com privacy policy that was archived on 2008-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080508225015id_/http%3A//www.freewarezoom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewarezoom.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220173814id_/http%3A//www.freewarezoom.com/privacy) for the most accurate reproduction.*
 
-# Download Privacy - Freeware Download List
+# Privacy - Freeware Download List
 
 **Freewarezoom Privacy Statement**  
 What follows is the Privacy Statement for all Freewarezoom websites including all the websites run under the www.Freewarezoom.com domain.
