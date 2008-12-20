@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appletvhacks.net privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607155132id_/http%3A//www.appletvhacks.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appletvhacks.net privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220161551id_/http%3A//www.appletvhacks.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Apple TV Hacks
 
