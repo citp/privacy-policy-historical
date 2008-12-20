@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crea.ca privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616160624id_/http%3A//www.crea.ca/public/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crea.ca privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220012603id_/http%3A//www.crea.ca/public/legal/privacy.htm) for the most accurate reproduction.*
 
 # CREA
 
@@ -46,7 +46,7 @@ Information on properties listed for sale on MLS® systems may be provided to CR
 
   * Providing leadership, support, counsel and representation on behalf of organized real estate; 
   * Providing products, services, information and advice to individual members and Boards/Associations; 
-  * Operating and maintaining its residential property website ( **_[www. mls.ca](http://www.mls.ca/)_** and **_[www.sia.ca](http://www.sia.ca/)_** ), its commercial property website ( **[www.icx.ca](http://www.icx.ca/)** ) and its Intranet site **([www.realtorlink.ca](http://www.realtorlink.ca/)**; **[www.lienimmobilier.ca](http://www.lienimmobilier.ca/) )**; 
+  * Operating and maintaining its residential property website ([ **realtor.ca**](http://www.realtor.ca/)), its commercial property website ( **[www.icx.ca](http://www.icx.ca/)** ) and its Intranet site **([www.realtorlink.ca](http://www.realtorlink.ca/)**; **[www.lienimmobilier.ca](http://www.lienimmobilier.ca/) )**; 
   * Administering and facilitating membership in the Boards/Associations across Canada; 
   * Administering trademark and competition law compliance programs; 
   * Furthering national policies; 
