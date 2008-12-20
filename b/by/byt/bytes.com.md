@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bytes.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601195121id_/http%3A//bytes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bytes.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220114130id_/http%3A//bytes.com/privacy.html) for the most accurate reproduction.*
 
-# Bytes.com - Privacy Policy
+# None
 
-|  | 
+| 
 
 Bytes.com is an online community that acts as a venue for tech professionals ("User") to share knowledge and network with other tech professionals. 
 
@@ -44,6 +44,4 @@ We will not use or transfer personally identifiable information in ways that are
 
 **THIRD PARTY COOKIES**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.   
-  
-  
----|---
+
