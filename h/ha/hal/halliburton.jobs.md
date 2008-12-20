@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the halliburton.jobs privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621133336id_/http%3A//www.halliburton.com/default.aspx%3Fpageid%3D715) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halliburton.jobs privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220201636id_/http%3A//www.halliburton.com/default.aspx%3Fpageid%3D715) for the most accurate reproduction.*
 
 # Privacy Policy - Halliburton
 
+**PRIVACY STATEMENT**  
 **IMPORTANT:** Please read the following and the [Terms and Conditions of Use](https://web.archive.org/default.aspx?pageid=718) before accessing and using this Site.
 
 Thank you for visiting www.halliburton.com. We hope that you will find this website ("Site") helpful and informative.
 
-Halliburton is strongly committed to respecting the privacy of all persons using this website ("Site"), and the protection of any personal information which we may collect and which you may choose to share with us. Such personal information will be used in accordance with the disclosures in this Privacy Statement, which is part of and incorporated into the Terms and Conditions of Use of this [Site](https://web.archive.org/default.aspx?pageid=852).
+Halliburton is strongly committed to respecting the privacy of all persons using this website ("Site"), and the protection of any personal information which we may collect and which you may choose to share with us. Such personal information will be used in accordance with the disclosures in this Privacy Statement, which is part of and incorporated into the Terms and Conditions of Use of this Site.
 
 **Exclusive Disclosures Pertaining to Use of Personal Information.** Please note that this Privacy Statement pertains exclusively to information which you provide to us in the course of your use and access of the Site, and does not alter or affect the terms and conditions of any other agreement that you may have or enter into with any Halliburton entity for any given product or service. The latter agreement will continue to govern that specific legal relationship with Halliburton. However, some pages on this Site or areas of this Site with restricted access ("Secured Sites", including project extranets or sites engaged in e-commerce) or in foreign locations may require the application of additional or special privacy disclosures, which will be posted on the home page of that Site.
 
