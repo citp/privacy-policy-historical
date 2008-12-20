@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oc.edu privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616032857id_/http%3A//www.oc.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oc.edu privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220080545id_/http%3A//www.oc.edu/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,6 +30,6 @@ We may place a cookie on your computer that will allow us to greet you by name w
 
 The latest copy of this privacy policy is always available at: <http://www.oc.edu/privacy.aspx>.
 
-Dr. Tina Ware is a Professor of Spanish and the Chair of the Department of Language and Literature. She is a certified medical interpreter, and her research interests include pedagogy and second language acquisition. Dr. Ware is the co-editor of the book _Recipes for Success in Foreign Language Teaching: Ready-Made Activities for the L2 Classroom_.
+Dr. Loren Gieger, Professor of Bible, has received the Gaylord Chair of Distinguished Teaching award. Dr. Gieger has also done special study at Harding Graduate School of Religion and Texas Christian University, and has gone on Sabbatical archeological studies in Turkey, Syria, Jordan, Lebanon, and Egypt.
 
-[Read More](http://blogs.oc.edu/ee/index.php?/ocpeople/profiles/dr_tina_ware/)
+[Read More](http://blogs.oc.edu/ee/index.php?/ocpeople/profiles/dr_loren_g_gieger/)
