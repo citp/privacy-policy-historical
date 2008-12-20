@@ -1,73 +1,107 @@
-> *The following text is extracted and transformed from the bobsguide.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219212323id_/http%3A//bobsguide.com/cgi-bin/guide/vinfo.pl%3FID%3Dbg%26hkey%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bobsguide.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220122144id_/http%3A//bobsguide.com/cgi-bin/guide/vinfo.pl%3FID%3Dbg%26hkey%3Dprivacy%26assoc%3D%26mode%3Ds) for the most accurate reproduction.*
 
-# Bobsguide Privacy statement for visitors
+# Bobsguide
 
-This privacy statement is issued by MyGuides Ltd. It applies to visitors to the site. This does not apply to information collected from Vendors who contribute nformation to the site.
+This privacy statement is issued by MyGuides Ltd, the parent company of Bobsguide. It applies to visitors to the site. There is an additional privacy statement which applies to vendors.
 
- **Information this site gathers  
-** We collect names, email, job title, type of business, main uses of the guide, company, address, web site, telephone and fax number. 
+ **Information this site gathers**
 
-We also gather information about which contact pages and which product pages have been visited by companies. 
+We collect information about visitors related to their business activities only: name, email, job title, type of business, main uses of the guide, company, address, website, telephone and fax number. We also collect various demographic information.
 
-This information can only be collected if you register, either to view contact information or to use one of the member services.
+We also gather information about which contact pages have been visited, white papers downloaded and which product and service pages have been visited. 
 
- **Sharing of the information this site gathers.  
-** Information is shared with vendors on the guide, but only if the visitor has not opted out (see below), and the visitor has visited the contact page or one of the product pages of the vendor. 
-
-The privacy policies of vendors on the guide is not under our control. 
-
-**Opt out procedure**  
-Visitors can opt out of the information sharing with vendors. If the visitor opts out, then the information given to the vendor cannot be linked to an individual. The information is limited to job title, country, and organisation type. This is used to give a profile of visitors only. 
-
-The visitor may opt out by un-checking a box on the original registration form. The box is marked " _I agree to my details being revealed to companies on the guide who may be relevant to my interests_ ". If a visitor decides to opt out after registration the procedure is   
-
-
-  1. Visit the members area at <http://www.bobsguide.com/cgi-bin/guide/memgate.pl?ID=bg>.
-  
-
-  2. Log in with your name and password.
-  
-
-  3. Click on the link in the first box to edit your personal information. 
-  
-
-  4. Uncheck the box marked " _agree to my details being revealed to companies on the guide who may be relevant to my interests_ ".
-  
-
-  5. Submit the form.
-  
+This information can only be collected if you register, either to view contact information, receive the daily newsletter or to use one of the member services. 
 
   
- **Other uses of registration information  
-** Information from the user registration is aggregated to provide statistics such as the percentages of visitors with different reasons to be on the guide. This information is shared only as aggregate statistical information. 
+**Sharing of the information this site gathers.**
 
-**Cookies**  
-The system records your member code and if you access your member area, an encrypted version of your password in a cookie on your machine. These are on a per-session basis, ie they are removed from your computer when you close all of your browser sessions. You can make these persistent cookies by clicking on 'remember my email address' when you log in. If you do this the cookie has a life of two years. The member area includes a facility to allow you to 'forget' the information in which case the cookies are removed.
+Information is shared with vendors on the guide, but personal information will be shared only if the visitor has opted in as described below under ‘Registration procedure’ or by checking a box in the member area under ‘edit profile’. We only share information with vendors if the visitor’s activity leads us to believe that they may be interested in the vendor’s products. 
 
- **Log Files  
-** Standard web server log files are used for statistical analysis. This information cannot be linked to your personal information and is used for statistical purposes only. 
+Some of the vendors with whom we share information are outside the European Economic Community.
 
-**Third party advertising**  
-Some graphics (advertisements) on the site may be provided by a third party. We do not provide personal information to any such third party which would allow them to associate your personal information with any information they may gather.
+  
+ **Registration procedure**
 
- **Visitor's book (Guest Book)**  
-The site no longer has a visitors book.
+When a new member registers, they are sent an email restating the options they have selected for receiving the newsletter and sharing their information with vendors. They must positively agree to these options by clicking on a link in the email. No action is taken on the application (including sharing information) until this positive confirmation has been received.
 
- **Security**  
-Access to data is limited to key employees through use of passwords. 
+  
+ **Withheld Option**
 
-**Links**  
-This web site contains links to other web sites. Please note that when you click on one of these links, you are clicking to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours.
+Visitors can withhold the information sharing of personal information with vendors. If the visitor does not opt in, then the information given to the vendor is not linked to an individual. The information is limited to job title, country, company, company type, reason for using the guide and purchasing power. Company is not shown for one-man companies as this could lead to the individual being identified. This information is used to give a profile of visitors only. Members who are withheld will not be able to download literature without agreeing to share their information with vendors. 
 
- **Email**  
-If a user contacts the site via email, he/she will not be subject to receive any communication other than the response to the initial email, unless specifically requested by the user (i.e. the user will not be defaulted into receiving any secondary/promotional material). 
+The visitor may opt out by un-checking a box on the original registration form. The box is marked _"I agree to my details being revealed to companies on the guide who may be relevant to my interests. Some of these companies may be outside the European Economic Area"._
 
-**Server**  
-The server of this site is hosted by another company, but the information of the client are not shared with the server host. 
+The visitor may also fail to opt-in by failing to confirm registration from the link in the confirmation email. 
 
-**Notification of Changes in Privacy Policy  
-** If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email provided you have checked the box that indicates you wish to receive our newsletter. Otherwise please check this privacy statement. 
+If a visitor decides to opt out after registration the procedure is  
+1\. Visit the member's area at   
+<http://www.bobsguide.com/cgi-bin/guide/memgate.pl?ID=bg>.   
+2\. Log in with your registered email address and password.   
+3\. Click on the link ‘Contact details’ below the heading ‘Edit your member profile’.   
+4\. Uncheck the box marked "agree to my details being revealed to companies on the guide who may be relevant to my interests".   
+5\. Submit the form.
 
-**Queries / Inaccuracies /Contact**  
-If you find any inaccuracies in your personal information you can correct them by editing the information in your member update page at <http://www.bobsguide.com/cgi-bin/guide/memgate.pl?ID=bg>. If you have any questions regarding this statement you should first contact: Bob Browning, Textor Webmasters, 10 Barley Mow Passage, Chiswick, London, W4 4PH, by Phone number: + 44 20 8400 6115 or e-mail: bob@textor.com. The address of MyGuides.com is at [http://www.bobsguide.com/cgi-bin/guide/vinfo.pl?ID=bg&hkey=address](http://www.bobsguide.com/cgi-bin/guide/vinfo.pl?ID=bg&hkey=address). To maintain the integrity and security of your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information.  
+  
+ **We do not trade sell or otherwise distribute this information to other companies.**
+
+The privacy policy of vendors on the guide is not under our control. 
+
+  
+**Other uses of registration information**
+
+Information from the user registration is aggregated to provide statistics such as the percentages of visitors with different reasons to be on the guide. This information is shared only as aggregate statistical information. 
+
+  
+**Cookies**
+
+The system records your member code and if you access your member area, an encrypted version of your password in a cookie on your machine. These are on a per-session basis, i.e. they are removed from your computer when you close all of your browser sessions. You can make these persistent cookies by clicking on 'remember my email address' when you log in. If you do this the cookie has a life of two years. The member area includes a facility to allow you to 'forget' the information in which case the cookies are removed. 
+
+  
+**Newsletter monitoring**
+
+The newsletter includes a transparent GIF which is used to record opening rates. When you click on a link in the newsletter your browser is first directed to a program which logs the link.
+
+  
+ **Log files**
+
+Standard web server log files are used for statistical analysis. This information cannot be linked to your personal information and is used for statistical purposes only. We also use Google analytics, the same considerations apply.
+
+  
+ **Third party advertising**
+
+Some graphics (advertisements) on the site may be provided by a third party. We do not provide personal information to any such third party which would allow them to associate your personal information with any information they may gather. 
+
+  
+**Security**
+
+Access to data is limited to key employees through use of passwords. The web server and database are hosted in a secure environment protected by a Firewall. 
+
+  
+**Links**
+
+This Website contains links to other Websites. Please note that when you click on one of these links, you are clicking to another Website. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours. 
+
+  
+**Email**
+
+If a user contacts the site via email, he/she will not receive any communication other than the response to the initial email, unless specifically requested by the user (i.e. the user will not be defaulted into receiving any secondary/promotional material). 
+
+  
+**Server**
+
+The server of this site is hosted by another company, but the information of the client is not shared with the server host. 
+
+  
+**Notification of changes in Privacy Policy**
+
+If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email provided you have checked the box that indicates you wish to receive our newsletter. 
+
+  
+**Queries / Inaccuracies / Contact**
+
+If you find any inaccuracies in your personal information you can correct them by editing the information in your member update page at <http://www.bobsguide.com/cgi-bin/guide/memgate.pl?ID=bg>.
+
+If you have any questions regarding this statement you should first contact: Bobsguide support, MyGuides Ltd, 10 Barley Mow Passage, Chiswick, London, W4 4PH, by Phone number: + 44 20 8400 6115 or e-mail support@bobsguide.com. 
+
+To maintain the integrity and security of your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information.  
 
