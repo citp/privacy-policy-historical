@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ymcanyc.org privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430095532id_/http%3A//www.ymcanyc.org/index.php%3Fid%3D924) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ymcanyc.org privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220233424id_/http%3A//www.ymcanyc.org/index.php%3Fid%3D924) for the most accurate reproduction.*
 
-# Privacy Policy
+# YMCA of Greater New York: Privacy Policy
 
 We have adopted and implemented this Privacy Policy as part of our commitment to protecting your personal information from misuse. 
 
