@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the house.gov privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625201010id_/http%3A//www.house.gov/house/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the house.gov privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220013054id_/http%3A//www.house.gov/house/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - United States House of Representatives, 110th Congress, 2nd Session
 
