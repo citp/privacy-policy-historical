@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opendoorsusa.org privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531175541id_/http%3A//www.opendoorsusa.org/content/view/129) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendoorsusa.org privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220044551id_/http%3A//www.opendoorsusa.org/content/view/129) for the most accurate reproduction.*
 
 # Privacy Policy - Open Doors USA
 
