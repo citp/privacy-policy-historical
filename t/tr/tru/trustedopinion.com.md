@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustedopinion.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620045734id_/http%3A//www.trustedopinion.com/pub/policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedopinion.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220140340id_/http%3A//www.trustedopinion.com/pub/policy.do) for the most accurate reproduction.*
 
 # Trusted Opinion
 
@@ -100,9 +100,8 @@ Trusted Opinion Inc.
 c/o Wilson Sonsini Goodrich & Rosati  
 Palo Alto Headquarters  
 650 Page Mill Road  
-Palo Alto, California 94304-1050  
+Palo Alto, CA, USAlifornia 94304-1050  
 Phone | 650-493-9300  
 Fax | 650-493-6811
 
-Attention: Craig N. Lang   
-
+Attention: Craig N. Lang 
