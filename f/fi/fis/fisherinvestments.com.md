@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the fisherinvestments.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607115556id_/http%3A//www.fi.com/us/security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fisherinvestments.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220103725id_/http%3A//www.fi.com/us/security.aspx) for the most accurate reproduction.*
 
 # Fisher Investments | Privacy & Security
 
   
-[Home](https://web.archive.org/web/20080607115556id_/http%3A//www.fi.com/)  >  Privacy & Security
+[Home](https://web.archive.org/web/20081220103725id_/http%3A//www.fi.com/)  >  Privacy & Security
 
 ### Fisher Investments Privacy and Security
 
