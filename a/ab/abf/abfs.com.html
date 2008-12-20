@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the abfs.com privacy policy that was archived on 2008-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080511192349id_/http%3A//www.abfs.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the abfs.com privacy policy that was archived on 2008-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220163340id_/http%3A//abfs.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>ABF Freight System, Inc. - Privacy Policy</title>
 <meta name="description" content="ABF is committed to protecting your privacy. We use the information we collect to provide you the most robust Internet applications in the transportation industry.">
 <meta name="keywords" content="privacy policy, transportation privacy, shipment information privacy, security, cookies">
-<script language="Javascript" src="/Include/AllInclude-STC.js?V=2.9"></script>
+<script language="Javascript" src="/Include/AllInclude-STC.js?V=3.0"></script>
 <script language="JavaScript">
 <!--
  var jsBlnAutoFillOn         = false;
@@ -28,7 +28,7 @@
 
 // -->
 </script>
-<script language="JavaScript" src="/Include/customer_info-STC.js?V=1.3"></script><script language="javascript">
+<script language="JavaScript" src="/Include/customer_info-STC.js?V=1.6"></script><script language="javascript">
 <!--
 var strToolCode = '';
 // -->
@@ -39,7 +39,7 @@ var blnUserActionTracked = false ; //used so multiple actions are not tracked fo
 function TrackUserAction(mOption)
 {  var strPage     = '/ABFGlobal/RemoteUsageTracking.asp' ;
    var strQString  = '?Option='+ mOption
-       strQString += '&Parm=   PBWSC5SLL38.103.63.17                                                                 '
+       strQString += '&Parm=   PY6KTHVMF67.202.43.229                                                                '
        strQString += '&VERSION=' + Math.random();
 
    if (!blnUserActionTracked)
@@ -49,9 +49,9 @@ function TrackUserAction(mOption)
    }
 }
 // -->
-</script><script language="Javascript" src="/ABFGlobal/Include/ajax-STC.js?V=1.3"></script>
+</script><script language="Javascript" src="/ABFGlobal/Include/ajax-STC.js?V=1.4"></script>
 
-<script language="Javascript" src="/Include/PrintEmail-STC.js?V=1.19"></script>
+<script language="Javascript" src="/Include/PrintEmail-STC.js?V=1.21"></script>
 <script language="Javascript" src="/Include/Menu-STC.js?V=1.23"></script><script language="JavaScript">
 <!--
 //Note: Any changes to the functions in this script block must also be made in the
@@ -203,36 +203,31 @@ function DisplayWait(strMessage)
 
 }
 
-function keyPress(e) {
-   if (ie4)
-   {
-      var thisEvent = (event) ? event : null
-   }
-   else
-   {
-      var thisEvent = (e) ? e : null
-   }
+function keyPress(e)
+{
+   if (ie4) {var thisEvent = (event) ? event : null;}
+   else     {var thisEvent = (e) ? e : null;}
 
-   if (thisEvent) {
-      if (thisEvent.ctrlKey && thisEvent.shiftKey) {
-         for (var i = 0; i < hotkeys.length; i++) {
-            if (String.fromCharCode(thisEvent.keyCode) == hotkeys[i].key) {
-               window.location = hotkeys[i].loc
-            }
+   if (thisEvent)
+   {  if (thisEvent.ctrlKey && thisEvent.shiftKey)
+      {  for (var i = 0; i < hotkeys.length; i++)
+         {  if (String.fromCharCode(thisEvent.keyCode) == hotkeys[i].key)
+            {  window.location = hotkeys[i].loc; }
          }
       }
    }
 }
-
 // -->
 </script>
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
 _uacct = "UA-2086962-1";
+_udn="none";
+_ulink=1;
 urchinTracker();
 </script>
+
 
 <script language="Javascript" src="/Include/DynamicDivTool-STC.js?v=1.1"></script>
 
@@ -263,7 +258,7 @@ function showElementsIE() {}
 var intButtonNavHeight = 72
 var blnExpandMenu = true
 var objDensityCalculator = new DynamicDivTool(
-                                       "/tools/shared/densityCalculator-STC.js?0923200432806PM",
+                                       "/tools/shared/densityCalculator-STC.js?923200422808PM",
                                        "Density Calculator",
                                        30);
 objDensityCalculator.onLoad = assignDCContents;
@@ -282,56 +277,56 @@ txt = txt + "<TABLE BORDER=\"0\" CELLPADDING=\"1\" CELLSPACING=\"1\" BGCOLOR=\"#
 txt = txt + "<TR><TD CLASS=\"sectionHeader\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\">Before You Ship</TD></TR>"
 txt = txt + "<TR><TD CLASS=\"sectionCell\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\">"
 txt = txt + "<TABLE BORDER=\"0\" CELLPADDING=\"2\" CELLSPACING=\"0\">"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/ltlquotes/?NCHK=ATP\">Rate Quotation</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/timekeeper/?NCHK=ATP\">TimeKeeper Quotation</A></SPAN><SPAN CLASS=\"small2\"><BR>(expedited, guaranteed)</SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/rsearch/?NCHK=ATP\">Routing & Service Center Search</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/transit/?NCHK=ATP\">Transit Times</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/bolfmt/?NCHK=ATP\">Bill of Lading Creation</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/pickup/?NCHK=ATP\">Pickup Request</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/slip/?NCHK=ATP\">Packing Slip Creation</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/labels/?NCHK=ATP\">Shipping Labels</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/nmfc/?NCHK=ATP\">NMFC Request</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/ltlquotes/?NCHK=ATP\">Rate Quotation</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/timekeeper/?NCHK=ATP\">TimeKeeper Quotation</a></span><span class=\"small2\"><br>(expedited, guaranteed)</span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/rsearch/?NCHK=ATP\">Routing & Service Center Search</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/transit/?NCHK=ATP\">Transit Times</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/bolfmt/?NCHK=ATP\">Bill of Lading Creation</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/pickup/?NCHK=ATP\">Pickup Request</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/slip/?NCHK=ATP\">Packing Slip Creation</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/labels/?NCHK=ATP\">Shipping Labels</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/nmfc/?NCHK=ATP\">NMFC Request</a></span><span class=\"small2\"></span></td></tr>"
 txt = txt + "</TABLE></TD></TR></TABLE></TD><TD WIDTH=\"3\"></TD>"
 txt = txt + "<TD VALIGN=\"TOP\" ALIGN=\"LEFT\">"
 txt = txt + "<TABLE BORDER=\"0\" CELLPADDING=\"1\" CELLSPACING=\"1\" BGCOLOR=\"#006044\" CLASS=\"allToolsTable\">"
 txt = txt + "<TR><TD CLASS=\"sectionHeader\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\">After You Ship</TD></TR>"
 txt = txt + "<TR><TD CLASS=\"sectionCell\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\">"
 txt = txt + "<TABLE BORDER=\"0\" CELLPADDING=\"2\" CELLSPACING=\"0\">"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/trace/?NCHK=ATP\">Tracking &amp; E-mail Notification</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/trace/?NCHK=ATP\">Tracking &amp; E-mail Notification</a></span><span class=\"small2\"></span></td></tr>"
 txt = txt + "</TABLE></TD></TR></TABLE></TD><TD WIDTH=\"3\"></TD>"
 txt = txt + "<TD VALIGN=\"TOP\" ALIGN=\"LEFT\">"
 txt = txt + "<TABLE BORDER=\"0\" CELLPADDING=\"1\" CELLSPACING=\"1\" BGCOLOR=\"#006044\" CLASS=\"allToolsTable\">"
 txt = txt + "<TR><TD CLASS=\"sectionHeader\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\">Other Tools</TD></TR>"
 txt = txt + "<TR><TD CLASS=\"sectionCell\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\">"
 txt = txt + "<TABLE BORDER=\"0\" CELLPADDING=\"2\" CELLSPACING=\"0\">"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/abfforms/?NCHK=ATP\">Forms &amp; ABF Documents</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/exchange/?NCHK=ATP\">Exchange Rates</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/claimfile/?NCHK=ATP\">Loss &amp; Damage Claims, Filing</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/claims/?NCHK=ATP\">Loss &amp; Damage Claims, Status</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/reports/center.asp?NCHK=ATP\">Reports Center</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/timekeeper/resourcecenter/?NCHK=ATP\">TimeKeeper Resource Center</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/supplychain/?NCHK=ATP\">Supply Chain Services</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/abfforms/?NCHK=ATP\">Forms &amp; ABF Documents</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/exchange/?NCHK=ATP\">Exchange Rates</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/claimfile/?NCHK=ATP\">Loss &amp; Damage Claims, Filing</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/claims/?NCHK=ATP\">Loss &amp; Damage Claims, Status</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/reports/center.asp?NCHK=ATP\">Reports Center</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/timekeeper/resourcecenter/?NCHK=ATP\">TimeKeeper Resource Center</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/supplychain/?NCHK=ATP\">Supply Chain Services</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"javascript:toolPopup('xWin','/tools/DensityCalculator/default.asp?inWin=Y',345,210,true,false,true,false,'', (screen.height-(210))/2, (screen.width-345)/2);\">Density Calculator</a>&nbsp;<img src=\"/images/popup1.bmp\" width=\"9\" height=\"9\"></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"javascript:toolPopup('xWin','/tools/shared/CubeWizard.asp?inWin=Y',345,340,true,false,true,false,'', (screen.height-(340))/2, (screen.width-345)/2);\">Cube Calculator</a>&nbsp;<img src=\"/images/popup1.bmp\" width=\"9\" height=\"9\"></span><span class=\"small2\"></span></td></tr>"
 txt = txt + "</TABLE></TD></TR></TABLE></TD><TD WIDTH=\"3\"></TD>"
 txt = txt + "<TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><TABLE BORDER=\"0\" CELLPADDING=\"1\" CELLSPACING=\"1\" BGCOLOR=\"#006044\" CLASS=\"allToolsTable\">"
 txt = txt + "<TR><TD CLASS=\"sectionHeader\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\"><A STYLE=COLOR:white; HREF=\"/tools/accountinfo/acctpswd.asp\">Logon</A> to access...</TD></TR>"
 txt = txt + "<TR><TD CLASS=\"sectionCell\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\"><TABLE BORDER=\"0\" CELLPADDING=\"2\" CELLSPACING=\"0\">"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/AutoTrack/?NCHK=ATP\">AutoTrack</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/docret/?NCHK=ATP\">Document Retrieval</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/billreview/?NCHK=ATP\">Invoice Review</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/reports/history?NCHK=ATP\">Historical Reports</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/reports/charting?NCHK=ATP\">Charts &amp; Graphs</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/overchargeclaims/?NCHK=ATP\">Overcharge Claims</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/merge/?NCHK=ATP\">Merge-in-Transit</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/planner/?NCHK=ATP\">Shipment Planner</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/reroute/?NCHK=ATP\">Dynamic Rerouting</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/ziploadguide/?NCHK=ATP\">Zip Loading Guide</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/director/?NCHK=ATP\">Shipment Director</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/commodities/view/?NCHK=ATP\">My Commodities</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/contacts/view/?NCHK=ATP\">My Contacts</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/multiship/?NCHK=ATP\">MultiShipment Tender</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/chargecalc/?NCHK=ATP\">Shipping Charges Calculator</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"javascript:toolPopup('xWin','/tools/DensityCalculator/default.asp?inWin=Y',345,210,true,false,true,false,'', (screen.height-(210))/2, (screen.width-345)/2);\">Density Calculator</A>&nbsp;<img src=\"/images/popup1.bmp\" width=\"9\" height=\"9\"></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"javascript:toolPopup('xWin','/tools/shared/CubeWizard.asp?inWin=Y',345,340,true,false,true,false,'', (screen.height-(340))/2, (screen.width-345)/2);\">Cube Calculator</A>&nbsp;<img src=\"/images/popup1.bmp\" width=\"9\" height=\"9\"></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/AutoTrack/?NCHK=ATP\">AutoTrack</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/docret/?NCHK=ATP\">Document Retrieval</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/billreview/?NCHK=ATP\">Invoice Review</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/reports/history?NCHK=ATP\">Historical Reports</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/reports/charting?NCHK=ATP\">Charts &amp; Graphs</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/overchargeclaims/?NCHK=ATP\">Overcharge Claims</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/merge/?NCHK=ATP\">Merge-in-Transit</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/planner/?NCHK=ATP\">Shipment Planner</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/reroute/?NCHK=ATP\">Dynamic Rerouting</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/ziploadguide/?NCHK=ATP\">Zip Loading Guide</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/director/?NCHK=ATP\">Shipment Director</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/commodities/view/?NCHK=ATP\">My Commodities</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/contacts/view/?NCHK=ATP\">My Contacts</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/multiship/?NCHK=ATP\">MultiShipment Tender</a></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td valign=\"top\" align=\"left\"><span class=\"small\"><a class=\"nav\" href=\"/tools/chargecalc/?NCHK=ATP\">Shipping Charges Calculator</a></span><span class=\"small2\"></span></td></tr>"
 txt = txt + "</TABLE></TD></TR></TABLE></TD></TR></TABLE></TD></TR></TABLE>"
 
    return(txt)
@@ -398,7 +393,7 @@ txt = txt + "</TABLE></TD></TR></TABLE></TD></TR></TABLE></TD></TR></TABLE>"
          <table border="0" cellpadding="0" cellspacing="0">
             <tbody><tr><td colspan="5" height="6"></td></tr>
             <tr>
-<td width="145" valign="TOP" nowrap="" class="leftBar">
+<td width="145" valign="TOP" nowrap="">
 <table border="0" cellpadding="0" cellspacing="0" width="145">
 <tbody><tr><td>
 <table width="100%" border="0" cellpadding="1" cellspacing="1" class="sectionTable" bgcolor="#006044">
@@ -422,13 +417,13 @@ txt = txt + "</TABLE></TD></TR></TABLE></TD></TR></TABLE></TD></TR></TABLE>"
          <td class="sectionCell">
             <table cellpadding="4" cellspacing="0" border="0">
 <tbody><tr>
-<td class="sectionCell"><span class="sideNavigation"><strong>Privacy Policy</strong></span></td>
+<td class="sectionCell" style="padding-left:0px;"><span class="sideNavigation"><strong>Privacy Policy</strong></span></td>
 </tr>
 <tr>
-<td class="sectionCell"><span class="sideNavigation"><a class="nav" href="/termsofuse.asp?NCHK=SPLM">Terms of Use</a></span></td>
+<td class="sectionCell" style="padding-left:0px;"><span class="sideNavigation"><a class="nav" href="/termsofuse.asp?NCHK=SPLM">Terms of Use</a></span></td>
 </tr>
 <tr>
-<td class="sectionCell"><span class="sideNavigation"><a class="nav" href="/copyright.asp?NCHK=SPLM">Copyright</a></span></td>
+<td class="sectionCell" style="padding-left:0px;"><span class="sideNavigation"><a class="nav" href="/copyright.asp?NCHK=SPLM">Copyright</a></span></td>
 </tr>
 
             </tbody></table>
@@ -458,7 +453,7 @@ txt = txt + "</TABLE></TD></TR></TABLE></TD></TR></TABLE></TD></TR></TABLE>"
 </dt><dd><font class="pgTxt">Registered users of myABF and/or the eCenter of Online Tools may contact their local sales representative or e-mail <a href="mailto:passwords@abfs.com">passwords@abfs.com</a> to request a change to registration information. You are entirely responsible for any and all activities that occur under your account.<br><br>Personal information provided at the time of the ABF Web site registration will be deleted if the user does not access abf.com within 6 months as a logged-on user.</font> 
 <p></p>
 </dd><dt><font class="pgParaTtl">Does the ABF site use cookies?</font> 
-</dt><dd><font class="pgTxt">Certain saved options are stored as an encrypted entry in your cookie file, enabling you to access the advanced features of this site without having to logon each time you enter the site. We believe cookies provide a safe and secure way to improve the usability of the site. Please note that we will never use cookies to find demographic information. For more information about cookies, read the <a href="http://home.netscape.com/security/basics/privacy.html" target="NetscapePrivacyFAQ">Cookie and Privacy FAQ</a> at the Netscape site. </font>
+</dt><dd><font class="pgTxt">Certain saved options are stored as an encrypted entry in your cookie file, enabling you to access the advanced features of this site without having to logon each time you enter the site. We believe cookies provide a safe and secure way to improve the usability of the site. Please note that we will never use cookies to find demographic information. </font>
 <p></p>
 </dd><dt><font class="pgParaTtl">Will ABF disclose the information it collects to third parties?</font> 
 </dt><dd><font class="pgTxt">Unless approved by you, ABF will not sell, rent or trade your information to others. In other words, all information about you stored on our site will never be released to anyone without your consent except to comply with valid legal processes, such as a search warrant, subpoena or court order, to protect the company's rights and property, or during emergencies when ABF believes physical safety is at risk.</font> 
