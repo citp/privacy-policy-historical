@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justrelevant.com privacy policy that was archived on 2008-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080525191303id_/http%3A//www.justrelevant.com/privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justrelevant.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220090931id_/http%3A//www.justrelevant.com/privacy%2Bpolicy) for the most accurate reproduction.*
 
 # Just Relevant - Online Advertising
 
