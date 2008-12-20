@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the matcotools.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509142635id_/http%3A//www.matcotools.com/CustomerCare/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matcotools.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220045242id_/http%3A//www.matcotools.com/CustomerCare/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policies | Matco Tools Customer Service
 
 ###### customer service  
-  
----  
   
 Use the links below to learn more about Matco Tools privacy information:  
   
@@ -115,8 +113,8 @@ Matco Tools
 4403 Allen Road  
 Stow Ohio, 44224 
 
-[customerservice@matcotools.com  
-](mailto:customerservice@matcotools.com) 866-BUY-TOOLS (866-289-8665)  
+[customerservice@matcotools.com](mailto:customerservice@matcotools.com)  
+866-BUY-TOOLS (866-289-8665)  
 Fax Number: 330-926-5323
 
 Back to top
