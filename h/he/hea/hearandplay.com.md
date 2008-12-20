@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the hearandplay.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218004621id_/http%3A//www.hearandplay.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearandplay.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220043932id_/http%3A//www.hearandplay.com/main/privacy-policy) for the most accurate reproduction.*
 
-# HearandPlay.com - Customer Support Center
-
- 
+# Privacy Policy | Hear and Play Music Learning Center
 
 This is the web site of **Hear and Play Music**.
 
-Our postal address is   
-**15771 Rockfield Blvd. Ste 250** **Irvine, CA 92618-2847**
+Our postal address is  
+**15771 Rockfield Blvd. Ste 250**
+
+**Irvine, CA 92618-2847**
 
 We can be reached via e-mail at [ webmaster@hearandplay.com](mailto:webmaster@hearandplay.com)  
 or you can reach us by telephone at 949-206-9591 / 949-206-9592
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
 We collect the e-mail addresses of those who:
 
@@ -22,7 +22,7 @@ The information we collect is used to:
 
 (1) Notify consumers about updates to our Web site, (2) promote our piano courses and videos, and (3) is **not** shared with any other organization, nor is any information sold or bartered.
 
-With respect to cookies: 
+With respect to cookies:
 
 (1) We use cookies to record session information, such as items that consumers add to their shopping cart, and (2) to ensure that visitors only see various pop-up advertisements once. (3) We also use cookies to track affiliate traffic and sales, which calculates monthly commission figures for all affiliating websites.
 
@@ -40,6 +40,17 @@ With respect to security: We always use industry-standard encryption technologie
 
 _**Unsubscribing**_
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail at the above address or by calling us at the above telephone number. You may also visit [ http://www.hearandplay.com/noemail](http://www.hearandplay.com/noemail) to unsubscribe from all mailings.
+If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail at the above address or by calling us at the above telephone number. You may also click on the “UNSUBSCRIBE” link found at the bottom of all e-mails.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [ mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at [ http://www.ftc.gov/ftc/complaint.htm](http://www.ftc.gov/ftc/complaint.htm).
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA’s Committee on Ethical Business Practices at [ mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at [ http://www.ftc.gov/ftc/complaint.htm](http://www.ftc.gov/ftc/complaint.htm). 
+
+[  
+](http://feeds.feedburner.com/hearandplay "Subscribe to my feed")[Subscribe in a reader](http://feeds.feedburner.com/hearandplay "Subscribe to my feed")
+
+[Why subscribe?](http://www.hearandplay.com/main/index.php/10-reasons-to-subscribe-to-my-blog/)
+
+[](http://www.addthis.com/bookmark.php "Bookmark using any bookmark manager!")
+
+Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
+
+If you're new here, you may want to subscribe to my [RSS feed](http://feeds.feedburner.com/hearandplay) for regular updates. If you'd rather subscribe by e-mail, [click here](http://www.feedburner.com/fb/a/emailverifySubmit?feedId=2290008). Thanks for visiting.
