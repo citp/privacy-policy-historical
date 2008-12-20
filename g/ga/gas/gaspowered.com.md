@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the gaspowered.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625033306id_/http%3A//www.gaspowered.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaspowered.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220014435id_/http%3A//www.gaspowered.com/privacy.php) for the most accurate reproduction.*
 
 # Gas Powered Games: Privacy Policy
 
 | 
 
-|  | | 
-
 | |   
 
 
-Last updated: January 8th, 2008
+Last updated: September 2nd, 2008
 
 **OUR PRIVACY COMMITMENT**
 
@@ -186,7 +184,7 @@ top
 
 | 
 
-The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect your personal information from unauthorized access and improper use. From time to time, we review our security procedures to consider appropriate new technology and methods. However, please understand that, despite our best efforts, no security measure is perfect or impenetrable.
+The security and confidentiality of your personal information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect your personal information from unauthorized access and improper use. To prevent unauthorized electronic access to personal information, we maintain information collected online behind a firewall-protected server; use SSL encryption for purchases made through our online store; verify your identity by asking you for an email address or by other means; limit access to only those employees performing a legitimate business function; and keep back-ups offsite. From time to time, we review our security procedures to consider appropriate new technology and methods. However, please understand that, despite our best efforts, no security measure is perfect or impenetrable.
 
 top  
   
@@ -236,8 +234,7 @@ Gas Powered Games is a licensee of the ESRB's Privacy Online Program. If you bel
 ESRB  
 Attn.: Privacy Online Program  
 317 Madison Avenue, 22nd Floor  
-New York, NY 10017  
-212-759-0700
+New York, NY 10017
 
 privacy@esrb.org
 
@@ -264,6 +261,4 @@ top
  
 
   
-  
-  
-| 
+
