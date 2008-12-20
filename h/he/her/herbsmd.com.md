@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbsmd.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628185220id_/http%3A//www.herbsmd.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbsmd.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220173532id_/http%3A//www.herbsmd.com/privacy.asp) for the most accurate reproduction.*
 
 # HerbsMD - Herbal Privacy Policy
 
@@ -47,5 +47,3 @@ HerbsMD uses industry standard practices to safeguard the confidentiality of you
 
 **6\. Notice**  
 We may amend this Privacy Policy at any time by posting the amend terms on our site. All amended terms shall automatically be effective 30 days after they are initially posted on our site. In addition, we will notify you in accordance with your Notification Preferences.
-
-**Last updated:** Monday October 28, 2002
