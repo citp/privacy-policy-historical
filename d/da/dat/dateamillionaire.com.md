@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dateamillionaire.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215214525id_/http%3A//www.dateamillionaire.com/%3Fs%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dateamillionaire.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220070207id_/http%3A//www.dateamillionaire.com/%3Fs%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,7 +41,7 @@ Notice - Use of Website by the Subscriber Constitutes the Subscriber's Express A
 
 **_Use of Personal Subscriber Information._**
 
-> By the subscriber's use of the Site, the subscriber expressly agrees that the Site may use any personal information that has been provided by the subscriber or that has been collected by the Site about the subscriber for any purpose, including without limitation, technical, administration, research and development, customer administration, marketing, trading in Personal Data, age verification, promotional and advertising use by the Site or third parties authorized to use the information by the Site. 
+> The subscriber expressly agrees that the Site may use any personal information that has been provided by the subscriber or that has been collected by the Site about the subscriber for any purpose, including without limitation, technical, administration, research and development, customer administration, marketing, age verification, promotional and advertising use by the Site or third parties authorized to use the information by the Site. We do not rent, sell, or share your email address with outside parties. 
 > 
 > By the subscriber's use of the Site, the subscriber expressly agrees that the Site may use any of the personal information about subscribers that it has gathered or collected to provide them with offers to other sites or products that may or may not be of interest. 
 > 
