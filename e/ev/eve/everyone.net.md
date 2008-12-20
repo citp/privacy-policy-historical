@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the everyone.net privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225075202id_/http%3A//www.everyone.net/email-company/p_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyone.net privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220154816id_/http%3A//www.everyone.net/email-company/p_policy.html) for the most accurate reproduction.*
 
 # Everyone.net - Privacy Policy - Email Experts
 
-[About Us](https://web.archive.org/email-company/about_us.html) [Customers](https://web.archive.org/email-company/email-testimonials-reviews.html) [Partners](https://web.archive.org/email-company/partners.html) [Press ](https://web.archive.org/email-company/press_news.html) [Careers](https://web.archive.org/email-company/jobs.html) [Contact Us](https://web.archive.org/email-company/contact.html) [Privacy Policy](https://web.archive.org/email-company/p_policy.html)
-
-[View Demo](https://web.archive.org/flash/flash.html)
-
- **Online Demo**  
-Take a look at key screens & features
-
-| 
+[About Us](https://web.archive.org/email-company/about_us.html) [Customers](https://web.archive.org/email-company/email-testimonials-reviews.html) [Partners](https://web.archive.org/email-company/partners.html) [Press ](https://web.archive.org/email-company/press_news.html) [Careers](https://web.archive.org/email-company/jobs.html) [Contact Us](https://web.archive.org/email-company/contact.html) [Privacy Policy](https://web.archive.org/email-company/p_policy.html) | 
 
 Everyone.net® Incorporated ("Everyone.net") has the following Privacy Policy with respect to information gathered on Web pages hosted by Everyone.net ("Service Pages"). Such information is received by both Everyone.net and the owner of the Web site through which you may have requested Everyone.net services (the "Client"). You should contact the Client to determine the privacy policy, if any, that applies to the Client's collection and use of such information. However, in no event shall Everyone.net be liable for the Client's use or disclosure of such information. 
 
@@ -71,4 +64,4 @@ If you want to prevent a third-party advertiser from collecting data, currently 
 
 
 
-Email Policy Page Summary: Everyone.net has the following Email Privacy Policy awith respect to information gathered on Web pages hosted by Everyone.net. Everyone.net email hosting provides a full set of email features that you can access from the web, or use your favorite email application with our POP and IMAP services. Compare our email hosting solutions and you'll find a wide range of features and support to suite your needs. We offer email services for personal email accounts, business email accounts, and group email. Get outsourced email hosting that offers web email. A web email account is full-featured and accessible from virtually any computer connected to the Internet. Find reseller email and resell e-mail services to your customers. Everyone.net web email can block junk email and offers anti spam email protection. Total Protection is a standard feature of Business email and is also available as an upgrade with our other email accounts. Business email also supports true push email on your Treo and other Smartphones. Read more on an email account that is perfect for your needs here: Email Hosting Overview. 
+Email Policy Page Summary: Everyone.net has the following Email Privacy Policy with respect to information gathered on Web pages hosted by Everyone.net. Everyone.net email hosting provides a full set of email features that you can access from the web, or use your favorite email application with our POP and IMAP services. Compare our email hosting solutions and you'll find a wide range of features and support to suit your needs. We offer email services for business email accounts. Get outsourced email hosting that offers web email. A web email account is full-featured and accessible from virtually any computer connected to the Internet. Find reseller email and resell e-mail services to your customers. Everyone.net web email can block junk email and offers anti spam email protection. Total Protection is a standard feature of business email and is also available as an upgrade with our other email accounts. Business email also supports true push email on your Treo and other Smartphones. Read more on an email account that is perfect for your needs here: [Email Hosting Overview](https://web.archive.org/email-hosting/index.html).
