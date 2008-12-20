@@ -1,12 +1,21 @@
-> *The following text is extracted and transformed from the vouchercodes.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410204046id_/http%3A//www.vouchercodes.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercodes.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220190458id_/http%3A//www.vouchercodes.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Voucher Codes | Promotional Codes | Promotional Vouchers | Promotional Coupons | Discount Codes | Discount Vouchers
 
-##   
-Privacy Policy
+e.g. Dell, Amazon, Tesco etc.
+
+## Privacy Policy
 
 VoucherCodes.com knows that you may have concerns about privacy while shopping or surfing on the Internet. This Privacy Policy describes how we use and do not use information provided to us at VoucherCodes.com, and the steps we take to protect it.
 
 ##  Personal Information
 
 We may use 'cookies' to making your viewing of the VoucherCodes.com experience easier, but, it really wouldn't be decent or moral for us to share information with any outside party or advertiser that would invade your right to anonymity. So, although we may provide information to our advertisers, about the general preferences and popularity of certain shopping categories within our website information is really used for demographic purposes, we'd never share your name or email address with any outside party to ensure your integrity. The information, such as IP address, for demographic purposes will be used to help VoucherCodes.com ensure that its services are best designed to meet the customers' changing needs. Regarding e-mails VoucherCodes.com does not send unsolicited or "spam" e-mail. VoucherCodes.com uses e-mail addresses collected for a number of opted-in e-mail alerts and opted-in newsletters which are used to communicate new information, special offers and new products to our merchants and customers. All customers are given the opportunity to unsubscribe at any time. VoucherCodes.com does not sell or rent its e-mail lists to third parties. It is against VoucherCodes.com's policy to provide any customer information to any third party without the customer's prior permission.
+
+VoucherCodes.com  
+PO Box 6266  
+Leighton Buzzard  
+Bedfordshire  
+LU7 4AX  
+T: 020 8123 4266  
+E: [admin@vouchercodes.com](mailto:admin@vouchercodes.com)
