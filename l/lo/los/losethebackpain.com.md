@@ -1,50 +1,122 @@
-> *The following text is extracted and transformed from the losethebackpain.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627121402id_/http%3A//www.losethebackpain.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the losethebackpain.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220161038id_/http%3A//www.losethebackpain.com/privacy.html) for the most accurate reproduction.*
 
-# Back Pain & Sciatica Exercises, Stretches and Treatments for Pain Relief
+# LoseTheBackPain.com's Privacy Policy
 
-The Healthy Back Institute has created this privacy statement in order to demonstrate our firm commitment to your privacy. This privacy policy has been effective since January 2004. The following discloses our information gathering and dissemination practices for this web-site. 
-
-**
-
-Spam
+Healthy Back Institute ("HBI") publishes health and fitness information for educational purposes via its website located at www.losethebackpain.com ("Website"). In this Privacy Policy all references to HBI will mean Healthy Back Institute and its parent, subsidiary and affiliated companies. 
 
 **
 
-We do not use and do not support the use of spam. If you receive any unsolicited bulk email mentioning the Healthy Back Institute or Lose the Back Pain domain, please report it to us immediately. We shall investigate and deal with your complaint promptly. We have a zero tolerance approach towards spam.
+II. Intended Audience
 
 **
 
-Personally Identifiable Information
+The Website provides free access to articles that address health and fitness topics in various categories such as Diet & Weight Loss, Exercise & Fitness, Diseases & Conditions, Nutrition & Supplements, Women's Health, Men's Health, Senior’s Health and Children’s Health. It also offers health-related products and a public discussion forum where users may post questions and receive responses from HBI or a third-party information provider. The Website also offers users the opportunity to create a private HBI membership account that enables users to access additional information and services. HBI may from time to time change or remove Website content, categories and services in its sole discretion. Although the Website may offer information about children's health, it is designed for use by adults only. Parents may use the Website to obtain information that may be relevant to their child's health condition. Parents who create or allow their child to create a Website membership account will be solely responsible for supervising their child's use of the Website.
 
 **
 
-We may collect personally identifiable information about you, including your name, email address, location and mailing address, and phone number. Your personally identifiable information may be used by us to offer to you additional products and services that may be relevant to you. Your personally identifiable information will never be disclosed by us to any non-associated third party. You may ask us to provide you with the details of your personally identifiable information that is stored with us or you may request changes to your personally identifiable information that is stored with us by contacting us.
+III. Scope of Privacy Policy
 
 **
 
-Changes to this Privacy Policy
+This Privacy Policy applies to the Website. All user information acquired by HBI from Website users will be covered by this Privacy Policy, with the following exceptions:
+
+   A. User suggestions to improve products or services, business ideas, concepts, models, inventions and similar information ("Business Information") offered to HBI will not be covered by this Privacy Policy, and all Business Information that HBI may receive from any user will be deemed publicly disclosed unless HBI signs and returns a written non-disclosure agreement with the specific user prior to the user's submission of the Business Information.
+
+   B. Any information, whether NPI, PI, or PHI, that a user shares or otherwise discloses in a public chat room, message board, instant message exchange, blog, personal webpage, or similar public forum, whether via the Website, online service, or otherwise, will be deemed publicly disclosed information ("PDI"). HBI may handle and use all PDI as freely available public information which is outside the scope of any limitations described in this Privacy Policy.
 
 **
 
-We reserve the right to change this privacy policy at any time. The fact that this privacy policy has changed will be communicated to you by means of a notice that will be put up at the bottom of this page.
+IV. Duration of Privacy Policy
 
 **
 
-Opting Out
+This Privacy Policy will apply to all information collected while the Privacy Policy is posted on the Website. HBI may modify and update the Privacy Policy from time-to-time by posting a revised Privacy Policy to the Website. Users who do not agree with any modified or updated Privacy Policy should promptly stop using the Website. HBI strongly recommends that all users regularly check the Website for any modifications to the Privacy Policy. Modifications and updates to the Privacy Policy will take effect upon posting to the Website and will apply to all information, past and future, collected via the Website. Those who have used the Website prior to a particular Privacy Policy modification or update and who object to the modification or update should promptly send HBI written notice of their objection. Prior users who use the Website after a revised Privacy Policy is posted will be deemed to have agreed to the revised Privacy Policy.
 
 **
 
-Subscribers of our newsletter can unsubscribe at any time by following the instructions present at the bottom of each issue of the newsletter or each installment of the course.
+V. Categories of Information
 
 **
 
-Contacting Us
+Depending on the user's interaction with the Website, HBI may collect user information that falls into the following categories: Non-Personal Information, Personal Information, and Personal Health Information.
+
+Non-Personal Information ("NPI") is information that is not associated with a specific user and that does not enable HBI or others to identify a specific user. For example, a user's age, gender, city and state of residence, when not associated with any other information that could help identify the user, like street address or telephone number. NPI may be collected when users visit the public portion of the Website without registering as a member.
+
+Personal Information ("PI") is information that identifies you as a unique person. For example, your first and last name associated with your street, city, state and zip code or telephone number or email address or other information that identifies you personally. PI is collected when users voluntarily register to be a member of the Website and may be collected when a user sends an email inquiry to HBI via the Website or otherwise.
+
+Personal Health Information ("PHI") is Personal Information coupled with information about your personal health such as a particular disease or other health condition. It is collected when users voluntarily provide both PI and their personal health information via the Website or otherwise.
 
 **
 
-If you have any questions about this privacy statement, the privacy practices of this site, or your dealings with this web site, please Call 1-(800) 216-4908
+VI. Accuracy and Currency of Information
+
+**
+
+You are responsible for the accuracy of all PI and PHI that you submit to HBI, whether via the Website or otherwise. HBI is not responsible for verifying the accuracy or currency of your PI or PHI. You understand that any information and/or services offered via the Website relevant to your personal situation may be based upon your PI and/or PHI, and that your PI may also become important for HBI to contact you. Therefore, it is important for your PI and PHI to be accurate and current. It is particularly important for your email address to be current because HBI will use email as its primary means of communicating with Website members and other users who have voluntarily provided PI to HBI.
+
+**
+
+VII. Information Collection Methods
+
+**
+
+User information may be collected in various ways. NPI may be collected via web-based technologies that track computer usage. For example, every computer that accesses the Website will be assigned an electronic file with a unique code or identifier often referred to as a "cookie" unless the user's browser has been configured to block this type of activity. Cookies and other technologies may be used to collect information about each user's navigational activities and selection of advertisements, sponsored links, and other similar NPI. PI and PHI may be collected via the Website's membership registration process, user emails, and other similar means when a user voluntarily provides it. PI and PHI is not collected via the Website unless the user voluntarily submits it to HBI.
+
+**
+
+VIII. Use of Information
+
+**
+
+HBI may share NPI, PI, and PHI among its current and future parent, subsidiary, and affiliated companies, and as otherwise permitted under this Privacy Policy, subject to applicable law. Some examples of how HBI may use information collected via its Website follow.
+
+NPI may be used to analyze user traffic and navigation on its Website and generate reports, track user interest in particular topics, products, services and other Website features, advertisements, and links, and may also be used for any other purpose in HBI's sole discretion.
+
+PI may be compiled and rented to third parties who offer products or services that may be of interest to you, or who otherwise have an interest in a demographic group in which you may fall.
+
+PI and PHI may be used by HBI to provide products, services and information to users, and to communicate with Website users in various ways including via email and electronic and/or paper newsletters.
+
+NPI may be extracted from any PI and PHI and shared with others in its NPI form and otherwise used as NPI in any manner consistent with this Privacy Policy.
+
+HBI will not share PI or PHI with any third-parties without the user's consent with the following exceptions: (i) HBI may have to make incidental disclosures to third-party vendors who are providing technical or other services to or on behalf of HBI, including web hosting, software and hardware maintenance service providers (however HBI will endeavor to have all vendors sign appropriate confidentiality agreements in these circumstances); (ii) when compelled by legal requirements such as a court order, subpoena, search warrant, applicable law or the like; and (iii) under special circumstances that may involve a health or other physical threat to you or others or to protect, defend or otherwise assert legal rights.
+
+**
+
+IX. Third-Party Advertisements and Links
+
+**
+
+HBI may display third-party advertisements and sponsored links on the Website. HBI cannot control how other websites may collect and use your information, and will not be responsible for the conduct or practices used by third-party advertisers or sponsors. HBI recommends that you promptly review the privacy policy on each website you encounter via an advertisement or link on HBI's website.
+
+**
+
+X. Updating and Removing Your PI and PHI
+
+**
+
+You may update your PI and PHI via the Website or by writing to HBI at 328 Main Street, Suite 300, Gaithersburg, MD 20878. When writing, please include your full name, address, membership account number, and the information that you would like updated. If you have a complaint or other issue, please contact HBI initially via our Customer Support link.
+
+Upon receipt of your written specific request, HBI will delete your PI and PHI from its databases, and, to the extent reasonably possible, from its back-up media. HBI will have no obligation to store your PI or PHI for any duration of time after termination of your Website membership. Absent your written instruction to the contrary, HBI may, in its discretion, retain and use your PI and PHI after termination of your membership.
+
+Web site: www.losethebackpain.com PPV20071120 – Posted on [Date]
 
 Sincerely,
 
 Jesse Cannone  
 President, The Healthy Back Institute
+
+* * *
+
+| 
+
+[ ](http://www.losethebackpain.com/holidaysale.html)
+
+**Questions: Call Us**  
+ **Toll Free:** 800-216-4908  
+ **Outside U.S.:** 00+1+240-780-5977  
+ **Australia:** 0011+1+240-780-5977  
+Or [Click Here](http://www.losethebackpain.com/customersupport.html)
+
+[](http://www.losethebackpain.com/rubonrelief.html)
+
+[](http://www.losethebackpain.com/sleep.html)
