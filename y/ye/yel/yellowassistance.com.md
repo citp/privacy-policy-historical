@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the yellowassistance.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625080123id_/http%3A//www.yellowassistance.com/frmPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowassistance.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220161652id_/http%3A//yellowassistance.com/frmPrivacy.aspx) for the most accurate reproduction.*
 
 # YellowAssistance.com - Privacy Policy
 
-  
 Privacy Policy
 
 **Introduction**  
@@ -11,7 +10,7 @@ YellowAssistance.com is committed to protecting your online privacy while provid
 Part I: Information Collection
 
 _General Overview_ _  
-_   
+_  
 For the most part, you will not need to provide any private, personally identifiable information to use YellowAssistance.com. unless you choose to register as a user. You may elect to Set Your Address so that our search can provide listings in distance order based on where you live instead of the Geo-center of a city of zip code.
 
 In the course of normal operation, our algorithms do collect and process a large number of not personally identifiable, information such as traffic patterns, clickstream logs, IP addresses, browser type, browser language, and the date and time of your visits. However, we do not correlate this information with data about individual users. This information is used primarily to operate our service, and at times, to develop and improve our services further. 
@@ -38,4 +37,4 @@ Part IV: Changes to this Privacy Policy
 
 This policy is likely to evolve throughout time. Any changes or updates to our privacy policy will be posted on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
-Effective 1/1/06
+Effective 1/1/06 
