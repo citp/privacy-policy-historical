@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the kaseya.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601030315id_/http%3A//www.kaseya.com/company/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaseya.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220111655id_/http%3A//www.kaseya.com/company/privacy-statement.aspx) for the most accurate reproduction.*
 
-# Kaseya Website Privacy Statement
+# Kaseya Company
 
-| 
+|  | 
 
-  
-This document was last updated on March 17, 2008.
+This document was last updated on March 17, 2008. 
 
 **1\. ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS**
 
@@ -17,34 +16,26 @@ Related services and offerings with links from this website, including vendor si
 
 **3\. INFORMATION WE COLLECT AND HOW WE USE IT**
 
-**A. Types of Information**
+ **A. Types of Information**
 
 Kaseya collects certain information from and about its users in three ways: directly from our Web Server logs, with Cookies and from the user.
 
-**1\. Web Server Logs.**
+ **1\. Web Server Logs.**
 
 When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include: 
 
-  * Your Internet protocol address.  
-
-  * The kind of browser or computer you use.  
-
-  * Number of links you click within the site.  
-
-  * State or country from which you accessed the site.  
-
-  * Date and time of your visit.  
-
-  * Name of your Internet service provider.  
-
-  * Web page you linked to our site from.  
-
-  * Pages you viewed on the site.  
+  * Your Internet protocol address. 
+  * The kind of browser or computer you use. 
+  * Number of links you click within the site. 
+  * State or country from which you accessed the site. 
+  * Date and time of your visit. 
+  * Name of your Internet service provider. 
+  * Web page you linked to our site from. 
+  * Pages you viewed on the site.
 
 
 
-
-**2\. Cookies**
+ **2\. Cookies**
 
 Kaseya may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. 
 
@@ -76,13 +67,19 @@ Kaseya does not knowingly collect personal information from children under the a
 Kaseya has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
 **7\. CONTACTING US**  
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us.[ webmaster@kaseya.com](mailto:%20webmaster@kaseya.com) or send your comments to:
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at [webmaster@kaseya.com](mailto:%20webmaster@kaseya.com) or send your comments to:
 
 Kaseya International Limited  
-**Attention: Privacy Statement Personal**  
+ **Attention: Privacy Statement Personal**  
 Fourth Floor (South), Channel House, Green Street  
 St. Helier, Jersey, JE2 4UH   
 +44 1534 832 534 voice  
 
 
 | 
+
+**Free Trial**  
+Get your own fully functional Kaseya server and begin managing your entire computing infrastructure in minutes.  
+[ Click Here](https://web.archive.org/forms/free-trial.aspx)  
+  
+---|---|---
