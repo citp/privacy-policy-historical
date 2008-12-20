@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the amazon.co.uk privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629003106id_/http%3A//www.amazon.co.uk/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D502584) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazon.co.uk privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220044845id_/http%3A//www.amazon.co.uk/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D502584) for the most accurate reproduction.*
 
 # Amazon.co.uk: Help > Security & Privacy > Privacy Notice
-
-**Amazon.co.uk Privacy Notice**  
-
 
 [Changes to the Privacy Notice September 18, 2007](https://web.archive.org/gp/help/customer/display.html?nodeId=200183080)
 
@@ -26,7 +23,7 @@ Amazon.co.uk knows that you care how information about you is used and shared an
 **Controllers of Personal Information**  
 
 
-Any personal information provided to or to be gathered by Amazon.co.uk is controlled primarily by Amazon EU Sarl and Amazon Services Europe Sarl, the data controllers, both at 5, Rue Plaetis L-2338, Luxembourg and secondarily by Amazon.co.uk Ltd of Patriot Court, 1-9 The Grove, Slough, Berkshire, England SL1 1QP UK, the data processor. 
+Any personal information provided to or to be gathered by Amazon.co.uk is controlled primarily by Amazon EU SARL, Amazon Services Europe SARL and Amazon Media EU SARL, the data controllers, all three at 5, Rue Plaetis L-2338, Luxembourg and secondarily by Amazon.co.uk Ltd of Patriot Court, 1-9 The Grove, Slough, Berkshire, England SL1 1QP UK, the data processor. 
 
 Amazon.com, Inc. and its controlled US subsidiaries are participants in the Safe Harbour programme developed by the US Department of Commerce and the European Union. These Amazon Group companies have certified that they adhere to the Safe Harbour Privacy Principles agreed upon by the US and the EU. For more information about the Safe Harbour and to view these Amazon Group companies certification, visit the [U.S. Department of Commerce's Safe Harbour](http://www.export.gov/safeharbor) website. If you would like to contact Amazon directly about the Safe Harbour programme, please send an e-mail to [safeharbor@amazon.com](mailto:safeharbor@amazon.com).
 
@@ -68,7 +65,7 @@ Information about our customers is an important part of our business and we are 
 Whenever we transfer personal information to countries outside of the European Economic Area in the course of sharing information as set out above, we will ensure that the information is transferred in accordance with this Privacy Notice and as permitted by the applicable laws on data protection.
 
   * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
-  * We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
+  * We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
   * We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of personally identifiable customer information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you. 
   * It is important for you to protect against unauthorised access to your password and to your computer. Be sure to sign off when you finish using a shared computer. [Click here](https://web.archive.org/gp/help/customer/display.html/026-3166383-1414827?nodeId=1093784) for more information on how to sign off. 
 
