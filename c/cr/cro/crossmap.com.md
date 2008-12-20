@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crossmap.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514211533id_/http%3A//www.crossmap.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crossmap.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220223123id_/http%3A//www.crossmap.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Crossmap Information| Crossmap Privacy Policy
 
