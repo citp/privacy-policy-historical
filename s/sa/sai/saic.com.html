@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the saic.com privacy policy that was archived on 2008-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509055907id_/http%3A//www.saic.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the saic.com privacy policy that was archived on 2008-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220131054id_/http%3A//www.saic.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en-us"><head>
 <title>SAIC: Web Privacy Statement</title>
@@ -8,25 +8,50 @@
 <meta name="keywords" content="terms, conditions, privacy, privacy policy, cookies">
 <meta name="description" content="Your privacy, and the privacy of all users of www.saic.com is of the highest priority. This privacy statement explains what information we gather from you, how it may be used by us and how it is protected.">
 <meta name="owner" content="carlsonam">
-<meta name="developer" content="jmp, barnesam">
+<meta name="developer" content="maginnisr">
 <meta name="objecttype" content="content page">
-<meta name="date" content="2007-06-07">
-<meta name="validated" content="2003-10-03">
+<meta name="date" content="2008-12-03">
+<meta name="validated" content="2008-05-13">
 
 <script type="text/javascript" language="javascript" src="/js/sifr/sifr.js?version=021108"></script>
 <script type="text/javascript" language="javascript" src="/js/sifr/sifr-config.js?version=021108"></script>
-<link href="/css/main.css?version=030608" type="text/css" rel="stylesheet" media="all">
+<script type="text/javascript" language="javascript">
+	//used for sitecatalyst customization
+	var arrSiteCatalystSetUp = new Array();
+</script>
+
+<link href="/css/main.css?version=102308" type="text/css" rel="stylesheet" media="all">
 <!--[if lte IE 6]>
-	<link rel="stylesheet" type="text/css" href="/css/ie6.css?version=030608" />
+	<link rel="stylesheet" type="text/css" href="/css/ie6.css?version=102308" />
 <![endif]-->
 <!--[if IE 7]>
-	<link rel="stylesheet" type="text/css" href="/css/ie7.css?version=030608" />
+	<link rel="stylesheet" type="text/css" href="/css/ie7.css?version=071808" />
 <![endif]-->
-<link href="/css/print.css?version=021108" type="text/css" rel="stylesheet" media="print">
+<link href="/css/print.css?version=100208" type="text/css" rel="stylesheet" media="print">
 
 
 </head>
 <body>
+
+<script type="text/javascript" language="javascript">
+	function DoSearch(){
+		var queryTerm = document.getElementById('searchbox').value;
+		//define whitespace regexp
+		var reWS = /\s*/m;
+		//clean out whitespace
+		var queryTerm = queryTerm.replace(reWS, "");
+		if(queryTerm == "" || queryTerm == "Enter a search term"){
+			document.getElementById('searchbox').value = 'Enter a search term';
+			document.getElementById('searchbox').style.color='red';
+			document.getElementById('searchbox').focus();
+			return false;
+		}else{
+			return true;
+		}
+	}
+
+</script>	
+
 <div id="container">
 <div id="header"><a href="#navigation" title="Skip to side navigation" class="hide">Skip top navigation to side navigation</a>
 
@@ -43,15 +68,17 @@ Tools &amp; Resources for:&nbsp;&nbsp;&nbsp;<a href="/customer/">Customers</a>&n
 <div id="search-top">
 <form class="home-search" name="seek" method="get" action="http://search.saic.com/ext3/query.html" title="Search form for saic.com">
 <label for="search">search</label>
-<input type="image" src="/images/btn_search.gif" value="Search" title="Search" id="search" class="search">
+
+<input type="image" onclick="return DoSearch();" src="/images/btn_search.gif" value="Search" title="Search" id="search" class="search" tabindex="2">
+
 <label for="searchbox">search box</label>
-<input type="text" id="searchbox" name="qt" size="20" maxlength="1999" class="searchbox"><!--<input type=hidden name=qs value="-url:cp-its-web04.saic.com/ajobbext3.nsf">-->
+<input type="text" id="searchbox" onclick="this.value=''; document.getElementById('searchbox').style.color='black';" name="qt" maxlength="1999" class="searchbox" tabindex="1"><!--<input type=hidden name=qs value="-url:cp-its-web04.saic.com/ajobbext3.nsf">-->
 <input type="hidden" name="col" value="saicwww">
 <input type="hidden" name="col" value="invest">
 <input type="hidden" name="qp" value="">
 </form>
 <ul>
-	<li><a href="/tools/contact.html" class="contact">Contact Us</a></li>
+	<li><a href="/tools/contact.html" class="contact">Contact Us</a></li>				
 </ul>
 </div>
 <!-- end main search form and links -->
@@ -143,7 +170,7 @@ Tools &amp; Resources for:&nbsp;&nbsp;&nbsp;<a href="/customer/">Customers</a>&n
             <p><strong id="1">Information we collect</strong><br>
 			If you request information from www.saic.com through our on-line 
               contact forms, we ask for and store the business-related information 
-              you provide (such as name, e-mail, corporate profile, etc.) to assist 
+              you provide (such as name, email, corporate profile, etc.) to assist 
               us in responding to your request. This information is used for business 
               contacts only. We will not knowingly collect or use personal identifying 
               information from children younger than 13 without parental consent.</p>
@@ -165,33 +192,33 @@ The information stored in the cookie is only used for statistical tracking
               our web site and services offered.</p>
 			  
 			  <p><strong id="3">Your privacy preferences and opting out</strong><br>
-			  At www.saic.com, you can sign up to <a href="http://investors.saic.com/phoenix.zhtml?c=193857&amp;p=irol-alerts">receive SAIC E-mail Alerts</a> for information that interests you, such as the latest SAIC news and publications, as well as investor information including SEC filings, daily stock quotes and more.  We only offer "opt-in" lists so you can sign-up and sign-off at any time. To unsubscribe, simply reply to the e-mail address on the bottom of every e-mail we send you.</p>
+			  At www.saic.com, you can sign up to <a href="http://investors.saic.com/profile.cfm">receive SAIC Email Alerts</a> for information that interests you, such as the latest SAIC news and publications, as well as investor information including SEC filings, daily stock quotes and more.  We only offer "opt-in" lists so you can sign-up and sign-off at any time. To unsubscribe, simply reply to the email address on the bottom of every email we send you.</p>
 
-<p>You can also set and modify privacy preferences in your web browser. To modify cookie settings:</p>
+<!-- <p>You can also set and modify privacy preferences in your web browser. To modify cookie settings:</p>
 
 <ul>
-<li>In Internet Explorer 6.0:<br>
+<li>In Internet Explorer 6.0:<br />
 From the <em>Tools</em> menu, select <strong>Internet Options</strong> and then select <strong>Privacy</strong>. Click the <strong>Advanced</strong> button. Select the desired settings.</li>
 </ul>
 
 <ul>
-<li>In Internet Explorer 5.X:<br>
+<li>In Internet Explorer 5.X:<br />
 From the <em>Tools</em> menu, select <strong>Internet Options</strong> and then select <strong>Security</strong>. Click the <strong>Custom Level</strong> button and scroll to the <em>Cookies</em> section. Select desired settings.</li></ul>
 
-<ul><li>In Netscape:<br>
-From the <em>Edit</em> menu, select <strong>Preferences</strong> and then select <strong>Advanced</strong>. In the <em>Cookies</em> box, select between <strong>Accept</strong>, <strong>Warn</strong>, or <strong>Disable</strong> cookies.</li></ul>
+<ul><li>In Netscape:<br />
+From the <em>Edit</em> menu, select <strong>Preferences</strong> and then select <strong>Advanced</strong>. In the <em>Cookies</em> box, select between <strong>Accept</strong>, <strong>Warn</strong>, or <strong>Disable</strong> cookies.</li></ul> -->
 		  
  <p><strong id="4">Links to other web sites</strong><br>
 			This privacy policy applies only to www.saic.com. You should be 
               aware that through links you may be directed to other sites that 
               we do not control. SAIC has no control over the privacy policies 
               or practices of these other sites, and is not responsible for the 
-              privacy practices or the content of Web sites to which we link, 
+              privacy practices or the content of web sites to which we link, 
               list, rank or identify by means of a search. SAIC takes no responsibility 
               for the products, services, policies or actions of third parties 
-              or the content of third party Web sites. We encourage you to be 
+              or the content of third party web sites. We encourage you to be 
               aware when you are leaving our site and to read the privacy policies 
-              of each Web site you visit. </p>
+              of each web site you visit. </p>
            
 <p><strong id="5">Information about our SAIC Limited Organisation</strong><br>
 <a href="/about/companies/international.html">SAIC international entities</a> include SAIC Europe Limited, SAIC Limited in the United Kingdom, and SAIC Canada. SAIC entities are also located in South America and the Pacific Rim. </p>
@@ -244,7 +271,6 @@ Products &amp; Services Phone: <br>
 +44 (0) 845 366 7242 in the UK <br>
 +44 (0) 1355 845526 all other European locations <br>
 </div>
-
 
 <!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
 <!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
@@ -335,6 +361,41 @@ hbx.pec="";//ERROR CODES
 //REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
 </script><script language="javascript1.1" defer="" src="/js/hbx.js"></script>
 <!--END WEBSIDESTORY CODE-->
+<!-- SiteCatalyst code version: H.17.
+Copyright 1997-2008 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="//www.saic.com/js/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName=""
+s.server=""
+s.channel=""
+s.pageType=""
+
+	s.prop1 = arrSiteCatalystSetUp[0];
+	s.prop2 = arrSiteCatalystSetUp[1];
+	s.prop3 = arrSiteCatalystSetUp[2];
+	s.prop4 = arrSiteCatalystSetUp[3];
+	s.prop5 = arrSiteCatalystSetUp[4];
+
+/* Conversion Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+	s.events = arrSiteCatalystSetUp[5];
+	s.products = arrSiteCatalystSetUp[6];
+s.purchaseID=""
+
+	s.eVar1 = arrSiteCatalystSetUp[7];
+	s.eVar2 = arrSiteCatalystSetUp[8];
+	s.eVar3 = arrSiteCatalystSetUp[9];
+	s.eVar4 = arrSiteCatalystSetUp[10];
+	s.eVar5 = arrSiteCatalystSetUp[11];
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.17. -->
 
 
 
