@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tehelka.com privacy policy that was archived on 2008-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080408165254id_/http%3A//tehelka.com/about/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tehelka.com privacy policy that was archived on 2008-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220171820id_/http%3A//www.tehelka.com/about/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><title>Tehelka  :: Free. Fair. Fearless</title>
 
@@ -20,7 +20,7 @@
 <body topmargin="0" leftmargin="0" marginwidth="0" onload="DisplayNews()">
 <table width="1004" border="0" cellpadding="0" cellspacing="0" align="center">  
   <tbody><tr>    
-    <td>
+    <td><!--include file="../conn.asp"-->
 <!-- dt=session("issdat") -->
 
 <style type="text/css">
@@ -30,9 +30,8 @@
 -->
 </style>
 
-
 <script language="javascript" type="text/javascript">
-
+/////this is ticker code
 
 NewsDelay=10000		//Time each story is displayed for
 NewsFadeDelay=100	//Time taken to fade from one story to the next
@@ -45,17 +44,20 @@ NewsTextColor=new Array("#c9e1ff", "#004175")
 NewsStory=0		//Working Variable
 LastNewsStory=0		//Working Variable
 NewsColor=0		//Working Variable
-NewsArray=new Array(
-	'&#8220; Tehelka is one of the best sources of news in India&#8230; &#8221; <b>&#8212; The Guardian</b>' , 'URL',
-	'&#8220;  Our future is involved with the success of Tehelka. It must win the battle. &#8221; <br><div align=right><b>&#8212; Khushwant Singh</b></div>' , 'URL',
-	'&#8220;  Which patriotic Indian can fail to be on Tehelka&#8217;s side? &#8221; <b>&#8212; Vir Sanghvi</b>' , 'URL',
-	'&#8220;  I associate Tehelka with cleanliness. It may start a movement not just in journalism, but in public life &#8230; &#8221; <b>&#8212; Kuldip Nayyar</b>' , 'URL',
-	'&#8220;  &#8230;edgy, in-depth, hard-hitting&#8230;  perhaps Tehelka is the only weekly that provides stories that need more than a cursory read &#8230; &#8221; <b>&#8212; Shobhaa De </b>' , 'URL',
-	'&#8220;  Tehelka has suffered for doing its democratic duty. They are martyrs in the cause of Indian democracy. I hope they are rewarded for it &#8230; &#8221; <br><div align=right><b>&#8212; Ram Jethmalani</b></div>' , 'URL',
-	'&#8220;  &#8230;with Tehelka, we have crossed a barrier in journalism. And what journalism ought to be &#8230; &#8221; <b>&#8212; Arundhati Roy </b>' , 'URL',				
-	'&#8220; Tehelka has invested heavily in hard hitting investigative reporting and has pushed the boundaries of editorial content further than most&#8230; &#8221; <b>&#8212; BBC</b>' , 'URL',
-	'&#8220; Tehelka is a delightful Urdu word that refers to the special kind of tumult provoked by a daring act. Tehelka has certainly lived up to its name&#8230; &#8221; <br><div align=right><b>&#8212; Time</b></div>' , 'URL',	
-	'')
+
+NewsArray=new Array('' , '')
+
+//NewsArray=new Array(
+	//'&#8220; Tehelka is one of the best sources of news in India&#8230; &#8221; <b>&#8212; The Guardian</b>' , 'URL',
+	//'&#8220;  Our future is involved with the success of Tehelka. It must win the battle. &#8221; <br><div align=right><b>&#8212; Khushwant Singh</b></div>' , 'URL',
+	//'&#8220;  Which patriotic Indian can fail to be on Tehelka&#8217;s side? &#8221; <b>&#8212; Vir Sanghvi</b>' , 'URL',
+	//'&#8220;  I associate Tehelka with cleanliness. It may start a movement not just in journalism, but in public life &#8230; &#8221; <b>&#8212; Kuldip Nayyar</b>' , 'URL',
+	//'&#8220;  &#8230;edgy, in-depth, hard-hitting&#8230;  perhaps Tehelka is the only weekly that provides stories that need more than a cursory read &#8230; &#8221; <b>&#8212; Shobhaa De </b>' , 'URL',
+	//'&#8220;  Tehelka has suffered for doing its democratic duty. They are martyrs in the cause of Indian democracy. I hope they are rewarded for it &#8230; &#8221; <br><div align=right><b>&#8212; Ram Jethmalani</b></div>' , 'URL',
+	//'&#8220;  &#8230;with Tehelka, we have crossed a barrier in journalism. And what journalism ought to be &#8230; &#8221; <b>&#8212; Arundhati Roy </b>' , 'URL',				
+	//'&#8220; Tehelka has invested heavily in hard hitting investigative reporting and has pushed the boundaries of editorial content further than most&#8230; &#8221; <b>&#8212; BBC</b>' , 'URL',
+	//'&#8220; Tehelka is a delightful Urdu word that refers to the special kind of tumult provoked by a daring act. Tehelka has certainly lived up to its name&#8230; &#8221; <br><div align=right><b>&#8212; Time</b></div>' , 'URL',	
+	//'')
 
 
     function DisplayNews(){
@@ -98,9 +100,10 @@ NewsArray=new Array(
     }
 
 
-
+////dummy code
 
 </script>
+
 
 
 
@@ -137,7 +140,12 @@ function MM_reloadPage(init) {  //reloads the window if Nav4 resized
 MM_reloadPage(true);
 //-->
 </script>
-<table width="1004" border="0" cellspacing="0" cellpadding="0">
+
+
+<div id="newslayer1" style="position:absolute;  top:20; width:0; height:0; visibility:visible;"><font color="#004175" face="Georgia" size="2"></font></div>
+<div id="newslayer2" style="position:absolute; top:20; width:0; height:0; visibility:visible;"><font color="#c9e1ff" face="Georgia" size="2"></font></div>
+
+<table width="1004" border="0" cellspacing="0" cellpadding="0">		
 		<tbody><tr>
 			<td width="5"></td>           
 		    <td width="994" height="5">
@@ -145,20 +153,25 @@ MM_reloadPage(true);
 							   <tbody><tr>
 								<td colspan="2" valign="top">
 								<table width="100%" border="0" cellspacing="0" cellpadding="0">
-								  <tbody><tr>
-											
-                <td width="302"><a href="http://www.tehelka.com"><img src="../../images/permanentimages/Tehelka_logo.gif" border="0"></a></td>
-											<td width="502" background="../../images/permanentimages/topbar_bg.gif" valign="middle"><div id="newslayer1" style="position:absolute;  top:20; width:475; height:50; visibility:visible;"><font color="#004175" face="Georgia" size="2">“ Tehelka is one of the best sources of news in India… ” <b>— The Guardian</b></font></div>
-    		<div id="newslayer2" style="position:absolute; top:20; width:475; height:50; visibility:visible;"><font color="#c9e1ff" face="Georgia" size="2">“ Tehelka is one of the best sources of news in India… ” <b>— The Guardian</b></font></div></td>
-											
-                <td width="190"><a href="http://www.tehelkahindi.com" target="_blank"><img src="../../images/permanentimages/tehelkahindi_logo.gif" border="0"></a></td>
-									  </tr>
+								  <tbody><tr>											
+                                   <td><img src="../../images/permanentimages/Tehelka_masthead.gif" width="994" height="90" border="0" usemap="#Map2"></td>
+								  </tr>
 								</tbody></table>
+								
+								
+								<!--<br>
+																<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								  <tr>											
+<td ><a href="http://www.tehelka.com"><img src="../../images/permanentimages/common/Tehelka_logo.gif" border="0"></a></td>
+<td  background="../../images/permanentimages/topbar_bg.gif" valign="middle"><a href="http://www.criticalfutures.org/ips/" target="_blank"><img src="../../images/permanentimages/common/summit.gif"  border="0" usemap="#Map2IPS" /></a></td>
+<td ><a href="http://www.tehelkahindi.com" target="_blank"><img src="../../images/permanentimages/common/Tehelkahindi_logo.gif" border="0"></a></td>
+									  </tr>
+								</table> -->
 								
 								</td>
 							  </tr>
 							  
-							</tbody></table>
+			  </tbody></table>
 		</td>
 			<td width="5"></td>
         </tr>
@@ -204,17 +217,13 @@ MM_reloadPage(true);
 </tbody></table></td>
 			<td width="5"></td>
         </tr>
-		<!-- <tr>
-			<td width="5"></td>           
-		    <td width="994" bgcolor="#eff1d6" height="3"></td>
-			<td width="5"></td>
-        </tr> -->		        
+				        
 		<tr> 
 		  <td width="5"></td>	
           <td><table width="100%" border="0" cellspacing="0" cellpadding="0" align="right">
-		  <tbody><tr>
+		  <tbody><tr height="22">
 		  <td width="30%"><script type="text/javascript">topdat();</script><span class="toplogodate">Friday, 31 January 2020</span></td>
-		  <td align="right" class="subtopnavigation" width="70%"><b>TEHELKA INITIATIVES:</b> <a href="http://www.criticalfutures.org/" class="subtopnavigation" target="_blank">Critical Futures</a> | <a href="http://www.thetehelkafoundation.org/" class="subtopnavigation" target="_blank">Tehelka Foundation</a></td>
+		  <td align="right" class="subtopnavigation" width="70%"><a href="../../feeds/tehfeed.xml" target="_blank"><img src="../../images/permanentimages/rss_image.jpg" align="absmiddle" border="0"></a> | <b>TEHELKA INITIATIVES:</b> <a href="http://www.criticalfutures.org/" class="subtopnavigation" target="_blank">Critical Futures</a> | <a href="http://www.thetehelkafoundation.org/" class="subtopnavigation" target="_blank">Tehelka Foundation</a></td>
 		  </tr>
 		  </tbody></table></td>
 		  <td width="5"></td>
@@ -225,12 +234,12 @@ MM_reloadPage(true);
 			<td width="5"></td>
         </tr>
 		
-      </tbody></table>
-<map name="Map">
-  <area shape="rect" coords="21,13,206,65" href="http://www.tehelka.com/">
-  <area shape="rect" coords="836,14,968,64" href="http://www.tehelkahindi.com/" target="_blank">
-</map>
-</td>   
+</tbody></table>
+
+<map name="Map2" id="Map2">
+  <area shape="rect" coords="19,21,204,78" href="http://www.tehelka.com" target="_blank">
+<area shape="rect" coords="818,20,964,79" href="http://www.tehelkahindi.com" target="_blank">
+</map></td>   
   </tr>
   
   <tr>
@@ -274,7 +283,7 @@ MM_reloadPage(true);
               <tr> 
                 <td valign="top"> <p><span class="abouthead">Privacy Policy</span></p>
                   <p class="aboutText">Tehelka.com Private Limited (Tehelka.com 
-                    Pvt Ltd.), a wholly-owned subsidiary of Agni Media Private 
+                    Pvt Ltd.), a wholly-owned subsidiary of Anant Media Private 
                     Limited and located at <a href="http://www.tehelka.com">http://www.tehelka.com</a> 
                     is the mother brand of Tehelka.com Pvt Ltd. We respect your 
                     privacy. You are advised to please read the Privacy Policy 
@@ -714,7 +723,7 @@ MM_reloadPage(true);
                     and promotional communications, you may opt-out of receiving 
                     them by following the instructions included in each newsletter 
                     or communication or by emailing us at <a href="mailto:compliance@tehelka.com">compliance@tehelka.com</a> 
-                    or you may contact us at +91-11-41638750 or Tehelka.com Pvt 
+                    or you may contact us at +91-11-40575757 or Tehelka.com Pvt 
                     Ltd., M-76, IInd Floor, M- Block Market, Greater Kailash-II, 
                     New Delhi-110048 to opt-out. </p>
                   <p class="aboutText"> Upon request, we will remove/block your 
@@ -773,69 +782,73 @@ MM_reloadPage(true);
               <area shape="rect" coords="166,31,258,47" href="/about">
             </map></td>
 				<td width="10" valign="top"></td>
-				<td width="234" valign="top"><table width="234" border="0" cellspacing="0" cellpadding="0" class="rightBoxborder">  
-   <tbody><tr> 
-    <td bgcolor="#efefef"><img src="../../home/20080405/images/band_special.gif" border="0"><br>
-      <a href="../../story_main38.asp?filename=Ne120408legend_encounter.asp"><img src="../../home/20080412/images/special-report-rajbir.jpg" border="0" width="232" height="107"></a></td>
-  </tr> 
-  <tr> 
-    <td bgcolor="#efefef" style="padding:5px 5px 5px 7px;"><span class="Style_AuthorName">By Mihir Srivastava </span><br>
-Extra-judicial executioner, caring father-Rajbir Singh is variously remembered <a href="../../story_main38.asp?filename=Ne120408legend_encounter.asp" class="newsmore">READ »</a></td>
-  </tr> 
-</tbody></table> 
-<!--<table width="234" border="0" cellspacing="0" cellpadding="0">  
-   <tr> 
-    <td>
+				<td width="234" valign="top">
+<!--<table width="234" border="0" cellspacing="0" cellpadding="0" class="rightBoxborder">
 
-	include file="poll.htm"
-      
-      
-    </td>
-  </tr> 
-  <tr> 
-    <td height="8"></td>
-  </tr> 
-</table> -->
-
-
-<table width="234" border="0" cellspacing="0" cellpadding="0">
- <tbody><tr> 
-    <td height="8"></td>
-  </tr> 
-   <tr> 
-      <td><a href="/Interactive/"><img src="../../images/permanentimages/forum_banner.gif" border="0"></a></td>
+  <tr>
+    <td><a href="/story_main40.asp?filename=Ne160808thekafka_project.asp"><img src="../../home/20080823/images/right_simi.jpg" width="230" height="233" border="0" /></a></td>
   </tr>
-   <!--<tr> 
-    <td class="bordertd"><a href="../../story_main37.asp?filename=Bu081207TheNanoEffect.asp"><img src="../../../../home/20080202/images/nano_banner_hme.jpg" border="0" /></a></td>
-  </tr>  -->
-</tbody></table>
+  <tr> 
+    <td height="8" style="padding:5px 5px 5px 10px;"><p>&nbsp;</p></td>
+  </tr>
+</table>-->
+<!--<a href="/story_main40.asp?filename=Ne061208SouthMumbai_Map.asp"><img src="../../channels/News/2008/Dec/06/images/map_patch.gif" alt="South Mumbai" align="middle" width="234" border="0"></a>-->
+<a href="../../home/20081206/mdefault.asp"><img src="../../home/20081220/images/right_mumbai.gif" width="234" border="0"></a>
+<table width="234" border="0" cellspacing="0" cellpadding="0" class="rightBoxborder">
+	<tbody><tr> 
+    <td height="8"></td>
+    </tr>
+	<tr> 
+    <td><a href="../../Subscribe/index.asp"><img src="../../images/ad/Subscribe.jpg" width="234" border="0"></a></td>
+    </tr>
+	<tr> 
+    <td height="8"></td>
+    </tr>
+	<tr> 
+    <td><a href="mailto:kerman@tehelka.com?subject=Complaints or feedback on subscription&amp;cc=amitsharma@tehelka.com"><img src="../../images/permanentimages/feedback.gif" border="0"></a></td>
+  </tr>     	
+</tbody></table> 
 
 
+
+
+
+<!--<table width="234" border="0" cellspacing="0" cellpadding="0">-->
+<!-- <tr> 
+    <td height="148"><a href="../../story_main40.asp?filename=hub270908Takingheart.asp"><img src="../../home/20081025/images/right_Aravind.jpg" border="0" width="232"  /></a></td>
+  </tr>-->
+  
+  <!--tr> 
+    <td height="8"></td>
+  </tr>  
+  
+   <tr> 
+      <td height="44">
+  <a href="http://magazine.tehelka.com/" target="_blank"><img src="../../images/permanentimages/banner_eMag.gif" border="0"></a>
+	  <!--<a href="/Interactive/"><img src="../../images/permanentimages/forum_banner.gif" border="0"></a>-->
+	  <!--/td>
+  </tr-->
+   
+<!--</table>-->
 
 
 <table width="234" border="0" cellspacing="0" cellpadding="0">
+    
+<!--<tr> 
+    <td ><a href="/story_main40.asp?filename=hub061208let_the.asp"><img src="../../home/20081206/images/right_nicholas.gif" border="0" width="232"  /></a>
+    </td>
+  </tr>-->
+    
+  <!--  <tr> 
+    <td height="8"><a href="/story_main40.asp?filename=Ne200908EncounterAsStatePolicy.asp"><img src="../../home/20080920/images/tehelka_impact.gif" border="0" width="232"  /></a></td>
+  </tr>-->
   <tbody><tr> 
     <td height="8"></td>
-  </tr> 
-  
-<tr> 
-    <td><a href="../../Subscribe/index.asp"><img src="../../images/ad/subscribe.jpg" border="0"></a>
-    
-        
-    </td>
-  </tr>
-  
-  <tr> 
-    <td height="8"></td>
-  </tr>
-  <tr> 
-    <td height="8"><a href="mailto:deepali@tehelka.com?subject=Complaints or feedback on subscription&amp;cc=amitsharma@tehelka.com"><img src="../../images/permanentimages/feedback.gif" border="0"></a></td>
-  </tr>
-  <tr> 
-    <td height="8"></td>
   </tr>
    <tr> 
-    <td height="8"><a href="http://magazine.tehelka.com/" target="_blank"><img src="../../images/permanentimages/banner_eMag.gif" border="0"></a></td>
+    <td height="8">
+	<a href="/Interactive/"><img src="../../images/permanentimages/forum_banner.gif" border="0"></a>
+	<!--<a href="http://magazine.tehelka.com/" target="_blank"><img src="../../images/permanentimages/banner_eMag.gif" border="0"></a>--></td>
   </tr>
   
   <tr> 
@@ -862,19 +875,54 @@ Extra-judicial executioner, caring father-Rajbir Singh is variously remembered <
 <tr> 
     <td><iframe src="http://origin-img.shaadi.com/shaadi-rewards/get-banner.php?ptnr=wg9vj&amp;banner_type=buttons&amp;banner_size=234x60&amp;ad_type=iframe" width="234" height="60" scrolling="no" frameborder="0" marginwidth="0" marginheight="0"></iframe></td>
   </tr>  
-  
-  
   <tr> 
     <td height="8"></td>
   </tr>
-   <tr> 
-    <td align="center"><iframe src="http://www.s2d6.com/x/?x=i&amp;z=i&amp;v=717740&amp;r=29" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" width="210" height="415">
+  <tr> 
+    <td height="8"><a href="http://www.thedailyretail.com/" target="_blank"><img src="../../images/ad/TDR_banner.gif" border="0"></a></td>
+  </tr>
+  <tr> 
+    <td height="8"></td>
+  </tr>
+  <!-- <tr> 
+    <td align="center"><iframe src="http://www.s2d6.com/x/?x=i&z=i&v=717740&r=29" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" width="210" height="415">
 <ilayer src="http://www.s2d6.com/x/?x=i&z=i&v=717740&r=29" z-index="0" width="210" height="415"><a href="http://www.s2d6.com/x/?x=c&z=s&v=717740&r=29" target="_blank"><img src="http://www.s2d6.com/x/?x=i&z=s&v=717740&r=29" border="0" alt="click here" /></a>
 </ilayer>
 </iframe></td>
+  </tr>-->
+  <tr> 
+    <td height="8" align="center">
+		<iframe src="http://www.s2d6.com/x/?x=i&amp;z=i&amp;v=1255656&amp;r=[RANDOM]&amp;k=[NETWORKID]" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" width="160" height="600">
+ <ilayer src="http://www.s2d6.com/x/?x=i&amp;z=i&amp;v=1255656&amp;r=[RANDOM]&amp;k=[NETWORKID]" z-index="0" width="160" height="600">
+<a href="http://www.s2d6.com/x/?x=c&amp;z=s&amp;v=1255656&amp;r=[RANDOM]&amp;k=[NETWORKID]" target="_blank">
+<img src="http://www.s2d6.com/x/?x=i&amp;z=s&amp;v=1255656&amp;r=[RANDOM]&amp;k=[NETWORKID]" border="0" alt="click here" />
+</a>
+</ilayer>
+</iframe>
+	</td>
   </tr>
   <tr> 
     <td height="8"></td>
+  </tr>
+  <!--<tr> 
+    <td height="8" align="center">
+		<iframe src="http://www.s2d6.com/x/?x=i&amp;z=i&amp;v=1255945&amp;r=[RANDOM]&amp;k=[NETWORKID]" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" width="120" height="240">
+ <ilayer src="http://www.s2d6.com/x/?x=i&amp;z=i&amp;v=1255945&amp;r=[RANDOM]&amp;k=[NETWORKID]" z-index="0" width="120" height="240">
+<a href="http://www.s2d6.com/x/?x=c&amp;z=s&amp;v=1255945&amp;r=[RANDOM]&amp;k=[NETWORKID]" target="_blank">
+<img src="http://www.s2d6.com/x/?x=i&amp;z=s&amp;v=1255945&amp;r=[RANDOM]&amp;k=[NETWORKID]" border="0" alt="click here" />
+</a>
+</ilayer>
+</iframe>
+	</td>
+  </tr>-->
+  
+  <tr> 
+    <td height="8"></td>
+  </tr>
+  <tr> 
+    <td height="8" align="center">
+		<a href="http://www.s2d6.com/x/?x=c&amp;z=s&amp;v=1255943&amp;r=[RANDOM]&amp;k=[NETWORKID]" target="_blank"><img src="http://www.s2d6.com/x/?x=i&amp;z=s&amp;v=1255943&amp;r=[RANDOM]&amp;k=[NETWORKID]" border="0" alt="click here"></a>
+	</td>
   </tr>
   
 </tbody></table>
@@ -891,6 +939,65 @@ Extra-judicial executioner, caring father-Rajbir Singh is variously remembered <
     <td width="1004"><!--   -->
  
 
+<table width="1004" border="0" cellspacing="0" cellpadding="0">
+
+		
+		<tbody><tr>
+			<td width="5"></td>           
+		    <td width="994" height="10"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+					  <tbody><tr>
+<!--						<td>
+						<!-- BEGIN STANDARD TAG - 728 x 90 - http://tehelka.com: Run-of-site - DO NOT MODIFY -->
+<!--<SCRIPT TYPE="text/javascript" SRC="http://ad.adserverplus.com/st?ad_type=ad&ad_size=728x90&section=317388&cqs=tehelka1234567"></SCRIPT>
+<!-- END TAG -->
+						<!--</td>-->					
+						<td>
+							<!-- Accipiter Ad -->
+<script language="JavaScript">
+<!-- Hide from old browsers
+// Modify to reflect site specifics
+adserver = "http://ads.ozonemedia.co.in";
+target = "/SITE=TEHELKA/AAMSZ=728X90";
+// Cache-busting and pageid values
+random = Math.round(Math.random() * 100000000);
+if (!pageNum) var pageNum = Math.round(Math.random() * 100000000);
+document.write('<SCR');
+document.write('IPT SRC="' + adserver + '/jserver/acc_random=' + random + target + "/pageid=" + pageNum + '">');
+document.write('</SCR');
+document.write('IPT>');
+// End Hide -->
+</script><script src="http://ads.ozonemedia.co.in/jserver/acc_random=72978676/SITE=TEHELKA/AAMSZ=728X90/pageid=18943351"></script>
+<noscript>
+<A HREF="http://ads.ozonemedia.co.in/adclick/SITE=TEHELKA/AAMSZ=728X90/pageid=1">
+<IMG SRC="http://ads.ozonemedia.co.in/nserver/SITE=TEHELKA/AAMSZ=728X90/pageid=1"></A>
+</noscript>
+
+						</td>
+
+						
+						<td><script type="text/javascript"><!--
+google_ad_client = "pub-8578901356748606";
+google_ad_width = 234;
+google_ad_height = 60;
+google_ad_format = "234x60_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td>
+					  </tr>
+					</tbody></table>
+					</td>
+			<td width="5"></td>
+        </tr>
+		<tr>
+			<td width="5"></td>           
+		    <td width="994" height="10" align="left"></td>
+			<td width="5"></td>
+        </tr>
+</tbody></table>
+
 
 <table width="1004" border="0" cellspacing="0" cellpadding="0">
 
@@ -906,13 +1013,15 @@ Extra-judicial executioner, caring father-Rajbir Singh is variously remembered <
       Who@Tehelka</span></a> |  <a href="../../../../../about/advertise.asp" class="nav"><span class="bottomnavigation">Advertise 
       With Us</span></a> | <a href="../../../../../Subscribe/index.asp" class="nav"><span class="bottomnavigation">Print Subscriptions</span></a> 
       | <a href="../../../../../about/syndication.asp" class="nav"><span class="bottomnavigation">Syndication</span></a> | <a href="../../../../../about/tos.asp" class="nav"><span class="bottomnavigation">Terms of Service</span></a> | <a href="../../../../../about/privacy.asp" class="nav"><span class="bottomnavigation">Privacy Policy</span></a> | <a href="#" onclick="javascript:window.open('../../../../../feedback_story.asp?url=http://www.tehelka.com/about/privacy.asp?filename=','','width=400,height=300,scrollbars=yes,titlebars=no,left=200,top=200')" class="nav"><span class="bottomnavigation">Feedback</span></a> | <a href="../../../../../about/contact.asp" class="nav"><span class="bottomnavigation">Contact 
-      Us</span></a></td>
+      Us</span></a> | <a href="../../../../../channels/People/people_main.asp" class="nav"><span class="bottomnavigation">Bouquets &amp; Brickbats</span></a>
+	  
+	  </td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>&nbsp;</td>
           
-    <td align="center" class="copyright">Tehelka.com is a part of Agni Media Pvt. 
+    <td align="center" class="copyright">Tehelka.com is a part of Anant Media Pvt. 
       Ltd. © 2000 - 2008 All rights reserved</td>
           <td>&nbsp;</td>
         </tr>
