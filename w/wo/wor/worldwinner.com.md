@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the worldwinner.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016062807id_/http%3A//www.worldwinner.com/cgi/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwinner.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220112405id_/http%3A//www.worldwinner.com/cgi/legal/privacy.html) for the most accurate reproduction.*
 
 # WorldWinner Cash Competitions
 
-[](http://www.truste.org/ivalidate.php?url=www.worldwinner.com&sealid=102)**WorldWinner Privacy Commitment**
+**WorldWinner Privacy Commitment**
 
 Effective Date: February 2, 2006
 
@@ -11,12 +11,6 @@ WorldWinner has become the world's #1 destination for competing in skill-based t
 **Safe Harbor**
 
 Worldwinner, Inc. abides by the principles set forth in the Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. 
-
-**WorldWinner.com is TRUSTe Certified**
-
-Worldwinner, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site, www.worldwinner.com, wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. 
-
-If you have questions or concerns regarding this statement, you should first contact [playerservices@worldwinner.com](mailto:playerservices@worldwinner.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 **PRIVACY POLICY FAQ**
 
@@ -46,7 +40,7 @@ If you have questions or concerns regarding this statement, you should first con
 **A:** Information about our customers is an important part of our business, and as a result we do not sell it to others. We share customer information only as described below and with subsidiaries WorldWinner controls that either are subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Policy.
 
   * _Service Providers._ We employ other companies and individuals to perform functions on our behalf. Examples include e-mail, processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
-  * _Partner Sites._ WorldWinner may share information with those other companies, in a manner consistent with the privacy policies of those companies. WorldWinner will only share information with those Partner Sites with whom the user already has a relationship and with whom the user already has an agreement concerning the sharing of the user's information. 
+  * _Partner Sites._ WorldWinner may share site usage statistics and aggregate information with those other companies, in a manner consistent with the privacy policies of those companies. WorldWinner will only share site usage statistics and aggregate information with those Partner Sites with whom the user already has a relationship and with whom the user already has an agreement concerning the sharing of the user's information. 
   * _Advertisers._ We aggregate (gather up data across all user accounts) personal information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for their marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally. 
   * _Protection of WorldWinner and Others._ We release account and other personal information when we believe release is appropriate to enforce or apply our Terms and Conditions and other agreements; or protect the rights, property, or safety of WorldWinner, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
   * _Corporate Transfers._ As we continue to develop our business, we might sell or buy subsidiaries, or business units, or we may share some or all of your personal information with another business entity should we plan to, merge with, or be acquired by that business entity. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless, the customer consents otherwise). Also, in the unlikely event that WorldWinner, or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. You will be notified of such a transfer through a notice posted on our Web site. 
