@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fwditon.com privacy policy that was archived on 2008-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080424001040id_/http%3A//fwditon.com/docs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwditon.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220213917id_/http%3A//www.fwditon.com/misc/privacy) for the most accurate reproduction.*
 
-# FWDitOn.com - Privacy Policy
+# FWDitON.com > Privacy Statement
+
+Privacy Statement
 
 This privacy policy sets out how “FWDitOn.com” uses and protects any information that you give “FWDitOn.com” when you use this website.  
 “FWDitOn.com” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
@@ -29,7 +31,7 @@ We are committed to ensuring that your information is secure. In order to preven
 
 **Cookies**   
 Cookies are a tiny piece of text that a Web site places on your hard drive.   
-We do not use cookies on our site and for this reason you may disable cookies when viewing the FWDitOn.com site. 
+We do not use cookies on our site and for this reason you may disable cookies when viewing the FWDitOn.com site.
 
 **Links to other websites**  
 Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
