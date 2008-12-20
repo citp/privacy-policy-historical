@@ -1,36 +1,128 @@
-> *The following text is extracted and transformed from the firetalk.com privacy policy that was archived on 2001-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010202182600id_/http%3A//www.firetalk.com/about_us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firetalk.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220140033id_/http%3A//www.paltalk.com/privacy.shtml) for the most accurate reproduction.*
 
-# Firetalk Communications, Inc. - Privacy
+# Paltalk Privacy Policy
 
-| **General Overview**  
-Firetalk Communications, Inc. is strongly committed to protecting the privacy of members of the Firetalk community and of visitors to the Firetalk Web site. One of our primary objectives is to provide a safe and secure environment for you to communicate with other Firetalk members using the suite of interactive tools that we provide. We are equally concerned about protecting any information you provide us. The purpose of this privacy policy is to inform you, as a welcome member of the Firetalk community: (1) what kinds of information we may gather about you when you visit the Firetalk Web site or use the Firetalk application, (2) how we may use that information, (3) whether we disclose it to anyone, (4) the choices you have regarding our use of, and your ability to correct the information and, (5) what security precautions are in place to protect the loss, misuse or alteration of your information. Finally, please note that this policy applies only to Firetalk, not to any of our partners Web sites, or any other companies' or organizations' Web sites to which you may link from our Web site or through the Talk & Surf button on your Firetalk application.
+Paltalk is committed to protecting your privacy. We want you to feel free to express yourself within the Paltalk community, and are committed to ensuring that you are in control of what you share with the rest of the community, and with Paltalk. 
 
-**What personal information does Firetalk collect?**
+**_Information Collection & Use_**
 
-**Information collected during registration**  
-Registering a Firetalk account is an easy two-step process. During step 1 of registration, Firetalk collects certain personal information from you including your e-mail address, the nickname you would like associated with your Firetalk account, your first and last name, birth date, gender, country of origin, and zip code. Furthermore, you have the option of providing us with additional information including your company's name (if applicable), occupation, the speed of your Internet connection, a favorite personal saying, where you heard about Firetalk, the number of children in your household, and whether you own your own business. This additional information is not required for you to obtain a Firetalk account. In order to complete step 1 of registration you must also carefully read and accept our Terms and Conditions. These are the general guidelines that govern your conduct as a member of the Firetalk community and we hope that you take them seriously. Step 2 of registration is entirely optional. If you choose, you may check the appropriate boxes in order to receive free promotional information via e-mail on topics of general interest to you. We also give you the opportunity to receive a one-time promotional e-mail about certain hot new products. Once you submit your registration information to Firetalk, we will e-mail you your Firetalk password and a Firetalk user ID. You are free to change your Firetalk password at any time. You will need both a Firetalk password and Firetalk user ID to log into the Firetalk service. Firetalk plans to derive a significant portion of its revenue from advertising. As a result, collecting this information during registration is important not only for purposes of effectively administering the Firetalk service but also for delivering more personalized advertisements to you and continuing to make the Firetalk service free to the Firetalk community. Firetalk shall collect data based on your responses to and interest in such advertising.
+**_Registration_**  
+In order to use Paltalk, you must first complete the registration form. During registration you are required to give contact information such as your email address. We use this information to contact you about services on our site in which you have expressed interest. Please see below for Information and Sharing Disclosure. 
 
-**Additional Information**  
-Firetalk may collect additional personal information from time to time in order to give you the opportunity: (i) to participate in special events, sweepstakes, contests or other Firetalk-sponsored promotions, or (ii) to fill out user surveys that we use for research purposes. Firetalk may retain in its database personal information collected from you during your participation in the above-listed opportunities and registration for an indefinite period of time. Also, Firetalk automatically updates software used in conjunction with its services. In order to periodically update versions of the Firetalk software, we first collect the user's current version information from their hard drive. This information is not archived by Firetalk and is only used to determine which software modules within the Firetalk application require updating. In addition, Firetalk's customer service representatives are instructed not to ask for personal information from our users through the Firetalk service. If we need additional information that you did not provide during registration (such as your telephone number or mailing address), we will ask you to send it to an e-mail address at Firetalk. However, you are under no obligation to provide such information.
+**_Communications from the Site_**
 
-Currently, Firetalk only has one cookie on its Web site and it is used for a very limited purpose. Cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes. The use of cookies is an industry standard and you'll find them at most major Web sites. The cookie used by Firetalk on its Web site shows us whether you found out about Firetalk from one of our Internet advertisements. As a result, we are able to better determine how successful our advertising and promotional campaigns have been. This cookie immediately disappears from your hard drive as soon as you register a Firetalk account. Firetalk does not use cookies to retrieve information from your computer that was not originally sent in a cookie. Firetalk does not use cookies to identify specific individuals. You may occasionally get cookies from our advertisers. Firetalk does not control these cookies. The use of advertising cookies sent by third-party servers is standard in the Internet industry. Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent.
+  * _Special Offers and Updates_  
+We will occasionally send you information on products, services, special deals, or promotions. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice and Opt-out.” 
+  * _Newsletters_  
+If you wish to subscribe to our newsletter, we will use your email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out” section. 
+  * _Service-related Announcements_  
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. 
+  * _Customer Service_  
+Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes. 
+  * _Profile_  
+We store information that we collect through cookies, log files, clear gifs, to create a “profile” of your preferences. We tie your personally identifiable information, and your purchasing history, to information in the profile, in order to provide tailored promotions and marketing offers and to improve the content of the site for you. We do not share your profile with other third parties without your consent. 
 
-**With whom does Firetalk share your information?**  
-We may provide personal information we collect from you to third-party advertisers to enable such parties to deliver advertisements and promotions to you through e-mail, the Firetalk Web site and the Firetalk application. In addition, if you acquire the Firetalk application from a third party (not [www.firetalk.com](http://www.firetalk.com/)) with whom you have an existing relationship (e.g. your Internet Service Provider), we may be required to provide that third party with your registration information, but only in the few exceptional cases where this is a contractual obligation between Firetalk and the third party and only in the case that the third party has agreed not to provide your personal information to another party without your prior written consent. Firetalk maintains publicly available user profiles as well, which may contain personally identifying information volunteered by members of the Firetalk community. Except as otherwise described in this Privacy Policy, Firetalk will not disclose any of your personal information unless we have your permission or under special circumstances, such as when we believe in good faith that the law requires it.
+Paltalk is the sole owner of the information collected on Paltalk.com. Paltalk collects personally identifiable information from our users at several different points on our Web site or through our downloaded software. 
 
-**What does Firetalk do with the information it collects?**  
-Firetalk may use personal information collected from its members to award prizes, track compliance with our Terms and Conditions, and serve advertisements that are tailored to your interests. In addition, Firetalk may disclose personally identifying information about you, your Firetalk account, or any content you provide through the Firetalk service to the appropriate authorities, if Firetalk believes in good faith that such action is reasonably necessary to enforce its End-User Software License Agreement, Terms and Conditions, Privacy Policy, copyright policy, to comply with the law, to comply with legal process, to operate its systems properly, or to protect the rights or property of itself, its members, its visitors, or others. As we mentioned above, you may check boxes during registration in order to control whether your e-mail address may be viewed by other members of the Firetalk community and determine whether we send you Firetalk news updates, free promotional information or additional information about Firetalk's partner program via e-mail. At any time, you may request to discontinue receiving e-mails (including Firetalk updates and free promotional information) by simply replying to the e-mail and specifying your desire to unsubscribe. If you do not want any of the information we collect to be shared with the third parties described in this Privacy Policy, you may decide not to use the Firetalk service. Also, please keep in mind that when you use voice and text chat during conference calls, moderated interactive broadcasts, in Firetalk Forums, on the Firetalk Web site or on any other Web site while using Talk & Surf, all information volunteered by you is displayed or broadcast publicly to the other Firetalk members who may be present at that time.
+  * _Orders_  
+If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and billing address) and financial information (such as credit card number, expiration date). 
 
-**What is Firetalk's policy on allowing you to update, correct, or delete your personal information?**  
-You may update the information you provide to Firetalk during registration at any time. Simply click on "Tools" in the toolbar of the Firetalk application, then "View/Modify Profile" and enter your password and you will be able to edit your personal information. In addition, if you are no longer interested in receiving Firetalk updates or free promotional e-mails pursuant to the interests you checked during registration, simply uncheck the applicable boxes and they will no longer be delivered to you. Although you may terminate your Firetalk account and uninstall the Firetalk software from your hard drive at any time, your personal information will remain in our database indefinitely. You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies.
+We use this information for billing purposes and to fill your orders. We will use this information to contact you and confirm your orders. 
 
-**What security precautions are in place to protect the loss, misuse or alteration of any of the personal information under Firetalk's control?**  
-Except as otherwise described in this Privacy Policy, access to your personal information is password protected so that only you have access to this personal information. We recommend that you do not divulge your password to anyone. Whenever Firetalk handles personal information, we take steps to ensure that your information is treated securely and in accordance with this Privacy Policy and our Terms and Conditions. By checking the appropriate box during registration, you will be able to control whether such information may be viewed by other members of the Firetalk community and determine whether we send you Firetalk news updates or additional information about Firetalk's partner program. Unfortunately, however, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us via e-mail or through the Firetalk application, and you do so at your own risk. Once we receive your transmission, we use our best efforts to ensure its security on our systems.
 
-Firetalk is a communications service being made available to a wide-ranging general audience. However, the subject matter of many of the communications that take place using our service are inappropriate for young children. Currently, in an effort to comply with the Children's Online Privacy and Protection Act, we do not allow persons under the age of 13 to register a Firetalk account. At such time as we have a procedure in place for verifying the parental consent for persons under the age of 13, this Privacy Policy may change.
 
-By using this site and the Firetalk service, you signify your assent to the Firetalk Privacy Policy. If you do not agree to this policy, please do not use the site or the Firetalk service. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for amendments. Your continued use of Firetalk following the posting of amendments to these terms will mean you accept those amendments. For a full explanation of the terms and conditions for using this site, please see our End-User Software License Agreement and our Terms and Conditions.
 
-We continuously strive to do everything we can to protect the privacy of our users. Nonetheless, we are aware that evolving technologies present new challenges for user privacy. Please feel free to contact us with any concerns you may have at [http://www.firetalk.com/support/email_our_techies/support.asp](https://web.archive.org/web/20010202182600id_/http%3A//www.firetalk.com/support/email_our_techies/support.asp). We'll do our best to address them.
+**_Uses of Information_**  
+Paltalk's primary goal in collecting personal information is to provide you, the user, with a customized experience on Paltalk and through our partners. This includes personalization services, interactive communications, and many other types of services, most of which are completely free to you. In order to provide services free of charge, we display advertisements and encourage your participation. By knowing a little about you, Paltalk is able to deliver more relevant advertisements and content, and hence better service, to you. 
 
-|  
+In our role of delivering targeted advertisements, Paltalk plays the middleman. Advertisers give us advertisements and tell us the type of audience they want to reach (for example, males over 35 years old). Paltalk displays the advertisement to users meeting the specified criteria. In this process, the advertiser never has access to individual user information. This kind of advertisement targeting is done with banner ads as well as promotional email through Paltalk and its affiliates. You will only receive special offers via email from Paltalk if you have indicated in your account preferences, or at some other time, that you would like to receive them. 
+
+**_Personally identifiable information:_**
+
+  * _Agents_   
+We use outside credit card processing companies to bill you for Paltalk services. These companies do not retain, share, store or use personally identifiable information for any other purposes.   
+We use outside email delivery systems to contact you and provide you with pertinent information via email. These companies do not retain, share, store or use personally identifiable information for any other purposes. 
+  * _Advertising_   
+We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our Web site.  These companies may use information (not including personal information such as your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. 
+  * _Legal Disclaimer_   
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. 
+
+_**Choice/Opt-out**_
+
+We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. 
+
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or visiting [http://register.paltalk.com/reg/ControllerServlet?RequestId=Register.ShowOptout&src=paltalk](http://register.paltalk.com/reg/ControllerServlet?RequestId=Register.ShowOptout&src=paltalk). You may also contact us at: 
+
+Paltalk.com  
+Church Street Station  
+P.O. Box 3454  
+New York, NY 10008
+
+Or, please contact our helpful customer support staff online. On the Paltalk buddy list window, click Groups, then Paltalk Help Groups. 
+
+**_Log Files_**  
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
+
+We use this information, which does not identify individual users, to administer the site and to track users' movements around the site. 
+
+We do not link this automatically-collected data to personally identifiable information except during special promotions such as free trials when subscription IP addresses are temporarily tied to personally identifiable information. 
+
+**_Cookies_**  
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use session ID cookies on this site to maintain your subscription and maintain your account. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. 
+
+**_Clear Gifs_**  
+We employ a software technology called clear gifs that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. 
+
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see “Choice and Opt-out.” 
+
+**_Third Party Advertisers_**  
+The ads appearing on this Web site are delivered to users by a Paltalk proprietary ad serving system. We share Web site usage information about users with reputable third party ad networks for the purpose of targeting our banner advertisements on Paltalk software. 
+
+We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our Web site. These companies may use information (not including personal information such as your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. 
+
+**_Links to Other Sites_**  
+Paltalk contains links to other sites that are not owned or controlled by Paltalk. Please be aware that we, Paltalk, are not responsible for the privacy practices of such other sites. 
+
+We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
+
+This privacy statement applies only to information collected by Paltalk. 
+
+By visiting this Site, all visitors consent to the collection, maintenance, and processing of their personal and non-personal information in the United States. 
+
+**_Paltalk Discussion Rooms_**  
+If you use a discussion room on Paltalk, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
+
+**_Access to Personally Identifiable Information_**  
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on [http://my.paltalk.com](http://my.paltalk.com/) or by contacting our helpful customer support staff online by clicking Groups on the Paltalk buddy list window, then Paltalk Help. 
+
+_**Security**_
+
+The security of your personal information is important to us. When you enter sensitive information such as credit card numbers on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+
+Only employees who need the information to perform a specific job are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Finally, the servers that we store personally identifiable information on are kept in a secure environment. 
+
+If you have any questions about security on our Web site, you can contact our helpful customer support staff online. On the Paltalk buddy list window, click Groups, then Paltalk Help Groups. 
+
+**_Business Transitions_**  
+In the event Paltalk goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email of any such change in ownership or control of your personal information. 
+
+**_Changes in this Privacy Statement_**  
+If we decide to change our privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
+
+This statement reflects the privacy policy of Paltalk with respect to the Web site located at www.Paltalk.com (the “Site”). This statement is intended to inform casual visitors of Paltalk, and visitors who participate in Paltalk, of the data collection and use practices of the Site. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this Site following the posting of any amendment, modification, or change shall constitute your acceptance thereof except if your personally identifiable information will be used in a materially different manner. 
+
+**_Contact Us_**  
+If you have any questions or suggestions regarding our privacy policy, please contact us at:
+
+Paltalk.com  
+Church Street Station  
+P.O. Box 3454  
+New York, NY 10008
+
+Or, by visiting our helpful customer support staff online, on the Paltalk buddy list window, click Groups, then Paltalk Help Groups. 
+
+**::Top::**
