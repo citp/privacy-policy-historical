@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the asda-entertainment.co.uk privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516211701id_/http%3A//www.asda-entertainment.co.uk/asda/privacy-policy.info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asda-entertainment.co.uk privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220010405id_/http%3A//www.asda-entertainment.co.uk/asda/privacy-policy.info) for the most accurate reproduction.*
 
 # Asda Entertainment - Privacy Policy
 
 Asda Entertainment , is operated on behalf of ASDA by TheHut.com (Trading) Limited. We are committed to protecting our customers' privacy and are entirely open about our information gathering practices. Please take the time to review this notice which states our privacy policy.
 
-For us to process your order, we need to know your name, e-mail address, delivery address, credit/debit card number, security code and expiry date. We will not collect any information about you unless it is specifically and knowingly provided by you.
+For us to process your order, we need to know your name, email address, delivery address, credit/debit card number, security code and expiry date. We will not collect any information about you unless it is specifically and knowingly provided by you.
 
 The information we collect will be accurate and up to date. You can check this at any time by contacting out customer services department. We will immediately correct any inaccuracies you report.
 
