@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nie.edu.sg privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202193840id_/http%3A//www.nie.edu.sg/nieweb/about/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nie.edu.sg privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220155807id_/http%3A//www.nie.edu.sg/nieweb/about/privacy.do) for the most accurate reproduction.*
 
 # National Institute of Education: About NIE
 
@@ -6,11 +6,11 @@
 
 Privacy Policy
 
-Government of Singapore Privacy Statement  
+National Institution of Education Privacy Statement  
 
 
-  1. This is a Government of Singapore website. Thank you for examining our privacy statement.    
-
+  1. This is a National Institution of Education (NIE) website. Thank you for examining our privacy statement.  
+ 
   2. If you are only browsing this website, we do not capture data that allows us to identify you individually.  
  
   3. If you choose to make an application or send us an e-mail for which you provide us with personally identifiable data, we may share necessary data with other Government agencies, so as to serve you in a most efficient and effective way, unless such sharing is prohibited by legislation. We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.  
@@ -19,6 +19,6 @@ Government of Singapore Privacy Statement
  
   5. To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies.  
  
-  6. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites. 
+  6. This site may contain links to other sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy notices of those sites. 
 
 
