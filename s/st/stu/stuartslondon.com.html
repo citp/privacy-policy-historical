@@ -1,12 +1,11 @@
-<!--The following is the downloaded HTML source of the stuartslondon.com privacy policy that was archived on 2008-04-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080412194508id_/http%3A//www.stuartslondon.com/page.php%3FpageID%3D9) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stuartslondon.com privacy policy that was archived on 2008-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220105721id_/http%3A//www.stuartslondon.com/page.php%3FpageID%3D9) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Stuarts London -   Privacy and Security </title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="description" content="Welcome" to="" stuarts="" london="" online="" the="" award="" winning="" fashion="" retailer="" of="" men's="" and="" womens="" clothing,="" we="" sell="" top="" brand="" shirts,="" jeans,="" shoes,="" accessories.="" brands="" including="" lacoste,="" hilfiger="" denim,="" k-swiss,="" vagabond,="" ben="" sherman,jeffery="" west,="" firetrap,="" birkenstock,="" crocs,="" fila="" vintage,="" schott="" n.y.c,="" pepe,="" stones,="" converse="" armani.="">
 <meta name="keywords" content="  Privacy and Security ">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link href="/styles.css" rel="stylesheet" type="text/css">
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
@@ -45,6 +44,13 @@ alert('The product is currently out of stock in this color.');
 
 function addtobag(formname)
 {
+
+//alert("hiii");
+	if(document.getElementById('inpval').value==0)
+	{
+		alert("This item is out of stock, please call  0208 123 5976 for stock information");
+		return false;
+	}
 var theForm = document.forms[formname];
 
 if(theForm.checkcolor.value == 'true'){
@@ -102,6 +108,11 @@ cartheader.location.href = '/cartheader.php?prodID=&prodQuanity=' + theForm.prod
 
 function addtobagfast(formname)
 {
+if(document.getElementById('inpval').value==0)
+	{
+		alert("This item is out of stock, please call  0208 123 5976 for stock information");
+		return false;
+	}
 var theForm = document.forms[formname];
 
 if(theForm.checkcolor.value == 'true'){
@@ -366,44 +377,7 @@ document.write(FirstPart3 + r + LastPart3);
 }
 //-->
 </script>
-<script language="JavaScript">
-<!--
 
-//Disable right mouse click Script
-//By Maximus (maximus@nsimail.com) w/ mods by DynamicDrive
-//For full source code, visit http://www.dynamicdrive.com
-
-var message="Please be aware that all pictures are copyright.";
-
-///////////////////////////////////
-function clickIE4(){
-if (event.button==2){
-alert(message);
-return false;
-}
-}
-
-function clickNS4(e){
-if (document.layers||document.getElementById&&!document.all){
-if (e.which==2||e.which==3){
-alert(message);
-return false;
-}
-}
-}
-
-if (document.layers){
-document.captureEvents(Event.MOUSEDOWN);
-document.onmousedown=clickNS4;
-}
-else if (document.all&&!document.getElementById){
-document.onmousedown=clickIE4;
-}
-
-document.oncontextmenu=new Function("alert(message);return false")
-
-// --> 
-</script>
 
 
 </head>
@@ -416,20 +390,23 @@ document.oncontextmenu=new Function("alert(message);return false")
 <table width="799" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr> 
     <td align="left" style="background: url(/images/bg.jpg)"><div class="header">
-      <div class="shoppingcartheaderlinksright"><font color="#CC0000">Call us: 0208 749 4056 Mon-Sat 10am - 6pm<br>
+      <div class="shoppingcartheaderlinksright"><font color="#CC0000">Call us: 0208 123 5976 Mon-Sat 10am - 6pm<br>
       Technical &amp; order info support Mon-Sun 10am to 10pm 0790 208 7660 </font>
-          <iframe name="cartheader" height="18" width="400" frameborder="0" src="/cartheader.php"></iframe></div>
+        <iframe name="cartheader" height="18" width="400" frameborder="0" src="/cartheader.php"></iframe></div>
       <div class="headerimage">
         
         <div align="left">
+				
             <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="371" height="111">
               <param name="movie" value="http://www.stuartslondon.com/new-promo5.swf">
               <param name="quality" value="high">
               <embed src="http://www.stuartslondon.com/new-promo5.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="371" height="111">
             </object>
-        </div>
+			
+				
+			         </div>
       </div>
-	  
+	 
 	  <div class="searchbox"><form action="/search.php" method="get"><div class="searchsubmitcontainer"><img src="/images/search.gif"></div><div class="searchfeildcontainer"><input type="text" value="" name="searchQuery" class="searchQuery"></div><div class="searchsubmitcontainer"><input type="image" src="/images/searchbutton.gif"></div></form></div>
 	  
 	  </div>
@@ -441,7 +418,7 @@ document.oncontextmenu=new Function("alert(message);return false")
 		
 		</div>
 		<div class="menulinkselected"><a href="/index.php">&nbsp;home</a></div>
-			<div class="menulink"><a href="/cat/SHOE SHOP WOMENS/">&nbsp;SHOE SHOP WOMENS</a></div><div class="menulink"><a href="/cat/SHOE SHOP MENS/">&nbsp;SHOE SHOP MENS</a></div><div class="menulink"><a href="/cat/CLOTHING MENS/">&nbsp;CLOTHING MENS</a></div><div class="menulink"><a href="/viewproducts/HATS -GLOVES-SCARFS/">&nbsp;HATS -GLOVES-SCARFS</a></div><div class="menulink"><a href="/viewproducts/Man Bags/">&nbsp;Man Bags</a></div><div class="menulink"><a href="/viewproducts/KIDS SHOES/">&nbsp;KIDS SHOES</a></div><div class="menulink"><a href="/cat/MENS CUFFLINKS/">&nbsp;MENS CUFFLINKS</a></div><div class="menulink"><a href="/viewproducts/Gift Ideas 4 HIM/">&nbsp;Gift Ideas 4 HIM</a></div><div class="menulink"><a href="/viewproducts/Gift Ideas 4 HER/">&nbsp;Gift Ideas 4 HER</a></div><div class="menulink"><a href="/viewproducts/VOUCHERS/">&nbsp;VOUCHERS</a></div><div class="menulink"><a href="/viewproducts/SHOE CARE/">&nbsp;SHOE CARE</a></div><div class="menulink"><a href="/cat/SALE CLOTHING/">&nbsp;SALE CLOTHING</a></div><div class="menulink"><a href="/cat/SALE  MENS SHOES/">&nbsp;SALE  MENS SHOES</a></div><div class="menulink"><a href="/cat/SALE WOMENS/">&nbsp;SALE WOMENS</a></div>
+			<div class="menulink"><a href="/cat/RETRO SHOP MENS/">&nbsp;RETRO SHOP MENS</a></div><div class="menulink"><a href="/cat/URBAN SHOP MENS/">&nbsp;URBAN SHOP MENS</a></div><div class="menulink"><a href="/cat/MEN FULL SELECTION/">&nbsp;MEN FULL SELECTION</a></div><div class="menulink"><a href="/cat/SHOE SHOP MENS/">&nbsp;SHOE SHOP MENS</a></div><div class="menulink"><a href="/cat/SHOE SHOP WOMENS/">&nbsp;SHOE SHOP WOMENS</a></div><div class="menulink"><a href="/viewproducts/SHOE SHOP KIDS/">&nbsp;SHOE SHOP KIDS</a></div><div class="menulink"><a href="/viewproducts/HATS -GLOVES-SCARVES/">&nbsp;HATS -GLOVES-SCARVES</a></div><div class="menulink"><a href="/viewproducts/MENS UNDERWEAR/">&nbsp;MENS UNDERWEAR</a></div><div class="menulink"><a href="/viewproducts/MAN BAGS/">&nbsp;MAN BAGS</a></div><div class="menulink"><a href="/viewproducts/SHOE CARE/">&nbsp;SHOE CARE</a></div><div class="menulink"><a href="/cat/SALE MENS CLOTHING/">&nbsp;SALE MENS CLOTHING</a></div><div class="menulink"><a href="/cat/SALE  MENS SHOES/">&nbsp;SALE  MENS SHOES</a></div><div class="menulink"><a href="/cat/SALE WOMENS/">&nbsp;SALE WOMENS</a></div><div class="menulink"><a href="/viewproducts/VOUCHERS/">&nbsp;VOUCHERS</a></div><div class="menulink"><a href="/viewproducts/WOMENS FRAGRANCE/">&nbsp;WOMENS FRAGRANCE</a></div><div class="menulink"><a href="/viewproducts/MENS FRAGRANCE/">&nbsp;MENS FRAGRANCE</a></div>
 				<div class="menumiddle"><img src="/images/menumiddlehome.jpg" width="223" height="53" border="0" alt=""><!--Begin Mailing List Signup -->
 <table width="150" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000" style="border: 2px solid #000000;">
 <form method="post" name="emailsubmit" action="http://business.eliteweb.cc/addemail.cgi" target="_blank"></form>
@@ -468,7 +445,9 @@ document.oncontextmenu=new Function("alert(message);return false")
   </tr>
 
 </tbody></table>
-<!--End Mailing List Signup --><ul class="links"><li class="linkitem"><a href="http://www.stuartslondon.com/page.php?pageID=17" class="linkitema"><font color="#FF0000">STUARTS STORE</font></a><br><span class="linkdescription">VISIT OUR STORE IN LONDON</span></li><li class="linkitem"><a href="http://www.stuartslondon.com/page.php?pageID=114" class="linkitema">Baracuta Harrington </a><br><span class="linkdescription">The Original style Jacket  and the new Ben Sherman collaboration just arrived...</span></li><li class="linkitem"><a href="http://www.stuartslondon.com/viewproducts/none/gabicci%20vintage%201973/" class="linkitema">Gabicci New Arrivals</a><br><span class="linkdescription">We have sourced out the orignal 70s and 80s vintage re-issues</span></li><li class="linkitem"><a href="http://www.stuartslondon.com/page.php?pageID=112" class="linkitema">Supreme being</a><br><span class="linkdescription">cool fashion for ultra cool people</span></li><li class="linkitem"><a href="http://www.stuartslondon.com/page.php?pageID=113" class="linkitema">Farah Vintage New Arrivals</a><br><span class="linkdescription">Latest addidtion retro style</span></li><li class="linkitem"><a href="http://www.youtube.com/watch?v=fPba9c7vsbs" class="linkitema">The New Fila White Line Film</a><br><span class="linkdescription">The Boyz are back in Business, Starring Danny Dyer and Tammer Hussian...Watch out for the quality product being worn...film rated 18</span></li><li class="linkitem"><a href="http://www.stuartslondon.com/viewproducts/SHOE%20SHOP%20MENS/NEW%20BALANCE/" class="linkitema">New Balance retro style</a><br><span class="linkdescription">Some retro clasics just arrived, including the famouse Made in England version</span></li></ul><br><br><br><br></div>
+<!--End Mailing List Signup --><!-- AddThis Button BEGIN --><br>
+<span style="margin-top:35px; padding-left:30px;"><a href="http://www.addthis.com/bookmark.php" onclick="addthis_url   = location.href; addthis_title = document.title; return addthis_click(this);" target="_blank"><img src="http://s9.addthis.com/button1-bm.gif" width="125" height="16" border="0" alt="Bookmark and Share"></a> <script type="text/javascript">var addthis_pub = 'tomatonetwork';</script><script type="text/javascript" src="http://s9.addthis.com/js/widget.php?v=10"></script> </span> 
+<!-- AddThis Button END --><ul class="links"><li class="linkitem"><a href="http://www.stuartslondon.com/page.php?pageID=17" class="linkitema"><font color="#FF0000">STUARTS STORE</font></a><br><span class="linkdescription">VISIT OUR STORE IN LONDON</span></li><li class="linkitem"><a href="http://www.stuartslondon.com/page.php?pageID=108" class="linkitema">Xmas Returns and Deliveries</a><br><span class="linkdescription">Safe, Easy, and Care free shopping this Xmas at Stuartslondon.com </span></li><li class="linkitem"><a href="http://www.stuartslondon.com/viewproducts/Fjall%20Raven/" class="linkitema">Fjall Raven -new Brand added</a><br><span class="linkdescription">New Fjall raven added to our brands due to customer high request</span></li><li class="linkitem"><a href="http://www.stuartslondon.com/viewproducts/ORIGINAL%20PENGUIN/" class="linkitema">Original Penguin Store - New Arrivals</a><br><span class="linkdescription">Since 1955 this Vintage Penguin logo  has been at the leading edge of fashion. Take a look at the new collection 2008 winter. An Original Penguin by Munsingwear at stuartslondon.com</span></li><li class="linkitem"><a href="http://80scasuals.blogspot.com/" class="linkitema">STUARTSLONDON BLOG</a><br><span class="linkdescription">The latest news and information about our products and fashion related topics</span></li><li class="linkitem"><a href="http://www.facebook.com/group.php?gid=34386489585" class="linkitema">FaceBook- Win £500 Shopping Spree at Stuarts</a><br><span class="linkdescription">Join our fan list of Stuartslondon Group on Facebook and get the chance to win £500 shopping Voucher</span></li><li class="linkitem"><a href="http://www.stuartslondon.com/page.php?pageID=145" class="linkitema">Sponsered Links</a><br><span class="linkdescription">Interesting web links that we found on the net</span></li></ul><br><br><br><br></div>
 		      </div>
 
 			
@@ -513,7 +492,7 @@ document.oncontextmenu=new Function("alert(message);return false")
 
 <a href="http://www.stuartslondon.com/page.php?pageID=8" class="footerlink">About Us</a> |
 <a href="http://www.stuartslondon.com/page.php?pageID=9" class="footerlink">Privacy and Security</a>
-<a href="http://www.stuartslondon.com/page.php?pageID=10.php" class="footerlink"></a> | <a href="http://www.stuartslondon.com/page.php?pageID=10.php" class="footerlink">Careers</a> | <a href="http://www.stuartslondon.com/page.php?pageID=11.php" class="footerlink">Press Area</a> | <a href="http://www.stuartslondon.com/page.php?pageID=12" class="footerlink">Site Map</a> | <a href="http://www.stuartslondon.com/page.php?pageID=13" class="footerlink">Vouchers</a>
+<a href="http://www.stuartslondon.com/page.php?pageID=10.php" class="footerlink"></a> | <a href="http://www.stuartslondon.com/page.php?pageID=10.php" class="footerlink">Careers</a> | <a href="http://www.stuartslondon.com/page.php?pageID=11.php" class="footerlink">Press Area</a> | <a href="http://www.stuartslondon.com/page.php?pageID=12" class="footerlink">Site Map</a> | <a href="http://www.stuartslondon.com/page.php?pageID=13" class="footerlink">Latest Newsletter</a>
 <p>
 © 2006 Stuartslondon.com. All Rights Reserved.
 </p></div><img src="http://www.stuartslondon.com/images/cards.gif" alt="cards"><!-- ****************************** BEGIN RES LAYER **************************************** -->
