@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adriatic.hr privacy policy that was archived on 2007-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211121054id_/http%3A//www.adriatic.hr/zastita_privatnosti.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adriatic.hr privacy policy that was archived on 2008-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220150749id_/http%3A//www.adriatic.hr/zastita_privatnosti.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>
@@ -20,6 +20,87 @@ Adriatic.hr - Privacy statement</title>
 
 <script language="JavaScript" type="text/javascript">
 <!--
+
+function parent_host_check()
+{
+	// pokusavamo procitati hostname parent prozora
+	// ako je iframe otvoren na domeni razlicitoj od adriatic.hr pojavice se exception
+	// ako je pak iframe otvoren sa druge domene ne radimo nista
+	try
+	{
+		var parent_host = window.parent.location.hostname;
+
+		// dodatna provjera za slucaj da korisnik ima opustenije sigurnosne postavke
+
+		var domain = 'www.aariatic.hr';
+
+		if (parent_host != domain.replace(/aa/, 'ad') && parent_host != 'www')
+			return;
+
+		// brisemo nepotrebne cookije, ako ih ima
+
+		if (Get_Cookie('cltype') != null || Get_Cookie('clid') != null)
+		{
+			Delete_Cookie('cltype', '/', parent_host);
+			Delete_Cookie('clid', '/', parent_host);
+			window.location.reload();
+		}
+	}
+	catch (err)
+	{
+		// nalazimo se unutar framea na drugoj stranici tako da ne treba uraditi nista
+	}
+}
+
+function Delete_Cookie(name, path, domain)
+{
+	if (Get_Cookie(name))
+		document.cookie = name + "=" +
+			((path) ? ";path=" + path : "") +
+			((domain) ? ";domain=" + domain : "") +
+			";expires=Thu, 01-Jan-1970 00:00:01 GMT";
+}
+
+function Get_Cookie( check_name )
+{
+	// first we'll split this cookie up into name/value pairs
+	// note: document.cookie only returns name=value, not the other components
+	var a_all_cookies = document.cookie.split( ';' );
+	var a_temp_cookie = '';
+	var cookie_name = '';
+	var cookie_value = '';
+	var b_cookie_found = false; // set boolean t/f default f
+
+	for ( i = 0; i < a_all_cookies.length; i++ )
+	{
+		// now we'll split apart each name=value pair
+		a_temp_cookie = a_all_cookies[i].split( '=' );
+
+
+		// and trim left/right whitespace while we're at it
+		cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+
+		// if the extracted name matches passed check_name
+		if ( cookie_name == check_name )
+		{
+			b_cookie_found = true;
+			// we need to handle case where cookie has no value but exists (no = sign, that is):
+			if ( a_temp_cookie.length > 1 )
+			{
+				cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') );
+			}
+			// note that in cases where cookie is initialized but no value, null is returned
+			return cookie_value;
+			break;
+		}
+		a_temp_cookie = null;
+		cookie_name = '';
+	}
+	if ( !b_cookie_found )
+	{
+		return null;
+	}
+}
 
 function conv_calc(form)
 {
@@ -49,10 +130,13 @@ function conv_calc(form)
 	}
 }
 
+parent_host_check();
+
 //-->
 </script>
 
 </head>
+
 <body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="770">
 	<tbody><tr>
@@ -81,49 +165,43 @@ function conv_calc(form)
                                     	<img alt="English" src="/images/flags/en.gif" style="vertical-align:top;"></a>
                                     <select name="lang" class="manji1" style="color:#004F9D; background-color:#9DC8F3; border:1px solid #8EBDCF;" onchange="this.form.submit();">
                                     <option style="" value="0" selected="">Change language</option>
-										<option value="bg">
-                                            Bulgarian
-										</option>
-										<option value="cs">
-                                            Čeština
-										</option>
-										<option value="de">
-                                            Deutsch
-										</option>
-										<option value="fr">
-                                            Français
-										</option>
-										<option value="hr">
-                                            Hrvatski
-										</option>
-										<option value="it">
-                                            Italiano
-										</option>
-										<option value="hu">
-                                            Magyar
-										</option>
-										<option value="nl">
-                                            Nederlands
-										</option>
-										<option value="pl">
-                                            Polski
-										</option>
-										<option value="ru">
-                                            Russian
-										</option>
-										<option value="sk">
-                                            Slovenčina
-										</option>
-										<option value="sl">
-                                            Slovenščina
-										</option>
-										<option value="es">
-                                            Spanish
-										</option>
-										<option value="se">
-                                            Svenska
-										</option>
-									</select>
+                                    										<option value="bg">
+                                            Bulgarian										</option>
+                                    										<option value="cs">
+                                            Čeština										</option>
+                                    										<option value="de">
+                                            Deutsch										</option>
+                                    										<option value="en">
+                                            English										</option>
+                                    										<option value="fr">
+                                            Français										</option>
+                                    										<option value="hr">
+                                            Hrvatski										</option>
+                                    										<option value="it">
+                                            Italiano										</option>
+                                    										<option value="lt">
+                                            Lietuvių										</option>
+                                    										<option value="hu">
+                                            Magyar										</option>
+                                    										<option value="nl">
+                                            Nederlands										</option>
+                                    										<option value="pl">
+                                            Polski										</option>
+                                    										<option value="ro">
+                                            Romanian										</option>
+                                    										<option value="ru">
+                                            Russian										</option>
+                                    										<option value="sk">
+                                            Slovenčina										</option>
+                                    										<option value="sl">
+                                            Slovenščina										</option>
+                                    										<option value="es">
+                                            Spanish										</option>
+                                    										<option value="se">
+                                            Svenska										</option>
+                                    										<option value="uk">
+                                            Ukrainian										</option>
+                                    									</select>
 									</form>
 								</td>
 							</tr>
@@ -144,7 +222,7 @@ function conv_calc(form)
 				<tbody><tr>
 					<td style="padding:12 0 12 8px;">
 						<a href="http://www.adriatic.hr"><img border="0" width="250" height="52" src="/images/mainframe/logo.gif"></a></td>
-                        <td onmouseover="this.style.cursor = 'pointer'" onclick="document.location.href='http://www.adriatic.hr/contact.php'" align="left" valign="middle" style="background:url(/images/contact_header.gif) no-repeat; background-position: top right;" height="65px" width="480px"><div style="margin-left: 156px; font-weight: bold; font-size: 11px; color: #0099cc; text-transform: uppercase">Contact phone</div><div style="margin-left: 156px; font: 23px Arial"><b>+385 21 456-456</b></div>                    </td>
+                        <td onmouseover="this.style.cursor = 'pointer'" onclick="document.location.href='http://www.adriatic.hr/contact.php'" align="left" valign="middle" style="background:url(/images/contact_header.gif) no-repeat; background-position: top right;" height="65px" width="480px"><div style="margin-left: 156px; font-weight: bold; font-size: 11px; color: #0099cc; text-transform: uppercase">Phone contact </div><div style="margin-left: 156px; font: 23px Arial"><b>+385 21 456-456</b></div>                    </td>
 				</tr>
 			</tbody></table>
 		</td>
@@ -411,7 +489,7 @@ function conv_calc(form)
 									<div style="overflow:hidden;">
 									<a href="/contact.php" style="font-weight:bold;" class="manji1">CONTACT</a><br>
 
-							
+
 									</div>
 								</td>
 							</tr>
@@ -584,27 +662,27 @@ function conv_calc(form)
 									<div style="width:124; overflow:hidden;">
 
 									<div style="padding:1 0 2 0px;">
-									Houses: <span style="white-space:nowrap; font-weight:bold;">2 083</span>
+									Houses: <span style="white-space:nowrap; font-weight:bold;">2 455</span>
 									</div>
 									<div style="padding:1 0 2 0px;">
-									Accommodation units: <span style="white-space:nowrap; font-weight:bold;">5 869</span>
+									Accommodation units: <span style="white-space:nowrap; font-weight:bold;">7 107</span>
 									</div>
 									<div style="color:#6A6A6A; padding-left:8px;">
 									<div style="padding:1 0 2 0px;">
-									Houses: <span style="white-space:nowrap; font-weight:bold;">97</span>
+									Houses: <span style="white-space:nowrap; font-weight:bold;">111</span>
 									</div>
 									<div style="padding:1 0 2 0px;">
-									Apartments: <span style="white-space:nowrap; font-weight:bold;">3 581</span>
+									Apartments: <span style="white-space:nowrap; font-weight:bold;">4 503</span>
 									</div>
 									<div style="padding:1 0 2 0px;">
-									Studio apartment: <span style="white-space:nowrap; font-weight:bold;">929</span>
+									Studio apartment: <span style="white-space:nowrap; font-weight:bold;">1 121</span>
 									</div>
 									<div style="padding:1 0 2 0px;">
-									Rooms: <span style="white-space:nowrap; font-weight:bold;">1 262</span>
+									Rooms: <span style="white-space:nowrap; font-weight:bold;">1 372</span>
 									</div>
 									</div>
 									<div style="padding:1 0 2 0px;">
-									Beds: <span style="white-space:nowrap; font-weight:bold;">22 886</span>
+									Beds: <span style="white-space:nowrap; font-weight:bold;">27 761</span>
 									</div>
 
 									</div>
@@ -635,7 +713,7 @@ function conv_calc(form)
 							<tr>
 								<td background="/images/mainframe/frame1m2.gif" style="padding: 5 8;" class="manji1">
 									<div style="width:124; overflow:hidden;">
-									<div style="padding-bottom:6px;">Exchange rate (Croatian National Bank) - 11.12.2007</div>
+									<div style="padding-bottom:6px;">Exchange rate (Croatian National Bank) - 20.12.2008</div>
 									<form name="conv_form" onsubmit="conv_calc(this); return false;">
 
 									<div style="padding-top:4px; padding-bottom:1px;">
@@ -643,14 +721,14 @@ function conv_calc(form)
 									</div>
 									<input type="text" name="conv_from" class="manji1" style="width:63px; color:#004F9D; background-color:#BBE5F5; border:1px solid #8EBDCF;" onchange="conv_calc(this.form)" onblur="conv_calc(this.form)" onkeyup="conv_calc(this.form)">
 									<select name="conv_from_valuta" class="manji1" style="color:#004F9D; background-color:#BBE5F5; border:1px solid #8EBDCF;" onchange="conv_calc(this.form)" onblur="conv_calc(this.form)">
-<option value="1" selected="">HRK</option><option value="4.393792">AUD</option><option value="4.970321">CAD</option><option value="0.282287">CZK</option><option value="0.981019">DKK</option><option value="0.02905817">HUF</option><option value="0.04466191">JPY</option><option value="0.915932">NOK</option><option value="0.221471">SKK</option><option value="0.776395">SEK</option><option value="4.421399">CHF</option><option value="10.182691">GBP</option><option value="4.986577">USD</option><option value="7.3183">EUR</option><option value="2.048337">PLN</option>									</select>
+<option value="1" selected="">HRK</option><option value="3.504636">AUD</option><option value="4.159245">CAD</option><option value="0.272221">CZK</option><option value="0.964872">DKK</option><option value="0.02722215">HUF</option><option value="0.05770256">JPY</option><option value="0.734557">NOK</option><option value="0.237895">SKK</option><option value="0.655601">SEK</option><option value="4.659067">CHF</option><option value="7.670481">GBP</option><option value="5.127333">USD</option><option value="7.188008">EUR</option><option value="1.757416">PLN</option>									</select>
 
 									<div style="padding-top:4px; padding-bottom:1px;">
 									to currency:
 									</div>
 									<input type="text" name="conv_to" readonly="" class="manji1" style="width:63px; color:#004F9D; background-color:#DCE8E9; border:1px solid #8EBDCF;">
 									<select name="conv_to_valuta" size="1" class="manji1" style="color:#004F9D; background-color:#BBE5F5; border:1px solid #8EBDCF;" onchange="conv_calc(this.form)" onblur="conv_calc(this.form)">
-<option value="1" selected="">HRK</option><option value="4.393792">AUD</option><option value="4.970321">CAD</option><option value="0.282287">CZK</option><option value="0.981019">DKK</option><option value="0.02905817">HUF</option><option value="0.04466191">JPY</option><option value="0.915932">NOK</option><option value="0.221471">SKK</option><option value="0.776395">SEK</option><option value="4.421399">CHF</option><option value="10.182691">GBP</option><option value="4.986577">USD</option><option value="7.3183">EUR</option><option value="2.048337">PLN</option>									</select>
+<option value="1" selected="">HRK</option><option value="3.504636">AUD</option><option value="4.159245">CAD</option><option value="0.272221">CZK</option><option value="0.964872">DKK</option><option value="0.02722215">HUF</option><option value="0.05770256">JPY</option><option value="0.734557">NOK</option><option value="0.237895">SKK</option><option value="0.655601">SEK</option><option value="4.659067">CHF</option><option value="7.670481">GBP</option><option value="5.127333">USD</option><option value="7.188008">EUR</option><option value="1.757416">PLN</option>									</select>
 
 									</form>
 									</div>
@@ -832,18 +910,22 @@ Trogir, January 25th, 2001<br>
 	</tr>
 		<tr>
 		<td class="manji1" style="color:#124976; border:1px solid #7B8FA4; padding:3px; background-color:#B0BCC8;" align="center">
-            Copyright © 2001-2007 <a href="http://www.adriatic.hr/" style="color: #FFFFFF;">Adriatic.hr</a>. All Rights Reserved. <a href="/uvjeti_koristenja.php" style="color: #FFFFFF;">Terms of Use</a> | <a href="/zastita_privatnosti.php" style="color: #FFFFFF;">Privacy Policy</a><br>
-            For more information, contact our <a href="mailto:info@adriatic.hr" style="color:#FFFFFF;">customer service</a>. For technical problems, contact  <a href="mailto:webmaster@adriatic.hr" style="color:#FFFFFF;">the webmaster</a>.<br> Generirano u 0.056s		</td>
+            Copyright © 2001-2008 <a href="http://www.adriatic.hr/" style="color: #FFFFFF;">Adriatic.hr</a>. All Rights Reserved. <a href="/uvjeti_koristenja.php" style="color: #FFFFFF;">Terms of Use</a> | <a href="/zastita_privatnosti.php" style="color: #FFFFFF;">Privacy Policy</a><br>
+            For more information, contact our <a href="mailto:info@adriatic.hr" style="color:#FFFFFF;">customer service</a>. For technical problems, contact  <a href="mailto:webmaster@adriatic.hr" style="color:#FFFFFF;">the webmaster</a>.<br>		</td>
 	</tr>
 		</tbody></table>
 
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
 <script type="text/javascript">
-_uacct = "UA-3198262-1";
-urchinTracker();
-</script>
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script src="/google/ga_keyword2.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-303433-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script> 
 
 
 
