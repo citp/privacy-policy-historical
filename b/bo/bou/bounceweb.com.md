@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bounceweb.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615185010id_/http%3A//www.bounceweb.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bounceweb.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220161628id_/http%3A//www.bounceweb.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Bounceweb Web Hosting - Privacy Policy
 
