@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterresalerights.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214010154id_/http%3A//www.masterresalerights.com/pages/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterresalerights.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220084813id_/http%3A//www.masterresalerights.com/pages/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy: eBook Master Resale Rights, Resale Rights Membership, Master Resell Rights
 
