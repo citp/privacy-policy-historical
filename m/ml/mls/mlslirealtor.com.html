@@ -1,179 +1,321 @@
-<!--The following is the downloaded HTML source of the mlslirealtor.com privacy policy that was archived on 2008-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609004140id_/http%3A//www.mlslirealtor.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mlslirealtor.com privacy policy that was archived on 2008-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220152724id_/http%3A//www.mlslirealtor.com/privacy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<title>MLSLI.com - Privacy Policy</title>
-<link rel="stylesheet" href="includes/main.css" type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!-- <SCRIPT LANGUAGE="JavaScript">
+/*
+One Time Popup Script
+By Website Abstraction (http://www.wsabstract.com) and
+Java-Scripts.net (http://www.java-scripts.net)
+Over 200+ free scripts here!
+*/
+
+
+//number of days the cookie should 
+//last (0 will cause it to always pop up)
+var expDays = 5; 
+
+//url of the page you want to popup
+var page = "/mlspopup.htm";
+
+var windowprops = "width=320, height=490, location=yes, toolbar=no, menubar=no, scrollbars=no, resizable=no";
+
+function GetCookie (name) { 
+  var arg = name + "="; 
+  var alen = arg.length; 
+  var clen = document.cookie.length; 
+  var i = 0; 
+
+  while (i < clen) { 
+    var j = i + alen; 
+
+   if (document.cookie.substring(i, j) == arg) 
+       return getCookieVal (j); 
+
+      i = document.cookie.indexOf(" ", i) + 1; 
+
+ if (i == 0) break; 
+
+} 
+
+return null;
+
+}
+
+function SetCookie (name, value) { 
+  var argv = SetCookie.arguments; 
+  var argc = SetCookie.arguments.length; 
+  var expires = (argc > 2) ? argv[2] : null; 
+  var path = (argc > 3) ? argv[3] : null; 
+  var domain = (argc > 4) ? argv[4] : null; 
+  var secure = (argc > 5) ? argv[5] : false; 
+document.cookie = name + "=" + escape (value) + 
+((expires == null) ? "" : ("; expires=" + expires.toGMTString())) + 
+((path == null) ? "" : ("; path=" + path)) + 
+((domain == null) ? "" : ("; domain=" + domain)) + 
+((secure == true) ? "; secure" : "");
+
+}
+
+function DeleteCookie (name) { 
+  var exp = new Date(); 
+  exp.setTime (exp.getTime() - 1); 
+  var cval = GetCookie (name); 
+  document.cookie = name + "=" + cval + "; expires=" + exp.toGMTString();
+
+}
+
+var exp = new Date(); 
+exp.setTime(exp.getTime() + (expDays*24*60*60*1000));
+
+function amt(){
+  var count = GetCookie('count1')
+   
+  if(count == null) {
+    SetCookie('count1','1')
+    return 1
+} else {
+   var newcount = parseInt(count) + 1;
+   DeleteCookie('count1')
+   SetCookie('count1',newcount,exp)
+return count
+
+}
+
+}
+
+function getCookieVal(offset) {
+   var endstr = document.cookie.indexOf (";", offset);
+   if (endstr == -1)
+     endstr = document.cookie.length;
+     return unescape(document.cookie.substring(offset, endstr));
+}
+
+
+
+function checkCount() {
+  var count = GetCookie('count1');
+  if (count == null) {
+    count=1;
+    SetCookie('count1', count, exp);
+    window.open(page, "", windowprops);
+  } else {
+    count++;
+    SetCookie('count1', count, exp);
+  }
+
+}
+
+window.onload=checkCount
+</script> -->
+
+<title>MLSLI.com – Long Island Real Estate – Find A Home in Nassau, Suffolk &amp; Queens</title>
 <meta name="Multiple Listing Service of Long Island" content="Multiple Listing Service of Long Island">
-<meta name="keywords" content="Multiple Listing Service of Long Island">
-<meta name="description" content="Multiple Listing Service of Long Island">
+<meta name="keywords" content="Long Island Real Estate, Long Island Realtors, Homes for sale, Long Island, Multiple Listing Service, Real Estate, mlsli.com, listings, mortgages, New York Real Estate, About Long Island, Agents, Brooklyn, Buying a home, Buying a house, Find a home, Find a house, For Sale, Homes, Home Sales, Home search, Homes for sale in Long Island, Homes for sale in New York, Houses, Houses for sale, Housing sales, Kings County, LIBOR, Long Island Board of Realtors, Long Island homes, Long Island housing, Long Island information, Long Island sales, Long Island schools, MLS, MLS of Long Island, Neighborhood Information, Moving, Moving to Long Island, Moving to New York, Nassau, Nassau County, Nassau Real Estate, New York, New York homes, Queens, Queens County, Queens real estate, Real estate offices, Real estate sales, Realtors, Relocating, Selling a home, Selling a house, Suffolk, Suffolk County, Suffolk Real Estate">
+<meta name="description" content="Multiple Listing Service of LI has the largest inventory of homes for sale in Nassau, Suffolk, Queens and Brooklyn / Kings Counties, New York with over 24,000
+ Realtors &amp; 2,600 Real Estate Offices to help you Find A Home&nbsp;and assist with the home buying &amp; selling process. ">
+
+
+
+<link href="/includes/main.css" rel="stylesheet" type="text/css"> 
+<link href="/includes/newNav.css" rel="stylesheet" type="text/css">
+<link href="/SpryAssets/SpryMenuBarVertical.css" rel="stylesheet" type="text/css">
+<link href="/includes/homepageText.css" rel="stylesheet" type="text/css">
+<link href="/includes/sidebar.css" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+<!--
+.style3 {color: #000000}
+-->
+</style>
+
+<script src="/SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+<script type="text/javascript" src="/js/swfobject.js"></script>
+<script type="text/javascript">
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+<script>
+ function disableElement(dObj,state)
+ {
+   dObj.disabled = state;
+ }
+</script>
+<script language="javascript">
+function question(val){
+if(confirm("Are you sure you want to delete this saved listing?")){
+location.href=val;
+}
+}
+</script>
+<script language="javascript">
+function deleteaccountquestion(val){
+if(confirm("WARNING: If you delete your account, you will delete all saved items, including Personalized Home Matches. Are you sure you wish to delete your account?")){
+location.href=val;
+}
+}
+</script>
+
+<script language="JavaScript">
+<!-- Original: wsabstract.com -->
+
+<!-- This script and many more are available free online at -->
+<!-- The JavaScript Source!! http://javascript.internet.com -->
+
+<!-- Begin
+function checkrequired(which) {
+var pass=true;
+if (document.images) {
+for (i=0;i<which.length;i++) {
+var tempobj=which.elements[i];
+if (tempobj.name.substring(0,8)=="required") {
+if (((tempobj.type=="text"||tempobj.type=="textarea")&&
+tempobj.value=='')||(tempobj.type.toString().charAt(0)=="s"&&
+tempobj.selectedIndex==0)) {
+pass=false;
+break;
+         }
+      }
+   }
+}
+if (!pass) {
+shortFieldName=tempobj.name.substring(8,30).toUpperCase();
+alert("Please make sure the "+shortFieldName+" field is filled in.");
+return false;
+}
+else
+return true;
+}
+//  End -->
+</script>
+<script language="JavaScript">
+<!--
+   
+
+var popWin = null    // use this when referring to pop-up window
+var winCount = 0
+var winName = "popWin"
+function openPopWin(winURL, winWidth, winHeight, winFeatures, winLeft, winTop){
+  var d_winLeft = 200  // default, pixels from screen left to window left
+  var d_winTop = 200   // default, pixels from screen top to window top
+  winName = "popWin" + winCount++ //unique name for each pop-up window
+  closePopWin()           // close any previously opened pop-up window
+  if (openPopWin.arguments.length >= 4)  // any additional features? 
+    winFeatures = "," + winFeatures
+  else 
+    winFeatures = "" 
+  if (openPopWin.arguments.length == 6)  // location specified
+    winFeatures += getLocation(winWidth, winHeight, winLeft, winTop)
+  else
+    winFeatures += getLocation(winWidth, winHeight, d_winLeft, d_winTop)
+  popWin = window.open(winURL, winName, "width=" + winWidth 
+           + ",height=" + winHeight + winFeatures)
+  }
+function closePopWin(){    // close pop-up window if it is open 
+  if (navigator.appName != "Microsoft Internet Explorer" 
+      || parseInt(navigator.appVersion) >=4) //do not close if early IE
+    if(popWin != null) if(!popWin.closed) popWin.close() 
+  }
+function getLocation(winWidth, winHeight, winLeft, winTop){
+  return ""
+  }
+//-->
+</script>
+
 </head>
 
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-
-<table width="775" border="0" cellspacing="0" cellpadding="0">
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" alink="#000000" vlink="#000000" link="#000000">
+<table width="977" border="0" cellspacing="0" cellpadding="0" align="center">
   <tbody><tr valign="top">
-    <td height="67" colspan="3" bgcolor="#00009C"><table width="742" height="63" border="0" cellpadding="0" cellspacing="0">
-      <tbody><tr valign="top">
-        <td width="165"><a href="/"><img src="images/logo.gif" alt="Go to Home Page - MLSLI.com, Long Island Board of Realtors, Multiple Listing Service of Long Island, LIBOR, MLS of LI" width="287" height="81" border="0"></a></td>
-        <td width="571">&nbsp;</td>
+    <td height="135" colspan="2" background="/images/MLSLI_top1.jpg" style="background-repeat:no-repeat"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="40%"><a href="/index.cfm"><img src="/images/spacer.gif" alt="Click here to return to our homepage" width="333" height="93" border="0" align="left"></a></td>
+        <td width="60%"><div id="bannerNav"><a href="/index.cfm" class="ourlinks">Home</a> | <a href="/contactus.cfm" class="ourlinks">Contact
+              Us</a> | <a href="https://www.mlsli.com/realtorsonly.cfm" class="ourlinks">REALTORs
+          Only </a></div><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          <script language="JavaScript" src="http://www.mlsli.com/absolutebmxe/abm.asp?z=1"></script>
+          </td>
       </tr>
     </tbody></table></td>
   </tr>
-  <tr valign="top">
-    <td width="145" height="245" bgcolor="#00009C" rowspan="2">
+  <tr valign="top" id="test">
+    <td width="109" height="419" background="/images/LEFT_GRADE.jpg" style="background-repeat:no-repeat">
 
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+<ul id="MenuBar1" class="MenuBarVertical">
+  <li><a href="/unisearch.cfm">Find a Home</a>  </li>
+  <li><a href="/gmaps/index3.cfm">Map Search</a></li>
+<li><a href="/ohsearchform.cfm">Open House Search</a>  </li>
+  <li><a href="/rentalsearch.cfm">Rental Properties</a></li>
+  <li><a href="/searchsold.cfm">Sold Properties</a></li>
+  <li><a href="/neighborhoodinfo.cfm">Neighborhood Info</a></li>
+  <li><a href="/aboutli.cfm" class="MenuBarItemSubmenu">About Long Island</a>
+      <ul>
+        <li><a href="/housingstats.cfm">Housing Statistics</a></li>
+        <li><a href="/lilinks.cfm">Long Island Links</a></li>
+    </ul>
+  </li>
+  <li><a href="/school.cfm">School Information</a></li>
+  <li><a href="/mortgage.cfm" class="MenuBarItemSubmenu">Mortgage Center</a>
+    <ul>
+      <li><a href="/calculators_eng.cfm">Financial Calculators</a></li>
+      <li><a href="/mortgagebasics.cfm">Mortgage Basics</a></li>
+    </ul>
+  </li>
+  <li><a href="/buyerseller.cfm" class="MenuBarItemSubmenu">Buyer/Seller Info</a>
+    <ul>
+      <li><a href="/newslist.asp">Real Estate News</a></li>
+      <li><a href="/refaqs.cfm">Real Estate FAQ's</a></li>
+      <li><a href="/reglossary.cfm">Glossary of Terms</a></li>
+      <li><a href="/revideos.cfm">Consumer Tip Videos</a></li>
+    </ul>
+  </li>
+  <li><a href="/hsd.cfm">Home Services Directory</a></li>
+  <li><a href="/affordable.cfm" class="MenuBarItemSubmenu">Affordable Housing</a>
+    <ul>
+      <li><a href="/housingresources.cfm">Nassau &amp; Suffolk Resources</a></li>
+      <li><a href="/nyc-housingresources.cfm">NYC (Queens) Resources</a></li>
+    </ul>
+  </li>
+  <li><a href="/findarealtor.cfm">Find a REALTOR</a></li>
+  <li><a href="/education.cfm" class="MenuBarItemSubmenu">Real Estate Education </a>
+    <ul>
+      <li><a href="/onsitecourses.cfm">Onsite Courses</a></li>
+      <li><a href="/onlinecourses.cfm">Online Courses</a></li>
+      <li><a href="/cdrom.cfm">CD ROM Courses</a></li>
+      <li><a href="/newagent.cfm">New Agent Orientation</a></li>
+      <li><a href="/ethics_online.cfm">Ethics Training</a></li>
+      <li><a href="/dos.cfm">Dept. of State Info</a></li>
+    </ul>
+  </li>
+   <li><a href="/aboutus.cfm" class="MenuBarItemSubmenu">About Us </a>
+    <ul>
+      <li><a href="/cofe.cfm">Code Of Ethics</a></li>
+      <li><a href="/drivingdirections.cfm">Locations &amp; Directions</a></li>
+      <li><a href="/pressreleases.cfm">Press Releases</a></li>
+    </ul>
+  </li>
+  </ul>
+
+<br>
+  <script language="JavaScript" src="http://www.mlsli.com/absolutebmxe/abm.asp?z=2"></script>
+
+<script type="text/javascript">
+<!--
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgRight:"/SpryAssets/SpryMenuBarRightHover.gif"});
+//-->
+</script>
+
+
+</td>
+    <td width="868"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="bodytext">
       <tbody><tr>
-          <td>&nbsp;</td>
-        <td><a href="../index.cfm" class="nav">Home</a></td>
-      </tr>
-      <tr>
-        <td height="1"></td>
-        <td height="1" class="navsep"></td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-        <td><a href="../unisearch.cfm" class="nav">Find a Home</a></td>
-      </tr>
-	 <tr>
-        <td height="1"></td>
-        <td height="1" class="navsep"></td>
-      </tr>
-	  <tr>
-        <td>&nbsp;</td>
-        <td><a href="/gmaps/index3.cfm" class="nav">Map Search </a><img src="/images/new1b.gif" width="25" height="8"></td>
-      </tr>    
-	  <tr>
-        <td height="1"></td>
-        <td height="1" class="navsep"></td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-        <td><a href="../ohsearchform.cfm" class="nav">Open House Search</a></td>
-      </tr>
-	  <tr>
-        <td height="1"></td>
-        <td height="1" class="navsep"></td>
-      </tr>
-	  <tr>
-        <td>&nbsp;</td>
-        <td><a href="rentalsearch.cfm" class="nav">Rental Properties</a><a href="/gmaps/index3.cfm" class="nav"> </a><img src="/images/new1b.gif" width="25" height="8"></td>
-      </tr>
-	  <tr>
-        <td height="1"></td>
-        <td height="1" class="navsep"></td>
-      </tr> 
-          <tr>
-        <td>&nbsp;</td>
-        <td><a href="../neighborhoodinfo.cfm" class="nav">Neighborhood Info</a></td>
-      </tr>
-<tr>
-        <td height="1"></td>
-        <td height="1" class="navsep"></td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-        <td><a href="../aboutli.cfm" class="nav">About Long Island</a></td>
-      </tr>
-   <tr>
-        <td height="1"></td>
-        <td height="1" class="navsep"></td>
-      </tr>
-	
-      <tr>
-        <td>&nbsp;</td>
-        <td><a href="../school.cfm" class="nav">School Information</a></td>
-      </tr>
-   <tr>
-        <td height="1"></td>
-        <td height="1" class="navsep"></td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-        <td><a href="../mortgage.cfm" class="nav">Mortgage Center</a></td>
-      </tr>
-   <tr>
-        <td height="1"></td>
-        <td height="1" class="navsep"></td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-        <td><a href="../buyerseller.cfm" class="nav">Buyer/Seller Info</a></td>
-      </tr>
-   <tr>
-        <td height="1"></td>
-        <td height="1" class="navsep"></td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-        <td><a href="../hsd.cfm" class="nav">Home Service Directory</a></td>
-      </tr>
-<tr>
-        <td height="1"></td>
-        <td height="1" class="navsep"></td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-        <td><a href="../affordable.cfm" class="nav">Affordable Housing</a></td>
-      </tr>
-<tr>
-        <td height="1"></td>
-        <td height="1" class="navsep"></td>
-     
-      </tr><tr>
-        <td>&nbsp;</td>
-        <td><a href="../findarealtor.cfm" class="nav">Find a REALTOR</a></td>
-      </tr>
-<tr>
-        <td height="1"></td>
-        <td height="1" class="navsep"></td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-        <td><a href="../education.cfm" class="nav">Education</a></td>
-      </tr>
-<tr>
-        <td height="1"></td>
-        <td height="1" class="navsep"></td>
-      </tr>
-
-      <tr>
-        <td>&nbsp;</td>
-        <td><a href="../aboutus.cfm" class="nav">About Us</a></td>
-      </tr>
-<tr>
-        <td height="1"></td>
-        <td height="1" class="navsep"></td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-        <td><a href="../contactus.cfm" class="nav">Contact Us</a></td>
-      </tr>
-<tr>
-        <td height="1"></td>
-        <td height="1" class="navsep"></td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-        <td><a href="../realtorsonly.cfm" class="nav">REALTORs Only</a></td>
-      </tr>
-  
-      <tr>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-    </tbody></table></td>
-    <td width="17"><img src="../images/curve.gif" width="12" height="12"></td>
-    <td width="613" rowspan="2">
-	<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
-      <tbody><tr valign="top">
-        <td height="2"></td>
-        </tr>
-      <tr valign="top">
-        <td class="bodytext">
-
-
+        <td width="100%" style="padding-left:6px;">
+        <!-- BEGIN PAGE CODE -->
+        
 
 <h3>Privacy Policy</h3>
 
@@ -398,34 +540,30 @@
   Fax 631-661-5202<br>
   E-mail: <script type="text/javascript">var a = new Array('info@m','lsli.co','m');document.write("<a href='mailto:"+a[0]+a[1]+a[2]+"'>"+a[0]+a[1]+a[2]+"</a>");</script><a href="mailto:info@mlsli.com">info@mlsli.com</a> 
 
-		
-  		  </p></td>
-      </tr>
-      <tr valign="top">
-        <td height="6"></td>
-        </tr>
-    </tbody></table>
-	</td>
-  </tr>
-  <tr valign="top">
-    <td valign="bottom"><img src="/images/curve_btm.gif" width="12" height="12"></td>
-  </tr>
-  <tr height="3" valign="top">
-    <td height="3" colspan="3" bgcolor="#00009C"></td>
-  </tr>
+       
+        <!-- END PAGE CODE -->
+<br><br>
 
+</p></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  
+  <tr height="3" valign="top">
+    <td height="2" colspan="2" bgcolor="#95A2CC"></td>
+  </tr>
   <tr valign="top">
-    <td height="26" colspan="2" bgcolor="#00009C">&nbsp;</td>
-    <td height="26" class="footer" bgcolor="#00009C"><table width="100" border="0" align="right" cellpadding="0" cellspacing="5">
+    <td height="26">&nbsp;</td>
+    <td height="26" class="footer"><table width="100" border="0" align="right" cellpadding="0" cellspacing="5">
       <tbody><tr>
-        <td><a href="http://www.hud.gov/" target="_blank"><img src="/images/eoh.gif" alt="Equal Housing Opportunity" width="94" height="19" border="0"></a></td>
-        <td><a href="http://www.realtor.org" target="_blank"><img src="/images/realtor.gif" alt="Registered Collective Membership Mark for members of the National Association of Realtors" width="31" height="30" border="0"></a></td>
+        <td><img src="/images/eoh.gif" width="94" height="19"></td>
+        <td><img src="/images/realtor.gif" width="31" height="30"></td>
       </tr>
     </tbody></table>
-      Copyright 2008 Multiple Listing Service of Long Island, Inc. All
-      Rights Reserved.<br>
-    Using this site means you agree to our <a href="termsofuse.cfm" class="footerlink">Terms
-    of Use</a> and <a href="privacy.cfm" class="footerlink">Privacy Policy</a> </td>
+      <span class="newFooter">Copyright 2008 Multiple Listing Service of Long Island, Inc. All Rights
+      Reserved.<br>
+          Using this site means you agree to our</span> <a href="/termsofuse.cfm" class="footerlink">Terms
+    of Use</a> <span class="newFooter">and</span> <a href="/privacy.cfm" class="footerlink">Privacy Policy</a> </td>
   </tr>
 </tbody></table>
 
