@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthscout.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231075809id_/http%3A//www.healthscout.com/nav/policy/1/main.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthscout.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220042956id_/http%3A//www.healthscout.com/nav/policy/1/main.html) for the most accurate reproduction.*
 
 # Consumer Health News, Information and Resources Updated Daily
 
@@ -117,7 +117,7 @@ At times, the Sites make use of "framing" technology, during which a frame withi
 
 13\. **Other Terms and Conditions:**
 
-Your access to and use of the Sites are subject to the [Terms of Use](https://web.archive.org/web/20071231075809id_/http%3A//www.healthscout.com/nav/policy/1/service-terms.html). The Sites are intended for United States users. United States law governs all transaction conducted on the Sites and any use of materials found on the Sites. 
+Your access to and use of the Sites are subject to the [Terms of Use](https://web.archive.org/web/20081220042956id_/http%3A//www.healthscout.com/nav/policy/1/service-terms.html). The Sites are intended for United States users. United States law governs all transaction conducted on the Sites and any use of materials found on the Sites. 
 
 ALL CONTENT PROVIDED ON THESE WEB SITES IS GENERAL IN NATURE AND IS PROVIDED FOR INFORMATIONAL PURPOSES ONLY. THE CONTENT PROVIDED ON THESE WEB SITES SHOULD NOT BE TREATED AS MEDICAL OR HEALTH CARE ADVICE. NOTHING CONTAINED ON THESE WEB SITES IS INTENDED TO BE USED FOR MEDICAL DIAGNOSIS OR TREATEMENT OR AS A SUBSTITUTE FOR CONSULTATION WITH A QUALIFIED HEALTH CARE PROFESSIONAL. ALWAYS SEEK THE ADVICE OF YOUR PHYSICIAN OR OTHER QUALIFIED HEALTH CARE PROVIDER WITH ANY QUESTIONS YOU MAY HAVE REGARDING A MEDICAL CONDITION. NEVER DISREGARD MEDICAL ADVICE OR DELAY IN SEEKING IT BECAUSE OF SOMETHING YOU HAVE READ ON THESE WEB SITES. 
 
