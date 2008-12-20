@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the suicidepreventionlifeline.org privacy policy that was archived on 2008-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080511194748id_/http%3A//www.suicidepreventionlifeline.org/about/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the suicidepreventionlifeline.org privacy policy that was archived on 2008-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220041414id_/http%3A//www.suicidepreventionlifeline.org/about/privacy.aspx) for the most accurate reproduction.-->
 
 <html><head>
 <title>Department of Health and Human Services privacy policy at the National Suicide Prevention Lifeline</title>
@@ -11,15 +11,171 @@
 <body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 
 
+    <!-- Start Fading images -->
+    <script language="javascript" type="text/javascript">
+        <!--
+        /***********************************************
+        * Ultimate Fade-In Slideshow (v1.51): © Dynamic Drive (http://www.dynamicdrive.com)
+        * This notice MUST stay intact for legal use
+        * Visit http://www.dynamicdrive.com/ for this script and 100s more.
+        ***********************************************/
+         
+        var fadeimages=new Array()
+        //SET IMAGE PATHS. Extend or contract array as needed
+        fadeimages[0]=["_images/VA/veteranspress1.png", "Veterans/Default.aspx", ""]
+        fadeimages[1]=["_images/VA/crisisBox.png", "help/default.aspx", ""]
+      
+        //var fadeimages2=new Array() //2nd array set example. Remove or add more sets as needed.
+        ////SET IMAGE PATHS. Extend or contract array as needed
+        //fadeimages2[0]=["photo1.jpg", "", ""] //plain image syntax
+        //fadeimages2[1]=["photo2.jpg", "http://www.cssdrive.com", ""] //image with link syntax
+        //fadeimages2[2]=["photo3.jpg", "http://www.javascriptkit.com", "_new"] //image with link and target syntax
+        // 
+        var fadebgcolor="white"
+
+        ////NO need to edit beyond here/////////////
+         
+        var fadearray=new Array() //array to cache fadeshow instances
+        var fadeclear=new Array() //array to cache corresponding clearinterval pointers
+         
+        var dom=(document.getElementById) //modern dom browsers
+        var iebrowser=document.all
+         
+        function fadeshow(theimages, fadewidth, fadeheight, borderwidth, delay, pause, displayorder){
+        this.pausecheck=pause
+        this.mouseovercheck=0
+        this.delay=delay
+        this.degree=10 //initial opacity degree (10%)
+        this.curimageindex=0
+        this.nextimageindex=1
+        fadearray[fadearray.length]=this
+        this.slideshowid=fadearray.length-1
+        this.canvasbase="canvas"+this.slideshowid
+        this.curcanvas=this.canvasbase+"_0"
+        if (typeof displayorder!="undefined")
+        theimages.sort(function() {return 0.5 - Math.random();}) //thanks to Mike (aka Mwinter) :)
+        this.theimages=theimages
+        this.imageborder=parseInt(borderwidth)
+        this.postimages=new Array() //preload images
+        for (p=0;p<theimages.length;p++){
+        this.postimages[p]=new Image()
+        this.postimages[p].src=theimages[p][0]
+        }
+         
+        var fadewidth=fadewidth+this.imageborder*2
+        var fadeheight=fadeheight+this.imageborder*2
+         
+        if (iebrowser&&dom||dom) //if IE5+ or modern browsers (ie: Firefox)
+        document.write('<div id="master'+this.slideshowid+'" style="position:relative;width:'+fadewidth+'px;height:'+fadeheight+'px;overflow:hidden;"><div id="'+this.canvasbase+'_0" style="position:absolute;width:'+fadewidth+'px;height:'+fadeheight+'px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);opacity:0.1;-moz-opacity:0.1;-khtml-opacity:0.1;background-color:'+fadebgcolor+'"></div><div id="'+this.canvasbase+'_1" style="position:absolute;width:'+fadewidth+'px;height:'+fadeheight+'px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);opacity:0.1;-moz-opacity:0.1;-khtml-opacity:0.1;background-color:'+fadebgcolor+'"></div></div>')
+        else
+        document.write('<div><img name="defaultslide'+this.slideshowid+'" src="'+this.postimages[0].src+'"></div>')
+         
+        if (iebrowser&&dom||dom) //if IE5+ or modern browsers such as Firefox
+        this.startit()
+        else{
+        this.curimageindex++
+        setInterval("fadearray["+this.slideshowid+"].rotateimage()", this.delay)
+        }
+        }
+
+        function fadepic(obj){
+        if (obj.degree<100){
+        obj.degree+=10
+        if (obj.tempobj.filters&&obj.tempobj.filters[0]){
+        if (typeof obj.tempobj.filters[0].opacity=="number") //if IE6+
+        obj.tempobj.filters[0].opacity=obj.degree
+        else //else if IE5.5-
+        obj.tempobj.style.filter="alpha(opacity="+obj.degree+")"
+        }
+        else if (obj.tempobj.style.MozOpacity)
+        obj.tempobj.style.MozOpacity=obj.degree/101
+        else if (obj.tempobj.style.KhtmlOpacity)
+        obj.tempobj.style.KhtmlOpacity=obj.degree/100
+        else if (obj.tempobj.style.opacity&&!obj.tempobj.filters)
+        obj.tempobj.style.opacity=obj.degree/101
+        }
+        else{
+        clearInterval(fadeclear[obj.slideshowid])
+        obj.nextcanvas=(obj.curcanvas==obj.canvasbase+"_0")? obj.canvasbase+"_0" : obj.canvasbase+"_1"
+        obj.tempobj=iebrowser? iebrowser[obj.nextcanvas] : document.getElementById(obj.nextcanvas)
+        obj.populateslide(obj.tempobj, obj.nextimageindex)
+        obj.nextimageindex=(obj.nextimageindex<obj.postimages.length-1)? obj.nextimageindex+1 : 0
+        setTimeout("fadearray["+obj.slideshowid+"].rotateimage()", obj.delay)
+        }
+        }
+         
+        fadeshow.prototype.populateslide=function(picobj, picindex){
+        var slideHTML=""
+        if (this.theimages[picindex][1]!="") //if associated link exists for image
+        slideHTML='<a href="'+this.theimages[picindex][1]+'" target="'+this.theimages[picindex][2]+'">'
+        slideHTML+='<img src="'+this.postimages[picindex].src+'" border="'+this.imageborder+'px">'
+        if (this.theimages[picindex][1]!="") //if associated link exists for image
+        slideHTML+='</a>'
+        picobj.innerHTML=slideHTML
+        }
+         
+         
+        fadeshow.prototype.rotateimage=function(){
+        if (this.pausecheck==1) //if pause onMouseover enabled, cache object
+        var cacheobj=this
+        if (this.mouseovercheck==1)
+        setTimeout(function(){cacheobj.rotateimage()}, 100)
+        else if (iebrowser&&dom||dom){
+        this.resetit()
+        var crossobj=this.tempobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+        crossobj.style.zIndex++
+        fadeclear[this.slideshowid]=setInterval("fadepic(fadearray["+this.slideshowid+"])",100)
+        this.curcanvas=(this.curcanvas==this.canvasbase+"_0")? this.canvasbase+"_1" : this.canvasbase+"_0"
+        }
+        else{
+        var ns4imgobj=document.images['defaultslide'+this.slideshowid]
+        ns4imgobj.src=this.postimages[this.curimageindex].src
+        }
+        this.curimageindex=(this.curimageindex<this.postimages.length-1)? this.curimageindex+1 : 0
+        }
+         
+        fadeshow.prototype.resetit=function(){
+        this.degree=10
+        var crossobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+        if (crossobj.filters&&crossobj.filters[0]){
+        if (typeof crossobj.filters[0].opacity=="number") //if IE6+
+        crossobj.filters(0).opacity=this.degree
+        else //else if IE5.5-
+        crossobj.style.filter="alpha(opacity="+this.degree+")"
+        }
+        else if (crossobj.style.MozOpacity)
+        crossobj.style.MozOpacity=this.degree/101
+        else if (crossobj.style.KhtmlOpacity)
+        crossobj.style.KhtmlOpacity=this.degree/100
+        else if (crossobj.style.opacity&&!crossobj.filters)
+        crossobj.style.opacity=this.degree/101
+        }
+         
+         
+        fadeshow.prototype.startit=function(){
+        var crossobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+        this.populateslide(crossobj, this.curimageindex)
+        if (this.pausecheck==1){ //IF SLIDESHOW SHOULD PAUSE ONMOUSEOVER
+        var cacheobj=this
+        var crossobjcontainer=iebrowser? iebrowser["master"+this.slideshowid] : document.getElementById("master"+this.slideshowid)
+        crossobjcontainer.onmouseover=function(){cacheobj.mouseovercheck=1}
+        crossobjcontainer.onmouseout=function(){cacheobj.mouseovercheck=0}
+        }
+        this.rotateimage()
+        }
+        // -->
+    </script>
+<!-- End Fading images-->
+
 <!-- Start Pop-up Window -->
 <script language="javascript" type="text/javascript">
     <!--
-    /****************************************************
+    /********************************************************************************
          Author: Eric King
          Url: http://redrival.com/eak/index.shtml
          This script is free to use as long as this info is left in
          Featured on Dynamic Drive script library (http://www.dynamicdrive.com)
-    ****************************************************/
+    *********************************************************************************/
     var win=null;
     function NewWindow(mypage,myname,w,h,scroll,pos){
     if(pos=="random"){LeftPosition=(screen.width)?Math.floor(Math.random()*(screen.width-w)):100;TopPosition=(screen.height)?Math.floor(Math.random()*((screen.height-h)-75)):100;}
@@ -39,26 +195,28 @@ _uacct = "UA-3319870-1";
 urchinTracker();
 </script>
 <!-- Google Analytics Script Ends -->
-
+         
+<!-- Top Image --> 
 <table cellspacing="0" cellpadding="0" border="0" width="780">
 	<tbody><tr>
-		<td><a title="National Suicide Prevention Lifeline" href="../default.aspx"><img title="National Suicide Prevention Lifeline" src="../_images/BannerTop.jpg" alt="National Suicide Prevention Lifeline" border="0"></a></td>
+		<td><a title="National Suicide Prevention Lifeline" href="../default.aspx"><img title="National Suicide Prevention Lifeline" src="../_images/NsuicidePL.jpg" alt="National Suicide Prevention Lifeline" border="0"></a></td>
 	</tr>
 </tbody></table>
 
+<!-- Start Main Tabs -->
 <table cellspacing="0" cellpadding="1" border="0" width="780">
 	<tbody><tr>
-		<td id="ctl00_tcHome" class="tdTabOn"><a class="lnkTab" href="../default.aspx">Home</a></td><td id="ctl00_tcHelp" class="tdTabOff"><img src="../_images/shim.gif" align="absmiddle" height="17" width="1" border="0"><a class="lnkTab" href="../help/default.aspx">Get Help</a></td><td id="ctl00_tcInvolved" class="tdTabOff"><a class="lnkTab" href="../involved/default.aspx">Get Involved</a></td><td id="ctl00_tcWord" class="tdTabOff"><a class="lnkTab" href="../campaign/default.aspx">Spread the Word</a></td><td id="ctl00_tcCenters" class="tdTabOff"><a class="lnkTab" href="../crisiscenters/default.aspx">Crisis Centers</a></td><td id="ctl00_tcTraining" class="tdTabOff"><a class="lnkTab" href="../training/default.aspx">Training and TA</a></td><td id="ctl00_tcNewsroom" class="tdTabOff"><a class="lnkTab" href="../newsroom/default.aspx">Newsroom</a></td><td id="ctl00_tcAbout" class="tdTabOffLast"><a class="lnkTab" href="default.aspx">About the Network</a></td>
+		<td id="ctl00_tcHome" class="tdTabOn"><a class="lnkTab" href="../default.aspx">Home</a></td><td id="ctl00_tcHelp" class="tdTabOff"><img src="../_images/shim.gif" align="absmiddle" height="17" width="1" border="0"><a class="lnkTab" href="../help/default.aspx">Get Help</a></td><td id="ctl00_tcVeteran" class="tdTabOff"><a id="ctl00_hplVeteran" class="lnkTab" href="../Veterans/Default.aspx" target="_self">Veterans</a></td><td id="ctl00_tcInvolved" class="tdTabOff"><a class="lnkTab" href="../involved/default.aspx">Get Involved</a></td><td id="ctl00_tcWord" class="tdTabOff"><a class="lnkTab" href="../campaign/default.aspx">Spread the Word</a></td><td id="ctl00_tcCenters" class="tdTabOff"><a class="lnkTab" href="../crisiscenters/default.aspx">Crisis Centers</a></td><td id="ctl00_tcNewsroom" class="tdTabOff"><a class="lnkTab" href="../newsroom/default.aspx">Newsroom</a></td><td id="ctl00_tcAbout" class="tdTabOffLast"><a class="lnkTab" href="default.aspx">About</a></td>
 	</tr>
 </tbody></table>
+<!-- End Main Tabs -->
 
-
+<!-- Start Home Sub Nav -->
 <div id="ctl00_pnlHome">
 	
     <table width="780px" cellpadding="0" cellspacing="0" border="0">
         <tbody><tr style="background-color:#DDF9E6">
             <td style="text-align:center; padding-right:0px" class="txSmall" width="59%">
-                
             </td>
             <td class="txBody" width="41%" style="padding-top:3px;padding-right:3px; vertical-align:middle; text-align:right">
               
@@ -70,7 +228,6 @@ urchinTracker();
                 </form>
                 <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_015616292720471089777:3hsurqn6ade&amp;lang=en"></script>
                 <!-- Google CSE Search Box Ends -->
-
             </td>
         </tr>
         <tr class="txSmall" style="background-color:#DDF9E6;text-align:right">
@@ -82,55 +239,78 @@ urchinTracker();
     </tbody></table>
 
 </div>
+<!-- End Home Sub Nav -->
+
+<!-- Start Get Help Sub Nav -->
+
+<!-- End Get Help Sub Nav -->
+
+<!-- Start Get Involved Sub Nav -->
+
+<!-- End Get Involved Sub Nav -->
+
+<!-- Start Spread The Word Sub Nav -->
+
+<!-- End Spread The Word Sub Nav -->
+
+<!-- Start Crisis Centers Sub Nav -->
+
+<!-- End Crisis Centers Sub Nav -->
+
+<!-- Start Training and TA Sub Nav -->
+
+<!-- End Training and TA Sub Nav -->
+
+<!-- Start Newsroom Sub Nav -->
+
+<!-- End Newsroom Sub Nav -->
+
+<!-- Start About The Network Sub Nav -->
 
 
+<!-- Start Veterans Sub Nav -->
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- End Veterans Sub Nav -->
 
 <table border="0" cellspacing="0" cellpadding="0" width="780">
-  <tbody><tr>
-    <td width="208" class="tdLeftNav" align="right" valign="top">
-<!--***********************__Inside__SideNav__Begin__***********************-->
-<div id="ctl00_pnlSide">
+    <tbody><tr>
+        <td width="208" class="tdLeftNav" align="right" valign="top">
+            <!--***********************__Inside__SideNav__Begin__***********************-->
+            <div id="ctl00_pnlSide">
 	
-<a title="If you are in crisis, call 1-800-273-TALK (8255)" href="../help/default.aspx" target="_blank"><img title="If you are in crisis, call 1-800-273-TALK (8255)" src="../_images/site/side.gif" border="0"></a>
-
+                <a title="If you are in crisis, call 1-800-273-TALK (8255)" href="../help/default.aspx" target="_self"><img title="If you are in crisis, call 1-800-273-TALK (8255)" src="../_images/site/side.gif" border="0"></a>
+                
+            
 </div>
-<!--***********************__Inside__SideNav__End__***********************-->
-<!--***********************__HOME__SideNav__Begin__***********************-->
+            <!--***********************__Inside__SideNav__End__***********************-->
+            <!--***********************__HOME__SideNav__Begin__***********************-->
+            
+            
+            <!--
+            *********************************************************************
+            *                       Lidia's Avatar Ends                         *
+            *********************************************************************
+            -->
+            <!--***********************__HOME__SideNav__End__***********************-->
+        </td>  
+        <td valign="top">
+            <!--*****************__PageHead__BEGIN__**********************-->
+            <table width="100%" border="0" cellspacing="0" cellpadding="10px" bgcolor="#F3F3F3">
+                <tbody><tr>
+                    <td>
+                        <a id="ctl00_lnkPageHead" class="lnkPageHead" href="privacy.aspx"></a>
+			            
+			            
+			        </td>
+                </tr>
+            </tbody></table>
+            <!--*****************__PageHead__END__**********************-->
 
-<!--***********************__HOME__SideNav__End__***********************-->
-
-<br>
-</td>
-<td valign="top">
-<!--*****************__PageHead__BEGIN__**********************-->
-<table height="36" width="100%" border="0" cellspacing="0" cellpadding="10" bgcolor="#F3F3F3">
-  <tbody><tr>
-      <td><a id="ctl00_lnkPageHead" class="lnkPageHead" href="privacy.aspx"></a>
-			
-			</td>
-  </tr>
-</tbody></table>
-<!--*****************__PageHead__END__**********************-->
-
-<!--****************__Body__Begin__***********************-->
-<table width="100%" border="0" cellspacing="0" cellpadding="18">
-  <tbody><tr>
-    <td>
-		
-
+            <!--****************__Body__Begin__***********************-->
+            <table width="100%" border="0" cellspacing="0" cellpadding="18">
+                <tbody><tr>
+                    <td>
+                        
 <div class="txPageHead">Web Site Privacy Policy</div>
 <br>
 <div class="txBody">Thank you for visiting our Web 
@@ -248,16 +428,18 @@ urchinTracker();
           </p>
           <p>&nbsp;</p>
           </div>
-</td>
-  </tr>
-</tbody></table>
-<!--****************__Body__END__***********************-->
+                </td>
+            </tr>
+        </tbody></table>
+        <!--****************__Body__END__***********************-->
 		&nbsp;</td>
-  </tr>
+    </tr>
 </tbody></table>
 <table width="780" border="0" cellspacing="0" cellpadding="10" class="tableFooter" bgcolor="#F3F3F3">
   <tbody><tr>
-		<td align="left"><a title="U.S. Department of Health and Human Services Logo" href="http://www.samhsa.gov"><img title="U.S. Department of Health and Human Services Logo" src="../_images/site/samhsa.gif" border="0"></a></td>
+		<td align="left">
+			<div class="txFooterBlack" style="padding-bottom:7px">The Lifeline grant is funded by:</div>
+			<a title="U.S. Department of Health and Human Services Logo" href="http://www.samhsa.gov"><img title="U.S. Department of Health and Human Services Logo" src="../_images/site/samhsa.gif" border="0"></a></td>
     <td align="right" valign="top">
 			<div class="txFooter">
 				<a class="lnkFooter" href="../default.aspx">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;
