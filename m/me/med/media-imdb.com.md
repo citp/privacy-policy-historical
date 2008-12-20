@@ -1,26 +1,8 @@
-> *The following text is extracted and transformed from the media-imdb.com privacy policy that was archived on 2008-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080302091359id_/http%3A//media-imdb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the media-imdb.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220201028id_/http%3A//www.imdb.com/privacy) for the most accurate reproduction.*
 
-# The Internet Movie Database (IMDb)
+# 
 
-  
-|   
----  
-[](https://web.archive.org/interfaces) |  [accessing the IMDb](https://web.archive.org/interfaces)  
-[](https://web.archive.org/marketing) |  [marketing](https://web.archive.org/marketing)  
-[](https://web.archive.org/merchandise) |  [merchandise](https://web.archive.org/merchandise)  
-[](https://web.archive.org/credits) |  [reviews of IMDb](https://web.archive.org/credits)  
-[](https://web.archive.org/Gongs/) |  [trophy cabinet](https://web.archive.org/Gongs/)  
-|   _privacy policy_  
-[](https://web.archive.org/Copyright) |  [copyright](https://web.archive.org/Copyright)  
-[](https://web.archive.org/terms) |  [terms of use](https://web.archive.org/terms)  
-   
-[](https://web.archive.org/festivals) |  [festivals](https://web.archive.org/festivals)  
-[](https://web.archive.org/links) |  [offsite-links](https://web.archive.org/links)  
-[](https://web.archive.org/studios) |  [studio links](https://web.archive.org/studios)  
-[](https://web.archive.org/mailing_lists) |  [movie mailing lists](https://web.archive.org/mailing_lists)  
-   
-|   
-
+|  | 
 
 **Last Updated July 27th, 2007**. To see what has changed click here. 
 
