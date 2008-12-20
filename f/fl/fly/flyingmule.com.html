@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the flyingmule.com privacy policy that was archived on 2008-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080608142123id_/http%3A//www.flyingmule.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flyingmule.com privacy policy that was archived on 2008-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220202345id_/http%3A//www.flyingmule.com/privacy) for the most accurate reproduction.-->
 
 <html><head>
+
+      <title>The Flying Mule: Privacy Policy</title>
       <base href="http://www.flyingmule.com/Merchant2/">
       <link href="/stl/main.css" rel="stylesheet" type="text/css">
       <script src="/scr/utl.js"></script>
@@ -9,48 +11,96 @@
       <script src="/scr/cat.js"></script>
       <script src="/scr/sto.js"></script>
       <script src="/scr/ftr.js"></script>
-      <script>utlTrack();</script>
-
-      <title>The Flying Mule: Privacy Policy</title>
    </head>
 
    <body onload="prdInit()">
 
       <table width="100%" height="100%" class="clsBorder">
-         <tbody><tr valign="top">
+         <tbody><tr>
             <td class="clsBorder">
-               <table width="100%" height="100%" background="/img/pge_tl.gif" cellpadding="0" cellspacing="0" border="0">
+               <table width="100%" class="clsLayout">
                   <tbody><tr>
-                     <td rowspan="2"><img src="/img/pge_spc.gif" width="100" height="1" border="0"></td>
-                     <td><img src="/img/pge_spc.gif" width="1" height="48" border="0"></td>
-                  </tr>
-                  <tr>
-                     <td width="100%">
-                        <table width="100%" cellpadding="0" cellspacing="0" border="0">
-                           <tbody><tr valign="bottom">
-                              <td align="left" nowrap="nowrap">
-                                 <a href="http://www.flyingmule.com/"><img src="/img/nav_btn_home.gif" border="0"></a>&nbsp;
-                                 <a href="http://www.flyingmule.com/help/"><img src="/img/nav_btn_help.gif" border="0"></a>&nbsp;
-                                 <a href="http://www.flyingmule.com/news/"><img src="/img/nav_btn_news.gif" border="0"></a>&nbsp;
-                                 <a href="http://www.flyingmule.com/powersearch/"><img src="/img/nav_btn_powersearch.gif" border="0"></a>&nbsp;
+                     <td class="clsLayout"><a href="http://www.flyingmule.com"><img src="/img/pge_logo.gif" alt="The Flying Mule Homepage" border="0"></a></td>
+                     <td class="clsLayout"><img src="/img/pge_spc.gif" width="10" height="1" border="0"></td>
+                     <td width="100%" class="clsLayout">
+                        <!-- START: Simple Search -->        
+                        <form name="SimpleSearchForm" method="get" action="http://www.flyingmule.com/powersearch/" onsubmit="utlSetSearchField( Search, utlWordToCatSearch( stoGetCat( 'CAT_TYP' ), CAT_USR.value ), CAT_DPT.value, true )">
+                        <table class="clsLayout" border="0">
+                           <tbody><tr>
+                              <td colspan="2">
+                                 <a href="http://www.flyingmule.com/contact/"><img src="/img/pge_phone.gif" alt="Contact Us" border="0"></a>
                               </td>
-                              <td align="right" nowrap="nowrap">
-                                 <a href="https://flyingmule.hostasaurus.com/Merchant2/merchant.mvc?Screen=LOGN&amp;Store_Code=AV"><img src="/img/nav_btn_account.gif" border="0" onclick="strURL = utlGetCookie( 'ACC_URL' ); if (strURL != null) {top.location.href = strURL;} return (strURL == null);"></a>&nbsp;
-                                 <a href="http://www.flyingmule.com/Merchant2/merchant.mvc?Screen=MYWISH&amp;Store_Code=AV"><img src="/img/nav_btn_wishlist.gif" border="0"></a>&nbsp;
-                                 <a href="http://www.flyingmule.com/Merchant2/merchant.mvc?Screen=BASK&amp;Store_Code=AV"><img src="/img/nav_btn_basket.gif" border="0"></a>&nbsp;
-                                 <a href="https://flyingmule.hostasaurus.com/Merchant2/merchant.mvc?Screen=OINF&amp;Store_Code=AV"><img src="/img/nav_btn_checkout.gif" border="0" onclick="strURL = utlGetCookie( 'CHK_URL' ); if (strURL != null) {top.location.href = strURL;} return (strURL == null);"></a>
+                           </tr>
+                           <tr>
+                              <td align="right"><i>Search</i></td>
+                              <td>
+                                 <select name="CAT_DPT" class="clsSearch">
+                                    <script>stoGetCat( "CAT_DPT" ).writeOption( 0, 1 );</script>
+                                    <option value="">&nbsp;</option>
+                                    <script>stoGetCat( "CAT_RNG" ).writeOption( 0, 3 );</script>
+                                 </select>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td align="right"><i>for</i></td>
+                              <td nowrap="nowrap">
+                                 <input type="text" name="CAT_USR" size="20" class="clsSearch">
+                                 <input type="image" src="/img/pge_btn_search.gif" class="clsSearchImage">
+                                 <input type="hidden" name="Search">
+                              </td>
+                           </tr>
+                        </tbody></table>
+                        </form>
+                        <!-- END: Simple Search -->        
+                     </td>
+                     <td width="100%" class="clsLayout"><img src="/img/pge_spc.gif" width="10" height="1" border="0"></td>
+                     <td height="100%" align="right" class="clsLayout">
+                        <table width="100%" height="100%" class="clsLayout">
+                           <tbody><tr valign="top">
+                              <td>
+                                 <!-- START: Basket Summary -->
+                                 <table background="/img/bsk_refresh.gif" class="clsLayout" cellpadding="2" bordercolor="#000000" border="1">
+                                    <tbody><tr>
+                                       <td>
+                                          <script>utlWriteIFrame( "BSK", "/Merchant2/merchant.mvc?Screen=CTGY&Category_Code=BSK&Session_ID=" + utlGetURLParam( "Session_ID", "" ), 330, 45 );</script>
+                                       </td>
+                                    </tr>
+                                 </tbody></table>
+                                 <!-- END: Basket Summary -->
+                              </td>
+                           </tr>
+                           <tr valign="bottom">
+                              <td colspan="3" height="100%" align="right" nowrap="nowrap">
+                                 <a href="https://flyingmule.hostasaurus.com/Merchant2/merchant.mvc?Screen=LOGN&amp;Store_Code=AV"><img src="/img/nav_btn_account.gif" align="absbottom" border="0" onclick="strURL = utlGetCookie( 'ACC_URL' ); if (strURL != null) {top.location.href = strURL;} return (strURL == null);"></a>&nbsp;&nbsp;&nbsp;
+                                 <a href="http://www.flyingmule.com/Merchant2/merchant.mvc?Screen=MYWISH&amp;Store_Code=AV"><img src="/img/nav_btn_wishlist.gif" align="absbottom" border="0"></a>&nbsp;&nbsp;&nbsp;
+                                 <a href="http://www.flyingmule.com/Merchant2/merchant.mvc?Screen=BASK&amp;Store_Code=AV"><img src="/img/nav_btn_basket.gif" align="absbottom" border="0"></a>&nbsp;&nbsp;&nbsp;
+                                 <a href="https://flyingmule.hostasaurus.com/Merchant2/merchant.mvc?Screen=OINF&amp;Store_Code=AV"><img src="/img/nav_btn_checkout.gif" align="absbottom" border="0" onclick="strURL = utlGetCookie( 'CHK_URL' ); if (strURL != null) {top.location.href = strURL;} return (strURL == null);"></a>
                               </td>
                            </tr>
                         </tbody></table>
                      </td>
-                  </tr>
-               </tbody></table>
+                     <td class="clsLayout"><img src="/img/pge_spc.gif" width="10" height="1" border="0"></td>
+                     <td height="100%" class="clsLayout">
+                        <table width="100%" height="100%" class="clsLayout">
+                           <tbody><tr valign="top">
+                              <td align="right">
+                                 <!-- START SCANALERT CODE -->
+                                 <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.flyingmule.com"><img width="65" height="35" border="0" src="//images.scanalert.com/meter/www.flyingmule.com/31.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+                                 <!-- END SCANALERT CODE --> 
+                              </td>
+                           </tr>
+                           <tr valign="bottom">
+                              <td align="right"><img src="/img/cclogo.gif" alt="We gladly accept Visa, MasterCard, American Express, Discover, PayPal, Personal Checks and Money Orders" border="0"></td>
+                           </tr>
+                        </tbody></table>
+                     </td> 
+               </tr></tbody></table>
             </td>
          </tr>
          <tr valign="top">
-            <td>
+            <td height="100%" class="clsLayout">
 
-               <table width="100%" height="100%" class="clsLayout" border="0">
+               <table width="100%" height="100%" class="clsLayout">
                   <tbody><tr>
                      <td class="clsLayout"><img src="/img/pge_spc.gif" width="1" height="1"></td>
                      <td rowspan="2" width="100%" height="100%" class="clsLayout">
@@ -59,7 +109,7 @@
                               <td class="clsLayout">
                                  <!-- START: Page Content -->
 
-                                 <table width="100%" height="100%" class="clsBorder">
+                                 <table width="100%" height="100%" class="clsLayout">
                                     <tbody><tr valign="top">
                                        <td class="clsBorder">
 
@@ -135,8 +185,8 @@ If you have questions or suggestions please contact us.<p></p>
           
                                     if (document.strCat == null)
                                     {
-                                       // Default to diecast models
-                                       document.strCat = "CAT_RNG_DIE_AIR";
+                                       // Default to top level store dept
+                                       document.strCat = "CAT_DPT";
                                     }
                               
                                     document.cat = stoGetCat( document.strCat );
@@ -148,11 +198,11 @@ If you have questions or suggestions please contact us.<p></p>
                      </td>
                   </tr>
                   <tr>
-                     <td>
-                        <table width="100%" height="100%" class="clsBorder">
-                           <script>utlWriteGotoProductForm();</script>
+                     <td class="clsLayout">
+                        <table width="100%" height="100%" class="clsLayout">
+                           <script>utlWriteAddProductForm();</script>
                            <tbody><tr>
-                              <td class="clsBorder">
+                              <td height="0" class="clsBorder">
                                 <!-- START: Special Offer -->        
                                 <center>
                                    <script>utlWritePromotion( 0 );</script>
@@ -161,52 +211,11 @@ If you have questions or suggestions please contact us.<p></p>
                               </td>
                            </tr>
                            <tr>
-                              <td class="clsBorder">
-                                 <!-- START: Simple Search -->        
-                                 <form name="SimpleSearchForm" method="get" action="http://www.flyingmule.com/powersearch/" onsubmit="utlSetSearchField( Search, utlWordToCatSearch( stoGetCat( 'CAT_TYP' ), CAT_USR.value ), document.strCat, IncCat.checked )">
-                                    <span class="clsSearch"><b>Simple Search:</b></span>
-                                    <br>
-                                    <img src="/img/pge_spc.gif" width="1" height="1" border="0">
-                                    <input type="text" name="CAT_USR" size="16" class="clsSearch">
-                                    <input type="image" src="/img/pge_btn_search.gif" align="absbottom">
-                                    <table cellpadding="0" cellspacing="0">
-                                       <tbody><tr valign="top">
-                                          <td>
-                                             <input type="checkbox" name="IncCat">
-                                          </td>
-                                          <td>
-                                             <table cellpadding="5" cellspacing="0"><tbody><tr><td>
-                                                <span class="clsSearch">Only in <br>
-                                                </span><b><script>document.cat.writeName( "clsSearch", false );</script></b>
-                                             </td></tr><tr></tr></tbody></table>
-                                          </td>
-                                       </tr>
-                                    </tbody></table>
-                                    <input type="hidden" name="Search">
-                                 </form>
-                                 <p align="right" class="clsSearch"><a href="/powersearch/">Advanced Search</a>
-                                 <!-- END: Simple Search -->        
-                              </p></td>
-                           </tr>
-                           <tr>
-                              <td class="clsBorder">
-                                 <!-- START: Basket Summary -->
-                                 <table width="190" height="140" background="/img/bsk_refresh.gif" cellpadding="0" cellspacing="0">
-                                    <tbody><tr>
-                                       <td>
-                                          <script>utlWriteIFrame( "BSK", "/Merchant2/merchant.mvc?Screen=CTGY&Category_Code=BSK&Session_ID=" + utlGetURLParam( "Session_ID", "" ), 190, 140 );</script>
-                                       </td>
-                                    </tr>
-                                 </tbody></table>
-                                 <!-- END: Basket Summary -->
-                              </td>
-                           </tr>
-                           <tr>
                               <td height="100%" class="clsBorder">
                                  <!-- START: Category Tree -->        
-                                 <table width="100%" height="100%" cellpadding="0" cellspacing="0">
+                                 <table height="100%" class="clsLayout">
                                     <tbody><tr valign="top">   
-                                       <td nowrap="nowrap">
+                                       <td height="100%" nowrap="nowrap">
                                           <script>stoGetCat().writeTree( document.strCat, "clsCategoryList" );</script>
                                        </td>
                                     </tr>
@@ -223,18 +232,18 @@ If you have questions or suggestions please contact us.<p></p>
          </tr>
          <tr>
             <td class="clsBorder">
-               <table width="100%" height="100%" cellpadding="0" cellspacing="0" border="0">
+               <table class="Layout">
                   <tbody><tr valign="top">
-                     <td>
+                     <td class="Layout">
                         <!-- START: Recently viewed products -->        
                         Recently viewed products:
-                        <table width="100%" height="100%" cellpadding="0">
+                        <table width="100%" class="clsLayout">
                            <tbody><tr>
-                              <td width="90"><script>prdShowItem2( 0, "" )</script></td>
-                              <td width="90"><script>prdShowItem2( 1, "" )</script></td>
-                              <td width="90"><script>prdShowItem2( 2, "" )</script></td>
-                              <td width="90"><script>prdShowItem2( 3, "" )</script></td>
-                              <td><img src="/img/pge_spc.gif" width="100%" height="1"></td>
+                              <td><script>prdShowItem( 0, "" )</script></td>
+                              <td><script>prdShowItem( 1, "" )</script></td>
+                              <td><script>prdShowItem( 2, "" )</script></td>
+                              <td><script>prdShowItem( 3, "" )</script></td>
+                              <td width="100%">&nbsp;</td>
                            </tr>
                         </tbody></table>
                         <!-- END: Recently viewed products -->        
@@ -246,20 +255,21 @@ If you have questions or suggestions please contact us.<p></p>
          <tr>
             <td class="clsBorder">
                <!-- START: Bottom Nav Bar -->
-               <table width="100%" cellpadding="0" cellspacing="0" border="0">
+               <table width="100%" class="clsLayout">
                   <tbody><tr>
                      <td>
-                        <a href="http://www.flyingmule.com/"><font size="-1">Home</font></a>&nbsp;
                         <a href="http://www.flyingmule.com/help/"><font size="-1">Help</font></a>&nbsp;
+                        <a href="http://www.flyingmule.com/contact/"><font size="-1">Contact Us</font></a>&nbsp;
+                        <a href="http://www.flyingmule.com/news/"><font size="-1">Newsletter</font></a>&nbsp;
                         <a href="http://www.flyingmule.com/privacy/"><font size="-1">Privacy</font></a>&nbsp;
                         <a href="http://www.flyingmule.com/products/"><font size="-1">Product List</font></a>&nbsp;
                         <a href="http://www.flyingmule.com/map/"><font size="-1">Site Map</font></a>&nbsp;
-                        <a href="http://www.flyingmule.com/links/"><font size="-1">Links</font></a>&nbsp;
+                        <!--<A href="http://www.flyingmule.com/links/"><FONT size="-1">Links</FONT></A>&nbsp;-->
                      </td>
                      <td align="right">
                         <font size="-2">
                            
-                           Stock status: Jun 08, 2008
+                           Stock status: Dec 20, 2008
                         </font>
                      </td>
                   </tr>
@@ -268,6 +278,10 @@ If you have questions or suggestions please contact us.<p></p>
             </td>
          </tr>
       </tbody></table>
+      <script>
+         document.SimpleSearchForm.CAT_USR.focus();
+         document.SimpleSearchForm.CAT_USR.style.width = document.SimpleSearchForm.CAT_DPT.offsetWidth - 71;
+      </script>
 
 
 
