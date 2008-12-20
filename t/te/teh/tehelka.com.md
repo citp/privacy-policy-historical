@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tehelka.com privacy policy that was archived on 2008-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080408165254id_/http%3A//tehelka.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tehelka.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220171820id_/http%3A//www.tehelka.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Tehelka :: Free. Fair. Fearless
 
 Privacy Policy
 
-Tehelka.com Private Limited (Tehelka.com Pvt Ltd.), a wholly-owned subsidiary of Agni Media Private Limited and located at [http://www.tehelka.com](http://www.tehelka.com/) is the mother brand of Tehelka.com Pvt Ltd. We respect your privacy. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Tehelka.com and its related properties, you agree to the collection and use of your data by Tehelka.com Pvt Ltd in the manner provided in this Privacy Policy. 
+Tehelka.com Private Limited (Tehelka.com Pvt Ltd.), a wholly-owned subsidiary of Anant Media Private Limited and located at [http://www.tehelka.com](http://www.tehelka.com/) is the mother brand of Tehelka.com Pvt Ltd. We respect your privacy. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Tehelka.com and its related properties, you agree to the collection and use of your data by Tehelka.com Pvt Ltd in the manner provided in this Privacy Policy. 
 
 Tehelka.com Pvt Ltd. respects the privacy of its users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to its users Tehelka.com Pvt Ltd. offers a variety of community services. You may read 'About Us' to know more about Tehelka.com Pvt Ltd. at <http://www.tehelka.com/about/>
 
@@ -146,7 +146,7 @@ Supplying personally identifiable information is entirely voluntary. You are not
 
 You may change your interests at any time and may opt-in or opt-out of any marketing / promotional / newsletters mailings. Tehelka.com Pvt Ltd. reserves the right to send you certain service related communication, considered to be a part of your Tehelka.com account without offering you the facility to opt-out. You may update your information and change your account settings at any time. 
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [compliance@tehelka.com](mailto:compliance@tehelka.com) or you may contact us at +91-11-41638750 or Tehelka.com Pvt Ltd., M-76, IInd Floor, M- Block Market, Greater Kailash-II, New Delhi-110048 to opt-out. 
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [compliance@tehelka.com](mailto:compliance@tehelka.com) or you may contact us at +91-11-40575757 or Tehelka.com Pvt Ltd., M-76, IInd Floor, M- Block Market, Greater Kailash-II, New Delhi-110048 to opt-out. 
 
 Upon request, we will remove/block your personally identifiable information from our database, thereby canceling your registration. See Contact information below. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account. 
 
