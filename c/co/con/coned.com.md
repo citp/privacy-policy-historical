@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coned.com privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412212050id_/http%3A//www.coned.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coned.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220024648id_/http%3A//www.coned.com/privacy) for the most accurate reproduction.*
 
 # Con Edison: privacy - Con Edison Internet Privacy Statement
 
