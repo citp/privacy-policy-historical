@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stretchclock.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527032038id_/http%3A//www.stretchclock.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stretchclock.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220164024id_/http%3A//www.stretchclock.com/about/privacy.htm) for the most accurate reproduction.*
 
 # StretchClock Privacy Policy
 
@@ -53,9 +53,13 @@ We use this information to notify contest winners and award prizes or personaliz
 
 We will not share the personally identifiable information you provide through a contest or survey with other third parties unless you give us permission.
 
-**Tell-A-Friend**
+**Heal-A-Friend**
 
 StretchClock’s Tell a Friend feature is completely anonymous. If you choose to use our referral service to tell a friend about our site, you will be launching your own email program. Therefore, StretchClock will have no knowledge of your email address or your friend’s email address.
+
+**ShareThis**
+
+StretchClock uses a service called ShareThis. If you use the "ShareThis feature" then you should consult their [Privacy Policy](http://sharethis.com/privacy)
 
 **Profile**  
 
@@ -63,6 +67,10 @@ StretchClock’s Tell a Friend feature is completely anonymous. If you choose to
 We store information that we collect through cookies, log files, clear gifs, and/or third party sources to create a “profile” of your preferences.  We do not tie your personally identifiable information or your purchasing history to information in the profile.
 
 We do not share your profile with other third parties.  We may share your profile in aggregate form only.
+
+**Email Subscriptions**
+
+We will not rent, sell or trade your personal information (including your email address) with anyone unless you tell us to. We use aWeber for our email list service. They are pioneers in permission based email policies. Here is their [privacy policy](http://www.aweber.com/privacy.htm)
 
 ### Information Sharing and Disclosure
 
@@ -104,4 +112,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ### Contact Us 
 
-If you have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20080527032038id_/http%3A//www.stretchclock.com/about/default.htm).
+If you have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20081220164024id_/http%3A//www.stretchclock.com/about/default.htm).
