@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freakycreatures.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502220730id_/http%3A//www.myfreakycreatures.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freakycreatures.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220044614id_/http%3A//www.myfreakycreatures.com/privacy) for the most accurate reproduction.*
 
 # privacy policy
 
