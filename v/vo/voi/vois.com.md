@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vois.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625043727id_/http%3A//www.vois.com/default/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vois.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220153134id_/http%3A//www.vois.com/default/privacyPolicy) for the most accurate reproduction.*
 
 # Free Business Social Networking, Find Your Classmates - Privacy Policy
 
@@ -184,6 +184,6 @@ We reserve the right to modify this Privacy Policy at any time, so please review
 
  _ **Contact Us**_
 
-If you have any questions or suggestions regarding our Privacy Policy, please contact us at: Legal Department, VOIS, Inc., 255 N.E. 6th Avenue, Delray Beach, FL 33483; Facsimile: (561) 274-4895; and [privacy@vois.com](mailto:privacy@vois.com "privacy@vois.com").  
+If you have any questions or suggestions regarding our Privacy Policy, please contact us at: 951 Yamato Road, Suite 201, Boca Raton, Fl 33431 ; Facsimile: (561) 274-4895; and [privacy@vois.com](mailto:privacy@vois.com "privacy@vois.com").  
   
 ---|---
