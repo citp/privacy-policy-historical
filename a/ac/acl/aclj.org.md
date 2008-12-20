@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aclj.org privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628222455id_/http%3A//www.aclj.org/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclj.org privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220122806id_/http%3A//www.aclj.org/Privacy.aspx) for the most accurate reproduction.*
 
 # ACLJ • American Center for Law & Justice
 
