@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esomar.org privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625081829id_/http%3A//www.esomar.org/index.php/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esomar.org privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220161804id_/http%3A//www.esomar.org/index.php/privacy-policy.html) for the most accurate reproduction.*
 
 # ESOMAR - Privacy Policy
 
@@ -16,7 +16,7 @@ ESOMAR does not request personal data from you, other than to process a transact
 
 ### As a customer of ESOMAR:
 
-  * use your personal data to complete transactions with you as a customer 
+  * use your personal data to complete transactions with you as a customer
   * use your personal data to inform you about ESOMAR's activities, products and services by mail, fax or email, unless you have requested otherwise in writing 
   * provide those personal data that are necessary to deliver ESOMAR's products and services to authorised third parties who undertake to respect ESOMAR's privacy policy. 
 
@@ -26,13 +26,13 @@ ESOMAR does not request personal data from you, other than to process a transact
 
 By providing your personal data to apply for or renew your ESOMAR membership and/or company listing in the ESOMAR Directory, you expressly authorise ESOMAR to:
 
-  * use your personal data to register you and complete transactions with you as an ESOMAR Member 
-  * use your personal data to inform you about ESOMAR's activities, products and services by mail, fax or email, unless you have requested otherwise in writing 
-  * provide the necessary personal data to authorised third parties who undertake to abide by ESOMAR's privacy policy in order to deliver ESOMAR's products and services 
+  * use your personal data to register you and complete transactions with you as an ESOMAR Member
+  * use your personal data to inform you about ESOMAR's activities, products and services by mail, fax or email, unless you have requested otherwise in writing
+  * provide the necessary personal data to authorised third parties who undertake to abide by ESOMAR's privacy policy in order to deliver ESOMAR's products and services
 
 
-  * include your name and contact details provided for the printed and online Directory of Members*, unless you have requested otherwise in writing 
-  * where requested, include your company's contact details provided for the printed Directory of Research Organisations which is also available on the ESOMAR website. 
+  * include your name and contact details provided for the printed and online Directory of Members*, unless you have requested otherwise in writing
+  * where requested, include your company's contact details provided for the online Directory of Research Organisations which is also available on the ESOMAR website
 
 
 
@@ -56,8 +56,9 @@ This privacy policy only applies to www.esomar.org. This privacy policy does not
 If you do not wish to receive any mails, faxes or emails about ESOMAR's activities, products and/or services, you should inform us in writing by mail, fax or email at the following address:
 
 ESOMAR  
-Vondelstraat 172  
-1054 GV Amsterdam  
+Eurocenter 2, 11th floor  
+Barbara Strozzilaan 384  
+1083 HN Amsterdam  
 The Netherlands  
 Tel: +31 20 664 2141  
 Fax: +31 20 664 2922  
