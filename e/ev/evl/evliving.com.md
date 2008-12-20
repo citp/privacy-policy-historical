@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evliving.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610182040id_/http%3A//www.evliving.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evliving.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220022342id_/http%3A//www.evliving.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Phoenix Arizona Real Estate Local News and Business Directory
 
@@ -91,5 +91,3 @@ EVLiving.com may update this policy. We will notify you about significant change
 If you have questions or suggestions, please let us know by sending an email to **[Business Office](mailto:info@evliving.com)**.
 
 Please enjoy the site.
-
-**Share and Enjoy:** These icons link to social bookmarking sites where readers can share and discover new web pages.
