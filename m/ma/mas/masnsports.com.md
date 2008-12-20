@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the masnsports.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617112740id_/http%3A//masnstudios.com/2007/08/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masnsports.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220173345id_/http%3A//masnstudios.com/2007/08/privacy-policy.html) for the most accurate reproduction.*
 
 # - MASN Online
+
+  
+[](http://altfarm.mediaplex.com/ad/ck/10445-61388-22983-0?mpt=\[CACHEBUSTER\])
+
+* * *
 
 **MASN Online Privacy Policy**
 
