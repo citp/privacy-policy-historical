@@ -1,180 +1,162 @@
-<!--The following is the downloaded HTML source of the realage.com privacy policy that was archived on 2007-03-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070329050756id_/http%3A//www.realage.com/company_info/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realage.com privacy policy that was archived on 2008-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220213132id_/http%3A//www.realage.com/corporate/privacy.aspx) for the most accurate reproduction.-->
 
 <html><head>
 		<meta http-equiv="Pragma" content="no-cache">	<!-- this one is for firefox-->
 		<meta http-equiv="Expires" content="-1">		<!-- this one is for IE-->
 		<title>About RealAge — RealAge Privacy Statement</title>
 		<link rel="stylesheet" type="text/css" href="http://www.realage.com/App_Styles/Corporate/GlobalStyles.css">
-		<link rel="stylesheet" type="text/css" href="inc/aboutRA_Styles.css">
+		<link rel="stylesheet" type="text/css" href="../App_Styles/Corporate/aboutRA_Styles.css">
 	</head>
 	<body>
 		<table width="100%" height="100%" cellpadding="0" cellspacing="0">
 			<tbody><tr>
 				<td valign="top">
-<script language="javascript">		
-	//EMERGENCY SHUT-OFF FOR TRACKING - WARNING: setting to false 
-    //will deactivate all calls to updatemembertracking on the header
-    var TrackingEnabled = true;
-    // page level tracking variables
-    var thisPageURL = escape(location.href);
-	var hpp = 'http://www.realage.com/';	
-	var frUrl = '';
-	var pgUrl = 'http%253a%252f%252fwww.realage.com%252fcompany_info%252fprivacy.aspx';
-	var toUrl;
-	var pageModKey = '';
-	var validateUrl;
-	// Attempts to create an instance of XmlHttp.  If successful, the 
-	// instance is returned.  If not successful (i.e. if the browser 
-	// doesn't support AJAX) the function returns null - THE RETURN VALUE
-	// MUST BE CHECKED BEFORE USING!
-	function CreateXmlHttp() {
-		var XmlHttp = null;
-		try {
-			XmlHttp = new ActiveXObject('Msxml2.XMLHTTP');
-		} 
-		catch (e) {
-			try {
-				XmlHttp = new ActiveXObject('Microsoft.XMLHTTP');
-			} 
-			catch (e) {
-            	try {
-            		XmlHttp = new XMLHttpRequest();
-            	}
-            	catch (e) {
-            		return null;
-            	}
-			}
-		}
-		return XmlHttp;
-	}
-	function Call_AJAX_Tracking(itemIds, aThis, clientId) 
-	{ 
-		var getHref = aThis.href;
-		if (TrackingEnabled) 
-		{	
-			//alert('HDR ' + itemIds);
-			if (typeof getHref != "undefined")
-			{
-				var validateUrl = getHref.indexOf('http://', 0);
-				if (validateUrl == -1)
-				{ 
-					toUrl = '';
-				}else{
-					toUrl = getHref;
-				}
-			}else{
-				toUrl = '';
-			}	
-			
-			// validation of hpp is necessary to avoid intermitent errors which are occurring - AT 1.17.2006
-			if (typeof hpp != "undefined"){								
-				var XmlHttp = CreateXmlHttp();
-				if (XmlHttp) 
-				{				
-					XmlHttp.open('GET', 
-						hpp + 'App_Pages/AJAX_Tracking.aspx?idl=' + itemIds + '&pgu=' + pgUrl +
-						'&tou=' + toUrl + '&fru=' + frUrl + '&clt=' + clientId, true);
-					XmlHttp.onreadystatechange = function(){}//Do nothing for tracking				
-					XmlHttp.send(null);		
-				}
-			}
-		}
-	}
-	
-	function Call_AJAX_Tracking_Urls(itemIds, aToUrl, clientId) 
-	{
-		if (TrackingEnabled) 
-		{	
-			// validation of hpp is necessary to avoid intermitent errors which are occurring - AT 1.17.2006
-			if (typeof hpp != "undefined"){
-				var XmlHttp = CreateXmlHttp();
-				if (XmlHttp) 
-				{	
-					XmlHttp.open('GET', 
-						hpp + 'App_Pages/AJAX_Tracking.aspx?idl=' + itemIds + '&pgu=' + pgUrl +
-						'&tou=' + aToUrl + '&fru=' + frUrl + '&clt=' + clientId, true);
-					XmlHttp.onreadystatechange = function(){}//Do nothing for tracking				
-					XmlHttp.send(null);		
-				}
-			}
-		}
-	}	
-		
-	var flickerCount = 0;
-	var timer;
-	function updatingRealAge(currentRAStyle) {		
-		if (flickerCount <= 11) {
-			var updSpan = document.getElementById('RealAgeUpdatingSpan');
-			if (currentRAStyle == 'HeaderLFRealAgeUpdatingSpan2')
-				currentRAStyle = 'HeaderLFRealAgeUpdatingSpan';						
-			else 
-				currentRAStyle = 'HeaderLFRealAgeUpdatingSpan2';
+<link href="/App_Themes/Default/global.css" type="text/css" rel="stylesheet">
+<link href="/App_Themes/Default/nav.css" type="text/css" rel="stylesheet">
+<link href="/App_Themes/Default/reset-fonts.css" type="text/css" rel="stylesheet">
+<link href="/App_Themes/Default/template.css" type="text/css" rel="stylesheet">
+
+<script language="javascript" type="text/javascript">		
+    // This is used by DoubleClick
+    // This value must be random for each page but the same for each ad on the page
+    var dblclick_ord = Math.random()*10000000000000000;		
+
+    var flickerCount = 0;
+    var timer;
+    function updatingRealAge(currentRAStyle) {		
+	    if (flickerCount <= 11) {
+		    var updSpan = document.getElementById('RealAgeUpdatingSpan');
+		    if (currentRAStyle == 'HeaderLFRealAgeUpdatingSpan2')
+			    currentRAStyle = 'HeaderLFRealAgeUpdatingSpan';						
+		    else 
+			    currentRAStyle = 'HeaderLFRealAgeUpdatingSpan2';
 										
-			var newDis = '<span class="' + currentRAStyle + '">Updating<br>RealAge</span>';
+		    var newDis = '<span class="' + currentRAStyle + '">Updating<br />RealAge</span>';
+		    // need to check object exists
+		    if (updSpan)
+		    {
 			updSpan.innerHTML = newDis;			
-			// Increment counter				
-			flickerCount = flickerCount + 1;
-			// Reset the timer
-			window.clearTimeout(timer);
-			timer = window.setTimeout('updatingRealAge("' + currentRAStyle + '")', 1000);
-		}
-		else {
-			window.clearTimeout(timer);
-		}		
-	}
+		    }
+		    // Increment counter				
+		    flickerCount = flickerCount + 1;
+		    // Reset the timer
+		    window.clearTimeout(timer);
+		    timer = window.setTimeout('updatingRealAge("' + currentRAStyle + '")', 1000);
+	    }
+	    else {
+		    window.clearTimeout(timer);
+	    }		
+    }
 	
 </script>
+<script type="text/javascript" language="JavaScript" src="http://www.realage.com/app_scripts/s_code.js"></script>
 
-<input name="Header2:CurrentSearchState" id="Header2_CurrentSearchState" type="hidden" value="0">
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-	<!-- BeginOldNavigationTrackingMarker --> 
-	<tbody><tr> 
-		<td nowrap="">
-			<table width="770" cellpadding="0" cellspacing="0" border="0">
-				<tbody><tr>
-					<td rowspan="3" class="HeaderContentLogoV2"><a href="http://www.realage.com/index.aspx" onclick="Call_AJAX_Tracking('207,F',this,'');"><img src="http://www.realage.com/App_Images/Header/hd_ra-logo2.gif"></a></td>
-					<td><img src="http://www.realage.com/App_Images/Miscellaneous/clear.gif" height="16" width="1"></td>				
-					<td align="right" valign="bottom"></td>
-					
-				</tr>
-				<tr>	
-					<td><img src="http://www.realage.com/App_Images/Miscellaneous/clear.gif" height="38" width="1"></td>				
-					<td valign="middle" nowrap="">
-						<table cellpadding="0" cellspacing="0" border="0" width="100%">
-							<tbody><tr>
-								<td><div class="HeaderTitleImgContainer"><span class="FontMedium"><img src="http://www.realage.com/App_Images/Corporate/Header/hdcorp_aboutrealage.gif" alt="" border="0"><br>Read about our company, our science and executive teams, our policies, and more</span></div></td>
-								<td align="right"></td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-				<tr>	
-					<td colspan="2"><img src="http://www.realage.com/App_Images/Miscellaneous/clear.gif" height="11" width="1"></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td bgcolor="#45688E" nowrap="" class="HeaderNavTile" height="25" valign="top"></td>
-	</tr>
-	<tr>
-		<td class="HeaderPixel2Height"><img src="http://www.realage.com/App_Images/Miscellaneous/clear.gif" height="2"></td>
-	</tr>
-	<tr>
-		<td class="HeaderPixel1Height"><img src="http://www.realage.com/App_Images/Miscellaneous/clear.gif" height="1"></td>
-	</tr>
+<script type="text/javascript" language="JavaScript">
+s.channel="corporate"
+s.hier1="corporate,none,none,privacy"
+s.pageName="corporate:privacy"
+s.prop1="corporate"
+s.prop10="non-member"
+s.prop4="co info"
+s.prop5="privacy"
+s.events="event2"
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)</script>
+<!-- End SiteCatalyst code version: H.10. -->
+
+<script type="text/javascript" language="javascript" src="../App_Scripts/RealAge.Utils.js"></script>
+<script type="text/javascript" language="JavaScript" src="../App_Scripts/RealAge.Utils.Cookie.js"></script>
+<script type="text/javascript" language="JavaScript" src="../App_Scripts/sessvars.js"></script>
+<script type="text/javascript" language="JavaScript" src="../App_Scripts/AjaxTracking.js"></script>
+<script type="text/javascript" language="JavaScript" src="../emailValidator/ajax.js"></script>
+<script language="javascript" type="text/javascript">
+
+function checkUpperMValue()
+{	        
+    if (document.SearchForm.query.value != "")
+    {
+        document.SearchForm.m.value = 1;
+    }
+}		  
+
+function upperSearchFormSubmit()
+{
+    checkUpperMValue();   	        	        	        
+    document.getElementById('SearchForm').submit();	    	
+}
+
+function checkLowerSearchBox()
+{
+    if (document.getElementById('LowerSearchForm')){
+        prefillLowerSearchText();
+    }
+}		  
+
+</script>
+
+
+
+<div id="Header2_pnlHeader">
 	
-	<tr>
-		<td class="HeaderSearchBottom"></td>
-	</tr>	
-</tbody></table></td>
-			</tr>
-			<form name="Form1" method="post" action="privacy.aspx" id="Form1"></form>
-<input type="hidden" name="__VIEWSTATE" value="dDwtMTc3ODEwMDQ3NDt0PDtsPGk8MD47PjtsPHQ8O2w8aTwxPjtpPDI+O2k8NT47aTw2Pjs+O2w8dDxwPGw8VmlzaWJsZTs+O2w8bzxmPjs+Pjs7Pjt0PHA8bDxWaXNpYmxlOz47bDxvPGY+Oz4+Ozs+O3Q8cDxsPFZpc2libGU7PjtsPG88Zj47Pj47Oz47dDxwPGw8VmlzaWJsZTs+O2w8bzxmPjs+Pjs7Pjs+Pjs+Pjs+lzb4rctvKXc2haO8dQDH7ezR2W8=">
+    
+    <link rel="stylesheet" type="text/css" href="http://www.realage.com/app_styles/header.css">
+    <input name="Header2$CurrentSearchState" type="hidden" id="Header2_CurrentSearchState" value="0">
+    <table width="100%" cellpadding="0" cellspacing="0" border="0">
+	    <tbody><tr> 
+		    <td nowrap="">
+			    <table width="770" cellpadding="0" cellspacing="0" border="0">
+				    <tbody><tr>
+					    <td rowspan="3" class="HeaderContentLogoV2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.realage.com/index.aspx" onclick="Call_AJAX_Tracking('207,F',this,'');"><img id="Header2_Image1" src="../App_Images/Header/hd_ra-logo2.gif" border="0"></a></td>
+					    <td><img id="Header2_Image2" src="../App_Images/Miscellaneous/clear.gif" height="16" width="1" border="0"></td>				
+					    <td align="right" valign="bottom"><span id="Header2_WelcomeTextControl"><span class="FontVerySmall" id="WelcomeTextSpan"></span></span></td>
+					    
+				    </tr>
+				    <tr>	
+					    <td><img id="Header2_Image10" src="../App_Images/Miscellaneous/clear.gif" height="38" width="1" border="0"></td>				
+					    <td valign="middle" nowrap="">
+						    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+							    <tbody><tr>
+								    <td><div class="HeaderTitleImgContainer"><span class="FontMedium"><img src="http://www.realage.com/App_Images/Corporate/Header/hdcorp_aboutrealage.gif" border="0"><br>Read about our company, our science and executive teams, our policies, and more</span></div></td>
+								    <td align="right"></td>
+							    </tr>
+						    </tbody></table>
+					    </td>
+				    </tr>
+                    <tr>
+                        <td colspan="2"><img id="Header2_Image11" src="../App_Images/Miscellaneous/clear.gif" height="11" width="1" border="0"></td>
+				    </tr>
+			    </tbody></table>
+		    </td>
+	    </tr>
+	    <tr>
+		    <td valign="top" class="HeaderNavTile" height="25px"></td>
+	    </tr>
+	    <tr>
+		    <td class="HeaderPixel2Height"><img id="Header2_Image12" src="../App_Images/Miscellaneous/clear.gif" height="2" border="0"></td>
+	    </tr>
+	    <tr>
+		    <td class="HeaderPixel1Height"><img id="Header2_Image13" src="../App_Images/Miscellaneous/clear.gif" height="1" border="0"></td>
+	    </tr><!--
+	    
+	    -->
+	    <tr>
+		    <td class="HeaderSearchBottom"></td>
+	    </tr>	
+    </tbody></table>
 
+</div>
+<script language="javascript" type="text/javascript">
+    Call_AJAX_Tracking('322,F',this,'');
+</script>
+
+</td>
+			</tr>
 			<tr>
 				<td valign="top" height="100%" class="MainContainer">										
+	            <form name="Form1" method="post" action="privacy.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjYwODQ4OTExD2QWAmYPZBYGZg8WAh4HVmlzaWJsZWdkAgIPZBYCAgQPFgIfAGhkAgMPZBYIAgEPDxYCHghJbWFnZVVybAUjfi9BcHBfSW1hZ2VzL0hlYWRlci9oZF9yYS1sb2dvMi5naWZkZAIEDxYCHwBoZAIJDxYCHwBoFgJmD2QWAgICDxYCHwBnZAIMDxYCHwBoFgJmD2QWAgICDw8WAh4GVGFyZ2V0BQZfYmxhbmsWAh4Hb25jbGljawUkQ2FsbF9BSkFYX1RyYWNraW5nKCcyMTksRicsdGhpcywnJyk7ZGQeR4AvzAYSOb1X6G3W2nEr+eR9zA==">
+
 					<table border="0" width="100%" cellpadding="0" cellspacing="0">
 						<tbody><tr>
 							<td rowspan="2" valign="top">
@@ -190,10 +172,10 @@
 							<td valign="top">
 								<table cellpadding="0" cellspacing="0" border="0">
 									<tbody><tr>
-										<td colspan="3" class="Template1MainBoxBar"><img src="http://www.realage.com/App_Images/Miscellaneous/clear.gif" height="15px" border="0"></td>
+										<td colspan="3" class="Template1MainBoxBar"><img border="0" src="../App_Images/Miscellaneous/clear.gif" height="15"></td>
 									</tr>
 									<tr>
-										<td valign="top"><img src="http://www.realage.com/App_Images/Corporate/Miscellaneous/left_corp.gif"></td>
+										<td valign="top"><img src="../App_Images/Corporate/Miscellaneous/left_corp.gif" border="0"></td>
 										<td valign="top" bgcolor="FFFFFF">
 											<div class="Template1Container">
 												<table width="100%" cellpadding="0" cellspacing="0">
@@ -206,7 +188,7 @@
 															<div class="Template1Content">
 																
 
-																<img src="http://www.realage.com/App_Images/SubHeader/sub_privacy-policy.jpg"><br><br>
+																<img src="../App_Images/SubHeader/sub_privacy-policy.jpg" border="0"><br><br>
 																
 																<div class="fontMedium" "="">
 																	<span class="subHeaders"><b>RealAge Privacy Statement</b></span><br><br>
@@ -214,29 +196,32 @@
 																	Statement to describe to you our practices regarding the Personal Data we 
 																	collect from users of our services.
 																	<br><br>
-																	<b>A Note to European Union Users</b>
-																	<br>
-																	We adhere to the United States / European Union Data Protection Safe Harbor 
-																	Arrangement, which can be located at <a href="http://www.export.gov/safeharbor" target="_blank">
-																		http://www.export.gov/safeharbor</a> (the "Safe Harbor").
+																	<b>A Note to Non-U.S. Users</b>
 																	<br>
 																	YOU EXPRESSLY CONSENT TO THE PROCESSING OF YOUR PERSONAL DATA IN ACCORDANCE 
-																	WITH THIS PRIVACY STATEMENT. YOUR PERSONAL DATA MAY BE PROCESSED IN THE COUNTRY 
-																	IN WHICH IT WAS COLLECTED AND IN THE UNITED STATES. UNITED STATES LAWS 
-																	REGARDING PROCESSING OF PERSONAL DATA MAY BE LESS STRINGENT THAN THE LAWS IN 
-																	YOUR COUNTRY.
+																	WITH THIS PRIVACY STATEMENT. YOUR PERSONAL DATA MAY BE PROCESSED IN THE UNITED 
+																	STATES. UNITED STATES LAWS REGARDING PROCESSING OF PERSONAL DATA MAY BE LESS 
+																	STRINGENT THAN THE LAWS IN YOUR COUNTRY.
+																	<br><br>
+																	<b>A Note to California and Canada Users</b>
+																	<br>
+																	California and Canada residents have the right to know how their information 
+																	may be shared with third parties who engage in direct marketing activities, 
+																	and this Privacy Policy explains our practices and how you can opt out of 
+																	having your information shared for such purposes.
 																	<br><br>
 																	<b>Types of Data We Collect</b>
 																	<br>
-																	RealAge collects Personal Data and Anonymous Data from you when you visit our 
-																	site or when you send us information or communications. "Personal Data" means 
-																	data that allows someone to identify or contact you, including, for example, 
-																	your name, address, telephone number, e-mail address, as well as any 
-																	information about you that is associated with or linked to any of the foregoing 
-																	data. "Anonymous Data" means data that is not associated with or linked to your 
-																	Personal Data; Anonymous Data does not permit the identification of individual 
-																	persons. We collect Personal Data and Anonymous Data, as described below.
-																	<br><br>
+                                                                    RealAge collects Personal Data, Personal Postal Data, and Anonymous Data when 
+                                                                    you visit our site or when you send us information or communications. "Personal Data" 
+                                                                    means data that allows someone to identify or contact you, including, for example, 
+                                                                    your name and e-mail address as well as any information about you that is 
+                                                                    associated with or linked to any of the foregoing data. “Personal Postal Data” 
+                                                                    means data that allows someone to identify or contact you via your name and 
+                                                                    mailing address. "Anonymous Data" means data that is not associated with or 
+                                                                    linked to your Personal Data; Anonymous Data does not permit the identification 
+                                                                    of individual persons. We collect Personal Data and Anonymous Data as described below.
+                                                                    <br><br>
 																	<b>Personal Data You Provide to Us</b>
 																	<br>
 																	We collect Personal Data from you, such as your name, e-mail address, country 
@@ -244,13 +229,14 @@
 																	register for a membership with us or when you choose to use the various 
 																	services we provide on our site (e.g., Tip of the Day, Health Assessments, 
 																	etc.). We also collect other types of Personal Data that you provide to us 
-																	voluntarily, such as your health-related information, when you respond to 
-																	surveys, health assessments, and questionnaires. If you provide us feedback regarding our site or services via e-mail, 
-																	we will collect your name and e-mail address in order to send you a reply.
+																	voluntarily, such as your health-related information when you respond to 
+																	surveys, health assessments, and questionnaires. If you provide us feedback regarding 
+																	our site or services via e-mail, we will collect your name and e-mail address 
+																	in order to send you a reply.
 																	<br><br>
 																	In order to improve our services to you, we may ask you to voluntarily complete 
 																	confidential surveys. We do not ask you to provide us any personally 
-																	identifiable data in association with these surveys although we do associate 
+																	identifiable data in association with these surveys, although we do associate 
 																	your responses with Personal Data. If you do not wish to participate in a 
 																	survey, however, simply decline to participate when asked.
 																	<br><br>
@@ -264,7 +250,7 @@
 																	consent to our use of cookies and clear GIFs when you use our services.
 																	<br><br>
 																	An "IP Address" is a number that is automatically assigned to your computer 
-																	when you use the Internet. In some cases your IP address stays the same from 
+																	when you use the Internet. In some cases, your IP address stays the same from 
 																	browser session to browser session; but if you use a consumer Internet access 
 																	provider, your IP address probably varies from session to session. We track IP 
 																	addresses solely in conjunction with session cookies to analyze our Web page 
@@ -278,7 +264,7 @@
 																	accept or decline cookies. Most Web browsers automatically accept cookies, but 
 																	you can disable this function by changing the cookie profile on your computer’s 
 																	Web browser. If you disable your cookies, however, you will not have access to 
-																	certain features of our site such as "Remember My Password" or interactive 
+																	certain features of our site, such as "Remember My Password" or interactive 
 																	quizzes. RealAge does not store any Personal Data in cookies on your computer 
 																	(other than the cookie itself).
 																	<br><br>
@@ -301,29 +287,15 @@
 																	once only and is not saved in our database, with the exception of the RealAge 
 																	Challenge, in which case the friend's e-mail address is stored only for 
 																	Challenge participation purposes. If you decide to invite a friend or family 
-																	member to take the RealAge test, we will collect and save the friend’s or 
+																	member to take the RealAge Test, we will collect and save the friend’s or 
 																	family member’s e-mail address into our database, as we would for anyone who 
 																	registers on the RealAge site.
 																	<br><br>
-																	<b>Personal Data Collected by Third Parties</b>
+																	<b>Personally Identifying Data Collected by Third Parties</b>
 																	<br>
-																	Except as otherwise expressly provided in this Privacy Statement, only RealAge 
-																	collects Personal Data through the services provided solely by RealAge; this 
-																	Privacy Statement applies only to the use and disclosure of Personal Data that 
-																	we collect while you use our services.
-																	<p>
-																	We do not use third party advertising services to display advertisements or 
-																	links on our sites. However, when you click on such advertisements or links, 
-																	you will leave our site and go to another site. During this process, a third 
-																	party (including a third party advertising service that may provide services to 
-																	an advertiser) may collect Personal Data or Anonymous Data from you, such as 
-																	the URL you just came from, the URL you go to next, your browser type, and your 
-																	IP address. Our display of advertisements or links to any other company or site 
-																	is for your convenience and does not signify our endorsement of such company or 
-																	site (or the contents of the site). We have no control over, we do not review, 
-																	and our Privacy Statement does not apply to these other companies, sites, or 
-																	content, or to any collection of data after you click on an advertisement of or 
-																	link to a third party.
+																	Except as otherwise expressly provided in this Privacy Statement, only RealAge collects Personally Identifying Data through the services provided solely by RealAge; this Privacy Statement applies only to the use and disclosure of Personally Identifying Data that we collect while you use our services. 
+																	<br><br>
+																	We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, e-mail address, or postal address) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: (<a href="http://networkadvertising.org/consumer/opt_out.asp" target="_blank"> http://networkadvertising.org/consumer/opt_out.asp</a>). Furthermore, when you click on such advertisements or links, you will leave our site and go to another site. During this process, a third party (including a third-party advertising service that may provide services to an advertiser) may collect Personally Identifying Data or Anonymous Data from you, such as the URL you just came from, the URL you go to next, your browser type, and your IP address. Our display of advertisements or links to any other company or site is for your convenience and does not signify our endorsement of such company or site (or the contents of the site). We have no control over, we do not review, and our Privacy Statement does not apply to these other companies, sites, or content, or to any collection of data after you click on an advertisement of or link to a third party. 
 																	<br><br>
 																	<b>Use of Your Data</b>
 																	<br>
@@ -336,30 +308,30 @@
 																	notify you about updates to our services and to respond to your requests.
 																	<br><br>
 																	We may create Anonymous Data records from Personal Data by excluding 
-																	information (such as your name) that make the data personally identifiable to 
+																	information (such as your name) that makes the data personally identifiable to 
 																	you. We use this Anonymous Data to perform statistical analyses of users’ 
 																	aggregate behavior so that we may enhance the content of our services and 
 																	improve site navigation. RealAge reserves the right to use and disclose 
 																	Anonymous Data to third parties in its discretion.
 																	<br><br>
-																	If you elect to receive communications from us (as described below), we will 
-																	periodically send you free newsletters and e-mails that directly promote the 
-																	use of our site(s) or the purchase of our products or services and may contain 
-																	advertisements for third parties. As a benefit of becoming a member, you may 
-																	receive promotional e-mail from RealAge divisions such as DogAge, CatAge, RealBeauty, MyLifestyleInterests, and others. If you would like to cease 
-																	receiving these communications from us, you may unsubscribe by visiting those 
-																	Web pages.
+															        If you elect to say yes to becoming a free RealAge Member (as described below), 
+															        we will periodically send you free newsletters and e-mails that directly promote 
+															        the use of our site(s) or the purchase of our products or services and may contain,
+															        in whole or in part, advertisements for third parties which relate to marketed 
+															        products of selected RealAge partners. As a benefit of becoming a member, 
+															        you may receive promotional e-mail from RealAge properties such as DogAge, CatAge, 
+															        and others. 
 																	<br><br>
-																	<b>Disclosure of Your Personal Data</b>
+																	<b>Disclosure of Your Personal Data and Personal Postal Data</b>
 																	<br>
 																	Except as otherwise stated in this policy, we do not sell, trade, or rent the 
 																	Personal Data collected from our services to third parties. However, we will 
-																	share your Personal Data with third parties to charge your credit card (if 
-																	authorized by you), fill your order, and deliver promotional e-mails. These 
-																	third parties are required not to use your Personal Data other than to provide 
-																	the services requested by RealAge. You expressly consent to the sharing of your 
-																	Personal Data with our contractors and third party service providers for the 
-																	sole purpose of providing services to you.
+																	share your Personal Data with third parties to fulfill the services that you have 
+																	asked us to provide to you, including but not limited to sending you free 
+																	newsletters and promotional e-mails. These third parties are required not to 
+																	use your Personal Data other than to provide the services requested by RealAge. 
+																	You expressly consent to the sharing of your Personal Data with our contractors 
+																	and third-party service providers for the sole purpose of providing services to you. 
 																	<br><br>
 																	If you send a testimonial or comment to us, we may post it on our site or use 
 																	it in advertising materials. We will attribute your testimonial to you by 
@@ -372,17 +344,17 @@
 																	subpoenas or warrants served on RealAge; or (b) protect or defend the rights or 
 																	property of RealAge or users of RealAge services.
 																	<br><br>
-																	RealAge is a company with either subsidiaries, joint ventures, or other 
-																	companies under a common control (collectively, “affiliates”). These affiliates 
-																	include, but are not limited to, DogAge, CatAge, RealBeauty, and 
-																	MyLifestyleInterests. We may share some or all of your Personal Data with these 
-																	affiliates, in which case we will require our affiliates to honor this Privacy 
-																	Statement. If another company acquires our company or our assets, that company 
-																	will possess the Personal Data collected by it and us and will assume the 
-																	rights and obligations regarding your Personal Data as described in this 
-																	Privacy Statement.
-																	<br><br>
-																	If you provide RealAge with your mailing address, we may share your name and mailing 
+                                                                    RealAge is a company with either subsidiaries, joint ventures, or other companies 
+                                                                    under a common control (collectively, "affiliates"). These affiliates include but 
+                                                                    are not limited to DogAge and CatAge. We may share some or all of your Personal 
+                                                                    Data and Personal Postal Data with these affiliates, in which case we will require 
+                                                                    our affiliates to honor this Privacy Statement. If another company acquires our 
+                                                                    company or our assets, that company will possess the Personal Data and Personal 
+                                                                    Postal Data collected by it and us and will assume the rights and obligations 
+                                                                    regarding your Personal Data and Personal Postal Data as described in this 
+                                                                    Privacy Statement.
+                                                                    <br><br>
+																	If you provide RealAge with Personal Postal Data, we may share your name and mailing 
 																	address with our affiliates or other third-party businesses that offer goods or services 
 																	that we believe may be of interest to our customers. Many customers appreciate the 
 																	offerings they receive from such third parties; however, we allow you to opt out of 
@@ -394,7 +366,7 @@
 																	10675 Sorrento Valley Rd., Suite 200<br>
 																	San Diego, CA 92121
 																	<br><br>
-																	Be sure to include your full name and address in your opt-out request, in order to allow 
+																	Be sure to include your full name and address in your opt-out request in order to allow 
 																	us to process your request.
 																	<br><br>
 																	<b>Control of Your Personal Data</b>
@@ -404,14 +376,16 @@
 																	We offer you choices regarding the collection, use, and sharing of your 
 																	Personal Data. 
 																	
-																		You may proactively make such choices by visiting <a href="../reg/MyAcntTC.aspx">My Account</a>.
+																		You may change such choices by visiting <a href="../reg/MyAcntTC.aspx">My Account</a>.
 																	
 																	<br><br>
-																	When you become a member of RealAge by registering on our site, we will ask you 
-																	if you want to receive future communications from us. You may indicate consent 
-																	to receipt of these communications by checking the box located on the 
-																	registration form. Should you decide to stop receiving further communications 
-																	from us, you will have the opportunity to “opt-out” by following the 
+                                                                    When you say yes to becoming a free RealAge Member on our site, you 
+                                                                    will receive future communications from us. On the registration form on our 
+                                                                    site, by saying yes to becoming a free RealAge Member, and by checking the 
+                                                                    box that you agree to RealAge’s privacy policy and terms and conditions, 
+                                                                    you consent to receipt of these communications. Should you decide to stop 
+                                                                    receiving further communications 
+																	from us, you will have the opportunity to “opt out” by following the 
 																	unsubscribe instructions provided in the e-mail you receive,
 																	
 																		or by going to <a href="../reg/MyAcntTC.aspx">My Account</a>. 
@@ -429,6 +403,62 @@
 																		Note that we may retain changed or deleted information in our archives.
 																		<br><br>
 																	
+																	<b><u>Blogs, Video, and Other User-Generated Postings; Social Networking</u></b>
+																	<br>
+                                                                    If you elect to post material to any blogs or forums, participate in our social 
+                                                                    networking channels or mentoring features or other community features that may be 
+                                                                    offered from time to time on our sites, or if you elect to upload any photographs, 
+                                                                    audio, or video, you will be solely responsible for all content, messages, text, 
+                                                                    files, images, graphics, photos, audio clips, sounds, video or other materials 
+                                                                    (the "Postings"). You agree and warrant that any Postings you post to the sites 
+                                                                    will be true and accurate, will not defame any person or invade any person’s privacy, 
+                                                                    and will not infringe the proprietary rights of any person. You agree not to furnish 
+                                                                    any Postings to which you do not own the rights. By furnishing Postings, you 
+                                                                    acknowledge that visitors to the sites may post comments about your Postings which 
+                                                                    may be derogatory, and that RealAge has no obligation to monitor or delete any such 
+                                                                    postings. You also acknowledge that any information you may receive from a mentor, 
+                                                                    expert or other advice-giver on our site is not a substitute for professional medical 
+                                                                    information or advice and is governed by the disclaimers and limitations set forth 
+                                                                    in our <a href="TermsOfUse.aspx">Terms of Use</a>. 
+                                                                    <br><br>
+                                                                    Please be aware that RealAge reserves the right, but not the obligation, to monitor 
+                                                                    Postings; however, ReallAge does not and cannot monitor all of the Postings made to 
+                                                                    the sites; therefore, RealAge will not be responsible for the content of any Postings. 
+                                                                    RealAge has no obligation to verify the accuracy of any personally identifying 
+                                                                    information that is posted to our sites. However, RealAge does reserve the right to 
+                                                                    delete or edit any material in any Posting that is obscene, harassing, offensive, or 
+                                                                    otherwise objectionable and not in keeping with the community standards of the Web sites. 
+                                                                    If RealAge elects to edit any Postings, it nonetheless assumes no responsibility for 
+                                                                    the content of the Postings.  Under no circumstances will RealAge be liable for any 
+                                                                    inaccuracy or defect in any Postings. We also expect our users to adhere to certain 
+                                                                    rules of the road. Therefore, you agree not to post, e-mail, or otherwise make available 
+                                                                    Postings:<br>
+                                                                    <ul>
+                                                                        <li>that are unlawful, harmful, threatening, abusive, harassing, defamatory, 
+                                                                        pornographic, libelous, or invasive of another's privacy or harmful to minors 
+                                                                        in any way;</li>
+                                                                        <li>that harass, degrade, intimidate, or are hateful toward an individual or 
+                                                                        group of individuals on the basis of religion, gender, sexual orientation, 
+                                                                        race, ethnicity, age, or disability; </li>
+                                                                        <li>that include personal or identifying information about another person 
+                                                                        without that person's explicit consent; </li>
+                                                                        <li>that are false, deceptive, misleading, deceitful, misinformative, 
+                                                                        constitute "bait and switch," or impersonation of any person or entity;</li>
+                                                                        <li>that contain your own or a third party’s advertising, branding, or 
+                                                                        promotional content; </li>
+                                                                        <li>that infringe any proprietary rights, including copyright, of any party, 
+                                                                        or Postings that you do not have a right to make available;</li>
+                                                                        <li>that restrict or inhibit any other user from using and enjoying the RealAge 
+                                                                        sites or the RealAge services offered on them.</li>
+                                                                    </ul>
+                                                                    <br>
+                                                                    Because RealAge does not monitor the Postings, you agree to use and rely on them at your 
+                                                                    own risk. RealAge cannot make any representation or warranty about the material contained 
+                                                                    in the Postings. RealAge likewise assumes no responsibility for any contact you may have 
+                                                                    with other users of our sites, either online or offline. If you elect to meet in person 
+                                                                    with someone you may meet on our sites, you do so at your own risk, and under no 
+                                                                    circumstances will RealAge be liable for any activity or injury that may occur.
+																	<br><br>
 																	<b>Security of Your Personal Data</b>
 																	<br>
 																	RealAge is committed to protecting the security of your Personal Data. We use a 
@@ -443,7 +473,7 @@
 																	when collecting your credit card information for online purchases. To verify 
 																	that you have a secure server connection, look for the locked padlock symbol at 
 																	the bottom of your browser window or the HTMLS-code in the site 
-																	connection-identifier.
+																	connection identifier.
 																	<br><br>
 																	RealAge has implemented other industry-standard electronic means of protecting 
 																	your Personal Data. We store Personal Data behind a computer firewall, a 
@@ -462,8 +492,9 @@
 																	<br><br>
 																	<b>Questions Regarding This Privacy Statement</b>
 																	<br><br>
-																	<b>Contact Information</b> RealAge welcomes your comments or questions 
-																	regarding this Privacy Statement. Please e-mail us at: <a href="mailto:info@RealAge.com">
+																	<b>Contact Information</b><br>
+																	RealAge welcomes your comments or questions 
+																	regarding this Privacy Statement. Please e-mail us at <a href="mailto:info@RealAge.com">
 																		info@RealAge.com</a>.
 																	<br><br>
 																	For your information, RealAge is located at:
@@ -492,8 +523,8 @@
 																	changes in the way we collect, use, and/or share your Personal Data, we will 
 																	notify you by sending you an e-mail to the last e-mail address you provided to 
 																	us and/or by prominently posting notice of the changes on our site. Any 
-																	material changes to this Privacy Statement will be effective upon [the earlier 
-																	of] thirty (30) calendar days following our dispatch of an e-mail notice to you 
+																	material changes to this Privacy Statement will be effective upon the earlier 
+																	of thirty (30) calendar days following our dispatch of an e-mail notice to you 
 																	or thirty (30) calendar days following our posting of notice of the changes on 
 																	our site. These changes will be effective immediately for new users of our 
 																	services. Please note that at all times you are responsible for updating your 
@@ -508,24 +539,24 @@
 																	the effective date of the changes that you wish to deactivate your account with 
 																	us.
 																	<br><br>
-																	This Privacy Statement was last revised in February 2005.
+																	This Privacy Statement was last modified on April 10, 2008.
 																	<br><br>
 																	
 																		<a href="copyright.aspx" target="_top">View our Copyright, Patents, and Trademarks</a>.
 																		<br><br>
 																	
 																
-															</p></div>
-															
+															</div>
+															</div>
 															<!-- **************** -->
 															<!-- End Main Content -->
 															<!-- **************** -->															
-														</div></td>											
+														</td>											
 													</tr>
 												</tbody></table>												
 											</div>
 										</td>
-										<td valign="top"><img src="http://www.realage.com/App_Images/Corporate/Miscellaneous/right_corp.gif"></td>
+										<td valign="top"><img src="../App_Images/Corporate/Miscellaneous/right_corp.gif" border="0"></td>
 									</tr>
 								</tbody></table>								
 							</td>
@@ -544,13 +575,12 @@
 							</td>
 						</tr>
 					</tbody></table>							
+	            </form>	
 				</td>				
 			</tr>		
-				
 			<tr>
 				<td valign="bottom"><br><br></td>
 			</tr>
 		</tbody></table>
-		
 	
-<script type="text/javascript">Call_AJAX_Tracking('206,F',this,'');</script><script type="text/javascript">function CreateXmlHttp() {   var XmlHttp = null;   try {	    XmlHttp = new ActiveXObject('Msxml2.XMLHTTP');   }    catch (e) {	    try {		    XmlHttp = new ActiveXObject('Microsoft.XMLHTTP');	    } 	    catch (e) {		    try {			    XmlHttp = new XMLHttpRequest();		    }		    catch (e) {			    return null;		    }	    }   }   return XmlHttp;}var xmlTest = CreateXmlHttp();if (xmlTest == null || !(document.getElementById)) {	alert('For the best experience using RealAge, we recommend that you upgrade to the latest version of Safari, Mozilla, Firefox, or Netscape (Mac or PC), or Internet Explorer for PC.');}</script></body></html>
+</body></html>
