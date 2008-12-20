@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowtechmagazine.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614153141id_/http%3A//www.lowtechmagazine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowtechmagazine.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220133211id_/http%3A//www.lowtechmagazine.com/privacy.html) for the most accurate reproduction.*
 
 # Low-tech Magazine: Privacy
 
@@ -10,4 +10,4 @@ As with most other websites, we collect and use the data contained in log files.
 Cookies and Web Beacons  
 We also use third party advertisements on www.lowtechmagazine.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google **AdSense** program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing  New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.
