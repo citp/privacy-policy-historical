@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the environmental-expert.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624131306id_/http%3A//www.environmental-expert.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environmental-expert.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220172837id_/http%3A//www.environmental-expert.com/privacy.asp) for the most accurate reproduction.*
 
 # Environmental Expert.com. Privacy Policy
 
@@ -12,7 +12,7 @@ At times, Environmental Expert will ask you to provide us with personal contact 
 
 **User Registration**
 
-While you do not need to sign up to use Environmental Expert, we do need some information from you to access certain features of the site; you are asked for limited personal and demographic information and are required to choose a username and password that will be used to gain access on subsequent visits to Environmental Expert. This information will constitute your user profile. While most of the information we collect is used internally for site analysis and improvement, some of your information is used in compiling reports (see reporting) for the companies that list on our site. However, it is important to note that Environmental Expert will not disclose, without your consent, or associate with your site usage, any of your personal contact information.
+While you do not need to sign up to use Environmental Expert, we do need some information from you to access certain features of the site; you are asked for limited personal and demographic information and are required to choose a username and password that will be used to gain access on subsequent visits to Environmental Expert. This information will constitute your user profile. While most of the information we collect is used internally for site analysis and improvement, some of your information is used in compiling reports (see reporting) for the companies that list on our site. 
 
 You may edit or change your profile at any time by logging in.
 
@@ -24,7 +24,7 @@ If you have not registered as a user, we will not store any of the contact infor
 
 Environmental Expert users will be able to verify or change the information stored in their profile prior to sending the request. 
 
-Many of the suppliers listed on Environmental Expert will make additional information, such as brochures, videos, articles, etc. available to the users of Environmental Expert free of charge. Some of these suppliers may require your contact information in exchange for access to this information. Once information has been shared with the supplier, it is out of the control of Environmental Expert and subject to the privacy policy of that supplier. 
+Many of the suppliers listed on Environmental Expert will make additional information, such as brochures, videos, articles, web links, etc. available to the users of Environmental Expert free of charge. Some of these suppliers may require your contact information in exchange for access to this information. Once information has been shared with the supplier, it is out of the control of Environmental Expert and subject to the privacy policy of that supplier. 
 
 **E-mail Communications Policy**
 
@@ -66,4 +66,4 @@ Environmental Expert reserves the right to change this policy as required. Users
 
 **Contacting Environmental Expert**
 
-If you have any questions regarding this policy please [**contact us**](https://web.archive.org/web/20080624131306id_/http%3A//www.environmental-expert.com/contact_us.asp)
+If you have any questions regarding this policy please [**contact us**](https://web.archive.org/web/20081220172837id_/http%3A//www.environmental-expert.com/contact_us.asp)
