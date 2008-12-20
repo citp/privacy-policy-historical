@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the gooddata.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509041332id_/http%3A//gooddata.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gooddata.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220082049id_/http%3A//www.gooddata.com/privacy.html) for the most accurate reproduction.*
 
 # GoodData - Privacy Policy
 
-| 
+Your privacy is important to Good Data Corporation (“Good Data”). This Privacy Policy (the “Policy”) discloses our information practices, including our policies regarding the types of information that is gathered and tracked through our web sites, descriptions of how such information is used, and identification of the parties with whom the information may be shared. This Policy will be applicable to all Good Data web site upon which the policy is displayed (each, a “Good Data Site”).
+
+By voluntarily using a Good Data Site and/or providing data or other information via a Good Data Site, you are indicating your consent to this Policy and agreement to be bound by its terms. 
+
+## Information Collection and Use:
 
 ### Personal Information
 
