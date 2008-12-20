@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the proactiveinvestors.com.au privacy policy that was archived on 2008-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080629220319id_/http%3A//www.proactiveinvestors.com.au/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the proactiveinvestors.com.au privacy policy that was archived on 2008-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220201023id_/http%3A//www.proactiveinvestors.com.au/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,9 +10,31 @@
 	<link rel="stylesheet" type="text/css" href="/css/company_details/main.css">
 	<link rel="stylesheet" type="text/css" href="/css/company_news/2columns.css">
 	<link rel="stylesheet" type="text/css" href="/css/glider/featuredcontentglider.css">
-	<link rel="stylesheet" type="text/css" href="/css/glider/glider_medium.css"><script type="text/javascript" src="/js/ufo.js"></script><link type="application/rss+xml" href="http://www.proactiveinvestors.com.au/companies/rss/" rel="alternate" title="Proactiveinvestors RSS feed">
+	<link rel="stylesheet" type="text/css" href="/css/glider/glider_medium.css"><script type="text/javascript" src="/js/jquery-1.1.3.1.pack.js"></script><script type="text/javascript" src="/js/ufo.js"></script><link type="application/rss+xml" href="http://www.proactiveinvestors.com.au/companies/rss/" rel="alternate" title="Proactiveinvestors RSS feed">
 <link type="application/rss+xml" href="http://www.proactiveinvestors.com.au/companies/rss_short/" rel="alternate" title="Proactiveinvestors (In Brief) RSS feed">
 <title>Stock Market Quotes  Business News   Financial News investor  news  investors - Privacy</title>
+<script type="text/javascript">
+$(document).ready(function() {
+    $("#sector_select").hide();
+});
+
+$(function(){
+  $("input#epic").change(function(){
+    $("#sector_select").hide();
+    $("#search_keyword").show();
+  }),
+  $("input#company").change(function(){
+    $("#sector_select").hide();
+    $("#search_keyword").show();
+  }),
+  $("input#sector").change(function(){
+    $("#search_keyword").hide();
+    $("#sector_select").show();
+    $("#sector_select").load("/companies/list_sectors/", {});
+    //alert('Sector checked');
+  })
+})
+</script>
 <style type="text/css" media="screen">#global-nav {visibility:hidden;}</style><style type="text/css" media="screen">#flash-wrap_730x90 {visibility:hidden;}</style><style type="text/css" media="screen">#flash-wrap_250x250 {visibility:hidden;}</style><style type="text/css" media="screen">#flash-wrap_120x600 {visibility:hidden;}</style></head>
 <body>
 <script type="text/javascript" src="/js/glider.js"></script><!-- =wrap | start -->
@@ -24,14 +46,20 @@
   			<a href="/" style="Array"><img src="/img/logo_pai_australia.gif" alt="logo proactive australia"></a>  		</h1>
     </div>
     
-	<form action="http://www.proactiveinvestors.com.au/search/index" id="search-form" method="get" name="search-form">
-		
-  <label><input type="radio" name="radio" value="epic" id="epic">EPIC</label>
-  <label><input type="radio" name="radio" value="company" id="company">Company Name</label>
-  <label><input type="radio" name="radio" value="keyword" id="keyword" checked="checked">Keyword </label>
-  
-  <input type="text" name="keyword">
-  <input type="submit" value="Search" alt="search submit button">
+    <form action="http://www.proactiveinvestors.com.au/search/index" id="search-form" method="get" name="search-form">
+
+  <label>
+  <input type="radio" name="radio" value="epic" id="epic" checked="checked">
+  EPIC</label>
+  <label>
+  <input type="radio" name="radio" value="company" id="company">
+  Company Name</label>
+  <label>
+  <input type="radio" name="radio" value="sector" id="sector">
+  Sector </label>
+  <input id="search_keyword" type="text" name="keyword">
+  <span id="sector_select" style="display: none;"></span>
+        <input type="image" alt="search submit button" value="Submit" name="search-submit" src="/img/btn_ok_search.gif" class="button">
     </form>
 	
     <div id="header-branding"></div>
@@ -42,7 +70,7 @@
         You need the Flash Player version 8.0.0.0 or higher and a JavaScript enabled browser to view this content
       </div>
       <script type="text/javascript">
-			var FO = { movie:"http://www.proactiveinvestors.com.au/swf/f_global_nav_new.swf", width:"250", height:"104", majorversion:"8", build:"0", xi:"true" };
+			var FO = { movie:"http://www.proactiveinvestors.com.au/swf/AU_f_global_nav.swf", width:"250", height:"104", majorversion:"8", build:"0", xi:"true" };
 			UFO.create(FO, "global-nav");
 	  </script>
       <!-- =global-nav | end -->
@@ -100,61 +128,61 @@
         	<h3 class="clearfix"><a href="/companies/rss">RSS - Subscribe to the News</a><span>Editorial news ▼</span></h3> 
         <h5>Proactive Investors <em>Australia</em><a href="/companies/rss" alt="rss_icon" title="RSS - Subscribe to the News"><img src="/img/flag_pro_news_au.gif" alt=""></a></h5> 
         <!-- =pro-news-list | start --> 
-        <ul id="pro-news-latest-editorial-list" class="gcw"> 
-		  <li class="gc">
-      <span class="date">27/06/08</span>
+        <ul id="pro-news-latest-editorial-list" class="gcw" style=""> 
+		  <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">19/12/08</span>
     <h4>
-      <a href="/companies/news/192/gippsland-limited-appoints-senior-project-manager-0192.html" title="Gippsland Limited appoints Senior Project Manager">Gippsland Limited appoints Senior Project Manager</a>    </h4>
+      <a href="/companies/news/593/churchill-mining-sees-no-impact-from-indonesias-new-mining-law-0593.html" title="Churchill Mining Sees No Impact from Indonesia's New Mining Law">Churchill Mining Sees No Impact from Indonesia's New Mining Law</a>    </h4>
   </li>
-    <li class="gc">
-      <span class="date">25/06/08</span>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">19/12/08</span>
     <h4>
-      <a href="/companies/news/191/murchison-united-seals-uranium-alliance-with-areva-in-mauritania-0191.html" title="Murchison United seals uranium alliance with Areva in Mauritania">Murchison United seals uranium alliance with Areva in Mauritania</a>    </h4>
+      <a href="/companies/news/592/forte-energy-completes-2nd-share-issue-to-areva-0592.html" title="Forte Energy Completes 2nd Share Issue to Areva">Forte Energy Completes 2nd Share Issue to Areva</a>    </h4>
   </li>
-    <li class="gc">
-      <span class="date">24/06/08</span>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">19/12/08</span>
     <h4>
-      <a href="/companies/news/190/bannerman-completes-resource-drilling-at-goanikontes-uranium-project-0190.html" title="Bannerman completes resource drilling at Goanikontes Uranium Project">Bannerman completes resource drilling at Goanikontes Uranium Project</a>    </h4>
+      <a href="/companies/news/591/better-news-for-rusina-mining-at-acoje--0591.html" title="Better news for Rusina Mining at Acoje ">Better news for Rusina Mining at Acoje </a>    </h4>
   </li>
-    <li class="gc">
-      <span class="date">23/06/08</span>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">19/12/08</span>
     <h4>
-      <a href="/companies/news/188/xstrata-matches-counter-offer-for-indophil-resources--0188.html" title="Xstrata matches counter offer for Indophil Resources ">Xstrata matches counter offer for Indophil Resources </a>    </h4>
+      <a href="/companies/news/590/-bargain-hunters-scoop-up-aussie-banks-0590.html" title=" Bargain hunters scoop up Aussie banks"> Bargain hunters scoop up Aussie banks</a>    </h4>
   </li>
-    <li class="gc">
-      <span class="date">23/06/08</span>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">19/12/08</span>
     <h4>
-      <a href="/companies/news/187/churchill-moves-forward-coal-project-production-schedule--0187.html" title="Churchill moves forward coal project production schedule ">Churchill moves forward coal project production schedule </a>    </h4>
+      <a href="/companies/news/589/aed-oils-puffin-12-drilling-to-recommence-0589.html" title="AED Oil's Puffin-12 drilling to recommence">AED Oil's Puffin-12 drilling to recommence</a>    </h4>
   </li>
-    <li class="gc">
-      <span class="date">23/06/08</span>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">19/12/08</span>
     <h4>
-      <a href="/companies/news/186/elixir-completes-block-sl-4-seismic-acquisition--0186.html" title="Elixir completes Block SL-4 seismic acquisition ">Elixir completes Block SL-4 seismic acquisition </a>    </h4>
+      <a href="/companies/news/588/oz-minerals-closes-avebury-nickel-mine-0588.html" title="Oz Minerals closes Avebury nickel mine">Oz Minerals closes Avebury nickel mine</a>    </h4>
   </li>
-    <li class="gc">
-      <span class="date">23/06/08</span>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">19/12/08</span>
     <h4>
-      <a href="/companies/news/185/tianshan-goldfields-provides-operational-update-0185.html" title="Tianshan Goldfields provides operational update">Tianshan Goldfields provides operational update</a>    </h4>
+      <a href="/companies/news/587/lynas-corporation-on-target-with-mt-weld-rare-earths-0587.html" title="Lynas Corporation on target with Mt Weld Rare Earths">Lynas Corporation on target with Mt Weld Rare Earths</a>    </h4>
   </li>
-    <li class="gc">
-      <span class="date">23/06/08</span>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">19/12/08</span>
     <h4>
-      <a href="/companies/news/184/murchison-united-shares-halted-in-australia-pending-announcement-0184.html" title="Murchison United shares halted in Australia pending announcement">Murchison United shares halted in Australia pending announcement</a>    </h4>
+      <a href="/companies/news/586/manaccom-increases-profit-guidance-and-share-price-surges-0586.html" title="Manaccom increases profit guidance and share price surges">Manaccom increases profit guidance and share price surges</a>    </h4>
   </li>
-    <li class="gc">
-      <span class="date">20/06/08</span>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">18/12/08</span>
     <h4>
-      <a href="/companies/news/183/polo-increases-stake-in-caledon-to-24-percent--0183.html" title="Polo increases stake in Caledon to 24 percent  ">Polo increases stake in Caledon to 24 percent  </a>    </h4>
+      <a href="/companies/news/585/drilling-boosts-copper-grade-for-discovery-metals-boseto-project-0585.html" title="Drilling boosts copper grade for Discovery Metal's Boseto Project">Drilling boosts copper grade for Discovery Metal's Boseto Project</a>    </h4>
   </li>
-    <li class="gc">
-      <span class="date">19/06/08</span>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">18/12/08</span>
     <h4>
-      <a href="/companies/news/182/rio-tintos-strong-development-pipeline-impresses-0182.html" title="Rio Tinto's strong development pipeline impresses">Rio Tinto's strong development pipeline impresses</a>    </h4>
+      <a href="/companies/news/584/caledon-resources-retrenches-to-meet-downturn--0584.html" title="Caledon Resources retrenches to meet downturn ">Caledon Resources retrenches to meet downturn </a>    </h4>
   </li>
   </ul>
         <!-- =pro-news-pag | start --> 
-        <div id="pro-news-latest-editorial-pag" class="gct"> 
-          <a href="#" class="prev"><span>◄ prev</span></a> 
+        <div id="pro-news-latest-editorial-pag" class="gct" style="display: block; opacity: 0.592147;"> 
+          <a href="#" class="prev" buttontype="previous"><span>◄ prev</span></a> 
           <!--<a href="#" class="toc"><span>Page 1</span></a> <a href="#" class="toc"><span>Page 2</span></a> <a href="#" class="toc"><span>Page 3</span></a>--> 
           <a href="#" class="next"><span>next ►</span></a> 
         </div> 
@@ -167,51 +195,51 @@
 	<h3 class="clearfix"><a href="http://www.proactiveinvestors.co.uk/rss/rss.xml">RSS - Subscribe to the News</a><span>Editorial news ▼</span></h3> 
         <h5>Proactive Investors <em>United Kingdom</em><a href="http://www.proactiveinvestors.co.uk/rss/rss.xml"><img src="/img/flag_pro_news_uk.gif" alt="rss_icon"></a></h5> 
         <!-- =pro-news-list | start --> 
-        <ul id="pro-news-latest-uk-editorial-list" class="gcw"> 
-	  <li class="gc">
-                 <span class="date">29/06/08</span>     
-      <h4><a href="http://www.proactiveinvestors.co.uk/articles/art.php?PNG"> Persian Gold :    thinking big in Iran  </a></h4>
+        <ul id="pro-news-latest-uk-editorial-list" class="gcw" style=""> 
+	  <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+                 <span class="date">na/hi/ C</span>     
+      <h4><a href="http://www.proactiveinvestors.co.uk/companies/news/3831/medic-vision-wins-surgical-training-services-order-in-china--3831.html">Medic Vision wins surgical training services order in China </a></h4>
   </li>
-    <li class="gc">
-                 <span class="date">27/06/08</span>     
-      <h4><a href="http://www.proactiveinvestors.co.uk/articles/art.php?FDI2"> Firestone Diamonds :    starting to sparkle  </a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+                 <span class="date">ld/ie/ F</span>     
+      <h4><a href="http://www.proactiveinvestors.co.uk/companies/news/3833/mediterranean-oil-gas-submits-application-to-develop-ombrina-field--3833.html">Mediterranean Oil &amp; Gas submits application to develop Ombrina Field </a></h4>
   </li>
-    <li class="gc">
-                 <span class="date">27/06/08</span>     
-      <h4><a href="http://www.proactiveinvestors.co.uk/articles/art.php?KAH4"> Kalahari Minerals :    still offering plenty of value  </a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+                 <span class="date">st/co/l </span>     
+      <h4><a href="http://www.proactiveinvestors.co.uk/companies/news/3830/china-cuts-fuel-costs-3830.html">China cuts fuel costs</a></h4>
   </li>
-    <li class="gc">
-                 <span class="date">26/06/08</span>     
-      <h4><a href="http://www.proactiveinvestors.co.uk/articles/art.php?AAU5"> Ariana Resources :    Audio interview transcript  </a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+                 <span class="date">io/ll/mi</span>     
+      <h4><a href="http://www.proactiveinvestors.co.uk/companies/news/3834/eservglobal-still-expects-first-half-revenue-above-a80-million-3834.html">eServGlobal still expects first-half revenue above A$80 million</a></h4>
   </li>
-    <li class="gc">
-                 <span class="date">26/06/08</span>     
-      <h4><a href="http://www.proactiveinvestors.co.uk/articles/art.php?EUA2"> Eurasia Mining :    understated progress  </a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+                 <span class="date">ke/ta/ s</span>     
+      <h4><a href="http://www.proactiveinvestors.co.uk/companies/news/3832/gulfsands-petroleum-director-sajjad-raises-stake--3832.html">Gulfsands Petroleum director Sajjad raises stake </a></h4>
   </li>
-    <li class="gc">
-                 <span class="date">26/06/08</span>     
-      <h4><a href="http://www.proactiveinvestors.co.uk/articles/art.php?PFLM"> Powerfilm :    getting ready to shine  </a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+                 <span class="date">ut/So/l </span>     
+      <h4><a href="http://www.proactiveinvestors.co.uk/companies/news/3829/enegi-oil-completes-horizontal-well-at-garden-hill-south-3829.html">Enegi Oil completes horizontal well at Garden Hill South</a></h4>
   </li>
-    <li class="gc">
-                 <span class="date">25/06/08</span>     
-      <h4><a href="http://www.proactiveinvestors.co.uk/articles/art.php?ORM"> Ormonde Mining :    the comeback kid  </a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+                 <span class="date">ct/je/ro</span>     
+      <h4><a href="http://www.proactiveinvestors.co.uk/companies/news/3828/phaunos-timber-fund-invests-us99-million-in-biomass-energy-project--3828.html">Phaunos Timber Fund invests US$9.9 million in biomass energy project </a></h4>
   </li>
-    <li class="gc">
-                 <span class="date">24/06/08</span>     
-      <h4><a href="http://www.proactiveinvestors.co.uk/articles/art.php?ASP"> Ascribe :    finally set to deliver great expectations?  </a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+                 <span class="date">in/ l/in</span>     
+      <h4><a href="http://www.proactiveinvestors.co.uk/companies/news/3827/davis-service-group-sees-full-year-broadly-in-line-3827.html">Davis Service Group sees full-year broadly in line</a></h4>
   </li>
-    <li class="gc">
-                 <span class="date">22/06/08</span>     
-      <h4><a href="http://www.proactiveinvestors.co.uk/articles/art.php?IOF"> Iofina :    Gas, but with a twist  </a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+                 <span class="date">ea/-y/ll</span>     
+      <h4><a href="http://www.proactiveinvestors.co.uk/companies/news/3826/keller-says-strong-trading-continues-confident-for-excellent-full-year-3826.html">Keller says strong trading continues, confident for ‘excellent’ full-year</a></h4>
   </li>
-    <li class="gc">
-                 <span class="date">20/06/08</span>     
-      <h4><a href="http://www.proactiveinvestors.co.uk/articles/art.php?AEY"> Antrim Energy :    next phase of North Sea field development  </a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+                 <span class="date">La/g /in</span>     
+      <h4><a href="http://www.proactiveinvestors.co.uk/companies/news/3825/churchill-mining-sees-no-impact-from-indonesias-new-mining-law-3825.html">Churchill Mining sees no impact from Indonesia's New Mining Law</a></h4>
   </li>
   </ul>
         <!-- =pro-news-pag | start --> 
-        <div id="pro-news-latest-uk-editorial-pag" class="gct"> 
-          <a href="#" class="prev"><span>◄ prev</span></a> 
+        <div id="pro-news-latest-uk-editorial-pag" class="gct" style="display: block; opacity: 0.582868;"> 
+          <a href="#" class="prev" buttontype="previous"><span>◄ prev</span></a> 
           <!--<a href="#" class="toc"><span>Page 1</span></a> <a href="#" class="toc"><span>Page 2</span></a> <a href="#" class="toc"><span>Page 3</span></a>--> 
           <a href="#" class="next"><span>next ►</span></a> 
         </div> 
@@ -222,51 +250,51 @@
 	<h3 class="clearfix"><a href="http://www.proactiveinvestors.co.uk/rss/brief/proactiveinbrief.xml">RSS - Subscribe to the News</a><span>Breaking news ▼</span></h3> 
         <h5>Proactive Investors <em>United Kingdom</em><a href="http://www.proactiveinvestors.co.uk/rss/brief/proactiveinbrief.xml"><img src="/img/flag_pro_news_uk.gif" alt="rss_icon"></a></h5> 
         <!-- =pro-news-list | start --> 
-        <ul id="pro-news-latest-uk-brief-list" class="gcw"> 
-	  <li class="gc">
-      <span class="date">28/06/08</span>
-      <h4><a href="http://www.proactiveinvestors.co.uk/blog/index.php?entry=entry080627-175528"> Braemore Resources to raise �7 million</a></h4>
+        <ul id="pro-news-latest-uk-brief-list" class="gcw" style=""> 
+	  <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">19/12/08</span>
+      <h4><a href="http://www.proactiveinvestors.co.uk/companies/news/3831/medic-vision-wins-surgical-training-services-order-in-china--3831.html">Medic Vision wins surgical training services order in China </a></h4>
   </li>
-    <li class="gc">
-      <span class="date">28/06/08</span>
-      <h4><a href="http://www.proactiveinvestors.co.uk/blog/index.php?entry=entry080627-151941"> Kryso Resources confident of adding ounces at Pakrut</a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">19/12/08</span>
+      <h4><a href="http://www.proactiveinvestors.co.uk/companies/news/3833/mediterranean-oil-gas-submits-application-to-develop-ombrina-field--3833.html">Mediterranean Oil &amp; Gas submits application to develop Ombrina Field </a></h4>
   </li>
-    <li class="gc">
-      <span class="date">27/06/08</span>
-      <h4><a href="http://www.proactiveinvestors.co.uk/blog/index.php?entry=entry080627-092719"> Alizyme licences Colal-Pred to Norgine</a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">19/12/08</span>
+      <h4><a href="http://www.proactiveinvestors.co.uk/companies/news/3830/china-cuts-fuel-costs-3830.html">China cuts fuel costs</a></h4>
   </li>
-    <li class="gc">
-      <span class="date">27/06/08</span>
-      <h4><a href="http://www.proactiveinvestors.co.uk/blog/index.php?entry=entry080627-090624"> Global Oceanic Carriers accepts 170p cash offer</a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">19/12/08</span>
+      <h4><a href="http://www.proactiveinvestors.co.uk/companies/news/3834/eservglobal-still-expects-first-half-revenue-above-a80-million-3834.html">eServGlobal still expects first-half revenue above A$80 million</a></h4>
   </li>
-    <li class="gc">
-      <span class="date">27/06/08</span>
-      <h4><a href="http://www.proactiveinvestors.co.uk/blog/index.php?entry=entry080627-090158"> Gippsland appoints senior project coordinator</a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">19/12/08</span>
+      <h4><a href="http://www.proactiveinvestors.co.uk/companies/news/3832/gulfsands-petroleum-director-sajjad-raises-stake--3832.html">Gulfsands Petroleum director Sajjad raises stake </a></h4>
   </li>
-    <li class="gc">
-      <span class="date">26/06/08</span>
-      <h4><a href="http://www.proactiveinvestors.co.uk/blog/index.php?entry=entry080626-080500"> Leyshon receives Environmental Approval for gold project</a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">19/12/08</span>
+      <h4><a href="http://www.proactiveinvestors.co.uk/companies/news/3829/enegi-oil-completes-horizontal-well-at-garden-hill-south-3829.html">Enegi Oil completes horizontal well at Garden Hill South</a></h4>
   </li>
-    <li class="gc">
-      <span class="date">26/06/08</span>
-      <h4><a href="http://www.proactiveinvestors.co.uk/blog/index.php?entry=entry080626-075757"> Persian Gold begins drilling at Dalli copper-gold project</a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">19/12/08</span>
+      <h4><a href="http://www.proactiveinvestors.co.uk/companies/news/3828/phaunos-timber-fund-invests-us99-million-in-biomass-energy-project--3828.html">Phaunos Timber Fund invests US$9.9 million in biomass energy project </a></h4>
   </li>
-    <li class="gc">
-      <span class="date">26/06/08</span>
-      <h4><a href="http://www.proactiveinvestors.co.uk/blog/index.php?entry=entry080625-204647"> Med Oil &amp; Gas Chairman ups stake in company again</a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">19/12/08</span>
+      <h4><a href="http://www.proactiveinvestors.co.uk/companies/news/3827/davis-service-group-sees-full-year-broadly-in-line-3827.html">Davis Service Group sees full-year broadly in line</a></h4>
   </li>
-    <li class="gc">
-      <span class="date">25/06/08</span>
-      <h4><a href="http://www.proactiveinvestors.co.uk/blog/index.php?entry=entry080625-102312"> Rurelec completes acquisition of EDS</a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">19/12/08</span>
+      <h4><a href="http://www.proactiveinvestors.co.uk/companies/news/3826/keller-says-strong-trading-continues-confident-for-excellent-full-year-3826.html">Keller says strong trading continues, confident for ‘excellent’ full-year</a></h4>
   </li>
-    <li class="gc">
-      <span class="date">25/06/08</span>
-      <h4><a href="http://www.proactiveinvestors.co.uk/blog/index.php?entry=entry080625-083727"> Murchison seals alliance with Areva in Mauritania</a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">19/12/08</span>
+      <h4><a href="http://www.proactiveinvestors.co.uk/companies/news/3825/churchill-mining-sees-no-impact-from-indonesias-new-mining-law-3825.html">Churchill Mining sees no impact from Indonesia's New Mining Law</a></h4>
   </li>
   </ul>
         <!-- =pro-news-pag | start --> 
-        <div id="pro-news-latest-uk-brief-pag" class="gct"> 
-          <a href="#" class="prev"><span>◄ prev</span></a> 
+        <div id="pro-news-latest-uk-brief-pag" class="gct" style="display: block; opacity: 0.587512;"> 
+          <a href="#" class="prev" buttontype="previous"><span>◄ prev</span></a> 
           <!--<a href="#" class="toc"><span>Page 1</span></a> <a href="#" class="toc"><span>Page 2</span></a> <a href="#" class="toc"><span>Page 3</span></a>--> 
           <a href="#" class="next"><span>next ►</span></a> 
         </div> 
@@ -276,51 +304,51 @@
       		<h3 class="clearfix"><a href="http://www.proactiveinvestors.com/companies/rss">RSS - Subscribe to the News</a><span>Editorial news ▼</span></h3> 
         <h5>Proactive Investors <em>North America</em><a href="http://www.proactiveinvestors.com/companies/rss"><img src="/img/flag_pro_news_na.gif" alt="rss_icon"></a></h5> 
         <!-- =pro-news-list | start --> 
-        <ul id="pro-news-latest-na-list" class="gcw"> 
-		  <li class="gc">
-      <span class="date">28/06/08</span>
-      <h4><a href="http://www.proactiveinvestors.com/companies/news/601/yukon-nevada-gold-corp-moves-forward-on-its-expansion-plan-0601.html">Yukon-Nevada Gold Corp moves forward on its expansion plan</a></h4>
+        <ul id="pro-news-latest-na-list" class="gcw" style=""> 
+		  <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">20/12/08</span>
+      <h4><a href="http://www.proactiveinvestors.com/companies/news/805/president-bush-throws-a-life-line-and-mixed-fortunes-in-north-american-markets--0805.html">President Bush throws a life line and mixed fortunes in North American Markets </a></h4>
   </li>
-    <li class="gc">
-      <span class="date">27/06/08</span>
-      <h4><a href="http://www.proactiveinvestors.com/companies/news/599/mindoro-resources-updates-on-agata-north-nickel-laterite-project-0599.html">Mindoro Resources updates on Agata North Nickel Laterite Project</a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">19/12/08</span>
+      <h4><a href="http://www.proactiveinvestors.com/companies/news/804/rocky-road-ahead-as-global-economy-falters-and-commodity-prices-slide-rbc-report-0804.html">Rocky road ahead as global economy falters and commodity prices slide – RBC report</a></h4>
   </li>
-    <li class="gc">
-      <span class="date">26/06/08</span>
-      <h4><a href="http://www.proactiveinvestors.com/companies/news/594/el-nio-ventures-says-drilling-in-drc-on-schedule-0594.html">El Niño Ventures says drilling in DRC on schedule</a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">19/12/08</span>
+      <h4><a href="http://www.proactiveinvestors.com/companies/news/803/aldridge-minerals-to-buy-valhalla-resources-and-its-exploration-portfolio-in-turkey-and-romania-0803.html">Aldridge Minerals to buy Valhalla Resources and its exploration portfolio in Turkey and Romania</a></h4>
   </li>
-    <li class="gc">
-      <span class="date">25/06/08</span>
-      <h4><a href="http://www.proactiveinvestors.com/companies/news/596/columbia-yukon-explorations-continues-to-drill-long-intersections-of-moly-mineralization-at-storie-property--0596.html">Columbia Yukon Explorations Continues to Drill Long Intersections of Moly Mineralization at Storie Property </a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">19/12/08</span>
+      <h4><a href="http://www.proactiveinvestors.com/companies/news/802/pacific-north-west-options-nixon-fork-gold-mine-assets-0802.html">Pacific North West options Nixon Fork Gold Mine assets</a></h4>
   </li>
-    <li class="gc">
-      <span class="date">24/06/08</span>
-      <h4><a href="http://www.proactiveinvestors.com/companies/news/592/gravity-west-resources-acquires-iron-titanium-project-in-quebec-0592.html">Gravity West Resources acquires Iron Titanium Project in Quebec</a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">19/12/08</span>
+      <h4><a href="http://www.proactiveinvestors.com/companies/news/801/forum-uranium-raises-cdn500000-in-private-placement-0801.html">Forum Uranium raises CDN$500,000 in private placement</a></h4>
   </li>
-    <li class="gc">
-      <span class="date">24/06/08</span>
-      <h4><a href="http://www.proactiveinvestors.com/companies/news/590/keegan-resources-continues-to-hit-excellent-gold-intersects-in-ghana-0590.html">Keegan Resources continues to hit excellent gold intersects in Ghana</a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">19/12/08</span>
+      <h4><a href="http://www.proactiveinvestors.com/companies/news/800/automaker-woes-and-the-pgm-sector--0800.html">Automaker woes and the PGM sector </a></h4>
   </li>
-    <li class="gc">
-      <span class="date">23/06/08</span>
-      <h4><a href="http://www.proactiveinvestors.com/companies/news/588/gammon-gold-increases-production-and-cash-flow-forecasts-0588.html">Gammon Gold increases production and cash flow forecasts</a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">19/12/08</span>
+      <h4><a href="http://www.proactiveinvestors.com/companies/news/799/economic-worries-take-a-toll-on-north-american-markets--0799.html">Economic worries take a toll on North American Markets </a></h4>
   </li>
-    <li class="gc">
-      <span class="date">23/06/08</span>
-      <h4><a href="http://www.proactiveinvestors.com/companies/news/575/bunge-to-acquire-corn-products-international-in-all-share-deal-0575.html">Bunge to acquire Corn Products International in all share deal</a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">18/12/08</span>
+      <h4><a href="http://www.proactiveinvestors.com/companies/news/798/adventure-gold-starts-drill-program-at-lapaska-gold-property-0798.html">Adventure Gold starts drill program at Lapaska Gold Property</a></h4>
   </li>
-    <li class="gc">
-      <span class="date">23/06/08</span>
-      <h4><a href="http://www.proactiveinvestors.com/companies/news/573/skye-resources-accepts-hudbay-minerals-all-share-offer-0573.html">Skye Resources accepts HudBay Minerals all share offer</a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">18/12/08</span>
+      <h4><a href="http://www.proactiveinvestors.com/companies/news/797/romios-gold-finds-new-mineralised-outcrop-at-trek-property--0797.html">Romios Gold finds new mineralised outcrop at Trek property </a></h4>
   </li>
-    <li class="gc">
-      <span class="date">20/06/08</span>
-      <h4><a href="http://www.proactiveinvestors.com/companies/news/556/royal-bank-of-canada-completes-acquisition-of-us-wealth-management-company-0556.html">Royal Bank of Canada completes acquisition of US wealth management company</a></h4>
+    <li class="gc" style="left: -248px; height: 80px; visibility: visible;">
+      <span class="date">18/12/08</span>
+      <h4><a href="http://www.proactiveinvestors.com/companies/news/796/richards-oil-gas-starts-production-at-thorsby-property-0796.html">Richards Oil &amp; Gas starts production at Thorsby property</a></h4>
   </li>
   </ul>
         <!-- =pro-news-pag | start --> 
-        <div id="pro-news-latest-na-pag" class="gct"> 
-          <a href="#" class="prev"><span>◄ prev</span></a> 
+        <div id="pro-news-latest-na-pag" class="gct" style="display: block; opacity: 0.579768;"> 
+          <a href="#" class="prev" buttontype="previous"><span>◄ prev</span></a> 
           <!--<a href="#" class="toc"><span>Page 1</span></a> <a href="#" class="toc"><span>Page 2</span></a> <a href="#" class="toc"><span>Page 3</span></a>--> 
           <a href="#" class="next"><span>next ►</span></a> 
         </div> 
@@ -418,7 +446,8 @@
         <a href="/pages/terms">Terms &amp; Conditions</a> 
         | 
         <a href="/pages/copyright">Copyright Info</a>      </p>
-  	</div>
+<p>Proactiveinvestors is a leading global source of financial news, stock market news, business financial news, company data, comment and analysis with a particular emphasis on mining news and oil and gas news.</p>
+</div>
     <!-- =copyright | end -->
   </div>
   <!-- =footer | end -->
@@ -431,4 +460,4 @@
 </script>
 
 
-<!-- 0.5935s --></body></html>
+<!-- 0.5511s --></body></html>
