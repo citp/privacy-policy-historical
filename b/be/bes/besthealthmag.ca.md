@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the besthealthmag.ca privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601081449id_/http%3A//www.besthealthmag.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besthealthmag.ca privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220154631id_/http%3A//www.besthealthmag.ca/privacy) for the most accurate reproduction.*
 
 # Privacy | Best Health - Live Better. Feel Great.
 
@@ -68,7 +68,7 @@ Server logs capture certain non-personally identifying data, such as the time an
 
 By using this site, you signify your agreement to the terms and conditions of the Privacy Policy. If you do not agree with this policy, please do not use this site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at anytime. Please check this page periodically for any changes. Your continued use of our web sites following the posting of any changes to these terms shall mean that you have accepted those changes. 
 
-[ ](https://secure.readersdigest.ca/eng/mag_sub_homepage_bh.php?partner=homepage_bh_sub_form)
+[ ](https://secure.readersdigest.ca/eng/best_health_gift_subs.php?partner=homepage_bh_gift)
 
 * * *
 
