@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raveaboutit.com.au privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430013753id_/http%3A//www.raveaboutit.com.au/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raveaboutit.com.au privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220201117id_/http%3A//www.raveaboutit.com.au/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Local Business Reviews - Rave About It - Privacy Statement
 
@@ -84,4 +84,4 @@ We appreciate and will consider any comments you may have on our Site, the Softw
 
 Rave About It does not wish to receive any submission that is confidential or proprietary. You agree not to post or otherwise provide any submission that you consider confidential or proprietary, and any submissions you post will be deemed and treated as non-confidential and non-proprietary. In addition, do not post any Submissions that you do not want to assign to Rave About It. No compensation will be paid or is due with respect to the assignment or use of your Submission, as provided herein. Rave About It is under no obligation to post or use any Submission you may provide. By Posting a Submission you warrant and represent that you own or otherwise control all of the rights to your Submission including, without limitation, all the rights necessary for you to assign, provide, post, upload, input or submit the Submission.
 
-| 
+[](http://www.raveleads.com/)
