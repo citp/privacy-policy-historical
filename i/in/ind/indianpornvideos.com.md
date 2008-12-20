@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the indianpornvideos.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410035758id_/http%3A//indianpornvideos.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianpornvideos.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221002809id_/http%3A//indianpornvideos.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Indian Porn Videos - Privacy Policy
 
-| [HOME](http://indianpornvideos.com/index.php) | [UPLOAD](http://indianpornvideos.com/upload.php) | [WATCH](http://indianpornvideos.com/recent/) | [TAGS](http://indianpornvideos.com/tags.php) | [CHANNELS](http://indianpornvideos.com/channels.php) | [GROUPS](http://indianpornvideos.com/groups.php) | [FRIENDS](http://indianpornvideos.com/friends.php)  
----|---|---|---|---|---|---  
+| [HOME](http://indianpornvideos.com/index.php) | [UPLOAD](http://indianpornvideos.com/upload.php) | [WATCH](http://indianpornvideos.com/recent/) | [TAGS](http://indianpornvideos.com/tags.php) | [CHANNELS](http://indianpornvideos.com/channels.php) | [GROUPS](http://indianpornvideos.com/groups.php)  
+---|---|---|---|---|---  
   
 
 
