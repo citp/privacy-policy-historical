@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gm-volt.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614084212id_/http%3A//gm-volt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gm-volt.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220011950id_/http%3A//gm-volt.com/privacy-policy) for the most accurate reproduction.*
 
-# GM-VOLT : Chevy Volt Electric Car Site » Privacy Policy
+# Privacy Policy | GM-VOLT : Chevy Volt Electric Car Site
 
 This is the web site of **GM-Volt.com** and is wholly owned and operated by Lyle J. Dennis, M.D.  
 We can be reached via e-mail at chevyvolt AT gmail DOT com .  
