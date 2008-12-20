@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ourlads.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611232526id_/http%3A//ourlads.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourlads.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220021934id_/http%3A//www.ourlads.com/privacy.cfm) for the most accurate reproduction.*
 
-# 2008 NFL Draft - 2008 NFL Mock Draft from Ourlads Scouting Services
+# 2009 NFL Draft - 2009 NFL Mock Draft from Ourlads Scouting Services
 
 Online Privacy Policy
 
