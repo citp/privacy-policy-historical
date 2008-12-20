@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hockeygiant.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614093540id_/http%3A//www.hockeygiant.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeygiant.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220173915id_/http%3A//www.hockeygiant.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
-
-|  | 
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._HockeyGiant.com's Privacy Policy
 
@@ -20,11 +18,14 @@ Our Privacy Policy covers how HockeyGiant treats personal information that we co
 
 **More About Yahoo Privacy**
 
-Both _Yahoo!_ and _Yahoo!_ Shopping are **Trust e** certified licensees of the **Trust e** Privacy Seal Program, which means that to demonstrate their commitment to your privacy, they have agreed to notify you of their privacy practices regarding your information.  _Yahoo!_ Privacy Policies are comprehensive and cover such matters as information collection and use, children, information sharing and disclosure, cookies, account information and preferences, and more.Hockey Giant  
+Both _Yahoo!_ and _Yahoo!_ Shopping are **Trust e** certified licensees of the **Trust e** Privacy Seal Program, which means that to demonstrate their commitment to your privacy, they have agreed to notify you of their privacy practices regarding your information.  _Yahoo!_ Privacy Policies are comprehensive and cover such matters as information collection and use, children, information sharing and disclosure, cookies, account information and preferences, and more.
+
+ **Third-Party Web Beacons:**  
+We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
+
+Hockey Giant  
 5928 Farnsworth Ct.  
 Carlsbad CA, 92008  
 1 800 633 5999Copyright © 2000, 2003 SportsGiant, LLC. All Rights Reserved.  
 HockeyGiant™, HockeyGiant.com™, LacrosseGiant™, HomerunGiant™, and SportsGiant™  
-are operated by and are trademarks of SportsGiant LLC.  
-  
----|---
+are operated by and are trademarks of SportsGiant LLC.
