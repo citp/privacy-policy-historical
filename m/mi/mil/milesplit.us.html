@@ -1,242 +1,377 @@
-<!--The following is the downloaded HTML source of the milesplit.us privacy policy that was archived on 2007-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211040700id_/http%3A//www.milesplit.us/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the milesplit.us privacy policy that was archived on 2008-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220171224id_/http%3A//www.milesplit.us/help/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<title>Mile Split Network - Privacy Policy</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots>" content="">
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="refresh" content="12000">
 
-	<title>Mile Split Network - Privacy Policy</title>
-	
-			
-		<link rel="stylesheet" type="text/css" media="screen, projection, tv" href="/css/network.css">
-		<link rel="stylesheet" type="text/css" media="screen, projection, tv" href="/css/dropdown.css">
-		<link rel="stylesheet" type="text/css" media="all" href="/css/help.css">
-			<link rel="stylesheet" type="text/css" media="screen, projection, tv" href="/css/milesplit.css">
-		<link rel="stylesheet" type="text/css" media="print" href="http://www.milesplit.com/_common/css/print.css">
-	<link rel="stylesheet" type="text/css" media="handheld" href="http://www.milesplit.com/_common/css/handheld.css">
-	
-		
+<link rel="stylesheet" type="text/css" media="screen, projection, tv" href="http://www.milesplit.us/css/20087/network.css">
+<link rel="stylesheet" type="text/css" media="handheld" href="http://www.milesplit.us/css/20087/handheld.css">
+<link rel="stylesheet" type="text/css" media="all" href="http://www.milesplit.us/css/dialog.css">
+<link rel="stylesheet" type="text/css" media="all" href="/css/help.css">
+<link rel="stylesheet" type="text/css" media="screen, projection, tv" href="/assets/usa/usa.css">
 
-					<script language="JavaScript" src="/js/general.js"></script>
-							<script language="JavaScript" src="http://www.milesplit.com/_common/js/dropdown.js"></script>
-				
-	
-	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
-	<meta http-equiv="refresh" content="12000">
+<link rel="apple-touch-icon" href="http://www.milesplit.us/images/milesplit-iphone.png">
+<link rel="shortcut icon" href="http://www.milesplit.us/images/milesplitshortcut.png">
 
-	
-	<script language="JavaScript">
-		<!--
-		var ord = Math.random()*10000000000000000;
-		var tile=1;
-		-->
-	</script>
-	
-	<script language="JavaScript">
-		<!--
-		function ExecuteSearch() {
-			var elterm = document.getElementById('searchterm');
-			var elquery = document.getElementById('searchquery');
-			var query = elquery.options[elquery.selectedIndex].value;
-			var term = elterm.value.replace(' ', '_');
-			if (term != '') {
-				document.location = '/search/' + query + '/' + term;	
-			}
+<script language="JavaScript" src="http://www.milesplit.us/js/prototype/prototype.js"></script>
+<script language="JavaScript" src="http://www.milesplit.us/js/scriptaculous/scriptaculous.js?load=effects,builder"></script>
+<script language="JavaScript" src="http://www.milesplit.us/js/milesplit.main.js"></script>
+<script language="JavaScript" src="http://www.milesplit.us/js/rounded.js"></script>
+<script type="text/javascript">
+   <!--//--><![CDATA[//><!--
+    activateMenu = function(nav, width, top, left) {
+	    if (window.opera || document.all) {
+		    $(nav).observe('mouseover', function() {
+			    var me = this.down('div.dropdown');
+			    me.style.display = 'block';
+			    me.absolutize();
+			    me.style.position = 'absolute';
+			    if (!window.opera) {
+				    me.style.width = width;
+				    me.style.top = top;
+				    if (left) me.style.left = left;
+				    else me.style.left = 'auto';
+			    }
+			});
+			$(nav).observe('mouseout', function() {
+				var me = this.down('div.dropdown');
+				me.style.display = 'none';
+			});
+        }
+    }
+    Event.observe(window, 'load', function() {
+	    // Get sizes
+	    var user = $('user').cumulativeOffset();
+	    // Dropdowns
+	    activateMenu('flag', 600, 140);
+	    activateMenu('user', 370, 140, user.left + 15);
+	    var menus = $('navbar').getElementsByClassName('dropdown');
+	    for (i=0; i < menus.length; i++) {
+			li = menus[i].up('li');
+			lidim = li.cumulativeOffset();
+			activateMenu(li.identify(), 175, lidim.top + 39, lidim.left + 15);
+	    }
+	    // Search
+	    $('searchbox').observe('focus', function() {
+		   	 $('searchbox').value = '';
+	    });
+	    $('searchbox').observe('blur', function() {
+		    if ($('searchbox').value == '') {
+			   	 $('searchbox').value = 'Search MileSplit...';
+		   	 }
+	    });
+		// Round corners
+		Rounded($$('#sitebar div.lining div.bumper'), 5, 5, 0, 0);
+    });
+   //--><!]]>
+</script>
+<script language="JavaScript">
+	<!--
+	function ExecuteSearch() {
+		var elterm = $('searchbox');
+		var term = elterm.value.replace(' ', '_');
+		if (term != '' && term != 'Search_MileSplit...') {
+			document.location = '/search/' + term;	
+		}
+		return false;
+	}
+	function SearchKeyPress(e) {
+		var key;
+		if (window.event) key = window.event.keyCode; // IE
+		else key = e.which; // FF
+		if (key == 13) { // Enter key pressed
+			ExecuteSearch();
 			return false;
+		} else {
+			return true;	
 		}
-		function SearchKeyPress(e) {
-			var key;
-			if (window.event) key = window.event.keyCode; // IE
-			else key = e.which; // FF
-			if (key == 13) { // Enter key pressed
-				ExecuteSearch();
-				return false;
-			} else {
-				return true;	
-			}
-		}
-		-->
-	</script>
-	
+	}
+	-->
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">
+	_qacct="p-44piXe9gY_gqg";quantserve();
+</script>
+<noscript>
+<a href="http://www.quantcast.com/p-44piXe9gY_gqg" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-44piXe9gY_gqg.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-2658534230977335");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+  GA_googleAddSlot("ca-pub-2658534230977335", "SecondBTF300x250");
+</script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script>
 </head>
+<body id="help">
 
-<body id="help"><a name="top"></a>
-	
-<div id="buffer">&nbsp;</div>
-<div id="milesplit"><div class="inner">
-	<table>
-		<tbody><tr>
-			<td id="explore">
-				<form>
-				<strong>State:</strong>
-				<select onchange="location='http://' + this.options[this.selectedIndex].value + '.milesplit.us'">
-					<option value="www">-United States-</option>
-					<option value="AL">Alabama</option>
-					<option value="AK">Alaska</option>
-					<option value="AZ">Arizona</option>
-					<option value="AR">Arkansas</option>
-					<option value="CA">California</option>
-					<option value="CO">Colorado</option>
-					<option value="CT">Connecticut</option>
-					<option value="DE">Delaware</option>
-					<option value="DC">District of Columbia</option>
-					<option value="FL">Florida</option>
-					<option value="GA">Georgia</option>
-					<option value="HI">Hawaii</option>
-					<option value="ID">Idaho</option>
-					<option value="IL">Illinois</option>
-					<option value="IN">Indiana</option>
-					<option value="IA">Iowa</option>
-					<option value="KS">Kansas</option>
-					<option value="KY">Kentucky</option>
-					<option value="LA">Louisiana</option>
-					<option value="ME">Maine</option>
-					<option value="MD">Maryland</option>
-					<option value="MA">Massachusetts</option>
-					<option value="MI">Michigan</option>
-					<option value="MN">Minnesota</option>
-					<option value="MS">Mississippi</option>
-					<option value="MO">Missouri</option>
-					<option value="MT">Montana</option>
-					<option value="NE">Nebraska</option>
-					<option value="NV">Nevada</option>
-					<option value="NH">New Hampshire</option>
-					<option value="NJ">New Jersey</option>
-					<option value="NM">New Mexico</option>
-					<option value="NY">New York</option>
-					<option value="NC">North Carolina</option>
-					<option value="ND">North Dakota</option>
-					<option value="OH">Ohio</option>
-					<option value="OK">Oklahoma</option>
-					<option value="OR">Oregon</option>
-					<option value="PA">Pennsylvania</option>
-					<option value="RI">Rhode Island</option>
-					<option value="SC">South Carolina</option>
-					<option value="SD">South Dakota</option>
-					<option value="TN">Tennessee</option>
-					<option value="TX">Texas</option>
-					<option value="UT">Utah</option>
-					<option value="VT">Vermont</option>
-					<option value="VA">Virginia</option>
-					<option value="WA">Washington</option>
-					<option value="WV">West Virginia</option>
-					<option value="WI">Wisconsin</option>
-					<option value="WY">Wyoming</option>
-				</select>
+<div id="container">
+
+	<div id="wrapper">
+		
+		<div id="adbar"><div class="lining"><div class="bumper">
+			<div class="leaderboard"><script type="text/javascript" language="JavaScript"><!--//--><![CDATA[//><!--
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/jtvs.23000.universalsports/partner/milesplitus/;tile=1;dcopt=ist;sz=728x90;ord=868557?"><\/script>');
+
+//--><!]]></script><script type="text/javascript" src="http://ad.doubleclick.net/adj/jtvs.23000.universalsports/partner/milesplitus/;tile=1;dcopt=ist;sz=728x90;ord=868557?"></script><noscript><a href="http://ad.doubleclick.net/jump/jtvs.23000.universalsports/partner/milesplitus/;pos=;tile=1;sz=728x90;ord=868557?" target="_blank"><img src="http://ad.doubleclick.net/ad/jtvs.23000.universalsports/partner/milesplitus/;pos=;tile=1;sz=728x90;ord=868557?" border="0" alt="" /></a></noscript></div>
+			<div class="search">
+				<div class="partner"><a href="/click/48" title="Universal Sports" target="_new" style=""><img src="http://www.milesplit.us/files/usa/ads/universal-122008.jpg" width="200" height="63"></a></div>
+				<form action="/search" onsubmit="return ExecuteSearch()">
+				<input id="searchbox" class="textbox" name="q" type="text" value="Search MileSplit..." onkeypress="return SearchKeyPress(event)">
+				<button type="submit" value="Go">Go</button>
 				</form>
-			</td>
-			<td id="search">
-				<form onsubmit="return ExecuteSearch()">
-				<strong>Search:</strong>
-				<input type="text" name="term" id="searchterm" onkeypress="return SearchKeyPress(event)">
-				<select name="query" id="searchquery" onkeypress="return SearchKeyPress(event)">
-					<option value="athletes">Athletes</option>
-					<option value="teams">Teams</option>
-					<option value="meets">Meets</option>
-					<option value="articles">Articles</option>
-				</select>
-				<input type="submit" value="Go">
-				</form>
-			</td>
-			<td id="poweredby">
-				<strong>Powered By:</strong>
-				<a href="http://www.milesplit.us"><img src="/images/logos/MS_power.gif" width="130" height="30" border="0" align="absmiddle"></a>
-			</td>
-		</tr>
-	</tbody></table>
-</div></div>
-	
-<div id="header"><div class="inner">
-	<table>
-		<tbody><tr>
-			<td>
-				<div id="sitelogo" class="image link" onclick="document.location='/'" title="Mile Split Network"></div>
-			</td>
-			<td>
-							
-			</td>
-						<td id="notloggedin">
-				<form method="POST">
-								<strong>You are not logged in.</strong>
-				<table><tbody><tr><td style="padding: 0px; width: 180px">
-				<table>
+			</div>
+		</div></div></div>
+		
+		<div id="networkbar"><div class="lining"><div class="bumper">
+			<div id="flag">
+				<div class="motto"><a href="http://www.milesplit.us">THE NATION'S PREMIER HIGH SCHOOL T&amp;F/XC NETWORK</a></div>
+				<div class="dropdown">
+					<table style="with: 100%"><tbody><tr valign="top"><td style="padding-right: 10px;">
+						<strong>MileSplit US - Highlighted Features</strong>
+						<p>
+							<a href="http://USA.milesplit.mobi"><img src="http://www.milesplit.us/images/logos/msmobile.png" align="left" hspace="5"></a>
+							<b><a href="http://USA.milesplit.mobi">MileSplit for Mobile</a></b><br>
+							Access MileSplit on your smart phone at <a href="http://USA.milesplit.mobi">milesplit.mobi</a>
+						</p>
+						<p>
+							<b><a href="http://www.racetab.us">RaceTab Meet Manager</a></b><br>
+							Now available FREE!  <a href="http://www.racetab.us">Download version 2 now</a>. Version will be released in February 2009.
+						</p>
+					</td><td style="width: 170px;">
+						<strong>MileSplit Sites</strong>
+						<ul>
+							<li><b><a href="http://www.milesplit.us">National Portal</a></b></li>
+							<li><a href="http://AL.milesplit.us">Alabama</a></li>
+							<li><a href="http://AK.milesplit.us">Alaska</a></li>
+							<li><a href="http://AZ.milesplit.us">Arizona</a></li>
+							<li><a href="http://AR.milesplit.us">Arkansas</a></li>
+							<li><a href="http://CA.milesplit.us">California</a></li>
+							<li><a href="http://CO.milesplit.us">Colorado</a></li>
+							<li><a href="http://CT.milesplit.us">Connecticut</a></li>
+							<li><a href="http://DE.milesplit.us">Delaware</a></li>
+							<li><a href="http://DC.milesplit.us">District of Columbia</a></li>
+							<li><a href="http://FL.milesplit.us">Florida</a></li>
+							<li><a href="http://GA.milesplit.us">Georgia</a></li>
+							<li><a href="http://HI.milesplit.us">Hawaii</a></li>
+							<li><a href="http://ID.milesplit.us">Idaho</a></li>
+							<li><a href="http://IL.milesplit.us">Illinois</a></li>
+							<li><a href="http://IN.milesplit.us">Indiana</a></li>
+							<li><a href="http://IA.milesplit.us">Iowa</a></li>
+							<li><a href="http://KS.milesplit.us">Kansas</a></li>
+							<li><a href="http://KY.milesplit.us">Kentucky</a></li>
+							<li><a href="http://LA.milesplit.us">Louisiana</a></li>
+							<li><a href="http://ME.milesplit.us">Maine</a></li>
+							<li><a href="http://MD.milesplit.us">Maryland</a></li>
+							<li><a href="http://MA.milesplit.us">Massachusetts</a></li>
+							<li><a href="http://MI.milesplit.us">Michigan</a></li>
+							<li><a href="http://MN.milesplit.us">Minnesota</a></li>
+							<li><a href="http://MS.milesplit.us">Mississippi</a></li>
+							<li><a href="http://MO.milesplit.us">Missouri</a></li>
+							<li><a href="http://MT.milesplit.us">Montana</a></li>
+							<li><a href="http://NE.milesplit.us">Nebraska</a></li>
+							<li><a href="http://NV.milesplit.us">Nevada</a></li>
+							<li><a href="http://NH.milesplit.us">New Hampshire</a></li>
+							<li><a href="http://NJ.milesplit.us">New Jersey</a></li>
+							<li><a href="http://NM.milesplit.us">New Mexico</a></li>
+							<li><a href="http://NY.milesplit.us">New York</a></li>
+							<li><a href="http://NC.milesplit.us">North Carolina</a></li>
+							<li><a href="http://ND.milesplit.us">North Dakota</a></li>
+							<li><a href="http://OH.milesplit.us">Ohio</a></li>
+							<li><a href="http://OK.milesplit.us">Oklahoma</a></li>
+							<li><a href="http://OR.milesplit.us">Oregon</a></li>
+							<li><a href="http://PA.milesplit.us">Pennsylvania</a></li>
+							<li><a href="http://RI.milesplit.us">Rhode Island</a></li>
+							<li><a href="http://SC.milesplit.us">South Carolina</a></li>
+							<li><a href="http://SD.milesplit.us">South Dakota</a></li>
+							<li><a href="http://TN.milesplit.us">Tennessee</a></li>
+							<li><a href="http://TX.milesplit.us">Texas</a></li>
+							<li><a href="http://UT.milesplit.us">Utah</a></li>
+							<li><a href="http://VT.milesplit.us">Vermont</a></li>
+							<li><a href="http://VA.milesplit.us">Virginia</a></li>
+							<li><a href="http://WA.milesplit.us">Washington</a></li>
+							<li><a href="http://WV.milesplit.us">West Virginia</a></li>
+							<li><a href="http://WI.milesplit.us">Wisconsin</a></li>
+							<li><a href="http://WY.milesplit.us">Wyoming</a></li>
+						</ul>
+					</td></tr></tbody></table>
+				</div>
+			</div>
+			<div id="user">
+								<div class="info">
+					<span class="welcome">You are not logged in. <a href="/register">Register</a> or <a href="#">Login</a>.</span>
+				</div>
+				<div class="dropdown">
+					<strong>MileSplit/MileSplit US Login</strong>
+					<form method="POST"><table style="margin-top: 5px;">
 					<tbody><tr>
-					<td>User Name:</td>
-					<td><input type="text" name="user" style="width: 80px" maxlength="16"></td>
+						<td>User Name:</td>
+						<td><input type="text" name="user"></td>
+						<td rowspan="2">
+							<button type="submit" name="action" value="Login">Login</button>
+							<a href="/register">Register</a>
+							<a href="/forgot">Forgot your login info?</a>
+						</td>
 					</tr>
 					<tr>
-					<td>Password:</td>
-					<td><input type="password" name="password" style="width: 80px" maxlength="16"></td>
+						<td>Password:</td>
+						<td><input type="password" name="password"></td>
 					</tr>
-				</tbody></table></td><td style="padding: 0px">
-				<input type="submit" name="action" value="Login" class="button"><p>or <a href="/register">Register</a></p>
-				</td></tr>
-				</tbody></table>
-				<div style="padding-left: 10px; font: 10px Arial"><a href="/forgot">Forgot your login?</a></div>
-				</form>
-							</td>
-		</tr>
-	</tbody></table>	
-</div></div>
-
-	
-<div id="navbar"><div class="inner">
-<ul id="nav">
-<li>
-<a href="/">Home</a>
-</li>
-
-<li>
-<a href="/articles">Articles</a>
-</li>
-<li><a href="/meets/results/">Results</a></li>
-<li><a href="/rankings/2007">Rankings</a></li>
-<li><a href="/videos">Videos</a></li>
-<li><a href="/camps">Camps/Clinics</a></li>
-<li><a href="/pages/training">Training</a></li>
-<li>
-<a href="/forums/National">Forum</a>
-<ul>
-<li><a href="/forums/National">National Forum</a></li>
-<li><a href="/forums/General">General Forum</a></li>
-</ul>
-</li>
-<li>
-<a href="#">Misc</a>
-<ul>
-<li><a href="http://racetab.milesplit.com" target="_new">RaceTab Meet Manager</a></li>
-<li><a href="/calc">Conversion Calculator</a></li>
-</ul>
-</li>
-
-<li>
-<a href="/help">Help</a>
-<ul>
-<li><a href="/help/privacy">Privacy Policy</a></li>
-<li><a href="/help/about">About Mile Split, Inc.</a></li>
-<li><a href="help/about/contact">Contact Us</a></li>
-<li><a href="/help/advertise">Advertise</a></li>
-</ul>
-</li>
-</ul>		</div></div>
-
-<div id="content">
-
-	
+					</tbody></table>
+					</form>
+					<strong>Login with Facebook <span style="color: #ff0000">NEW!</span></strong>
+					<table style="margin-top: 5px;">
+						<tbody><tr><td>
+							<a href="/fb/connect"><img src="http://wiki.developers.facebook.com/images/b/be/Connect_white_medium_short.gif"></a>
+							<i><a href="/help/faq/loggingin#facebook">What's this?</a></i>
+						</td></tr>
+					</tbody></table>
+				</div>
+							</div>
+		</div></div></div>
+		
+		<div id="sitebar"><div class="lining"><div class="lining2"><div class="bumper"><div class="bumper2">
+			<div class="customhtml"><span><a href="http://pa.milesplit.us/pages/Online_Registration"><img src="http://pa.milesplit.us/files/pa/08templatefiles/meet_reg.gif"></a></span></div>
+			<a href="/" class="logo"></a>
+		</div></div></div></div></div>
+		
+		<div id="navbar"><div class="lining"><div class="lining2"><div class="bumper"><div class="bumper2">
+					<ul>
+				<li>
+					<a href="/">Home</a>
+				</li>
+								<li>
+					<a href="/articles">News</a>
+					<div class="dropdown">
+						<a href="/articles">Articles Archive</a>
+						<a href="/signings">College Signings</a>
+					</div>
+				</li>
+				<li>
+					<a href="/meets/results">Results</a>
+					<div class="dropdown">
+												<strong>Indoor Track &amp; Field</strong>
+						<a href="/meets/results/2008/indoor">2008 Indoor T&amp;F</a>
+						<a href="/meets/results/2007/indoor">2007 Indoor T&amp;F</a>
+						<a href="/meets/virtual/2008/indoor/hs">Create a Virtual Meet</a>
+												<strong>Cross Country</strong>
+						<a href="/meets/results/2008/cc">2008 Cross Country</a>
+						<a href="/meets/results/2007/cc">2007 Cross Country</a>
+						<a href="/meets/virtual/2007/cc/hs">Create a Virtual Meet</a>
+						<strong>Outdoor Track &amp; Field</strong>
+						<a href="/meets/results/2008/outdoor">2008 Outdoor T&amp;F</a>
+						<a href="/meets/results/2007/outdoor">2007 Outdoor T&amp;F</a>
+						<a href="/meets/virtual/2008/outdoor/hs">Create a Virtual Meet</a>
+						<strong>Road Racing</strong>
+						<a href="/meets/results/2008/road">2008 Road Racing</a>
+						<a href="/meets/results/2007/road">2007 Road Racing</a>
+					</div>
+				</li>
+				<li>
+					<a href="/rankings/2008">Rankings</a>
+					<div class="dropdown">
+												<strong>Indoor Track &amp; Field</strong>
+						<a href="/rankings/2009/indoor/hs/f">High School Girls</a>
+						<a href="/rankings/2009/indoor/hs/m">High School Boys</a>
+																								<strong>Cross Country</strong>
+						<a href="/rankings/2008/cc/hs/f/5000m">2008 High School Girls Individuals</a>
+						<a href="/rankings/2008/cc/hs/m/5000m">2008 High School Boys Individuals</a>
+						<a href="/teamscores/2008/cc/hs/f/5000m">2008 High School Girls Teams</a>
+						<a href="/teamscores/2008/cc/hs/m/5000m">2008 High School Boys Teams</a>
+						<a href="/rankings/2007/cc/hs/f/5000m">2007 High School Girls Individuals</a>
+						<a href="/rankings/2007/cc/hs/m/5000m">2007 High School Boys Individuals</a>
+						<a href="/teamscores/2007/cc/hs/f/5000m">2007 High School Girls Teams</a>
+						<a href="/teamscores/2007/cc/hs/m/5000m">2007 High School Boys Teams</a>
+																		<strong>Outdoor Track &amp; Field</strong>
+						<a href="/rankings/2008/outdoor/hs/f">High School Girls</a>
+						<a href="/rankings/2008/outdoor/hs/m">High School Boys</a>
+																	</div>
+				</li>
+				<li>
+					<a href="/meets/calendar/2009">Calendar</a>
+					<div class="dropdown">
+						<strong>Cross Country</strong>
+						<a href="/meets/calendar/2008/cc">2008 Cross Country</a>
+						<a href="/meets/calendar/2009/cc">2009 Cross Country</a>
+						<strong>Indoor Track &amp; Field</strong>
+						<a href="/meets/calendar/2009/indoor">2009 Indoor T&amp;F</a>
+						<strong>Outdoor Track &amp; Field</strong>
+						<a href="/meets/calendar/2009/outdoor">2009 Outdoor T&amp;F</a>
+						<strong>Road Racing</strong>
+						<a href="/meets/calendar/2008/road">2008 Road Racing</a>
+						<a href="/meets/calendar/2009/road">2009 Road Racing</a>
+					</div>
+				</li>
+				<li>
+					<a href="/forums/National">Community</a>
+					<div class="dropdown">
+						<strong>Forums</strong>
+						<a href="/forums/National">National Forum</a>
+						<a href="/forums/National">National</a>
+						<strong>Training Blogs</strong>
+						<a href="/trainingblogs">Latest Blogs</a>
+					</div>
+				</li>
+				<li>
+					<a href="/videos">Videos</a>
+					<div class="dropdown">
+						<a href="/videos">List All</a>
+						<a href="/videos/tags/race">Race Footage</a>
+						<a href="/videos/tags/interview">Interviews</a>
+					</div>
+				</li>
+				<li><a href="/photos">Photos</a></li>
+				<li>
+					<a href="/teams">Teams</a>
+					<div class="dropdown">
+						<a href="/teams">List of Schools</a>
+						<a href="/clubs">List of Clubs</a>
+						<a href="/teams/County">Counties</a>
+												<a href="/teams/Region">Regions</a>					</div>
+				</li>
+				<li>
+					<a href="/camps">Camps</a>
+									</li>
+				<li>
+					Resources
+					<div class="dropdown">
+						<a href="/calc">Conversion Calculator</a>
+						<a href="http://racetab.milesplit.com">RaceTab Meet Manager</a>
+						<a href="http://www.milesplit.us/pages/Online_Registration">Online Registration</a>
+						<a href="http://www.milesplit.us/pages/training">Training Docs</a>
+					</div>
+				</li>
+				<li>
+					<a href="/help">Help</a>
+					<div class="dropdown">
+						<a href="/staff">Site Staff</a>
+						<a href="/help/faq">Frequently Asked Questions</a>
+						<a href="/help/about/contact">Contact Us</a>
+						<a href="/help/about/corporate">About MileSplit US</a>
+						<a href="/help/jobs">MileSplit Jobs Opportunities</a>
+					</div>
+				</li>
+							</ul>
+					</div></div></div></div></div>
+		
+		<div id="content"><div class="lining"><div class="bumper">
 <div class="withsky">
 
 <div id="leftcol" class="column">
 
-	<h1>Privacy Policy</h1>
+	<h1><a href="/help">Help</a>: Privacy Policy</h1>
 	
-	<div>
-		<a href="/help/about/corporate">About Us</a> |
-		<a href="/help/about/management">Management Team</a> |
-		<a href="/help/about/contact">Contact Us</a> |
-		<a href="/help/about/partners">Partners</a> |
-		<a href="/help/advertise">Advertise</a> |
-		<a href="/help/support">Customer Support</a> |
-		<a href="/help/copyright">Copyright Notice</a> | 
-		<a href="/help/privacy">Privacy Policy</a>
-	</div>
+
 	
 <p>
 Updated: October 18, 2007
@@ -380,45 +515,71 @@ We do not store any credit card or other financial data.
 <div id="rightcol" class="column">
 
 	<div id="skyscraper">
-		<script type="text/javascript" language="JavaScript"><!-- 
-document.writeln('<scri' + 'pt type="text/javascript" language="JavaScript" src="http://ad.doubleclick.net/adj/milesplit/usa;topic=help;sbtpc=privacy;cat=;kw=;tile=' + tile + ';slot=160x600.1;sz=160x600;dcopt=ist;ord=' + ord + '?" type="text/javascript">');document.writeln('</scri' + 'pt>');tile++;
---></script><script type="text/javascript" language="JavaScript" src="http://ad.doubleclick.net/adj/milesplit/usa;topic=help;sbtpc=privacy;cat=;kw=;tile=1;slot=160x600.1;sz=160x600;dcopt=ist;ord=4848134286472019?">
-</script>
-<noscript><a HREF="http://ad.doubleclick.net/jump/milesplit/usa;topic=help;sbtpc=privacy;cat=;kw=;tile=1;slot=160x600.1;sz=160x600;dcopt=ist;ord=123456?" target="_blank"><img src="http://ad.doubleclick.net/ad/milesplit/usa;topic=help;sbtpc=privacy;cat=;kw=;tile=1;slot=160x600.1;sz=160x600;dcopt=ist;ord=123456?" border="0" alt="" height="600" width="160"></a></noscript>	</div>
+		<script type="text/javascript" language="JavaScript"><!--//--><![CDATA[//><!--
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/jtvs.23000.universalsports/partner/milesplitus/;tile=2;dcopt=ist;sz=160x600;ord=868557?"><\/script>');
+
+//--><!]]></script><script type="text/javascript" src="http://ad.doubleclick.net/adj/jtvs.23000.universalsports/partner/milesplitus/;tile=2;dcopt=ist;sz=160x600;ord=868557?"></script><noscript><a href="http://ad.doubleclick.net/jump/jtvs.23000.universalsports/partner/milesplitus/;pos=;tile=2;sz=160x600;ord=868557?" target="_blank"><img src="http://ad.doubleclick.net/ad/jtvs.23000.universalsports/partner/milesplitus/;pos=;tile=2;sz=160x600;ord=868557?" border="0" alt="" /></a></noscript>	</div>
 	
 </div>
 	
 
-</div>
-<div class="clearer">&nbsp;</div>
-
-</div>
-	
-<div id="footer"><div class="inner">
-	<p>
-		© Copyright and/or <a href="/help/copyright">Mile Split, Inc.</a>   All rights reserved. <a href="/help/privacy">Privacy Policy</a>
-	</p>
-	<p>
-		<strong>Webmaster:</strong>	Scott Bush - <a href="mailto:scott@milesplit.com">scott@milesplit.com</a>
-	</p>
-</div></div>
-
-<div id="banner"><div class="inner">
-	<script type="text/javascript" language="JavaScript"><!-- 
-document.writeln('<scri' + 'pt type="text/javascript" language="JavaScript" src="http://ad.doubleclick.net/adj/milesplit/usa;topic=help;sbtpc=privacy;cat=;kw=;tile=' + tile + ';slot=728x90.1;sz=728x90;dcopt=ist;ord=' + ord + '?" type="text/javascript">');document.writeln('</scri' + 'pt>');tile++;
---></script><script type="text/javascript" language="JavaScript" src="http://ad.doubleclick.net/adj/milesplit/usa;topic=help;sbtpc=privacy;cat=;kw=;tile=2;slot=728x90.1;sz=728x90;dcopt=ist;ord=4848134286472019?">
-</script>
-<noscript><a HREF="http://ad.doubleclick.net/jump/milesplit/usa;topic=help;sbtpc=privacy;cat=;kw=;tile=1;slot=728x90.1;sz=728x90;dcopt=ist;ord=123456?" target="_blank"><img src="http://ad.doubleclick.net/ad/milesplit/usa;topic=help;sbtpc=privacy;cat=;kw=;tile=1;slot=728x90.1;sz=728x90;dcopt=ist;ord=123456?" border="0" alt="" height="90" width="728"></a></noscript></div></div>
-
-<div id="runnersworld"><div class="inner">
-	<a href="http://www.runnersworld.com"><img src="/images/rwlogo.gif"></a>
-	<div id="rw_headlines">
-		<div id="rw_link1"><a href="http://www.runnersworld.com/newsletter/0,7127,,00.html">Free E-Mail Newsletters</a></div>
-		<div id="rw_link2"><a href="http://www.runnersworld.com/topic/0,7122,s6-393-395-0-0,00.html">Shoes &amp; Gear</a></div>
-		<div id="rw_link3"><a href="http://www.runnersworld.com/video/?cm_re=HP-_-Homepage%20Video-_-Video">Running Video</a></div>
+</div>			<div class="clearer">&nbsp;</div>
+		</div></div></div>
+		
 	</div>
-	<div id="rw_breadcrumbs"><a href="http://www.runnersworld.com">RW Home</a> &gt; <a href="http://runnersworld.com/channel/0,7119,s6-393-0-0-0,00.html?cm_re=HP-_-Homepage%20Channel-_-Channel">High School Runner</a> &gt; <a href="http://www.milesplit.us" class="green">RACING NEWS &amp; RESULTS</a></div>
-</div></div>
+	
+	<div id="footer"><div class="lining"><div class="bumper">
+		<div class="logo">
+	 		<a href="http://www.milesplit.us"><img src="/images/logos/milesplit-night.png"></a>
+	 		<p>
+	 			Fran McLaughlin, Webmaster<br>
+	 			<a href="mailto:fmclaughlin@milesplit.us" style="color: #ffffff">fmclaughlin@milesplit.us</a>
+	 		</p>
+	 	</div>
+	 	<div class="copyright">
+	 		© <a href="/help/support/contact">Copyright</a> 2008. MileSplit US, All Rights Reserved. <br>
+	 		In partnership with <a href="http://www.universalsports.com">Universal Sports</a>.
+	 		<a href="/help/privacy">Privacy Policy</a>
+	 	</div>
+	 	<div class="links">
+	 		<a href="http://www.milesplit.us"><strong>MileSplit US</strong></a>
+	 		<a href="/help/about">About Us</a>
+	 		<a href="/help/advertise">Advertise</a>
+	 		<a href="/help/about/management">Management Team</a>
+	 		<a href="/help/about/partners">Our Partners</a>
+	 	</div>
+	 	<div class="links">
+	 		<a href="/help"><strong>Support</strong></a>
+	 		<a href="/help/support/faq">Frequent Questions</a>
+	 		<a href="/help/support/contact">Contact Us</a>
+	 	</div>
+	 	<div class="links">
+	 		<a href="/meets/results"><strong>Meet Coverage</strong></a>
+	 		<a href="/articles">Articles</a>
+	 		<a href="/meets/results">Meet Results</a>
+	 		<a href="/meets/calendar">Meet Calendar</a>
+	 		<a href="/rankings">Rankings</a>
+	 	</div>
+	 	<div class="links">
+	 		<a href="/meets/video"><strong>Multimedia</strong></a>
+	 		<a href="/photos">Photo Albums</a>
+	 		<a href="/videos/tags/race">Race Videos</a>
+	 		<a href="/videos/tags/interview">Video Interviews</a>
+	 	</div>
+	 	<div class="links">
+	 		<div><strong>Resources</strong></div>
+	 		<a href="http://racetab.milesplit.com">RaceTab Software</a>
+	 		<a href="http://www.milesplit.us/pages/Online_Registration">Online Registration</a>
+	 	</div>
+	 	<div class="links">
+	 		<div><strong>Community</strong></div>
+	 		<a href="http://www.milesplit.us/forums/national">National Forum</a>
+	 		<a href="/trainingblogs">Latest Blogs</a>
+	 	</div>
+	 	<div class="breaker"></div>
+	</div></div></div>
+
+</div>
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
@@ -426,8 +587,6 @@ document.writeln('<scri' + 'pt type="text/javascript" language="JavaScript" src=
 _uacct = "UA-381648-1";
 urchinTracker();
 </script>
-
-
 
 
 </body></html>
