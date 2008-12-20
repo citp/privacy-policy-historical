@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traveleurope.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608124246id_/http%3A//www.traveleurope.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveleurope.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220023747id_/http%3A//www.traveleurope.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
