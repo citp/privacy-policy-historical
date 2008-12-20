@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ca.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616162921id_/http%3A//www.ca.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ca.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220115641id_/http%3A//www.ca.com./us/privacy) for the most accurate reproduction.*
 
-# CA Privacy Notice - CA
+# CA Privacy Notice
 
 CA is committed to respecting and protecting your privacy and wants you to feel secure when visiting our site and providing information to us. In order to provide you with relevant information, respond to your requests, and increase the benefits you receive from our website, we sometimes request that you provide us with information about yourself.
 
@@ -8,7 +8,12 @@ We have prepared this Privacy Notice to inform you of the information we gather 
 
 For personal information of individuals that CA receives from the European Economic Area (EEA), CA has committed to handling such personal information in accordance with the US Department of Commerce Safe Harbor Principles for transfer of personal information outside of the EEA. CA's Safe Harbor certification can be found at <http://web.ita.doc.gov/safeharbor/shlist.nsf/webpages/safe+harbor+list>
 
-**What information do we gather?**  
+**We self-certify compliance with**
+
+  
+[www.export.gov/safeharbor](http://www.export.gov/safeharbor)
+
+ **What information do we gather?**  
 In general, you may visit this website without identifying yourself or revealing any personal information. CA collects domain information from your visit to customize and improve your experience on our website.
 
 This website may collect certain information from your visit, including the date and time of your access, the pages you have accessed, the name of the Internet Service Provider and the Internet Protocol (IP) address by which you are accessing the Internet, and the Internet address from which you linked to our site, if applicable. We use this information to better understand how our website is being used so that we can improve its quality and make it more beneficial to our users.
