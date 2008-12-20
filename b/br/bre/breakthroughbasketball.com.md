@@ -1,6 +1,22 @@
-> *The following text is extracted and transformed from the breakthroughbasketball.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609224734id_/http%3A//www.breakthroughbasketball.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakthroughbasketball.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220054238id_/http%3A//www.breakthroughbasketball.com/privacypolicy.html) for the most accurate reproduction.*
 
 # BreakthroughBasketball.com Privacy Policy
+
+## _**Subscribe for FREE and Get 3 eBooks…**_
+
+**Just for subscribing to our free newsletter you’ll get these 3 eBooks for free…**
+
+  * **72 Basketball Drills & Coaching Tips – 136 page eBook.**
+  * **21 Basketball Tips & Tricks for Players – 20 page eBook.**
+  * **32 Winning Basketball Plays – 96 page eBook.**
+
+
+
+Plus you’ll get ALL updates to this website delivered to your inbox for free. **73,485** other coaches, players, and parents have already subscribed.
+
+We will never send you spam or share your email address, guaranteed!
+
+_Close_
 
 **Our Commitment To Privacy:**
 
