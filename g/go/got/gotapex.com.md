@@ -1,87 +1,116 @@
-> *The following text is extracted and transformed from the gotapex.com privacy policy that was archived on 2006-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060512122151id_/http%3A//www.gotapex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotapex.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220021226id_/http%3A//www.gotapex.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Deals, Coupon codes and Discount prices - GotApex?
+# GotApex? Deals & Coupon Codes - Privacy Policy
 
-| Email Login:  
+## Privacy Policy Statement
+
+This is the web site of Got Apex? Inc.
+
+Our postal address is  
+601 South Highway 160, PMB 407  
+Pahrump, NV 89048
+
+We can be reached via e-mail at legal@gotapex.com
+
+For each visitor to our Web page, our Web server automatically recognizes no  
+information regarding the domain or e-mail address.
+
+We collect the e-mail addresses of those who post messages to our bulletin  
+board, the e-mail addresses of those who communicate with us via e-mail,  
+information volunteered by the consumer, such as survey information and/or  
+site registrations and the email addresses of those who join our email list.
+
+The information we collect is used to customize the content and/or layout of  
+our page for each individual visitor, used to notify consumers about updates  
+to our Web site, and disclosed when legally required to do so, at the  
+request of governmental authorities conducting an investigation, to verify  
+or enforce compliance with the policies governing our website and applicable  
+laws, or to protect against misuse or unauthorized use of our website, or to  
+a successor entity in connection with a corporate merger, consolidation,  
+sale of assets, or other corporate change respecting the website.
+
+With respect to cookies: We use cookies to store visitors preferences,  
+customize Web page content based on visitors' browser type or other  
+information that the visitor sends.
+
+If you do not want to receive e-mail from us in the future, please let us  
+know by or unsubscribing from the link at the bottom of each email sent by  
+us.
+
+With respect to Ad Servers: To try and bring you offers that are of interest  
+to you, we have relationships with other companies that we allow to place  
+ads on our web pages. As a result of your visit to our site, ad server  
+companies may collect information such as your domain type, your IP address,  
+and clickstream information. For further information, consult the privacy  
+policies of any sites you may visit through our links.
+
+From time to time, we may use customer information for new, unanticipated  
+uses not previously disclosed in our privacy notice. If our information  
+practices change at some time in the future we will post the policy changes  
+to our Web site to notify you of these changes and provide you with the  
+ability to opt out of these new uses. If you are concerned about how your  
+information is used, you should check back at our Web site periodically.
+
+Customers may prevent their information from being used for purposes other  
+than those for which it was originally collected by writing to us at the  
+above address.
+
+Upon request we provide site visitors with access to a description of  
+information that we maintain about them.
+
+Consumers can access this information by writing to us at the above address.
+
+Upon request we offer visitors the ability to have inaccuracies corrected in  
+contact information.
+
+Consumers can have this information corrected by writing to us at the above  
+address. 
+
+|  |  | 
+
+[GotApex Stores](http://www.gotapex.com/coupons/merchantlistall/)  
   
 ---  
-Password:  
   
-| New users  
-[ **sign up**](http://mail.gotapex.com/email/scripts/useragreement.pl)!  
+Coupon codes and discounts to top online stores  
   
-  
-
-
-**Search for the lowest prices:  **  
-  
-**for**    
-  
-
-
-  
-  
-  
-  
-  
-[](http://service.bfast.com/bfast/click?bfmid=70780&sourceid=24803698&categoryid=gotapexmomdeal&bfinfo=998)   
-Privacy Policy
-
-**_Privacy Policy_**
-
-Got Apex?, Inc. respects and protects the privacy of the individuals which make use of Got Apex?, Inc. and it's services. All individually identifiable information about you will not be disclosed to any third party without seeking your permission or consent.
-
-**Third Party Advertising**  
-We use other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Web site in order to provide advertisements on this site about goods and services that may be of interest to you.
-
-**Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
-
-**Cookies**  
-As part of our offering for interactive and customizable services, Got Apex?, Inc. uses cookies to store information about you and your visit to Got Apex?, Inc. A cookie is a small amount of data collected by your browser and stored in your computer. Got Apex?, Inc. makes use of cookies to both provide our users better convenience for frequently used information such as login information for our forums or other services. Occasionally, Got Apex?, Inc. also uses the cookies to track geographical user information and surfing patterns to continuously improve our services.
-
-**Registration**  
-Got Apex?, Inc. requires no registration for access to main site services however certain services such as our forum will require you to register for an account. Registration requires you to provide certain contact details such as your email address and name as well as unique user identities such as your username or password for a particular service. Again, all information provided are protected by our dedication to user privacy and will not be released to any third party without your agreement or consent.
-
-**External Links**  
-Got Apex?, Inc. provides daily news updates as well as external links throughout our entire site. As Got Apex?, Inc. has no control over these sites, you should contact these sites directly to find out more about their privacy dedication and data collection methods.
-
-**Advertisers**  
-Got Apex?, Inc. uses external advertising companies to manage and display our advertisements around the site. Some of these ads may contain cookies which we have no control or access over. Companies which places advertising on our site may collect information about you if you perform certain actions such as view or click on their advertisements or content. As Got Apex?, Inc. does not control our partner ad provider companies, you should contact them directly. 
-
-**Information sharing**  
-Got Apex?, Inc. may share information about you with advertisers, business partners, sponsors and other third parties. However, we will only release aggregate information about our users and will not share personally identifiable information with any third party without your consent or permission. 
-
-**User agreement**  
-By using Got Apex?, Inc. and the rest of the services provided, you consent to the collection and use of your information as we have outlined in this policy. Got Apex?, Inc. may decide to change this policy from time to time to better improve our services to serve our users better.
-
-**Contact  
-**If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [leon@gotapex.com](mailto:leon@gotapex.com). We value the input of our readers and users and we try our best to make your visit at Got Apex?, Inc. enjoyable. 
-
-  
-|    
-
-
-| **web search**  
+| Quick Lists  
 ---  
-**stocks**  
+[List All Stores (One Page)](https://web.archive.org/web/20081220021226id_/http%3A//www.gotapex.com/coupons/merchantlistall/)  
+[List All Stores (Multiple Pages)](https://web.archive.org/web/20081220021226id_/http%3A//www.gotapex.com/coupons/merchantlist/1/)  
+[List All Coupons (Multiple Pages)](https://web.archive.org/web/20081220021226id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/0-Z.htm)  
+[Expiring Coupons](https://web.archive.org/web/20081220021226id_/http%3A//www.gotapex.com/coupons/expiring/1/)  
+Stores By Range  
+[Stores 0-9](https://web.archive.org/web/20081220021226id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/0-9.htm)  
+[Stores A-F](https://web.archive.org/web/20081220021226id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/A-F.htm)  
+[Stores G-L](https://web.archive.org/web/20081220021226id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/G-L.htm)  
+[Stores M-R](https://web.archive.org/web/20081220021226id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/M-R.htm)  
+[Stores S-Z](https://web.archive.org/web/20081220021226id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/S-Z.htm)  
   
-enter ticker symbol  
-**weather**  
+Expiring Coupons  
   
-enter zip code  
+---  
   
-  
-  
-  
-  
-  
+[Dell Home](http://www.gotapex.com/coupons/merchant/427.htm)
 
+[Get 25% off Inspiron desktop purchases of $1099+ or more. This coupon excludes evalue codes: DDDOFA2, DDDODG4, DDDOOB1, DDDAOG4. The Home & Home Office site and offers contained herein valid only for end users and not for resellers and/or online auctions. Offers subject to change, not combinable with...](http://www.gotapex.com/coupons/page/14533.htm)
 
-* * *
+[Dell Home](http://www.gotapex.com/coupons/merchant/427.htm)
 
-[ ](http://www.theadstop.com/Traffic/affiliate.asp?ref=B85-77RP48K-H9DH9FC)   
+[Get 20% off select Studio XPS desktops priced $1699+ or more. Valid on evalue code: DDDWMB4, DXDAZZ1 & DXCWZY4. The Home & Home Office site and offers contained herein valid only for end users and not for resellers and/or online auctions. Offers subject to change, not combinable with...](http://www.gotapex.com/coupons/page/14555.htm)
 
+[Dell Home](http://www.gotapex.com/coupons/merchant/427.htm)
 
+[Get $15 off Far Cry 2 for the PS3, making it $44.99. Valid on sku: A1983048. The Home & Home Office site and offers contained herein valid only for end users and not for resellers and/or online auctions. Offers subject to change, not combinable with all other offers....](http://www.gotapex.com/coupons/page/14551.htm)
+
+[Target](http://www.gotapex.com/coupons/merchant/1372.htm)
+
+[Get free shipping on select stationery items.](http://www.gotapex.com/coupons/page/14367.htm)
+
+[Shoes.com](http://www.gotapex.com/coupons/merchant/1266.htm)
+
+[Get 20% off athletic shoes. Brand exclusions apply so see site for details.](http://www.gotapex.com/coupons/page/14309.htm)  
   
-
+Advertisement [ ](http://www.tkqlhce.com/click-268435-10599899?sid=1000&afsrc=1) Advertisement [ ](http://www.dpbolvw.net/click-268435-9997443?sid=1000&afsrc=1)  
+  
+All times are GMT -7. The time now is 07:12 PM.
