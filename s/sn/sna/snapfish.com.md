@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapfish.com privacy policy that was archived on 2008-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080521073454id_/http%3A//www.snapfish.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfish.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220184925id_/http%3A//www2.snapfish.com/privacy) for the most accurate reproduction.*
 
 # Snapfish: Privacy Policy
 
@@ -56,7 +56,7 @@ Advertisers on Snapfish do not have access to your individual account informatio
 The one exception to the rule described in this section is the following: if Snapfish is required by law (or to protect its rights or property), we will disclose Customer Information to the extent so required. 
 
 **Who sees your photos after they have been posted online?**  
-You, your Invitees and their Invitees can see your albums online. An Invitee is defined as anyone who is invited to the Snapfish site to see an album. Anyone who is invited to see an album online must provide an email address and a password to access the site and view a shared album. When you choose to share your online images with Invitees, those individuals will be able to view your album. If you don't want your Invitees to invite other people to see the album, you can restrict their ability to do so on the album invitation. That will prohibit them from re-sharing the album from within their account on the Snapfish site. However, as with any email, your Invitees could forward the email invitation to others, who will then be able to click on the link to the album within the email, and see the pictures too. 
+You, your Invitees and their Invitees can see your albums online. An Invitee is defined as anyone who is invited to the Snapfish site to see an album. Anyone who is invited to see an album online must provide an email address and a password to access the site and view a shared album. When you choose to share your online images with Invitees, those individuals will be able to view your album. However, as with any email, your Invitees could forward the email invitation to others, who will then be able to click on the link to the album within the email, and see the pictures too. 
 
 Snapfish employees or employees of partner companies that provide services to Snapfish may see your photos while they are developed, scanned or printed. In addition, your photos or personal account information may be seen by Snapfish employees in order to evaluate, validate, or correct problems with your account. 
 
