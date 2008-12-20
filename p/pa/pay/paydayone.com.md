@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paydayone.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615181236id_/http%3A//www.paydayone.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydayone.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220020319id_/http%3A//www.paydayone.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # PayDayOne.com - Privacy Policy
 
@@ -6,7 +6,9 @@ Select State:
 
 Please select your state of residence to view the applicable privacy policy. 
 
-_For the PayDay One Group of Companies_
+## _Privacy Policy_
+
+ _For the PayDay One Group of Companies_
 
 At PayDay One your privacy is important to us. This Privacy Policy describes the information we collect and how we use that information and is applicable if you have applied for service with PayDay One, or if you are a current or former customer. This Privacy Policy is effective as of February 14, 2008.
 
