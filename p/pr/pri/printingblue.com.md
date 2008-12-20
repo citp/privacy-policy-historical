@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printingblue.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206022333id_/http%3A//www.printingblue.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printingblue.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220215655id_/http%3A//www.printingblue.com/privacy.asp) for the most accurate reproduction.*
 
 # PrintingBlue.com Privacy Policy.
 
@@ -79,6 +79,8 @@ If we decide to change our privacy policy, we will post those changes to this pr
 If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. 
 
 If customers have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. 
+
+PrintingBlue is an American printing company providing the printing services to regular clients in USA and Canada. We have free design and free shipment services in all the state and cities of USA and canada including Stamford, Bellevue, Flint, Vallejo, Springfield, Evansville, Inglewood, Abilene, Olathe, Lansing, Lafayette, Provo, Visalia, Ann Arbor, Clarksville, Peoria, Cary, Athensa, Beaumont, Costa Mesa, Denton, Manchester, Independence, Downey, Thornton, Gainesville, Santa Clara, Miramar, Charleston, West Covina, Clearwater, McKinney, Allentown, Waterbury, Roseville, Westminster, Norwalk, South Bend, Fairfield, Arvada, Pompano Beach, Burbank, San Buenaventura, Pueblo, Lowell, Norman, Richmond, Midland, Erie, Killeen, Elgin, Berkeley, Portsmouthd, Cambridge, Daly City, Antioch, Green Bay, West Jordane, Billings, Carson, Lynn, Port St. Lucie, Vacaville, San Angelo, Sandy, Westminster, Quincy, Miami Beach, Waukegan, Duluth, Killeen, Nashua, Westland, High Point, Warwick, Rochester, Alhambra, Sunrise, Parma, Cicero town, Trenton, Bloomington, Citrus Heights, Sioux, Columbia, Orem, Hawthorne, Santa Monica, Newton, Whittier, Tyler, Federal Way, Hammond, Norwalk, Plantation, Thornton, Farmington Hills, West Palm Beach, Youngstown, Decatur, Racine, Reading, Troy, Redding, Canton, Denton, Fort Smith, Lawrence, Roseville, Camden. 
 
 Contact Information
 
