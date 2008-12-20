@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the createforum.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514133253id_/http%3A//www.createforum.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the createforum.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220120433id_/http%3A//www.createforum.com/privacy.html) for the most accurate reproduction.*
 
 # free forum hosting - create forum offers free forum
 
