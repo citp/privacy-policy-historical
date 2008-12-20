@@ -1,45 +1,47 @@
-> *The following text is extracted and transformed from the buzzhumor.com privacy policy that was archived on 2006-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060829214635id_/http%3A//www.buzzhumor.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzhumor.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220213617id_/http%3A//www.buzzhumor.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
- 
+ BuzzHumor is committed to respecting your online privacy and recognizes your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. 
 
-**General**
+We have established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information. 
 
-All communication on the Internet takes place between pairs of IP Addresses. Our Web servers will log the IP address that any connection is made from. We may use these IP addresses to help diagnose technical problems or prevent abuse of our systems or other site users. Your IP address may also be used to gather aggregate demographic data and target advertisements accordingly. 
+Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. 
 
-Your browser has options to accept, reject, or provide you with notice when a cookie is sent. A “cookie” is a small line of text that is stored with your Web browser for record-keeping purposes and to help us provide better service to you. We currently do not use cookies to store any personal information.
+BuzzHumor strives to comply with all applicable laws that are designed to protect your privacy. Although legal requirements may vary from country to country, BuzzHumor intends to adhere to the principles set forth in this online Privacy Policy. 
 
- Our site contains links, including banner and other ads, to other Websites. We are not responsible for the privacy practices or the content of such Websites. Our site may also link to Websites that feature our trademarks and names along with trademarks and names of other companies. You should look at the privacy policy on that co-branded Website, as the co-branded Website may not be under our control. 
+It is against BuzzHumor's policy to sell Personal Information collected online. 
 
-  
-For reasons such as improving user experience and providing customized improvements for our users, we may receive information about you from third party sources and our web logs and add it to the information that we have received from you. Web logs automatically record anything a web server sees, which may include e-mail addresses you enter into a form or pages viewed by a user at a particular IP address. 
+BuzzHumor intends to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure. 
 
-  
-**Information Sharing**
+Some of our Web pages utilize "cookies" and other tracking technologies. Our tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times of activity. Our cookies and tracking technologies are used specifically for the purpose of BuzzHumor's operation and administration. Any information obtained through their use is protected from unauthorized access or disclosure. 
 
-We will not share your personally identifiable information with third parties.  
-However, we may disclose information you willingly provide if required to do so by law or if we have a good faith belief that disclosure is necessary to (1) comply with the law or with legal process served on us; (2) protect and defend our rights or property; or (3) act in an emergency to protect someone’s safety. 
+Third party Service providers are an important means by which BuzzHumor maintains its Web site. In some cases third party service providers may have access to secure data. BuzzHumor will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on our behalf. 
 
-We may request demographic information from you (for example, your age, education level or household income) from time to time. We will not share that information in a manner that identifies you as an individual with any other entity, unless we let you know that at the time of collection or we have your permission. When we share demographic information with third parties, we will give them aggregate information only. 
+This site contains links to other sites. BuzzHumor is not responsible for the privacy practices or the content of such web sites. 
 
-We believe that parents should supervise their children’s online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. 
+BuzzHumor.com extends the ability to our visitors to sign up and post content on our free public forums. Please remember that any information that is disclosed in the forums becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-  
-**Other**
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. These sites are responsible for their own privacy policies. 
 
-We may offer chat, user reviews, multi-player games, bulletin board, or other public functions and any posting by you is considered public information available to other users. Any posting is governed by our [Terms of Use](http://www.buzzhumor.com/terms.php). You should take care to not use personal information in your screen name or other information that might be publicly available to other users.
+Digital Millennium Copyright Act ("DMCA") Policy Introduction   
+This policy is intended to implement the procedures set forth in 17 U.S.C. Section 512 and the Digital Millennium Copyright Act ("DMCA") for the reporting of alleged copyright infringement. It is the policy of Sparro's Web inc (the "Company") to respect the legitimate rights of copyright owners, their agents, and representatives. Users of any part of the Company computing system are required to respect the legal protections provided by applicable copyright law. 
 
-If a user elects to use our site for informing a friend about our site or particular features or content, we ask them for the friend’s name and e-mail address. We will automatically send the friend a one-time e-mail inviting them to visit our site. We store this information for the sole purpose of sending this one-time e-mail. 
+Designated Agent   
+The Company's Designated Agent to receive notification of alleged infringement under the DMCA is: Email: info at BuzzHumor.com 
 
-We maintain archives of our web logs, database, and other systems and information. Please note that it is possible some of this information may remain archived after we delete the information from its active database (see above regarding web logs). We maintain archives for disaster recovery, legal and other non-marketing purposes. 
+Complaint Notice Procedures for Copyright Owners   
+The following elements must be included in your copyright infringement claim:   
+1 An electronic or physical signature of the copyright owner or a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed. 
 
-  
-**Contact**
+2 Identification of the copyrighted work claimed to have been infringed, or if multiple copyrighted works at a single online site are covered by a single notice, a representative list of such works at that site. 
 
-Please address comments or questions regarding this Privacy Policy by sending us an e-mail via our [contact page](http://www.buzzhumor.com/contact.php). 
+3 Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the Company to locate the material. 
 
-  
-**Binding Agreement**
+4 Information reasonably sufficient to permit the Company to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted. 
 
-Your use of our site, including any dispute concerning privacy, is subject to this Privacy Policy and our Terms of Use. By using our Site, you are accepting the practices set out in this Privacy Policy and our Terms of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of our Site following posting of the updated Privacy Policy will constitute your acceptance of the changes.
+5 A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law. 
+
+6 A statement that the information in the notice is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed. 
+
+Failure to include all of the above information may result in a delay of the processing or the DCMA notification. Notice and Takedown Procedure: It is expected that all users of any part of the Company system will comply with applicable copyright laws. However, if the Company receives proper notification of claimed copyright infringement it will respond expeditiously by removing, or disabling access to, the material that is claimed to be infringing or to be the subject of infringing activity. Company will comply with the appropriate provisions of the DMCA in the event a counter notification is received. 
