@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashportal.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618012619id_/http%3A//www.flashportal.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashportal.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220011512id_/http%3A//www.flashportal.com/policy.php) for the most accurate reproduction.*
 
 # Welcome to Flash Portal
 
