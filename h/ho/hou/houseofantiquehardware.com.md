@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseofantiquehardware.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009153754id_/http%3A//houseofantiquehardware.com/s.nl/it.I/id.8/.f%3Fsc%3D5%26category%3D-105) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseofantiquehardware.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220180932id_/http%3A//houseofantiquehardware.com/s.nl/it.I/id.8/.f) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,8 @@ Because we gather certain types of information about our users, we feel you shou
 House of Antique Hardware, Inc. gathers two types of information about users: 
 
   * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys: 
-  * Information House of Antique Hardware, Inc. gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because House of Antique Hardware, Inc. derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free to users. Under no circumstances does House of Antique Hardware, Inc. divulge any information about an individual user to a third party. 
+  * Information House of Antique Hardware, Inc. gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs. 
+  * House of Antique Hardware, Inc. may use a third-party service to collect information regarding consumer preferences on our site, such as page views and purchases. The third-party service may use cookies and transparent GIF files to collect information on how you use our web site. You may view the third-party service provider's privacy policy at [www.mybuys.com/privacy.html](http://www.mybuys.com/privacy.html). 
 
 
 
@@ -27,11 +28,15 @@ We will offer a free electronic newsletter to users. House of Antique Hardware, 
 
 2\. Polling 
 
-We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. House of Antique Hardware, Inc. may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users. 
+We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. House of Antique Hardware, Inc. may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users. 
 
 3\. Surveys 
 
 House of Antique Hardware, Inc. may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party. 
+
+4\. Alerts
+
+House of Antique Hardware, Inc. may offer the opportunity to subscribe to an email service that provides product recommendations based on each users purchase history and product interest. This service is by request only and can be terminated at any time. Information used to provide this service is subject to the terms of the "Gather and Track" section of our Privacy Policy.
 
 **Children**
 
@@ -39,13 +44,13 @@ Consistent with the Federal Children's Online Privacy Protection Act of 1998 (CO
 
 **Usage tracking**
 
-House of Antique Hardware, Inc. tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. House of Antique Hardware, Inc. does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser). 
+House of Antique Hardware, Inc. tracks user traffic patterns throughout all of our sites. House of Antique Hardware, Inc. does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser). 
 
-House of Antique Hardware, Inc. sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. 
+House of Antique Hardware, Inc. sometimes tracks and catalogs the search terms that users enter in our Search function. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. This helps us continue to build a better service for you.
 
 **Cookies**
 
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. House of Antique Hardware, Inc. uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates. 
+We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. House of Antique Hardware, Inc. uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates. Our product recommendation feature may use cookies to collect information on the pages you visit on our site. 
 
 You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site.
 
@@ -55,11 +60,11 @@ _How the information you gather is used if relevant._
 
 **Use of Information**
 
-House of Antique Hardware, Inc. uses any information voluntarily given by our users to enhance their experience in our site, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users. 
+House of Antique Hardware, Inc. uses any information given by our users to enhance their experience in our site, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users. 
 
-As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, and forums. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. House of Antique Hardware, Inc. never shares newsletter mailing lists with any third parties, including advertisers, sponsors or partners. 
+As stated above, we use information that users provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, and forums. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. House of Antique Hardware, Inc. never shares newsletter mailing lists with any third parties, including advertisers, sponsors or partners. 
 
-We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. But we don't track which terms a particular user enters. 
+We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. 
 
 **Sharing of the Information**
 
@@ -73,7 +78,7 @@ House of Antique Hardware, Inc. operates secure data networks protected by indus
 
 We give users options wherever necessary and practical. Such choices include: 
 
-  * Opting not to register to receive our electronic newsletters. 
+  * Opting not to register to receive our electronic newsletters and alerts. 
   * Opting not to participate in certain interactive areas.
 
 
