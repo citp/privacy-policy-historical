@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollartree.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511204359id_/http%3A//www.dollartree.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollartree.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220113813id_/http%3A//www.dollartree.com/privacy.cfm) for the most accurate reproduction.*
 
 # Dollar Tree
 
