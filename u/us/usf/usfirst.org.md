@@ -1,19 +1,20 @@
-> *The following text is extracted and transformed from the usfirst.org privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612061821id_/http%3A//www.usfirst.org/content.aspx%3Fid%3D868) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usfirst.org privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220032604id_/http%3A//www.usfirst.org/content.aspx%3Fid%3D868) for the most accurate reproduction.*
 
 # Home
-
 
 |   |  [Home](https://web.archive.org/default.aspx "Home Page") > Privacy Policy
 
 **_FIRST  _Privacy Policy and User Agreement**
 
-We, at _FIRST,_ take privacy and security of personal information very seriously. This Privacy Policy discloses the privacy practices for _FIRST_ (“ _FIRST_ ”, “Our”, “We”, “Us”) its web site [_www.us _FIRST_.org_](https://web.archive.org/) and various related services (together referred to as the “Site”). 
+We, at _FIRST,_ take privacy and security of personal information very seriously. This Privacy Policy discloses the privacy practices for _FIRST_ (“ _FIRST_ ”, “Our”, “We”, “Us”) its web site [_www.usfirst.org_](https://web.archive.org/ "www.usfirst.org") and various related services (together referred to as the “Site”). 
 
 Participants and parents, and other persons entering any _FIRST_ online system or database understand and agree to the following terms:
 
 **_Youth under 13 (COPPA Compliancy)_**
 
-If you are under the age of 13, you need your parent’s permission to use this site at all, and, unless we receive your parent’s verifiable consent, you may not enter personal information (such as name, address, email address) in any of our online systems.
+If you are under the age of 13, you need your parent’s permission to use this site at all, and, unless we receive your parent’s verifiable consent (e.g. initials on your on-line registration form or an email from your parents to the _FIRST_ Webmaster) before you can enter any personal information (such as name, address, email address, pictures of yourself) in any of our online systems.
+
+You may not enter personal information (such as name, address, email address) in any of our online systems.
 
 If we learn that we have information from a child under 13 without the required parental consent, we will delete that information as soon as possible. 
 
@@ -107,13 +108,29 @@ From time to time, the _FIRST_ , also, may decide on its own, not based on any r
 
 **10.  Miscellaneous Privacy Issues**
 
-If you are under the age of 13, you need your parent’s permission to use this site at all, and we need your parent’s verifiable consent before you can enter any personal information (such as name, address, email address) in any of our online systems.
+If you are under the age of 13, you need your parent’s permission to use this site at all, and we need your parent’s verifiable consent (e.g. initials on your on-line registration form or an email from your parents to the FIRST Webmaster) before you can enter any personal information (such as name, address, email address) in any of our online systems.
 
 If you are 13 to 18 years of age we expect you to have your parent’s permission before participating on this site, and particularly before submitting any pictures or personal information about yourself.
 
-You should also be aware that when PII is voluntarily disclosed (i.e. your name, e-mail address, etc.) in the discussion forums or other public areas on this Site, that information, along with any information disclosed in your communication, can be collected and used by third parties and may result in unsolicited messages from third parties.  Such activities are beyond Our control and this Policy does not apply to such information.  Any submissions to discussion forums or other public areas on this Site are accepted with the understanding that they are accessible to all third parties.  If you do not want your comments to be viewed by third parties, you are advised not to make any submissions.  Ultimately, you are solely responsible for maintaining the strict confidentiality  of your password and/or account information.  Please be careful and responsible whenever you are online.
+For security reasons, no child’s specific address or last name will be posted on the FIRST site. 
 
-Good judgment should be used by anyone posting images, regardless of age. Images that do not reflect good judgment (e.g. depictions of illegal or irresponsible activity, public revelation of private information about a minor, etc.) can be removed by Us.
+   
+ **11\. Warning About Disclosing Personally-Identifiable Information**
+
+If you disclose Personally Identifiable Information (i.e. your name, e-mail address, etc.) in the discussion forums or other public areas on this Site, other people can see and use that information as an opportunity to contact you or to send you unsolicited emails.  This is beyond Our control and is your responsibility.  If you have questions, please ask your parents.  If you do not want your comments to be viewed by third parties, you are advised not to make any submissions.  Ultimately, you are solely responsible for maintaining the confidentiality of your password and account information.  Please be careful and responsible whenever you are online.
+
+  
+**12.  Restrictions on the Posting of Pictures**
+
+If you are under the age of 13, we need your parent’s verifiable consent (e.g., initials on your on-line registration form or an email from your parents to the FIRST Webmaster) before you can enter any pictures of yourself.
+
+If you are 13 to 18 years of age, you are expected you to have your parent’s permission before submitting any pictures of yourself.
+
+Before posting the pictures of others, if the person is under the age of 18, you must have the parent/guardian’s consent. 
+
+Everyone should use good judgment when posting images.  Images that do not reflect good judgment (e.g. depictions of illegal or irresponsible activity, disclosure of private information about a minor, etc.) can be removed by Us.
+
+**13.   Problems, Questions, Complaints, Assistance.**
 
 If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact Us via our [Contact Us](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=866 "Contact Us") page or by sending a letter to:
 
