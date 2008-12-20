@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catster.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515225120id_/http%3A//www.catster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catster.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220215315id_/http%3A//www.catster.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,6 +43,24 @@ Catster.com may contain links to other web sites. These other sites maintain the
 Security 
 
 We use industry standard security measures to protect your information so that it is not made available to unauthorized parties. If you have any questions regarding which measures and techniques we use, feel free to contact us. 
+
+Contacting Us 
+
+You can always contact us at any time by email at catsters@catster.com or by phone at 415-934-0400. 
+
+Our mailing address is:  
+Catster  
+555 De Haro Street, Suite 350  
+San Francisco, CA 94107  
+
+
+Unsubscribing 
+
+You can easily unsubscribe at any time. In any email you recieve from www.catster.com there will be an "unsubscribe" or "Opt-out" link in the footer of the email. Clicking on that link will take you immediately to a page where you can unsubscribe or globally opt-out from all email correspondence from www.catster.com. 
+
+Additionaly, members can always adjust their email preference, including unsubscribing, by going to [http://www.catster.com/account/account_email_pref.php](https://web.archive.org/account/account_email_pref.php). 
+
+Remember, all emails can be unsubscribed from immediately by clicking the "unsubscribe" or "opt-out" link in any email.
 
 Have other questions? 
 
