@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comx-computers.co.za privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514012235id_/http%3A//www.comx-computers.co.za/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comx-computers.co.za privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220064425id_/http%3A//www.comx-computers.co.za/privacy-statement.php) for the most accurate reproduction.*
 
 # Computers South Africa - Computers, laptops and software sales to the Public
 
@@ -51,7 +51,7 @@ This site has security measures in place to protect the loss, misuse, and altera
 **Opt-in/Opt-Out of newsletters**
 
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information.  
-You may un-register at any time by going to our [newsletter page](http://www.comx.co.za/newsletter/index.php) and removing your email address from the list. this is an automated process that takes effect immediately on submitting your address.
+You can unregister at any time by following the unsubscribe link at the top or bottom of your newsletter email. This is an automatic process and takes effect immediately.
 
 **Contacting the Webmaster**
 
