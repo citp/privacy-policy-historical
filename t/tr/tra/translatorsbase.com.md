@@ -1,8 +1,18 @@
-> *The following text is extracted and transformed from the translatorsbase.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527185326id_/http%3A//translatorsbase.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translatorsbase.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220161403id_/http%3A//www.translatorsbase.com/privacy.aspx) for the most accurate reproduction.*
 
-# Translators, Translation Services, Translation Jobs - Translatorsbase.com
+# Privacy Policy
 
 Verbumsoft wants to demonstrate its commitment to your privacy and has displayed its privacy statement for your review: 
+
+  1. What personally identifiable information of yours or third party personally identification is collected from you through the web site
+  2. The organization collecting the information 
+  3. How the information is used 
+  4. With whom the information may be shared 
+  5. What choices are available to you regarding collection, use and distribution of the information?
+  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under (Name of the Company) control 
+  7. How you can correct any inaccuracies in the information. 
+
+
 
 If you have any concerns regarding this statement, you should contact Verbumsoft's privacy administrator by email at service@verbumsoft.com
 
@@ -11,11 +21,11 @@ The purpose of our privacy statement is to make our clients aware of our dedicat
 Changes to this Privacy Statement: We reserve the right to modify this privacy statement, and will publish notification on our web site no less than 30 days before the statement modifications take effect. 
 
 **Information Collection and Use**   
-Verbumsoft located at Ul. Kollataja 78D, 
+Verbumsoft located at 3500 West Olive Avenue, 3rd Floor 
 
-Poznan Poland
+Burbank, CA 91505 USA
 
-, email: [service@translatorsbase.com](mailto:service@translatorsbase.com) is the organizations collecting the Personally Identifiable Information and/or Third Party Personally Identifiable Information through the Site. 
+, email: [service@verbumsoft.com](mailto:service@verbumsoft.com) is the organizations collecting the Personally Identifiable Information and/or Third Party Personally Identifiable Information through the Site. 
 
 When a user contracts Verbumsoft services, the user is required to provide such information as their name, company name, address, phone number, e-mail address, product selection, and billing information. It is possible that we will also ask for additional information such as company industry, number of employees, etc., at the time our service is contracted or if interest in our services is expressed. It is optional for customers to provide this additional information, and users may choose not to do so when they activate services with Verbumsoft or request information on our services. 
 
@@ -38,7 +48,7 @@ We use IP addresses to analyze trends, administer the site, track user's movemen
 **Links**   
 Our web site contains links to other sites. Please be aware that we Verbumsoft. are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site or the Verbumsoft application. 
 
-**Surveys**  
+**Surveys**   
 From time-to-time our site requests information from users via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information and demographic information. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site or of the Verbumsoft application. 
 
 **Security**   
@@ -48,4 +58,4 @@ Verbumsoft has chosen to implement the latest technology that allows for the hig
 Verbumsoft offers its visitors and customers a means to choose how we may use information provided. If, at any time after registering for information or ordering Services, you change your mind about receiving information from us, send us a request specifying your new choice. Simply send your request to service@verbumsoft.com
 
 **Correcting and Updating Your Information**   
-To update billing information or discontinue the Service please email [service@verbumsoft.com](mailto:service@verbumsoft.com)
+To update billing information or discontinue the Service please email [ service@verbumsoft.com](mailto:service@verbumsoft.com)
