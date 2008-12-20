@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carlosbarahona.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614024422id_/http%3A//www.magneticsponsoring.com/wmi/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carlosbarahona.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220023918id_/http%3A//www.magneticsponsoring.com/wmi/privacy.htm) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
