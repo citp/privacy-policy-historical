@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftbits.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609212440id_/http%3A//www.craftbits.com/html/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftbits.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220124250id_/http%3A//www.craftbits.com/html/policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -21,6 +21,8 @@ We use an outside ad company to display ads on our site. These ads may contain c
 ####  Registration 
 
 We require the users of the site to register with us before they can access some parts of this site. Registration is a one time process and for a majority of the content on the site, registration is NOT required. By registering, you also receive a newsletter twice a month containing information about activity on our site. The information collected at the time of registration is held on the servers at our web hosts. This information is not shared with any other third party. 
+
+We also send out promotional materials from our sponsors from time to time. These promotions are directly related to out website and are limited to a maximum of one per month. You can opt out of receiving these promotions by sending an email to tech@craftbits.com with the subject lin: "Unsubscribe Promotions".
 
 Demographic and profile data is also collected at our site.   
 We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
