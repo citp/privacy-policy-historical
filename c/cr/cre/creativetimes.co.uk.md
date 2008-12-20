@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creativetimes.co.uk privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607011411id_/http%3A//www.creativetimes.co.uk/legals/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativetimes.co.uk privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220171911id_/http%3A//www.creativetimes.co.uk/legals/privacy) for the most accurate reproduction.*
 
-# CREATIVE Times - Published by CIDS
+# Creative industries news, events and articles brought to you by CIDS - CREATIVE Times
 
 ## Privacy Policy
 
