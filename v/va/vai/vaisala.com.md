@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vaisala.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611023156id_/http%3A//www.vaisala.com/content/vaisala%2520-%2520internet%2520dg5%2520c/frontpage/privacy%2520policy.html%3FSectionUri%3D/%26Template%3Dcontentplain.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaisala.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220180526id_/http%3A//www.vaisala.com/content/vaisala%2520-%2520internet%2520dg5%2520c/frontpage/privacy%2520policy.html%3FSectionUri%3D/%26Template%3Dcontentplain.aspx) for the most accurate reproduction.*
 
 # Privacy policy - Vaisala
 
