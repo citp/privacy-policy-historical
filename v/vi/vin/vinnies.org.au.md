@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vinnies.org.au privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616070318id_/http%3A//www.vinnies.org.au/Privacystatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinnies.org.au privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220114211id_/http%3A//www.vinnies.org.au/Privacystatement.cfm) for the most accurate reproduction.*
 
 # St Vincent de Paul Society Australia
 
@@ -56,5 +56,6 @@ Our privacy policy covers the privacy practices for the St Vincent de Paul Socie
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact the St Vincent de Paul Society office in your State
 
-|  [](https://web.archive.org/web/20080616070318id_/http%3A//www.vinnies.org.au/findlocation.cfm)   
-[](http://www.vinnies.org.au/wyd/australia/)
+|  [](https://web.archive.org/web/20081220114211id_/http%3A//www.vinnies.org.au/findlocation.cfm)
+
+[](http://www.vinnies.org.au/gallery/index.html)
