@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nzdating.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518175831id_/http%3A//www.nzdating.com/general/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzdating.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220173443id_/http%3A//www.nzdating.com/general/privacy.aspx) for the most accurate reproduction.*
 
 # NZDating - New Zealands premier NZ dating and friendship service
 
@@ -53,6 +53,9 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 **Internal Email System**  
 Messages using our internal email system are not able read by any other members other than the sender and receiver. Once a message is sent it is not possible to retract it. Some membership options may allow a sender of an email to see when their sent email was read or if it was deleted. NZDating have a number of security filters and procedures that are run over internal email to prevent site abuse, commercial use and spam. As part of these processes from time to time NZDating staff may be required to view messages, however they will always remain private and confidential, the only time these messages will be disclosed to any other party is if the member is involved in legal proceedings and either NZDating is satisfied that the legal action is justified, or the disclosure is a legal requirement. 
 
+**Member Profiles, Adverts and Photos**  
+NZDating have a number of security filters and procedures that are run over member profiles and photos to help prevent site misuse, unathorised commercial use and spam. As part of these processes from time to time authorised NZDating staff may be required to view member profiles, adverts and associated material. 
+
 **Shared Member Information**  
 As a core function of NZDating, various elements of your profile, the last time your have been on the NZDating website, and other statistical information may also be available to members such as ratios on how often you reply, block, use messageboard hammers and other information that may assist a member to deciding if they will interact. Members may also have the option to list who has viewed their profile and who is currently online. 
 
@@ -83,5 +86,6 @@ Or use our [**contact form**](https://web.archive.org/general/contact.aspx)
 
 Please note: we do not provide email addresses to prevent automated spamming engines collecting them. If you need an email address please use staff at nzdating.com, replacing the at and spaces with the @ sign. 
 
-|   
+| 
 
+[](https://web.archive.org/promos/2008_Xmas/)
