@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodlanddirect.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610053734id_/http%3A//www.woodlanddirect.com/site/files/pop-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodlanddirect.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220082908id_/http%3A//www.woodlanddirect.com/site/files/pop-privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -25,4 +25,5 @@ If you have any questions, concerns, or comments about our privacy policy you ma
 > **�** By E-Mail: [webdirector@woodlanddirect.com](mailto:webdirector@woodlanddirect.com)  
 >  **�** By Phone: 1-800-919-1904
 
-We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
+We reserve the right to make changes to this policy. Any changes to this policy will be posted.   
+
