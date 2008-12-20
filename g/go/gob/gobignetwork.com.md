@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gobignetwork.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629004815id_/http%3A//www.gobignetwork.com/HelpFiles/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobignetwork.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220103802id_/http%3A//www.gobignetwork.com/HelpFiles/privacy.aspx) for the most accurate reproduction.*
 
 # Go BIG Network : The BIGGEST network for STARTUP opportunities!
 
@@ -30,17 +30,17 @@ As part of our efforts to provide better services to Go Big Network users, Go Bi
 
 User Accounts 
 
-You may make changes to your Go Big Network account and any associated preferences at any time. To make changes, you must log onto the Go Big Network and make any edits through the My Go Big section. You may also request to terminate your Go Big account. To request a removal of your account, please contact info@gobignetwork.com. 
+You may make changes to your Go Big Network account and any associated preferences at any time. To make changes, you must log onto the Go Big Network and make any edits through the My Go Big section. You may also request to terminate your Go Big account. To request a removal of your account, please [contact us](https://web.archive.org/web/20081220103802id_/http%3A//www.gobignetwork.com/HelpFiles/ContactUs.aspx). 
 
 System Generated Emails 
 
-As part of the normal functioning of the Go Big Network, users may receive email requests from Go Big Media or for contact from other users. However, Go Big Media will NOT reveal your email address to any other user until you chose to do so. Additionally, Go Big Media will send you system generated emails and promotional materials. These communications may begin during the registration process and continue while your account remains on the Go Big Network. If you wish to opt out of promotional emails, please contact info@gobignetwork.com and specify your request. You can adjust the frequency of emails that you receive by making these changes in the My Go Big section of your account. 
+As part of the normal functioning of the Go Big Network, users may receive email requests from Go Big Media or for contact from other users. Additionally, Go Big Media will send you system generated emails and promotional materials. These communications may begin during the registration process and continue while your account remains on the Go Big Network. If you wish to opt out of promotional emails, please [contact us](https://web.archive.org/web/20081220103802id_/http%3A//www.gobignetwork.com/HelpFiles/ContactUs.aspx) and specify your request. You can adjust the frequency of emails that you receive by making these changes in the My Go Big section of your account. 
 
 Affiliate and Partner Services 
 
-We will not release your personal information to any party unless required to do so by law or if it is requested by you or part of the normal functioning of the Go Big Network. We do intend to use a third party to verify and process credit card information for any fees or purchases made on the Go Big Network or with Go Big Media. All third parties are required to use your information in a secure manner and only for the purpose given to them and cannot store or release this information. Certain non-sensitive profile information may be released to our affiliates and partners for the purpose of marketing and improving our service to you. 
+We do intend to use a third party to verify and process credit card information for any fees or purchases made on the Go Big Network or with Go Big Media. All third parties are required to use your information in a secure manner and only for the purpose given to them and cannot store or release this information. Certain profile information, including contact information, may be released to our affiliates and partners for the purpose of marketing and improving our service to you. 
 
-If you have a question about this privacy policy, please email info@gobignetwork.com or write to us at: 
+If you have a question about this privacy policy, please [contact us](https://web.archive.org/web/20081220103802id_/http%3A//www.gobignetwork.com/HelpFiles/ContactUs.aspx) or write to us at: 
 
 Attn: Privacy Policy   
 Go Big Media, LLC.   
