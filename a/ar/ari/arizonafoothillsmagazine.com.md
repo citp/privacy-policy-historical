@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arizonafoothillsmagazine.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628003143id_/http%3A//www.arizonafoothillsmagazine.com/afm-content-mag.php%3Fsubcat%3Dsecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arizonafoothillsmagazine.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220094237id_/http%3A//www.arizonafoothillsmagazine.com/afm-content-mag.php%3Fsubcat%3Dsecurity) for the most accurate reproduction.*
 
 # Arizona Foothills Magazine
 
