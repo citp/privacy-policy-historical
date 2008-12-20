@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ad-sage.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509233307id_/http%3A//www.ad-sage.com/About%2520us/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad-sage.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220090510id_/http%3A//www.ad-sage.com/About%2520us/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy- Adsage
 
