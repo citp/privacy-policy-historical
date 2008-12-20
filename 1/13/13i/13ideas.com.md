@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 13ideas.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616132830id_/http%3A//13ideas.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 13ideas.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220183011id_/http%3A//13ideas.com/about/privacy) for the most accurate reproduction.*
 
 # 13 Ideas » Privacy Policy
 
@@ -32,4 +32,4 @@ While all reasonable care has been taken in the preparation of the material cont
 
 ### Contacting us
 
-If you have any questions or comments related to privacy, please [contact us](https://web.archive.org/web/20080616132830id_/http%3A//13ideas.com/contact/).
+If you have any questions or comments related to privacy, please [contact us](https://web.archive.org/web/20081220183011id_/http%3A//13ideas.com/contact/).
