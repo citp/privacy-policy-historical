@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityrealty.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609054937id_/http%3A//www.cityrealty.com/how_cityrealty_works/privacy_policy.cr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityrealty.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220022006id_/http%3A//www.cityrealty.com/how_cityrealty_works/privacy_policy.cr) for the most accurate reproduction.*
 
 # Privacy Policy > CityRealty
 
@@ -133,8 +133,8 @@ This Privacy Policy applies only to the CityRealty Web Site. It does not apply t
 If for some reason you believe that we have not adhered to the terms of this Privacy Policy, or if you have any questions or comments about this Privacy Policy, please notify us by email at [contact@cityrealty.com](mailto:contact@cityrealty.com), and we will do our best to address your concerns and promptly confirm and correct any problems. The email must contain the words Privacy Policy in its subject line. You may also contact us by regular mail at:
 
 **CityRealty.com Privacy Policy**  
-19 West 44th Street, Suite 514  
-New York, N.Y. 10036  
+568 Broadway, Suite 802  
+New York, NY 10012  
 Phone: (212) 755-5544  
 Facsimile: (212) 755-5545 
 
