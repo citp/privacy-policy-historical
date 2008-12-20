@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the confetti.co.uk privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613100426id_/http%3A//www.confetti.co.uk/article/view/6793-7753-0-Privacy_policy_About_Confetti.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confetti.co.uk privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220042654id_/http%3A//www.confetti.co.uk/article/view/6793-7753-0-Privacy_policy_About_Confetti.do) for the most accurate reproduction.*
 
 # Privacy policy at confetti.co.uk
 
@@ -34,7 +34,7 @@ We will store information about you as long as we require it to carry out our bu
 
 ### How you can contact us
 
-You can contact our customer service team at [cutomercare@confetti.co.uk](mailto:cutomercare@confetti.co.uk "mailto:cutomercare@confetti.co.uk") or phone 0870 840 6060 Monday – Friday 9am to 5pm. 
+You can contact our customer service team at [customercare@confetti.co.uk](mailto:cutomercare@confetti.co.uk "mailto:cutomercare@confetti.co.uk") or phone 0870 840 6060 Monday – Friday 9am to 5pm. 
 
 ### Cookies 
 
