@@ -1,27 +1,31 @@
-> *The following text is extracted and transformed from the tutorialoutpost.com privacy policy that was archived on 2008-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080327044939id_/http%3A//tutorialoutpost.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorialoutpost.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220101448id_/http%3A//tutorialoutpost.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - TutorialOutpost
+# Privacy Policy on Tutorial Outpost - Photoshop Tutorials, Flash Tutorials, and more!
 
-## Privacy Policy
+Sabotage Media, LLC ("Sabotage Media") operates several websites including **tutorialoutpost.com**. It is Sabotage Media's policy to respect your privacy regarding any information we may collect while operating our websites.
 
-This is the web site of **TutorialOutpost**.
+### Website Visitors
 
-Our postal address is:  
-PO Box 630726  
-Littleton, CO 80163
+Like most website operators, Sabotage Media collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Sabotage Media's purpose in collecting non-personally identifying information is to better understand how Sabotage Media's visitors use its website. From time to time, Sabotage Media may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-We can be reached via e-mail at [info@tutorialoutpost.com](mailto:info@tutorialoutpost.com).
+Sabotage Media also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Sabotage Media does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
 
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
+### Gathering of Personally-Identifying Information
 
-We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+Certain visitors to Sabotage Media's websites choose to interact with Sabotage Media in ways that require Sabotage Media to gather personally-identifying information. The amount and type of information that Sabotage Media gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account on tutorialoutpost.com to provide a username and email address. In each case, Sabotage Media collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Sabotage Media. Sabotage Media does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-The information we collect is used to improve the content of our Web page and used to customize the content and/or layout of our page for each individual visitor.
+### Aggregated Statistics
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record past activity at a site in order to provide better service when visitors return to our site.
+Sabotage Media may collect statistics about the behavior of visitors to its websites. Sabotage Media may display this information publicly or provide it to others. However, Sabotage Media does not disclose personally-identifying information other than as described below.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
+### Protection of Certain Personally-Identifying Information
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+Sabotage Media discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Sabotage Media's behalf or to provide services available at Sabotage Media's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Sabotage Media's websites, you consent to the transfer of such information to them. Sabotage Media will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Sabotage Media discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Sabotage Media believes in good faith that disclosure is reasonably necessary to protect the property or rights of Sabotage Media, third parties or the public at large. If you are a registered user of a Sabotage Media website and have supplied your email address, Sabotage Media may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Sabotage Media and our products. We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Sabotage Media takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+### Cookies
+
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Sabotage Media uses cookies to help Sabotage Media identify and track visitors, their usage of Sabotage Media website, and their website access preferences. Sabotage Media visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Sabotage Media's websites, with the drawback that certain features of Sabotage Media's websites may not function properly without the aid of cookies.
+
+### Privacy Policy Changes
+
+Although most changes are likely to be minor, Sabotage Media may change its Privacy Policy from time to time, and in Sabotage Media's sole discretion. Sabotage Media encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
