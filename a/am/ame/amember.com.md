@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amember.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515234403id_/http%3A//www.amember.com/p/Main/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amember.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220162519id_/http%3A//www.amember.com/p/Main/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
