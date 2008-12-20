@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediacorp.sg privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610115309id_/http%3A//www.mediacorp.sg/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediacorp.sg privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220144942id_/http%3A//www.mediacorp.sg/privacy.php) for the most accurate reproduction.*
 
 # MediaCorp Pte Ltd
 
@@ -8,7 +8,7 @@
 
 **
 
-This Privacy Policy Statement sets forth the privacy policy pertaining to this Site maintained by MediaCorp Pte Ltd - **www.mediacorp.com.sg** , and all sites of the MediaCorp Pte Ltd which are linked to this Site (collectively, the "Sites"). By using any Site, you are agreeing to the terms set forth in this Privacy Policy Statement. 
+This Privacy Policy Statement sets forth the privacy policy pertaining to this Site maintained by MediaCorp Pte Ltd - **www.mediacorp.sg** , and all sites of the MediaCorp Pte Ltd which are linked to this Site (collectively, the "Sites"). By using any Site, you are agreeing to the terms set forth in this Privacy Policy Statement. 
 
 For purposes of this Privacy Policy Statement, "Personal Information" means any information by which you can be personally identified, and includes your name, your address, your telephone number, your e-mail address and the like. Most Sites do not require that you submit Personal Information to us. However, some Sites may request Personal Information in order to help us serve you more effectively. MediaCorp Pte Ltd collects Personal Information only when you voluntarily submit such Personal Information to us, such as when placing a product order through a Site, when entering a contest, when posting a message to a forum, and so on. 
 
@@ -28,6 +28,6 @@ It is MediaCorp Pte Ltd’s policy to keep Personal Information only for so long
 
 
 
-To make any request described above, send an e-mail to [editor@mediacorptv.com ](mailto:editor@mediacorptv.com%20)or write to MediaCorp Pte Ltd, Caldecott Broadcast Centre, Andrew Road, Singapore 299939. When contacting us, please be sure to provide us with your exact e-mail address, name, address and/or telephone number(s) in order to be sure we handle your request correctly. 
+To make any request described above, send an e-mail to [editor@mediacorp.com.sg](mailto:editor@mediacorp.com.sg) or write to MediaCorp Pte Ltd, Caldecott Broadcast Centre, Andrew Road, Singapore 299939. When contacting us, please be sure to provide us with your exact e-mail address, name, address and/or telephone number(s) in order to be sure we handle your request correctly. 
 
 MediaCorp Pte Ltd reserves the right, at its discretion, to change, modify, add, or remove portions of this Privacy Policy Statement at any time. You should check this page periodically for changes. Your continued use of this Site following the posting of changes to this Privacy Policy Statement will mean that you accept those changes. 
