@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the metroactive.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611013124id_/http%3A//www.metroactive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metroactive.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220044556id_/http%3A//www.metroactive.com/privacy) for the most accurate reproduction.*
 
 # Metro Newspapers Privacy Policy
 
 February 19, 2020 
 
-[home](https://web.archive.org/web/20080611013124id_/http://www.metroactive.com/index.html) | privacy policy
+[home](https://web.archive.org/web/20081220044556id_/http://www.metroactive.com/index.html) | privacy policy
 
   
 
@@ -76,7 +76,7 @@ This Privacy Policy is effective as of August 17, 2006. We may need to change an
 The laws of the United States of America govern our sites, In the event of a sale of any of our sites, divisions or of a substantial portion of any of our assets, the email database and all use information may accrue to the new owners. Your personal identifiable information will be governed by this policy and any amended or revised provisions contained therein.
 
 **Contact:**  
-If you have any questions about this privacy statement, the practices of our sites or your dealings with our sites, you may [contact us](https://web.archive.org/web/20080611013124id_/http://www.metroactive.com/contact/).
+If you have any questions about this privacy statement, the practices of our sites or your dealings with our sites, you may [contact us](https://web.archive.org/web/20081220044556id_/http://www.metroactive.com/contact/).
 
   
 
