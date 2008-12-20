@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the automateyourlist.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622144748id_/http%3A//www.automateyourlist.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automateyourlist.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220110150id_/http%3A//www.automateyourlist.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - AutomateYourList.com
 
-[Home](https://web.archive.org/web/20080622144748id_/http%3A//www.automateyourlist.com/index.htm) > [About Us](https://web.archive.org/web/20080622144748id_/http%3A//www.automateyourlist.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20080622144748id_/http%3A//www.automateyourlist.com/privacy-policy.htm)
+[Home](https://web.archive.org/web/20081220110150id_/http%3A//www.automateyourlist.com/index.htm) > [About Us](https://web.archive.org/web/20081220110150id_/http%3A//www.automateyourlist.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20081220110150id_/http%3A//www.automateyourlist.com/privacy-policy.htm)
 
 **This statement discloses the privacy practices of AutomateYourList.com/AWeber Systems, Inc.**
 
