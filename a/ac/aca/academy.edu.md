@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the academy.edu privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615162509id_/http%3A//www.academy.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academy.edu privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220160453id_/http%3A//www.academy.edu/privacy.aspx) for the most accurate reproduction.*
 
-# IADT – International Academy of Design and Technology
+# The Academy – International Academy of Design and Technology
 
-This and certain other linked web pages on servers owned by Career Education Corporation (otherwise noted as the "Sites") are owned and operated by Career Education Corporation and IADT - Tampa.
+This and certain other linked web pages on servers owned by Career Education Corporation (otherwise noted as the "Sites") are owned and operated by Career Education Corporation and the International Academy of Design & Technology in Tampa.
 
-At IADT - Tampa, we share your concerns about privacy. We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the site: www.academy.edu.
+At the International Academy of Design & Technology in Tampa, we share your concerns about privacy. We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the site: www.academy.edu.
 
 ## IP Address
 
@@ -20,15 +20,15 @@ The Sites' contact forms request that users provide contact information (such as
 
 In compliance with the Children's Online Privacy Protection Act, 15 U.S.C., §§ 6501-06 and 16 C.F.R., §§ 312.1-312.12, our Sites do not permit children under 13 years of age to become users, and we do not collect information from children. By using our Sites, you represent that you are not under 13 years of age.
 
-Except with regard to any contact information you may provide us via the Sites, all comments, feedback, information or materials submitted to IADT - Tampa through or in association with this website (collectively, "Feedback") will be considered non-confidential and the property of IADT - Tampa. By submitting such Feedback to IADT - Tampa, you agree that you assign to IADT - Tampa, without charge, all worldwide rights, title and interest, including copyrights and other intellectual property rights, in and to the Feedback. IADT - Tampa shall be free to use such Feedback on an unrestricted basis."
+Except with regard to any contact information you may provide us via the Sites, all comments, feedback, information or materials submitted to the International Academy of Design & Technology in Tampa through or in association with this website (collectively, "Feedback") will be considered non-confidential and the property of the International Academy of Design & Technology in Tampa. By submitting such Feedback to the International Academy of Design & Technology in Tampa, you agree that you assign to the International Academy of Design & Technology in Tampa, without charge, all worldwide rights, title and interest, including copyrights and other intellectual property rights, in and to the Feedback. The International Academy of Design & Technology in Tampa shall be free to use such Feedback on an unrestricted basis."
 
 ## Security
 
-The Sites' have security measures in place to protect against the loss, misuse and alteration of the information under our control; however, IADT - Tampa does not guarantee the performance or adequacy of such security measures.
+The Sites' have security measures in place to protect against the loss, misuse and alteration of the information under our control; however, the International Academy of Design & Technology in Tampa does not guarantee the performance or adequacy of such security measures.
 
 ## Links to Other Web Sites
 
-The Sites contain links to other web sites that are not owned or operated by IADT - Tampa. IADT - Tampa is not responsible for the privacy policies or practices of third parties or the content or security of such web sites. (See the Disclaimers section in our [legal terms and conditions](https://web.archive.org/legal.aspx)).
+The Sites contain links to other web sites that are not owned or operated by the International Academy of Design & Technology in Tampa. the International Academy of Design & Technology in Tampa is not responsible for the privacy policies or practices of third parties or the content or security of such web sites. (See the Disclaimers section in our [legal terms and conditions](https://web.archive.org/legal.aspx)).
 
 ## Contact Us
 
@@ -37,7 +37,7 @@ To remove or change your contact information in our database, or to not receive 
  **1\. Email the[webmaster](mailto:8WebMaster@careered.com?subject=IADT_Tampa%20-%20Important!%20Sent%20From%20Privacy%20Statement).**
 
 **2\. Contact us at:**  
-IADT - Tampa  
+The International Academy of Design & Technology in Tampa  
 5104 Eisenhower Blvd.    
 Tampa, FL  33634  
 Phone: 1-888-315-6111 
