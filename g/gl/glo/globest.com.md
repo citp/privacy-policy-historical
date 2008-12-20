@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globest.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611003538id_/http%3A//www.globest.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globest.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220165551id_/http%3A//www.globest.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - GlobeSt.com
 
@@ -9,7 +9,7 @@ Real Estate Media (ALM) has adopted information management guidelines that defin
 
 Any questions about this privacy statement, requests to correct or clarify your personally identifying information, or requests to modify your "opt-out" preferences can be directed to: 
 
-Real Estate Media Network Customer Service 520 Eighth Avenue, 17th Fl. New York, NY 10018 Phone: 917-464-0348 E-mail: [customerservice@remedianetwork.com](mailto:customerservice@remedianetwork.com)
+Real Estate Media Network Customer Service 120 Broadway, 5th Floor New York, NY 10271 Phone: 212-457-9677 E-mail: [customer.service@incisivemedia.com](https://web.archive.org/cgi-bin/udt/fdc.collector?client_id=globest&form_id=maileditform&link_id=26)
 
 **CHANGES TO THIS PRIVACY STATEMENT**  
 From time to time, ALM may use customer information for new purposes not previously disclosed in this privacy notice. If our information practices change at some time in the future we will post the policy changes here to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back to our Web site periodically. 
@@ -75,6 +75,6 @@ All users, including those users who access the Web site from a country other th
 **OPTING-OUT, CORRECTIONS AND CANCELLATIONS**  
 Upon request, ALM will (a) remove you and your personal information from our mailing and e-mail lists, thereby canceling your registration, (b) correct personal information that you state is erroneous, (c) manage your promotional e-mail preferences for you, and/or (d) manage your preferences for sharing personally identifying information for you. Please direct your inquiry to: 
 
-Real Estate Media Network Customer Service 520 Eighth Avenue, 17th Fl. New York, NY 10018 Phone: 917-464-0348. E-mail: [customerservice@remedianetwork.com](mailto:customerservice@remedianetwork.com)
+Real Estate Media Network Customer Service 120 Broadway, 5th Floor New York, NY 10271 Phone: 212-457-9677 E-mail: [customer.service@incisivemedia.com](https://web.archive.org/cgi-bin/udt/fdc.collector?client_id=globest&form_id=maileditform&link_id=26)
 
 **LAST UPDATED: May 1, 2006**
