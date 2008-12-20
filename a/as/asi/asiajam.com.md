@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiajam.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518020640id_/http%3A//www.asiajam.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiajam.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220143121id_/http%3A//www.asiajam.com/catalog/privacy.php) for the most accurate reproduction.*
 
 # AsiaJam.com Fashion Boutique
 
@@ -8,9 +8,9 @@
 |   
 ---  
   
-[](http://www.asiajam.com/catalog/product_info.php/products_id/617?osCsid=0cf3b3a5c00e2b691491091fbb66ea0d)
+[](http://www.asiajam.com/catalog/product_info.php/products_id/1537)
 
-Plastic Bears in Star Earrings
+Candy Sweet Hair Clips
 
 $2.90  
   
