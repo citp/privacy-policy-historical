@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aandesigners.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601181415id_/http%3A//www.aandesigners.com/web-design-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aandesigners.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220070825id_/http%3A//www.aandesigners.com/web-design-privacy-policy) for the most accurate reproduction.*
 
-# AAN Designers / Web Design Dubai, Search Engine Optimization Dubai, Flash Website designers, Web Development Dubai
+# AAN Designers - Web Design Dubai, Search Engine Optimization Dubai, Flash Website designers, Dubai Web Designers, Web Hosting Dubai
 
 AAN Designers is committed to protecting your privacy, which is why we have adopted this Privacy Policy. This Privacy Policy is intended to describe how your personal information is processed and used, and we will make every effort to ensure that our activities keep within the spirit of this Privacy Policy. You can tour through most of our site without giving us any information that personally identifies you, reveals personal information or allows us to contact you, but sometimes we do need information to respond to your requests. This privacy statement explains the data we collect from you and its use. Please read the complete privacy statement.
 
