@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hymnary.org privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526230158id_/http%3A//www.hymnary.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hymnary.org privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220222749id_/http%3A//www.hymnary.org/info/privacy.html) for the most accurate reproduction.*
 
 # CCEL Privacy Policy | Calvin Hymnary Project
 
