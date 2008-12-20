@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delhilive.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614094137id_/http%3A//www.delhilive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delhilive.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220044722id_/http%3A//www.delhilive.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DelhiLive.com
 
@@ -121,4 +121,4 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
 
 DelhiLive may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice to the primary email address specified in your DelhiLive account or by placing a prominent notice on our site.
 
-If you have questions or suggestions please contact us at [admin@DelhiLive.com](mailto:admin@DelhiLive.com).
+If you have questions or suggestions please contact us at adm[...](http://mailhide.recaptcha.net/d?k=01TgaBljWdN1lY_OrJ8qjH0w==&c=LsM_yLn9Wu9rKY75t2JcDkAbIGdFuPc_ylJtGGKN4zg= "Reveal this e-mail address")@DelhiLive.com.
