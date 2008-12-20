@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raring2go.co.uk privacy policy that was archived on 2008-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080112133715id_/http%3A//www.raring2go.co.uk/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raring2go.co.uk privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220214300id_/http%3A//www.raring2go.co.uk/privacypolicy.aspx) for the most accurate reproduction.*
 
 # About Us - Raring2go!
 
@@ -49,3 +49,6 @@ By advertising with Raring2go! you agree that you are happy for your information
 However, if you change your mind about the way you have agreed your data can be used, just contact us via the website to stop specific or all uses of your data. 
 
 All data collected by N5 Limited is shared within the N5 group of companies for verification and use in their marketing files 
+
+  
+
