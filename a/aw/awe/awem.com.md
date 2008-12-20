@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the awem.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622072305id_/http%3A//www.awem.com/awem/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awem.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220083730id_/http%3A//www.awem.com/privacypolicy) for the most accurate reproduction.*
 
-# Awem studio - breathtaking casual games
+# Privacy Policy
+
+[Privacy Policy](https://web.archive.org/privacypolicy/)
+
+## Awem studio Privacy Policy
 
 Last modified: November 23, 2007 
 
