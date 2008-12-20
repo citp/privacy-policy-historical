@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyplayers.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614190220id_/http%3A//www.fantasyplayers.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyplayers.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220011649id_/http%3A//www.fantasyplayers.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ As a general policy, no personally identifiable information is automatically col
 > 
 
 >       
->  *** Message Boards / Blogs / Chat Rooms** : You will be required to register with us in order to participate in our message and bulletin boards, blogs and chat rooms. The personally identifiable information that we require during registration may include your name, e-mail address, and other information about you. This information will be used to protect the security and integrity of the Sites. It may also be used to provide you with the information or materials that you requested on the registration page. Please be advised that if you voluntarily disclose personally identifiable information on our message or bulletin boards, blogs or chat rooms, such information can also be collected and used by others and could result in unsolicited messages from other people.  
+>  *** Message Boards / Blogs / Chat Rooms / Mobile Marketing Programs** : You will be required to register with us in order to participate in our message and bulletin boards, blogs and chat rooms. The personally identifiable information that we require during registration may include your name, e-mail address, telephone number, age and other information about you. The personally identifiable information that we require during registration may include your name, e-mail address, and other information about you. This information will be used to protect the security and integrity of the Sites. It may also be used to provide you with the information or materials that you requested on the registration page. Please be advised that if you voluntarily disclose personally identifiable information on our message or bulletin boards, blogs or chat rooms, such information can also be collected and used by others and could result in unsolicited messages from other people.  
 > 
 
 > *** Newsletters** : If you wish to receive our online newsletter, you will be asked to provide your e-mail address. This information will be used to subscribe you to the newsletter you requested.  
