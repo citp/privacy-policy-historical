@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the everyotherdaydiet.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609164451id_/http%3A//www.everyotherdaydiet.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyotherdaydiet.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220173547id_/http%3A//www.everyotherdaydiet.com/systemTest/privacy_policy) for the most accurate reproduction.*
 
-# The Every Other Day Diet
+# The Every Other Day Diet | Second Edition! | Featuring The SNAPP System!
 
 EveryOtherDayDiet.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We hate spam as much as you do and _we will never sell, barter, or rent your email address to any unauthorized third party_ —period.
 
