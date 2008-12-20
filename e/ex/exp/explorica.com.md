@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explorica.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629062720id_/http%3A//www.explorica.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorica.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220050422id_/http%3A//www.explorica.com/Privacy) for the most accurate reproduction.*
 
 # Learn More about Explorica International Educational Tours and Student Trips
 
