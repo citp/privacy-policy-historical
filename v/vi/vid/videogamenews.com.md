@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the videogamenews.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220011616id_/http%3A//www.videogamenews.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videogamenews.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220162100id_/http%3A//www.videogamenews.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Video Game News, Inc.
+# Video Game News
 
 Video Game News, Inc. is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Video Game News, Inc. Web site and governs data collection and usage. By using the Video Game News, Inc. website, you consent to the data practices described in this statement.
 
@@ -44,4 +44,4 @@ Video Game News, Inc. will occasionally update this Statement of Privacy to refl
 
 Contact Information
 
-Video Game News, Inc. welcomes your comments regarding this Statement of Privacy. If you believe that Video Game News, Inc. has not adhered to this Statement, please contact Video Game News, Inc. at [admin@videogamenews.com](mailto:admin@videogamenews.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Video Game News, Inc. welcomes your comments regarding this Statement of Privacy. If you believe that Video Game News, Inc. has not adhered to this Statement, please contact Video Game News, Inc. at [kjbaird@andrewssoftware.com](mailto:kjbaird@andrewssoftware.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
