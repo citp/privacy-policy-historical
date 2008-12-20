@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womma.org privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621141008id_/http%3A//www.womma.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womma.org privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220052715id_/http%3A//www.womma.org/privacy) for the most accurate reproduction.*
 
 # Word of Mouth Marketing Association — WOMMA – Privacy Policy
 
