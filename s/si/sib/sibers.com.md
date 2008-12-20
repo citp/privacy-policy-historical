@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sibers.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611063554id_/http%3A//www.sibers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sibers.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220134351id_/http%3A//www.sibers.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -6,9 +6,9 @@
 
 We've created this privacy statement in order to demonstrate our company's commitment to privacy. The following discloses the information gathering and dissemination practices for this website.
 
- **Email Information - and take all possible measures;**
+ **Email Information – and take all possible measures**
 
-We at HireRussians.com, Key-Soft.Net are aware of the growing concern of users regarding the widespread distribution of their personal information, and taking measures to protect our customer's and visitor's privacy. We do not sell or redistribute any e-mail addresses to third parties or spammers.
+We at Sibers.com, HireRussians.com and Key-Soft.net are aware of the growing concern of users regarding the widespread distribution of their personal information, and taking measures to protect our customer's and visitor's privacy. We do not sell or redistribute any e-mail addresses to third parties or spammers.
 
  **Information related to any project development**
 
@@ -24,4 +24,4 @@ These measures, along with our belief that it is up to the individual to determi
 
  **How to Contact Us**
 
-If you have other questions or concerns about this privacy statement, the practices of this site, you can contact us at [info@sibers.com](mailto:info@sibers.com), [info@hirerussians.com](mailto:info@hirerussians.com), or via postal mail at Lavrentyeva 6a, Suite 910, zip 630090, Novosibirsk, Russia or call +7(383) 330-6626.
+If you have other questions or concerns about this privacy statement, the practices of this site, you can contact us at [info@sibers.com](mailto:info@sibers.com), [info@hirerussians.com](mailto:info@hirerussians.com), or via postal mail at Lavrentyeva ave. 6/1 office 605, Novosibirsk, Russia 630090 or call +1 (800) 521-4091.
