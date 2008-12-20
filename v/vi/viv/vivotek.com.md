@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivotek.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604040022id_/http%3A//www.vivotek.com/general/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivotek.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220151724id_/http%3A//www.vivotek.com/general/privacy_policy.html) for the most accurate reproduction.*
 
 # VIVOTEK - Privacy Policy
 
