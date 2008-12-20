@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the wpp.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603202647id_/http%3A//wpp.com/WPP/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpp.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220165257id_/http%3A//www.wpp.com/WPP/Privacy.htm) for the most accurate reproduction.*
 
 # WPP - WPP Internet Privacy Policy
 
-WPP Internet Privacy Policy 
+  
 
-This website is provided by WPP Group plc ("WPP"). We take very seriously the privacy of our website users and the security of their personal information.
 
-For your convenience, this website contains links to a number of other websites, both inside and outside the WPP Group. The privacy policies and procedures described here do not apply to those sites; we suggest contacting those sites directly for information on their data collection and distribution policies. 
+This website is provided by WPP plc ("WPP"). We take very seriously the privacy of our website users and the security of their personal information.
+
+For your convenience, this website contains links to a number of other websites, both inside and outside the WPP plc. The privacy policies and procedures described here do not apply to those sites; we suggest contacting those sites directly for information on their data collection and distribution policies. 
 
 The purpose of this privacy policy is to set out the principles governing our use of personal information that we may obtain about you. By using the websites, or by registering as a user of the services that we provide, you agree to this use. We ask you to read this privacy policy carefully. Any dispute which may arise over privacy will be subject to this policy, the data protection notice (if any) incorporated into this website and the provisions of English law.
 
