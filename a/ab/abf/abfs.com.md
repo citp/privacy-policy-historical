@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abfs.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511192349id_/http%3A//www.abfs.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abfs.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220163340id_/http%3A//abfs.com/privacy.asp) for the most accurate reproduction.*
 
 # ABF Freight System, Inc. - Privacy Policy
 
@@ -28,7 +28,7 @@ How do I change my personal or company information?
 Personal information provided at the time of the ABF Web site registration will be deleted if the user does not access abf.com within 6 months as a logged-on user.
 
 Does the ABF site use cookies?
-    Certain saved options are stored as an encrypted entry in your cookie file, enabling you to access the advanced features of this site without having to logon each time you enter the site. We believe cookies provide a safe and secure way to improve the usability of the site. Please note that we will never use cookies to find demographic information. For more information about cookies, read the [Cookie and Privacy FAQ](http://home.netscape.com/security/basics/privacy.html) at the Netscape site. 
+    Certain saved options are stored as an encrypted entry in your cookie file, enabling you to access the advanced features of this site without having to logon each time you enter the site. We believe cookies provide a safe and secure way to improve the usability of the site. Please note that we will never use cookies to find demographic information. 
 Will ABF disclose the information it collects to third parties?
     Unless approved by you, ABF will not sell, rent or trade your information to others. In other words, all information about you stored on our site will never be released to anyone without your consent except to comply with valid legal processes, such as a search warrant, subpoena or court order, to protect the company's rights and property, or during emergencies when ABF believes physical safety is at risk.
 Will ABF use this information to send me promotional materials?
