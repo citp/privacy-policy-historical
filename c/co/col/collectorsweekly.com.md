@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the collectorsweekly.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227201244id_/http%3A//www.collectorsweekly.com/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectorsweekly.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220131314id_/http%3A//www.collectorsweekly.com/about/privacy-policy.php) for the most accurate reproduction.*
 
-# The Collectors Weekly - About Us
+# About Us | The Collectors Weekly
 
 ## Privacy Policy
 
 Thank you for visiting Collectorsweekly.com. We are committed to respecting your online privacy and to protecting and appropriately managing any personal information you share with us. Personal Information means any information that can be used to identify an individual, including, but not limited to, a first and last name, personal profile, a home or work or other physical address, and an email address or other contact information. We value your trust. Please take a moment to read through this privacy policy. This privacy policy forms part of the Terms of Use.
 
 #### Information We Collect
-
-Currently we do not require users to register or provide personal information in order to access the content and services available via the Collectorsweekly.com website.
 
 If you choose to provide us with your Personal Information on the site, for example to ask a question, request more information, or respond to a survey, YOUR PERSONAL INFORMATION WILL NOT BE SHARED WITH OR SOLD TO THIRD PARTIES WITHOUT YOUR CONSENT. We do not currently provide Personal Information to third parties. If at a later time we choose to make certain offers or services available to our users from third parties, we will ask you whether your Personal Information may be sent to third parties before doing so.
 
