@@ -1,99 +1,77 @@
-> *The following text is extracted and transformed from the strands.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228190617id_/http%3A//www.mystrands.com/privacy.vm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strands.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220191211id_/http%3A//www.strands.com/privacy) for the most accurate reproduction.*
 
-# MyStrands : Privacy Policy
+# Statics : Privacy
 
-This policy is effective as of June 15, 2005. 
+## Strands Privacy Policy
 
-### Introduction
+Strands Labs, Inc. and its affiliates (“Strands”) respect your privacy. This Privacy Policy (“Policy”) is effective as of September 16, 2008. It explains how we collect and use the personal information you may provide to us, and it will help you make informed decisions when using our websites and services. It applies to all the websites and services offered by Strands, including strands.com, mystrands.com, musicstrands.com, money.strands.com, bizsolutions.strands.com, partystrands.com, indie.mystrands.com, labs.mystrands.com and mystrands.tv (collectively, Strands’ “Sites” or “Services”). Some of our Services have additional privacy terms made available to you in connection with your use of those Services. If a Service has additional privacy terms, they supercede any conflicting terms in this Policy.
 
-MediaStrands and its affiliate companies (MyStrands) respect your general interests in protecting your privacy. We endeavor to offer end users of our website, our mobile and mobile web applications, and affiliated demonstration and software products, a set of services at low or no charge in exchange for the rights to use but not abuse information about end users. In this document we identify the uses to which we may put information about end users. We also identify firm limits on those uses. 
+This privacy policy covers the following areas:
 
-MyStrands adheres to the US Safe Harbor Privacy Principles. For more information on the Safe Harbor Framework, visit [Safe Harbor](http://www.export.gov/safeharbor/), to view our certification, view [Safe Harbor List](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list/). 
+  * \- what information we collect through the Services; 
+  * \- how we use the information; 
+  * \- with whom we may share the information; 
+  * \- what choices you have about our collection, use and disclosure of the information; 
+  * \- what security procedures are in place to protect the loss, misuse or alteration of information under our control; and 
+  * \- how you can correct any inaccuracies in the information. 
 
-### Information Collection
 
-Information about users and user preferences are collected via the MyStrands and partyStrands website, web services that communicate with the website (the "Web Site"), and the MyStrands client. MyStrands is the sole owner of all information collected via its products. In order to use certain parts of the Web Site or the MyStrands client, users must first complete the registration form. During registration users are required to give contact information - most of this contact information is optional; only a valid email address is required to successfully register. 
 
-### Information Use
+Strands adheres to the [US Safe Harbor Privacy Principles](http://www.export.gov/safeharbor/) of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. You can see our certification on the [Safe Harbor List](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list/). 
 
-#### Profile
+## Information Collection
 
-Information about users and user preferences are collected via the Web Site, Mystrands Clients for PC, Mac, Mobile, etc. Users can permanently delete their information, individual playcounts, and/or profile. MyStrands is the sole owner of all information collected via the Web Site. MyStrands collects information from users at several different points on the Web Site. MyStrands reserves the right to use information about users and users preference for demonstration purposes on other public and test websites. In order to use certain parts of the Web Site, users must first complete the registration form. During registration users are required to give contact information - most of this contact information is optional; only a valid email address is required to successfully register. 
+Strands collects information in several ways. First, we use server logs to collect anonymous, aggregate information (such as browser type, ISP, IP address, referring/exit pages, platform type, date/time stamp, and number of clicks) from all visitors to the Sites. Our Sites also use a standard technology called "cookies" to collect information about how the Site is used. Information gathered through cookies may include the pages viewed and the amount of time spent at the Site. This type of information is typically not linked to any personally identifiable information and is used primarily in the aggregate to generate statistical reports about the use of our Site. Strands does reserve the right to connect information collected through its server logs with other personally identifiable information.   
+Second, we collect information when you register to use a Service. During registration, you are required to provide only limited information, such as a valid email address, screen name and password. For most Strands Sites, providing other personally identifiable information is optional. Additional information is required to register for and use certain Sites, including money.strands.com and bizsolutions.strands.com. We will collect and retain the information you provide during registration. We may also connect the information you provide to us with information provided by third parties, in order to give you a better user experience. Subject to applicable law, we own the information collected via the Sites and Services.
 
-#### MyStrands
+## More about Cookies
 
-Play stream data includes information on songs a user is playing. MyStrands uses this data to power its recommendation engine, there by giving users a better personalized experience. Aggregate statistics of this data is viewable in the user profile on the MyStrands website and such data may be provided in affiliated and demonstration web site. 
+A cookie is a file stored on your computer and tied to information about you. Our Sites use both session ID cookies and persistent cookies. The session ID cookie terminates once you close the browser. For the persistent cookie, a text file is stored on your computer for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. If you allow the persistent cookie, our Sites can recognize your computer and your browser can remember your login information for our Sites. If you reject the cookie, your user experience may be limited.
 
-#### Cookies
+## Third Party Sites and Cookies
 
-A cookie is a set of data stored on the user's computer tied to information about the user. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. By setting a cookie on the Web Site, users would not have to log in a password more than once, thereby saving time while on the Web Site. If a user rejects the cookie, the user may still use the Web Site, but the user will be limited in some areas of the Web Site. Persistent cookies enable us to track and foster the interests of our users to enhance the experience on the Web Site. 
+Links to sites other than the Strands Sites may be displayed within our Sites and Services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Strands does not control and is not responsible for the privacy practices of sites other than the Strands Sites. You should carefully review the privacy policy of any site that solicits personal information from you.
 
-#### Log Files
+## Personal information of children under 13
 
-Most standard web site servers use log files, and so do we. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
+Our Sites and Services are not directed to children, and we do not knowingly collect personally identifiable information from children under 13 years of age.
 
-####  Cell Phones
+## Service Communications from Strands
 
-If you access our service via cell phone and/or web portal, MyStrands stores the SMS/MMS content as well as information relayed to us by third party providers such as encrypted cell phone numbers, the time the message was sent and the name of the mobile operator. MyStrands uses this data to allow users to participate in partyStrands and to enhance users' partyStrands experience. 
+We may communicate with you to provide requested services and resolve issues relating to your account. You may not opt out of these service-related communications while you use the service, but you may terminate your use of the service at any time and delete your profile and related information.
 
-### Communications from the Site Customer Service
+## Marketing Communications from Strands
 
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account. 
+Within the Strands family of companies, we may share your information with our affiliates (a) for purposes other than direct marketing, and (b) unless you instruct us otherwise, for direct marketing purposes. From time to time we may send notices about products, services, special deals, or newsletters. You may withdraw permission to receive marketing communications at any time; log in to your account and follow the instructions to change your user preferences. You can also opt out by following the instructions at the bottom of any Strands marketing email.
 
-#### Service Announcements
+## Disclosure of Information to Third Parties
 
-Sometimes it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. These communications are not promotional in nature. 
+**Disclosure by You.** Anyone can search the user community by email address, name or screen name. Therefore, someone who knows or guesses your name or the email address you use to register with us can discover your screen name and see all the posts associated with that screen name. However, your screen name can not be used to obtain your email address, name or other non-profile information you submit at registration.
 
-### Special Offers
+**Disclosure by Strands.** Strands does not sell, rent or disclose personally identifiable information to any third party not affiliated with us, except for disclosure to service providers who may assist us in such areas as data storage, and in connection with legal proceedings as described below. Information in anonymous, aggregated form may be shared freely, and Strands reserves the right to share aggregated usage information with reputable third parties, including for the purpose of targeting Internet banner advertisements. We may also use aggregated information about users and their preferences, or information that users have already made available to the general public, for demonstration purposes on other public or limited-access test websites.
 
-Members may occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users, users will be presented with an option to not receive these communications prior to the first such electronic mailing. Your response will apply to any subsequent mailings until you elect to change your preferences. 
+**Disclosure Required by Law.** We will disclose personal information when required by law, or if we have a good-faith belief that such action is necessary to (a) comply with a current judicial proceeding, a court order or legal process served on us, (b) protect and defend our rights, or (c) protect the rights, property, and other interests of our users or others.
 
-### Updates
+## Business Transitions
 
-New members receive a welcoming email to verify password and username. Users may also receive emails regarding changes in MyStrands functionality and policies. 
+In the event Strands goes through a business transition, such as a merger, being acquired by another company, co-branding a product, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
 
-### Sharing
+## Security
 
-#### Legal Disclaimer
+Strands takes reasonable precautions in accordance with industry standards to protect our users' information. When you submit information to us via our Sites but you choose not to make that information accessible to others, the information is protected both online and off-line. Such information is subject to restricted access in our offices. Only employees who need the information to perform a specific job are granted access to such personally identifiable information. All employees are also kept up-to-date on our security and privacy practices. The servers that store nonpublic personally identifiable information are in a secure environment, in a locked facility. Strands also maintains notification procedures as part of its information security policy for notifying you in the event of a data security breach. If Strands experiences a data security breach and is required to notify you under applicable law, Strands will notify you by electronic mail using the e-mail address you have provided. You are responsible for ensuring that your contact information is current and correct. To review or change your information, log in to the Site and update the information under the Preferences tab.
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on the Web Site. 
+## Deleting or Deactivating Personal Information
 
-#### Aggregate Information (non-personally identifiable)
+You may deactivate your Strands account at any time by emailing your request to [support@strands.com](mailto:support@strands.com). Your profile and any posts you have made will be removed from our Site. However, your posts and information may remain in our backup systems.
 
-We reserve the right to share aggregated demographic information and user preferences with third parties and in public demonstrations. This is not linked to any personally identifiable information. 
+## Notification of Changes
 
-#### Third Party Advertisers
+If we decide to change this Policy, we will post those changes here and in other places we deem appropriate, so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email and by posting a notice on the applicable Site for 30 days.
 
-MyStrands reserves the right to share aggregated Web Site usage information with a reputable third party advertiser for the purpose of targeting our Internet banner advertisements on this site and other sites. 
+## Non-U.S. Users
 
-#### Business Transitions
+Strands processes and stores personal information in the United States of America. If you are outside the United States, information you submit to Strands will be transferred out of your country and into the United States. When you agree to our [Terms and Conditions](https://web.archive.org/terms), you agree to such transfers, and you warrant and represent that it is lawful for you to transfer the information into the United States.
 
-In the event MyStrands goes through a business transition, such as a merger, being acquired by another company, co-branding a product, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. 
+## Contact Information
 
-### Links
-
-This Web Site contains links to other sites. Please be aware that we, MyStrands, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave the Web Site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this Web Site. 
-
-### Sharing Profiles
-
-If a registered user elects to use our "Share my profile" feature, we ask them for a Screen Name. Subsequently, their profile, including Music, Community, Parties, Journals, Photos, Videos, and Shoutbox, will be available to the entire registered community but only in association with the user-supplied Screen Name. The registered user may deselect this feature at any time. 
-
-A registered user may elect to allow other partygoers to send SMS messages to their cell phone, and to receive info from Parties on their cell phone. If a user elects this option, they will be available via SMS to the entire registered community but only in association with the user-supplied Screen Name. User's phone numbers will not be shared. The registered user may deselect these features at any time. 
-
-### Security
-
-MyStrands takes reasonable precautions in accordance with industry standards to protect our users' information. When users submit information via the Web Site, their information is protected both online and off-line. All users' information is subject to restricted access in our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. The servers that store personally identifiable information are in a secure environment, in a locked facility. MyStrands maintains notification procedures as part of its information security policy for notifying you in the event of a data security breach. If MyStrands experiences a data security breach and is required to notify you under applicable law, MyStrands will notify you by electronic mail using the e-mail address you have provided. You are responsible for ensuring that your contact information is current and correct. To review or change your contact information, go to the "My Profile" page on the Web Site. If users have any questions about the security at the Web Site, users can send an email to [info@MyStrands.com](mailto:info@MyStrands.com). 
-
-### Correcting/Updating/Deleting/Deactivating Personal Information
-
-If a user's personally identifiable information changes (such as email), we provide a way to correct and update users' personally identifiable information. This can usually be done at the "My Profile" page. 
-
-### Notification of Changes
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email and by posting a notice on the Web Site for 30 days. 
-
-### Contact Information
-
-If users have any questions or suggestions regarding our privacy policy, please contact us at: [info@MyStrands.com](mailto:info@MyStrands.com)
-
-Updated April 20, 2007
+You can send questions about our privacy or security practices to [support@strands.com](mailto:support@strands.com) or Strands Labs, Inc., 760 SW Madison Ave., Ste. 106, Corvallis OR 97333.
