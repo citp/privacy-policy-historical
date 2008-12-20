@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenable.co.uk privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531073124id_/http%3A//www.kenable.co.uk/privacy.php%3FosCsid%3Dc3780fc1db9f169a41773fa515f6e152) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenable.co.uk privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220013646id_/http%3A//www.kenable.co.uk/privacy.php%3FosCsid%3D7ccfb3537faaf193e79aaf4322a5620a) for the most accurate reproduction.*
 
 # kenable - for cables, networking and peripherals
 
