@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs.ie privacy policy that was archived on 2007-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071119013059id_/http%3A//www.jobs.ie/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.ie privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220161117id_/http%3A//www.jobs.ie/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Jobs.ie - Jobs in Ireland. Irish Jobs.
 
@@ -27,7 +27,7 @@ There are areas of the Jobs.ie website where you can request information, subscr
 **Application Information**   
 Jobs.ie operates as a platform for jobseekers and recruiters with the tools to enable you to choose the companies and recruitment agencies you would like to speak to when you wish to do so. 
 
-When you make an online application on Jobs.ie your personal information / CV application is received directly by the recruiter. By forwarding your information to that recruiter for the vacancy advertised Jobs.ie understands that it is your decision to disclose this information to a third party and acknowledge that the third party is not covered by the Jobs.ie Privacy Policy. 
+When you make an online application on Jobs.ie your personal information / CV application is received by Jobs.ie and stored in our system for companies to access. Only companies who you apply to are able to have access to your details. By forwarding your information to that recruiter for the vacancy advertised Jobs.ie understands that it is your decision to disclose this information to a third party and acknowledge that the third party is not covered by the Jobs.ie Privacy Policy.
 
 **Client Profiles**   
 Jobs.ie vacancy advertising clients are given the option to have a profile page on site. This includes information related to their company such as; company logo, contact details, company profile, web address and related links. This information is disclosed for your convenience and information, however if you access some of the links and web addresses disclosed on these pages, you will leave the Jobs.ie website. 
@@ -40,7 +40,7 @@ The Jobs by eMail Alert service matches a jobseeker's requirements for employmen
 **CVs**   
 Jobseekers may decide to register their CV in our database. Users can choose to make their CV searchable for inclusion in our CV database product. This product allows your CV to be viewed by recruiters who have subscribed to this service. It also means that you can attach your CV to your online job application(s). 
 
-We endeavor to grant access to the CV database only to recruiters who agree to abide by our [Terms and Conditions](https://web.archive.org/web/20071119013059id_/http%3A//www.jobs.ie/TermsOfUse.html). However, should a third party gain access to your CV by evading our security measures, we cannot be held responsible. 
+We endeavor to grant access to the CV database only to recruiters who agree to abide by our [Terms and Conditions](https://web.archive.org/web/20081220161117id_/http%3A//www.jobs.ie/TermsOfUse.html). However, should a third party gain access to your CV by evading our security measures, we cannot be held responsible. 
 
 You may remove your CV from our database at any time. However, recruiters who have already accessed your CV may have kept a copy of it in their own files. Please note that we cannot be held responsible for the retention, use, or privacy of your CV in these instances.  
 
@@ -66,7 +66,8 @@ Jobs.ie welcomes any comments regarding this Privacy Policy. If you have reason 
 The Jobs.ie Customer Services Team 
 
 Jobs.ie Ltd  
-Unit 1a, Watersedge  
-Charlotte Quay  
-Dublin 4  
+Ground Floor, South Block,  
+The Malthouse,  
+Grand Canal Quay  
+Dublin 2  
 Ireland
