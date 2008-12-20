@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwarediscountcodes.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627171454id_/http%3A//www.softwarediscountcodes.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwarediscountcodes.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220070933id_/http%3A//www.softwarediscountcodes.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Software Discount Codes
 
@@ -33,7 +33,7 @@ We may occasionally modify this Privacy Statement, such variations becoming effe
 ### Free Software!
 
 Sign up to our free   
-**[email newsletter](https://web.archive.org/web/20080627171454id_/http%3A//www.softwarediscountcodes.com/newsletter-signup.html)**   
+**[email newsletter](https://web.archive.org/web/20081220070933id_/http%3A//www.softwarediscountcodes.com/newsletter-signup.html)**   
 and win prizes every month!!
 
   
