@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the babiesonline.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617031940id_/http%3A//www.babiesonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babiesonline.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220010425id_/http%3A//www.babiesonline.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement for BabiesOnline.com, INC
-
-  
-
-
-## Privacy Statement for BabiesOnline.com, INC
+# Privacy Statement for Babies Online
 
 BabiesOnline.com, INC has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: BabiesOnline.com, INC.
 
@@ -25,7 +20,7 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
 ## Children's Guidelines
 
-According to the answers that you have chosen, your Web site meets the guidelines of TRUSTe's Children's program.
+According to the answers that you have chosen, your Web site meets the guidelines of TRUSTe's Children's program. 
 
   1. NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent
   2. NOT collect personally identifiable offline contact information without prior parental consent
@@ -42,7 +37,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
   1. To unsubscribe from our mailing list please visit [http://www.babiesonline.com/forms/newsletters/unsubscribe.asp](https://web.archive.org/forms/newsletters/unsubscribe.asp)
-  2. To delete your member account and your baby's web page, visit [http://www.babiesonline.com/forms/contact](https://web.archive.org/forms/contact) and send a request that includes the email address registered to your account and four-digit PIN. 
+  2. To delete your member account and your baby's web page, visit [http://www.babiesonline.com/forms/contact](https://web.archive.org/forms/contact) and send a request that includes the email address registered to your account and four-digit PIN.
 
 
 
@@ -50,7 +45,7 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. Email us via our [Contact Form](https://web.archive.org/forms/contact)
+  * Email us via our [Contact Form](https://web.archive.org/forms/contact)
 
 
 
@@ -58,7 +53,7 @@ This site gives users the following options for changing and modifying informati
 
 We use DoubleClick's Network, Sonar, and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here [ http://www.sonar.com/naiprivacy](http://www.sonar.com/naiprivacy). 
 
-**Third Party Cookies**
+## Third Party Cookies
 
 In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser. 
 
