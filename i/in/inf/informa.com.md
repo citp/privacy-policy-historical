@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informa.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609022009id_/http%3A//www1.informa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informa.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220024557id_/http%3A//www.informa.com/privacy) for the most accurate reproduction.*
 
 # Informa.com - Privacy Policy
 
@@ -24,7 +24,7 @@ The information collected from this Website could be stored for as long as is re
 
 ## Users' Right to Opt-out
 
-If you do not want to continue to receive the alerter e-mail communications from us please let us know by sending an e-mail to [corporateoptout@informa.com](mailto:corporateoptout@informa.com) or by calling or writing to us at the address below.
+If you do not want to continue to receive the alerter e-mail communications from us please let us know by sending an e-mail to [corporateoptout@informa.com](mailto:corporateoptout@informa.com) or using the online form at <http://www.informa.com/bulkmails/unsubscribe>.
 
 ### Period of Grace
 
