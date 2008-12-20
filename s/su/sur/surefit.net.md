@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the surefit.net privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623200025id_/http%3A//www.surefit.net/customerservice/policy_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surefit.net privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220152007id_/http%3A//www.surefit.net/customerservice/policy_privacy.cfm) for the most accurate reproduction.*
 
-# Sure Fit - Customer Service - Ordering Information - Privacy Policy
+# Sure Fit - Customer Service - Privacy Policy
 
 How will Sure Fit notify you of privacy policy changes?
 
@@ -20,19 +20,19 @@ The personal information that we collect may include your contact information - 
 
 Placing an order online will automatically set up your account with surefit.com if you select a password during the checkout process. You may also choose not to have Sure Fit remember your information. However, having an account with us will make your checkout quicker and easier. 
 
-If you would rather not receive our special e-mail offers and updates, please do not enter your email address on the information request page. If you are already receiving our special offers and updates and no longer wish to receive them, please click the unsubscribe link at the bottom of any e-mail update that you receive from us and you will be taken off our list. You may call us toll free at 888-796-0500 or send an [e-mail](https://web.archive.org/web/20080623200025id_/http%3A//www.surefit.net/customerservice/contact.cfm?) and we will remove you from our lists promptly. We do not rent, sell, or trade e-mail addresses. 
+If you would rather not receive our special e-mail offers and updates, please do not enter your email address on the information request page. If you are already receiving our special offers and updates and no longer wish to receive them, please click the unsubscribe link at the bottom of any e-mail update that you receive from us and you will be taken off our list. You may call us toll free at 888-796-0500 or send an [e-mail](https://web.archive.org/web/20081220152007id_/http%3A//www.surefit.net/customerservice/contact.cfm?) and we will remove you from our lists promptly. We do not rent, sell, or trade e-mail addresses. 
 
-Sure Fit is committed to proper Internet practices and full compliance with the CAN-SPAM Act of 2003 (15 U.S.C. 7701). It is our policy to prohibit the sending of “Spam” e-mail by any of Sure Fit’s marketing partners. Please note that under the CAN-SPAM Act an advertiser is required to provide an opt-out for customers to unsubscribe from future mailings. 
+Sure Fit is committed to proper Internet practices and full compliance with the CAN-SPAM Act of 2003 (15 U.S.C. 7701). It is our policy to prohibit the sending of "Spam" e-mail by any of Sure Fit´s marketing partners. Please note that under the CAN-SPAM Act an advertiser is required to provide an opt-out for customers to unsubscribe from future mailings. 
 
 If you wish, you can opt-out of certain kinds of communications while continuing to receive other materials that you desire. So if you want to opt-out of our e-mail promotions while still receiving our information through the mail, just let us know. 
 
-You may update your contact information by calling us toll free at 888-796-0500 or sending us an [e-mail](https://web.archive.org/web/20080623200025id_/http%3A//www.surefit.net/customerservice/contact.cfm?). If you have a password-protected account with Sure Fit, you may update your contact information online anytime. 
+You may update your contact information by calling us toll free at 888-796-0500 or sending us an [e-mail](https://web.archive.org/web/20081220152007id_/http%3A//www.surefit.net/customerservice/contact.cfm?). If you have a password-protected account with Sure Fit, you may update your contact information online anytime. 
 
 Financial Information -  
-If you place an order, we will collect billing information, your credit card number, CID number (3-digit security code located on the back of your credit card), and expiration date. If you wish, Sure Fit will store your credit card information for you in a password-protected account, which will allow you to checkout more easily next time you order from us. We never share your credit card number or use it for any purpose besides fulfilling your order. To read more about our security policy, [click here](https://web.archive.org/web/20080623200025id_/http%3A//www.surefit.net/customerservice/policy_security.cfm). 
+If you place an order, we will collect billing information, your credit card number, CID number (3-digit security code located on the back of your credit card), and expiration date. If you wish, Sure Fit will store your credit card information for you in a password-protected account, which will allow you to checkout more easily next time you order from us. We never share your credit card number or use it for any purpose besides fulfilling your order. To read more about our security policy, [click here](https://web.archive.org/web/20081220152007id_/http%3A//www.surefit.net/customerservice/policy_security.cfm). 
 
 Other Personal Information -  
-If you answer a survey on our site, we may ask for personal information besides your contact information, such as your preferences or interests. We analyze this information in aggregate form, looking for market trends among our customers, rather than analyzing information about any individual customer. Under no circumstances does Sure Fit request or collect sensitive personal information such as an Internet user’s medical/health conditions; racial or ethnic origin; political, religious or philosophical beliefs or affiliations; trade union membership or sex life. 
+If you answer a survey on our site, we may ask for personal information besides your contact information, such as your preferences or interests. We analyze this information in aggregate form, looking for market trends among our customers, rather than analyzing information about any individual customer. Under no circumstances does Sure Fit request or collect sensitive personal information such as an Internet user´s medical/health conditions; racial or ethnic origin; political, religious or philosophical beliefs or affiliations; trade union membership or sex life. 
 
 Web Site Use Data -   
 We collect and aggregate data about how people use our web site so that we can provide a better experience for our visitors. When you visit us, our web server recognizes your domain name. 
@@ -44,7 +44,7 @@ Sure Fit is currently also using and has contracted with a third party vendor to
 
 We do not sell, rent, or trade e-mail addresses, provided, however, that we may share your email address with our subsidiaries or affiliates. 
 
-If you receive information through the mail, Sure Fit may occasionally share your mailing address with carefully selected partners. If you do not wish to receive information through the mail, or if you do not want Sure Fit to share your postal information with our partners, please contact us and we will put you on our do not share list. Call us toll free at 888-796-0500 or [e-mail us](https://web.archive.org/web/20080623200025id_/http%3A//www.surefit.net/customerservice/contact.cfm?). 
+If you receive information through the mail, Sure Fit may occasionally share your mailing address with carefully selected partners. If you do not wish to receive information through the mail, or if you do not want Sure Fit to share your postal information with our partners, please contact us and we will put you on our do not share list. Call us toll free at 888-796-0500 or [e-mail us](https://web.archive.org/web/20081220152007id_/http%3A//www.surefit.net/customerservice/contact.cfm?). 
 
 Sure Fit may provide aggregate statistics about our customers, sales, web site traffic patterns, and similar information to our consultants and reputable third-party vendors, but these statistics will not include any personally identifying information. 
 
@@ -74,7 +74,7 @@ Children's Privacy -
 Sure Fit does not knowingly solicit or collect information from anyone under the age of eighteen (18). Sure Fit requires children under the age of 18 to consult with their parents before furnishing any data to us. 
 
 Privacy Promise -  
-If you feel that this site is not following its stated privacy policy, you may call us toll free at 1-888-787-3348, or [e-mail us](https://web.archive.org/web/20080623200025id_/http%3A//www.surefit.net/customerservice/contact.cfm?), or write to us at Sure Fit Inc. / Customer Service, 6575 Snowdrift Rd., Suite 101, Allentown, PA 18106. 
+If you feel that this site is not following its stated privacy policy, you may call us toll free at 1-888-787-3348, or [e-mail us](https://web.archive.org/web/20081220152007id_/http%3A//www.surefit.net/customerservice/contact.cfm?), or write to us at Sure Fit Inc. / Customer Service, 6575 Snowdrift Rd., Suite 101, Allentown, PA 18106. 
 
 **Your Security**  
 At Sure Fit, we ensure that the information you send us remains protected, safe, and secure. We take this policy very seriously. Below we'll try to answer all your questions regarding credit cards, our safe ordering process, and Internet security in general. 
@@ -102,9 +102,9 @@ On some browsers, this window can be a bit intimidating. But receiving this mess
 The Internet and the many ways in which it is changing our lives has been in the news for the past few years. One of the biggest concerns is Internet security because of the high increase in shopping on the web and the strong use of credit cards. Anyone wanting to take part in the growth of the web will at some point be using his or her credit card online. Keeping abreast of fraudulent behavior is always a good idea. Because of the fascination with this new medium, and the growth that is taking place, Internet security will always be a newsworthy item and an issue of public interest. 
 
 **How do I know if a website is secure?**  
-In order to be accurate, we're going to get a bit detailed here… 
+In order to be accurate, we're going to get a bit detailed here. 
 
-When it comes to security, Sure Fit uses something called the SSL (Secure Sockets Layer), the industry standard security protocol that the Sure Fit site uses to communicate with secure browsers like Netscape and Internet Explorer. The SSL ensures that the data you send is strongly encrypted and also ensures that the site you're doing business with is the site you think it is. When communicating with a secure server like ours, these browsers encrypt the information you send in a way that is extremely difficult for anyone else to decode. (You don't have to know whether your browser supports secure transactions- if it doesn't, you won't be able to complete the checkout process.) 
+When it comes to security, Sure Fit uses something called the SSL (Secure Sockets Layer), the industry standard security protocol that the Sure Fit site uses to communicate with secure browsers like FireFox and Internet Explorer. The SSL ensures that the data you send is strongly encrypted and also ensures that the site you're doing business with is the site you think it is. When communicating with a secure server like ours, these browsers encrypt the information you send in a way that is extremely difficult for anyone else to decode. (You don't have to know whether your browser supports secure transactions- if it doesn't, you won't be able to complete the checkout process.) 
 
 Many security experts say the most important thing is what happens once the merchant receives your order. At Sure Fit, we take several steps to keep things on our end as safe as possible. We do our order processing on machines that aren't connected to the Internet, so there's no danger of people gaining access to them. Finally, we don't keep a copy of your credit card number on file. While this is a minor inconvenience - whether ordering on the Internet or by phone, you have to give us the number every time you order- we believe it's the safest and most honest way to do business. 
 
@@ -116,6 +116,6 @@ The entire checkout process, from introduction to final confirmation, takes plac
   1. The URL to the left of the colon changes from 'http' to 'https' to signify that a SSL protocol is being used to communicate with the server. (http = HyperText Transport Protocol, but https = HTTP with secure SSL.) 
   2. In most browsers you'll also see a solid blue line in the upper portion of the browser's window - another visual aid that lets you know you're browsing a secure area. 
   3. Some browsers give you a warning when you go from a secure area to a regular area. This is to ensure that people know when they've left a secure server. Unfortunately, the message can be a bit startling, making it appear that something bad has happened, when in actuality, the opposite is true.   
-If you have any questions regarding security on Sure Fit's website, please contact our Web Administrator at webadmin@surefit.com. 
+If you have any questions regarding security on Sure Fit's website, please contact our [Web Administrator](https://web.archive.org/web/20081220152007id_/http%3A//www.surefit.net/customerservice/contact.cfm?). 
 
 
