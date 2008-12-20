@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the costumzee.com privacy policy that was archived on 2008-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080521030718id_/http%3A//www.costumzee.com/page/view/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the costumzee.com privacy policy that was archived on 2008-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220032927id_/http%3A//www.costumzee.com/page/view/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 		<meta name="keywords" content="">
@@ -12,22 +12,27 @@
 		<link rel="stylesheet" href="/stylesheets/global.css" type="text/css">
 
 		<!--[if IE 6]>
-		<link rel="stylesheet" href="/stylesheets/ie6.css" type="text/css" />
-		<![endif]-->
+		  <link rel="stylesheet" href="/stylesheets/ie6.css" type="text/css" />
+    <![endif]-->
+    
 		<!--[if IE 7]>
 		<link rel="stylesheet" href="/stylesheets/ie7.css" type="text/css" />
 		<![endif]-->
 		<meta name="verify-v1" content="w0dKYn289JfRhdz3YsbthEe/0l+Wp2m7uLi+jdlJZ2E=">
     
-		<script type="text/javascript" src="/javascripts/jquery-1.2.3.pack.js"></script>
+		<script type="text/javascript" src="/javascripts/jquery-1.2.6.min.js"></script>
 		<script type="text/javascript" src="/javascripts/jquery.validate.pack.js"></script>
-		
+		<script type="text/javascript" src="/javascripts/jquery.livequery.min.js"></script>		
 				
 				<script type="text/javascript" src="/javascripts/jquery.thickbox-compressed.js"></script>
 		<link rel="stylesheet" href="/stylesheets/thickbox.css" type="text/css" media="screen">
 		
+		<script type="text/javascript" src="/javascripts/jquery.autocomplete.js"></script>
+		<link rel="stylesheet" href="/stylesheets/jquery.autocomplete.css" type="text/css" media="screen">
+		
 		<script type="text/javascript" src="/javascripts/jquery.tooltip.pack.js"></script>
-		<script type="text/javascript" src="/javascripts/jquery.dimensions.js"></script> 		<link rel="stylesheet" href="/stylesheets/jquery.tooltip.css" type="text/css" media="screen">
+		<link rel="stylesheet" href="/stylesheets/jquery.tooltip.css" type="text/css" media="screen">
+		
     <script type="text/javascript" src="/javascripts/jrules.js"></script>
 
 		
@@ -37,7 +42,7 @@
 				<div id="up_sell">
 			<div class="full center middle">
 				
-				<p>Have you found a costume idea you would like to save? <a class="thickbox" href="/modal/register/?width=550&amp;height=420" rel="nofollow">Register</a>, it's FREE!</p>
+				<p>Have you found a costume idea you would like to save? <a href="/user/login/" rel="nofollow">Register</a>, it's FREE!</p>
 			</div>
 		</div>
 		
@@ -46,9 +51,9 @@
 				<a href="/"><img id="branding" src="/images/cz_logo_header_sm.gif" alt="Costumzee"></a>
 				<p id="tagline">Find, Share, and Discuss your favorite costumes and ideas!</p>
 				<div id="search">
-				  <form action="/tag/" method="post">
+				  <form id="auto_search" action="/tag/" method="post">
 						
-				    <input class="text" accesskey="." maxlength="30" name="search_term" value="Looking for a costume?" onfocus="if (this.value == 'Looking for a costume?') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Looking for a costume?';}"><input id="search_submittal" class="submit btn" value="Search" type="submit">
+				    <input class="text" accesskey="." maxlength="30" id="search_term" name="search_term" value="Looking for a costume?" onfocus="if (this.value == 'Looking for a costume?') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Looking for a costume?';}"><input id="search_submittal" class="submit btn" value="Find Costumes" type="submit">
 						
 				  </form>
 				</div>
@@ -59,12 +64,15 @@
 			<div id="global" class="full center">
 			
 				<ul class="nav_horizontal">
-				  <li style="border-left-width: 1px !important;padding-left:15px;" class="destination"><a href="/popular-costume-ideas.php">Popular Costume Ideas</a></li>	
-					<li class="destination"><a href="/costume-contest/" rel="nofollow">Costume Contest</a></li>
-					<li class="destination"><a href="/costume-party.php" rel="nofollow">Costume Party</a></li>
-				  <li class="destination"><a style="border-right: 1px solid #cacaca;padding-right:15px;" href="/forum/">Forum</a></li>
+				  <li style="border-left-width: 1px !important;padding-left:15px;" class="destination"><a href="/">Home</a></li>
+				  <li class="destination"><a href="/popular-costume-ideas/">Popular Costume Ideas</a></li>		
+					<li class="destination"><a href="/how-to-costumes/">How To Costumes</a></li>
+					<li class="destination"><a href="/costume-contest/">Costume Contest</a></li>
+					<li class="destination"><a href="/costume-party/">Costume Party</a></li>
+				  <li class="destination"><a href="/forum/">Forum</a></li>
+				<li class="destination"><a style="border-right: 1px solid #cacaca;padding-right:15px;" href="/view/">Blog</a></li>
 									  				  <li><a class="thickbox" id="user_login" href="/user/login/">Sign in</a></li>
-				  <li style="border-right-width: 1px !important;"><a class="thickbox" id="user_register" href="/user/login/">Join here</a></li>
+				  <li style="border-right-width: 1px !important;"><a id="user_register" href="/user/login/">Join here</a></li>
 				  				</ul>
 				<br class="clear">
 			</div>
@@ -107,72 +115,38 @@ Stow, MA 01775</p>
 
 
 </div></div><div id="side_bar" class="s1-3 end"><div class="s_w">
+
 	<div class="section first">
+	<h3>What is CostumZee?</h3>
 		
-<script type="text/javascript">
 
-$(document).ready(function() { 
-	$("#costume_rating_form").validate({
-			rules: {
-				costume_rating: "required"
-			}
-		});
-});
-
-</script>
-<div id="costume_rating">
-		<h3>Costume Contest</h3>
-			<div class="contest_image left">
-					<a title="Sully" class="thickbox" href="/users/gsb6074-914-full.gif">
-				<img src="/users/gsb6074-914-thumb.gif" alt="Sully">
-			</a>
-					</div>
-	<div class="contest_meta left blue_bevel_m">
-		<p class="blue_bevel_t" style="font-size:123.1%;">
-					<strong>Sully</strong>
-				</p>
-				<p><a class="cast_your_vote" title="Cast Your Vote" href="/costume-contest/3902/">&nbsp;</a></p>
-				<p class="blue_bevel_b smaller submitted_by"><img style="vertical-align:bottom;" src="/images/icons/image_new.gif">&nbsp;Submitted by <a href="/user/view/gsb6074/">gsb6074</a></p>
-	</div>
-	<br class="clear">
-</div>
-	</div>
-	<div class="section">
-			
-
-		<p>What's your favorite costume idea ever?</p>
-
-<p><b><a href="#">Submit your idea!</a></b></p>
+		<p>Costumzee is a community of people sharing costume ideas and photos.  Sign up to submit your costume ideas and enter the photo contest.  Join the party now!</p>
 
 	</div>
 	<div class="section">
-		<h3>Costume Party</h3>
     
+<h3>Join the Costume Party!</h3>
 <table id="costume_party">
 	<tbody><tr>
 		<td class="middle now_wearing">
 				 	  		
 								<img src="/images/naked.jpg" alt="you're naked!">
-				<p><strong class="ro small">You're NAKED!!</strong><br><a style="color: #333;font-size:93%;" href="/costume-party.php">Get clothed!</a></p>
+				<p><strong class="ro small">You're NAKED!!</strong><br><a style="color: #333;font-size:93%;" href="/costume-party/">Get clothed!</a></p>
 							
 					</td>
 		<td class="v_top">
 		 	<div class="party_time">
-						   	<a class="eye fam_pad" style="display:block;margin-bottom:5px;" href="/costume-party.php"><strong>View the party!</strong></a>
-								&nbsp;&nbsp;<strong>Join the party!</strong><br>
-				» 	<a class="thickbox" href="/modal/register/?width=550&amp;height=420" rel="nofollow">register</a> or <a class="thickbox" href="/modal/login/?width=300&amp;height=300" rel="nofollow">log in</a>
+						   	<a class="eye fam_pad" style="display:block;margin-bottom:5px;" href="/costume-party/"><strong>View the party!</strong></a>
+								<p>&nbsp;&nbsp;<strong>Join the party!</strong></p>
+				<p>» 	<a class="btn" href="/user/login/" rel="nofollow">register</a> or <a class="btn thickbox" href="/modal/login/?width=300&amp;height=300" rel="nofollow">log in</a>
 
 
 
-<br>
+</p>
 						</div>
 		</td>
 	</tr>
-</tbody></table>	</div>		
-
-		<p>Costumzee is a community of people sharing costume ideas and photos.  Sign up to submit your costume ideas and enter the photo contest.  Join the party now!</p>
-
-
+</tbody></table>	</div>
 </div></div>
 			<br class="clear">
 		</div><!-- end container -->
@@ -180,10 +154,6 @@ $(document).ready(function() {
 		<div id="footer_wrap">
   	<div id="footer" class="full center">
 			<p class="right" id="copyright">© 2006- 2008 <span class="costum">Costum</span><span class="zee">zee</span>. All Rights Reserved</p>
-
-		<ul class="list">
-			<li><a href="/view/">Blog</a></li>
-		</ul>
 
 		<ul class="list">
 			<li><a href="/page/view/about-us/">About Us</a></li>	
@@ -203,11 +173,12 @@ $(document).ready(function() {
 			<li><a href="/page/view/terms-conditions-use/">Terms of Service</a></li>
 					</ul>
 
+		<span style="display:none;" id="domain"></span>
+		<span style="display:none;" id="id_no">0</span>
+
 		<br class="clear">
 		</div>
 		</div><!-- end footer_wrap -->
-
-
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
@@ -216,4 +187,4 @@ _uacct = "UA-587279-1";
 urchinTracker();
 </script>
 
-</body></html>
+<div id="tooltip" style=""><h3></h3><div class="body"></div><div class="url"></div></div></body></html>
