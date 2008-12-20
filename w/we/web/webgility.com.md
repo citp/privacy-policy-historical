@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webgility.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611010355id_/http%3A//www.webgility.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webgility.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220050536id_/http%3A//www.webgility.com/privacy_policy.php) for the most accurate reproduction.*
 
 # About: X-Cart, osCommerce, Zen Cart Shopping Cart Integration with QuickBooks - Webgility
 
@@ -7,7 +7,7 @@
 ---  
 |  |  |   
 ---|---  
-| [Home](https://web.archive.org/web/20080611010355id_/http%3A//www.webgility.com/index.php)Privacy Policy  
+| [Home](https://web.archive.org/web/20081220050536id_/http%3A//www.webgility.com/index.php)Privacy Policy  
 ---  
   
 At Webgility, we place the highest importance on respecting and protecting the privacy of our customers. Our most important asset is our relationship with you. We want you to feel comfortable and confident when using our Web sites. Therefore, we would like to share with you the following principles that govern our information practices and other privacy aspects of our Web sites. This privacy statement defines privacy aspects specific to www.webgility.com. Throughout this policy, we refer to information that personally identifies you as "personal information".  
