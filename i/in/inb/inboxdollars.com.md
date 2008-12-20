@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509182853id_/http%3A//www.inboxdollars.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220113333id_/http%3A//www.inboxdollars.com/pages/privacy) for the most accurate reproduction.*
 
 # InboxDollars® - Earn Cash for E-Mail, Surveys, Games, and More!
-
-### Members Login
-
-### Not a Member?
-
-[](https://web.archive.org/members/signup)
 
   1. ## INFORMATION COLLECTION
 
     1. ### Information Collected
 
-All Users must provide the following information in order to join InboxDollars®: name, mailing address, phone number, email address, username, and password. Users may be required to provide subsequent demographic information in order to receive Signup Bonus(es) and/or qualify for other promotions. Demographic information includes, but is not limited to: birth date, gender, marital status, education completed, household income, and number of children in household. 
+All Users must provide the following information in order to join InboxDollars®: name, mailing address, phone number, email address, and password. Users may be required to provide subsequent demographic information in order to receive Signup Bonus(es) and/or qualify for other promotions. Demographic information includes, but is not limited to: birth date, gender, marital status, education completed, household income, and number of children in household. 
 
     2. ### Means of Collection
 
@@ -27,9 +21,9 @@ User information is used by InboxDollars® in all of the following ways:
       1. E-Mail Address is used to send paid email advertisements and important announcements about InboxDollars® to User
       2. Mailing Address is used to send payments earned by User or otherwise communicate with User
       3. Demographic information is used to target advertisements to User
-      4. Username and Password are used for User protection to restrict access to their account
+      4. Username, E-Mail Address, and Password are used for User protection to restrict access to their account
       5. User information may be sold or disclosed to third parties as described in Sections II.2 and III below
-      6. Cookies may be used as described in SectionIV below
+      6. Cookies may be used as described in Section IV below
       7. Information may be used in additional waysas posted on this Privacy Policy in the future.
     2. ### Sharing of Information
 
