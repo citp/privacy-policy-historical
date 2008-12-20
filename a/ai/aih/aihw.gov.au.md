@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aihw.gov.au privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622145129id_/http%3A//www.aihw.gov.au/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aihw.gov.au privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220030402id_/http%3A//www.aihw.gov.au/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy (AIHW)
 
-#### AIHW contact details
+## AIHW contact details
 
 26 Thynne Street  
 Fern Hill Park  
@@ -20,6 +20,10 @@ Web www.aihw.gov.au
 
 A proud partner of  
 [](http://www.healthinsite.gov.au/ "HealthInsite")
+
+## Flagship publications
+
+**Get your copy now!**
 
 When you visit this web site, we may make a record of your visit and log some or all of the following information for statistical purposes:
 
