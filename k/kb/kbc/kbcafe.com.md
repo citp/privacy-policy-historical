@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kbcafe.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616010913id_/http%3A//www.kbcafe.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbcafe.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220025534id_/http%3A//www.kbcafe.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - kbcafe
 
-KBCafe.com, R-mail.org, Resumebay.net and Talk-sports.net, here-in referred to as simply KBCafe, are committed to protecting your online privacy while providing you with the most useful and enjoyable Web experience possible. While you can use many features of KBCafe anonymously, you are required to provide personal information to gain access to some of our premium content and services.
+KBCafe.com, Resumebay.net and Talk-sports.net, here-in referred to as simply KBCafe, are committed to protecting your online privacy while providing you with the most useful and enjoyable Web experience possible. While you can use many features of KBCafe anonymously, you are required to provide personal information to gain access to some of our premium content and services.
 
 ## How we collect and use personal information
 
