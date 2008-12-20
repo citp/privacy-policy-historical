@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historytoday.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630062628id_/http%3A//www.historytoday.com/MainArticle.aspx%3Fm%3D32159) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historytoday.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220062531id_/http%3A//www.historytoday.com/MainArticle.aspx%3Fm%3D32159) for the most accurate reproduction.*
 
 # History Today: The educational archive of articles, news and study aids for teachers, students and enthusiasts - History Today - History Today - Footer - Privacy Policy & Disclaimer
 
