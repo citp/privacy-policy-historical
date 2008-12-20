@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceramicartsdaily.org privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625203128id_/http%3A//www.ceramicartsdaily.org/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceramicartsdaily.org privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220020640id_/http%3A//www.ceramicartsdaily.org/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Ceramic Arts Daily | Today's Ceramic Arts Daily Tip
 
