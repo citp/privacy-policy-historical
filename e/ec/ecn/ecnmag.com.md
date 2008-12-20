@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecnmag.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430131420id_/http%3A//www.ecnmag.com/content.aspx%3Fid%3D11230) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecnmag.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220130316id_/http%3A//www.ecnmag.com/content.aspx%3Fid%3D11230) for the most accurate reproduction.*
 
 # ECN: Electronic Component News
 
