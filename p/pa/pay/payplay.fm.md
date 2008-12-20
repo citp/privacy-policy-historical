@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payplay.fm privacy policy that was archived on 2008-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080329064008id_/http%3A//payplay.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payplay.fm privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220173754id_/http%3A//payplay.fm/privacy) for the most accurate reproduction.*
 
 # PayPlay.FM - world’s largest MP3 music download store $0.88/MP3 $0.77/WMA
 
