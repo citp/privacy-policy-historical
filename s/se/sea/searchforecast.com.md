@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchforecast.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626111936id_/http%3A//www.searchforecast.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchforecast.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220040810id_/http%3A//www.searchforecast.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Search Forecast - Privacy Policy, SEO, Post Free Classifieds, Lead Generation, Website Optimization - Marc Phillips
 
@@ -78,7 +78,7 @@ SearchForecast receives visitors from many countries. Our data is stored on serv
 Information sitting on the SearchForecast website is protected by state-of-the-art encryption and firewall technology. 
 
 **Accessing Your Information**  
-Personal information provided by you can be changed by contacting SearchForecast by email at [service@searchforecast.com](mailto:service@searchforecast.com).
+Personal information provided by you can be changed by contacting SearchForecast by email at [service@searchforecast.com](mailto:service@searchforecast.com)
 
 Information sitting on the SearchForecast website is protected by state-of-the-art encryption and firewall technology.
 
