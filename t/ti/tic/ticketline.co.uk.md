@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ticketline.co.uk privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514041803id_/http%3A//www.ticketline.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketline.co.uk privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220185117id_/http%3A//www.ticketline.co.uk/info/privacy) for the most accurate reproduction.*
 
-# Ticketline | Privacy Policy
+# Privacy Policy | Ticketline
 
 We know that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes the privacy policy of Piccadilly Ticketline Ltd. 
 
-By visiting [www.ticketline.co.uk](http://www.ticketline.co.uk/) and by registering and using this site you expressly consent and accept to the practices described in this Privacy Policy. 
+By visiting [www.ticketline.co.uk](https://web.archive.org/) and by registering and using this site you expressly consent and accept to the practices described in this Privacy Policy. 
 
 ## Data Protection
 
@@ -24,6 +24,6 @@ You can disable cookies or set your browser to alert you when cookies are being 
 
 ## Security
 
-Ticketline.co.uk has security measures in place to protect the loss, misuse and alteration of the information under our control. We use 128 bit industry standard Secure Server Software (SSL) for your transactions with us. 
+www.ticketline.co.uk has security measures in place to protect the loss, misuse and alteration of the information under our control. We use 128 bit industry standard Secure Server Software (SSL) for your transactions with us. 
 
 It encrypts all of your personal information, including credit card number, name, and address, so that it cannot be read as the information travels over the Internet. 
