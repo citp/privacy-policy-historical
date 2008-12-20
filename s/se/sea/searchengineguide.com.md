@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchengineguide.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621100949id_/http%3A//www.searchengineguide.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchengineguide.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220045956id_/http%3A//www.searchengineguide.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for SearchEngineGuide.com
 
@@ -40,4 +40,4 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Robert Clough K. Clough, Inc. webmaster@searchengineguide.com [Back To SearchEngineGuide.com](http://www.searchengineguide.com/)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Robert Clough K. Clough, Inc. 17531 Hamilwood Dr. Houston, TX 77095 webmaster@searchengineguide.com [Back To SearchEngineGuide.com](http://www.searchengineguide.com/)
