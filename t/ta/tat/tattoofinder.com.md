@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tattoofinder.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509195143id_/http%3A//www.tattoofinder.com/about.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattoofinder.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220165205id_/http%3A//www.tattoofinder.com/about.asp%23privacy) for the most accurate reproduction.*
 
 # About TattooFinder.com
 
@@ -27,6 +27,10 @@ What are cookies? Cookies are pieces of information that a Web site transfers to
 
 Users should be aware that when they are on TattooFinder.com, they could be directed to other sites that are beyond our control. There are links to other sites from TattooFinder.com pages that take you outside our service. For example, if you "click" on a banner advertisement, the "click" takes you off the TattooFinder.com site. This includes links from advertisers, sponsors, and partners that may use TattooFinder.com's logo as part of a co-branding agreement. These other sites may send their own cookies to users, collect data, or solicit personal information. Please keep in mind that whenever you give out personal information online --- for example, via message boards or chat --- that information can be collected and used by people you don't know. While TattooFinder.com strives to protect their users' personal information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk. TattooFinder.com's policy does not extend to anything that is inherent in the operation of the  
 Internet, and therefore beyond TattooFinder.com's control, and is not to be applied in any manner contrary to applicable law or governmental regulation.
+
+**THIRD-PARTY ADVERTISING**
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use some of the above discussed information (not including your name, address, email address, payment information, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.google.com/adsense/support/bin/answer.py?answer=94149).
 
 **SECURITY**
 
