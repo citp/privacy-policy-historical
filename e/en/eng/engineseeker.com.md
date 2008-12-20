@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the engineseeker.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625014503id_/http%3A//www.engineseeker.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineseeker.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220130028id_/http%3A//engineseeker.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | EngineSeeker.com
-
-## Privacy Policy
-
-* * *
+# Privacy Policy | Engine Seeker
 
 Evisions Marketing Inc - EngineSeeker.com Site Privacy( **SP** ) And Client User Policy( **CUP** ). 
 
