@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zip.ca privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609170711id_/http%3A//www.zip.ca/ContentViewer.aspx%3Fktid%3D%25009%26kid%3D%25001%25009%25007%26pt%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zip.ca privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220235706id_/http%3A//www.zip.ca/dvd/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# 
+# Zip.ca
 
 Privacy Policy
 
