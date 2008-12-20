@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zmanda.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611151351id_/http%3A//www.zmanda.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zmanda.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220011122id_/http%3A//www.zmanda.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Zmanda Privacy Policy
 
