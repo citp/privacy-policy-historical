@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brightidea.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609065035id_/http%3A//brightidea.com/i/cc_terms.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightidea.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220191805id_/http%3A//www.brightidea.com/i/cc_terms.asp) for the most accurate reproduction.*
 
-# Brightidea.com: Innovation On-Demand
+# Privacy Policy. Brightidea, the Leader in Innovation Software and Idea Management Software.
 
 **Brightidea.com Privacy Statement:**  
 Brightidea.com has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy on the Brightidea.com web site (the "Site") is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. **Collected Information:**  
