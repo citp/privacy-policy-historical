@@ -1,0 +1,11 @@
+> *The following text is extracted and transformed from the saashr.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220215815id_/http%3A//www.saashr.com/shr/inside.jsp%3Ftype%3Dresources%26type2%3Dprivacypolicy%26page%3DPrivacyPolicy) for the most accurate reproduction.*
+
+# Privacy Policy
+
+Our goal at SaaS.com is to meet the expectancies of users of our Software as a Service (SaaS) model. In an effort to achieve this goal, please allow this web document to clearly define SaaS.com's position with regard to the Internet, this website, and user identity. The following outlines SaaS.com's information gathering and disbursement procedures for SaaS.com services and associated web sites.
+
+To enable certain aspects of data security and remote access restriction by company or user, a user's IP address may be captured. Additionally, IP addresses may be used to help trouble-shoot problems with connectivity and various technology including servers and related hardware. Certain functionality, including registration form(s), opt-in form(s), and partner program form(s), requires specific contact information. This contact information including contact name and email address is used for the benefit of all users so SaaS.com may communicate important information about available services and account status.
+
+Each user may opt-out of receiving specific mailings by selecting appropriate boxes throughout various registration forms on this website. Unless otherwise agreed to by electronic signature, information gathered is not shared with outside organizations or sold to third parties. Although SaaS.com deploys leading technology to protect against misuse of personal or company specific information and encourages business partners to maintain the highest privacy standards, SaaS.com does not have control over information accessible through this website that is supported by third parties.
+
+For more information, please visit the [Partners](https://web.archive.org/inside.jsp?type=partners&type2=programs&page=Programs) page or use this [Password Retrieval](https://web.archive.org/inside.jsp?type=partners&page=PasswordRetrieval&type2=businessmodel) link to gain online access. 
