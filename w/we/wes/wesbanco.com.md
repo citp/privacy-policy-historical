@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wesbanco.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623013540id_/http%3A//www.wesbanco.com/website/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wesbanco.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220215145id_/http%3A//www.wesbanco.com/website/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,7 +6,10 @@ Our customers’ confidence in our ability to provide premier financial services
 
 **Recognition of a Customer's Expectation of Privacy**
 
-Your privacy is important to us. We recognize your personal interest in understanding how we do business - in understanding how we will collect, retain, and use the personal information we request from you. By publishing this privacy policy, we hope to address those concerns and instill confidence in our existing and potential customers that WesBanco has sufficient standards and security measures in place to prevent the misuse of any personal information provided to us. We will continually re-evaluate these standards to ensure your privacy is respected. We welcome your questions and comments. Please write to us at: WesBancoNet, 1 Bank Plaza, Wheeling, WV 26003, or e-mail us using the following link. [custserv@wesbanco.com](mailto:custserv@wesbanco.com)
+Your privacy is important to us. We recognize your personal interest in understanding how we do business - in understanding how we will collect, retain, and use the personal information we request from you. By publishing this privacy policy, we hope to address those concerns and instill confidence in our existing and potential customers that WesBanco has sufficient standards and security measures in place to prevent the misuse of any personal information provided to us. We will continually re-evaluate these standards to ensure your privacy is respected. We welcome your questions and comments. 
+
+Please write to us at: WesBanco, Attn: Bank Operations , 1 Bank Plaza, Wheeling, WV 26003,   
+or e-mail us using the following link. [custserv@wesbanco.com](mailto:custserv@wesbanco.com)
 
 **What Information We Collect**
 
@@ -36,7 +39,7 @@ To read more about the specific information collected and retained through our w
 
 **Maintenance of Accurate Information**
 
-WesBanco is committed to maintaining the integrity of your financial information. We have developed procedures to ensure our customer records are accurate, current, and complete in accordance with reasonable commercial standards. Our employees are prepared to respond to your requests to correct inaccurate information in a timely manner. You may direct such requests to: WesBancoNet, 1 Bank Plaza, Wheeling, WV, 26003, or to the address and telephone number provided on your monthly statement. Additionally, when you open certain types of accounts with us, we will provide you with disclosures outlining specific procedures for you to follow should you find an error or unauthorized transaction on your account. These disclosures are also available through our online banking service, WesBancoNet.
+WesBanco is committed to maintaining the integrity of your financial information. We have developed procedures to ensure our customer records are accurate, current, and complete in accordance with reasonable commercial standards. Our employees are prepared to respond to your requests to correct inaccurate information in a timely manner. You may direct such requests to: WesBanco, Attn: Bank Operations, 1 Bank Plaza, Wheeling, WV, 26003, or to the address and telephone number provided on your monthly statement. Additionally, when you open certain types of accounts with us, we will provide you with disclosures outlining specific procedures for you to follow should you find an error or unauthorized transaction on your account. These disclosures are also available through our online banking service, WesBancoNet.
 
 **Limiting Employee Access to Information**
 
