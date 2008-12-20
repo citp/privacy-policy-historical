@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidweekleyhomes.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611124404id_/http%3A//davidweekleyhomes.com/Site/SubPage.aspx%3FUID%3D52d61fae-b17a-4ab9-a390-3ea1f9442b7b%26From%3DFooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidweekleyhomes.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221004021id_/http%3A//davidweekleyhomes.com/Site/SubPage.aspx%3FUID%3D52d61fae-b17a-4ab9-a390-3ea1f9442b7b%26From%3DFooter) for the most accurate reproduction.*
 
 # David Weekley Homes - Privacy Policy
 
