@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the golfsmith.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612090041id_/http%3A//www.golfsmith.com/ps/display_page.php%3Fpage_num%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfsmith.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220214047id_/http%3A//www.golfsmith.com/ps/display_page.php%3Fpage_num%3Dprivacy%26PHPSESSID%3D3dde7bee3b25ea401656ccfcc4532338) for the most accurate reproduction.*
 
 # Golfsmith.com: Golf store
 
 ****  
 Golfsmith International Internet Privacy Policy **  
-** We can be reached through our [Customer Feedback](https://web.archive.org/ps/csemail.php) page, or you can reach us from the United States or Canada by telephone at 1-800-813-6897 between the hours of 8am and 8pm Central Time, Monday-Friday, or by fax at 1-512-837-1245. International calls can be placed to 1-512-837-4810. Our postal address is: 11000 North IH-35, Austin, TX 78753-3195. 
+** We can be reached through our [Customer Feedback](https://web.archive.org/ps/csemail.php?PHPSESSID=45e091ee40e458a7e1188f48af055bb3) page, or you can reach us from the United States or Canada by telephone at 1-800-813-6897 between the hours of 8am and 8pm Central Time, Monday-Friday, or by fax at 1-512-837-1245. International calls can be placed to 1-512-837-4810. Our postal address is: 11000 North IH-35, Austin, TX 78753-3195. 
 
 Golfsmith is committed to observing and respecting your wishes regarding the information we collect about you on our web site. By visiting Golfsmith.com, you agree to accept the practices described in this Privacy Policy.
 
@@ -13,11 +13,11 @@ Golfsmith is committed to observing and respecting your wishes regarding the inf
 Personal Information **  
 ** Your transaction history and the information you provide to us voluntarily on our web site is stored in our customer database along with the customer information received in our catalog phone center and retail superstores. Some of the information we solicit, such as e-mail address, is voluntary, while much of it is required in order to fulfill your order properly. In addition to fulfilling your orders, we use the information that you provide for purposes such as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you. 
 
-As is common in the catalog business, we may occasionally share your name and postal mailing address with other companies that we have screened carefully for quality and integrity. If you would prefer that we not share your address information with any outside company, please contact our [Customer Service](https://web.archive.org/ps/csemail.php) department. You may also elect not to receive any future catalogs or other mailings from Golfsmith.
+As is common in the catalog business, we may occasionally share your name and postal mailing address with other companies that we have screened carefully for quality and integrity. If you would prefer that we not share your address information with any outside company, please contact our [Customer Service](https://web.archive.org/ps/csemail.php?PHPSESSID=45e091ee40e458a7e1188f48af055bb3) department. You may also elect not to receive any future catalogs or other mailings from Golfsmith.
 
 Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding orders they have placed online. We do not make any phone numbers in our customer database available to other companies or organizations.
 
-Any personal information you reveal to us is protected during transmission by Secure Sockets Layer (SSL) software, which encrypts information and is the accepted standard industry-wide for web site security ([click here for more details](https://web.archive.org/ps/display_page?page_num=security)). Our web site presently does not store your credit card information, and any of your credit card information that may be stored in other Golfsmith systems is protected by state-of-the-art firewalls. It is important for you to protect against unauthorized access to your password and to your computer.Be sure to sign off when finished using a shared computer.
+Any personal information you reveal to us is protected during transmission by Secure Sockets Layer (SSL) software, which encrypts information and is the accepted standard industry-wide for web site security ([click here for more details](https://web.archive.org/ps/display_page?page_num=security&PHPSESSID=45e091ee40e458a7e1188f48af055bb3)). Our web site presently does not store your credit card information, and any of your credit card information that may be stored in other Golfsmith systems is protected by state-of-the-art firewalls. It is important for you to protect against unauthorized access to your password and to your computer.Be sure to sign off when finished using a shared computer.
 
 To make any address changes or other modifications to your Golfsmith account information, please call 1-800-813-6897.
 
@@ -28,9 +28,9 @@ Contest registrations may involve sharing your e-mail address with our promotion
 
 Other than the exceptions noted above, Golfsmith will not sell, share or otherwise distribute your e-mail address. Any e-mail address supplied directly to Golfsmith with respect to online orders, catalog requests, and requests for other information will remain in the sole possession of Golfsmith.
 
-If you do not want to receive promotional e-mail from Golfsmith in the future, please use our [unsubscribe form](https://web.archive.org/ps/unsubscribe.php) to remove your name from our list, or let us know by contacting us by [e-mail](https://web.archive.org/ps/csemail.php), or by calling us at the above telephone numbers and telling us that you do not want to receive promotional e-mail from Golfsmith. Supplied e-mail addresses on our customer registration form will be used for order confirmation and alerts relating to an order.
+If you do not want to receive promotional e-mail from Golfsmith in the future, please use our [unsubscribe form](https://web.archive.org/ps/unsubscribe.php?PHPSESSID=45e091ee40e458a7e1188f48af055bb3) to remove your name from our list, or let us know by contacting us by [e-mail](https://web.archive.org/ps/csemail.php?PHPSESSID=45e091ee40e458a7e1188f48af055bb3), or by calling us at the above telephone numbers and telling us that you do not want to receive promotional e-mail from Golfsmith. Supplied e-mail addresses on our customer registration form will be used for order confirmation and alerts relating to an order.
 
-If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please contact us [here](https://web.archive.org/ps/csemail.php) or by calling us at the above telephone numbers.
+If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please contact us [here](https://web.archive.org/ps/csemail.php?PHPSESSID=45e091ee40e458a7e1188f48af055bb3) or by calling us at the above telephone numbers.
 
 ****
 
@@ -40,6 +40,6 @@ Cookies **
 Site Traffic Data  
 Our computers collect and store certain data from your visits to our web site. The information we collect from this site traffic helps us to make the site easier to navigate and to improve your shopping experience at Golfsmith.com With the exception of certain e-commerce partners who offer our products via their own site framesets, we do not share or distribute any specific customer site traffic data to any other parties. 
 
-If you have any questions regarding any of the elements of our web privacy policy, please call the customer service line posted above, or contact us [here](https://web.archive.org/ps/csemail.php).
+If you have any questions regarding any of the elements of our web privacy policy, please call the customer service line posted above, or contact us [here](https://web.archive.org/ps/csemail.php?PHPSESSID=45e091ee40e458a7e1188f48af055bb3).
 
 This web site is owned and operated by Golfsmith International, L. P.
