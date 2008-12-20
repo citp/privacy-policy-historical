@@ -1,27 +1,33 @@
-> *The following text is extracted and transformed from the forplaycatalog.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608174038id_/http%3A//www.forplaycatalog.com/store/util/privacy%3FArgs%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forplaycatalog.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220232259id_/http%3A//www.forplaycatalog.com/store/util/privacy%3FArgs%3D) for the most accurate reproduction.*
 
 # Forplay Catalog - Privacy Policy
 
-|  | _Search_  
-  
+| [](http://www.forplaycatalog.com/store/Exotic_Wear?partner_id=holiday_fedex08)  
 ---  
-[Advanced search](http://www.forplaycatalog.com/store/util/gift_finder?Args=&sblid=gift_finder)  
+Search  
+  
+[_Advanced Search_](http://www.forplaycatalog.com/store/util/gift_finder?Args=&sblid=gift_finder)  
+[Holiday Lingerie](http://www.forplaycatalog.com/store/Holiday_Lingerie?Args=&page_number=1)  
+  
 [Sexy Dresses](http://www.forplaycatalog.com/store/Sexy_Dresses?Args=&page_number=1)  
   
-[Luxe Collection™](http://www.forplaycatalog.com/store/Luxe_Collection__0153_?Args=&page_number=1)  
+[Sexy Lingerie](http://www.forplaycatalog.com/store/Sexy_Lingerie?Args=&page_number=1)  
   
-[Clubwear](http://www.forplaycatalog.com/store/Clubwear?Args=&page_number=1)  
+[Exotic Wear](http://www.forplaycatalog.com/store/Exotic_Wear?Args=&page_number=1)  
   
-[Dancewear](http://www.forplaycatalog.com/store/Dancewear?Args=&page_number=1)  
-  
-[Swimwear](http://www.forplaycatalog.com/store/Swimwear?Args=&page_number=1)  
-  
-[Accessories](http://www.forplaycatalog.com/store/Accessories?Args=&page_number=1)  
-  
-[Sexy Costumes](http://www.forplaycatalog.com/store/Halloween_Costumes?Args=&page_number=1)  
+[Separates](http://www.forplaycatalog.com/store/Sexy_Separates?Args=&page_number=1)  
   
 [Shoes](http://www.forplaycatalog.com/store/Shoes?Args=&page_number=1)  
   
+[Swimwear](http://www.forplaycatalog.com/store/Swimwear?Args=&page_number=1)  
+  
+[Sexy Costumes](http://www.forplaycatalog.com/store/Halloween_Costumes?Args=&page_number=1)  
+  
+[Accessories](http://www.forplaycatalog.com/store/Accessories?Args=&page_number=1)  
+  
+[Clearance Sale](http://www.forplaycatalog.com/store/Clearance_Sale?Args=&page_number=1)  
+  
+[](http://www.forplaycatalog.com/store/Shoes?partner_id=leftnav_121608)  
 |  |  |  |   
 ---|---|---|---  
 |  |  |   
