@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the askandyaboutclothes.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626041556id_/http%3A//askandyaboutclothes.com/FrontPGArticles/Privacy%2520Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askandyaboutclothes.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220153437id_/http%3A//www.askandyaboutclothes.com/FrontPGArticles/Privacy%2520Policy.htm) for the most accurate reproduction.*
 
 # Ask Andy PRIVACY POLICY
 
-**  
-Privacy Policy:**
+** Privacy Policy:**
 
 These policies relate to information that we at ASKANDYABOUTCLOTHES gather about you and the use that we make of it in the course of our business.  
 
