@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endclothing.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606214026id_/http%3A//www.endclothing.com/shop.php/privacy-policy/i_8.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endclothing.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220192444id_/http%3A//www.endclothing.com/shop.php/privacy-policy/i_8.html) for the most accurate reproduction.*
 
 # Privacy Policy - End Clothing - Adidas Originals, Lyle and Scott, Nike, Fila, Sergio Tacchini, Fred Perry, Stussy, MHI by Maharishi, APC, Trainerspotter, Fjallraven, Wood Wood, Barbour, Nom De Guerre and Folk
 
