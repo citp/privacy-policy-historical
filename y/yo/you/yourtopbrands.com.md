@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourtopbrands.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609091005id_/http%3A//yourtopbrands.com/lch2.php%3Flk%3D421%26bid%3D12%26sesp%3D395_0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourtopbrands.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220151257id_/http%3A//www.yourtopbrands.com/lch2.php%3Flk%3D421%26bid%3D12%26sesp%3D395_0) for the most accurate reproduction.*
 
 # YourTopBrands.com Privacy Policy
 
