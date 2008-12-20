@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the whitepages.com.au privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608222558id_/http%3A//www.about.sensis.com.au/legal/privacy.php%3Fref%3Dwpft) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepages.com.au privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220094741id_/http%3A//www.about.sensis.com.au/legal/privacy.php%3Fref%3Dwpft) for the most accurate reproduction.*
 
 # Sensis - A Leading directory, advertising and information provider
 
 Privacy Collection Statement
 
   
-Updated May 2008 
+Updated June 2008 
 
 Sensis Pty Ltd ("Sensis") is committed to providing you with the highest levels of customer service. This includes protecting your privacy. Sensis is bound by the Privacy Act 1988 (Cth), which sets out a number of principles concerning the protection of your personal information. 
 
@@ -15,7 +15,7 @@ Sensis
 Sensis, is a wholly owned subsidiary of Telstra Corporation Limited ("Telstra"), and is responsible for Yellow™, White Pages® directories, Trading Post classifieds directory and related print, voice, electronic, wireless and online products, as well as a range of advertising, media, content, location and other business services. 
 
 Your personal information   
-Personal information held by Sensis may include your name, date of birth, current and previous addresses, telephone/mobile phone number, e-mail address, bank account or credit card details, preferences for using our websites, occupation, driver's licence number and your Sensis password. We also hold details of your Sensis services, including their status, as well as certain details about your personal interests. 
+Personal information held by Sensis may include your name, date of birth, current and previous addresses, telephone/mobile phone number, e-mail address, bank account or credit card details, preferences for using our websites, web log, computer and connection information, occupation, driver's licence number and your Sensis password. We also hold details of your Sensis services, including their status, as well as certain details about your personal interests. 
 
 If you choose not to provide us with certain personal information, we may not be able to provide you with the services you require, or the level of service on which we pride ourselves. 
 
@@ -26,7 +26,7 @@ Personal information is collected by Sensis to, among other things, enable us to
 How we collect personal information   
 Sensis collects personal information in a number of ways, including: 
 
-  * directly from you, for example when you provide information by phone, in marketing coupons, competitions or application forms or when you submit information to us through our websites (eg by email or cookies); 
+  * directly from you, for example when you provide information by phone, in marketing coupons, competitions or application forms or when you use or submit information to us through our websites (eg by email or cookies); 
   * from third parties such as our related companies, carriage service providers, credit reporting agencies or your representatives; 
   * from publicly available sources of information; 
   * from the organisations identified below under "When we disclose your personal information"; 
@@ -44,6 +44,7 @@ Your personal information may be used in order to:
   * respond to any queries or feedback you may have; 
   * inform you of ways the products and services provided to you could be improved; 
   * conduct appropriate checks for credit-worthiness and for fraud; 
+  * prevent and detect any misuse of, or fraudulent activities involving the Sensis websites; 
   * research and develop our products and services; 
   * gain an understanding of your information and communication needs in order for us to provide you with a better service; 
   * maintain and develop our business systems and infrastructure, including testing and upgrading of these systems. 
@@ -92,12 +93,12 @@ Sensis may use 'cookies' on various websites. Cookies are an industry standard a
 
 In some cases, cookies may collect and store personal information about you. Sensis extends the same privacy protection to your personal information, whether gathered via cookies or from other sources. Most internet browsers are pre-set to accept cookies, however you can adjust your Internet browser to disable cookies or to warn you when cookies are being used. However, if you disable cookies, you may not be able to access certain areas of our websites or take advantage of the improved website experience that cookies offer. 
 
-Sensis also collects Internet Protocol (IP) addresses. IP addresses are assigned to computers on the internet to uniquely identify them within the global network. Sensis collects and manages IP addresses as part of the service of providing internet session management and for security purposes. 
+Sensis also collects Internet Protocol (IP) addresses. IP addresses are assigned to computers on the internet to uniquely identify them within the global network. Sensis collects and manages IP addresses as part of the service of providing internet session management and for security purposes. Sensis also collects and uses web log, computer and connection information for security purposes and to help prevent and detect any misuse of, or fraudulent activities involving the Sensis websites. 
 
 Sensis may use third parties to analyse usage statistics on our websites. Such analysis is performed using data collected from our websites. No personally identifiable information is collected by such third parties from our web sites. 
 
 Acts in the course of journalism  
-Sensis commits to the Australian Press Council Privacy Standards (available at <http://www.presscouncil.org.au/>) in relation to material prepared by Sensis, its employees and its agents in the course of journalism.. Sensis publishes some material which is licensed to it by other organisations. Sensis will take reasonable steps to ensure that each organisation which supplies it with material for publication has publicly committed to standards for the purpose of section 7B(4)(b) of the Privacy Act 1988. If Sensis receives a privacy related complaint relating to any material supplied to it by another organisation, then it will formally request that organisation to deal with the privacy complaint in a fair and efficient manner. 
+Sensis commits to the Australian Press Council Privacy Standards (available at <http://www.presscouncil.org.au/>) in relation to material prepared by Sensis, its employees and its agents in the course of journalism. Sensis publishes some material which is licensed to it by other organisations. Sensis will take reasonable steps to ensure that each organisation which supplies it with material for publication has publicly committed to standards for the purpose of section 7B(4)(b) of the Privacy Act 1988. If Sensis receives a privacy related complaint relating to any material supplied to it by another organisation, then it will formally request that organisation to deal with the privacy complaint in a fair and efficient manner. 
 
 Third party sites  
 You may click-through to third party sites from our sites in which case we recommend that you refer to the privacy statement of the sites you visit. Sensis' collection statement and privacy policy apply to Sensis' websites only and Sensis assumes no responsibility for information and content of third party sites. 
@@ -116,7 +117,7 @@ You have a right to access your personal information, subject to some exceptions
 Sensis reserves the right to charge a fee for searching for, and providing access to, your information. 
 
 How to contact us   
-If you have any questions in relation to privacy, please contact us between 9.00am and 5.00pm, Monday to Friday. 
+If you have any questions in relation to privacy, please contact us between 9.00am and 5.00pm (EST), Monday to Friday. 
 
 Tel: 1800 736 747  
 Please note that this number is not for general service enquiries. 
