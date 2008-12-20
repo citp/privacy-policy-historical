@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareholder.com privacy policy that was archived on 2008-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080404211101id_/http%3A//www360.shareholder.com/home/Company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareholder.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220035701id_/http%3A//www360.shareholder.com/home/Company/privacy.cfm) for the most accurate reproduction.*
 
 # Shareholder.Com | A Nasdaq Company | Shareholder.com
 
