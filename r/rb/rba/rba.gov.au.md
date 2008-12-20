@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rba.gov.au privacy policy that was archived on 2008-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080421155845id_/http%3A//www.rba.gov.au/PrivacyStatement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rba.gov.au privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220025439id_/http%3A//www.rba.gov.au/PrivacyStatement/index.html) for the most accurate reproduction.*
 
 # RBA: Privacy Statement
 
@@ -107,7 +107,7 @@ Fax** |
 Post** |   
 The Manager  
 Staff Resourcing  
-Personnel Department   
+Human Resources  
 Reserve Bank of Australia  
 GPO Box 3947  
 SYDNEY NSW 2001  
@@ -122,14 +122,13 @@ Feedback form** | [
 http://www.rba.gov.au/Contact/feedback.html](http://www.rba.gov.au/Contact/feedback.html)  
   | **  
 Phone** |   
-+61 2 9551 9721  
++61 2 9551 9720  
   | **  
 Fax** |   
-+61 2 9221 5528   
++61 2 9551 8033   
   | **  
 Post** |   
-Senior Information Officer  
-Information Department  
+Head of Information Department  
 Reserve Bank of Australia  
 GPO Box 3947  
 SYDNEY NSW 2001  
@@ -154,7 +153,7 @@ If you wish to make a complaint or enquire about the RBA's privacy policy and pr
 ---|---|---  
   | **  
 Phone** |   
-+61 2 9551 9601  
++61 2 9551 9610  
   | **  
 Fax** |   
 +61 2 9551 8035  
