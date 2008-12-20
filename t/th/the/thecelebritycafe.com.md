@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecelebritycafe.com privacy policy that was archived on 2008-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080307143308id_/http%3A//thecelebritycafe.com/other/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecelebritycafe.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220145232id_/http%3A//thecelebritycafe.com/other/privacy.html) for the most accurate reproduction.*
 
 # TheCelebrityCafe.com Privacy Policy
 
@@ -44,11 +44,7 @@ Based on client activity or on information that has been provided, TheCelebrityC
 
 TheCelebrityCafe.com site content is also integrated into other web sites. These web sites may collect personal information from their visitors that may or may not be used in conjunction with the TheCelebrityCafe.com site content. Prior to supplying any personal information to any third party company linking to TheCelebrityCafe.com site, please read and understand their privacy policy. 
 
-TheCelebrityCafe.com utilizes various third party service providers (including Revenue Science, Inc.), to track and analyze non-personally identifiable aggregate usage information from visitors in order to continuously improve the quality of the TheCelebrityCafe.com site. All data collected by third party service providers on behalf of TheCelebrityCafe.com is owned and used only by TheCelebrityCafe.com. To view Revenue Science's privacy policy, please click here. 
-
 **Cookies**
-
-TheCelebrityCafe.com may set and access TheCelebrityCafe.com cookies on your computer. A cookie is a small text file that is placed on your hard drive by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information (such as your ZIP CODE) on subsequent visits. This simplifies the process of delivering relevant content, eases site navigation, and so on. When you return to the web site, the information you previously provided can be retrieved, so you can easily use the site's features that you customized. 
 
 TheCelebrityCafe.com lets other companies, including business partners and companies that show advertisements on some of our pages, set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies. 
 
