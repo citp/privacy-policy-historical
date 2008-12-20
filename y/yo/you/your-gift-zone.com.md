@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the your-gift-zone.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629062628id_/http%3A//www.your-gift-zone.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D1default) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the your-gift-zone.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220065637id_/http%3A//your-gift-zone.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D1423name) for the most accurate reproduction.*
 
 # Help Desk
 
