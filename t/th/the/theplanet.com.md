@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theplanet.com privacy policy that was archived on 2007-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070315094952id_/http%3A//www.theplanet.com/about_us/legal_docs/ThePlanet%2520Privacy%2520Policy%2520011507%2520FINAL.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theplanet.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220171650id_/http%3A//www.theplanet.com/Documents/legal/Planet-Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # 
 
