@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the globalscape.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629015515id_/http%3A//www.globalscape.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalscape.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220222416id_/http%3A//www.globalscape.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # GlobalSCAPE - Privacy Policy
 
-| [**Company**](https://web.archive.org/company/)  
+| [**Company**](http://www.globalscape.com/company/)  
 ---  
-[Contacts](https://web.archive.org/company/contact.aspx)  
-[Investor Relations](https://web.archive.org/company/ir.aspx)  
-[Press Room](https://web.archive.org/company/pressroom.aspx)  
-[Board of Directors](https://web.archive.org/company/board.aspx)  
-[Management](https://web.archive.org/company/management.aspx)  
-[Careers](https://web.archive.org/company/careers.aspx)  
-[Email Subscription](https://web.archive.org/company/prefs.aspx)  
-[Trademarks](https://web.archive.org/company/trademarks.aspx)  
-[Privacy Policy](https://web.archive.org/company/privacy.aspx)  
+[Contacts](http://www.globalscape.com/company/contact.aspx)  
+[Investor Relations](http://www.globalscape.com/company/ir.aspx)  
+[Press Room](http://www.globalscape.com/company/pressroom.aspx)  
+[Board of Directors](http://www.globalscape.com/company/board.aspx)  
+[Management](http://www.globalscape.com/company/management.aspx)  
+[Careers](http://www.globalscape.com/company/careers.aspx)  
+[Email Subscription](http://www.globalscape.com/company/prefs.aspx)  
+[Trademarks](http://www.globalscape.com/company/trademarks.aspx)  
+[Privacy Policy](http://www.globalscape.com/company/privacy.aspx)  
   
 We want you to know that we take your privacy seriously. We collect industry standard information to help us provide you with better software and services as described below. 
 
