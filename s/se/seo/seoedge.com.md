@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoedge.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617020649id_/http%3A//www.seoedge.com/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoedge.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220170545id_/http%3A//www.seoedge.com/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
