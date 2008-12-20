@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikon.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516042147id_/http%3A//www.nikon.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikon.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220134956id_/http%3A//www.nikon.com/privacy/index.htm) for the most accurate reproduction.*
 
 # Nikon | Privacy Management
 
@@ -20,7 +20,7 @@ Personal information acquired by the Company may be used in the following ways:
   * to verify participants in exhibitions and seminars and to correspond with them after the event
   * to develop and maintain smooth relations with business partners and related entities
   * as a reference in the recruitment of an individual where the personal information is provided by an inquirer or an applicant to the Company
-  * to send necessary documentation to shareholders including notification of the general meeting of shareholders, and to administer dividend payments or other actions as required by the Commercial Code
+  * to send necessary documentation to shareholders including notification of the General Shareholders' Meeting, and to administer dividend payments or other actions as required by the Commercial Code
   * as defined by Personal Data Protection Law and other applicable laws and regulations
 
 
