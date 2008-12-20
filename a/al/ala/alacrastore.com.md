@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alacrastore.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211030740id_/http%3A//www.alacrastore.com/cgi-bin/alacraswitchisapi.dll%3Fapp%3Dpubsite%26msg%3DGethelp%26topic%3Dprivacy%26sk%3Dguest%26_newstoretabset%3D12-00-00) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alacrastore.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220085818id_/http%3A//www.alacrastore.com/help/privacy) for the most accurate reproduction.*
 
 # AlacraStore.com - Privacy Policy
 
