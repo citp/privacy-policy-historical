@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investorsinsight.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615141634id_/http%3A//www.investorsinsight.com/content/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorsinsight.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220070803id_/http%3A//www.investorsinsight.com/content/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # InvestorsInsight's Privacy Policy - InvestorsInsight Publishing
 
@@ -24,12 +24,11 @@ Non-personal information may be compiled for statistical purposes and provided t
 
 **Updating Your Information.**   If you wish to update or change your information, you may go to our website and select "subscriber services." The screen that appears allows you to update or change your e-mail address.
 
-**Opting Out.** We hope you value the unique and insightful publications and information we publish. You can, however, choose to opt-out of individual communications at any time by following the simple instructions provided in each e-mail. Alternatively, you may go to our website and select "subscriber services" to unsubscribe from any of the selected publications.
+**Opting Out.** We hope you value the unique and insightful publications and information we publish. You can, however, choose to opt-out of individual communications at any time by following the simple instructions provided in each e-mail.
 
 **Changes to This Policy.** This Privacy Policy may be updated at any time, at InvestorsInsight's sole discretion. We expect that most changes will be minor. However, from time to time the changes can be significant. In either case, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice on our website home page. The date of the last revision to our Privacy Policy appears at the end of this notice.
 
 If you have any questions regarding our website or this Privacy Policy, please e-mail [webmaster@investorsinsight.com](mailto:webmaster@investorsinsight.com). 
 
 InvestorsInsight Publishing, Inc.  
-12/27/07  
-
+06/18/08
