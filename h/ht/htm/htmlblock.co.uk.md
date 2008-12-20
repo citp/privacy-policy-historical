@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htmlblock.co.uk privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601142950id_/http%3A//www.htmlblock.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlblock.co.uk privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220113514id_/http%3A//www.htmlblock.co.uk/privacy.php) for the most accurate reproduction.*
 
 # htmlblock.co.uk - privacy statement
 
@@ -41,6 +41,6 @@ We DO NOT collect personal information, e.g. your name, address, phone number, c
 **When you we have hold of your personal information and is it safe from others?** We only hold personal information if you purchase a product from our site. This information is kept in PayPal's database and the only people who have access to them is ourselves and PayPal. So any information we hold is 100% safe from other online users!
 
 **For more information please read our terms and conditions.** If you would like to know any other information regarding our Privacy statement please feel free to contact us at any time where one of our members of staff will be happy to help!  
-[read our terms and conditions](https://web.archive.org/web/20080601142950id_/http%3A//www.htmlblock.co.uk/terms.php).
+[read our terms and conditions](https://web.archive.org/web/20081220113514id_/http%3A//www.htmlblock.co.uk/terms.php).
 
-[Contact The Support Team](https://web.archive.org/web/20080601142950id_/http%3A//www.htmlblock.co.uk/support.php). 
+[Contact The Support Team](https://web.archive.org/web/20081220113514id_/http%3A//www.htmlblock.co.uk/support.php). 
