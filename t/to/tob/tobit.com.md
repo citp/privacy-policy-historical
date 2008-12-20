@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tobit.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609002244id_/http%3A//club.tobit.com/showArticle.asp%3FnewsID%3DEEC5737A-869B-4B4F-A290-5CCD344FBF47) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tobit.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220175027id_/http%3A//club.tobit.com/showArticle.asp%3FnewsID%3DEEC5737A-869B-4B4F-A290-5CCD344FBF47) for the most accurate reproduction.*
 
 # Tobit.Software
 
@@ -12,7 +12,7 @@ Some of our e-mail messages or newsletters use what is called a “click-through
 **Why do we record your personal data?**   
 Sometimes we need to record your personal data so that we can offer a superior level of customer service. It enables us to give you convenient access to our products and services and to offer you a range of services that is optimally tailored to your requirements. This keeps you posted on any new developments, additions or campaigns that are of interest to you. Furthermore, the data helps us to answer your questions or provide technical support for your software or to support interactive portals such as Tobit.NET, the Tobit.Software Partner Network or the Tobit.Software Site Management.
 
-If you do not want to be informed about Tobit.Software, latest developments, software updates, technical support or product and service information, you can update your personal contact data and settings at any time at [www.tobit.com](https://web.archive.org/web/20080609002244id_/http%3A//club.tobit.com/www.tobit.com).
+If you do not want to be informed about Tobit.Software, latest developments, software updates, technical support or product and service information, you can update your personal contact data and settings at any time at [www.tobit.com](https://web.archive.org/web/20081220175027id_/http%3A//club.tobit.com/www.tobit.com).
 
 **Which data do we collect?**   
 That depends on the relationship that you want to have with us. As holder of an account at Tobit.NET, you benefit from many interesting services. At any time you will receive up-to-date and tailored information as well as privileges for selected events from and with Tobit.Software. For this reason, when you register with Tobit.NET, Tobit.Software asks you for your name, address, your e-mail address, telephone and fax number, your own homepage and your date of birth. By specifying your bank sort code, your account number or your credit card number, as holder of an account at Tobit.NET you can easily make purchases at any time in the Tobit.Software Online Shop.
