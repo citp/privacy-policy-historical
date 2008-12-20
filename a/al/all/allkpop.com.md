@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the allkpop.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620223857id_/http%3A//www.allkpop.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allkpop.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220223533id_/http%3A//www.allkpop.com/index.php/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - ALLKPOP.COM | Sizzlin' K-Pop Gossip and News
+# Privacy Policy - ALLKPOP.COM | Sizzlin' K-Pop Gossip and Dirt!
 
-This statement covers the site allkpop.com (ALLKPOP). Please read this statement carefully before proceeding to access ALLKPOP. Your use of ALLKPOP indicates your agreement to abide by the Terms in effect. The Website is owned and operated by 6Theory Media. You can view our [Terms of Service (TOS) here](http://www.allkpop.com/index.php/tos). If you have any questions or suggestions regarding our privacy policy, please [contact us](http://www.allkpop.com/index.php/contact "contact us").
+This statement covers the site allkpop.com (ALLKPOP). Please read this statement carefully before proceeding to access ALLKPOP. Your use of ALLKPOP indicates your agreement to abide by the Terms in effect. The Website is owned and operated by 6Theory Media LLC (6theory for short). You can view our [Terms of Service (TOS) here](http://www.allkpop.com/index.php/tos). If you have any questions or suggestions regarding our privacy policy, please [contact us](http://www.allkpop.com/index.php/contact "contact us").
 
 **Website Visitors**
 
