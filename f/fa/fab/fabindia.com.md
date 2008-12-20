@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabindia.com privacy policy that was archived on 2008-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080415193721id_/http%3A//www.fabindia.com/pripolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabindia.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220234926id_/http%3A//www.fabindia.com/pripolicy.asp) for the most accurate reproduction.*
 
 # Designer Indian Clothes Shalwar Salwar Kameez Design, Tunic Shirt, Tunic Dress
 
@@ -28,8 +28,8 @@ Fabindia respects that you do not want your personal information shared with oth
 
 **How do I update my account information?**
 
-It is quick and easy to update your account information. Simply log in at [My Account](https://web.archive.org/web/20080415193721id_/http%3A//www.fabindia.com/_onlineMembers/_mylogin.asp) and proceed to the Update Profile. Please note that we do not store your credit/debit card information in your personal profile.
+It is quick and easy to update your account information. Simply log in at [My Account](https://web.archive.org/web/20081220234926id_/http%3A//www.fabindia.com/_onlineMembers/_mylogin.asp) and proceed to the Update Profile. Please note that we do not store your credit/debit card information in your personal profile.
 
 **How do I remove my name from the Fabindia email list?**
 
-If you would like to unsubscribe from our email mailings list, please go to the [Signup](https://web.archive.org/web/20080415193721id_/http%3A//www.fabindia.com/signup.asp) page. Once you enter your details and click Unsubscribe, you will be taken off our mailing list immediately.
+If you would like to unsubscribe from our email mailings list, please go to the [Signup](https://web.archive.org/web/20081220234926id_/http%3A//www.fabindia.com/signup.asp) page. Once you enter your details and click Unsubscribe, you will be taken off our mailing list immediately.
