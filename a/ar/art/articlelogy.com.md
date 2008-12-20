@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the articlelogy.com privacy policy that was archived on 2008-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080328211234id_/http%3A//www.articlelogy.com/example-page.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlelogy.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220033536id_/http%3A//www.articlelogy.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - ArticleLogy
-
-  * Online Now: 10   
-Most Online: 414 
-
-
+# Privacy Policy - Free Articles for Webmasters
 
 | 
 
-New Page 1
+You are Here: 
+
+[Home](https://web.archive.org/) » Privacy Policy
+
+Privacy Policy
 
 1\. ArticleLogy.com respects the privacy of its users and does not collect any personally identifiable user information without prior notice. Web statistics are the sole and private property of ArticleLogy.com and are only used for troubleshooting purposes.
 
