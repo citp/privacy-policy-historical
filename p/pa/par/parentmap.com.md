@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the parentmap.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509081330id_/http%3A//www.parentmap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentmap.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220174406id_/http%3A//www.parentmap.com/privacy) for the most accurate reproduction.*
 
 # Our Online Privacy Policy - ParentMap
 
 [Home](http://www.parentmap.com/)  Our Online Privacy Policy
 
-Our Online Privacy Policy  |   
----|---  
-  
+Our Online Privacy Policy 
+
 You know and trust _ParentMap_ newsmagazine, and ParentMap.com, and we value your trust. We are committed to maintaining the privacy of all personal information that you provide to us. 
 
 **Information we collect**
@@ -56,5 +55,3 @@ PMB #399
 Seattle, WA 98116-4553  
 206-709-9026  
 [admin@parentmap.com](mailto:admin@parentmap.com)
-
-[ ](http://www.parentmap.com/index.php?option=com_content&task=view&id=32&Itemid=151#contentTop)
