@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utteraccess.com privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429213738id_/http%3A//www.utteraccess.com/forums/uapriv.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utteraccess.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220094855id_/http%3A//www.utteraccess.com/forums/uapriv.php) for the most accurate reproduction.*
 
 # Utter Access Discussion Forums - Privacy statement
 
