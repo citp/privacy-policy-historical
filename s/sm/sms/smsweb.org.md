@@ -1,0 +1,25 @@
+> *The following text is extracted and transformed from the smsweb.org privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220061912id_/http%3A//strategicmanagement.net/privacy_policy.php) for the most accurate reproduction.*
+
+# Privacy Policy - Strategic Management Society (SMS)
+
+This Privacy Policy details certain policies governing SMS’ use of personally identifiable information provided to SMS via this Site or otherwise.
+
+Due to the Internet’s rapidly evolving nature, SMS may need to update this Privacy Policy from time to time. If so, SMS will post its updated Privacy Policy on our Site so you are always aware of what personally identifiable information we may collect and how we may use this information. SMS encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Site will be subject to the then-current Privacy Policy.
+
+You can generally visit our Site without revealing any personally identifiable information about yourself. However, in certain sections of this Site, to use certain services, we may require you to create an account with a password and username, or we may invite you to submit questions or comments, complete a questionnaire, or request information or subscribe to an e-newsletter. Due to the nature of some of these activities, we may ask that you complete and submit an online form with personally identifiable information such as your name, username, email address, other contact information and credit card information. We may use your personally identifiable information to deliver certain services, products or information you have requested, verify your authority to enter certain password protected areas of the Site, send you notices for services that you have used or that may be of interest to you, process your payment and improve the content and general administration of the Site.
+
+SMS may use small text files called cookies to improve overall Site experience. A cookie is a piece of data stored on the user’s hard drive containing information about the user. Cookies generally do not permit us to personally identify you.
+
+The Site may track the total number of visitors to our Site, the number of visitors to each page of our Site, IP addresses, external websites linked to, search terms and the domain names of our users’ Internet Service Providers, and we may analyze these data for trends and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information. Such aggregate information is not linked to any personal information that can identify any individual person. We may use such aggregate information to analyze trends, administer the Site, track users’ movement, and gather broad demographic information for aggregate use.
+
+Personally identifiable information held by SMS is stored in databases authorized for access only by staff and select contractors and volunteers. Credit card information is not entered into the database and will only be used to process your payment. We may employ procedural and technological security measures, consistent with industry practice. Such measures will be reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction.
+
+When an external organization contacts SMS requesting our services in sharing information to individuals in our database, we evaluate the compatibility of their mission and question whether this will be of benefit to the individual SMS members. If we determine that such sharing is valuable to the SMS member, we will offer to distribute the message ourselves, in a mailing or emailing.
+
+We will also disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority. We will not sell your personally identifiable information to any other company or organization. SMS assumes that information that has been previously made public (e.g., published on a personal web site or otherwise listed in a public forum, such as a telephone directory) need not be kept confidential.
+
+SMS provides you with the ability to review, correct and delete any of the personally identifiable information that you have provided to us. If you wish to review or correct any information you have provided to us, you may access your account and review, correct and delete your personally identifiable information or you may contact SMS at SMS@strategicmanagement.net
+
+SMS is aware of the importance of privacy concerns. SMS seeks to improve our ability to provide desired information to individuals while still protecting their privacy. Comments or suggestions are welcome by contacting sms **-deleteme** [at] **-deleteme-** strategicmanagement [dot] net
+
+Date this Privacy Policy was last updated: June 30, 2007
