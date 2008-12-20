@@ -1,11 +1,112 @@
-<!--The following is the downloaded HTML source of the vox.co.za privacy policy that was archived on 2008-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080613053200id_/http%3A//www.vox.co.za/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vox.co.za privacy policy that was archived on 2008-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220025824id_/http%3A//www.vox.co.za/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 	Vox - Privacy Policy
 </title>
+    <style>
+.CarelSePrentjieLeft
+{
+       border-style: solid none solid solid;
+       border-top-width: 2px;
+       border-bottom-width: 2px;
+       border-left-width: 2px;
+       border-top-color: #000000;
+       border-bottom-color: #999999;
+       border-left-color: #000000;
+}
+
+.CarelSePrentjieRegs
+{
+       border-style: solid solid solid none;
+       border-top-width: 2px;
+       border-bottom-width: 2px;
+       border-top-color: #000000;
+       border-bottom-color: #999999;
+       border-right-width: 2px;
+       border-right-color: #999999;
+}
+.ADSLzoneHeader1{font-family: Verdana, Arial, Helvetica, sans-serif; font-style:italic;	font-size: 20px;color:#007fd9;line-height:25px;vertical-align:bottom;font-weight:bold;text-align:left;text-transform:uppercase; letter-spacing: 1px;}
+.ADSLzoneHeader2{font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 11px;color:#007fd9;line-height:20px;vertical-align:bottom;font-weight:bold;text-align:left;text-transform:uppercase; letter-spacing: 1px;}
+.ADSLzoneHeader{font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 11px;color:#007fd9;line-height:20px;vertical-align:bottom;font-weight:bold;text-align:center;text-transform:uppercase; letter-spacing: 1px;}
+.ADSLzoneHeader_sub{font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 11px;line-height:18px;color:#000000;vertical-align:bottom;font-weight:bold;text-align:center;letter-spacing: 1px;text-decoration:underline;}
+.TableHeader{font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 11px;color:#000000;vertical-align:middle;text-align:left;border-width:1px;border-color:#9a9a9a;border-style:solid;font-weight:bold;}
+.AccountHeader{font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 15px; font-weight: bolder;}
+
+</style>
 
     <script language="javascript" type="text/javascript">
+        function ProductLanding(divId, obj, classType, pre, type, img, lnk) {
+
+            var imgOn = new Image();
+            var imgOff = new Image();
+
+            imgOn.src = "images/NewDesign/Product_Roll" + type + ".jpg";
+            imgOff.src = "images/NewDesign/Product_RollGrey.jpg";
+
+            for (i = 0; i < document.getElementsByTagName('div').length; i++) {
+                var objDiv = document.getElementsByTagName('div')[i];
+                if (objDiv.id != null && objDiv.id.indexOf(pre) != -1) {
+                    objDiv.style.display = 'none';
+                }
+            }
+
+            for (i = 0; i < document.getElementsByTagName('img').length; i++) {
+                var objDiv = document.getElementsByTagName('img')[i];
+                if (objDiv.src != null && (objDiv.src == imgOn.src && objDiv.id.indexOf(lnk) != -1)) {
+                    objDiv.src = 'images/NewDesign/Product_RollGrey.jpg';
+                }
+            }
+
+            for (i = 0; i < document.getElementsByTagName('a').length; i++) {
+                var objDiv = document.getElementsByTagName('a')[i];
+                if (objDiv.id.indexOf(lnk) != -1 && objDiv.id != '') {
+                    objDiv.className = 'Product';
+                }
+            }
+
+            document.getElementById(img).src = imgOn.src;
+            document.getElementById(divId).style.display = '';
+            obj.className = classType;
+        }
+
+        function ProductMenu(img, obj) {
+            var imgOn = new Image();
+            var imgOff = new Image();
+
+            imgOn.src = "images/NewDesign/left_Over.jpg";
+            imgOff.src = "images/NewDesign/products_left_Off.jpg";
+
+            for (i = 0; i < document.getElementsByTagName('img').length; i++) {
+                var objDiv = document.getElementsByTagName('img')[i];
+                if (objDiv.src != null && (objDiv.src == imgOn.src && objDiv.id.indexOf('pi') != -1)) {
+                    objDiv.src = imgOff.src;
+                }
+            }
+
+            for (i = 0; i < document.getElementsByTagName('a').length; i++) {
+                var objDiv = document.getElementsByTagName('a')[i];
+                if (objDiv.id.indexOf('pa') != -1 && objDiv.id != '') {
+                    objDiv.className = '';
+                }
+            }
+
+            document.getElementById(img).src = imgOn.src;
+            obj.className = "ProductRoll2";
+        }
+
+        function displayProduct(divShow) {
+
+            for (i = 0; i < document.getElementsByTagName('div').length; i++) {
+                var objDiv = document.getElementsByTagName('div')[i];
+                if (objDiv.id.indexOf('marketing_') != -1) {
+                    objDiv.style.display = 'none';
+                }
+            }
+
+            document.getElementById(divShow).style.display = '';
+        }
+
         function MoveImgBannerCover() {
             var objImgBannerDiv = document.getElementById(imgBannerClientId);
             if (objImgBannerDiv != null) {
@@ -44,14 +145,37 @@
             return yPos;
         }
     </script>
+    
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var pageTracker = _gat._getTracker("UA-6031209-1");
+        pageTracker._trackPageview();
+    </script>    
 
-<link href="App_Themes/default/default.css" type="text/css" rel="stylesheet"></head>
+<link href="App_Themes/default/default.css" type="text/css" rel="stylesheet"><link href="App_Themes/default/default1.css" type="text/css" rel="stylesheet"></head>
 <body onload="MoveImgBannerCover()">
     <table border="0" cellpadding="0" cellspacing="0" id="tblSubPopupProducts" class="SubPopupMenu" style="display: none;" onmouseover="StopSubPopupClose()" onmouseout="StartSubPopupClose()">
         <tbody><tr>
             <td align="left" class="SubSubMenuBut01" onmouseover="SubSubMenuRollOver(this, 'over')" onmouseout="SubSubMenuRollOver(this, 'out')">
                 <span class="GreenFont" style="position: relative;">&nbsp;+&nbsp;
-                    <a id="ctl00_HyperLink5" class="submenuFont" href="ProductADSLPhone.aspx">ADSL Phone</a>
+                    <a id="ctl00_HyperLink5" class="submenuFont" href="Product1.aspx">View All</a>
+                </span>
+            </td>
+        </tr>
+        <tr>
+            <td align="left" class="SubSubMenuBut01" onmouseover="SubSubMenuRollOver(this, 'over')" onmouseout="SubSubMenuRollOver(this, 'out')">
+                <span class="GreenFont" style="position: relative;">&nbsp;+&nbsp;
+                    <a id="ctl00_HyperLink18" class="submenuFont" href="ProductADSLPhone.aspx">ADSL Phone</a>
+                </span>
+            </td>
+        </tr>
+         <tr>
+            <td align="left" class="SubSubMenuBut01" onmouseover="SubSubMenuRollOver(this, 'over')" onmouseout="SubSubMenuRollOver(this, 'out')">
+                <span class="GreenFont" style="position: relative;">&nbsp;+&nbsp;
+                    <a id="ctl00_HyperLink21" class="submenuFont" href="CustomerProductPBX.aspx">Vox ADSL PBX</a>
                 </span>
             </td>
         </tr>
@@ -83,6 +207,8 @@
                 </span>
             </td>
         </tr>
+       
+        
     </tbody></table>
     <table border="0" cellpadding="0" cellspacing="0" id="tblSubPopupNews" class="SubPopupMenu" style="display: none;" onmouseover="StopSubPopupClose()" onmouseout="StartSubPopupClose()">
         <tbody><tr>
@@ -125,7 +251,7 @@
         <tr>
             <td align="left" class="SubSubMenuBut01" onmouseover="SubSubMenuRollOver(this, 'over')" onmouseout="SubSubMenuRollOver(this, 'out')">
                 <span class="GreenFont" style="position: relative;">&nbsp;+&nbsp;
-                    <a id="ctl00_HyperLink13" class="submenuFont" href="Documents/VoxTelcoRatesApril2008.pdf" target="_blank">Rates</a>
+                    <a id="ctl00_HyperLink13" class="submenuFont" href="http://www.vox.co.za/Documents/VoxTelcoRatesApril2008.pdf" target="_blank">Rates</a>
                 </span>
             </td>
         </tr>
@@ -147,7 +273,7 @@
                     <table width="30" height="38" cellpadding="0" cellspacing="0" style="width: 881px;">
                         <tbody><tr>
                             <td style="width: 239px; height: 67px;" rowspan="2">
-                                <img id="ctl00_Image1" src="images/NewDesign/Logo_Vox.jpg" border="0">
+                                <img id="ctl00_imgVoxTeleLogo" src="images/NewDesign/Logo_Vox.jpg" border="0">
                             </td>
                             <td colspan="10" style="height: 35px;">
                                 <img id="ctl00_Image2" src="images/NewDesign/spacer.gif" border="0" style="height: 35px; width: 380px;">
@@ -157,10 +283,10 @@
                             </td>
                             <td rowspan="2" style="height: 67px;">
                                 <span id="ctl00_spFrmLogin">
-                                        <form action="/Login.aspx" method="get" id="frmLogin"></form>
-                                            </span><table style="width: 225px; height: 65px;">
+                                        <form action="/Login.aspx" method="post" id="frmLogin"></form>
+                                            </span><table style="width: 225px; height: 65px; background-color: #f6f6f6">
                                     <tbody><tr>
-                                                <td class="Fonts" style="text-align: right; background-color: #f6f6f6">
+                                                <td class="Fonts" style="text-align: right;">
                                                     Customer /<br>
                                                     Dealer No:
                                                 </td>
@@ -169,7 +295,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="Fonts" style="text-align: right; background-color: #f6f6f6">
+                                                <td class="Fonts" style="text-align: right;">
                                                     Password:
                                                 </td>
                                                 <td>
@@ -280,6 +406,16 @@
                             <td>
                                 <img id="ctl00_Image16" src="images/NewDesign/SubMenu_Divider.jpg" border="0">
                             </td>
+                            
+                            <td>
+                                <span class="GreenFont">&nbsp;+&nbsp;</span>
+                                <a id="ctl00_HyperLink19" class="submenuFont" onmouseover="SubMenuRollOver(this,'over')" onmouseout="SubMenuRollOver(this,'out')" href="FindDealerWindow.aspx?searchOnly=true" target="_blank">Find a Dealer</a>
+                                &nbsp;
+                            </td>
+                            
+                            <td>
+                                <img id="ctl00_Image18" src="images/NewDesign/SubMenu_Divider.jpg" border="0">
+                            </td>
                         </tr>
                     </tbody></table>
                 </td>
@@ -288,7 +424,7 @@
                 <!-- Content -->
                 <td class="Content">
                     <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIxMzYyNTMwMzAPZBYCZg9kFgQCIQ8PFgIeB1Zpc2libGVoZGQCLg8PFgQeC05hdmlnYXRlVXJsBQ5+L0Fib3V0VXMuYXNweB4EVGV4dAUJQUJPVVQgVk9YZGRk">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIxMzYyNTMwMzAPZBYCZg9kFgQCEw8PFgIeB1Zpc2libGVoZGQCGg8PFgQeC05hdmlnYXRlVXJsBQ5+L0Fib3V0VXMuYXNweB4EVGV4dAUJQUJPVVQgVk9YZGRk">
 
 
 <script src="/Shared.js" type="text/javascript"></script>
@@ -298,7 +434,13 @@ var imgBannerClientId = 'ctl00_imgBanner';
 var divTopOfImgBannerId = 'ctl00_divTopOfImgBanner';//]]>
 </script>
 
-<script src="/ScriptResource.axd?d=wIdrZ4wbYeKb9WTIjxawv73N720rrQzyf2Hrlimt_i1Ky8JxyXP5wlF7CV5q6WfdgErLkkyKRbsdjlg9C0pfxW4RtxnqDSO8HZcNBU6IcOY1&amp;t=633220869826488750" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=jltSxkvL4Ptler0D0sbS5knXBZUKsMP3nsLL_W6zmuj7litz-q5DhqIzEi-6RVLWPiqR_xXaE3rVXDaLVDVX4OmWnyRenyAzvoLLfhGVcgA1&amp;t=633535613983240000" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
 <script src="ws/wsInternal.js" type="text/javascript"></script>
 <script src="WSDealerSearch.asmx/jsdebug" type="text/javascript"></script>
 <script src="ws/Internal.asmx/jsdebug" type="text/javascript"></script>
@@ -330,6 +472,13 @@ var divTopOfImgBannerId = 'ctl00_divTopOfImgBanner';//]]>
             <a id="ctl00_ContentPlaceHolder1_ctl00_HyperLink19" class="nav" href="Support/TrackTrace.aspx">Track &amp; Trace</a>
         </td>
     </tr>
+    
+    <tr style="display: none;">
+        <td class="LeftMenuButB01">
+            <a id="ctl00_ContentPlaceHolder1_ctl00_HyperLink4" class="nav" href="DealerArea/ProductPABX.aspx">PABX</a>
+        </td>
+    </tr>
+    
     <tr id="ctl00_ContentPlaceHolder1_ctl00_trCustomInfo">
 		<td style="padding-top: 10px;">
         </td>
@@ -493,6 +642,9 @@ Sys.Application.initialize();
             <tr>
                 <!-- Footer -->
                 <td style="text-align: center; padding-bottom: 10px;">
+                    <center>
+                        </center>
+                    <br>
                     <a id="ctl00_HyperLink1" href="TermsDealer.aspx">Dealer Terms and Conditions</a>
                     |
                     <a id="ctl00_HyperLink2" href="TermsCustomer.aspx">Customer Terms and Conditions</a>
@@ -500,6 +652,13 @@ Sys.Application.initialize();
                     <a id="ctl00_HyperLink3" href="DMSACodeConduct.aspx">DMSA Code of Conduct</a>
                     |
                     <a id="ctl00_HyperLink4" href="PrivacyPolicy.aspx">Privacy Policy</a>
+                    |
+                    <a id="ctl00_HyperLink05" href="http://www.voxtelecom.co.za/VoxTelecom_PAIA.pdf" target="_blank">PAIA</a>
+                    |
+                    <a id="ctl00_HyperLink06" href="http://www.ispa.org.za/code/code_of_conduct.shtml" target="_blank">ISPA</a>
+                    <br>
+                    <center>
+                        <strong>© Vox Telecom Limited</strong></center>
                 </td>
             </tr>
         </tbody></table>
