@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the saverstore.com privacy policy that was archived on 2008-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080218011855id_/http%3A//www.saverstore.com/products/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saverstore.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220172853id_/http%3A//www.saverstore.com/products/information/privacy) for the most accurate reproduction.*
 
-# Saverstore.com - Privacy Policy
-
-| 
+# Privacy
 
 At Saverstore.com we are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
 
-We collect information about you for 2 reasons: firstly, to process your order; and second, to provide you with the best possible service.
+We collect information about you for, to process your order and to provide you with the best possible service.
 
 We will not email you in the future unless you have given us your consent.
 
@@ -32,11 +30,4 @@ The personal information which we hold will be held securely on our back-office 
 
 We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your computer. You can usually modify your browser to prevent this happening. The information stored in the cookie is only used to identify you prior to registration on the site.
 
-| 
-
-My Basket
-
-|   
----  
-  
-Click on the Add button to add items to your basket.
+In addition, from time to time we may market certain third party offers or services through our site. Should you choose to accept an offer from a third party, we will pass your relevant personal information, including name, address, and credit/debit card number, to that third party which may have its own privacy policy which describes how it uses your personal information once you apply for accept the offer or subscribe to the service. 
