@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dell.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630073114id_/http%3A//www.dell.com/content/topics/global.aspx/policy/en/policy%3Fc%3Dus%26l%3Den%26s%3Dgen%26%7Esection%3D000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220213837id_/http%3A//www.dell.com/content/topics/global.aspx/policy/en/policy%3Fc%3Dus%26l%3Den%26s%3Dgen%26%7Esection%3D000) for the most accurate reproduction.*
 
 # Dell's Online Policies
 
@@ -16,7 +16,7 @@ Visit [www.nclnet.org/technology/essentials](http://www.nclnet.org/technology/es
 
 Scope
 
-This summary provides highlights of the full Dell [Global Privacy Policy](https://web.archive.org/content/topics/global.aspx/policy/en/privacy_policy?c=us&l=en&s=gen) and applies to Dell Inc. and its worldwide corporate affiliates ("we" or "our") but not to those Dell corporate affiliates that operate and have published their own privacy and security policies, including but not limited to Dell Financial Services, Alienware, and Everdream business units. Dell's affiliates License Technologies Group and ASAP Software Express, Inc. (ASAP Software) adhere to the Privacy Principles of the Safe Harbor Program administered by the U.S. Department of Commerce. Details about the privacy protection requirements of this program can be found at <http://export.gov/safeharbor/>. This privacy statement also does not apply to the web sites of our business partners or to any other third parties, even if their web sites are linked to our web site. We recommend you review the privacy policies of each web site you visit. 
+This summary provides highlights of the full Dell [Global Privacy Policy](https://web.archive.org/content/topics/global.aspx/policy/en/privacy_policy?c=us&l=en&s=gen) and applies to Dell Inc. and its worldwide corporate affiliates ("we" or "our") but not to those Dell corporate affiliates that operate and have published their own privacy and security policies, including but not limited to Dell Financial Services, and Alienware business units. This privacy statement also does not apply to the web sites of our business partners or to any other third parties, even if their web sites are linked to our web site. We recommend you review the privacy policies of each web site you visit. 
 
 This privacy statement governs only personal information we collect from our customers and online from our web site users ("you"), through Dell products, services, software, web sites, contacts or our relationship with you. Please refer to your warranty statements, service contracts, or Dell's Return Policy for policies that apply to information contained on hard drives returned or downloaded to Dell.
 
@@ -45,7 +45,7 @@ Your Choices
 
   * You may instruct Dell to stop sending you certain promotional materials (e.g., e-mail messages, catalogues) by following the unsubscribe instructions provided in our materials.
   * [Click here](https://web.archive.org/content/topics/global.aspx/policy/en/policy?c=us&l=en&s=gen&~section=009) to unsubscribe from (opt out of) direct mail, telephone, fax or e-mail communications. 
-  * You may choose to view or edit your personal information has been stored online by visiting the [My Account/ Premier Account](https://membership.dell.com/DellLogin/GA/login.aspx) section of the dell.com web site. For the security of your account, you will be required to sign in with your login ID and password.
+  * You may choose to view or edit your personal information has been stored online by visiting the [My Account/ Premier Account](https://ecomm.dell.com/myaccount/login.aspx) section of the dell.com web site. For the security of your account, you will be required to sign in with your login ID and password.
   * You may contact Dell to determine the types of personal information that we process and to correct or update your personal information. 
 
 
@@ -67,7 +67,6 @@ Other Important Information
 
   * Dell is committed to working with you to obtain a fair resolution of complaints or concerns about privacy. 
   * Dell complies with data protection laws in the countries in which we do business, and we cooperate with data protection authorities and law enforcement agencies. 
-  * Our US web sites are privacy certified by the U.S. [Better Business Bureau OnLine](http://www.bbbonline.org/)®  Privacy Program.
   * For more information about our privacy practices, please [click here](https://web.archive.org/content/topics/global.aspx/policy/en/privacy_policy?c=us&l=en&s=gen).
 
 
@@ -93,4 +92,4 @@ How to Contact Us
 | | | | |   
 ---|---|---|---|---  
   
-sn DWW5
+sn WW10
