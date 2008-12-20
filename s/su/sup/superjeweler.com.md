@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the superjeweler.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518082643id_/http%3A//www.superjeweler.com/newuserarea/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superjeweler.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220120525id_/http%3A//superjeweler.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # superjeweler.com - protecting your personal information with VeriSign
 
-Updated August 31, 2007
+Updated December 04, 2008
 
 This privacy statement discloses the privacy practices for Superjeweler.com. We are committed to protecting your privacy and encourage you to periodically review this page to be informed of how we protect the information you disclose to us. 
 
@@ -64,6 +64,9 @@ If a user's personally identifiable information changes (such as your zip code, 
 
 Choice/Opt-Out  
 Users who no longer wish to receive promotional materials may opt-out of receiving these communications by using the unsubscribe feature in our e-mail. 
+
+Fetchback Privacy Statement and Opt Out  
+We work with FetchBack to display Retargeted ads to our site prospects, on our behalf, across the Internet. They collect Non-Personally Identifiable Information about your visits to our Website, and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No Personally Identifiable Information is collected during in this process. To read FetchBack’s Privacy Policy, [click here](http://www.fetchback.com/privacy.html). If you do not want FetchBack to collect this information, you may opt out of their service. Opting out will not in any way effect your use of our site. To Opt-Out, of FetchBack Retargeting, please [click here](http://www.fetchback.com/optout.html). Visit the Network Advertising Initiatives Opt-Out by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Changes to This Policy    
 We reserve the right to change this privacy policy, and any of our policies or procedures concerning the treatment of information collected through the site, without prior notice. You can determine when this privacy policy was last revised by referring to date at the top of this page. Any changes to our privacy policy will become effective upon posting of the revised policy on the Internet, accessible through the site. Use of the site following such changes constitutes your acceptance of the revised policy then in effect. We encourage you to periodically review our privacy policy to ensure familiarity with our most current version.
