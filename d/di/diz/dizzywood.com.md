@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dizzywood.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626004712id_/http%3A//www.dizzywood.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dizzywood.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220012038id_/http%3A//www.dizzywood.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Dizzywood - Privacy Policy
 
@@ -8,7 +8,7 @@
 
 ### Effective Date
 
-This Privacy Policy was last updated on **April 25, 2008** , and applies to all information previously obtained by Dizzywood. Dizzywood reserves the right to change its privacy policy at its sole discretion. Dizzywood users will be informed of any such change by Dizzywood posting a new privacy policy on the Dizzywood Site. The effective date of any change of the privacy policy will be clearly marked. 
+This Privacy Policy was last updated on **August 22, 2008** , and applies to all information previously obtained by Dizzywood. Dizzywood reserves the right to change its privacy policy at its sole discretion. Dizzywood users will be informed of any such change by Dizzywood posting a new privacy policy on the Dizzywood Site. The effective date of any change of the privacy policy will be clearly marked.
 
 Dizzywood is committed to providing a fun, entertaining, and safe website for people of all ages. Our information practices are designed to comply with the United States Federal Trade Commission's Children's Online Privacy Protection Act "COPPA". This Privacy Policy is part of our Terms of Use for the Site. Please review this Privacy Policy regularly so that you will be aware of any changes to it. Your continued use of the Site and/or provision of personally identifiable information by you to us following any such revision means you accept and will be subject to the revised Privacy Policy. Any revision to our data collection, use and disclosure practices that might require notice and/or verifiable parental consent for users of our site under the age of 13 will be done in accordance with COPPA. Any terms not defined in this Privacy Policy shall have the meanings given such terms in the Terms of Use.
 
@@ -18,11 +18,11 @@ Dizzywood (www.dizzywood.com) is a participant in the Privo's Privacy Assurance 
 
 ### Personal Information Collection and Use Policies
 
-It is our policy to require only the minimal collection of information from our users. We do not condition a child's participation in any of our online activities on the disclosure of more information than is reasonably necessary to participate in the activity. 
+It is our policy to require only the minimal collection of information from our users. We do not condition a child's participation in any of our online activities on the disclosure of more information than is reasonably necessary to participate in the activity.
 
-The safety of our users has always been our highest priority and to that end, we have devised a registration system that is intended to be completed by the parent on behalf of their child. In the registration process to become a member of Dizzywood, we ask the parent to click on links stating that they have read both the Privacy Policy and Terms of Use and that they agree to comply with both. We then ask the parent to choose for their child a username (not a personally identifiable name) and password and to provide their child’s gender. We ask for username and password so that each time their child logs on they have their saved, personalized avatar and collected points available to them for play in Dizzywood. We ask for gender in order to program the player's avatar as a boy or girl character. Finally, we ask for a parent email so that we can send an email to the parent which directs them to click on a link in the email to activate the child’s account. The email addresses we collect are only used for our automated account activation and password retrieval systems and to verify parental consent of children to use the Site. We do not send announcements, marketing materials, or other general communications to our users through email. 
+The safety of our users has always been our highest priority and to that end, we have devised a registration system that is intended to be completed by the parent on behalf of their child. In the registration process to become a member of Dizzywood, we ask the parent to click on links stating that they have read both the Privacy Policy and Terms of Use and that they agree to comply with both. We then ask the parent to choose for their child a username (not a personally identifiable name) and password and to provide their child’s gender. We ask for username and password so that each time their child logs on they have their saved, personalized avatar and collected points available to them for play in Dizzywood. We ask for gender in order to program the player's avatar as a boy or girl character. Finally, we ask for a parent email so that we can send an email to the parent which directs them to click on a link in the email to activate the child’s account. The email addresses we collect are primarily used for our automated account activation and password retrieval systems and to verify parental consent of children to use the Site. We retain the right to communicate safety and privacy messages, general updates, and usability features via email.
 
-If an account has been inactive for 12 months or longer, all of this user information associated with the account is purged from our database. 
+If an account has been inactive for 12 months or longer, we reserve the right to purge all of the user information associated with the account from our database.
 
 ### Parental Review of Information
 
@@ -54,8 +54,8 @@ Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our 
 
 Rocket Paper Scissors LLC  
 ATTN: Privacy Coordinator  
-609 Mission Street, 6th Floor  
-San Francisco, CA 94105  
+720 Market Street, 4th Floor  
+San Francisco, CA 94102  
 (415) 882-4400  
 privacy@dizzywood.com  
 
@@ -66,8 +66,8 @@ Dizzywood.com is owned, produced, operated and maintained by Rocket Paper Scisso
 
 Rocket Paper Scissors LLC  
 ATTN: Privacy Coordinator  
-609 Mission Street, 6th Floor  
-San Francisco, CA 94105  
+720 Market Street, 4th Floor  
+San Francisco, CA 94102  
 (415) 882-4400  
 privacy@dizzywood.com  
 
