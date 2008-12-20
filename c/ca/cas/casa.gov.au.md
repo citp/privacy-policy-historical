@@ -1,8 +1,19 @@
-> *The following text is extracted and transformed from the casa.gov.au privacy policy that was archived on 2008-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080424234323id_/http%3A//www.casa.gov.au/tools/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casa.gov.au privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220042241id_/http%3A//www.casa.gov.au/tools/privacy/index.htm) for the most accurate reproduction.*
 
 # CASA web site - Privacy statement
 
 CASA is committed to respecting your right to privacy and protecting your personal information. CASA is bound by the Information Privacy Principles in the Privacy Act 1988 (Commonwealth). Our staff are trained to respect your privacy in accordance with our standards, policies and procedures. The following explains what information we gather from you when you go to our website, how we use that information and how you can contact us for more information.
+
+  * The information we collect
+  * How we use your information
+  * Login Accounts
+  * What CASA does with your personal licensing information
+  * Permission to contact you
+  * Securing your information
+  * Disclaimer
+  * Contacts
+
+
 
 ## The information we collect
 
@@ -15,7 +26,7 @@ Each time someone visits CASA’s web site, our web server collects the followin
 
 
 
-No attempts are made to identify anyone browsing our site. The data is captured so that we can accurately evaluate the quality of our content and make improvements for you.
+No attempts are made to identify anyone browsing our site without their explicit permission. The data is captured so that we can accurately evaluate the quality of our content and make improvements for you.
 
 In some areas of the site we use technology called cookies when you visit our site. Cookies are small pieces of information which can be stored on your hard drive or in memory. They can record information about your visit to the site, allowing it to remember you next time you visit and provide a more meaningful experience. 
 
@@ -31,9 +42,36 @@ We will only record your e-mail address if you send us a message or enter it int
 
 When you subscribe to a mailing list, we will only use your e-mail address to send information on the topics you nominated. We will not use this information for any other purpose. However, we may use your email address to send regular communications about aviation safety information which you have told us you are interested in.
 
+## Login Accounts
+
+Some areas of CASA's web sites are restricted to users with login accounts. Additional information may be collected when creating accounts for these areas. Access to these areas will be associated with the user account used to login. Information on the user account stored in these areas is protected by the login name and password assigned by the user. 
+
+## What CASA does with your personal licensing information
+
+Information you provide on aircraft registration, aviation medical certification and personnel licensing applications includes personal information the collection, use and disclosure of which is governed by the Commonwealth Privacy Act 1988.
+
+CASA uses this information internally for the purposes of its functions under the Civil Aviation Act 1988 and Aviation Transport Security Act 2004. 
+
+CASA discloses name and address details to mailing houses and other contractors disseminating information on CASA’s behalf. CASA may use this information for the purposes of its own research and analysis into matters affecting aviation safety.
+
+Information given to CASA for personnel licensing and security identity document applications will be used for licensing, identity and security checking purposes. CASA may also disclose this information as part of its accountability obligations to the Government and to Parliament. It may disclose this information to the following government agencies for the following purposes: 
+
+  * Department of Infrastructure, Transport, Regional Development and Local Government for aviation safety and security purposes, and for research, statistical analysis, economic modelling, and other policy development purposes; 
+  * Australian Transport Safety Bureau (ATSB), for the purposes of investigations into aviation accidents and incidents, and for research into matters affecting aviation safety; 
+  * Australian Security and Intelligence Organisation, Australian Federal Police, Attorney General's Department and the Department of Immigration and Citizenship, for aviation security purposes; 
+  * Airservices Australia and Australian Maritime Safety Authority, for air traffic management and search and rescue purposes. 
+
+
+
+CASA may disclose this information to the national aviation authority of another country in order to verify claims made in the application, or for enforcement purposes. It may also provide this information to the national aviation authority of another country on receipt of a request for bona fide aviation safety or security purposes.
+
+CASA also discloses personal information in compliance with mandatory legal requirements, for example, in response to notices of production from the ATSB or by court order.
+
 ## Permission to contact you
 
-You can choose not to receive further emails from us by withdrawing your consent. To do this, contact the CASA web master. You may also use the ‘unsubscribe’ link included in each email we send from our mailing list.
+You can choose not to receive further mailing list emails from us by withdrawing your consent. To do this, contact the CASA web master. You may also use the ‘unsubscribe’ link included in each email we send from our mailing list.
+
+Where you contact CASA via email or through our web sites, CASA may respond by email. Depending on the nature of the interaction, information held by CASA may be included in such communications. You should be aware that internet email has associated risks including potential for non-delivery, interception or modification.
 
 ## Securing your information
 
