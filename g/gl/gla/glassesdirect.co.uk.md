@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the glassesdirect.co.uk privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625022711id_/http%3A//www.glassesdirect.co.uk/release_000/pacp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassesdirect.co.uk privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220170929id_/http%3A//www.glassesdirect.co.uk/pacp) for the most accurate reproduction.*
 
-# Glasses Direct - Legal Stuff
+# Glasses Direct | Legal Stuff | Privacy Statement
+
+* * *
 
 ### 1\. INTRODUCTION
 
-### PLEASE DO NOT SEND EMAILS OR REGISTER ON THE SITE IF YOU DO NOT WANT THAT INFORMATION TO BE PROCESSED BY US IN THE WAYS DESCRIBED BY THIS NOTICE. BY PROVIDING US WITH INFORMATION ON THE SITE, YOU CONSENT TO THE TRANSFER OF PERSONAL DATA AS DESCRIBED IN THE POLICY.
+### PLEASE DO NOT SEND EMAILS OR REGISTER ON THE SITE IF YOU DO NOT WANT THAT INFORMATION TO BE PROCESSED BY US IN THE WAYS DESCRIBED BY THIS NOTICE. BY PROVIDING US WITH INFORMATION ON THE SITE, YOU CONSENT TO THE TRANSFER OF PERSONAL DATA AS DESCRIBED IN TH
 
 Your privacy is important to us. This Privacy and Cookie Policy explains what information we collect about you and what we do with it. Please take a few minutes to read it.
 
@@ -14,20 +16,24 @@ Your access, use of and submission of an order via the Site constitutes your exp
 
 ### 2\. WHAT TYPE OF DATA DO WE COLLECT ABOUT YOU?
 
-Personal data relating to Internet users viewing the Site may be collected through the Site on each of the following occasions:  
-(i) data regarding navigation may be collected by our web servers or by cookies when you are browsing the Site;  
-(ii) data regarding your identity and email address may be collected when you send an email to us through the Site (if you choose to do so), for instance via the ‘Contact’ page or where you submit an Order Form in accordance with our Terms and Conditions;   
-(iii) data regarding your identity may be collected by the Site on registration for online ordering; and  
-(iv) data regarding your identity, medical details as contained on any prescription or other supporting information that you provide to us, whether by email, telephone, fax or post.
+Personal data relating to Internet users viewing the Site may be collected through the Site on each of the following occasions:
 
-Upon collection the personal data will be stored for as long as is reasonably necessary to provide goods and services, including after sales services to you, in accordance with our Terms and Conditions.
+  1. data regarding navigation may be collected by our web servers or by cookies when you are browsing the Site;
+  2. data regarding your identity and email address may be collected when you send an email to us through the Site (if you choose to do so), for instance via the ‘Contact’ page or where you submit an Order Form in accordance with our Terms and Conditions;
+  3. data regarding your identity may be collected by the Site on registration for online ordering; and
+  4. data regarding your identity, medical details as contained on any prescription or other supporting information that you provide to us, whether by email, telephone, fax or post.
+  5. Upon collection the personal data will be stored for as long as is reasonably necessary to provide goods and services, including after sales services to you, in accordance with our Terms and Conditions.
+
+
 
 ### 3.WHAT IS A COOKIE?
 
 A cookie is a tiny element of data that is stored on your computer's hard drive by your web browser when you access a website. The Site makes use of the following types of cookie technology:
 
-• A "Session cookie", which contains a random ID number automatically allocated to your computer by the webserver for the duration of your visit. It is meant to make your use of the Site faster and easier. It will be deactivated after thirty minutes of inactivity on the Site and will be automatically removed from your computer when you close your browser.  
-• A "Script generated cookie" is automatically allocated to your computer when you register to access any restricted areas of the Site and on each subsequent visit. It only contains an identifier which will enable the Site to identify you as a registered user so that you do not have to identify yourself again while you move from one server to another during your visit. It will remain on your computer after your visit until you remove it. It will be placed again at your next visit.
+  1. A "Session cookie", which contains a random ID number automatically allocated to your computer by the webserver for the duration of your visit. It is meant to make your use of the Site faster and easier. It will be deactivated after thirty minutes of inactivity on the Site and will be automatically removed from your computer when you close your browser.
+  2. A "Script generated cookie" is automatically allocated to your computer when you register to access any restricted areas of the Site and on each subsequent visit. It only contains an identifier which will enable the Site to identify you as a registered user so that you do not have to identify yourself again while you move from one server to another during your visit. It will remain on your computer after your visit until you remove it. It will be placed again at your next visit.
+
+
 
 ### Third-Party Cookies
 
@@ -41,17 +47,17 @@ If you don’t want us to place cookies on your computer at all, you can set you
 
 If you want to remove previously-stored cookies, you can manually delete the cookies at any time. This will not prevent websites from placing further cookies on your computer.
 
-To find out exactly how to disable/remove, please go to <http://www.allaboutcookies.org/manage-cookies/index.html>
+To find out exactly how to disable/remove, please go to <http://www.aboutcookies.org/default.aspx>
 
 ### 5\. WHAT WE DO WITH THE INFORMATION WE COLLECT ABOUT YOU
 
-_(i) DATA COLLECTED BY WEB SERVERS AND COOKIES_
+  1.  _DATA COLLECTED BY WEB SERVERS AND COOKIES_
 
 The web servers that serve the Site collect the IP address of users who visit the Site, their Site navigation information (page requested, time of request, browser type and server response) as well as the user name if the user has registered to any restricted areas of the site.
 
 This information is regularly aggregated and de-identified so that the number of visits to the Site and its pages, the average time spent on the Site and the pages viewed, etc., can be measured and analysed to improve our product offerings and marketing approach and to improve the Site's content and functionality. This information will not be used to create individual visitors' profiles. We will not track the individual navigation of visitors, except in the very limited cases where a visitor faces navigation problems which require a technical intervention to correct the problem or to detect potential intrusions.
 
-_(ii) DATA COLLECTED ON SENDING AN EMAIL TO THE OWNER_
+  2.  _DATA COLLECTED ON SENDING AN EMAIL TO THE OWNER_
 
 You may want to send an email to us through the Site, for instance via the 'Contact' pages. By doing so, you will provide us with basic information about yourself, such as your email address, telephone numbers, your name, your query and could include certain medical information.
 
@@ -59,13 +65,16 @@ We will not use the information you provide when sending us emails for purposes 
 
 Except if provided to others, as set out below, the supplied data will be kept on the Site’s secured servers and computer systems, protected from outside intrusions.
 
-_(iii) DATA COLLECTED THROUGH SUBMISSION OF ORDER FORM_
+  3.  _DATA COLLECTED THROUGH SUBMISSION OF ORDER FORM_
 
 In addition to a copy of your prescription from a registered medical practitioner or registered ophthalmic optician, or details thereof as applicable you are required to provide the personal information set out in the Order Form.
 
 This information, as well as your password, is processed by us for the purpose of processing your Order Form, delivery Goods to you and otherwise performing our obligations to you in accordance with our Terms and Conditions. If you do not wish to register, but would still like product or service information, all you need to do is to call the telephone number provided on the ‘Contact’ page or send us an email.
 
 If you specify on the "Cardholder Details" page that you are interested in receiving news from Glasses Direct, your personal data will be used and transferred for direct marketing purposes. Except as expressly stated in this Privacy and Cookies Policy and in our Terms and Conditions we will not send you email messages or junk mail, and your details will not be passed to ANY organisation beyond Glasses Direct without your explicit permission.
+
+
+
 
 ### 6\. TRANSFER OF THE DATA COLLECTED VIA THE SITE TO THIRD PARTIES
 
@@ -75,25 +84,31 @@ Data collected on sending an email may be provided, to the extent necessary to h
 
 Data collected through the Site may also be transferred to others from time to time in the following cases as needed to perform the data processing purposes described in this Policy:
 
-1) at your request, on your order or subject to your prior agreement, to recipients specified by you;  
-2) to authorised third parties in compliance with our statutory or regulatory obligations;  
-3) to recipients who are operators acting on our behalf in their capacity as agent, authorised proxy, sub-contractor, service provider or in any other capacity, including suppliers in charge of hosting or maintaining the site;  
-4) to our laboratories;  
-5) other third party businesses selected by us for the purposes of direct marketing, if you tick in the relevant box on the "Cardholder Details Page" page;  
-6) in case of a change of control or acquisition or the whole or part of the assets or business of Prescription Eyewear Limited, the data collected through this site will be transferred to the acquiring entity.
+  1. at your request, on your order or subject to your prior agreement, to recipients specified by you;
+  2. to authorised third parties in compliance with our statutory or regulatory obligations;
+  3. to recipients who are operators acting on our behalf in their capacity as agent, authorised proxy, sub-contractor, service provider or in any other capacity, including suppliers in charge of hosting or maintaining the site;
+  4. to our laboratories;
+  5. other third party businesses selected by us for the purposes of direct marketing, if you tick in the relevant box on the "Cardholder Details Page" page;
+  6. in case of a change of control or acquisition or the whole or part of the assets or business of Prescription Eyewear Limited, the data collected through this site will be transferred to the acquiring entity.
+
+
 
 ### 7\. TRANSFERRING YOUR DATA OUTSIDE EUROPE
 
 Currently we do not transfer your data outside Europe.
 
-### 8) SUBJECT ACCESS RIGHTS
+### 8\. SUBJECT ACCESS RIGHTS
 
-At law you have the following rights  
-• a subject access right which enables you to be told whether we hold any personal data about you and to obtain a copy of that information;  
-• a right to get personal data relating to you rectified, completed, updated, blocked or erased when incomplete, unclear, obsolete or processed unlawfully;  
-• a right to object to the processing of data relating to you on legitimate grounds and a right to object free of charge to the use of data for solicitation purposes.
+At law you have the following rights
+
+  * a subject access right which enables you to be told whether we hold any personal data about you and to obtain a copy of that information;
+  * a right to get personal data relating to you rectified, completed, updated, blocked or erased when incomplete, unclear, obsolete or processed unlawfully;
+  * a right to object to the processing of data relating to you on legitimate grounds and a right to object free of charge to the use of data for solicitation purposes.
 
 We will comply with such rights as provided under applicable law. If you wish to exercise your subject access right, please contact us in writing at the address set out on the Site with sufficient information to identify yourself and the information you require. We will respond to your request within 40 days. We reserve the right to charge £10 for complying with a subject access request.
+
+
+
 
 ### 9\. SECURITY
 
