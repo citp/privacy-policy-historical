@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europebet.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608030944id_/http%3A//www.gosportsbet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europebet.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221014640id_/http%3A//www.gosportsbet.com/privacy) for the most accurate reproduction.*
 
 # Online sports betting at GoSportsBet.com - Online gambling, sportsbook, and casino
 
@@ -33,7 +33,7 @@ This site gives users the following options for changing and modifying informati
 
 1\. [Click here ](http://www.gosportsbet.com/support/)to send an email 
 
-2\. Call the following toll-free telephone number: 1-877-543-0099Your Consent  
+2\. Call the following toll-free telephone number: 1-888-672-2863Your Consent  
 If we decide to change our privacy policy, we will post those changes here so that you are always aware of what information we collect and how we use it.
 
 Conclusion  
