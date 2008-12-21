@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chinatraveldepot.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602211428id_/http%3A//www.chinatraveldepot.com/InboundTourHtml/PSP.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinatraveldepot.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221110256id_/http%3A//www.chinatraveldepot.com/InboundTourHtml/PSP.aspx) for the most accurate reproduction.*
 
-# Privacy and Security Policy, ChinaTravelDepot.com
+# Privacy and Security Policy, China Travel Depot
 
 **What does ChinaTravelDepot do with the information collected?**
 
-**We do not collect personal information about you when you browse the site. We collect any kind of personal information when you give it to us in order to deal efficiently and properly with your reservation for[China Tours](https://web.archive.org/web/20080602211428id_/http%3A//www.chinatraveldepot.com/InboundChinaTours/ChinaToursSearchIndex.aspx), [ City Breaks](https://web.archive.org/web/20080602211428id_/http%3A//www.chinatraveldepot.com/InboundCityBreaks/CityBreaksIndex.aspx), [ China Flights](https://web.archive.org/web/20080602211428id_/http%3A//www.chinatraveldepot.com/InboundTourAir/AirIndex.aspx), [China Hotels](https://web.archive.org/web/20080602211428id_/http%3A//www.chinatraveldepot.com/Hotel/index.aspx).**
+**We do not collect personal information about you when you browse the site. We collect any kind of personal information when you give it to us in order to deal efficiently and properly with your reservation for[China Tours](https://web.archive.org/web/20081221110256id_/http%3A//www.chinatraveldepot.com/InboundChinaTours/ChinaToursSearchIndex.aspx), [City Breaks](https://web.archive.org/web/20081221110256id_/http%3A//www.chinatraveldepot.com/InboundCityBreaks/CityBreaksIndex.aspx), [China Flights](https://web.archive.org/web/20081221110256id_/http%3A//www.chinatraveldepot.com/InboundTourAir/AirIndex.aspx), [ China Hotels](https://web.archive.org/web/20081221110256id_/http%3A//www.chinatraveldepot.com/Hotel/index.aspx).**
 
 We will need to collect personal information about you to handle your booking as smoothly as possible, especially ChinaTravelDepot is the only Online Travel Agent in China offering real-time reservation and real-time confirmation service to make your trip to China easy, affordable and safe.
 
