@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idealist.org privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629062310id_/http%3A//www.idealist.org/en/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idealist.org privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221172202id_/http%3A//www.idealist.org/en/about/privacy.html) for the most accurate reproduction.*
 
 # idealist.org - Welcome to Idealist.org - Imagine. Connect. Act.
 
@@ -72,7 +72,7 @@ You can always choose not to provide information or to opt out of receiving comm
 
 Telephone: 212-843-3973 
 
-Mail: 121 Avenue of the Americas, Suite 506, New York, NY 10013, United States
+Mail: 302 Fifth Avenue, 11th Floor, New York, NY 10001, United States
 
 **8   CHANGES TO THIS STATEMENT **
 
