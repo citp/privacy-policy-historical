@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the superbprizes.com privacy policy that was archived on 2008-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080612165732id_/http%3A//superbprizes.com/pp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the superbprizes.com privacy policy that was archived on 2008-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081221062657id_/http%3A//superbprizes.com/pp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>Superb Prizes</title>
@@ -258,7 +258,7 @@ function hideDiv(name) {
 
 function partnerWindow(adTagId, offerIndex, fopType, width, height, poptype, scrollable, resizable, left, top) {
   var url = "adTagId=" + adTagId + "&offerindex=" + offerIndex + "&foptype=" + fopType;
-  var newurl = "offerClick";
+  var newurl = "offerClick;jsessionid=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web?JSESSIONID=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web";
   if (newurl.search(/\?/) == -1) {
     newurl = newurl + "?" + url ;
    }
@@ -269,7 +269,7 @@ function partnerWindow(adTagId, offerIndex, fopType, width, height, poptype, scr
 }
 function fopWindow(adTagId, currentFOPIndex, offerIndex, fopType) {
   var url = "adTagId=" + adTagId + "&pageindex=" + currentFOPIndex + "&offerindex=" + offerIndex + "&foptype=" + fopType; 
-  var newurl = "offerClick";
+  var newurl = "offerClick;jsessionid=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web?JSESSIONID=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web";
   if (newurl.search(/\?/) == -1) {
     newurl = newurl + "?" + url ;
    }
@@ -280,7 +280,7 @@ function fopWindow(adTagId, currentFOPIndex, offerIndex, fopType) {
 }
 function popupInstruction(adTagId, width, height, poptype, scrollable, resizable, left, top) {
 	var url = "adTagId=" + adTagId;
-  var newurl = "notice";
+  var newurl = "notice;jsessionid=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web?JSESSIONID=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web";
   if (newurl.search(/\?/) == -1) {
     newurl = newurl + "?" + url ;
    }
@@ -342,10 +342,10 @@ function goToRegistrationPage(pageType, destID, adTagId) {
 
   if (pageType == "home") {
     var url = "id=" + destID + "&adTagId=" + adTagId + "&selectedPromotion=" + sP;
-    var newurl = "dest";
+    var newurl = "dest;jsessionid=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web?JSESSIONID=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web";
   } else {
     var url = "adTagId=" + adTagId + "&selectedPromotion=" + sP;
-    var newurl = "landOC";
+    var newurl = "landOC;jsessionid=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web?JSESSIONID=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web";
   }
   if (newurl.search(/\?/) == -1) {
     newurl = newurl + "?" + url ;
@@ -372,7 +372,7 @@ function onOfferChoiceOfferclick (adTagId) {
     }
 
   var url = "adTagId=" + adTagId + "&selectedPromotion=" + sP + "&foptype=cdr_fop";
-  var newurl = "cdrOfferClick";
+  var newurl = "cdrOfferClick;jsessionid=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web?JSESSIONID=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web";
   if (newurl.search(/\?/) == -1) {
     newurl = newurl + "?" + url ;
    }
@@ -400,10 +400,11 @@ function emailValid(x) {
     return '* Please enter email\n';
   }
 
-  if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(object.value)) {
-    return '';
-  }
-  else {
+        var arr1 = object.value.match(/^([a-zA-Z0-9_.+\-])+@(([a-zA-Z0-9_+\-])+\.)+(aero|biz|com|coop|edu|gov|info|jobs|mobi|museum|name|net|org|pro|tel|travel)$/);
+    var arr2 = object.value.match(/^(abuse|spam|junkmail|support|help|helpdesk|customer.support|customer.service)+@(([a-zA-Z0-9_+\-])+\.)+(aero|biz|com|coop|edu|gov|info|jobs|mobi|museum|name|net|org|pro|tel|travel)$/);
+    if (arr1 != null && arr2 == null) {
+      return "";
+    } else {
                 changeEventClass( object, 'error');
     return '* Please enter valid email\n';
   }
@@ -471,7 +472,7 @@ function callFunctionBonusWindow() {
   
   
 
-  openWindow("bonusOffer?page_type=privacy policy","BonusGifts","800","800","over","no","yes","0","0");
+  openWindow("bonusOffer;jsessionid=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web?JSESSIONID=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web&page_type=privacy policy","BonusGifts","800","800","over","no","yes","0","0");
 }
 
 
@@ -556,7 +557,8 @@ String.prototype.trim = function() {
 
 <body>
 
-<iframe id="sites-pixel" name="sites-pixel" src="pixel" width="0" height="0" scrolling="no" noresize="" frameborder="0"></iframe>
+<iframe id="sites-pixel" name="sites-pixel" src="pixel;jsessionid=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web?JSESSIONID=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web" width="0" height="0" scrolling="no" noresize="" frameborder="0"></iframe>
+    <iframe id="thirdParty-pixel" name="thirdParty-pixel" src="thirdPartyPixel" width="0" height="0" scrolling="no" noresize="" frameborder="0"></iframe>
 
     <div class="container" align="center">
         <script language="javascript">
@@ -846,7 +848,7 @@ function validateProductDetails(){
   <table width="750px" border="0" cellpadding="0" cellspacing="0">
     <tbody><tr>
     <td align="left" valign="bottom" class="header1aMenu">
-		  <div class="headerLogo"><a href="home"><img src="http://sites-01.net-blue.net/pixel.gif?key=spacer" width="160" height="140" alt="" border="0"></a></div>
+		  <div class="headerLogo"><a href="home;jsessionid=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web?JSESSIONID=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web"><img src="http://sites-01.net-blue.net/pixel.gif?key=spacer" width="160" height="140" alt="" border="0"></a></div>
 			<div class="header1aLinks">
 		  </div></td>
     </tr>
@@ -855,13 +857,13 @@ function validateProductDetails(){
 			<table height="29px" cellpadding="0" cellspacing="0" border="0">
 			<tbody><tr>
 				<td>
-					<a href="home" id="headerButton1">
+					<a href="home;jsessionid=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web?JSESSIONID=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web" id="headerButton1">
 						<img id="headerButton1" src="http://sites-01.net-blue.net/superbprizes_home_button.gif?key=headerButton1" border="0"></a></td>
 				<td>
-					<a href="au" id="headerButton2">
+					<a href="au;jsessionid=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web?JSESSIONID=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web" id="headerButton2">
 						<img id="headerButton2" src="http://sites-01.net-blue.net/superbprizes_about_button.gif?key=headerButton2" border="0"></a></td>
 				<td>
-					<a href="account" id="headerButton3">
+					<a href="account;jsessionid=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web?JSESSIONID=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web" id="headerButton3">
 						<img id="headerButton3" src="http://sites-01.net-blue.net/superbprizes_myaccount_button.gif?key=headerButton3" border="0"></a></td>
 			</tr>
 			</tbody></table>
@@ -938,14 +940,186 @@ function validateProductDetails(){
 	<td>
 		<table cellpadding="0" cellspacing="0" border="0" width="500">
 		<tbody><tr><td>
-      <b class="privacyPolicyHeading">Privacy Policy</b><br><br> <div class="privacyPolicy"> <p><strong>Privacy Policy</strong><br> Thank you for visiting the privacy policy page of Superb Prizes (the "Site" or “Company”).&nbsp; We take privacy seriously, and want you to feel comfortable using the Site. This page describes our online privacy policy ("Privacy Policy"). By visiting the Site, you are accepting the practices described in this Privacy Policy, as well as our website Terms of Use. By applying for promotional offers, providing information to us, or otherwise using the Site in any way, you are further indicating your acceptance of this Privacy Policy and our <a href="tc">Terms of Use.</a> <br><br>
-IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY OR OUR TERMS OF USE, PLEASE DO NOT USE OR VISIT THIS SITE OR PROVIDE THE COMPANY WITH ANY INFORMATION OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON COMPANY WEB SITES. <br>
-<br> If you have any questions or concerns about this Privacy Policy, please <a href="customerSupport">Contact Us</a>.</p> <p><br> <strong>Your California Privacy Rights</strong><strong><br> </strong> Beginning January 1, 2005, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to either (1) a list detailing the categories of information shared and the entities to which such information was provided, or (2) be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. <br> To opt-out of having your information shared with third parties, send your request, including your full name, email address and postal address to:</p> <p><br> Customer Service <br> PO Box 390520<br> Mountain View, CA 94039-0520</p> <p><br> <strong>Collection of Personal Information</strong><br> Each time you provide information to take advantage of a promotional offer, enter to win a contest, send us an email, or otherwise transmit information via the Site, Company may obtain and collect personally identifiable information including (but not limited to) your name, email address, mailing address, and telephone number. You may also provide us with information that, when combined with personally identifiable information, provides us with a better idea of who you are, such as your gender, birthday, marital status, and education level (collectively with the personally identifiable information, "personal information"). If you choose to use our services, we may require you to provide information as indicated on the forms throughout the Site. </p> <p><br> <strong>Use of Personal Information</strong><br> Company may always use and share with others your personal information: </p> <ul type="disc"> <li>to enable us to generally respond to you, or to process, validate and verify requests and/or purchase orders; </li> <li>to fulfill any of your requests; </li> <li>to send information to you about additional goods or services; </li> <li>to compile and/or distribute information about our website users and usage patterns; </li> <li>to provide useful information to our website designers for developing new features and services; </li> <li>to tailor your experience on our websites, e.g., showing content that we believe may interest you or altering the content based on your personal preferences; and in any way we deem advisable to provide better goods or services to our customers. </li> </ul> <p><strong>THE COMPANY MAY USE THE INFORMATION PROVIDED BY YOU FOR ANY LEGALLY PERMISSIBLE PURPOSE IN COMPANY’S SOLE DISCRETION. PLEASE BE ADVISED THAT WE MAY TRANSFER YOUR INFORMATION TO THIRD PARTY ADVERTISERS AND MARKETERS FOR VARIOUS MARKETING PURPOSES, INCLUDING THEIR ON-LINE AND/OR OFF-LINE PROGRAMS OR SERVICES. </strong></p> <p><strong>By completing and submitting one of our registration pages, forms or surveys, you are consenting to receive commercial e-mail that informs you about new merchandise, sales, special discounts and promotions. If you no longer wish to receive email, follow the instructions at the bottom of every email. </strong></p> <p>The cost of the free* (with completion of program requirements) gift is absorbed by the sponsoring companies featured on this site. Users who opt-in to the offerings from these companies are also electing to receive additional information from these companies. The companies may request additional demographic and/or personally identifiable information for their use in subsequent marketing and promotional activities. </p> <p>We use third-party advertising companies to serve ads when you visit our Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. </p> <p>We also may use the information that you provide for various non-marking purposes. For example, we may use the information to communicate with you about the status of your premium and/or any offers you have selected from our sponsoring companies.</p> <p>We use information provided by users of this Web site to enhance their usage of this and similar Websites.</p> <p>We create internal reports on user demographics and traffic patterns to measure the effectiveness of our marketing campaigns and promotions, and to report results to our marketing partners. We do not use any personally identifiable information to compile these reports.</p> <p>Additionally, Company will use or disclose your personal information under the following circumstances: (1) in response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; (2) in the event you violate or breach an agreement with Company; (3) we believe you will harm the property or rights of Company or those of Company's other customers, (4) we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Company's terms of use, or as otherwise required by law, or (5) personal information may also be shared with or sold to any successor to, or purchaser of, part or all of the assets of Company.<br> <br> <strong>Opting-Out</strong><br> Company members are automatically opted-in to receive Company newsletters and offer e-mails at the time of enrollment. You may opt-out from receiving Company newsletters and offer e-mails at any time by following the instructions that we include at the end of every mailing, or you may request an opt-out by sending your email address and the site name you would like to opt-out from to: Customer Service, PO Box 390520, Mountain View, CA 94039-0520<br> Please note that under the CAN-SPAM Act, an advertiser is required to provide an opt-out mechanism for consumers to unsubscribe from future emails about the advertiser. Although not required to by law, many email marketers also include an opt-out mechanism to enable consumers to be removed from their mailing list. This has caused some confusion for consumers in opting out. The table below clarifies which opt-out mechanism you should use.<br><br> </p><center> <table border="1" cellspacing="0" cellpadding="3" class="privacyPolicy" width="90%"> <tbody><tr> <th>To receive no further emails...</th> <th>Opt-Out Mechanism to Use</th> </tr> <tr> <td>from the advertiser</td> <td>Advertiser's</td> </tr> <tr> <td>from the email marketing company</td> <td><p>Marketer's</p></td> </tr> <tr> <td>from the advertiser or email marketing company</td> <td>Both</td> </tr> </tbody></table> </center> <p><strong>Termination</strong><br> 
-You may cancel your membership at any time by sending us an <a href="customerSupport">Email</a> or by writing to Customer Service, Cancel Membership, PO Box 390520, Mountain View, CA 94039-0520.. Company reserves the right to terminate or suspend any account at any time with or without notice. Company does not tolerate any abuse, harassment, or fraudulent activity aimed towards other members or of this Site and breach of any Company policies may result in suspension or cancellation of the fulfillment of any gift. </p> 
-<p><strong>Third Party Lists</strong><br> The Company collects information regarding consumers when a consumer provides information to a third party and the Company subsequently purchases, licenses or otherwise acquires the information from the third party. When acquiring this information, the Company seeks assurances that the seller or provider of this information has the right to transfer this information to the Company and that the consumers whose personal information is included on the list opted-in to the list. <br> <br> <strong>Cookies</strong><br> "Cookies" are a feature on your browser software. If enabled, cookies may store small amounts of data on your computer about your visit to any of this Site. Cookies assist us in tracking which of our features appeal the most to you and what content you may have viewed on past visits. When you visit this Site again, cookies can enable us to customize our content according to your preferences. We may use cookies to: keep track of the number of return visits to this Site; accumulate and report aggregate, statistical information on website usage; deliver specific content to you based on your interests or past viewing history; save your password for ease of access to our Site. You can disable cookies, although the Site may not function properly for you. Your browser preferences can be modified to accept or reject all cookies, or request a notification when a cookie is set. <br> <br> <strong>IP Addresses</strong><br> We automatically track certain information based upon your behavior on the Site. We may use this information to do internal research on our users' demographics, interests, and behavior to better understand, protect and serve you and our community. This information may include the URL that you just came from (whether this URL is on the Site or not), which URL you next go to (whether this URL is on the Site or not), your computer browser information, and your IP address. Your Internet Protocol ("IP") is a unique Internet "address" which is assigned to you by your Internet Service Provider ("ISP"). For local area network ("LAN"), DSL, or cable modem users, an IP address may be permanently assigned to a particular computer. IP addresses are automatically logged by Web servers, collecting information about a user's traffic patterns. While the IP address does not identify an individual by name, it may, with the cooperation of the ISP, be used to locate and identify an individual using the Web. Your IP address can, however, reveal what geographic area you are connecting from, or which ISP you are using. Finally, other websites you visit have IP addresses, and we may collect the IP addresses of those websites and their pages. <br> <br> <strong>Computer Profiles</strong> <br> Company may also collect and accumulate other anonymous data which will help us understand and analyze the Internet experience of our visitors. For instance, Company may accumulate visitor data relating to referring domain names, the type of browsers used, operating system software, screen resolutions, color capabilities, browser plug-ins, language settings, cookie preferences, search engine keywords and JavaScript enablement. Unless you provide us with personally identifiable information, we will not use such visitor data to identify you. <br> <br> <strong>Links and Companies providing Offers</strong> <br> This Privacy Policy applies only to the Site. The Site contains links that direct you to websites owned and operated by other companies. In particular, when you take advantage of a promotional offer, you will be directed to the web sites of our marketing partners that will also collect your personal information, such as credit card companies. Company does not control, and assumes no responsibility for, the content, privacy policies, or practices of any third party websites, which may employ cookies and/or collect personal information. In addition, Company will not and cannot censor or edit the content of any third party site. Please be sure to read the privacy policy of each third party website that you visit. <br> <br> <strong>Adult Supervision</strong> <br> Persons under the age of 18 are not eligible to use this Site unsupervised and we ask that minors do not submit any personal information to us. Persons under the age of 18 may only use this Site in conjunction with and under the supervision of their parents or guardians. <br> <br> 
-We recognize the unique privacy concerns regarding children. We are committed to carefully protecting privacy where children are involved no matter the point of contact. In particular, our intention is to fully comply with the Children’s Online Privacy Protection Act (COPPA). Per COPPA guidelines, we do not knowingly collect personally identifiable information from children under the age of 13. If a parent or guardian is made aware that a child under the age of 13 has provided us with personally identifiable information through any point of contact, please <a href="customerSupport">Contact Us</a> and we will delete the information about the child referenced from our files. </p> 
-<p><strong>Changes to Privacy Policy</strong> <br> If we change this Privacy Policy we will notify you by posting the revised privacy policy on the Site. It is your responsibility to periodically revisit the Site. We may also notify you by sending you an email notification to the email address that you provided to us. It is your responsibility to provide us with your current email address. If we revise our Privacy Policy to broaden our use of your personal information, you may contact us at the address below to request that we either refrain from using your personal information or destroy your personal information. </p> <p> <strong>Location of Data and Security<br> </strong>Your information may be stored and processed in the United States or any other country in which Company or its affiliates, subsidiaries or agents maintain facilities, and by using this Site, you consent to any such transfer of information outside of your country. <br> <br> The Company attempts to meet and/or exceed standards of online privacy. When you submit information, your information is protected both on-line and off-line in accordance with applicable laws, regulations and industry standards.&nbsp;</p> <p>For additional information or specific questions, please <a href="customerSupport">Contact Us</a>.<br> 
-  <br> Effective Date: May 24, 2007 </p>		</div></td></tr>
+      <style>
+u {
+  font-weight: bold;
+}
+</style>
+
+Effective Date: November 15, 2008
+<p>
+Previously Revised: May 24, 2007
+</p><p>
+
+<b class="privacyPolicyHeading">PRIVACY POLICY</b>
+</p><p>
+Thank you for visiting the privacy policy of SuperbPrizes.com (the "Site" or ?Company?).  We take privacy seriously, and want you to feel comfortable using the Site. This page describes our online privacy policy ("Privacy Policy"). By visiting the Site, you are accepting the practices described in this Privacy Policy, as well as our website Terms and Conditions. By applying for promotional offers, providing information to us, or otherwise using the Site in any way, you are further indicating your acceptance of this Privacy Policy and our <a href="tc">Terms and Conditions</a>.
+</p><p>
+We reserve the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the bottom of this document.
+</p><p>
+This Privacy Policy will tell you, among other things:
+</p><ul>
+<li>Your privacy rights.
+</li><li>How and what information we collect. 
+</li><li>How we may use information. 
+</li><li>How we may share information. 
+</li><li>Your choices regarding the sharing of information.
+</li></ul>
+IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY OR OUR TERMS AND CONDITIONS, PLEASE DO NOT USE OR VISIT THIS SITE OR PROVIDE THE COMPANY WITH ANY INFORMATION OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON COMPANY WEB SITES. 
+<p>
+If you have any questions or concerns about this Privacy Policy, please contact us at:  <a href="customerSupport">Customer Support</a>.
+</p><p>
+<u>YOUR CALIFORNIA PRIVACY RIGHTS</u>
+</p><p>
+Beginning January 1, 2005, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to either (1) a list detailing the categories of information shared and the entities to which such information was provided, or (2) be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option. To opt-out of having your information shared with third parties, send your request, including your full name, email address and postal address to: 
+</p><p>
+Customer Support 
+<br>
+PO Box 390520
+<br>
+Mountain View, CA 94039-0520  
+</p><p>
+<u>COLLECTION OF INFORMATION</u>
+<br>
+We collect and combine personally identifiable information (?PII?) and non-personally identifiable information (?Non-PII?) through various sources as outlined below.  Each time you provide us or our partners information to take advantage of a promotional offer, enter to win a contest, send us an email, or otherwise transmit information via the Site, we collect personally identifiable information including (but not limited to) your name, email address, mailing address, and telephone number. You may also provide us or our partners with information that, when combined with personally identifiable information, provides us with a better idea of who you are, such as your IP address, gender, birthday, marital status, education level, payment information, information about your background, interests, health, education, career goals, and shopping preferences, purchase history, and any other personal information or unique preference information you provide to us or our partners (collectively with the personally identifiable information, "personal information").  If you choose to use our services, we may require you to provide information as indicated on the forms throughout the Site. 
+</p><p>
+<strong>Ad Serving Partners</strong>
+<br>
+Website operators that license our ad serving technology pass information to us so that we may serve relevant advertisements to you. 
+</p><p>
+<strong>Publisher Partners</strong> 
+<br>
+When you complete a registration or offer form that is hosted by one of our website publisher partners on our behalf, the website publisher partner may submit all or a portion of the information that you submitted on the form to the Company. 
+</p><p>
+<strong>Marketing Partners</strong>
+<br>
+We may receive information about you from third party marketing partners that provide us with consumer data. 
+</p><p>
+<strong>Automatic Information/Digital Identifiers</strong>
+<br>
+We collect information through our web server applications, such as Internet Protocol or ?IP? address, date/time stamp, browser type, and referring URL.  Additionally, we may use pixel tracking technology to track the completion of transactions with us or our advertisers, the source information for those transactions, and your IP address, date/time stamp, browser type, and referring URL.
+</p><p>
+<strong>Government Forms</strong>
+<br>
+The Company may be required to create, collect, maintain, and submit certain information required by the government, such as your license, IRS Forms W-9 and 1099. This information, which may include your taxpayer identification number, will not be used, shared, transferred, or sold for marketing purposes.
+</p><p>
+<u>USE OF INFORMATION</u>
+<br>
+By signing up ion our Site you expressly opt in to receive future information about products and services from us and grant us permission to share your information with our third-party marketing partners in order to more effectively market to you. Our partners and we may link your name, address and email address to other information, such your web activity on this and other sites and past purchase information. By providing your personal information here, some of your future web activity will be known to our partners and us, and will be used to show you more relevant online advertisements. We may use the collected PII and Non-PII for any legally permissible purpose in our sole discretion, including but not limited to those explained below.  
+</p><p>
+<strong>Relevant Ad Serving</strong>
+<br>
+We may serve advertisements to you based, in part, on your IP address, the demographic and geographic information you submitted to the Company during the website registration process, your web activity on this and other sites, and past purchase information about you that we obtain from affiliated entities and from third parties.  Our partners and we may also use and optimize personal information about your visits to this and other websites in order to provide relevant advertisements to you about goods and services that may be of interest to you. 
+</p><p>
+<strong>Customized Offers/Pre-fill Offers</strong>
+<br>
+Our technology may select certain offers for you to view based on the information we have about you. Additionally, this technology may pre-fill some or all of the data fields with the information you submitted during the website registration process in order to allow you to avoid having to re-enter this information. We may not show all of the pre-filled data fields to you. 
+</p><p>
+<strong>Secondary offers</strong> 
+<br>
+We utilize customized post transactional technology to provide you with secondary offers and help advertisers generate sales. Once you purchase a product or service from one of our reward advertisers, you will be offered additional products or services that we think may be of interest to you. If you elect to purchase products or services from an advertiser in the post transactional channel, we will pass the information that you provided during the initial transaction to the subsequent advertiser, including but not limited to your credit card information. This information pass is done to enhance and simplify your purchasing experience. Your information will only be passed to an advertiser in the post transactional channel after you have elected to purchase their product or service. By electing to purchase their product or service you consent to the passing of your data to the third party advertiser in question. 
+</p><p>
+<strong>Customer Service and Fulfillment</strong>
+<br>
+We may use your information to operate the website promotion, service your account and to fulfill rewards earned through Company websites. We may also use your information to verify your identity or claimed account status and, where we consider appropriate, investigate your compliance with the terms and conditions of the website promotion or any advertiser offer. We do retain customer service correspondence. 
+</p><p>
+<strong>Credit Card Preauthorization</strong>
+<br>
+By submitting your credit card information to us or to one of our partners, you are authorizing the Company or its agent to periodically verify that your credit card account is valid and has credit available by charging, and thereafter crediting, a small sum to the card.
+</p><p>
+<strong>Marketing</strong>
+<br>
+We may use your information in our online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs please follow the opt-out instructions.
+</p><p>
+<u>SHARING OF INFORMATION</u>
+<br>
+We may share the collected PII and Non-PII for any legally permissible purpose in our sole discretion, including but not limited to those explained below. 
+</p><p>
+<strong>Within the Company</strong> 
+<br>
+We may share information we collect with affiliated companies, including our parent company and other subsidiaries of our parent company, for use in their ad serving and marketing programs. This Privacy Policy does not apply to affiliated companies and their collection, use and sharing of information. 
+</p><p>
+<strong>Vendors</strong> 
+<br>
+We may share your information with various third party vendors that are not part of the Company, including but not limited to vendors that provide us with technology to deploy commercial e-mail, vendors that sell the products or services for which you have qualified through one of our websites, and shipping companies that we utilize to ship products to you. 
+</p><p>
+<strong>Advertisers</strong>
+<br>
+When you participate in an offer by completing a form, we will transfer the information you submitted on the form to the applicable advertiser.  When you answer ?yes? or ?no? to a survey question, we will transmit some or all of your information to advertisers that we believe may be of interest to you without providing you with another opportunity to review the information.  When you select ?yes? next to an offer, we will transfer some or all of your information to the applicable advertiser without providing you with another opportunity to review the information. 
+</p><p>
+<strong>Ad Serving</strong>
+<br>
+We pass information to ad networks or ad serving companies so that they can deliver relevant  advertisements that may be of interest to you.  Those web pages will contain a link to that company?s privacy policy. 
+</p><p>
+<strong>Marketing Partners</strong>
+<br>
+We may share, license or sell your information to third parties for various marketing purposes, including their online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs, click here and follow the opt-out instructions.
+</p><p>
+<strong>Data Enhancement/Appending/Validation</strong>
+<br>
+We may use third party service providers to enhance our database with additional data about you, including but not limited to past purchase information, age ranges present in your household, whether you own or rent a home, the length of time you have lived at your residence, whether you are a mail order buyer or responder, household income, and gender. Further, we may use third party service providers to validate the data we have in our database and append telephone numbers to other data points we have in our database.  Additionally, we may share, license or sell your information to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services. 
+</p><p>
+<strong>Governmental Agencies or Compliance</strong>
+<br>
+We may share your information with law enforcement officials or governmental agencies: (1) in response to their request; (2) when permitted or required by law; or (3) to establish our compliance with applicable laws, rules, regulations, or guidelines.  We may store and share your information with third parties for suppression or opt-out purposes.  We also may share your information with third parties when: (1) trying to protect against or prevent actual or potential fraud or unauthorized transactions; (2) investigating fraud that has already taken place; (3) enforcing or applying existing terms and conditions and/or other agreements; (4) protecting the rights, property or safety of our websites, our users or others; or (5) responding to subpoenas, court orders or legal process, or to establish or exercise our legal rights or defend against legal claims. In all cases, this information is not provided to these entities or persons for marketing purposes. 
+</p><p>
+<strong>Right to Transfer</strong>
+<br>
+Should the Company choose to sell or transfer business assets, it is possible that the information we possess may be transferred as part of that transaction. The Company may decide to retain a copy of the information post sale or transfer.
+</p><p>
+<strong>THE COMPANY MAY USE THE INFORMATION PROVIDED BY YOU FOR ANY LEGALLY PERMISSIBLE PURPOSE IN COMPANY'S SOLE DISCRETION. PLEASE BE ADVISED THAT WE MAY TRANSFER YOUR INFORMATION TO THIRD PARTY ADVERTISERS AND MARKETERS FOR VARIOUS MARKETING PURPOSES, INCLUDING THEIR ON-LINE AND/OR OFF-LINE PROGRAMS OR SERVICES. By completing and submitting one of our registration pages, forms or surveys, you are consenting to receive commercial e-mail that informs you about new merchandise, sales, special discounts and promotions. If you no longer wish to receive email, follow the instructions at the bottom of every email.</strong>
+</p><p>
+The cost of the free reward is absorbed by the sponsoring companies featured on this site. Users who opt-in to the offerings from these companies are also electing to receive additional information from these companies. The companies may request additional demographic and/or personally identifiable information for their use in subsequent marketing and promotional activities. 
+</p><p>
+<u>CONSUMER CHOICES</u>
+</p><p>
+<strong>Marketing Communications</strong>
+<br>
+By completing and submitting a registration form you are consenting to receive marketing communications from us and our third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications from the Company and its third party marketing partners, you can discontinue the communications by <a target="_blank" href="http://networkadvertising.org/managing/opt_out.asp">clicking here</a> and following the opt-out instructions. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.
+</p><p>
+Please note that under the CAN-SPAM Act, an advertiser is required to provide an opt-out mechanism for consumers to unsubscribe from future emails about the advertiser. Although not required to by law, many email marketers also include an opt-out mechanism to enable consumers to be removed from their mailing list. This has caused some confusion for consumers in opting out. The table below clarifies which opt-out mechanism you should use. 
+</p><p>
+<table border="1">
+<tbody><tr><td><strong>To Receive No Further Emails...</strong></td><td><strong>Opt-Out Mechanism to Use</strong></td></tr>
+<tr><td>From the advertiser</td><td>Advertiser's</td></tr>
+<tr><td>From the email marketing company</td><td>Marketer's</td></tr>
+<tr><td>From the advertiser or email marketing company</td><td>Both</td></tr>
+</tbody></table>
+</p><p>
+<strong>Cookies</strong> 
+<br>
+"Cookies" are a feature on your browser software. If enabled, cookies may store small amounts of data on your computer about your visit to any of this Site. Cookies assist us in tracking which of our features appeal the most to you and what content you may have viewed on past visits. When you visit this Site again, cookies can enable us to customize our content according to your preferences. You can disable cookies, although the Site may not function properly for you. Your browser preferences can be modified to accept or reject all cookies, or request a notification when a cookie is set. 
+</p><p>
+If you'd like to opt-out from having us or our partners collect your Non-PII, please <a target="_blank" href="http://networkadvertising.org/managing/opt_out.asp">click here</a>. When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to tailor our online advertisement campaigns. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice.
+</p><p>
+<strong>Customer Service</strong>
+<br>
+If you have any questions you should <a href="customerService">click here</a> to contact us or write to us at 
+</p><p>
+Customer Support 
+<br>
+PO Box 390520
+<br>
+Mountain View, CA 94039-0520  
+</p><p>
+<u>INFORMATION YOU PROVIDE TO COMPANIES AND THIRD PARTY WEBSITES</u>
+<br>
+This Privacy Policy applies only to the Site. The Site contains links that direct you to websites owned and operated by other companies. In particular, when you take advantage of a promotional offer, you will be directed to the web sites of our marketing partners that will also collect your personal information, such as credit card companies. Company does not control, and assumes no responsibility for, the content, privacy policies, or practices of any third party websites, which may employ cookies and/or collect personal information. In addition, Company will not and cannot censor or edit the content of any third party site. Please be sure to read the privacy policy of each third party website that you visit. 
+</p><p>
+<u>CHILDREN'S PRIVACY</u>
+<br>
+Persons under the age of 18 are not eligible to use this Site. We recognize the unique privacy concerns regarding children. We are committed to carefully protecting privacy where children are involved no matter the point of contact. In particular, our intention is to fully comply with the Children's Online Privacy Protection Act (COPPA). Per COPPA guidelines, we do not knowingly collect personally identifiable information from children under the age of 13. If a parent or guardian is made aware that a child under the age of 13 has provided us with personally identifiable information through any point of contact, we ask to be contacted at <a href="mailto:support@netblue.com">support@netblue.com</a> and we will delete the information about the child referenced from our files. 
+</p><p>
+<u>LOCATION OF DATA AND SECURITY</u>
+<br>
+Your information may be stored and processed in the United States or any other country in which Company or its affiliates, subsidiaries or agents maintain facilities, and by using this Site, you consent to any such transfer of information outside of your country. 
+</p><p>
+We use reasonable technical efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of Information. However, nearly all Internet transmissions pass through many servers not controlled by us, and therefore we cannot guarantee that any information you provide us or we collect will not be intercepted or altered in that process. Also, as noted above, your Information is shared with third parties whose privacy policies and practices are beyond our control.
+</p><p>
+For additional information or specific questions, please contact us at: <a href="customerSupport">Customer Support</a>.
+
+
+		</p></td></tr>
 		</tbody></table>
 	</td>
 </tr>
@@ -981,11 +1155,11 @@ We recognize the unique privacy concerns regarding children. We are committed to
 	    <table width="750px" border="0" cellpadding="0" cellspacing="0">
         <tbody><tr>
           <td class="footerLinks" valign="middle">          
-			<p><a href="tc">Terms and Conditions</a> | <a href="pp">Privacy Policy</a> | <a href="unsubP">Unsubscribe</a>
+			<p><a href="tc;jsessionid=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web?JSESSIONID=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web&amp;JSESSIONID=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web">Terms and Conditions</a> | <a href="pp;jsessionid=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web?JSESSIONID=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web&amp;JSESSIONID=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web">Privacy Policy</a> | <a href="unsubP;jsessionid=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web?JSESSIONID=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web&amp;JSESSIONID=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web">Unsubscribe</a>
 
- | <a href="help">Help/FAQ's</a>
+ | <a href="help;jsessionid=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web?JSESSIONID=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web&amp;JSESSIONID=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web">Help/FAQ's</a>
 
- | <a href="au">About Us</a>
+ | <a href="au;jsessionid=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web?JSESSIONID=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web&amp;JSESSIONID=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web">About Us</a>
 
 
 
@@ -1015,8 +1189,8 @@ We recognize the unique privacy concerns regarding children. We are committed to
 	    <table width="650px" height="90px" border="0" cellpadding="0" cellspacing="0">
         <tbody><tr>
           <td class="footer">          
-			<p>*This promotion is conducted exclusively by Superb Prizes and is subject to participation <a href="tc" target="_blank" class="flowTermTextLink">terms and conditions</a>. Receipt of your item requires compliance with offer terms, including: age and residency requirements; registration with valid e-mail address, shipping address and phone number; and completion of a user survey and <span onclick="window.open('http://sites-01.net-blue.net/sample_offers.html','PopUpWindow','scrollbars=1,location=0,width=500,height=600')"><a href="javascript:void(0)" nof="LS_E">sponsor offers</a></span>. Purchase may be required. Upon completion of all requirements, we will ship your item to your verified shipping address. Fulfillment may be delayed based on availability. Your information will be shared with our marketing partners; Please read our Privacy Policy for more details. Void where prohibited.
-</p><p>Superb Prizes is an independent rewards program for consumers and is not affiliated with, sponsored by or endorsed by any of the listed products or retailers. Trademarks, service marks, logos, and/or domain names (including, without limitation, the individual names of products and companies) are the property of their respective owners.</p><p></p>
+			<p>*This promotion is conducted exclusively by SuperbPrizes.com and is subject to participation <a href="tc;jsessionid=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web?JSESSIONID=97C24431363FEDC7FD119F059A2EE1BE.wwx01-2ws15.web" target="_blank" class="flowTermTextLink">terms and conditions</a>. Receipt of your item requires compliance with offer terms, including: age and residency requirements; registration with valid e-mail address, shipping address and phone number; and completion of required user surveys and sponsor offers, which may vary. There are no membership fees to join. Completion of one or more sponsored offers may require a purchase. <a href="javascript:void(0)" nof="LS_E" onmouseup="window.open('http://sites-01.net-blue.net/sample_offers.html','PopUpWindow','scrollbars=1,location=0,width=500,height=600')" class="flowTermTextLink">Click here</a> to see a representative sample of our sponsored offers. Upon completion of all requirements, we will ship your item to your verified shipping address. Fulfillment may be delayed based on availability.  Your information will be shared with our third-party marketing partners in order to more effectively market to you. Our partners and we may link your name, address and email address to other information, such your web activity on this and other sites and past purchase information. By providing your personal information here, some of your future web activity will be known to our partners and us, and will be used to show you more relevant online advertisements. Please read our Privacy Policy for more details.  Void where prohibited.
+</p><p>SuperbPrizes.com is an independent rewards program for consumers and is not affiliated with, sponsored by or endorsed by any of the listed products or retailers. Trademarks, service marks, logos, and/or domain names (including, without limitation, the individual names of products and companies) are the property of their respective owners.</p><p></p>
 		  </td>
 		</tr>
 		</tbody></table>
@@ -1043,7 +1217,7 @@ We recognize the unique privacy concerns regarding children. We are committed to
 	    <table width="750px" border="0" cellpadding="0" cellspacing="0">
         <tbody><tr>
           <td class="copyright">          
-				<p>Copyright © 2008. Superb Prizes. All Rights Reserved.</p>
+				<p>Copyright © 2008. SuperbPrizes.com. All Rights Reserved.</p>
 		  </td>
 		</tr>
 		</tbody></table>
