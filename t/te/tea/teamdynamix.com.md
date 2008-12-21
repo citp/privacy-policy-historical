@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamdynamix.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510070657id_/http%3A//teamdynamix.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamdynamix.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221190434id_/http%3A//www.teamdynamix.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # TeamDynamix Privacy Statement
 
