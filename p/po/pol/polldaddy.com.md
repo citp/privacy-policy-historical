@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polldaddy.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616024706id_/http%3A//www.polldaddy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polldaddy.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221035438id_/http%3A//www.polldaddy.com/privacy) for the most accurate reproduction.*
 
 # PollDaddy.com: Privacy
 
