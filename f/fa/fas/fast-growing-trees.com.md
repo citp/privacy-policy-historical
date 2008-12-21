@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fast-growing-trees.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025210304id_/http%3A//www.fast-growing-trees.com/PrivacyPolicy.htm%3Flink%3Dleftnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fast-growing-trees.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221201728id_/http%3A//fast-growing-trees.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,9 @@ Specific Trees
 
 More Information 
 
-Fast Growing Trees Nursery recognizes that your privacy is very important to you. We know that providing personal information is an act of trust and we take that seriously. Your email address will not be sold to third parties. If at any time you wish to be removed from our mailing lists, just drop us a line on our website to do so. Our email service providers try to make it as easy as possible to opt out of future emails by including an opt out links.
+| 
+
+By supplying us with your contact information, you agree to receive both informational & promotional emails from www.fast-growing-trees.com, as well as from other companies. Please note, your personal & private information is never shared with another company, just your email address, and you may opt out of an email by clicking the “opt out” button on the bottom any email.
 
 |   
 ---|---  
@@ -26,4 +28,14 @@ Fast Growing Trees Nursery takes all reasonable steps to keep secure any informa
   
 ---|---  
   
-Back to [Fast-Growing-Trees.com](http://www.fast-growing-trees.com/)
+Back to [Fast-Growing-Trees.com](https://web.archive.org/)  
+  
+   
+   
+   
+   
+   
+   
+   
+   
+ 
