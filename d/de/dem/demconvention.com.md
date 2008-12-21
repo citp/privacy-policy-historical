@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the demconvention.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625201744id_/http%3A//www.demconvention.com/democratic-national-convention-committee-inc-privacy-policy/%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demconvention.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222003753id_/http%3A//www.demconvention.com/democratic-national-convention-committee-inc-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Democratic National Convention
 
 **The Democratic National Convention Committee, Inc. (DNCC) is committed to protecting your privacy online. While using our website, you do not have to identify yourself or divulge personal information. If you should choose to give us your personal information, you decide the amount of information you provide.**
 
