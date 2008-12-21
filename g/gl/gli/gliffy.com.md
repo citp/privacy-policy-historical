@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gliffy.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622081321id_/http%3A//www.gliffy.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gliffy.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221012555id_/http%3A//www.gliffy.com/privacy_policy.shtml) for the most accurate reproduction.*
 
-# Gliffy.com
+# Gliffy - Privacy Policy
 
 ## Gliffy Privacy Policy
 
@@ -36,9 +36,9 @@ For purposes such as improving personalization of our service, we may receive in
 
 **What about Cookies?**
 
-  * Cookies are alphanumeric identifiers that we may transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Gliffy cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your email address is. 
-  * The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of Gliffy's most attractive features. 
-  * Some of our business partners may use cookies on our website (for example, advertisers). However, we have no access to or control over these cookies. 
+  * Cookies are alphanumeric identifiers that we may transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Gliffy cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your email address is.
+  * The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of Gliffy's most attractive features.
+  * Some of our business partners may use cookies on our website (for example, advertisers). However, we have no access to or control over these cookies.
 
 
 
@@ -46,26 +46,26 @@ For purposes such as improving personalization of our service, we may receive in
 We neither rent nor sell your personal information to anyone. We share your personal information only with your consent or to the business partners and affiliates as described below:
 
   * **Affiliated Business We Do Not Control:**  
-We are affiliated with a variety of businesses and work closely with them. You can easily recognize when an affiliated business is associated with your transaction. We will only share personal information that is necessary for the affiliate to complete the transaction. We require our affiliates to provide the same level of privacy protection that we do and they do not have the right to share or use personal information for any purpose other than for an authorized transaction. 
+We are affiliated with a variety of businesses and work closely with them. You can easily recognize when an affiliated business is associated with your transaction. We will only share personal information that is necessary for the affiliate to complete the transaction. We require our affiliates to provide the same level of privacy protection that we do and they do not have the right to share or use personal information for any purpose other than for an authorized transaction.
   * **Personnel:**   
 Our personnel (including, for the avoidance of doubt, consultants and/or contractors) may have access to user information while carrying out their duties in the normal course of our company business. 
   * **Agents:**  
 We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include fulfilling orders, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing payments, and providing customer service. You hereby consent to our sharing of your personal information for the above purposes. 
   * **Promotional Offers:**  
-We may send offers to certain users on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you do not wish to receive these offers, please update your profile under the "Profile" section of the website. 
+We may send offers to certain users on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you do not wish to receive these offers, please update your profile under the "Profile" section of the website.
   * **Business Transfers:**  
-In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Moreover, if Gliffy, or substantially all of its assets, were acquired, customer information would be one of the assets that is transferred or acquired by a third party. 
+In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Moreover, if Gliffy, or substantially all of its assets, were acquired, customer information would be one of the assets that is transferred or acquired by a third party.
   * **Protection of Gliffy and Others:**  
-We may release personal information when we believe in good faith that release is necessary to comply with that law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Gliffy, our employees, our customers, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+We may release personal information when we believe in good faith that release is necessary to comply with that law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Gliffy, our employees, our customers, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
 
 
 **Is Information About Me Secure?**  
 
 
-  * Your Gliffy account information is protected by a password for your privacy and security. You need to work to protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer. 
-  * We use industry-standard Secure Socket Layer (SSL) software to protect the security of your personal information during transmission, which encrypts all of the information you input. 
-  * Only Gliffy employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to it. All of our employees are kept up to date on our privacy and security practices. 
+  * Your Gliffy account information is protected by a password for your privacy and security. You need to work to protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer.
+  * We use industry-standard Secure Socket Layer (SSL) software to protect the security of your personal information during transmission, which encrypts all of the information you input.
+  * Only Gliffy employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to it. All of our employees are kept up to date on our privacy and security practices.
 
 
 
@@ -74,11 +74,11 @@ You can access your personal information on our website and correct, amend, or d
 
 **What Choices Do I Have?**
 
-  * As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website. 
-  * You are able to add or update certain information on pages, such as those listed in the "What Personal Information About Users Does Gliffy Collect?" section above. When you update information, however, we often maintain a copy of the unrevised information in our records. 
-  * You may request deletion of your Gliffy account by sending an email to contacting us at our [support page](https://web.archive.org/web/20080622081321id_/http%3A//www.gliffy.com/support.shtml#contactform). Please note that some information may remain in our records after deletion of your account. 
-  * If you do not wish to receive e-mail or other mail from us, please update your profile under the "Profile" section of the website. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Gliffy website, and you are responsible for reviewing such legal notices for changes. 
-  * As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features. 
+  * As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website.
+  * You are able to add or update certain information on pages, such as those listed in the "What Personal Information About Users Does Gliffy Collect?" section above. When you update information, however, we often maintain a copy of the unrevised information in our records.
+  * You may request deletion of your Gliffy account by sending an email to contacting us at our [support page](https://web.archive.org/web/20081221012555id_/http%3A//www.gliffy.com/support_form.php). Please note that some information may remain in our records after deletion of your account. 
+  * If you do not wish to receive e-mail or other mail from us, please update your profile under the "Profile" section of the website. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Gliffy website, and you are responsible for reviewing such legal notices for changes.
+  * As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features.
 
 
 
