@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodservicewarehouse.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516192929id_/http%3A//www.foodservicewarehouse.com/HelpCenter/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodservicewarehouse.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221182849id_/http%3A//www.foodservicewarehouse.com/help-center/privacy.aspx) for the most accurate reproduction.*
 
 # Restaurant Supply at FoodServiceWarehouse.com
 
@@ -20,7 +20,7 @@ Information Sharing
 > 
 > We work in conjunction with other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering orders, processing credit card payments, and providing customer service. They have access to address information needed to perform their functions, but may not use it for other purposes. 
 > 
-> We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our [Conditions of Use](https://web.archive.org/HelpCenter/Conditions.aspx) and other agreements; or protect the rights, property, or safety of FoodServiceWarehouse.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
+> We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our [Conditions of Use](https://web.archive.org/help-center/conditions.aspx) and other agreements; or protect the rights, property, or safety of FoodServiceWarehouse.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
 
 Information Security
 
