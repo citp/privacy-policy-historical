@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cowboom.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517221014id_/http%3A//www.cowboom.com/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cowboom.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222002052id_/http%3A//www.cowboom.com/privacyPolicy.cfm) for the most accurate reproduction.*
 
-# Cowboom - Privacy Policy
+# Privacy Policy
 
 Privacy Policy
 
@@ -30,15 +30,15 @@ We may also share personally identifiable information in connection with law enf
 **Choice/Opt-Out  
 **This Cowboom-operated website provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
 
-For removal from all future email notifications from Cowboom, send an email to [ customerservice@Cowboom.com](mailto:customerservice@Cowboom.com) with the words "opt out" in the subject line. 
+For removal from all future email notifications from Cowboom, send an email to [ CustomerService@cowboom.com](mailto:CustomerService@cowboom.com) with the words "unsubscribe" in the subject line. 
 
 **Correct/Update  
-**To change, update or correct customer profile information, or notification preferences previously provided, you will need to login to http://www.Cowboom.com and change the information previously provided to us. 
+**To change, update or correct customer profile information, or notification preferences previously provided, you will need to login to http://www.cowboom.com and change the information previously provided to us. 
 
 **Notification of changes**  
 From time to time, we may choose to change our privacy practices and this Privacy Statement. We will notify you of material changes to the Privacy Statement by posting a revised Privacy Statement at this Web Site. We recommend that you check back at this Web Site on a periodic basis to review the then current Privacy Statement.  
 **  
 Contacting the Web site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can email [customerservice@Cowboom.com](mailto:customerservice@Cowboom.com). Your email address and comments will only be used to respond to your inquiry and will not be saved. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can email [support@cowboom.com](mailto:support@cowboom.com). Your email address and comments will only be used to respond to your inquiry and will not be saved. 
 
-Last modified: March 20, 2008 
+Last modified: June 12, 2008 
