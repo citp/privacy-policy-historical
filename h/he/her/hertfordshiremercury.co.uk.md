@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hertfordshiremercury.co.uk privacy policy that was archived on 2008-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080416051220id_/http%3A//www.hertfordshiremercury.co.uk/hertfordshiremercury-aboutus/DisplayArticle.asp%3FID%3D79375) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hertfordshiremercury.co.uk privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221102441id_/http%3A//www.hertfordshiremercury.co.uk/hertfordshiremercury-aboutus/DisplayArticle.asp%3FID%3D79375) for the most accurate reproduction.*
 
-# Privacy Policy - About Us - Hertfordshire Mercury
+# Info about Hertfordshire Mercury, about us & where to find us, location - Hertfordshire Mercury - Privacy Policy
+
+## Privacy Policy
 
 **1.What is covered by the Privacy Policy?**
 
