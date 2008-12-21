@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the columbia.com privacy policy that was archived on 2008-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080309163442id_/http%3A//www.columbia.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbia.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221111240id_/http%3A//www.columbia.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Columbia Sportswear: Privacy Policy
-
-| 
 
 **PRIVACY POLICY  
 Last Updated: February 2005 **
@@ -68,6 +66,3 @@ Attn: Webmaster
 14375 N.W. Science Park Dr.  
 Portland, OR 97229  
 **
-
-  
-| 
