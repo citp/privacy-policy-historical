@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marlinmag.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629114937id_/http%3A//www.marlinmag.com/article.jsp%3FID%3D8222) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marlinmag.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221201822id_/http%3A//www.marlinmag.com/article.jsp%3FID%3D8222) for the most accurate reproduction.*
 
-# Marlin - Privacy Policy
+# Marlin -
 
 **Bonnier Corporation Privacy Policy**
 
