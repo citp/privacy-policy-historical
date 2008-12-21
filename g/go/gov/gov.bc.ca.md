@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gov.bc.ca privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630210701id_/http%3A//www.gov.bc.ca/com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.bc.ca privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221172658id_/http%3A//www.gov.bc.ca/com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Province of British Columbia
 
@@ -37,7 +37,7 @@ Personal information collected, used, disclosed and retained by a B.C.government
 
 The B.C. Government does not collect personal information about you unless you voluntarily provide it to use specific online services. However, if you choose not to provide the information required for online services you may still be able to access government services by traditional methods such as personal contact, fax or mail. Your decision not to participate in electronic service delivery activities will not impair your ability to browse the web site, read or download any information provided on the site.
 
-If you believe that your personal information is being used for a purpose other than what was intended please direct your inquiries to the following [contacts.](http://www.mser.gov.bc.ca/foi_pop/contacts/DMIP_List.htm)
+If you believe that your personal information is being used for a purpose other than what was intended please direct your inquiries to the following [contacts](http://www.cio.gov.bc.ca/services/privacy/Public_Sector/contacts/default.asp).
 
 **What safeguards are in place?**
 
