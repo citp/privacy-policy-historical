@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhostingbreak.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510115118id_/http%3A//www.webhostingbreak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingbreak.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221115105id_/http%3A//www.webhostingbreak.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for WebHostingBreak.com
 
@@ -37,11 +37,3 @@ WebHostingBreak.com may periodically update this policy. We will notify you abou
 **QUESTIONS**
 
 Any questions about this Privacy Policy should be addressed to [support@WebHostingBreak.com](mailto:support@WebHostingBreak.com).
-
-  
-  
----  
-  
-1/30/2020 
-
-| 
