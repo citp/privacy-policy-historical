@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the covidien.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219115857id_/http%3A//www.covidien.com/covidien/pageBuilder.aspx%3FwebPageID%3D161382) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covidien.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221015021id_/http%3A//www.covidien.com/covidien/pageBuilder.aspx%3FwebPageID%3D161382) for the most accurate reproduction.*
 
 # Covidien : Privacy Policy
 
-Covidien Ltd., and its affiliates (“Covidien”) - Privacy Policy, Last Updated: January 23, 2002. As a user of this Internet Website (“Site”), you ("you" or "user") are valued by Covidien. Covidien is committed to protecting the personally identifiable information ("Personal Information") provided by and collected from you on this Site in connection with the functions, facilities and services offered on this Site.
+Covidien Ltd., and its affiliates (“Covidien”) - Privacy Policy, Last Updated: June 1, 2008. As a user of this Internet Website (“Site”), you ("you" or "user") are valued by Covidien. Covidien is committed to protecting the personally identifiable information ("Personal Information") provided by and collected from you on this Site in connection with the functions, facilities and services offered on this Site.
 
 ##  What Personal Information Does Covidien Collect From Site Users?
 
@@ -34,7 +34,7 @@ Covidien uses reasonable measures to protect the Personal Information you provid
 
 ##  Access To Information About You.
 
-If you desire to review your own Personal information, to correct existing information, or to remove your information, please use this Covidien comment form [LINK TO: Page with Covidien comment form] to contact us. If you request removal of your Personal Information, you acknowledge that residual information may continue to reside in Covidien's records and archives, but Covidien will not use that information for commercial purposes. Covidien reserves the right to maintain your Personal Information if Covidien has suspended, limited, or terminated your access to our Site for violating terms of the Legal Statements, which are hereby incorporated by reference. 
+If you desire to review your own Personal information, to correct existing information, or to remove your information, please [contact us](mailto:%20corporate.communications@covidien.com). If you request removal of your Personal Information, you acknowledge that residual information may continue to reside in Covidien's records and archives, but Covidien will not use that information for commercial purposes. Covidien reserves the right to maintain your Personal Information if Covidien has suspended, limited, or terminated your access to our Site for violating terms of the Legal Statements, which are hereby incorporated by reference. 
 
 ##  What Choices Do I Have?
 
@@ -50,4 +50,4 @@ Covidien does not knowingly collect Personal Information from minor children. We
 
 ##  Terms Of Use, Notices, And Revisions
 
-If you choose to visit the Site, your visit and any dispute over privacy is subject to this Privacy Policy and our Legal Statements, including limitations on damages and application of the law of the State of Delaware. If you have a concern about privacy at our Site, please use this Covidien comment form[LINK TO: Page with Covidien comment form] to send us a detailed description of your concern and we will try to resolve it. Our business and Site change constantly. This Privacy Policy and the associated Legal Statements may change also. Our use of Personal Information that we receive and store is subject to the Privacy Policy and Legal Statements in effect at the time of our use of such Personal Information. If we decide to change our Privacy Policy or Legal Statements, we will post the revised Privacy Policy and/or Legal Statements on this Site. This Privacy Policy has been updated on the date indicated above. 
+If you choose to visit the Site, your visit and any dispute over privacy is subject to this Privacy Policy and our Legal Statements, including limitations on damages and application of the law of the State of Delaware. If you have a concern about privacy at our Site, please [email us](mailto:corporate.communications@covidien.com) a detailed description of your concern and we will try to resolve it. Our business and Site change constantly. This Privacy Policy and the associated Legal Statements may change also. Our use of Personal Information that we receive and store is subject to the Privacy Policy and Legal Statements in effect at the time of our use of such Personal Information. If we decide to change our Privacy Policy or Legal Statements, we will post the revised Privacy Policy and/or Legal Statements on this Site. This Privacy Policy has been updated on the date indicated above. 
