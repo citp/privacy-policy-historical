@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retouchpro.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624053510id_/http%3A//www.retouchpro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retouchpro.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221113926id_/http%3A//www.retouchpro.com/privacy.html) for the most accurate reproduction.*
 
 # RetouchPRO Privacy Statement & Terms of Use
 
