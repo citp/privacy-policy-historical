@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileflash.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230181628id_/http%3A//fileflash.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileflash.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221144231id_/http%3A//www.fileflash.com/privacy) for the most accurate reproduction.*
 
 # File Flash - Your Downloads Start Here
 
@@ -9,8 +9,6 @@ File Flash is committed to safeguarding your privacy online. Please read the fol
 File Flash is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. 
 
 **Ad Serving Policies**
-
-File Flash works with a third party that serves ads to this site. To find out more about how Adtegrity manages the privacy of information in conjunction with serving ads on this site. Please contact the advertising companies if you wish to know the individual privacy policies. 
 
 We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
 
@@ -26,7 +24,7 @@ As part of offering and providing customizable and personalized services, File F
 
 We [File Flash] will share aggregated demographic information with our advertisers. This is not linked to any personal information that can identify any individual person. 
 
-Our advertising companies, Fast Click, collect non-personally identifiable information about you, such as the server your computer is logged onto, your browser type (for example, Netscape or Internet Explorer), and whether you responded to the ad delivered. The non-personally identifiable information collected by Fast Click is used for the purpose of targeting ads and measuring ad effectiveness on behalf of Fast Click's advertisers and Web publishers who specifically request it. 
+Our advertising companies, Fast Click, collect non-personally identifiable information about you, such as the server your computer is logged onto, your browser type (for example, Netscape or Internet Explorer), and whether you responded to the ad delivered. The non-personally identifiable information collected by Fast Click is used for the purpose of targeting ads and measuring ad effectiveness on behalf of Fast Click's advertisers and Web publishers who specifically request it. ****
 
 **Links**
 
@@ -47,12 +45,6 @@ Registered users should not expect any unsolicited or promotional email from Fil
 **Log Files**
 
 We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
-
-**Children**
-
-Children between the ages of 13 - 18 are allowed to post Comments to File Flash without our knowledge of parental consent. If you do not wish your child to post Comments, please take proper precautions. One should also consider the implications before disclosing any personal information in a Comment. 
-
-To conform with the [Children's Online Privacy Protection Act of 1998](http://www.cdt.org/legislation/105th/privacy/coppa.html), if you are younger than 13 years, you are prohibited from becoming a member of File Flash without consent. Your parent or guardian may email us at [webmaster@fileflash.com](mailto:webmaster@fileflash.com) to verify that you have been granted permission to use this site. 
 
 **Notification of Changes**
 
