@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benchmarkemail.in privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626064559id_/http%3A//www.benchmarkemail.in/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benchmarkemail.in privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221164842id_/http%3A//www.benchmarkemail.in/privacy.asp) for the most accurate reproduction.*
 
 # Bench Mark Email Marketing Company
 
@@ -22,7 +22,7 @@ BME uses cookies. This improves the convenience and efficiency of your experienc
 
 Recipients of BME emails
 
-BME does not retain email address information after our users delete them from our servers. BME does not monitor or limit our users from creating e-mail messages. However we quickly and diligently respond to notification of violations or abuses of BME [Terms of Service](https://web.archive.org/web/20080626064559id_/http%3A//www.benchmarkemail.in/terms.htm), especially failure to honor opt-outs.
+BME does not retain email address information after our users delete them from our servers. BME does not monitor or limit our users from creating e-mail messages. However we quickly and diligently respond to notification of violations or abuses of BME [Terms of Service](https://web.archive.org/web/20081221164842id_/http%3A//www.benchmarkemail.in/terms.htm), especially failure to honor opt-outs.
 
 Users of BME will place email address lists and digital content on BME servers. BME does not monitor content or review lists. BME's servers use the content to construct email messages and the address lists to deliver messages. BME will not use user-provided content or e-mail address lists for any purpose whatsoever other than to construct and send messages as intended by the user providing the list and/or content. E-mail lists will never be used by BME for solicitation nor will they ever be provided to any third party or be accessible through BME by any user other than the user providing the list.
 
