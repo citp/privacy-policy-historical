@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spout.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511220207id_/http%3A//www.spout.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spout.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221015208id_/http%3A//www.spout.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Spout - Privacy
 
