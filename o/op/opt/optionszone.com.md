@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optionszone.com privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505051816id_/http%3A//www.optionszone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionszone.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221152833id_/http%3A//www.optionszone.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Our postal address is:
 
 InvestorPlace Media LLC  
 c/o OptionsZone.com  
-9420 Key West Ave.  
+9201 Corporate Blvd.  
 Rockville, MD 20850
 
 We can be reached via e-mail at [service@optionszone.com](mailto:service@optionszone.com). 
@@ -84,4 +84,4 @@ Please remember that voluntary postings voluntary postings submitted through our
 
 InvestorPlace Media reserves the right to change this policy at any time by posting a revised privacy policy on this web page. 
 
-You can send e-mail to us with any further questions at service@options
+You can send e-mail to us with any further questions at [service@OptionsZone.com](mailto:%20service@optionszone.com).
