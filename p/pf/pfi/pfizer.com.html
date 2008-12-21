@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pfizer.com privacy policy that was archived on 2008-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080629233045id_/http%3A//www.pfizer.com/general/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pfizer.com privacy policy that was archived on 2008-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081221100453id_/http%3A//www.pfizer.com/general/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -14,6 +14,34 @@
 <link rel="alternate stylesheet" type="text/css" media="screen" title="medium-text" href="/include/css/pf_style_med.css">
 <link rel="alternate stylesheet" type="text/css" media="screen" title="large-text" href="/include/css/pf_style_lg.css">
 <script src="/include/js/css_switch.js" type="text/javascript"></script><script src="/include/js/ajax.js" type="text/javascript"></script>
+
+<script language="javascript">
+
+	function checkElementTree(el, strTag) {
+		while ("HTML" != el.tagName) {
+		if (strTag == el.tagName)
+		return el;
+		el = el.parentElement;
+		}
+	return null;
+	}
+	function multiJump() {
+	var el = checkElementTree(event.srcElement, "A");
+		if (null != el) { 
+			if ((null != el.getAttribute("mhref")) && (null != el.getAttribute("mtarget"))) {
+			event.returnValue = false;
+			var mhref = new Array();
+			var mtarget = new Array();
+			mhref = el.getAttribute("mhref").split("; ");
+			mtarget = el.getAttribute("mtarget").split("; ");
+			if (mtarget.length == mhref.length)
+			for (var intLoop = 0; intLoop < mtarget.length;	intLoop++)
+			if (null != parent[mtarget[intLoop]]) parent[mtarget[intLoop]].location.href = 	mhref[intLoop];
+			}
+		}
+	}
+</script>
+
 
 <!--start CMS JS-->
 <script language="javascript" type="text/javascript" src="/include/js/tiny_mce/tiny_mce.js"></script>
@@ -107,20 +135,26 @@
 		<script language="javascript">
 function GoogleSearch()
 {
-	var searchString = document.searchIt.search.value;
+	var searchString = document.getElementById('cse-search-box').q.value;
 	//searchString = searchString.replace('&','%26');
-	if(searchString==""||searchString=="Site Search")
-	{
-			return false;
+	
+	if (searchString == "") {
+		return false;
 	}
 }
 </script>
+
 <div id="searchformcontainer">
-	<form action="/general/search_results.jsp" name="searchIt" id="search" method="post" style="margin-bottom:0;"> 
-    <input type="hidden" name="site" value="www_pfizer"><!-- THIS IS THE GSA COLLECTION NAME -->
-	<input type="text" id="search" name="search" class="searchinput" value="Site Search" size="15" onfocus="javascript:this.value='';">
-	<input type="image" src="/img/button.go.gif" name="search" onclick="return GoogleSearch();">
-	</form>
+<form action="/general/search_results.jsp" id="cse-search-box" style="margin-bottom:0;">
+<div>
+<input type="hidden" name="cx" value="013769243196555347095:l8x3wfkll-i">
+<input type="hidden" name="cof" value="FORID:9">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="text" name="q" class="searchinput" size="15" onfocus="javascript:this.value='';">
+<input type="image" src="/img/button.go.gif" name="sa" value="Search" onclick="return GoogleSearch();">
+</div>
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
 </div>
 		</div>
 <br clear="all"> <!-- fix to stretch container -->
@@ -135,11 +169,11 @@ function GoogleSearch()
 
 <!-- start cms content -->
 <div id="cmsContent"><h1>Privacy</h1>
-	<p>Last updated February 2006</p>
+	<!-- <p>Last updated February 2006</p> -->
 
-    <div><img src="/img/clickseal.gif" style="float:right"></div>
+    <div><a href="jump.jsp?url=http://www.truste.org/ivalidate.php?companyName=Pfizer,%20Inc.%26sealid=101"><img src="/img/clickseal.gif" style="float:right" border="0"></a></div>
     <h2>Scope</h2>
-     <p>This notice provides  highlights of the full Pfizer Inc privacy statement and applies to TRUSTe  certified Pfizer Web sites. Visit the TRUSTe Web site to view a <a href="jump.jsp?url=http://www.truste.org/ivalidate.php?companyName=Pfizer,%20Inc.%26sealid=101">complete list of Pfizer Web sites with Validated Privacy  Statements</a>.</p> 
+     <p>This notice provides  highlights of the full Pfizer Inc privacy statement and applies to TRUSTe certified Pfizer Web sites. Visit the TRUSTe Web site to view a <a href="jump.jsp?url=http://www.truste.org/ivalidate.php?companyName=Pfizer,%20Inc.%26sealid=101">complete list of Pfizer Web sites with Validated Privacy  Statements</a>.</p> 
     <p>View the <a href="privacy_policy.jsp">full Pfizer Privacy Statement</a>.</p>
     
     <h2>Personal Information</h2>
@@ -152,13 +186,13 @@ function GoogleSearch()
     <p><a href="privacy_policy.jsp">Additional Information</a></p>
 
     <h2>How to Contact Us</h2>
-      <p>With questions about this privacy statement or about Pfizer's handling of your information  please contact our <a href="/contact/mail_privacy.jsp">Privacy Officer</a>.</p>
+      <p>With questions about this privacy statement or about Pfizer's handling of your information please contact our <a href="/contact/mail_privacy.jsp">Privacy Officer</a>.</p>
       <p>
       or<br>
       Pfizer Inc <br>
       Privacy Officer <br>
       235 E 42 Street <br>
-      Mail Stop 235/26/6 <br>
+      Mail Stop 235/27/5 <br>
       New York, NY 10017</p>
       <p>
       Pfizer Inc is a TRUSTe  licensee. Contact <a href="/general/jump.jsp?url=http://www.truste.org/consumers/watchdog_complaint.php&amp;display=TRUSTe%20Watchdog%20Dispute%20Resolution%20Process">Watchdog dispute resolution</a> if a privacy issue is not properly addressed by us.</p>
@@ -245,24 +279,6 @@ function hbxStrip(a) {
              a = a.split("~").join("");
              a = a.split(";").join("");
              a = a.split(" ").join("+");
-			 
-			 a = a.split("|").join("");
-			 a = a.split("&").join("");
-			 a = a.split("'").join("");
-			 a = a.split("#").join("");
-			 a = a.split("$").join("");
-			 a = a.split("%").join("");
-			 a = a.split("^").join("");
-			 a = a.split("*").join("");
-			 a = a.split(":").join("");
-			 a = a.split("!").join("");
-			 a = a.split("").join("");
-			 a = a.split("~").join("");
-			 a = a.split(";").join("");
-			 a = a.split("ý").join("");
-			 a = a.split("(tm)").join("");
-			 a = a.split(" ").join("+");
-
 		 return a;
              }
 </script>
@@ -323,7 +339,7 @@ hbx.pec="";//ERROR CODES
 //INSERT CUSTOM EVENTS
 
 
-//END EDITABLE SECTION 
+//END EDITABLE SECTION
 
 
 //REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
