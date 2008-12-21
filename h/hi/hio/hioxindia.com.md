@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hioxindia.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511164704id_/http%3A//hioxindia.com/ppolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hioxindia.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221104935id_/http%3A//www.hioxindia.com/ppolicy.php) for the most accurate reproduction.*
 
 # Contact Address for HIOX INDIA - Coimbatore, Tamilnadu
-
-**HIOX INDIA Privacy Policy**
 
 By accessing or using the hioxindia.com (HIOX INDIA) web site, you agree to the terms of the hioxindia.com (HIOX INDIA) Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this site. HIOX INDIA reserves the right to change its Privacy Policy from time to time at its sole discretion. Your use of this site will be subject to the most current version of the Privacy Policy at the time of such use. 
 
