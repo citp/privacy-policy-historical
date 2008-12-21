@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the off-road.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630210035id_/http%3A//www.off-road.com/offroad/static/staticHtml.jsp%3FfileName%3D/sitewide/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the off-road.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221140736id_/http%3A//www.off-road.com/offroad/static/staticHtml.jsp%3FfileName%3D/sitewide/privacy/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Off-Road.com
 
 **Advanstar Communications Inc.** (together with its affiliated entities, "Advanstar") has created this privacy statement to demonstrate our commitment to full disclosure of the information collection and use practices applicable to this website. This privacy statement discloses what information we collect via this website and how we use it.
 
-Information Collection and Dissemination  
-General Principles
+ **Information Collection and Dissemination  
+General Principles**
 
   * In general, you may visit this website without identifying yourself or revealing any personal information.
   * As you browse our website, the site collects the IP address of your computer and clickstream data (information that site users generate as they move from page to page and click on items) and this data is aggregated with usage data from all site visitors.
