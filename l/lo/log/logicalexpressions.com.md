@@ -1,9 +1,14 @@
-> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627010205id_/http%3A//www.logicalexpressions.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221033203id_/http%3A//www.logicalexpressions.com/Privacy.htm) for the most accurate reproduction.*
 
-# Logical Expressions - Privacy Policy
+# Logical Expressions Privacy Policy
 
 "Transforming Words  
 into Dollars"
+
+### Check out what readers  
+say about our writing...
+
+#408" I just want to say that I have found this one of the newsletters that I really look forward to and read everytime that it comes, no putting it in the read later file. I have recommended it to some of my less computer literate friends as a good shortcut/tip reference. Thanks for your time. I know it must be hard to fit it all in."\- D.G.
 
 | 
 
@@ -68,9 +73,12 @@ Logical Expressions, Inc.
 Sandpoint, Idaho 83864  
 Phone: 208-265-3636
 
-[Click to contact us by email](https://web.archive.org/web/20080627010205id_/http%3A//www.logicalexpressions.com/contact.asp)
+[Click to contact us by email](https://web.archive.org/web/20081221033203id_/http%3A//www.logicalexpressions.com/contact.asp)
 
 | 
+
+**As Seen in REDBOOK!**  
+[Check out the article about us ](http://www.redbookmag.com/your/letting-intuition-guide-you) in _Redbook Magazine_ (photos too!) 
 
 _You get TWO free reports **The 9 Lives of Content** and **7 Steps to Self Publishing Success** too!_  
 
@@ -78,5 +86,5 @@ _You get TWO free reports **The 9 Lives of Content** and **7 Steps to Self Publi
 [](http://www.bbbonline.org/cks.asp?id=10204251673723180)  
 Logical Expressions is a proud member of the BBB Online Reliability Program
 
-[](https://partner.microsoft.com/)  
-Logical Expressions is a Microsoft Certified Partner ISV/Software Solutions
+  
+
