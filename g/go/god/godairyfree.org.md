@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godairyfree.org privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609093425id_/http%3A//www.godairyfree.org/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godairyfree.org privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221115948id_/http%3A//www.godairyfree.org/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Go Dairy Free | Privacy Policy
 
