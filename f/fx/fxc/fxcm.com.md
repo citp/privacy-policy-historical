@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxcm.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611082411id_/http%3A//www.fxcm.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcm.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221112010id_/http%3A//www.fxcm.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - FXCM
 
@@ -32,7 +32,7 @@ FXCM uses Secure Socket Layer (SSL) encryption technology in order to protect ce
 
 * * *
 
-We may share personal information described above with our affiliates for business purposes, such as servicing customer accounts and informing customers about new products and services, and as permitted by applicable law. Our affiliates may include companies controlled or owned by us as well as companies that have an ownership interest in our company. The information we share with affiliates may include any of the information described above, such as your name, address, and account information. Our affiliates maintain the privacy of your information to the same extent FXCM does in accordance with this Policy.
+We may share personal information described above with our affiliates for business purposes, such as, but not limited to, servicing customer accounts and informing customers about new products and services, or to aid in the trading activity of the company, its affiliates, or employees, and as permitted by applicable law. Our affiliates may include companies controlled or owned by us as well as companies that have an ownership interest in our company. The information we share with affiliates may include any of the information described above, such as your name, address, trading and account information. Our affiliates maintain the privacy of your information to the same extent FXCM does in accordance with this Policy. 
 
 ### Sharing Information with Third Parties
 
