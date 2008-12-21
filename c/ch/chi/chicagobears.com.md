@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the chicagobears.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611141419id_/http%3A//www.chicagobears.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagobears.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221125447id_/http%3A//www.chicagobears.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Chicago Bears
 
 ## Chicago Bears Website Privacy Policy
 
-**_Last updated on July 19, 2005._**
+**_Last updated on August 5, 2008._**
 
 **_[](http://www.truste.org/ivalidate.php?url=www.chicagobears.com&sealid=102)_**This privacy policy applies to the Chicago Bears website located at[ www.ChicagoBears.com](https://web.archive.org/). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
 The Website is operated by the Chicago Bears
 
-The Chicago Bears Football Club is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.ChicagoBears.com](https://web.archive.org/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+The Chicago Bears Football Club is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe. This privacy statement covers the site www.chicagobears.com
 
 If you have questions or concerns regarding this statement, you should first contact Dan Gadd at Chicago Bears Football Club, 1000 Football Drive, Lake Forest, IL 60045. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
