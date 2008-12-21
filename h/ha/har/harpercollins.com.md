@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harpercollins.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613015642id_/http%3A//www.harpercollins.com/footer/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harpercollins.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221171024id_/http%3A//www.harpercollins.com/footer/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy, HarperCollins Publishers
 
