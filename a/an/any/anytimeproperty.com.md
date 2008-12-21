@@ -1,26 +1,46 @@
-> *The following text is extracted and transformed from the anytimeproperty.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430173642id_/http%3A//anytimeproperty.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anytimeproperty.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221134050id_/http%3A//www.anytimeproperty.com/index.php%3Fpg%3Dpolicy) for the most accurate reproduction.*
 
-# Any time Property
+# Anytime Property :: Find Real Estate Properties anytime anywhere. Leading property portal in India.
 
-This privacy policy explains what information **Anytimeproperty.com** collects about you, and how we collect and use your information. Since we are strongly committed to your right to privacy, we have drawn our privacy statement with regard to the information we collect from you.
+  
 
-What information you need to give when you register with us?  
-First, to make use of our services on our website you will be required to sign in or register with us.  
-If you like to advertise with us you will be asked to give certain personal information. This will include your details such as your contact details and address of the property you are selling. We also collect additional information about your property.
 
-  **How we use the information we collect?**
+Anytimeproperty.com website is owned and operated by Anytime Infotech Pvt Ltd (Formerly known as Anytimeproperty.Com Pvt Ltd). We have created this privacy policy statement in order to demonstrate our commitment to our user's privacy.
 
-**Anytimeproperty.com** collects information from members primarily to allow you to remotely access your account using a password.
+**What information you need to give in to use this site?**
 
-**Anytimeproperty.com** reserves the right to access and disclose personal data or information to comply with applicable laws and government requests to protect itself and its users.
+Anytimeproperty.com gathers information from users who apply for the various services of our site. It includes email address, first name, last name, a user-specified password, mailing address, zip code and telephone number or other contact number and fax number if exists. We also collect additional information about user's property.
 
-**Anytimeproperty.com** takes your privacy very seriously. **Anytimeproperty.com** will never sell, rent, or otherwise provide your personally identifiable information to any third parties unless it is to carry out your instructions and to provide specific services. These third parties are bound by strict confidentiality agreements, which limit their use of such information.
+**How the site uses the information it collects/tracks?**
 
-**Anytimeproperty.com** may partner with other online services to offer a combines service. Whenever we offer such combined services, **Anytimeproperty.com** will make it clear who the partner is and it will be entirely u to you to use or not to use the service. Where any personal information is passed along to the partner you will be informed prior to that sharing.
+Anytimeproperty.com collects information from our clients primarily to ensure that we are able to fulfill your requirements and to deliver personalized experience.
 
-  **Changes To Privacy Policy**
+**With whom the site shares the information it collects/tracks?**
 
-We reserve the right to add or change the terms of this privacy policy in our sole discretion without prior notice to the members. If we change the privacy policy we will post the new privacy policy on the website, and it will become effective from the time of posting to the website. Whenever possible, we will give you notice of any changes prior to their implementation.
+The information collected from any of our clients is shared with their approval to individuals and organizations.  
+Except where you are explicitly informed, Anytimeproperty.com do not sell, rent, share, trade or give away any of your personal information.
 
-If you have any questions regarding our privacy policy statement, please write to us.  
+**Partnering With Others**
 
+Anytimeproperty.com may tie-up with partners to bring you various services. However, we will never share your personal information, without your explicitly permission. Still, we encourage you to review the privacy policy of the partner for questions about their use, any personally identifiable information that you may separately submit to such partner.
+
+Anytimeproperty.com contains links to other websites. Anytime Infotech Pvt Ltd (Formerly known as Anytimeproperty.Com Pvt Ltd) is not responsible for the privacy practices or the content of such Web sites. 
+
+**Troubleshooting the problems**
+
+We may use IP address to help diagnose problems with our server, and to administer our Web site. Your IP address may be also used to gather broad demographic information. 
+
+**Links to third party companies**
+
+We may use a third party ad company to display ads on [anytimeproperty.com](http://anytimeproperty.com/index.php). These ads may contain cookies. While we may use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.  
+
+
+**Notice**
+
+We may change this Privacy Policy from time to time based on your comments or as a result of a change of policy in our company. We will prominently post a link to those changes on our Homepage so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+                
+
+If you have any questions regarding this statement, please write to us: [Contact Us](http://anytimeproperty.com/index.php?pg=contactus)                                  
+
+                
