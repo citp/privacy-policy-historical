@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the austintexas.gov privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520052249id_/http%3A//austintexas.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austintexas.gov privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221163830id_/http%3A//www.austintexas.gov/privacy.htm) for the most accurate reproduction.*
 
 # City of Austin - Austin City Connection - Privacy Statement
 
 This policy is to inform visitors to the Austin City Connection of its data gathering methods and use of such data. The Austin City Connection collects many types of data throughout its Web site and the degree to which this data is used will be specified below. The City of Austin may change this policy at any time at its sole discretion and without notice. 
 
-City of Austin [HIPPA Privacy Practices](https://web.archive.org/web/20080520052249id_/http%3A//austintexas.gov/hippaprivacy.htm) are located in a [separate document](https://web.archive.org/web/20080520052249id_/http%3A//austintexas.gov/hippaprivacy.htm). 
+City of Austin [HIPPA Privacy Practices](https://web.archive.org/web/20081221163830id_/http%3A//www.austintexas.gov/hippaprivacy.htm) are located in a [separate document](https://web.archive.org/web/20081221163830id_/http%3A//www.austintexas.gov/hippaprivacy.htm). 
 
 ## Logs and Activity Reports
 
