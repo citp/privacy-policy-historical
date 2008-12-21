@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the storesupply.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517011726id_/http%3A//www.storesupply.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storesupply.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221022139id_/http%3A//www.storesupply.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Store Supply Warehouse | Retail Store Supplies, Fixtures & Display Cases | Privacy Policy
 
 **Store Supply Warehouse Privacy Policy**
 
-Customer privacy is a critical component to any transaction taking place on the web or telephone. Store Supply Warehouse, LLC has taken every precaution to protect user information both online and offline and is the sole owner of all information collected on this site. **We will never sell, share, or rent your personal information** to others in any way. Customers entrust our company with sensitive information and we are committed to maintaining that level of trust.
+Customer privacy is a critical component to any transaction taking place on the web or telephone. Store Supply Warehouse, LLC has taken every precaution to protect user information both online and offline and is the sole owner of all information collected on this site. Customers entrust our company with sensitive information and we are committed to maintaining that level of trust
 
 Credit card information entered into our online registration/order forms is encrypted and protected with the best software in the industry (SSL). Any shipping or financial information obtained during the ordering process is solely used for billing purposes and to fill orders. We use contact information to get in touch with customers if there is a problem processing an order. 
 
