@@ -1,33 +1,24 @@
-> *The following text is extracted and transformed from the clickreport.com privacy policy that was archived on 2008-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080303230345id_/http%3A//www.clickreport.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickreport.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221192712id_/http%3A//www.doogleonduty.com/privacy.aspx) for the most accurate reproduction.*
 
-# ClickReport - Click Fraud Detection and Monitoring
+# 
 
 **Privacy Policy**
 
 Effective Date: 7/31/2007
 
-|  [](http://www.truste.org/ivalidate.php?url=www.clickreport.com&sealid=101)  
----|---  
-  
-_ClickReport, LLC is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.clickreport.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact ClickReport LLC, Robert Ward at 3710 Corporex Park Drive, Suite 100, Tampa, FL 33619. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-_
-
 **INFORMATION COLLECTION AND USE**
 
-ClickReport is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. ClickReport collects information from our users when they register for this service.
+ClickReport is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. DoogleOnDuty collects information from our users when they register for this service.
 
 **REGISTRATION**
 
-In order to register for ClickReport service, a user must first complete a short registration form. During this process a user is required to give personal details such as their full name, phone number, email, credit card, and address details. This information is used to validate the authenticity of the user registering for the service. Credit Card Numbers are collected from our users to charge them for our services.
+In order to register for DoogleOnDuty service, a user must first complete a short registration form. During this process a user is required to give personal details such as their full name, phone number, email, credit card, and address details. This information is used to validate the authenticity of the user registering for the service. Credit Card Numbers are collected from our users to charge them for our services.
 
 We use an outside credit card processing company to bill you for goods and services. This company does not retain, share, store, or use personally identifiable information for any other purposes.
 
 This web site may contain links to other sites. Please be aware that we at ClickReport are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our website and to read the privacy statement of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
 
-This website also contains a link to a Live Chat function that is hosted by one of our service providers. Because this is hosted on a Third Party’s web site, the information that is collected here, such as you email address, name, and phone number, is governed by the service provider’s web site and not by ClickReport.
+This website also contains a link to a Live Chat function that is hosted by one of our service providers. Because this is hosted on a Third Party’s web site, the information that is collected here, such as you email address, name, and phone number, is governed by the service provider’s web site and not by DoogleOnDuty.
 
 **COOKIES**
 
