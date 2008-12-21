@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the realtravel.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610053412id_/http%3A//realtravel.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtravel.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221132842id_/http%3A//realtravel.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - RealTravel
-
-The page you requested requires that you are logged in.
 
 We at RealTravel, Inc. (or "RealTravel") recognize that your privacy is important to you. We have created this privacy policy to explain our privacy practices so you will understand when and how personally identifiable information is collected, used, disclosed and protected with respect to our web site located at [RealTravel.com](http://realtravel.com/). Please read this policy before providing us with any personal information. In you have any questions about this policy, email us at [info@realtravel.com](mailto:info@realtravel.com). 
 
