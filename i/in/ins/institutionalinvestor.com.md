@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the institutionalinvestor.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527141552id_/http%3A//www.institutionalinvestor.com/Stub.aspx%3FStubID%3D2203) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the institutionalinvestor.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221013958id_/http%3A//www.institutionalinvestor.com/Stub.aspx%3FStubID%3D2203) for the most accurate reproduction.*
 
 # Insitutional Investor
 
