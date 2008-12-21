@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stinkyinkshop.co.uk privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511005147id_/http%3A//www.stinkyinkshop.co.uk/acatalog/company_info.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stinkyinkshop.co.uk privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222004041id_/http%3A//www.stinkyinkshop.co.uk/acatalog/company_info.htm) for the most accurate reproduction.*
 
-# Company Information
+# Company Information - Stinkyink
 
 ## Company information: [](http://www.stinkyinkshop.co.uk/Solar_Short.wmv)
 
