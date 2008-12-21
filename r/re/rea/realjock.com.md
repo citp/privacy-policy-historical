@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the realjock.com privacy policy that was archived on 2007-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071113072944id_/http%3A//www.realjock.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realjock.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221064147id_/http%3A//www.realjock.com/privacypolicy) for the most accurate reproduction.*
 
-# RealJock: Gay sports and gay fitness for gay jocks, athletes, and fitness buffs.
-
-## PRIVACY POLICY
+# Privacy policy - RealJock
 
 **INTRODUCTION**
 
@@ -24,11 +22,15 @@ Though we make every effort to preserve user privacy, we may disclose informatio
 
 **INFORMATION YOU SUPPLY TO US AT REGISTRATION**
 
-RealJock offers member and non-member based service to users. To process memberships and/or product purchases, we may require your name, age, billing address, phone number, email address, shipping address and credit card information. In general, you will receive one email notification confirming that you have created a membership, as well as one email notification every time you purchase a product or subscription from RealJock. You will be similarly notified of membership renewal transactions when they occur. If you have started, but not completed, the registration process, we may also send you email messages encouraging you to complete the process and become a subscriber. You will also be notified via email if you have new messages from other members on the Website, if you have been added to another member's hot lift or buddy list, or if a member you have added to your hot list or buddy list updates his or her Profile. You also have the ability to opt-in to receive emails about new products, promotions from RealJock or third-party partners of RealJock, although by default your Profile is set up not to receive those emails. You can change your preferences for the types of emails you receive from us in the Email preferences section of the Preferences tab, or by emailing us at [privacy@realjock.com](mailto:privacy@realjock.com). RealJock fully complies with the requirements of the federal CAN-SPAM ACT.
+RealJock offers member and non-member based service to users. To process memberships and/or product purchases, we may require your name, age, billing address, phone number, email address, shipping address and credit card information.
 
 You may only access your Profile and personal information relating to you if you provide the correct password that you create when you register with the Website. After providing your password, you can edit or delete your information at any time.
 
 If you forget your password, upon request we will email it to the email address you provide to us when you register. We will not give passwords out over the phone, nor will we email them to a different email address than the one used to register.
+
+**EMAIL COMMUNICATIONS**
+
+In general, you will receive one email notification asking that you confirm having created a RealJock membership. You will also receive one email notification every time you purchase a product or subscription from RealJock. You will be similarly notified of subscription or membership renewal transactions when they occur. You will also be notified via email if you have new messages from other members on the Website, if you have been added to another member's hot list or buddy list, if another member comments on one of your photos or writes you a testimonial, if a member you have added to your hot list or buddy list updates his or her Profile, and a once-a-week newsletter sent by RealJock staff. You can change your preferences for the types of emails you receive from us by clicking the "opt out" or "unsubscribe" links in the emails we send to you or by changing your selections in the Email Preferences section of the Preferences tab, or by emailing us at [privacy@realjock.com](mailto:privacy@realjock.com). RealJock fully complies with the requirements of the federal CAN-SPAM ACT.
 
 **INFORMATION WE AUTOMATICALLY COLLECT FROM YOU**
 
@@ -68,4 +70,4 @@ If you have any questions or concerns regarding our privacy policy, please conta
 
 By email: [privacy@realjock.com](mailto:privacy@realjock.com)
 
-Copyright © 2006-2007 RealJock, Inc. All rights reserved
+Copyright © 2006-2008 RealJock, Inc. All rights reserved
