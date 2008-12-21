@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the chemistry.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625050713id_/http%3A//www.chemistry.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemistry.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221123816id_/http%3A//www.chemistry.com/help/privacy.aspx) for the most accurate reproduction.*
 
 # Chemistry - Privacy Policy
 
 **Consumer Privacy at Chemistry.com (a Match.com, LLC service and site), an IAC Company**
 
-Match.com, LLC (or “Chemistry.com” – a site and service from Match.com) is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including, in addition to Match.com, Ask.com, Citysearch, Evite, Gifts.com, HSN, Interval International, LendingTree, Pronto, ServiceMagic, Ticketmaster and many others. For a list of all of IAC’s businesses, please visit [www.iac.com](http://www.iac.com/).
+Match.com, LLC (including Chemistry.com a site and service from Match.com) is part of the IAC family of businesses. IAC is an interactive conglomerate with more than 60 brands, including Ask.com, Citysearch, College Humor, Evite, Gifts.com, ServiceMagic, Shoebuy, and many others. For a list of all of IAC's businesses, please visit **[www.iac.com](http://www.iac.com/)**.
 
-In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices. The following Consumer Privacy statement applies to all IAC businesses. In addition, Match.com (including Chemistry.com) has revised its [Privacy Policy](https://web.archive.org/help/privacydetails.aspx), effective July 26, 2007, consistent with the IAC privacy commitment and standard privacy policy format. Refer to our [FAQs](https://web.archive.org/faqs/Policies) for details about the changes. Please review both the Consumer Privacy statement and this site’s complete privacy policy.
+At IAC, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of Chemistry.com, please click [here](https://web.archive.org/help/privacydetails.aspx).
 
 **Information we may collect** [Read more](https://web.archive.org/help/privacydetails.aspx#InfoWeCollect)
 
-We may collect information that can identify you (“personal information”), such as your name and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. 
+We may collect information that can identify you ("personal information"), such as your name and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. 
 
 We also may collect other types of information in the following ways when you visit our website:
 
-  * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users’ movements around our site and understand trends. 
+  * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends. 
   * We may assign your computer one or more cookies which may collect information to facilitate access to our website and to personalize your online experience. 
   * We may use standard Internet tools, such web beacons, which collect information that tracks your use of our website and enables us to customize our services and advertisements. 
 
-We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children’s Online Privacy Protection Act.
+We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children's Online Privacy Protection Act.
 
 **Information others may collect** [Read more](https://web.archive.org/help/privacydetails.aspx#others)
 
@@ -59,7 +59,7 @@ We may share aggregated, non-personal information in any of the above situations
 You may choose:
 
   * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;
-  * To stop receiving promotional emails from us by sending an email to the contact address at the bottom of this policy or by visiting the “Account Settings” page associated with your [account](https://web.archive.org/myaccount/account.aspx);
+  * To stop receiving promotional emails from us by sending an email to the contact address at the bottom of this policy or by visiting the "Account Settings" page associated with your [account](https://web.archive.org/myaccount/account.aspx);
   * To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
   * To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account.
   * To learn about additional choices, [click here](https://web.archive.org/help/privacydetails.aspx#YourChoices).
@@ -77,7 +77,7 @@ We may occasionally update our Privacy Policy to reflect changes in our practice
 If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/help/privacydetails.aspx), or our information practices, please contact us by email or postal mail below:
 
 Privacy Officer  
-Match.com, LLC  
+Chemistry.com  
 P.O. Box 25458  
 Dallas, Texas 75225  
 privacy@match.com
@@ -94,12 +94,12 @@ A cookie is a small text file that is stored on a user's computer for record kee
 Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. When you sign in to your account on our website, we will record your user or member ID and the name associated with your user or member ID in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. For security purposes, we will encrypt any usernames, passwords, and other user or member account-related data that we store in such cookies. In the case of sites and services that do not use a user or member ID, the cookie will contain a unique identifier. We may allow our authorized service providers to serve cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising.
 
   
-You may delete or decline cookies by changing your browser settings. (Click “Help” in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.
+You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.
 
-We may allow third-parties, including IAC companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party’s privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies  ([www.networkadvertising.org](http://www.networkadvertising.org/)).
+We may allow third-parties, including IAC companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies  ([www.networkadvertising.org](http://www.networkadvertising.org/)).
 
 Web Beacons:
 
-Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user’s computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence. 
+Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user's computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence. 
 
 Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may include web beacons in promotional (or other) e-mail messages or newsletters to determine whether messages have been opened and acted upon. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.
