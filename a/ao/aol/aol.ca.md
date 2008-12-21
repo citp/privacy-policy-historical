@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aol.ca privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226160742id_/http%3A//canada.aol.com/portal/misc/PrivacyPolicy.adp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aol.ca privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221070119id_/http%3A//canada.aol.com/portal/misc/PrivacyPolicy.adp) for the most accurate reproduction.*
 
 # AOL.ca - Privacy Policy
 
@@ -35,13 +35,11 @@ Please direct all inquiries about our privacy policy for AOL.CA in writing to ou
 ---|---|---|---  
 |  |  How to Get In Touch With Us |   
 |  |   
-**Member Services:**  
-PO Box 670  
-Station Main  
-Moncton, New Brunswick  
-E1C 8M7  
+**Member Services:**
+
 1-800-AOL-HELP  
-  
+
+
 |   
 |  |   
   
@@ -56,8 +54,7 @@ Fax: (416) 960-6502
 |  |   
   
 Have Questions?  
-Call toll free, 24/7  
+Call toll free,  
 **1-888-265-HELP** (4357)  
-or E-mail   
-[Member Services](mailto:CanadaHelp@aol.com) |   
+|   
 ---|---
