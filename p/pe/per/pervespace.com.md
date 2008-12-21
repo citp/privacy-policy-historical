@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the pervespace.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622131708id_/http%3A//www.pervespace.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pervespace.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221205700id_/http%3A//www.pervespace.com/privacy-policy.php) for the most accurate reproduction.*
 
-# PerveSpace Privacy Policy
+# PerveSpace.com - Free Porn Links
+
+| 
+
+PerveSpace does not share or sell member information.
+
+  
+| 
+
+:: PRIVACY POLICY FOR PERVESPACE.COM ::
 
 At the same time that Perve Space is committed to bringing you entertainment tailored to your individual needs, we recognize the importance of protecting the privacy of personally identifiable information collected about you. In adopting this customer privacy policy, our intent is to balance our legitimate business interests in collecting and using information with your reasonable expectations of privacy.
 
