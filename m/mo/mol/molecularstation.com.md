@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the molecularstation.com privacy policy that was archived on 2008-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080326230845id_/http%3A//www.molecularstation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the molecularstation.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221204420id_/http%3A//www.molecularstation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Molecular Station
 
-**Warning** : include_once() [[function.include](https://web.archive.org/web/20080326230845id_/http://www.molecularstation.com/privacy-policy/function.include)]: Failed opening '/home/molec2/public_html/oneadmin1/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in **/home/molec2/public_html/privacy-policy/index.php** on line **4**
-
-[](http://www.molecularstation.com/) |   
----|---  
+Bookmark / Share This Science Site   
   
+[](http://www.addthis.com/bookmark.php)
+
 Molecular Station understands your privacy and will not sell or give this information to outside sources.
 
 Molecular Station collects personal information about you only when you specifically and knowingly provide it to us, such as forum and blog registration purposes. 
