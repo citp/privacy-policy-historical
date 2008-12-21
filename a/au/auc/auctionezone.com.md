@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctionezone.com privacy policy that was archived on 2008-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080419030123id_/http%3A//www.auctionezone.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionezone.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221103657id_/http%3A//www.auctionezone.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # privacy Free Auction Articles at AuctioneZone
 
