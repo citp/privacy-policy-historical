@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the environmentalleader.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514151111id_/http%3A//www.environmentalleader.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environmentalleader.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221114544id_/http%3A//www.environmentalleader.com/privacy) for the most accurate reproduction.*
 
 # Privacy · Environmental Leader · Green Business, Sustainable Business, and Green Strategy News for Corporate Sustainability Executives
 
-Our privacy policy is quite simple: we won’t use your email address for any other purpose than sending you our newsletter. This may include contacting subscribers to update information once in a while, and, from time to time, inviting some readers to participate in a readership survey.
+Our privacy policy is quite simple: we won’t use your email address for any other purpose than sending you our newsletter and (for subscribers who joined since November 2008) occasional, carefully selected sponsorship content.
+
+We may also contact subscribers to update information once in a while, and, from time to time, invite some readers to participate in a readership survey.
 
 **Your name and e-mail address** We won’t rent, swap or sell our lists with advertisers, other web sites or list brokers. We may engage in co-registration deals with other publishers, provided these partnerships are based on opt-in (i.e. you won’t get anything from our partners unless you actively choose to get it).
 
@@ -18,4 +20,17 @@ If you post a comment on our site, we won’t use your email except to send you 
 
 We may use technical tracking means such as cookies or web beacons (single-pixel transparent gifs). These techniques are anonymous and used for statistical purposes only (e.g. finding our email open rate). We won’t try to monitor your anonymous personal usage of our site and letters. You can set up your browser to refuse cookies if you want to, though that might limit some site features.
 
-We may use an outside advertising company to disp
+We may use an outside advertising company to display advertisements on our website. Advertisements served from third parties may or may not contain cookies and other tracking mechanisms.
+
+**Security** Only authorized personnel are allowed physical and/or digital access to servers and data. All servers and data backups are kept secure from physical and electronic intrusion by use of firewalls and redundant security systems, which are periodically evaluated and upgraded.
+
+**Legal Disclaimer** Personally Identifiable Information provided to Environmental Leader is subject to disclosure pursuant to judicial or other government subpoenas, warrants or orders. We make every effort possible to preserve user privacy and anonymity; however, we may need to disclose personal information when required by law wherein such action is necessary to comply with judicial proceedings, court orders or legal processes served on our Website.
+
+If you have a question, please contact us:  
+Environmental Leader  
+123 N. College Ave.  
+Suite 200  
+Fort Collins, CO 80524  
+970.212.4614
+
+info (at) environmentalleader.com
