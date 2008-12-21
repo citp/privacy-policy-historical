@@ -1,0 +1,54 @@
+> *The following text is extracted and transformed from the fashioncentral.pk privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221153310id_/http%3A//www.fashioncentral.pk/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy - Fashion Central
+
+This privacy policy is derived to demonstrate our sole commitment to your privacy and the protection of your information and data.
+
+## How you receive Communication
+
+If you received any mailing from our side, it means your email address is listed as being an account holder or you have any relationship with our account holder and have expressly shared this address for the purpose of receiving information in the future ("opt-in").
+
+## Unsubscribe Options
+
+Each email sent has an easy way to unsubscribe from receiving email from the lists your have subscribed to, or to add or modify your mentioned interests. If you wish to unsubscribe, simply follow the instructions at the end of any email.
+
+## Privacy Protection
+
+We apply security measures such as data encryption to avoid any loss, misuse and change of data used by our system.
+
+## Usage of Account Information
+
+Your private information is safe with us as we will never sell your personal account information or subscriber data with anyone without your advance permission or unless ordered by a court of law. Information you submit to us is only accessible to employees managing the information for purposes of contacting you or sending you emails based on your request for information and to contracted service providers for purposes of providing services concerned to our communications with you.
+
+### [Zainab Qayum (Interview)](http://www.fashioncentral.pk/people-parties/celebrity-interviews/story-87-zainab-qayum-interview/)
+
+[](http://www.fashioncentral.pk/people-parties/celebrity-interviews/story-87-zainab-qayum-interview/)Zainab Qayum a.k.a ZQ is one of the most talented female stars of our country. She is a top model a talented actress and needs no introduction. She was crowned the 'Best Model of the year 2004' in Lux Style Awards and won the "Most Stylish Actress Award"
+
+[ **» View all celebrity interviews**](http://www.fashioncentral.pk/people-parties/celebrity-interviews/)
+
+## Gifts & Shopping
+
+Fashion jewellery's must-have trends. 
+
+  
+
+
+All the latest industry spas and spoiling products. 
+
+  
+
+
+Beauty's in the bag and accessories. Find the newest styles, designs. 
+
+  
+
+
+Electronics and Gadgets Trends. Find the latest selection of mobile phones, digital cameras and mp3 players. 
+
+  
+
+
+Women's Clothing and Designer Clothes, find the best picks in men’s clothing. 
+
+  
+
