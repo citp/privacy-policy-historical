@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genengnews.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630221811id_/http%3A//www.genengnews.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genengnews.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221165907id_/http%3A//www.genengnews.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement. Genetic Engineering & Biotechnology News - Biotechnology from Bench to Business
 
