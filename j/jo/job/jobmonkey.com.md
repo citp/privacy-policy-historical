@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jobmonkey.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616003536id_/http%3A//www.jobmonkey.com/main/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobmonkey.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221132043id_/http%3A//www.jobmonkey.com/main/html/privacy.html) for the most accurate reproduction.*
 
 # JobMonkey Privacy Policy
 
   * [HOME](http://www.jobmonkey.com/) |
   * [FIND A JOB](http://www.jobmonkeyjobs.com/GetJobs.rs) |
-  * [JOB CATEGORIES](http://www.jobmonkey.com/) |
+  * [JOB CATEGORIES](http://www.jobmonkey.com/main/html/job_categories.html) |
   * [TRAVEL CENTER](http://www.jobmonkey.com/main/html/travel_center.html) |
   * [JOB TOOLS](http://www.jobmonkey.com/main/html/jobhunter.html) |
   * [POST JOBS](http://www.jobmonkey.com/main/html/employers_only.html)
