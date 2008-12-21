@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tealium.com privacy policy that was archived on 2008-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080406171157id_/http%3A//www.tealium.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tealium.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221214412id_/http%3A//www.tealium.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Tealium
 
@@ -46,4 +46,4 @@ This privacy policy forms part of our web site Terms of Use and as such shall be
 
 If you have any questions about this privacy policy or concerns about the way the Company uses personal data, please contact us.
 
-This policy was last updated on February 25th, 2008.
+This policy was last updated on October 27th, 2008.
