@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the colorincolorado.org privacy policy that was archived on 2007-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070702043520id_/http%3A//www.colorincolorado.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorincolorado.org privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221190330id_/http%3A//www.colorincolorado.org/privacy) for the most accurate reproduction.*
 
 # Colorín Colorado :: Privacy Policy
 
 Teachers who work with English as a Second Language learners will find ESL/ESOL/ELL/EFL reading/writing skill-building children's books, stories, activities, ideas, strategies to help PreK-3, 4-8, and 9-12 students learn to read.
+
+A bilingual site for families and educators of English language learners
 
 Protecting the privacy of our web site visitors is very important to us. Because we gather certain types of information about our users, we want to make sure you understand the ways in which we may and may not use the information you transmit to us when you visit Colorín Colorado. This statement discloses the privacy practices for all WETA web sites.
 
@@ -62,11 +64,13 @@ To make our site more valuable to our visitors, we offer some features in conjun
 
 By using this site, you signify your agreement to the terms and conditions of this Colorín Colorado Privacy Policy. If you do not agree to these terms and conditions, please do not use this site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for any changes. Your continued use of Colorín Colorado following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please contact us.
 
-Finally, something that is not only user friendly, but free as well. THANK YOU for a quality product!   
-~ Fran S.
+I am from Mexico and Colorín Colorado… reminds me of all the kids sitting around in a circle listening to stories. Thank you!   
+~ Dionisio R.
 
 [](http://www.colorincolorado.org/guides/readingtips)
 
 [](http://www.colorincolorado.org/about/by#aft)
 
 [](http://www.colorincolorado.org/newsletters/tellegram)
+
+[](http://www.readingrockets.org/)
