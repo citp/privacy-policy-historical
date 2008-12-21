@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pontiac.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231093744id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pontiac.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221072123id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -44,12 +44,14 @@ GM may obtain information about you and your vehicle in a number of ways: For ex
   * contact information (name, address, city, state and Zip Code, e-mail address, and telephone number)
   * vehicle information (vehicle identification number (VIN), make, model, model year, selling dealer, date of purchase or lease, etc.)
   * demographic information (age range, marital status, household composition, etc.)
-  * non-credit-related marketing gprofile information (when you plan to purchase or lease; the vehicle in which you're interested, etc.)
+  * non-credit-related marketing profile information (when you plan to purchase or lease; the vehicle in which you're interested, etc.)
   * relationships you have with GM not related to your vehicle (i.e., GM Card or OnStar)
 
 
 
 Business Reply Cards and sweepstakes entries you complete at an event or in response to a marketing mailing we send may also ask you to answer some of these same questions so we can tailor what we send to you to your specific interests.
+
+In limited circumstances, you may be asked to provide GM with your social security number. For example, if you win a sweepstakes or receive compensation from GM, GM is required to include your social security number on government tax forms. GM maintains technical, administrative, and physical safeguards designed to protect the confidentiality of your social security number, and to prohibit the unlawful disclosure of and restrict access to this information.
 
 In addition, our GM affiliates, GM dealers, GM merchandise licensees, and other sources such as those that provide lists of potential vehicle purchasers or current owners may give the information they have regarding you or your vehicle to us so that we may serve your needs better.
 
@@ -89,7 +91,7 @@ If you have concerns or questions regarding GM's consumer privacy practices, ple
 
 We retain the right to change this Privacy Statement. We will post changes to this page in a timely manner.
 
-This statement is effective as of 4/1/2007.
+This statement is effective as of 10/1/2008.
 
 ### Supplemental Privacy Information
 
@@ -154,7 +156,7 @@ Information Security \- We take steps to make personal information received from
 
 Correcting Your Information and Privacy Inquiries \- If you would like to correct your personal information or if you have concerns or questions regarding GM's privacy practices relating only to the GM Supplier Discount Website, please contact us by calling 1-800-960-3375.
 
-### 2006 Disclosure
+### 2007 Disclosure
 
 Under California Civil Code Section 1798.83, also known as Senate Bill 27, you are entitled to request and receive, free of charge, a copy of GM's California Information Sharing Disclosure Notice for the previous calendar year. You may print this page, or call 1-866-MYPRIVACY (1-866-697-7482) to request a copy.
 
@@ -187,10 +189,10 @@ Our GM affiliates who may have received your information are as follows:
 
 
   * GMAC Insurance
-  * Specialty Markets & Products
-  * GM Motor Club, Inc./GM Protection Plan
-  * P.O. Box 3580
-  * Southfield, MI 48037-3580
+  * Dealer Products and Services
+  * GM Protection Plan
+  * 300 Galleria Officentre - Suite 300
+  * Southfield, MI 48034 
 
 
   * GMAC Mortgage Corporation
