@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sleepapnea.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210035737id_/http%3A//global.respironics.com/PrivacyNotice.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepapnea.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221104621id_/http%3A//global.respironics.com/PrivacyNotice.asp) for the most accurate reproduction.*
 
-# Privacy Notice, Respironics
+# Privacy Notice, Philips Respironics
 
-Online Privacy Policy We at Respironics, Inc. and our affiliated companies worldwide ("Respironics") are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. Respironics has established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information. 
+We at Respironics, Inc. and our affiliated companies worldwide ("Respironics") are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. Respironics has established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information. 
 
 Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an e-mail address or other contact information. In general, you can visit Respironics’ web pages (the “Site”) without telling us who you are or revealing any Personal Information about yourself. 
 
@@ -29,5 +29,3 @@ When a user performs a search within the Site, Respironics may record informatio
 **(h) Third Party Services.** Third parties provide certain services for Respironics. Respironics may provide information, including Personal Information that Respironics collects on the Site to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which Respironics maintains its Site and mailing lists. Respironics will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on Respironics’ behalf. 
 
 Respironics does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Respironics’ behalf unless such transfer is legally required. Similarly, it is against Respironics’ policy to sell Personal Information collected online without consent. 
-
-[](http://printfriendly.respironics.com/print.asp?ref=https://web.archive.org/web/20071210035737id_/http%3A//global.respironics.com/PrivacyNotice.asp "Print")
