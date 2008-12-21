@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the zazzle.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509105603id_/http%3A//www.zazzle.com/mk/policy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zazzle.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221132559id_/http%3A//www.zazzle.com/mk/policy/privacy_policy) for the most accurate reproduction.*
 
 # Zazzle Privacy Policy
 
-Thanks for using [www.zazzle.com](http://www.zazzle.com/) (the "Zazzle Website"). At Zazzle.com, Inc. ("Zazzle"), we are committed to protecting your privacy. We have created this privacy policy to make sure you know what information we collect and how we use it. By using our web site, you consent to the collection and use of your information as we have outlined in this policy. From time to time, we may update this privacy policy. We will notify you about material changes in the way we treat personally identifiable information by emailing you and/or placing a notice on our Website. We encourage you to check back and review this privacy policy so that you always will know what personally identifiable information we collect, how we use it, and to whom we disclose it. Your continued use of the Zazzle Website will be subject to the then current privacy policy. 
+[](http://www.etrust.org/cert/879309.html)
+
+Thanks for using <http://www.zazzle.com/> (the "Zazzle Website"). At Zazzle.com, Inc. ("Zazzle"), we are committed to protecting your privacy. We have created this privacy policy to make sure you know what information we collect and how we use it. By using our web site, you consent to the collection and use of your information as we have outlined in this policy. From time to time, we may update this privacy policy. We will notify you about material changes in the way we treat personally identifiable information by emailing you and/or placing a notice on our Website. We encourage you to check back and review this privacy policy so that you always will know what personally identifiable information we collect, how we use it, and to whom we disclose it. Your continued use of the Zazzle Website will be subject to the then current privacy policy. 
 
 #### But first, a note about uploading and posting information on the Zazzle Website:
 
