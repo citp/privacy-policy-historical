@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jingproject.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612034818id_/http%3A//www.jingproject.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jingproject.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221110442id_/http%3A//www.jingproject.com/privacy.asp) for the most accurate reproduction.*
 
 # Jing Project: Visual communication starts here
 
@@ -38,4 +38,4 @@ As our Web site evolves over time or our data handling policies change, we will 
 
 [](https://web.archive.org/)
 
-#### © 2007 [TechSmith Corporation.](http://www.techsmith.com/) All rights reserved.
+#### © 2008 [TechSmith Corporation.](http://www.techsmith.com/) All rights reserved.
