@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7cd.us privacy policy that was archived on 2008-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080421110037id_/http%3A//www.7cd.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7cd.us privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221124801id_/http%3A//www.7cd.us/privacy.html) for the most accurate reproduction.*
 
 # Professional Web Directory - 7CD.us
 
