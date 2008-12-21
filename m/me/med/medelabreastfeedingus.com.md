@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medelabreastfeedingus.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601232901id_/http%3A//www.medelabreastfeedingus.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medelabreastfeedingus.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221142315id_/http%3A//www.medelabreastfeedingus.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Medela
 
