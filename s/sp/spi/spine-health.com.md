@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spine-health.com privacy policy that was archived on 2008-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080420055943id_/http%3A//www.spine-health.com/About/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spine-health.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221235021id_/http%3A//www.spine-health.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Spine-Health.com
+# Privacy Policy
 
 (Updated June 2007)
 
@@ -47,6 +47,3 @@ If you have additional questions about our privacy policy, please contact us at 
 Spine-health.com  
 123 West Madison St. Suite 1450  
 Chicago, IL 60602
-
-  
-
