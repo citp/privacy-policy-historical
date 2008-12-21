@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookrags.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605071430id_/http%3A//www.bookrags.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookrags.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221010257id_/http%3A//www.bookrags.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,3 +29,16 @@ BookRags also works with third parties to help us understand how people use our 
 |  | 
 
 If you do register, your information is kept safely and securely within BookRags. If you have any specific concerns or questions, please don't hesitate to contact us. We are very concerned about the security of customer data. We store your information securely, using industry-compliant encryption technology.
+
+|  | 
+
+BookRags has partnered with Glam Media Inc. for display advertising. You may contact Glam at: 
+
+> Glam Media Inc.  
+>  8000 Marina Blvd., Ste. 130  
+>  Brisbane, CA 94005  
+>  650-244-4000  
+>  info@glammedia.com  
+> 
+
+BookRags has partnerned with Lotame Solutions, Inc. ("Lotame") to better help us operate the website, report website traffic, statistics, advertisement 'click-throughs', and/or other activities on the website. Lotame may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. Lotame does not collect personally identifiable information. For more information on how the information is collected and used by Lotame, please see Lotame's privacy policy at http://www.lotame.com/PrivacyPolicy.shtml.
