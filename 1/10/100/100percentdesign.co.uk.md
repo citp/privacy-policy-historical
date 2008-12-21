@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 100percentdesign.co.uk privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611230139id_/http%3A//www.100percentdesign.co.uk/page.cfm/Link%3D3/t%3Dm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100percentdesign.co.uk privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221170529id_/http%3A//www.100percentdesign.co.uk/page.cfm/Link%3D3/t%3Dm) for the most accurate reproduction.*
 
 # 100% Design 2008 - Privacy Pledge
 
-**How Your Information Is Used** Since 1995, Reed Exhibitions has been working to develop useful Internet services and web sites that are safe, easy, and respectful of our customers. This web site is maintained by Reed Exhibitions Limited (RX). Our corporate offices are located at Oriel House, 26 The Quadrant, Richmond, Surrey TW9 1DL, United Kingdom. You can also reach us by telephone on +44 (0) 208 910 7910.
+**How Your Information Is Used** Since 1995, Reed Exhibitions has been working to develop useful Internet services and web sites that are safe, easy, and respectful of our customers. This web site is maintained by Reed Exhibitions Limited (RX). Our corporate offices are located at Gateway House, 28 The Quadrant, Richmond, Surrey TW9 1DN, United Kingdom. You can also reach us by telephone on +44 (0) 208 910 7910.
 
 Our privacy policy is laid out below but if we have contacted you and you no longer wish to receive information from us then first of all we apologise for the inconvenience. 
 
