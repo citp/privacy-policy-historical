@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imedix.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410195218id_/http%3A//www.imedix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imedix.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221185402id_/http%3A//imedix.com/privacy) for the most accurate reproduction.*
 
 # iMedix - Privacy policy
 
