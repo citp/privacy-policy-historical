@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vertica.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609060545id_/http%3A//www.vertica.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertica.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221205926id_/http%3A//www.vertica.com/privacypolicy) for the most accurate reproduction.*
 
-# Vertica Privacy Policy | Vertica
+# VERTICA PRIVACY POLICY | Vertica
 
   
 
@@ -30,8 +30,8 @@ We use the personal information you submit to operate, maintain, and provide to 
 Any personal information or content that you voluntarily disclose for posting to the Service (for instance, in the User Content you post) becomes available to the public. By providing Vertica your email address you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages, including changes to features of the Service and special offers. If you do not want to receive such email messages, you may opt out by sending an email message to [info@vertica.com](mailto:info@vertica.com) with the words "No email" in the subject field or by sending mail to the following postal address:
 
 Vertica Systems, Inc.   
-Three Dundee Park, Suite 102  
-Andover, MA 01810  
+8 Federal Street, First Floor  
+Billerica, MA 01821  
 Attention: Customer Support Department
 
 Opting out may prevent you from receiving email messages regarding updates, improvements, or offers. You may not opt out of Service-related e-mails. Vertica may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security. 
