@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the myopenrouter.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506132714id_/http%3A//www.myopenrouter.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myopenrouter.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221121649id_/http%3A//www.myopenrouter.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: MyOpenRouter
 
 ## Capable Networks, LLC Privacy Policy
-
-**Last Updated:   October 18, 2004 **
 
 At Capable Networks, we know that your privacy is important to you and we take it very seriously.   We are also motivated to provide the best experience for you and this is often achieved by learning more about you and from tracking the collective activity or our membership.   This statement describes the ways in which we collect and use information about you at our website, MyOpenRouter.com ("site"). 
 
@@ -60,4 +58,4 @@ We reserve the right to change this Privacy Policy at any time by notifying site
 
 ### **Contact Information**
 
-We welcome your comments regarding this Privacy Policy.   If you believe that we have not adhered to this Statement of Privacy, please contact us via e-mail at [info@capablenet.com](mailto:info@capablenet.com). 
+We welcome your comments regarding this Privacy Policy.   If you believe that we have not adhered to this Statement of Privacy, please contact us via e-mail at [info@myopenrouter.com](mailto:info@myopenrouter.com). 
