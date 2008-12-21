@@ -1,0 +1,36 @@
+> *The following text is extracted and transformed from the dealpals.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221232316id_/http%3A//www.dealpals.com/privacy) for the most accurate reproduction.*
+
+# Privacy | DealPal$
+
+**_DEALPALS.COM PRIVACY POLICY_**
+
+-       
+
+21 July 2008  
+The Dealpals Privacy Policy describes how we treat personal information when you use Dealpals.com, including information provided when you use Dealpals.com.
+
+Personal information
+
+• You need to be registered to dealpals to avail most of its services like entering posts, scraps, blogs, earning user points etc.. Dealpals asks for some personal information when you create a Account, including your email address and a password, which is used to protect your account from unauthorized access.  
+• As a Dealpals member, you can create a profile that may include personal information, such as your age and photos. This information may be accessed and viewed by other dealpals members and visitors.  
+• When you invite new members into your network or send messages through Dealpals, we collect and maintain information associated with those messages, including email addresses and content.  
+• Access to your scrap book is restricted to registered users only, which may be disabled by you using edit option on your profile.
+
+Uses and Information Sharing
+
+• Dealpals maintains and processes your personal information and content of your communications in order to provide dealpals services. Your profile information is displayed according to the preferences you set in your account.  
+• When you send messages through Dealpals, your name and email address will be identified in the message. We also use your name and email address to notify you of new messages to your guest book, or other information, such as invitations to join friends' networks, gift of user points, admin notices.  
+• If you invite another person to join dealpals, we use the name and email address you provide us to contact that person and, if necessary, remind that person that he or she has been invited to join dealpals. All invitees are given the option not to receive further invitations from dealpals. 
+
+Ads served by third parties on Dealpals
+
+• Ads served on dealpals outside of applications: Google uses Google AdSense technology to serve ads on the Dealpals website. The ads you see on Dealpals are served by Google through Google AdSense. However, Google also allows advertisers to choose to use a third-party ad server to serve ads through AdSense. Those third-party ad servers may use cookies or web beacons to recognize your computer for purposes of tailoring advertising content or measuring ad effectiveness. A list of those third party servers is available here, along with links to their websites which provide information about how to opt-out of their cookies if such functionality is available from the ad server. 
+
+Your choices
+
+• You can update your profile information at any time by clicking on the "edit" button in your profile setting.  
+• You can terminate your account at any time. If you terminate your account, your profile, including any messages in your inbox, will be removed from the site and deleted from dealpals servers. Because of the way we maintain this service such deletion may not be immediate, and residual copies of your profile information may remain on backup media. 
+
+If you have additional questions, please contact us any time for further information. 
+
+Team Dealpals
