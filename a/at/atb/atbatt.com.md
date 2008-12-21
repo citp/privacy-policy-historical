@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the atbatt.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512075610id_/http%3A//www.atbatt.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atbatt.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221120440id_/http%3A//www.atbatt.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# AtBatt.com - Privacy Policy
+# 
 
 ## PRIVACY POLICY
 
@@ -36,7 +36,7 @@ We do not reveal Personally Identifiable Information about you to unaffiliated t
 
 **Service Providers.** We use other third parties to provide shipping and credit card processing services on our site. When you purchase a product(s) on our site, we will share your contact, shipping and credit card information as necessary for the third party to provide that service. These third parties are prohibited from using your personally identifiable information for any other purpose including their own marketing purposes. 
 
-|  FedEx Corporation  
+FedEx Corporation  
 942 South Shady Grove Road  
 Memphis, TN 38120  
 1-800-GO-FEDEX  
@@ -67,7 +67,7 @@ Choice/Opt-out: You may change any of your personal information in your account 
 
 **Surveys or Contests**. From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name, email address and/or shipping address), and demographic information (such as zip code). 
 
-We use this information collected to notify contest winners and award prizes. In addition, our monthly contests will require you to submit your email address and by giving us your email address you agree to receive 2 promotional emails a month in exchange for an opportunity to win that month�s particular prize. If you would like to be removed from the monthly contest and not receive our promotional emails, please follow the unsubscribe instructions included in each email. 
+We use this information collected to notify contest winners and award prizes. In addition, our monthly contests will require you to submit your email address and by giving us your email address you agree to receive 2 promotional emails a month in exchange for an opportunity to win that month’s particular prize. If you would like to be removed from the monthly contest and not receive our promotional emails, please follow the unsubscribe instructions included in each email. 
 
 **Linked Sites or Other Parties:** Atbatt.com's Site may contain links to other sites owned or operated by third parties. This Privacy Policy only addresses Atbatt.com's use and disclosure of your Personally Identifiable Information collected on our Site. While we try to link only to sites that share our standards and respect for privacy, we are not responsible for the privacy practices of any third parties or the content of linked sites, although we do encourage you to read the applicable privacy policies and terms and conditions of such parties or web sites. 
 
