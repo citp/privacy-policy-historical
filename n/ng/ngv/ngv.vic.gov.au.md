@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ngv.vic.gov.au privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630205701id_/http%3A//www.ngv.vic.gov.au/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngv.vic.gov.au privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221191339id_/http%3A//www.ngv.vic.gov.au/policies/privacy.html) for the most accurate reproduction.*
 
 # Policies: Privacy
 
