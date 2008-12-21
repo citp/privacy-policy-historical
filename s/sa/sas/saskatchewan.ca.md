@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the saskatchewan.ca privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212163209id_/http%3A//www.saskatchewan.ca/Default.aspx%3FDN%3D33bd7693-a3ca-4560-b7b0-10cd8916927d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saskatchewan.ca privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221065805id_/http%3A//www.gov.sk.ca/privacy) for the most accurate reproduction.*
 
-# Privacy & Security
+# Internet Privacy Policy -
 
 This website **does not** automatically gather personal information about you. We will only collect this type of information if you voluntarily supply it. 
 
@@ -29,7 +29,7 @@ Questions or concerns regarding our management of this privacy statement may be 
      2101 Scarth Street  
      Regina, SK  S4P 2H9   
      Telephone: (306) 787-1134  
-     Fax:           (306) 787-5718
+     Fax:               (306) 787-5718
 
 If you are not satisfied with our response to your privacy concern, you may wish to contact the:
 
@@ -37,4 +37,4 @@ If you are not satisfied with our response to your privacy concern, you may wish
      503-1801 Hamilton Street  
      Regina, SK  S4P 4B4  
      Telephone: (306) 787-8350  
-     Fax:           (306) 798-1603
+     Fax:               (306) 798-1603
