@@ -1,9 +1,22 @@
-> *The following text is extracted and transformed from the cityofpasadena.net privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515221220id_/http%3A//cityofpasadena.net/privacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityofpasadena.net privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221145220id_/http%3A//cityofpasadena.net/privacyStatement.asp) for the most accurate reproduction.*
 
 # City of Pasadena Privacy Policy
 
-| 
-
+|  [tournament of roses](https://web.archive.org/tor.asp)  
+---  
+[election information](https://web.archive.org/cityclerk/election_2009/default.asp)  
+[planning studies available for public comment](https://web.archive.org/planninganddevelopment/PlanDev/Comments/Projects.asp)  
+[business/animal license renewal](https://web.archive.org/finance/businesslicense)  
+[business license  
+grace period](https://web.archive.org/finance/businesslicense/BLGrace.asp)  
+[ green city](https://web.archive.org/permitcenter/GreenCity/Home_Green.asp)  
+[parking permits](https://web.archive.org/finance/parkingcitations/parkingPermits/)  
+[parking citations](https://web.archive.org/finance/parkingcitations/)  
+[emergency preparedness ](https://web.archive.org/disaster/index.asp)  
+[lookin' good pasadena](https://web.archive.org/publicaffairs/Lookin_Good/default.asp)  
+[employment](http://agency.governmentjobs.com/pasadena/default.cfm)  
+[contact us](https://web.archive.org/comments/commentswebmaster.asp)  
+  
 The City of Pasadena recognizes the importance of protecting the privacy of the visitors to this website and views this site as a tool for providing city-wide information and interactive services to its citizens. We collect no personal information about you when you visit our site unless you choose to provide that information to us.  We do not give, share, sell, or transfer any personal information to a third party. 
 
 Should you provide the City of Pasadena with personal information such as sending an e-mail or by filling out and submitting an online form located on the City of Pasadena's website, the information may be used to respond to you and to assist in providing you with the information or service requested. The City of Pasadena treats e-mail messages and submitted online forms the same way it treats letters to city officials.
@@ -29,9 +42,8 @@ Notwithstanding the provisions listed previously in this section, information su
 The City of Pasadena is required by the Health Insurance Portability and Accountability Act of 1996 (HIPAA) to maintain the privacy of certain confidential health care information, known as “Protected Health Information,” or “PHI,” and to provide you with a notice of the City’s legal duties and privacy practices regarding your PHI. This Notice describes your legal rights, advises you of the City’s privacy practices, and explains the circumstances under which the City is permitted to use and disclose PHI about you.     
 The HIPAA notice can be downloaded from the following links:
 
-[HIPAA notice (English)](https://web.archive.org/web/20080515221220id_/http%3A//cityofpasadena.net/pdf/hipaa.pdf)  
-[HIPAA notice (Spanish)](https://web.archive.org/web/20080515221220id_/http%3A//cityofpasadena.net/pdf/hippaSpanish.pdf)  
+[HIPAA notice (English)](https://web.archive.org/web/20081221145220id_/http%3A//cityofpasadena.net/pdf/hipaa.pdf)  
+[HIPAA notice (Spanish)](https://web.archive.org/web/20081221145220id_/http%3A//cityofpasadena.net/pdf/hippaSpanish.pdf)  
 
 
-|    
----|---|---
+|  
