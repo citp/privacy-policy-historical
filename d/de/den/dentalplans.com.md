@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dentalplans.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630010815id_/http%3A//www.dentalplans.com/moreinfo/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dentalplans.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221100343id_/http%3A//www.dentalplans.com/moreinfo/privacystatement.asp) for the most accurate reproduction.*
 
 # DentalPlans.com Privacy Policy
 
