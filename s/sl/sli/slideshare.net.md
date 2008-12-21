@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the slideshare.net privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613121339id_/http%3A//www.slideshare.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideshare.net privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221130352id_/http%3A//www.slideshare.net/privacy) for the most accurate reproduction.*
 
 # SlideShare » Privacy Policy (SlideShare is the best place to share powerpoint presentations)
 
 SlideShare Privacy Policy
 
-Your privacy is important to us, as it is to you. We will not give, sell or rent your email address to any third party and at time, for any reason.
+Your privacy is important to us, as it is to you. We will not give, sell or rent your email address to any third party at any time, for any reason.
 
 When you register with us, we ask you to provide your name, email address and an account password. We use your email address to send administrative email messages to you from time to time. For certain premium services, we also request credit card or other payment account information.
 
@@ -32,8 +32,7 @@ Please note that this privacy policy may change from time to time. We will not r
 
 If you have any questions about this policy, please feel free to [contact us](https://web.archive.org/feedback) or to write to us at:
 
-**Jonathan Boutelle** ,   
-Principal, Uzanto Consulting LLC,   
+Jonathan Boutelle,   
 **SlideShare Inc.**  
 739 Bryant Street,   
 San Francisco, CA 94107,   
