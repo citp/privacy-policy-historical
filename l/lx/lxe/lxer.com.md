@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lxer.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210161821id_/http%3A//lxer.com/module/pages/v/4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lxer.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221132904id_/http%3A//lxer.com/module/pages/v/4) for the most accurate reproduction.*
 
 # LXer: Privacy Policy
 
