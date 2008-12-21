@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technocash.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622072744id_/http%3A//www.technocash.com/pages/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technocash.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221143112id_/http%3A//www.technocash.com/pages/privacy.cfm) for the most accurate reproduction.*
 
 # Technocash for Moving Money
 
@@ -36,7 +36,7 @@ We may use your personal information to offer you products and services we belie
 
 #### Required disclosure of information
 
-As you would expect, certain organizations, government agencies and regulatory authorities have legal access to our data and we fully co-operate with bona fide entities requesting information. These may include, for example, Reserve Banks, State or Federal police, and other appropriate Australian and international Government and non-Government authorities, agencies and organisations.
+As you would expect, certain organizations, government agencies and regulatory authorities have legal access to our data and we fully co-operate with bona fide entities requesting information. These may include, for example, Central Banks, State or Federal police, and other appropriate Australian and international Government and non-Government authorities, agencies and organisations.
 
 ### Security of your personal information
 
@@ -86,6 +86,6 @@ We can process any complaint confidentially at your request, and our complaints 
 
 Our aim is to resolve complaints quickly, and we are confident that most problems should be easily resolved within a short period of time. A simple complaint should be resolved with 2 working days and more complex matters within 5 working days. If more time is required to resolve or investigate your complaint you will be advised by your nominated preferred contact method.
 
-If you feel your complaint has not been satisfactorily handled or resolved following this process, you can contact us for more details about our independent External Dispute Resolution scheme. Technocash is a member of the Banking and Financial Services Ombudsman.
+If you feel your complaint has not been satisfactorily handled or resolved following this process, you can contact us for more details about our independent External Dispute Resolution scheme. Technocash is a member of the Financial Ombudsman Service.
 
 To submit a complaint, please fill in the [feedback form at www.technocash.com](http://www.technocash.com/pages/feedback.cfm). Alternatively, you can contact us by phoning 1300 137 494 or +612 96871900, or sending us a fax to +612 96871911. You can also address your complaint in writing to "Feedback" at: PO BOX 618 Parramatta NSW 2124 Australia.
