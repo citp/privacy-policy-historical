@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andalucia.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517072930id_/http%3A//andalucia.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andalucia.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222000012id_/http%3A//www.andalucia.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Andalucia.com - Copyright Information
 
