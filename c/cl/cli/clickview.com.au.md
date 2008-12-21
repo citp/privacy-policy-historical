@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clickview.com.au privacy policy that was archived on 2008-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080315062942id_/http%3A//www.clickview.com.au/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickview.com.au privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221205041id_/http%3A//www.clickview.com.au/privacy.php) for the most accurate reproduction.*
 
-# ClickView - the standard in digital video learning
+# ClickView - the digital video solution for schools
 
 We respect and protect the privacy of those who visit or use our Website. ClickView understands and appreciates that you, as a ClickView Online visitor, are concerned about the confidentiality and security of information ClickView may collect about you. When we collect information from you, we want you to know how it is used.
 
@@ -39,4 +39,4 @@ At times we may utilise email to: conduct online surveys, respond to a site visi
 We are committed to protecting the information you give us, so we implement the appropriate safeguards to do so. Within ClickView your information is stored in password-protected, limited-access servers. Wherever possible, ClickView servers reside behind a firewall that maintains tight controls on any access to the system from both our internal network and the Internet. Employees are made aware of our privacy policy and are trained on procedures to handle privacy-related concerns. 
 
 **Who do I contact if I am concerned about privacy?**  
-Please send us an email at [clickview@clickview.com.au](mailto:clickview@clickview.com.au)
+Please send us an email at 
