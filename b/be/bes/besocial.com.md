@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the besocial.com privacy policy that was archived on 2008-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080308221727id_/http%3A//www.besocial.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besocial.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221185512id_/http%3A//www.besocial.com/content/privacy) for the most accurate reproduction.*
 
 # BeSocial | Privacy Policy
 
@@ -123,5 +123,4 @@ If you have any questions about our Privacy Policy or our information-handling p
 Privacy Officer  
 BeSocial.com  
 2100 Bloor St.W, Suite 6  
-Toronto, ON, M6S 5A5  
-Legal [at] BeSocial.com
+Toronto, ON, M6S 5A5
