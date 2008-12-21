@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fetishmoney.com privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409234621id_/http%3A//www.fetishmoney.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetishmoney.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221184238id_/http%3A//www.fetishmoney.com/privacy) for the most accurate reproduction.*
 
 # Contact us
 
