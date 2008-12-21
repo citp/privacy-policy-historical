@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rimweb.in privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526130649id_/http%3A//rimweb.in/index.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rimweb.in privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221220848id_/http%3A//www.rimweb.in/index.php%3Fprivacy) for the most accurate reproduction.*
 
 # RIMweb.in :: Reliance Mobile ( Reliance IndiaMobile ) Discussion Forums
 
