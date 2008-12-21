@@ -1,41 +1,64 @@
-<!--The following is the downloaded HTML source of the besocial.com privacy policy that was archived on 2008-03-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080308221727id_/http%3A//www.besocial.com/content/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the besocial.com privacy policy that was archived on 2008-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081221185512id_/http%3A//www.besocial.com/content/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>BeSocial | Privacy Policy</title>
 <meta name="keywords" content="">
 <meta name="description" content="Privacy policy of besocial.com">
 <meta name="Robots" content="">
-<meta name="revisit-after" content="">
-<link rel="stylesheet" type="text/css" media="screen,projection" href="/css/main.css">
-<link rel="stylesheet" type="text/css" media="screen,projection" href="/css/tinyplanet.css">
-<!-- for when it's time to turn on scriptaculous
-<script src="/admin/special/js/prototype.js" type="text/javascript"></script>
-<script src="/admin/special/js/script-ous/scriptaculous.js?load=effects" type="text/javascript"></script>
--->
+<meta name="revisit-after" content="	">
+<script src="./prototype.js" type="text/javascript"></script>
+<script src="./prototip.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+	/*	document.observe('dom:loaded', function() {
+			$$('li.nologon').each(function(element) {
+				new Tip(element, 'Please sign in to access the limited preview release of BeSocial, or sign up for an invitation to help test BeSocial. Thanks.',
+					{ 
+					title: "Sign In Required",
+					style: 'protogrey'
+					}
+				 );	
+			});
+		});*/
+	</script>
+<link rel="stylesheet" type="text/css" media="screen,projection" href="./css/main.css">
+<link rel="stylesheet" type="text/css" media="screen,projection" href="./css/tinyplanet.css">
+<link rel="stylesheet" type="text/css" media="screen,projection" href="./css/prototip.css">
+
 </head>
 <body>
 <div id="all">
   <div id="header">
-    <div id="logo"><a href="#"><img src="/images/logo.gif" alt="BeSocial" title="BeSocial"></a><span>BeSocial</span></div>
+    <div id="logo"><a href="#"><img src="/images/logo2.gif" alt="BeSocial" title="BeSocial"></a><span>BeSocial</span></div>
     <div id="top_menu">Welcome, Andrew &nbsp;&nbsp;[<a href="#">My Account</a>]<span>|</span><a href="#">Shopping Cart</a><span>|</span><a href="#">Help</a></div>
   </div>
   <div id="menu_block">
     <div class="top_shape"></div>
     <ul id="menu">
       <li class="m1_r"><a href="/"><span>Home</span></a></li>
-      <li class="nologon_2"><a onclick="alert('Not available until you log in.')" href="#"><span>Shop</span></a></li>
-      <li class="nologon_3"><a onclick="alert('Not available until you log in.')" href="#"><span>Browse</span></a></li>
-      <li class="nologon_4"><a onclick="alert('Not available until you log in.')" href="#"><span>Share</span></a></li>
-      <li class="nologon_5"><a onclick="alert('Not available until you log in.')" href="#"><span>How It Works</span></a></li>
-      <li class="nologon_6"><a onclick="alert('Not available until you log in.')" href="#"><span>My Account</span></a></li>
+      <li class="nologon nologon_2" id="tab2_main_nav"><a href="#"><span>Shop</span></a></li>
+      <li class="nologon nologon_3" id="tab3_main_nav"><a href="#"><span>Browse</span></a></li>
+      <li class="nologon nologon_4" id="tab4_main_nav"><a href="#"><span>Share</span></a></li>
+      <li class="nologon nologon_5" id="tab5_main_nav"><a href="#"><span>How It Works</span></a></li>
+      <li class="nologon nologon_6" id="tab6_main_nav"><a href="#"><span>My Account</span></a></li>
     </ul>
+	<script type="text/javascript" language="javascript">
+		for(i=2;i<7;i++){
+			 new Tip('tab'+i+'_main_nav', 'Please sign in to access the limited preview release of BeSocial, or sign up for an invitation to help test BeSocial. Thanks.',
+	 			{ 
+				title:"Sign In Required",
+				style: 'protogrey'
+				}
+		 	 );		
+		}
+	</script>
     <div id="search_block">
       <form action="">
         <div class="search_input_bg">
-          <input name="" type="text">
+          <input name="searchinput" type="text">
         </div>
-        <input type="image" src="/images/b_search.gif" class="b_search">
+        <input type="image" src="/images/b_search.gif" class="b_search" name="searchsubmit">
       </form>
       <div class="clear"></div>
     </div>
@@ -177,8 +200,7 @@ If you have any questions about our Privacy Policy or our information-handling p
 Privacy Officer<br>
 BeSocial.com<br>
 2100 Bloor St.W, Suite 6<br>
-Toronto, ON, M6S 5A5<br>
-Legal [at] BeSocial.com</div>
+Toronto, ON, M6S 5A5<br></div>
 
 
 
@@ -200,5 +222,6 @@ pageTracker._trackPageview();
 </script>
 
 
-<p>0.207 page time</p>
+
+
 </body></html>
