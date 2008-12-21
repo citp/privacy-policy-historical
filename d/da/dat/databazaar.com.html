@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the databazaar.com privacy policy that was archived on 2008-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080630231217id_/http%3A//www.databazaar.com/Inkjet_Cartridge/UserTemplate/Privacy_Policy_97.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the databazaar.com privacy policy that was archived on 2008-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081221062951id_/http%3A//www.databazaar.com/Inkjet_Cartridge/UserTemplate/Privacy_Policy_97.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Databazaar Privacy Policy</title>
@@ -24,13 +24,17 @@ alert("Press 'Ctrl+p' on your keyboard to print article.")
 }
 }
 </script>
- <script type="text/javascript">
+<script type="text/javascript">
   if (screen.width > 850){
     document.write('<LINK href="/newcssjs/databazaar-07-center.css" type="text/css" rel="stylesheet">')
     }else {
     document.write('<LINK href="/newcssjs/databazaar-07.css" type="text/css" rel="stylesheet">')
     }
 </script><link href="/newcssjs/databazaar-07.css" type="text/css" rel="stylesheet">
+<style type="text/css">
+.linelist ul {margin-left: 0; padding-left: 0; display: inline;} 
+.linelist ul li {margin-left: 0; padding-right: 5px; display: inline;}
+</style>
 <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/dbz">
 <!--[if IE]>
 <style>
@@ -43,7 +47,26 @@ margin-left: -41px;
 <script src="/SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
 <link href="/SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
 <link href="/SpryAssets/SpryMenuBarVertical.css" rel="stylesheet" type="text/css">
-
+<script type="text/javascript" src="http://yui.yahooapis.com/2.5.2/build/yuiloader/yuiloader-beta-min.js"></script>
+<script>
+var loader = new YAHOO.util.YUILoader({
+    require: ["connection", "dom"],
+    loadOptional: false,
+    onSuccess: function() {
+        return true;
+    }
+});
+loader.insert();
+</script>
+<script src="/JS/inkfinder.js"></script>
+<script type="text/javascript">
+function expand() {
+document.getElementById('model').style.width = '200px';
+}
+function contract() {
+document.getElementById('model').style.width = '124px';
+}
+</script>
 </head>
 <body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
  
@@ -85,7 +108,7 @@ margin-left: -41px;
         <li><a href="http://www.databazaar.com/Inkjet_Cartridge/Catalog/Citizen_6096.html">Citizen Toner Cartridges</a></li>
         <li><a href="http://www.databazaar.com/Inkjet_Cartridge/Catalog/Dell_8037.html">Dell Toner Cartridges</a></li>
         <li><a href="http://www.databazaar.com/Inkjet_Cartridge/Catalog/Epson_3602.html">Epson Toner Cartridges</a></li>
-        <li><a href="http://www.databazaar.com/Inkjet_Cartridge/Catalog/Fujitsu_5997.html">Fujitsu Toner Cartridges</a></li>
+        <li><a href="http://www.databazaar.com/Inkjet_Cartridge/Catalog/_.html">Fujitsu Toner Cartridges</a></li>
         <li><a href="http://www.databazaar.com/Inkjet_Cartridge/Catalog/Genicom_6151.html">Genicom Toner Cartridges</a></li>
         <li><a href="http://www.databazaar.com/Inkjet_Cartridge/Catalog/Hewlett-Packard_3600.html">HP Toner Cartridges</a></li>
         <li><a href="http://www.databazaar.com/Inkjet_Cartridge/Catalog/IBM_3608.html">IBM Toner Cartridges</a></li>
@@ -243,7 +266,7 @@ margin-left: -41px;
 <div id="search" align="center">
 <form name="searchform" action="http://www.databazaar.com/databazaar.storefront/EN/usertemplate/35/UserTemplate/506" method="post">
   <label>
-  <span class="white">Search:</span>   <input type="text" name="keyword">
+  <span class="white">Search:</span>   <input type="text" name="keyword" onclick="this.value = '';" value="Manufacturer Product No., Printer Model or any Word" style="color:#808080" size="50">
   </label>
   <label>
   <input name="Startsearch" type="image" src="/isroot/Stores/DataBazaar/SiteImages/toppane/search.gif" align="top">
@@ -326,58 +349,100 @@ margin-left: -41px;
     </li>
     </ul>
   <table width="150" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-    <td class="shopBrand" valign="bottom"><img src="/isroot/Stores/DataBazaar/SiteImages/leftpane/shop_by_brand.gif" alt="Shop By Brands" width="104" height="14"></td>
+
+<tbody><tr> 
+<td>   
+<form id="finderform" name="finderform">
+<table style="background-color: #FFCA00;">
+<tbody><tr>
+<td colspan="2"><img src="/isroot/Stores/DataBazaar/SiteImages/inkfinder/supply-finder_header.jpg"></td>
+</tr>
+<tr>
+<td><img src="/isroot/Stores/DataBazaar/SiteImages/inkfinder/supply-finder_1.jpg"></td>
+<td><select name="manufacturer" id="manufacturer" onchange="document.finderform.modeltype.disabled=false;" style="width: 124px;">
+    <option>Select Brand</option>
+        <option value="Brother">Brother</option>
+        <option value="Canon">Canon</option>
+        <option value="Epson">Epson</option>
+        <option value="Hewlett-Packard">Hewlett-Packard </option>
+        <option value="Lexmark">Lexmark</option>
+        <option value="Konica">Konica</option>
+        <option value="Minolta">Minolta</option>
+        <option value="Xerox-Tektronix">Xerox-Tektronix</option>
+<option>---------------</option>
+        <option value="Belkin">Belkin</option>
+        <option value="Citizen">Citizen</option>
+        <option value="DEC">DEC</option>
+        <option value="Dell">Dell</option>
+        <option value="Emtec">Emtec</option>
+        <option value="Exabyte">Exabyte</option>
+        <option value="Fellowes">Fellowes</option>
+        <option value="Fuji">Fuji</option>
+        <option value="Fujitsu">Fujitsu</option>
+        <option value="Genicom">Genicom</option>
+        <option value="IBM">IBM</option>
+        <option value="Imation">Imation</option>
+        <option value="Intuix">Intuix</option>
+        <option value="Iomega">Iomega</option>
+        <option value="Kensington">Kensington</option>
+        <option value="Kodak">Kodak</option>
+        <option value="Kyocera">Kyocera</option>
+        <option value="Lanier">Lanier</option>
+        <option value="Mannesmann Tally">Mannesmann Tally</option>
+        <option value="Maxell">Maxell</option>
+        <option value="Memorex">Memorex</option>
+        <option value="MicroMICR">MicroMICR</option>
+        <option value="Mita">Mita</option>
+        <option value="Okidata">Okidata</option>
+        <option value="Panasonic">Panasonic</option>
+        <option value="Pitney-Bowes">Pitney-Bowes</option>
+        <option value="PQI">PQI</option>
+        <option value="QMS">QMS</option>
+        <option value="Quantum">Quantum</option>
+        <option value="Ricoh">Ricoh</option>
+        <option value="Samsung">Samsung</option>
+        <option value="Sharp">Sharp</option>
+        <option value="Sony">Sony</option>
+        <option value="Toshiba">Toshiba</option>
+</select></td>
+</tr>
+<tr>
+    <td><img src="/isroot/Stores/DataBazaar/SiteImages/inkfinder/supply-finder_2.jpg"></td>
+<td><select name="modeltype" id="modeltype" disabled="true" onchange="doStep3();" style="width: 124px;">
+    <option>Select Type</option>
+        <option value="Ink Cartridges">Inkjet Printer</option>
+        <option value="Laser Toners">Laser Printer</option>
+        <option value="Copier Supplies">Copier</option>
+        <option value="Fax Supplies">Fax</option>
+        <option value="Printer Ribbons">Dotmatrix Printer</option>
+        <option value="Media Storage">Storage Device</option>
+        <option>Cables</option>
+</select></td>
+</tr>
+<tr>
+    <td><img src="/isroot/Stores/DataBazaar/SiteImages/inkfinder/supply-finder_3.jpg"></td>
+<td><select name="model" id="model" disabled="true" style="width: 124px;" onmousedown="expand();" onchange="contract();">
+<option>Select Model</option>
+</select></td>
+</tr>
+ <tr>   
+<td colspan="2"><a id="goto" style="text-decoration: none; " onclick="doSub();"><img src="/isroot/Stores/DataBazaar/SiteImages/inkfinder/supply-finder_button.jpg" id="submitbuttonimage"></a></td>
+</tr>
+</tbody></table>
+</form>
+</td>
     </tr>
-    <tr>
-      <td class="navYellow"><img src="/isroot/Stores/DataBazaar/SiteImages/leftpane/arrow.gif" width="5" height="9" class="grey-img"><a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/HP_Models_40.html" class="grey" style="text-decoration:none">HP</a></td>
-    </tr>
-    <tr>
-      <td class="navYellow"><img src="/isroot/Stores/DataBazaar/SiteImages/leftpane/arrow.gif" width="5" height="9" class="grey-img"><a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Brother_Models_46.html" class="grey" style="text-decoration:none">Brother</a></td>
-    </tr>
-    <tr>
-      <td class="navYellow"><img src="/isroot/Stores/DataBazaar/SiteImages/leftpane/arrow.gif" width="5" height="9" class="grey-img"><a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Canon_Models_43.html" class="grey" style="text-decoration:none">Canon</a></td>
-    </tr>
-    <tr>
-      <td class="navYellow"><img src="/isroot/Stores/DataBazaar/SiteImages/leftpane/arrow.gif" width="5" height="9" class="grey-img"><a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Epson_Models_42.html" class="grey" style="text-decoration:none">Epson</a></td>
-    </tr>
-    <tr>
-      <td class="navYellow"><img src="/isroot/Stores/DataBazaar/SiteImages/leftpane/arrow.gif" width="5" height="9" class="grey-img"><a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Dell_Ink_Toner_582.html" class="grey" style="text-decoration:none">Dell</a></td>
-    </tr>
-    <tr>
-      <td class="navYellow"><img src="/isroot/Stores/DataBazaar/SiteImages/leftpane/arrow.gif" width="5" height="9" class="grey-img"><a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Manufacturer_Imation_48.html" class="grey" style="text-decoration:none">Imation</a></td>
-    </tr>
-    <tr>
-      <td class="navYellow"><img src="/isroot/Stores/DataBazaar/SiteImages/leftpane/arrow.gif" width="5" height="9" class="grey-img"><a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Micro_MICR_Toner_87.html" class="grey" style="text-decoration:none">MicroMICR</a></td>
-    </tr>
-    <tr>
-      <td class="navYellow"><img src="/isroot/Stores/DataBazaar/SiteImages/leftpane/arrow.gif" width="5" height="9" class="grey-img"><a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Lexmark_Models_44.html" class="grey" style="text-decoration:none">Lexmark</a></td>
-    </tr>
-    <tr>
-      <td class="navYellow"><img src="/isroot/Stores/DataBazaar/SiteImages/leftpane/arrow.gif" width="5" height="9" class="grey-img"><a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Samsung_Fax_Laser_Toner_Cartridge_261.html" class="grey" style="text-decoration:none">Samsung</a></td>
-    </tr>
-    <tr>
-      <td class="navYellow"><img src="/isroot/Stores/DataBazaar/SiteImages/leftpane/arrow.gif" width="5" height="9" class="grey-img"><a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Panasonic_Models_45.html" class="grey" style="text-decoration:none">Panasonic</a></td>
-    </tr>
-    <tr>
-      <td class="navYellow"><img src="/isroot/Stores/DataBazaar/SiteImages/leftpane/arrow.gif" width="5" height="9" class="grey-img"><a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Sharp_Models_53.html" class="grey" style="text-decoration:none">Sharp</a></td>
-    </tr>
-    <tr>
-      <td class="navYellow"><img src="/isroot/Stores/DataBazaar/SiteImages/leftpane/arrow.gif" width="5" height="9" class="grey-img"><a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Sony_Models_54.html" class="grey" style="text-decoration:none">Sony</a></td>
-    </tr>
-    <tr>
-      <td class="navYellow"><img src="/isroot/Stores/DataBazaar/SiteImages/leftpane/arrow.gif" width="5" height="9" class="grey-img"><a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Xerox-Tektronix_Models_50.html" class="grey" style="text-decoration:none">Xerox</a></td>
-    </tr>
-    <tr>
-     <td align="right" class="navYellowb"><a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Ink_Toner_Storage_Brands_541.html" class="greyb" style="text-decoration:none">More Brands</a> <img class="mr10" src="/isroot/Stores/DataBazaar/SiteImages/leftpane/redarrow.gif" width="4" height="7" hspace="4" align="bottom"></td>
-    </tr>
+ 
+
  </tbody></table><br>
+
 <div align="center">
-<img src="/isroot/Stores/DataBazaar/SiteImages/rightpane/Top500.gif"><br><br>
-<img src="/isroot/Stores/DataBazaar/SiteImages/rightpane/crest_small2.gif"><br><br>
+<img src="/isroot/Stores/DataBazaar/SiteImages/rightpane/Top500.gif" border="0"><br><br>
+<img src="/isroot/Stores/DataBazaar/SiteImages/rightpane/crest_small2.gif" border="0"><br><br>
 <a href="http://www.safeshoppingnetwork.com/detail.cfm?lstid=4750" target="_blank"><img src="http://www.databazaar.com/isroot/Stores/DataBazaar/SiteImages/images2/ssn2.gif" border="0"></a>
 </div>
 </div>
+
 </td> <!-- Left Pane -->
 <td valign="top" align="center"><!-- Middle Pane Starts Here -->    
 <div id="product-content">
@@ -450,8 +515,7 @@ oney@databazaar.com<br>
           <li><a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Credit_Card_Security_104.html" class="helplink">Credit Card Security</a></li>
           <li><a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Technical_Support_98.html" class="helplink">Technical Support</a>    </li>
            <li><a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Printing_Resources_613.html" class="helplink">Resources</a></li>
-           <li><a href="http://www.databazaar.com/Inkjet_Cartridge/Reviews/pwr/product-reviews/c/index.html" class="helplink">Product Reviews</a></li>
-            </ul></td>
+           </ul></td>
       <td class="cs" valign="top" width="33%"><strong>Company Info 
         </strong>
         <ul>
@@ -460,7 +524,6 @@ oney@databazaar.com<br>
           <li><a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Management_Team_142.html" class="helplink">Management</a></li>
           <li><a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Investor_Relations_121.html" class="helplink">Investor Relations</a></li>
           <li><a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Scholarship_Fund_645.html" class="helplink">Scholarship Fund</a> </li>
-          <li><a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Careers.html" class="helplink">Careers</a> </li>
           <li><a href="http://blog.databazaar.com" class="helplink">Blog</a></li>
           <li><a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Contact_Us_322.html" class="helplink">Contact Us</a></li>
                      
@@ -498,6 +561,10 @@ oney@databazaar.com<br>
 <!-- End Help Center -->
 <div align="center"> <a href="http://www.databazaar.com/Inkjet_Cartridge/Catalog/Ink_Cartridges_1002.html">Ink Cartridges</a> | <a href="http://www.databazaar.com/Inkjet_Cartridge/Catalog/Laser_Toners_3598.html">Toner Cartridges</a> | <a href="http://www.databazaar.com/Inkjet_Cartridge/Catalog/Copier_Supplies_1000.html">Copier Supplies</a> | <a href="http://www.databazaar.com/Inkjet_Cartridge/Catalog/Fax_Supplies_1001.html">Fax Supplies</a> | <a href="http://www.databazaar.com/Inkjet_Cartridge/Catalog/Cables_8068.html">Cables</a> | <a href="http://www.databazaar.com/Inkjet_Cartridge/Catalog/Specialty_Paper_4502.html">Specialty Paper</a> </div>
 <div align="center"> <a href="http://www.databazaar.com/Inkjet_Cartridge/Catalog/Media_Storage_1004.html">Storage Media</a> | <a href="http://www.databazaar.com/Inkjet_Cartridge/Catalog/Printer_Ribbons_1005.html">Printer Ribbons</a> | <a href="http://www.databazaar.com/Inkjet_Cartridge/Catalog/Parts_and_Accessories_4501.html">Parts &amp; Accessories</a> | <a href="http://www.databazaar.com/Inkjet_Cartridge/Catalog/Printers_4503.html">Printers</a> | <a href="http://www.databazaar.com/Inkjet_Cartridge/Catalog/Projectors_1402.html">Projectors</a> | <a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Site_Map_162.html">Site Map</a></div>
+<br>
+<div align="center"> <a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/HP_Models_40.html">HP</a> | <a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Brother_Models_46.html">Brother</a> | <a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Canon_Models_43.html">Canon</a> | <a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Epson_Models_42.html">Epson</a> | <a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Lexmark_Models_44.html">Lexmark</a> | <a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Xerox-Tektronix_Models_50.html">Xerox</a> | <a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Dell_Ink_Toner_582.html">Dell</a> </div>
+<div align="center"> <a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Manufacturer_Imation_48.html">Imation</a> | <a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Samsung_Fax_Laser_Toner_Cartridge_261.html">Samsung</a> | <a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Panasonic_Models_45.html">Panasonic</a> | <a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Micro_MICR_Toner_87.html">MicroMICR</a> | <a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Sharp_Models_53.html">Sharp</a> | <a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Sony_Models_54.html">Sony</a> | <a href="http://www.databazaar.com/Inkjet_Cartridge/UserTemplate/Ink_Toner_Storage_Brands_541.html">More Brands</a></div>
+
 <!-- Begin Footer -->
 <div style="padding:5px">
 <table width="595" border="0" cellpadding="5" cellspacing="0">
@@ -540,7 +607,7 @@ window.open('http://www.databazaar.com/databazaar.storefront/EN/usertemplate/35/
 <td align="center">
 <!-- BEGIN: BizRate.com Medal (125x73 pixels) -->
 <a href="http://www.bizrate.com/merchant/coe__mid--19252.html" target="bizrate.com">
-<img src="http://www.databazaar.com/isroot/Stores/DataBazaar/SiteImages/images2/bizrate_2007.gif" alt="BizRate GOLD HONOREE" width="110" height="57" align="middle" border="0" target="_blank"></a><br>
+<img src="/isroot/Stores/DataBazaar/SiteImages/images2/bizrate_2008.gif" alt="BizRate GOLD HONOREE" width="110" height="57" align="middle" border="0" target="_blank"></a><br>
 <!-- END: BizRate.com Medal (125x73 pixels) -->
 </td>
 <td align="center">
@@ -553,7 +620,7 @@ window.open('http://www.databazaar.com/databazaar.storefront/EN/usertemplate/35/
 <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.databazaar.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.databazaar.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
 <!-- END SCANALERT CODE -->
   </td>
-  <td align="center"><a href="http://www.bbbonline.org/cks.asp?id=10207108244323685" target="new"><img src="http://www.databazaar.com/isroot/Stores/DataBazaar/SiteImages/Images1/bbb-online.gif" width="91" height="35" border="0"></a></td>
+  <td align="center"><a href="http://www.bbbonline.org/cks.asp?id=10207108244323685" target="new"><img src="/isroot/Stores/DataBazaar/SiteImages/Images1/bbb-online.gif" alt="Click to verify BBB accreditation and to see a BBB report." width="90" height="34" border="0"></a></td>
   </tr>
 </tbody></table>
 <div align="center">
@@ -576,7 +643,7 @@ window.open('http://www.databazaar.com/databazaar.storefront/EN/usertemplate/35/
 </div>
 <script type="text/javascript">
 var urlf = document.location.href;
-var sid = "4863b84905ced06b27170a00013505dc";
+var sid = "494a77f400c9de7827170a00013505f1";
 urlf = urlf.replace(sid,"EN");
 urlf = urlf.replace(/\/View/gi,"");
 function bookmarksite(url, title){
