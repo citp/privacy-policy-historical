@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adameve.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610093050id_/http%3A//www.adameve.com/t-faq.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adameve.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221080920id_/http%3A//www.adameve.com/t-faq.aspx) for the most accurate reproduction.*
 
 # Frequently Asked Questions
 
@@ -124,8 +124,6 @@ Email subscription preference is at the email address level. For each email addr
 Can I create an online account and not receive marketing or promotional emails from Adam & Eve?  
 Yes, by un-checking the email address subscription preference box and clicking submit you will still create an online account; however you will not receive sales and special offers from Adam & Eve. [Click here to create an online account now.](https://www.adameve.com/CreateAccount.aspx)
 
-Customer Service Frequently Asked Questions
-
   * How can I contact customer service?
 
 Please call Customer Service at 1-800-765-2326  
@@ -212,13 +210,11 @@ The problem could be as simple as not using lower case characters or it is proba
 
 
 
-> Follow this link to your [My Account](http://sfadmin/AE/sfcontrol/https://www.adameve.com/account.aspx) section and select the option to not receive printed catalogs. Your name will be removed from our list of catalog mailings. Once you've asked to be removed from our mailing list, it is very difficult to get back on it. 
+> Follow this link to your [My Account](https://www.adameve.com/account.aspx) section and select the option to not receive printed catalogs. Your name will be removed from our list of catalog mailings. Once you've asked to be removed from our mailing list, it is very difficult to get back on it. 
 
 * * *
 
 [Top](http://www.adameve.com/t-faq.aspx#top) • [Email Opt-In FAQ](http://www.adameve.com/t-faq.aspx#email) • [Customer Service](http://www.adameve.com/t-faq.aspx#custserv) • [My Favorites](http://www.adameve.com/t-faq.aspx#wishlist) • [Guide to Safe Sex](http://www.adameve.com/t-faq.aspx#safe)
-
-This Site Is Secure For Credit Card Transactions
 
 This site is secure from others stealing your creditcard information. Your credit card and personal information are code-encrypted for security. 
 
@@ -267,8 +263,6 @@ As far as we know, not a single dollar has been lost to electronic theft of a cr
 
 [Top](http://www.adameve.com/t-faq.aspx#top) • [Email Opt-In FAQ](http://www.adameve.com/t-faq.aspx#email) • [Customer Service](http://www.adameve.com/t-faq.aspx#custserv) • [Security](http://www.adameve.com/t-faq.aspx#security) • [Guide to Safe Sex](http://www.adameve.com/t-faq.aspx#safe)
 
-My Favorites Frequently Asked Questions
-
   * What is My Favorites? 
 
 My Favorites is a convenient place for you to store items that you are interested in but aren't sure you want to purchase yet. 
@@ -297,8 +291,6 @@ You can create 1 My Favorites list.
 > Sometimes items get removed from our online database or we no longer carry them. So, in order to make things as easy as possible for you, we remove them from the online catalog entirely, including your favorites list. If we bring the item back, then we'll make sure to return it to your favorites list! 
 
 [Top](http://www.adameve.com/t-faq.aspx#top) • [Email Opt-In FAQ](http://www.adameve.com/t-faq.aspx#email) • [Customer Service](http://www.adameve.com/t-faq.aspx#custserv) • [Security](http://www.adameve.com/t-faq.aspx#security) • [My Favorites](http://www.adameve.com/t-faq.aspx#wishlist)
-
-Guide to Safe Sex
 
   * Why should you practice safe sex? 
 
