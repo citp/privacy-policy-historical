@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmc.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629073259id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmc.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221072123id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -51,6 +51,8 @@ GM may obtain information about you and your vehicle in a number of ways: For ex
 
 Business Reply Cards and sweepstakes entries you complete at an event or in response to a marketing mailing we send may also ask you to answer some of these same questions so we can tailor what we send to you to your specific interests.
 
+In limited circumstances, you may be asked to provide GM with your social security number. For example, if you win a sweepstakes or receive compensation from GM, GM is required to include your social security number on government tax forms. GM maintains technical, administrative, and physical safeguards designed to protect the confidentiality of your social security number, and to prohibit the unlawful disclosure of and restrict access to this information.
+
 In addition, our GM affiliates, GM dealers, GM merchandise licensees, and other sources such as those that provide lists of potential vehicle purchasers or current owners may give the information they have regarding you or your vehicle to us so that we may serve your needs better.
 
 ### Uses
@@ -89,7 +91,7 @@ If you have concerns or questions regarding GM's consumer privacy practices, ple
 
 We retain the right to change this Privacy Statement. We will post changes to this page in a timely manner.
 
-This statement is effective as of 4/1/2007.
+This statement is effective as of 10/1/2008.
 
 ### Supplemental Privacy Information
 
@@ -187,10 +189,10 @@ Our GM affiliates who may have received your information are as follows:
 
 
   * GMAC Insurance
-  * Specialty Markets & Products
-  * GM Motor Club, Inc./GM Protection Plan
-  * P.O. Box 3580
-  * Southfield, MI 48037-3580
+  * Dealer Products and Services
+  * GM Protection Plan
+  * 300 Galleria Officentre - Suite 300
+  * Southfield, MI 48034 
 
 
   * GMAC Mortgage Corporation
