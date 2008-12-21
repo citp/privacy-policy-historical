@@ -1,78 +1,89 @@
-> *The following text is extracted and transformed from the truelocal.com.au privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019153622id_/http%3A//www.truelocal.com.au/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truelocal.com.au privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221162151id_/http%3A//www.truelocal.com.au/cms/privacy-policy) for the most accurate reproduction.*
 
-# truelocal - Search Australia's fastest growing business directory
+# TrueLocal - Search Australia's fastest growing business directory
 
-## truelocal.com.au Privacy Policy
+### What is TrueLocal’s privacy policy all about?
 
-#### Overview
+This part of the website explains how TrueLocal handles your personal information. Your privacy is important to us and so we want to show you the measures we’ve taken to comply with the National Privacy Principles in the Commonwealth’s Privacy Act 1988.
 
-This website is owned by Australian Local Search Pty Limited (ALS), trading as truelocal.com.au, and is operated by News Digital Media Pty Ltd on ALS’s behalf.  Together in this policy they will be referred to as News. 
+This section will also answer any queries you might have about how we collect, use and disclose information.
 
-News recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers.
+For the purposes of the privacy policy, please bear in mind this website is owned by Australian Local Search Pty Limited (ALS), trading as truelocal.com.au, and is operated by News Digital Media Pty Ltd on ALS’s behalf. Together they will be referred to as ’TrueLocal’.
 
-We are bound by the National Privacy Principles in the Privacy Act 1988 (Cth) in relation to the handling of personal information. Where appropriate we will handle personal information relying on the media exemption (but complying with the Australian Press Council Privacy Standards), related bodies corporate exemption and the employee exemption in the Privacy Act.
+The word ’customers’ includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers.
 
-#### Personal information
+If you have any questions after reading this policy, please simply just get in touch with the Privacy Officer.
 
-We collect personal information when we provide our services to you. Generally we will tell you why we are collecting information when we collect it and how we plan to use it or these things will be obvious when we collect the information. We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us. We may also acquire lists from other sources, both from other companies and from other public documents.
+### What information are you collecting about me?
 
-#### Use of information
+The sort of information we collect includes such things as your name, address, telephone number, and in some instances, your financial details. When you are online, we collect information regarding the pages within our network that you have visited and what you click on.
 
-We usually collect personal information such as your name, address, telephone number, and in some instances, your financial details. When you are online, we collect information regarding the pages within our network which you visit and what you click on. As a general rule we do not collect sensitive information. However, if we do, it will usually be for the purposes of providing our goods or services and if the law requires us to, we will seek your consent to collect it.
+This information is collected as we provide our services to you. We’ll always tell you why we are collecting information when we collect it and how we plan to use it.
 
-We use your information to provide our services to you, to fulfill administrative functions associated with these services, for example billing, to enter into contracts with you or third parties and for marketing and client relationship purposes. Where your personal information is contained within an advertisement which we publish for you, we may also use your information for publication of that same advertisement in other media, in accordance with the terms and conditions of the initial publication.
+As a general rule we don’t collect sensitive information. However, if we do, it will usually be essential to providing our services. If the law requires us to, we’ll seek your consent to collect this information.
 
-We may share your information with other companies which are related to News Limited, within Australia. We or they may also use your personally identifiable information to assist us in improving our products and services and any of us might be in touch to let you know about goods, services, or promotions which may interest you.
+We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us. We may also get lists from other sources, both from other companies and from other public documents.
 
-#### Use by third parties
+### How do you use the information I give you?
 
-News may disclose your information to its service providers and contractors from time to time to help us to provide and market our goods and services to you. We may also share your information with third parties who provide prizes for competitions or reader offers. If we do this we generally require these parties to protect your information in the same way we do.
+We use your information to provide our services to you, to fulfill administrative functions associated with these services (for example, billing), to enter into contracts with you or third parties and for marketing and client relationship purposes.
 
-#### Use of aggregate data
+Where your personal information is contained within an advertisement that we publish for you, we may also use your information for publication of that same advertisement in other media, in accordance with the terms and conditions of the initial publication.
 
-We may collect certain non-personal information to optimise our goods and services including our Web pages for your computer (e.g., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites.
+We may share your information with other companies related to TrueLocal provided it is within Australia. We or they may also use your personal information to help us improve our products and services and any of us might be in touch to let you know about goods, services, or promotions that may interest you.
 
-News may use personally identifiable information in aggregate form to improve our goods and services including our Web sites and make them more responsive to the needs of our customers. This statistical compilation and analysis of information may also be used by News or provided to others as a summary report for marketing, advertising or research purposes.
+### Do you give information to third parties?
 
-#### Security
+Yes, TrueLocal may give your information to service providers and contractors to help us provide and promote our goods and services to you. We may also share your information with third parties who provide prizes for competitions or reader offers. If we do this we require these parties protect your information the same way we do.
 
-News strives to ensure the security, integrity and privacy of personally identifiable information of our customers. We use a variety of physical and electronic security measures including restricting physical access to our offices and firewalls and secure databases to keep personal information secure from misuse, loss or unauthorised use or disclosure.
+### Do you capture information through my computer’s web browser?
 
-Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure.
+Our aim is to make using TrueLocal as easy to access and use as possible. One way to do this is to collect certain non-personal information from your computer that helps our web pages work better on your PC. For example the type of information we might collect would be the identity of your internet browser, the type of operating system you use, your IP address and the domain name of your internet service provider. This information would only be used for internal purposes.
 
-#### Access to personal information
+In addition, we may use personally identifiable information in aggregate form to improve our services. This statistical compilation and analysis of information may also be used by TrueLocal or provided to others as a summary report for marketing, advertising or research purposes.
 
-You have a right to access most personal information we hold about you and if we deny access in some circumstances we will tell you why.
+### Is my personal information secure?
 
-To request access, please contact our privacy officer as set out at the end of this document.
+Rest assured we make every effort to ensure your security, integrity and privacy. This entails using a variety of security measures such as restricting physical access to our offices and using firewalls and secure databases to keep personal information safe from misuse, loss, unauthorised use and disclosure. Bear in mind though that nobody can guarantee total security for data transmitted over the internet.
 
-#### Public information
+### Can I access the personal information you have about me?
 
-Any information posted on bulletin boards and/or communicated in chat areas becomes public information. While News strives to protect and respect your privacy, we cannot guarantee the security of any information you disclose in a chat room or bulletin board.
+Yes you have the right to access most personal information we hold about you. Just get in touch with the Privacy Officer.
 
-#### Cookies
+If there’s any reason why we can’t disclose any information, we’ll always let you know.
 
-Cookies are data that a Web site transfers to an individual’s hard drive for record-keeping purposes. Cookies can facilitate a user’s ongoing access to and use of a site. They allow us to track usage patterns and to compile data that can help us improve our content and target advertising. If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. But you should note that Cookies may be necessary to provide you with features such as merchandise transactions or registered services.
+### What about information I provide in public areas such as forums?
 
-#### Online links to third parties and co-branded sites
+Any information posted on bulletin boards, in Ratings & Reviews and/or communicated in chat areas becomes public information by its nature. While we strive to protect and respect your privacy, we cannot guarantee the security of any information you disclose in these areas.
 
-News may establish relationships with business partners that allow visitors to our Internet sites to link directly to sites operated by these partners. Some of these sites may be "co-branded" with our logo; however, these sites may not be operated or maintained by or on our behalf. These sites may collect personal information from you that may be shared with us. This Privacy Statement will apply to any personal information we obtain in this manner.
+### Do you use cookies?
 
-News is not responsible for the content or practices of Web sites operated by third parties that are linked to our sites. These links are meant for the user’s convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by News of the content, policies or practices of those third party sites. Once you have left our site via such a link, you should check the applicable privacy policy of the third party site.
+Our website is designed to make it easy for you to find out about and access our great features. To do this we use cookies, which are pieces of information that a website transfers to your computer’s memory or hard disk for record-keeping.
 
-#### Other things you should know about privacy on the Internet
+Cookies can help us make your experience of TrueLocal more relevant, and they can also help us learn about how people use our website so that we can make it better.
 
-Remember to close your browser when you have finished your user session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet café. You as an individual are responsible for the security of and access to your own computer.
+Most web browsers are set to accept cookies, but you can always change your computer settings to stop them. If you choose to do that, you may not be able to take full advantage of our online services.
 
-Whenever you voluntarily disclose personal information over the Internet that this information can be collected and used by others. In short, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your username and passwords and any account information. Please be careful and responsible whenever you are using the Internet.
+### What about online links to third parties?
 
-#### For further information
+TrueLocal may establish relationships with business partners that allow visitors to our internet sites to link directly to sites operated by these partners. Some of these sites may be co-branded with our logo even though these sites may not be operated or maintained by or on our behalf. These sites may collect personal information from you that may be shared with us. This privacy statement will apply to any personal information we obtain in this way.
 
-Please contact our Privacy Officer to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy.
+TrueLocal is not responsible for the content or practices of Web sites operated by third parties that are linked to our sites. These links are meant for your convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by TrueLocal of the content, policies or practices of those third party sites. Once you have left our site via such a link, you should check the applicable privacy policy of the third party site.
 
-Write to:  
+### What else should I know about internet privacy?
+
+Remember to close your browser when you have finished your user session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or internet cafe. You as an individual are responsible for the security of and access to your own computer.
+
+Whenever you voluntarily disclose personal information over the internet this information can be collected and used by others. In short, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your username and passwords and any account information. Please be careful and responsible whenever you use the internet.
+
+### Who can I contact for more information about privacy?
+
+If you want access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy, please contact our Privacy Officer on 1300 133 774.
+
+Or you can write to:  
 Privacy Officer  
-truelocal.com.au  
-PO Box 369  
-North Ryde BC  
-NSW 1670
+TrueLocal  
+Level 23/175 Liverpool Street  
+Sydney NSW 2000
+
+### Current TrueLocal Highlights
