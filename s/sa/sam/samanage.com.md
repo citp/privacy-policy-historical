@@ -1,10 +1,17 @@
-> *The following text is extracted and transformed from the samanage.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515180945id_/http%3A//www.samanage.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samanage.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221121616id_/http%3A//www.samanage.com/privacy.html) for the most accurate reproduction.*
 
-# SAManage | Privacy Policy
+# Privacy Policy | SAManage
+
+## SAManage Privacy Policy
+
+Last updated 11/1/2007
+
+  
+
 
 ### **Purpose**
 
-SAManage respects the privacy of anyone who uses a SAManage website ([www.SAManage.com](http://www.lucidera.com/)) or/and the SAManage Service. SAManage publishes this Privacy Policy to communicate how we gather and use information about you and how we protect it. SAManage will update this policy promptly if and when any of the policies described here changes. When we make changes to this policy, we will post an announcement on our website with details on the changes made.
+SAManage respects the privacy of anyone who uses a SAManage website ([www.SAManage.com](http://www.samanage.com/)) or/and the SAManage Service. SAManage publishes this Privacy Policy to communicate how we gather and use information about you and how we protect it. SAManage will update this policy promptly if and when any of the policies described here changes. When we make changes to this policy, we will post an announcement on our website with details on the changes made.
 
 ### **Information Collected**
 
@@ -12,11 +19,11 @@ We require customers who use the SAManage service (the "Service") to give us con
 
 SAManage uses the information collected to provision the Service for organizations. We may also use the information to contact customers to further discuss customer interest in our Service, and to send information regarding our company and our partners, such as marketing promotions, newsletters, and invitations to participate in events. Other than in connection with provision of the Service, Customers can opt out of being contacted by us, or receiving such information from us, at any time by sending an email to [support@SAManage.com](mailto:support@lucidera.com). 
 
-Except as stated at the time we request information, or as contemplated in this policy or the [SAManage Master Subscription Agreement](https://web.archive.org/web/20080515180945id_/http%3A//www.samanage.com/eula.html) or required by law, we do not disclose any personally identifiable information (including, without limitation, email addresses) that is provided by customers to third parties. 
+Except as stated at the time we request information, or as contemplated in this policy or the [SAManage Master Subscription Agreement](https://web.archive.org/web/20081221121616id_/http%3A//www.samanage.com/eula.html) or required by law, we do not disclose any personally identifiable information (including, without limitation, email addresses) that is provided by customers to third parties. 
 
 ### **Customer Data**
 
-Customers using the Service will be storing data and information ("Customer Data"), and will connect the Service to customers' computers using the SAManage Agent ("Agent") for the purpose of collecting configuration and inventory data and storing data together with the Customer Data. SAManage will not review, share, distribute, print, or reference any Customer Data except as provided in this policy or in the [SAManage Master Subscription Agreement](https://web.archive.org/web/20080515180945id_/http%3A//www.samanage.com/eula.html) or as may be required by law, and except for the purposes of deploying, supporting or enhancing the Service. Customers are responsible for maintaining the confidentiality and security of their user registration and password.
+Customers using the Service will be storing data and information ("Customer Data"), and will connect the Service to customers' computers using the SAManage Agent ("Agent") for the purpose of collecting configuration and inventory data and storing data together with the Customer Data. SAManage will not review, share, distribute, print, or reference any Customer Data except as provided in this policy or in the [SAManage Master Subscription Agreement](https://web.archive.org/web/20081221121616id_/http%3A//www.samanage.com/eula.html) or as may be required by law, and except for the purposes of deploying, supporting or enhancing the Service. Customers are responsible for maintaining the confidentiality and security of their user registration and password.
 
 SAManage may provide the ability for website visitor to request additional information or contact SAManage. We collect certain information from visitors such as their name, phone number and email and the purpose of their request or interest. This information is captured in our systems to better serve our customers and visitor needs. We also capture log informations from our servers to help diagnose technical problems, and to constantly improve the quality of the Service. We may also track and analyze non-identifying and aggregate usage and volume statistical information from our website visitors and customers and provide such information to third parties.
 
@@ -26,7 +33,6 @@ When you are using the Service we strive to make the service easy to use and val
 
 SAManage uses session cookies (cookies that exist only during an online session) containing encrypted information to allow the system to uniquely identify you while you are logged in to the Service. This information allows SAManage to process your requests. Session cookies help us ensure your identity during your session and after you have logged into the system, and are required to use the Service. Users who disable their Web browsers' ability to accept cookies will not be able to easily use our Service.
 
-  
 Third Party Cookies: We may engage third parties to track and analyze non-personally identifiable usage and volume statistical information from visitors to our website and customers of our service to help us improve the Service quality. Such third parties may use cookies to help track visitor behavior.
 
 ### **Third Party Sites**
@@ -47,7 +53,7 @@ SAManage utilizes some of the most advanced technology for Internet security ava
 
 SAManage also provides each User in your organization with a unique password that must be entered each time a User logs into the Service. As stated above, SAManage is using a session "cookie" to store user sessions and provide an easy to use experience. Cookies do not include either the username or password of the user, or any other confidential user and session information. 
 
-SAManage is hosted in a security-oriented server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders. [Learn more about our security practices](https://web.archive.org/web/20080515180945id_/http%3A//www.samanage.com/products_security.html) and how our service is protected. 
+SAManage is hosted in a security-oriented server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders. [Learn more about our security practices](https://web.archive.org/web/20081221121616id_/http%3A//www.samanage.com/products_security.html) and how our service is protected. 
 
 ### **Opt-Out Policy**
 
