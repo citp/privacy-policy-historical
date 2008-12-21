@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the rackspace.co.uk privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013012548id_/http%3A//www.rackspace.co.uk/content/s2/PDFs/Legal/Privacy_Policy_070611.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rackspace.co.uk privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221074125id_/http%3A//www.rackspace.co.uk/content/s2/PDFs/Legal/UK_Privacy_Policy.pdf) for the most accurate reproduction.*
 
-# Privacy Policy
+# UK Privacy Policy
 
- Privacy Policy
+UK Privacy Policy
 The purpose of our privacy policy is to demonstrate our firm commitment to the privacy and protection of all
-persons who visit Rackspace websites, visitor information in compliance with Safe Harbor provisions. This
+persons who visit Rackspace® websites, visitor information in compliance with Safe Harbor provisions. This
 statement sets forth our information gathering and dissemination practices for all of our websites including
-(but     not      limited    to)    www.rackspace.com;        www.rackspace.co.uk;        www.rackspace.org.uk;
+(but     not      limited    to)    www.rackspace.com;     www.rackspace.co.uk;       www.rackspace.org.uk;
 www.rackspace.org; www.rackspace.nl; www.rackspacemanagedhosting.se; www.rackspace.dk, and
 my.rackspace.com. For purposes of this policy, the term “visitor” includes visitors to our sites who are not
 yet customers as well as those who do not become customers.
@@ -32,7 +32,7 @@ training aides for our employees. Visitors are given the choice at the point whe
 information. A visitor who wishes to opt out of receiving future marketing mailings is provided with the
 details of an ‘unsubscribe’ e-mail address (indicative of the website that visitor is using) for use to
 unsubscribe.      Such e-mail addresses include (but are not limited to) unsubscribe@rackspace.com;
-unsubscribe@rackspace.co.uk;           unsubscribe@rackspace.nl;             unsubscribe@rackspace.dk,     and
+unsubscribe@rackspace.co.uk;           unsubscribe@rackspace.nl;       unsubscribe@rackspace.dk,        and
 unsubscribe@rackspacemanagedhosting.se. For other ways to contact us please see our Contact Us page.
 Financial Information
 We may ask visitors to enter credit card or account information through MyRackspace. Visitor financial
@@ -40,12 +40,13 @@ information is encrypted for its protection prior to its transmission over the i
 information on a transaction-by-transaction basis and will not authorise the release of the information with
 anyone not directly involved in processing the transaction. This information may be encrypted and stored
 for logging purposes in accordance with applicable regulatory requirements.
-    Rackspace Managed Hosting Ltd, 2 Longwalk Road, Stockley Park, Uxbridge, Middlesex, UB11 1BA, UK
-          Sales 0800 085 3973                  Support 0800 587 2306                          1 of 2
-                                          Information Classification: Public             Version: 070611
+                                                                                              Rackspace Ltd
+                                                              4 The Square, Stockley Park, Uxbridge UB11 1ET
+                                                        Tel +44 (0) 20 8734 2500 Fax +44 (0) 20 8606 6107
+                                                                                                rackspace.co.uk
 
 
- Privacy Policy
+UK Privacy Policy
 IP Addresses
 We use the visitors’ unique network addresses (IP Address) to help diagnose problems with our servers, and
 to administer our websites.
@@ -59,16 +60,17 @@ We may record and/or monitor telephone conversations to ensure compliance with p
 complaints and to improve our service standards. Conversations may also be monitored for quality control
 and staff training purposes.
 We use Cookies to:
-     •  Help us recognise visitors as unique visitors (just a number) when they return to our websites.
-     •  Allow us to tailor content or advertisements to match your preferred interest.
-     •  Avoid showing visitors the same advertisements repeatedly.
-     •  Compile anonymous, aggregated statistics that allow us to understand how users use our site and to
+    •   Help us recognise visitors as unique visitors (just a number) when they return to our websites.
+    •   Allow us to tailor content or advertisements to match your preferred interest.
+    •   Avoid showing visitors the same advertisements repeatedly.
+    •   Compile anonymous, aggregated statistics that allow us to understand how users use our site and to
         help us improve the structure of our Web site. We cannot identify visitors personally in this way.
-     •  Count the number of anonymous users of our sites.
+    •   Count the number of anonymous users of our sites.
 We gather this informational for internal use only and will not authorise the release of this information to
 anyone outside Rackspace.
 Linked sites: Our site contains links to external web sites. We are not responsible for the privacy practices
 or the content of these web sites.
-    Rackspace Managed Hosting Ltd, 2 Longwalk Road, Stockley Park, Uxbridge, Middlesex, UB11 1BA, UK
-         Sales 0800 085 3973                   Support 0800 587 2306                         2 of 2
-                                          Information Classification: Public            Version: 070611
+                                                                                               Rackspace Ltd
+                                                                4 The Square, Stockley Park, Uxbridge UB11 1ET
+                                                           Tel +44 (0) 20 8734 2500 Fax +44 (0) 20 8606 6107
+                                                                                                 rackspace.co.uk
