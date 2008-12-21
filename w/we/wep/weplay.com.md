@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the weplay.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512153729id_/http%3A//www.weplay.com/t/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weplay.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221220358id_/http%3A//www.weplay.com/t/privacy) for the most accurate reproduction.*
 
 # weplay
 
-## weplay.com General Privacy Policy
+##  weplay.com General Privacy Policy 
 
 _(Last updated: January 8, 2008)_
 
-[http://www.weplay.com/](https://web.archive.org/web/20080512153729id_/http%3A//www.weplay.com/t/weplay.com) (“weplay”) has created this privacy policy (the “ **Policy** ”) so you will understand when and how personal information is collected, used, disclosed and protected with respect to your use of our Web site (“ **Site** ”) located at <http://www.weplay.com/>. By using the Site or the services available through the Site (the “Service”), you consent to the privacy practices described in this Policy. This Site is owned and operated by weplay, Inc.
+<http://www.weplay.com/> (“weplay”) has created this privacy policy (the “ **Policy** ”) so you will understand when and how personal information is collected, used, disclosed and protected with respect to your use of our Web site (“ **Site** ”) located at <http://www.weplay.com/>. By using the Site or the services available through the Site (the “Service”), you consent to the privacy practices described in this Policy. This Site is owned and operated by weplay, Inc.
 
 We reserve the right to change this Policy at any time. If we make any material changes to our Policy, we will post a new policy on our Site and update the “last updated” date set forth above. Therefore, we encourage you to check our Policy whenever you use the Service to see if it has been updated since your last visit.
 
@@ -113,6 +113,4 @@ California Civil Code section 1798.83 permits customers who are California resid
 
 ### CONTACTING US
 
-Any questions about this Policy should be addressed to [privacy@weplay.com](mailto:privacy@weplay.com).
-
-© weplay, Inc. All rights reserved.
+Any questions about this Policy should be addressed to [privacy@weplay.com](mailto:privacy@weplay.com) or call 562-951-3900.
