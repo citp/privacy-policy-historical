@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rooshv.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628000951id_/http%3A//www.rooshv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rooshv.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221190637id_/http%3A//www.rooshv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Roosh V
 
