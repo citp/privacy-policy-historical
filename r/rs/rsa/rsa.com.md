@@ -1,144 +1,111 @@
-> *The following text is extracted and transformed from the rsa.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606230113id_/http%3A//www.rsa.com/node.aspx%3Fid%3D2470) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsa.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221140637id_/http%3A//www.rsa.com/node.aspx%3Fid%3D2470) for the most accurate reproduction.*
 
 # Web Site Privacy Policy and Consent to Use of Data RSA.COM
 
-November 14, 2005
+##### General Information
 
-##### IMPORTANT: BY USING THE RSA.COM WEB SITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA THAT YOU SUBMIT MAY BE PROCESSED BY RSA SECURITY IN THE MANNER AND FOR THE PURPOSES DESCRIBED IN THE FOLLOWING PRIVACY POLICY.
+RSA respects the privacy of our customers, business partners, employees and job applicants, and other visitors to our websites who may choose to provide personal information. We recognize the need for appropriate protections and management of personal information that you provide to us. This Privacy Statement will assist you to understand what types of information we may collect, how that information may be used, and with whom the information may be shared. Scope
 
-##### Definitions
+This Privacy Statement applies to RSA Security Inc. (including its divisions and wholly-owned subsidiaries) worldwide. 
 
-Rsa.com is owned and operated by RSA Security Inc. 
+Information we may process about clients of our customers is dealt with separately. For details of this please see the section entitled “Personal information of our customer's clients” below. 
 
-The terms "RSA Security", "we", "us", "our" and "ours" when used in this Privacy Policy means RSA Security Inc which includes all its parents, subsidiaries, divisions, branches, affiliates or companies under common ownership or control of RSA Security Inc.
+##### Safe Harbor Compliance
 
-The terms "you", "your" and "yours" when used in this Privacy Policy means any user of this Web Site. 
+RSA has certified its participation, and compliance with, the U.S. Department of Commerce Safe Harbor framework regarding the transfer of personal information from European Union member countries to the United States. The principles of Safe Harbor compliance are notice, choice, onward transfer, security, data integrity, access and enforcement. Additional information about the Safe Harbor principles and certification process can be found at [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
 
-The term "Personal Data" refers to personally identifiable information about you, such as your name, birth date, e-mail address or mailing address. 
+##### What personal information does RSA process?
 
-This Privacy Policy describes RSA Security’s current policies and practices with regard to Personal Data collected by RSA Security through www.rsa.com ("Web Site"). 
+Personal Information is information that identifies or can identify a specific individual. RSA may collect information about individuals such as their name, address, telephone number or email address. RSA may collect certain personal information from customers, business partners, employees and candidates for employment. RSA does not collect personal information when you visit RSA's web sites unless you choose to provide it to RSA. 
 
-##### Notification of changes to this Policy
+_Customers and Business Partners:_ On RSA web sites you can order products or services, register products, request information, subscribe to marketing or support materials, register to a secure extranet site to obtain access to product information, support, services and training. RSA will collect personal information from you for these purposes. The types of information you provide to RSA on these pages may include name, address, phone number, e-mail address, user IDs and passwords, billing and transaction information, credit card or other financial information, and contact preferences. 
 
-We are continually improving and adding new functionality and features to this Web Site and improving and adding to its existing products, services and programs. Because of these ongoing changes, changes in the law and the changing nature of technology, our data practices will change from time to time. If and when our data practices change, we will post the changes on this Web Site to notify you of the changes. We encourage you to check this page frequently. 
+_Employees and Applicants:_
 
-##### Collection of Personal Data including e-mail addresses
+RSA also collects personal information from its employees and applicants (human resources data) in connection with its recruiting and hiring activities and administration of its human resources programs and functions. Current RSA employees can go on-line to access their individual employee profiles, job related data, compensation and benefit information, to make benefit elections and transactions and to make changes to their personal information.
 
-We collect the information you give us when you use our Web Site. You may use this Web Site to register to receive additional information or products from us. When you register, we ask you for contact information like your name, postal address and e-mail address. 
+##### How does RSA use customer and business partner personal information?
 
-We sometimes supplement the information that you provide with information that is received from third parties. For instance, if inaccurate postal or zip codes are received, we will use third party software to fix them. 
+RSA will use personal information to provide customers and business partners with information and services and to help us better understand your needs and interests. Specifically, we use your information to help you complete a transaction or order, to communicate with you, to deliver products/services to you, to bill you for products/services you purchased, and to provide ongoing service and support. 
 
-##### RSA Security Email Marketing Communication Policy
+Occasionally we may use your information to contact you to complete surveys that we use for marketing and quality assurance purposes. Personal information collected online may be combined with information you provide to RSA through other sources such as trade shows or seminars. We may also use it to contact you by electronic or other means such as telephone or mail, to tell you about products and services of RSA or its subsidiaries and divisions, or, if we think this may interest you, of other parties. 
 
-RSA Security sends promotional email only to:
+RSA may share the personal information that you have submitted to RSA with third parties in responding to your requests for products or services or product evaluations. Also, we may on occasion share information to allow selected partners to send you special offers in blind mailings. If your information is sourced from within the EU, you will be given the opportunity to opt out of having your personal information used and/or shared for marketing purposes, or we will obtain your prior agreement to this as applicable under relevant laws. However, if you request information on any of our products/services, RSA may provide your information to third party distributors and resellers who may subsequently contact you directly to purchase such products/services. In these instances, you will not have the opportunity to opt out of having your information shared with these third party distributors and resellers, as the transfer of data is necessary to provide the products or services you requested. 
 
-  * our customers 
-  * people who have given consent to RSA Security to receive promotional email 
-  * people on rented email lists who have given permission to the list owner to receive third-party promotional email 
-  * people who have not opted out after having received promotional email from us. 
+Some of RSA's websites make on-line newsgroups, chat forums and blogs available to our users. Any information that is disclosed in these forums becomes public information and you should exercise caution when deciding to disclose your personal information. RSA may, from time to time, send email (in accordance with applicable laws) regarding our products and services to users who have posted to our newsgroups. Each participant's opinion expressed in a newsgroup is his or her own and should not be considered as reflecting the opinion of RSA. Some RSA websites also provide for "Live Chat" wherein RSA personnel can monitor the user's areas of interest in the web site and engage in instant messaging with the user to provide additional information or answer any questions. By posting in our newsgroups and using “Live Chat” you expressly consent to these uses of your information.
 
+Should we undergo any sort of corporate reorganization in the future, we may need to provide your information to the resulting entity. We may also provide it to law enforcement agencies if they request it or if we feel this is necessary to protect our business, employers, suppliers or customers. We will only do this once we are satisfied it is appropriate to do so. 
 
+##### How does RSA use employee, contractor and job applicant personal information?
 
-RSA Security employs a third-party email marketing platform that helps to ensure that we provide relevant information and services to the people on the mailing list. The marketing platform:
+RSA uses personal information of its employees, contractors and job applicants for a variety of human resources and similar functions, including job applications and hiring programs, compensation and benefit programs, performance appraisals, training, business travel, expense and tuition reimbursement, identification cards, access to RSA facilities and computer networks, employee profiles, internal employee directories, human resources recordkeeping, compliance with legal requirements and other employment related purposes.
 
-  * offers a central location for people to opt-out of RSA Security promotional mailings 
-  * tracks which promotional emails are delivered, opened and responded to and whether respondents subsequently visit the RSA Security web site 
+Unless permitted by relevant laws, or you have agreed to this, RSA does not use your personal information for a purpose other than as provided in this Privacy Statement or for the stated purpose identified at the time such information is collected, received or stored. Where appropriate under applicable laws, you will be given a more detailed explanation of these data uses at the relevant time. 
 
+Personal information given to RSA may be transferred within RSA or to its appointed business partners or service providers across state and country borders for efficient data consolidation, storage and simplified information management in accordance with applicable law. We will place appropriate restrictions on the recipients and require them to adequately protect the information according to relevant laws. 
 
+##### With whom does RSA share personal information?
 
-In each promotional email, we provide an easy and clear way to opt out of future RSA Security email. Opt-out requests using the opt-out link in our emails are processed automatically and go into effect immediately. Opt-out requests sent by email are processed within 10 business days.
+RSA contracts with third party service providers and suppliers to deliver complete products, services and customer solutions. RSA may share personal information with its service providers and suppliers for the sole purpose and only to the extent needed to support the customers' business needs. Service providers and suppliers are required to keep confidential and secure the personal information received from RSA and may not use it for any purpose other than as originally intended. 
 
-When sending email to rented email lists, we suppress addresses of those people who have opted out of RSA Security email in the past.
+Human resources data may be shared with third party vendors for the exclusive purpose of enabling the vendor to provide service or support to RSA in connection with these human resources programs and functions. Personal data concerning RSA employees is not shared with third parties for non-employment related purposes, unless disclosure of such information is reasonably necessary to comply with any applicable law, legal process, or enforceable governmental inquiry.
 
-We always disclose our identity in mass email communications, including the address of our headquarters location, and we always identify our mass, promotional email as advertisements.
+Third party vendors, service providers and suppliers receiving personal information are expected to apply the same level of privacy protection as contained in this Privacy Statement. However, unless otherwise dictated by law or agreement, RSA is not responsible for any improper use by such parties.
 
-We never use deceiving header information or subject lines.
+Unless permitted by relevant laws, or you have agreed to this, RSA will not share personal information you provided to RSA with any other third parties without your permission, or sell, trade or lease your personal information to others, except as provided in this Privacy Statement.
 
-We never send mass, promotional email to email addresses “harvested” from websites.
+##### Choice and Consent
 
-We never, under any circumstances, rent or sell email addresses to any other company or individual.
+RSA does not require that customers, business partners or non-employee visitors to RSA websites provide RSA with personal information. The decision to provide personal information is voluntary. If you do not wish to provide the personal information requested, however, you may not be able to proceed with the activity or receive the benefit for which the personal information is being requested. To exercise any opt out rights under applicable laws, please notify RSA in of your desire to do so at [webmaster@rsa.com](mailto:webmaster@rsa.com) or RSA Security Inc., Attn: Legal Department, 174 Middlesex Turnpike, Bedford, MA 01730. It may take a reasonable period of time to process your request. 
 
-When capturing email addresses via our Web forms, we always provide the opportunity to opt out of promotional email.
+RSA employees and applicants for employment are required to provide RSA with personal information as a condition of employment, or applying for employment, with RSA. This information is used by RSA and may be shared with third party vendors in connection with RSA's administration of its Human Resources programs and functions consistent with the terms of this Privacy Statement and applicable law.
 
-When coordinating with our resellers for the purpose of follow-up on sales inquiries made to us, we provide full contact information of the inquirer to the reseller, including email address, so the reseller can follow up on the inquiry.
+##### Sensitive Information
 
-Our marketing email policy and practice fully conforms to the United States Federal “CAN SPAM” act that went in to effect on January 1, 2004. Note that some regions such as the European Union, have different email laws and guidelines, and RSA Security conforms to local laws in those cases. We welcome and encourage your thoughts on this policy at [mveit@rsa.com](mailto:mveit@rsa.com). To be removed from our email list, [please click here](https://web.archive.org/node.aspx?id=1060).
+Sensitive information is defined as personal information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, or information specifying the sex life of the individual.
 
-#####   
-Use of Personal Data
+Except as provided below, RSA does not request or receive sensitive information from visitors to our web sites. RSA may receive sensitive information such as medical or health conditions, or race and ethnic data regarding its employees or their dependents in connection with the administration of its health and welfare benefit plans, or as part of government mandated recordkeeping requirements where required by law. Such information will not be shared with third parties except as permitted by applicable law or as required in connection with the administration of human resources programs. In addition, sensitive information that has not been made public by an affected employee will not be used for a purpose other than its original purpose without the employee's approval unless allowed under applicable law. Where appropriate under applicable laws, you will be given a more detailed explanation of sensitive information uses at the relevant time. 
 
-We process your Personal Data only for specific and limited purposes. We ask only for data that is adequate, relevant and not excessive for those purposes. When we ask you for Personal Data, we tell you the purposes for which we will process that data. Some of these purposes include the following:
+##### Access to and accuracy of your information
 
-  * We may contact you occasionally to inform you of new services we will be providing, or special offers, events or articles we think will be of interest to you. 
-  * We may send you regular updates by e-mail or by post on RSA Security organised or related events. 
-  * We may send you requested product information and promotional material. 
-  * We may use your Personal Data for marketing purposes and market research. 
-  * We may use your Personal Data internally to help us improve our products and services and to help resolve any problems. 
+RSA strives to keep your personal information accurate. We have implemented technology, management processes and policies to maintain data integrity. RSA will take reasonable steps to ensure that the data is complete, accurate and reliable for its intended use. We will provide you with access to your information when reasonable, or in accordance with relevant laws, including making reasonable effort to provide you with online access and the opportunity to change your information. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making changes to your data. In accordance with relevant laws, we may charge a small fee to make changes other than corrections. Requests to delete personal data are subject to any applicable legal and ethical reporting or document retention obligations. A request to access, delete or correct your personal information may be made to [webmaster@rsa.com](mailto:webmaster@rsa.com) or RSA Security Inc., Attn: Legal Department, 174 Middlesex Turnpike, Bedford, MA 01730.
 
+##### Security of Personal Information
 
+RSA is committed to taking reasonable efforts to secure the personal data you choose to provide us. To protect the privacy of any personal information you may have provided, RSA employs industry-standard controls including physical and logical access controls, Internet firewalls, intrusion detection, anti-virus protection, and network monitoring, and, where appropriate, Secure Socket Layer (SSL) or similarly encrypted browsers. In addition, access to sensitive information as defined in this Privacy Statement is limited to those individuals and agents having a need to know. 
 
-##### Disclosure of your Personal Data 
+##### Other Information/Logging and Cookies
 
-We do not share, sell or distribute your Personal Data with unrelated third parties, except under these limited circumstances:
+RSA collects and/or logs Internet Protocol addresses, Internet domain names, the web browser and operating system used to access the RSA web site, the files visited, the time spent in each file, and the time and date of each visit. 
 
-Personal Data may occasionally be transferred to third parties who act for or on behalf of RSA Security, or in connection with the business of RSA Security for further processing in accordance with the purposes for which the data was originally collected or for purposes to which you have subsequently consented. For example, sometimes a third party may have access to your Personal Data in order to handle our mailings on our behalf.
+RSA also uses cookies on some of its web sites. Cookies are identifiers that can be sent from a web site via your browser to be placed on your computers hard drive. Thereafter when you visit a web site, a message is sent back to the web server by the browser accessing the web site. You may elect not to accept cookies by changing the designated settings on your web browser. However, not utilizing cookies may prevent you from using certain functions and features of web sites. The information collected from the use of cookies is used and analyzed to improve RSA's web sites, such as by gaining a better understanding of your interests and requirements regarding our website. 
 
-  
-We may share or transfer the information in our databases to comply with a legal requirement, for the administration of justice, to protect your vital interests, to protect the security or integrity of our databases or this Web Site, to take precautions against legal liability, or in the event of a corporate sale, merger, reorganisation, dissolution or similar event.   
-Where appropriate, before disclosing Personal Data to a third party, we contractually require the third party to take adequate precautions to protect that data. 
+You can set your browser to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. The information we collect and analyze is used to improve our service to you and personalize your web-browsing experience. RSA uses the services of a third party vendor to help us measure the effectiveness of our advertising and how visitors use RSA.com. To do this, we may use Web beacons and cookies provided by this vendor on this site. The type of information we collect includes the pages visited, navigation patterns, etc. This information helps us learn things such as what product information is of most interest to our customers, and what kinds of offers our customers like to see. Although the vendor logs the information coming from our site on our behalf, RSA controls how that data may and may not be used. If you do not want to assist RSA in improving our site, products, offers and marketing strategy, you can "opt-out" of this web-site analysis tool by contacting [webmaster@rsa.com](mailto:webmaster@rsa.com) or RSA Security Inc., Attn: Legal Department, 174 Middlesex Turnpike, Bedford, MA 01730.
 
-##### Data Integrity and Security
+Websites of RSA subsidiaries or divisions may use similar tracking tools for similar internal business purposes only. These websites may not offer this opt-out functionality. 
 
-We strive to maintain the reliability, accuracy, completeness and currency of Personal Data in our databases and to protect the privacy and security of our databases. We keep your Personal Data only for as long as reasonably necessary for the purposes for which it was collected or to comply with any applicable legal or ethical reporting or document retention requirements. 
+##### Links to Non-RSA Web Sites and Third Parties
 
-Our servers and our databases are protected by industry standard security technology, such as industry standard firewalls and password protection. 
+The RSA web sites may provide links to third-party web sites for your convenience and information. If you access those links, you will leave the RSA web site. RSA does not control those sites or their privacy practices, which may differ from RSA’s. We do not endorse or make any representations about third party web sites. The personal data you choose to give to unrelated third parties is not covered by the RSA Privacy Statement. We encourage you to review the privacy policy of any company before submitting your personal information. 
 
-Sometimes we process sensitive data that requires industry standard Secure Socket Layer (SSL) encrypted browsers. We use 128-bit encryption to protect transmissions over the Internet. 
+##### Verification
 
-The employees who have access to Personal Data have been trained to handle such data properly and in accordance with our security protocols and strict standards of confidentiality. Although we cannot guarantee against any loss, misuse, unauthorised disclosure, alteration or destruction of data, we try to prevent such unfortunate occurrences.
+RSA will engage in periodic self-assessment of its compliance with this Privacy Statement. 
 
-##### Data Access and Corrections
+##### Contact Information
 
-Upon receipt of your written request and enough information to permit us to identify your Personal Data, we will disclose to you the Personal Data we hold about you. We will also correct, amend or delete any Personal Data that is inaccurate and notify any third party recipients of the necessary changes. 
+If you have any questions or comments regarding this Privacy Statement or believe that the privacy of your personal information has not been respected, you may make a written submission to the attention of [webmaster@rsa.com](mailto:webmaster@rsa.com) or RSA Security Inc., Attn: Legal Department, 174 Middlesex Turnpike, Bedford, MA 01730. 
 
-If you wish to access or correct your Personal Data, please write to our data protection officer at RSA Security Inc., 174 Middlesex Turnpike, Bedford, MA 01730 or e-mail us at [webmaster@rsa.com](mailto:webmaster@rsa.com). We do not charge for complying with a correction request, however, for all other requests, we may charge a small fee to cover its costs. Requests to delete Personal Data are subject to any applicable legal and ethical reporting or document retention obligations imposed on RSA Security.
+##### Dispute Resolution
 
-#####   
-Anonymous data collected through this Web Site
+If an employee living in an E.U. member country has a complaint regarding the transfer of human resources data to the U.S., RSA agrees to cooperate with the appropriate European data protection authority for handling such complaints. RSA agrees to handle all other disputes involving the transfer of personal data from the EU to the U.S. in accordance with the JAMS dispute resolution procedures applicable to international disputes, which are available for review at www.jamsadr.com. Except as provided above, dispute resolution for all other individuals shall be in accordance with applicable law.
 
-In addition to the information we collect as described above, we use technology to collect anonymous information about the use of our Web Site. This technology does not identify you personally, it simply enables us to compile statistics about our visitors and their use of our Web Site. 
+##### Personal information of our customers’ clients
 
-We use this anonymous data to improve the content and functionality of this Web Site and our e-mail updates, to better understand our customers and markets, and to improve our products and services.
+When we provide services to our customers, in some instances we process personal information about their clients ("Client Information") on their behalf. In these situations it is our customers rather than we who decide the reasons for which the Client Information will be processed. For details of how the Client Information will be used and protected, and details of how to access or correct the information, please refer to the privacy policy of the RSA customer to whom you submitted your personal information. Relevant laws may oblige customers to require that we comply with the same security rules that they are subject to under such laws. 
 
-##### Cookies
+##### Changes to this Statement
 
-In order to collect the anonymous data described in the preceding paragraph, we may use "cookies" that collect the first level domain name of the user (for example, if your e-mail address is "john@bigmail.com," the cookie collects the "bigmail.com" portion of your e-mail address) and the date and time you accessed this Web Site. 
+RSA will review and update this Statement periodically, and will note the date of its most recent revision below. 
 
-Web beacons, also known as clear gif technology, or action tags, may be used to assist in delivering the cookie on our site. This technology is a tool we use to compile aggregated statistics about rsa.com Web site usage, such as how many visitors clicked on key elements (such as links or graphics) on a rsa.com Web page. 
-
-We also use your IP address to help diagnose problems with our server and to administer our Web Site. An IP address is a numeric code that identifies your computer on a network, or in this case, the Internet. Your IP address is also used to gather broad demographic information, such as determining how many of our visitors are from outside of the US. 
-
-We may also perform IP lookups to determine which domain you are coming from (i.e: aol.com, yourcompany.com) to more accurately gauge our users' demographics. 
-
-##### Children
-
-We do not knowingly collect Personal Data from children or minors. If you are a child or minor, please do not give us any Personal Data. If you have reason to believe that a child has provided us with their Personal Data, please contact us at the address given below and we will endeavour to delete that information from our databases. 
-
-##### Links to other web sites
-
-This Privacy Policy applies only to www.rsa.com and to other RSA Security URLs through or from which you have reached this Web Site. This Web Site contains hyperlinks to web sites that are not operated by RSA Security. These hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party web sites or any association with their operators. We do not control these web sites and are not responsible for their data or privacy practices. We urge you to review any privacy policy posted on any site you visit before using the site or providing any Personal Data about yourself. 
-
-##### Transfer of Data Abroad
-
-RSA Security is a global enterprise and has facilities and databases in different countries. We may, from time to time, transfer your Personal Data to one of our databases in another country. If the level of privacy protection in a country does not comply with recognised international standards, we will ensure that data transferred to our databases in that country are adequately protected and that the transfer of data to third parties in such countries is made pursuant to a contract or other measures providing adequate protection. 
-
-Of course, the Internet is made up of a large number of international connections. If you are visiting this Web Site from a country other than the country in which our server is located (currently, the United States of America), the various communications will necessarily result in the transfer of information across international boundaries. By visiting this Web Site and communicating electronically with us, you consent to these transfers.
-
-##### Governing Law
-
-This privacy policy forms part of our Web Site Terms of Use and as such shall be governed by and construed in accordance with the laws of the Commonwealth of Massachusetts, U.S.A. You agree to submit any dispute arising out of your use of this Web Site to the exclusive jurisdiction of the courts of Boston, Massachusetts. 
-
-##### Questions 
-
-If you have any questions about this Privacy Policy or concerns about the way we process your Personal Data, please contact us by e-mailing us at [webmaster@rsasecurity.com](mailto:webmaster@rsasecurity.com).   
-
+Revised: June 2008
