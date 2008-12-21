@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the younews.in privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626152333id_/http%3A//www.younews.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the younews.in privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221212154id_/http%3A//www.younews.in/privacy.php) for the most accurate reproduction.*
 
 # Younews
 
