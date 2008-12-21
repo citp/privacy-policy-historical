@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the zappos.com privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414003711id_/http%3A//www.zappos.com/privacy.zhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zappos.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221142422id_/http%3A//www.zappos.com/privacy.zhtml) for the most accurate reproduction.*
 
 # Zappos.com Privacy Policy
+
+| 
+
+**[Customer Service](http://www.zappos.com/cs.zhtml): Privacy Policy**  
+  
+
 
 Thank you for accessing the web site ("Site") of Zappos.com, Inc. ("Zappos.com," that's us). We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
 
@@ -104,4 +110,17 @@ If we change or update this Privacy Policy, we will post changes and updates on 
 
 
 Effective November 30, 2007.  
-Privacy Policy copyright © 2007 Zappos.com, Inc.
+Privacy Policy copyright © 2007 Zappos.com, Inc.  
+  
+---  
+| Anyone who knows women know how much they LOVE shoes! I don't know what it is, but shoes are one of those universal items that women agree on. Shopping at Zappos is a wonderful experience. Not only do you have hundreds of shoes to choose from, your return/credit policies are unimaginable. I recommend your company to all friends and relatives. Thank you for such a wonderful, shoe shopping experience.|   
+~ Debi A., September 22 2008  
+[ **Read more testimonials!**](https://web.archive.org/n/showtestimonials.cgi)  
+  
+  
+[Submit a video testimonial!](https://web.archive.org/zapposexperience.zhtml)
+
+  
+  
+  
+| | 
