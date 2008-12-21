@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aviva.com privacy policy that was archived on 2008-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080508221756id_/http%3A//www.aviva.com/index.asp%3Fpageid%3D637) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviva.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221081043id_/http%3A//www.aviva.com/index.asp%3Fpageid%3D637) for the most accurate reproduction.*
 
 # Aviva plc : Site functions : Privacy
 
@@ -8,7 +8,7 @@ Aviva plc is a member of the Aviva Group. We will use your personal details and 
 
 We use cookies to collect information about how this site is used. We use this information to improve how the site caters for your needs and to identify any technical problems.
 
-Cookies are small bits of data that are stored by your browser. You can accept or decline cookies by modifying the settings of your web browser. Further details are available in our [Aviva cookie policy](https://web.archive.org/web/20080508221756id_/http%3A//www.aviva.com/index.asp?pageid=857) or for further information about how to disable cookies in your browser please visit the [About cookies website](https://web.archive.org/web/20080508221756id_/http%3A//www.aviva.com/index.asp?pageident=disclaimer&site=http://www.aboutcookies.org/Default.aspx?page=1).
+Cookies are small bits of data that are stored by your browser. You can accept or decline cookies by modifying the settings of your web browser. Further details are available in our [Aviva cookie policy](https://web.archive.org/web/20081221081043id_/http%3A//www.aviva.com/index.asp?pageid=857) or for further information about how to disable cookies in your browser please visit the [About cookies website](https://web.archive.org/web/20081221081043id_/http%3A//www.aviva.com/index.asp?pageident=disclaimer&site=http://www.aboutcookies.org/Default.aspx?page=1 "External link - opens in a new browser window").
 
 When you visit our site, we may also log your IP address, a unique identifier for your computer or other access device. 
 
@@ -22,12 +22,12 @@ We link to a wide variety of other sites and we display advertisements from thir
 
 You are entitled to ask for a copy of the information we hold about you (for which we may charge a small fee) and to have any inaccuracies in your information corrected. To do this please write to us at the following address: 
 
-The Data Protection Team   
-NU Professional Services   
-Business Protection   
-PO Box 457   
-Norwich   
-NR1 3EA 
+Legislation & Regulation Team (Data Protection)   
+NU UK ITS  
+Level 2  
+Pitheavlis  
+Perth  
+PH2 ONH 
 
 For quality control and training purposes, we may monitor or record your communications with us. 
 
@@ -36,4 +36,4 @@ The data protection notice may change and therefore you should review it regular
 **Aviva plc  
 Registered in England  
 Registered number: 2468686  
-Registered office: St Helens, 1 Undershaft, London EC3P 3DQ**
+Registered office: St Helens, 1 Undershaft, London EC3P 3DQ **
