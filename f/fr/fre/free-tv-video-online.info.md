@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-tv-video-online.info privacy policy that was archived on 2008-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080225123406id_/http%3A//www.free-tv-video-online.info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-tv-video-online.info privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221101549id_/http%3A//www.free-tv-video-online.info/privacy.html) for the most accurate reproduction.*
 
 # Project Free TV - Privacy Policy
 
