@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ebrandon.ca privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615125856id_/http%3A//www.ebrandon.ca/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebrandon.ca privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221165816id_/http%3A//ebrandon.ca/privacy.aspx) for the most accurate reproduction.*
 
-# eBrandon.ca - Brandon, Manitoba's Online Community - Discussion groups, photos, video, classifieds and more!
+# eBrandon.ca - Brandon, Manitoba's Online Community
+
+Privacy Policy
 
 **Policy Overview**
 
