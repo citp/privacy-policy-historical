@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowowow.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513034208id_/http%3A//www.wowowow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowowow.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221115557id_/http%3A//www.wowowow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | wowOwow
 
@@ -8,11 +8,11 @@ The following Privacy Policy governs the online information collection practices
 **  
 Publicly Shared Information**
 
-Certain areas of our site contain information supplied by visitors and others. wowoww.com is not responsible for comments, advice, information, or any other posting made by visitors or others in these areas. We reserve the right to review materials posted in any public areas and to delete or edit them, for any reason, at any time.  
+Certain areas of our site contain information supplied by visitors and others. wowowow.com is not responsible for comments, advice, information, or any other posting made by visitors or others in these areas. We reserve the right to review materials posted in any public areas and to delete or edit them, for any reason, at any time.  
 **  
 Information You Provide to Us**
 
-The only personal information this website obtains about you is information voluntarily provided by you through our website. This means that it is possible to visit and navigate through our site without giving us personally identifiable information. To contribute comments, images, multimedia or other content to the site you must register. When registering you will be required to provide us with a limited amount of personal information such as your name, e-mail address, zip code, and birth date.
+The only personal information this website obtains about you is information voluntarily provided by you through our website. This means that it is possible to visit and navigate through our site without giving us personally identifiable information. To contribute comments, images, multimedia or other content to the site you must register. When registering you will be required to provide us with a limited amount of personal information such as your name and e-mail address.
 
 During registration and at other times while using the site you may also be asked to provide us with additional information such as gender, salary/income, postal address, etc. This additional information is entirely voluntary.
 
@@ -54,7 +54,7 @@ Our website contains advertisements, including banner ads and/or links to the we
 
 **Third Party Advertising**
 
-The advertisements appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please click here.
+The advertisements appearing on this Web site are delivered to you by 24/7 Real Media, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about 24/7 Real Media, cookies, and how to "opt-out", please click [here](http://www.247realmedia.com/EN-US/privacy-policy.html).
 
 **Children’s Privacy Statement**
 
@@ -64,7 +64,7 @@ Because we do not collect any personally identifiable information from children 
 
 **Our Security Procedures  
 **  
-We take measures to protect the privacy of all information collected over our website. Only employees and supervisors with specific authorization have access to databases containing visitors’ personal information if provided. The databases are protected in a secure facility.
+We take measures to protect the privacy of all information collected over our website. Only employees and supervisors with specific authorization have access to databases containing visitors’ personal information if provided. The databases are protected in a secure facility hosted by Rackspace. For information about Rackspace’s security policies please click [here](http://www.rackspace.com/downloads/pdfs/RackspaceSecurityApproach.pdf).
 
 We will review our security measures and Privacy Policy on a periodic basis and we may modify our policies as we deem appropriate. We may also change or update our Privacy Policy if we add new services or features and will post these changes in this policy. We encourage you to review our Privacy Policy on a regular basis.
 
@@ -73,5 +73,5 @@ We will review our security measures and Privacy Policy on a periodic basis and 
 If you have questions or concerns about this Privacy Policy, our privacy practices, or your dealings with us, please contact us by writing to: [info@wowowow.com](mailto:info@wowowow.com "Email Us")
 
   
-Amended as of January 14, 2008. The Women on the Net Inc. **  
+Amended as of November 12, 2008. The Women on the Net Inc. **  
 **
