@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loqu.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503220438id_/http%3A//www.loqu.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loqu.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221074229id_/http%3A//www.loqu.com/privacy.html) for the most accurate reproduction.*
 
-# Carcaar - Privacy Policy
+# Loqu - Privacy Policy
 
 ## Privacy Statement
 
@@ -34,4 +34,4 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 ## Loqu Privacy Policy Changes
 
-If Loqu decides to change its privacy policy, Loqu will post these changes here. Please feel free to [contact us](https://web.archive.org/web/20080503220438id_/http%3A//www.loqu.com/contact.html) if you have further questions regarding our privacy practices.
+If Loqu decides to change its privacy policy, Loqu will post these changes here. Please feel free to [contact us](https://web.archive.org/web/20081221074229id_/http%3A//www.loqu.com/contact.html) if you have further questions regarding our privacy practices.
