@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611060452id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221135323id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
 
 # UniqueRewards: Get Paid to Take Online Surveys
 
@@ -93,28 +93,28 @@ By registering to use the UniqueRewards service, you agree to accept this privac
 
 |  | 
 
-[](https://web.archive.org/cgi-bin/click.cgi?mid=1759)
+[](https://web.archive.org/cgi-bin/click.cgi?mid=139)
 
-**Points.com**
+**SearchCactus.com**
 
-Shop with your points and miles at Points.com!
+Earn Quick Cash! Fill out the first-page form and complete at least one offer on the next page.
 
-[Get $3.00](https://web.archive.org/cgi-bin/click.cgi?mid=1759)
+[Get $0.50](https://web.archive.org/cgi-bin/click.cgi?mid=139)
 
-[](https://web.archive.org/cgi-bin/click.cgi?mid=857)
+[](https://web.archive.org/cgi-bin/click.cgi?mid=144)
 
-**FastWeb: Free Scholarship Search**
+**Napster U.S.**
 
-FastWeb, the Internet's leading scholarship search, helps people find valuable scholarship money to pay for college or an advanced degree.
+Napster - fast, safe and legal. Listen to full-length songs up to five times for FREE! Over 2 million songs with unlimited plays and CD quality sound for just $12.95 a month! 7-DAY FREE TRIAL! From now until Dec. 31, 2008 you can get a 1 GB Creative ZEN V MP3 player and 3 months of unlimited Napster To Go Music for only $49. A savings of 50%. That's right, a brand new MP3 player and 3 months of unlimited music for only $49!
 
-[Get $0.50](https://web.archive.org/cgi-bin/click.cgi?mid=857)
+[Get $5.00](https://web.archive.org/cgi-bin/click.cgi?mid=144)
 
-[](https://web.archive.org/cgi-bin/click.cgi?mid=1096)
+[](https://web.archive.org/cgi-bin/click.cgi?mid=785)
 
-**ECN: Shopping Spree**
+**SnagAJob.com**
 
-Receive a FREE $500 Shopping Spree!
+Find a job that fits your schedule. Find part-time and full-time hourly positions on Snagajob.
 
-[Get $0.50](https://web.archive.org/cgi-bin/click.cgi?mid=1096)
+[Get $0.50](https://web.archive.org/cgi-bin/click.cgi?mid=785)
 
 | 
