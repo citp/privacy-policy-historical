@@ -1,160 +1,201 @@
-> *The following text is extracted and transformed from the nesn.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024143458id_/http%3A//www.boston.com/help/privacy_policy) for the most accurate reproduction.*
-
-# Boston.com's Privacy Policy - Boston.com
-
-[](http://www.boston.com/help)
-
-This policy was last updated **June 8, 2006.**
-
-This policy discloses the online privacy practices for members of the New England Media Group (defined in this case as Boston.com, The Boston Globe and BostonWorks). For the purposes of this Privacy Policy, unless otherwise noted, all references to “New England Media Group” will include Boston.com, The Boston Globe (including the Boston Globe Services website), and BostonWorks. 
-
-[](http://www.truste.org/ivalidate.php?url=www.boston.com&sealid=101) The New England Media Group is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the sites: [www.boston.com](http://www.boston.com/) and <https://bostonglobe.com/services>. Because these Web sites want to demonstrate their commitment to your privacy, they have agreed to disclose their information practices and have their privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, you should first contact Customer Support (you can e-mail [feedback@boston.com](mailto:feedback@boston.com)). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the New England Media Group to resolve your concerns. 
-
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site. 
-
-We have adopted a set of information management guidelines that serve as the basis for our customer and advertiser relationships. These guidelines have been developed with the recognition that Internet technologies are rapidly evolving, and that underlying business models are still not established. Accordingly, guidelines are subject to change. Any such changes will be posted on this page. If the changes represent a material departure from our current practices with respect to the use of personal information, the changes will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail. 
-
-In this Privacy Policy, you will find the answers to the following questions: 
-
-  * What information do we gather/track about you?
-  * What do we do with the information we gather/track?
-  * With whom do we share the information that we gather/track?
-  * How do I change or update my personal information?
-  * Other information: Compliance with Legal Process
-
-
-
-For further information, you can view our [Member Agreement](http://www.boston.com/help/memberagreement/) and read our [Frequently Asked Questions about Cookies](http://www.boston.com/help/cookie_faq/). 
-
-Third party sites that are linked to Boston.com, such as Yahoo Personals and NewsBank, are governed by their own privacy policies. We are not responsible for the content or the privacy policies of websites to which Boston.com, Boston Globe Services or BostonWorks may link. 
-
-**What information do we gather/track about you?**
-
-**Registration for our websites:** There is a free registration process required to access the full range of information and services offered across our different websites (Boston.com, Boston Globe Services and BostonWorks.com). 
-
-Boston.com requires that you supply a unique e-mail address and demographic information (zip code, age, sex; household income, job industry, and job title) in order to register. You must also agree to the terms of our [Member Agreement](http://www.boston.com/help/memberagreement/). 
-
-Boston Globe Services requires that you supply your name, e-mail address, subscriber account number and/or a credit card number, and your phone number in order to transact with The Boston Globe (examples include managing your subscription or place an ad). 
-
-BostonWorks.com has optional registration; all of the content on the site is available for all users regardless of membership status. Optional registration is required for users who would like to set up job alerts and post and send resumes and/or cover letters. Information required to register includes your e-mail address and first and last name. Additional information (such as city, state, education and job title) may be supplied in conjunction with posting a resume and/or creating a job application. 
-
-Boston Globe newspaper subscriber information: We generally obtain your name, address, telephone number, credit card number or other billing information in order to process your subscription request. As a subscriber, we request that you also provide us with your e-mail address. 
-
-**Premium Products and Services:** While the majority of our websites are offered free of charge, we do charge fees for select premium products and services. These products include access to Boston Globe archives (1979-present) on Boston.com and recent home sales reports in the Boston.com real estate section. To enable the purchase of recent home reports, Boston.com collects and stores billing and credit card information. This information will only be shared with third parties who perform tasks required to complete the purchase transaction and otherwise agree to keep the information confidential. Examples of this include fulfilling orders and processing credit card payments. 
-
-The Boston Globe archives (1979-present) is hosted by NewsBank (a third party vendor), and all purchases are processed by NewsBank on behalf of Boston.com. NewsBank collects and stores billing and credit card information solely to process these purchases. NewsBank has agreed that this information will only be shared with third parties who perform tasks required to complete the purchase transaction and otherwise agree to keep the information confidential. 
-
-We also collect and store billing and credit card information where required for certain purchase transactions (such as paying for a newspaper subscription). This information will only be shared with third parties who perform tasks required to complete the purchase transaction and agree to otherwise keep the information confidential. Examples of this include fulfilling orders and processing credit card payments. 
-
-You must supply personal information, including billing address, phone number and credit card information in order to make a purchase at the online Boston Globe Store or if you are posting a job on BostonWorks. This information is only used to complete the transaction or purchase, and is not shared with other companies or with third parties. 
-
-**Contests, Sweepstakes and Special Offers:** On occasion, the New England Media Group also collects personal information from registered members or subscribers in connection with optional sweepstakes, contests or special offers. If this information is to be shared with a third party other than the New England Media Group we will notify you at the time of collection. If you do not want any personal information shared, you may always decline to participate in the sweepstakes, contest or special offer. 
-
-**Special Events and Promotions:** We often receive information regarding customers who may also attend Special Events and Promotions. Such information will be used as indicated at the time of collection. 
-
-**Reader Surveys and Market Research:** Reader surveys and market research are valuable tools that help us better respond to consumer needs and opinions and help shape our product offerings. 
-
-**Online Customer Panels:** We offer readers and customers the opportunity to participate in online research panels. These customers agree to participate in periodic surveys about their usage of products produced by The New England Media Group, their household/personal characteristics and their purchase behavior. Panel members are primarily contacted via e-mail, but may occasionally be contacted by telephone or postal mail. All survey data is reported/used in aggregate form only, and no personally identifiable information is released. As a panel member, we require that you supply us with your e-mail address only; name, home address and telephone number are optional. 
-
-**Online surveys:** Our websites may collect additional personal information from members in connection with optional reader surveys and market research activities. Information that you provide in answer to optional reader survey or market research questions may be shared, but only in the aggregate, with advertisers and partners unless we notify you otherwise at the time of collection. 
-
-**Cookies:** Our websites employ cookies to recognize you and your access privileges on Boston.com, Boston Globe Services and Bostonworks.com, as well as to track site usage. For detailed information about our use of cookies see our [Frequently Asked Questions about Cookies](http://www.boston.com/help/cookie_faq/). 
-
-Boston.com and BostonWorks.com use a commercial advertising server (currently 24/7 Real Media) to display ads on our site. In addition, advertisers may elect to use third-party advertising companies to serve ads onto our websites. In the course of serving these advertisements, the third party advertisers may place or recognize a unique "cookie" on your browser. We do not have access to these cookies or any information that they may contain. 
-
-We also reserve the right to place a New York Times Company cookie on your computer with a unique anonymous number to ensure that your browser does not see the same ad over and over again, to sequence ads in a series, and to measure the number of unique visitors that have viewed a particular ad or visited a particular Web page. 
-
-**Clear Gifs (Web Beacons/Web Bugs):** Third party advertisers may also use a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs/action tags) to help better manage advertising on our site. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies. Clear gifs may ping or alert the advertiser's server about the online movements of Web users. For instance, advertisers may place a clear gif allowing them to recognize an existing cookie on your browser if from the same service. The main difference between cookies and clear gifs is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Please keep in mind that we do not have access to any information collected by these clear gifs nor additional information they may be tied to by the advertiser. 
-
-Please click here to see a list of these commercial and advertising agencies and their privacy policies. If you would like more information about your option not to accept cookies or clear gifs placed by these companies, please click [here](http://www.networkadvertising.org/optout_nonppii.asp). 
-
-**Usage Data:** Our websites have currently contracted with Omniture, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors. We use this information to track the site's traffic, usability, performance, and effectiveness. All data collected by Omniture on behalf of our websites is owned and used by the New England Media Group. We reserve the right to publish non-personally identifiable, summary information regarding our online visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers in aggregate. Omniture uses cookies to help track visitor behavior and sets cookies on behalf of our websites, which will be listed under the domain 2O7. For more information about Omniture's privacy policy, including how to opt out, go to [www.omniture.com/policy.html](http://www.omniture.com/policy.html)
-
-Our websites are currently contracted with Tacoda Systems, a third party, to track and analyze anonymous usage and browsing patterns from our visitors and customers. All data collected by Tacoda on behalf of our websites is owned and used by the New England Media Group alone. We use this information to help provide our advertisers with more targeted advertising opportunities, which means that users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. For more information about Tacoda’s privacy policy, including how to opt out, go to <http://www.tacoda.com/notice/privacy_policy.html>. 
-
-We reserve the right to change the vendors who provide it with usage data. 
-
-**IP Addresses:** Our websites log IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We use IP address logs in an aggregate fashion to track access to our site (by domain type, for example), but we do not use IP address logs to track your session or your behavior on our site. 
-
-**Log Files:** Log data is only used in aggregate to analyze usage of our websites. 
-
-**What do we do with the information we track?**
-
-**Site Login:** Your e-mail address acts as your member login, and together with the password that you create during the registration process your e-mail address allows you to access many of the features and services on available on our websites. 
-
-Boston.com, BostonWorks.com and the Boston Globe Services website will share your e-mail address and password with each other in order to allow you to use the same login and password on each of the three sites. This means that you will be able to move back and forth on our websites without having to create a new membership account or remember a separate password for each site. 
-
-**Statistical Analysis and Banner Advertising:** Our websites may perform statistical analyses of user behavior in order to measure interest in the various areas of our site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. We also use demographic and preference information to allow advertising on our websites to be targeted, in aggregate, to the users for whom they are most pertinent. This means that users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. In both statistical analyses and banner advertisement targeting, we will disclose information to third parties only in aggregate form. 
-
-**E-Mail Newsletters:** During the registration process, you will have the opportunity to choose to receive periodic e-mails. You may also sign up to receive e-mails at any time by accessing your profile in the Member Center section. We send both editorial e-mail newsletters (news headlines, breaking news alerts, etc.) and e-mail about services offered by The New England Media Group and its partners and advertisers. 
-
-If you would like to opt-out of these emails, you may manage your subscriptions and preferences in the Boston.com Member Center. If you experience difficulty with the unsubscribe process, feel free to contact us at [feedback@boston.com](mailto:feedback@boston.com) and provide all possible e-mail addresses along with the name of the newsletter from which you would like to unsubscribe. 
-
-If your personally identifiable information or email address changes, or if you no longer desire our service, you may correct and update it by making the change in the [Boston.com Member Center](http://members.boston.com/reg/login.do?dispatch=mcenter). 
-
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. 
-
-If we decide to make changes in our email practices, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
-
-**Programs From Our Partners:** During the registration process, new users who select to register for certain featured offers from our partners will begin receiving e-mail from these companies. You will only receive e-mail messages from these companies if you elect this opt-in service. If you elect to opt-out of an e-mail from a partner, you must do so through that partner directly. One such partner is Prospectiv who provides third-party co-registration offers. These offers are labeled as being through Prospectiv. New registrants can choose whether to opt in to the various offers. If a new registrant elects to participate in such an offer, the information they supply through that opt-in process is forwarded to the third-party whose offer(s) the subscriber opts into and to Prospectiv for their use. For more information on Prospectiv ’s privacy policy, go to <http://www.eversave.com/eversave/consumers/PrivacyPolicy.jsp>. The New England Media Group may use this information as set forth in this privacy policy. 
-
-**Other Communications from The New England Media Group:** The New England Media Group may use the e-mail address provided by you at registration to contact you regarding (1) account status (including confirmation of registration or newspaper subscription), (2) major changes to the websites and or to the [Member Agreement](http://www.boston.com/help/memberagreement/) and Privacy Policy, and (3) participation in user surveys, asking for feedback about the websites and existing or prospective products and services, as well as information to better understand our users* and (4) information regarding New England Media Group products and services that may be of interest (including subscriptions, online archives, newsletters and other premium products). You may opt-out at any time from any primarily commercial messages and user surveys by following the opt-out instructions in the e-mail. 
-
-*User surveys greatly help us to improve our websites, and any information we obtain in such surveys will not be shared with third parties, except in aggregate form. 
-
-**E-mail this article/job/photo:** The “e-mail this” (article, job, photo) feature is an easy way for users of our websites to send links to (or full-text of) articles, jobs or photos through e-mail. The e-mail address(es) that you supply to use this service will only be used to send the requested content or feature. 
-
-**Message boards and chats:** We offer message boards for readers in a number of areas throughout our websites. The message boards are currently hosted and managed by Prospero, a third party vendor. Any information you disclose when posting to a message board, along with your message board screen name or ID, becomes public and may be used by the New England Media Group for online and offline promotional or commercial uses in any and all media. Chats are also currently hosted by Prospero, and any postings to a chat also become public as soon as they are published online. For more information about message boards and chats, see the Posting Policy and read the message boards and chats section of the [Member Agreement](http://www.boston.com/help/memberagreement/). 
-
-**With whom do we share the information we gather/track?**
-
-We do not share personally identifiable information with advertisers or partners. We do, however, share information about our audience in aggregate form. Credit card, billing and financial information is never disclosed, except as needed to process the transaction, under strict confidentiality requirements. 
-
-The New England Media Group may perform statistical, demographic and marketing analyses of customers and their buying and purchasing patterns for product development purposes and to generally inform advertisers about the nature of our customer base. We also use such information to allow advertising to be targeted, in aggregate, to the users for whom such advertising is the most pertinent. Personal information about you as an individual will not be disclosed without your consent. 
-
-From time to time, we may offer you the opportunity to receive information and offers about products or services from our advertisers, partners or other third parties. You will have the opportunity to opt-out of all e-mails that are sent by the New England Media Group. If you sign up to receive information directly from an advertiser, partner or third party you may contact that advertiser, partner or third party directly in order to opt-out out of future messages from them. 
-
-**Boston Globe subscriptions:** The Boston Globe reserves the right to contact you to discuss your account or to renew your subscription, in accordance with applicable laws. We also reserve the right to disclose your opt-out information to third parties so that they can "suppress" your name from future solicitations, in accordance with applicable laws. 
-
-If you are a print subscriber to The Boston Globe, or have registered at The Boston Globe Services website, then The Boston Globe may opt to share your e-mail address and other personally identifiable information with a third party service provider that sends e-mail on behalf of the newspaper. Any third party service provider will not share your e-mail address or personally identifiable information with other companies and will only send you e-mail on behalf of the newspaper. Promotional e-mails sent by an e-mail service provider will contain instructions on how to unsubscribe from future promotional e-mails sent on behalf of The Boston Globe. 
-
-**How do I change or update my personal information?**
-
-**Member Center:** You may review and update your membership or account information and access your transactions history in the Member Center area for each of our websites. 
-
-The Member Center is a centralized area where you can manage your relationship with The New England Media Group. There are a number of things you can do in the Member Center to ensure your personal information is accurate and up to date. For one, you can gain secure access to update the information you provided during the free registration process. The E-mail Preferences tab is the place to go to sign up for our e-mail newsletters and manage your delivery options. In order to gain access to the areas of the Member Center containing personal information, you will be asked to re-enter your password. If you do not remember your password, you can [reset your password here](http://members.boston.com/reg/forgetPwd.do?dispatch=view). If you need further assistance, please [contact Customer Service](mailto:feedback@boston.com). 
-
-Go to the [Boston.com Member Center](http://members.boston.com/reg/login.do?dispatch=mcenter)  
-Go to the [Boston Globe Services Member Center](https://bostonglobe.com/registration/profile/)  
-Go to the [BostonWorks.com Member Center](http://members.boston.com/reg/html/BostonWorks.html)  
-
-
-**How do I opt out from receiving promotional offers?** If, at any time you wish to discontinue receiving any specific e-mail, sent by our marketing partners or us, simply follow the unsubscribe options at the bottom of the e-mail. 
-
-If, at any time you wish to discontinue receiving any specific e-mail, sent by our marketing partners or us, simply follow the unsubscribe options at the bottom of the specific e-mail. You can send a blank message to **unsub-10-448@unsub.boston.com** and you will automatically be removed. Both the subject line and the body of the e-mail may be left blank. In addition, you may also manage your subscriptions and preferences in the Boston.com Member Center. If you experience difficulty with the unsubscribe process, feel free to contact us at [feedback@boston.com](mailto:feedback@boston.com) and provide all possible e-mail addresses along with the name of the newsletter from which you would like to unsubscribe. 
-
-If, at any time, you wish to opt-out of receiving any direct mail and/or telephone solicitations from the New England Media Group, you may notify us by calling 1-888-MY-GLOBE, or use the Member Center to manage your Boston Globe Services e-mail subscriptions at this Web address: [https:bostonglobe.com/registration/profile/email.asp](https://web.archive.org/web/20071024143458id_/http%3A//www.boston.com/help/bostonglobe.com/registration/profile/email.asp)
-
-**Previously created membership accounts:** It is possible that you may have previously created an account with one of our websites using your current e-mail address. If this is the case, you may be able to login using your e-mail address and password on other New England Media Group sites. For example, if you have created an account on BostonWorks.com, you can use the same email address and password to start your registration profile on Boston.com. Only e-mail address and username may be shared across the network of New England Media Group sites. No other registration information is shared. If you don’t remember your password, you can [reset your password here](http://members.boston.com/reg/forgetPwd.do?dispatch=view). In some cases, you may want to consider creating a new account, using a current e-mail address and a new password. 
-
-**Other information; Compliance with Legal Process**
-
-**COPPA Compliance:** In accordance with the Children's Online Privacy Protection Act (COPPA), The New England Media Group does not knowingly collect or store any personal information, even in aggregate, about children under the age of 13. 
-
-**Data Security:** To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place physical, electronic, and managerial procedures to protect the information we collect online. 
-
-We follow generally accepted industry standards to protect the personal information and email addresses submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
-
-**Compliance with Legal Process:** We may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of our websites; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions). 
-
-**How To Contact Us:**  
-For any questions or comments regarding our information or security practices, you may contact us:   
-By E-mail: [feedback@boston.com](mailto:feedback@boston.com)  
-By Phone: 617-929-7900 (between 9:00am and 5:30pm EST.)  
-By Fax: 617-929-8690, Attention Privacy Manager  
-By Mail: Boston.com, 320 Congress Street, Boston, MA 02210-1205, Attention Privacy Manager   
-
-
-|  | 
+> *The following text is extracted and transformed from the nesn.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221080312id_/http%3A//www.nesn.com/Sites/NESN/legal/NESN-Privacy-Policy.pdf) for the most accurate reproduction.*
+
+# NESN Privacy Policy
+
+                            NESN Privacy Policy
+Thank you for visiting nesn.com, a New England Sports Network LP, site. Your privacy
+is important to us. To better protect your privacy, we provide this statement explaining
+our online information practices and the choices you can make about the way your
+information is collected and used at this NESN site.
+The Information We Collect
+At some NESN sites, you can enter contests, vote in polls, order products or otherwise
+express an opinion, subscribe to one of our services such as our online newsletters, or
+participate in one of our online forums or communities. The types of personally
+identifiable information that may be collected at these pages can include: name, address,
+e-mail address, telephone number, fax number, credit card information, and information
+about your interests in and use of various products, programs, and services.
+At some other NESN web sites, you can submit information about other people. For
+example, you might submit a person's name and e-mail address to send an electronic
+greeting card and, if you order a gift online and want it sent directly to the recipient, you
+might submit the recipient's name and address. The types of personally identifiable
+information that may be collected about other people at these pages can include:
+recipient's name, address, e-mail address, and telephone number.
+At certain parts of some of our web sites, only persons who provide us with the requested
+personally identifiable information will be able to order products, programs, and services
+or otherwise participate in the site's activities and offerings.
+We also may collect certain non-personally identifiable information when you visit many
+of our web pages such as the type of browser you are using (e.g., Firefox, Opera, Internet
+Explorer), the type of operating system you are using, (e.g., Linux, Mac OS or Microsoft
+Windows) and the domain name of your Internet service provider (e.g., Verizon,
+Earthlink).
+How We Use the Information
+We may use the information you provide about yourself to fulfill your requests for our
+products, programs, and services, to respond to your inquiries about our offerings, and to
+offer you other products, programs or services that we believe may be of interest to you.
+We sometimes use this information to communicate with you, such as to notify you when
+you have won one of our contests or when we make changes to our subscriber
+agreements, to fulfill a request by you for an online newsletter, or to contact you about
+your account with us.
+BOS 46,321,831v1 2/11/2008
+
+
+We use the information that you provide about others to enable us to send them your gifts
+or cards. From time to time, we also may use this information to offer our products,
+programs, or services to them.
+The information we collect in connection with our online forums and communities is
+used to provide an interactive experience. We use this information to facilitate
+participation in these online forums and communities and, from time to time, to offer you
+products, programs, or services.
+If you choose to submit content for publication (e.g., a "letter to our editors", comments
+sent to certain personalities, a posting to a blog or a discussion board), we may publish
+your screen name and other non-personally identifiable information you have provided to
+us.
+By posting messages, uploading files, inputting data, or engaging in any other form of
+communication through this service, you are granting NESN a royalty-free, perpetual,
+non-exclusive, unrestricted, worldwide license to:
+        Use, copy, sublicense, adapt, transmit, publicly perform or display any such
+        communication.
+        Sublicense to third parties the unrestricted right to exercise any of the foregoing
+        rights granted with respect to the communication.
+The foregoing grants shall include the right to exploit any proprietary rights in such
+communication, including but not limited to rights under copyright, trademark,
+servicemark or patent laws under any relevant jurisdiction.
+We sometimes use the non-personally identifiable information that we collect to improve
+the design and content of our web site and to enable us to personalize your Web
+experience. We also may use this information in the aggregate to analyze web site usage,
+as well as to offer you products, programs, or services.
+We may disclose personally identifiable information in response to legal process, for
+example, in response to a court order or a subpoena. We also may disclose such
+information in response to a law enforcement agency's request, or where we believe it is
+necessary to investigate, prevent, or take action regarding illegal activities, suspected
+fraud, situations involving potential threats to the physical safety of any person,
+violations of our terms of use, to verify or enforce compliance with the policies
+governing our web site and applicable laws or as otherwise required or permitted by law
+or consistent with legal requirements. In addition, we may transfer personally identifiable
+information about you if we, or one of our business units, are acquired by, sold to, or
+merged with another company.
+Agents and contractors who have access to personally identifiable information are
+required to protect this information in a manner that is consistent with this Privacy Policy
+BOS 46,321,831v1 2/11/2008
+
+
+by, for example, not using the information for any purpose other than to carry out the
+services they are performing for us.
+Although we take appropriate measures to safeguard against unauthorized disclosures of
+information, we cannot assure you that personally identifiable information that we collect
+will never be disclosed in a manner that is inconsistent with this Privacy Policy.
+Certain NESN sites may disclose personally identifiable information to companies whose
+practices are not covered by this Privacy Policy (e.g., other marketers, magazine
+publishers, retailers, participatory databases, and non-profit organizations) that want to
+market products or services to you. If a web site shares personally identifiable
+information, it will provide you with an opportunity to opt out or block such uses either at
+the point of submission of your personally identifiable information or prior to any such
+disclosure.
+We may on occasion combine information we receive online with outside records to
+enhance our ability to market to you those products or services that may be of interest to
+you. If you have signed up to receive our e-mails and prefer not to receive marketing
+information from this site, follow the “unsubscribe” instructions provided on any
+marketing e-mail you receive from this site.
+In accordance with the Children's Online Privacy Protection Act (COPPA), NESN does
+not knowingly collect or store any personal information, even in aggregate, about
+children under the age of thirteen (13).
+Finally, the NESN sites covered by this Privacy Policy will not use or transfer personally
+identifiable information provided to us in ways unrelated to the ones described above
+without also providing you with an opportunity to opt out of these unrelated uses.
+Cookies & Web Beacons
+To enhance your experience with our sites, many of our web pages use "cookies."
+Cookies are text files we place in your computer's browser to store your preferences.
+Cookies, by themselves, do not tell us your e-mail address or other personally identifiable
+information unless you choose to provide this information to us by, for example,
+registering at one of our sites. However, once you choose to furnish the web site with
+personally identifiable information, this information may be linked to the data stored in
+the cookie.
+We use cookies to understand web site usage and to improve the content and offerings on
+our sites. For example, we may use cookies to personalize your experience at our web
+pages (e.g., to recognize you by name when you return to our site), save your password in
+password-protected areas, and enable you to use shopping carts on our sites. We also may
+use cookies to offer you products, programs, or services.
+BOS 46,321,831v1 2/11/2008
+
+
+"Web beacons" (also referred to as a web bug, tracking bug, tracking pixel, pixel tag, 1×1
+gif, or clear gif) are small pieces of code placed on a web page to monitor the behavior
+and collect data about the visitors viewing a web page. For example, web beacons can be
+used to track who is reading a web page or e-mail, when, and from what computer. They
+can also be used to see if an e-mail was forwarded to someone else or if a web page was
+copied to another website. We may use web beacons on this web site from time to time
+for this and other purposes.
+Collection of Information by Third-Party Sites and
+Sponsors
+Some of our sites contain links to other sites whose information practices may be
+different than ours. Visitors should consult the other sites' privacy notices as we have no
+control over information that is submitted to, or collected by, these third parties.
+The NESN sites covered by this Privacy Policy sometimes may offer content (e.g.,
+contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified
+third parties. By virtue of these relationships, the third parties may obtain personally
+identifiable information that visitors voluntarily submit to participate in the web site
+activity. We have no control over these third parties' use of this information. The web site
+will notify you at the time of requesting personally identifiable information if these third
+parties will obtain such information.
+Some of the NESN sites covered by this Privacy Policy may use a reputable third party to
+present or serve the advertisements that you may see at its Web pages. These third party
+ad servers may use cookies, web beacons, clear .gifs or similar technologies to help
+present such advertisements, and to help measure and research the advertisements’
+effectiveness. The use of these technologies by these third party ad servers is subject to
+their own privacy policies and is not covered by our Privacy Policy.
+Our Commitment to Security
+We have put in place appropriate physical, electronic, and managerial procedures to
+safeguard and help prevent unauthorized access, maintain data security, and correctly use
+the information we collect online.
+How You can Access or Correct Information
+Access to personally identifiable information that is collected from our sites may be
+accessible for a limited period of time from the point of collection. For example, if you
+created a password-protected account within our site, you can access that account to
+review the information you provided.
+BOS 46,321,831v1 2/11/2008
+
+
+You may also send an e-mail or letter to the following e-mail or street address requesting
+access to or correction of your personally identifiable information. For verification
+purposes, please include your first name, last name, e-mail address, and the password you
+use for said service.
+                           Office of Public Relations
+                           NESN
+                           480 Arsenal St.
+                           Bldg 1
+                           Watertown, MA 02472
+How to Contact Us
+If you have any questions or concerns about the online Privacy Policy for this web site or
+its implementation you may contact us at online@nesn.com.
+Updates
+From time to time, we may update this Privacy Policy. We will notify you about material
+changes in the way we treat personally identifiable information by placing a notice on our
+site. We encourage you to periodically check back and review this statement so that you
+always will know what information we collect, how we use it, and to whom we disclose
+it.
+Third Party Marketing
+This web site does not disclose personally identifiable information to third parties unless
+notification is provided when the information is submitted and the user does not opt out
+of such disclosure at that time.
+Third-Party Ad Servers
+We and our advertisers may use third parties to serve or present the ads that appear on
+our web site to serve or present the ads that appear on our web site and to conduct
+research about the advertisements. Below is a representative list of such third parties and
+a link to their privacy notices. For more information, click on the links below. For more
+information about third-party ad servers generally, click here.
+     •  Atlas DMT: http://www.networkadvertising.org or
+        http://www.atlasdmt.com/privacy/
+     •  Advertising.com: http://www.advertising.com/privacy_policy.php
+     •  Bluestreak: http://www.bluestreak.com/web/aboutus_privacypolicy.htm
+     •  DoubleClick: http://www.networkadvretising.org or
+        http://www.doubleclick.com/us/corporate/privacy
+BOS 46,321,831v1 2/11/2008
+
+
+    •   Eyeblaster: http://www.eyebalster.com/site/privacy_policy_down.htm
+    •   EyeWonder: http://www.eyewonder.com/about/privacy.cfm
+    •   Dynamic Logic: http://www.dynamiclogic.com/privacy_policy.php
+    •   Klipmart: http://www.klipmar.com/privacy.html
+    •   Millward Brown IntelliQuest: http://www.intelliquest.com/privacy/intro.asp
+    •   Unicast: http://www.unicast.com/company/privacy.asp
+BOS 46,321,831v1 2/11/2008
