@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the backstreetmerch.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512153447id_/http%3A//www.backstreetmerch.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backstreetmerch.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221125636id_/http%3A//www.backstreetmerch.com/privacy.asp) for the most accurate reproduction.*
 
-# Backstreet Merch
+# Backstreetmerch.com - Officially Licensed Music T shirts, Hoodies and other merchandise.
 
 Backstreet International Merchandise Limited will use the information provided while processing your requests and orders to provide a more personalised and professional browsing and shopping experience.
 
