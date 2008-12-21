@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coopelectricalshop.co.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609132607id_/http%3A//www.coopelectricalshop.co.uk/content/content.asp%3Fid%3D71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coopelectricalshop.co.uk privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221115023id_/http%3A//www.coopelectricalshop.co.uk/content/content.asp%3Fid%3D71) for the most accurate reproduction.*
 
 # Coop Electrical Shop
 
@@ -7,8 +7,7 @@
 
 If you would like to receive details of products and offers that may be of interest to you please indicate this by checking the box during the payment process, you may be contacted by either via e-mail, letter, telephone or other reasonable means of communications.
 
-If you have any issues regarding disclosure of information: Data Protection please contact Usha Chohan at [usha_c@coop.co.uk](mailto:usha_c@coop.co.uk)  
-
+If you have any issues regarding disclosure of information: Data Protection please contact Peter Oldham at [peter_o@coop.co.uk](mailto:peter_o@coop.co.uk).
 
   
 
