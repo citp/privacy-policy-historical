@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decawave.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206062119id_/http%3A//www.decawave.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decawave.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221200512id_/http%3A//www.decawave.com/privacy.htm) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -57,4 +57,4 @@ If you have any questions about this Privacy Policy, the privacy practices of th
 
 Last Updated: December 10, 2001
 
-Click here for [Terms of Use Agreement](https://web.archive.org/web/20050206062119id_/http%3A//www.decawave.com/legal.htm)
+Click here for [Terms of Use Agreement](https://web.archive.org/web/20081221200512id_/http%3A//www.decawave.com/legal.htm)
