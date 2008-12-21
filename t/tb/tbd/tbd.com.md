@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tbd.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602093456id_/http%3A//www.tbd.com/company/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tbd.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221224716id_/http%3A//www.tbd.com/company/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TeeBeeDee
 
@@ -6,7 +6,7 @@ Last Updated: January 15, 2008
 
 [](http://www.truste.org/ivalidate.php?url=www.tbd.com&sealid=101)
 
-Your privacy is our most cherished principle. Our Director of Community, [Betty Ray](https://web.archive.org/viewProfile.html?memberId=19) appears on your profile page. This way you can immediately ask any questions, any time.
+Your privacy is our most cherished principle. Our Director of Community, [Kat Brennan](https://web.archive.org/profile/KatBrennan) appears on your profile page. This way you can immediately ask any questions, any time.
 
 We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy:
 
