@@ -1,28 +1,27 @@
-> *The following text is extracted and transformed from the aol.in privacy policy that was archived on 2007-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071020052416id_/http%3A//www.aol.in/help/privacypolicy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aol.in privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221043404id_/http%3A//www.aol.in/help/privacypolicy.jhtml) for the most accurate reproduction.*
 
 # AOL India - Privacy Policy
 
-**AOL INDIA PRIVACY POLICY**
-
-When you register with and use AOL India, you gain access to the enhanced websites, services and other content and offerings from AOL Global Operations Limited of Dublin, Ireland and its affiliates (collectively, "AOL"). When you register with AOL, you provide personally identifiable information (your "AOL India information"). This Policy explains the information practices that apply to your AOL India information, as well as the choices you can make about the ways this information is used by AOL.
+**AOL INDIA PRIVACY POLICY**  
+When you register with and use AOL India, you gain access to the enhanced websites, services and other content and offerings from AOL Interactive Media India Private Limited ("AOL India") and its affiliates (collectively, "AOL"). When you register with AOL, you provide personally identifiable information (your "AOL India information"). This Policy explains the information practices that apply to your AOL India information, as well as the choices you can make about the ways this information is used by AOL.
 
 Registering to use your Screen Name with AOL is optional. This Privacy Policy applies only to information AOL collects about you as a user of AOL India. This policy does not apply to information about you collected by AOL's affiliated providers, such as, AOL.com, or third party Web sites and offerings linked to or otherwise accessible from AOL India. The information collected or received by AOL's affiliated providers and these third parties is subject to their own privacy policies.
 
 **Collection of your AOL India Information**
 
 Your AOL India information consists of personally identifiable information collected or received about you when you interact with AOL India's Web sites, services and offerings as a registered user. Depending on how you use the service, your AOL India information may include:  
-\- registration-related information (such as name, home or work addresses, e-mail addresses, telephone and fax numbers, birth date or gender);   
+\- registration-related information (such as name, home or work addresses, e-mail addresses, telephone and fax numbers, birth date or gender);  
 \- information about your visits to AOL India Web sites and pages, and your responses to the offerings and advertisements presented on these Web sites and pages;  
-\- information about the searches you perform through AOL India and how you use the results of those searches;   
-\- information about AOL India services or offerings that you use, and how frequently you use them;   
+\- information about the searches you perform through AOL India and how you use the results of those searches;  
+\- information about AOL India services or offerings that you use, and how frequently you use them;  
 \- information about how long you have used services from AOL India prior to registering with the service;  
-\- transaction-related information (such as credit card or other preferred means of payment, billing or shipping information, or a history of products purchased through AOL India);   
+\- transaction-related information (such as credit card or other preferred means of payment, billing or shipping information, or a history of products purchased through AOL India);  
 \- customer service information about you as a AOL India user or subscriber; or  
-\- other information specifically related to your use of a particular AOL India service or offering. 
+\- other information specifically related to your use of a particular AOL India service or offering.
 
 **Your AOL India information may be supplemented with additional information from other companies.**
 
-Your AOL India information may also include certain technical information gathered or received when you use AOL India. Some of the technical information that may be collected or received includes: the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using (e.g., Windows or Mac OS), CPU type, your manner of connecting to the Internet (e.g., connection speed through narrowband or broadband access); Internet protocol address; information about the version of service from an AOL affiliate that you used prior to registering with the service; other information about your geographic location; and the domain name of your Internet service provider. Your AOL India information may be collected and stored on AOL servers located in the United States, the territory of India and such other countries as we may disclose from time to time. Additionally, AOL India will use the AOL Screen Name Service, or similar technologies, to authenticate you on AOL India and enable you to take advantage of AOL India's offerings. You can learn more about other benefits of the Screen Name Service, including its ability to facilitate your use of Web sites outside AOL India, by visiting [Screen Name Service](https://my.screenname.aol.com/en-in).
+Your AOL India information may also include certain technical information gathered or received when you use AOL India. Some of the technical information that may be collected or received includes: the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using (e.g., Windows or Mac OS), CPU type, your manner of connecting to the Internet (e.g., connection speed through narrowband or broadband access); Internet protocol address; information about the version of service from an AOL affiliate that you used prior to registering with the service; other information about your geographic location; and the domain name of your Internet service provider. Your AOL India information may be collected and stored on AOL servers or servers of such other subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf, located in the United States, the territory of India and such other countries as we may disclose from time to time. Additionally, AOL India will use the AOL Screen Name Service, or similar technologies, to authenticate you on AOL India and enable you to take advantage of AOL India's offerings. You can learn more about other benefits of the Screen Name Service, including its ability to facilitate your use of Web sites outside AOL India, by visiting [Screen Name Service](https://my.screenname.aol.com/en-in).
 
 **How Your AOL India information is Used**
 
@@ -58,7 +57,7 @@ AOL India may use cookies, web beacons or similar technologies in combination wi
 
 AOL and its advertisers may from time to time use advertising network providers, to help present advertisements on AOL India. These advertising networks use cookies, web beacons, or similar technologies on your computer in order to provide targeted advertisements about goods and services that may be of interest to you while visiting other Web sites. AOL may share certain information about you as a user that is not personally identified (such as user age and zip code) with certain advertising network providers in order to help them deliver more relevant advertisements through their ad networks. The use of cookies, web beacons, or similar technologies by ad network providers is subject to their own privacy policies. Any choices that you have about these technologies will be presented here in the event AOL India utilizes the services of any advertising network provider. Therefore, you are encouraged to return to this section periodically for updated information about advertising networks. 
 
-**Security**
+**Our Commitment to Security**
 
 AOL has established safeguards to help prevent unauthorized access to or misuse of your AOL India information, but cannot guarantee that your personally identifiable information will never be disclosed in a manner inconsistent with this Privacy Policy (for example, as a result of unauthorized acts by third parties that violate applicable law or the policies of the service and its affiliated providers). To protect your privacy and security, AOL uses passwords to help verify your identity before granting access or making corrections to any of your AOL India information.
 
@@ -68,10 +67,10 @@ AOL India is intended for a general audience. Registration for certain services 
 
 **How to Contact Us**
 
-If you have any questions or concerns about AOL India's Privacy Policy or its implementation, you may contact us at this email address: [privacyquestions@aol.in](mailto:privacyquestions@aol.in)
+If you have any questions or concerns about AOL India's Privacy Policy or its implementation, you may contact us at this email address: [privacyquestions@aol.in](mailto:privacyquestions@aol.in?Subject=AOL%20India%27s%20Privacy%20Policy)
 
 **Changes to this Privacy Policy and Additional Information**
 
 AOL may update this Privacy Policy from time to time, and so you should review this Policy periodically. If there are significant changes to AOL India's information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from AOL India, as well as for special features and services not described in this Policy that may be introduced in the future. 
 
-Last Updated: 24 April 2007
+_Last Updated April 25, 2008_
