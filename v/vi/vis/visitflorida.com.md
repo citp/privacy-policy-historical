@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visitflorida.com privacy policy that was archived on 2008-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080521003425id_/http%3A//www.visitflorida.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitflorida.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221130123id_/http%3A//www.visitflorida.com/privacy_policy) for the most accurate reproduction.*
 
-# VISIT FLORIDA Privacy Policy - Florida vacation information, VISIT FLORIDA
+# VISIT FLORIDA Privacy Policy - | Florida Vacation, Tourism, Travel & Entertainment Information, VISIT FLORIDA
 
 **I. About VISIT FLORIDA and Privacy**  
 VISIT FLORIDA is the Official Tourism Marketing Corporation for the State of Florida.
