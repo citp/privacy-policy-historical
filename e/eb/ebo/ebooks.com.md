@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509183319id_/http%3A//www.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222050437id_/http%3A//www.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
 
 # eBooks.com - Help - Privacy
 
 **Download a book today**  
-102,000 popular, professional and academic ebooks from the world's leading publishers
+130,000 popular, professional and academic ebooks from the world's leading publishers
 
 | | | 
 
@@ -145,8 +145,7 @@ Claremont WA 6009
 Australia  
 
 
-| |  [](https://web.archive.org/iliad/)  
-
+| | 
 
 ##### Current Best Sellers
 
