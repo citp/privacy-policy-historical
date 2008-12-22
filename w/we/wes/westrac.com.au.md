@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westrac.com.au privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629201942id_/http%3A//www.westrac.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westrac.com.au privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222213440id_/http%3A//www.westrac.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - WesTrac Australia
 
