@@ -1,36 +1,84 @@
-> *The following text is extracted and transformed from the rightnow.org privacy policy that was archived on 2008-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080508054759id_/http%3A//www.rightnow.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightnow.org privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222085340id_/http%3A//www.rightnow.org/Privacy_Policy) for the most accurate reproduction.*
 
-# Privacy Policy: Rightnow.org
+# Privacy Policy - RightNow.org
 
-Your privacy is important to the Rightnow Campaign. The Rightnow Campaign provides this policy to you so that you are aware of the way we collect and use information.  
+## COMMITMENT TO YOUR PRIVACY
 
+This site is owned and operated by Priority One International. Your privacy on the Internet is of the utmost importance to us. At Priority One International, we want to make your experience online satisfying and safe. 
 
-### INFORMATION
+Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. 
 
-We collect information from you when you fill out a request form. You may fill out the form to sign-up for an account, request information on an opportunity, to request a resource or to be added to an email list.
+Definition of the Information Priority One International gathers and keeps track of. 
 
-Depending on what you are requesting, we may ask more specific questions about you and the things you are interested in. This detailed information is to help us serve you in looking for the best resource or opportunity.
+Priority One International gathers three types of information about users: 
 
-The Rightnow Campaign works with a handful of top-notch mission agencies that provide mission opportunities all over the world. Rightnow will pass your information along to only those agencies that can help you with a specific request you have made on our site. Will will do this only with your permission.
+  * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to email a friend, from requests for support and/or service, and from participation in polls and surveys.
+  * Information Priority One International gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to visitors' needs. Under no circumstances does Priority One International divulge any information about an individual user to a third party. 
+  * Information Priority One International gathers through the sale of products. This information includes names, email addresses, phone numbers, addresses and payment details of the purchase. This information is only used for that sale and for Priority One International and will never be sold or given to any third party or other organization for any reason without the consent and voluntary choice of you, the customer.
 
-The Rightnow Campaign does not pass your information on to any companies for any advertising purposes.
+Priority One International Gathers User Information In The Following Processes: 
 
-### REMOVING YOUR NAME
+**Optional Voluntary Information**
 
-If for some reason you decide to withdraw your name from our database, please use our [CONTACT](https://web.archive.org/ContactUs.aspx) form to send us a remove request.
+We may offer the following free services, which require some type of voluntary submission of personal information by users: 
 
-### Important Matters That Deserve Your Prayerful Consideration
+1\. Electronic newsletters (Dispatches) 
 
-We are delighted that you have decided to join us as we seek to participate in God’s work in nations around the world. While recent events have certainly caused us to reexamine the nature and depth of our own commitment to our mission, they have also served to emphasize the enormity of the need for the message of God’s Grace around the world. 
+We may offer a free electronic newsletter to users. Priority One International gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration. 
 
-While we are confident of God’s call on our lives to continue our work in other countries, we want to be sure that in deciding to go, you have thoughtfully and prayerfully “counted the cost” in arriving at your decision to “Go.” Our desire is that your decision is a thoughtful one, taking into account all relevant information available in light of God’s call on your life and His promise to be with us as we make disciples of the nations. (Matthew 28:18 – 20) This would include any information concerning special risks that may apply to the time and location of your travel. 
+2\. "E-mail this to a friend" Service 
 
-We can not make this decision for you or anyone else. This is your decision to make before God. You may recall that Jesus rebuked Peter for asking about John’s calling when Jesus had told Peter: “Follow me.” We are all unique with unique callings. How the risk of a certain situation might determine your decision to go or not is for you to assess. 
+Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose. 
 
-By requesting information through the Rightnow.org website or The Rightnow Campaign, you are agreeing to the following: 
+3\. Polling 
 
-> I understand that travel, particularly for mission purposes, may involve significant risks and that travel to some areas of the world involves greater health and safety risks than foreign travel in general. I understand that it is my sole responsibility to gather whatever information I need in order to assess the risk involved in any travel, stay or other activity. My participation in any such activity means that I have to my full satisfaction obtained all information necessary for me to assess the risk and to participate willingly.
+We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. Priority One International may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users. 
 
-If you need any help in getting information to help you make a decision, please let us know. A good place to start is the web site of the U.S. State Department at <http://travel.state.gov/travel/cis_pa_tw/tw/tw_1764.html> and the country information that it includes. Or you can call them at 202.647.5225. Please read and consider all the material carefully. 
+4\. Surveys 
 
-As always we want to serve you as you seek to discern what your piece of the Great Commission task is, and then as you step out in faith to be obedient to God’s call. Thank you for allowing us to serve you as you serve Jesus. 
+Priority One International may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party. 
+
+**CHILDREN**
+
+Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent. 
+
+**USAGE TRACKING**
+
+Priority One International tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. Priority One International does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser). 
+
+Priority One International sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. 
+
+**COOKIES**
+
+We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Priority One International uses cookies to manage the shopping cart system on this site. 
+
+You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to use the shopping cart functionality of this site. 
+
+**USE OF INFORMATION**
+
+Priority One International uses any information voluntarily given by our users to enhance their experience on our site, whether to provide interactive or personalized elements on the site or to better prepare future content based on the interests of our users. 
+
+As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, etc. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. Priority One International never shares newsletter mailing lists with any third parties, including advertisers, sponsors or partners. 
+
+When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. But we don't track which terms a particular user enters. 
+
+We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. 
+
+**SHARING OF THE INFORMATION**
+
+Priority One International uses the above-described information to tailor our content to suit your needs. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. 
+
+**SECURITY**
+
+Priority One International operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers. 
+
+**OPT-OUT POLICY**
+
+We give users options wherever necessary and practical. Such choices include: 
+
+  * Opting not to register to receive our electronic newsletters. 
+  * Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users 
+
+**YOUR CONSENT**
+
+By using this site, you consent to the collection and use of this information by Priority One International. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
