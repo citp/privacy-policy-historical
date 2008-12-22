@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organize.com privacy policy that was archived on 2008-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080419145050id_/http%3A//www.organize.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organize.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222033947id_/http%3A//www.organize.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,6 +27,8 @@ We may receive information about you from other sources; for example, we may obt
 
 **Third Party Content and Links to Other Web Sites**   
 When you are on our Web Sites you may be directed to other sites that are operated and controlled by third parties that are beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Web Sites onto a different web site. This includes links from advertisers, sponsors and partners that may use the Web Sites' logo as part of a co-branding agreement. These other web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a web site that is linked from our Web Sites, you should consult that web site's privacy policy before providing any personal information. 
+
+Organize.com has arranged with PowerReviews, Inc. (d/b/a Buzzillions) ("PR") [(http://www.buzzillions.com)](http://www.buzzillions.com/) to facilitate customer reviews of products sold by Organize.com. When you submit a product review to PR, you will be subject to PR's terms of use and privacy policies. The reviews you submit may be posted on both PR's site [(http://www.buzzillions.com/home-garden)](http://www.buzzillions.com/cz_4294966771_home_garden_reviews) and our site.
 
 **Purchase or Sale of Business**   
 From time to time, we may purchase a business or sell one or more of our businesses and your personally identifiable information may be transferred as a part of the purchase or sale. In the event that we purchase a business, the personally identifiable information received with that business would be treated in accordance with this Privacy Policy, if it is practicable and permissible to do so. In the event that we sell a business, we will include provisions in the selling contract requiring the purchaser to treat your personally identifiable information in the same manner required by this Privacy Policy (including any amendments to this Privacy Policy). 
