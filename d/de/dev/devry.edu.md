@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devry.edu privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616153345id_/http%3A//www.devry.edu/devry_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devry.edu privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222044039id_/http%3A//www.devry.edu/devry_privacy_policy.jsp) for the most accurate reproduction.*
 
 # DeVry University
 
@@ -14,11 +14,11 @@ DeVry will not collect any personally identifiable information about you (that i
 
 3) Children (under age 17)
 
-All persons age 17 or under must ask for and receive their parents’ or guardian’s permission before sending any information about themselves to us or to anyone online or over the Internet. Parents or guardians of persons under age 17 must send us an email indicating their approval of the child’s participation in any of the services/resources that require collection of personal information on our web sites.
+All persons age 17 or under must ask for and receive their parents' or guardian's permission before sending any information about themselves to us or to anyone online or over the Internet. Parents or guardians of persons under age 17 must send us an email indicating their approval of the child's participation in any of the services/resources that require collection of personal information on our web sites.
 
 4) Parents/Guardians
 
-Any information collected by DeVry from children is used only for the sole purpose of delivering the requested service/materials. If you have a question, or would like to review or delete your child’s personally identifiable information, contact us at the email address listed at the bottom of this statement.
+Any information collected by DeVry from children is used only for the sole purpose of delivering the requested service/materials. If you have a question, or would like to review or delete your child's personally identifiable information, contact us at the email address listed at the bottom of this statement.
 
 5) Non-personally identifiable information collected automatically
 
