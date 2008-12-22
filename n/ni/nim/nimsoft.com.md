@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nimsoft.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615051224id_/http%3A//www.nimsoft.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimsoft.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222102912id_/http%3A//nimsoft.com/privacy.php) for the most accurate reproduction.*
 
 # Nimsoft - Privacy & Security Policy
 
@@ -11,6 +11,12 @@ Nimsoft is committed to maintaining the trust and confidence of our customers an
 Personal information means any information that may be used to identify you, such as, your name, title, phone number, email address or mailing address.
 
 In general, you can browse our web site without giving us any personal information. Additional activities on our site require you to be registered - for example, to receive white papers, to request a trial version of our software or to register for an event. As part of the registration process, we ask you to fill in a simple html form where we collect additional personal/contact information. We use that information for several general purposes: to tell you about products, seminars and services if you so request; to fulfill your request; to contact you if we need to obtain or provide additional information; to verify the accuracy of our records; or to contact you regarding customer satisfaction surveys.
+
+**Use of Cookies**
+
+Part of our data collection process may involve the use of "cookies", which are small pieces of identifying information placed and stored on your computer by our server which enable our system to more readily "recognize" you when you visit. Cookies are frequently used to enable sites to more efficiently provide service, such as to customize the display to suit your interests, note your interests while visiting our site, and store information. It is our policy that any information obtained through the use of cookies will only be used internally by Nimsoft to better provide service to you and to evaluate and improve the effectiveness of the Site. Cookies will not be used to track your activities outside of the site or for any purpose not disclosed herein. 
+
+You may elect not to accept "cookies" by setting your Internet options on your computer; however, please be advised that in that case, you may not be able to access part or all of this site, or parts of this site may not operate effectively. 
 
 **Disclosure of Personal Information**
 
@@ -38,8 +44,6 @@ By using our web site, you consent to the collection and use of the information 
 
 If you have any questions or concerns about our collection, use or disclosure of your personal information, please email [privacy@nimsoft.com](mailto:privacy@nimsoft.com). For more information about this site or your visit, please email us at [webmaster@nimsoft.com](mailto:webmaster@nimsoft.com).
 
-"As the market leader in the UK betting industry and the best-known brand in the global eGaming market, Ladbrokes works hard to continuously deliver innovative value and services to our customers."
+"The extreme ease of implementation from Nimsoft especially impressed us. Additionally, Nimsoft was very flexible in accommodating our needs, and continuously made modifications and enhancements based on our requirements. We've been especially pleased with Nimsoft's end-to-end infrastructure monitoring capabilities, and with how quickly they could develop solutions for our ever-changing needs." 
 
-"During our extensive research and onsite trials, we quickly realised that NimBUS adhered to all of our strict functionality requirements, including scalability, ease-of-use, and cross platform reach. All in all, we found that NimBUS is a fantastic solution also because of its built-in intelligence for service level management which is a key IT contribution to the continued success of our business."
-
-Paul Thompson, Office Systems Manager, Ladbrokes
+Morten Hagland Hansen, Global IP Engineering Manager, RigNet
