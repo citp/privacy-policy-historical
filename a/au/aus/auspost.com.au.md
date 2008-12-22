@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auspost.com.au privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630211707id_/http%3A//www.auspost.com.au/APC/CDA/Site_Governance/APC_CDA_Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auspost.com.au privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223001840id_/http%3A//www.auspost.com.au/APC/CDA/Site_Governance/APC_CDA_Privacy_Policy) for the most accurate reproduction.*
 
 # Australia Post - Privacy Policy
 
