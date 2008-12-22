@@ -1,11 +1,16 @@
-> *The following text is extracted and transformed from the doneright.com privacy policy that was archived on 2008-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080507114600id_/http%3A//www.doneright.com/PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doneright.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222121315id_/http%3A//www.doneright.com/PrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # DoneRight.com - Privacy Policy
 
 OUR COMMITMENT TO PRIVACY   
 | 
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. If you do not agree with the terms of this policy, your sole remedy is to cease using the Done Right!™ services and to not submit any information to the site.   
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our information practices and the choices you can make about the way we collect and use information. If you do not agree with the terms of this policy, your sole remedy is to cease using the Done Right!® services and to refrain i) from calling any Done Right! Service Providers using a number marketed by Done Right! and ii) from submitting any information to us through interaction with our website or those portions of other parties' websites that offer our services (which we refer to as "Done Right! Designated Areas")   
+  
+WHAT THIS POLICY COVERS   
+| 
+
+This policy applies to the information that Done Right! receives when you call a Done Right! Service Provider using a number marketed by Done Right!, and when you interact with our website or a Done Right! Designated Area. It does not govern how any Done Right! Service Provider whom you contact uses the information that it receives, or how the operator of any website on which a Done Right! Designated Area appears uses the information that it receives. Those third parties' use of the information that they receive is governed by their privacy policies.   
   
 CHANGES TO THE POLICY   
 | 
@@ -35,17 +40,17 @@ HOW WE COLLECT & USE INFORMATION
 
 We collect the information detailed above that you submit to us and that we determine from other sources, such as your use of certain telephone numbers, your own telephone number, and by other lawful methods. 
 
-When you call one of our approved Done Right Service Providers using a number marketed by Done Right, the Service Provider you call very often receives a record of the phone number you called from and, by the terms of this Privacy Policy and the Done Right Site and Service User Agreement, is allowed to call you back. Once you have established contact with a Done Right Service Provider you are no longer just a customer of Done Right, but also of the Service Provider and are subject to the Service Provider's own marketing policies and practices for which Done Right bears no responsibility. 
+When you call one of our approved Done Right! Service Providers using a number marketed by Done Right!, the Service Provider you call very often receives a record of the phone number you called from and, by the terms of this Privacy Policy and the Done Right! Site and Service User Agreement, is allowed to call you back. As indicated above, once you establish contact with a Done Right! Service Provider you are no longer just a customer of Done Right!, but also a customer of the Service Provider. As a result, you become subject to the Service Provider's own marketing and privacy policies and practices (for which Done Right! bears no responsibility). 
 
-Prior to calling a Done Right Service Provider, your contact information will not be supplied to any Done Right Service Provider. Once you have called a Done Right Service Provider using a number marketed by Done Right, the Service Provider you called may, as described in the paragraph above, receive your contact information. If the Service Provider you called has been de-listed, suspended or has otherwise exited the Done Right Program before we are able to effectively stop marketing the Service Providers' number, we may supply your contact information to a Done Right Service Provider in-good-standing who offers the same class of service(s). 
+Prior to your calling a Done Right! Service Provider, your contact information will not be supplied to any Done Right! Service Provider. Once you have called a Done Right! Service Provider using a number marketed by Done Right!, the Service Provider you called may, as described in the paragraph above, receive your contact information. If the Service Provider you called has been de-listed, suspended or has otherwise exited the Done Right! Program before we are able to effectively stop marketing the Service Providers' number, we may supply your contact information to a Done Right! Service Provider in-good-standing who offers the same class of service(s). 
 
 To view the Done Right Site and Service User Agreement [click here](https://web.archive.org/UserAgreement.cfm). 
 
-Overall, we use your information to provide you with various promotional materials and information pertaining to products and/or services that we have identified you may be interested in, and to measure the effectiveness of our service in helping match Done Right Service Providers with consumers who need their services. 
+Overall, we use your information to provide you with various promotional materials and information pertaining to products and/or services that we have identified you may be interested in, and to measure the effectiveness of our service in helping match Done Right! Service Providers with consumers who need their services. 
 
-We may also share your information with third parties we approve of, and that we believe may have information or provide goods and/or services that we have identified you may be interested in. Though, unlike the Service Providers listed in the Done Right Directory™, who you called, these third parties – with the exception of market research vendors we hire to learn more about our service – cannot contact you directly without your expressed written consent. 
+We may also share your information with third parties we approve of, and that we believe may have information or provide goods and/or services that we have identified you may be interested in. Though, unlike the Service Providers listed in the Done Right! Directory™, who you called, these third parties – with the exception of market research vendors we hire to learn more about our service – cannot contact you directly without your expressed written consent. 
 
-The phone number you supply us with to secure the benefits of the Done Right Guarantee™ will not be supplied by us to any Done Right Service Provider unless you have previously called that Service Provider using a number listed in one of Done Right's various marketing vehicles. We use the collected information to alert you regarding important changes to our services, including our websites. 
+The phone number you supply us with to secure the benefits of the Done Right! Guarantee® will not be supplied by us to any Done Right! Service Provider unless you have previously called that Service Provider using a number listed in one of Done Right!'s various marketing vehicles. We use the collected information to alert you regarding important changes to our services, including our websites. 
 
 We use your return e-mail address(es) to answer the e-mail we receive. 
 
@@ -80,12 +85,12 @@ Note to parents: If you have any concerns about our web sites or related service
 THIRD PARTY RELATIONSHIPS   
 | 
 
-We have relationships with many companies throughout the world. You should read the privacy policies of these third parties and decide whether or not to continue using the services based upon their privacy policies. NO THIRD-PARTY SITES ARE COVERED BY OUR PRIVACY POLICY.   
+We have relationships with many companies throughout the world. You should read the privacy policies of these third parties and decide whether or not to continue using the services based upon their privacy policies. NO THIRD-PARTY SITES, INCLUDING SITES ON WHICH DONE RIGHT! DESIGNATED AREAS APPEAR, ARE COVERED BY OUR PRIVACY POLICY.   
   
 INTERNATIONAL PRIVACY   
 | 
 
-This Privacy Policy may not be applicable in all countries where web sites are accessible, as security policies may vary according to the individual Internet laws in each host country. By providing information to our web sites you consent to the processing of your information in the United States in accordance with this policy.   
+Done Right! services are not offered to individuals residing outside the United States. Accordingly, such individuals are not authorized to submit any information to us. In any event, this Privacy Policy may not be applicable in all countries where web sites are accessible, as security policies may vary according to the individual Internet laws in each host country. By providing information to our web sites you consent to the processing of your information in the United States in accordance with this policy.   
   
 HOW TO CONTACT US   
 | 
