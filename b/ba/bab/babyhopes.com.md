@@ -1,24 +1,25 @@
-> *The following text is extracted and transformed from the babyhopes.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229090140id_/http%3A//www.babyhopes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyhopes.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222150134id_/http%3A//www.babyhopes.com/pages.php%3Fpageid%3D3) for the most accurate reproduction.*
 
-# Privacy / Security Statement - BabyHopes.com
+# Privacy and Security Policy - BabyHopes.com
 
-Effective February 1 2001
+Privacy and Security Statement
 
-**Our Commitment To Privacy: **  
+Effective August 1, 2008 
+
+Our Commitment To Privacy:   
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
 * * *
 
-**The Information We Collect: **  
-This notice applies to all information collected or submitted on the BabyHopes.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
-
+The Information We Collect:   
+This notice applies to all information collected or submitted on the BabyHopes.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:   
 Name   
 Address   
 Email address   
 Phone number   
 Credit/Debit Card Information 
 
-On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:
+On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are: 
 
 Name   
 Address   
@@ -28,7 +29,7 @@ Our shopping cart uses cookies to keep track of your order. If you return in 30 
 
 * * *
 
-**The Way We Use Information:**   
+The Way We Use Information:   
 We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
 We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
@@ -41,20 +42,21 @@ Finally, we never use or share the personally identifiable information provided 
 
 * * *
 
-**Our Commitment To Data Security:**  
+Our Commitment To Data Security:   
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-The online transactions at BabyHopes.com are handled with industry-standard SSL encryption. It's easy to tell when you are protected by encryption -- the lock or key at the bottom of your browser changes color or is no longer broken. This may vary depending on your browser. If you see https:// instead of http:// at the top of the browser, this also means that what you are doing is being encrypted.  
-All credit card numbers are encrypted and stored in the secure server until the transaction has been authorised. Once authorised, the encrypted credit card number is totally erased from the server.
+The online transactions at BabyHopes.com are handled with industry-standard SSL encryption. It's easy to tell when you are protected by encryption -- the lock or key at the bottom of your browser changes color or is no longer broken. This may vary depending on your browser. If you see https:// instead of http:// at the top of the browser, this also means that what you are doing is being encrypted.
+
+All credit card numbers are encrypted and stored in the secure server until the transaction has been authorised. Once authorised, the encrypted credit card number is totally erased from the server. 
 
 * * *
 
-**Our Commitment To Children's Privacy:**  
+Our Commitment To Children's Privacy:   
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
 
 * * *
 
-**How You Can Access Or Correct Your Information: **  
+How You Can Access Or Correct Your Information:   
 You can access all your personally identifiable information that we collect online and maintain by [contacting us](http://www.earthsmagic.com/support-center/) via our contact form. We use this procedure to better safeguard your information. 
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
@@ -63,7 +65,5 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 * * *
 
-**How To Contact Us:**   
-Should you have other questions or concerns about these privacy policies, please contact us via our [contact form](http://www.earthsmagic.com/support-center/).
-
-* * *
+How To Contact Us:   
+Should you have other questions or concerns about these privacy policies, please contact us via our [contact form](http://www.earthsmagic.com/support-center/). 
