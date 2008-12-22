@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poolcorp.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616040009id_/http%3A//www.poolcorp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poolcorp.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222103931id_/http%3A//www.poolcorp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | POOLCORP
 
