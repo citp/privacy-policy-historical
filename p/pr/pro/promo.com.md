@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the promo.com privacy policy that was archived on 2006-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061006184130id_/http%3A//www.promo.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promo.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222081114id_/http%3A//www.promo.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# Continental Promotion Group, Inc. - Fulfilling the Promise of Promotion
+# Continental Promotion Group, Inc. - Privacy Policy
 
 ## Privacy Policy
 
@@ -29,6 +29,3 @@ We reserve the right to change this privacy policy at any time, but will alert y
 ### Cookies, Logs and Links
 
 Cookies are small files stored on your computer to collect information which is used to personalize the site when you return. We do not use cookies to collect personal information about you. However, we do use temporary session cookies to enable page-to-page navigation within the site. These cookies are erased when you close your browser. We may use aggregated IP addresses from various users of this site to analyze trends, and provide for the administration and upkeep of the site. Such IP addresses are not linked to your personal data. This privacy policy applies only to information collected on this website. We are not responsible for the content, privacy and security practices and policies of other websites that may be linked to this site. Links from our site to third parties or to other sites are provided for your convenience. We encourage you to investigate their privacy and security policies before providing them with personal information.
-
-[](http://www.bbbonline.org/cks.asp?id=104122113431949932) Copyright ©2006 Continental Promotion Group, Inc. All rights reserved.  
-[Privacy Policy](https://web.archive.org/privacy_policy.asp)
