@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rbspeople.com privacy policy that was archived on 2007-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070822133426id_/http%3A//www.rbspeople.com/microsite_global_options.asp%3Fid%3DRBSPEOPLE/GLOBAL/PRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbspeople.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222124913id_/http%3A//www.rbspeople.com/microsite_global_options.asp%3Fid%3DRBSPEOPLE/GLOBAL/PRIVACY) for the most accurate reproduction.*
 
-# RBS: Privacy Policy - Privacy
-
-## Privacy
+# RBS: Privacy
 
 We are committed to protecting your privacy during your visits to our website and recognise our responsibility to hold your information securely and confidentially.
 
