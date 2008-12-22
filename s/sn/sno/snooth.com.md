@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snooth.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513133426id_/http%3A//www.snooth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snooth.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222185426id_/http%3A//www.snooth.com/privacy) for the most accurate reproduction.*
 
 # Snooth | Privacy
 
@@ -28,6 +28,13 @@ From time to time, Snooth will update its privacy notice. If our information pra
 
 Registered users can review the personal information they provided to Snooth and make any desired changes to the information at any time by logging in to their account and editing the information on the account settings page. They can also close their account by contacting Snooth through the contact us page. Users may export their reviews and ratings data at any time using the tools provided by Snooth.
 
+**Editorial Policy**
+
+The content of Snooth's emails is chosen completely at the discretion of the Snooth Editorial Team. No one can pay to change the opinions written in a Snooth email. Selling our editorial content would destroy the legitimacy, integrity, and fun of Snooth emails and would ruin the trust between Snooth and its users. On occasion we will send out "sponsored" emails on behalf of wine organizations that have something special to offer the Snooth community, these emails will be marked as sponsored.
+
 **Questions or Comments**
 
 [Contact us](http://www.snooth.com/contact/). 
+
+  
+
