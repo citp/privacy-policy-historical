@@ -1,15 +1,9 @@
-> *The following text is extracted and transformed from the histats.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623063505id_/http%3A//www.histats.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the histats.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222050939id_/http%3A//www.histats.com/terms.php) for the most accurate reproduction.*
 
-# 
+# Histats.com
 
-...........................................................................................................................
-
-Terms Of USE
-
-  
-
-
- \- The following types of sites are NOT allowed to participate in histats.com: sites encouraging illegal activity or racism, sites providing instructions or discussions about performing illegal activities, sites that promote or utilize software or services designed to deliver unsolicited email, or any other sites we deem to be inappropriate.  
+Terms Of USE  
+\- The following types of sites are NOT allowed to participate in histats.com: sites encouraging illegal activity or racism, sites providing instructions or discussions about performing illegal activities, sites that promote or utilize software or services designed to deliver unsolicited email, or any other sites we deem to be inappropriate.  
 \- You agree not to change the histats.com counter code that you will insert on your site.
 
 -. Users acknowledge and agree that their Web site information (site name, URL, traffic counts, etc.) may be utilized by histats.com. Possible uses include (but are not limited to) a directory of the sites using our service, general promotional uses, etc.
@@ -22,8 +16,7 @@ Terms Of USE
 
 \- We both own the data regarding visitors to your Web site that we collect. You can use the data we provide for any legal purposes. We will use the data in compliance with our privacy policy.
 
-Privacy Policy
-
+Privacy Policy  
 We encourage you to read this Policy carefully. If you have any questions about this Policy, our use of your Personal Information, or your dealings with this website, please feel free to contact us. 
 
 We may update this Policy from time to time in our sole discretion to reflect changes in our use of your Personal Information and/or applicable law. Any changes made to this Policy will be reflected in an updated policy (denoted by an updated date above) posted on our website at [www.histats.com.](http://www.histats.com/)
