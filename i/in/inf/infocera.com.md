@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infocera.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615022646id_/http%3A//www.infocera.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infocera.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222211135id_/http%3A//www.infocera.com/privacyPolicy.php) for the most accurate reproduction.*
 
-# 
+# Infocera ! A Members Owned Free Information Site
 
   |  **Contents**
 
