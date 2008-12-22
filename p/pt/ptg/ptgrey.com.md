@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptgrey.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610094427id_/http%3A//www.ptgrey.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptgrey.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222193104id_/http%3A//www.ptgrey.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Point Grey Research Inc. - Privacy Policy
 
@@ -26,7 +26,7 @@ Point Grey Research may disclose personal information if required to do so by la
 
 Opt Out
 
-Your privacy is important to us. If you do not wish to receive future communication from Point Grey Research, [go to our Unsubscribe page](https://web.archive.org/web/20080610094427id_/http%3A//www.ptgrey.com/legal/unsubscribe.asp).
+Your privacy is important to us. If you do not wish to receive future communication from Point Grey Research, [go to our Unsubscribe page](https://web.archive.org/web/20081222193104id_/http%3A//www.ptgrey.com/legal/unsubscribe.asp).
 
 Comments on the Point Grey Privacy Statement
 
@@ -34,6 +34,6 @@ Point Grey welcomes your email or post mail comments regarding our privacy state
 
 Privacy Officer  
 Point Grey Research  
-8866 Hudson St  
-Vancouver, BC, CANADA  
-V6P 4N2 
+12051 Riverside Way  
+Richmond, BC, Canada  
+V6W 1K7
