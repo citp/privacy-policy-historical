@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightspeedsystems.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616034202id_/http%3A//www.lightspeedsystems.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightspeedsystems.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222030924id_/http%3A//www.lightspeedsystems.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy — Lightspeed Systems
 
