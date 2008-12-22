@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitnsw.com privacy policy that was archived on 2008-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080224122649id_/http%3A//www.visitnsw.com/Privacy_p863.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitnsw.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222030417id_/http%3A//www.visitnsw.com/Privacy_p863.aspx) for the most accurate reproduction.*
 
 # Privacy, Visit NSW
 
@@ -14,7 +14,7 @@ This site receives more than 130,000 visitors per month. Tourism New South Wales
 
 Tourism New South Wales will only disclose personal information about you in accordance with the Information Protection Principles. Where we use a third party contractor to provide this web site with booking services or information mailing services, we ensure that our service agreements include privacy protection clauses. For more information concerning our privacy policy or information handling practices, please refer to the appropriate sections below. 
 
-If you feel aggrieved by the conduct of Tourism New South Wales in respect of your privacy, then you are entitled to ask to have that conduct reviewed. If you would like information on how to make an application to have conduct reviewed, contact the Manager, Policy & Planning via our reception on 9931 1111. 
+If you feel aggrieved by the conduct of Tourism New South Wales in respect of your privacy, then you are entitled to ask to have that conduct reviewed. If you would like information on how to make an application to have conduct reviewed, contact the Group Manager, Business Services via our reception on 9931 1111. 
 
 ### Internet use 
 
@@ -40,7 +40,7 @@ In order to provide as much information as possible, our website is quite large.
 
 [Maps](https://web.archive.org/Privacy_p863.aspx#maps)   
 [Accommodation, Activities & Attractions](https://web.archive.org/Privacy_p863.aspx#accom)   
-[Escapes Newsletter](https://web.archive.org/Privacy_p863.aspx#escapes)   
+[Escapes, Insights & other Tourism NSW newsletters](https://web.archive.org/Privacy_p863.aspx#escapes)   
 [Competitions](https://web.archive.org/Privacy_p863.aspx#comp)   
 [Tourism Operators](https://web.archive.org/Privacy_p863.aspx#operators)   
 [Webmaster Feedback](https://web.archive.org/Privacy_p863.aspx#feedback)
@@ -57,9 +57,9 @@ These sections cover Accommodation, Tours, Attractions, Events, Transport and Hi
 
 ### Escapes Newsletter 
 
-Tourism New South Wales collects your personal information in order to send you the free “escapes” e-newsletter that contains new and exciting travel or event information. The provision of your personal information is voluntary. Should you not wish to provide your personal information we will be unable to send you the escapes newsletter. Any personal information that you provide to us can be deleted at any time by unsubscribing. At no point will Tourism New South Wales divulge this information to third parties. Tourism New South Wales also collects your information for specific market research and to determine if there are any demographic trends in the way the consumers use the travel information and book travel products. This information is aggregated as statistical information and the analysis allows us to deliver more exciting and competitive holiday destinations that in turn allow the tourism industry in this state to grow. 
+Tourism New South Wales collects your personal information in order to send you the free “Escapes” and "Insights" e-newsletters that contain new and exciting travel or event information. The provision of your personal information is voluntary. Should you not wish to provide your personal information we will be unable to send you the newsletters. Any personal information that you provide to us can be deleted at any time by unsubscribing. At no point will Tourism New South Wales divulge this information to third parties. Tourism New South Wales also collects your information for specific market research and to determine if there are any demographic trends in the way the consumers use the travel information and book travel products. This information is aggregated as statistical information and the analysis allows us to deliver more exciting and competitive holiday destinations that in turn allow the tourism industry in this state to grow. 
 
-Should you wish to unsubscribe to the escapes newsletter, click on the link at the bottom of an Escapes e-newsletter and we will not send any further material to you. Should you wish to unsubscribe, the date of unsubscription is retained against your e-mail address as evidence of our compliance with the Spam Act.
+Should you wish to unsubscribe to the Escapes or Insights newsletter, click on the link at the bottom of an Escapes or Insights e-newsletter and we will not send any further material to you. Should you wish to unsubscribe, the date of unsubscription is retained against your e-mail address as evidence of our compliance with the Spam Act.
 
 ### Competitions
 
