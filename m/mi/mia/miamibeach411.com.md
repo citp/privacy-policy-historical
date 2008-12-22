@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miamibeach411.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609223405id_/http%3A//www.miamibeach411.com/mb411/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamibeach411.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222091259id_/http%3A//www.miamibeach411.com/mb411/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,6 +16,17 @@ Miami Beach 411, Inc
 Phone: **(305) 754-2206**  
 Email: support@miamibeach411.com
 
+| 
+
+[](http://server.iad.liveperson.net/hc/78433145/?cmd=file&file=visitorWantsToChat&site=78433145&byhref=1&imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1c)  
+  
+---  
+  
+**Our team is standing by to help you. Click to chat.**  
+  
+  
+
+
 We do maintain server logs that identify IP addresses and browsing software and hardware information. We use this information to block people who use automated tools to bulk download the Site or who try to exploit security vulnerabilities. Server logs and blocking actions are not shared except with ISP administrators in cases of attempted fraud or copyright infringment and with legally warranted authorities when required by law. 
 
 With respect to Ad Servers: we try and to bring you offers that are of interest to you, we have relationships with companies such as Google and Hotels.com that we allow to place ads on our webpages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.
@@ -26,6 +37,6 @@ With respect to security: we have appropriate security measures in place in our 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes and provide you with the ability to opt out of these new uses. 
 
-For other terms and conditions that apply to your use of the Site, please review our [Legal Statement](https://web.archive.org/web/20080609223405id_/http%3A//www.miamibeach411.com/mb411/copyright.html). 
+For other terms and conditions that apply to your use of the Site, please review our [Legal Statement](https://web.archive.org/web/20081222091259id_/http%3A//www.miamibeach411.com/mb411/copyright.html). 
 
 If you feel that this site is not following its stated information policy, you may contact us at support@miamibeach411.com.
