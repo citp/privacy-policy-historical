@@ -1,140 +1,556 @@
-<!--The following is the downloaded HTML source of the miamibeach411.com privacy policy that was archived on 2008-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609223405id_/http%3A//www.miamibeach411.com/mb411/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the miamibeach411.com privacy policy that was archived on 2008-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081222091259id_/http%3A//www.miamibeach411.com/mb411/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><!-- InstanceBegin template="/Templates/business-listing-no-picture.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/business-listing-no-picture.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<!-- MAIN TEMPLATE -->
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Privacy Policy</title>
-<!-- InstanceEndEditable --> 
-<link rel="shortcut icon" href="http://miamibeach411.com/imgs/palm.ico" type="image/x-icon">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link href="../mb411v3.css" rel="stylesheet" type="text/css">
-<!-- InstanceBeginEditable name="head" -->
-<meta name="description" content="Miami Beach 411 Privacy Policy"><meta name="keywords" content="Miami Beach 411 p">
 <!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset={charset}">
+<link rel="shortcut icon" href="http://miamibeach411.com/imgs/palm.ico" type="image/x-icon">
+
+<link href="http://www.miamibeach411.com/styles.css" rel="stylesheet" type="text/css">
+
+<!-- begin styles for tabs -->
+<link href="http://www.miamibeach411.com/scripts/global.css" rel="stylesheet" type="text/css">
+<link href="http://www.miamibeach411.com/scripts/home.css" rel="stylesheet" type="text/css">
+
+<script src="http://www.miamibeach411.com/scripts/jquery.js" type="text/javascript" charset="utf-8"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function() {
+		 
+		 // toggles the slickbox on clicking the noted link 
+		  $('a#sm_toggle').click(function() {
+		    $('#sm_outer').slideToggle(400);
+		    return false;
+		  });
+		 
+		});
+
+		$(document).ready(function() {
+		  $('a#loginLink').click(function() {
+			if (document.getElementById('loginFormMiniMain').style.display == 'block')
+			{
+				$('#loginFormMiniMain').fadeOut('fast');
+			}
+			else
+			{
+				$('#loginFormMiniMain').fadeIn('fast');
+				document.getElementById('username').focus();
+			}
+		    return false;
+		  });
+		});
+
+	</script>
+
+
+<!--[if IE 7]>
+	<link rel="stylesheet" href="http://www.miamibeach411.com/scripts/ie7.css" type="text/css" media="screen, projection" charset="utf-8" />
+	<![endif]-->
+
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="http://www.miamibeach411.com/scripts/ie6.css" type="text/css" media="screen, projection" charset="utf-8" />
+	<![endif]-->
+
+<!-- end styles for tabs -->
+
+<!-- InstanceBeginEditable name="head" -->
+<meta name="Description" content="Miami Beach 411 Privacy Policy">
+<meta name="Keywords" content="Miami Beach 411 p">
+<!-- InstanceEndEditable -->
+
+
+<meta name="verify-v1" content="GaixzfSY9rW0DqVXyX2rUI5OqXDbT4dUe/rqPEfL7ss=">
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-442477-1";
 urchinTracker();
 </script>
+
+
+<!-- begin tab  scripts 
+	<script src="http://www.miamibeach411.com/scripts/contentslider.js" type="text/javascript"></script>
+end tab  scripts -->
+
+
+<!-- begin ad bookmark script -->
+<script type="text/javascript" src="http://www.miamibeach411.com/scripts.js">
+</script>
+<!-- end ad bookmark script -->
+
+<!-- begin other tab scripts -->
+<script type="text/javascript">
+//<![CDATA[
+    jQuery.preloadImages = function()
+{
+  for(var i = 0; i<arguments.length; i++)
+  {
+    jQuery("<img>").attr("src", arguments[i]);
+  }
+}
+
+$.preloadImages( 
+"http://www.miamibeach411.com/images/tab_active_2.jpg", 
+"http://www.miamibeach411.com/images/tab_active_3.jpg", 
+"http://www.miamibeach411.com/images/tab_active_4.jpg", 
+
+"http://www.miamibeach411.com/images/tab_hover_1.jpg",
+"http://www.miamibeach411.com/images/tab_hover_2.jpg",
+"http://www.miamibeach411.com/images/tab_hover_3.jpg",
+"http://www.miamibeach411.com/images/tab_hover_4.jpg",
+
+"http://www.miamibeach411.com/images/tab_normal_1.jpg",
+"http://www.miamibeach411.com/images/tab_normal_2.jpg",
+"http://www.miamibeach411.com/images/tab_normal_3.jpg",
+"http://www.miamibeach411.com/images/tab_normal_4.jpg"
+
+);
+//]]>
+</script>
+
+<script type="text/javascript">
+ //<![CDATA[
+ 	var lastTabId = 1;
+	function tab_switch(id)
+	{
+		document.getElementById('section-' + lastTabId).style.display = 'none';
+		document.getElementById('section-' + id).style.display = 'block';
+		lastTabId = id;
+		
+		var ourTabs = document.getElementById('tab_anchors').getElementsByTagName("li");
+		
+		for(var i = 0; i < ourTabs.length; i++)
+		{
+			if ((i + 1) == id)
+			{
+				ourTabs[i].className = 'tabOn' + (i+1);
+			}
+			else
+			{
+				ourTabs[i].className = 'tab' + (i+1);
+			}
+		}
+		
+		//.anchors .tabs-selected a.a_tab1:link, .anchors .tabs-selected a.a_tab1:visited,
+		
+		
+	}
+//]]>
+</script>
+<!-- end other tab scripts -->
 </head>
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<a name="top"></a>
-<table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td bgcolor="#000E48"><img src="../imgs/au.gif" width="20" height="5"></td>
-  </tr>
-</tbody></table>
-<table width="760" height="130" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
-    <td valign="top" background="../imgs/bg_cityscape.jpg"> <table width="728" border="0" align="center" cellpadding="0" cellspacing="0">
-        <tbody><tr> 
-          <td width="300"><table width="300" border="0" align="center" cellpadding="0" cellspacing="0">
-              <tbody><tr> <!-- InstanceBeginEditable name="PageName" --> 
-                <td class="logo"><a href="http://www.miamibeach411.com" class="logo">Miami Beach 411</a></td>
-                <!-- InstanceEndEditable --></tr>
-            </tbody></table>
-            <table width="300" border="0" align="center" cellpadding="0" cellspacing="0">
-              <tbody><tr> <!-- InstanceBeginEditable name="PageURL" --> 
-                <td class="logoSmall"><a href="http://www.miamibeach411.com/" class="logoSmall">miamibeach411.com</a></td>
-                <!-- InstanceEndEditable --></tr>
-            </tbody></table></td>
-          <td valign="top" class="headerText"><div align="right"><!-- InstanceBeginEditable name="HeaderText" --><!-- #BeginLibraryItem "/Library/HeaderText.lbi" --><strong>Travel to Miami, Florida with a <em>Sun Post</em> "Best of 2007" 
-trip-planning <br>
-site that reaches more than 400,000 visitors per month.</strong><!-- #EndLibraryItem --><!-- InstanceEndEditable --></div></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-</tbody></table>
-<table width="760" height="145" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
-    <td valign="bottom" background="../imgs/bg-wave2.jpg"> 
-      <div align="center"> 
-        <table width="728" height="90" border="0" align="center" cellpadding="0" cellspacing="0">
-          <tbody><tr> 
-            <td><!-- InstanceBeginEditable name="GoogleAd#1" --> <a href="http://forums.miamibeach411.com/"><img src="../banners/miami-forums.gif" alt="Miami Beach Community Forums" width="728" height="90" border="0"></a> 
-              <!-- InstanceEndEditable --></td>
-          </tr>
-        </tbody></table>
-        <table width="760" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="160">&nbsp;</td>
-            <td width="450"><table width="430" height="40" border="0" align="center" cellpadding="0" cellspacing="0">
-                <tbody><tr> 
-                  <td height="22" valign="top" class="path">&nbsp;</td>
-                </tr>
-                <tr> 
-                  <td height="20" valign="top" class="path"><!-- InstanceBeginEditable name="Path" --><a href="../index.html" class="pathLinked">Miami 
-                    Beach 411</a> : <a href="index.html" class="pathLinked">About 
-                    Us</a> : Search results for<strong><strong> Privacy Policy 
-                    </strong></strong>: Scroll down for contact information and 
-                    answers to frequently asked questions.<!-- InstanceEndEditable --></td>
-                </tr>
-                <tr> 
-                  <td height="1" bgcolor="#AFB2C9"><img src="../imgs/au.gif" width="20" height="1"></td>
-                </tr>
-              </tbody></table></td>
-            <td width="150">&nbsp;</td>
-          </tr>
-        </tbody></table>
-      </div></td>
-  </tr>
-</tbody></table>
-<table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
-    <td width="160" valign="top" background="../imgs/bg-leftcolumn.gif" bgcolor="#EEEEEE"> 
-      <!-- InstanceBeginEditable name="LeftMenu" --><!-- #BeginLibraryItem "/Library/MainMenu.lbi" -->
-<link href="../Library/mb411v3.css" rel="stylesheet" type="text/css">
-<table width="144" border="0" align="right" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
-    <td height="14" class="menuCategory"><img src="../imgs/au.gif" width="20" height="30"></td>
-  </tr>
-  <tr> 
-    <td class="menuCategory">Site Categories</td>
-  </tr>
-  <tr> 
-    <td class="menuLinks"><a href="http://www.miamibeach411.com/news/index.php" class="menuLinks">Miami 
-      News</a><br>
-      <a href="http://forums.miamibeach411.com/index.php?/forums/" class="menuLinks">Forums</a><br>
-      <a href="http://www.miamibeach411.com/maps.html" class="menuLinks">Maps</a><br>
-      <a href="http://www.miamibeach411.com/events-archive/index.php/events/" class="menuLinks">Events</a><br>
-      <a href="http://www.miamibeach411.com/business_directory.html" class="menuLinks">Yellow Pages</a> </td>
-  </tr>
-  <tr> 
-    <td height="30" valign="bottom" class="menuCategory">Links</td>
-  </tr>
-  <tr> 
-    <td class="menuLinks"><a href="http://www.miamibeach411.com/attractions.html" class="menuLinks">Miami 
-      Travel Planner</a><br> <a href="http://www.miamibeach411.com/cruiseguide/index.htm" class="menuLinks">Florida 
-      Cruise Guide</a><br> <a href="http://www.miamibeach411.com/disney/index.htm" class="menuLinks">Disney 
-      World Vacations</a></td>
-  </tr>
-  <tr> 
-    <td height="30" valign="bottom" class="menuCategory">More About Miami</td>
-  </tr>
-  <tr> 
-    <td class="menuLinks"><a href="http://www.miamibeach411.com/hotels.html" class="menuLinks">Hotels, 
-      Lodging</a><br>
-      <a href="http://www.miamibeach411.com/dining.html" class="menuLinks">Restaurants</a><br>
-      <a href="http://www.miamibeach411.com/real_estate.html" class="menuLinks"> 
-      Real Estate</a><br> <a href="http://www.miamibeach411.com/planner/mwtp-weather.htm" class="menuLinks">Weather</a><br> 
-      <a href="http://www.miamibeach411.com/articles/city-guides.html" class="menuLinks">Florida Cities</a><br>
-      <a href="http://www.miamibeach411.com/articles/index-general.html" class="menuLinks">Popular Stories</a></td>
-  </tr>
-  <tr> 
-    <td><img src="../imgs/au.gif" width="5" height="22"></td>
-  </tr>
-  <tr> 
-    <td valign="bottom" class="menuCategory">&nbsp;</td>
-  </tr>
-  <tr> 
-    <td>&nbsp;</td>
-  </tr>
-</tbody></table>
-<!-- #EndLibraryItem --><br>
-       <!-- InstanceEndEditable --></td>
-   <td width="450" valign="top"><!-- InstanceBeginEditable name="PageContentNew" -->
-      <table width="410" border="0" align="center" cellpadding="0" cellspacing="0">
+
+<body>
+<a name="top"></a> 
+<div class="container">
+
+<!-- begin header -->
+<div class="header">
+    <a href="http://www.miamibeach411.com/"><img src="http://www.miamibeach411.com/images/head_logo.jpg" alt="MiamiBeach411.com" title="Miami Beach 411.com" class="header_logo"></a>
+
+    
+    <!-- begin rotating banner -->
+    <div class="header_banner">
+    <!-- InstanceBeginEditable name="headerBanner" --><!-- #BeginLibraryItem "/Library/headBANNER_eng.lbi" --><script language="JavaScript" type="text/JavaScript">
+        <!-- This script and many more are available free online at -->
+        <!-- The JavaScript Source!! http://javascript.internet.com -->
+        
+        <!-- Begin
+        
+        var how_many_ads = 4;
+        
+        var now = new Date()
+        
+        var sec = now.getSeconds()
+        
+        var ad = sec % how_many_ads;
+        
+        ad +=1;
+        
+        if (ad==1) {
+        
+        alt="Miami City Tours";
+        
+        banner="http://www.miamibeach411.com/banners/banner-citytours.jpg";
+        
+        width="468";
+        
+        height="60";
+		
+		url="http://www.miamibeach411.com/tours/multilingual.htm";
+        
+        }
+        
+        if (ad==2) {
+        
+        alt="Hotel Rebate Coupon";
+        
+        banner="http://www.miamibeach411.com/banners/banner-hotel-rebate.jpg";
+         
+        width="468";
+        
+        height="60";
+		
+		url="http://www.miamibeach411.com/articles/miami_hotel_rebates.html";
+        
+        }
+        if (ad==3) {
+        
+        alt="Miami City Tours";
+        
+        banner="http://www.miamibeach411.com/banners/banner-citytours.jpg";
+         
+        width="468";
+        
+        height="60";
+		
+		url="http://www.miamibeach411.com/tours/multilingual.htm";
+        
+        }
+        if (ad==4) {
+        
+        alt="MiamiBeach411 Community Forums";
+        
+        banner="http://www.miamibeach411.com/banners/banner-forums.jpg";
+         
+        width="468";
+        
+        height="60";
+		
+		url="http://forums.miamibeach411.com/index.php?/forums/";
+        
+        }
+       
+        
+        document.write('<center>');
+		
+		document.write('<a href="' + url + '">');
+        
+        document.write('<img src="' + banner + '" width=')
+        
+        document.write(width + ' height=' + height + ' ');
+        
+        document.write('alt="' + alt + '" border=0><br>');
+        
+        document.write('</a>');
+        
+        document.write('</center>');
+        
+        // End -->
+        
+        </script><center><a href="http://www.miamibeach411.com/tours/multilingual.htm"><img src="http://www.miamibeach411.com/banners/banner-citytours.jpg" width="468" height="60" alt="Miami City Tours" border="0"><br></a></center><!-- #EndLibraryItem --><!-- InstanceEndEditable -->    </div>
+    <!-- end rotating banner -->
+    
+    <!-- begin main menu -->
+    <div class="header_menuHome_Container">
+        <ol>
+          <!-- InstanceBeginEditable name="mainMenu" --><!-- #BeginLibraryItem "/Library/headMENU_eng.lbi" --><li><a href="http://www.miamibeach411.com/news/index.php/news/" class="header_menu_item">Learn</a></li>
+<li class="header_menu_spacer"></li>
+<li><a href="http://www.miamibeach411.com/attractions.html" class="header_menu_item">Visit</a></li>
+<li class="header_menu_spacer"></li>
+<li><a href="http://www.miamibeach411.com/play.htm" class="header_menu_item">Play</a></li>
+<li class="header_menu_spacer"></li>
+<li><a href="http://www.miamibeach411.com/dining.html" class="header_menu_item">Eat</a></li>
+<li class="header_menu_spacer"></li>
+<li><a href="http://www.miamibeach411.com/news/miami-relocation-guide.htm" class="header_menu_item">Live</a></li>
+<li class="header_menu_spacer"></li>
+<li><a href="http://forums.miamibeach411.com/index.php?/forums/" class="header_menu_item">Discuss</a></li><!-- #EndLibraryItem --><!-- InstanceEndEditable -->
+        </ol>
+        </div>
+    <!-- end main menu -->
+    
+</div>
+<!-- end header -->
+
+<!-- begin content -->
+<table cellpadding="0" cellspacing="0" class="content_container">
+	<tbody><tr>
+    	<td>
+
+        <!-- begin RIGHT COLUMN -->
+        <div class="right_column_container"><img src="http://www.miamibeach411.com/images/right_column_top.gif" alt="" style="float:left;">
+			
+			<!-- InstanceBeginEditable name="Right_Column" --><!-- #BeginLibraryItem "/Library/rightCOLUMN_eng.lbi" --><!-- begin Google custom Search -->
+            <div class="right_column_gbox_container">
+            <img src="http://www.miamibeach411.com/images/right_column_box_gtop.gif" alt="" style="float:left">
+                <div class="right_column_gbox_content">
+                <form action="http://www.google.com/cse" id="searchbox_018356523799292578755:7rkrgf4wa44" style="margin-bottom:0px;">
+                <input type="hidden" name="cx" value="018356523799292578755:7rkrgf4wa44">
+                <input type="text" name="q" size="27">
+                <input type="submit" name="sa" value="Search" class="search_button">
+                </form>
+                <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_018356523799292578755%3A7rkrgf4wa44&amp;lang="></script>
+                </div>
+            <img src="http://www.miamibeach411.com/images/right_column_box_gbot.gif" alt="" style="float:left">
+            </div>
+            <!-- end Google custom Search -->
+            
+            <!-- begin box 1 -->
+            <div class="right_column_box_container">
+            <img src="http://www.miamibeach411.com/images/right_column_box_top.gif" alt="" style="float:left">
+            <div class="right_column_box_content_bg">
+                
+                <div class="right_column_box_content_box01">
+                <a href="#" id="addBookmarkContainer"></a>&nbsp;| 
+                New User? <a href="http://forums.miamibeach411.com/index.php?/forums/member/register/">Register</a> | 
+                <a href="http://www.miamibeach411.com/mb411/contact.html">Contact Us</a> 
+                </div>
+            
+            </div>
+            <img src="http://www.miamibeach411.com/images/right_column_box_bot.gif" alt="" style="float:left">
+            </div>
+            <!-- end box 1 -->
+            
+            <!-- begin AD -->
+            <div class="right_box_ad_container">
+            <div class="right_column_box_content_box01" style="margin-top:10px; color:#999999;">Special Offers by MiamiBeach411</div>
+            
+            <table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>
+<table width="316" border="0" cellpadding="0" cellspacing="0" class="right_box_ad">
+                <tbody><tr><td width="300" class="right_box_ad_text">
+                    <a href="https://secure.miamibeach411.com/index.htm" class="right_box_ad_title">Special Offers</a><br>
+                        Shop and Save on Hotels, Tours &amp; Transportation. </td>
+                    </tr></tbody></table>
+            
+           <table border="0" cellspacing="0" cellpadding="0" class="right_box_ad">
+                <tbody><tr><td width="183" class="right_box_ad_text">
+                    <a href="http://www.miamibeach411.com/transportation/miami-transportation.htm" class="right_box_ad_title">Go to Key West</a><br>
+                        Visit Key West - Only $57. </td>
+                    </tr></tbody></table>
+                
+            <table border="0" cellspacing="0" cellpadding="0" class="right_box_ad">
+                <tbody><tr><td class="right_box_ad_text">
+                    <a href="http://www.miamibeach411.com/disney/miami-to-orlando-transportation.htm" class="right_box_ad_title">Miami to Orlando Bus - $35</a><br>
+                    Transfers Between Miami &amp; Orlando.
+                </td></tr></tbody></table>
+                
+            <table border="0" cellspacing="0" cellpadding="0" class="right_box_ad">
+                <tbody><tr><td class="right_box_ad_text">
+                    <a href="http://www.miamibeach411.com/transportation/miami-port-transportation.htm" class="right_box_ad_title">Best Airport Shuttles</a><br>
+                        10% Discount On Roundtrip. </td>
+                    </tr></tbody></table> 
+                
+            <table border="0" cellspacing="0" cellpadding="0" class="right_box_ad">
+                <tbody><tr><td class="right_box_ad_text">
+                    <a href="http://www.miamibeach411.com/articles/miami_hotel_rebates.html" class="right_box_ad_title">Hotel Rebate Coupon</a><br>
+                        Up to $100 Back On Multiple Day Stays. </td>
+                    </tr></tbody></table>
+                
+            <table width="345" border="0" cellpadding="0" cellspacing="0" class="right_box_ad">
+                <tbody><tr>
+                      <td width="293" class="right_box_ad_text"> <a href="http://www.miamibeach411.com/tours/everglades-city-tour.htm" class="right_box_ad_title">Airboat 
+                        Ride &amp; City Tour</a><br>
+                        Take an Everglades Airboat Ride &amp; Sightseeing Tour.</td>
+                    </tr></tbody></table>
+                
+            </td></tr></tbody></table>
+            </div>
+            <!-- end AD -->
+            
+            <!-- begin rotatingADS -->
+           	<div class="right_column_box_container">
+            	<div class="right_box_ad_rotating_container">
+                <script language="JavaScript" type="text/JavaScript">
+            <!-- This script and many more are available free online at -->
+            <!-- The JavaScript Source!! http://javascript.internet.com -->
+            
+            <!-- Begin
+            
+            var how_many_ads = 3;
+            
+            var now = new Date()
+            
+            var sec = now.getSeconds()
+            
+            var ad = sec % how_many_ads;
+            
+            ad +=1;
+            
+            if (ad==1) {
+            
+            alt="Miami City Tours";
+            
+            banner="http://www.miamibeach411.com/banners/banner-citytours250.jpg";
+            
+            width="250";
+            
+            height="250";
+            
+            url="http://www.miamibeach411.com/tours/multilingual.htm";
+            
+            }
+            
+            if (ad==2) {
+            
+            alt="MiamiBeach411 Community Forums";
+            
+            banner="http://www.miamibeach411.com/banners/banner-forums250.jpg";
+             
+            width="250";
+            
+            height="250";
+            
+            url="http://forums.miamibeach411.com/index.php?/forums/";
+            
+            }
+            if (ad==3) {
+            
+            alt="Miami City Tours";
+            
+            banner="http://www.miamibeach411.com/banners/banner-citytours250.jpg";
+             
+            width="250";
+            
+            height="250";
+            
+            url="http://www.miamibeach411.com/tours/multilingual.htm";
+            
+            }
+            
+            document.write('<center>');
+            
+            document.write('<a href="' + url + '">');
+            
+            document.write('<img src="' + banner + '" width=')
+            
+            document.write(width + ' height=' + height + ' ');
+            
+            document.write('alt="' + alt + '" border=0>');
+            
+            document.write('</a>');
+            
+            document.write('</center>');
+            
+            // End -->
+            
+            </script><center><a href="http://forums.miamibeach411.com/index.php?/forums/"><img src="http://www.miamibeach411.com/banners/banner-forums250.jpg" width="250" height="250" alt="MiamiBeach411 Community Forums" border="0"></a></center>
+            </div>
+            </div>
+            <!-- end rotatingADS -->
+            
+            <!-- begin box 2 -->
+            <form action="http://www.miamibeach411.com/cgi-bin/FormMail.cgi" method="POST">
+            <div class="right_column_box_container">
+            <img src="http://www.miamibeach411.com/images/right_column_box_top.gif" alt="" style="float:left">
+            <div class="right_column_box_content_bg">
+                
+                <div class="right_column_box_content" style="text-align:center;">
+                <div class="right_column_box_title">Get MiamiBeach411 by Email</div>
+                
+                <div style="margin-bottom:5px;">
+             
+		<input type="hidden" name="recipient" value="support@miamibeach411.com">
+		<input type="hidden" name="subject" value="Mailing-List Subscription">
+        <input type="hidden" name="required" value="email">
+        <input type="hidden" name="missing_fields_redirect" value="http://www.miamibeach411.com/mb411/error.html">
+		<input type="hidden" name="redirect" value="http://www.miamibeach411.com/travel/thanks.html">
+        <input type="text" name="email" value="Your email" onfocus="if(this.value=='Your email') {this.value='';}" onblur="if(this.value=='') {this.value='Your email';}" class="BusinessTextsmall" style="width:150px; height:16px; margin-bottom:1px; margin-top:0px; margin-left:0px; margin-right:3px; font-size:10px; color:#999999; position:relative;">
+        <input type="submit" value="Subscribe" class="BoxBusinessTextSubmit">
+                
+                </div>
+                
+                <a href="http://www.miamibeach411.com/news/index.php?/news/feeds/" class="BoxBusinessText2" target="_top"><img src="http://www.miamibeach411.com/imgs/rss-2.gif" alt="RSS feeds" border="0"></a>&nbsp;<a href="http://www.miamibeach411.com/news/index.php?/news/feeds/" class="BoxBusinessText2" target="_top" style="text-decoration:none;">Feeds and more info</a>
+                
+                
+                </div>
+                
+            </div>
+            <img src="http://www.miamibeach411.com/images/right_column_box_bot.gif" alt="" style="float:left">
+            </div>
+            </form>
+            <!-- end box 2 -->
+            
+            
+            <!-- begin box 3 -->
+            <div class="right_column_box_container">
+            <img src="http://www.miamibeach411.com/images/right_column_box_top.gif" alt="" style="float:left">
+            <div class="right_column_box_content_bg">
+                
+                <div class="right_column_box_content">
+                <div class="right_column_box_title">Site Categories </div>
+                
+                
+                <table border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                    <td valign="top" width="51%"> <ol>
+                        <li><a href="http://www.miamibeach411.com/news/index.php/news/">News</a></li>
+                        <li><a href="http://www.miamibeach411.com/maps.html">Maps</a></li>
+                        <li><a href="http://forums.miamibeach411.com/">Forums</a></li>
+                        <li><a href="http://www.miamibeach411.com/planner/mwtp-weather.htm">Weather</a></li>
+                        <li><a href="http://www.miamibeach411.com/hotels.html">Hotels, 
+                          Lodging</a></li>
+                      </ol>
+                    </td>
+                    <td valign="top" width="49%"> <ol>
+                        <li><a href="http://www.miamibeach411.com/events-archive/index.php/events/">Special 
+                          Events</a></li>
+                        <li><a href="http://www.miamibeach411.com/business_directory.html">Yellow 
+                          Pages</a></li>
+                        <li><a href="http://www.miamibeach411.com/reviews/index.php">User 
+                          Reviews</a></li>
+                        <li><a href="http://www.miamibeach411.com/videos/index.html">Videos</a></li> 
+                      </ol>
+                    </td>
+                  </tr>
+                </tbody></table>
+                
+                </div>
+                
+            </div>
+            <img src="http://www.miamibeach411.com/images/right_column_box_bot.gif" alt="" style="float:left">
+            </div>
+            <!-- end box 3 -->
+              
+            <!-- begin box 4 -->
+            <div class="right_column_box_container">
+            <img src="http://www.miamibeach411.com/images/right_column_box_top.gif" alt="" style="float:left">
+            <div class="right_column_box_content_bg">
+            <a href="https://secure.miamibeach411.com/index.htm"><img src="http://www.miamibeach411.com/images/right_column_box_bookbuy.gif" alt="Shop &amp; Save" border="0"></a>
+                
+                <div class="right_column_box_content" style="margin-top:10px;">
+                
+                
+                <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                  <tbody><tr>
+                    <td valign="top">
+                    <ol>
+                        <li><a href="http://www.miamibeach411.com/tours.html">Tours &amp; Day Trips</a></li>
+                        <li><a href="http://www.miamibeach411.com/transportation.html">Transportation</a></li>
+                        <li><a href="http://www.miamibeach411.com/Hotels/hotel-search.htm">Hotel Reservations</a></li>
+                        <li><a href="http://www.miamibeach411.com/tours/guarantee.htm">Our Guarantee</a></li>
+                    </ol>
+                    </td>
+                  </tr>
+                </tbody></table>
+                
+                </div>
+                
+            </div>
+            <img src="http://www.miamibeach411.com/images/right_column_box_bot.gif" alt="" style="float:left">
+            </div>
+            <!-- end box 4 --><!-- #EndLibraryItem --><!-- InstanceEndEditable -->
+        </div>
+        <!-- end RIGHT COLUMN -->
+        
+        <!-- begin LEFT COLUMN -->
+        <div class="left_column_container">
+        	
+            <!-- begin breadcrumb container -->
+            
+          <div class="breadcrumb_container"> <!-- InstanceBeginEditable name="Path" --><a href="../index.html" class="pathLinked">Miami 
+            Beach 411</a> : <a href="index.html" class="pathLinked">About Us</a> 
+            : <strong><strong> Privacy Policy </strong></strong>: Scroll down 
+            for contact information and answers to frequently asked questions.<!-- InstanceEndEditable --> 
+          </div>
+            <!-- end breadcrumb container -->
+
+        
+<!-- begin post area -->
+<!-- InstanceBeginEditable name="BusinessContent" -->
+      <table width="97%" border="0" align="center" cellpadding="0" cellspacing="0">
         <tbody><tr> 
           <td height="21" valign="bottom" class="rightcolumn"><div align="right"><span class="footer"><a href="aislamiento.html" class="BusinessLinks">Español</a></span></div></td>
         </tr>
@@ -150,7 +566,8 @@ site that reaches more than 400,000 visitors per month.</strong><!-- #EndLibrary
             <strong>MiamiBeach411</strong> uses email to respond to the requests 
             and inquiries of Site users. We promise to <strong><u>never</u></strong> 
             share, trade, sell, reveal, publicize, or market your email address 
-            in any way.<br> <br>
+            in any way.<br> 
+            <br>
             For each visitor to our Site, our Web server recognizes <strong>no</strong> 
             information regarding the domain or email address.<br>
             <br>
@@ -161,14 +578,41 @@ site that reaches more than 400,000 visitors per month.</strong><!-- #EndLibrary
             </span><span class="BusinessText">Miami Beach 411, Inc<br>
             1521 Alton Road # 233, Miami Beach, FL 33139<br>
             Phone: <strong>(305) 754-2206</strong><br>
-            Email: support@miamibeach411.com</span><br> <br>
+                Email: support@miamibeach411.com</span><br>
+                <br>
+                <div> 
+                  <table border="0" cellspacing="2" cellpadding="2">
+                    <tbody><tr> 
+                      <td width="396" align="center"><div align="left"><a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/78433145/?cmd=file&amp;file=visitorWantsToChat&amp;site=78433145&amp;byhref=1&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1c" target="chat78433145" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/78433145/?cmd=file&amp;file=visitorWantsToChat&amp;site=78433145&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1c&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat78433145','width=475,height=400,resizable=yes');return false;"><img src="http://server.iad.liveperson.net/hc/78433145/?cmd=repstate&amp;site=78433145&amp;channel=web&amp;&amp;ver=1&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1c" name="hcIcon" border="0" id="hcIcon"></a></div></td>
+                    </tr>
+                    <tr> 
+                      <td align="left" valign="top"><div align="left"><font color="#333333" size="2" face="Arial"><strong>Our 
+                          team is standing by to help you. Click to chat.</strong></font></div></td>
+                    </tr>
+                  </tbody></table>
+                </div>
+                <!-- END LivePerson Button code -->
+                <!-- BEGIN Invitation Positioning  -->
+                <script language="JavaScript" type="text/javascript">
+var lpPosY = 100;
+</script> 
+                <!-- END Invitation Positioning  -->
+                <!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+                <script language="JavaScript" src="http://server.iad.liveperson.net/hc/78433145/x.js?cmd=file&amp;file=chatScript3&amp;site=78433145&amp;&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1c" type="text/javascript"> </script> 
+                <!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+                <span class="BusinessTitles"><br>
+                </span> 
+                <!-- paragraph ends here-->
+                <br> 
+            <br>
             We do maintain server logs that identify IP addresses and browsing 
             software and hardware information. We use this information to block 
             people who use automated tools to bulk download the Site or who try 
             to exploit security vulnerabilities. Server logs and blocking actions 
             are not shared except with ISP administrators in cases of attempted 
             fraud or copyright infringment and with legally warranted authorities 
-            when required by law. <br> <br>
+            when required by law. <br> 
+            <br>
             With respect to Ad Servers: we try and to bring you offers that are 
             of interest to you, we have relationships with companies such as Google 
             and Hotels.com that we allow to place ads on our webpages. As a result 
@@ -177,21 +621,26 @@ site that reaches more than 400,000 visitors per month.</strong><!-- #EndLibrary
             <br>
             Upon request we offer users the ability to have inaccuracies corrected 
             in contact information. Users can have this information corrected 
-            by sending us an emaill at the address below.<br> <br>
+            by sending us an emaill at the address below.<br> 
+            <br>
             With respect to security: we have appropriate security measures in 
             place in our physical facilities to protect against the loss, misuse 
-            or alteration of information that we have collected.<br> <br>
+            or alteration of information that we have collected.<br> 
+            <br>
             From time to time, we may use customer information for new, unanticipated 
             uses not previously disclosed in our privacy notice. If our information 
             practices change at some time in the future we will post the policy 
             changes to our website to notify you of these changes and provide 
-            you with the ability to opt out of these new uses. <br> <br>
+            you with the ability to opt out of these new uses. <br> 
+            <br>
             For other terms and conditions that apply to your use of the Site, 
             please review our <a href="copyright.html" class="BusinessTextLinked">Legal 
-            Statement</a>. <br> <br>
+            Statement</a>. <br> 
+            <br>
             If you feel that this site is not following its stated information 
             policy, you may contact us at support@miamibeach411.com.<br>
-            <br> <br> 
+            <br> 
+            <br> 
             <table width="100%" border="0" cellpadding="0" cellspacing="5" bordercolor="eeeeee" bgcolor="eeeeee">
               <tbody><tr> 
                 <td height="12" bgcolor="eeeeee" class="BusinessTextsmall"><strong>Privacy 
@@ -204,99 +653,200 @@ site that reaches more than 400,000 visitors per month.</strong><!-- #EndLibrary
         </tr>
       </tbody></table>
       <!-- InstanceEndEditable -->
-<table width="430" border="0" align="center" cellpadding="0" cellspacing="0">
-        <tbody><tr> 
-          <td height="25">&nbsp;</td>
-        </tr>
-        <tr> 
-          <td height="1" bgcolor="#AFB2C9"><img src="../imgs/au.gif" width="20" height="1"></td>
-        </tr>
-        <tr> 
-          <td class="path">&nbsp;</td>
-        </tr>
-      </tbody></table>
-      <!-- InstanceBeginEditable name="Footer" --> <!-- #BeginLibraryItem "/Library/Footer.lbi" --> 
-<table width="450" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
-    <td height="20" class="path">
-<table width="430" border="0" align="center" cellpadding="0" cellspacing="0">
-        <tbody><tr> 
-          <td height="20" class="path"><div align="center">How are we doing? <a rel="nofollow" href="http://www.miamibeach411.com/mb411/contact.html" class="pathLinked">Send 
-              us feedback</a>!</div></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td class="footer"><img src="../imgs/au.gif" width="20" height="7"></td>
-  </tr>
-  <tr> 
-    <td class="footer"><img src="../imgs/au.gif" width="20" height="7"></td>
-  </tr>
-  <tr> 
-    <td height="25" class="footer"><form method="GET" action="http://www.google.com/custom">
-        <table align="center" bgcolor="#FFFFFF">
-          <tbody><tr> 
-            <td height="32" align="center" valign="top" nowrap="nowrap"> <a href="http://www.google.com/"> 
-              <img src="http://www.google.com/logos/Logo_25wht.gif" border="0" alt="Google"></a> </td>
-            <td> <input type="hidden" name="domains" value="MiamiBeach411.com"> <input type="text" name="q" size="31" maxlength="255" value=""> <input type="submit" name="sa" value="Search"> </td>
-          </tr>
-          <tr> 
-            <td>&nbsp;</td>
-            <td class="path"> <input type="radio" name="sitesearch" value="">
-              Web 
-              <input type="radio" name="sitesearch" value="MiamiBeach411.com" checked="">
-              MiamiBeach411.com<br> <input type="hidden" name="client" value="pub-8599861296960561"> <input type="hidden" name="forid" value="1"> <input type="hidden" name="channel" value="7793575230"> <input type="hidden" name="ie" value="ISO-8859-1"> 
-              <input type="hidden" name="oe" value="ISO-8859-1"> <input type="hidden" name="cof" value="GALT:#339900;GL:1;DIV:#000066;VLC:663399;AH:center;BGC:FFFFFF;LBGC:FFFFFF;ALC:0000FF;LC:0000FF;T:666666;GFNT:0000FF;GIMP:0000FF;LH:50;LW:206;L:http://www.miamibeach411.com/imgs/definitions_banner2.gif;S:http://www.miamibeach411.com;FORID:1;"> 
-              <input type="hidden" name="hl" value="en"> </td>
+<!-- end post area -->
+        
+        
+        
+        <!-- div class="left_column_post_paginate">
+        Page {current_page} of {total_pages} pages 
+        {pagination_links}
+        </div -->
+      	</div>
+        <!-- end LEFT COLUMN -->
+        
+        <div style="width:920px; text-align:center; margin-bottom:0px;"><img src="http://www.miamibeach411.com/images/right_column_bottom.gif"></div>
+    
+<!-- begin FOOTER -->
+
+<div class="footer_container_top">
+<div class="footer_content">
+<table border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+        <td valign="top" colspan="3">
+        <div class="footer_container_title">
+        <div class="footer_title">Where to from here?</div>
+        <!-- begin Google custom Search -->
+            <div class="footer_search">
+            <form action="http://www.google.com/cse" id="searchbox_018356523799292578755:7rkrgf4wa44" style="margin-bottom:0px;">
+                <input type="hidden" name="cx" value="018356523799292578755:7rkrgf4wa44">
+                <input type="text" name="q" size="27" class="footer_search_text">
+                <input type="submit" name="sa" value="Search" class="footer_search_button">
+                </form>
+                <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_018356523799292578755%3A7rkrgf4wa44&amp;lang="></script>
+            </div>
+		<!-- end Google custom Search -->
+        </div>
+        
+        </td>
+    </tr>    
+    
+    <tr>
+        <td valign="top">
+            <!-- begin box left -->
+            <div class="footer_box_container">
+                <img src="http://www.miamibeach411.com/images/footer_top_box_top.gif" alt="" style="float:left;">
+                <div class="footer_box_content_bg">
+                
+				<!-- InstanceBeginEditable name="FootBoxLeft" --><!-- #BeginLibraryItem "/Library/FootBoxLeft_eng.lbi" --><div class="right_column_box_title">MiamiBeach411 Exclusives:</div>
+<div class="footer_box_content">
+
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td valign="top" width="280">
+                <ol>
+                    <li><a href="http://www.miamibeach411.com/disney/index.htm">Disney World Vacations</a></li>
+                    <li><a href="http://www.miamibeach411.com/news/index.php?/news/comments/south-beach-hostels/">SoBe Hostels and Super Cheap Hotels</a></li>
+                    <li><a href="http://www.miamibeach411.com/news/index.php?/news/comments/moving-tips/">Budget-Minded Tips from A New Resident</a></li>
+                    <li><a href="http://www.miamibeach411.com/news/index.php?/news/comments/visiting-the-googleplex/">Visiting the Googleplex</a></li>
+                    <li><a href="http://www.miamibeach411.com/news/index.php?/news/comments/hotel-pools/">Peek Inside the Beach's Best Hotel Pools</a></li>
+                    <li><a href="http://www.miamibeach411.com/news/index.php?/news/comments/nightclub-tips/">How To Get In Miami Night Clubs</a></li>
+                    <li><a href="http://www.miamibeach411.com/cruiseguide/index.htm">Florida Cruise Ships &amp; Cruising</a></li>
+                </ol>
+            </td>
           </tr>
         </tbody></table>
-      </form></td>
-  </tr>
-  <tr> 
-    <td valign="top"> <div align="center" style="padding-top: 5px; margin-top: 10px;" class="headerText"> 
-        Copyright © 2002 - 2008 Miami Beach 411. All rights reserved.</div></td>
-  </tr>
-  <tr> 
-    <td> <div align="center" class="pathLinkedfooter" style="margin-top: 5px;"> 
-        <a href="http://www.miamibeach411.com/site_map.htm">Site Map</a> | <a rel="nofollow" href="http://www.miamibeach411.com/mb411/privacy.html">Privacy 
-        Policy</a> | <a rel="nofollow" href="http://www.miamibeach411.com/mb411/contact.html">Customer 
-        Support</a> | <a rel="nofollow" href="http://www.miamibeach411.com/mb411/index.html">About</a> 
-      </div></td>
-  </tr>
-  <tr> 
-    <td><div align="center" class="pathLinkedfooter" style="margin-top:10px; font-size:16px; font-weight:bold;"><a href="http://www.miamibeach411.com" title="Miami Beach">Home</a><br>
-        <br>
-      </div></td>
-  </tr>
-</tbody></table>
-<!-- #EndLibraryItem --><!-- InstanceEndEditable --></td>
-    <td width="150" valign="top" background="../imgs/bg-rightcolumn.gif" bgcolor="#EEEEEE"> 
-      <!-- InstanceBeginEditable name="RightColumn" --> <!-- InstanceEndEditable --></td>
-  </tr>
-</tbody></table>
-<!--<table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr> 
-    <td height="25" bgcolor="#075193" class="footer"> <div align="center"><a href="#" class="footer">Home</a>&nbsp; 
-        | &nbsp;<a href="#" class="footer">About us</a>&nbsp; | &nbsp;<a href="#" class="footer">Add/Edit 
-        Business</a>&nbsp; | &nbsp;<a href="#" class="footer">Contact us</a>&nbsp; 
-        | <a href="#" class="footer">Privacy</a></div></td>
-  </tr>
-  <tr> 
-    <td height="15" valign="top" bgcolor="#075193" class="headerText"><table width="760" border="0" cellspacing="0" cellpadding="0">
-        <tr> 
-          <td width="210" height="1"><img src="imgs/au.gif" width="20" height="1"></td>
-          <td width="350" bgcolor="#AFB2C9"><img src="imgs/au.gif" width="20" height="1"></td>
-          <td width="200"><img src="imgs/au.gif" width="20" height="1"></td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-          <td height="10" class="headerText"><div align="center">MiamiBeach411 
-              &copy; 2002 - 2004 &#8226; All Rights Reserved</div></td>
-          <td>&nbsp;</td>
-        </tr>
-      </table></td>
-  </tr>
-</table>-->
+    
+</div><!-- #EndLibraryItem --><!-- InstanceEndEditable -->
+                </div>
+                <img src="http://www.miamibeach411.com/images/footer_top_box_bottom.gif" alt="" style="float:left;">
+            </div>
+            <!-- end box left -->
+        </td>
+        <td valign="top">    
+            <!-- begin box center -->
+            <div class="footer_box_container">
+                <img src="http://www.miamibeach411.com/images/footer_top_box_top.gif" alt="" style="float:left;">
+                <div class="footer_box_content_bg">
+                
+                <!-- InstanceBeginEditable name="FootBoxCenter" --><!-- #BeginLibraryItem "/Library/FootBoxCenter_eng.lbi" --><div class="right_column_box_title">Learn More About Miami</div>
+<div class="footer_box_content">
 
-<!-- InstanceEnd -->
-</body></html>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td valign="top" width="280">
+                <ol>
+                    <li><a href="http://www.miamibeach411.com/nightlife.html">Nightlife in Miami</a></li>
+                    <li><a href="http://www.miamibeach411.com/city_services_history.html">The History of Miami Beach</a></li>
+                    <li><a href="http://www.miamibeach411.com/news/movie-reviews.htm">Miami-related Movie Reviews</a></li>
+                    <li><a href="http://www.miamibeach411.com/cosmetic.html">Travel Planner </a></li>
+                    <li><a href="http://www.miamibeach411.com/news/index.php/news/comments/vacation-safety-tips/">Vacation Safety Tips</a></li>
+                    <li><a href="http://www.miamibeach411.com/film/index.html">Film, TV &amp; Modeling</a></li>
+                    <li><a href="http://www.miamibeach411.com/real_estate.html">Real Estate Listings</a></li>
+                </ol>
+            </td>
+          </tr>
+        </tbody></table>
+    
+</div><!-- #EndLibraryItem --><!-- InstanceEndEditable -->
+                </div>
+                <img src="http://www.miamibeach411.com/images/footer_top_box_bottom.gif" alt="" style="float:left;">
+            </div>
+            <!-- end box center -->
+         </td>
+         <td valign="top"> 
+            <!-- begin box right -->
+            <div class="footer_box_container">
+                <img src="http://www.miamibeach411.com/images/footer_top_box_top.gif" alt="" style="float:left;">
+                <div class="footer_box_content_bg">
+                
+                <!-- InstanceBeginEditable name="FootBoxRight" --><!-- #BeginLibraryItem "/Library/FootBoxRight_eng.lbi" --><div class="right_column_box_title">Weird News &amp; Stories</div>
+<div class="footer_box_content">
+
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td valign="top" width="280">
+                <ol>
+                    <li><a href="http://www.miamibeach411.com/news/index.php?/news/comments/dive-bars/">Down and Dirty Dive Bars</a></li>
+                    <li><a href="http://www.miamibeach411.com/nightlife/_adult_entry.html">Adults Guide to Sex on Vacation</a></li>
+                    <li><a href="http://www.miamibeach411.com/news/true-crime.htm">True Crime Stories and Shocking Events</a></li>
+                    <li><a href="http://www.miamibeach411.com/news/spring-break-visitors-guide.htm">Spring Break Visitors Guide</a></li>
+                    <li><a href="http://www.miamibeach411.com/news/index.php/news/comments/10-things-i-hate-about-miami/">10 Things I Hate About Miami</a></li>
+                    <li><a href="http://www.miamibeach411.com/cosmetic.html">Cosmetic Surgery </a></li>
+                    <li><a href="http://www.miamibeach411.com/news/index.php?/news/comments/2008-exxxotica/">2008 Exxxotica Convention Recap</a></li>
+                </ol>
+            </td>
+          </tr>
+        </tbody></table>
+    
+</div><!-- #EndLibraryItem --><!-- InstanceEndEditable -->
+                </div>
+                <img src="http://www.miamibeach411.com/images/footer_top_box_bottom.gif" alt="" style="float:left;">
+            </div>
+            <!-- end box right -->
+            
+            
+        </td>
+    </tr>
+
+</tbody></table>
+</div>
+
+<!-- begin connect -->
+<div class="forum_footer_logo_contaienr" style="text-align:right;">
+<a href="http://www.miamibeach411.com/"><img src="http://www.miamibeach411.com/images/footer_mb411_big.gif" alt="MiamiBeach411.com" border="0" style="float:left;"></a>
+
+<div style="margin-right:15px; margin-top:35px; margin-bottom:10px;">
+<span class="BusinessText"><strong>Connect on:</strong></span>
+
+<a href="http://www.youtube.com/MiamiBeach411" class="BusinessText" style="margin-left:10px; text-decoration:none;"><img src="http://www.miamibeach411.com/images/foot_youtube.jpg" alt="YouTube" border="0" style="margin-right:5px;">YouTube</a>
+
+<a href="http://www.flickr.com/photos/93505257@N00/" class="BusinessText" style="margin-left:10px; text-decoration:none;"><img src="http://www.miamibeach411.com/images/foot_flicker.jpg" alt="Flickr" border="0" style="margin-right:5px;">Flickr</a>
+
+<a href="http://www.new.facebook.com/pages/Miami-Beach-FL/Miami-Beach-411/50585265226" class="BusinessText" style="margin-left:10px; text-decoration:none;"><img src="http://www.miamibeach411.com/images/foot_facebook.jpg" alt="Facebook" border="0" style="margin-right:5px;">Facebook</a>
+
+<a href="http://www.miamibeach411.com/news/index.php?/news/feeds/" class="BusinessText" style="margin-left:10px; text-decoration:none;"><img src="http://www.miamibeach411.com/images/foot_rss.jpg" alt="RSS" border="0" style="margin-right:5px;">RSS</a>
+
+</div>
+</div>
+<!-- end connect -->
+
+	<!-- begin footer dark -->
+    <div class="footer_bottom">
+     	<div style="float:left; margin-top:4px; width:100%;">
+
+<!-- InstanceBeginEditable name="FootBottom" --><!-- #BeginLibraryItem "/Library/FootBottom_eng.lbi" --><div class="footer_bottom_text" style="float:right;">
+Copyright © 2002 - 2008 Miami Beach 411. All rights reserved.
+</div>
+
+<div style="float:left;" class="footer_bottom_text">
+<a href="http://www.miamibeach411.com/" class="footer_bottom_text">Home</a> | 
+<a href="http://www.miamibeach411.com/mb411/index.html" class="footer_bottom_text">About</a> | 
+<a href="http://www.miamibeach411.com/site_map.htm" class="footer_bottom_text">Site Map</a> | 
+<a href="http://www.miamibeach411.com/mb411/privacy.html" class="footer_bottom_text">Privacy Policy</a> | 
+<a href="http://www.miamibeach411.com/mb411/contact.html" class="footer_bottom_text">Customer Support</a>
+</div><!-- #EndLibraryItem --><!-- InstanceEndEditable -->
+        </div>
+	</div>
+    <!-- end footer dark -->
+
+</div>
+
+<!-- end FOOTER -->
+       </td>
+   </tr>
+ </tbody></table>
+<!-- end content -->
+
+
+
+</div>
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-442477-1";
+urchinTracker();
+</script>
+
+<!-- InstanceEnd --></body></html>
