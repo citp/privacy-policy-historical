@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the yellowpages.com.my privacy policy that was archived on 2007-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071207231602id_/http%3A//yellowpages.com.my/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpages.com.my privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222165007id_/http%3A//www.yellowpages.com.my/privacy.jsp) for the most accurate reproduction.*
 
-# Malaysia Yellow Pages: Privacy Policy
+# Privacy Statement - Malaysia Yellow Pages
+
+## Privacy Statement
 
 TM Info-Media Sdn Bhd (TMIM) respects your privacy. Our purpose in collecting information from you is to help us provide you with better service, such as notifications about special offers and promotions. We will not willfully disclose any individually identifiable information about you to any third party without first receiving your permission, as explained in this privacy statement. Furthermore, we do not specifically target children under the age of 13, nor do we knowingly collect, without parental consent, individually identifiable information from such children.
 
