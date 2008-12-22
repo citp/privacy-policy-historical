@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doorone.co.uk privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011092758id_/http%3A//doorone.co.uk/aa14-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doorone.co.uk privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222111042id_/http%3A//uk.shopping.com/aa14-privacy) for the most accurate reproduction.*
 
-# DoorOne - Shopping made simple
+# Shopping.com UK - Find, Compare, and Buy Anything in Seconds
 
 Last Updated: August 2006
 
@@ -104,5 +104,8 @@ Old Navan Road
 Blanchardstown Centre  
 Dublin 15  
 Ireland  
-V.A.T. Number: 6429492S  
+V.A.T. Number: 6429492S
 
+Shopping.com Israel office:  
+Ha-Zoran 4, Poleg-Netanya  
+Phone: 972-9-8921000
