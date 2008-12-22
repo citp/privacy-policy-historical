@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vodafone.co.nz privacy policy that was archived on 2008-04-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080428045804id_/http%3A//www.vodafone.co.nz/personal/about/legal-stuff/vodafone-privacy-policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vodafone.co.nz privacy policy that was archived on 2008-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081222180729id_/http%3A//www.vodafone.co.nz/personal/about/legal-stuff/vodafone-privacy-policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -12,6 +12,7 @@
 	<link rel="search" type="application/opensearchdescription+xml" title="Vodafone" href="/help/opensearch.xml">	
 	<link rel="stylesheet" type="text/css" href="/css/1.2/css/reset.css">
 	<link rel="stylesheet" type="text/css" href="/css/1.2/css/main.css">
+    <link rel="stylesheet" type="text/css" href="/css/1.2/css/print.css" media="print">
 	
 		
 	<script type="text/javascript" src="/js/yui/yui-yde-p.js"></script>
@@ -46,10 +47,10 @@
 <a href="/business/">Business</a>
 </li>
 <li>
-<a href="/shop/">Shop</a>
+<a href="/online-shop/">Shop</a>
 </li>
 <li>
-<a href="/live/">Vodafone live!</a>
+<a href="http://music.vodafone.co.nz/">Music</a>
 </li>
 <li>
 <a href="/myvodafone/">My Vodafone</a>
@@ -71,19 +72,16 @@
 <a href="/specials-promos/">Specials &amp; promos</a>
 </li>
 <li>
+<a href="/shop/mobileHome.jsp">Mobile phones &amp; plans</a>
+</li>
+<li>
+<a href="/mobile-broadband/">Mobile Broadband</a>
+</li>
+<li>
 <a href="/home-phone-and-broadband/">Home phone &amp; broadband</a>
 </li>
 <li>
-<a href="/shop/?mobiles">Mobile phones</a>
-</li>
-<li>
-<a href="/plans/">Mobile plans</a>
-</li>
-<li>
-<a href="/mobile-data/">Mobile broadband</a>
-</li>
-<li>
-<a href="http://store.vodafone.co.nz/accessories_search.aspx">Accessories</a>
+<a href="/shop/accessoryListing.jsp?selectionKey=accessory&amp;reset=true&amp;categoryId=cat70004">Accessories</a>
 </li>
 <li>
 <a href="/services/">Mobile services</a>
@@ -99,17 +97,31 @@
 		<ul>
 			<li><a href="/help/contact-us/">Contact us</a>|</li>
 			<li><a href="/sitemap/">Site map</a>|</li>
-			<li><a href="/help/">Help</a></li>
+			<li><a href="/help/">Help</a>|</li>
+            <li><a href="/shop/checkout/cart.jsp"><img alt="Shopping Cart" src="/vf-apps/shop/css/1.2/img/shoppingcart.gif" class="metaShoppingCart">Shopping cart</a></li>
 		</ul>
 	</div>
 	
 
 	
 	<div class="searchNav">	
-		<form id="wormsearch" name="wormsearch" method="post" action="javascript:wormSearch()">
-			<input type="text" name="search" size="20" maxlength="100" value="" class="searchField" tabindex="1">
-			<a class="textBtnGrey" href="javascript:document.wormsearch.submit()"><span>Search</span></a>
-		</form>
+		 <form action="http://www.google.co.nz/search" name="cse-search-box" id="cse-search-box">
+      <div>
+	  	<div id="deleteMe">
+		<input type="hidden" name="hl" value="en">
+		<input type="hidden" name="ie" value="ISO-8859-1">
+		<input type="hidden" name="sitesearch" value="vodafone.co.nz">
+		</div>
+        <input type="text" name="q" size="31" class="searchField">
+        <input type="submit" name="sa" value="Search" id="searchSubmit" class="hide">
+        <script type="text/javascript">
+			//<![CDATA[
+			if(typeof replaceButton == "function"){ replaceButton('cse-search-box', 'searchSubmit'); } /*  Button replacement   */
+			//]]>
+		</script><a href="#" onclick="document.getElementById(&quot;cse-search-box&quot;).submit();" id="searchSubmit" class="textBtnGrey formBtn"><span>Search</span></a>
+		<div id="inputRadio"> </div>
+      </div>
+    </form>
 	</div>
 	
 
@@ -118,8 +130,8 @@
 		<div class="loginField">
 			<ul class="btn">
 			
-				<li><a href="https://www.vodafone.co.nz/knox/login_handler.jsp?template=myvodafone" class="btnGrey" title="Log in to My Vodafone">Log in</a></li>
-				<li class="registerBtn"><a href="/knox/registration_form_handler.jsp?allowCompletion=Y" class="btnGrey">Register</a></li>
+            <li><a href="https://www.vodafone.co.nz/knox/login_handler.jsp?template=myvodafone" class="btnGrey" title="Log in to My Vodafone">Log in</a></li>
+            <li class="registerBtn"><a href="https://www.vodafone.co.nz/knox/registration_form_handler.jsp?allowCompletion=Y" class="btnGrey">Register</a></li>
 			
 			</ul>
 		</div>
@@ -128,7 +140,7 @@
 </div>
 
 <div class="grid">
-<div class="mod1Col">
+<div id="navCol" class="mod1Col">
 <div class="modBorder">
 <div class="modHeader petrolBG">
 <h2>About</h2>
@@ -136,16 +148,16 @@
 <div class="modBody">
 <ul class="secondLevelNav">
 <li class="first">
-<a title="" href="/personal/about/welcome/">Welcome</a>
+<a title="" href="/welcome/">Welcome</a>
 </li>
 <li>
 <a title="" href="/about/company-information/">Company information</a>
 </li>
 <li>
-<a title="" href="/personal/about/investor-relations/">Investor relations</a>
+<a title="" href="/about/investor-relations/">Investor relations</a>
 </li>
 <li>
-<a title="" href="/personal/about/corporate-responsibility/">Corporate responsibility</a>
+<a title="" href="/about/corporate-responsibility/">Corporate responsibility</a>
 </li>
 <li>
 <a title="" href="/personal/about/responsible-mobile-use/">Responsible mobile use</a>
@@ -154,10 +166,16 @@
 <a title="" href="/personal/about/media-centre/">Media centre</a>
 </li>
 <li>
+<a title="" href="/about/mobile-advertising.jsp">Mobile advertising</a>
+</li>
+<li>
+<a title="" href="/about/vodafone-voice.jsp">Vodafone Voice</a>
+</li>
+<li>
 <a title="" href="/about/sponsorship/">Sponsorship</a>
 </li>
 <li>
-<a title="" href="/personal/about/careers/">Careers</a>
+<a title="" href="/about/careers/">Careers</a>
 </li>
 <li class="selected">
 <a title="" href="/personal/about/legal-stuff/" class="bold">Legal stuff</a>
@@ -172,6 +190,9 @@
 <a href="/personal/about/legal-stuff/connection-terms-and-conditions.jsp" class="level2">Connection terms</a>
 </li>
 <li>
+<a href="/personal/about/legal-stuff/copyright-amendment-act.jsp" class="level2">Copyright Amendment Act</a>
+</li>
+<li>
 <a href="/personal/about/legal-stuff/hotlink-terms.jsp" class="level2">Hotlink terms</a>
 </li>
 <li>
@@ -182,6 +203,12 @@
 </li>
 <li>
 <a href="/personal/about/legal-stuff/terms-and-conditions-of-website.jsp" class="level2">Website terms</a>
+</li>
+<li>
+<a href="/personal/about/legal-stuff/local-zone-terms.jsp" class="level2">Local Zone terms</a>
+</li>
+<li>
+<a href="/personal/about/legal-stuff/southern-amp-mobile-recycling-competition.jsp" class="level2">Southern Amp terms</a>
 </li>
 </ul>
 </div>
@@ -318,21 +345,24 @@ intended to limit or exclude your rights under the Privacy Act 1993.</p>
 	</div>
 	
 	
-		
 	
 </div>
 
 	
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write("\<script src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'>\<\/script>" );
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-944403-2");
-pageTracker._setDomainName("vodafone.co.nz");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
+<script type="text/javascript"> 
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); 
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); 
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> 
+<script type="text/javascript"> 
+    var firstTracker = _gat._getTracker("UA-944403-2"); 
+    firstTracker._setDomainName("vodafone.co.nz");
+    firstTracker._initData(); 
+    firstTracker._trackPageview(); 
+    var secondTracker = _gat._getTracker("UA-944403-8"); 
+    secondTracker._setDomainName("vodafone.co.nz");
+    secondTracker._initData(); 
+    secondTracker._trackPageview(); 
+</script> 
 		
 <!-- START Nielsen//NetRatings SiteCensus V5.3 -->
 <!-- COPYRIGHT 2007 Nielsen//NetRatings -->
@@ -344,7 +374,7 @@ pageTracker._trackPageview();
 	var _rsSE=1;
 	var _rsSM=1.0;
 	var _rsCL=0;
-	var _rsLOList = Array("http://www.vodafone.co.nz/")
+	var _rsLOList = Array("http://www.vodafone.co.nz/","http://www.vodafone.co.nz/business/","http://www.vodafone.co.nz/shop/","http://www.vodafone.co.nz/live/","http://www.vodafone.co.nz/help/","http://www.vodafone.co.nz/home-phone-and-broadband/")
 	for (_rsLOItem in _rsLOList) {if (document.location.href==_rsLOList[_rsLOItem]) {_rsCL=1;break}};
 	/* ]]> */ 
 </script>
