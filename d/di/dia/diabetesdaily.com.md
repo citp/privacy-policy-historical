@@ -1,15 +1,44 @@
-> *The following text is extracted and transformed from the diabetesdaily.com privacy policy that was archived on 2008-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080404192001id_/http%3A//www.diabetesdaily.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetesdaily.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222113605id_/http%3A//www.diabetesdaily.com/privacy) for the most accurate reproduction.*
 
-# Diabetes Daily - Privacy Policy
+# Privacy Policy - Diabetes Daily
 
-We despise people that send spam or trade/sell/rent personal information:
+DiabetesDaily.com is committed to protecting your private information. Here are our policies in plain English.  
+  
+ **Information we collect and how we use it**  
+We offer a number of services that do not require you to register for an account or provide any personal information to us. In order to provide our full range of services, we may collect the following types of information: 
 
-  * **We never send unsolicited email messages.**
-  * **When you browse our community, we collect general but not specific information.** We regularly look at our logs to see referring sites, browser types, screen resolutions and region of the world. We do not try to link this information to a specific name or face.
-  * **When you register, we collect some personal information to create your account.** This includes your name and birthday. Your birthday is required to comply with applicable child protection laws.
-  * **We do not rent, sell or share personal information.** We will never share personal information such as your name or email address. However, we may offer generic information like total daily visitors to our advertising partners.
-  * **We may reveal personal information if compelled by a court order.**
+  * _Information you provide_ – When you sign up for a DiabetesDaily.com account or other DiabetesDaily.com service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). We may combine the information you submit under your account with information from other DiabetesDaily.com services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
+  *  _Cookies_ – When you visit DiabetesDaily.com, we send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends. DiabetesDaily.com also uses cookies in its advertising services to help advertisers and publishers serve and manage ads across the web. 
+  *  _Log information_ – When you access DiabetesDaily.com services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
+  *  _User communications_ – When you send email or other communications to DiabetesDaily.com, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
+  *  _Affiliated sites_ – We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to DiabetesDaily.com in order to deliver the service. We process such information in accordance with this Privacy Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. 
+  *  _Links_ – DiabetesDaily.com may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our technology, customized content and advertising. 
+  *  _Other sites_ – This Privacy Policy applies to DiabetesDaily.com services only. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.   
 
 
+
+
+DiabetesDaily.com only processes personal information for the purposes described in this Privacy Policy and/or the supplementary privacy notices for specific services. In addition to the above, such purposes include: 
+
+  * Providing our services to users, including the display of customized content and advertising;
+  * Auditing, research and analysis in order to maintain, protect and improve our services;
+  * Ensuring the technical functioning of our network; and 
+  * Developing new services.   
+
+
+
+
+**DiabetesDaily.com Account**  
+You may access some of our services by signing up for an account and providing us with some personal information (typically your name, email address and a password). This account information will be used to authenticate you when you access DiabetesDaily.cm services and protect your account from unauthorized access by others. We may share personal information among our various services in order to customize content and enhance our services for you. No account information is shared with anyone other than DiabetesDaily.com except as specified in the Privacy Policy or with your consent. 
+
+**Remove Your Account**  
+All information posted on this website is property of DiabetesDaily.com. Upon request, we can disable access to your account and remove all personal information associated with it. 
+
+**Unsubscribe**  
+We have a link to unsubscribe from our email lists at the end of every email we send. Alternately, you can unsubscribe using the contact link in the top right corner of the page or sending a letter to the following address:
+
+Diabetes Daily  
+26201 Richmond Road  
+Bedford Heights, OH 44146
 
 If you have any questions or suggestions on how to improve, please contact us.
