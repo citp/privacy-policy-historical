@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loyaltepays.com privacy policy that was archived on 2008-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080226052056id_/http%3A//www.loyaltepays.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loyaltepays.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222143715id_/http%3A//www.loyaltepays.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # LoyaltePays > Home
 
