@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hydranetwork.com privacy policy that was archived on 2008-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080415102041id_/http%3A//www.hydranetwork.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hydranetwork.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222053148id_/http%3A//www.hydranetwork.com/privacy) for the most accurate reproduction.*
 
 # Hydra - Privacy is important to us.
 
