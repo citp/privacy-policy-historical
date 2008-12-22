@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucomparehealthcare.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609090935id_/http%3A//www.ucomparehealthcare.com/about_us/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucomparehealthcare.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222075513id_/http%3A//www.ucomparehealthcare.com/about_us/privacy_policy.html) for the most accurate reproduction.*
 
 # UCompareHealthCare - Privacy Policy
 
@@ -10,7 +10,7 @@ The purpose of our Privacy Policy is to provide the user with the methods by whi
 
 ### To Whom this Statement Applies
 
-This Privacy and Security Statement applies only to UCompareHealthCare LLC. This policy is not intended to govern any existing or future web sites and/or services operated by third parties or companies affiliated in anyway with UCompareHealthCare LLC. UCompareHealthCare LLC's officers, members, directors, employees, agents, contractors and subcontractors are required to honor this Privacy and Security Statement. 
+This Privacy and Security Statement applies only to UCompareHealthCare. This policy is not intended to govern any existing or future web sites and/or services operated by third parties or companies affiliated in anyway with UCompareHealthCare. UCompareHealthCare officers, members, directors, employees, agents, contractors and subcontractors are required to honor this Privacy and Security Statement. 
 
 Each user must provide their consent to abide by the user agreement. If you are interested in receiving additional information from our partners then you must submit your email address in the box indicated. UCompareHealthCare does not have access to this information and does not store your email address which you provide. Your email address is shared only with the advertising partner that offers the free special offers and not with UCompareHealthCare. 
 
@@ -20,18 +20,18 @@ Online reports are provided to our users free of charge and with no requirements
 
 ### The Personal Information We Share and With Whom We Share It
 
-UCompareHealthCare, LLC does not share, rent, sell, trade, or lease any personal information we collect. We review this privacy policy on an on-going bases as well as when we make enhancements to our site for the benefit of our users. Those occasions include changes that make it easier for our users to receive our high value content and free healthcare reports, new information we add to our site or new partners that we may develop relationships with. Your privacy is of great concern and we want you to know that we intend to build a strong and trusted relationship with all of our users.
+UCompareHealthCare does not share, rent, sell, trade, or lease any personal information we collect. We review this privacy policy on an on-going bases as well as when we make enhancements to our site for the benefit of our users. Those occasions include changes that make it easier for our users to receive our high value content and free healthcare reports, new information we add to our site or new partners that we may develop relationships with. Your privacy is of great concern and we want you to know that we intend to build a strong and trusted relationship with all of our users.
 
-We may be required to disclose personal information to comply with the law or a legal process, to protect or defend the rights or property of UCompareHealthCare,LLC or others, to enforce the Terms and Conditions of this privacy policy as well as to respond to claims that the content(s) of a communication(s) violates the rights of another. We also reserve the right to share or transmit your personal information that you have provided to us to any third party as required by law.
+We may be required to disclose personal information to comply with the law or a legal process, to protect or defend the rights or property of UCompareHealthCare or others, to enforce the Terms and Conditions of this privacy policy as well as to respond to claims that the content(s) of a communication(s) violates the rights of another. We also reserve the right to share or transmit your personal information that you have provided to us to any third party as required by law.
 
-We reserve the right to disclose your personal information in aggregate form only, for business reasons, such as providing advertisers/partners with aggregate demographic information necessary to define the audience of UCompareHealthCare, LLC. In this case the information we share is specifically related, in aggregate form, to the state, time spent on the site, page views, number of unique visitors and type of report(s) that may have been obtained. In no case will we share your personal e-mail address or specifics of any one individual visitor with these parties in the effort of defining the characteristics of our users.
+We reserve the right to disclose your personal information in aggregate form only, for business reasons, such as providing advertisers/partners with aggregate demographic information necessary to define the audience of UCompareHealthCare. In this case the information we share is specifically related, in aggregate form, to the state, time spent on the site, page views, number of unique visitors and type of report(s) that may have been obtained. In no case will we share your personal e-mail address or specifics of any one individual visitor with these parties in the effort of defining the characteristics of our users.
 
 ### How You Can Control the Use of Your Personal Information
 
 If you need to change your Personal information the following will describe the avenues available to the user for this purpose. 
 
-  * 1\. email us at: [info@ucomparehealthcare.com](mailto:info@ucomparehealthcare.com), and include your email address, and a note of instruction; or 
-  * 2\. write to us at: UCompareHealthCare, Attention Customer Service, 4 Mt. Royal Ave. Suite 400, Marlborough, MA 01752, and include your name, email address and a note of instruction. 
+  1. email us at: [info@ucomparehealthcare.com](mailto:info@ucomparehealthcare.com), and include your email address, and a note of instruction; or 
+  2. write to us at: UCompareHealthCare, Attention Customer Service, 4 Mt. Royal Ave. Suite 400, Marlborough, MA 01752, and include your name, email address and a note of instruction. 
 
 
 
@@ -58,5 +58,4 @@ UCompareHealthCare
 Suite 400  
 Marlborough, MA 01752
 
-Privacy Policy updated 11/29/2007  
-Privacy Policy updated 3/27/2007
+Privacy Policy updated 5/30/2008
