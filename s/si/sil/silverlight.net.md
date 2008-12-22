@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silverlight.net privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621064949id_/http%3A//silverlight.net/content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silverlight.net privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222053315id_/http%3A//silverlight.net/content/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement : The Official Microsoft Silverlight Site
 
