@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopping.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011001423id_/http%3A//www.shopping.com/aa14-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopping.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222060043id_/http%3A//www.shopping.com/aa14-privacy) for the most accurate reproduction.*
 
-# Shopping.com - Shopping made simple
+# Shopping.com - Find, Compare, and Buy Anything in Seconds
 
 October 5th, 2006 
 
