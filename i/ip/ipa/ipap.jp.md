@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipap.jp privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030083828id_/http%3A//www.ipap.jp/privacypolicy_e.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipap.jp privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222184113id_/http%3A//www.ipap.jp/privacypolicy_e.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ IPAP will use the information you provide for the following.
   * Confirmation of a request for our information services and events. 
   * Delivery of the information services. 
   * Conducting a survey on the usage of our publications to offer improved and better services. 
-  * Checking if you are a member of the associate societies. [Your information may be referred to the member list of The Physical Society of Japan (JPS) and The Japan Society of Applied Physics (JSAP). We will refer to the list to verify whether you are a member of JPS or JSAP.] 
+  * Checking if you are a member of our societies. [Your information may be referred to the member list of The Physical Society of Japan (JPS) and The Japan Society of Applied Physics (JSAP). We will refer to the list to verify whether you are a member of JPS or JSAP.] 
 
 
 
@@ -42,9 +42,9 @@ This privacy policy is subject to change without prior notice. If we make any ch
 
 If you have any comments and questions concerning this policy, please contact us at the following address. 
 
-  * **Institute of Pure and Applied Physics (IPAP)**
-  * daVinci Yushima 5F, 2-31-22 Yushima, Bunkyo-ku, Tokyo 113-0034, Japan 
+  * Institute of Pure and Applied Physics (IPAP)
+  * 5F, 2-31-22 Yushima, Bunkyo-ku, Tokyo 113-0034, Japan 
   * Tel: +81-3-5844-3293 
   * Fax: +81-3-5844-3290 
-Last updated 2006-12-01 
+Last updated 2008-10-22 
 
