@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pokerlistings.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625231913id_/http%3A//www.pokerlistings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerlistings.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222091213id_/http%3A//www.pokerlistings.com/privacy-policy) for the most accurate reproduction.*
 
 # Online Poker Guide - PokerListings.com - Best Poker Online
+
+[Home](http://www.pokerlistings.com/) > Privacy Policy 
 
 * * *
 
@@ -19,6 +21,9 @@ We currently have ads served by an in-house program, which follows these privacy
 
 **Use of cookies:**  
 PokerListings.com does use cookies on its Web site, mostly in order to track traffic coming from other Web sites and leaving to other Web sites. We do not use the cookies to attempt to link them with individuals to make any information personally identifiable. 
+
+**Use of Pixels:**  
+PokerListings.com shares web site usage information about visitors to our web site, who have received a targeted promotional campaign, with a reputable third-party advertising company for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, we and our third-party advertising company note some of the pages you visit on our web site through the use of pixel tags (also called clear gifs). For more information about our third-party advertising company, please click [here](http://www.epsilon.com/epsilonstatic/privacy.html). 
 
 **Updates and changes:**  
 PokerListings.com reserves the right to replace its Privacy Policy at any time. We suggest that you regularly check http://www.pokerlistings.com/privacy-policy for updates. 
