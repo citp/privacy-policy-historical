@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nrcc.org privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630071623id_/http%3A//www.nrcc.org/about/default.asp%3FID%3D76) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrcc.org privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222043639id_/http%3A//www.nrcc.org/about/default.asp%3FID%3D76) for the most accurate reproduction.*
 
 # NRCC
 
-[NRCC Home](https://web.archive.org/default.asp) > [About](https://web.archive.org/web/20080630071623id_/http%3A//www.nrcc.org/about/default.asp) > NRCC Online Privacy Policy 
+[NRCC Home](https://web.archive.org/default.asp) > [About](https://web.archive.org/web/20081222043639id_/http%3A//www.nrcc.org/about/default.asp) > NRCC Online Privacy Policy 
 
 The National Republican Congressional Committee is committed to protecting the personal information that you provide to us when using the NRCC Site. This privacy policy describes how we treat all user data collected during your visit to [www.NRCC.org](http://www.nrcc.org/), both anonymous data and personally-identifying data.
 
@@ -25,6 +25,9 @@ We will not share your Personal Data with any third party unless we first notify
 
 Your Ability to Choose   
 When you provide us with your Personal Data on the NRCC Site, you can let us know that you do not wish to receive our online newsletter or any e-mailed action alerts by un-checking the subscription request boxes on the form you are completing, or by contacting us via email at [website@nrcc.org](mailto:website@nrcc.org). 
+
+Contributions  
+Contributions are not refundable.  Internet donors will receive an email confirming their contribution.
 
 Children  
 We do not knowingly collect information from children under the age of 13. 
