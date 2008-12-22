@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inlovewithfashion.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630175356id_/http%3A//www.inlovewithfashion.com/index.php%3Ftarget%3Dpages%26page_id%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inlovewithfashion.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222141133id_/http%3A//www.inlovewithfashion.com/index.php%3Ftarget%3Dpages%26page_id%3Dprivacy_policy) for the most accurate reproduction.*
 
 # In Love With Fashion - Privacy Policy
 
