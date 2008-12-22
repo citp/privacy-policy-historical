@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettingpro.com privacy policy that was archived on 2008-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080508125723id_/http%3A//www.bettingpro.com/Information/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettingpro.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222111046id_/http%3A//www.bettingpro.com/Information/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
