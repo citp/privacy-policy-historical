@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the care.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626232453id_/http%3A//www.care.com/privacy-policy-p1013.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the care.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222165905id_/http%3A//www.care.com/privacy-policy-p1013.html) for the most accurate reproduction.*
 
 # Privacy Policy - Care.com
 
@@ -22,7 +22,7 @@ Care.com is committed to helping match users who are seeking home or care servic
 
 The information we collect may include: first name, last name, city, state, address, ZIP code, phone, email address and other information specific to the service requested or provided. If you become a registered subscriber we may collect your credit card information and billing address should you explicitly decide to participate in programs that require this information. Such programs may include becoming a Premium subscriber, running a background check, and other promotions that Care.com may offer from time to time. If you become a registered Care Provider, we may collect your date of birth, gender, company name (if applicable), and ZIP codes served. If you are a company or agency registering as a Care Provider, we may also collect information about the company including the tax id, the year established, and the number of employees. If you request a background check on yourself we may collect your Social Security Number. In addition, if you request a background check on yourself we may obtain criminal background information from a third-party verification service. Use of such a verification service is voluntary.
 
-We may also collect information about third-party references from Care Providers. This information may include the name, phone number, and email address of the third-party reference. This information is collected when a Care Provider creates or updates their profile. This information is collected so that a Care Seeker or Care.com acting on behalf of a Care Seeker can contact the third-party reference to verify information provided by the Care Provider. The information collected about third-party references will not be used for other purposes including marketing. If a third-party reference would like to have their information removed from Care.com, they can contact Care.com Member Care at membercare@care.com.
+We may also collect information about third-party references from Care Providers. This information may include the name, phone number, and email address of the third-party reference. This information is collected when a Care Provider creates or updates their profile. This information is collected so that a Care Seeker or Care.com acting on behalf of a Care Seeker can contact the third-party reference to verify information provided by the Care Provider. The information collected about third-party references will not be used for other purposes including marketing. If a third-party reference would like to have their information removed from Care.com, they can [contact Care.com Member Care](https://web.archive.org/contact-us-p1011.html). 
 
 If you use our blog on this Site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in this forum.
 
@@ -62,7 +62,7 @@ Care Providers have the ability to suppress certain information, such as their p
 Care.com provides the ability for a user to conduct a background check on themselves with a third-party verification service. If you decide to use this service, a summary of the background check results are made available to you on the Site. You have control over which other users can view the results of your background check. The results may include personal information, such as your first name and last name. Your use of such a service is voluntary.
 
 **Your Access to Personally Identifiable Information**  
-If your personally identifiable information changes, you may update this information by logging into your account and accessing the "Profile" section within "My Account". If you no longer wish to participate in our service you may contact Care.com Member Care at membercare@care.com and request that your account be closed.
+If your personally identifiable information changes, you may update this information by logging into your account and accessing the "Profile" section within "My Account". If you no longer wish to participate in our service you may [contact Care.com Member Care](https://web.archive.org/contact-us-p1011.html) and request that your account be closed.
 
 **How We Protect Your Information**  
 Care.com is committed to earning and keeping your trust and we understand the need to keep your information secure and private. As a result we have implemented industry-recognized safeguards to protect your information. These safeguards include:
@@ -86,4 +86,4 @@ Care.com, Inc.
 1400 Main Street   
 Waltham, MA 02451 USA 
 
-legal@care.com 
+[legal@care.com](mailto:legal@care.com)
