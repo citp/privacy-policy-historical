@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dancespirit.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608184615id_/http%3A//www.dancespirit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dancespirit.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222023049id_/http%3A//dancespirit.com/privacy) for the most accurate reproduction.*
 
-# None
+# Dance Spirit Magazine
 
 At _Dance Spirit,_ we respect your right to privacy and we understand that users of the __Dance Magazine__ Web site need to be in control of their personal information. "Personal information" includes, but is not limited to, name, address, telephone number, email address and credit card information _Dance Spirit_ does not sell, rent, swap or otherwise disclose any of this information. _  
 Dance Spirit_ adopted this Privacy Policy to inform users of the _Dance Spirit_ Internet site how the site does collect, store and use personal information submitted via the site. 
