@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the simplylearnt.com privacy policy that was archived on 2008-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080623025154id_/http%3A//www.simplylearnt.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the simplylearnt.com privacy policy that was archived on 2008-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081222211132id_/http%3A//www.simplylearnt.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>
 Privacy Policy - simplyLearnt</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
 <style type="text/css" media="screen, projection">
 /*<![CDATA[*/
 @import "http://www.simplylearnt.com/main/css/default_with_tabs/default.css";
@@ -15,6 +17,11 @@ Privacy Policy - simplyLearnt</title>
 @import "http://www.simplylearnt.com/main/css/default_with_tabs/print.css";
 /*]]>*/
 </style>
+
+<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="http://www.simplylearnt.com/main/css/default_with_tabs/default_ie.css"/>
+<![endif]-->
+
 
 <link rel="top" href="http://www.simplylearnt.com/index.php" title="">
 <link rel="courses" href="http://www.simplylearnt.com/main/auth/courses.php" title="Courses list">
@@ -35,6 +42,8 @@ installCodePath = "http://www.simplylearnt.com/main/";
 <script type="text/javascript" src="http://www.simplylearnt.com/main/js/ruzeeborders.js"></script>
 <script type="text/javascript" src="http://www.simplylearnt.com/main/js/slide-out-menu.js"></script>
 <script type="text/javascript" src="http://www.simplylearnt.com/main/js/hint-textbox.js"></script>
+<script type="text/javascript" src="http://www.simplylearnt.com/main/js/dropdownmenu.js"></script>
+<script type="text/javascript" src="http://www.simplylearnt.com/main/js/drag-drop-custom.js"></script>
 <script type="text/javascript"><!--
     // add the border definitions
 	// chk http://www.ruzee.com/blog/ruzeeborders for all types of borders
@@ -51,6 +60,16 @@ installCodePath = "http://www.simplylearnt.com/main/";
     };
     //-->
   </script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1193146-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
 
 <script type="text/javascript">
 messageObj = new DHTML_modalMessage();	// We only create one object of this class
@@ -92,39 +111,11 @@ function closeMessage()
 
 var menuids=["mainmenu"] //Enter id(s) of SuckerTree UL menus, separated by commas
 
-function buildsubmenus_horizontal(){
-for (var i=0; i<menuids.length; i++){
-  var ultags=document.getElementById(menuids[i]).getElementsByTagName("ul")
-    for (var t=0; t<ultags.length; t++){
-		if (ultags[t].parentNode.parentNode.id==menuids[i]){ //if this is a first level submenu
-			ultags[t].style.top=ultags[t].parentNode.offsetHeight+"px" //dynamically position first level submenus to be height of main menu item
-			ultags[t].parentNode.getElementsByTagName("a")[0].className="mainfoldericon"
-		}
-		else{ //else if this is a sub level menu (ul)
-		  ultags[t].style.left=ultags[t-1].getElementsByTagName("a")[0].offsetWidth+"px" //position menu to the right of menu item that activated it
-    	ultags[t].parentNode.getElementsByTagName("a")[0].className="subfoldericon"
-		}
-    ultags[t].parentNode.onmouseover=function(){
-    this.getElementsByTagName("ul")[0].style.visibility="visible"
-    }
-    ultags[t].parentNode.onmouseout=function(){
-    this.getElementsByTagName("ul")[0].style.visibility="hidden"
-    }
-    }
-  }
+function buildsubmenus_horizontal()
+{
 }
 
 </script>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-1193146-4");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
-
 
 </head>
 <body dir="ltr">
@@ -141,17 +132,19 @@ pageTracker._trackPageview();
 <div id="header">  <!-- header section start -->
 <div id="institution">
 <a href="http://www.simplylearnt.com/" target="_top">
-<img src="http://www.simplylearnt.com/main/img/simplylearnt-logo-large.gif" alt="simplyLearnt" style="margin-top:8px; margin-left:4px;" border="0"></a>
-</div>
-<div class="suckertreemenu">
-<ul id="mainmenu">
-<li style="border-left: 1px solid #8bb320"><a href="http://www.simplylearnt.com/" target="_top">Home</a></li>
-<li><a href="http://www.simplylearnt.com/tutors" target="_top">Tutors</a></li>
-<li><a href="http://www.simplylearnt.com/sessions" target="_top">Sessions</a></li>
-<li><a href="http://www.simplylearnt.com/content" target="_top">Content</a></li>
+<img src="http://www.simplylearnt.com/main/img/simplylearnt-logo-large.png" alt="simplyLearnt" style="margin-top:8px; margin-left:4px;" border="0"></a>
+</div><ul id="top-nav"><li id="nav-no-menu"><a href="http://www.simplylearnt.com/" target="_top"><span>Home</span></a></li>
+<li id="nav-tutors"><a href="http://www.simplylearnt.com/profiles" target="_top"><span>Profiles</span></a><ul><li><a href="http://www.simplylearnt.com/tutors" target="_top"><span>Tutors</span></a></li>
+<li><a href="http://www.simplylearnt.com/institutes" target="_top"><span>Institutes</span></a></li>
+<li><a href="http://www.simplylearnt.com/register" target="_top"><span>Create a Profile</span></a></li>
+</ul></li>
+<li id="nav-sessions"><a href="http://www.simplylearnt.com/sessions" target="_top"><span>Sessions</span></a><ul><li><a href="http://www.simplylearnt.com/tutors/schedule_session" target="_top">Schedule a Session</a></li>
+</ul></li>
+<li id="nav-content"><a href="http://www.simplylearnt.com/content" target="_top"><span>Content</span></a><ul><li><a href="http://www.simplylearnt.com/content/upload" target="_top"><span>Upload Content</span></a></li>
+</ul></li>
+<li id="nav-tests"><a href="http://www.simplylearnt.com/tests" target="_top"><span>Tests</span></a><ul><li><a href="http://www.simplylearnt.com/test/upload" target="_top"><span>Upload A Test</span></a></li>
+</ul></li>
 </ul><!-- small hack to have it look good in opera -->&nbsp;
-</div> <!-- end of header3 (user) section -->
-
 <div id="header1"> <!-- top of banner with institution name/hompage link -->
 <div id="hdr_bkgnd">&nbsp;
 </div>
@@ -161,20 +154,19 @@ pageTracker._trackPageview();
              <table style="padding:0px;margin:0px;margin-top:10px;margin-left: 30px;">
                  <tbody><tr>
                      <td>
-                         <input type="text" name="search_query" class="hintTextbox" value="english, grade 6th, $20">
+                         <input type="text" name="search_query" class="hintTextbox" value="Tests on CAT, IIT JEE">
 
                     </td>
                      <td>
-                         <input type="image" src="http://www.simplylearnt.com/main/img/searchbutton_blue.gif">
+                         <input type="image" src="http://www.simplylearnt.com/main/img/searchbutton.png">
                      </td>
                 </tr>
             </tbody></table>
      </form>
- </div>
-
+</div>
 <div id="loginMenu" style="clear:right">
 
-<a href="http://www.simplylearnt.com/register" onclick="location.reload()">Register</a> . <a href="#" onclick="displayMessage('http://www.simplylearnt.com/main/inc/login-modal.php?allowCancel=1', 300, 200);return false">Login</a></div> </div> <!-- end of #header1 -->
+<a href="http://www.simplylearnt.com/register">Register</a> . <a href="#" onclick="displayMessage('http://www.simplylearnt.com/main/inc/login-modal.php?allowCancel=1', 300, 200);return false">Login</a></div> </div> <!-- end of #header1 -->
 </div> <!-- end of the whole #header section -->
 <div class="clear">&nbsp;</div>
 <div id="main"> <!-- start of #main wrapper for #content and #menu divs -->
@@ -258,9 +250,25 @@ pageTracker._trackPageview();
 <div id="footerdivider">&nbsp;
 </div>
 <div id="slfooter"> <!-- start of #footer section -->
-	<a href="http://www.simplylearnt.com/">Home</a> | 	<a href="http://www.simplylearnt.com/give_feedback">Feedback</a> | 	<a href="http://www.simplylearnt.com/contact_us">Contact Us</a> | 	<a href="http://www.simplylearnt.com/privacy_policy">Privacy Policy</a> | <a href="http://www.simplylearnt.com/usage_terms">User Agreement</a><br><br>
-
-	<span class="footernote">Minimum Browser requirements - 1024 x 768 resolution with Adobe Flash Player 9. If not available <a href="http://www.adobe.com/go/getflashplayer">click here to download</a>.</span>
+<table width="100%">
+<tbody><tr>
+<td width="110"><b>People Directory </b></td>
+<td>
+<a href="http://www.simplylearnt.com/members/A">A</a> &nbsp;<a href="http://www.simplylearnt.com/members/B">B</a> &nbsp;<a href="http://www.simplylearnt.com/members/C">C</a> &nbsp;<a href="http://www.simplylearnt.com/members/D">D</a> &nbsp;<a href="http://www.simplylearnt.com/members/E">E</a> &nbsp;<a href="http://www.simplylearnt.com/members/F">F</a> &nbsp;<a href="http://www.simplylearnt.com/members/G">G</a> &nbsp;<a href="http://www.simplylearnt.com/members/H">H</a> &nbsp;<a href="http://www.simplylearnt.com/members/I">I</a> &nbsp;<a href="http://www.simplylearnt.com/members/J">J</a> &nbsp;<a href="http://www.simplylearnt.com/members/K">K</a> &nbsp;<a href="http://www.simplylearnt.com/members/L">L</a> &nbsp;<a href="http://www.simplylearnt.com/members/M">M</a> &nbsp;<a href="http://www.simplylearnt.com/members/N">N</a> &nbsp;<a href="http://www.simplylearnt.com/members/O">O</a> &nbsp;<a href="http://www.simplylearnt.com/members/P">P</a> &nbsp;<a href="http://www.simplylearnt.com/members/Q">Q</a> &nbsp;<a href="http://www.simplylearnt.com/members/R">R</a> &nbsp;<a href="http://www.simplylearnt.com/members/S">S</a> &nbsp;<a href="http://www.simplylearnt.com/members/T">T</a> &nbsp;<a href="http://www.simplylearnt.com/members/U">U</a> &nbsp;<a href="http://www.simplylearnt.com/members/V">V</a> &nbsp;<a href="http://www.simplylearnt.com/members/W">W</a> &nbsp;<a href="http://www.simplylearnt.com/members/X">X</a> &nbsp;<a href="http://www.simplylearnt.com/members/Y">Y</a> &nbsp;<a href="http://www.simplylearnt.com/members/Z">Z</a> &nbsp;<span class="footernote">(by first name)</span>
+</td>
+</tr>
+<tr>
+<td><b>Institute Directory </b></td>
+<td>
+<a href="http://www.simplylearnt.com/institutes/A">A</a> &nbsp;<a href="http://www.simplylearnt.com/institutes/B">B</a> &nbsp;<a href="http://www.simplylearnt.com/institutes/C">C</a> &nbsp;<a href="http://www.simplylearnt.com/institutes/D">D</a> &nbsp;<a href="http://www.simplylearnt.com/institutes/E">E</a> &nbsp;<a href="http://www.simplylearnt.com/institutes/F">F</a> &nbsp;<a href="http://www.simplylearnt.com/institutes/G">G</a> &nbsp;<a href="http://www.simplylearnt.com/institutes/H">H</a> &nbsp;<a href="http://www.simplylearnt.com/institutes/I">I</a> &nbsp;<a href="http://www.simplylearnt.com/institutes/J">J</a> &nbsp;<a href="http://www.simplylearnt.com/institutes/K">K</a> &nbsp;<a href="http://www.simplylearnt.com/institutes/L">L</a> &nbsp;<a href="http://www.simplylearnt.com/institutes/M">M</a> &nbsp;<a href="http://www.simplylearnt.com/institutes/N">N</a> &nbsp;<a href="http://www.simplylearnt.com/institutes/O">O</a> &nbsp;<a href="http://www.simplylearnt.com/institutes/P">P</a> &nbsp;<a href="http://www.simplylearnt.com/institutes/Q">Q</a> &nbsp;<a href="http://www.simplylearnt.com/institutes/R">R</a> &nbsp;<a href="http://www.simplylearnt.com/institutes/S">S</a> &nbsp;<a href="http://www.simplylearnt.com/institutes/T">T</a> &nbsp;<a href="http://www.simplylearnt.com/institutes/U">U</a> &nbsp;<a href="http://www.simplylearnt.com/institutes/V">V</a> &nbsp;<a href="http://www.simplylearnt.com/institutes/W">W</a> &nbsp;<a href="http://www.simplylearnt.com/institutes/X">X</a> &nbsp;<a href="http://www.simplylearnt.com/institutes/Y">Y</a> &nbsp;<a href="http://www.simplylearnt.com/institutes/Z">Z</a> &nbsp;</td>
+</tr>
+<tr>
+<td><b>simplyLearnt</b></td>
+<td><a href="http://www.simplylearnt.com/usage_terms">User Agreement</a> | <a href="http://www.simplylearnt.com/privacy_policy">Privacy Policy</a> | <a href="http://www.simplylearnt.com/careers">Careers</a> | <a href="http://www.simplylearnt.com/give_feedback">Feedback</a> | <a href="http://www.simplylearnt.com/contact_us">Contact Us</a></td>
+</tr>
+</tbody></table>
+<br>
+<span class="footernote">Minimum Browser requirements - 1024 x 768 resolution with Adobe Flash Player 9. If not available <a href="http://www.adobe.com/go/getflashplayer">click here to download</a>.</span>
 </div> <!-- end of #footer -->
 
 </div> <!-- end of #outerframe opened in header.inc.php -->
