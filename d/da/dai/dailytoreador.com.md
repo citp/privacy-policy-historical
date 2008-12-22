@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailytoreador.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629201458id_/http%3A//www.dailytoreador.com/user/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytoreador.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222012050id_/http%3A//www.dailytoreador.com/user/privacypolicy) for the most accurate reproduction.*
 
 # Daily Toreador
 
