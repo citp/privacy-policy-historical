@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isthisyour.name privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215222334id_/http%3A//www.isthisyour.name/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isthisyour.name privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222042150id_/http%3A//www.isthisyour.name/privacy) for the most accurate reproduction.*
 
 # Your Privacy: Is This Your Name?
 
@@ -21,3 +21,5 @@ Each time a visitor comes to IsThisYourName, information is collected to improve
 ### E-mail Services
 
 We have a contact form on our site, which requests the email address of anyone who wishes to correspond with us. This is so that we can send a reply. Any/all e-mail addresses sent to us as the result of correspondence will not be used or collected for the purposes of reselling to a third party and will not be added to a bulk e-mailing list.
+
+* * *
