@@ -1,22 +1,12 @@
-> *The following text is extracted and transformed from the climatesaverscomputing.org privacy policy that was archived on 2008-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080401234950id_/http%3A//www.climatesaverscomputing.org/program/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climatesaverscomputing.org privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222194625id_/http%3A//www.climatesaverscomputing.org/privacy-policy) for the most accurate reproduction.*
 
 # Climate Savers Computing - Privacy Policy
 
-|  |  |  |  |   
----|---  
-|  | 
-
-|   
+|   |  |    
 ---  
-|   |  | CLIMATE SAVERS COMPUTING INITIATIVE   
-Privacy Policy  
----  
-   
   
-Climate Savers Computing Initiative (“CSCI”) respects your privacy choices. We will limit the amount of information we ask of you to what is necessary and will treat it according to this privacy policy.   
+Climate Savers Computing Initiative (“CSCI”) respects your privacy choices. We will limit the amount of information we ask of you to what is necessary and will treat it according to this privacy policy. CSCI encourages you to read this privacy policy and those of all web sites you visit.   
   
-   
-CSCI encourages you to read this privacy policy and those of all web sites you visit.   
    
 WEB HOSTING:   
    
@@ -82,28 +72,4 @@ All updates to this policy will be posted here.
 CONTACTING THE WEB SITE:   
    
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact the Site Administrator at  [admin@climatesaverscomputing.org](mailto:admin@climatesaverscomputing.org).  
-   
-  
-   
-   
-|   
----  
-| You have the power to make  
-a difference  
----  
-[Pledge your support](http://www.climatesaverscomputing.org/program/pledge.html) to slow global warming, one power-efficient computer at a time.  
-| **54**  
-**MILLION** | By 2010 we seek to reduce global CO2 emissions from the operation of computers by 54 million tons per year.[1](http://www.climatesaverscomputing.org/program/privacy.html#f1)  
----|---  
-Did You Know?  
-   
-|    
----  
-   
-|    
----  
-[About The Program](http://www.climatesaverscomputing.org/program/index.html "About The Programe")  | [Contact Us](http://www.climatesaverscomputing.org/program/contact.html "Contact Us")  | [Privacy Policy](http://www.climatesaverscomputing.org/program/privacy.html "Privacy Policy")  
-   
-© 2007 Climate Savers Computing Initiative.  
-Climate Savers® is a trademark or registered trademark of WWF, the international conservation organization. Used under license.   
  
