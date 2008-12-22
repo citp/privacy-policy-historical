@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kifaa.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615034703id_/http%3A//www.kifaa.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kifaa.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222151747id_/http%3A//www.kifaa.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Post free ads for Jobs, Apartments, Dating, Houseshare, Classifieds, used cars, For sale and Want ads, free advertisments, mortgage, loan, credit card, insurance, auction - Kifaa.com
+# Post free ads. Free advertisement. Buy and Sell Online free! Place your free classified ads with Kifaa.com today
 
 **Privacy Policy Statement of Kifaa.com and affiliated network.**
 
