@@ -1,47 +1,87 @@
-> *The following text is extracted and transformed from the couponmountain.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513043653id_/http%3A//www.couponmountain.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponmountain.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222034841id_/http%3A//www.couponmountain.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Offer Online Coupons & Coupon Codes at Coupon Mountain
 
-_Generally CouponMountain does not collect, store, use or disclose personally identifying information except in very specific instances, such as, for example, when you provide your email address as part of the sign-up process for our Newsletter or when you sign up for our personalization services (My Account). Whenever we collect such information, you will have a choice regarding whether to provide it, how it will be used, and to whom it will be disclosed. The instances in which CouponMountain does collect and use information are specifically described below in this Privacy Policy._
+| 
 
-CouponMountain provides savvy shoppers with the latest available online coupons at a single destination site. These services are provided by CouponMountain which is a wholly owned subsidiary of MeziMedia, Inc ("MeziMedia"). MeziMedia values its users and their concerns about privacy. To this end, MeziMedia engages in consistent information practices and uses its best efforts to make clear disclosures regarding those practices. This Privacy Policy is a part of that effort. 
+[Home](http://www.couponmountain.com/) > **Privacy Policy**
 
-**What does this Privacy Policy cover?**  
-This Privacy Policy applies to collection, use, storage and disclosure of information by MeziMedia. If there are any exceptions, we will clearly disclose them prior to collecting any information, and will give you an opportunity to choose not to participate or provide the information.
+### COUPONMOUNTAIN.COM
 
-Please be aware that, as part of the services, MeziMedia may provide links to Web sites operated by third parties, and also provides search services to third parties for display on their own Web sites or applications. MeziMedia is not responsible for the information collection or privacy practices or the content of those third party Web sites or applications. Also, please be aware that banner ads on MeziMedia are provided by a third party, which may collect cookies as part of the process of serving those ads. These cookies are typically used for the purpose of tracking performance of the banner ads. MeziMedia does not determine which information will be collected by that third party. Please see the paragraph below regarding Third Party Banner Ads.
+**Last Updated: September 10, 2008**
 
-**What information does MeziMedia collect and how is it used? Does MeziMedia disclose information to third parties?**  
-MeziMedia may collect any or all of the following three types of information: (a) traffic or clickstream data, (b) anonymous online behavioral information, or (c) contact information and other personally identifying information. MeziMedia's collection and use of each type of data is described below, as well as the ways (if any) in which the data may be shared with third parties. 
+_**Privacy Policy**_
 
-**_(a) Traffic or Clickstream Data._** Data about traffic and usage is not personally identifying or identifiable, and is not supplemented or combined with personally identifying or identifiable information. MeziMedia may share information it collects with certain selected third parties, but only in aggregated, anonymous form. For example, we may tell an advertiser that a certain number of people visited a certain area on our Web site, registered for coupons, or searched our site for "Amazon coupons". MeziMedia collects some information regarding use of the services by observing browser functions and the files (pages) users access. For example, MeziMedia's servers collect information about the site to which you may depart to enable MeziMedia to calculate and receive payments from its partners. In addition, MeziMedia uses the information (in aggregate form) to better design the services. 
+Generally CouponMountain.com ("Site" or "we", "our" or "us") does not collect, store, use or disclose any data collected with an intention to identify and/or contact a person such as: name, address, telephone number or e-mail address (hereinafter "PII") except in very specific instances, for example, when you provide PII through registering on the Site or as set forth in this Privacy Policy. Whenever we collect such PII, it will be governed by this Privacy Policy. 
 
-**_(b) Anonymous Online Behavioral Information._** Like many sites, MeziMedia collects information about online behavior using cookies. These cookies contain identification information that enables us to see how our users are interacting with our site and how frequently they are returning, as well as to streamline their experiences using the services. Our cookies do not contain any personally identifiable information. Cookies lets us know about repeat visitors and if we are delivering quality products and services. MeziMedia may also use cookies to identify which sites our repeat visitors are coming from, so that we can place more of our online advertising on these sites, and can, where necessary, pay our business partners. To MeziMedia, using information within cookies is an anonymous way to survey how we are doing and to look for ways to improve our services. You may set your browser software to reject cookies, but you may not be able to use all of the features of the services. MeziMedia may share information about usage of the services with third parties, but only in aggregated, anonymous form. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+CouponMountain.com provides savvy shoppers with the latest available online coupons at a single destination site. This service is provided by CouponMountain.com which is owned by MeziMedia, Inc. ("MeziMedia"). For CouponMountain.com, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us.
 
-**_(c) Contact Information or Personally Identifying Information._** MeziMedia can obtain access to your name, e-mail address and other contact information only (1) when you become a Newsletter subscriber, advertiser/merchant with MeziMedia, provide comments, submit a problem, or request information from MeziMedia and provide your name or return contact information, (2) when you register for the advanced features of coupons (more on this below), or (3) in connection with special offers or contests. 
+**What does this Privacy Policy cover?**
 
-Contact information provided in connection with problems, comments or requests is used only to respond to those problems, comments or requests. This information is not stored or used in connection with traffic or clickstream data and is provided to a third party only as necessary to respond to the comment, problem or request.
+This Privacy Policy applies to collection, use, storage and disclosure of information by us. 
 
-Finally, you may choose to provide contact information, other personally identifying information, and demographic information in order to participate in optional surveys or contests, which are run for promotional purposes. MeziMedia uses such information to send you information about its products and to notify you if you win the contest. Finally, from time to time, but only with your permission, MeziMedia may provide certain of its users' registration information to selected third parties who wish to participate in special promotions offered in conjunction with MeziMedia. You may opt-out of receiving such communications or having your personal information shared with third parties at any time by sending a request that includes your full name, email address, and postal address to: Mezi Media, Attn: Privacy Officer, 103 E. Lemon Ave. Suite 200, Monrovia, CA 91016.
+Please be aware that, as part of the service provided by this Site, we may provide links to websites operated by third parties. We are not responsible for the information collection or privacy practices or the content of those third party Web sites or applications. You should check the applicable privacy policies of such third-party Web sites or applications to determine how they handle any information they collect from you.
 
-**Is data stored by MeziMedia secure?**  
-To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, MeziMedia has put in place physical, electronic, and managerial procedures to safeguard and secure the information it collects online. However, data security is a constantly evolving art and science. You should consider any communication that you transmit to MeziMedia (such as data, questions or answers, comments, or suggestions) as non-confidential, and agree that MeziMedia will not be liable or responsible if information that belongs to you is intercepted and used by an unintended recipient.
+**What information does CouponMountain.com collect and how is it used? Does CouponMountain.com disclose information to third parties?**
 
-**Does MeziMedia collect personally identifying information from or about children?**  
-MeziMedia uses reasonable efforts not to collect, use or disclose individually identifiable information from children under the age of 13. The services are not targeted at children, and children may not register for any portions of the services that require registration.
+We may collect any or all of the following three types of information: (i) traffic or clickstream data, (ii) non-personally identifiable information (for example: IP address, browser types, operating systems, domain names, access dates and times, referring website addresses, online transactions and browsing and search activity) ("Non-PII"), and/or (iii) PII in the instances as set forth in this Privacy Policy. Our collection and use of each type of data is described below, as well as the ways (if any) in which the data may be shared with third parties or subsidiaries or affiliates of MeziMedia ("MeziMedia Entities"). 
 
-**How can I learn about changes to this privacy policy?**  
-Mezi Media may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page and update the effective date so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. Except as otherwise required by law, modifications to this Privacy Policy will not affect the privacy of data collected by Mezi Media prior to the effective date of the policy change unless we provide you direct notice and the opportunity to opt-out of such proposed change.
+(a) Traffic or Clickstream Data ("Clickstream Data"). Clickstream Data consists of traffic and usage data that is not personally identifiable. We do not supplement or combine Clickstream Data with any PII. We may share Clickstream Data we collect with certain selected third parties and MeziMedia Entities, but only in anonymous form. Notwithstanding the foregoing, such third parties and MeziMedia Entities may combine such Clickstream Data with any PII that you choose to give to such third parties or MeziMedia Entities when registering with their websites. We collect Clickstream Data regarding use of our services by observing browser functions and the files (pages) you access. For example, our servers collect information about the site to which you may redirect to in order to enable us to calculate and receive payments from our business partners. In addition, we may use Clickstream Data to better design our services.
 
-**How can I access or correct any personally identifying information about me?**  
-To request a copy of the personally identifiable information you have sent to MeziMedia, please send an email containing your request on the form located at: [http://www.couponmountain.com/Contact_Us.html](https://web.archive.org/Contact_Us.html). You must provide your full name and the e-mail from which the request is received (and to which the response will be sent) must match the e-mail on file with MeziMedia. You may then correct or delete such information using the procedures specified in the e-mail. 
+(b) Non-Personally Identifiable Information. As part of our on-going efforts to ensure the best possible experience for all users of the Site, we may use log files, web beacons and cookies to collect Non-PII from the Site, browsers, advertisers and third-party sites. "Log files" track actions occurring on the Site and collect data including: your IP address, browser type, Internet service provider, referring/exit pages, platform type, date/time stamp, click data and types of advertisements viewed. "Web beacons" are electronic files used to track your navigation of a website or collection of sites, the completion of transactions, submittal of applications and browsing behavior. "Cookies" are files (e.g. flash browser objects) that are stored on your Internet enabled device (which includes your computer, BlackBerry or other PDA). Cookies are used to improve the experience web users have when they see web advertisements and ensure that when a web user clicks on an advertisement, they are sent to the correct click-through destination. We may use Cookies for purposes which may include, without limitation, to estimate the total reach of any of our advertisers, how frequently you return to the Site, as well as to streamline experiences of users of our Site. Cookies are also an anonymous way to survey how we are doing and to look for ways to improve our services. All information collected by Cookies, Web beacons and Log files are Non-PII.
 
-**How do I find out more about MeziMedia's information practices?**  
-If you have any questions about anything in this Privacy Policy, or about collection of personally identifiable information, or information generally, please contact MeziMedia as follows: 
+There are two classes of Cookies based on how long they remain on your system: (i) "Session Cookies" may be used only during your visit to the Site and are erased once you close your browser, and (ii) "Persistent Cookies" (if applicable) remain on your browser for one (1) year from your last visit to the Site and enable us to remember you on subsequent visits to the Site and provide more relevant content to you on such Site. 
 
-Business and Legal Affairs  
-MeziMedia  
-103 E. Lemon Ave., Suite 200  
-Monrovia, CA 91016
+There are many misconceptions about Cookies, some of which we will try to address in this policy. Cookies cannot erase your hard drive or otherwise damage your computer and do not tell us an e-mail address or any other PII. We do not and cannot use Cookies or web beacons to retrieve PII from your computer. 
 
-Contact Us: [http://www.couponmountain.com/Contact_Us.html](https://web.archive.org/Contact_Us.html)
+A useful resource on understanding Cookies may be found at [http://www.allaboutcookies.org ](http://www.allaboutcookies.org/).
+
+(c) Third Party Advertising. We have relationships with third-party advertising companies to drive traffic to and to serve ads on our Site. We share Clickstream Data and Non-PII with such advertising companies. Such companies may also collect non-personally identifiable information through the use of Cookies and other technology and any personally identifiable information you may choose to give in registering and transacting with any website linked to such ads. Although we choose our business partners and clients carefully, we are not responsible for the privacy practices of such third parties. You should check the applicable privacy policies of these third-party advertisers to determine how they handle any information they collect from you.
+
+(d) Contact Information or Personally Identifying Information. We have access to your PII after such PII has been submitted to us by: (i) becoming a registered user of our Site, (ii) subscribing to any of our newsletters, (iii) contacting us by submitting a comment, problem, or request for information, (iv) submitting PII in connection with special offers or contests, and/or by (v) signing up as one of our advertisers, merchants or business partners. 
+
+PII provided in connection with problems, comments or requests is used only to respond to those problems, comments or requests. This information is not stored or used in connection with Clickstream Data and is provided to a third party only as necessary to respond to the comment, problem or request of as required by law or court order. 
+
+Finally, from time to time, but only with your permission, we may provide your PII to selected third parties who wish to participate in special promotions offered in conjunction with us. 
+
+**Do I have choices?**
+
+Yes. You may opt-out of having your PII shared with third parties at any time by sending request that includes your full name, email address, and postal address with a request for opt-out with regard to your PII to: CouponMountain.com, Attn: Privacy Officer, 103 E. Lemon Ave., Suite 200, Monrovia, CA 91016 or you can email us including your full name, email address with a request for opt-out with regard to your PII to [privacy@MeziMedia.com](mailto:privacy@MeziMedia.com). 
+
+We also offer "opt-out Cookies" to block the placement of future MeziMedia Persistent Cookies on your system for one thousand (1,000) days from the time you opted out. If you have multiple internet browsers or users on the same computer, you will need to perform the opt-out operation for each browser and/or user. If you or your privacy software deletes the opt-out Cookies from your computer, you will need to repeat the process. Alternatively, most internet browsers and browser add-ons allow you to adjust their settings to allow you to automatically refuse Cookies either generally or from specific sites. To adjust these settings, we suggest that you contact the supplier of you browser and browser add-ons for more information.
+
+**MeziMedia Opt-Out Cookies (click on link below)**
+
+<http://www.mezimedia.com/opt.php>
+
+Please note that the above link for opt-out Cookies is only applicable to MeziMedia owned websites using Persistent Cookies and not any other company website. Also, please note that use of the opt-out Cookies or implementation of browser settings and add-ons that refuse all cookies will affect our ability to provide you content and advertisements that will more effectively match your interests and may prevent us from controlling the frequency with which you may view any particular advertisement. "Session Cookies" are used only during your visit to the Site and are erased once you close your browser.
+
+**Is data stored by CouponMountain.com secure?**
+
+We employ reasonable measures to ensure the security of all information and we routinely evaluate our practices to identify security threats or opportunities for the improvement of our services. No transmission of information is guaranteed to be completely secure. Unauthorized entry or use, hardware or software failure, and other factors may compromise data security. You acknowledge and agree to assume this risk when communicating with us.
+
+**Does CouponMountain.com collect personally identifying information from or about children?**
+
+We use reasonable efforts not to collect, use or disclose PII from children under the age of 13. The services are not targeted at children, and children age 13 and under may not register for any portions of the services that require registration. If you believe your child has provided us with any PII data by registering on our Site, please specify this issue and email us at [privacy@mezimedia.com](mailto:privacy@MeziMedia.com).
+
+**How can I access or correct any personally identifying information about me?**
+
+To request a copy of any PII you have sent to us, please send an email containing your request to [privacy@MeziMedia.com](mailto:privacy@MeziMedia.com). You must provide your full name and the e-mail from which the request is received (and to which the response will be sent) must match the e-mail on file with us. You may then correct or delete such information using the procedures specified in the e-mail.
+
+**How can I learn about changes to this privacy policy?**
+
+We may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post the revised Privacy Policy and the date the Privacy Policy was last updated on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. We encourage you to review the Privacy Policy whenever you use this Site to make sure you understand how your information will be used. It is the express will of the parties that this agreement and all related documents have been drawn up in English. C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglais.
+
+**How do I find out more about CouponMountain.com information practices?**
+
+If you have any questions about anything in this Privacy Policy or about collection of personally identifiable information, or information generally, please contact us as follows: 
+
+Business and Legal Affairs 
+
+CouponMountain.com/MeziMedia   
+103 E. Lemon Ave., Suite 200   
+Monrovia, CA 91016 
+
+E-Mail: [privacy@MeziMedia.com](mailto:privacy@MeziMedia.com)
+
+| 
