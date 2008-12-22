@@ -1,38 +1,14 @@
-> *The following text is extracted and transformed from the valuedopinions.co.in privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513114326id_/http%3A//www.valuedopinions.co.in/index.php%3Fid%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuedopinions.co.in privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222232117id_/http%3A//www.valuedopinions.co.in/index.php%3Fid%3D7) for the most accurate reproduction.*
 
-# Valued Opinions: Privacy Policy
+# Privacy Policy: Valued Opinions
 
-| 
-
-## WEBSITE PRIVACY POLICY
-
-Research Now plc ("Research Now") operates the Valued Opinions website ("the Website") and we respect the privacy of individuals who use our websites.
+Research Now plc., The Mobile Panel Limited, The Mobile Channel Limited, Research Now Inc (a US Company), Research Now SARL (a French Company), Samplenet e-Research Solutions Inc (a Canadian Company), Research Now Technology Hellas EPE (a Greek Company), Research Now Pty Limited (an Australian Company) and Research Now GmbH (a German Company) (together "Research Now") operate the Valued Opinions website and we respect the privacy of individuals who use our website.
 
 Below we have set out how we use the information that you give us and how the Site operates.
 
  **Subject Information Statement**
 
 Research Now processes your personal data (as defined by the United Kingdom Data Protection Act 1998 ("the 1998 Act")) for the following purposes:
-
-  * to keep you informed and obtain your views of Research Now's products, services and activities;
-  * the creation of a database of individuals willing to take part in research and surveys;
-  * evaluating which individuals registered with Research Now should be approached in respect of surveys being conducted;
-  * to provide you with information about benefits given to you by Research Now as a result of your responding to survey requests;
-  * processing the answers to surveys and summarising the results;
-  * undertaking research surveys on behalf of third parties;
-  * transferring to service suppliers who undertake processing on our behalf and at our direction;
-  * permitting third party research organisations to question individuals registered with Research Now in respect of surveys;
-  * to provide you with information relating to any benefits provided to you by any third parties, including but not limited to a benefit provided to you by our client in response to your answer to a survey request;
-  * transferring any personal data to any subsidiary or group company including but not limited to The Mobile Panel Limited and The Mobile Channel Limited (companies registered in England), Research Now Technology Hellas EPE (a Greek Company), Research Now Pty Limited (an Australian Company), Research Now Inc (a US company), Research Now SARL (a French company) and Research Now GmbH (a German Company);
-  * the administration of your membership of the research panels operated by Research Now (if you have registered as a member);
-  * statutory and regulatory compliance;
-  * to process any enquiries raised by you and other communications initiated by you in relation to your dealings with Research Now and any subsidiary or group company and any services provided by Research Now;
-  * marketing Research Now and its products and services, including those of its group and subsidiary companies and third party suppliers;
-  * to transfer to third parties who provide services to Research Now or provide benefits to participants in Valued Opinions Panels;
-  * contacting you by email to invite you to take part in surveys and when permitted by you, to send you electronic marketing communications keeping you informed about the activities of Research Now; and
-  * achieving the general objectives of Research Now. 
-
-
 
 We collect personal information from you when you communicate with us by any media. We may also collect personal data which relate to you from third parties
 
@@ -41,13 +17,6 @@ We collect personal information from you when you communicate with us by any med
 Certain personal information is categorised by the 1998 Act as "Sensitive Personal Data" as defined by the 1998 Act.
 
 In some circumstances, Research Now provides you with the opportunity to inform us of your sensitive personal data, unless we are permitted to process such sensitive personal data under the provisions of the 1998 Act, we will ask for your consent. In general, the sensitive personal data collected by Research Now is limited to information in connection with:
-
-  * your racial or ethnic origin;
-  * your political opinions,
-  * your physical or mental health or condition; and
-  * your sexual life. 
-
-
 
 In some circumstances we may ask about offences you have committed or are alleged to have committed and any proceedings taken in respect of such an offence.
 
@@ -108,7 +77,7 @@ Please check this page periodically for changes as Research Now reserves the rig
 By providing the information requested by the Website, or by continuing to use the Website after having an opportunity to review the Privacy Policy, you have consented to the terms of this Privacy Policy, and Research Now’s use of the information it collects as described at the point of collection or in this Privacy Policy.  If you do not agree to this Privacy Policy, you may not use the Website. **  
 **
 
-**Contact us**
+ **Contact us**
 
 If you have any queries relating to this Statement, please feel free to contact us by letter at the following address:
 
@@ -122,21 +91,3 @@ If you have any queries relating to this Statement, please feel free to contact 
 **Definitions**
 
 Please find below definitions of some of the terms used in the above privacy policy for your information and assistance. Please note that for the purposes of these definitions a reference to a particular gender is a reference to all genders.ProcessingIn the Act "processing" means obtaining, recording, or holding the information or data or carrying out any operation or set of operations on the information or data, including: 
-
-  * organisation, adaptation or alteration of the information or data,
-  * retrieval, consultation or use of the information or data,  
-
-  * disclosure of the information or data by transmission, dissemination or otherwise making available, or 
-  * alignment, combination, blocking, erasure or destruction of the information or data. Personal DataPersonal data are: 
-  * any data from which the identity of a living individual can be determined, either by itself or with other data processed by data controller; 
-  * any information such as name and address, email address, telephone number and general contact details, personal data includes images on film (e.g. CCTV images), photographs and telephone voice recordings. Sensitive Personal DataSensitive Personal Data means personal data consisting of information as to: 
-  * the racial or ethnic origin of the data subject;
-  * his political opinion;
-  * his religious beliefs or other beliefs of a similar nature;
-  * whether he is a member of a trade union (within the meaning of the Trade Union and Labour Relations (Consolidation) Act 1992);
-  * his physical or mental health or condition;
-  * his sexual life;
-  * the commission or alleged commission by him of any offence; or 
-  * any proceedings for any offence committed or alleged to have been committed by him, the disposal of such proceedings or the sentence of any court in such proceedings.
-
-
