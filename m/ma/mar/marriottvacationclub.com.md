@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marriottvacationclub.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614000321id_/http%3A//www.marriottvillas.com/email/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriottvacationclub.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222062107id_/http%3A//www.marriottvillas.com/email/privacy.asp) for the most accurate reproduction.*
 
 # Marriott Vacation Club Email opt-out
 
@@ -36,7 +36,8 @@ This notice provides highlights of the full Marriott Vacation Club International
 **Important Information**
 
   * We take steps to protect the information you provide against unauthorized access and use. For more information [click here.](https://web.archive.org/email/privacy-full.asp#Securing)
-  * Marriott Vacation Club International participates in the [EU/Department of Commerce Safe Harbor Program](http://www.export.gov/safeharbor/SafeHarborInfo.htm)
+  * [We self-certify compliance with](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list)  
+[](http://www.export.gov/safeharbor/)
 
 |    | 
 
