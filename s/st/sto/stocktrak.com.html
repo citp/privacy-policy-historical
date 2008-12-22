@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stocktrak.com privacy policy that was archived on 2008-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080513045541id_/http%3A//www.stocktrak.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stocktrak.com privacy policy that was archived on 2008-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081222060438id_/http%3A//www.stocktrak.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -26,67 +26,81 @@ urchinTracker();
 </script>
 
 <!-- Random number generator -->
-<script language="javascript" type="text/javascript">
-	var ord = Math.random() * 10000000000000000;
+<script language="javascript" type="text/javascript">var ord = Math.random() * 10000000000000000;</script>
+
+<script src="http://www.stocktrak.com/js/jquery-1.2.6.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+
+		$("#loginLink").click(function(){
+			if ($("#loginForm").is(":hidden")){
+				$("#loginForm").slideDown("slow");
+			}
+			else{
+				$("#loginForm").slideUp("slow");
+			}
+		});
+		
+	});
+	
+	function closeForm(){
+		setTimeout('("#loginForm").slideUp("slow")', 2000);
+   }
 </script>
+
+
 <title>Stock Investment Guide | Stock Research | Stock Investing Research</title></head>
 
 <body id="about">
 
-<div id="wrapper">
-
 <!-- HEADER ELEMENT -->
 <div id="header">
-<div class="inner">
-<div class="right">
+    <div class="wrapper-toplinks">
+        <div class="toplinks">
+            <span>Quicklinks: </span>
+            <ul>
+                <li><a href="http://www.stocktrak.com/prof_college_register.php">Professors <span class="desc">Register Your Class</span></a></li>
+                <li><a href="http://www.stocktrak.com/student_college_register.php">Students <span class="desc">Open Your Account</span></a></li>
+                <li><a href="http://www.WallStreetSurvivor.com/?ad=0108-04122-01&amp;utm_source=StockTrak&amp;utm_medium=Web&amp;utm_term=RON&amp;utm_campaign=StockTrakGroup+web+site">Public <span class="desc">Public Practice Trading</span></a></li>
+            </ul>
+        </div>
+		
+		<div class="loginBox">
+			<div id="loginFormContainer">
+            
+            				<div id="loginLink">Login</div>
+				<div id="loginForm">
+					<fieldset>
+                    	<form action="http://simulation.stocktrak.com/portfolio/login.php" method="post"> 
+                        <input type="hidden" name="submit" value="1">
+						<label for="AccountNumber">Account Number</label>
+						<input id="AccountNumber" name="acctNum" type="text">
+						<label for="AccountPassword">Account Password</label>
+						<input id="AccountPassword" name="acctPass" type="password">
+						<br>
+						<input type="submit" class="btn" name="LOGIN" alt="LOGIN" value="LOGIN" onclick="closeForm()">
+                        </form>
+				   </fieldset>
+				</div>
+                              
+                
+			</div>
+		</div>
 
-<!-- quotes search form -->
-<div id="searchquotes">
-<form action="http://www.stocktrak.com/quotes/" method="get">
-<!--<a href="#"><img src="imgs/btn_search.gif" alt="Search" style="float: right; margin: 4px 20px 0px 20px;" /></a>-->
-<strong>QUOTES:</strong><br>
-<input name="sym" type="text" id="sym" size="25">&nbsp;
-<input type="image" value="submit" src="http://images.stocktrak.com/images/btn_search.gif" align="middle">
-</form>
-</div>
+    </div>
 
-<!-- chart search form -->
-<div id="searchchart" style="display: none">
-<form action="post">
-<a href="#"><img src="http://www.stocktrak.com/imgs/btn_search.gif" alt="Search" style="float: right; margin: 4px 10px 0 10px;"></a>
-<a href="#" onclick="searchSwitch('searchquotes');">QUOTES</a> | CHART<br>
-<input type="text" size="25">
-</form>
-</div>
+    <div class="wrapper-left">
+        <div class="left">
+        	<div class="inner">
+			</div>
+            
+            <a href="http://www.stocktrak.com" class="logo"><img src="http://www.stocktrak.com/imgs/stocktrakgroup_logo.gif" alt="Stock-Trak Logo" border="0" title="Stock-Trak"></a>
+        </div>
+    </div>
 
-</div>
-
-<div class="left">
-<a href="http://www.stocktrak.com/prof_college_register.php" class="link">Professor: Register your class</a> <a href="http://www.stocktrak.com/student_college_register.php" class="link">Students: Open your account</a> <a href="http://www.WallStreetSurvivor.com/?ad=0108-04122-01&amp;utm_source=StockTrak&amp;utm_medium=Web&amp;utm_term=RON&amp;utm_campaign=StockTrakGroup+web+site" class="link">Contests: Wall Street Survivor</a><br>
-<a href="http://www.stocktrak.com" class="logo"><img src="http://www.stocktrak.com/imgs/logo.gif" alt="Stock-Trak Logo" border="0" title="Stock-Trak"></a>
-</div>
-
-</div>
 </div>
 <!-- CLOSE HEADER -->
 
-
-<!-- NAVIGATION ELEMENT -->
-<!--
-<div id="nav">
-<div class="inner">
-<ul>
-<li class="home"><a href="/index.php">Home</a></li>
-<li class="products"><a href="/products.php">Our Products</a></li>
-<li class="portfolio"><a href="http://simulation.stocktrak.com/portfolio/">My Portfolio</a></li>
-<li class="trade"><a href="http://simulation.stocktrak.com/tradingPits/">Trading</a></li>
-<li class="quotes"><a href="/quotes">Quotes</a></li>
-<li class="research"><a href="/research.php">Research Desk</a></li>
-<li class="about"><a href="/about.php">About Us</a></li>
-</ul>
-</div>
-</div>
--->
 <div id="nav">
 	<div class="menu">
 		<ul>
@@ -155,7 +169,6 @@ urchinTracker();
 			<li><a href="http://www.stocktrak.com/about.php">About Us<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
 				<ul>
 					<li><a href="http://www.stocktrak.com/about_management.php">Management</a></li>
-					<li><a href="http://www.stocktrak.com/about_ir.php">Investor Relations</a></li>
 					<li><a href="http://www.stocktrak.com/about_news.php">News</a></li>
 					<li><a href="http://www.stocktrak.com/about_contact.php">Contact Us </a></li>
 					<li><a href="http://www.stocktrak.com/about_advertising.php">Advertise with Us</a></li>
@@ -164,24 +177,22 @@ urchinTracker();
 				</ul>
 			<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 			</li>
+			<li><a href="http://www.stocktrak.com/about_ir.php">Investor Relations</a></li>
 		</ul>	
 	</div>
 </div>
 <!-- CLOSE NAVIGATION -->
-
+<div id="wrapper">
 <!-- MAIN CONTENT ELEMENTS -->
 <div class="content">
 
 <!-- RIGHT COLUMN ELEMENTS -->
 <div id="rightcol">
 	<div align="center" class="ad_txt">- advertisement -
-	
-
-<!-- begin ad tag (tile=3) -->
-<script language="JavaScript" type="text/javascript">;
-document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/invc.stocktrak/homepage;kw=;kval=homepage;tile=3;sz=160x600;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/invc.stocktrak/homepage;kw=;kval=homepage;tile=3;sz=160x600;ord=5842032425452441?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/invc.stocktrak/homepage;kw=;kval=homepage;tile=3;sz=160x600;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/invc.stocktrak/homepage;kw=;kval=homepage;tile=3;sz=160x600;ord=123456789?" width="160" height="600" border="0" alt=""></a></noscript>
-<!-- End ad tag -->	</div>
+		<script language="JavaScript" type="text/javascript">;
+	document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/invc.stocktrak/homepage;kw=;kval=homepage;tile=3;sz=160x600;ord=' + ord + '?" type="text/javascript"><\/script>');
+	</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/invc.stocktrak/homepage;kw=;kval=homepage;tile=3;sz=160x600;ord=118122604664854.25?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/invc.stocktrak/homepage;kw=;kval=homepage;tile=3;sz=160x600;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/invc.stocktrak/homepage;kw=;kval=homepage;tile=3;sz=160x600;ord=123456789?" width="160" height="600" border="0" alt=""></a></noscript>
+	</div>
 </div>
 <!-- CLOSE RIGHT COLUMN -->
 
@@ -265,33 +276,46 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 </div>
 <!-- CLOSE MAIN CONTENT -->
 
-<div class="clear"></div>
 </div>
-
-<!-- FOOTER ELEMENT -->
-<div id="footer">
-<div class="inner">
-  <div align="center">
-  <a href="http://www.stocktrak.com/index.php">Home</a> | <a href="http://www.stocktrak.com/products.php">Our Products</a> | <a href="http://simulation.stocktrak.com/portfolio/">My Portfolio</a> | <a href="http://simulation.stocktrak.com/tradingPits/">Make a Trade</a> | <a href="http://www.stocktrak.com/quotes">Quotes</a> | <a href="http://www.stocktrak.com/research.php">Research Desk</a> | <a href="http://www.stocktrak.com/privacy.php">Privacy Policy</a> | <a href="http://www.stocktrak.com/about.php">About Us</a>
-	<br>    
-	<br>    
-    <a href="http://www.stocktrak.com/products_corp.php">Stock Market Investing Software</a> | 
-    <a href="http://www.stocktrak.com/index.php">Stock Market Game</a> | 
-    <a href="http://www.stocktrak.com/research.php">Stock Investment Guide</a> | 
-    <a href="http://www.stocktrak.com/faq.php">Stock Research</a> | 
-    <a href="http://www.stocktrak.com/research_finance.php">Beginner Guide to Online Day Trading</a> | 
-    <a href="http://www.stocktrak.com/glossary.php">Learn About The Stock Market</a> | 
-    <a href="http://www.stocktrak.com/research_newsletters.php">Stock Investment Tip</a> | 
-    <a href="http://www.stocktrak.com/products_indiv.php">Online Stock Trading</a> | 
-    <a href="http://www.stocktrak.com/prof_college.php">Stock Market Software</a> | 
-    <a href="http://www.stocktrak.com/student_college_register.php">Online Stock Trading Game</a> 
-	<br>
-	<br>
-    Stock-Trak Group, Inc. © 2008. All Rights Reserved 
-   </div>
+<div class="wrapper-footer">
+	<div class="footer">
+		
+        <div class="first-col">
+            <a href="http://www.stocktrak.com/index.php">Home</a><br>
+            <a href="http://www.stocktrak.com/products.php">Our Products</a><br>
+            <a href="http://simulation.stocktrak.com/portfolio/">My Portfolio</a><br>
+            <a href="http://simulation.stocktrak.com/tradingPits/">Trading</a><br>
+            <a href="http://www.stocktrak.com/quotes">Quotes</a>
+        </div>
+        
+        <div class="second-col">
+            <a href="http://www.stocktrak.com/research.php">Research Desk</a><br>
+            <a href="ttp://www.stocktrak.com/about.php">About Us</a><br>
+            <a href="http://www.stocktrak.com/about_ir.php">Investor Relations</a><br>
+            <a href="http://www.stocktrak.com/about_advertising.php">Advertise With Us</a>
+        </div>
+        
+        <div class="wss">
+        	Our Family:<br>
+            <a href="http://www.wallstreetsurvivor.com" target="_blank" title="Wall Street Survivor"><img src="http://www.stocktrak.com/imgs/logo_wss.gif" alt="Wall Street Survivor"></a><br>
+            <span>The web's leading real-time fantasy stock challenge. $250.000 in real cash &amp; prizes.</span>
+        </div>
+        
+        <div class="nationalSMS">
+        	<br>
+            <a href="http://nationalsms.com" target="_blank" title="National SMS"><img src="http://www.stocktrak.com/imgs/logo_nationalSMS.gif" alt="National SMS"></a>
+            <br>
+            <span>The web's most comprehensive online trading game for your high, middle and elementary school students.</span>
+        </div>
+                
+        <div class="clear" style="height: 15px"></div>
+        <hr>
+        
+        <center>
+            © 2008 Stock-Trak, Inc. All Rights Reserved. <a href="http://www.stocktrak.com/privacy.php">Privacy Policy</a> - <a href="http://www.stocktrak.com/tac.php">Terms and Conditions</a>. Stock-Trak is a registered trademark of the Stock-Trak Group, Inc. (<a href="http://www.stocktrak.com/quotes/?sym=&amp;tab=TDetail">OTCBB: STKG</a>), a leading provider of web-based financial simulations for business and education.
+        </center>
+    </div>
 </div>
-</div>
-<!-- CLOSE FOOTER -->
 
 
 
