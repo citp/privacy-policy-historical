@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalarchives.ie privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430063242id_/http%3A//www.nationalarchives.ie/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalarchives.ie privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222124138id_/http%3A//www.nationalarchives.ie/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement
 
