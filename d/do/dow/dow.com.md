@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dow.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516042604id_/http%3A//www.dow.com/homepage/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dow.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222022809id_/http%3A//www.dow.com/homepage/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -17,7 +17,11 @@ U.S.A.
 
 Please provide your full name and phone number in case we have questions.
 
-Our web server also automatically collects non-personally-identifiable information such as the domain name of the site providing the visitor with Internet access, but not the visitor's user name. Other examples of information collected by our server include the Internet protocol (IP) address used to connect the visitor's computer to the Internet, the visitor's browser type and version, operating system and platform, the average time spent on our site, pages viewed, information searched for, access times and other relevant statistics. We use this information in the aggregate to measure the use of our site and to administer and improve our site.
+Dow uses “cookies” on this website to automatically collect non-personally-identifiable information such as the domain name of the site providing the visitor with Internet access, but not the visitor's user name. Other examples of information collected by our server include the Internet protocols used to connect the visitor's computer to the Internet, the visitor's browser type and version, operating system and platform, the average time spent on our site, pages viewed, information searched for, access times and other relevant statistics. We use this information in the aggregate to measure the use of our site, to administer and improve our site.
+
+Dow use both our own (first party) and partner companies’ (third party) cookies to support these activities. First party cookies are owned & created by the website you’re viewing. Third party cookies are owned & created by an independent company, usually a company providing a service to the website owners. Examples of usages for third party cookies are web analysis and search queries.
+
+Dow does not use cookies to track people’s Internet usage after leaving our sites and we don’t store personal information in them others could read and understand. Dow will not sell or distribute cookie information.
 
 To the extent required or permitted by law, we may also collect, use and disclose personal information in connection with security related or law enforcement investigations or in the course of cooperating with authorities or complying with legal requirements.
 
@@ -27,4 +31,4 @@ Our site contains links to other web sites. These sites are not covered by this 
 
 We reserve the right to modify this privacy statement and related business practices at any time by posting updated text on this site.
 
-LAST UPDATED: March 26, 2008
+LAST UPDATED: September 29, 2008
