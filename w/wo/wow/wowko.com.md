@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowko.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619132902id_/http%3A//www.wowko.com/index.php%3Fmain_page%3Dpage%26id%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowko.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222083627id_/http%3A//www.wowko.com/index.php%3Fmain_page%3Dpage%26id%3D5) for the most accurate reproduction.*
 
 # Privacy Policy : Wowko.com, Buy wow gold,world of warcraft gold,Lineage II Adena,EverQuest II,EvE Online,FFXI Gil,Star Wars,Diablo II Items and more.....
 
