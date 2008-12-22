@@ -1,0 +1,867 @@
+<!--The following is the downloaded HTML source of the ashampoo.com privacy policy that was archived on 2008-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081222051902id_/http%3A//www.ashampoo.com/frontend/homepage/php/privacypolicy.php%3Fsession_langid%3D2) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/index.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/css/styles_redesign.css" rel="stylesheet" type="text/css">
+<!--link href="http://login.ashampoo.com/ashampoo_cms/frontend_images/1/css/styles_redesign.css" rel="stylesheet" type="text/css"-->
+<script type="text/javascript"> 
+var prev_menu = '9';
+var product_category_id = '';
+ 
+ var js_category_ids = new Array(9,11,6,1,3,12,2);
+ 
+ var button_closeall = "Collapse all categories";
+var button_openall = "Expand all categories";
+var pagearSmallImg = 'http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/pagepeel_s2.jpg'; 
+var pagearSmallSwf = 'http://www.ashampoo-root03.com/ashampoo.com_images/img/1/js/pageear/pageear_s.swf'; 
+var pagearBigImg = 'http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/pagepeel_b2.jpg'; 
+var pagearBigSwf = 'http://www.ashampoo-root03.com/ashampoo.com_images/img/1/js/pageear/pageear_b.swf';
+var jumpTo = 'http://r.ashampoo.com/r.php?id=16762&ri=qpeu';
+</script>
+<script src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/js/pageear/AC_OETags.js" type="text/javascript"></script>
+<script src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/js/pageear/pageear.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/js/jquery.js"></script>
+<script type="text/javascript" src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/js/open_close.js"></script>
+<script type="text/javascript" src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/js/bookmark.js"></script>
+<!-- InstanceBeginEditable name="head" -->
+<title>Ashampoo® - We Make Software!</title>
+ <script src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/js/productslider/jquery.js" type="text/javascript"></script>
+ <script src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/js/productslider/jquery.dimensions.js" type="text/javascript"></script>
+ <script src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/js/productslider/jquery.accordion.js" type="text/javascript"></script>
+ <script src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/js/productslider/ui.mouse.js" type="text/javascript"></script>
+<script src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/js/productslider/ui.slider.js" type="text/javascript"></script>
+ <script type="text/javascript" charset="utf-8">
+ 
+ var maxPFProducts = 7;
+ 
+ var sliderPos = 110;
+ 
+var clickSlide = false;
+
+$(document).ready(function() {
+ $('#slideroverlay').hide('fast');
+ $('#productfinderoverlay').hide('fast');
+});
+
+$(function () {
+$('ul.drawers').accordion({
+header: 'H2.drawer-handle',
+selectedClass: 'open',
+event: 'mouseover'
+});
+});
+
+ window.onload = function() {
+ var container = $('div.sliderGallery');
+ var ul = $('ul', container);
+ var itemsWidth = ul.innerWidth() - container.outerWidth();
+//alert(itemsWidth);
+$('.slider', container ).slider({
+ minValue: 0,
+ maxValue: itemsWidth,
+ startValue: sliderPos,
+ handle: '.handle',
+ stop: function (event, ui) {
+ if (!clickSlide){
+ ul.animate({'left' : ui.value * -1}, 500);
+ //alert(ui.value);
+ }
+ else{
+ ul.animate({'left' : sliderPos * -1}, 500);
+ clickSlide = false;
+ }
+ //alert(ui.id);
+ //ul.animate({'left' : ui.value * -1}, 500);
+ },
+ slide: function (event, ui) {
+ ul.css('left', ui.value * -1);
+ }
+ }); 
+
+/* SPAN WIDTH zusweisen */
+var itemsCount = 6;
+var spanSize = Math.round(545 / itemsCount) - 1;
+ $('div.slider > span').width(spanSize+'px');
+ };
+
+function jumpSlider(position){
+sliderPos = position;
+clickSlide = true;
+//alert('test2');
+//$('.slider', container ).slider({Value: '350'});
+}
+
+function change_over(img_name, img_src){
+document[img_name].src = img_src;
+}
+
+var productnames = new Array();
+var productheadlines = new Array();
+var productreleasedates = new Array();
+
+
+
+
+
+var mapping= new Array();
+
+
+function pf_refreshFoundProducts(){
+//$("#product_finder_output").html('<img src="http://login.ashampoo.com/busy.gif" border="0">').hide('normal');
+selected_idstrings = new Array();
+$("input[@type=checkbox]").each(function(){
+ if (this.checked==true){
+ if (mapping[this.id]){
+ var idstrings = mapping[this.id];
+ for(var idstring in idstrings){
+ selected_idstrings.push(idstring);
+ }
+}
+ }
+ });
+ selected_idstrings = unique(selected_idstrings);
+buildOutputDiv(selected_idstrings); 
+} 
+
+function buildOutputDiv(selected_idstrings){
+$("#product_finder_output").hide('normal');
+$("#product_finder_overflow").hide('normal');
+//selected_idstrings.sort();
+var outputdiv = "";
+ for(i=0;i<selected_idstrings.length;i++){
+ if (i < maxPFProducts){
+ idstring = selected_idstrings[i];
+ if (idstring){
+ outputdiv += '<a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&idstring='+idstring+'"><img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/products/'+idstring+'/'+idstring+'_teaser.gif" align="left" /><strong><!--('+productreleasedates[idstring]+')--> '+productnames[idstring]+'</strong><br>'+productheadlines[idstring]+'</a>'; 
+ }
+} 
+ if (i == (maxPFProducts - 1)){
+ $("#product_finder_overflow").show('normal');
+ //alert('test');
+ }
+ }
+
+$("#product_finder_output").html(outputdiv);
+if (selected_idstrings.length == 0){
+//$("#newproducts").show('normal');
+//$("#product_finder_headline").hide('normal');
+$("#newproducts").slideDown('normal');
+$("#product_finder_headline").slideUp('normal');
+
+}
+else{
+
+//$("#product_finder_output").show('normal');
+//$("#product_finder_headline").show('normal');
+//$("#newproducts").hide('normal');
+
+$("#product_finder_output").slideDown('normal');
+$("#product_finder_headline").slideDown('normal');
+$("#newproducts").slideUp('normal');
+}
+}
+
+function unique(a) {
+tmp = new Array(0);
+for(i=0;i<a.length;i++){
+if(!contains(tmp, a[i])){
+tmp.length+=1;
+tmp[tmp.length-1]=a[i];
+}
+}
+return tmp;
+}
+function contains(a, e) {
+for(j=0;j<a.length;j++)if(a[j]==e)return true;
+return false;
+}
+
+function pf_reset(){
+//$("#product_finder_output").html('<img src="http://login.ashampoo.com/busy.gif" border="0">').hide('normal');
+selected_idstrings = new Array();
+$("input[@type=checkbox]").each(function(){
+ this.checked=false;
+ });
+ 
+ pf_refreshFoundProducts();
+ } 
+ </script>
+<!-- InstanceEndEditable -->
+</head>
+<body>
+<a name="top"></a>
+<script type="text/javascript">writeObjects();</script>
+<div id="content">
+ <div class="head">
+ <a href="http://www.ashampoo.com/whois" target="_blank"><img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ashampoo-software_2.gif" id="logo" alt="Ashampoo® - We Make Software!" title="Ashampoo® - We Make Software!"></a> 
+ <div id="customers">
+ 8.306.998 Registered customers | apx. 79.414.900 Installations
+ </div> 
+ <span id="flags">
+ <ul>
+ <li><a href="http://www.ashampoo.com/frontend/homepage/php/privacypolicy.php?session_langid=1"><img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/img/navigationflags/1.gif" hspace="1" vspace="0" border="0" align="ABSMIDDLE" title="Deutschland"></a></li><li><a href="http://www.ashampoo.com/frontend/homepage/php/privacypolicy.php?session_langid=2"><img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/img/navigationflags/2.gif" hspace="1" vspace="0" border="0" align="ABSMIDDLE" title="United States"></a></li><li><a href="http://www.ashampoo.com/frontend/homepage/php/privacypolicy.php?session_langid=20"><img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/img/navigationflags/20.gif" hspace="1" vspace="0" border="0" align="ABSMIDDLE" title="United Kingdom"></a></li><li><a href="http://www.ashampoo.com/frontend/homepage/php/privacypolicy.php?session_langid=11"><img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/img/navigationflags/11.gif" hspace="1" vspace="0" border="0" align="ABSMIDDLE" title="España"></a></li><li><a href="http://www.ashampoo.com/frontend/homepage/php/privacypolicy.php?session_langid=4"><img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/img/navigationflags/4.gif" hspace="1" vspace="0" border="0" align="ABSMIDDLE" title="France"></a></li><li><a href="http://www.ashampoo.com/frontend/homepage/php/privacypolicy.php?session_langid=5"><img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/img/navigationflags/5.gif" hspace="1" vspace="0" border="0" align="ABSMIDDLE" title="Magyarország"></a></li><li><a href="http://www.ashampoo.com/frontend/homepage/php/privacypolicy.php?session_langid=3"><img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/img/navigationflags/3.gif" hspace="1" vspace="0" border="0" align="ABSMIDDLE" title="Nederland"></a></li>
+ </ul>
+ </span> 
+ <div id="actual_lang">United States</div>
+ <span id="about">
+ <a href="http://www.ashampoo.com/frontend/contact/php/index.php?session_langid=2">About</a> | 
+ <a href="http://www.ashampoo.com/frontend/contact/php/contactform.php?session_langid=2">Contact</a>
+ </span>
+ <div id="search"> 
+ <form action="http://www.ashampoo.com/frontend/homepage/php/searchresults.php" id="cse-search-box"> 
+ <input type="hidden" name="session_langid" value="2">
+ <input type="hidden" name="hl" value="en">
+ <input type="hidden" name="lr" value="lang_en">
+ <input type="text" value="Search..." name="q" class="sinp" onclick="javascript:value='';">
+ <input type="submit" value="" name="sa" title="Search" class="sbtn " onclick="var f=this.form;if(f.q.value==''||f.q.value=='Search...'){alert('Please enter at least one (1) keyword.');return false;}">
+ </form>
+ </div>
+ <ul id="topnav"><li><a href="http://www.ashampoo.com/frontend/homepage/php/index.php?session_langid=2" accesskey="1"> Home </a></li>
+<li><a href="http://www.ashampoo.com/frontend/products/php/index.php?session_langid=2" accesskey="2"> Products/Shop </a></li>
+<li><a href="http://www.ashampoo.com/frontend/support/php/p_overview.php?session_langid=2" accesskey="3"> Support &amp; FAQ </a></li>
+<li><a href="http://www.ashampoo.com/frontend/registration/php/customer_login_step1.php?session_langid=2" accesskey="4"> MyAshampoo </a></li>
+<li><a href="http://www.ashampoo.com/frontend/registration/php/newsletter_step1.php?session_langid=2" accesskey="5"> Service Letter </a></li>
+<li><a href="http://www.ashampoo.com/frontend/homepage/php/pressindex.php?session_langid=2" accesskey="6"> Press </a></li>
+<li><a href="http://www.ashampoo.com/frontend/anysite/php/anysite.php?file=multilicense_en.htm&amp;session_langid=2" accesskey="7"> Licenses/Affiliates </a></li></ul>
+ </div>
+<div class="leftcol">
+ <!-- InstanceBeginEditable name="category" -->
+ <ul id="maincat">
+ 
+ <li id="m9"><a href="#" onclick="opencat('m9');this.blur();"><h1>Office Products</h1></a></li>
+ <ul class="subnav" id="m9s">
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0238" title=" Office 2008 (3.10)">Office 2008
+
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_topn.gif" alt="" title="" border="0" align="baseline">
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0138" title=" Office 2006 (1.20)">Office 2006
+
+</a></li>
+
+
+
+ </ul>
+ 
+ <li id="m11"><a href="#" onclick="opencat('m11');this.blur();"><h1>Security Software</h1></a></li>
+ <ul class="subnav" id="m11s">
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0149" title=" AntiSpyWare 2 (2.04)">AntiSpyWare 2
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_new.gif" alt="" title="" border="0" align="baseline">
+
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_topn.gif" alt="" title="" border="0" align="baseline">
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0152" title=" Security Pack 2 (2.00)">Security Pack 2
+
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0045" title=" AntiVirus (1.61)">AntiVirus
+
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_topn.gif" alt="" title="" border="0" align="baseline">
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0150" title=" FireWall PRO (1.14)">FireWall PRO
+
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_topn.gif" alt="" title="" border="0" align="baseline">
+</a></li>
+
+
+ 
+ 
+ 
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0050" title=" FireWall FREE (1.20)">FireWall FREE
+
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0704" title=" Magical Security 2 (2.02)">Magical Security 2
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_new.gif" alt="" title="" border="0" align="baseline">
+
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_topn.gif" alt="" title="" border="0" align="baseline">
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0504" title=" Magical Security (1.80)">Magical Security
+
+</a></li>
+
+
+
+ </ul>
+ 
+ <li id="m6"><a href="#" onclick="opencat('m6');this.blur();"><h1>Burning Software</h1></a></li>
+ <ul class="subnav" id="m6s">
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=1810" title=" Burning Studio 8 (8.04)">Burning Studio 8
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_new.gif" alt="" title="" border="0" align="baseline">
+
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_topn.gif" alt="" title="" border="0" align="baseline">
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=1110" title=" Burning Studio 7 (7.32)">Burning Studio 7
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_new.gif" alt="" title="" border="0" align="baseline">
+
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_topn.gif" alt="" title="" border="0" align="baseline">
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0537" title=" Movie Shrink &amp; Burn 3 (3.03)">Movie Shrink &amp; Burn 3
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_new.gif" alt="" title="" border="0" align="baseline">
+
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0137" title=" Movie Shrink &amp; Burn 2 (2.21)">Movie Shrink &amp; Burn 2
+
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0226" title=" BurnYa! AudioCD 2 (2.60)">BurnYa! AudioCD 2
+
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0228" title=" BurnYa! DataDisc 2 (2.60)">BurnYa! DataDisc 2
+
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=1910" title=" DVD Theme Pack 1 (1.20)">DVD Theme Pack 1
+
+</a></li>
+
+
+
+ </ul>
+ 
+ <li id="m1"><a href="#" onclick="opencat('m1');this.blur();"><h1>System Utilities</h1></a></li>
+ <ul class="subnav" id="m1s">
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=2106" title=" WinOptimizer 6 (6.00)">WinOptimizer 6
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_new.gif" alt="" title="" border="0" align="baseline">
+
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_topn.gif" alt="" title="" border="0" align="baseline">
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=1906" title=" WinOptimizer 5 (5.10)">WinOptimizer 5
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_new.gif" alt="" title="" border="0" align="baseline">
+
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_topn.gif" alt="" title="" border="0" align="baseline">
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0061" title=" Core Tuner (1.01)">Core Tuner
+
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_topn.gif" alt="" title="" border="0" align="baseline">
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0144" title=" Magical Defrag 2 (2.34)">Magical Defrag 2
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_new.gif" alt="" title="" border="0" align="baseline">
+
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_topn.gif" alt="" title="" border="0" align="baseline">
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0044" title=" Magical Defrag (1.20)">Magical Defrag
+
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0505" title=" PowerUp 3 (3.23)">PowerUp 3
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_new.gif" alt="" title="" border="0" align="baseline">
+
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_topn.gif" alt="" title="" border="0" align="baseline">
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0405" title=" PowerUp XP Platinum 2 (2.20)">PowerUp XP Platinum 2
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_new.gif" alt="" title="" border="0" align="baseline">
+
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0903" title=" UnInstaller 3 (3.11)">UnInstaller 3
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_new.gif" alt="" title="" border="0" align="baseline">
+
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_topn.gif" alt="" title="" border="0" align="baseline">
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0703" title=" UnInstaller Platinum 2 (2.90)">UnInstaller Platinum 2
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_new.gif" alt="" title="" border="0" align="baseline">
+
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=1406" title=" Magical Optimizer (1.22)">Magical Optimizer
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_new.gif" alt="" title="" border="0" align="baseline">
+
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0251" title=" System Pack 3 (3.00)">System Pack 3
+
+</a></li>
+
+
+
+ </ul>
+ 
+ <li id="m3"><a href="#" onclick="opencat('m3');this.blur();"><h1>Multimedia Software</h1></a></li>
+ <ul class="subnav" id="m3s">
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0918" title=" Photo Commander 7 (7.10)">Photo Commander 7
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_new.gif" alt="" title="" border="0" align="baseline">
+
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_topn.gif" alt="" title="" border="0" align="baseline">
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0818" title=" Photo Commander 6 (6.22)">Photo Commander 6
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_new.gif" alt="" title="" border="0" align="baseline">
+
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_topn.gif" alt="" title="" border="0" align="baseline">
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0058" title=" Cover Studio (1.01)">Cover Studio
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_new.gif" alt="" title="" border="0" align="baseline">
+
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_topn.gif" alt="" title="" border="0" align="baseline">
+</a></li>
+
+
+ 
+ 
+ 
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0055" title=" ClipFinder (1.53)">ClipFinder
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_new.gif" alt="" title="" border="0" align="baseline">
+
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0056" title=" ClipFisher (1.17)">ClipFisher
+
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_topn.gif" alt="" title="" border="0" align="baseline">
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0257" title=" Photo Optimizer 3 (3.03)">Photo Optimizer 3
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_new.gif" alt="" title="" border="0" align="baseline">
+
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_topn.gif" alt="" title="" border="0" align="baseline">
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0157" title=" Photo Optimizer 2 (2.02)">Photo Optimizer 2
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_new.gif" alt="" title="" border="0" align="baseline">
+
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_topn.gif" alt="" title="" border="0" align="baseline">
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0230" title=" Music Studio 3 (3.41)">Music Studio 3
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_new.gif" alt="" title="" border="0" align="baseline">
+
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_topn.gif" alt="" title="" border="0" align="baseline">
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0030" title=" MP3 AudioCenter (v1.70)">MP3 AudioCenter
+
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0224" title=" Magical Snap 2 (2.31)">Magical Snap 2
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_new.gif" alt="" title="" border="0" align="baseline">
+
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_topn.gif" alt="" title="" border="0" align="baseline">
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0124" title=" Magical Snap (1.21)">Magical Snap
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_new.gif" alt="" title="" border="0" align="baseline">
+
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0119" title=" SeeYa! 2 (2.20)">SeeYa! 2
+
+</a></li>
+
+
+ 
+ 
+ 
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0014" title=" Media Player+ (v2.03)">Media Player+
+
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0153" title=" Multimedia Pack 2 (2.00)">Multimedia Pack 2
+
+</a></li>
+
+
+
+ </ul>
+ 
+ <li id="m12"><a href="#" onclick="opencat('m12');this.blur();"><h1>CAD &amp; Construction</h1></a></li>
+ <ul class="subnav" id="m12s">
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0060" title=" 3D CAD Architecture (1.08)">3D CAD Architecture
+
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_topn.gif" alt="" title="" border="0" align="baseline">
+</a></li>
+
+
+ 
+ 
+
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0160" title=" 3D CAD Professional (1.00)">3D CAD Professional
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_new.gif" alt="" title="" border="0" align="baseline">
+
+
+<img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/page/ico_topn.gif" alt="" title="" border="0" align="baseline">
+</a></li>
+
+
+
+ </ul>
+ 
+ <li id="m2"><a href="#" onclick="opencat('m2');this.blur();"><h1>Tools &amp; Utilities</h1></a></li>
+ <ul class="subnav" id="m2s">
+ 
+ 
+ 
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0803" title=" Magical UnInstall (2.82)">Magical UnInstall
+
+</a></li>
+
+
+ 
+ 
+ 
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0123" title=" Internet Accelerator 2 (2.10)">Internet Accelerator 2
+
+</a></li>
+
+
+ 
+ 
+ 
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0117" title=" StartUp Tuner 2 (2.00)">StartUp Tuner 2
+
+</a></li>
+
+
+ 
+ 
+ 
+<li><a href="http://www.ashampoo.com/frontend/products/php/product.php?session_langid=2&amp;idstring=0029" title=" IP Spam Blocker">IP Spam Blocker
+
+
+ </a></li>
+
+
+
+ </ul>
+ 
+ </ul>
+ <input type="button" id="unfold_all" onclick="openallcat();" value="">
+ <form name="quicklogin" action="http://www.ashampoo.com/frontend/registration/php/quicklogin.php" method="POST">
+
+ <strong style="color: #336699;">MyAshampoo Login</strong><br>
+ Access your personal customer area.<br>
+ <strong> E-mail address:</strong>
+ <input name="email" type="text" onblur="this.className='input_used'" onfocus="this.className='input_active'"> 
+ <strong>Password:</strong> 
+ <input name="password" type="password" onblur="this.className='input_used'" onfocus="this.className='input_active'"> 
+ <input name="" type="submit" class="sidelogin" value="Login">
+ </form>
+<!-- InstanceEndEditable -->
+ </div>
+ <div class="rightcol">
+ <!-- InstanceBeginEditable name="content" -->
+<h1 class="underline">Privacy policy</h1>
+ <div class="content_div">
+ <h3>We at ashampoo</h3> 
+take the protection of your personal data very seriously and strictly conform to data protection laws. Personal data is being collected on this website only to the extent necessary for technical reasons. <strong>By no means</strong> will the collected data be sold or for any other reason given to third parties. The following statement gives you an overview of how we ensure this protection and what kind of data is being collected for what purpose.
+ </div>
+ <div class="content_div">
+ <h3>Information you give us</h3>
+ Information is transmitted e.g. whenever you search for a product, make a purchase via our websites or a third party vendor or enter details in “My Ashampoo” or your customer account (please note that you may maintain more than one customer account if you have registered with different e-mail addresses), if you communicate with us via e-mail or by another way, if you fill out a questionnaire or enter a contest or if you use other services which inform you personally about certain offers such as newsletters.
+ </div><br>
+ 
+ <h3 class="underline">Analyses</h3>
+ When visiting our sites, special analysis software collects and stores anonymized data for marketing and optimization purposes. <br>
+ This data cannot be linked to your identity.
+ <br><br>
+ <strong>Examples for types of data we collect:</strong>
+ <ul>
+ <li>Browser type and version </li>
+ <li>Operating system and system language</li>
+ <li>Referring website </li>
+ <li>Host name of accessing computer (IP address)</li>
+ <li>Time of server request</li>
+ <li>Country/region of origin</li>
+ <li>Screen resolution</li>
+ </ul>
+ This data cannot be definitely linked to certain persons and only serves to optimize our online services. This data will not be merged with other data sources and will be deleted after statistical analysis.
+<br><br><br>
+ <h3 class="underline">Cookies </h3>
+This website uses cookies in several places. These cookies are used to make our services more user-friendly, more effective and more secure. Cookies are small text files that your browser saves on your computer. Most of the cookies we use are so-called “Session Cookies”. These will be automatically deleted after your visit. Cookies cannot do damage to your computer and do not<br> contain viruses.
+<br>
+ <br>
+ Cookies can also be saved for a longer period of time, e.g. for a website to recognize your user profile without the need to log in. You can customize how cookies are handled in your browser settings.
+<br><br><br>
+ <h3 class="underline">Newsletter </h3>
+ If you want to receive the newsletter we offer on our website, we need a valid e-mail address as well as, for your own protection, information allowing us to verify the address you entered and make sure you are authorized to use that address and consent to receiving the newsletter. No further data will be collected.<br> You can revoke your consent to the collection of data, your e-mail address and receiving the newsletter at any time.
+ <br><br>
+ Some of the software we deliver leads to an entry into several distribution lists upon registration. You are informed about such an entry before or during the registration process, so you can decide at any time whether you want this or not. 
+ 
+<br><br><br>
+ <h3 class="underline">eCommerce </h3>
+In order to process an order we need your address data, your date of birth, e-mail, telephone number (if applicable), the total <br>
+purchase price, purchase order date and information about the handling of payments.
+
+<ul>
+ <li>To secure your information in transmission we use Secure Sockets Layer software (SSL) where needed. This software encrypts the information you submit.</li>
+ <li>Of course this is also true for credit card payments. The credit card information is only stored temporarily and deleted after being handed on to the respective payment provider.</li>
+ <li>It is important for you to take precautions against unauthorized access to your password and your computer. If you share <br>a computer with others, you should remember to always log off after each session.</li>
+ </ul>
+ You can have your data deleted at any time. We use your data only to process your order, i.e. only information implicitly necessary <br>for possible claims for reimbursement is collected and handled.
+
+<br><br><br>
+ <h3 class="underline">Miscellaneous</h3>
+<ul>
+ <li><strong>Promotions</strong>: From time to time we send offers by order of a third party company to select customer groups. In this case, <br> that company receives neither your name, nor your address or any other information that could be used to personally <br>identify you. If you do not wish to receive such offers, you can simply stop them in your user account.</li>
+ <li>Ashampoo and its affiliates can use the collected data for their own marketing purposes, in case you have agreed to this.</li>
+ <li><strong>Service providers</strong>: We commission other companies and individuals to perform tasks for us. Examples are, among other things, package deliveries and payment processing (credit card, direct debiting, purchase on account). These service providers have access to personal information that is required for their tasks.
+They are prohibited from using this information for other purposes. Moreover, they are obliged to handle the information in accordance with this privacy policy and German data protection laws.</li>
+ <li><strong>Protection of Ashampoo and third parties</strong>: We will disclose accounts and personal data of customers if we are bound by law to do so or if disclosure is necessary to enforce our General Terms and Conditions or other agreements or to protect our rights or the rights of third parties. This includes data exchange with companies specializing in preventing and minimizing the risk of violation and credit card fraud. We explicitly state that in this context no data will be passed on to those companies for economic use that would contradict this privacy policy.</li>
+ <li><strong>With your consent</strong>: In all other cases we will inform you if personal information is to be handed off to third parties and give you the chance to give your consent.</li>
+ </ul>
+
+<br><br>
+ <h3 class="underline">Right of access to personal data </h3>
+ You have the right to be informed about stored data pertaining to your person, the origin and recipients of such data and the reason why this data was collected and stored. Information will be provided by our data protection officer <strong>Sebastian Strzelecki</strong>, <a href="javascript:voide(0);">datenschutz[at]ashampoo.com</a>. 
+ <br><br>
+ We maintain physical, electronical and procedural safety measures in connection with the collection, storage and disclosure of personal information about our customers. These safety measures include occasionally asking you to provide proof of your identity before we disclose personal data to you.
+
+<br><br><br>
+ <h3 class="underline">Further information</h3>
+your trust is important to us. Thus we are always ready to answer your questions about the handling of your personal data. If, at any time, you have questions that this privacy policy could not answer or if you wish to receive more specific information about certain issues, please contact our data protection officer <strong>Sebastian Strzelecki</strong>, <a href="javascript:voide(0);">datenschutz[at]ashampoo.com</a>.
+ <br><br><br>
+<!-- InstanceEndEditable -->
+ </div>
+ <div id="foot"><a href="http://www.ashampoo.com/frontend/homepage/php/privacypolicy.php?session_langid=2" class="privacy">[ Privacy policy ]</a> © 1999–2008 – ashampoo GmbH &amp; Co. KG – All rights reserved!</div>
+</div>
+<div id="ads"><center>
+<!--
+<a href="http://r.ashampoo.com/r.php?ri=eligmwwet0&u" target="_blank"><img src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/banner/en/burningstudio6_120x415_EN.gif" border="0" alt="Download Ashampoo® Burning Studio 6.5 FOR FREE - Click HERE"></a>
+
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="120" height="415" id="cf_en" align="middle">
+<param name="allowScriptAccess" value="sameDomain" />
+<param name="allowFullScreen" value="false" />
+<param name="wmode" value="transparent">
+<param name="movie" value="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/banner/en/supereasyvc_en.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#cccccc" />
+<embed src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/banner/en/supereasyvc_en.swf" quality="high" bgcolor="#cccccc" width="120" height="415" name="supereasyvc_en.swf" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="transparent" />
+</object>
+-->
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="120" height="415" id="cf_en" align="middle">
+<param name="allowScriptAccess" value="sameDomain">
+<param name="allowFullScreen" value="false">
+<param name="wmode" value="transparent">
+<param name="movie" value="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/banner/en/bs6_en.swf"><param name="quality" value="high"><param name="bgcolor" value="#cccccc">
+<embed src="http://www.ashampoo-root03.com/ashampoo.com_images/img/1/banner/en/bs6_en.swf" quality="high" bgcolor="#cccccc" width="120" height="415" name="supereasyvc_en.swf" align="middle" allowscriptaccess="sameDomain" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="transparent">
+</object>
+
+</center></div>
+
+<script language="JavaScript">
+<!--
+var IVW="http://ashampoo.ivwbox.de/cgi-bin/ivw/CP/homepage;homepage";
+document.write("<IMG SRC=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" WIDTH=\"1\" HEIGHT=\"1\">");
+//-->
+</script><img src="http://ashampoo.ivwbox.de/cgi-bin/ivw/CP/homepage;homepage?r=&amp;d=95391.9496967361" width="1" height="1"><noscript><img SRC="http://ashampoo.ivwbox.de/cgi-bin/ivw/CP/homepage;homepage" WIDTH="1" HEIGHT="1"></noscript>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-353147-15");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+<!-- InstanceEnd -->
+</body></html>
