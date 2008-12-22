@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluegreenvacations.com privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523082004id_/http%3A//www.bluegreenvacations.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluegreenvacations.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222201609id_/http%3A//bluegreenvacations.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Bluegreen Vacations - Discount Vacation Packages from Bluegreen Resorts®
 
@@ -37,7 +37,7 @@ Boca Raton, Florida 33431
 **2\. The information covered by this Privacy Statement**
     
 
-This Internet Privacy Statement (Privacy Statement) applies only to the personally identifiable information that is collected on the web sites where this Privacy Statement is posted, and does not apply to any other information collected by Bluegreen Resorts and its parent company and their respective subsidiaries and affiliates (collectively “Bluegreen”) through any other means. [Click here](https://web.archive.org/web/20080523082004id_/http%3A//www.bluegreenvacations.com/terms.aspx) for additional information about the Terms of Use of our web sites.
+This Internet Privacy Statement (Privacy Statement) applies only to the personally identifiable information that is collected on the web sites where this Privacy Statement is posted, and does not apply to any other information collected by Bluegreen Resorts and its parent company and their respective subsidiaries and affiliates (collectively “Bluegreen”) through any other means. [Click here](https://web.archive.org/web/20081222201609id_/http%3A//bluegreenvacations.com/terms.aspx) for additional information about the Terms of Use of our web sites.
 
 Back to top
 
@@ -157,6 +157,6 @@ Back to top
 **11\. Contacting Bluegreen Resorts**
     
 
-If any of your personal information changes or you identify a mistake in our records, please contact us at the address below and we will update our data right away. Please [email us](https://web.archive.org/web/20080523082004id_/http%3A//www.bluegreenvacations.com/contact.aspx?email=privacy) to communicate any questions or concerns or write to us at Bluegreen Resorts, 4960 Conference Way North, Suite 100, Boca Raton, FL 33431. This Privacy Statement was last updated on April 11, 2006.
+If any of your personal information changes or you identify a mistake in our records, please contact us at the address below and we will update our data right away. Please [email us](https://web.archive.org/web/20081222201609id_/http%3A//bluegreenvacations.com/contact.aspx?email=privacy) to communicate any questions or concerns or write to us at Bluegreen Resorts, 4960 Conference Way North, Suite 100, Boca Raton, FL 33431. This Privacy Statement was last updated on April 11, 2006.
 
 Back to top
