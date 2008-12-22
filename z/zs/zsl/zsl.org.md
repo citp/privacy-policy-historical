@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the zsl.org privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604100717id_/http%3A//www.zsl.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zsl.org privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222034030id_/http%3A//www.zsl.org/info/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Info - ZSL
-
-[Printable version](https://web.archive.org/print/info/privacy.html) [Email this to a friend](https://web.archive.org/email-a-friend.html?Presource=com.otherobjects.cms.model.shared.UtilityPageHandle-L-5)
+# Privacy Policy
 
 This website is owned and run by the Zoological Society of London, registered charity number 208728, and its wholly owned trading company Zoo Enterprises Limited company number 01178687 (together being “ZSL”). 
 
