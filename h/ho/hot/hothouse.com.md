@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hothouse.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515012921id_/http%3A//store.hothouse.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hothouse.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223065754id_/http%3A//store.hothouse.com/info/privacy) for the most accurate reproduction.*
 
 # - Hot House Superstore - XXX Gay Hardcore DVD, Videos, And Photos With Free Previews!
 
