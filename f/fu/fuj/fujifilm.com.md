@@ -1,31 +1,136 @@
-> *The following text is extracted and transformed from the fujifilm.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221043244id_/http%3A//fujifilm.com/JSP/fuji/epartners/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fujifilm.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223060341id_/http%3A//www.fujifilm.com/privacy_policy/index.html) for the most accurate reproduction.*
 
-# Explore the World of Fujifilm
+# FUJIFILM Global | Privacy Policy
 
-[Fujifilm Home](https://web.archive.org/web/20051221043244id_/http%3A//fujifilm.com/JSP/fuji/epartners/index.jsp) : Privacy Policy **Privacy Policy** **Our Commitment to Privacy.** Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on every page on our web site and every point where personally identifiable information may be requested  **The Information We Collect.** This notice applies to all information collected or submitted on the Fujifilm USA website [(http://www.fujifilm.com)](http://www.fujifilm.com/) and on the "Picture Your Life" website [(http://pictures.fujifilm.com)](http://pictures.fujifilm.com/). The Fujifilm Worldwide website [(http://home.fujifilm.com)](http://home.fujifilm.com/) is not covered by this privacy notice nor are other countries websites offered by Fujifilm Worldwide (such as Fujifilms Brazilian website [(http://www.fujifilm.com.br)](http://www.fujifilm.com.br/) or Fujifilms Swiss website [(http://www.fujifilm.ch)](http://www.fujifilm.ch/). This notice does not apply to other USA websites hosted by various Fujifilm divisions, such as [www.fujifilm.net](http://www.fujifilm.net/)
+Privacy Policy for Use of FUJIFILM Corporation Website
 
-When you sign up for membership in Picture Your Life with Fujifilm at [pictures.fujifilm.com](http://pictures.fujifilm.com/), we ask for your name, e-mail address, and to select a user name and password. This information is stored and used to create an account for viewing and sharing photos online. Your user name and password are required to login and gain access to your membership account. You have the option to indicate on the registration form if you would like to receive promotional information as well as updates on new products and services from Fujifilm via email. Information you submit on our website will not be used for this purpose unless you specify that you would like to receive such materials. 
+Index
+    
 
-We offer online greetings by which you can personalize a greeting you create for another person. The information you provide to us to create an online greeting (such as recipients name and email address) is only used for that purpose, and it is only disclosed to the person receiving the greeting. 
+  * 1\. Scope of Our Privacy Policy
+  * 2\. Management of Personal Information
+  * 3\. Personal Information of Customers who are Under the Age of 16
+  * 4\. Use of SSL
+  * 5\. Use of Cookies
+  * 6\. Use of Web Beacons
+  * 7\. Links on The Website(s)
+  * 8\. Compliance with Laws and Ordinances
+  * 9\. Changes to The Privacy Policy
+  * 10\. Inquiries regarding The Privacy Policy
 
-When you enter a sweepstakes or contest, we may ask for your name, address, and email address so we can administer the contest and notify the winners. This information is not used for any other purpose and is not shared with outside parties. 
 
-When you use the "Email this page to a friend" function, we ask for your name, email address and a friends name and email address. You also have the option to include a personal message to send to a friend. This information is only used to send your message and is not stored by Fujifilm for any other purpose and is not shared with outside parties. 
 
-When you submit a question or request information to Contact Us, we ask for your name, postal address, and e-mail address. If you do not have an email address, we offer the option to include a phone number so your question can be answered via phone if necessary. We collect this information to most effectively route your message to the appropriate support staff member in order to provide you a reply or send you the information you request. This information is not used for any other purpose and is not shared with outside parties. 
+## 1\. Scope of Our Privacy Policy
 
-When you fill out an application for a grant or donation, you will leave the fujifilm.com website and enter the cybergrants.com website. You will be asked for your name, occupation, mailing address, email address and phone. Your information will be shared with our agent, CyberGrants, Inc., solely for purposes of processing your request. To find out how CyberGrants, Inc. keeps your data secure, see [http://www.cybergrants.com/privacy.shtml ](http://www.cybergrants.com/privacy.shtml)
+  1. Scope of Application  
+This Privacy Policy applies to the personal information provided by customers (e.g. name, address, phone number, and e-mail address) through websites that are managed and operated by FUJIFILM Corporation (hereinafter, “The Company”) and which start with the URL (website address) http://www.fujifilm.com (hereinafter, “The Website(s)”). 
 
-Fujifilm will not sell, trade, distribute or rent your personal information collected online to others (third parties) except for limited purposes as described above. 
+  2. Priority of Special Notes  
+In case stipulations that differ from The Privacy Policy are clearly indicated on individual websites other than The Website(s) through which personal information is provided, the relevant differing stipulations shall be prioritized and applied.
 
-**The Way We Use Information.** We use non-identifying and aggregate information to better design our website and to understand the needs of our site visitors. For example, we may track that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but this process does not involve disclosing anything that could be used to identify those individuals.
 
-**Our Commitment to Data Security.** Finally, we never use the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
-  
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.  **Our Commitment to Childrens Privacy.** Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.  **How You Can Access or Correct Your Information.** If you are registered for Picture Your Life with Fujifilm and any of your personal information changes or if you simply want to see what information we have stored, you can review and update your member profile using your user name and password by clicking My Membership on [pictures.fujifilm.com](http://pictures.fujifilm.com/). We use this procedure to better safeguard your information. 
 
-You can correct factual errors in your personally identifiable information by changing it directly in My Membership on [pictures.fujifilm.com](http://pictures.fujifilm.com/) or by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+## 2\. Management of Personal Information
 
-**How To Contact Us.** Should you have other questions or concerns about these privacy policies, please send us an email at [webmaster@fujifilm.com](mailto:webmaster@fujifilm.com).  
+  1. Gathering Personal Information
 
+    1. In principle, customers may view The Website(s) without disclosing personal information. However, when The Company receives user registrations, e-mail news distribution requests, and inquiries to The Company, the customer shall be required to provide personal information.
+
+    2. The Website(s) may collect information such as which content the customer has viewed within The Website(s), or which website the customer has referred to access The Website(s). In the process of collecting such information, which purpose is to improve the usability of The Website(s), information shall not be collected in a manner in which individual customers may be identified, nor shall the individual customers be identified during the process of information analysis.
+
+  2. Purpose of Use of Personal Information
+
+    1. On individual sites that have been created to receive personal information provided by customers, the purpose of use of provided personal information shall be clearly indicated, except in cases where the purpose of use is self-evident to customers.
+
+    2. The use of personal information provided by customers shall be limited to the purpose of use clearly indicated to the customer in advance, except in cases in which it is clearly permitted in laws, ordinances, and standards related to personal information protection and which apply to such matters.
+
+  3. The Company shall not disclose nor supply the personal information provided by customers to third parties except in the following cases:
+
+    1. When the customer's consent is given in advance.
+
+    2. When it is necessary to commission operations to The Company's group companies or other affiliated companies.
+
+    3. When The Company determines from the customer inquiry that it is appropriate for The Company's group company providing The Company's products/services to respond to the customer's inquiry.
+
+    4. When the customer's name, address, credit card number, and other information is disclosed to financial institutions or other parties for payment settlement when the customer orders products or uses other services which require a fee.
+
+    5. When personal information is provided to the successor of the operations when the operations are transferred due to reasons such as merger, demerger, and transfer of operations.
+
+    6. When personal information disclosure is requested under the stipulations of laws and ordinances.
+
+    7. When there is an immediate need for disclosure to protect human life or human rights.
+
+    8. When cooperating with requests of judicial institutions, police, or other public bodies and that are based on laws and ordinances.
+
+  4. Management of Personal Information  
+The personal information provided by customers shall be managed in an appropriate manner under the responsibility of each division of The Company that receives such personal information, and they shall prevent accidents such as loss, theft, falsification, and leakage from occurring.
+
+  5. Confirmation, Correction, and Deletion of Personal Information
+
+    1. Regarding questions and inquiries regarding the confirmation, correction, deletion, and other matters regarding a customer's personal information, the point of contact of The Company given when the customer provides personal information shall receive such requests or inquiries.
+
+    2. If the point of contact of The Company is unknown, please contact the Webmaster.
+
+E-mail:
+    
+      * [webmaster@fujifilm.co.jp](mailto:webmaster@fujifilm.co.jp)
+
+
+
+## 3\. Personal Information of Customers who are Under the Age of 16
+
+Regarding personal information of customers who are under the age of 16, information must be provided with the consent of their guardians.
+
+## 4\. Use of SSL
+
+  1. In principle, as a countermeasure against illegal third party interception, the Secure Sockets Layer (SSL) method shall be used to encrypt the data on the data entry form, which is made available on The Website(s) so customers may provide their personal information.
+
+  2. On The Website(s), in addition to SSL encrypted data entry forms, there may be cases in which data entry forms without SSL data encryption are made available for customers whose browsers are not compatible with SSL encryption. Please note before using such data entry forms that the transferred data will not be encrypted and that there is the possibility that a third party will illegally intercept the data and read it.
+
+
+
+
+## 5\. Use of Cookies
+
+  1. Cookies refer to a technology to store information such as use history on the customer's computer in order to facilitate more convenient use of websites. The Website(s) may use cookies for the following purpose in a way that does not identify the customer.
+
+    1. To provide the “Save Password” function for members-only sites where customers input their ID and password to view content.
+
+    2. To analyze customer access to The Website(s) in order to improve the operability of The Website(s) or to identify the cause of problems on The Website(s).
+
+  2. By changing the settings on the Internet browser, customers may disable their cookies or set it so that a warning appears on the computer screen before cookies are issued. However, please note that some services provided through The Website(s) may not be used if the use of cookies is disabled.
+
+
+
+
+## 6\. Use of Web Beacons
+
+Also called a clear GIF or a pixel tag, a web beacon is a small graphic image that is placed on a website. By using web beacons in a way that does not identify the customer, the customers' viewing status is analyzed to improve The Website(s) and to make it more convenient for customers.
+
+## 7\. Links on The Website(s)
+
+The Privacy Policy shall not apply to other websites that are linked from The Website(s). For information on how personal information is handled on other websites, please refer to the relevant website's personal information policies.
+
+## 8\. Compliance with Laws and Ordinances
+
+In handling personal information provided by customers, The Company shall comply with laws, ordinances, and standards related to the protection of personal information which applies to such matters.
+
+## 9\. Changes to The Privacy Policy
+
+The Company shall continuously review its efforts in protecting The Company's personal information and may change The Privacy Policy as necessary in the process of improving and enhancing such efforts.
+
+## 10\. Inquiries regarding The Privacy Policy
+
+For inquiries regarding The Privacy Policy, please contact the Webmaster.
+
+E-mail:
+    
+
+  * [webmaster@fujifilm.co.jp](mailto:webmaster@fujifilm.co.jp)
+
+
+
+Last update: June 1, 2008  
+Internet Office  
+FUJIFILM Corporation
