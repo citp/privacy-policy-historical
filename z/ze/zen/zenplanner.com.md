@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenplanner.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601014501id_/http%3A//www.zenplanner.com/zenplanner/www/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenplanner.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223050924id_/http%3A//www.zenplanner.com/zenplanner/www/privacy.cfm) for the most accurate reproduction.*
 
 # Zen Planner - Privacy Policy
 
