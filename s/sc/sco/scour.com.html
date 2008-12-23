@@ -1,155 +1,227 @@
-<!--The following is the downloaded HTML source of the scour.com privacy policy that was archived on 2008-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080607113439id_/http%3A//www.scour.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scour.com privacy policy that was archived on 2008-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081223045108id_/http%3A//www.scour.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>ABCSearch - Building e-Business</title>
-<meta name="keywords" content="ABCSearch, ABC Search, PPC advertising, Pay Per Click Advertising, Cost Per Click Advertising, PPC search engine, PPC Management, PPC Search Engine Internet Marketing, PPC Campaign Management, E-Business Consulting, Emarketing Services, PPC Solution, Pay Per Click Affiliate Program, PPC Bid Management, PPC Program, EBusiness Solution">
-<meta name="description" content="ABCSearch -The Popular Pay Per Click Search Engine. Advertise or partner with us for the ideal returns. Attract quality website traffic and online revenues with our PPC Advertising.">
-<link href="style.css" rel="stylesheet" type="text/css">
-<script language="JavaScript" type="text/JavaScript" src="http://chat.abcsearch.com/livehelp/include/javascript.php"></script>
-<script type="text/JavaScript">
-<!--
-var pageLocation = "home"; //this value is set by each page and must match the image name for that section
+  <title>Scour - Search Socially</title>
+  <style type="text/css" media="all">@import "/css/all.css";</style>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+  <meta name="msnbot" content="noarchive">
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <script type="text/javascript" src="/js/all.js?v=4094"></script>  
+  <script type="text/javascript">
+// <!--
+    $(document).ready(
+      function()
+	    {
+        if (userSettings.username != '')
+        {
+          $("#welcome_user_name").html(userSettings.username);
+          $("#welcome_user").show();
+          $("#points_logout").show();
+          $("#points_mypoints").text('');
+          $("#points_friendpoints").text('');
+          $("#points_total").text('');
+          getUserPoints();
+        }
+        else
+        {
+          $("#sign_in_user").show();
+          $("#new_user").show();
+        }
+	    }
+	  ); 
+// -->    
+  </script>
 
-function setSelected() {
-	thisSRC=document[pageLocation].src;
-	document[pageLocation].src = thisSRC.replace("_ac.gif","_sel.gif");
-}
-
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-
-  var i,j=0,x,a=MM_swapImage.arguments; 
-  if (a[0] != pageLocation) {
-	  document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-	   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-  }
-}
-
-function show_popup(url,hwin,hwidth,hheight)
-{
-  window.open(url,
-              hwin,
-              "height="+hheight+",width="+hwidth+",startx=100,starty=100,resizable=1,scrollbars=1,toolbar=0");
-}
-
-function MM_openBrWindow(theURL,winName,features) { //v2.0
-  window.open(theURL,winName,features);
-}
-//-->
-</script>
-<!--This Style added in New Look & Feel Changes - Arun Dhwaj - 3/28/2008 - Start --> 
-<!--style3 added - DeepthiP - 4/14/2008 - Start --> 
-<style type="text/css">
-<!--
-.style2 {color: #366fa9}
-.style3 {font-size: 13px}
--->
-</style>
-<!--style3 added - DeepthiP - 4/14/2008 - End --> 
-<!--This Style added in New Look & Feel Changes - Arun Dhwaj - 3/28/2008 - End --> 
-
+  <!--[if lt IE 7]>
+  <style type='text/css' src='/css/ie6.css'>
+  </style>
+  <![endif]-->
+    <meta http-equiv="X-UA-Compatible" content="IE=7">
 </head>
+<body>
+  <div id="topbar">
+    <div class="user_submenu">
+      <div id="welcome_user" class="hide"><strong>Welcome <span id="welcome_user_name"></span></strong> (<span id="logout"><a href="/logout/">logout</a></span>) <a href="/profile/" title="Customize Scour" class="mysettings" accesskey="m">My Profile</a>
+    </div>
+      <span id="sign_in_user" class="scour_points_sign_in hide"><strong>Have Account?</strong> <a href="/login/">Sign in</a> || </span>  
+      <span id="new_user" class="scour_points_new_use hide"><strong>New user?</strong> <a href="/signup/">Join Now</a></span>
+    </div>
+    <span class="toplinkmenu">
+      <a href="/faq/" title="You have questions - we have answers" accesskey="q">F.A.Q.</a>
+      <a href="http://blog.scour.com" title="Scour blog" accesskey="b">Blog</a>
+      <a href="#" title="Where you can scream and yell at us or give us a hug" accesskey="f" onclick="return showFeedbackForm()">Feedback</a>
+      <a href="/goodies/" title="Toys we are working on" accesskey="g">Goodies</a>
+      <a href="/index.html" title="Scour - home" accesskey="h">Home</a>
+      <a href="#" onclick="showdemo('http://scour.com/demo/','demo','990','800','center','front'); return false;" title="Learn more about Scour" accesskey="d"><strong>How it works</strong></a>
+    </span>
+  </div>
+  <div id="mainpage" class="clear">
+  	<div id="content" class="content">
 
-<body onload="MM_preloadImages('images/btn_home_ro.gif','images/btn_advertisers_ro.gif','images/btn_partners_ro.gif','images/btn_about_ro.gif','images/btn_create_account_ro.gif','images/btn_contact_ro.gif','images/btn_home_sel.gif','images/btn_advertisers_sel.gif','images/btn_partners_sel.gif','images/btn_about_sel.gif','images/btn_create_account_sel.gif','images/btn_contact_sel.gif')">
-<div id="mainbox">
-	<div id="mainbox_top"><img src="images/mainbox_top.gif"></div>
-	<div id="logo_bar">
-		<div id="logo"><a href="./"><img src="images/logo.gif" alt="ABCSearch.com" width="255" height="73" border="0"></a></div>
-		<div id="livechat">
-		<!-- This link is removed - Arun Dhwaj -3/28/2008- Start -->
-		<!-- <a href="javascript:void(0);" onclick="MM_openBrWindow('http://chat.abcsearch.com/livehelp/index.php','livechat','width=624,height=424')">  --> 
-		<img src="http://chat.abcsearch.com/livehelp/include/status.php" alt="ABCSearch Live Chat" border="0"><!--</a>--></div>
+                <center>
+            <a href="/index.html" title="Scour Home">
+             <img src="/images/logo.gif" class="logo" alt="Scour - the social search engine" border="0" height="77" width="221">
+            </a>
+          </center>
+            <center>
+                  <div class="content_box clear">
+            <div class="content_box_top"></div>
+            <div class="content_box_text">
+          
 
-		<div id="dashboard"><img src="images/icon_dasboard.gif" alt="Real-Time Dashboard" align="left" style="margin-right: 8px; margin-bottom: 45px;">
-	  <div><img src="images/real-time-dashboard.gif" alt="Real-Time-Dashboard" style="margin-top: 3px; margin-bottom: 3px;"></div>
-	  <div class="body_text">Today’s Search Volume:<br>
-		Queries: 29,377,285<br>Updated: 06/07 04:29:54
-	 </div>
-	  </div>
-	</div>
-	<div id="menu"><img src="images/menu_left.gif"><a href="./"><img src="images/btn_home_ac.gif" alt="Home" name="home" border="0" id="home" onmouseover="MM_swapImage('home','','images/btn_home_ro.gif',1)" onmouseout="MM_swapImgRestore()"></a><a href="advertisers.php"><img src="images/btn_advertisers_ac.gif" alt="Advertisers" name="advertisers" border="0" id="advertisers" onmouseover="MM_swapImage('advertisers','','images/btn_advertisers_ro.gif',1)" onmouseout="MM_swapImgRestore()"></a><a href="partners.php"><img src="images/btn_partners_ac.gif" alt="Partners" name="partners" border="0" id="partners" onmouseover="MM_swapImage('partners','','images/btn_partners_ro.gif',1)" onmouseout="MM_swapImgRestore()"></a><a href="about.php"><img src="images/btn_about_ac.gif" alt="About ABC" name="aboutABC" border="0" id="aboutABC" onmouseover="MM_swapImage('aboutABC','','images/btn_about_ro.gif',1)" onmouseout="MM_swapImgRestore()"></a><!--Here Join.html is included - Arun Dhwaj -Start -3/31/2008 --><a href="https://admin.abcsearch.com/af/affiliate.pl?mode=join"><img src="images/btn_create_account_ac.gif" alt="Create Account" name="createAccount" border="0" id="createAccount" onmouseover="MM_swapImage('createAccount','','images/btn_create_account_ro.gif',1)" onmouseout="MM_swapImgRestore()"></a><a href="contact.php"><img src="images/btn_contact_ac.gif" alt="Contact Us" name="ContactUs" border="0" id="ContactUs" onmouseover="MM_swapImage('ContactUs','','images/btn_contact_ro.gif',1)" onmouseout="MM_swapImgRestore()"></a><img src="images/menu_right.gif"></div>
-<div id="menu_bottom"><img src="images/menu_bottom.gif"></div>
-	<div id="content">
-		
-    <div id="header"><img src="images/hdr_img_privacy.jpg" alt="Reach Exclusive Networks at a Fraction of the Cost" width="745" height="141"></div>
-		<div id="content_text" class="body_text" style="padding-right: 15px; padding-left: 20px;">
-		  <p><span class="center"> (ABC SEARCH) EFFECTIVE DATE: The most recent version of this Privacy Policy, as revised, is effective as of March 5th, 2005. <br>
-		      <br>
-This Privacy Policy applies to certain web sites that are owned and/or operated by or on behalf of ABC SEARCH, and/or other affiliated entities controlled by, or under common control with, such parties (each such web site being individually referred to herein as the “Web Site”). If you have arrived at this Privacy Policy by “clicking” on an authorized link from a Web Site, then this Privacy Policy applies to such Web Site, and the individual entity that owns and/or operates the particular Web Site from which you “clicked” to. This Privacy Policy via an authorized link shall be referred to herein as “Sponsor,” "we" or "us." Sponsor respects the privacy of its users, and this Privacy Policy explains what information we collect on our Web Site and how we use such information. <br>
-<br>
-Please read this Privacy Policy carefully, as it acts as an official Terms of Use statement, which governs your use of the Web Site. Your use of our Web Site indicates to us that you have read and accepted our privacy practices, as outlined in this Privacy Policy and our Terms of Use. <br>
-<br>
-<b class="blue_link" style="font-size:12px">Applicability </b> <br>
-<br>
-Please note that this Privacy Policy only applies to Web Sites owned and/or operated by or for Sponsor, and upon which Sponsor has placed a “link” which, when “clicked”, transfers you to this Privacy Policy. It is not applicable to the individual web sites owned, sponsored or operated by or for any independent television or radio stations affiliated with Sponsor. While on our Web Site, you may encounter links to these or other web sites or online material. If you "click" on a link to such a third party, the "click" takes you off our Web Site and to a third party’s web site, which is beyond Sponsor’s control. These other web sites may set their own cookies, collect data, and/or have their own privacy policies. This Privacy Policy only covers information collected at the Web Site, and does not cover any information collected by any other web site or offline by Sponsor (unless otherwise specifically stated or disclosed by Sponsor), its corporate affiliates, broadcast affiliates, licensees or any other company, and we encourage you to review the privacy policy of any other web site you visit. <br>
-<br>
-In addition, please note that this Privacy Policy does not apply to any information you may disclose publicly in any chat rooms, message boards, or similar web pages. You should keep in mind that whenever you publicly disclose information about yourself online – for example, via message boards or chat rooms – that information could be collected and used by people that you do not know. In addition, certain message boards and similar user forums may display IP addresses (as defined below) along with the message poster’s name and message. Sponsor bears no responsibility for any action or policies of any third parties who collect any information users may disclose on the message boards, chat areas or other user forums, if any, on the Web Site. <br>
-<br>
-<b class="blue_link" style="font-size:12px">Information Sponsor Collects </b> <br>
-<br>
-<b class="blue_link" style="font-size:11px">Personally Identifiable Information:</b> Personally identifiable information is information that could reasonably be used to identify you personally (such as your name, address, birth date or e-mail address), which we refer to in this Privacy Policy as "PII." Generally, you may browse our Web Site without providing us with PII. However, there may be times when we ask you to provide us with certain PII, such as when you choose to register with our Web Site and/or for newsletters or choose to participate in an online contest, sweepstakes, survey or voting procedure. We may also ask you to provide us with demographic information or information regarding your interests, hobbies or similar information. Sponsor reserves the right, at any time, to add features to our Web Site that require you to register or otherwise provide PII, including credit card information, or to require registration to access our Web Site. You can choose not to provide certain information, but then you may not be able to take advantage of or participate in some of the Web Site’s features. We may combine the information we collect with information available from other sources, including information received from promotional partners or other third parties. We may provide you the opportunity to e-mail a friend an article, electronic greeting card or other special feature from our Web Site. The e-mail addresses you supply us for those activities will be used to send the requested e-mail and will not be used to send you or your friend any other e-mail communications. <br>
-<br>
-<b class="blue_link" style="font-size:11px">The Web Site does not knowingly collect PII from children under thirteen (13) years of age:</b> This is not a web site directed to children under the age of 13, and Sponsor does not knowingly collect any information from children under 13 years of age at the Web Site. If you are under 13 years of age, do not send any information about yourself to Sponsor. If Sponsor discovers that a child under the age of 13 has provided the Web Site with PII, Sponsor will delete that child’s PII from its system. <br>
-<br>
-<b class="blue_link" style="font-size:11px">Anonymous Information: </b>When you visit the Web Site, our web servers automatically collect web site usage information. Web site usage information is anonymous information that describes how our visitors use and navigate our Web Site, and it includes the number and frequency of visitors to each web page and the length and depth of their stays. We collect the anonymous information automatically sent to us by your web browser, such as browser type, referrer data that identifies the web page visited prior and subsequent to visiting our Web Site, and IP address. We also may determine what technology is available through your browser in order to serve you the most appropriate version of a web page. For example, we may determine that you have installed a version of Flash, and we will then send you the appropriate Flash version of the web page rather than an HTML page. <br>
-<br>
-<b class="blue_link" style="font-size:11px">IP Addresses:</b> An IP address is a number that is assigned to your computer or network when you are on the Internet. When visitors request pages from our Web Site, our servers log the visitor’s IP address. We may collect IP addresses for a variety of internal purposes, such as system administration, to report aggregate information to our business partners or to audit the number of visits to different pages on our Web Site. Please note that some services within our Web Site, such as certain message boards, may display IP addresses along with the message poster’s name and message. <br>
-<br>
-<b class="blue_link" style="font-size:11px">Cookies:</b> Cookies are information files that our Web Site may place on your computer to provide extended functionality and to personalize your experience at our Web Site. We may use cookies for a number of purposes. For example, we may use cookies to track usage patterns on the Web Site and we may use cookies when we conduct polls and sweepstakes to limit multiple responses and registrations. Or, we may use cookies to record registration and personalization information, enabling you to save your user name and password. We do not store any PII in cookies, but we may link the cookie to any information we collect. You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of the Web Site will not operate correctly if you disable cookies. You should consult with your browser’s provider/manufacturer if you have any questions regarding disabling cookies. <br>
-<br>
-<b class="blue_link" style="font-size:12px">Sponsor’s Use and Disclosure of Collected Information</b> <br>
-<br>
-<b class="blue_link" style="font-size:11px">Sponsor:</b> Sponsor may use your PII to provide the information or content you have requested, to contact you or to fulfill prizes in connection with a contest or sweepstakes, to contact you about Sponsor programs, products, features or services, or for other purposes disclosed at the time of collection. We may also use your PII to contact you regarding your use of our Web Site or changes to our Privacy Policy, Terms of Use or other policy or terms that affect you and your use of our Web Site. If you e-mail someone else an article, electronic greeting card or other special feature from our Web Site, we will use the information you provide about someone else to send that person the requested e-mail. Sponsor may use information collected about our users to improve the content and navigation of our Web Site, or for other internal purposes. <br>
-<br>
-Third parties providing services on our behalf: Sponsor may employ other companies and individuals to perform functions on its behalf. Examples may include hosting the Web Site, sending communications on our behalf, hosting message boards or other user forums, analyzing data, providing marketing assistance, creating, hosting and/or running contests/sweepstakes/games and providing customer service. These third parties may have access to our users’ PII in order to provide these services to us or on our behalf, but they are not permitted to use it for other purposes. <br>
-<br>
-<b class="blue_link" style="font-size:11px">Other Third Parties:</b> Sponsor may disclose anonymous, aggregated user statistics to third parties for a variety of purposes. For example, we may disclose how many individuals visited certain areas of our Web Site, or how many men or women receive our newsletter. Sponsor does not rent, sell or otherwise disclose your PII to third parties unless disclosed to you at the time such information is collected or unless you otherwise give consent, other than in the following limited circumstances: <br>
-<br>
-<b class="blue_link" style="font-size:11px">•&nbsp;&nbsp;Legal action.</b> Sponsor may disclose information about its users, including PII, when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Web Site and applicable laws, or to protect against misuse or unauthorized use of our Web Site. Sponsor may also disclose user information whenever we believe disclosure is necessary to limit our legal liability, to protect or defend our rights or property or protect the safety, rights or property of our users. <br>
-<br>
-<b class="blue_link" style="font-size:11px">•&nbsp;&nbsp;Corporate change.</b> Sponsor may sell, transfer or otherwise disclose user information, including PII, to a successor entity in connection with a corporate merger, consolidation, the sale of substantially all assets, or other fundamental corporate change respecting the Web Site. <br>
-<br>
-<b class="blue_link" style="font-size:12px">Security </b> <br>
-Sponsor takes steps to secure the data you submit to us, including limiting the number of people who have physical access to our user data. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, Sponsor cannot ensure or warrant the security of any information you transmit to Sponsor and you do so at your own risk. That said, all financial transactions completed through the Web Site use the most sophisticated e-commerce software and hardware ABC Search can provide, to ensure the utmost security for all users. <br>
-<br>
-<b class="blue_link" style="font-size:12px">Consent to Transfer</b> <br>
-The Web Site is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer. <br>
-<br>
-<b class="blue_link" style="font-size:12px">Acceptance / Changes to Privacy Policy </b> <br>
-By using the Web Site, you agree to the terms of this Privacy Policy. Sponsor reserves the right to modify, alter or otherwise update this Privacy Policy at any time in its sole discretion. We will post any changes here, so be sure to check back from time to time. However, we will only use the PII you provide to the Web Site in a manner consistent with this Privacy Policy, unless you give us your consent. <br>
-<br>
-<b class="blue_link" style="font-size:12px">Contact Us</b> <br>
-If you have any questions, comments or concerns about our Privacy Policy, please contact us at the address provided on the Web Site from which you “clicked” via an authorized link to arrive at this Privacy Policy. <br>
-<br>
-© 2008 ABC SEARCH. All rights reserved. <br>
-<br>
-          </span><br>
-      </p></div>
-	</div>
 
-	<div id="mainbox_bottom"><img src="images/mainbox_bottom.gif"></div>
-</div>
-<div id="footer"> <a href="contact.php">Contact Us</a> • <a href="about.php">About Us</a> • <a href="/privacy.php">Privacy Statement</a> • <a href="/sitemap.php">Site Map</a> • <a href="http://ppc.abcsearch.com/">The PPC Guide</a> • <a href="javascript:void(0);" onclick="MM_openBrWindow('http://chat.abcsearch.com/livehelp/index.php','livechat','width=624,height=424')">Customer Service Live Chat</a> • 1-800 710-7009 • <a href="http://metatrack02.abcsearch.com:34556/af/affiliate.pl">Admin</a> <br>
-© 2008 ABCSearch.com. All Rights reserved. ABCSearch™</div>
+<h3>Privacy Policy</h3>
+
+<p>(SCOUR.COM) EFFECTIVE DATE: The most recent version of this Privacy Policy, as revised, is effective as of June 1th, 2008.</p>
+
+<p>
+This Privacy Policy applies to certain web sites that are owned and/or operated by or on behalf of SCOUR.COM, and/or other affiliated entities controlled by, or under common control with, such parties (each such web site being individually referred to herein as the "Web Site"). If you have arrived at this Privacy Policy by "clicking" on an authorized link from a Web Site, then this Privacy Policy applies to such Web Site, and the individual entity that owns and/or operates the particular Web Site from which you "clicked" to. This Privacy Policy via an authorized link shall be referred to herein as "Sponsor," "we" or "us." Sponsor respects the privacy of its users, and this Privacy Policy explains what information we collect on our Web Site and how we use such information.
+</p>
+
+<p>
+Please read this Privacy Policy carefully, as it acts as an official Terms of Use statement, which governs your use of the Web Site. Your use of our Web Site indicates to us that you have read and accepted our privacy practices, as outlined in this Privacy Policy and our Terms of Use.
+</p>
+
+<h4>Applicability</h4>
+
+<p>
+Please note that this Privacy Policy only applies to Web Sites owned and/or operated by or for Sponsor, and upon which Sponsor has placed a "link" which, when "clicked", transfers you to this Privacy Policy. It is not applicable to the individual web sites owned, sponsored or operated by or for any independent television or radio stations affiliated with Sponsor. While on our Web Site, you may encounter links to these or other web sites or online material. If you "click" on a link to such a third party, the "click" takes you off our Web Site and to a third party's web site, which is beyond Sponsor's control. These other web sites may set their own cookies, collect data, and/or have their own privacy policies. This Privacy Policy only covers information collected at the Web Site, and does not cover any information collected by any other web site or offline by Sponsor (unless otherwise specifically stated or disclosed by Sponsor), its corporate affiliates, broadcast affiliates, licensees or any other company, and we encourage you to review the privacy policy of any other web site you visit.
+</p>
+
+<p>
+In addition, please note that this Privacy Policy does not apply to any information you may disclose publicly in any chat rooms, message boards, or similar web pages. You should keep in mind that whenever you publicly disclose information about yourself online - for example, via message boards or chat rooms - that information could be collected and used by people that you do not know. In addition, certain message boards and similar user forums may display IP addresses (as defined below) along with the message poster's name and message. Sponsor bears no responsibility for any action or policies of any third parties who collect any information users may disclose on the message boards, chat areas or other user forums, if any, on the Web Site.
+</p>
+
+<h4>Information Sponsor Collects</h4>
+
+<p>
+Personally Identifiable Information: Personally identifiable information is information that could reasonably be used to identify you personally (such as your name, address, birth date or e-mail address), which we refer to in this Privacy Policy as "PII." Generally, you may browse our Web Site without providing us with PII. However, there may be times when we ask you to provide us with certain PII, such as when you choose to register with our Web Site and/or for newsletters or choose to participate in an online contest, sweepstakes, survey or voting procedure. We may also ask you to provide us with demographic information or information regarding your interests, hobbies or similar information. Sponsor reserves the right, at any time, to add features to our Web Site that require you to register or otherwise provide PII, including credit card information, or to require registration to access our Web Site. You can choose not to provide certain information, but then you may not be able to take advantage of or participate in some of the Web Site's features. We may combine the information we collect with information available from other sources, including information received from promotional partners or other third parties. We may provide you the opportunity to e-mail a friend an article, electronic greeting card or other special feature from our Web Site. The e-mail addresses you supply us for those activities will be used to send the requested e-mail and will not be used to send you or your friend any other e-mail communications.
+</p>
+
+<p>
+The Web Site does not knowingly collect PII from children under thirteen (13) years of age: This is not a web site directed to children under the age of 13, and Sponsor does not knowingly collect any information from children under 13 years of age at the Web Site. If you are under 13 years of age, do not send any information about yourself to Sponsor. If Sponsor discovers that a child under the age of 13 has provided the Web Site with PII, Sponsor will delete that child's PII from its system.
+</p>
+
+<p></p>
+Anonymous Information: When you visit the Web Site, our web servers automatically collect web site usage information. Web site usage information is anonymous information that describes how our visitors use and navigate our Web Site, and it includes the number and frequency of visitors to each web page and the length and depth of their stays. We collect the anonymous information automatically sent to us by your web browser, such as browser type, referrer data that identifies the web page visited prior and subsequent to visiting our Web Site, and IP address. We also may determine what technology is available through your browser in order to serve you the most appropriate version of a web page. For example, we may determine that you have installed a version of Flash, and we will then send you the appropriate Flash version of the web page rather than an HTML page.
+<p></p>
+
+<p>
+IP Addresses: An IP address is a number that is assigned to your computer or network when you are on the Internet. When visitors request pages from our Web Site, our servers log the visitor's IP address. We may collect IP addresses for a variety of internal purposes, such as system administration, to report aggregate information to our business partners or to audit the number of visits to different pages on our Web Site. Please note that some services within our Web Site, such as certain message boards, may display IP addresses along with the message poster's name and message.
+</p>
+
+<p>
+Cookies: Cookies are information files that our Web Site may place on your computer to provide extended functionality and to personalize your experience at our Web Site. We may use cookies for a number of purposes. For example, we may use cookies to track usage patterns on the Web Site and we may use cookies when we conduct polls and sweepstakes to limit multiple responses and registrations. Or, we may use cookies to record registration and personalization information, enabling you to save your user name and password. We do not store any PII in cookies, but we may link the cookie to any information we collect. You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of the Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies.
+</p>
+
+<h4>Sponsor's Use and Disclosure of Collected Information</h4>
+
+<p>
+Sponsor: Sponsor may use your PII to provide the information or content you have requested, to contact you or to fulfill prizes in connection with a contest or sweepstakes, to contact you about Sponsor programs, products, features or services, or for other purposes disclosed at the time of collection. We may also use your PII to contact you regarding your use of our Web Site or changes to our Privacy Policy, Terms of Use or other policy or terms that affect you and your use of our Web Site. If you e-mail someone else an article, electronic greeting card or other special feature from our Web Site, we will use the information you provide about someone else to send that person the requested e-mail. Sponsor may use information collected about our users to improve the content and navigation of our Web Site, or for other internal purposes.
+</p>
+
+<p>
+Third parties providing services on our behalf: Sponsor may employ other companies and individuals to perform functions on its behalf. Examples may include hosting the Web Site, sending communications on our behalf, hosting message boards or other user forums, analyzing data, providing marketing assistance, creating, hosting and/or running contests/sweepstakes/games and providing customer service. These third parties may have access to our users' PII in order to provide these services to us or on our behalf, but they are not permitted to use it for other purposes.
+</p>
+
+<p>
+Other Third Parties: Sponsor may disclose anonymous, aggregated user statistics to third parties for a variety of purposes. For example, we may disclose how many individuals visited certain areas of our Web Site, or how many men or women receive our newsletter. Sponsor does not rent, sell or otherwise disclose your PII to third parties unless disclosed to you at the time such information is collected or unless you otherwise give consent, other than in the following limited circumstances:
+</p>
+
+<ul>
+  <li>Legal action. Sponsor may disclose information about its users, including PII, when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Web Site and applicable laws, or to protect against misuse or unauthorized use of our Web Site. Sponsor may also disclose user information whenever we believe disclosure is necessary to limit our legal liability, to protect or defend our rights or property or protect the safety, rights or property of our users.</li>
+
+  <li>Corporate change. Sponsor may sell, transfer or otherwise disclose user information, including PII, to a successor entity in connection with a corporate merger, consolidation, the sale of substantially all assets, or other fundamental corporate change respecting the Web Site.</li>
+</ul>
+
+<h4>Security</h4>
+<p>
+Sponsor takes steps to secure the data you submit to us, including limiting the number of people who have physical access to our user data. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, Sponsor cannot ensure or warrant the security of any information you transmit to Sponsor and you do so at your own risk. That said, all financial transactions completed through the Web Site use the most sophisticated e-commerce software and hardware Scour.com can provide, to ensure the utmost security for all users.
+</p>
+
+<h4>Consent to Transfer</h4>
+<p>
+The Web Site is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
+</p>
+
+<h4>Acceptance / Changes to Privacy Policy</h4>
+<p>
+By using the Web Site, you agree to the terms of this Privacy Policy. Sponsor reserves the right to modify, alter or otherwise update this Privacy Policy at any time in its sole discretion. We will post any changes here, so be sure to check back from time to time. However, we will only use the PII you provide to the Web Site in a manner consistent with this Privacy Policy, unless you give us your consent.
+</p>
+
+<h4>Contact Us</h4>
+<p>
+If you have any questions, comments or concerns about our Privacy Policy, please contact us at the address provided on the Web Site from which you "clicked" via an authorized link to arrive at this Privacy Policy.
+</p>
+
+<p>
+© 2008 SCOUR.COM. All rights reserved.
+</p>
+                      </div>
+            <div class="content_box_bottom"></div>
+                  </div>
+      </center>
+    </div>    
+  </div>
+  <div id="footer">
+    <center>
+      <div style="width:600px;">
+       <div class="footer_link_container"><a href="/about/">About</a></div>
+       <div class="footer_link_container"><a href="/privacy/">Privacy Policy</a></div>
+       <div class="footer_link_container"><a href="http://www.abcsearch.com/cgi-bin/referadvfree.pl?referrerId=scour">Advertise</a></div>
+       <div class="footer_link_container"><a href="http://blog.scour.com/press/">News</a></div>
+       <div class="footer_link_container"><a href="http://scour.com/unsubscribe/">Unsubscribe</a></div>
+       <div class="footer_link_container"><a href="/communityguidelines/">Community Guidelines</a></div>
+       <center><div class="copyright">© 2008 Scour.com</div></center>
+      </div>
+    </center>
+  </div>
+  <div style="display:none" id="feedbackform">
+    <a href="#" title="Close" class="modalCloseX modalClose">x</a>
+    <div class="feedback-top"></div>
+    <div class="feedback-content">
+      <h1 class="feedback-title">Send us a message:</h1>
+      <div class="feedback-loading" style="display:none"></div>
+      <div class="feedback-message" style="display:none"></div>
+      <form action="#" style="display:none">
+        <div class="padded">Before you send your comments, have a <a href="" target="_blank">look at our FAQ page</a>, many of the the common questions and comments we receive are discussed on there.<br> 
+        Please take our <a href="http://www.surveymonkey.com/s.aspx?sm=aqMokaRqXMRmc30tF6veHA_3d_3d">Survey</a>.</div>
+        <label for="feedback-name">*Your Name:</label>
+        <input type="text" id="feedback-name" class="feedback-input" name="name" tabindex="1001">
+        <label for="feedback-email">*Your Email:</label>
+        <input type="text" id="feedback-email" class="feedback-input" name="email" tabindex="1002">
+        <label for="feedback-section">*Choose topic:</label>
+        <select id="feedback-section" class="feedback-input" name="section" tabindex="1002">
+          <option value="">Please choose topic:</option>
+          <option value="Bugs">Bugs</option>
+          <option value="Browser">Browser</option>
+          <option value="Commenting">Commenting</option>
+          <option value="Compliments">Compliments</option>
+          <option value="Question">Question</option>
+          <option value="Feedback Request">Feature Request</option>
+          <option value="Scour Points">Scour Points</option>
+          <option value="Searching">Searching</option>
+          <option value="Suggestion">Suggestion</option>
+          <option value="Typos">Typos</option>
+          <option value="Voting">Voting</option>
+        </select>
+        <label for="feedback-message">*What you think:</label>
+        <textarea id="feedback-message" class="feedback-input" name="message" cols="40" rows="4" tabindex="1003"></textarea>
+        <br>
+        <label>&nbsp;</label>
+        <button type="submit" class="feedback-send feedback-button" tabindex="1004">Send</button>
+        <button type="submit" class="feedback-cancel feedback-button modalClose" tabindex="1005">Cancel</button>
+        <br>
+      </form>
+    </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  _uacct = "UA-4569478-1";
+  urchinTracker();
+  </script>
 
 
 </body></html>
