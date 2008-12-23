@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardenguides.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509143102id_/http%3A//www.gardenguides.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardenguides.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223070247id_/http%3A//www.gardenguides.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
