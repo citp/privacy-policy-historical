@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the sbcounty.gov privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518123929id_/http%3A//www.sbcounty.gov/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbcounty.gov privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223012247id_/http%3A//www.sbcounty.gov/policy/privacy.asp) for the most accurate reproduction.*
 
-# County of San Bernardino Privacy Policy
+# County of San Bernardino, California - Official Web Site
 
-**  
-Privacy Policy  
-**   
+  
 **Welcome**  
 Thank you for visiting the San Bernardino County website. This website is designed to make it easier and more efficient for San Bernardino County citizens and businesses to interact with their local government. Like all online resources, we recognize that visitors to this website are concerned about their privacy. San Bernardino County is committed to preserving your privacy when visiting this website. 
 
@@ -54,5 +52,5 @@ Information provided on this website is intended to allow the public immediate a
 **Contact Information**  
 For questions regarding this Privacy Policy please contact **[webmaster@sbcounty.gov](mailto:webmaster@sbcounty.gov)**
 
-**|[Home](https://web.archive.org/) |**  
+[County Home Page](https://web.archive.org/)  
  
