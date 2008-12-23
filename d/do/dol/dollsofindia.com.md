@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollsofindia.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609102715id_/http%3A//www.dollsofindia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollsofindia.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223133744id_/http%3A//www.dollsofindia.com/privacy.php) for the most accurate reproduction.*
 
 # Indian Art Store : Privacy Policy
 
@@ -44,6 +44,15 @@ DollsOfIndia is committed to respecting and protecting your personal privacy. Ou
 P3B-085, Princeton Estate  
 DLF City Phase V  
 Gurgaon  
-Haryana 122 002  
+Haryana 122 009  
 INDIA**
 * You may contact us on our phone number : **+91-9810045075**.
+
+#### [Random Art Pages](http://www.dollsofindia.com/allpages.htm): [Jamini Roy Paintings](http://www.dollsofindia.com/read/jamini_roy_paintings.htm) - [Boxes](http://www.dollsofindia.com/read/boxes.htm) - [Sponge Wood Crafts](http://www.artandcraftsofindia.com/read/sponge_wood_crafts.htm) - [Mithila Paintings](http://www.artandcraftsofindia.com/read/mithila_paintings.htm) - [Temple Dance](http://www.dollsofindia.com/read/temple_dance.htm) - [Sola Wood Crafts](http://www.artandcraftsofindia.com/read/solawoodcrafts.htm) - [Paper Doll](http://www.artandcraftsofindia.com/read/indian_paper_doll.htm) - [Jagannath Subhadra Balaram](http://www.dollsofindia.com/read/jagannath_subhadra_balaram.htm) - [Terracotta Earrings](http://www.ornamentsofindia.com/read/terracotta_earrings.htm) - [Macreme Jewelry](http://www.dollsofindia.com/read/macreme_jewelry.htm) 
+
+  
+**Copyright © 2008,[Dolls Of India](http://www.dollsofindia.com/)  
+Site designed and maintained by [UnlimitedFX](http://www.unlimitedfx.com/)**
+
+  
+
