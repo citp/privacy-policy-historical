@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orhp.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617050408id_/http%3A//www.orhp.com/index.cfm%3Fgo%3Daboutus.privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orhp.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223105635id_/http%3A//www.orhp.com/index.cfm%3Fgo%3Daboutus.privacyPolicy) for the most accurate reproduction.*
 
 # Old Republic Home Protection - Home Warranty Service
 
