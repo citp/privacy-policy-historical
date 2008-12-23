@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycricket.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615143040id_/http%3A//www.mycricket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycricket.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224000731id_/http%3A//www.mycricket.com/privacy) for the most accurate reproduction.*
 
 # Cricket Wireless | PRIVACY
 
@@ -40,4 +40,4 @@ In addition, to the extent permitted by applicable law, we may monitor the patte
 
 FURTHER, IN CONNECTION WITH THE POTENTIAL SALE OR TRANSFER OF ALL OR A PORTION OF OUR BUSINESS INTERESTS, CRICKET RESERVES THE RIGHT TO SELL OR TRANSFER PERSONALLY-IDENTIFIABLE INFORMATION WE HAVE COLLECTED ABOUT YOU (INCLUDING, BUT NOT LIMITED TO, YOUR ADDRESS, NAME, AGE, GENDER, ZIP CODE, STATE AND COUNTRY OF RESIDENCY AND OTHER INFORMATION THAT YOU PROVIDE TO US) TO A THIRD PARTY ENTITY THAT AGREES TO BE CRICKET'S SUCCESSOR IN INTEREST WITH REGARD TO THE MAINTENANCE AND PROTECTION OF SUCH INFORMATION. We may also provide access or information to our affiliated businesses or business partners.
 
-Our privacy policy may change from time to time, so please check with us periodically. You can access the most current version of this Privacy Policy through our website, [http://www.mycricket.com](http://www.mycricket.com/).
+Our privacy policy may change from time to time, so please check with us periodically. 
