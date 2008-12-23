@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juniper.net privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614234242id_/http%3A//juniper.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juniper.net privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223131045id_/http%3A//www.juniper.net/privacy.html) for the most accurate reproduction.*
 
 # Juniper Networks :: Juniper Networks Privacy Policy
 
@@ -92,6 +92,6 @@ Juniper Networks may amend this Policy from time to time. If we make significant
 
 ### Questions
 
-If you have any questions about this Policy, please email us at  .
+If you have any questions about this Policy, please email us at  or mail us at Juniper Networks, 1194 North Mathilda Avenue, Sunnyvale, CA 94089-1206 USA.
 
-_This document was last updated November 10, 2005._
+_This document was last updated September 4, 2008._
