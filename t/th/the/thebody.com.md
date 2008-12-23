@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebody.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512125341id_/http%3A//www.thebody.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebody.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223062734id_/http%3A//www.thebody.com/privacy.html) for the most accurate reproduction.*
 
 # The Body: Privacy Policy
 
@@ -77,3 +77,5 @@ Questions or comments about this policy or the use of personal information may b
 _Last Updated March 30, 2004_
 
 | 
+
+Advertisement
