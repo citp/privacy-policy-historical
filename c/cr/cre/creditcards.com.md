@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the creditcards.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511221602id_/http%3A//www.creditcards.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditcards.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223052846id_/http%3A//www.creditcards.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - CreditCards.com
 
-[](http://www.truste.org/ivalidate.php?url=www.creditcards.com&sealid=101)
+[](http://www.truste.org/ivalidate.php?companyName=CreditCards.com&sealid=101)
 
 _Last Revised: 30th April 2008_
 
@@ -50,7 +50,7 @@ We obtain personally identifiable information about you if you elect to send an 
 The CreditCards.com Blogs website at [http://blogs.creditcards.com](http://blogs.creditcards.com/) allows you to submit comments and feedback on blog posts. In order to comment on these posts, we ask for your name and email address, so we may contact you if needed. Blog comments are moderated by our team, and upon approval, your name and comment will be visible on the Blogs website. Your email address will not be displayed on the site. Please note that you can still comment on the blog posts without needing to enter your name or email address.
 
 _Choice/Opt-out_  
-If you no longer wish to receive our newsletter, you may opt-out of receiving it by following the instructions included in each newsletter, or you may write to us at CreditCards.com, Attn: Newsletter Unsubscribe, 13809 Research Blvd. #906 Austin, TX 78750 to opt-out.
+If you no longer wish to receive our newsletter, you may opt-out of receiving it by following the instructions included in each newsletter, or you may write to us at CreditCards.com, Attn: Newsletter Unsubscribe, 8920 Business Park Drive #350 Austin, TX 78759 to opt-out.
 
 You may not opt-out of receiving email acknowledgements and responses to customer support or media inquiries.
 
@@ -63,7 +63,7 @@ CreditCards.com does NOT share information that we have about you with anyone, e
 **Does CreditCards.com use COOKIES to collect information about me?**   
 A cookie is a small data file that we transfer to your computer's hard drive through your web browser when you visit our site. Cookies enable our systems to recognize your computer so that we can provide you with personalized service and features, and to track traffic patterns. Although our cookies may contain a unique user ID, they do not collect or store any of your personally identifiable information
 
-We employ a third party (WebSideStory) to collect anonymous, non-personally identifiable information to evaluate the effectiveness of our websites. This vendor uses cookies and transparent images called "web beacons" to collect this information. Like cookies, web beacons do not allow us or the vendor to identify you personally. This data helps us understand how visitors use our website, such as the most visited pages and features. WebSideStory does not collect any personally identifiable information from you, and they do not share the non-personally identifiable information collected with anyone else for any other purpose. You may view their privacy policy [here](http://www.websidestory.com/privacy/overview.html). We have no access or control over these types of third party cookies. 
+We employ a third party (Omniture) to collect anonymous, non-personally identifiable information to evaluate the effectiveness of our websites. This vendor uses cookies and transparent images called "web beacons" to collect this information. Like cookies, web beacons do not allow us or the vendor to identify you personally. This data helps us understand how visitors use our website, such as the most visited pages and features. Omniture does not collect any personally identifiable information from you, and they do not share the non-personally identifiable information collected with anyone else for any other purpose. You may view their privacy policy [here](http://www.omniture.com/en/company/acquisitions/visualsciences/privacy/policy). We have no access or control over these types of third party cookies.
 
 Also, in the course of advertising, a third party advertiser may place or recognize a unique cookie on your browser. CreditCards.com assumes no responsibility for any cookies placed on your browser by such third-party advertisers. 
 
