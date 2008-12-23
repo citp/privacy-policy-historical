@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the musichostnetwork.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609193147id_/http%3A//www.musichostnetwork.com/index.php%3Ft%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musichostnetwork.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223013228id_/http%3A//www.musichostnetwork.com/index.php%3Ft%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Music Host Network | Free MP3 downloads, videos, online store, tickets, and more.
+# Music Host Network | Free music community and social network for artist, fans, models, and venues.
 
 ## Music Host Network  
 Privacy Policy
