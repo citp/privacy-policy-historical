@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macmillan.org.uk privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610185119id_/http%3A//www.macmillan.org.uk/Privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macmillan.org.uk privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223093648id_/http%3A//www.macmillan.org.uk/Privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Cancer Care Charity - Macmillan Cancer Support
 
