@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the teachingstrategies.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503043005id_/http%3A//www.teachingstrategies.com/page/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachingstrategies.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223065949id_/http%3A//www.teachingstrategies.com/page/privacyPolicy.cfm) for the most accurate reproduction.*
 
-# Teaching Strategies: Security and Privacy Policies
+# Teaching Strategies, Inc. - Security and Privacy Policies
 
 | 
-
-Security and Privacy Policies
 
 Inside this page: Security Policy | Privacy Policy
 
@@ -38,11 +36,11 @@ Examples of the information we collect include the Internet protocol (IP) addres
 
 
 
-  * **E-Mail Communications** : If you place an order with us, we will only use your e-mail address to communicate with you regarding your order  **unless** you sign up for our e-mail newsletter or our e-mail discussion list. When you subscribe to these lists, you are giving us permission to communicate with you. If you sign up for the e-mail discussion list, you are also providing permission for others in the discussion group to send you e-mails. We are careful to limit the e-mail we send to you to once or twice a month, and only when it is of benefit to you. 
+  * **E-Mail Communications** : If you place an order with us, we will use your e-mail address to communicate with you regarding your order and to send you, from time to time, e-mails about Teaching Strategies' products, services, and events. We will not send you our e-mail newsletter or postings from our e-mail disucssion list **unless** you subscribe to these services. When you subscribe to these lists, you are giving us permission to communicate with you. If you sign up for the e-mail discussion list, you are also providing permission for others in the discussion group to send you e-mails. 
 
 
 
-> It's easy to unsubscribe from our lists, and each e-mail you get from either of our lists will contain information about how to unsubscribe. If you ever have trouble getting off one of our lists, please complete our online [Customer Relations Inquiry Form](http://www.teachingstrategies.com/bookshop/CustomerInquiry.cfm) and a Customer Relations Specialist will remove your name from the list.
+> It's easy to unsubscribe from our newsletter and e-mail list, and each e-mail you get from either our newsletter or e-mail list will contain information about how to unsubscribe. If you ever have trouble unsubscribing, please complete our online [Customer Solutions Inquiry Form](http://www.teachingstrategies.com/bookshop/CustomerInquiry.cfm) and a Customer Solutions Specialist will remove your name from the list.
 
 **What About Cookies?**
 
@@ -81,17 +79,11 @@ Information about our customers is an important part of our business, and we  
 
 **Still Concerned?**
 
-If you have any concerns about privacy on the Teaching Strategies Web site, please complete our online [Customer Relations Inquiry Form](http://www.teachingstrategies.com/bookshop/CustomerInquiry.cfm). A Customer Relations Specialist will address your concerns.   
+If you have any concerns about privacy on the Teaching Strategies Web site, please complete our online [Customer Solutions Inquiry Form](http://www.teachingstrategies.com/bookshop/CustomerInquiry.cfm). A Customer Solutions Specialist will address your concerns.   
 
 
 back to top
 
   
-
-
-* * *
-
-|  | 
-
   
-[](http://www.teachingstrategies.com/pages/benefitsofmembership.cfm)
+---|---
