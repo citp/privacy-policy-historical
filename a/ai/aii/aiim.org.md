@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the aiim.org privacy policy that was archived on 2008-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080423054702id_/http%3A//www.aiim.org/article-aiim.asp%3FID%3D20575) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiim.org privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223125838id_/http%3A//www.aiim.org/Privacy.aspx) for the most accurate reproduction.*
 
 # AIIM International Privacy Statement
 
-AIIM International Privacy Statement
-
-* * *
-
-  
 This privacy statement discloses the privacy practices for aiim.org and other AIIM online properties, collectively referred to as aiim.org. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. By displaying this statement, this website has agreed to notify you of:
 
 1\. What personally identifiable information of yours or third party personally identifiable information is collected from you through the website
