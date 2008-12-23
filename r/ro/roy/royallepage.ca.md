@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royallepage.ca privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026200751id_/http%3A//www.royallepage.ca/CMSTemplates/GlobalNavTemplate.aspx%3Fid%3D239) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royallepage.ca privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223054024id_/http%3A//www.royallepage.ca/CMSTemplates/GlobalNavTemplate.aspx%3Fid%3D239) for the most accurate reproduction.*
 
 # Royal LePage Canada: Canadian Real Estate and MLS® Listings
 
@@ -20,7 +20,7 @@ In the course of providing these products and services, Royal LePage may collect
 
 "Personal Information" means information about an identifiable individual. This may include, without limitation, the individual's name, home address, age, income, credit history, or other financial information, credit card information, personal preferences, and other information about his or her family. Personal Information does not include the name, title, business address, or telephone number of an employee of an organization.
 
-The Royal LePage Privacy Policy is based on, and complies with, Canada's Personal Information Protection and Electronic Documents Act ("PIPEDA"), which includes the Ten Privacy Principles outlined in the Canadian Standards Association Model Code for the Protection of Personal Privacy. For more information about this legislation, please visit the official Web site of the Privacy Commission of Canada at http://www.privcom.gc.ca.
+The Royal LePage Privacy Policy is based on, and complies with, Canada's Personal Information Protection and Electronic Documents Act ("PIPEDA"), which includes the Ten Privacy Principles outlined in the Canadian Standards Association Model Code for the Protection of Personal Privacy. For more information about this legislation, please visit the official Web site of the Privacy Commission of Canada at <http://www.privcom.gc.ca/index_f.asp>.
 
 This Privacy Policy describes the ten principles that Royal LePage follows to ensure that we protect your Personal Information when we collect, use, or disclose it in the course of carrying on commercial activities in Canada. All of our employees who have access to Personal Information must adhere to the Royal LePage Privacy Policy and related procedures. To this end, Royal LePage has appointed a privacy officer to ensure compliance by all Royal LePage employees and to address your privacy concerns.
 
