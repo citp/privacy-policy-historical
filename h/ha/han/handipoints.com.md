@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handipoints.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513151350id_/http%3A//www.handipoints.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handipoints.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223062859id_/http%3A//www.handipoints.com/privacy.html) for the most accurate reproduction.*
 
 # Handipoints Privacy Policy
 
@@ -35,7 +35,7 @@ Children
   * Handipoints does not contact children under age 13 about special offers or for marketing purposes without a parent’s permission. 
   * Handipoints does not ask a child under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion. 
   * For children’s areas of the website, Handipoints will obviously and completely delineate between the website’s own editorial content and third party advertising. 
-  * Some personally identifiable information, like the e-mail address, is not necessary to the operation of a child’s account. To edit this optional personally identifiable information, log into the parent account and click on the word "edit" next to any child’s account. Any questions should be addressed to support@handipoints.com.
+  * Some personally identifiable information, like the e-mail address, is not necessary to the operation of a child’s account. To edit this optional personally identifiable information, log into the parent account and click on the word "edit" next to any child’s account. Any questions should be addressed to [support@handipoints.com](mailto:support@handipoints.com).
 
 
 
@@ -83,6 +83,8 @@ Confidentiality and Security
 
   * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
   * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
+  * All personal information is stored in a password protected database behind an encrypted, secure firewall.
+  * We do not store credit card or payment information on our servers.
 
 
 
