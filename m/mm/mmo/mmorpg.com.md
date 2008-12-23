@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mmorpg.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516071129id_/http%3A//www.mmorpg.com/disclaimers.cfm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmorpg.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223045618id_/http%3A//www.mmorpg.com/disclaimers.cfm%23privacy) for the most accurate reproduction.*
 
-# MMORPG.com - Your Headquarters for Massive Multiplayer Online Role-Playing Games!
+# MMORPG.com - Your Headquarters for Online Multiplayer Games, RPG Online Games, Online Role Playing Free Games!
 
 ## Terms of Use
 
@@ -117,6 +117,8 @@ During the account creation process the user has the ability to "opt-in" to two 
 
   * MMORPG.COM Newsletter 
     * Our newsletter is only sent from us, and no more than once per week. This service is used to notify our members about the status of the site and current events. This newsletter might contain advertisements or endorsements as a smaller part of the message, but never for this sole purpose.
+  * MMORPG.COM Daily Digest 
+    * Our daily digest is only sent from us once per day 5 days a week monday through friday. This service is used to notify our members about the status of the site and current events. The daily digest might contain advertisements or endorsements as a smaller part of the message, but never for this sole purpose.
   * Promotional Mailing 
     * This list will be used to notify our members of special promotions taking place related to MMORPG games. It will only be sent from us. These offers can be for beta test offers or other promotions from us or other game companies. This mailing will never be sent more than four times per month.
 
