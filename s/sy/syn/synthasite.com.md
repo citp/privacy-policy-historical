@@ -1,47 +1,76 @@
-> *The following text is extracted and transformed from the synthasite.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011114327id_/http%3A//www.synthasite.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synthasite.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223053406id_/http%3A//www.synthasite.com/privacy) for the most accurate reproduction.*
 
-# Synthasite
+# SynthaSite, Inc Privacy Policy
 
-Synthasite (Pty) Ltd is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Synthasite (Pty) Ltd. Web site and Web Applications and governs data collection and usage (hereafter the "Synthasite toolset"). By using the Synthasite toolset, you consent to the data practices described in this statement. The user/client of the "Synthasite toolste" will be known as "you".
+###### Last updated September 3, 2008
 
-Collection of your Personal Information 
+This privacy policy ("Policy") explains how personal information is collected, used, and disclosed by SynthaSite, Inc ("SynthaSite") with respect to your use of the web site located at www.synthasite.com (the "Site") so you can make an informed decision about using the Site and the web site creation and hosting services offered by SynthaSite. Please note that this Policy does not apply to, and we are not responsible in any manner for, any information you provide to third parties in connection with web sites hosted by SynthaSite ("User Sites") or how the third parties who operate such User Sites may use the personal information you provide to them. Such information is subject to the privacy practices of such User Site, and we encourage you to become familiar with their privacy practices before disclosing information directly to them. Registration forms contain both mandatory fields (as indicated) and non-mandatory fields; if you choose not to complete the mandatory fields then SynthaSite may not be able to respond to your request or activate your option choices. By using the SynthaSite Toolset and/or the SynthaSite Web Site, you consent to any transfer of personal information, collected by SynthaSite, outside your country for the purposes of storing the information where SynthaSite and/or its agents maintain their facilities. 
 
-Synthasite (Pty) Ltd. collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Synthasite (Pty) Ltd also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites. 
+We reserve the right to change this Policy at any time. If we make any material changes to our Policy, we will post a new policy on our Site and update the “last updated” date set forth above. Therefore, we encourage you to check our Policy whenever you use the service to see if it has been updated since your last visit. Your use of the Site after the revised Policy has been posted will constitute your consent to such revised Policy. If you are concerned about how your personal information is used, you should subscribe to our blog RSS feed at [http://blog.synthasite.com](http://blog.synthasite.com/) or e-mail us at [support@synthasite.com](mailto:support@synthasite.com). This will not prevent SynthaSite from using your personal information for the administration or operation of the Site or other nonmarketing purposes described in this Policy.   
 
-There is also information about your computer hardware and software that is automatically collected by Synthasite (Pty) Ltd. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Synthasite (Pty) Ltd for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Synthasite toolset. 
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Synthasite (Pty) Ltd public message boards, this information may be collected and used by others. Note: Synthasite (Pty) Ltd does not read any of your private online communications. 
+#### Our postal address is:
 
-Synthasite (Pty) Ltd. encourages you to review the privacy statements of Web sites you choose to link to from Synthasite toolset so that you can understand how those Web sites collect, use and share your information. Synthasite (Pty) Ltd is not responsible for the privacy statements or other content on Web sites outside of the Synthasite toolset. 
+51 Federal Street, Suite 401, San Francisco, CA 94107. We can be reached via e-mail at support@synthasite.com 
 
-Use of your Personal Information 
+#### PERSONAL INFORMATION
 
-Synthasite (Pty) Ltd. collects and uses your personal information to operate the Synthasite toolset and deliver the services you have requested.Synthasite toolset also uses your personally identifiable information to inform you of other products or services available from Synthasite (Pty) Ltd and its affiliates. Synthasite (Pty) Ltd may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. 
+We collect two basic types of information with our service, namely personal information and aggregate information. As used herein, the term “personal information” means information that specifically identifies an individual (such as a name and e-mail address), and demographic and other information about an individual when directly linked to personally identifiable information. A user name may be personal information if it includes personally identifying information such as a first and last name. Our definition of personal information does not include “aggregate” information. Aggregate information is data we collect about a group or category of services or users from which individual user identities have been removed. In other words, information on how you use our service may be collected and combined with information about how others use the service, but no personal information will be included in the resulting data. Aggregate data helps us understand trends in our users’ needs so that we can better consider new features or otherwise tailor our service. This policy in no way restricts or limits our collection and use of aggregate information, and we may share aggregate information about our users with third parties for various purposes, including to help us better understand and improve our service, and for advertising and marketing purposes. 
 
-Synthasite (Pty) Ltd. does not sell, rent or lease its customer lists to third parties. Synthasite (Pty) Ltd may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Synthasite (Pty) Ltd may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Synthasite (Pty) Ltd, and they are required to maintain the confidentiality of your information. 
+### DATA COLLECTED
 
-Synthasite (Pty) Ltd. does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent. 
+#### ACTIVE COLLECTION
 
-Synthasite (Pty) Ltd. keeps track of the Web sites and pages our customers visit within Synthasite toolset, in order to determine what Synthasite (Pty) Ltd services are the most popular. This data is used to deliver customized content and advertising within the Synthasite toolset to customers whose behaviour indicates that they are interested in a particular subject area. 
+Personal information may be collected in a number of ways when you visit our Site. We may collect certain information you voluntarily provide to us which may contain personal information. For example, we may collect your name, address, email address, user name and other contact and demographic information when you register and set up an account or contact us by e-mail or other means for any reason. We may also collect payment information if applicable. If In addition, from time to time we may collect demographic, contact or other personal information you voluntarily provide to us, such as in connection with your participation in surveys, sweepstakes, contests, games, promotional offers, and other activities on the Site. 
 
-Synthasite toolset Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Synthasite (Pty) Ltd or the site; (b) protect and defend the rights or property of Synthasite (Pty) Ltd; and, (c) act under exigent circumstances to protect the personal safety of users of Synthasite (Pty) Ltd, or the public. 
+For each registered user of the Site (each a "Registered User") to the SynthaSite Web Site, our Web server automatically recognizes any header information that is shared with our Web server. SynthaSite collects the IP address & header information, and may collect the following: 
 
-Use of Cookies 
+  * The e-mail address of Registered Users of our Web Site and the SynthaSite Toolset; 
+  * The e-mail addresses of Registered Users who post messages to our bulletin board, communicate with us via e-mail, and/or make postings to our chat areas; 
+  * Aggregate information on what pages Registered Users access or visit; 
+  * Registered User-specific information on what pages Registered Users access or visit; and 
 
-The Synthasite toolset uses "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. 
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the Synthasite toolset, or register with Synthasite (Pty) Ltd site or services, a cookie helps Synthasite (Pty) Ltd to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Synthasite toolset, the information you previously provided can be retrieved, so you can easily use the Synthasite toolset features that you customized. 
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Synthasite (Pty) Ltd toolset, services or Web sites you visit. 
+Personal information may also be collected if you leave comments or other communications on the Site, such as on the SynthaSite Bulletin Board and/or chat areas, and/or send email directly to SynthaSite. By doing so your name and the content of your communication may be made public. 
 
-Security of your Personal Information 
+#### AUTOMATICALLY COLLECTED INFORMATION
 
-Synthasite (Pty) Ltd. secures your personal information from unauthorized access, use or disclosure. Synthasite (Pty) Ltd secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
+As mentioned above, we automatically receive certain types of information whenever you interact with us. For example, when you use the Web site, our systems may automatically collect your IP address and the type of operating system or browser you use. We may also collect information pertaining to your account activity, and standard access information, such as the time and date of your accessing the service and your usage of the service. We use such information for purposes such as compiling aggregated statistics about service usage. 
 
-Changes to this Statement 
+We may also use cookie technology to collect information. Among other things, the use of cookies enables us to: 
 
-Synthasite (Pty) Ltd. will occasionally update this Statement of Privacy to reflect company and customer feedback. Synthasite (Pty) Ltd encourages you to periodically review this Statement to be informed of how Synthasite (Pty) Ltd is protecting your information.
+  * Store Registered User’s preferences; 
+  * Record session information, such as items that visitors and Registered Users add to their shopping cart; 
+  * Record Registered User-specific information on what pages Registered Users access or visit; 
+  * Alert Registered Users to new areas that we think might be of interest to them when they return to our site; 
+  * Record past activity at a site in order to provide better service when visitors and Registered Users return to our site; and 
+  * Deliver advertising targeted to your interests and ensure that visitors and Registered Users are not repeatedly served the same messages or offers.
 
-Contact Information 
 
-Synthasite (Pty) Ltd. welcomes your comments regarding this Statement of Privacy. If you believe that Synthasite (Pty) Ltd has not adhered to this Statement, please contact Synthasite (Pty) Ltd at [contact@synthasite.com](mailto:contact@synthasite.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+
+A cookie is a small amount of data, often including an anonymous unique identifier, which is sent to your browser from a web site’s computers and stored on your computer’s hard drive. Most browsers automatically accept cookies as the default setting. You can modify the setting to reject cookies or to prompt you before accepting a cookie from the sites you visit by editing browser options. However, if a browser is set not to accept cookies or if a user rejects a cookie, some portions of the Site and the service may not function properly. For example, you may not be able to sign in and may not be able to access certain Site features or services.
+
+#### INFORMATION ABOUT CHILDREN 
+
+Our service is not intended to be used by children under the age of 13, and we do not knowingly collect personal information from children under the age of 13 except in compliance with applicable law. 
+
+#### USE AND SHARING OF INFORMATION
+
+In general, we use personal information we collect to process your requests or transactions, to provide you with information or services you request, to inform you about other information, events, promotions, products or services we think will be of interest to you, to facilitate your use of, and our administration and operation of, the Site, and for the purpose for which the information was provided. We may also use the personal information we collect to improve the content of our Web page and to customize the advertising and the content and/or layout of our page for our visitors and individual Registered Users. We also use this information to notify Registered Users about updates to our Web site, and to contact Registered Users for marketing purposes. 
+
+We will not share the personal information we collect from you through the Site with any other company except as provided in this Policy, as it may be revised form time to time. We reserve the right to disclose or transfer such information to a third party (a) if you request us to do so or we otherwise have your consent, (b) if we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities, respond to any claims, or to protect the rights, property or safety of SynthaSite, our users, our employees or the public, including without limitation to protect SynthaSite or our users or the public from fraudulent, abusive, inappropriate or unlawful use of our Site, (c) if we believe in good faith that an emergency involving immediate danger of death or serious physical injury to any person, or other irreparable injury, including economic interests of SynthaSite or a third party, requires disclosure of the information, and (d) in connection with an acquisition, merger, or sale of all or a substantial portion of our business. 
+
+We may also share personal information with vendors, consultants and other service providers (“Service Providers”) who are engaged by or working with us in connection with the operation of the Site or the Services and who need access to such information to carry out their work for us. In some cases, the Service Provider may be directly collecting the information from you on our behalf. We may also share personal information with other third parties when you request that we do so or otherwise give us your express or implied consent. We are not responsible for the actions of Service Providers or other third parties, nor are we responsible for any additional information you provide directly to these Service Providers or other third parties, and we encourage you to become familiar with their privacy practices before disclosing information directly to them. Note that nothing herein restricts the sharing of aggregate information, which may be shared with third parties without your consent. 
+
+#### Network and Information Security
+
+We use reasonable efforts to prevent unauthorized release of or access to your personal data. However, we cannot guarantee that your information will not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others. If SynthaSite learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. SynthaSite may also post a notice on the Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach, you should notify us at [support@synthasite.com](mailto:support@synthasite.com). 
+
+#### ELECTRONIC COMMUNICATIONS
+
+If you do not want to receive marketing and promotional e-mails from us in the future, please let us know by sending us an e-mail to [support@synthasite.com](mailto:support@synthasite.com). This will not prevent us from sending you operational, account related or other non-marketing emails. 
+
+#### CONTACTING US
+
+If you feel that this site is not following its stated information policy, you may contact us at [support@synthasite.com](mailto:support@synthasite.com). 
