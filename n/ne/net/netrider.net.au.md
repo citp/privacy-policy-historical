@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the netrider.net.au privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414000445id_/http%3A//www.netrider.net.au%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netrider.net.au privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223154147id_/http%3A//www.netrider.net.au%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Netrider - Connecting motorcycle and motorbike riders in Australia. News, Forums, Links, Classifieds, Articles, Events Calendar, Merchandise, and more...
 
+---  
+Interested in advertising on Netrider? See our [advertising page](https://web.archive.org/?page=advertising) for more information and rates  
+  
 Netrider Privacy Statement
 
   
