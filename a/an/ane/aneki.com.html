@@ -1,347 +1,375 @@
-<!--The following is the downloaded HTML source of the aneki.com privacy policy that was archived on 2007-07-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070701072251id_/http%3A//www.aneki.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aneki.com privacy policy that was archived on 2008-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081223220517id_/http%3A//www.aneki.com/privacy.html) for the most accurate reproduction.-->
 
-<html><head><title>Privacy Statement </title>
+<html><head>
+<title>Privacy Statement</title>
 <meta name="description" content="">
 <meta name="keywords" content="">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="-1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Expires" content="-1">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Expires" content="-1">
-<style type="text/css">A:link {
-	COLOR: blue; TEXT-DECORATION: none;font-family:tahoma;font-size:10pt;
-}
-A:visited {
-	COLOR: #6666CC; TEXT-DECORATION: none;font-family:tahoma;font-size:10pt;
-}
-A:hover {
-	COLOR: red; TEXT-DECORATION: underline;font-family:tahoma;font-size:10pt;
-}
-</style>
 
-
-
-<meta content="MSHTML 5.50.4134.600" name="GENERATOR">
-<script language="javascript">
-       var sMsg = "";
-       var sMax = 500;
-
-       function checkInput(frm) {
-       /* Checks for Recipient and Sender values (required). Then validates email addresses. */
-
-        var bPassChk = true;
-        if (frm.recipient.value == "") {
-                sMsg = "Please enter the the recipient's e-mail address.";
-                bPassChk = false;
-        }
-        else if (frm.senderemail.value == "") {
-                sMsg = "Please enter your e-mail address.";
-                bPassChk = false;
-        }else {
-                /* validate "To" email format */
-                sMsg = "A recipient's ";
-					bPassChk = validateEmail(frm.recipient.value);
-					if (bPassChk) {
-						/* validate "From" email format */
-						sMsg = "Your ";
-						bPassChk = validateEmail(frm.senderemail.value);
-					}
-        }
-
-        if (!bPassChk) {
-                alert(sMsg);
-        }else{
-				
-            	frm.submit();
-				
-        }
-       }
-
-      function validateEmail(sEml) {
-			   var bOK;
-			   if (sEml.charAt(sEml.length-1) == ",") {sEml = sEml.substr(0,sEml.length-1);}
-			   sEml = sEml.replace(/\s/g,"");
-			   var aEml = sEml.split(",");
-			   if (aEml.length > 100) {
-					sMsg = "You have entered " + aEml.length + " email addresses. Please limit your entries to  100.";
-					bOK = false;
-					return bOK;
-				}
-			   for (var i=0;i<aEml.length;i++) {
-						bOK = validateEmail2(aEml[i])
-						if (!bOK) {
-							sMsg += "e-mail address is not valid. Please re-enter.";
-							break;
-						}
-			   }
-			   return bOK;
-       }
-
-       function validateEmail2(strValue) {
-			    var objRegExp  = /^[a-z0-9]([a-z0-9_\-\.]*)@([a-z0-9]{1,}[a-z0-9_\-\.]*)(\.[a-z]{2,4}(\.[a-z]{2}){0,2})$/i;
-  				return objRegExp.test(strValue);
-		   }
-
-      /* function validateText(oMsg){
-			   // make substitutions to put a space after each "." and "@" in the message body
-			   sText = oMsg.value;
-			   sText = sText.replace(/\./g,". ");
-			   sText = sText.replace(/@/g,"@ ");
-			   sText = sText.replace(/</g,"< ");
-			   oMsg.value = sText;
-			   var bLen = checkLength(sText.length);
-			   return bLen;
-		   } */
-
-       function checkMsgLength(oMsg) {
-			  var iLen = oMsg.value.length;
-			  if (iLen > sMax) {
-					alert("Message length is limited to " + sMax + " characters. Your message is currently " + iLen + ".");
-					return true;
-			   }else{
-			   		return false;
-		   		}
-			}
-
-</script>
-
-<script language="JavaScript">
-
-function popUp(URL) {
-day = new Date();
-id = day.getTime();
-eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=820,height=510,left = 300,top = 100');");
-}
-</script>
-
+<link rel="Stylesheet" type="text/css" href="http://www.aneki.com/style1.css">
+<!-- ValueClick Media POP-UNDER CODE v1.8 for aneki.com (12 hour) -->
+<script language="javascript"><!--
+var dc=document; var date_ob=new Date();
+dc.cookie='h2=o; path=/;';var bust=date_ob.getSeconds();
+if(dc.cookie.indexOf('e=llo') <= 0 && dc.cookie.indexOf('2=o') > 0){
+dc.write('<scr'+'ipt language="javascript" src="http://media.fastclick.net');
+dc.write('/w/pop.cgi?sid=8916&m=2&tp=2&v=1.8&c='+bust+'"></scr'+'ipt>');
+date_ob.setTime(date_ob.getTime()+43200000);
+dc.cookie='he=llo; path=/; expires='+ date_ob.toGMTString();} // -->
+</script><script language="javascript" src="http://media.fastclick.net/w/pop.cgi?sid=8916&amp;m=2&amp;tp=2&amp;v=1.8&amp;c=17"></script>
+<!-- ValueClick Media POP-UNDER CODE v1.8 for aneki.com -->
 </head>
-<body bgcolor="#0066ff" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
+<body>
+<div id="container">
+<div id="header">
 
-<table bgcolor="#0066ff" cellspacing="0" cellpadding="0" width="800">
-<tbody>
-<tr>
-<td valign="bottom">
-<a href="http://www.aneki.com/index.html"><font style="impact" color="#ffffff" size="8">aneki</font><font style="impact" color="#000000" size="8">.com</font></a> 
-&nbsp; &nbsp;
-<a href="#"><font color="#0000ff">&nbsp;  </font></a>  &nbsp; &nbsp;
-<a href="http://www.aneki.com/index.html" onclick="this.href=FCx(this.href);">
-<font color="#ffffff">Home  </font></a> &nbsp;&nbsp; 
-<a href="http://www.aneki.com/richest.html" onclick="this.href=FCx(this.href);">
-<font color="white">Richest  </font></a>&nbsp;&nbsp;  
-<a href="http://www.aneki.com/populated.html" onclick="this.href=FCx(this.href);">
-<font color="white">Most Populated   </font></a> &nbsp;&nbsp; 
-<a href="http://www.aneki.com/largest.html" onclick="this.href=FCx(this.href);">
-<font color="white">Largest  </font></a>&nbsp;&nbsp;
- <a href="http://www.aneki.com/expensive.html" onclick="this.href=FCx(this.href);">
-<font color="white">Most Expensive  </font></a>&nbsp;&nbsp;
- <a href="http://www.aneki.com/poorest.html" onclick="this.href=FCx(this.href);">
-<font color="white">Poorest</font></a>&nbsp;&nbsp;    
-<a href="http://www.aneki.com/lists.html" onclick="this.href=FCx(this.href);">
-<font color="white">More Lists...</font></a>
+<div id="horizontal">
+<div id="horizontal-nav">
+<!--
+<div id="search">
 
-</td>
-</tr>
-<tr><td>
+</div>
+-->
+<form action="http://www.aneki.com/world_records.php">
+<a class="logo-link" href="http://www.aneki.com/index.html">
+<span id="logo-part-1">aneki</span>
+<span id="logo-part-2">.com</span>
+</a>
+<span id="horizontal-nav-links">
+
+<a class="horizontal-nav-links" href="http://www.aneki.com/richest.html" onclick="this.href=FCx(this.href);">Richest</a>
+<img src="http://www.aneki.com/images/bullet4x4.gif">
+<a class="horizontal-nav-links" href="http://www.aneki.com/populated.html" onclick="this.href=FCx(this.href);">Most Populated</a>
+<img src="http://www.aneki.com/images/bullet4x4.gif">
+<a class="horizontal-nav-links" href="http://www.aneki.com/largest.html" onclick="this.href=FCx(this.href);">Largest</a>
+<img src="http://www.aneki.com/images/bullet4x4.gif">
+<a class="horizontal-nav-links" href="http://www.aneki.com/expensive.html" onclick="this.href=FCx(this.href);">Most Expensive</a>
+<img src="http://www.aneki.com/images/bullet4x4.gif">
+<a class="horizontal-nav-links" href="http://www.aneki.com/poorest.html" onclick="this.href=FCx(this.href);">Poorest</a>
+<img src="http://www.aneki.com/images/bullet4x4.gif">
+<a class="horizontal-nav-links" href="http://www.aneki.com/lists.html" onclick="this.href=FCx(this.href);">Top 10 Lists..</a>
+&nbsp; <input name="query" type="text" size="10">&nbsp;<input type="submit" value="Go">
+</span></form>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
 <center>
-<!-- FASTCLICK.COM 728x90 and 468x60 BANNER CODE for aneki.com -->
-
-                        
+<script type="text/javascript"><!--
+google_ad_client = "pub-5472506631426118";
+/* 728x90, created 11/17/08 */
+google_ad_slot = "2358815697";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
 </center>
+
+<div id="horizontal-heading">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tbody><tr>
+<td align="middle">
+<h2>
+Privacy Statement
+</h2>
+</td>
+</tr>
+</tbody></table>
+
+
+
+</div>
+
+<table id="theTable" cellspacing="10" cellpadding="0">
+<tbody><tr>
+
+
+<td id="cell-1">
+
+
+<div class="adContainer">
+<script type="text/javascript"><!--
+google_ad_client = "pub-5472506631426118";
+/* 250x250, created 12/2/08 */
+google_ad_slot = "4388303325";
+google_ad_width = 250;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+<iframe src="http://www.aneki.com/geo_target.php" width="310" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0">
+
+<table width=300 cellpadding=0 cellspacing=1 bgcolor=#003399>
+<tr bgcolor=#ffffff>
+<td valign=top align=left width="300">
+<table bgcolor=#003399 width ="300" ><tr><td>
+<font color=#ffffff><b>See Also</b></font>
+</td></tr></table>
+<table cellpadding=2 width ="300" bgcolor=#eeeeee>
+<tr><td valign=top>&#149;&nbsp;</td><td valign=top><a href="http://www.aneki.com/women_leaders.html"> Countries with Women Leaders</a>
 </td></tr>
+<tr><td valign=top>&#149;&nbsp;</td><td valign=top><a href="http://www.aneki.com/prison.html">Countries with the Largest Prison Populations</a>
+</td></tr>
+<tr><td valign=top></td><td valign=top><center><a href="http://www.aneki.com/lists.html"><font size="-2">more lists</font></a></center>
+</td></tr>
+</table>
+</td>
+</center>
+</tr>
+</table>
+
+</iframe>
+
+<div class="adContainer">
+<script type="text/javascript"><!--
+google_ad_client = "pub-5472506631426118";
+/* 160x600, created 11/18/08 */
+google_ad_slot = "2717062245";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+
+<br>
+
+<div class="adContainer">
+<table border="0" cellspacing="5" cellpadding="0">
+<tbody><tr>
+<td width="120">
+
+
+</td>
+<td>
+<div class="adContainer">
+
+</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+</td>
+
+<td id="cell-2">
+<div class="box-contents-table">
+
+
+<table cellspacing="5" cellpadding="5" border="0">
+ <tbody><tr><td>
+Aneki.com respects the privacy of visitors to our website. Individually identifiable information
+about you is not collected unless it was deliberately sent by you. We do not share any information about you 
+with any third party without your permission.
+
+<p><b>What Information do we collect?</b><br>
+We are able to and do collect such information as the IP address, browser type, browser language and time of day
+of each visit to any page on our website. 
+
+</p><p><b>With whom do we share information?</b><br>
+We may share information with advertisers, business partners and other third parties. The type of 
+information we share is statistical in nature. Examples of such information are our average monthly number of visitors; what time of
+day traffic peaks and also demographical information based on IP adddress data. 
+
+</p><p><b>Links to other sites</b><br>
+Aneki.com contains links to other websites. We do not control and are not responsible for the content or practices of these sites
+
+</p><p><b>Cookies</b><br>
+Aneki.com does not make use of "cookies".
+
+</p><p><b>More Information</b><br>
+For more information please contact: <a class="list-links" href="mailto:info@aneki.com">info@aneki.com</a>
+        </p><p> 
+<br> 
+<br>
+
+        </p><p> 
+
+
+</p></td></tr>
 
 </tbody></table>
-<br>
-<table cellspacing="0" cellpadding="0">
+
+
+</div><br>
+
+
+
+<table cellspacing="5" cellpadding="5" border="0"><tbody><tr><td><p>
+
+</p></td></tr></tbody></table>
+
+<div id="full-list">
+<font face="verdana" size="2"> &nbsp;&nbsp;&nbsp;&nbsp;</font>
+</div>
+
+<div id="social-bookmarking">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tbody><tr>
-<td bgcolor="#003399" width="150" valign="top">
-<table width="150" cellspacing="0" cellpadding="0"><tbody><tr><td bgcolor="#000000" width="150"><font color="#ffffff"><b>World Regions</b></font></td></tr></tbody></table>
-<table width="150" cellpadding="10"><tbody><tr><td width="150">
-<a href="http://www.aneki.com/africa.html" onclick="this.href=FCx(this.href);">
-<font color="#ffffff"><b>Africa</b></font></a><br>
-<a href="http://www.aneki.com/middle_east.html" onclick="this.href=FCx(this.href);">
-<font color="#ffffff"><b>Middle East</b></font></a><br>
-<a href="http://www.aneki.com/europe.html" onclick="this.href=FCx(this.href);">
-<font color="#ffffff"><b>Europe</b></font></a><br>
-<a href="http://www.aneki.com/asia.html" onclick="this.href=FCx(this.href);">
-<font color="#ffffff"><b>Asia</b></font></a><br>
-<a href="http://www.aneki.com/north_america.html" onclick="this.href=FCx(this.href);">
-<font color="#ffffff"><b>North America</b></font></a><br>
-<a href="http://www.aneki.com/central_america.html" onclick="this.href=FCx(this.href);">
-<font color="#ffffff"><b>Central America </b></font></a><br>
-<a href="http://www.aneki.com/caribbean.html" onclick="this.href=FCx(this.href);">
-<font color="#ffffff"><b>The Caribbean</b></font></a><br>
-<a href="http://www.aneki.com/south_america.html" onclick="this.href=FCx(this.href);">
-<font color="#ffffff"><b>South America</b></font></a><br>
-<a href="http://www.aneki.com/oceania.html" onclick="this.href=FCx(this.href);">
-<font color="#ffffff"><b>Oceania</b></font></a><br>
-<br>
-<a href="http://www.aneki.com/world_map.html" onclick="this.href=FCx(this.href);">
-<font color="#ffffff"><b>World Map</b></font></a><br>
-<br>
+<td align="left" valign="top">
 
-<a href="http://www.aneki.com/cities.html" onclick="this.href=FCx(this.href);">
-<font color="#ffffff"><b>Cities</b></font></a><br>
-<a href="http://www.aneki.com/map.html" onclick="this.href=FCx(this.href);">
-<font color="#ffffff"><b>Maps</b></font></a><br>
-<a href="http://www.aneki.com/flag.html" onclick="this.href=FCx(this.href);">
-<font color="#ffffff"><b>Flags</b></font></a><br>
-<br>
 
-<font color="#ffffff"><b>Travel</b></font><br>
-&nbsp;<font color="#ffffff">•</font>&nbsp;<a href="http://www.aneki.com/embassies.html" onclick="this.href=FCx(this.href);">
-<font color="#ffffff">Embassies </font></a><br>
-&nbsp;<font color="#ffffff">•</font>&nbsp;<a href="http://www.aneki.com/consulates.html" onclick="this.href=FCx(this.href);">
-<font color="#ffffff">Consulates </font></a><br>
-&nbsp;<font color="#ffffff">•</font>&nbsp;<a href="http://www.aneki.com/visas.html" onclick="this.href=FCx(this.href);">
-<font color="#ffffff">Visas</font></a><br>
-&nbsp;<font color="#ffffff">•</font>&nbsp;<a href="http://www.aneki.com/passports.html" onclick="this.href=FCx(this.href);">
-<font color="#ffffff">Passports</font></a><br>
-<br>
-<font color="#ffffff"><b>Shop</b></font><br>
-&nbsp;<font color="#ffffff">•</font>&nbsp;<a href="http://www.aneki.com/recipes.html" onclick="this.href=FCx(this.href);">
-<font color="#ffffff">Recipes </font></a><br>
-&nbsp;<font color="#ffffff">•</font>&nbsp;<a href="http://www.aneki.com/books.html" onclick="this.href=FCx(this.href);">
-<font color="#ffffff">Books </font></a><br>
-&nbsp;<font color="#ffffff">•</font>&nbsp;<a href="http://www.aneki.com/music.html" onclick="this.href=FCx(this.href);">
-<font color="#ffffff">Music</font></a><br>
-&nbsp;<font color="#ffffff">•</font>&nbsp;<a href="http://www.aneki.com/dvds.html" onclick="this.href=FCx(this.href);">
-<font color="#ffffff">Dvds</font></a><br>
-&nbsp;<font color="#ffffff">•</font>&nbsp;<a href="http://www.aneki.com/dictionaries.html" onclick="this.href=FCx(this.href);">
-<font color="#ffffff">Dictionaries</font></a><br>
-<br>
-<font color="#ffffff"><b>Sports</b></font><br>
-&nbsp;<font color="#ffffff">•</font>&nbsp;<a href="http://www.aneki.com/athletes.html" onclick="this.href=FCx(this.href);">
-<font color="#ffffff">Athletes </font></a><br>
-&nbsp;<font color="#ffffff">•</font>&nbsp;<a href="http://www.aneki.com/performance.html" onclick="this.href=FCx(this.href);">
-<font color="#ffffff">Performance</font></a><br>
-<p>
-<script type="text/javascript"><!--
-google_ad_client = "pub-5472506631426118";
-google_ad_width = 120;
-google_ad_height = 600;
-google_ad_format = "120x600_as";
-google_ad_channel ="";
-google_color_border = "003399";
-google_color_bg = "003399";
-google_color_link = "ffffff";
-google_color_url = "ffffff";
-google_color_text = "ffffff";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+<a href="http://www.aneki.com/spreadtheword.php">Email this page
+
+</a></td>
+<td align="right" valign="top">
+
+<script type="text/javascript">
+addthis_pub             = 'aneki';
+addthis_logo_background = 'EFEFFF';
+addthis_logo_color      = '666699';
+addthis_brand           = 'Aneki.com';
+addthis_options         = 'favorites, email, digg, delicious, myspace, facebook, google, live, more';
 </script>
-
-
-
-</p></td></tr></tbody></table>
-
-
-
-
+<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-share.gif" width="125" height="16" border="0" alt=""></a>
+<script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
 </td>
-<td bgcolor="#ffffff" align="left" valign="top">
-<table cellspacing="5" cellpadding="5"><tbody><tr><td width="600">
-<table cellspacing="5" cellpadding="5" border="0"> <tbody><tr><td>Aneki.com respects the privacy of visitors to our website. Individually identifiable informationabout you is not collected unless it was deliberately sent by you. We do not share any information about you with any third party without your permission.<p><b>What Information do we collect?</b><br>We are able to and do collect such information as the IP address, browser type, browser language and time of dayof each visit to any page on our website. </p><p><b>With whom do we share information?</b><br>We may share information with advertisers, business partners and other third parties. The type of information we share is statistical in nature. Examples of such information are our average monthly number of visitors; what time ofday traffic peaks and also demographical information based on IP adddress data. </p><p><b>Links to other sites</b><br>Aneki.com contains links to other websites. We do not control and are not responsible for the content or practices of these sites</p><p><b>Cookies</b><br>Aneki.com does not make use of "cookies".</p><p><b>More Information</b><br>For more information please contact: <a href="mailto:info@aneki.com">info@aneki.com</a>        </p><p> <br> <br>        </p><p> </p></td></tr></tbody></table>
-</td></tr></tbody></table>
-<p>
-</p><p>
+</tr>
+</tbody></table>
+</div>
 
-
-
-</p><p>
+<br>
 
 
 
 
 
 
-<br><br><br><br><br><br><br><br><br>
-</p><center> <a href="http://www.aneki.com/about.html">About aneki.com </a><font color="blue">&nbsp;|&nbsp;</font><a href="http://www.aneki.com/contact.html">Contact Us</a> <font color="blue">&nbsp;|&nbsp;</font> <a href="http://www.aneki.com/emailthispage.php">E-mail this page</a></center>
+<div class="list">
+<div class="list-title">
+Resources:
+</div>
+<div class="list-contents">
+
+<p><a class="list-links" href="http://www.aneki.com/world_records.php">Research World Records.</a></p>
+
+<p><a class="list-links" href="http://www.aneki.com/world_almanac.html">Quickly find facts and figures for 192 countries with the world almanac tool.</a></p>
+
+<p><a class="list-links" href="http://www.aneki.com/comparison.php">Compare any two countries with the country comparisons tool.</a></p>
+
+<p><a class="list-links" href="http://www.aneki.com/destination_planner.html">Explore potential vacation spots with the destination planner.</a></p>
+
+</div>
+</div>
+<br>
+<div class="list">
+<div class="list-title">
+Regions:
+</div>
+<div class="list-contents">
+<a class="list-links" href="http://www.aneki.com/africa.html" onclick="this.href=FCx(this.href);">Africa</a>&nbsp;
+<a class="list-links" href="http://www.aneki.com/middle_east.html" onclick="this.href=FCx(this.href);">Middle East</a>&nbsp;
+<a class="list-links" href="http://www.aneki.com/europe.html" onclick="this.href=FCx(this.href);">Europe</a>&nbsp;
+<a class="list-links" href="http://www.aneki.com/asia.html" onclick="this.href=FCx(this.href);">Asia</a>&nbsp;
+<a class="list-links" href="http://www.aneki.com/north_america.html" onclick="this.href=FCx(this.href);">North America</a>&nbsp;
+<a class="list-links" href="http://www.aneki.com/central_america.html" onclick="this.href=FCx(this.href);">Central America</a>&nbsp;
+<a class="list-links" href="http://www.aneki.com/caribbean.html" onclick="this.href=FCx(this.href);">The Caribbean</a>&nbsp;
+<a class="list-links" href="http://www.aneki.com/south_america.html" onclick="this.href=FCx(this.href);">South America</a>&nbsp;
+<a class="list-links" href="http://www.aneki.com/oceania.html" onclick="this.href=FCx(this.href);">Oceania</a>&nbsp;
+</div>
+</div>
+<br>
+<!-- FASTCLICK.COM 300x250 MEDIUM RECTANGLE CODE for aneki.com -->
+<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=8916&amp;m=6&amp;tp=8&amp;d=j&amp;t=s"></script>
+
+<noscript><a href="http://media.fastclick.net/w/click.here?sid=8916&m=6&c=1" target="_top">
+<img src="http://media.fastclick.net/w/get.media?sid=8916&m=6&tp=8&d=s&c=1"
+width=300 height=250 border=1></a></noscript>
+<!-- FASTCLICK.COM 300x250 MEDIUM RECTANGLE CODE for aneki.com -->
 <br><br>
+<div class="list">
+<div class="list-title">
+Explore:
+</div>
+<div class="list-contents">
+<a class="list-links" href="http://www.aneki.com/world_map.html" onclick="this.href=FCx(this.href);">World Map</a>&nbsp;
+<a class="list-links" href="http://www.aneki.com/cities.html" onclick="this.href=FCx(this.href);">Cities</a>&nbsp;
+<a class="list-links" href="http://www.aneki.com/map.html" onclick="this.href=FCx(this.href);">Maps</a>&nbsp;
+<a class="list-links" href="http://www.aneki.com/flag.html" onclick="this.href=FCx(this.href);">Flags</a>&nbsp;
 
-<center><font size="-2" color="black">Copyright ©  2007 aneki.com All rights 
-reserved.</font></center>
+<a class="list-links" href="http://www.aneki.com/embassies.html" onclick="this.href=FCx(this.href);">Embassies </a>&nbsp;
+<a class="list-links" href="http://www.aneki.com/consulates.html" onclick="this.href=FCx(this.href);">Consulates </a>&nbsp;
+<a class="list-links" href="http://www.aneki.com/visas.html" onclick="this.href=FCx(this.href);">Visas</a>&nbsp;
+<a class="list-links" href="http://www.aneki.com/passports.html" onclick="this.href=FCx(this.href);">Passports</a>&nbsp;
+
+<a class="list-links" href="http://www.aneki.com/recipes.html" onclick="this.href=FCx(this.href);">Recipes </a>&nbsp;
+<a class="list-links" href="http://www.aneki.com/books.html" onclick="this.href=FCx(this.href);">Books </a>&nbsp;
+<a class="list-links" href="http://www.aneki.com/music.html" onclick="this.href=FCx(this.href);">Music</a>&nbsp;
+<a class="list-links" href="http://www.aneki.com/dvds.html" onclick="this.href=FCx(this.href);">Dvds</a>&nbsp;
+<a class="list-links" href="http://www.aneki.com/dictionaries.html" onclick="this.href=FCx(this.href);">Dictionaries</a>&nbsp;
+
+<a class="list-links" href="http://www.aneki.com/athletes.html" onclick="this.href=FCx(this.href);">Athletes </a>&nbsp;
+<a class="list-links" href="http://www.aneki.com/performance.html" onclick="this.href=FCx(this.href);">Performance</a>&nbsp;
+</div>
+</div>
 </td>
-<td width="160" bgcolor="#42426f" valign="top">
-<table width="160" cellspacing="0" cellpadding="0">
-<tbody><tr><td bgcolor="#000000"><font color="white"><b>&nbsp;Categories</b></font></td></tr>
-<tr><td><table cellspacing="0" cellpadding="10"><tbody><tr><td>
-<a href="http://www.aneki.com/economic.html" onclick="this.href=FCx(this.href);">
-<font color="white">Economic </font></a><br>
-<a href="http://www.aneki.com/social.html" onclick="this.href=FCx(this.href);">
-<font color="white">Social </font></a><br>
-<a href="http://www.aneki.com/technological.html" onclick="this.href=FCx(this.href);">
-<font color="white">Technological </font></a><br>
-<a href="http://www.aneki.com/environmental.html" onclick="this.href=FCx(this.href);">
-<font color="white">Environmental </font></a><br>
-<a href="http://www.aneki.com/academic.html" onclick="this.href=FCx(this.href);">
-<font color="white">Academic </font></a><br>
-<a href="http://www.aneki.com/miscellaneous.html" onclick="this.href=FCx(this.href);">
-<font color="white">Miscellaneous </font></a>
-<p>
+<td id="cell-3">
 
-<script type="text/javascript"><!--
-google_ad_client = "pub-5472506631426118";
-google_ad_width = 120;
-google_ad_height = 90;
-google_ad_format = "120x90_0ads_al";
-google_ad_channel ="";
-google_color_border = "42426f";
-google_color_bg = "42426f";
-google_color_link = "ffffff";
-google_color_url = "000000";
-google_color_text = "000000";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-
-</p><p>
-
-<!-- FASTCLICK.COM 160x600 and 120x600 SKYSCRAPER CODE for aneki.com -->
-<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=8916&amp;m=3&amp;tp=7&amp;d=j&amp;t=s"></script>
-<noscript><a href="http://media.fastclick.net/w/click.here?sid=8916&m=3&c=1" target="_top">
-<img src="http://media.fastclick.net/w/get.media?sid=8916&m=3&tp=7&d=s&c=1"
-width=160 height=600 border=1></a></noscript>
-<!-- FASTCLICK.COM 160x600 and 120x600 SKYSCRAPER CODE for aneki.com -->
+<div class="list">
+<div class="list-title">
+See Related:
+</div>
+<div class="list-contents">
+<p><a class="list-links" href="http://www.aneki.com/academic.html">Academic Rankings</a></p><p><a class="list-links" href="http://www.aneki.com/economic.html">Economic Rankings</a></p><p><a class="list-links" href="http://www.aneki.com/miscellaneous.html">Miscellaneous</a></p><p><a class="list-links" href="http://www.aneki.com/social.html">Social Rankings</a></p><p><a class="list-links" href="http://www.aneki.com/technological.html">Technological Rankings</a></p><p><a class="list-links" href="http://www.aneki.com/lists.html">Top Lists - Ranking Best in the World</a></p>
+<center><a href="http://www.aneki.com/lists.html"><font size="-2">more lists</font></a></center>
+</div>
+</div>
+<br>
 
 
-		
 
-	
 
-</p></td></tr></tbody></table>
-</td></tr></tbody></table>
+<div class="list">
+<div class="list-title">
+Categories:
+</div>
+<div class="list-contents">
+<p><a class="list-links" href="http://www.aneki.com/economic.html">Economic </a></p>
+<p><a class="list-links" href="http://www.aneki.com/social.html" onclick="this.href=FCx(this.href);">Social </a></p>
+<p><a class="list-links" href="http://www.aneki.com/technological.html" onclick="this.href=FCx(this.href);">Technological </a></p>
+<p><a class="list-links" href="http://www.aneki.com/environmental.html" onclick="this.href=FCx(this.href);">Environmental </a></p>
+<p><a class="list-links" href="http://www.aneki.com/academic.html" onclick="this.href=FCx(this.href);">Academic </a></p>
+<p><a class="list-links" href="http://www.aneki.com/miscellaneous.html" onclick="this.href=FCx(this.href);">Miscellaneous </a></p>
+</div>
+</div>
+
+
 </td>
+
+
+
 
 </tr>
 </tbody></table>
+<div id="footer">
+<a class="footer" href="http://www.aneki.com/about.html">About aneki.com </a>&nbsp;|&nbsp;
+<a class="footer" href="http://www.aneki.com/contact.html">Contact Us</a>&nbsp;|&nbsp;
+<a class="footer" href="http://blog.aneki.com">Blog</a>
+<br>
+Copyright Â©  2008 aneki.com All rights reserved.
+</div>
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-1950492-1";
 urchinTracker();
-</script> 
+</script>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text below generated by server. PLEASE REMOVE --><!-- Counter/Statistics data collection code --><script language="JavaScript" src="http://hostingprod.com/js_source/geov2.js"></script><script language="javascript">geovisit();</script><noscript><img src="http://visit.webhosting.yahoo.com/visit.gif?us1183274571" alt="setstats" border="0" width="1" height="1"></noscript></body></html>
+<script language="JavaScript" src="http://us.js2.yimg.com/us.js.yimg.com/lib/smb/js/hosting/cp/js_source/whv2_001.js"></script><script language="javascript">geovisit();</script><noscript><img src="http://visit.webhosting.yahoo.com/visit.gif?us1230069916" alt="setstats" border="0" width="1" height="1"></noscript></body></html>
