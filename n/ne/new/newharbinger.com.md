@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newharbinger.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611071714id_/http%3A//www.newharbinger.com/client/client_pages/privacyterms.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newharbinger.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223033855id_/http%3A//www.newharbinger.com/client/client_pages/privacyterms.cfm) for the most accurate reproduction.*
 
 # New Harbinger Privacy Policy
 
