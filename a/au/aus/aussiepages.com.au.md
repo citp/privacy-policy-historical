@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aussiepages.com.au privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505063820id_/http%3A//www.aussiepages.com.au/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussiepages.com.au privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223184944id_/http%3A//www.aussiepages.com.au/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Classifieds Directory Australia | Business Directory Listings Australia
 
@@ -106,46 +106,46 @@ We regularly monitor the quality and accuracy of Personal Information that we ma
   
 | 
 
-[**Medical equipment sales and service**](http://www.aussiepages.com.au/Medical-equipment-sales-and-service.html)  
-Hightech Laboratories offer medical sales and service support to the Western Australia area.  
+[**Perth Limosine**](http://www.aussiepages.com.au/Perth-Limosine.html)  
+Perth Limousine service specialising in Weddings, School Balls, Dinner Transfers, Airport Transfers, twilight Cruises  
   
   
 ---  
   
-[**HomeAirPurifiers**](http://www.aussiepages.com.au/HomeAirPurifiers.html)  
-Air Purifiers, Humidifiers and Breathalysers.  
+[**Inbay Web Solutions**](http://www.aussiepages.com.au/Inbay-Web-Solutions.html)  
+We are a young team, who are keen to design develop YOUR website. Contact us today to see what we can offer you!  
   
   
-[**Australian Earthmover Tyres Wholesaler - Truck tyre, Tractor tyre, Earthmoving tyres**](http://www.aussiepages.com.au/Australian-Earthmover-Tyres-Wholesaler---Truck-tyre-Tractor-tyre-Earthmoving-tyres.html)  
-Centrac Wholesale Tyres supply quality tyres for earth movers, and other industrial earthmoving applications  
+[**Kylie Hammond Executive Search & Coaching Group**](http://www.aussiepages.com.au/Kylie-Hammond-Executive-Search-Coaching-Group.html)  
+Achieving Amazing Results Together..... Kylie Hammond is a leading Human Capital Management & Talent Management Consultant.  
   
   
-[**Spot Forex Trading Alerts**](http://www.aussiepages.com.au/Spot-Forex-Trading-Alerts.html)  
-Spot forex trading plans across 17 currency pairs delivered 10 times per week for $19.95 per month.  
+[**BALDWEAR®**](http://www.aussiepages.com.au/BALDWEAR-C2-AE.html)  
+Australian Made Clothing For BALD People.  
   
   
-[**FREE Market Appraisals!!**](http://www.aussiepages.com.au/FREE-Market-Appraisals--.html)  
-R & R Real Estate Narre Warren. 100% No Sale No Charge! R&R Real Estate Narre Warren Website  
+[**BANNERS~SIGNS~STICKERS~A-FRAMES~MAGNETIC SIGNS in FULL COLOUR**](http://www.aussiepages.com.au/BANNERS-7ESIGNS-7ESTICKERS-7EA-FRAMES-7EMAGNETIC-SIGNS-in-FULL-COLOUR.html)  
+Promote your Business with Full Colour BANNERS, SIGNS, STICKERS and A-FRAMES We Deliver Australia Wide  
   
   
-[**Valley Green Tea - Premium Chinese Tea**](http://www.aussiepages.com.au/Valley-Green-Tea---Premium-Chinese-Tea.html)  
-Valley Green Tea is an Australia online store specialising in authentic Chinese teas. All our teas are seasonally produced, including: Green, White, Oolong/Wulong, Jasmine and Pu-erh tea.  
+[**Freelance Photographer**](http://www.aussiepages.com.au/Freelance-Photographer.html)  
+Red Images specializes in Freelance Fashion and Industrial Photography. To keep a variety in the business Red Images is also available for Wedding and Portrait Photography. Visit our website now.  
   
   
-[**Oz Classifieds BUY, SELL & TRADE**](http://www.aussiepages.com.au/Oz-Classifieds-BUY-SELL-TRADE.html)  
-Australia`s NEWEST FREE Classifieds / Advertising site is here, PLACE A FREE AD Today!  
+[**Outside & In Concepts**](http://www.aussiepages.com.au/Outside-In-Concepts.html)  
+Since 1990 we have supplied and installed quality Security, Shutters, Blinds, Awnings, and Venetians to thousands of satisfied customers in the Greater Brisbane area and the Sunshine Coast.  
   
   
-[**OfferMe**](http://www.aussiepages.com.au/OfferMe.html)  
-OfferMe is a new approach to the online selling environment.  
+[**Muscle and Body Shape Gym**](http://www.aussiepages.com.au/Muscle-and-Body-Shape-Gym.html)  
+Muscle and Body Shape Gym prides itself on being one of the best in the fitness industry. The famous SHAPE program will have you looking and feeling your best. Give it a try!  
   
   
-[**Creative Allure**](http://www.aussiepages.com.au/Creative-Allure.html)  
-Creative Allure provide quality graphic and website design services at competitive prices. We are a small, flexible agency with a strong customer focus.  
+[**Outdoors Online Australia**](http://www.aussiepages.com.au/Outdoors-Online-Australia.html)  
+We stock the largets range of sheepskin and oilskin jackets in the land. We're also terrifically complimented with one of the largest outdoors online stores in the country with the best brands  
   
   
-[**Website Hosting Service Provider**](http://www.aussiepages.com.au/Website-Hosting-Service-Provider.html)  
-Linux web host Provides Linux Hosting, Linux web hosting, business web hosting, small business web hosting, web hosting solution, asp web hosting, mysql web hosting in Sydney and all other major citie  
+[**Aussie Mortgage Broker**](http://www.aussiepages.com.au/Aussie-Mortgage-Broker.html)  
+> 16 Lenders & hundreds of loans to choose from. > MFAA Accredited. > My service is at NO COST to you, because we are paid by the lender . > Available 7 Days. > Put the Aussie Guara  
   
   
    
