@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pcmech.com privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523212045id_/http%3A//www.pcmech.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcmech.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223020432id_/http%3A//www.pcmech.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy » PCMech
+# Privacy Policy | PCMech
 
 PC Mechanic, a World Wide Web site owned and operated by PC Media, Inc., recognizes  
 its readers rights to privacy. To keep you informed of our privacy policies,  
