@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lincoln.ac.nz privacy policy that was archived on 2008-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080423230257id_/http%3A//www.lincoln.ac.nz/story6697.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lincoln.ac.nz privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223075456id_/http%3A//www.lincoln.ac.nz/story6697.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
