@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youlookfab.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522004933id_/http%3A//www.youlookfab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youlookfab.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223105825id_/http%3A//www.youlookfab.com/privacy-policy) for the most accurate reproduction.*
 
-# youlookfab » Privacy Policy
+# Privacy Policy | youlookfab
 
 This site is owned and operated by Lookfab Inc. Your privacy on the Internet is of the utmost importance to us. At youlookfab.com, we want to make your online experience satisfying and safe.
 
