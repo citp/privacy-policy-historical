@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themresort.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509072834id_/http%3A//www.themresort.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themresort.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223115414id_/http%3A//www.themresort.com/policy.html) for the most accurate reproduction.*
 
 # M Resort
 
@@ -33,4 +33,4 @@ Use of Third party Internet Sites
 Third party Internet sites and services accessible through M Resort have separate privacy and data collection practices, independent from us. M Resort has no responsibility or liability for these independent policies or actions.
 
 Privacy Statement Changes  
-In the future, we may need to change this privacy statement. All changes will posted here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.
+In the future, we may need to change this privacy statement. All changes will be posted here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. 
