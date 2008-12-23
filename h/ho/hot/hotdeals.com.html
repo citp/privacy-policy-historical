@@ -1,10 +1,212 @@
-<!--The following is the downloaded HTML source of the hotdeals.com privacy policy that was archived on 2008-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080405181308id_/http%3A//www.hotdeals.com/index5.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotdeals.com privacy policy that was archived on 2008-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081223022819id_/http%3A//hotdeals.com/index5.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<title>Hot Deals on Travel</title>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
+
+    
+	<meta http-equiv="title" content="Hot Deals on Travel">
+    <meta http-equiv="keywords" content="travel,deals,cars,NYC,las vegas"> 
+    <meta http-equiv="description" content="Hot Deals is the place to get the best deals on travel deals">
+	<title>Hot Deals on Travel</title>     
+    
+
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<script language="javascript">
+    <!--
+
+		function changeSettings() {
+		    var urlQ = "http://63.241.243.20" + "?locale=" + document.webslocales.locale[document.webslocales.locale.selectedIndex].value + "&currencyCode=" + document.webslocales.currency[document.webslocales.currency.selectedIndex].value + "&cid=42760&home=true";
+		    document.webslocales.action = urlQ
+		    document.webslocales.submit();
+		}
+		
+	   function dmddChange( outM, outD ) {
+        if ( !isBrowserSupp() ) {
+            return;
+        }
+
+        adjustDate( outM.options.selectedIndex, outD );
+        return;
+        }
+	
+	    function isBrowserSupp() {
+	        // Get the version of the browser
+	        version =  parseFloat( navigator.appVersion );
+	        if ( ( version >= 2.0 ) && ( version < 2.1 ) && ( navigator.appName.indexOf( "Netscape" ) != -1 ) ) {
+	            return false;
+	        } else {
+	            return true;
+	        }
+		    return true;
+        }
+		
+        function openCalendar(formName,type) {
+            document.cookie = 'formName=' + formName;
+            document.cookie = 'inputType=' + type;
+            window.open('calendar.html','dates','width=300,height=300,resizable=1,status=1,menubar=0,location=0');
+        }
+    
+
+		    function isLeapYear( yrStr ) {
+		        var leapYear = false;
+		        var year = parseInt( yrStr, 10 );
+		        // every fourth year is a leap year
+		        if ( year % 4 == 0 ) {
+		            leapYear = true;
+		            // unless it's a multiple of 100
+		            if( year % 100 == 0 ) {
+		                leapYear = false;
+		                // unless it's a multiple of 400
+		                if( year % 400 == 0 ) {
+		                    leapYear=true;
+		                }
+		            }
+		        }
+		        return leapYear;
+		    }
+
+		    function getDaysInMonth( mthIdx, YrStr ) {
+		        // all the rest have 31
+		        var maxDays = 31
+		        // expect Feb. (of course)
+		        if( mthIdx == 1 ) {
+		            if( isLeapYear( YrStr ) ) {
+		                maxDays=29;
+		            } else {
+		                maxDays=28;
+		            }
+		        }
+		
+		        // thirty days hath...
+		        if( mthIdx == 3 || mthIdx == 5 || mthIdx == 8 || mthIdx == 10 ) {
+		            maxDays=30;
+		        }
+		        return maxDays;
+		    }
+
+		    //the function which does some magic to the date fields
+		    // return non-zero if it is the last day of the month
+		    function adjustDate( mthIdx, Dt ) {
+		        var value = 0;
+		
+		        var today = new Date()
+		        var theYear = parseInt( today.getYear(), 10 )
+		
+		        if( mthIdx < today.getMonth() ) {
+		            theYear = ( parseInt( today.getYear(), 10 ) + 1 )
+		        }
+		        if( theYear < 100 ) {
+		            theYear = "19" + theYear
+		        } else {
+		            if( ( theYear - 100 ) < 10 ) {
+		                theYear = "0" + ( theYear - 100 )
+		            } else {
+		                theYear = ( theYear - 100 ) + ""
+		            }
+		            theYear = "20" + theYear
+		        }
+
+
+		        var numDays = getDaysInMonth( mthIdx, theYear );
+		
+		        if( mthIdx == 1 ) {
+		            if( Dt.options.selectedIndex + 1 < numDays ) {
+		                return 0;
+		            } else {
+		                Dt.options.selectedIndex=numDays - 1;
+		                //check for leap year
+		                if( numDays == 29 ) {
+		                    return 99;
+		                } else {
+		                    return 1;
+		                }
+		            }
+		        }
+		
+		        if( Dt.options.selectedIndex + 1 < numDays ) {
+		            value = 0;
+		        } else {
+		            if ( Dt.options.selectedIndex + 1 > numDays ) {
+		                Dt.options.selectedIndex--;
+		                value = 3;
+		            } else {
+		                //index is 31 or 30
+		                value = 2;
+		            }
+		        }
+		        return value;
+		    }
+		
+		    function amadChange( inM, inD, outM, outD ) {
+	    	    if ( !isBrowserSupp() ) {
+	        	    return;
+		        }
+	
+	    	    var res = adjustDate( inM.options.selectedIndex, inD );
+		        if( res != 0 ) {
+	    	           outD.options.selectedIndex = 0;
+	        		   if ( outM.options.selectedIndex == 11 ) {
+	                 	   outM.options.selectedIndex = 0
+		               } else {
+	    	                outM.options.selectedIndex=inM.options.selectedIndex + 1;
+	        	            outD.options.selectedIndex = 1;
+	            	   }
+		        } else {
+	    	        outM.options.selectedIndex = inM.options.selectedIndex;
+	        	    if (outD.options.selectedIndex <= inD.options.selectedIndex) {
+	            	    outD.options.selectedIndex = inD.options.selectedIndex + 2;
+		            }
+	    	    }
+	        	return;
+		    }
+	
+			function loadDates()
+			{
+			
+				var calendar = new Date();
+				var calendar2 = new Date();
+				var cal
+				var cal2
+				var date;
+				var month;
+				var year;
+				var date2;
+				var month2;
+				var year2;
+				
+				//Here is the variable to change for to advance the arrival Date
+				 var advanceArrival = 10; 
+				
+				//Here is the variable to change for to advance the departure Date
+				 var advanceDeparture = 12; 
+				
+				
+				//Set the arrival Days
+				calendar.setDate(calendar.getDate()+ advanceArrival);
+				date = calendar.getDate();
+				month = calendar.getMonth();
+				
+				//Set the Departure Days
+				calendar2.setDate(calendar2.getDate()+advanceDeparture); 
+				date2 = calendar2.getDate();
+				month2 = calendar2.getMonth();
+				
+				document.forms['hotForm'].arrivalMonth.value=month;
+				document.forms['hotForm'].arrivalDay.value=date;
+				document.forms['hotForm'].departureMonth.value=month2;
+				document.forms['hotForm'].departureDay.value=date2;	
+			}
+			
+function nav()
+   {
+   var w = document.myform.mylist.selectedIndex;
+   var url_add = document.myform.mylist.options[w].value;
+   window.location.href = url_add;
+   }			
+		//-->
+    </script>
 <link href="/newversion07/site/style.css" rel="stylesheet" type="text/css">
 <link href="/_hdincludes/main.css" rel="stylesheet" type="text/css">
 </head>
@@ -33,11 +235,22 @@
 									<tbody><tr>
 									  <td valign="top" width="1" height="100">
 									  
+<style type="text/css">
+<!--
+.style1 {
+	color: #FF0000;
+	font-weight: bold;
+}
+-->
+</style>
+
 <table>
 <tbody><tr>
 <td align="left">
-<img src="/images/new_logo.gif" width="248" height="67" border="0" usemap="#Map2"></td>
+  <div><img src="/images/new_logo.gif" width="248" height="67" border="0" usemap="#Map2"></div>
+  <div><a href="/index5.cfm?page=language"><img src="/_hdincludes/images/flags.gif" alt="Press to select alternate language." border="0"></a></div></td>
 <td><img src="/images/2.gif" border="0" usemap="#Map">
+
   <map name="Map">
     <area shape="rect" coords="6,17,110,36" href="http://travel.hotdeals.com/index.jsp?locale=en_US&amp;isFlash=true&amp;pageName=condos&amp;currencyCode=USD&amp;isDetectFlash=false&amp;cid=42760&amp;isRedirect=true&amp;additionalDataString=vrBookingSource|index" target="_self">
     
@@ -104,14 +317,27 @@
 				return true;
 			};
 		
-</script>
-</td>
-  <td><div align="center">
+</script></td>
+  <td valign="top">
+   
+    <div align="center">
 	<strong>
 	<font size="1" face="Verdana, Arial, Helvetica, sans-serif"> 
       <span class="bodytext"><a href="http://www.hotdeals.com/index5.cfm?page=customercare" target="_self">Customer Care</a> | <a href="http://dg.hotdeals.com/index.jsp?cid=42760">Destination 
-      Guides</a> | <a href="http://travel.hotdeals.com/index.jsp?pageName=promo&amp;cid=42760" target="_self">Rebates</a> | <a href="http://www.hotdeals.com/tips.cfm" target="_self">Helpful Tips </a> | <a href="http://www.hotdeals.com/index5.cfm?page=advertising" target="_self">Advertise </a> | <a href="http://www.hotdeals.com/newsletters" target="_blank">Newsletter </a>| <a href="http://www.hotdeals.com/signup" target="_self">Join Travel Club</a></span></font></strong></div></td>
+    Guides</a> | <a href="http://travel.hotdeals.com/index.jsp?pageName=promo&amp;cid=42760" target="_self">Rebates</a> | <a href="http://www.hotdeals.com/tips.cfm" target="_self">Helpful Tips </a> | <a href="http://www.hotdeals.com/index5.cfm?page=advertising" target="_self">Advertise </a> | <a href="http://www.hotdeals.com/newsletters" target="_blank">Newsletter </a>
+	</span></font></strong>	</div>
+
+
+<div align="center">
+	<strong>
+	<font size="1" face="Verdana, Arial, Helvetica, sans-serif"> 
+      <span class="bodytext"><a href="http://www.hotdeals.com/red-hot-hotel-deals-barcelona.cfm" target="_self">Red Hot Hotel Deals</a> | <a href="http://www.hotdeals.com/best-hotel-deals-in-nyc.cfm">NYC Hotel Deals</a> | <a href="http://www.hotdeals.com/canada-last-minute-deals-travel.cfm" target="_self">Last Minute Canada Deals</a> | <a href="http://www.hotdeals.com/disney-vacation-package-specials.cfm" target="_self">Disney Deals</a><br> <a href="http://www.hotdeals.com/last-minute-hotel-deals-london-uk.cfm" target="_self">Last Minute London Deals</a> | <a href="http://www.hotdeals.com/travel-deals-worldwide-tour-discount.cfm" target="_blank">Travel Discounts </a>| <a href="http://www.hotdeals.com/top-10-world-attractions.cfm" target="_self">Top 10 Travel Attractions</a>
+	</span></font></strong>	</div>	</td>
 </tr>
+<tr valign="top">
+  <td colspan="2" valign="top">
+    </td>
+  </tr>
 </tbody></table>
 <map name="Map2">
   <area shape="rect" coords="4,3,239,60" href="http://www.hotdeals.com" target="_self">
@@ -124,7 +350,7 @@
 						<tr>
 						  <td valign="top" height="459" bgcolor="#FFFFFF">
 						 
-		
+
 		
 
 <style type="text/css">
@@ -138,12 +364,119 @@
 <table>
 <tbody><tr valign="top">
 <td>
+<div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+	
+		
+			
+
+				<style type="text/css">
+				<!--
+				.AdUnit4 {background-color:#FFFFFF;}
+				.AdBL4 {border-left:0px solid #FFFFFF;}
+				.AdBR4 {border-right:0px solid #FFFFFF;}
+				.AdBB4 {border-bottom:0px solid #FFFFFF;}
+				.AdBT4 {border-top:0px solid #FFFFFF;}
+				.AdvTitle4 {font-family:arial;font-style:none;text-decoration:none;font-weight:bold;color:#009999;font-size:8.5pt;}
+				.AdvText4 {font-family:arial;font-style:none;text-decoration:none;font-weight:none;color:#666666;font-size:8.5pt;}
+				.AdvURL4 {font-family:arial;font-style:none;text-decoration:none;font-weight:none;color:#FF6600;font-size:8.0pt;}
+				-->
+				</style>
+
+				<table width="100%" border="0">
+				<tbody><tr>
+				<td class="AdUnit4 AdBR4 AdBL4 AdBB4 AdBT4" valign="CENTER" align="CENTER">
+					<div style="PADDING-LEFT: 2px; OVERFLOW: hidden;">
+					<a class="AdvTitle4" style="color:009999" href="http://www.hotdeals.com/addeals/clk.cfm?rd2link=102" target="_blank" onmouseover="self.status='Advertisement'; return true" onmouseout="self.status=''; return true">Sponsor</a><br>
+					<a class="AdvText4" style="color:666666" href="http://www.hotdeals.com/addeals/clk.cfm?rd2link=102" target="_blank" onmouseover="self.status='Advertisement'; return true" onmouseout="self.status=''; return true"><img src="http://www.awltovhc.com/image-2978468-10503546" width="120" height="90" alt="Wine Baskets" border="0"><!--</A--><br>
+					</a><a class="AdvURL4" style="color:FF6600" href="http://www.hotdeals.com/addeals/clk.cfm?rd2link=102" target="_blank" onmouseover="self.status='Advertisement'; return true" onmouseout="self.status=''; return true">www.allwinebaskets.com</a><br>
+					</div>
+				</td>
+				</tr>
+				</tbody></table>
+
+			
+
+			
+			
+
+			
+				
+
+					
+
+
+
+
+
+
+
+	
+	
+
+
+
+			
+
+		
+	
+
+
+
+</div>
 <table border="0">
 
 <tbody><tr><td valign="top" width="232" height="206" style="background-image:url(/newversion07/site/images/line2.gif) ">
 <div style="margin-left:15px; margin-top:9px "><img alt="" src="/newversion07/site/images/4_w1.gif" border="0"></div>
 <div style="margin-left:13px; margin-top:7px "><img alt="" src="/newversion07/site/images/4_p1.jpg" border="0"></div>
-<div style=" margin-left:18px; margin-top:9px; margin-right:15px; line-height:12px " class="blue"><strong>Visit London and see the London Bridge. </strong></div>
+<div style=" margin-left:18px; margin-top:9px; margin-right:15px; line-height:12px " class="blue"><strong>Visit
+    London </strong></div>
 <div style=" margin-left:18px; margin-top:4px; margin-right:15px; line-height:12px " class="s1">England's ancient cathedral cities, such as <strong>Lincoln, York, Salisbury,   Durham</strong> and <strong>Winchester</strong> , cannot be equalled for sheer physical beauty.</div>
 <div style=" margin-left:18px; margin-top:4px; margin-right:10px; line-height:12px " class="s1">
 <a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=london&amp;stateProvince=&amp;country=UK&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false" class="blue">Hot Deals on the best hotels in London</a><br>
@@ -183,83 +516,83 @@ The Cumberland, Kingsway Hall, The Grand, The Russell and more.
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 4/13/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=224337" class="small">Deer Valley Courchevel</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Park City)&nbsp;&nbsp; $140.00</div>
+	<img alt="This special rate ends on 12/31/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=235786" class="small">Hotel Selenza Estepona Thalasso &amp; Spa</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Malaga &amp; Costa del Sol, Spain)&nbsp;&nbsp; $124.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 4/13/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=216607" class="small">Hotel Park City</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Park City)&nbsp;&nbsp; $399.00</div>
+	<img alt="This special rate ends on 12/31/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=238272" class="small">Molina Lario</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Malaga &amp; Costa del Sol, Spain)&nbsp;&nbsp; $126.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 4/15/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=116627" class="small">Wyndham Sugar Bay Resort &amp; Spa</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Charlotte Amalie)&nbsp;&nbsp; $297.00</div>
+	<img alt="This special rate ends on 12/31/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=194658" class="small">Hotel Guadalmina Spa &amp; Golf Resort</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Malaga &amp; Costa del Sol, Spain)&nbsp;&nbsp; $252.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 4/15/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=117682" class="small">Sonesta Maho Beach Resort &amp; Casino</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Maho Beach)&nbsp;&nbsp; $260.00</div>
+	<img alt="This special rate ends on 12/31/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=203020" class="small">Thundercloud Resort</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Big Bear, CA)&nbsp;&nbsp; $50.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 4/15/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=208493" class="small">Hotel Beach Plaza</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Marigot)&nbsp;&nbsp; $253.00</div>
+	<img alt="This special rate ends on 12/31/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=140842" class="small">THE BLOCK</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Big Bear, CA)&nbsp;&nbsp; $99.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 4/15/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=198973" class="small">Divi Little Bay Beach Resort</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Philipsburg)&nbsp;&nbsp; $247.00</div>
+	<img alt="This special rate ends on 12/31/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=116018" class="small">Plaza Inn</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Albuquerque, NM)&nbsp;&nbsp; $64.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 4/15/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=206467" class="small">Elysian Beach</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(St Thomas)&nbsp;&nbsp; $302.00</div>
+	<img alt="This special rate ends on 12/31/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=112040" class="small">University Place Conference Center &amp; Hotel</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Indianapolis, IN)&nbsp;&nbsp; $84.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 4/16/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=143602" class="small">Copamarina Beach Resort</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Guanica)&nbsp;&nbsp; $235.00</div>
+	<img alt="This special rate ends on 12/31/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=122355" class="small">Comfort Inn and Suites North at the Pyramids</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Indianapolis, IN)&nbsp;&nbsp; $65.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 4/16/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=221154" class="small">Oualie Beach Resort</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Newcastle)&nbsp;&nbsp; $295.00</div>
+	<img alt="This special rate ends on 12/31/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=126764" class="small">Comfort Inn Plymouth</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Detroit, MI)&nbsp;&nbsp; $45.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 4/16/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=121370" class="small">Mount Nevis Hotel and Beach Club</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Newcastle)&nbsp;&nbsp; $329.00</div>
+	<img alt="This special rate ends on 12/31/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=199461" class="small">Inn On Ferry Street</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Detroit, MI)&nbsp;&nbsp; $129.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 4/19/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=112076" class="small">Rose Hall Resort &amp; Country Club</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Rose Hall)&nbsp;&nbsp; $199.00</div>
+	<img alt="This special rate ends on 12/31/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=266104" class="small">A Little House in Rechavia</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Jerusalem, Israel)&nbsp;&nbsp; $200.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 4/21/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=111477" class="small">Omni Detroit Hotel River Place</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Detroit)&nbsp;&nbsp; $129.00</div>
+	<img alt="This special rate ends on 12/31/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=258513" class="small">A Little House In The Colony</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Jerusalem, Israel)&nbsp;&nbsp; $200.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 4/21/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=199461" class="small">Inn On Ferry Street</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Detroit)&nbsp;&nbsp; $139.00</div>
+	<img alt="This special rate ends on 12/31/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=214273" class="small">A Little House in Bakah Hotel</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Jerusalem, Israel)&nbsp;&nbsp; $200.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 4/30/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=162955" class="small">Best Western Landmark Inn</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Park City)&nbsp;&nbsp; $68.00</div>
+	<img alt="This special rate ends on 12/31/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=218516" class="small">Jerusalem Gold Hotel</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Jerusalem, Israel)&nbsp;&nbsp; $100.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 4/30/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=131079" class="small">Sheraton Cable Beach Resort</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Cable Beach)&nbsp;&nbsp; $289.00</div>
+	<img alt="This special rate ends on 12/31/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=114548" class="small">Hotel Phoenicia</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Malta)&nbsp;&nbsp; $140.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 4/30/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=121114" class="small">Bird Rock Hotel</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Basseterre)&nbsp;&nbsp; $100.00</div>
+	<img alt="This special rate ends on 12/31/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=232702" class="small">Corinthia Palace Hotel and Spa</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Malta)&nbsp;&nbsp; $140.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 4/30/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=151663" class="small">Comfort Inn Northwest</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Westminster)&nbsp;&nbsp; $62.00</div>
+	<img alt="This special rate ends on 12/31/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=232702" class="small">Corinthia Palace Hotel and Spa</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Malta)&nbsp;&nbsp; $140.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 4/30/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=215687" class="small">Teton Village - Jackson Hole Resort Lodging</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Teton Village)&nbsp;&nbsp; $205.00</div>
+	<img alt="This special rate ends on 12/31/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=115638" class="small">Desert Springs - A JW Marriott Resort and Spa-Palm Desert</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Palm Springs, CA)&nbsp;&nbsp; $109.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 4/30/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=114335" class="small">Handlery Union Square Hotel</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(San Francisco)&nbsp;&nbsp; $111.00</div>
+	<img alt="This special rate ends on 12/31/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=125816" class="small">Viceroy Palm Springs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Palm Springs, CA)&nbsp;&nbsp; $139.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 4/30/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=219431" class="small">Chase Suites - Salt Lake City</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Salt Lake City)&nbsp;&nbsp; $172.00</div>
+	<img alt="This special rate ends on 12/31/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=141418" class="small">The Annabelle</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Paphos, Cyprus)&nbsp;&nbsp; $120.00</div>
 	<br></td>
 </tr>
 </tbody></table></td>
@@ -458,8 +791,8 @@ The Cumberland, Kingsway Hall, The Grand, The Russell and more.
       <a href="http://travel.hotdeals.com/index.jsp;jsid=vxw6CSDx5I8nFbfyhUFqr?locale=en_US&amp;pageName=airSearch&amp;currencyCode=USD&amp;cid=42760&amp;additionalDataString=vrBookingSource|index&amp;advancedOptions=true">Flights</a> | <a href="http://travel.hotdeals.com/index.jsp?locale=en_US&amp;pageName=hotSearch&amp;currencyCode=USD&amp;cid=42760&amp;additionalDataString=vrBookingSource|index">Hotels</a> 
       | <a href="http://travel.hotdeals.com/index.jsp?locale=en_US&amp;pageName=carSearch&amp;currencyCode=USD&amp;cid=42760&amp;additionalDataString=vrBookingSource|index">Cars</a> | <a href="/cruises3.cfm">Cruises</a> | <a href="/index5.cfm?page=vacations" target="_top">Vacations</a> | <a href="/index5.cfm?page=privacy">Privacy</a> | <a href="/index5.cfm?page=contact">Contact</a> | <a href="/sitemap3.cfm">Site Map</a><br><br>
 	  
-	  HotDeals.com Copyright © 2007 All Rights Reserved 
-235 Peachtree Street - Suite 400 Atlanta GA 30303 |  <a href="mailto:info@hotdeals.com">info@hotdeals.com</a>
+	  HotDeals.com Copyright © 2008 All Rights Reserved 
+ |  <a href="mailto:info@hotdeals.com">info@hotdeals.com</a>
 	
 	</div>
 										</td>
@@ -487,5 +820,9 @@ The Cumberland, Kingsway Hall, The Grand, The Russell and more.
 	  </td>
 	</tr>
 </tbody></table>
+<div align="center">
+
+
+</div>
 
 </body></html>
