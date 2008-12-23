@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the purenetworks.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510125723id_/http%3A//www.purenetworks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purenetworks.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223031609id_/http%3A//www.purenetworks.com/privacy.php) for the most accurate reproduction.*
 
-# Pure Networks Privacy Policy
+# Cisco - Now offering Network Magic and Pure Networks products.
 
 Last Updated October 5, 2007 
 
@@ -26,7 +26,7 @@ We collect information about you in several ways.
 **Collection of Non-Personally and Personally-Identifiable Information**  
 By setting up the Network Magic feature, **Network Reports** , you give Pure Networks permission to collect personally-identifiable information. This information is linked to your email address, and therefore is personally identifiable. This feature is available on an opt-in basis, and you must proactively enable the feature for it to collect data. For more information, please refer to the Network Magic EULA. 
 
-The Network Magic feature, **Network Magic Advisor** , collects information about your home network on an opt-out basis. You can opt out of sending information about your home network through the Network Magic Advisor feature by clicking on the “Turn off customization” link at the bottom of any Network Advisor page. If you turn off customization, Network Magic Advisor will continue to function, but it will not offer customized information based on what is on your network. 
+The Network Magic feature, **Network Magic Advisor** , collects information about your home network on an opt-out basis. You can opt out of sending information about your home network through the Network Magic Advisor feature by clicking on the Turn off customization link at the bottom of any Network Advisor page. If you turn off customization, Network Magic Advisor will continue to function, but it will not offer customized information based on what is on your network. 
 
 The **Support Services** feature collects information about your network devices on an opt-out basis. If you agree to use this feature, information about your network devices is sent to Pure Networks and is used by a Support representative while assisting you with a network problem. The information is associated with you only when you provide a unique ID number to the Support representative while you are receiving help. 
 
@@ -42,12 +42,12 @@ Pure Networks does not rent, sell, or share personal information about you with 
 **How To Opt-Out**  
 When installing or purchasing Network Magic we give you the option to opt out of future email communications other than critical updates. You can also unsubscribe or subscribe at any time by clicking on the unsubscribe link included in our email communications and on our Web sites. You can also change your preference by clicking on the link below: 
 
-[Unsubscribe from marketing email communications](http://www.networkmagic.com/support/unsubscribe.php)
+[Unsubscribe from marketing email communications](https://web.archive.org/support/unsubscribe.php)
 
 If you do not want your personal information shared with third parties for marketing purposes, you may opt-out of such disclosure by notifying Pure Networks using the contact information provided below. Upon opting-out, Pure Networks will not make further disclosures of your Personal Information to third parties for marketing purposes. Please allow up to seven (7) business days to be completely opted-out from such use. 
 
 **How to Change, Correct and Update Your Information**  
-If you have a Network Magic store [account](https://store.networkmagic.com/store/account.do), you may change your personal information at any time by visiting the Account page on the Network Magic Web site. You may also update, correct, or amend your personal information by sending a registered letter to Pure Networks at the address specified below, or by sending an email message to privacy@purenetworks.com. 
+If you have a Network Magic store [account](https://store.purenetworks.com/storefront/manage-account.ep), you may change your personal information at any time by visiting the Account page on the Network Magic Web site. You may also update, correct, or amend your personal information by sending a registered letter to Pure Networks at the address specified below, or by sending an email message to privacy@purenetworks.com. 
 
 **How We Protect Your Personal Information**  
 Pure Networks safeguards the security of the data you send us with physical, electronic, and managerial procedures. We urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser. 
@@ -70,7 +70,7 @@ Pure Networks adheres to the Safe Harbor principles negotiated between the Unite
 The Network Magic Web site and its products and services are not directed to children under the age of 13. We operate our Web site in compliance with the Children's Online Privacy Protection Act and do not knowingly collect or use personally identifiable information from anyone under 13 years of age. 
 
 **Updates**  
-We may periodically update our Privacy Policy. We may notify you about significant changes to the Privacy Policy via the email address specified in your account, or by placing a notice on the Pure Networks or Network Magic Web site. However, it is your responsibility to review the most recent version of our Privacy Policy frequently and remain informed about any changes to it. The most recent version of our Privacy Policy can always be found at the [Network Magic Web site](http://www.networkmagic.com/privacy.php). 
+We may periodically update our Privacy Policy. We may notify you about significant changes to the Privacy Policy via the email address specified in your account, or by placing a notice on the Pure Networks or Network Magic Web site. However, it is your responsibility to review the most recent version of our Privacy Policy frequently and remain informed about any changes to it. The most recent version of our Privacy Policy can always be found at the [Pure Networks Web site](http://www.purenetworks.com/privacy.php). 
 
 **Disclaimer**  
 We do not guarantee error-free performance under this Privacy Policy. We may not always catch an unintended privacy issue, despite our efforts to do so. Accordingly, we welcome your feedback regarding any privacy concerns that you may have, including how we can improve our products and services. We will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when we learn of any failure to comply with it. We will not be liable for any incidental, consequential, or punitive damages relating to this Privacy Policy. 
