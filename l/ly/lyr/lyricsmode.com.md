@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricsmode.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615023733id_/http%3A//www.lyricsmode.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricsmode.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223070259id_/http%3A//www.lyricsmode.com/about/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | LyricsMode.com
 
