@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vyew.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627222947id_/http%3A//vyew.com/site/company/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vyew.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223092814id_/http%3A//vyew.com/site/company/policies/privacy) for the most accurate reproduction.*
 
 # Vyew: Vyew Privacy & Security Policy | FREE Anytime Collaboration and Live Conferencing™
 
