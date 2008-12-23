@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the threadbanger.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626043430id_/http%3A//www.threadbanger.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threadbanger.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223220025id_/http%3A//www.threadbanger.com/privacy_policy) for the most accurate reproduction.*
 
 # ThreadBanger
 
