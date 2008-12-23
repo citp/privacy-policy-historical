@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whoismadhur.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610015133id_/http%3A//www.whoismadhur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoismadhur.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223064826id_/http%3A//www.whoismadhur.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Madhur Kapoor’s Blog
+# Privacy Policy | Madhur Kapoor's Blog
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site [www.whoismadhur.com](http://www.whoismadhur.com/). The following discloses the information gathering and dissemination practices for this Web site.
 
