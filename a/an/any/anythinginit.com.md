@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anythinginit.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610161402id_/http%3A//www.anythinginit.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anythinginit.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224000108id_/http%3A//www.anythinginit.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # AnythinginIT.com - Buy online Computer and IT products at the lowest price in India.
 
@@ -7,7 +7,7 @@
 |   
 ---  
   
-|   Your are here: [Home](https://web.archive.org/web/20080610161402id_/http%3A//www.anythinginit.com/index.asp) >Privacy Policy   
+|   Your are here: [Home](https://web.archive.org/web/20081224000108id_/http%3A//www.anythinginit.com/index.asp) >Privacy Policy   
 ---  
 |  |  |   
 ---|---|---  
