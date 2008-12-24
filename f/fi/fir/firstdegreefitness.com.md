@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the firstdegreefitness.com privacy policy that was archived on 2008-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080221204829id_/http%3A//www.firstdegreefitness.com/Home/tabid/491/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstdegreefitness.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224113121id_/http%3A//firstdegreefitness.com/Home/tabid/354/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Home
+# First Degree Fitness > Home
 
 First Degree Fitness is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the First Degree Fitness Web site and governs data collection and usage. By using the First Degree Fitness website, you consent to the data practices described in this statement.
 
@@ -44,4 +44,4 @@ First Degree Fitness will occasionally update this Statement of Privacy to refle
 
 Contact Information
 
-First Degree Fitness welcomes your comments regarding this Statement of Privacy. If you believe that First Degree Fitness has not adhered to this Statement, please contact First Degree Fitness at [webhosting@expand.com.au](mailto:webhosting@expand.com.au). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+First Degree Fitness welcomes your comments regarding this Statement of Privacy. If you believe that First Degree Fitness has not adhered to this Statement, please contact First Degree Fitness at [jody@firstdegreefitness.com](mailto:jody@firstdegreefitness.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
