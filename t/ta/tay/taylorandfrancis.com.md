@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taylorandfrancis.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614222934id_/http%3A//www.taylorandfrancis.com/util/resources.asp%3Ff%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylorandfrancis.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224032529id_/http%3A//www.taylorandfrancis.com/util/resources.asp%3Ff%3Dprivacy) for the most accurate reproduction.*
 
 # Welcome to Taylor and Francis Books
 
