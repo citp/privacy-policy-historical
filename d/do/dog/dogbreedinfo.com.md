@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogbreedinfo.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609102159id_/http%3A//www.dogbreedinfo.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogbreedinfo.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224091842id_/http%3A//dogbreedinfo.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Dog Breed Info Centers® - Privacy Policy
 
