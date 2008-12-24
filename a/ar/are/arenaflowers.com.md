@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the arenaflowers.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511181308id_/http%3A//www.arenaflowers.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arenaflowers.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225004928id_/http%3A//www.arenaflowers.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+| 
 
   
 1\. Arena Online Limited, trading as “ArenaFlowers.com” (“Arena Flowers”or "we") is committed to protecting your privacy.  We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998 & subsequent revisions thereof).  We are registered with the Data Controller, in accordance with  the Data Protection Act.  We collect information about you for three reasons:
@@ -69,7 +71,7 @@ Thank you for visiting Arena Flowers.
 
 ## The Arena Flowers Team
 
-[](https://web.archive.org/web/) |    
+| [](https://web.archive.org/web/) |    
 ---|---  
 **An experience delivered**  
   
