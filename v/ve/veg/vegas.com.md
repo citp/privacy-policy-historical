@@ -1,17 +1,10 @@
-> *The following text is extracted and transformed from the vegas.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616071507id_/http%3A//www.vegas.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegas.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224030331id_/http%3A//www.vegas.com/about/privacy.html) for the most accurate reproduction.*
 
 # VEGAS.com: About VEGAS.com: Privacy & Security
 
 _Updated Aug. 28, 2007_
 
 * * *
-
-**Information We Collect**
-
-To better serve site visitors and customers, VEGAS.com collects two basic types of information from our customers:
-
-  
-
 
   * **Personally identifiable information:** This is information that personally identifies one individual from another. This information is voluntarily provided to us by our customers and is used by us for the purpose of fulfilling requests, inquiries or travel service orders. VEGAS.com does not rent or sell any of this information to anyone. 
   * **Aggregate user and tracking information:** This information gives us insights on how our customers and site visitors use our site and our other products. This data is anonymous in nature and does not contain any personally identifiable information. We use this information to ensure that our website, e-mails and marketing efforts continue to appeal to our customers. 
@@ -22,15 +15,11 @@ back to top
 
 * * *
 
-**Information We Collect About You**
-
-VEGAS.com only collects personally identifiable information that you voluntarily provide to us. Examples of such personally identifiable information that you provide to us includes your:
-
   * First and last name
   * Physical address or postal address
   * Phone number
   * Credit card number
-  * Credit card expirartion date
+  * Credit card expiration date
   * Credit card security ID number
   * E-mail address
   * Answer to your VEGAS.com sign-in question
@@ -41,13 +30,6 @@ VEGAS.com only requires personally identifiable information from you when it's n
 back to top
 
 * * *
-
-**Other Information VEGAS.com Collects**
-
-When you visit the VEGAS.com website, we automatically collect some information about your visit using cookies, web beacons, log analysis software and other aggregate tracking technologies.
-
- **Cookies**  
-Cookies are files that contain small amounts of data. If your browser is configured to accept these files, they are stored on your computer's hard drive. VEGAS.com uses these data files when you visit our site to anonymous identify you. By using cookies, VEGAS.com is able to:
 
   * Completely support and enhance your visit to our site.
   * Allow you to access your account information without requiring you to answer your sign-in question multiple times during the same visit to our site. 
@@ -94,10 +76,6 @@ We also receive aggregate information such as page views, search terms and click
 back to top
 
 * * *
-
-**How VEGAS.com Uses the Information We Collect**
-
-VEGAS.com may use your information, including personally identifiable information, for business purposes including, without limitation, for the following business purposes:
 
   * Answer to your VEGAS.com sign-in question
   * To improve the quality of your VEGAS.com visit.
@@ -206,13 +184,6 @@ VEGAS.com may also share aggregate information to service providers, business pa
 back to top
 
 * * *
-
-**VEGAS.com Products Offered on Other Sites**
-
-VEGAS.com does not share personally identifiable information with business partners who display or offer VEGAS.com products on their websites.
-
-  
-
 
 back to top
 
