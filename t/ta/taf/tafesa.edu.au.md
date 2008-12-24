@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tafesa.edu.au privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629161251id_/http%3A//www.sacentral.sa.gov.au/site/page.cfm%3Fu%3D25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tafesa.edu.au privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224230658id_/http%3A//www.sacentral.sa.gov.au/site/page.cfm%3Fu%3D25) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -25,4 +25,4 @@ This Site collects and uses the following information from users:
 
 
 
-[](https://web.archive.org/web/20080629161251id_/http%3A//www.sacentral.sa.gov.au/site/page.cfm?u=25&print=1)
+[](https://web.archive.org/web/20081224230658id_/http%3A//www.sacentral.sa.gov.au/site/page.cfm?u=25&print=1)
