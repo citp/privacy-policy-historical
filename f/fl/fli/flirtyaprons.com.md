@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the flirtyaprons.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622031422id_/http%3A//flirtyaprons.com/cart/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirtyaprons.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224122101id_/http%3A//flirtyaprons.com/cart/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice :: Flirty Aprons - Buy Aprons Online - Specialty Aprons - Cute Girlie Aprons
 
-| 
+|  | 
 
 **STORE TERMS  
 PRIVACY POLICY PAGE:  
@@ -177,5 +177,5 @@ and its affiliates maintain professional standards and have a high quality of re
   
 
 
-|  |  |  |   
+|  |  |   
 ---|---|---|---|---|---
