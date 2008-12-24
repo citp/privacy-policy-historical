@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the akbartravelsonline.com privacy policy that was archived on 2008-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080331123827id_/http%3A//www.akbartravelsonline.com/Service/pages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akbartravelsonline.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224022101id_/http%3A//www.akbartravelsonline.com/Service/pages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Akbar Travels Online.com
+
+| 
+
+Privacy Policy
 
 We have developed this Privacy Policy to demonstrate our firm commitment to your privacy and the protection of your information. As part of the operation of services, we collect and, in some instances, disclose information about you. This privacy policy has been developed to keep you informed of what personally identifiable information we may collect from you, what this information will be used for, with whom such information will be shared, and the security procedures we have implemented to protect your privacy. 
 
