@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plrxtreme.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410121848id_/http%3A//www.plrxtreme.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plrxtreme.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224014250id_/http%3A//www.plrxtreme.com/privacy.htm) for the most accurate reproduction.*
 
 # PLR Xtreme | Privacy Policy
 
