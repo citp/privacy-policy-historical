@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iapplicants.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528022924id_/http%3A//www.iapplicants.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iapplicants.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224075040id_/http%3A//www.iapplicants.com/privacy.htm) for the most accurate reproduction.*
 
 # iApplicants™ Applicant Tracking System – Privacy Policy
 
@@ -44,4 +44,4 @@ All applicant information is restricted by administrative login to the iApplican
 
 The access and use of applicant information by our individual clients’ employees who have an administrative login is controlled and regulated by the individual clients. It is up to each of our individual clients to manage who has access to the administrative logins and to ensure that their own employees are kept up-to-date on security and privacy practices. 
 
-For any questions regarding iApplicants™ security or privacy policy, please email us at privacy@iapplicants.com or call 877-228-1487. 
+For any questions regarding iApplicants™ security or privacy policy, please email us at privacy@iapplicants.com or call 888-633-9269. 
