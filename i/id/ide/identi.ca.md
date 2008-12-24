@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the identi.ca privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618161546id_/http%3A//identi.ca/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the identi.ca privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224021509id_/http%3A//identi.ca/doc/privacy) for the most accurate reproduction.*
 
 # Privacy - Identi.ca
 
@@ -10,6 +10,8 @@ This document outlines this service's respect for your personal privacy as a use
     * your email address
     * your IM address (AIM, Jabber, or other instant messaging address)
     * your phone number
+    * your "private messages"
+    * your login credentials (username and password) for other services (Twitter, Facebook, etc.)
   * Some private data may be published in aggregate, e.g. "30% of our users are registered with Hotmail addresses."
   * Your notices (including files) can be downloaded and re-used by other services, either one-by-one or in bulk as [RSS](http://en.wikipedia.org/wiki/RSS) files.
   * Your profile information (including subscriptions and avatars) can be downloaded and re-used by other services, either scraped from the HTML interface or in bulk as [FOAF](http://en.wikipedia.org/wiki/FOAF) files.
@@ -19,11 +21,5 @@ This document outlines this service's respect for your personal privacy as a use
   * Based on your email preferences, you may receive an email newsletter. You can opt out of the newsletter if you don't want to receive it.
   * In urgent situations, administrators may send you email directly to your registered email address, even if you've requested no notices or newsletter. _Administrators will use digitally-signed email._
   * This service will comply with court orders to turn over your private information.
-
-
-
-  * [About](http://identi.ca/doc/about)
-  * [Privacy](http://identi.ca/doc/privacy)
-  * [Source](http://identi.ca/doc/source)
 
 
