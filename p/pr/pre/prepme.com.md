@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prepme.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511223131id_/http%3A//www.prepme.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepme.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224022325id_/http%3A//www.prepme.com/about/privacy) for the most accurate reproduction.*
 
-# PrepMe: Prepare for the future
+# PrepMe - Premium Online SAT, ACT, PSAT Test Prep
 
 We at PrepMe, Inc. and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information you share with us. 
 
