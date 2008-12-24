@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verizonbusiness.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213445id_/http%3A//www22.verizon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verizonbusiness.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224055318id_/http%3A//www22.verizon.com/privacy) for the most accurate reproduction.*
 
 # Verizon | About Verizon - Privacy and Customer Security Policies - Internet Privacy
 
@@ -25,7 +25,7 @@ Back to Top
 What happens when I provide information on registration forms?  
 When you choose to register with verizon.com or any other Verizon site, we request accurate contact information and preferences that help us better serve you. You will always retain the option to choose if your contact information is used to send you company and product information, special offers, and in some cases, newsletters. 
 
-If you're a local Verizon phone service customer, you may be given the option to register a profile with us (limited to specific areas). We would then store your name, purchase history, and billing information to make it easier for you to shop and purchase from us in the future. Customers have access to their account information on their monthly bills or by establishing an [account online](https://www22.verizon.com/myaccount/). 
+If you're a local Verizon phone service customer, you may be given the option to register a profile with us (limited to specific areas). We would then store your name, purchase history, and billing information to make it easier for you to shop and purchase from us in the future. Customers have access to their account information on their monthly bills or by establishing an [account online](https://www22.verizon.com/myverizon/). 
 
 At anytime you may:
 
