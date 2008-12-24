@@ -1,43 +1,90 @@
-> *The following text is extracted and transformed from the asianpopcorn.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609194230id_/http%3A//www.asianpopcorn.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianpopcorn.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224050514id_/http%3A//asianpopcorn.com/guide/privacy_privacypolicy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Popcorn Guide
 
-Information Collected/Tracked by Asianpopcorn 
+Asianpopcorn is an online application that helps people find local services they can trust by soliciting and aggregating reviews. To accomplish this, our users write reviews about local services that are posted to the Asianpopcorn Site. These reviews can then be accessed and read by other Asianpopcorn users. For the purposes of this Privacy Policy, a "user" is defined as someone using the Asianpopcorn Site, and a "friend" is defined as someone you have explicitly invited to share reviews with you. To fulfill the purpose of our site, we need to display a limited amount of personal information, so that users are able to evaluate the trustworthiness of a particular review.
 
-Information not Directly Submitted by Users to Asianpopcorn 
+By using Asianpopcorn, you permit the collection and use of your personal information as outlined below in our Privacy Policy. You should visit this page periodically to review any changes to the Privacy Policy. 
 
-This is information we collect that is not personally identifiable, such as browser type and IP address. This information is gathered for all users to the site. 
+1.
 
-Use of Information Obtained by Asianpopcorn
+Information We Collect
 
-Information that users do not submit to us 
+Asianpopcorn collects user submitted account information such as name and email address to identify you and send you notifications related to the use of the service. Asianpopcorn also collects user submitted location information such as city, state or zip. Asianpopcorn also collects user submitted photos, reviews, and ratings of local businesses and service providers. 
 
-We use your server, IP address, and browser-type related information in the general administration of our website. 
+Some information collected is not explicitly submitted by the user; we log your browser-type related information, IP address, requested URL, referring URL, and timestamp.
 
-Sharing of the Information this Site Gathers/Tracks
+2.
 
-As a matter of policy, except where you are expressly informed otherwise, we do not sell, rent, share, trade or give away any of your personal information unless required by law or for the protection of your membership. However, Asianpopcorn may share profile information and aggregate usage information in a non-personally identifiable manner to advertisers and other third parties in order to present to members more targeted advertising, products and services. In such situations we will never disclose information that will be used to personally identify you. 
+How We Use Your Information
+
+Information such as your full name, profile photo and any personally identifiable information you have included in your reviews may be shown to friends or other users primarily in conjunction with reviews you have contributed. If a person is a friend they can also see your name or email address in their list of friends. In addition, we may sell your reviews to third parties, in which case your first name and last initial and any personally identifiable information you have included in your reviews may be shown to users of such third party web sites.
+
+Your full name and email address may also be used when you send an email notification to a friend (such as in an invitation, or when sharing a review). We may also use your email address to send you updates or news regarding our site, but you may choose not to receive email of this type by accessing the "Account" tab of the web site and updating your notification settings. Additionally, we use your email address to contact you on behalf of your friends (such as when someone sends you a personal message). 
+
+Browser-type related information, IP address, requested URL, referring URL, and timestamp data help us diagnose problems with our server, administer Asianpopcorn, and otherwise provide the highest possible level of service to you. In addition, we use this information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to, or clicked on, their advertising banners. 
+
+3.
+
+Transfer of Information
+
+We may sell your reviews to third parties. Your first name and last initial, profile photo, any submitted photos of businesses, and any personally identifiable information you have included in your reviews may be transferred to such third parties and displayed on their websites in connection with such third parties' publication of your reviews.
+
+Except as set forth in this Privacy Policy, we do not sell, rent, share, trade or give away any of your personal information. Asianpopcorn will disclose information about individual users to governmental or judicial authorities or law enforcement agencies, or to other individuals or entities in response to subpoenas, court orders, or other legal processes. Further, Asianpopcorn may share information in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or to enforce or apply the terms and conditions of this Privacy Policy. 
+
+We reserve the right to transfer your personal information in the event of a transfer of ownership of Asianpopcorn, such as an acquisition by or merger with another company. In such an event, Asianpopcorn will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+
+Asianpopcorn will notify you when information about you may be provided to third parties in ways other than explained above, and you will have the option to prevent such information sharing.  
+
+4.
 
 Links
 
-This site may contain links to other websites. Please be aware that Asianpopcorn is not responsible for the privacy practices of other Web sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+Our website may contain links to third party websites to which we have no affiliation. Asianpopcorn does not share your personal information with those websites and is not responsible for their privacy practices. We suggest you read the privacy polices on these third party websites.
+
+5.
 
 Use of Cookies
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. Cookies are used to manage sessions on our site. Users must enable cookies to use our site. Also, users may optionally use a cookie to remember their password in order to automatically log in to our site. We do not and will not use cookies to collect private information from any user which they did not intentionally submit to us. 
+Like most websites, Asianpopcorn requires cookies to function properly. Cookies are small text files that reside on a user's computer and identify you as a unique user. We use cookies to refine our site and simplify the user experience. For example, the use of cookies allows registered users to enter our site without explicitly typing in their email address and password every time. You should be aware that Asianpopcorn cannot control the use of cookies by advertisers or any information advertisers may gather from their use of cookies. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature; however, you should note that cookies may be necessary to provide you certain features (e.g., customized delivery of information) available on the Asianpopcorn site.
 
-Correcting/Updating or Removing Information
+6.
 
-Asianpopcorn users may modify their personal information at any time by logging into their account and accessing features such as Edit Profile. 
+Controlling Your Personal Information
 
-Changes in Our Privacy Policy
+You should be aware that when you voluntarily disclose personally identifiable information (e.g., user name, e-mail address) via reviews, messages, forums, postings, or in other areas of the Asianpopcorn site, that information, along with any substantive information disclosed in your communication, can be collected and correlated and used by third parties and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of Asianpopcorn. Please do not post any personal information on the Asianpopcorn site or in other areas that you expect to keep private. 
 
-If we change our privacy policy, we will post those changes on our web site so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email or by placing a prominent notice on our site. 
+As a registered Asianpopcorn user, you can modify your personal information at any time by accessing the "Account" section of the site. Also, upon your request, Asianpopcorn will use commercially reasonable efforts to functionally remove you and your personal information from the site; however, it may be impossible to remove your entry without some residual information being retained by Asianpopcorn. Registered users who wish to close their account should contact [admin@Asianpopcorn.com](mailto:admin@yelp.com). 
+
+7.
 
 Security
 
-Your Asianpopcorn account is password-protected. This web site takes every precaution to protect our users' information. We use industry standard measures to protect your information that is stored within our database. We limit the access to your information to those employees who need access to perform their job function such as our customer service personnel. If you have any questions about the security at our website, please contact us. 
+Your Asianpopcorn account is password-protected. Asianpopcorn tries very hard to protect our users' information. We use industry standard measures to protect your information that is stored within our database. We limit the access to your information to those employees who need access to perform their job function such as our customer service personnel. If you have any questions about the security at our website, please [contact us](mailto:admin@yelp.com). Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. 
 
-Third Party Advertising
+You hereby acknowledge that Asianpopcorn is not responsible for any intercepted information sent via the Internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.
 
-The ads appearing on this Web site are delivered to users by our Web advertising partners. Our Web advertising partners may set cookies. Doing this allows the ad network to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. Asianpopcorn does not have access to or control of the cookies that may be placed by the third-party ad servers or ad networks. 
+8.
+
+Emails and Opt-out
+
+At this time, registered members cannot opt-out of personal messages initiated by friends and users, however they may opt-out of receiving notifications initiated by Asianpopcorn (note: notification settings can be found under the " Account" tab). Unregistered users that do not wish to receive emails may opt-out of receiving any communications by following the instructions contained in all emails.
+
+9.
+
+Children
+
+This website is not directed to children, and Asianpopcorn does not knowingly solicit information from any child under the age of 13. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child (or a parent or guardian) to inform him or her that we must have parental consent before receiving his or her personal information.
+
+10.
+
+Terms and Modifications to this Privacy Statement
+
+By using the website, you signify your agreement to the terms of our Privacy Policy. If you do not agree with these terms, you should not use the site. Asianpopcorn may modify this Privacy Policy at any time. If a material change is made to this Privacy Policy and/or the way we use our users' personally identifiable information, then we will post a prominent notice of the nature of such change on the first page of this Privacy Policy and also on our home page. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the site indicates your assent to any changes to this Privacy Policy.
+
+11.
+
+Contacting the Web Site
+
+If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact: info (at) asianpopcorn  
+
