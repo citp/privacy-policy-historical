@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macworld.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618044009id_/http%3A//www.macworld.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macworld.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224014805id_/http%3A//www.macworld.com/info/privacy.html) for the most accurate reproduction.*
 
 # Macworld | Macworld
 
@@ -10,7 +10,7 @@ We reevaluate this policy on an ongoing basis, and we value your feedback. If yo
 >  Mac Publishing LLC  
 >  501 Second Street  
 >  San Francisco, CA 94107  
->  e-mail: [sitehelp@macworld.com](https://web.archive.org/web/20080618044009id_/http%3A//www.macworld.com/info/sitehelp@macworld.com)
+>  e-mail: [sitehelp@macworld.com](https://web.archive.org/web/20081224014805id_/http%3A//www.macworld.com/info/sitehelp@macworld.com)
 
 Please note that this privacy policy may change from time to time. We will post the new policy on this page, and, if the changes allow us to use personally identifying information in ways that are different from the ways specified at the time the information was originally collected, our Web site will contain a special notice about the changes. Each version of this privacy policy will be identified by its effective date, which you can find at the bottom of the page.
 
@@ -25,7 +25,7 @@ When you visit the Macworld Web sites, Macworld collects several forms of usage 
   * Log data. Our servers automatically record certain information sent by your browser, such as your Web request, your Internet Protocol address, your referring URL, your browser type and language, and the date and time of your request.
   * Cookie data. When you visit the Macworld Web sites, Macworld or one of our IDG affiliates or third-party partners may send one or more "cookies"-small files containing a string of characters-to your computer to identify you as a unique user. If you have registered with Macworld, the information in your cookie is used to provide a more personalized experience on our sites, for example by allowing you to customize portions of the site. If you haven't registered, the cookie identifies you as a unique user and helps ensure a smoother experience on the sites, such as by limiting the number of times that you see certain subscription offers. If you have not registered on our site, we cannot link the user ID in the cookie with personal identifying information and data about you, such as your name or e-mail address.
   * Traffic and advertising data. Other cookies are used to enable Macworld and our advertisers and service providers to gather and analyze site traffic and usage information, and to manage the content and advertisements presented. These cookies sometimes work in conjunction with other techniques, such as clear GIFs or pixel tags. The cookies placed by Macworld do not contain personally identifying information, but they may gather information about what sites and types of content you have visited and use that information to determine which content and ads appear when you visit various Web sites, including the Macworld sites.
-  * Third party advertising companies. We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Macworld sites. These companies may place cookies, web beacons or similar technologies that allow them to collect and use anonymous information about your visits to the Macworld sites and other sites. For more information about their practices and your options regarding their collection and use of information, click [here](http://www.doubleclick.com/us/about_doubleclick/privacy/) to visit the DoubleClick website and [here](http://www.networkadvertising.org/managing/opt_out.asp) to visit the website of the Network Advertising Initiative.
+  * Third party advertising companies. We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Macworld sites. These companies may place cookies, web beacons or similar technologies that allow them to collect and use anonymous information about your visits to the Macworld sites and other sites. For more information about their practices and your options regarding their collection and use of information, click [here](http://www.doubleclick.com/privacy/index.aspx) to visit the DoubleClick website and [here](http://www.networkadvertising.org/managing/opt_out.asp) to visit the website of the Network Advertising Initiative. In addition, some of the image ads that Google serves on our site come from third party advertising companies. Click [here](http://adwords.google.com/support/bin/answer.py?answer=94230) to see Google's rules for advertising companies that participate in the program, and [here](https://www.google.com/adsense/support/bin/answer.py?answer=94149&ctx=sibling) to see a list of the advertising companies that are currently participating.
 
 
 
@@ -82,7 +82,7 @@ You may have the opportunity to provide us with your mobile phone number, whethe
 
 Postal addresses and telephone numbers (other than mobile phone numbers described above) will be used to promote Macworld and IDG companies products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the postal addresses and telephone numbers are rented and/or licensed for use are screened and the users are required to target their offers carefully. Fax numbers may be used for surveys for Macworld and third parties, but are not rented and/or licensed to outside firms except as expressly set forth in this policy.
 
-In addition to the methods outlined above, you may change your preferences regarding use of personal data by sending an e-mail to [sitehelp@macworld.com](https://web.archive.org/web/20080618044009id_/http%3A//www.macworld.com/info/sitehelp@macworld.com)
+In addition to the methods outlined above, you may change your preferences regarding use of personal data by sending an e-mail to [sitehelp@macworld.com](https://web.archive.org/web/20081224014805id_/http%3A//www.macworld.com/info/sitehelp@macworld.com)
 
 If Macworld or any of its products is involved in a merger, acquisition, or sale of some or all of its assets, all personally identifying information and other data will be transferred to the new owner.
 
@@ -143,7 +143,7 @@ Macworld is part of the IDG Publishing Network, a group of Web sites for the IDG
 
 #### IDG Publishing Network Privacy Policy
 
-Below is the current policy regarding the usage of personally identifying information and data collected by the IDG Publishing Network. We reevaluate this policy on an ongoing basis based on feedback from readers. The IDG Publishing Network reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifiable information and data that is different from that stated at the time of collection, we will notify you by posting a notice on [www.idg.com](https://web.archive.org/web/20080618044009id_/http%3A//www.macworld.com/info/http;//www.idg.com).
+Below is the current policy regarding the usage of personally identifying information and data collected by the IDG Publishing Network. We reevaluate this policy on an ongoing basis based on feedback from readers. The IDG Publishing Network reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifiable information and data that is different from that stated at the time of collection, we will notify you by posting a notice on [www.idg.com](https://web.archive.org/web/20081224014805id_/http%3A//www.macworld.com/info/http;//www.idg.com).
 
 About the IDG Publishing Network
 
@@ -157,4 +157,4 @@ The IDG Publishing Network is intended for individuals age 13 and over. Personal
 
 If you have any questions or comments regarding the IDG Publishing Network or its use of information please send e-mail to [IDGNetwork@idg.com](mailto:IDGNetwork@idg.com) or write to us at IDG Publishing Network, 3 Post Office Square, Boston, MA 02109.
 
-Last updated: April 21, 2008.
+Last updated: June 18, 2008.
