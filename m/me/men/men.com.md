@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the men.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629053411id_/http%3A//www.men.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the men.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224120526id_/http%3A//www.men.com/privacy.php) for the most accurate reproduction.*
 
-# Men.com Magazine
+# Men.com Privacy Policy
 
-Men.com Privacy Policy
+**Men.com Privacy Policy**
 
 Thank you for visiting Men.com. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used on this site. The Men.com web site is governed by this Privacy Notice. 
 
@@ -62,4 +62,4 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 **How to Contact Us**
 
-If you have any questions or concerns about the Men.com online policy for this site or its implementation you may contact us at [Admin@Men.com](mailto:Admin@Men.com). 
+If you have any questions or concerns about the Men.com online policy for this site or its implementation you may contact us at [Admin@Men.com](mailto:Admin@Men.com).
