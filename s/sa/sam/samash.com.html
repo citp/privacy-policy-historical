@@ -1,290 +1,794 @@
-<!--The following is the downloaded HTML source of the samash.com privacy policy that was archived on 2007-10-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071021033839id_/http%3A//www.samash.com/legal/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the samash.com privacy policy that was archived on 2008-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081224125535id_/http%3A//www.samash.com/opencms/opencms/samash/footer/PrivacyPolicy.jsp) for the most accurate reproduction.-->
 
-<html><head>
-<title>Sam Ash Music 1-800-4-SAMASH</title>
-<meta name="keywords" content="musical instruments, sound systems, recording equipment, guitars, drums, keyboards, band instruments">
-<meta name="description" content="Buy Music Equipment At Sam Ash. Your source for guitars, drums, keyboards, pro audio, dj gear - all at the guaranteed lowest prices.">
-	<link rel="shortcut icon" href="http://www.samash.com/favicon.ico">
-	<link rel="stylesheet" href="/inc/other.css?refresh=3">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; CHARSET=UTF-8">
+  <meta name="description" content="SamAsh Content Management">
+  <meta name="keywords" content="OpenCms, SamAsh, Content Management">
+  <title>Privacy Policy | Sam Ash Music 1-800-4-SAMASH</title>
+  <link rel="stylesheet" type="text/css" href="/wcsstore/ConsumerDirectStorefrontAssetStore/css/style.css">
+  <link rel="stylesheet" type="text/css" href="/opencms/export/system/modules/com.samash.opencms.templates/resources/helpstyle.css">
+  <link rel="shortcut icon" href="/wcsstore/ConsumerDirectStorefrontAssetStore/images/favicon.ico">
+  <!--
+    Make up for twin :hover and .png deficiencies in IE6 and below with behavior.
 
-	<script language="JavaScript">
-		<!-- Overture Services, Inc
-		var pm_tagname = "universalTag.txt";
-		var pm_tagversion = "1.4";
-		var pm_accountid = "MFB2AGBNA3U3SM2B78CVG78KJ4";
-		var pm_scripthost = "srv.perf.overture.com";
-		var pm_customargs = "";
-		var pm_querystr = "?" + "ver=" + pm_tagversion + "&aid=" + pm_accountid + pm_customargs;
-		var pm_tag = "<SCR" + "IPT LANGUAGE='JavaScript' " + "SRC=//" + pm_scripthost + "/collweb/ScriptServlet" + pm_querystr + "></SCR" + "IPT>";
-		document.write(pm_tag);
-		// -->
-	</script><script language="JavaScript" src="//srv.perf.overture.com/collweb/ScriptServlet?ver=1.4&amp;aid=MFB2AGBNA3U3SM2B78CVG78KJ4"></script>
-		<script language="JavaScript" src="/inc/top.js"></script>
-<script language="JavaScript">
-function SamAsh_BodyOnLoad()
-{
-
-}
-</script>
-<script language="JavaScript">
-function SamAsh_BodyOnUnLoad()
-{
-
-}
-</script>
+    A proprietary behavior is acceptable here because the pop-up works in
+    standards-compliant browsers (Mozilla, Opera, Safari) and IE7 without scripting.
+  -->
+  <!--[if lt IE 7]>
+  <style>
+  div.category { behavior:url("/wcsstore/ConsumerDirectStorefrontAssetStore/javascript/popup.htc"); }
+  </style>
+  <![endif]-->
 </head>
-<body topmargin="0" leftmargin="0" bgcolor="#ffffff" marginheight="0" marginwidth="0" rightmargin="0" onresize="" onload="javascript: SamAsh_BodyOnLoad();" onunload="javascript: SamAsh_BodyOnUnLoad();">
+<body leftmargin="15">
+<script type="text/javascript" language="javascript" src="/wcsstore/ConsumerDirectStorefrontAssetStore/javascript/MiniCartRecentViewItems.js"></script>
 
-<!-- BEGIN COREMETRICS SUPPORT -->
-<script language="javascript1.1" src="/coremetrics/v40/eluminate.js" type="text/javascript"></script>
-<script language="javascript1.1" src="/coremetrics/cmdatatagutils.js" type="text/javascript"></script>
-<script language="javascript1.1" type="text/javascript">
-<!--
-	cmSetProduction();
-	cmCreatePageviewTag("/legal/privacy.asp", null, null, null);
-//-->
+  
+
+
+
+
+
+
+
+
+
+
+
+<script language="JavaScript">
+/****************************************************/
+/* Added functions to set user name and logon cookie */
+/****************************************************/
+
+
+     
+	/* QN 11.15.06: function to update the links and text in util bar based on user cookie values */
+	function updateLinksBasedOnCookieValues()
+	{
+
+		var remember = getUserCookieValue('SAREMEMBER_ME','REMEMBER');
+
+		if (remember == null)
+			remember = '0';
+
+		var recognized = false;
+		var loggedIn = false;
+
+		var logonCookie = getCookie('SAUSER_LOGON');
+
+		if (logonCookie != null && logonCookie != "") 
+			loggedIn = true;   
+
+		if (remember == '1' && !loggedIn)
+		{
+			recognized = true;
+		}     
+
+		/* Setting the greeting message */
+		if (recognized || loggedIn)
+		{
+			var userName = getUserCookieValue('SAREMEMBER_ME','NAME');
+			if (userName == null || userName.length == 0)
+				userName = 'to SamAsh';
+
+			document.getElementById("greetingElement").innerHTML = userName;
+		} 
+
+		if (recognized) {
+			document.LogoffForm.remember.value = 'false';        
+			//changeLoginToLogoutLink(remember);
+			document.getElementById("greetingElement").innerHTML = 
+				document.getElementById("greetingElement").innerHTML + "&nbsp;" + 
+				"(<a href='#' onClick='javascript: logoutUser()' >Not you?</a>)";
+			// Change the Login link to Logout
+			changeLoginToLogoutLink(remember);
+		}
+		/* Setting the Register/Logout link */ 
+		else if (loggedIn) 
+		{
+
+			// Change the Login link to Logout
+			changeLoginToLogoutLink(remember);
+
+		}
+
+	}
+
+	/* Switch the Register/Login link to Logout */
+	function changeLoginToLogoutLink(remember)
+	{
+		document.LogoffForm.remember.value = remember;
+		document.getElementById("logonLink").className = "logout";
+		document.getElementById("logonLink").href = "#";
+		document.getElementById("logonLink").title = "Logout";
+		document.getElementById("logonLink").innerHTML = "<span>Logout</span>";
+		document.getElementById("logonLink").onclick = logoutUser;
+	}
+
+function logoutUser()
+{
+	document.LogoffForm.submit();
+}
+
+	
 </script>
-<!-- END COREMETRICS -->
 
-<map name="header-right">
-<area shape="rect" coords="224,15,305,39" alt="Shopping Cart" href="/cart/">
-<area shape="rect" coords="306,15,379,39" alt="Samash Card" href="/promopages/nopay.asp">
-<area shape="rect" coords="380,15,448,39" alt="Your Account" href="/secure/myaccount/">
-<area shape="rect" coords="120,52,207,68" alt="Closeout Items" href="/closeouts/closeout.asp?departmentid=">
-<area shape="rect" coords="224,50,310,70" alt="Shop By Brand" href="/brand/brandsearch.asp?specifier=0">
-<area shape="rect" coords="313,50,368,70" alt="Help" href="/help/">
-<area shape="rect" coords="374,49,446,70" alt="Free Catalog" href="/catalogsignup/">
-<area shape="rect" coords="9,11,215,45" href="/content_x/freeship.asp">
-</map>
+	<form name="LogoffForm" action="/webapp/wcs/stores/servlet/Logoff" method="post">
+		<input type="hidden" name="URL" value="StoreCatalogDisplay">
+		<input type="hidden" name="langId" value="-1">
+		<input type="hidden" name="storeId" value="10052">
+		<input type="hidden" name="catalogId" value="10002">
+		<input type="hidden" name="personalizedCatalog" value="false">
+		<input type="hidden" name="remember" value="0">
+		<input type="hidden" name="displayLogoffMsg" value="1">
+	</form>	
 
-<map name="nav">
-<area shape="rect" coords="0,0,57,37" alt="Home" href="/">
-<area shape="rect" coords="57,0,129,37" alt="Guitars" href="/department/guitar/">
-<area shape="rect" coords="129,0,195,37" alt="Basses" href="/department/bass/">
-<area shape="rect" coords="195,0,260,37" alt="Drums" href="/department/drums/">
-<area shape="rect" coords="262,0,353,37" alt="Keyboards" href="/department/keyboard/">
-<area shape="rect" coords="353,0,418,37" alt="Live Sound" href="/department/livesound/">
-<area shape="rect" coords="420,0,508,37" alt="Recording" href="/department/recording/">
-<area shape="rect" coords="510,0,586,37" alt="DJ &amp; Lighting" href="/department/dj/">
-<area shape="rect" coords="588,0,680,37" alt="Band &amp; Orchestra" href="/department/band/">
-<area shape="rect" coords="682,0,775,37" alt="Computers &amp; Software" href="/department/computers/">
-<area shape="rect" coords="777,0,853,37" alt="Books &amp; Video" href="/department/booksvideo/">
-</map>
-<form action="http://www.samash.com/catalog/search.asp" method="post" id="SearchForm" name="SearchForm" style="padding:0px; margin:0px;">
-<table cellpadding="0" cellspacing="0" border="0" align="center">
-<tbody><tr>
-<td valign="top" align="right" width="32" style="background-image:url('/images/topnav/fade-left.gif'); background-repeat: none; background-position: top right;"></td>
-<td valign="top" width="854" style="background-image:url('/images/topnav/fade-bg.gif'); background-repeat: repeat-x; background-position: top;"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><a href="/"><img src="/images/topnav/header-left.gif" align="left" border="0"></a><img src="/images/topnav/header-right_fs.gif" width="450" height="73" border="0" align="right" usemap="#header-right" href="/content_x/freeship.asp"></td>
-</tr><tr><td><img src="/images/topnav/nav.gif" border="0" usemap="#nav"></td></tr></tbody></table></td>
-<td valign="top" align="left" width="32" style="background-image:url('/images/topnav/fade-right.gif'); background-repeat: none; background-position: top left;"></td>
-</tr>
-<tr><td colspan="3" height="2"><img src="/images/spacer.gif" height="1" width="1"></td></tr>
-<tr>
-<td></td>
-<td style="font-family: Arial; font-size: 12px; font-weight: normal; color: #979A9E;">
-	<table width="854" cellpadding="0" cellspacing="0" border="0" style="font-family: Arial; font-size: 12px; font-weight: normal; color: #979A9E;">
+<div class="header">
+  <div class="cartlinks">
+      <a id="logonLink" href="/webapp/wcs/stores/servlet/LogonForm?storeId=10052&amp;catalogId=10002&amp;langId=-1" title="Register/Login">Register/Login</a>
+    | <a href="/webapp/wcs/stores/servlet/SAGiftCardAddView?storeId=10052&amp;catalogId=10002&amp;langId=-1">e-Gift Certificate</a>
+    | <a href="/webapp/wcs/stores/servlet/LogonForm?storeId=10052&amp;catalogId=10002&amp;langId=-1">my account</a>
+    | <a href="/webapp/wcs/stores/servlet/InterestItemDisplay?storeId=10052&amp;catalogId=10002&amp;langId=-1&amp;listId=.">wish list</a>
+    | <a href="/opencms/opencms/samash/contests/Contest.jsp">contests</a>
+    | <a href="/opencms/opencms/samash/footer/FAQ.jsp">help</a>
+  </div>
+
+  <div class="cartsummary">
+    <a href="/webapp/wcs/stores/servlet/quickOrder_-1_10052_10002" class="quickorder">quick order</a>
+    <a href="/webapp/wcs/stores/servlet/OrderCalculate?URL=OrderItemDisplay&amp;storeId=10052&amp;catalogId=10002&amp;langId=-1&amp;orderId=.&amp;updatePrices=1&amp;calculationUsageId=-1" class="carticon"><img src="/wcsstore/ConsumerDirectStorefrontAssetStore/images/cart.gif" width="17" height="17" alt="" border="0"></a>
+    <a href="/webapp/wcs/stores/servlet/OrderCalculate?URL=OrderItemDisplay&amp;storeId=10052&amp;catalogId=10002&amp;langId=-1&amp;orderId=.&amp;updatePrices=1&amp;calculationUsageId=-1">shopping cart</a>
+    <b>
+    <script language="javascript">
+      displayCartItems();
+    </script>0
+    items, $
+    <script language="javascript">
+      displayCartTotal();
+    </script>0.00
+    </b>
+  </div>
+
+  <div class="menu1">
+    <div class="m1group2">
+        <a href="/webapp/wcs/stores/servlet/SAShopByBrandView_-1_10052_10002">shop by brand</a>
+      | <a href="/webapp/wcs/stores/servlet/search_-1_10052_10002_UTF-8______-1_-1__________0_-1_c%3Dx%253A0%252F%252Fsa%20bundle%20freeitem_DrillDown__">shop by free gift</a>
+      | <a href="/webapp/wcs/stores/servlet/search_-1_10052_10002_UTF-8___t%3A3%2F%2F%3Assl%2F%2Fiphrase+bundle+taxonomy%2F%2F%3ACloseout__DollarsSold_-1_-1__________0_-1__DrillDown___">closeout</a>
+      | <a href="/opencms/opencms/samash/footer/FreeInfo.jsp">free info</a>
+    </div>
+  </div>
+
+  <!--
+    The conditional comment structure is a little icky, but it accomplishes several things:
+
+    1) Lets us use transparent PNGs so we can swap out the guitar image alone and still
+       let things antialias properly without recomposing the entire header in Photoshop.
+    2) Keeps layout declarative, without javascript or server-side detection, so downloaded
+       static pages still work right.
+    3) Lets us write formally valid CSS in the style sheet.
+
+    NOTES:
+    Relative AlphaImageLoader filespecs are relative to the HTML page,
+    as opposed to the CSS convention of being relative to the CSS document. A CSS hack
+    will work, but can introduce confusion unless you always use site-absolute
+    references. In our case, the URLs for the IMG and the filter can always be identical,
+    making it Macro-friendly (the a.logo transformation being the generic one).
+
+    If we used a "flair" div and put the "logo" link inside, then the AlphaImageLoader
+    filter on "flair" would deactivate the link on "logo" for IE6 and below.
+  -->
+
+  <!--[if lt IE 7]>
+  <div class="flair" style="filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='image',src='/wcsstore/root/images/catalogs/Home_Page.png'); width: 512px; height: 94px;"></div>
+  <a href="/webapp/wcs/stores/servlet/TopCategoriesDisplay?storeId=10052&catalogId=10002&langId=-1" class="logo" title="Sam Ash" style="filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='image',src='/wcsstore/ConsumerDirectStorefrontAssetStore/images/logo.png'); width: 224px; height: 54px;"></a>
+  <![endif]-->
+  <!--[if gte IE 7]>-->
+  <img class="flair" src="/wcsstore/root/images/catalogs/Home_Page.png" height="94" alt="">
+  <a href="/webapp/wcs/stores/servlet/TopCategoriesDisplay?storeId=10052&amp;catalogId=10002&amp;langId=-1" class="logo" title="Sam Ash"><img src="/wcsstore/ConsumerDirectStorefrontAssetStore/images/logo.png" width="224" height="54" alt="Sam Ash"></a>
+  <!--<![endif]-->
+</div>
+
+<div class="categories">
+
+  <!--
+    A menu item with a balloon looks like this. The pop-up happens via style sheet in most
+    browsers (notably not IE6 and below, which have an .htc script to make up the difference).
+
+    div.catinfomid has a fixed width, but may contain more or less arbitrary HTML.
+  -->
+
+
+  <div class="category" id="SA_Guitars">
+    <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182420" title="Guitars" class="catlink"><img src="/wcsstore/root/images/categories/Guitars.png" alt="Guitars"></a>
+    <div class="catinfo">
+      <div class="catinfostart"></div>
+      <div class="catinfostop"></div>
+      <div class="catinfomid">
+        <p>Guitars, Amps, Effects Pedals, Banjos, Mandolins, Pedal and Lap Steel, Other Fretted Instruments, and Accessories.</p>
+        <p>
+          <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182420"><b>Explore Guitars</b> &gt;</a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="category" id="SA_Basses">
+    <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182421" title="Basses" class="catlink"><img src="/wcsstore/root/images/categories/Basses.png" alt="Basses"></a>
+    <div class="catinfo">
+      <div class="catinfostart"></div>
+      <div class="catinfostop"></div>
+      <div class="catinfomid">
+        <p>Bass Guitars, Amps, Effects, Upright Basses, and Accessories.</p>
+        <p>
+          <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182421"><b>Explore Basses</b> &gt;</a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="category" id="SA_Drums">
+    <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182422" title="Drums" class="catlink"><img src="/wcsstore/root/images/categories/Drums.png" alt="Drums"></a>
+    <div class="catinfo">
+      <div class="catinfostart"></div>
+      <div class="catinfostop"></div>
+      <div class="catinfomid">
+        <p>Drums, Drum Hardware, Latin, Ethnic, and Orchestra Percussion, Cymbals, Gongs, Drum Machines, Marimbas, Tympani, and Accessories.</p>
+        <p>
+          <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182422"><b>Explore Drums</b> &gt;</a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="category" id="SA_Keyboards">
+    <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182423" title="Keyboards" class="catlink"><img src="/wcsstore/root/images/categories/Keyboards.png" alt="Keyboards"></a>
+    <div class="catinfo">
+      <div class="catinfostart"></div>
+      <div class="catinfostop"></div>
+      <div class="catinfomid">
+        <p>Synthesizers, Workstations, Controllers, Sound Modules, Portable Keyboards, Digital Pianos, Keyboard Amplifiers, and Accessories.</p>
+        <p>
+          <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182423"><b>Explore Keyboards</b> &gt;</a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="category" id="SA_Live_Sound">
+    <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182424" title="Live Sound" class="catlink"><img src="/wcsstore/root/images/categories/Live_Sound.png" alt="Live Sound"></a>
+    <div class="catinfo">
+      <div class="catinfostart"></div>
+      <div class="catinfostop"></div>
+      <div class="catinfomid">
+        <p>PA Systems, PA Mixers, PA Speaker Cabinets, Power Amps, Microphones, Headphones, Wireless Systems, Audio Decks, Signal Processors, Parts &amp; Accessories.</p>
+        <p>
+          <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182424"><b>Explore Live Sound</b> &gt;</a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="category" id="SA_Recording_and_Computers">
+    <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182425" title="Recording &amp; Computers" class="catlink"><img src="/wcsstore/root/images/categories/Recording_and_Computers.png" alt="Recording &amp; Computers"></a>
+    <div class="catinfo">
+      <div class="catinfostart"></div>
+      <div class="catinfostop"></div>
+      <div class="catinfomid">
+        <p>Digital Recorders, Analog Recorders, Field Recorders, Computer Hardware, Computer Software, Mixers, Expansion Boards, Power Amps, Studio Monitors, Microphones, Headphones, Parts &amp; Accessories.</p>
+        <p>
+          <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182425"><b>Explore Recording &amp; Computers</b> &gt;</a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="category" id="SA_DJ_and_Lighting">
+    <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182426" title="DJ &amp; Lighting" class="catlink"><img src="/wcsstore/root/images/categories/DJ_and_Lighting.png" alt="DJ &amp; Lighting"></a>
+    <div class="catinfo">
+      <div class="catinfostart"></div>
+      <div class="catinfostop"></div>
+      <div class="catinfomid">
+        <p>DJ Mixers, Turntables, Audio Decks, DJ Software, Signal Processors, Lighting Controllers, Lighting Effects, Power Amps, Speaker Cabinets, Karaoke, Microphones, DJ Headphones, Wireless, Parts &amp; Accessories.</p>
+        <p>
+          <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182426"><b>Explore DJ &amp; Lighting</b> &gt;</a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="category" id="SA_Band_and_Orchestra">
+    <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182427" title="Band &amp; Orchestra" class="catlink"><img src="/wcsstore/root/images/categories/Band_and_Orchestra.png" alt="Band &amp; Orchestra"></a>
+    <div class="catinfo">
+      <div class="catinfostart"></div>
+      <div class="catinfostop"></div>
+      <div class="catinfomid">
+        <p>Brass Instruments, Woodwind Instruments, Violins, Violas, Cellos, String Basses, Harmonicas, Kazoos, Melodicas, Song Flutes, Wireless Systems, Accessories.</p>
+        <p>
+          <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182427"><b>Explore Band &amp; Orchestra</b> &gt;</a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="category" id="SA_Accessories">
+    <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182428" title="Accessories" class="catlink"><img src="/wcsstore/root/images/categories/Accessories.png" alt="Accessories"></a>
+    <div class="catinfo">
+      <div class="catinfostart"></div>
+      <div class="catinfostop"></div>
+      <div class="catinfomid">
+        <p>Accessories for All Departments, Cables, Cable Management, Batteries, Power Supplies, Recording Media, Memory, Music Stands, Instrument Stands, Speaker Stands, Sound Proofing and Damping, Bags &amp; Cases.</p>
+        <p>
+          <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182428"><b>Explore Accessories</b> &gt;</a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="category" id="SA_Books_and_DVD">
+    <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182429" title="Books &amp; DVDs" class="catlink"><img src="/wcsstore/root/images/categories/Books_and_DVDs.png" alt="Books &amp; DVDs"></a>
+    <div class="catinfo">
+      <div class="catinfostart"></div>
+      <div class="catinfostop"></div>
+      <div class="catinfomid">
+        <p>Music Instruction, Songbooks, Lyric Books, Piano Books, Guitar Books, Brass Books, Woodwind Books, How To Books, Reference Books, Coffee Table Books, Manuscript Books, Teaching Aids, Posters.</p>
+        <p>
+          <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182429"><b>Explore Books &amp; DVDs</b> &gt;</a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="category" id="SA_Tour_Bus">
+    <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182430" title="Sam Ash Tour Bus" class="catlink"><img src="/wcsstore/root/images/categories/Offstage2.png" alt="Sam Ash Tour Bus"></a>
+    <div class="catinfo_last">
+      <div class="catinfostart_last"></div>
+      <div class="catinfostop"></div>
+      <div class="catinfomid">
+        <p>Musician's Jewelry, T-Shirts, Jackets, Gloves, Furniture, Display Cases, Coffee Table Books, Photos, Posters.</p>
+        <p>
+          <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182430"><b>Explore Sam Ash Tour Bus</b> &gt;</a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+
+
+
+</div>
+
+<form name="CatalogSearchForm" action="/webapp/wcs/stores/servlet/CatalogSearchResultView" method="get" target="" id="CatalogSearchForm">
+<input type="hidden" name="storeId" value="10052" id="WC_CachedHeaderDisplay_FormInput_storeId_In_CatalogSearchForm_1">
+<input type="hidden" name="catalogId" value="10002" id="WC_CachedHeaderDisplay_FormInput_catalogId_In_CatalogSearchForm_1">
+<input type="hidden" name="langId" value="-1" id="WC_CachedHeaderDisplay_FormInput_langId_In_CatalogSearchForm_1">
+<input type="hidden" name="pageSize" value="12" id="WC_CachedHeaderDisplay_FormInput_pageSize_In_CatalogSearchForm_1">
+<input type="hidden" name="beginIndex" value="0" id="WC_CachedHeaderDisplay_FormInput_beginIndex_In_CatalogSearchForm_1">
+<input type="hidden" name="sType" value="SimpleSearch" id="WC_CachedHeaderDisplay_FormInput_sType_In_CatalogSearchForm_1">
+<input type="hidden" name="resultCatEntryType" value="2" id="WC_CachedHeaderDisplay_FormInput_resultType_In_CatalogSearchForm_1">
+<div class="quicksearch">
+	<table border="0" cellspacing="8" cellpadding="0"><tbody><tr>
+	  <th scope="row"><label for="search">Quick Search:</label></th>
+	  <td>
+	  		<input type="text" class="text" name="iptext" id="WC_CachedHeaderDisplay_FormInput_searchTerm_In_CatalogSearchForm_1" value="(Keyword or Item Number)" onfocus="if (this.value==this.defaultValue) { this.value=''; this.style.color='black'; }" onblur="if (this.value=='') {this.value=this.defaultValue; this.style.color='#a4a4a4'; }">
+	  		<input type="hidden" name="ip_requestUri" value="TopCategoriesDisplay">
+      		<input type="hidden" name="ipcategoryId" value="">
+       		<input type="hidden" name="ipmode" value="">
+	  </td>
+	  
+	  <td><!--
+	    The w3.org deprecates input[type='image'] and would prefer I class and style a background on
+	    a plain submit button.
+	
+	    ...except you can't set a background on an input element in KHTML.  Which includes Safari.
+	    This is certainly a Safari shortcoming, but we can't just leave Safari users out in the
+	    cold, expecially on a music site.
+	    --><input type="image" class="button" src="/wcsstore/ConsumerDirectStorefrontAssetStore/images/gobtn.jpg" width="26" height="25" border="0"></td>
+	</tr></tbody>
+	</table>
+</div>
+</form>
+  <!-- START GREETING LINK -->
+  <div class="welcome">Welcome <span id="greetingElement">to SamAsh</span> </div>
+<div class="misscleo"><img src="/wcsstore/ConsumerDirectStorefrontAssetStore/images/callmenow.jpg" width="235" height="40" alt="Real musicians are standing by 24/7 to answer any and all questions! CALL TOLL FREE: 1-800-472-6274"></div>
+
+
+<script language="JavaScript">
+updateLinksBasedOnCookieValues();
+</script>
+
+
+
+
+
+
+<div style="width: 875px; margin-left:25px; margin-right:25px;">
+<br><br><img src="/opencms/opencms/samash/galleries/images/customer_support_center_banner.jpg" alt=""><br><br><br>
+
+<div class="sidebar" style="width: 225px; float: left">
+               <table border="0" cellpadding="2" cellspacing="0" style="width: 225px;">
+                       <tbody><tr>
+                           <td valign="top" style="width: 225px; border: 1px solid #60808c;">
+            <div style="padding: 4px; FONT-SIZE: 8pt;  background: #edf0f2 url(/opencms/opencms/samash/galleries/images/shaded.jpg) left top repeat-x;">
+                <div class="TOCQuickLinks">Quick Links</div>
+                    <ul>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/HelpMain.htm">Support Center Home</a>
+                    </li><li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/Contact.htm">Contact Us</a></li>
+                    <li><a class="sidebar" href="/opencms/opencms/../../webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;storeId=10052&amp;catalogId=10002">View My Account</a></li>
+		    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/FreeInfo.htm">Get Connected!</a></li>
+		    <li><a class="sidebar" href="/opencms/opencms/samash/content/samashcentral/samashcentral.jsp">Sam Ash Central</a></li>
+		    <li><a class="sidebar" href="/opencms/opencms/samash/library/library.jsp">The Answer Stash</a></li>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/TenSteps.htm">"The Process"</a></li>
+                    </ul>
+
+
+                    <div class="TOCHeader">About Sam Ash</div>                   
+                    <ul>
+		    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/About_Sam_Ash.htm">About Sam Ash</a></li>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/Sam_Ash_At_A_Glance.htm">Sam Ash At a Glance</a></li>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/FamilyMessage.htm">Message from the Ash family</a></li>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/BillOfRights.htm">Musician's Bill of Rights</a></li>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/Timeline.htm">Company Timeline</a></li>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/Careers.htm">Career Opportunities</a></li>
+		    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/PrivacyPolicy.htm">Your Privacy Policy</a></li>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/RetailStores.htm">Sam Ash Retail Stores</a></li>
+                    </ul>
+
+                    <div class="TOCHeader">Shopping</div>
+                    <ul>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/MoneyBackGuarantee.htm">45 Day Money Back Guarantee</a></li>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/PriceProtection.htm">60 Day Price Protection</a></li>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/ESP.htm">Extended Service Plans</a></li>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/Layaway.html">Layaways</a></li>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/SalesTax.htm">Sales Tax</a></li>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/EGiftCertificates.htm">E-Gift Certificates</a> </li>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/CPO.htm">Certified Pre-Owned Instruments</a></li>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/ShoppingFAQ.htm">Shopping FAQ</a></li>
+                    </ul>
+
+                    <div class="TOCHeader">Backstage Club Card</div>
+                    <ul>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/BCC_Overview.htm">Join The Backstage Club</a></li>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/BCC_AccountAccess.htm">Access Your Account Online</a></li>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/BCC_Terms.htm">Financing Terms</a></li>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/BCC_FAQ.htm">Backstage Club Card FAQ</a></li>
+                    </ul>
+
+                    <div class="TOCHeader">Placing Your Order</div>                   
+                    <ul>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/PaymentMethods.htm">Payment Methods</a></li>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/AllAboutOrdering.htm">All About Ordering</a></li>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/SpecialOrder.htm">Special Orders</a></li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/SpecialOrder.htm">
+                    </a><li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/SpecialOrder.htm"></a><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/Backorders.htm">Backorders</a></li>
+                    </ul>
+
+                    <div class="TOCHeader">Shipping</div>                   
+                    <ul>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/ShippingRates.htm">Shipping Rates &amp; Delivery Options</a></li>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/Oversize.htm">Oversize Items</a></li>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/OrderTracking.htm">Tracking Your Order</a></li>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/ShippingFAQ.htm">Shipping FAQ</a></li>
+                    </ul>
+
+                    <div class="TOCHeader">Policies</div>                   
+                    <ul>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/ReturnPolicy.htm">Return Policy</a></li>
+                    <li><a class="sidebar" href="/opencms/opencms/samash/footer/helpcenter/Terms_of_Use.htm">Terms of Use</a></li>
+                    </ul>
+            </div>
+
+                           </td>
+                       </tr>
+                   </tbody></table>
+
+</div>
+
+
+
+<div style="width: 625px; float: right"><p class="header">Your Privacy Rights</p>
+<p>Thanks for visiting our website! We fully respect your right to privacy and the need for you to
+have control of your personal information. We want to make this site function at a level that best
+serves your needs.&nbsp; In certain areas of this site, we may ask you may to provide personal
+information to receive a catalog, make a purchase, enter a contest, or subscribe to a
+newsletter.</p>
+<p>We will use this information to keep you informed of things that are of interest to you and to
+process your transactions. If you make a purchase online, we will only use your credit card number
+to process your payment – we will not use it for any other reason and we will keep it secure and
+encrypted. If you have provided us with demographic information, we will not share it with anyone
+who is not bound to keep it confidential.</p>
+<p>We never sell or rent our e-mail lists or mailing lists to anyone, for any reason, except for
+other Sam Ash companies and successors and assigns. Occasionally we may collaborate with one of our
+vendors to provide you with information about a new product, a special sale, a clinic or
+workshop.</p>
+<p class="highlight">Policy Details</p>
+<p>What follows are the details of how we collect, use, and protect the information we receive in
+the course of your use of the samash.com website.&nbsp; The following details are covered:</p>
+<ul>
+<li>
+<a href="#contactingus">Contacting Us with Questions or Concerns</a>
+</li>
+<li>
+<a href="#collecting">Collecting Information</a>
+</li>
+<li>
+<a href="#using">How We Use Information</a>
+</li>
+<li>
+<a href="#sharing">Sharing Information</a>
+</li>
+<li>
+<a href="#protecting">Protecting Your Information</a>
+</li>
+<li>
+<a href="#cookies">Cookies and Pixel Tags</a>
+</li>
+<li>
+<a href="#children">Children's Privacy</a>
+</li>
+<li>
+<a href="#unsubscribing">Unsubscribing, or Changing Your Information</a>
+</li>
+<li>
+<a href="#policy">Policy Changes</a>
+</li>
+</ul>
+<p id="contactingus" class="highlight">Contacting Us with Questions or Concerns</p>
+<p>Please e-mail us or contact us at
+<br>Samash.com
+<br>Customer Service
+<br>7760 Cheri Court
+<br>Tampa, Florida
+<br>or
+<br> 
+<a href="mailto:sales@samash.com">sales@samash.com</a></p>
+<p id="collecting" class="highlight">Collecting Information</p>
+<p>When you visit our website and browse our pages, you don’t have to give us any personal
+information.&nbsp; We may gather anonymous data about browsing patterns and use of the website, but
+unless you tell us who you are, you will remain anonymous.</p>
+<p>When you make a purchase, register with the site, enter a contest, or add yourself to our
+mailing or e-mail lists, you will be giving us personal information.&nbsp; We may combine this
+information with data from other reputable sources in order to serve you better, such as postal
+address correction data, but all of this information will remain protected under the terms of this
+Privacy Policy.</p>
+<p>Our site has links to websites maintained by third parties.&nbsp; When you click on one of these
+links, any information you provide on the third party website is governed by its policies and
+procedures and is not subject to our Privacy Policy.</p>
+<p id="using" class="highlight">How We Use Information</p>
+<p>We use the information you provide for the following purposes:
+<br>
+<br></p>
+<ul>
+<li>To validate accounts, sales transactions and addresses, and to prevent fraud.</li>
+<li>To personalize your shopping experience.</li>
+<li>To tell you about your purchase, account information, or customer service needs.</li>
+<li>To tell you about products, services, and events, that may be of interest to you (if you do not
+wish to receive this information, our e-mails provide you with a method to opt out of the e-mail
+list, and you can send us a note to take you off our postal mailing list.).</li>
+<li>To improve our service.</li>
+<li>To administer contests, promotions, surveys or other website features.</li>
+<li>To place advertising across the internet and sometimes on this site.</li>
+</ul>
+<p id="sharing" class="highlight">Sharing Information</p>
+<p>We do not sell or rent our e-mail lists or mailing lists to unaffiliated third parties, and we
+strive to keep your information private.&nbsp; However, we may transfer information to (1) the
+preferred service providers we use to perform certain functions such as credit card processing,
+shipping, data management and analysis, contest management and similar functions and (2) to other
+Sam Ash companies, each of whom agree to keep the information confidential.&nbsp;&nbsp; We also
+collect and provide anonymous information about visits to our website and interactions with our
+products and services to third party service providers who use it to help us target advertising,
+but we never provide your personal information in this context. We also reserve the right to
+disclose specific information upon governmental request, in response to a court order, when
+required by law, to enforce our website policies, or to protect our or others' rights, property, or
+safety.&nbsp; If Sam Ash merges with or is purchased by another company, the information we collect
+may be transferred with the company.</p>
+<p id="protecting" class="highlight">Protecting Your Information</p>
+<p>We use a variety of security measures, including sophisticated encryption and authentication
+tools to maintain the safety of your personal information. Your personal information is contained
+behind secure networks and is only accessible to a limited number of persons who have special
+access rights to such systems, and are required to keep the information confidential. When you
+place orders or access your personal information, we offer the use of a secure server. All credit
+card information you supply is transmitted via Secure Socket Layer (SSL) technology and then
+encrypted and sent to our credit card processors.&nbsp; Regardless of these efforts, no data
+transmission over the Internet can be guaranteed to be 100% secure.</p>
+<p id="cookies" class="highlight">Cookies and Pixel Tags</p>
+<p>A cookie is a small removable data file that is stored by your web browser on your computer.
+Cookies help to assure you a consistent and predictable experience on our site. For example, we use
+cookies to remember the items in your Shopping Cart, recognize you when you return to our website,
+analyze visitor behavior, and provide you with special offers related to your interests.&nbsp; You
+can set your browser to warn you each time you receive a cookie or to reject all cookies and still
+use our site. If you turn cookies off, you won’t have access to many features that make your site
+experience more efficient and some of our services will not function properly.</p>
+<p>We also use pixel tags – tiny graphic images – to help us analyze your online behavior. Pixel
+tags also allow us to send you email in a format you can read and let us know when you have opened
+an email message from us. We may use pixel tags to collect information about your visit, including
+the pages you view, the links you click and other actions taken in connection with our sites and
+services. We also collect certain standard information that your browser sends to every website you
+visit, such as your IP address, browser type and language, access times and referring Web site
+addresses.</p>
+<p>The anonymous information we collect for placing advertising is collected through the use of a
+pixel tag, which is industry standard technology used by most major web sites. If you would like
+more information about this practice and to know your choices about not having this anonymous
+information used by our third party service provider, please 
+<a href="http://www.networkadvertising.org/" target="_blank">click here</a>.&nbsp;
+<br></p>
+<p id="children" class="highlight">Children's Privacy</p>
+<p>We do not knowingly collect personal information from children under 13.</p>
+<p id="unsubscribing" class="highlight">Unsubscribing or Changing Your Information</p>
+<p>We don’t want to bother you with unwanted e-mail or other mailings.&nbsp; To unsubscribe from
+our e-mail list, just follow the instructions in any e-mail we send you.&nbsp; To remove yourself
+from our postal mailing list, 
+<a href="/opencms/opencms/../../webapp/wcs/stores/servlet/requestCatalog_-1_10052_10002" target="_top">click here</a>, enter your name and address and check “ Delete me from receiving
+catalogs.”</p>
+<p>To change your information, 
+<a href="/opencms/opencms/../../webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;storeId=10052&amp;catalogId=10002" target="_top">click here</a> to go to “my account”, log in and click on the information you wish
+to change.&nbsp; As we don’t store your credit card account number, there is no need to delete or
+change it on our system.</p>
+<p id="policy" class="highlight">Policy Changes</p>
+<p>We may change our privacy policy from time to time, and we encourage you to return here on
+occasion so that you can keep current with changes to our privacy policy. This policy was last
+modified on April 1, 2008.</p></div>
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="footer" style="font-size: 11px;">
+  <p class="fmenu1">
+
+
+      <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182420"><span style="font-size: 11px;">Guitars</span></a>
+
+
+      | 
+
+      <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182421"><span style="font-size: 11px;">Basses</span></a>
+
+
+      | 
+
+      <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182422"><span style="font-size: 11px;">Drums</span></a>
+
+
+      | 
+
+      <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182423"><span style="font-size: 11px;">Keyboards</span></a>
+
+
+      | 
+
+      <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182424"><span style="font-size: 11px;">Live Sound</span></a>
+
+
+      | 
+
+      <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182425"><span style="font-size: 11px;">Recording &amp; Computers</span></a>
+
+
+      | 
+
+      <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182426"><span style="font-size: 11px;">DJ &amp; Lighting</span></a>
+
+
+      | 
+
+      <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182427"><span style="font-size: 11px;">Band &amp; Orchestra</span></a>
+
+
+      | 
+
+      <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182428"><span style="font-size: 11px;">Accessories</span></a>
+
+
+      | 
+
+      <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182429"><span style="font-size: 11px;">Books &amp; DVDs</span></a>
+
+
+      | 
+
+      <a href="/webapp/wcs/stores/servlet/CategoryDisplay_-1_10052_10002_Y_182430"><span style="font-size: 11px;">Sam Ash Tour Bus</span></a>
+
+
+  </p>
+
+
+  <div class="fmenu2">
+    <div class="c1">
+      Customer Service
+      <a href="/webapp/wcs/stores/servlet/InterestItemDisplay?langId=-1&amp;storeId=10052&amp;catalogId=10002&amp;listId=."><small>Wish List</small></a>
+      <a href="/webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;storeId=10052&amp;catalogId=10002"><small>My Account</small></a>
+    </div>
+
+    <div class="c2">
+      Customer Support
+      <a href="/opencms/opencms/samash/footer/helpcenter/PrivacyPolicy.htm"><small><span style="font-weight: bold; color: #b80014;">PRIVACY POLICY</span></small></a>
+      <a href="/opencms/opencms/samash/footer/helpcenter/Contact.htm"><small>Contact Us</small></a>
+      <a href="/opencms/opencms/samash/footer/helpcenter/HelpMain.htm"><small>Customer Support Center</small></a>
+
+    </div>
+
+    <div class="c3">
+      <a href="/opencms/opencms/samash/content/samashcentral/samashcentral.jsp"><small>Sam Ash Central</small></a>
+      <a href="/opencms/opencms/samash/content/affiliates/ProgramOverview.html"><small>Affiliate Program</small></a>
+      <a href="/opencms/opencms/samash/footer/helpcenter/About_Sam_Ash.htm"><small>About Us</small></a>
+      <a href="/opencms/opencms/samash/footer/helpcenter/Careers.htm"><small>Careers</small></a>
+    </div>
+
+    <div class="c4">
+      <a href="http://discdirect.samashmusic.com/mcm/samash/index.jsp"><small>Disc Duplication Services</small></a>
+      <a href="/opencms/opencms/samash/footer/DealerLinks.jsp"><small>Manufacturer Links</small></a>
+      <a href="/webapp/wcs/stores/servlet/sitemap_-1_10052_10002"><small>Site Map</small></a>
+    </div>
+  </div>
+
+  <p class="fmoreinfo">
+    For Information About Sam Ash Music Store Locations, visit:&nbsp;<a href="http://www.samashmusic.com/">www.samashmusic.com</a>
+  </p>
+
+   
+<table border="0" align="center">
 	<tbody><tr>
-		<td width="140" nowrap="">
-			<img src="/images/topnav/looking.gif" width="137" height="19">
-		</td><td width="380" style="background-image:url('/images/topnav/dot.gif'); background-repeat: repeat-x; background-position: middle left;">
-			
-<!--
-<form action="http://www.samash.com/catalog/search.asp" method="post" id="SearchForm" name="SearchForm">
--->
-<input type="hidden" name="Method" value="2" id="Hidden1">
-<input type="hidden" name="departmentid" value="" id="Hidden2">
-<input type="hidden" name="SearchBox" value="1" id="Hidden3">
-<input type="hidden" name="PAGENUM" value="0" id="Hidden4">
-<input type="hidden" name="BrandID" value="0" id="Hidden5">
-<input type="hidden" name="DepartmentDropDownVisibleBox" value="0" id="DepartmentDropDownVisibleBox">
-<table width="320" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr style="background: white;">
-    <td style="font-family: Arial; font-size: 12px; font-weight: normal; color: #979A9E; font-weight: bold;">Search Entire Site:</td>
-    <td><input type="text" name="SearchPhrase" maxlength="50" style="font-family: Arial; font-size: 11px; font-weight: bold; color: #282A74; width: 160px; vertical-align: top;" id="Text2"><input type="image" src="/images/topnav/go.gif" id="Image1" name="Image1"></td>
-</tr>
-</tbody></table>
-
-
-
-		</td><td style="background-image:url('/images/topnav/dot.gif'); background-repeat: repeat-x; background-position: middle left;">
-			&nbsp;
-		
-		</td><td width="16%" nowrap="">&nbsp;
-			
-		</td><td width="130" align="right">		
-			« <a href="/secure/login/login.asp" style="font-size: 12px; color: #ED1C24; font-weight: bold;">Signup and Login</a>&nbsp;		
-		
+		<td>
+			<!--- START SCANALERT CODE --->
+			<a target="_blank" href="http://www.scanalert.com/RatingVerify?ref=www.samash.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/12-www.samash.com.gif" alt="HACKER SAFE certified sites prevent over 99% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;"></a><br>
+			<!--- END   SCANALERT CODE ---> 				
 		</td>
 	</tr>
 </tbody></table>
-</td>
-<td></td>
-</tr>
-</tbody></table>
-
-</form>
-
-<table border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff" width="856" id="Table1">
- <tbody><tr>
-    <td valign="top">
+</div>
 
 
 
-    <table border="0" cellpadding="4" cellspacing="0" bgcolor="#ffffff" width="100%" id="Table2">
-    <tbody><tr>
-		<td valign="top" align="LEFT">
-				
-			<table><tbody><tr valign="top"><td align="center" valign="top"><a href="/content_x/moneyback.asp" bordercolor="black"><img bordercolor="black" src="/images/nav/rt_nav_04.gif" border="0" width="140"></a></td></tr><tr valign="top"><td align="center" valign="top"><a href="/rebates/" bordercolor="black"><img bordercolor="black" src="/images/nav/rt_nav_05.gif" border="0" width="140"></a></td></tr><tr valign="top"><td align="center" valign="top"><a href="/content_x/freeship.asp" bordercolor="black"><img bordercolor="black" src="/images/nav/rt_nav_01.gif" border="0" width="140"></a></td></tr><tr valign="top"><td align="center" valign="top"><a href="/promopages/nopay.asp?" bordercolor="black"><img bordercolor="black" src="/images/nav/rt_nav_02.gif" border="0" width="140"></a></td></tr><tr valign="top"><td align="center" valign="top"><a href="/forms/meet.asp?cid=bn_1" bordercolor="black"><img bordercolor="black" src="/images/nav/rt_nav_03.gif" border="0" width="140"></a></td></tr><tr valign="top"><td align="center" valign="top"><img src="/images/banners/side_help_anim.gif" border="0" width="140"></td></tr><tr valign="top"><td align="center" valign="top"><a href="/content_x/satv.asp" bordercolor="black"><img bordercolor="black" src="/images/banners/satv_side.gif" border="0" width="140"></a></td></tr></tbody></table>
-    <center><table></table></center>
-    <img src="/images/spacer.gif" border="0" height="6"><br><img src="/images/spacer.gif" border="0" height="6"><br>
-       
-         </td>
-         <td valign="top" width="100%">
-			<table width="100%" id="Table3">
-			 <tbody><tr>
-			  <td valign="top">
-				<font>
-					
-<table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/images/spacer.gif" border="0" width="540" height="5"></td></tr></tbody></table><font>
-
-<font size="2" face="Verdana">
-We appreciate your visit to our
-website. We fully respect your right to privacy
-and the need for you to have control of your
-personal information. It is our goal to make this
-site function at a level that best serves the
-needs of our visitors.If you visit certain areas of this site you may be asked to provide personal information in order to receive a catalog, make a purchase, enter a contest, or subscribe to a newsletter.<br>
-<br>
-
-We will use this information to keep you informed
-of information that is of interest to you. If you
-make a purchase online your credit card number
-will only be used to process your payment - not
-for any other reason whatsoever. If you have
-provided us with demographic information that
-information will not be shared with anyone else (except that information provided in applying for the Sam Ash Credit Card is subject to use by HRSI and subject to its privacy policy).<br>
-<br>
-                
-<b>We never sell or rent our email lists or mailing lists to anyone, for any reason, except other Sam Ash companies and successors and assigns.</b>
-Occasionally we may partner with one of our
-vendors to provide you with information about a
-new product, a special sale, a clinic or workshop. <br>
-<br>
-
-If for any reason you wish or stop receiving <b>postal</b>
-mail or change your address, please go
-[<a href="/catalogsignup/">here</a>].<br>
-<br>
-
-If you want to correct your mailing list information or inform
-us of a change of address for <b>email</b>, please go
-[<a href="/profile/">here</a>].<br>
-<br>
-
-</font>
-						</font></font></td>
-					</tr>
-				</tbody></table>
-							
-				<hr noshade="" size="1">
-				    <font face="Verdana" size="1">
-				      You currently have <b>0</b> items in your 
-					  [<a href="/cart/">cart</a>]. Total: <b>$0.00</b>
-					</font>	   
-				<hr noshade="" size="1">
-
-				<center>
-<table border="0">
-<tbody>
-<tr>
-<td><a href="/content_x/sitemap.asp">Site Map</a></td>
-<td><font size="1">|</font></td>
-<td><a href="/links/default.asp">Dealer Links</a></td>
-<td><font size="1">|</font></td>
-<td><a href="/corporate/jobs.asp">Jobs</a></td>
-<td><font size="1">|</font></td>
-<td><a href="/corporate/aboutus.asp">About us</a></td>
-<td><font size="1">|</font></td>
-<td><a href="http://discdirect.samashmusic.com/mcm/samash/index.jsp">Disc Duplication Services</a></td>
-<td><font size="1">|</font></td>
-<td><a href="/legal/privacy.asp">Privacy</a></td></tr></tbody></table><font face="Verdana" size="1"><b>To place an order or for customer service, call toll-free 24-hours a day, 7 days a week: <br>1-800-4-SAMASH • 1-800-472-6274 •&nbsp;24-Hour Fax: 1-800-818-9050</b><br>Questions about products or an order? <a href="mailto:sales@samash.com">sales@samash.com</a><br><br>
-<table border="0">
-<tbody>
-<tr>
-<td><a href="/department/guitar/">Guitars</a></td>
-<td><font size="1">|</font></td>
-<td><a href="/department/bass/">Bass</a></td>
-<td><font size="1">|</font></td>
-<td><a href="/department/drums/">Drums</a></td>
-<td><font size="1">|</font></td>
-<td><a href="/department/keyboard/">Keyboards</a></td>
-<td><font size="1">|</font></td>
-<td><a href="/department/recording/">Recording</a></td></tr></tbody></table>
-<table border="0">
-<tbody>
-<tr>
-<td><a href="/department/livesound/">Live Sound</a></td>
-<td><font size="1">|</font></td>
-<td><a href="/department/band/">Band/Orchestral</a></td>
-<td><font size="1">|</font></td>
-<td><a href="/department/dj/">DJ/Lighting</a></td>
-<td><font size="1">|</font></td>
-<td><a href="/department/computers/">Accessories</a></td>
-<td><font size="1">|</font></td>
-<td><a href="/department/booksvideos/">Books/Video</a></td></tr></tbody></table>
-<br>
-For Information About Sam Ash Music Store Locations, visit: <a href="http://www.samashmusic.com/" target="new"></a><a href="http://www.samashmusic.com" target="_blank">www.samashmusic.com</a>
-<p><br>
-</p>
-</font></center><font face="Verdana" size="1">
 
 
-					<br>
-					<table border="0" align="center">
-						<tbody><tr>
-							<td>
-								<!--- START SCANALERT CODE --->
-									<a target="_blank" href="http://www.scanalert.com/RatingVerify?ref=www.samash.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/12-www.samash.com.gif" alt="HACKER SAFE certified sites prevent over 99% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;"></a><br>
-								<!--- END   SCANALERT CODE ---> 				
-							</td>
-						</tr>
-					</tbody></table>
-					
-				 </font></td>
-         
-	<td valign="top" align="left" width="150">
+<script type="text/javascript" language="javascript" src="/opencms/opencms/system/modules/com.samash.opencms.templates/resources/eluminate.js"></script>
+<script type="text/javascript" language="javascript" src="/opencms/opencms/system/modules/com.samash.opencms.templates/resources/cmdatatagutils.js"></script>
+
+
+
+	<script language="JavaScript1.1" type="text/JavaScript">
+	<!--
+				cmSetProduction();
+	//-->
+	</script>
 	
-	<center><table></table></center>
 
-<img src="/images/spacer.gif" border="0" height="6"><br>
-	
-          </td>
-       </tr>
-     </tbody></table>
 
-</td></tr></tbody></table>
-
-<!-- Fireclick Netflame -->
-<script language="javascript">
-function handle(){return true;}
-window.onerror=handle;
-var fc_host='www.samash.com';
-document.write('<scr'+'ipt '+'src="'+((location.protocol=='http:')?'http://a644.g.akamai.net/f/644/67/3h/':'https://a248.e.akamai.net/f/248/67/3h/ssl-')+'hints.netflame.cc/service/sc'+'ript/'+fc_host+'"></scr'+'ipt>');
-function fcce(){if (typeof(fcnf)!="undefined") fcnf();}
-var fcfn=window.onload;
-function fcco(){window.setTimeout("fcce();", 100);fcfn();}
-window.onload= null==fcfn ? fcce:fcco;
-</script><script src="https://a248.e.akamai.net/f/248/67/3h/ssl-hints.netflame.cc/service/script/www.samash.com"></script>
-<!-- Fireclick Netflame -->
-
-		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-		</script>
-		<script type="text/javascript">
-		_uacct = "UA-438722-1";
-		urchinTracker();
-		</script>
+<script language="JavaScript1.1" type="text/JavaScript">
+<!--
+cmCreatePageviewTag(document.title, "-10003");
+//-->
+</script>
 
 
 
-</body></html>
+
+
+</div></body></html>
