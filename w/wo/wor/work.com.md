@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the work.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224131206id_/http%3A//www.work.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the work.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224032802id_/http%3A//www.work.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Work.com
 
@@ -58,7 +58,7 @@ By providing any personal information to us, you fully understand and unambiguou
 
 **3\. What choices you have regarding the collection, use and distribution of your information.**
 
-You may occasionally receive information about the products or services you have selected to place on your personal Work.com pages, which may include Work.com products and services, and the products and services of our partners. In the event you are requested to register, you may be given an opportunity to "opt in" to receive mailings from Work.com and/or its partners by "checking" a box in the registration form. If you submit a registration form with the box checked, you thereby consent to being placed on Work.com's mailing list. You may subsequently contact us to request to be removed from this list. In every update that we send, we may include an option to discontinue receipt of future updates. Work.com reserves the right to limit or reject any registration on our Site to users who do not agree to accept our information or who refuse to provide any information required by Work.com during the registration process.
+You may occasionally receive information about the products or services you have selected to place on your personal Work.com pages, which may include Work.com products and services, and the products and services of our partners. In the event you are requested to register, you may be given an opportunity to "opt in" to receive mailings from Work.com and/or its partners by "checking" a box in the registration form. If you submit a registration form with the box checked, you thereby consent to being placed on Work.com's mailing list. You may subsequently request to be removed from this list by clicking on the unsubscribe link within a Work.com email or emailing us at [unsubscribe@work.com](mailto:customerservice@work.com). In every update that we send, we may include an option to discontinue receipt of future updates. Work.com reserves the right to limit or reject any registration on our Site to users who do not agree to accept our information or who refuse to provide any information required by Work.com during the registration process.
 
 Regardless of whether or not you elect to receive newsletters or promotional or marketing correspondence from us, such election will not: (a) preclude us from corresponding with you, by email or otherwise, regarding your existing or past relationship with us, and (b) preclude us, including our employees, contractors, agents and other representatives, from accessing and viewing your personal information in the course of maintaining and improving the Site. 
 
@@ -92,4 +92,4 @@ Attn: Customer Service - Work.com Privacy
 Santa Monica, CA 90404  
 [customerservice@work.com](mailto:customerservice@work.com)
 
-© 2007 Business.com, Inc.
+© 2008 Business.com, Inc.
