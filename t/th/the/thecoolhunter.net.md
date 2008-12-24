@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecoolhunter.net privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611074455id_/http%3A//www.thecoolhunter.net/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecoolhunter.net privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224035811id_/http%3A//www.thecoolhunter.net/Privacy) for the most accurate reproduction.*
 
 # thecoolhunter.net - Privacy Statement
 
