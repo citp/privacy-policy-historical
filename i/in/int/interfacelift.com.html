@@ -1,25 +1,22 @@
-<!--The following is the downloaded HTML source of the interfacelift.com privacy policy that was archived on 2008-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080626033622id_/http%3A//interfacelift.com/site/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the interfacelift.com privacy policy that was archived on 2008-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081224030355id_/http%3A//www.interfacelift.com/site_beta/privacy_policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-	<title></title>
-	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
-	<meta name="description" content="">
-	<meta name="keywords" content="">
-	<meta name="robots" content="index,follow">
-	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon">
-	<link rel="stylesheet" href="/inc/style.css" type="text/css">
-   <script type="text/javascript" src="/inc/source.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<link href="/inc_NEW/style.css" rel="stylesheet" type="text/css">
+	<link rel="alternate" type="application/rss+xml" title="RSS Feed: InterfaceLIFT Wallpapers" href="http://interfacelift.com/wallpaper_beta/rss/">
+	<title>InterfaceLIFT // Privacy Policy</title>
 	
-<script type="Text/Javascript">
+	<script type="Text/Javascript">
 <!-- Begin
+
 
 function createRequestObject() {
   var ro;
   var browser = navigator.appName;
-  if(browser == "Microsoft Internet Explorer"){
+  if (browser == "Microsoft Internet Explorer"){
       ro = new ActiveXObject("Microsoft.XMLHTTP");
-  }else{
+  } else{
       ro = new XMLHttpRequest();
   }
   return ro;
@@ -27,11 +24,95 @@ function createRequestObject() {
 
 var http = createRequestObject();
 
+function search() {
+   var keywords = document.getElementById('keywords').value;
+   if (keywords.length == 0) {
+      document.getElementById('results').innerHTML = "";
+      return;
+   }
+   else if (keywords.length < 3) {
+      document.getElementById('results').innerHTML = "<p>Your search query must contain 3 or more characters.</p>";
+      return;
+   }
+   http.open('get', '/inc_NEW/search.php?k='+keywords);
+   http.onreadystatechange = handleSearchResponse;
+   http.send(null);
+}
+function handleSearchResponse() {
+   if (http.readyState == 4) { 
+      var response = http.responseText;
+      //document.getElementById('sky').innerHTML = "";
+      document.getElementById('results').innerHTML = response;
+    }
+}
+
+function portfolio(artist_id, type, sort, current_page, ignore_id) {
+   if (type == 'wallpaper') { kind = 'wallpaper_beta'; }
+   else { kind = type; }
+   http.open('get', '/'+kind+'/_inc/portfolio_browser.php?artist_id='+artist_id+'&type='+type+'&sort='+sort+'&current_page='+current_page+'&id='+ignore_id);
+   http.onreadystatechange = handlePortfolioResponse;
+   http.send(null);
+}
+function handlePortfolioResponse() {
+   if (http.readyState == 4) { 
+      var response = http.responseText;
+      document.getElementById('portfolio').innerHTML = response;
+    }
+}
+
+function submissionVote(id,type,currentVotes) {
+  document.getElementById('button_'+id).setAttribute("src", '/img/beta/button_cast_your_vote_disabled.png');
+  document.getElementById('button_link_'+id).setAttribute("href", '#');
+  document.getElementById('vote_'+id).innerHTML = 'Updating...';
+  http.open('get', '/'+type+'/_inc/submission_vote.php?id='+id+'&currentVotes='+currentVotes);
+  http.onreadystatechange = handleResponse_submissionVote;
+  http.send(null);
+}
+function handleResponse_submissionVote() {
+  if (http.readyState == 4) { 
+    var response = http.responseText;
+    var update = new Array();
+
+    if (response.indexOf('|' != -1)) {
+       update = response.split('|');
+       document.getElementById('vote_'+update[0]).innerHTML = update[1];      
+       if (update[2] == '/img/beta/button_voted.png') {
+         document.getElementById('button_link_'+update[0]).setAttribute("href", '#');
+       }
+    }
+  }
+}
+
 function sndReq(id,type) {
   document.getElementById('fav_'+id).innerHTML = '<span style="color: gray;">One moment please...</span>';
-  http.open('get', '/atf.php?id='+id+'&type='+type);
+  http.open('get', '/inc_NEW/atf.php?id='+id+'&type='+type);
   http.onreadystatechange = handleResponse;
   http.send(null);
+}
+function handleResponse() {
+  if (http.readyState == 4) { 
+    var response = http.responseText;
+    var update = new Array();
+    if (response.indexOf('|' != -1)) {
+      update = response.split('|');
+      document.getElementById('fav_'+update[0]).innerHTML = update[1];
+    }
+    if (update[1] == '<span style="color: red;">not added</span>') {
+      document.getElementById(update[0]+'_instructions').innerHTML = '<p class="box" style="padding: 10px;">Please <a href="/account/?ret=yes">login</a> to add an item to your favorites list.  If you aren\'t a member yet, <a href="/account/?ret=yes">create an account</a>. It\'s free.</p>';
+    }
+  }
+}
+
+function voteReplace(id, page, sort) {
+  http.open('get', '/wallpaper/_inc/vote_guts.php?id='+id+'&page='+page+'&sort='+sort);
+  http.onreadystatechange = vrHandleResponse;
+  http.send(null);
+}
+function vrHandleResponse() {
+   if (http.readyState == 4) { 
+      var response = http.responseText;
+      document.getElementById('vote_guts').innerHTML = response;
+   }
 }
 
 function sndReq_dl(foo, id, base) {
@@ -39,44 +120,32 @@ function sndReq_dl(foo, id, base) {
   if (val != '') {
     padded = id+'';  
     while (padded.length < 5) { padded = '0' + padded; }
-    document.getElementById('dl_'+id).href = '/dl/wallpaper/'+padded+'_'+base+'_'+val+'.jpg';
-    document.getElementById('dl_'+id).innerHTML = 'download';
+    document.getElementById('dl_'+id).innerHTML = "<a href=\"/dl/wallpaper/"+padded+'_'+base+'_'+val+'.jpg'+"\"><img src=\"/img_NEW/button_download.png\" alt=\"Click here to download\" title=\"Select your desired resolution from the menu to the left, then click here to download.\" align=\"center\" /></a>";
+    //for (var j=1; j <= 10; j++) {
+      //document.getElementById('res_'+val+'_'+j).selected = true;
+      //alert(document.getElementById('info_'+j).innerHtml.value);
+    //}
   }
   else {
     document.getElementById('dl_'+id).href = '';
-    document.getElementById('dl_'+id).innerHTML = '';
+    document.getElementById('dl_'+id).innerHTML = '<img src="/img_NEW/button_download_disabled.png" alt="Select your desired resolution from the menu to the left, then click here to download." title="Select your desired resolution from the menu to the left, then click here to download." align="center" onclick="javascript:alert(\'Please select your screen resolution from the popup menu prior to clicking the download button.\')" />';
   }
 }
 
-function handleResponse() {
-  if (http.readyState == 4) { 
-    var response = http.responseText;
-    var update = new Array();
-
-    if (response.indexOf('|' != -1)) {
-      update = response.split('|');
-      document.getElementById('fav_'+update[0]).innerHTML = update[1];
-    }
-    if (update[1] == '<span style="color: red;">not added</span>') {
-      document.getElementById(update[0]+'_instructions').innerHTML = '<p class="red" style="padding: 10px;">Please <a href="/account/?ret=yes">login</a> to add an item to your favorites list.  Or <a href="/account/?ret=yes">create an account</a>.</p>';
-    }
-  }
-}
-
-function remove(id,type) {
-  http.open('get', '/rff.php?id='+id+'&type='+type);
+function sndReq_remove(id,type) {
+  document.getElementById('fav_'+id).innerHTML = '<span style="color: #bb2f0e;">Removing...</span>';
+  http.open('get', '/inc_NEW/rff.php?id='+id+'&type='+type);
   http.onreadystatechange = handleResponse2;
   http.send(null);
 }
 function handleResponse2() {
-  if (http.readyState == 4) { 
-    var response = http.responseText;
-    document.getElementById('list_'+response).innerHTML = '';
+  if (http.readyState == 4) {
+    document.getElementById('list_'+http.responseText).innerHTML = '';
   }
 }
-
 function cmt(id,mode,type) {
-  http.open('get', '/cmt.php?id='+id+'&mode='+mode+'&type='+type);
+  document.getElementById('controls_'+id).innerHTML = 'One moment please...';
+  http.open('get', '/inc_NEW/cmt.php?id='+id+'&mode='+mode+'&type='+type);
   http.onreadystatechange = handleResponse3;
   http.send(null);
 }
@@ -88,25 +157,10 @@ function handleResponse3() {
 
     if(response.indexOf('|' != -1)) {
       update = response.split('|');
-      document.getElementById('comment_'+update[0]).innerHTML = update[1];
-    }
-  }
-}
-
-function cmt_view(comment_id) {
-  http.open('get', '/cmt_view.php?comment_id='+comment_id);
-  http.onreadystatechange = handleResponse4;
-  http.send(null);
-}
-
-function handleResponse4() {
-  if(http.readyState == 4){
-    var response = http.responseText;
-    var update = new Array();
-
-    if(response.indexOf('|' != -1)) {
-      update = response.split('|');
-      document.getElementById('comment_text_'+update[0]).innerHTML = update[1];
+      if (update[1] != 'ignore') {
+         document.getElementById('rating_'+update[0]).innerHTML = update[1];
+      }
+      document.getElementById('controls_'+update[0]).innerHTML = update[2];
     }
   }
 }
@@ -117,194 +171,236 @@ function pad(number,length) {
         str = '0' + str;
     return str;
 }
--->
-</script>	
 
-	
-	<script language="JavaScript">
-	<!-- Begin
-		function openpopup(popurl){
-			winpops=window.open(popurl,"vote","width=490,height=380")
-			winpops.moveTo(350,200);
-		}
-		function jumpToPage(URL_List)
-		{
-			var URL = URL_List.options[URL_List.selectedIndex].value;
-			window.location.href = URL;
-		}
-	// Stop Hiding script -->
-	</script>
-	
-	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-  </script>
-  <script type="text/javascript">
-  _uacct = "UA-62412-1";
-  urchinTracker();
-  </script>
-	
+function openpopup(popurl){
+	winpops=window.open(popurl,"vote","width=490,height=380")
+	winpops.moveTo(350,200);
+}
+
+function jumpToPage(URL_List) {
+   var URL = URL_List.options[URL_List.selectedIndex].value;
+   window.location.href = URL;
+}
+   -->
+   </script>
+
+<!-- Google Ad Manager -->
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-3902458398606385");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+  GA_googleAddSlot("ca-pub-3902458398606385", "InterfaceLIFT_ROS_160x90_A");
+</script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script>
+<!-- END Google Ad Manager -->
+   
 </head>
-
-<body onload="doPreload();">
-
-<div id="main">
-<div id="right">
-<div id="page">
-<div id="navbar">
-<div class="left"><a href="/" title="InterfaceLIFT Home Page"><img name="interfacelift" src="/img/interfacelift2_on.gif" width="106" height="25" border="0"></a></div>
-<div class="right"><a href="/news/" onmouseover="news.src='/img/news_on.gif';" onmouseout="news.src='/img/news.gif';" title="Graphical User Interface News (Mac and Windows)"><img name="news" src="/img/news.gif" width="56" height="25" border="0"></a><a href="/wallpaper/index.php?sort=date" onmouseover="wallpaper.src='/img/wallpaper_on.gif';" onmouseout="wallpaper.src='/img/wallpaper.gif';" title="Desktop Wallpaper (Mac, Windows, Linux)"><img name="wallpaper" src="/img/wallpaper.gif" width="87" height="25" border="0"></a><a href="/icons-mac/index.php?sort=date" onmouseover="icons.src='/img/icons_on.gif';" onmouseout="icons.src='/img/icons.gif';" title="Icons (Mac, Windows, Developers)"><img name="icons" src="/img/icons.gif" width="55" height="25" border="0"></a><a href="/themes-mac/index.php?sort=date" onmouseover="themes.src='/img/themes_on.gif';" onmouseout="themes.src='/img/themes.gif';" title="Mac OS X Themes (ShapeShifter)"><img name="themes" src="/img/themes.gif" width="73" height="25" border="0"></a><a href="/icons-stock/index.php?sort=date" onmouseover="forsale.src='/img/forsale_on.gif';" onmouseout="forsale.src='/img/forsale.gif';" title="Royalty-Free Stock Icons for Developers"><img name="forsale" src="/img/forsale.gif" width="118" height="25" border="0"></a><a href="/account/" onmouseover="account.src='/img/account_on.gif';" onmouseout="account.src='/img/account.gif';" title="My Account"><img name="account" src="/img/account.gif" width="76" height="25" border="0"></a><a href="/search.php" onmouseover="search2.src='/img/search_on.gif';" onmouseout="search2.src='/img/search.gif';" title="Spotlight Search"><img name="search2" src="/img/search.gif" width="65" height="25" border="0"></a></div></div>
-
-<div id="contentarea">
+<body>
 
 
-<div class="padding" style="margin-top: 5px;">
+<div id="main_page_frame">
+   
+   <div id="primary_navigation">
+      <a id="logo" href="/wallpaper_beta/" title="Return to the Home Page"></a>
+      
+      <div id="nav">
+         <a href="/wallpaper_beta/" title="High-Resolution Desktop Wallpaper">Wallpaper</a>
+         <a href="/themes/" title="Themes for Windows XP and Mac OS X">Themes</a>
+         <a href="/icons-mac/" title="Desktop Icons for Mac OS X and Windows">Icons</a>   
+         <a href="/forsale/" title="Royalty-free Stock Icons and Icon Design Services for Developers">For Sale</a>
+         <a href="/news/" title="Site and Industry News and Commentary">Blog</a>
+      
+         <div id="actions">
+            <a href="/account/" title="Signup for an account at InterfaceLIFT">Signup</a>
+            <a href="/account/?ret=yes" title="Login to your InterfaceLIFT account">Login</a>
+         </div><!-- END actions -->
+      </div>
+   </div>
+   <!-- END primary_navigation -->
+   
+   <div id="container">
+      
+      <div id="sidebar">
+         
+         <div id="search">
+            
+            <div style="text-align: center;">
+            <input type="search" size="24" name="search" class="search_field" placeholder="Search Wallpaper" value="" results="10" onkeyup="javascript:search();" id="keywords">
+            </div>
+   
+            <div id="results"></div><!-- id=results -->
+   
+         </div><!-- id=search -->
+         
+         <div class="ad">
+            <!--/* OpenX Javascript Tag v2.6.3 */-->
+            <script type="text/javascript"><!--//<![CDATA[
+               var m3_u = (location.protocol=='https:'?'https://facebook.interfacelift.com/www/delivery/ajs.php':'http://facebook.interfacelift.com/www/delivery/ajs.php');
+               var m3_r = Math.floor(Math.random()*99999999999);
+               if (!document.MAX_used) document.MAX_used = ',';
+               document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+               document.write ("?zoneid=1&amp;target=_blank");
+               document.write ('&amp;cb=' + m3_r);
+               if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+               document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+               document.write ("&amp;loc=" + escape(window.location));
+               if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+               if (document.context) document.write ("&context=" + escape(document.context));
+               if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+               document.write ("'><\/scr"+"ipt>");
+            //]]>--></script><script type="text/javascript" src="https://facebook.interfacelift.com/www/delivery/ajs.php?zoneid=1&amp;target=_blank&amp;cb=39540216731&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20081224030355id_/http%253A//www.interfacelift.com/site_beta/privacy_policy.php"></script><noscript><a href='http://facebook.interfacelift.com/www/delivery/ck.php?n=a0541c55&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://facebook.interfacelift.com/www/delivery/avw.php?zoneid=1&amp;n=a0541c55' border='0' alt='' /></a></noscript>
+            
+            <!--/* OpenX Javascript Tag v2.6.3 */-->
+         </div>
+         
+         <div class="ad">
+            <a href="/themes/downloads/date/xp/"><img src="/themes/xp/img/xpthemes.png" width="160" height="160" border="0"></a>
+         </div>
+         
+         <div class="ad" style="margin-top: -5px;">
+            <!--/* OpenX Javascript Tag v2.6.3 */-->   
+            <script type="text/javascript"><!--//<![CDATA[
+               var m3_u = (location.protocol=='https:'?'https://facebook.interfacelift.com/www/delivery/ajs.php':'http://facebook.interfacelift.com/www/delivery/ajs.php');
+               var m3_r = Math.floor(Math.random()*99999999999);
+               if (!document.MAX_used) document.MAX_used = ',';
+               document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+               document.write ("?zoneid=2");
+               document.write ('&amp;cb=' + m3_r);
+               if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+               document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+               document.write ("&amp;loc=" + escape(window.location));
+               if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+               if (document.context) document.write ("&context=" + escape(document.context));
+               if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+               document.write ("'><\/scr"+"ipt>");
+            //]]>--></script><script type="text/javascript" src="https://facebook.interfacelift.com/www/delivery/ajs.php?zoneid=2&amp;cb=63898233654&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20081224030355id_/http%253A//www.interfacelift.com/site_beta/privacy_policy.php"></script><noscript><a href='http://facebook.interfacelift.com/www/delivery/ck.php?n=ad39a563&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://facebook.interfacelift.com/www/delivery/avw.php?zoneid=2&amp;n=ad39a563' border='0' alt='' /></a></noscript>
+         </div>
+         
+         <div class="ad">
+            <script type="text/javascript"><!--
+               google_ad_client = "pub-3902458398606385";
+               /* 160x90 Ad Links left */
+               google_ad_slot = "7560893120";
+               google_ad_width = 160;
+               google_ad_height = 90;
+               //-->
+            </script>
+            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+            </script>
+         </div><!-- 160_90 google -->
+         
+         <div class="ad" style="padding: 0; margin: 10px 10px 0 10px;">
+         <iframe src="/inc_NEW/skyscraper.html" width="160" height="600" style="padding: 0;" frameborder="0" scrolling="0" marginheight="0" marginwidth="0"></iframe>
+         </div><!-- skyscraper -->
+         
+      </div>
+      
+      <div id="page">
 
-<h1>Privacy Policy</h1>
+<div class="text">
 
-<p>InterfaceLIFT takes your privacy seriously.  Please read the following to learn more about how we protect and respect your personal privacy while logged into our web server.</p>
-
-<p>InterfaceLIFT has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the following websites: interfacelift.com, interfacelift.org.</p>
-
-
-<h2>Third party Advertising</h2>
-
-<p>We use third-party advertising companies to serve ads when you visit our web site. These companies may use information about your visits to this web site in order to provide advertisements about goods and services that may be of interest to you.</p>
-
-<p>Below are links to the privacy policies of the advertising networks used by InterfaceLIFT:</p>
-
-<ul>
-  <li><a href="https://casalemedia.com/privacy.html" target="_blank">CasaleMedia.com</a></li>
-	<li><a href="http://www.fastclick.com/co_privacy.html" target="_blank">Fastclick.com</a></li>
-	<li><a href="http://www.google.com/privacy.html" target="_blank">Google.com</a></li>
-	<li><a href="http://tribalfusion.com/www/about/privacy.html" target="_blank">TribalFusion.com</a></li>
-</ul>
-<br>
-
-<h2>Third Party Cookies</h2>
-<p>In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.</p>
-
-<h2>External Links</h2> 
-<p>This site contains links to web sites not owned and not necessarily endorsed by the operators of InterfaceLIFT. We are not responsible for the privacy practices or the content of external Web sites.</p>
-
-<h2>Spam</h2>
-<p>The operators of this web site do not participate in the practice of spamming.  Spamming is the sending of bulk, unsolicited email.</p>
-
-<p>Visitors who submit content to the web site may opt out of having their email address posted on InterfaceLIFt's web pages.  Additionally, the operators of the site attempt to protect the email addresses of its content providers from email address harvesters by masking or encoding addresses that are reachable through links or forms on the web site.</p>
-
-<p>Our InterfaceLIFT Weekly <a href="/newsletter/">newsletter</a> is a double opt-in email list.  This protects you from being signed up for email you are not interested in receiving.  When an email address is submitted to our email list, a confirmation message is sent to your inbox.  You will only receive newsletter emails if you confirm your subscription by clicking on the link contained in the confirmation message.  This prevents the situation where someone else might sign you up because the subscription may only be activated by someone who has access to your inbox.  Email addresses that have not been confirmed are occassionally purged from our system.</p>
-
-<p>We recognize that occassionally users may want to stop receiving newsletter messages they signed up for.  Clear unsubscribe instructions are available at the bottom of each InterfaceLIFT Weekly newsletter.  You may also unsubscribe at any time by visiting our <a href="/newsletter/unsubscribe.php">unsubscribe</a> page.</p>
-
-<h2>Contacting InterfaceLIFT</h2> 
-<p>If you have any questions or concerns about this privacy statement or the practices of this web site, you can reach the web site operators through the 'contact' link found at the bottom of each page.</p>
-
-</div><!-- padding -->
+   <h1>Privacy Policy</h1>
+   
+   <p>The owners and operators of InterfaceLIFT take your online privacy seriously.  This document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners.</p>
+   
+   
+   <h3>User Accounts</h3>
+   
+   <p>Membership is an optional part of the InterfaceLIFT web site.  No user account is required in order to browse or download the content we provide.  However, creating an account enables extra features such as (but not limitted to) the ability to submit content, create a list of your favorites, or post comments.</p>
+   
+   <p>By creating an account, you are volunteering certain information about yourself that will be stored on our servers.  This data includes at a minimum a username, password, and valid email address.  Additional information may optionally be added by you to your account profile.  Your profile information is public and may appear on our web site, with the exception of your email address and password.</p>
+   
+   <p>A previous version of our commenting feature allowed non-registered users to post comments if they provided a valid email address.  In these cases we display the provided email address with the comment, since there is no associated username.  These email address appear in plain text on the web site but are are modified slightly in order to reduce the likelyhood that they will be harvested by spammers.</p>
+   
+   <p>Our current commenting system no longer accepts comments from non-registered users.  For registered users, the username is displayed with the comment rather than the email address.  It is up to you to ensure that your username is anonymous.</p>
+   
+   
+   <h3>Personally Identified Data</h3>
+   
+   <p>We strongly discourage users from entering their full name, phone number, physical address, or other sensitive information in user profiles, comments, or other areas of the site.  Furthermore, we request that minors and any individuals with limited decision making ability not create an account on this site without the approval and supervision of a guardian.</p>
+   
+   <p>We make a reasonable attempt to monitor for cases where users post personally identifiable information about other individuals to public portions of the web site and remove the offending material.</p>
 
 
-</div><!-- contentarea -->
-<div style="background-color: #e4e4e4; font-size: 10px; padding: 3px 0 3px 0;">
-<div class="left">Copyright © 2000-2008 L-bow Grease, LLC.</div>
-<div class="right"><a href="/site/advertising.html">advertise</a> | <a href="/site/rss.html"><b>rss</b></a> | <a href="/goto.php?url=http://www.apple.com/downloads/dashboard/blogs_forums/interfaceliftcomwidget.html" target="_blank"><b>widget</b></a> | <a href="/site/license.html">content usage rights</a> | <a href="/site/privacy.html">privacy policy</a> | <a href="/site/contact.html">contact</a></div>
+   <h3>Server Logs</h3>
+   
+   <p>Like most web sites, InterfaceLIFT logs web-, database-, and other server-software usage and access information.  This information may include your internet protocal (IP) address, which in many cases can be translated to an affiliation (such as your work, school, or internet service provider), or a geographical location.  We only use this information for debugging purposes and for aggregating into anonymous usage and traffic statistics.</p>
+   
+   <h3>Cookies</h3>
+   
+   <p>While browsing InterfaceLIFT, a small number of text files referred to as "cookies" may be created on your local file system by your web browser at the request of our servers.  These files allow us to personalize the browsing experience for both registered and non-registered users.  You are free to delete them at any time, or configure your browser not to create them.  However, we do not promise that every feature of InterfaceLIFT will function as expected without cookies enabled.</p>
+   
+   
+   <h3>Third-Party Advertisers</h3>
+   
+   <p>In order to cover the costs of providing InterfaceLIFT as a free resource to the public, we have relationships with many third-party advertising networks.  The practices of our advertising partners are not directly covered by InterfaceLIFT's privacy policy.  We recommend that you read their policies.  For your convenience we provide a list our advertising partners below.  Unfortunately we cannot guarantee it is always comprehensive and up to date.</p>
+   
+   <blockquote>coming soon...</blockquote>
+
+   
+   <h3>Sharing/Selling of Data</h3>
+   
+   <p>InterfaceLIFT does not share or sell personally identifiable data to third parties such as spammers or direct marketers.  We respect your privacy.</p>
+   
+   <h3>Account Cancellation</h3>
+   
+   <p>Upon request, your InterfaceLIFT account can be canceled.  Your user profile will no longer appear on the web site and your submissions will no longer be listed publicly for download.  Any comments you have posted will still appear and include your username, but will not be linked to your profile.  After cancellation, you will be not be available for log-in.</p>
+   
+   <h3>Data Retention</h3>
+   
+   <p>The data submitted to and generated by this web site may be copied to additional machines for redundancy and backup purposes.</p>
+   
 </div>
-</div><!-- page -->
 
 
-<div id="bottomleaderboard">
-<!-- BEGIN TAG - 728x90 - interfacelift.com/ - DO NOT MODIFY -->
-<script type="text/javascript" src="http://optimizedby.rmxads.com/st?ad_type=ad&amp;ad_size=728x90&amp;promote_sizes=1&amp;section=100686"></script>
-<!-- END TAG -->
-</div><!-- bottomleaderboard -->
-
-</div><!-- right -->
-
-
-<div id="left">
-
-<div id="badge1">
-<script language="JavaScript" type="text/javascript" src="http://db.interfacelift.com/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+      </div>
+      <!-- END page -->
    
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://db.interfacelift.com/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:4&amp;target=_blank");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://db.interfacelift.com/adjs.php?n=828998912&amp;what=zone:4&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://db.interfacelift.com/adclick.php?n=a9566082' target='_blank'><img src='http://db.interfacelift.com/adview.php?what=zone:4&amp;n=a9566082' border='0' alt=''></a></noscript>
-</div><!-- 160_90 -->
+   </div>
+   <!-- END container -->
 
-<div id="badge2">
-<script language="JavaScript" type="text/javascript" src="http://db.interfacelift.com/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   <div id="foot">
    
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://db.interfacelift.com/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:3&amp;target=_blank");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://db.interfacelift.com/adjs.php?n=358789570&amp;what=zone:3&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://db.interfacelift.com/adclick.php?n=a4ca0ab9' target='_blank'><img src='http://db.interfacelift.com/adview.php?what=zone:3&amp;n=a4ca0ab9' border='0' alt=''></a></noscript>
-<div style="margin: 0; padding: 0; margin-top 3 px; text-align: center;"><a href="http://db.interfacelift.com/adclick.php?bannerid=158&amp;zoneid=3&amp;source=&amp;dest=http%3A%2F%2Fwww.iconshock.com%2Fprofessional-icons.php%3Fres%3Dilift" target="_blank" style="text-decoration: none; color: black; font-size: 12px; font-family: sans-serif;">iconshock - vista icons</a></div>
-</div><!-- 160_120 -->
-
-<div id="badge3">
-<script language="JavaScript" type="text/javascript" src="http://db.interfacelift.com/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+      <div id="fine_print">
+         <span style="float: left;">
+            Copyright 2000-2008 L-bow Grease, LLC.</span>
+         
+         <div style="float: right;">
+            <a href="/site/license.php">Copyright Policy</a> 
+            <a href="/site_beta/terms_of_service.php">Terms Of Service</a>
+            <a href="/site_beta/privacy_policy.php">Privacy Policy</a> 
+            <a href="/site/contact.php">Email Webmaster</a>
+         </div>
+      </div>
+      <!-- END fine_print -->
+      
+   </div>
+   <!-- END foot -->
    
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://db.interfacelift.com/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:13&amp;target=_blank");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://db.interfacelift.com/adjs.php?n=531048417&amp;what=zone:13&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://db.interfacelift.com/adclick.php?n=a47fb578' target='_blank'><img src='http://db.interfacelift.com/adview.php?what=zone:13&amp;n=a47fb578' border='0' alt=''></a></noscript>
-</div><!-- 160_90 -->
+   <div id="bottomleaderboard">
+   <iframe src="/inc_NEW/bottom_leaderboard.html" width="728" height="90" style="padding: 0;" frameborder="0" scrolling="0" marginheight="0" marginwidth="0"></iframe>
+   </div>
 
-<div id="badge4">
-<script type="text/javascript"><!--
-google_ad_client = "pub-3902458398606385";
-/* 160x90 Ad Links left */
-google_ad_slot = "7560893120";
-google_ad_width = 160;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</div><!-- 160_90 google -->
-
-<div id="skyscraper">
-<!-- BEGIN TAG - 160x600 - interfacelift.com/ - DO NOT MODIFY -->
-<script type="text/javascript" src="http://optimizedby.rmxads.com/st?ad_type=ad&amp;ad_size=160x600&amp;promote_sizes=1&amp;section=100686"></script>
-<!-- END TAG -->
-</div><!-- skyscraper -->
-
-</div><!-- left -->
-</div><!-- main -->
-
-<!-- Start Quantcast tag -->
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">_qacct="p-e3WlqZovL8L1Y";quantserve();</script>
-<noscript>
-<a href="http://www.quantcast.com/p-e3WlqZovL8L1Y" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-e3WlqZovL8L1Y.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
-</noscript>
-<!-- End Quantcast tag -->
+</div>
+<!-- END main_page_frame -->
 
 
+<!-- Google Analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6395069-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- END Google Analytics -->
 
 
 </body></html>
