@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wearepopslags.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518065214id_/http%3A//www.wearepopslags.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D27%26Itemid%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wearepopslags.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224172129id_/http%3A//www.wearepopslags.com/index.php/privacy_policy.html) for the most accurate reproduction.*
 
 # We Are Pop Slags Privacy Policy - We are committed to protecting your personal p
 
