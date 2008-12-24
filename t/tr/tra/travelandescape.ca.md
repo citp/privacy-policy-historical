@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the travelandescape.ca privacy policy that was archived on 2008-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080218234340id_/http%3A//www.travelandescape.ca/reports/Article.aspx%3Faid%3D100) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelandescape.ca privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224035210id_/http%3A//www.ctvglobemedia.com/en/policiestermsconditions/privacypolicy) for the most accurate reproduction.*
 
-# travel + escape - Privacy Policy
+# CTVglobemedia
 
 CTVglobemedia Website Privacy Policy
 
-CTVglobemedia respects the privacy of all of its users and is committed to protecting such privacy in accordance with this Privacy Policy. This Privacy Policy explains CTVglobemedia Inc.'s and its subsidiaries' ("CTVglobemedia") treatment of your personally identifiable information collected in connection with your activities on or related to all CTVglobemedia websites referencing this Privacy Policy (the "CTVglobemedia Sites") and all services made available on the CTVglobemedia Sites (collectively, unless noted otherwise, the "CTVglobemedia Services"). This Privacy Policy also explains how you can ask questions and make suggestions about our privacy practices and review and update your personal information.
+(Last Updated on July 30, 2008)
+
+CTVglobemedia respects the privacy of all of its users and is committed to protecting such privacy in accordance with this Privacy Policy. This Privacy Policy explains CTVglobemedia Inc.'s and its subsidiaries' (collectively, "CTVglobemedia") treatment of your personally identifiable information collected in connection with your activities on or related to all CTVglobemedia websites referencing this Privacy Policy (the "CTVglobemedia Sites") and all services made available on the CTVglobemedia Sites (collectively, unless noted otherwise, the "CTVglobemedia Services"). This Privacy Policy also explains how you can ask questions and make suggestions about our privacy practices and review and update your personal information.
 
 We urge you to read this Privacy Policy carefully and to check back periodically as this Privacy Policy may change from time to time. Please note that this Privacy Policy does not apply to the practices of companies or websites which are not owned or controlled by CTVglobemedia.
 
@@ -18,7 +20,7 @@ Business contact information such as the name, title, business address, email ad
 
 "Non-Personal Information" is information of an anonymous nature, such as your Internet Protocol Address (IP Address), the domain you may have used to access a CTVglobemedia Service, the type and version of browser or operating system you may be using, and the website you may have come from and visit next. Aggregate information, such as demographic statistics of our users (e.g. average age or geographical allocation of our users), number of visitors and average time spent on a CTVglobemedia Service, is also considered Non-Personal Information.
 
-Non-Personal Information is collected or derived by us in the course of operating the CTVglobemedia Services. For example, our Web servers may automatically collect Non-Personal Information which is provided through your browser or stored on a Cookie or through a Web Beacon when you choose to visit a CTVglobemedia Service. Non-Personal Information is used by CTVglobemedia as described in this policy.
+Non-Personal Information is collected or derived by us in the course of operating the CTVglobemedia Services. For example, our Web servers may automatically collect Non-Personal Information which is provided through your browser or stored on a Cookie (as defined herein) or through a Web Beacon (as defined herein) when you choose to visit a CTVglobemedia Service. Non-Personal Information is used by CTVglobemedia as described in this Privacy Policy.
 
 USE OF PERSONAL INFORMATION
 
@@ -28,7 +30,7 @@ a. Providing you with the CTVglobemedia Services and information you have reques
 
 b. If you indicated that you were interested in receiving offers or information from CTVglobemedia or certain of our selected sponsors or advertisers, CTVglobemedia may send you email materials and other mailings about products and services that we feel may be of interest to you. If at any time you would like to end your subscription to any such email materials, follow the directions posted at the bottom of the email material;
 
-c. If you enter a contest or other promotion offered on a CTVglobemedia Site, we may, under the rules of the promotion, use your name and certain other information to administer the promotion, such as contacting, announcing and promoting the winners of the promotion;
+c. If you enter a contest or other promotion offered on a CTVglobemedia Site, we may, under the rules of the promotion, use your name and certain other information to administer the promotion, such as contacting, announcing and promoting the winners of the promotion; or
 
 d. CTVglobemedia may also use Personal Information if it has reasonable grounds to believe the information could be useful when investigating a contravention of a federal, provincial or foreign law or in order to protect or defend a legal interest.
 
@@ -60,19 +62,19 @@ The security of your Personal Information is important to us. CTVglobemedia take
 
 In certain areas, such as when you provide credit card information to us, we work to help protect the security of your credit card information during transmission by using industry standard Secure Sockets Layer (SSL) encryption technology.
 
-You can help protect the security of your Personal Information as well. For instance, never give out your password, since this is what is used to access your Account or Registration Information. Also remember to log out of your account and close your browser window when you finish using a CTVglobemedia Service or surfing the Web, so that other people using the same computer won't have access to your information.
+You can help protect the security of your Personal Information as well. For instance, never give out your password, since this is what is used to access your account or registration information. Also remember to log out of your account and close your browser window when you finish using a CTVglobemedia Service or surfing the Web, so that other people using the same computer won't have access to your information.
 
 CHANGES TO THIS PRIVACY POLICY?
 
-CTVglobemedia may from time to time change its Privacy Policy as new CTVglobemedia Services are added or old ones changed. Changes will be effective when notice of such change is posted at a CTVglobemedia Site. Please check this Privacy Policy regularly for updates by checking the date of "Last Update" at the top of this document.
+CTVglobemedia may from time to time change this Privacy Policy as new CTVglobemedia Services are added or old ones changed. Changes will be effective when notice of such change is posted at a CTVglobemedia Site. Please check this Privacy Policy regularly for updates by checking the date of "Last Update" at the top of this document.
 
 ADDITIONAL PRIVACY PROCEDURES
 
-Privacy procedures specific to a CTVglobemedia Service can be found on a CTVglobemedia Site at the location of the particular CTVglobemedia Service, or in additional terms referenced at such CTVglobemedia Site. Those procedures are an addendum to this policy, and are provided to you at the place where they will be of most use to you.
+Privacy procedures specific to a CTVglobemedia Service can be found on a CTVglobemedia Site at the location of the particular CTVglobemedia Service, or in additional terms referenced at such CTVglobemedia Site. Those procedures are an addendum to this Privacy Policy, and are provided to you at the place where they will be of most use to you.
 
-ACCESSING AND CHANGING ACCOUNT/ REGISTRATION INFORMATION
+ACCESSING AND CHANGING ACCOUNT / REGISTRATION INFORMATION
 
-CTVglobemedia provides you with the means to access, update, edit or delete any Account or Registration Information you may have provided to us at any time on your own by going to the appropriate page in the Account or Registration section of the relevant CTVglobemedia Service, and changing or deleting such information as desired.
+CTVglobemedia provides you with the means to access, update, edit or delete any account or registration information you may have provided to us at any time on your own by going to the appropriate page in the account or registration section of the relevant CTVglobemedia Service, and changing or deleting such information as desired.
 
 If you are unsure whether we have a record containing any of your Personal Information and would like to confirm whether or not we do, please send an e-mail indicating all e-mail addresses that you may have given us.
 
@@ -82,7 +84,8 @@ QUESTIONS, COMMENTS OR SUGGESTIONS?
 
 If you have questions, comments or suggestions about this Privacy Policy or CTVglobemedia's privacy practices that were not answered here, send us an e-mail.
 
-CTVglobemedia USE OF NON-PERSONAL INFORMATION  
+CTVglobemedia USE OF NON-PERSONAL INFORMATION
+
 Non-Personal Information is collected or derived by us in the course of operating the CTVglobemedia Services. For example, our Web servers may automatically collect Non-Personal Information which is provided through your browser or stored on a Cookie or through a Web Beacon when you choose to visit a CTVglobemedia Service.
 
 In addition to CTVglobemedia's practices related to IP Addresses, Cookies or Web Beacons, Non-Personal Information is used generally by CTVglobemedia to monitor and improve the operation of the CTVglobemedia Services, to perform statistical analyses of the collective characteristics and behavior of our users, to measure user demographics and interests regarding specific CTVglobemedia Services, to describe our services to third parties such as prospective business partners and advertisers and to analyze how and where best to use our resources. No Personal Information will be disclosed during these activities.
@@ -95,7 +98,7 @@ An IP Address is the unique number which is assigned to every direct Internet ac
 
 CTVglobemedia and IP Addresses:
 
-a. Whenever you request a CTVglobemedia Service web page or certain other similar CTVglobemedia content, your browser automatically provides our computers with your IP Address, to which our computers will send the requested information. Each such request is logged by our computers with information including the IP Address of the computer that requested the page and is stored by our computers as needed for the purposes described in this policy;
+a. Whenever you request a CTVglobemedia Service web page or certain other similar CTVglobemedia content, your browser automatically provides our computers with your IP Address, to which our computers will send the requested information. Each such request is logged by our computers with information including the IP Address of the computer that requested the page and is stored by our computers as needed for the purposes described in this Privacy Policy;
 
 b. CTVglobemedia may use your IP Address to display more appropriate and relevant content and advertising, such as content and advertising based on your geographic area. Aggregate information derived from IP Addresses may be reported by CTVglobemedia to its advertisers and partners. For example, CTVglobemedia may report to its advertisers the estimated total number of users accessing a particular CTVglobemedia Site from a specific province;
 
@@ -103,16 +106,20 @@ c. CTVglobemedia may use your IP Address to facilitate the diagnoses and remedy 
 
 COOKIES AND WEB BEACONS
 
-A cookie is a small text file containing a unique identification number that is transferred (through your browser) from a web site to the hard drive of your computer. The cookie identifies your browser and will NOT let a web site know any personal information about you, such as your name and address. Since cookies are only text files, they cannot run on your computer, search your computer for other information or transmit any information to anyone.
+A “Cookie” is a small text file containing a unique identification number that is transferred (through your browser) from a web site to the hard drive of your computer. The Cookie identifies your browser and will NOT let a web site know any personal information about you, such as your name and address. Since Cookies are only text files, they cannot run on your computer, search your computer for other information or transmit any information to anyone.
 
-CTVglobemedia may use cookies to:
+CTVglobemedia may use Cookies to:
 
-a. Monitor website usage and improve the operation and performance of the CTVglobemedia Services and to make our CTVglobemedia Services easier and more convenient to use. For example, cookies help us remember who you are through your browser settings so that we can offer and provide more personalized services (e.g. language preference). Cookies also allow us to save passwords and preferences for you so that you will not have to re-enter them the next time you visit a CTVglobemedia Service;
+a. Monitor website usage and improve the operation and performance of the CTVglobemedia Services and to make our CTVglobemedia Services easier and more convenient to use. For example, Cookies help us remember who you are through your browser settings so that we can offer and provide more personalized services (e.g. language preference). Cookies also allow us to save passwords and preferences for you so that you will not have to re-enter them the next time you visit a CTVglobemedia Service;
 
 b. Measure aggregate user traffic and demographic statistics related to the CTVglobemedia Services and advertisements (e.g. number of users, average time spent, average age and similar statistics). This information helps us to better understand when to update, change or offer new services and provides us with details as to the performance of third party advertisements and content. This information may be reported, in aggregate form only, to our current and prospective sponsors, advertisers and business partners. No Personal Information will be disclosed in such reports;
 
-c. Displaying advertisements. CTVglobemedia and third party advertising providers used by CTVglobemedia may use cookies when serving advertisements.
+c. Displaying advertisements. CTVglobemedia and third party advertising providers used by CTVglobemedia may use Cookies when serving advertisements.
 
-Cookies are used on many major web sites. Most browsers are initially set up to accept cookies. If you prefer, you can reset your browser either to notify you when you have received a cookie, or to refuse to accept cookies. You should understand that while CTVglobemedia does not require you to use cookies, certain CTVglobemedia Services will not function properly if you set your browser to not accept cookies.
+Cookies are used on many major web sites. Most browsers are initially set up to accept Cookies. If you prefer, you can reset your browser either to notify you when you have received a Cookie, or to refuse to accept Cookies. You should understand that while CTVglobemedia does not require you to use Cookies, certain CTVglobemedia Services will not function properly if you set your browser to not accept Cookies.
 
-Certain CTVglobemedia Services may contain electronic images known as Web beacons - sometimes called single-pixel gifs - that allow CTVglobemedia to count users who have visited those pages and to deliver co-branded services. Web beacons are not used to access your Personal Information; they are a technique used to compile aggregated statistics about CTVglobemedia Service usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. Certain CTVglobemedia Service web pages may also contain Web beacons placed there by our advertising partners to help CTVglobemedia determine the effectiveness of our Internet advertising campaigns.
+Certain CTVglobemedia Services may contain electronic images known as “Web Beacons” -- sometimes called single-pixel gifs -- that allow CTVglobemedia to count users who have visited those pages and to deliver co-branded services. Web Beacons are not used to access your Personal Information; they are a technique used to compile aggregated statistics about CTVglobemedia Service usage. Web Beacons collect only a limited set of information including a Cookie number, time and date of a page view, and a description of the page on which the Web Beacon resides. Certain CTVglobemedia Service web pages may also contain Web Beacons placed there by our advertising partners to help CTVglobemedia determine the effectiveness of our Internet advertising campaigns. 
+
+Downloads
+
+[](https://web.archive.org/downloads/privacy_policy\(3\).pdf) [privacy_policy(3).pdf](https://web.archive.org/downloads/privacy_policy\(3\).pdf)
