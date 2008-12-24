@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the macworld.com privacy policy that was archived on 2008-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080618044009id_/http%3A//www.macworld.com/info/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the macworld.com privacy policy that was archived on 2008-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081224014805id_/http%3A//www.macworld.com/info/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -24,6 +24,8 @@
 
 
 
+
+
 <link href="http://css.macworld.com/css/now.css" rel="stylesheet" type="text/css" media="screen">
 
 
@@ -40,6 +42,7 @@
 /* Logon namespace */
 var Logon = new Object();
 Logon.userEmail = pcw_readCookie('macUserEmail');
+Logon.userName = pcw_readCookie('macUserName');
 Logon.isValid = 'null' != Logon.userEmail && '' != Logon.userEmail;
 
 /* Namespace RememberURI */
@@ -135,7 +138,10 @@ setHbxVals();
 // -->
 </script>
 <script type="text/javascript" src="/scripts/hbx/hbx.js"></script>
-
+<!--  BEGIN HBX MEDIA CODE -->
+<script type="text/javascript" src="/scripts/hbx/hbxmedia.js"></script>
+<script type="text/javascript" src="/scripts/hbxvideo.js"></script>
+<!--  END HBX MEDIA CODE -->
 
 <!--END WEBSIDESTORY CODE-->
 
@@ -167,76 +173,86 @@ _qacct="p-25K88fxDSEn9Y";quantserve();</script>
 
 
   <div id="navigation">
-  <a href="/" id="screenLogo"><img src="http://images.macworld.com/images/templates/v4/macworld.gif" alt="Macword"></a>
-  <a href="/" id="printLogo"><img src="http://images.macworld.com/images/templates/macworldLogoPrint.gif" alt="Macword"></a>
-    <p>The Apple, Mac, iPod, and iPhone Experts</p>
-    <div id="feedLinks">
-      <ul>
-        <li class="vid"><a href="/weblogs/mwvodcast.html">Video</a></li>
-      <li class="news"><a href="/newsletters/index">Newsletter</a></li>
-      <li class="rss"><a href="http://rss.macworld.com/macworld/feeds/main">RSS</a></li>
-       <li class="search">
-			<!-- Google CSE Search Box Begins -->
-			<form id="searchbox_003198751674731024891:ovffo1orlum" action="/search.html">
-				<input type="hidden" name="cx" value="003198751674731024891:ovffo1orlum">
-				<input name="q" type="text" id="searchField" class="fieldSkybox" onfocus="clearFld(this);">
-				<input name="sa" value="search" class="searchButton" type="submit">
-				<input type="hidden" name="client" value="idg-cse">
-				<input type="hidden" name="cof" value="FORID:11">
-			</form>
-			<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_003198751674731024891%3Aovffo1orlum"></script>
-			<!-- Google CSE Search Box Ends -->
-           </li>
-      </ul>
-    </div>
+         <span class="arrow"></span>
+      <div class="logo">
+	      <p class="slogan">The Apple, Mac, iPod, and iPhone Experts</p>
+		  <a href="/" id="screenLogo"><img src="http://images.macworld.com/images/templates/v4/mw-logo.gif" alt="Macworld"></a>
+		  <a href="/" id="printLogo"><img src="http://images.macworld.com/images/templates/macworldLogoPrint.gif" alt="Macworld"></a>
+	  </div>
+	  
+	    <div id="metaNav">
+	        <!-- <li class="vid"><a href="/weblogs/mwvodcast.html">Video</a></li>-->
+				
+			    <div id="loginLinks">
+			    	<div>
+			    	<script type="text/javascript"><!--
+						if (Logon.isValid) {
+							var sUserName = mwabbreviate(Logon.userName, 15);
+							document.write('<!'+'--<div class="userEmailHeader">-'+'->' + sUserName + '<!'+'--</div>-'+'->');
+						}
+					// --></script>
+					
+			      	<script type="text/javascript">
+					<!--
+						if (Logon.isValid) {
+							document.write(': <a href="http://www.macworld.com/myaccount/profile">My Account</a> &nbsp;|&nbsp; ');
+							document.write('<a href="http://www.macworld.com/logoff">Log Out</a> &nbsp;|&nbsp; ');
+						}
+						if ( ! Logon.isValid) {
+							document.write('<a href="http://www.macworld.com/logon">Log In</a> &nbsp;|&nbsp; ');
+			        		document.write('<a href="http://www.macworld.com/register">Sign Up</a> &nbsp;|&nbsp; ');
+						}
+					// -->
+					</script><a href="http://www.macworld.com/logon">Log In</a> &nbsp;|&nbsp; <a href="http://www.macworld.com/register">Sign Up</a> &nbsp;|&nbsp; 
+			        
+			        
+					<a href="/newsletters/index" class="newsletter">Newsletter</a> &nbsp;|&nbsp; 
+					<a href="/feeds/index" class="rss">RSS</a>
+					</div>
+			    </div>
+				<!-- Google CSE Search Box Begins -->
+				<form id="searchbox_003198751674731024891:ovffo1orlum" action="/search.html">
+					<input type="hidden" name="cx" value="003198751674731024891:ovffo1orlum">
+					<input name="q" type="text" id="searchField" class="fieldSkybox" onfocus="clearFld(this);" size="30">
+					<input name="sa" value="search" class="searchButton" type="submit">
+					<input type="hidden" name="client" value="idg-cse">
+					<input type="hidden" name="cof" value="FORID:11">
+					<span><a href="/browse.html">Browse All</a></span>
+				</form>
+				<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_003198751674731024891%3Aovffo1orlum"></script>
+				<!-- Google CSE Search Box Ends -->
+			<div class="spacer"></div>	
+	    </div> <!-- END metaNav -->
+	    
     <div id="linkContainer">
-      <div id="contentLinks">
       	<ul>
-			<li class="productLinks Mac"><a href="/products/mac.html">Mac</a></li><li class="productLinks iPod"><a href="/products/ipod.html">iPod</a></li><li class="productLinks iPhone"><a href="/products/iphone.html">iPhone</a></li>
-        <li class="productLinks more"><a href="/products.html">More Products</a></li>
-          <li class="sectionLinks news"><a href="/news.html">News</a></li>
+			
+			<li class="productLinks Mac"><a href="/products/mac.html">Mac</a></li>
+			
+			<li class="productLinks iPod"><a href="/products/ipod.html">iPod</a></li>
+			
+			<li class="productLinks iPhone"><a href="/products/iphone.html">iPhone</a></li>
+			
+          <li class="productLinks"><a href="/products.html">More Products</a></li>
+          <li class="sectionLinks"><a href="/news.html">News</a></li>
           <li class="sectionLinks"><a href="/reviews.html">Reviews</a></li>
           <li class="sectionLinks"><a href="/howto.html">Help &amp; Tips</a></li>
-          <li class="sectionLinks"><a href="http://macbuy.macworld.com/">Shop &amp; Compare</a></li>
           <li class="sectionLinks"><a href="/weblogs.html">Blogs</a></li>
-          <li class="sectionLinks"><a href="http://forums.macworld.com/">Community</a></li>
-           <li class="sectionLinks endcap">&nbsp;</li>
-        </ul>
+          <li class="sectionLinks"><a href="http://macbuy.macworld.com/">Shop &amp; Compare</a></li>
+          <li class="sectionLinks last"><a href="http://forums.macworld.com/">Forums</a></li>
+      <div class="spacer"></div>
+       </ul>
       </div>
+    
+    
       <div id="hotTopics">
-        <p>Topics:</p>
         <ul>
-		<li><a href="/topics/mac_os_x_leopard.html">Mac OS X Leopard</a></li><li><a href="/topics/entertainment_hdtv.html">Entertainment &amp; HDTV</a></li><li><a href="/topics/create.html">Create</a></li><li><a href="/topics/business_mac.html">Business Mac</a></li><li><a href="/topics/mobile_mac.html">Mobile Mac</a></li><li><a href="/topics/digital_photo.html">Digital Photo</a></li><li><a href="/topics/mac_it.html">Mac IT</a></li><li><a href="/topics/storage_backup.html">Storage &amp; Backup</a></li><li><a href="/topics/games.html">Games</a></li><li class="last"><a href="/topics/security.html">Security</a></li>
-        <div class="spacer"></div>
-   </ul>
+        	<li class="title">Topics:</li>
+			<li>&nbsp;•&nbsp; <a href="/topics/mac_os_x.html">Mac OS X</a></li><li>&nbsp;•&nbsp; <a href="/topics/entertainment_hdtv.html">Entertainment &amp; HDTV</a></li><li>&nbsp;•&nbsp; <a href="/topics/create.html">Create</a></li><li>&nbsp;•&nbsp; <a href="/topics/business_center.html">Business Center</a></li><li>&nbsp;•&nbsp; <a href="/topics/mobile_mac.html">Mobile Mac</a></li><li>&nbsp;•&nbsp; <a href="/topics/digital_photo.html">Digital Photo</a></li><li>&nbsp;•&nbsp; <a href="/topics/mac_it.html">Mac IT</a></li><li>&nbsp;•&nbsp; <a href="/topics/storage_backup.html">Storage &amp; Backup</a></li><li>&nbsp;•&nbsp; <a href="/topics/games.html">Games</a></li><li>&nbsp;•&nbsp; <a href="/topics/macworld_expo.html">Macworld Expo</a></li><li class="last">&nbsp;•&nbsp; <a href="/topics/security.html">Security</a></li>
+	        <div class="spacer"></div>
+	   </ul>
       </div>
-    </div>
-
-   	<script type="text/javascript"><!--
-		if (Logon.isValid) {
-			document.write('<div class="userEmailHeader">' + Logon.userEmail + '</div>');
-		}
-	// --></script>
-
-
-    <div id="loginLinks">
-      <ul>
-      	<script type="text/javascript">
-		<!--
-			if (Logon.isValid) {
-				document.write('<li><a href="http://www.macworld.com/myaccount/profile">My Account</a></li>');
-				document.write('<li><a href="http://www.macworld.com/logoff">Log Out</a></li>');
-        		document.write('<li class="last">&nbsp;</li>');
-			}
-			if ( ! Logon.isValid) {
-				document.write('<li><a href="http://www.macworld.com/logon">Log In</a></li>');
-        		document.write('<li><a href="http://www.macworld.com/register">Sign Up</a></li>');
-        		document.write('<li class="last">&nbsp;</li>');
-			}
-		// -->
-		</script><li><a href="http://www.macworld.com/logon">Log In</a></li><li><a href="http://www.macworld.com/register">Sign Up</a></li><li class="last">&nbsp;</li>
-      </ul>
-    </div>
+ 
     <div class="spacer"></div>
   </div>
 
@@ -290,7 +306,7 @@ _qacct="p-25K88fxDSEn9Y";quantserve();</script>
         <li>Log data. Our servers automatically record certain information sent by your browser, such as your Web request, your Internet Protocol address, your referring URL, your browser type and language, and the date and time of your request.</li>
         <li>Cookie data. When you visit the Macworld Web sites, Macworld or one of our IDG affiliates or third-party partners may send one or more "cookies"-small files containing a string of characters-to your computer to identify you as a unique user. If you have registered with Macworld, the information in your cookie is used to provide a more personalized experience on our sites, for example by allowing you to customize portions of the site. If you haven't registered, the cookie identifies you as a unique user and helps ensure a smoother experience on the sites, such as by limiting the number of times that you see certain subscription offers. If you have not registered on our site, we cannot link the user ID in the cookie with personal identifying information and data about you, such as your name or e-mail address.</li>
         <li>Traffic and advertising data. Other cookies are used to enable Macworld and our advertisers and service providers to gather and analyze site traffic and usage information, and to manage the content and advertisements presented. These cookies sometimes work in conjunction with other techniques, such as clear GIFs or pixel tags. The cookies placed by Macworld do not contain personally identifying information, but they may gather information about what sites and types of content you have visited and use that information to determine which content and ads appear when you visit various Web sites, including the Macworld sites.</li>
-        <li>Third party advertising companies. We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Macworld sites. These companies may place cookies, web beacons or similar technologies that allow them to collect and use anonymous information about your visits to the Macworld sites and other sites. For more information about their practices and your options regarding their collection and use of information, click <a href="http://www.doubleclick.com/us/about%5Fdoubleclick/privacy/">here</a> to visit the DoubleClick website and <a href="http://www.networkadvertising.org/managing/opt_out.asp">here</a> to visit the website of the Network Advertising Initiative.</li>
+        <li>Third party advertising companies. We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Macworld sites. These companies may place cookies, web beacons or similar technologies that allow them to collect and use anonymous information about your visits to the Macworld sites and other sites. For more information about their practices and your options regarding their collection and use of information, click <a href="http://www.doubleclick.com/privacy/index.aspx" target="_blank">here</a> to visit the DoubleClick website and <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">here</a> to visit the website of the Network Advertising Initiative. In addition, some of the image ads that Google serves on our site come from third party advertising companies. Click <a href="http://adwords.google.com/support/bin/answer.py?answer=94230" target="_blank">here</a> to see Google's rules for advertising companies that participate in the program, and <a href="https://www.google.com/adsense/support/bin/answer.py?answer=94149&amp;ctx=sibling" target="_blank">here</a> to see a list of the advertising companies that are currently participating.</li>
         </ul>
         <p>Browsers or third-party software can allow you to block the use of cookies while you surf our sites. Or you can use third-party anonymizer services to mask information in your cookies or even general data such as your IP address. In such cases you would not be able to take advantage of most of the personalization services offered on the Macworld Web sites.</p>
         <p>The aggregated information we collect is used for a number of purposes including the following:</p>
@@ -387,7 +403,7 @@ _qacct="p-25K88fxDSEn9Y";quantserve();</script>
         <p>You can opt out of receiving further e-mail by clicking the appropriate links that appear at the bottom of any e-mail you receive. If you do not want to receive other types of communication, including as applicable, postal mail, from the editor and publisher of the site to which you provided the information, please refer to the site's privacy policy for the procedure to follow.</p>
         <p>The IDG Publishing Network is intended for individuals age 13 and over. Personal information may not be provided by anyone under 13 years of age. Further no one under 13 years old may participate in the forums or chat rooms or any other areas where public discussions may take place. In addition no one under the age of 18 may conduct any transactions for the purposes of purchasing or selling any items. Parents should be sure that their children are not conducting any of the above activities on the IDG Publishing Network.</p>
         <p>If you have any questions or comments regarding the IDG Publishing Network or its use of information please send e-mail to <a href="mailto:IDGNetwork@idg.com">IDGNetwork@idg.com</a> or write to us at IDG Publishing Network, 3 Post Office Square, Boston, MA 02109.</p>
-        <p>Last updated: April 21, 2008.</p>
+        <p>Last updated: June 18, 2008.</p>
 
 		            <div class="spacer"></div>
 		        </div>
@@ -414,85 +430,257 @@ _qacct="p-25K88fxDSEn9Y";quantserve();</script>
 		</div>
     </div>
 	<div id="footer">
-			<div id="footerBar">
-      <a href="http://macworld.com"><img src="http://images.macworld.com/images/templates/v4/macworld-footer.gif" width="112" height="34"></a>
-      <div id="services">
-        <ul>
-			<li><a href="/reviews/alpha.html">All Product Reviews</a></li>
-			<li><a href="/contact.html">Contact Us</a></li>
-			<li><a href="/marketing">Advertise</a></li>
-			<li><a href="/info/press.html">Press Releases</a></li>
-			<li><a href="/info/jobs.html">Jobs</a></li>
-			<li><a href="http://www.macworldexpo.com/">Macworld Expo</a></li>
-			<li><a href="http://www.geekcruises.com/index.html">MacMania</a></li>
-		</ul>
-	</div>
-<br>
-	<div id="PCWNetwork">
-		<a href="http://pcworld.com"><img src="http://images.pcworld.com/images/footer/PCWNetwork.gif" width="90" height="15"></a>
-		<ul>
-			<li><a href="http://www.macuser.com/" target="_blank">MacUser</a></li>
-			<li><a href="http://www.osxhints.com/" target="_blank">Mac OS X Hints</a></li>
-			<li><a href="http://iphone.macworld.com/" target="_blank">iPhone Central</a></li>
-			<li><a href="http://www.pcworld.com/" target="_blank">PC World</a></li>
-			<li class="last"><a href="http://www.pcworld.com/businesscenter" target="_blank">PCW Business Center</a></li>
-		</ul>
-	</div>
-		<div id="IDG">
-		<script type="text/javascript">
-<!--
-function MM_jumpMenu(targ,selObj,restore){ //v3.0
-  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
-  if (restore) selObj.selectedIndex=0;
-}
-//-->
-</script>
-<p>Visit other IDG sites: </p>
-		<form name="form" id="form">
-  	<select name="jumpMenu" id="jumpMenu" onchange="MM_jumpMenu('parent',this,0)">
-  	 <option value="" target="_blank">Select One</option>
-    <option value="http://www.cio.com">CIO</option>
-<option value="http://www.computerworld.com">Computerworld</option>
-<option value="www.idgconnect.com">IDG Connect</option>
-<option value="http://www.csoonline.com">CSO</option>
-<option value="http://www.demo.com/">DEMO</option> 
-<option value="http://www.gamepro.com">GamePro</option>
-<option value="http://www.games.net">Games.net</option>
-<option value="http://www.infoworld.com">InfoWorld</option>
-<option value="http://www.itworld.com">ITworld</option>
-<option value="http://www.javaworld.com">JavaWorld</option>
-<option value="http://www.linuxworld.com">LinuxWorld</option>
-<option value="http://www.macworld.com">Macworld</option>
-<option value="http://www.macuser.com">MacUser</option>
-<option value="http://www.networkworld.com">Network World</option>
-<option value="http://www.pcworld.com/">PC World</option>
-<option value="http://www.thestandard.com">The Industry Standard</option>
-<option value="http://www.idgknowledgehub.com">IDG Knowledge Hub</option>
-<option value="http://www.idgtechnetwork.com">IDG TechNetwork</option>
-  </select>
-</form>
 		
-				
-	
-	</div>
-	<div class="spacer"></div>
-</div>
-<div id="copyright">
+
+<div id="footer">
+
+	<div id="subscribeForm">
+    <div class="cornerTopLeft"><div class="cornerTopRight">&nbsp;</div>&nbsp;</div>
+      	
+      <div id="subform_content">  
+      <img class="covers" src="http://images.macworld.com/images/templates/v4/footer/subform_covers.gif">
+      
+      <img class="getBonus" src="http://images.macworld.com/images/templates/v4/footer/get-bonus-cd.gif">
+        
+	<form action="https://w1.buysub.com/servlet/PrePopGateway?cds_mag_code=MCW&amp;cds_page_id=42532" method="post" name="form" class="subForm">
+        
+        <table border="0" cellpadding="0" cellspacing="5">
+          <tbody><tr>
+            <td valign="top">Name</td>
+            <td class="10"></td>
+            <td valign="top" colspan="3">City</td>
+          </tr>
+    
+          <tr>
+            <td valign="top"><input type="text" value="" name="cds_name" maxlength="" style="width:133px" tabindex="501"></td>
+            <td class="10"></td>
+            <td valign="top" colspan="3"><input type="text" name="cds_city" value="" maxlength="" style="width:133px" tabindex="504"></td>
+          </tr>
+          <tr>
+            <td valign="top">Address 1</td>
+            <td class="10"></td>
+    
+            <td valign="top" width="40px">State</td>
+            <td class="10"></td>
+            <td valign="top">Zip</td>
+          </tr>
+          <tr>
+            <td valign="top"><input type="text" value="" name="cds_address_1" maxlength="" style="width:133px" tabindex="502"></td>
+            <td class="10"></td>
+            <td valign="top" width="40px"><input type="text" value="" name="cds_state" maxlength="3" style="width:30px" tabindex="505"></td>
+    
+            <td class="10"></td>
+            <td valign="top"><input type="text" value="" name="cds_zip" maxlength="" style="width:86px" tabindex="506"></td>
+          </tr>
+          <tr>
+            <td valign="top">Address 2</td>
+            <td class="10"></td>
+            <td valign="top" colspan="3">E-mail (optional)</td>
+          </tr>
+    
+          <tr>
+            <td valign="top"><input type="text" value="" name="cds_address_2" maxlength="" style="width:133px" tabindex="503"></td>
+            <td class="10"></td>
+            <td valign="top" colspan="3"><input type="text" value="" name="cds_email" maxlength="" style="width:133px" tabindex="507"></td>
+          </tr>
+        </tbody></table>
+        
+        <div align="center">
+         <input type="image" tabindex="508" src="http://images.macworld.com/images/clickHereBtn.gif">
+        </div>
+      </form>
+       <div class="subLinks">
+          <a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=MCW&amp;cds_page_id=23966">Canadian Residents</a> | <a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=MCW&amp;cds_page_id=13071">Foreign Residents</a> | <a href="https://w1.buysub.com/servlet/GiftsGateway?cds_mag_code=MCW">Gift Subscriptions</a> | <a href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=MCW">Customer Service</a> | <a href="http://www.macworld.com/info/privacy/">Privacy Policy</a>
+          </div>
+ 		</div> <!-- END subform_content -->
+    <div class="cornerBottomLeft"><div class="cornerBottomRight">&nbsp;</div>&nbsp;</div>
+    </div> 
+	<!-- END subscribeForm -->
+    	
+        <div id="storyCarousel">
+        
+          <h2>More from Macworld</h2>
+          <!-- <ul class="carouselNav">
+            <li class="button left"><a href="#">&nbsp;</a></li>
+            <li><a href="#">&bull;</a></li>
+            <li class="selected"><a href="#">&bull;</a></li>
+            <li><a href="#">&bull;</a></li>
+            <li class="button right"><a href="#">&nbsp;</a></li>
+		  </ul>-->
+             <div class="spacer"></div>
+                  
+					
+					
+					 
+				   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="contentPanel">
+
 <ul>
-<li>© 1994-2007 Mac Publishing, LLC.</li>
-<li><a href="/info/privacy.html">Privacy Policy</a></li>
-<li><a href="/info/tos.html">Terms of Service</a></li>
-<li><a href="/info/standards.html">Community Standards</a></li>
+
+   <li>
+       	
+	<div class="image 239"><a href="/article/137738/bestiphoneapps_news.html"><img src="http://images.macworld.com/images/features/graphics/137738-thumb_inform_original.jpg"></a></div>
+    
+    <a href="/article/137738/bestiphoneapps_news.html">Our Favorite iPhone Apps: Best information tools</a>
+	
+	
+	
+     
+     	<div class="spacer"></div>
+     
+   </li>
+
+   <li>
+       	
+	<div class="image 101"><a href="/article/137733/osx_enterprise.html"><img src="http://images.macworld.com/images/news/graphics/132117-macpro_side287.jpg"></a></div>
+    
+    <a href="/article/137733/osx_enterprise.html">Analysis: Judging enterprise Mac OS adoption</a>
+	
+	
+	
+     
+     	<div class="spacer"></div>
+     
+   </li>
+
+   <li>
+       	
+	<div class="image 201"><a href="/article/137734/psystar.html"><img src="http://images.macworld.com/images/shared/graphics/cms/macuser-legal.jpg"></a></div>
+    
+    <a href="/article/137734/psystar.html">Psystar: No conspiracy against Apple</a>
+	
+	
+	
+     
+     	<div class="spacer"></div>
+     
+   </li>
+
 </ul>
-<p>Site design by Jason Brightman</p>
+
 </div>
 
+
+
+
+
+            <div class="spacer"></div>
+        </div> <!-- storyCarousel -->
+
+        <div class="links">
+          <ul class="menu">
+            <li class="title">PCW Network</li>
+            <li><a href="http://www.macuser.com/" target="_blank">MacUser</a></li>
+            <li><a href="http://www.osxhints.com/" target="_blank">Mac OS X Hints</a></li>
+            <li><a href="http://iphone.macworld.com/" target="_blank">iPhone Central</a></li>
+            <li><a href="http://www.pcworld.com/" target="_blank">PC World</a></li>
+            <li><a href="http://www.pcworld.com/businesscenter/" target="_blank">PCW Business Center</a></li>
+          </ul>
+            
+            <ul class="menu">
+              <li class="title">About Macworld</li>
+              <!--<li><a href="http://www.pcworld.com/resource/aboutus.html">About Us</a></li>-->
+              <li><a href="http://www.macworld.com/marketing">Advertise</a></li>
+              <!--<li><a href="http://www.pcworld.com/resource/site_faq.html">FAQ</a></li>-->
+              <li><a href="http://www.macworldexpo.com/">Macworld Expo</a></li>
+              <li><a href="http://www.geekcruises.com/index.html">MacMania</a></li>
+              <li><a href="http://www.macworld.com/info/tos.html">Terms of Service Agreement</a></li>
+              <li><a href="http://www.macworld.com/info/privacy.html">Privacy Policy</a></li>
+            </ul>
+            
+            <ul class="menu last">
+              <li class="title">Resources</li>
+              <!--<li><a href="http://www.pcworld.com/newsletters/index.html">Newsletters</a></li>-->
+              <li><a href="http://www.macworld.com/info/press.html">Press Releases</a></li>
+              <li><a href="http://www.macworld.com/contact.html">Contact Us</a></li>
+              <li><a href="http://rss.macworld.com/macworld/feeds/main"><img src="http://images.pcworld.com/images/common/icon_xml.gif" alt="XML" class="imgIconXml"></a> <a href="http://rss.macworld.com/macworld/feeds/main">RSS Feeds</a></li>
+              <li><a href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=MCW">Magazine Customer Service</a></li>
+              <li><a href="http://www.macworld.com/info/standards.html">Community Standards</a></li>
+            </ul>
+            
+            <div class="spacer"></div>
+            
+        </div> <!-- END link -->
+        
+        <div class="spacer"></div>
+            
+        <div id="idg">
+          <script type="text/javascript">
+            <!--
+            function MM_jumpMenu(targ,selObj,restore){ //v3.0
+              eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+              if (restore) selObj.selectedIndex=0;
+            }
+            //-->
+            </script>
+        
+            <form name="form" id="form">
+            Visit other IDG sites:
+            <select name="jumpMenu" id="jumpMenu" onchange="MM_jumpMenu('parent',this,0)">
+              <option value="" target="_blank">Select One</option>
+              <option value="http://www.cio.com" target="_blank">CIO</option>
+              <option value="http://www.computerworld.com" target="_blank">Computerworld</option>
+              <option value="www.idgconnect.com" target="_blank">IDG Connect</option>
+            
+              <option value="http://www.csoonline.com" target="_blank">CSO</option>
+              <option value="http://www.demo.com/" target="_blank">DEMO</option>
+              <option value="http://www.gamepro.com" target="_blank">GamePro</option>
+              <option value="http://www.games.net" target="_blank">Games.net</option>
+              <option value="http://www.infoworld.com" target="_blank">InfoWorld</option>
+              <option value="http://www.itworld.com" target="_blank">ITworld</option>
+            
+              <option value="http://www.javaworld.com" target="_blank">JavaWorld</option>
+              <option value="http://www.linuxworld.com" target="_blank">LinuxWorld</option>
+              <option value="http://www.macworld.com" target="_blank">Macworld</option>
+              <option value="http://www.macuser.com" target="_blank">MacUser</option>
+              <option value="http://www.networkworld.com" target="_blank">Network World</option>
+              <option value="http://www.pcworld.com/" target="_blank">PC World</option>
+            
+              <option value="http://www.thestandard.com" target="_blank">The Industry Standard</option>
+              <option value="http://www.idgknowledgehub.com" target="_blank">IDG Knowledge Hub</option>
+              <option value="http://www.idgtechnetwork.com" target="_blank">IDG TechNetwork</option>
+              <option value="/resource/idg_intl.html" target="_blank">IDG International Sites</option>
+            </select>
+            </form>
+            
+            <a href="http://www.pcworld.com/resource/copyright.html">© 1994-2008 Mac Publishing, LLC. Site design by Jason Brightman.</a>
+      </div> <!-- END IDG -->
+        
+    </div> <!-- END footer -->
+</div>
 	</div>
-</div>
 
 
 
-<!-- Page generated: Tue Jun 17 21:27:11 PDT 2008 -->
+
+<!-- Page generated: Tue Dec 23 17:00:39 PST 2008 -->
+
 
 
 
