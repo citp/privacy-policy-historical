@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doubleinks.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227155959id_/http%3A//www.doubleinks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubleinks.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224114703id_/http%3A//www.doubleinks.com/privacy.php) for the most accurate reproduction.*
 
 # Double Inks
 
@@ -46,4 +46,4 @@ For security purposes Double Inks sometimes collects and analyzes the Internet p
 
 **Questions**
 
-Questions regarding our Conditions of Usage, Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link in the side menu. Or you can email us at: **[cs@doubleinks.com](mailto:%20cs@doubleinks.com)**
+Questions regarding our Conditions of Usage, Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link in the side menu. Or you can email us at: **[customerservice@doubleinks.com](mailto:%20customerservice@doubleinks.com)**
