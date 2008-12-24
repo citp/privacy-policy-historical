@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the clubrsx.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413103956id_/http%3A//www.clubrsx.com/merchant.mvc%3FScreen%3DPRIVACY%26Store_Code%3DCR) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubrsx.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224061044id_/http%3A//www.clubrsx.com/merchant.mvc%3FScreen%3DPRIVACY%26Store_Code%3DCR) for the most accurate reproduction.*
 
-# Club RSX.com
+# Club RSX.com: Privacy Policy
 
 Club RSX Privacy Policy
 
-The following states the Club RSX.com policy regarding the privacy rights of visitors to this website. We respect your right to privacy and your desire for a secure online shopping experience. Club RSX can be reached by telephone at 1-866-CLUB-RSX (1-866-258-2779) 
+The following states the Club RSX.com policy regarding the privacy rights of visitors to this website. We respect your right to privacy and your desire for a secure online shopping experience. Club RSX can be reached by telephone at 1-866-CLUB-RSX (1-866-258-2779). 
 
 Information we collect and how it's used
 
@@ -31,7 +31,7 @@ Need to make a change?
 If you would like to change any of your transactional information in our database please feel free to contact us. You'll find our phone number and address at the top of this page. 
 
 Public Forums  
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.  
+This site makes chat rooms, forums, message boards, and/or news groupsavailable to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.  
   
 Links to Other Sites  
 This site contains links to other sites. It is not responsible for the privacy practices or the content of such Web sites.
