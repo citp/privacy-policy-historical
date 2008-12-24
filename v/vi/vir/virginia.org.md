@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virginia.org privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630071947id_/http%3A//www.virginia.org/site/main.asp%3Freferrer%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginia.org privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224035847id_/http%3A//www.virginia.org/site/main.asp%3Freferrer%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy: Statewide: Virginia Is For Lovers
+# Privacy - Statewide - Virginia Is For Lovers
 
 If you feel that this company is not abiding by its posted privacy policy, contact Dave Neudeck, Electronic Marketing Director by phone at (804) 545-5554 or email [dneudeck@virginia.org.](mailto:dneudeck@virginia.org)
 
