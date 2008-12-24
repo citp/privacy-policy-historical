@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the allegromedical.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512013359id_/http%3A//www.allegromedical.com/support/privacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allegromedical.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224020001id_/http%3A//allegromedical.com/support/privacyPolicy.do) for the most accurate reproduction.*
 
 # Privacy Policy
+
+| 
 
 ### Privacy Pledge
 
@@ -11,7 +13,7 @@
 We employ the latest 128-bit encryption technology in all areas of the site which require you to provide your personal or account information. These include online ordering, insurance forms, and most contest forms. This is done to protect you from unauthorized use of the information you are sending to our server. To make sure you have the latest security features on your browser, download and install the latest version of Microsoft Internet Explorer or Firefox or Netscape Communicator. 
 
 **We respect your privacy.**   
-Rest assured, Allegro will never share any of your personal information without your prior consent. This is true with the information we gather from our web site as well as through confidential medical and insurance records. The information we gather from the e-mail you send us is filed and used for enhancing the features and content of our site, it is not used or shared in any other way. 
+Rest assured, Allegro will never sell any of your personal information to 3rd party marketing organizations. This is true with the information we gather from our web site as well as through confidential medical and insurance records. The information we gather from the e-mail you send us is filed and used for enhancing the features and content of our site, it is not used or shared in any other way. 
 
 **We use, not abuse, cookies.**   
 AllegroMedical.com uses cookies to enhance your shopping and browsing experience. The text in an Allegro cookie, by itself, only tells us that you have visited our site before. It does not store any personal information such as your e-mail address, street address or phone number. 
