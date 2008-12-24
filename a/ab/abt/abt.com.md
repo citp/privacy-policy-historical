@@ -1,21 +1,10 @@
-> *The following text is extracted and transformed from the abt.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518134102id_/http%3A//www.abt.com/custserv/abtPrivacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abt.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224082327id_/http%3A//www.abt.com/custserv/abtPrivacy.php3) for the most accurate reproduction.*
 
 # Abt - Consumer Electronics Store and Appliance Store | Electronics
 
-|  | [](http://www.abt.com/) |   
----|---  
-  
-[](https://web.archive.org/category/995.html) |   
----|---  
-  
-Appliances | Audio | TV & Video | Cameras &  
-Camcorders | Portable  
-Electronics | Communications | Computers | Mobile  
-Electronics | Furniture | Gourmet Shop | Gaming | Other  
----|---|---|---|---|---|---|---|---|---|---|---  
-  
-  
 | 
+
+|  | 
 
 | [Home](http://www.abt.com/) > [Customer Service](https://web.archive.org/custserv/abtCustServ.php3) > Privacy Policy   
 ---  
