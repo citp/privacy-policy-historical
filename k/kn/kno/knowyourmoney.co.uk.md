@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowyourmoney.co.uk privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611175058id_/http%3A//www.knowyourmoney.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowyourmoney.co.uk privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224151126id_/http%3A//www.knowyourmoney.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,6 +21,8 @@ If you choose to sign up to our newsletter we will hold your name, email address
 
 If you have chosen to sign up to our newsletter we will send you a monthly newsletter via email, or a reminder email before your car/home insurance renewal date. Within all of our emails is the facility to 'un-subscribe' from our newsletter.
 
-The Know Your Money website offers comparison tools for certain financial products where we require you to give us information about the product you require. In these circumstances we pass your details on to our chosen partner so they can assist you in your enquiry. 
+The comparison service on Know Your Money for car, home and van insurance is powered by BISL Limited (trading name comparethemarket) who are the Data Controller and registered under the FSA (Financial Services Authority). This Data will be shared with Notice Media Ltd and we will use this to send you our newsletter and remind you when your insurance is due for renewal.
+
+The Know Your Money website also offers web forms for certain financial products where we require you to give us information about the product you require. In these circumstances we pass your details on to our chosen partner so they can assist you in your enquiry. 
 
 Notice Media Ltd is registered with the Data Protection Act 1998, to view our registration please click [here](http://www.ico.gov.uk/ESDWebPages/Search.asp). Reg No. Z955517X
