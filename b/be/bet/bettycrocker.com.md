@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettycrocker.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509132052id_/http%3A//www.bettycrocker.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettycrocker.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224020005id_/http%3A//www.bettycrocker.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy from BettyCrocker.Com
 
