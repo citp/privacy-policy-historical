@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the nigeriannation.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501234315id_/http%3A//www.nigeriannation.com/resources/legal/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigeriannation.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224133019id_/http%3A//www.nigeriannation.com/legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | NigerianNation.Com
+# Privacy Statement For Nigerian Nation - NigerianNation.Com Web Site
 
-**Privacy Statement For NigerianNation.Com**
+|  | 
 
 **NigerianNation.Com Privacy Policy**  
 NigerianNation.Com offers an online place to meet friends. This Privacy Policy is intended to inform you of NigerianNation.Com's policies and practices regarding the collection, use and disclosure of any Personal Information you submit to us through our Website.
 
-NigerianNation.Com ("NigerianNation.Com", "us" or "we") respects the privacy of the visitors to its Website, the home page of which is located at http://www.nigeriannation.com ("Website"). 
+NigerianNation.Com ("NigerianNation.Com", "us" or "we") respects the privacy of the visitors to its Website, the home page of which is located at http://www.NigerianNation.Com ("Website"). 
 
 "Personal Information" is information about you that is personally identifiable to you, like your name, address, e-mail address, or phone number, as well as other non-public information that is associated with the foregoing.
 
@@ -49,7 +49,7 @@ If you decide to use one of the additional services that are offered by our part
 We also provide information to third-party advertising companies, as described in the next section.  
 Please be aware that the handling of your Personal Information by our partners or the third-party advertising companies is governed by their privacy policy, not ours.
 
-If you would like to know (1) the categories of Personal Information about you that we disclosed in the prior calendar year to third parties for the purposes of the third partiesý marketing and/or (2) the names and addresses of such third parties, please contact us.
+If you would like to know (1) the categories of Personal Information about you that we disclosed in the prior calendar year to third parties for the purposes of the third partiesÃ½ marketing and/or (2) the names and addresses of such third parties, please contact us.
 
 We will disclose information in response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may disclose information, if we believe it is necessary to investigate, prevent, or take action regarding suspected illegal activities or fraud, situations involving the physical safety of any person, violations of NigerianNation.Com's terms of use, or as otherwise required by applicable law. 
 
@@ -64,11 +64,11 @@ If you search the NigerianNation.Com community by using a toolbar that NigerianN
 
 An "Internet protocol address" or "IP Address" is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP Address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP Address probably varies from session to session. We track your IP Address when you login to the Website.
 
-"Cookies" are small pieces of information that a web site sends to your computerýs hard drive while you are viewing a web site. NigerianNation.Com may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Website. Persistent Cookies can be removed by following your Internet browser help file directions. If you choose to disable Cookies, some areas of the Website may not work properly.  
+"Cookies" are small pieces of information that a web site sends to your computerÃ½s hard drive while you are viewing a web site. NigerianNation.Com may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Website. Persistent Cookies can be removed by following your Internet browser help file directions. If you choose to disable Cookies, some areas of the Website may not work properly.  
 Other third parties may place advertisements and cookies on webpages within the NigerianNation.Com network. Other companies' use of their cookies is subject to their own privacy policies, not this one.
 
 **Your Ability to Edit and Delete Your Account Information and Preferences**  
-We reserve the right to send you certain communications relating to the NigerianNation.Com service, such as service announcements, administrative messages and the NigerianNation.Com Newsletter, that are considered part of your NigerianNation.Com account. If you would like to opt out of these messages, you may delete your account by sending an e-mail message to support@nigeriannation.com, subject: account deletion. Please include your full name, e-mail address in the body of the message.
+We reserve the right to send you certain communications relating to the NigerianNation.Com service, such as service announcements, administrative messages and the NigerianNation.Com Newsletter, that are considered part of your NigerianNation.Com account. If you would like to opt out of these messages, you may delete your account by sending an e-mail message to support@NigerianNation.Com, subject: account deletion. Please include your full name, e-mail address in the body of the message.
 
 **Confidentiality and Security**  
 We limit access to personal information about you to employees and third parties who we reasonably believe need access to that information to provide products or services to you or in order to do their jobs. 
@@ -86,9 +86,8 @@ We do not intentionally gather Personal Information about visitors who are under
 Should you have any questions or concerns regarding this Privacy Policy, please contact us:
 
             NigerianNation.Com Networks, Inc.  
-            support@nigeriannation.com
+            support@NigerianNation.Com
 
-  
 **Changes to this Privacy Policy**  
 NigerianNation.Com may update this policy from time to time. We will notify you about significant changes in the way we treat Personal Information by sending a notice to the primary email address specified in your NigerianNation.Com account or by placing a prominent notice on our Website. If you object to any such changes, you must cease using our Website. Continued use of our Website following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
 
