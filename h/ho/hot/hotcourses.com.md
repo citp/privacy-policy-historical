@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hotcourses.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624175251id_/http%3A//www.hotcourses.com/termsandconditions/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotcourses.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224061059id_/http%3A//www.hotcourses.com./termsandconditions/privacy.html) for the most accurate reproduction.*
 
 # Hotcourses Website Terms of Use
 
-[](https://web.archive.org/web/20080624175251id_/http%3A//www.hotcourses.com/termsandconditions/index.html "Hotcourse homepage")
+[](https://web.archive.org/web/20081224061059id_/http%3A//www.hotcourses.com./termsandconditions/index.html "Hotcourse homepage")
 
 ## 1\. Introduction
 
@@ -18,7 +18,9 @@
 
 2.1 As a Visitor, you can visit our website without telling us who you are or revealing any personal information about yourself.
 
-2.2 When you register as a Member, we may collect some or all of the following information about you:
+2.2 When you contact an institution and supply your email address, you will be registered automatically as a member.
+
+2.3 When you register as a Member, we may collect some or all of the following information about you:
 
   * your name, username, email address, password;
   * your postcode;
@@ -27,7 +29,7 @@
 
 
 
-2.3 In this Privacy Policy, we refer to the information above and any other personally identifiable information that we may request from you and that you may provide to us (including your Profile) as "Personal Information".
+2.4 In this Privacy Policy, we refer to the information above and any other personally identifiable information that we may request from you and that you may provide to us (including your Profile) as "Personal Information".
 
 ## 3\. Our use of your Personal Information
 
@@ -43,6 +45,7 @@
   * to provide you with information about products and services we offer;
   * for general research purposes, to allow us to develop the products and services we can offer to you; and
   * for website administration (including enabling us to respond to any comments on our website or feedback you may give us).
+  * When you email an institution or request a prospectus, your contact details will be passed on to the course provider in order to enable them to reply to your email.
 
 
 
