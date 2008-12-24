@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fairfaxcounty.gov privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627015115id_/http%3A//www.fairfaxcounty.gov/using/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairfaxcounty.gov privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225002605id_/http%3A//fairfaxcounty.gov/using/privacy.htm) for the most accurate reproduction.*
 
-# Web Privacy Policy - Fairfax County, Virginia
+# Web Disclaimer & Privacy Policy - Fairfax County, Virginia
 
-Fairfax County is dedicated to preserving your privacy and security while viewing our Web site at **www.fairfaxcounty.gov**. We strive to retrieve the minimum amount of information from our visitors necessary in order to provide a host of various services and resources. This Web Privacy Policy page outlines practices and procedures affecting visitors of our site in accordance with the Virginia Department of Technology Planning's Internet Privacy Guidelines (COV ITRM Guideline SEC2001-02.1). Fairfax County reserves the right to change these policies and the corresponding information on this page at any time without prior notice. Personal information may be required by law or in order for us to provide a requested service; in doing so we are subject to the requirements for administering information systems as established in the [Government Data Collection and Dissemination Practices Act](https://web.archive.org/offsite/?pg=http://leg1.state.va.us/cgi-bin/legp504.exe?000+cod+2.2-3800), Chapter 38 of Title 2.2 of the Code of Virginia. 
+Fairfax County is dedicated to preserving your privacy and security while viewing our Web site at **www.fairfaxcounty.gov**. We strive to retrieve the minimum amount of information about our visitors necessary to provide a host of various services and resources. This Web Disclaimer & Privacy Policy page outlines practices and procedures affecting visitors of our site in accordance with the Virginia Department of Technology Planning's Internet Privacy Guidelines (COV ITRM Guideline SEC2001-02.1). Fairfax County reserves the right to change these policies and the corresponding information on this page at any time without prior notice. Personal information may be required by law or in order for us to provide a requested service; in doing so we are subject to the requirements for administering information systems as established in the [ Government Data Collection and Dissemination Practices Act](https://web.archive.org/offsite/?pg=http://leg1.state.va.us/cgi-bin/legp504.exe?000+cod+2.2-3800), Chapter 38 of Title 2.2 of the Code of Virginia. 
 
 We do not capture personal information without visitors' permission. 
 
@@ -10,9 +10,13 @@ We do not capture personal information without visitors' permission.
 
 For every visitor to our site, there are several common pieces of information that we do collect that are stored in logs. Internet Protocol (IP) address, browser type, operating system, the date and time of the visit, and the addresses to which a visitor linked during a visit to our Web site are all recorded. We cannot and do not associate any of this information with individual persons, distribute this information, or use it in any manner other than for statistical analysis in improving our site to better serve our visitors. 
 
-##  Usage of Cookies 
+##  Cookies 
 
-We do not use cookies to record any personal information. Cookies are used by some County web applications to pass needed information from one page to the next. Rejecting a cookie in these applications will render the application useless. Applications use cookies to track the session through randomly generated ID numbers that cannot be traced back to any personal or private information. For more information on cookies and how our site uses them, see '[Cookies](https://web.archive.org/using/cookies.htm)' 
+We do not use cookies to record any personal information. Cookies are used by some County web applications to pass needed information from one page to the next.These applications use the cookies to track the session through randomly generated ID numbers that cannot be traced back to any personal or private information. Rejecting a cookie in these applications will render the application useless. For more information on cookies and how our site uses them, see [Cookies](https://web.archive.org/using/cookies.htm). 
+
+##  Weather Disclaimer 
+
+Fairfax County weather information is provided by the National Weather Service. Fairfaxcounty.gov makes no warranty, expressed or implied with respect to accuracy, completeness or usefulness of the weather information contained herein and shall have no legal liability or responsibility (including liability for negligence) or for any loss or injury (including death) or for profit which may result, whether directly or indirectly, from the supply of use of such information. **In an emergency** , do not rely solely on the weather information on this site. Please **check your local media to get the latest information.**
 
 ##  Disclosure of Information 
 
@@ -24,8 +28,8 @@ Any e-mail or other correspondence sent to a member of the Board of Supervisors,
 
 ##  Unauthorized Access 
 
-Unauthorized attempts to modify any information stored on this system, to defeat or circumvent security features, or to utilize this system for other that it’s intended purposes are prohibited and may result in criminal prosecution. 
+Unauthorized attempts to modify any information stored on this system, to defeat or circumvent security features, or to utilize this system for other than the intended purposes are prohibited and may result in criminal prosecution. 
 
 ##  Contact Us 
 
-If you have any questions specifically regarding your privacy on our site, please e-mail [webadmin@fairfaxcounty.gov](https://web.archive.org/contact/mailform.asp?ref=3089). 
+If you have any questions specifically regarding your privacy on our site, please e-mail [Web Administrator](https://web.archive.org/contact/MailForm.aspx?agId=100387). 
