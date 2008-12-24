@@ -1,43 +1,47 @@
-> *The following text is extracted and transformed from the interfacelift.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626033622id_/http%3A//interfacelift.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interfacelift.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224030355id_/http%3A//www.interfacelift.com/site_beta/privacy_policy.php) for the most accurate reproduction.*
 
-# 
+# InterfaceLIFT // Privacy Policy
 
-InterfaceLIFT takes your privacy seriously. Please read the following to learn more about how we protect and respect your personal privacy while logged into our web server.
+The owners and operators of InterfaceLIFT take your online privacy seriously. This document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners.
 
-InterfaceLIFT has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the following websites: interfacelift.com, interfacelift.org.
+### User Accounts
 
-## Third party Advertising
+Membership is an optional part of the InterfaceLIFT web site. No user account is required in order to browse or download the content we provide. However, creating an account enables extra features such as (but not limitted to) the ability to submit content, create a list of your favorites, or post comments.
 
-We use third-party advertising companies to serve ads when you visit our web site. These companies may use information about your visits to this web site in order to provide advertisements about goods and services that may be of interest to you.
+By creating an account, you are volunteering certain information about yourself that will be stored on our servers. This data includes at a minimum a username, password, and valid email address. Additional information may optionally be added by you to your account profile. Your profile information is public and may appear on our web site, with the exception of your email address and password.
 
-Below are links to the privacy policies of the advertising networks used by InterfaceLIFT:
+A previous version of our commenting feature allowed non-registered users to post comments if they provided a valid email address. In these cases we display the provided email address with the comment, since there is no associated username. These email address appear in plain text on the web site but are are modified slightly in order to reduce the likelyhood that they will be harvested by spammers.
 
-  * [CasaleMedia.com](https://casalemedia.com/privacy.html)
-  * [Fastclick.com](http://www.fastclick.com/co_privacy.html)
-  * [Google.com](http://www.google.com/privacy.html)
-  * [TribalFusion.com](http://tribalfusion.com/www/about/privacy.html)
+Our current commenting system no longer accepts comments from non-registered users. For registered users, the username is displayed with the comment rather than the email address. It is up to you to ensure that your username is anonymous.
 
-  
+### Personally Identified Data
 
+We strongly discourage users from entering their full name, phone number, physical address, or other sensitive information in user profiles, comments, or other areas of the site. Furthermore, we request that minors and any individuals with limited decision making ability not create an account on this site without the approval and supervision of a guardian.
 
-## Third Party Cookies
+We make a reasonable attempt to monitor for cases where users post personally identifiable information about other individuals to public portions of the web site and remove the offending material.
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+### Server Logs
 
-## External Links
+Like most web sites, InterfaceLIFT logs web-, database-, and other server-software usage and access information. This information may include your internet protocal (IP) address, which in many cases can be translated to an affiliation (such as your work, school, or internet service provider), or a geographical location. We only use this information for debugging purposes and for aggregating into anonymous usage and traffic statistics.
 
-This site contains links to web sites not owned and not necessarily endorsed by the operators of InterfaceLIFT. We are not responsible for the privacy practices or the content of external Web sites.
+### Cookies
 
-## Spam
+While browsing InterfaceLIFT, a small number of text files referred to as "cookies" may be created on your local file system by your web browser at the request of our servers. These files allow us to personalize the browsing experience for both registered and non-registered users. You are free to delete them at any time, or configure your browser not to create them. However, we do not promise that every feature of InterfaceLIFT will function as expected without cookies enabled.
 
-The operators of this web site do not participate in the practice of spamming. Spamming is the sending of bulk, unsolicited email.
+### Third-Party Advertisers
 
-Visitors who submit content to the web site may opt out of having their email address posted on InterfaceLIFt's web pages. Additionally, the operators of the site attempt to protect the email addresses of its content providers from email address harvesters by masking or encoding addresses that are reachable through links or forms on the web site.
+In order to cover the costs of providing InterfaceLIFT as a free resource to the public, we have relationships with many third-party advertising networks. The practices of our advertising partners are not directly covered by InterfaceLIFT's privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date.
 
-Our InterfaceLIFT Weekly [newsletter](https://web.archive.org/newsletter/) is a double opt-in email list. This protects you from being signed up for email you are not interested in receiving. When an email address is submitted to our email list, a confirmation message is sent to your inbox. You will only receive newsletter emails if you confirm your subscription by clicking on the link contained in the confirmation message. This prevents the situation where someone else might sign you up because the subscription may only be activated by someone who has access to your inbox. Email addresses that have not been confirmed are occassionally purged from our system.
+> coming soon...
 
-We recognize that occassionally users may want to stop receiving newsletter messages they signed up for. Clear unsubscribe instructions are available at the bottom of each InterfaceLIFT Weekly newsletter. You may also unsubscribe at any time by visiting our [unsubscribe](https://web.archive.org/newsletter/unsubscribe.php) page.
+### Sharing/Selling of Data
 
-## Contacting InterfaceLIFT
+InterfaceLIFT does not share or sell personally identifiable data to third parties such as spammers or direct marketers. We respect your privacy.
 
-If you have any questions or concerns about this privacy statement or the practices of this web site, you can reach the web site operators through the 'contact' link found at the bottom of each page.
+### Account Cancellation
+
+Upon request, your InterfaceLIFT account can be canceled. Your user profile will no longer appear on the web site and your submissions will no longer be listed publicly for download. Any comments you have posted will still appear and include your username, but will not be linked to your profile. After cancellation, you will be not be available for log-in.
+
+### Data Retention
+
+The data submitted to and generated by this web site may be copied to additional machines for redundancy and backup purposes.
