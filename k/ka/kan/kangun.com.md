@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kangun.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605181540id_/http%3A//www.kangun.com/members_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kangun.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224042437id_/http%3A//www.kangun.com/members_privacy.php) for the most accurate reproduction.*
 
-# Social networking - Share photos, Music, Videos & Make Friends
+# Pakistani Community - Meet New Friends, Chat Room, Photos, Videos, Music
 
 The owners of this Service have created this Privacy Statement (Policy) in order to demonstrate our firm commitment to helping our users better understand what information we collect about them and what may happen to that information. 
 
