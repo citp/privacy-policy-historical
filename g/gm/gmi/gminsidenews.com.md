@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gminsidenews.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612071128id_/http%3A//www.gminsidenews.com/forums/faq.php%3Ffaq%3Dnew_faq_item%23faq_new_faq_item_tos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gminsidenews.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224054240id_/http%3A//www.gminsidenews.com/forums/faq.php%3Ffaq%3Dnew_faq_item%23faq_new_faq_item_tos) for the most accurate reproduction.*
 
 # GM Inside News Forum - FAQ: General Board Rules
 
