@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mygourmetconnection.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506041455id_/http%3A//www.mygourmetconnection.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygourmetconnection.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224233122id_/http%3A//www.mygourmetconnection.com/privacy-policy.php) for the most accurate reproduction.*
 
-# MyGourmetConnection.com: Privacy Policy
+# Privacy Policy at MyGourmetConnection
 
 ### Our Privacy Policy - MyGourmetConnection.com
 
