@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the guifx.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619172310id_/http%3A//www.guifx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guifx.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224221001id_/http%3A//www.guifx.com/privacy-policy) for the most accurate reproduction.*
 
 # Guifx:
 
-[](https://web.archive.org/)[](https://web.archive.org/store)[](http://blog.guifx.com/)[](https://web.archive.org/support)
+[](https://web.archive.org/)[](https://web.archive.org/services)[](https://web.archive.org/store)[](http://blog.guifx.com/)[](https://web.archive.org/support)
 
 Toll Free Support: 1 (888) 33-GUIFX
 
