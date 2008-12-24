@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetimes-tribune.com privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505045617id_/http%3A//www.scrantontimestribune.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetimes-tribune.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225003147id_/http%3A//www.scrantontimestribune.com/policy.html) for the most accurate reproduction.*
 
 # Times-Shamrock Policy Statement
 
