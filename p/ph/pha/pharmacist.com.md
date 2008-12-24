@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmacist.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622093256id_/http%3A//www.pharmacist.com/AM/Template.cfm%3Fsection%3DPrivacy_Policy1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmacist.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224014511id_/http%3A//pharmacist.com/AM/Template.cfm%3Fsection%3DPrivacy_Policy1) for the most accurate reproduction.*
 
 # Pharmacist.com | Privacy Policy
 
