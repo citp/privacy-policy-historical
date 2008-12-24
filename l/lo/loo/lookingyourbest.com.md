@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lookingyourbest.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609160656id_/http%3A//www.lookingyourbest.com/privacystatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookingyourbest.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224184416id_/http%3A//lookingyourbest.com/privacystatement.php) for the most accurate reproduction.*
 
 # LookingYourBest.com - The Plastic Surgeon Resource
 
@@ -140,7 +140,7 @@ How to Contact LookingYourBest.com
 
 If you have questions or comments about this Privacy Statement, please contact  
 LookingYourBest.com Web Administrator  
-1412 W. State Rd  
-Pleasant Grove, Utah  
+829 S. 220 E.  
+Orem, Utah  
 Telephone: 800-873-9062  
 E-mail: [webmaster@lookingyourbest.com](mailto:webmaster@lookingyourbest.com)
