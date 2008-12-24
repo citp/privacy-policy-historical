@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the friendfeed.com privacy policy that was archived on 2008-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080404065803id_/http%3A//friendfeed.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendfeed.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224042210id_/http%3A//friendfeed.com/about/privacy) for the most accurate reproduction.*
 
 # FriendFeed - Privacy Policy
 
-_Last updated: February 25, 2008_
+[](http://12seconds.tv/)[](http://www.amazon.com/)[](http://www.ameba.jp/)[](http://www.backtype.com/)[](http://en.wikipedia.org/wiki/Blog)[](http://brightkite.com/)[](http://en.wikipedia.org/wiki/Web_feed)[](http://www.dailymotion.com/)[](http://delicious.com/)[](http://www.digg.com/)[](http://www.diigo.com/)[](http://www.disqus.com/)[](http://www.facebook.com/)[](http://www.flickr.com/)[](http://www.fotolog.com/)[](http://www.furl.net/)[](http://talk.google.com/)[](http://www.goodreads.com/)[](http://reader.google.com/)[](http://www.google.com/s2/sharing/stuff)[](http://identi.ca/)[](http://www.ilike.com/)[](http://www.intensedebate.com/)[](http://www.jaiku.com/)[](http://www.joost.com/)[](http://www.last.fm/)[](http://www.librarything.com/)[](http://www.linkedin.com/)[](http://www.livejournal.com/)[](http://ma.gnolia.com/)[](http://meneame.net/)[](http://www.mister-wong.com/)[](http://www.mixx.com/)[](http://www.netflix.com/)[](http://www.netvibes.com/)[](http://www.pandora.com/)[](http://www.photobucket.com/)[](http://picasaweb.google.com/)[](http://www.plurk.com/)[](http://www.polyvore.com/)[](http://pownce.com/)[](http://reddit.com/)[](http://www.seesmic.com/)[](http://www.skyrock.com/)[](http://www.slideshare.net/)[](http://smotri.com/)[](http://www.smugmug.com/)[](http://www.stumbleupon.com/)[](http://tipjoy.com/)[](http://www.tumblr.com/)[](http://www.twine.com/)[](http://twitter.com/)[](http://upcoming.yahoo.com/)[](http://www.vimeo.com/)[](http://wakoopa.com/)[](http://www.yelp.com/)[](http://www.youtube.com/)[](http://www.zooomr.com/)[](http://www.hatena.ne.jp/)[](http://hi.baidu.com/)
+
+_Last updated: September 26, 2008_
 
 FriendFeed takes your privacy seriously. We respect and protect the privacy of our users and take appropriate steps to safeguard your personal information. This privacy policy (the “Policy”) explains the types of personal information that we receive and collect when you use the FriendFeed website ("Site") or the services offered by FriendFeed ("Services").
 
@@ -10,7 +12,7 @@ Because FriendFeed is intended for users to share information, photos, ideas, et
 
 FriendFeed adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the [U.S. Department of Commerce's safe harbor program](http://www.export.gov/safeharbor/).
 
-If you have any questions about this Policy, please contact us at [privacy@friendfeed.com](mailto:privacy@friendfeed.com), or write to us at FriendFeed Inc., 333 W. Evelyn Ave., Mountain View, CA 94041. 
+If you have any questions about this Policy, please contact us at [privacy@friendfeed.com](mailto:privacy@friendfeed.com), or write to us at FriendFeed Inc., 313 W. Evelyn Ave., Mountain View, CA 94041. 
 
 ### Information we collect
 
@@ -55,14 +57,13 @@ In addition to the above, FriendFeed may process personal information for such p
 
 
 
-FriendFeed processes personal information on our servers in the United States of America. For users outside the United States, please note that any personally-identifying information you enter into the Site will be transferred out of your country and into the United States. You consent to such transfer through your use of the Site and our Services. You also warrant that you have the right to transfer such information outside your country and into the United States.  
-
+FriendFeed processes personal information on our servers in the United States of America. For users outside the United States, please note that any personally-identifying information you enter into the Site will be transferred out of your country and into the United States. You consent to such transfer through your use of the Site and our Services. You also warrant that you have the right to transfer such information outside your country and into the United States.
 
 ### Choices for personal information
 
 You may change your FriendFeed account settings in the FriendFeed “Settings” section. You may delete your entries through FriendFeed, and this will take immediate effect in your account view. Residual copies of deleted entries remain in our database to keep them from accidentally reappearing in people's feeds. When an entry is deleted in FriendFeed, it often is not deleted in the third-party site from which that entry came. FriendFeed retains the original entry so that it is not added as a "new" item during a future crawl. 
 
-If you wish to terminate your FriendFeed account, you can do so at: [http://friendfeed.com/account/delete](https://web.archive.org/account/delete). You can also write to us at FriendFeed Inc., 333 W. Evelyn Ave., Mountain View, CA 94041. If you terminate your account, your profile and any entries or comments you’ve made will be removed from the site. Your account will be deleted immediately, but it will remain in our backup systems.
+If you wish to terminate your FriendFeed account, you can do so at: [http://friendfeed.com/account/delete](https://web.archive.org/account/delete). You can also write to us at FriendFeed Inc., 313 W. Evelyn Ave., Mountain View, CA 94041. If you terminate your account, your profile and any entries or comments you’ve made will be removed from the site. Your account will be deleted immediately, but it will remain in our backup systems.
 
 You can decline to submit personal information to our Service, in which case FriendFeed may not be able to provide the Service to you.
 
@@ -71,7 +72,7 @@ You can decline to submit personal information to our Service, in which case Fri
 In addition to the uses noted above, FriendFeed only shares personal information with other companies or individuals outside of FriendFeed in the following limited circumstances:
 
   * We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
-  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable [Terms of Service](https://web.archive.org/web/20080404065803id_/http%3A//friendfeed.com/about/terms), including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of FriendFeed, its users or the public as required or permitted by law.
+  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable [Terms of Service](https://web.archive.org/web/20081224042210id_/http%3A//friendfeed.com/about/terms), including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of FriendFeed, its users or the public as required or permitted by law.
 
 
 
@@ -105,4 +106,4 @@ FriendFeed regularly reviews its compliance with this Policy. Please feel free t
 
 This Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice. Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Policy in an archive for your review.
 
-If you have any additional questions or concerns about this Policy, please contact us at [privacy@friendfeed.com](mailto:privacy@friendfeed.com), or write to us at FriendFeed Inc., 333 W. Evelyn Ave., Mountain View, CA 94041. 
+If you have any additional questions or concerns about this Policy, please contact us at [privacy@friendfeed.com](mailto:privacy@friendfeed.com), or write to us at FriendFeed Inc., 313 W. Evelyn Ave., Mountain View, CA 94041. 
