@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tapproject.org privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622084456id_/http%3A//tapproject.unicefusa.org/site/PageNavigator/Tap_Project/tap_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapproject.org privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224135535id_/http%3A//tapproject.unicefusa.org/site/PageNavigator/Tap_Project/tap_privacy) for the most accurate reproduction.*
 
 # UNICEF USA: Tap Project Privacy Statement
 
