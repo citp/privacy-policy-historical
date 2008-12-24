@@ -1,344 +1,129 @@
-<!--The following is the downloaded HTML source of the prepme.com privacy policy that was archived on 2008-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080511223131id_/http%3A//www.prepme.com/about/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prepme.com privacy policy that was archived on 2008-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081224022325id_/http%3A//www.prepme.com/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-	<link rel="stylesheet" href="../inc/tabs.css" type="text/css">
-	<link rel="stylesheet" href="../inc/blog.css" type="text/css">
-
-	<!--[if lt IE 7]>
-	<script defer type="text/javascript" src="..//inc/pngfix.js"></script>
-	<![endif]-->
-
-	<script language="javascript">
-	  function toggleDiv(divid){
-	    if(document.getElementById(divid).style.display == 'none'){
-	      document.getElementById(divid).style.display = 'block';
-	    }else{
-	      document.getElementById(divid).style.display = 'none';
-	    }
-	  }
-	</script>
-
-	<script language="JavaScript" type="text/javascript">
-
-	<!--
-		var browserName=navigator.appName; 
-		if (browserName=="Netscape")
-		{ 
-			document.write('<link rel=\"stylesheet\" href=\"../inc/position_firefox.css\" type=\"text/css\" title=\"prepme_style\"/>');
-			document.write('<link rel=\"stylesheet\" href=\"../inc/style_firefox.css\" type=\"text/css\" title=\"prepme_style\"/>');
-		}
-		else if (browserName=="Microsoft Internet Explorer")
-		{ 
-			document.write('<link rel=\"stylesheet\" href=\"../inc/position_ie.css\" type=\"text/css\" title=\"prepme_style\"/>');
-			document.write('<link rel=\"stylesheet\" href=\"../inc/style_ie.css\" type=\"text/css\" title=\"prepme_style\"/>');	
-		}
-		else
-		{
-			document.write('<link rel=\"stylesheet\" href=\"../inc/position_ie.css\" type=\"text/css\" title=\"prepme_style\" />');
-			document.write('<link rel=\"stylesheet\" href=\"../inc/style_ie.css\" type=\"text/css\" title=\"prepme_style\" />');	
-		}
-	//-->
-	</script><link rel="stylesheet" href="../inc/position_firefox.css" type="text/css" title="prepme_style"><link rel="stylesheet" href="../inc/style_firefox.css" type="text/css" title="prepme_style">
-
-<script language="javascript" type="text/javascript">
-<!--
-function popitup(url)
-{
-        newwindow=window.open(url,'Screenshot','height=617,width=700');
-        if (window.focus) {newwindow.focus()}
-        return false;
-}
-// -->
-</script>
-
-<!-- <link href="http://www.google.com/uds/css/gsearch.css" type="text/css" rel="stylesheet"/> -->
-
-
-<script language="javascript" type="text/javascript">
-<!--
-
-
-	// Cookie Creation function
-        function createCookie(name,value,days)
-        {
-                if (days)
-                {
-                        var date = new Date();
-                        date.setTime(date.getTime()+(days*24*60*60*1000));
-                        var expires = "; expires="+date.toGMTString();
-                }
-                else var expires = "";
-                document.cookie = name+"="+value+expires+"; domain=.prepme.com; path=/";
-        }
-
-	// Cookie Read Function
-        function readCookie(name)
-        {
-                var nameEQ = name + "=";
-                var ca = document.cookie.split(';');
-                for(var i=0;i < ca.length;i++)
-                {
-                        var c = ca[i];
-                        while (c.charAt(0)==' ') c = c.substring(1,c.length);
-                        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-                }
-                return null;
-        }
-
-//-->
-</script>
-<script language="javascript" type="text/javascript">
-<!--
-
-	function initialiseGetData()
-        {
-                GET_DATA=new Array();
-                var getDataString=new String(window.location);
-                var questionMarkLocation=getDataString.search(/\?/);
-                if (questionMarkLocation!=-1)
-                {
-                                getDataString=getDataString.substr(questionMarkLocation+1);
-                                var getDataArray=getDataString.split(/&/g);
-                        for (var i=0;i<getDataArray.length;i++)
-                        {
-                                var nameValuePair=getDataArray[i].split(/=/);
-                                GET_DATA[unescape(nameValuePair[0])]=unescape(nameValuePair[1]);
-                        }
-                }
-//              document.forms[0].elements['ref'].value = GET_DATA['p'];
-                        ref_id = GET_DATA['p'];
-
-                        ref_read = readCookie('PrepMeInfo');
-                        if(ref_read)
-                        {
-                                //document.forms[0].elements['ref'].value = ref_read;
-                                //  document.getElementById('ref').value = ref_read;
-				  
-
-                        }
-                        else
-                        {
-                                if(ref_id)
-                                {
-                                        createCookie('PrepMeInfo',ref_id,28);
-                                //      document.forms[0].elements['ref'].value = ref_id;
-                                  //        document.getElementById("ref").value = ref_id;
-
-                                }
-                        }
-
-		// Track Referrer Url; this will be used in the Enroll page by a hidden INPUT variable
-		// This is for tracking purposes, mainly adwords
-
-                tracking_read = readCookie('PrepMeTracking');
-
-                if(tracking_read)
-                {
-
-                        // do nothing
-                        //cookie already placed
-                }
-                else
-                {
-                        createCookie('PrepMeTracking', document.referrer, 365);
-                }
-/*
-<!--		// Google API maps loader
-		if (GBrowserIsCompatible()) 
-		{
-		        var map = new GMap2(document.getElementById("map"));
-        		map.addControl(new GSmallMapControl());
-			map.addControl(new GMapTypeControl());
-			map.setCenter(new GLatLng(37.430247,-122.171059), 7);
-			var point = new GLatLng(37.430247,-122.171059);
-			map.addOverlay(new GMarker(point));
-		
-		}
-
-
-		// Google API news
-      
-	        GSearch.getBranding(document.getElementById("branding"));
-	        var news = new GnewsSearch();
-		news.setUserDefinedLabel("Recent News");
-
-	        var searchControl = new GSearchControl();
-	        var options = new GsearcherOptions();
-        	options.setExpandMode(GSearchControl.EXPAND_MODE_LINEAR);
-        	options.setRoot(document.getElementById("searchResults2"));
-        	searchControl.addSearcher(news, options);
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
  
-//		searchControl.addSearcher(news);
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="title" content="PrepMe - Premium Online SAT, ACT, PSAT Test Prep">
+<meta name="robots" content="index, follow">
+<meta name="description" content="PrepMe provides prepmium online SAT, ACT, PSAT Test Preparation">
+<meta name="keywords" content="prepme, test prep, sat, act, psat">
+<meta name="language" content="en">
+ 
+<title>PrepMe - Premium Online SAT, ACT, PSAT Test Prep</title>
+ 
+<link rel="shortcut icon" href="/favicon.ico">
 
-	        searchControl.draw(document.getElementById("searchResults"));
-		
-	        // Execute an inital search
-	        searchControl.execute("Stanford University");
-	
-	      	GSearch.setOnLoadCallback(initialiseGetData);
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="js/pngfix.js"></script>
+<![endif]-->
 
--->
-*/
-	}
-// -->
-</script>
-
-
-<!--
--->
-		<title>PrepMe: Prepare for the future</title>
-<!-- </head> tag is in bodytag.php to allow people to add more style info into the head -->
+<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css">
 </head>
-<body onload="initialiseGetData();"> <!-- onunload="GUnload()">
--->
-<!--<div id="main_page_div"> -->
-	<!--Top Row 1 Div Start-->
-	<div id="logo-container">
-		<!--PrepMe Logo Start-->
-		<div id="logo_div"><a href="http://www.prepme.com" target="_parent"><img src="../img/prepme_logo.gif" alt="PrepMe.com Premium Online SAT and ACT Preparation."></a></div>
-		<!--PrepMe Logo End-->
-		<div id="contact_right_div">
-			<p>
-      <img src="../img/chat-icon.gif" alt="chat icon"> <a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/46230421/?cmd=file&amp;file=visitorWantsToChat&amp;site=46230421&amp;byhref=1&amp;SESSIONVAR!operator=Karan&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/Education/1a" target="chat46230421" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/46230421/?cmd=file&amp;file=visitorWantsToChat&amp;site=46230421&amp;SESSIONVAR!operator=Karan&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/Education/1a&amp;referrer='+escape(document.location),'chat46230421','width=475,height=400,resizable=yes');return false;">Chat with an Advisor</a> |
-			<img src="../img/phone-icon.gif" alt="phone icon"> <a href="http://www.prepme.com/our-services/walk_through.php" target="_parent">Have an advisor call you</a> | 
-			<img style="text-decoration: none;" src="../img/mail-icon.gif" alt="mail icon"> <a href="http://www.prepme.com/our-services/email.php" target="_parent">E-mail an advisor</a> | 
-			<a href="http://www.prepme.com/LMS" target="_parent">Login</a>
-			</p>
-		</div>
-	<!--End Top Section Div-->
-	</div>
-<div id="tabs-top">
-  <ul>
-                                <li>
-            <a href="http://www.prepme.com/index.php" target="_parent">Home</a></li>
-          
-              			                            <li>
-            <a href="http://www.prepme.com/our-services/testprep.php" target="_parent">Our Courses</a></li>
-          
-              			                            <li>
-            <a class="new" href="http://www.prepme.com/answers" target="_parent">Answers</a></li>
-          
-              			                            <li>
-            <a href="http://www.prepme.com/SAT/sat.php" target="_parent">SAT</a></li>
-          
-              			                            <li>
-            <a href="http://www.prepme.com/ACT/act.php" target="_parent">ACT</a></li>
-          
-              			                            <li>
-            <a href="http://www.prepme.com/PSAT/psat.php" target="_parent">PSAT</a></li>
-          
-              			                            <li>
-            <a href="http://www.prepme.com/advice/advice.php" target="_parent">Free Tools</a></li>
-          
-              			                            <li>
-            <a href="https://enroll.prepme.com/enroll" target="_parent">Enroll Now</a></li>
-          
-              			      </ul>
-</div>
-<div id="tabs-bottom">
-  <ul>
-          <li><a href="http://www.prepme.com/about/about.php" target="_parent">What is PrepMe?</a></li>
-          <li><a href="http://www.prepme.com/about/who-is-prepme.php" target="_parent">Who is PrepMe?</a></li>
-          <li><a href="http://www.prepme.com/about/partner-program.php" target="_parent">Partner Program</a></li>
-          <li><a href="http://www.prepme.com/about/content-syndication.php" target="_parent">Content Syndication</a></li>
-          <li><a href="http://www.prepme.com/about/news.php" target="_parent">PrepMe News</a></li>
-          <li><a href="http://www.prepme.com/about/contact.php" target="_parent">Contact</a></li>
+<body>
+  <div id="header">
+    <a href="/"><img alt="PrepMe.com Premium Online SAT and ACT Preparation" width="258" height="53" border="0" align="left" src="/images/logo.gif"></a>      <img width="14" height="16" border="0" alt="chat icon" src="/images/chat-icon.gif">      <a onclick="javascript:window.open('http://server.iad.liveperson.net/hc/46230421/?cmd=file&amp;file=visitorWantsToChat&amp;site=46230421&amp;SESSIONVAR!operator=Karan&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/Education/1a&amp;referrer='+escape(document.location),'chat46230421','width=475,height=400,resizable=yes');return false;" target="chat46230421" href="http://server.iad.liveperson.net/hc/46230421/?cmd=file&amp;file=visitorWantsToChat&amp;site=46230421&amp;byhref=1&amp;SESSIONVAR!operator=Karan&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/Education/1a" id="_lpChatBtn">Chat with an Advisor</a>
+      |
+      <img width="14" height="16" border="0" alt="phone icon" src="/images/phone-icon.gif">      <a href="/home/walkthrough">Have an advisor call you</a>      |
+      <img width="16" height="12" border="0" alt="mail icon" src="/images/mail-icon.gif">      <a href="/home/emailAdvisor">E-mail an advisor</a>      |
+      <a href="http://www.prepme.com/LMS/">Login</a>  </div>      
+  <div id="content">
+    <div id="menu">
+      <ul>
+                  <li><a href="/">Home</a></li>
+                          <li><a href="/ourCourses">Our Courses</a></li>
+                <li><a href="http://www.prepme.com/answers/">Answers</a></li>
+                  <li><a href="/sat">SAT</a></li>
+                          <li><a href="/act">ACT</a></li>
+                          <li><a href="/psat">PSAT</a></li>
+                          <li><a href="/freeTools">Free Tools</a></li>
+                <li><a href="https://enroll.prepme.com/">Enroll Now</a></li>
       </ul>
+    </div>
+    <div id="submenu">
+      <ul>
+        <li><a href="/about">WHAT IS PREPME?</a></li>
+<li><a href="/about/whoIsPrepme">WHO IS PREPME?</a></li>
+<li><a href="/about/partnerProgram">PARTNER PROGRAM</a></li>
+<li><a href="/about/contentSyndication">CONTENT SYNDICATION</a></li>
+<li><a href="/about/prepmeNews">PREPME NEWS</a></li>
+<li><a href="/about/contact">CONTACT</a></li>
+      </ul>
+    </div>
+    <div id="body_text">
+              <div id="left_nav_div">
+  <div class="left_content_post_it">
+    <div class="left_content_post_it_title">
+      Why PrepMe?
+    </div>
+    <div class="left_content_post_it_text">
+      “No matter what question you have, there is a resource to answer it.”      <br>
+      <div style="text-align: right;">
+        -Jake L. (Cincinnati, OH)      </div>
+    </div>
+  </div>
+  <div class="left_content_post_it">
+    <div class="left_content_post_it_title">
+      Did you know?
+    </div>
+    <div class="left_content_post_it_text">
+      Your SAT and ACT scores don't just matter for college admissions. They can help you win thousands of dollars in scholarships!    </div>
+  </div>
 </div>
-	<!--Top Global Navigation End-->
-<!--	</div>  -->
-<div id="main_page_div">
-
-
-	<!--Begin Left Nav Div-->
-	<div id="left_nav_div">
-
-		<!--Left Section Navigation Start-->
-		<!--Left Section Navigation End-->
-
-<!-- Include the left panels -->
-		<div onclick="location.href='http://www.prepme.com/our-services/testprep.php';" id="left_content_post_it" istyle="cursor:pointer;">
-		<!--Left Content I Panel Title Start-->
-		<div id="left_content_1_panel_title" style="cursor:pointer;">
-		Why PrepMe?		</div>
-		<!--Left Content I Panel Title End-->
-		<!--Left Content I Panel Text Start-->
-		<div onclick="location.href='http://www.prepme.com/our-services/testprep.php';" id="left_content_1_panel_text" style="cursor:pointer;"> 
-		“I thought my tutors were fantastic!”<br><div align="right">-Dan H.</div><br><div align="right"><a class="link2" href="http://www.prepme.com/our-services/testprep.php"> Learn More &gt;&gt; </a></div>		</div>
-		</div>
-		<!--Left Content I Panel Text End-->
-				  
-		<div onclick="location.href='http://www.prepme.com/enroll/enroll_main.php';" id="left_content_post_it" istyle="cursor:pointer;">
-		<!--Left Content I Panel Title Start-->
-		<div id="left_content_1_panel_title" style="cursor:pointer;">
-		Did You Know?		</div>
-		<!--Left Content I Panel Title End-->
-		<!--Left Content I Panel Text Start-->
-		<div onclick="location.href='http://www.prepme.com/enroll/enroll_main.php';" id="left_content_1_panel_text" style="cursor:pointer;"> 
-		PrepMe's course keeps adapting to your strengths and weaknesses to ensure you make the most efficient use of your time.<br><br><div align="right"><a class="link2" href="http://www.prepme.com/our-services/testprep.php"> Learn More &gt;&gt; </a></div>		</div>
-		</div>
-		<!--Left Content I Panel Text End-->
-				  
-
-	<!--End Left Nav Div-->
-	</div>
-	<!--Body Text Div Start-->
-	<div id="body_text_div">
-	<!--Section Title Start-->
-	<div id="section_title">
-	<h1 class="template_title">Privacy Policy</h1>
-	</div>
-	<!--Section Title End-->
-	<!--SubSection Title 1 Start-->
-	<div class="sub_section_title" id="sub_section_title_id">Policy</div>
-	<!--SubSection Title 1 End-->
-	<!--SubSection Text 1 Start-->
-	<div id="sub_section_text">
+            <div id="body_text_div">
+  <!--Section Title Start-->
+  <div class="section_title">
+  <h1 class="template_title">Privacy Policy</h1>
+  </div>
+  <!--Section Title End-->
+  <!--SubSection Title 1 Start-->
+  <div class="sub_section_title">Policy</div>
+  <!--SubSection Title 1 End-->
+  <!--SubSection Text 1 Start-->
+  <div class="sub_section_text">
             <p>
-	    We at PrepMe, Inc. and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information you share with us.
+      We at PrepMe, Inc. and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information you share with us.
         <br><br>
         You can utilize most of this site's free features without giving us any personal information.   For the parts of PrepMe's site where a free service is offered with a subscription, you may opt-in to receive further information from our partners.  However, for specialized paid services that require personal information PrepMe, will never release any of the personal information you give us. Personal Information refers to any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information.
-	<br><br>
+  <br><br>
         Most of PrepMe's services are not intended to be used by children under 13 years of age and accordingly we do not collect personal information from these individuals.   PrepMe's new Precocious Program is designed for students starting in 6th grade and thus may have users who are under the age of 13.  To comply with COPPA regulations, students who are under the age of 13 are not allowed to register directly and a parent/guardian must register under his or her own name to maintain their child's privacy.  
-	<br><br>
+  <br><br>
         If you choose to provide us with your personal information on this site, we may transfer that information within PrepMe, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world.
         <br><br>
         PrepMe strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, we intend to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained.
 </p>
 
-	</div>
-	<!--SubSection Text 1 End-->
-	<!--Empty Div to make IE happy-->
-	<div id="empty_div_to_fix_ie"> </div>
-	<!--Body Text Div End-->
+  </div>
+  <!--SubSection Text 1 End-->
+  <!--Empty Div to make IE happy-->
+  <div id="empty_div_to_fix_ie"> </div>
+  <!--Body Text Div End-->
 </div>
-				      
+    </div>
+	  <div id="footer">
+      <div style="clear: both"></div>
+	    <ul>
+	      <li><a href="/about">About</a> | </li>
+	      <li><a href="http://www.prepme.com/blog/">Blog</a> | </li>
+	      <li><a href="/about/contact">Contact</a> | </li>
+	      <li><a href="/about/employment">Employment</a> | </li>
+	      <li><a href="/about/partnerProgram">Partner Program</a> | </li>
+	      <li><a href="/about/privacy">Privacy</a> | </li>
+	      <li><a href="/about/termsAndConditions">Terms</a></li>
+	    </ul>
+	    <p> © Copyright 2001-2008 PrepMe, Inc.</p>
+	  </div>
+  </div>
 
-
-	<!--Bottom Global Navigation Start-->
-	<div class="navigation_blank" id="bottom_nav_box">
-		<ul>
-	
-	<li><a rel="nofollow" href="http://www.prepme.com/about/about.php" target="_parent">About</a> | </li><li><a rel="nofollow" href="http://www.prepme.com/advice/blog.php" target="_parent">Blog</a> | </li><li><a rel="nofollow" href="http://www.prepme.com/about/contact.php" target="_parent">Contact</a> | </li><li><a rel="nofollow" href="http://www.prepme.com/about/employment.php" target="_parent">Employment</a> | </li><li><a rel="nofollow" href="http://www.prepme.com/about/partner-program.php" target="_parent">Partner Program</a> | </li><li><a rel="nofollow" href="http://www.prepme.com/about/privacy.php" target="_parent">Privacy</a> | </li><li><a rel="nofollow" href="http://www.prepme.com/about/terms-and-conditions.php" target="_parent">Terms</a></li>		</ul>
-		<!--Bottom Global Navigation End-->
-		<!--Copyright Blurb Start-->
-		<p> © Copyright 2008 PrepMe, Inc.</p>
-		<!--Copyright Blurb End-->	    
-	</div>
-
-<!-- close out the main_page_div -->
-</div>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-  _uacct="UA-327378-1";
-    urchinTracker();
-</script>
-    
-
-
+  <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    var pageTracker = _gat._getTracker("UA-327378-1");
+    pageTracker._initData();
+    pageTracker._trackPageview();
+  </script>
 
 
 </body></html>
