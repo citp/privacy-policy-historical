@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the surveyspot.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621122528id_/http%3A//www.surveyspot.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyspot.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224020624id_/http%3A//www.surveyspot.com/privacy.shtml) for the most accurate reproduction.*
 
 # .:: SurveySpot.com ::.
 
-## PRIVACY POLICY PAGE
+## PRIVACY POLICY
 
 **Privacy Statement**
 
@@ -31,7 +31,7 @@ SSI supports the rights of our members by limiting the use of their information 
 
 
 
-SSI also strives to conform to FTC Safe Harbor regulations regarding data protection in the European Union; the FTCs Children's Online Privacy Protection Act (COPPA), the CAN-SPAM Act, and other privacy regulations and guidelines in the US and other countries. 
+SSI also strives to conform to U.S. EU Safe Harbor Framework which is administered by the U.S. Department of Commerce regarding data protection in the European Union; the FTCs Children's Online Privacy Protection Act (COPPA), the CAN-SPAM Act, and other privacy regulations and guidelines in the US and other countries. 
 
 Your information is used solely for research purposes. We will never try to sell you anything; we are only interested in your opinions. When you complete a survey, your responses are analyzed in aggregate with all other respondents' information and reported not individually, but only in the aggregate. Our research clients will never receive personally identifiable information about our panel members, nor will they be able to identify panel members, without your express permission. 
 
@@ -47,7 +47,7 @@ We encourage you to update your panelist information. To help you do this, we se
   * Send an e-mail request to [our members' services team](https://web.archive.org/svy/survey/ContactMemberServices.jsp)
   * Visit [your member account](https://web.archive.org/panelist/PanelistManager) on our web site, and follow the instructions
   * Phone at 1.203.255.4200, please ask for Susan Evans 
-  * Postal mail to Attn: Susan Evans, Survey Sampling International, One Post Road, Fairfield, CT 06824 USA
+  * Postal mail to Attn: Susan Evans, Survey Sampling International, Six Research Drive, Shelton, CT 06484 USA
 
 
 
@@ -91,7 +91,7 @@ Please contact us at [Member Services](https://web.archive.org/svy/survey/Contac
   1. Send an e-mail request to [our members' services team](https://web.archive.org/svy/survey/ContactMemberServices.jsp)
   2. Visit [your member account](https://web.archive.org/panelist/PanelistManager) on our web site, and follow the instructions 
   3. Phone at 1.203.255.4200, please ask for Susan Evans 
-Postal mail to Attn: Susan Evans, Survey Sampling International, One Post Road, Fairfield, CT 06824 USA 
+Postal mail to Attn: Susan Evans, Survey Sampling International, Six Research Drive, Shelton, CT 06484 USA 
 
 
 **Changes to this policy**  
@@ -100,5 +100,5 @@ Panelists will be notified of any changes to our privacy policy via e-mail or vi
 **Privacy Contact**  
 Peter Milla  
 Survey Sampling International, LLC  
-One Post Road  
-Fairfield, CT 06824 USA 
+Six Research Drive  
+Shelton, CT 06484 USA 
