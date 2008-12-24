@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the pricequotes.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527005740id_/http%3A//www.pricequotes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricequotes.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224082212id_/http%3A//www.pricequotes.com/privacy.html) for the most accurate reproduction.*
 
-# PriceQuotes.com - Online Privacy Policy
+# PriceQuotes.com - Privacy Policy
 
-**_PriceQuotes.com Privacy Policy -_**
+  
+PRIVACY POLICY
 
 **PriceQuotes.com** respects the privacy rights of its online visitors and is committed to providing a secure environment for them. To demonstrate our commitment, we have adopted an Online Privacy Policy that governs the information collection practices of our Web site.
 
