@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roliana.com privacy policy that was archived on 2008-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080218164156id_/http%3A//www.roliana.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roliana.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224094913id_/http%3A//www.roliana.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Roliana
 
@@ -45,16 +45,8 @@ U.K
 
 This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours.
 
-Roliana is a place to hang out and make some friends.
+A place to hang out and make some friends...
 
-Join today and you can create your own avatar and customize him or her with your choice of clothes, hair styles and other items.
+Create your own avatar and customize him or her with your choice of clothes, hair styles and other items.
 
 To buy clothes you need to earn Gold by participating in the forums and playing games.
-
-So what are you waiting for ? [](http://www.roliana.com/forums/profile.php?mode=register)
-
-[](https://web.archive.org/forums/shop_inventory.php?action=shoplist&shop=15)
-
-Purchase platinum currency with Paypal, Post or Mobile
-
-Earn gold by participating in the forums and playing games to buy clothes and items...
