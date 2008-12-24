@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casper.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410162951id_/http%3A//www.casper.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casper.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224210151id_/http%3A//www.casper.com/privacy.htm) for the most accurate reproduction.*
 
 # Casper.com: Great Deals, Big Discounts
 
