@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the retrevo.com privacy policy that was archived on 2008-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080121091530id_/http%3A//www.retrevo.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retrevo.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224081922id_/http%3A//www.retrevo.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Retrevo
 
-Bookmark/Search this post with: 
+     |   
+
+
+  
+
 
 Retrevo takes the privacy and security of your Personal Information very seriously. Retrevo does not share, disclose or sell your personally identifiable information collected online with other companies or organizations. Keeping your trust is vital to the success of our business. We want you to know that we apply our long standing commitment to safeguarding the privacy of all of our users, their Personal Information and activities on Retrevos web site. If you want to read the long version, you can continue to the long version of our Privacy Policy below. 
 
@@ -68,4 +72,7 @@ Sunnyvale, CA 94085
 
 email: privacy at retrevo dot com
 
-Bookmark/Search this post with: 
+  
+ 
+
+| 
