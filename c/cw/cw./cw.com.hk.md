@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621105102id_/http%3A//www.cw.com.hk/static.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225002238id_/http%3A//www.cw.com.hk/static.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
 # Computerworld Hong Kong
 
