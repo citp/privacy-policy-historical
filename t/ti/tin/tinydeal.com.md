@@ -1,25 +1,16 @@
-> *The following text is extracted and transformed from the tinydeal.com privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414083754id_/http%3A//www.tinydeal.com/catalog/privacy.php%3FosCsid%3D739b6c719aa8394d06a412a140e9043f) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinydeal.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224091102id_/http%3A//www.tinydeal.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# TinyDeal Direct Online Store, MP4/MP3 Player, Memory Cards, Accessories
+# Privacy Notice : TinyDeal Direct Online Store, MP4/MP3 Player, Mobile Phone, Memory Card, Accessories
 
-  
 TinyDeal Direct Online Store knows that you care how information about you is used and shared, and we appreciate your trust and wnat you to feel confident in our services and security as it relates to your personal information. This notice describes our privacy policy. By visiting TinyDeal Direct Online Store, you are accepting the practices described in this Privacy Notice. 
 
 **What Personal Information About Customers Does TinyDeal Direct Online Store Gather?**
 
 The information we learn from customers helps us personalize and continually improve your shopping experience at TinyDeal Direct Online Store. Here are the types of information we gather. 
 
-  
-
-
-  
-
-  * **Information You Give Us:** We receive and store any information you enter on our web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, fulfilling orders, customizing future shopping for you, improving our store features, and communication with you.   
-
-  * **Automatic Information:** We receive and store certain types of information whenever you interact with our website. For example, like many web sites, we sometimes use "cookies," and we obtain certain types of information when your web browser accesses our website.   
-
+  * **Information You Give Us:** We receive and store any information you enter on our web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, fulfilling orders, customizing future shopping for you, improving our store features, and communication with you. 
+  * **Automatic Information:** We receive and store certain types of information whenever you interact with our website. For example, like many web sites, we sometimes use "cookies," and we obtain certain types of information when your web browser accesses our website. 
   * **E-mail Communications:** To help us make e-mails more productive to improve service and your shopping experience, we sometimes send you newsletters of our services and products, notifications of changes to our policies, and order confirmations. If you do not want to receive e-mail from us, other than order notifications and receipts, please adjust your "Subscription" preferences by logging into your account. 
-  
 
 
 
@@ -56,6 +47,3 @@ For security purposes TinyDeal Direct Online Store sometimes collects and analyz
 **Questions**
 
 Questions regarding our Conditions of Usage, Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link in the side menu. Or you can email us at: **[sales@tinydeal.com](mailto:%20sales@tinydeal.com)**
-
-  
-
