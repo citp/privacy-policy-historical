@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the perezhilton.com privacy policy that was archived on 2008-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080311052107id_/http%3A//perezhilton.com/%3Fpage_id%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perezhilton.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225032018id_/http%3A//perezhilton.com/%3Fpage_id%3D37) for the most accurate reproduction.*
 
 # Celebrity gossip juicy celebrity rumors Hollywood gossip blog from Perez Hilton » PRIVACY NOTICE
 
-**Last updated: July 31, 2007.**
+**Last updated: May 19, 2008.**
 
 PerezHilton.com respects your privacy and is committed to protecting it at all times. This Internet Privacy Notice explains how we collect, use, and safeguard information on this Website. Please read this Privacy Notice carefully. **By visiting PerezHilton.com, you are accepting the practices described in this Privacy Notice and agree that any dispute over privacy is governed by this Privacy Notice and Conditions of Use.**
 
@@ -22,7 +22,7 @@ The information we learn from customers helps us personalize and continually imp
 
   * **Information You Give Us:** We receive and store any personal and financial information you enter on our Website or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future options for you, improving our Website, and communicating with you.
 
-  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Websites, we use "cookies," and we obtain certain types of information when your Web browser accesses PerezHilton.com. A number of companies offer utilities designed to help you visit Websites anonymously. Although we will not be able to provide you with a personalized experience at PerezHilton.com if we cannot recognize you, we want you to be aware that these tools exist.
+  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Websites, we use "cookies," and we obtain certain types of information when your Web browser accesses PerezHilton.com, including your IP address. A number of companies offer utilities designed to help you visit Websites anonymously. Although we will not be able to provide you with a personalized experience at PerezHilton.com if we cannot recognize you, we want you to be aware that these tools exist.
 
   * **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from PerezHilton.com if your computer supports such capabilities. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences accordingly.
 
