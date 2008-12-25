@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ping.fm privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626094408id_/http%3A//ping.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ping.fm privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225012123id_/http%3A//ping.fm/privacy) for the most accurate reproduction.*
 
 # Ping.fm / Privacy Policy
 
@@ -71,4 +71,5 @@ We want you to enjoy your use of Ping.fm's service. If you have any questions, o
 
 Last updated: 02.28.2008 
 
-Copyright © 2008 Ping.fm, Inc. and powered by [PMUpload](http://www.pmupload.com/) \- Trademarks and tradenames used herein are the property of their respective holders.
+Copyright © 2008 Ping.fm, Inc. Powered by [PMUpload](http://www.pmupload.com/) \- Media hosting provided by [Evolution Studios](http://ping.fm/evolve/)  
+Trademarks and tradenames used herein are the property of their respective holders.
