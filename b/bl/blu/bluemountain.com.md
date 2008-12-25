@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluemountain.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622211004id_/http%3A//www.bluemountain.com/new_warrants.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluemountain.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225022218id_/http%3A//www.bluemountain.com/new_warrants.pd) for the most accurate reproduction.*
 
 # Blue Mountain- Privacy Policy
 
@@ -29,6 +29,9 @@ If you want to prevent a third-party advertiser from setting and/or reading cook
 
 **_Advertising Research Cookies_**  
 From time-to-time, outside third party research companies may set cookies on your browser regarding exposure to certain ad placements. These cookies may be used later for research purposes if you later opt-in to take a survey. If you choose to take the survey, these companies may examine your browser to see if a one of their cookies has been set. If the company detects the cookie in your browser, it will gather only 2 pieces of information from it: where you have seen a particular ad and; how many times you have seen it. If you do not want these kinds of cookies to be set to your browser, you can opt-out by [clicking here](http://ch.questionmarket.com/site/subnav/optout.html).
+
+**_Advertising Targeting Cookies_**  
+From time to time, we may use cookies to track your exposure to certain areas of the site (such as Pets, Birthday, etc.). These cookies may be used later to target advertising on our site to your interests. No personally identifiable information is collected through these cookies, and the data collected with these cookies is not shared with third parties. If you do not want these kinds of cookies set to your browser, you can opt-out by clicking here. 
 
 **_IP Addresses_**  
 We collect and analyze traffic on our web site by keeping track of the IP addresses of our visitors. IP addresses are unique numeric identifiers that are assigned to each computer browser accessing the Internet. An IP address, by itself, cannot identify you personally. However, when combined with other information provided by your Internet Service Provider (ISP), your IP address can be used to identify the computer originating a message.
