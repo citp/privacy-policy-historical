@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipchef.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506104303id_/http%3A//www.clipchef.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipchef.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225120837id_/http%3A//www.clipchef.com/privacy.php) for the most accurate reproduction.*
 
 # ClipChef.com You are the Chef Share Food Video Recipes to get your Recipe Featured
 
@@ -35,4 +35,4 @@ We may use third-party advertising companies to serve ads when you visit our Web
 
 Disclaimer
 
-The content (videos, pics ect.) of this site is understood to be in the public domain unless it is explicitly stated to be copyrighted by ClipChef.com. The non-copyrighted content is gathered from all over the world, most of which has been passed along by our visitors. ClipChef.com is not responsible for copyright infringements. If you believe you hold the copyright to any material on this site, please contact us and we will remove it immediately. webmaster@clipchef.com
+The content (videos, pics ect.) of this site is understood to be in the public domain unless it is explicitly stated to be copyrighted by ClipChef.com. The non-copyrighted content is gathered from all over the world, most of which has been passed along by our visitors. ClipChef.com is not responsible for copyright infringements. If you believe you hold the copyright to any material on this site, please contact us and we will remove it immediately. webmail@clipchef.com
