@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boozt.com privacy policy that was archived on 2008-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080311015115id_/http%3A//www.boozt.com/Privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boozt.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225134851id_/http%3A//www.boozt.com/Privacy_statement.htm) for the most accurate reproduction.*
 
 # Welcome to Boozt
 
