@@ -1,10 +1,71 @@
-> *The following text is extracted and transformed from the fha.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629021738id_/http%3A//www.fha.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fha.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225212302id_/http%3A//www.fha.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # FHA.com Privacy Policy for FHA Loans
 
 |  |    
   
-[FHA Facts](https://web.archive.org/web/20080629021738id_/http%3A//www.fha.com/important_facts.cfm) | [FHA Loan Types](https://web.archive.org/web/20080629021738id_/http%3A//www.fha.com/fha_loan_types.cfm) | [Down Payment Grants](https://web.archive.org/web/20080629021738id_/http%3A//www.fha.com/fha_programs.cfm) COLLECTION AND USE INFORMATION  
+|  | 
+
+**FHA Loan Rates**  
+December 25, 2008  
+  
+30 Yr. Fixed  
+\---------------  
+No Points  
+Low Interest %  
+Best% [APR](https://web.archive.org/web/20081225212302id_/http%3A//www.fha.com/apr.cfm)  
+  
+15 Yr. Fixed  
+\---------------  
+No Points  
+Low Interest %  
+Best% [APR](https://web.archive.org/web/20081225212302id_/http%3A//www.fha.com/apr.cfm)
+
+\-- -- -- -- -- -- -- --
+
+Remember, the FHA does not make home loans. They insure the FHA loans that we can assist you in getting.
+
+FHA.com is a privately owned website providing information about FHA guaranteed home loans, and is not associated with the federal government or HUD / FHA.
+
+\-- -- -- -- -- -- -- --
+
+FHA LOAN TYPES
+
+[FHA Refinance](https://web.archive.org/web/20081225212302id_/http%3A//www.fha.com/refinance.cfm)  
+\- - - - - - - -  
+[FHA Home Loan](https://web.archive.org/web/20081225212302id_/http%3A//www.fha.com/home_purchase.cfm)  
+\- - - - - - - -  
+[FHA Secure](https://web.archive.org/web/20081225212302id_/http%3A//www.fha.com/fha_secure.cfm)  
+\- - - - - - - -  
+[FHA Reverse](https://web.archive.org/web/20081225212302id_/http%3A//www.fha.com/fha_reverse.cfm)  
+\- - - - - - - -  
+[FHA Loan](https://web.archive.org/web/20081225212302id_/http%3A//www.fha.com/fixed_rate.cfm) _(fixed rate)_  
+\- - - - - - - -  
+[Energy Efficient Loan](https://web.archive.org/web/20081225212302id_/http%3A//www.fha.com/energy_efficient.cfm)  
+\- - - - - - - -  
+[Growing Equity Mortgage](https://web.archive.org/web/20081225212302id_/http%3A//www.fha.com/growing_equity.cfm)  
+\- - - - - - - -  
+[FHA Condo Loans](https://web.archive.org/web/20081225212302id_/http%3A//www.fha.com/condominium.cfm)  
+\- - - - - - - -  
+[Graduated Payment Mortgage](https://web.archive.org/web/20081225212302id_/http%3A//www.fha.com/graduated_payment.cfm)
+
+\-- -- -- -- -- -- -- --
+
+SPECIAL FEATURE:  
+Military Finance
+
+[VA Loans](http://www.valoans.com/)  
+Use your VA loan to buy a home with no down payment.  
+\- - - - - - - -  
+[Veteran Insurance](http://www.militaryhub.com/cat/life-insurance)  
+Life insurance that serves your military family needs.  
+\- - - - - - - -  
+[Military Insurance](http://www.militaryhub.com/cat/home-insurance)  
+Make educated decisions for all of your insurance needs.  
+\-- -- -- -- -- -- -- --  
+  
+---|---  
+[FHA Facts](https://web.archive.org/web/20081225212302id_/http%3A//www.fha.com/important_facts.cfm) | [FHA Loan Types](https://web.archive.org/web/20081225212302id_/http%3A//www.fha.com/fha_loan_types.cfm) | [Down Payment Grants](https://web.archive.org/web/20081225212302id_/http%3A//www.fha.com/fha_programs.cfm) COLLECTION AND USE INFORMATION  
 At FHA.com, we recognize that your privacy is important to you and something that must be maintained. The following privacy statement explains the kind of information that is collected during the loan process, how we use the information and how we share it with others.
 
 FHA.com has partnered with several trusted third party companies to offer services including but not limited to: obtaining a competitive residential home mortgage and / or cash back rebates on relocation services where applicable. In order for us to assist you with a particular form or service that is provided or offered on our Web site we request that you voluntarily supply us with personal information, including, but not limited to, your email address, social security number and mailing address for purposes of fulfilling requests inclusive of, but not limited to, assistance with mortgage and real estate services and requests for home loan related assistance in general.
@@ -27,9 +88,7 @@ Should you have any questions concerning Privacy Policy issues, e-mail us at
 
 
   
-[Privacy Policy](https://web.archive.org/web/20080629021738id_/http%3A//www.fha.com/privacy_policy.cfm) | Terms of Use Policy | [About Us](https://web.archive.org/web/20080629021738id_/http%3A//www.fha.com/about_us.cfm) | [FHA Site Map](https://web.archive.org/web/20080629021738id_/http%3A//www.fha.com/sitemap.cfm) | [Contact Information](https://web.archive.org/web/20080629021738id_/http%3A//www.fha.com/contact_information.cfm)
+[Privacy Policy](https://web.archive.org/web/20081225212302id_/http%3A//www.fha.com/privacy_policy.cfm) | Terms of Use Policy | [About Us](https://web.archive.org/web/20081225212302id_/http%3A//www.fha.com/about_us.cfm) | [FHA Site Map](https://web.archive.org/web/20081225212302id_/http%3A//www.fha.com/sitemap.cfm) | [Contact Information](https://web.archive.org/web/20081225212302id_/http%3A//www.fha.com/contact_information.cfm) | [FHA Lenders](https://web.archive.org/web/20081225212302id_/http%3A//www.fha.com/lenders.cfm)
 
 Copyright © 1997- 2008 · FHA.com · All Rights Reserved  
 [Web Design](http://www.archimageonline.com/): Archimage · Houston, Texas
-
-| 
