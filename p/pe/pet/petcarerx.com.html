@@ -1,12 +1,11 @@
-<!--The following is the downloaded HTML source of the petcarerx.com privacy policy that was archived on 2008-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080531161924id_/http%3A//www.petcarerx.com/pcrx/CustomerService/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the petcarerx.com privacy policy that was archived on 2008-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081225130234id_/http%3A//www.petcarerx.com/pcrx/CustomerService/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>
-	PetCarRX :: Customer Service
+	PetCareRx Customer Service Privacy Policy section
 </title><link href="http://petcarerx.vo.llnwd.net/o21/css/customerService.css" type="text/css" rel="stylesheet"><link href="http://petcarerx.vo.llnwd.net/o21/css/dept.css" type="text/css" rel="stylesheet"><link href="http://petcarerx.vo.llnwd.net/o21/css/browse.css" type="text/css" rel="stylesheet">
 		<!-- needed for all browse pages -->	
-	  <link rel="stylesheet" type="text/css" href="http://petcarerx.vo.llnwd.net/o21/css/pcrx.css">        
-	
+	  <link rel="stylesheet" type="text/css" href="http://petcarerx.vo.llnwd.net/o21/css/pcrx.css"><meta id="Description" content="Need Help? Come to our Privacy Policy section to find your answers. Shop PetCareRx and save.">    
 		<script src="http://petcarerx.vo.llnwd.net/o21/js/mootools.js" type="text/javascript"></script>
 		<script src="http://petcarerx.vo.llnwd.net/o21/js/mootools-global.js" type="text/javascript"></script>
 		<script src="http://petcarerx.vo.llnwd.net/o21/js/mootools-browse.js" type="text/javascript"></script>
@@ -15,16 +14,17 @@
 		<script src="http://petcarerx.vo.llnwd.net/o21/js/NavMenu.js" type="text/javascript"></script>		
         <script type="text/javascript" src="http://petcarerx.vo.llnwd.net/o21/js/mootools-healthguide.js"></script>
         
-<script src="https://api.aggregateknowledge.com/2007/01/15/js/438998.js"></script></head>
+</head>
 <body>
       <form name="form1" method="post" action="Privacy.aspx" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzMxNDg2MDM0ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUXUGFnZUhlYWRlciRTZWFyY2hCdXR0b24=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM4OTcyMjU1NGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFF1BhZ2VIZWFkZXIkU2VhcmNoQnV0dG9u">
 
                <div id="container">
          <!-- PageHeader Starts -->
                 
 
 <script type="text/javascript">
+
 function initcart()
 {
     var url = "/pcrx/ajax/minicart.aspx?user_id=" + Cookie.get("user_id");
@@ -45,6 +45,7 @@ function getDiscountText()
 }
 function stripIllegals(elementname)
 {
+    if($(elementname).value=='Search') return false;
         try{
             $(elementname).value = $(elementname).value.replace('<','');
             $(elementname).value = $(elementname).value.replace('>','');
@@ -52,15 +53,30 @@ function stripIllegals(elementname)
             catch(r){}
             return true;
 }
+function signUpHeader()
+{
+    var url = "/pcrx/ajax/signUpPage3.aspx?email=" + document.getElementById('EmailSignupForm2_emailaddress').value;
+     new Ajax(url, {method: 'get', update: $('coupon'), onSuccess:function()
+     {                                	
+        if(typeof(s) == 'object')
+        {
+            s.pageName="Coupon Sign Up, Header";
+            s.events="event11";
+            void(s.t());
+        }
+     }}).request();
+    document.refresh; 
+}
+
 </script>
 
 <!-- start nav -->
 <div id="nav">
 
-<span style="visibility:hidden;display:none;" id="machineName">WEBCL2</span>
+<span style="visibility:hidden;display:none;" id="machineName">WEB4</span>
     <!-- start minicart -->
                     
-    <div id="miniCart">
+    <div id="miniCart" style="background:('/pcrx/img/minicart/minicart.collapsed.bg.jpg') !important;">
         <div id="miniCartContain">
             <div>
                 <div id="cartContainer">        
@@ -82,17 +98,17 @@ function stripIllegals(elementname)
  
     
     <!-- start utility nav -->
-    <div id="utilityNav" class="floatR">
-        <a href="/pcrx/CustomerService/Default.aspx" rel="nofollow">Customer Service</a> <a href="/pcrx/HealthGuide/Default.aspx">
-            Pet Health Guide</a> <a href="/pcrx/components/CheckStatus.aspx" rel="nofollow" class="show_thanks">Order Status</a>
-        <a href="/pcrx/ProfilePages/myaccount.aspx" rel="nofollow">My Account</a>
-        <a id="PageHeader_signin" href="javascript:__doPostBack('PageHeader$signin','')">Sign In or Register</a>
+    <div id="utilityNav" class="floatR" style="padding-right:40px;"><a href="javascript:;" class="show_coupon" style="background: transparent url(/pcrx/img/icons/icon.email.gif) no-repeat scroll 0% 50%; padding-left: 20px; margin-top: 0pt;">Coupon List</a>
+        <a href="/pcrx/CustomerService/Default.aspx" rel="nofollow" style="margin-left:12px;">Customer Service</a> <a href="/pcrx/HealthGuide/Default.aspx" style="margin-left:12px;">
+            Pet Health Guide</a> <a href="/pcrx/components/CheckStatus.aspx" rel="nofollow" class="show_thanks" style="margin-left:12px;">Order Status</a>
+        <a href="/pcrx/ProfilePages/myaccount.aspx" rel="nofollow" style="margin-left:12px;">My Account</a>
+        <a id="PageHeader_signin" href="javascript:__doPostBack('PageHeader$signin','')" style="margin-left:12px;">Sign In or Register</a>
     </div>
     <!-- end utility nav -->
     
   
     <!-- start search form -->
-    <div id="search" style="z-index:1100;">
+    <div id="search" style="z-index:1100;margin-left:600px;">
         <div>
         <script type="text/javascript">
         var len = 0; //search only when string length increases.
@@ -132,11 +148,15 @@ function stripIllegals(elementname)
         </div>
     </div>  
     <!-- end search form -->
+    
+  
+    
     <div id="phoneNumber">
         1-800-844-1427</div>
     <!-- phone number -->
     <div id="logo">
-        <a href="/pcrx/default.aspx">Home</a></div>
+    <div class="santaHat" style="background:transparent url('/pcrx/img/logo/logo.santa_hat.gif') no-repeat scroll 0 0;height:20px;position:absolute;text-indent:-1000em;width:25px;margin:15px 0 0 67px;"><!-- --></div>
+        <a href="/pcrx/Default.aspx">Home</a></div>
     <!-- logo -->
   
     
@@ -144,19 +164,31 @@ function stripIllegals(elementname)
 <!-- start belly top (free shipping & details) -->
 <div id="db">
     <div id="dbtop">
+    
+      
         <div class="h1 floatL" id="DiscountTextDiv">
+        
             
+           
         </div>
         <!-- start details -->
-        <div id="discountDetails" class="floatL">
+        <div id="discountDetails" class="floatL" style="">
             <a href="#" class="show_offer">details</a></div>
         <div id="PageHeader_CartMsg" class="h2" style="float: right; color: #E00303; font-weight: bold;">
         </div>
+           <div class="floatR">
+           <a href="/pcrx/StockingCreator.aspx" style="color:DarkGreen;font-family:Trebuchet MS, Arial, Helvetica; font-size:1.3em;text-decoration:none;font-weight:bold;"> <img src="/pcrx/img/logo/logo.mini_stocking.gif" style="vertical-align:text-top;">
+          Build a <span style="color:#CC0000;">Paw Stocking!</span>
+           </a>
+         
+           </div>
+
         <!-- end details -->
     </div>
 </div>
 <!-- end belly top (free shipping & details) -->
 <!-- end nav -->
+
 
        		<!-- PageHeader Ends -->
        		<div id="belly" class="clearfix">
@@ -183,6 +215,7 @@ function stripIllegals(elementname)
 			<li><a href="/pcrx/CustomerService/FAQ.aspx">FAQ</a></li>
 
 			<li><a href="/pcrx/CustomerService/testimonials.aspx">Testimonials</a></li>
+				<li><a href="/pcrx/CustomerService/press.aspx">Press Releases</a></li>
 		</ul>
 		
 		<div class="tempExpand"><!-- --></div> 
@@ -256,7 +289,15 @@ function stripIllegals(elementname)
                         function signupemail()
                         {
                             var url = "/pcrx/ajax/signUpPage.aspx?email=" + document.getElementById('EmailSignupForm_emailaddress').value;
-                             new Ajax(url, {method: 'get', update: $('signUp')}).request();
+                             var coup1 = new Ajax(url, {method: 'get', update: $('signUp'),onSuccess:function()                         {                                	
+	                            if(typeof(s) == 'object')
+	                            {
+	                                s.pageName="Coupon Sign Up, Footer";
+                                    s.events="event10";                               	                               
+	                                void(s.t());
+	                            }
+                             }});
+                             coup1.request();
                             document.refresh; 
                         }
                         </script>
@@ -286,32 +327,37 @@ function stripIllegals(elementname)
           <div class="contain clearfix">
 
             <!-- start product logos -->
-            <div class="floatR products">
-              <a href="/pcrx/ProductPages/Dogs/SpecialProducts/Frontline.aspx">
-                <img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.frontlinePlus.gif" alt="Frontline Plus">
-              </a>
-              <a href="/pcrx/ProductPages/Dogs/SpecialProducts/Heartgard.aspx">
-                <img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.heartgard.gif" alt="Heartgard">
-              </a>
-              <a href="/pcrx/ProductPages/Dogs/SpecialProducts/Advantage.aspx">
-                <img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.advantage.gif" alt="Advantage">
-              </a>
-              <a href="/pcrx/ProductPages/Dogs/SpecialProducts/Interceptor.aspx">
-                <img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.interceptor.gif" alt="Interceptor">
-              </a>
+            <div id="TSDogs" class="floatR products">
 
-              <a href="/pcrx/ProductPages/Dogs/SpecialProducts/K9Advantix.aspx">
-                <img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.k9Advantix.gif" alt="K9 Advantix">
+                <a href="/pcrx/ProductPages/Dogs/SpecialProducts/Frontline.aspx" style="width:73px;height:47px; background-position: 0 -1600px !important;z-index:10000;">
+                  <!--<img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.frontlinePlus.gif" alt="Frontline Plus" />-->
+                </a>
+
+                <a href="/pcrx/ProductPages/Dogs/SpecialProducts/Heartgard.aspx" style="width:73px;height:47px; background-position: 0 -290px !important;z-index:10000;margin-top:48px;">
+                  <!--<img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.heartgard.gif" alt="Heartgard" />-->
+                </a>
+
+                <a href="/pcrx/ProductPages/Dogs/SpecialProducts/Advantage.aspx" style="width:73px;height:47px; background-position: -316px -354px !important;z-index:10000;margin-top:96px;">
+                  <!--<img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.advantage.gif" alt="Advantage" />-->
+                </a>
+
+                <a href="/pcrx/ProductPages/Dogs/SpecialProducts/Interceptor.aspx" style="width:73px;height:47px; background-position: 0 -494px !important;z-index:10000;margin-top:144px;">
+                  <!--<img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.interceptor.gif" alt="Interceptor" />-->
+                </a>
+
+                <a href="/pcrx/ProductPages/Dogs/SpecialProducts/K9Advantix.aspx" style="width:73px;height:47px; background-position: -316px -436px !important;z-index:10000;margin-top:192px;">
+                  <!--<img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.k9Advantix.gif" alt="K9 Advantix" />-->
+                </a>
+
+              <a href="/pcrx/ProductPages/Dogs/SpecialProducts/Program.aspx" style="width:73px;height:47px; background-position: 0 -1677px !important;z-index:10000;margin-top:240px;">
+                <!--<img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.program.gif" alt="Program" />-->
               </a>
-              <a href="/pcrx/ProductPages/Dogs/SpecialProducts/Program.aspx">
-                <img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.program.gif" alt="Program">
-              </a>
-              <a href="/pcrx/ProductPages/Dogs/SpecialProducts/Revolution.aspx">
-                <img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.revolution.gif" alt="Revolution">
-              </a>
-              <a href="/pcrx/ProductPages/Product.aspx?pid=10773&amp;k=Rimadyl">
-                <img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.rimadyl.gif" alt="Rimadyl" class="last">
-              </a>
+              <a href="/pcrx/ProductPages/Dogs/SpecialProducts/Revolution.aspx" style="width:73px;height:47px; background-position: 0 -1759px !important;z-index:10000;margin-top:288px;">
+                  <!--<img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.revolution.gif" alt="Revolution" />-->
+                </a>
+                <a href="/pcrx/ProductPages/Product.aspx?pid=10773&amp;k=Rimadyl" style="width:73px;height:47px; background-position: 0 -753px !important;z-index:10000;margin-top:336px; border-style:none;">
+                  <!--<img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.rimadyl.gif" alt="Rimadyl" class="last" />-->
+                </a>
             </div>
             <!-- end product logos -->
 
@@ -421,31 +467,31 @@ function stripIllegals(elementname)
           <div class="contain clearfix">
 
             <!-- start product logos -->
-            <div class="floatR products">
-              <a href="/pcrx/ProductPages/Product.aspx?pid=13010&amp;k=Frontline%20Plus">
-                <img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.frontlinePlus.gif" alt="Frontline Plus">
+            <div id="TSCats" class="floatR products">
+              <a href="/pcrx/ProductPages/Product.aspx?pid=13010&amp;k=Frontline%20Plus" style="width:73px;height:47px; background-position: 0 -1600px !important;z-index:10000;">
+                <!--<img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.frontlinePlus.gif" alt="Frontline Plus" />-->
               </a>
-              <a href="/pcrx/ProductPages/Product.aspx?pid=10771&amp;k=Frontline%20Topspot">
-                <img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.frontlineTopSpot.gif" alt="Frontline Top Spot">
+              <a href="/pcrx/ProductPages/Product.aspx?pid=10771&amp;k=Frontline%20Topspot" style="width:73px;height:47px; background-position: 0 -669px !important;z-index:10000;margin-top:48px;">
+                <!--<img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.frontlineTopSpot.gif" alt="Frontline Top Spot" />-->
               </a>
-              <a href="/pcrx/ProductPages/Product.aspx?pid=10793&amp;k=Heartgard">
-                <img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.heartgard.gif" alt="Heartgard">
+              <a href="/pcrx/ProductPages/Product.aspx?pid=10793&amp;k=Heartgard" style="width:73px;height:47px; background-position: 0 -290px !important;z-index:10000;margin-top:96px;">
+                <!--<img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.heartgard.gif" alt="Heartgard" />-->
               </a>
-              <a href="/pcrx/ProductPages/Product.aspx?pid=10770&amp;k=Advantage">
-                <img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.advantage.gif" alt="Advantage">
+              <a href="/pcrx/ProductPages/Product.aspx?pid=10770&amp;k=Advantage" style="width:73px;height:47px; background-position: -316px -354px !important;z-index:10000;margin-top:144px;">
+                <!--<img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.advantage.gif" alt="Advantage" />-->
               </a>
 
-              <a href="/pcrx/ProductPages/Product.aspx?pid=13006&amp;k=Advantage%20Multi">
-                <img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.advantageMulti.gif" alt="Advantage Multi">
+              <a href="/pcrx/ProductPages/Product.aspx?pid=13006&amp;k=Advantage%20Multi" style="width:73px;height:47px; background-position: 0 -1414px !important;z-index:10000;margin-top:192px;">
+                <!--<img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.advantageMulti.gif" alt="Advantage Multi" />-->
+            </a>
+            <a href="/pcrx/ProductPages/Product.aspx?pid=10967&amp;k=Laxatone" style="width:73px;height:47px; background-position: 0 -1905px !important;z-index:10000;margin-top:240px;">
+              <!--<img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.laxatone.gif" alt="Laxatone" />-->
               </a>
-              <a href="/pcrx/ProductPages/Product.aspx?pid=10967&amp;k=Laxatone">
-                <img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.laxatone.gif" alt="Laxatone">
+              <a href="/pcrx/ProductPages/Product.aspx?pid=10774&amp;k=Revolution" style="width:73px;height:47px; background-position: 0 -1759px !important;z-index:10000;margin-top:288px;">
+                <!--<img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.revolution.gif" alt="Revolution" />-->
               </a>
-              <a href="/pcrx/ProductPages/Product.aspx?pid=10774&amp;k=Revolution">
-                <img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.revolution.gif" alt="Revolution">
-              </a>
-              <a href="/pcrx/ProductPages/Product.aspx?pid=11757&amp;k=Shed%20No%20More">
-                <img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.shedNoMore.gif" alt="Shed No More" class="last">
+              <a href="/pcrx/ProductPages/Product.aspx?pid=11757&amp;k=Shed%20No%20More" style="width:73px;height:47px; background-position: 0 -215px !important;z-index:10000;margin-top:336px;border-style:none;">
+                <!--<img src="http://petcarerx.vo.llnwd.net/o21/img/icons/icon.shedNoMore.gif" alt="Shed No More"  class="last" />-->
               </a>
             </div>
             <!-- end product logos -->
@@ -553,7 +599,7 @@ function stripIllegals(elementname)
               <div class="frameGray186Top">
                 <!-- -->
               </div>
-              <div class="frameGray186Contain">
+              <div class="frameGray186Contain" style="height:285px;">
                 <a id="birds" href="/pcrx/ProductPages/OtherPets/Birds.aspx">Bird</a>
                 <a id="fish" href="/pcrx/ProductPages/OtherPets/Fish.aspx">Fish</a>
                 <a id="chinchilla" href="/pcrx/ProductPages/OtherPets/Chinchilla.aspx">Chinchilla</a>
@@ -577,7 +623,7 @@ function stripIllegals(elementname)
 
   <li>
     <div class="navTrigger" id="show_submenuTopSellers">
-      <a class="topSellers navButton" id="btn_submenuTopSellers">Top Sellers</a>
+      <a class="topSellers navButton" id="btn_submenuTopSellers" href="/pcrx/Search.aspx?q=Top%20Sellers">Top Sellers</a>
       <!-- start top sellers submenu -->
       <div class="submenu" id="submenuTopSellers">
         <div class="pngfix">
@@ -783,8 +829,8 @@ function stripIllegals(elementname)
 				<ul class="darkGrayBullets">
 					<li><a href="/pcrx/CustomerService/SiteMap.aspx">Site Map</a></li>					
 					<li><a href="/pcrx/CustomerService/Privacy.aspx" rel="nofollow">Privacy &amp; Security</a></li>
-					<li><a href="/pcrx/affiliates.aspx">Affiliates</a></li>
-					<li><a href="http://www.petcarerx.com">Pet Supplies</a></li>
+					<li id="PageFooter_afflink"><a href="/pcrx/affiliates.aspx">Affiliates</a></li>
+			        <li><a href="/pcrx/vendor/Default.aspx">New Vendors</a></li>
 
 				</ul>
 				<ul class="darkGrayBullets">
@@ -805,8 +851,8 @@ function stripIllegals(elementname)
 
 				<div class="floatL testimonials" style="margin-top:10px;">
 					<div class="h1">Testimonials</div>					
-					<p class="quote" style="text-transform:lowercase;font-size:1.1em;"><img src="/pcrx/img/icons/startQuote.gif" alt="" class="startQuote">PetCareRX is so convienient and the product is shipped so fast. I will continue to purchase my pet´s medication from them. One other advantage is saving money!!! Thanks PetCareRx for your o...<img src="/pcrx/img/icons/endQuote.gif" alt="" class="endQuote"></p>
-					<p class="floatL customer">Alex, Utah</p>
+					<p class="quote" style="text-transform:lowercase;font-size:1.1em;"><img src="/pcrx/img/icons/startQuote.gif" alt="" class="startQuote">Fabulous service!  Fabulous website...so easy!<img src="/pcrx/img/icons/endQuote.gif" alt="" class="endQuote"></p>
+					<p class="floatL customer">Christine C, Naperville, IL</p>
 					<p class="floatR viewAll"><a href="/pcrx/CustomerService/testimonials.aspx" rel="nofollow">View more testimonials</a></p>
 				</div>
 				<!-- end testimonials -->
@@ -844,13 +890,19 @@ function stripIllegals(elementname)
 				</div>
 				
 				<!-- start paypal/bill me later/credit card icons -->
-				<div id="paymentMethods" class="floatL clearfix">
+				<div id="paymentMethods" class="floatL clearfix" style="margin-right:100px;">
 					<!--<a class="payPal floatL"></a>-->
 					<!--<a class="googleCheckout floatL"></a>-->
 					<!--<a class="billLater floatL"></a>-->
-					<a class="creditCards floatL"><!-- --></a>
+					<img src="/pcrx/img/icons/icon.creditCards.gif">
 				</div>
-				<!-- end paypal/bill me later/credit card icons -->				
+				<!-- end paypal/bill me later/credit card icons -->		
+				
+				<div id="NappBadge" class="floatL clearfix" style="padding-left:0px;">
+				
+				<!--style="background:url(http://petcarerx.vo.llnwd.net/o21/img/master1.gif) no-repeat top left!important;width:127px;height:107px; background-position: 0 -30px !important;z-index:10000;position:absolute;margin-left:180px;">-->
+				<a href="http://www.petpharmacy.org/pharmacy_detail.aspx?pid=100" target="_blank"> <img src="/pcrx/img/nappBadge2.jpg"></a>
+				</div>		
 				
 			</div>
 
@@ -921,40 +973,34 @@ s.eVar5=""
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <script language="JavaScript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-') 
 //--></script>
 <a href="http://www.omniture.com" title="Web Analytics">
+<!--
 <script type="text/javascript">
   var omniJsHost = (("https:" == document.location.protocol) ? "https://" : "http://"); 
-  document.write(unescape("%3Cimg src='" + omniJsHost + "102.112.2O7.net/b/ss/ai-petcarerx/1/H.9--NS/0' height=\"1\" width=\"1\" border=\"0\" alt=\"\" %3E%3C/img%3E")); 
-  </script><img src="https://102.112.2O7.net/b/ss/ai-petcarerx/1/H.9--NS/0" height="1" width="1" border="0" alt="">
-
-
+  document.write(unescape("%3Cimg id='omnipix' src='" + omniJsHost + "102.112.2O7.net/b/ss/ai-petcarerx/1/H.9--NS/0' height=\"1\" width=\"1\" border=\"0\" alt=\"\" %3E%3C/img%3E")); 
+  </script>
+  -->
 </a>
 <!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.9. -->
+<!-- BEGIN Invitation Positioning  -->
+<script language="javascript" type="text/javascript">
+var lpPosY = 10;
+var lpPosX = 10;
+var lpCustomImageURL = 'http://www.petcarerx.com/pcrx/img/';
+
+if (typeof(tagVars) == "undefined") var tagVars = "";
+
+if(!location.href.contains('/pcrx/Default.aspx'))
+document.write(unescape("%3Cscript src='"+document.location.protocol+"//www.petcarerx.com/pcrx/js/x.js?cmd=file&file=chatScript3&site=LPrwdtech&&imageUrl="+document.location.protocol+"//www.petcarerx.com/pcrx/img/' type='text/javascript'%3E%3C/script%3E")); 
 
 
-<a id="akAPI"></a>
-<script type="text/javascript">
-var akApiKey = 'RecEngine-AB015900-8F24-67AF-7D10-E18FF96F9D56'; 
-var akRegion = '';
-var akTarget = [];
-
-var akItemQuantity = [];
-var akItemPrice = [];
-var akIntent = '';
-var akOrderIdToken = '';
-var akUserIdentityToken = '';
-
-var akScript = document.createElement('script');
-if(document.location.protocol == "https:")
-akScript.setAttribute('src', 'https://api.aggregateknowledge.com/2007/01/15/js/' + Math.floor((new Date().valueOf()) / 3600000) + '.js');
-else
-akScript.setAttribute('src', 'http://api.aggregateknowledge.com/2007/01/15/js/' + Math.floor((new Date().valueOf()) / 3600000) + '.js');
-
-document.getElementsByTagName('head')[0].appendChild(akScript);
 </script>
+
+
+
        		<!-- PageHeader Ends -->
     
 
