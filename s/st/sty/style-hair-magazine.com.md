@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the style-hair-magazine.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513034725id_/http%3A//www.style-hair-magazine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the style-hair-magazine.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225085430id_/http%3A//www.style-hair-magazine.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,3 +19,12 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 ### Agreeing to Terms
 
 If you do not agree to Style-Hair-Magazine.com's Privacy Policy as posted here on this website, please do not use this site or any services offered by this site. Your use of this site indicates acceptance of this privacy policy. 
+
+  
+  
+[ ](http://www2.glam.com/app/site/affiliate/viewNetworkHome.act?affiliateId=110009604)
+
+## Favorites!
+
+  
+[](http://www.shareasale.com/r.cfm?b=101554&u=117926&m=14587&urllink=&afftrack=)
