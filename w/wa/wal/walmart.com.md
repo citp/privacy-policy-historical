@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the walmart.com privacy policy that was archived on 2008-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080425212215id_/http%3A//www.walmart.com/catalog/catalog.gsp%3Fcat%3D121240) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walmart.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225162939id_/http%3A//www.walmart.com/catalog/catalog.gsp%3Fcat%3D121240) for the most accurate reproduction.*
 
 # Walmart.com: Help: Our Privacy Policy
+
+You are here: [Home Page](https://web.archive.org/) > [Help](https://web.archive.org/help) > [Security & Privacy](https://web.archive.org/catalog/catalog.gsp?cat=538369) > Our Privacy Policy 
 
 | 
 
@@ -117,6 +119,8 @@ Ultimately, your personal information is protected by the password you created w
 
 The confidentiality of your password is yours to protect. You may change it anytime by going to [My Account](https://web.archive.org/cservice/ya_index.gsp). Log in with your email address and password, then click "Change Name, Email & Password" and enter a new password.
 
+Personal information that we maintain is subject to physical, administrative, and technical controls. When we do have to collect your most sensitive personal information, such as Social Security Numbers, we will protect its confidentiality, prohibit its unlawful disclosure, and limit access to authorized personnel only.
+
 Top of Page
 
 Cookies and Other Computer Information
@@ -128,6 +132,17 @@ You can choose to browse on Walmart.com without cookies. However, without these 
 We also collect certain technical information from your computer each time you request a page during a visit to Walmart.com. This information may include your Internet Protocol (IP) address, your computer's operating system, browser type and the address of a referring website, if any. We collect this information to enhance the quality of your experience during your visit to the Site and will not sell or rent this information to any third parties.
 
 We also contract with third parties to provide us with: data collection and reporting services regarding our customers' activities on the Site; tracking and measuring performance of our marketing efforts and your response to our marketing efforts; and the delivery of relevant marketing messages. These third parties may use cookies and Web beacons (1 x 1 pixels), and may receive anonymous information about your browsing and buying activity on the Site. None of your personally identifiable information (such as your name, address, email address, credit card number, etc.) will be received by or shared with these third parties. If you do not want your non-personal information used to serve ads to you, you can change the settings of your browser to reject cookies. Each browser is different, so check your browser?s "Help" menu to learn how to change your cookie preferences.
+
+Top of Page
+
+Third Party Advertising
+
+  
+
+
+Walmart.com participates in cookie-based ad network advertising, known as ad serving, for a portion of the advertising found on the Site. This means that our ad serving partner uses cookies, web beacons, or similar technologies to serve you advertisements tailored to the interests you have demonstrated by browsing on this and other websites you have visited. The ad serving system also helps determine whether you have seen a particular advertisement before in order to avoid sending you duplicate advertisements. 
+
+We do not permit our ad serving partner to collect personal information about you on the Site, nor do we transmit to them any personal information about you. Our partner may use non-personal information about you (like browser information) that they collect or we send them to display ads on Walmart.com. This information will help improve the relevance of advertising you see on our site as well as other websites you view. Our ad serving partner may also use non-personal information about its own users, which may include you, to select ads to serve on our pages. Click here to learn more about the ad serving business practices and privacy policies of our ad serving partner, including how to decline participation in use of ad serving in this manner on Walmart.com. 
 
 Top of Page
 
@@ -144,7 +159,7 @@ Walmart.com may from time to time send you email messages or other forms of mark
 
 
 
-Please allow up to 10 days for us to process your request. If you would prefer to stop receiving other forms of marketing communications from us, please follow the directions on the marketing materials or contact our Customer Service department.
+Please allow up to 10 days for us to process your request. If you would prefer to stop receiving other forms of marketing communications from us, please follow the directions on the marketing materials or contact our Customer Service department. 
 
 The only email messages you will receive from Walmart.com when you elect not to receive marketing emails will be to: 
 
@@ -152,7 +167,7 @@ The only email messages you will receive from Walmart.com when you elect not to 
   * Let you know your order has been shipped
   * Share other information about your order
   * Respond to your customer service inquiries
-  * Answer any other questions you may have about this Site
+  * Answer any other questions you may have about this Site 
 
 
 
@@ -193,12 +208,26 @@ The Wal-Mart Toyland Site
   
 
 
-The Wal-Mart Toyland Site is linked to Walmart.com and is designed to be a fun way for children to build Wish Lists for their parents and other adult relatives. This Privacy Policy also applies to all activities conducted and information, if any, collected on the Wal-Mart Toyland Site. The site will not collect any personal information from children that can be used to specifically identify them. The only information that may be collected about the child is a first name, as an optional feature to improve the interactivity of the Wal-Mart Toyland Site. The site will also collect the name and email address of a parent and/or adult relative the child chooses to send his/her Wish List to. This information will only be used to send the child's Wish List and will not be saved or used for any other purpose. Although the Wal-Mart Toyland Site does not save the recipient's email address, it does save the Wish List. If a parent so chooses they can delete their child's Wish List by: 
+This site collects the first name, screen name and items on the Wish List provided by the child solely to permit the child to create a Wish List and share it with parents and adult family members. Walmart does not collect any information that can be used to personally identify the child.   
+In order to forward the Wish List to their parent or adult family member, the child submits an adult's e-mail address. This is used solely for the purpose of delivering the Wish List, and is not shared or used for any other purpose. 
 
-  * Deleting any bookmark or link to the Wish List their child may have created; **or**
-  * Clicking the **Start Over** button anywhere within the Wish List function 
+Top of Page
+
+How can I contact you with questions about my privacy?
+
+  
 
 
+If you have questions or comments about this privacy policy, please contact us in any of the following ways:
+
+> By Email:  
+>  [Privacy@wal-mart.com](mailto:Privacy@wal-mart.com)
+> 
+> By Mail:   
+>  Wal-Mart Stores, Inc.   
+>  Privacy Office (Mailstop #505)  
+>  508 SW 8th Street  
+>  Bentonville, AR 72716-0505
 
 Top of Page
 
@@ -207,6 +236,8 @@ Changes to the Walmart.com Privacy Policy
   
 
 
-This Privacy Policy was last updated on August 1, 2007. Please check our Privacy Policy periodically for changes.
+This Privacy Policy was last updated on November 10, 2008. Please check our Privacy Policy periodically for changes.
 
-Top of Page
+Top of Page  
+  
+---|---
