@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikonusa.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517111621id_/http%3A//www.nikonusa.com/About-Nikon/Privacy-Policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikonusa.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225035814id_/http%3A//www.nikonusa.com./About-Nikon/Privacy-Policy.page) for the most accurate reproduction.*
 
 # Nikon Privacy Policy
 
@@ -21,10 +21,26 @@ _Effective February 12, 2008_  
 ** Nikon Inc. ("NIKON”, “we” “our” or “us”) recognizes that the protection of personal information that it receives from visitors of its websites is very important. Collecting information allows NIKON to develop and maintain websites that enable us to better understand and to be more responsive to you as well as assisting us in managing our business better. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.  
 
  **2\. Sites Covered by This Privacy Policy  
-** This privacy policy applies to the following NIKON owned websites:   
-[nikonusa.com](http://www.nikonusa.com/); [nikonmall.com](http://www.nikonmall.com/); [nikonschool.com](http://www.nikonschool.com/); [stunningnikon.com](http://www.stunningnikon.com/); [nikonworld.com](http://www.nikonworld.com/); [nikonpro.com](http://www.nikonpro.com/); [nikontechusa.com](http://support.nikontech.com/cgi-bin/nikonusa.cfg/php/enduser/std_alp.php?p_sid=dwPwLrVi); [support.nikontech.com](http://support.nikontech.com/cgi-bin/nikonusa.cfg/php/enduser/std_alp.php?p_sid=dwPwLrVi); [nikonsportoptics.com](http://www.nikonsportoptics.com/); [nikonspiritinitiative.com](http://www.nikonspiritinitiative.com/) [ashtonscoolpix.com](http://www.ashtonscoolpix.com/) [ashtonsd60.com](http://www.ashtonsd60.com/)  (collectively “Nikon Owned Websites”) 
+** This privacy policy applies to the following NIKON owned websites:  
+[nikonusa.com](http://www.nikonusa.com/);   
+[nikonmall.com](http://www.nikonmall.com/);   
+[nikonschool.com](http://www.nikonschool.com/);   
+[stunningnikon.com](http://www.stunningnikon.com/);   
+[nikonworld.com](http://www.nikonworld.com/);   
+[nikonpro.com](http://www.nikonpro.com/);   
+[nikontechusa.com](http://www.nikontechusa.com/);   
+[support.nikontech.com](http://www.support.nikontech.com/);   
+[nikonsportoptics.com](http://www.nikonsportoptics.com/);   
+[ashtonscoolpix.com](http://www.ashtonscoolpix.com/);   
+[ashtonsd60.com](http://www.ashtonsd60.com/);   
+[ashtonsd90.com](http://www.ashtonsd90.com/)   
+[nikonlive.com](http://www.nikonlive.com/);   
+[lookgoodinpictures.com](http://www.lookgoodinpictures.com/);   
+[nikonhunting.com](http://www.nikonhunting.com/);   
+[nikonbirding.com](http://www.nikonbirding.com/);   
+(collectively "Nikon Owned Websites"). 
 
- **3\. The Information We Collect:**   
+**3\. The Information We Collect:**   
 By visiting any of our NIKON Owned Websites, we collect non-personally identifiable information about you, and we may also collect personally identifiable information that you provide to us. 
 
  **Non-Personally Identifiable Information** is information that cannot be used to identify you or to contact you and is information not associated with a specific personal identity. It is information that we collect automatically from you by tracking your use of our NIKON Owned Websites by using technology and methodology that enables tracking, such as the use of cookies, and includes but is not limited to information, such as domain type, browser version, service provider, internet protocol address, time spent and pages visited on our NIKON Owned Websites as well as information searched for on our NIKON Owned Websites. A “cookie” is a small file that a website transfers to the hard drive of a visitor’s computer for record keeping purposes. This tracking through the use of cookies will not by itself reveal anything to us about you personally or provide us with any information that personally identifies you, such as your name, e-mail address or other personally identifiable information. Non-personally identifiable information is also information that you, at your option, voluntarily provide us while you are visiting one of our NIKON Owned Websites and includes but is not limited to information such as your hobbies and interests, gender, age, level of education, photographic skill level as well as your purchases of and your experience with our products. 
