@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acdsee.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526072121id_/http%3A//www.acdsee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acdsee.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225215926id_/http%3A//www.acdsee.com/privacy) for the most accurate reproduction.*
 
-# ACD Systems
+# ACDSee Photo Software
 
 We are committed to protecting your privacy and the security of information you provide to us. **ACD Systems ("ACD") will not sell, rent, lease or disclose customer information to third parties unless required by law or unless you provide consent to such a disclosure.** Other terms of ACD's privacy policy are as follows:
 
