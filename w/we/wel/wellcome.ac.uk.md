@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the wellcome.ac.uk privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509154210id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellcome.ac.uk privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225075501id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm) for the most accurate reproduction.*
 
 # Privacy statement
 
 The Wellcome Trust regards the lawful and correct treatment of personal information as very important and to this end is fully committed to the principles of data protection, as set out in the Data Protection Act.
 
-  * [What information we collect about you](https://web.archive.org/web/20080509154210id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm#P13_448 "What information we collect about you")
-  * [How we use this information](https://web.archive.org/web/20080509154210id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm#P15_881 "How we use this information")
-  * [Surveys](https://web.archive.org/web/20080509154210id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm#P18_1589 "Surveys")
-  * [Do we use 'cookies'?](https://web.archive.org/web/20080509154210id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm#P22_2747)
-  * [How do we protect personal information?](https://web.archive.org/web/20080509154210id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm#P26_3680 "How do we protect personal information?")
-  * [Do we share your information with anyone else?](https://web.archive.org/web/20080509154210id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm#P28_4059 "Do we share your information with anyone else?")
-  * [Your rights](https://web.archive.org/web/20080509154210id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm#P31_4259 "Your rights")
-  * [How to tell us about changes](https://web.archive.org/web/20080509154210id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm#P34_4573 "How to tell us about changes").
+  * [What information we collect about you](https://web.archive.org/web/20081225075501id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm#_What_information_we_collect%20about%20y "What information we collect about you")
+  * [How we use this information](https://web.archive.org/web/20081225075501id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm#_How_we_use_this%20information "How we use this information")
+  * [Surveys](https://web.archive.org/web/20081225075501id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm#_Surveys "Surveys")
+  * [Do we use 'cookies'?](https://web.archive.org/web/20081225075501id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm#_Do_we_use_'cookies'?_1#_Do_we_use_'cookies'?_1)
+  * [How do we protect personal information?](https://web.archive.org/web/20081225075501id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm#_How_do_we_protect%20personal%20informat "How do we protect personal information?")
+  * [Do we share your information with anyone else?](https://web.archive.org/web/20081225075501id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm#_Do_we_share_your%20information%20with%20a "Do we share your information with anyone else?")
+  * [Your rights](https://web.archive.org/web/20081225075501id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm#_Your_rights "Your rights")
+  * [How to tell us about changes](https://web.archive.org/web/20081225075501id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm#_How_to_tell_us%20about%20changes "How to tell us about changes").
 
 
 
