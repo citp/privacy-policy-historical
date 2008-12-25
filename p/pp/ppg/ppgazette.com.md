@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ppgazette.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513142321id_/http%3A//www.ppgazette.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppgazette.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225075609id_/http%3A//www.ppgazette.com/privacy.php) for the most accurate reproduction.*
 
 # PPGazette
 
@@ -18,7 +18,7 @@ Penny Pincher Gazette, 9430 Research Blvd. Suite 200, Austin, TX 78759
 
 How We Use The Information We Collect 
 
-This Privacy Policy applies to consumers that have signed up on the PPGazette.com website. We may use the personal information that you supply to us and work with third parties to bring retail opportunities to you via direct mail, email and telemarketing. These third parties may include providers of direct marketing services and applications, including but not limited to lookup and reference, data enhancement, suppression, validation and email marketing services. 
+This Privacy Policy applies to consumers that have signed up on the PPGazette.com website. We may use the personal information that you supply to us and work with third parties to bring retail opportunities to you via direct mail, email and telemarketing. These third parties may include providers of direct marketing services and applications, including but not limited to lookup and reference, data enhancement, suppression, validation and email marketing services. When you register with PPGazette.com and you leave the box checked stating “Yes, I want to receive information and offers from Bargain-PPGazette.com” – you explicitly authorize us to share your information with Datran Media to contact you via email. 
 
 In order to participate in PPGazette.com, you must first submit the information requested. When submitting user information, you will have the option to subscribe to the PPGazette.com newsletter, a periodic email communicating various offers that we think you might like based on the registration information you provided and any offers that you selected in this promotion. You may unsubscribe from this newsletter, or any Company email, at any time by clicking on the automated link provided at the end of the email. Note that you may continue to receive email from persons or entities other than the Company. 
 
@@ -80,4 +80,4 @@ General Security Policy
 
 The Company attempts to meet and/or exceed standards of online privacy. When you submit information, your information is protected both on-line and off-line in accordance with applicable laws, regulations and industry standards. 
 
-Last revised: February 15, 2006
+Last revised: June 10, 2008
