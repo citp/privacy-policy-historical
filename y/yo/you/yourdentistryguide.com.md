@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yourdentistryguide.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517142055id_/http%3A//www.yourdentistryguide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourdentistryguide.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225104412id_/http%3A//www.yourdentistryguide.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Consumer Guide to Dentistry
 
-[Updated April 2007]
+[Updated June 2008]
 
 We respect the privacy of visitors to our website. This policy describes how we gather information from our site's visitors and what we do with it.
 
@@ -18,7 +18,7 @@ We use electronic records to compile statistics about how collectively our visit
 
 We use the personally identifiable information we collect for internal purposes such as improving our products and services, and sending you e-mail (at your request only) about topics you have specified.
 
-When we conduct research, we may share this information in aggregate form with our advertisers. For example, while we would never say, "Jen Jones visits her dentist twice a year," we might tell our advertisers, "67% of our readers visit their dentist twice a year."
+When we conduct research, we may share this information in aggregate form with our advertisers. For example, while we would never say, "Jen Jones visits her dentist twice a year," we might tell our advertisers, "67 percent of our readers visit their dentist twice a year."
 
 When you request information from us, the information you provide may be shared with third parties so that they may fulfill your request.
 
