@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatwallet.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607061613id_/http%3A//www.fatwallet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatwallet.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225061235id_/http%3A//www.fatwallet.com/privacy.php) for the most accurate reproduction.*
 
 # Coupons from FatWallet.Com save you money!
 
