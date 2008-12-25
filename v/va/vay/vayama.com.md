@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vayama.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509122921id_/http%3A//www.vayama.com/jsp/aboutUs/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vayama.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225064712id_/http%3A//www.vayama.com/jsp/aboutUs/privacy.jsp) for the most accurate reproduction.*
 
-# vayama | international travel solved
+# 
 
 ### vayama privacy policy
 
@@ -8,7 +8,7 @@ We have created this Privacy Policy to demonstrate our firm commitment to your p
 
 AirTrade International, Inc. is a licensee of the **TRUSTe** Privacy Program. **TRUSTe** is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.vayama.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by **TRUSTe**.
 
-If you have questions or concerns regarding this statement, you should first contact Anthony Hanseder at [tonyh@vayama.com.](mailto:tonyh@vayama.com) If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact **TRUSTe** at [www.Truste.org](http://www.truste.org/consumers/watchdog_complaint.php) **TRUSTe** will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact Anthony Hanseder at [billn@vayama.com.](mailto:billn@vayama.com) If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact **TRUSTe** at [www.Truste.org](http://www.truste.org/consumers/watchdog_complaint.php) **TRUSTe** will then serve as a liaison with us to resolve your concerns.
 
 ## What kind of information we collect from you:
 
@@ -99,14 +99,6 @@ If your personally identifiable information changes, or if you no longer desire 
 ## Other websites:
 
 When you click through to a third party website, our Privacy Policy no longer applies. We encourage you to carefully read the Privacy Policies of these other websites. Vayama does not control any cookies or other features that third parties may use, and the information practices of these advertisers are not covered by this Privacy Policy. Please be aware that these third parties may also contact you to obtain additional information to fulfill your travel reservation.
-
-### TravelBlogs section on vayama:
-
-**When you use the TravelBlogs** feature on our site, please know that you will be going to a third party site called Travelpod.com to participate. Their privacy policy will govern the collection and use of personal information used in travelblogs.
-
-**TravelBlogs** are hosted by travelpod [(www.travelpod.com).](http://www.travelpod.com/)
-
-If you use vayama travelblogs, you should be aware that any personally identifiable information that you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these travelblogs.
 
 ## Children's privacy:
 
