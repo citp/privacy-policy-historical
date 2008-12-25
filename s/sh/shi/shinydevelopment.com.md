@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shinydevelopment.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605153422id_/http%3A//shinydevelopment.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shinydevelopment.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225200157id_/http%3A//www.shinydevelopment.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy » Shiny Development
 
@@ -6,8 +6,9 @@
 
 Privacy is of critical importance to us and we take it very seriously, the legal jargon is down below but we work by a few simple principles:
 
-  * We will only collect information from you where it is essential for the running of this web site and / or the purchase of our products. Our purchase process typifies this as we ask only for your e-mail address, your name and address. We do not hold nor have access to any financial information involved in the payment for our products. All financial transactions are via secure, third party providers such as [PayPal](http://www.paypal.com/) and [Google Checkout](http://checkout.google.com/).
-  * Any other information collected will always be optional and will only ever be asked for to support new features added to the site.
+  * We will only collect information from you where it is essential for the running of this web site or the purchasing/running of our products. Our purchase process typifies this as we ask only for your e-mail address and your name and address. We do not hold nor have access to any financial information involved in the payment for our products. All financial transactions are via secure, third party providers such as [PayPal](http://www.paypal.com/) and [Google Checkout](http://checkout.google.com/).
+  * We may collect anonymous usage statistics from our web site and products.
+  * Any other information collected will always be optional and will only ever be asked for to support new features added to the site or our products.
 
 
 
@@ -15,19 +16,17 @@ Privacy is of critical importance to us and we take it very seriously, the legal
 
 Shiny Development Ltd. ("Shiny Development") operates the website [shinydevelopment.com](http://shinydevelopment.com/). It is Shiny Development’s policy to respect your privacy regarding any information we may collect while operating our website.
 
-### Website Visitors
+### Usage Statistics
 
 Like most website operators, Shiny Development collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Shiny Development’s purpose in collecting non-personally identifying information is to better understand how Shiny Development’s visitors use its website. From time to time, Shiny Development may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+
+Shiny Development may also collect non-personally-identifying information from use of its software applications such as computer or device type, version of underlying operating system and version of the software being used.
 
 Shiny Development also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Shiny Development does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to Shiny Development’s website choose to interact with Shiny Development in ways that require Shiny Development to gather personally-identifying information. The amount and type of information that Shiny Development gathers depends on the nature of the interaction. In each case, Shiny Development collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Shiny Development. Shiny Development does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain \website-related activities.
-
-### Aggregated Statistics
-
-Shiny Development may collect statistics about the behavior of visitors to its websites. For example, the number of downloads of each product is recorded. Shiny Development may display this information publicly or provide it to others. However, Shiny Development does not disclose personally-identifying information other than as described below.
+Certain visitors to Shiny Development’s website choose to interact with Shiny Development in ways that require Shiny Development to gather personally-identifying information. The amount and type of information that Shiny Development gathers depends on the nature of the interaction. In each case, Shiny Development collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Shiny Development. Shiny Development does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Protection of Certain Personally-Identifying Information
 
