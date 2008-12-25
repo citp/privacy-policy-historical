@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skypoker.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618071449id_/http%3A//www.skybet.com/help/sky_bet_privacy_policy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skypoker.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225101026id_/http%3A//www.skybet.com/help/sky_bet_privacy_policy.shtm) for the most accurate reproduction.*
 
 # Privacy Policy | Help & Support | Sky Betting & Gaming
 
@@ -39,7 +39,7 @@ Security is very important to us. Secure Socket Layer ("SSL") encryption technol
 
 ### Updates
 
-You may notify us of any updates, amendments and corrections to previously collected user information by contacting us [by email](https://web.archive.org/web/20080618071449id_/http%3A//www.skybet.com/help/by_email.shtm) or by entering the "Personal Details" section in "My Account" on www.skybet.com and entering the relevant changes. Further, upon your request, we will use commercially reasonable efforts to delete your user information from our database; however, it may be impossible to delete your entry without some residual information remaining because of back-ups and records of deletions.
+You may notify us of any updates, amendments and corrections to previously collected user information by contacting us [by email](https://web.archive.org/web/20081225101026id_/http%3A//www.skybet.com/help/by_email.shtm) or by entering the "Personal Details" section in "My Account" on www.skybet.com and entering the relevant changes. Further, upon your request, we will use commercially reasonable efforts to delete your user information from our database; however, it may be impossible to delete your entry without some residual information remaining because of back-ups and records of deletions.
 
 We reserve the right, at any time, to modify, alter, or update this Privacy Policy.
 
