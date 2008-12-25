@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominos.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615133124id_/http%3A//www.dominos.com/home/pages/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225114021id_/http%3A//www.dominos.com/home/pages/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,3 +78,7 @@ Domino's Pizza reserves the right to modify or supplement this policy at any tim
 ### Contacting Us
 
 If you have questions about this privacy statement, the information practices of Domino's Pizza or your dealings with our website, please use the link on our [Contact Us](http://info.dominos.com/dominos_pizza/contact.nsf/frmContact?openform) page. 
+
+### Gift Cards
+
+For terms of use and privacy policy information on Gift Cards, please click [here](https://web.archive.org/web/20081225114021id_/http%3A//www.dominos.com/home/pages/giftCards.jsp). 
