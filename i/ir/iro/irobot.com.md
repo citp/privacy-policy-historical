@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the irobot.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413134851id_/http%3A//store.irobot.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irobot.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225021246id_/http%3A//store.irobot.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
-# iRobot : Help Desk
+# iRobot: Help Desk
 
 Privacy Policy
 
@@ -38,7 +38,7 @@ As with any business, it is possible that as our business develops, we might sel
 
 **_What Steps Are Taken To Keep Personal Information Secure?_**
 
-Various security measures, including Secure Socket Layer (SSL) encryption technology, are used to protect personal information that we collect. If you place an order through this Web Site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel your password, or if you become aware of any loss, theft or unauthorized use of your password, please contact this Web Site's Customer Service Department by email at irobotcustomerservice@irobot.com or by phone at 1-(800) 727-9077.
+Various security measures, including Secure Socket Layer (SSL) encryption technology, are used to protect personal information that we collect. If you place an order through this Web Site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel your password, or if you become aware of any loss, theft or unauthorized use of your password, please contact this Web Site's Customer Service Department by email at irobotcustomerservice@irobot.com or by phone at 1.800.727.9077.
 
 **_How Can I Access, Correct and Update Personal Information?_**
 
