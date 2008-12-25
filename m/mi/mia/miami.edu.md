@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miami.edu privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218175501id_/http%3A//miami.edu/UMH/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miami.edu privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225073045id_/http%3A//www6.miami.edu/UMH/privacy) for the most accurate reproduction.*
 
 # Featured Story
 
