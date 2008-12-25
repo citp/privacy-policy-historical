@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the guitarnoise.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509072435id_/http%3A//www.guitarnoise.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarnoise.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225140902id_/http%3A//www.guitarnoise.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Guitar Noise
+# Guitar Noise Privacy Policy
 
-A terrible disaster is currently befalling the people of Burma/Myanmar. Let's show how quick and generous we can be in our response. Here's information on how you can help [International Aid to Burma](http://www.washingtonpost.com/wp-dyn/content/article/2008/05/05/AR2008050501869.html). Consider helping victims of the cyclone in Burma today. 
-
-## Privacy Policy
-
-Guitar Noise is committed to protecting your privacy. This "Privacy Statement" outlines the information that Guitar Noise gathers and how it is used.
+We at Guitar Noise respect and are committed to protecting your privacy. This **Privacy Statement** outlines the information that Guitar Noise gathers and how it is used.
 
 ### Newsletter and No Spam Guarantee
 
 When signing up for our newsletter you agree that Guitar Noise will use your email address to contact you with site updates, announcements, exclusive lessons and special offers. **We still never share your email address with anyone. Ever!**
 
-You can easily unsubscribe from our newsletter at any time! Every email we send includes simple instructions on how to unsubscribe. You can also unsubscribe on the [newsletter page](https://web.archive.org/web/20080509072435id_/http%3A//www.guitarnoise.com/newsletter.php).
+You can easily unsubscribe from our newsletter at any time! Every email we send includes simple instructions on how to unsubscribe. You can also unsubscribe on the [newsletter page](http://www.guitarnoise.com/newsletter/).
 
 ### Collection of your personal data
 
@@ -28,14 +24,14 @@ Guitar Noise shall not transfer your personal data to third parties, unless we c
 
 Sections of this web site may use cookies to keep track of your visit, or to deliver content specific to your interests. A cookie is an element of data that a Website can send to your browser, and which your browser may then store on your system. You can set your browser to notify you when you receive a cookie.
 
-Cookies on this site are used by ourselves, our ad management system, and occasionally by advertisers who use 3rd party ad serving solutions.
+Cookies on this site are used by ourselves, our ad management system, and occasionally by advertisers who use third-party ad serving solutions.
 
-### Payment information
+### Third-party Ads
 
-2CO is the authorized retailer for www.guitarnoise.com. Guitar Noise does not save payment information including your personal Credit Card number.
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
 ### Changes to this Privacy Policy
 
-Guitar Noise may amend this Privacy Policy at any time and without prior notice.
+Guitar Noise may amend this **Privacy Policy** at any time and without prior notice.
 
-If you have questions regarding our privacy policies, or require assistance in opting out of our email lists, please contact webmaster@guitarnoise.com.
+If you have questions regarding our privacy policies, or require assistance in opting out of our email lists, please [contact us](http://www.guitarnoise.com/contact/).
