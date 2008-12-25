@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arkansasstateparks.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512005120id_/http%3A//www.arkansasstateparks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkansasstateparks.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225124833id_/http%3A//www.arkansasstateparks.com/privacy) for the most accurate reproduction.*
 
 # Untitled Page
 
@@ -77,3 +77,5 @@ Information is retained for an indeterminate period of time.
 #### Do users have access to their information collected by the Web site?
 
 All personally identifiable information.
+
+[Visit Our Other Arkansas State Parks & Tourism Websites](https://web.archive.org/links/)
