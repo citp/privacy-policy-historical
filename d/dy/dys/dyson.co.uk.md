@@ -1,18 +1,21 @@
-> *The following text is extracted and transformed from the dyson.co.uk privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616001016id_/http%3A//www.dyson.co.uk/support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyson.co.uk privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225073657id_/http%3A//www.dyson.co.uk/support/privacy.asp) for the most accurate reproduction.*
 
 # Dyson Privacy Policy
 
-Dyson Ltd is committed to ensuring that your privacy is protected. This privacy policy explains what sort of information we collect about you, how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information. It also sets out the procedures that we have in place to safeguard your privacy.
+Dyson is committed to ensuring that your privacy is protected. This privacy policy explains what sort of information we collect about you, how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information. It also sets out the procedures that we have in place to safeguard your privacy.
 
 By submitting your information (please see paragraph 1 below) you consent to the use of that information as set out in this policy. If we change our privacy policy, any changes will be posted on this page without notification.
 
-Questions regarding this privacy policy should be directed to the Web-Master at [service@dyson.com.](mailto:service@dyson.com.)
+Questions regarding this privacy policy should be directed to the Web-Master at [service@dyson.com.](mailto:service@dyson.com)
 
 You may also contact us at:
 
-Dyson Ltd.
+**Dyson Ltd.**
 
-Tetbury Hill Malmesbury Wiltshire SN16 0RP
+Tetbury Hill,   
+Malmesbury,   
+Wiltshire,   
+SN16 0RP
 
 **Tel:** 0870 527 5104
 
@@ -22,6 +25,8 @@ Tetbury Hill Malmesbury Wiltshire SN16 0RP
   * What opt out rights and rights to obtain details of the information we hold on you do you have?
   * Links to third party websites
   * What kind of security is used to protect your information?
+  * Secure online shopping at Dyson.co.uk
+  * Verified by Visa and MasterCard SecureCode
 
 
 
@@ -51,17 +56,24 @@ Back to top
 
 We share personally identifiable information with companies who are acting as our agents (as long as they agree to use the information for the legitimate business purposes specified by Dyson). Our agents include, for example, service agents who we use to service Dyson products. We will also share personally identifiable information if you have given us permission to do so. Finally, we will share your personally identifiable information if required by law to do so, including in response to legal processes, such as a court order or subpoena, or to comply with other federal, state or local laws.
 
-We may disclose statistical information to third parties in aggregate form without revealing any personal details about our users (for example, 50% of our customers buy product parts online). Dyson Ltd. will not reveal your personal identity in connection with the disclosure of such information.
+We may disclose statistical information to third parties in aggregate form without revealing any personal details about our users (for example, 50% of our customers buy product parts online). Dyson. will not reveal your personal identity in connection with the disclosure of such information.
 
 Back to top
 
 ## What opt out rights and rights to obtain details of the information we hold on you do you have?
 
-If you wish to opt out of being contacted by Dyson Ltd or its agents about our products and services, you may either do so at the time you provide us with your contact details, or at any time by (i) using the unsubscribe option included in all our promotional email correspondence, or (ii) sending an email to service@dyson.com, or (iii) writing to us at Dyson Ltd, Tetbury Hill, Malmesbury, Wiltshire SN16 0RP, stating that you do not wish to receive such communications.
+If you wish to opt out of being contacted by Dyson or its agents about our products and services, you may either do so at the time you provide us with your contact details, or at any time by:
 
-We will provide users of our website with details of the contact information that we hold on them upon request within 30 days. To make such a request, send an email to [service@dyson.com](mailto:service@dyson.com) or write to us at Dyson Ltd, Tetbury Hill, Malmesbury, Wiltshire SN16 0RP and include your full name and postal address
+  * (i) Amending your records in the ["My Profile"](https://web.archive.org/account/) section of this web site, or
+  * (ii) Using the unsubscribe option included in all our promotional email correspondence, or
+  * (iii) Sending an email to [service@dyson.com](mailto:service@dyson.com), or 
+  * (iv) Writing to us at Dyson Ltd, Tetbury Hill, Malmesbury, Wiltshire SN16 0RP, stating that you do not wish to receive such communications.
 
-If any of the information that you have provided to Dyson Ltd changes, for example if you change your e-mail address, name or postal address, please let us know the correct details by an e-mail to [service@dyson.com](mailto:service@dyson.com)
+
+
+We will provide users of our website with details of the contact information that we hold on them upon request within 30 days. To make such a request, send an email to [service@dyson.com](mailto:service@dyson.com) or write to us at Dyson Ltd, Tetbury Hill, Malmesbury, Wiltshire SN16 0RP and include your full name and postal address.
+
+If any of the information that you have provided to Dyson changes, for example if you change your e-mail address, name or postal address, please update your records in the ["My Profile"](https://web.archive.org/account/) section of this web site, let us know the correct details by an e-mail to [service@dyson.com](mailto:service@dyson.com).
 
 Back to top
 
@@ -77,4 +89,34 @@ All information about you that we store on our web server is in secure databases
 
 Back to top
 
-Top
+## Secure online shopping at Dyson.co.uk
+
+All Dyson website activity that incorporates your personal details is securely encrypted using Secure Socket Layer (SSL) technology. SSL technology prevents you from inadvertently revealing personal information using an insecure connection.
+
+You will know when you are in secure mode as your browser will display a padlock symbol. This will happen as soon as youre required to login at the checkout page. i.e. before you enter any personal or payment details and also when accessing the My Profile section where you manage your account.
+
+By clicking on the padlock symbol, you can check that the SSL certificate for the website is valid and in date.
+
+Secure mode means that all of your details are encrypted to help keep them secure. Encryption creates billions of code combinations to protect each transaction made on our site, so your card details cannot be viewed by anyone else using the Internet. 
+
+During payment, we also ask for your card billing address as an additional security check. New security checks like the card signature code protect your credit card details online. No credit or debit card details are stored once your order has been processed. 
+
+**If you have any further concerns about security, please[email customer services](mailto:askdyson@dyson.co.uk) or call our customer service team on 0800 298 0298**
+
+Back to top
+
+## Verified by Visa and MasterCard SecureCode
+
+Verified by Visa and MasterCard SecureCode is a simple and secure way to shop online.
+
+This service is offered by Visa and MasterCard, in association with the bank that has issued your credit / debit card.
+
+This service provides additional security when shopping online by ensuring your card is not being used by someone else.
+
+If the credit / debit card you're using to pay for your order qualifies for one of these services (not all cards do), you will be taken to a page hosted by your card issuer. This is a completely secure process, the information you provide will only be visible to you and your card issuer, and would never be shared with other parties.
+
+Using this service is a matter of adding a quick extra step to your online checkout procedure. Enrolling takes moments and is secure. Each future purchase will require the password you set up when enrolling.
+
+If you would like to learn more about these services, please contact your card issuer who should be able to assist you. 
+
+Back to top
