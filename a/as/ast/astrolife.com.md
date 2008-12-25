@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrolife.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623205845id_/http%3A//www.astrolife.com/help/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrolife.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225055440id_/http%3A//www.astrolife.com/help/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Astrolife.com
 
@@ -124,7 +124,7 @@ If you have any questions about the security at our website, please contact us.
 
 Our users are given the opportunity to 'opt-out' of having information used for purposes not directly related to our site at the point where we ask for the information.
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by following the instructions contained in the email.
+Astrolife.com reserves the right to periodically send newsletters and promotional information from our Group companies and advertising partners to email address provided by our members. Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by at any time for any reason quickly and easily by clicking on the unsubscribe link enclosed in the mail. If you ever have a problem with your subscription, feel free to [contact our team](http://www.astrolife.com/astrology-information/astro-contact.php). 
 
 **Tell me how to contact Astrolife.com.**
 
