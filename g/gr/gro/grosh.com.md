@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grosh.com privacy policy that was archived on 2008-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080416233926id_/http%3A//www.grosh.com/content.php%3Fid%3D32) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grosh.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225082637id_/http%3A//www.grosh.com/content.php%3Fid%3D32) for the most accurate reproduction.*
 
 # We Rent Theatrical Backdrops, Curtains and Draperies for All Themes: Privacy Policy_broff
 
