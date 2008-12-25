@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convertunits.com privacy policy that was archived on 2008-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080212090717id_/http%3A//www.convertunits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convertunits.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225080327id_/http%3A//www.convertunits.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy of ConvertUnits.com
 
@@ -17,3 +17,10 @@ If you have questions about this privacy policy or the site in general, you can 
 <http://www.convertunits.com/contact/>
 
 If you use this form, we ask you to enter your name and e-mail address so that we can reply to you directly. This information is not shared with any other companies or sites.
+
+Save this page
+
+[](http://www.addthis.com/bookmark.php)
+
+Support this site  
+If this page was helpful, please [donate](http://www.convertunits.com/donate.php) a small amount or [advertise](http://www.convertunits.com/advertise.php) on the site. If you are a regular visitor, you might prefer to [remove most ads](http://www.convertunits.com/remove-ads.php). You can also [contact us](http://www.convertunits.com/contact/) if you have any comments or suggestions.
