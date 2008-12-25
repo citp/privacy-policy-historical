@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discountlocks.co.uk privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621073249id_/http%3A//www.discountlocks.co.uk/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountlocks.co.uk privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225152711id_/http%3A//www.discountlocks.co.uk/terms_privacy.asp) for the most accurate reproduction.*
 
-# Locks | Door Locks | Padlocks | Multipoint Locks | Window Locks
+# Locks | Door Locks | Padlocks | Multipoint Locks | Yale Chubb ERA Legge
 
 **Privacy Policy**
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20080621073249id_/http%3A//www.discountlocks.co.uk/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20081225152711id_/http%3A//www.discountlocks.co.uk/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
