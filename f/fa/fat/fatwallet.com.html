@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fatwallet.com privacy policy that was archived on 2008-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080607061613id_/http%3A//www.fatwallet.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fatwallet.com privacy policy that was archived on 2008-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081225061235id_/http%3A//www.fatwallet.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
   <title>Coupons from FatWallet.Com save you money!</title>
@@ -44,21 +44,6 @@
 
 <![endif]-->
 
-<!--[if IE 6]>
-
-<style type="text/css">
-
-#fwHdrUser {font:12px myriad pro, helvetica, arial, sans-serif;}
-#fwHdrUser LI.pmAlert {padding:0 0 2px 0;}
-#topSubNav {margin:0 0 0 50px;}
-#topSearch {margin:13px auto 0 auto;}
-#topSearch INPUT {font-size:11px;  padding:1px 2px;}
-#topSearch BUTTON {padding:0;}
-.help {margin:0 3px 0 0;}
-</style>
-
-<![endif]-->
-
 <script language="JavaScript">/* Setup the static content server */ var StaticRoot = "http://fatwallet.cachefly.net/";</script>
 <script language="JavaScript" src="http://fatwallet.cachefly.net/js/jquery-1.2.3.min.js"></script>
 <script language="JavaScript" src="http://fatwallet.cachefly.net/js/customize_sub_navigation_no_drag.js?a=2"></script>
@@ -82,30 +67,69 @@ _uacct = "UA-85764-1";
 urchinTracker();
 </script>
 
+<!--[if lt IE 7]>
+<script language="JavaScript">
+function correctPNG() // correctly handle PNG transparency in Win IE 5.5 & 6.
+{
+   var arVersion = navigator.appVersion.split("MSIE")
+   var version = parseFloat(arVersion[1])
+   if ((version >= 5.5) && (document.body.filters))
+   {
+      for(var i=0; i<document.images.length; i++)
+      {
+         var img = document.images[i]
+         var imgName = img.src.toUpperCase()
+         if (imgName.substring(imgName.length-3, imgName.length) == "PNG")
+         {
+            var imgID = (img.id) ? "id='" + img.id + "' " : "";
+            var imgName = (img.name) ? "name='" + img.name + "' " : "";
+            var imgClass = (img.className) ? "class='" + img.className + "' " : "";
+            var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' ";
+            var imgStyle = "display:inline-block;" + img.style.cssText;
+            var imgHeight = (img.height) ? img.height : 18;
+            var imgWidth = (img.width) ? img.width : 18;
+            if (img.align == "left") imgStyle = "float:left;" + imgStyle;
+            if (img.align == "right") imgStyle = "float:right;" + imgStyle;
+            if (img.parentElement.href) imgStyle = "cursor:hand;" + imgStyle;
+            var strNewHTML = "<img " + imgID + imgName + imgClass + imgTitle
+            + " style=\"" + "width:" + imgWidth + "px; height:" + imgHeight + "px;" + imgStyle + ";"
+            + "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
+            + "(src=\'" + img.src + "\', sizingMethod='scale');\" border='0' src='/static/i/spacer.gif' height='" + imgHeight + "' width='" + imgWidth + "' />";
+            img.outerHTML = strNewHTML;
+            i = i-1;
+         }
+      }
+   }
+}
+function getAttribute(obj, name)
+{
+    for (var i = 0; i < obj.attributes.length; i++) {
+        if (name == obj.attributes[i].name) {
+            return obj.attributes[i].value;
+        }
+    }
+}
+window.attachEvent("onload", correctPNG);
+</script>
+<![endif]-->
+
 <link rel="icon" href="http://fatwallet.cachefly.net/i/favicon.ico" type="image/x-icon">
 
 
 
 </head>
 <body>
-        <style type="text/css">
-            #promo {
-                background:url('http://fatwallet.cachefly.net/i/head/dads_grads_cb_give_08.gif') no-repeat;
-            }
-            #promo A.promoLinkL {
-                float:left;
-                display:block;
-                height:23px;
-                width:400px;
-            }
-            #promo A.promoLinkR {
-                float:left;
-                display:block;
-                height:23px;
-                width:400px;
-            }
-        </style>
-        <div id="promoBand"><div id="promo"><a href="/promo/Dads-and-Grads-Deals/" class="promoLinkL"></a><a href="/forums/hot-deals/834300/" class="promoLinkR"></a><a href="javascript:void(0);" class="close" onclick="hidePromo('dads_grads_cb_give_08');"><img src="http://fatwallet.cachefly.net/i/head/stores08close.gif" width="23" height="23" border="0" alt="click to close" title="click to close"></a></div></div>
+
+<script type="text/javascript">
+// clicktale variable
+var WRInitTime=(new Date()).getTime();
+</script>
+
+<script type="text/javascript">
+$.getJSON('/jscheck.php', { mvt_id : 0 }, function() { } );
+</script>
+
+
 <div id="fwHdrWrap">
 
 <div id="fwHdr">
@@ -114,12 +138,12 @@ urchinTracker();
   <li><a href="/" class="logo">FatWallet</a></li>
   <li><a href="/cash-back-coupons.php" class="cashbackcoupons topNavSelected">Cash Back &amp; Coupons</a></li>
   <li><a href="/forums/" class="forums">Forums</a></li>
-  <li><a href="http://fatwallet.pricegrabber.com" class="prices">Compare Prices</a></li>
+  <li><a href="http://fatwallet.pricegrabber.com" class="prices" rel="nofollow">Compare Prices</a></li>
 </ul>
 
 <ul id="fwHdrUser">
-    <li><a href="/join.php" class="fwHdr_signup">sign up</a></li>
-  <li><a href="/login.php?refpage=%2Fprivacy.php" class="fwHdr_signin">sign in</a></li>
+    <li><a href="/join.php" class="fwHdr_signup" rel="nofollow">sign up</a></li>
+  <li><a href="/login.php?refpage=%2Fprivacy.php" class="fwHdr_signin" rel="nofollow">sign in</a></li>
   </ul>
 
 <a href="/support/" class="help">help</a>
@@ -141,8 +165,8 @@ urchinTracker();
     
   <div id="searchSubNavWrap">
     <ul id="searchSubNav">
-      <li class="searchOn" id="default_collection"><a href="javascript: void(0);" onclick="swapSearch('default_collection');">entire site</a></li>
-      <li class="searchOff" id="forumSearch"><a href="javascript: void(0);" onclick="swapSearch('forumSearch');">forums</a></li>
+      <li class="searchOn" id="default_collection"><a href="javascript: void(0);" onclick="swapSearch('default_collection');" rel="nofollow">entire site</a></li>
+      <li class="searchOff" id="forumSearch"><a href="javascript: void(0);" onclick="swapSearch('forumSearch');" rel="nofollow">forums</a></li>
     </ul>
   </div>
 
@@ -185,22 +209,8 @@ String.prototype.trim = function() {
 function hidePromo(promoId)
 {
     document.getElementById('promoBand').style.display = 'none';
-    addPromoIdToCookie(promoId);
     $.getJSON("/query/log_banner_close.php", { bannerId: promoId }, '');
 }
-
-function addPromoIdToCookie(promoId)
-{
-    var hideCookie = getCookieValue("hide_nav_promo");
-    var value = promoId;
-    var expireSpan = 1000 * 60 * 60 * 24 * 90;
-    var expireDate = new Date();
-    expireDate.setTime(expireDate.getTime() + (expireSpan));
-
-    if (hideCookie != '') value += '|' + hideCookie;
-    document.cookie = "hide_nav_promo=" + value + "; expires=" + expireDate.toGMTString() + "; path=/; domain=fatwallet.com;";
-}
-
 </script>
 
 <br clear="all">
@@ -318,33 +328,142 @@ function addPromoIdToCookie(promoId)
 
 <center>
 
-</center></div><br>
+</center></div><br clear="all">
 <a name="bottom"></a>
-<div id="ftr">
-	<div id="ftr_content">
-		<ul id="ftr_links">
-			<li><a href="http://www.fatwalletinc.com" class="first">FatWallet, inc.</a></li>
-			<li><a href="/sitemap.php">Site Map</a></li>
-			<li><a href="/support/contact.php">Contact Us</a></li>
-			<li><a href="/advertise.php">Advertise</a></li>
-			<li><a href="/advertise.php?aff=1">Partnership</a></li>
-			<li><a href="/privacy.php">Privacy</a></li>
-			<li><a href="/useragreement.php">User Agreement</a></li>
-			<li><a href="/dmca.php">D.M.C.A. Notice</a></li>
-			<li><a href="/civil.php">Civil Process Policy</a></li>
-			<li class="disclaimer"><p>While FatWallet makes every effort to post correct information, offers are subject to change without notice. Some exclusions may apply based upon merchant policies.</p></li>
-		</ul>
+<div id="ftr_contain">
+    <div id="ftr">
+        <div id="ftr_content">
+            <ul id="ftr_links" style="width: 720px;">
+                <li><a href="/about_us.php" rel="nofollow" class="first">About Us</a></li>
+                <li><a href="/sitemap.php" rel="nofollow">Site Map</a></li>
+                <li><a href="/support/contact.php" rel="nofollow">Contact Us</a></li>                
+                <li><a href="/advertise.php" rel="nofollow">Advertise</a></li>
+                <li><a href="/advertise.php?aff=1" rel="nofollow">Partnership</a></li>
+                <li><a href="/privacy.php" rel="nofollow">Privacy</a></li>
+                <li><a href="/useragreement.php" rel="nofollow">User Agreement</a></li>
+                <li><a href="/dmca.php" rel="nofollow">D.M.C.A. Notice</a></li>
+                <li><a href="/civil.php" rel="nofollow">Civil Process Policy</a></li>
+                <li class="disclaimer"><p>While FatWallet makes every effort to post correct information, offers are subject to change without notice. Some exclusions may apply based upon merchant policies.</p></li>
+            </ul>
 
-		<ul id="ftr_copy">
-			<li>© 1999-2008</li>
-			<li><a href="http://www.big-boards.com/board/241/"><img src="http://stats.big-boards.com/e/241.png" width="6" height="6" border="0" alt="Message Board Statistics"></a>&nbsp;<a href="/rssinfo.php"><img src="http://fatwallet.cachefly.net/i/xml_button.gif" border="0" alt="RSS Feed Information"></a></li>
-		</ul>
-	</div>
-
+            <ul id="ftr_copy">
+                <li>© 1999-2008</li>
+                <li><a href="http://www.big-boards.com/board/241/" rel="nofollow"><img src="http://stats.big-boards.com/e/241.png" width="6" height="6" border="0" alt="Message Board Statistics"></a>&nbsp;<a href="/rssinfo.php" rel="nofollow"><img src="http://fatwallet.cachefly.net/i/xml_button.gif" border="0" alt="RSS Feed Information"></a></li>
+            </ul>
+        </div>
+    </div>
 </div>
 <!-- EOS NO --><!-- Start Quantcast tag -->
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script><script type="text/javascript">_qacct="p-783aXohQ7eUBs";quantserve();</script><noscript><a href="http://www.quantcast.com/p-783aXohQ7eUBs" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-783aXohQ7eUBs.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a></noscript>
 <!-- End Quantcast tag -->
+
+        <style type="text/css">
+        .catfish_shim{height:60px;}
+        .catfish{display:none;border-top:1px solid #888;background:#507d94;position:fixed;font-family:Arial;bottom:0;left:0;width:100%;}
+        DIV.catfish_wrap{border-top:5px solid #ccc;}
+        DIV.catfish_content_wrap{border-top:1px solid #505050;margin:0 auto;padding:10px 5px 0;}
+        A.catfish_close{background:#dfdfdf url('http://fatwallet.cachefly.net/i/close.gif') 3px center no-repeat;border:1px solid #444;border-right:none;font:80% tahoma, arial, sans-serif;float:right;position:absolute;right:0;top:8px;height:1.5em;line-height:1.5em;overflow:hidden;text-decoration:none;color:#606060;letter-spacing:2px;padding:0 4px 0 18px;}
+        A.catfish_close:hover{background:#dfdfdf url('http://fatwallet.cachefly.net/i/close_hover.gif') 3px center no-repeat;color:#000;}
+        DIV.catfish_content_wrap TABLE TD{color:#ddd;}
+        DIV.catfish_content_wrap TABLE TD A{color:#fff;font-weight:700;}
+        .catfish_signup{background:#fdf7e1;margin:5px 3px;}
+        .catfish_signup LABEL{color:#333;padding:0 2px;}
+        .catfish_wrap UL{padding-left:2.5em;overflow:hidden;text-overflow:ellipsis;margin:0 auto;}
+
+        </style>
+
+        <!--[if IE 6]>
+        <style type="text/css">
+        .catfish {
+            position: absolute;
+            top: expression((ignore = document.documentElement.scrollTop) + document.documentElement.clientHeight - 130 + "px");
+            height:129px;
+        }
+        </style>
+        <![endif]-->
+
+        <div class="catfish_shim" id="catfish_shim"><!-- --></div>
+        <div class="catfish" id="catfish">
+            <div class="catfish_wrap">
+                <div class="catfish_content_wrap">
+                                        <img src="http://fatwallet.cachefly.net/i/inline_guy.png" style="margin-top:-60px; margin-right:10px; float:left; position:absolute; bottom:0;">
+
+                    <table border="0" cellpadding="0" cellspacing="0" style="margin-left:140px; margin-right:15px;">
+                    <tbody><tr>
+                        <td valign="top" width="60%" style="border-right:1px dotted #fff; padding-right:10px;">
+                            Sign up for free today, because you don't want to miss out on any more cash back than you already have!                                There are currently 1,080,680 people just like you registered to <a href="/tmm/rewards.php">earn Cash Back From FatWallet</a>. Be the next!
+                                                        </td>
+
+                        <td valign="top" style="padding-left:10px; font-size:.9em;" id="signupContent">
+                            Sign up to join the discussion &amp; earn Cash Back from FatWallet:
+                            <table class="catfish_signup" border="0" cellpadding="3" cellspacing="0">
+                            <tbody><tr>
+                                <td><label>email:</label></td>
+                                <td><input type="text" style="width:180px;" id="joinEmail"></td>
+                                <td><button value="join" onclick="signupAjax(document.getElementById('joinEmail').value);" id="btnJoinEmail">join</button></td>
+                            </tr>
+                            </tbody></table>
+                        </td>
+                    </tr>
+                    </tbody></table>
+                </div>
+            </div>
+
+            <a href="javascript:closeCatfish();" class="catfish_close" rel="nofollow">close</a>
+        </div>
+        <script language="javascript">
+        function closeCatfish() {
+            $("#catfish").fadeOut("normal", function(){$("#catfish_shim").slideUp("normal");});
+
+            var exdate = new Date();
+            exdate.setDate(exdate.getDate() + 7);
+            document.cookie = "cf_close=1; expires=" + exdate.toGMTString() + "; path=/";
+        }
+
+        function showCatfish() {
+            if(('screen' in window) && ('width' in screen))
+            {
+                if(screen.width < 1024)
+                {
+                    return;
+                }
+            }
+
+            $("#catfish").slideToggle("slow");
+        }
+
+        function signupAjax(emailAddress)
+        {
+            if (!emailAddress.match(/^\s*$/))
+            {
+                document.getElementById('btnJoinEmail').disabled = true;
+                document.getElementById('joinEmail').disabled = true;
+
+                $.getJSON('/query/query_user_accounts.php', {'createUserByEmail' : emailAddress}, signupAjax_Callback);
+            }
+            else
+                alert('I know you\'re new here and all... but you\'re going to actually have to enter an e-mail address for us to send you an e-mail.');
+        }
+
+        function signupAjax_Callback(json)
+        {
+            if (json.error == '0')
+            {
+                document.getElementById('signupContent').innerHTML = 'Please check your e-mail for instructions on verifying your account.';
+            }
+            else
+            {
+                alert('Error: ' + json.message);
+
+                document.getElementById('btnJoinEmail').disabled = false;
+                document.getElementById('joinEmail').disabled = false;
+            }
+        }
+        </script>
+        <script language="javascript" defer="">
+        setTimeout('showCatfish()', 1000);
+        </script>
+        
 
 
 </body></html>
