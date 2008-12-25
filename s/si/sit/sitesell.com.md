@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the sitesell.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509192611id_/http%3A//www.sitesell.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitesell.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225054323id_/http%3A//www.sitesell.com/privacy.html) for the most accurate reproduction.*
 
 # SiteSell.com Privacy Statement
 
-| 
-
-  
 We do not share your personal information with any other organizations or individuals. We keep all information you provide to us, no matter how or why you provide it (ex., becoming an affiliate, ordering our products, etc.) **completely confidential,** and use it **only** for the purpose that **you** intended. 
 
 Only those employees with relevant business duties (ex., support staff) may access personal information, and **only** to perform their duties. They are subject to dismissal for any privacy violation. 
@@ -15,7 +12,4 @@ We do use cookies, but _only_ to track behavior of **groups** of users of the We
 
 In other words... _your visit is entirely private and anonymous._
 
-Close Window   
- 
-
-| 
+Close Window
