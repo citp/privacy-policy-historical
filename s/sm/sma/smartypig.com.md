@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the smartypig.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515053203id_/http%3A//www.smartypig.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartypig.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225042724id_/http%3A//www.smartypig.com/privacy) for the most accurate reproduction.*
 
 # SmartyPig®: Privacy Policy
 
 The _Privacy Policy_ can also be downloaded in [Adobe® PDF](http://www.adobe.com/products/acrobat/readstep2.html) format. Click the link below to save the Privacy Policy to your hard drive.
 
-[Download Privacy Policy](https://web.archive.org/PdfDisplay.aspx?Id=759b6f82-ab95-4218-8f9e-c165b0738fae) (PDF 84k)
+[Download Privacy Policy](https://web.archive.org/PdfDisplay.aspx?Id=269d56e9-2db8-4a47-93cc-c06fcdcd622d) (PDF 84k)
 
-Last Updated:  December 18, 2007
+Last Updated:  June 10, 2008
 
 * * *
 
@@ -86,7 +86,7 @@ We receive permission to post testimonials prior to posting.
 
 #### Blog
 
-Blog entries are only posted by SmartyPig employees and commenting is not available at this time.
+To post a comment, a user must include their name and email address. If you use a bulletin board, blog, or chat room on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. To learn more please read our [Terms and Conditions](http://www.smartypig.com/disclosures/terms-and-conditions).
 
 #### SmartyPig Communications
 
