@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxwoodtech.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615212611id_/http%3A//boxwoodtech.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxwoodtech.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225024250id_/http%3A//www.boxwoodtech.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Boxwood Technology, Inc.
 
