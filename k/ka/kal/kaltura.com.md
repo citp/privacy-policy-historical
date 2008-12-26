@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kaltura.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510162706id_/http%3A//www.kaltura.com/index.php/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaltura.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226011127id_/http%3A//corp.kaltura.com/privacy) for the most accurate reproduction.*
 
-# Kaltura - Privacy Policy
+# Kaltura - Open Source Video Platform - Privacy Policy
 
 ### Preamble
 
-Kaltura greatly respects its users’ privacy and takes it seriously. This Privacy Policy supplements the Kaltura [Terms of Use](https://web.archive.org/index.php/static/tandc), and sets forth the terms and conditions relating to users’ privacy as defined below. Capitalized terms in this policy shall have the meaning attributed to them in the Kaltura [Terms of Use](https://web.archive.org/index.php/static/tandc).
+Kaltura greatly respects its users’ privacy and takes it seriously. This Privacy Policy supplements the Kaltura [Terms of Use](https://web.archive.org/tandc), and sets forth the terms and conditions relating to users’ privacy as defined below. Capitalized terms in this policy shall have the meaning attributed to them in the Kaltura [Terms of Use](https://web.archive.org/tandc).
 
 ### What This Privacy Policy Covers
 
