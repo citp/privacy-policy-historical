@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcamax.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620124121id_/http%3A//www.arcamax.com/arcapub/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcamax.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226221052id_/http%3A//www.arcamax.com/arcapub/privacy) for the most accurate reproduction.*
 
 # Free newsletters, comics, books and much more! - ArcaMax Publishing
 
