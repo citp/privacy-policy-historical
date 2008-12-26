@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cartoonnetwork.com.ph privacy policy that was archived on 2008-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080525172116id_/http%3A//www.cartoonnetwork.com.ph/jsp/help/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetwork.com.ph privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227003718id_/http%3A//www.cartoonnetwork.com.ph/parents/privacy.jsp) for the most accurate reproduction.*
 
-# Cartoon Network - Help
-
-PRIVACY POLICY
+# Cartoon Network | PH
 
 Cartoon Network is fully committed to providing a fun, entertaining and safe web site for people of all ages. Because we want our audience to feel comfortable exploring the content offered on [CartoonNetwork.com.ph](http://www.cartoonnetwork.com.ph/), this Online Privacy Policy outlines and clarifies how we collect and use information online, our advertising policies and the safeguards we recommend to ensure a fun and safe web experience. As new technology and online standards evolve, we may modify these policies to better address your concerns. 
 
