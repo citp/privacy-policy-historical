@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hrblock.com privacy policy that was archived on 2008-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080608160818id_/http%3A//www.hrblock.com/universal/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hrblock.com privacy policy that was archived on 2008-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081226043735id_/http%3A//www.hrblock.com/universal/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title> H&amp;R Block Privacy Policy</title>
@@ -17,6 +17,7 @@
 <meta name="author" content="hrblock.com - Taxes">
 <meta name="copyright" content="Copyright 2008 H&amp;R Block. All Rights Reserved.">
 
+
         <meta name="robots" content="noodp">  
     
                         
@@ -31,7 +32,7 @@
 t1_default = 'NO_SELECTION';
 </script>
  
-<script type="text/javascript" src="/includes/js/webservices/partner_product_details_soap_client.js "></script>
+<script type="text/javascript" src="/includes/js/webservices/partner_product_details_soap_client.js"></script>
 <script type="text/javascript" src="/includes/js/def_info_hrblock_2008.js"></script>
 <script type="text/javascript" src="/includes/js/header_init_hrblock_2008.js"></script>
 <script type="text/javascript" src="/includes/accordian.pack.js"></script>
@@ -46,7 +47,14 @@ t1_default = 'NO_SELECTION';
     
 
     
+            g_bGetSoftwareInfo = false;
+    
+        
+    
 </script>
+
+
+    
 
 
 
@@ -69,9 +77,6 @@ t1_default = 'NO_SELECTION';
 
 <div id="container">
 
-<div class="mboxDefault"></div>
-<script type="text/javascript" language="javascript"> mboxCreate('hrb_global');</script> 
-
 
 
 
@@ -81,57 +86,6 @@ t1_default = 'NO_SELECTION';
       <noindex><!-- tag for Atomz -->
 
 <script type="text/javascript">
-function setMenu()
-{
-}
-
-
-var start = new Date();
-
-/*
-function showLogin() 
-{
-   new Effect.toggle('tco_login','appear');
-   new Effect.toggle('tco_login_cover','appear');
-}
-*/
-
-function checkUsername() 
-{
-   if(document.getElementById('txtusername').value == "") 
-   {
-      document.getElementById('user_required').innerHTML = '*'; 
-      document.getElementById('txtusername').focus(); 
-   }
-   else 
-   {
-      document.getElementById('user_required').innerHTML = '&nbsp;&nbsp;'; 
-   }
-}
-
-function checkPassword() 
-{
-   if(document.getElementById('txtpassword').value == "") 
-   {
-      document.getElementById('pass_required').innerHTML = '*'; 
-      document.getElementById('txtpassword').focus(); 
-   }
-   else 
-   {
-      document.getElementById('pass_required').innerHTML = '&nbsp;&nbsp;'; 
-   }
-}
-
-function checkForm(form) 
-{
-   if((document.getElementById('txtusername').value == '') || (document.getElementById('txtpassword').value == '')) 
-   {
-      checkPassword(); 
-      checkUsername(); 
-      return false; 
-   }
-   return true; 
-}
 
 strBankExit = 'You are now leaving the Bank web site. Other H&R Block affiliated companies offer a variety of financial products, some of which may not be FDIC insured and may be subject to investment risk, including possible loss of principal. Thank you for visiting our site.\n\nClick "OK" to continue or "Cancel" to stay at H&R Block Bank.';
 
@@ -142,25 +96,27 @@ strMortgageExit  = 'You are now leaving the Bank web site. Other H&R Block affil
 
 //strMortgageExit = 'You are now leaving the Mortgage section of the Bank web site.  Other H&R Block affiliated companies offer a variety of financial products, some of which may not be FDIC insured and may be subject to investment risk, including possible loss of principal.  Thank you for visiting our site.\n\nClick "OK" to continue or "Cancel" to stay at H&R Block Bank Mortgage section.';
 
-function showExitPopUp(url,bLeavingSite) 
+function showExitPopUp(destination_url,bLeavingSite)
 {
-    var bDestIsBank = false;
-    var bDestIsMort = false;
+    var bDestinationIsBank = false;
+    var bDestinationIsMort = false;
 
     var bCurrLocationIsBank = false;
     var bCurrLocationIsMort = false;
 
-    if (url.indexOf("/bank")!= -1)
+    var bOpenNewWindow      = false;
+
+    if ( (destination_url.indexOf("/bank")!= -1) || (destination_url.indexOf("/emerald")!= -1) )
     {
-        bDestIsBank = true;
+        bDestinationIsBank = true;
     }
-    else if (url.indexOf("/mortgages")!= -1)
+    else if (destination_url.indexOf("/mortgages")!= -1)
     {
-        // 
-        bDestIsMort = true;
+        //
+        bDestinationIsMort = true;
     }
 
-    if (document.location.pathname.indexOf('/bank/') != - 1)
+    if ( (document.location.pathname.indexOf('/bank/') != - 1) || (document.location.pathname.indexOf('/emerald/') != - 1) )
     {
         bCurrLocationIsBank = true;
     }
@@ -169,90 +125,42 @@ function showExitPopUp(url,bLeavingSite)
         bCurrLocationIsMort = true;
     }
 
-    if (bCurrLocationIsBank && (!bDestIsBank && !bDestIsMort))
+    if (bCurrLocationIsBank && (!bDestinationIsBank && !bDestinationIsMort))
     {
         // if on a bank page and your destination is not a bank page or a mortgage, pop up alert
-        if(confirm(strBankExit)) 
+        if(confirm(strBankExit))
         {
-            window.location = url;
+            window.location = destination_url;
         }
         return;
     }
-    else if ( bCurrLocationIsMort && (!bDestIsMort && !bDestIsBank))
+    else if ( bCurrLocationIsMort && (!bDestinationIsMort && !bDestinationIsBank))
     {
         // if on a mortgage page and your destination is not a mortgage or a bank page, pop up alert
-        if(confirm(strMortgageExit)) 
+        if(confirm(strMortgageExit))
         {
-            window.location = url;
+            window.location = destination_url;
         }
         return;
     }
 
-    window.location = url;
+    if (destination_url.indexOf("/espanol/index.html") != -1)
+    {
+        bOpenNewWindow = true;
+    }
+
+    if (bOpenNewWindow)
+    {
+        window.open("/espanol/index.html","espanol");
+    }
+    else
+    {
+        window.location = destination_url;
+    }
+
     return true;
 }
-
-function modifyDestinationUrl(destinationUrl)
-{
-    // only call this function with relative urls (like /taxes/doing_my_taxes/page.html)
-    return "http://"+document.location.hostname+"/"+destinationUrl;
-}
-
-
-function setGlobalNav(site_section) 
-{
-   var URL = document.location.pathname.toLowerCase(); 
-
-   if (URL.indexOf(site_section) != - 1) 
-   {
-      return true; 
-   }
-   else 
-   {
-      return false; 
-   }
-}
 </script>
-
-<div id="header">  
-
-<script language="javascript">
-if ( (document.location.pathname.indexOf('/investments/') > - 1) || (document.location.pathname.indexOf('/goto/taxcutfitness/') > - 1) || (document.location.pathname.indexOf('/goto/taxcutoffer/') > - 1)) 
-{
-    document.write('<div class="hd_home_link"><ul><li><a href="#" onclick="showExitPopUp(\'/index.html\');return false;">Home</a></li></ul></div>');
-    document.write('<a href="/investments/index.html" title="H&amp;R Block Investments" class="hrb_logo"><img src="/images/hd_hrb_logo_fa.png" alt="H&amp;R Block Financial Advisors" title="H&amp;R Block Financial Advisors" border="0"  class="hd_logo_home"/></a>'); 
-}
-else if (document.location.pathname.indexOf('/select/') > - 1) 
-{
-    document.write('<div class="hd_home_link"><ul><li><a href="#" onclick="showExitPopUp(\'/index.html\');return false;">Home</a></li></ul></div>');
-    document.write('<a href="/select/index.html" title="H&amp;R Block Investments Select Clients" class="hrb_logo"><img src="/images/hd_hrb_logo_fa_select.png" alt="H&amp;R Block Financial Advisors - Select Client Group" title="H&amp;R Block Financial Advisors - Select Client Group" border="0"  class="hd_logo_home"/></a>'); 
-}
-else if (document.location.pathname.indexOf('/bank/') > - 1) 
-{
-    document.write('<div class="hd_home_link"><ul><li><a href="#" onclick="showExitPopUp(\'/index.html\');return false;">Home</a></li></ul></div>');
-    document.write('<a href="/bank/index.html" title="H&amp;R Block Bank" class="hrb_logo"><img src="/images/hd_hrb_logo_bank.png" alt=" border="0"  class="hd_logo_home"/></a>'); 
-}
-else if (document.location.pathname.indexOf('/mortgages/') > - 1) 
-{
-    document.write('<div class="hd_home_link"><ul><li><a href="#" onclick="showExitPopUp(\'/index.html\');return false;">Home</a></li></ul></div>');
-    document.write('<a href="/mortgages/index.html" title="H&amp;R Block Bank" class="hrb_logo"><img src="/images/hd_hrb_logo_bank.png" alt=" border="0"  class="hd_logo_home"/></a>'); 
-}
-else if (document.location.pathname.indexOf('/tax_business_services/') > - 1) 
-{
-    document.write('<div class="hd_home_link"><ul><li><a href="#" onclick="showExitPopUp(\'/index.html\');return false;">Home</a></li></ul></div>');
-    document.write('<a href="/tax_business_services/index.html" title="H&amp;R Block Tax Business Services" class="hrb_logo"><img src="/images/hd_hrb_logo_tbs.png" alt="H&amp;R Block" border="0"  class="hd_logo_home"/></a>'); 
-}
-else if (document.location.pathname.indexOf('/SBS/') > - 1) 
-{
-    document.write('<div class="hd_home_link"><ul><li><a href="#" onclick="showExitPopUp(\'/index.html\');return false;">Home</a></li></ul></div>');
-    document.write('<a href="/SBS/index.html" title="H&amp;R Block Business Services" class="hrb_logo"><img src="/images/hd_hrb_logo_sbs.png" alt="H&amp;R Block" border="0"  class="hd_logo_home"/></a>'); 
-}
-else 
-{
-    document.write('<div class="hd_home_link"></div>');
-    document.write('<a href="http://'+document.location.hostname+'/index.html" title="H&amp;R Block" class="hrb_logo"><img src="/images/hd_hrb_logo.png" alt="H&amp;R Block" alt="H&amp;R Block" border="0"  class="hd_logo_home"/></a>'); 
-}
-</script><div class="hd_home_link"></div><a href="http://web.archive.org/index.html" title="H&amp;R Block" class="hrb_logo"><img src="/images/hd_hrb_logo.png" alt="H&amp;R Block" border="0" class="hd_logo_home"></a>
 <!-- Greybox -->
 <script type="text/javascript">
 	var GB_ROOT_DIR = "/includes/greybox/";
@@ -263,120 +171,90 @@ else
 <link href="/includes/greybox/gb_styles.css" rel="stylesheet" type="text/css" media="all">
 <!-- END Greybox -->
 
-<div class="hd_forms_container">  
 
-	<div class="hd_form_0">
-    	<a href="/greybox_login.html" title="Secure Online Login" rel="gb_page[364, 400]">Tax Client Login</a>
-        <a href="/greybox_login.html" class="hd_form_0_spc" title="Secure Online Login" rel="gb_page[364, 400]"><img src="/images/btn_form_entry.png" class="hd_btn" align="absmiddle"></a>
+<div id="header">
+
+<script language="javascript">
+if ( (document.location.pathname.indexOf('/investments/') > - 1) || (document.location.pathname.indexOf('/goto/taxcutfitness/') > - 1) || (document.location.pathname.indexOf('/goto/taxcutoffer/') > - 1))
+{
+    document.write('<div class="hd_home_link"><a href="#" onclick="omnitureOnClick(\'navLocation:h\',\'navName:home\');showExitPopUp(\'/index.html\');return false;">Home</a></div>');
+    document.write('<a href="/investments/index.html" title="H&amp;R Block Investments" class="hrb_logo" onclick="omnitureOnClick(\'navLocation:h\',\'navName:investments_home\');"><img src="/images/hd_hrb_logo_fa.png" alt="H&amp;R Block Financial Advisors" title="H&amp;R Block Financial Advisors" border="0"  class="hd_logo_home"/></a>');
+}
+else if (document.location.pathname.indexOf('/select/') > - 1)
+{
+    document.write('<div class="hd_home_link"><a href="#" onclick="omnitureOnClick(\'navLocation:h\',\'navName:home\');showExitPopUp(\'/index.html\');return false;">Home</a></div>');
+    document.write('<a href="/select/index.html" title="H&amp;R Block Investments Select Clients" class="hrb_logo" onclick="omnitureOnClick(\'navLocation:h\',\'navName:select_home\');"><img src="/images/hd_hrb_logo_fa_select.png" alt="H&amp;R Block Financial Advisors - Select Client Group" title="H&amp;R Block Financial Advisors - Select Client Group" border="0"  class="hd_logo_home"/></a>');
+}
+else if ( (document.location.pathname.indexOf('/bank/') > - 1) || (document.location.pathname.indexOf('/emerald/') > - 1) )
+{
+    document.write('<div class="hd_home_link"><a href="#" onclick="omnitureOnClick(\'navLocation:h\',\'navName:home\');showExitPopUp(\'/index.html\');return false;">Home</a></div>');
+    document.write('<a href="/bank/index.html" title="H&amp;R Block Bank" class="hrb_logo" onclick="omnitureOnClick(\'navLocation:h\',\'navName:bank_home\');"><img src="/images/hd_hrb_logo_bank.png" alt=" border="0"  class="hd_logo_home"/></a>');
+}
+else if (document.location.pathname.indexOf('/mortgages/') > - 1)
+{
+    document.write('<div class="hd_home_link"><a href="#" onclick="omnitureOnClick(\'navLocation:h\',\'navName:home\');showExitPopUp(\'/index.html\');return false;">Home</a></div>');
+    document.write('<a href="/mortgages/index.html" title="H&amp;R Block Bank" class="hrb_logo" onclick="omnitureOnClick(\'navLocation:h\',\'navName:mortgages_home\');"><img src="/images/hd_hrb_logo_bank.png" alt=" border="0"  class="hd_logo_home"/></a>');
+}
+else if (document.location.pathname.indexOf('/tax_business_services/') > - 1)
+{
+    document.write('<div class="hd_home_link"><a href="#" onclick="omnitureOnClick(\'navLocation:h\',\'navName:home\');showExitPopUp(\'/index.html\');return false;">Home</a></div>');
+    document.write('<a href="/tax_business_services/index.html" title="H&amp;R Block Tax Business Services" class="hrb_logo" onclick="omnitureOnClick(\'navLocation:h\',\'navName:tbs_home\');"><img src="/images/hd_hrb_logo_tbs.png" alt="H&amp;R Block" border="0"  class="hd_logo_home"/></a>');
+}
+else if (document.location.pathname.indexOf('/SBS/') > - 1)
+{
+    document.write('<div class="hd_home_link"><a href="#" onclick="omnitureOnClick(\'navLocation:h\',\'navName:home\');showExitPopUp(\'/index.html\');return false;">Home</a></div>');
+    document.write('<a href="/SBS/index.html" title="H&amp;R Block Business Services" class="hrb_logo" onclick="omnitureOnClick(\'navLocation:h\',\'navName:sbs_home\');"><img src="/images/hd_hrb_logo_sbs.png" alt="H&amp;R Block" border="0"  class="hd_logo_home"/></a>');
+}
+else
+{
+    document.write('<div class="hd_home_link"></div>');
+    document.write('<a href="http://'+document.location.hostname+'/index.html" title="H&amp;R Block" class="hrb_logo" onclick="omnitureOnClick(\'navLocation:h\',\'navName:logo\');"><img src="/images/hd_hrb_logo.png" alt="H&amp;R Block" alt="H&amp;R Block" border="0"  class="hd_logo_home"/></a>');
+}
+</script><div class="hd_home_link"></div><a href="http://web.archive.org/index.html" title="H&amp;R Block" class="hrb_logo" onclick="omnitureOnClick('navLocation:h','navName:logo');"><img src="/images/hd_hrb_logo.png" alt="H&amp;R Block" border="0" class="hd_logo_home"></a>
+
+<div class="hd_forms_container">
+    <!-- VISUAL SCIENCES SEARCH AUTO POPULATE CODE -->
+    <script type="text/javascript" src="/includes/js/hrautocomplete.js"></script>
+
+    <!-- WHERE'S MY REFUND -->
+    <div class="hd_right">
+        <a href="#" onclick="omnitureOnClick('navLocation:h','navName:customer_support');showExitPopUp('/customer_support/index.html');return false;"><span class="form_title">Customer Support</span></a>
+        <a href="#" onclick="omnitureOnClick('navLocation:h','navName:customer_support');showExitPopUp('/customer_support/index.html');return false;"><img src="/images/btn_form_entry.png" class="hd_btn" align="absmiddle"></a>
     </div>
-    
-    <!-- FIND AN OFFICE -->
-    <form id="hd_form_1" name="form1" method="post" action="javascript:if(validateOfficeLocatorRequest(document.getElementById('office').value)) {findofficebyzip()}else{document.form1.office.focus();};">
-        <div class="form_title">Find a Tax Office</div>
-        <input name="office" type="text" id="office" size="22" onkeyup="isNumber(this)" onclick="this.value=''" value="enter zip" class="hd_input_style" maxlength="9"> 
-        <input type="image" src="/images/btn_form_entry.png" name="btn" width="20" height="20" class="hd_btn" value="" alt="" align="top">
-    </form>              
-    <!-- END FIND AN OFFICE -->
-      
-<!--    
-    <form id="hd_form_2" target="_top" method="get" action="http://search.hrblock.com/search/promosearch/" name="ATOMZSEARCHFORM">
-        <div class="form_title">Search Site</div>
-        <input class="hd_input_style"  id="sp-q"  name="sp-q" type="text" size="22" />
 
-        <input type="image" src="/images/btn_form_entry.png" name="btn"  width="20" height="20" class="hd_btn" value="" alt="" align="top" onclick="
-        if(document.location.href.indexOf('/bank')     != -1 || (typeof (t1_default) != 'undefined' && t1_default.indexOf('bank') != -1) )    
-        { return confirm(strBankExit); } 
-        else 
-        if(document.location.href.indexOf('/mortgages')!= -1 || (typeof (t1_default) != 'undefined' && t1_default.indexOf('mortgage') != -1) )
-        { return confirm(strMortgageExit); }
-        "/>
+    <!-- FIND AN OFFICE FORM -->
+    <div class="hd_right">
+        <form id="form1" name="form1" onsubmit="javascript:omnitureOnClick('navLocation:h','navName:find_office');validateZipCode(document.getElementById('office').value);return false;">
+            <span class="form_title">Find a Tax Office</span>
+            <input name="office" type="text" id="office" size="22" onkeyup="isNumber(this)" onclick="this.value=''" value="enter zip code" class="hd_input_style" maxlength="14">
+            <input type="image" src="/images/btn_form_entry.png" name="btn" class="hd_btn" value="" alt="" align="top">
+        </form>
+    </div>
 
-        <input type="hidden" name="sp-k" value="">
-        <input type="hidden" name="sp-a" value="sp1002eca4">
-        <input type="hidden" name="sp-f" value="ISO-8859-1">
-        <input type="hidden" name="sp-p" value="all">
-    </form>
+    <!-- VISUAL SCIENCES SEARCH FORM -->
+    <div class="hd_right">
+        <form name="searchform" id="searchform" target="_top" action="http://search2.hrblock.com" method="get">
+            <span class="form_title">Search Site</span>
+            <input type="text" name="q" value="" id="searchText" size="22" class="hd_input_style">
+            <input type="image" src="/images/btn_form_entry.png" class="hd_btn" value="" alt="" align="top" onclick="omnitureOnClick('navLocation:h','navName:site_search');if(document.location.href.indexOf('/bank') != -1 || (typeof (t1_default) != 'undefined' &amp;&amp; t1_default.indexOf('bank') != -1) ) { return confirm(strBankExit); } else if(document.location.href.indexOf('/mortgages')!= -1 || (typeof (t1_default) != 'undefined' &amp;&amp; t1_default.indexOf('mortgage') != -1) ) { return confirm(strMortgageExit);}">
+        </form>
+    </div>
 
+</div><!-- end .hd_forms_container -->
 
-    <form id="hd_form_2" name="hd_form_2" target="_top" method="get" action="http://search2.hrblock.com/" >
-        <div class="form_title">Search Site</div>
-        <input class="hd_input_style"  id="q"  name="q" type="text" size="22" /> 
-        <input type="image" src="/images/btn_form_entry.png" width="20" height="20" class="hd_btn" value="" alt="" align="top" onclick="if(document.location.href.indexOf('/bank') != -1 || (typeof (t1_default) != 'undefined' && t1_default.indexOf('bank') != -1) ) { return confirm(strBankExit); } else if(document.location.href.indexOf('/mortgages')!= -1 || (typeof (t1_default) != 'undefined' && t1_default.indexOf('mortgage') != -1) ) { return confirm(strMortgageExit);}"/>
-    </form>
--->
-
-
-<!-- begin visual sciences autocomplete
-<link rel="stylesheet" type="text/css" href="http://content.atomz.com/pb00002794/publish/css/autocomplete.css"/>
-
-<form name="searchform" id="searchform" target="_top" action="http://search2.hrblock.com" method="get">
-    <div class="form_title">Search Site</div>
-
-    <input type="hidden" name="u1"  value="q" />
-    <input type="hidden" name="u2"  value="cat" />
-    <input type="text"   name="q"   value=""id="searchText" size="22" class="hd_input_style" />
-    <input type="image" src="/images/btn_form_entry.png" width="20" height="20" class="hd_btn" value="" alt="" align="top" onclick="if(document.location.href.indexOf('/bank') != -1 || (typeof (t1_default) != 'undefined' && t1_default.indexOf('bank') != -1) ) { return confirm(strBankExit); } else if(document.location.href.indexOf('/mortgages')!= -1 || (typeof (t1_default) != 'undefined' && t1_default.indexOf('mortgage') != -1) ) { return confirm(strMortgageExit);}"/>
-
-    <div id="autocomplete"></div>
-    <script type="text/javascript" src="http://content.visualsciences.com/ac/dom-events.js"></script>
-    <script type="text/javascript" src="http://content.visualsciences.com/ac/autocomplete-min.js"></script>
-    <script type="text/javascript" src="http://content.atomz.com/pb00002794/publish/js/autocompletelist.js"></script>
-    
-</form>
-end visual sciences autocomplete -->
-
-<script type="text/javascript" src="/includes/js/autocomplete.js"></script>
-
-<form name="searchform" id="searchform" target="_top" action="http://search2.hrblock.com" method="get">
-    <div class="form_title">Search Site</div>
- <input type="text" name="q" value="" id="searchText" size="22" class="hd_input_style">
-    <input type="image" src="/images/btn_form_entry.png" width="20" height="20" class="hd_btn" value="" alt="" align="top" onclick="if(document.location.href.indexOf('/bank') != -1 || (typeof (t1_default) != 'undefined' &amp;&amp; t1_default.indexOf('bank') != -1) ) { return confirm(strBankExit); } else if(document.location.href.indexOf('/mortgages')!= -1 || (typeof (t1_default) != 'undefined' &amp;&amp; t1_default.indexOf('mortgage') != -1) ) { return confirm(strMortgageExit);}">
-</form>
-<script language="JavaScript">
-<!--
-	//var obj = actb(document.getElementById('searchText'),customarray);
-//-->
-</script>
-
-
-
-</div><!-- end .hd_forms_container -->  
-<div class="hd_dots_vert_white_bg"></div>
-<div class="hd_links_2">
-    <ul>
-    	<li><a href="#" onclick="showExitPopUp('/company/tax_franchise/index.html');return false;">Franchise <br>Opportunities</a></li>
-        <li><a href="#" onclick="showExitPopUp('/customer_support/index.html');return false;">Customer Support</a></li>
-        <!--<li><a href="https://taxes.hrblock.com/hrblock/login/LoginRegistration.hrbx?TaxType=OPP&TaxYear=2007&PartnerID=0&PS=Y&FV=F&HT=F">Tax Client Login</a></li>-->
-        <!--<li><a href="/greybox_login.html" title="Tax Client Login" rel="gb_page[334, 230]">Tax Client Login</a></li>-->
-        <!--<li><a href="#" onclick="showExitPopUp('https://taxes.hrblock.com/hrblock/Login/UserType.hrbx?HelpFor=Username&TaxType=OPP&FV=T&HT=F');return false;">Forgot Username</a></li>
-        <li><a href="#" onclick="showExitPopUp('https://taxes.hrblock.com/hrblock/Login/UserType.hrbx?HelpFor=Password&TaxType=OPP&FV=T&HT=F');return false;">Forgot Password</a></li>-->
-        <li><a href="#" onclick="showExitPopUp('/taxes/doing_my_taxes/check_status.html');return false;">Check E-file Status</a></li>
-        <li><a href="#" onclick="showExitPopUp('/taxes/doing_my_taxes/refund_status.html');return false;">Where's My Refund</a></li>
-                
-        <!--<li><a href="#" onclick="showExitPopUp('/taxes/products/online/print_prior_year.html');return false;">Print Last Year's Return</a></li>-->
-    </ul>
-</div><!-- end .hd_links_2 -->
-<div class="hd_links_1">
-    <ul>
-        <li><a href="#" onclick="showExitPopUp('/company/index.html');return false;">Company</a></li>
-        <li><a href="#" onclick="showExitPopUp('/career/index.html');return false;">Careers</a></li>
-        <li><a href="#" onclick="showExitPopUp('/taxes/planning/tax_courses/index.html');return false;">Income Tax Course</a></li>
-        <li><a href="#" onclick="showExitPopUp('/presscenter/index.jsp');return false;">Press Center</a></li>
-        <li><a href="#" onclick="showExitPopUp('http://www.hrblock-espanol.com');return false;">En Español</a></li>
-    </ul>
-</div><!-- end .hd_links_1 -->               
 </div><!-- end #header -->
 <div class="main_nav">
 <img src="/images/pixel.gif" class="nav_image" usemap="#Map" align="absmiddle">
 <map name="Map" id="Map">
-    <area shape="rect" coords="608,1,705,36" href="#" onclick="showExitPopUp('/bank/index.html');return false;" alt="Banking">
-    <area shape="rect" coords="491,1,603,36" href="#" onclick="showExitPopUp('/taxes/tax_calculators/index.html');return false;" alt="Calculators">
-    <area shape="rect" coords="389,1,485,36" href="#" onclick="showExitPopUp('/taxes/tax_tips/index.html');return false;" alt="Tax Tips">
-    <area shape="rect" coords="255,1,384,36" href="#" onclick="showExitPopUp('/universal/office_locator.html');return false;" alt="Office Locator">
-    <area shape="rect" coords="140,1,250,36" href="#" onclick="showExitPopUp('/taxes/products/product.jsp?productId=64');return false;" alt="Tax Office">
-    <area shape="rect" coords="1,1,136,36" href="#" onclick="showExitPopUp('/taxes/products/product.jsp?productId=31');return false;" alt="Online Taxes">
-    <area shape="rect" coords="713,1,831,36" href="#" onclick="showExitPopUp('/investments/index.html');return false;" alt="Investments">
-    <area shape="rect" coords="837,1,949,36" href="#" onclick="showExitPopUp('/mortgages/index.html');return false;" alt="Loans">
+    <area shape="rect" coords="856,2,948,35" href="#" onclick="omnitureOnClick('navLocation:hpn','navName:loans');       showExitPopUp('/mortgages/index.html');return false;" title="Loans">
+    <area shape="rect" coords="753,2,852,35" href="#" onclick="omnitureOnClick('navLocation:hpn','navName:bank');        showExitPopUp('/bank/index.html');return false;" title="Banking">
+    <area shape="rect" coords="626,2,749,35" href="#" onclick="omnitureOnClick('navLocation:hpn','navName:investments'); showExitPopUp('/investments/index.html');return false;" title="Investments">
+    <area shape="rect" coords="496,2,622,35" href="#" onclick="omnitureOnClick('navLocation:hpn','navName:emerald');     showExitPopUp('/emerald/index.html');return false;" title="Emerald Card">
+    <area shape="rect" coords="382,2,492,35" href="#" onclick="omnitureOnClick('navLocation:hpn','navName:calculators'); showExitPopUp('/taxes/tax_calculators/index.html');return false;" title="Calculators">
+    <area shape="rect" coords="286,2,378,35" href="#" onclick="omnitureOnClick('navLocation:hpn','navName:tax_tips');    showExitPopUp('/taxes/tax_tips/index.html');return false;" title="Tax Tips">
+    <area shape="rect" coords="183,2,282,35" href="#" onclick="omnitureOnClick('navLocation:hpn','navName:software');    showExitPopUp('/taxes/products/software/index.html');return false;" title="Software">
+    <area shape="rect" coords="96,2,179,35" href="#" onclick="omnitureOnClick('navLocation:hpn','navName:online');      showExitPopUp('/taxes/products/product.jsp?productId=31');return false;" title="Online">
+    <area shape="rect" coords="2,2,92,35" href="#" onclick="omnitureOnClick('navLocation:hpn','navName:office');      showExitPopUp('/taxes/products/product.jsp?productId=64');return false;" title="Offices">
 </map>
 </div>
 
@@ -393,59 +271,118 @@ end visual sciences autocomplete -->
 
         <!-- START POD PRIMARY DIV --> 
         <div class="pod_full_page">
-			<div class="content">
-	            <div class="heading_15">H&amp;R Block Online Privacy Practices and Principles<br><br></div><div class="regularCopy">
-H&amp;R Block offers a wide range of tax and financial services, including tax preparation, mortgages and investment services, through various affiliates and franchisees.  Because we offer a variety of services both online (via the Internet) and throughout H&amp;R Block's nationwide network of offices, H&amp;R Block's privacy practices will vary depending on how you interact with H&amp;R Block.   The following guidelines set forth general privacy principles that apply to our Web site.  When you establish a business relationship with H&amp;R Block, we will make you aware of our privacy practices that apply to that particular business or relationship.<br><br>
-<a href="http://www.truste.org/ivalidate.php?url=www.hrblock.com&amp;sealid=101"><img src="/images/clickseal.gif" alt="TRUSTe: Click to Verify" border="0"></a><br><br>
-We describe below our general practices regarding information collection through our Internet Web site at hrblock.com.   These practices do not apply to our physical offices you may visit for services, and these practices do not apply to specific Web site based relationships you may have with H&amp;R Block Mortgage Corporation, H&amp;R Block Financial Advisors, Inc., H&amp;R Block online tax services, or other affiliates of H&amp;R Block.  Those H&amp;R Block affiliates will provide you with their privacy policies when you enter into a business relationship with them.  You may also visit the Web site of H&amp;R Block Financial Advisors, Inc. at investment-center.hrblock.com for more information.  If you are a user of our digital tax preparation services, you may view the H&amp;R Block Privacy Policy for Digital Tax Services at: <a href="http://www.taxcut.com/privacy/" target="_blank">http://www.taxcut.com/privacy/</a><br><br>
+            <div class="content">
+                <div class="heading_15">
+H&amp;R Block Online Privacy Practices and Principles <br><br></div>
+<div class="regularCopy">
+H&amp;R Block offers a wide range of tax and financial services, including tax preparation, tax planning, banking, and business services through various affiliates and franchisees. Because we offer a variety of services both online (via the Internet) and throughout H&amp;R Block's nationwide network of offices, H&amp;R Block's privacy practices will vary depending on how you interact with H&amp;R Block. The following guidelines set forth general privacy principles that apply to information collected on the www.hrblock.com web site, independent of any particular business relationship you enter into with H&amp;R Block.  If you enter into a business relationship with H&amp;R Block as our customer (such as when you are utilizing our tax preparation software or online tax preparation tools), we will make you aware of the privacy practices that apply to that particular business or relationship.
+<br><br>
+<a href="javascript:WinOpen_('http://www.truste.org/ivalidate.php?url=www.hrblock.com&amp;sealid=101',800,600);">
+<img src="/images/clickseal.gif" alt="TRUSTe: Click to Verify" border="0"></a><br><br>
+These practices do not apply to our physical offices you may visit for services, and these practices do not apply to specific website based relationships you may have with H&amp;R Block Bank, H&amp;R Block Digital LLC (provider of software and online tax preparation tools), or other affiliates of H&amp;R Block. Those H&amp;R Block affiliates will provide you with their privacy notices when you enter into a business relationship with them.  If you are a user of H&amp;R Block's software or online  tax preparation services, you may view the "Privacy Notice for H&amp;R Block Web-based Tax Services and Software" found at 
+<a href="javascript:WinOpen_('http://www.taxcut.com/privacy/',800,600);">http://www.taxcut.com/privacy/</a><br><br>
 
 <b>Information We Collect</b><br><br>
-When you visit hrblock.com, we may collect information about you from the following categories and sources:<br><br>
+When you visit www.hrblock.com, we may collect information about you from the following categories and sources:<br><br>
 <div class="regularCopy">
 <ul class="mainContentArea">
-		<li>Information we receive when you request services, or information from us or companies with whom we have business relationships, enter contests or sweepstakes, or complete surveys or polls, such as your name, address, e-mail address and payment or billing information.<br><br></li>
-		<li>Information you provide when you apply for employment with H&amp;R Block or any of its affiliates.<br><br></li>
-		<li>Web technologies. We may collect information through the following Web technologies:
-		  We utilize a software technology called "cookies". Internet cookies allow us to customize our Website for you by placing small files on your computer as you visit various components of hrblock.com. Through the use of cookies, we can display only those items that may be of interest to you on a particular site, or make it easier for you to access your account information. In most cases, however, information we collect through Internet cookies does not identify you personally.<br><br>
-		  We also employ a software technology called clear gifs (also known as web beacons), that help us better manage content on our site by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  Clear gifs and cookies are not tied to users' personally identifiable information.  <br><br>
-		  Like most standard Web site servers, H&amp;R Block uses log files.  Information collected in log files may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks.  We utilize this information to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use.  When you use certain online tax services, IP addresses are tied to personally identifiable information to enable users to file or transmit tax returns to the Internal Revenue Service. <br><br>
+		<li>Information we receive when you request services, or information from us or companies with whom we have business relationships, enter contests or sweepstakes, or complete surveys or polls, such as your name, address, e-mail address and payment or billing information.</li><br><br>
+		<li>Information to prepare your tax return or for other financial products and services. The collection of this information is governed by the specific privacy policy for the H&amp;R Block business providing these services to you.</li><br><br>
+        <li>Information you provide when you apply for employment with H&amp;R Block or any of its affiliates.</li><br><br>
+        
+		<li>Web technologies. We may collect information through the following Web technologies: We utilize a software technology called "cookies". Internet cookies allow us to customize our Website for you by placing small files on your computer as you visit various components of hrblock.com. Through the use of cookies, we can display only those items that may be of interest to you on a particular site, or make it easier for you to access your account information. In most cases, however, information we collect through Internet cookies does not identify you personally.<br><br>
+		  We also employ a software technology called clear gifs (also known as web beacons), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. Clear gifs and cookies are not tied to user's personally identifiable information. <br><br>
+		 Like most standard Web site servers, H&amp;R Block uses log files. Information collected in log files may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We utilize this information to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. This information is not personally identifiable. When you use certain 
+online tax services, IP addresses are tied to personally identifiable information to enable users to file or transmit tax returns 
+to the Internal Revenue Service. For more information on these technologies - specific to your use of this web site - please 
+click <a href="javascript:WinOpen_('http://www.hrblock.com/universal/privacy_technology_definitions.html',630,420);">Privacy Technology Definitions</a> for a discussion of these terms.<br><br>
 		</li> 
-		<li>When you use calculators and other tools on our Web sites that do not require registration, H&amp;R Block may collect non-identifiable data from such tools, such as the number of people that use a certain tool.  H&amp;R Block may also set cookies or clear gifs based upon your use of tools and calculators to help us customize offers and tools to your particular interests.  H&amp;R Block will not record or track any data you enter into standalone tools and calculators in any way that identifies you personally, unless we specifically inform you that we are doing so at the time you provide such data.<br><br></li>
-		<li> When you use our office locator service, we may collect data such as address or zip code information you provide so that we can better assess the level of interest in our services in a particular area, and the effectiveness of the locator tool at helping clients actually use our services. </li>
 	</ul>
+ 
+The third party service provider we currently use to manage these technologies is Omniture. For more information about the 
+practices of this company or to decline cookies from this third-party ad server you may visit their Web site directly 
+at <a href="javascript:WinOpen_('http://www.omniture.com/privacy/product',800,600);">http://www.omniture.com/privacy/product</a>. 
+In addition, that site also provides information about their privacy policy and opt-out procedure. We may engage different 
+providers to provide similar services from time to time. 
+<ul class="mainContentArea">
+ 	<li>
+When you use calculators and other tools on our Web sites that do not require registration, H&amp;R Block may collect non-identifiable data from such tools, such as the number of people that use a certain tool. H&amp;R Block may also set cookies or clear gifs based upon your use of tools and calculators to help us customize offers and tools to your particular interests. H&amp;R Block will not record or track any data you enter into standalone tools and calculators in any way that identifies you personally, unless we specifically inform you that we are doing so at the time you provide such data.
+    </li><br><br>
+    <li>
+When you use our office locator service, we may collect data such as address or zip code information you provide so that we can better assess the level of interest in our services in a particular area, and the effectiveness of the locator tool at helping clients actually use our services.     
+    </li><br><br>
+ </ul>   
 </div>
 <b>How We May Disclose Your Information </b><br><br>
-H&amp;R Block's disclosure of tax return information we may collect online is addressed in our H&amp;R Privacy Policy for Digital Tax Services, located at <a href="http://www.taxcut.com/privacy/" target="_blank">http://www.taxcut.com/privacy</a>. Tax return information that H&amp;R Block collects from you is controlled by Section 7216 of the Internal Revenue Code, the Gramm Leach Bliley Act of 1999, certain other laws, and H&amp;R Block policies.<br><br>
-For information collected on hrblock.com as described above under "Information We Collect", H&amp;R Block may disclose such information to the following categories of persons:<br><br>
+Tax return information that H&amp;R Block collects from you is controlled by Section 7216 of the Internal Revenue Code, the Gramm 
+Leach Bliley Act of 1999, certain other laws, and H&amp;R Block policies. Any information that is collected from you as part 
+of your customer relationship(s) with H&amp;R Block, either online or through a retail office will be governed by the privacy 
+policy that will be provided to you when you become a customer of the specific H&amp;R Block business. For example, H&amp;R Block's 
+disclosure of tax return information we collect when you use our online tax preparation tools is addressed in our 
+"Privacy Notice for H&amp;R Block Web-based Tax Services and Software" found at <a href="javascript:WinOpen_('http://www.taxcut.com/privacy/',800,600);">www.taxcut.com/privacy</a>.  
+<br><br>
+For information collected on www.hrblock.com (as described above), H&amp;R Block may use and disclose such information to the 
+following categories of persons:
 <div class="regularCopy">
 <ul class="mainContentArea">
-		<li><b>Third Parties.</b>  H&amp;R Block does not share your personal information with non-affiliated third parties for their promotional or marketing uses.</li>
-		<li><b>Affiliates.</b>  H&amp;R Block may provide information it collects to its affiliates.  We disclose information to our affiliates in order to respond to your requests for information or services, or to help limit your receipt of marketing materials you have requested not to receive.</li>
-		<li><b>Service Providers.</b>  H&amp;R Block may disclose information to a service provider in order to perform a service for H&amp;R Block or perform a function on our behalf.  Examples could include sweepstakes administrators that help us manage contests and sweepstakes we offer, or companies that print letters or manage our electronic mail for us.  Service providers will use the information provided to them to perform the requested service as directed by H&amp;R Block.</li>
-		<li><b>Joint Marketing Arrangements.</b>  H&amp;R Block may provide information it collects to joint marketers with whom H&amp;R Block has a marketing arrangement.  For example, H&amp;R Block may enter into agreements with airlines or credit card companies to provide you with "miles" or "points" for visiting the H&amp;R Block Web site or purchasing certain products or services from H&amp;R Block.  In such case, H&amp;R Block would provide identifying information about you to the company in order to credit your account with such "miles" or "points". The joint marketer may use your information for other purposes permitted by law.</li>
-		<li><b>Franchisees.</b>  If you request services in an area served by an H&amp;R Block franchise, or if you enroll in a tax course provided by an H&amp;R Block franchise, H&amp;R Block may disclose your service request or enrollment information to such franchisee.</li>
-		<li><b>Persons Who Acquire Our Assets or Business.</b>   If H&amp;R Block sells or transfers any of its business or assets, certain information about our clients may be a part of that sale or transfer.  In the event of such a sale or transfer, H&amp;R Block will notify you. The notification procedure will be the same as the procedure we use to notify you of a change in our privacy statement as described below.</li>
-		<li><b>Persons Who Request Information for Legal Purposes.</b> We may disclose your information to affiliates or non-affiliated third parties when we have a good faith belief that such disclosure is required by law.  This may occur in connection with a court order, legal process, or other judicial, administrative or investigative proceeding that produces a request for information from H&amp;R Block.</li>
+		<li><b>Uses and Disclosures by H&amp;R Block.</b> Where permitted by law, H&amp;R Block may use the information collected on 
+        this website to make you aware of products and services offered by H&amp;R Block and its affiliated companies. <br><br>
+        </li>
+		<li><b>Third Parties.</b>  We do not share your personal information with non-affiliated third parties for 
+        marketing purposes except as permitted by applicable law or with your consent. We do not sell or rent your 
+        personal information to third party direct marketers.</li><br><br>
+		<li><b>Affiliates.</b> H&amp;R Block may provide information it collects to its affiliates as permitted by law. For example, 
+        we disclose information to our affiliates in order to respond to your requests for information or services, or to help 
+        limit your receipt of marketing materials you have requested not to receive.</li><br><br>
+        <li><b>Service Providers.</b> Where permitted by applicable law, we may disclose your personal information to service providers who perform business functions on our behalf. We require H&amp;R Block service providers to have written contracts that specify appropriate use of your personal information, require them to safeguard your personal information, and prohibit them from making unauthorized or unlawful use of your personal information.
+        </li><br><br>
+		<li><b>Joint Marketing Arrangements.</b> H&amp;R Block may provide information it collects to joint marketers with whom H&amp;R Block has a marketing arrangement. For example, H&amp;R Block may enter into agreements with airlines or credit card companies to provide you with "miles" or "points" for visiting the H&amp;R Block Web site or purchasing certain products or services from H&amp;R Block. In such case, H&amp;R Block would provide identifying information about you to the company in order to credit your account with such "miles" or "points". The joint marketer may use your information for other purposes permitted by law.</li>
+      <br><br> 
+		<li><b>Franchisees.</b> If H&amp;R Block sells or transfers any of its business or assets, certain information about our clients may be a part of that sale or transfer. In the event of such a sale or transfer, H&amp;R Block will notify you. The notification procedure will be the same as the procedure we use to notify you of a change in our privacy statement as described below. </li><br><br>
+        
+		<li><b>Persons Who Acquire Our Assets or Business.</b> If H&amp;R Block sells or transfers any of its business or assets, certain information about our clients may be a part of that sale or transfer. In the event of such a sale or transfer, H&amp;R Block will notify you. The notification procedure will be the same as the procedure we use to notify you of a change in our privacy statement as described below.</li><br><br>
+        
+		<li><b>Persons Who Request Information for Legal Purposes.</b> We may disclose your information to affiliates or non-affiliated third parties when we have a good faith belief that such disclosure is required by law. This may occur in connection with a court order, legal process, or other judicial, administrative or investigative proceeding that produces a request for information from H&amp;R Block.</li><br><br>
 	</ul>
 </div>
-We may disclose aggregate information compiled using your personal information that does not identify you individually or personally.  This may include, for example, the total number of visitors to our Web site from a particular state, or the average age of a user of our Web sites.<br><br>
+We may disclose aggregate information compiled using your personal information that does not identify you individually or personally. This may include, for example, the total number of visitors to our Web site from a particular state, or the average age of a user of our Web sites.<br><br>
 
 <b>Links to Other Web sites and Offers for Third Party Products.</b><br><br>
-H&amp;R Block's Web site may contain links to third party Web sites or offers for services from third parties. For any such third party products or services, you should carefully read the privacy policies of the third parties providing such products or services and any terms and conditions applicable to such products or services.  <br><br>
-H&amp;R Block may also have business relationships with third parties that provide products or services on the H&amp;R Block site.  These companies are clearly indicated on our Web sites.  When you request products or services from such companies, you give H&amp;R Block permission to provide these third parties with personal information about you necessary to fulfill or process your request.  <br><br>
-As an example, we may have special offers for dial-up or broadband internet service on our Web site through a third party provider.  If you click on a link promoting such services you may be linked directly to the third party site or H&amp;R Block may collect and provide information about you to such third party to fulfill your request for such internet services.<br><br>
+
+H&amp;R Block's Web site may contain links to third party Web sites or offers for services from third parties. For any such third party products or services, you should carefully read the privacy policies of the third parties providing such products or services and any terms and conditions applicable to such products or services.<br><br>
+H&amp;R Block may also have business relationships with third parties that provide products or services on the H&amp;R Block site. These companies are clearly indicated on our Web sites. This privacy policy does not apply to products or services offered by a third party. When you request products or services from such companies, you give H&amp;R Block permission to provide these third parties with personal information about you necessary to fulfill or process your request. 
+<br><br>
+As an example, we may have special offers for dial-up or broadband internet service on our Web site through a third party provider. If you click on a link promoting such services you may be linked directly to the third party site or H&amp;R Block may collect and provide information about you to such third party to fulfill your request for such internet services.
+<br><br>
 <b>Children Under Age 13</b><br>
-Because of the financial nature of the services we provide, we do not market our Web site to children under the age of 13. <br><br>
+Because of the financial nature of the services we provide, we do not market our Web site to children under the age of 13, nor 
+do we knowingly collect information from children under the age of 13. 
+<br><br>
 
 <b>Changes to Our Privacy Statement.</b><br><br>
-If we make a material change to this Privacy Statement, including a material change in the way we use your personal information, we will notify you by using one of the following methods at least thirty (30) days prior to the effective date of such change: (1) we will post a notice on our Web site describing the change; or (2) we will send you electronic mail notifying you of the change. <br><br>
-<b>Updating your Information: </b> Most of the information we collect as described in this Privacy Statement either does not identify you personally or is not stored in an online accessible format.  If you obtain online tax preparation services from H&amp;R Block and wish to update your information or limit your receipt of promotional materials from H&amp;R Block, please see the "How You May Opt-Out of Information Sharing or Otherwise Control Use of Your Information" section of our Digital Tax privacy policy at <a href="http://www.taxcut.com/privacy/" target="_blank">http://www.taxcut.com/privacy</a>.  Other affiliates of H&amp;R Block may also have their own procedures for limiting communications from them.  The user will need to directly contact the affiliate that they are working with in order to update their information or modify their communication preferences.<br><br>
+If we make a material change to the "H&amp;R Block Online Privacy Practices and Principles", including a material change in the way we use any personal information collected on www.hrblock.com, we will notify you by using one of the following methods at least thirty (30) days prior to the effective date of such change: (1) we will post a notice on our Web site describing the change; or (2) we will send you electronic mail notifying you of the change. 
+<br><br>
+<b>Updating your Information: </b>
+Much of the information we collect as described in this privacy notice either does not identify you personally or is not stored 
+in an online accessible format. If you obtain online tax preparation services from H&amp;R Block and wish to update your 
+information or limit your receipt of promotional materials from H&amp;R Block, please see the "How You May Opt-Out of 
+Information Sharing or Otherwise Control Use of Your Information" section of our "Privacy Notice for H&amp;R Block Web-based 
+Tax Services and Software" found at privacy policy at <a href="javascript:WinOpen_('http://www.taxcut.com/privacy',800,600);">www.taxcut.com/privacy</a>. Other affiliates of H&amp;R Block 
+may also have their own procedures for limiting communications from them. You will need to directly contact the affiliate that 
+they are working with in order to update their information or modify their communication preferences.
+<br><br>
 <b>Contacting Us With Questions</b> <br><br>
-If you have questions or concerns regarding this privacy policy, contact H&amp;R Block by clicking <a href="/universal/privacy_contact.html">here</a>.  If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed within fifteen (15) business days, you may then contact TRUSTe at <a href="http://www.truste.org/consumers/watchdog_complaint.php">http://www.truste.org/consumers/watchdog_complaint.php</a>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.<br><br>
-H&amp;R Block is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. The TRUSTe program covers only information that is collected through the H&amp;R Block Web site and does not cover information you provide in connection with transactions with H&amp;R Block Financial Advisors, Inc., H&amp;R Block Mortgage Corporation, other H&amp;R Block affiliates or information that may be collected through H&amp;R Block software, such as TaxCut® or H&amp;R Block DeductionPro software. <br><br>
-Updated: 12/13/2006<br>
-© 2006 H&amp;R Block e-solutions, a division of Block Financial Corporation.  All rights reserved.<br><br></div>
-	        </div>
+If you have questions or concerns regarding this privacy policy, contact H&amp;R Block by clicking <a href="/universal/privacy_contact.html">here</a>. If you do not 
+receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed within fifteen (15) business 
+days, you may then contact TRUSTe at <a href="javascript:WinOpen_('http://www.truste.org/consumers/watchdog_complaint.php',800,600);">http://www.truste.org/consumers/watchdog_complaint.php</a>. TRUSTe will then serve as a 
+liaison with the Web site to resolve your concerns.
+<br><br>
+H&amp;R Block is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. The TRUSTe program covers only information that is collected through the H&amp;R Block Web site and does not cover information you provide in connection with transactions H&amp;R Block affiliates or information that may be collected through your use of our software or online tax preparation tools.  
+<br><br>
+Updated: 11/13/2008<br>
+© 2008 H&amp;R Block All rights reserved.<br><br>
+</div> 
+            </div>
         </div>                 
     
 
@@ -463,6 +400,89 @@ Updated: 12/13/2006<br>
  
 </div> 
 <!-- end mainContentArea div -->
+
+<!-- START FOOTER DIV -->
+<div>
+  
+    <noindex>
+
+<div class="secondaryNavContainer" id="divSecondaryNavContainer">
+    <div class="secondaryNavTabs">
+        <a href="/career/index.html" onclick="footerOnClick('navLocation:fpn','navName:careers');showExitPopUp('/career/index.html');return false;" title="Careers">Careers</a>
+        <span class="secNavOptionDivider">|</span>
+        <a href="/company/index.html" onclick="footerOnClick('navLocation:fpn','navName:company');showExitPopUp('/company/index.html');return false;" title="Company">Company</a>
+        <span class="secNavOptionDivider">|</span>
+        <a href="/customer_support/index.html" onclick="footerOnClick('navLocation:fpn','navName:customer_support');showExitPopUp('/customer_support/index.html');return false;" title="Customer Support">Customer Support</a>
+        <span class="secNavOptionDivider">|</span>
+        <a href="http://digits.hrblock.com" onclick="footerOnClick('navLocation:fpn','navName:digits');location.href='http://digits.hrblock.com';return false;" title="Digits Community">Digits Community</a>
+        <span class="secNavOptionDivider">|</span>
+        <a href="/espanol/index.html" onclick="footerOnClick('navLocation:fpn','navName:en_espanol');showExitPopUp('/espanol/index.html');return false;" title="En Español"><span style="color: #ff7200">En Español</span></a>
+        <span class="secNavOptionDivider">|</span>
+        <a href="/company/tax_franchise/index.html" onclick="footerOnClick('navLocation:fpn','navName:franchises');showExitPopUp('/company/tax_franchise/index.html');return false;" title="Franchises">Franchises</a>
+        <span class="secNavOptionDivider">|</span>
+        <a href="/taxes/planning/tax_courses/index.html" onclick="footerOnClick('navLocation:fpn','navName:income_tax_course');showExitPopUp('/taxes/planning/tax_courses/index.html');return false;" title="Income Tax Course">Income Tax Course</a>
+        <span class="secNavOptionDivider">|</span>
+        <a href="/presscenter/index.jsp" onclick="footerOnClick('navLocation:fpn','navName:press_center');showExitPopUp('/presscenter/index.jsp');return false;" title="Press Center">Press Center</a>
+    </div>
+</div>
+
+<div class="clearfix"></div>
+
+<div id="footer">
+    <p>
+
+    <br><br>
+    <br><br>
+
+    Copyright © <script language="javascript">var now = new Date();document.write(now.getFullYear());</script>2020 HRB Digital LLC. All Rights Reserved. <br>
+    At H&amp;R Block your satisfaction is guaranteed.
+
+    <br>
+
+    <a href="/universal/terms.html" onclick="footerOnClick('navLocation:f','navName:legal');             showExitPopUp('/universal/terms.html');return false;" title="Legal">Legal</a> |
+    <a href="/universal/privacy_policy.html" onclick="footerOnClick('navLocation:f','navName:privacy_statement'); showExitPopUp('/universal/privacy_policy.html');return false;" title="Privacy Statement">Privacy Statement</a> |
+    <a href="/taxes_site_index.html" onclick="footerOnClick('navLocation:f','navName:site_map');          showExitPopUp('/taxes_site_index.html');return false;" title="Site Map">Site Map</a> 
+
+    <br><br>
+
+    The products and services on this website may be covered by one or more of the following<br>U.S. Patents: 5,706,442; 6,014,645; 6,131,115; 7,010,507;
+    
+    7,032,008; 7,072,862; 7,127,425; 7,177,829; 7,310,617; 7,296,065.
+
+    <br><br>
+    <script type="text/javascript">
+        try
+        {
+            var obj = actb(document.getElementById('searchText'));
+        }
+        catch (e)
+        {
+            // not all pages have searchText element
+        }
+
+        function footerOnClick(navLoc, navName)
+        {
+            // not all pages include header_init_hrb_xxxx.js where the omnitureOnClick() function is defined so
+            // use a try catch block to those situations
+            try
+            {
+                omnitureOnClick(navLoc, navName);
+            }
+            catch (e)
+            {
+                // no action
+            }
+        }
+    </script>
+
+    </p><div class="ft_efile_logo"></div>
+
+    <p></p>
+</div><!-- end #footer -->
+</noindex>
+
+</div>
+<!-- END FOOTER DIV -->
 
 <script type="text/javascript">
 // account information captured in template for omniture reporting
@@ -490,7 +510,8 @@ var omni_eVar12     = "hrblock";
 </script>
 
   
-    <!-- SiteCatalyst code version: H.7.  -->
+    <div style="display:none">
+<!-- SiteCatalyst code version: H.7.  -->
 <!-- Copyright 1997-2006 Omniture, Inc. More info available at  -->
 <!-- http://www.omniture.com -->
 <!-- Specify the Report Suite ID(s) to track here  -->
@@ -1005,62 +1026,8 @@ catch (e)
 </script>
 
 <!-- End SiteCatalyst code version: H.7. -->
+</div> <!-- end div to prevent omniture pixels from affecting page layout -->
 
-
-
-<!-- START FOOTER DIV -->
-<div>
-  
-    <noindex> 
-<div id="footer">   
-    <p>
-    <a href="/index.html">Home</a> | 
-    <a href="/investments/index.html">H&amp;R Block Financial Advisors</a> | 
-    <a href="/bank/index.html">H&amp;R Block Bank</a> |  
-    <a href="/career/index.html">H&amp;R Block Careers</a> | 
-    <a href="/company/index.html">About H&amp;R Block</a> | 
-    <a href="/taxes/products/product.jsp?productId=31">Taxes Online</a> | 
-    <a href="/taxes/products/product.jsp?productId=64">Tax Office Services</a>     
-    <br>
-    <a href="/taxes/tax_tips/index.html">Tax Advice</a> |
-    <a href="/universal/privacy_policy.html">Privacy Statement</a> | 
-    <a href="/taxes/planning/tax_courses/index.html">Income Tax Course</a> | 
-    <a href="/universal/terms.html">Legal</a> | 
-    <a href="http://digits.hrblock.com/">Digits</a> | 
-    <a href="//www.taxcut.com/index.html">TaxCut Software</a> | 
-    <a href="/taxes/doing_my_taxes/check_status.html">E-file</a> | 
-    <a href="/customer_support/index.html">Customer Support</a>
-    <br>
-    <a href="/irs/index.html">IRS Information</a> | 
-    <a href="/presscenter/index.jsp">H&amp;R Block Press Center</a> | 
-    <a href="http://www.hrblock-espanol.com" target="_blank">En Español</a> |
-    <a href="/company/tax_franchise/index.html">Franchise Opportunities</a> | 
-    <a href="/taxes_site_index.html">Site Map</a>
-    <br>
-    <a href="javascript:WinOpen_('http://www.surveymonkey.com/s.aspx?sm=QAjmw9cKCi29MFKVu8TPRg_3d_3d',672,595);">Take Our Survey</a>
-    
-
-    <br><br>
-
-    Copyright © <script language="javascript">var now = new Date();document.write(now.getFullYear());</script>2020 H&amp;R Block. All Rights Reserved. At H&amp;R Block your satisfaction is guaranteed.
-
-    <br><br>
-
-    H&amp;R Block and/or its affiliates own the following U.S. Patents: 5,706,442; 6,014,645; 6,131,115; 7,010,507;
-    <br>
-    7,032,008; 7,072,862; 7,127,425; 7,177,829; 7,310,617; 7,296,065. The products and services on this website may be covered by one 
-    or more of these patents.
-
-    <br><br>
-
-    </p><div class="ft_efile_logo"></div>
-
-    <p></p>
-</div><!-- end #footer -->  
-</noindex>
-
-</div>
-<!-- END FOOTER DIV -->
 
 </div> <!-- end container -->
 
