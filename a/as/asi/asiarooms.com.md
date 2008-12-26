@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiarooms.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526114627id_/http%3A//www.asiarooms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiarooms.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226025602id_/http%3A//www.asiarooms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Asiarooms_new.com - Hotel reservation online
 
@@ -24,7 +24,7 @@ AsiaRooms.com does not sell, rent, or give away your personal information to any
 
 **What about my credit card number?**
 
-When it comes to filling in the online reservation form, you might be worried about your credit card. All transaction related information will be passed on to the trusted financial institution, and we do NOT maintain in our server all or part of your financial information, including but not limited to, your credit card name, number and expiry date.
+When it comes to filling in the online reservation form, you might be worried about your credit card. All transaction related information will only be passed through an encrypted gateway trusted financial instituation solely for the purpose of payment processing. After the payment is processed, in accordance with PCI regulations, all personal information regarding your credit card details is scranbled and prohibited from future unauthorised access..
 
 **What is AsiaRooms.com doing to protect my privacy?**
 
