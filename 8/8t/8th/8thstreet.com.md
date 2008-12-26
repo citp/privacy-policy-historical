@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8thstreet.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510093246id_/http%3A//www.8thstreet.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8thstreet.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226053222id_/http%3A//www.8thstreet.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # 8th Street Music - Online Music Superstore - Recording, MIDI, Pro Audio, Guitars, Accessories and more...
 
@@ -25,5 +25,5 @@ For each visitor to our site, the web server may recognize and collect the visit
 **_Children_**  
 8th Street Music does not sell products online to children under 18-years of age. Children can register with the site and receive newsletters and promotions, but should only do so with adult supervision. 
 
-If you have any questions or comments regarding our Privacy Statement, please send an e-mail to [**comments@8thstreet.com**](mailto:comments@8thstreet.com)  
+If you have any questions or comments regarding our Privacy Statement, please send an e-mail to [**customerservice@8thstreet.com**](mailto:customerservice@8thstreet.com)  
 
