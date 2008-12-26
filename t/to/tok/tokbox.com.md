@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokbox.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617052432id_/http%3A//www.tokbox.com/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokbox.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226021918id_/http%3A//www.tokbox.com/view/privacy) for the most accurate reproduction.*
 
 # TokBox Privacy Policy
 
@@ -53,3 +53,5 @@ From time to time we may make changes to our privacy policy. If we make changes,
 ### Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us in writing by visiting our Contact page. 
+
+### Using Our Logos
