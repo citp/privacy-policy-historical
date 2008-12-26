@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revou.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625005457id_/http%3A//www.revou.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revou.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226014302id_/http%3A//www.revou.com/privacy.php) for the most accurate reproduction.*
 
 # Twitter clone PHP social networking script. Micro blogging social network software - IM/SMS/Web. Start your own site just like twitter and jaiku.
 
@@ -26,17 +26,51 @@ Similar to other commercial web sites, our web site utilizes a standard technolo
 Contacting REVOU  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can us at:
 
-April 02 2008
+Dec 18, 2008
 
-Twatr.net: Adult Twitter clone receives **2 million** euro funding round and could be the next Redtube. Twatr.net is trying to keep a low profile but according to the founders it’s basically a Twitter for adults. The site is SFW right now and they’re building out HD video and image streaming/sharing along with some impressive audio features for those who might be afraid to bare it all.
+[ Why is Twitter an indispensable tool not only for you but...](http://blog.revou.com/2008/12/18/why-is-twitter-an-indispensable-tool-not-only-for-you-but-also-for-companies-who-are-reaching-out-to-consumers/)
 
-Mar 06  2008
+Dec 15, 2008
 
-**Twitter Clone software made Affordable.** From now till 30th of April, ReVou is offering a special product launch discount of  **20%**. Take advantage of this offer now before it ends! Place your **[order](https://web.archive.org/web/20080625005457id_/http%3A//www.revou.com/demo.php)** now.
+[ December Promo: $100 off for ReVou Software](http://blog.revou.com/2008/12/15/december-promo-100-off-for-revou-software/)
 
-Mar 01 2008
+Oct 10, 2008
 
-ReVou.com is proud to announce the release of our first version of ReVou Micro Blogging software, a twitter clone script that allows you to start your own twitter and jaiku social networking site.
+[ The ultimate race for Twitter Enterprise continues](http://blog.revou.com/2008/10/09/the-ultimate-race-for-twitter-enterprise/)
+
+Sep 29, 2008
+
+[ New group addon, new price](http://blog.revou.com/2008/09/28/new-group-addon-new-price/)
+
+Sep 11, 2008
+
+[Who says Twitter can’t have any business model?](http://blog.revou.com/2008/09/11/who-says-twitter-cant-have-any-business-model/)
+
+Aug 07, 2008
+
+[ ReVou now supports Twitter posting](http://blog.revou.com/2008/08/07/revou-now-supports-twitter-posting/)
+
+Aug 07, 2008
+
+[ Twitter meets Yahoo Answers, cool or not?](http://blog.revou.com/2008/08/07/twitter-meets-yahoo-answers-cool-or-not/)
+
+July 24, 2008
+
+[ Multi-Language Support ](http://blog.revou.com/2008/07/24/multi-language-support-for-revou/) [ for ReVou](http://blog.revou.com/2008/07/24/multi-language-supoprt-for-revou/)
+
+July 3, 2008
+
+[ In search for language translators for ReVou](http://blog.revou.com/2008/07/03/in-search-for-language-translators-for-revou/)
+
+July 1, 2008  
+[ Why should you run your own Twitter clone site?](http://blog.revou.com/2008/07/01/not_another_twitter_clone_site/)
+
+June 25, 2008
+
+[ Making Money with your twitter clone site: Part 1](http://blog.revou.com/2008/06/25/making-money-with-your-twitter-clone-site-part-1/)
+
+June 20, 2008  
+[ Looking for affordable host that supports ReVou software?](http://blog.revou.com/2008/06/20/looking-for-affordable-host-that-supports-revou-software/)
 
   
  
