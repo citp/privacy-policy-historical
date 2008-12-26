@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the schweser.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510132803id_/http%3A//www.schweser.com/help/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schweser.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226023447id_/http%3A//www.schweser.com/help/privacypolicy.php) for the most accurate reproduction.*
 
-# CFA Exam Review, Prep, Study Program, Chartered Financial Analyst, CFA Institute, Curriculum :: Schweser, Your Partner in Financial Education
+# CFA, CFP, CPA, CAIA, FRM, CLU, ChFC, CASL, CPCU Exam Prep and Review Solutions - Schweser.com
 
+  
 | 
 
 ## Privacy Policy
@@ -66,7 +67,7 @@ The use of cookies is common in the Internet industry; you'll find them used on 
 
 Cookies allow us to personalize and enhance your schweser.com experience. They help us store and save information so that you're not constantly re-typing things like your occupation and interests, or your password; we also use cookies to deliver customized information that relates directly to your area (school) of interest. As a result, if you decline a cookie, you will have difficulty using the schweser.com site. If you disable cookies via your browser preferences, some features of our website won't work properly or may be considerably slower for you.
 
-We never use cookies to retrieve information From your computer that we didn't originally send you in cookie form. Except as described below, we don't use information transferred through cookies for any promotional or marketing purposes, nor do we share that information with any third party. Further, a cookie will not permit a website operator to learn any personally identifying information about you, such as your real name or address, unless you have previously provided that information to the website operator or you have set your browser to provide this information.
+We never use cookies to retrieve information from your computer that we didn't originally send you in cookie form. Except as described below, we don't use information transferred through cookies for any promotional or marketing purposes, nor do we share that information with any third party. Further, a cookie will not permit a website operator to learn any personally identifying information about you, such as your real name or address, unless you have previously provided that information to the website operator or you have set your browser to provide this information.
 
 At our site you may get cookies from our advertisers or sponsors. We do not control these cookies.
 
@@ -131,7 +132,7 @@ Information you provide at the time of registration (if you are 13 or older) may
 If you wish to terminate your relationship with us and wish for us to eliminate your information from our database, please contact our Privacy Policy Coordinator at [online@schweser.com](mailto:online@schweser.com?subject=Privacy%20Policy%20-%20Terminate%20Account) and provide your account name (your email address) and schweser.com password. 
 
   11. **Contact Us**  
-If you have questions or concerns regarding this privacy statement, you should contact the company via our [contact page](https://web.archive.org/web/20080510132803id_/http%3A//www.schweser.com/help/contact_us.php?PHPSESSID=6c38cca4d6d0d4e73f41f6be4c5c0eb5). 
+If you have questions or concerns regarding this privacy statement, you should contact the company via our [contact page](https://web.archive.org/web/20081226023447id_/http%3A//www.schweser.com/help/contact_us.php). 
   12. **Your Acceptance of These Terms**  
 By using this website, you signify your consent to schweser.com's Privacy Policy. If you do not agree to this, please do not use our websites or services. Your continued use of our websites or services following the posting of changes to these terms will mean you accept those changes in accordance with the Terms of Use.
 
