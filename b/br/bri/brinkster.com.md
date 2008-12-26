@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brinkster.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531152119id_/http%3A//www.brinkster.com/AboutUs/PrivacyStatement7-13-04.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brinkster.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226025321id_/http%3A//www.brinkster.com/AboutUs/PrivacyStatement7-13-04.aspx) for the most accurate reproduction.*
 
-# Web Hosting, Free Web Site Builder & Domain Name, Web Hosting Made Easy By Brinkster
+# Learn About Brinkster Communications Corporation
 
 **PRIVACY POLICY**
 
@@ -32,7 +32,3 @@ We may use an outside ad company to display ads on our site. These ads may conta
 
 **Contacting the Web Site  
 **If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [info@brinkster.com](mailto:info@brinkster.com). 
-
-|   
-  
----|---
