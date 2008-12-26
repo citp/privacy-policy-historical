@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the honoluluadvertiser.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210120555id_/http%3A//www.honoluluadvertiser.com/apps/pbcs.dll/section%3FCategory%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honoluluadvertiser.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226103810id_/http%3A//www.honoluluadvertiser.com/apps/pbcs.dll/section%3FCategory%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Customer Service - The Honolulu Advertiser
+# HonoluluAdvertiser.com | Honolulu privacypolicy | The Honolulu Advertiser
 
 Effective Date: March 2007
 
@@ -64,3 +64,5 @@ Online Privacy Coordinator
 Newspaper Division  
 7950 Jones Branch Drive  
 McLean, VA 22107
+
+|  | 
