@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertclick.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608173823id_/http%3A//www.expertclick.com/default.cfm%3FAction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertclick.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226092332id_/http%3A//www.expertclick.com/default.cfm%3FAction%3Dprivacy) for the most accurate reproduction.*
 
 # Directory Of Experts - News Media Resource: Press Release Distribution and Journalist News Sources
 
@@ -6,7 +6,7 @@
 
 This site is operated by Broadcast Interview Source (Broadcast Interview Source is referred to herein as "we" or "us"). We respect the privacy of visitors to our site. Please read this Privacy Policy carefully so that you understand our privacy practices. 
 
-Questions regarding privacy issues should be directed to us at Info@ExpertClick.com. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with our site or to access those features that require registration. 
+Questions regarding privacy issues should be directed to us at ExpertClick@gmail.com. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with our site or to access those features that require registration. 
 
 The information gathered by us falls into two categories: (1) information voluntarily supplied by visitors to our website who either register to receive News Release Wire emails or to submit news release postings for display on the site, and (2) tracking information gathered as visitors navigate through our site. Third party service providers on, or linked to from, our website, such as vendors of products and services offered through our site, may be gathering the same kinds of information. 
 
