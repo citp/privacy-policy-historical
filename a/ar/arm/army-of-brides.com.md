@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the army-of-brides.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611034938id_/http%3A//www.army-of-brides.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the army-of-brides.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226032827id_/http%3A//www.army-of-brides.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Information for www.army-of-brides.com
 
