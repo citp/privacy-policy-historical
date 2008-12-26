@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the developersummit.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516080014id_/http%3A//www.developersummit.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the developersummit.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226211154id_/http%3A//www.developersummit.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Great Indian Developer Summit :: Conference, Expo, and Awards on Java, .NET, Rich Web :: Saltmarch Media Summits
 
-  
-
-
 ##### Your privacy is extremely important to us. This page outlines the steps that we have undertaken to protect it.
-
-  
-
 
 ##### Data we collect and its use
 
@@ -21,9 +15,6 @@ Subscriptions and issue purchases—If you subscribe to any of our magazines, we
 At all times, we may use the information we collect to improve the services that we provide you. This may require that we share the information you have provided us with a third-party research firm; we will only do so after requiring that the third-party research firm adhere to the terms of this Privacy Policy and that the third-party research firm never share or resell the information with third parties for commercial purposes.
 
 ##### You must be older than 13 in order to be able to use this website.
-
-  
-
 
 ##### Cookies
 
