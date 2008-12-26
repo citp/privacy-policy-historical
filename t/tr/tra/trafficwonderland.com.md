@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficwonderland.com privacy policy that was archived on 2008-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080401053101id_/http%3A//www.trafficwonderland.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficwonderland.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226135810id_/http%3A//trafficwonderland.com/privacy.php) for the most accurate reproduction.*
 
 # TrafficWonderland Manual Traffic Exchange | Free Traffic - Free Advertising | Can Your Site Handle The Bandwidth
 
@@ -28,6 +28,6 @@ We may send the user site and service announcement updates. We communicate with 
 **  
 If we decide to change our Privacy Policy we will notify our members by way of an email. The members can then decide if they wish to continue their membership based on the new policy or remove their accounts.
 
-[](http://www.trafficwonderland.com/click.php?banid=73)
+[](http://www.trafficwonderland.com/click.php?banid=2440)
 
-Feature Links: [**Growing by leaps + bounds**](http://www.trafficwonderland.com/click.php?linkid=73)
+Feature Links: [**Clickbank: $6,349 per Day?**](http://www.trafficwonderland.com/click.php?linkid=1645)
