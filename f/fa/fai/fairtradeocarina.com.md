@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the fairtradeocarina.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606005533id_/http%3A//punkuperu.com/home/privacy-security.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairtradeocarina.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226223421id_/http%3A//punkuperu.com/home/privacy-security.php) for the most accurate reproduction.*
 
 # Punku Peru - Privacy and Security Policy
 
 |  |  |   
 ---  
-| [Find a Retail Location ](https://web.archive.org/web/20080606005533id_/http%3A//punkuperu.com/home/findretaillocation.php) |   
+[](https://web.archive.org/web/20081226223421id_/http%3A//punkuperu.com/home/index.php)  
+|  | [Find a Retail Location ](https://web.archive.org/web/20081226223421id_/http%3A//punkuperu.com/home/findretaillocation.php) |   
 ---|---  
-| [Punku in the Press ](https://web.archive.org/web/20080606005533id_/http%3A//punkuperu.com/home/punkuinthepress.php) |   
+| [Punku in the Press ](https://web.archive.org/web/20081226223421id_/http%3A//punkuperu.com/home/punkuinthepress.php) |   
 ---|---  
-| [Find Punku in next Events ](https://web.archive.org/web/20080606005533id_/http%3A//punkuperu.com/home/nextevents.php) |   
+| [Find Punku in next Events ](https://web.archive.org/web/20081226223421id_/http%3A//punkuperu.com/home/nextevents.php) |   
 ---|---  
-|  |   
+   
+|   
 ---  
 | Hundred of Fair Trade  
 ---  
@@ -19,30 +21,34 @@
 [](http://punkuperu.com/catalog)  
 |   
 ---  
-| [](https://web.archive.org/web/20080606005533id_/http%3A//punkuperu.com/home/fairtrade.php)  
+| [](https://web.archive.org/web/20081226223421id_/http%3A//punkuperu.com/home/fairtrade.php)  
 ---  
 |  | Find useful info about Fair   
 ---  
 Trade, certifications, links   
-and media coverage.  [GO](https://web.archive.org/web/20080606005533id_/http%3A//punkuperu.com/home/fairtrade.php)  
-What is a Fair Trade?   
+and media coverage.  [GO](https://web.archive.org/web/20081226223421id_/http%3A//punkuperu.com/home/fairtrade.php)  
+What is Fair Trade?   
 Fair Trade is an organized social and commercial movement aiming to offer better trading conditions to marginalized groups of farmers, and artisans in developing countries.  
-|   
+| [](https://web.archive.org/web/20081226223421id_/http%3A//punkuperu.com/home/responsibletourism.php)  
 ---  
-[](https://web.archive.org/web/20080606005533id_/http%3A//punkuperu.com/home/responsibletourism.php)  
-|  |  |  |    
+  
+| Visit the Artisans we whom  
 ---  
-   
-| [Contact Us ](https://web.archive.org/web/20080606005533id_/http%3A//punkuperu.com/home/contactus.php)  
+we work. We organize trips!  
+[](https://web.archive.org/web/20081226223421id_/http%3A//punkuperu.com/home/responsibletourism.php)  
+  
+|  |  |  |   
+  
+---  
+| [Contact Us ](https://web.archive.org/web/20081226223421id_/http%3A//punkuperu.com/home/contactus.php)  
 ---  
 | Languages:  
 ---  
-| [English](https://web.archive.org/web/20080606005533id_/http%3A//punkuperu.com/home/index.php) |  | [Français](https://web.archive.org/web/20080606005533id_/http%3A//punkuperu.com/home/francais/index.php) |   
+| [English](https://web.archive.org/web/20081226223421id_/http%3A//punkuperu.com/home/index.php) |  | [Français](https://web.archive.org/web/20081226223421id_/http%3A//punkuperu.com/home/francais/index.php) |   
 ---|---|---|---  
-|  | [](https://web.archive.org/web/20080606005533id_/http%3A//punkuperu.com/home/index.php) |  | [](https://web.archive.org/web/20080606005533id_/http%3A//punkuperu.com/home/mision-story.php) |  | [](https://web.archive.org/web/20080606005533id_/http%3A//punkuperu.com/home/productinfo.php)[](https://web.archive.org/web/20080606005533id_/http%3A//punkuperu.com/home/productinfo.php) |  | [](https://web.archive.org/web/20080606005533id_/http%3A//punkuperu.com/home/wholesalecenter.php) |  | [](https://web.archive.org/web/20080606005533id_/http%3A//punkuperu.com/home/producerstories.php) |  | [](http://punkuperu.com/catalog)  
+|  | [](https://web.archive.org/web/20081226223421id_/http%3A//punkuperu.com/home/index.php) |  | [](https://web.archive.org/web/20081226223421id_/http%3A//punkuperu.com/home/mision-story.php) |  | [](https://web.archive.org/web/20081226223421id_/http%3A//punkuperu.com/home/productinfo.php) |  | [](https://web.archive.org/web/20081226223421id_/http%3A//punkuperu.com/home/producerstories.php) |  | [](https://web.archive.org/web/20081226223421id_/http%3A//punkuperu.com/home/wholesalecenter.php) |  | [](https://web.archive.org/web/20081226223421id_/http%3A//punkuperu.com/home/importcenter.php)  
 ---|---|---|---|---|---|---|---|---|---|---  
-|    
----  
+   
 | Privacy and Security Policy  
 ---  
    
@@ -111,12 +117,11 @@ your account information.
    
    
    
-| [Home](https://web.archive.org/web/20080606005533id_/http%3A//punkuperu.com/home/index.php) | [Contact Us](https://web.archive.org/web/20080606005533id_/http%3A//punkuperu.com/home/contactus.php) | [Privacy and Security ](https://web.archive.org/web/20080606005533id_/http%3A//punkuperu.com/home/privacy-security.php)| [Condition of Use ](https://web.archive.org/web/20080606005533id_/http%3A//punkuperu.com/home/conditionsofuse.php)  
+|    
 ---  
-   
+[Home](https://web.archive.org/web/20081226223421id_/http%3A//punkuperu.com/home/index.php) | [Contact Us](https://web.archive.org/web/20081226223421id_/http%3A//punkuperu.com/home/contactus.php) | [Privacy and Security ](https://web.archive.org/web/20081226223421id_/http%3A//punkuperu.com/home/privacy-security.php)| [Condition of Use ](https://web.archive.org/web/20081226223421id_/http%3A//punkuperu.com/home/conditionsofuse.php)  
   |    
-   
-   
+  
 |   
 ---  
    
