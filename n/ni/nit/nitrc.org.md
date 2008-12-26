@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitrc.org privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213143009id_/http%3A//nitrc.org/include/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitrc.org privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226035850id_/http%3A//www.nitrc.org/include/privacy.php) for the most accurate reproduction.*
 
 # NITRC: Privacy
 
@@ -21,3 +21,5 @@ To protect your privacy, be sure to close your browser completely after you have
 Questions about NITRC privacy policies should be sent to [nitrcinfo@nitrc.org](mailto:nitrcinfo@nitrc.org). 
 
 Adapted from: [National Institutes of Health](http://www.nih.gov/about/privacy.htm) Web site
+
+* * *
