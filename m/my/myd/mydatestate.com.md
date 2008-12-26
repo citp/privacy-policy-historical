@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydatestate.com privacy policy that was archived on 2008-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080207131331id_/http%3A//www.mydatestate.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydatestate.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226115633id_/http%3A//www.mydatestate.com/privacy.php) for the most accurate reproduction.*
 
 # MyDateState.com – The Online Dating Service
 
