@@ -1,32 +1,57 @@
-<!--The following is the downloaded HTML source of the homethinking.com privacy policy that was archived on 2008-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080519221200id_/http%3A//www.homethinking.com/privacy-policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the homethinking.com privacy policy that was archived on 2008-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081226211425id_/http%3A//www.homethinking.com/privacy-policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Real Estate Agents &amp; Brokers - Reviews &amp; Ratings - Homethinking</title>
-
-<link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon">
-
-  <meta name="description" content="Homethinking helps you find the best real estate agent and brokers to sell your home with by showing you what each agent has done in the past and what customers have said about the job they did.">
-  <meta name="keywords" content="real estate agents, real estate broker, homethinking">
-
-<link rel="stylesheet" type="text/css" media="screen" href="/ui/style/main_narrow.css" id="narrow" title="narrow">
-
-<script language="javascript">
-  contextPath = "";
-</script>
-<script language="javascript" type="text/javascript" src="/ui/script/homethinking.js"></script>
-
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Real Estate Agents Dashboard - Homethinking</title>
+	<style type="text/css">
+		@import "/ui/css/reset.css";
+		@import "/ui/css/console.css";
+		@import "/ui/css/footer_v2.css";
+		@import "/ib/css/table.css";
+		@import "/ui/css/ht_form.css";
+	</style>
+	<script type="text/javascript" src="/ui/js/jquery_1.2.3.p.js"></script>
+	<script type="text/javascript" src="/ui/js/validate.js"></script>
+	<script type="text/javascript" src="/ui/js/maskedinput.js"></script>
+	<script type="text/javascript" src="/ui/js/dimensions.js"></script>
+	<script type="text/javascript" src="/ui/js/accordion.js"></script>
+	<script type="text/javascript" src="/ui/js/star_rating.js"></script>
+	<script type="text/javascript" src="/ui/js/MetaData.js"></script>
+	<script type="text/javascript">
+	$(document).ready(function(){
+	    $("#main_nav .left li").hover(
+	        function(){ $("ul", this).fadeIn("fast"); }, 
+	        function() { } 
+	    );
+	    if (document.all) {
+	        $("#main_nav .left li").hoverClass ("sfHover");
+	    }
+	});
+	
+	$.fn.hoverClass = function(c) {
+	    return this.each(function(){
+	        $(this).hover( 
+	            function() { $(this).addClass(c);  },
+	            function() { $(this).removeClass(c); }
+	        );
+	    });
+	};
+	</script>
+	
+	<link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon">
 </head>
+<body>
+<div id="container">
+  <div id="header">
+    <div class="clearfix">
+      <div class="logo"> <a href="/"><img src="/ui/img/ht_logo_paleBg.jpg"></a></div>
+       <div id="main_nav" class="main_nav"></div>	
+    </div>
+  </div>
 
-<body class="home">
-
-<div id="topbare">
-  <h1 class="bare"><a href="/"><i>Homethinking</i></a></h1>
-</div>
-
-
-  <meta name="decorator" content="barebones">
+	
+	<meta name="decorator" content="barebones">
 <div id="navigation"><div class="width">
 	<h2>Privacy Policy</h2>
 </div></div>
@@ -65,28 +90,24 @@
 
 </div></div>
 
-<div id="footer">
-  <div id="bottomNav">
-    <ul>
-      <li class="first"><a href="/">Home</a></li>
-      <li><a href="/about.jsp" rel="nofollow">About</a></li>
-      <li><a href="/contact.jsp" rel="nofollow">Contact</a></li>
-      <li><a href="/advertise.jsp" rel="nofollow">Advertise</a></li>
-      <li><a href="/linking.jsp" rel="nofollow">Linking to Us</a></li>
-      <li><a href="http://blog.homethinking.com">Press</a></li>
-      <li><a href="/privacy-policy.jsp" rel="nofollow">Privacy Policy</a></li>
-      <li><a href="/tos.jsp" rel="nofollow">Terms of Service</a></li>
-      <li><a href="/sitemap.jsp">Sitemap</a></li>
-    </ul>
-    <p><a href="#top">back to top^</a></p>
-  </div>
-  <div id="lastWords">
-    <p>Copyright 2005-2008 Homethinking LLC.</p>
-    <p>REALTOR is a registered collective membership mark that identifies a real estate professional who is a member of the National Association of REALTORS and subscribes to its strict Code of Ethics.</p>
+	<div id="footer">
+	  <div class="links">
+	    <p class="Left"> <a href="/">Home</a>|<a href="/about.jsp" rel="nofollow">About</a>|<a href="/contact.jsp" rel="nofollow">Contact</a>|<a href="/advertise.jsp" rel="nofollow">Advertise</a>|<a href="/linking.jsp" rel="nofollow">Linking to Us</a>|<a href="http://blog.homethinking.com">Press</a></p>
+	    <p class="Right"> <a href="/privacy-policy.jsp" rel="nofollow">Privacy Policy</a>|<a href="/tos.jsp" rel="nofollow">Terms of Service</a>|<a href="/sitemap.jsp">Sitemap</a></p>
+	  </div>
+	  <p class="disclaimer">REALTOR is a registered collective membership mark that identifies a real estate
+	    professional who is a member of the National Association of REALTORS and
+	    subscribes to its strict Code of Ethics.</p>
+	  <p class="copyright">Copyright 2005-2008 Homethinking LLC.</p>
+	</div>
   </div>
 
-</div>
-
+<script type="text/javascript">
+<!--
+	if(document.getElementById("maintab"))
+		initializetabcontent("maintab");
+//-->
+</script>
 <script type="text/javascript">
 	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -97,6 +118,7 @@
 	pageTracker._initData();
 	pageTracker._trackPageview();
 </script>
+
 
 
 </body></html>
