@@ -1,68 +1,25 @@
-> *The following text is extracted and transformed from the worldnetdaily.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625070630id_/http%3A//worldnetdaily.com/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldnetdaily.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226175639id_/http%3A//www.worldnetdaily.com/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**
-
-[](http://shop.wnd.com/store/)
-
+**  
+  
+  
 | **   FREE News Flashes**  
 ---  
     
   
   
-   
----  
-WND Directory|    
-[Shop.WND](http://shop.wnd.com/)  
-[Page 1 News](http://www.worldnetdaily.com/index.php)  
-[Page 2 News](http://www.worldnetdaily.com/Page%202)  
-[Commentary](http://www.worldnetdaily.com/Commentary)  
-[G2 Bulletin](http://g2.wnd.com/)  
-[WND Poll](http://forums.wnd.com/?pageId=34)  
-[WND Forums](http://forums.wnd.com/)  
-[Letters to the Editor](http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=40)  
-[MoneyNetDaily](http://www.worldnetdaily.com/MoneyNetDaily)  
-[SportsNetDaily](http://www.breitbart.com/index.php?category=5)  
-[TV Guide](http://www.tvguide.com/)  
-[Weather](http://www.accuweather.com/adcbin/index?partner=WNDAILY)  
   
-  
-   
-WND Resources|    
-[About WND](http://www.worldnetdaily.com/About%20WND)  
-[WND Scoops](http://www.worldnetdaily.com/WND%20Scoops)  
-[WND Books](http://shop.wnd.com/store/subdept.asp?SUBDEPARTMENT_ID=131)  
-[Advertise with WND](http://www.worldnetdaily.com/?pageId=22)  
-[WND RSS feeds](http://www.worldnetdaily.com/index.php?pageId=55789)  
-[News Alerts Sign Up](http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=47)  
-[Voluntary Payment](http://shop.wnd.com/store/subdept.asp?SUBDEPARTMENT_ID=84)  
-[US Newspapers](http://www.worldnetdaily.com/U.S.%20Newspapers)  
-[Foreign Newspapers](http://www.worldnetdaily.com/Foreign%20Newspapers)  
-[Major News Wires](http://www.worldnetdaily.com/Major%20News%20Wires)  
-[Other News Services](http://www.worldnetdaily.com/Other%20News%20Services)  
-[Other Sites](http://www.worldnetdaily.com/Other%20Sites)  
-[Writers Archives](http://www.worldnetdaily.com/index.php?pageId=33)  
-[Government Officials](http://www.visi.com/juan/congress/)  
-[Search Engines](http://www.worldnetdaily.com/Search%20Engines)  
-[Media](http://www.worldnetdaily.com/Media)  
-[Entertainment](http://www.worldnetdaily.com/Entertainment)  
-  
-  
-   
-WND People|    
-[Contact WND](http://www.worldnetdaily.com/Contact%20WND)  
-[Who's Who at WND](http://www.worldnetdaily.com/Who's%20Who%20at%20WND)  
-[Speakers and Talk Show Guests](http://www.worldnetdaily.com/index.php?pageId=57616)  
-[Columnists](http://www.worldnetdaily.com/WND%20Columnists)  
-   
-|    
 ** | 
 
   
 
 
 * * *
+
+  
+
 
 * * *
 
@@ -112,7 +69,7 @@ Cookies cannot be used to identify individuals, only machines. So these advertis
 **WorldNetDaily.com News Alert feature**   
 After signing up to receive a WorldNetDaily.com News Alert by e-mail, users will begin to receive a brief synopsis of current news events available on the WorldNetDaily.com site, delivered on a daily or weekly basis. Additionally users may receive infrequent other announcements from WorldNetDaily.com. We collect subscriber's e-mail addresses in order to distribute the News Alerts and announcements and do not otherwise share them with other companies or partners. WorldNetDaily.com (WorldNetDaily.com, Inc.) respects your right to the privacy of the personal information you provide us on our site. Unless you designate otherwise or we state otherwise in this policy or at the time information is collected, any personal information you provide will not be known to any other party except you and WorldNetDaily.com. This policy is intended to explain how your personal information is collected and how it will be treated.
 
-Users can choose to unsubscribe from WorldNetDaily.com News Alerts at any time by following the unsubscribe procedures found in each e-mail or by visiting the [News Alert sign-up page](http://www.worldnetdaily.com/resources/mailingList.asp).
+Users can choose to unsubscribe from WorldNetDaily.com News Alerts at any time by following the unsubscribe procedures found in each e-mail or by visiting the [News Alert sign-up page](http://worldnetdaily.com/resources/mailingList.asp).
 
 **Online Retailing**  
 WorldNetDaily.com operates an online store, ShopNetDaily.com. In the course of processing orders, we may collect certain personal information for the purpose of fulfilling customer orders. We will save this information as needed to keep responsible records and handle complaints. We do not share this information with any telemarketing firms. Your phone number is necessary only for credit card verification purposes and issues of customer service related to purchases from ShopNetDaily.com.
@@ -120,7 +77,7 @@ WorldNetDaily.com operates an online store, ShopNetDaily.com. In the course of p
 **Changing User Information**   
 To make changes to your email or physical address on your ShopNetDaily account, contact our customer service department at [customerservice@worldnetdaily.com](mailto:customerservice@worldnetdaily.com) or by calling toll free 1- 800-496-3266.
 
-To update an e-mail address on the WorldNetDaily News Alerts list, unsubscribe the old address and resubscribe using the new address at the [News Alert sign-up page.](http://www.worldnetdaily.com/resources/mailingList.asp)
+To update an e-mail address on the WorldNetDaily News Alerts list, unsubscribe the old address and resubscribe using the new address at the [News Alert sign-up page.](http://worldnetdaily.com/resources/mailingList.asp)
 
 **Promotions**   
 From time to time, WorldNetDaily.com may sponsor contests or other events that require the collection, processing and storage of individual contact and demographic information (e.g., your age and state of residence) to be used for the event. WorldNetDaily.com may also co-sponsor these events along with other companies, in which case the user's individual contact and demographic information is likely to be shared with these other participating sponsors. A registrant's personal contact and demographic information will not be disclosed to third-party or non-participating organizations without the user's prior consent, and WorldNetDaily.com will request that co-sponsors of such events uphold the privacy of the registrant's information.
@@ -161,52 +118,12 @@ _Privacy statement updated Aug. 5, 2004._
 * * *
 
   
+  
 
 
 * * *
 
-|  |    
+|  |   
   
   
-[](http://shop.wnd.com/store/item.asp?ITEM_ID=108)   
-[](http://shop.wnd.com/store/item.asp?ITEM_ID=343)[](http://shop.wnd.com/store/item.asp?ITEM_ID=983)
 
-[](http://g2.wnd.com/)
-
-|    
----  
-Today's WND  
-News Highlights|    
-[Heinz sells mayo with homosexual kiss](http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=67927)  
-['Adios' English school? Super wants all-Spanish](http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=67886)  
-[Tancredo takes McCain to task on immigration](http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=67932)  
-[Alaska governor urges Congress to drill in ANWR](http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=67885)  
-[21-year-old mugger vs. woman, 70: Guess who wins?](http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=67929)  
-[PhotoNetDaily: Public enema No. 1](http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=67934)  
-[Is CDC nuts? Look what they're using duct tape for!](http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=67832)  
-[U.S. deporting Christian pastors](http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=67861)  
-[Woman has sex with student, 15, plus 7 friends](http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=67790)  
-[Cold case investigators target ricin death](http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=67795)  
-   
-Today's WND  
-Commentary Highlights|    
-[The dirty little secret of America's newsrooms  
-\- By Joseph Farah](http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=67887)  
-[Tangled web of court deception  
-\- By Judge Roy Moore](http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=67931)  
-[How our attorney general defines justice  
-\- By Nat Hentoff](http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=67889)  
-[That's no man – that's my wife  
-\- By Burt Prelutsky](http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=67926)  
-[Radiologists who take more than X-rays  
-\- By Joel Hesch](http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=67890)  
-[Doughnut-ology: Will Bush-Wah convert?  
-\- By Maralyn Lois Polak](http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=67891)  
-[Should Congress control our stoplights?  
-\- By Walter E. Williams](http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=67908)  
-[The truth about teen pregnancy pact  
-\- By Jill Stanek](http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=67933)  
-[The land of nonsense and 'oxy-morons'  
-\- By Ted Baehr and Tom Snyder](http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=67928)  
-[The patriotic Jew  
-\- By Ben Shapiro](http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=67956)
