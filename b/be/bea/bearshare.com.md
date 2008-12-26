@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bearshare.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514210522id_/http%3A//www.bearshare.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearshare.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226031240id_/http%3A//www.bearshare.com/privacypolicy.shtml) for the most accurate reproduction.*
 
-# BearShare - Free music downloads - Privacy Policy
+# Privacy Policy
 
 PRIVACY POLICY
 
@@ -16,13 +16,13 @@ In order to provide you with excellent service and a superior customer experienc
 
 **Bearshare Personalization Service:**
 
-If you have elected to enable any of Bearshare’s Personalization Services, Bearshare uses technology and services from third party partners to understand your unique interests by analyzing what content you view across Web sites and search results. This information is used to make music and other content recommendations to you. Bearshare and its partners also provide this information to other third parties to enable them to show you advertisements across the web that might be more interesting to you.
+If you have elected to enable any of Bearshare's Personalization Services, Bearshare uses technology and services from third party partners to understand your unique interests by analyzing what content you view across Web sites and search results. This information is used to make music and other content recommendations to you. Bearshare and its partners also provide this information to other third parties to enable them to show you advertisements across the web that might be more interesting to you.
 
 **What Information is collected by the Bearshare Personalization Service?**
 
-When you first agree to receive the Bearshare Personalization Service, information will be collected about your Web browsing history to begin building a profile of your interests. While your computer is on, the Personalization Service will periodically collect: 
+When you first agree to receive the Bearshare Personalization Service, information will be collected about your Web browsing history to begin building a profile of your interests. While your computer is on, the Personalization Service will periodically collect:
 
-  * Anonymous information about how you use the Web; for example — 
+  * Anonymous information about how you use the Web; for example - 
     * the URL addresses of Web pages you view and how long you view them,
     * the links and advertisements you click on, 
     * whether you make a purchase, and
