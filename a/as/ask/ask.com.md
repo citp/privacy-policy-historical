@@ -1,46 +1,175 @@
-> *The following text is extracted and transformed from the ask.com privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209112500id_/http%3A//www.ask.com/docs/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ask.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226171802id_/http%3A//about.ask.com/en/docs/about/privacy.shtml) for the most accurate reproduction.*
 
-# Ask Jeeves About
+# About Ask.com: Privacy
 
-Ask Jeeves Inc., producer of the Ask Jeeves and Ask Jeeves for Kids Web sites, believes that online privacy is crucial for the ongoing success of the Internet as a service, commercial and entertainment medium. We collect personal information from you primarily to make using the Ask Jeeves services easier and more satisfying. In registering for certain services offered by Ask Jeeves you may be asked to provide your name, e-mail address, zip code, gender and information about what you do and don't like. We request this information from you so that we can provide you with the personalized service necessary to meet Ask Jeeves' goal of humanizing the Internet. However, unless you designate otherwise, the personally identifiable information you provide will be known only to you and to Ask Jeeves. We will always ask you before providing this information to anyone else. If others want this information, including your name or your email address, we will provide it only if you give us permission to do so. 
+| 
 
-From time to time, Ask Jeeves may introduce new products and services to its users. To the extent these new products and services affect this policy, this policy will be updated and you will be informed of these updates and any privacy conditions related to these services. 
+_Effective date: February 25, 2008_
 
-Information gathered online can generally be categorized as either anonymous or personally identifiable. Anonymous information is information that cannot be traced back to a specific individual. For example, Ask Jeeves knows how many questions are asked each day at each of its Web sites but does not know the names, e-mail addresses or gender of the people asking the questions. 
+### What types of information do we gather and how do we use it?
 
-Personally identifiable information is information you provide that lets us know specific facts about you so that we can customize the information Ask Jeeves delivers to you accordingly. This information can include your name, address, zip code, age, etc. For example, when you provide your home zip code when you register for Personal Jeeves, Ask Jeeves is able to provide you with weather forecasts for your hometown. It is our belief that you will find it beneficial to provide us with personal information so that your experience with Ask Jeeves is more satisfying. 
+Information collected online can generally be categorized as either non-personal information or personally identifiable information. Non-personal information is information that cannot by itself be traced back to a specific individual. For example, we know how many search queries we receive each day but we generally do not know the names and email addresses of the persons submitting the queries. Personally identifiable information is information you provide to us that is uniquely associated with you, such as your name or email address.
 
-**Gathering and Use of Anonymous Information**  
-Each time a visitor comes to an Ask Jeeves Web site, we collect some information to improve the overall quality of the online experience, including product monitoring, product improvement, and targeted advertising. At the Ask Jeeves Web sites, we collect the visitor's domain name (e.g. whether the user is logged on from compaq.com or whitehouse.gov), referral data (e.g., we record the address of the last URL a user visited prior to clicking through to an Ask Jeeves Web site), and browser and platform type (e.g., a Netscape browser on a Macintosh platform). 
+Except as described below, we do not associate the non-personal information we collect from you, including your search queries and IP address, with the personally identifiable information that you may submit to us. For this reason, we do not consider your IP address to be personally identifiable information (unless and until such an association is made to respond to legal process (see Law Enforcement/Legal Requirements below).
 
-In addition to collecting these types of information, Ask Jeeves collects aggregate queries for internal reporting and targeted advertising. We also count, track, and aggregate the visitor's activity into our analysis of general traffic flows at our sites (e.g. tracking where traffic comes from, how traffic flows within the Ask Jeeves properties, etc.). To these ends, we may merge information about you into group data, which may then be shared on an aggregated basis with our advertisers; but Ask Jeeves will not disclose your individual identity or personal data without your permission. When Ask Jeeves does present aggregated information to outside companies, no one will be able to identify or contact you. 
+  
+__What anonymous information do we gather and how do we use it?__  
+We collect non-personal information, which, as noted above, is any information that is not personally identifiable. For example, each time you visit one of the Sites, we collect the limited information that your browser makes available whenever you visit any website. This information includes: (a) your Internet Protocol (IP) address; (b) the address of the last URL you visited prior to clicking through to the Site; (c) your browser and platform type (e.g., a Netscape browser on a Macintosh platform); (d) your browser language; and (e) the data in any undeleted cookies that your browser previously accepted from us (see "How are cookies used on the Sites?" below). Additionally, if you enter a search query through the Sites or Services, we will receive the query text and process it, together with the above data, to return a search results page to you. If you have installed our Software (or if you have otherwise modified your browser settings so that address bar search queries and erroneous domain name system (DNS) requests are submitted to us), we may also receive any search term or misspelled URL that you enter into your browser's address bar. Beginning with search queries collected on December 10, 2007, we disassociate your query text data from your IP address after a period of 18 months, except in limited circumstances, such as if requested to retain the information by law enforcement. When [AskEraser](http://about.ask.com/en/docs/about/askeraser.shtml) is enabled, all information described above is removed from Ask.com servers within a number of hours (except in rare circumstances described in the AskEraser FAQ, which you can read by clicking [here](http://about.ask.com/en/docs/about/askeraser.shtml)). 
 
-**Gathering and Use of Personally Identifiable Information**   
-Ask Jeeves requests that registrants for its Personal Jeeves service provide personal information so that we can provide personalized service. As we have already stated, personally identifiable information is not shared with third parties unless Ask Jeeves has your permission to do so. In addition, Ask Jeeves occasionally sponsors sweepstakes, contests, or other events that require the collection, processing, and storage of individual contact and demographic information to be used for the event. Ask Jeeves sometimes co-sponsors these events with other companies, in which case the user's individual contact and demographic information is likely to be shared with participating sponsors. A registrant's personal contact and demographic information will not be released to third-party or non-participating organizations without the user's consent, and Ask Jeeves will request that co-sponsors of such events maintain the privacy of the registrants' information. 
+In addition to collecting these types of information, we aggregate query information for internal reporting and targeted advertising. We also count, track, and aggregate our visitors' activities into our analysis of general traffic flows at the Sites (e.g., tracking where traffic comes from, how traffic flows within the Sites, whether a user clicks on the initial search result, etc.). All information about our users' search activity is evaluated only on a non-personal (and generally only on an aggregated) basis, except in response to a customer service inquiry or legal process. When [AskEraser](http://about.ask.com/en/docs/about/askeraser.shtml) is enabled, , the search queries you submit will continue to count towards the total number of queries received by the Site, but will not count towards the total number of uses of any particular search term.
 
-When appropriate, users will be given the opportunity to receive information from third-party organizations in connection with services or events offered by Ask Jeeves. This option may be made available through Ask Jeeves' registration and/or through registration processes maintained by a participating third party. In all cases, you will be informed before you register for the event or service that a third party will be receiving the registration information you provide and you will have the option not to participate in any service or event that requires third party involvement. 
+If you have installed one of our search toolbars, your use of such Software may send the following additional information to us: your IP address, your browser type, your default language setting, an identification of any button or menu item you selected or activated, and the text of any Web search query you enter into the toolbar. (When you use our desktop search toolbar, we do not receive the text of any desktop search query unless you specify that you also wish to run that query as a Web search). As described in the [AskEraser](http://about.ask.com/en/docs/about/askeraser.shtml) FAQs, AskEraser is not enabled for toolbar queries even if AskEraser is turned on, although data relating to your search queries entered after December 10, 2007 will generally be disassociated from your IP address after 18 months.
 
-**Use Of Ask Jeeves Cookies**   
-Ask Jeeves' Web sites use cookies to track traffic flow and patterns of travel within and through the sites. Cookies are a standard Internet technology that allow us to both store and retrieve login information on a user's system. Our Web server automatically asks a new user whether his or her browser will agree to accept an Ask Jeeves cookie file. If a visitor accepts, our Web server will identify the user's cookie for Ask Jeeves' use in internal reporting. If a user accepts an Ask Jeeves cookie, but would later like to remove it from his or her computer, he or she can just remove it from the browser. 
+We collect the above types of information to improve the overall quality of the online experience and to facilitate product monitoring, product improvement, targeted advertising, and monetizing commercially oriented search keywords. 
 
-****
+Our Sites, Services and Software: 
 
-**Demographic Information**   
-When we do present information to our advertisers, it is in the form of grouped statistics compiled from our users' answers to survey questions and on-site behavior. Ask Jeeves will not disclose the contact or demographic information of any individual user to advertisers or any other outside organization without the express permission of the individual. 
+  
 
-**User Research**   
-On occasion, Ask Jeeves will make available to potential advertisers and research firms aggregated results from research it has conducted on its user base. Once again, Ask Jeeves will only provide such demographic information on an aggregated basis and does not disclose individual member profiles without user consent. 
 
-**Special Policy With Regards to Information from Children Under Thirteen**   
-In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), Ask Jeeves will never knowingly request personally identifiable information from anyone under the age of 13 without parental consent. When we do receive information (with parental consent) from users under the age of 13, we will never voluntarily share their personally identifiable information with third parties, regardless of their stated preference given at registration. 
+  *  do _not_ collect or report back to us any information about other sites you visit on the Internet, except the address of the last URL you visited prior to clicking through to the Site; 
 
-****
 
-To phone the Ask Jeeves main office, dial +1 (510 985-7400). To send us a fax, dial +1 (510) 985-7410.
+  *  do _not_ "screen-scrape" any search queries or information that you provide to any other websites; 
 
-If you're a member of the press and would like to arrange an interview or visit the Ask Jeeves offices, Andrew Fox  
-Text 100 Corporation   
-30 Hotaling Place, 2nd Floor  
-San Francisco, CA 94111   
-(415) 836-5990   
-andrewf@text100.com 
+
+  *  do _not_ serve pop-ups or other ads when you are on other websites; 
+
+
+  *  do _not_ collect or report back to us any data regarding your computer keystrokes (or other data) unrelated to the services the Sites and Software provide. 
+
+
+
+__What personally identifiable information do we collect and how do we use it?__   
+Except as described below, the Sites, Services and Software do not collect any personally identifiable information about you. In addition, we do 
+
+_not_
+
+share your personally identifiable information with third parties for the purpose of enabling them to send you information about their products (or for any other purpose, except to respond to legal process as described below).
+
+You generally are not required to provide any personally identifiable information to use the Sites, Services or Software. However, in order to register for and/or fully utilize some of our Services, you do need to provide certain personally identifiable information. For example, some of the Sites and Services require registration, and we ask you for some personally identifiable information in order to create an account (an email address and an account password). If you have turned on [AskEraser](http://about.ask.com/en/docs/about/askeraser.shtml) and try to submit personally identifiable information to create an account, you will be prompted with a pop-up to let you decide whether you would like to turn off AskEraser. Other personally identifiable information you might provide could include your contact information if you participate in a promotion or sweepstakes, or your email address if you submit a help request to us via email or respond to employment opportunities posted on the Sites. The amount of personally identifiable information that you choose to disclose to us is completely up to you, although access to or use of some Services may be affected if such information is not provided. Please note that [AskEraser](http://about.ask.com/en/docs/about/askeraser.shtml), does not delete personally identifiable information you may submit to us, and such information will be retained even if AskEraser is turned on. 
+
+We use your personally identifiable information to provide you personalized service, to ensure the smooth operation of the Sites and Services, to improve the Sites, Services and Software, and in connection with the enforcement of our Terms of Service for each Site and this Privacy Policy. We also may use your personally identifiable information to contact you to respond to a request from you, or in connection with legal proceedings, or if there has been a violation of our Terms of Service. We do not associate your search query information in any manner with your personally identifiable information, unless you have created a MyStuff account and have set your options to direct us to save your search history in your MyStuff account or if required to do so by legal process. 
+
+__Can you review, edit, or delete the personally identifiable information that we have collected about you online?__  
+To review, revise or delete the personally identifiable information that we have collected about you online and have maintained, please log in to your profile and edit accordingly - [Profile Page](http://mystuff.ask.com/user/DisplayUser?page=prefs%22). However, please understand that although information, once deleted, is not available on the Sites, it may remain stored indefinitely in our backup and archival records. 
+
+Back to Top
+
+  
+
+
+### How are cookies used on the Sites?
+
+  
+  
+
+
+The Sites use “cookies” and other technologies such as pixel tags to track traffic flow and patterns of travel within and among the Sites. Cookies are a standard Internet technology that allows us to both store and retrieve login information on a user's system. Our Web server automatically asks a new user's browser whether it will accept our cookie file. If the user's browser accepts our cookie, our Web server will record the cookie's unique ID for our use in internal reporting. Every time the user returns to the Site, we will be able to read that cookie's ID number and can customize the services we deliver based on the user's past preferences and usage history. We do not associate the cookie ID with any personally identifiable user information unless you have created a MyStuff account and have set your options to direct us to save your search history in your MyStuff account or we are required to do so by legal process. The lifetime of our cookies is two years, after which all cookie information is automatically deleted from our servers. However, the [AskEraser](http://about.ask.com/en/docs/about/askeraser.shtml) cookie described below is set to expire after 30 years. If you would like to remove our cookies from your computer, you can delete them using your browser (consult your browser's "help" menu to learn how to delete cookies.) If you choose to decline or remove cookies, please note that you may not be able to use some of the interactive features offered on the Sites. 
+
+We do not use cookies to track your use of the Internet in any other way or to store any personally identifiable information, and we do not disclose cookie information to third parties, except as otherwise described in this Privacy Policy (see **"What information do we disclose to third parties?"** below). 
+
+We use third party companies to serve advertisements when you visit the Sites. These companies may use information about your visits to the Sites in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to the Sites, these companies may place or recognize a unique cookie on your computer or use other technologies such as pixel tags in connection with the Sites. Our Privacy Policy does not cover any use of information that a third-party ad-serving company may collect from you. These companies have their own policies as to record keeping and data retention. If you would like more information about this practice, or would like to know your choices about not having this information used by advertising companies, please click here: <http://www.networkadvertising.org/>
+
+To use AskEraser, you must have cookies enabled in your browser settings. We must set one cookie to act as a constant indicator that you have turned on AskEraser. This cookie does not store any personally identifiable information and simply indicates whether the feature has been turned “on.” In addition to indicating that you would like AskEraser to delete your search queries, this cookie, when enabled, also suppresses the ability of cookies set by third-party advertising companies to collect information about you. However, third parties may still receive your search queries as described below. To learn about the use of cookies when you enable the [AskEraser](http://about.ask.com/en/docs/about/askeraser.shtml) feature of our site, please click [here](http://about.ask.com/en/docs/about/askeraser.shtml#cookiesrequired). 
+
+Back to Top
+
+  
+
+
+### Do we use your information to deliver targeted online ads to you?
+
+  
+  
+
+
+A targeted online ad is one we display to you based on the content of the web pages you visit, any personally identifiable information you have provided to us, or keywords appearing in your search queries. We do not provide any personally identifiable information to the advertiser when you interact with, view, or click on a targeted ad; however, advertisers (including ad serving companies) might learn indirectly about your interests by assuming that people who interact with, view, or click on their targeted ads meet the targeting criteria that they specified when placing the ad.
+
+Back to the Top
+
+  
+
+
+### What information do we disclose to third parties?
+
+  
+
+
+_Third Party Service Providers._ Some elements on the Sites, such as news content, our Smart Answers, or the sponsored links advertising on our search results pages, are supplied to us by third parties under contract. We may supply some of the information we collect from you to those third parties so that they can provide those elements for display on the Sites. We may share the following information with third parties: (a) your Internet Protocol (IP) address; (b) the address of the last URL you visited prior to clicking through to the Site; (c) your browser and platform type (e.g., a Netscape browser on a Macintosh platform); (d) your browser language; (e) the data in any undeleted cookies that your browser previously accepted from us; and (f) the search queries you submit. For example, when you submit a query, we transmit it (and some of the related information described above) to our paid listing providers in order to obtain relevant advertising to display in response to your query. We may merge information about you into group data, which may then be shared on an aggregated basis with our advertisers. If you provide us with answers to voluntary survey questions, we may furnish this information to our advertisers and partners in the form of grouped statistics compiled from our users' answers to such questions. These third party companies have their own policies as to record keeping and data retention. Use of [AskEraser](http://about.ask.com/en/docs/about/askeraser.shtml) does not apply to these third-party companies, and they will delete your search activity only in accordance with their own data retention policies. 
+
+  
+_Law Enforcement/Legal Requirements._ We may disclose your personally identifiable information as well as your IP address and other information in order to comply with court orders, subpoenas, or regulatory obligations, or when otherwise required to do so by law. We also may disclose such information in compliance with a law enforcement or other governmental request, or where we believe disclosure is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our [Terms of Service](http://sp.ask.com/docs/about/aj/termsofservice.htm).
+
+If you are using Ask Eraser, in some cases we may be required by law enforcement to retain your search data even when Ask Eraser is enabled, without alerting you. To learn more, please click [here](http://sp.ask.com/en/docs/about/askeraser.shtml#12).
+
+_Corporate Restructuring._ We also may transfer your information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger or other transfer of assets).
+
+Back to the Top
+
+  
+
+
+### What happens when you leave the Sites to go to other Internet sites?
+
+We do not control the information collection and distribution policies of third-party companies. When you are on the Sites, you may be directed to other sites that are beyond our control. For example, if you "click" on a banner advertisement or a search result, the "click" may take you off of the Sites. These other sites may independently collect data, solicit personally identifiable information, or send their own cookies to you. We are not responsible for any use of the information, including click-stream data, that you may create when using such third-party sites. 
+
+We also offer you access to "co-branded" services that are jointly provided by us and selected companies. In many cases, these co-branded services will contain the Sites' branding, but might not be hosted by us. You may notice that you are on a co-branded site if the pages say "provided by," if our standard branding is not displayed on the top of the page, or if you are asked to subscribe to any service or provide additional information. In such cases, you should follow the privacy link on the page to determine which company's privacy policy protects the information you enter on the page. Even if the page is governed by a separate privacy policy, we might be entitled to receive information about what you do when using that service. If you elect to provide additional personally identifiable information when using a co-branded service, the information you provide may be shared or jointly retained by the provider of that service in accordance with that provider's privacy policies and terms of service. We encourage you to read the privacy polices of these other companies and to contact these companies directly if you have any questions about their use of this information. When we enter into co-branding service relationships, we generally require the service provider to include a link to its applicable privacy policies and terms of service on the co-branded pages. 
+
+Back to the Top  
+
+
+  
+
+
+### What is our policy regarding personally identifiable information from children under 13?
+
+  
+
+
+In accordance with the Federal Children's Online Privacy Protection Act of 1998 ("COPPA"), we do not knowingly collect personally identifiable information from anyone under the age of 13. Registration on the Sites and for the Services is not available to anyone under the age of 13.   
+
+
+Back to the Top  
+
+
+  
+
+
+### Do we take security precautions to protect your information?
+
+  
+  
+
+
+We have security measures in place intended to assist in preventing unauthorized access to and in safeguarding personally identifiable information we collect online. We seek to limit access to your personally identifiable information to employees who we believe reasonably need access to that information to provide products or services to you or in order to perform their jobs. These employees have been informed of the need to maintain the security and confidentiality of such information. Unfortunately, no security system can be 100% secure; accordingly, we cannot guarantee the security of the information that we collect online.
+
+Back to the Top  
+
+
+  
+
+
+### Are there special considerations if you are visiting the Sites from outside of the United States?
+
+  
+  
+
+
+If you are visiting the Sites from outside of the United States, your information will be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws in the United States and other countries might not be as comprehensive as those in your country. Please be assured, however, that we seek to take reasonable steps to ensure that your privacy is protected. By using our services, you consent to the transfer of your information to our facilities and those third parties with whom we share it as described in this Privacy Policy.
+
+Back to the Top  
+
+
+  
+
+
+### Whom can you ask if you have additional questions?
+
+  
+
+
+Questions regarding this Privacy Policy should be directed [here](mailto:privacyhelp@help.ask.com). 
+
+  
+
