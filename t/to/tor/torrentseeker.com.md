@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the torrentseeker.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610144525id_/http%3A//www.torrents.to/static/privacy_copyright_policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrentseeker.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227043136id_/http%3A//www.torrents.to/static/privacy_copyright_policies.html) for the most accurate reproduction.*
 
 # TORRENTS | TO | Your BitTorrent Search
+
+[](http://www.friendlyduck.com/AF_TA/MediaServer/UsenextClient/index.cfm?TAD=404451)
 
 We respect the privacy of our users and we are committed to protect their privacy. This policy describes the information we collect and how it is being used. If you have any questions about our privacy policy, please contact us. 
 
@@ -17,7 +19,7 @@ A cookie is a small piece of data that is sent to a user's browser from a web se
 **Policy Changes**  
 We reserve the rigth to change our privacy prolicy. Changes to our policy will be posted on this site, and notifications will be sent to our registered users. We will use information only in accordance with the Privacy Policy under which the information was collected unless we have received explicit authorization from the appropriate user(s) to do otherwise. 
 
-[](http://www.usenext.de/index.cfm?TD=372153)
+[](http://www.friendlyduck.com/AF_TA/rel/index.cfm?RST=UNXDE&TAD=394690)
 
   
 
