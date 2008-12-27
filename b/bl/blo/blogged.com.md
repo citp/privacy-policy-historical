@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogged.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621163140id_/http%3A//www.blogged.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogged.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227061909id_/http%3A//www.blogged.com/privacy.php) for the most accurate reproduction.*
 
 # Blogged.com - Privacy Policy
 
