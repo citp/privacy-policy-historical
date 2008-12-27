@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the inspiremetoday.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619035138id_/http%3A//www.inspiremetoday.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiremetoday.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227015230id_/http%3A//www.inspiremetoday.com/privacy.php) for the most accurate reproduction.*
 
 # Inspire Me Today - Daily Inspiration | Inspirational Videos | Inspiring News & More!
+
+[ ](https://web.archive.org/web/20081227015230id_/http%3A//www.inspiremetoday.com/gift.php) [ ](https://web.archive.org/web/20081227015230id_/http%3A//www.inspiremetoday.com/register.php) |   |    
+
+
+* * *
 
 **Version 1: posted and effective as of January 1st, 2008**
 
@@ -85,3 +90,46 @@ Changes and updates to this Privacy Notice
 This Privacy Notice may be revised periodically and this will be reflected by the "effective date” above. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the IMT Sites constitutes your agreement to this Privacy Notice and any future revisions.
 
 For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
+
+|   | 
+
+[](https://web.archive.org/web/20081227015230id_/http%3A//www.inspiremetoday.com/hugs.php)
+
+* * *
+
+  
+
+
+**Start your day with inspiration!**  
+Sign up and receive your FREE 44-page E-Book "Today's Brilliance" and daily inspirational insights emailed directly to you for FREE!  
+
+
+[](https://web.archive.org/web/20081227015230id_/http%3A//www.inspiremetoday.com/register.php "Join Today")  
+
+
+  
+
+
+* * *
+
+Send your friends  
+a dose of inspiration!
+
+  
+  
+  
+  
+
+
+* * *
+
+"Once you've found your passion, I can't think of anything better to keep you on track than a healthy dose of daily inspiration. Inspire Me Today keeps you "heart centered" so that it becomes effortless for you to choose in favor of your passions!"
+
+\- Janet Bray Attwood- NY Times Bestselling Author, "The Passion Test"
+
+[Read More >>](https://web.archive.org/web/20081227015230id_/http%3A//www.inspiremetoday.com/testimonials.php "Testimonials")
+
+  
+  
+  
+---|---|---|---|---
