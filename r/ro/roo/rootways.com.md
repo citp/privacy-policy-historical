@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the rootways.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502175701id_/http%3A//www.rootways.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rootways.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227233237id_/http%3A//www.rootways.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Welcome to Rootways Inc
+# Online Internet Marketing | Software Development | Database Programming Business in Canada Canadian Toronto Mississauga Ontario GTA.
 
-  
-At rootways we are committed to protecting your privacy. The purpose of this Privacy Statement is to inform you about Media practices relating to the collection, use and disclosure of personal information that may be provided through access to or use of our websites or hosting services and related services or that may be otherwise be collected by us.
+At rootways we are committed to protecting your privacy. The purpose of this Privacy Statement is to inform you about Media practices relating to the collection, use and disclosure of personal information that may be provided through access to or use of our WebSites or hosting services and related services or that may be otherwise be collected by us.
 
-Rootways is the sole owner of the information collected on this site. We will not sell, share or rent this information to others in ways different from what is disclosed in this statement. Rootways will protect the confidentiality of its customers' information, account information, personal communications and any other information collected in any form to the fullest extent possible and consistent with the law.
+Rootways is the sole owner of the information collected on this Site. We will not sell, share or rent this information to others in ways different from what is disclosed in this statement. Rootways will protect the confidentiality of its customers' information, account information, personal communications and any other information collected in any form to the fullest extent possible and consistent with the law.
 
 To provide service to our customers, Rootways acquires and stores customer communications and information that customers may regard as private or sensitive. Information such as the customer name, address, telephone number, credit card informaton, etc is provided to Rootways by its customers in order to establish service. Other information such as the customer's account status, choice of services, and customer logs is created and maintained in the normal course of providing service. Rootways collects information from our users at several different points.
 
