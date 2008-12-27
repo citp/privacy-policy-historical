@@ -1,0 +1,650 @@
+<!--The following is the downloaded HTML source of the geeksaresexy.net privacy policy that was archived on 2008-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081227174235id_/http%3A//www.geeksaresexy.net/privacy-policy-geeks-are-sexy-technology-news) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>   Privacy Policy: [Geeks are Sexy] Technology News </title>
+<meta http-equiv="imagetoolbar" content="no">
+<meta name="generator" content="WordPress 2.7">
+<link rel="stylesheet" href="http://www.geeksaresexy.net/wp-content/themes/geek/style.css" type="text/css" media="screen">
+
+<!--[if IE 6]>  <link rel="stylesheet" href="http://www.geeksaresexy.net/wp-content/themes/geek/ie6.css" type="text/css" media="screen" />  <![endif]-->
+<!--[if IE 7]>  <link rel="stylesheet" href="http://www.geeksaresexy.net/wp-content/themes/geek/ie7.css" type="text/css" media="screen" />  <![endif]-->
+
+<link rel="alternate" type="application/rss+xml" title="[Geeks Are Sexy] Technology News RSS Feed" href="http://www.geeksaresexy.net/feed/">
+<link rel="pingback" href="http://www.geeksaresexy.net/xmlrpc.php">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.geeksaresexy.net/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.geeksaresexy.net/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 2.7">
+
+
+<!-- Powered by AdSense-Deluxe WordPress Plugin v0.8 - http://www.acmetech.com/blog/adsense-deluxe/ -->
+
+<!-- all in one seo pack 1.4.6.15 [-1,-1] -->
+<meta name="description" content="Privacy Policy for geeksaresexy.net and geeksaresexy.blogspot.com The privacy of our visitors to geeksaresexy.net and geeksaresexy.blogspot.com is important">
+<!-- /all in one seo pack -->
+<script language="javascript" type="text/javascript">
+<!--
+		function collapseThread( theId ) {
+			var comment = document.getElementById(theId);
+			if(!comment)
+			{
+				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
+				return;
+			}
+			var theBody = findBody(comment);
+			if(comment.className.indexOf("collapsed") > -1) {
+				comment.className = comment.className.replace(" collapsed", "");;
+			} else {
+				comment.className += " collapsed";
+			}
+		}
+
+		function expandThread( theId ) {
+			var comment = document.getElementById(theId);
+			if(!comment)
+			{
+				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
+				return;
+			}
+			var theBody = findBody(comment);
+			if(comment.className.indexOf("collapsed") > -1) {
+				comment.className = comment.className.replace(" collapsed", "");;
+			} 
+		}
+		
+		function findBody(el)
+		{
+			var divs = el.getElementsByTagName("div");
+			var ret;
+			for(var i = 0; i < divs.length; ++i) {
+				if(divs.item(i).className.indexOf("body") > -1)
+					return divs.item(i);
+			}
+			return false;
+		}
+	
+		function onAddComment() {
+			//checkDocumentIntegrity();
+			var el = document.getElementById("commentform");
+			// Future release: Check if form is filled correctly and mark the form fields.
+			el.submit();
+		}
+		
+		function moveAddCommentBelow(theId, threadId, collapse)
+		{
+			expandThread( theId );
+			var addComment = document.getElementById("addcomment");
+			if(!addComment)
+			{
+			  	alert("ERROR:\nThreaded Comments can't find the 'addcomment' div.\nThis is probably because you have changed\nthe comments.php file.\nMake sure there is a tag around the form\nthat has the id 'addcomment'"); 
+				return
+			}
+			var comment = document.getElementById(theId);
+			if(collapse)
+			{
+				for(var i = 0; i < comment.childNodes.length; ++i) {
+					var c = comment.childNodes.item(i);
+					if(typeof(c.className) == "string" && c.className.indexOf("collapsed")<0) {
+						c.className += " collapsed";
+					}
+				}
+			}
+			addComment.parentNode.removeChild(addComment);
+
+			comment.appendChild(addComment);
+			if(comment.className.indexOf("alt")>-1) {
+				addComment.className = addComment.className.replace(" alt", "");					
+			} else {
+				addComment.className += " alt";
+			}
+		        var replyId = document.getElementById("comment_reply_ID");
+			if(replyId == null)
+			{
+				alert("Brians Threaded Comments Error:\nThere is no hidden form field called\n'comment_reply_ID'. This is probably because you\nchanged the comments.php file and forgot\nto include the field. Please take a look\nat the original comments.php and copy the\nform field over.");
+			}
+			replyId.value = threadId;
+			var reRootElement = document.getElementById("reroot");
+			if(reRootElement == null)
+			{
+				alert("Brians Threaded Comments Error:\nThere is no anchor tag called 'reroot' where\nthe comment form starts.\nPlease compare your comments.php to the original\ncomments.php and copy the reroot anchor tag over.");
+			}
+			reRootElement.style.display = "block";
+			var aTags = comment.getElementsByTagName("A");
+			var anc = aTags.item(0).id;
+			//document.location.href = "#"+anc;
+			document.getElementById("comment").focus();
+		}
+
+		function checkDocumentIntegrity()
+		{
+			str = "";
+			
+			str += checkElement("reroot","div tag");
+			str += checkElement("addcomment", "div tag");
+			str += checkElement("comment_reply_ID", "hidden form field");
+			str += checkElement("content", "div tag");
+			str += checkElement("comment", "textfield");
+			str += checkElement("addcommentanchor", "anchor tag");
+			
+			if(str != "")
+			{
+				str = "Brian's Threaded Comments are missing some of the elements that are required for it to function correctly.\nThis is probably the because you have changed the original comments.php that was included with the plugin.\n\nThese are the errors:\n" + str;
+				str += "\nYou should compare your comments.php with the original comments.php and make sure the required elements have not been removed.";
+
+				alert(str);
+			}
+		}
+               
+		function checkElement(theId, elDesc)
+		{
+			var el = document.getElementById(theId);
+			if(!el)
+			{
+				if(elDesc == null)
+					elDesc = "element";
+				return "- The "+elDesc+" with the ID '" +theId + "' is missing\n"; 
+			}
+			else 
+				return "";
+		}
+		
+		function reRoot()
+		{
+			var addComment = document.getElementById("addcomment");			
+			var reRootElement = document.getElementById("reroot");
+			reRootElement.style.display = "none";
+			var content = document.getElementById("content-main");
+			if( !content )
+				content = document.getElementById("content");
+			if( content )
+			{
+				addComment.parentNode.removeChild(addComment);
+				content.appendChild(addComment);
+			}
+			addComment.className = addComment.className.replace(" alt", "");
+			document.location.href = "#addcommentanchor";
+			document.getElementById("comment").focus();				
+			document.getElementById("comment_reply_ID").value = "0";
+		}			
+		
+		function changeCommentSize(d)
+		{
+			var el = document.getElementById("comment");
+			var height = parseInt(el.style.height);
+			if(!height && el.offsetHeight)
+				height = el.offsetHeight;
+			height += d;
+			if(height < 20) 
+				height = 20;
+			el.style.height = height+"px";
+		}		
+-->
+</script>
+<style type="text/css">
+.comment 
+{
+	position: 				relative;
+	margin:					3px;
+	margin-top:				6px;
+/*	border: 				1px solid #666; */
+	padding:				4px 4px 4px 8px;
+	background-color:		#fff;
+}
+
+.odd
+{
+	background-color: #f8f8f8;
+}
+
+.comment div {
+	position: 				relative;
+}
+
+.comment .comment img
+{
+	margin: 				0px;
+}
+
+.comment .collapseicon 
+{
+	width: 					13px;
+	height: 				13px;
+	overflow:				hidden;
+	background-image: 		url(http://www.geeksaresexy.net/wp-content/plugins/briansthreadedcomments.php?image=subthread-open.png);
+}
+
+.collapsed .collapseicon 
+{
+	background-image: 		url(http://www.geeksaresexy.net/wp-content/plugins/briansthreadedcomments.php?image=subthread.png);
+}
+
+
+.comment .reply {
+	text-align: 			right;
+	font-size: 				80%;
+	padding: 				0px 6px 6px 0px;
+}
+
+.comment
+{
+	border: 	1px solid #ddd;
+	margin-top: 			10px;
+}
+
+input#subscribe
+{
+	width: auto;
+}
+
+.comment .body .content
+{
+	padding:				0px 3px 0px 3px;
+	/*width: 					100%;	*/
+	overflow: 				auto; 
+}
+
+.comment .title abbr
+{
+	border: none;
+}
+
+.collapsed .body, .collapsed .comment
+{
+	display:				none;
+}
+ 
+#commentform textarea {
+	width: 97%;
+}
+
+.btc_gravatar {
+	float: right;
+	margin: 3px 3px 4px 4px;
+}
+</style>
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.geeksaresexy.net/wp-content/plugins/sociable/sociable.css">
+</head>
+<body>
+<div class="wrap">
+	<div id="header">
+		<ul id="menu">
+			<li><a href="http://www.geeksaresexy.net/">Home</a></li>
+			<li><a href="http://www.geeksaresexy.net/about/" rel="nofollow">About</a></li>
+			<li><a href="http://www.geeksaresexy.net/advertise/" rel="nofollow">Advertise</a></li>
+			<li><a href="http://www.geeksaresexy.net/articles-and-reviews/">Articles</a></li>
+			<li><a href="http://www.geeksaresexy.net/gas-cartoons/">Cartoons</a></li>
+			<li><a href="mailto:feedback@geeksaresexy.net?subject=[GAS] Feedback" rel="nofollow">Contact</a></li>
+		</ul>
+		<form method="get" id="searchform" action="http://www.geeksaresexy.net/">
+			<div>
+				<span></span>
+				<input type="text" value="" name="s" id="sfr">
+				<input type="image" id="ss" alt="Submit" src="http://www.geeksaresexy.net/wp-content/themes/geek/images/geek_07.jpg" value="search">
+			</div>
+		</form>
+		<div id="extras">
+			<h1><a href="http://www.geeksaresexy.net/">[Geeks Are Sexy] Technology News<span></span></a></h1>
+			<div id="des">tech, science, news and social issues for geeks</div>
+			<a id="rss" href="http://www.geeksaresexy.net/feed/"></a>
+			
+			<div class="extra"></div>
+			<ul class="abox">
+				<div class="abf">Featured Articles</div>
+				<li><a href="http://www.geeksaresexy.net/2008/11/28/the-geek-guide-to-holiday-gift-giving/">The Geek Guide to <span style="color: #b7181c;">Holiday</span> Gift-Giving</a></li>
+				<li><a href="http://www.geeksaresexy.net/2008/04/01/10-must-read-books-for-geeks-part-i/">10 Must-Read Books for Geeks</a></li>
+				<li><a href="http://www.geeksaresexy.net/2008/11/15/sexy-green-geek-part-1-reduce/">Green Geek: Reduce - Reuse - Recycle</a></li>
+
+				<li><a href="http://www.geeksaresexy.net/2007/03/22/turning-your-blog-into-a-money-making-machine-a-simple-guide/">How to make money out of your blog</a></li>
+						
+				<li><a href="http://www.geeksaresexy.net/articles-and-reviews/">More Featured Articles...</a></li>
+			</ul>
+			
+				<div class="bbox">
+
+<a rel="nofollow" href="http://feedproxy.google.com/geeksAreSexyTechnologyNews"><img src="http://feedproxy.google.com/~fc/geeksAreSexyTechnologyNews?bg=ffc933&amp;fg=000000&amp;anim=1" height="26" width="88" style="border:0" alt=""></a>
+
+					<div class="abf"><img src="http://www.geeksaresexy.net/wp-content/themes/geek/images/rss.jpg" alt="rss"> <a rel="nofollow" href="http://feedproxy.google.com/geeksAreSexyTechnologyNews">Subscribe to Posts (RSS)</a></div>
+
+			<div class="abf"><img src="http://www.geeksaresexy.net/wp-content/themes/geek/images/email_sm.jpg" alt="rss"> Subscribe by Email</div>
+						<p>Stay up-to-date with Geeks Are Sexy!</p>
+						<form style="margin-left:15px;margin-right:10px;margin-top:15px" action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com/fb/a/emailverifySubmit?feedId=195650', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><input type="text" style="margin-top:-7px;float:left;width:120px;height:15px;margin-bottom:0px" value="Enter Your Email" name="email"><input type="hidden" value="http://feeds.feedburner.com/~e?ffid=195650" name="url"><input type="hidden" value="John Chow dot Com" name="title"><input type="hidden" name="loc" value="en_US"><br><input type="submit" id="subutton" value=""></form>
+					</div>
+
+		</div>
+
+	</div>
+	<div id="separator"></div>
+	<div id="main">
+		<div id="content">
+			<div class="apost">
+				<h2 id="post-2573"><a href="http://www.geeksaresexy.net/privacy-policy-geeks-are-sexy-technology-news/" rel="bookmark" title="Permanent Link to Privacy Policy: [Geeks are Sexy] Technology News">Privacy Policy: [Geeks are Sexy] Technology News</a></h2>
+				
+				<!-- spost -->
+
+<p><strong>Privacy Policy</strong> for <strong>geeksaresexy.net</strong> and <strong>geeksaresexy.blogspot.com</strong></p>
+<p>The privacy of our visitors to <a href="http://geeksaresexy.net">geeksaresexy.net</a> and <a href="http://geeksaresexy.blogspot.com">geeksaresexy.blogspot.com</a> is important to us. </p>
+<p>At Geeks are Sexy, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit us, and how we safeguard your information. We never sell your personal information to third parties.</p>
+<p>Log Files</p>
+<p>As with most other websites, we collect and use the data contained in log files. The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. </p>
+<p>Cookies and Web Beacons</p>
+<p>We do use cookies to store information, such as your personal preferences when you visit our site.  This could include only showing you a popup once in your visit, or the ability to login to some of our features.</p>
+<p>We also use third party advertisements to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).</p>
+<p>You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.</p>
+
+				<!-- epost -->
+			
+				<p></p>
+			</div>
+		</div>
+	</div>
+	<div id="sidebar-one">
+		
+	
+			<h2> </h2>
+				<div class="cols1" style="padding-left: 4px;">
+<!-- BEGIN STANDARD TAG - 300 x 250 - GeeksAreSexy: ROS - DO NOT MODIFY -->
+<script type="text/javascript" src="http://ad.yieldmanager.com/st?ad_type=ad&amp;ad_size=300x250&amp;section=394588"></script>
+<!-- END TAG -->
+
+</div>
+		
+		
+		<div style="clear:both"></div>
+		<div class="sponsors secs">
+			<h2>Free Mags</h2>
+		
+<!-- MAGAZINES -->
+<center><a href="http://geeksaresexy.tradepub.com/free/ew/" border="0"><img src="http://www.geeksaresexy.net/wp-content/uploads/2008/06/eweek.gif" border="0"></a>
+<a href="http://geeksaresexy.tradepub.com/c/pubRD.mpl?sr=hm&amp;_t=hm:&amp;pc=webs"><img src="http://www.geeksaresexy.net/wp-content/uploads/2008/06/website.gif" border="0"></a>
+<a href="http://geeksaresexy.tradepub.com/c/pubRD.mpl?sr=hm&amp;_t=hm:&amp;pc=orm"><img src="http://www.geeksaresexy.net/wp-content/uploads/2008/06/oracle.gif" border="0"></a>
+<a href="http://geeksaresexy.tradepub.com/c/pubRD.mpl?sr=hm&amp;_t=hm:&amp;pc=ccen"><img src="http://www.geeksaresexy.net/wp-content/uploads/2008/06/cisco3.gif" border="0"></a></center>
+
+		</div>
+		<div id="grey">
+		<div id="cat">
+			<h2>categories</h2>
+			<ul>
+
+					<li class="cat-item cat-item-5"><a href="http://www.geeksaresexy.net/category/gas/" title="View all posts filed under [GAS]">[GAS]</a>
+</li>
+	<li class="cat-item cat-item-38"><a href="http://www.geeksaresexy.net/category/apple/" title="View all posts filed under Apple">Apple</a>
+</li>
+	<li class="cat-item cat-item-40"><a href="http://www.geeksaresexy.net/category/blogging/" title="View all posts filed under Blogging">Blogging</a>
+</li>
+	<li class="cat-item cat-item-42"><a href="http://www.geeksaresexy.net/category/business/" title="View all posts filed under Business">Business</a>
+</li>
+	<li class="cat-item cat-item-44"><a href="http://www.geeksaresexy.net/category/culture/" title="View all posts filed under Culture">Culture</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://www.geeksaresexy.net/category/gadgets/" title="View all posts filed under Gadgets">Gadgets</a>
+</li>
+	<li class="cat-item cat-item-35"><a href="http://www.geeksaresexy.net/category/games/" title="View all posts filed under Games">Games</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="http://www.geeksaresexy.net/category/hardware/" title="View all posts filed under Hardware">Hardware</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://www.geeksaresexy.net/category/humor/" title="View all posts filed under Humor">Humor</a>
+</li>
+	<li class="cat-item cat-item-48"><a href="http://www.geeksaresexy.net/category/linux/" title="View all posts filed under Linux">Linux</a>
+</li>
+	<li class="cat-item cat-item-39"><a href="http://www.geeksaresexy.net/category/microsoft/" title="View all posts filed under Microsoft">Microsoft</a>
+</li>
+	<li class="cat-item cat-item-369"><a href="http://www.geeksaresexy.net/category/music-movies/" title="View all posts filed under Music &amp; Movies">Music &amp; Movies</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.geeksaresexy.net/category/operating-systems/" title="View all posts filed under Operating Systems">Operating Systems</a>
+</li>
+	<li class="cat-item cat-item-46"><a href="http://www.geeksaresexy.net/category/science/" title="View all posts filed under Science">Science</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://www.geeksaresexy.net/category/security/" title="View all posts filed under Security">Security</a>
+</li>
+	<li class="cat-item cat-item-114"><a href="http://www.geeksaresexy.net/category/sexy/" title="View all posts filed under Sexy">Sexy</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.geeksaresexy.net/category/software/" title="View all posts filed under Software">Software</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="http://www.geeksaresexy.net/category/technology/" title="View all posts filed under Technology">Technology</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://www.geeksaresexy.net/category/tips-and-hacks/" title="View all posts filed under Tips and Hacks">Tips and Hacks</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.geeksaresexy.net/category/uncategorized/" title="View all posts filed under Uncategorized">Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-47"><a href="http://www.geeksaresexy.net/category/web/" title="View all posts filed under Web">Web</a>
+</li>
+	<li class="cat-item cat-item-45"><a href="http://www.geeksaresexy.net/category/wireless/" title="View all posts filed under Wireless">Wireless</a>
+</li>
+
+			</ul>
+			
+
+		</div>
+
+
+<!-- Deactivate Lijit for now 
+<div class="cols1">
+<h2>Search GAS</h2>
+<script type="text/javascript" src="http://www.lijit.com/informers/wijits?username=geeksaresexy&amp;js=1"></script>
+</div>
+-->
+
+<div class="cols1">
+			<h2> </h2>
+	
+<center>
+<script>var ve_publisher = "adphilia";
+var ve_site = "geeksaresexy";
+var ve_area = "geeksaresexy";
+var ve_width = 300;
+var ve_height = 250;
+document.write("<script src='http://core.videoegg.com/eap/html/js/init.js?" + Math.random() + "'><\/script>");
+</script><script src="http://core.videoegg.com/eap/html/js/init.js?0.46669668369387374"></script>
+</center>
+		</div>
+
+
+
+	
+		
+				
+			<div class="cols1">
+			<h2>Sponsors</h2>
+	
+<center>
+<!-- BEGIN STANDARD TAG - 160 x 600 - GeeksAreSexy: ROS - DO NOT MODIFY -->
+<script type="text/javascript" src="http://ad.yieldmanager.com/st?ad_type=ad&amp;ad_size=160x600&amp;section=394588"></script>
+<!-- END TAG -->
+</center>
+		</div>
+		
+		</div>
+		
+<div class="cols1">
+			<h2>Recent Comments</h2>		
+
+
+<ul class="latestactivity">
+<li class="alternate"><a href="http://www.geeksaresexy.net/2007/09/21/la-poutine-how-to-make-the-ultimate-geek-food/" class="activityentry">La poutine: How to make the ultimate geek food</a>&nbsp;&nbsp;<a href="http://www.geeksaresexy.net/2007/09/21/la-poutine-how-to-make-the-ultimate-geek-food/#comments" title="Go to the comments of this entry">55</a><br>
+<small><a style="color: #444444;" href="http://www.geeksaresexy.net/2007/09/21/la-poutine-how-to-make-the-ultimate-geek-food/#comment-126675">Alex</a>, <a style="color: #cccccc;" href="http://www.geeksaresexy.net/2007/09/21/la-poutine-how-to-make-the-ultimate-geek-food/#comment-93399">Dez</a>, <a style="color: #cccccc;" href="http://www.geeksaresexy.net/2007/09/21/la-poutine-how-to-make-the-ultimate-geek-food/#comment-92928">Lochinvar</a>, <a style="color: #cccccc;" href="http://www.geeksaresexy.net/2007/09/21/la-poutine-how-to-make-the-ultimate-geek-food/#comment-92923">SiLiZiUMM</a>, <a style="color: #cccccc;" href="http://www.geeksaresexy.net/2007/09/21/la-poutine-how-to-make-the-ultimate-geek-food/#comment-92922">Not Greek</a>, <a style="color: #cccccc;" href="http://www.geeksaresexy.net/2007/09/21/la-poutine-how-to-make-the-ultimate-geek-food/#comment-88232">Kiltak</a> <a href="http://www.geeksaresexy.net/2007/09/21/la-poutine-how-to-make-the-ultimate-geek-food/#comments" title="Go to the comments of this entry">[...]</a></small></li>
+<li class="alternate"><a href="http://www.geeksaresexy.net/2007/10/17/steve-ballmer-and-linux-a-love-and-hate-story/" class="activityentry">Steve Ballmer and Linux: A love and hate story</a>&nbsp;&nbsp;<a href="http://www.geeksaresexy.net/2007/10/17/steve-ballmer-and-linux-a-love-and-hate-story/#comments" title="Go to the comments of this entry">5</a><br>
+<small><a style="color: #444444;" href="http://www.geeksaresexy.net/2007/10/17/steve-ballmer-and-linux-a-love-and-hate-story/#comment-126674">orche lhe</a>, <a style="color: #cccccc;" href="http://www.geeksaresexy.net/2007/10/17/steve-ballmer-and-linux-a-love-and-hate-story/#comment-19021">Sampi</a>, <a style="color: #cccccc;" href="http://www.geeksaresexy.net/2007/10/17/steve-ballmer-and-linux-a-love-and-hate-story/#comment-18882">Fred</a>, <a style="color: #cccccc;" href="http://www.geeksaresexy.net/2007/10/17/steve-ballmer-and-linux-a-love-and-hate-story/#comment-18876">spidamang</a>, <a style="color: #cccccc;" href="http://www.geeksaresexy.net/2007/10/17/steve-ballmer-and-linux-a-love-and-hate-story/#comment-18784">Richard Chapman</a></small></li>
+<li class="alternate"><a href="http://www.geeksaresexy.net/2008/12/26/patently-ridiculous/" class="activityentry">Patently ridiculous</a>&nbsp;&nbsp;<a href="http://www.geeksaresexy.net/2008/12/26/patently-ridiculous/#comments" title="Go to the comments of this entry">2</a><br>
+<small><a style="color: #494949;" href="http://www.geeksaresexy.net/2008/12/26/patently-ridiculous/#comment-126594">Sampi</a>, <a style="color: #4d4d4d;" href="http://www.geeksaresexy.net/2008/12/26/patently-ridiculous/#comment-126492">Douglas Karr</a></small></li>
+<li class="alternate"><a href="http://www.geeksaresexy.net/2008/11/17/rock-paper-scissors-lizard-spock/" class="activityentry">Rock Paper Scissors Lizard Spock</a>&nbsp;&nbsp;<a href="http://www.geeksaresexy.net/2008/11/17/rock-paper-scissors-lizard-spock/#comments" title="Go to the comments of this entry">6</a><br>
+<small><a style="color: #4b4b4b;" href="http://www.geeksaresexy.net/2008/11/17/rock-paper-scissors-lizard-spock/#comment-126557">Jack Daniel</a>, <a style="color: #cccccc;" href="http://www.geeksaresexy.net/2008/11/17/rock-paper-scissors-lizard-spock/#comment-120974">DEANNA</a>, <a style="color: #cccccc;" href="http://www.geeksaresexy.net/2008/11/17/rock-paper-scissors-lizard-spock/#comment-117607">fleaboy</a>, <a style="color: #cccccc;" href="http://www.geeksaresexy.net/2008/11/17/rock-paper-scissors-lizard-spock/#comment-117550">Casey</a>, <a style="color: #cccccc;" href="http://www.geeksaresexy.net/2008/11/17/rock-paper-scissors-lizard-spock/#comment-117536">mike</a>, <a style="color: #cccccc;" href="http://www.geeksaresexy.net/2008/11/17/rock-paper-scissors-lizard-spock/#comment-117467">Fen</a></small></li>
+<li class="alternate"><a href="http://www.geeksaresexy.net/2008/12/25/happy-holidays-from-all-of-us/" class="activityentry">Happy Holidays from All of Us!</a>&nbsp;&nbsp;<a href="http://www.geeksaresexy.net/2008/12/25/happy-holidays-from-all-of-us/#comments" title="Go to the comments of this entry">5</a><br>
+<small><a style="color: #4c4c4c;" href="http://www.geeksaresexy.net/2008/12/25/happy-holidays-from-all-of-us/#comment-126520">Kiltak</a>, <a style="color: #515151;" href="http://www.geeksaresexy.net/2008/12/25/happy-holidays-from-all-of-us/#comment-126353">Chip</a>, <a style="color: #515151;" href="http://www.geeksaresexy.net/2008/12/25/happy-holidays-from-all-of-us/#comment-126342">Muckbeast</a>, <a style="color: #545454;" href="http://www.geeksaresexy.net/2008/12/25/happy-holidays-from-all-of-us/#comment-126296">Sampi</a>, <a style="color: #545454;" href="http://www.geeksaresexy.net/2008/12/25/happy-holidays-from-all-of-us/#comment-126295">Nestor</a></small></li>
+<li class="alternate"><a href="http://www.geeksaresexy.net/2008/12/22/500-rounds-per-minute-nerf-vulcan-gun-hack/" class="activityentry">500 Rounds Per Minute Nerf Vulcan Gun Hack</a>&nbsp;&nbsp;<a href="http://www.geeksaresexy.net/2008/12/22/500-rounds-per-minute-nerf-vulcan-gun-hack/#comments" title="Go to the comments of this entry">1</a><br>
+<small><a style="color: #505050;" href="http://www.geeksaresexy.net/2008/12/22/500-rounds-per-minute-nerf-vulcan-gun-hack/#comment-126365">David Lemcoe</a></small></li>
+</ul>
+
+
+</div>
+
+
+<div class="cols1">
+			<h2>Hot Deals</h2>
+	
+<center>
+<script language="JavaScript" type="text/javascript">
+<!--
+var bordercolor="000000";
+var bgcolor="F0F0F0";
+var linkcolor="005EBF";
+var hovercolor="005EBF";
+var darkfont="000000";
+var lightfont="666666";
+var desctext="000000";
+var pricefont="000000";
+var userid="1055";
+var adtype="multi";
+var adsize = 32;
+var fontfamily = "verdana, tahoma";
+var ttz = 0;
+var channel = 6279;
+var keyword= "digital camera, gps, ipod, mp3 players, lcd tv, camcorders, dvd players";
+var PID= "";
+var PID2= "";
+var PID3= "";
+var PID4 = "";
+var altcontent = "";
+-->
+</script>
+<script src="http://www.ttzmedia.com/affiliate/ttz_ad.js" language="JavaScript"></script>
+
+</center>
+		</div>
+
+
+
+<div class="cols1">
+			<h2>Media Networks</h2>
+
+<center><a href="http://www.b5media.com" rel="nofollow"><img src="http://www.geeksaresexy.net/wp-content/uploads/2008/11/b5media4.gif" border="0"></a></center>
+
+<br><center><!-- Begin Adify tag for "Six Apart Media Badge" Ad Space (160x90) ID #4169707 -->
+<script type="text/javascript">
+	sr_adspace_id = 4169707;
+	sr_adspace_width = 160;
+	sr_adspace_height = 90;
+	sr_adspace_type = "graphic";
+	sr_ad_new_window = true;
+	
+</script>
+<script type="text/javascript" src="http://ad.afy11.net/srad.js?azId=4169707">
+</script>
+<!-- End Adify tag for "Six Apart Media Badge" Ad Space (160x90) ID #4169707 --></center>
+
+		</div>
+
+
+
+	
+	</div></div>
+<div class="lead">
+	<span class="ppre"></span>
+
+	<span class="pnex"></span>
+</div>
+<div class="wrap wrap2">
+	<div id="footer-bg">
+	<div id="widgets">
+		<div class="widgetd">
+			<ul>
+				<h2 class="widgettitle">sexy geeks</h2>
+<br>
+
+
+					<script type="text/javascript" src="http://pub.mybloglog.com/comm2.php?mblID=2007011114164979&amp;c_width=176&amp;c_sn_opt=n&amp;c_rows=3&amp;c_img_size=f&amp;c_heading_text=&amp;c_color_heading_bg=CCCCCC&amp;c_color_heading=CCCCCC&amp;c_color_link_bg=CCCCCC&amp;c_color_link=CCCCCC&amp;c_color_bottom_bg=CCCCCC"></script>
+				<center><!-- Site Meter -->
+<script type="text/javascript" src="http://sm7.sitemeter.com/js/counter.js?site=sm7geeks">
+</script>
+<noscript>
+<a href="http://sm7.sitemeter.com/stats.asp?site=sm7geeks" target="_top">
+<img src="http://sm7.sitemeter.com/meter.asp?site=sm7geeks" alt="Site Meter" border="0"/></a>
+</noscript>
+<!-- Copyright (c)2006 Site Meter --></center>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-276101-3";
+urchinTracker();
+</script>
+
+			</ul>
+		</div>
+
+		<div class="widgetd dsec">
+			<ul>
+				<li id="b" class="wg"><h2 class="widgettitle">blogroll</h2>
+					<ul>
+			<li><a href="http://www.betterthantherapy.net/" rel="nofollow">Better Than Therapy</a></li>
+<li><a href="http://www.belch.com/blog/" rel="nofollow">BelchSpeak</a></li>
+<li><a href="http://www.chipsquips.com/" rel="nofollow" title="A tiny spark of wit for a highly flammable world">Chip's Quips</a></li>
+<li><a href="http://geeksaresexy.blogspot.com" rel="nofollow" title="[GAS] old location">[GAS] on Blogspot</a></li>
+<li><a href="http://earthfirst.com/" rel="nofollow" title="EarthFirst">EarthFirst</a></li>
+		</ul>
+				</li>
+			</ul>
+		</div>
+		<div class="widgetd dtrd">
+			<ul>
+				<li id="c" class="wg"><h2 class="widgettitle">IT Tools</h2>
+					<ul>
+						 
+					</ul>
+				</li>
+			</ul>
+		</div>
+		<div class="widgetd dfrt">
+			<ul>
+				<h2 class="Special Offers"></h2>
+					
+
+
+			</ul>
+		</div>
+	</div>
+		</div>
+</div>
+<div id="footer">
+	<ul>
+		<li><a href="http://www.geeksaresexy.net/">Home</a></li>
+		<li><a href="http://www.geeksaresexy.net/about/" rel="nofollow">About</a></li>
+		<li><a href="http://www.geeksaresexy.net/advertise/" rel="nofollow">Advertise</a></li>
+		<li><a href="http://www.geeksaresexy.net/articles-and-reviews/">Articles</a></li>
+		<li><a href="http://www.geeksaresexy.net/donate/" rel="nofollow">Donate</a></li>
+		<li><a href="mailto:feedback@geeksaresexy.net?subject=[GAS] Feedback">Contact Us</a></li>
+		<li id="subscribe"><a href="http://www.geeksaresexy.net/feed/">Subscribe</a></li>
+	</ul>
+</div>
+
+
+<center>
+<!-- Begin Adify tag for "Geeks 728" Ad Space (728x90) ID #2161107 -->
+<script type="text/javascript">
+	sr_adspace_id = 2161107;
+	sr_adspace_width = 728;
+	sr_adspace_height = 90;
+	sr_adspace_type = "graphic";
+	sr_ad_new_window = true;
+	
+</script>
+<script type="text/javascript" src="http://ad.afy11.net/srad.js?azId=2161107">
+</script>
+<!-- End Adify tag for "Geeks 728" Ad Space (728x90) ID #2161107 -->
+
+<br>| <b><a href="http://www.geeksaresexy.net/privacy-policy-geeks-are-sexy-technology-news/" rel="nofollow">[GAS] Privacy Policy</a></b> | <b><a href="http://www.geeksaresexy.net/legal-disclaimer/" ref="nofollow">Legal Disclaimer</a></b> |
+</center><br>
+			<script type="text/javascript">
+			function clicky_get_cookie( name ) {
+			  var ca = document.cookie.split(';');
+			  for( var i in ca ) {
+				if( ca[i].indexOf( name+'=' ) > -1 ) return decodeURIComponent( ca[i].split('=')[1] );
+			  }
+			  return '';
+			}
+			var clicky_custom_session = { username: clicky_get_cookie( 'comment_author_60e34e640cdb94790850cf5f8a6e8635' ) };
+			</script>
+						<script src="http://pmetrics.performancing.com/3387.js" type="text/javascript"></script>
+			<noscript><p><img alt="Performancing Metrics" src="http://pmetrics.performancing.com/3387ns.gif" /></p></noscript>
+			
+
+</body></html>
