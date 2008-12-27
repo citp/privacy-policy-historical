@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldline.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514210012id_/http%3A//www.goldline.com/about-goldline/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldline.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227223034id_/http%3A//www.goldline.com/about-goldline/privacy-policy.html) for the most accurate reproduction.*
 
 # About Goldline - Privacy Policy - Goldline International
 
@@ -63,9 +63,10 @@ Silver | \--- | \---
 Platinum | \--- | \---  
 Palladium | \--- | \---  
 Loading Prices...  
+Prices are indications only. Call Goldline for most current spot prices. Click _[here](https://web.archive.org/about-goldline/spot-price-help.html)_ for more information.  
   
   
-[](http://www.goldline.com/media/exclusives/20080225-GlennBeck-v2.wma)   
+  
   
   
 [](https://web.archive.org/market-news/radio-show.html)
