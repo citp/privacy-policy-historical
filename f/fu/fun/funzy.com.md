@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funzy.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518001502id_/http%3A//www.funzy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funzy.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227212738id_/http%3A//www.funzy.com/privacy.html) for the most accurate reproduction.*
 
 # Funzy - Funzy.com
 
