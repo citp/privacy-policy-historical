@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the bphope.com privacy policy that was archived on 2008-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080420145314id_/http%3A//www.bphope.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bphope.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227210055id_/http%3A//www.bphope.com/Item.aspx%3Falias%3Dprivacy) for the most accurate reproduction.*
 
-# 
+# bpHope - Article
 
-privacy & security
-
- **Privacy Policy**  
+**Privacy Policy**  
 This Privacy Policy applies to the bp Magazine website located at [www.bphope.com](http://www.bphope.com/) and represents our approach to the information practices of our website.
 
 **_bp Magazine_ Privacy Principles**  
