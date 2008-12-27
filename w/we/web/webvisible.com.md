@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webvisible.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609010039id_/http%3A//webvisible.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webvisible.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227230213id_/http%3A//www.webvisible.com/privacy.asp) for the most accurate reproduction.*
 
 # WebVisible
 
