@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamegecko.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630064418id_/http%3A//gamegecko.com./privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamegecko.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227054617id_/http%3A//www.gamegecko.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - GameGecko.com
 
@@ -9,5 +9,3 @@
 **Cookies** Our advertiser may place cookies on your computer for tracking purposes. We do not have control over these cookies. You may view their privacy policy for more information. **Outgoing Links** Game Gecko contains links to other sites. We recommend that our visitors read the privacy policies provided by these 3rd party sites. **Downloads** Any downloads on our site are from 3rd party sources, it is recommended that our visitors read their privacy policies before downloading or submitting information to them. **Disclaimer** All games provided on Game Gecko come as is with no warranty or gaurantee. The games provided are believed to be public domain. If you believe content has been placed on the site without consent, please [contact us](http://www.gamegecko.com/contact.php). **Notification of Changes** If our privacy policy changes, the changes will be posted here. **Contact** You can send questions, comments, or suggestions using our [contact form](http://www.gamegecko.com/contact.php). **Address** GameGecko.com   
 PO BOX 37834   
 Raleigh, NC 27627 
-
-| 
