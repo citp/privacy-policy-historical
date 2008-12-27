@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidscom.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624041913id_/http%3A//www.kidscom.com/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidscom.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227014600id_/http%3A//www.kidscom.com/info/privacy_policy.html) for the most accurate reproduction.*
 
 # KidsCom - Privacy Policy
 
@@ -13,7 +13,7 @@ KidsCom.com follows the FTC guidelines for compliance with the Children's Online
 **Idea Seeker Registration**
 
 **Who needs to register?**  
-Registration is not required to play on and explore much of KidsCom.com. Registering as an Idea Seeker Member or Ally is only required for kids who want to chat on KidsCom.com, earn KidsKash for cool stuff in the Loot Locker, answer KidsKash Questions, join the Find a KeyPal program, adopt and care for a Plant Baby, explore many areas of the Idea Seeker Universe and be included in other special activities and promotions. KidsCom.com does not require, as a condition of participation, any Idea Seeker Member or Ally to disclose more information than is reasonably necessary for them to participate in an activity. An enhanced membership is available. This paid membership provides kids and parents with even more content and activity access.
+Registration is not required to play on and explore much of KidsCom.com. Registering as an Idea Seeker Member or Ally is only required for kids who want to chat on KidsCom.com, join the Find a KeyPal program, adopt and care for a Plant Baby, explore many areas of the Idea Seeker Universe and be included in other special activities and promotions. KidsCom.com does not require, as a condition of participation, any Idea Seeker Member or Ally to disclose more information than is reasonably necessary for them to participate in an activity. An enhanced membership is available. This paid membership provides kids and parents with even more content and activity access.
 
 **What info is collected?**  
 KidsCom.com is not permitted to collect more personal information than is reasonably necessary to permit a child to participate in activities on the site.
@@ -50,12 +50,7 @@ KidsCom.com uses every means available to safeguard the personal information of 
 
 **Find a KeyPal Program-** This program, popular with classroom teachers, allows kids to find electronic pen pals from around the world. Only kids with a parent's permission can participate in the program. When kids search for a KeyPal, they'll be given the first name, hometown and country of their KeyPal, plus an e-mail address and other fun facts kids have provided (such as favorite TV show or music group, hobbies, etc.). Kids can have as many KeyPals as they want, but this information is given out just one child at a time to prevent anyone from getting a large number of names at once. This is the only area on KidsCom.com where a child's e-mail address is allowed to be shared. We strongly encourage parents to responsibly monitor their child's e-mail activities. Idea Seeker Member or Ally registration is required to ensure that each child participating in KeyPal has parental permission.
 
-**Friend-to-Friend Messaging-** Friend-to-Friend messaging allows Idea Seekers (paid members) to send private messages to other kids on their Friends List. Only Idea Seekers with a parent's permission can participate in this program. The messages can only include words from our Keep it Safe, Keep it Clean Dictionary, but we still strongly encourage parents to monitor their child's messages. Idea Seeker registration is required to ensure that each child has parental permission. 
-
-**KidsKash Points and the Loot Locker-** Registered kids can earn KidsKash Points by playing educational games or getting involved in other areas of the KidsCom.com site. These points can be redeemed in our Loot Locker, a collection of kids' merchandise and services contributed by a variety of companies (those companies have no access to Idea Seeker registration information). Idea Seeker registration is required for earning KidsKash Points so we can accurately track each child's point totals.
-
-**KidsKash Questions-** Registered Idea Seeker Members or Allies can participate in occasional surveys in this area, which we use to gauge kids opinions on social, educational and marketing issues and topics. The responses from KidsKash Questions help guide our development of KidsCom.com and let us understand the topics that are on kids' minds. They also help other companies learn about kids. The results of all surveys we do are always reported in general, or aggregate, terms. We never break down the information to a point where individual children could be identified. Idea Seeker Member or Ally registration is required to ensure that each child participating in KidsKash Questions has parental permission.
-
+**Friend-to-Friend Messaging-** Friend-to-Friend messaging allows Idea Seekers (paid members) to send private messages to other kids on their Friends List. Only Idea Seekers with a parent's permission can participate in this program. The messages can only include words from our Keep it Safe, Keep it Clean Dictionary, but we still strongly encourage parents to monitor their child's messages. Idea Seeker registration is required to ensure that each child has parental permission.   
 We do not release, sell or in any way provide the names or identities of Idea Seeker Members or Allies to any marketers. We do not now and we never have.
 
 **Tell-A-Friend Messaging**
@@ -65,11 +60,10 @@ There are several places on KidsCom where kids can send an e-mail to a friend te
 **Does KidsCom.com use cookies?**
 
 **What is a cookie?**  
-A cookie is a small file that Web sites place on your computer to keep track of some information. On KidsCom.com, cookies do not store any personally identifiable information about you. You do not have to accept the cookies. In most cases, everything will work fine (just a little slower) if you do not accept the cookies. However, to earn KidsKash Points while playing some games on KidsCom.com you need to accept cookies.
+A cookie is a small file that Web sites place on your computer to keep track of some information. On KidsCom.com, cookies do not store any personally identifiable information about you. You do not have to accept the cookies. In most cases, everything will work fine (just a little slower) if you do not accept the cookies. 
 
 **Where are cookies used on Kidscom.com?**  
 Cookies are used in two ways on KidsCom.com. KidsCom.com only uses cookies with registered Idea Seeker Members or Allies and does so only to improve the site functionality for registered Idea Seeker Members or Allies or where it is necessary to complete a particular activity. First, cookies are used to keep log-in information in some areas so that registered users can access the site faster. These cookies contain a unique ID number so you can get into areas faster, instead of waiting for our computer to sort through all the different people in our records. These cookies do not track any of your other online activities and do not contain any personally identifiable information. These cookies expire after a certain amount of time and delete themselves from your computer.  
-Second, cookies are used during some games and activities on KidsCom.com. These are used only when registered users play games for KidsKash Points to keep track of your score. The cookie is created at the beginning of the game. When the game is over, the cookie deletes itself. These cookies do not store any personal information about you and do not track any of your other online activities.  
 Some of our advertisers may use cookies on our site. KidsCom.com requires those partners to be in full compliance with federal guidelines for children's online safety and privacy. Those cookies cannot be used to collect any personal information from our users.
 
 **How can parents update and delete info?**  
