@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cablemover.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231100938id_/http%3A//www.thisiscable.com/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cablemover.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227212724id_/http%3A//www.thisiscable.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # This Is Cable - Cable Services And Providers
 
