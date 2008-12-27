@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the totalrewards.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618032620id_/http%3A//www.harrahs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalrewards.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227221050id_/http%3A//www.harrahs.com/privacy.html) for the most accurate reproduction.*
 
-# Harrah's Entertainment, Inc. - Privacy
+# Harrah's Entertainment, Inc. - Privacy Policy
 
-|  [ HARRAH'S COMPANY HOME](/harrahs-corporate/index.html) | | |  [ ABOUT US](/harrahs-corporate/about-us.html) | | |  [ INVESTOR RELATIONS](http://investor.harrahs.com) | | |  [ CAREERS](/harrahs-corporate/careers-home.html
+|  [ HARRAH'S COMPANY INFO](/harrahs-corporate/index.html) | | |  [ ABOUT US](/harrahs-corporate/about-us.html) | | |  [ INVESTOR RELATIONS](http://investor.harrahs.com) | | |  [ CAREERS](/harrahs-corporate/careers-home.html
 ) | | |  [ DIVERSITY](/harrahs-corporate/diversity-overview.html
 ) | | |  [ MEDIA CENTER](/harrahs-corporate/media-center-overview.html
 )  
@@ -13,7 +13,7 @@
 ---  
   |  |   
 ---  
-[ ](/harrahs-corporate/about-us.html) [ ](http://investor.harrahs.com/) [ ](/harrahs-corporate/careers-home.html) [ ](/harrahs-corporate/diversity-overview.html) [ ](/harrahs-corporate/media-center-overview.html)  
+[ ](/harrahs-corporate/about-us.html) [ ](http://investor.harrahs.com/) [ ](/harrahs-corporate/careers-home.html) [ ](/harrahs-corporate/diversity-overview.html) [ ](/harrahs-corporate/media-center-overview.html) [ ](/harrahs-corporate/codegreen-index.html)  
    
   
 |  ****  
@@ -28,7 +28,7 @@ Harrah's Operating Company, Inc.
   
 **INTRODUCTION**
 
-Harrah's Operating Company, Inc. and all of our subsidiaries, affiliates, casinos and resorts have an unwavering commitment to providing outstanding products and services to visitors to our properties.  This Privacy Policy explains our practices for the following properties: Harrah's Phoenix Ak-Chin, Harrah's Rincon, Harrah's Joliet, Harrah's Metropolis, Horseshoe Hammond, Horseshoe Council Bluffs, Harrah's Council Bluffs, Harrah's Louisiana Downs, Harrah's New Orleans, Horseshoe Casino Bossier City, Horseshoe Casino Tunica, Harrah's North Kansas City, Harrah's St. Louis, Bill's Lake Tahoe, Harrah's Lake Tahoe, Harrah's Las Vegas, Harrah's Laughlin, Harrah's Reno, Harveys Lake Tahoe, Rio All-Suite Hotel & Casino, Harrah's Resort Atlantic City, Showboat Atlantic City, Harrah's Cherokee, Harrah's Chester, Bally's Las Vegas, Paris Las Vegas, Caesars Palace, Flamingo Las Vegas, Horseshoe Southern Indiana, Caesars Atlantic City, Bally's Atlantic City, Grand Biloxi, Harrah's Tunica, Sheraton Tunica, Reno Hilton, Wild Wild West Atlantic City, Claridge Atlantic City, Poarch Creek Atmore and the corporate offices of Harrah's Operating Company, Inc. (collectively “The Properties” and/or “We”).
+Harrah's Operating Company, Inc. and all of our subsidiaries, affiliates, casinos and resorts have an unwavering commitment to providing outstanding products and services to visitors to our properties.  This Privacy Policy explains our practices for the following properties: Harrah's Phoenix Ak-Chin, Harrah's Rincon, Harrah's Joliet, Harrah's Metropolis, Horseshoe Hammond, Horseshoe Council Bluffs, Harrah's Council Bluffs, Harrah's Louisiana Downs, Harrah's New Orleans, Horseshoe Casino Bossier City, Horseshoe Casino Tunica, Harrah's North Kansas City, Harrah's St. Louis, Bill's Lake Tahoe, Harrah's Lake Tahoe, Harrah's Las Vegas, Harrah's Laughlin, Harrah's Reno, Harveys Lake Tahoe, Rio All-Suite Hotel & Casino, Harrah's Resort Atlantic City, Showboat Atlantic City, Harrah's Cherokee, Harrah's Chester, Bally's Las Vegas, Paris Las Vegas, Caesars Palace, Flamingo Las Vegas, Horseshoe Southern Indiana, Caesars Atlantic City, Bally's Atlantic City, Grand Biloxi, Harrah's Tunica, Sheraton Tunica, Wild Wild West Atlantic City, Claridge Atlantic City, Poarch Creek Atmore and the corporate offices of Harrah's Operating Company, Inc. (collectively “The Properties” and/or “We”).
 
 * * *
 
@@ -97,16 +97,7 @@ OR
 
 **Direct Mail**
 
-To indicate that you do not want to receive direct mail from Harrah's (including Harrah's, Showboat, Rio, and/or Harveys), please visit any Total Rewards Center or call 1-800-HARRAHS. Please note:  
-
-
-  * This will opt you out within 30 days of direct mail from Harrah's and from any joint Caesars and Harrah's mailings.  
-
-  * If you would like to also opt out of mail from specific Caesars properties (including Caesars, Bally's, Paris, Flamingo, Grand, Sheraton Tunica, and Reno Hilton) you will need to visit that Connection Center or call that specific Caesars property.  
-
-  * To opt out of Horseshoe properties, please visit your local Winner's Circle Booth.  
-
-
+To indicate that you do not want to receive direct mail from Harrah's (including Harrah's, Caesars, Horseshoe, Bally's, Paris, Flamingo, Showboat, Rio, Sheraton Tunica, Grand Biloxi and/or Harveys), please visit any Total Rewards Center or call 1-800-HARRAHS. This will opt you out within 30 days of direct mail from Harrah's.  
 
 
 * * *
@@ -159,7 +150,7 @@ As a Total Rewards member, in order to ensure that all of your Personal Informat
 
 **Cookie Policy**
 
-We use cookies to be reminded of who you are and to help us to access your account information (stored on our computers) in order to keep track of your Total Rewards credits or points and to deliver to you a better and more personalized service.  "Cookies" are text files that store very small bits of information that help to identify you and your session interacting with a website.  Harrah's uses cookies to help us to identify you as a returning user to allow us to deliver a more seamless and personalized experience for you.  Currently, Harrah's tracks when you sign in and erases the information when you sign out.  Harrah's reserves the right to extend the use of cookies but only with our strategic partners.  Other third parties may be able to see information outside of Harrah's control.  Harrah's assume no legal responsibility for such use.  To learn more specifics about how cookies work, please refer to the help section of your web browser.
+We use cookies to identify who you are in order to deliver to a more personalized experience.  These cookies are affiliated with your browser and selected actions you take on our site. "Cookies" are text files that store very small bits of information.  For example, Harrah's uses cookies to identify you as a returning user to allow us to deliver unique marketing messages and services. Note, we DO NOT save or store your PIN number, Credit Card, or any other financial information within the cookie unless specifically requested by you the visitor. We may cookie you when you visit our site, click on our ads, or open our emails. Harrah's reserves the right to extend the use of cookies but only with our strategic partners.  Other third parties may be able to see information outside of Harrah's control.  Harrah's assume no legal responsibility for such use.  To learn more specifics about how cookies work, please refer to the help section of your web browser.
 
 **Over 21 Policy**
 
