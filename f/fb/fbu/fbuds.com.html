@@ -1,22 +1,22 @@
-<!--The following is the downloaded HTML source of the fbuds.com privacy policy that was archived on 2008-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609194740id_/http%3A//www.fbuds.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fbuds.com privacy policy that was archived on 2008-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081227041839id_/http%3A//www.fbuds.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy Policy</title>
-<!-- This web site was designed and engineered by AsesoftNET. This site is a database-driven, dynamic web site. Should you, or your company, desire more information about database-driven web sites or different other applications, please contact us (support at asesoftnet dot com) -->
-<meta name="AUTHOR" content="AsesoftNet.com">
 <meta name="DESCRIPTION" content="">
 <meta name="KEYWORDS" content="">
-<meta name="COPYRIGHT" content="Copyright 2007 Fbuds.com">
-<meta name="ROBOTS" content="ALL">
-<meta name="REVISIT-AFTER" content="7 DAYS">
-<meta name="RATING" content="GENERAL">
-<meta name="RESOURCE-TYPE" content="DOCUMENT">
-<meta name="DISTRIBUTION" content="GLOBAL">
+<meta name="ROBOTS" content="all">
+<meta name="verify-v1" content="dCa09zF4p3DtS7vYqr26W7mf6k6RpTp+9OowrXkOcTE=">
+<meta name="verify-v1" content="+GjPvXjJ8+nNLrVLhes8sq0gN5hTYuGFqDuwsXt8QgI=">
+<meta name="y_key" content="2cbf570061c1cbf1">
+<meta name="msvalidate.01" content="EF4FE7B516DE48D3B0BED7CDB63A0D35">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- This web site was designed and engineered by AsesoftNET. This site is a database-driven, dynamic web site. Should you, or your company, desire more information about database-driven web sites or different other applications, please contact us (support at asesoftnet dot com) -->
 <style type="text/css">
-@import "http://www.fbuds.com/css/global.css?rv=6";
+@import "http://www.fbuds.com/css/global.css?rv=8";
+@import "http://www.fbuds.com/css/menu.css?rv=8";
+@import "http://www.fbuds.com/css/button.css?rv=8";
 </style>
 <script language="JavaScript" type="text/javascript">
 // <![CDATA[
@@ -26,72 +26,95 @@ var URL_REWRITE = "on.v2";
 var DOMAIN_BASE = "fbuds.com";
 var SUBDOMAINS_STATUS = "off";
 var SUBDOMAINS_FORCE_FILES_JS = "site.remote";
-var URL_REWRITE_MAPPING_JS = "profile,user|search_results,type,city|men,type,city|confirm,code|mailbox,folder|read,message|messages,show";
+var URL_REWRITE_MAPPING_JS = "profile,user|search_results,type,city|men,type,city|events,type|confirm,code|mailbox,folder|read,message|messages,show";
 var USR_logins_username = "";
 var USR_logins_key = "";
+var txt_loading = "Loading";
 var form_is_submitted = 0;
+var RETURN = "http%3A%2F%2Fwww.fbuds.com%2Fprivacy";
 var submitted_form = "";
 var submission_button = "";
 if (top != self) {
 top.location = location;
 }
+function toggle_nav_bar(){
+var cookie_pfk = get_cookie('pfk');
+var cookie_username = get_cookie('_USR[logins_username]');
+var tab_welcome = dom_get_element("tab_welcome");
+var profile_link = "<a href='" + do_link("site.profile", "user=" + cookie_username) + "' class='top_menu'>" + cookie_username + "</a>";
+if ((cookie_pfk > 0) && (cookie_username != null)) {
+tab_welcome.innerHTML = "Welcome, " + profile_link + "!&nbsp;&nbsp;&nbsp;";
+}
+else {
+tab_welcome.innerHTML = "";
+}	
+}
 // ]]>
 </script>
-<script language="JavaScript" type="text/javascript" src="/js/global.js?rv=2"></script>
-<script language="JavaScript" type="text/javascript" src="/js/common.js?rv=2"></script>
+<script type="text/javascript" src="http://www.fbuds.com/js/prototype.js"></script>
+<script type="text/javascript" src="http://www.fbuds.com/js/scriptaculous.js?load=builder,effects"></script>
+<script language="JavaScript" type="text/javascript" src="/js/global.js?rv=3"></script>
+<script language="JavaScript" type="text/javascript" src="/js/common.js?rv=3"></script>
+<script language="JavaScript" type="text/javascript" src="/js/swfobject.js?rv=3"></script>
+<script language="JavaScript" type="text/javascript" src="/flashcoms/common/js/flashcoms.js?rv=3"></script>
+<script type="text/javascript" src="http://s2.monolytics.com/t.js?rv=1"></script>
 </head>
 <body onunload="form_do_reset(submitted_form, submission_button);">
+<h1 class="disp_title">Privacy Policy</h1>
 <div id="container">
 <div id="header">
-<div id="top_header">
-<div id="logo"><a href="http://www.fbuds.com/"><img src="/img/site/logo.gif" width="158" height="64"></a></div>
-<div id="mobile">
-<script language="JavaScript" type="text/javascript">
-// <![CDATA[
-document.open();
-document.write("<a href=\"http://www.fbuds.com/mobile_version\" class=\"link_black_small\">Mobile version (mobile.fbuds.com)</a>");
-document.close();
-// ]]>
-</script><a href="http://www.fbuds.com/mobile_version" class="link_black_small">Mobile version (mobile.fbuds.com)</a>
-<noscript><a href="http://mobile.fbuds.com/?mobile_loaded=on" class="link_black" rel="nofollow"><b>Your browser is not using JavaScript</b><br />Switch to Mobile version (mobile.fbuds.com)</a></noscript>
-</div>
-<div id="mail_cnt_holder"></div>
-<div id="top_menu">
+<div class="clearfix" style="width: 100%;">
+<div id="mobile" style="float: left; padding-top: 5px;">&nbsp; &nbsp; <img src="/img/site/tel.gif" align="absmiddle"> <a href="http://www.fbuds.com/mobile_version" style="color: #FFFFFF; font-size: 10px;">Mobile version (mobile.fbuds.com)</a></div>
+<span id="ch_lang" onclick="return overlay_recc(this, &quot;subcontent&quot;, &quot;bottomleft&quot;);"><img src="/img/site/map.gif" alt="" width="34" height="18" align="absmiddle" style="margin-left: 5px; margin-right: 10px;"><a href="http://www.fbuds.com/privacy" onclick="return false;" id="lang_link" style="padding-top: 2px;">English</a></span>
+<div id="top_menu" style="float: right;">
 <!-- has_cookie -->
 <span id="tab_welcome" class="text_top"></span>
 <!-- has_cookie -->
 &nbsp; &nbsp; &nbsp; &nbsp;
 
-<a href="http://www.fbuds.com/signup">Join Now</a> &nbsp; | &nbsp;
-<a href="http://www.fbuds.com/login">Log in</a>
+<a href="http://www.fbuds.com/signup" rel="nofollow">Join Now</a> &nbsp; | &nbsp;
+<a href="http://www.fbuds.com/login" rel="nofollow">Log in</a>
+&nbsp; &nbsp;
 </div>
+</div>
+<div id="top_header" class="clearfix" style="clear: both; width: 100%;">
+<b class="top"></b><i class="top"></i>
+<div id="logo"><a href="http://www.fbuds.com/"><img src="/img/site/logo.gif" alt="gay dating and gay site" width="140" height="55"></a></div>
+<div id="mail_cnt_holder"></div>
 <div id="top_search">
 <form method="POST" action="http://www.fbuds.com/search" name="search_username" onsubmit="if ((document.search_username.profile_username____LIKE.value == '') || (document.search_username.profile_username____LIKE.value == 'Search by username')) {return false;}">
-<input type="TEXT" name="profile_username____LIKE" value="Search by username" size="30" style="border: solid 1px #999999; padding-left: 4px;" onfocus="if (this.value == 'Search by username') {this.value = ''}" onblur="if (this.value == '') {this.value = 'Search by username'}">
-<input type="submit" name="btn_submit" value="Go">
+<input id="search_text" type="TEXT" name="profile_username____LIKE" value="Search by username" size="30" onfocus="if (this.value == 'Search by username') {this.value = ''}" onblur="if (this.value == '') {this.value = 'Search by username'}"><input type="submit" id="search_btn" name="btn_submit" value="Search">
 </form>
 </div>
 </div>
-<div id="btm_header"><span><img src="/img/site/spacer.gif" width="1" height="1" alt=""></span></div>
 </div>
 <div id="top_nav">
-<a href="http://www.fbuds.com/signup">Become a Member</a>
-&nbsp; | &nbsp;
-<a href="http://www.fbuds.com/men/online">Online Now</a>
-&nbsp; | &nbsp;
-<a href="http://www.fbuds.com/men/new">New Members</a>
-&nbsp; | &nbsp;
-<a href="http://www.fbuds.com/men/new_pics">Recent Members Photos</a>
-&nbsp; | &nbsp;
-<a href="http://www.fbuds.com/search">Search</a>
+<b></b><i></i>
+<div style="float: right;">
+<a href="http://www.fbuds.com/subscribe" title="Upgrade Your Account" style="color: #FFB336;">Upgrade Your Account</a>
+&nbsp; &nbsp;
 </div>
-<div id="content">
-<div id="top_content"><span><img src="/img/site/spacer.gif" width="1" height="1" alt=""></span></div>
+&nbsp; &nbsp;
+<a href="http://www.fbuds.com/signup">Become a Member</a>
+&nbsp; <img src="/img/site/top_nav_sep.gif" alt="" height="35" width="1" align="absmiddle"> &nbsp;
+<a href="http://www.fbuds.com/men/online" title="gay online now">Online Now</a>
+&nbsp; <img src="/img/site/top_nav_sep.gif" alt="" height="35" width="1" align="absmiddle"> &nbsp;
+<a href="http://www.fbuds.com/men/new" title="New Members">New Members</a>
+&nbsp; <img src="/img/site/top_nav_sep.gif" alt="" height="35" width="1" align="absmiddle"> &nbsp;
+<a href="http://www.fbuds.com/men/new_pics" title="Recent Members Photos">Recent Members Photos</a>
+&nbsp; <img src="/img/site/top_nav_sep.gif" alt="" height="35" width="1" align="absmiddle"> &nbsp;
+<a href="http://www.fbuds.com/privacy" onclick="open_chat(); return false;" title="Chat">Chat</a>
+&nbsp; <img src="/img/site/top_nav_sep.gif" alt="" height="35" width="1" align="absmiddle"> &nbsp;
+<a href="http://www.fbuds.com/search" title="Search">Search</a>
+<!--&nbsp; <img src="/img/site/top_nav_sep.gif" alt="" height="35" width="1" align="absmiddle" /> &nbsp;
+<a href="http://www.fbuds.com/events" title="Events">Events</a> -->
+</div>
+<div id="content" style="padding-top: 5px;">
 <div id="main_content" class="clearfix">
 
 
 <div id="general">
-<h1>Privacy Policy</h1>
+<div class="h1_div">&nbsp;</div>
 <br>
 This site is owned and operated by Sharyland Internet Partners, Inc.. Your privacy and ours on the Internet is of the utmost importance to us. We want to make your experience online satisfying and safe. 
 <br><br>
@@ -159,12 +182,11 @@ Opting not to participate in certain interactive areas, which completely allevia
 <br><br>
 By using this site, you consent to the collection and use of this information by Sharyland Internet Partners, Inc. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it
 </div>
+</div><br>
 </div>
-<div id="btm_content"><span><img src="/img/site/spacer.gif" width="1" height="1" alt=""></span></div>
-</div>
-<div id="footer"><br>
-<a href="http://www.fbuds.com/advertising" class="main_menu">Advertising Info</a>
-&nbsp; | &nbsp;
+<div id="footer" style="position: relative;">
+<b class="btm"></b><i class="btm"></i>
+<span class="btm">
 <a href="http://www.fbuds.com/privacy" class="main_menu">Privacy Policy</a>
 &nbsp; | &nbsp;
 <a href="http://www.fbuds.com/terms" class="main_menu">User Agreement</a>
@@ -174,25 +196,54 @@ By using this site, you consent to the collection and use of this information by
 <a href="http://www.fbuds.com/site_map" class="main_menu">Site Map</a>
 &nbsp; | &nbsp;
 <a href="http://www.fbuds.com/contact" class="main_menu">Contact Us</a>
-&nbsp; | &nbsp;
-<a href="http://www.fbuds.com/links" class="main_menu">Partners</a>
-<br><br>
-<span id="photos_text">All photos and images are of men at least 18 years of age.<br>All members have contractually represented to us that they are 18 years of age or older.<br>All Photos are member posted solely for the purpose of meeting other men.</span>
+ &nbsp; | &nbsp; <a href="http://de.fbuds.com" class="main_menu">Deutsch</a> &nbsp; | &nbsp; <a href="http://es.fbuds.com" class="main_menu">Spanish</a> &nbsp; | &nbsp; <a href="http://pt.fbuds.com" class="main_menu">Portuguese</a>
+</span>
+</div>
+<div style="font-size: 11px; text-align: center; background: url('/img/site/bg_footer.gif') no-repeat top center; padding-top: 5px;">
+<div id="photos_text" class="clearfix" style="clear: both; width: 100%;">All photos and images are of men at least 18 years of age.<br>All members have contractually represented to us that they are 18 years of age or older.<br>All Photos are member posted solely for the purpose of meeting other men.</div>
 <script language="JavaScript" type="text/javascript">
 // <![CDATA[
 document.getElementById("photos_text").innerHTML = "All photos and images are of men at least 18 years of age.<br />All members have contractually represented to us that they are 18 years of age or older.<br />All Photos are member posted solely for the purpose of meeting other men.";
 // ]]>
 </script>
-<br><br>
+<div class="clearfix" style="clear: both; width: 100%;"></div>
+</div>
+</div>
+<div id="subcontent" class="clearfix" style="display: none;"><ul><li class="clearfix" style="list-style: none; padding-left: 10px; width: 150px;"><img src="/img/site/beta.gif" style="display: inline; float: right; margin-top: 3px; margin-right: 5px;"><a href="http://de.fbuds.com" class="link_black">Deutsch</a></li><li class="clearfix" style="list-style: none; padding-left: 10px; width: 150px;"><img src="/img/site/beta.gif" style="display: inline; float: right; margin-top: 3px; margin-right: 5px;"><a href="http://es.fbuds.com" class="link_black">Spanish</a></li><li class="clearfix" style="list-style: none; padding-left: 10px; width: 150px;"><img src="/img/site/beta.gif" style="display: inline; float: right; margin-top: 3px; margin-right: 5px;"><a href="http://pt.fbuds.com" class="link_black">Portuguese</a></li></ul></div>
+<script type="text/javascript">
+// <![CDATA[
+dom_get_element("mobile").innerHTML = "&nbsp; &nbsp; <img src=\"/img/site/tel.gif\" align=\"absmiddle\"> <a href=\"http://www.fbuds.com/mobile_version\" style=\"color: #FFFFFF; font-size: 10px;\">Mobile version (mobile.fbuds.com)</a>";
+// ]]>
+</script>
+<noscript><a href="http://mobile.fbuds.com/?mobile_loaded=on" class="link_black" rel="nofollow"><b>Your browser is not using JavaScript</b><br />Switch to Mobile version (mobile.fbuds.com)</a></noscript>
 
-</div>
-</div>
+<script type="text/javascript">
+// <![CDATA[
+start_lang_menu();
+function lang_on(){
+dom_get_element("all_lang").style.display = "";
+}
+function lang_off(){
+alert("asd");
+setTimeout("dom_get_element(\"all_lang\").style.display = \"none\";", 1000);
+}
+// ]]>
+</script>
 <script language="JavaScript" type="text/javascript">
 // <![CDATA[
 toggle_nav_bar();
 
 // ]]>
 </script>
+<!-- Start Tracking action -->
+<script type="text/javascript">
+try {
+var _mnt_sect = "";
+var _mnt_domain = "fbuds.com";
+_mnt_track_view();
+} catch(err) {}
+</script>
+<!-- End Tracking action -->
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
