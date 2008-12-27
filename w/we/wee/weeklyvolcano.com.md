@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weeklyvolcano.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516232931id_/http%3A//www.weeklyvolcano.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklyvolcano.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227123333id_/http%3A//www.weeklyvolcano.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - The Weekly Volcano, Puget Sound's Arts and Entertainment Authority
+# Weekly Volcano alternative newsweekly Tacoma Olympia - Privacy Policy
 
 ## Swarner Communications, Inc.
 
