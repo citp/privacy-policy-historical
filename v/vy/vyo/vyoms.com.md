@@ -1,13 +1,21 @@
-> *The following text is extracted and transformed from the vyoms.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607155027id_/http%3A//vyoms.com/terms.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vyoms.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227020024id_/http%3A//www.vyoms.com/terms.asp) for the most accurate reproduction.*
 
 # About VYOMS
 
-| [](https://web.archive.org/) |   
+|  [](https://web.archive.org/ "Vyoms - Powered By World's Largest Job Group - Home") |   
 ---|---  
 | 
 
 Privacy Policy 
 
+* * *
+
+* * *
+
+|  |  **Search Jobs:** (For ex: Software Testing Jobs, Java Jobs, .Net Jobs)  
+---|---  
+  |   
+  
 Welcome to the Vyom Network, owned and produced by Vyom Technosoft. The Vyom Network is currently one of the most visited hubs on the Internet. The Vyom Network provides leading Web search and navigation, homepage building and Web community services, communications and personalization tools and many more. Integrated, these sites help each individual user locate, retrieve and manage information tailored to his or her personal interests. Unless explicitly stated otherwise, any new Products and Services as defined below, including the addition of new Vyom Network properties shall be subject to these Terms and Conditions.
 
 onestopmba.com respects your privacy and strives to ensure that any personal information you provide is protected. The following describes our commitment to the privacy of your information, the information we gather, and how that information is used. This site has security measures in place to help protect the loss, misuse, and alteration of the information under our control. The information is stored in a secure operating environment.
@@ -17,6 +25,3 @@ All Vyoms.com mailing lists are voluntary. We will never add you to an email lis
 
 amit[dot]mathur[at]vyom[dot]co[dot]in  
 Note : Please replace [at] with @ and [dot] with . in the above email address.
-
-|   
----|---|---
