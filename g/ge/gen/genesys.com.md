@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genesys.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630074230id_/http%3A//www.genesys.com/Resources/Documents/US/Legal/Privacy%2520Policy2007.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genesys.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227083259id_/http%3A//www.genesys.com/Resources/Documents/US/Legal/Privacy%2520Policy2007.pdf) for the most accurate reproduction.*
 
 # 
 
