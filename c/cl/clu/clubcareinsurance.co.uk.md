@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clubcareinsurance.co.uk privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502051242id_/http%3A//www.clubcareinsurance.co.uk/Support/club-care-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubcareinsurance.co.uk privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227214905id_/http%3A//www.clubcareinsurance.co.uk/Support/club-care-privacy-policy.aspx) for the most accurate reproduction.*
 
-# Club Care Insurance
+# Caravan Insurance | Club Care Insurance - Privacy Policy
 
 ## PRIVACY POLICY / LEGAL DISCLAIMER
 
