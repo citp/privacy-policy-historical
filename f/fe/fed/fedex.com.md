@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fedex.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625041307id_/http%3A//www.fedex.com/us/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedex.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227061522id_/http%3A//www.fedex.com/us/privacypolicy.html) for the most accurate reproduction.*
 
 # FedEx Insight - FedEx Ship Manager - My FedEx
 
