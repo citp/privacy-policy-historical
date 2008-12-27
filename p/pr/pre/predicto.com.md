@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the predicto.com privacy policy that was archived on 2008-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080323040444id_/http%3A//www.predicto.com/index.cfm/fuse/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predicto.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227083406id_/http%3A//www.predicto.com/index.cfm/fuse/privacypolicy) for the most accurate reproduction.*
 
 # Predicto - Vote From Your Cell Phone, Win Cash and Prizes
 
