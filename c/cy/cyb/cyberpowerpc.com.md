@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cyberpowerpc.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602214019id_/http%3A//www.cyberpowerpc.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberpowerpc.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228031730id_/http%3A//www.cyberpowerpc.com/company/privacy.asp) for the most accurate reproduction.*
 
-# Cyberpower Inc. Privacy Policy
-
-_**Privacy Policy**_
+# : : : CyberPower, Inc. : : :
 
 **Information**  
      When you make purchase requests, we do collect and store the names, addresses, credit card numbers and other personally-identifying information from you. We use this information to process your orders, to keep you updated on your orders and to personalize your shopping experience. This information is saved in a secure environment and is kept for our records and to make it easier for you to use our service on return visits. We do not reveal your name, address, credit card number or other personal-identifying information to any third parties or let the information become accessible to the general public without your consent.
@@ -18,4 +16,4 @@ _**Privacy Policy**_
 
 If you have any question regarding our online security and privacy, you may contact us at 
 
-[cyberpower@cyberpowerpc.com](mailto:cyberpower@cyberpowerpc.com).
+[cyberpower@cyberpowerpc.com](mailto:cyberpower@cyberpowerpc.com). 
