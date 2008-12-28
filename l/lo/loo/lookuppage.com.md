@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lookuppage.com privacy policy that was archived on 2008-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080310020503id_/http%3A//www.lookuppage.com/lookup-page/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookuppage.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228041826id_/http%3A//www.lookuppage.com/lookup-page/policy) for the most accurate reproduction.*
 
 # LookupPage | Privacy Policy
 
-|   
+|  Privacy Policy  
 ---  
-Thank you for visiting [www.lookuppage.com](http://www.lookuppage.com/ "www.lookuppage.com") (together with all content on the site operated by Cyclicom Holdings Limted   
+Thank you for visiting [www.lookuppage.com](http://www.lookuppage.com/ "www.lookuppage.com") (together with all content on the site operated by Cyclicom Holdings Limted  
 or its affiliates ("Cyclicom") (the "Site")).   
 Your privacy is important to us. To better protect your privacy, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used at this Site.   
 This Privacy Policy forms part of the Terms of Use, available at [www.lookuppage.com/lookup-page/terms](http://www.lookuppage.com/lookup-page/terms "Terms of Use")  
@@ -12,20 +12,20 @@ This Privacy Policy forms part of the Terms of Use, available at [www.lookuppage
 ###  Introduction   
   
 We are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.   
-"Personal Information" means any information that may be used to identify an individual, including, but not limited to, a first and last name, pen name, personal profile, a home or other physical address and an email address or other contact information.   
-Currently, we do not require you to provide Personal Information in order to have access to information available on our Site. However, in order to provide you with the services given under the Site, including but not limited to using the Lookuppage services, you must create an account ("Account") and provide us with your email address, a password that you will use for your Account.   
-If payment for the Lookuppage Services is made through PayPal account, PayPal’s privacy policy will apply to the information you supply to them. Please note that any user's Biography, resume, family history, current project or pictures or any other content posted at the direction of user as part of LookupPage services becomes published content and is not considered Personal Information subject to this Privacy Policy.   
+"Personal Information" means any information that may be used to identify an individual, including, but not limited to, a first and last name, pen name, personal profile, a home or other physical address and an email address or other contact information.  
+Currently, we do not require you to provide Personal Information in order to have access to information available on our Site. However, in order to provide you with the services given under the Site, including but not limited to using the Lookuppage services, you must create an account ("Account") and provide us with your email address, a password that you will use for your Account.  
+If payment for the Lookuppage Services is made through PayPal account, PayPal's privacy policy will apply to the information you supply to them. Please note that any user's Biography, resume, family history, current project or pictures or any other content posted at the direction of user as part of LookupPage services becomes published content and is not considered Personal Information subject to this Privacy Policy.   
   
 ###  The Way We Use Personal Information   
   
-If you submit Personal Information to us through the Site, then we will use your Personal Information to improve our services to you, to make certain offers or services, to contact you and to identify and authenticate your access to the Site's services that you are authorized to access.   
-We may transfer your Personal Information within Cyclicom or to Cyclicom's third-party service providers, but only to provide services on the Site or to you, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world.   
-We may provide Personal Information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our Privacy Policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.   
+If you submit Personal Information to us through the Site, then we will use your Personal Information to improve our services to you, to make certain offers or services, to contact you and to identify and authenticate your access to the Site's services that you are authorized to access.  
+We may transfer your Personal Information within Cyclicom or to Cyclicom's third-party service providers, but only to provide services on the Site or to you, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world.  
+We may provide Personal Information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our Privacy Policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.  
 You may choose not to receive email from Cyclicom by sending a single email with the subject "BLOCK" to [privacy@lookuppage.com](mailto:privacy@lookuppage.com "privacy@lookuppage.com"). Please note that the email must come from the mail you wish to block.   
   
 ###  Cookies and Other Tracking Technologies   
   
-Some of our Site pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Site user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.   
+Some of our Site pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Site user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.  
 You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter certain identifying information, should we in the future require such information, to gain access to certain parts of the Site.   
 Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our Site is accessed. Our use of cookies and other tracking technologies allows us to improve our Site and your web experience.   
   
@@ -67,7 +67,7 @@ By using this Site, you consent to the terms of our Privacy Policy and to Cyclic
   
 ###  Your California Privacy Rights   
   
-California Civil Code Section 1798.83 permits customers of the Site who are California residents to request certain information   
+California Civil Code Section 1798.83 permits customers of the Site who are California residents to request certain information  
 regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request,   
 please send an email to [info@lookuppage.com](mailto:info@lookuppage.com "info@lookuppage.com"). 
 
