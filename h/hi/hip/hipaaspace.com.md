@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the hipaaspace.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625022440id_/http%3A//www.hipaaspace.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipaaspace.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228042841id_/http%3A//www.hipaaspace.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # HIPAA Space Privacy Policy
 
-  
-|   
----|---  
-  
 Table of Contents
 
   * General Information
@@ -26,7 +22,7 @@ At HIPAA Space we recognize that privacy is important. This Policy applies to al
 
 HIPAA Space adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement.
 
-If you have any questions about this Policy, please feel free to [contact us](http://www.hipaaspace.com/general/feedback.aspx) through our website.
+If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20081228042841id_/http%3A//www.hipaaspace.com/general/feedback.aspx) through our website.
 
 Policy's effective date is: 03/22/2008
 
@@ -34,7 +30,7 @@ Policy's effective date is: 03/22/2008
 
 We offer a number of services that do not require you to register for an account or provide any personal information to us. In order to provide our full range of services, we may collect the following types of information:
 
-  * **Information you provide** \- When you sign up for a HIPAA Space Account or other HIPAA Space service or promotion that requires registration, we ask you for personal information (such as your email address and an account password). For paid services, such as our advertising programs, we also request credit card or other payment account information which we **DO NOT** keep on our servers. Each time you need to provide payment you are forwarded to authorized retailer of our services - [2Checkout Inc.](http://www.2checkout.com/), 2Checkout's privacy policy is available [here](https://www2.2checkout.com/documentation/privacy.htm). Information is always transmitted in the encrypted form to secure servers. We may combine the information you submit under your account with information from other HIPAA Space services or third parties in order to provide you with a better experience and to improve the quality of our services. 
+  * **Information you provide** \- When you sign up for a HIPAA Space Account or other HIPAA Space service or promotion that requires registration, we ask you for personal information (such as your email address and an account password). For paid services, such as our advertising programs, we also request credit card or other payment account information which we **DO NOT** keep on our servers. Each time you need to provide payment you are forwarded to authorized retailer of our services - [Plimus Inc.](http://www.plimus.com/), Plimus privacy policy is available [here](http://www.plimus.com/privacy.html). Information is always transmitted in the encrypted form to secure servers. We may combine the information you submit under your account with information from other HIPAA Space services or third parties in order to provide you with a better experience and to improve the quality of our services. 
   * **Log information** \- When you use HIPAA Space services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request.
   * **User communications** \- When you send email or other communication to HIPAA Space, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
   * **Affiliated sites** \- We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to HIPAA Space in order to deliver the service. We process such information in accordance with this Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. This rule does not apply in the opposite way - we **NEVER** ship any of the personal information to the affiliate sites.
@@ -88,7 +84,7 @@ When you use HIPAA Space services, we make good faith efforts to provide you wit
 
 ### Enforcement
 
-HIPAA Space regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or HIPAA Space's treatment of personal information by [contacting us](http://www.hipaaspace.com/general/feedback.aspx) through this web site. When we receive formal complaints, it is HIPAA Space's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between HIPAA Space and an individual. 
+HIPAA Space regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or HIPAA Space's treatment of personal information by [contacting us](https://web.archive.org/web/20081228042841id_/http%3A//www.hipaaspace.com/general/feedback.aspx) through this web site. When we receive formal complaints, it is HIPAA Space's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between HIPAA Space and an individual. 
 
 ### Changes to this policy
 
@@ -96,4 +92,8 @@ Please note that this Privacy Policy may change from time to time. Regardless, w
 
 If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site. 
 
+|   
+  
 Copyright © 2004-2008 HIPAA Space Privacy Policy (Powered by Boost Cluster Engine for HIPAA Space Privacy Policy), All Rights Reserved. HIPAA liability, trademark, document use and software licensing rules apply. All registered trademarks, used in the content, are the property of their owners. Your interactions with this site are in accordance with our Terms of Use and Privacy Policy. 
+
+   
