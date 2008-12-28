@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the medicalnewstoday.com privacy policy that was archived on 2008-04-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080413134606id_/http%3A//www.medicalnewstoday.com/index.php%3Fpage%3Dprivacypolicy%26title%3DPrivacy%2BPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the medicalnewstoday.com privacy policy that was archived on 2008-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081228052816id_/http%3A//www.medicalnewstoday.com/index.php%3Fpage%3Dprivacypolicy%26title%3DPrivacy%2BPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
 
@@ -42,30 +42,6 @@ function openpage(page)
    mywin=window.open(page, "Window", "toolbar=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=630,height=500");
 }
 
-// JavaScript for MediLexicon Search Engine. Do not alter.
-function openPharmaWin(formname)
-{
-
-	if (formname=="definition") {
-
-		var String = document.definitionForm.keywords.value;
-		var User = document.definitionForm.username.value;
-		var Searchtype = "keyword";
-		
-	} else {
-		
-		var String = document.acronymForm.keywords.value;
-		var User = document.acronymForm.username.value;
-		var Searchtype = "acronym";
-		
-	}
-
-	String = escape(String);
-	
-	pharmaWin=window.open("http://www.medilexicon.com/extsearch.php?searchtype=" + Searchtype + "&username=" + User + "&keywords=" + String, "Pharma_Search", "toolbar=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=400,height=330,left=400,top=300,screenX=0,screenY=150");
-
-}
-
 // -->
 </script>
 
@@ -74,17 +50,19 @@ function openPharmaWin(formname)
 
 if (top.frames.length!=0)
     top.location=self.document.location;
-file://-->
 
+//-->
 </script>
 
 <script language="JavaScript" src="/scripts/AntiSpambotMailto.js" type="text/javascript"></script>
+<script type="text/javascript" src="/scripts/menu.js"></script>
+<script language="JavaScript" src="/scripts/googleadcode.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-// Script to resize page if resolution is less than 900 (for old versions of IE that don't use min-width value
+<!--script type="text/javascript">
+// Script to resize page if resolution is less than 900 (for old versions of IE that don't like centering of website)
 if (screen.width < 900)
 	document.write('<link href="/css/pagelayout_800.css" rel="stylesheet" type="text/css">');
-</script><link href="/css/pagelayout_800.css" rel="stylesheet" type="text/css"> 
+</script-->
 </head>
 <body bgcolor="#dddddd">
 <a name="top"></a>
@@ -94,56 +72,60 @@ if (screen.width < 900)
 <!-- Title Section -->
 
 <div id="title">
+<div id="headerback">
+
 <div id="titleback">
 
-<div id="titlelogo">
-<a href="http://www.medicalnewstoday.com" rel="nofollow"><img src="/images/title_mntlogo.jpg" width="154" height="69" alt="Medical News Today Logo" border="0"></a>
+<div style="position:absolute; top:0px; left:0px; z-index:1;">
+<a href="/" title="back to homepage" rel="nofollow"><img src="/images/toplogo.jpg" width="118" height="69" alt="Medical News Today" border="0"></a>
 </div>
 
-<div id="titledate">
-<div style="width:142px; height:23px; padding-top:2px;">
-  
+
+<table border="0" cellspacing="0" cellpadding="0" style="position:absolute; left:330px; height:69px;">
+  <tbody><tr>
+    <td width="10">&nbsp;</td>
+    <td class="top-menu" align="right"><a href="/" accesskey="h" style="color:#FFFF00;" title="Health News Homepage">Health News</a></td>
+    <td><img src="/images/menusep.gif" width="16" height="69" alt=""></td>
+    
+    <td width="10">&nbsp;</td>
+    <td class="top-menu" align="right"><a href="/healthvideos.php" style="color:#FFFFFF;" rel="nofollow" title="Health Videos Section">Health Videos</a></td>
+    <td><img src="/images/menusep.gif" width="16" height="69" alt=""></td>    
+
+    <td width="10">&nbsp;</td>
+    <td class="top-menu" align="right"><a href="/youropinions.php" style="color:#FFFFFF;" rel="nofollow" title="Visit Our Forum">Forum</a></td>
+    <td><img src="/images/menusep.gif" width="16" height="69" alt=""></td>  
+
+	<td width="10">&nbsp;</td>
+    <td class="top-menu" align="right"><a href="/healthcareadvertising.php" accesskey="r" style="color:#FFFFFF;" rel="nofollow" title="How to Advertise in Medical News Today">Advertise</a></td>
+    <td><img src="/images/menusep.gif" width="16" height="69" alt=""></td>  
+
+    <td width="10">&nbsp;</td>
+    <td class="top-menu" align="right"><a href="/index.php?page=feedback&amp;title=Contact+Us" accesskey="c" style="color:#FFFFFF;" rel="nofollow" title="Contact Us - Feedback">Contact</a></td>
+
+    <td width="46">&nbsp;</td>
+ </tr>
+</tbody></table>
+
+<div style="position:absolute; left:820px; top:20px;">
+<a href="/index.php?page=newsfeed" title="Health News RSS Feeds"><img src="/images/rsslogo.gif" width="61" height="31" alt="Health News RSS Feeds" border="0"></a>
+</div>
 
 </div>
-</div>
 
-<ul id="titlemenu">
-
-<li class="active">
-<a href="/" accesskey="h" class="topmenu_links">health news</a>
-</li>
-<li class="inactive">
-<a href="/healthvideos.php" class="topmenu_links" rel="nofollow">health videos</a>
-</li>
-<li class="inactive">
-<a href="/youropinions.php" class="topmenu_links">opinions forum</a>
-</li>
-<li class="inactive">
-<a href="/index.php?page=feedback&amp;title=Contact+Us" accesskey="c" class="topmenu_links" rel="nofollow">contact</a>
-</li>
-<li class="end">&nbsp;
-</li>
-</ul>
-
-<div id="title_right">
-<span style="position:absolute; left:15px;">
-<a href="/index.php?page=newsfeed" class="topmenu_links"><img src="/images/xml_top.gif" width="29" height="14" alt="" border="0"></a>
-</span>
-</div>
-
-<div id="title_googlesearch">
+<div style="margin-left:50px;"><img src="/images/top3.jpg" width="396" height="66" alt=""></div>
+<div id="searchback">
 
 <!-- SiteSearch Google -->
 <form name="topsearch" method="get" action="/newssearch2.php" style="margin-bottom:0px; margin-top:0px;" target="_top">
 
-<table border="0" cellspacing="0" cellpadding="1">
+<table border="0" cellspacing="0" cellpadding="1" style="position:relative; top:15px;">
  <tbody><tr>
   <td style="font-size:11px; color:#000000;">
 
 <input type="text" name="q" id="keyw" style="width:350px; height:18px; font-size:11px;" size="18">&nbsp;
   </td>
   <td><input type="submit" value="Search" class="submit" style="width:50px; height:18px; font-size:11px;"> &nbsp;&nbsp;</td>
-  <td rowspan="2"><img src="/images/googlelogo.gif" width="64" height="31" alt="Search is Powered by Google"></td>
+  <td rowspan="2"><img src="/images/googlelogo2.gif" width="64" height="31" alt="Search is Powered by Google"></td>
  </tr>
  <tr>
   <td colspan="2">
@@ -179,11 +161,10 @@ if (screen.width < 900)
 
 </div>
 
-<!--div id="title_ad">
-<a href="http://www.forbes.com/lifestyle/health?partner=mnt" target="_blank"><img src="/images/forbesbutton.jpg" width=135 height=35 alt="Forbes Health" border=0></a>
-</div-->
+</div>
 
-</div></div>
+<div id="login">
+<a href="/users/login.php">login</a> | <a href="/users/register.php">register</a></div></div>
 
 <div id="maincontent">
 
@@ -243,175 +224,269 @@ if (screen.width < 900)
 
 <div id="leftmenu">
 
-<div style="margin-bottom:5px; margin-top:2px;">
-<div class="menutitle">News Sections Menu</div>  
-<ul id="menucatlist">
+
+<div style="margin-top:2px;">
+<div class="menutitle">News Category Menu</div>  
+</div>
+
+<div id="menu">
 
 
-<li><a href="/sections/abortion/">Abortion</a></li>
-<li><a href="/sections/gerd/">Acid Reflux / GERD</a></li>
-<li><a href="/sections/adhd/">ADHD</a></li>
-<li><a href="/sections/aid-disasters/">Aid / Disasters</a></li>
 
-<li><a href="/sections/alcohol/">Alcohol / Addiction / Illegal Drugs</a></li>
-<li><a href="/sections/allergy/">Allergy</a></li>
-<li><a href="/sections/alzheimers/">Alzheimer's / Dementia</a></li>
-<li><a href="/sections/anxiety/">Anxiety / Stress</a></li>
-<li><a href="/sections/arthritis/">Arthritis</a></li>
-<li><a href="/sections/autism/">Autism</a></li>
-<li><a href="/sections/bioterrorism/">Bio-terrorism / Terrorism</a></li>
-<li><a href="/sections/biology-biochemistry/">Biology / Biochemistry</a></li>
+<ul>
+ <li><a href="/index.php?page=newssections#A" class="x" rel="nofollow"><div class="menuarrows">&gt;</div>Categories A-B</a>
+ 
+ <ul>
+ <li><a href="/sections/abortion/" class="z" style="border-top:1px solid #999999;">Abortion</a></li>
+ <li><a href="/sections/gerd/" class="z">Acid Reflux / GERD</a></li>
+ <li><a href="/sections/adhd/" class="z">ADHD</a></li>
+ <li><a href="/sections/aid-disasters/" class="z">Aid / Disasters</a></li>
 
-<li><a href="/sections/bipolar/">Bipolar</a></li>
-<li><a href="/sections/birdflu/">Bird Flu / Avian Flu</a></li>
-<li><a href="/sections/blood/">Blood / Hematology</a></li>
-<li><a href="/sections/bodyaches/">Body Aches</a></li>
-<li><a href="/sections/bones/">Bones / Orthopaedics</a></li>
-<li><a href="/sections/breast_cancer/">Breast Cancer</a></li>
-<li><a href="/sections/cancer-oncology/">Cancer / Oncology</a></li>
-<li><a href="/sections/cardiovascular/">Cardiovascular / Cardiology</a></li>
-<li><a href="/sections/caregivers/">Caregivers / Homecare</a></li>
+ <li><a href="/sections/alcohol/" class="z">Alcohol / Addiction / Illegal Drugs</a></li>
+ <li><a href="/sections/allergy/" class="z">Allergy</a></li>
+ <li><a href="/sections/complementary_medicine/" class="z">Alternative Medicine</a></li>
+ <li><a href="/sections/alzheimers/" class="z">Alzheimer's / Dementia</a></li>
+ <li><a href="/sections/anxiety/" class="z">Anxiety / Stress</a></li>
+ <li><a href="/sections/arthritis/" class="z">Arthritis / Rheumatology</a></li>
+ 
+ <li><a href="/sections/asbestos/" class="z">Asbestos / Mesothelioma (NEW)</a></li>
+ <li><a href="/sections/asthma-respiratory/" class="z">Asthma</a></li>
+ <li><a href="/sections/autism/" class="z">Autism</a></li>
+ <li><a href="/sections/back-pain/" class="z">Back Pain</a></li>
+ <li><a href="/sections/bioterrorism/" class="z">Bio-terrorism / Terrorism</a></li>
+ <li><a href="/sections/biology-biochemistry/" class="z">Biology / Biochemistry</a></li>
 
-<li><a href="/sections/cervical_cancer/">Cervical Cancer / HPV Vaccine</a></li>
-<li><a href="/sections/cholesterol/">Cholesterol</a></li>
-<li><a href="/sections/cjd-vcjd/">CJD / vCJD / Mad Cow Disease</a></li>
-<li><a href="/sections/cleft_palate/">Cleft Palate</a></li>
-<li><a href="/sections/clinical_trials/">Clinical Trials / Drug Trials</a></li>
-<li><a href="/sections/colorectal_cancer/">Colorectal Cancer</a></li>
-<li><a href="/sections/complementary_medicine/">Complementary Medicine / Alternative Medicine</a></li>
-<li><a href="/sections/compliance/">Compliance</a></li>
-<li><a href="/sections/conferences/">Conferences</a></li>
-<li><a href="/sections/cosmetic_medicine/">Cosmetic Medicine / Plastic Surgery</a></li>
-<li><a href="/sections/crohns/">Crohn's</a></li>
+ <li><a href="/sections/bipolar/" class="z">Bipolar</a></li>
+ <li><a href="/sections/birdflu/" class="z">Bird Flu / Avian Flu</a></li>
+ <li><a href="/sections/blood/" class="z">Blood / Hematology</a></li>
+ <li><a href="/sections/bodyaches/" class="z">Body Aches</a></li>
+ <li><a href="/sections/bones/" class="z">Bones / Orthopaedics</a></li>
+ <li><a href="/sections/breast_cancer/" class="z">Breast Cancer</a></li>
+ 
+ </ul>
 
-<li><a href="/sections/cystic_fibrosis/">Cystic Fibrosis</a></li>
-<li><a href="/sections/dentistry/">Dentistry</a></li>
-<li><a href="/sections/depression/">Depression</a></li>
-<li><a href="/sections/dermatology/">Dermatology</a></li>
-<li><a href="/sections/diabetes/">Diabetes</a></li>
-<li><a href="/sections/dyslexia/">Dyslexia</a></li>
-<li><a href="/sections/ent/">Ear, Nose and Throat</a></li>
-<li><a href="/sections/eatingdisorders/">Eating Disorders</a></li>
-<li><a href="/sections/endocrinology/">Endocrinology</a></li>
-<li><a href="/sections/epilepsy/">Epilepsy</a></li>
+ </li>
+</ul>
 
-<li><a href="/sections/erectile_dysfunction/">Erectile Dysfunction / Premature Ejaculation</a></li>
-<li><a href="/sections/eye_health/">Eye Health / Blindness</a></li>
-<li><a href="/sections/fertility/">Fertility</a></li>
-<li><a href="/sections/flu-sars/">Flu / Cold / SARS</a></li>
-<li><a href="/sections/gastrointestinal/">GastroIntestinal / Gastroenterology</a></li>
-<li><a href="/sections/genetics/">Genetics</a></li>
-<li><a href="/sections/gout/">Gout</a></li>
-<li><a href="/sections/headache-migraine/">Headache / Migraine</a></li>
-<li><a href="/sections/health_insurance/">Health Insurance / Medical Insurance</a></li>
+<ul>
+ <li><a href="/index.php?page=newssections#C" class="x" rel="nofollow"><div class="menuarrows">&gt;</div>Categories C-D</a>
+ 
+ <ul class="sub2">
+ <li><a href="/sections/cancer-oncology/" class="z" style="border-top:1px solid #999999;">Cancer / Oncology</a></li>
+ <li><a href="/sections/cardiovascular/" class="z">Cardiovascular / Cardiology</a></li>
+ <li><a href="/sections/caregivers/" class="z">Caregivers / Homecare</a></li>
 
-<li><a href="/sections/hearing-deafness/">Hearing / Deafness</a></li>
-<li><a href="/sections/hiv-aids/">HIV / AIDS</a></li>
-<li><a href="/sections/huntingtons_disease/">Huntingtons Disease</a></li>
-<li><a href="/sections/hypertension/">Hypertension</a></li>
-<li><a href="/sections/immune_system/">Immune System / Vaccines</a></li>
-<li><a href="/sections/infectious_diseases/">Infectious Diseases / Bacteria / Viruses</a></li>
-<li><a href="/sections/ibs/">Irritable-Bowel Syndrome</a></li>
-<li><a href="/sections/it/">IT / Internet / E-mail</a></li>
-<li><a href="/sections/liver_disease/">Liver Disease / Hepatitis</a></li>
+ <li><a href="/sections/cervical_cancer/" class="z">Cervical Cancer / HPV Vaccine</a></li>
+ <li><a href="/sections/cholesterol/" class="z">Cholesterol</a></li>
+ <li><a href="/sections/cjd-vcjd/" class="z">CJD / vCJD / Mad Cow Disease</a></li>
+ <li><a href="/sections/cleft_palate/" class="z">Cleft Palate</a></li>
+ <li><a href="/sections/clinical_trials/" class="z">Clinical Trials / Drug Trials</a></li>
+ <li><a href="/sections/colorectal_cancer/" class="z">Colorectal Cancer</a></li>
+ <li><a href="/sections/complementary_medicine/" class="z">Complementary Medicine</a></li>
+ <li><a href="/sections/compliance/" class="z">Compliance</a></li>
+ <li><a href="/sections/conferences/" class="z">Conferences</a></li>
+ <li><a href="/sections/cosmetic_medicine/" class="z">Cosmetic Medicine</a></li>
+ <li><a href="/sections/crohns/" class="z">Crohn's</a></li>
 
-<li><a href="/sections/lung_cancer/">Lung Cancer</a></li>
-<li><a href="/sections/lupus/">Lupus</a></li>
-<li><a href="/sections/lymphoma-leukemia/">Lymphoma / Leukemia</a></li>
-<li><a href="/sections/medical_devices/">Medical Devices</a></li>
-<li><a href="/sections/medical_malpractice/">Medical Malpractice / Litigation</a></li>
-<li><a href="/sections/medical_students/">Medical Students / Training</a></li>
-<li><a href="/sections/medicare-medicaid/">Medicare / Medicaid / SCHIP</a></li>
-<li><a href="/sections/mens_health/">Men's health</a></li>
-<li><a href="/sections/mental_health/">Mental Health</a></li>
+ <li><a href="/sections/cystic_fibrosis/" class="z">Cystic Fibrosis</a></li>
+ <li><a href="/sections/dentistry/" class="z">Dentistry</a></li>
+ <li><a href="/sections/depression/" class="z">Depression</a></li>
+ <li><a href="/sections/dermatology/" class="z">Dermatology</a></li>
+ <li><a href="/sections/diabetes/" class="z">Diabetes</a></li>
+ <li><a href="/sections/dyslexia/" class="z">Dyslexia</a></li>
+ 
+ </ul>
 
-<li><a href="/sections/mri-pet/">MRI / PET / Ultrasound</a></li>
-<li><a href="/sections/mrsa-superbug/">MRSA / Drug Resistance</a></li>
-<li><a href="/sections/multiple_sclerosis/">Multiple Sclerosis</a></li>
-<li><a href="/sections/muscular_dystrophy/">Muscular Dystrophy / ALS</a></li>
-<li><a href="/sections/neurology/">Neurology / Neuroscience</a></li>
-<li><a href="/sections/nursing/">Nursing / Midwifery</a></li>
-<li><a href="/sections/nutrition-agriculture/">Nutrition / Diet</a></li>
-<li><a href="/sections/fitness-obesity/">Obesity / Weight Loss / Fitness</a></li>
-<li><a href="/sections/pain/">Pain / Anesthetics</a></li>
+ </li>
+</ul>
 
-<li><a href="/sections/parkinsons_disease/">Parkinson's Disease</a></li>
-<li><a href="/sections/pediatrics/">Pediatrics / Children's Health</a></li>
-<li><a href="/sections/pharma_industry/">Pharma / Biotech Industry</a></li>
-<li><a href="/sections/pharmacy/">Pharmacy / Pharmacists</a></li>
-<li><a href="/sections/pregnancy/">Pregnancy / Obstetrics</a></li>
-<li><a href="/sections/primary_care/">Primary Care / General Practice</a></li>
-<li><a href="/sections/prostate/">Prostate / Prostate Cancer</a></li>
-<li><a href="/sections/psychology-psychiatry/">Psychology / Psychiatry</a></li>
-<li><a href="/sections/public_health/">Public Health</a></li>
-<li><a href="/sections/radiology/">Radiology / Nuclear Medicine</a></li>
+<ul>
+ <li><a href="/index.php?page=newssections#E" class="x" rel="nofollow"><div class="menuarrows">&gt;</div>Categories E-G</a>
+ 
+ <ul class="sub3">
+ <li><a href="/sections/ent/" class="z" style="border-top:1px solid #999999;">Ear, Nose and Throat</a></li>
+ <li><a href="/sections/eatingdisorders/" class="z">Eating Disorders</a></li>
+ <li><a href="/sections/eczema-psoriasis/" class="z">Eczema / Psoriasis</a></li>
+ <li><a href="/sections/endocrinology/" class="z">Endocrinology</a></li>
+ <li><a href="/sections/epilepsy/" class="z">Epilepsy</a></li>
 
-<li><a href="/sections/regulatoryaffairs/">Regulatory Affairs / Drug Approvals</a></li>
-<li><a href="/sections/rehabilitation/">Rehabilitation</a></li>
-<li><a href="/sections/asthma-respiratory/">Respiratory / Asthma</a></li>
-<li><a href="/sections/schizophrenia/">Schizophrenia</a></li>
-<li><a href="/sections/seniors/">Seniors / Aging</a></li>
-<li><a href="/sections/sexual_health/">Sexual Health / STDs</a></li>
-<li><a href="/sections/sleep/">Sleep / Sleep Disorders</a></li>
-<li><a href="/sections/smoking/">Smoking / Quit Smoking</a></li>
-<li><a href="/sections/sports_medicine/">Sports Medicine / Fitness</a></li>
-<li><a href="/sections/statins/">Statins</a></li>
-<li><a href="/sections/stem_cell/">Stem Cell Research</a></li>
+ <li><a href="/sections/erectile_dysfunction/" class="z">Erectile Dysfunction</a></li>
+ <li><a href="/sections/eye_health/" class="z">Eye Health / Blindness</a></li>
+ <li><a href="/sections/fertility/" class="z">Fertility</a></li>
+ <li><a href="/sections/flu-sars/" class="z">Flu / Cold / SARS</a></li>
+ 
+ <li><a href="/sections/gastrointestinal/" class="z">GastroIntestinal / Gastroenterology</a></li>
+ <li><a href="/sections/genetics/" class="z">Genetics</a></li>
+ <li><a href="/sections/gout/" class="z">Gout</a></li>
+ <li><a href="/sections/womens_health/" class="z">Gynecology</a></li>
+ 
+ </ul>
 
-<li><a href="/sections/stroke/">Stroke / Neuroprotection</a></li>
-<li><a href="/sections/transplants/">Transplants / Organ Donations</a></li>
-<li><a href="/sections/tropical_diseases/">Tropical Diseases</a></li>
-<li><a href="/sections/urology-nephrology/">Urology / Nephrology</a></li>
-<li><a href="/sections/veterinary/">Veterinary</a></li>
-<li><a href="/sections/water_quality/">Water - Air Quality / Agriculture</a></li>
-<li><a href="/sections/womens_health/">Women's Health / Gynecology</a></li>
+ </li>
+</ul>
+ 
+<ul>
+ <li><a href="/index.php?page=newssections#H" class="x" rel="nofollow"><div class="menuarrows">&gt;</div>Categories H-L</a>
+ 
+ <ul class="sub4"> 
+ <li><a href="/sections/headache-migraine/" class="z" style="border-top:1px solid #999999;">Headache / Migraine</a></li>
+ <li><a href="/sections/health_insurance/" class="z">Health Insurance / Medical Insurance</a></li>
+
+ <li><a href="/sections/hearing-deafness/" class="z">Hearing / Deafness</a></li>
+ <li><a href="/sections/heart-disease/" class="z">Heart Disease</a></li>
+ <li><a href="/sections/hiv-aids/" class="z">HIV / AIDS</a></li>
+ <li><a href="/sections/huntingtons_disease/" class="z">Huntingtons Disease</a></li>
+ <li><a href="/sections/hypertension/" class="z">Hypertension</a></li>
+ 
+ <li><a href="/sections/immune_system/" class="z">Immune System / Vaccines</a></li>
+ <li><a href="/sections/infectious_diseases/" class="z">Infectious Diseases</a></li>
+ <li><a href="/sections/ibs/" class="z">Irritable-Bowel Syndrome</a></li>
+ <li><a href="/sections/it/" class="z">IT / Internet / E-mail</a></li>
+ <li><a href="/sections/medical_malpractice/" class="z">Litigation</a></li>
+ <li><a href="/sections/liver_disease/" class="z">Liver Disease / Hepatitis</a></li>
+
+ <li><a href="/sections/lung_cancer/" class="z">Lung Cancer</a></li>
+ <li><a href="/sections/lupus/" class="z">Lupus</a></li>
+ <li><a href="/sections/lymphology/" class="z">Lymphology / Lymphedema (NEW)</a></li>
+ <li><a href="/sections/lymphoma-leukemia/" class="z">Lymphoma / Leukemia</a></li>
+ </ul>
+
+ </li>
+</ul>
+ 
+<ul>
+ <li><a href="/index.php?page=newssections#M" class="x" rel="nofollow"><div class="menuarrows">&gt;</div>Categories M-O</a>
+ 
+ <ul class="sub5">
+ 
+ <li><a href="/sections/medical_devices/" class="z" style="border-top:1px solid #999999;">Medical Devices / Diagnostics</a></li>
+ <li><a href="/sections/medical_malpractice/" class="z">Medical Malpractice</a></li>
+ <li><a href="/sections/medical_students/" class="z">Medical Students / Training</a></li>
+ <li><a href="/sections/medicare-medicaid/" class="z">Medicare / Medicaid / SCHIP</a></li>
+ <li><a href="/sections/mens_health/" class="z">Men's health</a></li>
+ <li><a href="/sections/menopause/" class="z">Menopause</a></li> 
+ <li><a href="/sections/mental_health/" class="z">Mental Health</a></li> 
+
+ <li><a href="/sections/mri-pet/" class="z">MRI / PET / Ultrasound</a></li>
+ <li><a href="/sections/mrsa-superbug/" class="z">MRSA / Drug Resistance</a></li>
+ <li><a href="/sections/multiple_sclerosis/" class="z">Multiple Sclerosis</a></li>
+ <li><a href="/sections/muscular_dystrophy/" class="z">Muscular Dystrophy / ALS</a></li>
+ <li><a href="/sections/neurology/" class="z">Neurology / Neuroscience</a></li>
+ <li><a href="/sections/nursing/" class="z">Nursing / Midwifery</a></li>
+ <li><a href="/sections/nutrition-agriculture/" class="z">Nutrition / Diet</a></li>
+ 
+ <li><a href="/sections/fitness-obesity/" class="z">Obesity / Weight Loss / Fitness</a></li>
+ <li><a href="/sections/ovarian_cancer/" class="z">Ovarian Cancer</a></li>
+ 
+ </ul>
+
+ </li>
+</ul>
+ 
+<ul>
+ <li><a href="/index.php?page=newssections#P" class="x" rel="nofollow"><div class="menuarrows">&gt;</div>Categories P-R</a>
+ 
+ <ul class="sub6">
+
+ <li><a href="/sections/pain/" class="z" style="border-top:1px solid #999999;">Pain / Anesthetics</a></li>
+ <li><a href="/sections/parkinsons_disease/" class="z">Parkinson's Disease</a></li>
+ <li><a href="/sections/pediatrics/" class="z">Pediatrics / Children's Health</a></li>
+ <li><a href="/sections/pharma_industry/" class="z">Pharma / Biotech Industry</a></li>
+ <li><a href="/sections/pharmacy/" class="z">Pharmacy / Pharmacists</a></li>
+ <li><a href="/sections/cosmetic_medicine/" class="z">Plastic Surgery</a></li>
+ <li><a href="/sections/pregnancy/" class="z">Pregnancy / Obstetrics</a></li>
+ <li><a href="/sections/erectile_dysfunction/" class="z">Premature Ejaculation</a></li>
+ <li><a href="/sections/primary_care/" class="z">Primary Care / General Practice</a></li>
+ <li><a href="/sections/prostate/" class="z">Prostate / Prostate Cancer</a></li>
+ <li><a href="/sections/psychology-psychiatry/" class="z">Psychology / Psychiatry</a></li>
+ <li><a href="/sections/public_health/" class="z">Public Health</a></li>
+ <li><a href="/sections/radiology/" class="z">Radiology / Nuclear Medicine</a></li>
+
+ <li><a href="/sections/regulatoryaffairs/" class="z">Regulatory Affairs / Drug Approvals</a></li>
+ <li><a href="/sections/rehabilitation/" class="z">Rehabilitation / Physical Therapy</a></li>
+ <li><a href="/sections/asthma-respiratory/" class="z">Respiratory</a></li>
+ 
+ </ul>
+
+ </li>
+</ul>
+
+<ul>
+ <li><a href="/index.php?page=newssections#S" class="x" rel="nofollow"><div class="menuarrows">&gt;</div>Categories S-Z</a>
+ 
+ <ul class="sub7"> 
+  <li><a href="/sections/schizophrenia/" class="z" style="border-top:1px solid #999999;">Schizophrenia</a></li>
+ <li><a href="/sections/seniors/" class="z">Seniors / Aging</a></li>
+ <li><a href="/sections/sexual_health/" class="z">Sexual Health / STDs</a></li>
+ <li><a href="/sections/sleep/" class="z">Sleep / Sleep Disorders</a></li>
+ <li><a href="/sections/smoking/" class="z">Smoking / Quit Smoking</a></li>
+ <li><a href="/sections/sports_medicine/" class="z">Sports Medicine / Fitness</a></li>
+ <li><a href="/sections/statins/" class="z">Statins</a></li>
+ <li><a href="/sections/stem_cell/" class="z">Stem Cell Research</a></li>
+
+ <li><a href="/sections/stroke/" class="z">Stroke</a></li>
+ 
+ <li><a href="/sections/transplants/" class="z">Transplants / Organ Donations</a></li>
+ <li><a href="/sections/tropical_diseases/" class="z">Tropical Diseases</a></li>
+ <li><a href="/sections/tuberculosis/" class="z">Tuberculosis</a></li>
+ <li><a href="/sections/urology-nephrology/" class="z">Urology / Nephrology</a></li>
+ <li><a href="/sections/veterans/" class="z">Veterans / Ex-Servicemen (NEW)</a></li>
+ <li><a href="/sections/veterinary/" class="z">Veterinary</a></li>
+ <li><a href="/sections/infectious_diseases/" class="z">Viruses / Bacteria</a></li>
+ <li><a href="/sections/water_quality/" class="z">Water - Air Quality / Agriculture</a></li>
+ <li><a href="/sections/womens_health/" class="z">Women's Health</a></li>
   
 </ul>
+
+ </li>
+</ul>
+
+<ul>
+ <li><a href="/index.php?page=newssections" title="full list of all news category sections" accesskey="m">View full category list</a></li>
+</ul>
+
 </div>
-<div style="clear:both; padding: 8px 0px 5px 8px; border-bottom:1px solid #cccccc;"><a href="/index.php?page=newssections" title="full list of all news sections" accesskey="m" style="font-size:11px; color:#009900; font-weight:bold;">View full section list</a></div>
+
 <br clear="all">
 
 <!-- Main Menu Links -->
+
+<div class="menutitle">News Options</div>  
+<a href="/customizedhealthnews.php" title="customize your homepage" class="menubutton1">Customized Homepage</a>
+<a href="/newsletters.php" title="Free weekly medical news newsletter by e-mail" class="menubutton1">Weekly Newsletters</a>
+<a href="/newsalerts.php" title="Free daily news alerts by e-mail" class="menubutton1">Daily News Alerts</a>
+<br clear="all">
+
 <div class="menutitle">Navigation Links</div>
-<div class="menubutton2"><a href="http://www.medicalnewstoday.com" class="menu" title="Back to front page medical news" accesskey="h">Home</a></div>
-<div class="menubutton2"><a href="/index.php?page=aboutus&amp;title=About+Us" class="menu" accesskey="a" rel="nofollow">About Us</a></div>
-<div class="menubutton2"><a href="/healthcareadvertising.php" class="menu" accesskey="r">Advertising</a></div>
-<div class="menubutton2"><a href="/licensing.php" class="menu">News Licensing</a></div>
-<div class="menubutton2"><a href="/newsfeeds.php" class="menu" title="Free medical news feeds for your web site" accesskey="j">Free Website Feeds</a></div>
-<div class="menubutton2"><a href="/index.php?page=freecontent&amp;title=Free+Medical+Content+and+Tools" class="menu" accesskey="t">Free Tools &amp; Content</a></div>
-<div class="menubutton2"><a href="/newsletters.php" title="Free weekly medical news newsletter" class="menu">Newsletters &amp; News Alerts</a></div>
-<div class="menubutton2"><a href="/index.php?page=links&amp;title=Medical+News+Today+Links" class="menu" rel="nofollow">Links</a></div>
-<div class="menubutton2"><a href="/index.php?page=tellafriend&amp;title=Tell+a+friend+about+Medical+News+Today" class="menu" rel="nofollow">Tell a Friend</a></div>
-<div class="menubutton2"><a href="/index.php?page=accessibility&amp;title=Accessibility+Information" class="menu" accesskey="x" rel="nofollow">Accessibility</a></div>
-<div class="menubutton2"><a href="/mnthelp.php" class="menu">Help / FAQ</a></div>
-<div class="menubutton2"><a href="/index.php?page=authors&amp;title=Article+submission+guidelines+for+authors" class="menu" rel="nofollow">Article Submission</a></div>
-<div class="menubutton2" style="border-bottom:1px solid #4D6C8B;"><a href="/index.php?page=feedback&amp;title=Contact+Us" class="menu" accesskey="c" rel="nofollow">Contact Us</a></div>
+<a href="http://www.medicalnewstoday.com" title="Back to front page medical news" accesskey="h" class="menubutton1">Home</a> 
+<a href="/index.php?page=aboutus&amp;title=About+Us" accesskey="a" rel="nofollow" class="menubutton1">About Us</a> 
+<a href="/licensing.php" class="menubutton1">News Licensing</a> 
+<a href="/newsfeeds.php" title="Free medical news feeds for your web site" accesskey="j" class="menubutton1">Free Website Feeds</a> 
+<a href="/index.php?page=freecontent&amp;title=Free+Medical+Content+and+Tools" accesskey="t" class="menubutton1">Free Tools &amp; Content</a> 
+<a href="/index.php?page=links&amp;title=Medical+News+Today+Links" rel="nofollow" class="menubutton1">Links</a> 
+<a href="/index.php?page=tellafriend&amp;title=Tell+a+friend+about+Medical+News+Today" rel="nofollow" class="menubutton1">Tell a Friend</a> 
+<a href="/index.php?page=accessibility&amp;title=Accessibility+Information" accesskey="x" rel="nofollow" class="menubutton1">Accessibility</a> 
+<a href="/mnthelp.php" rel="nofollow" class="menubutton1">Help / FAQ</a> 
+<a href="/index.php?page=authors&amp;title=Article+submission+guidelines+for+authors" rel="nofollow" class="menubutton1">Article Submission</a> 
+<a href="/index.php?page=feedback&amp;title=Contact+Us" accesskey="c" rel="nofollow" class="menubutton1">Contact Us</a> 
 <br clear="all">
 
 <div class="menutitle">Health Professional Sites</div>
-<div class="menubutton"><a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&amp;c=20&amp;mc=click&amp;pli=350811&amp;pi=0&amp;ord=[timestamp]" target="_blank" class="menu" title="Breast Cancer Resource (HCP) [External Site Link. Opens in New Window]" rel="nofollow">Breast Cancer</a></div>
-<div class="menubutton"><a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&amp;c=20&amp;mc=click&amp;pli=350812&amp;pi=0&amp;ord=[timestamp]" target="_blank" class="menu" title="Cardiovascular Resource (HCP) [External Site Link. Opens in New Window]" rel="nofollow">Cardiovascular</a></div>
-<div class="menubutton"><a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&amp;c=20&amp;mc=click&amp;pli=350813&amp;pi=0&amp;ord=[timestamp]" target="_blank" class="menu" title="Gastrointestinal Resource (HCP) [External Site Link. Opens in New Window]" rel="nofollow">GI</a></div>
-<div class="menubutton"><a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&amp;c=20&amp;mc=click&amp;pli=350816&amp;pi=0&amp;ord=[timestamp]" target="_blank" class="menu" title="Prostate Cancer Resource (HCP) [External Site Link. Opens in New Window]" rel="nofollow">Prostate Cancer</a></div>
-<div class="menubutton"><a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&amp;c=20&amp;mc=click&amp;pli=350817&amp;pi=0&amp;ord=[timestamp]" target="_blank" class="menu" title="Psychiatry Resource (HCP) [External Site Link. Opens in New Window]" rel="nofollow">Psychiatry</a></div>
-<div class="menubutton"><a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&amp;c=20&amp;mc=click&amp;pli=350818&amp;pi=0&amp;ord=[timestamp]" target="_blank" class="menu" title="Respiratory Resource (HCP) [External Site Link. Opens in New Window]" rel="nofollow">Respiratory</a></div>
-<div class="menubutton"><a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&amp;c=20&amp;mc=click&amp;pli=350819&amp;pi=0&amp;ord=[timestamp]" target="_blank" class="menu" title="eCME Learning Resources [External Site Link. Opens in New Window]" rel="nofollow">Learning Resources</a></div>
-<div class="menubutton"><a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&amp;c=20&amp;mc=click&amp;pli=350815&amp;pi=0&amp;ord=[timestamp]" target="_blank" class="menu" title="Migraine Resource (HCP) [External Site Link. Opens in New Window]" rel="nofollow">Migraine</a></div>
-<div class="menubutton" style="border-bottom:1px solid #4D6C8B;"><a href="http://www.urotoday.com" target="_blank" class="menu" title="UroToday Urology [External Site Link. Opens in New Window]" rel="nofollow">Urology</a></div>
+<a href="http://www.mlclick.com/mlcl.php?aid=57430451404E2173B825A354E51CA9B7" target="_blank" class="menubutton2" title="Psychiatry Resource (HCP) [External Site Link. Opens in New Window]" rel="nofollow">Psychiatry</a> 
+<a href="http://www.urotoday.com" target="_blank" class="menubutton2" title="UroToday Urology [External Site Link. Opens in New Window]" rel="nofollow">Urology</a>
 <br clear="all">
 
-<div class="menutitle">Patient Resource Sites</div>
-<div class="menubutton"><a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&amp;c=20&amp;mc=click&amp;pli=350849&amp;pi=0&amp;ord=[timestamp]" target="_blank" class="menu" title="Asthma Resource (Patient) [External Site Link. Opens in New Window]" rel="nofollow">Asthma</a></div>
-<div class="menubutton"><a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&amp;c=20&amp;mc=click&amp;pli=350852&amp;pi=0&amp;ord=[timestamp]" target="_blank" class="menu" title="Bipolar Resource (Patient) [External Site Link. Opens in New Window]" rel="nofollow">Bipolar</a></div>
-<div class="menubutton"><a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&amp;c=20&amp;mc=click&amp;pli=350854&amp;pi=0&amp;ord=[timestamp]" target="_blank" class="menu" title="Blood Pressure Resource (Patient) [External Site Link. Opens in New Window]" rel="nofollow">Blood Pressure</a></div>
-<div class="menubutton"><a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&amp;c=20&amp;mc=click&amp;pli=350848&amp;pi=0&amp;ord=[timestamp]" target="_blank" class="menu" title="Breast Cancer Resource (Patient) [External Site Link. Opens in New Window]" rel="nofollow">Breast Cancer (Patient)</a></div>
-<div class="menubutton" style="border-bottom:1px solid #4D6C8B;"><a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&amp;c=20&amp;mc=click&amp;pli=350861&amp;pi=0&amp;ord=[timestamp]" target="_blank" class="menu" title="Heartburn Resource (Patient) [External Site Link. Opens in New Window]" rel="nofollow">Heartburn</a></div>
+<div class="menutitle">Patient Information Hubs</div>
+<a href="/info/autism/whatisautism.php" class="menubutton2" title="What is Autism?">Autism</a>
+<a href="http://www.mlclick.com/mlcl.php?aid=9F2EE5B90FCE65550EE0FA9088A76969" target="_blank" class="menubutton2" title="Bipolar Resource (Patient) [External Site Link. Opens in New Window]" rel="nofollow">Bipolar</a> 
+<a href="/info/diabetes/whatisdiabetes.php" class="menubutton2" title="What is Diabetes?">Diabetes</a>
+<a href="http://www.mlclick.com/mlcl.php?aid=92F42DC9AE816C56644646193A9DB651" target="_blank" class="menubutton2" title="Schizophrenia Resource (Patient) [External Site Link. Opens in New Window]" rel="nofollow">Schizophrenia</a>
 <br clear="all">
 
 <form method="post" action="http://www.medilexicon.com/searches/clinicaltrials.php" enctype="application/x-www-form-urlencoded" target="_blank" style="margin-top:0px; margin-bottom:0px;">
 <div class="menutitle"><label for="clinicalkeywords">Clinical Trials</label></div>
 <!-- Begin Clinical Trials Search html code -->
-<table border="0" width="100%" cellspacing="0" cellpadding="5" style="border:1px solid #4D6C8B;">
+<table border="0" width="100%" cellspacing="0" cellpadding="5" style="border:1px solid #999999;">
 <tbody><tr>
 <td width="80%" bgcolor="#ffffff">
 <input type="text" name="keywords" id="clinicalkeywords" style="width:80px;" size="7"></td>
@@ -420,9 +495,52 @@ if (screen.width < 900)
 </tbody></table>
 </form>
 
+<!--
+<br>
+<a href="/newsletters.php"><img src="/images/newsletterad4.jpg" width="159" height="159" alt="Sign up to receive newsletters / news alerts" border="0"></a>
+<br><br>
+-->
+
 <br>
 
-<div style="width:100%; text-align:center; margin-top:5px;"><a href="http://www.medreader.com" target="_blank" title="Link to MedReader.com" rel="nofollow"><img src="/images/medreader120x60.gif" width="120" height="60" alt="MedReader RSS Reader" border="0"></a></div>
+<a href="http://apps.facebook.com/health-news/" title="add medical news today to your facebook" target="_blank">
+<img src="/images/leftbar/banner_facebook4.jpg" alt="add medical news today to your facebook" border="0">
+</a>
+<br><br>
+<!--<a href="/customizedhealthnews.php" title="customized health news">
+<img src="/images/leftbar/banner_customize1d.gif" alt="customize your homepage" border="0">
+</a>
+<br><br>-->
+<a href="/medicalnewsgadget.php" title="website gadget code">
+<img src="/images/google_gadget/banner_gadget1.jpg" alt="medical news gadget" border="0">
+</a>
+
+<br><br>
+<a href="http://fusion.google.com/add?source=atgs&amp;moduleurl=http%3A//www.medicalnewstoday.com/medicalnewsgadget.xml" rel="nofollow">
+	<img src="http://buttons.googlesyndication.com/fusion/add.gif" border="0" alt="Add to Google">
+</a>
+
+<br>
+<br>
+<br>
+
+<img src="/images/google_gadget/mntmenu_developers.gif" width="144" height="14" alt="developers" border="0">
+<br>
+<a href="/medicalnewsgadget.php" title="website gadget code">
+<img src="/images/google_gadget/gadgetcode_button.gif" width="144" height="21" alt="website gadget code" border="0">
+</a>
+<br>
+<a href="/newsfeeds.php" title="news feed code for developers">
+<img src="/images/google_gadget/newscode_button.gif" width="144" height="21" alt="website news code" border="0">
+</a>
+<br>
+<a href="/index.php?page=newsfeed" title="medical news rss feed links">
+<img src="/images/google_gadget/rssfeed_button.gif" width="144" height="21" alt="medical news rss feed links" border="0">
+</a>
+<br>
+<br>
+
+<!--div style="width:100%; margin-top:10px;"><a href="http://www.medreader.com" target="_blank" title="Link to MedReader.com" rel="nofollow"><img src="/images/medreader120x60.gif" width="120" height="60" alt="MedReader RSS Reader" border="0"></a></div-->
 
 <div align="center" style="margin-top:20px;"><script type="text/javascript"><!--
 google_ad_client = "pub-1971793357249522";
@@ -432,7 +550,7 @@ google_ad_format = "120x90_0ads_al";
 google_ad_channel ="5172264358";
 google_color_border = "ffffff";
 google_color_bg = "ffffff";
-google_color_link = "0000ff";
+google_color_link = "0000CC";
 google_color_url = "ff0000";
 google_color_text = "000000";
 //--></script>
@@ -442,98 +560,125 @@ google_color_text = "000000";
 
 <img src="/images/transpixel.gif" width="1" height="20" alt=""><br></div>
 
-<div id="titlebannernew">
-  <script type="text/javascript"><!--
-google_ad_client = "pub-1971793357249522";
-google_alternate_ad_url = "http://www.medicalnewstoday.com/adverts/medilexicon728x90.html";
-google_ad_width = 728;
-google_ad_height = 90;
-google_ad_format = "728x90_as";
-google_ad_type = "text_image";
-//2007-01-05: Medical News Today Leaderboard
-google_ad_channel = "1871139708";
-google_color_border = "FFFFFF";
-google_color_bg = "FFFFFF";
-google_color_link = ["000099","006600","990000"];
-google_color_url = ["0066ff","008000","990000"];
-google_color_text = "000000";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script><br><br>
-
-</div>
+<div id="titlebannernew">    <a href="http://www.mlclick.com/mlcl.php?aid=0BE5F17037B6B99C6FAEA6D071BEA564"><img src="http://www.mlclick.com/mltr.php?aid=0BE5F17037B6B99C6FAEA6D071BEA564" alt="Excellence in Epilepsy Journalism Award - 3 prizes in travel vouchers" border="0"></a>
+  	</div>
 <div id="rightmenu">   
 <!-- Right Bar Section -->
    
-<script type="text/javascript"><!--
-google_ad_client = "pub-1971793357249522";
-google_ad_width = 160;
-google_ad_height = 600;
-google_ad_format = "160x600_as";
-google_ad_type = "text_image";
-//2007-01-05: Medical News Today Skyscraper
-google_ad_channel = "0240121658";
-google_color_border = "ffffff";
-google_color_bg = "ffffff";
-google_color_link = ["000099","006600","990000"];
-google_color_url = ["0066ff","008000","990000"];
-google_color_text = "000000";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script><br><br>
-<div align="center" class="menutitle_right">
-Today's Featured Video
+<!--a href="/youropinions.php?opinionid=28956"><img src="/images/rightbar/website_opinions2o.gif" width=300 height=100 border=0 alt="What do you think of our new design? Join in our forum thread"></a><br>
+<div class="smalltext">[ For those having problems, please hit your 'refresh' button ]</div><br-->
+
+<a href="/customizedhealthnews.php" title="customize your homepage"><img src="/images/rightbar/customise_homepage1c.gif" width="300" height="100" border="0" alt="customize your homepage"></a><br><br><div align="center"></div><script language="JavaScript">
+<!--
+
+google_ad_client = 'pub-1971793357249522';
+//2007-01-05: Medical News Today 300x250
+google_ad_channel = "2344742764";
+google_max_num_ads = '4';
+google_ad_type = 'text,image,flash,html';
+google_ad_output = 'js';
+google_image_size = '300x250';
+google_feedback = 'on';
+google_adtest = 'off';
+// -->
+</script>
+
+<script language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> <br clear="all">
+	<div class="menutitle" style="padding-left:16px;">Most Read Articles From The Last 7 Days</div>
+
+	<div class="box2" style="font-size:12px; margin-top:0px;">
+	<div class="rbtoparticle_item"><a href="/articles/133575.php">Sex Difference On Spatial Skill Test Linked To Brain Structure</a><br>22 Dec 2008</div>
+<div class="rbtoparticle_item"><a href="/articles/133988.php">Blind Man Navigates Obstacle Maze Unaided</a><br>23 Dec 2008</div>
+<div class="rbtoparticle_item"><a href="/articles/133904.php">Baby Girl Free Of Breast Cancer Gene Due To Be Born Soon</a><br>21 Dec 2008</div>
+<div class="rbtoparticle_item"><a href="/articles/133535.php">Extra-Virgin Olive Oil Has Anti-Cancer Components</a><br>20 Dec 2008</div>
+<div class="rbtoparticle_item"><a href="/articles/133847.php">Winter Vomiting Bug - What Are Norovisuses?</a><br>20 Dec 2008</div>
+	</div>
+	<br>
+
+<div class="menutitle" style="padding-left:16px;">Today's Featured Health Videos</div>
+<div class="box2">
+
+<div style="width:180px; position:relative; float:right; padding:0px 0px 5px 5px;"><a href="http://www.healthology.com/once_daily/once_daily.aspx?cValue=od_mtdrumcircle_0066&amp;fValue=od5&amp;bValue=medicalnewstoday" onclick="javascript:window.open(this.href, 'VideoPlayer', 'width=768 ,height=593');return false"><img src="/images/healthology/oncedailyhealth-20081227.jpg" width="180" height="135" alt="Overcoming Disabilities by Making Music" border="0"></a><br></div>
+<b><a href="http://www.healthology.com/once_daily/once_daily.aspx?cValue=od_mtdrumcircle_0066&amp;fValue=od5&amp;bValue=medicalnewstoday" onclick="javascript:window.open(this.href, 'VideoPlayer', 'width=768 ,height=593');return false">Overcoming Disabilities by Making Music</a></b><br><br>
+This drum circle provides therapy for these nursing home residents by giving them the chance to interact, to reconnect with other people and with their own sense of timing.<br clear="all"><hr size="1">
+
+more videos are available in our <a href="/healthvideos.php">health videos section</a>.<br>
 </div>
-<div align="center" class="menubutton_right">
-<a href="http://www.healthology.com/once_daily/once_daily.aspx?cValue=od_disorgone_0131&amp;fValue=od1&amp;bValue=medicalnewstoday" onclick="javascript:window.open(this.href, 'VideoPlayer', 'width=768 ,height=593');return false"><img src="/images/healthology/oncedailyvideo-20080413.jpg" width="100" height="80" alt="When Clutter Takes Over Your Life" border="0"></a><br><div style="padding-top:5px;">
-<a href="http://www.healthology.com/once_daily/once_daily.aspx?cValue=od_disorgone_0131&amp;fValue=od1&amp;bValue=medicalnewstoday" onclick="javascript:window.open(this.href, 'VideoPlayer', 'width=768 ,height=593');return false">When Clutter Takes Over Your Life</a></div>
-<hr size="1" style="color:#339900;">
-more videos are available in our <a href="/healthvideos.php">health videos section</a>.
-</div>
+
 <br clear="all">
 
 
-<div class="box" style="background-color: #ffffff; text-align:left; padding-left:7px; font-size:11px; margin-top:0px;">
+<div class="menutitle" style="padding-left:16px;">Most Popular Categories</div>
 
+<div class="box" style="text-align:center; margin-top:0px;">
+<p>
+<a href="/sections/cancer-oncology/" style="font-size: 214%" title="114013 page impressions for Cancer / Oncology section last month">cancer</a> &nbsp; 
+<a href="/sections/cardiovascular/" style="font-size: 194%" title="99578 page impressions for Cardiovascular / Cardiology section last month">cardiovascular</a> &nbsp; 
+<a href="/sections/dermatology/" style="font-size: 189%" title="95793 page impressions for Dermatology section last month">dermatology</a> &nbsp; 
+<a href="/sections/hiv-aids/" style="font-size: 177%" title="86701 page impressions for HIV / AIDS section last month">hiv</a> &nbsp; 
+<a href="/sections/nutrition-agriculture/" style="font-size: 174%" title="84418 page impressions for Nutrition / Diet section last month">nutrition</a> &nbsp; 
 
-<!-- Begin: AdBrite -->
-<style type="text/css">
-   .adHeadline {font: Arial; text-decoration: none; color: #0000FF;}
-   .adText {font: normal Arial; text-decoration: none; color: #000000;}
-</style>
-<script type="text/javascript" src="http://ads.adbrite.com/mb/text_group.php?sid=167743&amp;br=1">
-</script>
-<div></div>
-<!-- End: AdBrite -->
+<a href="/sections/diabetes/" style="font-size: 170%" title="81862 page impressions for Diabetes section last month">diabetes</a> &nbsp; 
+<a href="/sections/fitness-obesity/" style="font-size: 156%" title="71328 page impressions for Obesity / Weight Loss / Fitness section last month">obesity</a> &nbsp; 
+<a href="/sections/pediatrics/" style="font-size: 153%" title="69711 page impressions for Pediatrics / Children's Health section last month">pediatrics</a> &nbsp; 
+<a href="/sections/psychology-psychiatry/" style="font-size: 151%" title="68081 page impressions for Psychology / Psychiatry section last month">psychology</a> &nbsp; 
+<a href="/sections/neurology/" style="font-size: 146%" title="64478 page impressions for Neurology / Neuroscience section last month">neurology</a> &nbsp; 
+<a href="/sections/alcohol/" style="font-size: 146%" title="64178 page impressions for Alcohol / Addiction / Illegal Drugs section last month">alcohol</a> &nbsp; 
 
-<a target="_top" href="/index.php?page=feedback&amp;title=Contact+Us">Add Your Advert Here</a><br><img src="/images/transpixel.gif" width="1" height="2" alt=""><br>
+<a href="/sections/urology-nephrology/" style="font-size: 142%" title="61597 page impressions for Urology / Nephrology section last month">urology</a> &nbsp; 
+<a href="/sections/breast_cancer/" style="font-size: 141%" title="60413 page impressions for Breast Cancer section last month">breast cancer</a> &nbsp; 
+<a href="/sections/womens_health/" style="font-size: 139%" title="59231 page impressions for Women's Health / Gynecology section last month">women's health</a> &nbsp; 
+<a href="/sections/infectious_diseases/" style="font-size: 137%" title="57709 page impressions for Infectious Diseases / Bacteria / Viruses section last month">infectious diseases</a> &nbsp; 
+<a href="/sections/asthma-respiratory/" style="font-size: 133%" title="54815 page impressions for Respiratory / Asthma section last month">respiratory</a> &nbsp; 
+<a href="/sections/sexual_health/" style="font-size: 128%" title="50937 page impressions for Sexual Health / STDs section last month">sexual health</a> &nbsp; 
+
+<a href="/sections/gastrointestinal/" style="font-size: 127%" title="50697 page impressions for GastroIntestinal / Gastroenterology section last month">gastrointestinal</a> &nbsp; 
+<a href="/sections/pain/" style="font-size: 126%" title="49851 page impressions for Pain / Anesthetics section last month">pain</a> &nbsp; 
+<a href="/sections/pregnancy/" style="font-size: 126%" title="49685 page impressions for Pregnancy / Obstetrics section last month">pregnancy</a> &nbsp; 
+<a href="/sections/bones/" style="font-size: 121%" title="46096 page impressions for Bones / Orthopaedics section last month">bones</a> &nbsp; 
+<a href="/sections/medical_devices/" style="font-size: 117%" title="43397 page impressions for Medical Devices section last month">medical devices</a> &nbsp; 
+<a href="/sections/medicare-medicaid/" style="font-size: 117%" title="43394 page impressions for Medicare / Medicaid / SCHIP section last month">medicare</a> &nbsp; 
+
+<a href="/sections/depression/" style="font-size: 117%" title="43250 page impressions for Depression section last month">depression</a> &nbsp; 
+<a href="/sections/prostate/" style="font-size: 116%" title="42681 page impressions for Prostate / Prostate Cancer section last month">prostate</a> &nbsp; 
+<a href="/sections/smoking/" style="font-size: 115%" title="41594 page impressions for Smoking / Quit Smoking section last month">smoking</a> &nbsp; 
+<a href="/sections/alzheimers/" style="font-size: 114%" title="41275 page impressions for Alzheimer's / Dementia section last month">alzheimer's</a> &nbsp; 
+<a href="/sections/allergy/" style="font-size: 113%" title="40116 page impressions for Allergy section last month">allergy</a> &nbsp; 
+<a href="/sections/sleep/" style="font-size: 110%" title="38520 page impressions for Sleep / Sleep Disorders / Insomnia section last month">sleep</a> &nbsp; 
+
+<a href="/sections/biology-biochemistry/" style="font-size: 109%" title="37801 page impressions for Biology / Biochemistry section last month">biology</a> &nbsp; 
+<a href="/sections/genetics/" style="font-size: 108%" title="36834 page impressions for Genetics section last month">genetics</a> &nbsp; 
+<a href="/sections/eye_health/" style="font-size: 107%" title="36161 page impressions for Eye Health / Blindness section last month">eye health</a> &nbsp; 
+<a href="/sections/sports_medicine/" style="font-size: 107%" title="35792 page impressions for Sports Medicine / Fitness section last month">sports medicine</a> &nbsp; 
+<a href="/sections/hypertension/" style="font-size: 105%" title="34790 page impressions for Hypertension section last month">hypertension</a> &nbsp; 
+<a href="/sections/abortion/" style="font-size: 105%" title="34789 page impressions for Abortion section last month">abortion</a> &nbsp; 
+
+<a href="/sections/health_insurance/" style="font-size: 103%" title="33242 page impressions for Health Insurance / Medical Insurance section last month">health insurance</a> &nbsp; 
+<a href="/sections/autism/" style="font-size: 103%" title="32759 page impressions for Autism section last month">autism</a> &nbsp; 
+<a href="/sections/stem_cell/" style="font-size: 101%" title="31552 page impressions for Stem Cell Research section last month">stem cell research</a> &nbsp; 
+<a href="/sections/adhd/" style="font-size: 100%" title="30658 page impressions for ADHD section last month">adhd</a> &nbsp; 
+<a href="/sections/liver_disease/" style="font-size: 100%" title="30648 page impressions for Liver Disease / Hepatitis section last month">liver disease</a> &nbsp; 
+<a href="/sections/multiple_sclerosis/" style="font-size: 98%" title="29474 page impressions for Multiple Sclerosis section last month">multiple sclerosis</a> &nbsp; 
+
+<a href="/sections/arthritis/" style="font-size: 98%" title="29346 page impressions for Arthritis section last month">arthritis</a> &nbsp; 
+<a href="/sections/pharma_industry/" style="font-size: 97%" title="28964 page impressions for Pharma Industry / Biotech Industry section last month">pharma industry</a> &nbsp; 
+<a href="/sections/seniors/" style="font-size: 96%" title="28049 page impressions for Seniors / Aging section last month">seniors</a> &nbsp; 
+<a href="/sections/dentistry/" style="font-size: 96%" title="27851 page impressions for Dentistry section last month">dentistry</a> &nbsp; 
+<a href="/sections/it/" style="font-size: 92%" title="25427 page impressions for IT / Internet / E-mail section last month">it</a> &nbsp; 
+<a href="/sections/nursing/" style="font-size: 92%" title="25292 page impressions for Nursing / Midwifery section last month">nursing</a> &nbsp; 
+
+<a href="/sections/blood/" style="font-size: 91%" title="24296 page impressions for Blood / Hematology section last month">blood</a> &nbsp; 
+<a href="/sections/fertility/" style="font-size: 90%" title="23995 page impressions for Fertility section last month">fertility</a> &nbsp; </p>
 </div>
 
-<!--br>
-<div style="width:100%; text-align:center;">
-<a href="/newsfeeds.php"><img src="/images/newsfeedsad1.jpg" width="159" height="159" alt="Free news feeds for your website" border="0"></a>
-</div-->
+<br clear="both">
 
-<br>
-<div style="width:100%; text-align:center;">
-<a href="/newsletters.php"><img src="/images/newsletterad4.jpg" width="159" height="159" alt="Sign up to receive newsletters / news alerts" border="0"></a>
-</div>
+<!-- Add Amazon Box -->
 
 <!-- MLClick Imps Tracker -->
 <img src="http://www.mlclick.com/mltr.php?aid=3FBB20449E46ACE24A54A01C346B1743" alt="" border="0">
 
 </div>
 
-<img src="/counter_2.php?40936" width="1" height="1" alt="" border="0">
-<img src="/counter_3.php?hc=0&amp;40936" width="1" height="1" alt="" border="0">
-
-</div>
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-849615-1";
-urchinTracker();
-</script>
-
-</body></html>
+</div></body></html>
