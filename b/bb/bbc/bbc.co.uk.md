@@ -1,25 +1,8 @@
-> *The following text is extracted and transformed from the bbc.co.uk privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230203748id_/http%3A//www.bbc.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbc.co.uk privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228055028id_/http%3A//www.bbc.co.uk/privacy) for the most accurate reproduction.*
 
-# BBC - Privacy & Cookies Policy
+# BBC - Privacy and Cookies Policy
 
-  1. Introduction and General Terms
-  2. What information will the BBC collect about me?
-  3. How will the BBC use the information they collect about me?
-  4. When will the BBC contact me?
-  5. Will I be contacted for marketing purposes?
-  6. Will the BBC share my personal information with anyone else?
-  7. Offensive or inappropriate content on the BBC website
-  8. What if I am aged 16 or under?
-  9. How long will the BBC keep my personal information?
-  10. Can I find out what personal information the BBC holds about me?
-  11. What if I am accessing BBC websites from outside the UK?
-  12. Changes to the BBC's Privacy Policy
-  13. Cookies Policy
-  14. Contacting the BBC about this Privacy Policy
-
-
-
-## 1. Introduction and General Terms
+## 1\. Introduction and General Terms
 
 The BBC is committed to protecting you and your family's personal information when you are using BBC services. We want our services to be safe and enjoyable environments for our audience. This Privacy Policy relates to our use of any personal information you provide to us through the bbc.co.uk websites.
 
@@ -40,7 +23,9 @@ As set out above, the BBC is committed to safeguarding your personal information
 
 The websites contains hyperlinks to websites owned and operated by third parties. These third party websites have their own privacy policies, including cookies, and we urge you to review them. They will govern the use of personal information you submit or are collected by cookies whilst visiting these websites. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk.
 
-## 2. What information will the BBC collect about me?
+Skip to top
+
+## 2\. What information will the BBC collect about me?
 
 When you sign up to participate in or receive a service from any bbc.co.uk website, such as newsletters, competitions, live chats, message boards or register with the single universal online registration system used across different parts of the bbc.co.uk called "Single Sign-On", we may ask for personal information about you. This can consist of information such as your name, e mail address, postal address, telephone or mobile number or date of birth. Different webpages may ask for different personal information. 
 
@@ -48,11 +33,13 @@ By entering your details in the fields requested, you enable the BBC and its ser
 
 Please note that sometimes on particular webpages we will require you to provide additional personal information, and sometimes sensitive personal information (e.g. if you're sending in an application to be a contributor on a political party we may need to know your political leanings). When we do this we will specify further on these webpages why we are collecting your information and how we will use it.
 
-The BBC also uses cookies (see paragraph 12 below for details) and collects IP addresses (an IP address is a number that can uniquely identify a specific computer or other network device on the internet). We use analysis software to look at IP addresses and cookies for the purpose of enhancing your user experience. This information is not used to develop a personal profile of you and the log files are regularly purged.
+The BBC also uses cookies (see paragraph 13 below for details) and collects IP addresses (an IP address is a number that can uniquely identify a specific computer or other network device on the internet). We use analysis software to look at IP addresses and cookies for the purpose of enhancing your user experience. This information is not used to develop a personal profile of you and the log files are regularly purged.
 
 We also use your IP address to determine whether you are accessing the services from the UK or not. If not, you will be re-directed to the international version of the bbc.co.uk site (see paragraph 11 for details.) 
 
-## 3. How will the BBC use the information they collect about me?
+Skip to top
+
+## 3\. How will the BBC use the information they collect about me?
 
 The BBC will use your personal information for a number of purposes including the following:
 
@@ -66,7 +53,7 @@ The BBC will use your personal information for a number of purposes including th
 
 Where the BBC proposes using your personal information for any other uses we will ensure that we notify you first. You will also be given the opportunity to withhold or withdraw your consent for your use other than as listed above. 
 
-## 4. When will the BBC contact me?
+## 4\. When will the BBC contact me?
 
 The BBC may contact you:
 
@@ -80,27 +67,37 @@ The BBC may contact you:
 
 Local pages will give you detailed information about how the BBC will contact you in relation to specific services.
 
-## 5. Will I be contacted for marketing purposes?
+Skip to top
+
+## 5\. Will I be contacted for marketing purposes?
 
 The BBC won't contact you for marketing purposes, or promote new services to you unless you specifically agree to be contacted for these purposes. 
 
-## 6. Will the BBC share my personal information with anyone else?
+Skip to top
+
+## 6\. Will the BBC share my personal information with anyone else?
 
 We will keep your information confidential except where disclosure is required or permitted by law (for example to government bodies and law enforcement agencies) or as described in paragraph 7 below. Generally, we will only use your information within the BBC. However, sometimes the BBC uses third parties to process your information. The BBC will require these third parties to comply strictly with its instructions and the BBC will require that they do not use your personal information for their own business purposes. 
 
 Please note that if you are accessing the BBC from outside the UK and you make a comment or complaint regarding any element of advertising (see paragraph 11 for more details about this) then BBC may forward your correspondence to BBCW only for the purposes of responding to you.
 
-## 7. Offensive or inappropriate content on the BBC website
+Skip to top
+
+## 7\. Offensive or inappropriate content on the BBC website
 
 If you post or send offensive, inappropriate or objectionable content anywhere on or to bbc.co.uk, or otherwise engage in any disruptive behaviour on bbc.co.uk, the BBC may use your personal information to stop such behaviour. 
 
 Where the BBC reasonably believes that you are or may be in breach of any of the laws of England or Wales (e.g. because content you have posted may be defamatory), the BBC may use your personal information to inform relevant third parties such as your employer, school e-mail/Internet provider or law enforcement agencies about the content and your behaviour.
 
-## 8. What if I am a user aged 16 or under?
+Skip to top
+
+## 8\. What if I am a user aged 16 or under?
 
 If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to the BBC's website. Users without this consent are not allowed to provide us with personal information. 
 
-## 9. How long will the BBC keep my personal information? 
+Skip to top
+
+## 9\. How long will the BBC keep my personal information? 
 
 We will hold your personal information on our systems for as long as is necessary for the relevant service, or as long as is set out in any relevant contract you hold with the BBC or the BBC's corporate retention schedule (this is a database that defines which documents should be kept and for how long). In the case that you wish to cancel your registration as a bbc.co.uk member, once an account is deleted a red flag goes on the database and, while people cannot use the personal information, it stays on the system for a period of one year for administration purposes before being deleted automatically.
 
@@ -108,23 +105,31 @@ Where you contribute to bbc.co.uk the BBC will generally only keep your content 
 
 The BBC, as a publicly funded organisation, also has an obligation to record snapshots of history which may include some User Generated Content i.e. content provided by users. Therefore, some content submitted to or shared with the BBC may be retained for prolonged periods of time or potentially indefinitely in the BBC's Archive, which is true of News contributions which are published. There may also be rare instances where we will share your contribution with third parties in the interests of maintaining historical archives (e.g. contributions about people's experiences in the World War II were given to the Imperial War Museum). Where possible, we will endeavour to inform you upfront or let you know at a later date where we are likely to keep content indefinitely or pass it onto an approved historical archive.
 
-## 10. Can I find out what personal information the BBC holds about me?
+Skip to top
+
+## 10\. Can I find out what personal information the BBC holds about me?
 
 Under the Data Protection Act you have the right to request a copy of the personal information the BBC holds about you and to have any inaccuracies corrected. (We charge £10 for information requests and will require you to prove your identity with 2 pieces of approved photographic identification.) We will use reasonable efforts to supply, correct or delete personal information about you on our files.
 
 Please address requests and questions about this or any other question about this Privacy Policy to the Data Protection Officer, MC3 D1, Media Village, 201 Wood Lane, London, W12 7TQ (Email: [dpa.officer@bbc.co.uk](mailto:dpa.officer@bbc.co.uk)). 
 
-## 11. What if I am accessing BBC websites outside the UK?
+Skip to top
+
+## 11\. What if I am accessing BBC websites outside the UK?
 
 www.bbc.co.uk is published in the UK by the BBC. For international users accessing the site from outside the UK, the site is made available to you by the BBC's commercial subsidiary, BBC Worldwide Ltd. ("BBCW"), on a commercial basis (ie some of the pages you access will have advertising on them) under licence from the BBC. However all personal information submitted by you to the site goes directly to the BBC and will be processed in accordance with this Privacy Policy (and any local terms that apply on websites) unless terms on sites specify otherwise.
 
 You should note that BBCW does place a number of cookies on www.bbc.co.uk and may collect information about international users from these - please see paragraph 13 for more information about cookies.
 
-## 12. Changes to BBC's Privacy Policy
+Skip to top
+
+## 12\. Changes to BBC's Privacy Policy
 
 This privacy policy may be updated from time to time so you may wish to check it each time you submit personal information to any bbc.co.uk website. The date of the most recent revisions will appear on this page.
 
-## 13. Cookies Policy -Information the BBC collects from you
+Skip to top
+
+## 13\. Cookies Policy -Information the BBC collects from you
 
 ### **a. What is a cookie?**
 
@@ -138,23 +143,29 @@ During the course of any visit to bbc.co.uk, the pages you see, along with a coo
 
 Information supplied by cookies can help us to analyse the profile of our visitors and help us to provide you with a better user experience. For example: if on a previous visit you went to our education pages, we might find this out from your cookie and highlight educational information on your second and subsequent visits.
 
-The BBC (and BBCW in relation to international users) also use a number of independent measurement and research companies. They gather information regarding the visitors to BBC sites on our behalf using cookies, log file data and code which is embedded on our website. The BBC and BBCW use this type of information to help improve the services it provides to its users. The BBC and BBCW strictly require that this information is not to use any information for their own business or other purposes (see paragraph 6 above). Certain other areas of bbc.co.uk may use cookies for a specific reason - for example, to help an online game work effectively on your device. If this is the case, the local terms for that area of the website will make this clear and you should refer to those local terms for additional information.
+The BBC (and BBCW in relation to international users) also use a number of independent measurement and research companies. They gather information regarding the visitors to BBC sites on our behalf using cookies, log file data and code which is embedded on our website. The BBC and BBCW use this type of information to help improve the services it provides to its users. The BBC and BBCW strictly require that third parties do not use any information for their own business or other purposes (see paragraph 6 above). Certain other areas of bbc.co.uk may use cookies for a specific reason - for example, to help an online game work effectively on your device. If this is the case, the local terms for that area of the website will make this clear and you should refer to those local terms for additional information.
 
 ### **c. BBC cookies and how to reject cookies?**
 
 A list of the main cookies that bbc.co.uk sets (and what each is used for) together with ways to minimise the number of cookies you receive can be found at the [BBC's Cookie List and How To Reject Cookies](https://web.archive.org/privacy/cookies.shtml).
 
-## 14. Contacting the BBC about this Privacy Policy
+Skip to top
 
-If you have any questions or comments about this Privacy Policy please contact; 
+## 14\. Contacting the BBC about this Privacy Policy
 
-_The Data Protection Officer  
-MC3 D1   
-Media Village   
-201 Wood Lane   
-London   
-W12 7TQ_
+If you have any questions or comments about this Privacy Policy please contact;
+
+The Data Protection Officer  
+MC3 D1  
+Media Village  
+201 Wood Lane  
+London  
+W12 7TQ 
 
 (Email: [dpa.officer@bbc.co.uk](mailto:dpa.officer@bbc.co.uk)). 
 
-[Top]
+Skip to top
+
+Skip to top
+
+**This page is best viewed in an up-to-date web browser with style sheets (CSS) enabled. While you will be able to view the content of this page in your current browser, you will not be able to get the full visual experience. Please consider upgrading your browser software or enabling style sheets (CSS) if you are able to do so.**
