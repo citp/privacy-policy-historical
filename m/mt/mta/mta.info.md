@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mta.info privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515235719id_/http%3A//www.mta.info/mta/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mta.info privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228024137id_/http%3A//www.mta.info/mta/privacy.htm) for the most accurate reproduction.*
 
 # MTA - Internet Privacy Policy
 
@@ -16,9 +16,11 @@ For purposes of this Policy, “personal information” means any information co
 
 The MTA Agencies monitor MTA Website user traffic and patterns, and automatically collect certain non-personal information about your visit such as the internet domain name from which you access the MTA Website, the type of browser and operating system you used, the date and time of your visit, the pages you visit, and the referring web site address, if any. This information is used to improve the content of the MTA Website and to help the MTA Agencies understand how users are interacting with the MTA Website. This information is not collected for commercial marketing purposes and the MTA Agencies will not sell or otherwise disclose the information collected from the MTA Website for commercial marketing purposes.
 
-## Cookies
+## Cookies and Web Beacons
 
-The MTA Agencies may use cookies to track how you visit certain pages on the MTA Website. The use of cookies is a standard practice among Internet websites. Cookies are small amounts of data that are sent to your browser from our web servers and are stored on your computer’s hard drive, not on our site. Cookies collect information that includes the server your computer is logged into and your browser type. Cookies used in connection with the MTA Website do not retrieve any other data from your hard drive, or capture your e-mail address or any other personal information. Accepting cookies is required if you want to use certain of the MTA Website functions because they are essential for site administration and security. 
+The MTA Agencies may use cookies to track how you visit certain pages on the MTA Website. The use of cookies is a standard practice among Internet websites. Cookies are small amounts of data that are sent to your browser from our web servers and are stored on your computer’s hard drive, not on our site. Cookies collect information that includes the server your computer is logged into and your browser type. Cookies used in connection with the MTA Website do not retrieve any other data from your hard drive, or capture your e-mail address or any other personal information. Accepting cookies is required if you want to use certain of the MTA Website functions because they are essential for site administration and security.
+
+From time to time, MTA also may use web beacons, alone or in conjunction with cookies, to determine what MTA ads your browser is shown, what ads you click and other actions you take on the Internet, to help us better provide relevant products, services and information to you and to help us effectively measure advertising effectiveness.   We also collect information on our website through the use of web beacons or 1x1 pixels.   A web beacon is a transparent 1x1 pixel image that has been placed on a web page and sends a signal when a user has visited that page. A web beacon does not contain any personal information. No information that is personally identifiable to you is transmitted to the third party using the web beacon. The third party is required to protect the privacy of the information it receives using Web beacons or cookies and is not allowed to use the information it receives for any purpose beyond what is necessary to assist us.  We do not sell, rent, trade, or otherwise distribute information about you gathered through the web beacons or pixels with any third parties.
 
 ## Information Collected When You E-mail the MTA Website, Initiate an Online Transaction, or Submit Information For Employment Purposes
 
@@ -77,7 +79,7 @@ The information provided in this Policy should not be construed as giving busine
 
 ## Contact Information
 
-For questions regarding this Policy, please [contact the MTA Website Privacy Compliance Officer via email](https://web.archive.org/web/20080515235719id_/http%3A//www.mta.info/mta/privacy2.htm)
+For questions regarding this Policy, please [contact the MTA Website Privacy Compliance Officer via email](https://web.archive.org/web/20081228024137id_/http%3A//www.mta.info/mta/privacy2.htm)
 
 or by mail to:
 
@@ -85,6 +87,3 @@ MTA Website Privacy Compliance Officer
 Metropolitan Transportation Authority  
 347 Madison Avenue  
 New York, New York 10017
-
-Machine translations are imperfect. This service is intended to provide basic understanding of MTA website  
-content, but the translation is literal and may misrepresent names and idiomatic expressions. [More Info](https://web.archive.org/mta/transpilot.htm)
