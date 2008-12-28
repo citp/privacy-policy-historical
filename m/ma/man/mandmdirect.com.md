@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the mandmdirect.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608162306id_/http%3A//www.mandmdirect.com/SecurityAndPrivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandmdirect.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229001503id_/http%3A//www.mandmdirect.com/Security.asp) for the most accurate reproduction.*
 
-# Ordering and paying for online orders with M and M Direct is both safe and secure.
+# Ordering and paying for online orders at M and M Direct is safe.
 
-| 
-
-[](https://web.archive.org/default.asp)  
-  
----|---  
-  
 **Ordering and paying for online orders with M and M Direct is both safe and secure.** Security is one of the greatest fears when placing online orders and we as a company have invested in a totally secure and safe site for you to shop. Once you checkout, we encrypt all your details using Internet standard encryption technology (SSL).
 
 If a site is secure a padlock will appear in the bottom right hand section of your screen when you are in the credit card entry area. Occasionally, the padlock will not be visible but the page is still secure. If you do not see the padlock, you can check by right-clicking anywhere on the page (except on an image) and select Properties. If the URL starts **https** : the **s** indicates that the page is secure. 
