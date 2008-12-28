@@ -1,34 +1,34 @@
-> *The following text is extracted and transformed from the smilebox.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626123255id_/http%3A//www.smilebox.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smilebox.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228121125id_/http%3A//www.smilebox.com/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
   * [Home](http://www.smilebox.com/ "Smilebox")
-  * [Design Types](http://www.smilebox.com/scrapbooks/ "Design Types")
-  * [Occasions](http://www.smilebox.com/seasonal-greetings/ "Occasions")
+  * [Design Types](http://www.smilebox.com/scrapbooks/ "Scrapbooks, slideshows, and more")
+  * [Occasions](http://www.smilebox.com/seasonal-greetings/ "Seasonal, birthday, wedding, and more")
   * [Learn More](http://www.smilebox.com/learnMore.html "Learn More")
   * All Categories 
 
 
 
-### [Design Types](http://www.smilebox.com/design-types/ "Design Types")
+### [Design Types](http://www.smilebox.com/design-types/ "e-cards")
 
-[Ecards](http://www.smilebox.com/ecards/ "Ecards"), [Scrapbooks](http://www.smilebox.com/scrapbooks/ "Scrapbooks"), [Slideshows](http://www.smilebox.com/slideshows/ "Slideshows"), [Photo albums](http://www.smilebox.com/photo-albums/ "Photo albums"), [Postcards](http://www.smilebox.com/postcards/ "Postcards"), [Recipes](http://www.smilebox.com/recipe-cards/ "Recipes"), [Invitations](http://www.smilebox.com/invitations/ "Invitations")
+[Ecards](http://www.smilebox.com/ecards/ "free ecards"), [Scrapbooking](http://www.smilebox.com/scrapbooks/ "scrapbooking"), [Slideshows](http://www.smilebox.com/slideshows/ "slide show"), [Photo albums](http://www.smilebox.com/photo-albums/ "photo album"), [Postcards](http://www.smilebox.com/postcards/ "postcards"), [Recipes](http://www.smilebox.com/recipe-cards/ "recipe cards"), [Invitations](http://www.smilebox.com/invitations/ "invitations")
 
-### [Occasions](http://www.smilebox.com/occasions/ "Occasions")
+### [Occasions](http://www.smilebox.com/occasions/ "greeting cards for every occasion")
 
-[Baby](http://www.smilebox.com/occasions/baby-greeting-cards/ "Baby"), [Birthday](http://www.smilebox.com/occasions/birthday-greeting-cards/ "Birthday"), [Engagement](http://www.smilebox.com/occasions/engagement-cards/ "Engagement"), [Family](http://www.smilebox.com/occasions/family-occasions/ "Family"), [Graduation](http://www.smilebox.com/occasions/graduation-greetings/ "Graduation"), [ Keep in Touch](http://www.smilebox.com/occasions/keep-in-touch-greeting/ "Keep in Touch"), [Love](http://www.smilebox.com/ecards/love-greeting-cards/ "Love"), [Miss You](http://www.smilebox.com/ecards/miss-you/ "Miss You"), [New Home](http://www.smilebox.com/occasions/new-home-greeting-cards/ "New Home"), [Thank You](http://www.smilebox.com/occasions/thank-you/ "Thank You"), [Travel](http://www.smilebox.com/occasions/travel-photo-album/ "Travel"), [Wedding](http://www.smilebox.com/occasions/wedding-greetings/ "Wedding")
+[Baby](http://www.smilebox.com/occasions/baby-greeting-cards/ "baby greeting cards"), [Birthday](http://www.smilebox.com/occasions/birthday-greeting-cards/ "birthday greeting cards"), [Engagement](http://www.smilebox.com/occasions/engagement-cards/ "Engagement cards"), [Family](http://www.smilebox.com/occasions/family-occasions/ "Family occasions"), [Graduation](http://www.smilebox.com/occasions/graduation-greetings/ "Graduation greetings"), [ Keep in Touch](http://www.smilebox.com/occasions/keep-in-touch-greeting/ "Keep in Touch greeting"), [Love](http://www.smilebox.com/ecards/love-greeting-cards/ "love greeting cards"), [Miss You](http://www.smilebox.com/ecards/miss-you/ "Miss You cards"), [New Home](http://www.smilebox.com/occasions/new-home-greeting-cards/ "New Home greeting cards"), [Retirement](http://www.smilebox.com/occasions/retirement/ "Retirement cards"), [Thank You](http://www.smilebox.com/occasions/thank-you/ "Thank You cards"), [Travel](http://www.smilebox.com/occasions/travel-photo-album/ "Travel photo album"), [Wedding](http://www.smilebox.com/occasions/wedding-greetings/ "Wedding greetings")
 
-### [Holidays](http://www.smilebox.com/holiday-greetings/ "Holidays")
+### [Holidays](http://www.smilebox.com/holiday-greetings/ "Holiday greetings")
 
-[New Year's](http://www.smilebox.com/holiday-greetings/new-years-cards/ "New Years"), [Valentine's Day](http://www.smilebox.com/holiday-greetings/valentine-cards/ "Valentine's Day"), [St. Patrick's Day](http://www.smilebox.com/holiday-greetings/st-patricks-day-cards/ "St. Patrick's Day"), [Easter](http://www.smilebox.com/holiday-greetings/easter-cards/ "Easter"), [Mother's Day](http://www.smilebox.com/holiday-greetings/mothers-day-cards/ "Mother's Day"), [Father's Day](http://www.smilebox.com/holiday-greetings/fathers-day-cards/ "Father's Day"), [4th of July](http://www.smilebox.com/holiday-greetings/fourth-of-july/ "Fourth of July"), [Grandparent's Day](http://www.smilebox.com/holiday-greetings/grandparents-day-cards/ "Grandparent's Day"), [Halloween](http://www.smilebox.com/holiday-greetings/halloween-greetings/ "Halloween"), [Thanksgiving](http://www.smilebox.com/holiday-greetings/thanksgiving-greeting/ "Thanksgiving"), [Hanukkah](http://www.smilebox.com/holiday-greetings/happy-hanukkah/ "Hanukkah"), [Christmas](http://www.smilebox.com/holiday-greetings/christmas-greetings/ "Christmas")
+[New Year's](http://www.smilebox.com/holiday-greetings/new-years-cards/ "New Years cards"), [Valentine's Day](http://www.smilebox.com/holiday-greetings/valentine-cards/ "Valentine cards"), [St. Patrick's Day](http://www.smilebox.com/holiday-greetings/st-patricks-day-cards/ "St Patricks Day cards"), [Easter](http://www.smilebox.com/holiday-greetings/easter-cards/ "Easter cards"), [Mother's Day](http://www.smilebox.com/holiday-greetings/mothers-day-cards/ "Mothers Day cards"), [Father's Day](http://www.smilebox.com/holiday-greetings/fathers-day-cards/ "Fathers Day cards"), [4th of July](http://www.smilebox.com/holiday-greetings/fourth-of-july/ "fourth of July"), [Grandparent's Day](http://www.smilebox.com/holiday-greetings/grandparents-day-cards/ "Grandparents Day"), [Halloween](http://www.smilebox.com/holiday-greetings/halloween-greetings/ "Halloween greetings"), [Thanksgiving](http://www.smilebox.com/holiday-greetings/thanksgiving-greeting/ "Thanksgiving greeting"), [Hanukkah](http://www.smilebox.com/holiday-greetings/happy-hanukkah/ "Happy Hanukkah"), [Christmas](http://www.smilebox.com/holiday-greetings/christmas-greetings/ "Christmas greetings")
 
-### [Seasonal](http://www.smilebox.com/seasonal-greetings/ "Seasonal")
+### [Seasonal](http://www.smilebox.com/seasonal-greetings/ "spring summer autumn winter cards")
 
-[Winter](http://www.smilebox.com/seasonal-greetings/winter-greetings/ "Winter"), [Spring](http://www.smilebox.com/seasonal-greetings/day-spring-cards/ "Spring"), [Summer](http://www.smilebox.com/seasonal-greetings/summer-greetings/ "Summer"), [Autumn](http://www.smilebox.com/seasonal-greetings/autumn-photos/ "Autumn")
+[Winter](http://www.smilebox.com/seasonal-greetings/winter-greetings/ "Winter greetings"), [Spring](http://www.smilebox.com/seasonal-greetings/day-spring-cards/ "day Spring cards"), [Summer](http://www.smilebox.com/seasonal-greetings/summer-greetings/ "Summer greetings"), [Autumn](http://www.smilebox.com/seasonal-greetings/autumn-photos/ "Autumn photos")
 
-### [Social Networks](http://www.smilebox.com/slideshows/myspace-slideshow/ "Social Networks")
+### [Social Networks](http://www.smilebox.com/slideshows/myspace-slideshow/ "myspace slideshow")
 
-[MySpace Slideshows](http://www.smilebox.com/slideshows/myspace-slideshow/ "MySpace Slideshows"), [Facebook Slideshows](http://www.smilebox.com/slideshows/facebook-slideshow/ "Facebook Slideshows")
+[MySpace Slideshows](http://www.smilebox.com/slideshows/myspace-slideshow/ "MySpace Slideshow"), [Facebook Slideshows](http://www.smilebox.com/slideshows/facebook-slideshow/ "Facebook Slideshow")
 
 Smilebox, Inc. is committed to protecting your privacy. The following privacy policy discloses our information-gathering and dissemination practices for our website and our Smilebox service. By using our website or our Smilebox service, you agree to be bound by the terms of this policy.
 
