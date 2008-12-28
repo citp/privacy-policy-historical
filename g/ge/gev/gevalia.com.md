@@ -1,42 +1,61 @@
-> *The following text is extracted and transformed from the gevalia.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608224049id_/http%3A//www.gevalia.com/Gevalia/customerservice/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gevalia.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228102819id_/http%3A//www.gevalia.com/Gevalia/customerservice/privacy_Notice.aspx) for the most accurate reproduction.*
 
-# Gevalia.com - Customer Service - Privacy Policy
+# Gevalia
 
-**PRIVACY AT THE GEVALIA KAFFE WEBSITE**
+Personal Information You Provide
 
-This website is maintained by The Gevalia Kaffe Import Service. Here at Gevalia, we recognize that many visitors to our site are concerned about the information they provide us, and how we treat that information. So we've developed a Privacy Policy to assure you that we take seriously our responsibility to protect customer information, and to use it only in ways that are consistent with your wishes. We may update the Policy from time to time, so please check in occasionally. 
+You may choose to provide us with certain personal information (such as your name, contact details and payment card information) through our website. Here are the ways in which you may provide the information and the types of information you may submit. We will use the information you provide through this website to communicate with you about our products and services and other offers. We also tell you other ways we may use the information.
 
-You can reach us 24 hours a day, 7 days a week at: **1-800-438-2542** or [Click here](https://web.archive.org/gevalia/customerservice/feedback.aspx) to send email to us. We will be happy to answer your questions or hear your concerns. 
+Registration
 
-If you have any questions about our Privacy Policy, you can contact us at:   
-The Gevalia Kaffe Import Service   
-Holmparken Square, PO Box 6276  
-Dover, DE 07015-6276
+To take advantage of our offerings, you may choose to register on our website. As part of the registration process, we request certain information (such as your contact information) to make it easy for you to order our products and manage your Gevalia account online.
 
- **OUR POLICY**
+Join Gevalia's Programs and Shop Gevalia
 
-At our site, we don't collect personally-identifiable information from individuals unless they provide it to us voluntarily and knowingly. So, if you just want to browse and learn about our exceptional coffees and teas, we invite you to do so. As a casual, unregistered visitor to our site, we'll recognize your home server (e.g., that your web access is through AOL.com), but not your e-mail address or any other personal or system information. 
+To enroll to become a member of one of our programs (such as Gevalia Kaffe), or to order Gevalia products or other items offered through our website, we ask you for certain information. The information we request includes your contact details and billing information, such as your payment card information. We use this information to process your order. If you ask us to send a gift to a friend, we will use your friend's information to send the gift. We also may use the information to send your friend Gevalia communications. 
 
-Of course, since we sell our coffees, teas and other products through the mail, if you want to order our products it will be necessary for you to provide personally-identifiable information. This will include your name, address, phone number and, if you place an order online, credit card information. Any information you provide is downloaded off of the web server to a secure system and is maintained there. Changes to your information online may only occur after a customer has logged in with their registered user name and password. 
+Refer a Friend
 
-**OUR CUSTOMER LIST**
+You may choose to tell your friends about Gevalia products through the website's "Refer a Friend" feature. We ask you to submit your friend's name and email address so we can forward the requested information. We may also use your friend's information to send your friend communications about our products and services.
 
-When you enroll in any of the Gevalia programs or purchase items from our online catalog, we add your name to our Customer List. From time to time we share selected names and addresses from this List with other companies or services that offer fine quality food or merchandise by mail. **If you prefer not to receive mailings from these companies, please advise us by using the mail, phone or e-mail address provided above.** Please include your name and address if you are contacting us by mail or e-mail. We will ensure that your name is removed from the list we share with other organizations. 
+Gevalia Catalog
 
-**CONTACTS FROM US**
+When you ask for our Gevalia catalog, we request your contact information so we can fulfill your request. You also may register for our special email offers.
 
-We also use our Customer List for our own followup contacts with you. Many of our customers look forward to being contacted by Gevalia Customer Service Representatives by phone to be kept up-to-date about new coffees and services, programs and benefits. On the other hand, we recognize that some customers prefer not to be contacted by phone, even if they do love our coffees. Please be assured that we maintain an up-to-date "Do Not Call" list for customers who have advised us of their preference in this regard. If you do not wish to be called regarding our special offers, please let us know by mail, phone or email, and we will add you to our Do Not Call list. 
+Gevalia Email Newsletter
 
-We also maintain a number of e-mail mailboxes in an effort to support our online customers as effectively as we do on the phone or through the mail. We read every e-mail that we receive and do our best to respond within 48 hours, if a response is required. We save a very limited number of e-mail messages, but only until the issue is resolved. We do not record email addresses, unless you have voluntarily provided it to us in your online customer service registration. 
+You may sign up for our Gevalia email newsletter. To receive the newsletter, we ask you for your name, email address and account number (if applicable).
 
-If you did provide us with your e-mail address, we may notify you from time to time about Gevalia products or services that may be of interest to you. If you prefer not to receive these e-mail notifications, please follow the "Opt-out" instructions included with the e-mail, [ Click Here](https://web.archive.org/gevalia/customerservice/feedback.aspx) to contact us or fill out the information in our [ unsubscribe page](https://web.archive.org/Gevalia/customerservice/email_un_subscribe.aspx). We do not trade, sell or disclose e-mail addresses with other companies. 
+Contests, Sweepstakes and Other Promotions
 
-**COOKIES**
+On our website, you may choose to participate in contests, sweepstakes and other promotions that we may offer from time to time. If you decide to participate, we may ask you for certain information (such as your contact information) for use in administering these promotions.
 
-Like most companies, we use "cookies" (small pieces of information stored on your computer) on certain parts of our web site. The cookie allows us to track your session, particularly when you are shopping in the Gevalia catalog. This is necessary to ensure that we keep your order together while you browse through the catalog and select items for purchase. We do not use the cookie to collect any type of personal information, and the cookie doesn't extract any information from your computer. 
+Office Coffee Service
 
-**SECURITY ONLINE**
+If you are interested in ordering Gevalia's products for your office, we ask you for your contact details so we can provide you with office service information. You also may choose to give us information about your office service needs, such as the number of people in your office. We use this information to provide you with a personalized office service proposal.
 
-Most of our forms, especially when ordering a product or using online customer service, use secure pages to insure that the information sent between your computer and our system is secure. This is especially true if we are asking you for payment information. 
+Food Service
 
-We use the Secure Sockets Layer (SSL) encryption method on all secure submissions. This method is generally accepted to insure that the transmission of personal information, such as account numbers and credit card information is secure. The most common browsers, Netscape and Internet Explorer, make it very obvious when information is being passed in a secure manner by showing either a completed key or a closed lock on the screen.
+If you would like to order Gevalia's products for your restaurant or corporate dining facility, we ask you to submit your contact details so we can provide you with food service information. You also may choose to provide information about your food service needs, such as the type of business you are in. We use this information to provide you with a personalized food service proposal.
+
+Contact Us
+
+If you communicate with us through the Contact Form on our website, we ask you for your contact details and account number (if applicable) so we can respond to your questions and comments. You may choose to provide additional information as well. We may use the information you provide to evaluate the quality of our products. You may also use the Contact Form to exercise certain choices, such as asking to be removed from our mailing list.
+
+Other Site Features
+
+We offer visitors to our website various features, which we may change from time to time. We may ask you to submit certain personal information so we can provide you with these features.
+
+Personal Information We Collect by Automated Means
+
+When you visit our website we collect certain information by automated means, such as how many users have visited the website and the pages they have accessed. We also collect the IP addresses of our website visitors. By collecting this information, we learn how to improve our website. We collect this information through various means, including "cookies" and "web beacons."
+
+Cookies
+
+Like many companies, we use cookies on our website. Cookies are bits of text that are placed on your computer's hard drive when you visit certain websites and, for example, may tell us whether you have visited our website before or if you are a new visitor. They may also assist us in identifying aspects of your browsing and purchasing behavior, such as what website features are of interest to you. 
+
+Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie and how to disable existing cookies. Without cookies, however, you may not be able to take advantage of our website features.
+
+Web Beacons
+
+Certain pages on our website may contain web beacons (also known as Internet tags, pixel tags or clear GIFs). These web beacons allow third parties to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page and the information in cookies sent by the third party. We also use beacons to tell our referral partners that you have visited our site and may have placed an order, and we may provide your email address to our partners.
