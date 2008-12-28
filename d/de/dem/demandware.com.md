@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the demandware.com privacy policy that was archived on 2008-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080311131912id_/http%3A//www.demandware.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandware.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228041011id_/http%3A//www.demandware.com/Privacy%2520Policy/privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# On-Demand eCommerce - Demandware :: Privacy Policy
+# eCommerce Solutions On-Demand | Demandware Privacy Policy
 
 At Demandware, we respect the privacy of our customers and the visitors to our website. This statement describes the current information gathering, sharing and privacy practices for our website, www.demandware.com. 
 
