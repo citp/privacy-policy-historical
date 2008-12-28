@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the starbucks.com privacy policy that was archived on 2008-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080630181316id_/http%3A//www.starbucks.com/customer/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the starbucks.com privacy policy that was archived on 2008-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081228030805id_/http%3A//www.starbucks.com/customer/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	<meta http-equiv="lang" content="en-US">
@@ -77,6 +77,28 @@ if(pageName.indexOf("contact_forms.asp") != -1){
 	}
 }
 
+function makeDaughterWindowInSamePage(page, intW, intH) 
+{
+
+	if (win != null && win.closed == false)
+	{
+		win.close();
+	}
+	
+	win = window.open (page,"newWin","width=" + intW + ",height=" + intH + ",scrollbars=0");
+
+	if (win != null) 
+	{	
+		if (win.opener == null) 
+		{
+			win.opener = self;
+		}
+		
+		win.focus()
+	}
+}
+
+
 function makeDaughterWindow(page, intW, intH) 
 {
 //	if (win == null)
@@ -94,6 +116,14 @@ function makeDaughterWindow(page, intW, intH)
 
 	if (win != null) 
 	{
+		// *******************	
+		// Fix for Bug #1543
+		
+			win.close();
+			win = window.open (page,"newWin","width=" + intW + ",height=" + intH + ",scrollbars=0");
+			
+		// ********************				
+		
 		if (win.opener == null) 
 		{
 			win.opener = self;
@@ -143,7 +173,14 @@ function makeDaughterWindowScroll(page, intW, intH)
     win = window.open (page,"newWin","width=" + intW + ",height=" + intH + ",scrollbars=1");
 
 	if (win != null) 
-	{
+	{	
+		// *******************	
+		// Fix for Bug #1543
+		win.close();
+		win = window.open (page,"newWin","width=" + intW + ",height=" + intH + ",scrollbars=1");
+		
+		// ********************
+				
 		if (win.opener == null) 
 		{
 			win.opener = self;
@@ -180,6 +217,15 @@ function makeDaughterWindowWithToolBar(page, intW, intH)
 
 	if (win != null) 
 	{
+	
+		// *******************	
+		// Fix for Bug #1543
+		
+		 win.close();
+		 win = window.open (page,"newWin","width=" + intW + ",height=" + intH + ",scrollbars=0,toolbar=1,resizable=1");
+		 
+		// ********************
+		
 		if (win.opener == null) 
 		{
 			win.opener = self;
@@ -990,7 +1036,10 @@ End Function
    
 <body onload="MM_preloadImages('/images/nav_images/nav_coffees-over.gif', '/images/nav_images/nav_our_stores-over.gif', 
 '/images/nav_images/nav_starbucks_card-over.gif', '/images/nav_images/nav_at_home-over.gif', '/images/nav_images/nav_for_business-over.gif', 
-'/images/nav_images/nav_about_us-over.gif'); " onresize="_gani_onresize();">
+'/images/nav_images/nav_about_us-over.gif'); ">
+
+<!--  restor this line in the body tag to put "bug" back on page	onresize="_gani_onresize();"> -->
+
 <!--WEBSIDESTORY CODE HBX2.0 (Universal)-->
 <!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
 <script language="javascript">
@@ -1174,7 +1223,7 @@ End Function
                         var ambigHTML = "Did you mean... <br/><table class='copytext'>";
                         
                         // TODO: replace inline style with CSS styles.
-                        var formatString = "<tr><td style='vertical-align:top;'>{0}</td><td><a href='javascript: onFoundResultsHelperGlobal({1});'>{2}</a></td></tr>";
+                        var formatString = "<tr><td style='vertical-align:top;'>{0}</td><td><span class='ambigiousLocatorLink'><a href='javascript: onFoundResultsHelperGlobal({1});'>{2}</a></span></td></tr>";
                         for (var i = 0; i < places.length; i++){
                             ambigHTML += formatString.replace("{0}", i+1).replace("{1}", i).replace("{2}", places[i].Name);
                         }
@@ -1234,7 +1283,20 @@ End Function
 <div id="WindowDiv" name="WindowDiv"> 
 	<div id="PageDiv" name="PageDiv">
 		<div id="PageLeft" name="PageLeft" class="pageLeft">
-				<div align="right"><a href="http://www.starbucks.com/default.asp"><img src="../images/logo_top.gif" alt="" width="215" height="162" border="0" style="display: block;"></a></div>
+		<script>
+		
+		
+        var IE6 =  navigator.userAgent.toLowerCase().indexOf('msie 6') != -1;
+        var homeurl = 'http://www.starbucks.com/default.asp';
+        if (IE6) { 
+              document.write("<div align=\"right\"><a href=\"" + homeurl + "\"><div style=\"width:215px; height:162px; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/logo_top.png', sizingMethod='scale');  \"></a></div></div>");
+        } else {
+            document.write("<div align=\"right\"><a href=\"" + homeurl + "\"><img src=\"../images/logo_top.png\" alt width=\"215\" height=\"162\" border=\"0\" style=\"display: block;\"></a></div>");
+        }
+        </script><div align="right"><a href="http://www.starbucks.com/default.asp"><img src="../images/logo_top.png" alt="" width="215" height="162" border="0" style="display: block;"></a></div>
+        <noscript>
+            <div align="right"><a href="http://www.starbucks.com/default.asp"><img src="../images/logo_top.png" alt width="215" height="162" border="0" style="display: block;"></a></div>
+        </noscript>
 				<!--?xml version="1.0"?--><script language="JScript"> 
       function makeSbuxPopupWindow(page, intH, intW, intScroll) 
       {
@@ -1275,19 +1337,19 @@ End Function
 		                                        <img height="65" alt="" src="../images/spacer.gif" width="1"><br>
 		                                    </td>
 		                                    <td align="left" valign="bottom" width="100"><div style="position:relative;">
-		                                        <span class="subheader">Store Locator</span><br>
+		                                        <span class="storeLocatorheader">Store Locator</span><br>
 		                                        <input class="copytext" id="GlobalStoreSearchTxt" name="GlobalStoreSearchTxt" maxlength="150" value="Enter Location" onblur="GlobalSetLocatorDefault()" onfocus="GlobalClearLocatorDefault()" onkeypress="GlobalSubmitLocator(event)">
             		                            
                                                 <div id="globalAmbig" class="copytext" style="border:solid 1px silver; background:white;position:absolute;top:32px;left:0px;font-family:Verdana; font-size:9px;color:#7F7F7F;height:100px;overflow-y:auto;overflow-x:hidden;width:120px;display:none;"></div>
 		                                    </div></td>
 		                                    <td align="left" valign="bottom">
-		                                        <img src="../images/btn_go_text.gif" onclick="GlobalInitializeMap()" onmouseover="this.style.cursor='pointer';" onmouseout="this.style.cursor='default';">
+		                                        <img src="../images/btn_go_holiday.gif" onclick="GlobalInitializeMap()" onmouseover="this.style.cursor='pointer';" onmouseout="this.style.cursor='default';">
 		                                        <input type="hidden" name="hdnGlobalLocation" id="hdnGlobalLocation">
 		                                    </td>
 		                                </tr>
 		                                <tr>
 		                                    <td valign="top" align="right">
-		                                        <span class="copytext"><a style="text-decoration:none;" href="http://www.starbucks.com/Retail/Find/default.aspx">Advanced</a></span>
+		                                        <span class="storeLocatorLink"><a href="http://www.starbucks.com/Retail/Find/default.aspx">Advanced</a></span>
 		                                    </td>
 		                                    <td><br>
 		                                    </td>
@@ -1325,11 +1387,17 @@ End Function
 				</div>
 				
 			</div>
+			
 			<div id="ContentHeader" name="ContentHeader" class="divContentHeader"><img src="/images/headers/customer/privacy.gif" alt="" width="675" height="70" hspace="0" vspace="0"></div>
-			<div id="ContentContainer" name="ContentContainer">
+			
+			<div id="ContentContainer" name="ContentContainer">		
+			 </div><table cellpadding="0" cellspacing="0" border="0" width="100%">			
+			<tbody><tr>  
+			<td valign="top" style="BACKGROUND-COLOR: #ffffff">	
+				
 				<img src="../images/spacer.gif" alt="" width="1" height="509" style="display: block; float: left;">
 				<div id="Content" name="Content" class="divContent">
-	
+				
 			<!--Nested Content tables Start Here-->
 			<table border="0" cellpadding="0" cellspacing="0" width="397">
 				<tbody><tr>
@@ -1429,11 +1497,13 @@ End Function
 			<!--Nested Content tables End Here-->
 		
 		
-				</div>
+				</div>				
+				</td>				
+				<td valign="top" style="BACKGROUND-COLOR: #ffffff">
 				
 				<div id="Search" name="Search" class="divSearch">
 					<span style="line-height: 1px; padding: 0; margin: 0;"><img src="../images/spacer.gif" alt="" width="165" height="1" hspace="0" vspace="0" style="display: block;"></span>
-					
+						
 <table cellpadding="0" cellspacing="0" border="0">
 <form action="http://www.starbucks.com/search/AllResults.aspx" method="post"></form>
     <tbody><tr>
@@ -1446,10 +1516,14 @@ End Function
 
 
 </tbody></table>
-
+	
 				</div>
 				
-			</div>
+				</td>
+			
+			</tr>	
+			</tbody></table>
+			
 			<div id="Footer" name="Footer" class="divFooter">
 				
 	<span style="line-height: 1px; padding: 0; margin: 0;"><img src="../images/spacer.gif" alt="" width="675" height="1" hspace="0" vspace="0" class="divFooterTopBorder"></span>
@@ -1468,14 +1542,11 @@ End Function
 		.
 		<a href="https://www.starbucks.com/partners/default.asp">Partners</a></div>
 
-			</div>		
-		</div>
-	</div>
+			</div>	
+		</div>		
+	</div>	
 </div><br><br>
-<script type="text/javascript" src="/javascript/vert_image_effect.js"></script><script type="text/javascript" src="/javascript/gslb.cookie.js"></script><script type="text/javascript" src="/javascript/gslb.object.js"></script><script type="text/javascript" src="/javascript/gslb.positionedbase.js"></script><script type="text/javascript" src="/javascript/gslb.csslength.js"></script><script type="text/javascript" src="/javascript/gslb.positionednode.js"></script><div id="ganiDivId" style="position: absolute; left: 655px; top: 525px; z-index: 98; display: block;">  <a href="https://web.archive.org/web/20080402140106/http://www.mystarbucksidea.com" onclick="this.blur();" target="_new">    <img onmouseover="this.src = '/images/clipon_on.png';" onmouseout="this.src = '/images/clipon_off.png';" border="0" alt="Got an Idea?" src="/images/clipon_off.png">  </a></div>
-<script language="javascript">
-	_gani_initVertEffect(_gani_div_name);
-</script>		
+<!--		restore these lines to put the "bug" back on the right side of the page<script type="text/javascript" src="/javascript/vert_image_effect.js"></script><script language="javascript">	_gani_initVertEffect(_gani_div_name);</script>-->		
 
 
 </body></html>
