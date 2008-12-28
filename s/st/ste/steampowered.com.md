@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steampowered.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509084644id_/http%3A//www.valvesoftware.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steampowered.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228215712id_/http%3A//www.valvesoftware.com/privacy.htm) for the most accurate reproduction.*
 
 # Valve
 
