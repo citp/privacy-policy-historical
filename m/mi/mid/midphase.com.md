@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the midphase.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518085650id_/http%3A//www.midphase.com/html_files/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midphase.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228025321id_/http%3A//www.midphase.com/privacy.php) for the most accurate reproduction.*
 
-# midPhase - Web Hosting - PHP, Free Domain, 3 Terabytes of Bandwidth, and more...
-
-  
-**Privacy Policy**
+# midPhase Web Hosting - Budget Web Hosting and Dedicated Server Hosting
 
 This is the web site of midPhase Services, Inc. (midphase.com)
 
@@ -27,8 +24,8 @@ If you supply us with your postal address on-line you will only receive the info
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
 
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. Consumers can access this information by e-mail us at the above address. 
+Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. Consumers can access this information by e-mail us at the above address.
 
-With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. 
+With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses. 
