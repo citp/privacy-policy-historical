@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nationalparks.org privacy policy that was archived on 2008-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080513131421id_/http%3A//www.nationalparks.org%3Ffa%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nationalparks.org privacy policy that was archived on 2008-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081228122359id_/http%3A//www.nationalparks.org%3Ffa%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -11,21 +11,24 @@
 <script src="/ie7/ie7-standard-p.js" type="text/javascript"></script>
 <script src="/ie7/ie7-css3-selectors.js" type="text/javascript"></script>
 <![endif]-->
+<!--[if IE 7]>
+<link href="/stylesheets/screen-ie7.css" rel="stylesheet" type="text/css" media="screen,projection" />
+<![endif]-->
 <link href="/stylesheets/sIFR-screen.css" rel="stylesheet" type="text/css" media="screen">
 <link href="/stylesheets/print.css" rel="stylesheet" type="text/css" media="print">
 <link href="/stylesheets/sIFR-print.css" rel="stylesheet" type="text/css" media="print">
 <link rel="shortcut icon" href="/favicon.ico">
 <script src="/js/jquery.js" type="text/javascript"></script>
 <script src="/js/thickbox.js" type="text/javascript"></script>
+<script src="/js/lightbox.js" type="text/javascript"></script>
 <script src="/js/sifr.js" type="text/javascript"></script>
 <script src="/js/sifr-config.js" type="text/javascript"></script>
 <script src="/js/datepicker.js" type="text/javascript"></script>
-<script src="/js/forms.js" type="text/javascript"></script>
-<script src="/js/stripe.js" type="text/javascript"></script>
-
 <script src="/js/ufo.js" type="text/javascript"></script>
-<script src="/js/timeline.js" type="text/javascript"></script>
+<script src="/js/framework.js" type="text/javascript"></script>
+
 <link href="/stylesheets/thickbox.css" rel="stylesheet" type="text/css" media="screen,projection">
+<link href="/stylesheets/lightbox.css" rel="stylesheet" type="text/css" media="screen,projection">
 <link href="/stylesheets/datepicker.css" type="text/css" rel="stylesheet" media="screen,projection">
 </head>
 
@@ -81,13 +84,15 @@
 	
 	
 	
-
-	
-	
-	
 	
 
+	
+	
+	
+	
 
+
+	
 	
 	
 	
@@ -173,7 +178,11 @@
 
 					
 					<h3 class="headline">Get the Latest</h3>
-					<p><a href="http://feeds.feedburner.com/NationalParkFoundation" class="rss">RSS Feed</a></p>
+					<ul class="share">
+						<li><a href="http://feeds.feedburner.com/NationalParkFoundation" class="rss">RSS Feed</a></li>
+						<li><a href="http://twitter.com/GoParks" class="twitter">Twitter Updates</a></li>
+						<li><a href="http://www.facebook.com/pages/National-Park-Foundation/10524821940" class="facebook">Facebook Profile</a></li>
+					</ul>
 				
 			</div>
 			<div id="secondaryContent">
@@ -227,19 +236,28 @@
 			<div id="tertiaryContent">
 				
 
-	<div class="callToAction">
-		<h3>Support your parks!</h3>
-		<p class="last"><a href="/get-involved/donate/">Learn how donations are used »</a></p>
-		<a href="https://dnbweb1.blackbaud.com/OPXDONATE/donate.asp?cguid=78527532%2D3D98%2D4178%2DB7EB%2D403F2B1C6057&amp;dpid=11558" class="button">Make a Donation »<span></span></a>
-	</div>
+	
+		<div class="callToAction">
+			<h3>Support your parks!</h3>
+			<p class="last"><a href="/get-involved/donate/">Learn how donations are used »</a></p>
+			<a href="https://dnbweb1.blackbaud.com/OPXDONATE/donate.asp?cguid=78527532%2D3D98%2D4178%2DB7EB%2D403F2B1C6057&amp;dpid=11558" class="button">Make a Donation »<span></span></a>
+		</div>
+	
 
 
 
 
 <div class="callToAction" id="newsletter">
-	<h3>Stay connected with eGoParks<sup>®</sup>!</h3>
-	<a href="/?fa=subscribe" class="button">Sign Up Now »<span></span></a><a href="/files/eGoParks.htm" class="action">View a sample e-newsletter »</a>
+	<h3>Stay connected with GoParks<sup>®</sup>!</h3>
+	<a href="/?fa=subscribe" class="button">Sign Up Now »<span></span></a><a href="/files/GoParks.htm" class="action">View a sample e-newsletter »</a>
 </div>
+
+
+ 
+
+
+
+
 
 
 
@@ -266,6 +284,15 @@
 
 
 
+
+	
+	
+
+	
+	
+
+	
+	
 
 	
 	
@@ -323,11 +350,6 @@
 
 
 
-	
-
-
-
-	
 
 
 
@@ -337,9 +359,21 @@
 
 
 	
+
+
+
+
 	
 
 
+
+
+
+
+
+
+	
+	
 
 
 
@@ -364,9 +398,9 @@ transportation interpreters in 16 National Parks during Summer 2007
 	<script type="text/javascript">
 	$(document).ready(function(){
 		var story;
-		var numStories = 5;
+		var numStories = 8;
 		if(story == null) {
-			story = '4';
+			story = '7';
 		}
 		$('#storiesProfiles ul.actions a').click(function() {
 			var action = $(this).parent().attr('class');
@@ -386,7 +420,7 @@ transportation interpreters in 16 National Parks during Summer 2007
 						story--;
 					}
 				} else {
-					story = '4';
+					story = '7';
 				}
 				$.get("/cmsFiles/dis_getStories.cfm", {a: action, story: story, storyBodyId: ''}, function(data) {
 					$('#loading').remove();	
@@ -438,14 +472,14 @@ transportation interpreters in 16 National Parks during Summer 2007
 	</div>
 </div>
 	<script type="text/javascript">
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-		var pageTracker = _gat._getTracker("UA-2146018-2");
-		pageTracker._initData();
-		pageTracker._trackPageview();
-	</script>
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-2146018-2");
+	pageTracker._initData();
+	pageTracker._trackPageview();
+</script>
 
 
 
