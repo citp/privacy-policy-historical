@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greyhound.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615124549id_/http%3A//www.greyhound.com/home/en/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greyhound.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228024641id_/http%3A//www.greyhound.com/HOME/en/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# GREYHOUND PRIVACY POLICY
 
 As a valued consumer, you are entitled to your personal privacy. With that in mind, Greyhound Lines, Inc. has adopted a statement that explains and confirms our commitment to provide you with a variety of travel services while maintaining your personal privacy.
 
@@ -9,7 +9,8 @@ Please note that this statement is subject to change at any time without notice.
 Sharing of Personal Information  
 Greyhound will never sell your personal or financial information to any third party. Your personal or financial information, however, may be shared with third parties, who are authorized by Greyhound, for the following purposes: 
 
-  * Credit card verification and fraud detection purposes as part of your ticket purchase;
+  * Credit card verification, processing and fraud detection purposes as part of your ticket purchase;  
+
   * Legal disclosure to a governmental agency, law enforcement authority or court as required by law in the good faith belief that disclosure is necessary or advisable.
 
 
@@ -27,16 +28,16 @@ By participating in our marketing programs, you agree to honor and abide by the 
 Greyhound takes no responsibility for the specific privacy rules or terms and conditions of the contest sponsors or other third parties and we encourage you to examine the privacy policies contained on these sites.
 
   
-Greyhound’s website is not directed at children under the age of thirteen, and accordingly, Greyhound does not intentionally collect any personal information from anyone under age thirteen.
+Greyhound's website is not directed at children under the age of thirteen, and accordingly, Greyhound does not intentionally collect any personal information from anyone under age thirteen.
 
   * IP Addresses  
 An Internet protocol ("IP") address is a numeric code, for example, "152.163.207.197." This code is used to communicate between your Internet service provider and the World Wide Web. The IP address does not identify you individually. Greyhound logs inbound IP addresses to administer our Web site and to compile aggregate information on site traffic for internal use.
   * Cookies  
-Cookies (and similar files such as single pixel GIF's, web beacons or tags) are small computer files written to your computer when you visit Web sites. You have the option of setting your browser to refuse Cookies. To utilize all promotional offers and discounts on Greyhound.com you need to allow temporary "session cookies" that will go away when your browser is closed. No personal or credit card information is collected by any Greyhound related Cookies.
+Cookies (and similar files such as single pixel GIF’s, web beacons or tags) are small computer files written to your computer when you visit Web sites. You have the option of setting your browser to refuse Cookies. To utilize all promotional offers and discounts on Greyhound.com you need to allow temporary "session cookies" that will go away when your browser is closed. No personal or credit card information is collected by any Greyhound related Cookies.
 
 Greyhound Cookies collect anonymous, non-personal information to make your use of the web site easier and allow Greyhound to track and improve the effectiveness of our on-line advertising. For example, when you check the appropriate box a Greyhound Cookie will remember your origination and destination locations.
 
-Greyhound also works with on-line advertising agencies to sell Greyhound’s services. These agencies use Cookies to track which Greyhound ads you have seen and the amounts you spend on Greyhound.com so that we may effectively market to consumers.
+Greyhound also works with on-line advertising agencies to sell Greyhound's services. These agencies use Cookies to track which Greyhound ads you have seen and the amounts you spend on Greyhound.com so that we may effectively market to consumers.
 
 
 
@@ -52,10 +53,10 @@ Greyhound takes reasonable procedures to protect your personal and credit card i
 Look for the gold key (Internet Explorer) or lock (Netscape) as well as the "s" after "http" in the address line of your browser. These signs mean the information sent from your computer to Greyhound.com is encrypted using Secure Socket Layer (SSL) technology.
 
   
-While we strive to partner with reputable firms, Greyhound takes no responsibility for any content, information collected, terms and conditions or privacy rules maintained on any linked site and we strongly encourage you to examine the privacy policies contained on these sites. Please inform us at [ webmaster@greyhound.com](mailto:webmaster@greyhound.com) about any concerns you may have regarding any of our linked sites.
+While we strive to partner with reputable firms, Greyhound takes no responsibility for any content, information collected, terms and conditions or privacy rules maintained on any linked site and we strongly encourage you to examine the privacy policies contained on these sites. Please inform us at [webmaster@greyhound.com](mailto:webmaster@greyhound.com) about any concerns you may have regarding any of our linked sites.
 
   
-Your use of Greyhound's Web site, services and participation in our marketing programs is your express consent to Greyhound to use your personal information as described above. We reserve the right to make changes to this privacy policy from time to time, and for this reason, we encourage you to review the policy posted at www.Greyhound.com periodically.
+Your use of Greyhound's Web site, services and participation in our marketing programs is your express consent to Greyhound to use your personal information as described above. We reserve the right to make changes to this privacy policy from time to time, and for this reason, we encourage you to review the policy posted at [www.Greyhound.com](https://www.greyhound.com/) periodically.
 
   
 If you have any questions about the use of your personal information or would like to correct or amend any personal information we maintain about you, please feel free to contact us at [webmaster@greyhound.com](mailto:webmaster@greyhound.com), or send a letter to:
@@ -65,4 +66,4 @@ IT Webmaster/MS850
 P.O. Box 660362  
 Dallas, TX 75266-0362
 
-March 2007
+June 2008
