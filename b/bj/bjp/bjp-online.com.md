@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bjp-online.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612050524id_/http%3A//www.incisivemedia.com/public/showPage.html%3Fpage%3D11526) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bjp-online.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228080338id_/http%3A//www.incisivemedia.com/public/showPage.html%3Fpage%3D11526) for the most accurate reproduction.*
 
 # Incisive Media - Privacy Policy
 
