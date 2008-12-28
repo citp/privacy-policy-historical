@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the articleshome.org privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610010334id_/http%3A//articleshome.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleshome.org privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228122342id_/http%3A//articleshome.org/privacy.php) for the most accurate reproduction.*
 
-# Hacked by mpu_gandring
+# Articles Home
+
+[Baby Name Meanings](http://www.babynames-yahoo.com/) [Cats](http://www.uniquecats.net/) [Senf Free SMS](http://geosms.blogspot.com/) [Keywords](http://searchingkeywords.blogspot.com/) [ Dog Breed ](http://www.bestdogbreed.org/)
 
 ArticlesHome.org Privacy Policy
 
@@ -62,7 +64,4 @@ This statement and the policies outlined herein are not intended to and do not c
 
 **  
   
-[](http://www.jazib.com/)  
-[](http://drknee.blogspot.com/)  
-[](http://diabetescorner.blogspot.com/)  
 **
