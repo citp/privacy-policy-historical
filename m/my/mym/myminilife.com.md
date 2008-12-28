@@ -1,36 +1,69 @@
-> *The following text is extracted and transformed from the myminilife.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626023332id_/http%3A//myminilife.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myminilife.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228034737id_/http%3A//www.myminilife.com/privacy) for the most accurate reproduction.*
 
-# MyMinilife | Privacy Policy
+# Privacy Policy - MyMiniLife
 
-## MyMiniLife Privacy Policy
+MyMiniLife, Inc (the "Company") is committed to ensuring the privacy of those who use the MyMiniLife website ("Users"), located at http://www.MyMiniLife.com (the "MyMiniLife Site"). This Privacy Policy ("Policy") describes what information is collected from Users and how that information is used and disclosed. By using the MyMiniLife Site, you consent to the terms of this Policy. 
 
-This privacy policy primarily covers how MyMiniLife uses personal information you submitted to us or that we receive from you. Personal information includes, but not limited to, your name and email address. This policy only covers MyMiniLife and does not represent any other companies/websites and other people such as MyMiniLife users.
+## Authorized Users
 
-## How do we use your personal information?
+The MyMiniLife Site is not intended for children under the age of 13. If you are under 13 years old you may not register with or otherwise provide personal information to our Site.
 
-MyMiniLife primarily uses your personal information to customize your experience so that we can better serve you, matching your interests and needs with our products and services. We do not sell, rent or share individual personal information with other people or companies except to provide services or products to you in MyMiniLife, or when we have your permission to do so. We may, however, share aggregate demographic statistics about members such as interests or occupations, but advertisers and third parties can never access your individual personal information. There are, however, exceptions about providing your personal information. These exceptions include:
+## Information We Collect
 
-  * when we respond to court orders or any orders from law enforcement or judicial governmental authorities, but only upon the receipt of appropriate documentation(s);
-  * when we use them to defend against legal claims or exercise our legal rights;
-  * when we have to investigate or take action against illegal or suspicious activities;
-  * when we believe there is a violation of MyMiniLife"s terms of use;
-  * when there is a merger or acquisition activity between MyMiniLife and another company. In this case, we will notify you before your personal information is being transferred to that company. You may, however, be subjected to a different privacy policy;
-  * when required by law.
+  1. **User Provided Information.** You may provide to Company what is generally called "personally identifiable" information if you register. In addition, Company may give you the option to provide us with certain demographic information about yourself.
+  2. **Aggregate Data.** Aggregate data is data we collect about a group or category of features, services or individuals, from which individual identities have been removed. For example, information about how you use a feature may be collected and combined with information about how others use the same feature, without any personal information included in the resulting data. Company uses aggregate data to help identify trends and understand member needs so we can provide better features and services. Company may also share automatically collected and other aggregate non-personally-identifiable information with interested third parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the MyMiniLife Site.
+  3. **General User Data.** General User Data, such as your computer's Internet Protocol (IP) address, operating system and browser type, and the date and time of your visit, may be automatically collected through the use of "cookies" (small files that are stored on your computer by a website to give you a unique identification). Cookies also keep track of services you have used, record registration information regarding your login name and password, ensure you do not repeatedly see advertisements, record your preferences and keep you logged into the MyMiniLife Site. We treat general user data as personal information if we combine it with or link it to any of the personally identifying information mentioned above and, in those cases, will only use it as aggregate data.
+  4. **Third Party Collected Data.** We may use, and allow third parties to use, web beacons on the MyMiniLife Site to monitor the effectiveness of advertising or for other legitimate purposes. Web beacons are small, graphic images on web pages, web-based documents, or in email messages that allow us or third parties to monitor who is visiting the MyMiniLife Site or if the email has been read. Web beacons collect the IP address of the computer that the web beacon is sent to, the URL of the page the web beacon comes from and the time it was viewed. Web beacons may be linked to your personal information. We may also use third-party ad servers or network advertisers, to deliver ads to you. These third-party ad servers may use cookies, web beacons or other technology to collect non-personally identifiable information about your visits to our Site in order to present advertisements that may be of interest to you. 
 
 
 
-## Cookies
+## Disclosure of Information
 
-Every time you visit MyMiniLife, your web browser may be assigned "cookies" that includes but not limited to, information about your IP address, specific type of browser and the pages you visited in MyMiniLife. Cookies alone cannot be used to find out the identity of any individual user. It can only identify your browser but not the individual user whenever you use MyMiniLife. Cookies are primarily used to provide convenience and customized contents to you, such as automatically signing you in every time you visit MyMiniLife and providing promotions that might interests you. Our uses of cookies include, but not limited to, diagnosing and fixing problems that users encountered or may encounter in the future and limiting access to those users who violated the Terms of Use of MyMiniLife.
+We do not sell, rent or share personal information with third parties without your prior consent except in the limited circumstances described in this Policy. We share personal information with third-party vendors who assist us in performing internal functions necessary to operate our business. These functions may include: analyzing data, providing marketing assistance and processing payment transactions. In all cases we limit the information shared with our third-party vendors to that which is necessary to carry out those functions. We require that these parties agree to process such information in compliance with this Privacy Policy, we use reasonable efforts to limit their use of such information, and we require these parties to use any other appropriate confidentiality and security measures. We are not responsible for any information you provide to third party vendors directly, and we encourage you to become familiar with their practices before disclosing information directly to them.
 
-## How do we protect your personal information
+We share automatically collected and other aggregate non-personally-identifiable information with interested third parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the MyMiniLife Site.
 
-We will try our best to protect your personal information but no internet traffic can be guaranteed to be 100% safe and secure. Therefore, we do not ensure or guarantee the security of any information sent or transmitted to us, and by doing so, you do so at your own risk.
+We do not share personal information with other third-party organizations for their marketing, advertising or promotional use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in.
 
-## Links
+Except as stated in this Policy, we do not share personal information about Users with third parties unless we reasonably believe that doing so is legally required or is in Company's interest to protect its property or other legal rights or the rights or property of others.
 
-MyMiniLife may contain links to other websites. We are of course not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by MyMiniLife.
+In addition, information about our Users, including personally identifiable information, may be disclosed as part of any merger, acquisition, debt financing or sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personally identifiable information could be transferred to third parties as one of our business assets.
 
-## Terms of Use, Notices and Revisions
+## External Websites
 
-If you choose to visit MyMiniLife, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of, and application of law of the state of California. We reserve the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy's effective date. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
+Our Site may contain links to external websites. These are provided for your convenience only, and we do not have control over the content or privacy and security practices and policies of third party sites. Any personal information you provide on linked pages is provided directly to that third party and is subject to that third party's privacy policy. Please learn about the privacy and security practices and policies of external websites before providing them with personal information.
+
+## User Profile and Password
+
+If you register, you will have access to your personal information and you may update, correct, or delete your user information and email subscription preferences at any time by going to the log-in section of the MyMiniLife Site.
+
+Your registration information is accessible online only through the use of a password. To protect the confidentiality of your personal information, you must keep your password confidential. You are responsible for all uses of the MyMiniLife Site by any person using your password. Please advise us immediately if you believe your password has been misused or otherwise misappropriated at [E-mail address].
+
+## Security
+
+We use reasonable security measures in an effort to prevent loss, misuse and alteration of information under our control. However, we cannot guarantee protection of all information in all cases, for example we cannot guarantee protection against interception, misappropriation, misuse, or alteration, or that your information will not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Additionally, we have absolutely no control over the security of other sites you might visit, interact with or do business with.
+
+If we learn of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. By using the MyMiniLife Site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the MyMiniLife Site. Company may post a notice on the MyMiniLife Site if a security breach occurs. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us.
+
+## Special Note to International Users
+
+The MyMiniLife Site is hosted in the United States. If you are a User accessing the MyMiniLife Site from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please note that you are transferring your personal data to the United States which does not have the same data protection laws as the EU and other regions, and by providing your personal data you consent to:
+
+  * The use of your personal data for the uses identified above in accordance with the Privacy Policy
+  * The transfer of your personal data to the United States as indicated above
+
+
+
+## Policy Changes
+
+We will modify this Policy if our privacy practices materially change. For changes to this Policy that may be materially less restrictive on our use or disclosure of personal information that you have provided to us, we will attempt to obtain your consent before applying the Policy to your personally identifiable information. Otherwise, we will notify you of such changes by posting the new policy on our Site and indicating the date it was last updated at the bottom of the Policy. We encourage you to review the Policy each time you visit our Site to see if it has been updated, in order to make sure you understand how personal information you provide will be used. Your continued use of the MyMiniLife Site constitutes your agreement to this Policy and any updates.
+
+## Additional Information
+
+If you have any questions about this Policy, or the practices of or your dealings with the MyMiniLife Site, please email us at [[privacy@myminilife.com](mailto:privacy@myminilife.com)] or write us at:
+
+MyMiniLife, Inc.  
+2042 Euclid ave  
+Palo Alto, CA 94303
+
+Last Updated: March 6, 2008
