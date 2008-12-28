@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serprank.com privacy policy that was archived on 2008-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080305204426id_/http%3A//www.serprank.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serprank.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228020544id_/http%3A//www.serprank.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Serp Rank - Privacy Policy
 
