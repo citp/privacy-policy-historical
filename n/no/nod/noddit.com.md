@@ -1,13 +1,33 @@
-> *The following text is extracted and transformed from the noddit.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522185658id_/http%3A//www.noddit.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noddit.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229055823id_/http%3A//www.noddit.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Noddit
 
-We know the importance of privacy of our users at Noddit and we respect it. We are committed to protect our users. We created this privacy policy to help you understand it.
+We at Noddit.com respect the privacy concerns of the users of this site and have created this privacy policy to explain a)what information we gather from you when you visit our site, b) how we may use such information, c) your choices concerning how we may use such information and d) the security measures we take to protect such information. 
 
-Users are required to register to submit stories. We may collect personal information such as email address while registering at Noddit. The purpose of collecting this information is to diagnose the problems with our website and serve our users in a better way. We never sell, rent, share your personal information with anybody.
+**WHAT INFORMATION WE COLLECT**  
+Some information is collected on this site automatically through our technology, other information is collected only when you choose to give it to us. 
 
-We use cookies to store information about users to offer personalized and optimized services.
+**INFORMATION YOU PROVIDE TO US**  
+*Submitting Stories   
+Users need to register to submit stories to the site. Email address is required for registration. We will never sell your email address or any other personal information.   
+* Communications with Us.   
+We have features where you can submit information to us (for example contacting us with a question or problem using contactus form). We will retain your emails and other information you submit to us for our internal purposes, and to help us to serve you better. 
 
-Noddit reserves the right to modify this privacy policy without notice. We will update this privacy policy If our privacy policy changes.
+    
+**AUTOMATIC DATA COLLECTION**   
+When you visit this site, certain non-personally identifying information is recorded automatically by the standard operation of our Internet servers. Information such as the type of browser being used, its operating system, IP address (IP address is a number that is used by computers on the network to identify your computer so that data such as the web pages you request can be sent to you. ) is gathered in order to facilitate our online operations and to assure an efficient online experience for you. We may also use or share this information for security purposes, to generate group statistics about our user community, or as required by law. 
 
-If you have any questions, feel free to contact us.
+What About Cookies?  
+A "cookie" is a small text file that an Internet site can place on your computer's hard drive for record-keeping purposes. Cookies can recognize your browser. As this site contains advertisements like Google Adsense, they may use cookies also. 
+
+**WITH WHOM WE SHARE YOUR INFORMATION**  
+Noddit will not sell or rent your personally identifiable information to third parties. Noddit may disclose personally identifiable information about you to third parties when: a). We have your consent to share the information b). We have to cooperate with the investigations of purported unlawful activities c). we respond to subpoenas, court orders in compliance with the legal process. d). when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property. 
+
+**LINKS**   
+We may display links to other sites within Noddit. We are not responsible for those other sites, their privacy policies or how they treat information about their members. We advise you to check their privacy policies to find out how they are treating your personal information. 
+
+**CHANGES IN THE PRIVACY POLICY**  
+We reserve the right to modify, alter or otherwise update this Privacy Policy at any time, so we encourage you to review this Privacy Policy from time to time. When we make changes which we consider material in our privacy practices, we will notify you in this space. We may also attempt to notify you of any such material changes to our privacy practices via email or by placing a notice on our home page. 
+
+**QUESTIONS**  
+If you have any questions related to this Privacy Policy, please contact us using the Contact Us page 
