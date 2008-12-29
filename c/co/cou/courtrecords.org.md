@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the courtrecords.org privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623024918id_/http%3A//www.courtrecords.org/index.php%3Frecords_state%3D%26xpath%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courtrecords.org privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229054859id_/http%3A//www.courtrecords.org/index.php%3Fxpath%3Dprivacy) for the most accurate reproduction.*
 
 # CourtRecords.org - Court Records, Criminal Records, Arrest Records, and Police Records
 
