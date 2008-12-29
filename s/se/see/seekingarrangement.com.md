@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekingarrangement.com privacy policy that was archived on 2008-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080420143532id_/http%3A//www.seekingarrangement.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekingarrangement.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229031917id_/http%3A//www.seekingarrangement.com/privacy.php) for the most accurate reproduction.*
 
 # SeekingArrangement - Privacy Policy
 
