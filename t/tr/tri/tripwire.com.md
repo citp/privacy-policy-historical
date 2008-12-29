@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the tripwire.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509140211id_/http%3A//www.tripwire.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripwire.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229052901id_/http%3A//www.tripwire.com/privacy-policy) for the most accurate reproduction.*
 
-# Tripwire - Privacy Policy
-
-## Privacy Policy Statement
+# Privacy Policy - Tripwire
 
 This is the web site of Tripwire, Inc.  
 Our postal address is
 
-**326 SW Broadway, 3rd Floor  
-Portland, OR, 97205**  
+**One Main Place  
+101 SW Main St., Ste. 1500  
+Portland, OR 97204 USA**  
 
 
-We can be reached via e-mail at [sales@tripwire.com](mailto:sales@tripwire.com)  
+We can be reached via e-mail at [webmaster@tripwire.com](mailto:webmaster@tripwire.com)   
 or you can reach us by telephone at 503.276.7500
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
