@@ -1,37 +1,48 @@
-<!--The following is the downloaded HTML source of the traffic.com privacy policy that was archived on 2008-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080607234852id_/http%3A//www.traffic.com/privacy.html%3Fct%3Dfooter_privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the traffic.com privacy policy that was archived on 2008-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081229161318id_/http%3A//www.traffic.com/privacy.html%3Fct%3Dfooter_privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
 <!-- title should be a variable in sitebuilder -->
 <title>Terms and Conditions :: Traffic.com</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
+<meta name="verify-v1" content="XmKW/hUFw78tyi64xgH7PCrJZ1DJJMiqG6KSlf463dI=">
 <!-- meta tags - metro-specific -->
 <meta name="keywords" content="Real time traffic alerts and traffic reports. View online interactive traffic maps for traffic jam, traffic school and local road conditions.">
 <meta name="description" content="traffic reports,traffic alerts,traffic report,real time traffic conditions,live traffic report,houston real time traffic,california road conditions,local traffic report,los angeles real time traffic report,san diego traffic report,dallas traffic report,san diego traffic report,real time traffic report,indiana road conditions">
 
-<link href="../css/miscStatic.css?v=4.1.37" rel="stylesheet" media="all">
+<link href="../css/miscStatic.css?v=4.2.8" rel="stylesheet" media="screen">
 
-<link href="../css/shared/globalPRINT.css?v=4.1.37" rel="stylesheet" media="print">
+<link href="../css/shared/globalPRINT.css?v=4.2.8" rel="stylesheet" media="print">
 
     <!-- import additional stylesheet for hotspots, allroads, keyroute details, and weather pages . -->
-    <style type="text/css" media="all">
+    <style type="text/css" media="screen">
     <!--
-                              @import url(../css/shared/global.css?v=4.1.37);
+                              @import url(../css/shared/global.css?v=4.2.8);
             -->
     </style>
 
 <link href="/css/lightwindow.css" rel="stylesheet">   
 <script type="text/javascript" language="Javascript">oas_site = 'traffic.com';</script>
 
-<script src="../js/traffic.js?v=4.1.37" type="text/javascript" language="Javascript"></script>
-<script src="../ajax-api/1.0.33/tajax.js" type="text/javascript" language="javascript"></script>
+<script>
+	var sponsorSelectConfig = {};
+	sponsorSelectConfig.active = true;
+	sponsorSelectConfig.impressions = 5;
+</script>
+<script src="http://download.traffic.com/sponsorSelectConf.js"></script>
+
+<script type="text/javascript" language="javascript" src="http://maptp.traffic.com/ajax?appkey=CJXdaa90794d2eec99cbb7788648a996X27&amp;v=2.2.0.3107"></script>
+
+<script src="../js/traffic.js?v=4.2.8" type="text/javascript" language="Javascript"></script>
+<script src="../ajax-api/1.1.11/tajax.js" type="text/javascript" language="javascript"></script>
 <script type="text/javascript" language="JavaScript">
 	// load the light window
 	Event.observe(window, 'load', lightwindowInit, false);
-    // this is needed so we can call the close for the pop up window across doamins
-    //document.domain="traffic.com";
+    
+    //Close the lightwindow if it was openned from SponsorSelect
+    Nvt.Core.SponsorSelect.redirectAfterSponsorSelect();
+    
 </script>
 <script type="text/javascript" language="javascript">
   eval('_uacct = "UA-68167-1";');
@@ -50,17 +61,114 @@
     jQuery(document).ready(function(){
         zebraStripe();
     });
+
+var mapstate = getCookie("mapPref");	
+var showToggle = false;
+ // this cookie is only set if at some time the user enters the parameter on the query string
+ // Entering the toggle on the URL always overrides
+ var showToggleCookie = getCookie("showToggle");
+ var showToggleParam = getQueryParamValue("showToggle");
+ if(showToggleParam!=null && showToggleParam=="true"){
+ 	createCookie("showToggle","true",7);
+ 	showToggle=true;
+ }else if (showToggleCookie!=null && showToggleCookie=="true"){
+ 	showToggle=true;
+ }
+var toggleLogonUsers="false";
+var toggleAllUsers="false";
+var forceMap="BOTH"; 
+
+ // display the toggle for  logged on users if the Map allowed is both
+ // OR if all users is on and the Map Allowed is Both
+if( ((isLoggedIn () && 
+	toggleLogonUsers!=null && toggleLogonUsers=="true" )
+	||(toggleAllUsers!=null && toggleAllUsers=="true"))
+	&&
+	(forceMap==null || forceMap=="BOTH")
+	)
+	{
+		showToggle=true;
+	}
+	
+   if(showToggle){
+       // allow for both maps if the toggle is on
+       	forceMap="BOTH";  
+   	}else{
+        
+		if(forceMap==null)
+          	forceMap="BOTH";
+          		
+        if(forceMap=="MAPTP")
+          	mapstate = "NewMap";
+		if(forceMap=="DECARTA")
+          	mapstate = "OldMap";
+          	
+      	// if the map state is being forced, this will set the cookie to the forced Map State
+      	// if the map state is not set, then it uses the default
+      	// this cookie is used on the Refresh!
+      	if(mapstate!=null)	
+      		createCookie("mapPref",mapstate,7); 
+  }     
   
 </script>
 
 <script type="text/javascript" language="Javascript">
 //<!--
-OAS_sitepage = oas_site + '/other';
-OAS_listpos = 'x04,BottomRight,Right,Top1,Top';
+//Configuration
+OAS_url = 'http://sp.sponsorselect.com/RealMedia/ads/';
 
+if(Nvt.Core.SponsorSelect.hasCampId())
+{
+	OAS_sitepage = 'www.sptraffic.com/ContentPage';  //this value will come from AWS
+	OAS_targetparams = 'spcampid=' + Nvt.Core.SponsorSelect.getCampId();
+	OAS_listpos = 'ssn1,ssn2,ssn3';
+}
+else
+{
+	OAS_sitepage = oas_site + '/other';
+	OAS_targetparams = '';
+	OAS_listpos = 'x04,BottomRight,Right,Top1,Top';
+}
 
+OAS_query = 'RM_Exclude=Airlines,Alcohol,Automobiles,Banking,BizDev,Careers,ComputerHardware,ComputerSoftware,ConsumerGoods,Dental,Education,Entertainment,FinancialServices,Fitness,Government,Health,Healthcare,Insurance,Music,Pharmaceutical,RealEstate,Restaurants,Retail,Services,Technology,Telecommunications,Television,Tobacco,Travel,Utilities,WebSites';
+
+OAS_creativeparams = '';
+OAS_target = '_blank';
+//end of configuration
+
+OAS_version = 10;
+OAS_rn = '001234567890'; OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+if(Nvt.Core.SponsorSelect.hasCampId())
+{
+	function OAS_NORMAL(pos) {
+	  document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_targetparams + '&' + OAS_query + '" TARGET=' + OAS_target + '>');
+	  document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_targetparams + '&' + OAS_query + '" BORDER=0></A>');
+	}
+
+	//<!--
+	OAS_version = 11;
+	if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1))
+	  OAS_version = 10;
+	if (OAS_version >= 11)
+	  document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_targetparams + '&' + OAS_query + '"><\/SCRIPT>');//-->
+	//-->
+}
+</script>
+<script type="text/javascript" language="Javascript">
+//<!--
+function OAS_AD(pos) 
+{
+	if (OAS_version >= 11)
+	{
+		OAS_RICH(pos);
+	} 
+	else 
+	{
+		OAS_NORMAL(pos);
+	}
+}
 // atlas configuration //
-var a_atlas = Nvt.Core.Atlas;
 var a_env = "p";
 var a_OAS_sitepage= '/other';
 
@@ -75,28 +183,21 @@ if(a_posL > 8) {
 }
 
 // setup variables.
-var a_host;
-var a_serverType;
-var a_server;
 var a_site = "traffic.com";
-var a_partner;
-var a_rn;
-var a_pageid;
-var a_AAMBs = [];	
-var a_area;
-var a_homemetro;
-var a_allAds;
-var a_url;	
+var a_adRefreshInterval = 30000;
 
-a_atlas.initializeAtlas();
+var a_atlas = new Nvt.Core.Atlas(a_env, a_pos, a_site, a_OAS_sitepage, a_adRefreshInterval);
 // end atlas configuration //
 //-->
-</script>
 
-
-
-<script type="text/javascript" language="Javascript">
-var pos_array = a_pos;
+if(Nvt.Core.SponsorSelect.hasCampId())
+{
+	pos_array = OAS_listpos.split(',');
+}
+else
+{
+	pos_array = a_pos;
+}
 var pos_used_array = new Array(pos_array.length);
 
 function recordPos(pos)
@@ -134,19 +235,47 @@ function auditPos()
 
 function MYTRAFFIC_AD(pos)
 {
-	
-	if(recordPos(pos))
+	if(Nvt.Core.SponsorSelect.hasCampId())
 	{
-
-		var divId = "atlas" + pos;
-		document.writeln("<div id='" + divId + "'></div>");
+		if(recordPos(Nvt.Core.SponsorSelect.convertOASPosition(pos)))
+		{
+			OAS_AD(Nvt.Core.SponsorSelect.convertOASPosition(pos));
+		}		
 	}
 	else
 	{
-			}
+		if(recordPos(pos))
+		{
+			var divId = "atlas" + pos;
+			document.writeln("<div id='" + divId + "'>");
+			document.writeln(eval(a_atlas.a_AAMBs[pos]));
+			document.writeln("</div>");
+		}
+		else
+		{
+					}
+	}
 }
 </script>
 <!-- ..........OAS SETUP end.......... -->
+
+
+<script type="text/javascript" language="Javascript">
+<!--
+
+if(!Nvt.Core.SponsorSelect.hasCampId())
+{
+	// call ad server.
+	document.write("<scr" + "ipt src='" + a_atlas.getUrl(true) + "' type='text/javascript'> </scr" + "ipt>"); 
+}
+
+//-->
+</script>
+
+<script type="text/javascript">
+<!--
+//-->
+</script>
 </head>
 <!-- body id should be a variable in sitebuilder and should be unique for each page -->
 <body id="staticBody" onload="javascript:initializeMain();">
@@ -166,7 +295,9 @@ function MYTRAFFIC_AD(pos)
 </div>
 
 <div id="awoMetroImageHeaderArea">
-	<script type="text/javascript" language="Javascript">writeLeaderboardAd();</script>	
+	<div class="expandableAd">
+		<script type="text/javascript" language="Javascript">writeLeaderboardAd();</script>	
+	</div>
 	<script type="text/javascript" language="Javascript">writeAWO2();</script>
 	<script type="text/javascript" language="Javascript">writeTrafficHeader();</script>
 </div>
@@ -174,6 +305,29 @@ function MYTRAFFIC_AD(pos)
 
 <div id="PrintOnlyHeader">
 	<img src="../images/logo_for_print.gif" alt="Traffic.com" width="190" height="51">
+	<p>
+    	<span style="font-weight: bold;">Get Traffic on the go with one of our free services...</span><br>
+	    Call <span class="tc_pr_bold">1-866-MY-TRAFC</span> from any phone (yup, it's free!)
+	</p>
+	<p>
+	    <span style="font-weight: bold;">MOBILE WEB BROWSER</span><br>
+	    Go to <span style="font-weight: bold;">http://mobi.traffic.com</span> from any web-enabled wireless 
+	    device to get the same up-to-the-minute information that 
+	    you get from <span style="font-weight: bold;">www.traffic.com</span>.
+	</p>
+	
+	<p>
+	    <span style="font-weight: bold;">TEXT</span><br>
+	    Text your city code (NY, PHL, LA, etc) to 87232 to receive 
+	    free real-time traffic info for the major city hotspots.
+	</p>
+	<p>
+	    <span style="font-weight: bold;">MYTRAFFIC™</span><br>
+	    MyTraffic™ Personalized Services are free, customized services 
+	    offering HTML e-mail, voice, SMS, and PDA alerts that provide 
+	    drive conditions for customized drives set-up and saved by you. 
+	    Go to <span style="font-weight: bold;">www.traffic.com</span> and click the register button to sign up.
+	</p>
 </div>
 
 <!-- formats non-AWO content -->
@@ -262,7 +416,6 @@ function MYTRAFFIC_AD(pos)
     <!-- it's not a beta... -->
 
 <script type="text/javascript">
-
     function clearZip(zip)
     {
         document.getElementById(zip).value = "";
@@ -281,7 +434,14 @@ function MYTRAFFIC_AD(pos)
 </script>
 <h3>
     Check your drive time
-    <a href="http://my.traffic.com/Controller?appname=mytraffic&amp;workflowname=routing"></a>
+<script type="text/javascript">
+//	<a href="http://my.traffic.com/Controller?appname=mytraffic&workflowname=routing"></a>
+  	if(mapstate == null || mapstate == "OldMap"){
+		document.write('<a href="http://my.traffic.com/Controller?appname=mytraffic&workflowname=routing"></a>');
+  	} else {
+		document.write('<a href="http://my.traffic.com/Controller?appname=mytraffic&workflowname=maptprouting"></a>');
+  	}
+</script><a href="http://my.traffic.com/Controller?appname=mytraffic&amp;workflowname=routing"></a>
 </h3>
 
 <form id="routingForm" action="http://my.traffic.com/Controller?appname=mytraffic&amp;workflowname=routing" method="POST" onsubmit="saveRoutingAddresses();routeParams();">
@@ -327,7 +487,22 @@ function saveRoutingAddresses(){
 
     function routeParams()
     {
-        $('routingForm').action += "&pointA=" + escape($('pointAinput').value) + "&pointB=" + escape($('pointBinput').value);
+        //$('routingForm').action += "&pointA=" + escape($('pointAinput').value) + "&pointB=" + escape($('pointBinput').value);
+
+		var url = "http://my.traffic.com/Controller?appname=mytraffic&workflowname=";
+		var pointA = escape($('pointAinput').value);
+		var pointB = escape($('pointBinput').value);
+
+		if(mapstate == null || mapstate == "OldMap") {
+			url += "routing";
+		} else {
+			url += "maptprouting";
+		}
+
+		url += "&pointA=" + pointA + "&pointB=" + pointB;
+
+		$('routingForm').action = url;
+
         return true;
     }
 </script>
@@ -548,23 +723,8 @@ hideLogin();
 
 -->
 
-<script type="text/javascript" language="Javascript">
-<!--
+  
 
-// call ad server.
-document.write("<scr" + "ipt type='text/JavaScript' src='" + a_url + "?'></scr" + "ipt>");
-
-//-->
-</script><script type="text/JavaScript" src="undefined?"></script>
-
-<script type="text/javascript">
-<!--
-
-// render ads.
-a_atlas.renderAds(a_pos, a_AAMBs);
-
-//-->
-</script>
 
 <script type="text/javascript" language="Javascript">
 auditPos();
@@ -584,41 +744,6 @@ auditPos();
 
 <script>
 
-function getParameter ( parameterName ) 
-{
-	var queryString = window.top.location.search.substring(1);
-	// Add "=" to the parameter name (i.e. parameterName=value)
-	var parameterName = parameterName + "=";
-	if ( queryString.length > 0 ) 
-	{
-		// Find the beginning of the string
-		begin = queryString.indexOf ( parameterName );
-		// If the parameter name is not found, skip it, otherwise return the value
-		if ( begin != -1 ) 
-		{
-			// Add the length (integer) to the beginning
-			begin += parameterName.length;
-			// Multiple parameters are separated by the "&" sign
-			end = queryString.indexOf ( "&" , begin );
-			if ( end == -1 ) {
-				end = queryString.length
-			}
-		// Return the string
-		return unescape ( queryString.substring ( begin, end ) );
-		}
-	}
-	// Return "null" if no parameter has been found
-	return "null";
-}
-
-function checkShowReg()
-{
-        var showReg = getParameter("showReg");
-        if(showReg == "true")
-        {
-        	goToReg('http://my.traffic.com/Controller?appname=userregistration&workflowname=userregNew&amp;PARTNER=DEFAULT&amp;metroid=0&ct=hm_Register');
-        }
-}
-setTimeout("checkShowReg()",200);
+Nvt.Core.SponsorSelect.showSponsorSelect();
 
 </script></body></html>
