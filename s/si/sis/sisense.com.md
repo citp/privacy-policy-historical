@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sisense.com privacy policy that was archived on 2008-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080317205313id_/http%3A//www.sisense.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sisense.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229155423id_/http%3A//www.sisense.com/privacy.aspx) for the most accurate reproduction.*
 
-# SiSense - Privacy
+# Privacy Statement - SiSense
 
 **SiSense, LTD**. (“ **SiSense** ”) is committed to protecting the privacy of our customers and visitors. We understand that the information our customers and visitors provide on our website (the “Site”) is of the utmost importance and we know it is crucial that we protect their information. SiSense has created this privacy statement ("Statement") in order to demonstrate our commitment to our customer’s and visitor’s privacy on the Site and to communicate our information gathering and dissemination practices to our customers and visitors.
 
