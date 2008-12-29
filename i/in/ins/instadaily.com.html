@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the instadaily.com privacy policy that was archived on 2008-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080621112837id_/http%3A//www.instadaily.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the instadaily.com privacy policy that was archived on 2008-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081229164130id_/http%3A//www.instadaily.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
 	<title>Privacy Policy - Insta daily: All the interesting stuff from the internet.</title>
@@ -7,14 +7,15 @@
 	<meta name="title" content="Privacy Policy - Insta daily: All the interesting stuff from the internet.">
 	<meta name="subject" content="Technology">
 	<meta name="language" content="en">
-	<meta name="keywords" content="Botnets, China, communication, criminal, DDoS, Happiness, Hotel, Internet, Internet Explorer, intro, Microsoft, Politics &amp; Society, pornography, Rape, Slimtree.com, Sweden, Technology, Trojan, U.S., WIndows Media">
+	<meta name="keywords" content="China, Computer virus, criminals, DNS, excavation, Happiness, Hotel, Internet, intro, Linden Labs, Microsoft, MySpace, Nectar Entertainment Business, Passowrds, Politics &amp; Society, pornography, Sweden, Technology, Trojan, U.S.">
 	<meta name="description" content="All the interesting stuff from the internet.">
 	<link rel="alternate" href="http://www.instadaily.com/rss.xml" type="application/rss+xml" title="Insta daily's RSS Feed">
 	<link rel="alternate" href="http://www.instablogs.com/feed/blog=Insta+daily" type="application/rss+xml" title="Insta daily's RSS Feed (Instablogs Community)">
 	<link rel="icon" href="/favicon.ico" type="image/x-icon">
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 	
-	<style type="text/css">
+	
+<style type="text/css">
 	  @import url(/style.css);
 	</style>
 	
@@ -49,69 +50,142 @@
 			}
 		}
 
+		function open_reply_comment(comment_id, comment_type)
+	{
+		var div = document.getElementById('reply-comment-' + comment_type+comment_id);
+		if(div.style.display=='block')
+		{
+			div.style.display='none';
+		}
+		else
+		{
+			div.style.display='block';
+		}
+	}
+
+	function show_comments(id)
+	{
+		var div = document.getElementById(id);
+		
+		if(id=='global-local-comments')
+		{
+			div.style.display='block';
+			document.getElementById('normal-comments').style.display='none';
+			YAHOO.util.Dom.addClass('g', 'head-current'); 
+			YAHOO.util.Dom.removeClass('n', 'head-current');
+		}
+		
+		if(id=='normal-comments')
+		{
+			div.style.display='block';
+			document.getElementById('global-local-comments').style.display='none';
+			YAHOO.util.Dom.addClass('n', 'head-current'); 
+			YAHOO.util.Dom.removeClass('g', 'head-current');
+		}
+	}
+
+	function lightboxImageOn(image_id, Image_title)
+	{
+		var comment_image = 'comment_image';
+		var Image_title = "Image uploaded by - " + Image_title;
+		var div = document.getElementById('lb-edit');
+		var postdata ='image_id='+image_id + '&type=' + comment_image + '&title=' + Image_title;
+		div.innerHTML = '<div style="font:bold 1.2em/1.2em Georgia, serif;padding:80px 0 35px;"><center><img src="/css-img/loading.gif" /> &nbsp; &nbsp;Loading...</center></div>';
+
+		var handleSuccess = function(o){if(o.responseText !== undefined){div.innerHTML = o.responseText;}}
+		var handleFailure = function(o){if(o.responseText !== undefined){div.innerHTML= o.statusText;}}
+		var Callback ={success:handleSuccess,failure: handleFailure};
+
+		var request = YAHOO.util.Connect.asyncRequest("POST", '/show_media.php', Callback, postdata);
+
+		var black = document.getElementById('fade');
+		black.style.display = 'block';
+
+		div.style.display = 'block';
+		window.scrollTo(0,0);
+	}
+
+	function lightboxVideoOn(video_id, You_Tube_title)
+	{
+		var video='video';
+		var You_Tube_title = "Video uploaded by - " + You_Tube_title;
+		var div = document.getElementById('lb-edit');
+		var postdata ='video_id=' + video_id + '&type=' + video + '&title=' +  You_Tube_title;
+		div.innerHTML = '<div style="font:bold 1.2em/1.2em Georgia, serif;padding:80px 0 35px;"><center><img src="/css-img/loading.gif" /> &nbsp; &nbsp;Loading...</center></div>';
+
+		var handleSuccess = function(o){if(o.responseText !== undefined){div.innerHTML = o.responseText;}}
+		var handleFailure = function(o){if(o.responseText !== undefined){div.innerHTML=  o.statusText;}}
+		var Callback ={success:handleSuccess,failure: handleFailure};
+
+		var request = YAHOO.util.Connect.asyncRequest("POST", '/show_media.php', Callback, postdata);
+
+		var black = document.getElementById('fade');
+		black.style.display = 'block';
+
+		div.style.display = 'block';
+		window.scrollTo(0,0);
+	}
+
+	function lightboxoff1(id)
+	{
+		var light = document.getElementById(id);
+		light.style.display = 'none';
+	}
+
 	</script>
 
+<!-- PUT THIS TAG IN THE head SECTION -->
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-9415440757655812");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+  GA_googleAddSlot("ca-pub-9415440757655812", "instadaily_above_header_728x90");
+  GA_googleAddSlot("ca-pub-9415440757655812", "instadaily_blog_ads_nosize");
+  GA_googleAddSlot("ca-pub-9415440757655812", "instadaily_google_banner_468x60");
+  GA_googleAddSlot("ca-pub-9415440757655812", "instadaily_google_large_rect_336x280");
+  GA_googleAddSlot("ca-pub-9415440757655812", "instadaily_google_large_rect_336x280_1");
+  GA_googleAddSlot("ca-pub-9415440757655812", "instadaily_google_line_728x15");
+  GA_googleAddSlot("ca-pub-9415440757655812", "instadaily_google_skycraper_120x600");
+</script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script>
+<!-- END OF TAG FOR head SECTION -->
 	
 </head>
 
 <body>
+	<script type="text/javascript" src="/js/prototype.js"></script>
+	<script type="text/javascript" src="http://www.instablogs.com/js/yui.js"></script>
+<script type="text/javascript" src="http://www.instablogs.com/js/lightbox.js"></script>
+
+
+<div style="background: url(http://www.instablogs.com/css-img/top-bar-bg.gif) repeat-x;font:bold 10px/1em verdana,arial,serif;text-align:left;height:25px;padding-top:2px;color:#444"><div style="width:950px;margin:0 auto;text-align:left;"><span class="ad-w-us" style="padding-top:5px;font:bold 10px/1em verdana,arial,serif;float:right"><a href="http://www.instablogs.com/ad_solutions.php?b=7">Advertise with Us</a></span>An&nbsp; <a href="http://www.instablogs.com/"><img style="margin-bottom:-6px;" src="http://www.instablogs.com/css-img/bar-logo.gif"></a> Venture &nbsp;&nbsp;</div></div>
+
+
 	<div id="container">
 	<div style="height:1px;"> </div>
 		
-<script type="text/javascript"><!--
-var casaleD=new Date();var casaleR=(casaleD.getTime()%8673806982)+Math.random();
-var casaleU=escape(window.location.href);
-var casaleHost=' type="text/javascript" src="http://as.casalemedia.com/s?s=';
-document.write('<scr'+'ipt'+casaleHost+'85125&amp;u=');
-document.write(casaleU+'&amp;f=1&amp;id='+casaleR+'"><\/scr'+'ipt>');
-//--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=85125&amp;u=https%3A//web.archive.org/web/20080621112837id_/http%253A//www.instadaily.com/privacy-policy.php&amp;f=1&amp;id=1893654712.3873742"></script>
-
-
 						<div id="small-header">
 				<div class="small-logo"><img src="/css-img/header.jpg" border="0" alt=""></div><!-- EOF small-logo -->
 					<div class="small-ad-top">
-						
-<script type="text/javascript"><!--
-var casaleD=new Date();var casaleR=(casaleD.getTime()%8673806982)+Math.random();
-var casaleUU=escape(window.location.href); var casaleHost='.casalemedia.com/';
-var casaleWH='" width="728" height="90" ';
-var casaleFR='marginwidth="0" marginheight="0" frameborder="0" scrolling="no"';
-casaleFR +=' allowtransparency="true">';
-document.write('<ifr'+'ame src="http://as'+casaleHost+'s?s=85125&amp;u='+casaleUU);
-document.write('&amp;f=2&amp;id='+casaleR+casaleWH+casaleFR+'<a hr'+'ef="http://c');
-document.write(casaleHost+'c?s=85125&amp;f=2&amp;id='+casaleR+'" target="_blank">');
-document.write('<i'+'mg src="http://as'+casaleHost+'s?s=85125&amp;u='+casaleUU);
-document.write('&amp;f=2&amp;id='+casaleR+'&amp;if=0'+casaleWH+'border="0"><\/a>');
-document.write('<\/ifr'+'ame>');
-//--></script><iframe src="http://as.casalemedia.com/s?s=85125&amp;u=https%3A//web.archive.org/web/20080621112837id_/http%253A//www.instadaily.com/privacy-policy.php&amp;f=2&amp;id=1893654712.8291578" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true"><a href="http://c.casalemedia.com/c?s=85125&amp;f=2&amp;id=1893654712.8291578" target="_blank"><img src="http://as.casalemedia.com/s?s=85125&amp;u=https%3A//web.archive.org/web/20080621112837id_/http%253A//www.instadaily.com/privacy-policy.php&amp;f=2&amp;id=1893654712.8291578&amp;if=0" width="728" height="90" border="0"></a></iframe><noscript>
-<iframe src="http://as.casalemedia.com/s?s=85125&u=http%3A%2F%2Fbornrich.org&f=2&id=1"
-width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" 
-allowtransparency="true">
-<a href="http://c.casalemedia.com/c?s=85125&f=2&id=0" target="_blank"><img
-src="http://as.casalemedia.com/s?s=85125&u=http%3A%2F%2Fbornrich.org&f=2&id=0&if=0" 
-width="728" height="90" border="0" alt=""></a></iframe></noscript>
-<!-- Casale Media 2007 (C) -->
+						<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT instadaily_above_header_728x90    ===ads=== -->
+						<script type="text/javascript">
+						  GA_googleFillSlot("instadaily_above_header_728x90");
+						</script>
+						<!-- END OF TAG FOR SLOT instadaily_above_header_728x90     -->
 					</div><!-- EOF #ad-top --> 
 
 					<div style="padding:5px;text-align:center;padding-bottom:15px;">
-						
-<script type="text/javascript"><!--
-google_ad_client = "pub-9415440757655812";
-google_ad_width = 728;
-google_ad_height = 15;
-google_ad_format = "728x15_0ads_al";
-google_ad_type = "text";
-//2007-06-21:
-google_ad_channel = "0819397602+6824736761+7361404613+4012504269";
-google_color_border = "ffffff";
-google_color_bg = "ffffff";
-google_color_link = "07265B";
-google_color_text = "000";
-google_color_url = "666666";
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>					</div>
+						<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT instadaily_google_line_728x15     ===ads===-->
+						<script type="text/javascript">
+						  GA_googleFillSlot("instadaily_google_line_728x15");
+						</script>
+						<!-- END OF TAG FOR SLOT instadaily_google_line_728x15     -->
+					</div>
 
 				<div class="logo"> <a href="/" title="Home"><h1>Insta daily</h1></a> </div>
 
@@ -119,6 +193,7 @@ google_color_url = "666666";
 			<div class="clear"></div>
 
 			
+
 		<div class="top-nav">
 				<span class="home">
 					<a href="/">Home</a>
@@ -133,7 +208,7 @@ google_color_url = "666666";
 				</span>
 
 				<span>
-					<a href="/contact-us.php?q=advertise">Advertise</a> ::
+					<a href="http://www.instablogs.com/ad_solutions.php?b=7">Advertise</a> ::
 				</span>
 
 				<span>
@@ -216,59 +291,35 @@ google_color_url = "666666";
 			<div id="content-sidebar">
 	
 	<div style="padding-bottom:20px;text-align:center;">
-		
-<script type="text/javascript"><!--
-var casaleD=new Date();var casaleR=(casaleD.getTime()%8673806982)+Math.random();
-var casaleUU=escape(window.location.href); var casaleHost='.casalemedia.com/';
-var casaleWH='" width="300" height="250" ';
-var casaleFR='marginwidth="0" marginheight="0" frameborder="0" scrolling="no"';
-casaleFR += 'allowtransparency="true">';
-document.write('<ifr'+'ame src="http://as'+casaleHost+'s?s=85125&amp;u='+casaleUU);
-document.write('&amp;f=4&amp;id='+casaleR+casaleWH+casaleFR+'<a hr'+'ef="http://c');
-document.write(casaleHost+'c?s=85125&amp;f=4&amp;id='+casaleR+'" target="_blank">');
-document.write('<i'+'mg src="http://as'+casaleHost+'s?s=85125&amp;u='+casaleUU);
-document.write('&amp;f=4&amp;id='+casaleR+'&amp;if=0'+casaleWH+'border="0"><\/a>');
-document.write('<\/ifr'+'ame>');
-//--></script><iframe src="http://as.casalemedia.com/s?s=85125&amp;u=https%3A//web.archive.org/web/20080621112837id_/http%253A//www.instadaily.com/privacy-policy.php&amp;f=4&amp;id=1893654725.2268887" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true"><a href="http://c.casalemedia.com/c?s=85125&amp;f=4&amp;id=1893654725.2268887" target="_blank"><img src="http://as.casalemedia.com/s?s=85125&amp;u=https%3A//web.archive.org/web/20080621112837id_/http%253A//www.instadaily.com/privacy-policy.php&amp;f=4&amp;id=1893654725.2268887&amp;if=0" width="300" height="250" border="0"></a></iframe><noscript>
-<iframe src="http://as.casalemedia.com/s?s=85125&u=http%3A%2F%2Fbornrich.org&f=4&id=1"
-width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" 
-allowtransparency="true">
-<a href="http://c.casalemedia.com/c?s=85125&f=4&id=0" target="_blank"><img
-src="http://as.casalemedia.com/s?s=85125&u=http%3A%2F%2Fbornrich.org&f=4&id=0&if=0" 
-width="300" height="250" border="0" alt=""></a></iframe></noscript>
-<!-- Casale Media 2007 (C) -->
+		<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT instadaily_google_large_rect_336x280    ===ads===-->
+		<script type="text/javascript">
+		  GA_googleFillSlot("instadaily_google_large_rect_336x280");
+		</script>
+		<!-- END OF TAG FOR SLOT instadaily_google_large_rect_336x280     -->
 	</div>	
-	
-	
-	<div style="padding-bottom:20px;text-align:center;">
-		
-<script type="text/javascript"><!--
-google_ad_client = "pub-9415440757655812";
-google_ad_width = 336;
-google_ad_height = 280;
-google_ad_format = "336x280_as";
-google_ad_type = "text_image";
-//2007-06-21:
-google_ad_channel = "0819397602+6824736761+4046827813+0488691383";
-google_color_border = "ffffff";
-google_color_bg = "ffffff";
-google_color_link = "07265B";
-google_color_text = "000";
-google_color_url = "666666";
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>	</div>	
 	
 <div class="clear"></div>
 <div class="border"></div>
-		
+
+<div class="inner-sidebars">
+	<div class="inner-sidebar1">
+
+	<div style="padding-bottom:10px;text-align:center;">
+	<a href="http://www.instablogs.com/instablogs-club/"><img src="http://www.instablogs.com/css-img/insta_club_badge.gif"></a>
+</div>
+
+<div class="market-place">
+	<h2>Instablogs Club</h2>
+	<div class="club-data">
+	<span class="club-top-img"><a href="http://www.crickblog.com/entry/matthew-hayden-the-clock-s-ticking/"><img src="http://www.instablogsimages.com/images/2008/12/29/hayden_rKq6c_17022_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.crickblog.com/entry/matthew-hayden-the-clock-s-ticking/">Matthew Hayden: The Clock’s Ticking</a><span> (<a href="http://www.crickblog.com">Cricket Blog</a>)</span></div><span class="club-top-img"><a href="http://www.ecofriend.org/entry/breaking-stories-2008-the-very-best-of-scoops-ecofriend/"><img src="http://www.instablogsimages.com/images/2008/12/29/ecofriend-exclusive-2008_2dvpp_5638_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.ecofriend.org/entry/breaking-stories-2008-the-very-best-of-scoops-ecofriend/">Breaking Stories 2008 – The very best of Scoops @ EcoFriend</a><span> (<a href="http://www.ecofriend.org">Ecofriend</a>)</span></div><span class="club-top-img"><a href="http://www.automotto.org/entry/breaking-stories-2008-the-very-best-of-scoops-automotto/"><img src="http://www.instablogsimages.com/images/2008/12/29/top-20_ZLOhj_5965_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.automotto.org/entry/breaking-stories-2008-the-very-best-of-scoops-automotto/">Breaking Stories 2008 – The very best of Scoops @ AutoMotto</a><span> (<a href="http://www.automotto.org">Auto Motto</a>)</span></div><span class="club-top-img"><a href="http://www.bornrich.org/entry/diamond-studded-visa-card-redefines-luxury-for-shoppers/"><img src="http://www.instablogsimages.com/images/2008/12/29/diamond-studded-visa-card_sT56L_52_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.bornrich.org/entry/diamond-studded-visa-card-redefines-luxury-for-shoppers/">Diamond-studded VISA card redefines luxury for shoppers</a><span> (<a href="http://www.bornrich.org">Born Rich</a>)</span></div><span class="club-top-img"><a href="http://www.bornrich.org/entry/hidden-groves-fitness-armoire-for-fitness-freaks/"><img src="http://www.instablogsimages.com/images/2008/12/29/tm-2_Zj7nO_52_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.bornrich.org/entry/hidden-groves-fitness-armoire-for-fitness-freaks/">Hidden Grove's  Fitness Armoire for fitness freaks</a><span> (<a href="http://www.bornrich.org">Born Rich</a>)</span></div><span class="club-top-img"><a href="http://www.thedesignblog.org/entry/breaking-stories-2008-the-very-best-of-scoops-thedesignblog/"><img src="http://www.instablogsimages.com/images/2008/12/29/design-blog_JLtAJ_58_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.thedesignblog.org/entry/breaking-stories-2008-the-very-best-of-scoops-thedesignblog/">Breaking Stories 2008 – The very best of Scoops @ TheDesignBlog</a><span> (<a href="http://www.thedesignblog.org">The Design blog</a>)</span></div><span class="club-top-img"><a href="http://www.crickblog.com/entry/brett-lee-s-infidelity-woes-indifference-and-now-injury/"><img src="http://www.instablogsimages.com/images/2008/12/29/brett-lee-anguish_E7Zyo_17022_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.crickblog.com/entry/brett-lee-s-infidelity-woes-indifference-and-now-injury/">Brett Lee’s Infidelity Woes, Indifference, and Now Injury</a><span> (<a href="http://www.crickblog.com">Cricket Blog</a>)</span></div>	</div>
+	<div class="add-news"><a class="add-news-page" href="http://www.instablogs.com/instablogs-club/club_wp_plugin.php">Add This</a></div>
+</div>
 	<div id="tags">
 		<h2>Tags</h2>
 		<div class="tag-content">
-			<a href="http://www.instadaily.com/tags/botnets/" class="ibn_tag5">Botnets</a> <a href="http://www.instadaily.com/tags/china/" class="ibn_tag6">China</a> <a href="http://www.instadaily.com/tags/communication/" class="ibn_tag4">communication</a> <a href="http://www.instadaily.com/tags/criminal/" class="ibn_tag1">criminal</a> <a href="http://www.instadaily.com/tags/ddos/" class="ibn_tag2">DDoS</a> <a href="http://www.instadaily.com/tags/happiness/" class="ibn_tag7">Happiness</a> <a href="http://www.instadaily.com/tags/hotel/" class="ibn_tag9">Hotel</a> <a href="http://www.instadaily.com/tags/internet/" class="ibn_tag9">Internet</a> <a href="http://www.instadaily.com/tags/internet-explorer/" class="ibn_tag5">Internet Explorer</a> <a href="http://www.instadaily.com/tags/intro/" class="ibn_tag1">intro</a> <a href="http://www.instadaily.com/tags/microsoft/" class="ibn_tag3">Microsoft</a> <a href="http://www.instadaily.com/tags/politics-society/" class="ibn_tag10">Politics &amp; Society</a> <a href="http://www.instadaily.com/tags/pornography/" class="ibn_tag8">pornography</a> <a href="http://www.instadaily.com/tags/rape/" class="ibn_tag3">Rape</a> <a href="http://www.instadaily.com/tags/slimtreecom/" class="ibn_tag2">Slimtree.com</a> <a href="http://www.instadaily.com/tags/sweden/" class="ibn_tag7">Sweden</a> <a href="http://www.instadaily.com/tags/technology/" class="ibn_tag10">Technology</a> <a href="http://www.instadaily.com/tags/trojan/" class="ibn_tag6">Trojan</a> <a href="http://www.instadaily.com/tags/us/" class="ibn_tag8">U.S.</a> <a href="http://www.instadaily.com/tags/windows-media/" class="ibn_tag4">WIndows Media</a> 		</div>		
+			<a href="http://www.instadaily.com/tags/china/" class="ibn_tag9">China</a> <a href="http://www.instadaily.com/tags/computer-virus/" class="ibn_tag1">Computer virus</a> <a href="http://www.instadaily.com/tags/criminals/" class="ibn_tag5">criminals</a> <a href="http://www.instadaily.com/tags/dns/" class="ibn_tag5">DNS</a> <a href="http://www.instadaily.com/tags/excavation/" class="ibn_tag1">excavation</a> <a href="http://www.instadaily.com/tags/happiness/" class="ibn_tag8">Happiness</a> <a href="http://www.instadaily.com/tags/hotel/" class="ibn_tag8">Hotel</a> <a href="http://www.instadaily.com/tags/internet/" class="ibn_tag9">Internet</a> <a href="http://www.instadaily.com/tags/intro/" class="ibn_tag3">intro</a> <a href="http://www.instadaily.com/tags/linden-labs/" class="ibn_tag2">Linden Labs</a> <a href="http://www.instadaily.com/tags/microsoft/" class="ibn_tag3">Microsoft</a> <a href="http://www.instadaily.com/tags/myspace/" class="ibn_tag4">MySpace</a> <a href="http://www.instadaily.com/tags/nectar-entertainment-business/" class="ibn_tag2">Nectar Entertainment Business</a> <a href="http://www.instadaily.com/tags/passowrds/" class="ibn_tag4">Passowrds</a> <a href="http://www.instadaily.com/tags/politics-society/" class="ibn_tag10">Politics &amp; Society</a> <a href="http://www.instadaily.com/tags/pornography/" class="ibn_tag7">pornography</a> <a href="http://www.instadaily.com/tags/sweden/" class="ibn_tag6">Sweden</a> <a href="http://www.instadaily.com/tags/technology/" class="ibn_tag10">Technology</a> <a href="http://www.instadaily.com/tags/trojan/" class="ibn_tag6">Trojan</a> <a href="http://www.instadaily.com/tags/us/" class="ibn_tag7">U.S.</a> 		</div>		
 	</div><!-- EOF  tags-->
-	
+
 		
 
 	<div class="clear"></div>
@@ -278,44 +329,57 @@ google_color_url = "666666";
 	<div class="Comments">
 		<h2>Fresh Comments</h2>
 					<div class="image-content">
-				<div class="image"><img src="http://www.instablogs.com/user-img/s/shi/m_shifter09.jpg"></div>
+				<div class="image"><img src="http://www.instablogs.com/user-img/m_man.jpg"></div>
 				<div class="comment-content">
-					<div class="author"><a href="http://shifter09.instablogs.com/">Christian</a></div>
-					on <span><a href="http://www.instadaily.com/entry/bad-service-good-tip/#comment-501188">Bad service, good tip!</a> Too bad! that ain’t gonna be good for the company.
-__________________
- </span>
+					<div class="author">
+					<span style="font-weight:bold">keith</span>					</div>
+					on <span><a href="http://www.instadaily.com/entry/bad-service-good-tip/#comment-558779">Bad service, good tip!</a> That’s horrible.  Customers all too often don’t understand that because you... </span>
 				</div>
 			</div>
 			<div class="clear"></div>
 					<div class="image-content">
-				<div class="image"><img src="http://www.instablogs.com/user-img/s/shi/m_shifter09.jpg"></div>
+				<div class="image"><img src="http://www.instablogs.com/user-img/m_man.jpg"></div>
 				<div class="comment-content">
-					<div class="author"><a href="http://shifter09.instablogs.com/">Christian</a></div>
-					on <span><a href="http://www.instadaily.com/entry/bad-service-good-tip/#comment-501187">Bad service, good tip!</a> Too bad for the food store. If you’re promoting your food store within a time... </span>
+					<div class="author">
+											<a href="http://pinayspeak.com/pinaytest/">Busby SEO Test</a>
+											</div>
+					on <span><a href="http://www.instadaily.com/entry/bad-service-good-tip/#comment-558336">Bad service, good tip!</a> this nice post.. lolz </span>
 				</div>
 			</div>
 			<div class="clear"></div>
 					<div class="image-content">
-				<div class="image"><img src="http://www.instablogs.com/user-img/s/shi/m_shifter09.jpg"></div>
+				<div class="image"><img src="http://www.instablogs.com/user-img/m_woman.jpg"></div>
 				<div class="comment-content">
-					<div class="author"><a href="http://shifter09.instablogs.com/">Christian</a></div>
-					on <span><a href="http://www.instadaily.com/entry/what-is-happiness/#comment-501185">What is Happiness?</a> The best way to promote this is thru  </span>
+					<div class="author">
+											<a href="http://shahwar.instablogs.com/">Shahwar K</a>
+											</div>
+					on <span><a href="http://www.instadaily.com/entry/bad-service-good-tip/#comment-540296">Bad service, good tip!</a> he he he ...
+
+ha ha ha ...
+
+lolte! </span>
 				</div>
 			</div>
 			<div class="clear"></div>
 					<div class="image-content">
-				<div class="image"><img src="http://www.instablogs.com/user-img/p/poo/m_pooja.jpg"></div>
+				<div class="image"><img src="http://www.instablogs.com/user-img/d/dun/m_dunpresident.jpg"></div>
 				<div class="comment-content">
-					<div class="author"><a href="http://pooja.instablogs.com/">Pooja</a></div>
-					on <span><a href="http://www.instadaily.com/entry/bad-service-good-tip/#comment-479399">Bad service, good tip!</a> Nice idea even i’ll try this nxt time ;-) </span>
+					<div class="author">
+											<a href="http://dunpresident.instablogs.com/">Duncan Mikae</a>
+											</div>
+					on <span><a href="http://www.instadaily.com/entry/bad-service-good-tip/#comment-539108">Bad service, good tip!</a> Great post,message well sent  home,this  is  actually  what  we  ought to  do. </span>
 				</div>
 			</div>
 			<div class="clear"></div>
 					<div class="image-content">
-				<div class="image"><img src="http://www.instablogs.com/user-img/r/rek/m_rekha.jpg"></div>
+				<div class="image"><img src="http://www.instablogs.com/user-img/t/tum/m_tumbleweed.jpg"></div>
 				<div class="comment-content">
-					<div class="author"><a href="http://rekha.instablogs.com/">Rekha</a></div>
-					on <span><a href="http://www.instadaily.com/entry/bad-service-good-tip/#comment-478923">Bad service, good tip!</a> Cooool, Impressive way of showing your anger!! </span>
+					<div class="author">
+											<a href="http://tumbleweed.instablogs.com/">Abe L</a>
+											</div>
+					on <span><a href="http://www.instadaily.com/entry/swedish-bank-hit-by-biggest-ever-online-break-in/#comment-533969">Swedish bank hit by 'biggest...</a> Thanks for posting something that happened 18 months ago.
+
+Maybe read the article... </span>
 				</div>
 			</div>
 			<div class="clear"></div>
@@ -326,8 +390,6 @@ __________________
 
 	<div class="border"></div>
 
-<div class="inner-sidebars">
-	<div class="inner-sidebar1">
 
 	<div id="content-sidebar-inner">
 	
@@ -342,183 +404,133 @@ __________________
 	
 </div><!-- EOF #content-sidebar-inner -->	<div class="border"></div>
 
-
-			<div id="archives">
-			<h2>Archives</h2>
-			
-			<div class="year">2007</div>				
-				<div class="archive-data">
-					<a href="http://www.instadaily.com/archives/200709/">September 2007</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.instadaily.com/archives/200708/">August 2007</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.instadaily.com/archives/200707/">July 2007</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.instadaily.com/archives/200706/">June 2007</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.instadaily.com/archives/200705/">May 2007</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.instadaily.com/archives/200704/">April 2007</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.instadaily.com/archives/200703/">March 2007</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.instadaily.com/archives/200702/">February 2007</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.instadaily.com/archives/200701/">January 2007</a>
-				</div>
-			<div class="year">2006</div>				
-				<div class="archive-data">
-					<a href="http://www.instadaily.com/archives/200612/">December 2006</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.instadaily.com/archives/200611/">November 2006</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.instadaily.com/archives/200610/">October 2006</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.instadaily.com/archives/200609/">September 2006</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.instadaily.com/archives/200608/">August 2006</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.instadaily.com/archives/200607/">July 2006</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.instadaily.com/archives/200606/">June 2006</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.instadaily.com/archives/200605/">May 2006</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.instadaily.com/archives/200604/">April 2006</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.instadaily.com/archives/200603/">March 2006</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.instadaily.com/archives/200602/">February 2006</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.instadaily.com/archives/200601/">January 2006</a>
-				</div>
-			<div class="year">2005</div>				
-				<div class="archive-data">
-					<a href="http://www.instadaily.com/archives/200512/">December 2005</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.instadaily.com/archives/200511/">November 2005</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.instadaily.com/archives/200510/">October 2005</a>
-				</div>
-					</div><!-- EOF archives -->
-		
-		<div class="border"></div>
-
-		<div style="text-align:center;padding:10px 0;">
-		
-<script type="text/javascript"><!--
-google_ad_client = "pub-9415440757655812";
-google_ad_width = 120;
-google_ad_height = 600;
-google_ad_format = "120x600_as";
-google_ad_type = "text_image";
-//2007-06-21:
-google_ad_channel = "0819397602+6824736761+1755269983+3461276311";
-google_color_border = "ffffff";
-google_color_bg = "ffffff";
-google_color_link = "07265B";
-google_color_text = "000";
-google_color_url = "666666";
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>		</div>
-
-		<div class="border"></div>
-
-		<div class="insta-logo" style="text-align:center;padding-top:40px;">
-			<a href="http://www.instablogs.com/"><img src="/css-img/insta-logo.gif"></a>
-		</div>
-
 	</div><!-- EOF inner-sidebar1 -->
 
 		<div class="inner-sidebar2">
 			<div class="market-place">
 				<h2>Blog Ads</h2>		
 				<div class="blog-ads">
-					
-<link rel="stylesheet" type="text/css" href="http://cache.blogads.com/561854161/feed.css">
-<script language="javascript" src="http://cache.blogads.com/561854161/feed.js"></script>
+					<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT instadaily_blog_ads_nosize    ===ads===-->
+					<script type="text/javascript">
+					  GA_googleFillSlot("instadaily_blog_ads_nosize");
+					</script>
+					<!-- END OF TAG FOR SLOT instadaily_blog_ads_nosize     -->
 				</div>	
 			</div><!-- EOF market-place -->
 
 			<div class="border"></div>
 
+								<div id="archives">
+						<h2>Archives</h2>
+						
+						<div class="year">2007</div>							
+							<div class="archive-data">
+								<a href="http://www.instadaily.com/archives/200709/">September 2007</a>
+							</div>
+													
+							<div class="archive-data">
+								<a href="http://www.instadaily.com/archives/200708/">August 2007</a>
+							</div>
+													
+							<div class="archive-data">
+								<a href="http://www.instadaily.com/archives/200707/">July 2007</a>
+							</div>
+													
+							<div class="archive-data">
+								<a href="http://www.instadaily.com/archives/200706/">June 2007</a>
+							</div>
+													
+							<div class="archive-data">
+								<a href="http://www.instadaily.com/archives/200705/">May 2007</a>
+							</div>
+													
+							<div class="archive-data">
+								<a href="http://www.instadaily.com/archives/200704/">April 2007</a>
+							</div>
+													
+							<div class="archive-data">
+								<a href="http://www.instadaily.com/archives/200703/">March 2007</a>
+							</div>
+													
+							<div class="archive-data">
+								<a href="http://www.instadaily.com/archives/200702/">February 2007</a>
+							</div>
+													
+							<div class="archive-data">
+								<a href="http://www.instadaily.com/archives/200701/">January 2007</a>
+							</div>
+						<div class="year">2006</div>							
+							<div class="archive-data">
+								<a href="http://www.instadaily.com/archives/200612/">December 2006</a>
+							</div>
+													
+							<div class="archive-data">
+								<a href="http://www.instadaily.com/archives/200611/">November 2006</a>
+							</div>
+													
+							<div class="archive-data">
+								<a href="http://www.instadaily.com/archives/200610/">October 2006</a>
+							</div>
+													
+							<div class="archive-data">
+								<a href="http://www.instadaily.com/archives/200609/">September 2006</a>
+							</div>
+													
+							<div class="archive-data">
+								<a href="http://www.instadaily.com/archives/200608/">August 2006</a>
+							</div>
+													
+							<div class="archive-data">
+								<a href="http://www.instadaily.com/archives/200607/">July 2006</a>
+							</div>
+													
+							<div class="archive-data">
+								<a href="http://www.instadaily.com/archives/200606/">June 2006</a>
+							</div>
+													
+							<div class="archive-data">
+								<a href="http://www.instadaily.com/archives/200605/">May 2006</a>
+							</div>
+													
+							<div class="archive-data">
+								<a href="http://www.instadaily.com/archives/200604/">April 2006</a>
+							</div>
+													
+							<div class="archive-data">
+								<a href="http://www.instadaily.com/archives/200603/">March 2006</a>
+							</div>
+													
+							<div class="archive-data">
+								<a href="http://www.instadaily.com/archives/200602/">February 2006</a>
+							</div>
+													
+							<div class="archive-data">
+								<a href="http://www.instadaily.com/archives/200601/">January 2006</a>
+							</div>
+						<div class="year">2005</div>							
+							<div class="archive-data">
+								<a href="http://www.instadaily.com/archives/200512/">December 2005</a>
+							</div>
+													
+							<div class="archive-data">
+								<a href="http://www.instadaily.com/archives/200511/">November 2005</a>
+							</div>
+													
+							<div class="archive-data">
+								<a href="http://www.instadaily.com/archives/200510/">October 2005</a>
+							</div>
+											</div><!-- EOF archives -->
+					
+					<div class="border"></div>
+
 			<div class="market-place">
 				<h2>Shopping</h2>
 						
-					<div class="buy"> To Advertise please <a href="/contact-us.php?q=advertise">Contact Us</a>.</div>
+					<div class="buy"> To Advertise please <a href="http://www.instablogs.com/ad_solutions.php?b=7">Contact Us</a>.</div>
 			</div><!-- EOF market-place -->
 
 			<div class="border"></div>
 
-			<div style="padding:10px;text-align:center;">
-				
-<script type="text/javascript"><!--
-var casaleD=new Date();var casaleR=(casaleD.getTime()%8673806982)+Math.random();
-var casaleUU=escape(window.location.href); var casaleHost='.casalemedia.com/';
-var casaleWH='" width="120" height="600" ';
-var casaleFR='marginwidth="0" marginheight="0" frameborder="0" scrolling="no"';
-casaleFR += ' allowtransparency="true">';
-document.write('<ifr'+'ame src="http://as'+casaleHost+'s?s=85125&amp;u='+casaleUU);
-document.write('&amp;f=3&amp;id='+casaleR+casaleWH+casaleFR+'<a hr'+'ef="http://c');
-document.write(casaleHost+'c?s=85125&amp;f=3&amp;id='+casaleR+'" target="_blank">');
-document.write('<i'+'mg src="http://as'+casaleHost+'s?s=85125&amp;u='+casaleUU);
-document.write('&amp;f=3&amp;id='+casaleR+'&amp;if=0'+casaleWH+'border="0"><\/a>');
-document.write('<\/ifr'+'ame>');
-//--></script><iframe src="http://as.casalemedia.com/s?s=85125&amp;u=https%3A//web.archive.org/web/20080621112837id_/http%253A//www.instadaily.com/privacy-policy.php&amp;f=3&amp;id=1893654753.2428522" width="120" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true"><a href="http://c.casalemedia.com/c?s=85125&amp;f=3&amp;id=1893654753.2428522" target="_blank"><img src="http://as.casalemedia.com/s?s=85125&amp;u=https%3A//web.archive.org/web/20080621112837id_/http%253A//www.instadaily.com/privacy-policy.php&amp;f=3&amp;id=1893654753.2428522&amp;if=0" width="120" height="600" border="0"></a></iframe><noscript>
-<iframe src="http://as.casalemedia.com/s?s=85125&u=http%3A%2F%2Fbornrich.org&f=3&id=1"
-width="120" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"
-allowtransparency="true"> 
-<a href="http://c.casalemedia.com/c?s=85125&f=3&id=0" target="_blank"><img
-src="http://as.casalemedia.com/s?s=85125&u=http%3A%2F%2Fbornrich.org&f=3&id=0&if=0" 
-width="120" height="600" border="0" alt=""></a></iframe></noscript>
-<!-- Casale Media 2007 (C) -->
-
-				</div>
-			
 	</div><!-- EOF inner-sidebar2 -->
 
 </div><!-- EOF inner-sidebars -->
@@ -529,7 +541,8 @@ width="120" height="600" border="0" alt=""></a></iframe></noscript>
 		</div><!-- EOF #content -->
 
 				<div class="clear"> </div>
-		
+
+				
 		<div id="ad-footer">
 			
 		</div><!-- EOF #ad-footer -->
@@ -539,9 +552,9 @@ width="120" height="600" border="0" alt=""></a></iframe></noscript>
 			<div id="footer-main">
 				
 				<div class="publish">Published by The <a href="http://www.instablogs.com/">Instablogs Network</a>, <a href="http://www.citizenmedia.org">Citizen Media Pvt. Ltd.</a></div>
-				<div class="copyright">Copyright � Instablogs Network 2005. All rights reserved.</div>
+				<div class="copyright">Copyright © Instablogs Network 2005. All rights reserved.</div>
 				<div class="footer-links">
-				<a href="/contact-us.php?q=advertise">Advertising</a>  |  <a href="/about-us.php">About</a> |  <a href="/disclaimer.php">Disclaimer</a> | <a href="/privacy-policy.php">Privacy Policy</a> | <a href="/terms-of-use.php">Terms of Use</a> | <a href="/contact-us.php?q=general">Contact</a>
+				<a href="http://www.instablogs.com/ad_solutions.php?b=7">Advertising</a>  |  <a href="/about-us.php">About</a> |  <a href="/disclaimer.php">Disclaimer</a> | <a href="/privacy-policy.php">Privacy Policy</a> | <a href="/terms-of-use.php">Terms of Use</a> | <a href="/contact-us.php?q=general">Contact</a>
 				</div>
 			</div><!-- EOF #footer-main -->
 		</div><!-- EOF #footer -->
@@ -577,15 +590,23 @@ var sc_remove_link=1;
 	</div> <!-- EOF #container -->
   
 
-		<!-- Start of StatCounter Code -->
-		<script type="text/javascript">
-		sc_project=3554791; 
-		sc_invisible=1; 
-		sc_partition=39; 
-		sc_security="3a8f7447"; 
-		sc_remove_link=1; 
-		</script>
 
-		<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><img class="statcounter" src="http://c40.statcounter.com/3554791/0/3a8f7447/1/" alt="counter free hit invisible" ></div></noscript>
-		<!-- End of StatCounter Code -->
-	</body></html>
+<!-- google analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5515876-39");
+pageTracker._trackPageview();
+</script>
+
+<!-- Instablogs Network Google Analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-601944-10");
+pageTracker._trackPageview();
+</script></body></html>
