@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaiaonline.com privacy policy that was archived on 2007-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071020111846id_/http%3A//www.gaiaonline.com/info/%3Finfo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaiaonline.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229042048id_/http%3A//www.gaiaonline.com/info/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice | Gaia Online
 
@@ -23,6 +23,7 @@ NEVER DISPLAY ANY PERSONAL INFORMATION THAT COULD BE USED TO FIND YOU IN THE REA
   * When you choose to create a public profile on Gaia Online, you will post, at your option, certain personal information that will be publicly displayed to other Members on Gaia Online.
   * Gaia uses the information that we collect to operate, maintain, enhance, and provide to you all of the features and services found on Gaia Online. We will use your email address, without further consent, for administrative purposes such as sending you account activation and "welcome" emails, notifying you of major Gaia Online updates, for customer service purposes, to address copyright infringement issues, or to contact you regarding any Gaia Online activities in which you are presently participating.
   * Gaia uses your email address to send to you activity emails, newsletters, and, from time to time, notices about special activities, features, or items available on Gaia Online and, in some cases, sponsored by third-parties. You may opt-out of receiving such notices by indicating your preferences in the **_Edit Profile_** section of Gaia Online.
+  * Gaia uses News Feeds to aggregate the information you provide and make it available to your friends and network members according to your privacy settings.
   * Gaia uses all of the information that we collect to understand the usage trends and preferences of our Members, to improve the way Gaia Online works and looks, and to create new features and functionality. 
   * Gaia uses "automatically collected" information and "cookies" information to: (a) remember your information so that you will not have to re-enter it during your visit or the next time you visit Gaia Online; (b) provide customized third-party advertisements, content, and information; (c) monitor the effectiveness of third-party marketing campaigns; (d) monitor aggregate site usage metrics such as total number of visitors and pages viewed; and (e) track your entries, submissions, and status in any games, sweepstakes, and contests. 
 
@@ -105,7 +106,7 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
 
 Gaia Online Privacy Notice effective as of August 14, 2006
 
-Gaia Online Privacy Notice last modified on January 23, 2006.
+Gaia Online Privacy Notice last modified on August 21, 2008.
 
 ### Gaia Contact Information:
 
