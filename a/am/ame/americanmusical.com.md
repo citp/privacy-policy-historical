@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanmusical.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430170141id_/http%3A//www.americanmusical.com/content--id-6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanmusical.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229030804id_/http%3A//www.americanmusical.com/content--id-6) for the most accurate reproduction.*
 
 # American Musical Supply-Musical Instruments, Guitars, Amps, Mics, Cables & Recording Studio Gear
 
@@ -8,6 +8,7 @@ At American Musical Supply, we are committed to protecting your privacy. We use 
 **What information do we collect? And how do we use it?**
 
   * When you order, we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your order and notify you of your order status.
+  * If you apply for financing, we may gather additional information, such as your social security number, for processing the application and complying with applicable laws and regulations.
   * When you enter a contest or other promotion, we ask for your name, address, and e-mail address so we can enter you in the contest and notify the winners.
   * We personalize your shopping experience by using your purchases to formulate our recommendations about the products and merchandise that may interest you. We also monitor customer traffic patterns and site usage to assist in the design and layout of our website.
   * We can also use the information collected to notify you about important changes to the web site, new services, and special offers we think you'll find valuable.
