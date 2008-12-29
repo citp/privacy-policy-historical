@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the haband.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518100222id_/http%3A//www.haband.com/index.cfm/fuseaction/content.page/nodeID/3fcbd794-1455-45a0-8dab-0292b0a39337) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haband.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229025429id_/http%3A//www.haband.com/index.cfm/fuseaction/content.page/nodeID/3fcbd794-1455-45a0-8dab-0292b0a39337) for the most accurate reproduction.*
 
 # Haband About Haband Privacy Policy
 
-_This policy was last revised on: 7/16/07._
+_This policy was last revised on: 8/1/08._
 
  **We're a Business You Can Trust**
 
@@ -102,10 +102,12 @@ You will also be automatically eligible to and may receive similar promotional i
 
  **Authorized Third Parties.** There is a link on our "Thank You" page that directs customers to another web site. This web site makes an offer of rebates and discounts for a monthly subscription fee. If you follow the link and only if you accept the offer, Haband will transfer your name, street address and credit card information to the operators of that web site so that they can fulfill the subscription and charge your card. This web site requires your explicit consent to transfer your information if you choose to accept their offer. If any customer follows the link, but does not accept the offer, no personal or credit card information will be transferred. If you wish to review this web site's privacy policy, you can do so at:
 
-<http://www.reservationrewards.com/features/default.asp?pg=privacy>
+<http://webengine.encoremarketing.com/public/easysaver/privacy_haband.html>
 
-We have also contracted with a third party to monitor certain pages of our web site for the purpose of reporting web site traffic, and other advertising statistics. Where authorized by us, this third party may use cookies and/or other monitoring technologies to compile anonymous statistics about our web site visitors. No personally identifiable information is transferred to this third party. For more information about how the information is collected and used, please see the privacy policy at:
+We have also contracted with some third parties to monitor certain pages of our web site for the purpose of reporting web site traffic, as well as to serve offers and advertisements that may be of interest to you. Where authorized by us, these third parties may use cookies and/or other monitoring technologies to compile information about our web site visitors. No personally identifiable information is shared directly with the marketing partner. We utilize a third-party service to ensure the data we share with the marketing partner contains no personally identifiable information. For more information about how the information is collected and used, or to opt-out from receiving advertisements, please see their privacy policies at:
 
+<http://www.dotomi.com/content/view/26/58/>.  
+or  
 <http://www.imiclk.com/privacy.html>.
 
  **Affiliate-Company Catalogs.** If you order a product or request a catalog from us, we may make your name, postal address and transactional information available to companies within our family of affiliated companies so that you may receive future catalog offerings about products and services that may be of interest to you.
