@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 2joomla.net privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530073441id_/http%3A//www.2joomla.net/2joomla-content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2joomla.net privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229041029id_/http%3A//www.2joomla.net/2joomla-content/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - 2Joomla.NET
 
 #### Information about our Organization and Web site
 
-Modern information and communication technologies play a fundamental role in the activities of an organisation like 2JoomlaNet. We are based in Ukraine .
+Modern information and communication technologies play a fundamental role in the activities of an organisation like 2JoomlaNet.
 
 Our principal activity is: 
 
