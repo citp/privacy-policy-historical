@@ -1,19 +1,13 @@
-> *The following text is extracted and transformed from the blackanddecker.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605044854id_/http%3A//www.blackanddecker.com/CustomerCenter/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackanddecker.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229035119id_/http%3A//www.blackanddecker.com/CustomerCenter/Privacy.aspx) for the most accurate reproduction.*
 
 # Black & Decker - Privacy
 
-|   
----  
-| [](http://www.blackanddecker.com/CustomerCenter)  
+| [](http://www.blackanddecker.com/CustomerCenter/Default.aspx)  
 ---  
  [FAQs](http://www.blackanddecker.com/CustomerCenter/FAQ.aspx)  
- [Contact Us](http://www.blackanddecker.com/CustomerCenter)  
- [Recalls](http://www.blackanddecker.com/CustomerCenter/Recalls.aspx)  
- [Surveys](http://www.blackanddecker.com/CustomerCenter/Surveys.aspx)  
- [Manuals](http://www.blackanddecker.com/CustomerCenter/Manuals.aspx)  
- [Warranty](http://www.blackanddecker.com/CustomerCenter/Warranty.aspx)  
- [Company History](http://www.bdk.com/Timeline2007.pdf)  
- [Parts](http://www.blackanddecker.com/CustomerCenter/Parts.aspx)  
+ [Contact Us](http://www.blackanddecker.com/CustomerCenter/Default.aspx)  
+ [Safety Notices](http://www.blackanddecker.com/CustomerCenter/Recalls.aspx)  
+ [Warranty Information](http://www.blackanddecker.com/CustomerCenter/Warranty.aspx)  
  [Product Registration](http://www.blackanddecker.com/ProductRegistration/Product-Registration.aspx)  
  [Service Center Locator](http://www.blackanddecker.com/CustomerCenter/ServiceCenterLocator2.aspx)  
  [Product Ideas](http://www.blackanddecker.com/CustomerCenter/Product-Ideas.aspx)  
