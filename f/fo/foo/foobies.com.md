@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the foobies.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613163158id_/http%3A//www.fark.com/farq/legal.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foobies.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229053141id_/http%3A//www.fark.com/farq/legal.shtml) for the most accurate reproduction.*
 
 # FARK.com: Frequently Asked Questions: Legal Stuff
 
 > ### Fark Frequently Asked Questions (FAQ): Legal Stuff
 > 
-> [Back to top of FAQ](https://web.archive.org/web/20080613163158id_/http%3A//www.fark.com/farq/index.shtml)  
+> [Back to top of FAQ](https://web.archive.org/web/20081229053141id_/http%3A//www.fark.com/farq/index.shtml)  
 > 
 > 
->   * [ Legal Stuff](https://web.archive.org/web/20080613163158id_/http%3A//www.fark.com/farq/legal.shtml#Legal_Stuff)
->     * [ Fark's Legal and Privacy Statement](https://web.archive.org/web/20080613163158id_/http%3A//www.fark.com/farq/legal.shtml#Fark.27s_Legal_and_Privacy_Statement)
+>   * [ Legal Stuff](https://web.archive.org/web/20081229053141id_/http%3A//www.fark.com/farq/legal.shtml#Legal_Stuff)
+>     * [ Fark's Legal and Privacy Statement](https://web.archive.org/web/20081229053141id_/http%3A//www.fark.com/farq/legal.shtml#Fark.27s_Legal_and_Privacy_Statement)
 > 
 
 > 
@@ -25,6 +25,21 @@
 > #####  Copyright Notice 
 > 
 > The content on Fark.com, except all Submissions (defined below) is owned by or licensed to Fark.com, subject to copyright and other intellectual property rights under the United States and international intellectual property laws and conventions. Content on Fark.com is provided for personal use only and may not be used, copied, reproduced, distributed, transmitted, broadcast, displayed, sold, licensed, or otherwise exploited for any purpose without the prior written consent of the respective owners. You agree to not engage in the use, copying, or distribution of any of the content other than expressly permitted herein, including any use, copying, or distribution of Submissions of third parties obtained through the Fark.com website for any commercial purposes. Fark.com permits the submission of text, photographs, opinions, comments and/or other forms of communication submitted by you and other users ("Submissions") and the hosting, sharing and publication of such Submissions. You agree that you are solely responsible for your own Submissions and affirm, represent, and/or warrant that you own or have the necessary licenses, rights, consents, and permissions to use and authorize Fark.com to use all patent trademark, trade secret, copyright or other proprietary rights in and to any and all Submissions to enable inclusion and use of the Submissions in the manner contemplated by Fark.com. You retain all ownership rights in your Submissions. However, by submitting the Submissions to Fark.com, you hereby grant Fark.com a non-exclusive, royalty-free, sublicenseable and transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform the Submissions in connection with Fark.com and Fark.com's business, including without limitation for promoting and redistributing part or all of Fark.com (and derivative works thereof) in any media formats and through any media channels/outlets. Fark.com does not permit or allow copyright infringing activities and/or infringement of intellectual property rights on Fark.com's website, and Fark.com will remove any and all content and Submissions if properly notified that such content and/or Submission infringes on another's intellectual property rights. 
+> 
+> Copyrights and Copyright Agents. We respect the intellectual property of others, and we ask you to do the same. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide our Copyright Agent with the following information (see 17 U.S.C. 512 (c)(3) for further detail): 
+> 
+>   * An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest; 
+>   * Description of the copyrighted work that you claim has been infringed; 
+>   * A description of where the material that you claim is infringing is located on Fark.com; 
+>   * Your address, telephone number, and email address; 
+>   * A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and 
+>   * A statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf. 
+> 
+
+> 
+> Our Copyright Agent for notice of claims of copyright infringement on Fark.com is Drew Curtis, who can be reached through farkback at: <http://cgi.fark.com/cgi/fark/feedback.pl?type=legal>
+> 
+> Fark, TotalFark, Foobies, and the Fark, TotalFark, and Foobies logos, are registered trademarks of Fark, Inc. 
 > 
 > #####  Fark's Privacy Policy 
 > 
