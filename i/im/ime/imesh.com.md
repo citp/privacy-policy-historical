@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the imesh.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629064108id_/http%3A//imesh.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imesh.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229040733id_/http%3A//www.imesh.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # iMesh - Over 15,000,000 Music downloads and MP3's - 100% legal
 
-**PRIVACY POLICY**
-
+  
 Welcome to iMesh. We want you to know that we respect your privacy and that we value your business. This privacy statement covers the iMeshTM software, iMesh MediaBar and the iMeshTM website ([www.imesh.com](http://www.imesh.com/)). In order to ensure your privacy we want you to know the details of what information we collect and what we do with it.
 
 **INFORMATION COLLECTION**
@@ -30,8 +29,6 @@ When you first agree to receive the iMesh Personalization Service, information w
   * Which computer operating system and Web browser(s) you use, and identification of some of your system settings. 
   * Information on how you use the iMesh Personalization Service; for example, how often you use it and its settings and preferences.
 
-
-
 Personalization information is stored on servers located in the United States by iMesh and our third party partners. 
 
 **How is this Information used?**
@@ -48,7 +45,9 @@ Research and Reporting: The analytics and custom marketing research programs com
 
 Service Providers: Your information may be shared with third parties who help perform a business function that it would otherwise perform itself. Such third parties are prohibited from using the data to any greater extent than allowed by this privacy policy.  This information may also be used by iMesh or its partners in connection with a judicial or administrative proceeding, or in response to a court order, subpoena, discovery request or other lawful process.
 
-**How Do I Uninstall Personalization Service?** You can uninstall the Personalization Service by disabling the technology in both the iMesh application and MediaBar (if installed).
+**How Do I Uninstall Personalization Service?**
+
+You can uninstall the Personalization Service by disabling the technology in both the iMesh application and MediaBar (if installed).
 
 **Sale, Merger, or Asset Transfer**
 
