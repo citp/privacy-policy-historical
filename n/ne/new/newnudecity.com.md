@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newnudecity.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630060031id_/http%3A//www.newnudecity.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newnudecity.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229180748id_/http%3A//www.newnudecity.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
