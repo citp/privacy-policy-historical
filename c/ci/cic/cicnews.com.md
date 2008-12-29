@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cicnews.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506081727id_/http%3A//www.cicnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cicnews.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229060301id_/http%3A//www.cicnews.com/privacy.html) for the most accurate reproduction.*
 
 # CIC News - Privacy Policy
 
@@ -25,7 +25,7 @@ This Privacy Policy fully discloses and describes the personal user information 
   * You may be asked to provide personal information in certain fields on our websites. The information collected on these sites will not be transferred to any third parties and will be used solely for the purposes for which it was requested.
 
 
-  * The personal information you provide to us in the [Eligibility Questionnaire](https://www.canadavisa.com/assess/canada-immigration-assessment-form.htm?site=cicnews&cat=privacy "Free Canada Immigration Assessment Form") is collected with the sole purpose of assessing your potential to [immigrate to Canada](http://www.canadavisa.com/assess/canada-immigration-visa.htm "More about Immigrate to Canada »") under Canada’s current immigration selection criteria. Any personal information submitted to us will not be sold, or otherwise transferred, to a third-party source. Upon submitting your Canada Immigration Eligibility Questionnaire you can expect your results to be delivered to the email address you have provided to us within 24 hours from the time of submission. We will only respond to you in regard to your Canada Eligibility Questionnaire.
+  * The personal information you provide to us in the [Eligibility Questionnaire](https://www.canadavisa.com/assess/canada-immigration-assessment-form.htm?site=cicnews&cat=privacy "Free Canada Immigration Assessment Form") is collected with the sole purpose of assessing your potential to immigrate to Canada under Canada’s current immigration selection criteria. Any personal information submitted to us will not be sold, or otherwise transferred, to a third-party source. Upon submitting your Canada Immigration Eligibility Questionnaire you can expect your results to be delivered to the email address you have provided to us within 24 hours from the time of submission. We will only respond to you in regard to your Canada Eligibility Questionnaire.
 
 
   * If you choose to submit your resume to us, it will only be used to evaluate your eligibility for Canadian immigration. Resumes are not used for any other purpose and are not shared with any entity unrelated to the CCIN.
