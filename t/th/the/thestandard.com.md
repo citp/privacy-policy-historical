@@ -1,74 +1,61 @@
-> *The following text is extracted and transformed from the thestandard.com privacy policy that was archived on 2005-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050328084456id_/http%3A//www.thestandard.com/staticpages/index.php%3Fpage%3D20031022162750779) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestandard.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229063700id_/http%3A//www.thestandard.com/privacy) for the most accurate reproduction.*
 
-# Internet Business News from The Industry Standard - Privacy - Internet News
+# Privacy Policy | The Industry Standard
 
-**Privacy Policy**
+The Industry Standard Web site and associated sites are maintained by
 
-Below is the current policy regarding the usage of data collected by TheStandard.com. We reevaluate this policy on an ongoing basis based on feedback from readers. 
+The Industry Standard   
+501 Second Street  
+San Francisco, CA 94107  
+Tel.: 415.978.3268
 
-**Visitor Data**
+The Industry Standard collects personally identifying information and data about individuals, their company, and the company's demographics "personally identifying information and data" including (i) when you provide information to The Industry Standard, such as when you register or sign up for any of our products such as subscriptions, e-mails, contests, newsletters, memberships, RSS Feeds, webcasts, White Papers, online seminars, conferences and other communications with The Industry Standard (ii) when you register or sign up on the The Industry Standard site or when you register for any other IDG Publishing Network products individually or through "auto register", your information will be known to The Industry Standard and (iii) from time to time we may add other information that we collect from third party sources to enhance the information that you provided to The Industry Standard Below is the current policy regarding the usage of personally identifying information and data collected by The Industry Standard. We reevaluate this policy on an ongoing basis based on feedback from users. The Industry Standard reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifying information and data that are different from that stated at the time of collection, we will notify you by posting a notice on our website.
 
-For each visitor to our Web page, our Web server automatically records the consumer's domain name and IP address. We collect only the domain name of visitors to our web page, aggregate information on what pages consumers access or visit, and information volunteered by the consumer, such as survey information and/or site registrations. We do not collect e-mail addresses of unregistered visitors. Cookies may be used to collect information. 
+The Industry Standard or one of our IDG affiliated companies, or third party partners may place a "cookie" in the browser files of a user's computer. The cookie itself does not contain any personally identifying information, except when such information has been supplied by a subscriber or registered user.
 
-The aggregated information we collect is used for the following purposes: 
+If you have registered with The Industry Standard, the information in your "cookie" is used to provide a more personalized experience on our Web site.
 
-  1. to improve the content of our Web pages 
-  2. shared with advertisers and potential advertisers to help them assess TheStandard.com's suitability for their ad campaigns 
-  3. set by our audit bureau to verify our claims of traffic to the site 
+If you haven't registered with our site, we may place a cookie on your system to help provide a more personalized experience on The Industry Standard.com. This cookie identifies you as a unique user by means of a tracking ID. However, if you have not registered on our site, we cannot link that user ID with personal identifying information and data about you such as your name or e-mail address.
 
-In regards to cookies, TheStandard.com's ad-serving partner, Double-Click, records cookies in cookie files only to prevent repetitious ad banner placements. If you do not want the frequency of ad exposure controlled, you can deny this feature by following instructions at: 
+Other cookies without personally identifying information and data are used to enable The Industry Standard to manage the banner advertisements presented or personalized information to the user.
 
-http://www.doubleclick.net/us/corporate/privacy/ 
+Browsers or third-party software can allow you to block the use of cookies while you surf our site. Or, you can use third-party "anonymizer" services to mask information in your cookies, or even general data such as your IP address. In such cases you would not be able to take advantage of most of the personalization services offered by The Industry Standard.com.
 
-To read Doubleclick's entire privacy policy, go to: 
+The aggregated information we collect is used for a number of purposes including the following:
 
-http://www.doubleclick.net/us/corporate/privacy/ 
+  1. To improve the content and design of the The Industry Standard Web site
+  2. To enable our audit bureau to verify our claims of traffic to the site
+  3. To help advertisers, potential advertisers or marketers assess the suitability of the site for their ad campaigns
+  4. As clear GIFs, also known as pixel tags, provided by our ad-serving company to help manage online advertising. These clear GIFs let our ad-serving company recognize a browser's cookie when a user visits our site. The information we collect and share through this technology is not personally identifiable (It does not include your name, address, telephone number or e-mail address). For more information about our ad-serving company or for your choices about not having this anonymous information used, please visit www.doubleclick.net
+  5. The Industry Standard has contracted with DoubleClick to serve all advertising on www.The Standard.com, both on the Web site itself and through its e-mail newsletters. When DoubleClick is serving ads, it recognizes certain types of non-personally identifiable information, such as a user's IP address, browser version or type, operating system, service provider and time zone. DoubleClick also uses cookies to note the general content of the sites that users visit over time in order to serve ads on this site and other sites. Any pages a user calls up on www.The Industry Standard.com aren't connected with personally identifiable information collected either at www.The Industry Standard.com or elsewhere. For more details about the non-personally identifiable information DoubleClick collects and the opportunity to opt out of such data collection, please visit www.doubleclick.net/privacy_policy. We use web metric vendors to gather information to help us understand how users utilize our websites and other electronic products.
+  6. We may create and use aggregate customer data to understand more about the interests of our customers and may use the data to offer goods and services we believe may be of interest to our customers, on behalf of The Industry Standard, its sister IDG companies, or select organizations. In addition, The Industry Standard and/or its sister IDG companies may combine a users' profile data (in the aggregrate and without identifying a particular user) with a users’ “predictions” (in the aggregate and without identifying a particular user) for the purpose of compiling and creating research that may be sold or licensed by The Industry Standard or its sister IDG companies.
 
-NOTE: TheStandard.com will not be participating in any program to identify visitors using DoubleClick's data base partner Abacus. To read more about the "Abacus Alliance" program go here: 
 
-http://www.doubleclick.net/us/corporate/privacy/ 
 
-**Registered User Data**
+Postal addresses, and other personally identifying information and data that may be collected will be used to promote The Industry Standard and other IDG companies' products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the personally identifying information and data are rented and/or licensed for use and the users are required to target their offers carefully. 
 
-Registered users are asked to complete a questionnaire with identifying information and demographic information. The information we collect on registered users is used in the following ways: 
+Telephone numbers of The Industry Standard registered users are used by The Industry Standard to collect re-qualification data and may be used by The Industry Standard, IDG and other IDG companies, affiliates and it's advertisers for promotional purposes. The Industry Standard may rent and/or license for use phone numbers to selected outside firms for promotional purposes. Offers for which the numbers are rented and/or licensed for use are required to target their offers carefully. 
 
-  1. to improve the content of our Web pages 
-  2. used to notify users via e-mail newsletters about updates to our Web site 
-  3. used by us for marketing TheStandard.com products and services 
-  4. used by our audit bureau to verify cumulative demographic statistics 
-  5. if the user has given permission, names and addresses may be shared with other reputable organizations (including IDG sister companies) for marketing purposes 
-  6. used by TheStandard.com, IDG, and IDC for research surveys 
-  7. used by Editorial for consultation with readers 
+Fax numbers of The Industry Standard registered users may be used for surveys for The Industry Standard and third parties. Except as set forth in this policy no fax numbers are rented and/or licensed to outside firms.
 
-Telephone numbers of registered users will not be rented to outside firms for sales purposes. TheStandard.com may use the telephone numbers for surveys or editorial consultation with users, and may allow outside firms to use them for surveys. IDG Sister publications may be allowed to use TheStandard.com subscribers' phone numbers to promote free subscriptions. 
+E-mail addresses of The Industry Standard registered users may be used to collect feedback by members of our editorial or research team, to promote The Industry Standard and IDG products and services, and they may be rented to other firms and/or licensed for promotional purposes. When you provide your email address to us, you agree to receive email from The Industry Standard and its sister IDG companies, and the IDG Network. We allow users to "opt-out" of receiving e-mail from outside firms, however, when e-mail information is collected and with each e-mail use of the user's address you can individually "opt-out" of receiving further e-mail from outside firms, The Industry Standard, its sister IDG companies and the IDG Network . If a user does not choose to "opt-out" at the time the e-mail address is collected, or does not respond to the questions concerning how we may use their email address, the address may be rented and/or licensed for use to outside firms. Offers for which the e-mail address is rented and/or licensed for use require the users to target their offers carefully. Users who later decide they want to change their preferences may do on the "Notifications" page at thestandard.com, inside the "Edit Profile" area. 
 
-Currently, E-mail and postal mail addresses may be used by TheStandard.com to promote TheStandard.com and IDG products and services, surveys, and for editorial consultations with users. 
+Personal identifying information submitted on portions of our site developed with outside third parties may be shared with those third parties, and the information will be governed by those parties' privacy policies as well as The Industry Standard's. The Industry Standard, nor any of its parent companies or any of its subsidiaries or affiliates do not bear any responsibility for any actions or policies of such third parties. 
 
-We allow each registered user to "opt out" of receiving e-mail and postal mail from outside firms and IDG sister companies at the time of registration. When the user has given permission, his e-mail address may be rented to outside firms for promotional purposes. Offers for which the names are rented are screened, and renters are required to target their offers carefully. Users who later decide they want to change their preferences may write to us at: 
+The Industry Standard users should be aware that when they disclose personal identifying information (e.g., user name, address, company name, telephone number, demographic information, buying information, other data and E-mail address) in discussion forums, chat rooms or other areas that are publicly accessible by others, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. The Industry Standard nor its parent company or any of its subsidiaries or affiliates are not responsible for any information that you provide in the above areas. In the event that the ownership of The Industry Standard or any of its products are sold or transferred all lists and data which contain personally identifying information and data including, for example, user name, address, company name, telephone number, demographic information, buying information, other data and e-mail address, will be transferred to the new owner. 
 
-TheStandard.com.com List Rentals   
-501 Second Street   
-San Francisco, CA 94107 
+IDG PUBLISHING NETWORK ONLINE REGISTRATION PRIVACY POLICY 
 
-and request that their name be removed from the promotion list, or click here to unsubscribe from mailing lists. 
+Below is the current policy regarding the usage of personally identifying information and data collected by the IDG Publishing Network. We reevaluate this policy on an ongoing basis based on feedback from readers. The IDG Publishing Network reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifiable information and data that is different from that stated at the time of collection, we will notify you by posting a notice on our website. 
 
-**TheStandard.com Partner Services Data**
+About the IDG Publishing Network
 
-TheStandard.com.com will from time to time partner with other companies to provide services to our subscribers and registered users that we feel may be valuable to them. Only in cases where you need to subscribe or register to use these services, TheStandard.com.com will share your registration information with the partner company. We share this information to provide the service to you and for better customer service. 
+The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles including CIO, CSO, Darwin, InfoWorld, Game Pro, Network World, Macworld and PC World. The IDG Publishing Network is a growing collection of IDG web sites that presently includes cio.com, csoonline.com, InfoWorld.com, darwinmag.com, nwfusion.com, macworld.com, maccentral.com, pcworld.com and gamepro.com. A complete listing is available at www.idg.com. 
 
-If any of these services are discontinued, registered users and subscribers of the service on TheStandard.com.com will be given the option to opt out of being contacted by the partner company. 
+To access restricted content on any IDG Publishing Network web site you must be a member of the IDG Publishing Network. To become a member of the IDG Publishing Network, you need to provide certain information about yourself. Any of the IDG Publishing Network sites may use this identifying information for internal analytical and business development purposes and to send you email. However, other forms of communication, including postal mail, may be directed to you pursuant to the site's specific privacy policy, as may be updated from time to time. 
 
-**TheStandard.com Events and Conferences**
+You can "opt-out" of receiving further email by clicking the appropriate links that appear at the bottom of any email you receive. If you do not want to receive other types of communication, including as applicable, postal mail, from the editor and publisher of the site, please refer to the site's privacy policy for the procedure to follow. 
 
-E-mail addresses, postal addresses, fax and phone numbers will be used for notification of information pertaining to the conferences you register for or express interest in. 
+The IDG Publishing Network is intended for individuals over the age of 13 years old. Personal information may not be provided by anyone under 13 years of age. Further no one under 13 years old may participate in the forums or chat rooms or any other areas where public discussions may take place. In addition no one under that age of 18 may conduct any transactions for the purposes or purchasing or selling any items. Parents should be sure that their children are not conducting any of the above activities on the IDG Publishing Network. 
 
-Postal addresses of attendees and registrants will be used to promote other TheStandard.com and IDG products and services, and may be rented to selected outside firms for promotional purposes. When the attendee has given permission, his e-mail address may be shared with sponsors or rented to other firms for promotional purposes. Offers for which the names are rented are carefully reviewed, and renters are required to target their offers carefully. Attendees and registrants may remove their name from the promotional list for events by e-mailing us at: eventprivacy@thestandard.com 
-
-Credit card information is gathered through a secure server. 
-
-**Comments**
-
-If you have any questions or comments about this privacy policy, please send e-mail to: privacy@thestandard.com 
-
-  
-Last Updated Friday, November 21 2003 @ 11:27 PM GMT
+If you have any questions or comments regarding the IDG Publishing Network or its use of information please send email to IDGNetwork@idg.com or write to us at IDG Publishing Network, 3 Post Office Square, Boston, MA 02109.
