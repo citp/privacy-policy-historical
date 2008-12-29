@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the tigerdirect.com privacy policy that was archived on 2008-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080607225259id_/http%3A//www.tigerdirect.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tigerdirect.com privacy policy that was archived on 2008-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081229020715id_/http%3A//www.tigerdirect.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Policy at TigerDirect.com</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="description" content="TigerDirect.com is your source for computers, motherboards, processors, memory, hard drives, components, monitors and much more at the lowest prices in the industry!">
-<meta name="keywords" content="tigerdirect.com tigerdirect tiger direct tiger software tiger computers tiger pc low price cheap cheapest value discount savings best buy Accessories Barebone Kits Cables CD CD-RW DVD Components Computer Cases Cooling Products Desktop PCs Digital Cameras Electronics Flash Memory Hard Disk Drives Input Devices Laptops Notebooks Media Memory Modems Monitors Motherboards Motherboard CPU MP3 Audio Networking Office Equipment PDAs Plasma Displays Power Protection Printers Printer Supplies Processors Projectors Removable Storage Scanners Servers Software Sound Cards Speakers Training Video Cards Wireless Networking">
+<meta name="keywords" content="TigerDirect.comTigerDirect.com tiger direct tiger software tiger computers tiger pc low price cheap cheapest value discount savings best buy Accessories Barebone Kits Cables CD CD-RW DVD Components Computer Cases Cooling Products Desktop PCs Digital Cameras Electronics Flash Memory Hard Disk Drives Input Devices Laptops Notebooks Media Memory Modems Monitors Motherboards Motherboard CPU MP3 Audio Networking Office Equipment PDAs Plasma Displays Power Protection Printers Printer Supplies Processors Projectors Removable Storage Scanners Servers Software Sound Cards Speakers Training Video Cards Wireless Networking">
 <meta name="robots" content="index,follow">
-<meta name="copyright" content="© 1989-2003 TigerDirect, Inc. All rights reserved.">
+<meta name="copyright" content="© 1989-2003 TigerDirect.com, Inc. All rights reserved.">
 <link href="/css/global.css" rel="stylesheet" type="text/css"><link href="/css/global3_com.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 <!--
@@ -40,7 +40,14 @@ table.helpHeader td {
 
 </head>
 <body>
- 
+
+<script language="Javascript">
+if(parent.frames.length > 0) {
+   if (document.location.href.indexOf("cgisec") > 0 || document.location.href.indexOf("secure") > 0) 
+      top.location.replace(document.location); 
+}
+</script>
+
 
 <script language="JavaScript" type="text/JavaScript">
 <!--
@@ -95,6 +102,30 @@ document.write("<link REL='stylesheet' HREF='/css/newmastheadfx.css' TYPE='text/
 else if (browser_type == "Safari" && (browser_version >= 3)) {
 document.write("<link REL='stylesheet' HREF='/css/newmastheadfx.css' TYPE='text/css'>");
 }
+
+function get_random()
+{
+    var ranNum= Math.floor(Math.random()*4);
+	return ranNum;
+}
+
+
+function getaQuote()
+{
+   var whichQuote=get_random();
+
+    var quote=new Array(4)
+     quote[0]="Shipping over 10,000 PCs and high-def TVs, Every Day!";
+     quote[1]="Serving PC and electronics enthusiasts for over 20 years!";
+	 quote[2]="Serving PC and electronics enthusiasts for over 20 years!";
+	 quote[3]="Ranked as the 22<sup>nd</sup> largest e-tailer by Internet Retailer Magazine.";
+  	
+
+//document.getElementById('quote').innerHTML = quote[whichQuote];
+   return (quote[whichQuote]);
+  }
+
+
 </script><link rel="stylesheet" href="/css/newmastheadfx.css" type="text/css">
 
 <style type="text/css">
@@ -116,21 +147,22 @@ background-repeat:repeat-x;
 height:60px;
 width:937px; 
 padding-top:7px;
+background-image:url(http://images.tigerdirect.com/mastheadusb/pinkback2.gif);
 }
 
 #tigerv2_tabbedmenu a{
 font-size:9pt;
 font-family:Arial, Helvetica, sans-serif;
 font-weight:bold;
-color:#0c0e74;
-background: #fddc00 url(http://images.tigerdirect.com/mastheadusb/leftTabC.gif) left top no-repeat;
+color:#FFFFFF;
+background: #6d073c url(http://images.tigerdirect.com/mastheadusb/darkpinkleftcorner1.gif) left top no-repeat;
 text-decoration: none;
 padding-left: 10px;
 margin:0px;
 letter-spacing:0px;
 }
 #tigerv2_tabbedmenu a span{
-background: url(http://images.tigerdirect.com/mastheadusb/rightTabCorn2.gif) right top no-repeat;
+background: url(http://images.tigerdirect.com/mastheadusb/darkpinkrightcorner1a.gif) right top no-repeat;
 padding-right: 10px;
 padding-bottom:3px;
 padding-top:3px;
@@ -144,12 +176,12 @@ float: left;
 float: none
 }
 #tigerv2_tabbedmenu a:hover{
-color: #fff;
-background: #58a0f1 url(http://images.tigerdirect.com/mastheadusb/leftTabC_hover.gif) left top no-repeat;
+color: #6d073c;
+background: #f9e2ee url(http://images.tigerdirect.com/mastheadusb/darkpinkleftcorner_hover.gif) left top no-repeat;
 padding-left: 10px;
 }
 #tigerv2_tabbedmenu a:hover span{
-background: url(http://images.tigerdirect.com/mastheadusb/rightTabCorn_hover.gif) right top no-repeat;
+background: url(http://images.tigerdirect.com/mastheadusb/darkpinkrightcorner_hover.gif) right top no-repeat;
 padding-right: 10px;
 } 
 
@@ -157,9 +189,25 @@ padding-right: 10px;
 float:none;
 }
 
+#tigerv2_tabbedmenu #current a{
+color: #6d073c;
+background: #f9e2ee url(http://images.tigerdirect.com/mastheadusb/darkpinkleftcorner_hover.gif) left top no-repeat;
+padding-left: 10px;
+}
+#tigerv2_tabbedmenu #current a span{
+background: url(http://images.tigerdirect.com/mastheadusb/darkpinkrightcorner_hover.gif) right top no-repeat;
+padding-right: 10px;
+} 
 
 
 
+
+.mastPinkTop{
+width:937px;
+font-family:Arial, Helvetica, sans-serif;
+color:#d42480;
+height:57px;
+}
 
 .mastBottom{
 margin:0px;
@@ -167,6 +215,7 @@ background-repeat:repeat-x;
 height:56px; 
 width:937px; 
 padding-top:5px;
+background-image:url(http://images.tigerdirect.com/mastheadusb/pinkback2.gif);
 }
 
 .mastBottomitem{
@@ -175,7 +224,18 @@ background-repeat:repeat-x;
 height:57px;
 width:937px; 
 padding-top:5px;
+background-image:url(http://images.tigerdirect.com/mastheadusb/pinkback2.gif);
 }
+
+.bottomblueborder{
+background-image:url(http://images.tigerdirect.com/mastheadusb/buttompinkback2.gif); 
+background-repeat:repeat-x; 
+height:8px; 
+width:977px; 
+margin:0px; 
+padding:0px;
+}
+
 .searchsection{
 font-family:Verdana, Arial, Helvetica, sans-serif; 
 font-weight:bold; 
@@ -199,7 +259,7 @@ padding-bottom:2px;
 margin-bottom:-10px;
 }
 .mastbluetext{
-font-size:8pt;
+font-size:7pt;
 font-weight:bold;
 float:left;
 margin-left:5px;
@@ -228,6 +288,29 @@ margin:0px 0px 4px 0px;
 height:22px;
 }
 
+.emailalert{
+padding-right:2px; 
+font-family:Verdana, Arial, Helvetica, sans-serif; 
+font-weight:bold; 
+font-style:italic; 
+color:#FFFFFF; 
+height:28px; 
+font-size:10pt; 
+float:right; 
+width:355px;
+}
+
+.emailalert2{
+padding-right:2px; 
+font-family:Verdana, Arial, Helvetica, sans-serif; 
+font-weight:bold; 
+font-style:italic; 
+color:#FFFFFF; 
+height:28px; 
+font-size:10pt; 
+float:right; 
+width:355px;
+}
 
 
 
@@ -238,41 +321,51 @@ height:22px;
 <div class="mastouterconter">
 	
     <!-- top half of the mast head-->
-    <div class="mastTop" style="width:943px;">
+
+    <div class="mastPinkTop" style="width:943px;">
+        
     
     	<!--Tigerdirect Logo / text-->
-        <div style="width:600px; height:48px; float:left">
-        	<div style="width:198px; float:left;">
-            	<a href="http://www.tigerdirect.com"><img src="http://images.tigerdirect.com/mastheadusb/bluelogo.gif" alt="TigerDirect.com" width="198" height="48" border="0"></a>            </div>
+
+        <div style="width:688px; height:48px; float:left;">
+        	<div style="width:198px; float:left; margin-top:8px;">
+            	
+                <a href="http://www.tigerdirect.com"><img src="http://images.tigerdirect.com/mastheadusb/pinklogo3.gif" alt="TigerDirect.com" width="198" height="48" border="0"></a>
+                
+                     </div>
             <div class="mastbluetext" align="left">
             	<span style="font-size:13pt;">800-800-8300</span><br>
-                Shipping over 10,000 computers and electronics on time every day!
+                 <span id="quote">
+				<script language="javascript" type="text/javascript">
+					document.write(getaQuote());
+				</script>Serving PC and electronics enthusiasts for over 20 years!
+				</span>
             </div>
         
-        
+     <div style="float:right; padding-top:3px;"><img src="http://images.tigerdirect.com/mastheadusb/pinkbanner170a.jpg" width="170" height="48"></div>
         </div>
-        
-        <!--login in / my account--> <div style="width:250px; float:right; font-family:Arial, Helvetica, sans-serif; font-size:8pt; color:#0c277f; padding-top:28px; padding-bottom:0px; padding-right:5px;" align="right">
-        	 <a href="/applications/MyAccount/subscribe.asp?pg=/Specials/index.asp" title="Free Catalog">FREE CATALOG</a> &nbsp; | &nbsp; <a href="https://www.tigerdirect.com/secure/orderlogin.asp?PG=1" title="Click here to log into your account">MY ACCOUNT</a> 
+        <!--login in / my account--> 
+        <div style="width:250px; float:right; font-family:Arial, Helvetica, sans-serif; font-size:8pt; color:#0c277f; padding-top:28px; padding-bottom:0px; padding-right:5px;" align="right">
+        	 <a href="/applications/MyAccount/subscribe.asp?pg=/Specials/index.asp" title="Free Catalog" style="color:#d42480">FREE CATALOG</a> &nbsp; | &nbsp; <a href="https://www.tigerdirect.com/secure/orderlogin.asp?PG=1" title="Click here to log into your account" style="color:#d42480">MY ACCOUNT</a> 
 			  
   </div>
   </div>
     <!-- bottom half of the mast head--> 
-       	<div class="mastBottom" style="width:941px; background-image:url(http://images.tigerdirect.com/mastheadusb/blueback.gif);">
+       	<div class="mastBottom" style="width:941px;">
                
            <!--search and tab-->
         <!--search-->
          	  <div class="searchsection" align="left">
                  <div style="float:left; padding-top:5px; height:28px; padding-left:5px; color:#FFFFFF; font-weight:bold; font-style:italic; font-size:10pt; ">Search For:</div>
                  <div style="float:left; padding-left:5px; height:28px; padding-left:5px;">
-                          <form action="http://www.tigerdirect.com/applications/SearchTools/search.asp" name="searchFRM" onsubmit="return chkSrch(this.keywords)"><img src="http://images.tigerdirect.com/mastheadusb/backsrch.gif" border="0"><input name="keywords" type="text" id="tigerv2_form" size="40" maxlength="100" style="padding-bottom:-2px;" onfocus="if(this.value=='Keyword or Item #')this.value='';" onblur="if(this.value=='')this.value='Keyword or Item #';" value="Keyword or Item #"><input name="searchbtn" type="image" src="http://images.tigerdirect.com/mastheadusb/gobtn1.gif" alt="search" border="0"></form></div>
+                          <form action="http://www.tigerdirect.com/applications/SearchTools/search.asp" name="searchFRM" onsubmit="return chkSrch(this.keywords)"><img src="http://images.tigerdirect.com/mastheadusb/Pinkbacksrch.gif" border="0"><input name="keywords" type="text" id="tigerv2_form" size="40" maxlength="100" style="padding-bottom:-2px;" onfocus="if(this.value=='Keyword or Item #')this.value='';" onblur="if(this.value=='')this.value='Keyword or Item #';" value="Keyword or Item #"><input name="searchbtn" type="image" src="http://images.tigerdirect.com/mastheadusb/pinkgobutton1.gif" alt="search" border="0"></form></div>
                     
            
             <!--deal alert section-->
-				<div style="padding-right:2px; font-family:Verdana, Arial, Helvetica, sans-serif; font-weight:bold; font-style:italic; color:#FFFFFF; height:28px;  font-size:10pt; float:right; width:250px;" align="left">
-            	 <div style="padding-top:3px; float:left;">Deal Alert!</div>
+				<div class="emailalert2" align="left">
+            	 <div style="padding-top:3px; float:left;">Sign up for our deal alerts.</div>
                   <div style="padding-left:5px; float:left;">
-                  <form name="subscribe" method="post" action="http://www.tigerdirect.com/applications/email/d_subscribe.asp" onsubmit="return chkEml(this.email)"> <img src="http://images.tigerdirect.com/mastheadusb/backsrch.gif" border="0"><input id="tigerv2_form" name="email" type="text" size="13" maxlength="50" onfocus="if(this.value=='Email Address')this.value='';" onblur="if(this.value=='')this.value='Email Address';" value="Email Address"><input name="email2" type="image" src="http://images.tigerdirect.com/mastheadusb/gobtn1.gif" style="border:0; padding-left:0px;" alt="search" width="42" height="22" border="0"> <input type="hidden" name="listcode2" value="MH"> <input type="hidden" name="LyrisType2" value="SUBSCRIBE"> </form></div>
+                  <form name="subscribe" method="post" action="http://www.tigerdirect.com/applications/email/d_subscribe.asp" onsubmit="return chkEml(this.email)"> <img src="http://images.tigerdirect.com/mastheadusb/Pinkbacksrch.gif" border="0"><input id="tigerv2_form" name="email" type="text" size="13" maxlength="50" onfocus="if(this.value=='Email Address')this.value='';" onblur="if(this.value=='')this.value='Email Address';" value="Email Address"><input name="email2" type="image" src="http://images.tigerdirect.com/mastheadusb/pinkgobutton1.gif" style="border:0; padding-left:0px;" alt="search" width="42" height="22" border="0"> <input type="hidden" name="listcode2" value="MH"> <input type="hidden" name="LyrisType2" value="SUBSCRIBE"> </form></div>
             	</div><!--deal alert ends here-->           
                   
                     
@@ -294,12 +387,37 @@ height:22px;
              
                 	  <div class="tigerv2_tabbedouter">
                         <ul id="tigerv2_tabbedmenu">
-                          <li><a href="/sectors/computers/index.asp" title="Computers"><span>Computers</span></a></li>
-                         <li><a href="/sectors/electronics/index.asp" title="Electronics"><span>Electronics</span></a></li>
-                          <li><a href="/sectors/pccomponents/index.asp" title="PC Parts"><span>PC Parts</span></a></li>
-                          <li><a href="/sectors/accessories/index.asp" title="Accessories"><span>Accessories</span></a></li><li><a href="https://www.tigerdirect.com/cgisec/orderTrack.asp" title="Track My Order"><span>Track My Order</span></a></li>
-                          <li><a href="/sectors/rebates/index.asp" title="Rebate Center"><span>Rebate Center</span></a></li>
-                          <li><a href="/sectors/help/index.asp" title="Customer Care"><span>Customer Care</span></a></li>
+                          
+                          <li>
+                          <a href="/sectors/computers/index.asp" title="Computers"><span>Computers</span></a></li>
+                          
+                          
+                          <li>
+                          <a href="/sectors/electronics/index.asp" title="Electronics"><span>Electronics</span></a></li>
+                          
+                           
+                          <li>
+                          <a href="/sectors/pccomponents/index.asp" title="PC Parts"><span>PC Parts</span></a></li>
+                          
+                           
+                          <li>
+                          <a href="/sectors/accessories/index.asp" title="Accessories"><span>Accessories</span></a></li>
+                          
+                          
+                          <li>
+                          <a href="https://www.tigerdirect.com/cgisec/orderTrack.asp" title="Track My Order"><span>Track My Order</span></a></li>
+                          
+                           
+                          <li>
+                          <a href="/sectors/rebates/index.asp" title="Rebate Center"><span>Rebate Center</span></a></li>
+                          
+                           
+                          <li>
+                          <a href="/sectors/help/index.asp" title="Customer Care"><span>Help</span></a></li>
+                          
+                            
+                          <li>
+                          <a href="/retailstores/index.asp" title="Outlet Stores"><span>Outlet Stores</span></a></li>
                         </ul>
                       </div>
              
@@ -311,39 +429,42 @@ height:22px;
    
     </div> 
       <!--bottom with thin blue border-->
-        <div style="background-image:url(http://images.tigerdirect.com/mastheadusb/bottomblueback.gif); background-repeat:repeat-x; height:8px; width:941px; margin:0px; padding:0px;"></div>  
+        <div class="bottomblueborder" style="width:941px;"></div>  
 
 </div>
 
-
-<div style="margin-top:2px;">
-<!-- begin ad tag-->
-<iframe src="https://ad.doubleclick.net/adi/tigerdirect.com/Section_3_House;sz=941x40;ord=[timestamp]?" width="941" height="40" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
-<script language="JavaScript" src="https://ad.doubleclick.net/adj/tigerdirect.com/Section_3_House;sz=941x40;abr=!ie;ord=[timestamp]?" type="text/javascript"></script>
-</iframe>
-<noscript><a href="https://ad.doubleclick.net/jump/tigerdirect.com/Section_3_House;sz=941x40;abr=!ie4;abr=!ie5;abr=!ie6;ord=[timestamp]?" target="_blank"><img src="https://ad.doubleclick.net/ad/tigerdirect.com/Section_3_House;sz=941x40;abr=!ie4;abr=!ie5;abr=!ie6;ord=[timestamp]?" width="941" height="40" border="0" alt=""></a></noscript>
-<!-- End ad tag -->
-
-</div>
-
+	
+	<!-- begin ad tag-->
+	
+    <div style="margin-top:2px;">
+	<iframe src="http://ad.doubleclick.net/adi/tigerdirect.com/Section_3_House;sz=941x40;ord=[timestamp]?" width="941" height="40" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
+	<script language="JavaScript" src="http://ad.doubleclick.net/adj/tigerdirect.com/Section_3_House;sz=941x40;abr=!ie;ord=[timestamp]?" type="text/javascript"></script>
+	</iframe>
+	<noscript><a href="http://ad.doubleclick.net/jump/tigerdirect.com/Section_3_House;sz=941x40;abr=!ie4;abr=!ie5;abr=!ie6;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/tigerdirect.com/Section_3_House;sz=941x40;abr=!ie4;abr=!ie5;abr=!ie6;ord=[timestamp]?" width="941" height="40" border="0" alt=""></a></noscript>
+	</div>
+    
+	<!-- End ad tag -->
+	
 <img src="http://images.tigerdirect.com/main/pixel-clr.gif" height="2" width="1"><br>
 <table width="770" border="0" class="maintbl" cellpadding="0" cellspacing="0">
   <tbody><tr> 
     <td width="140" align="left" valign="top"> 
       
 		
-<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#DCE6FB">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#fdd2e7">
    <tbody><tr>			  
 	<td width="137" nowrap="" class="sidenav_grey" style="padding-left: 4px; padding-right: 4px;"> 
 	  
 		<a title="PC &amp; Computer Accessories" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=1&amp;name=Accessories" class="sidenav_grey">Accessories</a><br>
 		<a title="PC &amp; Computer Barebone Systems" href="http://www.tigerdirect.com/applications/category/category_tlc.asp?CatId=31&amp;name=Barebone-Kits" class="sidenav_grey">Barebone 
 		Kits</a><br>
+        <a title="Bluetooth Center" href="http://www.tigerdirect.com/applications/campaigns/campaigntemplate.asp?CampaignID=547" class="sidenav_grey">Bluetooth</a><br>
 		<a title="PC &amp; Computer Cables" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=3&amp;name=Cables" class="sidenav_grey">Cables</a><br>
+        	<a title="Digital Cameras &amp; Digital Video Cameras" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=129&amp;name=Camcorders" class="sidenav_grey">Camcorders</a><br>
 		<a title="PC &amp; Computer Cases" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=32&amp;name=Computer-Cases" class="sidenav_grey">Computer 
 		Cases</a><br>
-        <a title="Computers" href="http://www.tigerdirect.com/applications/Category/category_tlcNEW.asp?CatId=6" class="sidenav_grey">Computers</a><br>
-		<a title="Digital Cameras &amp; Digital Video Cameras" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=129&amp;name=Camcorders" class="sidenav_grey">Camcorders</a><br>
+        <a title="Computers" href="http://www.tigerdirect.com/sectors/computers/index.asp" class="sidenav_grey">Computers</a><br>
+	
 		<a title="CD Burners &amp; DVD Burners" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=4&amp;name=CD-DVD-Burners" class="sidenav_grey">CD 
 		/ DVD Burners</a><br>
 		
@@ -375,8 +496,7 @@ height:22px;
 		<a title="PC &amp; Computer Furniture" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=221&amp;name=Furniture" class="sidenav_grey">Furniture</a><br>
 		<a title="Gaming" href="http://www.tigerdirect.com/applications/category/category_tlc.asp?CatId=2900" class="sidenav_grey">Gaming</a><br>
 		<a title="Car GPS, Handheld GPS, Marine GPS" href="http://www.tigerdirect.com/applications/category/category_tlc.asp?CatId=2372&amp;name=GPS-Navigation" class="sidenav_grey">GPS Navigation</a><br>
-		<a title="PC &amp; Computer Hard Drives" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=8&amp;name=Hard-Drives" class="sidenav_grey">Hard 
-		Drives</a><br>
+		<a title="Hard Disk Drives" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=8&amp;name=Hard-Disk-Drives" class="sidenav_grey">Hard Drives</a><br>
 		<a title="Hard Drive Enclosure" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=2777&amp;name=Hard-Drive-Enclosure" class="sidenav_grey">Hard 
 		Drive Enclosure</a><br>
         <a title="Home Theater" href="http://www.tigerdirect.com/applications/category/category_tlc.asp?CatId=353" class="sidenav_grey">Home Theater</a><br>
@@ -384,17 +504,17 @@ height:22px;
 		&amp; Toner</a><br>
 		<a title="Keyboards, Mice, Joysticks, Keypads" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=9&amp;name=Keyboard-Mice-Input" class="sidenav_grey">Keyboard 
 		/ Mice / Input</a><br>
-		<a title="Notebook Computers, Widescreen Laptops, Accessories" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=17&amp;name=Laptops-Notebooks" class="sidenav_grey">Laptops 
-		/ Notebooks</a><br>
-		<a title="LCD TVs, Plasma TVs, Rear Projection TVs" href="http://www.tigerdirect.com/applications/category/category_tlc.asp?CatId=37&amp;name=LCD-TVs-HDTV-TV-Plasma-TVs-DLP-TV" class="sidenav_grey">LCD 
-		TV / HDTV / Plasma</a><br>
-		
-		&nbsp;&nbsp;<a title="DIRECTV" href="http://www.tigerdirect.com/applications/campaigns/campaigntemplate.asp?CampaignID=299&amp;name=DirectTV" class="sidenav_grey">DIRECTV</a><br>
-		
+		<a title="Laptops &amp; Notebooks" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=17&amp;name=Laptops-Notebooks" class="sidenav_grey">Laptops / Notebooks</a><br>
+		<a title="Televisions, TVs" href="http://www.tigerdirect.com/applications/category/category_tlc.asp?CatId=37&amp;name=Televisions-TVs" class="sidenav_grey">LCD TVs / HDTV / Plasma</a><br>
 		<a title="CD-R Discs, CD-RW Discs, DVD Media, Tape Cartridges" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=2&amp;name=Media-CD-DVD-Tape" class="sidenav_grey">Media 
 		(CD DVD Tape)</a><br>
 		<a title="PC Memory, Memory Configurator, DDR RAM, SDRAM" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=10&amp;name=Memory-RAM" class="sidenav_grey">Memory 
 		/ RAM</a><br>
+        
+        
+        <a title="Microsoft, Microsoft Office, Microsoft Operating System, Microsoft Server, Volume Software Licenses" href="http://www.tigerdirect.com/sectors/campaigns/include/microsoft_main.asp" class="sidenav_grey">Microsoft</a><br>
+        
+        <a title="56k Modems, , DSL/Cable Modems, Modem Accessories " href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=11&amp;name=Modems" class="sidenav_grey">Modems</a><br>
 		<a title="LCD Displays, CRT Displays, Touchscreen Displays" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=12&amp;name=Monitor-LCDs" class="sidenav_grey">Monitors 
 		&amp; LCDs</a><br>
 		&nbsp;&nbsp;<font color="#CC0000"></font><a title="22 Inch LCD Displays &amp; Monitors" href="http://www.tigerdirect.com/applications/category/category_slc.asp?CatId=2775&amp;name=22-Inch-Widescreen-LCDs" class="sidenav_grey">22" 
@@ -409,6 +529,7 @@ height:22px;
 		
 		</a><br>
 		<a title="Network Cables, Routers, Switches, Starter Kits" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=16&amp;name=Networking" class="sidenav_grey">Networking</a><br>
+
 		<a title="UPS Battery Backup, Surge Protectors, Power Strips" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=20&amp;name=Power-Protection" class="sidenav_grey">Power 
 		Protection</a><br>
 		<a title="Power Supply Units, SLI PSUs, PSU Testers" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=106&amp;name=Power-Supplies" class="sidenav_grey">Power 
@@ -420,14 +541,15 @@ height:22px;
 		<a title="Computer Scanners, Flatbed Scanners, Handheld Scanners" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=25&amp;name=Scanners" class="sidenav_grey">Scanners</a><br>
 		<a title="Security, Surveillance" href="http://www.tigerdirect.com/applications/category/category_slc.asp?CatId=1322&amp;name=Security &amp; Surveillance" class="sidenav_grey">Security &amp; Surveillance</a><br>
 		<a title="PC &amp; Computer Servers, Systemax Servers" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=30&amp;name=Servers" class="sidenav_grey">Servers</a><br>
+        <a title="Services" href="http://www.tigerdirect.com/applications/category/category_tlc.asp?CatId=4032" class="sidenav_grey">Services</a><br>
 		<a title="Business Software, Educational Software, Security Software" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=26&amp;name=Software" class="sidenav_grey">Software</a><br>
 		
 		&nbsp;&nbsp;<font color="#CC0000"></font><a title="Downloadable Software" href="http://www.tigerdirect.com/applications/campaigns/campaigntemplate.asp?CampaignID=594" class="sidenav_grey">Downloadable 
 		Software</a><br>
 		
-        <a title="Sound Cards" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=107" class="sidenav_grey">Sound Cards</a><br>
+        <a title="Sound Cards" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=107&amp;name=Sounds-Cards" class="sidenav_grey">Sound Cards</a><br>
 		<a title="Multimedia Speakers, Surround Speakers, Headphones" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=98&amp;name=Speakers" class="sidenav_grey">Speakers</a><br>
-		<a title="LCD Televisions, Plasma Televisions, HDTV" href="http://www.tigerdirect.com/applications/category/category_tlc.asp?CatId=37&amp;name=LCD-TVs-HDTV-TV-Plasma-TVs-DLP-TV" class="sidenav_grey" "="">Televisions</a><br>
+		<a title="LCD Televisions, Plasma Televisions, HDTV" href="http://www.tigerdirect.com/applications/category/category_tlc.asp?CatId=37&amp;name=LCD-TVs-HDTV-TV-Plasma-TVs-DLP-TV" class="sidenav_grey">Televisions</a><br>
 		<a title="USB Drives, USB Disk Drives, USB Memory Drives" href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=379&amp;name=USB-Flash-Drives" class="sidenav_grey">USB 
 		Flash Drives</a><br>
 		<a title="Video Capture Cards, Digital Video Capture Cards" href="http://www.tigerdirect.com/applications/category/category_tlc.asp?CatId=1423&amp;name=Video-Capture" class="sidenav_grey">Video 
@@ -438,7 +560,8 @@ height:22px;
 		Networking</a><br>
 		
 		<img src="http://images.tigerdirect.com/frontpage/gfx-grayline1.gif" width="125" height="9"><br>
-		<a title="TigerDirect.com Gift Cards &amp; Gift Ideas" href="http://www.tigerdirect.com/sectors/giftcenter/index.asp?name=Gift-Cards-and-Gift-Ideas" class="sidenav_grey">Gift 
+        
+        <a title="TigerDirect.com Gift Cards &amp; Gift Ideas" href="http://www.tigerdirect.com/sectors/giftcenter/index.asp?name=Gift-Cards-and-Gift-Ideas" class="sidenav_grey">Gift 
 		Cards &amp; Gift Ideas</a><br>
 		<a title="Guidester Shopping Tools" href="http://www.tigerdirect.com/applications/partners/guidester/index.asp?name=Need-Help-Deciding" class="sidenav_grey">Need 
 		Help Deciding?</a><br>
@@ -446,14 +569,16 @@ height:22px;
 		Deals</a><br>
 		<a title="Big Savings Open Box Specials" href="http://www.tigerdirect.com/applications/openbox/openbox_tlc.asp?name=Open-Box-Deals" class="sidenav_grey">Open 
 		Box Deals</a><br>
+        <a title="Overstock Clearance" href="http://www.tigerdirect.com/applications/overstock/overstock_tlc.asp" class="sidenav_grey">Overstock Clearance</a><br>
+        <a title="Shop by Brand" href="http://www.tigerdirect.com/applications/partners/index.asp?name=Shop-By-Brand" class="sidenav_grey">Shop by Brand</a><br>
+        <a title="Shop by Color" href="http://www.tigerdirect.com/applications/category/category_tlc.asp?CatId=4053" class="sidenav_grey">Shop by Color</a><br>
 		
 		<img src="http://images.tigerdirect.com/frontpage/gfx-grayline1.gif" width="125" height="9"><br>
 		<a title="TigerDirect.com RSS Deal Alerts" href="http://www.tigerdirect.com/rss/index.asp?name=Deal-Alerts-via" class="sidenav_grey">Deal 
 		Alerts via<img src="http://images.tigerdirect.com/main/icon_rss.gif" hspace="2" border="0" align="absmiddle"></a><br>
 		
-		<a title="TigerDirect Gold Card" href="https://www.tigerdirect.com/cgisec/wfApp.asp?name=Tiger-Gold-Card" class="sidenav_grey">Tiger 
-		Gold Card<br>
-		</a> <a href="/sectors/recycle/index.asp?name=Recycle-Computers" class="sidenav_grey">Recycle 
+		
+		 <a href="/sectors/recycle/index.asp?name=Recycle-Computers" class="sidenav_grey">Recycle 
 		Computers</a><br>
 		<a href="/applications/campaigns/campaigntemplate.asp?CampaignID=271&amp;name=Whats-New" class="sidenav_grey">What's 
 		New</a><br>
@@ -462,24 +587,26 @@ height:22px;
 		Catalog</a><br>
 		<a href="http://news.tigerdirect.com" class="sidenav_grey">TigerDirectNews</a><br>
 		<a href="/sectors/videos/index.asp?name=TigerTV" class="sidenav_grey">TigerTV</a><br>
-		
+       	
+               
+                 
+                 <img src="http://images.tigerdirect.com/sidenav/SGKtop.gif" width="120" height="232"><br>
+                 <a href="http://www.komen.org" target="_blank"><img src="http://images.tigerdirect.com/sidenav/susanKomen2_02.gif" alt="Visit  www.komen.org" width="120" height="18" border="0"></a>
+             
+            
 	  <p></p>
-	  <center>
+<center>
 				<a href="http://www.tigerdirect.com/sectors/recycle/index.asp"><img src="http://images.tigerdirect.com/sidenav/trade-recycle_img1.gif" border="0" vspace="8" alt="Click here to trade in your computer!"></a></center>
-		
-	 </td>
+			 </td>
    </tr>
-</tbody></table>		
-		
-
-<br>
+</tbody></table>
 
 				<img src="http://images.tigerdirect.com/misc/pixel-clr.gif" width="1" height="5"><br>							
 	<!-- URL's used in the movie-->
 					<a href="/sectors/aboutus/employment.asp"></a> 
 	<!-- text used in the movie-->							
 	<!--<P ALIGN="LEFT"><FONT FACE="HelveticaCondensed" SIZE="22" COLOR="#257CD5"><B>WINNING TEAM!</B></FONT></P>We're growing...NATIONWIDEWith opportunities forRetail Stores in:North Carolina?FloridaIllinoisB2B Call Centers in:New YorkGeorgiaCaliforniaTigerDirect Warehouse in:Naperville, IL-->		
-	<center><a href="http://www.tigerdirect.com/sectors/giftcenter/index.asp"><img src="http://images.tigerdirect.com/sitebanners/generic-_giftcard.gif" border="0" style="margin-top: 10px;"></a></center>    
+	<!--<center><a href="http://www.tigerdirect.com/sectors/giftcenter/index.asp"><img src="http://images.tigerdirect.com/sitebanners/generic-_giftcard.gif" border="0" style="margin-top: 10px;"></a></center>    -->
 			   
 
     </td>
@@ -548,398 +675,330 @@ height:22px;
                   <table width="100%" border="0" cellspacing="0" cellpadding="5">
                     <!-- content section -->
                     <tbody><tr> 
-                      <td class="BODYstyle">
-					  <p>TigerDirect.com Privacy Notice </p>
-                      <p>By visiting the TigerDirect.com website 
-                          you agree to accept the practices described in this 
-                          Privacy Notice. </p>
-						  
-                        <font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="1"> 
-                        <strong><a name="general"></a></strong> </font>Your name, 
-                        your personal information and especially your credit card 
-                        number are not stored on the Internet with our system. 
-                        Once you type your information, it is sent instantly, 
-                        encrypted, directly to our order processing system, which 
-                        is on a server separate from the internet. We employ the 
-                        latest 128-bit encryption technology in all areas of the 
-                        site which require you to provide your personal or account 
-                        information. These include online ordering, order status, 
-                        catalog request and sweepstakes forms. This is done to 
-                        protect you from unauthorized use of the information you 
-                        are sending to our server.<br>
-                      </td>
-                    </tr>
-                    <tr> 
-                      <td> 
-                        <p><a name="policy"></a><span class="BodyHEADERS"><strong>Privacy 
-                          Policy Statement</strong></span> <span class="BODYstyle"><br>
-                          
-                          This is the privacy policy for all web sites operated 
-                          by TigerDirect.com. 
-                          
-                          </span></p>
-                        <p><span class="BODYstyle"> 
-                          
-                    </span></p></td></tr>
-                    <tr> 
-                      <td class="BODYstyle"><strong>Contact Information</strong><br>
-                        Our postal address is:<br>
-                        <br>
-                        
-                        <strong><font size="3">TigerDirect.com</font></strong><br>
-                        Attn: Privacy Policy<br>
-                        7795 W Flagler St. Suite 35<br>
-                        Miami, FL 33144<br>
-                        
-                        <br>
-                        You can <a href="../help/form.asp">e-mail us</a> or reach 
-                        us by telephone at <b>800-800-8300</b>.<br>
-                      </td>
-                    </tr>
-                    <tr> 
-                      <td class="BODYstyle"> 
-                        <p>For more than 
-                          
-                          16 
-                          
-                          years, TigerDirect.com has developed 
-                          relationships with our customers based on respect and 
-                          integrity. We're aware of the trust and confidence you 
-                          demonstrate when you visit our website and provide us 
-                          with information. The Privacy Notice below is posted 
-                          to demonstrate our leadership in online security and 
-                          customer service practices. We treat your personal information 
+                      <td class="BODYstyle"> <p><strong><a name="general"></a>TigerDirect.com Privacy Notice</strong> (Updated 12/09/2008)</p>
+                        <p>By visiting the TigerDirect.com website or any other 
+                          websites operated by TigerDirect.com or its affiliates 
+                          (collectively, the “Site”), you agree to 
+                          accept the practices described in this Privacy Notice. 
+                          If you do not agree to the terms of this Privacy Notice, 
+                          please do not use the Site. Each time you use the Site, 
+                          you should check the date of this Privacy Notice (which 
+                          appears above) and review any changes that have been 
+                          made since your last visit to the Site. </p>
+                        <p>Throughout TigerDirect.com’s years of operation, 
+                          we have developed relationships with our customers based 
+                          on respect and integrity. We're aware of the trust and 
+                          confidence you demonstrate when you visit the Site and 
+                          provide us with information. This Privacy Notice is 
+                          posted to demonstrate our leadership in online security 
+                          and customer service practices. We treat your information 
                           with the same honesty and sensitivity that we have displayed 
                           throughout our company's history. <br>
-                          <br>
-                          
                         </p>
-                        <p>We will never share your email address , phone number 
-                          or credit card information with any unrelated 3rd party 
-                          except as necessary to fulfill transactions that you 
-                          initiate.</p>
-                        <p>If you have any questions or concerns about our Privacy 
-                          Notice, please call us toll-free at <b>800-800-8300</b> 
-                          or e-mail us at 
-                          
-                          <a href="mailto:privacy@tigerdirect.com" class="infobutton">privacy@tigerdirect.com</a> 
-                          
-                          or send a letter to: TigerDirect Privacy Officer, 7795 
-                          West Flagler Street Suite #35; Miami, FL 33144 
-                          
-                        </p>
-                       
-                        
-                        <p><b>Changes to this Privacy Notice, Conditions of Use 
-                          and Notices:</b><br>
-                          This Privacy Notice and our Terms of Use will change 
-                          over time and the use of information which we gather 
-                          now is subject to these Notices and Terms as modified. 
-                          Please check this page periodically as you continue 
-                          to use our site to see if any changes have been made. 
-                          This privacy notice was most recently changed on January 
-                          10, 2008. If you visit our Web site your visit and any 
-                          dispute over privacy is subject to this Notice and our 
-                          Legal Notices, including the application of the laws 
-                          of 
-                          
-                          the State of Florida 
-                          
-                        </p>
-                        <p><b>Children</b><br>
-                          TigerDirect.com is a general audience 
-                          site and does not knowingly collect personal identifiable 
-                          information from children under the age of 13 without 
-                          verifiable parental consent. If you are under the age 
-                          of 13, please do not provide personally identifiable 
-                          information of any kind whatsoever. TigerDirect.com 
-                          does not sell products to persons under the age of 18. 
-                          If you are under the age of 18, you are required seek 
-                          the consent of your parent or guardian to purchase products 
-                          from this site.</p>
-                        <p><b>Personal Information Collected By TigerDirect.com:</b><br>
-                          TigerDirect.com uses information that 
-                          we collect from our visitors to personalize and improve 
-                          your visit at TigerDirect.com. We gather 
+                        <p><strong><a name="policy"></a>1. Personal Information 
+                          Collected By TigerDirect.com</strong></p>
+                        <p>TigerDirect.com uses information that we collect from 
+                          our visitors and customers to personalize and improve 
+                          your visit and shopping experience at the Site. We gather 
                           the following types of information: </p>
-                        <p><b>Information you give us:</b> TigerDirect.com 
-                          collects any information which you enter on our Web 
-                          site. This information is normally provided when you 
-                          search, buy, participate in a contest, sweepstakes or 
-                          on-line survey, or when you communicate with any of 
-                          our departments such as customer service, sales or technical 
-                          services through our Web site, telephone, mail or fax. 
-                          You also provide information when you establish an account 
-                          with us. Examples of the type of information you may 
-                          supply us with include your name, address, telephone 
-                          number, credit card information, e-mail addresses, and 
-                          information such as the last four of your Social Security 
-                          number for fraud prevention. In some instances, we ask 
-                          you for other people’s names and email addresses 
-                          for the sole purpose of fulfilling your specific request 
-                          to email certain specific information as part of our 
-                          “email a friend” feature. </p>
-                        <p><b>Automatic Information collected by us:</b> We (or 
-                          agents on our behalf) collect anonymous information 
-                          from visits to our sites through the use of “Web 
-                          Beacons.” Web Beacons are simply web page elements 
-                          which may employ cookie technology that enable us to 
-                          record anonymous data about visits to or transactions 
-                          made on our web site. This anonymous information is 
-                          sometimes known as “clickstream data.” We 
-                          may use this data to analyze trends and statistics to 
-                          improve your online experience, or customer service. 
-                          No personal data is collected through the use of Web 
-                          Beacons on our sites. Through the use of cookies, we 
-                          may also collect and analyze the IP address used to 
-                          connect your computer to the Internet; computer and 
+                        <p><strong>Information You Give to Us:</strong> We Collect 
+                          Personal Information that is provided by Site users. 
+                          “Personal Information” includes your name, 
+                          address, telephone number, credit or debit card information, 
+                          e-mail address, date of birth, IP address and the last 
+                          four digits of your Social Security number. Personal 
+                          Information is collected when you establish an account 
+                          with us, place an order on the Site, participate in 
+                          a contest, sweepstakes or on-line survey, or when you 
+                          communicate with any of our departments such as customer 
+                          service, sales or technical services through the Site, 
+                          telephone, mail or fax. In some instances, we may obtain 
+                          other people’s names and email addresses that 
+                          you may choose to provide as part of our “email 
+                          a friend” feature. </p>
+                        <p><strong>Web Beacons: </strong>We (or service providers 
+                          on our behalf) may collect information from visits to 
+                          the Site through the use of “Web Beacons.” 
+                          Web Beacons are web page elements which may employ cookie 
+                          technology that enable us to record data about visits 
+                          to or transactions made on the Site. This information 
+                          is sometimes known as “clickstream data.” 
+                          We may use this data to analyze trends and statistics 
+                          to improve your online experience or our customer service. 
+                          No Personal Information is collected through the use 
+                          of Web Beacons on the Site. </p>
+                        <p><strong>Cookies: </strong>Through the use of cookies, 
+                          we may also collect and analyze the IP address used 
+                          to connect your computer to the Internet; computer and 
                           connection information such as your browser type and 
                           version; operating system and platform; purchase history; 
                           confirmation when you open e-mail that we send you; 
-                          and the URLs which lead you to and around our Web site 
-                          including the date and time. You can generally set your browser to reject cookies or to notify you when you are sent a cookie.  There is also software available from third parties which will allow you to visit our Web site without providing this information. You are welcomed at our Web site if you use this software but we will not be able to offer you our personalized services and we will be unable to accept any online orders from you.<br>
-
-<br>
-Third parties who are contracted with us who may use cookies and collect information on our behalf are prohibited by our contract with them from sharing that information with anyone other than us or our Service Providers. However, we respect your right to choose whether to be included in such services. If you would like to opt out of these services, please <a href="javascript:optpop()">click here.</a>
-
-</p>
-                        <p><b>Orders:</b> If you place an order we use a secure 
-                          order form which requires you to provide contact, billing, 
-                          and payment information. This information is transmitted 
-                          to your credit card company to authorize your purchase. 
-                          
-						  At certain times we may offer financing options with 
-                          or without third party participation. If you use a financing 
-                          option, information provided by you (such as your address, 
-                          birth date, social security number, and credit card 
-                          number) may be used to request a credit report from 
-                          third parties or may be sent to a third party for processing. 
-                          You will always be informed of this at the time you 
-                          select any available financing option.
-						  
-						  All information obtained from you in the course of transacting orders 
-                          is used for the purpose of fulfilling your order in 
-                          a timely manner and for communicating the status of 
-                          your order with you. Additionally, upon placing an order, 
-                          you will begin receiving both the TigerDirect.com 
-                          catalog and the TigerDirect.com email 
-                          newsletter unless you opt-out of either or both by <a href="/applications/email/emailmanager.asp ">clicking 
-                          here</a> or calling us at 800-800-8300.</p>
-                        <p><b>Email Newsletter Subscription:</b> If you request 
-                          an email newsletter subscription, we will send you an 
-                          email confirming your request. This confirmation process 
-                          allows you to unsubscribe if you changed your mind and 
-                          decided not to join the list. Furthermore, the confirmation 
-                          email will alert you if someone else had entered your 
-                          email address into our email newsletter. In order to 
-                          make our emails more relevant and useful to you, our 
-                          servers may receive a confirmation when you open email 
-                          from TigerDirect.com.<br>
-                          <br>
-                          <b>Sweepstakes Entrants:</b> If you enter a TigerDirect.com 
-                          sponsored sweepstakes, we employ a double opt-in subscription 
-                          program. Upon registration, you will receive a confirmation 
-                          email to the email address you gave us with a link contained 
-                          within it or instructions for completing the subscription 
+                          and the URLs which lead you to and around the Site including 
+                          the date and time. You can generally set your browser 
+                          to reject cookies or to notify you when you are sent 
+                          a cookie. Software is also available from third parties 
+                          which will allow you to visit the Site without providing 
+                          this information. You are welcome to use the Site if 
+                          you use such software but we will not be able to offer 
+                          you our personalized services and we will be unable 
+                          to accept any online orders from you.</p>
+                        <p><strong>Orders:</strong> If you place an order through 
+                          the Site, you will be required to provide contact, billing, 
+                          and payment information. </p>
+                        <p><strong>Catalog Requests and Email Newsletter Subscriptions:</strong> 
+                          Upon placing an order through the Site, you will automatically 
+                          begin receiving both the TigerDirect.com catalog and 
+                          the TigerDirect.com email newsletter, based on the Personal 
+                          Information you have provided, unless you opt-out of 
+                          receiving such communications. If you request an email 
+                          newsletter subscription, we will send you an email confirming 
+                          your request. This confirmation process allows you to 
+                          unsubscribe if you change your mind and decide not to 
+                          join the list. Furthermore, the confirmation email will 
+                          alert you if someone else has entered your email address 
+                          into our email newsletter subscription list. In order 
+                          to make our email newsletters more relevant and useful 
+                          to you, our servers may receive a confirmation when 
+                          you open an email message from TigerDirect.com.</p>
+                        <p><strong>Sweepstakes Entrants: </strong>From time to 
+                          time, we may run sweepstakes. If you enter sweepstakes 
+                          sponsored by us, we employ a double opt-in subscription 
+                          program. Upon registration, a confirmation email will 
+                          be sent to the email address you provide to us in connection 
+                          with your entry which will include instructions, or 
+                          a link to instructions, for completing the subscription 
                           process. You will not be entered until you click through 
-                          the link in the email we sent you or otherwise follow 
+                          the link in the email we send to you or otherwise follow 
                           the instructions contained therein. In order to make 
-                          our emails more relevant and useful to you, our servers 
-                          may receive a confirmation when you open email from 
-                          TigerDirect.com.</p>
-                        <p> 
-                          
-                          <span class="verdana1"><b><!--<a href="http://www.ArialSoftware.com/bestpractices2004.htm"><img src="http://www.arialsoftware.com/logos/EBPA_150px.gif" align="right" border="0" alt="Email Best Practices Award"></a>-->CAN-SPAM 
-                          Compliance and Email Best Practices Award: </b>On August 
-                          11, 2004, TigerDirect was awarded the <i>2004 Email 
-                          Best Practices Award </i>from a research project that 
-                          examined the email marketing practices of 1,057 companies. 
-                          The research was conducted by Arial Software during 
-                          the first half of 2004, and out of 1,057 companies examined, 
-                          only 65 companies were found to be in full compliance 
-                          with the federal CAN-SPAM Act and to demonstrate ethical, 
-                          professional email marketing practices. </span><br>
-                          
-                        </p>
-                        <p><br>
-                          <b>Sharing of Information with third-parties: </b> </p>
-                        <p><b>Independent Contractors:</b> We may employ other 
+                          our sweepstakes more relevant to you, our servers may 
+                          receive a confirmation when you open an email message 
+                          from us.</p>
+                        <p><strong>2. Use of Information Collected By Use</strong></p>
+                        <p> We use this information in an effort to improve your 
+                          experience on the Site, to provide services to you and 
+                          to communicate with you about information that you request. 
+                          We may also use this information to help us target specific 
+                          offers to you, to help us develop and improve our Site, 
+                          and to tailor our Site to your interests. </p>
+                        <p><strong>3. Sharing of Information with Third Parties 
+                          </strong></p>
+                        <p>We will not rent, sell or otherwise disclose your Personal 
+                          Information to unrelated third parties without your 
+                          consent, except as stated in this Privacy Notice.</p>
+                        <p><strong>Service Providers: </strong>We may employ other 
                           companies or individuals to provide certain services 
-                          to us such as analyzing customer lists and data, providing 
-                          marketing assistance, or consulting services. These 
-                          third parties will have access to only the information 
-                          needed to perform these limited functions and are required 
-                          to provide your personal information with at least the 
-                          same level of protection and security as TigerDirect.com. 
-                          Such third parties are prohibited from using your personal 
-                          information for any other purpose. 
-                          
-                          Any 3rd parties who use our data will be fully bound 
-                          by this privacy policy. 
-                          
-                          In no event will the data being used by any unrelated 
-                          third party include your email address.</p>
-                        <p><b>Orders:</b> We will never share any telephone number(s), 
-                          e-mail addresses, or credit card information which you 
-                          have given us with any marketing partner(s) or any unrelated 
-                          3rd party. 
-                          
-                          We may, however, share your name and postal mailing 
-                          address with a few carefully selected marketing partners. 
-                          You may opt-out of sharing this information at any time 
-                          by calling our customer service department at 800-800-8300 
-                          or email <a href="mailto:privacy@tigerdirect.com">privacy@tigerdirect.com</a>. 
+                          to or on behalf of us such as analyzing customer lists 
+                          and data, or performing marketing or consulting services. 
+                          These third parties (“Service Providers”) 
+                          will only have access to the information needed to perform 
+                          these limited functions on our behalf and are required 
+                          to provide your Personal Information with at least the 
+                          same level of protection and security as we use on the 
+                          Site. Such Service Providers are prohibited from using 
+                          your Personal Information for any purpose other than 
+                          that for which such party was engaged by us and/or as 
+                          stated in this Privacy Notice. Any Service Providers 
+                          that use data received from us may only do so in accordance 
+                          with this Privacy Notice. </p>
+                        <p><strong>Credit Card Companies:</strong> If you place 
+                          an order through the Site, the Personal Information 
+                          you provide is transmitted to your credit card company 
+                          to verify and authorize your purchase. At certain times 
+                          we may offer financing options with or without third 
+                          party participation. If you use a financing option, 
+                          information provided by you (such as your address, birth 
+                          date, social security number, and credit card number) 
+                          may be used to request a credit report from third parties 
+                          or may be sent to a third party for processing.</p>
+                        <p><strong>Fraud Prevention:</strong> We use a third party 
+                          service provider, Ethoca, Inc., to assist us with preventing 
+                          and monitoring fraudulent activity on the Site. When 
+                          you make a purchase on the Site, we may send your Personal 
+                          Information to Ethoca in order to receive a credit assessment 
+                          based on such information. Ethoca may also store and 
+                          use this information in order to expand its fraud prevention 
+                          database, which may be accessible by other retailers 
+                          that are part of Ethoca’s anti-fraud network. 
+                          Ethoca has agreed (i) not to use your Personal Information 
+                          for any reason except to as described in this Privacy 
+                          Notice, (ii) to maintain the confidentiality of your 
+                          Personal Information, and (iii) to provide your Personal 
+                          Information with at least the same level of protection 
+                          and security as provided on the Site. If you would like 
+                          more information concerning Ethoca’s privacy practices, 
+                          go to www.ethoca.com. In the event that your purchase 
+                          is denied based on a risk assessment provided to us 
+                          by Ethoca, you may contact us at ethoca@help.TigerDirect.com 
+                          to dispute the information contained in such risk assessment. 
                         </p>
-                        <p><b>Aggregate information:</b> We provide aggregate 
-                          information to some of our business partners. This information 
-                          does not identify you individually in any way. </p>
-                        <p><b>Credit card companies and shippers:</b> When you 
-                          buy something from us we send your credit card information, 
-                          name, billing address and the amount of your purchase 
-                          to your credit card company to verify and authorize 
-                          the purchase. Your name, telephone number and shipping 
-                          information must be provided to third party shippers 
-                          such as UPS, Federal Express and the 
-                          <!--Noel L edit -->
-                          
-                          United States Postal Service 
-                          
-                          to deliver your purchase. There also may be instances 
-                          in which we drop-ship orders directly to you from one 
-                          of our manufacturers or suppliers. These drop-shippers 
-                          are only given your name, postal address, and telephone 
+                        <p><strong>Third Party Marketing Partners: </strong>We 
+                          may, from time to time, share your name and postal mailing 
+                          address with a few carefully selected third party marketing 
+                          partners that we believe offer products or services 
+                          that may be of interest to you. We will never share 
+                          any telephone number(s), e-mail addresses, or credit 
+                          card information which you have given us with any such 
+                          third party marketing partner(s). </p>
+                        <p><strong>Aggregate Information: </strong>We provide 
+                          aggregate information to some of our business partners. 
+                          This information is used in a collective manner and 
+                          does not identify you individually in any way. We collect 
+                          and share aggregate information in order to know more 
+                          about the general profile of our customers so that we 
+                          can improve your shopping experience. </p>
+                        <p><strong>Shippers: </strong>If you make a purchase through 
+                          the Site, your name, telephone number and shipping information 
+                          must be provided to third party shippers such as UPS, 
+                          FEDEX and the United States Postal Service to deliver 
+                          your purchase. There also may be instances in which 
+                          we drop-ship orders directly to you from one of our 
+                          manufacturers or suppliers. These drop-shippers are 
+                          only given your name, postal address, and telephone 
                           number for the sole purpose of fulfilling your order.</p>
-                        <p><b>Third Party Transaction-Level Data:</b> If you visit 
-                          our site from a third-party site the third-party site 
-                          may be able to access select information from your individual 
-                          transaction information. In order to track and credit 
-                          your transaction the third-party site may give you a 
-                          unique code, cookie or graphic which will uniquely identify 
-                          you. This will only happen if you link directly from 
-                          a third party site to our Web site. Any transactions 
-                          made at our Web site while such a code is active will 
-                          be reported back to the third party site. We will only 
-                          report non-personal information to these sites such 
-                          as the date of the transaction, the product(s) purchased 
-                          and the amount spent. We will not report any information 
-                          to these third party sites that will allow them to personally 
-                          identify you and will never share your email address 
-                          with any 3rd party. The presence of a 3rd party navigation 
-                          bar atop our site is an indication that the third party 
-                          site may be able to see your activity on our site </p>
-                        <p><b>Link to Third Party Site:</b> Our Web site contains 
-                          certain links to third party sites, such as our vendors. 
-                          TigerDirect.com is not responsible or 
-                          liable for the privacy practices or content found on 
-                          these sites. We recommend that you check the Privacy 
-                          Notice of each site you visit. </p>
-                        <p><b>Catalog Requests:</b> When you request a catalog 
-                          from TigerDirect.com we share your name 
-                          and postal address with a 3rd party fulfillment company 
-                          for the sole purpose of sending you the requested catalog. 
-                          This 3rd party does not store the information nor does 
-                          it use this information for anything other than its 
-                          intended purpose.</p>
-                        <p><b>Information about Third Parties:</b><br>
-                          TigerDirect.com maintains relationships 
-                          with other websites that operate as its affiliates, 
-                          however, TigerDirect.com has no control 
-                          over their activities. TigerDirect.com 
-                          will immediately cease doing business with any affiliate 
-                          that abuses the terms of the affiliate agreement. This 
-                          includes, but is not limited to: spam, trademark infringement, 
-                          predatory means of attracting visitors, or unlawful 
-                          activities. To report abuse by an affiliate, please 
-                          contact our Affiliate Manager at 305-415-2313 or email 
-                          
-                          <a href="mailto:affiliates@tigerdirect.com" class="infobutton">affiliates@TigerDirect.com</a> 
-                          
+                        <p><strong>Third Party Transaction-Level Data:</strong> 
+                          If you visit the Site from a third-party website the 
+                          third-party website may be able to access select information 
+                          from your individual transaction information. In order 
+                          to track and credit your transaction the third-party 
+                          website may give you a unique code, cookie or graphic 
+                          which will uniquely identify you. This will only happen 
+                          if you link directly from a third party website to the 
+                          Site. Any transactions made at the Site while such a 
+                          code is active will be reported back to the third party 
+                          website. We will only report non-Personal Information 
+                          to these websites such as the date of the transaction, 
+                          the product(s) purchased and the amount spent. We will 
+                          not report any information to these third party websites 
+                          that will allow them to personally identify you. The 
+                          presence of a third party navigation bar at the top 
+                          of any page on the Site is an indication that the third 
+                          party website may be able to see your activity on the 
+                          Site. </p>
+                        <p><strong>Links to Third Party Site:</strong> The Site 
+                          contains certain links to third party websites, such 
+                          as our vendors. We are not responsible or liable for 
+                          the privacy practices or content found on these websites. 
+                          We recommend that you check the privacy notice of each 
+                          website you visit. Links to third party websites are 
+                          provided solely for your convenience and any submission 
+                          of data to such websites shall be at your sole risk. 
                         </p>
-                        <p><b>Law Enforcement and Protection of Users:</b><br>
-                          To the extent permitted by law, we will disclose personally 
-                          identifiable information to government authorities or 
-                          third parties pursuant to a legal request, subpoena 
-                          or other legal process. We may also use or disclose 
-                          you information as permitted by law to perform charge 
-                          verifications, report or collect debts owed, fight fraud 
-                          or protect the rights or property of TigerDirect.com, 
-                          our customers, our website or its users.</p>
-                        <p><b>Business Transfer:</b><br>
-                          TigerDirect.com has been in business 
-                          for over 
-                          
-                          16 
-                          
-                          years and is a wholly owned subsidiary of Systemax, 
-                          Inc., a Fortune 1000 Company (NYSE symbol SYX), and 
-                          our intent is to continue operating for many years to 
-                          come. However, in the unlikely event that TigerDirect.com 
-                          is sold, has its assets acquired or transferred, whether 
-                          voluntarily or involuntarily, or merges or becomes affiliated 
-                          with any other division, individual or entity, any customer 
-                          information owned or under the control of TigerDirect.com 
-                          may be one of the transferred assets. </p>
-                        
-						 
-						<p><b>Security:</b><br>
-                          We employ the latest 128-bit encryption technology in 
-                          all areas of the site which require you to provide your 
-                          personal or account information, including online ordering, 
-                          order status, catalog request and most contest forms. 
-                          Your name, your personal information and especially 
-                          your credit card number are safely stored in our proprietary 
-                          systems behind our firewall. Once you type your personal 
-                          information, it is sent instantly, encrypted, directly 
-                          to our order processing system which is on a server 
-                          separate from our Internet server. To make sure you 
-                          have the latest security features on your browser, you 
-                          may want to download the most recent version of your 
-                          favorite browser, which should have full SSL support.</p>
-						  
-                        <p><b>Choice/Opt-Out:</b><br>
-                          Our Web site gives you the opportunity to opt-out of 
-                          receiving marketing communications from us. If you no 
+                        <p><strong>Catalog Requests: </strong>When you request 
+                          a catalog from us, we share your name and postal address 
+                          with a third party fulfillment company for the sole 
+                          purpose of sending you the requested catalog. This third 
+                          party is not permitted to store the information is only 
+                          authorized to use this information for to transmit catalogs 
+                          to you.</p>
+                        <p><strong>Law Enforcement and Protection of Users: </strong>To 
+                          the extent permitted by law, we will disclose Personal 
+                          Information to government authorities or third parties 
+                          pursuant to a legal request, subpoena or other legal 
+                          process. We may also use or disclose your information 
+                          as permitted by law to perform charge verifications, 
+                          report or collect debts owed, fight fraud or protect 
+                          our rights or property as well as those of our affiliates, 
+                          customers, or its users. You should be aware that, following 
+                          disclosure to any third party, your Personal Information 
+                          may be accessible by others to the extent permitted 
+                          or required by applicable law. </p>
+                        <p><strong>4. Affiliate Programs</strong></p>
+                        <p>We maintain relationships with third party affiliate 
+                          websites. Although we do not and cannot control the 
+                          activities of the third parties that operate such websites, 
+                          we will cease doing business with any affiliate that 
+                          engages in abusive practices, including, for example, 
+                          spam, trademark infringement, predatory means of attracting 
+                          visitors, or unlawful activities. To report abuse by 
+                          an affiliate, please contact our Affiliate Manager via 
+                          email at affiliates@TigerDirect.com.</p>
+                        <p><strong>5. Children and Privacy</strong></p>
+                        <p>The Site is a general audience website and is not directed 
+                          to children under the age of 13. We will never knowingly 
+                          collect personally identifiable information from children 
+                          under the age of 13 without verifiable parental consent. 
+                          If you are under the age of 13, please do not provide 
+                          us with personally identifiable information of any kind 
+                          whatsoever. If we become aware that a user is under 
+                          the age of 13 and has submitted Personal Information 
+                          without verifiable parental consent, we will remove 
+                          his or her personally identifiable information from 
+                          our files. We understand that children may not fully 
+                          understand all of the provisions of this Privacy Notice 
+                          or make informed decisions about the choices that are 
+                          made available to adult users of the Site. We encourage 
+                          parents and guardians to spend time with their children 
+                          online and to be familiar with the websites they visit. 
+                          TigerDirect.com does not sell products to persons under 
+                          the age of 18. If you are under the age of 18, you are 
+                          required seek the consent of your parent or guardian 
+                          to purchase products from the Site.</p>
+                        <p><strong><a name="SSL" id="SSL"></a>6. Security</strong></p>
+                        <p>We employ 128-bit encryption technology in all areas 
+                          of the Site which require you to provide your personal 
+                          or account information, including those areas related 
+                          to online ordering, order status, catalog request and 
+                          contest forms. The Site utilizes industry-standard firewalls 
+                          and Secure Sockets Layer (SSL) technology to allow for 
+                          the encryption of potentially sensitive Personal Information, 
+                          such as your name, address and credit card number. </p>
+                        <p>You should recognize, however, that no computer system 
+                          is fully secure and that there are inherent risks associated 
+                          with Internet transactions. To make sure you have the 
+                          latest security features on your browser, you may want 
+                          to download the most recent version of your favorite 
+                          browser, which should have full SSL support. </p>
+                        <p><strong>7. Corrections/Information Removal/Opt-Out</strong></p>
+                        <p>If your name, e-mail or postal address, telephone number 
+                          or other Personal Information changes, you may update, 
+                          correct or omit the relevant information by contacting 
+                          us at privacy@TigerDirect.com. In addition, if you no 
                           longer wish to receive communications from us you may 
-                          opt-out by calling <b>800-800-8300</b> 
-                          or or email <a href="mailto:privacy@TigerDirect.com">privacy@TigerDirect.com</a>.</p>
-                      </td>
-                    </tr>
-                    <tr> 
-                      <td class="BODYstyle"><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="1"> 
-                        <strong><a name="ssl"></a><span class="BodyHEADERS">SSL 
-                        Data Encryption</span></strong></font> <br>
-                        Our TigerDirect.com website is registered 
-                        with site identification authorities to enable your browser 
-                        to confirm our security identity before any transmission 
-                        is sent. With this technology, the identity of our site 
-                        is automatically confirmed behind the scenes prior to 
-                        the transmission of any customer information requested 
-                        to complete an online order and ensures that your data 
-                        reaches your intended target or your browser notifies 
-                        you (prior to your sending any personal information) that 
-                        the potential receiving site looks suspicious and should 
-                        be avoided. Security Guarantee If you are using a security-enabled 
-                        browser (such as Microsoft Internet Explorer version 2.1 
-                        or greater, or Netscape Navigator version 2.0 or greater), 
-                        the information you send us regarding your purchase is 
-                        encrypted, making it extremely difficult to read even 
-                        if it is wrongly intercepted. At TigerDirect.com, 
-                        we utilize industry-standard Secure Sockets Layer (SSL) 
-                        technology to allow for the encryption of: potentially 
-                        sensitive information such as your name and address and 
-                        other critically sensitive information like your credit 
-                        card number. 
-						 
-						Standing behind our security technology, 
-                        we also provide our Website Security Guarantee, further 
-                        ensuring that you are protected every time you buy online 
-                        with us. For more details, take a look at this guarantee.
-						
-						<br>
-                        <br>
-                        <span class="BODYstyle"> 
-                        
-                        </span></td>
+                          opt-out by emailing us at privacy@TigerDirect.com, sending 
+                          a letter to: TigerDirect.com Privacy Officer, 7795 West 
+                          Flagler Street Suite #35; Miami, FL 33144 or by clicking 
+                          on the unsubscribe link within any marketing e-mail 
+                          you receive from us. If you no longer with to receive 
+                          our catalog, you may call us at [fill in], email us 
+                          at privacy@TigerDirect.com or send a letter to: TigerDirect.com 
+                          Privacy Officer, 7795 West Flagler Street Suite #35; 
+                          Miami, FL 33144.</p>
+                        <p><strong>8. Contact Information</strong></p>
+                        <p>If you have any questions or concerns about this Privacy 
+                          Notice, please e-mail us at privacy@TigerDirect.com 
+                          or send a letter to: TigerDirect.com Privacy Officer, 7795 West Flagler Street 
+                          Suite #35; Miami, FL 33144</p>
+                        <p><strong>9. Business Transfer</strong></p>
+                        <p>TigerDirect.com is a wholly owned subsidiary of Systemax, 
+                          Inc., a Fortune 1000 Company (NYSE symbol SYX). However, 
+                          in the event that TigerDirect.com is sold, has its assets 
+                          acquired or transferred, whether voluntarily or involuntarily, 
+                          or merges or becomes affiliated with any other division, 
+                          individual or entity, any customer information owned 
+                          or under the control of TigerDirect.com may be one of the transferred assets. We 
+                          reserve the right, as part of such transaction, to transfer 
+                          or assign the Personal Information and aggregate information 
+                          we have collected from users of the Site.</p>
+                        <p><strong>10. Limitations On Liability</strong></p>
+                        <p>IN NO EVENT WILL TigerDirect.com OR ITS PARENT, AFFILIATES, 
+                          LICENSEES OR ANY PARTY INVOLVED IN CREATING, PRODUCING 
+                          OR DELIVERING THE SITE OR ITS PRODUCTS OR SERVICES BE 
+                          LIABLE IN ANY MANNER WHATSOEVER FOR ANY INCIDENTAL, 
+                          CONSEQUENTIAL, INDIRECT, SPECIAL OR PUNITIVE DAMAGES 
+                          ARISING OUT OF YOUR ACCESS, USE OR INABILITY TO USE 
+                          THE SITE, OR IN CONNECTION WITH ANY FAILURE OR PERFORMANCE, 
+                          ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION 
+                          OR TRANSMISSION, COMPUTER VIRUS OR LINE OR SYSTEM FAILURE 
+                          (INCLUDING LOSS OF PROFITS, LOSS OF BUSINESS OR DATA, 
+                          BUSINESS INTERRUPTION, AND DAMAGES THAT RESULT FROM 
+                          INACCURACY OF THE INFORMATION OR INCONVENIENCE, DELAY, 
+                          OR LOSS OF THE USE OF THE SITE). THE FOREGOING LIMITATIONS 
+                          APPLY WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, 
+                          TORT, NEGLIGENCE, STRICT LIABILITY OR ANY OTHER BASIS, 
+                          EVEN IF TigerDirect.com OR ITS AFFILIATES OR ANY OTHER 
+                          PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.<span class="BODYstyle"> 
+                          </span></p>
+                        </td>
                     </tr>
                     <!--content section -->
                   </tbody></table>
@@ -958,6 +1017,7 @@ Third parties who are contracted with us who may use cookies and collect informa
 </tbody></table>
 
 
+  
 <script language="JavaScript" type="text/JavaScript">
 <!--
 function MM_jumpMenu(targ,selObj,restore){ //v3.0
@@ -1115,6 +1175,10 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 </script>
 
 <style>
+	#TGlogos img{
+	margin:0px 10px;
+	}
+	
 	.footer img {
 		border: 0px;
 		vertical-align: middle;
@@ -1134,49 +1198,177 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 
 <div style="width: 770px; padding-top: 10px;" class="footer">
 
-	<div style="height: 21px; color: #ffffff; font-family: arial; font-size: 11px; background-color: #184684">
+	
+    <div style="margin-bottom:2px;"><a href="/sectors/giftcenter/index.asp"><img src="http://images.tigerdirect.com/footer/gift-card-banner.jpg" width="770" height="80" border="0"></a></div>
+  <div style="height: 21px; color: #ffffff; font-family: arial; font-size: 11px; background-color: #d42480">
 	<div style="padding-top: 3px; padding-left: 5px;"><span style="font-weight: bold;">Featured Deals Of The Day</span>&nbsp;&nbsp;&nbsp;&nbsp;Save now on these limited time offers! While supplies last!</div>
 	</div>
 	<div style="font-family: arial; font-size: 10px; height: 115px;">
 		   <table width="770" border="0" cellpadding="0" cellspacing="0" class="font_size2bold" style="text-align: center; color: #043E7F;">
    <tbody><tr>
 
-	<td width="156" valign="top">Transcend 2GB SD Card<br>
-	  <a href="http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=2315933&amp;sku=T555-1006"><img src="http://images.tigerdirect.com/dealday/footer_T555-1006.jpg" alt="Transcend 2GB Secure Digital Card" width="75" height="66" border="0"></a><a href="http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=1544660&amp;sku=S153-3064&amp;CMP=ILC-FOT01"></a><br>
-      <span class="price">$9.99</span>&nbsp;&nbsp;<a href="http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=2315933&amp;sku=T555-1006" class="info">MORE 
-      INFO<img src="http://images.tigerdirect.com/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a></td>
+	<td width="156" valign="top">Acer Aspire One Netbook<br>
+      <a href="http://www.tigerdirect.com/applications/searchtools/item-Details.asp?EdpNo=4143760&amp;sku=A180-8003&amp;cm_sp=Footer-_-Spot 01-_-Netbooks_A180-8003"><img src="http://images.tigerdirect.com/dealday/footer_A180-8003.jpg" alt="Acer Aspire One Netbook" border="0" title="Acer Aspire One AOA150-1029 Netbook - Intel Atom™ Processor N270 1.60GHz, 802.11b/g Wireless, 1GB DDR2, 120GB HDD, 8.9-inch WSVGA, Integrated Webcam, Windows XP Home, Onyx Black"></a><br>
+      <span class="price">$349.99</span>&nbsp;&nbsp;<a href="http://www.tigerdirect.com/applications/searchtools/item-Details.asp?EdpNo=4143760&amp;sku=A180-8003&amp;cm_sp=Footer-_-Spot%2001-_-Netbooks_A180-8003" class="info">MORE 
+      INFO<img src="http://images.tigerdirect.com/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a> 
+    </td>
      <td width="1" bgcolor="#BDBEBD"><img src="http://images.tigerdirect.com/misc/pixel-clr.gif" width="1" height="1"></td>
       
-    <td width="156" valign="top">Magellan Maestro 3100 GPS<br>
-      <a href="http://www.tigerdirect.com/applications/searchtools/item-Details.asp?EdpNo=3809072&amp;sku=M775-0066%20RB"><img src="http://images.tigerdirect.com/dealday/footer_M775-0066RB.jpg" alt="Magellan Maestro 3100 GPS - 3.5&quot; Touchscreen Display, Multiple Viewing Modes, 750,000 POI (Refurbished)" width="79" height="66" border="0"></a><br>
-      <span class="price">$99.99</span>&nbsp;&nbsp;<a href="http://www.tigerdirect.com/applications/searchtools/item-Details.asp?EdpNo=3809072&amp;sku=M775-0066%20RB" class="info">MORE 
+    <td width="156" valign="top">7" Digital Picture Frame<br>
+      <a href="http://www.tigerdirect.com/applications/searchtools/item-Details.asp?EdpNo=4151723&amp;sku=F93-1000&amp;cm_sp=Footer-_-Spot%2002-_-Cameras_F93-1000"><img src="http://images.tigerdirect.com/dealday/footer_F93-1000.jpg" alt="Synaps 7&quot; Digital Picture Frame - 18ms, 300:1, 480x234, 16:9, Walnut Wooden Finish Tone" border="0"></a><br>
+      <span class="price">$39.99</span>&nbsp;&nbsp;<a href="http://www.tigerdirect.com/applications/searchtools/item-Details.asp?EdpNo=4151723&amp;sku=F93-1000&amp;cm_sp=Footer-_-Spot%2002-_-Cameras_F93-1000" class="info">MORE 
       INFO<img src="http://images.tigerdirect.com/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a>    </td>
      <td width="1" bgcolor="#BDBEBD"><img src="http://images.tigerdirect.com/misc/pixel-clr.gif" width="1" height="1"></td>
       
-    <td width="156" valign="top">2GB USB Flash Drive<br>
-      <a href="http://www.tigerdirect.com/applications/searchtools/item-Details.asp?EdpNo=2315953&amp;sku=T555-1046"><img src="http://images.tigerdirect.com/dealday/footer_t555-1046.jpg" alt="Transcend JetFlash 2GB USB Flash Drive" width="92" height="66" border="0"></a><a href="http://www.tigerdirect.com/applications/searchtools/item-Details.asp?EdpNo=1585392&amp;sku=P56-9336&amp;CMP=ILC-FOT03"></a><br>
-      <span class="price">$9.99</span>&nbsp;&nbsp;<a href="http://www.tigerdirect.com/applications/searchtools/item-Details.asp?EdpNo=2315953&amp;sku=T555-1046" class="info">MORE 
-      INFO<img src="http://images.tigerdirect.com/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a>    </td>
+    <td width="156" valign="top"> PowerShot SD1100 IS 8.0MP<br>
+      <a href="http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=3587206&amp;Sku=C930-1374&amp;cm_sp=Footer-_-Spot%2003-_-Cameras_C930-1374"><img src="http://images.tigerdirect.com/dealday/footer_C930-1374.jpg" alt="Canon PowerShot SD1100 IS 8.0MP" border="0" title="Canon PowerShot SD1100 IS Digital Camera - 8.0 Megapixels, 3x Optical Zoom, 4x Digital Zoom, 12x Total Zoom, 2.5-inch LCD"></a><a href="http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=1544660&amp;sku=S153-3064&amp;CMP=ILC-FOT01"></a><br>
+      <span class="price">$159.99</span>&nbsp;&nbsp;<a href="http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=3587206&amp;Sku=C930-1374&amp;cm_sp=Footer-_-Spot%2003-_-Cameras_C930-1374" class="info">MORE 
+     INFO<img src="http://images.tigerdirect.com/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a></td>
      <td width="1" bgcolor="#BDBEBD"><img src="http://images.tigerdirect.com/misc/pixel-clr.gif" width="1" height="1"></td>
       
-    <td width="159" valign="top"> Z-5500 Speaker System<br>
-      <a href="http://www.tigerdirect.com/applications/searchtools/item-Details.asp?EdpNo=1068250&amp;sku=L23-6334"><img src="http://images.tigerdirect.com/dealday/footer_L23-6334.jpg" alt="Logitech Z-5500 THX Certified 5.1 505-watt Dolby Digital &amp; DTS Hardware Decoding Speaker System" width="117" height="66" border="0"></a> 
+    <td width="159" valign="top"> Navigon 2100 3.5" GPS<br>
+      <a href="http://www.tigerdirect.com/applications/searchtools/item-Details.asp?EdpNo=4187753&amp;sku=N224-1008%20RB&amp;cm_sp=Footer-_-Spot%2004-_-Networking_A194-1036"><img src="http://images.tigerdirect.com/dealday/footer_N224-1008RB.jpg" alt="Navigon 2100 3.5&quot; GPS" border="0" title="Navigon 2100 GPS - 3.5-inch Touch Screen, Text-To-Speech, SD Card Slot, Reality View (Refurbished)"></a> 
       <br>
-      <span class="price">$199.99*</span>&nbsp;&nbsp;<a href="http://www.tigerdirect.com/applications/searchtools/item-Details.asp?EdpNo=1068250&amp;sku=L23-6334" class="info">MORE 
-      INFO<img src="http://images.tigerdirect.com/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a></td>
+      <span class="price">$79.99</span>&nbsp;&nbsp;<a href="http://www.tigerdirect.com/applications/searchtools/item-Details.asp?EdpNo=4187753&amp;sku=N224-1008%20RB&amp;cm_sp=Footer-_-Spot%2004-_-Networking_A194-1036" class="info">MORE 
+     INFO<img src="http://images.tigerdirect.com/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a></td>
 	 <td width="1" bgcolor="#BDBEBD"><img src="http://images.tigerdirect.com/misc/pixel-clr.gif" width="1" height="1"></td>
       
-    <td width="159" valign="top"> Crucial 1GB DDR2 Memory<br>
-      <a href="http://www.tigerdirect.com/applications/searchtools/item-Details.asp?EdpNo=1558837&amp;sku=C19-4266"><img src="http://images.tigerdirect.com/dealday/footer_C194266.jpg" alt="Crucial 1024MB PC4200 DDR2 533MHz Memory" width="105" height="66" border="0"></a><a href="http://www.tigerdirect.com/applications/searchtools/item-Details.asp?EdpNo=2206874&amp;sku=C13-2022&amp;CMP=ILC-FOT05"></a><br>
-      <span class="price">$21.99</span>&nbsp;&nbsp;<a href="http://www.tigerdirect.com/applications/searchtools/item-Details.asp?EdpNo=1558837&amp;sku=C19-4266" class="info">MORE 
-      INFO<img src="http://images.tigerdirect.com/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a>    </td>
+    <td width="159" valign="top">4GB Micro SDHC Card <br>
+      <a href="http://www.tigerdirect.com/applications/searchtools/item-Details.asp?EdpNo=3771088&amp;sku=T555-1180&amp;cm_sp=Footer-_-Spot%2005-_-Flash%20Memory_T555-1180"><img src="http://images.tigerdirect.com/dealday/footer_T555-1180.jpg" alt="Transcend 4GB Micro SDHC Card" border="0" title="Transcend TS4GUSDHC6 4GB Micro SDHC Card"></a><br>
+      <span class="price">$14.99</span>&nbsp;&nbsp;<a href="http://www.tigerdirect.com/applications/searchtools/item-Details.asp?EdpNo=3771088&amp;sku=T555-1180&amp;cm_sp=Footer-_-Spot%2005-_-Flash%20Memory_T555-1180" class="info">MORE 
+     INFO<img src="http://images.tigerdirect.com/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a>    </td>
   </tr>
 </tbody></table>
 
 	</div>
 
+<!-- <div style="height: 21px; background-image: url(http://images.tigerdirect.com/footerus/Newfooter/divider.gif);">  -->
+<div style="height: 21px; background-color:#d42480;">
 
-     <div style="height: 21px; background-color: #184684;">&nbsp;</div>
+  <div align="right" style="padding-right:4px; padding-bottom:4px">&nbsp;<a href="javascript:shfeedback('feedbackdiv');"><font face="arial" size="2" color="#FFFFFF"><b>&gt;&gt; Post Your Feedback</b></font></a></div>
+</div>
+<div style="display:none;padding-left:10px;" id="feedbackdiv">
+ <form name="footersurvey" action="privacy.asp?IsFeedBack=true" method="POST" onsubmit="return checkbase(this)">
+  <b><font color="blue" size="3">Page Feedback</font><br>
+  For IMMEDIATE customer service assistance or help with an order please 
+   <a href="/sectors/help/contactus.asp"><font color="blue">click here</font></a><br>or call 800-800-8300.<br>
+  Remember, you can call us 24 hours a day...7 days a week.<br><br>
+  Help us continuously improve by reporting any errors on this page:</b><br>
+  <input type="hidden" name="Page Feedback_multiple_answers" value="one">
+  <input type="radio" name="feedbackOpt" value="2"><font size="2">The information above is incorrect or conflicting.</font><br>
+  <input type="radio" name="feedbackOpt" value="3"><font size="2">This page has misspellings and/or bad grammar.</font><br>
+  <input type="radio" name="feedbackOpt" value="4"><font size="2">This page did not load correctly on my browser or generated an error.</font><br>
+  <div class="font_size1" style="padding-left:8px; padding-top:10px; cursor: pointer; cursor: hand;" onclick="resetfeedback();"><font color="blue">Reset Options</font></div>
+  <br><span class="font_size1">Please provide an example of any missing or incorrect information.<br>
+  Again, if you need immediate Customer Service assistance, <a href="/sectors/Help/contactus.asp"><font color="blue">click here</font></a>.</span><br>
+  <textarea name="feedbackText" cols="50" rows="3" wrap="soft"></textarea><br><br>
+  <input type="hidden" name="sku_freetext" value=""><font size="2">Email Address:</font><br>
+  <input name="customer_email" size="50" maxlength="100"><br><br>
+  <input type="image" title="Save Changes" alt="Save Changes" src="http://images.tigerdirect.com/submitinfo.gif" name="button_save_changes">
+ </form>
+</div>  
+
+<script language="JavaScript" type="text/JavaScript">
+function shfeedback(id)
+{
+  var oObj = document.getElementById(id);
+  if(!oObj) return;
+  oObj.style.display=(oObj.style.display=="none"?"":"none");
+}
+
+
+ 
+var testresults
+function checkemail(){
+var str=document.footersurvey.customer_email.value
+var filter=/^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([\w-]+(?:\.[\w-]+)*)$/i
+
+
+
+
+if (filter.test(str))
+  {
+   testresults=true
+  }
+else
+  {
+   alert("Please enter a valid email address.")
+   testresults=false
+  }
+ return (testresults)
+}
+
+
+function valradio(btn) {
+    var cnt = -1;
+    for (var i=btn.length-1; i > -1; i--) {
+        if (btn[i].checked) {cnt = i; i = -1;}
+    }
+    if (cnt > -1) return btn[cnt].value;
+    else return null;
+}
+
+
+function resetfeedback()
+{ 
+   document.forms.footersurvey.reset();
+}
+
+ 
+function checkbase(){
+  var feedbackcheck = true;
+  if (document.layers||document.getElementById||document.all)
+      {
+        if (document.footersurvey.customer_email.value != '')
+            {feedbackcheck = checkemail();
+            }
+
+        if(feedbackcheck)
+          {
+           if (valradio(document.footersurvey.feedbackOpt) == null )
+              {
+               
+               msgStr  = 'Please select one of the four possible options:\n'   
+               msgStr += '-The information above is incorrect or conflicting.\n'
+               msgStr += '-This page has misspellings and/or bad grammar.\n'
+               msgStr += '-This page did not load correctly on my browser or generated an error.\n'
+              // msgStr += 'The rebate information is incorrect.\n'
+               
+               alert(msgStr)
+               feedbackcheck = false
+              }
+           else
+              {
+               feedbackcheck = true
+              }
+          }
+        if(feedbackcheck)
+          {
+           if (document.footersurvey.feedbackText.value == '' )
+              {
+               alert('Please enter any details in the text box provided.')
+               document.footersurvey.feedbackText.focus()
+               feedbackcheck = false
+              }
+           else
+              {
+               feedbackcheck = true
+              }
+          }
+      }
+  else
+    {
+     feedbackcheck = true
+    }
+  return feedbackcheck
+}
+
+
+</script>	
+
+
+
+
 
 		<div style="height: 22px; background-image: url(http://images.tigerdirect.com/footerus/Newfooter/midBG.gif); hidden; font-family: arial; font-size: 11px; font-weight: bold; color: #123056; text-align: center;">
 			<div style="padding-top: 0px; float: left; width: 350px; text-align: right; height: 22px;">
@@ -1197,7 +1389,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 					<input type="image" border="0" height="19" width="73" title="subscribe" alt="subscribe" src="http://images.tigerdirect.com/footerus/Newfooter/button_subscribe.gif" name="subscribe" style="vertical-align: top; margin-top: 2px;">
 					<input type="hidden" name="list" value="preferred">
 					<input type="hidden" name="ListCode" value="MH">
-					<input type="hidden" name="SrcCode" value="WEM1617BY"> 
+					<input type="hidden" name="SrcCode" value="WEBOVETD"> 
 					<input type="hidden" name="demographics" value="ListCode SrcCode ">
 					<input type="hidden" name="confirm" value="one">
 					<input type="hidden" name="showconfirm" value="F">
@@ -1221,25 +1413,25 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 			</div>
 		</div>
 	<!-- End Bookmark Bar -->
-	<!-- Begin Small Divider --><div style="height: 3px; background-color: #184684; overflow: hidden;">&nbsp;</div><!-- End Small Divider -->
+	<!-- Begin Small Divider --><div style="height: 3px; background-color:#d42480; overflow: hidden;">&nbsp;</div><!-- End Small Divider -->
 	<!-- Begin Contents -->
 		<div style="height: 124px;">
 			<div style="float: left; width: 396px;">
-				<div style="float: left; width: 209px; background-color: #EDEDED; height: 124px; font-family: arial; font-size: 11px;">	
+				<div style="float: left; width: 209px; background-color: #EDEDED; height: 132px; font-family: arial; font-size: 11px;">	
 					
 						<div style="padding-left: 3px;"><a href="http://www.tigerdirect.com/showme.asp" target="_blank"><img src="http://images.tigerdirect.com/footerus/Newfooter/phone.gif" style="float: left; padding-right: 2px;"></a> <span style="font-weight: bold;">Need help browsing our website? Call 1-800-800-8300</span>
 						</div>
 						<br>
-					
+				  
 
 					<div style="padding-left: 5px;">
 						Copyright © 2008, TigerDirect, Inc.
 						<br>7795 West Flagler St., Suite 35
 						<br>Miami, FL. 33144 
-						<br><br><span style="font-weight: bold;">Your Priority Code is: <span style="background-color: #FFCC00;">&nbsp;WEM1617BY&nbsp;</span></span>
+						<br><br><span style="font-weight: bold;">Your Priority Code is: <span style="background-color: #FFCC00;">&nbsp;WEBOVETD&nbsp;</span></span>
 					</div>
 				</div>
-				<div style="float: right; width: 186px; background-color: #EDEDED; height: 124px; font-family: arial; font-size: 11px;">
+				<div style="float: right; width: 186px; background-color: #EDEDED; height: 132px; font-family: arial; font-size: 11px;">
 					<div style="font-size: 14px; font-weight: bold; color: #123056; padding-left: 5px; padding-top: 3px;">Customer Service</div>
 					<div style="padding-left: 8px; padding-top: 2px; font-weight: bold; line-height: 16px;">
 						<a href="http://www.tigerdirect.com/sectors/help/index.asp">Help</a>
@@ -1248,11 +1440,12 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 						<br><a href="http://www.tigerdirect.com/sectors/aboutus/legal.asp">Terms &amp; Conditions</a>
 						<br><a href="http://www.tigerdirect.com/sectors/aboutus/privacy.asp">Privacy Policy</a>
 						<br><a href="https://www.tigerdirect.com/cgisec/orderhistory.asp">Online Returns</a>
+                        <br><a href="http://www.tigerdirect.com/sectors/help/faq1.asp#calsalesinfo">California Sales Information</a>
 					</div>
 				</div>
 			</div>
 			<div style="float: right; width: 373px;">	
-				<div style="float: left; width: 186px; background-color: #EDEDED; height: 124px; font-family: arial; font-size: 11px;">
+				<div style="float: left; width: 186px; background-color: #EDEDED; height: 132px; font-family: arial; font-size: 11px;">
 					<div style="font-size: 14px; font-weight: bold; color: #123056; padding-left: 5px; padding-top: 3px;">Navigation</div>
 					<div style="padding-left: 8px; padding-top: 2px; font-weight: bold; line-height: 16px;">
 						<a href="http://biz.tigerdirect.com/?SRCCODE=TIGERLEASE&amp;CMP=ILC-TIGERLEASE">Business Sales</a>
@@ -1263,7 +1456,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 						<br><a href="http://tigerdirect.iapplicants.com" target="_blank">Employment</a>
 					</div>
 				</div>
-				<div style="float: right; width: 186px; background-color: #EDEDED; height: 124px; font-family: arial; font-size: 11px;">		
+				<div style="float: right; width: 186px; background-color: #EDEDED; height: 132px; font-family: arial; font-size: 11px;">		
 					<div style="font-size: 14px; font-weight: bold; color: #123056; padding-left: 5px; padding-top: 3px;">Site Tools</div>
 					<div style="padding-left: 8px; padding-top: 2px; font-weight: bold; line-height: 16px;">
 						<a href="http://www.tigerdirect.com/applications/partners/index.asp">Shop by Brand</a>
@@ -1281,40 +1474,39 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 		</div>
 	<!-- End Contents -->
 	<!-- Divider -->
-	<div style="height: 21px; background-color: #184684;">&nbsp;</div>
+	<div style="height: 21px; background-color:#d42480; margin-top:7px;">&nbsp;</div>
 	<!-- End Divider -->
 	<!-- Beign Final Text -->
 		<div style="font-family: arial; font-size: 10px; padding-top: 5px; height: 180px;">
-			<div style="width: 770px; height: 50px;">
+			<div style="width: 770px; height: 30px;">
 
-				<div style="float: left;">
-					<a href="http://www.systemax.com/" target="_blank"><img src="http://images.tigerdirect.com/footerus/Newfooter/systemax.jpg" alt="Systemax"></a>
-					<a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.TIGERDIRECT.COM&amp;lang=en" target="_blank"><img src="http://images.tigerdirect.com/footerus/Newfooter/verisign.jpg" alt="VeriSign Secured"></a>
-					<img src="http://images.tigerdirect.com/footerus/Newfooter/paypal.jpg" alt="Paypal">
-					<img src="http://images.tigerdirect.com/footerus/Newfooter/bmlLogo.gif" alt="BillMeLater">
-					<a href="https://www.ebillme.com/index.php/learnmore2/tigerdirect" target="_blank"><img src="http://images.tigerdirect.com/footerus/Newfooter/eBillme_logo_footer.jpg" alt="eBillme"></a>
-					<img src="http://images.tigerdirect.com/footerus/Newfooter/ht.gif" alt="Google Checkout">
-				</div>
-				<div style="float: right; padding-top: 12px;">
+			
+<div style="padding-top: 12px; float:left;">
 					<form name="chooseweb" id="chooseweb">
-						<select name="chooseweb" style="font-size: 11px; margin-left: 10px;" onchange="MM_jumpMenu('parent',this,0)">
-							<option selected="">Choose Your Country:</option>
-							<option value="http://www.tigerdirect.ca/">Canadian Customers</option>
-							<option value="http://www.misco.co.uk/">UK Customers</option>
-							<option value="http://www.misco.fr/">French Customers</option>
-							<option value="http://www.misco.de/">German Customers</option>
-						</select>
-					</form>
+					  <select name="chooseweb2" style="font-size: 11px; margin-left: 10px;" onchange="MM_jumpMenu('parent',this,0)">
+                        <option selected="">Choose Your Country:</option>
+                        <option value="http://www.tigerdirect.ca/">Canadian Customers</option>
+                        <option value="http://www.misco.co.uk/">UK Customers</option>
+                        <option value="http://www.misco.fr/">French Customers</option>
+                        <option value="http://www.misco.de/">German Customers</option>
+                      </select>
+				    </form>
 				</div>
+				<div style="width: 550px; float:right;"><img src="http://images.tigerdirect.com/frontpage/footerTypos.gif"></div>
 			</div>
 			<br>
 			
 				<div style="font-family: arial; font-size: 10px;">
-					<div style="width: 550px;">TigerDirect is your source for the best computer and electronics deals anywhere, anytime.<br><br>TigerDirect is not responsible for typographical or photographical errors. Prices and specifications are subject to change without notice.</div>
-					<br>
-					<div style="width: 550px;"><span style="color: #ff0000;">*Price after manufacturer mail-in rebate.  Restrictions apply. Click <span style="color: #175fb8;">MORE INFO</span> button next to your selected product above, then click "Rebate Terms and Conditions" for terms and conditions.</span></div>
-					<br>
-				</div>
+					<div style="width: 730px; margin-left:5px;"><span style="color: #ff0000;">*Price after manufacturer mail-in rebate.  Restrictions apply. Click <span style="color: #175fb8;">MORE INFO</span> button next to your selected product above, then click "Rebate Terms and Conditions" for terms and conditions. The name, personal likeness, character and trade dress of "Logan" is Copyright 2007-2008 Systemax Inc.</span>
+					<br><br><br>
+                    
+                   </div>
+                    
+		 	        <div id="TGlogos" align="center">
+					<a href="http://www.systemax.com/" target="_blank"><img src="http://images.tigerdirect.com/footerus/Newfooter/systemax.jpg" alt="Systemax" title="Systemax"></a>
+					<a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.TIGERDIRECT.COM&amp;lang=en" target="_blank"><img src="http://images.tigerdirect.com/footerus/Newfooter/verisign.gif" alt="VeriSign Secured" title="VeriSign Secured"></a><a href="https://www.bbb.org/online/consumer/cks.aspx?id=1081014143122" target="_blank"><img src="http://images.tigerdirect.com/footerus/Newfooter/bbbLogo.gif" alt="Click to verify BBB accreditation and to see a BBB report." title="Click to verify BBB accreditation and to see a BBB report."></a><a href="https://sealserver.trustkeeper.net/compliance/cert.php?code=ea97a8b6d8d755f41b78d04aa242d7f1&amp;style=normal&amp;size=105x54&amp;language=en" target="hATW"><img src="http://images.tigerdirect.com/footerus/Newfooter/trustwave_logo.gif" border="0" alt="Trusted Commerce" title="Trusted Commerce"></a>
+					<a href="http://www.bizrate.com/ratings_guide/merchant_detail__mid--23939.html" target="_blank"><img src="http://images.tigerdirect.com/footer/BR_COE_logo.gif" alt="Bizrate" title="Bizrate"></a></div>
+          </div>
 			
 		</div>
 	<!-- End Final Text -->
@@ -1324,7 +1516,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 
 
 
-<div align="right"><font color="#DDDDDD">WEBX11</font></div>
+<div align="right"><font color="#DDDDDD">WEBX12</font></div>
 <script language="JavaScript" type="text/JavaScript">
 <!--
 function MM_openBrWindow(theURL,winName,features) { //v2.0
@@ -1365,18 +1557,10 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 	</script>
 
 
+         
 		<style type="text/css">
 		
-		.dod_spot{
-			background: #333399;
-			height: 288px;
-		}
-		
-		.dod_spotPink{
-			background: #931519;
-			height: 288px;
-		}
-		
+				
 		.video{
 			background: inherit;
 		}
@@ -1399,31 +1583,11 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 		 height:135px;
 		 z-index: 100;
 		}
-		.leftNavTitle{
-			background-color:#CCCCCC;
-			font-size:8pt;
-			color: #CC0000;
-			font-weight:bold;
-			text-indent: 3px;
-			border-bottom: solid 2px #CC0000;
-		}
+
 		
-		a.leftNavTitle:link{
-		color: #CC0000;
-		}
-		
-		a.leftNavTitle:hover{
-		text-decoration:underline;
-		}
-		
-		a.leftNavTitle:active{
-		color: #CC0000;
-		}
+
 		</style>
-		<!-- Timer Starts-->
-		<script language="JavaScript" src="//www.tigerdirect.com/javascript/ps.js"></script>
-		<!-- End -->
-		
+
 		<script language="JavaScript" type="text/JavaScript">
 		function getElement(elementName) {
 		 if(document.getElementById && document.getElementById(elementName)) {
@@ -1494,7 +1658,7 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 			document.getElementById("layer1").style.left = GetLeftPos();
 		}
 		
-		position = "<div id=\"layer1\" style=\"position: absolute; left:"+GetLeftPos()+"; top:161px; width:166px; height:300px; z-index:1\">"
+		position = "<div id=\"layer1\" style=\"position: absolute; left:"+GetLeftPos()+"; top:168px; width:166px; height:300px; z-index:1\">"
 		document.write(position)
 		
 		function echeck(str) {
@@ -1581,7 +1745,7 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 		function process() {
 		   return checksubmit();
 		}
-		</script><div id="layer1" style="position: absolute; left:780; top:161px; width:166px; height:300px; z-index:1">
+		</script><div id="layer1" style="position: absolute; left:780; top:168px; width:166px; height:300px; z-index:1">
 		
 		
 		
@@ -1605,65 +1769,52 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 	font-weight: bold;
 	font-size: 12px;
 }
+        .style2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
         </style>
 		
 		
 		<center>
-		<script language="JavaScript" type="text/JavaScript">
-		// CA DOD Link
-			dodLinkCA="/applications/searchtools/item-Details.asp?EdpNo=156&sku=P56-5122";
-			dodLinkCA+="&CMP=ILC-RNV-DOD";
-			function getDODpopCA(){
-					 dodPop=window.open("/sectors/dodPop/indexCA.asp","dodPop","width=414,height=400,left=50,top=50,screenX=0,screenY=0");
-					 window.location=dodLinkCA
-			}
-		// US DOD link
-			dodLink="/applications/searchtools/item-Details.asp?EdpNo=2867970&sku=P56-9362";
-			dodLink+="&CMP=ILC-RNV-DOD"
-			
-			function getDODpop(){
-					 dodPop=window.open("/sectors/dodPop/index.asp","dodPop","width=790,height=620,left=50,top=50,screenX=0,screenY=0");
-					 window.location=dodLink
-			}
-		</script>		
+		
 		  <!-- Deal Of the Day Video -->
 		  
-		  <!-- DOD Table Start -->
-		  
-		  <!----------------------------------------US DOD Begins Here--------------------------------------------------------->
-		  <table width="160" border="0" cellpadding="0" cellspacing="0" bgcolor="184684">
+				<!-- DOD Table Start -->
+				  
+							<!--------- US DOD Begins Here -------->
+							
+		<table width="160" border="0" cellpadding="0" cellspacing="0" bgcolor="ffffff">
 			<tbody><tr> 
-			  
-      <td>
-      <a href="http://biz.tigerdirect.com"><img src="http://images.tigerdirect.com/rightnav/corpBanner2.jpg" alt="Click Here" width="160" height="58" vspace="0" border="0"></a><br>      
-      <a href="/sectors/shipschedule/index.asp"><img src="http://images.tigerdirect.com/rightnav/upsground-img2.gif" alt="UPS" width="160" height="30" border="0"></a></td>
-		</tr><tr> 	  
-      <td class="video" id="video"> <div align="center">
-        <!--<a href="javascript:getDODpop()">--> 
-       <img src="http://images.tigerdirect.com/dealday/TTopDeals_C10-1060_wkd.jpg" alt="Click Here" width="160" height="331" border="0" usemap="#Map_ttd"><br>
-          
-        
-      </div></td>
+				<td>
+					  <a href="http://biz.tigerdirect.com"><img src="http://images.tigerdirect.com/rightnav/corpBanner2.jpg" alt="Click Here" width="160" height="58" vspace="0" border="0"></a><br>      
+					<div style="margin:2px auto;">  <a href="/sectors/shipschedule/index.asp"><img src="http://images.tigerdirect.com/rightnav/upsground-img2.gif" alt="UPS" width="160" height="30" border="0"></a></div></td>
 			</tr>
-			
-				
-				<tr>
-				  <td>
-	      </td></tr></tbody></table>
+			<tr>
+				<td>
+                	
+<div align="center"><a href="http://feeds.feedburner.com/CarlsDealOfTheDay-Tigerdirectcom"><img src="http://images.tigerdirect.com/dealday/DOD/dailydoubleDeals/wDDS226-5204_G145-0236a_Pink_01.jpg" alt="Click Here" width="160" height="51" border="0"></a><br>
+					 <a href=" /applications/searchtools/item-Details.asp?EdpNo=3322808&amp;sku=S226-5204&amp;cm_sp=Right%20Nav-_-DOD1-_-TVs_S226-5204"><img src="http://images.tigerdirect.com/dealday/DOD/dailydoubleDeals/wDDS226-5204_G145-0236a_Pink_02.jpg" width="160" height="131" border="0"><br>
+  </a> <a href="/applications/searchtools/item-Details.asp?EdpNo=4177813&amp;sku=G145-0236&amp;cm_sp=Right%20Nav-_-DOD2-_-GPS_G145-0236"><img src="http://images.tigerdirect.com/dealday/DOD/dailydoubleDeals/wDDS226-5204_G145-0236a_Pink_03.jpg" alt="Click Here" width="160" height="149" border="0"><br>
+  </a>
+   </div>			  </td>
+			</tr>
+	      </tbody></table>
          
-		  <!-- DOD Table Ends -->
-		  <img src="http://images.tigerdirect.com/misc/pixel-clr.gif" width="1" height="1"><br>
-		   <!----------------------------------------Sidenav for A/B test Otari 16204 ends here--------------------------------------------------------->
+
+							<img src="http://images.tigerdirect.com/misc/pixel-clr.gif" width="1" height="1"><br>
+					   <!----------Sidenav for A/B test Otari 16204 ends here--------------->
 		  
+		</center>
 		<!-- Pink rightNav Start -->
 		
-		<table width="161" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="EDEDED">
+		<table width="161" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="FFFFFF">
 		
 		  <tbody><tr> 
 			<td> 
 			  <table width="161" border="0" cellspacing="0" cellpadding="0" class="font_size2">
 				<tbody><tr> 
-				  <td height="22" colspan="3" bgcolor="#184684" style="padding-left: 8px;">
+				  <td height="22" colspan="3" bgcolor="#d42480" style="padding-left: 8px;">
 				  <a href="http://www.tigerdirect.com/cgisec/modifyaccount.asp" class="navHDR"><font color="#FFFFFF">My 
 					Account</font></a><br>				  </td>
 				</tr>
@@ -1688,7 +1839,7 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 				  <td colspan="3"><img src="http://images.tigerdirect.com/misc/pixel-clr.gif" width="10" height="6"></td>
 				</tr>
 				<tr>       
-				  <td height="22" colspan="3" bgcolor="#184684" style="padding-left: 8px;">
+				  <td height="22" colspan="3" bgcolor="#d42480" style="padding-left: 8px;">
 				   <a href="http://www.tigerdirect.com/cgi-bin/ShoppingCart.asp" class="navHDR"> 
 					<font color="#FFFFFF">Your Shopping Cart</font></a></td>
 				</tr>
@@ -1734,14 +1885,52 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
                
 				  
 				</tr><tr bgcolor="#FFFFFF"> 
-				  <td colspan="3"><a href="#" onclick="javascript:window.open('/go/billme/index.asp','_blank', 'scrollbars=yes, width=500, height=600')"><img src="http://images.tigerdirect.com/sitebanners/BMLsidebanner160x40.gif" alt="Click Here" vspace="2" border="0" style="margin-top: 3px; margin-bottom: 0px;"></a></td>
+				  <td colspan="3"><a href="/applications/campaigns/campaigntemplate.asp?CampaignID=826"><img src="http://images.tigerdirect.com/sitebanners/webbnr_Core_160x96_gryb.jpg" alt="Click Here" vspace="2" border="0" style="margin-top: 3px; margin-bottom: 0px;"></a></td>
 				</tr>
 				
 				<tr> 
 				  <td colspan="3"><img src="http://images.tigerdirect.com/misc/pixel-clr.gif" width="10" height="6"></td>
 				</tr>
+                
+                
+                <tr>
+                
+                    <td height="22" colspan="3" style="padding-left: 8px;" bgcolor="#d42480" class="navHDR">
+                   <font color="#FFFFFF"> Top 10 Searches</font>
+                    </td>
+                
+                </tr>
+               <tr> 
+				  <td colspan="3"><img src="http://images.tigerdirect.com/misc/pixel-clr.gif" width="10" height="6"></td>
+				</tr>
 				<tr> 
-				  <td height="22" colspan="3" style="padding-left: 8px;" bgcolor="#184684">
+				  <td width="10"><img src="http://images.tigerdirect.com/misc/pixel-clr.gif" width="10" height="6"></td>
+				  <td>
+                  <div style="float:left; width:67px; font-size:8pt; padding-bottom:5px;">
+                 
+                        	<a href="http://www.tigerdirect.com/applications/campaigns/campaigntemplate.asp?CampaignID=576&amp;srkey=memory" title="Memory"><font color="#0050AA">Memory</font></a><br>
+                           <a href="http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=4164499&amp;sku=A194-1036&amp;srkey=digital%20converter" title="Digital Converter"><font color="#0050AA">Digital Converter</font></a><br>
+                            <a href="http://www.tigerdirect.com/applications/category/category_tlc.asp?CatId=2372&amp;srkey=gps" title="GPS"><font color="#0050AA">GPS</font></a><br>
+                            <a href="http://www.tigerdirect.com/applications/campaigns/campaigntemplate.asp?CampaignID=724&amp;srkey=asus" title="Asus"><font color="#0050AA">Asus</font></a><br>
+                            <a href="http://www.tigerdirect.com/applications/category/category_slc.asp?CatId=672&amp;srkey=windows%20xp" title="Windows XP"><font color="#0050AA">Windows XP</font></a><br>
+                            
+                    
+                    </div>
+                            
+                          <div style="float:right; width:55px; font-size:8pt; padding-bottom:5px;">
+                 			 <a href="http://www.tigerdirect.com/applications/campaigns/campaigntemplate.asp?CampaignID=669&amp;srkey=gateway" title="Gateway"><font color="#0050AA">Gateway</font></a><br>
+                                <a href="http://www.tigerdirect.com/applications/Category/category_tlc.asp?CatId=379&amp;srkey=flash%20drive" title="Gateway"><font color="#0050AA">Flash Drive</font></a><br>
+                                <a href="http://www.tigerdirect.com/applications/category/category_tlc.asp?CatId=136&amp;srkey=external%20hard%20drive" title="External Hard Drive"><font color="#0050AA">External Hard Drive</font></a><br>
+                                <a href="http://www.tigerdirect.com/applications/category/category_slc.asp?Nav=|c:130|&amp;srkey=webcam" title="Webcam"><font color="#0050AA">Webcam</font></a><br>
+                                <a href="http://www.tigerdirect.com/applications/partners/partner.asp?mfrid=12&amp;srkey=acer" title="Acer"><font color="#0050AA">Acer</font></a><br>
+                        	
+					</div>
+                  </td>
+                </tr>
+                
+                
+				<tr> 
+				  <td height="22" colspan="3" style="padding-left: 8px;" bgcolor="#d42480">
 				<a href="http://www.tigerdirect.com/applications/reviews/sitereviews/main.asp" class="navHDR"><font color="#FFFFFF">Testimonials</font></a>				</td></tr>
 				<tr> 
 				  <td colspan="3"><img src="http://images.tigerdirect.com/misc/pixel-clr.gif" width="10" height="6"></td>
@@ -1750,11 +1939,12 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 				  <td width="10"><img src="http://images.tigerdirect.com/misc/pixel-clr.gif" width="10" height="6"></td>
 				  <td> 
 					
-            <b>Awesome Items &amp; Super Fast Shipping!</b><br>
-					I ordered one of the Acer 22'' Widescreen monitors from my office at 8:00 in the morning and chose standard ground shipping. By 10:30 the next morning my monitor was sitting on my desk. Awesome quality and great service. Will be using this company for all of my computer needs in the future.<br>
+					<strong>Tigerdirect!</strong><br>
+            i have been a customer of Tiger Direct for a number of years now. I have always got a good product, at a good price, and the service &amp; support has been very good. I will continue to use Tiger Direct for a good deal.<br>
+            <div align="right"><i>By John</i></div>
                     
 					<br>
-					<a href="http://www.tigerdirect.com/applications/reviews/sitereviews/main.asp"><font color="#0050AA">See 
+					<a href="http://www.tigerdirect.com/applications/reviews/sitereviews/main.asp?name=TigerDirect-Testimonials" title="Read All Testimonials"><font color="#0050AA">See 
 					testimonials.</font></a></td>
 				  <td width="10"><img src="http://images.tigerdirect.com/misc/pixel-clr.gif" width="10" height="6"></td>
 				</tr>
@@ -1769,7 +1959,7 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 		
 		<img src="http://images.tigerdirect.com/misc/pixel-clr.gif" width="10" height="3"><br>
 		
-        <div class="font_size3" align="center"><a href="http://www.tigerdirect.com/applications/partners/index.asp">Shop 
+        <div class="font_size3" align="center"><a href="http://www.tigerdirect.com/applications/partners/index.asp?name=Shop-By-Brand" title="Shop By Brand">Shop 
 		  By Brand</a></div>
 		
 		<center>
@@ -1801,17 +1991,17 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 		  
 		</center>
 		
-		</center></div>
+		</div>
 		<script for="window" event="onresize">
 				RefreshNav();
 			</script>
 		
-		
-
 <map name="Map_ttd" id="Map_ttd">
-  <area shape="rect" coords="8,201,48,234" href="http://feeds.feedburner.com/CarlsDealOfTheDay-Tigerdirectcom" target="_blank" alt="Today's Top Deal RSS Feed">
-<area shape="poly" coords="4,5" href="#"><area shape="poly" coords="6,8" href="#"><area shape="poly" coords="152,10" href="#"><area shape="poly" coords="149,318,6,322,7,240,50,238,50,218,50,196,10,193,9,16,150,16,149,317" href="/applications/searchtools/item-details.asp?EdpNo=3440310&amp;sku=C10-1060&amp;CMP=ILC-RNV-DOD" target="_self" alt="Click Here">
+  <area shape="rect" coords="9,212,49,237" href="http://feeds.feedburner.com/CarlsDealOfTheDay-Tigerdirectcom" target="_blank" alt="Today's Top Deal RSS Feed"><area shape="poly" coords="5,3,155,3,156,319,5,317,7,240,52,240,52,208,5,208,4,4" href="/applications/searchtools/item-Details.asp?EdpNo=1187796&amp;sku=ULT31803&amp;cm_sp=Right%20Nav-_-DOD-_-Data%20Storage_ULT31803">
+<area shape="poly" coords="4,5" href="#"><area shape="poly" coords="6,8" href="#"><area shape="poly" coords="152,10" href="#">
 </map>
+
+
 <script language="javascript" type="text/javascript">
 <!--
  var cmCId = '90203773', cmDmn = 'tigerdirect.com';
@@ -1826,104 +2016,24 @@ cmCreatePageviewTag('Legal : Privacy Rights','LEGAL',null,null);
 
 -->
 </script>
-<!-- hb2 -->
-
-<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
-<!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
-<script language="javascript">
-var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-tigerdirect2.hitbox.com";
-
-//BEGIN EDITABLE SECTION
-//CONFIGURATION VARIABLES
-hbx.acct="DM5302032NNR";
-hbx.pn="PUT+PAGE+NAME+HERE";//PAGE NAME(S)
-hbx.mlc="CONTENT+CATEGORY";//MULTI-LEVEL CONTENT CATEGORY
-hbx.pndef="title";//DEFAULT PAGE NAME
-hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
-
-//OPTIONAL PAGE VARIABLES
-//ACTION SETTINGS
-hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-hbx.lt="auto";//LINK TRACKING
-hbx.dlf="n";//DOWNLOAD FILTER
-hbx.dft="n";//DOWNLOAD FILE NAMING
-hbx.elf="n";//EXIT LINK FILTER
-
-//SEGMENTS AND FUNNELS
-hbx.seg="";//VISITOR SEGMENTATION
-hbx.fnl="";//FUNNELS
-
-//CAMPAIGNS
-hbx.cmp="";//CAMPAIGN ID
-hbx.cmpn="CMP";//CAMPAIGN ID IN QUERY
-hbx.dcmp="";//DYNAMIC CAMPAIGN ID
-hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
-hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
-hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
-hbx.hra="";//RESPONSE ATTRIBUTE
-hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
-hbx.hqsp="HQS";//RESPONSE ATTRIBUTE IN QUERY
-hbx.hlt="";//LEAD TRACKING
-hbx.hla="";//LEAD ATTRIBUTE
-hbx.gp="";//CAMPAIGN GOAL
-hbx.gpn="";//CAMPAIGN GOAL IN QUERY
-hbx.hcn="";//CONVERSION ATTRIBUTE
-hbx.hcv="";//CONVERSION VALUE
-hbx.cp="null";//LEGACY CAMPAIGN
-hbx.cpd="";//CAMPAIGN DOMAIN
-                                                            
-//CUSTOM VARIABLES
-hbx.ci="";
-hbx.hc1="";//CUSTOM 1
-hbx.hc2="";//CUSTOM 2
-hbx.hc3="";//CUSTOM 3
-hbx.hc4="";//CUSTOM 4
-hbx.hrf="";//CUSTOM REFERRER
-hbx.pec="";//ERROR CODES
- /* TESTING */
-if(hbx.pec=='undefined'){
-      hbx.hc4=document.location + "|WSSTEST";
-}
-
-
-
-
-
-//INSERT CUSTOM EVENTS
-
-//END EDITABLE SECTION
-
-//REQUIRED SECTION
-</script><script language="javascript1.1" src="http://www.tigerdirect.com/javascript/hbx.js"></script>
-<!--END WEBSIDESTORY CODE-->
-
-
-<script language="javascript">
-if(typeof _ar!="undefined"){
-    var _checkout=_ar;
-    var _i = new Image();
-    _checkout=_stripParam(_checkout,"&n=","&");
-    _checkout=_stripParam(_checkout,"&cam=","&");
-    _checkout=_stripParam(_checkout,"&pv=","&");
-    _checkout=_stripParam(_checkout,"&abd_type=cart_add","&");
-    _checkout=_stripParam(_checkout,"&vpc","&");
-    _checkout+="&n=/Checkout";
-    _checkout+="&abd_type=checkout";
-    _checkout+="&vpc=030213c";
-}
-function _stripParam(a,b,c,d,e){d=a.indexOf(b);e=a.indexOf(c,d+1);if(d>=0&&e>=0)return a.substring(0,d)+a.substring(e,a.length);return a}
-function _sendCheckout(){ if (typeof _i!="undefined" && typeof _ar!="undefined") { _i.src=_checkout; } }
-</script>
-<!--SessionId           :383843812008060717455520923417139-->
-<!--SRCCODE             :WEM1617BY-->
-<!--Cart(PHRoutine)     :70-->
-<!--Cart(rNavSearch)    :^S>>9800 gx2>>/applications/SearchTools/search.asp?keywords=9800 gx2-->
+<!--SessionId           :35514916200812282035216720255193-->
+<!--Cmp                 :-->
+<!--SRCCODE             :WEBOVETD-->
+<!--DB(msRandX)         :61-->
+<!--DB(28907)           :78-->
+<!--DB(msProduct)       :1782290-->
+<!--DB(ItemDetailsBeta) :Y-->
+<!--DB(Survey)          :1-->
+<!--DB(Surveyflag)      :1-->
+<!--DB(DisplayGuideSter):0-->
+<!--DB(msImageID)       :/microsoft/MSelasticity-bnr_430x150B.jpg-->
+<!--DB(20805)           :A-->
+<!--DB(msImageSC)       :/microsoft/MSelasticity-bnr_620x150B.jpg-->
+<!--Cart(PHRoutine)     :10-->
+<!--Cart(rNavEdpDesc)   :^D>>Ultra Neck Strap/Lanyard for USB Drives>>EdpNo=3973793^D>>OCZ SLI 4096MB PC6400 DDR2>>EdpNo=3404049^D>>Synaps 7" Digital Pictur-->
 <!--Cart(rNavLastVisit) :-->
-<!--Cart(rNavCatId)     :^C>>USB Flash Memory>>category_usbflash.asp?CatId=^C>>Speakers>>category_tlc.asp?CatId=98^C>>Cables>>category_tlc.asp?CatId=3-->
-<!--Cart(rNavEdpDesc)   :^D>>Patriot PSF2G40SD Signature 2GB SD Card>>EdpNo=3860608^D>>Ultra 1024MB PC3200 DDR-->
-<!--hitbox_search       :Search+for+keywords+[9800 gx2]-->
-<!--pop_check           :active-->
+<!--Cart(rNavCatId)     :^C>>Hard Drives>>category_tlc.asp?CatId=8^C>>New Desktop PCs>>category_tlc.asp?CatId=2627^C>>Removable Data Storage>>category_tlc.asp?CatId=24-->
+<!--Cart(rNavSearch)    :^D>>Top Product: >>^D>>Top Product: >>^D>>-->
 <!--Warranty            :POPPED-->
 
 
