@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the stratospherehotel.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609100207id_/http%3A//www.stratospherehotel.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratospherehotel.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229154304id_/http%3A//www.stratospherehotel.com/privacy_policy) for the most accurate reproduction.*
 
 # Las Vegas Strip Hotels, Deals - Stratosphere - Las Vegas Strip Hotel Casinos, Reservations
-
-<area title="Book It" alt="Book It" coords="62,110,166,129" href="http://www.thayerinteractive.com/clickthru/clickthrough.rry/86279/" ,="" target="_blank">
 
 | 
 
