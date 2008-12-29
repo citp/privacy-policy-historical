@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bgs.ac.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211142932id_/http%3A//www.bgs.ac.uk/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bgs.ac.uk privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229140953id_/http%3A//www.bgs.ac.uk/help/privacy.html) for the most accurate reproduction.*
 
 # BGS Privacy Policy
+
+The British Geological Survey is committed to protecting your privacy online. We will treat any personal information that you provide to us, or that we obtain from you, in accordance with the provisions of the Data Protection Act of 1998\. 
 
 The British Geological Survey is committed to protecting your privacy online. We will treat any personal information (which means data from which you can be identified, including your name, address, e-mail address and the like) that you provide to us, or that we obtain from you, in accordance with the provisions of the Data Protection Act of 1998. This Privacy Policy sets out the way we deal with personal information.
 
@@ -33,4 +35,4 @@ We use all reasonable endeavours to protect personal information from loss, misu
 
 **How can you amend your personal information, or ask us to remove it?**
 
-This can be done at any time by e-mailing us at [**masq@bgs.ac.uk**](mailto:masq@bgs.ac.uk) or by writing to the person whom the British Geological Survey has nominated as its representative for the purpose of the Data Protection Act 1998, Marion Squires, at the address of the British Geological Survey set out above.
+This can be done at any time by [e-mailing us](https://web.archive.org/staff/sendMail.cfm?id=0466) or by writing to the person whom the British Geological Survey has nominated as its representative for the purpose of the Data Protection Act 1998, Marion Squires, at the address of the British Geological Survey set out above.
