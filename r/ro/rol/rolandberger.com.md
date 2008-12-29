@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the rolandberger.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514204932id_/http%3A//www.rolandberger.com/data_protection_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rolandberger.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229022304id_/http%3A//www.rolandberger.com/data_protection_statement.html) for the most accurate reproduction.*
 
-# Data protection statement | Strategy Consultants
+# Privacy | Strategy Consultants
 
 Protecting your personal data, and complying with relevant data protection legislation, is something we take very seriously. This statement is intended to give you an overview of how we ensure this protection, what kinds of data we collect and why, and how we deal with it.
 
 ## 1\. Who is responsible?
 
-Responsibility for data processing and in connection with this website rests with Roland Berger Strategy Consultants GmbH, HighLight Towers, Mies-van-der-Rohe-Str. 6, 80807 Munich, Germany ("Roland Berger Strategy Consultants"). For more detailed information about Roland Berger Strategy Consultants, please see [Contact](https://web.archive.org/contact.html).
+Responsibility for data processing and in connection with this website rests with Roland Berger Strategy Consultants GmbH, HighLight Towers, Mies-van-der-Rohe-Str. 6, 80807 Munich, Germany ("Roland Berger Strategy Consultants"). For more detailed information about Roland Berger Strategy Consultants, please see [Contact](http://www.rolandberger.com/contact.html).
 
 ## 2\. Why do we collect, process and use data?
 
 Roland Berger Strategy Consultants uses the Internet to present general information about our company and what we do. There are some areas of our web-sites or individual pages which serve more specific purposes.
 
   * There is the applicants' area of our different recruiting websites, where potential applicants can apply for jobs, internships and other positions.
-  * Then there's our alumni area, where people who used to work for Roland Berger Strategy Consultants can keep in touch with their ex-colleagues and the company itself
+  * Then there's our alumni area, where people who used to work for Roland Berger Strategy Consultants can keep in touch with their ex-colleagues and the company itself.
   * And there are other pages on specific topics or with specific functions. Details can be found in the contents section of each page.
 
 
@@ -92,7 +92,7 @@ If you'd like to know how your browser uses cookies, or instruct it not to use t
 
 ## 7\. Your right to know
 
-We'll be happy to tell you, subject to the relevant legal provisions, what personal details we store on you. If there's anything you'd like to know, please get in touch with Roland Berger Strategy Consultants' [data protection officer](mailto:annette_bierbaum@rolandberger.com?subject=Data%20protection "mailto:annette_bierbaum@rolandberger.com") . And please remember, you'll need to prove who you are before we can give you any information.
+We'll be happy to tell you, subject to the relevant legal provisions, what personal details we store on you. If there's anything you'd like to know, please get in touch with Roland Berger Strategy Consultants' data protection officer ([](https://web.archive.org/services/form/com_rb_1569068439)). And please remember, you'll need to prove who you are before we can give you any information.
 
 ## 8\. Security
 
