@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the houseladder.co.uk privacy policy that was archived on 2008-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080406061534id_/http%3A//www.houseladder.co.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseladder.co.uk privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229044410id_/http%3A//www.houseladder.co.uk/Privacy.aspx) for the most accurate reproduction.*
 
 # Houseladder - Privacy Policy
-
-Sell or Let Your Property FREE. Save £1000s even with Sole Agent! [**Create FREE Advert Now >>**](http://www.houseladder.co.uk/Information/Services.aspx)
 
 **1\. This Privacy Policy**   
 1.1 Houseladder is committed to protecting your personal information and other data supplied to us.   
