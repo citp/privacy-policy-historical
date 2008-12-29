@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rage.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517023104id_/http%3A//rage.com/action/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rage.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229063603id_/http%3A//www.rage.com/action/static/privacy) for the most accurate reproduction.*
 
-# Rage
+# : rage :
 
 Rage.com Privacy Policy
 
-The use of this version of the Rage website(s) and/or Rage software and any other related software, upgrades or updates and all related services and special offers (the "Service") provided by Operate .com Ltd. ("Rage") are subject to the hereunder provisions of this Privacy Policy. 
+The use of this version of the Rage website(s) and/or Rage software and any other related software, upgrades or updates and all related services and special offers (the "Service") provided by Rage are subject to the hereunder provisions of this Privacy Policy. 
 
 This Privacy Policy is incorporated into and is subject to the Rage Terms of Use. Your use of the Rage Website and any personal information you provide on the Rage Website remains subject to the terms of this Privacy Policy and our Terms of Use.
 
@@ -44,12 +44,12 @@ Currently, Rage has relationships with the following third-party ad servers or a
 Note for Parents Rage's Service and websites are intended for a general audience, and users under the age of eighteen (18) are not permitted to register with Rage's Service and websites. 
 
 Modification and Deletion of Personally Identifiable Information   
-Deletion (Opt-Out). In order to delete the personally identifiable information you submitted, notify us, to the following email address: support(@)Rage.com that you wish to delete your personally identifiable information or any part thereof contained at our databases. 
+Deletion (Opt-Out). In order to delete the personally identifiable information you submitted, notify us, to the following email address: support(@)Rage .com that you wish to delete your personally identifiable information or any part thereof contained at our databases. 
 
 Special Note to International Users The Rage Website is hosted in the United Kingdom ("UK") and is intended for and directed to Users in the United States and the UK. By the Terms of Use, UK law applies. If you are a User accessing the Rage Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from the law of England, please be advised that through your continued use of the Rage Sites, which are governed by U.K. law, this Privacy Notice, and our Terms of Use, you are transferring your personal information to the United Kingdom and you consent to that transfer. 
 
-Modification. If you wish to modify or update your personally identifiable information, use the web-site or application interface. If you need help, please contact us at the following email address: admin(@) operate.com Please note that deletion of your personally identifiable information from Rage's database will not prevent Rage from using gathered anonymous information. Third Parties' Practices. This Privacy Policy does not cover the information practices exercised by other provides of products or services, advertisers or other web sites, or companies/people that Rage does not own or control, or does not employ or manage. 
+Modification. If you wish to modify or update your personally identifiable information, use the web-site or application interface. If you need help, please contact us at the following email address: support(@) rage .com Please note that deletion of your personally identifiable information from Rage's database will not prevent Rage from using gathered anonymous information. Third Parties' Practices. This Privacy Policy does not cover the information practices exercised by other provides of products or services, advertisers or other web sites, or companies/people that Rage does not own or control, or does not employ or manage. 
 
 In the Event of Merger, Sale, or Bankruptcy In the event that Rage is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used. 
 
-Date Last Modified This Privacy Policy was last modified March 13, 2007.
+Date Last Modified This Privacy Policy was last modified September 6th, 2008.
