@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sleepinn.com privacy policy that was archived on 2004-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041019061247id_/http%3A//www2.choicehotels.com/ires/en-US/html/PrivacyPolicy%3Fsid%3DORIgg.2yEhRl6r1.2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepinn.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229174640id_/http%3A//www.choicehotels.com/ires/en-US/html/PrivacyPolicy) for the most accurate reproduction.*
 
 # choicehotels.com: Privacy & Security Policy
-
-| 
 
 Choice Hotels International, Inc., is committed to providing you with an efficient and customized internet experience. We are also committed to protecting your privacy and ensuring your internet experience is secure. That is why we want you to be informed about your privacy choices when you visit our website. This online Privacy and Security Policy describes the information we collect through this site and how we use that information.
 
@@ -13,10 +11,11 @@ What about cookies and transparent gifs?
 How is the information collected online protected?  
 Does this policy cover other sites linked from choicehotels.com?  
 What about changes to the Privacy and Security Policy?  
-What if there's a difference between versions of the Privacy and Security Policy?
+What if there's a difference between versions of the Privacy and Security Policy?  
+[Click here for the Choice Hotels EU Privacy Statement](http://www.choicehotels.com/ires/en-US/html/EUPrivacyPolicy?sid=niTlM.6_HWNgO_m.10)
 
  **What information do we collect?**  
-We collect information from you that allows us to provide services and content that are customized to your needs. You are anonymous on this site until you provide us with this information. When you use our reservation system or become a _Choice Privileges_ ® member, we collect information that you supply, such as your name, address, telephone number, e-mail address, room preference, and billing information.
+We collect information from you that allows us to provide services and content that are customized to your needs. You are anonymous on this site until you provide us with this information. When you use our reservation system or become a **Choice Privileges** ® member, we collect information that you supply, such as your name, address, telephone number, e-mail address, room preference, and billing information.
 
 [Back to Top]
 
@@ -30,13 +29,13 @@ To the extent required or permitted by law, we may collect, use and disclose per
 [Back to Top]
 
  **How can I change my preferences?**  
-We respect the right of each visitor to control how his or her personal information is used. If you do not want us to provide your information to our business partners, or if you do not wish to receive promotional communications from us or our affiliates concerning special offers, discounts, airlines bonuses, or contests, select one of the following options to provide us with your privacy preferences:
+We respect the right of each visitor to control how his or her personal information is used. If you do not want us to provide your information to our business partners, or if you do not wish to receive promotional communications from us or our affiliates concerning special offers, discounts, airline bonuses, or contests, select one of the following options to provide us with your privacy preferences:
 
-[Click here](https://www2.choicehotels.com/ires/en-US/html/SignIn?sid=UFiQi.2F1lflmky.2) if you have an Online Profile and edit your privacy preferences within your profile.
+[Click here](https://secure.choicehotels.com/ires/en-US/html/SignIn?sid=niTlM.6_HWNgO_m.10) if you have an Online Profile and edit your privacy preferences within your profile.
 
 \- OR -
 
-If you do not have an online profile and do not wish to create one, [click here](https://www2.choicehotels.com/ires/en-US/html/PrivacyProfile?sid=UFiQi.2F1lflmky.2) to provide us with your privacy preferences.
+If you do not have an online profile and do not wish to create one, [click here](https://secure.choicehotels.com/ires/en-US/html/PrivacyProfile?sid=niTlM.6_HWNgO_m.10) to provide us with your privacy preferences.
 
 [Back to Top]
 
@@ -44,6 +43,8 @@ If you do not have an online profile and do not wish to create one, [click here]
 We use cookies to keep track of your preferences and activities during your visits (for example, customizing the site to show the brand that you originally typed in). We do not use cookies to ascertain any personally identifiable information about you apart from what you voluntarily provide us in your dealings with Choice Hotels. Cookies do not corrupt or damage your computer, programs, or computer files. You can set your browser to reject cookies if you have further concerns although doing so may adversely affect your ability to perform certain transactions, use certain functionality, and access certain content on our Web site.
 
 We use pixels, or transparent GIF files, to help manage our online advertising. These files enable us and our advertising partner to recognize unique codes on your web browser, which in turn enables us to learn which advertisements bring users to our website. The information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address.
+
+We also use pixels, or transparent gif files, to send information to third-party advertising companies. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://networkadvertising.org/consumer/opt_out.asp>
 
 [Back to Top]
 
@@ -69,8 +70,8 @@ As a service to our customers, we make this privacy and security policy availabl
 
 Thank you for visiting our site, and for taking the time to read this policy. If you have any questions about this policy, please [e-mail us](mailto:privacy@choicehotels.com) or write to us at Privacy Office, Choice Hotels International, Inc., 10750 Columbia Pike, Silver Spring, MD 20901.
 
-[Click here to specify your privacy preferences.](https://www2.choicehotels.com/ires/en-US/html/PrivacyProfile?sid=UFiQi.2F1lflmky.2)
+[Click here to specify your privacy preferences.](https://secure.choicehotels.com/ires/en-US/html/PrivacyProfile?sid=niTlM.6_HWNgO_m.10)
 
-Last Updated: March 11, 2004
+Last Updated: March 11, 2004
 
-[Back to Top]
+|  
