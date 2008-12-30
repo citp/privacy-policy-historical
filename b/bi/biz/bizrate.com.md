@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bizrate.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620075114id_/http%3A//www.bizrate.com/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizrate.com privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230184017id_/http%3A//www.bizrate.com/content/privacy.html) for the most accurate reproduction.*
 
-# Shop at BizRate: Compare Prices, Reviews and Stores Online
+# All Selections in Home at BizRate
 
 [](http://www.truste.org/ivalidate.php?url=www.bizrate.com&sealid=101)
 
