@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the 4tnz.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531063606id_/http%3A//www.4tnz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4tnz.com privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230202820id_/http%3A//www.4tnz.com/privacy) for the most accurate reproduction.*
 
-# 4tnz: Privacy Policy
+# 4tnz! : Privacy Policy
+
+8 months ago
+
+[ ](https://web.archive.org/type/static)
 
 We know that safeguarding your privacy is serious business. Your privacy is very important to us. Please take a moment to read 4TNZ's policy so that you understand how we collect and use your personal information. As we update and expand our services, this policy might change, so please check it out from time to time. If you have questions about our privacy policy, please e-mail us at team@4tnz.com.
 
