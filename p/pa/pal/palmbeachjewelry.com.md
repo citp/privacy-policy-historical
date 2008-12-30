@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palmbeachjewelry.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608083221id_/http%3A//www.palmbeachjewelry.com/jump.jsp%3FitemID%3D167%26itemType%3DCATEGORY%26path%3D1%252C3%252C162%252C167) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palmbeachjewelry.com privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230175031id_/http%3A//www.palmbeachjewelry.com/jump.jsp%3FitemID%3D167%26itemType%3DCATEGORY%26path%3D1%252C3%252C162%252C167) for the most accurate reproduction.*
 
 # Customer Service - Privacy Statement - Shop PalmBeach & Save!
 
