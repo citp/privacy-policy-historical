@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organizedhome.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509170806id_/http%3A//organizedhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organizedhome.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231002434id_/http%3A//organizedhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Organized Home
 
@@ -11,7 +11,7 @@ This information pertains to the following sites, all of which are wholly owned 
   * [OrganizedScrapbooks.Com](http://organizedscrapbooks.com/)
   * [OrganizedChristmas.Com](http://organizedchristmas.com/)
   * [SewOrganized.Com](http://seworganized.com/)
-  * [HouseholdNotebook.Com](http://organizedhome.com/household-notebook)
+  * [HouseholdNotebook.Com](http://notebook.organizedhome.com/)
   * [HomeManagementBinder.Com](http://homemanagementbinder.com/)
   * [Perry Bear's Fun Page](http://perrybear.com/)
   * [S.H.E.sOrganized.Com](http://shesorganized.com/)
@@ -37,3 +37,6 @@ Threadneedle Press
 Privacy Policy  
 PO Box 1206  
 Richland WA 99352
+
+  
+
