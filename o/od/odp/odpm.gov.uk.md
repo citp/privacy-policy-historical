@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odpm.gov.uk privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620095510id_/http%3A//www.communities.gov.uk/corporate/help/conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odpm.gov.uk privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230182232id_/http%3A//www.communities.gov.uk/corporate/help/conditions) for the most accurate reproduction.*
 
 # Website terms and conditions for use - Corporate - Communities and Local Government
 
@@ -13,12 +13,12 @@ Terms and conditions for your use of the Communities and Local Government websit
   * 'My favourites' option
   * 'Have your say' user registration
   * Other online services
-  * Discussion rules and acceptable use of comments
+  * 'Have your say' rules and acceptable use of comments
   * Virus protection
 
+ 
 
-
-##  Accuracy
+###  Accuracy
 
 Communities and Local Government makes every effort to ensure that the information published on this website is accurate. However, the Department cannot accept any liability for the accuracy of content. Visitors who rely on this information do so at their own risk.
 
@@ -26,11 +26,13 @@ Communities and Local Government makes every effort to ensure that the informati
 
 #### Main website
 
-The material featured on this site is subject to Crown copyright protection unless otherwise indicated. The Crown copyright protected material (other than departmental or agency logos) may be reproduced free of charge in any format or medium for research, private study or for internal circulation within an organisation. This is subject to the material being reproduced accurately and not used in a misleading context. Where any of the Crown copyright items on this site are being republished or copied to others, the source of the material must be identified and the copyright status acknowledged. Any other proposed use of the material, please apply for a Click-Use online Licence by visiting the Office of Public Sector Information (OPSI formerly known as HMSO) website at [www.opsi.gov.uk/click-use](http://www.opsi.gov.uk/click-use/index.htm) or by contacting: OPSI Information Policy Team, St Clements House, 2-16 Colegate, Norwich NR3 1BQ, Fax: 01603 723000, email [HMSOLicensing@opsi.x.gsi.gov.uk](mailto:HMSOLicensing@opsi.x.gsi.gov.uk "HMO Licensing").
+The material featured on this site is subject to Crown copyright protection unless otherwise indicated. The Crown copyright protected material (other than departmental or agency logos) may be reproduced free of charge in any format or medium for research, private study or for internal circulation within an organisation. This is subject to the material being reproduced accurately and not used in a misleading context. Where any of the Crown copyright items on this site are being republished or copied to others, the source of the material must be identified and the copyright status acknowledged. Any other proposed use of the material, please apply for a Click-Use online Licence by visiting the Office of Public Sector Information (OPSI formerly known as HMSO) website at [www.opsi.gov.uk/click-use](http://www.opsi.gov.uk/click-use/index.htm) (external link) or by contacting: OPSI Information Policy Team, St Clements House, 2-16 Colegate, Norwich NR3 1BQ, Fax: 01603 723000, email [HMSOLicensing@opsi.x.gsi.gov.uk](mailto:HMSOLicensing@opsi.x.gsi.gov.uk "HMO Licensing") (external link).
 
 The permission to reproduce Crown protected material does not extend to any material on this site which is identified as being the copyright of a third party. Authorisation to reproduce such material must be obtained from the copyright holders concerned.
 
-For further information see the guidance at [www.opsi.gov.uk/advice/crown-copyright](http://www.opsi.gov.uk/advice/crown-copyright/copyright-guidance/index.htm).
+For further information see the guidance at [www.opsi.gov.uk/advice/crown-copyright](http://www.opsi.gov.uk/advice/crown-copyright) (external link).
+
+The video material featured on our website and our YouTube channel is subject to Crown copyright.
 
 #### 'Have your say' section
 
@@ -78,9 +80,9 @@ All personal data collected through voluntary user registration to these Communi
 
 All personal data collected through other online services, such as ordering publications, is used only for the purpose of providing you access to those services, and to contact you about updates to those services. We do not pass your details to third parties.
 
-##  Discussion rules and acceptable use of comments
+##  'Have your say' rules and acceptable use of comments
 
-By submitting a comment to 'have your say' section of our site, you agree to abide by the following rules. These web discussion rules are designed to ensure participants feel comfortable and equal in the online discussion and keen to take part, and that the discussion meets its objectives.
+By submitting a comment to 'have your say' section of our site, which includes our blog, discussion forum, webchat and wiki, you agree to abide by the following rules. These rules are designed to ensure participants feel comfortable and equal in the online discussion and keen to take part, and that the discussion meets its objectives.
 
   1. **Be respectful of others**. Debates may be lively but taking part should be a positive experience for all participants. Comments should be civil and tasteful, and must not be malicious or designed to offend. No reference should be made to the personality of other participants nor should attacks be made on an individual's character
   2. **Stay on-topic**. Your comment should be within scope of the topic under discussion. Please don't post messages that are unrelated to the forum, blog, webchat or wiki discussion you are contributing to.
