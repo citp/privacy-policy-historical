@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pennyjobs.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626202524id_/http%3A//www.pennyjobs.com/pp/footer/Privacy%2520policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennyjobs.com privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230024449id_/http%3A//www.pennyjobs.com/pp/footer/Privacy%2520policy.aspx) for the most accurate reproduction.*
 
-# PennyJobs.com - Helping people find new ways to save and make money!
+# Privacy policy | PennyJobs
 
 Updated: January 15, 2008
 
