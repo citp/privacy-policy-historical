@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7forallmankind.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509184921id_/http%3A//www.7forallmankind.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7forallmankind.com privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230060759id_/http%3A//www.7forallmankind.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy - 7 For All Mankind
 
@@ -22,7 +22,7 @@ We also may collect and store information about you that we receive from other s
 
 **Is Information Collected From Children?**
 
-We do not sell or ship any items ordered through this Web site directly to anyone who we know to be under the age of 18, nor do we collect any personal information from anyone who we know to be under the age of 18. If you are under the age of 18, you should use this Web site only with the involvement of a parent or guardian and should not submit any personal information to us.   
+This Web Site is a general audience website and is not directed for use by children. We do not intend to collect Personal Information from anyone who is under the age of 13. If you are under the age of 13, you should not provide any Personal Information to us and you should use this Web Site only with the involvement of a parent or guardian.   
 **  
 With Whom Do You Share Your Information?**
 
