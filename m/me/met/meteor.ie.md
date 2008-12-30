@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meteor.ie privacy policy that was archived on 2008-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080312074605id_/http%3A//www.meteor.ie/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meteor.ie privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230163039id_/http%3A//www.meteor.ie/privacy_policy) for the most accurate reproduction.*
 
 # Meteor - Privacy Policy
 
@@ -49,7 +49,7 @@ Meteor may disclose your Personal Data acting in good faith if it believes such 
 
 ## Accuracy of Data
 
-You must give us complete and accurate information when you apply for Meteor Services and whenever you provide us with this information about yourself. You must tell us if this information becomes out of date or inaccurate. To correct or inspect Personal Data you can visit the My Profile area of <http://www.meteor.ie/>or write to Meteor's Customer Care.
+You must give us complete and accurate information when you apply for Meteor Services and whenever you provide us with this information about yourself. You must tell us if this information becomes out of date or inaccurate. To correct or inspect Personal Data you can visit [MyMeteor](https://www.mymeteor.ie/) or write to Meteor's Customer Care.
 
 If we reasonably believe that information you supplied to us is false or inaccurate or we suspect fraud we may record that belief, and this may result in a delay to your connection or a suspension of your access to Meteor Services.
 
@@ -61,16 +61,16 @@ Data will be retained for any period required by law.
 
 Some Data that is not otherwise subject to retention for normal reasons may need to be retained because of circumstances such as litigation or government investigation.
 
-Type of Record or Information  | Retention Period  
+Type of Record or Information  |  Retention Period   
 ---|---  
-Personal Call Traffic Details (actual record of call, i.e. time of call, caller, number called, duration of call, etc) |  6 months plus current month (max.) for our purposes as detailed above  
+Personal Call Traffic Details (actual record of call, i.e. time of call, caller, number called, duration of call, etc)  |  6 months plus current month (max.) for our purposes as detailed above  
 For legal purposes call traffic records will be retained for a period of 3 years to comply with State requirements. This retention will take place in a restricted access secure system and will not be used for Meteor's commercial purposes.   
-Business Call Traffic Details (actual record of call, i.e. time of call, caller, number called, duration of call, etc)  |  6 months plus current month (max.) for our purposes (as described above).   
+Business Call Traffic Details (actual record of call, i.e. time of call, caller, number called, duration of call, etc)  |  6 months plus current month (max.) for our purposes (as described above).  
 For legal purposes call records will be retained for a period of 3 years to comply with State requirements. This retention will take place in a restricted access secure system and will not be used for Meteor's commercial purposes.   
-Data Service Usage Details (WAP site visits, text alert subscriptions) | 6 months plus current month (max.) for our purposes (as described above). This data does not include content.   
+Data Service Usage Details (WAP site visits, text alert subscriptions)  |  6 months plus current month (max.) for our purposes (as described above). This data does not include content.  
 For legal purposes usage records will be retained for a period of 3 years to comply with State requirements. This retention will take place in a restricted access secure system and will not be used for Meteor's commercial purposes.   
-Cookies | Cookies are stored on a per session basis only to aid your navigation of our web sites. Meteor will not store this data but your browser may be set to store these.  
-Invoices & Statements|  6 years plus current year for invoices and statements.  
+Cookies  |  Cookies are stored on a per session basis only to aid your navigation of our web sites. Meteor will not store this data but your browser may be set to store these.   
+Invoices & Statements  |  6 years plus current year for invoices and statements.  
 The call detail element of your standard bill will be severed and deleted after 6 months, as described above.   
   
 ## Cookies
