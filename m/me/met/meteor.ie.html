@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the meteor.ie privacy policy that was archived on 2008-03-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080312074605id_/http%3A//www.meteor.ie/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the meteor.ie privacy policy that was archived on 2008-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081230163039id_/http%3A//www.meteor.ie/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 					<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -15,171 +15,234 @@
 					<!--[if IE 7]>
 					<link href="/stylesheets/screen-ie7.css" rel="Stylesheet" type="text/css" />
 					<![endif]-->
+					
+					
+					
+        	<script type="text/javascript" src="/javascripts/jquery.js"></script>
+					<script type="text/javascript" src="/javascripts/pngfix/jquery.pngFix.js"></script>
 					<script src="/javascripts/meteor_global.js" type="text/javascript"></script>
 					<script src="/javascripts/sifr.js" type="text/javascript"></script>
-
+					
+					
+					<script type="text/javascript"> 
+              $(document).ready(function(){ 
+                  $(document).pngFix(); 
+              }); 
+          </script>
 				</head>
 
 				<body>
 
 				<p class="hide">
-				<a href="#nav" title="Skip to main navigation">Skip to main navigation</a> | 
-				<a href="#menu" title="Skip to page sub-navigation">Skip to page sub-navigation</a> |
-				<a href="#content" title="Skip to page content">Skip to page content</a></p>
+  				<a href="#language_bar" title="Skip to choosing a different language">Skip to choosing a different language</a> | 
+  				<a href="#navigation" title="Skip to main navigation">Skip to main navigation</a> | 
+  				<a href="#supplemental_navigation" title="Skip to navigation for extra key pages ">Skip to navigation for extra key pages</a> |
+  				<a href="#menu" title="Skip to navigation for pages within the current section">Skip to navigation for pages within the current section</a> |
+  				<a href="#content" title="Skip to page content">Skip to page content</a>
+				</p>
+
+        <div id="top_nav">
+
+          
+          
+    			<ul id="supplemental_navigation">
+  				  
+  				<li>
+  				<a href="/business/">Business</a>
+  				
+  				
+  				</li> 
+  			  
+  				<li>
+  				<a href="/support/">Help &amp; Support</a>
+  				
+  				
+  				</li> 
+  			  
+  				<li>
+  				<a href="/store_locator/">Store Locator</a>
+  				
+  				
+  				</li> 
+  			  
+  				<li class=" last">
+  				<a href="/contact_us/">Contact Us</a>
+  				
+  				
+  				</li> 
+  			  
+    			</ul>
+      	</div> <!-- close div#top_nav -->
 
 				<div id="container">
-
-					<!-- BEGIN Omit this in production code -->
-					<div id="overlay_grid">&nbsp;</div>
-					<!-- END Omit this in production code -->
-
+        
+					<div id="overlay_grid"></div>
+  				<div id="baseline-grid-overlay"></div>
 					<div id="header">
-						<p>
-						<a href="/" title="Back to homepage"><img src="/images/logo.gif" width="211" height="46" alt="Meteor logo"></a></p>
-
-						<noscript>
-							<form action="http://www.meteor.ie/select_language/" method="post" id="language_form">
-								<p>
-								<select name="language">
-									<option value="/">English</option>
-									<option value="/ie/">Gaeilge</option>
-									<option value="/pl/">Polski</option>
-									<option value="/lv/">Latvie&scaron;u</option>
-									<option value="/cs/">Chinese</option>
-									<option value="/lt/">Lietuvi&#x173; kalba</option>
-								</select>
-								<input type="image" value="Log in" class="submit" src="https://onlinestore.meteor.ie/b2cstaging/images/buttons/go.gif" alt="Go" /></p>
-							</form>
-						</noscript>
-
-						<div id="language_bar">				
-							<script type="text/javascript">language_check();</script><ul><li id="current_lang">English</li><li id="lang_image"><a href=""><img src="/images/choose_language.gif" width="67" height="8" alt="Choose your language"></a></li></ul>
-
-							<ul id="language_options">
-								<li><a href="/">English</a></li>
-								<li><a href="/ie/">Gaeilge</a></li>
-								<li><a href="/pl/">Polski</a></li>
-								<li><a href="/lv/">Latviešu</a></li>
-								<li><a href="/cs/" id="chinese"><strong>漢語</strong><span><img src="/images/chinese.gif" alt=""></span></a></li>
-								<li><a href="/lt/">Lietuvių kalba</a></li>
-							</ul>
-						</div>
-
-					</div>
-
-					<div id="nav">
-						<ul>
-							<li class="active" id="home"><a href="/" title="Go to the Meteor homepage">Home</a></li>
-							<li><a href="https://www.mymeteor.ie/" title="Visit My Meteor">My Meteor</a></li>
-							<li><a href="https://onlinestore.meteor.ie/" title="Visit the Meteor Online Store">Online Store</a></li>
-							<li><a href="https://meteor.akumiitti.com/web/" title="Visit Meteor Stuff">Meteor Stuff</a></li>
-							<!-- Last list item needs specific ID to remove background image (i.e. divider line) -->
-							<li class="last"><a href="/support/" title="Get Help &amp; Support">Help &amp; Support</a></li>
-						</ul>
-
-						<form action="https://www.mymeteor.ie/mymeteor/do_login.cfm" method="post">
-							<fieldset> 
-								<p> 
-								<label for="mobile_number" id="my_meteor_log_in">My Meteor Log In</label>
-						    <input name="msisdn" id="mobile_number" type="text" class="text_field" value="08" maxlength="10"> 
-								<label for="pin">PIN</label>
-								<input name="pin" id="pin" type="password" class="text_field" maxlength="7"> <input type="image" class="submit" src="/images/buttons/log_in.gif" alt="Log in"></p> 
-							</fieldset>
-						</form>
-
-						<ul id="my_meteor_options">
-							<li><a href="/support/my_meteor/register/" title="Register for My Meteor now">Register</a></li>
-							<li class="last"><a href="/support/my_meteor/" title="For help and assistance">Help</a></li>
-						</ul>
+					  <a href="/" id="logo" title="Back to homepage"><img src="/images/logo.gif" width="211" height="46" alt="Meteor logo" id="logo"></a>
+            
+            <div id="mymeteor_log_in">
+              <div>
+                <form action="https://www.mymeteor.ie/go/mymeteor-login-manager" method="post" onsubmit="validate_fields([this.msisdn, this.pin]);">
+      						<fieldset> 
+                    <h2>MyMeteor log in</h2>
+      							<label for="mobile_number" id="mymeteor_phone_number_label">Phone Number</label>
+      					    <input name="msisdn" id="mobile_number" type="text" class="text_field" value="08" maxlength="10"> 
+      							<label for="pin" id="mymeteor_pin_label">PIN</label>
+      							<input name="pin" id="pin" type="password" class="text_field" maxlength="7">
+      							<input type="image" id="log_in_button" class="submit" src="/images/buttons/my_meteor_login.gif" alt="Log in">
+      						</fieldset>
+      					</form>
+      				</div>
+            
+  						<ul id="mymeteor_options">
+  						  
+  							<li><a href="/support/my_meteor/register/" title="Register for MyMeteor now">Register</a></li>
+  							<li class="last"><a href="/support/my_meteor/" title="For help and assistance">Forgotten PIN</a></li>
+  						</ul>
+  					</div> <!-- close div#mymeteor_log_in -->
 						
-						<p><a href="/" title="Back to homepage">Home</a>
-								› Privacy Policy
-								</p>
-					</div>
+					</div> <!-- close div#header -->
+
+          <div id="navigation">
+    				<ul>
+    				  
+  				<li>
+  				<a href="/">Home</a>
+  				
+  				
+  				</li> 
+  			  
+  				<li>
+  				<a href="/plans/intro/">Plans &amp; Services</a>
+  				
+  				
+  				</li> 
+  			  
+  				<li>
+  				<a href="http://phones.meteor.ie/">Phones</a>
+  				
+  				
+  				</li> 
+  			  
+  				<li>
+  				<a href="/mobileinternet/intro/">Mobile Internet</a>
+  				
+  				
+  				</li> 
+  			  
+  				<li>
+  				<a href="/mobile_downloads/">Mobile Downloads</a>
+  				
+  				
+  				</li> 
+  			  
+  				<li>
+  				<a href="https://store.meteor.ie">Online Store</a>
+  				
+  				
+  				</li> 
+  			  
+  				<li class=" last">
+  				<a href="/mymeteor/">My Meteor</a>
+  				
+  				
+  				</li> 
+  			  
+    				</ul>
+            <!--
+    				<form action="#" method="post" id="site_search">
+    					<input type="text" name="search" value="" id="site_search_query_field"/>
+    					<input type="image" id="site_search_button" src="/images/search.gif" />
+    				</form>-->
+    			</div> <!-- close div#navigation -->
 			
 	
 	<div id="main_content">
-		<div id="menu">
-			
-						<h3 class="last">
-						<a href="/privacy_policy/" class="active">Privacy Policy</a>
-						</h3>
-						
-						 
-					
-		</div>
+				<div id="menu">
+  				<h3 class="active last">
+  				<a href="/privacy_policy/" class="active">Privacy Policy</a>
+  				</h3>
+  				
+  				 
+  			  		</div>
 		
 		<div id="content">
 			
-						
+			
+			
+			<div id="single_column">
+			
 			<h1>Privacy Policy</h1>
 			
-			<p>Meteor Mobile Communications Limited (hereinafter referred to as "Meteor", "us", "we", or "our") is committed to respecting your privacy and to complying with all applicable data protection and privacy laws. The objective of this policy is to inform you how we handle your personal data.</p>  <p>This policy applies to all personal data ("Data") in our possession. Personal Data is any information concerning a living individual who is or can be identified either from the data or from the data in conjunction with other information that is in or is likely to come into the possession of a data controller. Personal Data covered under this policy includes the following: call traffic details, service usage data and customer details.</p>  <h2>Processing</h2>  <p>Personal Data will be collected, processed and used by Meteor for the purposes of providing Meteor's Services to you or other purposes as listed below. Your Data will be used by Meteor only in a manner consistent with the purpose for which we obtained it. Personal Data may also be processed and used by such other organisations on our behalf for the purpose of providing Services to you. The use of information will remain under the control of Meteor at all times.</p>  <p><b>We collect personal data to</b></p>  <ul> 	<li> 		process applications made by you, 	</li>  	<li> 		create and maintain accounts 	</li>  	<li> 		calculate and charge for Meteor Services 	</li>  	<li> 		produce any necessary invoices or billing statements, 	</li>  	<li>provide customer care services</li>  	<li>monitor or record your calls for training purposes in order to track reported problems and ensure your customer service needs are met.</li>  	<li>supply any products and services</li>  	<li>manage Meteor's traffic, network and billing management;</li>  	<li>carry out analysis of your Information, in order develop our relationship with you, to develop and personalise Meteor's Services,</li>  	<li>keep you informed about new services, developments, special offers, and any discounts or awards which we believe may be of personal interest to you, or which you may be entitled to.</li>  	<li>Inform you of Meteor sponsored events</li>  	<li>Inform you of Meteor promotions</li>  	<li>carry out market research</li>  	<li>prevent, detect and investigate fraud, or any other criminal activity</li>  	<li>investigate improper use of the services or the network;</li>  	<li>carry out activities necessary to the running of our business, including system testing, network monitoring, staff training, quality control and any legal proceedings</li>  	<li>carry out any activities or disclosures to comply with any regulatory, government or legal obligations</li>  	<li>make searches about you at credit reference agencies that will supply us with credit information to help us decide whether to accept your application or future applications. The agency will record details of our search and your application whether you are accepted or not. We will use a combination of credit scoring and/or automated decision making systems when assessing your application. We may also disclose credit reference data to our dealers where necessary.</li> </ul>  <p>We may keep you up to date by post, telephone, fax, mobile text message, email, and audio. We encourage you to tell Meteor what your preferences are for the way in which you receive communications for marketing purposes. Details of the above are available on the registration form or from customer care.</p>  <p>You can contact us at any time to update your preferences by writing to or calling customer services, or by sending an email to <a href="mailto:info@meteor.ie">info@meteor.ie</a></p>  <h2>Disclosures</h2>  <p>Data will not be used, disclosed or processed in any manner incompatible with the purposes for which it was obtained.</p>  <p>For the purposes of providing Meteor Services to you it may be necessary for your Personal Data to be passed by Meteor to our partners, associates, agents or subcontractors. Some of these parties may reside outside of the EU. If we do this, we will ensure that your information is processed to the same Irish standards adopted by us.</p>  <p>Where you have agreed to be in included in our directory enquiry list your information will automatically be included in the National Directory Database (NDD) currently hosted by eircom (as nominated by the Commission for Communications Regulation (ComReg)). We will automatically list you as preferring not to receive direct telemarketing from third parties. You may wish to contact us if you would like to amend this preference. Under no circumstances will lists of customer data/information (i.e. mailing lists or database information) be disclosed to a third party for that third party's exploitation or use without your express permission.</p>  <p>Meteor may disclose your Personal Data acting in good faith if it believes such action is necessary: to conform with a legal requirement or comply with the legal process, protect and defend the rights or property of Meteor and act to protect the interests of its customers or others</p>  <h2>Accuracy of Data</h2>  <p>You must give us complete and accurate information when you apply for Meteor Services and whenever you provide us with this information about yourself. You must tell us if this information becomes out of date or inaccurate. To correct or inspect Personal Data you can visit the My Profile area of <a href="http://www.meteor.ie/">http://www.meteor.ie/</a>or write to Meteor's Customer Care.</p>  <p>If we reasonably believe that information you supplied to us is false or inaccurate or we suspect fraud we may record that belief, and this may result in a delay to your connection or a suspension of your access to Meteor Services.</p>  <h2>Retention</h2> <p>Data will be kept for no longer than is necessary for the primary purpose for which it was obtained.</p> <p>Data will be retained for any period required by law.</p> <p>Some Data that is not otherwise subject to retention for normal reasons may need to be retained because of circumstances such as litigation or government investigation.</p>  <table cellpadding="0" cellspacing="0"> 	<tbody> 		<tr> 			<th>Type of Record or Information 			</th>  			<th>Retention Period</th> 		</tr>  		<tr> 			<td>Personal Call Traffic Details (actual record of call, i.e. time of call, caller, number called, duration of call, etc)</td>  			<td> 				6 months plus current month (max.) for our purposes as detailed above<br> 				For legal purposes call traffic records will be retained for a period of 3 years to comply with State requirements. This retention will take place in a restricted access secure system and will not be used for Meteor's commercial purposes. 			</td> 		</tr>  		<tr> 			<td> 				Business Call Traffic Details (actual record of call, i.e. time of call, caller, number called, duration of call, etc)<p>&nbsp;</p> 			</td>  			<td> 				6 months plus current month (max.) for our purposes (as described above). 				<br> 				For legal purposes call records will be retained for a period of 3 years to comply with State requirements. This retention will take place in a restricted access secure system and will not be used for Meteor's commercial purposes. 			</td> 		</tr>  		<tr> 			<td>Data Service Usage Details (WAP site visits, text alert subscriptions)</td>  			<td>6 months plus current month (max.) for our purposes (as described above). This data does not include content. 				<br> 				For legal purposes usage records will be retained for a period of 3 years to comply with State requirements. This retention will take place in a restricted access secure system and will not be used for Meteor's commercial purposes. 			</td> 		</tr>  		<tr> 			<td>Cookies</td> 			<td>Cookies are stored on a per session basis only to aid your navigation of our web sites. Meteor will not store this data but your browser may be set to store these.</td> 		</tr>  		<tr> 			<td>Invoices &amp; Statements</td><td> 				6 years plus current year for invoices and statements.<br> 				The call detail element of your standard bill will be severed and deleted after 6 months, as described above. 			</td> 		</tr> 	</tbody> </table>  <h2>Cookies</h2> A cookie is a small unique text file that is saved on your hard desk by a web site. The cookie is used by the website to identify your computer whenever you visit that web site. We may use cookies to map usage patterns to enhance our service to you.<p>&nbsp;</p>  <h2>Access to your Information</h2> You have a right to copies of your personal data kept by us and to have any inaccuracies corrected. Requests should be in writing and should be addressed to Customer Care, Kingswood Avenue, City West business Park, Dublin 24. We may charge an administrative fee as determined by the Data Protection Commissioner.<p>&nbsp;</p>  <h2>Information Security</h2>  <p>Meteor is constantly reviewing and enhancing its technical, physical and managerial procedures and rules to protect your personal data from unauthorised access, accidental loss and/or destruction.</p>  <h2>General</h2>  <p>If we change this notice we will post the amended version on our website so you always know how we will collect, use and disclose your information. See <a href="http://www.meteor.ie/">www.meteor.ie</a></p>  <p>If you have any questions about Meteors data protection policy or the way in which your data is processed, please write to:</p> <p>Data Protection Officer, <br> 	Meteor Mobile Communications Limited, <br> 	4030 Kingswood Avenue, <br> 	Citywest Business Park, <br> 	Dublin 24</p> <p>or send an email to <a href="mailto:dataprotection@meteor.ie">dataprotection@meteor.ie</a></p>  <p>This policy should be read in conjunction with our Acceptable Use Policy and the general terms and conditions that apply to your use of Meteor's Services.</p> 
+			<p>Meteor Mobile Communications Limited (hereinafter referred to as "Meteor", "us", "we", or "our") is committed to respecting your privacy and to complying with all applicable data protection and privacy laws. The objective of this policy is to inform you how we handle your personal data.</p>  <p>This policy applies to all personal data ("Data") in our possession. Personal Data is any information concerning a living individual who is or can be identified either from the data or from the data in conjunction with other information that is in or is likely to come into the possession of a data controller. Personal Data covered under this policy includes the following: call traffic details, service usage data and customer details.</p>  <h2>Processing</h2>  <p>Personal Data will be collected, processed and used by Meteor for the purposes of providing Meteor's Services to you or other purposes as listed below. Your Data will be used by Meteor only in a manner consistent with the purpose for which we obtained it. Personal Data may also be processed and used by such other organisations on our behalf for the purpose of providing Services to you. The use of information will remain under the control of Meteor at all times.</p>  <p><b>We collect personal data to</b></p>  <ul> 	<li> 		process applications made by you, 	</li>  	<li> 		create and maintain accounts 	</li>  	<li> 		calculate and charge for Meteor Services 	</li>  	<li> 		produce any necessary invoices or billing statements, 	</li>  	<li>provide customer care services</li>  	<li>monitor or record your calls for training purposes in order to track reported problems and ensure your customer service needs are met.</li>  	<li>supply any products and services</li>  	<li>manage Meteor's traffic, network and billing management;</li>  	<li>carry out analysis of your Information, in order develop our relationship with you, to develop and personalise Meteor's Services,</li>  	<li>keep you informed about new services, developments, special offers, and any discounts or awards which we believe may be of personal interest to you, or which you may be entitled to.</li>  	<li>Inform you of Meteor sponsored events</li>  	<li>Inform you of Meteor promotions</li>  	<li>carry out market research</li>  	<li>prevent, detect and investigate fraud, or any other criminal activity</li>  	<li>investigate improper use of the services or the network;</li>  	<li>carry out activities necessary to the running of our business, including system testing, network monitoring, staff training, quality control and any legal proceedings</li>  	<li>carry out any activities or disclosures to comply with any regulatory, government or legal obligations</li>  	<li>make searches about you at credit reference agencies that will supply us with credit information to help us decide whether to accept your application or future applications. The agency will record details of our search and your application whether you are accepted or not. We will use a combination of credit scoring and/or automated decision making systems when assessing your application. We may also disclose credit reference data to our dealers where necessary.</li> </ul>  <p>We may keep you up to date by post, telephone, fax, mobile text message, email, and audio. We encourage you to tell Meteor what your preferences are for the way in which you receive communications for marketing purposes. Details of the above are available on the registration form or from customer care.</p>  <p>You can contact us at any time to update your preferences by writing to or calling customer services, or by sending an email to <a href="mailto:info@meteor.ie">info@meteor.ie</a></p>  <h2>Disclosures</h2>  <p>Data will not be used, disclosed or processed in any manner incompatible with the purposes for which it was obtained.</p>  <p>For the purposes of providing Meteor Services to you it may be necessary for your Personal Data to be passed by Meteor to our partners, associates, agents or subcontractors. Some of these parties may reside outside of the EU. If we do this, we will ensure that your information is processed to the same Irish standards adopted by us.</p>  <p>Where you have agreed to be in included in our directory enquiry list your information will automatically be included in the National Directory Database (NDD) currently hosted by eircom (as nominated by the Commission for Communications Regulation (ComReg)). We will automatically list you as preferring not to receive direct telemarketing from third parties. You may wish to contact us if you would like to amend this preference. Under no circumstances will lists of customer data/information (i.e. mailing lists or database information) be disclosed to a third party for that third party's exploitation or use without your express permission.</p>  <p>Meteor may disclose your Personal Data acting in good faith if it believes such action is necessary: to conform with a legal requirement or comply with the legal process, protect and defend the rights or property of Meteor and act to protect the interests of its customers or others</p>  <h2>Accuracy of Data</h2>  <p>You must give us complete and accurate information when you apply for Meteor Services and whenever you provide us with this information about yourself. You must tell us if this information becomes out of date or inaccurate. To correct or inspect Personal Data you can visit <a href="https://www.mymeteor.ie/">MyMeteor</a> or write to Meteor's Customer Care.</p>  <p>If we reasonably believe that information you supplied to us is false or inaccurate or we suspect fraud we may record that belief, and this may result in a delay to your connection or a suspension of your access to Meteor Services.</p>  <h2>Retention</h2> <p>Data will be kept for no longer than is necessary for the primary purpose for which it was obtained.</p> <p>Data will be retained for any period required by law.</p> <p>Some Data that is not otherwise subject to retention for normal reasons may need to be retained because of circumstances such as litigation or government investigation.</p>  <table> 			<tbody> 				<tr> 					<th> 						Type of Record or Information 					</th> 					<th> 						Retention Period 					</th> 				</tr> 				<tr> 					<td> 						Personal Call Traffic Details (actual record of call, i.e. time of call, caller, number called, duration of call, etc) 					</td> 					<td> 						6 months plus current month (max.) for our purposes as detailed above<br> 						For legal purposes call traffic records will be retained for a period of 3 years to comply with State requirements. This retention will take place in a restricted access secure system and will not be used for Meteor's commercial purposes. 					</td> 				</tr> 				<tr> 					<td> 						Business Call Traffic Details (actual record of call, i.e. time of call, caller, number called, duration of call, etc) 						<p> 							&nbsp; 						</p> 					</td> 					<td> 						6 months plus current month (max.) for our purposes (as described above).<br> 						For legal purposes call records will be retained for a period of 3 years to comply with State requirements. This retention will take place in a restricted access secure system and will not be used for Meteor's commercial purposes. 					</td> 				</tr> 				<tr> 					<td> 						Data Service Usage Details (WAP site visits, text alert subscriptions) 					</td> 					<td> 						6 months plus current month (max.) for our purposes (as described above). This data does not include content.<br> 						For legal purposes usage records will be retained for a period of 3 years to comply with State requirements. This retention will take place in a restricted access secure system and will not be used for Meteor's commercial purposes. 					</td> 				</tr> 				<tr> 					<td> 						Cookies 					</td> 					<td> 						Cookies are stored on a per session basis only to aid your navigation of our web sites. Meteor will not store this data but your browser may be set to store these. 					</td> 				</tr> 				<tr> 					<td> 						Invoices &amp; Statements 					</td> 					<td> 						6 years plus current year for invoices and statements.<br> 						The call detail element of your standard bill will be severed and deleted after 6 months, as described above. 					</td> 				</tr> 			</tbody> 		</table>  <h2>Cookies</h2>  <p> A cookie is a small unique text file that is saved on your hard desk by a web site. The cookie is used by the website to identify your computer whenever you visit that web site. We may use cookies to map usage patterns to enhance our service to you.</p>  <h2>Access to your Information</h2>  <p> You have a right to copies of your personal data kept by us and to have any inaccuracies corrected. Requests should be in writing and should be addressed to Customer Care, Kingswood Avenue, City West business Park, Dublin 24. We may charge an administrative fee as determined by the Data Protection Commissioner.</p>   <h2>Information Security</h2>   <p>Meteor is constantly reviewing and enhancing its technical, physical and managerial procedures and rules to protect your personal data from unauthorised access, accidental loss and/or destruction.</p>  <h2>General</h2>   <p>If we change this notice we will post the amended version on our website so you always know how we will collect, use and disclose your information. See <a href="http://www.meteor.ie/">www.meteor.ie</a></p>  <p>If you have any questions about Meteors data protection policy or the way in which your data is processed, please write to:</p> <p>Data Protection Officer, <br> 	Meteor Mobile Communications Limited, <br> 	4030 Kingswood Avenue, <br> 	Citywest Business Park, <br> 	Dublin 24</p> <p>or send an email to <a href="mailto:dataprotection@meteor.ie">dataprotection@meteor.ie</a></p>   <p>This policy should be read in conjunction with our Acceptable Use Policy and the general terms and conditions that apply to your use of Meteor's Services.</p> 
+			
+			</div>
 
 					
+		</div>
 	</div>
 	
 
-			</div>
 			
-			</div>
+			</div> <!-- close div#container -->
 
 			<div id="footer">
 				<ul>
 					
-						<li>
-						<a href="/about/">About Meteor</a>
-						
-						
-						</li> 
-					
-						<li>
-						<a href="http://careers.meteor.ie/">Careers</a>
-						
-						
-						</li> 
-					
-						<li>
-						<a href="/privacy_policy/" class="active">Privacy Policy</a>
-						
-						
-						</li> 
-					
-						<li>
-						<a href="/terms_and_conditions/">Terms &amp; Conditions</a>
-						
-						
-						</li> 
-					
-						<li>
-						<a href="/disability_access/">Disability Guide</a>
-						
-						
-						</li> 
-					
-						<li>
-						<a href="http://www.ispai.ie">ISPAI</a>
-						
-						
-						</li> 
-					
-						<li>
-						<a href="http://www.hotline.ie">Hotline.ie</a>
-						
-						
-						</li> 
-					
-						<li class="last">
-						<a href="/contact_us/">Contact Us</a>
-						
-						
-						</li> 
-					
+  				<li>
+  				<a href="/about/">About Meteor</a>
+  				
+  				
+  				</li> 
+  			  
+  				<li>
+  				<a href="http://careers.meteor.ie/">Careers</a>
+  				
+  				
+  				</li> 
+  			  
+  				<li class="active">
+  				<a href="/privacy_policy/" class="active">Privacy Policy</a>
+  				
+  				
+  				</li> 
+  			  
+  				<li>
+  				<a href="/terms_and_conditions/">Terms &amp; Conditions</a>
+  				
+  				
+  				</li> 
+  			  
+  				<li>
+  				<a href="/disability_access/">Disability Guide</a>
+  				
+  				
+  				</li> 
+  			  
+  				<li>
+  				<a href="http://www.ispai.ie">ISPAI</a>
+  				
+  				
+  				</li> 
+  			  
+  				<li>
+  				<a href="http://www.hotline.ie">Hotline.ie</a>
+  				
+  				
+  				</li> 
+  			  
+  				<li class=" last">
+  				<a href="/contact_us/">Contact Us</a>
+  				
+  				
+  				</li> 
+  			  
 				</ul>	
 			</div>
 
 			<p id="copyright">
-			© 2007 Meteor.  All Rights Reserved.</p>
+			© 2008 Meteor.  All Rights Reserved.</p>
 
 			<script type="text/javascript">
 				if(typeof sIFR == "function"){
@@ -204,4 +267,5 @@
       	</script>
 			
 			
-			</body></html>
+			
+</body></html>
