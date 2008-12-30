@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trippert.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621173909id_/http%3A//www.trippert.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trippert.com privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230153136id_/http%3A//www.trippert.com/pages/privacy) for the most accurate reproduction.*
 
 # Trippert: privacy
 
@@ -88,5 +88,3 @@ Changes to this policy
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review. 
 
 If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Privacy Matters, Trippert, Inc., c/o John Bautista, Orrick, Herrington & Sutcliffe, 1000 Marsh Road, Menlo Park, CA 94025, USA. 
-
-© Copyright 2007 trippert inc.
