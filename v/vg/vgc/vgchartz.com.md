@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vgchartz.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512001649id_/http%3A//www.vgchartz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vgchartz.com privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230065312id_/http%3A//www.vgchartz.com/privacy.php) for the most accurate reproduction.*
 
-# VGChartz.com |
+# VG Chartz.com - Video Game Sales Charts - Nintendo, Sony, Microsoft, Wii, PS3, Xbox360, DS, PSP, PC
 
   
 
