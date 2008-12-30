@@ -1,0 +1,15 @@
+> *The following text is extracted and transformed from the dragonext.com privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230211037id_/http%3A//www.dragonext.com/i3/Privacy/information.html) for the most accurate reproduction.*
+
+# dragonext.com
+
+  
+
+
+The policy declared on this page demonstrates dragonext.com commitment to protecting your privacy. Please take some time to read this policy, which explains what information we gather from you and how we use that information. By using our website or by purchasing products or services from us, you agree to be bound by this policy. Please check back the policy frequently since they are subject to change from time to time without prior notice.  
+To order from us, you must register as dragonext.com customer and/or subscribe as premium/wholesale member by providing us with your contact such as phone number, email address and demographic information. To receive our website's newsletter and/or periodic emails with special offers, you need to provide your email address.  
+When you place an order with us, we shall collect your name, telephone number, shipping address, billing address. This information is necessary for us to process your order updating you on order status. ). During the checkout process, you are redirected to our payment gateway, WorldPay Secure Servers, for secure online payment. The financial information you provided (like credit card numbers, name and expiry date) would be encrypted and transmitted directly to the payment gateway and we do not stored your financial information. The financial information provided is used solely to bill the user for products and services.  
+We may use your Account Information to occasionally notify you any important changes to the website such as regular maintenance, special offers.  
+When you visit our website, dragonext.com collects your IP address, which we use to improve our services as well as to help us administer our website and diagnose problems that may occur with our server.   
+dragonext.com strives to protect your privacy. To protect against the loss, misuse, and alteration of the information under our control we have implemented security measures on this website. All information you input is encrypted by the secure server layer (SSL) before it is sent to us and all the customer data we collect are also protected against unauthorized access. One way to verify the certification is to press on the Anacom logo on our site. In addition, we use Internet fraud screening to protect credit card transactions. This technology works best when the site is viewed using Microsoft's Internet Explorer or Netscape Navigator. All information that you provide during the shopping process is encrypted for your protection. (You will know that you are in an encrypted area when you see a solid key when using Netscape Navigator or a closed lock when using Internet Explorer.)   
+dragonext.com will not sell or disclose any of your information to a third party without your consent with the exception of the following purposes:  
+
