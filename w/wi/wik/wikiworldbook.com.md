@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wikiworldbook.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530130052id_/http%3A//wikiworldbook.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D63%26Itemid%3D139) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikiworldbook.com privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230053404id_/http%3A//wikiworldbook.com/content/view/63/139) for the most accurate reproduction.*
 
-# WikiWorldBook - Privacy Policy
+# Privacy Policy - WikiWorldBook
 
 Policy Effective:- 16 May 2008 
 
