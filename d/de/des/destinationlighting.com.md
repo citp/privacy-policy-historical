@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the destinationlighting.com privacy policy that was archived on 2008-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080524203556id_/http%3A//www.destinationlighting.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationlighting.com privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230124609id_/http%3A//www.destinationlighting.com/about/privacy.html) for the most accurate reproduction.*
 
-# Indoor Lighting, Outdoor Lighting and more | Destination Lighting
+# Indoor Lighting, Outdoor Lighting and more - Destination Lighting
 
 At Destination Lighting, we are committed to protecting the privacy of our customers. Because we take your right to privacy seriously, we developed this privacy statement to inform you about our privacy practices. Destination Lighting respects each individual's right to personal privacy. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies solely to information collected at Destination Lighting's Web site. By visiting Destination Lighting's Web site, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. If our policy on information collection or uses changes, we will update the information accordingly on this page.
 
