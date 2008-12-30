@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teladoc.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212170645id_/http%3A//www.teladoc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teladoc.com privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230203954id_/http%3A//www.teladoc.com/privacy.php) for the most accurate reproduction.*
 
 # TelaDoc: Affordable Healthcare. Talk to a Doctor 24/7
 
@@ -18,6 +18,6 @@ Cookies are data stored on the user's hard drive containing information about th
 
 Acceptance
 
-By using this site and the TelaDoc service, you signify your acceptance of the TelaDoc, Inc. and TelaDoc Privacy Policy. If you do not agree to this policy, you should not use our service. If TelaDoc, Inc. decides to change the Privacy Policy, we will post those changes prominently so users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We do, however, recommend that you read this Privacy Policy each time you use our Web site in case you missed our notice of changes to the Privacy Policy. Your continued use of the services and site following the posting of changes to these terms will mean you accept those changes 
+By using this site and the TelaDoc service, you signify your acceptance of the TelaDoc, Inc. and TelaDoc Privacy Policy. If you do not agree to this policy, you should not use our service. If TelaDoc, Inc. decides to change the Privacy Policy, we will post those changes prominently so users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We do, however, recommend that you read this Privacy Policy each time you use our Web site in case you missed our notice of changes to the Privacy Policy. Your continued use of the services and site following the posting of changes to these terms will mean you accept those changes. 
 
-TelaDoc welcomes your questions and comments about privacy and this policy. If you have any questions about our policies or our site, please [contact us](https://web.archive.org/web/20071212170645id_/http%3A//www.teladoc.com/contactus.php). 
+TelaDoc welcomes your questions and comments about privacy and this policy. If you have any questions about our policies or our site, please [contact us](https://web.archive.org/web/20081230203954id_/http%3A//www.teladoc.com/contactus.php). 
