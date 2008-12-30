@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paragon-software.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516091639id_/http%3A//www.paragon-software.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paragon-software.com privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230123510id_/http%3A//www.paragon-software.com/privacy.htm) for the most accurate reproduction.*
 
 # PARAGON Software Group - Privacy Statement
 
