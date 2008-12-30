@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misco.co.uk privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611060712id_/http%3A//www.misco.co.uk/content/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misco.co.uk privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230225938id_/http%3A//www.misco.co.uk/content/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy policy, statement - Misco.co.uk
 
@@ -30,9 +30,13 @@ Misco is a reseller brand of Systemax Europe Ltd. which is the consolidated Data
 
 **Information Automatically Logged**
 
-We use your IP (Internet Protocol) address to help diagnose problems with our server and to administer our website. Your IP address is also used to help identify you and your shopping basket, and to gather broad demographic information. 
+We use your IP (Internet Protocol) address to help diagnose problems with our server and to administer our website. Your IP address is also used to help identify you and your shopping basket, and to gather broad demographic information. 
 
-**Cookies**
+ **Coremetrics Online Analytics**
+
+Misco use Coremetrics Online Analytics to capture site traffic and click through information. Coremetrics is not used to collect personal data and Misco do not share information with third parties. 
+
+ **Cookies**
 
 Our website uses cookies to keep track of your shopping basket. We also use cookies to make sure you don't see the same ad repeatedly, and to deliver content specific to your interests. 
 
