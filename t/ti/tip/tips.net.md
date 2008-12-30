@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tips.net privacy policy that was archived on 2008-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080408030315id_/http%3A//www.tips.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tips.net privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230025737id_/http%3A//www.tips.net/privacy.html) for the most accurate reproduction.*
 
 # Tips.Net: Privacy Policy
 
@@ -6,7 +6,7 @@ It is the strict policy of Tips.Net and Sharon Parq Associates, Inc., that perso
 
 Accordingly, the personal information you provide is stored in a secure location, is accessible only by designated staff, and is used only for the purposes for which you provide the information (such as to reply to your request or to handle your complaint). For example, when you subscribe to a newsletter, the information you provide is used to process your subscription.
 
-If at any time you would like to add or remove your name from any of our subscription lists, correct your information, or question how any information is used, you can send a personal e-mail to [Allen Wyatt](mailto:awyatt@dcomp.com) (awyatt@dcomp.com) 
+If at any time you would like to add or remove your name from any of our subscription lists, correct your information, or question how any information is used, you can send a personal e-mail to allen (at) sharonparq.com.
 
    
  **No Computer Tracking of Identifiable Information**  
