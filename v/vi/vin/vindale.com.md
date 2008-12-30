@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vindale.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623070251id_/http%3A//www.vindale.com/v/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vindale.com privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230174559id_/http%3A//vindale.com/v/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy policy - Vindale Research
 
@@ -78,7 +78,7 @@ Attn: User Privacy
 243 Fifth Avenue, Suite 541   
 New York, NY 10016 _
 
-_Telephone: 1-877-4-VINDALE  
+_Telephone: 1-877-484-6325  
 Facsimile: 1-866-841-3898   
 Email: privacy@vindale.com _
 
