@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylifetime.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611142453id_/http%3A//www.mylifetime.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylifetime.com privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230052503id_/http%3A//www.mylifetime.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | myLifetime.com
 
