@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the pluggd.in privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613221036id_/http%3A//www.pluggd.in/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluggd.in privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231001013id_/http%3A//www.pluggd.in/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Indian Startups, Business and Technology
 
-## Privacy Policy
+  * Monday, March 10, 2008, 11:58
+  * 7 views
 
-Author: Ashish | Mar 10 2008 | | [](http://www.pluggd.in/about/privacy-policy/emailpage/ "Email This Page") [Email This Page](http://www.pluggd.in/about/privacy-policy/emailpage/ "Email This Page")
+
 
 The privacy of our visitors to Pluggd.in is important to us.At Pluggd.in, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit Pluggd.in, and how we safeguard your information. We never sell your personal information to third parties.
 
@@ -18,5 +19,8 @@ We also use third party advertisements on Pluggd.in to support our site. Some of
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-  
+Hey dude! If you are new here, check out the [hot posts](http://www.pluggd.in/tag/hot). If you like the stuff, subscribe to [RSS feed](http://www.pluggd.in/feed/). See you again!
 
+#### About the Author
+
+## Write a Comment
