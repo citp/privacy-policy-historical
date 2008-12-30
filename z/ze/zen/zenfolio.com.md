@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zenfolio.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616115506id_/http%3A//www.zenfolio.com/zf/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenfolio.com privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230183215id_/http%3A//www.zenfolio.com/zf/privacy.aspx) for the most accurate reproduction.*
 
 # Zenfolio | Privacy Statement
 
-Please refer to the **Definitions** section set forth in the [Zenfolio Website Terms and Conditions of Use](https://web.archive.org/web/20080616115506id_/http%3A//www.zenfolio.com/zf/terms.aspx) agreement. 
+Please refer to the **Definitions** section set forth in the [Zenfolio Website Terms and Conditions of Use](https://web.archive.org/web/20081230183215id_/http%3A//www.zenfolio.com/zf/terms.aspx) agreement. 
 
 Your privacy is important to us so we will strive to keep Your information safe and secure. This privacy policy will explain the kind of information we collect about You and how we use it. By accessing and using Zenfolio Website, you agree to our Privacy Policy as outlined below. 
 
@@ -23,6 +23,8 @@ Zenfolio assumes no responsibility for the disclosure of information of any subs
 Zenfolio does not control the privacy policies of any third-party sites linked to our Website. Zenfolio assumes no responsibility or liability for the actions of such third parties. It is Your responsibility to be informed of and be comfortable with the privacy policy of any third-party Website that You access. Zenfolio assumes no responsibility or liability for information that You voluntarily disclose in a public area or forum. 
 
 In order to insure Your privacy, you must keep the secrecy of any password or personal information at all times. The ultimate responsibility for the protection of Your information rests with You. 
+
+## Information Collected from Children
 
 Zenfolio will not knowingly collect or use any personal information from children we know to be under the age of thirteen. In addition, once Zenfolio is notified that we are in possession of such information, we will delete any information in our databases that originates from a child under the age of thirteen. 
 
