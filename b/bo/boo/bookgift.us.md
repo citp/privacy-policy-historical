@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookgift.us privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606055513id_/http%3A//www.bookgift.us/online-books/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookgift.us privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231230537id_/http%3A//www.bookgift.us/online-books/privacy.html) for the most accurate reproduction.*
 
 # Bookgift.Us :: Privacy Policy
 
