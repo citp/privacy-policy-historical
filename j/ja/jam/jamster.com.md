@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jamster.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215103653id_/http%3A//www.jamster.com/jcw/all/disclaimer.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamster.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231040952id_/http%3A//www.jamster.com/jcw/all/disclaimer.do) for the most accurate reproduction.*
 
-# Jamster - Ringtones, Real Tones, Cellphone Ringtones
+# Ringtones, Mobile Games, Cell Phone Wallpaper and more - Jamster
 
-Effective Date: June 29, 2007
+Effective Date: November, 2008
 
-Jamster ("Jamster") is a joint venture between News Corporation and VeriSign, Inc. and is operated as part of the News America Group, which has adopted a set of [Privacy Policy](http://www.newscorp.com/privacy.html) applicable to all its U.S.-based companies. Jamster has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the U.S. both online and off-line. This Privacy Policy describes the privacy practices of Jamster.
+Jamster ("Jamster") is operated by Fox Mobile Distribution, LLC as part of the News America Group, which has adopted a set of [Privacy Principles](http://www.newscorp.com/privacy.html) applicable to all its U.S.-based companies. Jamster has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the U.S. both online and off-line. This Privacy Policy describes the privacy practices of Jamster.
 
 Jamster.com, the website operated by Jamster, is a general audience website and Jamster does not knowingly collect PII from children under 13 years of age. 
 
@@ -24,7 +24,7 @@ Jamster may use cookies and similar tools to relate your use of our website(s) t
 
 You can program your computer to warn you each time a cookie is being sent or to refuse cookies completely. However, without cookies you may not have access to certain features on Jamster's website(s) such as your subscription option page. 
 
-Additionally, Jamster's services (or third-party servers) may collect certain information about Jamster website visitors automatically for site maintenance, optimization, security, and other legal permissible purposes. Such information may include such visitors’ IP address, browser type, date, time, and duration of visit, and particular pages viewed. 
+Additionally, Jamster’s services (or third-party servers) may collect certain information about Jamster website visitors automatically for site maintenance, optimization, security, and other legal permissible purposes. Such information may include such visitors’ IP address, browser type, date, time, and duration of visit, and particular pages viewed. 
 
 **NOTICE** : JAMSTER WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES
 
@@ -36,7 +36,7 @@ This Policy describes the types of other companies that may want to send you inf
 
 Sometimes we collect PII from consumers in manual format or off-line, such as a post card or subscription form. Providing detailed notice in those situations often proves impractical, so consumers will instead be provided with a short notice that describes how to obtain the full text of this Policy and other relevant information from us.
 
-Jamster's website(s) may be linked to Internet sites operated by other companies. Some of these third party sites may be co-branded with a Jamster logo, even though they are not operated or maintained by Jamster. 
+Jamster's website(s) may be linked to Internet sites operated by other companies. Some of these third party sites may be co-branded with a Jamster logo, even though they are not operated or maintained by Jamster.
 
 Jamster's website(s) may also carry advertisements from other companies. Jamster is not responsible for the practices of websites operated by third parties that are linked to our site(s) or for the privacy practices of third party or national Internet advertising companies. Once you have left the Jamster site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you.
 
@@ -79,6 +79,8 @@ REMEDIES AND COMPLIANCE: HOW TO CONTACT JAMSTER ABOUT PRIVACY CONCERNS.
 If you would like to communicate with Jamster about this Privacy Policy or Jamster's collection and use of your PII, or to review, correct or delete your PII, or to stop all future communication from us, please contact us by email at: [info@Jamster.com](mailto:info@Jamster.com) or contact customer service at 866-856-JAMS and a member of our customer service staff will be happy to assist you. We can also be contacted by mail at the following address:
 
 Jamster, LLC
+
+c/o Fox Mobile Distribution, LLC
 
 345 North Maple Drive
 
