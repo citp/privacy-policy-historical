@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmascraps.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630072930id_/http%3A//www.blogger.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmascraps.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231184139id_/http%3A//www.blogger.com/privacy) for the most accurate reproduction.*
 
 # Blogger: Blogger Privacy Notice
 
