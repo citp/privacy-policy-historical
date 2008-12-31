@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the theglobeandmail.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629223431id_/http%3A//www.theglobeandmail.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theglobeandmail.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231095117id_/http%3A//www.theglobeandmail.com/help/privacy) for the most accurate reproduction.*
 
 # globeandmail.com - Privacy Policy
 
 [](http://www.globeandmail.com/)
 
 ### The Globe and Mail/  
-CTVglobemedia Publishing Inc. ("Globe")
+CTVglobemedia Publishing Inc.("Globe")
 
 ## Globe Privacy Code
 
