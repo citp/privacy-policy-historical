@@ -1,9 +1,18 @@
-> *The following text is extracted and transformed from the camerareadycosmetics.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513150256id_/http%3A//www.camerareadycosmetics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camerareadycosmetics.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231022227id_/http%3A//www.camerareadycosmetics.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for products and tools for the professional makeup artist for print, tv, film, catalogues, bridal and more - with quality products Cinema Secrets, Collyre Bleu, Adesign Brushes, Face Atelier, Graftobian, Illuminare, Japonesque, Joe Blasco, Keromask, Kett, La Femme, Nixie, RCMA, Temptu, Visiora, Yaby.
 
-|    
+| 
+
+** |    **Login Status**  
 ---  
+  
+Not logged in   
+  
+» [**Login**](http://www.camerareadycosmetics.com/cart.php?mode=login)  
+**
+
+* * *  
   
   
 Sign up for our  
@@ -23,13 +32,23 @@ Updates**
 Click the image in order   
 to view more about the use of CRC products  
   
-   
+**  
+Secure Site**  
+
+
+**or choose**  
   
+* * *
+
 **  
 Camera Ready Cosmetics  
 **If you have a question about   
 an order please email or phone us **  
-**  
+**
+
+**Cruelty Free  
+Products**  
+  
   
   |  | 
 
