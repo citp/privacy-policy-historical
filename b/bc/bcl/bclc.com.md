@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bclc.com privacy policy that was archived on 2006-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061108025214id_/http%3A//www.bclc.com/cm/Footer/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bclc.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231105828id_/http%3A//www.bclc.com/cm/Footer/PrivacyPolicy.htm) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - BCLC
 
 BCLC is committed to respecting your right to privacy. This privacy policy describes the information we collect via the [BCLC website](https://web.archive.org/), how we collect and use that information and how we protect your privacy.
 
