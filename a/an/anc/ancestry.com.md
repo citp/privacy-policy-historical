@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ancestry.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625091516id_/http%3A//www.ancestry.com/legal/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231180650id_/http%3A//www.ancestry.com/legal/Privacy.aspx) for the most accurate reproduction.*
 
 # - Ancestry.com
 
@@ -33,7 +33,7 @@ Users determine whether they receive e-mailings or participate in contests or pr
 Questions regarding this privacy statement can be sent to The Generations Network, Inc. via postal mail.  
    
   
-• | [Fraud Prevention](https://web.archive.org/web/20080625091516id_/http%3A//www.ancestry.com/legal/phishing.aspx?hideHeader=)  
+• | [Fraud Prevention](https://web.archive.org/web/20081231180650id_/http%3A//www.ancestry.com/legal/phishing.aspx?hideHeader=)  
 | 
 
 Click here to learn how to protect yourself from fraud.  
