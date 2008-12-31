@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the adrive.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607005818id_/http%3A//www.adrive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adrive.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231044839id_/http%3A//www.adrive.com/privacy) for the most accurate reproduction.*
 
-# 50GB of Free Online Storage & Backup
+# ADrive.com – 50GB of Free Online Storage & Backup
 
-**ADrive  
-Privacy Policy **
+  |  | 
+
+(Last Updated: July 2, 2008)
 
 This Privacy Policy statement discloses ADrive's information sharing practices and is incorporated into and is subject to the ADrive Terms of Use. By entering into the Agreement, you expressly consent to ADrive's use and disclosure of Your personal information in accordance with this Privacy Policy. 
 
