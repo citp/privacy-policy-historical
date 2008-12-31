@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maturescam.com privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409010208id_/http%3A//www.maturescam.com/info.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maturescam.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231083732id_/http%3A//www.maturescam.com/info.php%23privacy) for the most accurate reproduction.*
 
 # Free Live Sex - Hot Live Sex Shows!... MaturesCam..
 
@@ -6,17 +6,17 @@
 
 You are very important to us and we strive to provide You with world class Customer Service. Customer Service agents are standing by 24 hours a day, 7 days a week, in order to meet Your needs. You may contact them online at the Customer Support chatroom or via e-mail by filling out the form below. 
 
-Please be advised that the billing operation is being handled by /Lalib Support/ from now on. If You have questions about billing,please call Lalib Lda.at: (+351) 291 003 610 ****
+Please be advised that the billing operation is being handled by  Support from now on. If You have questions about billing, please call  at: (+351) 291 003 610 ** **
 
-Payment processor's consumer support: 
+Payment processor's consumer support::
 
-**[Lalib Support](https://www.lalibcosupport.com/)**  
+**[Support](https://www.lalibcosupport.com/)**  
 **[CCBill Support](https://support.ccbill.com/)**  
-**[Epoch.com Support](http://epoch.com/billingsupport/)  
-**[ePassporte Support](https://www.epassporte.com/secure/jsp/ContactUsPersonal.jsp)****  
+**[Epoch.com Support](http://epoch.com/billingsupport/)**  
+**[ePassporte Support](https://www.epassporte.com/secure/jsp/ContactUsPersonal.jsp)**  
 **[Aconti Support](http://www.acontipro.net/)**
 
-Please fill out the form with correct data. All fields are required! 
+Please fill out the form with correct data. All fields are required! Please be advised that our Support Team is available only in English! 
 
 **Q - When I've given my credit-card information to similar sites in the past, they abused it.  
 How do I know I can trust You? **   
@@ -62,7 +62,7 @@ MaturesCam undertakes responsible measures to verify Your identity, including ma
 
 Not only we do respect Your privacy, we protect Your privacy!!!
 
-MaturesCam is occasionally contacted by third parties who, for marketing purposes, want to purchase our mailing list and other sensitive customer information derived from our database. Although there is no law forbidding MaturesCam from selling such information, the trading of which is an extremely lucrative business, MaturesCam is serious in its commitment to protecting Your personal privacy. We have never sold such personal information about our customers to outside parties -- not even once -- and we never will.
+MaturesCam is occasionally contacted by third parties who, for marketing purposes, want to purchase our mailing list and other sensitive customer information derived from our database. Although there is no law forbidding MaturesCam from selling such information, the trading of which is an extremely lucrative business, MaturesCam is serious in its commitment to protecting Your personal privacy. We have never sold such personal information about our customers to outside parties -- not even once -- and we never will. 
 
 **As a general rule, MaturesCam collects only three kinds of information about You:**
 
@@ -70,7 +70,7 @@ MaturesCam is occasionally contacted by third parties who, for marketing purpose
 
 **2.** "Log information" about the areas of MaturesCam that You visit, that are accessible from the general internet environment. 
 
-**3.** Private correspondence, such as the contents of telephone conversations, chat client logs, faxes or letters to MaturesCam staff, e-mail messages to performers or MaturesCam staff, performer chat client logs.
+**3.** Private correspondence, such as the contents of telephone conversations, chat client logs, faxes or letters to MaturesCam staff, e-mail messages to performers or MaturesCam staff, performer chat client logs. 
 
 **Log information bears greater explanation:**
 
@@ -80,7 +80,7 @@ Later, as You navigate through MaturesCam, You will likely observe that the cont
 MaturesCam also uses Your recorded "search preference" information to better target and allocate marketing expenditures.   
 For example, if MaturesCam learns that, in aggregate, individuals who search portals for terms such as "voyeur" are more likely to purchase goods and services from MaturesCam than individuals who search for terms such as "livecams", MaturesCam may allocate greater portions of its marketing budget to targeting the former group, and a smaller portion of its budget to target the latter group. By optimizing marketing strategies in this manner, MaturesCam has more disposable capital that can be deployed toward development efforts which improve the MaturesCam platform and provide a richer customer experience for all. 
 
-Speaking of cookies, another kind of cookie that MaturesCam sets is an "identification cookie". This cookie is written whenever You successfully use Your login and password to access a restricted area of MaturesCam; the identification cookie is available only to individuals who have already been verified as adults, via MaturesCam's verification procedures. When MaturesCam's servers observe this identification cookie on Your computer, they recognize You and therefore might deliver unmodified content as opposed to modified content - in effect, another form of customized content tailored to suit Your indicated preferences.
+Speaking of cookies, another kind of cookie that MaturesCam sets is an "identification cookie". This cookie is written whenever You successfully use Your login and password to access a restricted area of MaturesCam; the identification cookie is available only to individuals who have already been verified as adults, via MaturesCam's verification procedures. When MaturesCam's servers observe this identification cookie on Your computer, they recognize You and therefore might deliver unmodified content as opposed to modified content - in effect, another form of customized content tailored to suit Your indicated preferences. 
 
 Another question that might concern You: "Does MaturesCam outsource to other companies any privacy-sensitive functions such as management of its e-mail newsletter system, web hosting, or its e-commerce platform?" Because MaturesCam is committed to safeguarding the integrity of Your personal information, we have elected to not use such services, despite the fact that they are reasonably-priced and simplify the management task of running a large and complex website operation. 
 
@@ -89,7 +89,7 @@ By entering this website, You accept the following agreement:
 This website contains adult-oriented material that may be offensive to, or illegal for some readers.   
 This website also contains Explicit Adult Nudity. If You are offended by this type of material then  DO NOT ENTER THIS SITE. 
 
-Please note that this site contains sexually oriented adult material intended for individuals 18 Years or older. If You are not over 18 Years of age, If adult material offends You or if You are accessing this site from any country or locale where adult material is specifically prohibited by law, then  DO NOT ENTER THIS SITE. 
+Please note that this site contains sexually oriented adult material intended for individuals 18 Years (21 in some areas, please check local regulations) or older. If You are not over 18 Years of age (21 in some areas, please check local regulations), If adult material offends You or if You are accessing this site from any country or locale where adult material is specifically prohibited by law, then  DO NOT ENTER THIS SITE. 
 
 This website is an adult entertainment and educational resource not designed to promote prurient interests.   
 MaturesCam does not warrant the information presented here. Furthermore, a listing is not to be construed as any type of implied endorsement for the authors or services of the listed pages or the information contained thereon. 
@@ -100,7 +100,7 @@ NOTE: Do not continue unless You know Your local obscenity laws, and furthermore
 not prohibit the viewing of adult material.   
 **By accepting this agreement, I certify the following:**
 
-  1. I am 18 years of age or older.
+  1. I am at least eighteen (18) years old (21 in some areas, please check local regulations).
   2. The sexually explicit material I am buying and/or viewing is for my own personal use and I will never expose minors to said material.
   3. I believe that, as an adult, I have the unalienable right to read and/or view any type of material that I choose and that the material and images contained in this website are not obscene or offensive in any way, nor could ever be construed to be obscene or offensive.
   4. The viewing, reading, and downloading of the material and images in this website do not violate the community standards of my street, village, city, town, county, state, province, or country.
