@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-online-television.com privacy policy that was archived on 2008-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080521003502id_/http%3A//www.free-online-television.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-online-television.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231050323id_/http%3A//www.free-online-television.com/privacypolicy.html) for the most accurate reproduction.*
 
 # ::Free Online Television - Privacy Policy::
 
