@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cawebsearch.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516064527id_/http%3A//www.cawebsearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cawebsearch.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231164934id_/http%3A//www.cawebsearch.com/privacy.html) for the most accurate reproduction.*
 
 # CA Search Engine - .CA Web Search - Privacy
 
