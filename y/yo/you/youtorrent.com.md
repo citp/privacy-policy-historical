@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the youtorrent.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513023635id_/http%3A//www.youtorrent.com/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtorrent.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231072329id_/http%3A//www.youtorrent.com/p/privacy-policy) for the most accurate reproduction.*
 
-# YouTorrent » Privacy Policy
+# Privacy Policy
 
 **Website Privacy Statement**
 
 This document was last updated on 1st January 2008.
 
 **1\. ACKNOWLEDGMENT AND ACCEPTANCE OF TERMS**  
-YouTorrent is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing www.youtorrent.com, you acknowledge and fully understand YouTorrent’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+YouTorrent is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing www.youtorrent.com, you acknowledge and fully understand YouTorrent�s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
 **2\. PARTICIPATING MERCHANT POLICIES**  
 Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in YouTorrent’s services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
@@ -18,13 +18,13 @@ YouTorrent collects certain information from and about its users three ways: dir
 **a. Web Pages.**  
 When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
 
-• Your Internet protocol address.  
-• The kind of browser or computer you use.  
-• Number of links you click within the site.  
-• State or country from which you accessed the site.  
-• Date and time of your visit.  
-• Web page you linked to our site from.  
-• Pages you viewed on the site.
+\- Your Internet protocol address.  
+\- The kind of browser or computer you use.  
+\- Number of links you click within the site.  
+\- State or country from which you accessed the site.  
+\- Date and time of your visit.  
+\- Web page you linked to our site from.  
+\- Pages you viewed on the site.
 
 **b. Use of Cookies**  
 YouTorrent may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you.
@@ -40,16 +40,16 @@ Visitors to our website can register to purchase services. When you register, we
 
 We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including, but not limited to:
 
-• To fulfill your service requests for services.  
-• To protect ourselves from liability,  
-• To respond to legal process or comply with law, or  
-• In connection with a merger, acquisition, or liquidation of the company.
+\- To fulfill your service requests for services.  
+\- To protect ourselves from liability,  
+\- To respond to legal process or comply with law, or  
+\- In connection with a merger, acquisition, or liquidation of the company.
 
 **4\. ACCESSING WEB ACCOUNT INFORMATION**  
 We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us [here](mailto:admin@youtorrent.com "YouTorrent Privacy Contact").
 
 **5\. CHANGES TO THIS STATEMENT**  
-YouTorrent has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+YouTorrent has the discretion to occasionally update this privacy statement. When we do, we will also revise the �updated� date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
 **6\. CONTACTING US**  
 If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us [here](mailto:admin@youtorrent.com "YouTorrent Privacy Contact"). We will use our best efforts to promptly respond and resolve any problems or questions.
