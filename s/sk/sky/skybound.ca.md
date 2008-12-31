@@ -1,40 +1,85 @@
-> *The following text is extracted and transformed from the skybound.ca privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412185330id_/http%3A//www.skybound.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skybound.ca privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231030830id_/http%3A//www.skybound.ca/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Skybound Software
+# Skybound's Home Page
 
-Skybound Software ("Skybound") respects your privacy.  We will not give any information about you to others without your express permission. 
+## What information do we collect?
 
-Our site requests certain information in connection with the use of Skybound Software. If you contact us, we may keep an internal record of what support was given. We use your customer information only when it will be important for us to contact you regarding our web site, new services, and special information we think you'll find valuable. If you would rather not receive this information, please send us an email to the address below regarding your preferences. 
+We collect information from you when you register on our site, place an order or subscribe to our newsletter. 
 
-On rare occasions, one of our partners may require us to share your personal information with them. We will only do so with your explicit permission first. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or credit card information. You may, however, visit our site anonymously. 
 
-We may use information gathered about you from our site statistics for various reasons, including, but not limited to, to help diagnose problems with our server, and to administer our Web site. We may also gather broad demographic information from this data to help us improve our site and make your visiting experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system. 
+Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor  information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them. 
 
-This site may also contain links to other sites. Unfortunately, Skybound is not responsible for the privacy practices or the content of such Web sites. 
+## What do we use your information for?
 
-## Updating Your Information 
+Any of the information we collect from you may be used in one of the following ways: 
 
-As a user of Skybound Products, you may desire to send us communications or opt-out of receiving communications from us and our partners at any time. Follow instructions at the bottom of any mass-generated email to do so. 
+  * To personalize your experience (Your information helps us to better respond to your individual needs.)
+  *  To improve our website (We continually strive to improve our website based on the information and feedback we receive from you.)
+  * To improve customer service (Your information helps us to more effectively respond to your customer service requests and support needs.)
+  * To send periodic emails (Customers will not be subscribed to a mailing list unless explicit permission is given.)
+  * To process transactions
 
-## Sending Emails
 
-We use emails to communicate with you. We strive to promptly reply to your messages. The information you send to us may be stored and used to improve this site and our products, or it may be reviewed and discarded. However, your information will only be shared with third parties with your explicit permission. 
 
-## Only If We Have To
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
 
-As stated previously in this policy, we will not share your personal information except with a third party to assist us in the processing or securing of your personal information or when we are required by law unless we have given you notice and choice, in the good-faith belief that such action is necessary in order to conform to the edicts of the law, or we must comply with a legal process served on our web site. 
+## How do we protect your information?
 
-## Changes in Our Practices
+We implement a variety of security measures to maintain the safety of your personal information when you place an order. 
 
-If we make material changes to our information handling practices or other privacy aspects, we will post those changes on this privacy statement, at least 30 days prior to their implementation or notify you directly via email. Minor changes will be immediately effective upon reposting to this privacy policy on Skybound's web site. 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-## Contacting the Web Site
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers. 
 
-If you have any questions about our privacy statement, the practices of this site, or your dealings with this web site, please contact us at: 
+## Do we use cookies?
 
-**Skybound Software  
-c/o Legal  
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone. 
+
+## Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+
+## California Online Privacy Protection Act Compliance
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without you consent. 
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their customer account (whose link is provided in the purchase confirmation email). 
+
+## Childrens Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
+
+## Online Privacy Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+## Terms and Conditions
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at www.skybound.ca. 
+
+## Your Consent
+
+By using our site, you consent to our privacy policy. 
+
+## Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
+
+This policy was last modified on **September 10, 2008**. 
+
+## Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+www.skybound.ca  
 611 Welland Rd.  
-RR5 Fenwick, Ontario L0S 1C0  
+Fenwick, ON L0S 1C0  
 Canada  
-**
+support (at) skybound.ca  
++1 877-4-SKYBOUND (+1 877-475-9268)  
+
