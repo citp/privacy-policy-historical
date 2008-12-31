@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bigfishgames.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629070834id_/http%3A//www.bigfishgames.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigfishgames.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231124617id_/http%3A//www.bigfishgames.com/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Big Fish Games
 
-We have created this Privacy Policy in order to show our commitment to your privacy. The following discloses our information gathering and dissemination practices. This policy covers all Big Fish Games, Inc. properties including, but not limited to the following domains: bigfishgames.com, mygamespace.com, bigfishgreetings.com, and all other sites owned or operated by Big Fish Games. 
+We have created this Privacy Policy in order to show our commitment to your privacy. The following discloses our information gathering and dissemination practices. This policy covers all Big Fish Games, Inc. properties including, but not limited to the following domains: bigfishgames.com, mygamespace.com, and all other sites owned or operated by Big Fish Games. 
 
 ## PERSONAL INFORMATION
 
@@ -21,7 +21,7 @@ We may collect the following information when you sign up for a service:
 
 ### IP Address:
 
-When a user visits any Web site owned or operated by Big Fish Games, Inc., we may collect the IP address that requested the display of one of our sites. This address is collected for two purposes. The first purpose is to exercise our ability to restrict access to the site by users who have violated our Terms of Service. The second purpose is to support our advertising partners, so that the partners will be able to accurately count the number of unique visitors to our sites who may have viewed a given advertisement. 
+When a user visits any Web site owned or operated by Big Fish Games, Inc., we may collect the IP address that requested the display of one of our sites. This address is collected for several purposes. The first purpose is to exercise our ability to restrict access to the site by users who have violated our Terms of Service. A second purpose is to support our advertising partners, so that the partners will be able to accurately count the number of unique visitors to our sites who may have viewed a given advertisement. Finally, if you participate in our "Tell a friend" feature, your IP address will be shared with the person to whom you send a game to using this feature. 
 
 ### Sign Up and Survey information:
 
@@ -29,27 +29,25 @@ Any information you provide to us as part of your use of any Big Fish Games Web 
 
 ### Cookies:
 
-The sole purpose of cookies is to enhance your online experience. Cookies are small data files that are stored on your computer by Web sites. Through your Web browser, cookies are only used by the Web site that wrote the cookie. Data stored in a cookie from Big Fish Games is only accessible by the Big Fish Games Web sites. Personal information stored in our cookies is limited to: My Game Space affiliate identifier, Principal Network Partner affiliate identifier,you're your Username. This information enables us to run our affiliate programs, allows customized advertising, lets you automatically sign in when you visit Big Fish Games, and offers other operational site activities. The information in our cookies is kept private and secure. 
+The sole purpose of cookies is to enhance your online experience. Cookies are small data files that are stored on your computer by Web sites. Through your Web browser, cookies are only used by the Web site that wrote the cookie. Data stored in a cookie from Big Fish Games is only accessible by the Big Fish Games Web sites. Personal information stored in our cookies is limited to: My Game Space affiliate identifier, Principal Network Partner affiliate identifier, and your Username. This information enables us to run our affiliate programs, allows customized advertising, lets you automatically sign in when you visit Big Fish Games, and offers other operational site activities. The information in our cookies is kept private and secure. 
 
 ## USE OF COLLECTED INFORMATION
 
-Your username, e-mail address, and password will be used to uniquely identify you as a user on any Big Fish Games Web site. We may use or display your username for the purposes of rankings, competitions, lottery winnings, chat identification, or game high scores. 
+Your username, e-mail address, and password will be used to uniquely identify you as a user on any Big Fish Games Web site. We may use or display your username for the purposes of rankings, competitions or sweepstakes, chat identification, or game high scores. 
 
-Other identifying information collected during the sign up process or through other voluntary means (e.g., via Surveys) may be used to calculate aggregate demographics figures and/or facilitate our ability to direct advertisements to your Web browser. 
+Other identifying information collected during the sign up process or through other voluntary means (e.g., via Surveys) may be used to calculate aggregate demographic figures and/or to facilitate our ability to direct advertisements to your Web browser. In addition, if you participate in our "Tell a friend" feature, your IP address will be shared with the person to whom you send a game to using this feature. 
 
 ## SECURITY OF COLLECTED INFORMATION
 
-All data that we collect is stored on one or more secure database servers that cannot be accessed from outside out corporate network. Outside of our network, the only access to this data is that provided through our Web sites. Through our sites, access to personal information is completely controlled by user-defined e-mail addresses and passwords. Within our corporation, access to data is secured through a private user ID and password known only to key personnel who maintain the database. All employees of Big Fish Games, Inc. are legally bound by a nondisclosure agreement that prevents the disclosure of any corporate information to other parties. We have taken all reasonable precautions to safeguard the privacy of your data. 
+All data that we collect is stored on one or more secure database servers that cannot be accessed from outside our corporate network. Outside of our network, the only access to this data is that provided through our Web sites. Through our sites, access to personal information is completely controlled by user-defined e-mail addresses and passwords. Within our corporation, access to data is secured through a private user ID and password known only to key personnel who maintain the database. All employees of Big Fish Games, Inc. are legally bound by a nondisclosure agreement that prevents the disclosure of any corporate information to other parties. We have taken all reasonable precautions to safeguard the privacy of your data. 
 
 ## E-MAIL/OPT-OUT
 
-When you sign up as a Big Fish Games user, or download any software from Big Fish Games, Inc., by default the option will be selected to allow us to communicate with you via e-mail about news, games, special offers, and events. You have the option to uncheck or check a box during the sign up process that will prevent this, although by doing so you are potentially asking us to not inform you of events and prize awards that may have tangible cash value to you. Any e-mail we send to you will contain information about opting-out of any further mailings, and all Big Fish Games Web sites have areas where you may manually opt-out of receiving further communications. Big Fish Games treats each of its consumer offerings individually, so if you have opted to receive mailings from more than one business entity, if you want to unsubscribe you must do so from each entity individually. 
-
-A second communication option is chosen by default, allowing Big Fish Games to share you information with trusted partners who may also choose to communicate with you. You also have the choice to uncheck the box for this option during the sign up process. 
+When you create a customer account with BFG, you will automatically be registered to receive one or more of our newsletters, even if you previously opted out of receiving newsletters at the time you downloaded any game for free trial play. At any time, you may opt-out of receiving these newsletters by selecting the "unsubscribe" link at the bottom of any newsletter or by contacting us at the address indicated in the newsletter. In addition, the Big Fish Games website includes an area where you may manually opt-out of receiving further communications. Big Fish Games treats each of its consumer offerings individually, so if you are receiving mailings from more than one area of our website, if you want to unsubscribe you must do so with respect to each such area individually. 
 
 ## OTHER INFORMATION COLLECTED
 
-Your Web browser or client software that you use to access Big Fish Games may transmit certain geographic information and information regarding the capabilities or features of your computer and/or software to us. We may also track other types of information, such as what games users play, how long our users have been members of any Big Fish Games businesses or programs, the last time a user visited Big Fish Games, and whether a user has won any of our games, lotteries, jackpots, or contests. We may use this information to calculate aggregate statistics about our user community or for security purposes, and may provide information such information to advertisers and/or partners in aggregate form only. 
+Your Web browser or client software that you use to access Big Fish Games may transmit certain geographic information and information regarding the capabilities or features of your computer and/or software to us. We may also track other types of information, such as what games users play, how long our users have been members of any Big Fish Games businesses or programs, the last time a user visited Big Fish Games, and whether a user has won any of our games, sweepstakes, jackpots, or contests. We may use this information to calculate aggregate statistics about our user community or for security purposes, and may provide information such information to advertisers and/or partners in aggregate form only. 
 
 ## HOW INFORMATION IS USED
 
@@ -69,14 +67,10 @@ If you are referred to Big Fish Games by an affiliate partner, and if you do not
 
 Big Fish Games sites may choose to operate message boards and/or chat areas where users can exchange ideas and communicate with one another. When posting to a message board or chat area, it is important for you to understand that the information is being made publicly available in an online environment. Any information posted is the sole responsibility of the individual user. 
 
-## BIG FISH GREETINGS
-
-Big Fish Greetings is powered by Smilebox. The Big Fish Games Privacy Policy and the Smilebox Privacy Policy apply to any information collected through the Smilebox application. Please refer to Smilebox for more information: <http://www.smilebox.com/privacy.jsp>. 
-
 ## Are you concerned about our use of personal information?
 
-If, for any reason, you are concerned with the way that we may be using your personal information, you may request that we cease to use your information or you may file a complaint by contacting Big Fish Games Privacy Policy Department, 1501 4th Avenue, Suite 800, Seattle, WA, 98101. 
+If, for any reason, you are concerned with the way that we may be using your personal information, you may request that we cease to use your information or you may file a complaint by contacting Big Fish Games Privacy Policy Department, 333 Elliott Avenue West, Suite 200, Seattle, WA 98119 
 
 ## AGREEMENT WITH BIG FISH GAMES POLICIES
 
-By using any of the Big Fish Games Web sites, products, or services, you signify your understanding and agreement to the Privacy Policy stated here, and to the Terms of Service. If you do not agree with our policies, please do not use any of the Big Fish Games Web sites, products, or services. 
+By using any of the Big Fish Games Web sites, products, or services, you signify your understanding and agreement to the Privacy Policy stated here, and to the Terms of Use. If you do not agree with our policies, please do not use any of the Big Fish Games Web sites, products, or services. 
