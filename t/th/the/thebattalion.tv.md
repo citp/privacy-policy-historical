@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebattalion.tv privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529163233id_/http%3A//www.thebattalion.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebattalion.tv privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231201823id_/http%3A//www.thebattalion.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Battalion
 
@@ -21,7 +21,7 @@ We take seriously the collection of personally identifiable information from our
 
 (1) How to contact us
 
-This website is owned and operated by Tule Fog Productions LLC (referred to herein as "TFP," "We," "Us," or "Our, or The Company ). You may contact us directly if you have any questions about this Privacy Policy. Please contact us at [drf@thebattalion.tv](mailto:drf@thebattalion.tv)
+This website is owned and operated by Tule Fog Productions LLC (referred to herein as "TFP," "We," "Us," or "Our, or The Company ). You may contact us directly if you have any questions about this Privacy Policy, please [Contact Us](https://web.archive.org/contact).
 
 (2) Collection of Personal Information
 
