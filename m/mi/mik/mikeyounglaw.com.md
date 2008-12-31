@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the mikeyounglaw.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429071841id_/http%3A//www.mikeyounglaw.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mikeyounglaw.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231044739id_/http%3A//www.mikeyounglaw.com/privacy.html) for the most accurate reproduction.*
 
 # Law Firm Privacy Policy
 
-Michael E. Young, J.D., LL.M.
+This is the website of the Law Office of Michael E. Young PLLC.
 
-5068 W. Plano Parkway, Suite 300
+My postal address is:  
 
-This is the website of the Attorney Michael E. Young.
 
-My postal address is  
 5068 W. Plano Parkway, Suite 300  
 Plano, Texas 75093
 
-I can be reached via e-mail at mike (@) mikeyounglaw dot com or you can reach me by telephone at 214-546-4247
+I can be reached via e-mail by [clicking this link](http://mikeyounglaw.com/wp/contact-me/) or by telephone at 214-546-4247.
 
 For each visitor to my Web page, my Web server automatically recognizes no information regarding the domain or e-mail address.
 
-I collect the e-mail addresses of those who post messages to my bulletin board, the e-mail addresses of those who communicate with me via e-mail, aggregate information on what pages Website visitors access or visit, information volunteered by the visitor, such as survey information and/or site registrations.
+I collect the e-mail addresses of those who post messages to my blog, the e-mail addresses of those who communicate with me via e-mail, aggregate information on what pages Website visitors access or visit, information volunteered by the visitor, such as survey information and/or site registrations.
 
 The information I collect is used to improve the content of my Web page.
 
@@ -39,3 +37,5 @@ Upon request, I provide site visitors with access to a description of informatio
 Website visitors can access this information by writing to me at the above address.
 
 If you feel that this site is not following its stated information policy, you may contact me at the above addresses or phone number.
+
+This policy was last updated on September 27, 2008.
