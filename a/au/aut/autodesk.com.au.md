@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autodesk.com.au privacy policy that was archived on 2008-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080403062303id_/http%3A//south-apac.autodesk.com/adsk/servlet/index%3Fid%3D10901606%26siteID%3D1157326) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autodesk.com.au privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231182730id_/http%3A//south-apac.autodesk.com/adsk/servlet/index%3Fid%3D10901606%26siteID%3D1157326) for the most accurate reproduction.*
 
-# Autodesk - Company - Privacy Policy
+# Autodesk - Privacy Policy
 
 **The privacy practices described in this Privacy Policy, including any changes we may inform you of or post to our web site, apply to our services available under the domain and sub-domains of**[ **www.autodesk.com**](http://www.autodesk.com/) **and apply generally to all of our websites and wholly owned subsidiary websites. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree, please do not use or access our services.**
 
