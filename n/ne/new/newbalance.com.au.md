@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newbalance.com.au privacy policy that was archived on 2008-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080208161223id_/http%3A//www.newbalance.com.au/%3Fsite%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbalance.com.au privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231151336id_/http%3A//www.newbalance.com.au/%3Fsite%3Dprivacy) for the most accurate reproduction.*
 
-# New Balance::NBX
+# New Balance
 
 This Privacy Policy ("Privacy Policy") applies to the information collected on the pages of and by the services on the website located at "www.newbalance.com" (the "Service") operated by New Balance Athletic Shoe, Inc. ("New Balance", "we", "us", or "our"). New Balance is respectful of the privacy concerns of the visitors to the Service. New Balance also recognizes the valuable potential of technology to help people communicate with the companies whose web sites they visit, particularly through customer databases. Responsible use of the information you share with New Balance is paramount. In order to help you understand the role technology plays in the collection and use of information you provide to New Balance, New Balance has created the following privacy policy and guidelines. By using the Service or providing your contact information, you are agreeing to our practices concerning the collection and use of your information and to the terms of this Privacy Policy. If you do not agree with any terms or practices described in this Privacy Policy, please do not use the Service.
 
