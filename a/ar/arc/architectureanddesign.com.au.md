@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architectureanddesign.com.au privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205050701id_/http%3A//www.architectureanddesign.com.au/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architectureanddesign.com.au privacy policy that was archived on 2009-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090103031521id_/http%3A//architectureanddesign.com.au/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Architecture & Design
 
