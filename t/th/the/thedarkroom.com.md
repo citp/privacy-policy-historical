@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedarkroom.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222090707id_/http%3A//thedarkroom.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedarkroom.com privacy policy that was archived on 2009-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090105162203id_/http%3A//thedarkroom.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - The Darkroom
 
