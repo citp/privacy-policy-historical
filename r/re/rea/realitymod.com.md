@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realitymod.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509192143id_/http%3A//www.realitymod.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realitymod.com privacy policy that was archived on 2009-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090105162007id_/http%3A//realitymod.com/privacy.html) for the most accurate reproduction.*
 
 # Project Reality : Battlefield 2 Mod - Privacy Statement
 
