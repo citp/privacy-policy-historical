@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toledoblade.com privacy policy that was archived on 2008-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080905180637id_/http%3A//www.toledoblade.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toledoblade.com privacy policy that was archived on 2009-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090106005503id_/http%3A//www.toledoblade.com/privacy) for the most accurate reproduction.*
 
 # toledoblade.com -- Privacy statement for toledoblade.com
 
