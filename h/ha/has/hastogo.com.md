@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hastogo.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617181429id_/http%3A//www.hastogo.com/%3Fclassifieds%3D%3Bprint_privacy_page%3Don) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hastogo.com privacy policy that was archived on 2009-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090105125028id_/http%3A//www.hastogo.com/%3Fclassifieds%3D%3Bprint_privacy_page%3Don) for the most accurate reproduction.*
 
-# Internet Classifieds. Cars Trucks Houses Computers for Sale at HasToGo
+# Internet Classifieds Free Online Ads. Buy Sell Cars Trucks Houses Computers Business Opportunities
 
 ## Hastogo.com's Classified Ads Web Site Privacy Policy Statement
 
