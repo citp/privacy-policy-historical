@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the equifax.co.uk privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220212241id_/http%3A//www.equifax.com/privacy_policy/en_uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equifax.co.uk privacy policy that was archived on 2009-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090105220250id_/http%3A//www.equifax.co.uk/About-us/Privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy meta title
-
-### This is Privacy Policy page title
+# Equifax - Privacy Policy
 
 ## EQUIFAX ONLINE PRIVACY POLICY & FAIR INFORMATION PRINCIPLES (U.K. Only)
 
