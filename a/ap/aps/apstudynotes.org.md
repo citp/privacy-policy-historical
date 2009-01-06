@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apstudynotes.org privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204134010id_/http%3A//www.studynotes.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apstudynotes.org privacy policy that was archived on 2009-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090106133725id_/http%3A//www.studynotes.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
