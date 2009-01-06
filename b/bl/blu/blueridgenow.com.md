@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueridgenow.com privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201230122id_/http%3A//www.blueridgenow.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueridgenow.com privacy policy that was archived on 2009-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090106192856id_/http%3A//www.blueridgenow.com/privacypolicy) for the most accurate reproduction.*
 
 # PRIVACYPOLICY | BlueRidgeNow.com | Times-News Online | Hendersonville, NC
 
@@ -81,7 +81,7 @@ BlueRidgeNow may perform statistical, demographic and marketing analyses of subs
 
 ### Products and Service Message from BlueRidgeNow
 
-From time to time, we may provide subscribers with information and offers about other products and services offered by BlueRidgeNow, including subscriptions and other premium products and services. This information will only be shared internally. If you do not wish to receive such information and offers, you may opt-out.
+From time to time, we may provide subscribers with information and offers about other products and services offered by BlueRidgeNow, including subscriptions and other premium products and services. This information will only be shared internally. If you do not wish to receive such information and offers, you may opt-out. To opt-out of offers by mail please go [here](https://www.formrouter.net/forms01@NYTRM/HTN_DNM.html).
 
 ### Banner Advertising
 
