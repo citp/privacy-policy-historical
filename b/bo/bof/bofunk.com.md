@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bofunk.com privacy policy that was archived on 2008-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080908081143id_/http%3A//www.bofunk.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bofunk.com privacy policy that was archived on 2009-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090107065216id_/http%3A//bofunk.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Funny Videos, Funny Clips, Funny Stuff, Crazy Videos, Funny Pictures
 
