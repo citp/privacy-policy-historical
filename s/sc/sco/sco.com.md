@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sco.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009140701id_/http%3A//www.sco.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sco.com privacy policy that was archived on 2009-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090107211623id_/http%3A//www.sco.com/company/privacy) for the most accurate reproduction.*
 
 # The SCO Group, Inc. | Company | SCO Privacy Policy
 
