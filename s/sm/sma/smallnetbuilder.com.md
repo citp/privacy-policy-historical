@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallnetbuilder.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222231225id_/http%3A//www.smallnetbuilder.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallnetbuilder.com privacy policy that was archived on 2009-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090108041208id_/http%3A//www.smallnetbuilder.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SmallNetBuilder - Small Network Help - Privacy Policy
 
@@ -73,6 +73,6 @@ This Privacy Policy may be modified from time to time. Any modifications to our 
 [What else are you reading?](http://www.smallnetbuilder.com/content/view/30327/234/)  
 [About Us](http://www.smallnetbuilder.com/content/view/1398/143/)  
 [Terms of Use](http://www.smallnetbuilder.com/content/view/1416/148/)  
-[Clean out the SmallNetBuilder Closet Contest Rules](http://www.smallnetbuilder.com/content/view/29862/186/)  
 [They're Out to Get You - An Introduction to Internet Security](http://www.smallnetbuilder.com/content/view/25235/113/)  
+[Clean out the SmallNetBuilder Closet Contest Rules](http://www.smallnetbuilder.com/content/view/29862/186/)  
 
