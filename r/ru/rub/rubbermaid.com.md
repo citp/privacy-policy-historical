@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rubbermaid.com privacy policy that was archived on 2006-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060424003832id_/http%3A//www.rubbermaid.com/rubbermaid/aboutus/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubbermaid.com privacy policy that was archived on 2009-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090109140942id_/http%3A//www.rubbermaid.com/rubbermaid/aboutus/privacy.jhtml) for the most accurate reproduction.*
 
 # Rubbermaid.com Privacy Policy
 
