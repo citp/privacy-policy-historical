@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slidefinder.net privacy policy that was archived on 2008-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081002012908id_/http%3A//slidefinder.net/open/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slidefinder.net privacy policy that was archived on 2009-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090109212946id_/http%3A//slidefinder.net/open/privacypolicy.aspx) for the most accurate reproduction.*
 
-# 
+# Privacy policy
 
 ## Privacy Notice
 
