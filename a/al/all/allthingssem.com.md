@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allthingssem.com privacy policy that was archived on 2008-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080801080239id_/http%3A//www.allthingssem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthingssem.com privacy policy that was archived on 2009-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090110152320id_/http%3A//www.allthingssem.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
