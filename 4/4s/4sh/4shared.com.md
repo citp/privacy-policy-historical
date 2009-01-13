@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4shared.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217023531id_/http%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4shared.com privacy policy that was archived on 2009-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090113094920id_/http%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.*
 
 # 4shared.com - free file sharing and storage - Privacy Policy
 
