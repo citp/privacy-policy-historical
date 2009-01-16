@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seattle.gov privacy policy that was archived on 2008-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080720130339id_/http%3A//www.seattle.gov/pan/privacypol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattle.gov privacy policy that was archived on 2009-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090116220133id_/http%3A//www.seattle.gov/pan/privacypol.htm) for the most accurate reproduction.*
 
 # City of Seattle's Official Web Site
 
@@ -6,6 +6,8 @@
 
 Department of Information Technology  
  _Originally posted on September 15, 2004; updated on December 16, 2004_
+
+[City of Seattle Online Privacy and Security Policy Summary Available in 14 Languages](https://web.archive.org/web/20090116220133id_/http%3A//www.seattle.gov/pan/privacytrans.htm)
 
 Section A. Introduction
 
@@ -131,8 +133,5 @@ To access your personally identifiable information collected, if any, or request
 
 To offer comments about the information presented in this Privacy Notice, you can contact:
 
-**By e-mail:** [Robert.Kaye@seattlegov](mailto:Robert.Kaye@seattle.gov)  
+**By e-mail:** [Robert.Kaye@Seattle.Gov](mailto:Robert.Kaye@Seattle.Gov)  
 **By telephone:** (206) 684-3412 
-
-  
-
