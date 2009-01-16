@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingentaconnect.com privacy policy that was archived on 2007-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071002201813id_/http%3A//www.ingentaconnect.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingentaconnect.com privacy policy that was archived on 2009-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090116143457id_/http%3A//www.ingentaconnect.com/about/privacy) for the most accurate reproduction.*
 
 # IngentaConnect Data Privacy Statement
 
