@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybloglog.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217145220id_/http%3A//info.yahoo.com/privacy/us/yahoo/mybloglog) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybloglog.com privacy policy that was archived on 2009-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090119182340id_/http%3A//info.yahoo.com/privacy/us/yahoo/mybloglog) for the most accurate reproduction.*
 
 # MyBlogLog
 
