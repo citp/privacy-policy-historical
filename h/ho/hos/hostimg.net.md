@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostimg.net privacy policy that was archived on 2008-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081007044516id_/http%3A//www.hostimg.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostimg.net privacy policy that was archived on 2009-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090119100959id_/http%3A//hostimg.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Image Hosting Hostimg.Net. Хостинг картинок » More Information » Privacy Policy
 
@@ -9,3 +9,5 @@ We may also collect the URL from which you linked into our site, your IP address
 User privacy is something we take very seriously at Image Hosting Hostimg.Net. Хостинг картинок. We do not, and have never, sold or disseminated (except in cases where required to by law by law enforcement agencies) the personal information of our users to any parties outside of Image Hosting Hostimg.Net. Хостинг картинок. We use account information for the purposes of creating and maintaining individual user accounts, contacting users in case of a problem with their account, sending personal information, for statistical purposes, to administer our systems, to conduct surveys, to administer drawings or contests, and to provide technical support. All of our development is done in-house, and hence no contracted parties will ever have access to individual account information. 
 
 If you have any question, please do not hesitate to [contact us](http://hostimg.net/contact.php?act=contact_us). 
+
+All complaints write on email dzheker[@]gmail.com in a manual mode. From the letter box. Also specify references (Links) removals. Letters should be with mark ABUSE.HOSTIMG.NET .In letters specify that you are the lawful legal owner what or a picture
