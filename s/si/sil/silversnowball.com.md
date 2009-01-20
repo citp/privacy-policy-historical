@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silversnowball.com privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121185815id_/http%3A//silversnowball.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silversnowball.com privacy policy that was archived on 2009-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090120211014id_/http%3A//silversnowball.com/privacy.htm) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
