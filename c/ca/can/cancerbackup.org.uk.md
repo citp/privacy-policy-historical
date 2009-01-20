@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cancerbackup.org.uk privacy policy that was archived on 2008-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081203135910id_/http%3A//www.cancerbackup.org.uk./Termsconditions/Privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancerbackup.org.uk privacy policy that was archived on 2009-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090120051604id_/http%3A//www.cancerbackup.org.uk/Termsconditions/Privacystatement) for the most accurate reproduction.*
 
 # Privacy statement : Cancerbackup
 
@@ -36,7 +36,7 @@ Cancerbackup records some details about enquiries to monitor the quality and del
   
 
 
-Page last modified: 07 October 2008
+Page last modified: 14 January 2009
 
   
 
