@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hotcourses.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224061059id_/http%3A//www.hotcourses.com./termsandconditions/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotcourses.com privacy policy that was archived on 2009-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090121135826id_/http%3A//www.hotcourses.com/termsandconditions/privacy.html) for the most accurate reproduction.*
 
 # Hotcourses Website Terms of Use
 
-[](https://web.archive.org/web/20081224061059id_/http%3A//www.hotcourses.com./termsandconditions/index.html "Hotcourse homepage")
+[](https://web.archive.org/web/20090121135826id_/http%3A//www.hotcourses.com/termsandconditions/index.html "Hotcourse homepage")
 
 ## 1\. Introduction
 
