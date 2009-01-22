@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiastudychannel.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063959id_/http%3A//www.indiastudychannel.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiastudychannel.com privacy policy that was archived on 2009-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090122221045id_/http%3A//www.indiastudychannel.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # IndiaStudyChannel privacy policy
 
@@ -11,15 +11,15 @@
 **Active Members**   
 _**Today**_
 
-  * [Harsh.S](https://web.archive.org/member/mindsite.aspx) (90)
-  * [vasudevan](https://web.archive.org/member/kumareshbabu.aspx) (61)
-  * [Subbu](https://web.archive.org/member/subbu_mani.aspx) (60)
+  * [Seemark](https://web.archive.org/member/rkseestar.aspx) (813)
+  * [RK](https://web.archive.org/member/rkwin2007.aspx) (430)
+  * [eldho](https://web.archive.org/member/eldho_frs.aspx) (305)
 
  _ **Last 7 Days**_
 
-  * [Srinath](https://web.archive.org/member/srisci87.aspx) (1500)
-  * [Girish Patil](https://web.archive.org/member/girishpatil.aspx) (1306)
-  * [Saranya](https://web.archive.org/member/saranyaisc.aspx) (1054)
+  * [Seemark](https://web.archive.org/member/rkseestar.aspx) (2584)
+  * [Mahesh](https://web.archive.org/member/genious20.aspx) (2013)
+  * [RK](https://web.archive.org/member/rkwin2007.aspx) (1824)
 
 [more...](https://web.archive.org/members/Topperformers.aspx)
 
@@ -37,8 +37,8 @@ _**Today**_
 
   
 [](https://web.archive.org/jobs/)   
-Our fresher job section is exclusively for fresh graduates! Find jobs for freshers in major Indian cities including Bangalore, Chennai, Hyderabad, Pune or Kochi [](https://web.archive.org/web/20081217063959id_/http%3A//www.indiastudychannel.com/resources/)   
-Find educational articles, blogs, discussion threads and other resources. [](https://web.archive.org/web/20081217063959id_/http%3A//www.indiastudychannel.com/colleges/)   
+Our fresher job section is exclusively for fresh graduates! Find jobs for freshers in major Indian cities including Bangalore, Chennai, Hyderabad, Pune or Kochi [](https://web.archive.org/web/20090122221045id_/http%3A//www.indiastudychannel.com/resources/)   
+Find educational articles, blogs, discussion threads and other resources. [](https://web.archive.org/web/20090122221045id_/http%3A//www.indiastudychannel.com/colleges/)   
 Find details about any college in India or search for courses.
 
 [](http://whos.amung.us/show/kegcia20)
@@ -71,7 +71,8 @@ We use advertisements from third party companies. We try to avoid any kind of of
 
 As we continue to develop and grow our web site, we may sell IndiaStudyChannel.com or part of it. In such transactions, member information generally is one of the transferred business assets. 
 
-|  **Watch TV Channels**
+|    
+**Watch TV Channels**
 
   * [Watch Asianet online](http://windowstreams.com/member/go.php?r=3866&i=b0)
   * [Kairali TV in Internet](http://windowstreams.com/member/go.php?r=3866&i=b0)
