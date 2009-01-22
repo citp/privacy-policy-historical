@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadzoo.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912221936id_/http%3A//gadzoo.com/InfoHome.aspx%3Finfo%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadzoo.com privacy policy that was archived on 2009-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090122225557id_/http%3A//www.gadzoo.com/InfoHome.aspx%3Finfo%3D10) for the most accurate reproduction.*
 
 # Welcome to Gadzoo.com
 
@@ -34,7 +34,7 @@ The security and confidentiality of your personal information is extremely impor
 
 You may modify and correct information previously provided directly to Gadzoo.com for the purposes of classified advertisements, Pet Memorial Tributes, and purchases on the Gadzoo.com store, if necessary. Additionally, although classified advertisement enhancements and Pet Memorial Tribute submissions are screened for content appropriateness, they are not altered except by request. Gadzoo.com offers users the following options for updating information: 
 
-1\. Send e-mail to [info@gadzoo.com](https://web.archive.org/web/20080912221936id_/http%3A//gadzoo.com/EmailHome.aspx?mode=9)  
+1\. Send e-mail to [info@gadzoo.com](https://web.archive.org/web/20090122225557id_/http%3A//www.gadzoo.com/EmailHome.aspx?mode=9)  
 2\. Send postal mail to the following address: 
 
 Gadzoo.com  
@@ -46,13 +46,13 @@ Attention: Customer Service
 
 **Advertising and links**
 
-This site contains links to other sites that may be of interest to our visitors. The Gadzoo.com Privacy Policy applies only to Gadzoo.com and not to other companies’ or organizations’ Web sites to which we link. We are not responsible for the content or the privacy practices employed by other sites. 
+This site contains links to other sites that may be of interest to our visitors. The Gadzoo.com Privacy Policy applies only to Gadzoo.com and not to other companies' or organizations' Web sites to which we link. We are not responsible for the content or the privacy practices employed by other sites. 
 
-Many advertisements on this site are managed and placed on this site by third parties. These companies are called "third party advertisers." Third party advertisers who place advertisements on this site may use cookies and other technical means to collect information (not including personally identifiable information such as your name, address, e-mail address and telephone number) about your visits to this site and other Web sites in order to provide advertisements about goods and services of interest to you. Please keep in mind that if you click on an advertisement on this sites and link to a third party’s Web site, then Gadzoo.com’s Privacy Policy will not apply to your personally identifiable information collected on that third party’s Web site and you must read the privacy policy posted on that site to see how your personally identifiable information will be handled. 
+Many advertisements on this site are managed and placed on this site by third parties. These companies are called "third party advertisers." Third party advertisers who place advertisements on this site may use cookies and other technical means to collect information (not including personally identifiable information such as your name, address, e-mail address and telephone number) about your visits to this site and other Web sites in order to provide advertisements about goods and services of interest to you. Please keep in mind that if you click on an advertisement on this sites and link to a third party's Web site, then Gadzoo.com's Privacy Policy will not apply to your personally identifiable information collected on that third party's Web site and you must read the privacy policy posted on that site to see how your personally identifiable information will be handled. 
 
 **Privacy alert**
 
-Whenever you voluntarily disclose personal information online — for example, in a Pet Memorial Tribute entry or through information contained within a forum — that information can be collected and used by others without our knowledge. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties. Such activities are beyond the control of Gadzoo.com and this Privacy Policy. Please be careful and responsible whenever you are online. 
+Whenever you voluntarily disclose personal information online - for example, in a Pet Memorial Tribute entry or through information contained within a forum - that information can be collected and used by others without our knowledge. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties. Such activities are beyond the control of Gadzoo.com and this Privacy Policy. Please be careful and responsible whenever you are online. 
 
 **Changes to this Privacy Policy**
 
@@ -60,13 +60,13 @@ Gadzoo.com may periodically edit this Privacy Policy. We encourage you to review
 
 **Additional information**
 
-Questions regarding the Gadzoo.com Privacy Policy should be directed to [info@gadzoo.com](https://web.archive.org/web/20080912221936id_/http%3A//gadzoo.com/EmailHome.aspx?mode=9). 
+Questions regarding the Gadzoo.com Privacy Policy should be directed to [info@gadzoo.com](https://web.archive.org/web/20090122225557id_/http%3A//www.gadzoo.com/EmailHome.aspx?mode=9). 
 
 **YOUR CALIFORNIA PRIVACY RIGHTS  
 (As provided by California Civil Code Section 1798.83)**
 
-A California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes ("California customer") is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. 
+A California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes ("California customer") is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties' direct marketing purposes. 
 
-Gadzoo.com does not share information with third parties for their direct marketing purposes. If, however, you are accessing this privacy policy from one of our Affiliate Newspaper sites (for example, www.gadzoo.com/PetsAffiliate/pets.aspx, the privacy policy of the Affiliate Newspaper will apply to the collection of your information unless the Affiliate Newspaper’s privacy policy specifically states otherwise. You should review the privacy policy of the Affiliate Newspaper to understand what information may be collected from you and how it may be used. 
+Gadzoo.com does not share information with third parties for their direct marketing purposes. If, however, you are accessing this privacy policy from one of our Affiliate Newspaper sites (for example, www.gadzoo.com/PetsAffiliate/pets.aspx, the privacy policy of the Affiliate Newspaper will apply to the collection of your information unless the Affiliate Newspaper's privacy policy specifically states otherwise. You should review the privacy policy of the Affiliate Newspaper to understand what information may be collected from you and how it may be used. 
 
-California customers may request further information about our compliance with this law by e-mailing [info@gadzoo.com](https://web.archive.org/web/20080912221936id_/http%3A//gadzoo.com/EmailHome.aspx?mode=9). 
+California customers may request further information about our compliance with this law by e-mailing [info@gadzoo.com](https://web.archive.org/web/20090122225557id_/http%3A//www.gadzoo.com/EmailHome.aspx?mode=9). 
