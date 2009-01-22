@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the like.com privacy policy that was archived on 2008-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081103033530id_/http%3A//www.like.com/privacy.py) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the like.com privacy policy that was archived on 2009-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090122070050id_/http%3A//www.like.com/privacy.py) for the most accurate reproduction.*
 
-# Like.com - Shop visually for shoes, handbags and more
+# Shop visually for shoes, handbags and more at Like.com
 
 *Effective November 8, 2006
 
-**Our Commitment to Privacy** Your privacy is important to us. To better protect your privacy we (Riya, Inc.) provide this notice explaining our online information practices associated with our web site, Like.com (the "Web Site"), and the choices you can make about the way your information is collected and used. 
+**Our Commitment to Privacy** Your privacy is important to us. To better protect your privacy we (Like.com) provide this notice explaining our online information practices associated with our web site, Like.com (the "Web Site"), and the choices you can make about the way your information is collected and used. 
 
 This Privacy Policy is considered to be a part of Like.com's [ User Agreement](https://web.archive.org/terms.py). By using the Web Site you agree to the terms and conditions of the User Agreement, including this Privacy Policy. By using the Web Site, you are also consenting to our privacy practices, including the use and disclosure of any personally identifiable information that you have shared with us, as described in this Privacy Policy.
 
@@ -46,7 +46,7 @@ Should you have other questions or concerns about our Privacy Policy, please sen
 
 .
 
-**Riya, Inc.**   
+**Like.com**   
 3 Waters Park Drive  
 Suite 120  
 San Mateo, CA 94403  
