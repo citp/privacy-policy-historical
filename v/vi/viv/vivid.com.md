@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vivid.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014555id_/http%3A//www.vivid.com/privacystate.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivid.com privacy policy that was archived on 2009-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090122203420id_/http%3A//www.vivid.com/privacy.php) for the most accurate reproduction.*
 
-# Untitled
+# Welcome to the all new Vivid.com!
 
 **Privacy Statement for Vivid Entertainment, Inc.**
 
@@ -25,5 +25,5 @@ You can send email to support@vividcash.com You can send mail to the following p
 To Deactivate your membership: 
 
 Call the following telephone number: 1-888-205-0489   
-Visit [Vivid Support](http://www.vivid.com/support.html)   
-Send an e-mail to: vivid@cs.billingservices.com 
+Visit [Vivid Support](http://www.vivid.com/support/)   
+Send an e-mail to: vivid@cs.billingservices.com
