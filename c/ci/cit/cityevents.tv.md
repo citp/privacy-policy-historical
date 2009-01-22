@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityevents.tv privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218231038id_/http%3A//www.cityevents.tv/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityevents.tv privacy policy that was archived on 2009-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090122192356id_/http%3A//www.cityevents.tv/privacy.php) for the most accurate reproduction.*
 
 # CityEvents : City Events, Venues, Events, Nightlife, Club listings, Events, Night clubs, Club Videos, Promoters, Job offers, Talents, New York, Miami, California, Guestlists, DJs, Models, Club Photos, Dancers, Photographers, Musicians ...
 
