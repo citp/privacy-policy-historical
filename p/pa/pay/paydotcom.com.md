@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the paydotcom.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050607id_/http%3A//www.paydotcom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydotcom.com privacy policy that was archived on 2009-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090122073453id_/http%3A//paydotcom.com/privacy.php) for the most accurate reproduction.*
 
 # Sell Products Online, Sell Online, Affiliate Marketplace, Sell Products Online With Paypal, Affiliate Marketing, Merchant Accounts, Free Product Listing, Digital Products, Affiliate Network, Promote Products, Sell eBooks Online, Sell Software Online, Sell Digital Products Online, Merchant Account, Affiliates, Sell Books Online, Start your homebased business today. Paydotcom.com
 
 | 
 
-[ ](https://web.archive.org/web/20081217050607id_/http%3A//www.paydotcom.com/widgetlp.php)  
+[ ](https://web.archive.org/web/20090122073453id_/http%3A//paydotcom.com/widgetlp.php)  
 
 
   
@@ -12,30 +12,6 @@ Sponsored Links
 
 
 |   
----  
-  
-Want To Have A Really Nice Christmas This Year, Get Started Now!  
-  
-https://paydotcom.com/r/10031/dashenman/21063405/  
-  
-* * *  
-  
----  
-  
-Yes, you can EASILY make OVER $1000 by Christmas. It's Proven to work!  
-  
-www.Adsense-Treasure.egold-world.com  
-  
-* * *  
-  
----  
-  
-And Make Money TODAY! Get $375 In Free Advertising And $100 Sign Up Bonus.  
-  
-http://www.freesitesignup.com/a/coupon.php?id=639  
-  
-* * *  
-  
 ---  
   
 Make Up To $2,000 Per Day With Your FREE Affiliate Website. Only 17 Left  
@@ -46,9 +22,25 @@ http://www.freesitesignup.com/a/coupon.php?id=4952
   
 ---  
   
-Make any amount of money you want. Upto $500/day is GUARANTEED!  
+Free report reveals how to flood your account with $900 payments easily!  
   
-PayDotCom.com/r/58467/alltheways/21870835  
+www.hiddenpassiveincome.com  
+  
+* * *  
+  
+---  
+  
+Complete Kit Sell Your Home even in a down market at the price you want  
+  
+www.optionstocash.com/leaseoption.html?id=maxeyv  
+  
+* * *  
+  
+---  
+  
+And Make Money TODAY! Get $375 In Free Advertising And $100 Sign Up Bonus  
+  
+http://www.freesitesignup.com/a/coupon.php?id=639  
   
 * * *  
   
@@ -58,7 +50,7 @@ PAYDOTCOM
 
 **PRIVACY POLICY**
 
-[For addition legal information, please see Our Terms page.](https://web.archive.org/web/20081217050607id_/http%3A//www.paydotcom.com/terms.php)
+[For addition legal information, please see Our Terms page.](https://web.archive.org/web/20090122073453id_/http%3A//paydotcom.com/terms.php)
 
 **_Definitions_**
 
@@ -80,6 +72,40 @@ This statement governs Our privacy policies with respect to those users of the S
 **"Personally Identifiable Information"** refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial information and/or profiles, social security number and/or other form of tax identification number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
 
 ______________________________
+
+**3rd Party Disclosure** \- This statement informs the customer of what information you plan on disclosing to 3rd parties. In most cases this statement applies to partner companies that you work closely with in order to process or deliver various products to your clients.
+
+Here's a sample statement that you can either use as-is or edit to fit your current policy.
+
+Customer information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without the consent of the customer, other than for the express purpose of delivering the purchased product or service requested by the customer.
+
+\--------------------
+
+**Private Information Security** \- This statement addresses what you do with a customer's private information after an order is placed. Note: Private information is different than public information. Private information refers to information like credit card numbers, social security numbers, financial statements, etc., which must be securely stored and managed if you plan on storing it on your own server. If you're like most businesses, the only private information gathered from the customer is credit card information, which is typically stored on your payment gateway provider's secure servers on your behalf (IE. Companies like Authorize.net, Linkpoint, Paypal, 2CheckOut, etc.).
+
+Basically you have two options. If you don't store credit cards or other private information on your server (which is most likely the case), then you'll want to add something similar to option a) below. On the other hand, if you do store credit cards or other private information on your own server (which is rare), you'll need to go with something similar to option b) and provide more detailed information. Feel free to use the sample statements below:
+
+a) For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider, (insert providers name/s here), keeps this information encrypted and secure on your behalf.
+
+\--or--
+
+b) Private customer information (credit cards, S.S. Numbers, financial's, etc.) may be stored on our servers, in order to...... (Please make sure to enter 1) the reason why the private information needs to be stored on your server, 2) how long you plan on storing this information, and 3) how you protect this information while it is being stored.)
+
+Remember, customers need to know how their information is going to be kept secure and what measures you take to secure it, so the more information you can provide the better. Also, if you are storing private information, particularly credit card numbers on your own server, you should look into PCI scanning services.
+
+\--------------------
+
+**Email Usage** \- This statement refers to the issue of email notifications. If you plan on sending email specifically related to a customers order or a product that a customer has ordered, or if you plan on sending occasional email updates, you typically don't need to provide an opt-in / opt-out option. However, if you have a mailing list, or plan on sending your customers regular or ongoing emails that are not directly related to a product or service that they have purchased from you, you need to include an opt-in area where they physically subscribe and agree to receive email from you, and you need to include an opt-out / unsubscribe option or have instructions as to how they can unsubscribe in the emails you send. Below are some different sample statements that you can use. Please select the option that best fits your websites needs:
+
+a) The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+b) The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to periodic company news, updates, and/or related product or service information, etc.
+
+\--and if you have an opt-in or mailing list option, please add the following option in addition to one of the options above--
+
+c) If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, promotions, etc. However, you may opt-out at any time by emailing [mikefilsaimesupport@gmail.com](mailto:mikefilsaimesupport@gmail.com)
+
+_____________________________________
 
   
 We may use "Personally Identifiable Information" subject to the terms of this Privacy Policy. We will never sell, barter, or rent Your email address to any unauthorized third party. We employ specific security measures when storing, retrieving, or accessing any form of financial information and/or other Personally Identifiable Information.
