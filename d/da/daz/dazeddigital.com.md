@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the dazeddigital.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509133320id_/http%3A//www.dazeddigital.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dazeddigital.com privacy policy that was archived on 2009-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090122073824id_/http%3A//dazeddigital.com/article/826/1/Privacy_Policy) for the most accurate reproduction.*
 
-# Dazed Digital | Dazed & Confused Magazine | Art, fashion, film, music, ideas
+# Dazed Digital | Privacy Policy
 
-You are here: [Home](https://web.archive.org/) > About Dazed Digital
-
-## Privacy Policy
+## PRIVACY POLICY
 
 This policy explains how Dazed Digital uses personal information which we collecti from you. It also explains how we use cookies.
 
