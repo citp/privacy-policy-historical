@@ -1,91 +1,109 @@
-> *The following text is extracted and transformed from the turn.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011080111id_/http%3A//www.turn.com/corp/about/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turn.com privacy policy that was archived on 2009-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090122192646id_/http%3A//www.turn.com/corp/about/privacy-policy.jsp) for the most accurate reproduction.*
 
-# TURN | Privacy Policy
+# Privacy Policy - Turn Inc.
 
-**This Privacy Policy is effective as of June 16th, 2006**
+### This Privacy Policy is effective as of October 15, 2008
 
-Turn Inc. (" **Turn** ") provides advertisers and publishers (or their agents) (" **Web Partners** ") access to a set of technologies and processes designed to display advertisements to consumers viewing a publisher's website(s) (the " **Turn Ads** "). 
+Turn Inc. ("Turn") provides advertisers and publishers ("Business Partners") access to a set of technologies and processes designed to display advertisements to consumers viewing a publisher's website(s) (the "Turn Ads").
 
-Below, please find a description of how Turn strives to protect the privacy of (i) consumers that view and/or interact with a Turn Ad (" **Users** "), (ii) visitors to our website (" **Web Visitors** "), and (iii) our Web Partners. This Privacy Policy may be updated from time to time for any reason. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on the Turn website (our " **Site** "). Your use of our Site and our services constitutes your acceptance of the terms of this Privacy Policy as amended or revised by us, and you are advised to consult this Privacy Policy regularly for any changes. 
+This Privacy Policy describes Turn's privacy practices as they pertain to (i) visitors to our website located at www.turn.com (our "Site"), and (ii) our targeted advertising technology service ("Technology"). If you'd like to understand our privacy practices as they pertain to information collected from and about our Business Partners, please click [here](https://web.archive.org/corp/about/partner-privacy-policy.jsp).
 
-**1\. Consumers Who View Turn Ads**
+If you have any questions about this Privacy Policy, please feel free to contact us at [privacy@turn.com](mailto:privacy@turn.com).
 
-**Information.** Except incidentally as described below, Turn does not collect personally identifiable information (such as name, username, address, phone number or email address) from Users viewing or interacting with Turn Ads. Notwithstanding the foregoing, Turn does collect a User's IP address and information that is specific to how Users access and use the Internet as well as how they view and/or interact with Turn Ads: these non-personally identifying details include, but are not limited to, the website a User is logged onto, the geographic location of the IP address the User is using to access the Internet, the type of browser used, which and how many web pages have been viewed by the User, search terms used, referring/exit pages, platform type and date/time information.
+Turn is a member of the Network Advertising Initiative ("NAI") and is in compliance with the NAI's Self-Regulatory Principles.
 
-**Incidental Receipt of Personal Information.** Turn displays Turn Ads on publishers' web pages based on the content of those pages. It simply-and automatically-matches the words on a page to an appropriate Turn Ad. Sometimes a publisher sends Turn a page that includes a User's personally identifiable information. As an example, if a User edits his California address on a music website's shipping page, Turn might display an Ad for the song, "California Dreaming." Turn will not use personally identifiable information for any other purpose.
+**1\. Site Privacy Policy**
 
-**Purpose.** Except for personal information collected incidentally (see above), the information Turn collects about Users is anonymous and does not personally identify a User. It is obtained for the purpose of delivering Turn Ads and measuring their effectiveness with Users. Turn aggregates this information and uses it to analyze trends, identify the audience most likely to respond to an advertisement and to tailor advertisement placement for our Web Partners accordingly. This aggregated information may be shared with Turn's affiliates, advertisers, employees, customers and Web Partners. Turn reserves the right to track IP addresses for the purposes of fraud prevention, and Turn reserves the right to release IP addresses to legal authorities.
+The Site is intended primarily to offer information about Turn and the services we provide. 
 
-**Cookies.** Turn uses cookies to help it collect, maintain and use this information. A cookie is a small data file that Turn transfers to a User's computer's hard disk for record-keeping purposes when the User is served an advertisement facilitated by Turn. Cookies help Turn better understand the effectiveness of a Turn Ad (for example, by tracking the way in which a User responds to, selects and interacts with a Turn Ad or any content provided therein, or the location and context in which a User views a Turn Ad). Turn's cookies do not contain any personally identifiable information and they can help control the number of times a User views an advertisement. Most Internet browsers automatically accept cookies. A User can instruct his/her browser, by editing its options, to stop accepting cookies or prompt the User before accepting a cookie from the sites s/he visits. If a User does not accept cookies, however, a User may not be able to use all portions of the website which s/he is visiting or all functionality of the services offered. You can learn more about the use of cookies by visiting <http://en.wikipedia.org/wiki/HTTP_cookie>. 
+_Information Collected via the Site_
 
-**Web Beacons.** Turn also uses web beacons, in combination with cookies, to analyze usage patterns of Users. A web beacon is typically a transparent graphic image (usually 1 pixel x 1 pixel) or a piece of Javascript code that is placed on a webpage. The use of a web beacon allows Turn to record that the User has visited that particular webpage, along with particular non-personally identifiable information that the advertiser may choose to include with the beacon, such as the dollar amount of a shopping transaction completed by the user. You can learn more about the use of web beacons by visiting <http://en.wikipedia.org/wiki/Web_beacon>.
+We collect Personally Identifiable Information ("PII") from the Site when you choose to provide it to us. PII is any information that can be used to identify or locate a particular person or entity. This includes, but is not limited to: name, postal address, telephone number, or email address. For example, you may choose to send us PII about yourself in an email or by completing an online form on this Site. We use this information only to contact you to respond to your inquiry. Once collected, we will store your PII for a reasonable time for record keeping purposes. The information that we store is usually deleted as space requires or in the normal course of business.
 
-**Advertisement Links.** Turn Ads may contain links to other websites, including those of our Web Partners. Such websites may use cookies and/or other data collection tools. Turn is not responsible for the privacy practices, policies or the content of such websites. Turn encourages Users to read the posted privacy policies whenever interacting with any website to learn more about the privacy practices of that website. Turn has no control over the use of a User's personal information by third party websites, and a User should exercise caution when deciding to disclose any personally identifiable information.
+We also collect Non-Personally Identifiable Information (Non-PII) via the Site. Non-PII cannot be used to contact any single person or entity and may include your IP address, pages viewed on this Site, browser type, Internet Service Provider, the time/date of your visit to this Site, and your computer's operating system (e.g., Windows XP). Turn uses this information for internal purposes such as to administer the Site, improve and customize the Site, help Turn understand and analyze how the Site is being used and to track aggregate Site usage.
 
-Turn does not have access to, or control of, the cookies and/or other data collection tools that may be placed on any advertisement by a third-party, including those of our Web Partners, and this Privacy Policy does not cover the use of cookies and/or other data collection tools by any third party.
+_Cookies and Web Beacons_
 
-**2\. Visitors to the Turn Website**
+We use "cookies" and web beacons to help us manage this Site. Cookies are small text files that contain a string of alphanumeric characters. We also use persistent cookies on this Site in order to help us manage the opt-out process for our Technology. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. Web beacons (also known as "1X1 pixels" or "clear GIFs") are small strings of code that provide a method for delivering a graphic image on a web page or in an email message for the purpose of transferring data. For more information about cookies and web beacons please visit <http://www.allaboutcookies.org/cookies/>.
 
-The Site, which may be hosted in part or its entirety by a third party, is intended primarily to offer information about Turn and the services it provides. The Site is designed so that a Web Visitor may generally browse it without the collection of any personally identifiable information (except for the Web Visitor's IP address). When a Web Visitor uses the Site, Turn may collect information indirectly and automatically (through the use of cookies and web beacons, as described above) about the Web Visitor's Site activity. Turn uses this activity information for internal purposes such as to administer the Site, improve and customize the Site, help Turn understand and analyze how the Site is being used and to track aggregate Site usage. 
+_Third Party Websites_
 
-The Site may contain links to other websites. Such websites may use cookies and/or other data collection tools. Turn is not responsible for the privacy practices, policies or content of such other websites. Turn encourages its Web Visitors to read the posted privacy policies whenever interacting with any website to learn more about the privacy practices of that website. Turn has no control over the use of a User's personal information by third party websites, and a User should exercise caution when deciding to disclose any personally identifiable information.
+The Site may contain links to other websites. Such websites may use cookies and/or other data collection tools. Turn is not responsible for the privacy practices, policies or content of such other websites. Turn encourages everyone to read the posted privacy policies whenever interacting with any website to learn more about the privacy practices of that website. Turn has no control over the use of information by third party websites, and you should exercise caution when deciding to disclose any PII to those websites.
 
-The Site may provide an opportunity for Web Visitors to contact Turn. If you contact Turn, such contact information (including email addresses) and the content of any communication will be collected and used by Turn in order to respond to the communication and send any relevant or requested information.
+_Updating / Deleting your PII_
 
-The Site permits Web Partners to log into their Accounts and access the Web Partner Services. See Section 3 below for further information.
+If you'd like us to update, correct, delete, or deactivate any PII that you have provided to us on this Site, please send your request to us at [privacy@turn.com](mailto:privacy@turn.com) and we will process your request within a reasonable period of time after receipt.
 
-The Site is not intended for persons under the age of eighteen (18). If you are under eighteen (18), please do not use the Site.
+**2\. Technology Privacy Policy**
 
-**3\. Account Holders: Our Web Partners**
+Turn is a member of the Network Advertising Initiative ("NAI") and is in compliance with the NAI's Self-Regulatory Principles.
 
-This section of the Privacy Policy applies only to information our Web Partners (Turn advertisers and publishers who enter into separate respective Advertiser and Network Participation agreements with Turn) may provide to Turn during their registration with Turn as a Web Partner and their creation of a Web Partner account (an " **Account** "), and in conjunction with their access to, participation in and use of the Turn advertising network and related Turn technology and services (including but not limited to the Turn Site portal) (collectively, the " **Web Partner Services** "). To become a Web Partner, you must be at least eighteen (18) years old and otherwise capable of forming legally binding contracts under applicable law.
+_Overview of Turn's Technology_
 
-Turn is committed to maintaining the privacy of its Web Partners.
+Our Technology collects information about the website(s) that you visit and the advertisements that you see while online. You may encounter our Technology: when Turn or one of our Business Partners purchase online advertisements on a website that you visit; and/or when one of our Business Partners places one of our web beacons on its website, which you visit.
 
-**Collection and Use of Web Partner Information**
+We use the information collected by our Technology in order to help make the Turn Ads you see more relevant to you, and for ad delivery and reporting purposes.
 
-**Account Information.** During Account registration, Turn will collect personally identifiable information from a Web Partner that may include name, company name, address, email address, telephone and fax numbers, Account password, bank information, credit-card type, number and expiration date, domain address for serving Turn Ads, PayPal email address, social security number and/or Federal Tax ID number and other personal information listed in the Account registration form (collectively, a "Profile").
+_What information is collected?_
 
-**Purpose.** Turn's primary goal in collecting a Web Partner's Profile is to communicate with such Web Partner, provide it with a smooth and efficient experience of Web Partner Services and to charge advertisers and pay publishers. To this end, Turn may share Profiles with third-party service providers and Turn-related entities worldwide (e.g., its parents, affiliates and subsidiaries and their successors and assigns) in connection with communications, payments and other aspects of operating and promoting the Site and the Turn advertising network. We require that these entities agree to use such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures. Except as explicitly stated herein, Turn does not sell, rent or trade any Profiles to third parties.
+Turn does not collect PII via our Technology. Our Technology does collect and use Non-PII, including: the IP address used to access the Internet, the type of browser used, which and how many Business Partner web pages have been viewed, search terms entered on Business Partner websites, referring/exit pages, and the date and time a Turn Ad was viewed.
 
-**Use.** Turn may use a Profile in the following ways: 
+Turn uses this information to analyze trends, identify the audience most likely to respond to an advertisement and to tailor advertisement placement for our Business Partners accordingly. We also may aggregate this information and share it with Turn's affiliates, advertisers, employees, customers and Business Partners.
 
-(a) Turn may use a Web Partner's name, address, email address and telephone number: (i) to enable Turn to process, validate and verify an Account; (ii) to contact the Web Partner regarding Account activities or communications relevant to Web Partner Services; and (iii) to contact the Web Partner about new or existing products and services or special offers.
+_Cookies and Web Beacons_
 
-(b) Turn may use a publisher's: (i) name, address, account password, bank information or credit-card number in order to process and remit fees to publisher and/or verify personal information and identity of the publisher; and as appropriate (ii) social security number and/or Federal Tax ID number to prepare Form 1099s if necessary and to help Turn verify such Web Partner's identity. 
+Turn uses cookies and web beacons in connection with our Technology. Cookies help Turn better understand the effectiveness of a Turn Ad (for example, by tracking the way in which you may respond to, selectand interact with a Turn Ad or any content provided therein, or the location and context in which you view a Turn Ad). Turn's cookies also help control the number of times you view a Turn Ad. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to enjoy the full functionality of many of the websites you visit.
 
-(c) Turn may use an advertiser's: (i) name, address, account password, bank information or credit-card number in order to process and charge fees to advertiser and/or verify personal information and identity of the advertiser; and as appropriate (ii) social security number and/or Federal Tax ID number to prepare Form 1099s if necessary or to help Turn verify such Web Partner's identity.
+Turn also uses web beacons, in combination with cookies, to analyze usage patterns. The use of a web beacon allows Turn to record that someone has visited a particular webpage, along with additional Non-PII that the website may choose to include with the beacon.
 
-(d) Turn uses third-party processing companies (including credit card processing companies) for billing and payment purposes. These third parties may store or retain a Web Partner's personally identifiable information. Turn may charge or bill a Web Partner's credit card an initial Account activation fee as described during the Account registration process. In certain cases, Turn will also use credit card information to help verify Web Partner's identity. These third parties do not have any right to use the Profile information Turn provides to them beyond what is necessary to assist Turn.
+_Third Party Links and Websites_
 
-(e) Turn may combine the information collected from Web Partners on the Site with information that Web Partners provide to Turn in connection with their use of other Turn products and services. 
+Turn Ads may contain links to other websites, including those of our Business Partners. Such websites may use cookies and/or other data collection tools. Turn is not responsible for the privacy practices, policies or the content of such websites. Turn encourages everyone to read the posted privacy policies whenever interacting with any website to learn more about the privacy practices of that website. Turn has no control over the use of anyinformation by third party websites, and you should exercise caution when deciding to disclose any PII. Similarly, Turn does not have access to, or control of, the cookies and/or other data collection tools that may be placed on any advertisement by a third-party, including those of our Business Partners, and this Privacy Policy does not cover the use of cookies and/or other data collection tools by any third party.
 
-(f) **Dispute Resolution.** Turn may use and disclose Profiles and other information Turn obtains from a Web Partner's current and past activities on the Site in special circumstances, if Turn is required to do so, if Turn reasonably believes that such disclosures will potentially mitigate its liability, or for Turn to enforce its rights. For example, Turn may disclose Profiles: (i) to appropriate authorities and to banks associated with a Web Partner's Account in order to prevent or report suspected fraud and illegal activities; (ii) where it is necessary for Turn to enforce the applicable Web Partner agreements; (iii) to resolve disputes, including disputes involving other Web Partners or consumers, in connection with actual or potential parties to a lawsuit or actions that Turn is or may become involved in, and to identify potential liabilities and troubleshoot problems; or (iv) in order to prevent harm to any persons. In some cases, the government can compel the disclosure of information about a Web Partner, and Turn will need to comply, in which case Web Partner authorizes Turn to do so.
+_Storage of Non-PII_
 
-(g) **Surveys.** From time to time Turn may ask Web Partners to participate in surveys. These surveys are entirely voluntary and a Web Partner may decline to participate. If you choose to provide some of your Profile information in response to a survey, such information will be used for purposes of monitoring or improving the Site or the use and satisfaction of the Turn services. 
+We retain the Non-PII collected via our Technology for up to 90 days in order to ensure that our Technology is functioning properly. After 90 days, we render this information anonymous and store it for up to three years.
 
-(h) **Cookies.** Turn automatically collects a Web Partner's IP addresses and website usage information when a Web Partner logs into their Account or while using Web Partner Services. Turn may collect information indirectly and automatically (through the use of cookies, as described above) about the Web Partner's Site activity. Turn uses this activity information to help Turn evaluate how its Web Partners use and navigate the Site on an aggregate basis, including the number and frequency of Web Partner visits, and the length of their visits. Turn also uses the non-permanent session cookie to track and maintain a web partner's login status during their session on the site. Turn also uses this information for internal purposes, such as to help Turn diagnose any server problems, administer the Site, improve and customize the Site, or help Turn understand and analyze how the Site is being used. Turn may link IP addresses to certain personally identifiable information only when reasonably necessary to satisfy any applicable law, regulation, legal process or enforceable governmental request, enforce applicable Web Partner agreements, including investigation of potential violations thereof, or detect, prevent or protect Turn against or otherwise address criminal activity, fraud, security or technical issues.
+**Controlling the use of your information**
 
-(i) **Storing and Processing Profiles.** Profiles collected during a Web Partner's use of the Web Partner Services may be stored and processed in any country in which Turn maintains facilities. Consequently, Turn has the right to transfer information outside of a Web Partner's country, and you consent to such transfer. If a Web Partner registers an Account on any website controlled by Turn or a Turn-related entity located outside of the United States, such Profile must be disclosed to Turn, which is located inside the United States, in order for the Web Partner to access or use any Web Partner Services. Therefore, Web Partner acknowledges and consents to the sharing of its Profile with Turn and Turn-related entities worldwide.
+_Opting out_
 
-**Opt-Out.** If a Web Partner does not wish to receive communications from Turn as contemplated under this Privacy Policy, such Web Partner has the ability to stop receiving these mail communications by logging into their Account and accessing the "Account Settings" screen in the Turn Site portal. Web Partner will, however, always receive administrative emails from Turn that are related to Web Partner Services.
+If you'd like to opt-out from having Turn collect your Non-PII in connection with our Technology, please [click here to opt out](https://web.archive.org/corp/about/opt-out.jsp). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to tailor Turn Ads to your interests. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice.
 
-**Correcting/Updating Web Partner Information.** Web Partners can review, update and edit their Profile by logging into their Account and accessing the "Account Settings" screen in the Turn Site portal.
+_Deleting your PII_
 
-**Transaction History.** A Web Partner may unsubscribe from the Web Partner Services and request that Turn remove their Profile from the Turn databases. However, in order to resolve disputes, assist with any applicable law, regulation, legal process or governmental requests or investigations, and due to technical constraints (including the fact that Turn backs up its systems), a Web Partner's information and transaction history are never completely removed from the Turn databases.
+Although we don't collect PII via our Technology, if you'd like us to update, correct, delete or deactivate any PII that you have provided to us on the Website, please send your request to us at [privacy@turn.com](mailto:privacy@turn.com) and we will process your request within a reasonable period of time after receipt.
 
-**Security.** Turn stores Profile information in limited access servers. Turn will maintain safeguards to protect the security of these servers and the Profiles. Although Turn strives to keep Profiles secure, no security measures are absolute or fool-proof, and there is always a possibility that a security breach could occur, resulting in the release of Profile information.
+**3\. General:**
 
-**Other Information.** If you send Turn email correspondence, or if consumers or other third parties send Turn email or other correspondence regarding a particular Web Partner's activities, Turn may collect such information.
+_Information Security_
 
-**4\. General:**
+The security of your information is important to us. We have implemented reasonable security measures to protect the information in our care, both during transmission and once we receive it. This includes, but is not limited to the use of encryption. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
 
-If any or all of the assets of Turn are acquired by, or merged with another entity, we will share some or all of the information described in this Privacy Policy with this entity.
+If you have any questions about our security practices, please send an email to us at [privacy@turn.com](mailto:privacy@turn.com).
 
-Turn may also use third-party advertising companies to serve or track ads on the Site and other websites, including the websites of our Web Partners. Such companies may use information (not including your name, address, email address or telephone number) about your visits to these websites in order to measure advertising effectiveness and to provide advertisements about goods and services that may be of interest to you.
+_Information Relating to Children_
 
-If you have any questions about this Privacy Policy or the practices of this Site, you can contact us at: Privacy Officer, Turn Inc., 1400 Fashion Island Boulevard, Suite 510, San Mateo, CA 94404; or by email at: [Privacy@turn.com](mailto:Privacy@turn.com).
+Our products and services are designed for those 18 years of age and older. We do not knowingly collect PII from anyone under the age of 18. If we are made aware that we have received PII from someone under 18, we will use reasonable efforts to remove that information from our records.
 
-Copyright © 2006 Turn Inc.
+_Disclosure of Information to Third Parties_
 
-^ back to top
+We do not collect PII via our Technology, and we do not sell, rent or share PII collected on the Website with non-affiliated third parties without your consent. We may, however, share your PII with trusted third party contractors who provide services for us. These third party contractors are prohibited from using the information we provide for purposes other than performing services for us.
+
+We may share Non-PII collected via our Technology with Web Partners. Similarly, we may enhance the Non-PII collected via our Technology with Non-PII collected from Business Partners. This information cannot be used to contact or identify any person individually.
+
+We may disclose your information to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including but not limited to, fraud and situations involving potential threats to the physical safety of any person.
+
+Finally, we may transfer information, including any PII collected via the Site, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change.
+
+_Changes to this Privacy Policy_
+
+This privacy policy is subject to change. If we make any material or substantive changes in the way that we use the PII collected through this Website, we will post a clear and conspicuous notice of those changes on the Website and in this privacy policy.
+
+_Contact Information_
+
+For questions or concerns relating to privacy, please send us an email at [privacy@turn.com](mailto:privacy@turn.com). Alternatively, you may contact us at: Privacy Officer, Turn Inc., 1600 Seaport Boulevard, Suite 300, Redwood City, CA 94063.
+
+Copyright © 2009 Turn Inc.
+
+back to top
