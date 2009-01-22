@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the island-publications.com privacy policy that was archived on 2008-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081004190836id_/http%3A//www.newsday.com/go/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the island-publications.com privacy policy that was archived on 2009-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090122103446id_/http%3A//www.newsday.com/go/services/privacypolicy) for the most accurate reproduction.*
 
 # Newsday.com Privacy Policy -- Newsday.com
 
