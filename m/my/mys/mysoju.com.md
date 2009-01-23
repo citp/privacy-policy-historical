@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysoju.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014923id_/http%3A//www.mysoju.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysoju.com privacy policy that was archived on 2009-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090123221025id_/http%3A//www.mysoju.com/privacy) for the most accurate reproduction.*
 
 # Watch Korean, Japanese, Taiwanese Drama and Movie online!
 
