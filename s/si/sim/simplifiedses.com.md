@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplifiedses.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219095152id_/http%3A//www.simplifiedses.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplifiedses.com privacy policy that was archived on 2009-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090123101410id_/http%3A//simplifiedses.com/Privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - SimplifiedSES.com
 
