@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business-world-info.com privacy policy that was archived on 2008-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081203194148id_/http%3A//www.business-world-info.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business-world-info.com privacy policy that was archived on 2009-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090123091959id_/http%3A//www.business-world-info.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Business Point
 
