@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sma.ie privacy policy that was archived on 2008-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080925091436id_/http%3A//sma.ie/index.php%3Farticle%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sma.ie privacy policy that was archived on 2009-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090123120123id_/http%3A//sma.ie/index.php%3Farticle%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Society of African Missions (SMA) - Privacy_Policy
+# Society of African Missions - Privacy Policy
 
 \- 
 
@@ -31,3 +31,9 @@ Acceptance of Terms/Changes to Privacy Policy: Your use of the SMA web site indi
 **Fr Tom Curran SMA., Communication Director  
 1st February 2007**  
 
+
+* * *
+
+**Page created** : Sunday, December 7th, 2003
+
+**Last modified** : Wednesday, February 14th, 2007
