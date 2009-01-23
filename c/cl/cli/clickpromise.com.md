@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickpromise.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526145835id_/http%3A//clickpromise.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickpromise.com privacy policy that was archived on 2009-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090123061856id_/http%3A//clickpromise.com/privacy.html) for the most accurate reproduction.*
 
 # ClickPromise.com - Email Marketing * List Management
 
@@ -38,9 +38,7 @@ We firmly believe you should easily be able to make changes to your personal inf
 
 **Choice/Opt-Out Procedures**
 
-We allow you to opt-out of receiving communications from us and our affiliates / partners / sponsors when we request information about you. We give you the following options for removing your information from our database to not receive future communications or to no longer receive our service. 
-
-Visit the following page: <http://unsubscribe.pqts1.com/>
+We allow you to opt-out of receiving communications from us and our affiliates / partners / sponsors when we request information about you. 
 
 **Privacy Policy Changes**
 
@@ -55,9 +53,3 @@ We urge parents to regularly monitor and supervise their children's on-line acti
 **Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or use of our trademarks and copyrighted material, please contact us at the address below. For any other concerns about this Site, please go to[ http://www.clickpromise.com/contact.asp](http://www.clickpromise.com/contact.asp). 
-
-ClickPromise  
-26035 Acero  
-Mission Viejo, CA 92691 
-
-Attn: Legal department
