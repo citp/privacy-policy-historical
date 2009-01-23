@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the astrostyle.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513142609id_/http%3A//www.astrostyle.com/About_Us/about_copyright_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrostyle.com privacy policy that was archived on 2009-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090123132219id_/http%3A//www.astrostyle.com/The_AstroTwins/about_copyright_privacy.htm) for the most accurate reproduction.*
 
-# Copyright & Privacy Policy
+# Ophi & Seymour
+
+copyright & privacy policy
 
 Some of the content on AstroStyle.com (a division of Mediarology, Inc.) is free to our visitors and does not require the collection of any personally identifiable information. This site only collects personal information from our visitors on a voluntary basis. By accessing this website our visitors can experience much of our content free of charge and have the option of paying an annual membership fee to gain access to the members only section of the site. 
 
@@ -29,4 +31,14 @@ Choice / Opt-out: Online visitors, including children under the age of 13 and/or
 
 New Notice for Consent: If there are material changes in the collection, use or disclosure practices to which a parent has already agreed, we will send a new notice and request the consent of the parents. 
 
-[NEXT PAGE >](https://web.archive.org/web/20080513142609id_/http%3A//www.astrostyle.com/About_Us/about_copyright_privacy2.htm)
+Sweepstakes & Contest Rules: AstroStyle.com occasionally offers contests and sweepstakes to both fan club members and the general public, but does not condition participation in an activity on disclosing more personally identifiable information than is reasonably necessary to administer the activity. When you enter or participate in a contest or sweepstakes, we request personal information from you (such as your full name, mailing address, email address, telephone number, gender and date of birth). The information you provide is used for the purpose of conducting the promotion (i.e. identifying winners). We may also use this information to send you newsletters and other information we think may be of interest should you opt-in. Recipients of our mailings can unsubscribe by sending an email to customerservice@AstroStyle.com.com 
+
+Cookies : AstroStyle.com may use “cookie” technology to passively obtain non-personal information from its online visitors. A cookie is a piece of data stored on the visitor's hard drive containing information about the user. Once the user closes his/her browser, the cookie simply terminates. At AstroStyle.com, cookies are used to improve your online experiences by providing content specific to your interests (e.g., to store your password to eliminate the need for multiple log-in information or to recognize you by name). The use of cookies is an industry standard that is found on most major websites. 
+
+Security : AstroStyle.com has taken steps to make all information received from our online visitors as secure as possible against unauthorized access and use. All information related to this website is protected through proper security measures, which are periodically reviewed. 
+
+Privacy Statement for Children Under the Age of 13 : The activities of this site are carried out in compliance with the Children's Online Privacy Protection Act of 1998. Under this Act, we may not ask a child to provide more personal information than is reasonably necessary to participate in the free AstroStyle.com website. 
+
+On certain occasions, AstroStyle.com may offer sweepstakes promotions and/or contests. Children under the age of 13 will be asked to check a box indicating he/she is under the age of 13. If so, he/she will be asked to submit his/her parent's email address. After retrieving such information, AstroStyle.com will send an email to the parent notifying him/her the child has registered and provide him/her with information about the program and give instructions on how the parent can remove the child from the promotion and/or contest. AstroStyle.com will use the collected information (emails) ONLY to notify the promotion and/or contest winners and their parent that they have won. AstroStyle.com requires the winners' parents to provide us with all information other than as needed for legal requirements in connection with the promotion and/or contest. At AstroStyle.com, we will ONLY collect the child's email as well as the parent's email for promotional or contest purposes and in no event will AstroStyle.com use the information for any other purposes than to award prizes. The child will not be able to enter any sweepstakes or contest if he/she does not submit his/her parent's email address. 
+
+[NEXT PAGE >](https://web.archive.org/web/20090123132219id_/http%3A//www.astrostyle.com/The_AstroTwins/about_copyright_privacy2.htm)
