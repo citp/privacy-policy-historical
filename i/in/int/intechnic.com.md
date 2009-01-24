@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intechnic.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912222250id_/http%3A//www.intechnic.com/footer/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intechnic.com privacy policy that was archived on 2009-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090124225901id_/http%3A//www.intechnic.com/footer/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Intechnic Corporation
 
