@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2fortune.com privacy policy that was archived on 2007-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071121182150id_/http%3A//www.2fortune.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2fortune.com privacy policy that was archived on 2009-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090125102457id_/http%3A//2fortune.com/privacy_policy.html) for the most accurate reproduction.*
 
 # shortURL.com - free short URL redirection with no ads!
 
