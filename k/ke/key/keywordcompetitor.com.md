@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the keywordcompetitor.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218211832id_/http%3A//www.keywordcompetitor.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordcompetitor.com privacy policy that was archived on 2009-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090125083256id_/http%3A//keywordcompetitor.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-PPC Competitor Reports is committed to safeguarding your privacy on-line. The following statement sets our privacy policy. For the purpose of this Privacy Statement “PPC Competitor Reports" shall mean keywordcompetitor.com. This policy may change from time to time so please re-read this policy periodically. 
+PPC Competitor Reports is committed to safeguarding your privacy on-line. The following statement sets our privacy policy. For the purpose of this Privacy Statement "PPC Competitor Reports" shall mean keywordcompetitor.com. This policy may change from time to time so please re-read this policy periodically. 
 
 Our site collects information in several ways. When you sign up with our PPC Competitor Reports services, you are required to complete an order form. PPC Competitor Reports request your "Contact Information" like your name and email address. 
 
