@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the diversityinc.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510110133id_/http%3A//www.diversityinc.com/public/department12.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diversityinc.com privacy policy that was archived on 2009-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090125130021id_/http%3A//www.diversityinc.com/public/department12.cfm) for the most accurate reproduction.*
 
 # Our Privacy Policy
-
-Our Privacy Policy 
 
 We are strongly committed to safeguarding subscribers' privacy on DiversityInc.com. We operate under the following strict privacy policy:
 
