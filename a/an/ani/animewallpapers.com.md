@@ -1,26 +1,44 @@
-> *The following text is extracted and transformed from the animewallpapers.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604073453id_/http%3A//www.animewallpapers.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animewallpapers.com privacy policy that was archived on 2009-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090126054650id_/http%3A//www.animewallpapers.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy :: Anime Wallpapers.com
+# Privacy Policy (Anime Wallpapers.com)
 
-## Server Logs
-
-This site logs your IP address along with requests made to our web server. This information is used exclusively for internal traffic analysis purposes.
-
-## E-mail Address
-
-There are places on this site where you can enter your e-mail address and other information. Information gathered from these forms are used exclusively in the following manner:
-
-Where Entered | How Used  
----|---  
-Guestbook | Posted publicly on the website. We may also write a reply to your post.  
-Let 'Em Know | To send a confirmation message to you and used in the message to your friend.  
-Survey | To improve this website. Survey results may be shared with third parties, but only in aggregate form; no individually identifyable information will be released.  
-Mailing List | To send you weekly updates about new wallpapers added to this site.  
   
-## Third Party Advertising
+[Home](http://www.animewallpapers.com/) > Privacy Policy 
 
-We use BUDS INC, MaxWorldWide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+Our postal address is  
+2006 Benson ave 3d  
+Brooklyn, NY 11214  
+We can be reached via e-mail at webmaster@animeglobe.com
 
-## Third Party Cookies
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who make postings to our chat areas, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+
+The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, not shared with other organizations for commercial purposes.
+
+With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads.
+
+If you do not want to receive e-mail from us in the future, please let us know by or Setting "Recieve Emails from Admin" to "Off" in the forum User CP.
+
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
+Gorilla Nation Media, Valueclick Media, BlueLithium and Google AdSense
+
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+
+Upon request we provide site visitors with access to a description of information that we maintain about them.  
+Consumers can access this information by e-mail us at the above address.
+
+Upon request we offer visitors the ability to have inaccuracies corrected in contact information, unique identifiers.  
+Consumers can have this information corrected by or Changing the corresponding values in their forum User CP.
+
+With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses.   
+
+
+  
+  
+  
+
+
+| 
