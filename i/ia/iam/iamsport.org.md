@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the iamsport.org privacy policy that was archived on 2008-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081018210331id_/http%3A//www.iamsport.org/content/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamsport.org privacy policy that was archived on 2009-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090126022945id_/http%3A//www.iamsport.org/pg/pages/view/408) for the most accurate reproduction.*
 
-# Privacy Policy
+# IAMSport
 
 ### IAMSPORT PRIVACY POLICY
 
-  
-This privacy policy relates to use of the IAMSPORT websites at [http://www.iamsport.com](http://www.iamsport.com/) and [http://www.iamsport.org](http://www.iamsport.org/)
+This privacy policy relates to use of the IAMSPORT websites at [http://www.iamsport.com](http://www.iamsport.com/) and [http://www.iamsport.org](https://web.archive.org/)
 
 This privacy policy covers how IAMSPORT (hereafter named "we") will treat personal information that we collect. Personal information your information and includes identifiers like your name, address, email address, and phone number.
 
@@ -59,3 +58,7 @@ We may update this policy at any time for any reason. If there are any significa
 
 How To Contact Us  
 Should you have other questions or concerns about these privacy policies, please call us send us an email at [support@iamsport.org](mailto:support@iamsport.org)
+
+[privacy policy](http://www.iamsport.org/search/?tag=privacy+policy), [iamsport](http://www.iamsport.org/search/?tag=iamsport)
+
+Last updated 100 days ago by [IAMSPORT ONE](http://www.iamsport.org/pg/profile/admin)
