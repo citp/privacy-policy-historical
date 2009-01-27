@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlyeducation.com privacy policy that was archived on 2008-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080818170314id_/http%3A//www.onlyeducation.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlyeducation.com privacy policy that was archived on 2009-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090127051914id_/http%3A//onlyeducation.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
