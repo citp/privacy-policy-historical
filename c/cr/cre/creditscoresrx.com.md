@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditscoresrx.com privacy policy that was archived on 2008-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081212012022id_/http%3A//www.creditscoresrx.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditscoresrx.com privacy policy that was archived on 2009-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090127060124id_/http%3A//creditscoresrx.com/privacy.php) for the most accurate reproduction.*
 
 # CreditScoresRX.com: Improve Your Credit Score, Starting Today!
 
