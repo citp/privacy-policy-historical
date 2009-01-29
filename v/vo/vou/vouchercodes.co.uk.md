@@ -1,75 +1,97 @@
-> *The following text is extracted and transformed from the vouchercodes.co.uk privacy policy that was archived on 2008-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080422214901id_/http%3A//www.vouchercodes.co.uk/Content/Privacy-C7.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercodes.co.uk privacy policy that was archived on 2009-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090129110710id_/http%3A//www.vouchercodes.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# Discount Codes | Privacy
+# VoucherCodes.co.uk Data Protection and Privacy Policy
 
-1\. INTRODUCTION  
-2\. WEBSITE ADMINISTRATION  
-3\. TYPES OF INFORMATION COLLECTED; USES OF INFORMATION  
-4\. TRANSFER OF BUSINESS ASSETS  
-5\. COOKIES  
-6\. LINKS  
-7\. PUBLIC FORUMS  
-8\. SECURITY  
-9\. CHILDREN  
-10\. CHOICE / OPT-OUT  
-11\. CORRECTING OR UPDATING YOUR INFORMATION  
-12\. CONTACTING THE WEBSITE
+eConversions Limited ("We") are committed to protecting and respecting your privacy.
 
- ** _1\. INTRODUCTION_**  
-This document has been produced to ensure our visitors fully understand what information we collect and how we use it.
+This policy (together with our website terms and conditions that apply to your use of our website) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
- ** _2\. WEBSITE ADMINISTRATION_**  
-The following Privacy Statement relates to:
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is eConversions Limited of First Floor, 62 Britton Street, London, EC1M 5UY.
 
-Website : http://www.discountcodes.co.uk
+### Information We May Collect from You
 
-DiscountCodes has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our online information gathering and dissemination practices.
+We may collect and process the following data about you:
 
-Our overall policy is extremely simple: If we collect information from you, we use it only for the purposes for which it was collected, and the other limited purposes outlined below. We will not sell or share your personally identifiable information with any third party except in a transfer of our business assets.
+  * Information that you provide by filling in forms on our site www.VoucherCodes.co.uk (the Website). This includes information provided at the time of registering for our newsletter, posting discounts and other material or contacting us. We may also ask you for information when you report a problem with the Website.
+  * If you contact us, we may keep a record of that correspondence.
+  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+  * Details of your visits to our site including, but not limited to, traffic data, location data and other communication data and the resources that you access.
 
-Here are the details of our privacy policies. This statement may change over time and therefore it is recommended that you review it periodically.
 
- ** _3\. TYPES OF INFORMATION COLLECTED; USES OF INFORMATION_**  
-We collect some non-personally identifiable information automatically and some in our registration forms and online surveys. Non-personally identifiable information might include your IP address, the type of browser or operating system you use, the domain name from which you linked to our site and other general demographic information. We use this non-personally identifiable information to help diagnose problems with our server, and to assist in the administration of advertising campaigns.
 
-Our site's registration form and online surveys may request or require users to provide personally identifiable information (like their name, gender, age and e-mail address). We may use the information from our registration forms and surveys to contact the user, but users may opt-out of receiving future mailings (see the choice/opt-out section below). We will not sell or disclose your personally identifiable data to any third party unless:  
-(i) we transfer of our business assets (as further described below);  
-(ii) we first obtain permission from you;  
-(iii) we need to share it with agents or contractors who perform services for us;  
-(iv) we are required by law to disclose it.
+### IP Addresses and Cookies
 
- ** _4\. TRANSFER OF BUSINESS ASSETS_**  
-As we continue to develop our business, we may be acquired, merge with another business, or acquire or buy other businesses or assets. In such transactions, both personally and non-personally identifiable information will likely be one of the transferred assets.
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our business users. This is statistical data about our users' browsing actions and patterns.
 
- ** _5\. COOKIES_**  
-We may use "cookies" to determine whether you have visited our site previously and to save and remember any preferences that you set while using our site. Our cookies cannot retrieve any other data from a hard drive or obtain an e-mail address. Although a user has the ability to modify most browsers to either accept all cookies, notify the user when a cookie is sent, or reject all cookies, it may not be possible to utilise certain services at DiscountCodes if cookies are rejected.
+For the same reason, we may obtain information about your usage of the Website by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
 
- ** _6\. LINKS_**  
-This site contains links to other sites. DiscountCodes is not responsible for the privacy practices or the content of such Web sites and therefore users should always check third party privacy policies before submitting personally identifiable information.
+  * To estimate our audience size and usage pattern.
+  * To store information about your preferences, and so allow us to customise our site according to your individual interests.
+  * To speed up your searches.
+  * To recognise you when you return to our site.
 
- ** _7\. PUBLIC FORUMS_**  
-This site may in future make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. By posting information, you also give DiscountCodes the unlimited right to use and republish the information as we see fit.
 
- ** _8\. SECURITY_**  
-DiscountCodes will take all reasonable steps to ensure the safety of your personally identifiable information. This site has security measures in place to protect the loss, misuse and alteration of the information under our control. However, we do not assume any liability for third-party usage of your personal information, whether obtained legally or illegally from our system.
 
- ** _9\. CHILDREN_**  
-DiscountCodes does not seek to collect any information from children under the age of 16. If any child provides us with personally identifiable information, a parent or guardian may notify us and such information will be deleted from our records.
+VoucherCodes.co.uk may also allow advertisers and other third parties to place cookies onto your computer when you visit this website.
 
- ** _10\. CHOICE/OPT-OUT_**  
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service:
+The cookies placed by advertisers and other third parties are used to keep track of the web searches you make while visiting this website, as well as your web surfing behaviour on this website and other websites you may visit. That information is used to show you advertisements tailored to your interests on this and other websites, and/or to keep track of your response to each ad.
 
-You can send mail to the postal address detailed below, providing us with your name and e-mail address and any details of changes you wish to be made on your behalf.
+You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
 
- ** _11\. CORRECTING OR UPDATE YOUR INFORMATION_**  
-This site provides users the following options for changing and modifying information previously provided:
+### Direct Mailings
 
-You can send mail to the postal address detailed below, providing us with your name and e-mail address and any details of changes you wish to be made on your behalf.
+If you register with VoucherCodes.co.uk or sign up for any of our newsletters or alerts, we will send you information about our voucher codes, "free stuff", or other products and services we feel may interest you. Your e-mail address may also be used to send you information about our other websites that we feel are relevant to your registration on vouchercodes.co.uk. This will be limited specifically to websites we own and you will only receive e-mails directly from us.
 
- ** _12\. CONTACTING THE WEB SITE_**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+### Where We Store Your Personal Data
 
-ColdSnail  
-PO BOX 170  
-Wirral  
-CH31 9BG
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+### Uses Made of the Information
+
+We use information held about you in the following ways:
+
+  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
+  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
+  * To carry out our obligations arising from any contracts entered into between you and us.
+  * To allow you to participate in interactive features of our service, when you choose to do so.
+  * To notify you about changes to our service.
+
+
+
+We may also use your data to provide you with information about goods and services which may be of interest to you.
+
+We do not disclose information about identifiable individuals to our affiliate advertisers, but we may provide them with aggregate information about our users.
+
+### Disclosure of Your Information
+
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985.
+
+We may disclose your personal information to third parties:
+
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * If VoucherCodes.co.uk or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Website terms and conditions and other agreements; or to protect the rights, property, or safety of VoucherCodes.co.uk, our customers, or others.
+
+
+
+### Your Rights
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us.
+
+The Website may, from time to time, contain links to and from the websites of third parties. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+### Access to Information
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+### Changes to Our Data Protection and Privacy Policy
+
+Any changes we may make to our data protection and privacy policy in the future will be posted on this page.
+
+### Contact
+
+Questions, comments and requests regarding this data protection and privacy policy are welcomed and should be addressed [here](https://web.archive.org/contact-us.html).
