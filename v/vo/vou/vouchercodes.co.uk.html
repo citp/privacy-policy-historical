@@ -1,233 +1,298 @@
-<!--The following is the downloaded HTML source of the vouchercodes.co.uk privacy policy that was archived on 2008-04-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080422214901id_/http%3A//www.vouchercodes.co.uk/Content/Privacy-C7.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vouchercodes.co.uk privacy policy that was archived on 2009-01-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090129110710id_/http%3A//www.vouchercodes.co.uk/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><title>Discount Codes | Privacy</title>
-<link rel="stylesheet" href="/all.css" type="text/css" media="all">
-<script src="/SpryAssets/SpryValidationTextField.js" type="text/javascript"></script>
-<script language="JavaScript" type="text/javascript" src="/js_files/jquery-1.1.2.pack.js"></script>
-<script>
-	function showCategories(letter){
-		$.ajax({
-			 type: "POST",
-			 url: "/ajax_calls/getCategories.php",
-			 dataType : "html",
-			 data: "letter=" + letter,
-				success: function(msg){
-					$("div#results2").html( msg );
-			 	},
-			 	error: function (data, status, e){
-					alert(e);
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<title>VoucherCodes.co.uk Data Protection and Privacy Policy</title>
+	<!-- Meta -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="description" content="">
+		<!-- Favicon -->
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+	<!-- RSS -->
+	<link rel="alternate" type="application/rss+xml" title="What's The Big Deal" href="/feeds/whatsthebigdeal.xml">
+	<link rel="alternate" type="application/rss+xml" title="New Voucher Codes" href="/feeds/new.xml">
+	<link rel="alternate" type="application/rss+xml" title="Expiring Voucher Codes" href="/feeds/expiring.xml">
+	<!-- Styles -->
+	<link rel="stylesheet" href="http://static.vouchercodes.co.uk/css/global.css" type="text/css" media="screen">
+	
+	<!-- Scripts -->
+	<script type="text/javascript" src="http://static.vouchercodes.co.uk/script/jquery.js?1.3.1"></script>
+	<script type="text/javascript" src="http://static.vouchercodes.co.uk/script/voucher.js"></script>
+	<script type="text/javascript" src="http://static.vouchercodes.co.uk/script/subscribe.js"></script>
+	<script type="text/javascript" src="http://static.vouchercodes.co.uk/script/scroll.js"></script>
+	<script type="text/javascript" src="http://static.vouchercodes.co.uk/script/jquery.autocomplete.js"></script>
+	<script type="text/javascript" src="http://static.vouchercodes.co.uk/script/global.js"></script>	<script type="text/javascript">
+		$(document).ready(function () {
+			$('a[href*="/out/"]').click(function () {
+				var mi = $(this).attr('href').match(/mi=([A-Za-z\-0-9\.]+)/);
+				mi = (mi !== null) ? mi[1] : 'unknown';
+				var offertype = 'b';
+				if ($(this).parents('.voucher').length > 0) {
+					offertype = ($(this).parents('.voucher').hasClass('deal')) ? 'd' : 'v';
 				}
-		 });
-	}
-</script>
-<script>
-	function showCompanies(letter){
-		$.ajax({
-			 type: "POST",
-			 url: "/ajax_calls/getCompanies.php",
-			 dataType : "html",
-			 data: "letter=" + letter,
-				success: function(msg){
-					$("div#results").html( msg );
-			 	},
-			 	error: function (data, status, e){
-					alert(e);
-				}
-		 });
-	}
-</script>
-<link href="/SpryAssets/SpryValidationTextField.css" rel="stylesheet" type="text/css">
+				var ppc = $(this).attr('href').match(/ppc=([A-Za-z\-0-9\.]+)/);
+				ppc = (ppc !== null) ? ppc[1] : '';
+				pageTracker._trackPageview('/foff/' + mi + '/' + offertype + '/' + ppc);
+				return true;
+			});
+		});
+	</script>
 </head>
-
 <body>
-<div align="center">
-<div id="container">
-  <div class="clearfix" id="header">
-    <div id="logo"><a href="/"><img src="/images/logo.png" alt="Discount Codes" width="302" height="69" border="0"></a></div>
-    <div id="search">
-    <form id="search_two" name="search_two" method="get" action="/searchResults.php">
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td width="49%"><img src="/images/search.png" alt="Discount Search" width="155" height="16"></td>
-          <td width="38%"><span id="sprytextfield1">
-              <input name="keywords" type="text" class="searchField" id="text1" value="" style="width:150px;"></span></td>
-          <td width="13%"><input name="IGN_Submit" type="image" id="IGN_Submit" value="Search" src="/images/btn_go.png"></td>
-        </tr>
-	 </tbody></table></form>
-    </div>
-  </div>
-  <div class="clearfix" id="middle">
-    <div id="left"> 
-    <h1 style="padding-top: 30px; padding-bottom: 10px;">Privacy</h1>
-    
-      <o><p></p><table border="0" cellspacing="0" cellpadding="2" width="100%"><tbody><tr><td><strong>PRIVACY STATEMENT</strong></td></tr></tbody></table><p></p><p>1. INTRODUCTION<br>2. WEBSITE ADMINISTRATION<br>3. TYPES OF INFORMATION COLLECTED; USES OF INFORMATION<br>4. TRANSFER OF BUSINESS ASSETS<br>5. COOKIES<br>6. LINKS<br>7. PUBLIC FORUMS<br>8. SECURITY<br>9. CHILDREN<br>10. CHOICE / OPT-OUT<br>11. CORRECTING OR UPDATING YOUR INFORMATION<br>12. CONTACTING THE WEBSITE</p><p><strong><u>1. INTRODUCTION</u></strong><br>This document has been produced to ensure our visitors fully understand what information we collect and how we use it.</p><p><strong><u>2. WEBSITE ADMINISTRATION</u></strong><br>The following Privacy Statement relates to:</p><p>Website : http://www.discountcodes.co.uk</p><p>DiscountCodes has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our online information gathering and dissemination practices.</p><p>Our overall policy is extremely simple: If we collect information from you, we use it only for the purposes for which it was collected, and the other limited purposes outlined below. We will not sell or share your personally identifiable information with any third party except in a transfer of our business assets.</p><p>Here are the details of our privacy policies. This statement may change over time and therefore it is recommended that you review it periodically.</p><p><strong><u>3. TYPES OF INFORMATION COLLECTED; USES OF INFORMATION</u></strong><br>We collect some non-personally identifiable information automatically and some in our registration forms and online surveys. Non-personally identifiable information might include your IP address, the type of browser or operating system you use, the domain name from which you linked to our site and other general demographic information. We use this non-personally identifiable information to help diagnose problems with our server, and to assist in the administration of advertising campaigns.</p><p>Our site's registration form and online surveys may request or require users to provide personally identifiable information (like their name, gender, age and e-mail address). We may use the information from our registration forms and surveys to contact the user, but users may opt-out of receiving future mailings (see the choice/opt-out section below). We will not sell or disclose your personally identifiable data to any third party unless:<br>(i) we transfer of our business assets (as further described below);<br>(ii) we first obtain permission from you;<br>(iii) we need to share it with agents or contractors who perform services for us;<br>(iv) we are required by law to disclose it.</p><p><strong><u>4. TRANSFER OF BUSINESS ASSETS</u></strong><br>As we continue to develop our business, we may be acquired, merge with another business, or acquire or buy other businesses or assets. In such transactions, both personally and non-personally identifiable information will likely be one of the transferred assets.</p><p><strong><u>5. COOKIES</u></strong><br>We may use "cookies" to determine whether you have visited our site previously and to save and remember any preferences that you set while using our site. Our cookies cannot retrieve any other data from a hard drive or obtain an e-mail address. Although a user has the ability to modify most browsers to either accept all cookies, notify the user when a cookie is sent, or reject all cookies, it may not be possible to utilise certain services at DiscountCodes if cookies are rejected.</p><p><strong><u>6. LINKS</u></strong><br>This site contains links to other sites. DiscountCodes is not responsible for the privacy practices or the content of such Web sites and therefore users should always check third party privacy policies before submitting personally identifiable information.</p><p><strong><u>7. PUBLIC FORUMS</u></strong><br>This site may in future make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. By posting information, you also give DiscountCodes the unlimited right to use and republish the information as we see fit.</p><p><strong><u>8. SECURITY</u></strong><br>DiscountCodes will take all reasonable steps to ensure the safety of your personally identifiable information. This site has security measures in place to protect the loss, misuse and alteration of the information under our control. However, we do not assume any liability for third-party usage of your personal information, whether obtained legally or illegally from our system.</p><p><strong><u>9. CHILDREN</u></strong><br>DiscountCodes does not seek to collect any information from children under the age of 16. If any child provides us with personally identifiable information, a parent or guardian may notify us and such information will be deleted from our records.</p><p><strong><u>10. CHOICE/OPT-OUT</u></strong><br>Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service:</p><p>You can send mail to the postal address detailed below, providing us with your name and e-mail address and any details of changes you wish to be made on your behalf.</p><p><strong><u>11. CORRECTING OR UPDATE YOUR INFORMATION</u></strong><br>This site provides users the following options for changing and modifying information previously provided:</p><p>You can send mail to the postal address detailed below, providing us with your name and e-mail address and any details of changes you wish to be made on your behalf.</p><p><strong><u>12. CONTACTING THE WEB SITE</u></strong><br>If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:</p><p>ColdSnail<br>PO BOX 170<br>Wirral<br>CH31 9BG</p><p></p>
-    
-    </o></div>
-    <div id="right">
-      <div class="box">
-  <h1 style="background-color: #FFFFFF; margin-left: 14px; width: 250px; padding-left: 3px;">Latest Discounts</h1>
+	<div id="accessibility">
+		<ul>
+			<li><a href="#menu">Skip to menu</a></li>
+			<li><a href="#content">Skip to content</a></li>
+		</ul>
+	</div>
+	<div id="ctr_outer" class="clear">
+		<div id="ctr_mid" class="clear">
+			<div id="ctr_inner" class="clear">
+				<div id="hdr" class="clear">
+					<h1><a href="/"><span>VoucherCodes.co.uk - everyone loves a deal</span></a></h1>
+					<div id="hdr_right" class="clear">
+						<div id="register" class="clear">
+												<a href="/dashboard/login/" class="register" rel="nofollow">Log In</a>
+						<a href="/dashboard/register/" class="register" rel="nofollow">Sign Up</a>
+												</div>
+					</div>
+				</div>
+				<div id="menu" class="clear">
+					<ul class="clear">
+						<li id="menu_home"><a href="/"><span>Home</span></a></li>
+						<li id="menu_featured_codes"><a href="/featured-voucher-codes.html"><span>Featured Codes</span></a></li>
+						<li id="menu_new_codes"><a href="/new-voucher-codes.html"><span>New Codes</span></a></li>
+						<li id="menu_expiring_codes"><a href="/expiring-voucher-codes.html"><span>Expiring Codes</span></a></li>
+						<li id="menu_all_codes"><a href="/all-voucher-codes.html"><span>All Codes</span></a></li>
+						<li id="menu_printable"><a href="/printable-vouchers.html"><span>Printable Vouchers</span></a></li>
+						<li id="menu_big_deal"><a href="/whats-the-big-deal/"><span>Blog</span></a></li>
+					</ul>	
+					<form action="/dashboard/register/" method="post" class="clear">
+						<fieldset>
+							<p class="clear">
+								<label for="menu_email">Our weekly email delivers the best voucher codes and deals to your inbox!</label>
+								<input type="text" name="f_email" value="Submit your email address" id="menu_email" class="initvalue">
+								<input type="submit" name="submit" value=" " id="menu_submit">
+							</p>
+						</fieldset>
+					</form>
+				</div>
+				<div id="content" class="clear">
+<div class="main clear">
+	<div class="main_ctr">
+		<h2>Data Protection and Privacy Policy</h2>
+
+		<p>eConversions Limited ("We") are committed to protecting and respecting your privacy.</p>
+		<p>This policy (together with our website terms and conditions that apply to your use of our website) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.</p>
+		<p>For the purpose of the Data Protection Act 1998 (the Act), the data controller is eConversions Limited of First Floor, 62 Britton Street, London, EC1M 5UY.</p>
+
+		<h3>Information We May Collect from You</h3>
+		<p>We may collect and process the following data about you:</p>
+		<ul>
+			<li>Information that you provide by filling in forms on our site www.VoucherCodes.co.uk (the Website). This includes information provided at the time of registering for our newsletter, posting discounts and other material or contacting us. We may also ask you for information when you report a problem with the Website.</li>
+			<li>If you contact us, we may keep a record of that correspondence.</li>
+			<li>We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.</li>
+			<li>Details of your visits to our site including, but not limited to, traffic data, location data and other communication data and the resources that you access.</li>
+		</ul>
+
+		<h3>IP Addresses and Cookies</h3>
+		<p>We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our business users. This is statistical data about our users' browsing actions and patterns.</p>
+		<p>For the same reason, we may obtain information about your usage of the Website by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:</p>
+		<ul>
+			<li>To estimate our audience size and usage pattern.</li>
+			<li>To store information about your preferences, and so allow us to customise our site according to your individual interests.</li>
+			<li>To speed up your searches.</li>
+			<li>To recognise you when you return to our site.</li>
+		</ul>
+		<p>VoucherCodes.co.uk  may also allow advertisers and other third parties to place cookies onto your computer when you visit this website.</p>
+		<p>The cookies placed by advertisers and other third parties are used to keep track of the web searches you make while visiting this website, as well as your web surfing behaviour on this website and other websites you may visit. That information is used to show you advertisements tailored to your interests on this and other websites, and/or to keep track of your response to each ad.</p>
+		<p>You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.</p>
+
+		<h3>Direct Mailings</h3>
+		<p>If you register with VoucherCodes.co.uk or sign up for any of our newsletters or alerts, we will send you information about our voucher codes, "free stuff", or other products and services we feel may interest you. Your e-mail address may also be used to send you information about our other websites that we feel are relevant to your registration on vouchercodes.co.uk. This will be limited specifically to websites we own and you will only receive e-mails directly from us.</p>
+
+		<h3>Where We Store Your Personal Data</h3>
+		<p>The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.</p>
+		<p>All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.</p>
+		<p>Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.</p>
+
+		<h3>Uses Made of the Information</h3>
+		<p>We use information held about you in the following ways:</p>
+		<ul>
+			<li>To ensure that content from our site is presented in the most effective manner for you and for your computer.</li>
+			<li>To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.</li>
+			<li>To carry out our obligations arising from any contracts entered into between you and us.</li>
+			<li>To allow you to participate in interactive features of our service, when you choose to do so.</li>
+			<li>To notify you about changes to our service.</li>
+		</ul>
+		<p>We may also use your data to provide you with information about goods and services which may be of interest to you.</p>
+		<p>We do not disclose information about identifiable individuals to our affiliate advertisers, but we may provide them with aggregate information about our users.</p>
+
+
+		<h3>Disclosure of Your Information</h3>
+		<p>We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985.</p>
+		<p>We may disclose your personal information to third parties:</p>
+		<ul>
+			<li>In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.</li>
+			<li>If VoucherCodes.co.uk or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.</li>
+			<li>If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Website terms and conditions and other agreements; or to protect the rights, property, or safety of VoucherCodes.co.uk, our customers, or others.</li>
+		</ul>
+
+		<h3>Your Rights</h3>
+		<p>You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us.</p>
+		<p>The Website may, from time to time, contain links to and from the websites of third parties. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.</p>
+
+		<h3>Access to Information</h3>
+		<p>The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.</p>
+
+		<h3>Changes to Our Data Protection and Privacy Policy</h3>
+		<p>Any changes we may make to our data protection and privacy policy in the future will be posted on this page.</p>
+
+		<h3>Contact</h3>
+		<p>Questions, comments and requests regarding this data protection and privacy policy are welcomed and should be addressed <a href="/contact-us.html" rel="nofollow">here</a>.</p>
+	</div>
 </div>
-<div class="boxMiddle">
-        <div class="clearfix">
-          <ul>
-					          <li class="liBox2"><a href="/Discount/Health-and-Beauty/Gardens-and-Homes-Direct/8-Garden-Home-Discount-P889.html">8% Garden &amp; Home Discount</a></li>
-                    <li class="liBox2"><a href="/Discount/Business-and-Stationery/iStockPhoto/20-iStockPhoto-Code-P888.html">20% iStockPhoto Code</a></li>
-                    <li class="liBox2"><a href="/Discount/Travel-and-Days-Out/Opodo/20-Opodo-Discount-Code-P887.html">£20 Opodo Discount Code</a></li>
-                    <li class="liBox2"><a href="/Discount/Animals/Pet-Meds/6-PetMeds-Discount-P886.html">6% PetMeds Discount</a></li>
-                    <li class="liBox2"><a href="/Discount/Clothing/Peacocks/Free-Delivery-From-Peacocks-P885.html">Free Delivery From Peacocks</a></li>
-                    <li class="liBox2"><a href="/Discount/Children/Movie-Market/20-Off-Movie-Posters-P884.html">20% Off Movie Posters</a></li>
-                    <li class="liBox2"><a href="/Discount/Electricals/Jessops/10-Off-Jessops-Camera-Lenses-P883.html">10% Off Jessops Camera Lenses</a></li>
-                    <li class="liBox2"><a href="/Discount/Electricals/Jessops/10-Off-Jessops-Cameras-P882.html">10% Off Jessops Cameras</a></li>
-                    <li class="liBox2"><a href="/Discount/Children/Yellow-Moon/15-Yellow-Moon-Voucher-P881.html">15% Yellow Moon Voucher</a></li>
-                    <li class="liBox2"><a href="/Discount/Clothing/Cloggs/5-Off-50-Cloggs-Voucher-P880.html">£5 Off £50 Cloggs Voucher</a></li>
-                    <li class="liBox2"><a href="/Discount/Electricals/PixMania/10-Off-EEE-Pixmania-Laptops-P879.html">£10 Off EEE Pixmania Laptops</a></li>
-                    <li class="liBox2"><a href="/Discount/Home-and-Garden/Bedeezee/30-Bedeezee-Promo-Code-P878.html">£30 Bedeezee Promo Code</a></li>
-                    <li class="liBox2"><a href="/Discount/Home-and-Garden/Bedeezee/20-Bedeezee-Discount-P877.html">£20 Bedeezee Discount</a></li>
-                    <li class="liBox2"><a href="/Discount/Home-and-Garden/Bedeezee/10-Bedeezee-Voucher-P876.html">£10 Bedeezee Voucher</a></li>
-                    <li class="liBox2"><a href="/Discount/Home-and-Garden/Marks-And-Spencer/Free-MS-Delivery-Code-P875.html">Free M&amp;S Delivery Code</a></li>
-                    <li class="liBox2"><a href="/Discount/Books/GreatMagazines/250-Great-Magazines-Code-P874.html">£2.50 Great Magazines Code</a></li>
-                    <li class="liBox2"><a href="/Discount/Home-and-Garden/Gardens-and-Homes-Direct/5-Garden-Home-Discount-P873.html">5% Garden &amp; Home Discount</a></li>
-                    <li class="liBox2"><a href="/Discount/Jewellery/Jewellerytv/10-Jewellerytv-Discount-P872.html">10% Jewellery.tv Discount</a></li>
-                    <li class="liBox2"><a href="/Discount/Lingerie/Tights-Please/5-TightsPlease-discount-P871.html">5% TightsPlease discount</a></li>
-                    <li class="liBox2"><a href="/Discount/Health-and-Beauty/Healthy-Direct/2-Off-25-Healthy-Direct-P870.html">£2 Off £25 Healthy Direct</a></li>
-                    </ul>
-        </div>
-      </div>
-      <img src="/images/box_bottom.jpg" alt="Discount Codes">
-<div class="box">
-        <h1 style="background-color: #FFFFFF; margin-left: 14px; width: 320px; padding-left: 3px;">Discounts by Company</h1>
-      </div>
-      <div class="boxMiddle">
-        <div class="clearfix">
-          <p style="margin-bottom:7px">
-            <a href="#" onclick="showCompanies('A');" class="linkalpha"><strong>A</strong></a> 
-            <a href="#" onclick="showCompanies('B');" class="linkalpha"><strong>B</strong></a> 
-            <a href="#" onclick="showCompanies('C');" class="linkalpha"><strong>C</strong></a> 
-            <a href="#" onclick="showCompanies('D');" class="linkalpha"><strong>D</strong></a> 
-            <a href="#" onclick="showCompanies('E');" class="linkalpha"><strong>E</strong></a> 
-            <a href="#" onclick="showCompanies('F');" class="linkalpha"><strong>F</strong></a> 
-            <a href="#" onclick="showCompanies('G');" class="linkalpha"><strong>G</strong></a> 
-            <a href="#" onclick="showCompanies('H');" class="linkalpha"><strong>H</strong></a> 
-            <a href="#" onclick="showCompanies('I');" class="linkalpha"><strong>I</strong></a>
-            <a href="#" onclick="showCompanies('J');" class="linkalpha"><strong>J</strong></a>
-            <a href="#" onclick="showCompanies('K');" class="linkalpha"><strong>K</strong></a> 
-            <a href="#" onclick="showCompanies('L');" class="linkalpha"><strong>L</strong></a> 
-            <a href="#" onclick="showCompanies('M');" class="linkalpha"><strong>M</strong></a> 
-            <a href="#" onclick="showCompanies('N');" class="linkalpha"><strong>N</strong></a> 
-            <a href="#" onclick="showCompanies('O');" class="linkalpha"><strong>O</strong></a> 
-            <a href="#" onclick="showCompanies('P');" class="linkalpha"><strong>P</strong></a> 
-            <a href="#" onclick="showCompanies('Q');" class="linkalpha"><strong>Q</strong></a> 
-            <a href="#" onclick="showCompanies('R');" class="linkalpha"><strong>R</strong></a> 
-            <a href="#" onclick="showCompanies('S');" class="linkalpha"><strong>S</strong></a> 
-            <a href="#" onclick="showCompanies('T');" class="linkalpha"><strong>T</strong></a> 
-            <a href="#" onclick="showCompanies('U');" class="linkalpha"><strong>U</strong></a> 
-            <a href="#" onclick="showCompanies('V');" class="linkalpha"><strong>V</strong></a> 
-            <a href="#" onclick="showCompanies('W');" class="linkalpha"><strong>W</strong></a> 
-            <a href="#" onclick="showCompanies('X');" class="linkalpha"><strong>X</strong></a> 
-            <a href="#" onclick="showCompanies('Y');" class="linkalpha"><strong>Y</strong></a> 
-            <a href="#" onclick="showCompanies('Z');" class="linkalpha"><strong>Z</strong></a>          </p>
-          <div id="results">
-            <ul>
-            	              <li class="liBox2"><a href="/Company/Holdall-C289.html">Holdall (1)</a></li>
-                            <li class="liBox2"><a href="/Company/Gifts-To-Drink-C338.html">Gifts To Drink (3)</a></li>
-                            <li class="liBox2"><a href="/Company/Home-Essentials-C190.html">Home Essentials (1)</a></li>
-                            <li class="liBox2"><a href="/Company/Halfords-C247.html">Halfords (4)</a></li>
-                            <li class="liBox2"><a href="/Company/Chez-Bec-C153.html">Chez Bec (4)</a></li>
-                            <li class="liBox2"><a href="/Company/Be-Cheeky-C9.html">Be Cheeky (4)</a></li>
-                            <li class="liBox2"><a href="/Company/Urban-Surfer-C195.html">Urban Surfer (1)</a></li>
-                            <li class="liBox2"><a href="/Company/Glow-Girl-C143.html">Glow Girl (1)</a></li>
-                            <li class="liBox2"><a href="/Company/Dead-Good-Undies-C283.html">Dead Good Undies (1)</a></li>
-                            <li class="liBox2"><a href="/Company/Waitrose-C260.html">Waitrose (1)</a></li>
-                          </ul>
-          </div>
-          </div>
-      </div>
-      <img src="/images/box_bottom.jpg" alt="Discount Codes">
-      <div class="box">
-        <h1 style="background-color: #FFFFFF; margin-left: 14px; width: 310px; padding-left: 3px;">Discounts by Category</h1>
-      </div>
-      <div class="boxMiddle">
-        <div class="clearfix">
-          <p style="margin-bottom:7px">
-            <a href="#" onclick="showCategories('A');" class="linkalpha"><strong>A</strong></a> 
-            <a href="#" onclick="showCategories('B');" class="linkalpha"><strong>B</strong></a> 
-            <a href="#" onclick="showCategories('C');" class="linkalpha"><strong>C</strong></a> 
-            <a href="#" onclick="showCategories('D');" class="linkalpha"><strong>D</strong></a> 
-            <a href="#" onclick="showCategories('E');" class="linkalpha"><strong>E</strong></a> 
-            <a href="#" onclick="showCategories('F');" class="linkalpha"><strong>F</strong></a> 
-            <a href="#" onclick="showCategories('G');" class="linkalpha"><strong>G</strong></a> 
-            <a href="#" onclick="showCategories('H');" class="linkalpha"><strong>H</strong></a> 
-            <a href="#" onclick="showCategories('I');" class="linkalpha"><strong>I</strong></a>
-            <a href="#" onclick="showCategories('J');" class="linkalpha"><strong>J</strong></a>
-            <a href="#" onclick="showCategories('K');" class="linkalpha"><strong>K</strong></a> 
-            <a href="#" onclick="showCategories('L');" class="linkalpha"><strong>L</strong></a> 
-            <a href="#" onclick="showCategories('M');" class="linkalpha"><strong>M</strong></a> 
-            <a href="#" onclick="showCategories('N');" class="linkalpha"><strong>N</strong></a> 
-            <a href="#" onclick="showCategories('O');" class="linkalpha"><strong>O</strong></a> 
-            <a href="#" onclick="showCategories('P');" class="linkalpha"><strong>P</strong></a> 
-            <a href="#" onclick="showCategories('Q');" class="linkalpha"><strong>Q</strong></a> 
-            <a href="#" onclick="showCategories('R');" class="linkalpha"><strong>R</strong></a> 
-            <a href="#" onclick="showCategories('S');" class="linkalpha"><strong>S</strong></a> 
-            <a href="#" onclick="showCategories('T');" class="linkalpha"><strong>T</strong></a> 
-            <a href="#" onclick="showCategories('U');" class="linkalpha"><strong>U</strong></a> 
-            <a href="#" onclick="showCategories('V');" class="linkalpha"><strong>V</strong></a> 
-            <a href="#" onclick="showCategories('W');" class="linkalpha"><strong>W</strong></a> 
-            <a href="#" onclick="showCategories('X');" class="linkalpha"><strong>X</strong></a> 
-            <a href="#" onclick="showCategories('Y');" class="linkalpha"><strong>Y</strong></a> 
-            <a href="#" onclick="showCategories('Z');" class="linkalpha"><strong>Z</strong></a>          </p>
-          <div id="results2">
-            <ul>
-            	              <li class="liBox2"><a href="/Category/Experience-Days-C28.html">Experience Days (14)</a></li>
-                            <li class="liBox2"><a href="/Category/Computing-C21.html">Computing (21)</a></li>
-                            <li class="liBox2"><a href="/Category/Electricals-C20.html">Electricals (83)</a></li>
-                            <li class="liBox2"><a href="/Category/Children-C22.html">Children (33)</a></li>
-                            <li class="liBox2"><a href="/Category/Lingerie-C26.html">Lingerie (35)</a></li>
-                            <li class="liBox2"><a href="/Category/Travel-and-Days-Out-C11.html">Travel and Days Out (23)</a></li>
-                            <li class="liBox2"><a href="/Category/Broadband-C24.html">Broadband (1)</a></li>
-                            <li class="liBox2"><a href="/Category/Casino-and-Betting-C23.html">Casino and Betting (2)</a></li>
-                            <li class="liBox2"><a href="/Category/Gifts-and-Gadgets-C18.html">Gifts and Gadgets (129)</a></li>
-                            <li class="liBox2"><a href="/Category/Adult-C9.html">Adult (14)</a></li>
-                          </ul>
-          </div>
-          </div>
-      </div>
-      <img src="/images/box_bottom.jpg" alt="Discount Codes">
-      <div class="box">
-        <h1 style="background-color: #FFFFFF; margin-left: 14px; width: 250px; padding-left: 3px;">Rating A Discount</h1>
-      </div>
-      <div class="boxMiddle">
-        <table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="52%" align="left" valign="top"><p>The most important thing about Discount Codes is that<strong> you, the visitor, can rate them!</strong> We actively encourage you to do so!</p>
-                <p><a href="/Content/Discount-Ratings-C8.html"><br>
-                  <strong>read more...</strong></a></p></td>
-            <td width="48%" align="left" valign="top"><img src="/images/fireBoxeg.jpg" alt="Rating Example" width="208" height="122"></td>
-          </tr>
-        </tbody></table>
-      </div>
-      <img src="/images/box_bottom.jpg" alt="Discount Codes"> </div>
-  </div>
-  <div id="footer"></div>
-  <div class="clearfix">
-    <div>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-      </table>
-    </div>
-  </div>
-</div>
-</div>
-<div align="center">
-<div id="footer">
-<a href="/">Home</a>&nbsp;&nbsp;|
-		            <a href="/Content/TCs-C2.html">T&amp;Cs</a>&nbsp;&nbsp;|
-		            <a href="/Content/Links-C6.html">Links</a>&nbsp;&nbsp;|
-		            <a href="/Content/Privacy-C7.html">Privacy</a>&nbsp;&nbsp;|
-		            <a href="/Content/Discount-Ratings-C8.html">Discount Ratings</a>&nbsp;&nbsp;|
-				 ©2007 <a href="http://www.coldsnail.com" target="_blank">ColdSnail Ltd</a>. Site design by <a href="http://www.swanwebs.co.uk" target="_blank">Swan Web Solutions</a></div>
+
+<div class="side clear">
+	<div class="panel paneln panel_suggest" style="display: none;">
+	<h2>Search the Site</h2>
+	<h3>Type a store name below, e.g. dixons, to view voucher codes</h3>
+	<div class="pc clear">
+		<form action="#">
+			<p>
+				<input type="text" size="20"><img src="http://static.vouchercodes.co.uk/images/side/search_button.png" alt="">
+				<input type="text" name="hid" value="" style="position: absolute; top: -9999px; left: -9999px;">
+			</p>
+			<div id="searcherror"><span>No results</span></div>
+		</form>
+	</div>
 </div>
 <script type="text/javascript">
-var sprytextfield1 = new Spry.Widget.ValidationTextField("sprytextfield1", "none", {hint:"COMPANY NAME"});
-</script>
 
-</body></html>
+var m = [], el = '.panel_suggest input';
+
+function f(i) { 
+	return i.toLowerCase().replace(/[^a-z0-9\s\&]/g, ''); 
+}
+
+function ac_submit() {
+	var va = f($(el).val()), gotres = false;
+	if (va !== "") {
+		for (i in m) {
+			var str = f(m[i].n);
+			if (str.indexOf(va) != -1) {
+				gotres = true;
+				window.location.href = '/' + m[i].s;
+				break;
+			}
+		}
+	}
+	if (!gotres) { 
+		$('#searcherror span').show();
+	}
+	return false;
+}
+
+$('.panel_suggest').show();
+$('.panel_suggest form').attr('autocomplete', 'off');
+
+
+$(el).focus(function () {
+	if (m.length === 0) {
+		$.get('/xhr/listmerchants/', {}, function (data) {
+			m = data;
+		}, 'json');	
+	}
+});
+
+var setint = setInterval(function () {
+	if (m.length > 0) {
+		$(el).autocomplete(m, {
+			matchContains: true,
+			formatItem: function (row) {
+				return row.n;
+			},
+			formatMatch: function (row) {
+				return f(row.n);
+			},
+			formatResult: function (row) {
+				return f(row.n);
+			}
+		}).result(function(ev, item) {
+			window.location.href = '/' + item.s;
+		});
+		
+		$('input[name="hid"]')[0].focus();
+		$(el)[0].focus();
+		clearInterval(setint);
+	}
+}, 200);
+
+$('.panel_suggest form').submit(function () { 
+	return ac_submit(); 
+});
+$('.panel_suggest img').click(function () { 
+	return ac_submit();
+});
+</script>	<div class="panel paneln panel_new">
+	<div class="panel_ctr">
+		<h2><span>New to<br>Voucher Codes?</span></h2>
+		<div class="pc clear">
+			<h3>Voucher codes are a great way to save money when you shop&nbsp;online.</h3>
+			<p>Sometimes referred to as promotional codes, e-vouchers or discount codes, they are simply a way to get money off the listed price at many online retailers.</p>
+			<p>Simply enter a code into the checkout of participating stores to receive an instant discount.</p>
+			<p><a href="/tour.html"><img src="http://static.vouchercodes.co.uk/images/side/new_findoutmore.png" alt="Find out more"></a></p>
+		</div>
+	</div>
+</div></div>
+
+				</div>
+				<div id="footer" class="clear">
+					<ul>
+						<li><img src="http://static.vouchercodes.co.uk/images/global/footer/voucher_codes.png" alt="Voucher codes"></li>
+						<li><a href="http://www.vouchercodes.co.uk/">Home</a></li>	
+						<li><a href="http://www.vouchercodes.co.uk/featured-voucher-codes.html">Featured Codes</a></li>
+						<li><a href="http://www.vouchercodes.co.uk/new-voucher-codes.html">New Codes</a></li>
+						<li><a href="http://www.vouchercodes.co.uk/expiring-voucher-codes.html">Expiring Codes</a></li>
+						<li><a href="http://www.vouchercodes.co.uk/all-voucher-codes.html">All Codes</a></li>
+					</ul>
+                    <ul>
+						<li><img src="http://static.vouchercodes.co.uk/images/global/footer/more_great_deals.png" alt="More great deals"></li>
+						<li><a href="http://www.vouchercodes.co.uk/whats-the-big-deal/">What's the Big Deal?</a></li>
+						<li><a href="http://www.vouchercodes.co.uk/printable-vouchers.html">Printable Vouchers</a></li>
+						<li><a href="http://www.vouchercodes.co.uk/restaurant-vouchers.html">Restaurant Vouchers</a></li>
+						<!--<li><a href="http://www.vouchercodes.co.uk/high-street-sales.html">High Street Sales</a></li>-->
+						<li><a href="http://www.vouchercodes.co.uk/articles/">Money Saving Guides</a></li>
+					</ul>
+					<ul>
+						<li><img src="http://static.vouchercodes.co.uk/images/global/footer/about.png" alt="About"></li>
+						<li><a href="http://www.vouchercodes.co.uk/about-us.html">About Us</a></li>
+						<li><a href="http://www.vouchercodes.co.uk/advertise.html" rel="nofollow">Advertise</a></li>
+						<li><a href="http://www.vouchercodes.co.uk/contact-us.html" rel="nofollow">Contact Us</a></li>
+						<li><a href="http://www.vouchercodes.co.uk/faq.html" rel="nofollow">FAQs</a></li>
+						<li><a href="http://www.vouchercodes.co.uk/meet-the-team.html" rel="nofollow">Meet the Team</a></li>
+						<li><a href="http://www.vouchercodes.co.uk/press.html" rel="nofollow">Press</a></li>
+						<li><a href="http://www.vouchercodes.co.uk/rss-subscription.html" rel="nofollow">RSS Subscription</a></li>
+						<li><a href="http://www.vouchercodes.co.uk/submit-a-code.html" rel="nofollow">Submit a Code</a></li>
+						<li><a href="http://www.vouchercodes.co.uk/tour.html" rel="nofollow">Tour</a></li>
+                    </ul>
+					<ul>
+						<li><img src="http://static.vouchercodes.co.uk/images/global/footer/small_print.png" alt="Small print"></li>
+						<li><a href="http://www.vouchercodes.co.uk/privacy-policy.html" rel="nofollow">Privacy Policy</a></li>
+						<li><a href="http://www.vouchercodes.co.uk/terms-and-conditions.html" rel="nofollow">Terms &amp; Conditions</a></li>
+					</ul>
+					<div class="clear">
+						<p>VoucherCodes.co.uk is operated by eConversions&nbsp;Ltd © 2004-2009. All rights&nbsp;reserved.</p>
+						<p>eConversions Ltd is registered in England and Wales with Company No. 5112833 and VAT Registration 836128820</p>
+						<p><a href="http://www.vouchercodes.co.uk/"><img src="http://static.vouchercodes.co.uk/images/global/logo_footer.png" alt="VoucherCodes.co.uk logo"></a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">var pageTracker = _gat._getTracker("UA-5879714-1"); pageTracker._trackPageview();</script>
+
+
+<!-- herded electrons into line with nanoscale cattleprods in 18.58ms --></body></html>
