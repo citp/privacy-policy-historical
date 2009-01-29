@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eguyz.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912123800id_/http%3A//www.eguyz.com/forums/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eguyz.com privacy policy that was archived on 2009-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090129153124id_/http%3A//www.eguyz.com/forums/privacy) for the most accurate reproduction.*
 
-# Forums - eGuyz
+# E! Guyz - Privacy Policy
 
 eGuyz respects and protects the privacy of the individuals that use eGuyz's services ("eGuyz Services"). Individually identifiable information about you is not willfully disclosed to any third party without first receiving your permission or as explained in this privacy policy ("Privacy Policy"). 
 
