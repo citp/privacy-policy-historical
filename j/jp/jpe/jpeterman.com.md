@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the jpeterman.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217181946id_/http%3A//jpeterman.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpeterman.com privacy policy that was archived on 2009-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090130083819id_/http%3A//jpeterman.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# The J. Peterman Company
+# Uncommonly good men's and women's clothing, accessories and things for the home | The J. Peterman Company
 
-  
 Welcome. We appreciate your participation and value your personal privacy at our website, jpeterman.com. The goal of our policy is to explain to you the information we collect, how we use and share this information, and how you can edit your personal information. This policy applies to the information we collect on this website, that you were participating in when you clicked through to this policy, which is owned and operated by The J. Peterman Company. We collect customer information to improve your overall shopping experience with us. We respect your privacy and are committed to maintaining and using this information responsibly. 
 
 This Privacy Policy sets forth the rules and policies governing your use of our website, jpeterman.com. By using our website, you agree to accept these policies. We may change this policy from time to time without notice therefore we recommend you check back periodically to ensure you are comfortable with our most recent policy. Immediately after we post any changes to this policy, those changes are deemed effective, whether or not you have reviewed them. By using our website after we post any changes to this policy, you agree to accept those changes. If at any time you choose not to accept this Privacy Policy, please do not use our website. This document is organized as follows: 
@@ -15,7 +14,6 @@ This Privacy Policy sets forth the rules and policies governing your use of our 
 6\. How can you access us from outside the U.S.?  
 7\. How do you contact us?
 
-  
 **1\. What information do we collect?**
 
 You may submit personal information to our website in numerous ways. First, you may share your name, email address and certain information about your likes and dislikes when you sign up for our website, or request a newsletter. We collect information when you register or update your account, log-in, place an order, opt-in to receive our emails, shop online, request a catalog, or participate in a contest, promotion or survey. This information may include, but is not limited to, name, email address, billing and shipping address, credit card information and phone number. You may also provide personal information when you post comments to jpeterman.com, or to one of our other branded sites. In addition, if you have registered with another of our owned and operated sites, we will have any personal information about you that you provided at the sister site(s) as well. Whether or not you provide personal information is your choice; however, sometimes it may be required to participate in a particular activity or gain access to certain content on our sites.
