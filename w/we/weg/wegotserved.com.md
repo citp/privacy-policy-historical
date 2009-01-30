@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wegotserved.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225005257id_/http%3A//www.wegotserved.co.uk/2008/11/09/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegotserved.com privacy policy that was archived on 2009-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090130015359id_/http%3A//www.wegotserved.co.uk/2008/11/09/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - We Got Served - The Windows Home Server Site | We Got Served
 
