@@ -1,12 +1,9 @@
-<!--The following is the downloaded HTML source of the desidieter.com privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218112300id_/http%3A//www.desidieter.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the desidieter.com privacy policy that was archived on 2009-01-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090130040300id_/http%3A//www.desidieter.com/privacy_policy) for the most accurate reproduction.-->
 
 <html><head>
-<title>Health, Nutrition, Fitness, Free Health Analysis, Weight Loss, Diet Counselling, Customized Diets, Recipes, Dietic</title>
-	 
-  
-  <meta name="about us" content="Desi Dieter,health,Fitness,Diet,nutritionists,yoga, experts">
-  <link href="css/main.css" rel="stylesheet" type="text/css">
+<!--<TITLE>Health, Nutrition, Fitness, Free Health Analysis, Weight Loss, Diet Counselling, Customized Diets, Recipes, Dietic</TITLE>-->
+<link href="css/main.css" rel="stylesheet" type="text/css">
 <link href="css/form_style.css" type="text/css" rel="stylesheet">
 <script src="js/jquery.js" type="text/javascript"></script>
 <script src="js/form_style.js" type="text/javascript"></script>
@@ -60,8 +57,8 @@ document.oncontextmenu=new Function("return false")
 
 <table width="910" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td width="185" align="left"><a href="index.php"><img src="images/logo.png" alt=""></a></td>
-    <td width="725" align="right"><img src="images/top_banner.gif"></td>
+    <td width="185" align="left"><a href="index"><img src="images/logo.png" alt="Desi Dieter" border="0"></a></td>
+    <td width="725" align="right"><a href="our_diet_generators"><img src="images/top_banner.gif" border="0"></a></td>
   </tr>
   <tr>
     <td colspan="2" height="2"></td>
@@ -78,7 +75,11 @@ document.oncontextmenu=new Function("return false")
 			<table width="900" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 		<td valign="top" width="156">
-				<!--This span is used for showing tell a friend Form to the right panel  -->
+				<!-- start, added by preeti on 26th dec 2008 for search functionality-->
+<link href="css/homeremady.css" rel="stylesheet" type="text/css">
+ <!-- end, added by preeti on 26th dec 2008 for search functionality-->
+	
+	<!--This span is used for showing tell a friend Form to the right panel  -->
 	<script type="text/javascript">
 <!--
 function MM_swapImgRestore() { //v3.0
@@ -117,11 +118,123 @@ function search_leftform()
 }
 </script>
 
+<!--start, added by preeti on 26th dec 2008 -->
+<script language="javascript">
+subject_id = '';
+	function handleHttpResponse() {
+		if (http.readyState == 4) {
+			if (subject_id != '') {
+				//alert("-----Tets-->"+http.responseText);
+				document.getElementById(subject_id).innerHTML = http.responseText;
 
+				
+			}
+		}
+	}
+	function getHTTPObject() {
+		var xmlhttp;
+		/*@cc_on
+		@if (@_jscript_version >= 5)
+			try {
+				xmlhttp = new ActiveXObject("Msxml2.XMLHTTP");
+			} catch (e) {
+				try {
+					xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+				} catch (E) {
+					xmlhttp = false;
+				}
+			}
+		@else
+		xmlhttp = false;
+		@end @*/
+		if (!xmlhttp && typeof XMLHttpRequest != 'undefined') {
+			try {
+				xmlhttp = new XMLHttpRequest();
+			} catch (e) {
+				xmlhttp = false;
+			}
+		}
+		return xmlhttp;
+	}
+	var http = getHTTPObject(); // We create the HTTP Object
 
+function ajaxCall(div_id,inputString)
+{
+	//alert("keyup event caught");
+	subject_id = div_id;
+		content = document.getElementById(inputString).value;
+		//alert("---<<<");
+		//alert("--sd->>"+content);
+		http.open("GET", "search_ajax.php?content="+escape(content), true);
+		http.onreadystatechange = handleHttpResponse;
+		http.send(null);
+		if(content.length>0)
+			box_search('1');
+		else
+			box_search('0');
 	
+}
+function highlight_search(action,id)
+	{
+	  if(action)	
+		document.getElementById('word'+id).bgColor = "#C2B8F5";
+	  else
+		document.getElementById('word'+id).bgColor = "#F8F8F8";
+	}
+	function display_search(word)
+	{
+		document.getElementById('searchfield_left').value = word;
+		document.getElementById('search_result').style.display = 'none';
+		document.getElementById('searchfield_left').focus();
+	}
+	function box_search(act)
+	{
+	  if(act=='0')	
+	  {
+		document.getElementById('search_result').style.display = 'none';
+
+	  }
+	  else
+		document.getElementById('search_result').style.display = 'block';
+	}
+	// below  functions are used for search.php file text field.
+	function ajaxCall1(div_id,inputString)
+	{
+	//alert("keyup event caught");
+	subject_id = div_id;
+		content = document.getElementById(inputString).value;
+		//alert("---<<<");
+		//alert("--sd->>"+content);
+		http.open("GET", "search_ajax1.php?content="+escape(content), true);
+		http.onreadystatechange = handleHttpResponse;
+		http.send(null);
+		if(content.length>0)
+			box_search1('1');
+		else
+			box_search1('0');
+	
+	}
+	function display_search1(word)
+	{
+		document.getElementById('searchfield_left1').value = word;
+		document.getElementById('search_result1').style.display = 'none';
+		document.getElementById('searchfield_left1').focus();
+	}
+	function box_search1(act)
+	{
+	  if(act=='0')	
+	  {
+		document.getElementById('search_result1').style.display = 'none';
+
+	  }
+	  else
+		document.getElementById('search_result1').style.display = 'block';
+	}
+
+</script>
+<!--end, added by preeti on 26th dec 2008 -->
 <span id="nameFieldPopup" class="popup">
-<div align="right"><a href="#" onclick="hideCurrentPopup(); return false;"><img src="images/close.png" width="20" height="15" border="0"></a></div>
+<div align="right"><a href="#" onclick="hideCurrentPopup(); return false;"><img src="images/close.png" alt="Close" width="20" height="15" border="0"></a></div>
 <script language="javascript">
 
 function validate_tell()
@@ -318,123 +431,222 @@ function removeSpaces(string) {
             <tbody><tr>
               <td width="175" valign="top"><!--div style="padding-left:13px;padding-top:2px"></div-->
               
-              <div style="padding-left:6px;padding-top:3px"><a href="index.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image18','','images/roll_home_but.gif',0)"><img src="images/home_but.gif" alt="Home" name="Image18" width="171" height="33" border="0"></a></div>
+              <div style="padding-left:6px;padding-top:3px"><a href="index" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image18','','images/roll_home_but.gif',0)" title="Home"><img src="images/home_but.gif" alt="Home" name="Image18" width="171" height="33" border="0"></a></div>
               
               <div style="padding-left:6px;padding-top:3px">
-			  			  <a href="login_internal.php?frm=forum" onmouseout="javascript:MM_swapImgRestore()" onmouseover="javascript:MM_swapImage('','','images/community_rol.gif',1)"> <img src="images/commmunity.gif" name="Dietgenerators" width="171" height="33" border="0"></a>
+			  			  <a href="login_internal.php?frm=forum" onmouseout="javascript:MM_swapImgRestore()" onmouseover="javascript:MM_swapImage('','','images/community_rol.gif',1)" title="Community"> <img src="images/commmunity.gif" name="Dietgenerators" width="171" height="33" border="0" alt="Community"></a>
 			  			  </div>
               
-                <div style="padding-left:6px;padding-top:3px"><a href="#" onclick="window.location.href='our_diet_generators.php'" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image19','','images/roll_diet_generator.gif',1)"><img src="images/our_diet_generators.gif" name="Image19" width="171" height="33" border="0" id="searchlink10" rel="subcontent10"></a></div>
+                <div style="padding-left:6px;padding-top:3px"><a href="#" onclick="window.location.href='our_diet_generators'" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image19','','images/roll_diet_generator.gif',1)" title="Diet Generator"><img src="images/our_diet_generators.gif" name="Image19" width="171" height="33" border="0" id="searchlink10" rel="subcontent10" alt="Diet Generators"></a></div>
         <!--  <div id="subcontent10" class="toolboxnew_bmi">
                     <div class="anylink"><a href="our_diet_generators.php" >Rapid Weight Loss Diet</a></div>
 					<div class="anylink"><a href="our_diet_generators.php" >Desi Diet</a></div>
 					<div class="anylink"><a href="our_diet_generators.php" >Ayurveda Diet</a></div>
                 </div>-->
-                <div style="padding-left:6px;padding-top:3px"><a href="#" onclick="window.location.href='calculate_bmi.php'" onmouseout="javascript:MM_swapImgRestore()" onmouseover="javascript:MM_swapImage('bmi','','images/hover_bmi_calc.gif',1)"> <img src="images/bmi_calc.gif" name="bmi" width="169" height="33" border="0" id="searchlink3" rel="subcontent3"></a></div>
+                <div style="padding-left:6px;padding-top:3px"><a href="#" onclick="window.location.href='calculate_bmi'" onmouseout="javascript:MM_swapImgRestore()" onmouseover="javascript:MM_swapImage('bmi','','images/hover_bmi_calc.gif',1)" title="BMI Calculator"> <img src="images/bmi_calc.gif" name="bmi" width="169" height="33" border="0" id="searchlink3" rel="subcontent3" alt="BMI Calculator"></a></div>
                 <div id="subcontent3" class="toolboxnew_bmi" style="top: 0px; left: 0px;">
-                    <div class="anylink"><a href="calculate_bmi.php">Check if you are Overweight</a></div>
+                    <div class="anylink"><a href="calculate_bmi">Check if you are Overweight</a></div>
                 </div>
-                <div style="padding-left:6px;padding-top:3px"><a href="#" onclick="window.location.href='know_diets.php'" onmouseout="javascript:MM_swapImgRestore()" onmouseover="javascript:MM_swapImage('advertise','','images/rollbasic_wtloss.gif',1)"><img src="images/basic_wtloss.gif" name="advertise" width="169" height="33" border="0" id="searchlink4" rel="subcontent4"></a></div>
+                <div style="padding-left:6px;padding-top:3px"><a href="#" onclick="window.location.href='know_diets'" onmouseout="javascript:MM_swapImgRestore()" onmouseover="javascript:MM_swapImage('advertise','','images/rollbasic_wtloss.gif',1)" title="Know Our Diets"><img src="images/basic_wtloss.gif" name="advertise" width="169" height="33" border="0" id="searchlink4" rel="subcontent4" alt="Know Our Diets"></a></div>
                 <!--<div id="subcontent4" class="toolboxnew_know_our">
                     <div class="anylink"><a href="know_diets.php">The Science behind our Diets</a></div>
                 </div>-->
-                <div style="padding-left:6px;"><a href="#" onclick="window.location.href='ask_to_expert.php'" onmouseout="javascript:MM_swapImgRestore()" onmouseover="javascript:MM_swapImage('askexpert','','images/rollaskexpert.gif',1)"><img src="images/askexpert.gif" name="askexpert" width="171" height="33" border="0" id="searchlink" rel="subcontent"></a></div>
+                <div style="padding-left:6px;"><a href="#" onclick="window.location.href='ask_to_expert'" onmouseout="javascript:MM_swapImgRestore()" onmouseover="javascript:MM_swapImage('askexpert','','images/rollaskexpert.gif',1)" title="Consult our experts"><img src="images/askexpert.gif" name="askexpert" width="171" height="33" border="0" id="searchlink" rel="subcontent" alt="Consult our experts"></a></div>
                 <div id="subcontent" class="toolboxnew_bmi" style="top: 0px; left: 0px;">
-                    <div class="anylink"><a href="n_consult_intro.php">Nutrition Consult</a></div>
-					<div class="anylink"><a href="intro_e-fit.php">Fitness Consult</a></div>
-					<div class="anylink"><a href="javascript:void(0);">Yoga Consult</a></div>
-					<div class="anylink"><a href="javascript:void(0);">Ayurveda Consult</a></div>
-					<div class="anylink"><a href="homeopathic_frm.php">Homeopathy Consult</a></div>
+                    <div class="anylink"><a href="n_consult_intro" title="Nutrition Consult">Nutrition Consult</a></div>
+					<div class="anylink"><a href="intro_e-fit" title="Fitness Consult">Fitness Consult</a></div>
+					<div class="anylink"><a href="javascript:void(0);" title="Yoga Consult">Yoga Consult</a></div>
+					<div class="anylink"><a href="javascript:void(0);" title="Ayurveda Consult">Ayurveda Consult</a></div>
+					<div class="anylink"><a href="homeopathic_frm" title="Homeopathy Consult">Homeopathy Consult</a></div>
               </div>
 				<!-- home remedies-->
-                <div style="padding-left:6px;padding-top:3px"><a href="javascript:void(0)" onclick="window.location.href='home_remedies_dy.php'" onmouseout="javascript:MM_swapImgRestore()" onmouseover="javascript:MM_swapImage('desi','','images/rolldesi.gif',1)"><img src="images/desi.gif" name="desi" width="169" height="33" border="0" id="searchlink1" rel="subcontent1"></a></div>
+                <div style="padding-left:6px;padding-top:3px"><a href="javascript:void(0)" onclick="window.location.href='home_remedies_dy'" onmouseout="javascript:MM_swapImgRestore()" onmouseover="javascript:MM_swapImage('desi','','images/rolldesi.gif',1)"><img src="images/desi.gif" name="desi" width="169" height="33" border="0" id="searchlink1" rel="subcontent1" alt="Desi Diet"></a></div>
                 <div id="subcontent1" class="toolboxnew1" style="top: 0px; left: 0px;">
                     <div>
-                      <!-- Start table here -->
+                      <!-- Start table here --><form name="AutoPostForm" id="AutoPostForm" method="post" action=""></form>
                       <table border="0">
                         <tbody><tr>
                           <!-- start here -->
                           <td width="60" valign="top"><!-- Common ailments -->
                               <div class="tooltip_division">
                                 <div class="tooltip_head">Common Ailments</div>
-                                        <div class="anylink"><a href="home_remedies_dy1.php?more_id=58">Acidity</a></div>
-                                                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=36">Common Cold</a></div>
-                                                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=53">Conjunctivitis</a></div>
-                                                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=31">Constipation</a></div>
-                                                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=37">Cough</a></div>
-                                                            </div><span><a href="home_remedies_dy1.php" class="more">&nbsp;&nbsp;More..</a></span></td>
+                                        <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=58'>Acidity</a>-->
+								<a style="cursor:pointer;" title="Acidity" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-7');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '58');frm_left.appendChild(more_id);frm_left.submit();">
+								Acidity</a>
+								
+								</div>
+                                                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=36'>Common Cold</a>-->
+								<a style="cursor:pointer;" title="Common Cold" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-7');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '36');frm_left.appendChild(more_id);frm_left.submit();">
+								Common Cold</a>
+								
+								</div>
+                                                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=53'>Conjunctivitis</a>-->
+								<a style="cursor:pointer;" title="Conjunctivitis" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-7');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '53');frm_left.appendChild(more_id);frm_left.submit();">
+								Conjunctivitis</a>
+								
+								</div>
+                                                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=31'>Constipation</a>-->
+								<a style="cursor:pointer;" title="Constipation" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-7');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '31');frm_left.appendChild(more_id);frm_left.submit();">
+								Constipation</a>
+								
+								</div>
+                                                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=37'>Cough</a>-->
+								<a style="cursor:pointer;" title="Cough" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-7');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '37');frm_left.appendChild(more_id);frm_left.submit();">
+								Cough</a>
+								
+								</div>
+                                                            </div><span><a href="home_remedies_dy" class="more">&nbsp;&nbsp;More..</a></span></td>
                           <!-- Common ailments -->
                           <!-- close here -->
                           <td width="65" valign="top"><!-- start for Skin and Hair cares -->
                               <div class="tooltip_division">
                                 <div class="tooltip_head">Skin and Hair Care</div>
                                                                 
-                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=57">Acne</a></div>
+                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=57'>Acne</a>-->
+								<a style="cursor:pointer;" title="Acne" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-8');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '57');frm_left.appendChild(more_id);frm_left.submit();">
+								Acne</a>
+								</div>
                                                                 
-                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=52">Dandruff</a></div>
+                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=52'>Dandruff</a>-->
+								<a style="cursor:pointer;" title="Dandruff" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-8');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '52');frm_left.appendChild(more_id);frm_left.submit();">
+								Dandruff</a>
+								</div>
                                                                 
-                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=49">Eczema</a></div>
+                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=49'>Eczema</a>-->
+								<a style="cursor:pointer;" title="Eczema" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-8');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '49');frm_left.appendChild(more_id);frm_left.submit();">
+								Eczema</a>
+								</div>
                                                                 
-                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=35">Leucoderma</a></div>
+                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=35'>Leucoderma</a>-->
+								<a style="cursor:pointer;" title="Leucoderma" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-8');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '35');frm_left.appendChild(more_id);frm_left.submit();">
+								Leucoderma</a>
+								</div>
                                                                 
-                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=65">Premature Greying of Hair</a></div>
-                                                            </div> <span><a href="home_remedies_dy1.php" class="more">&nbsp;&nbsp;More..</a></span></td>
+                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=65'>Premature Greying of Hair</a>-->
+								<a style="cursor:pointer;" title="Premature Greying of Hair" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-8');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '65');frm_left.appendChild(more_id);frm_left.submit();">
+								Premature Greying of Hair</a>
+								</div>
+                                                            </div> <span><a href="home_remedies_dy" class="more">&nbsp;&nbsp;More..</a></span></td>
                           <!-- close for Skin and Hair cares -->
                           <!-- close here -->
                           <td width="107" valign="top"><!-- Miscellaneous -->
                               <div class="tooltip_division">
                                 <div class="tooltip_head">Children</div>
-                                                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=59">Anorexia</a></div>
-                                                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=60">Chicken Pox</a></div>
-                                                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=5">Jaundice</a></div>
-                                                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=67">Tonsillitis</a></div>
+                                                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=59'>Anorexia</a>-->
+								<a style="cursor:pointer;" title="Anorexia" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-9');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '59');frm_left.appendChild(more_id);frm_left.submit();">
+								Anorexia</a>
+								</div>
+                                                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=60'>Chicken Pox</a>-->
+								<a style="cursor:pointer;" title="Chicken Pox" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-9');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '60');frm_left.appendChild(more_id);frm_left.submit();">
+								Chicken Pox</a>
+								</div>
+                                                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=5'>Jaundice</a>-->
+								<a style="cursor:pointer;" title="Jaundice" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-9');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '5');frm_left.appendChild(more_id);frm_left.submit();">
+								Jaundice</a>
+								</div>
+                                                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=67'>Tonsillitis</a>-->
+								<a style="cursor:pointer;" title="Tonsillitis" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-9');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '67');frm_left.appendChild(more_id);frm_left.submit();">
+								Tonsillitis</a>
+								</div>
                                                             </div>
 							
-							<span><a href="home_remedies_dy1.php" class="more">&nbsp;&nbsp;More..</a></span>							</td>
+							<span><a href="home_remedies_dy" class="more">&nbsp;&nbsp;More..</a></span>							</td>
                           <!-- close Miscellaneous-->
                         </tr>
                         <tr>
                           <td valign="top"><!-- start Aches and Pains -->
                               <div class="tooltip_division">
                                 <div class="tooltip_head">Aches and Pains</div>
-                                                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=41">Sciatica</a></div>
-                                                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=40">Toothache</a></div>
-                                                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=39">Varicose Veins</a></div>
-                                                            </div><span><a href="home_remedies_dy1.php" class="more">&nbsp;&nbsp;More..</a></span></td>
+                                                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=41'>Sciatica</a>-->
+								<a style="cursor:pointer;" title="Sciatica" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-10');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '41');frm_left.appendChild(more_id);frm_left.submit();">
+								Sciatica</a>
+								
+								</div>
+                                                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=40'>Toothache</a>-->
+								<a style="cursor:pointer;" title="Toothache" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-10');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '40');frm_left.appendChild(more_id);frm_left.submit();">
+								Toothache</a>
+								
+								</div>
+                                                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=39'>Varicose Veins</a>-->
+								<a style="cursor:pointer;" title="Varicose Veins" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-10');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '39');frm_left.appendChild(more_id);frm_left.submit();">
+								Varicose Veins</a>
+								
+								</div>
+                                                            </div><span><a href="home_remedies_dy" class="more" title="More">&nbsp;&nbsp;More..</a></span></td>
                           <!-- close for Aches and Pains -->
                           <td valign="top"><!-- start Life style conditions -->
                               <div class="tooltip_division">
                                 <div class="tooltip_head">Lifestyle Conditions</div>
-                                                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=56">Arteriosclerosis</a></div>
-                                                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=55">Arthritis</a></div>
-                                                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=51">Depression</a></div>
-                                                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=2">Diabetes</a></div>
-                                                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=63">High Blood Pressure</a></div>
-                                                            </div><span><a href="home_remedies_dy1.php" class="more">&nbsp;&nbsp;More..</a></span></td>
+                                                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=56'>Arteriosclerosis</a>-->
+								<a style="cursor:pointer;" title="Arteriosclerosis" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-11');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '56');frm_left.appendChild(more_id);frm_left.submit();">
+								Arteriosclerosis</a>
+								
+								</div>
+                                                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=55'>Arthritis</a>-->
+								<a style="cursor:pointer;" title="Arthritis" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-11');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '55');frm_left.appendChild(more_id);frm_left.submit();">
+								Arthritis</a>
+								
+								</div>
+                                                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=51'>Depression</a>-->
+								<a style="cursor:pointer;" title="Depression" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-11');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '51');frm_left.appendChild(more_id);frm_left.submit();">
+								Depression</a>
+								
+								</div>
+                                                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=2'>Diabetes</a>-->
+								<a style="cursor:pointer;" title="Diabetes" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-11');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '2');frm_left.appendChild(more_id);frm_left.submit();">
+								Diabetes</a>
+								
+								</div>
+                                                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=63'>High Blood Pressure</a>-->
+								<a style="cursor:pointer;" title="High Blood Pressure" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-11');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '63');frm_left.appendChild(more_id);frm_left.submit();">
+								High Blood Pressure</a>
+								
+								</div>
+                                                            </div><span><a href="home_remedies_dy" class="more" title="More">&nbsp;&nbsp;More..</a></span></td>
                           <!-- Life style conditions -->
                           <td valign="top"><!-- Miscellaneous -->
                               <div class="tooltip_division">
                                 <div class="tooltip_head">Others</div>
-                                                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=54">Bronchitis</a></div>
-                                                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=30">Cataract</a></div>
-                                                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=48">Epilepsy</a></div>
-                                                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=33">Gall Bladder Stone</a></div>
-                                                                <div class="anylink"><a href="home_remedies_dy1.php?more_id=34">Kidney Stones</a></div>
-                                                            </div><span><a href="home_remedies_dy1.php" class="more">&nbsp;&nbsp;More..</a></span></td>
+                                                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=54'>Bronchitis</a>-->
+								<a style="cursor:pointer;" title="Bronchitis" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-12');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '54');frm_left.appendChild(more_id);frm_left.submit();">
+								Bronchitis</a>
+								
+								</div>
+                                                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=30'>Cataract</a>-->
+								<a style="cursor:pointer;" title="Cataract" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-12');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '30');frm_left.appendChild(more_id);frm_left.submit();">
+								Cataract</a>
+								
+								</div>
+                                                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=48'>Epilepsy</a>-->
+								<a style="cursor:pointer;" title="Epilepsy" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-12');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '48');frm_left.appendChild(more_id);frm_left.submit();">
+								Epilepsy</a>
+								
+								</div>
+                                                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=33'>Gall Bladder Stone</a>-->
+								<a style="cursor:pointer;" title="Gall Bladder Stone" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-12');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '33');frm_left.appendChild(more_id);frm_left.submit();">
+								Gall Bladder Stone</a>
+								
+								</div>
+                                                                <div class="anylink"><!--<a href='home_remedies_dy1.php?more_id=34'>Kidney Stones</a>-->
+								<a style="cursor:pointer;" title="Kidney Stones" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'home_remedies_dy#fragment-12');frm_left.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');more_id.setAttribute('value', '34');frm_left.appendChild(more_id);frm_left.submit();">
+								Kidney Stones</a>
+								
+								</div>
+                                                            </div><span><a href="home_remedies_dy" class="more" title="More">&nbsp;&nbsp;More..</a></span></td>
                           <!-- close Miscellaneous-->
                         </tr>
                         <!-- close here -->
                       </tbody></table>
                     </div>
                 </div>
-                <div style="padding-left:6px;padding-top:3px"><a href="#" onclick="window.location.href='healthy_heart_diet_plan.php'" onmouseout="javascript:MM_swapImgRestore()" onmouseover="javascript:MM_swapImage('specialdiet','','images/roll_special_diets.gif',1)"> <img src="images/special_diets.gif" name="specialdiet" width="169" height="33" border="0" id="searchlink8" rel="subcontent8"></a> </div>
+                <div style="padding-left:6px;padding-top:3px"><a href="#" onclick="window.location.href='healthy_heart_diet_plan'" onmouseout="javascript:MM_swapImgRestore()" onmouseover="javascript:MM_swapImage('specialdiet','','images/roll_special_diets.gif',1)" title="Special Diets"> <img src="images/special_diets.gif" name="specialdiet" width="169" height="33" border="0" id="searchlink8" rel="subcontent8" alt="Special Diets"></a> </div>
                 <div id="subcontent8" class="toolboxnew_bmi" style="top: 0px; left: 0px;">
-                    <div class="anylink"><a href="healthy_heart_diet_plan.php">Healthy Heart Diet</a></div>
-                  <div class="anylink"><a href="diabetes_diet_plan.php">Diabetes Diet</a></div>
-                  <div class="anylink"><a href="kids_diet.php">Diet for Obese Kids</a></div>
-                  <div class="anylink"><a href="diet_lactating_mothers.php">Diet for Lactating Mothers</a></div>
+                    <div class="anylink"><a href="healthy_heart_diet_plan" title="Healthy Heart Diet">Healthy Heart Diet</a></div>
+                  <div class="anylink"><a href="diabetes_diet_plan" title="Diabetes Diet">Diabetes Diet</a></div>
+                  <div class="anylink"><a href="kids_diet" title="Diet for Obese Kids">Diet for Obese Kids</a></div>
+                  <div class="anylink"><a href="diet_lactating_mothers" title="Diet for Lactating Mothers">Diet for Lactating Mothers</a></div>
                 </div>
-                <div style="padding-left:6px;padding-top:3px"><a href="#" onclick="window.location.href='fitness_tips.php'" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('fitnesstip','','images/rollfitnes.gif',1)"> <img src="images/fitnesstip.gif" name="fitnesstip" width="169" height="33" border="0" id="searchlink2" rel="subcontent2"></a> </div>
+                <div style="padding-left:6px;padding-top:3px"><a href="#" onclick="window.location.href='fitness_tips'" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('fitnesstip','','images/rollfitnes.gif',1)" title="Diet &amp; Fitness Tips"> <img src="images/fitnesstip.gif" name="fitnesstip" width="169" height="33" border="0" id="searchlink2" rel="subcontent2" alt="Diet &amp; Fitness Tips"></a> </div>
               <!--  <div id="subcontent2" class="toolboxnew1">
                     <div>
                       <html>
@@ -456,26 +668,45 @@ function removeSpaces(string) {
 					
 						                    </div>
                 </div>-->
-                <div style="padding-left:6px;padding-top:3px"><a href="#" onclick="window.location.href='article.php?flag=y'" onmouseout="javascript:MM_swapImgRestore()" onmouseover="javascript:MM_swapImage('newsarticle','','images/news_articles_tab_hover.gif',1)"> <img src="images/news_articles_tab.gif" name="newsarticle" width="169" height="33" border="0" id="searchlink7" rel="subcontent7"></a> </div>
-               <!-- <div id="subcontent7" class="toolboxnew_bmi">
+                <div style="padding-left:6px;padding-top:3px"><!-- <a href="#" onClick="window.location.href='article.php?flag=y'" onMouseOut="javascript:MM_swapImgRestore()" onMouseOver="javascript:MM_swapImage('newsarticle','','images/news_articles_tab_hover.gif',1)"> <img src="images/news_articles_tab.gif" name="newsarticle" width="169" height="33" border="0" id="searchlink7" rel="subcontent7"/></a>-->
+				<a style="cursor:pointer;" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'article');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'y');frm_left.appendChild(flag);frm_left.submit();" onmouseout="javascript:MM_swapImgRestore()" onmouseover="javascript:MM_swapImage('newsarticle','','images/news_articles_tab_hover.gif',1)" title="News &amp; Articles"><img src="images/news_articles_tab.gif" name="newsarticle" width="169" height="33" border="0" id="searchlink7" rel="subcontent7" alt="News &amp; Articles">
+				
+				</a> 
+				
+				 </div>
+             <!--  <div id="subcontent7" class="toolboxnew_bmi">
                   <div class="anylink"><a href='article.php?cat=diet'>Diet and Nutrition</a></div>
                   <div class="anylink"><a href='article.php?cat=fitness'>Fitness</a></div>
                   <div class="anylink"><a href='article.php?cat=yoga'>Yoga</a></div>
                   <div class="anylink"><a href='article.php?cat=ayurveda'>Ayurveda</a></div>
 				  <div class="anylink"><a href='article.php?cat=homeopathic'>Homeopathy</a></div>
                 </div>-->
-                <div style="padding-left:6px;padding-top:3px"><a href="#" onclick="window.location.href='etools.php?page=ref'" onmouseout="javascript:MM_swapImgRestore()" onmouseover="javascript:MM_swapImage('diettools','','images/hover_diettools.gif',1)"><img src="images/diet_tool.gif" name="diettools" width="169" height="33" border="0" id="searchlink9" rel="subcontent9"></a></div>
+                <div style="padding-left:6px;padding-top:3px"><!--<a href="#" onClick="window.location.href='etools.php?page=ref'" onMouseOut="javascript:MM_swapImgRestore()" onMouseOver="javascript:MM_swapImage('diettools','','images/hover_diettools.gif',1)"><img src="images/diet_tool.gif" name="diettools" width="169" height="33" border="0" id="searchlink9" rel="subcontent9"/></a>-->
+				<a href="#" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'etools');frm_left.setAttribute('target', '_self');var page = document.createElement('input');page.setAttribute('type', 'hidden');page.setAttribute('name', 'page');page.setAttribute('value', 'ref');frm_left.appendChild(page);frm_left.submit();" onmouseout="javascript:MM_swapImgRestore()" onmouseover="javascript:MM_swapImage('diettools','','images/hover_diettools.gif',1)" title="Diet Tools"><img src="images/diet_tool.gif" name="diettools" width="169" height="33" border="0" id="searchlink9" rel="subcontent9" alt="Diet Tools"></a>
+				
+				</div>
                 <div id="subcontent9" class="toolboxnew_bmi" style="top: 0px; left: 0px;">
-                    <div class="anylink"><a href="etools.php?page=ref">Food Calorie Finder</a></div>
-					<div class="anylink"><a href="etool_detail.php?cal=BodyAnalyzer&amp;page=BodyAnalyzer">Body Analyzer</a></div>
-					<div class="anylink"><a href="etool_detail.php?cal=Daily&amp;page=Daily">Daily Calorie Calculator</a></div>
-					<div class="anylink"><a href="etool_detail.php?cal=Exercise&amp;page=Exercise">Exercise Calorie Calculator</a></div>
-					<div align="right"><a href="etools.php?page=ref" class="more">More...</a></div>
+                    <div class="anylink"><a style="cursor:pointer;" title="Food Calorie Finder" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'etools');frm_left.setAttribute('target', '_self');var page = document.createElement('input');page.setAttribute('type', 'hidden');page.setAttribute('name', 'page');page.setAttribute('value', 'ref');frm_left.appendChild(page);frm_left.submit();">Food Calorie Finder</a></div>
+					<div class="anylink"><!--<a href="etool_detail.php?cal=BodyAnalyzer&page=BodyAnalyzer">Body Analyzer</a>-->
+					<a style="cursor:pointer;" title="Body Analyzer" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'etool_detail');frm_left.setAttribute('target', '_self');var cal = document.createElement('input');cal.setAttribute('type', 'hidden');cal.setAttribute('name', 'cal');cal.setAttribute('value', 'BodyAnalyzer');frm_left.appendChild(cal);var page = document.createElement('input');page.setAttribute('type', 'hidden');page.setAttribute('name', 'page');page.setAttribute('value', 'BodyAnalyzer');frm_left.appendChild(page);frm_left.submit();">Body Analyzer</a>
+					
+					</div>
+					<div class="anylink"><!--<a href="etool_detail.php?cal=Daily&page=Daily">Daily Calorie Calculator</a>-->
+					<a style="cursor:pointer;" title="Daily Calorie Calculator" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'etool_detail');frm_left.setAttribute('target', '_self');var cal = document.createElement('input');cal.setAttribute('type', 'hidden');cal.setAttribute('name', 'cal');cal.setAttribute('value', 'Daily');frm_left.appendChild(cal);var page = document.createElement('input');page.setAttribute('type', 'hidden');page.setAttribute('name', 'page');page.setAttribute('value', 'Daily');frm_left.appendChild(page);frm_left.submit();">Daily Calorie Calculator</a>
+					
+					</div>
+					<div class="anylink"><!--a href="etool_detail.php?cal=Exercise&page=Exercise">Exercise Calorie Calculator</a>-->
+					<a style="cursor:pointer;" title="Exercise Calorie Calculator" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'etool_detail');frm_left.setAttribute('target', '_self');var cal = document.createElement('input');cal.setAttribute('type', 'hidden');cal.setAttribute('name', 'cal');cal.setAttribute('value', 'Exercise');frm_left.appendChild(cal);var page = document.createElement('input');page.setAttribute('type', 'hidden');page.setAttribute('name', 'page');page.setAttribute('value', 'Exercise');frm_left.appendChild(page);frm_left.submit();">Exercise Calorie Calculator</a>
+					
+					</div>
+					<div align="right"><!--<a href="etools.php?page=ref" class="more">More...</a>-->
+					<a href="#" title="More" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'etools');frm_left.setAttribute('target', '_self');var page = document.createElement('input');page.setAttribute('type', 'hidden');page.setAttribute('name', 'page');page.setAttribute('value', 'ref');frm_left.appendChild(page);frm_left.submit();" class="more">More...</a>
+					</div>
                 </div>
 				 <!--//////////////////////////////////////////////////////////////////////////////////-->
                 <!--Recipe-->
 
-				<div style="padding-left:6px;padding-top:3px"><a href="javascript:void(0)" onclick="window.location.href='recipies.php'" onmouseout="javascript:MM_swapImgRestore()" onmouseover="javascript:MM_swapImage('Recipe_left','','images/roll_receipe_but.gif',1)"><img src="images/receipe_but.gif" alt="Recipes" name="Recipe_left" width="171" height="33" border="0" id="searchlink11" rel="subcontent11"></a></div>
+				<div style="padding-left:6px;padding-top:3px"><a href="javascript:void(0)" onclick="window.location.href='recipes'" onmouseout="javascript:MM_swapImgRestore()" onmouseover="javascript:MM_swapImage('Recipe_left','','images/roll_receipe_but.gif',1)" title="Recipes"><img src="images/receipe_but.gif" alt="Recipes" name="Recipe_left" width="171" height="33" border="0" id="searchlink11" rel="subcontent11"></a></div>
                 <div id="subcontent11" class="toolboxnew1" style="top: 0px; left: 0px;">
                     <div>
 					<table width="314" border="0">
@@ -484,26 +715,41 @@ function removeSpaces(string) {
 						<td width="65" height="79" valign="top"><!-- Indian Vegetarian -->
                               <div class="tooltip_division">
 										<div class="tooltip_head">Indian</div>
-											<div class="anylink"><a href="recipies_inter.php?flag=Veg">Vegetarian</a></div>
-											<div class="anylink"><a href="recipies_inter.php?flag=NonVeg">Non Vegetarian</a></div>
+											<div class="anylink"><!--<a href='recipies_inter.php?flag=Veg'>Vegetarian</a>-->
+											<a style="cursor:pointer;" title="Vegetarian" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Veg');frm_left.appendChild(flag);frm_left.submit();">Vegetarian</a>
+											
+											</div>
+											<div class="anylink"><!--<a href='recipies_inter.php?flag=NonVeg'>Non Vegetarian</a>-->
+											<a style="cursor:pointer;" title="Non Vegetarian" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'NonVeg');frm_left.appendChild(flag);frm_left.submit();">Non Vegetarian</a>
+											
+											</div>
 								</div>
-								<span><a href="recipies.php" class="more">&nbsp;&nbsp;More..</a></span>
+								<span><a href="recipies" class="more" title="More">&nbsp;&nbsp;More..</a></span>
 						</td>
 
 
                                                    <td width="68" valign="top"><!--deserts  -->
                               <div class="tooltip_division">
-									<div class="tooltip_head">Low Fat</div>  																					<div class="anylink"><a href="recipies_inter.php?flag=Low Fat&amp;re_id=181">Chicken Stew</a></div>
+									<div class="tooltip_head">Low Fat</div>  
+																						<div class="anylink"><!--<a href="recipies_inter.php?flag=Low Fat&re_id=181">Chicken Stew</a>-->
+													<a style="cursor:pointer;" title="Chicken Stew" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Low Fat');frm_left.appendChild(flag);var re_id = document.createElement('input');re_id.setAttribute('type', 'hidden');re_id.setAttribute('name', 're_id');re_id.setAttribute('value', '181');frm_left.appendChild(re_id);frm_left.submit();">Chicken Stew</a>
+													</div>
 													
-																								<div class="anylink"><a href="recipies_inter.php?flag=Low Fat&amp;re_id=200">Chickpea Salad</a></div>
+																					<div class="anylink"><!--<a href="recipies_inter.php?flag=Low Fat&re_id=200">Chickpea Salad</a>-->
+													<a style="cursor:pointer;" title="Chickpea Salad" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Low Fat');frm_left.appendChild(flag);var re_id = document.createElement('input');re_id.setAttribute('type', 'hidden');re_id.setAttribute('name', 're_id');re_id.setAttribute('value', '200');frm_left.appendChild(re_id);frm_left.submit();">Chickpea Salad</a>
+													</div>
 													
-																								<div class="anylink"><a href="recipies_inter.php?flag=Low Fat&amp;re_id=199">Green Salad with Orange Sauce</a></div>
+																					<div class="anylink"><!--<a href="recipies_inter.php?flag=Low Fat&re_id=242">Glazed Root Vegetables</a>-->
+													<a style="cursor:pointer;" title="Glazed Root Vegetables" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Low Fat');frm_left.appendChild(flag);var re_id = document.createElement('input');re_id.setAttribute('type', 'hidden');re_id.setAttribute('name', 're_id');re_id.setAttribute('value', '242');frm_left.appendChild(re_id);frm_left.submit();">Glazed Root Vegetables</a>
+													</div>
 													
-																								<div class="anylink"><a href="recipies_inter.php?flag=Low Fat&amp;re_id=120">Mixed Vegetable Stew</a></div>
+																					<div class="anylink"><!--<a href="recipies_inter.php?flag=Low Fat&re_id=199">Green Salad with Orange Sauce</a>-->
+													<a style="cursor:pointer;" title="Green Salad with Orange Sauce" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Low Fat');frm_left.appendChild(flag);var re_id = document.createElement('input');re_id.setAttribute('type', 'hidden');re_id.setAttribute('name', 're_id');re_id.setAttribute('value', '199');frm_left.appendChild(re_id);frm_left.submit();">Green Salad with Orange Sauce</a>
+													</div>
 													
-											
+								
 								  </div>
-								<span><a href="recipies.php" class="more">&nbsp;&nbsp;More..</a></span> 							
+								<span><a href="recipies" class="more" title="More">&nbsp;&nbsp;More..</a></span> 							
 							</td>
 
                           <!-- close forHealthy Eating -->
@@ -511,15 +757,33 @@ function removeSpaces(string) {
 						                           <td width="68" valign="top"><!--deserts  -->
                               <div class="tooltip_division">
 									<div class="tooltip_head">Low Sodium</div>   
-																							<div class="anylink"><a href="recipies_inter.php?flag=Low Sodium&amp;re_id=202">Chicken Fried Rice</a></div>
+																							<div class="anylink">
+													<!--<a href="recipies_inter.php?flag=Low Sodium&re_id=202">Chicken Fried Rice</a>-->
+													<a style="cursor:pointer;" title="Chicken Fried Rice" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Low Sodium');frm_left.appendChild(flag);var re_id = document.createElement('input');re_id.setAttribute('type', 'hidden');re_id.setAttribute('name', 're_id');re_id.setAttribute('value', '202');frm_left.appendChild(re_id);frm_left.submit();">Chicken Fried Rice</a>
 													
-																								<div class="anylink"><a href="recipies_inter.php?flag=Low Sodium&amp;re_id=187">Pasta Salad</a></div>
+													</div>
 													
-																								<div class="anylink"><a href="recipies_inter.php?flag=Low Sodium&amp;re_id=203">Saute'ed Vegetable</a></div>
+																								<div class="anylink">
+													<!--<a href="recipies_inter.php?flag=Low Sodium&re_id=272">Glazed  Vegetables</a>-->
+													<a style="cursor:pointer;" title="Glazed  Vegetables" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Low Sodium');frm_left.appendChild(flag);var re_id = document.createElement('input');re_id.setAttribute('type', 'hidden');re_id.setAttribute('name', 're_id');re_id.setAttribute('value', '272');frm_left.appendChild(re_id);frm_left.submit();">Glazed  Vegetables</a>
+													
+													</div>
+													
+																								<div class="anylink">
+													<!--<a href="recipies_inter.php?flag=Low Sodium&re_id=236">Glazed Carrots</a>-->
+													<a style="cursor:pointer;" title="Glazed Carrots" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Low Sodium');frm_left.appendChild(flag);var re_id = document.createElement('input');re_id.setAttribute('type', 'hidden');re_id.setAttribute('name', 're_id');re_id.setAttribute('value', '236');frm_left.appendChild(re_id);frm_left.submit();">Glazed Carrots</a>
+													
+													</div>
+													
+																								<div class="anylink">
+													<!--<a href="recipies_inter.php?flag=Low Sodium&re_id=271">Herb and Cheese Mashed Potatoes</a>-->
+													<a style="cursor:pointer;" title="Herb and Cheese Mashed Potatoes" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Low Sodium');frm_left.appendChild(flag);var re_id = document.createElement('input');re_id.setAttribute('type', 'hidden');re_id.setAttribute('name', 're_id');re_id.setAttribute('value', '271');frm_left.appendChild(re_id);frm_left.submit();">Herb and Cheese Mashed Potatoes</a>
+													
+													</div>
 													
 											
 									</div>
-									<span><a href="recipies.php" class="more">&nbsp;&nbsp;More..</a></span>                            
+									<span><a href="recipies" class="more" title="More">&nbsp;&nbsp;More..</a></span>                            
 								</td>
 
 						
@@ -534,13 +798,24 @@ function removeSpaces(string) {
                               <div class="tooltip_division">
                                 <div class="tooltip_head"> Cuisines of the World  </div>
                              
-                                <div class="anylink"><a href="recipies_inter.php?flag=Continental">Continental</a></div>
-                                <div class="anylink"><a href="recipies_inter.php?flag=Chinese">Chinese</a></div>
-								<div class="anylink"><a href="recipies_inter.php?flag=Thai"> Thai</a></div>
-								<div class="anylink"><a href="recipies_inter.php?flag=Mexican">Mexican</a></div>
-								<div class="anylink"><a href="recipies_inter.php?flag=Japanese">Japanese</a></div>
+                                <div class="anylink"><!--<a href='recipies_inter.php?flag=Continental'>Continental</a>-->
+								<a style="cursor:pointer;" title="Continental" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Continental');frm_left.appendChild(flag);frm_left.submit();">Continental</a>
+								</div>
+                                <div class="anylink"><!--<a href='recipies_inter.php?flag=Chinese'>Chinese</a>-->
+								<a style="cursor:pointer;" title="Chinese" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Chinese');frm_left.appendChild(flag);frm_left.submit();">Chinese</a>
+								</div>
+								<div class="anylink"><!--<a href='recipies_inter.php?flag=Thai'> Thai</a>-->
+								<a style="cursor:pointer;" title="Thai" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Thai');frm_left.appendChild(flag);frm_left.submit();">Thai</a>
+								</div>
+								<div class="anylink"><!--<a href='recipies_inter.php?flag=Mexican'>Mexican</a>-->
+								<a style="cursor:pointer;" title="Mexican" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Mexican');frm_left.appendChild(flag);frm_left.submit();">Mexican</a>
+								</div>
+								<div class="anylink"><!--<a href='recipies_inter.php?flag=Japanese'>Japanese</a>-->
+								<a style="cursor:pointer;" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Japanese');frm_left.appendChild(flag);frm_left.submit();">Japanese</a>
 								
-                            </div><span><a href="recipies.php" class="more">&nbsp;&nbsp;More..</a></span>
+								</div>
+								
+                            </div><span><a href="recipies" class="more" title="More">&nbsp;&nbsp;More..</a></span>
 						</td>
                           <!-- Cuisines of the World -->
                           
@@ -552,16 +827,24 @@ function removeSpaces(string) {
                               <div class="tooltip_division">
                                 <div class="tooltip_head">Deserts</div>   
 								
-																							<div class="anylink"><a href="recipies_inter.php?flag=Desserts&amp;re_id=190">Egg Custard</a></div>
+																							<div class="anylink"><!--<a href="recipies_inter.php?flag=Desserts&re_id=243">Apple Cranberry Crisp</a>-->
+													<a style="cursor:pointer;" title="Apple Cranberry Crisp" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Desserts');frm_left.appendChild(flag);var re_id = document.createElement('input');re_id.setAttribute('type', 'hidden');re_id.setAttribute('name', 're_id');re_id.setAttribute('value', '243');frm_left.appendChild(re_id);frm_left.submit();">Apple Cranberry Crisp</a>
+													</div>
 													
-																								<div class="anylink"><a href="recipies_inter.php?flag=Desserts&amp;re_id=157">Fruit in Yoghurt</a></div>
+																								<div class="anylink"><!--<a href="recipies_inter.php?flag=Desserts&re_id=190">Egg Desserts Custard</a>-->
+													<a style="cursor:pointer;" title="Egg Desserts Custard" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Desserts');frm_left.appendChild(flag);var re_id = document.createElement('input');re_id.setAttribute('type', 'hidden');re_id.setAttribute('name', 're_id');re_id.setAttribute('value', '190');frm_left.appendChild(re_id);frm_left.submit();">Egg Desserts Custard</a>
+													</div>
 													
-																								<div class="anylink"><a href="recipies_inter.php?flag=Desserts&amp;re_id=152">Low Carb Chocolate Mousse</a></div>
+																								<div class="anylink"><!--<a href="recipies_inter.php?flag=Desserts&re_id=157">Fruit in Yoghurt</a>-->
+													<a style="cursor:pointer;" title="Fruit in Yoghurt" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Desserts');frm_left.appendChild(flag);var re_id = document.createElement('input');re_id.setAttribute('type', 'hidden');re_id.setAttribute('name', 're_id');re_id.setAttribute('value', '157');frm_left.appendChild(re_id);frm_left.submit();">Fruit in Yoghurt</a>
+													</div>
 													
-																								<div class="anylink"><a href="recipies_inter.php?flag=Desserts&amp;re_id=191">Malai Kulfi</a></div>
+																								<div class="anylink"><!--<a href="recipies_inter.php?flag=Desserts&re_id=262">Fruity Sangria Salad</a>-->
+													<a style="cursor:pointer;" title="Fruity Sangria Salad" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Desserts');frm_left.appendChild(flag);var re_id = document.createElement('input');re_id.setAttribute('type', 'hidden');re_id.setAttribute('name', 're_id');re_id.setAttribute('value', '262');frm_left.appendChild(re_id);frm_left.submit();">Fruity Sangria Salad</a>
+													</div>
 													
 											
-								</div><span><a href="recipies.php" class="more">&nbsp;&nbsp;More..</a></span>
+								</div><span><a href="recipies" class="more" title="More">&nbsp;&nbsp;More..</a></span>
 						 </td>
 
                           <!-- cChildren  Favorites start here -->
@@ -570,20 +853,32 @@ function removeSpaces(string) {
                               <div class="tooltip_division">
                                 <div class="tooltip_head">Children Favorites</div>
 									
-											 <div class="anylink"><a href="recipies_inter.php?flag=Children&amp;re_id=189">Chocolate Mousse</a></div>
+											 <div class="anylink"><!--<a href="recipies_inter.php?flag=Children&re_id=189">Chocolate Mousse</a>-->
+											 <a style="cursor:pointer;" title="Chocolate Mousse" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Children');frm_left.appendChild(flag);var re_id = document.createElement('input');re_id.setAttribute('type', 'hidden');re_id.setAttribute('name', 're_id');re_id.setAttribute('value', '189');frm_left.appendChild(re_id);frm_left.submit();">Chocolate Mousse</a>
+											 
+											 </div>
 
 										
-											 <div class="anylink"><a href="recipies_inter.php?flag=Children&amp;re_id=175">Devilled Eggs</a></div>
+											 <div class="anylink"><!--<a href="recipies_inter.php?flag=Children&re_id=175">Devilled Eggs</a>-->
+											 <a style="cursor:pointer;" title="Devilled Eggs" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Children');frm_left.appendChild(flag);var re_id = document.createElement('input');re_id.setAttribute('type', 'hidden');re_id.setAttribute('name', 're_id');re_id.setAttribute('value', '175');frm_left.appendChild(re_id);frm_left.submit();">Devilled Eggs</a>
+											 
+											 </div>
 
 										
-											 <div class="anylink"><a href="recipies_inter.php?flag=Children&amp;re_id=177">Egg Custard</a></div>
+											 <div class="anylink"><!--<a href="recipies_inter.php?flag=Children&re_id=177">Egg Custard</a>-->
+											 <a style="cursor:pointer;" title="Egg Custard" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Children');frm_left.appendChild(flag);var re_id = document.createElement('input');re_id.setAttribute('type', 'hidden');re_id.setAttribute('name', 're_id');re_id.setAttribute('value', '177');frm_left.appendChild(re_id);frm_left.submit();">Egg Custard</a>
+											 
+											 </div>
 
 										
-											 <div class="anylink"><a href="recipies_inter.php?flag=Children&amp;re_id=153">Fruity Tofu Smoothie</a></div>
+											 <div class="anylink"><!--<a href="recipies_inter.php?flag=Children&re_id=153">Fruity Tofu Smoothie</a>-->
+											 <a style="cursor:pointer;" title="Fruity Tofu Smoothie" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Children');frm_left.appendChild(flag);var re_id = document.createElement('input');re_id.setAttribute('type', 'hidden');re_id.setAttribute('name', 're_id');re_id.setAttribute('value', '153');frm_left.appendChild(re_id);frm_left.submit();">Fruity Tofu Smoothie</a>
+											 
+											 </div>
 
 												
 								</div>
-								<span><a href="recipies.php" class="more">&nbsp;&nbsp;More..</a></span>
+								<span><a href="recipies" class="more" title="More">&nbsp;&nbsp;More..</a></span>
 						</td>
 							
 					
@@ -593,27 +888,43 @@ function removeSpaces(string) {
 						 							<td valign="top"><!-- Soups & Beverages -->
                               <div class="tooltip_division">
                                 <div class="tooltip_head">Soups &amp; Beverages</div>
-																			<div class="anylink"><a href="recipies_inter.php?flag=Soups&amp;re_id=121">Chicken Soup</a></div>
-																			<div class="anylink"><a href="recipies_inter.php?flag=Soups&amp;re_id=182">Fruity Tofu Smoothie</a></div>
-																			<div class="anylink"><a href="recipies_inter.php?flag=Soups&amp;re_id=183">Guava Smoothie</a></div>
-																			<div class="anylink"><a href="recipies_inter.php?flag=Soups&amp;re_id=116">Mushroom Soup</a></div>
-																	</div><span><a href="recipies.php" class="more">&nbsp;&nbsp;More..</a></span>
+																			<div class="anylink"><!--<a href="recipies_inter.php?flag=Soups&re_id=249">Avocado and Cilantro Soup</a>-->
+										 <a style="cursor:pointer;" title="Avocado and Cilantro Soup" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Soups');frm_left.appendChild(flag);var re_id = document.createElement('input');re_id.setAttribute('type', 'hidden');re_id.setAttribute('name', 're_id');re_id.setAttribute('value', '249');frm_left.appendChild(re_id);frm_left.submit();">Avocado and Cilantro Soup</a>
+										</div>
+																			<div class="anylink"><!--<a href="recipies_inter.php?flag=Soups&re_id=245">Banana-Berry Fruit Smoothie</a>-->
+										 <a style="cursor:pointer;" title="Banana-Berry Fruit Smoothie" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Soups');frm_left.appendChild(flag);var re_id = document.createElement('input');re_id.setAttribute('type', 'hidden');re_id.setAttribute('name', 're_id');re_id.setAttribute('value', '245');frm_left.appendChild(re_id);frm_left.submit();">Banana-Berry Fruit Smoothie</a>
+										</div>
+																			<div class="anylink"><!--<a href="recipies_inter.php?flag=Soups&re_id=246">Banana-Orange-Strawberry Fruit Shake</a>-->
+										 <a style="cursor:pointer;" title="Banana-Orange-Strawberry Fruit Shake" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Soups');frm_left.appendChild(flag);var re_id = document.createElement('input');re_id.setAttribute('type', 'hidden');re_id.setAttribute('name', 're_id');re_id.setAttribute('value', '246');frm_left.appendChild(re_id);frm_left.submit();">Banana-Orange-Strawberry Fruit Shake</a>
+										</div>
+																			<div class="anylink"><!--<a href="recipies_inter.php?flag=Soups&re_id=250">Chicken and Vegetable Soup</a>-->
+										 <a style="cursor:pointer;" title="Chicken and Vegetable Soup" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Soups');frm_left.appendChild(flag);var re_id = document.createElement('input');re_id.setAttribute('type', 'hidden');re_id.setAttribute('name', 're_id');re_id.setAttribute('value', '250');frm_left.appendChild(re_id);frm_left.submit();">Chicken and Vegetable Soup</a>
+										</div>
+																	</div><span><a href="recipies" class="more" title="More">&nbsp;&nbsp;More..</a></span>
 								</td> 
 
 									                             <td width="68" valign="top"><!--deserts  -->
 								<div class="tooltip_division">
 									<div class="tooltip_head">Low Carb</div>   		
-																							<div class="anylink"><a href="recipies_inter.php?flag=Low Carb&amp;re_id=194">Brussels Sprouts Fry</a></div>
+																							<div class="anylink"><!--<a href="recipies_inter.php?flag=Low Carb&re_id=194">Brussels Sprouts Fry</a>-->
+													 <a style="cursor:pointer;" title="Brussels Sprouts Fry" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Low Carb');frm_left.appendChild(flag);var re_id = document.createElement('input');re_id.setAttribute('type', 'hidden');re_id.setAttribute('name', 're_id');re_id.setAttribute('value', '194');frm_left.appendChild(re_id);frm_left.submit();">Brussels Sprouts Fry</a>
+													</div>
 													
-																								<div class="anylink"><a href="recipies_inter.php?flag=Low Carb&amp;re_id=173">Chickpea Salad (Low Carb)</a></div>
+																								<div class="anylink"><!--<a href="recipies_inter.php?flag=Low Carb&re_id=210">Chicken Souvlaki with Tzatziki Sauce</a>-->
+													 <a style="cursor:pointer;" title="Chicken Souvlaki with Tzatziki Sauce" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Low Carb');frm_left.appendChild(flag);var re_id = document.createElement('input');re_id.setAttribute('type', 'hidden');re_id.setAttribute('name', 're_id');re_id.setAttribute('value', '210');frm_left.appendChild(re_id);frm_left.submit();">Chicken Souvlaki with Tzatziki Sauce</a>
+													</div>
 													
-																								<div class="anylink"><a href="recipies_inter.php?flag=Low Carb&amp;re_id=195">Fish in Green Masala</a></div>
+																								<div class="anylink"><!--<a href="recipies_inter.php?flag=Low Carb&re_id=213">Cucumber Summer Salad</a>-->
+													 <a style="cursor:pointer;" title="Cucumber Summer Salad" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Low Carb');frm_left.appendChild(flag);var re_id = document.createElement('input');re_id.setAttribute('type', 'hidden');re_id.setAttribute('name', 're_id');re_id.setAttribute('value', '213');frm_left.appendChild(re_id);frm_left.submit();">Cucumber Summer Salad</a>
+													</div>
 													
-																								<div class="anylink"><a href="recipies_inter.php?flag=Low Carb&amp;re_id=58">Fruit and Cheese Salad</a></div>
+																								<div class="anylink"><!--<a href="recipies_inter.php?flag=Low Carb&re_id=58">Fruit and Cheese Salad</a>-->
+													 <a style="cursor:pointer;" title="Fruit and Cheese Salad" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'recipies_inter');frm_left.setAttribute('target', '_self');var flag = document.createElement('input');flag.setAttribute('type', 'hidden');flag.setAttribute('name', 'flag');flag.setAttribute('value', 'Low Carb');frm_left.appendChild(flag);var re_id = document.createElement('input');re_id.setAttribute('type', 'hidden');re_id.setAttribute('name', 're_id');re_id.setAttribute('value', '58');frm_left.appendChild(re_id);frm_left.submit();">Fruit and Cheese Salad</a>
+													</div>
 													
 											
 									</div>
-									<span><a href="recipies.php" class="more">&nbsp;&nbsp;More..</a></span>                        
+									<span><a href="recipies" class="more" title="More">&nbsp;&nbsp;More..</a></span>                        
 							 </td>                   
                           
 						
@@ -636,17 +947,7 @@ function removeSpaces(string) {
 		  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
             <tbody><tr>
               <td> <script language="javascript">
-/* fuction unsubscribe()
-{
-	var answer = confirm ("do you really want to unsubscribe for newsletter");
-	if (!answer)
-	{
-		var mail=prompt("please enter your email id! ", "")
-	}
-	
-} */
-
-	function emailcheck()
+function emailcheck()
 	{
 		var regex = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
 		if(document.frm_1.to.value=='' || document.frm_1.to.value.indexOf(" ") > -1)
@@ -675,7 +976,7 @@ function removeSpaces(string) {
 	}
 		
 </script>
- <form name="frm_1" method="post" action="call_mail_attachment.php" onsubmit="return validate();">
+ <form name="frm_1" method="post" action="call_mail_attachment" onsubmit="return validate();">
   <table border="0" cellpadding="0" cellspacing="0" width="100%" class="portlet_new">
   <tbody><tr>
     <td valign="top"><div class="portlet_heading">Subscribe to Newsletter</div>
@@ -704,17 +1005,17 @@ function removeSpaces(string) {
 		  <td>&nbsp;</td>
   </tr>
 		<tr>
-		  <td><form name="search_left" action="search.php" method="post" onsubmit="return search_leftform();">
+		  <td><form name="search_left" action="search" method="post" onsubmit="return search_leftform();">
 		    <table width="100%" border="0" cellspacing="0" cellpadding="0" class="portlet_new">
               <tbody><tr>
                 <td colspan="2"><div class="portlet_heading">Search</div></td>
               </tr>
               <tr>
-                <td width="15%" style="padding-left:5px;"><input name="searchfield_left" onfocus="this.value=''" type="text" class="input_box" id="textfield" value="Keyword"></td>
+                <td width="15%" style="padding-left:5px;"><input name="searchfield_left" type="text" class="input_box" id="searchfield_left" onkeyup="ajaxCall('search_result','searchfield_left')"></td>
                 <td width="85%" valign="bottom"><input type="image" src="images/button.png" name="btnsub">				</td>
               </tr>
               <tr>
-                <td>&nbsp;</td>
+                <td><div id="search_result" class="home_remedy_list"></div></td>
                 <td>&nbsp;</td>
               </tr>
             </tbody></table>
@@ -730,41 +1031,47 @@ function removeSpaces(string) {
             </tr>
             <tr>
               <td width="5%">&nbsp;</td>
-              <td width="8%"><img src="images/rapidweightloss.png"></td>
-              <td width="87%"><a href="weight_loss_diet.php?option=WeightDiet">Rapid Weight Loss</a></td>
+              <td width="8%"><img src="images/rapidweightloss.png" alt="Rapid Weight Loss"></td>
+              <td width="87%"><!--<a href="weight_loss_diet.php?option=WeightDiet">Rapid Weight Loss</a>-->
+			  <a style="cursor:pointer;" title="Rapid Weight Loss" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'weight_loss_diet');frm_left.setAttribute('target', '_self');var option = document.createElement('input');option.setAttribute('type', 'hidden');option.setAttribute('name', 'option');option.setAttribute('value', 'WeightDiet');frm_left.appendChild(option);frm_left.submit();">Rapid Weight Loss</a>
+			  
+			  </td>
             </tr>
             <tr>
               <td>&nbsp;</td>
-              <td><img src="images/desidiet.png"></td>
-              <td><a href="weight_loss_desidiet.php?option=WeightDiet">Desi Diet </a></td>
+              <td><img src="images/desidiet.png" alt="Desi Diet"></td>
+              <td><!--<a href="weight_loss_desidiet.php?option=WeightDiet">Desi Diet </a>-->
+			   <a style="cursor:pointer;" title="Desi Diet" onclick="JavaScript: var frm_left = document.getElementById('AutoPostForm');frm_left.setAttribute('action', 'weight_loss_diet');frm_left.setAttribute('target', '_self');var option = document.createElement('input');option.setAttribute('type', 'hidden');option.setAttribute('name', 'option');option.setAttribute('value', 'WeightDiet');frm_left.appendChild(option);frm_left.submit();">Desi Diet</a>
+			  
+			  </td>
             </tr>
             <tr>
               <td>&nbsp;</td>
-              <td><img src="images/ayurveda_diet.png"></td>
-              <td><a href="weight_loss_through_ayurveda.php">Ayurveda Diet</a></td>
+              <td><img src="images/ayurveda_diet.png" alt="Ayurveda Diet"></td>
+              <td><a href="weight_loss_through_ayurveda" title="Ayurveda Diet">Ayurveda Diet</a></td>
             </tr>
             <tr>
               <td>&nbsp;</td>
-              <td><img src="images/diabetes_diet.png"></td>
-              <td><a href="diabetes_diet_plan.php">Diabetes Diet</a></td>
+              <td><img src="images/diabetes_diet.png" alt="Diabetes Diet"></td>
+              <td><a href="diabetes_diet_plan" title="Diabetes Diet">Diabetes Diet</a></td>
             </tr>
             <tr>
               <td>&nbsp;</td>
-              <td><img src="images/healthy_heart_diet.png"></td>
-              <td><a href="healthy_heart_diet_plan.php">Healthy Heart Diet</a></td>
+              <td><img src="images/healthy_heart_diet.png" align="Healthy Heart Diet" alt="Healthy Heart Diet"></td>
+              <td><a href="healthy_heart_diet_plan" title="Healthy Heart Diet">Healthy Heart Diet</a></td>
             </tr>
             <tr>
               <td>&nbsp;</td>
-              <td><img src="images/diet_obese_kid.png"></td>
-              <td><a href="kids_diet.php">Diet for Obese Kids</a></td>
+              <td><img src="images/diet_obese_kid.png" alt="Diet for Obese Kids"></td>
+              <td><a href="kids_diet" title="Diet for Obese Kids">Diet for Obese Kids</a></td>
             </tr>
             <tr>
               <td>&nbsp;</td>
-              <td><img src="images/diet_lactating_mothers.png"></td>
-              <td><a href="diet_lactating_mothers.php">Diet for Lactating Mothers</a></td>
+              <td><img src="images/diet_lactating_mothers.png" alt="Diet for Lactating Mothers"></td>
+              <td><a href="diet_lactating_mothers" title="Diet for Lactating Mothers">Diet for Lactating Mothers</a></td>
             </tr>
             <tr>
-              <td colspan="3" align="center"><img src="images/piechart.png"></td>
+              <td colspan="3" align="center"><img src="images/piechart.png" alt="piechart"></td>
             </tr>
           </tbody></table></td>
   </tr>
@@ -775,9 +1082,15 @@ function removeSpaces(string) {
 		  <td><table width="100%" border="0" cellpadding="0" cellspacing="0" class="portlet_new">
             <tbody><tr>
               <td width="176" align="center" style="height:380px;">
-                <p><a href="weight_loss_diet.php?option=WeightDiet"><img src="left_images/rapid_weight_loss.jpg" height="133" width="136" alt="Weight Loss Diet" border="1.5px" style="border-color:#3ba029"></a> </p>
+                <p><!--<a href="weight_loss_diet.php?option=WeightDiet"><img src="left_images/rapid_weight_loss.jpg" height="133" width="136" alt="Weight Loss Diet" border="1.5px" style="border-color:#3ba029"/></a>-->
+				<a style="cursor:pointer;" onclick="JavaScript: var frm = document.getElementById('AutoPostForm');frm.setAttribute('action', 'weight_loss_diet');frm.setAttribute('target', '_self');var option = document.createElement('input');option.setAttribute('type', 'hidden');option.setAttribute('name', 'option');option.setAttribute('value', 'WeightDiet');frm.appendChild(option);frm.submit();">
+				<img src="left_images/rapid_weight_loss.jpg" height="133" width="136" alt="Weight Loss Diet" border="1.5px" style="border-color:#3ba029"></a>
+				 </p>
                 <p>&nbsp;</p>
-                <p><a href="weight_loss_desidiet.php?option=WeightDiet"><img src="left_images/desi_diet.jpg" height="133" width="136" alt="Desi Diet" border="1.5px" style="border-color:#3ba029"></a> </p>
+                <p><!--<a href="weight_loss_desidiet.php?option=WeightDiet"><img src="left_images/desi_diet.jpg" height="133" width="136" alt="Desi Diet" border="1.5px" style="border-color:#3ba029"/></a>-->
+				<a style="cursor:pointer;" onclick="JavaScript: var frm = document.getElementById('AutoPostForm');frm.setAttribute('action', 'weight_loss_desidiet');frm.setAttribute('target', '_self');var option = document.createElement('input');option.setAttribute('type', 'hidden');option.setAttribute('name', 'option');option.setAttribute('value', 'WeightDiet');frm.appendChild(option);frm.submit();">
+				<img src="left_images/desi_diet.jpg" height="133" width="136" alt="Desi Diet" border="1.5px" style="border-color:#3ba029"></a>
+				 </p>
               </td>
             </tr>
           </tbody></table></td>
@@ -817,12 +1130,12 @@ dropdowncontent.init("searchlink11", "right-bottom", 500, "mouseover")
 		  <tr><td>&nbsp;</td></tr>
 		  <tr><td class="heading">Terms of Use</td></tr>
 		  
-		  <tr><td class="txt" align="justify">Your use of the Website is subject to the terms of this Privacy Policy and <a href="terms_condition.php" class="anylink">the Term of Use</a>, so please read this policy and the Terms of Use before using the Website.All terms with initial capital letters used in this Privacy Policy but not defined herein have the meanings given them in the Terms of Use. </td></tr>
+		  <tr><td class="txt" align="justify">Your use of the Website is subject to the terms of this Privacy Policy and <a href="terms_condition" class="anylink" title="Terms to use">the Term of Use</a>, so please read this policy and the Terms of Use before using the Website.All terms with initial capital letters used in this Privacy Policy but not defined herein have the meanings given them in the Terms of Use. </td></tr>
 		  <tr><td>&nbsp;</td></tr>
 		  
 			
 			<tr><td class="heading" align="justify">Age Requirement</td></tr>
-			<tr><td class="txt">In order to use the Website you must be at least 18 years of age or the legal age to form a binding contract in your jurisdiction if that age is greater than 18 years of age.Please see the <a href="terms_condition.php" class="anylink">Terms of Use </a>for additional information regarding this requirement.</td></tr>
+			<tr><td class="txt">In order to use the Website you must be at least 18 years of age or the legal age to form a binding contract in your jurisdiction if that age is greater than 18 years of age.Please see the <a href="terms_condition" class="anylink" title="Terms to use">Terms of Use </a>for additional information regarding this requirement.</td></tr>
 			<tr><td>&nbsp;</td></tr>
 			<tr><td class="heading">Personal Information</td></tr>
 			<tr><td class="txt" align="justify">The term Personal Information means information that identifies you as an individual, including your name, address, email address, telephone number, age, weight, and gender. We may ask you to submit Personal Information at various places on our Website, including by providing Registration Data, subscribing to a newsletter, or submitting feedback. Desidieter also stores the information you enter about foods, activities, goals, and all other information collected in our online forms.</td></tr>
@@ -868,11 +1181,7 @@ function MM_swapImage() { //v3.0
 }
 //-->
 </script>
-
-
-
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="171" border="0" cellpadding="0" cellspacing="0">
 
 	<tbody><tr>
 	  <td><table width="100%" border="0" cellspacing="0" cellpadding="0" class="portlet_login">
@@ -905,7 +1214,7 @@ if(document.frm1_login.password.value=='')
   <table width="90%" border="0" cellspacing="2" cellpadding="2">
 
 	<tbody><tr>
-		  <td width="3%" align="left" class="portlet_heading"><img src="images/member_login_icon.png"></td>
+		  <td width="3%" align="left" class="portlet_heading"><img src="images/member_login_icon.png" alt="member login"></td>
           <td colspan="3" align="left" class="portlet_heading">Member Login</td>
     </tr>
  		<tr>
@@ -934,8 +1243,8 @@ if(document.frm1_login.password.value=='')
       <td colspan="4" height="4"></td>
     </tr>
     <tr>
-      <td colspan="4" class="forgt_text"><a href="forgetpassword.php" class="membr_login">Forgot Password?</a>
-       | <a href="register.php" class="membr_login"> New User?</a></td>
+      <td colspan="4" class="forgt_text"><a href="forgetpassword" class="membr_login">Forgot Password?</a>
+       | <a href="register" class="membr_login"> New User?</a></td>
     </tr>
     <tr>
       <td colspan="4" height="2"></td>
@@ -950,7 +1259,90 @@ if(document.frm1_login.password.value=='')
 	  <td>&nbsp;</td>
   </tr>
 	<tr>
-	  <td><table width="100%" border="0" cellpadding="0" cellspacing="0" class="portlet_testimonial">
+	  <td valign="middle" class="portlet_new" align="center" height="150"><p><span class="adv_txt">Advertisement</span><br>
+<a href="http://shop.dreamcricket.com" target="_blank"><img src="images/dc_shop_136x133.gif" border="0"></a></p>      </td>
+  </tr>
+	<tr>
+	  <td>&nbsp;</td>
+  </tr>
+	<tr>
+	  <td class="portlet_new" height="220"><script type="text/javascript">
+AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','170','height','200','src','tag_cloud/flash sources/tagcloud','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','tag_cloud/flash sources/tagcloud' ); //end AC code
+</script><embed width="170" height="200" src="tag_cloud/flash sources/tagcloud.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash"> <noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="170" height="200">
+        <param name="movie" value="tag_cloud/flash sources/tagcloud.swf">
+        <param name="quality" value="high">
+        <embed src="tag_cloud/flash sources/tagcloud.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="170" height="200"></embed>
+      </object></noscript></td>
+  </tr>
+	<tr>
+	  <td>&nbsp;</td>
+  </tr>
+	<tr>
+	  <td>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0" class="portlet_new" height="172">
+      <tbody><tr>
+        <td width="3%" valign="top"><div class="portlet_heading"><img src="images/featuredmember.png"></div></td>
+        <td width="97%"><span class="portlet_heading">Featured Members</span></td>
+      </tr>
+     
+      <tr>
+        <td colspan="2" align="center" valign="top"><div class="testimonial">
+            <table width="100%" border="0" cellspacing="2" cellpadding="2">
+ <tbody><tr>										<td>
+														</td><td align="center">
+											<a href="#" title="name"><img src="images_new/19.gif" border="0" title="preeti" alt="preeti" width="40" height="40"></a>
+											</td>	
+											<td>&nbsp;</td>
+													<td>
+														</td><td align="center">
+											<a href="#" title="name"><img src="images_new/cart_4.jpg" border="0" title="hemank" alt="hemank" width="40" height="40"></a>
+											</td>	
+											<td>&nbsp;</td>
+													<td>
+														</td><td align="center">
+											<a href="#" title="name"><img src="images_new/green_1.jpg" border="0" title="welcome" alt="welcome" width="40" height="40"></a>
+											</td>	
+											<td>&nbsp;</td>
+			</tr><tr>										<td>
+														</td><td align="center">
+											<a href="#" title="name"><img src="images_new/27.jpg" border="0" title="vidhu1" alt="vidhu1" width="40" height="40"></a>
+											</td>	
+											<td>&nbsp;</td>
+													<td>
+														</td><td align="center">
+											<a href="#" title="name"><img src="images_new/nature_2.jpg" border="0" title="aprajita" alt="aprajita" width="40" height="40"></a>
+											</td>	
+											<td>&nbsp;</td>
+													<td>
+														</td><td align="center">
+											<a href="#" title="name"><img src="images_new/reg_1227851989_convocation 006.jpg" border="0" title="siddharth" alt="siddharth" width="40" height="40"></a>
+											</td>	
+											<td>&nbsp;</td>
+			</tr><tr>										<td>
+														</td><td align="center">
+											<a href="#" title="name"><img src="images_new/reg_1233063340_44_bhujan1.jpg.jpg" border="0" title="shubham" alt="shubham" width="40" height="40"></a>
+											</td>	
+											<td>&nbsp;</td>
+													<td>
+														</td><td align="center">
+											<a href="#" title="name"><img src="images_new/reg_1229236169_59.jpg" border="0" title="Meenakshi" alt="Meenakshi" width="40" height="40"></a>
+											</td>	
+											<td>&nbsp;</td>
+													<td>
+														</td><td align="center">
+											<a href="#" title="name"><img src="images_new/reg_1227616632_464.JPG" border="0" title="SinghisKing" alt="SinghisKing" width="40" height="40"></a>
+											</td>	
+											<td>&nbsp;</td>
+			</tr><tr>
+ </tr></tbody></table>
+        </div></td>
+      </tr>      
+    </tbody></table>      </td>
+  </tr>
+	<tr><td>&nbsp;</td></tr>
+
+	<tr><td>
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="portlet_testimonial">
         <tbody><tr>
           <td width="3%" valign="top"><div class="portlet_heading"><img src="images/thumbup_testimonial.png" width="29" height="25"></div></td>
           <td width="97%"><span class="portlet_heading">Testimonials</span></td>
@@ -963,37 +1355,46 @@ if(document.frm1_login.password.value=='')
 			
 							<table width="100%" border="0" cellspacing="2" cellpadding="0" class="portlets_table">
 							<tbody><tr>
-							<td width="5%"><a href="#" title="Avantika"><img src="images_new/reg_1229234650_dancing girl.gif" border="0" width="40" height="40"></a></td>
+							<td width="5%"><a href="#" title="deepti"><img src="images_new/reg_1232507541_1711.jpg" border="0" width="40" height="40" alt="deepti"></a></td>
+							<td width="1%" rowspan="2" class="txt6">&nbsp;</td>
+							<td width="1%" rowspan="2" class="txt6">&nbsp;</td>
+							<td width="94%" rowspan="2" class="txt6" valign="top">I'm from the nutrition field and i appreciate your		  
+							<!--<a href="testimonial_more.php?more_id=81" class="more">&nbsp;&nbsp;&nbsp;More..</a>-->
+							<a style="cursor:pointer;" class="more" onclick="JavaScript: var frm_testimonial = document.getElementById('AutoPostForm');frm_testimonial.setAttribute('action', 'testimonial_more');frm_testimonial.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');							more_id.setAttribute('value', '81');frm_testimonial.appendChild(more_id);frm_testimonial.submit();" title="More">&nbsp;&nbsp;&nbsp;More..</a>
+							
+							</td>
+						  </tr>
+						  <tr>
+							<td class="txt6">&nbsp;</td>
+							</tr>
+						</tbody></table>
+
+							<table width="100%" border="0" cellspacing="2" cellpadding="0" class="portlets_table">
+							<tbody><tr>
+							<td width="5%"><a href="#" title="ruchi"><img src="images_new/reg_1231088377_avatar.jpg" border="0" width="40" height="40" alt="ruchi"></a></td>
+							<td width="1%" rowspan="2" class="txt6">&nbsp;</td>
+							<td width="1%" rowspan="2" class="txt6">&nbsp;</td>
+							<td width="94%" rowspan="2" class="txt6" valign="top">Hi I am a Doctor		  
+							<!--<a href="testimonial_more.php?more_id=80" class="more">&nbsp;&nbsp;&nbsp;More..</a>-->
+							<a style="cursor:pointer;" class="more" onclick="JavaScript: var frm_testimonial = document.getElementById('AutoPostForm');frm_testimonial.setAttribute('action', 'testimonial_more');frm_testimonial.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');							more_id.setAttribute('value', '80');frm_testimonial.appendChild(more_id);frm_testimonial.submit();" title="More">&nbsp;&nbsp;&nbsp;More..</a>
+							
+							</td>
+						  </tr>
+						  <tr>
+							<td class="txt6">&nbsp;</td>
+							</tr>
+						</tbody></table>
+
+							<table width="100%" border="0" cellspacing="2" cellpadding="0" class="portlets_table">
+							<tbody><tr>
+							<td width="5%"><a href="#" title="Avantika"><img src="images_new/reg_1229234650_dancing girl.gif" border="0" width="40" height="40" alt="Avantika"></a></td>
 							<td width="1%" rowspan="2" class="txt6">&nbsp;</td>
 							<td width="1%" rowspan="2" class="txt6">&nbsp;</td>
 							<td width="94%" rowspan="2" class="txt6" valign="top">Hey you guys. Guinea Pig # 38 is doing well. Now l		  
-							<a href="testimonial_more.php?more_id=70" class="more">&nbsp;&nbsp;&nbsp;More..</a></td>
-						  </tr>
-						  <tr>
-							<td class="txt6">&nbsp;</td>
-							</tr>
-						</tbody></table>
-
-							<table width="100%" border="0" cellspacing="2" cellpadding="0" class="portlets_table">
-							<tbody><tr>
-							<td width="5%"><a href="#" title="Mehul"><img src="images_new/reg_1227616632_464.JPG" border="0" width="40" height="40"></a></td>
-							<td width="1%" rowspan="2" class="txt6">&nbsp;</td>
-							<td width="1%" rowspan="2" class="txt6">&nbsp;</td>
-							<td width="94%" rowspan="2" class="txt6" valign="top">Thank you Aprajita auntie for making me nice recip		  
-							<a href="testimonial_more.php?more_id=69" class="more">&nbsp;&nbsp;&nbsp;More..</a></td>
-						  </tr>
-						  <tr>
-							<td class="txt6">&nbsp;</td>
-							</tr>
-						</tbody></table>
-
-							<table width="100%" border="0" cellspacing="2" cellpadding="0" class="portlets_table">
-							<tbody><tr>
-							<td width="5%"><a href="#" title="Meenakshi"><img src="images_new/reg_1229236169_59.jpg" border="0" width="40" height="40"></a></td>
-							<td width="1%" rowspan="2" class="txt6">&nbsp;</td>
-							<td width="1%" rowspan="2" class="txt6">&nbsp;</td>
-							<td width="94%" rowspan="2" class="txt6" valign="top">Thank u desidieter. lost 6 kgs in 1 mnth. And neve		  
-							<a href="testimonial_more.php?more_id=68" class="more">&nbsp;&nbsp;&nbsp;More..</a></td>
+							<!--<a href="testimonial_more.php?more_id=70" class="more">&nbsp;&nbsp;&nbsp;More..</a>-->
+							<a style="cursor:pointer;" class="more" onclick="JavaScript: var frm_testimonial = document.getElementById('AutoPostForm');frm_testimonial.setAttribute('action', 'testimonial_more');frm_testimonial.setAttribute('target', '_self');var more_id = document.createElement('input');more_id.setAttribute('type', 'hidden');more_id.setAttribute('name', 'more_id');							more_id.setAttribute('value', '70');frm_testimonial.appendChild(more_id);frm_testimonial.submit();" title="More">&nbsp;&nbsp;&nbsp;More..</a>
+							
+							</td>
 						  </tr>
 						  <tr>
 							<td class="txt6">&nbsp;</td>
@@ -1011,69 +1412,8 @@ if(document.frm1_login.password.value=='')
 		  <td align="right" valign="bottom"><a href="testimonial_more.php" class="more">&nbsp;<b>More..</b></a></td>
         </tr></tbody></table>
 		</td></tr>
-      </tbody></table></td>
-  </tr>
-	<tr><td>&nbsp;</td></tr>
-
-	<tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" class="portlet_new">
-      <tbody><tr>
-        <td width="3%" valign="top"><div class="portlet_heading"><img src="images/featuredmember.png"></div></td>
-        <td width="97%"><span class="portlet_heading">Featured Members</span></td>
-      </tr>
-     
-      <tr>
-        <td colspan="2" align="center" valign="top"><div class="testimonial">
-            <table width="100%" border="0" cellspacing="2" cellpadding="2">
- <tbody><tr>										<td>
-														</td><td align="center">
-											<a href="#"><img src="images_new/cart_4.jpg" border="0" title="hemank" width="40" height="40"></a>
-											</td>	
-											<td>&nbsp;</td>
-													<td>
-														</td><td align="center">
-											<a href="#"><img src="images_new/reg_1227851989_convocation 006.jpg" border="0" title="siddharth" width="40" height="40"></a>
-											</td>	
-											<td>&nbsp;</td>
-													<td>
-														</td><td align="center">
-											<a href="#"><img src="images_new/reg_1229347661_afternoon.png" border="0" title="preeti" width="40" height="40"></a>
-											</td>	
-											<td>&nbsp;</td>
-			</tr><tr>										<td>
-														</td><td align="center">
-											<a href="#"><img src="images_new/green_1.jpg" border="0" title="welcome" width="40" height="40"></a>
-											</td>	
-											<td>&nbsp;</td>
-													<td>
-														</td><td align="center">
-											<a href="#"><img src="images_new/nature_2.jpg" border="0" title="aprajita" width="40" height="40"></a>
-											</td>	
-											<td>&nbsp;</td>
-													<td>
-														</td><td align="center">
-											<a href="#"><img src="images_new/reg_1229158756_19.jpg" border="0" title="guineapig" width="40" height="40"></a>
-											</td>	
-											<td>&nbsp;</td>
-			</tr><tr>										<td>
-														</td><td align="center">
-											<a href="#"><img src="images_new/reg_1229234650_dancing girl.gif" border="0" title="Avantika" width="40" height="40"></a>
-											</td>	
-											<td>&nbsp;</td>
-													<td>
-														</td><td align="center">
-											<a href="#"><img src="images_new/reg_1227616632_464.JPG" border="0" title="SinghisKing" width="40" height="40"></a>
-											</td>	
-											<td>&nbsp;</td>
-													<td>
-														</td><td align="center">
-											<a href="#"><img src="images_new/green_1.jpg" border="0" title="rayon" width="40" height="40"></a>
-											</td>	
-											<td>&nbsp;</td>
-			</tr><tr>
- </tr></tbody></table>
-        </div></td>
-      </tr>      
-    </tbody></table></td></tr>
+      </tbody></table>
+    </td></tr>
 
 	<tr>
 		<td>
@@ -1097,7 +1437,17 @@ if(document.frm1_login.password.value=='')
             <td valign="top"><div class="right_links"><a href="remedies_add.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','images/roll_add_home_remdey.png',1)"><img src="images/addhomeremedy_but.png" alt="Add Home Remedy" name="Image9" width="163" height="33" border="0" id="Image9"></a></div></td>
           </tr>
           <tr>
-            <td valign="top" style="padding-bottom:4px;"><div class="right_links"><a href="javascript:void(0);" onclick="return showPopup('nameFieldPopup', event);" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image10','','images/roll_tell_frnd.png',1)"><img src="images/teelfrnd_but.png" alt="Tell a Friend" name="Image10" width="163" height="33" border="0" id="Image10"></a></div></td>
+            <td valign="top" style="padding-bottom:4px;"><div class="right_links">
+            <!-- AddThis Button BEGIN -->
+<script type="text/javascript">var addthis_pub="mohanupadhyay";</script>
+<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', 'http://www.desidieter.com', 'desidieter.com')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="images/teelfrnd_but.png" border="0" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+<!-- AddThis Button END -->
+
+            <!-- Commented by mohan on 27.01.09
+            <a href="javascript:void(0);" onClick="return showPopup('nameFieldPopup', event);" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image10','','images/roll_tell_frnd.png',1)"><img src="images/teelfrnd_but.png" alt="Tell a Friend" name="Image10" width="163" height="33" border="0" id="Image10" /></a>
+            -->
+            </div>
+            </td>
           </tr>
           <!--<div style="padding-left:6px;">
 			<a href="#" onClick="window.location.href='ask_to_expert.php'" onmouseover="javascript:MM_swapImage('askexpert','','images/rollaskexpert.gif',1)">
@@ -1110,32 +1460,14 @@ if(document.frm1_login.password.value=='')
 <tr><td>&nbsp;</td></tr>
 		<tr>
 				<td valign="top" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="portlet_new">
-                  <tbody><tr>
-                    <td>
-                      <script type="text/javascript">
-						AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','154','height','426','src','swf/banner3','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','wmode','transparent','movie','swf/banner3' ); //end AC code
-				      </script><embed width="154" height="426" src="swf/banner3.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" wmode="transparent" type="application/x-shockwave-flash">                       <noscript>
-                      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="154" height="426">
-                        <param name="movie" value="swf/banner3.swf" />
-                        <param name="quality" value="high" />
-                        <param name="wmode" value="transparent" />
-                        <embed src="swf/banner3.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="154" height="426" wmode="transparent"></embed>
-                      </object>
-                      </noscript>
-                    </td>
-                  </tr>
-                </tbody></table></td>
+                </table></td>
   </tr>
 		
 		<tr>
         </tr><tr><td>&nbsp;</td></tr>
 			<tr><td width="100%" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="portlet_new">
-              <tbody><tr>
-                <td width="176" align="center" style="height:139px;"><p><a href="weight_loss_through_ayurveda.php"><img src="left_images/ayurveda_diet.jpg" height="109" width="116" alt="Ayurveda Diet" border="1.5px" style="border-color:#3ba029"></a></p>
-                </td>
-              </tr>
-            </tbody></table>
-</td>
+           
+            </table></td>
 		</tr>
 		</tbody></table>
 
@@ -1173,12 +1505,12 @@ if(document.frm1_login.password.value=='')
   </tr>
   <tr>
     <td><div class="footer">
-<a href="index.php">Home</a> | 
-<a href="aboutus_new.php">About Us</a> |
+<a href="index" title="Home">Home</a> | 
+<a href="aboutus_new" title="About Us">About Us</a> |
 <a href="login_internal.php?frm=forum">Community</a> | 
-<a href="contact_frm.php">Contact Us</a> |
-<a href="search_bottom.php">Search</a> | 
-<a href="feedback_frm.php">Feedback</a> | <a href="privacy_policy.php">Privacy Policy</a> | <a href="terms_condition.php"> Terms &amp; Conditions</a>| <a href="sitemap.php">Sitemap</a><br>
+<a href="contact_frm" title="Contact Us">Contact Us</a> |
+<a href="search_bottom" title="Search">Search</a> | 
+<a href="feedback_frm" title="Feedback">Feedback</a> | <a href="privacy_policy" title="Privacy Policy">Privacy Policy</a> | <a href="terms_condition" title="Terms &amp; Conditions"> Terms &amp; Conditions</a>| <a href="sitemap" title="Sitemap">Sitemap</a><br>
 
 <div class="copyrt">Copyright © 2008 e-HealthLine. All Rights Reserved.</div>
 </div></td>
