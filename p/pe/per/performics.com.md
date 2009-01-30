@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the performics.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222084137id_/http%3A//www.performics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performics.com privacy policy that was archived on 2009-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090130043324id_/http%3A//www.performics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
