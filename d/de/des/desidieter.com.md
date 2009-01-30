@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the desidieter.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218112300id_/http%3A//www.desidieter.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desidieter.com privacy policy that was archived on 2009-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090130040300id_/http%3A//www.desidieter.com/privacy_policy) for the most accurate reproduction.*
 
-# Health, Nutrition, Fitness, Free Health Analysis, Weight Loss, Diet Counselling, Customized Diets, Recipes, Dietic
+# 
 
 |  |  |   
   
@@ -12,10 +12,10 @@ Privacy policy
 At Desidieter, we respect your privacy and believe you should be informed about how we collect, use and disclose your Personal Information.This Privacy Policy describes our practices regarding how we use and share with third parties Personal Information (as defined below ) that we collect on the Website.By visiting the Desidieter.com website and any other URLs and websites administered by e-HealthLine , and its affiliates (collectively, the Website) submitting your Personal Information to us, you accept the practices described in this statement.The terms "you" and "user" as used herein refer to all individuals and/or entities accessing the Website for any reason.  
    
 Terms of Use  
-Your use of the Website is subject to the terms of this Privacy Policy and [the Term of Use](https://web.archive.org/web/20081218112300id_/http%3A//www.desidieter.com/terms_condition.php), so please read this policy and the Terms of Use before using the Website.All terms with initial capital letters used in this Privacy Policy but not defined herein have the meanings given them in the Terms of Use.   
+Your use of the Website is subject to the terms of this Privacy Policy and [the Term of Use](https://web.archive.org/web/20090130040300id_/http%3A//www.desidieter.com/terms_condition "Terms to use"), so please read this policy and the Terms of Use before using the Website.All terms with initial capital letters used in this Privacy Policy but not defined herein have the meanings given them in the Terms of Use.   
    
 Age Requirement  
-In order to use the Website you must be at least 18 years of age or the legal age to form a binding contract in your jurisdiction if that age is greater than 18 years of age.Please see the [Terms of Use ](https://web.archive.org/web/20081218112300id_/http%3A//www.desidieter.com/terms_condition.php)for additional information regarding this requirement.  
+In order to use the Website you must be at least 18 years of age or the legal age to form a binding contract in your jurisdiction if that age is greater than 18 years of age.Please see the [Terms of Use ](https://web.archive.org/web/20090130040300id_/http%3A//www.desidieter.com/terms_condition "Terms to use")for additional information regarding this requirement.  
    
 Personal Information  
 The term Personal Information means information that identifies you as an individual, including your name, address, email address, telephone number, age, weight, and gender. We may ask you to submit Personal Information at various places on our Website, including by providing Registration Data, subscribing to a newsletter, or submitting feedback. Desidieter also stores the information you enter about foods, activities, goals, and all other information collected in our online forms.  
@@ -27,12 +27,16 @@ We may also collect information automatically about the use of the Website, thro
 |  |   
 ---  
    
+  
+Advertisement  
+[](http://shop.dreamcricket.com/)  
+  
+   
+   
+   
 | 
 
 | Testimonials  
 ---|---  
    
-   
-   
-  
-[](https://web.archive.org/web/20081218112300id_/http%3A//www.desidieter.com/weight_loss_through_ayurveda.php)
+ 
