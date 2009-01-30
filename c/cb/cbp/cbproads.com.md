@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbproads.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224095554id_/http%3A//www.cbproads.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbproads.com privacy policy that was archived on 2009-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090130035107id_/http%3A//cbproads.com/privacy.asp) for the most accurate reproduction.*
 
 # :: CBPROADS.COM-CONTEXTUAL ADVERTISING MADE EASY FOR CLICKBANK AFFILIATES
 
