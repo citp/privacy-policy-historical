@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegehumor.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219162333id_/http%3A//www.collegehumor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegehumor.com privacy policy that was archived on 2009-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090130053604id_/http%3A//www.collegehumor.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Summary | CollegeHumor
 
