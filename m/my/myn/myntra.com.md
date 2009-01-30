@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myntra.com privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820022237id_/http%3A//www.myntra.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myntra.com privacy policy that was archived on 2009-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090130113457id_/http%3A//www.myntra.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Custom tshirts, personalized gifts and more in India - Myntra.com
 
