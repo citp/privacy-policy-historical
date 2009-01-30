@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the military-today.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914035954id_/http%3A//www.military-today.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the military-today.com privacy policy that was archived on 2009-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090130051649id_/http%3A//www.military-today.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# Military Today - Privacy policy
+# Privacy Policy | Military-Today.com
 
    ** Military-Today respects your privacy**
 
-   We just want you to know that any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside the  [www.Military-Today.com](http://www.military-today.com/).
+   We just want you to know that any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside the  www.Military-Today.com.
 
    **Credit card details**
 
