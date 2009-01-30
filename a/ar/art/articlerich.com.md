@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlerich.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216032706id_/http%3A//www.articlerich.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlerich.com privacy policy that was archived on 2009-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090130091808id_/http%3A//www.articlerich.com/privacy.php) for the most accurate reproduction.*
 
 # Article Directory | Read Free Articles | Submit Free Articles - ArticleRich.com
 
