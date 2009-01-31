@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travel-images.com privacy policy that was archived on 2008-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080910053030id_/http%3A//www.travel-images.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travel-images.com privacy policy that was archived on 2009-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090131222818id_/http%3A//www.travel-images.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Travel-Images.com - stock phototgraphy
 
