@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4arabs.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515172743id_/http%3A//www.4arabs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4arabs.com privacy policy that was archived on 2009-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090201004722id_/http%3A//www.4arabs.com/privacy.html) for the most accurate reproduction.*
 
 # Arabic Banner Exchange: free exposure for your arabic and islamic sites
 
