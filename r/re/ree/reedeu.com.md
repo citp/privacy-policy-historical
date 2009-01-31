@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reedeu.com privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029190353id_/http%3A//www.reedeu.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reedeu.com privacy policy that was archived on 2009-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090131130946id_/http%3A//www.reedeu.com/app/homepage.cfm%3Fappname%3D100569%26moduleID%3D4478%26LinkID%3D29124) for the most accurate reproduction.*
 
 # Reed Exhibition // Exhibitor University
 
@@ -32,7 +32,12 @@ Reed-US will accept, implement and maintain any customer request to opt out of f
 
 Security
 
-This site utilizes a secure server to protect your financial and professional information. Secure server software is used to encrypt the information sent between your Internet browser and our Internet site. This ensures the security of your professional and financial transaction details when using the site. We follow strict security procedures in the storage and disclosure of information you have given to us and may, on occasion, request proof of identity before we disclose any professional information to you.
+This site utilizes a secure server to protect your financial and professional information. Secure server software is used to encrypt the information sent between your Internet browser and our Internet site. This ensures the security of your professional and financial transaction details when using the site. We follow strict security procedures in the storage and disclosure of information you have given to us and may, on occasion, request proof of identity before we disclose any professional information to you.  
+
+
+Method of Transaction Security
+
+Products of Reed Exhibitions Exhibitor University use Secure Sockets Layer (SSL) protocol to safeguard customer information during online transactions. SSL encryption is the generally accepted method of transaction security in online ordering.
 
 Cookies
 
@@ -55,7 +60,6 @@ If you have any questions or concerns about your customer information or your re
 > 
 > Phone: Within the US at 888-306-2344   
 >  Outside the US at 203-840-5810   
->  Email: [privacyadmin@recusprivacy.com](mailto:privacyadmin@recusprivacy.com)
+>  Email: [privacy@reedexpo.com](mailto:privacy@reedexpo.com)
 
-  
 | 
