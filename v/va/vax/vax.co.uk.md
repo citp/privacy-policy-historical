@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vax.co.uk privacy policy that was archived on 2008-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081208151015id_/http%3A//www.vax.co.uk/vax/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vax.co.uk privacy policy that was archived on 2009-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090131120822id_/http%3A//www.vax.co.uk/vax/privacy.php) for the most accurate reproduction.*
 
 # Vax - Privacy policy
 
@@ -113,12 +113,12 @@ Vax Limited, Quillgold House, Kingswood Road, Hampton Lovett, Droitwich, Worcest
 
 Featured Vax
 
-[](https://web.archive.org/shop/carpet-washers/Vax-V-023_Rapide-Supreme)
+[](https://web.archive.org/shop/upright-vacuum-cleaners/Vax-U91-P5P_Power-5-Pet)
 
-#### **Vax V-023 Rapide Supreme**
+#### **Vax U91-P5P Power 5 Pet**
 
-Perfect for stairs
+Vacuums carpets & hard floors
 
-On board wash tool refreshes stairs, upholstery and car interiors
+Lightweight
 
-[](https://web.archive.org/shop/carpet-washers/Vax-V-023_Rapide-Supreme)
+[](https://web.archive.org/shop/upright-vacuum-cleaners/Vax-U91-P5P_Power-5-Pet)
