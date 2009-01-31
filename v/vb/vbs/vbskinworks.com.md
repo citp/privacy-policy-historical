@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vbskinworks.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151819id_/http%3A//www.vbskinworks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbskinworks.com privacy policy that was archived on 2009-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090131084921id_/http%3A//vbskinworks.com/privacy.php) for the most accurate reproduction.*
 
 # vBSkinworks - Quality vBulletin Skins, vBulletin Styles and more
 
-| [](https://web.archive.org/web/20081216151819id_/http%3A//www.vbskinworks.com/index.php) | [](http://vbskinworks.com/forum/index.php) | [](http://vbskinworks.com/phpclient/browse_products.php?category_id=1) | [](http://vbskinworks.com/desk/index.php) | [](http://vbskinworks.com/affiliate/index.php) | [](https://web.archive.org/web/20081216151819id_/http%3A//www.vbskinworks.com/contact.php)  
+| [](https://web.archive.org/web/20090131084921id_/http%3A//vbskinworks.com/index.php) | [](http://vbskinworks.com/forum/index.php) | [](http://vbskinworks.com/phpclient/browse_products.php?category_id=1) | [](http://vbskinworks.com/desk/index.php) | [](http://vbskinworks.com/affiliate/index.php) | [](https://web.archive.org/web/20090131084921id_/http%3A//vbskinworks.com/contact.php)  
 ---|---|---|---|---|---  
   
 Step 1
@@ -11,7 +11,7 @@ Search through our extensive
 collection of skins, and choose  
 the ones you like best.
 
-**[Get Started Now »](https://vbskinworks.com/phpclient/browse_products.php?category_id=1)**
+**[Get Started Now »](http://vbskinworks.com/phpclient/browse_products.php?category_id=1)**
 
 | 
 
@@ -19,7 +19,13 @@ Step 2
 
 | 
 
-Step 3  
+Step 3
+
+Respond to our confirmation   
+email to receive your   
+download link. Then enjoy!
+
+**[Its just that easy!](http://vbskinworks.com/phpclient/browse_products.php?category_id=1)**  
   
 ---|---|---  
   
