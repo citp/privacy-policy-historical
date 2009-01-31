@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testbanker.com privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205002927id_/http%3A//www.testbanker.com/PPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testbanker.com privacy policy that was archived on 2009-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090131192137id_/http%3A//www.testbanker.com/PPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Plicy
 
