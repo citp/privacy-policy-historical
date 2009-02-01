@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arin.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040648id_/http%3A//www.arin.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arin.net privacy policy that was archived on 2009-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090201015856id_/https%3A//www.arin.net/privacy.html) for the most accurate reproduction.*
 
 # ARIN Privacy Policy
 
