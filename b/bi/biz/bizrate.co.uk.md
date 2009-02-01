@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bizrate.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216210755id_/http%3A//www.bizrate.co.uk/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizrate.co.uk privacy policy that was archived on 2009-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090201044508id_/http%3A//www.bizrate.co.uk/content/privacy.html) for the most accurate reproduction.*
 
 # Shop for in Home at BizRate UK
-
-[](http://www.truste.org/ivalidate.php?url=www.bizrate.com&sealid=101)
 
 Shopzilla, Inc. ("Shopzilla") operates online shopping Web sites and provides other services ("Services") designed to deliver the best possible online shopping experience to you, our users. We are committed to protecting the privacy and security of the information we may gather about you, and we appreciate your trust that we will use and share that information carefully and sensibly. 
 
@@ -85,8 +83,6 @@ From time to time, Shopzilla may send newsletters and other email to members and
 
 **PRIVACY QUESTIONS?**  
 If you have any questions or concerns about privacy at Shopzilla, please contact us at by [clicking here](https://web.archive.org/content/contact_us__subject--privacy_policy.html), and we will try to answer your questions or otherwise resolve the matter to your satisfaction. Or, if you prefer, you may contact us in writing at Shopzilla, Inc., 12200 W. Olympic Blvd., Suite 300, Los Angeles, CA 90064. 
-
-As part of our ongoing commitment to your privacy and security, we are proud to be a licensee of the TRUSTe Privacy Program. TRUSTe's certification covers Shopzilla's gathering and dissemination of information on its Shopzilla.com and BizRate.com Web sites. If you have an inquiry regarding privacy that you feel has not been satisfactorily addressed, you may then contact TRUSTe who will serve as a liaison to resolve your concerns. To find out more about [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php), click here. 
 
 **REVISIONS**  
 Your contacts with Shopzilla and use of our Web site and other Services are subject to this Privacy Notice. Since our business changes constantly, this Privacy Policy will also change from time to time. Users will be notified via email or a prominent notice on our Web site for 30 days prior to the effective date of any material changes to this Privacy Policy. We provide you with 30 days notice to allow you the opportunity to notify Shopzilla if you do not wish your information to be subject to the proposed changes to this Privacy Policy. You should also check for recent changes on our Web site whenever you visit our Web site or use our other Services. 
