@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidclerk.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217141400id_/http%3A//www.bidclerk.com/content/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidclerk.com privacy policy that was archived on 2009-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090201061125id_/http%3A//www.bidclerk.com/content/privacy.jsp) for the most accurate reproduction.*
 
 # Construction Leads for 1000's of U.S. Projects - Updated Daily
 
