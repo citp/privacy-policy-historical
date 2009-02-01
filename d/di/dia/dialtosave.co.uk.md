@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dialtosave.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218211629id_/http%3A//www.dialtosave.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialtosave.co.uk privacy policy that was archived on 2009-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090201070934id_/http%3A//www.dialtosave.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Mobile Phones UK - DialToSave
 
