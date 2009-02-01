@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flowershopnetwork.com privacy policy that was archived on 2008-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080907235437id_/http%3A//www.flowershopnetwork.com/pages/policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowershopnetwork.com privacy policy that was archived on 2009-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090201131908id_/http%3A//www.flowershopnetwork.com/pages/policies.php) for the most accurate reproduction.*
 
 # Flower Shop Network Privacy Policy
 
