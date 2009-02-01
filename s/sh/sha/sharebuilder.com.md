@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sharebuilder.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050124id_/http%3A//www.sharebuilder.com/sharebuilder/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharebuilder.com privacy policy that was archived on 2009-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090201151612id_/http%3A//www.sharebuilder.com/sharebuilder/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# ShareBuilder from ING DIRECT: Privacy
+# Privacy
 
 The privacy and security of your confidential information is very important to ShareBuilder Corporation and ShareBuilder Securities Corporation (collectively referred to as "we", "us" or "ShareBuilder"). This privacy policy describes what information we collect, how we use that information in providing our products and services to you and how you may opt out of receiving product updates and other information from us. If you have questions about this privacy policy, please use the Customer Service link on the web site to send us an email.   
 When we refer to "Contact Information" we mean your name, address, telephone number, employment status, fax number and e-mail address. "Personal Nonpublic Information" refers to personally identifiable information about you and transactions in your account, including your social security number, account numbers, and information about your assets, accounts, transactions and tax status. 
