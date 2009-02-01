@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the figureprints.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216032657id_/http%3A//figureprints.com/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the figureprints.com privacy policy that was archived on 2009-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090201011323id_/http%3A//www.figureprints.com/Help/Privacy.aspx) for the most accurate reproduction.*
 
-# FigurePrints - Privacy Policy
+# FigurePrints® - Privacy Policy
 
-FigurePrints Privacy Policy 
+FigurePrints® Privacy Policy 
 
-FigurePrints takes your privacy very seriously. This Privacy Policy describes how FigurePrints uses identifiable information regarding our customers, such as name, address, email address or credit card number (“Customer Information”). Primarily, we collect such information for the purpose of providing you with an outstanding experience with the Site and the Service. Except as specifically described in this Privacy Policy, FigurePrints does not sell, rent or share such Customer Information with third parties. 
+FigurePrints® takes your privacy very seriously. This Privacy Policy describes how FigurePrints® uses identifiable information regarding our customers, such as name, address, email address or credit card number (“Customer Information”). Primarily, we collect such information for the purpose of providing you with an outstanding experience with the Site and the Service. Except as specifically described in this Privacy Policy, FigurePrints does not sell, rent or share such Customer Information with third parties. 
 
 By using the Service, you consent to the collection and use of information in the manner described below. If we decide to change our privacy practice, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. Changes to our policy will be prospective only. Please check this page from time to time for changes to make sure you are aware of our latest privacy practices. 
 
