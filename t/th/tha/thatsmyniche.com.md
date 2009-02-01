@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatsmyniche.com privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503084216id_/http%3A//www.thatsmyniche.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatsmyniche.com privacy policy that was archived on 2009-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090201110405id_/http%3A//www.thatsmyniche.com/privacy.php) for the most accurate reproduction.*
 
 # Niche Article Directory | Free Content | Free Article Submission
 
