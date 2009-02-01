@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futuremark.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217005109id_/http%3A//www.futuremark.com/companyinfo/legal/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futuremark.com privacy policy that was archived on 2009-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090201060905id_/http%3A//www.futuremark.com/companyinfo/legal/privacystatement) for the most accurate reproduction.*
 
 # Futuremark - Company Info - Privacy & Legal - Privacy Statement
 
