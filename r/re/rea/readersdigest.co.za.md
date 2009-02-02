@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readersdigest.co.za privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229024541id_/http%3A//www.readersdigest.co.za/content/36211) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.co.za privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202153058id_/http%3A//www.readersdigest.co.za/content/36211) for the most accurate reproduction.*
 
 # Reader's Digest Africa - Privacy
 
