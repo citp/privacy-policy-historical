@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blacknight.ie privacy policy that was archived on 2008-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081007115659id_/http%3A//www.blacknight.ie/privacy.0.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacknight.ie privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202102119id_/http%3A//www.blacknight.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -59,7 +59,7 @@ Your Personal Data is held on secure servers hosted by us. The nature of the Int
 
 **7\. Updating, Verifying and Deleting Personal Data**
 
-You may inform us of any changes in your Personal Data, and in accordance with our obligations under the Irish Data Protection Acts 1988 and 2002 we will update or delete your Personal Data accordingly. To find out what Personal Data we hold on you or to have your Personal Data updated, amended or removed from our database, please email us at privacy@blacknight.com. Any such data subject requests may be subject to the prescribed fee. 
+You may inform us of any changes in your Personal Data, and in accordance with our obligations under the Irish Data Protection Acts 1988 and 2002 we will update or delete your Personal Data accordingly. To find out what Personal Data we hold on you or to have your Personal Data updated, amended or removed from our database, please email us at [privacy@blacknight.com](mailto:privacy@blacknight.com). Any such data subject requests may be subject to the prescribed fee. 
 
 **8\. Changes to the Website Privacy Policy**
 
