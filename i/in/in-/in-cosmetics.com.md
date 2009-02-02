@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the in-cosmetics.com privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919010934id_/http%3A//www.in-cosmetics.com/page.cfm/Link%3D131/t%3Dm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the in-cosmetics.com privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202122352id_/http%3A//www.in-cosmetics.com/page.cfm/Link%3D131/t%3Dm) for the most accurate reproduction.*
 
 # in-cosmetics - Privacy Pledge
 
