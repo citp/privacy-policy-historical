@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinchmedia.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216045209id_/http%3A//developer.pinchmedia.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinchmedia.com privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202162652id_/http%3A//developer.pinchmedia.com/static/privacy) for the most accurate reproduction.*
 
 # Pinch Media - Privacy Policy
 
