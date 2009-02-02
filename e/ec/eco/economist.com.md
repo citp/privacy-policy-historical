@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the economist.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217022851id_/http%3A//www.economist.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the economist.com privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202190721id_/http%3A//www.economist.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Economist.com
 
@@ -13,6 +13,8 @@
 [](https://web.archive.org/markets/)  
 [](https://web.archive.org/diversions/)  
   
+[](https://web.archive.org/countries/)
+
   
 
 
