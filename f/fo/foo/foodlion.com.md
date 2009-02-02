@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodlion.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065824id_/http%3A//www.foodlion.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodlion.com privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202123651id_/http%3A//www.foodlion.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # About Us: Privacy Statement
 
@@ -18,7 +18,7 @@
 
 
 
-English | [Spanish](https://web.archive.org/web/20081217065824id_/http%3A//www.foodlion.com/PrivacyStatement_sp.asp)
+English | [Spanish](https://web.archive.org/web/20090202123651id_/http%3A//www.foodlion.com/PrivacyStatement_sp.asp)
 
 **Our Online Data Collection and Use Practices**  
 This statement explains the online data collection and use practices of Foodlion.com; the statement and its description of our online data practices does not apply to other online sites or to other services provided by Food Lion, LLC, Delhaize America, Inc. or the Delhaize Group. This statement does not apply to the offline data collection and use practices of Food Lion, LLC, Delhaize America, Inc. or the Delhaize Group, such as data collection in a Food Lion Store. Please be aware that this privacy statement and the choices you make on this site will not necessarily apply to personal information you may have provided or will provide to Food Lion in other settings.
