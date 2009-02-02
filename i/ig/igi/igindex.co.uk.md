@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the igindex.co.uk privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213014254id_/http%3A//www.igindex.co.uk/content/sites/igi/en_GB/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igindex.co.uk privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202113312id_/http%3A//www.igindex.co.uk/spread-betting/privacy-notice.html) for the most accurate reproduction.*
 
-# IG Index - Privacy Notice
+# Privacy Notice
 
 Your privacy is important to us. This statement outlines our policy on how we manage the personal information we hold about our customers, shareholders and others. It applies to all organisations in the IG group of companies.
 
