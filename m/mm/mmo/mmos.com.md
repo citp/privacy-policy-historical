@@ -1,37 +1,26 @@
-> *The following text is extracted and transformed from the mmos.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606222049id_/http%3A//www.pfizer.com/mn_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmos.com privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202162136id_/http%3A//mmos.com/about/privacy) for the most accurate reproduction.*
 
-# Pfizer | Privacy
+# Connecting Gamers | MMOS
 
-Pfizer Inc recognizes the importance of protecting the privacy of information we may collect from our on-line visitors. To this end, we are committed to using our best efforts to respect the privacy of our on-line visitors. It is our intent to balance our legitimate business interests in collecting and using information received from and about you with your reasonable expectations of privacy. The following is the way we handle information learned about you from your visit to our website. 
+### Privacy Policy
 
-## Collective Data
+We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you visit MMOS.com, and how we safeguard your information. We will never sell your personal information to third parties without your solicitation. 
 
-Some Pfizer Inc web sites deposit certain bits of information called "cookies" in a visitor's computer. Cookies are sent back only to the web site that deposited them when a visitor returns to that site. Cookies can tell us how and when pages in a website are visited and by how many people. This technology does not collect personal identifiable information; the information collected is in an aggregate, non-identifiable form. With the information we can learn through this technology, we hope to improve our sites.
+**Log Files**  
+As with most other web servers on the internet, we collect and use the data contained in log files. The information in the log files include which website you were referred from, your IP (internet protocol) address, your ISP (internet service provider, such as AOL, Comcast or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
 
-In addition, we gather information about you that is automatically collected by our Web server, such as your IP address and domain name. Pfizer may use this information to customize its offerings and presentations.
+We also employ third party tracking services such as Google Analytics, which collects similar information to provide us with an offsite clean interface to look at our statistics. You can read how Google protects your privacy on their own [privacy policy.](http://www.google.com/intl/en_ALL/privacy.html)
 
-On occasion, we contract with third parties to place cookies on your computer's hard drive. These third parties have entered into an agreement with us that requires them to observe our Privacy Policy.
+**Registration**  
+When you register at MMOS.com we store all of the information you provide to us on a database server. This server is on a private network and cannot communicate to the Internet. As well, your password is encrypted through several layers using best practices before being saved; this means we will never be able to read your password directly. 
 
-Some of our business partners may use cookies on our site (for example, links to business partners). We do not want our business partners to use cookies to track our customer's activities once they leave our sites. However, we may not have total control over how our business partners may use cookies on our Web site. If you become aware that a Pfizer business partner is placing an unwanted cookie on your hard drive, please contact our privacy officer to assist us in resolving the problem.
+**Cookies and Web Beacons**  
+We use cookies to store information for your convenience to save language preferences, and encrypted session information to keep you logged in if you have checked the "Remember Me" option. 
 
-Pfizer Inc  
-Privacy Officer  
-235 East 42nd Street  
-Mailstop 235/24/7   
-New York, NY 10017
+We also use third party advertisements on MMOS.com to support the costs of maintaining our site and our employees. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
 
-## Personally Identifiable Information
+You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can greatly affect how you are able to interact with our site as well as most other websites. This could include the inability to login to our website for longer than a single browser session. 
 
-Pfizer collects personally identifiable information, such as names, addresses, E-mail addresses and the like, only when voluntarily provided by a website visitor. We will notify you as to the uses we intend to make of that information.
+If you have any questions relating to our privacy practices please don't hesitate to [contact support](https://web.archive.org/support/). 
 
-## Links to Other Sites
-
-As a resource to our visitors, Pfizer provides links to other websites. We try to carefully choose websites which we believe are useful and meet our high standards. However, because websites can change so quickly, we can't guarantee the standards of every website link we provide or be responsible for the content of non-Pfizer sites.
-
-## Children
-
-We do not specifically collect information about children.
-
-## Changes
-
-Any changes to this privacy policy will be communicated promptly on this page.
+**_Last Modified April 17th, 2007_**
