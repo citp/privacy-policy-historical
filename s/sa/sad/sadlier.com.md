@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sadlier.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218171629id_/http%3A//www.sadlier.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sadlier.com privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202101254id_/http%3A//www.sadlier.com/privacy.cfm) for the most accurate reproduction.*
 
 # William H. Sadlier, Inc.
 
