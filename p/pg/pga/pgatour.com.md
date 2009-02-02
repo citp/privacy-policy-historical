@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgatour.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060316id_/http%3A//www.pgatour.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgatour.com privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202120452id_/http%3A//www.pgatour.com/company/privacy.html) for the most accurate reproduction.*
 
 # PGATOUR.com - PGATOUR.COM Privacy Policy
 
