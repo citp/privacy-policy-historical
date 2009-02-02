@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the videosurf.com privacy policy that was archived on 2008-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080714185430id_/http%3A//www.videosurf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videosurf.com privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202102907id_/http%3A//www.videosurf.com/privacy) for the most accurate reproduction.*
 
-# VideoSurf
+# Privacy Policy - VideoSurf Video Search
 
 This Privacy Policy describes how we handle your personal information for our services on the VideoSurf website ("the Site").
 
