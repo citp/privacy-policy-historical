@@ -1,48 +1,60 @@
-<!--The following is the downloaded HTML source of the wherezit.com privacy policy that was archived on 2008-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081005214821id_/http%3A//www.wherezit.com/faq/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wherezit.com privacy policy that was archived on 2009-02-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090202114549id_/http%3A//www.wherezit.com/faq/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Wherezit.com - Privacy Policy</title>
 <script language="JavaScript" type="text/javascript" src="/js/fixIE_highlighting.js"></script>
+<script language="JavaScript" type="text/javascript" src="/js/menuData.js"></script>
+<script language="JavaScript" type="text/javascript" src="/js/menu.js"></script>
 <link rel="stylesheet" href="/css/default.css" type="text/css">
 </head>
 <body>
+<div id="dropDown0" class="dropdown"></div>
+<div id="dropDown1" class="dropdown"></div>
+<div id="dropDown2" class="dropdown"></div>
+<div id="dropDown3" class="dropdown"></div>
+<div id="dropDown4" class="dropdown"></div>
+<div id="dropDown5" class="dropdown"></div>
+<div id="dropDown6" class="dropdown"></div>
+<div id="dropDown7" class="dropdown"></div>
+<div id="dropDown8" class="dropdown"></div>
+<div id="dropDown9" class="dropdown"></div>
 <script language="JavaScript" type="text/javascript">
 function EnsureChange(form) {
-	var dist = form.distance.value;
-	var orig = form.orig_distance.value;
+    var dist = form.distance.value;
+    var orig = form.orig_distance.value;
 
-	if (dist == orig) {
-		alert('You only need to click miles if you have changed the number');
-		return false;
-	}
-	if (dist <= 0) {
-		alert('Distance needs to be a positive number');
-		return false;
-	}
-	return true;
+    if (dist == orig) {
+        alert('You only need to click miles if you have changed the number');
+        return false;
+    }
+    if (dist <= 0) {
+        alert('Distance needs to be a positive number');
+        return false;
+    }
+    return true;
 }
 
 function CreateBookmarkLink() {
-	title = "Wherezit.com - Privacy Policy"; 
-	url = "http://www.wherezit.com/faq/privacypolicy.php";
+    title = "Wherezit.com - Privacy Policy"; 
+    url = "http://wherezit.com/faq/privacypolicy.php";
 
-	if (window.sidebar) { // Mozilla Firefox Bookmark
-		window.sidebar.addPanel(title, url,"");
-	} else if( window.external ) { // IE Favorite
-		window.external.AddFavorite( url, title); }
-	else if(window.opera && window.print) { // Opera Hotlist
-		return true; }
+    if (window.sidebar) { // Mozilla Firefox Bookmark
+        window.sidebar.addPanel(title, url,"");
+    } else if( window.external ) { // IE Favorite
+        window.external.AddFavorite( url, title); }
+    else if(window.opera && window.print) { // Opera Hotlist
+        return true; }
 }
 
 function SetHomePage(a) {
-	a.style.behavior='url(#default#homepage)';
-	a.setHomePage('http://www.wherezit.com');
+    a.style.behavior='url(#default#homepage)';
+    a.setHomePage('http://www.wherezit.com');
 }
 
 </script>
 <!-- <div style="background: #500078; width: 100%;"> -->
-<table cellspacing="0" class="logo">
+<table cellspacing="0" class="logo" width="1000">
 <tbody><tr><td rowspan="2"><a href="/index.php?loc=d25+s+cWaterbury+stVT+z05676+lat44.3258+lng-72.7451"><img alt="WherezIt.com" src="/images/logo.gif" height="55" width="315" border="0"></a></td>
 <td rowspan="2">&nbsp;</td>
 <td class="right"><form class="SearchForm" name="SearchForm" action="/search.php" method="GET" accept-charset="UTF-8">
@@ -51,7 +63,7 @@ function SetHomePage(a) {
 <a onmouseover="document.SearchAllBtn.src='/images/ButSAllD.gif';" onmouseout="document.SearchAllBtn.src='/images/ButSAllU.gif';" href="javascript:document.SearchForm.submit();"><img name="SearchAllBtn" src="/images/ButSAllU.gif" height="22" width="76" border="0"></a>
 </form></td>
 </tr>
-<tr><td class="right"><span class="white">You are viewing: 25 miles around Waterbury, VT 05676 <a href="http://www.wherezit.com/rss.php?loc=d25+s+cWaterbury+stVT+z05676+lat44.3258+lng-72.7451"><img style="vertical-align: middle;" src="/images/rss_16x16.png" height="16" width="16" alt="" border="0"></a><br>
+<tr><td class="right"><span class="white">You are viewing: 25 miles around Waterbury, VT 05676 <a href="http://wherezit.com/rss.php?loc=d25+s+cWaterbury+stVT+z05676+lat44.3258+lng-72.7451"><img style="vertical-align: middle;" src="/images/rss_16x16.png" height="16" width="16" alt="" border="0"></a><br>
 <a class="hdr_link" href="/login.php">Login / Register</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a class="hdr_link" href="/change_location.php">Change Location</a>
@@ -59,20 +71,44 @@ function SetHomePage(a) {
 </td>
 </tr>
 </tbody></table><!-- </div> -->
-<table cellspacing="0" class="navbar">
+
+<script language="JavaScript">
+// The menuItem() object and the other menu functions are defined in /js/menu.js
+// The four arguments to menuItem() are the image ID, on image, off image and
+// the submenu category_id.
+var menuHome        = new menuItem('tab0x',  '/images/tabHD.gif',  '/images/tabHU.gif',  0);
+var menuBizSrvcs    = new menuItem('tab1x',  '/images/tabBSD.gif', '/images/tabBSU.gif', 1);
+var menuOrgs        = new menuItem('tab2x',  '/images/tabOD.gif',  '/images/tabOU.gif',  962);
+var menuNews        = new menuItem('tab6x',  '/images/tabNSD.gif', '/images/tabNSU.gif', 989);
+var menuClassifieds = new menuItem('tab4x',  '/images/tabClD.gif', '/images/tabClU.gif', 979);
+var menuCalendar    = new menuItem('tab5x',  '/images/tabCCD.gif', '/images/tabCCU.gif', 999);
+var menuCoupons     = new menuItem('tab3x',  '/images/tabCoD.gif', '/images/tabCoU.gif', 1285);
+var menuWDYT        = new menuItem('tab7x',  '/images/tabWTD.gif', '/images/tabWTU.gif', 1295);
+var menuMyWz        = new menuItem('tab8x',  '/images/tabMWD.gif', '/images/tabMWU.gif', 0);
+var menuLetters     = new menuItem('tab9x',  '/images/tabLTD.gif', '/images/tabLTU.gif', 1350);
+var menuVolunteer   = new menuItem('tab10x', '/images/tabVLD.gif', '/images/tabVLU.gif', 1352);
+
+var AllMenus = new Array(menuHome, menuBizSrvcs, menuOrgs, menuNews, menuClassifieds,
+                         menuCalendar, menuCoupons, menuWDYT, menuMyWz, menuLetters, menuVolunteer);
+</script>
+<table cellspacing="0" class="navbar" width="990">
 <tbody><tr>
-<td><a href="/index.php?frm=lhs&amp;loc=d25+s+cWaterbury+stVT+z05676+lat44.3258+lng-72.7451" onmouseover="document.tab0x.src='/images/tabHD.gif';" onmouseout="document.tab0x.src='/images/tabHU.gif';"><img name="tab0x" border="0" src="/images/tabHU.gif"></a></td>
-<td><a href="/list_category.php?catid=1&amp;loc=d25+s+cWaterbury+stVT+z05676+lat44.3258+lng-72.7451" onmouseover="document.tab1x.src='/images/tabBSD.gif';" onmouseout="document.tab1x.src='/images/tabBSU.gif';"><img name="tab1x" border="0" src="/images/tabBSU.gif"></a></td>
-<td><a href="/list_category.php?catid=962&amp;loc=d25+s+cWaterbury+stVT+z05676+lat44.3258+lng-72.7451" onmouseover="document.tab2x.src='/images/tabOD.gif';" onmouseout="document.tab2x.src='/images/tabOU.gif';"><img name="tab2x" border="0" src="/images/tabOU.gif"></a></td>
-<td><a href="/list_category.php?catid=989&amp;loc=d25+s+cWaterbury+stVT+z05676+lat44.3258+lng-72.7451" onmouseover="document.tab6x.src='/images/tabNSD.gif';" onmouseout="document.tab6x.src='/images/tabNSU.gif';"><img name="tab6x" border="0" src="/images/tabNSU.gif"></a></td>
-<td><a href="/list_category.php?catid=979&amp;loc=d25+s+cWaterbury+stVT+z05676+lat44.3258+lng-72.7451" onmouseover="document.tab4x.src='/images/tabClD.gif';" onmouseout="document.tab4x.src='/images/tabClU.gif';"><img name="tab4x" border="0" src="/images/tabClU.gif"></a></td>
-<td><a href="/list_category.php?catid=999&amp;loc=d25+s+cWaterbury+stVT+z05676+lat44.3258+lng-72.7451" onmouseover="document.tab5x.src='/images/tabCCD.gif';" onmouseout="document.tab5x.src='/images/tabCCU.gif';"><img name="tab5x" border="0" src="/images/tabCCU.gif"></a></td>
-<td><a href="/list_category.php?catid=1285&amp;loc=d25+s+cWaterbury+stVT+z05676+lat44.3258+lng-72.7451" onmouseover="document.tab3x.src='/images/tabCoD.gif';" onmouseout="document.tab3x.src='/images/tabCoU.gif';"><img name="tab3x" border="0" src="/images/tabCoU.gif"></a></td>
-<td><a href="/list_category.php?catid=1295&amp;loc=d25+s+cWaterbury+stVT+z05676+lat44.3258+lng-72.7451" onmouseover="document.tab7x.src='/images/tabWTD.gif';" onmouseout="document.tab7x.src='/images/tabWTU.gif';"><img name="tab7x" border="0" src="/images/tabWTU.gif"></a></td>
-<td><a href="/my/index.php" onmouseover="document.tab8x.src='/images/tabMWD.gif';" onmouseout="document.tab8x.src='/images/tabMWU.gif';"><img name="tab8x" border="0" src="/images/tabMWU.gif"></a></td>
+<td><a href="/index.php?frm=lhs&amp;loc=d25+s+cWaterbury+stVT+z05676+lat44.3258+lng-72.7451" onmouseover="mouseOver(menuHome);" onmouseout="mouseOut(menuHome);"><img id="tab0x" alt="Home" border="0" src="/images/tabHU.gif"></a></td>
+<td><a href="/list_category.php?catid=1&amp;loc=d25+s+cWaterbury+stVT+z05676+lat44.3258+lng-72.7451" onmouseover="mouseOver(menuBizSrvcs);" onmouseout="mouseOut(menuBizSrvcs);"><img id="tab1x" alt="Businesses &amp; Services" border="0" src="/images/tabBSU.gif"></a></td>
+<td><a href="/list_category.php?catid=962&amp;loc=d25+s+cWaterbury+stVT+z05676+lat44.3258+lng-72.7451" onmouseover="mouseOver(menuOrgs);" onmouseout="mouseOut(menuOrgs);"><img id="tab2x" alt="Organizations" border="0" src="/images/tabOU.gif"></a></td>
+<td><a href="/list_category.php?catid=989&amp;loc=d25+s+cWaterbury+stVT+z05676+lat44.3258+lng-72.7451" onmouseover="mouseOver(menuNews);" onmouseout="mouseOut(menuNews)"><img id="tab6x" alt="News and Sports" border="0" src="/images/tabNSU.gif"></a></td>
+<td><a href="/list_category.php?catid=1350&amp;loc=d25+s+cWaterbury+stVT+z05676+lat44.3258+lng-72.7451" onmouseover="mouseOver(menuLetters);" onmouseout="mouseOut(menuLetters)"><img id="tab9x" alt="Letters &amp; Opinions" border="0" src="/images/tabLTU.gif"></a></td>
+<td><a href="/list_category.php?catid=979&amp;loc=d25+s+cWaterbury+stVT+z05676+lat44.3258+lng-72.7451" onmouseover="mouseOver(menuClassifieds)" onmouseout="mouseOut(menuClassifieds);"><img id="tab4x" alt="Classifieds" border="0" src="/images/tabClU.gif"></a></td>
+<td><a href="/list_category.php?catid=999&amp;loc=d25+s+cWaterbury+stVT+z05676+lat44.3258+lng-72.7451" onmouseover="mouseOver(menuCalendar);" onmouseout="mouseOut(menuCalendar);"><img id="tab5x" alt="Community Calendar" border="0" src="/images/tabCCU.gif"></a></td>
+<td><a href="/list_category.php?catid=1352&amp;loc=d25+s+cWaterbury+stVT+z05676+lat44.3258+lng-72.7451" onmouseover="mouseOver(menuVolunteer);" onmouseout="mouseOut(menuVolunteer);"><img id="tab10x" alt="Volunteers Needed" border="0" src="/images/tabVLU.gif"></a></td>
+<td><a href="/list_category.php?catid=1285&amp;loc=d25+s+cWaterbury+stVT+z05676+lat44.3258+lng-72.7451" onmouseover="mouseOver(menuCoupons);" onmouseout="mouseOut(menuCoupons);"><img id="tab3x" alt="Coupons" border="0" src="/images/tabCoU.gif"></a></td>
+<td><a href="/list_category.php?catid=1295&amp;loc=d25+s+cWaterbury+stVT+z05676+lat44.3258+lng-72.7451" onmouseover="mouseOver(menuWDYT);" onmouseout="mouseOut(menuWDYT);"><img id="tab7x" alt="What do you think?" border="0" src="/images/tabWTU.gif"></a></td>
+<td><a href="/my/index.php" onmouseover="mouseOver(menuMyWz);" onmouseout="mouseOut(menuMyWz);"><img id="tab8x" alt="My WherezIt" border="0" src="/images/tabMWU.gif"></a></td>
+<td width="100%">&nbsp;</td>
 </tr>
 </tbody></table>
-<table cellspacing="0" border="0" width="100%">
+
+<table cellspacing="0" border="0" width="990">
 <tbody><tr><td width="100%">
 
 <h3><span class="wz">WherezIt.com</span> Privacy Policy</h3>
@@ -251,17 +287,19 @@ keep prior versions of this Privacy Policy in an archive for your review.</p>
 
 
 </td><td class="ad_td">
-<div class="adblock2"><a href="/listing_show.php?lid=215504&amp;aid=21"><img src="/images/user/86/58/01/015886.jpg" height="125" width="125" border="0" alt=""></a></div>
-<hr color="#500078" noshade="" size="1" width="66%">
-<div class="adblock2"><a href="/listing_show.php?lid=223995&amp;aid=12"><img src="/images/user/39/56/01/015639.jpg" height="125" width="125" border="0" alt=""></a></div>
-<hr color="#500078" noshade="" size="1" width="66%">
 <div class="adblock2"><a href="/listing_show.php?lid=224846&amp;aid=26"><img src="/images/user/16/60/01/016016.jpg" height="125" width="125" border="0" alt=""></a></div>
 <hr color="#500078" noshade="" size="1" width="66%">
-<div class="adblock2"><a href="/listing_show.php?lid=216527&amp;aid=13"><img src="/images/user/40/56/01/015640.jpg" height="125" width="125" border="0" alt=""></a></div>
+<div class="adblock2"><a href="/listing_show.php?lid=224864&amp;aid=22"><img src="/images/user/87/58/01/015887.jpg" height="125" width="125" border="0" alt=""></a></div>
 <hr color="#500078" noshade="" size="1" width="66%">
-<div class="adblock2"><a href="/listing_show.php?lid=224025&amp;aid=11"><img src="/images/user/38/56/01/015638.jpg" height="109" width="125" border="0" alt=""></a></div>
+<div class="adblock2"><a href="/listing_show.php?lid=224023&amp;aid=10"><img src="/images/user/37/56/01/015637.jpg" height="125" width="125" border="0" alt=""></a></div>
 <hr color="#500078" noshade="" size="1" width="66%">
-<div class="adblock2"><a href="/listing_show.php?lid=287916&amp;aid=29"><img src="/images/user/57/37/02/023757.jpg" height="125" width="125" border="0" alt=""></a></div>
+<div class="adblock2"><a href="/listing_show.php?lid=224024&amp;aid=7"><img src="/images/user/34/56/01/015634.jpg" height="125" width="125" border="0" alt=""></a></div>
+<hr color="#500078" noshade="" size="1" width="66%">
+<div class="adblock2"><a href="/listing_show.php?lid=224025&amp;aid=30"><img src="/images/user/62/98/02/029862.jpg" height="125" width="125" border="0" alt="Hometown cooking with an eclectic menu.
+
+Come in today!"></a></div>
+<hr color="#500078" noshade="" size="1" width="66%">
+<div class="adblock2"><a href="/listing_show.php?lid=215504&amp;aid=21"><img src="/images/user/86/58/01/015886.jpg" height="125" width="125" border="0" alt=""></a></div>
 <hr color="#500078" noshade="" size="1" width="66%">
 <p><a href="/about/contact.php">Want to see your ad here?</a></p>
 </td></tr>
@@ -282,10 +320,11 @@ keep prior versions of this Privacy Policy in an archive for your review.</p>
 </div>
 </td></tr>
 <tr><td colspan="2"><div align="center">
-© 2008 WherezIt.com
-<p class="gray_text">Page generated in: 0.360 seconds
-<br>Query Count: 18 Query Time: 0.099
-</p>
+© 2009 WherezIt.com
+<p class="gray_text">Page generated in: 0.237 seconds
+<br>Query Count: 12 Query Time: 0.066
+<br>Database: wherezit
+<br>Session Id: mkbv6jo0j9njeunlcai9gmonn6</p>
 
 </div>
 </td></tr>
