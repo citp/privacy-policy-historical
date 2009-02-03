@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chegg.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227053345id_/http%3A//www.chegg.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chegg.com privacy policy that was archived on 2009-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090203043650id_/http%3A//www.chegg.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Chegg.com - Cheap Textbook Rentals. Search for Used Textbooks and Rent College Textbooks.
 
