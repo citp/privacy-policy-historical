@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lapeches.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217064643id_/http%3A//www.lapeches.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lapeches.com privacy policy that was archived on 2009-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090203070841id_/http%3A//www.lapeches.com/privacy.php%3FosCsid%3Dfrv9r6trcm2839c60bl7b5ka97) for the most accurate reproduction.*
 
 # ::Lapeches::
 
