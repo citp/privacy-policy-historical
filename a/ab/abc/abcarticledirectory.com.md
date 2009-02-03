@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcarticledirectory.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020325id_/http%3A//www.abcarticledirectory.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcarticledirectory.com privacy policy that was archived on 2009-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090203182446id_/http%3A//www.abcarticledirectory.com/privacy.php) for the most accurate reproduction.*
 
 # ABC Article Directory | Submit Articles | Article Search Engine | Article Directory
 
