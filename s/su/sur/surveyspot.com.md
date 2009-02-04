@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyspot.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224020624id_/http%3A//www.surveyspot.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyspot.com privacy policy that was archived on 2009-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090204081054id_/http%3A//www.surveyspot.com/privacy.shtml) for the most accurate reproduction.*
 
 # .:: SurveySpot.com ::.
 
@@ -46,7 +46,7 @@ We encourage you to update your panelist information. To help you do this, we se
 
   * Send an e-mail request to [our members' services team](https://web.archive.org/svy/survey/ContactMemberServices.jsp)
   * Visit [your member account](https://web.archive.org/panelist/PanelistManager) on our web site, and follow the instructions
-  * Phone at 1.203.255.4200, please ask for Susan Evans 
+  * Phone at 1.203.567.7200, please ask for Susan Evans 
   * Postal mail to Attn: Susan Evans, Survey Sampling International, Six Research Drive, Shelton, CT 06484 USA
 
 
@@ -90,7 +90,7 @@ Please contact us at [Member Services](https://web.archive.org/svy/survey/Contac
 
   1. Send an e-mail request to [our members' services team](https://web.archive.org/svy/survey/ContactMemberServices.jsp)
   2. Visit [your member account](https://web.archive.org/panelist/PanelistManager) on our web site, and follow the instructions 
-  3. Phone at 1.203.255.4200, please ask for Susan Evans 
+  3. Phone at 1.203.567.7200, please ask for Susan Evans 
 Postal mail to Attn: Susan Evans, Survey Sampling International, Six Research Drive, Shelton, CT 06484 USA 
 
 
