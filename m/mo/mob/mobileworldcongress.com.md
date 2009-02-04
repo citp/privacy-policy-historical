@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobileworldcongress.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217172127id_/http%3A//www.mobileworldcongress.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileworldcongress.com privacy policy that was archived on 2009-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090204142148id_/http%3A//www.mobileworldcongress.com//privacy.shtml) for the most accurate reproduction.*
 
 # GSMA Mobile World Congress | 16-19 February 2009 | Barcelona, Spain - GSMA Privacy Policy
 
@@ -10,10 +10,10 @@ By using the Site and any services we offer via the Site, you are agreeing to be
 
 The references to information “relating to you” or “about you” include references to information about your employees, representatives, agents, directors, officers, shareholders, or other relevant parties whose details you have provided, and those of your affiliates and subsidiaries and sub-contractors, and those of any third party whose details you supply to GSMC. 
 
-We may update this Policy from time to time to take account of changing requirements, and we request that you refer back to this Policy frequently to review any revisions. If at any time we decide to use personal information in a manner significantly different to that stated in this Policy, or otherwise disclosed to you at the time it was collected, we will notify you by e-mail, and you will have a choice as to whether or not we use your information in this new manner. If you have any queries about the Policy, please get in touch with us using the contact details set out at [Contact Us](https://web.archive.org/web/20081217172127id_/http%3A//www.mobileworldcongress.com/contactus.shtml) below, and we will do our best to answer your questions. 
+We may update this Policy from time to time to take account of changing requirements, and we request that you refer back to this Policy frequently to review any revisions. If at any time we decide to use personal information in a manner significantly different to that stated in this Policy, or otherwise disclosed to you at the time it was collected, we will notify you by e-mail, and you will have a choice as to whether or not we use your information in this new manner. If you have any queries about the Policy, please get in touch with us using the contact details set out at [Contact Us](https://web.archive.org/web/20090204142148id_/http%3A//www.mobileworldcongress.com//contactus.shtml) below, and we will do our best to answer your questions. 
 
 **Collection and Use of Information  
-**We do not collect personal information about you on this Site apart from information for which you volunteer; for example, by completing the online registration form or using the [Contact Us](https://web.archive.org/web/20081217172127id_/http%3A//www.mobileworldcongress.com/contactus.shtml) function. The information collected may include the following: 
+**We do not collect personal information about you on this Site apart from information for which you volunteer; for example, by completing the online registration form or using the [Contact Us](https://web.archive.org/web/20090204142148id_/http%3A//www.mobileworldcongress.com//contactus.shtml) function. The information collected may include the following: 
 
 Your name, company name, title in your company   
 Your e-mail address, postal address, telephone, and fax numbers   
@@ -26,7 +26,7 @@ We will use your contact details in order to respond to any queries submitted by
 
 
 
-We may contact you by any means of communication for which you have given us contact details, including e-mail, telephone, and post. However, you may choose not to receive such information by so indicating on the online registration form at the time of providing your information, or by simply using the [Contact Us](https://web.archive.org/web/20081217172127id_/http%3A//www.mobileworldcongress.com/contactus.shtml) function below. 
+We may contact you by any means of communication for which you have given us contact details, including e-mail, telephone, and post. However, you may choose not to receive such information by so indicating on the online registration form at the time of providing your information, or by simply using the [Contact Us](https://web.archive.org/web/20090204142148id_/http%3A//www.mobileworldcongress.com//contactus.shtml) function below. 
 
 Any financial details supplied to us such as bank details and/or credit card details are used solely for the purpose of processing payments. 
 
