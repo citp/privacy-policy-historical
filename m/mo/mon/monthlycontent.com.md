@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monthlycontent.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223052145id_/http%3A//www.worldclasswarrior.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monthlycontent.com privacy policy that was archived on 2009-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090204010400id_/http%3A//www.worldclasswarrior.com/Privacy.htm) for the most accurate reproduction.*
 
 # Disclaimer
 
