@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexyandfunny.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050503id_/http%3A//www.sexyandfunny.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexyandfunny.com privacy policy that was archived on 2009-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090204144628id_/http%3A//www.sexyandfunny.com/privacy.html) for the most accurate reproduction.*
 
 # Sexy and Funny - Privacy Policy/Terms - Sexy Videos, Hot Girls, Funny and Sexy Photos/Animations
 
