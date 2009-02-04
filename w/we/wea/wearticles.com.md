@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wearticles.com privacy policy that was archived on 2008-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080927060847id_/http%3A//www.wearticles.com/Business/Other/200807/13759.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wearticles.com privacy policy that was archived on 2009-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090204181940id_/http%3A//www.wearticles.com/Business/Other/200807/13759.html) for the most accurate reproduction.*
 
 # WeArticles.com -- Privacy Policy
 
