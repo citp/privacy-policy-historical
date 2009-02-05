@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the trustnet.com privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202185633id_/http%3A//www.trustnet.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustnet.com privacy policy that was archived on 2009-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090205055644id_/http%3A//www.trustnet.com/Education/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Trustnet Help / Privacy Policy
-
-[](https://web.archive.org/web/20081202185633id_/http%3A//www.trustnet.com/help/undefinedclick_nx.ads/www.trustnet.com/help/privacy.aspx/1undefined@Top,Position1,Top2,Top3,x02,x03!Top3?investor_type=)
-
-Choose Universe    Group    
+# Trustnet - Privacy Policy
 
 Trustnet respects your right to privacy on the internet and will not sell or make available in any way individually identifiable personal information without first receiving your permission. 
 
@@ -34,8 +30,4 @@ We have certain responsibilities under Money Laundering legislation to verify th
 
 You agree that we may disclose to any regulatory authority to which we are subject and to any investment exchange on which we may deal or to its related clearing house (or to investigators, inspectors or agents appointed by them), or to any person empowered to require such information by or under any legal enactment, any information they may request or require relating to you or, if relevant, any of your clients. 
 
-If you want more information or have any questions or comments relating to our privacy policy please [contact us via our feedback form here](https://web.archive.org/general/feedback.apx?text=TrustnetUK+privacy+policy) in the first instance. 
-
-a d v e r t i s e m e n t
-
-[](https://web.archive.org/web/20081202185633id_/http%3A//www.trustnet.com/help/undefinedclick_nx.ads/www.trustnet.com/help/privacy.aspx/1undefined@Top,Position1,Top2,Top3,x02,x03!Position1?investor_type=)
+If you want more information or have any questions or comments relating to our privacy policy please email [publishing@financialexpress.net](mailto:publishing@financialexpress.net?subject=Trustnet%20United%20Kingdom%20Privacy%20Policy) in the first instance. 
