@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the entirelypets.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218101812id_/http%3A//www.entirelypets.com/privacypolicy2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entirelypets.com privacy policy that was archived on 2009-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090205042014id_/http%3A//www.entirelypets.com/privacypolicy2.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
-| [](https://web.archive.org/web/20081218101812id_/http%3A//www.entirelypets.com/index.html)
+| [](https://web.archive.org/web/20090205042014id_/http%3A//www.entirelypets.com/index.html)
 
 EntirelyPets.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: EntirelyPets.com.
 
@@ -52,7 +52,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 ## Shipping
 
-We offer the [best shipping rates](https://web.archive.org/web/20081218101812id_/http%3A//www.entirelypets.com/shco.html).
+We offer the [best shipping rates](https://web.archive.org/web/20090205042014id_/http%3A//www.entirelypets.com/shco.html).
 
 ## Privacy Policy
 
