@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adventnet.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223023816id_/http%3A//www.adventnet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventnet.com privacy policy that was archived on 2009-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090205055820id_/http%3A//www.adventnet.com/privacy.html) for the most accurate reproduction.*
 
 # AdventNet Privacy Policy
 
@@ -13,7 +13,7 @@
 Our postal address is 
 
 AdventNet, Inc.  
-5200 Franklin Dr, Suite 115  
+4900 Hopyard Rd., Suite 310   
 Pleasanton, CA 94588, USA
 
 We can be reached via e-mail at [support@adventnet.com](mailto:support@adventnet.com), or you can reach AdventNet Customer Support Services by telephone at +1 925 924 9500 and +1-888-720-9500 (Monday to Friday). 
