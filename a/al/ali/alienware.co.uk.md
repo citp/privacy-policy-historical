@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alienware.co.uk privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228032350id_/http%3A//www.alienware.co.uk/sub_pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alienware.co.uk privacy policy that was archived on 2009-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090205055459id_/http%3A//www.alienware.co.uk/sub_pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Alienware
 
