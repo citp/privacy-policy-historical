@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cafepress.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219212004id_/http%3A//www.cafepress.com/cp/info/help/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafepress.com privacy policy that was archived on 2009-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090205152024id_/http%3A//www.cafepress.com/cp/info/help/privacy_policy.aspx) for the most accurate reproduction.*
 
 # CafePress.com : Customer Service : Privacy Policy
 
-[Reddickulous Productions Store](https://web.archive.org/cp/store.aspx?s=Reddickulous.6145279) > **Customer Service**
+[Firefly Cargo Bay by earthgirl](https://web.archive.org/cp/store.aspx?s=fireflycargobay.0) > **Customer Service**
 
 **Effective Date: January 21, 2008**
 
