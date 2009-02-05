@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nenablue.com privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820103513id_/http%3A//about.ccbill.com/html_forms/00/privacy_policy-english.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nenablue.com privacy policy that was archived on 2009-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090205172002id_/http%3A//about.ccbill.com/html_forms/00/privacy_policy-english.html) for the most accurate reproduction.*
 
 # Untitled Document
 
