@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphaimports.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080501id_/http%3A//www.alphaimports.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphaimports.com privacy policy that was archived on 2009-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090205144734id_/http%3A//www.alphaimports.com/help/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - check the privacy
 
