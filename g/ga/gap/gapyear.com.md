@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gapyear.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027055938id_/http%3A//www.gapyear.com/aboutus/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapyear.com privacy policy that was archived on 2009-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090206103016id_/http%3A//www.gapyear.com/aboutus/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -90,5 +90,3 @@ We reserve the right to change this statement at any time without warning to mee
 We caution you against giving out personally identifiable information (such as social security numbers, credit card numbers, names and addresses, driver license numbers, passwords) to strangers online, which may be used for illegal or harmful purposes.
 
 Some personal information you provide to Gap year may be stored outside of the country in which you reside. 
-
-[](http://www.gapyear.com/lcr.php?op=rd&ur=http%3A%2F%2Fwww.gapyear.com%2Fitoi%2F)
