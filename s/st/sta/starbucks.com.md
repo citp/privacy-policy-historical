@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starbucks.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228030805id_/http%3A//www.starbucks.com/customer/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks.com privacy policy that was archived on 2009-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090206182924id_/http%3A//www.starbucks.com/customer/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -9,7 +9,7 @@ By using our services and viewing this Site, you are consenting to the informati
 
 We may update this privacy policy from time to time. When we do so, we will post the new privacy policy on this page and change the date at the top of the policy. Therefore, we encourage you to check the date of our privacy policy whenever you visit this Site for any updates or changes. If you have provided personal information to us, we will email you any modified versions of the privacy policy that might substantially affect the way we use or disclose your personal information. By providing such information, you agree to receive updates to the privacy policy via email.
 
-If you have any questions about this privacy policy or have concerns that are not addressed here, please contact Starbucks [Customer Relations](https://web.archive.org/web/20081228030805id_/http%3A//www.starbucks.com/customer/default.asp). 
+If you have any questions about this privacy policy or have concerns that are not addressed here, please contact Starbucks [Customer Relations](https://web.archive.org/web/20090206182924id_/http%3A//www.starbucks.com/customer/default.asp). 
 
 This site includes links to other web sites, such as the site for starbucksstore.com and Starbucks International web sites. We provide these links as a courtesy to you and we do not have control over the operation of the sites, even though they may use the Starbucks name or logo. In addition, you may sign up for accounts on some of these web sites. These sites have their own privacy and information security policy and terms and conditions and do not necessarily follow our Privacy Policy. Their policies will control their collection and use of your personal information. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. In addition, when you browse, they may place their own cookies on your computer and we do not control cookies placed on your computer by third parties whose advertising or links appear on our site. 
 
