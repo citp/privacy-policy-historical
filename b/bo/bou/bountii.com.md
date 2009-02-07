@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the bountii.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012013id_/http%3A//bountii.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bountii.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207142725id_/http%3A//bountii.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Bountii
 
-|  [ ](https://web.archive.org/)  
+[](https://web.archive.org/)
+
+|   
 ---|---  
   
 Revised March 30, 2008 
@@ -26,4 +28,4 @@ Uses
 
 
 
-If you have additional questions regarding your privacy and Bountii, please [contact us](https://web.archive.org/web/20081216012013id_/http%3A//bountii.com/contact.php). 
+If you have additional questions regarding your privacy and Bountii, please [contact us](https://web.archive.org/web/20090207142725id_/http%3A//bountii.com/contact.php). 
