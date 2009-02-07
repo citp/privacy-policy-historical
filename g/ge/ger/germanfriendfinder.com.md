@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the germanfriendfinder.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216080126id_/http%3A//germanfriendfinder.com/go/page/privacy.html%3Fsite%3Dffd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the germanfriendfinder.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207202913id_/http%3A//germanfriendfinder.com/go/page/privacy.html) for the most accurate reproduction.*
 
 # German FriendFinder PRIVACY POLICY
 
