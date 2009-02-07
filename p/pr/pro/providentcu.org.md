@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the providentcu.org privacy policy that was archived on 2008-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080920235057id_/http%3A//www.providentcu.org/AFrames/MembershipFrames/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the providentcu.org privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207065148id_/http%3A//www.providentcu.org/AFrames/MembershipFrames/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Print
 
 Provident Credit Union and its affiliate, Provident Services Corporation, (PSC), are committed to providing you with financial products and services to meet your financial objectives at every stage of your life. We understand the importance of safeguarding your member information. You can count on us to provide you with the responsive, professional service you deserve. Plus, you can trust Provident to protect your privacy and security at all times. 
 
-This Privacy Policy describes how Provident and PSC collect and use your personal and financial information, and how we maintain the confidentiality and accuracy of such information. This policy is provided pursuant to Title V of the Gramm-Leach-Bliley Act (the Federal Privacy Act).
+This Privacy Policy describes how Provident and PSC collect and use your personal and financial information, and how we maintain the confidentiality and accuracy of such information. This policy is provided pursuant to Title V of the Gramm-Leach-Bliley Act (the Federal Privacy Act) and the Fair Credit Reporting Act Affiliate Marketing rule.
 
 If you have questions after reading this notice, please contact us at (650) 508-0300 or (800) 632-4600.
 
@@ -29,11 +29,11 @@ We collect and maintain your non-public personal information to serve you and to
 
   * **We collect non-public personal information about you from a variety of sources, such as:**  
  
-    * Information we receive from you on applications and other forms.
-    * Information about your transactions with us or our subsidiaries received through the various Credit Union distribution channels.
-    * Information we receive from credit reporting agencies.
-    * Information obtained when verifying the information you provide on an application or other form(s) (this may be obtained from your current or past employers, or from other institutions where you conduct financial transactions).
-    * Information we obtain from census data providers to develop competitive marketing programs for members.
+    * Information we receive from you on applications or forms received verbally, electronically, or in writing, including information such as Social Security numbers, addresses, e-mail addresses, income, assets, and debt;
+    * Information we receive from a consumer reporting agency, including information we receive from a third party such as a credit bureau providing your credit history, credit score, or employment verification;
+    * Information created as a result of your being a customer of PSC or your being a Provident member or nonmember joint owner on a deposit or loan account, such as account numbers, personal identification numbers (PIN), and passwords;
+    * Information about your transactions with us, our affiliates, or others, including information about your transactions or experiences, such as insurance contracts issued to you, brokerage accounts, loan or deposit balance histories;
+    * Information received from other sources to verify information that you provide on an application. This may be obtained from your current or past employers or other institutions where you have conducted financial transactions in the past.
   
  
   * **Parties who receive information from us--** The member information we collect is used to serve your accounts and meet your financial needs. Information may be used among the Provident affiliates, as well as with authorized third parties (see section 3 for further description), for a number of purposes, such as:  
@@ -80,4 +80,4 @@ Provident Credit Union and its affiliates are committed to protecting the privac
 
 
 
-[Privacy Form](https://web.archive.org/web/20080920235057id_/http%3A//www.providentcu.org/AFrames/MembershipFrames/PrivacyForm.html)
+[Privacy Form](https://web.archive.org/web/20090207065148id_/http%3A//www.providentcu.org/AFrames/MembershipFrames/PrivacyForm.html)
