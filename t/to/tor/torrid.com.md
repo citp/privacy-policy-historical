@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torrid.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218034438id_/http%3A//community.torrid.com/torrid/customer_service/security_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrid.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207195824id_/http%3A//community.torrid.com/torrid/customer_service/security_privacy.asp) for the most accurate reproduction.*
 
 # Torrid.com
 
