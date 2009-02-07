@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartcanucks.ca privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014322id_/http%3A//forum.smartcanucks.ca/cashback_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcanucks.ca privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207202223id_/http%3A//forum.smartcanucks.ca/cashback_privacy_policy.php) for the most accurate reproduction.*
 
 # Cash Back Rebates Canada - Great Canadian Rebates
 
