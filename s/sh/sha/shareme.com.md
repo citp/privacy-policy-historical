@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911192159id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207073211id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
 
-# Any Windows Software - Windows Shareware, Freeware, MP3, Games, DVD, Audio, Video Software
+# Our Privacy Policy - Shareme.com respects your right to privacy - Windows Shareware, Freeware, MP3, Games, DVD, Audio, Video Software
 
 **Our Privacy Policy**
 
