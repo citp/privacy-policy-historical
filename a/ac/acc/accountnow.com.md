@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accountnow.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216115836id_/http%3A//www.accountnow.com/company/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountnow.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207205233id_/http%3A//www.accountnow.com/company/privacy-policy.aspx) for the most accurate reproduction.*
 
 # AccountNow Privacy Policy- Company Info|AccountNow Prepaid Card
 
@@ -171,6 +171,8 @@ AccountNow Prepaid Visa card is issued by MetaBank pursuant to a license by Visa
 *The USA PATRIOT Act is a Federal law that requires all financial institutions to obtain, verify, and record information that identifies each person who opens an account. You will be asked to provide your name, address, date of birth, and other information that will allow us to identify you. You may also be asked to provide documentation as proof of identification. Guaranteed Approval is contingent upon successfully passing this mandatory identification confirmation. Cardholders must complete a separate application for iAdvance Line of Credit. Certain fees and eligibility requirements apply.
 
 **Conditions and exceptions apply. Visa’s Zero Liability policy covers U.S.–issued cards only and does not apply to ATM transactions, PIN transactions not processed by Visa, or certain commercial card transactions. Cardholder must notify issuer promptly of any unauthorized use. Consult issuer for additional details or visit www.visa.com/security. 
+
+AccountNow reserves the right to modify or discontinue any product, services or special offers with or without prior notice.
 
 AccountNow is a trademark of AccountNow, Inc.  
 All other trademarks, service marks and other registered marks are the property of their respective owners.
