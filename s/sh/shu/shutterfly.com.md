@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shutterfly.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154827id_/http%3A//www.shutterfly.com/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterfly.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207063222id_/http%3A//www.shutterfly.com/help/privacy.jsp) for the most accurate reproduction.*
 
 # Shutterfly | Privacy Policy
 
