@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xprize.org privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223045656id_/http%3A//www.xprize.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xprize.org privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207090419id_/http%3A//www.xprize.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | X PRIZE Foundation
 
