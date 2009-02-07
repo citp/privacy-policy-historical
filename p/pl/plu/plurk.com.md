@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plurk.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216103605id_/http%3A//www.plurk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plurk.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207181515id_/http%3A//www.plurk.com/privacy) for the most accurate reproduction.*
 
 # Your life, on the line - Plurk.com
 
