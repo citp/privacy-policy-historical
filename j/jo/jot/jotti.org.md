@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jotti.org privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231121227id_/http%3A//virusscan.jotti.org/docs/PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jotti.org privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207092040id_/http%3A//virusscan.jotti.org/docs/PRIVACY) for the most accurate reproduction.*
 
 # 
 
@@ -10,7 +10,7 @@
     
     We log information you voluntarily provide us with. As you may or may not be aware, web browsers (e.g. Internet Explorer) provide certain information to every website you
     visit, such as your current IP address, operating system (e.g. Windows), as well as the URL of the website you came from. As far as we use this information, it is handled
-    anonymously. For example, we do not track which browser anyone uses, but we may index how many of our visitors use Internet Explorer or chart how many of our visitors
+    anonymously. For example, we do not track which browser a specific visitor uses, but we may index how many of our visitors use Internet Explorer or chart how many of our visitors
     visit our service from France. We also use IP addresses to prevent and respond to abuse of our service; we may, for example, use someone's IP address to deny that computer or
     network access to our service and/or file abuse reports with the Internet Service Provider associated with that IP address if we have reason to believe criminal activities are
     involved. We connect IP addresses to submitted files so we can, according to server load demands, apply limits to how often a certain visitor can submit a file for scanning.
