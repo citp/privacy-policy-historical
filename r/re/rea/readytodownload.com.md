@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readytodownload.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229045311id_/http%3A//www.readytodownload.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readytodownload.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207195530id_/http%3A//www.readytodownload.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of ReadytoDownload.COM, we concerns your privacy seriously
 
