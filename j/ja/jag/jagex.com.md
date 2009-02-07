@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jagex.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165046id_/http%3A//www.jagex.com/corporate/privacy.ws) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jagex.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207140023id_/http%3A//www.jagex.com/corporate/privacy.ws) for the most accurate reproduction.*
 
 # Jagex Software :: Privacy Policy
 
@@ -113,6 +113,6 @@ We will only collect personally identifiable information to the extent we believ
 Note that while we strive to protect all our personally identifiable information, we have all heard of data breaches in well-respected financial and governmental institutions and we cannot ever fully guarantee that such breaches will not happen. We will tell you of any material data breaches which we discover that compromise your personally identifiable information.
 
 **Review, correction and deletion of information from our records**  
-If for data protection purposes you are concerned that the personally identifiable information which we hold about you is not accurate, or should you wish to have your personal information removed from our records, please see our [Data Protection Policy](https://web.archive.org/web/20081216165046id_/http%3A//www.jagex.com/corporate/dataprotect.ws) (Its terms are incorporated into this document by reference.)
+If for data protection purposes you are concerned that the personally identifiable information which we hold about you is not accurate, or should you wish to have your personal information removed from our records, please see our [Data Protection Policy](https://web.archive.org/web/20090207140023id_/http%3A//www.jagex.com/corporate/dataprotect.ws) (Its terms are incorporated into this document by reference.)
 
 © Jagex Limited 2007
