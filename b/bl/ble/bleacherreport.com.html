@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bleacherreport.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216012741id_/http%3A//bleacherreport.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bleacherreport.com privacy policy that was archived on 2009-02-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090207222424id_/http%3A//bleacherreport.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" version="-//W3C//DTD XHTML 1.1//EN" xml:lang="en"><head>
 	<link rel="shortcut icon" href="/favicon.ico">
@@ -8,19 +8,28 @@
 	<title>Privacy Policy</title>
 	
 	
-	<link href="http://assets3.bleacherreport.com/stylesheets/print_1229390183.css" media="print" rel="Stylesheet" type="text/css">
-	<link href="http://assets1.bleacherreport.com/stylesheets/base_1229390183.css" media="screen" rel="Stylesheet" type="text/css">
-	<!--[if gte IE 7]><link href="http://assets1.bleacherreport.com/stylesheets/ie7_1229390183.css" media="screen" rel="Stylesheet" type="text/css" /><![endif]-->
-	<!--[if lte IE 6]><link href="http://assets0.bleacherreport.com/stylesheets/ie6_1229390183.css" media="screen" rel="Stylesheet" type="text/css" /><![endif]-->
-	<script src="http://assets1.bleacherreport.com/javascripts/base_1229390183.js?1229390205" type="text/javascript"></script>
-	<script src="http://assets3.bleacherreport.com/javascripts/core_1229390183.js?1229390205" type="text/javascript"></script>
+	<link href="http://assets2.bleacherreport.com/stylesheets/print_1233962677.css" media="print" rel="Stylesheet" type="text/css">
+	<link href="http://assets3.bleacherreport.com/stylesheets/base_1233962677.css" media="screen" rel="Stylesheet" type="text/css">
+	<!--[if gte IE 7]><link href="http://assets0.bleacherreport.com/stylesheets/ie7_1233962677.css" media="screen" rel="Stylesheet" type="text/css" /><![endif]-->
+	<!--[if lte IE 6]>
+		<link href="http://assets3.bleacherreport.com/stylesheets/ie6_1233962677.css" media="screen" rel="Stylesheet" type="text/css" />
+		<script src="http://assets2.bleacherreport.com/javascripts/ie6only_1233962677.js?1233962714" type="text/javascript"></script>
+	<![endif]-->
+	<script src="http://assets1.bleacherreport.com/javascripts/base_1233962677.js?1233962708" type="text/javascript"></script>
+	<script src="http://assets2.bleacherreport.com/javascripts/core_1233962677.js?1233962708" type="text/javascript"></script>
 	<link href="http://bleacherreport.com/articles/feed" rel="alternate" title="Bleacher Report RSS feed" type="application/rss+xml">
 	
 	
 	
+	<link rel="stylesheet" href="http://s3.amazonaws.com/getsatisfaction.com/feedback/feedback.css" type="text/css" media="screen">
 </head>
 
 <body>
+	<!-- ClickTale Top part -->
+	<script type="text/javascript">
+	var WRInitTime=(new Date()).getTime();
+	</script>
+	<!-- ClickTale end of Top part -->
 	
 	<div id="hat">	
 	
@@ -28,9 +37,119 @@
 		
 		<div id="mybr_teaser">
 			<div id="mybr_icon"><a href="/accounts/new">My B/R</a></div>
-			<a href="/accounts/new">Sign up</a> or login to track your favorite teams on Bleacher Report
+			
+			<a id="sign_up_link">Sign up</a> or login to track your favorite teams
+
+			<div id="sign_up_container">
+
+				<div id="general_registration_errors" class="alert"></div>
+
+				<div id="sign_up">
+					<h3>Sign Up for Bleacher Report</h3>
+					<h4>As a registered user you can <strong>subscribe to your favorite teams</strong>, <strong>post comments</strong>, <strong>write your own articles</strong>, and much more.</h4>
+					
+					<p id="hat_sign_up_required" class="alert">You must register in order for that functionality to work!</p>
+					
+					<ul>
+						<form action="/account/create_from_hat" id="hat_signup_form" method="post">
+							<li>
+								<label for="firstname">First Name:</label><br>
+								<input type="text" class="signup_text_input" name="first_name">
+								<div class="signup_errors" id="first_name_errors"></div>
+					    	</li>
+					    	<li>
+								<label for="lastname">Last Name:</label><br>
+								<input type="text" class="signup_text_input" name="last_name">
+								<div class="signup_errors" id="last_name_errors"></div>
+							</li>
+							<li>
+								<label for="email">Email:</label><br>
+								<input type="text" class="signup_text_input" name="email">
+								<div class="signup_errors" id="email_errors"></div>
+							</li>
+							<li>
+								<label for="password">Password:</label><br>
+								<input type="password" class="signup_text_input" name="password">
+								<div class="signup_errors" id="password_errors"></div>
+							</li>
+							<li>
+								<label for="password_confirmation">Confirm Password:</label><br>
+								<input type="password" class="signup_text_input" name="password_confirmation">
+								<div class="signup_errors" id="password_confirmation_errors"></div>
+							</li>
+							<li id="sign_up_link"><a id="hat_signup_submit" class="button good">Sign Up »</a> &nbsp; <a id="cancel-signup">Cancel</a></li>
+							<input type="hidden" id="hat_comment_body" name="comment_body">
+							<input type="hidden" id="hat_comment_article_id" name="comment_article_id">
+							<input type="hidden" id="hat_comment_parent_id" name="comment_parent_id">
+							<input type="hidden" name="current_href">
+						</form>
+					</ul>
+					<div id="hat_signup_spinner">
+						<p><img src="/images/spinner-wheel2.gif"></p>
+						<h3>Validating sign up form ...</h3>
+					</div>
+				</div>
+				
+				<div id="interested_in_writing">
+					<h3>Do you want to write for Bleacher Report?</h3>
+					<h4>Bleacher Report content is created by fans like you.  Do you want to write about your sports, teams, and leagues?</h4>
+					<form action="/account/interested_in_writing_from_hat" id="hat_interested_in_writing_form" method="post">
+					
+					<ul>
+						<li>
+							<input type="radio" name="interested_in_writing" value="yes">
+							<label for="interested_in_writing">Yes, definitely.</label>
+						</li>
+
+						<li>
+							<input type="radio" name="interested_in_writing" value="no">
+							<label for="interested_in_writing">No, I just want to read and comment.</label>
+						</li>
+						
+						<li id="interested_link"><a id="hat_interested_submit" class="button good">Continue »</a></li>
+					</ul>
+					
+						<div id="hat_interested_spinner">
+							<p><img src="/images/spinner-wheel2.gif"></p>
+							<h3>Processing writing preferences ...</h3>
+						</div>
+						
+					</form>
+				</div>
+				
+				<div id="hat_add_tags">	
+					<h3>Great, <span id="finished_sign_up_user_first_name"></span>, you're signed up! Now select your favorite teams:</h3>
+					<p id="add_tags_message"></p>
+					<div id="hat-tag-chooser">
+						<input id="hat-tag-chooser-query" class="signup_text_input" type="text" value="Enter team, name, or league tag">
+						<div id="hat-tag-search-results">
+							<ul id="hat-tag-search-results-list">
+							</ul>
+						</div>
+					</div>
+					<p class="help">i.e. Big 10, LeBron James, USC Football</p>
+					<div id="hat-selected-tags">
+						<h5><strong>Selected Tags:</strong></h5>
+						<ul id="hat-selected-tags-list">
+						</ul>
+					</div>
+					
+					<div id="hat-tag-hidden-form-fields"></div>
+					
+					<hr class="clearfix">
+					<ul>					
+					<li id="hat_finished_link"><a id="hat_finished_button" class="button good">Done »</a></li>
+					</ul>
+					<div id="hat_add_tags_spinner">
+						<p><img src="/images/spinner-wheel2.gif"></p>
+						<h3>Logging in ...</h3>
+					</div>
+					
+				</div>
+			</div>
+
 		</div>
-		
+
 		<div id="login">
 			<ul>
 				<form action="/login" method="post">
@@ -42,8 +161,18 @@
 			</ul>
 		</div>
 		
+		<script>
+			document.observe("dom:loaded", function() {
+				$('sign_up_link').observe("click", function() { BR.Hat.signUpFormToggle(); });
+				$('hat_signup_submit').observe("click", function() { BR.Hat.signUpSubmit(); });
+				$('hat_interested_submit').observe("click", function() { BR.Hat.interestedInWritingSubmit(); });
+				$('hat_finished_button').observe("click", function() { BR.Hat.signUpFinished(); });
+				$('cancel-signup').observe("click", function(event) { BR.Hat.signUpFormToggle(); });
+			});
+		</script>
+
 	
-	
+			
 </div>
 	
 	<script type="text/javascript" charset="utf-8">
@@ -181,151 +310,186 @@
 </script>
 	
 
-	<div id="sitewrapper" class="pages show">
 	
-		<div id="header">
-			<a id="logo" href="/">Bleacher Report. The Open Source Sports Network</a>
+<div id="header">
+	<a id="logo" href="/">Bleacher Report - The Open Source Sports Network</a>
+	<form id="search-box" action="/articles" method="get">
+		<fieldset id="query-tag-chooser">
+			<input type="text" id="query-tag-chooser-query" class="search-box-query" autocomplete="off" name="query">
+			<div id="query-tag-search-results">
+				<ul id="query-tag-search-results-list">
+				</ul>
+			</div>
+		</fieldset>
+		<script type="text/javascript" charset="utf-8">
+		new BR.SearchSuggestions("query", { selectedBox: false, hiddenField: false, queryFieldText: "Search for people, teams, and more...", on_add: BR.selectSearchTag });
+		</script>
+	</form>
+	<span id="banner_ad"></span>
 
-      			<div class="ad"><div id="banner_ad">
-	<script type="text/javascript" language="JavaScript"> 
-<!--//
-  var adserver="http://ordie.adbureau.net"; 
-  target = "/AAMSZ=728x90/SITE=BLEACHERREPORT.COM/PAGE=other/AREA=BR.none"; 
- 
-  // Cache-busting and pageid values 
-  random = Math.round(Math.random() * 100000000); 
-  if (!pageNum) var pageNum = Math.round(Math.random() * 100000000); 
- 
-  document.write('<IFRAME SRC="'+adserver+'/hserver/acc_random='+random + target + '/pageid=' + pageNum + '"'); 
-  document.write(' NORESIZE SCROLLING=NO HSPACE=0 VSPACE=0 FRAMEBORDER=0 MARGINHEIGHT=0 MARGINWIDTH=0' +
-                 ' WIDTH=728 HEIGHT=90 allowTransparency="true">'); 
-    document.write('<SCR'); 
-    document.write('IPT SRC="' + adserver + '/jnserver/acc_random=' + random + target + '/pageid=' + pageNum + '">'); 
-    document.write('</SCR'); 
-    document.write('IPT>'); 
-  document.write('</IFRAME>'); 
-//--> 
-</script><iframe src="http://ordie.adbureau.net/hserver/acc_random=82800440/AAMSZ=728x90/SITE=BLEACHERREPORT.COM/PAGE=other/AREA=BR.none/pageid=2614437" noresize="" scrolling="NO" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="728" height="90" allowtransparency="true"><SCRIPT SRC="http://ordie.adbureau.net/jnserver/acc_random=82800440/AAMSZ=728x90/SITE=BLEACHERREPORT.COM/PAGE=other/AREA=BR.none/pageid=2614437"></SCRIPT></iframe>
-<noscript>
-  <A HREF="http://ordie.adbureau.net/adclick/AAMSZ=728x90/SITE=BLEACHERREPORT.COM/PAGE=other/AREA=BR.none/pageid=1"> 
-  <IMG SRC="http://ordie.adbureau.net/nserver/AAMSZ=728x90/SITE=BLEACHERREPORT.COM/PAGE=other/AREA=BR.none/pageid=1"></A> 
-</noscript> 
-
-</div>
-</div>
-
-			<form id="search-box" action="/articles" method="get">
-				<fieldset id="query-tag-chooser">
-					<input type="text" id="query-tag-chooser-query" autocomplete="off" name="query">
-					<button type="submit">Go!</button>
-					<div id="query-tag-search-results">
-						<ul id="query-tag-search-results-list">
-						</ul>
-					</div>
-				</fieldset>
-				<script type="text/javascript" charset="utf-8">
-				new BR.SearchSuggestions("query", { selectedBox: false, hiddenField: false, queryFieldText: "Search for people, teams, and more...", on_add: BR.selectSearchTag });
-				</script>
-			</form>
-
-			<ul id="primary-nav"><li><a href="/" class="navlink first current"><span>Sports</span></a></li><li><a href="/articles/new" class="navlink"><span>Write</span></a></li><li><a href="/edit" class="navlink"><span>Edit</span></a></li><li><a href="/accounts/new" class="navlink"><span>My B/R</span></a></li><li><a href="/activities" class="navlink"><span>Play-by-Play</span></a></li><li><a href="/about" class="navlink"><span>About</span></a></li><li><a href="/accounts/new" class="navlink last"><span>Sign Up</span></a></li></ul>
-			<ul id="secondary-nav">
-	
-		<li><a href="/"><span>Front Page</span></a></li>
-		
-			
-				
-				<li><a href="/nfl"><span>NFL</span></a></li>
-				
-			
-		
-			
-				
-				<li><a href="/nba"><span>NBA</span></a></li>
-				
-			
-		
-			
-				
-				<li><a href="/nhl"><span>NHL</span></a></li>
-				
-			
-		
-			
-				
-				<li><a href="/college-football"><span>NCAA-FB</span></a></li>
-				
-			
-		
-			
-				
-				<li><a href="/college-basketball"><span>NCAA-BB</span></a></li>
-				
-			
-		
-			
-				
-				<li><a href="/mlb"><span>MLB</span></a></li>
-				
-			
-		
-			
-				
-				<li><a href="/mma"><span>MMA</span></a></li>
-				
-			
-		
-			
-				
-				<li><a href="/formula-1"><span>F1</span></a></li>
-				
-			
-		
-			
-				
-				<li><a href="/nascar"><span>NASCAR</span></a></li>
-				
-			
-		
-			
-				
-				<li><a href="/world-football"><span>FIFA</span></a></li>
-				
-			
-		
-			
-				
-				<li><a href="/tennis"><span>Tennis</span></a></li>
-				
-			
-		
-			
-				
-				<li><a href="/pro-wrestling"><span>Wrestling</span></a></li>
-				
-			
-		
-			
-				
-				<li><a href="/fantasy"><span>Fantasy</span></a></li>
-				
-			
-		
-			
-				
-				<li><a href="/bleacher-report"><span>BR Chatter</span></a></li>
-				
-			
-		
-	
-</ul>
+  		<ul id="nav">
+	  	  	  	  	    
+	    	    <li id="nav-primary-1"><a href="/">Home</a></li>
+	    			
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-16"><a href="/nfl">NFL</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-19"><a href="/nba">NBA</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-17"><a href="/nhl">NHL</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-23"><a href="/college-football">NCAA-FB</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-22"><a href="/college-basketball">NCAA-BB</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-18"><a href="/mlb">MLB</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-24"><a href="/mma">MMA</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-27"><a href="/nascar">NASCAR</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-20"><a href="/world-football">FIFA</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-12" style="display:none"><a href="/tennis">Tennis</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-2181" style="display:none"><a href="/pro-wrestling">Wrestling</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-8751" style="display:none"><a href="/funniest-moments-in-sports">Funniest Moments</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-2444" style="display:none"><a href="/formula-1">Formula 1</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-7020" style="display:none"><a href="/fantasy">Fantasy</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-6794" style="display:none"><a href="/bleacher-report">BR Chatter</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-2" style="display:none"><a href="/humor">Humor</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-2304" style="display:none"><a href="/sports-society">Sports &amp; Society</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-7853" style="display:none"><a href="/multiple-sports">Multiple Sports</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-4113" style="display:none"><a href="/cricket">Cricket</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-2318" style="display:none"><a href="/boxing">Boxing</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-11" style="display:none"><a href="/golf">Golf</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-5640" style="display:none"><a href="/rugby">Rugby</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-4139" style="display:none"><a href="/cfl">CFL</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-13" style="display:none"><a href="/auto-racing">Motorsports</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-56" style="display:none"><a href="/epl">Premier League</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-58" style="display:none"><a href="/la-liga">La Liga</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-4115" style="display:none"><a href="/bundesliga">Bundesliga</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-59" style="display:none"><a href="/serie-a">Serie A</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-61" style="display:none"><a href="/mls">MLS</a></li>
+    		
+						
+	  	  	  	    
+	    	      
+    			<li id="nav-primary-8470" style="display:none"><a href="/the-foxes-in-the-henhouse">The Foxes in the Henhouse</a></li>
+    		
+						
+	  		</ul>
 		</div>
-		
-	  
-      <div style="clear:both">
-      	
-      </div>
-	  
+
+
+		<div id="sitewrapper" class="pages show">
+
+			<div class="flash-messages">
+				
+			</div>
 
 			<div id="main" class="page">
 	<h1 id="section-header">Privacy Policy</h1>
@@ -347,95 +511,58 @@
 	</div-->
 </div>
 
-      
-
-		
-	
-			<div id="footer">
-				<div id="footer-inner">
-					<div class="column" id="more-sections">
-	<h4>The Rest</h4>
-	<ul>
-		
-		<li><a href="/humor">Humor</a></li>
-		
-		<li><a href="/beyond-the-bleachers">Interviews </a></li>
-		
-		<li><a href="/sports-society">Sports &amp; Society</a></li>
-		
-		<li><a href="/golf">Golf</a></li>
-		
-		<li><a href="/rugby">Rugby</a></li>
-		
-		<li><a href="/cricket">Cricket</a></li>
-		
-		<li><a href="/boxing">Boxing</a></li>
-		
-	</ul>
-</div>
-					<div class="column" id="top-teams">
-	<h4>Popular Teams</h4>
-	<ul>
-		
-			<li><a href="/New-York-Yankees">New York Yankees</a></li>
-		
-			<li><a href="/Boston-Red-Sox">Boston Red Sox</a></li>
-		
-			<li><a href="/Manchester-United">Manchester United</a></li>
-		
-			<li><a href="/New-York-Mets">New York Mets</a></li>
-		
-			<li><a href="/New-England-Patriots">New England Patriots</a></li>
-		
-			<li><a href="/Chicago-Cubs">Chicago Cubs</a></li>
-		
-	</ul>
-</div>
-
-					<div class="column" id="useful-links">
-						<h4>Useful Links</h4>
-						<ul>
-							<li><a href="/top-writers">Top Writers</a></li>
-							<li><a href="/activities">Play-by-Play</a></li>
-                            <li id="nav_learn-more"><a href="/learn_more">Learn More</a></li>
-							<li><a href="/sitemap">Sitemap</a></li>
-						</ul>
-					</div>
-
-					<div class="column" id="sitemap">
-						<h4>Sitemap</h4>
-						<ul>
-							<li><a href="/">Front Page</a></li>
-							<li><a href="/about">About Bleacher Report</a></li>
-							<li><a href="http://blog.bleacherreport.com">Bleacher Report Blog</a></li>
-							<li><a href="/pages/press-room">Press Room</a></li>
-							<li><a href="http://bleacherreport.com/articles/feed">Subscribe</a></li>
-							<li><a href="/pages/contact">Contact Us</a></li>
-							<li><a href="/faq">FAQ</a></li>
-						</ul>
-					</div>
-
-					<div class="column" id="byline">
-						<h4>Bleacher Report. The Open Source Sports Network</h4>
-						<p>Copyright 2008 Bleacher Report, Inc. All Rights Reserved.</p>
-						<ul>
-							<li><a href="/pages/terms">Terms of Use</a></li>
-							<li><a href="/pages/privacy">Privacy Policy</a></li>
-							<li><a href="/pages/advertise">Advertise</a></li>
-							<li><a href="/pages/comguidelines">Community Guidelines</a></li>
-						</ul>
-					</div>
-				</div>
-				
-			</div>
 			
-			<div id="partners">
-				<span><img src="/images/official_partner_cbs.gif"></span>
-			</div>
-			
-		
-			
+
+
 		</div>
+
+	<hr class="clearfix">
+				
+	<div id="footer">
+		<ul>
+			<li><h4>B/R Links</h4></li>
+			<li class="special"><a href="#" onclick="if(GSFN){GSFN.show();}return false;">Contact Us</a></li>
+			<li><a href="/pages/terms">Terms of Use</a></li>
+			<li><a href="/pages/privacy">Privacy Policy</a></li>
+			<li><a href="/pages/advertise">Advertise</a></li>
+			<li><a href="/pages/comguidelines">Community Guidelines</a></li>
+		</ul>
+		<ul>
+			<li><h4>Popular Tags</h4></li>
+			<li><a href="http://bleacherreport.com/nfl">NFL</a></li>
+			<li><a href="http://bleacherreport.com/nba">NBA</a></li>
+			<li><a href="http://bleacherreport.com/new-york-yankees">New York Yankees</a></li>
+			<li><a rhef="http://bleacherreport.com/chicago-cubs">Chicago Cubs</a></li>
+			<li><a href="http://bleacherreport.com/dallas-cowboys">Dallas Cowboys</a></li>
+		</ul>
+		<ul>
+			<li><h4>Useful Links</h4></li>
+			<li><a href="/activities">Play-by-Play</a></li>
+			<li id="nav_learn-more"><a href="/learn_more">Learn More</a></li>
+			<li><a href="/sitemap/index.html">Sitemap</a></li>
+			<li><a href="/sitemap/user/registry.html">Writer Directory</a></li>
+		</ul>	
+		<ul>
+			<li><h4>Sitemap</h4></li>
+			<li><a href="/">Front Page</a></li>
+			<li><a href="/about">About Bleacher Report</a></li>
+			<li><a href="http://blog.bleacherreport.com">Bleacher Report Blog</a></li>
+			<li><a href="/pages/press-room">Press Room</a></li>
+			<li><a href="http://bleacherreport.com/articles/feed">Subscribe</a></li>
+			<li><a href="/faq">FAQ</a></li>
+		</ul>
+		<ul>
+			<li class="fox-sports"><a href="http://www.foxsports.com">Official Partner of Fox Sports</a></li>
+			<li class="footer-logo">Bleacher Report. The Open Source Sports Network</li>
+			<li class="copyright">Copyright © 2009 Bleacher Report, Inc. All Rights Reserved.</li>
+		</ul>
+	</div>
+	
+	<hr class="clearfix">
+	<div id="partners">
+		<span><a href="http://www.cbssports.com"><img src="/images/official_partner_cbs.gif"></a></span>
+	</div>
+	
 	
 	    <script type="text/javascript">
 	    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -447,11 +574,36 @@
 	    pageTracker._trackPageview();
 	    </script>
 	
-	
-	<script type="text/javascript" src="http://static.fmpub.net/site/bleacherreport"></script>
+	                            
+  
+  <script type="text/javascript">
+  _qoptions={
+  qacct:"p-3a-0o8sJKz6Ek"
+  };
+  </script>
+  <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+  <noscript>
+  <img src="http://pixel.quantserve.com/pixel/p-3a-0o8sJKz6Ek.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+  </noscript>
+  	
 
-	
+	<script src="http://s3.amazonaws.com/getsatisfaction.com/feedback/feedback.js" type="text/javascript"></script>
+	<script type="text/javascript"><!--
+	  var tab_options = {}
+	  tab_options.placement = "hidden";  // left, right, bottom, hidden
+	  tab_options.color = "#222"; // hex (#FF0000) or color (red)
+	  GSFN.feedback('http://getsatisfaction.com/bleacherreport/feedback/topics/new?display=overlay&style=question', tab_options);
+	// --></script>
 
-	<script src="http://assets3.bleacherreport.com/javascripts/responders_1229390183.js?1229390205" type="text/javascript"></script>	
+
+	<script src="http://assets3.bleacherreport.com/javascripts/responders_1233962677.js?1233962708" type="text/javascript"></script>	
+	<!-- ClickTale Bottom part -->
+	<div id="ClickTaleDiv" style="display: none;"></div>
+	<script src="http://s.clicktale.net/WRb.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	if(typeof ClickTale=='function') ClickTale(27043,0.003);
+	</script>
+	<!-- ClickTale end of Bottom part -->
+	
 
 </body></html>
