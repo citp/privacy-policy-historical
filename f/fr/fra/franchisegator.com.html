@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the franchisegator.com privacy policy that was archived on 2008-10-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081013192033id_/http%3A//www.franchisegator.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the franchisegator.com privacy policy that was archived on 2009-02-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090207114736id_/http%3A//www.franchisegator.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Franchise and Business Opportunities for Entrepreneurs | Privacy Policy</title>
@@ -9,8 +9,8 @@
     <!-- Web Trends Meta Tags -->
     <meta name="WT.cg_n" content="other">
     <meta name="WT.ti" content="other">
-    <meta name="WT.mc_id" content="OKC-direct">
-    <meta name="WT.srch" content="0">
+    <meta name="WT.mc_id" content="KNC-ctysrch">
+    <meta name="WT.srch" content="1">
     <meta name="DCS.dcsuri" content="/privacy.html">
     <!-- End Web Trends Meta Tags -->
 
@@ -59,9 +59,11 @@
 			<option value="7">Personnel &amp; Staffing</option>
 			<option value="20">Pet</option>
 			<option value="12">Retail</option>
+			<option value="28">SBA Registry</option>
 			<option value="26">Small Business</option>
 			<option value="14">Sports &amp; Recreation</option>
 			<option value="15">Travel, Cruise &amp; Hotel</option>
+			<option value="29">Veteran's</option>
 			<option value="27">Women's</option>
 		</select>
  	</td>
@@ -113,9 +115,11 @@
 	<a title="" href="http://www.franchisegator.com/Personnel-Staffing-Franchises/" class="mainleftnavlinks">Personnel &amp; Staffing Franchises</a><br>
 	<a title="" href="http://www.franchisegator.com/Pet-Franchises/" class="mainleftnavlinks">Pet Franchises</a><br>
 	<a title="" href="http://www.franchisegator.com/Retail-Franchises/" class="mainleftnavlinks">Retail Franchises</a><br>
+	<a title="" href="http://www.franchisegator.com/SBA-Registry-Franchises/" class="mainleftnavlinks">SBA Registry Franchises</a><br>
 	<a title="" href="http://www.franchisegator.com/Small-Business-Franchises/" class="mainleftnavlinks">Small Business Franchises</a><br>
 	<a title="" href="http://www.franchisegator.com/Sports-Recreation-Franchises/" class="mainleftnavlinks">Sports &amp; Recreation Franchises</a><br>
 	<a title="" href="http://www.franchisegator.com/Travel-Cruise-Hotel-Franchises/" class="mainleftnavlinks">Travel, Cruise &amp; Hotel Franchises</a><br>
+	<a title="" href="http://www.franchisegator.com/Veterans--Franchises/" class="mainleftnavlinks">Veteran's Franchises</a><br>
 	<a title="" href="http://www.franchisegator.com/Womens--Franchises/" class="mainleftnavlinks">Women's Franchises</a><br>
   <a title="" href="http://www.franchisegator.com/Canadian-Franchises/" class="mainleftnavlinks">Canadian Opportunities</a><br>
   <a class="morelinks" href="http://www.franchisegator.com/International.php" title="International Franchises and Business Opportunities">International Opportunities</a><br>
@@ -124,6 +128,7 @@
   <span class="secondleftnavlinksheader">Other Franchise Links</span><br>
   <a title="" href="http://www.franchisegator.com/directory/">A-Z Franchise List</a><br>
   <a title="" href="http://www.franchisegator.com/newsletter/">Franchise Newsletter Sign Up</a><br>
+
   <div id="confirm_midhorizline"></div>
   <span class="secondleftnavlinksheader">Franchise Services</span><br>
   <a title="" href="http://www.franchisegator.com/Franchise-Consulting-to-Buy-a-Business-Franchises/">Franchise Consultant To Buy A Business</a><br>
@@ -154,10 +159,34 @@
 <a title="Home" class="minorlinks" href="http://www.franchisegator.com">Home</a> <font class="minor">|</font>
 <a title="A-Z Franchise List" class="minorlinks" href="http://www.franchisegator.com/directory/">A-Z Franchise List</a> <font class="minor">|</font> 
 <a title="Franchise Opportunities by Industry" class="minorlinks" href="http://www.franchisegator.com/industry_specific_search.html">Franchise Opportunities by Industry</a> <span class="minor">|</span> 
-<a title="Franchise Opportunities by State" class="minorlinks" href="http://www.franchisegator.com/state-specific-franchises.php">Search by State</a> <span class="minor">|</span> 
-<span class="minor">Visit Our <a title="Visit our UK site" class="minorlinks" href="http://www.franchisegator.co.uk/" cat="" target="_blank">UK Franchise</a> Site </span>
-<a title="Franchise Gator UK" class="minorlinks" href="http://www.franchisegator.co.uk/" target="_blank"><img src="https://www.franchisegator.com/images/misc/ukFlag.gif" alt="Franchise Gator UK" style="padding-left:5px;display:inline;border:none;vertical-align:text-bottom"></a>
-						</div>
+<a title="Franchise Opportunities by State" class="minorlinks" href="http://www.franchisegator.com/state-specific-franchises.php">Search by State</a>
+
+	<a href="javascript:toggleFranchiseList();"><img src="/images/siteStructure/cart_plusBtn.png" alt="" id="cartToggleBtn" style="padding-left:10px;display:inline;border:none;vertical-align:text-bottom"></a> <span class="minor">Request List: <a href="javascript:toggleFranchiseList();" class="minorlinks" id="cartText">You have 0 items.</a></span>
+
+<script type="text/javascript" src="/Selector/js/dojo/dojo.js"></script>
+<script type="text/javascript" src="/Selector/js/json.js"></script>
+<script type="text/javascript" src="/includes/scripts/globallibrary.js"></script>
+<script type="text/javascript" src="/includes/scripts/shoppingcart.js"></script>
+<script type="text/javascript">
+	var franchiseListResults = null;		// contains the current search results
+	var franchiseListTotalCount = 0;
+	var franchiseListOpen = 0;
+	var sponsorSelectionLimit = 10;
+</script>
+<form action="https://www.franchisegator.com/cgi-bin/profile_multi.php" method="post" style="width:0px;float:right;">
+	<div id="franchiseListContainer" style="position: fixed; top: 60px; display: none;">
+    <div class="header"><h2>Franchise Request List</h2><a href="javascript:toggleFranchiseList()"><img src="/images/siteStructure/cart_closeBtn.png"></a></div>
+    <div id="franchiseList">
+    <div style="padding:10px;">Franchise List is empty</div>
+    </div>
+</div>
+<script type="text/javascript">
+    window.onscroll = movepanel;
+    movepanel();
+	if(franchiseListOpen){document.getElementById("franchiseListContainer").style.display = "block"; } 
+	else {document.getElementById("franchiseListContainer").style.display = "none"; }
+</script>
+</form>						</div>
               <div style="margin-top:20px; margin-bottom:40px;"><span class="tagline1">Franchise and Business Opportunities</span> <span class="tagline2">for Entrepreneurs</span></div>
             </div>
             <div style="position:relative;">
@@ -272,29 +301,32 @@ Franchise Gator Privacy
 <table cellpadding="0" cellspacing="0" width="100%"><tbody><tr>
 <td>
 <div>
-<a class="minorlinks" href="http://www.franchisegator.com/contact.html" target="_blank">Advertiser Info</a> <font class="minor">|</font> <a class="minorlinks" href="http://www.franchisegator.com/privacy.html" target="_blank">Privacy Statement</a> <font class="minor">|</font> <a class="minorlinks" href="http://www.franchisegator.com/disclaimer.html" target="_blank">Terms of Use</a> <font class="minor">|</font> <a class="minorlinks" href="http://www.franchisegator.com/sitemap.html">Sitemap</a> <font class="minor">|</font> <a class="minorlinks" href="http://www.franchisegator.com/contact.html">Contact Us</a>
+<a class="minorlinks" href="http://www.franchisegator.com/contact.html" target="_blank" rel="nofollow">Advertiser Info</a> <font class="minor">|</font> <a class="minorlinks" href="http://www.franchisegator.com/privacy.html" target="_blank" rel="nofollow">Privacy Statement</a> <font class="minor">|</font> <a class="minorlinks" href="http://www.franchisegator.com/disclaimer.html" target="_blank" rel="nofollow">Terms of Use</a> <font class="minor">|</font> <a class="minorlinks" href="http://www.franchisegator.com/sitemap.html">Sitemap</a> <font class="minor">|</font> <a class="minorlinks" href="http://www.franchisegator.com/contact.html">Contact Us</a>
 </div>
 </td>
 <td>
-<div align="right"><font class="minor">Copyright © 2001 - 2008 <a href="http://www.franchisegator.com/" title="Franchise">Franchise</a><a href="/"></a> Gator. All Rights Reserved.</font></div>
+<div align="right"><font class="minor">Copyright © 2001 - 2009 <a href="http://www.franchisegator.com/" title="Franchise">Franchise</a><a href="/"></a> Gator. All Rights Reserved.</font></div>
 </td>
 </tr></tbody></table>
 </div>
-	<script type="text/javascript" src="https://www.franchisegator.com/includes/scripts/exitpop.js"></script><!--WEBTRENDS-->
-<script type="text/javascript">
-var gDomain="m.webtrends.com";
-var gDcsId="dcsnf9e3s10000ggbcbwpdrrj_8k2s";
-var gTrackEvents=0;
-var gFpc="WT_FPC";
-if(document.cookie.indexOf(gFpc+"=")==-1)
-{document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");}
-</script><script type="text/javascript" src="https://m.webtrends.com/dcsnf9e3s10000ggbcbwpdrrj_8k2s/wtid.js"></script>
-<script language="javascript" type="text/javascript" src="https://www.franchisegator.com/includes/scripts/wt.js"></script>
-<noscript>
-<img border="0" name="DCSIMG" width="1" height="1"
-src="https://m.webtrends.com/dcsnf9e3s10000ggbcbwpdrrj_8k2s/njs.gif?dcsuri=/nojavascript&WT.js=No"/>
-</noscript>
-<!--//WEBTRENDS-->
+	<script type="text/javascript" src="https://www.franchisegator.com/includes/scripts/exitpop.js"></script>	<!--WEBTRENDS-->
+	<script type="text/javascript">
+	var gDomain="m.webtrends.com";
+	var gDcsId="dcsnf9e3s10000ggbcbwpdrrj_8k2s";
+	var gTrackEvents=0;
+	var gFpc="WT_FPC";
+	if(document.cookie.indexOf(gFpc+"=")==-1)
+	{document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");}
+	</script><script type="text/javascript" src="https://m.webtrends.com/dcsnf9e3s10000ggbcbwpdrrj_8k2s/wtid.js"></script>
+	<script language="javascript" type="text/javascript" src="https://www.franchisegator.com/includes/scripts/wt.js"></script>
+	<noscript>
+	<img border="0" name="DCSIMG" width="1" height="1"
+	src="https://m.webtrends.com/dcsnf9e3s10000ggbcbwpdrrj_8k2s/njs.gif?dcsuri=/nojavascript&WT.js=No"/>
+	</noscript>
+	<!--//WEBTRENDS-->
+	
+
+
   </div>
 </div>
 
