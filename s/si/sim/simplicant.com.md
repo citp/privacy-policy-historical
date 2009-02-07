@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplicant.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219232736id_/http%3A//www.simplicant.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplicant.com privacy policy that was archived on 2009-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090208005915id_/http%3A//simplicant.com/privacy_policy) for the most accurate reproduction.*
 
 # Simplicant - Privacy Policy
 
