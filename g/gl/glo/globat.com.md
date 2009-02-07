@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globat.com privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911060441id_/http%3A//www.globat.com/getcontent.php%3Fid%3Dlegal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globat.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207202223id_/http%3A//www.globat.com/about_us/legal/legal_privacy.htm) for the most accurate reproduction.*
 
-# None
+# Web Hosting - Affordable Web Hosting Company - Globat :: PRIVACY POLICY
 
 This Privacy Policy discloses the privacy practices for the Globat.com site and various related services (together referred to as the 'site'). Globat.com, the provider of the site (referred to as 'us' or 'we'), is dedicated to protecting your privacy online. Please read the information below to learn the following regarding your use of this site:
 
