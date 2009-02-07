@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatamericanphotocontest.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219184122id_/http%3A//www.greatamericanphotocontest.com/photo-contest-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatamericanphotocontest.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207141129id_/http%3A//www.greatamericanphotocontest.com/photo-contest-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Great American Photo Contest Privacy Policy
 
