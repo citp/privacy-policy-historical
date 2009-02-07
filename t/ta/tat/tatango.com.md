@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tatango.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219174201id_/http%3A//www.tatango.com/tatango/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatango.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207063555id_/http%3A//www.tatango.com/tatango/privacy) for the most accurate reproduction.*
 
-# Tatango - connecting groups through group text messaging | Privacy
+# Tatango | Privacy
 
 **PLEASE READ THIS AGREEMENT CAREFULLY**
 
