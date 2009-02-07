@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpsugar.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224032037id_/http%3A//www.phpsugar.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpsugar.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207085711id_/http%3A//www.phpsugar.com/privacy.html) for the most accurate reproduction.*
 
 # phpSugar - Privacy Policy
 
@@ -10,7 +10,7 @@ The information we have about our newsletter subscribers or customers is **NEVER
 
 Please note that we might use cookies on phpsugar.com to make your experience more pleasant. Cookies are used to store certain login details in order to speed up future logins. You can choose to turn off cookies by adjusting your browser's settings accordingly. 
 
-For any questions please [contact us via email](https://web.archive.org/web/20081224032037id_/http%3A//www.phpsugar.com/customer_care.html).
+For any questions please [contact us via email](https://web.archive.org/web/20090207085711id_/http%3A//www.phpsugar.com/customer_care.html).
 
 _Thank you!_
 
