@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woopidoo.com privacy policy that was archived on 2008-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080930062941id_/http%3A//www.woopidoo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woopidoo.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207135822id_/http%3A//www.woopidoo.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for Woopidoo.com
 
