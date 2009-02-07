@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynimo.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218002457id_/http%3A//mynimo.com/pages/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynimo.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207014113id_/http%3A//mynimo.com/pages/privacyPolicy) for the most accurate reproduction.*
 
 # PrivacyPolicy : Mynimo
 
