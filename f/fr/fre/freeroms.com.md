@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeroms.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216005945id_/http%3A//www.freeroms.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeroms.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207203009id_/http%3A//www.freeroms.com/privacy.htm) for the most accurate reproduction.*
 
 # freeroms.com privacy statement
 
