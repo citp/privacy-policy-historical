@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the platial.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221115653id_/http%3A//platial.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platial.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207180318id_/http%3A//www.platial.com/privacy) for the most accurate reproduction.*
 
 # Platial.com
 
