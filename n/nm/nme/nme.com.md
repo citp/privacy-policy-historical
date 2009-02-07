@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nme.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626011420id_/http%3A//www.nme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nme.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207044753id_/http%3A//www.nme.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NME.com
 
