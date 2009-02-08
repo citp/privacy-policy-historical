@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingrebel.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218205123id_/http%3A//www.marketingrebel.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingrebel.com privacy policy that was archived on 2009-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090208170249id_/http%3A//www.marketingrebel.com/privacypolicy.html) for the most accurate reproduction.*
 
 # John Carlton - The Marketing Rebel - PrivacyPolicy
 
