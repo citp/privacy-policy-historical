@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brighthorizons.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219151525id_/http%3A//www.brighthorizons.com/home/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighthorizons.com privacy policy that was archived on 2009-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090208010126id_/http%3A//www.brighthorizons.com/home/privacy.aspx) for the most accurate reproduction.*
 
 # Bright Horizons | Privacy Policy
 
@@ -79,7 +79,7 @@ A "cookie" is a bit of information that a website sends to your web browser that
 
 "Navigational data" ("log files," "server logs," and "clickstream" data) are used for system management, to improve the content of the site, market research purposes, and to communicate information to visitors. This site uses navigational data. 
 
-Links to Other Sites: This site may contain links or references to other websites. Please be aware that we do not control other websites and that and this privacy policy does not apply to those websites. We encourage you to read the privacy policy of every website you visit. Other Terms: Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20081219151525id_/http%3A//www.brighthorizons.com/home/legal.aspx). Updated March 11, 2008 
+Links to Other Sites: This site may contain links or references to other websites. Please be aware that we do not control other websites and that and this privacy policy does not apply to those websites. We encourage you to read the privacy policy of every website you visit. Other Terms: Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20090208010126id_/http%3A//www.brighthorizons.com/home/legal.aspx). Updated March 11, 2008 
 
 |    
 ---|---
