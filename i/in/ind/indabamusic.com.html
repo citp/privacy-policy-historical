@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the indabamusic.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216040431id_/http%3A//www.indabamusic.com/corporate/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the indabamusic.com privacy policy that was archived on 2009-02-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090208111901id_/http%3A//www.indabamusic.com/corporate/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Privacy Policy - Indaba Music</title>
@@ -9,25 +9,98 @@
     <meta name="robots" content="noydir"> 
     <meta name="verify-v1" content="0YAlhqkfiLmDCAXw4azALRusn3HfBl4K0V3o0xZX9a4=">
 
-    <link rel="icon" href="http://astor.indabamusic.com/icons/logo.png?1207763822" type="image/x-icon">
+    <link rel="icon" href="http://astor.indabamusic.com/icons/logo.png?1215032043" type="image/x-icon">
     
-            <link href="http://astor.indabamusic.com/stylesheets/reset.css?1229381045" media="all" rel="stylesheet" type="text/css">
-        <link href="http://astor.indabamusic.com/stylesheets/print.css?1229381045" media="print" rel="stylesheet" type="text/css">
+            <link href="http://astor.indabamusic.com/stylesheets/reset.css?1233963151" media="all" rel="stylesheet" type="text/css">
+        <link href="http://astor.indabamusic.com/stylesheets/print.css?1233963151" media="print" rel="stylesheet" type="text/css">
         
-        <link href="http://astor.indabamusic.com/stylesheets/global.css?1229381045" media="screen" rel="stylesheet" type="text/css">
-        <link href="http://astor.indabamusic.com/stylesheets/_uplayer.css?1229381045" media="screen" rel="stylesheet" type="text/css">
-        <link href="http://astor.indabamusic.com/stylesheets/structure.css?1229381045" media="screen" rel="stylesheet" type="text/css">
+        <link href="http://astor.indabamusic.com/stylesheets/global.css?1233963151" media="screen" rel="stylesheet" type="text/css">
+        <link href="http://astor.indabamusic.com/stylesheets/playbuttons.css?1233963151" media="screen" rel="stylesheet" type="text/css">
+        <link href="http://astor.indabamusic.com/stylesheets/_uplayer.css?1233963151" media="screen" rel="stylesheet" type="text/css">
+        <link href="http://astor.indabamusic.com/stylesheets/structure.css?1233963151" media="screen" rel="stylesheet" type="text/css">
         
         
 
-    <link href="http://astor.indabamusic.com/stylesheets/_static_pages.css?1229381045" media="screen" rel="stylesheet" type="text/css">
+    <link href="http://astor.indabamusic.com/stylesheets/_static_pages.css?1233963151" media="screen" rel="stylesheet" type="text/css">
 
 
         
     
-    <script src="http://astor.indabamusic.com/javascripts/base_8091.js?1229381062" type="text/javascript"></script>
+    <script src="http://astor.indabamusic.com/javascripts/base_8647.js?1233963174" type="text/javascript"></script>
     
+    
+    <script type="text/javascript">
+function IndabaStream() {
+    
+    // setup abservings hash
+    this.observings = {};
+    
+    // setup observation methods
+    this.observe = function(event, fn) {
+        if (typeof(this.observings[event]) == "undefined") {
+            this.observings[event] = [];
+        }
+        this.observings[event].push(fn);
+        return;
+    };
+    
+    this.stopObserving = function(event, fn) {
+        this.observings[event] = this.observings[event].without(fn);
+        return;
+    };
+    
+    // global accessor method
+    this.fire = function(event, data) {
+        if (typeof(this.observings[event]) != "undefined") {
+            this.observings[event].each(function(fn){ 
+                try {
+                    fn(data);
+                } catch(e) {
+                    // this should not be output
+                    //console.warn( e );
+                }
+            });
+        }
+        return;
+    };
+    
+}
+
+Stream = new IndabaStream();
+</script>
+    <script type="text/javascript">
+        var User = {};
+        
+                
+        User.browser      = {};
+        User.browser.name = navigator.appCodeName;
+        
+        if( (result = navigator.appVersion.match(/MSIE (.*?);/)) ){
+            User.browser.ie         = true;
+            User.browser.mozilla    = false;
+            User.browser.firefox    = false;
+            User.browser.version    = result[1];
+        } else if( (result = navigator.userAgent.match(/Firefox\/(.*?)$/)) ){
+            User.browser.ie         = false;
+            User.browser.mozilla    = true;
+            User.browser.firefox    = true;
+            User.browser.name       += ' Firefox';
+            User.browser.version    = result[1];
+        }
+</script>
+
+	
     <script type="text/javascript" language="javascript">
+    
+        function testCookies() {
+            document.cookie = "cookie_test=test;";
+                var results = document.cookie.match ( '(^|;) ?cookie_test=([^;]*)(;|$)' );
+            if (!results) // No cookies were set - The browser doesn't allow cookies.
+                $('cookies_disabled').show();
+            else // Delete the cookie - It's no longer needed.
+                document.cookie = "cookie_test=; expires=01/01/2001 00:00:00;";
+        }
+
         if( typeof(ApplicationDepth) != 'undefined' ){
             App = new ApplicationDepth();
         }
@@ -50,14 +123,13 @@
                 }
             }
         };
+        
     </script>
-    
     
     
 </head>
 
 <body>
-
     	<script type="text/javascript">
 	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -72,17 +144,17 @@
 
     
     <!-- UNVIERSAL AUDIO PLAYER -->        
-    <!-- INVISBLE AUDIO PLAYER --> 
-<div id="site-wide-player"> 
-        <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="1" height="1" id="hidden" align="middle"> 
-        <param name="allowScriptAccess" value="always"> 
-        <param name="movie" value="http://astor.indabamusic.com/flash/invisible_player.swf?1228164604"> 
-        <param name="quality" value="high"> 
-        <param name="wmode" value="transparent"> 
-        <embed src="http://astor.indabamusic.com/flash/invisible_player.swf?1228164604" quality="high" width="1" height="1" name="hidden" align="middle" wmode="transparent" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" swliveconnect="true"> 
-        </object> 
+    <!-- INVISBLE AUDIO PLAYER -->
+<div id="site-wide-player">
+        <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="1" height="1" id="hidden" align="middle">
+        <param name="allowScriptAccess" value="always">
+        <param name="movie" value="http://astor.indabamusic.com/flash/invisible_player_v3.swf?1231275561">
+        <param name="quality" value="high">
+        <param name="wmode" value="transparent">
+        <embed src="http://astor.indabamusic.com/flash/invisible_player_v3.swf?1231275561" quality="high" width="1" height="1" name="hidden" align="middle" wmode="transparent" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" swliveconnect="true">
+        </object>
 </div>
-
+ 
 <!-- UNIVERSAL AUDIO PLAYER -->
 <div id="universal_player" style="display:none;">
 
@@ -138,42 +210,166 @@
     
 <div id="up_notifications"></div>
 
+<!-- UNIVERSAL PLAYER SONG COMMENTS -->
 
+<div id="uplayer_song_commenting" style="display:none;">
+    
+    <div id="new-song-comment" style="display:none;" onclick="this.style.zIndex=App.getNextHighestDepth()">
 
+        <div class="tools" style="display:none;">
+            <a onclick="uplayer.SONG_COMMENTS.cancelCommentForm()" href="javascript:void(0);" class="close">x</a>
+        </div>
 
+        <div id="new-song-comment-arrow"></div>
+            
+        <div id="new-song-comment-form">
+        <form action="#" method="post" onsubmit="uplayer.SONG_COMMENTS.submitComment(); return false;">
+            
+            <p>Your Comment:</p>
+            <textarea cols="60" id="comment_body" name="comment[body]" rows="5"></textarea>
+            
+            <input id="comment_time" name="comment[time]" size="30" type="hidden">
+            
+            <div class="submit">
+                <input name="commit" type="submit" value="Post Comment">
+                <a href="javascript:void(0);" onclick="uplayer.SONG_COMMENTS.cancelCommentForm()">cancel</a>
+            </div>
+            
+        </form>
+        </div>
+        
+        <div id="new-song-comment-error" style="display:none">
+            <div class="message"></div>
+            <a href="javascript:void(0);" onclick="uplayer.SONG_COMMENTS.cancelCommentForm()" class="close">close [x]</a>
+        </div>
+    </div>
+    
+    <div id="waveform-mouse-pos" style="display:none;"></div>
+    <div id="waveform-play-pos"></div>
+    
+    <div id="waveform-click"></div>
+    
+    <div id="waveform-image"></div>
+    <div id="spectrogram-image"></div>
+    
+    <div id="waveform-message"></div>
+    
+    <div id="waveform-progress"></div>
+    <div id="waveform-bg"></div>
+    <div id="waveform-pos"></div>
+    
+    <div id="waveform-notifications" style="z-index:2010;"></div>
+    <div id="waveform-pop-comments" style="z-index:2009;"></div>
+    <div id="waveform-carat" style="z-index:2001; display:none;"></div>
+    <div id="waveform-carat-2" style="z-index:2001; display:none;"></div>
+    <div id="waveform-comments" style="z-index:2000;"></div>
+    
+    <div id="comment-bar">
+        <div id="comment-bar-images" style="z-index:2002;"></div>
+        <div id="comment-bar-bg" style="z-index:2001;"></div>
+        <div id="comment-bar-text" style="display:none; z-index:2000;">Click on this Bar to Add a Comment</div>
+    </div>
+    
+</div>
+
+<div id="waveform-options" style="display:none;">
+    <a href="javascript:void(0);" onclick="uplayer.SONG_COMMENTS.toggleWaveform()" id="waveform-option-a" class=""><span></span>View&nbsp;Waveform</a>
+    <a href="javascript:void(0);" onclick="uplayer.SONG_COMMENTS.toggleSpectrogram()" id="waveform-option-b" class=""><span></span>View&nbsp;Spectrogram</a>
+    <hr>
+    <a href="javascript:void(0);" onclick="uplayer.SONG_COMMENTS.toggleCommentBar()" id="waveform-option-c" class=""><span></span>Show&nbsp;Comments</a>
+</div>
 
 <script type="text/javascript">
 
-/*-----------------------------------------------------------------------------------*/
+HiddenPlayer = {
+    loadSong: function(data) {
+        if (Prototype.Browser.IE) window.hidden.loadSong(data);
+        else window.document.hidden.loadSong(data);
+    },
 
-    if( typeof(RUZEE) != 'undefined' ){
-        var CommentBubbleBorder = RUZEE.ShadedBorder.create({ corner:8, shadow:16, border:1 });
-        var SmallCommentDisplay = RUZEE.ShadedBorder.create({ corner:8, shadow:24, border:1 });
-        var NotifyBubble = RUZEE.ShadedBorder.create({ corner:6, shadow:12, border:1 });
+    playSong: function(data) {
+        if (Prototype.Browser.IE) window.hidden.playSong(data);
+        else window.document.hidden.playSong(data);
+    },
+
+    stopSong: function(data) {
+        if (Prototype.Browser.IE) window.hidden.stopSong(data);
+        else window.document.hidden.stopSong(data);
+    },
+
+    pauseSong: function(data) {
+        if (Prototype.Browser.IE) window.hidden.pauseSong(data);
+        else window.document.hidden.pauseSong(data);
+    },
+
+    setVolume: function(data) {
+        if (Prototype.Browser.IE) window.hidden.setVolume(data);
+        else window.document.hidden.setVolume(data);
     }
+};
+    
+if( typeof(RUZEE) != 'undefined' ) {
+    var CommentBubbleBorder = RUZEE.ShadedBorder.create({ corner:8, shadow:0, border:1 });
+    var SmallCommentDisplay = RUZEE.ShadedBorder.create({ corner:8, shadow:0, border:1 });
+    var NotifyBubble = RUZEE.ShadedBorder.create({ corner:6, shadow:0, border:1 });
+}
+ 
+new Event.observe(window, "load", function(){
 
-/*-----------------------------------------------------------------------------------*/
+    Stream.observe("SongLoaded", HiddenPlayer.loadSong);
+    Stream.observe("SongPlayed", HiddenPlayer.playSong);
+    Stream.observe("SongStopped", HiddenPlayer.stopSong);
+    Stream.observe("SongPaused", HiddenPlayer.pauseSong);
+    Stream.observe("SongVolumeSet", HiddenPlayer.setVolume);
+
+    // this will send url_hash specific versions of global Song Events to all the necessary playbuttons
+    Stream.observe("SongLoaded", function(data){ Stream.fire("SongLoaded"+data.url_hash, data); });
+    Stream.observe("SongPlayed", function(data) { Stream.fire("SongPlayed"+data.url_hash, data); });
+    Stream.observe("SongStopped", function(data) { Stream.fire("SongStopped"+data.url_hash, data); });
+    Stream.observe("SongPaused", function(data){ Stream.fire("SongPaused"+data.url_hash, data); });
+    Stream.observe("SongProgress", function(data){ Stream.fire("SongProgress"+data.url_hash, data); });
+
+    uplayer = new UPlayer( 'production' );
     
-    FastInit.addOnLoad( uplayer = new UPlayer( 'production' ) );
-    FastInit.addOnLoad( uplayerStream = new IndabaStream() );
-    
-/*-----------------------------------------------------------------------------------*/
-    
-    uplayer.disableCommenting();
-    
+    if( uplayer.isIE6 ) {
+        uplayer.disableCommenting();
+    } else {
+        uplayer.enableCommenting();
+    }
     
     
-    uplayerStream.observe( 'uplayerPlay',   uplayer_play );
-    uplayerStream.observe( 'uplayerFinish', uplayer_finish );
-    uplayerStream.observe( 'uplayerStop',   uplayer_stop );
-    uplayerStream.observe( 'uplayerUpdate', uplayer_update );
-    
-/*-----------------------------------------------------------------------------------*/
-    
+
+    Stream.observe( 'SongLoaded', uplayer.loaded.bindAsEventListener(uplayer) );
+    Stream.observe( 'SongPlayed', uplayer.played.bindAsEventListener(uplayer) );
+    Stream.observe( 'SongPaused', uplayer.paused.bindAsEventListener(uplayer) );
+    Stream.observe( 'SongStopped', uplayer.stopped.bindAsEventListener(uplayer) );
+    Stream.observe( 'SongFinished', uplayer.finished.bindAsEventListener(uplayer) );
+    Stream.observe( 'SongProgress', uplayer.update.bindAsEventListener(uplayer) );
+
+
+});
+
 </script>
-
+    
+    
+    <div id="disabled_items">
+        <div id="cookies_disabled" style="display:none">
+                <p>Cookies seem to be disabled in this browser. You may want to turn it back on to use our site. <a href="#" style="display:none">Get more information »</a></p>
+        </div>
+        <noscript>
+            <div id="javascript_disabled">
+                <p>JavaScript seems to be disabled in this browser. You may want to turn it back on to use our site. <a href="#" style="display:none">Get more information &raquo;</a></p>
+            </div>
+        </noscript>
+    </div>
+    
+    <script type="text/javascript">
+        testCookies();
+    </script>
+    
+    
     <a name="page_top"></a>
-
+    
     <!-- BEGIN CONTAINER -->
     <div id="container" class="corporate privacy">
 
@@ -183,7 +379,7 @@
             <div class="top">
         
                 <div id="logo">
-                    <a href="/"><div><img alt="Logo" onload="Global.FixPng( this );" src="http://astor.indabamusic.com/images2/global/logo.png?1207763801" style="visibility:hidden;"></div></a>
+                    <a href="/"><div><img alt="Logo" onload="Global.FixPng( this );" src="http://astor.indabamusic.com/images2/global/logo.png?1215032024" style="visibility:hidden;"></div></a>
                 </div>
 
                 <div id="status_area">
@@ -192,7 +388,7 @@
                         
                             <div id="logged_out_nav">
                                 <a href="/account/signup" class="header_link">Signup</a> |
-                                <a href="javascript:void(0);" class="header_link" onclick="showMiniLogin()">Login</a> |
+                                <a href="/login" class="header_link" onclick="showMiniLogin(); return false">Login</a> |
                                 <a href="/search" class="header_link">Search</a>
                             </div>
                             <div id="mini_login" style="display:none;">
@@ -293,11 +489,11 @@
                 </div>
 
                 <div id="quick_search" style="display:none; position:absolute; top:20px; right:0px; height:30px; text-align:right;">
-                    <div style="padding-right:65px;"><img alt="Search_carrot" src="http://astor.indabamusic.com/images/css/search_carrot.jpg?1229381045"></div>
-                    <div onclick="window.location='/search/sessions'" style="cursor:pointer; float:right; color:#fff; text-align:center; padding:3px; background:url(http://astor.indabamusic.com/images/css/header_search_right.gif?1229381045); height:18px; width:84px; %>)">
+                    <div style="padding-right:65px;"><img alt="Search_carrot" src="http://astor.indabamusic.com/images/css/search_carrot.jpg?1233963151"></div>
+                    <div onclick="window.location='/search/sessions'" style="cursor:pointer; float:right; color:#fff; text-align:center; padding:3px; background:url(http://astor.indabamusic.com/images/css/header_search_right.gif?1233963151); height:18px; width:84px; %>)">
                         sessions
                     </div>
-                    <div onclick="window.location='/search/people'" style="cursor:pointer; float:right; color:#fff; text-align:center; padding:3px; background:url(http://astor.indabamusic.com/images/css/header_search_left.gif?1229381045); height:18px; width:78px; %>)">
+                    <div onclick="window.location='/search/people'" style="cursor:pointer; float:right; color:#fff; text-align:center; padding:3px; background:url(http://astor.indabamusic.com/images/css/header_search_left.gif?1233963151); height:18px; width:78px; %>)">
                         people
                     </div>
                 </div>
@@ -351,6 +547,11 @@
 	<div class="menu_item">
 		<a href="/forums">Forums</a>
 	</div>
+	
+		<div class="menu_item">
+			<a href="/chats">Chat</a>
+		</div>
+	
 </div>
 
             </div>
@@ -528,18 +729,15 @@
             </div>
             
             <div class="right">
-                <p class="footer_link">©2008 Indaba Media, LLC.</p>
-                
-            </div>
+                <p class="footer_link">©2009 Indaba Media, LLC.</p>
+                            </div>
             
             <div class="clear"></div>
         </div>
     
     <!-- END CONTAINER-->
     </div>
-
-    <script src="http://astor.indabamusic.com/javascripts/tooltip.js?1229381045" type="text/javascript"></script>
-
+ 
     
     
 
