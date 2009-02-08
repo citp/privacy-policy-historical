@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huddle.net privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220175530id_/http%3A//www.huddle.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huddle.net privacy policy that was archived on 2009-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090208090811id_/http%3A//www.huddle.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ~ Huddle
 
