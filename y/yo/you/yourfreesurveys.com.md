@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourfreesurveys.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217015312id_/http%3A//www.yourfreesurveys.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourfreesurveys.com privacy policy that was archived on 2009-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090208235628id_/http%3A//www.yourfreesurveys.com/privacy.htm) for the most accurate reproduction.*
 
 # Your Free Survey
 
@@ -13,7 +13,7 @@ Yesfree.com LLC is the sole owner of the information collected on this site.We w
  
 
 ** Registration**   
-In order to use this website, a user must first complete the registration form.During registration a user is required to give their contact information (such as name and email address).This information is used to contact the user about the services on our site for which they have expressed interest.It is optional for the user to provide demographic information (such as income level and gender), and unique identifiers (such as social security number), but encouraged so we can provide a more personalized experience on our site.
+In order to use this website, a user must first complete the registration form.During registration a user is required to give their contact information (such as name and email address).This information is used to contact the user about the services on our site for which they have expressed interest.It is optional for the user to provide demographic information (such as income level and gender), and unique identifiers , but encouraged so we can provide a more personalized experience on our site.
 
   
 **Cookies**   
