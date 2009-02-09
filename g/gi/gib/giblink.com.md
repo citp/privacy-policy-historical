@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the giblink.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218180613id_/http%3A//www.giblink.com/index.php%3Fmodule%3Dstatic%26action%3Dshow_pages%26pag_id%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giblink.com privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209221147id_/http%3A//giblink.com/html/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policies
+# gibLink.com - Privacy Policies
 
 Protecting your privacy is very important to our website. We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent.
 
-This privacy policy describes how we collect and use your data. If you have any questions or comments regarding our privacy policy or its enforcement, please feel free to contact administrator  
-.  
+This privacy policy describes how we collect and use your data. If you have any questions or comments regarding our privacy policy or its enforcement, please feel free to contact administrator.
+
 gibLink is an online social networking community that connects people through their personal networks and allows them to meet others, find jobs, roommates, buy and sell goods, and perform other transactions. Members create their own profiles, and those profiles are then shown to other members of this site.
 
 gibLink collects information our users submit to us such as their name and e-mail address to allow us to identify users and notify them of changes or updates to our service. We also collect personal information submitted by our users in filling out their profile on the service such as gender, location, age, etc. We collect this personal information when our users: sign up as a member; make changes to their member profile information; and send e-mail messages. Members may choose to provide additional information beyond their basic profile for their other profile sections. Providing additional information beyond what is required at registration is entirely optional, but enables our users to better identify each other and more effectively connect and interact with their network.
