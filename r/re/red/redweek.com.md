@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redweek.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015855id_/http%3A//www.redweek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redweek.com privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209132159id_/http%3A//www.redweek.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
