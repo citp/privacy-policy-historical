@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doostang.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216005724id_/http%3A//www.doostang.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doostang.com privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209235132id_/http%3A//www.doostang.com/info/privacy_policy) for the most accurate reproduction.*
 
-# DOOSTANG
+# Doostang | Accelerate your career
 
 ## Privacy on Doostang
 
