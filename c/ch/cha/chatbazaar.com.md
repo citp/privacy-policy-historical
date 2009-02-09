@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatbazaar.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011516id_/http%3A//www.chatbazaar.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatbazaar.com privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209055904id_/http%3A//chatbazaar.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Free Chat rooms UK Chat - Privacy Policy : www.chatbazaar.com
 
