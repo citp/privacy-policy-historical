@@ -1,0 +1,9 @@
+> *The following text is extracted and transformed from the forwebdesigners.com privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209132107id_/http%3A//www.forwebdesigners.com/privacy.htm) for the most accurate reproduction.*
+
+# Privacy Policy - for|webdesigners.com
+
+for **|forwebdesigners.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: forwebdesigners.com. Occasionally, we use your IP address to help diagnose problems with our server, and to administer our website.
+
+Our site's newsletter subscription form(s), partner distribution partner program form, and bidding account form requires users to give us contact information (name, email address. etc.). We use customer contact information from the registration form to send the user information about our company. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Information about you is not shared with outside agencies. Your name and information is not resold or given away for any purpose at any time.
+
+This policy shall not be construed as preventing us from complying with any court order, court authorized discovery, or agency authorized discovery of your name or information. This policy does not provide you with any remedy or cause of action against us in the event that we provide your name or information to a third-party or agency in compliance with any legal obligation of the Company, which shall be determined at our sole discretion. This site contains links to other sites. for **|forwebdesigners.com** is not responsible for the privacy practices or the content of such websites. Users may opt-out of receiving future mailings; see the choice / opt-out section below.
