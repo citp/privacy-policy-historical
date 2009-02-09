@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the epam.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912183606id_/http%3A//www.epam.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epam.com privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209031534id_/http%3A//www.epam.com/privacy.htm) for the most accurate reproduction.*
 
 # EPAM Systems - Privacy Policy
 
 |   
 
 
-Print version [](https://web.archive.org/web/20080912183606id_/http%3A//www.epam.com/privacy-pv.htm)
+Print version [](https://web.archive.org/web/20090209031534id_/http%3A//www.epam.com/privacy-pv.htm)
 
 |  |  |  | 
 
@@ -51,11 +51,11 @@ Contact information
 If you have any questions about this Privacy Policy, the practices of this site, or your interaction with EPAM Systems by means of this site, please contact: 
 
 EPAM Systems, Inc.  
-Princeton Pike Corporate Center  
-989 Lenox Dr., Suite 305  
-Lawrenceville, NJ 08648  
-Phone: 609-844-0400  
-Fax: 609-844-0415  
+41 University Drive  
+Suite 202  
+Newtown, PA 18940  
+Phone: +1-267-759-9000  
+Fax: +1-267-759-8989  
 Please feel free to [provide your feedback online](http://www.epam.com/contactus-request-info.aspx).
 
 | 
