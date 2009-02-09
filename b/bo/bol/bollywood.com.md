@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywood.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216043249id_/http%3A//www.bollywood.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywood.com privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209235151id_/http%3A//www.bollywood.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Bollywood.com : Entertainment news, movie, music and fashion reviews
 
@@ -21,3 +21,5 @@ We also use third party advertisements on Bollywood.com to support our site. Som
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 AdSense Privacy Policy Provided by Bollywood.com
+
+Bookmark/Search this post with: 
