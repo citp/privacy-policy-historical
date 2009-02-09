@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the isohunt.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231132332id_/http%3A//isohunt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isohunt.com privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209053654id_/http%3A//isohunt.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | isoHunt - BT links
+# Privacy Policy | isoHunt - P2P search engine
 
 Privacy Policy
 
@@ -15,9 +15,6 @@ We use various third-party advertising companies to serve ads when you visit our
 In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser. This in itself will not divulge your personal information.
 
 | 
-
-Donations for last day: **$5.82**  
-Thanks! 
 
 [](https://web.archive.org/a/adclick.php?bannerid=88&zoneid=1&source=&dest=http%3A%2F%2Fwww.jinx.com%2Fisohunt)
 
