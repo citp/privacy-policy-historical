@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominatingcb2.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216051636id_/http%3A//www.dominatingcb2.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominatingcb2.com privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209142020id_/http%3A//dominatingcb2.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
