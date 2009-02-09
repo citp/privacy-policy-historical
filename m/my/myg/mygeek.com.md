@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygeek.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218134523id_/http%3A//corporate.adonnetwork.com/public/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygeek.com privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209052423id_/http%3A//corporate.adonnetwork.com/public/privacy_policy.jsp) for the most accurate reproduction.*
 
 # AdOn Network - About AdOn Network: Privacy Policy
 
@@ -75,12 +75,12 @@ address to:
   * Opt-out of receiving promotional offers and updates about the site. Service related emails sent by AdOn Network to notify the user cannot be opted-out of unless the user cancels membership or use of the service. 
   * Notify us of updates to any of your personal account information. 
 
-U.S. Mail: AdOn Network  
+AdOn Network  
 Attn: Customer Service  
-4130 E Van Buren St.  
-Suite 250  
-Phoenix, AZ 85008
+1275 W Washington  
+Suite 205  
+Tempe, AZ 85281
 
-Phone: 602.265.5242
+Phone: 602.797.8400 
 
 |   |  |  
