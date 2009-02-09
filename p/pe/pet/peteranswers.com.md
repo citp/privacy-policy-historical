@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peteranswers.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063032id_/http%3A//www.peteranswers.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peteranswers.com privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209224101id_/http%3A//www.peteranswers.com/Privacy.htm) for the most accurate reproduction.*
 
 # Peter Answers - Privacy Policy
 
@@ -8,7 +8,13 @@ Information we collect and how we use it:
 
 In order to improve our Web site content, we may collect the following types of information:
 
+\- Information used by advertising companies:
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
+
 \- Cookies:
+
+We use cookies to store visitors preferences, record past activity at a site in order to provide better service when visitors return to our site.
 
 Third parties may be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served on www.peteranswers.com.
 
