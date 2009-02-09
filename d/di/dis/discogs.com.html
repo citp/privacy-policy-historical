@@ -1,23 +1,29 @@
-<!--The following is the downloaded HTML source of the discogs.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217033644id_/http%3A//www.discogs.com/help/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the discogs.com privacy policy that was archived on 2009-02-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090209090158id_/http%3A//www.discogs.com/help/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta name="verify-v1" content="kZg16KbGVgtSrBuoDcwAKBKYVvDb26lnudxP3FMOcoE=">
 <meta http-equiv="content-type" content="text/html;charset=utf-8">
 <title>Privacy Policy / Discogs Help</title>
 <link rel="icon" href="/images/favicon.ico">
-<link rel="stylesheet" href="/css/main.css?v=001d">
+<link rel="stylesheet" href="/css/main.css?v=001i">
 <!--[if IE 7]>
 <link rel="stylesheet" href="/css/nav_ie7.css?v=001b">
 <![endif]-->
 <!--[if lte IE 6]>
 <link rel="stylesheet" href="/css/nav_ie.css?v=001b">
 <![endif]-->
-<script type="text/javascript" src="http://yui.yahooapis.com/2.5.0/build/utilities/utilities.js"></script>
-<script type="text/javascript" src="/js/global.js?v=001b"></script>
+<script type="text/javascript" src="http://yui.yahooapis.com/combo?2.6.0/build/utilities/utilities.js&amp;2.6.0/build/datasource/datasource-min.js&amp;2.6.0/build/autocomplete/autocomplete-min.js"></script>
+<script type="text/javascript" src="/js/global.js?v=001g"></script>
+
+<script type="text/javascript">
+DISCOGS.set("Session", {loggedin: false, username: ''});
+</script>
+
 </head>
 <body>
 
+<div class="ac_div" id="ac_q"></div>
 
 <form action="/search" method="get">
 <div style="text-align:center;">
@@ -33,15 +39,16 @@
 </div>
 
 <div id="headerSearch">
-<select id="type" name="type"><option value="all">Search all</option>
+<select id="type" name="type" onchange="initMainAC();"><option value="all">Search all</option>
 <option value="artists">Artists</option>
 <option value="labels">Labels</option>
 <option value="releases">Releases</option>
 <option value="needsvote">Needs Vote</option>
 <option value="catno">Catalog#</option>
 <option value="forsale">For Sale</option></select>
-<input id="q" name="q" size="25" type="text">
+<input autocomplete="off" id="q" name="q" size="25" type="text">
 <input name="btn" style="padding-left:2px;padding-right:2px;" type="submit" value="Search">
+<a href="/advanced_search">Advanced Search</a>
 
 </div>
 
@@ -74,13 +81,13 @@
 <a href="/sell/cart">View Shopping Cart</a>
 <div class="label">Buyers:</div>
 <a href="/sell/purchases">My Purchases</a>
-<a href="/sell/buyerprefs">Preferences</a>
+<a href="/sell/buyerprefs">Settings</a>
 <div class="label">Sellers:</div>
 <a href="/sell/manage">Manage Inventory</a>
 
 <a href="/sell/orders">My Orders</a>
 <a href="/sell/billing">Billing</a>
-<a href="/sell/prefs">Preferences</a>
+<a href="/sell/settings">Settings</a>
 </div>
 
 <div class="submenu" id="br_menu">
@@ -245,12 +252,14 @@ dealings with this Web site, you can contact: info @ discogs.com </p>
 <tr><td colspan="2">&nbsp;</td></tr>
 
 <tr><td colspan="2" class="gr">
-Discogs™ website Copyright © 2008 Discogs
+Discogs™ website Copyright © 2009 Discogs
 <a href="/help/terms-of-service.html">Terms of Service</a>
 <a href="/help/privacy-policy.html">Privacy Policy</a>
 </td></tr>
 </tbody></table>
 </div>
+
+<div id="act"></div>
 
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
@@ -268,8 +277,6 @@ urchinTracker();
 </noscript>
 <!-- End Quantcast tag -->
 
-<!-- Begin: 4q.iperceptions.com --><script src="http://4qinvite.4q.iperceptions.com/1.aspx?sdfc=7d10287d-1091-97e70eae-63d1-4baf-ba19-8c71aa5211e7&amp;lID=1&amp;loc=4q-web1" type="text/javascript" defer="defer"></script><!-- End: 4q.iperceptions.com -->
 
 
-
-<!-- web11:myt:0.015 --></body></html>
+<!-- web12:myt:0.017 --></body></html>
