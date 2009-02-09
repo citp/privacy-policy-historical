@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allrecipes.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015723id_/http%3A//allrecipes.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allrecipes.co.uk privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209045143id_/http%3A//allrecipes.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - All recipes UK
 
@@ -18,7 +18,7 @@ Allrecipes.com collects personal information from you at several different point
 
 Registration, Purchases; Other Information Submissions
 
-• When you register to become a member on our Web site, you are asked to create a unique login and password, and are required to give certain personal information (such as your name, email address, and zip code). We might also request certain information about your tastes and preferences (such as your favorite food, purchases or recipes). 
+• When you register to become a member on our Web site, you are asked to create a unique login and password, and are required to give certain personal information (such as your name, email address, and zip code). We might also request certain information about your tastes and preferences (such as your favourite food, purchases or recipes). 
 
 • Information you provide during registration might be used for some or all of the following:
 
