@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traffictactics.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213145948id_/http%3A//traffictactics.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffictactics.com privacy policy that was archived on 2009-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090210040831id_/http%3A//traffictactics.com/privacy.asp) for the most accurate reproduction.*
 
 # TrafficTactics.com Privacy Policy
 
