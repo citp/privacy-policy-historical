@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masonworld.com privacy policy that was archived on 2008-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081026065839id_/http%3A//www.masonworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masonworld.com privacy policy that was archived on 2009-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090210093315id_/http%3A//www.masonworld.com/privacy-policy) for the most accurate reproduction.*
 
 # MasonWorld Privacy Policy | MasonWorld Internet Marketing Strategy | Internet Based Marketing Blog
 
