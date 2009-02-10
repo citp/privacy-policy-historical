@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hanapinmarketing.com privacy policy that was archived on 2008-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081024222719id_/http%3A//www.hanapinmarketing.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hanapinmarketing.com privacy policy that was archived on 2009-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090210020122id_/http%3A//www.hanapinmarketing.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Hanapin Marketing | Bloomington, Indiana
+# Privacy Policy | Hanapin Marketing
 
 This website defines the ways in which Hanapin Marketing uses and protects the information that you provide when using our website. By using this website you are accepting the practices described in this Privacy Policy. 
 
@@ -14,7 +14,7 @@ There are several instances in which we may collect information from you. We may
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. 
 
 **Site Statistics Information**  
-We also collect nonpersonal information from you such as browser type, URL of the previous website visited, ISP, operating system, and Internet protocol (IP) address. Nonpersonal information cannot be easily used to personally identify you. We use this information to analyze trends, administer the site, track users' movements around the site, and gather demographic information about our users. 
+We also collect non-personal information from you such as browser type, URL of the previous website visited, ISP, operating system, and Internet protocol (IP) address. Non-personal information cannot be easily used to personally identify you. We use this information to analyze trends, administer the site, track users' movements around the site, and gather demographic information about our users. 
 
 **Security**  
 We are committed to ensuring the safety of your personal information. 
