@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esnips.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082114id_/http%3A//www.esnips.com/statments/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esnips.com privacy policy that was archived on 2009-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090210213051id_/http%3A//www.esnips.com/statments/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -96,10 +96,10 @@ By using this Site, you consent to the terms of our Privacy Policy and to eSnips
 
 We are committed to protecting your privacy. Protecting your privacy online is an evolving area, and eSnips’ Sites are constantly evolving to meet these demands. If you have questions or suggestions regarding our Privacy Policy please send us email to privacy AT esnips.com or you can contact us at:
 
-eSnips Ltd.  
-PO Box 8858  
-Poleg Industrial Zone  
-Netanya, 42507  
+Logia Media Ltd.  
+POB 4010  
+3 Hasadnaot St,  
+Herzeliya Pituach, 46140  
 Israel
 
 **While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.**
