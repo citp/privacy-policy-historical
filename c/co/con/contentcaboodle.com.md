@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentcaboodle.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216065708id_/http%3A//www.contentcaboodle.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentcaboodle.com privacy policy that was archived on 2009-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090210151603id_/http%3A//www.contentcaboodle.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Content Caboodle Privacy Policy - Content Caboodle
 
