@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bhphotovideo.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014012758id_/http%3A//www.bhphotovideo.com/find/HelpCenter/PrivacySecurity.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhphotovideo.com privacy policy that was archived on 2009-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090210060755id_/http%3A//www.bhphotovideo.com/find/HelpCenter/PrivacySecurity.jsp) for the most accurate reproduction.*
 
 # B&H Photo Video Privacy & Security
 
    
    
   
-This policy was last updated on January 5, 2007.
+This policy was last updated on November 9, 2008.
 
 Your privacy is important to us. By participating in the Council of Better Business Bureau's BBBOnLine Privacy Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at <http://www.bbbonline.org/privacy>.
 
@@ -17,7 +17,7 @@ Below is the B&H privacy and security policy:
   
 The security of your personal information is very important to us. In an effort to protect your personal information, we use Secure Sockets Layer (SSL) technology with 128 bit encryption. If your browser supports SSL (most current browsers do), it will automatically encrypt the information you provide to us on the secure pages on our site, before sending it over the Internet.
 
-B&H has obtained a digital certificate from Verisign, Inc., a leading provider of Internet trust services. B&H’s website is also tested and certified daily by ScanAlert to receive its Hacker Safe Certification which ensures that the website passes the FBI/SANS Internet Security Test.
+B&H has obtained a digital certificate from Cybertrust, a leading provider of Internet trust services. B&H’s website is also tested and certified daily by ScanAlert to receive its Hacker Safe Certification which ensures that the website passes the FBI/SANS Internet Security Test.
 
 When visiting a page on our site that includes any of your personal information, the bottom of your browser window will display, an icon of a closed lock or an unbroken key (depending upon your browser). This indicates that you have successfully connected with our secure server.
 
@@ -31,7 +31,7 @@ Some browser versions and some firewalls do not permit communication through sec
   
 When you visit our site, we will ask your browser to place a permanent "cookie" (a very small text file) on your computer. If your browser is configured to accept cookies, it will accept the cookie and place it on your computer's hard drive. We collect this information to analyze where our customers are coming from and how often they visit our site. We also collect certain technical information from your computer, like your IP address and the address of a referring web site, if any. This information will allow us to enhance our site to our customer's preferences. This information is used **only** for the benefit of B&H and you, our customer.
 
-You can visit our site without cookies if you choose to do so. To visit our site without cookies, you can configure your browser to reject all cookies or to notify you when a cookie is set. Check the browsers help menu to learn how to change your cookie preferences.   
+You can visit our site without cookies if you choose to do so. However, please be aware that some features of the site may not function properly or may be slower if you refuse cookies. To visit our site without cookies, you can configure your browser to reject all cookies or to notify you when a cookie is set. Check the browsers help menu to learn how to change your cookie preferences.   
   
 ## Registration:  
   
@@ -78,9 +78,40 @@ B&H does maintain special relationships with a number of secure business partner
 
 B&H also may share account or other information when we are required by law or to protect our interests or property. This may include sharing information with other companies, lawyers, credit bureaus, agents or government agencies in connection with issues related to fraud, credit or debt collection. 
 
+B&H also shares information with outside companies that perform services for B&H. For example, we may retain an outside company to assist us in managing our customer information database or to update and correct customer information for future marketing purposes. In those situations, the outside company is working for B&H. B&H takes steps to ensure your information is used only to provide the services requested by B&H and not for other purposes. 
+
 B&H has selected a company, Coremetrics, to assist us in better understanding how our customers use our site. We will place cookies on your computer to collect information. The information that is collected through these cookies tells us things, such as which search engine referred you, how you navigated around our site, which pages you browsed, what you purchased and what traffic is driven by banner ads and emails.
 
-Coremetrics analyzes the information it collects from our site and returns it to us through a secure connection. We use this information to help us understand your interests in our site and how to better serve you. It also helps us provide you with more personalized product offerings. **We do not allow Coremetrics to collect personal information about you.**  
+Coremetrics analyzes the information it collects from our site and returns it to us through a secure connection. We use this information to help us understand your interests in our site and how to better serve you. It also helps us provide you with more personalized product offerings. **We do not allow Coremetrics to collect personal information about you.**
+
+You agree that we may use personal information provided by you in order to conduct appropriate anti-fraud checks. Personal information that you provide may be disclosed to a credit reference or fraud prevention agency, which may keep a record of that information.  
+  
+## BBBOnLine U.S./E.U. Safe Harbor Dispute Resolution Program:  
+  
+   
+  
+In order to comply with the European Union’s Safe Harbor principles, B&H commits to the resolution of complaints about your privacy and our collection or use of your personal information. We have committed to resolve any complaints by European Union citizens relating to this policy, which cannot directly be resolved with our company, through the Council of Better Business Bureaus, Inc.’s Safe Harbor Privacy Dispute Resolution Procedure. 
+
+If you have any questions, please contact:
+
+Legal Department  
+B&H Foto & Electronics Corp.  
+440 Ninth Avenue   
+New York, New York 10001   
+Phone: 212-239-7500   
+Web: [www.bhphotovideo.com](http://www.bhphotovideo.com/)  
+E-mail: [legal@bhphotovideo.com](mailto:legal@bhphotovideo.com)
+
+If you do not receive acknowledgment of your complaint or your complaint is not satisfactorily addressed by B&H, you may then contact:
+
+Council of Better Business Bureaus, Inc.   
+4200 Wilson Boulevard, Suite 800   
+Arlington, Virginia 22203   
+Phone: 703-276-0100   
+Web: [www.bbb.org](http://www.bbb.org/)  
+E-mail: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
+
+B & H Foto & Electronics Corporation complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.   
   
 ## Use of Information:  
   
@@ -123,7 +154,13 @@ Our transaction security, combined with our privacy guarantee, should satisfy yo
 
 
 
-If you have any questions regarding this privacy statement, the practices of this site, or your dealings with this web site, you can [contact our webmaster](http://www.bhphotovideo.com/bnh/controller/home?O=PrivacySecurity.jsp&A=getpage&Q=contactForm.jsp&destination=webmaster).  
+If you have any questions regarding this privacy statement, the practices of this site, or your dealings with this web site, you can [contact our webmaster](http://www.bhphotovideo.com/bnh/controller/home?O=getpage.jsp&A=getpage&Q=contactForm.jsp&destination=webmaster).  
+  
+## Changes to B&H Privacy Policy:  
+  
+   
+  
+By visiting our site you consent to our collection and use of your information as described in this policy. We reserve the right to modify this privacy policy and related business practices at any time by posting updated text on this site.   
   
 ## Your California Privacy Rights  
   
