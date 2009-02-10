@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217180724id_/http%3A//www.boo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boo.com privacy policy that was archived on 2009-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090210044032id_/http%3A//www.boo.com/privacy) for the most accurate reproduction.*
 
 # boo.com Privacy Policy
 
