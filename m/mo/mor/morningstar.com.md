@@ -1,58 +1,57 @@
-> *The following text is extracted and transformed from the morningstar.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629131348id_/http%3A//members.morningstar.com/memberstpages/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morningstar.com privacy policy that was archived on 2009-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090210130939id_/http%3A//members.morningstar.com/memberstpages/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**What Information Do We Collect and How Do We Use It?**  
-When you register on Morningstar.com or subscribe to a Premium Membership or any other paid service on or through Morningstar.com, you will be asked to complete a registration form. This registration form requires you to provide certain personal information, such as your name, street address, phone number, e-mail address, as well as other demographic information like your age, gender and household income. In addition, when you subscribe to any paid service on, or purchase any product through, Morningstar.com, we also require your credit card information.
+**PERSONAL INFORMATION WE COLLECT**  
+The types of personal information we collect depend on the product or service you and/or your financial professional (singularly and collectively, "You") receive from us. This information may include, but is not limited to: 
 
-We use your name, address, and related demographic information (things like your age, gender and household income) to contact you with details about Morningstar.com, to make information available to you about other products/services we think might interest you and to fulfill and ship any products that you order from us. Except as provided below, it is Morningstar’s policy not to share this - or any other - personally identifiable information that you send us as part of the registration/subscription process with anyone outside of the Morningstar family of companies. There are only two exceptions to this policy. First, where you choose to sign up to receive products, services or information from one of more of the third party advertisers listed on the Special Offers page by checking the appropriate opt-in box, we do forward your contact information (including your phone number and e-mail address) to those advertisers in whose products or services you have indicated an interest. Second, we provide your name and address (but not your phone number or email address) to certain other, well-screened companies in whose products or service we think you might be interested. We may also forward you e-mail advertisements from these companies but we do not provide them with your e-mail address. You may, of course, notify us at any time that you no longer wish to be contacted by Morningstar or have your contact information forwarded on to these third party companies. Please remember, however, that we do not have any control over this information once it has been released. For more information on how to do this, please see the section below entitled “How to Control or Change Your Profile Information.
+  * Your Name, address, phone number, physical and e-mail address 
+  * Your Credit Card number 
+  * Your Account Information, including, but not limited to, account balances and the like 
+  * Your Demographic Information, such as your age, income range, investment preferences, etc,
 
-**Is Information Collected by Advertisers?**  
-Advertisers (or the companies that serve up advertisements on their behalf) often track and store certain anonymous information about the users of a site. While Morningstar does not control this process or have access to the information gathered by these advertisers/ad servers on Morningstar.com, we did want to make your aware of the practice. 
 
-Although different advertisers may collect different information, the information gathered generally includes such things as: (i) the anonymous cookie ID associated with the user's computer; (ii) portions of the user's Internet Protocol (IP) address that identify the user's domain name and the general geographical area in which the user is located; (iii) the particular ad(s) viewed by the user and the date, time and duration of that viewing; and (iv) whether the user clicked on an ad (or any information within it). This anonymous tracking process is not supposed to reveal the user's name, phone number, mailing address, e-mail address, or any other personally identifying information. Instead, the tracking system is designed merely to show the advertiser how and when the user's computer moved to different ads on the site. Unless the user voluntarily provides personally identifying information, for instance, by requesting that he or she be sent specifications on a particular product or service, the personal identity of the user should remain unknown to the advertiser. 
 
-**How is this Anonymous Information Used?**  
-As a general rule, the anonymous tracking information from each user is bundled with that of other users to create an overall usage summary for the ad(s) in question. This summary allows the advertiser to better evaluate the reach and effectiveness of its ads, both from a content and placement perspective; for instance, by analyzing how many "hits" a particular ad receives. However, please note that, in certain instances, the advertiser may also use the unbundled or individual results of this tracking to target specific products or service offerings to particular users based on their individual usage patterns. 
+**PERSONAL INFORMATION WHY WE COLLECT IT**  
+Morningstar needs to collect certain personal information to provide You with investment information and tools, to perform marketing and research related activities, to supply other administrative services (e.g., setting up new accounts), to respond to inquiries (e.g., fulfilling literature requests), etc. 
 
-**How to Stop the Ad Serving Companies from Collecting Your Anonymous User Information**  
-If you want to stop the tracking process with respect to a particular ad service company, you may do so by blocking its cookies from being stored on your computer. Listed below are links to a number of the more well-known ad services companies. To block the cookies of the companies on this list, click on the below links and follow the relevant instructions. Please note that the privacy policies for each of these companies are also available through these links and that you may review them for additional information. 
+**PERSONAL INFORMATION HOW WE COLLECT IT**  
+The personal information we collect may be captured from a variety of sources. These sources include, but are not limited to: 
 
-<http://www.networkadvertising.org/optout_nonppii.asp>   
-<http://www.planninggroup.com/PGI_Privacy_Policy.htm>   
-<http://www.mediaplex.com/privacy.shtml>
+  * Voluntary submissions (e.g., responses to surveys, requests for information on our products or those of our advertisers/marketing partners) 
+  * Registrations/Applications to receive products or services (whether submitted online, over the phone, or via e-mail)
 
-**How Is Portfolio Information Used and Protected?**  
-We recognize that your portfolio information is very sensitive, and protecting the privacy of this information is a top priority for us. The contents of your portfolio are kept strictly confidential and are not voluntarily shared with any third parties.
 
-**What About Internet Provider (IP) Addresses and Cookies?**  
-Morningstar.com logs IP addresses and browser types, but we do not link IP addresses to personally identifiable information. This means that, while a user's session is tracked, the identity of that user remains anonymous. We also use these IP addresses to analyze trends, administer the site and gather broad demographic information for aggregate use.
 
-Cookies are used for the same reasons. Cookies are small pieces of information stored on your computer's hard drive that allow us to monitor what sort of content on Morningstar.com you find most interesting. By better understanding how you and our other users are using Morningstar.com, we can develop tools and customize content to personalize and improve everyone's experience. We also use cookies to remember your passwords for you (so that you don't have to keep re-entering them each time you come back to the site) and to better target that advertising on the site that we think will be of most interest to you. Your privacy and security are not compromised when you accept a cookie from Morningstar.com because we do not use cookies to collect personal information. Please note, however, that advertisers on our site may also serve you their own cookies when you click through to their sites. We do not control, nor do we have access to, any of the information that they may collect.
+**USE AND ACCESS OF YOUR PERSONAL INFORMATION WITH OTHERS**  
+As a general rule, Morningstar will not make your personal information available to anyone outside of Morningstar and its affiliates \-- except as instructed by you or where required to comply with law. Please note, however, that there are several exceptions to this policy. First, service providers may have access to your personal information to perform contractually specified services on behalf of Morningstar or You. Second, if You indicate that You are interested in receiving information about a particular third party's products/services, or You opt to receive certain products or services through Morningstar, we may provide your personal information to that third party for purposes of fulfilling your request(s). In either case, Morningstar normally limits access to your personal information to those third parties that have agreed to keep it confidential. 
 
-Of course, you can choose not to accept the cookie by adjusting your browser settings but, if you choose to do so, you may not be able to take full advantage of the certain customized content on Morningstar.com, such as the Portfolio Manager tool or free areas such as Conversations and University.
+**LINKS TO THIRD PARTY WEB SITE**  
+Morningstar may provide links to one or more third-party Web sites. Since we do not control these sites and are not responsible for any personal information you may provide while on such sites, we encourage you to read their individual privacy policies before providing any of your personal information to them. 
 
-**Links to Other Sites**  
-To provide you with a more complete resource for investment information and services, Morningstar.com contains links to certain other sites, such as Amazon.com and Qpass. In some instances, we will share demographic information on our users with sites that link to Morningstar.com, but again, this information is shared on an aggregate basis only. Please note that you may be required to register with a site that links to Morningstar.com in order to take advantage of that site's services (for example, ordering a book through Amazon.com that was recommended on Morningstar.com).
+**PROTECTION OF YOUR PERSONAL INFORMATION**  
+Morningstar puts appropriate security measures in place to protect against unauthorized access to, or unauthorized alteration, disclosure or destruction of personal information. These measures include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. 
 
-We cannot be responsible for the privacy practices of these sites; you should refer to these sites' privacy policies for details.
+Morningstar operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided.
 
-**The Conversations Area**  
-The Conversations area allows users to engage in a lively discussion with a community of intelligent investors. Please remember that any information you disclose in the Conversations area, including your e-mail address and user name, will become public information. We post user names and e-mail addresses to encourage responsible, productive discussions, but we can not prevent parties unrelated to Morningstar from accessing this public information. Please remember that, by disclosing your name and e-mail address in the Conversations area, you open yourself up to the possibility that you may receive unsolicited e-mail from parties outside of Morningstar.
+**USE of COOKIES**  
+Morningstar does use Cookies. The Cookies store session information as numerical values with a time stamp. This information allows us to collect general usage data to improve the quality of our site navigation. Advertisers on our site may deploy cookies and web beacon technology as well to measure and improve the effectiveness of advertising for their clients. For more information regarding Advertisers Privacy Policies, they include but are not limited to the following:
 
-We encourage you to maintain a healthy skepticism about any information posted to the Conversations area and to do your own research before making any investment decisions. People writing in the Conversations area may not be who they say they are, may not know what they say they know or may not be affiliated with whom they say they are affiliated. The Conversations area of Morningstar.com is offered for entertainment purposes only. Morningstar expressly disclaims any responsible for the content or accuracy of any information posted to this area and for any trading, investment or other decisions made on the basis of this information.
+<http://www.networkadvertising.org/optout_nonppii.asp> <http://www.advertising.com/privacy_policy.php> <http://www.revenuescience.com/site/privacy.asp> <http://mediaplex.com/MOJO_Privacy_Statement.shtml>
 
-**Security**  
-Morningstar.com takes precautions to protect its members' personal information. We use industry-standard on-line security measures, such as encryption and authentication, to protect your credit card information. Please note, however, that no transmission over the Internet can be 100% secure.
+**ACCURACY OF YOUR PERSONAL INFORMATION**  
+You are responsible for periodically checking to ensure that your personal information included in site is updated and correct. 
 
-Morningstar.com also works to protect user information offline. All of your information is housed in secure, access-restricted areas. Only employees who need the information to perform a specific function are granted access to personally identifiable information.
+**HOW TO UPDATE PERSONAL INFORMATION**  
+If you desire to update your personal information, You may do so by logging into Morningstar.com or contact product support. 
 
-**How to Control or Change Your Profile Information**  
-You can edit any of the personal information you've provided by visiting the [Personal Profile section](http://members.morningstar.com/prism/ContactUpdate.html) of the Membership area. Because this information is protected, you will be required to enter your user name and password to make changes. Additionally, in the Personal Profile section, you can agree to receive special offers through regular mail from companies carefully selected by Morningstar. If you don't want this information, make sure the appropriate box is unchecked.
+**WHAT ABOUT CHILDREN'S PRIVACY**  
+Morningstar does not separately identify, or collect, any information that is specific to children. 
 
-In the [E-mail Subscription Center](http://members.morningstar.com/prism/sub_cent_Newsletters.html), you can choose to receive e-mail newsletters and other communications about new features and improvements to Morningstar.com. If you don't want to be sent these communications, make certain that the appropriate boxes are left unchecked. We also include instructions on how to opt-out of receiving e-mail from Morningstar.com each time we send you a message. You can stop mail from Morningstar.com by e-mailing [nomail@mail.morningstar.net](mailto:nomail@mail.morningstar.net). Your name will be removed from our database within one business day. Or to immediately unsubscribe, update your Personal Profile by visiting the [Personal Profile section](http://members.morningstar.com/prism/ContactUpdate.html) of the Membership area. Make certain the appropriate boxes are not checked.
+**YOUR CONSENT**  
+By using the Morningstar.com, you consent to the collection and use of your personal information and any related information in the manner described in this Privacy Policy. 
 
-**Changes to the Privacy Policy**  
-If we ever change the Privacy Policy, we will post that information on this Privacy Policy page. If there is ever any material change to the information we gather and how it is used, we will post a notice to our Membership Page. We invite you to come back from time to time to review the policy.
+**CHANGES TO THE PRIVACY POLICY**  
+Morningstar reserves the right to change this policy at any time by distributing and/or posting a new privacy policy without notice. We encourage you to review our privacy policy on a regular basis so that you will be aware of any changes to it. 
 
-If you have any questions about Morningstar.com's privacy practices or this Privacy Policy, please e-mail us at[ Premium@morningstar.com](mailto:Premium@morningstar.com).
+If you have further questions about our privacy practices, please contact us by e-mailing [premium@morningstar.com](mailto:premium@morningstar.com).
