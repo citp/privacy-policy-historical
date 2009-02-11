@@ -1,17 +1,8 @@
-> *The following text is extracted and transformed from the lightscribe.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045156id_/http%3A//www.lightscribe.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightscribe.com privacy policy that was archived on 2009-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090211120333id_/http%3A//lightscribe.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # LightScribe - Privacy Policy
 
-  | 
-
-[](https://web.archive.org/index.aspx)
-
-Find what you're looking  
-for — all colors and formats.
-
-| 
-
-PRIVACY POLICY
+PRIVACY STATEMENT
 
 LIGHTSCRIBE RESPECTS YOUR PRIVACY
 
@@ -97,7 +88,7 @@ LightScribe or its related entities could merge with or be acquired by another b
 LightScribe gives you the choice of receiving a variety of information that complements our products and services. You can subscribe to receive certain product- and service-specific information and LightScribe-wide marketing communications. LightScribe-wide communications may include new product information, special offers, or an invitation to participate in market research. We give you a choice regarding delivery of LightScribe-wide communications by postal mail, e-mail and telephone. You can make or change your choices at the data collection point. Please refer to section 7 for further instructions. We will make every effort to honor your preferences. This option does not apply to communications for the purpose of administering order completion, contracts, support, product safety warnings or driver updates.
 
 **7\. Your privacy preferences and opting out**  
-**Non-subscription services**
+ **Non-subscription services**
 
 LightScribe will not use your personal information for a different purpose than the one stated when you provided your data. Examples of unrelated uses include sending communications about special offers, product information, and marketing messages. You can, however, choose to receive these types of non-subscription communications by following the instructions below.
 
@@ -137,5 +128,3 @@ _Rev. April 2006_
 
 1A URL (Uniform Resource Locator) is the global address of documents and other resources on the World Wide Web. For example, http://www.HP.com is the URL for HP's U.S. home page.  
 2An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol (TCP/IP) network, such as the World Wide Web. Networks use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the web, allowing web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet, browse and shop.
-
-|  
