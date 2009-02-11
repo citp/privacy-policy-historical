@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myrtlebeachonline.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515012005id_/http%3A//www.myrtlebeachonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrtlebeachonline.com privacy policy that was archived on 2009-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090211142222id_/http%3A//myrtlebeachonline.com/662) for the most accurate reproduction.*
 
-# News from Myrtle Beach, South Carolina
+# MyrtleBeachOnline.com - Myrtle Beach News | Sun News
 
 ##### Effective Date: Jan. 1, 2007.
 
@@ -99,5 +99,7 @@ MyrtleBeachOnline.com supports P3P, the Platform for Privacy Preferences, which 
 In the event of the sale or merger of The Sun News Company and/or The McClatchy Company, ownership of the information described in this Privacy Policy will be transferred to the acquiring or successor company.
 
 MyrtleBeachOnline.com endorses and abides by the privacy principles approved by the Interactive Services Association and the Direct Marketing Association. If you have any questions or comments about our policies, we may be reached at P.O. Box 406 Myrtle Beach, SC 29578, at 1-800-568-1800 or at feedback@mytlebeachonline.com.
+
+We use third-party advertising technology vendors to collect, via includes, cookies and web beacons (1x1 pixels), non-personally identifiable data when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://www.networkadvertising.org/consumer/opt_out.asp>
 
 ##### Effective Date: Jan. 1, 2007.
