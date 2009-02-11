@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the beamcablesystem.in privacy policy that was archived on 2008-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080418233009id_/http%3A//www.beamcablesystem.in/html/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beamcablesystem.in privacy policy that was archived on 2009-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090211145902id_/http%3A//beamcablesystem.in/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D27%26Itemid%3D64) for the most accurate reproduction.*
 
-# Beam Cable System
+# 
 
-| **What This Privacy Policy Covers**  
+| 
+
+|  | **What This Privacy Policy Covers**  
 ---|---  
    
 | **Information Collection and Use**  
