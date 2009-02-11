@@ -1,35 +1,41 @@
-> *The following text is extracted and transformed from the sunshinerewards.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216153116id_/http%3A//www.sunshinerewards.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunshinerewards.com privacy policy that was archived on 2009-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090211172731id_/http%3A//www.sunshinerewards.com/privacy.php) for the most accurate reproduction.*
 
 # Earn Rewards for Reading Email, Shopping, and Surfing at Sunshine Rewards
 
 [](http://www.addthis.com/bookmark.php)
 
-[ ](http://www.sunshinerewards.com/holidayshopping.php)  
-[Deck the Halls with Sunshine Savings](http://www.sunshinerewards.com/holidayshopping.php)
+**[Follow us on Twitter](http://www.twitter.com/sunshinerewards)**
+
+[ ](http://www.sunshinerewards.com/learnmore.php)  
+Watch our Intro Video
 
 Hot Shopping Links:
 
 [ Free Shipping Offers](http://www.sunshinerewards.com/freeshipping.php)  
 [ Cash Back on Gift Cards](http://www.sunshinerewards.com/category/gift-certificates)  
- 
+[ Valentine's Day Gift Ideas](http://www.sunshinerewards.com/category/valentines-gifts/)
+
+ Featured Stores
+
+[](http://www.sunshinerewards.com/shopping/Ice/)
+
+[ ](http://www.sunshinerewards.com/shopping/1-800-FLORALS/)
+
+[ ](http://www.sunshinerewards.com/shopping/CrazyforBargains/)
+
+ Featured Offers
+
+[ ](http://www.sunshinerewards.com/offers.php?oid=2926)
 
 * * *
 
 [Sunshine Rewards Videoblog](http://www.sunshinerewards.com/videoblog)
 
-[Free Shipping on Christmas Gifts at Sunshine Rewards](http://www.sunshinerewards.com/videoblog/2008/12/14/free-shipping-on-christmas-gifts-at-sunshine-rewards/)
+[Space Bags at Sunshine Rewards](http://www.sunshinerewards.com/videoblog/2009/02/05/space-bags-at-sunshine-rewards/)
 
-[Colonial Candle at Sunshine Rewards](http://www.sunshinerewards.com/videoblog/2008/12/09/colonial-candle-at-sunshine-rewards/)
+[Sunshine Rewards Partners with Loxly Gallery Passion Collection](http://www.sunshinerewards.com/videoblog/2009/01/28/sunshine-rewards-partners-with-loxly-gallery-passion-collection/)
 
 * * *
-
- Featured Stores
-
-[ ](http://sunshinerewards.com/shopping/Borders/)
-
- Featured Offers
-
-[ ](http://www.sunshinerewards.com/offers.php?oid=358)
 
 |  | Privacy  
 ---  
