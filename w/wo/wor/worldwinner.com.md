@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwinner.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220112405id_/http%3A//www.worldwinner.com/cgi/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwinner.com privacy policy that was archived on 2009-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090211155201id_/http%3A//www.worldwinner.com/cgi/legal/privacy.html) for the most accurate reproduction.*
 
 # WorldWinner Cash Competitions
 
