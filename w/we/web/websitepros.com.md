@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the websitepros.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219104945id_/http%3A//www.websitepros.com/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitepros.com privacy policy that was archived on 2009-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090211143222id_/http%3A//www.web.com/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal - Privacy Policy | Web.com
 
-Web.com respects the privacy of the visitors of its websites.
+## Privacy Policy
+
+Web.com respects the privacy of the visitors of its [websites](http://www.web.com/).
 
 This Privacy Statement is intended to inform you of our policies and practices regarding the collection, use and disclosure of any personal information you submit to us through our website. "Personal Information" is information about you that is personally identifiable to you like your name, address, e-mail address, or phone number, as well as other non-public information that is associated with the foregoing.
 
@@ -10,45 +12,39 @@ We pay close attention to how Personal Information about our visitors is used an
 
 We act as a service provider to our customers and may process and store on behalf of our customers Personal Information that our customers collect under the privacy policy they have posted on their websites from the users of such websites. We do not own this Personal Information.
 
- **User Consent**
+**User Consent**
 
 By submitting Personal Information through our websites, you agree to the terms of this Privacy Statement.
 
 You expressly consent to the processing of your Personal Information according to this Privacy Statement. Personal Information may be processed by Web.com, Developer(s), or User(s) in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent.
 
- **Collection of Personal Information**
+**Collection of Personal Information**
 
-The Personal Information we gather from you helps us learn about our customers and potential customers. We use this information to better tailor the features, performance and support of our solutions, products and services, and to contact you from time to time about with information and offers about our products and services.
+The Personal Information we gather from you helps us learn about our customers and potential customers. We use this information to better tailor the features, performance and support of our solutions, products and services, and to contact you from time to time with information and offers about our products and services.
 
 **Personal Information You Provide to Us**
 
 We collect Personal Information that you submit to us voluntarily through our websites. The types of Personal Information we collect include:
 
   * **For receiving information material:**  
-If you contact us to receive information material (such as one of our whitepapers), we will collect your name, e-mail address and the information when you plan on purchasing a website.   
- 
+If you contact us to receive information material (such as one of our whitepapers), we will collect your name, e-mail address and the information when you plan on purchasing a website.
   * **For receiving our Business Builder newsletter:**  
-If you contact us to receive our Business Builder newsletter, we will collect your name, e-mail address, mailing address and the address of your website.   
- 
+If you contact us to receive our Business Builder newsletter, we will collect your name, e-mail address, mailing address and the address of your website.
   * **For getting a quote:**  
-In order to receive a quote from us, we will collect your name, phone number, e-mail address, mailing address and your Web address.   
- 
+In order to receive a quote from us, we will collect your name, phone number, e-mail address, mailing address and your Web address.
   * **For employment applications:**  
-If you apply for an employment opportunity via e-mail, we will collect your e-mail address and any information contained in the e-mail you send us.   
- 
+If you apply for an employment opportunity via e-mail, we will collect your e-mail address and any information contained in the e-mail you send us.
   * **For general information:**  
-If you contact us via e-mail to get general information, we will collect your e-mail address and any information contained in the e-mail you send us.   
- 
+If you contact us via e-mail to get general information, we will collect your e-mail address and any information contained in the e-mail you send us.
   * **For technical support:**  
-If you contact us via e-mail to get technical support, we will collect your e-mail address and any information contained in the e-mail you send us. 
+If you contact us via e-mail to get technical support, we will collect your e-mail address and any information contained in the e-mail you send us.
   * **For Strategic Distribution Partners Information:**  
-If you contact us via e-mail to receive Strategic Distribution Partners Information, we will collect your e-mail address and any information contained in the e-mail you send us. 
+If you contact us via e-mail to receive Strategic Distribution Partners Information, we will collect your e-mail address and any information contained in the e-mail you send us.
   * **For Enterprise Distribution Partner Information:**  
-If you contact us via e-mail to receive Enterprise Distribution Partner Information, we will collect your e-mail address and any information contained in the e-mail you send us. 
+If you contact us via e-mail to receive Enterprise Distribution Partner Information, we will collect your e-mail address and any information contained in the e-mail you send us.
 
 
 
-  
 **Personal Information Collected via Technology**
 
 As you navigate our website, certain passive information may also be collected, including your Internet Protocol address, browser type, and operating system. We also use cookies and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the solutions and information for which you searched and viewed. This type of information is collected to make our solutions and services more useful to you.
@@ -59,7 +55,7 @@ We may receive Personal Information about you from other sources like telephone 
 
 **Use of Information**
 
-In general, Personal Information you submit to us is used either to set up solutions or purchase website marketing services, respond to requests that you make, to process transactions, to facilitate your request for a quote from a third party service provider or to aid us in serving you better. _We may share your Personal Information with other businesses to offer you products, services, and promotions.  In addition, we may share your information with other businesses that may contact your regarding request for service. _We may also use your Personal Information to provide you with electronic newsletters or promotional e-mails as well as information and offers about our products and services.
+In general, Personal Information you submit to us is used either to set up solutions or purchase website marketing services, respond to requests that you make, to process transactions, to facilitate your request for a quote from a third party service provider or to aid us in serving you better. We may share your Personal Information with other businesses to offer you products, services, and promotions. In addition, we may share your information with other businesses that may contact your regarding request for service. We may also use your Personal Information to provide you with electronic newsletters or promotional e-mails as well as information and offers about our products and services.
 
 **Disclosure of Personal Information**
 
@@ -73,12 +69,11 @@ We currently have subsidiaries and other companies under a common control (colle
 
 If our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Statement.
 
-We may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on Web.com; or (b) to protect and defend the rights or property of Web.com or users of our websites or our customers’ websites.
+We may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on Web.com; or (b) to protect and defend the rights or property of Web.com or users of our websites or our customers' websites.
 
 **Your Choices Regarding Your Personal Information**
 
-Should you decide to stop receiving further communications or newsletters from us, you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail. If at any time you wish to subscribe to any communications from us, you may do so by contacting us at info@web.com. Despite your indicated e-mail preferences, we may send you notices of any updates of our legal Notices, Terms of Use, Privacy Statement, on the account you created with us.  
- 
+Should you decide to stop receiving further communications or newsletters from us, you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail. If at any time you wish to subscribe to any communications from us, you may do so by contacting us at [info@web.com](mailto:info@web.com). Despite your indicated e-mail preferences, we may send you notices of any updates of our legal Notices, Terms of Use, Privacy Statement, on the account you created with us.
 
 **Regarding Minors**
 
@@ -97,15 +92,16 @@ We use reasonable measures to maintain the security of your Personal Information
 Should you have any questions or concerns regarding this Privacy Statement, please contact us:  
 Web.com  
 Privacy Officer  
-12808 Gran Bay Parkway West  
+12808 Gran Bay Parkway, West  
 Jacksonville, FL 32258  
 Phone: 904-680-6600
 
 **Privacy Statement Updates**
 
-This Privacy Statement is subject to occasional revision, and if we make any substantial changes in the way we use your Personal Information, we will post an alert on this page. If you object to any such changes, you must cease using our website. Continued use of our website following notice of any such changes shall indicate your acknowledgment of such changes and agreement to be bound by the terms and conditions of such changes.  
+This Privacy Statement is subject to occasional revision, and if we make any substantial changes in the way we use your Personal Information, we will post an alert on this page. If you object to any such changes, you must cease using our website. Continued use of our website following notice of any such changes shall indicate your acknowledgment of such changes and agreement to be bound by the terms and conditions of such changes.
+
 This statement was last updated on October 3, 2008.
 
 **Conditions of Use and Revisions**
 
-If you choose to visit Web.com’s website, your visit and any dispute over privacy is subject to this Privacy Notice, as governed by the laws of the State of Florida.
+If you choose to visit Web.com's website, your visit and any dispute over privacy is subject to this Privacy Notice, as governed by the laws of the State of Florida.
