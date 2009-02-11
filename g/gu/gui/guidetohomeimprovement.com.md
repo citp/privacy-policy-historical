@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guidetohomeimprovement.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217232650id_/http%3A//www.guidetohomeimprovement.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidetohomeimprovement.com privacy policy that was archived on 2009-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090211175702id_/http%3A//guidetohomeimprovement.com/privacy.jsp) for the most accurate reproduction.*
 
 # Guide To Home Improvement -
 
