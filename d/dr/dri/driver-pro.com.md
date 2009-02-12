@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driver-pro.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020235id_/http%3A//driver-pro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driver-pro.com privacy policy that was archived on 2009-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090212163116id_/http%3A//driver-pro.com/privacy) for the most accurate reproduction.*
 
 # Driver-PRO.com Privacy Policy
 
