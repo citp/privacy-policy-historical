@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightonadz.biz privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223100224id_/http%3A//rightonadz.biz/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightonadz.biz privacy policy that was archived on 2009-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090212125914id_/http%3A//rightonadz.biz/privacypolicy.html) for the most accurate reproduction.*
 
 # RightOnAdz.Biz - MAXIMIZE your Revenue with us!
 
