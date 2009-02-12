@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iht.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216024653id_/http%3A//www.iht.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iht.com privacy policy that was archived on 2009-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090212211747id_/http%3A//www.iht.com/info/privacy.php) for the most accurate reproduction.*
 
 # Privacy & Cookies - International Herald Tribune
 
@@ -33,6 +33,8 @@ You may choose not to accept any cookies from any party by changing the settings
 Please note that, as with most other major sites, sometimes ads being viewed on our site are being served by other ad networks other than DoubleClick. In that case, an independent cookie may be used by the third-party vendor. We do not have a mechanism to allow visitors to opt-out of cookies served by vendors with whom we do not have a contractual relationship.
 
 For more information about DoubleClick's use of cookies, and to "opt-out" of its cookies, visit [http://www.privacychoices.org](http://www.privacychoices.org/)
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://www.networkadvertising.org/consumer/opt_out.asp>
 
 |  |  |  |  **Newsletters**
 
