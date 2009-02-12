@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anz.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219092247id_/http%3A//www.anz.com/Help/ANZs-Web-Site/ANZ-Web-Site-Security-And-Privacy-Statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anz.com privacy policy that was archived on 2009-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090212074828id_/http%3A//www.anz.com/Help/ANZs-Web-Site/ANZ-Web-Site-Security-And-Privacy-Statement.asp) for the most accurate reproduction.*
 
 # Help: About This Site
 
