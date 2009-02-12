@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the electronics-expo.com privacy policy that was archived on 2008-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219233022id_/http%3A//www.electronics-expo.com/make-a-store/static/privacy_policy/1.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the electronics-expo.com privacy policy that was archived on 2009-02-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090212081451id_/http%3A//www.electronics-expo.com/make-a-store/static/privacy_policy/1.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 
@@ -42,6 +42,50 @@ function correctPNG() // correctly handle PNG transparency in Win IE 5.5 & 6.
 window.attachEvent("onload", correctPNG);
 </script>
 <![endif]-->
+<script language="JavaScript">
+	var timeout	= 500;
+	var closetimer	= 0;
+	var ddmenuitem	= 0;
+
+	// open hidden layer
+	function mopen(id)
+	{
+		// cancel close timer
+		mcancelclosetime();
+
+		// close old layer
+		if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+
+		// get new layer and show it
+		ddmenuitem = document.getElementById(id);
+		ddmenuitem.style.visibility = 'visible';
+
+	}
+	// close showed layer
+	function mclose()
+	{
+		if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+	}
+
+	// go close timer
+	function mclosetime()
+	{
+		closetimer = window.setTimeout(mclose, timeout);
+	}
+
+	// cancel close timer
+	function mcancelclosetime()
+	{
+		if(closetimer)
+		{
+			window.clearTimeout(closetimer);
+			closetimer = null;
+		}
+	}
+
+	// close layer when click-out
+	document.onclick = mclose;
+</script>
 
 
     <title> Electronics-Expo.com</title>
@@ -64,39 +108,26 @@ window.attachEvent("onload", correctPNG);
 	<script type="text/javascript" src="/mas_assets/theme/eexpo/popups.js"></script>
 
 
-	<link rel="stylesheet" type="text/css" href="/mas_assets/theme/eexpo/eexpo.css" media="screen">
-	<link rel="stylesheet" type="text/css" href="/mas_assets/theme/eexpo/eexpo_print.css" media="print">
-	<link rel="stylesheet" type="text/css" href="/mas_assets/theme/eexpo/buttons.css">
-	<link rel="stylesheet" type="text/css" href="/mas_assets/theme/eexpo/contents.css">
-	<link rel="stylesheet" type="text/css" href="/mas_assets/theme/eexpo/tabber.css">
+	<link rel="stylesheet" type="text/css" href="http://www.electronics-expo.com/mas_assets/theme/eexpo/eexpo-new.css" media="screen">
+		<link rel="stylesheet" type="text/css" href="http://www.electronics-expo.com/mas_assets/theme/eexpo/eexpo_print-new.css" media="print">
+		<link rel="stylesheet" type="text/css" href="http://www.electronics-expo.com/mas_assets/theme/eexpo/buttons.css">
+		<link rel="stylesheet" type="text/css" href="http://www.electronics-expo.com/mas_assets/theme/eexpo/contents-new.css">
+	<link rel="stylesheet" type="text/css" href="http://www.electronics-expo.com/mas_assets/theme/eexpo/tabber.css">
 </head>
 <body onload="setQofD()">
 <center>
 <div class="website">
-<table cellpadding="0" cellspacing="0" border="0" width="951" height="132" class="header">
+<table cellpadding="0" cellspacing="0" border="0" width="951" class="header">
 <tbody><tr>
-	<td valign="top"><a href="http://www.electronics-expo.com/"><img src="/mas_assets/theme/eexpo/images/logo.gif" class="logo"></a></td>
-	<td valign="top" width="100%">
-		<div class="topright">
-			"AUTHORIZED DEALER For Everything We Sell!"<br>
-			<a href="https://www.electronics-expo.com/index.php?page=cart">VIEW CART </a><img src="/mas_assets/theme/eexpo/images/div_img.gif" align="absmiddle"><a href="https://www.electronics-expo.com/index.php?page=myorder"> TRACK ORDER </a><img src="/mas_assets/theme/eexpo/images/div_img.gif" align="absmiddle"><a href="https://www.electronics-expo.com/index.php?page=myhistory"> MY ACCOUNT </a><img src="/mas_assets/theme/eexpo/images/div_img.gif" align="absmiddle"><a href="http://www.electronics-expo.com/make-a-store/static/customer_service/1.html"> HELPDESK </a><img src="/mas_assets/theme/eexpo/images/div_img.gif" align="absmiddle"><a href="http://www.electronics-expo.com/make-a-store/static/our_nj_stores/1.html"> STORE LOCATOR </a><img src="/mas_assets/theme/eexpo/images/div_img.gif" align="absmiddle"><a href="http://www.electronics-expo.com/make-a-store/static/flyer/1.html"> New! Weekly ad</a>
-
-		<!--<a href="https://www.electronics-expo.com/index.php?page=checkout"> CHECKOUT </a><img src="/mas_assets/theme/eexpo/images/div_img.gif"-->
-
-		</div>
-		<div class="topcenter">
-			24 Hour Safe &amp; Secure Online Shopping.<br><b><font color="red">1.800.252.8841</font> (Mon-Fri 9am-9pm, Sat &amp; Sun 10am-7pm EST)</b></div>
-
-		<div class="toplinks">
-
+	<td width="72%"><a href="http://www.electronics-expo.com/"><img src="http://www.electronics-expo.com/mas_assets/spacer.gif" border="0" height="93" width="225"></a><br>
 <form name="search" id="masform" method="get" action="http://www.electronics-expo.com/index.php">
 <input type="hidden" name="page" value="search">
-			<div class="adjustment">
-				<a href="http://www.electronics-expo.com/make-a-store/category/new_arrivals/Special-Deals/1.html"><img src="/mas_assets/theme/eexpo/images/new_arrivals_back.gif" style="float:left;"></a>
-				<a href="http://www.electronics-expo.com/make-a-store/category/clearance/Clearance/1.html"><img src="/mas_assets/theme/eexpo/images/clearance_items_back.gif" style="float:left;margin-left:5px;"></a>
-			<div class="searchback"><input type="text" class="transparent" name="search_query"><input type="image" src="/mas_assets/theme/eexpo/images/search_btn.gif" class="searchbtn"></div>
-			</div>
-		</form></div>
+			<div class="searchback"><input type="text" class="transparent" name="search_query" value="Keyword / Item#" onfocus="if
+			(this.value==this.defaultValue) this.value='';"><input type="image" src="http://www.electronics-expo.com/mas_assets/theme/eexpo/images/search_btn.gif" class="searchbtn"></div>
+			</form></td>
+	<td width="1%"><img src="http://www.electronics-expo.com/mas_assets/spacer.gif" border="0" height="135" width="1"></td>
+	<td width="27%">
+			<center><p><a href="https://www.electronics-expo.com/index.php?page=cart" style="text-decoration:none"><img src="http://www.electronics-expo.com/mas_assets/theme/eexpo/images/ShoppingCartIcon.png" border="0">View Cart</a> &nbsp;<a href="http://www.electronics-expo.com/make-a-store/static/customer_service/1.html" style="text-decoration:none"><img src="http://www.electronics-expo.com/mas_assets/theme/eexpo/images/EmailIcon.png" border="0"> Email Us</a> &nbsp;<a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/90304908/?cmd=file&amp;file=visitorWantsToChat&amp;site=90304908&amp;byhref=1&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/Retail/2a" target="chat90304908" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/90304908/?cmd=file&amp;file=visitorWantsToChat&amp;site=90304908&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/Retail/2a&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat90304908','width=475,height=400,resizable=yes');return false;" style="text-decoration:none"><img src="http://www.electronics-expo.com/mas_assets/theme/eexpo/images/LiveChatIcon.png" border="0">&nbsp;Live Chat</a><br><a href="http://www.electronics-expo.com/make-a-store/static/our_nj_stores/1.html" style="text-decoration:none"><img src="http://www.electronics-expo.com/mas_assets/theme/eexpo/images/StoreLocator.png" border="0">Store Locator</a> &nbsp;<a href="http://www.electronics-expo.com/make-a-store/static/flyer/1.html" style="text-decoration:none"><img src="http://www.electronics-expo.com/mas_assets/theme/eexpo/images/WeeklyInsertSubscribe.png" border="0"> Weekly Ad</a></p><img src="http://www.electronics-expo.com/mas_assets/spacer.gif" border="0" height="40" width="1"></center>
 	</td>
 
 </tr>
@@ -105,29 +136,134 @@ window.attachEvent("onload", correctPNG);
 <tbody><tr>
 	<td class="horizontal_left">
 		<div class="horizontal_right">
-		<div class="horizontal_right_adjustment">
-
-			<a href="http://www.electronics-expo.com/make-a-store/category/1000/Televisions-TVs-/1.html">Televisions</a>
-
-			<a href="http://www.electronics-expo.com/make-a-store/category/2000/Audio/1.html">Audio</a>
-
-			<a href="http://www.electronics-expo.com/make-a-store/category/3000/Video/1.html">Video</a>
-
-			<a href="http://www.electronics-expo.com/make-a-store/category/2600/Audio/DJ-Gear/1.html">DJ Gear</a>
-
-			<a href="http://www.electronics-expo.com/make-a-store/category/4000/Cameras-Camcorders/1.html">Cameras &amp; Camcorders</a>
-
-			<a href="http://www.electronics-expo.com/make-a-store/category/5000/Portable-Electronics/1.html">Portable Electronics</a>
-
-			<a href="http://www.electronics-expo.com/make-a-store/category/5500/Mobile-Electronics/1.html">Mobile Electronics</a>
-
-			<a href="http://www.electronics-expo.com/make-a-store/category/6000/Communications/1.html">Communications</a>
-
-			<a href="http://www.electronics-expo.com/make-a-store/category/6500/A/V-Furniture/1.html">A/V Furniture</a>
-
-			<a href="http://www.electronics-expo.com/make-a-store/category/7000/Appliances/1.html">Appliances</a>
-
-			<a href="http://www.electronics-expo.com/make-a-store/category/8000/Accessories/1.html">Accessories</a>
+		<div class="horizontal_right_adjustment" style="background:#000000;">
+			<ul id="sddm">
+			    <li id="sddm"><a href="http://www.electronics-expo.com/make-a-store/category/1000/Televisions-TVs-/1.html" onmouseover="mopen('m1')" onmouseout="mclosetime()">Televisions</a>
+			        <div id="m1" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+			        <a href="http://www.electronics-expo.com/make-a-store/category/1100/Televisions-TVs-/LCD-Flat-Screen-TVs/1.html">LCD Flat Screen TVs</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/1200/Televisions-TVs-/Plasma-TVs/1.html">Plasma TVs</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/1400/Televisions-TVs-/DLP-HDTVs/1.html">DLP HDTVs</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/1300/Televisions-TVs-/Projectors/1.html">Projectors</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/1050/Televisions-TVs-/Under-the-Cabinet-TVs/1.html">Under the Cabinet TVs</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/1820/Televisions-TVs-/LCD-Flat-Screen-TVs/22-Under-LCD/DVD-Combo-LCD-TVs/1.html">DVD Combo LCD TVs</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/8340/Accessories/Audio-Video-Accessories/Remote-Controls/1.html">Remote Controls</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/8200/Accessories/Audio-Video-Accessories/Audio-Video-Cables/1.html">A/V Cables</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/6810/Brackets-Mounts-More/Flat-TV-Mounts/1.html">Mounting Brackets</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/6820/Brackets-Mounts-More/Projector-Mounts/1.html">Projector Mounts</a>
+			        </div>
+			    </li>
+			    <li><a href="http://www.electronics-expo.com/make-a-store/category/2000/Audio/1.html" onmouseover="mopen('m2')" onmouseout="mclosetime()">Audio</a>
+			        <div id="m2" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+			        <a href="http://www.electronics-expo.com/make-a-store/category/2300/Audio/Speakers/1.html">Speakers</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/2250/Audio/Receivers/1.html">Receivers</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/2150/Audio/Home-Theater-Systems-HTIB-/1.html">Home Theater Systems</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/2350/Audio/CD-Players-Recorders/1.html">CD Players &amp; Recorders</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/2075/Audio/Home-Automation/1.html">Home Automation</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/2080/Audio/Digital-Music-System/1.html">Digital Music System</a>
+					<a href="http://www.electronics-expo.com/make-a-store/category/2450/Audio/Satellite-Radio/1.html">Satellite Radio</a>
+					<a href="http://www.electronics-expo.com/make-a-store/category/2256/Audio/Receivers/iPod-Receiver-Docks/1.html">iPod Receiver Docks</a>
+					<a href="http://www.electronics-expo.com/make-a-store/category/2602/Audio/DJ-Gear/DJ-Turntables/1.html">Turntables</a>
+					<a href="http://www.electronics-expo.com/make-a-store/category/5400/Portable-Electronics/Computer-Speakers/1.html">Computer Speakers</a>
+					<a href="http://www.electronics-expo.com/make-a-store/category/6840/Brackets-Mounts-More/Speaker-Brackets/1.html">Speaker Mounts</a>
+					<a href="http://www.electronics-expo.com/make-a-store/category/8204/Accessories/Audio-Video-Accessories/Audio-Video-Cables/Speaker-Wire/1.html">Speaker Wire</a>
+			        </div>
+			    </li>
+			    <li><a href="http://www.electronics-expo.com/make-a-store/category/3000/Video/1.html" onmouseover="mopen('m3')" onmouseout="mclosetime()">Video</a>
+			    	<div id="m3" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+			        <a href="http://www.electronics-expo.com/make-a-store/category/3052/Video/Blu-Ray-Players/1.html">Blu-Ray Players</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/3050/Video/DVD-Players/1.html">DVD Players</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/3060/Video/DVD-Players/DVD-Recorders/1.html">DVD Recorders</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/3250/Video/Digital-Video-Recorders-DVRs-/1.html">Digital Video Recorders</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/3064/Video/Portable-DVD-Players/1.html">Portable DVD Players</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/3200/Video/Satellite-Television/1.html">Satellite Television</a>
+			        </div>
+			    </li>
+			    <li><a href="http://www.electronics-expo.com/make-a-store/category/2600/Audio/DJ-Gear/1.html" onmouseover="mopen('m4')" onmouseout="mclosetime()">DJ Gear</a>
+			        <div id="m4" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+			        <a href="http://www.electronics-expo.com/make-a-store/category/2602/Audio/DJ-Gear/DJ-Turntables/1.html">Turntables</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/2604/Audio/DJ-Gear/DJ-Mixers/1.html">Mixers</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/2606/Audio/DJ-Gear/DJ-CD-Players/1.html">CD Players</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/2614/Audio/DJ-Gear/DJ-Headphones/1.html">DJ Headphones</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/2618/Audio/DJ-Gear/DJ-Digital-Audio-Controllers/1.html">Audio Controllers</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/2612/Audio/DJ-Gear/DJ-Cartridges/1.html">Cartridges</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/7900/Instruments/1.html">Instruments</a>
+			        </div>
+			    </li>
+			    <li><a href="http://www.electronics-expo.com/make-a-store/category/4000/Cameras-Camcorders/1.html" onmouseover="mopen('m5')" onmouseout="mclosetime()">Cameras &amp; Camcorders</a>
+			        <div id="m5" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+			        <a href="http://www.electronics-expo.com/make-a-store/category/4050/Cameras-Camcorders/Cameras/1.html">Digital Cameras</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/4200/Cameras-Camcorders/Camcorders/1.html">Digital Camcorders</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/8500/Cameras-Camcorders/Camera-Camorder-Accessories/1.html">Camera &amp; Camcorder Accessories</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/4500/Cameras-Camcorders/Digital-Photo-Frames/1.html">Digital Photo Frames</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/4400/Cameras-Camcorders/Binoculars/1.html">Binoculars</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/4300/Cameras-Camcorders/Telescopes/1.html">Telescopes</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/8316/Accessories/Audio-Video-Accessories/Recordable-Media/Memory-Cards-Readers/1.html">Memory Cards</a>
+			        </div>
+			    </li>
+			    <li><a href="http://www.electronics-expo.com/make-a-store/category/5000/Portable-Electronics/1.html" onmouseover="mopen('m6')" onmouseout="mclosetime()">Portable Electronics</a>
+			        <div id="m6" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+			        <a href="http://www.electronics-expo.com/make-a-store/category/5350/Portable-Electronics/Portable-CD-Players/1.html">Portable CD Players</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/3064/Video/Portable-DVD-Players/1.html">Portable DVD Players</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/5150/Portable-Electronics/Portable-Radios/1.html">Portable Radios</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/5250/Portable-Electronics/Voice-Recorders/1.html">Voice Recorders</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/2100/Accessories/Portable-Electronics-Accessories/Tabletop-Clock-Radios/1.html">Clock Radios</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/5050/Portable-Electronics/Boomboxes/1.html">Boomboxes</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/5400/Portable-Electronics/Computer-Speakers/1.html">Computer Speakers</a>
+			        </div>
+			    </li>
+			    <li><a href="http://www.electronics-expo.com/make-a-store/category/5300/MP3-iPods/1.html" onmouseover="mopen('m11')" onmouseout="mclosetime()">MP3 &amp; iPods</a>
+					<div id="m11" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+					<a href="http://www.electronics-expo.com/make-a-store/category/5310/MP3-iPods/MP3-Players-/-iPods/1.html">MP3 Players / iPods</a>
+					<a href="http://www.electronics-expo.com/make-a-store/category/2020/MP3-iPods/iPod-Docking-Stations/1.html">iPod Docking Station</a>
+					<a href="http://www.electronics-expo.com/make-a-store/category/8920/Accessories/Portable-Electronics-Accessories/Headphones/1.html">Headphones</a>
+					<a href="http://www.electronics-expo.com/make-a-store/category/5315/MP3-iPods/iPod-Accessories/1.html">iPod Accessories</a>
+					<a href="http://www.electronics-expo.com/make-a-store/category/5320/MP3-iPods/iPod-Cases/1.html">iPod Cases</a>
+					<a href="http://www.electronics-expo.com/make-a-store/category/5325/MP3-iPods/iPhone-Accessories/1.html">iPhone Accessories</a>
+					<a href="http://www.electronics-expo.com/make-a-store/category/2256/Audio/Receivers/iPod-Receiver-Docks/1.html">iPod Receiver Docks</a>
+					<a href="http://www.electronics-expo.com/make-a-store/category/5330/MP3-iPods/MP3-Player-Accessories/1.html">MP3 Accessories</a>
+					<a href="http://www.electronics-expo.com/make-a-store/category/5335/MP3-iPods/Cables-Adapters/1.html">Cables &amp; Adapters</a>
+					<a href="http://www.electronics-expo.com/make-a-store/category/5340/MP3-iPods/FM-Transmitters/1.html">FM Transmitters</a>
+					</div>
+			    </li>
+			    <li><a href="http://www.electronics-expo.com/make-a-store/category/5500/GPS-Automotive/1.html" onmouseover="mopen('m7')" onmouseout="mclosetime()">GPS &amp; Automotive</a>
+			        <div id="m7" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+			        <a href="http://www.electronics-expo.com/make-a-store/category/5650/GPS-Automotive/GPS-Navigation/1.html">GPS &amp; Navigation</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/5525/GPS-Automotive/GPS-Accessories/1.html">GPS Accessories</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/2450/Audio/Satellite-Radio/1.html">Satellite Radio</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/5750/GPS-Automotive/Radar-Detectors/1.html">Radar Detectors</a>
+			        </div>
+			    </li>
+			    <li><a href="http://www.electronics-expo.com/make-a-store/category/6000/Communications/1.html" onmouseover="mopen('m8')" onmouseout="mclosetime()">Communications</a>
+			        <div id="m8" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+			        <a href="http://www.electronics-expo.com/make-a-store/category/6050/Communications/Telephones/1.html">Telephones</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/6062/Communications/Bluetooth-Headsets/1.html">Bluetooth Headsets</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/6058/Communications/Telephones/Wired-Headsets/1.html">Wired Headsets</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/6200/Communications/Cellular-Phones/1.html">Cellular Phones</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/6250/Communications/Office-Machines/1.html">Office Machines</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/6100/Communications/Two-Way-Radios/1.html">Two-Way Radios</a>
+			        </div>
+			    </li>
+			    <li><a href="http://www.electronics-expo.com/make-a-store/category/8000/Accessories/1.html" onmouseover="mopen('m9')" onmouseout="mclosetime()">Accessories</a>
+			        <div id="m9" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+			        <a href="http://www.electronics-expo.com/make-a-store/category/8340/Accessories/Audio-Video-Accessories/Remote-Controls/1.html">Remote Controls</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/8300/Accessories/Audio-Video-Accessories/Recordable-Media/1.html">Recordable Media</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/8200/Accessories/Audio-Video-Accessories/Audio-Video-Cables/1.html">A/V Cables</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/8920/Accessories/Portable-Electronics-Accessories/Headphones/1.html">Headphones</a>
+					<a href="http://www.electronics-expo.com/make-a-store/category/8940/Accessories/Portable-Electronics-Accessories/Batteries-Chargers/1.html">Batteries &amp; Chargers</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/8960/Accessories/Portable-Electronics-Accessories/Portable-Carrying-Cases/1.html">Carrying Cases</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/9030/Accessories/Video-Game-Accesories/1.html">Video Game Accessories</a>
+			        </div>
+			    </li>
+			    <li><a href="http://www.electronics-expo.com/make-a-store/category/6500/A/V-Furniture/1.html" onmouseover="mopen('m10')" onmouseout="mclosetime()">Furniture</a>
+			        <div id="m10" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+			        <a href="http://www.electronics-expo.com/make-a-store/category/6554/A/V-Furniture/TV-Stands/1.html">TV Stands</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/6556/A/V-Furniture/Speaker-Stands/1.html">Speaker Stands</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/6552/A/V-Furniture/Audio-Component-Racks/1.html">Audio Racks</a>
+			        <a href="http://www.electronics-expo.com/make-a-store/category/6800/Brackets-Mounts-More/1.html">Brackets</a>
+			        </div>
+			    </li>
+			</ul>
+			<div style="clear:both"></div>
 		</div>
 		</div>
 	</td>
@@ -135,145 +271,28 @@ window.attachEvent("onload", correctPNG);
 </tbody></table>
 <table cellpadding="0" cellspacing="0" border="0" width="951">
 <tbody><tr>
-	<td valign="top" width="165" id="prn_invisible">
-		<div class="left_block" style="width:165px;">
-		<div class="left_block_top">
-		<div class="left_block_bottom">
-			<!-- BEGIN LivePerson Button Code --><div><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left"></td><td align="left"><a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/90304908/?cmd=file&amp;file=visitorWantsToChat&amp;site=90304908&amp;byhref=1&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/Retail/2a" target="chat90304908" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/90304908/?cmd=file&amp;file=visitorWantsToChat&amp;site=90304908&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/Retail/2a&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat90304908','width=475,height=400,resizable=yes');return false;"><img src="http://server.iad.liveperson.net/hc/90304908/?cmd=repstate&amp;site=90304908&amp;channel=web&amp;&amp;ver=1&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/Retail/2a" name="hcIcon" border="0"></a></td></tr>
-			</tbody></table>
-</div><!-- END LivePerson Button code -->
-			<h1>ONLINE STORE</h1>
-
-				
-	<div class="sub">
-
-	
-				<a class=" first root" href="http://www.electronics-expo.com/make-a-store/category/6500/A/V-Furniture/1.html">A/V Furniture</a>
-
-				
-	
-				<a class=" root" href="http://www.electronics-expo.com/make-a-store/category/8000/Accessories/1.html">Accessories</a>
-
-				
-	
-				<a class=" root" href="http://www.electronics-expo.com/make-a-store/category/7000/Appliances/1.html">Appliances</a>
-
-				
-	
-				<a class=" root" href="http://www.electronics-expo.com/make-a-store/category/2000/Audio/1.html">Audio</a>
-
-				
-	
-				<a class=" root" href="http://www.electronics-expo.com/make-a-store/category/6800/Brackets-Mounts-More/1.html">Brackets, Mounts &amp; More</a>
-
-				
-	
-				<a class=" root" href="http://www.electronics-expo.com/make-a-store/category/4000/Cameras-Camcorders/1.html">Cameras &amp; Camcorders</a>
-
-				
-	
-				<a class=" root" href="http://www.electronics-expo.com/make-a-store/category/6000/Communications/1.html">Communications</a>
-
-				
-	
-				<a class=" root" href="http://www.electronics-expo.com/make-a-store/category/7800/Gift-Cards/1.html">Gift Cards</a>
-
-				
-	
-				<a class=" root" href="http://www.electronics-expo.com/make-a-store/category/9000/Home-Products/1.html">Home Products</a>
-
-				
-	
-				<a class=" root" href="http://www.electronics-expo.com/make-a-store/category/7900/Instruments/1.html">Instruments</a>
-
-				
-	
-				<a class=" root" href="http://www.electronics-expo.com/make-a-store/category/9031/Media-Storage/1.html">Media Storage</a>
-
-				
-	
-				<a class=" root" href="http://www.electronics-expo.com/make-a-store/category/5500/Mobile-Electronics/1.html">Mobile Electronics</a>
-
-				
-	
-				<a class=" root" href="http://www.electronics-expo.com/make-a-store/category/5000/Portable-Electronics/1.html">Portable Electronics</a>
-
-				
-	
-				<a class=" root" href="http://www.electronics-expo.com/make-a-store/category/1000/Televisions-TVs-/1.html">Televisions (TVs) </a>
-
-				
-	
-				<a class=" root" href="http://www.electronics-expo.com/make-a-store/category/3000/Video/1.html">Video</a>
-
-				
-	
-				<a class=" last root" href="http://www.electronics-expo.com/make-a-store/category/7700/Warranties/1.html">Warranties</a>
-
-				
-	
-	</div>
-
-
-			<h1>ACCOUNTS</h1>
-			<a href="https://www.electronics-expo.com/index.php?page=myhistory" class="plain">My Account</a>
-			<a href="https://www.electronics-expo.com/index.php?page=wishlist" class="plain">My Wishlist</a>
-			<a href="https://www.electronics-expo.com/index.php?page=myorder" class="plain">Track My Order</a>
-			<a href="https://www.electronics-expo.com/index.php?page=register" class="plain">Register for FREE!</a>
-			<a href="https://www.electronics-expo.com/index.php?page=login&amp;action=logout" class="plain">Log-out</a>
-
-		</div>
-		</div>
-		</div>
-
-
-
-			<div style="margin-top:10px;"><a href="http://www.electronics-expo.com/make-a-store/category/clearance/Clearance/1.html"><img src="/mas_assets/theme/eexpo/images/part-search22.gif"></a></div>
-                        <div style="margin-top:10px;"><a href="http://www.electronics-expo.com/movies/video.html" target="_blank"><img src="http://www.electronics-expo.com/mas_assets/theme/eexpo/images/EXPOCOM.jpg"></a> </div>
-
-    	<div>
-							<a class="right_ban" href="http://www.electronics-expo.com/make-a-store/static/flyer/1.html"><img src="/mas_assets/theme/eexpo/images/promos/expo_insert_main.jpg"></a><br>
-							<a href="http://www.electronics-expo.com/make-a-store/static/testing2/1.html"><img src="/mas_assets/theme/eexpo/images/promos/expoinstalls.gif"></a><br><br>
-										<a href="http://www.electronics-expo.com/make-a-store/static/testpromo2/1.html"><img src="/mas_assets/theme/eexpo/images/apply.jpg"></a>
-
-		</div>
-	</td>
-	<td valign="top" class="content" width="786">
+	<td valign="top" class="content" width="951">
 
 				<div class="right_front_position">
 		<div class="right_column">
-		<div class="right_bord">
-		<object width="167" height="158">
-<param name="movie" value="PreBlackFriday.swf">
-<embed src="http://www.electronics-expo.com/Flash/PreBlackFriday.swf" width="158" height="180" allowscriptaccess="always">
-
-<param name="movie" value="DISH.swf">
-<embed src="http://www.electronics-expo.com/Flash/DISH.swf" width="167" height="158" allowscriptaccess="always">
-
-</object>
-        <h1>BRAND SHOWCASE</h1>
-					<center><a href="http://www.electronics-expo.com/index.php?page=static&amp;id=sonybeta"><img src="/mas_assets/theme/eexpo/images/SonyBRANDSHOWCASE.png" border="0"></a><hr>
-					<a href="http://www.electronics-expo.com/index.php?page=static&amp;id=samsung"><img src="/mas_assets/theme/eexpo/images/SamsungBRANDSHOWCASE.png" border="0"></a><hr>
-					<a href="http://www.electronics-expo.com/index.php?page=static&amp;id=bose"><img src="/mas_assets/theme/eexpo/images/BoseBRANDSHOWCASE.png" border="0"></a><hr>
-					<a href="http://www.electronics-expo.com/index.php?page=static&amp;id=xmbeta"><img src="/mas_assets/theme/eexpo/images/XmBRANDSHOWCASE.png" border="0"></a><hr>
-					<a href="http://www.electronics-expo.com/index.php?page=static&amp;id=logitech"><img src="/mas_assets/theme/eexpo/images/Logitech.png" border="0"></a><hr>
-					<a href="http://www.electronics-expo.com/index.php?page=static&amp;id=olympus"><img src="/mas_assets/theme/eexpo/images/Olympus.png" border="0"></a><hr>
-					<a href="http://www.electronics-expo.com/index.php?page=static&amp;id=tomtom"><img src="/mas_assets/theme/eexpo/images/TomTom.png" border="0"></a><hr>
-					<a href="http://www.electronics-expo.com/index.php?page=static&amp;id=toshiba"><img src="/mas_assets/theme/eexpo/images/Toshiba.png" border="0"></a><hr>
-					<a href="http://www.electronics-expo.com/index.php?page=static&amp;id=nikon"><img src="/mas_assets/theme/eexpo/images/Nikon.png" border="0"></a><hr>
-			<img src="/mas_assets/theme/eexpo/images/AuthDealerLogos2.gif"></center>
-			<hr>
-
-			<!--<a href="#">Warranties</a>-->
-	            <!--<a class="right_ban" style="margin-bottom:3px;" href="http://www.electronics-expo.com/make-a-store/static/customer_service/1.html"><img src="/mas_assets/theme/eexpo/images/customer_assistance.jpg" style="border:1px solid #E8E8E8;"></a>-->
-			<!-- <a class="right_ban" href="http://www.electronics-expo.com/make-a-store/static/panasonic_double_play_summer/1.html"><img src="/mas_assets/theme/eexpo/images/promos/DoublePlayButton.gif"></a>
-			<hr>
-			 <a class="right_ban" href="http://www.electronics-expo.com/make-a-store/search/PINK/results/1.html"><img src="/mas_assets/theme/eexpo/images/think_pink.jpg"></a>
-			<hr>
-			<a class="right_ban" href="http://www.emusic.com/electronicsexpo" target="_blank"><img src="/mas_assets/theme/eexpo/images/expo_emusic_50_free_downloads.jpg"></a><br>
-	         	<hr> -->
-			<a href="http://www.monstercable.com/hdmi/dealers2/default.asp?DealerID=303" target="_blank"><img src="/mas_assets/theme/eexpo/images/not_all_cables_R_equal.jpg" width="160" height="140"></a>
-		</div><!-- end of right bord-->
+		<center>
+		<form action="http://www.electronics-expo.com/make-a-store/static/email/1.html" method="post"><table cellpadding="0" cellspacing="0" border="0" width="250" style="background: url(http://www.electronics-expo.com/mas_assets/theme/eexpo/images/SignUpHere.jpg) 0 0; background-repeat: no-repeat;"><tbody><tr><td width="15%"><img src="http://www.electronics-expo.com/mas_assets/theme/eexpo/images/spacer.gif" height="108" width="1"></td><td width="85%"><br><br><br>
+					<div class="adjustment">
+					<div class="emailback"><input type="text" class="email-transparent" name="email" onfocus="if
+					(this.value==this.defaultValue) this.value='';"><input type="image" src="http://www.electronics-expo.com/mas_assets/theme/eexpo/images/subscribe_btn.gif" class="searchbtn"></div>
+					</div></td></tr></tbody></table></form><a href="http://www.electronics-expo.com/make-a-store/category/clearance/Clearance/1.html"><img src="http://www.electronics-expo.com/mas_assets/theme/eexpo/images/SideBarLastCall.jpg" border="0"></a>
+		<a href="http://www.electronics-expo.com/make-a-store/static/testing2/1.html"><img src="http://www.electronics-expo.com/mas_assets/theme/eexpo/images/SideBarXtecs.jpg" border="0"></a><a href="http://www.resellerratings.com/survey.pl?seller_id=6612" target="_blank"><img src="http://www.electronics-expo.com/mas_assets/theme/eexpo/images/SurveyButton.png" border="0"></a></center>
+		<center><h1>BRAND SHOWCASE</h1>
+					<a href="http://www.electronics-expo.com/index.php?page=static&amp;id=bose"><img src="http://www.electronics-expo.com/mas_assets/theme/eexpo/images/BoseBRANDSHOWCASE.png" border="0"></a><br><br>
+					<a href="http://www.electronics-expo.com/index.php?page=static&amp;id=logitech"><img src="http://www.electronics-expo.com/mas_assets/theme/eexpo/images/Logitech.png" border="0"></a><br><br>
+					<a href="http://www.electronics-expo.com/index.php?page=static&amp;id=nikon"><img src="http://www.electronics-expo.com/mas_assets/theme/eexpo/images/Nikon.png" border="0"></a><br><br>
+					<a href="http://www.electronics-expo.com/index.php?page=static&amp;id=olympus"><img src="http://www.electronics-expo.com/mas_assets/theme/eexpo/images/Olympus.png" border="0"></a><br><br>
+					<a href="http://www.electronics-expo.com/index.php?page=static&amp;id=tomtom"><img src="http://www.electronics-expo.com/mas_assets/theme/eexpo/images/TomTom.png" border="0"></a><br><br>
+					<a href="http://www.electronics-expo.com/index.php?page=static&amp;id=toshiba"><img src="http://www.electronics-expo.com/mas_assets/theme/eexpo/images/Toshiba.png" border="0"></a><br><br>
+					<a href="http://www.electronics-expo.com/index.php?page=static&amp;id=samsung"><img src="http://www.electronics-expo.com/mas_assets/theme/eexpo/images/SamsungBRANDSHOWCASE.png" border="0"></a><br><br>
+					<a href="http://www.electronics-expo.com/index.php?page=static&amp;id=sonybeta"><img src="http://www.electronics-expo.com/mas_assets/theme/eexpo/images/SonyBRANDSHOWCASE.png" border="0"></a><br><br>
+					<a href="http://www.electronics-expo.com/index.php?page=static&amp;id=xmbeta"><img src="http://www.electronics-expo.com/mas_assets/theme/eexpo/images/XmBRANDSHOWCASE.png" border="0"></a>
+				</center>
 		</div>
 	        </div>
 		
@@ -349,33 +368,68 @@ We reserve the right to change this policy at any time by posting it on our web 
 </div>
 -->
 <div class="footer">
-	<div class="footer_nav">| <a href="http://www.electronics-expo.com/make-a-store/static/about_us/1.html">About Expo</a> |
-	<a href="http://www.electronics-expo.com/make-a-store/static/about_you/1.html">It's All About You!</a> |
-	<a href="http://www.electronics-expo.com/make-a-store/static/privacy_policy/1.html">Privacy Policy</a> |
-	<a href="https://www.electronics-expo.com/index.php?page=myorder">Order Tracking</a> |
-	<a href="https://www.electronics-expo.com/index.php?page=myhistory">My Account</a> |
-	<a href="http://www.electronics-expo.com/make-a-store/static/customer_service/1.html">Customer Service</a> |
-	<a href="http://www.electronics-expo.com/make-a-store/static/our_nj_stores/1.html">Our NJ Stores</a> |
-	<a href="http://www.electronics-expo.com/make-a-store/static/flyer/1.html">Expo Weekly Ad</a> |</div>
-	Copyright © 2008 Electronics-Expo.com
-</div>
-
-<div align="center" id="prn_invisible"><center>
-	<p>
-	  <!-- START SCANALERT CODE -->
-   <img src="/mas_assets/theme/eexpo/images/price_grabber.gif" style="border-right:1px solid #dddddd;">
-	<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.electronics-expo.com"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.electronics-expo.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
-	<link rel="stylesheet" href="https://checkout.google.com/seller/accept/s.css" type="text/css" media="screen">
-		  						<script type="text/javascript" src="https://checkout.google.com/seller/accept/j.js"></script>
-		  						<script type="text/javascript">showMark(1);</script>
-<noscript><img src="https://checkout.google.com/seller/accept/images/st.gif" width="92" height="88" alt="Google Checkout Acceptance Mark" /></noscript>
-      <!-- END SCANALERT CODE -->
-    </p>
-		<center><img border="0" src="http://www.yourhitstats.com/web_store_builder-3694028.png"></center>
-</center></div>
+	<table width="951" cellpadding="0" cellspacing="0" border="0" height="24">
+		<tbody><tr>
+			<td style="background: url(http://www.electronics-expo.com/mas_assets/theme/eexpo/images/GreenGradientBar.jpg) 0 0;" width="50%">
+			<p align="left"><font color="white"><b> "AUTHORIZED DEALER For Everything We Sell!"</b></font></p>
+			</td>
+			<td style="background: url(http://www.electronics-expo.com/mas_assets/theme/eexpo/images/GreenGradientBar.jpg) 0 0;" width="50%">
+			</td>
+		</tr>
+	</tbody></table>
+	<table width="951" cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td width="25%">
+			<p>
+				<b>Customer Service</b><br><br>
+				<a href="https://www.electronics-expo.com/index.php?page=myhistory">My Account</a><br>
+				<a href="https://www.electronics-expo.com/index.php?page=myorder">Track Order</a><br>
+				<a href="http://www.electronics-expo.com/make-a-store/static/store_pickup/1.html">Buy Online Pick Up in Store</a><br>
+				<a href="http://www.electronics-expo.com/make-a-store/static/rebatecenter/1.html">Rebate Center</a><br>
+				<a href="http://www.electronics-expo.com/make-a-store/static/customer_service/1.html">Help Desk</a><br>
+				<a href="mailto:cs@electronics-expo.com">Email Customer Support</a><br>
+				<a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/90304908/?cmd=file&amp;file=visitorWantsToChat&amp;site=90304908&amp;byhref=1&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/Retail/2a" target="chat90304908" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/90304908/?cmd=file&amp;file=visitorWantsToChat&amp;site=90304908&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/Retail/2a&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat90304908','width=475,height=400,resizable=yes');return false;">Live Online Chat</a>
+			</p>
+			</td>
+			<td width="25%">
+			<p>
+				<b>Company Info</b><br><br>
+				<a href="http://www.electronics-expo.com/make-a-store/static/about_us/1.html">About Electronics Expo</a><br>
+				<a href="http://www.electronics-expo.com/make-a-store/static/NowHiring/1.html">Career Opportunities</a><br>
+				<a href="http://www.electronics-expo.com/make-a-store/static/about_you/1.html">It's All About You</a><br>
+				<a href="http://www.electronics-expo.com/make-a-store/static/testing2/1.html">Xtecs Home Theater Install</a><br>
+				<a href="http://www.electronics-expo.com/make-a-store/static/our_nj_stores/1.html">Store Locator</a><br>
+				<a href="http://www.electronics-expo.com/make-a-store/static/flyer/1.html">Expo Weekly Ad</a><br>
+				<a href="http://www.electronics-expo.com/movies/video.html" target="_blank">View Our TV Commercial</a><br>
+			</p>
+			</td>
+			<td width="25%">
+			<p>
+				<b>Safe &amp; Secure Shopping</b><br><br>
+				<a href="http://www.electronics-expo.com/make-a-store/static/privacy_policy/1.html">Privacy Policy</a><br>
+				<a href="http://www.electronics-expo.com/make-a-store/static/customer_service/1.html#25">Anti-Fraud Verification<br>
+				</a><a href="http://www.electronics-expo.com/make-a-store/static/customer_service/1.html#7">Pricing Policy<br>
+				</a><a href="https://checkout.google.com/buyer/tour.html">Google Shopping Cart</a><br><br><br><br>
+			</p>
+			</td>
+			<td width="25%">
+				<div align="center" id="prn_invisible"><center>
+				<p>
+					<!-- START SCANALERT CODE -->
+				   <img src="/mas_assets/theme/eexpo/images/price_grabber.gif">
+					<!--<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.electronics-expo.com"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.electronics-expo.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>-->
+					<link rel="stylesheet" href="https://checkout.google.com/seller/accept/s.css" type="text/css" media="screen">
+					<script type="text/javascript" src="https://checkout.google.com/seller/accept/j.js"></script>
+					<script type="text/javascript">showMark(1);</script>
+				<noscript><img src="http://www.electronics-expo.com/mas_assets/theme/eexpo/images/GoogleCheckout.png" alt="Google Checkout Acceptance Mark" /></noscript>
+				      <!-- END SCANALERT CODE -->
+    			</p></center></div>
+			</td>
+		</tr>
+	</tbody></table>
 
 </div><!-- end div website-->
-</center>
+</div></center>
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
