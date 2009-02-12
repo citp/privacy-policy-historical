@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycorporation.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216061658id_/http%3A//mycorporation.intuit.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycorporation.com privacy policy that was archived on 2009-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090212140802id_/http%3A//mycorporation.intuit.com/privacy.jsp) for the most accurate reproduction.*
 
 # None
 
