@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmafighting.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216024213id_/http%3A//www.mmafighting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmafighting.com privacy policy that was archived on 2009-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090212141256id_/http%3A//www.mmafighting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MMAFighting.com
 
