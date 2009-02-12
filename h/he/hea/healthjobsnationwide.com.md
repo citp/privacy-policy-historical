@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthjobsnationwide.com privacy policy that was archived on 2008-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080929183157id_/http%3A//www.healthjobsnationwide.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthjobsnationwide.com privacy policy that was archived on 2009-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090213000827id_/http%3A//www.healthjobsnationwide.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Health Jobs Nationwide | HealthJobsNationwide.com
 
