@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinecurry.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219132251id_/http%3A//www.cinecurry.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinecurry.com privacy policy that was archived on 2009-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090213222745id_/http%3A//www.cinecurry.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | CineCurry
 
