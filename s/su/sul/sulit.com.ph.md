@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sulit.com.ph privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221074517id_/http%3A//www.sulit.com.ph/index.php/faq%2Bview/category/11/System%2BRules%2Band%2BPolicies%23f61) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sulit.com.ph privacy policy that was archived on 2009-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090213145821id_/http%3A//www.sulit.com.ph/index.php/faq%2Bview/category/11/System%2BRules%2Band%2BPolicies%23f61) for the most accurate reproduction.*
 
-# Help Center - Sulit.com.ph (Free Ads Ba? Sulit Na!) Online Classified Ads Philippines
+# Help Center - Sulit.com.ph : Sulit.com.ph
 
 **Introduction**   
 Sulit.com.ph respects each individual’s right to personal privacy.  We will collect and use information through our Web site only in the ways disclosed in this statement.  This statement applies solely to information collected at Sulit.com.ph’s Web site.
