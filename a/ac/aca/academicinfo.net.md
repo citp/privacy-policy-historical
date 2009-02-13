@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academicinfo.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216070831id_/http%3A//www.academicinfo.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academicinfo.net privacy policy that was archived on 2009-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090213172225id_/http%3A//www.academicinfo.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Academic Info Privacy Statement
 
