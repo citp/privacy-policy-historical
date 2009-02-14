@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the iscripts.com privacy policy that was archived on 2008-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081211123249id_/http%3A//www.iscripts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iscripts.com privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214201043id_/http%3A//www.iscripts.com/privacy.php) for the most accurate reproduction.*
 
 # iScripts.com, paid and free opensource PHP web scripts and software. Create turnkey web business in social networking, virtual mall, online swapping, image hosting, site builder using our web apps
 
-|  [ ](http://www.iscripts.com/index.php) |  |  [ ](http://www.iscripts.com/productlisting.php) |  |  [ ](http://www.iscripts.com/servicespage.php) |  |  [ ](http://www.iscripts.com/listshowcases.php) |  |  [ ](http://www.iscripts.com/support.php) |  |  [ ](http://www.iscripts.com/contactpage.php) |  |  [ ](http://www.iscripts.com/affiliateprogram.php) |  |  [ ](http://www.iscripts.com/partnerprogram.php) |  |  [ ](http://www.iscripts.com/aboutus.php) |   
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-  
-|   |  |   
+|  |   |  | [](http://www.iscripts.com/support/)  
 ---|---|---|---  
   
 We recognize the importance of protecting the privacy of personal information about our customers. Personal information includes all of the personally identifying information that is provided to us. We are sensitive to these privacy interests and believes that protecting valuable personal/financial information is one of our most significant responsibilities. 
