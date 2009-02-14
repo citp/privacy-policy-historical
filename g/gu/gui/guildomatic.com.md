@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guildomatic.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165229id_/http%3A//www.guildomatic.com/meta/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildomatic.com privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214204121id_/http%3A//www.guildomatic.com/meta/privacy) for the most accurate reproduction.*
 
 # Guildomatic : Guildomatic Privacy Policy
 
