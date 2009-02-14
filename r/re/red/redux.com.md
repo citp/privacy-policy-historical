@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redux.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220002432id_/http%3A//www.redux.com/about.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redux.com privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214205114id_/http%3A//www.redux.com/about-privacy) for the most accurate reproduction.*
 
 # Redux Privacy Policy
 
@@ -118,7 +118,7 @@ The Sites and use of the Services are not directed to children under twenty-one 
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, please contact us at privacy@redux.com or write to us at: Redux, Inc. Attn: Privacy Officer, 2030 Addison Street, Suite 620, Berkeley, CA 94704.
+If you have any questions about this Privacy Policy, please contact us at privacy@redux.com or write to us at: Redux, Inc. Attn: Privacy Officer, 2054 University Suite 200, Berkeley, CA 94704.
 
 **Last Updated: April 3, 2008**
 
