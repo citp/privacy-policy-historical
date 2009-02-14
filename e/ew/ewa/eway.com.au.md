@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eway.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216111954id_/http%3A//www.eway.com.au/Company/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eway.com.au privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214085948id_/http%3A//www.eway.com.au/Company/About/Privacy.aspx) for the most accurate reproduction.*
 
 # eWAY Privacy Policy - eCommerce Payment Gateway Accepting Online Credit Card Payments
 
@@ -36,7 +36,7 @@ We use cookies in the following ways:
 
 When you register for any of **eWAY** 's services, we use cookies to make it easier for you to navigate through and complete the registration form. 
 
-When you login to the **eWAY**[Administration area](https://web.archive.org/web/20081216111954id_/http%3A//www.eway.com.au/Access/Redirect.aspx?RedirectURL=https%3a%2f%2fwww.eway.com.au%2fAccess%2fLogin%2fDefault.aspx "eWAY - Business Center") , we use cookies to easily authorise your credentials as you navigate through our secure pages. 
+When you login to the **eWAY**[Administration area](https://web.archive.org/web/20090214085948id_/http%3A//www.eway.com.au/Access/Redirect.aspx?RedirectURL=https%3a%2f%2fwww.eway.com.au%2fAccess%2fLogin%2fDefault.aspx "eWAY - Business Center") , we use cookies to easily authorise your credentials as you navigate through our secure pages. 
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as our administration area, may be limited. 
 
