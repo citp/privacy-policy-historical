@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metacafe.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218112851id_/http%3A//www.metacafe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metacafe.com privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214085822id_/http%3A//www.metacafe.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,4 +63,5 @@ Third Parties' Practices. This Privacy Policy does not cover the information pra
 
 The Website is hosted in the United States. If you are accessing the Website from a jurisdiction with privacy laws or regulations that differ from United States laws, please be advised that through your continued use of the Website, you are transferring your personal information to the United States and you consent to that transfer.
 
-Last updated: October 30th, 2006.
+Last updated: October 30th, 2006.  
+
