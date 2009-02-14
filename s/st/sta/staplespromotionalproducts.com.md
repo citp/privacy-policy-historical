@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staplespromotionalproducts.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216052645id_/http%3A//www.staplespromotionalproducts.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staplespromotionalproducts.com privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214214239id_/http%3A//www.staplespromotionalproducts.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Staples Promotional Products Privacy Policy
 
@@ -34,7 +34,7 @@ Except as otherwise described, your personal information will not be shared outs
 
 Update Your Personal Information at Any Time
 
-Information is collected by Staples Promotional Products and stored at Staples Promotional Products. You can review and edit your personal information on StaplesPromotionalProducts.com by clicking on [My Account](https://web.archive.org/web/20081216052645id_/http%3A//www.staplespromotionalproducts.com/MyAccount/MyAccount.aspx). You can also reach us at the following address and phone number:
+Information is collected by Staples Promotional Products and stored at Staples Promotional Products. You can review and edit your personal information on StaplesPromotionalProducts.com by clicking on [My Account](https://web.archive.org/web/20090214214239id_/http%3A//www.staplespromotionalproducts.com/MyAccount/MyAccount.aspx). You can also reach us at the following address and phone number:
 
 **Staples Promotional Products  
 7500 W. 110th Street  
