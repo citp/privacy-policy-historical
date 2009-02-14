@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comingsoon.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012527id_/http%3A//www.comingsoon.net/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comingsoon.net privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214232815id_/http%3A//www.comingsoon.net/policy.php) for the most accurate reproduction.*
 
 # ComingSoon.net - Privacy Policy
 
