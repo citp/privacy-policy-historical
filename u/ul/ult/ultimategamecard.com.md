@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimategamecard.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217071005id_/http%3A//www.ultimategamecard.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimategamecard.com privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214205522id_/http%3A//www.ultimategamecard.com/privacy.php) for the most accurate reproduction.*
 
 # Ultimate Game Card: Privacy Statement
 
@@ -68,11 +68,11 @@ This Web site takes every precaution to protect our users’ information.
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees or contractors who need the information to perform a specific job (for example, our account management service representatives are granted access to personally identifiable information. Our employees or contractors must use password-protected screen-savers when they leave their desk unattended. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. At the time of hire and every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users’ information is protected. Finally, the servers that store personally identifiable information are in a secure environment, in a locked facility. 
 
-If users have any questions about the security at our Web site, users can send an email to us through our [Contact Form.](https://web.archive.org/contact_us.php)
+If users have any questions about the security at our Web site, users can send an email to us through our [Contact Form.](https://web.archive.org/contact_us.php?PHPSESSID=s5nn88bougrqlgqhh3bhquo8v0)
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so our users are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.  
 If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner.
 
 **Contact Information**  
-If users have any questions or suggestions regarding our privacy policy, please use our [Contact Form.](https://web.archive.org/contact_us.php)
+If users have any questions or suggestions regarding our privacy policy, please use our [Contact Form.](https://web.archive.org/contact_us.php?PHPSESSID=s5nn88bougrqlgqhh3bhquo8v0)
