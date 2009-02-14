@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burrp.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217093938id_/http%3A//www.burrp.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burrp.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215004316id_/http%3A//www.burrp.com/privacy-policy.html) for the most accurate reproduction.*
 
 # burrp! - Privacy Statement
 
@@ -6,7 +6,7 @@ burrp! is an online application that helps people entertainment listings and loc
 
 ## 1\. Information We Collect 
 
-burrp! collects user submitted account information such as name and email address to identify you and send you notifications related to the use of the service. burrp! also collects user submitted location information such as city, state or zip. burrp! also collects user submitted photos, reviews, and ratings of entertainment listings, local businesses and service providers. Some information collected is not explicitly submitted by the user; we log your browser-type related information, IP address, requested URL, referring URL, and timestamp. 
+burrp! collects user submitted account information such as name, email address and mobile phone number to identify you and send you notifications related to the use of the service. burrp! also collects user submitted location information such as city, state or zip. burrp! also collects user submitted photos, reviews, and ratings of entertainment listings, local businesses and service providers. Some information collected is not explicitly submitted by the user; we log your browser-type related information, IP address, requested URL, referring URL, and timestamp. 
 
 ## 2\. How We Use Your Information 
 
