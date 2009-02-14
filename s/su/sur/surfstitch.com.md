@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfstitch.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020006id_/http%3A//www.surfstitch.com/index.cfm/a/article.show/artid/50) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfstitch.com privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214142134id_/http%3A//www.surfstitch.com/index.cfm/a/article.show/artid/50) for the most accurate reproduction.*
 
 # SurfStitch - Online Surf Gear
 
