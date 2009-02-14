@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnet.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014906id_/http%3A//www.cnet.com.au/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnet.com.au privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214220221id_/http%3A//www.cnet.com.au/services/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CNET Australia
 
