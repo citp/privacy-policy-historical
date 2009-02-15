@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pageonce.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075346id_/http%3A//www.pageonce.com/privacy_and_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pageonce.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215231152id_/http%3A//www.pageonce.com//privacy_and_security.html) for the most accurate reproduction.*
 
 # Pageonce Privacy Policy: account protection, Personal Productivity Assistant application for iPhone and BlackBerry, mobile online account management, ID theft, ID protection, account fraud protection
 
