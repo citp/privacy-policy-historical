@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the troostwijkauctions.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165544id_/http%3A//www.troostwijkauctions.com/UK/Privacy%2520Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the troostwijkauctions.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215032214id_/http%3A//www.troostwijkauctions.com/UK/Privacy%2520Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Troostwijk Auctions and Valuations
 
