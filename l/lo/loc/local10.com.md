@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the local10.com privacy policy that was archived on 2007-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071008162147id_/http%3A//www.local10.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the local10.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215172930id_/http%3A//www.justnews.com/privacy) for the most accurate reproduction.*
 
-# Local10.com - Privacy
+# JustNews.com - Privacy
 
-Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.Local10.com](http://www.local10.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means.
+**Internet Broadcasting Systems Private Policy:**  
+Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.JustNews.com](http://www.justnews.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means.
 
 **Information Collection and Use**  
 This website makes use of browser "cookies". Cookies are files written to a user's hard disk and read by the server programs to inform a website if the user has previously visited that site. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. We often use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our website, cookies received with ads are not being collected by us and we do not have access to this information. Cookies can be rejected by you and if so none of the functions listed above will be performed.
@@ -17,10 +18,10 @@ We collect information from website visitors who must register for certain servi
 The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal in-formation), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here.](http://www.doubleclick.com/us/about_doubleclick/privacy/)
 
 **Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp). 
 
 **Linking and Framing**  
-This site contains links to other sites. This site is not responsible for the privacy practices or the content of such websites. Occasionally when linking to another site, you may still see our site's logo or frame. This is to provide you with a seamless experience when visiting our website. In these cases you are no longer on Local10.com and are now on a different website whose information collection practices may differ from ours. The privacy policy of the site you are on will govern how information collected from you is used.
+This site contains links to other sites. This site is not responsible for the privacy practices or the content of such websites. Occasionally when linking to another site, you may still see our site's logo or frame. This is to provide you with a seamless experience when visiting our website. In these cases you are no longer on JustNews.com and are now on a different website whose information collection practices may differ from ours. The privacy policy of the site you are on will govern how information collected from you is used.
 
 **Public Forums**  
 This site at some or all times makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. IBS cannot accept any responsibility for ensuring the privacy of information that you choose to disclose in these areas.
@@ -32,7 +33,7 @@ This site has reasonable security measures in place to protect the loss, misuse 
 This site is generally not targeted to children. If we learn that we have received personally identifiable information from a child under the age of 13, we will take steps to delete such information or to obtain verifiable parental consent.
 
 **Supplemental Information**  
-This site may supplement the information that you provide with information that is received from third parties. This information may be received from our partners in sponsored content sections. The type of information that is shared could include user contact information (like name and email address) and user demographic information (like zip code, age or income level). This site will use such information in accordance with this privacy policy. However, when you leave the Local10.com website the privacy statement of the other site will apply to use of information by that site. (See "Linking and Framing" above).
+This site may supplement the information that you provide with information that is received from third parties. This information may be received from our partners in sponsored content sections. The type of information that is shared could include user contact information (like name and email address) and user demographic information (like zip code, age or income level). This site will use such information in accordance with this privacy policy. However, when you leave the JustNews.com website the privacy statement of the other site will apply to use of information by that site. (See "Linking and Framing" above).
 
 **Choice/Opt-Out**  
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. You will notice in all free email subscriptions generated from this website there is an unsubscribe link at the bottom of the message. Simply click on this link to go to a page that allows you to unsubscribe from any or all of the lists you are subscribed to. 
@@ -47,11 +48,11 @@ If you have any questions about this privacy statement, the practices of this si
 
 Security Administrator  
 Internet Broadcasting Systems  
-1333 Northland Drive  
-Mendota Heights, MN 55120  
+355 Randolph St.  
+Aaint Paul, MN 55102  
 [security@ibsys.com](mailto:security@ibsys.com)
 
  **Changes to This Policy**  
 We may make changes to this policy from time to time. We will post changes to this policy here, so be sure to check back periodically. We will generally use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify our users via email or by posting a notice on the site for 30 days. 
 
-Last Revised 11/03
+Last Revised 02/08
