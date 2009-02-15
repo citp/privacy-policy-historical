@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the azfamily.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216040650id_/http%3A//www.azfamily.com/registration/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the azfamily.com privacy policy that was archived on 2009-02-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090215142740id_/http%3A//www.azfamily.com/registration/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 
 <title>Terms of Service | About Us | 
-Local Breaking News from AZFAMILY.COM &amp; KTVK 3TV - Arizona's Family
+Local Breaking News and Weather from AZFAMILY.COM &amp; KTVK 3TV - Arizona's Family
 </title>
 <!--<script type="text/javascript" src="/sharedcontent/javascript/pagerefresh.js"></script>-->
 <script type="text/javascript" src="/sharedcontent/cgm/ver1.0/js/slcgmconfig.js"></script>
@@ -47,7 +47,7 @@ OAS_listpos = 'LeaderTop,RectangleRos,MedRectangle,Skyscraper,Splogo1,Splogo2,Sp
 <!-- end page variables -->
 <script type="text/javascript" src="/bi/ice3/content-tabs/tab-area.js"> </script>
 <link media="screen" type="text/css" rel="stylesheet" href="/bi/ice3/styles/tabs.css">
-<link media="screen" type="text/css" rel="stylesheet" href="http://cache.azfamily.com/bi/ice3/styles/common.css">
+<link media="screen" type="text/css" rel="stylesheet" href="http://www.azfamily.com/bi/ice3/styles/common.css">
 <link media="screen" type="text/css" rel="stylesheet" href="http://cache.azfamily.com/bi/ice3/styles/navigation.css">
 <link media="screen" type="text/css" rel="stylesheet" href="http://cache.azfamily.com/bi/ice3/styles/sub-nav.css">
 <link media="screen" type="text/css" rel="stylesheet" href="http://cache.azfamily.com/bi/ice3/styles/marketplace.css">
@@ -118,6 +118,7 @@ OAS_AD('LeaderTop');
 
 <!-- navigation / marketplace buttons -->
 <div id="search_container" style="margin-bottom: 0em;">	
+<div id="marketplace_button_container2"><a href="http://www.azfamily.com/"><img src="/images/home_button_new.gif" border="0" style="padding: 1px 0 0 0;"></a></div>
 		<div id="utility_menu">
 		<ul>
 		
@@ -132,41 +133,43 @@ message('img','<a href="/LogOut.do" target="_top">LOGOUT\</a>\</li>','<li><a hre
 		</ul></div>
 	
 <script language="JavaScript">
-<!--
+
+
 function findSearch()
 {
- searchText = this.document.searchForm.search.value;
- words = searchText.split(" ");
- searchText = words.join("+");
- if(this.document.searchForm.searchselection[1].checked == true) 
- { thisUrl = "/search/search-web.jsp?topic=" + searchText; }
- else 
-  { thisUrl = "/blcS.sc?search=" + searchText; }
+        searchText = this.document.searchForm.search.value;
+        words = searchText.split(" ");
+        searchText = words.join("+");
 
- this.window.location = thisUrl;
-}
-//-->
-</script>
+        if(document.searchForm.searchOption[0].checked)
+        {
+                this.window.location = "http://www.azfamily.com/blcS.sc?search=" + searchText + "&cat=all";
+                return false;
+        }
 		
-<form name="searchForm" action="/blcS.sc" method="get" id="search_form">
-<div id="marketplace_button_container"><a href="http://www.azfamily.com/"><img src="/images/home_button_new.gif" border="0" style="padding: 1px 0 0 0;"></a></div>
-
-<!--script language="javascript">
-<!--
-var newWindow;
-	function popKeywords(page,title,size){
-		newWindow = window.open('/shortcuts2.html','shortcuts','width=700,height=700');
+        else if(document.searchForm.searchOption[1].checked)
+        {       
+                this.window.location = "http://www.azfamily.com/blcS.sc?search=" + searchText + "&cat=web";
+                return false;
+        }
+        return true;
 }
-//-->
-<!-- </script> 
-
-<!--div id="marketplace_button_container"><a href="javascript:popKeywords('/shortcuts2.html','shortcuts','width=700,height=700');"><img src="/images/key_button.gif" border="0" style="padding: 1px 0 0 0;"></a></div> -->
 
 
-<div id="searchtext_container">SEARCH:</div>
 
- <input type="text" name="search" size="50" maxlength="180" value="" onfocus="this.value='';"> <input type="submit" value="GO" class="submit"> </form>
+</script>
 
+
+				
+<form name="searchForm" action="/blcS.sc" method="get" id="search_form" onsubmit="javascript:findSearch(); return false;">
+<input type="text" name="search" class="search_box" size="150" maxlength="180" value="Search" onfocus="this.value='';"> 
+<input name="searchOption" class="search_site" type="radio" value="0" checked="">
+<span>azfamily.com</span>
+<input name="searchOption" class="search_web" type="radio" value="1">
+<span>Web</span>
+<span class="pwr_google">&nbsp;</span>
+<input type="image" src="/images/gobtn.gif" value="" class="gobtn">
+</form>
 </div>
 	<!-- navigation / marketplace buttons -->
 	<div id="navbar">
@@ -179,18 +182,18 @@ var newWindow;
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/news/3oys/">3 On Your Side</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://hosted.ap.org/dynamic/fronts/BUSINESS?SITE=KTVK&amp;TEMPLATE=BUSINESS.html">Business</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/business/economy">Economy</a></li>
-		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/elections/">Elections</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/news/elections/">Politics</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/health/">Health</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/news/specialreports">Special Reports</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/news/specialreports/immigration/">Immigration</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/slideshow/">Slideshows</a></li>
-		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/ontv/">Newscast Info</a></li>
-		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/news/there-goes-bruce/">Aerials</a></li>
-		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/membercontent/photos/gallery.html">Photo Galleries</a></li>
+		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/hotline/">Newscast Info</a></li>
+		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/news/there-goes-bruce/">NewsChopper 3 Aerials</a></li>
+		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/membercontent/photos/gallery.html">Viewer Photos</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/news/specialreports/fireseason/">Wildfire News</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/sharedcontent/southwest/azfamily/features/polygamy/index3.html">Polygamy Diaries</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/alerts">Breaking News Alerts</a></li>
+		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/taxes/">Tax Info.</a></li>
 		</ul></div>
 	<div class="nav_border"><img src="/images/border.gif" alt=""></div>
 	<div class="topNav" id="topNavWeather" onmouseover="showSubNav('topNavWeather', 'subnavWeather', 1);" onmouseout="startHideTimeout();"><a href="http://www.azfamily.com/weather/"><span>Weather</span></a></div>
@@ -220,7 +223,8 @@ var newWindow;
 	<div class="nav_border"><img src="/images/border.gif" alt=""></div>
 	<div class="topNav" id="topNavSports" onmouseover="showSubNav('topNavSports', 'subnavSports', 1);" onmouseout="startHideTimeout();"><a href="http://www.azfamily.com/sports/"><span>Sports</span></a></div>
 		<div class="subNavContainer" id="subnavSports" onmouseover="showSubNav('topNavSports', 'subnavSports', 0);" onmouseout="startHideTimeout();"><ul class="subNav">
-					<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/sports/nba/">Suns | NBA</a></li>
+					<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/sports/super-bowl-43/">Super XLIII</a></li>
+		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/sports/nba/">Suns | NBA</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/sports/nfl/">Cardinals | NFL</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/sports/mlb/">Diamondbacks | MLB</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/sports/nhl/">Coyotes | NHL</a></li>
@@ -281,7 +285,7 @@ var newWindow;
 	<div class="nav_border"><img src="/images/border.gif" alt=""></div>
 	<div class="topNav" id="topNavFeatures" onmouseover="showSubNav('topNavFeatures', 'subnavFeatures', 1);" onmouseout="startHideTimeout();"><a href="http://www.azfamily.com/3tvfeatures.html"><span>On 3TV</span></a></div>
 		<div class="subNavContainer" id="subnavFeatures" onmouseover="showSubNav('topNavFeatures', 'subnavFeatures', 0);" onmouseout="startHideTimeout();"><ul class="subNav">
-					<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/ontv/">3TV Hotlines</a></li>
+					<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/hotline/">3TV Hotlines</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/arizonasfamily/">Community Projects</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/3tv/3tvbios/">3TV Personalities</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/helpcenter/contact.html">Contact 3TV</a></li>
@@ -293,10 +297,6 @@ var newWindow;
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/yourlife/">Your Life A to Z</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.azfamily.com/everyday/">Everyday Entertaining</a></li>
 		</ul></div>
-        
-        <div class="nav_border"><img src="/images/border.gif" alt=""></div>
-	<div class="topNav" id="topNavMKTCW6" onmouseover="showSubNav('topNavMKTCW6', 'subnavMKTCW6', 1);" onmouseout="startHideTimeout();"><a href="http://www.quick6.com/"><span>CW6</span></a></div>
-        
 	<div class="nav_border"><img src="/images/border.gif" alt=""></div>
 	<div class="topNav" id="topNavMKTClassifieds" onmouseover="showSubNav('topNavMKTClassifieds', 'subnavMKTClassifieds', 1);" onmouseout="startHideTimeout();"><a href="http://www.azfamily.com/classifieds/"><span>Classifieds</span></a></div>
 		
@@ -307,9 +307,9 @@ var newWindow;
 	<div class="topNav" id="topNavMKTRealEstate" onmouseover="showSubNav('topNavMKTRealEstate', 'subnavMKTRealEstate', 1);" onmouseout="startHideTimeout();"><a href="http://www.azfamily.com/realestate/"><span>Real Estate</span></a></div>
 		
 	<div class="nav_border"><img src="/images/border.gif" alt=""></div>
-	<div class="topNav" id="topNavMKTJobs" onmouseover="showSubNav('topNavMKTJobs', 'subnavMKTJobs', 1);" onmouseout="startHideTimeout();"><a href="http://azfamily.jobing.com/"><span>AZ JOBS</span></a></div>
+	<div class="topNav" id="topNavMKTJobs" onmouseover="showSubNav('topNavMKTJobs', 'subnavMKTJobs', 1);" onmouseout="startHideTimeout();"><a href="http://azfamily.jobing.com/"><span>Jobs</span></a></div>
 		
-	<!--div class="nav_border"><img src="/images/border.gif" alt=""/></div -->
+	<div class="nav_border"><img src="/images/border.gif" alt=""></div>
 	</div>
 	<!--End Generated Top Navigation-->
  
@@ -640,9 +640,9 @@ OAS_AD('Popunder');
 
 <p><a href="/" title="Phoenix News Headlines">Home</a> | <a href="http://www.azfamily.com/news/">Phoenix News</a> | <a href="http://www.azfamily.com/weather/">Weather</a> | <a href="http://www.azfamily.com/sports/">Arizona Sports</a> | <a href="http://www.azfamily.com/video/allnewsheadlines-browse.html">News Video</a> | <a href="http://www.azfamily.com/classifieds/">Classifieds</a> | <a href="/yourlife/directory">Phoenix Directory</a> | <a href="/welcome/">Moving to Arizona</a><br>
   <a href="/traffic">Phoenix Traffic</a> | <a href="/helpcenter/faq-advertising.html" title="Phoenix TV Advertising">Advertise with Us</a> | <a href="/3tv/3tvbios/" title="3TV News">About azfamily.com</a> | <a href="/azfamily/employ/" title="Phoenix Careers">Careers</a> | <a href="/sitemap/" title="Site Map">Site Map</a> | <a href="http://www.azfamily.com/helpcenter/contact.html" title="Contact Us">Contact Us</a> | <a href="/gas">Arizona Gas Prices<br>
-  </a><a href="http://www.azfamily.com/membercontent/photos/gallery.html?plckGalleryID=4f61b414-68db-4173-b0c5-7430c776dee4">Arizona Photos</a> | 
+  </a><a href="http://www.azfamily.com/membercontent/photos/gallery.html?plckGalleryID=4f61b414-68db-4173-b0c5-7430c776dee4">Arizona Photos</a> |
   <a href="/helpcenter/" title="Help"> Help</a> | <a href="/registration/terms.html" title="Terms of Service">Terms of Service</a> | <a href="/registration/privacy.html" title="Privacy">Privacy</a> | <a href="/sharedcontent/myspecialsdirect/?ft" title="Phoenix Special Offers">Special Offers</a> | <a href="http://www.quick6.com/">KASW</a> <a href="http://www.cwphoenix.com/" target="_blank">CW6 P</a><a href="http://www.quick6.com/" target="_blank">hoenix</a></p>
-<p>© 2008 - <a href="http://www.azfamily.com/">KTVK, Inc.</a> - All Rights Reserved</p>
+<p>© 2009 - <a href="http://www.azfamily.com/">KTVK, Inc.</a> - All Rights Reserved</p>
 
 <!-- begin tacoda -->
 <script type="text/javascript">Tacoda_AMS_DDC_js=1.0</script>
@@ -688,8 +688,6 @@ om_fpcdomain="azfamily.com";
 				</div>
 			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_Economy"><a href="http://www.azfamily.com/business/economy" class="sub_nav_link" id="subnav_link_text_Economy">Economy</a></div>
 				</div>
-			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_Elections"><a href="http://www.azfamily.com/elections/" class="sub_nav_link" id="subnav_link_text_Elections">Elections</a></div>
-				</div>
 			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_Politics"><a href="http://www.azfamily.com/news/elections/" class="sub_nav_link" id="subnav_link_text_Politics">Politics</a></div>
 				</div>
 			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_HealthNews2"><a href="http://www.azfamily.com/health/" class="sub_nav_link" id="subnav_link_text_HealthNews2">Health</a></div>
@@ -700,17 +698,19 @@ om_fpcdomain="azfamily.com";
 				</div>
 			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_Slideshows"><a href="http://www.azfamily.com/slideshow/" class="sub_nav_link" id="subnav_link_text_Slideshows">Slideshows</a></div>
 				</div>
-			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_NewscastInfo"><a href="http://www.azfamily.com/ontv/" class="sub_nav_link" id="subnav_link_text_NewscastInfo">Newscast Info</a></div>
+			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_NewscastInfo"><a href="http://www.azfamily.com/hotline/" class="sub_nav_link" id="subnav_link_text_NewscastInfo">Newscast Info</a></div>
 				</div>
-			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_Aerials"><a href="http://www.azfamily.com/news/there-goes-bruce/" class="sub_nav_link" id="subnav_link_text_Aerials">Aerials</a></div>
+			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_Aerials"><a href="http://www.azfamily.com/news/there-goes-bruce/" class="sub_nav_link" id="subnav_link_text_Aerials">NewsChopper 3 Aerials</a></div>
 				</div>
-			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_ViewerPics"><a href="http://www.azfamily.com/membercontent/photos/gallery.html" class="sub_nav_link" id="subnav_link_text_ViewerPics">Photo Galleries</a></div>
+			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_ViewerPics"><a href="http://www.azfamily.com/membercontent/photos/gallery.html" class="sub_nav_link" id="subnav_link_text_ViewerPics">Viewer Photos</a></div>
 				</div>
 			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_Wildfire"><a href="http://www.azfamily.com/news/specialreports/fireseason/" class="sub_nav_link" id="subnav_link_text_Wildfire">Wildfire News</a></div>
 				</div>
 			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_PolygamyDiaries2"><a href="http://www.azfamily.com/sharedcontent/southwest/azfamily/features/polygamy/index3.html" class="sub_nav_link" id="subnav_link_text_PolygamyDiaries2">Polygamy Diaries</a></div>
 				</div>
 			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_BreakingNews"><a href="http://www.azfamily.com/alerts" class="sub_nav_link" id="subnav_link_text_BreakingNews">Breaking News Alerts</a></div>
+				</div>
+			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_TaxInfo"><a href="http://www.azfamily.com/taxes/" class="sub_nav_link" id="subnav_link_text_TaxInfo">Tax Info.</a></div>
 				</div>
 			</div><div id="group_header_Weather" class="group_header">Weather</div>
 			<div class="subnav_group" id="parent_Weather">
@@ -752,7 +752,9 @@ om_fpcdomain="azfamily.com";
 				</div>
 			</div><div id="group_header_Sports" class="group_header">Sports</div>
 			<div class="subnav_group" id="parent_Sports">
-					<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_SunsBasketball"><a href="http://www.azfamily.com/sports/nba/" class="sub_nav_link" id="subnav_link_text_SunsBasketball">Suns | NBA</a></div>
+					<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_Super42"><a href="http://www.azfamily.com/sports/super-bowl-43/" class="sub_nav_link" id="subnav_link_text_Super42">Super XLIII</a></div>
+				</div>
+			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_SunsBasketball"><a href="http://www.azfamily.com/sports/nba/" class="sub_nav_link" id="subnav_link_text_SunsBasketball">Suns | NBA</a></div>
 				</div>
 			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_CardinalsFootball"><a href="http://www.azfamily.com/sports/nfl/" class="sub_nav_link" id="subnav_link_text_CardinalsFootball">Cardinals | NFL</a></div>
 				</div>
@@ -850,7 +852,7 @@ om_fpcdomain="azfamily.com";
 				</div>
 			</div><div id="group_header_Features" class="group_header">On 3TV</div>
 			<div class="subnav_group" id="parent_Features">
-					<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_NewsHotlines"><a href="http://www.azfamily.com/ontv/" class="sub_nav_link" id="subnav_link_text_NewsHotlines">3TV Hotlines</a></div>
+					<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_NewsHotlines"><a href="http://www.azfamily.com/hotline/" class="sub_nav_link" id="subnav_link_text_NewsHotlines">3TV Hotlines</a></div>
 				</div>
 			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_SomethingGood"><a href="http://www.azfamily.com/arizonasfamily/" class="sub_nav_link" id="subnav_link_text_SomethingGood">Community Projects</a></div>
 				</div>
@@ -902,7 +904,7 @@ pageTracker._initData();
 pageTracker._trackPageview();
 </script>
 	<!--End Google Analytics tag-->
-    
+
 <!-- Start Quantcast tag -->
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 <script type="text/javascript">
