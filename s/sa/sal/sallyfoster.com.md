@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sallyfoster.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161106id_/http%3A//www.sallyfoster.com/sally/footerPages/privacy_policy_summary.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sallyfoster.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215185245id_/http%3A//www.sallyfoster.com/sally/footerPages/privacy_policy_summary.jsp) for the most accurate reproduction.*
 
 # 
 
-Sally Foster, LLC, a wholly owned subsidiary of Entertainment Publications, LLC, respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy.  This Privacy Policy is intended to describe for you, as an individual who is a user of [www.sallyfoster.com](https://web.archive.org/web/20081216161106id_/http%3A//www.sallyfoster.com/sally/footerPages/www.sallyfoster.com) or our services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. 
+Sally Foster, LLC, a wholly owned subsidiary of Entertainment Publications, LLC, respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy.  This Privacy Policy is intended to describe for you, as an individual who is a user of [www.sallyfoster.com](https://web.archive.org/web/20090215185245id_/http%3A//www.sallyfoster.com/sally/footerPages/www.sallyfoster.com) or our services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. 
 
 We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us.   By using our website, you are accepting the practices described in this Privacy Policy.  
 
@@ -46,7 +46,7 @@ We may use standard Internet technology, such as web beacons and other similar t
 
 **Information collected by third-parties**
 
-We may allow third-parties, including our authorized service providers, advertising companies, and ad networks, to display advertisements on our site.  These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements.  Our website does not provide any personal information to these third parties.  This information allows them to deliver targeted advertisements and gauge their effectiveness.  Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](https://web.archive.org/web/20081216161106id_/http%3A//www.sallyfoster.com/sally/footerPages/www.networkadvertising.org)). 
+We may allow third-parties, including our authorized service providers, advertising companies, and ad networks, to display advertisements on our site.  These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements.  Our website does not provide any personal information to these third parties.  This information allows them to deliver targeted advertisements and gauge their effectiveness.  Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](https://web.archive.org/web/20090215185245id_/http%3A//www.sallyfoster.com/sally/footerPages/www.networkadvertising.org)). 
 
 **How we use the information we collect**
 
