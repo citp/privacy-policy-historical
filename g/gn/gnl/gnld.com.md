@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnld.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216065459id_/http%3A//gnld.com/privacypolicy.aspx%3FSTORE_ID%3D1%26NAV_CATEGORY_ID%3D3222%26CATEGORY_ID%3D3252) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnld.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215092827id_/http%3A//www.gnld.com/privacypolicy.aspx%3FSTORE_ID%3D1%26NAV_CATEGORY_ID%3D3222%26CATEGORY_ID%3D3252) for the most accurate reproduction.*
 
 # GNLD: A Better Way of Life.
 
