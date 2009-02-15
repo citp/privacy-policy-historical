@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitalmx.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602020155id_/http%3A//www.vitalmx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitalmx.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215010707id_/http%3A//www.vitalmx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vital MX
 
@@ -68,16 +68,3 @@ Or
 Vital Media Network, Inc. Customer Care (Privacy) 2151 Michelson, #144 Irvine, CA 92612 (949) 265-3090 
 
 Updated: July 21, 2006
-
-Hello Vital MX user,
-
-We're conducting a survey and we'd appreciate your input. The survey should take just a few minutes to complete.
-
-Five lucky people will be selected at random to win a   
-Vital MX t-shirt.
-
-Thanks in advance,
-
-GuyB and the Vital MX Crew
-
-[](http://survey.constantcontact.com/survey/a07e2ap3u1mfg838vwt/start)
