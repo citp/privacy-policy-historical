@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealighted.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915020522id_/http%3A//www.dealighted.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealighted.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215203410id_/http%3A//www.dealighted.com/privacy) for the most accurate reproduction.*
 
-# dealighted.com Privacy Policy
+# People Powered Deals Search - Dealighted Discount Shopping
 
 All Enthusiast, Inc.'s dealighted.com respects the privacy and security of its users. Our goal is to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. In order to achieve this goal, we sometimes collect information during your visits to understand what differentiates you from each of our millions of other users. 
 
@@ -44,9 +44,7 @@ Except as described below, All Enthusiast, Inc.'s dealighted.com will not willfu
 
 When you are at the dealighted.com site and asked for personal information, you share that information with dealighted.com alone, unless the service is offered in conjunction with another party. For example, some dealighted.com services are offered in conjunction with another company. In order to provide such co-branded services to you, it is necessary for us to share your personal information with the company offering the co-branded service. If you do not want your data to be shared, you can choose not to allow the transfer of data by not using that particular service. If you choose to share your data with a provider of a co-branded service, you should understand that those providers may have separate privacy and data collection practices. All Enthusiast, Inc. has no control over and accepts no liability for these independent practices. Each provider shouldmore information regarding its privacy and/or use policies. 
 
-**Third Party Advertising:**
-
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other interactive media about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
  **How to Correct Inaccuracies**
 
