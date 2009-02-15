@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supershuttle.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055733id_/http%3A//www.supershuttle.com/default.aspx%3Fcontent%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supershuttle.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215220524id_/http%3A//www.supershuttle.com/default.aspx%3Fcontent%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Welcome to SuperShuttle.com
 
