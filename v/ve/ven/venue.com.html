@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the venue.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216045043id_/http%3A//www.venue.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the venue.com privacy policy that was archived on 2009-02-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090215175627id_/http%3A//www.venue.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>    
 <meta name="DESCRIPTION" content="Venue offers a full line of Computers, Televisions, Electronics, Jewelry, Cameras, Fashion, and more from many of today's leading luxury brands.">    
@@ -11,10 +11,25 @@
 <script type="text/javascript" src="/js/menu.js"></script>
 <link href="/css/togglemenu.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="/js/togglemenu.js"></script>
-
-<script language="Javascript" src="/js/jquery-1.2.2.pack.js"></script>
+<link href="/css/modal.css" rel="stylesheet" type="text/css"><script language="Javascript" src="/js/jquery-1.2.2.pack.js"></script>
+<script language="Javascript" src="/js/dimensions.js"></script>
+<script language="Javascript" src="/js/jqDnR.js"></script>
+<script language="Javascript" src="/js/jqModal.js"></script>
 <script language="Javascript">
 <!--
+function addJqmWindow(popname,popwidth,popheight)
+{
+ $.jqm.params.modal = true;
+
+  var margleft  = 0 - (popwidth/2);
+  $(popname).css({'margin-left': margleft+'px', 'width' : popwidth+'px'});
+  $(popname + ' div.jqmdBC').css({'height' : popheight+'px'});
+  $(popname).jqm({trigger: popname+'Trigger',overlay: 75}).jqDrag('.jqDrag');
+
+  $('input.jqmdX').hover(
+  function(){ $(this).addClass('iefocus').attr('src','/images/dialog/close_hover.gif'); },
+  function(){ $(this).removeClass('iefocus').attr('src','/images/dialog/close_normal.gif'); });
+}
 
 function resetEmailConfirm(val,opt)
 {
@@ -244,8 +259,8 @@ function closeMenu(menuID,linkObj)
 	}
 }
 
-</script></head><body style="margin: 0; background: #d9d6ce;">
- <form name="goCartForm" action="/viewcart.php" method="post" style="margin: 0; padding; 0;">
+</script></head><body>
+ <form id="goCartForm" name="goCartForm" action="/viewcart.php" method="post">
  <input type="hidden" name="sku" value="">
  <input type="hidden" name="upgradeSkus" value="">
  <input type="hidden" name="warrantySku" value="">
@@ -254,33 +269,33 @@ function closeMenu(menuID,linkObj)
 
  <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tbody><tr>
-   <td style="background: url(/images/body_gradient_left.jpg) #d9d6ce; background-position: top right; background-repeat: repeat-y;">&nbsp;</td>
-   <td align="center" width="980" style="background: #ffffff;">
-    <table border="0" cellpadding="0" cellspacing="0" width="980" style="margin-top: 0;">
+   <td id="bodyLeft">&nbsp;</td>
+   <td id="bodyMain" align="left" width="980">
+    <table id="headerTable" border="0" cellpadding="0" cellspacing="0" width="980">
      <tbody><tr>
-      <td rowspan="3" width="610" height="32" style="background: url(/images/header_gradient.jpg); background-repeat: repeat-x;padding-top:15px;">
-       <a style="margin-left: 10px;" href="http://www.venue.com/index.php"><img name="logo" src="/images/home-logo.jpg" width="345" height="48" border="0" alt=""></a>
+      <td id="headerGradientLeft" rowspan="3" width="610" height="32">
+       <a id="logoLink" href="http://www.venue.com/index.php"><img name="logo" src="/images/home-logo.jpg" width="345" height="48" border="0" alt=""></a>
       </td>
-      <td width="80" height="32" style="background: url(/images/header_gradient.jpg); background-repeat: repeat-x;">
+      <td id="headerGradientRight" width="80" height="32">
        &nbsp;
-      </td><td width="48" height="32" style="background: url(/images/header_gradient.jpg); background-repeat: repeat-x;">
+      </td><td width="48" height="32" id="headerSignIn">
  <a href="/signin.php"><img src="/images/header_signin.jpg" width="48" height="32" border="0"></a>
-</td>      <td width="69" height="32" style="background: url(/images/header_gradient.jpg); background-repeat: repeat-x;">
+</td>      <td id="headerMyAccount" width="69" height="32">
        <a href="/myaccount.php"><img src="/images/header_account.jpg" width="69" height="32" border="0"></a>
       </td>
-      <td width="76" height="32" style="background: url(/images/header_gradient.jpg); background-repeat: repeat-x;">
+      <td width="76" height="32" id="headerOrderStatus">
        <a href="/order_status.php"><img src="/images/header_status.jpg" width="76" height="32" border="0"></a>
       </td>
-      <td width="72" height="32" style="background: url(/images/header_gradient.jpg); background-repeat: repeat-x;">
+      <td width="72" height="32" id="headerViewCart">
        <a href="/viewcart.php"><img src="/images/header_shopping_new.jpg" width="72" height="32" border="0"></a>
       </td>
-      <td height="32" style="background: url(/images/header_gradient.jpg); background-repeat: repeat-x;">
+      <td height="32" id="headerViewCart2">
        <a href="/viewcart.php"><img src="/images/shopping_cart_new.jpg" width="18" height="32" border="0"></a>
       </td>
      </tr>
      <tr>
       <td height="19" colspan="6" align="right">
-       <img src="/images/header_phone.jpg" width="107" height="19">
+       <img src="/images/header_phone_animated.gif" width="107" height="19">
       </td>
      </tr>
 
@@ -293,7 +308,7 @@ function closeMenu(menuID,linkObj)
 
 <table id="menu-holder" cellspacing="0">
 <tbody><tr id="menu-top">
-<td style="padding:0;"><img src="/images/topmenu/left-end.gif"></td> <td nowrap="" class="hvr" onmouseout="turn_off(this);" onmouseover="turn_on(this);"><a href="http://www.venue.com/televisions/" class="single" onmouseout="closeMenu('m1015',this);" onmouseover="openMenu('m1015',this,1);">Televisions</a></td>
+<td id="topmenu-left"><img src="/images/topmenu/left-end.gif"></td> <td nowrap="" class="hvr" onmouseout="turn_off(this);" onmouseover="turn_on(this);"><a href="http://www.venue.com/televisions/" class="single" onmouseout="closeMenu('m1015',this);" onmouseover="openMenu('m1015',this,1);">Televisions</a></td>
 <td><img src="/images/topmenu/divide.gif"></td>
  <td nowrap="" class="hvr" onmouseout="turn_off(this);" onmouseover="turn_on(this);"><a href="http://www.venue.com/computers/" class="single" onmouseout="closeMenu('m1001',this);" onmouseover="openMenu('m1001',this,1);">Computers</a></td>
 <td><img src="/images/topmenu/divide.gif"></td>
@@ -314,15 +329,15 @@ function closeMenu(menuID,linkObj)
 
 <table cellspacing="0">
  <tbody><tr>
-  <td width="970" style="padding-top:1px;">
+  <td width="970" id="top1">
    <table align="left" border="0" cellpadding="0" cellspacing="0" width="970">
     <tbody><tr>
      <td width="10">&nbsp;</td>
-     <td width="515" style="padding-left: 20px; font-family: verdana; font-size: 8pt; color: #6d625b;"><a href="/index.php" style="color: #6d625b; font-weight: normal; text-decoration: none;">Venue</a> &gt; <span style="font-weight: bold;">Privacy Policy</span></td>
+     <td id="headerBreadCrumb" width="535"><a href="/index.php" class="breadCrumb">Venue</a> &gt; <span style="font-weight: bold;">Privacy Policy</span></td>
      <td>
 
-      <form name="goSearch" action="/search.php" method="post" style="margin: 0; padding; 0;">
-      <table id="searchTable" width="428" height="35" border="0" cellpadding="0" cellspacing="0" style="margin-top: 5px; margin-bottom: 4px;">
+      <form name="goSearch" id="goSearch" action="/search.php" method="post">
+      <table id="searchTable" width="428" height="35" border="0" cellpadding="0" cellspacing="0">
        <tbody><tr>
         <td width="12" height="6"><img src="/images/search/search_spacer.gif" width="12" height="6" alt=""></td>
         <td><img src="/images/search/search_tbl_09.jpg" width="117" height="6" alt=""></td>
@@ -334,7 +349,7 @@ function closeMenu(menuID,linkObj)
        <tr>
         <td width="12" height="23"><img src="/images/search/search_spacer.gif" width="12" height="23" alt=""></td>
         <td><img src="/images/search/search_tbl_16.jpg" width="117" height="23" alt=""></td>
-        <td width="238" height="23" style="border-top: #bdb7b4; vertical-align: top;"><input type="text" name="search" id="search" value="item#/sku" onfocus="chkSearchIn(this);" onblur="chkSearchOut(this);" style="width: 238px; height: 21px; border: none; color: #65615e;"></td>
+        <td width="238" height="23" id="searchBox"><input type="text" name="search" id="search" value="item#/sku" onfocus="chkSearchIn(this);" onblur="chkSearchOut(this);"></td>
         <td><img src="/images/search/search_tbl_18.jpg" width="9" height="23" alt=""></td>
         <td><input type="image" src="/images/search/search_tbl_19.jpg" width="45" height="23" border="0"></td>
         <td><img src="/images/search/search_tbl_20.jpg" width="7" height="23" alt=""></td>
@@ -506,67 +521,65 @@ Los Angeles, CA 90025<br>
 
     </td>
   </tr>
-</tbody></table><table width="970" border="0" cellpadding="0" cellspacing="0" style="margin-top: 10px;">
+</tbody></table><table width="970" border="0" cellpadding="0" cellspacing="0" id="footerTable1">
  <tbody><tr>
   <td width="10">&nbsp;</td>
 
   <td width="410">
    <table width="100%" border="0" cellpadding="0" cellspacing="0">
-    <tbody><tr>  <td width="410" height="84" style="border: 2px solid #f0f0f0; vertical-align: top;">
-   <table id="signup_table" width="380" border="0" cellpadding="0" cellspacing="0" style="margin-top: 5px; margin-left: 10px; display: block;">
+    <tbody><tr>  <td width="410" height="84" class="footerBoxOuter">
+   <table id="signup_table" width="380" border="0" cellpadding="0" cellspacing="0" class="signupTableVisible">
     <tbody><tr>
-     <td colspan="2" style="font-family: verdana; font-weight: bold; font-size: 8pt; color: #66513c;">
-     Email Exclusives
-     </td>
+     <td colspan="2" class="footerBoxHeading">Email Exclusives</td>
     </tr>
     <tr>
-     <td colspan="2" height="5" style="line-height: 5px;">&nbsp;</td>
+     <td colspan="2" height="5" class="row5px">&nbsp;</td>
     </tr>
     <tr>
-     <td colspan="2" style="font-family: verdana; font-weight: normal; font-size: 8pt; color: #66513c;">
+     <td colspan="2" class="emailSignupText">
      Sign up to receive special offers and promotions from Venue.<br>&nbsp;
      </td>
     </tr>
     <tr>
-     <td width="255"><input id="email_confirm" type="text" name="email_confirm" value="Enter Email" onclick="resetEmailConfirm(this.value,0);" onblur="resetEmailConfirm(this.value,1);" style="width: 255px; background: #f1f1f1; color: #7d7d7d; font-family: verdana; font-size: 8pt;"></td>
-     <td><a href="javascript:emailConfirm();" style="color: #66513c; font-weight: normal; text-decoration: none;"><img src="/images/email-signup.jpg" width="57" height="21" border="0">&nbsp;</a></td>
+     <td width="255"><input id="email_confirm" type="text" name="email_confirm" value="Enter Email" onclick="resetEmailConfirm(this.value,0);" onblur="resetEmailConfirm(this.value,1);"></td>
+     <td><a class="emailSignupText" href="javascript:emailConfirm();"><img src="/images/email-signup.jpg" width="57" height="21" border="0">&nbsp;</a></td>
     </tr>
    </tbody></table>
 
-   <table id="thankyou_table" width="380" border="0" cellpadding="0" cellspacing="0" style="margin-top: 5px; margin-left: 10px; display: none;">
+   <table id="thankyou_table" width="380" border="0" cellpadding="0" cellspacing="0" class="signupTableHidden">
     <tbody><tr>
-     <td style="font-family: verdana; font-weight: bold; font-size: 8pt; color: #66513c;">
+     <td class="emailSignupText2">
      Thank You for signing up to our e-mail exclusives.<br>&nbsp;
      </td>
     </tr>
     <tr>
-     <td style="font-family: verdana; font-weight: normal; font-size: 8pt; color: #66513c;">
+     <td class="emailSignupText">
      You will soon receive special offers and promotions from venue.<br>&nbsp;
      </td>
     </tr>
    </tbody></table>
   </td>    </tr>
     <tr>
-     <td><a href="http://www.venuetoday.com"><img src="/images/blog-banner.jpg" width="415" height="41" border="0" style="margin-top: 8px;"></a></td>
+     <td><a href="http://www.venuetoday.com"><img id="blogImg" src="/images/blog-banner.jpg" width="415" height="41" border="0"></a></td>
     </tr>
    </tbody></table>
   </td>
   <td width="20">&nbsp;</td>
 
-  <td width="150" height="125" style="border: 2px solid #f0f0f0; vertical-align: top;">
-   <table with="140" border="0" cellpadding="0" cellspacing="0" style="margin-top: 5px; margin-left: 10px;">
+  <td width="150" height="125" class="footerBoxOuter">
+   <table with="140" border="0" cellpadding="0" cellspacing="0">
     <tbody><tr>
-     <td style="font-family: verdana; font-weight: bold; font-size: 8pt; color: #66513c;">Customer Service</td>
+     <td class="footerBoxHeading">Customer Service</td>
     </tr>
     <tr>
-     <td style="font-family: verdana; font-size: 6.5pt; color: #66513c;">
-      <ul style="margin-left: 15px; margin-top: 5px; list-style-image: url(/images/footer_bullet.jpg);">
-       <li><a href="/myaccount.php" style="color: #66513c; font-weight: normal; text-decoration: none;">My Account</a></li>
-       <li><a href="/shipping.php" style="color: #66513c; font-weight: normal; text-decoration: none;">Shipping &amp; Handling</a></li>
-       <li><a href="/return_policy.php" style="color: #66513c; font-weight: normal; text-decoration: none;">Return Policy</a></li>
-       <li><a href="/contact.php" style="color: #66513c; font-weight: normal; text-decoration: none;">Contact Us</a></li>
-       <li><a href="/faq.php" style="color: #66513c; font-weight: normal; text-decoration: none;">FAQ</a></li>
-       <li><a href="/about.php" style="color: #66513c; font-weight: normal; text-decoration: none;">About Us</a></li>
+     <td class="footerBoxMain">
+      <ul>
+       <li><a href="/myaccount.php">My Account</a></li>
+       <li><a href="/shipping.php">Shipping &amp; Handling</a></li>
+       <li><a href="/return_policy.php">Return Policy</a></li>
+       <li><a href="/contact.php">Contact Us</a></li>
+       <li><a href="/faq.php">FAQ</a></li>
+       <li><a href="/about.php">About Us</a></li>
       </ul>
      </td>
     </tr>
@@ -575,19 +588,19 @@ Los Angeles, CA 90025<br>
 
   <td width="20">&nbsp;</td>
 
-  <td width="190" height="125" style="border: 2px solid #f0f0f0; vertical-align: top;">
-   <table with="180" border="0" cellpadding="0" cellspacing="0" style="margin-top: 5px; margin-left: 10px;">
+  <td width="190" height="125" class="footerBoxOuter">
+   <table with="180" border="0" cellpadding="0" cellspacing="0">
     <tbody><tr>
-     <td style="font-family: verdana; font-weight: bold; font-size: 8pt; color: #66513c;"><a href="/credit_app.php" style="color: #66513c; text-decoration: none;">The Venue Card</a></td>
+     <td class="footerBoxHeading"><a href="/credit_app.php">The Venue Card</a></td>
     </tr>
     <tr>
-     <td style="font-family: verdana; font-size: 6.5pt; color: #66513c;">
-      <ul style="margin-left: 15px; margin-top: 5px; list-style-image: url(/images/footer_bullet.jpg);">
-       <li><a href="/credit_app.php?_function=info" style="color: #66513c; font-weight: normal; text-decoration: none;">Apply Now</a></li>
-       <li><a href="/credit_app.php?_function=startpage" style="color: #66513c; font-weight: normal; text-decoration: none;">Accept Your Preapproved Offer</a></li>
-       <li><a href="https://onlineaccess.mycreditcard.cc/venue" style="color: #66513c; font-weight: normal; text-decoration: none;">Manage Your Account Online</a></li>
-       <li><a href="/unavailable.php" style="color: #66513c; font-weight: normal; text-decoration: none;">Venue Rewards</a></li>
-       <li><a href="javascript:void(0);" style="color: #66513c; font-weight: normal; text-decoration: none;" onclick="centerPopWin('/terms_popup.php','termsPopup','700','650')">Terms and Conditions</a></li>
+     <td class="footerBoxMain">
+      <ul>
+       <li><a href="/credit_app.php?_function=info">Apply Now</a></li>
+       <li><a href="https://www.venue.com/credit_app.php?_function=startpage">Accept Your Preapproved Offer</a></li>
+       <li><a href="https://onlineaccess.mycreditcard.cc/venue">Manage Your Account Online</a></li>
+       <li><a href="/unavailable.php">Venue Rewards</a></li>
+       <li><a href="javascript:void(0);" onclick="centerPopWin('/terms_popup.php','termsPopup','700','650')">Terms and Conditions</a></li>
       </ul>
      </td>
     </tr>
@@ -596,16 +609,16 @@ Los Angeles, CA 90025<br>
 
   <td width="20">&nbsp;</td>
 
-  <td width="150" height="125" style="border: 2px solid #f0f0f0; vertical-align: top;">
-   <table with="140" border="0" cellpadding="0" cellspacing="0" style="margin-top: 5px; margin-left: 10px;">
+  <td width="150" height="125" class="footerBoxOuter">
+   <table with="140" border="0" cellpadding="0" cellspacing="0">
     <tbody><tr>
-     <td style="font-family: verdana; font-weight: bold; font-size: 8pt; color: #66513c;">Shopping</td>
+     <td class="footerBoxHeading">Shopping</td>
     </tr>
     <tr>
-     <td style="font-family: verdana; font-size: 6.5pt; color: #66513c;">
-      <ul style="margin-left: 15px; margin-top: 5px; list-style-image: url(/images/footer_bullet.jpg);">
-       <li><a href="/rebate.php" style="color: #66513c; font-weight: normal; text-decoration: none;">Find a Rebate</a></li>
-       <li><a href="/specials.php?category=1011" style="color: #66513c; font-weight: normal; text-decoration: none;">Sales &amp; Clearance</a></li>
+     <td class="footerBoxMain">
+      <ul>
+       <li><a href="/rebate.php">Find a Rebate</a></li>
+       <li><a href="/specials.php">Sales &amp; Clearance</a></li>
       </ul>
      </td>
     </tr>
@@ -615,15 +628,17 @@ Los Angeles, CA 90025<br>
  </tr>
 </tbody></table>
 
-<div style="width: 750px; margin-top: 10px; font-family: verdana; font-size: 6.5pt; color: #66513c;">
-<sup>†</sup>The advertised payment amount is an estimate of the first required minimum payment for that item, assuming your previous account balance was zero. If previous balance is not zero, the minimum payment due will be the greater of: (a) $15.00; or (b) 3.00% of the purchase amount for items over $499.00, which is the minimum required payment amount for Defer Interest Promotional Plan(s) or 4.00% of the purchase amount for items under $499.00 (rounded to the nearest dollar). You can always pay more than the minimum required payment. Please see the credit card agreement for details regarding minimum payment calculation(s).
-<br><br>
-*Length of promotional period will depend on purchase amount. All promotions require a minimum purchase of at least $499. At the time of checkout you will be informed of the precise promotion, if any, to which you are entitled. When you use your Venue credit card account, Finance Charges are deferred for promotional credit plan purchases but accrue from the date of purchase through and including the last day of the promotional period. Payments are required during the promotional period. The minimum required payment during the promotional period is 3% of the balance shown on your Statement for this Credit Plan or $15.00, whichever is greater. If the promotional credit plan purchase is not paid in full before the promotional period ends (3,6,12 or 18 months from date of purchase) or regular revolving and/or any promotional plan payments are not paid when required, under this or any other Venue promotional credit plan, the remaining balance and the amount of Finance Charges that have accrued from the date of purchase through and including the last day of the promotional period will be included in your regular revolving balance and regular credit terms will apply. As of November 1, APR is 14.24% for APR 3, 19.00% for APR 2 and 22.98% for APR 1 accounts. This rate may vary. Minimum monthly FINANCE CHARGE of $1.50. Please note that the minimum payment amount for regular revolving payment is 4% of the balance shown on your Statement or $15.00, whichever is greater. This means that your minimum payment amount may increase if you do not pay the full balance within the promotional period.
+<div id="footerDisclosureOuter">
+ <div id="footerDisclosure">
+  <sup>†</sup>The advertised payment amount is an estimate of the first required minimum payment for that item, assuming your previous account balance was zero. If previous balance is not zero, the minimum payment due will be the greater of: (a) $15.00; or (b) 3.00% of the purchase amount for items over $499.00, which is the minimum required payment amount for Defer Interest Promotional Plan(s) or 4.00% of the purchase amount for items under $499.00 (rounded to the nearest dollar). You can always pay more than the minimum required payment. Please see the credit card agreement for details regarding minimum payment calculation(s).
+  <br><br>
+  *Length of promotional period will depend on purchase amount. All promotions require a minimum purchase of at least $499 (excluding shipping &amp; handling and sales tax if applicable). At the time of checkout you will be informed of the precise promotion, if any, to which you are entitled. When you use your Venue credit card account, Finance Charges are deferred for promotional credit plan purchases but accrue from the date of purchase through and including the last day of the promotional period. Payments are required during the promotional period. The minimum required payment during the promotional period is 3% of the balance shown on your Statement for this Credit Plan or $15.00, whichever is greater. If the promotional credit plan purchase is not paid in full before the promotional period ends (3,6,12 or 18 months from date of purchase) or regular revolving and/or any promotional plan payments are not paid when required, under this or any other Venue promotional credit plan, the remaining balance and the amount of Finance Charges that have accrued from the date of purchase through and including the last day of the promotional period will be included in your regular revolving balance and regular credit terms will apply. As of January 1, 2009, APR is 14.24% for APR 3, 19.00% for APR 2 and 22.98% for APR 1 accounts. This rate may vary. Minimum monthly FINANCE CHARGE of $1.50. Please note that the minimum payment amount for regular revolving payment is 4% of the balance shown on your Statement or $15.00, whichever is greater. This means that your minimum payment amount may increase if you do not pay the full balance within the promotional period.
+ </div>
 </div>
 
-<div style="margin-top: 10px; font-family: verdana; font-weight: bold; font-size: 6.5pt; color: #66513c;">
-<a style="font-weight: normal; color: #66513c;" href="/about.php">About Us</a> | <a style="font-weight: normal; color: #66513c;" href="/terms.php">Website Terms of Use</a> | <a style="font-weight: normal; color: #66513c;" href="/privacy_policy.php">Privacy Policy</a> | <a style="font-weight: normal; color: #66513c;" href="/contact.php">Contact Us</a><br>
-<span style="font-weight: normal;">Copyright © 2008 Venue. All rights reserved.</span>
+<div id="footerLinks">
+ <a href="/about.php">About Us</a> | <a href="/terms.php">Website Terms of Use</a> | <a href="/privacy_policy.php">Privacy Policy</a> | <a href="/contact.php">Contact Us</a><br>
+ <span id="footerCopyright">Copyright © 2008 Venue. All rights reserved.</span>
 </div>
 
 <br>&nbsp;
@@ -632,6 +647,7 @@ Los Angeles, CA 90025<br>
 <ul>
     <li id="m3010"><a href="http://www.venue.com/televisions/lcd_tvs/">LCD TVs<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
         <ul>
+                    <li><a href="http://www.venue.com/televisions/rca_lcd_tv/">RCA LCD</a></li>
                     <li><a href="http://www.venue.com/televisions/sony_lcd/">Sony LCD</a></li>
                     <li><a href="http://www.venue.com/televisions/sharp_lcd/">Sharp LCD</a></li>
                     <li><a href="http://www.venue.com/televisions/samsung_lcd/">Samsung LCD</a></li>
@@ -650,7 +666,6 @@ Los Angeles, CA 90025<br>
                     <li><a href="http://www.venue.com/televisions/panasonic_plasma/">Panasonic Plasma</a></li>
                     <li><a href="http://www.venue.com/televisions/samsung_plasma/">Samsung Plasma</a></li>
                     <li><a href="http://www.venue.com/televisions/lg_plasma/">LG Plasma</a></li>
-                    <li><a href="http://www.venue.com/televisions/philips_plasma/">Philips Plasma</a></li>
         </ul>
     </li>
     <li id="m3011"><a href="http://www.venue.com/televisions/projection_tvs/">Projection TVs<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
@@ -670,7 +685,6 @@ Los Angeles, CA 90025<br>
                     <li><a href="http://www.venue.com/televisions/cables_adapters/">Cables/Adapters</a></li>
                     <li><a href="http://www.venue.com/televisions/remote_control/">Remote Control</a></li>
                     <li><a href="http://www.venue.com/televisions/cleaning_supplies/">Cleaning Supplies</a></li>
-                    <li><a href="http://www.venue.com/televisions/switches/">Switches</a></li>
                     <li><a href="http://www.venue.com/televisions/tv_power_protection/">Power Protection</a></li>
                     <li><a href="http://www.venue.com/televisions/digital_tv_converter_boxes/">Digital TV Converter Boxes</a></li>
         </ul>
@@ -686,7 +700,6 @@ Los Angeles, CA 90025<br>
                     <li><a href="http://www.venue.com/computers/compaq_desktops/">Compaq Desktops</a></li>
                     <li><a href="http://www.venue.com/computers/hp_desktops/">HP Desktops</a></li>
                     <li><a href="http://www.venue.com/computers/dell_desktops/">Dell Desktops</a></li>
-                    <li><a href="http://www.venue.com/computers/gateway_desktops/">Gateway Desktops</a></li>
                     <li><a href="http://www.venue.com/computers/emachine_desktops/">eMachine Desktops</a></li>
                     <li><a href="http://www.venue.com/computers/dell_studio_hybrids/">Dell Studio Hybrids</a></li>
         </ul>
@@ -698,9 +711,20 @@ Los Angeles, CA 90025<br>
                     <li><a href="http://www.venue.com/computers/toshiba_laptops/">Toshiba Laptops</a></li>
                     <li><a href="http://www.venue.com/computers/acer_laptops/">Acer Laptops</a></li>
                     <li><a href="http://www.venue.com/computers/dell_laptops/">Dell Laptops</a></li>
-                    <li><a href="http://www.venue.com/computers/sony_laptops/">Sony Laptops</a></li>
-                    <li><a href="http://www.venue.com/computers/gateway_laptops/">Gateway Laptops</a></li>
                     <li><a href="http://www.venue.com/computers/emachines_laptops/">eMachines Laptops</a></li>
+        </ul>
+    </li>
+    <li id="m5714"><a href="http://www.venue.com/computers/netbooks/">Netbooks<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
+        <ul>
+                    <li><a href="http://www.venue.com/computers/hp_netbooks/">HP Netbooks</a></li>
+                    <li><a href="http://www.venue.com/computers/acer_netbooks/">Acer Netbooks</a></li>
+        </ul>
+    </li>
+    <li id="m5736"><a href="http://www.venue.com/computers/apple/">Apple<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
+        <ul>
+                    <li><a href="http://www.venue.com/computers/desktop_computers/">Desktop Computers</a></li>
+                    <li><a href="http://www.venue.com/computers/laptop_computers/">Laptop Computers</a></li>
+                    <li><a href="http://www.venue.com/computers/ipods_apple/">iPods</a></li>
         </ul>
     </li>
     <li id="m2003"><a href="http://www.venue.com/computers/monitors/">Monitors<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
@@ -708,21 +732,16 @@ Los Angeles, CA 90025<br>
                     <li><a href="http://www.venue.com/computers/hp_monitors/">HP Monitors</a></li>
                     <li><a href="http://www.venue.com/computers/compaq_monitors/">Compaq Monitors</a></li>
                     <li><a href="http://www.venue.com/computers/viewsonic_monitors/">Viewsonic Monitors</a></li>
-                    <li><a href="http://www.venue.com/computers/acer_monitors/">Acer Monitors</a></li>
                     <li><a href="http://www.venue.com/computers/dell_monitors/">Dell Monitors</a></li>
                     <li><a href="http://www.venue.com/computers/aoc_monitors/">AOC Monitors</a></li>
         </ul>
     </li>
     <li id="m2004"><a href="http://www.venue.com/computers/printers_ink/">Printers &amp; Ink<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
         <ul>
-                    <li><a href="http://www.venue.com/computers/lexmark_printers/">Lexmark Printers</a></li>
                     <li><a href="http://www.venue.com/computers/canon_printers/">Canon Printers</a></li>
                     <li><a href="http://www.venue.com/computers/epson_printers/">Epson Printers</a></li>
                     <li><a href="http://www.venue.com/computers/hp_printers/">HP Printers</a></li>
                     <li><a href="http://www.venue.com/computers/hp_ink_paper/">HP Ink &amp; Paper</a></li>
-                    <li><a href="http://www.venue.com/computers/lexmark_ink_paper/">Lexmark Ink &amp; Paper</a></li>
-                    <li><a href="http://www.venue.com/computers/kodak_ink_paper/">Kodak Ink &amp; Paper</a></li>
-                    <li><a href="http://www.venue.com/computers/canon_ink_paper/">Canon Ink &amp; Paper</a></li>
                     <li><a href="http://www.venue.com/computers/epson_ink_paper/">Epson Ink &amp; Paper</a></li>
         </ul>
     </li>
@@ -733,11 +752,7 @@ Los Angeles, CA 90025<br>
     <li id="m2019"><a href="http://www.venue.com/computers/software/">Software<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
         <ul>
                     <li><a href="http://www.venue.com/computers/microsoft_office/">Microsoft Office</a></li>
-                    <li><a href="http://www.venue.com/computers/antivirus_internet_security/">Antivirus/Internet Security</a></li>
-                    <li><a href="http://www.venue.com/computers/windows_operating_system/">Windows Operating System</a></li>
-                    <li><a href="http://www.venue.com/computers/accounting/">Accounting</a></li>
-                    <li><a href="http://www.venue.com/computers/pc_gaming/">PC Gaming</a></li>
-                    <li><a href="http://www.venue.com/computers/travel_mapping/">Travel/Mapping</a></li>
+                    <li><a href="http://www.venue.com/computers/financial_management/">Financial Management</a></li>
         </ul>
     </li>
     <li id="m5291"><a href="http://www.venue.com/computers/keyboards/">Keyboards<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
@@ -748,7 +763,6 @@ Los Angeles, CA 90025<br>
     </li>
     <li id="m5024"><a href="http://www.venue.com/computers/mice_gaming_devices/">Mice &amp; Gaming Devices<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
         <ul>
-                    <li><a href="http://www.venue.com/computers/logitech_devices/">Logitech Devices</a></li>
                     <li><a href="http://www.venue.com/computers/targus_devices/">Targus Devices</a></li>
                     <li><a href="http://www.venue.com/computers/microsoft_devices/">Microsoft Devices</a></li>
         </ul>
@@ -756,12 +770,8 @@ Los Angeles, CA 90025<br>
     <li id="m5025"><a href="http://www.venue.com/computers/networking/">Networking<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
         <ul>
                     <li><a href="http://www.venue.com/computers/cables/">Cables</a></li>
-                    <li><a href="http://www.venue.com/computers/belkin_networking/">Belkin Networking</a></li>
                     <li><a href="http://www.venue.com/computers/linksys_networking/">Linksys Networking</a></li>
-                    <li><a href="http://www.venue.com/computers/d_link_networking/">D-Link Networking</a></li>
                     <li><a href="http://www.venue.com/computers/sling_media/">Sling Media Networking</a></li>
-                    <li><a href="http://www.venue.com/computers/diamond_networking/">Diamond Networking</a></li>
-                    <li><a href="http://www.venue.com/computers/netgear/">Netgear</a></li>
                     <li><a href="http://www.venue.com/computers/targus_networking/">Targus Networking</a></li>
         </ul>
     </li>
@@ -773,25 +783,27 @@ Los Angeles, CA 90025<br>
     </li>
     <li id="m5125"><a href="http://www.venue.com/computers/power_protection/">Power Protection</a>
     </li>
-    <li id="m5330"><a href="http://www.venue.com/computers/video_cards/">Video Cards</a>
+    <li id="m5330"><a href="http://www.venue.com/computers/video_cards/">Video Cards<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
+        <ul>
+                    <li><a href="http://www.venue.com/computers/diamond_multimedia/">Diamond Multimedia</a></li>
+        </ul>
     </li>
     <li id="m5336"><a href="http://www.venue.com/computers/flash_drives/">Flash Drives</a>
     </li>
     <li id="m5029"><a href="http://www.venue.com/computers/laptop_bags/">Laptop Bags<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
         <ul>
                     <li><a href="http://www.venue.com/computers/targus_bags/">Targus Bags</a></li>
+                    <li><a href="http://www.venue.com/computers/case_logic_bags/">Case Logic Bags</a></li>
         </ul>
     </li>
     <li id="m5299"><a href="http://www.venue.com/computers/computer_accessories/">Computer Accessories<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
         <ul>
-                    <li><a href="http://www.venue.com/computers/logitech/">Logitech</a></li>
                     <li><a href="http://www.venue.com/computers/microsoft/">Microsoft</a></li>
                     <li><a href="http://www.venue.com/computers/targus_computer_accessories/">Targus</a></li>
         </ul>
     </li>
     <li id="m5363"><a href="http://www.venue.com/computers/media/">Media<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
         <ul>
-                    <li><a href="http://www.venue.com/computers/dvd_media/">DVD Media</a></li>
                     <li><a href="http://www.venue.com/computers/cd_media/">CD Media</a></li>
         </ul>
     </li>
@@ -806,7 +818,6 @@ Los Angeles, CA 90025<br>
 <ul>
     <li id="m2009"><a href="http://www.venue.com/electronics/cameras/">Cameras<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
         <ul>
-                    <li><a href="http://www.venue.com/electronics/sony_cameras/">Sony Cameras</a></li>
                     <li><a href="http://www.venue.com/electronics/canon_camera/">Canon Camera</a></li>
                     <li><a href="http://www.venue.com/electronics/olympus_camera/">Olympus Camera</a></li>
                     <li><a href="http://www.venue.com/electronics/kodak_camera/">Kodak Camera</a></li>
@@ -830,7 +841,6 @@ Los Angeles, CA 90025<br>
                     <li><a href="http://www.venue.com/electronics/camera_bags_kits/">Camera Bags &amp; Kits</a></li>
                     <li><a href="http://www.venue.com/electronics/memory_cards/">Memory Cards</a></li>
                     <li><a href="http://www.venue.com/electronics/camera_lenses/">Camera Lenses</a></li>
-                    <li><a href="http://www.venue.com/electronics/camera_lens_adapters/">Camera Lens Adapters</a></li>
                     <li><a href="http://www.venue.com/electronics/tripods/">Tripods</a></li>
         </ul>
     </li>
@@ -844,12 +854,14 @@ Los Angeles, CA 90025<br>
         <ul>
                     <li><a href="http://www.venue.com/electronics/portable_dvd_players/">Portable DVD Players</a></li>
                     <li><a href="http://www.venue.com/electronics/blu_ray_players/">Blu-Ray Players</a></li>
+                    <li><a href="http://www.venue.com/electronics/dvd_vcr_players/">DVD/VCR Players</a></li>
+                    <li><a href="http://www.venue.com/electronics/dvd_players/">DVD Players</a></li>
+                    <li><a href="http://www.venue.com/electronics/dvd_recorders/">DVD Recorders</a></li>
         </ul>
     </li>
     <li id="m2017"><a href="http://www.venue.com/electronics/ipods_mp3/">iPods/MP3<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
         <ul>
                     <li><a href="http://www.venue.com/electronics/ipods/">iPods</a></li>
-                    <li><a href="http://www.venue.com/electronics/mp3_players/">MP3 Players</a></li>
                     <li><a href="http://www.venue.com/electronics/ipod_accessories/">iPod Accessories</a></li>
                     <li><a href="http://www.venue.com/electronics/ipod_audio_speakers/">iPod Audio &amp; Speakers</a></li>
                     <li><a href="http://www.venue.com/electronics/mp3_accessories/">MP3 Accessories</a></li>
@@ -857,12 +869,12 @@ Los Angeles, CA 90025<br>
     </li>
     <li id="m2034"><a href="http://www.venue.com/electronics/audio/">Audio<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
         <ul>
+                    <li><a href="http://www.venue.com/electronics/audio_accessories/">Audio Accessories</a></li>
                     <li><a href="http://www.venue.com/electronics/home_theater/">Home Theater</a></li>
                     <li><a href="http://www.venue.com/electronics/cd_players_cassette_players_turntables/">CD Players, Cassette Players &amp; Turntables</a></li>
                     <li><a href="http://www.venue.com/electronics/shelf_systems/">Shelf Systems</a></li>
                     <li><a href="http://www.venue.com/electronics/speakers/">Speakers</a></li>
                     <li><a href="http://www.venue.com/electronics/receivers_amplifiers/">Receivers &amp; Amplifiers</a></li>
-                    <li><a href="http://www.venue.com/electronics/media_players/">Media Players</a></li>
         </ul>
     </li>
     <li id="m2018"><a href="http://www.venue.com/electronics/gps/">GPS<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
@@ -881,15 +893,10 @@ Los Angeles, CA 90025<br>
     <li id="m5031"><a href="http://www.venue.com/electronics/headphones/">Headphones<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
         <ul>
                     <li><a href="http://www.venue.com/electronics/altec_lansing/">Altec Lansing</a></li>
-                    <li><a href="http://www.venue.com/electronics/apple/">Apple</a></li>
                     <li><a href="http://www.venue.com/electronics/bose/">Bose</a></li>
                     <li><a href="http://www.venue.com/electronics/denon/">Denon</a></li>
                     <li><a href="http://www.venue.com/electronics/jvc_headphones/">JVC</a></li>
-                    <li><a href="http://www.venue.com/electronics/logitech/">Logitech</a></li>
                     <li><a href="http://www.venue.com/electronics/panasonic_headphones/">Panasonic</a></li>
-                    <li><a href="http://www.venue.com/electronics/philips/">Philips</a></li>
-                    <li><a href="http://www.venue.com/electronics/ultimate_ears/">Ultimate Ears</a></li>
-                    <li><a href="http://www.venue.com/electronics/sennheiser_headphones/">Sennheiser</a></li>
         </ul>
     </li>
     <li id="m5182"><a href="http://www.venue.com/electronics/radar_detectors/">Radar Detectors<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
@@ -978,7 +985,6 @@ Los Angeles, CA 90025<br>
         <ul>
                     <li><a href="http://www.venue.com/games_movies_music/musical_keyboards/">Keyboards</a></li>
                     <li><a href="http://www.venue.com/games_movies_music/guitars/">Guitars</a></li>
-                    <li><a href="http://www.venue.com/games_movies_music/drums/">Drums</a></li>
                     <li><a href="http://www.venue.com/games_movies_music/musical_instrument_accessories/">Musical Instrument Accessories</a></li>
                     <li><a href="http://www.venue.com/games_movies_music/karaoke/">Karaoke</a></li>
         </ul>
@@ -1061,71 +1067,59 @@ Los Angeles, CA 90025<br>
     </li>
     <li id="m2037"><a href="http://www.venue.com/fashion_beauty/handbags/">Handbags<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
         <ul>
-                    <li><a href="http://www.venue.com/fashion_beauty/missoni_handbags/">Missoni</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/christian_dior/">Christian Dior</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/fendi/">Fendi</a></li>
                     <li><a href="http://www.venue.com/fashion_beauty/7_for_all_mankind_handbags/">7 For All Mankind</a></li>
                     <li><a href="http://www.venue.com/fashion_beauty/costume_national_company/">Costume National Company (CNC)</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/dolce_gabbana_handbags/">Dolce Gabbana</a></li>
                     <li><a href="http://www.venue.com/fashion_beauty/donald_pliner_handbags/">Donald Pliner</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/fendi_handbags/">Fendi</a></li>
                     <li><a href="http://www.venue.com/fashion_beauty/galliano_handbag/">Galliano</a></li>
                     <li><a href="http://www.venue.com/fashion_beauty/isabella_fiore_handbags/">Isabella Fiore</a></li>
                     <li><a href="http://www.venue.com/fashion_beauty/just_cavalli_handbags/">Just Cavalli</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/lowe_valentini_handbags/">Lowe Valentini</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/missoni_handbags/">Missoni</a></li>
                     <li><a href="http://www.venue.com/fashion_beauty/prada_handbags/">Prada</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/premium_designer_wallets/">Premium Designer Wallets</a></li>
         </ul>
     </li>
     <li id="m2038"><a href="http://www.venue.com/fashion_beauty/sunglasses/">Sunglasses<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
         <ul>
-                    <li><a href="http://www.venue.com/fashion_beauty/john_varvatos_sunglasses/">John Varvatos</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/valentino_sunglasses/">Valentino</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/kate_spade_sunglasses/">Kate Spade</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/yves_saint_laurent_sunglasses/">Yves Saint Laurent</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/hugo_boss_sunglasses/">Hugo Boss</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/marc_by_marc_jacobs_sunglasses/">Marc by Marc Jacobs</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/armani/">Armani</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/bvlgari_sunglasses/">Bvlgari</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/carolina_herrera/">Carolina Herrera</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/christian_dior_sunglasses/">Christian Dior</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/coach/">Coach</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/d_g/">D &amp; G</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/dolce_gabbana/">Dolce &amp; Gabbana</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/fendi_sunglasses/">Fendi</a></li>
                     <li><a href="http://www.venue.com/fashion_beauty/gucci_sunglasses/">Gucci</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/hugo_boss_sunglasses/">Hugo Boss</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/john_varvatos_sunglasses/">John Varvatos</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/kate_spade_sunglasses/">Kate Spade</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/marc_jacobs/">Marc Jacobs</a></li>
                     <li><a href="http://www.venue.com/fashion_beauty/prada_sunglasses/">Prada</a></li>
                     <li><a href="http://www.venue.com/fashion_beauty/rayban_sunglasses/">Ray Ban</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/valentino_sunglasses/">Valentino</a></li>
                     <li><a href="http://www.venue.com/fashion_beauty/versace_sunglasses/">Versace</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/christian_dior_sunglasses/">Christian Dior</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/dolce_gabbana/">Dolce &amp; Gabbana</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/bvlgari_sunglasses/">Bvlgari</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/d_g/">D &amp; G</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/carolina_herrera/">Carolina Herrera</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/fendi_sunglasses/">Fendi</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/marc_jacobs/">Marc Jacobs</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/nike/">Nike</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/coach/">Coach</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/armani/">Armani</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/yves_saint_laurent_sunglasses/">Yves Saint Laurent</a></li>
         </ul>
     </li>
     <li id="m5207"><a href="http://www.venue.com/fashion_beauty/skincare/">Skincare<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
         <ul>
-                    <li><a href="http://www.venue.com/fashion_beauty/murad/">Murad</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/peter_thomas_roth/">Peter Thomas Roth</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/noevir/">Noevir</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/lancome/">Lancome</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/talika/">Talika</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/clinique/">Clinique</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/la_prairie/">La Prairie</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/ahava/">Ahava</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/sisley_skincare/">Sisley</a></li>
                     <li><a href="http://www.venue.com/fashion_beauty/borghese/">Borghese</a></li>
                     <li><a href="http://www.venue.com/fashion_beauty/elizabeth_arden/">Elizabeth Arden</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/lancome/">Lancome</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/la_prairie/">La Prairie</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/sisley_skincare/">Sisley</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/talika/">Talika</a></li>
         </ul>
     </li>
     <li id="m5209"><a href="http://www.venue.com/fashion_beauty/makeup/">Makeup<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
         <ul>
+                    <li><a href="http://www.venue.com/fashion_beauty/borghese/">Borghese</a></li>
                     <li><a href="http://www.venue.com/fashion_beauty/chanel/">Chanel</a></li>
                     <li><a href="http://www.venue.com/fashion_beauty/estee_lauder/">Estee Lauder</a></li>
                     <li><a href="http://www.venue.com/fashion_beauty/lancome/">Lancome</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/yves_saint_laurent/">Yves Saint Laurent</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/mac/">Mac</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/sisley/">Sisley</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/la_prairie/">La Prairie</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/borghese/">Borghese</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/make_up_kit/">Make up kit</a></li>
                     <li><a href="http://www.venue.com/fashion_beauty/make_up_brushes/">Make up Brushes</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/make_up_kit/">Make up kit</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/yves_saint_laurent/">Yves Saint Laurent</a></li>
         </ul>
     </li>
     <li id="m5375"><a href="http://www.venue.com/fashion_beauty/cosmetic_cases_makeup_bags/">Cosmetic Cases/Makeup Bags</a>
@@ -1133,10 +1127,9 @@ Los Angeles, CA 90025<br>
     <li id="m5210"><a href="http://www.venue.com/fashion_beauty/bath_body/">Bath &amp; Body<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
         <ul>
                     <li><a href="http://www.venue.com/fashion_beauty/ahava/">AHAVA</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/mor/">Mor</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/noevir/">Noevir</a></li>
                     <li><a href="http://www.venue.com/fashion_beauty/borghese/">Borghese</a></li>
                     <li><a href="http://www.venue.com/fashion_beauty/calvin_klein/">Calvin Klein</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/mor/">Mor</a></li>
         </ul>
     </li>
     <li id="m5206"><a href="http://www.venue.com/fashion_beauty/hair_care/">Hair Care</a>
@@ -1147,14 +1140,13 @@ Los Angeles, CA 90025<br>
                     <li><a href="http://www.venue.com/fashion_beauty/braun/">Braun</a></li>
                     <li><a href="http://www.venue.com/fashion_beauty/norelco/">Norelco</a></li>
                     <li><a href="http://www.venue.com/fashion_beauty/panasonic/">Panasonic</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/remington/">Remington</a></li>
         </ul>
     </li>
     <li id="m5381"><a href="http://www.venue.com/fashion_beauty/men's_grooming/">Men's Grooming<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
         <ul>
-                    <li><a href="http://www.venue.com/fashion_beauty/nickel/">Nickel</a></li>
-                    <li><a href="http://www.venue.com/fashion_beauty/lancome/">Lancome</a></li>
                     <li><a href="http://www.venue.com/fashion_beauty/jack_black/">Jack Black</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/lancome/">Lancome</a></li>
+                    <li><a href="http://www.venue.com/fashion_beauty/nickel/">Nickel</a></li>
         </ul>
     </li>
 </ul>
@@ -1162,12 +1154,10 @@ Los Angeles, CA 90025<br>
 <ul>
     <li id="m5034"><a href="http://www.venue.com/jewelry_watches/women's_watches/">Women's Watches<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
         <ul>
-                    <li><a href="http://www.venue.com/jewelry_watches/longines_women_watches/">Longines</a></li>
-                    <li><a href="http://www.venue.com/jewelry_watches/chanel_women_watches/">Chanel</a></li>
-                    <li><a href="http://www.venue.com/jewelry_watches/philip_stein/">Philip Stein</a></li>
-                    <li><a href="http://www.venue.com/jewelry_watches/cartier/">Cartier</a></li>
                     <li><a href="http://www.venue.com/jewelry_watches/accutron_women/">Accutron</a></li>
                     <li><a href="http://www.venue.com/jewelry_watches/bulova_women_watches/">Bulova</a></li>
+                    <li><a href="http://www.venue.com/jewelry_watches/cartier/">Cartier</a></li>
+                    <li><a href="http://www.venue.com/jewelry_watches/charriol_women_watches/">Charriol</a></li>
                     <li><a href="http://www.venue.com/jewelry_watches/citizen_women/">Citizen</a></li>
                     <li><a href="http://www.venue.com/jewelry_watches/concord_women/">Concord</a></li>
                     <li><a href="http://www.venue.com/jewelry_watches/esq_women/">ESQ</a></li>
@@ -1183,15 +1173,14 @@ Los Angeles, CA 90025<br>
     </li>
     <li id="m5035"><a href="http://www.venue.com/jewelry_watches/men's_watches/">Men's Watches<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
         <ul>
-                    <li><a href="http://www.venue.com/jewelry_watches/wittnauer_men/">Wittnauer</a></li>
-                    <li><a href="http://www.venue.com/jewelry_watches/david_yurman_men_watches/">David Yurman</a></li>
-                    <li><a href="http://www.venue.com/jewelry_watches/unisex_fashion_watches_mens/">TKO</a></li>
                     <li><a href="http://www.venue.com/jewelry_watches/accutron_men/">Accutron</a></li>
                     <li><a href="http://www.venue.com/jewelry_watches/armani_men/">Armani</a></li>
                     <li><a href="http://www.venue.com/jewelry_watches/bulova_men/">Bulova</a></li>
                     <li><a href="http://www.venue.com/jewelry_watches/citizen_men/">Citizen</a></li>
                     <li><a href="http://www.venue.com/jewelry_watches/concord_men/">Concord</a></li>
+                    <li><a href="http://www.venue.com/jewelry_watches/david_yurman_men_watches/">David Yurman</a></li>
                     <li><a href="http://www.venue.com/jewelry_watches/esq_men/">ESQ</a></li>
+                    <li><a href="http://www.venue.com/jewelry_watches/gino_franco/">Gino Franco</a></li>
                     <li><a href="http://www.venue.com/jewelry_watches/gucci_men/">Gucci</a></li>
                     <li><a href="http://www.venue.com/jewelry_watches/movado_men/">Movado</a></li>
                     <li><a href="http://www.venue.com/jewelry_watches/rado_men/">Rado</a></li>
@@ -1199,11 +1188,13 @@ Los Angeles, CA 90025<br>
                     <li><a href="http://www.venue.com/jewelry_watches/swiss_army_men/">Swiss Army</a></li>
                     <li><a href="http://www.venue.com/jewelry_watches/tag_heuer_men/">Tag Heuer</a></li>
                     <li><a href="http://www.venue.com/jewelry_watches/tissot_men/">Tissot</a></li>
+                    <li><a href="http://www.venue.com/jewelry_watches/unisex_fashion_watches_mens/">TKO</a></li>
+                    <li><a href="http://www.venue.com/jewelry_watches/wittnauer_men/">Wittnauer</a></li>
         </ul>
     </li>
     <li id="m5002"><a href="http://www.venue.com/jewelry_watches/journey_collection/">Journey Collection</a>
     </li>
-    <li id="m5687"><a href="http://www.venue.com/jewelry_watches/genesis/">Genesis<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
+    <li id="m5687"><a href="http://www.venue.com/jewelry_watches/genesis/">Genesis Made By Ritani<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
         <ul>
                     <li><a href="http://www.venue.com/jewelry_watches/genesis_necklaces_pendants/">Necklaces &amp; Pendants</a></li>
                     <li><a href="http://www.venue.com/jewelry_watches/genesis_rings/">Rings</a></li>
@@ -1215,6 +1206,12 @@ Los Angeles, CA 90025<br>
                     <li><a href="http://www.venue.com/jewelry_watches/charriol_rings/">Rings</a></li>
                     <li><a href="http://www.venue.com/jewelry_watches/charriol_earrings/">Earrings</a></li>
                     <li><a href="http://www.venue.com/jewelry_watches/charriol_necklaces_pendants/">Necklaces &amp; Pendants</a></li>
+        </ul>
+    </li>
+    <li id="m5740"><a href="http://www.venue.com/jewelry_watches/crislu/">CRISLU  -Cubic Zirconia line<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
+        <ul>
+                    <li><a href="http://www.venue.com/jewelry_watches/pendant_and_earring_sets/">Pendant &amp; Earring sets</a></li>
+                    <li><a href="http://www.venue.com/jewelry_watches/bracelets_crislo/">Bracelets</a></li>
         </ul>
     </li>
     <li id="m4003"><a href="http://www.venue.com/jewelry_watches/necklaces/">Necklaces<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
@@ -1266,7 +1263,8 @@ Los Angeles, CA 90025<br>
                     <li><a href="http://www.venue.com/for_the_home/washers/">Washers</a></li>
                     <li><a href="http://www.venue.com/for_the_home/electric_dryers/">Electric Dryers</a></li>
                     <li><a href="http://www.venue.com/for_the_home/gas_dryers/">Gas Dryers</a></li>
-                    <li><a href="http://www.venue.com/for_the_home/refrigerators/">Refrigerators</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/top_mount_refrigerators/">Top Mount Refrigerators</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/side_by_side_refrigerators/">Side by Side Refrigerators</a></li>
                     <li><a href="http://www.venue.com/for_the_home/electric_ranges/">Electric Ranges</a></li>
                     <li><a href="http://www.venue.com/for_the_home/gas_ranges/">Gas Ranges</a></li>
                     <li><a href="http://www.venue.com/for_the_home/over_the_range_microwave_ovens/">Over the Range Microwave Ovens</a></li>
@@ -1280,15 +1278,11 @@ Los Angeles, CA 90025<br>
         <ul>
                     <li><a href="http://www.venue.com/for_the_home/panasonic_microwave/">Panasonic Microwave</a></li>
                     <li><a href="http://www.venue.com/for_the_home/sharp_microwave/">Sharp Microwave</a></li>
-                    <li><a href="http://www.venue.com/for_the_home/lg_microwave/">LG Microwave</a></li>
                     <li><a href="http://www.venue.com/for_the_home/whirlpool_microwave_ovens/">Whirlpool Microwave</a></li>
                     <li><a href="http://www.venue.com/for_the_home/cuisinart_microwave/">Cuisinart Microwave</a></li>
         </ul>
     </li>
-    <li id="m4005"><a href="http://www.venue.com/for_the_home/barbeque/">Barbeque<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
-        <ul>
-                    <li><a href="http://www.venue.com/for_the_home/bbq_accessories/">BBQ Accessories</a></li>
-        </ul>
+    <li id="m4005"><a href="http://www.venue.com/for_the_home/barbeque/">Barbeque</a>
     </li>
     <li id="m5185"><a href="http://www.venue.com/for_the_home/vacuum_cleaners/">Vacuum Cleaners<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
         <ul>
@@ -1297,7 +1291,6 @@ Los Angeles, CA 90025<br>
                     <li><a href="http://www.venue.com/for_the_home/electrolux/">Electrolux</a></li>
                     <li><a href="http://www.venue.com/for_the_home/eureka/">Eureka</a></li>
                     <li><a href="http://www.venue.com/for_the_home/euro_pro/">Euro-Pro</a></li>
-                    <li><a href="http://www.venue.com/for_the_home/mcculloch/">McCulloch</a></li>
                     <li><a href="http://www.venue.com/for_the_home/panasonic/">Panasonic</a></li>
                     <li><a href="http://www.venue.com/for_the_home/hoover/">Hoover</a></li>
                     <li><a href="http://www.venue.com/for_the_home/irobot/">iRobot</a></li>
@@ -1323,7 +1316,7 @@ Los Angeles, CA 90025<br>
     <li id="m2050"><a href="http://www.venue.com/for_the_home/kitchen_electrics/">Kitchen Electrics<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
         <ul>
                     <li><a href="http://www.venue.com/for_the_home/coffee/">Coffee</a></li>
-                    <li><a href="http://www.venue.com/for_the_home/stand_mixers/">Stand Mixers</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/mixers/">Stand/Hand  Mixers</a></li>
                     <li><a href="http://www.venue.com/for_the_home/toasters_ovens/">Toasters &amp; Ovens</a></li>
                     <li><a href="http://www.venue.com/for_the_home/blenders_food_processors/">Blenders &amp; Food Processors</a></li>
                     <li><a href="http://www.venue.com/for_the_home/fryers/">Fryers</a></li>
@@ -1342,7 +1335,22 @@ Los Angeles, CA 90025<br>
                     <li><a href="http://www.venue.com/for_the_home/viking_cookware/">Viking</a></li>
         </ul>
     </li>
+    <li id="m5756"><a href="http://www.venue.com/for_the_home/waterford/">Waterford<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
+        <ul>
+                    <li><a href="http://www.venue.com/for_the_home/losmore_collection/">Lismore Collection</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/ballet_collection/">Ballet Collection</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/mondavi_by_waterford/">Mondavi by Waterford</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/inspirational_gift_set/">Inspirational Gift Set</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/mallory_collection/">Mallory Collection</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/wishes_collection/">Wishes Collection</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/killarney_collection/">Killarney Collection</a></li>
+        </ul>
+    </li>
+    <li id="m5770"><a href="http://www.venue.com/for_the_home/dinnerware/">Dinnerware</a>
+    </li>
     <li id="m5445"><a href="http://www.venue.com/for_the_home/glassware/">Glassware</a>
+    </li>
+    <li id="m5771"><a href="http://www.venue.com/for_the_home/flatware/">Flatware</a>
     </li>
     <li id="m5519"><a href="http://www.venue.com/for_the_home/cutlery/">Cutlery</a>
     </li>
@@ -1351,6 +1359,18 @@ Los Angeles, CA 90025<br>
                     <li><a href="http://www.venue.com/for_the_home/massage_chairs/">Massage Chairs</a></li>
                     <li><a href="http://www.venue.com/for_the_home/living_room_furniture/">Living Room Furniture</a></li>
                     <li><a href="http://www.venue.com/for_the_home/futons/">Futons</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/bar_stools/">Bar Stools</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/cocktail_tables/">Cocktail Tables</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/bars/">Bars</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/chairs/">Chairs</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/tables/">Tables</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/end_tables/">End Tables</a></li>
+        </ul>
+    </li>
+    <li id="m5766"><a href="http://www.venue.com/for_the_home/vanity_sinks/">Vanity Sinks<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
+        <ul>
+                    <li><a href="http://www.venue.com/for_the_home/double/">Double</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/single/">Single</a></li>
         </ul>
     </li>
     <li id="m5580"><a href="http://www.venue.com/for_the_home/game_room_furniture/">Pool Table &amp; Game Room Furniture</a>
@@ -1367,6 +1387,14 @@ Los Angeles, CA 90025<br>
                     <li><a href="http://www.venue.com/for_the_home/perfect_day_cool_breeze_euro_top/">Perfect Day Cool Breeze Euro Top</a></li>
                     <li><a href="http://www.venue.com/for_the_home/perfect_day_exploration_euro_top/">Perfect Day Exploration Euro Top</a></li>
                     <li><a href="http://www.venue.com/for_the_home/sertapedic/">SertaPedic</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/futon_second/">Futon</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/inflatable_beds/">Inflatable Beds By Aerobed</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/serta_pedic_yorkhills_firm_top_mattress/">Serta Pedic Yorkhills Firm Top</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/serta_pedic_hargrove_euro_top_mattress/">Serta Pedic Hargrove Euro Top</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/serta_pedic_songwood_plush_top_mattress/">Serta Pedic Songwood Plush Top</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/perfect_sleeper_heatherglen_euro_top_mattress/">Perfect Sleeper Heatherglen Euro Top</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/perfect_sleeper_delafield_euro_top_mattress/">Perfect Sleeper Delafield Euro Top</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/mattress_pads_matress/">Mattress Pads</a></li>
         </ul>
     </li>
     <li id="m5081"><a href="http://www.venue.com/for_the_home/bedding/">Bedding<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
@@ -1376,7 +1404,9 @@ Los Angeles, CA 90025<br>
                     <li><a href="http://www.venue.com/for_the_home/pearl_reef/">Pearl Reef</a></li>
                     <li><a href="http://www.venue.com/for_the_home/charmonte/">Charmonte</a></li>
                     <li><a href="http://www.venue.com/for_the_home/mirage/">Mirage</a></li>
-                    <li><a href="http://www.venue.com/for_the_home/natura_pillows/">Natura Pillows</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/pillows/">Pillows</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/comforters/">Comforters</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/mattress_pads_bedding/">Mattress Pads</a></li>
         </ul>
     </li>
     <li id="m5709"><a href="http://www.venue.com/for_the_home/area_rugs/">Area Rugs</a>
@@ -1396,7 +1426,6 @@ Los Angeles, CA 90025<br>
                     <li><a href="http://www.venue.com/for_the_home/300_thread_count_lilac/">300 Thread Count Lilac</a></li>
                     <li><a href="http://www.venue.com/for_the_home/300_thread_count_salmon/">300 Thread Count Salmon</a></li>
                     <li><a href="http://www.venue.com/for_the_home/300_thread_count_white/">300 Thread Count White</a></li>
-                    <li><a href="http://www.venue.com/for_the_home/300_thread_count_buttercup/">300 Thread Count Buttercup</a></li>
                     <li><a href="http://www.venue.com/for_the_home/200_thread_count/">200 Thread Count</a></li>
         </ul>
     </li>
@@ -1405,14 +1434,13 @@ Los Angeles, CA 90025<br>
                     <li><a href="http://www.venue.com/for_the_home/milwaukee_power_tools/">Milwaukee Power Tools</a></li>
                     <li><a href="http://www.venue.com/for_the_home/bosch_power_tools/">Bosch Power Tools</a></li>
                     <li><a href="http://www.venue.com/for_the_home/skil_power_tools/">Skil Power Tools</a></li>
-                    <li><a href="http://www.venue.com/for_the_home/dremel_power_tools/">Dremel Power Tools</a></li>
                     <li><a href="http://www.venue.com/for_the_home/roto_zip_powe_tools/">Roto Zip Powe Tools</a></li>
+                    <li><a href="http://www.venue.com/for_the_home/black_and_decker/">Black &amp; Decker</a></li>
         </ul>
     </li>
     <li id="m5130"><a href="http://www.venue.com/for_the_home/personal_care/">Personal Care<img class="udmA" alt=".." title="" src="/udm4-php/udm-resources/right-blue.gif" style="display: block;"></a>
         <ul>
                     <li><a href="http://www.venue.com/for_the_home/electric_toothbrushes/">Electric Toothbrushes</a></li>
-                    <li><a href="http://www.venue.com/for_the_home/bath_scales/">Bath Scales</a></li>
         </ul>
     </li>
     <li id="m5520"><a href="http://www.venue.com/for_the_home/pocket_knives/">Pocket Knives</a>
@@ -1476,7 +1504,7 @@ Los Angeles, CA 90025<br>
     </li>
 </ul>
 </li></ul>   </td>
-   <td style="background: url(/images/body_gradient_right.jpg) #d9d6ce; background-position: top left; background-repeat: repeat-y;">&nbsp;</td>
+   <td id="bodyRight">&nbsp;</td>
   </tr>
  </tbody></table>
 <!-- server ip: 66.201.63.30 --><script type="text/javascript">
@@ -1495,7 +1523,7 @@ pageTracker._trackPageview();
 var axel = Math.random()+"";
 var a = axel * 10000000000000;
 document.write('<IFRAME SRC="https://fls.doubleclick.net/activityi;src=2017315;type=remes526;cat=unive893;ord=1;num='+ a + '?" WIDTH=1 HEIGHT=1 FRAMEBORDER=0></IFRAME>');
-</script><iframe src="https://fls.doubleclick.net/activityi;src=2017315;type=remes526;cat=unive893;ord=1;num=7033212061117.387?" width="1" height="1" frameborder="0"></iframe>
+</script><iframe src="https://fls.doubleclick.net/activityi;src=2017315;type=remes526;cat=unive893;ord=1;num=6451939677079.719?" width="1" height="1" frameborder="0"></iframe>
 <noscript>
 <IFRAME SRC="https://fls.doubleclick.net/activityi;src=2017315;type=remes526;cat=unive893;ord=1;num=1?" WIDTH=1 HEIGHT=1 FRAMEBORDER=0></IFRAME>
 </noscript>
