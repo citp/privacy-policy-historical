@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the venue.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216045043id_/http%3A//www.venue.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venue.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215175627id_/http%3A//www.venue.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Venue.com: Privacy Policy
 
@@ -70,8 +70,4 @@ Suite 106-736
 Los Angeles, CA 90025
 
   
-  
-  
-†The advertised payment amount is an estimate of the first required minimum payment for that item, assuming your previous account balance was zero. If previous balance is not zero, the minimum payment due will be the greater of: (a) $15.00; or (b) 3.00% of the purchase amount for items over $499.00, which is the minimum required payment amount for Defer Interest Promotional Plan(s) or 4.00% of the purchase amount for items under $499.00 (rounded to the nearest dollar). You can always pay more than the minimum required payment. Please see the credit card agreement for details regarding minimum payment calculation(s). 
 
-*Length of promotional period will depend on purchase amount. All promotions require a minimum purchase of at least $499. At the time of checkout you will be informed of the precise promotion, if any, to which you are entitled. When you use your Venue credit card account, Finance Charges are deferred for promotional credit plan purchases but accrue from the date of purchase through and including the last day of the promotional period. Payments are required during the promotional period. The minimum required payment during the promotional period is 3% of the balance shown on your Statement for this Credit Plan or $15.00, whichever is greater. If the promotional credit plan purchase is not paid in full before the promotional period ends (3,6,12 or 18 months from date of purchase) or regular revolving and/or any promotional plan payments are not paid when required, under this or any other Venue promotional credit plan, the remaining balance and the amount of Finance Charges that have accrued from the date of purchase through and including the last day of the promotional period will be included in your regular revolving balance and regular credit terms will apply. As of November 1, APR is 14.24% for APR 3, 19.00% for APR 2 and 22.98% for APR 1 accounts. This rate may vary. Minimum monthly FINANCE CHARGE of $1.50. Please note that the minimum payment amount for regular revolving payment is 4% of the balance shown on your Statement or $15.00, whichever is greater. This means that your minimum payment amount may increase if you do not pay the full balance within the promotional period. 
