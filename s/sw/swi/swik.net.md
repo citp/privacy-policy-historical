@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swik.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040141id_/http%3A//swik.net/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swik.net privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215185305id_/http%3A//swik.net/%3Fprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - SWiK
 
