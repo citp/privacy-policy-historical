@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fleetfarm.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216113350id_/http%3A//www.fleetfarm.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleetfarm.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215095735id_/http%3A//www.fleetfarm.com/privacy_policy) for the most accurate reproduction.*
 
 # Mills Fleet Farm » Privacy Policy
 
