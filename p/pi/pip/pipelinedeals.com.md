@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pipelinedeals.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040550id_/http%3A//www.pipelinedeals.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pipelinedeals.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215193007id_/http%3A//www.pipelinedeals.com/content/privacy) for the most accurate reproduction.*
 
 # CRM is PipelineDeals. Simple CRM Sales Tool only $15/user/month - Take Control of your Sales Pipeline Today
 
