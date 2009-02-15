@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the technicallyeasy.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160703id_/http%3A//technicallyeasy.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technicallyeasy.net privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216005051id_/http%3A//technicallyeasy.net/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Technically Easy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@technicallyeasy.net.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin AT technicallyeasy.net.
 
 At technicallyeasy.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by technicallyeasy.net and how it is used.
 
