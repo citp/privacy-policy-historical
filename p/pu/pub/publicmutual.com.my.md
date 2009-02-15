@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicmutual.com.my privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044249id_/http%3A//www.publicmutual.com.my/page.aspx%3Fname%3Dprivacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicmutual.com.my privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216000556id_/http%3A//www.publicmutual.com.my/page.aspx%3Fname%3Dprivacy%2520policy) for the most accurate reproduction.*
 
 # page
 
