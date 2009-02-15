@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teslamotors.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161559id_/http%3A//www.teslamotors.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teslamotors.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215030906id_/http%3A//www.teslamotors.com/about/privacy.php) for the most accurate reproduction.*
 
 # Tesla Motors - privacy policy
 
