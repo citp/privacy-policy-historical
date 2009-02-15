@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edopter.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170724id_/http%3A//edopter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edopter.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215191026id_/http%3A//www.edopter.com/privacy) for the most accurate reproduction.*
 
-# edopter.com: social trendcasting.
+# edopter is social trendcasting. Discover the next big trends.
 
 One Blue Brick, Inc. ("One Blue Brick") is committed to the responsible handling of our user's information. This online privacy policy ("Privacy Policy") describes how we handle the information we collect from your use of, and access to, our website at www.edopter.com (the "Site"). By accessing or using the Site, you acknowledge and represent that you have read, understood, agree to be bound by, and accept, this Privacy Policy and expressly consent to our collection, storage, use and disclosure of your information as described. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU MUST NOT USE THE SITE.
 
