@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the factoidz.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061428id_/http%3A//factoidz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factoidz.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215215104id_/http%3A//factoidz.com/privacy-policy) for the most accurate reproduction.*
 
-# Factoidz - Factoidz Privacy Policy
+# Factoidz | social knowledge
+
+## Factoidz Privacy Policy
 
 At Factoidz we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by Factoidz Inc. or its subsidiaries or affiliated companies (collectively, Factoidz’s “services”). In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information, which are accessible from the navigation bar to the left of this notice.
 
