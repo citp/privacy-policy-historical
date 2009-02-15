@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the azfamily.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216040650id_/http%3A//www.azfamily.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azfamily.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215142740id_/http%3A//www.azfamily.com/registration/privacy.html) for the most accurate reproduction.*
 
-# Terms of Service | About Us | Local Breaking News from AZFAMILY.COM & KTVK 3TV - Arizona's Family
+# Terms of Service | About Us | Local Breaking News and Weather from AZFAMILY.COM & KTVK 3TV - Arizona's Family
 
 ### Privacy Policy
 
