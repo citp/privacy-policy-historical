@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creatingkeepsakes.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216022406id_/http%3A//www.creatingkeepsakes.com/content/view/17/41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creatingkeepsakes.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215020659id_/http%3A//www.creatingkeepsakes.com/content/view/17/41) for the most accurate reproduction.*
 
 # CK Scrapbook Online Community - Privacy Policy
 
