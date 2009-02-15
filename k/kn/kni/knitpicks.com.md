@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knitpicks.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217092500id_/http%3A//www.knitpicks.com/help/index.php/archive/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knitpicks.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216002324id_/http%3A//www.knitpicks.com/help/index.php/archive/privacy-policy) for the most accurate reproduction.*
 
 # Knit Picks Customer Service » Privacy Policy
 
