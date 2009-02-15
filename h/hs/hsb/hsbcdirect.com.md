@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsbcdirect.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509100308id_/http%3A//www.us.hsbc.com/1/2/3/personal/inside/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbcdirect.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215093513id_/http%3A//www.us.hsbc.com/1/2/3/personal/inside/privacy%3Fcode%3DMIW0000257) for the most accurate reproduction.*
 
 # Privacy, Inside, HSBC Personal
 
@@ -43,17 +43,9 @@ When meeting your financial needs, we collect the following non-public personal 
 
 _Why Do We Share Information Within The HSBC Family Of Companies?_
 
-To help us offer you valuable financial services, HSBC may share the types of information described above in "What Kind Of Information Do We Collect?" within the HSBC family of companies. The HSBC family includes banking, consumer finance, insurance, mortgage, and brokerage companies. Some examples include companies doing business under the names HSBC or Household. If you don't want us to share application and third party credit-related information within the HSBC family of companies, please call us toll-free at _1-877-394-HSBC (1-877-394-4722)_. Your request may take four to six weeks to take effect.
+To help us offer you valuable financial services, HSBC may share the types of information described above in "What Kind Of Information Do We Collect?" within the HSBC family of companies. We may also use the other companies in the HSBC family as service providers to perform services relating to the operations of your accounts (such as data processing). These HSBC companies may be located in countries other than where you reside, including but not limited to the United Kingdom and India. The HSBC family includes banking, consumer finance, insurance, mortgage, and brokerage companies. Some examples include companies doing business under the names HSBC or Household.
 
-If you ask us not to share your information it will prevent you from receiving certain offers and discounts from HSBC and the HSBC family of companies. _It will not prevent unwanted solicitations from other companies that received your information from other sources_. Within the HSBC family of companies, we may continue to share information relating to your account transactions and our experiences with you.
-
-We may also use the other companies in the HSBC family as service providers to perform services relating to the operations of your accounts (such as data processing). These HSBC companies may be located in countries other than where you reside, including but not limited to the United Kingdom and India.
-
-If your accounts are held jointly with other individuals, we treat a do-not-share request by one accountholder as applying to that accountholder only, unless you notify us you're acting on behalf of the other accountholder(s).
-
-If you would like HSBC to limit its mail and telephone contacts with you for marketing purposes, please call us at _1-877-394-HSBC (1-877-394-4722)._
-
-_How Do We Share Information Outside the HSBC Family Of Companies?_
+_How Do We Share Information Outside The HSBC Family Of Companies?_
 
 We may share the kinds of information described above in "What Kind Of Information Do We Collect?" with non-affiliated third parties contracted to perform services necessary for the routine operation of your account(s), such as check printing, data processing and loan servicing.
 
@@ -62,6 +54,20 @@ We may also share this information with service providers performing marketing s
 Whenever we share information outside the HSBC family of companies, all non-affiliated third parties are required to maintain the confidentiality of that information.
 
 In some cases, we are required or permitted by law to provide information about you to third parties without your consent. Examples include responding to a subpoena or similar legal process, providing information to consumer reporting agencies, or providing information in connection with a proposed or actual sale of your account to another financial institution.
+
+_Your Choice To Limit Marketing_
+
+The HSBC companies identified at the end of this privacy statement are providing this notice. You may limit our affiliates in the HSBC family of companies, such as our credit card, insurance, consumer finance, and automobile finance affiliates, from marketing their products or services to you based on your personal information that we collect and share with them. This information includes your income, your account history with us, and your credit score. Your choice to limit marketing offers from our affiliates will apply until you tell us to change your choice. _To limit marketing offers, please call us at 1-877-394-HSBC (1-877-394-4722)._
+
+If you don't want us to share application and third party credit-related information within the HSBC family of companies, please call us at _1-877-394-HSBC (1-877-394-4722)_. Please note that this request will not limit HSBC from sharing information as permitted by law.
+
+If you ask us not to share your information it will prevent you from receiving certain offers and discounts from HSBC and the HSBC family of companies. _It will not prevent unwanted solicitations from other companies that received your information from other sources_. Within the HSBC family of companies, we may continue to share information relating to your account transactions and our experiences with you.
+
+If your accounts are held jointly with other individuals, we treat a do-not-share request by one accountholder as applying to that accountholder only, unless you notify us you're acting on behalf of the other accountholder(s).
+
+If you would like HSBC to limit its mail and telephone contacts with you for marketing purposes, please call us at _1-877-394-HSBC (1-877-394-4722)._
+
+All of your data sharing/use preferences may take four weeks to take effect.
 
 _How Do We Protect Your Privacy Online?_
 
@@ -83,9 +89,9 @@ _Special Notice For Residents Of Vermont_
 
 HSBC does not share your information within the HSBC family of companies, other than information relating to your account transactions and our experiences with you.
 
-_Special notice for residents of Nevada_
+_Special Notice For Residents Of Nevada_
 
-At any time, you may request to be placed on HSBC's internal do not call list by following the instructions in the "Why do we share information within the HSBC family of companies?" section above. Nevada law also requires that we provide you with the following contact information:
+At any time, you may request to be placed on HSBC's internal do not call list by following the instructions in the "Your Choice To Limit Marketing" section above. Nevada law also requires that we provide you with the following contact information:
 
 HSBC Bank USA, N.A.  
 P.O. Box 2013  
@@ -96,21 +102,21 @@ us.hsbc.com
 Bureau of Consumer Protection  
 Office of the Nevada  
 Attorney General  
-555 E. Washington Street  
+555 E. Washington Avenue  
 Suite 3900  
 Las Vegas, Nevada 89101  
 Phone: (702) 486-3132  
 Email: BCPINFO@ag.state.nv.us
 
-This Privacy Policy has been adopted by HSBC Bank USA, National Association (including Domestic Private Banking and excluding HSBC Tax Payer Financial Services Division and credit cards), HSBC National Bank USA, HSBC Mortgage Corporation (USA), HSBC Insurance Agency (USA) Inc., HSBC Securities (USA) Inc., HSBC Motor Credit (USA) Inc., HSBC Investments (USA) Inc., and Halbis Capital Management (USA) Inc. It covers your current or former consumer banking and financial services relationships with these HSBC companies.
+This Privacy Notice applies to HSBC Bank USA, National Association (including Domestic Private Banking and excluding HSBC Tax Payer Financial Services Division and credit cards), HSBC Mortgage Corporation (USA), HSBC Insurance Agency (USA) Inc., HSBC Securities (USA) Inc., HSBC Motor Credit (USA) Inc., HSBC Global Asset Management (USA) Inc., and Halbis Capital Management (USA) Inc.
 
 _Special Notice For Residents Of California_
 
 [Click here](https://www.banking.us.hsbc.com/HICServlet?cmd_CaliforniaPrivacyContactUsSubmitFirst=&amp;accept-language=en-us "California Opt-Out") for California Privacy Opt-Out Preferences
 
-Revised: September, 2007
+Revised: September, 2008
 
-#### [](https://web.archive.org/web/20080509100308id_/http%3A//www.us.hsbc.com/1/2/3/personal/inside/%E2%80%9D%E2%80%9D "creditcard"")HSBC Bank - Privacy Statement
+#### [](https://web.archive.org/web/20090215093513id_/http%3A//www.us.hsbc.com/1/2/3/personal/inside/%E2%80%9D%E2%80%9D "creditcard"")HSBC Bank - Privacy Statement
 
 _Our Commitment to You_
 
