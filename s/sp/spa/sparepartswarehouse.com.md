@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sparepartswarehouse.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216102008id_/http%3A//www.sparepartswarehouse.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparepartswarehouse.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215114432id_/http%3A//www.sparepartswarehouse.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # SparePartsWarehouse.com's Privacy Policy Statement
 
-This privacy policy statement discloses the privacy practices for _[sparepartswarehouse.com](https://web.archive.org/web/20081216102008id_/http%3A//www.sparepartswarehouse.com/g3-index.aspx)_. This privacy policy statement applies solely to information collected by [sparepartswarehouse.com](https://web.archive.org/web/20081216102008id_/http%3A//www.sparepartswarehouse.com/g3-index.aspx). It will notify you of the following: 
+This privacy policy statement discloses the privacy practices for _[sparepartswarehouse.com](https://web.archive.org/web/20090215114432id_/http%3A//www.sparepartswarehouse.com/g3-index.aspx)_. This privacy policy statement applies solely to information collected by [sparepartswarehouse.com](https://web.archive.org/web/20090215114432id_/http%3A//www.sparepartswarehouse.com/g3-index.aspx). It will notify you of the following: 
 
   1. What personally identifiable information is collected from you through our web site, how it is used and with whom it may be shared. 
   2. What choices are available to you regarding the use of your data. 
