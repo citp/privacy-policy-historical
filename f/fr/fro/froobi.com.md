@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the froobi.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216045421id_/http%3A//www.froobi.com/Privacy-Policy_ep_35-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the froobi.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215220503id_/http%3A//www.froobi.com/Privacy-Policy_ep_35-1.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
- 
 
 We are aware of the trust and confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We promise that we will treat your information with the same honesty and sensitivity that we have displayed throughout our company's history.
 
