@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the dabs.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015546id_/http%3A//www.dabs.com/article.aspx%3Farticleid%3D132) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dabs.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215094132id_/http%3A//www.dabs.com/article.aspx%3Farticleid%3D132) for the most accurate reproduction.*
 
 # dabs.com - Our privacy policy
 
 ## Our privacy policy
 
 This policy covers all users who register to use the dabs.com website. It is not necessary to register in order to gain access to the searching facilities of the site, but we may restrict access to certain areas as referred to in Principle 2 below. Access to dabs.com is free of charge to all users.   
-The dabs.com website is operated by dabs.com PLC. We are committed to protecting your privacy when you are using our online services. To protect your privacy, we apply five principles which you can read about below. 
+The dabs.com website is operated by dabs.com PLC. We are committed to protecting your privacy when you are using our online services. To protect your privacy, we apply five principles which you can read about below.   
+
 
 ### Principle 1 - Notice
 
@@ -21,9 +22,9 @@ We will use the information you provide only for the following purposes:
   * To send you newsletters and details of offers and promotions in which we believe you will be interested 
   * To improve the content, design and layout of the dabs.com website and to facilitate knowledge management 
   * To understand the interests and buying behaviour of our registered users 
-  * To perform other such general marketing and promotional activities focused on our products and services. We may also register you for our other services which we feel may be useful or of interest to you 
-  * Very occasionally, dabs.com may share your details with carefully selected third parties.  However, if your communication preferences show that you have chosen NOT to receive information from third parties, then of course your details will not be shared.
-  * You can edit your communications preferences at any time via the 'my account' section of our website
+  * To perform other such general marketing and promotional activities focused on our products and services. We may also register you for our other services which we feel may be useful or of interest to you. 
+  * Very occasionally, dabs.com may share your details with carefully selected third parties for general marketing and promotional activities.  However, if your communication preferences show that you have chosen NOT to receive such information from third parties, then of course your details will not be shared. You can edit your communications preferences at any time via the 'my account' section of our website.
+  * We sometimes use other companies to provide services to you or to provide services to us. To enable them to do this, we may need to share your personal information with them. When we do so, these companies are required to act in accordance with the instructions we give them and they must meet the requirements of the Data Protection Act to keep information secure.
 
 
 
