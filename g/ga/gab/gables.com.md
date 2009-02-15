@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gables.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216113806id_/http%3A//www.gables.com/aboutus/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gables.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215180051id_/http%3A//www.gables.com/aboutus/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Gables, Gables.com - Apartments for Rent, Luxury Apartments, Furnished Apartments, Unfurnished Apartments, Corporate Housing
 
