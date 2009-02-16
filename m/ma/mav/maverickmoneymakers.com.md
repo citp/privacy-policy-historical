@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maverickmoneymakers.com privacy policy that was archived on 2008-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081013155139id_/http%3A//www.maverickmoneymakers.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maverickmoneymakers.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216215436id_/http%3A//maverickmoneymakers.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Maverick Money Makers™ - Earnings Disclaimer
+# Maverick Money Makers™ | Privacy Policy
 
 Maverick Money Makers  
 Privacy Policy
@@ -64,7 +64,7 @@ Maverick Money Makers
 228 Park Ave. South #11130   
 New York, New York 10003 
 
-Effective Date: March 1, 2008.
+Effective Date: September 1, 2008.
 
 *NOTICE* - Anyone who distributes illegal copies of our program, or uses our trademarked/copyrighted Process at Home text and/or images without permission will be reported to their billing and/or hosting company, and any other related companies for account closure. We will follow with a federal copyright infringement lawsuit in accordance with the The Digital Millennium Copyright Act (DMCA). To date we have successfully prosecuted 27 parties.
 
