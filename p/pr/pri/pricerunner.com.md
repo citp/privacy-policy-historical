@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricerunner.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218000400id_/http%3A//www.pricerunner.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricerunner.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216125009id_/http%3A//pricerunner.com/privacypolicy.html) for the most accurate reproduction.*
 
 # PriceRunner.com
 
