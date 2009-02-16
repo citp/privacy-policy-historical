@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brastop.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217022107id_/http%3A//brastop.com/privacy_security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brastop.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216192953id_/http%3A//www.brastop.com/privacy_security.aspx) for the most accurate reproduction.*
 
 # Privacy and Security Information - Brastop.com (UK)
 
@@ -29,4 +29,4 @@ Please don't worry about sending your credit or debit card details via our websi
 
 The encryption technique we use is standard for e-commerce and is certified by SecureTrading, the world's most respected certification body for Internet firms. This means that the information you send us cannot be read by anyone other than the Bravissimo team. 
 
-If you are still not convinced about the safety of shopping online, but would like to order from Brastop.com, please [send us an email](https://web.archive.org/web/20081217022107id_/http%3A//brastop.com/brastop_contacts.aspx) or call our customer services consultants on 020 8861 1945. We are open from 8.00am to 17.30pm on Monday to Friday, and from 10am to 5pm on Saturday and Sunday. 
+If you are still not convinced about the safety of shopping online, but would like to order from Brastop.com, please [send us an email](https://web.archive.org/web/20090216192953id_/http%3A//www.brastop.com/brastop_contacts.aspx) or call our customer services consultants on 020 8861 1945. We are open from 8.00am to 17.30pm on Monday to Friday, and from 10am to 5pm on Saturday and Sunday. 
