@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the agamimedia.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217135822id_/http%3A//www.agamimedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agamimedia.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216122403id_/http%3A//www.agamimedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Agami Media affiliate network - Privacy Policy
 
-Last updated: **December 2008**
+Last updated: **February 2009**
 
 Agami Media strongly believes in every person's right to privacy. Within this Privacy Policy we explain our information collection technology and practices � the type of information that we collect, the way we store and use this information. We realize that the privacy of your personal information is very important and we will not treat this information in ways different from what is disclosed in this statement. 
 
