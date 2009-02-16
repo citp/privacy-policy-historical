@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mysimplifieds.com privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205025110id_/http%3A//www.mysimplifieds.com/PrivacyPolicy.aspx%3Fintention%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysimplifieds.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216085810id_/http%3A//www.mysimplifieds.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# mySimplifieds.com: Privacy Policy
+# mySimplifieds.com Malaysia: Privacy Policy
 
 |    
 ---  
@@ -143,11 +143,11 @@ Tel: +603 78771560 / Fax: +603 58820309 / Email:
 
 [feedback@kasatria.com](http://www.mysimplifieds.com/CustomerService.aspx)  
   
-[](https://web.archive.org/web/20081205025110id_/http%3A//www.mysimplifieds.com/AdSearch.aspx?intention=2)
+[](https://web.archive.org/web/20090216085810id_/http%3A//www.mysimplifieds.com/AdSearch.aspx)
 
 |    
    
   
-  |  |   | [](https://web.archive.org/web/20081205025110id_/http%3A//www.mysimplifieds.com/Default.aspx) |   |   
+  |  |   | [](https://web.archive.org/web/20090216085810id_/http%3A//www.mysimplifieds.com/Default.aspx) |   |   
 ---|---|---|---  
  
