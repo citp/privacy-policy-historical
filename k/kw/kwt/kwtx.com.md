@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kwtx.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040213id_/http%3A//www.kwtx.com/unclassified/647.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwtx.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216050204id_/http%3A//www.kwtx.com/unclassified/647.html) for the most accurate reproduction.*
 
 # GRAY TELEVISION GROUP, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS / - Waco, Temple, Killeen Weather and News Authority
 
