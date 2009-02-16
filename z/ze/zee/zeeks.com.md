@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeeks.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015025id_/http%3A//corporate.kaboose.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeeks.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216022825id_/http%3A//corporate.kaboose.com/privacy.html) for the most accurate reproduction.*
 
 # Kaboose - Privacy Policy
 
@@ -60,11 +60,11 @@ Please remember that any information disclosed in these public forum areas becom
 
 **Shopping at Kaboose E-Commerce Partners**
 
-Shopping on Kaboose sites by adult users is provided through our e-commerce partners. When adult users provide personal financial information and other PII to one of Kaboose’s e-commerce partners, this transaction will occur on the e-commerce partner's site, not Kaboose’s, and as such the financial and PII you provide is collected by and controlled by the privacy policy of that e-commerce partner. It is important therefore that you familiarize yourself with the privacy policy of the e-commerce site you transact with. Two of our affiliated companies, Birthday in a Box and Two Peas in a Bucket, do however directly handle commerce transactions on their sites.
+Shopping on Kaboose sites by adult users is provided through our e-commerce partners. When adult users provide personal financial information and other PII to one of Kaboose’s e-commerce partners, this transaction will occur on the e-commerce partner's site, not Kaboose’s, and as such the financial and PII you provide is collected by and controlled by the privacy policy of that e-commerce partner. It is important therefore that you familiarize yourself with the privacy policy of the e-commerce site you transact with.
 
 **Co-Branded Sites**
 
-We may provide sites to you in partnership with third parties (“Co-Branded Sites”) and may require adult users to disclose PII in order to registered for and access products and/or services on those sites. Such Co-Branded Sites will identify the third party partners. If you elect to register for such products and/or services at Co-Branded Sites, you may be providing your PII to both us and the third party partner and your information may be subject to a separate privacy policy or may be subject to both our privacy policy and the privacy policy of our third party partner. If you sign-in to a Co-Branded Site with a user name and password obtained at one of our Web sites, you are automatically registering with the Co-Branded Site and your PII may be disclosed to the identified third party partner for the Co-Branded Site.
+We may provide sites to you in partnership with third parties (Co-Branded Sites) and may require adult users to disclose PII in order to registered for and access products and/or services on those sites. Such Co-Branded Sites will identify the third party partners. If you elect to register for such products and/or services at Co-Branded Sites, you may be providing your PII to both us and the third party partner and your information may be subject to a separate privacy policy or may be subject to both our privacy policy and the privacy policy of our third party partner. If you sign-in to a Co-Branded Site with a user name and password obtained at one of our Web sites, you are automatically registering with the Co-Branded Site and your PII may be disclosed to the identified third party partner for the Co-Branded Site.
 
 **NON-PERSONAL INFORMATION COLLECTION**
 
@@ -146,7 +146,7 @@ Parents may contact us at privacy@kaboose.com about reviewing or deleting the in
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
-California Civil Code Section 1798.83 permits Kaboose customers who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please [click here](https://web.archive.org/web/20081216015025id_/http%3A//corporate.kaboose.com/email.php "Contact Us:: :: width: 590") or send request for information to the mailing address found below. 
+California Civil Code Section 1798.83 permits Kaboose customers who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please [click here](https://web.archive.org/web/20090216022825id_/http%3A//corporate.kaboose.com/email.php "Contact Us:: :: width: 590") or send request for information to the mailing address found below. 
 
 **CONTACT US**
 
@@ -160,7 +160,7 @@ Canada
 Telephone: 416-593-3000  
 Fax: 416-593-4658
 
-To contact Kaboose by e-mail please [click here](https://web.archive.org/web/20081216015025id_/http%3A//corporate.kaboose.com/email.php "Contact Us:: :: width: 590").
+To contact Kaboose by e-mail please [click here](https://web.archive.org/web/20090216022825id_/http%3A//corporate.kaboose.com/email.php "Contact Us:: :: width: 590").
 
 Kaboose hopes this document answers your questions and concerns about our privacy policies. Protecting the privacy of our visitors is vitally important to us. Kaboose reserves the right to change its privacy policies or practices at any time. When Kaboose makes any changes, it will be reflected on its updated Privacy Statement and will be posted on this page. We encourage you to periodically review this Privacy Statement.
 
