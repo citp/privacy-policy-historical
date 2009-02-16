@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vintagesynth.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217153024id_/http%3A//www.vintagesynth.com/local/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vintagesynth.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216114619id_/http%3A//www.vintagesynth.com/local/privacy.shtml) for the most accurate reproduction.*
 
 # Vintage Synth Explorer - Privacy Statement
 
@@ -10,7 +10,7 @@ www.vintagesynth.org
 
 ### General policy
 
-Vintage Synth Explorer respects your privacy. The information that you provide us with, or that is gathered automatically helps us and third parties to monitor our service and provide you with the services that you have subscribed to. Please bear in mind that any personal information that you submit through forums, letters/emails for publication and the like may be collected by others. However, we do NOT sell your information to any outside parties. If you have any concerns, questions or comments please email the [Webmaster](mailto:webmaster@vintagesynth.org). 
+Vintage Synth Explorer respects your privacy. The information that you provide us with, or that is gathered automatically helps us and third parties to monitor our service and provide you with the services that you have subscribed to. Please bear in mind that any personal information that you submit through forums, letters/emails for publication and the like may be collected by others. However, we do NOT sell your information to any outside parties. If you have any concerns, questions or comments please email the [Webmaster](mailto:webmaster@vintagesynth.com). 
 
 ### Registration
 
