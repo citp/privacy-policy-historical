@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keybr.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082424id_/http%3A//www.keybr.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keybr.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216114808id_/http%3A//www.keybr.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | keybr.com
 
