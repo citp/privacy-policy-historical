@@ -1,11 +1,35 @@
-> *The following text is extracted and transformed from the masterresellrights.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615190907id_/http%3A//www.masterresellrights.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterresellrights.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216055121id_/http%3A//www.masterresellrights.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Ebook Master Resell Rights - Resell Rights Membership - eBook Resell
+# MRR Privacy Policy
 
+---  
+  
+**[Home](http://www.masterresellrights.com/)  |  *[Newest Products](http://www.masterresellrights.com/newest_products.html)*  |  [ Member Login](http://www.masterresellrights.com/mrr/login.php)  |  [ Join MRR!](http://www.masterresellrights.com/mrr/signup.php?price_group=2&product_id=1)  |  [Browse Archives](https://web.archive.org/web/20090216055121id_/http%3A//www.masterresellrights.com/browse_archives.html)  |  [FAQ](https://web.archive.org/web/20090216055121id_/http%3A//www.masterresellrights.com/frequently_asked_questions.html)  |  [Private Label Rights](https://web.archive.org/web/20090216055121id_/http%3A//www.masterresellrights.com/private_label_rights.html)  |   [MRR Support](http://www.mrrsupport.com/)  |  [MRR Blog](http://www.mrrblog.com/)  |  [Software Rebrand](https://web.archive.org/web/20090216055121id_/http%3A//www.masterresellrights.com/software_rebrand.html)**
+
+ 
+
+ **Privacy Policy**
+
+| 
+
+Our Commitment:  
+  
+---  
+  | 
+
+Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs.   
+  
+What Information Do We Collect?   
+  
+---  
+  | 
+
+When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.   
+  
 Credit Card Information   
   
 ---  
-  | If you choose to purchase products or services from us or our partners, you will need to give personal information and authorization to obtain information from various credit services Like PayPal or 2Checkout.com. We DO NOT process credits from our servers at this time.  
+  |  If you choose to purchase products or services from us or our partners, you will need to give personal information and authorization to obtain information from various credit services Like PayPal or 2Checkout.com. We DO NOT process credits from our servers at this time.  
   
 Email Information   
   
@@ -65,10 +89,47 @@ Other Web Sites Linked to Our Web Site
 
 We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site. 
 
-Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web site’s own rules and policies.   Please read over those rules and policies before proceeding.   
+Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy  is no longer in effect. Your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web site’s own rules and policies.   Please read over those rules and policies before proceeding.   
   
 Your Consent   
   
   | 
 
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
+By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.  
+  
+__
+
+[Home](http://www.masterresellrights.com/)  |  [ Newest Products](http://www.masterresellrights.com/newest_products.html)  |  [Pro Store](http://www.masterresellrights.com/store)  |  [ Member Login](http://www.masterresellrights.com/mrr/login.php)  |  [ Join MRR](http://www.masterresellrights.com/mrr/signup.php?price_group=2&product_id=1)  |    
+[ Browse Archives](http://www.masterresellrights.com/browse_archives.html)  |  [ FAQ](http://www.masterresellrights.com/frequently_asked_questions.html)  |  [ Private Label Rights](http://www.masterresellrights.com/private_label_rights.html)  |  [MRR Support](http://www.mrrsupport.com/)  |  [Privacy Policy](https://web.archive.org/web/20090216055121id_/http%3A//www.masterresellrights.com/privacy_policy.html)  |  [ Terms Of Use](http://www.masterresellrights.com/terms_of_use.html)  |  [ Affiliates Earn](http://www.masterresellrights.com/MRR_affiliate_program.html)  ** |  [MRR Blog](http://www.mrrblog.com/)  |  [ Software Rebrand](http://www.masterresellrights.com/software_rebrand.html)**
+
+__
+
+MasterResellRights.com (MRR) makes no suggestions, implications, warranties, or guarantees that by joining this website, or that by following or adhering to any program or information featured anywhere inside this web site or elsewhere, that users will make money. MRR is not responsible for any losses or damages resulting from the use of any product, link, information, or opportunity contained within this web site. Users realize any business has potential risk for loss of capital. 
+
+Furthermore, any earnings or income statements used within the MRR website are only examples or estimates of what you could earn. There are absolutely no guarantees that you'll do as well and you must be prepared to accept the risk of doing not as well. In the event that there are any specific income or earnings figures that have been reported within the MRR website, this must not be considered as average earnings. You must be prepared to accept the risk of doing not as well.
+
+Earnings and income results are based on multiple factors. Every individual is different and will achieve different results. We do not know your education, experience, motivation, work ethic, as well as many other factors that may determine or affect the results of how well you may or may not do
+
+There are absolutely no guarantees that past successes or prior results are any indication of future successes or results. The internet is a rapidly changing environment. What has worked in the past will not necessarily work in the future. Always do your own due diligence before entering into any business or making business decisions. 
+
+By using The MRR products and services, you agree that MRR is not responsible for the success or failure of your business.
+
+[
+
+  
+_**Need Support?   Got Questions?
+
+**_
+
+](http://www.mrrsupport.com/)
+
+[ ](skype:masterresellrights.com?chat)
+
+[ MasterResellRights.com](http://www.masterresellrights.com/) Is Part Of The RapidFire Publishing Group Co Ltd.
+
+Copyright 
+
+© 2007 - 2008.  All Rights Are Reserved Worldwide.  No part of this website should be reproduced without prior permission of MRR.   
+[ **www.MasterResellRights.com**](http://www.masterresellrights.com/) \- **MasterResellRights.com** gives you resell rights membership dealing with eBooks, Software, Webscripts, Graphics, and all that comes with resell rights. We add a lot of products to the members' area on a daily basis for our members to download, use, and resell them. Majority of the products that we add come with a ready-made website for the reseller to upload and use.  Our resale rights membership is ideal for any Internet Marketer looking for the tools to help build their own online empire. [http://www.masterresellrights.com](http://www.masterresellrights.com/) covers USA, UK, Europe, Asia, the Americas and a number of countries all over the world.
+
+Get your resell membership today for exclusive ebook master resell rights.
