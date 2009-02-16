@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honoluluadvertiser.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226103810id_/http%3A//www.honoluluadvertiser.com/apps/pbcs.dll/section%3FCategory%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honoluluadvertiser.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216210401id_/http%3A//www.honoluluadvertiser.com/section/privacypolicy) for the most accurate reproduction.*
 
 # HonoluluAdvertiser.com | Honolulu privacypolicy | The Honolulu Advertiser
 
