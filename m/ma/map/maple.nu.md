@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maple.nu privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216060842id_/http%3A//www.maple.nu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maple.nu privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216051743id_/http%3A//www.maple.nu/privacy.php) for the most accurate reproduction.*
 
 # Maple
 
