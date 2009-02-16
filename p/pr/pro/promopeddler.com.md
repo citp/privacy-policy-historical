@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promopeddler.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217101317id_/http%3A//www.promopeddler.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promopeddler.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216025532id_/http%3A//www.promopeddler.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Privacy - Promopeddler.com Branding Done Right!
 
