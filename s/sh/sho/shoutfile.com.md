@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoutfile.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015521id_/http%3A//www.shoutfile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutfile.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216052021id_/http%3A//www.shoutfile.com/privacy) for the most accurate reproduction.*
 
 # Shoutfile Privacy Policy
 
