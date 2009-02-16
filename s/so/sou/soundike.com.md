@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundike.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219225829id_/http%3A//www.soundike.com/help3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundike.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216144105id_/http%3A//www.soundike.com/help3.html) for the most accurate reproduction.*
 
 # Soundike.com Help
 
