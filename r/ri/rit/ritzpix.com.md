@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ritzpix.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217114025id_/http%3A//www.ritzpix.com/net/content.aspx%3Fid%3DPrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ritzpix.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216064942id_/http%3A//ritzpix.com/net/content.aspx%3Fid%3DPrivacyStatement) for the most accurate reproduction.*
 
 # Ritz Pix @ LifePics
 
@@ -138,26 +138,35 @@ A part of the Internet that links text, sound, and images in the form of Web pag
 
 ### **Ritzpix.com Refund information**
 
-Here at Ritzpix.com we want you to be happy and satisfied with the quality of our prints and products. If you are unhappy with your purchase, you may return it within 30 days for a refund or a redo.
+Here at Ritzpix.com we want you to be happy and satisfied with the quality of our prints and products. If you are unhappy with your purchase, you may return it within 
 
-If a product doesn't meet your expectations, contact **Customer Service** at [customerserv@RitzPix.com](mailto:customerserv@RitzPix.com). Note that refunds for orders placed online and picked up at a store will be issued only by the website, not in the store.
+_30 days_
+
+for a refund or a redo.
+
+If a product doesn't meet your expectations, contact **Customer Service** at [customerserv@RitzPix.com](mailto:customerserv@RitzPix.com). 
 
 We do our best to send you the highest quality prints and products. Please keep in mind that we are not responsible for the following:
 
-Errors in spelling or punctuation with text entered by our customer.
+* Errors in spelling or punctuation with text entered by our customer.
+  
 
-Poor quality resulting from the use of a low-resolution digital file. A warning will appear noting the resolution quality of an image, you may proceed at your own risk using this image.
+* Poor quality resulting from the use of a low-resolution digital file. A warning will appear noting the resolution quality of an image, you may proceed at your own risk using this image.
+
+**If you paid for your order online and request a refund or redo,** please print and fill out the form below. Then mail the form with your order to the address below. Refunds will be posted after we receive your returned items, you will then see the refund post to your account within 4-5 business days.
 
 [Download Ritz Return Form](https://web.archive.org/common/RitzpixReturnForm.doc)
 
-**If your product was shipped to your home** , please print the form below, fill it out and enclose it with your return and ship to the address below.
+**_Please ship Mail Order returns to:_** _
 
-**If you picked up your prints from your local store** , you may return your prints for a redo. If you wish not to return prints to your local store, please complete the form below and mail your prits to: 
+ATTN: Ritzpix.com  
+Ritz Camera Centers  
+6711 Ritz Way  
+Beltsville, MD 20705
 
-Ritz Camera  
-6711 Ritz way  
-Beltsville, MD. 20705  
+_
 
+**If you paid in store and request a refund or redo,** you can return your items directly to the store and the store can assist you with your refund or redo.
 
 ATT: RITXPIX.COM
 
