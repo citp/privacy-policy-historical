@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schwans.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217120656id_/http%3A//www.schwans.com/content.jsp%3FpageName%3DAboutUs%26areaName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwans.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216123951id_/http%3A//www.schwans.com/content.jsp%3FpageName%3DAboutUs%26areaName%3DPrivacy) for the most accurate reproduction.*
 
 # SCHWAN'S®: Time Saving Food, Online Grocery Shopping & Home Delivery Service
 
