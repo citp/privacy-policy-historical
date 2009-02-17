@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollyscoop.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218102750id_/http%3A//www.hollyscoop.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollyscoop.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217225938id_/http%3A//www.hollyscoop.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Hollyscoop
 
@@ -23,7 +23,7 @@ HOLLYSCOOP may also enter into agreements with outside companies that possess th
 
 There may be instances when HOLLYSCOOP may disclose PII without providing you with a choice in order to protect the legal rights of HOLLYSCOOP, to protect the safety and security of visitors to our web sites; to protect against fraud or for risk management purposes; or to comply with the law or legal process. In addition, if HOLLYSCOOP sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, HOLLYSCOOP may transfer your PII to a third party as part of that transaction. 
 
-3\. Third-Party Advertising and Links to Other Sites  
+**3\. Third-Party Advertising and Links to Other Sites**  
 This Site includes third-party advertising. These third parties’ websites and advertisers, or the Internet advertising companies that work on their behalf, may use technology to send (or “serve”) the advertisements that appear on our Site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, Javascript, Pixel Tags and other technologies to deliver advertisements, collect information about the effectiveness of their advertisements, and to collect anonymous information about your visits to the Site, such as the number of times you have viewed an ad (but not your name, address, or other Personal Data). 
 
 Please note that this Site contains links to other sites that will not follow the same Privacy Policy as our Site. For instance, clicking on an advertisement or on links or other elements on the Site may take you to an entirely different site. Links to other sites may use our Site logo or style as a result of a co-branding agreement. These sites may send their own cookies to you and may collect data and make use of that data in ways that this Site would not. Once you've left this Site, this Privacy Policy will no longer apply to Personal Data or any other data collected from or provided by you. You should check the applicable privacy policy to determine how that site will handle such data. 
