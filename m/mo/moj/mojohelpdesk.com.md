@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mojohelpdesk.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218135524id_/http%3A//www.mojohelpdesk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mojohelpdesk.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217172559id_/http%3A//www.mojohelpdesk.com/privacy.php) for the most accurate reproduction.*
 
-# Hosted Ticket Tracking: Mojo Helpdesk
+# Mojo Helpdesk — hosted help desk / ticket tracking made easy and in less than 2 minutes
 
 Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. 
 
@@ -24,6 +24,6 @@ Your personally identifiable information is kept secure. Only authorized employe
 
 ## Privacy Contact Information
 
-If you have any questions, concerns, or comments about our privacy policy [you may contact us](https://web.archive.org/web/20081218135524id_/http%3A//www.mojohelpdesk.com/contact.php). 
+If you have any questions, concerns, or comments about our privacy policy [you may contact us](https://web.archive.org/web/20090217172559id_/http%3A//www.mojohelpdesk.com/contact.php). 
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
