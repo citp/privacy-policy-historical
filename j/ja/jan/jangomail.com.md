@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jangomail.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219092329id_/http%3A//www.jangomail.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jangomail.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217192404id_/http%3A//www.jangomail.com/privacy.asp) for the most accurate reproduction.*
 
 # JangoMail Email Marketing and Broadcast System - Privacy Policy
 
@@ -31,4 +31,4 @@ JangoMail Inquiries
 JangoMail  
 1930 N. Lakeman Drive, Ste 108  
 Bellbrook, OH 45305  
-Or see the [Contact Us](https://web.archive.org/web/20081219092329id_/http%3A//www.jangomail.com/contactus.asp) page
+Or see the [Contact Us](https://web.archive.org/web/20090217192404id_/http%3A//www.jangomail.com/contactus.asp) page
