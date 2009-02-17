@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gayforit.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011429id_/http%3A//www.gayforit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayforit.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217013842id_/http%3A//www.gayforit.com/privacy) for the most accurate reproduction.*
 
 # GayForIt.com
 
@@ -46,4 +46,4 @@ We may release personally identifiable information and/or non-personally-identif
 
 Gayforit also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Gayforit believes, in good faith, is appropriate or necessary to enforce our Terms, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Gayforit, our Users or others.
 
-Copyright (c) 2006-2007 GayForIt.com. All rights reserved. 
+Copyright (c) 2006-2009 GayForIt.com. All rights reserved. 
