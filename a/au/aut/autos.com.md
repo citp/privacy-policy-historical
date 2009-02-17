@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autos.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060328id_/http%3A//www.autos.com/autos/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autos.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217192001id_/http%3A//www.autos.com/autos/privacy) for the most accurate reproduction.*
 
 # Autos.com: The best autos rankings site to help you find your perfect car online
 
