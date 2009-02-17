@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nashvillecitypaper.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630115327id_/http%3A//nashvillecitypaper.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashvillecitypaper.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217220323id_/http%3A//www.nashvillecitypaper.com/privacy.php) for the most accurate reproduction.*
 
 # Nashville City Paper - Covering Daily & Breaking News from Nashville, TN, including Politics, Titans, Predators, Vanderbilt, MTSU and more! - Privacy Policy
 
