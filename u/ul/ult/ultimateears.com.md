@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimateears.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218053457id_/http%3A//www.ultimateears.com/_ultimateears/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimateears.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217195712id_/http%3A//ultimateears.com/_ultimateears/privacy_policy.php) for the most accurate reproduction.*
 
 # - Ultimate Ears Earphones Headphones Personal Monitors
 
