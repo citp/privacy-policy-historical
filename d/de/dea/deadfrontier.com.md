@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deadfrontier.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218002647id_/http%3A//www.deadfrontier.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deadfrontier.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217190000id_/http%3A//deadfrontier.com/privacy.php) for the most accurate reproduction.*
 
 # Dead Frontier - Dead Frontier Privacy Policy
 
