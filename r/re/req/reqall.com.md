@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reqall.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218050256id_/http%3A//www.reqall.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reqall.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217185512id_/http%3A//www.reqall.com/about/privacy) for the most accurate reproduction.*
 
 # reQall: Privacy Policy
 
@@ -39,7 +39,7 @@ The personal information we collect about you and others through these sources m
 Besides obtaining your personal information, we may collect non-personably identifiable information, including, without limitation, tracking information such as your browser type, the type of operating system you use, the name of your Internet service provider, and pages visited on our site. We obtain this information by using technologies such as cookies.
 
 **How We Use the Information  
-**The content of the items you add to reQall may be accessed by QTech, Inc. employees or our service providers in order to provide the service (for example, when human transcription is necessary). Unless you have requested support to resolve a question about your account, any content that is accessed is handled anonymously, using an account number rather than any personally identifiable information.
+**The content of the items you add to reQall may be accessed by reQall Inc. employees or our service providers in order to provide the service (for example, when human transcription is necessary). Unless you have requested support to resolve a question about your account, any content that is accessed is handled anonymously, using an account number rather than any personally identifiable information.
 
 We do not disclose your personal information to any third party for marketing purposes without your permission.  We do use your non-personally identifiable information to increase the functionality and user-friendliness of our website, products and services and to better tailor them to your needs.  We also use this information to monitor onsite activity in the aggregate.  For example, we may monitor how long the average user spends on our site or which pages or features get the most attention.  We reserve the right to release non-personally identifiable information to our advisors and partners. 
 
