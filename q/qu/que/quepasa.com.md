@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quepasa.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217030843id_/http%3A//www.quepasa.com/common/privacypolicy_en_US.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quepasa.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217222953id_/http%3A//www.quepasa.com/common/privacypolicy_en_US.html) for the most accurate reproduction.*
 
 # 
 
@@ -38,7 +38,7 @@ Quepasa's Service may contain links to other websites not controlled by Quepasa.
 
 **Opt-Out Procedures**
 
-To opt-out of receiving commercial electronic mail messages, as defined by 15 U.S.C. Â§ 7702, please click here support@quepasacorp.com. If you have recently opted out of receiving commercial electronic mail messages from Quepasa, we will process and honor your request as soon as administratively possible. In certain circumstances, you may continue to receive commercial electronic mail messages for products and services from other companies to whom your information was provided prior to your opt-out request.
+To opt-out of receiving commercial electronic mail messages, as defined by 15 U.S.C. Ã‚Â§ 7702, please click here support@quepasacorp.com. If you have recently opted out of receiving commercial electronic mail messages from Quepasa, we will process and honor your request as soon as administratively possible. In certain circumstances, you may continue to receive commercial electronic mail messages for products and services from other companies to whom your information was provided prior to your opt-out request.
 
 **For Non-U.S. Users**
 
