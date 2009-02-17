@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050635id_/http%3A//www.alaskaair.com/as/www2/help/faqs/Privacy-Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217224025id_/http%3A//www.alaskaair.com/as/www2/help/faqs/Privacy-Policy.asp) for the most accurate reproduction.*
 
 # Alaska Airlines Privacy Policy
 
