@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtremetop100.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152138id_/http%3A//www.xtremetop100.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtremetop100.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217223635id_/http%3A//www.xtremetop100.com/privacypolicy.php) for the most accurate reproduction.*
 
 # XtremeTop100.com - Gaming top 100 list
 
@@ -20,6 +20,6 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 AdSense Privacy Policy Provided by [JenSense blog](http://www.jensense.com/)
 
-© [XtremeTop100 .com](http://www.xtremetop100.com/) \- [privacy policy](https://web.archive.org/privacypolicy.php) \- Created by [SEOMinds.com](http://www.seominds.com/) 2004-2008
+© [XtremeTop100 .com](http://www.xtremetop100.com/) \- [privacy policy](https://web.archive.org/privacypolicy.php) \- Created by [SEOMinds.com](http://www.seominds.com/) 2004-2009
 
 [](http://t.extreme-dm.com/?login=alco84)
