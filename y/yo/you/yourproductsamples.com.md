@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourproductsamples.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218174254id_/http%3A//www.yourproductsamples.com/lch2.php%3Flk%3D421%26bid%3D26%26sesp%3D395_0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourproductsamples.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217044504id_/http%3A//www.yourproductsamples.com/lch2.php%3Flk%3D421%26bid%3D26%26sesp%3D395_0) for the most accurate reproduction.*
 
 # YourProductSamples.com Privacy Policy
 
