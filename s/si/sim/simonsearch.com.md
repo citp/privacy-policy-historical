@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simonsearch.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218204630id_/http%3A//simonsearch.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simonsearch.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217140310id_/http%3A//simonsearch.com/privacy_policy.html) for the most accurate reproduction.*
 
 # SimonSearch.com
 
