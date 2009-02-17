@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixminutestosuccess.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218162836id_/http%3A//www.sixminutestosuccess.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixminutestosuccess.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217205349id_/http%3A//www.sixminutestosuccess.com/privacy) for the most accurate reproduction.*
 
 # Six Minutes To Success | Privacy Policy
 
