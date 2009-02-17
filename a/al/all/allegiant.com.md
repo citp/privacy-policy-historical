@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allegiant.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218154421id_/http%3A//www.allegiant.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allegiant.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217194451id_/http%3A//www.allegiant.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Help Desk : Privacy Policy | Allegiant.com
 
