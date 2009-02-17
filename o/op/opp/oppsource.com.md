@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oppsource.com privacy policy that was archived on 2008-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081003000942id_/http%3A//oppsource.com/index.cfm%3FsPage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oppsource.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217211739id_/http%3A//oppsource.com/index.cfm%3FsPage%3Dprivacy) for the most accurate reproduction.*
 
 # oppSource.com
 
