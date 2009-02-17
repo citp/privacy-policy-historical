@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the progress.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216222746id_/http%3A//www.progress.com/privacy/index.ssp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the progress.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217113557id_/http%3A//www.progress.com/privacy/index.ssp) for the most accurate reproduction.*
 
 # Privacy Policy: Progress Software Corporation
 
-[](https://web.archive.org/web/20071216222746id_/http%3A//www.progress.com/privacy/index.ssp?printable=true)
+[](https://web.archive.org/web/20090217113557id_/http%3A//www.progress.com/privacy/index.ssp?printable=true)
 
 **Last update: Monday, October 4, 2004**
 
@@ -82,7 +82,7 @@ We have security measures in place to protect the loss, misuse and alteration of
 Our Web sites contain links to other Web sites. Please be aware that our privacy policy does not apply to these other sites.
 
 **Opt-out Policy and Procedure**  
-Our Web sites provide users with the opportunity to opt-out of receiving communications from us (and our partners) at the point where we request information about the visitor. In addition, from within the www.progress.com subscription center ([www.progress.com/subscribe](http://ecoms.progress.com/cgi-bin/ecomm.cgi/system/session/dispatch.w?from=tpc)), visitors can unsubscribe to the various communication offerings at any time, by deselecting the vehicles they do not wish to receive or by opting-out of all e-communications. Please note that opting-out of all communications will suppress every piece of electronic information from Progress Software and is not restricted to only the communications listed on the subscription center page. Additionally, visitors who wish to remove their information from our database to not receive future communications or to no longer receive our service can [Contact Us](mailto:unsubscribe@progress.com).
+Our Web sites provide users with the opportunity to opt-out of receiving communications from us (and our partners) at the point where we request information about the visitor. In addition, from within the www.progress.com subscription center ([www.progress.com/subscribe](https://marketing.progress.com/AprimoMarketing/AudienceUpdate.aspx?D=b4d2b7f31271914e22b8516b6ce4ba50&T=1&A=83f2ca9b0cad5323&F=e5fbd875ab602c0a26eb23305ef20242&M=b333208886639fd5&G=f5395f62b6f4fba48342543b295661f1)), visitors can unsubscribe to the various communication offerings at any time, by deselecting the vehicles they do not wish to receive or by opting-out of all e-communications. Please note that opting-out of all communications will suppress every piece of electronic information from Progress Software and is not restricted to only the communications listed on the subscription center page. Additionally, visitors who wish to remove their information from our database to not receive future communications or to no longer receive our service can [Contact Us](mailto:unsubscribe@progress.com).
 
 **Correcting/Update Policy**  
 If you would like to correct and/or update your information, please [Contact Us](mailto:unsubscribe@progress.com).
