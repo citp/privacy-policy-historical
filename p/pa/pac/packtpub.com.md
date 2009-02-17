@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the packtpub.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216032556id_/http%3A//www.packtpub.com/article/packtpubcom_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packtpub.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217153644id_/http%3A//www.packtpub.com/article/packtpubcom_privacy_policy) for the most accurate reproduction.*
 
 # PacktPub.com Privacy Policy
 
