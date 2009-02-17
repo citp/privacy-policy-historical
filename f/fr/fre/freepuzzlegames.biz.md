@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freepuzzlegames.biz privacy policy that was archived on 2008-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080723200149id_/http%3A//freepuzzlegames.biz/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepuzzlegames.biz privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217023746id_/http%3A//www.freepuzzlegames.biz/page/1.html) for the most accurate reproduction.*
 
-# Privacy Policy - Free Privacy Policy Game Online at Free puzzle games.biz
+# Privacy Policy - Play Privacy Policy Online
 
 Privacy Policy for www.freepuzzlegames.biz 
 
@@ -32,3 +32,20 @@ www.freepuzzlegames.biz has no access to or control over these cookies that are 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.freepuzzlegames.biz's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+
+[](http://www.arcadeonline.com/)
+
+[](http://www.freebratzdressupgames.com/)
+
+[](http://www.racinggames60.com/)
+
+Total Files: 365  
+Overall Played: 6,739,208  
+Played Today: 2,970  
+Total Members: 275  
+Users Online: 180 (0 member, 180 guests)  
+
+
+[](http://www.addthis.com/bookmark.php)
+
+[](http://www.freepuzzlegames.biz/rss.php)
