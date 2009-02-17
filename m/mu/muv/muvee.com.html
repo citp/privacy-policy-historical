@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the muvee.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217061438id_/http%3A//www.muvee.com/en/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the muvee.com privacy policy that was archived on 2009-02-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090217215914id_/http%3A//muvee.com/en/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/content_plain.dwt" codeOutsideHTMLIsLocked="false" --><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -49,7 +49,7 @@ d.write('<sc'+'ript src="'+
 +new Date().valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
 '" type="text/javascript" charset="utf-8"></sc'+'ript>')})();
 // -->
-</script><script src="https://ssl.google-analytics.com/siteopt.js?v=1&amp;utmxkey=3769718367&amp;utmx=&amp;utmxx=&amp;utmxtime=1580456232006" type="text/javascript" charset="utf-8"></script>
+</script><script src="https://ssl.google-analytics.com/siteopt.js?v=1&amp;utmxkey=3769718367&amp;utmx=&amp;utmxx=&amp;utmxtime=1580456232262" type="text/javascript" charset="utf-8"></script>
 <script>
 <!-- //
 utmx("url",'A/B');
@@ -62,7 +62,7 @@ utmx("url",'A/B');
 <div id="header"></div>
 
 <div id="site_menu"><div class="menu_top_graphic"></div>
-<ul><li><a href="/en/products/" title="Products">Products</a></li><li><a href="/en/stylelabs/" title="Styles">Styles</a></li><li><a href="/en/support/" title="Support">Support</a></li><li><a href="/en/about/our_edge" title="About">About</a></li><li><a href="/en/news/featured_in" title="Press">Press</a></li><li><a href="/en/partnering/" title="Partnering">Partnering</a></li></ul>
+<ul><li><a href="/en/products/" title="Products">Products</a></li><li><a href="/en/stylelabs/" title="Styles">Styles</a></li><li><a href="/en/support/" title="Support">Support</a></li><li><a href="/en/about/our_edge" title="About">About</a></li><li><a href="/en/news/featured_in" title="Press">Press</a></li><li><a href="/en/partnering/" title="Partnering">Partnering</a></li><li><a href="http://community.muvee.com" title="Community">Community</a></li></ul>
 <div class="menu_bottom_graphic"></div><div id="hackersafe"><!-- START SCANALERT CODE --><a href="https://www.scanalert.com/RatingVerify?ref=www.muvee.com" onclick="Popup=window.open('https://www.scanalert.com/RatingVerify?ref=www.muvee.com','Popup','toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=no, width=550,height=350,left=230,top=150'); return false;"><img border="0" src="//images.scanalert.com/meter/www.muvee.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime."></a><!-- END SCANALERT CODE --></div></div>
  
 <div id="content_panel">
@@ -227,6 +227,24 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 <script type="text/javascript">
 //<![CDATA[
 var pageTracker = _gat._getTracker("UA-902590-1"); pageTracker._initData(); pageTracker._trackPageview();
+//]]></script>
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function(){
+	$("#site_menu ul li a").click(function(){		
+		//tweaks for event tracking of the menu links
+		//alert($(this).attr("title") + " " + $(this).attr("href") + " " + location.href);
+		pageTracker._trackEvent('View_Page', location.href, $(this).attr("title"));		
+		
+		//tweaks to open the community site in a new window
+		$(this).attr({id:$(this).attr("title")});		
+		$("#Community").attr({target:"_blank"});
+		
+	});
+	
+	
+	
+});
 //]]></script></div>
 
 <script>
