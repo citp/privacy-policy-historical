@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the buxptr.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044941id_/http%3A//buxptr.com/pages/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buxptr.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217185506id_/http%3A//buxptr.com/pages/privacypolicy.php) for the most accurate reproduction.*
 
 # BuxPtr.com - earn from home&have fun&BuxPtr.com
 
-Members: **8,795** | Active members: **8,795** | Total debits: **369.979.15 $**
+Members: **12,937** | Active members: **12,937** | Total debits: **505.111.89 $**
 
 **Privacy Policy**
 
