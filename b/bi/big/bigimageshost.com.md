@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bigimageshost.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219210053id_/http%3A//www.bigimageshost.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigimageshost.com privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218111747id_/http%3A//bigimageshost.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Big Images Host » More Information » Privacy Policy
 
-[](http://npvos.com/click/?s=63531&c=61149&subid=big)
+[_FM Screenshots.com_](http://www.fmscreenshots.com/) \- is a free image upload solution. Simply browse, select, and upload!
 
 When you sign up for an account with Big Images Host, we collect personal information from you including your e-mail address, and a password. 
 
