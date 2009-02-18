@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the httpool.com privacy policy that was archived on 2008-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081204034215id_/http%3A//www.ads.httpool.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the httpool.com privacy policy that was archived on 2009-02-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090218231827id_/http%3A//www.httpool.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -18,11 +18,15 @@
 <script type="text/javascript" src="/js/jquery/no-conflict.js"></script>
 <script type="text/javascript" src="/js/jquery/lightbox/js/jquery.lightbox-0.5.min.js"></script>
 <script type="text/javascript" src="/js/swfobject.js"></script>
+<script type="text/javascript" src="/js/jquery/dropdown/httpool.dropdown.js"></script>
+<script type="text/javascript" src="/js/jquery/checkbox/httpool.checkbox.js"></script>
+<script type="text/javascript" src="/js/httpool.init.js"></script>
 <link rel="stylesheet" type="text/css" media="screen" href="/css/reset.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/common.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/main.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/js/jquery/lightbox/css/jquery.lightbox-0.5.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/cms_edit.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/dropdown/dropdown.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/checkbox/checkbox.css">
 </head>
 	<body>
 
@@ -35,17 +39,6 @@
 						</a>
 					</div>
 					<div class="right-column">
-						<!--
-						<select id="country" name="country">
-							<option selected="selected" value="si">Slovenia</option>
-							<option value="hr">Croatia</option>
-							<option value="ba">Bosnia and Herzegovina</option>
-							<option value="sr">Serbia</option>
-							<option value="at">Austria</option>
-							<option value="global">Global Network</option>
-						</select>
-						-->
-						
 						<div class="advertiser">
 							<a href="/advertisers">
 																																<img src="/images/text-image/header-button-c76eadd2cc537e9b05e2795bf18adcf5.png" alt="ADVERTISER COMMUNICATE">
@@ -57,6 +50,77 @@
 							</a>
 						</div>
 						
+						<div class="options">
+														<div style="display: inline; float: left; padding-top: 4px; padding-right: 3px;">
+								Network
+								:
+							</div>
+							<div style="display: inline; float: right;">
+								<select id="country" name="country" style="width: 140px">
+																			 										 <option value="global">Global</option>																			 										 <option value="si">Slovenija</option>																			 										 <option value="hr">Hrvatska</option>																			 										 <option value="ba">Bosna i Hercegovina</option>																			 										 <option value="rs">Srbija</option>																			 										 <option value="at">Österreich</option>																			 										 <option value="mk">Македонија</option>																			 										 <option value="ro">Romania</option>																			 										 <option value="bg">България</option>																	</select>
+							</div>
+							<script type="text/javascript">
+								(function($) {
+									var select_country = $("#country");
+									$(function() {
+									
+										select_country.dropdown({ className: 'country_select' });
+										
+										select_country = $("#country");
+										select_country.change(function() {
+											
+											var domain = 'www.httpool.com';
+											if($(this).val() == -1)
+												return false;
+											
+											switch($(this).val())
+											{
+												case 'si':
+													domain = 'www.httpool.si';
+													break;
+												
+												case 'hr':
+													domain = 'www.httpool.hr';
+													break;
+												
+												case 'ba':
+													domain = 'www.httpool.ba';
+													break;
+												
+												case 'rs':
+													domain = 'www.httpool.rs';
+													break;
+												
+												case 'at':
+													domain = 'www.httpool.at';
+													break;
+												
+												case 'mk':
+													domain = 'www.httpool.com.mk';
+													break;
+												
+												case 'ro':
+													domain = 'www.httpool.ro';
+													break;
+												
+												case 'bg':
+													domain = 'www.httpool.bg';
+													break;
+											}
+											
+											window.location="http://" + domain;
+										});
+									});
+								})(jQuery);
+							</script>
+							<style type="text/css">
+								div.country_select {
+									width: 150px;
+									background-position: 140px 3px;
+									font-size: 11px;
+								}
+							</style>
+													</div>
 					</div>
 				</div>
 			</div>
@@ -162,9 +226,8 @@ Httpool Internet Marketing GmbH
 	</div>
 </div>
 
-    
-<ul id="breadcrumb_trail">
-<li><a title="Httpool Online Advertising" href="/"><img src="/images/breadcrumb_begin.png" alt="Start" style="padding-bottom: 2px; vertical-align: bottom;"></a></li><li class="last">Privacy policy</li></ul>
+    	<ul id="breadcrumb_trail">
+	<li><a title="Httpool Online Advertising" href="/"><img src="/images/breadcrumb_begin.png" alt="Start" style="padding-bottom: 2px; vertical-align: bottom;"></a></li><li class="last">Privacy policy</li>	</ul>
 
 			</div>
 			<div class="breaker"></div>
@@ -177,7 +240,7 @@ Httpool Internet Marketing GmbH
 				<ul>
 					<li><a href="/httpool-networks">Ad Networks</a></li>
 					<li><a href="/httpool-reach">Global Reach</a></li>
-					<li><a href="/httpool-ad-platform">Ad Platform</a></li>
+					<li><a href="/httpool-ad-platform">Httpool AdPlatform</a></li>
 					<li><a href="/about">About Httpool</a></li>
 					<li><a href="/httpool-contacts-location">Contacts and Locations</a></li>
 				</ul>
@@ -212,9 +275,33 @@ Httpool Internet Marketing GmbH
 				</ul>
 			</div>
 		</div>
+		<div style="font-size:1px;clear: both;">&nbsp;</div>
 	</div>
 </div>
 
+<script>
+(function ($) {
+	$(function() {
+		
+		var container = $("div.footer");
+		var max_li = 0;
+		$("div div", container).height(container.height()).each(function (){
+			var e_lis = $(this).find("li").size();
+			if(max_li < e_lis)
+				max_li = e_lis;
+		});
+		
+		var copyright = $("li.copyright", container);
+		var nr_siblings  = copyright.parent().find("li").size();
+		if((max_li - nr_siblings) > 0)
+		{
+			copyright.css({position: 'relative', top: (copyright.height()*(max_li - nr_siblings)) + 'px'});
+			$("li.login_ad", container).css({position: 'relative', top: (copyright.height()*(max_li - nr_siblings)) + 'px'});
+		}
+
+	});
+})(jQuery);
+</script>
 					<script type="text/javascript">
 				var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 				document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
