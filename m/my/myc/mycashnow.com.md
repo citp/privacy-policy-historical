@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycashnow.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218125224id_/http%3A//www.mycashnow.com/Small-Cash-Loans-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycashnow.com privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218214925id_/http%3A//www.mycashnow.com/Small-Cash-Loans-privacy-policy.php) for the most accurate reproduction.*
 
 # Best Personal Loan Rates-MyCashNow–Information about our Privacy Policy
 
@@ -18,6 +18,8 @@ We collect "nonpublic personal information" about you from several sources:
     2. Your transaction and experience history 
     3. Information from consumer reporting and similar agencies 
     4. Non-personally identifiable information such as URL and TCP/IP information 
+  
+
   3. **HOW WE USE INFORMATION WE COLLECT**
 
 The information we collect about you is primarily used to provide services to you or to facilitate loans or other services that you request.  We may also use your information to resolve disputes, troubleshoot problems, and enforce our agreements with you.  Although we may disclose information we collect and retain, its use will be limited to what we reasonably believe is appropriate and necessary to carry on our business and to facilitate your application for the services and/or products you expect and deserve.  In addition, unless you opt-out as specified herein, we may share the information with affiliates or other companies who we believe in our sole discretion may offer goods or services that you might find of interest.
