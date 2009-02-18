@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kuoni.co.uk privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218174908id_/http%3A//www.kuoni.co.uk/information/about_kuoni/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kuoni.co.uk privacy policy that was archived on 2009-02-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090218233545id_/http%3A//www.kuoni.co.uk/information/about_kuoni/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
@@ -92,7 +92,7 @@
 		 		<script type="text/javascript" src="/javascript/phones2.js"></script>
 				<script type="text/javascript" src="/javascript/phones.js"></script>
 				<script type="text/javascript">
-					loadPage();
+					loadPagePhone();
 				</script>
 				 
 			</div>
@@ -193,7 +193,7 @@
 </div>
 	<iframe src="javascript:'';" id="ecos_iframe" style="position:absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden;" title=""></iframe><iframe src="javascript:'';" id="ecos_iframe2" style="position:absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden;" title=""></iframe><div id="ecos_surveylayer" style="position:absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden;" title="Visitor Survey (dynamically generated)"></div><script language="Javascript" type="text/javascript">
 <!--
-/*** eCustomerOpinions survey code v5.0.3 ****/
+/*** eCustomerOpinions survey code v5.0.5 ****/
 /* Copyright (c) 2008 eDigitalResearch Ltd   */
 /* Please refer to our Terms & Conditions    */
 /* for conditions of use.                    */
@@ -212,7 +212,7 @@ var ecos_test = 0;
 var ecos_sid = 641101677;
 var ecos_host = 'ecustomeropinions.com';
 var ecos_vault = '_';
-var ecos_ver = '503';
+var ecos_ver = '505';
 var ecos_nc = '';
 var ecos_go = 0;
 var ecos_pu = 0;
@@ -398,16 +398,20 @@ function ecos_i() {
 	if (ecos_nc != '' && cookie_firstparty)
 	{
 		var ck = getcookie('ecos');
-		var cksid = ecos_nc.split('-', 2)[0];
-		if (ck.indexOf(cksid) == -1)
+		if (ck == '')
+			ck = escape(ecos_nc);
+		else
 		{
-			if (ck == '')
-				ck = escape(ecos_nc);
-			else
+			var cksid = ecos_nc.split('-', 2)[0];
+			var ckre = new RegExp(cksid + '-\\d+');
+			var ckmatches = ck.match(ckre);
+			if ((!ckmatches) || ckmatches.length == 0)
 				ck = ck + '.' + escape(ecos_nc);
+			else
+				ck = ck.replace(ckre, escape(ecos_nc));
 		}
 		dt.setDate(dt.getDate() + 7300);
-		document.cookie = 'ecos=' + ck + ';expires=' + dt.toGMTString();
+		document.cookie = 'ecos=' + ck + ';path=/;expires=' + dt.toGMTString();
 	}
 };
 
@@ -458,7 +462,8 @@ if ((document.getElementById) && (window.frames)) {
 
 
 // -->
-</script><noscript><img src="https://ecustomeropinions.com/survey/img.php?sid=641101677&amp;nojs=1" border="0" width="1" height="1" alt="" /><a href="https://ecustomeropinions.com/survey/noscript.php?sid=641101677&amp;nojs=1">We would like your feedback, please fill in our survey</a></noscript>
+</script><noscript><img src="https://ecustomeropinions.com/survey/img.php?sid=641101677&amp;nojs=1" border="0" width="1" height="1" alt="" /><a href="https://ecustomeropinions.com/survey/noscript.php?sid=641101677&amp;nojs=1" rel="nofollow">We would like your feedback, please fill in our survey</a></noscript>
+
 <div id="footer" class="clear">
     
     	<div class="logos">
@@ -481,7 +486,8 @@ if ((document.getElementById) && (window.frames)) {
             <div class="links">
                            
                 <ul class="clear">
-                <li><a href="/information/about_kuoni/companies.html" title="Find out more about all Kuoni companies" class="first" style="margin-left:-40px;">Find out more about all Kuoni companies</a></li>
+                 <li><a href="/information/about_kuoni/companies.html" title="Read about Kuoni companies" class="first">Read about Kuoni companies</a></li>
+				<li><a href="/employment/" title="Vacancies">Vacancies</a></li>
                 <li><a href="/specialist_agents/" title="Find your nearest Kuoni Specialist Agent">Find your nearest Kuoni Specialist Agent</a></li>
 				<li><a href="http://i-travel.kuoni.co.uk" title="Kuoni i-travel" target="_blank">i-travel</a></li>
 				<li><a href="/videos/" title="View our destination videos">Kuoni videos</a></li>
