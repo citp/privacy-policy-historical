@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creationwatches.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219230501id_/http%3A//www.creationwatches.com/products/index.php%3Fmain_page%3Dinfopages%26pages_id%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creationwatches.com privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218203715id_/http%3A//www.creationwatches.com/products/index.php%3Fmain_page%3Dinfopages%26pages_id%3D16) for the most accurate reproduction.*
 
 # Privacy Policy : Buy Watch Online, Citizen Casio Seiko Mens Womens watches online at low prices at CreationWatches.Com
 
