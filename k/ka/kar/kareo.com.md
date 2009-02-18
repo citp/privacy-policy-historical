@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kareo.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219011613id_/http%3A//www.kareo.com/terms/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kareo.com privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218193815id_/http%3A//www.kareo.com/terms/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Medical Billing Practice Management Software | Kareo.com
 
