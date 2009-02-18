@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jiwire.com privacy policy that was archived on 2008-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219112346id_/http%3A//www.jiwire.com/privacy-policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jiwire.com privacy policy that was archived on 2009-02-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090218233530id_/http%3A//www.jiwire.com/privacy-policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 	<title> JiWire Wi-Fi Advertising Network, Wi-Fi Finder and Hotspot Directory</title>
@@ -20,7 +20,6 @@
 	<script type="text/javascript" src="/jiwire/js/jquery.js"></script>
 	<script type="text/javascript" src="/jiwire/js/main.js"></script>
 
-	<script type="text/javascript" src="http://dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=6"></script>
 	
 	<!--[if lt IE 7]><style type="text/css">@import "/jiwire/css/ie.css";</style><![endif]-->
 	<!--[if IE 7]><style type="text/css">@import "/jiwire/css/ie7.css";</style><![endif]-->
@@ -35,7 +34,7 @@ http://www.omniture.com --><script type="text/javascript" language="JavaScript">
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
 var s_pageName=""
-var s_server="web3"
+var s_server="web2"
 var s_channel=""
 var s_pageType=""
 var s_prop1="null"
@@ -69,7 +68,7 @@ var s_wd=window,s_tm=new Date;if(s_code!=' '){s_code=s_dc(
 'jiwire');if(s_code)document.write(s_code)}else
 document.write('<im'+'g src="http://jiwire.112.2O7.net/b/ss/jiwire/1/G.4--FB/s'+s_tm.getTime()+'?[AQB]'
 +'&j=1.0&[AQE]" height="1" width="1" border="0" alt="" />')
-//--></script><img src="http://jiwire.112.2O7.net/b/ss/jiwire/1/G.4--FB/s1582538074815?[AQB]&amp;j=1.0&amp;[AQE]" height="1" width="1" border="0" alt=""><script type="text/javascript" language="JavaScript"><!--
+//--></script><img src="http://jiwire.112.2O7.net/b/ss/jiwire/1/G.4--FB/s1582538068590?[AQB]&amp;j=1.0&amp;[AQE]" height="1" width="1" border="0" alt=""><script type="text/javascript" language="JavaScript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><noscript><img src="http://jiwire.112.2O7.net/b/ss/jiwire/1/G.4--NS/0"
 height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
@@ -385,14 +384,14 @@ function geoResults(obj) {
 	  //var strict = sel.options[sel.selectedIndex].value;
 	  url += "&strict="+false;
 	  url += "&addr="+addr;
-	  var obj=new JSONscriptRequest(url);      
-	  obj.buildScriptTag(); // Build the script tag      
+	  var obj=new JSONscriptRequest(url);
+	  obj.buildScriptTag(); // Build the script tag
 	  obj.addScriptTag(); // Execute (add) the script tag
 	}
 
 	function stopAutoSubmit()
 	{ return false; }
-	
+
 	function getElement(evt){
 		// equalize W3C/IE event models to get event object
 		evt = (evt) ? evt : ((window.event) ? window.event : null);
@@ -411,7 +410,7 @@ function geoResults(obj) {
 			e.value="";
 		e.select();
 	}
-	
+
 	function restoreField(evt)
 	{
 		var e = getElement(evt);
@@ -423,35 +422,36 @@ function geoResults(obj) {
       var map = null;
       function GetGeocode(location)
       {
-		try
-		{
-			map = new VEMap('myGeocodeSearchMap');
-			map.LoadMap();
-	 		map.Find(null, location, null, null, 0, 10, false, false, false, true, ProcessResults);
-	 	}catch(e){
-	 		window.location = "/search-wifi-hotspots.htm?type=reload&result_display=list&technology_id=0&city_id=0";
-	 	}
-      }   
+        alert("getGeocode:ve-hotspot-navigation.jsp");
+//		try
+//		{
+//			map = new VEMap('myGeocodeSearchMap');
+//			map.LoadMap();
+//	 		map.Find(null, location, null, null, 0, 10, false, false, false, true, ProcessResults);
+//	 	}catch(e){
+//	 		window.location = "/search-wifi-hotspots.htm?type=reload&result_display=list&technology_id=0&city_id=0";
+//	 	}
+      }
 
 	function ProcessResults(layer, results, places, hasmore)
 	{
-		var location = new String(places[0].LatLong);
- 	 	var longLat = new Array();
-		longLat = location.split(', ');
- 	 	document.OneBoxSearch.latitude.value = longLat[0];
- 	 	document.OneBoxSearch.longitude.value = longLat[1];
- 	 	document.OneBoxSearch.submit();
+        alert("ProcessResults:ve-hotspot-navigation.jsp");
+//		var location = new String(places[0].LatLong);
+// 	 	var longLat = new Array();
+//		longLat = location.split(', ');
+// 	 	document.OneBoxSearch.latitude.value = longLat[0];
+// 	 	document.OneBoxSearch.longitude.value = longLat[1];
+// 	 	document.OneBoxSearch.submit();
 	}
 
     function enterEvent(event) {
-
 	  	if (event && event.keyCode == 13){
 	    	sendGeoRequest(document.OneBoxSearch.address.value);
 	    	return false;
 	  	}else{
 	    	return true;
 	    }
-    }     
+    }
 
 </script>
 
@@ -810,6 +810,7 @@ function geoResults(obj) {
 <p>The type of information we collect depends on type of service or product we are providing to you.</p>
 <p><u>When you register to use www.JiWire.com:</u>  JiWire owns and operates the web site www.JiWire.com.  JiWire's primary goal in collecting personal information is to maximize your online experience when using our site.  When you register as a member, you must provide your, e-mail address, country, and ZIP or postal code, along with information about the industry in which you work, your job function, your company size, and your household income. Once you register with JiWire.com you are no longer anonymous to us. At registration, you have the option to also provide other information to us, such as whether you wish to receive newsletters or special offers.  The information we collect allows us to enable each user to personalize the use of our services and to continually improve our services.  Some services are limited to authorized users, so we require this information to identify each user and to enable us to provide secure services that address the needs and preferences of specific users.</p>
 <p><u>When you register for a Registration Key to install software:</u>  When you download, install and use JiWire software, you are entering into a contractual relationship with JiWire according to the terms of the license agreement that is presented to you in the installation process.  When you register for the Registration Key to install software, JiWire collects information including your e-mail address, country, and ZIP or postal code, along with information about the industry in which you work, your job function, your company size, and your household income.  Our membership features include the ability to save information on hotspot locations, addresses, features, and reviews, so we collect personally identifiable information to allow us to provide a customizable user experience for you.</p>
+<p>When you participate in one of our surveys: From time to time, JiWire may present you with opportunities to participate in surveys to learn more about you and our audience demographics as a whole.  Your participation in surveys is optional.  As part of these surveys, you may be asked to provide certain demographic information, such as your household income, residence zip code, and purchasing habits.  The information we collect allows us to enable each user to personalize the use of our services and to continually improve our services. </p>
 <br>
 <p class="standard_paragraph"><strong><a name="2"></a>2.	What anonymous information does JiWire collect?</strong></p>
 <p><u>Web-log data</u></p>
@@ -829,6 +830,7 @@ function geoResults(obj) {
 <p class="standard_paragraph"><strong><a name="3"></a>3.	Why does JiWire collect personal information, and how does JiWire use the information?</strong></p>
 <p><u>When you register to use www.JiWire.com:</u>  JiWire uses the information we gather to enhance your user experience on our site. We may use tracking information to determine how much interest a page generates overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to better understand our users and their needs. We may also use the information to customize content and advertisement for our users and to help us deliver products and services, such as our email newsletters. Additionally, we may use the information to send you information from our partners on topics that interest you.</p>
 <p><u>When you register for a Registration Key to install software:</u>  JiWire collects personally identifiable information in order to provide you updates and revisions to the software and to facilitate any notices between JiWire and you required by the license agreement.</p>
+<p>When you participate in one of our surveys:  Information you provide through a survey may be analyzed and used internally at JiWire for a variety of business purposes, including helping us to improve our services.  We may also provide non-personally identifiable information, such as general demographic information or other non-identifiable aggregate information, to third parties.  In some cases we may use third parties to help us collect survey data, analyze the data, and deliver rewards, prizes, gifts or other compensation for your survey participation.  Those third parties will be required to keep your information confidential, and not use it except for the limited purposes requested by JiWire.</p>
 <br>
 <p class="standard_paragraph"><strong><a name="4"></a>4.	What choices do you have to limit use or disclosure of personally identifiable information?</strong></p>
 <p>Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can view some of the content and use some of the services offered by our site without registering, but that will limit your ability to access certain features on our site and prevent you from obtaining a Registration Key.  We obtain your consent before sharing your information with others.  When you request a product or service, you are consenting for us to share with our partners only the information necessary to fulfill your request.  For example, if you use one of our co-branded sites or services, then you are consenting for us to share your personally identifiable information with our co-brand partner so that we can each provide you with the services related to that site.  We will ensure that any partner that assists us in fulfilling your requests agrees to protect your personally identifiable information in a manner that is consistent with the manner in which JiWire protects your personally identifiable information.</p>
@@ -1182,7 +1184,7 @@ function geoResults(obj) {
 
 
 
-		<!-- CODE VERSION: new_jsps/jiwire/ V4 Server : web3 -->
+		<!-- CODE VERSION: new_jsps/jiwire/ V4 Server : web2 -->
 
 
 
@@ -1210,7 +1212,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 
 <script type="text/javascript">
 
-var pageTracker = _gat._getTracker("UA-851079-1");
+var pageTracker = _gat._getTracker("UA-7132883-1");
 
 pageTracker._initData();
 
