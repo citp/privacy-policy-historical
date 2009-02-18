@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earncashfromgrants.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062511id_/http%3A//www.earncashfromgrants.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earncashfromgrants.com privacy policy that was archived on 2009-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090219000327id_/http%3A//www.earncashfromgrants.com/privacy.html) for the most accurate reproduction.*
 
 # Government Funded Grants
 
@@ -97,7 +97,7 @@ Notwithstanding the above commitments to protect your information (including Per
 If we decide to change this Privacy Policy, we will post those changes on our Website so you are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use Personally Identifiable Information in a manner significantly different from that stated in this Privacy Policy, or otherwise disclosed to you, at the time it was collected, we will notify you by email or otherwise, and you will have a choice as to whether or not we use your Personally Identifiable Information in a new manner. We may also make non-significant changes to our Privacy Policy that generally will not affect our use of your Personally Identifiable Information. If you do not agree to the terms of this Privacy Policy, you should not use our Website. 
 
 **WHO DO I CONTACT IF I HAVE ANY PRIVACY QUESTIONS?**  
-If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact us by calling (866)342-2494. 
+If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact us by calling (888)347-1687. 
 
 **BY USING OUR WEBSITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE OUR WEBSITE. YOUR CONTINUED USE OF OUR WEBSITE FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES.**
 
