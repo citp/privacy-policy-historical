@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingsocial.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219042701id_/http%3A//livingsocial.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingsocial.com privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218123035id_/http%3A//www.livingsocial.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - LivingSocial
 
