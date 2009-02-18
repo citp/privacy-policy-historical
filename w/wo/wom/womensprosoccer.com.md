@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womensprosoccer.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218231622id_/http%3A//www.womensprosoccer.com/soccer_ektid128.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womensprosoccer.com privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218061337id_/http%3A//www.womensprosoccer.com/soccer_ektid128.aspx) for the most accurate reproduction.*
 
 # Women's Professional Soccer - home of pro soccer players :: Privacy Statement
 
