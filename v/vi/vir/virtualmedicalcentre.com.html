@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the virtualmedicalcentre.com privacy policy that was archived on 2008-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219183145id_/http%3A//virtualmedicalcentre.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the virtualmedicalcentre.com privacy policy that was archived on 2009-02-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090219001154id_/http%3A//www.virtualmedicalcentre.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<script type="text/javascript" src="ad/3rdparty/popcalendar.js"></script></head><body><div onclick="bShow=true" id="calendar" class="div-style"><table width="220" class="table-style"><tbody><tr class="title-background-style"><td><table width="218"><tbody><tr><td class="title-style"><b><span id="caption"></span></b></td><td align="right"><a href="javascript:hideCalendar()"><img src="ad/3rdparty/images/close.gif" width="15" height="13" border="0" alt="Close the Calendar"></a></td></tr></tbody></table></td></tr><tr><td class="body-style"><span id="content"></span></td></tr><tr class="today-style"><td><span id="lblToday"></span></td></tr></tbody></table></div><div id="selectMonth" class="div-style"></div><div id="selectYear" class="div-style"></div>
@@ -13,14 +13,11 @@
 <meta name="robots" content="all">
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
-
-
-	
-	<link href="/style.css" rel="stylesheet" type="text/css">
-	
+	<link href="/stylebp.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" type="text/css" href="print.css" media="print">
 
 	<script type="text/javascript" src="contentslider.js"></script>
-	<script type="text/javascript" src="dropdown.js"></script><div id="dropmenudiv" style="visibility:hidden;width:165px;background-color:#ffffff" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+	<script type="text/javascript" src="dropdown.js"></script><div id="dropmenudiv" style="visibility:hidden;width:220px;background-color:#ffffff" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
 	<link rel="shortcut icon" href="/images/favicons/favicon_vmc.ico">
 	<link rel="icon" href="/images/favicons/favicon_vmc.ico">
 	<link rel="alternate" type="application/rss+xml" title="Medical News" href="news_rss.asp">
@@ -31,19 +28,16 @@
 	</script>
 	<script type="text/javascript" src="HumanAtlas/flash_content/BMCfile/popupNF.js"></script>
 	<!--Meta write version 1-->
-    <meta name="description" content="Medical information and Health advice on diseases, symptoms, drugs and treatments. 3D animations, Doctor and Patient Videos, blogs, forums, medical tools and more.">
-    <meta name="DC.Description" content="Medical information and Health advice on diseases, symptoms, drugs and treatments. 3D animations, Doctor and Patient Videos, blogs, forums, medical tools and more.">
-    
-    <meta name="keywords" content="health,medical,medical specialist,science,diseases,depression,breast cancer,drugs, research,latest,news, articles,treatment,medical alerts,medicine,cancer,cardiac">
-    <meta name="DC.Title" content="Privacy">
-	<meta name="DC.Date.Modified" scheme="ISO8601" content="2008-03-14">
-    <meta name="DC.Identifier" scheme="URI" content="http://www.virtualmedicalcentre.com/default.asp">
-    <meta name="DC.Identifier" scheme="URI" content="http://www.virtualmedicalcentre.com/privacy.asp"><meta name="HI.Complexity" content="medium">
-    <meta name="DC.Creator" content="Virtual Medical Centre.com">
-    <meta name="DC.Publisher" content="Virtual Medical Centre.com">
-    <meta name="DC.Rights" content="Copyright Virtual Medical Centre.com">
-    <meta name="DC.Language" scheme="RFC3066" content="en">
-    <meta name="DC.Format" scheme="IMT" content="text/html">
+			<meta name="description" content="Medical information and Health advice on diseases, symptoms, drugs and treatments. 3D animations, Doctor and Patient Videos, blogs, forums, medical tools and more.">
+			<meta name="DC.Description" content="Medical information and Health advice on diseases, symptoms, drugs and treatments. 3D animations, Doctor and Patient Videos, blogs, forums, medical tools and more.">
+			<meta name="keywords" content="health,medical,medical specialist,science,diseases,depression,breast cancer,drugs, research,latest,news, articles,treatment,medical alerts,medicine,cancer,cardiac"><meta name="DC.Title" content="Privacy"><meta name="DC.Date.Modified" scheme="ISO8601" content="2008-03-14"><meta name="DC.Identifier" scheme="URI" content="http://www.virtualmedicalcentre.com/default.asp"><meta name="DC.Identifier" scheme="URI" content="http://www.virtualmedicalcentre.com/privacy.asp">
+		<meta name="HI.Complexity" content="medium">
+		<meta name="DC.Creator" content="Virtual Medical Centre.com">
+		<meta name="DC.Publisher" content="Virtual Medical Centre.com">
+		<meta name="DC.Rights" content="Copyright Virtual Medical Centre.com">
+		<meta name="DC.Language" scheme="RFC3066" content="en">
+		<meta name="DC.Format" scheme="IMT" content="text/html">
+		
 	<script type="text/javascript">
 	function layout_getCookie(name) {
 	var dc = document.cookie;
@@ -72,29 +66,37 @@
 	</script>
 	<meta name="verify-v1" content="cTw4oXrcfFWrfdsNOFKW/StYj5MVRuwd7+ylPYCurc0=">
 	
-
-
-
-	<script type="text/javascript" src="http://medrx.sensis.com.au/images/sensis/virtualmedicalcentre/Utilities.js"></script>
 	<script type="text/javascript">
-	var zMSsite = "virtualmedicalcentre";
-	var zMSsection = "";
-	var zMSusertype = "FREE"
-	zMScallGeneric();
+	function bookmarksite(title,url){
+	if (window.sidebar) // firefox
+		window.sidebar.addPanel(title, url, "");
+	else if(window.opera && window.print){ // opera
+		var elem = document.createElement('a');
+		elem.setAttribute('href',url);
+		elem.setAttribute('title',title);
+		elem.setAttribute('rel','sidebar');
+		elem.click();
+	}
+	else if(document.all)// ie
+		window.external.AddFavorite(url, title);
+	}
 	</script>
 	
-		<div class="header_wrapper">
+
+
+
+		<div class="header_wrapper noprint">
 			<div id="header"><div style="text-align: right; width: 100%;"><h1>Your best resource for healthcare information</h1></div>
 			
 		<center>
 			<img style="padding: 1px;" src="/images/ad_label.gif" alt="Medical advertising" align="middle"><br>
-		<a href="http://www.dpbolvw.net/ie77tenkem14B3764913253579A?sid=med" target="_blank" onmouseover="window.status='http://www.qualityhealth.com';return true;" onmouseout="window.status=' ';return true;">
-<img src="http://www.tqlkg.com/br101iw-ousDGNFJIGLDFEHFHJLM" alt="Free Samples and Coupons for Brand Name Products" border="0"></a>
+		<a href="http://www.kqzyfj.com/click-2915427-10647663" target="_top">
+<img src="http://www.lduhtrp.net/image-2915427-10647663" width="728" height="90" alt="Smart for Life Cookie Diet " border="0"></a>
 		</center>
 		</div>
 		</div>
 	
-	<div id="toolbar">
+	<div id="toolbar" class="noprint">
 	 	<div id="topmenu">
 			
 
@@ -136,70 +138,65 @@
 	<div id="contentbg">
 		<div id="wrapper">
 			<div id="content">
-				<div id="left_content">
+				<div id="left_content" class="noprint">
 					
-	<div align="center" style="width: 100%;  padding-left: 5px; ">
-		<a href="videopage.asp?vidid=479&amp;title=Virtual-Medical-Centre-Presentation"><img src="images/presentation-video-banner.gif" border="1" alt="Our past year"></a>
-	</div>
+	<div class="noprint">
+		
+			<h2 class="left_section_title">Medical Centres</h2>
 
-	<div align="center" style="width: 100%;  padding-left: 5px; padding-top: 5px ; ">
-		<a href="advertisewithus.asp"><img src="images/Banner-Hitwise5.gif" border="0" alt="Hitwise"></a>
-	</div>
-
-	
-		<h2 class="left_section_title">Medical Centres</h2>
-
-		<div class="leftnav">
-			<ul>
-				<li><a href="/privacy.asp?centre=alg">Allergy</a></li><li><a href="/privacy.asp?centre=blo">Blood</a></li><li><a href="/privacy.asp?centre=bon">Bone</a></li><li><a href="/privacy.asp?centre=neu">Brain</a></li><li><a href="/privacy.asp?centre=can">Cancer</a></li><li><a href="/privacy.asp?centre=kid">Child's Health</a></li><li><a href="/privacy.asp?centre=gas">Gastro</a></li><li><a href="/privacy.asp?centre=car">Heart</a></li><li><a href="/privacy.asp?centre=end">Hormone</a></li><li><a href="/privacy.asp?centre=inf">Infection</a></li><li><a href="/privacy.asp?centre=rhe">Joints</a></li><li><a href="/privacy.asp?centre=ren">Kidney</a></li><li><a href="/privacy.asp?centre=res">Lungs / Breathing</a></li><li><a href="/privacy.asp?centre=men">Men's Health</a></li><li><a href="/privacy.asp?centre=psy">Mental Health</a></li><li><a href="/privacy.asp?centre=pai">Pain</a></li><li><a href="/privacy.asp?centre=skin">Skin</a></li><li><a href="/privacy.asp?centre=wei">Weight Loss</a></li><li><a href="/privacy.asp?centre=wom">Women's Health</a></li>
-			</ul>
-		</div>
-		<br>
-		<h2 class="left_section_title">Medical Information</h2>
-
-		<div class="leftnav">
-			<ul>
-				<li><a href="diseases.asp">Diseases</a></li>
-				<li><a href="drugsandsupplements.asp">Drugs &amp; Supplements</a></li>
-				<li><a href="news.asp">News</a></li>
-				<li><a href="symptoms.asp">Symptoms</a></li>
-				<li><a href="treatments.asp">Treatments</a></li>
-				<li><a href="devices.asp">Medical Devices</a></li>
-				<li><a href="casestudy.asp">Case Study</a></li>
-				<li><a href="lifestyle.asp">Lifestyle</a></li>
-				<li><a href="research.asp">Research &amp; Trials</a></li>
-				<li><a href="investigations.asp">Investigations</a></li>
-				<li><a href="anatomy.asp">Anatomy &amp; Physiology</a></li>
-				<li title="Further education and Continuing Professional Development for Doctors"><a href="education.asp">Continuing Education</a></li>
-				<li><a href="supportive.asp">Supportive Care</a></li>
-				<li><a href="animations.asp">3D Animations</a></li>
-				<li><a href="videopage.asp">Medical Videos</a></li>
-				<li><a href="events.asp">Events &amp; Conferences</a></li>
-				<li><a href="medical_dictionary.asp">Medical Dictionary</a></li>
-				<li><a href="featuredpages.asp">Featured Pages</a></li>
-				<li><a href="newsletters.asp?media=enews&amp;archive=show">Health eNewsletters</a></li>
-				<li><a href="links.asp">Useful Links</a></li>
-			</ul>
-
-			<br>
-			<div align="center" style="width: 100%;  padding-left: 5px ">
-				<a href="news_rss.asp" target="_blank">
-					<img src="/images/btn_rss_feed.gif" alt="RSS News Feed" border="0">
-				</a>
+			<div class="leftnav">
+				<ul>
+					<li><a href="/privacy.asp?centre=alg">Allergy</a></li><li><a href="/privacy.asp?centre=blo">Blood</a></li><li><a href="/privacy.asp?centre=bon">Bone</a></li><li><a href="/privacy.asp?centre=neu">Brain</a></li><li><a href="/privacy.asp?centre=can">Cancer</a></li><li><a href="/privacy.asp?centre=kid">Child's Health</a></li><li><a href="/privacy.asp?centre=gas">Gastro</a></li><li><a href="/privacy.asp?centre=car">Heart</a></li><li><a href="/privacy.asp?centre=end">Hormone</a></li><li><a href="/privacy.asp?centre=inf">Infection</a></li><li><a href="/privacy.asp?centre=rhe">Joints</a></li><li><a href="/privacy.asp?centre=ren">Kidney</a></li><li><a href="/privacy.asp?centre=res">Lungs / Breathing</a></li><li><a href="/privacy.asp?centre=men">Men's Health</a></li><li><a href="/privacy.asp?centre=psy">Mental Health</a></li><li><a href="/privacy.asp?centre=pai">Pain</a></li><li><a href="/privacy.asp?centre=skin">Skin</a></li><li><a href="/privacy.asp?centre=wei">Weight Loss</a></li><li><a href="/privacy.asp?centre=wom">Women's Health</a></li>
+				</ul>
 			</div>
-
 			<br>
-			<div style="border: 1px solid #EFEFEF; margin-left: 10px; margin-right: 1px;">
-				
+			<h2 class="left_section_title">Medical Information</h2>
+
+			<div class="leftnav">
+				<ul>
+					<li><a href="diseases.asp">Diseases</a></li>
+					<li><a href="drugsandsupplements.asp">Drugs &amp; Supplements</a></li>
+					<li><a href="news.asp">News</a></li>
+					<li><a href="symptoms.asp">Symptoms</a></li>
+					<li><a href="treatments.asp">Treatments</a></li>
+					<li><a href="devices.asp">Medical Devices</a></li>
+					<li><a href="casestudy.asp">Case Study</a></li>
+					<li><a href="lifestyle.asp">Lifestyle</a></li>
+					<li><a href="research.asp">Research &amp; Trials</a></li>
+					<li><a href="investigations.asp">Investigations</a></li>
+					<li><a href="anatomy.asp">Anatomy &amp; Physiology</a></li>
+					<li title="Further education and Continuing Professional Development for Doctors"><a href="education.asp">Continuing Education</a></li>
+					<li><a href="supportive.asp">Supportive Care</a></li>
+					<li><a href="animations.asp">3D Animations</a></li>
+					<li><a href="videopage.asp">Medical Videos</a></li>
+					<li><a href="events.asp">Events &amp; Conferences</a></li>
+					<li><a href="medical_dictionary.asp">Medical Dictionary</a></li>
+					<li><a href="featuredpages.asp">Featured Pages</a></li>
+					<li><a href="newsletters.asp">Health eNewsletters</a></li>
+					<li><a href="links.asp">Useful Links</a></li>
+				</ul>
+
+				<br>
+				<div align="center" style="width: 100%;  padding-left: 5px ">
+					<a href="news_rss.asp" target="_blank">
+						<img src="/images/btn_rss_feed.gif" alt="RSS News Feed" border="0">
+					</a>
+				</div>
+
+				<br>
+				<div style="border: 1px solid #EFEFEF; margin-left: 10px; margin-right: 1px;">
+					
 		<center>
 			<img style="padding: 1px;" src="/images/ad_label.gif" alt="Medical advertising" align="middle"><br>
-		<a href="http://www.kqzyfj.com/p979nmvsmu9CJBFECH9BAFFHEIG?sid=med" target="_blank" onmouseover="window.status='http://skincarerx.com';return true;" onmouseout="window.status=' ';return true;">
-<img src="http://www.awltovhc.com/9s118o26v0zKNUMQPNSKMLQQSPTR" alt="Free Shipping at SkinBotanica.com" border="0"></a>
+			<a href="http://www.tkqlhce.com/click-2915427-10574927" target="_top">
+<img src="http://www.awltovhc.com/image-2915427-10574927" width="120" height="600" alt="" border="0"></a>
 		</center>
 		
+				</div>
 			</div>
-		</div>
-		
+			
+	</div>
+	
 				</div>
 				<div id="middle_content">
 					
@@ -217,28 +214,28 @@
 			<li><a href="#thirdparties">Your Personal Information and Third Parties</a></li>
 			<li><a href="#cookies">Cookies</a></li>
 		</ul>
-
+		
 		<h3 class="section_title" id="overview">Privacy Policy Overview</h3>
-
-		<p>Virtual Medical Centre (VMC) is committed to protecting your privacy. As a visitor or
-		member of VMC´s website (site), you are interested in knowing more about health
-		issues for you, someone close to you or your practice. We understand that health is a
-		very personal matter and that personal information is provided in confidence. We
-		recognise the importance of privacy and respect your right to control how personal
+		
+		<p>Virtual Medical Centre (VMC) is committed to protecting your privacy. As a visitor or 
+		member of VMC´s website (site), you are interested in knowing more about health 
+		issues for you, someone close to you or your practice. We understand that health is a 
+		very personal matter and that personal information is provided in confidence. We 
+		recognise the importance of privacy and respect your right to control how personal 
 		information is collected and used.</p>
-
-		<p>VMC may vary this privacy policy from time to time. The updates will be posted on this
+		
+		<p>VMC may vary this privacy policy from time to time. The updates will be posted on this 
 		page. We recommend you familiarise yourself with this page when using the site.</p>
-
+		
 		<h3 class="section_title" id="what">What Personal Information does VMC collect and how does VMC use your Personal Information?</h3>
-
+		
 		<ul>
-			<li>If you do nothing during your visit to this site but browse or download information,
+			<li>If you do nothing during your visit to this site but browse or download information, 
 			we automatically collect and store the following information about your visit:
 				<ul>
-					<li>The Internet Protocol address and domain name used but not the email address.
-					The Internet Protocol address is a numerical identifier assigned either to your
-					Internet service provider or directly to your computer. We use the Internet to
+					<li>The Internet Protocol address and domain name used but not the email address. 
+					The Internet Protocol address is a numerical identifier assigned either to your 
+					Internet service provider or directly to your computer. We use the Internet to 
 					deliver information to you;</li>
 					<li>The type of browser and operating system you used and your connection speed;</li>
 					<li>The date and time you visited this site;</li>
@@ -246,10 +243,10 @@
 					<li>The previous website you visited prior to coming to this site.</li>
 				</ul>
 			</li>
-			<li>The information we automatically collect or store is used to improve the content of
-			our web services and to help us understand how people are using our services. VMC
-			analyses our site logs to continually improve the value of the materials available on
-			our site. Our site logs are not personally identifiable, and we make no attempt to link
+			<li>The information we automatically collect or store is used to improve the content of 
+			our web services and to help us understand how people are using our services. VMC 
+			analyses our site logs to continually improve the value of the materials available on 
+			our site. Our site logs are not personally identifiable, and we make no attempt to link 
 			them with the individuals that browse this site.</li>
 			<li>VMC will not collect your personal information unless you have consented and given it to us.</li>
 			<li>Where and what personal information is collected and how it is used:
@@ -258,36 +255,36 @@
 						<ul>
 							<li>General Patient Membership
 								<ul>
-									<li>What personal information is collected: If you sign-up as a
-									patient member of the site, the following information is collected:
-									title, name, username, password, gender, year of birth, your
-									interest in receiving our patient email publications and your
+									<li>What personal information is collected: If you sign-up as a 
+									patient member of the site, the following information is collected: 
+									title, name, username, password, gender, year of birth, your 
+									interest in receiving our patient email publications and your 
 									interest in receiving marketing materials from Telstra.</li>
-									<li>How this personal information is used: This information is used
-									to identify you, so you can log into the site, for correspondence
-									with you (if you opt to receive VMC publications) and for VMC
+									<li>How this personal information is used: This information is used 
+									to identify you, so you can log into the site, for correspondence 
+									with you (if you opt to receive VMC publications) and for VMC 
 									internal statistics purposes.</li>
-									<li>If you opt in to receive marketing materials from Telstra,
-									this personal information will be passed onto them and they will
-									deal with it in accordance with their privacy policy located at
+									<li>If you opt in to receive marketing materials from Telstra, 
+									this personal information will be passed onto them and they will 
+									deal with it in accordance with their privacy policy located at 
 									<a href="http://www.telstra.com.au/privacy/privacy_statement.html" target="_blank">http://www.telstra.com.au/privacy/privacy_statement.html</a>.</li>
 								</ul>
 							</li>
 							<li>Health Professional Membership
 								<ul>
-									<li>What personal information is collected: If you are signing up as a
-									health professional, the following information is collected: title,
-									name, username, password, gender, year of birth, professional area,
-									professional body provider number, areas of interest, if you are
-									interested in receiving VMC professional email and print publications
+									<li>What personal information is collected: If you are signing up as a 
+									health professional, the following information is collected: title, 
+									name, username, password, gender, year of birth, professional area, 
+									professional body provider number, areas of interest, if you are 
+									interested in receiving VMC professional email and print publications 
 									and your interest in receiving marketing materials from Telstra.</li>
-									<li>How this personal information is used: For health professionals,
-									professional body numbers are collected to ensure that you are in fact
-									a health professional, in order to view the password-secure professional
+									<li>How this personal information is used: For health professionals, 
+									professional body numbers are collected to ensure that you are in fact 
+									a health professional, in order to view the password-secure professional 
 									level of information.</li>
-									<li>If you opt in to receive marketing materials from Telstra, this
-									personal information will be passed onto them and they will deal with it
-									in accordance with their privacy policy located at
+									<li>If you opt in to receive marketing materials from Telstra, this 
+									personal information will be passed onto them and they will deal with it 
+									in accordance with their privacy policy located at 
 									<a href="http://www.telstra.com.au/privacy/privacy_statement.html" target="_blank">http://www.telstra.com.au/privacy/privacy_statement.html</a>.</li>
 								</ul>
 							</li>
@@ -297,11 +294,11 @@
 						<ul>
 							<li>Surveys are conducted on both the website and enewsletters. They are optional.
 								<ul>
-									<li>What information is collected: Health surveys collect opinions on a
+									<li>What information is collected: Health surveys collect opinions on a 
 									health topic- the opinions are recorded but are anonymous.</li>
-									<li>User acceptance surveys collect opinions of the services VMC provide,
+									<li>User acceptance surveys collect opinions of the services VMC provide, 
 									an email and username.</li>
-									<li>How this information is used: Health surveys are used for health
+									<li>How this information is used: Health surveys are used for health 
 									promotion purposes.</li>
 									<li>User acceptance surveys are used to improve the services VMC provide.</li>
 								</ul>
@@ -310,87 +307,87 @@
 					</li>
 					<li><a href="education.asp">Continuing Medical Education (CME) (Health Professionals only)</a>
 						<ul>
-							<li>What personal information is collected: The CME program collects the following
-							information from health professionals who choose to participate in the education
-							program: title, name, email, username, password, college, college identification
+							<li>What personal information is collected: The CME program collects the following 
+							information from health professionals who choose to participate in the education 
+							program: title, name, email, username, password, college, college identification 
 							number.</li>
-							<li>The health professional also submits educational materials (including edited
-							disease information, research on relevant clinical trials, case study and clinical
+							<li>The health professional also submits educational materials (including edited 
+							disease information, research on relevant clinical trials, case study and clinical 
 							audit).</li>
-							<li>How this personal information is used: This personal information is collected
-							for identification purposes and accreditation with CME points (if work is of a
+							<li>How this personal information is used: This personal information is collected 
+							for identification purposes and accreditation with CME points (if work is of a 
 							sufficient standard).</li>
-							<li>The educational materials are collected for marking purposes by the specialist
+							<li>The educational materials are collected for marking purposes by the specialist 
 							mentoring the GP.</li>
 						</ul>
 					</li>
 					<li><a href="tools.asp">Tools</a>
 						<ul>
-							<li>What personal information is collected: Tools collect your responses to the
-							questions in the tool. Some tools are for health promotion purposes, some for symptom
+							<li>What personal information is collected: Tools collect your responses to the 
+							questions in the tool. Some tools are for health promotion purposes, some for symptom 
 							management, some for investigation analysis and some for drug dose conversions.</li>
-							<li>Some tools give the option for you to enter your name so you can print the tool
+							<li>Some tools give the option for you to enter your name so you can print the tool 
 							and results and take it to the doctor with you. However, we do not save your name.</li>
-							<li>How this personal information is used: We may look at responses to the tools for
+							<li>How this personal information is used: We may look at responses to the tools for 
 							statistical purposes only.</li>
 						</ul>
 					</li>
 				</ul>
 			</li>
 		</ul>
-
+		
 		<h3 class="section_title" id="protecting">Protecting Your Personal Information</h3>
-
+		
 		<ul>
-			<li>VMC will take all reasonable steps to protect any personal information misuse, loss,
+			<li>VMC will take all reasonable steps to protect any personal information misuse, loss, 
 			unauthorised access, modification or disclosure.</li>
 			<li>VMC will also take reasonable steps to destroy personal information if it is no longer needed.</li>
 		</ul>
-
+		
 		<h3 class="section_title" id="accessing">Accessing and Correcting Your Personal Information</h3>
-
+		
 		<ul>
-			<li>Every effort is made to ensure that personal information held on members is current, accurate
+			<li>Every effort is made to ensure that personal information held on members is current, accurate 
 			and complete.</li>
-			<li>You can review any personal information VMC collects about you. You may recommend changes to
+			<li>You can review any personal information VMC collects about you. You may recommend changes to 
 			personal information you believe is an error by submitting a written request.</li>
-			<li>If you believe that your personal information is being used for a purpose other than what you
+			<li>If you believe that your personal information is being used for a purpose other than what you 
 			intended it for, <a href="contactus.asp">contact VMC</a>.</li>
-			<li>A member´s identity needs to be validated before his⁄her personal information is divulged
-			when requested. In all cases, VMC will take reasonable steps to verify your identity before granting
+			<li>A member´s identity needs to be validated before his⁄her personal information is divulged 
+			when requested. In all cases, VMC will take reasonable steps to verify your identity before granting 
 			access to personal information or making corrections. If in doubt we do not divulge any information.</li>
 		</ul>
-
+		
 		<h3 class="section_title" id="thirdparties">Your Personal Information and Third Parties</h3>
-
+		
 		<ul>
-			<li>Contracts with all service providers⁄consultants whose service involves access to personal
+			<li>Contracts with all service providers⁄consultants whose service involves access to personal 
 			information comply with the VMC Privacy Policy.</li>
-			<li>Third parties are required to sign an undertaking that the information will only be used for the
-			purpose for which the information was provided. This includes mailing houses which receive personal
-			information in order to provide a service for VMC. If you opt-in to receive direct marketing from
-			Telstra when you sign up as a member, Telstra will treat your personal information in accordance with
+			<li>Third parties are required to sign an undertaking that the information will only be used for the 
+			purpose for which the information was provided. This includes mailing houses which receive personal 
+			information in order to provide a service for VMC. If you opt-in to receive direct marketing from 
+			Telstra when you sign up as a member, Telstra will treat your personal information in accordance with 
 			its privacy policy located at <br><a href="http://www.telstra.com.au/privacy/privacy_statement.html" target="_blank">http://www.telstra.com.au/privacy/privacy_statement.html</a>.</li>
 		</ul>
-
+		
 		<h3 class="section_title" id="cookies">Cookies</h3>
-
+		
 		<ul>
-			<li>A cookie is a small amount of data, which may include an anonymous unique identifier, that is
-			sent to an individual´s browser from a website´s computers and may either be used only
-			during the internet session (a "session" cookie) or may be stored on the individual´s
+			<li>A cookie is a small amount of data, which may include an anonymous unique identifier, that is 
+			sent to an individual´s browser from a website´s computers and may either be used only 
+			during the internet session (a "session" cookie) or may be stored on the individual´s 
 			computer hard drive (a "persistent" cookie).</li>
-			<li>Cookies can contain data about user movement during the visit to a website. If an individual´s
-			browser software is set to allow cookies, a website can send its own cookie to them. A website cannot
+			<li>Cookies can contain data about user movement during the visit to a website. If an individual´s 
+			browser software is set to allow cookies, a website can send its own cookie to them. A website cannot 
 			access cookies sent to the individual by other sites.</li>
-			<li>VMC uses cookies to make the individual´s use of the VMC site and services as enjoyable as
-			possible. Cookies themselves do not personally identify users, although they do identify a user´s
-			browser. Cookies are useful to estimate the number of VMC site members and determine overall traffic
+			<li>VMC uses cookies to make the individual´s use of the VMC site and services as enjoyable as 
+			possible. Cookies themselves do not personally identify users, although they do identify a user´s 
+			browser. Cookies are useful to estimate the number of VMC site members and determine overall traffic 
 			patterns through the website.</li>
-			<li>An individual can configure their browser to accept all cookies, reject all cookies, or notify
-			them when a cookie is sent. (Each browser is different, so check the "Help" menu of your
+			<li>An individual can configure their browser to accept all cookies, reject all cookies, or notify 
+			them when a cookie is sent. (Each browser is different, so check the "Help" menu of your 
 			browser to learn how to change your cookie preferences.)</li>
-		</ul>
+		</ul> 
 
     </div>
 
@@ -404,8 +401,18 @@
 					
 
 				</div>
-	  			<div id="right_content">
-					
+	  			<div id="right_content" class="noprint">
+					<div class="noprint">
+	<div style="height: 110px">
+			<a href="advertisewithus.asp">
+			<img src="images/Banner-Hitwise5.gif" border="0" alt="Hitwise" vspace="5" hspace="0" align="left">
+			</a>
+
+			<a href="videopage.asp?vidid=479&amp;title=Virtual-Medical-Centre-Presentation">
+			<img src="images/presentation-video-banner.gif" border="0" alt="Our past year" align="left" vspace="8" hspace="0">
+			</a>
+	</div>
+	
 		<div style="border: 1px solid  #0357AC; border-top: 5px solid #0357AC; background-color: #0357AC; background-image: url(../images/bg_signin.gif); background-position: top; background-repeat: no-repeat;">
 			<form name="frmlogin" id="frmlogin" method="post" action="/login.asp" onsubmit="return validateLogin()" style="margin:0;">
 				<input type="hidden" name="submit_type" value="login">
@@ -478,13 +485,53 @@
 			</script>
 		</div>
 		
-		<a href="default.asp" onclick="style.behavior='url(#default#homepage)';setHomePage('http://www.virtualmedicalcentre.com/');">Set Home Page</a> |
-		<a href="javascript:bookmarksite('Virtual Medical Centre', 'http://www.virtualmedicalcentre.com')">Bookmark Us</a> |
+
+		<script type="text/javascript">
+			/***********************************************
+			* Bookmark site script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+			* This notice MUST stay intact for legal use
+			* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+			***********************************************/
+
+			/* Modified to support Opera */
+			function bookmarksite(title,url){
+			if (window.sidebar) // firefox
+				window.sidebar.addPanel(title, url, "");
+			else if(window.opera && window.print){ // opera
+				var elem = document.createElement('a');
+				elem.setAttribute('href',url);
+				elem.setAttribute('title',title);
+				elem.setAttribute('rel','sidebar');
+				elem.click();
+			}
+			else if(document.all)// ie
+				window.external.AddFavorite(url, title);
+			else
+				window.external.AddFavorite(url, title);
+
+			}
+
+			function setVMCAsHomePage(o,url)
+			{
+			if (window.sidebar) // firefox
+				alert("Drag this link to the home icon in your menu bar.");
+			else if(window.opera && window.print){ // opera
+				alert("Drag this link to the home icon in your menu bar.");
+			}
+			else if(document.all)// ie
+				o.setHomePage(url);
+			else{
+				alert("Drag this link to the home icon in your menu bar.");
+			}
+			}
+
+		</script>
+
+		<a href="default.asp" onclick="style.behavior='url(#default#homepage)';setVMCAsHomePage(this, 'http://www.virtualmedicalcentre.com/privacy.asp');">Set Home Page</a> |
+		<a href="javascript:bookmarksite('Virtual Medical Centre', 'http://www.virtualmedicalcentre.com/privacy.asp');">Bookmark Us</a> |
 		<a href="referafriend.asp">Refer a Friend</a>
 		
 	<div class="bluebox">
-		<h3 class="right_section_title">Virtual Medical Centre Search</h3>
-
 		<form name="ASearch" method="get" action="searchredirect.asp" style="margin:2px; padding:2px;">
 			<input type="text" name="search" value="enter your search here..." onfocus="if (this.value==this.defaultValue) this.value=''; else this.select()" onblur="if (!this.value) this.value=this.defaultValue" maxlength="250" size="32">
 			<input type="submit" value="Search" name="submit">
@@ -493,13 +540,18 @@
 		</form>
 	</div>
 	
-<div style="margin-left: -3px;">
-		<div style="margin-top: 5px;"><center><img style="padding: 1px;" src="/images/ad_label.gif" alt="Medical advertising" align="middle">
-		<a href="http://www.kqzyfj.com/7t75uoxuowBELDHGEJBDCHLEFGK?sid=med" target="_blank" onmouseover="window.status='http://skincarerx.com';return true;" onmouseout="window.status=' ';return true;">
-<img src="http://www.awltovhc.com/dh108h48x20MPWOSRPUMONSWPQRV" alt="Free Shipping at SkinCareRx.com" border="0"></a>
-		</center></div>
+		<div align="center" style="padding: 0px 0px 0px 0px;">
+			
+				<div style="margin-top: 5px;">
+					<center>
+						<img style="padding: 1px;" src="/images/ad_label.gif" alt="Medical advertising" align="middle">
+						<a href="http://www.tkqlhce.com/click-2915427-10398798" target="_top">
+<img src="http://www.tqlkg.com/image-2915427-10398798" width="300" height="250" alt="SkinStore.com - Free Shipping, No Minimums" border="0"></a>
+					</center>
+				</div>
+				
 		</div>
-
+	
 	<div class="bluebox">
 		<table width="100%" border="0" cellpadding="5" cellspacing="0">
 			<tbody><tr>
@@ -509,7 +561,7 @@
 			</tr>
 			<tr>
 				<td width="33%" style="text-align: center;"><a href="login.asp"><img src="/images/icon_login.gif" alt="" border="0" align="middle"></a><br><a href="login.asp">Sign In</a></td>
-				<td width="33%" style="text-align: center;"><a href="blogs.asp"><img src="/images/icon_blog.gif" alt="Medical Blogs" border="0" align="middle"></a><br><a href="blogs.asp">Blogs</a></td>
+				<td width="33%" style="text-align: center;"><a href="featuredpages.asp"><img src="/images/icon_documentb.gif" alt="Medical Featured Pages" border="0" align="middle"></a><br><a href="featuredpages.asp">Featured Pages</a></td>
 				<td width="33%" style="text-align: center;"><a href="http://www.virtualmedicalcentre.com/forum/" target="_new"><img src="/images/icon_forum.gif" alt="Medical Forum" border="0" align="middle"></a><br><a href="http://www.virtualmedicalcentre.com/forum/">Forum</a></td>
 			</tr>
 			<tr>
@@ -530,7 +582,10 @@
 		<form name="frmsubscribe" id="frmsubscribe" method="post" action="subscribe08.asp" style="margin:0;">
 			<table width="97%" border="0" align="center" cellpadding="0" cellspacing="5" style="color: #336633;">
 				<tbody><tr>
-					<td colspan="2"><h3 style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; color: #336633;">Subscribe to Health eNewsletter</h3></td>
+					<td colspan="2">
+					<h3 style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; color: #336633;">
+					Subscribe to Health eNewsletter</h3>
+					</td>
 				</tr>
 
 				<tr>
@@ -546,7 +601,7 @@
 				</tr>
 
 				<tr>
-					<td colspan="2"><a href="newsletters.asp?media=enews&amp;archive=show">Click here to view current and past issues of the <strong>Health eNewsletter</strong></a>.</td>
+					<td colspan="2"><a href="newsletters.asp">Click here to view current and past issues of the <strong>Health eNewsletter</strong></a>.</td>
 				</tr>
 			</tbody></table>
 		</form>
@@ -571,27 +626,26 @@
 	
 	<div class="orangebox">
 		<h3 class="right_section_title">Today's Medical Survey</h3>
-
 		
 		<div style="padding: 0 5px 5px 5px;">
 			<form method="post" action="survey.asp" target="_new" style="margin: 0;">
-				<input name="surveyid" value="251" type="hidden">
-				Do you make New Years resolutions about your health?
+				<input name="surveyid" value="255" type="hidden">
+				Most people with schizophrenia live and many work and study in their local community.   How good do you think your understanding is of schizophrenia and what its like to live with it?<div style="display:none"> <a href="http://virtualmedicalcentre.com/buynolvadex.asp">buy nolvadex</a> <a href="http://accutane.genericbuy.org/">buy online</a><a href="http://zithromax.genericbuy.org/">zithromax</a> <a href="http://acomplia.genericbuy.org/">acomplia</a> </div>
 
 				<table cellpadding="0" cellspacing="0" border="0" width="100%">
 					<tbody>
 						<tr align="left">
 							<td colspan="2">
 								
-									<input value="1" name="svoption" type="radio">No, there is no point as I wont succeed<br>
+									<input value="1" name="svoption" type="radio">Very good <br>
 								
-									<input value="2" name="svoption" type="radio">I should, but need help to stick to my goals<br>
+									<input value="2" name="svoption" type="radio">Good<br>
 								
-									<input value="3" name="svoption" type="radio">Yes, I try but usually fail<br>
+									<input value="3" name="svoption" type="radio">Satisfactory<br>
 								
-									<input value="4" name="svoption" type="radio">Yes, the majority of the time I succeed <br>
+									<input value="4" name="svoption" type="radio">Poor<br>
 								
-									<input value="5" name="svoption" type="radio">Other<br>
+									<input value="5" name="svoption" type="radio">Very poor<br>
 								
 							</td>
 						</tr>
@@ -683,12 +737,12 @@
 </div>
 
 
-
+</div>
 	  			</div>
 			</div>
 		</div>
 	</div>
-    <div id="footer">
+    <div id="footer" class="noprint">
 		<div class="wrapper">
 	  		
 	<table width="100%" border="0" cellspacing="0" cellpadding="10px" align="center">
@@ -738,7 +792,6 @@
 					<li><a href="copyright.asp">Copyright Information </a></li>
 					<li><a href="correction.asp">Corrections</a></li>
 					<!--<li><a href="resources.asp">Website Development</a></li>-->
-					<li><a href="http://www.consultmagazine.net" target="_blank">Consult Magazine</a></li>
 					<li><a href="advertisewithus.asp">Advertise with us</a></li>
 				</ul>
 			</td>
@@ -750,7 +803,7 @@
 				<p>Information on this site must be discussed with your treating doctor.</p>
 
 
-				<p>Virtual Medical Centre © 2002 - 2008 | <a href="privacy.asp">Privacy Policy</a> Last updated 20 Dec 2008<br>
+				<p>Virtual Medical Centre © 2002 - 2009 | <a href="privacy.asp">Privacy Policy</a> Last updated 19 Feb 2009<br>
 
 				
 	<!-- DisplayHONCode -->
@@ -766,6 +819,27 @@
 
 			<script type="text/javascript" src="http://www.hon.ch/HONcode/Sealjs/HONconduct/HONConduct399336.js"></script>
 			<script type="text/javascript">print_honcode_logo(4,1);</script>
+
+			<img alt="WAITTA Finalist 2008" src="images/waitta_finalist_2008.gif" width="156" height="41" border="0">
+
+
+			<script type="text/javascript">
+				zMSgetJS('adsize=1x1&position=HIDDEN');
+			</script>
+
+			<!-- START Nielsen//NetRatings SiteCensus V5.3 -->
+			<!-- COPYRIGHT 2007 Nielsen//NetRatings -->
+			<script type="text/javascript">
+				var _rsCI="mediasmart";	 /* client ID */
+				var _rsCG="vmc";	 /* content group */
+				var _rsDN="//secure-au.imrworldwide.com/";	 /* data node */
+				var _rsCC=0;	 /* to turn on whether to check for existing cookie, 0=off 1=on */
+			</script>
+			<script type="text/javascript" src="//secure-au.imrworldwide.com/v53.js"></script>
+			<noscript>
+				<div><img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=mediasmart&amp;cg=vmc" alt="" /></div>
+			</noscript>
+			<!-- END Nielsen//NetRatings SiteCensus V5.3 -->
 
 	
 			<script type="text/javascript">
@@ -819,6 +893,15 @@
 	  		<!-- all OK -->
     	</div>
 	</div>
+
+
+
+
+
+
+
+
+
 
 
 </body></html>
