@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clips.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217141035id_/http%3A//www.clips.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clips.com privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218013543id_/http%3A//www.clips.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Clips.com
 
@@ -60,7 +60,7 @@ General
 
   * You can edit your Clips.com Account Information, at any time. 
   * We reserve the right to send you certain communications relating to the Clips.com service, such as service announcements, administrative messages and the Clips.com Newsletter, that are considered part of your Clips.com account, without offering you the opportunity to opt out of receiving them. 
-  * You can delete your Clips.com account by emailing an account deletion request to [Clips.com Customer Support](https://web.archive.org/web/20081217141035id_/http%3A//www.clips.com/contact.php).
+  * You can delete your Clips.com account by emailing an account deletion request to [Clips.com Customer Support](https://web.archive.org/web/20090218013543id_/http%3A//www.clips.com/contact.php).
 
 
 
