@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seic.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219071816id_/http%3A//www.seic.com/General_SEI_Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seic.com privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218092756id_/http%3A//seic.com/General_SEI_Privacy_Policy.asp) for the most accurate reproduction.*
 
 # SEI Privacy Policy
 
