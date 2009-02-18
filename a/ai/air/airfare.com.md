@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airfare.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219141915id_/http%3A//www.airfare.com/airfare3/sitecontent/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airfare.com privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218172532id_/http%3A//www.airfare.com/airfare3/sitecontent/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Airfare.com®- PrivacyPolicy
 
@@ -30,7 +30,7 @@ Call Center Hours
 
 | 
 
-**[ Home](https://web.archive.org/web/20081219141915id_/http%3A//www.airfare.com/airfare3/default.aspx)** **Site Information** Privacy Policy
+**[ Home](https://web.archive.org/web/20090218172532id_/http%3A//www.airfare.com/airfare3/default.aspx)** **Site Information** Privacy Policy
 
 |   
 ---|---  
