@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarticledirectory.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220230512id_/http%3A//www.smarticledirectory.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarticledirectory.com privacy policy that was archived on 2009-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090219160415id_/http%3A//www.smarticledirectory.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,4 +73,4 @@ Though we make every effort to preserve your privacy, we may need to disclose pe
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact:
 
 SmarticleDirectory.com Privacy Matters  
-[Contact SmarticleDirectory.com](https://web.archive.org/web/20081220230512id_/http%3A//pages/Contact-Us.html)
+[Contact SmarticleDirectory.com](https://web.archive.org/web/20090219160415id_/http%3A//pages/Contact-Us.html)
