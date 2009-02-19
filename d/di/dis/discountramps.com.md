@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountramps.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218123533id_/http%3A//www.discountramps.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountramps.com privacy policy that was archived on 2009-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090219210117id_/http%3A//www.discountramps.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Discount Ramps.com - Privacy Policy
 
@@ -24,7 +24,7 @@ Discount Ramps.Com LLC may access and/or disclose your personal information if r
 Personal information collected on this site may be stored and processed in the United States or any other country in which Discount Ramps.Com LLC or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. Discount Ramps.Com LLC abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. 
 
 Control your Personal Information  
-Discount Ramps.Com LLC offers its customers choices for the collection, use and sharing of personal information. You may go notify us of your preferences via the [Discount Ramps Contact Form.](https://web.archive.org/web/20081218123533id_/http%3A//www.discountramps.com/contact.htm) Please be sure to provide complete account information so we can identify you in our records.  
+Discount Ramps.Com LLC offers its customers choices for the collection, use and sharing of personal information. You may go notify us of your preferences via the [Discount Ramps Contact Form.](https://web.archive.org/web/20090219210117id_/http%3A//www.discountramps.com/contact.htm) Please be sure to provide complete account information so we can identify you in our records.  
 You may also stop the delivery of future promotional e-mail from Discount Ramps.Com LLC by responding directly to any email you receive with a request to remove you from the mailing list 
 
 Security of your Personal Information  
