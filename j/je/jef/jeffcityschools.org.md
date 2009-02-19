@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeffcityschools.org privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515222618id_/http%3A//jeffcityschools.org/pdf%2520files/Web%2520Privacy%2520Statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeffcityschools.org privacy policy that was archived on 2009-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090219070716id_/http%3A//jeffcityschools.org/pdf%2520files/Web%2520Privacy%2520Statement.pdf) for the most accurate reproduction.*
 
 # 
 
