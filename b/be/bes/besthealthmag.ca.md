@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the besthealthmag.ca privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220154631id_/http%3A//www.besthealthmag.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besthealthmag.ca privacy policy that was archived on 2009-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090219143905id_/http%3A//www.besthealthmag.ca/privacy) for the most accurate reproduction.*
 
 # Privacy | Best Health - Live Better. Feel Great.
 
