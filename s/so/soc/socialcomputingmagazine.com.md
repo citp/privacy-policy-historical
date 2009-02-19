@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the socialcomputingmagazine.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630091301id_/http%3A//www.socialcomputingmagazine.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialcomputingmagazine.com privacy policy that was archived on 2009-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090219035405id_/http%3A//www.socialcomputingmagazine.com/privacy.cfm) for the most accurate reproduction.*
 
-# Social Computing Magazine
+# Social Computing Magazine (CC) 2009
 
 ******** SocialComputingMagazine.com ** DOES NOT DISCLOSE YOUR PERSONAL INFORMATION** to outside parties. We only release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Terms and Conditions of Use and other agreements; or protect the rights, property, or safety of SocialComputingMagazine.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection. 
 
