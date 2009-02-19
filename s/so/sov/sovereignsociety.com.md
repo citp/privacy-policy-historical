@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sovereignsociety.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217154509id_/http%3A//www.sovereignsociety.com/FAQs/PrivacyPolicy/tabid/4375/Default.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sovereignsociety.com privacy policy that was archived on 2009-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090219172135id_/http%3A//www.sovereignsociety.com/FAQs/PrivacyPolicy/tabid/4375/Default.aspx%23privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
