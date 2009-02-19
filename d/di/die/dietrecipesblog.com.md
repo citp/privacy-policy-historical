@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dietrecipesblog.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219163053id_/http%3A//dietrecipesblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietrecipesblog.com privacy policy that was archived on 2009-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090219023402id_/http%3A//dietrecipesblog.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Diet Recipes under 200 calories
 
