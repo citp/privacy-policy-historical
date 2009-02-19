@@ -1,93 +1,207 @@
-> *The following text is extracted and transformed from the coxbusiness.com privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214003740id_/http%3A//www.cox.com/policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coxbusiness.com privacy policy that was archived on 2009-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090219023547id_/http%3A//www.coxbusiness.com/2009_your_cox_business_privacy_rights.pdf) for the most accurate reproduction.*
 
-# Cox Communications - Cable, High Speed Internet and Telephone services in Cox Communications
+# YOUR PRIVACY AS A COX BUSINESS CUSTOMER 2009
 
-Online Privacy Policy  
-Updated 10/1/04
-
-**Welcome**
-
-**Online Privacy — What to Look For**  
----  
-  
-The [Federal Trade Commission](http://www.ftc.gov/), which is the chief U.S. consumer protection agency for the Internet, lists four things to look for in protecting your privacy on the Internet:
-
-**Notice** — Before collecting information about you, website owners should say what information about you they collect, how they collect it, how they use it, whether they disclose it to others, whether others collect information on the website, and how they provide choice, access and security.
-
-**Choice** — A website should permit you to choose what information it collects about you, how it is used, and any secondary use or use by others.
-
-**Access** — Check to see if you have reasonable access to information collected about you and a means to correct it.
-
-**Security** — You should be able to trust a website to promise to protect the security of what it knows about you and to enforce that promise.  
-  
-**To our Website Visitors** — We want you to know how we treat personal information the Cox Communications companies may obtain from you as a website visitor as a part of your visit. You should also see our [Website Visitor Agreement and Terms of Use](https://web.archive.org/web/20041214003740id_/http%3A//www.cox.com/policy/Visitor.asp) for other information concerning use of our website. By using our website, you accept this Online Privacy Policy and our Website Visitor Agreement.
-
-**To Cox High Speed Internet Customers** — This Online Privacy Policy applies only to use of our websites. If you are also a subscriber of a Cox Communications Cable Television, High Speed Internet or Telephone service, a detailed description of [Your Privacy Rights as a Cox Customer](https://web.archive.org/web/20041214003740id_/http%3A//www.cox.com/policy/04privacyrights.asp) is also available to you. You can also find our Subscriber Agreement and Acceptable Use Policy here online.
-
-In either case, we welcome you to our website. Please take a moment to read about your privacy rights in its use.
-
-**Topical Index**
-
-  1. Information We Collect
-  2. Use and Sharing
-  3. Law Enforcement
-  4. Internet Security
-  5. Spam
-  6. Children's Privacy
-  7. Customer Access to Information
-  8. Your Enforcement Rights
-  9. Changes in Policy
-  10. How To Contact Us
-
-
-
-  1. **Information We Collect**
-
-    * **Policy** — It is our policy to collect only the personally identifiable information (information that identifies you individually) that we need to provide the services of this website with the quality you desire and deserve. 
-    * **Cox Customers** — If you are a customer of Cox, this personally identifiable information may include your name, address, age, telephone numbers, account number, social security number, user IDs, passwords, email addresses, and other information as provided to us online or as a customer of Cox. It is our policy to retain such information only as long as needed for our business purposes or as the law may require. We take reasonable steps to protect your account information from unauthorized access. 
-    * **Website Visitors** — When you access our website, we automatically collect access log information about your visit, including information such as the Internet Protocol (IP) addresses assigned (numbers assigned to your computer while online), bandwidth used, system and connection performance, browsers used, dates and times of access, and Internet resource requests, including requests to access web pages. We do not store emails sent and received unless left in a Cox High Speed Internet account file. As explained below, we could be required by court order to disclose such information if left on our system.
-    * **Online Registrants** — In visiting our website, if you register with us or participate in a contest, survey or online transaction, we may ask for certain personally identifiable information. When we ask you for such information, we will tell you how it will be used and you may elect not to participate.
-    * **Cookies** — We, or a vendor that places advertising on our websites, may use "cookies" to collect information about your visit to our website and to manage information concerning your preferences. A "cookie" is a small computer code added to a file on your computer as a record of its visit. It does not collect or provide your name or any other personal information about you. It can, however, be used by the website that placed it to note information about your visit, such as your type of web browser, operating system and Internet Protocol ("IP") address, to better tailor the site for you. It can also be used to recognize you when you log in as a registered user or as a repeat visitor returning to our website. This allows us to tailor our site by remembering you and any options you select. We may share non-personal information obtained from the varying kinds of cookies and web beacons (see below) with vendors, advertisers and others. You can control what cookies are accepted by your computer through the settings on your web browser or by deleting them from your files. Doing so, however, may limit the personalization available to you.
-    * **Third-Party Cookies and Web Beacons** — These forms of computer code are sometimes placed by advertisers or others with connection to a webpage and may be read by the advertisement’s provider. They may use a form of code called a "web beacon" or "clear GIF." These are usually contained in a transparent image on a page or in an image on an email message and serve as a way to gather information about your visit, such as your Internet Protocol Address and information or statistics about your visit. As with cookies, you can use your browser settings to control web beacons.
-    * **Advertisers and Other Websites** — We do not control the privacy policies of advertisers or of websites you may link to from our websites or by using our services. You should review their websites for questions about their Internet security and privacy.
-  2. **Use and Sharing**
-
-    * **Use Policy** — We consider any personally identifiable information we receive about you to be confidential, and it is our policy to use it only in providing our websites and our cable television, internet and telephone services - from sales and installation, to operations, administration, advertising, marketing, support, network provision, maintenance, communications with you, billing, collection and in other ways related to our services. We may also use such information in dealing with fraud and unauthorized use of our services. Cox may associate personal account information with data from third parties about you or similar persons to better predict your product and service preferences for use in programming, advertising transactions and to market our services to you.
-    * **Aggregate Information** — We use aggregate information about our customers and website visitors for a variety of purposes. Such aggregate information does not identify individual customers. We may share such aggregate and related demographic information with third parties.
-    * **Retention Policy** — Cox may retain personal customer information in its regular business records as long as someone is a customer or until no longer needed for business or legal purposes. Our security measures for this information are discussed below.
-    * **Sharing Policy** — It is our overall policy not to disclose to others outside of Cox and our affiliates, vendors and business partners any personally identifiable information about our customers without their prior written or electronic consent. We do not sell or provide your personal information to parties unconnected with the services we provide without your permission.
-    * **Special Exceptions** — We reserve the right to disclose personally identifiable information in our possession if we have a good faith belief that it is necessary to: (1) comply with the law or legal process served on us; (2) protect and defend our rights or property or those of others; (3) respond to fraud, abuse or unauthorized reception; (4) enforce our Website Visitors’ Agreement and Terms of Use, our Acceptable Use Policy or related standards; or (5) act in an emergency to protect your safety or that of another. We may also share information if we sell or transfer all or a portion of our business operations, merge or combine with another organization.
-    * **Third Parties** — We sometimes use affiliates, vendors or third party partners in association with this website and may provide personally identifiable information about users for such purposes. In providing such information, we require that the outside party maintain at least the same level of confidentiality that we maintain for such information. In addition, any use by the vendor or third party may not exceed that needed to provide its service.
-    * **Internet Communications** — Unless addressed to us, we do not read email messages, instant messages, online chats, or the content of other online communications that reside on or pass through our Service. We may however, retain and provide such communications if we are legally required to do so. Incoming and outgoing email messages are generally scanned electronically to identify and filter out likely spam and for viruses and related problems that could harm your equipment, the network or other users. 
-  3. **Law Enforcement**
-
-    * **Legal Requirements** — As a provider of Internet communications services, we regularly receive legal requests for customer information from government and law enforcement personnel. We also receive discovery requests in civil litigation. In all such cases, our policy is to cooperate as required by law, but to provide only such information as the law requires. This information is generally sought by subpoena served on Cox. Under current law, many criminal subpoenas require that we not disclose or notify you of the request. Due to this fact and the volume of requests we receive, we cannot assume any duty to notify you of receipt of any legal requests.
-    * **Internet Information** — Current law provides that personal account and other information concerning use of our High Speed Internet services may be subpoenaed by governmental entities. In such cases, you may not be entitled to notice of such a request. The content of Internet communications may not generally be sought through use of a subpoena. The law does permit us to disclose to law enforcement, voluntarily and without prior notice, customer information, including the contents of communications, if we reasonably believe that an emergency involving immediate danger of death or serious physical injury requires such disclosure without delay.
-    * **Telephone Information** — In some areas, Cox provides telephone-type services to its customers through an Internet service called "Voice Over Internet Protocol" or "VOIP." Current law requires law enforcement to obtain a court order or warrant for a telephone wiretap or to use a pen register or trap and trace device to capture dialing information. The Federal Communications Commission ("FCC") and Congress are currently considering the extent to which such rules will apply to voice over Internet services.
-  4. **Internet Security**
-
-    * **Taking Proper Precautions** — Maintaining the security of your own personal computer is an important part of protecting your own privacy and of helping us protect our network and our customers’ service. You should use and update regularly your antivirus software, firewall and your operating system to prevent unauthorized access by others and harm from various forms of viruses. Persons with questionable intent may use the Internet or email to pose as someone you trust or do business with. You should always be sure who you are dealing with before responding with personal information. To avoid all these and other forms of attacks, we encourage you to visit our website at [http://www.cox.net](http://www.cox.net/) or the [Federal Trade Commission](http://www.ftc.gov/) ("FTC") for updates and tips on protecting yourself. Cox or its [Abuse/Customer Security Department](mailto:abuse@cox.com) may take protective action related to your service or contact you directly with information from time-to-time to help with this effort. 
-    * **Personal Information** — We use "[Secure Socket Layer](http://www.webopedia.com/TERM/S/SSL.html)" encryption technology when collecting certain personal information through our websites. You can identify the use of such protection by looking for "[https](http://www.webopedia.com/TERM/S/SSL.html)" in the Internet url or page address or a closed lock symbol if you are using Internet Explorer. We protect personally identifiable information found in our most sensitive databases in encrypted formats within controlled and secure environments with restricted access. While we attempt to ensure the integrity and security of our network and computer systems, we cannot guarantee that our security measures will prevent unauthorized access.
-    * **Access by Others** — It is possible for use of the Internet to be accessed or intercepted by third parties. Moreover, since we cannot control Web sites or Internet services operated by third parties, we recommend that you review the terms of service and privacy policies of those Web sites and services.
-  5. **Spam**  
-Cox works hard to prevent and to block spam and we encourage your help by preventing unauthorized access to your computer. The law permits companies like Cox to use email to send transactional or relationship messages, such as in confirming that a service has been established or providing information regarding changes in service. If you prefer, you may opt-out of marketing messages we may send by notifying us in response to any you may receive.
-
-  6. **Children's Privacy**  
-Our websites are not directed at, or intended for use by, children under the age of 13. We do not knowingly allow anyone under 18 to provide any personal information on our websites. Children should always get permission from a parent or guardian before sending personal information over the Internet. If you believe your child may have provided us with personal information, you can contact us [privacy@cox.com](mailto:privacy@cox.com) and we will delete the information. You can find more information about protecting children’s privacy by contacting the FTC or viewing its website at [http://www.ftc.gov](http://www.ftc.gov/).
-
-  7. **Customer Access to Information**  
-If you are a customer of Cox Communications, you can check the accuracy of some of your account information by contacting a Customer Care representative. For more information, see [Your Privacy Rights as a Cox Customer](https://web.archive.org/web/20041214003740id_/http%3A//www.cox.com/policy/04privacyrights.asp).
-
-  8. **Your Enforcement Rights**  
-You have the right to enforce your legal privacy rights concerning our collection, use and sharing of your personally identifiable information. Among your remedies is the right to seek relief in a civil action filed under federal law.
-
-  9. **Changes in Policy**  
-Developments in the Internet, the law, our offerings and websites may cause us to change this Online Privacy Policy from time to time. Any such changes will be prospective and will not affect information collected prior to the change in policy.
-
-  10. **How to Contact Us**  
-For any questions regarding this Policy, please contact us at one of the following:  
-E-mail: [privacy@cox.com](mailto:privacy@cox.com)   
-Phone or Mail: Visit us at [http://www.cox.com](http://www.cox.com/) and check under "Customer Service" 
+                                 YOUR PRIVACY AS A
+                    COX BUSINESS CUSTOMER 2009
+We updated this year’s privacy notice to make it easier to read and to discuss new services. We show any
+important changes for you in bold.
+In keeping with our commitment to be the most trusted provider of communications and entertainment
+services, our basic privacy policy remains:
+       We keep only the information needed to provide our services,
+       treat it as private, use it only for what we offer you, do not sell
+       it to others, work to keep it secure and destroy it when no
+       longer needed. We will tell you in advance if there are ever
+       any exceptions and give you the right to say no.
+We cannot cover here every situation that affects your business’s information, but we have included those
+we believe you are most interested in. Our website at http://www.coxbusiness.com includes updated
+information for you. You can also learn more about your privacy rights through the Federal Trade
+Commission, http://www.ftc.gov, and Federal Communications Commission, http://www.fcc.gov. If you
+receive your bills electronically, we will send this notice by email. If you would like a written copy,
+contact us at https://www.cox.com/privacyrequest.
+                                           Information We Collect
+Identifiable Information - In providing our services, we sometimes ask for information about your
+business (“your information”). This information may include names, addresses, telephone numbers, social
+security numbers, driver’s license numbers, premium services you select, demographics, user IDs,
+passwords, PINs, email addresses and communications records. We maintain information concerning
+subjects like credit, billing, payment, security deposits, maintenance, repair, equipment and services. We
+may also collect information about your video equipment, computer hardware and software, modems,
+routers, settings and preferences to aid in customer support.
+Our policy is to collect only the information needed to provide the services we offer with the quality you
+deserve. We take reasonable steps to keep that information secure and retain it only as long as needed for
+business purposes or the law requires. We take reasonable precautions to identify your authorized
+representative when we receive an inquiry on your account. We sometimes collect information for special
+reasons, such as for research, in surveys or registering at our web sites. If so, we will tell you first how we
+will use it, and you may choose not to participate. When we offer new services to you, we will tell you
+what information we need and how we may use it.
+Cable Television Services – We do not collect customer specific information concerning most video
+program viewing, except as needed to bill you, without your prior consent. In providing some cable
+television services, such as pay-per-view, interactive, and entertainment-on-demand, we do maintain usage
+information for billing, programming and related purposes. We compile aggregate information that does
+not identify you for programming, advertising and similar purposes. Some digital video recorder services
+collect usage information. If this applies, we will tell you when you receive the DVR.
 
 
+Internet Services – Like most Internet service providers, we automatically collect Internet Protocol (IP)
+addresses (an identifier given to your computer while online), bandwidth used, connection performance,
+browsers used, and connection dates and times. We keep these records for about six months. We keep
+messages you send or receive only in your Cox High Speed Internet folders. We do not store information
+on websites you visit. For more information, see our Online Privacy Policy at http://www.coxbusiness.com.
+Telephone Services - In providing telephone services, we receive usage information, including calls made
+and received and their duration. We treat this information as private and retain it for up to eighteen months,
+except in California and Virginia where we are required to do so for three years. We do not share these
+records with others, unless we receive a lawfully issued request. If you change or terminate your service, it
+will result in loss of any voice messages stored in your account.
+We do not listen to or record your calls to third parties. We do monitor certain calls to Cox employees or
+agents for quality purposes. If you object to this, tell us when you call Customer Care. We keep records of
+these calls for up to two years and treat the information as private.
+                                                 Use and Sharing
+Use Policy – We consider your information confidential, and use it only in providing our cable television,
+Internet and telephone services for such things as sales, installation, operations, administration, advertising,
+marketing, support, network management, maintenance, customer care, communications with you, and
+billing and collection. We may also use or share it in dealing with fraud and unauthorized use of our
+services.
+We use and share aggregate information about usage by groups of customers for a variety of purposes.
+Aggregate information does not identify individual customers. Cox may use aggregate and demographic
+information in association with yours to better offer our products and services to you.
+Sharing Policy – It is our policy not to disclose your information to others outside of Cox our affiliates,
+vendors and business partners without your prior consent. You can ask us to note your account with a
+special flag as added assurance of this promise. You can also notify us if you prefer not to receive
+marketing contacts. Simply write to the address on your bill or contact us online at
+https://www.cox.com/privacyrequest.
+Outside Parties – We sometimes use affiliates, vendors or partners in providing our services and may
+share your information for such purposes. We require these parties to assure at least the level of
+confidentiality we maintain and prohibit them from using your information for any other purpose.
+Special Exceptions - We reserve the right to disclose your information if we have a good faith belief it is
+necessary to: (1) comply with the law; (2) protect our rights or property or those of others; (3) respond to
+fraud, abuse or unauthorized reception; (4) enforce our standards and policies posted on
+http://www.coxbusiness.com; or (5) act in an emergency to protect your safety or that of another. We may
+also transfer your information as a part of a sale or transfer of business operations.
+Retention Policy – We retain customer information as long as you are a customer or until no longer needed
+for business, tax or legal purposes.
+Telephone Services –There are special protections for information we obtain in providing telephone
+services to you. That information, when matched to your name, address, or telephone number is known as
+“Customer Proprietary Network Information,” or CPNI. Examples of CPNI include who, when and where
+you call; how much you spend on local and long distance phone calls; the phone services you receive;
+pricing plans; billing information; and your PIN number, password and other security measures. Cox does
+not sell your CPNI information, and your CPNI will not be disclosed to third parties outside of Cox and our
+affiliates, agents, joint venture partners, and independent contractors, except as otherwise required by law.
 
+
+Customer Authentication and Notices – If you call to discuss your telephone account, you must provide
+your “Cox PIN”, found in the top right portion of your bill. If you request, Customer Care can remove
+your PIN number from your bill to enhance your security. At Cox offices, telephone customers must
+show a government issued photo ID. If you, or anyone authorized by you, make certain significant changes
+to your telephone account, Cox will send you notice to confirm that you made these changes. If you
+suspect that someone may have made unauthorized changes to your account, contact Customer Care. If we
+discover any unauthorized access to your account, we will send you notice promptly, in keeping with
+applicable law.
+Use For Marketing to You – By law, we can use your CPNI to offer our communications-related services to
+you, unless you request otherwise in the next 30 days. You can also withdraw the right for us to use your
+CPNI for these purposes at any time by contacting us at the number listed on your bill, or by email to
+privacy@cox.com. Regardless, we do not share your CPNI with independent contractors, vendors or any
+joint venture partners for marketing purposes without your prior consent.
+Some of our services, such as cellular telephone and Cox Digital Cable, are non-communications related.
+When you contact us, we may ask for your consent to use your CPNI in marketing Cox packages
+containing these services. This consent applies only for the duration of the call or Internet session. As an
+alternative, you can consent by writing to the address listed on your bill or by email to privacy@cox.com.
+Restricting our use of your CPNI will not affect your service. If you previously contacted us to approve or
+restrict our use of your CPNI, we will continue to honor your request and you do not need to contact us
+again.
+Listings - Our telephone customers can designate their listings as non-published for print or electronic
+directories or for directory assistance services. We do not publish these directories and are not responsible
+for their content or accuracy. Because of the complexity of this process and the involvement of others,
+errors sometimes occur. Our telephone services are subject to tariff or contractual terms that limit our
+liability in the event of such errors.
+Cable Television Services – We aggregate information concerning some video service viewing and
+provide it to programmers, advertisers and certain other third parties. When you use an interactive service
+to participate in or to order a product or service, we will ask for your permission to provide contact
+information to the appropriate party.
+Internet Services – We do not read any of your online communications, unless you send them to us. We
+do automatically scan incoming and outgoing email messages to filter out likely spam, harmful messages,
+viruses, spyware and related problems that could harm your equipment, the network or others.
+                                               Internet Security
+Taking Proper Precautions - Maintaining the security of your computer is an important way to protect
+your privacy and to help us protect our network and customers. You must follow our policies posted on
+http://www.coxbusiness.com and maintain your antivirus software, firewall, wireless network security and
+your operating system to prevent harm and potential theft of data. You should regularly back up your
+computer to preserve your files, including messages you want to keep, and change your login password
+regularly. Cox may take protective action related to your service or contact you directly from time-to-time
+to help with security. Always be sure whom you are dealing with before clicking on an Internet link or
+giving sensitive information. We encourage you to visit our website at http://www.coxbusiness.com or the
+Federal Trade Commission (“FTC”) at http://www.ftc.gov for tips on protecting yourself. When
+communications enter the Internet, it is possible for outside parties to access them. Since we cannot control
+web sites or services operated by third parties, you should review their terms of service and privacy
+policies. If you have e-mail with Cox, please note that changes to or termination of your account will result
+in loss of any messages stored for you.
+
+
+Spam - Cox tries to block incoming and outgoing spam using a variety of methods. You can help by
+preventing unauthorized access to your computer. We suggest that you remain up-to-date on ways combat
+spam by watching for tips on our website at http://www.coxbusiness.com. You can forward unwanted spam
+to spamreport@cox.net to help update our filters. We may use email to send transactional, informational,
+or relationship messages related to your service. We will never, however, ask you to send sensitive
+information to us by unsecured email. If you prefer, you may opt-out of marketing messages we may send
+by notifying us in response to any you may receive.
+Cookies and Web Beacons –Third parties that place ads on our websites may use “cookies” to collect
+anonymous information about your visit to our website and to manage your preferences while there. A
+cookie does not give any other sensitive information about you. It can, however, be read by the website
+that placed it to note information about your visit, such as your type of browser, operating system and IP
+address. A cookie also helps to recognize you when you log in as a registered user or as a repeat visitor.
+You can control the cookies your computer accepts through the settings on your web browser or by deleting
+them from your files. Doing so, however, may limit the personalization available to you. Web beacons or
+clear GIFs are a type of computer code sometimes placed by advertisers on a webpage. As with cookies,
+you can use your browser settings to control web beacons. We use cookies to tailor our site by
+remembering you and any options you select. We may share non-sensitive information obtained from
+cookies with vendors, advertisers and others.
+                                   Law Enforcement and Legal Requests
+Information Disclosure - We regularly receive legal requests for customer information from government
+and law enforcement personnel. We also receive discovery requests in civil cases. In all such cases, we
+cooperate by providing the information required by law. Cox does not volunteer customer information or
+give access to customer communications to law enforcement or others, except in the “Special Exceptions”
+detailed above or if we have a good faith belief that an emergency involving an immediate danger of death
+or serious physical injury requires disclosure. Many criminal subpoenas require that we not disclose or
+notify you of the request. Due to this fact and the volume of requests we receive, we do not assume any
+duty to notify you of receipt of any legal requests.
+Internet Information –Information concerning your Internet access may be subpoenaed by the
+government or by others. Files shared over “peer-to-peer” services often include your IP Address, and you
+could be identified in this way if we receive a lawful subpoena. Law enforcement can obtain details about
+your Internet access and the content of communications through a court order or similar authority.
+Telephone Information –Law enforcement must obtain a court order or other similar authority to use a
+telephone wiretap or a device to capture dialing information. Voice-over-Internet services are subject to
+similar surveillance standards. Law enforcement can also subpoena account and call record information.
+Cable Television Programming Selections - Records concerning video programming selections may
+generally be obtained only under court order, after notice is given to you and you have the opportunity to
+object in court.
+                                           Security of Information
+We are aware of the many instances of data security breaches and continue to work on new ways to protect
+your information. For our most sensitive databases, we use encrypted formats within controlled and secure
+environments that have restricted access. Although we work to ensure the integrity and security of our
+network and computer systems, we cannot guarantee that our security measures will prevent unauthorized
+access.
+                                             Child Pornography
+
+
+The law requires us to report any evidence concerning child pornography we learn of. We work closely
+with the National Center for Missing and Exploited Children and other groups to eliminate child
+pornography on the Internet.
+                                      Customer Access to Information
+You may check the accuracy of information in your account by contacting a Customer Care representative.
+You may also examine your information and advise us of any errors you believe we should correct, upon
+prior request and at your own cost, during business hours at the Cox office listed on your bill.
+                                          Your Enforcement Rights
+You can enforce your legal privacy rights concerning our collection, use and sharing of your identifiable
+information. Among your remedies is the right to seek damages under 47 U.S.C. 551.
+                                    Other Terms and Changes in Policy
+Other terms and conditions affect our service offerings, including the online privacy policies for our
+websites, service contracts, our Acceptable Use Policy for High Speed Internet service, tariffs and the
+Terms of Use for our websites. Changes in our service offerings or the law may cause us to make changes
+to this and other policies from time to time. We will post any changes at http://www.coxbusiness.com,
+along with the effective date of the changes.
+                                    Annual Do-Not-Call Registry Notice
+To help reduce unwanted telemarketing calls, the FCC offers telephone subscribers the opportunity to
+register their residential telephone numbers, including wireless numbers, in its national Do Not Call
+registry. You may register for the list without charge by calling the FTC at 1-888-382-1222 or TYY 1-866-
+290-4236 from the telephone number you are registering or online at www.donotcall.gov. The FCC/FTC
+rules contain an “established business relationship” exception that permits a company that has such a
+relationship with you, like Cox, to call even if your number is registered.
