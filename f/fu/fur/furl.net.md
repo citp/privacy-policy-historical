@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furl.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218172523id_/http%3A//www.furl.net/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furl.net privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220063353id_/http%3A//www.furl.net/doc/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
