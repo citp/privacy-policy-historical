@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shabugames.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155547id_/http%3A//www.shabugames.com/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shabugames.com privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220162632id_/http%3A//www.shabugames.com/general/privacy.html) for the most accurate reproduction.*
 
 # Shabu Games - Privacy Policies
 
@@ -35,9 +35,3 @@ Shabu Games reserves the right to change this privacy policy from time to time.
 
   
 
-
-﻿  ﻿ 
-
-## Join our free Game Newsletter
-
-Your email address will be kept absolutely confidential. You can unsubscribe at any moment. 
