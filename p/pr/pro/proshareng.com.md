@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proshareng.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221025031id_/http%3A//www.proshareng.com/about_us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proshareng.com privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220105928id_/http%3A//proshareng.com/about_us/privacy.php) for the most accurate reproduction.*
 
 # Personal Finance Features and Tools - Proshare - About Us - Privacy
 
