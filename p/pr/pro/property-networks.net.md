@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the property-networks.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218085718id_/http%3A//www.property-networks.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the property-networks.net privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220234017id_/http%3A//www.property-networks.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Property Social Network
+# Property Social Network | property community, real estate group, housing discussion, real listings
 
 **PRIVACY POLICY  
 **
