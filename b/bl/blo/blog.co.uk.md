@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blog.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023915id_/http%3A//www.blog.co.uk/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blog.co.uk privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220142206id_/http%3A//blog.co.uk/company/privacy.php) for the most accurate reproduction.*
 
 # blog.co.uk - Privacy Police
 
