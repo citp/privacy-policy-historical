@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800goguard.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613121430id_/http%3A//www.1800goguard.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800goguard.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221004144id_/http%3A//www.1800goguard.com/privacy/index.php) for the most accurate reproduction.*
 
 # www.1-800-GO-GUARD.com | Privacy Policy
 
@@ -27,4 +27,4 @@ Section 508 of the Rehabilitation Act Amendments, as amended by the Workforce In
 
 If you experience any problems with this website or if you have any comments or suggestions please e-mail: [webmaster@1800goguard.com](mailto:webmaster@1800goguard.com).
 
-[Contact your local recruiter](https://web.archive.org/car/index.php?AdKey=3CBZ) for more information.
+[Contact your local recruiter](https://web.archive.org/car/index.php?AdKey=3HPF) for more information.
