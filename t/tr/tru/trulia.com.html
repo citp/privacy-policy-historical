@@ -1,17 +1,18 @@
-<!--The following is the downloaded HTML source of the trulia.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217235819id_/http%3A//www.trulia.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trulia.com privacy policy that was archived on 2009-02-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090220190218id_/http%3A//www.trulia.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+	
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
     <title>Trulia Real Estate Search - Privacy Policy</title>
-    <link href="http://images.trulia.com/css/static.css?v=20081217a" rel="stylesheet" type="text/css">
-    <link href="http://images.trulia.com/css/colors.css?v=20081217a" rel="stylesheet" type="text/css">
+    <link href="http://images.trulia.com/css/static.css?v=20090218b" rel="stylesheet" type="text/css">
     
+    <link href="http://images.trulia.com/css/colors.css?v=20090218b" rel="stylesheet" type="text/css">
     <script language="JavaScript" type="text/JavaScript">
       var site_root = '/';
       var _IMAGE_SERVER_ROOT = 'http://images.trulia.com/';
     </script>
-<script type="text/javascript" language="javascript">
+    <script type="text/javascript" language="javascript">
 var qpn_NAMES = {
 'site':'Trulia',
 'site_possessive':'Trulia\'s',
@@ -21,23 +22,33 @@ var qpn_NAMES = {
 'voices':'Trulia Voices',
 'account_source':'trulia'
 };
+var _trulia_logged_in = '0';
+if (typeof(_trulia_logged_in) != 'undefined' && parseInt(_trulia_logged_in) == 1)
+  _trulia_logged_in = 1;
+else
+  _trulia_logged_in = 0;
 </script>
 
-
-    <script language="JavaScript" type="text/JavaScript" src="http://images.trulia.com/javascript/include/js/site.js?v=20081217a"></script>
+    <script language="JavaScript" type="text/JavaScript" src="http://images.trulia.com/javascript/include/js/site.js?v=20090218b"></script>
     <script language="JavaScript" type="text/JavaScript" src="http://images.trulia.com/javascript/include/js/left_nav.js?v=20070216"></script>
     
   </head>
-  <body>
+  <body class="">
     <!-- START minwidth div hack -->
     <div class="width"><div class="minwidth"><div class="container">
-    <div id="cobrand_custom_header">
-      
-    </div>
-      <div style="display:block;overflow:hidden;">
+      <div id="cobrand_custom_header">
+        
+      </div>
 
-          <!-- START TOP NAV -->
-  <div class="clearfix ">
+      <div style="overflow:hidden;">
+          <noscript>
+<div id="nojavascript"><p>It looks like Javascript is disabled in your browser.
+Trulia requires Javascript to be enabled in order to use our site.<br/>
+<a rel="nofollow" href="/nojavascript.php">Please follow these instructions to enable Javascript.</a></p></div>
+</noscript>
+
+  <!-- START TOP NAV -->
+  <div class="clearfix " style="margin-top:8px;">
             <a href="/" id="logo" class="home_hover">
           <img src="http://images.trulia.com/images/logos/trulia-real-estate-search.png" border="0" alt="Trulia real estate and homes for sale">
         </a>
@@ -46,7 +57,7 @@ var qpn_NAMES = {
         <li id="top_nav_my_trulia_name" class="hidden">Hi <span id="navtab_my_trulia_username"></span>!</li>
 
         <li id="top_nav_my_trulia" class="hidden nav_main my_account_link">
-          <span class="bullet">• &nbsp;</span>
+          <span class="bullet">|&nbsp;</span>
           <a class="my_account_link menu_title" href="">
             My Trulia
           </a>
@@ -64,41 +75,60 @@ var qpn_NAMES = {
         </li>
 
         <li>
-  <span class="bullet">• &nbsp;</span>
+  <span class="bullet">|&nbsp;</span>
   <a rel="nofollow" href="http://support.trulia.com">Help</a>
 </li>
 
         <li id="logout_toggle_link" class="hidden">
-          <span class="bullet">• &nbsp;</span>
+          <span class="bullet">|&nbsp;</span>
           <a rel="nofollow" href="" onclick="do_logout(''); return false;">Log out</a>
         </li>
 
         <li id="login_toggle_link" class="">
-          <span class="bullet">• &nbsp;</span>
+          <span class="bullet">|&nbsp;</span>
           <a rel="nofollow" href="" onclick="show_login(event,'login', false, {x:650,y:35}, ''); return false;">Log in</a>
+        </li>
+
+        <li id="top_nav_pro_link" class="">
+          <span class="bullet">|&nbsp;</span>
+          <a rel="nofollow" class="medium_hilite" href="/truliapro/?src=000022">For Professionals</a>
         </li>
       </ul>
       
       <table border="0" cellspacing="0" cellpadding="0" class="hidden login_box login_table popup_table" id="login_box" onclick="doNothing(event);">
   <tbody><tr>
     <td class="popup_shadow popup_top_left">
-      <div class="popup_background">        
+      <div class="popup_background">
         <div id="login_form_container" class="">
           <div class="new_popup_header clearfix ">
             <div class="fleft" id="login_box_popup_header">Log in</div>
-            <a rel="nofollow" href="" onclick="toggle_menu(event, 'login_box', 0);login_reset();return false;" class="imgsheet popup_closer "></a>
+            <a rel="nofollow" href="" id="login_box_popup_closer" onclick="toggle_menu(event, 'login_box', 0);login_reset();return false;" class="imgsheet popup_closer "></a>
           </div>
-  
+
           <div class="popup_content clearfix">
           <div class="popupsection hidden" id="search_info_section">
   <strong>Your search:</strong><br>
   <span id="search_info_string">.</span>
 </div>
-
-          <div class="popupsection hidden" id="email_alert_form_section">
+<div class="popupsection hidden" id="saved_search_form_section">
+  <label><input type="checkbox" checked="checked" id="saved_search_checkbox"> <strong>Notify me</strong> when new listings match this search</label>
+</div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" class="hidden bottom_two_btns" id="saved_search_buttons">
+  <tbody><tr><td class="left">
+    <a class="popup_cancel_link" href="" rel="nofollow" onclick="toggle_menu(event,'login_box',0);login_reset();return false;">Cancel</a>
+  </td>
+  <td class="right">
+    <a class="imgsheet new_save_btn" href="" rel="nofollow" onclick="toggle_menu(event,'login_box',0);login_reset();subscribe(-1,event,true);return false;"></a>
+  </td></tr>
+</tbody></table>
+<script>add_login_form_config('saved_search',{"header":"Save this search","buttons":"saved_search_buttons","form":"saved_search_form_section"});</script>
+<div class="popupsection hidden medium_hilite" id="email_search_subscribe_status">
+Please select an email alert option to subscribe to.
+</div>
+<div class="popupsection hidden" id="email_alert_form_section">
   <strong>Get email updates</strong> when homes matching your search are:
   <table><tbody><tr><td>
-  <label><input type="checkbox" checked="checked" id="alertPropertiesListed"> <strong>Listed for sale</strong></label> 
+  <label id="email_alert_for_sale"><input type="checkbox" checked="checked" id="alertPropertiesListed"> <strong>Listed for sale</strong></label> 
   <label><input type="checkbox" checked="checked" id="alertPropertiesSold"> <strong>Sold</strong></label>
   </td><td class="padl10">
   <select id="alertPropertiesFrequency" class="fright">
@@ -107,36 +137,30 @@ var qpn_NAMES = {
   </select>
   </td></tr></tbody></table>
 </div>
-<div class="popupsection hidden medium_hilite" id="email_search_subscribe_status">
-Please select an email alert option to subscribe to.
+<div class="popupsection hidden" id="email_alert_open_home_section">
+  <strong>Get Open House email updates</strong> for homes matching your search:
+  <table><tbody><tr><td>
+  <label><input type="checkbox" checked="checked" id="alertOpenNextDay"> <strong>Open Houses for the next day</strong> (sent daily)</label>
+  <br>
+  <label><input type="checkbox" checked="checked" id="alertOpenWeekend"> <strong>Open Houses for the coming weekend</strong> (sent first thing Friday, Saturday, &amp; Sunday mornings)</label>
+  </td></tr></tbody></table>
 </div>
-<table border="0" cellspacing="0" cellpadding="0" align="center" class="padt10 hidden" id="email_alert_buttons">
-  <tbody><tr><td>
+<table border="0" cellspacing="0" cellpadding="0" align="center" class="hidden bottom_two_btns" id="email_alert_buttons">
+  <tbody><tr><td class="left">
     <a class="popup_cancel_link" href="" rel="nofollow" onclick="toggle_menu(event,'login_box',0);login_reset();return false;">Cancel</a>
   </td>
-  <td>
+  <td class="right">
     <a class="imgsheet new_save_btn" href="" rel="nofollow" onclick="toggle_menu(event,'login_box',0);login_reset();email_search_subscribe(true);return false;"></a>
   </td></tr>
 </tbody></table>
-
-          <div class="popupsection hidden" id="saved_search_form_section">
-  <label><input type="checkbox" checked="checked" id="saved_search_checkbox"> <strong>Notify me</strong> when new listings match this search</label>
-</div>
-<table border="0" cellspacing="0" cellpadding="0" align="center" class="padt10 hidden" id="saved_search_buttons">
-  <tbody><tr><td>
-    <a class="popup_cancel_link" href="" rel="nofollow" onclick="toggle_menu(event,'login_box',0);login_reset();return false;">Cancel</a>
-  </td>
-  <td>
-    <a class="imgsheet new_save_btn" href="" rel="nofollow" onclick="toggle_menu(event,'login_box',0);login_reset();subscribe(-1,event,true);return false;"></a>
-  </td></tr>
-</tbody></table>
+<script>add_login_form_config('email_alert',{"header":"Get email updates","buttons":"email_alert_buttons","form":"email_alert_form_section","form2":"email_alert_open_home_section"});</script>
 
               <form id="register_form" class="login_box clearfix " name="register_form" action="/signup/" method="post" onsubmit="return submit_register_form(this, '', false);">  
       <input type="hidden" name="return_url" value="">
 
       <div class="login_form_intro clearfix">
         <strong>Create a FREE account</strong> to save searches and track homes (it only takes a minute). Already have an account? 
-        <a href="/login/" onclick="toggle_login_form('', '', {'return_url':''});return false;">Log in</a>.
+        <a href="/login/" onclick="toggle_login_form('', '', {'return_url':''});return false;"><strong>Log in</strong></a>.
       </div>
 
       <div class="login_form_line clearfix">
@@ -182,61 +206,68 @@ Please select an email alert option to subscribe to.
       </div>
 
       <div class="login_form_line clearfix">
-        <label>Which describes you best?</label>
-        <select name="user_status" id="user_status">
+        <label>I am a ...</label>
+        <select name="user_status" id="user_status" onchange="if(this.value=='Real Estate Pro'){unhide('register_form_pro_status', 'block');}else{hide('register_form_pro_status');}">
           <option value="">-- Please select --</option>
-          <option id="us_buyer" value="radio_buyer">Home buyer</option>
-          <option id="us_seller" value="radio_seller">Home seller</option>
-          <option id="us_buyer_seller" value="radio_buyer_seller">Both buyer and seller</option>
-          <option id="us_pro" value="radio_pro">Real estate professional</option>
-          <option id="us_other" value="radio_other">Other/Just looking</option>
+<option value="Home Buyer">Home Buyer</option>
+<option value="Home Seller">Home Seller</option>
+<option value="Both Buyer And Seller">Both Buyer and Seller</option>
+<option value="Real Estate Pro">Real Estate Pro</option>
+<option value="Other">Other/Just Looking</option>
+
         </select>
       </div>
 
-          <div class="login_form_line clearfix padt5">
+      <div class="login_form_line clearfix" id="register_form_pro_status" style="display: none;">
+        <label>Pro type:</label>
+        <select name="pro_status" id="pro_status">
+          <option value="">-- Please select --</option>
+<option value="Agent">Agent</option>
+<option value="Broker">Broker</option>
+<option value="Mortgage Broker Or Lender">Mortgage Broker or Lender</option>
+<option value="Appraiser">Appraiser</option>
+<option value="Home Inspector">Home Inspector</option>
+<option value="Contractor">Contractor</option>
+<option value="Builder">Builder/Developer</option>
+<option value="Stager">Stager</option>
+<option value="Property Manager">Property Manager</option>
+<option value="Other Pro">Other Pro</option>
+
+        </select>
+      </div>
+
+          <div class="login_form_line clearfix mart10">
       <input class="checkbox" id="contact_me_field" type="checkbox" name="contact_me_field" checked="checked">
       <label class="for_checkbox" for="contact_me_field"><strong>Notify me</strong> about news, price trends, and tips</label>
     </div>
+
       <!-- <div class="light_grey_container clearfix">
         <input class="checkbox" id="contact_me_field" type="checkbox" name="contact_me" checked="checked" />
         <label class="for_checkbox" for="contact_me_field"><strong>Yes!</strong> Sign me up for Trulia's House Hunting Tips email newsletter</label>
       </div> -->
       
-      <div class="clearfix padt10">
-        <span id="reg_box_msg_txt" class="reg_box_msg_txt"></span> &nbsp; 
+      <div class="clearfix">
+        <span id="reg_box_msg_txt" class="reg_box_msg_txt"></span> &nbsp;
         <a href="/login/" id="login_prompt" class="login_prompt hidden clear" onclick="toggle_login_form('', '', {'return_url':''});return false;">Log in</a>
-        <br>
-        
-        <div class="bottom_two_btns">
-          <a class="fright popup_cancel_link " href="" rel="nofollow" onclick="toggle_menu(event, 'login_box', 0);login_reset();return false;">Cancel</a>
-        </div>
-        
-        <div class="bottom_two_btns">
+        <table class="bottom_two_btns">
+        <tbody><tr><td class="left">
+          <a class="popup_cancel_link " href="" rel="nofollow" onclick="toggle_menu(event, 'login_box', 0);login_reset();return false;">Cancel</a>
+        </td><td class="right">
           <a class="imgsheet create_account_btn" href="/signup/" id="reg_btn" rel="nofollow" onclick="submit_register_form('register_form', '', false); return false;"></a>
-        </div>
+        </td></tr>
+        </tbody></table>
       </div>
             
-      <!-- <div class="bottom clearfix">
-
-        <div class="bottom_btns clearfix">
-          <a rel="nofollow" href="" class="popup_cancel_link "
-            onclick="toggle_menu(event, 'login_box', 0);login_reset();return false;">Cancel</a>
-          
-          <a rel="nofollow" href="/signup/" id="reg_btn" class="imgsheet create_account_btn" 
-            onclick="submit_register_form('register_form', '', false); return false;"></a>
-        </div>
-      </div> -->
-
       <input type="submit" name="submit_btn" value="Create Account" class="transparent_btn">  
     </form>
     <form id="login_form" class="login_box clearfix hidden" name="login_form" action="/login/" method="post" onsubmit="return submit_login_form(this, '', false);">
       <input type="hidden" id="lpg" name="lpg" value="">
       <input type="hidden" name="rdtg" value="">
       <input type="hidden" name="return_url" value="">
-      
+
       <div class="login_form_intro clearfix">
-        <strong>Log in</strong> to save and track homes! Don't have an account? 
-        <a href="/signup/" onclick="toggle_login_form('', '', {'return_url':''});return false;">Sign up</a>
+        <span id="login_copy"><strong>Log in</strong> to save and track homes!</span> No account yet?
+        <a href="/signup/" onclick="toggle_login_form('', '', {'return_url':''});return false;"><strong>Sign up</strong></a>.
       </div>
 
       <div class="clearfix padb5 bold" id="enter_password_prompt" style="display:none">
@@ -258,30 +289,17 @@ Please select an email alert option to subscribe to.
         </div>
       </div>
 
-      <div class="clearfix padt10">
+      <div class="clearfix">
         <span id="login_box_msg_txt" class="login_box_msg_txt"></span> &nbsp;
         <a href="/signup/" id="register_prompt" class="hidden" onclick="toggle_login_form('', '', {'return_url':''});return false;">Sign up</a>
-        <br>
-        
-        <div class="bottom_two_btns">
-          <a class="fright popup_cancel_link " href="" id="login_cancel" rel="nofollow" onclick="toggle_menu(event, 'login_box', 0);login_reset();return false;">Cancel</a>
-        </div>
-        
-        <div class="bottom_two_btns">
+        <table class="bottom_two_btns">
+        <tbody><tr><td class="left">
+          <a class="popup_cancel_link " href="" id="login_cancel" rel="nofollow" onclick="toggle_menu(event, 'login_box', 0);login_reset();return false;">Cancel</a>
+        </td><td class="right">
           <a class="imgsheet login_btn" href="/login/" id="login_btn" rel="nofollow" onclick="submit_login_form('login_form', '', false); return false;"></a>
-        </div>
+        </td></tr>
+        </tbody></table>
       </div>
-      
-      <!-- <div class="bottom clearfix">
-
-        <div class="bottom_btns clearfix">          
-          <div id="login_btn" class="fake_btn_dark_lolite" onclick="submit_login_form('login_form', '', false);">
-            <a rel="nofollow" href="" onclick="return false;"><div>Log In</div></a>
-          </div> 
-          
-          <a rel="nofollow" href="" onclick="toggle_menu(event, 'login_box', 0);login_reset();return false;" class="fake_btn_off "><div>Cancel</div></a>
-        </div>
-      </div>   --> 
 
       <input type="submit" name="submit_btn" value="Log In" class="transparent_btn">
     </form>
@@ -295,37 +313,24 @@ Please select an email alert option to subscribe to.
         <input id="forgot_password_email_field" size="25" type="text" name="email" value="" onfocus="javascript:clear_element('password_box_msg_txt');">
       </div>
 
-      <div class="clearfix padt10">
+      <div class="clearfix">
         <span id="password_box_msg_txt" class="password_box_msg_txt"></span>
-        <br>
-        
-        <div class="bottom_two_btns">
-          <a class="fright popup_cancel_link " href="" rel="nofollow" onclick="toggle_menu(event, 'login_box', 0);login_reset();return false;">Cancel</a>
-            
-          <a class="fright popup_cancel_link hidden" href="/login/" rel="nofollow" onclick="toggle_login_form('login_page','', {'return_url':''});login_reset();return false;">Cancel</a>
-        </div>
-        
-        <div class="bottom_two_btns">
+        <table class="bottom_two_btns">
+        <tbody><tr><td class="left">
+          <a class="popup_cancel_link " href="" rel="nofollow" onclick="toggle_menu(event, 'login_box', 0);login_reset();return false;">Cancel</a>
+          <a class="popup_cancel_link hidden" href="/login/" rel="nofollow" onclick="toggle_login_form('login_page','', {'return_url':''});login_reset();return false;">Cancel</a>
+        </td><td class="right">
           <a class="imgsheet pwd_btn" href="/forgot_password/" id="pwd_btn" rel="nofollow" onclick="do_email_password('password_box_msg_txt', ''); return false;"></a>
-        </div>
+        </td></tr>
+        </tbody></table>
       </div>
-      
-      <!-- <div class="bottom clearfix">
-        <div class="bottom_btns clearfix">
-          <a rel="nofollow" href="" class="popup_cancel_link "
-            onclick="toggle_menu(event, 'login_box', 0);login_reset();return false;">Cancel</a>
-            
-          <a rel="nofollow" href="/login/" class="popup_cancel_link hidden"
-            onclick="toggle_login_form('login_page','', {'return_url':''});login_reset();return false;">Cancel</a>
-          
-          <a rel="nofollow" href="/forgot_password/" id="pwd_btn" class="imgsheet pwd_btn" 
-            onclick="do_email_password('password_box_msg_txt', ''); return false;"></a>
-
-        </div>    
-      </div> -->
 
       <input type="submit" name="submit_btn" value="Send me a new password" class="transparent_btn">
     </form>
+
+                  <div class="privacy hidden" id="signup_privacy">
+          Worried about spam? See our <a href="/privacy" rel="nofollow" target="_blank">privacy policy</a> for more info.
+        </div>
 
           </div>
         </div>
@@ -333,7 +338,7 @@ Please select an email alert option to subscribe to.
     </td>
     <td class="popup_shadow popup_top_right">&nbsp;</td>
   </tr>
-  
+
   <tr>
     <td class="popup_shadow popup_bottom_left">&nbsp;</td>
     <td class="popup_shadow popup_bottom_right">&nbsp;</td>
@@ -341,42 +346,78 @@ Please select an email alert option to subscribe to.
 </tbody></table>
 
       
+
       <ul id="top_nav_bar" class="clearfix top_nav_imgsheet">
         <!-- START Top nav main nav -->
         <li id="nav_home" class="nav_main top_nav_imgsheet nav_main_first">
-  <a class="nav_main" href="/TX/Austin/">Find Homes</a>
+  <a onclick="o_track_ql_click('UniversalNav|FindHomes_TopLink');" class="nav_main" href="/NY/Hicksville/11801/">Find Homes</a>
   <ul class="">
-    <li id="srp_city_link" class="">
-  <a class="sub_nav" href="/TX/Austin/">
-    Austin <span class="sub_nav_link_page_name">Homes for Sale</span>
+    <li id="srp_zip_link" class="">
+  <a onclick="o_track_ql_click('UniversalNav|FindHomes_ZipHomes');" class="sub_nav" href="/NY/Hicksville/11801/">
+    11801 <span class="sub_nav_link_page_name">Homes for Sale</span>
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+<li id="srp_zip_open_home_link" class="">
+  <a onclick="o_track_ql_click('UniversalNav|FindHomes_ZipOpenHouses');" class="sub_nav" href="/for_sale/11801_zip/p_oh/">
+    11801 <span class="sub_nav_link_page_name">Open Houses</span>
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+<li id="srp_zip_foreclosure_link" class="">
+  <a onclick="o_track_ql_click('UniversalNav|FindHomes_ZipForeclosures');" class="sub_nav" href="/for_sale/11801_zip/foreclosure_lt/">
+    11801 <span class="sub_nav_link_page_name">Foreclosures</span>
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+<li id="srp_zip_new_home_link" class="">
+  <a onclick="o_track_ql_click('UniversalNav|FindHomes_ZipNewHomes');" class="sub_nav" href="/for_sale/11801_zip/new_homes_lt/">
+    11801 <span class="sub_nav_link_page_name">New Homes</span>
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+<li id="srp_zip_recently_sold_link" class="">
+  <a onclick="o_track_ql_click('UniversalNav|FindHomes_ZipSold');" class="sub_nav" href="/sold/11801_zip/">
+    11801 <span class="sub_nav_link_page_name">Recently Sold Homes</span>
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+<li id="srp_city_link" class="soft_top_border">
+  <a onclick="o_track_ql_click('UniversalNav|FindHomes_CityHomes');" class="sub_nav" href="/NY/Hicksville/">
+    Hicksville <span class="sub_nav_link_page_name">Homes for Sale</span>
   </a>
   <sup class="f9 dark_hilite_bold"></sup>
   <span class="disabled_txt"></span>
 </li>
 <li id="srp_city_new_home_link" class="">
-  <a class="sub_nav" href="/for_sale/Austin,TX/new_homes_lt/">
-    Austin <span class="sub_nav_link_page_name">New Homes</span>
+  <a onclick="o_track_ql_click('UniversalNav|FindHomes_CityNewHomes');" class="sub_nav" href="/for_sale/Hicksville,NY/new_homes_lt/">
+    Hicksville <span class="sub_nav_link_page_name">New Homes</span>
   </a>
   <sup class="f9 dark_hilite_bold"></sup>
   <span class="disabled_txt"></span>
 </li>
 <li id="srp_city_foreclosure_link" class="">
-  <a class="sub_nav" href="/for_sale/Austin,TX/foreclosure_lt/">
-    Austin <span class="sub_nav_link_page_name">Foreclosures</span>
+  <a onclick="o_track_ql_click('UniversalNav|FindHomes_CityForeclosures');" class="sub_nav" href="/for_sale/Hicksville,NY/foreclosure_lt/">
+    Hicksville <span class="sub_nav_link_page_name">Foreclosures</span>
   </a>
   <sup class="f9 dark_hilite_bold"></sup>
   <span class="disabled_txt"></span>
 </li>
 <li id="srp_city_open_home_link" class="">
-  <a class="sub_nav" href="/for_sale/Austin,TX/p_oh/">
-    Austin <span class="sub_nav_link_page_name">Open Houses</span>
+  <a onclick="o_track_ql_click('UniversalNav|FindHomes_CityOpenHouses');" class="sub_nav" href="/for_sale/Hicksville,NY/p_oh/">
+    Hicksville <span class="sub_nav_link_page_name">Open Houses</span>
   </a>
   <sup class="f9 dark_hilite_bold"></sup>
   <span class="disabled_txt"></span>
 </li>
 <li id="srp_city_recently_sold_link" class="">
-  <a class="sub_nav" href="/sold/Austin,TX/">
-    Austin <span class="sub_nav_link_page_name">Recently Sold Homes</span>
+  <a onclick="o_track_ql_click('UniversalNav|FindHomes_CitySold');" class="sub_nav" href="/sold/Hicksville,NY/">
+    Hicksville <span class="sub_nav_link_page_name">Recently Sold Homes</span>
   </a>
   <sup class="f9 dark_hilite_bold"></sup>
   <span class="disabled_txt"></span>
@@ -399,39 +440,67 @@ Please select an email alert option to subscribe to.
   </ul>
 </li>
 <li id="nav_guide" class="nav_main top_nav_imgsheet ">
-  <a class="nav_main" href="/real_estate/Austin-Texas/">Stats &amp; Trends</a>
+  <a onclick="o_track_ql_click('UniversalNav|Stats_TopLink');" class="nav_main" href="/real_estate/Hicksville-New_York/">Stats &amp; Trends</a>
   <ul class="">
-    <li id="city_guide_link" class="">
-  <a class="sub_nav" href="/real_estate/Austin-Texas/">
-    Austin <span class="sub_nav_link_page_name">Real Estate Overview</span>
+    <li id="zip_guide_link" class="">
+  <a onclick="o_track_ql_click('UniversalNav|Stats_ZipOverview');" class="sub_nav" href="/real_estate/11801-Hicksville/">
+    11801 <span class="sub_nav_link_page_name">Real Estate Overview</span>
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+<li id="zip_guide_market_trends_link" class="">
+  <a onclick="o_track_ql_click('UniversalNav|Stats_ZipMarketTrends');" class="sub_nav" href="/real_estate/11801-Hicksville/market-trends/">
+    11801 <span class="sub_nav_link_page_name">Market Trends</span>
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+<li id="zip_guide_school_section_link" class="">
+  <a onclick="o_track_ql_click('UniversalNav|Stats_ZipSchools');" class="sub_nav" href="/real_estate/Hicksville-New_York/schools/">
+    11801 <span class="sub_nav_link_page_name">Schools</span>
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+<li id="zip_guide_community_info_link" class="">
+  <a onclick="o_track_ql_click('UniversalNav|Stats_ZipCommunityInfo');" class="sub_nav" href="/real_estate/Hicksville-New_York/community-info/">
+    11801 <span class="sub_nav_link_page_name">Community Info</span>
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+<li id="city_guide_link" class="soft_top_border">
+  <a onclick="o_track_ql_click('UniversalNav|Stats_CityOverview');" class="sub_nav" href="/real_estate/Hicksville-New_York/">
+    Hicksville <span class="sub_nav_link_page_name">Real Estate Overview</span>
   </a>
   <sup class="f9 dark_hilite_bold"></sup>
   <span class="disabled_txt"></span>
 </li>
 <li id="market_trends_link" class="">
-  <a class="sub_nav" href="/real_estate/Austin-Texas/market-trends/">
-    Austin <span class="sub_nav_link_page_name">Market Trends</span>
-  </a>
-  <sup class="f9 dark_hilite_bold"></sup>
-  <span class="disabled_txt"></span>
-</li>
-<li id="heatmap_link" class="">
-  <a class="sub_nav" href="/home_prices/Texas/Austin-heat_map/">
-    Austin <span class="sub_nav_link_page_name">Home Prices Map</span>
+  <a onclick="o_track_ql_click('UniversalNav|Stats_CityMarketTrends');" class="sub_nav" href="/real_estate/Hicksville-New_York/market-trends/">
+    Hicksville <span class="sub_nav_link_page_name">Market Trends</span>
   </a>
   <sup class="f9 dark_hilite_bold"></sup>
   <span class="disabled_txt"></span>
 </li>
 <li id="city_guide_school_section_link" class="">
-  <a class="sub_nav" href="/real_estate/Austin-Texas/schools/">
-    Austin <span class="sub_nav_link_page_name">Schools</span>
+  <a onclick="o_track_ql_click('UniversalNav|Stats_CitySchools');" class="sub_nav" href="/real_estate/Hicksville-New_York/schools/">
+    Hicksville <span class="sub_nav_link_page_name">Schools</span>
   </a>
   <sup class="f9 dark_hilite_bold"></sup>
   <span class="disabled_txt"></span>
 </li>
 <li id="city_guide_community_info_link" class="">
-  <a class="sub_nav" href="/real_estate/Austin-Texas/community-info/">
-    Austin <span class="sub_nav_link_page_name">Community Info</span>
+  <a onclick="o_track_ql_click('UniversalNav|Stats_CityCommunityInfo');" class="sub_nav" href="/real_estate/Hicksville-New_York/community-info/">
+    Hicksville <span class="sub_nav_link_page_name">Community Info</span>
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+<li id="foreclosure_center_link" class="soft_top_border">
+  <a onclick="o_track_ql_click('UniversalNav|Stats_ForeclosureCenter');" rel="nofollow" class="sub_nav" href="/foreclosure/">
+    <span class="sub_nav_link_page_name">Foreclosure Center</span>
   </a>
   <sup class="f9 dark_hilite_bold"></sup>
   <span class="disabled_txt"></span>
@@ -440,11 +509,18 @@ Please select an email alert option to subscribe to.
   </ul>
 </li>
 <li id="nav_voices" class="nav_main top_nav_imgsheet ">
-  <a class="nav_main" href="/voices/">Advice &amp; Opinions</a>
+  <a onclick="o_track_ql_click('UniversalNav|AdviceAndOpinions');" class="nav_main" href="/voices/">Advice &amp; Opinions</a>
   <ul class="">
     <li id="location_voices_link" class="">
-  <a onclick="o_track_ql_click('UniversalNav|LocationQAndA');" class="sub_nav" href="/voices/Austin---4668--">
-    Austin <span class="sub_nav_link_page_name"> Q&amp;A</span>
+  <a onclick="o_track_ql_click('UniversalNav|LocationQAndA');" class="sub_nav" href="/voices/11801---44419">
+    11801 <span class="sub_nav_link_page_name"> Q&amp;A</span>
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+<li id="city_voices_link" class="">
+  <a onclick="o_track_ql_click('UniversalNav|CityQAndA');" class="sub_nav" href="/voices/Hicksville---18208">
+    Hicksville <span class="sub_nav_link_page_name"> Q&amp;A</span>
   </a>
   <sup class="f9 dark_hilite_bold"></sup>
   <span class="disabled_txt"></span>
@@ -457,50 +533,36 @@ Please select an email alert option to subscribe to.
   <span class="disabled_txt"></span>
 </li>
 <li id="qa_home_link" class="">
-  <a onclick="o_track_ql_click('UniversalNav|QAndAHome');" rel="nofollow" class="sub_nav" href="/voices/-QandA-10000---">
+  <a onclick="o_track_ql_click('UniversalNav|QAndAHome');" rel="nofollow" class="sub_nav" href="/voices/-QandA-10000-">
     Q&amp;A <span class="sub_nav_link_page_name">Home</span>
-  </a>
-  <sup class="f9 dark_hilite_bold"></sup>
-  <span class="disabled_txt"></span>
-</li>
-<li id="agent_talk_link" class="">
-  <a onclick="o_track_ql_click('UniversalNav|Agent2Agent');" rel="nofollow" class="sub_nav" href="/voices/-Agent2Agent-42---">
-    Agent2Agent
-  </a>
-  <sup class="f9 dark_hilite_bold"></sup>
-  <span class="disabled_txt"></span>
-</li>
-<li id="using_trulia_link" class="">
-  <a onclick="o_track_ql_click('UniversalNav|UsingTrulia');" rel="nofollow" class="sub_nav" href="/voices/-Using_Trulia-36---">
-    Using Trulia
-  </a>
-  <sup class="f9 dark_hilite_bold"></sup>
-  <span class="disabled_txt"></span>
-</li>
-<li id="ask_question_link" class="">
-  <a onclick="o_track_ql_click('UniversalNav|AskQuestion');" rel="nofollow" class="sub_nav" href="/ask/">
-    Ask a Question
   </a>
   <sup class="f9 dark_hilite_bold"></sup>
   <span class="disabled_txt"></span>
 </li>
 <li id="blog_home_link" class="">
   <a onclick="o_track_ql_click('UniversalNav|Blogs');" rel="nofollow" class="sub_nav" href="/voices/blogs/">
-    Blogs
+    Blogs <span class="sub_nav_link_page_name">Home</span>
   </a>
   <sup class="f9 dark_hilite_bold"></sup>
   <span class="disabled_txt"></span>
 </li>
-<li id="post_blog_link" class="">
-  <a onclick="o_track_ql_click('UniversalNav|WriteBlog');" rel="nofollow" class="sub_nav" href="/blog/post/">
-    Write a Blog Post
+<li id="agent_talk_link" class="">
+  <a onclick="o_track_ql_click('UniversalNav|Agent2Agent');" rel="nofollow" class="sub_nav" href="/voices/-Agent2Agent-42-">
+    Agent2Agent
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+<li id="using_trulia_link" class="">
+  <a onclick="o_track_ql_click('UniversalNav|UsingTrulia');" rel="nofollow" class="sub_nav" href="/voices/-Using_Trulia-36-">
+    Using Trulia
   </a>
   <sup class="f9 dark_hilite_bold"></sup>
   <span class="disabled_txt"></span>
 </li>
 <li id="nav_view_profile_link" class="hidden soft_top_border">
   <a onclick="o_track_ql_click('UniversalNav|ViewMyProfile');" rel="nofollow" class="sub_nav" href="/account/settings/">
-    View my Profile
+    My Profile
   </a>
   <sup class="f9 dark_hilite_bold"></sup>
   <span class="disabled_txt"></span>
@@ -508,6 +570,20 @@ Please select an email alert option to subscribe to.
 <li id="nav_view_QnA_link" class="hidden ">
   <a onclick="o_track_ql_click('UniversalNav|MyQAndA');" rel="nofollow" class="sub_nav" href="/account/qanda/">
     My Questions &amp; Answers
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+<li id="ask_question_link" class="soft_top_border">
+  <a onclick="o_track_ql_click('UniversalNav|AskQuestion');" rel="nofollow" class="sub_nav" href="/ask/">
+    Ask a Question
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+<li id="post_blog_link" class="">
+  <a onclick="o_track_ql_click('UniversalNav|WriteBlog');" rel="nofollow" class="sub_nav" href="/blog/post/">
+    Write a Blog Post
   </a>
   <sup class="f9 dark_hilite_bold"></sup>
   <span class="disabled_txt"></span>
@@ -520,7 +596,7 @@ Please select an email alert option to subscribe to.
 
         <!-- START Top nav search -->
         <li id="nav_search" class="nav_main nav_main_last top_nav_imgsheet">
-          <form method="get" action="/validate.php" name="navform" id="navform" class="clearfix">
+          <form method="get" action="/validate.php" name="navform" id="navform" class="clearfix" onsubmit="submit_topnav_search_box('t_navsearch',''); return false;">
             <table border="0" cellspacing="0" cellpadding="0" align="right">
               <tbody><tr>
                 <td>
@@ -532,8 +608,9 @@ Please select an email alert option to subscribe to.
                 </td>
                 
                 <td>
-                  <a id="t_navsearchbtnlink" class="imgsheet" onclick="submit_topnav_search_box('t_navsearch'); return false;" href="" rel="nofollow"></a>
+                  <a id="t_navsearchbtnlink" class="imgsheet" onclick="submit_topnav_search_box('t_navsearch',''); return false;" href="" rel="nofollow"></a>
                   <input id="t_navsearchbtn" class="transparent_btn" type="submit" name="submit_btn" value="SEARCH" onclick="return validate_sb();">
+                  <input id="topnav_extra" type="hidden" name="topnav_extra" value="">
                 </td>
               </tr>
             </tbody></table>
@@ -607,20 +684,89 @@ Please select an email alert option to subscribe to.
     <span class="breadcrumb"><a class="breadcrumb" href="/">Home</a>&nbsp;&gt;&nbsp;<span>Privacy&nbsp;Policy</span></span>    
 
   </div>
-  <div class="email_friend" style="float:right;width:130px;margin-right:5px;vertical-align:top;">
-  <a rel="nofollow" class="header_link" href="javascript:{};" onclick="build_email_page_url(event,'/privacy/','Privacy Policy')">Send to a friend</a>
+  <div class="email_friend" style="float:right;width:50px;margin-right:5px;vertical-align:top;">
+  <a class="share_this_page_link" href="" id="share_page_link" onclick="show_pos_menu(event, 'share_page_link_popup');o_track_ql_click('ShareModule|ShareLink');return false;" rel="nofollow" title="click here to share this page">Share</a>
+
+<table border="0" cellspacing="0" cellpadding="0" class="hidden popup_table" id="share_page_link_popup" onclick="doNothing(event);">
+  <tbody><tr>
+    <td class="popup_shadow popup_top_left">
+      <div class="popup_background">
+        <div class="new_popup_header clearfix ">
+          <div class="fleft" id="share_page_link_popup_popup_header">Share this page</div>
+          <a rel="nofollow" href="" id="share_page_link_popup_popup_closer" onclick="toggle_menu(event, 'share_page_link_popup', 0); return false;" class="popup_closer "></a>
+        </div>
+        
+        <div class="popup_content clearfix">
+          <div class="bold">Email:</div>
+
+<div class="email_this_page_links clearfix">
+  <a class="imgsheet action share" href="" onclick="return share_this_page('send_trulia', '', event);" rel="nofollow">Send this page to a friend</a>
+</div>
+
+<div class="bold">Share on:</div>
+
+<div class="share_this_page_links fleft">      
+  <!-- <a class="imgsheet share_this_page_blogger_link" href="http://www.blogger.com/blog_this.pyra?u=SHARE_THIS_URL" 
+      onclick="return share_this_page('blogger');" target="_blank" rel="nofollow">Blogger</a> -->
+    
+  <a class="imgsheet share_this_page_delicious_link" href="http://del.icio.us/post?url=http://www.trulia.com/privacy/" onclick="return share_this_page('delicious');" target="_blank" rel="nofollow">de.icio.us</a>
+    
+  <a class="imgsheet share_this_page_digg_link" href="http://digg.com/submit?phase=2&amp;url=http://www.trulia.com/privacy/" onclick="return share_this_page('digg');" target="_blank" rel="nofollow">Digg</a>
+    
+  <a class="imgsheet share_this_page_facebook_link" href="http://www.facebook.com/sharer.php?u=http://www.trulia.com/privacy/" onclick="return share_this_page('facebook');" target="_blank" rel="nofollow">Facebook</a>
+
+  <a class="imgsheet share_this_page_friendfeed_link" href="http://friendfeed.com/?url=http://www.trulia.com/privacy/" onclick="return share_this_page('friendfeed');" target="_blank" rel="nofollow">FriendFeed</a>
+  
+  <!-- <a class="imgsheet share_this_page_furl_link" href="http://www.furl.net/storeIt.jsp?&u=SHARE_THIS_URL" 
+    onclick="return share_this_page('furl');" target="_blank" rel="nofollow">Furl</a> -->
+
+  <a class="imgsheet share_this_page_google_link" href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http://www.trulia.com/privacy/" onclick="return share_this_page('google_bkmk');" target="_blank" rel="nofollow">Google Bookmarks</a>
+</div>
+  
+<div class="share_this_page_links fright">    
+  <a class="imgsheet share_this_page_myspace_link" href="http://www.myspace.com/index.cfm?fuseaction=postto&amp;u=http://www.trulia.com/privacy/" onclick="return share_this_page('myspace');" target="_blank" rel="nofollow">MySpace</a>
+
+  <!-- <a class="imgsheet share_this_page_reddit_link" href="http://reddit.com/submit?url=SHARE_THIS_URL" 
+    onclick="return share_this_page('reddit');" target="_blank" rel="nofollow">Reddit</a> -->
+
+  <a class="imgsheet share_this_page_stumble_link" href="http://www.stumbleupon.com/submit?url=http://www.trulia.com/privacy/" onclick="return share_this_page('stumble');" target="_blank" rel="nofollow">StumbleUpon</a>
+
+  <a class="imgsheet share_this_page_technorati_link" href="http://technorati.com/faves?add=http://www.trulia.com/privacy/" onclick="return share_this_page('technorati');" target="_blank" rel="nofollow">Technorati</a>
+
+  <a class="imgsheet share_this_page_twitter_link" href="http://twitter.com/home?status=http://www.trulia.com/privacy/" onclick="return share_this_page('twitter');" target="_blank" rel="nofollow">Twitter</a>
+    
+  <!-- <a class="imgsheet share_this_page_windows_live_link" href="https://favorites.live.com/quickadd.aspx?marklet=1&mkt=en-us&url=SHARE_THIS_URL" 
+    onclick="return share_this_page('windows_live');" target="_blank" rel="nofollow">Windows Live</a> -->
+    
+  <a class="imgsheet share_this_page_yahoo_link" href="http://us.bookmarks.yahoo.com/admin/savebm?adminAction=Add&amp;selectall=on&amp;url=http://www.trulia.com/privacy/" onclick="return share_this_page('yahoo_bkmk');" target="_blank" rel="nofollow">Yahoo! Bookmarks</a>
+</div>
+  
+  <!--  
+  <a href="http://ma.gnolia.com/bookmarklet/add?url=SHARE_THIS_URL&title=" id="akst_magnolia">ma.gnolia</a>
+  <a href="http://tailrank.com/share/?link_href=SHARE_THIS_URL&title=" id="akst_tailrank">Tailrank</a>
+  -->
+
+
+        </div>
+        
+      </div>
+    </td>
+    <td class="popup_shadow popup_top_right">&nbsp;</td>
+  </tr>
+  
+  <tr>
+    <td class="popup_shadow popup_bottom_left">&nbsp;</td>
+    <td class="popup_shadow popup_bottom_right">&nbsp;</td>
+  </tr>
+</tbody></table>
+
+
 </div>
 
 
 </div>
-
-        <div class="" style="clear:both;">
-          <table cellpadding="0" cellspacing="0" border="0" width="100%">
-            <tbody>
-              <tr>
-                <td align="left" valign="top">
-                  <div style="vertical-align:top;">
-                    <p>
+        <div class="clearfix">
+          <p>
   </p><center>
     <strong>
       <big>TRULIA PRIVACY POLICY</big>
@@ -694,19 +840,15 @@ Please select an email alert option to subscribe to.
   We reserve the right to change this policy should we deem it advisable to do so. If we make significant changes that affect the use or disclosure of your personal information, we will make reasonable efforts to notify you of the changes and to give you the opportunity to cancel your registration.             
 </p>
 
-                  </div>
-                </td>
-              </tr>
-            </tbody>
-          </table>
         </div>
+ 
         
   <div id="footer" class="mart40" style="clear:both;">
 
     <div id="ftr1">
       <h2>Company Info</h2>
       <ul>
-        <li><a href="/about/" target="_self">About us</a></li>
+        <li><a href="/about/" target="_self">About Us</a></li>
         <li><a href="http://info.trulia.com/" rel="nofollow">News Room</a></li>
         <li><a href="http://www.truliablog.com" rel="nofollow">Trulia Blog</a></li>
         <li><a href="http://support.trulia.com" rel="nofollow">Help Center</a></li>
@@ -738,7 +880,7 @@ Please select an email alert option to subscribe to.
         <li><a href="/publishers/partner/">Trulia Partner Program</a></li>
         <li><a href="/network/">Trulia Ad Network</a></li>
         <li><a href="http://developer.trulia.com/" rel="nofollow">Trulia API</a></li>
-        <li><a href="http://support.trulia.com/ics/support/default.asp?deptID=5412&amp;task=knowledge&amp;questionID=232" rel="nofollow" target="_self"><span class="medium_hilite bold">Contact Us</span></a></li>
+        <li><a href="/contact/" rel="nofollow" target="_self"><span class="medium_hilite bold">Contact Us</span></a></li>
       </ul><br>
       </div>
 
@@ -748,6 +890,7 @@ Please select an email alert option to subscribe to.
         <li><a href="/truliapro/" rel="nofollow">Trulia Pro</a></li>
         <li><a href="/voices/about/" rel="nofollow">Trulia Voices Community</a></li>
         <li><a href="/agents/brand_your_listings/" rel="nofollow" target="_self">Brand Your Listings</a></li>
+        <li><a href="/agents/client_listing_report/" rel="nofollow">Client Listing Report</a></li>
         <li><a href="/tools/" rel="nofollow">Real Estate Tools &amp; Widgets</a></li>
         <li><a href="/submit_listings/"><span class="medium_hilite bold">Submit Your Listings</span></a></li>
       </ul>
@@ -809,24 +952,35 @@ Please select an email alert option to subscribe to.
        <a href="/truliapro/terms/" rel="nofollow" target="_self">Trulia Pro Terms of Use</a> &nbsp;   |  &nbsp;
        <a href="/privacy/" rel="nofollow" target="_self">Privacy Policy</a> &nbsp;   |  &nbsp;
        <a href="/guidelines/" rel="nofollow" target="_self">Community Guidelines</a><br>
-      Copyright © 2008 Trulia, Inc. All rights reserved.  &nbsp;   |  &nbsp; <img src="http://images.trulia.com/images/fheo_grey.gif" width="17" height="14"> <a href="http://www.hud.gov/offices/fheo/index.cfm" target="_blank" rel="nofollow">Fair Housing and Equal Opportunity</a>
+      Copyright © 2009 Trulia, Inc. All rights reserved.  &nbsp;   |  &nbsp; <img src="http://images.trulia.com/images/fheo_grey.gif" width="17" height="14"> <a href="http://www.hud.gov/offices/fheo/index.cfm" target="_blank" rel="nofollow">Fair Housing and Equal Opportunity</a>
    </p> </div>
 
     
+    <script type="text/javascript" src="/include/js/fsrscripts/browse/oeTriggerParams.js"></script>
+    <script type="text/javascript">foresee.triggerParms["truliaURI"]="/";</script>
+    <script type="text/javascript" src="/include/js/fsrscripts/oeLauncher.js"></script>
+    <script type="text/javascript">
+      foresee.openFSRTracker(1); 
+      foresee.ForeCStdSetCookie(foresee.triggerParms["oecpp_SessionID"], "fa6539ad3a0e37d1b8f29112006c2eac", null, "/", foresee.triggerParms["domain"]);
+      foresee.ForeCStdSetCookie(foresee.triggerParms["oecpp_UserID"], getCookie('tlftmusr'), null, "/", foresee.triggerParms["domain"]);
+    </script>
+
+
 
 
       </div>
-      <script language="JavaScript" type="text/JavaScript" src="http://images.trulia.com/javascript/include/js/s_code.js?v=20081217a"></script>
+      <script language="JavaScript" type="text/JavaScript" src="http://images.trulia.com/javascript/include/js/s_code.js?v=20090218b"></script>
 <!--[if !IE]> Srcipt below Copyright 1997-2004 Omniture, Inc. <![endif]-->
 <script language="javascript" type="text/javascript">
 s.pageName="Privacy Policy";
-s.eVar15="38";
-s.eVar18="ee8d48dfcd50eea73adea786c69576b5";
+s.eVar15="33";
+s.eVar18="fa6539ad3a0e37d1b8f29112006c2eac";
 s.events="event5";
 s.eVar19="cbs000";
-s.eVar6="2008.51";
-s.eVar5="081217ee8d48dfcd50eea73adea786c69576b5";
-s.eVar25="20081217";
+s.eVar6="2009.08";
+s.eVar5="090220fa6539ad3a0e37d1b8f29112006c2eac";
+s.eVar25="20090220";
+s.eVar37="NAV_10011.A";
 s.channel="trulia";
 
 var s_code=s.t();if(s_code)document.write(s_code);
