@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filipina18.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222003824id_/http%3A//www.filipina18.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filipina18.com privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220150408id_/http%3A//www.filipina18.com/privacy.html) for the most accurate reproduction.*
 
-# Filipina18.com - Privacy Policy
+# Www.filipina18.com - Privacy Policy
 
 Bargirl Cash has created this privacy statement in order to demonstrate our firm commitment to privacy. 
 
