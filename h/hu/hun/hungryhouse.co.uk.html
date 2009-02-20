@@ -1,22 +1,18 @@
-<!--The following is the downloaded HTML source of the hungryhouse.co.uk privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217074903id_/http%3A//hungryhouse.co.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hungryhouse.co.uk privacy policy that was archived on 2009-02-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090220165213id_/http%3A//hungryhouse.co.uk/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 <title>hungryhouse privacy policy</title>
-<base href="http://hungryhouse.co.uk/">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<base href="http://hungryhouse.co.uk/"> <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="description" content="">
 <meta name="keywords" content="">
-<link href="css/hh-text.css" rel="stylesheet" type="text/css">
-<link href="css/hh-combined.css" rel="stylesheet" type="text/css">
+<link href="/css/hh-text.css" rel="stylesheet" type="text/css">
+<link href="/css/hh-combined.css" rel="stylesheet" type="text/css">
 <!--[if IE 6]>
-<link href="css/hh-ie-fix.css" rel="stylesheet" type="text/css" />
+<link href="/css/hh-ie-fix.css" rel="stylesheet" type="text/css" />
 <![endif]-->
-<link href="css/hh-build_order.css" rel="stylesheet" type="text/css">
-<link href="css/general.css" rel="stylesheet" type="text/css">
-<link href="css/hungryhouse_b.css" rel="stylesheet" type="text/css">
-<link href="css/hh-menu.css" rel="stylesheet" type="text/css">
-<link href="css/hh-panels.css" rel="stylesheet" type="text/css">
+
+<link href="/css/hh-v2.css" rel="stylesheet" type="text/css"><link href="css/hungryhouse_a.css" rel="stylesheet" type="text/css">
 
 <script>
 var $_hh = {base: "http://hungryhouse.co.uk/", self: "http://hungryhouse.co.uk/include/", aflag: 0};
@@ -59,12 +55,7 @@ addthis_options = "favorites, email, digg, delicious, myspace, facebook, google,
 
           <tr>
             <td class="graylinks">
-              <form method="post" action="search">
-                <div align="right">
-                  <input type="text" name="header_search" id="header-search-input" style="height:16px;">
-                  <input type="image" src="images/buttons/search-button.gif" width="87" height="23" align="top">
-                </div>
-              </form></td>
+              &nbsp;</td>
           </tr>
         </tbody></table>
       </div></td>
@@ -136,24 +127,33 @@ addthis_options = "favorites, email, digg, delicious, myspace, facebook, google,
 <div id="main-container">
 
 <div id="time-online">
-
-  <div id="time">
-  <!--script src="./include/time_js.php" type="text/javascript"></script-->
+<div id="time">
+  <!--# config errmsg="" timefmt="%B %d, %Y %T" -->
   <script>
-  var currenttime = 'December 17, 2008 07:49:03';
+  var currenttime = '<!--# echo var="date_local" default="February 20, 2009 16:52:13" -->';
+<!--# block name="currenttime" -->
+var currenttime = 'February 20, 2009 16:52:13';
+<!--# endblock -->
   </script>
   <script src="./include/time.js" type="text/javascript"></script>
-  
-  <span id="servertime">Wednesday 17 December | 07:49</span>  </div>
-  <div id="online">
-Already a member? <a href="main.php?signin=yes">Sign in</a>  </div>
+  <!--# config errmsg="" timefmt="%A %d %B | %H:%M" -->
+  <span id="servertime"><!--# echo var="date_local" default="Friday 20 February | 16:52" -->
+<!--# block name="servertime" -->
+Friday 20 February | 16:52<!--# endblock -->
+  </span>
+</div>
+  <div id="online"><span id="fonline">
+  <!--# if expr="$custid != /guest/" --><!--# echo var="custid" --> |  <a href="main.php?so=jo">Sign out</a><!--# else -->Already a member? <a href="main.php?signin=yes">Sign in</a><!--# endif --></span>
+<!--# block name="customeronline" -->Already a member? <a href="main.php?signin=yes">Sign in</a>	<style>span#fonline {display: none;}</style>
+<!--# endblock -->
+  </div>
 </div>	
 <!-- Start body -->
 
 <div id="maincontent">
  
 	<div id="primarycontent"> 
-    <div class="panel" style="width:778px;" id="panel-generic-id-1"><div class="paneli"><div class="panelt"><div class="panelTitle">Privacy Policy</div></div>
+    <div class="panel" style="width:778px;" id="panel-privacy-policy"><div class="paneli"><div class="panelt"><div class="panelTitle">Privacy Policy</div></div>
 
 <div class="panelContent"> <div class="panelInnerTableHolder"><table class="panelInnerTable" cellpadding="0" cellspacing="0"><tbody><tr><td class="innerTableContent">
 		<div class="table-padding">
@@ -274,14 +274,107 @@ Telephone: 0871 789 1533<br></div>
 <a href="news/Videos"><img width="106" height="60" src="images/misc/dragons-den-logo.gif"></a>
 </div>
 <div style="padding-top:10px; padding-bottom:15px">
-<img width="260" height="38" src="images/misc/logobar-online-takeaway-pay.gif">&nbsp;&nbsp;
-<img width="83" height="38" src="images/misc/logobar-secure-takeaway.gif">
+<img width="313" height="38" src="images/checkout/core_incmaestro_horizontal.gif">&nbsp;&nbsp;&nbsp;
+<img height="38" src="images/checkout/safebuy_small.gif">
+<img height="38" src="images/checkout/comodo_small.gif">&nbsp;
+<img height="38" src="images/checkout/verified_by_visa2.gif">
+<img height="38" src="images/checkout/mastercard_securecode_small.gif">
 </div>
-<div class="greytext-footer">Copyright © 2008 | hungryhouse.com limited | Hyde Park House, 5 Manfred Rd, London. SW15 2RS.</div>
+<div class="greytext-footer">Copyright © 2009 | hungryhouse.com limited | Hyde Park House, 5 Manfred Rd, London. SW15 2RS.</div>
 
 <div class="clear">&nbsp;</div>
 
 
+		<div id="top-tool-tips">
+			<ul>
+				<li class="firstTip">
+					<h2>Order Takeaway Online!</h2>
+					Click for <a href="javascript:ttNext();">12 good reasons!</a>
+				</li>
+				<li>
+					<h3>1) It couldn't be easier!</h3>
+					Browse the latest menus online, click to order, and pay the same as over the phone.
+					<div class="ttPrevNext"><a href="javascript:ttPrev();">Prev</a> | <a href="javascript:ttNext();">Next</a></div>
+				</li>
+				<li>
+					<h3>2) Personalised service</h3>
+					Our partner restaurant will receive your order within seconds - and we confirm every order with a follow up phone call.
+					<div class="ttPrevNext"><a href="javascript:ttPrev();">Prev</a> | <a href="javascript:ttNext();">Next</a></div>
+				</li>
+				<li>
+					<h3>3) Honest customer reviews</h3>
+					Our independent customer reviews make it easy to find the best local restaurants.
+					<div class="ttPrevNext"><a href="javascript:ttPrev();">Prev</a> | <a href="javascript:ttNext();">Next</a></div>
+				</li>
+				<li>
+					<h3>4) Secure payments</h3>
+					You can pay for your meal online, and keep your card details private!
+					<div class="ttPrevNext"><a href="javascript:ttPrev();">Prev</a> | <a href="javascript:ttNext();">Next</a></div>
+				</li>
+				<li>
+					<h3>5) Fight hunger worldwide!</h3>
+					We support <a href="http://hungryhouse.co.uk/action-against-hunger">Action Against Hunger</a> so you can make a difference and help fill empty tummies - simply by ordering online.
+					<div class="ttPrevNext"><a href="javascript:ttPrev();">Prev</a> | <a href="javascript:ttNext();">Next</a></div>
+				</li>
+				<li>
+					<h3>6) Convenience!</h3>
+					Order at your own convenience with the click of a button, avoiding engaged signals, being put on hold and call charges.
+					<div class="ttPrevNext"><a href="javascript:ttPrev();">Prev</a> | <a href="javascript:ttNext();">Next</a></div>
+				</li>
+				<li>
+					<h3>7) No sign-up necessary!</h3>
+					You don't have to register to order online.
+					<div class="ttPrevNext"><a href="javascript:ttPrev();">Prev</a> | <a href="javascript:ttNext();">Next</a></div>
+				</li>
+				<li>
+					<h3>8) Advance orders</h3>
+					You can order for now - or choose a later time so your order arrives when you do.
+					<div class="ttPrevNext"><a href="javascript:ttPrev();">Prev</a> | <a href="javascript:ttNext();">Next</a></div>
+				</li>
+				<li>
+					<h3>9) Order history</h3>
+					Members get a full order history, and can easily repeat past orders.
+					<div class="ttPrevNext"><a href="javascript:ttPrev();">Prev</a> | <a href="javascript:ttNext();">Next</a></div>
+				</li>
+				<li>
+					<h3>10) Competition is healthy!</h3>
+					With customer reviews, sellers compete on quality, service and value - rather than volume of junk mail.
+					<div class="ttPrevNext"><a href="javascript:ttPrev();">Prev</a> | <a href="javascript:ttNext();">Next</a></div>
+				</li>
+				<li>
+					<h3>11) Service you can trust</h3>
+					We are Safebuy accredited - so it's safe to order takeaway online at hungryhouse.co.uk
+					<div class="ttPrevNext"><a href="javascript:ttPrev();">Prev</a> | <a href="javascript:ttNext();">Next</a></div>
+				</li>
+				<li>
+					<h3>12) We value your business!</h3>
+					Your online order provides the support we need to keep expanding and innovating.
+					<div class="ttPrevNext"><a href="javascript:ttPrev();">Prev</a> | <a href="javascript:ttFirst();">Next</a></div>
+				</li>
+			</ul>
+		</div>
+		<script>
+		$("#book-search-block").animate({width: 215}, function() {$("#top-tool-tips li:first").slideDown()});
+		function ttNext() {
+			var $e = $("#top-tool-tips li:visible");
+			$e.slideUp(100, function() {
+				$e.next().slideDown(150);
+			});
+		}
+		function ttPrev() {
+			var $e = $("#top-tool-tips li:visible");
+			$e.slideUp(100, function() {
+				$e.prev().slideDown(150);
+			});
+		}
+		function ttFirst() {
+			var $e = $("#top-tool-tips li:visible");
+			$e.slideUp(100, function() {
+				$("#top-tool-tips li:first").slideDown();
+			});
+		}
+		</script>
+		
 			<script id="pap_x2s6df8d" src="http://pap.hungryhouse.co.uk/scripts/track.js" type="text/javascript"></script>
 			<script type="text/javascript"><!--
 			papTrack();
@@ -292,7 +385,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 <script type="text/javascript">
 var fk = _gat._getTracker('fake');
 				fk._setDomainName('hungryhouse.co.uk');
-				fk._setVar('hungryhouse_a');
+				fk._setVar('[a=hungryhouse_a][s=guest]');
 				var pageTracker = _gat._getTracker("UA-650065-1"); pageTracker._setDomainName("hungryhouse.co.uk");
 pageTracker._trackPageview();
 </script>
