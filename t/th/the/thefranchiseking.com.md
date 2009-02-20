@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thefranchiseking.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155633id_/http%3A//thefranchiseking.typepad.com/the_franchise_king/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefranchiseking.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221005049id_/http%3A//thefranchiseking.typepad.com/the_franchise_king/privacy-policy.html) for the most accurate reproduction.*
 
 # The Franchise King Blog: Privacy Policy
 
-The Franchise King Blog, The Franchise Blog For Veterans, Franchise Selection Specialists Inc, Monday Thru Friday Franchises, Franchise Flavors,  Cincinnati Franchise 4 Sale, and the Green Franchise Directory.com website uses Six Aparts “Typepad” blog software for the above named blogs and websites. The Six Apart Privacy Policy is below.   
+All of the blogs and websites that Franchise Selection Specialists inc./Joel Libava runs and produces content on, use Six Aparts “Typepad” blog software for the above named blogs and websites. The Six Apart Privacy Policy is below.   
 We respect your privacy, as publishers of those blogs and sites.  
 You may "opt-in" to receive our Newsletters, special offers or other information via email. You may remove yourself from such services at any time. Any such email sent to you will include directions for how to unsubscribe.   
 We never sell, rent or disclose your email address to any other party for financial gain.   
