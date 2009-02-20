@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amanet.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216061442id_/http%3A//www.amanet.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amanet.org privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220235107id_/http%3A//www.amanet.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,7 +15,7 @@ This privacy policy (“Privacy Policy”) covers AMA’s privacy practices with
 
 
 
-By visiting this Website, and/or using the Website’s services, you agree to the terms of this Privacy Policy as they may be amended from time to time.  As we update and expand our services, this Privacy Policy may change, so check back to this page from time to time.  This Privacy Policy is incorporated into, and part of, [the AMA Website Terms of Use](https://web.archive.org/web/20081216061442id_/http%3A//www.amanet.org/terms-of-service.htm), which governs your use of and access to this Website in general.
+By visiting this Website, and/or using the Website’s services, you agree to the terms of this Privacy Policy as they may be amended from time to time.  As we update and expand our services, this Privacy Policy may change, so check back to this page from time to time.  This Privacy Policy is incorporated into, and part of, [the AMA Website Terms of Use](https://web.archive.org/web/20090220235107id_/http%3A//www.amanet.org/terms-of-service.htm), which governs your use of and access to this Website in general.
 
 **You may opt out of our sharing of your Personally Identifiable Information with third parties for marketing purposes, by following the directions in theSharing Personally Identifiable Information.**
 
@@ -67,7 +67,7 @@ please e-mail [customerservice@amanet.org](mailto:customerservice@amanet.org) or
   * E-mailings of AMA newsletters and other materials, as well as various operations of the Website, are handled both in-house and by outside service companies (such as e-mail service providers, address list hosting companies, distribution companies, suppliers and other service providers, such as Caspio, Inc.). On occasion, where AMA contracts with a service provider, it may request or it may be necessary that the provider collect and/or provide information (including Personally Identifiable Information) directly from our customers on our behalf. In all such situations, AMA restricts how its suppliers and other service providers may access, use and disclose Personally Identifiable Information.  AMA does not permit these suppliers and other service providers to sell **** Personally Identifiable Information to third parties. If you receive information through AMA or through a third party supplier about AMA that you prefer not to receive, you should request to be removed from the active mailing list by e-mailing [customerservice@amanet.org](mailto:customerservice@amanet.org) or by calling AMA Customer Service at 1-877-566-9441. 
   * When you contribute to a public area or feature of our Website, such as one of our online communities, messaging services, chat services, bulletin boards, message boards, blogs or other such open forums, the information that you submit will be made available to the general public.  For this reason, we recommend that you exercise caution in the submission of Personally Identifiable Information to these areas of our Website as it will be publicly accessible. 
   * We may disclose to third parties aggregate, non-personally identifiable data regarding user behavior, such as overall patterns or demographic reports, as a measure of interest in, and use of, our Website and e-mails.
-  * We may use or disclose Personally Identifiable Information in order to investigate any claim or suspicion of a violation of our Website [Terms of Service](https://web.archive.org/web/20081216061442id_/http%3A//www.amanet.org/terms-of-service.htm), to assist with law enforcement investigations, or as otherwise required by law. 
+  * We may use or disclose Personally Identifiable Information in order to investigate any claim or suspicion of a violation of our Website [Terms of Service](https://web.archive.org/web/20090220235107id_/http%3A//www.amanet.org/terms-of-service.htm), to assist with law enforcement investigations, or as otherwise required by law. 
 
 
 
