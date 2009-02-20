@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engineersaustralia.org.au privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220124844id_/http%3A//www.engineersaustralia.org.au/privacy-statement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineersaustralia.org.au privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220225914id_/http%3A//www.engineersaustralia.org.au/privacy-statement.cfm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -27,7 +27,7 @@ Personal information, including sensitive information, that Engineers Australia 
 
 
 
-  * Assessment records created when a member applies for a certain membership grade. This can include Curriculum Vitaes (CVs), Engineering Practice Reports (EPRs) Competency Demonstration Reports (CDRs) and Overseas Qualification Assessments (OSQAs).
+  * Assessment records created when a member applies for a certain membership grade. This can include Curriculum Vitaes (CVs), Engineering Practice Reports (EPRs) Competency Demonstration Reports (CDRs) and Migration Skills Assessments.
 
 
 
@@ -110,22 +110,24 @@ As a not-for-profit organisation, Engineers Australia needs to enter into sponso
 
 Engineers Australia may disclose personal information and sensitive information as defined by the Privacy Act, held about you to:
 
-  * A membership committee/ board or panel to assess applications and investigate complaints.
+  * A membership committee/ board or panel to assess applications and investigate complaints;
 
 
 
 
-  * Members authorised to vote on candidates elected to office bearing positions and judging committees for awards and honours.
+  * Members authorised to vote on candidates elected to office bearing positions and judging committees for awards and honours;
 
 
 
 
-  * Australian Education International - NOOSR for migration statistical reporting under the AEI-NOOSR/ Engineers Australia contract.
+  * Department of Immigration and Citizenship (DIAC) for migration related issues;
+
+Australian Education International - NOOSR for migration statistical reporting; 
 
 
 
 
-  * Members on the same Committee or group.
+  * Members on the same Committee or group; and
 
 
 
