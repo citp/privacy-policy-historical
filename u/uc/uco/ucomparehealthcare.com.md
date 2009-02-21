@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucomparehealthcare.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222075513id_/http%3A//www.ucomparehealthcare.com/about_us/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucomparehealthcare.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221155751id_/http%3A//www.ucomparehealthcare.com/about_us/privacy_policy.html) for the most accurate reproduction.*
 
 # UCompareHealthCare - Privacy Policy
 
