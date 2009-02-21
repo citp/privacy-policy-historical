@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woome.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222005559id_/http%3A//www.woome.com/woome/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woome.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221155119id_/http%3A//www.woome.com/woome/privacy) for the most accurate reproduction.*
 
 # WooMe.com | Meet People Live in Voice and Video Online Speed Dating Sessions
 
@@ -26,13 +26,9 @@ WooMe may also collect information about you from other sources, such as newspap
 
 By using WooMe, you are consenting to have your personal data transferred to and processed in the United States.
 
-## Children Under Age 16
+## Children Under Age 18
 
-WooMe does not knowingly collect or solicit personal information from anyone under the age of 16 or knowingly allow such persons to register. If you are under 16, please do not attempt to register for WooMe or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 16 may provide any personal information to or on WooMe. In the event that we learn that we have collected personal information from a child under age 16 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 16, please contact us at [info@woome.com](mailto:info@woome.com).
-
-## Children Between the Ages of 16 and 18
-
-We recommend that minors over the age of 16 ask their parents for permission before sending any information about themselves to anyone over the Internet.
+WooMe does not knowingly collect or solicit personal information from anyone under the age of 18 or knowingly allow such persons to register. If you are under 18, please do not attempt to register for WooMe or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 18 may provide any personal information to or on WooMe. In the event that we learn that we have collected personal information from a child under age 18 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 18, please contact us at [info@woome.com](mailto:info@woome.com).
 
 ## Use of Information Obtained by WooMe
 
