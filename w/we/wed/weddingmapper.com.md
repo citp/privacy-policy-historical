@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingmapper.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217013716id_/http%3A//www.weddingmapper.com/company/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingmapper.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221220601id_/http%3A//www.weddingmapper.com/company/policies/privacy) for the most accurate reproduction.*
 
 # Free Personalized and Interactive Wedding Maps, Local Wedding Planning Tools - Wedding Mapper
 
