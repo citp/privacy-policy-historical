@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popshops.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219085226id_/http%3A//www.popshops.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popshops.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221153107id_/http%3A//www.popshops.com/privacy) for the most accurate reproduction.*
 
 # PopShops Privacy Policy
 
