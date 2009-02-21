@@ -1,44 +1,36 @@
-> *The following text is extracted and transformed from the castin.tv privacy policy that was archived on 2008-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081212165643id_/http%3A//castin.tv/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castin.tv privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221133355id_/http%3A//www.castin.tv/pages/privacy.html) for the most accurate reproduction.*
 
-# Share Videos & Music - Privacy & Policy
+# Desi Videos - Castin.tv -Privacy Policy
 
-  | _**Privacy & Policy**_ _ **Personal Information**_
+The use of the Castin.TV website(s) and/or Castin.TV software and any Castin.TV services and products (collectively, the "Website") provided by Castin.TV Inc. ("Castin.TV") are subject to the provisions of this Privacy Policy, including any amendments or updates hereto. This Privacy Policy is incorporated into and is subject to the Castin.TV [Terms & Conditions](http://www.castin.tv/pages/terms.html). If you do not agree to this Privacy Policy, please do not use the Website.
 
-* Non-Account Activity. You can watch videos on Castin.tv without having a Castin.tv Account. You can also contact us about a particular video without having a Castin.tv Account.  
-* Account-Related Activity. Certain other activities on Castin.tv—like uploading videos, posting comments, flagging videos require you to have a Castin.tv Account. We ask for some personal information when you create a Castin.tv Account, including your email address and a password, which is used to protect your account from unauthorized access.  
-* Usage Information. We may record information about your usage, such as when you use Castin.tv, the channels, groups, and favorites you subscribe to, the contacts you communicate with, the videos you watch, and the frequency and size of data transfers, as well as information you display or click on in Castin.tv (including UI elements, settings, and other information). If you are logged in, we may associate that information with your account. We may use clear GIFs (a.k.a. "Web Beacons") in HTML-based emails sent to our users to track which emails are opened by recipients.  
-* Content Uploaded to Site. Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your playback or profile pages, etc.) becomes publicly available and can be collected and used by others.
+**General**
 
- _ **Uses**_
+Castin.TV takes your privacy seriously. We gather certain types of information about our users and we want to help you understand the terms related to the collection and use of the information which we collect. This Privacy Policy discloses the types of information we gather, how we use it, and what choices you have regarding the collection of such information. 
 
-* If you submit personally identifiable information to us through the Castin.tv, we use your personal information to operate, maintain, and provide to you the general and personalized features and functionality of the Castin.tv, and to process any flagging activity or correspondence you send to us.  
-* Your account name (not your email address) is displayed to other Users when you upload videos or send messages through the Castin.tv and other Users can contact you through messages and comments. Any videos that you submit to the Castin.tv may be redistributed through the internet and other media channels, and may be viewed by the general public. If you have enabled Active Sharing, other users may see that you, as identified by your account name (not your email address), are watching the same video.  
-* We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Castin.tv Site changes or for customer service purposes).  
-* We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Castin.tv and to create new features, promotions, functionality, and services by storing, tracking, analyzing, and processing user preferences and trends, as well as user activity and communications.  
-* We use cookies, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit the Castin.tv; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
+BY USING, ACCESSING OR DOWNLOADING THE WEBSITE), YOU AGREE TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION (AS HEREUNDER DESCRIBED), ALL IN ACCORDANCE WITH THE TERMS AND CONDITIONS SET HEREUNDER. Castin.TV reserves the right to amend this Privacy Policy at any time and without notice, and it is your responsibility to review this Privacy Policy for any changes. Your use of the Website following any amendment of this Privacy Policy will signify your assent to and acceptance of its revised terms.
 
- _ **Information That is Publicly Available**_
+If you are under the age of 13, you are not eligible to use the Website, and we ask you not to submit any personal information to us. 
 
-* When you create an account on the site, some information about your account and your account activity will be provided to other Users of the site. This may include the date you opened your account, the date you last logged into your account, your age (if you choose to make it public), the country and the number of videos you have watched.  
-* Your account name (not your email address) is displayed to other Users when you engage in certain activity on the site, such as you upload videos or send messages through the Castin.tv Site. Other Users can contact you through messages and comments.  
-* You may also choose to add personal information that will visible to other Users on your channel page (which is the public facing page for your account on the site). This may include a profile picture, you name, gender, relationship status, or other details.  
-* If you choose to add certain features to your channel page, then these features and your activity associated with these features will be displayed to other Users and may be aggregated and shared with your confirmed friends or other Users. Such shared activity may include what videos you favorite, what videos you rated and what videos you have uploaded.  
-* Any videos that you submit to the Castin.tv Site may be redistributed through the internet and other media channels, and may be viewed by the general public. If you have enabled Active Sharing, other users may see that you, as identified by your account name (not your email address), are watching the same video.
+Please note that any video, image, or other content posted at the direction of users onto the Castin.TV website becomes published content and is not considered personally identifiable information subject to this Privacy Policy.   
+Collection of Information Personal Information. Use of certain features of the Website may require submission of certain personal information, including your first and last name, email address, a nickname (or other user ID) and a password. 
 
- _ **Your Choices**_
+Non personally identifiable Information. Castin.TV may also collect or receive additional non-personally identifiable usage information specifically related to the use of a particular feature or offering on the Website, and responses to the offerings and advertisements presented on the Website.
 
-* You may, of course, decline to submit personally identifiable information through the Castin.tv, in which case you can still view videos and explore the Castin.tv, but Castin.tv may not be able to provide certain services to you.   
-* You may update or correct your personal profile information and email preferences at any time by visiting your account manager page.  
-* You may clear your viewing history at any time through the "Viewing History" feature.  
-* You may control the information that is available to other Users and your confirmed friends at any time by editing your account and the features that are included on your channel page.
+Castin.TV may also collect or receive (in some cases as part of the internet communication protocol) certain non-personally identifiable technical information, when the Website and pages are visited or when a Castin.TV client is used.
 
- _ **Third-party Advertisers, Links to Other Sites  
-**_  
-Castin.tv allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Castin.tv. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Castin.tv. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
+**How is the information being used?**
 
-Castin.tv does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks Castin.tv to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the Castin.tv, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.
+The information is used to operate and improve the features, offerings and content presented to you by Castin.TV, to personalize the content and advertisements provided to you; to fulfill your requests for products, programs, and services; to communicate with you and respond to your inquiries; to conduct research about your use of the Website; and to help offer you other products, programs, or services that may be of interest. 
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks (i.e Adsense , Adbrite) for more information on their practices and for instructions on how to opt-out of certain practices. Castin.tv's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. Any data obtained by third-party ad servers subsequently shared with Castin.tv is maintained and dealt with by Castin.tv in accordance with this privacy policy.
+Please note that Castin.TV may use your personally identifiable information to present offers to you on behalf of business partners and advertisers. However, while Castin.TV's business partners and advertisers may receive aggregate data about Castin.TV users, any personally identifiable information of yours will not be shared with third parties unless you have consented to the sharing of this information. 
 
-|    
----|---|---
+Notwithstanding the foregoing, your information may be accessed and disclosed if and as required by legal procedures, as determined by Castin.TV in good faith. Furthermore, Castin.TV may transfer personally identifiable information in the event of a transfer of ownership of Castin.TV or any of its websites or products, in which case the information could become subject to a different privacy policy.
+
+**Third Party Ad Servers**
+
+Castin.TV or its advertisers may use other companies known as third party ad servers to help present advertisements online in connection with the Website. These third party ad servers may use cookies or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies, not Castin.TV's. 
+
+**Non-UAE. Users**
+
+The Website is operated and based in the United Arab Emirates. If you are accessing the Website from a jurisdiction with privacy laws or regulations that differ from UAE laws, please be advised that through your continued use of the Website, you are transferring your personal information to the United Arab Emirates and you consent to that transfer.
