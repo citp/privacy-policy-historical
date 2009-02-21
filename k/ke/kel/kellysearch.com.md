@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kellysearch.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219053103id_/http%3A//www.kellysearch.com/static/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellysearch.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221031942id_/http%3A//kellysearch.com/static/privacypolicy.html) for the most accurate reproduction.*
 
 # Find US suppliers with the Kellysearch B2B product search engine
 
