@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardhub.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222135956id_/http%3A//www.cardhub.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardhub.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221134047id_/http%3A//www.cardhub.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy at Card Hub
 
