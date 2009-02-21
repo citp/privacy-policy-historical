@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vanseodesign.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913052716id_/http%3A//www.vanseodesign.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanseodesign.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221040257id_/http%3A//vanseodesign.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | vanseodesign
 
@@ -6,7 +6,7 @@ Privacy and protecting the privacy of my clients is very important to me. My goa
 
 Naturally there are times where it's necessary to collect personal information such as your address, phone number, and email. I'll do everything I can to keep this information private and never sell your information for any reason. It bothers me when my own information is sold from one company to the next and I'll never do the same to anyone who trusts me with their's.
 
-I have pruchased and maintain a secure sockets layer (SSL) certificate through Comodo to ensure that all credit card informtaion is encrypted when sent. The same encryption is used when logging in to access your billing and support details.
+I have purchased and maintain a secure sockets layer (SSL) certificate through Comodo to ensure that all credit card informtaion is encrypted when sent. The same encryption is used when logging in to access your billing and support details.
 
 ## Cookies
 
