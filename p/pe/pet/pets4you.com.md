@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pets4you.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218040521id_/http%3A//www.pets4you.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pets4you.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221092512id_/http%3A//www.pets4you.com/privacy.html) for the most accurate reproduction.*
 
 # Pets 4 You - Privacy Policy
 
