@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codingstaff.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221233714id_/http%3A//codingstaff.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codingstaff.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221042826id_/http%3A//www.codingstaff.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Coding Staff > Home
 
@@ -44,4 +44,4 @@ Coding Staff will occasionally update this Statement of Privacy to reflect compa
 
 Contact Information
 
-Coding Staff welcomes your comments regarding this Statement of Privacy. If you believe that Coding Staff has not adhered to this Statement, please contact Coding Staff at [info@webdesigninhawaii.com](mailto:info@webdesigninhawaii.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Coding Staff welcomes your comments regarding this Statement of Privacy. If you believe that Coding Staff has not adhered to this Statement, please contact Coding Staff at [marketing@codingstaff.com](mailto:marketing@codingstaff.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
