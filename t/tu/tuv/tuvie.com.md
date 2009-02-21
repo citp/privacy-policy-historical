@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tuvie.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160434id_/http%3A//www.tuvie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuvie.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221172251id_/http%3A//www.tuvie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Future Technology
 
@@ -17,15 +17,15 @@ Please read this statement regarding our blogs. If you have questions please ask
 
 **Email Addresses**
 
-You may choose to add your email address to our contact list via the forms on our websites. We agree that we will never share you email with any third party and that we will remove your email at your request. We don?t currently send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email addresses to them. If you have any problem removing your email address please contact us via our contact form.
+You may choose to add your email address to our contact list via the forms on our websites. We agree that we will never share you email with any third party and that we will remove your email at your request. We don’t currently send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email addresses to them. If you have any problem removing your email address please contact us via our contact form.
 
 **Ownership of Information**
 
-[http://www.tuvie.com](http://www.tuvie.com/) is the sole owner of any information collected on our websites.
+We aspire to do the right, ethical and legal thing in bringing you this site, and we ask that you use the same judgment as you read, use, link to, and share the content hosted on Tuvie. When utilizing Tuvie content, we ask that you give credit where appropriate and don’t edit our content – or content that belongs to others without permission.
 
 **Comments/Message Boards**
 
-Most [http://www.tuvie.com](http://www.tuvie.com/) websites contain comment sections (a.k.a. message boards). We do not actively monitor these comments and the information on them is for entertainment purposes only. If we are alerted to something we deem inappropriate in any way, we may delete it at our discretion. We use email validation on most of our message boards in order to reduce ?comment spam.? These email addresses will not be shared with any third party.
+Most [http://www.tuvie.com](http://www.tuvie.com/) websites contain comment sections (a.k.a. message boards). We do not actively monitor these comments and the information on them is for entertainment purposes only. If we are alerted to something we deem inappropriate in any way, we may delete it at our discretion. We use email validation on most of our message boards in order to reduce “comment spam.” These email addresses will not be shared with any third party.
 
 **Cookies**
 
@@ -49,7 +49,7 @@ If [http://www.tuvie.com](http://www.tuvie.com/) is acquired by or merges with a
 
 **Links**
 
-[http://www.tuvie.com](http://www.tuvie.com/) website frequently link to other websites. We are not responsible for the content or business practices of these websites. When you leave our websites we encourage you to read the destination site?s privacy policy. This privacy statement applies solely to information collected by [http://www.tuvie.com](http://www.tuvie.com/)
+[http://www.tuvie.com](http://www.tuvie.com/) website frequently link to other websites. We are not responsible for the content or business practices of these websites. When you leave our websites we encourage you to read the destination site’s privacy policy. This privacy statement applies solely to information collected by [http://www.tuvie.com](http://www.tuvie.com/)
 
 **Notification of Changes**
 
