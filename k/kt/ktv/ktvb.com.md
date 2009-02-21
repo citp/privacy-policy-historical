@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktvb.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216043722id_/http%3A//www.ktvb.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktvb.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221094008id_/http%3A//www.ktvb.com/registration/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | About Us | KTVB.COM | Boise, Idaho News, Weather, Sports, Video, Traffic & Events
 
