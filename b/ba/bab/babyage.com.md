@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the babyage.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221114041id_/http%3A//www.babyage.com/helpdesk/security_privacy.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyage.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221112902id_/http%3A//babyage.com/helpdesk/security_privacy.htm%23privacy) for the most accurate reproduction.*
 
 # Security And Privacy - Help Desk - BabyAge.com
+
+Customer Service
+
+**Phone** : 1-800-222-9243
+
+**Fax** : 1-570-706-2459
+
+**Online Customer Support** : [Click Here](https://web.archive.org/customersupport.aspx)
+
+**Business Hours** : Monday through Friday, 9:00AM - 7:00PM Eastern Time
+
+| 
 
 Security & Privacy
 
