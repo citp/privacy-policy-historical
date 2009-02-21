@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mals-e.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216035416id_/http%3A//www.mals-e.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mals-e.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221092102id_/http%3A//www.mals-e.com/privacy.php) for the most accurate reproduction.*
 
 # Mal's e-commerce - Privacy Policy
 
   * You are here
   * :
-  * [Home](https://web.archive.org/web/20081216035416id_/http%3A//www.mals-e.com/index.php)
+  * [Home](https://web.archive.org/web/20090221092102id_/http%3A//www.mals-e.com/index.php)
   * :
   * Privacy
 
