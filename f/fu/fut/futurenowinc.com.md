@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futurenowinc.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221102951id_/http%3A//www.futurenowinc.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurenowinc.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221145534id_/http%3A//www.futurenowinc.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of Future Now Inc and GrokDotCom
 
@@ -31,19 +31,18 @@ Individuals must affirmatively ask to join our mailing lists using the forms pro
 
 ## Recent Clients
 
-  * Hewlett-Packard
-  * Full Tilt Poker
-  * 1-800-Flowers
-  * FatWallet
-  * Whistler.com
-  * Network Solutions
-  * CardScan
-  * NBC Universal
-  * Allegis
-  * WebEx
-  * ShoeLine
-  * ICE.com
-
+Hewlett-Packard  
+Full Tilt Poker  
+1-800-Flowers  
+FatWallet  
+Whistler.com  
+Network Solutions  
+CardScan  
+NBC Universal  
+Allegis  
+WebEx  
+ShoeLine  
+ICE.com  
 
 
   
