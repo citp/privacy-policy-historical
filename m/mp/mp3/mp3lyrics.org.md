@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3lyrics.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021608id_/http%3A//www.mp3lyrics.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3lyrics.org privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221023944id_/http%3A//www.mp3lyrics.org/privacy.html) for the most accurate reproduction.*
 
 # Mp3 Lyrics Organized : Privacy Policy
 
@@ -21,6 +21,10 @@ During your visit to Mp3lyrics.org a cookie may be sent to your browser that uni
 ### JavaScript
 
 This site uses JavaScript to, among other things, chiefly display good looking pages, track visitor information and behaviour, set cookies on your browser and display advertisement. To learn what JavaScript is visit [Mozilla's](http://developer.mozilla.org/en/About_JavaScript) or [Wikipedia's](http://en.wikipedia.org/wiki/Javascript) explanations on JavaScript. 
+
+### Caching
+
+Mp3Lyrics.org use server caching to ease the load on the web server. Because of this some site updates may not be visible before a page expires or is removed from the server cache. In addition to server caching mp3lyrics.org tell your browser to use local caching. That is we send header (invisible) instructions to your browser telling it to cache each page (and other data) locally on your computer. This is to make subsequent page requests faster for you and to additionally ease the load on the server. Therefore you should **remember to always force reload pages on mp3lyrics.org if you want to see changes/page updates**. This is to prevent your browser from displaying the local cached page data. To _force reload (re-fresh)_ a page in your browser press and simultanously hold down the keys _ctrl + F5_ when you are looking at the page you want to force reload. Different [web browsers](http://en.wikipedia.org/wiki/Web_Browser) tend to require different procedures for force reloading. But the above procedure usually works on most newest version browsers. You can read more about force reloading [here](http://support.wordpress.com/browser-issues/). 
 
 ### Information Sharing
 
