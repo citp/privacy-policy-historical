@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowmb.net privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222195049id_/http%3A//www.wowmb.net/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowmb.net privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221093716id_/http%3A//www.wowmb.net/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # The Warlocks Den - Privacy Statement
 
@@ -8,29 +8,29 @@
 Latest Posts | Latest Forum News  
 | Thread |   |  Date, Time |  Posted By  
 ---|---|---|---  
- [I've got the message.](http://wowmb.net/forums/f43/31393-ive_got_message/) | [ ▼](http://wowmb.net/forums/f43/31393-ive_got_message/) |  22-12, 12:48 |  [geroth](http://wowmb.net/forums/members/geroth/)  
- [0/40/31 and wondering...](http://wowmb.net/forums/f81/31398-0_40_31_wondering/) | [ ▼](http://wowmb.net/forums/f81/31398-0_40_31_wondering/) |  22-12, 12:42 |  [doomonyou](http://wowmb.net/forums/members/doomonyou/)  
- [Regarding the Compendium...](http://wowmb.net/forums/showthread.php?t=31396) | [ ▼](http://wowmb.net/forums/showthread.php?goto=newpost&t=31396) |  22-12, 12:40 |  [Rutiene](http://wowmb.net/forums/members/rutiene/)  
- [Compendium of Road Tested...](http://wowmb.net/forums/f76/31341-compendium_road_tested_level_80_pve_builds/) | [ ▼](http://wowmb.net/forums/f76/31341-compendium_road_tested_level_80_pve_builds/) |  22-12, 12:16 |  [Vaell](http://wowmb.net/forums/members/vaell/)  
- [Goodbye](http://wowmb.net/forums/f8/31331-goodbye/) | [ ▼](http://wowmb.net/forums/f8/31331-goodbye/) |  22-12, 12:15 |  [Vitriola](http://wowmb.net/forums/members/vitriola/)  
- [Weaponsmithing specialization](http://wowmb.net/forums/f10/31397-weaponsmithing_specialization/) | [ ▼](http://wowmb.net/forums/f10/31397-weaponsmithing_specialization/) |  22-12, 12:14 |  [Garagos](http://wowmb.net/forums/members/garagos/)  
- [Dots and you: The Affliction...](http://wowmb.net/forums/f66/31387-dots_you_affliction_warlock/) | [ ▼](http://wowmb.net/forums/f66/31387-dots_you_affliction_warlock/) |  22-12, 11:37 |  [XavronMG](http://wowmb.net/forums/members/xavronmg/)  
- [The Warlocks Den Xmas...](http://wowmb.net/forums/f8/31107-warlocks_den_xmas_competition/) | [ ▼](http://wowmb.net/forums/f8/31107-warlocks_den_xmas_competition/) |  22-12, 11:33 |  [Onepocket](http://wowmb.net/forums/members/onepocket/)  
- [55/8/8](http://wowmb.net/forums/f81/31394-55_8_8_a/) | [ ▼](http://wowmb.net/forums/f81/31394-55_8_8_a/) |  22-12, 11:04 |  [XavronMG](http://wowmb.net/forums/members/xavronmg/)  
- [Buff / Debuff Stacking in...](http://wowmb.net/forums/f49/28257-buff_debuff_stacking_wrath_lich_king/) | [ ▼](http://wowmb.net/forums/f49/28257-buff_debuff_stacking_wrath_lich_king/) |  22-12, 10:32 |  [Gwyl](http://wowmb.net/forums/members/gwyl/)  
-|  [Xmas Competition - FINAL...](http://wowmb.net/forums/f71/31389-xmas_competition_final_days/) |  21-12  
+ [Ok, should be fixed again...](http://wowmb.net/forums/f17/32524-ok_should_fixed_again_hopefully_good/) | [ ▼](http://wowmb.net/forums/f17/32524-ok_should_fixed_again_hopefully_good/) |  21-02, 02:32 |  [ _Akasha_](http://wowmb.net/forums/members/akasha/)  
+ [How to push 7k+ dps](http://wowmb.net/forums/f99/32547-how_push_7k_dps/) | [ ▼](http://wowmb.net/forums/f99/32547-how_push_7k_dps/) |  21-02, 01:58 |  [levinho](http://wowmb.net/forums/members/levinho/)  
+ [People really baffle me...](http://wowmb.net/forums/f12/32553-people_really_baffle_me_sometimes/) | [ ▼](http://wowmb.net/forums/f12/32553-people_really_baffle_me_sometimes/) |  21-02, 00:52 |  [ _Akasha_](http://wowmb.net/forums/members/akasha/)  
+ [21/45/5 on 25 man Kel -...](http://wowmb.net/forums/f99/32556-21_45_5_25_man_kel_3368dps/) | [ ▼](http://wowmb.net/forums/f99/32556-21_45_5_25_man_kel_3368dps/) |  20-02, 23:53 |  [Koldfeat](http://wowmb.net/forums/members/koldfeat/)  
+ [Raiding with non raiders!!!](http://wowmb.net/forums/f98/32554-raiding_non_raiders/) | [ ▼](http://wowmb.net/forums/f98/32554-raiding_non_raiders/) |  20-02, 22:10 |  [ _Akasha_](http://wowmb.net/forums/members/akasha/)  
+ [What an amazing day!](http://wowmb.net/forums/f98/32555-what_amazing_day/) | [ ▼](http://wowmb.net/forums/f98/32555-what_amazing_day/) |  20-02, 22:10 |  [ _Akasha_](http://wowmb.net/forums/members/akasha/)  
+ [New Affliction pet?](http://wowmb.net/forums/f16/32002-new_affliction_pet/) | [ ▼](http://wowmb.net/forums/f16/32002-new_affliction_pet/) |  20-02, 19:31 |  [Mort](http://wowmb.net/forums/members/mort/)  
+ [PDF opening?](http://wowmb.net/forums/f17/32501-pdf_opening/) | [ ▼](http://wowmb.net/forums/f17/32501-pdf_opening/) |  20-02, 17:21 |  [XavronMG](http://wowmb.net/forums/members/xavronmg/)  
+ [Re-Install Questions ??](http://wowmb.net/forums/f8/32527-re_install_questions/) | [ ▼](http://wowmb.net/forums/f8/32527-re_install_questions/) |  20-02, 16:52 |  [Derzerfetzer](http://wowmb.net/forums/members/derzerfetzer/)  
+ [I need help with my DPS -...](http://wowmb.net/forums/f9/32007-i_need_help_my_dps_thread_2_post_patch_3_0_8_a/) | [ ▼](http://wowmb.net/forums/f9/32007-i_need_help_my_dps_thread_2_post_patch_3_0_8_a/) |  20-02, 15:46 |  [maylea](http://wowmb.net/forums/members/maylea/)  
+|  [No Ulduar attunement! Cyborg...](http://wowmb.net/forums/f71/32535-no_ulduar_attunement_cyborg_machines/) |  19-02  
 ---|---  
- [Patch 3.0.8 Updates](http://wowmb.net/forums/f71/31356-patch_3_0_8_updates/) |  19-12  
- [New Talent Build sticky](http://wowmb.net/forums/f71/31354-new_talent_build_sticky/) |  19-12  
- [+Hit Guide Updated!](http://wowmb.net/forums/f71/31206-hit_guide_updated/) |  12-12  
- [Need help with your DPS?](http://wowmb.net/forums/f71/31201-need_help_your_dps/) |  12-12  
+ [Glyphs: Blizzard saying a lot...](http://wowmb.net/forums/f71/32534-glyphs_blizzard_saying_lot_little/) |  19-02  
+ [Ulduar Under Development](http://wowmb.net/forums/f71/32502-ulduar_under_development/) |  17-02  
+ [Blog Roll Tuesday!](http://wowmb.net/forums/f71/32492-blog_roll_tuesday/) |  17-02  
+ [More information on dual specs](http://wowmb.net/forums/f71/32488-more_information_dual_specs/) |  17-02  
 Latest Blog Entries  
-|  [Just My Luck](http://wowmb.net/forums/blogs/zelyndar/203-just_my_luck.html) | [Zelyndar](http://wowmb.net/forums/members/zelyndar/)  
+|  [Raiding with non raiders!!!](http://wowmb.net/forums/blogs/darksumone/280-raiding_non_raiders.html) | [Darksumone](http://wowmb.net/forums/members/darksumone/)  
 ---|---  
- [Have Yourself a Comcastic...](http://wowmb.net/forums/blogs/zelyndar/202-have_yourself_comcastic_christmas.html) | [Zelyndar](http://wowmb.net/forums/members/zelyndar/)  
- [We built this warlock on...](http://wowmb.net/forums/blogs/silbuns/201-we_built_warlock_haunt_ruin.html) | [Silbuns](http://wowmb.net/forums/members/silbuns/)  
- [A Brief History of Silbuns in...](http://wowmb.net/forums/blogs/silbuns/200-brief_history_silbuns_outlands_2006_2008.html) | [Silbuns](http://wowmb.net/forums/members/silbuns/)  
- [A Brief History of Silbuns in...](http://wowmb.net/forums/blogs/silbuns/199-brief_history_silbuns_azeroth_2005_2006.html) | [Silbuns](http://wowmb.net/forums/members/silbuns/)  
+ [What an amazing day!](http://wowmb.net/forums/blogs/saobuks/283-what_amazing_day.html) | [Saobuks](http://wowmb.net/forums/members/saobuks/)  
+ [So close...](http://wowmb.net/forums/blogs/saobuks/282-so_close.html) | [Saobuks](http://wowmb.net/forums/members/saobuks/)  
+ [On Raid Leading](http://wowmb.net/forums/blogs/kiralyn/281-raid_leading.html) | [Kiralyn](http://wowmb.net/forums/members/kiralyn/)  
+ [Love is in the Air](http://wowmb.net/forums/blogs/warpy/279-love_air.html) | [Warpy](http://wowmb.net/forums/members/warpy/)  
   
 [](http://feeds.feedburner.com/TheWarlocksDen) [RSS Feed](http://feeds.feedburner.com/TheWarlocksDen)
 
