@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bannerflow.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221230053id_/http%3A//www.bannerflow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannerflow.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221194644id_/http%3A//www.bannerflow.com/privacy) for the most accurate reproduction.*
 
 # Bannerflow - Privacy Policy
 
