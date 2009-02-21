@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the paulallen.com privacy policy that was archived on 2008-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080907053928id_/http%3A//www.paulallen.com/Template2.aspx%3FcontentId%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulallen.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221143428id_/http%3A//www.paulallen.com/TemplateGeneric.aspx%3FcontentId%3D11) for the most accurate reproduction.*
 
 # PaulAllen.com
 
-PRIVACY POLICY
-
+  
 This Privacy Policy discloses the online privacy practices for Vulcan Inc. and its affiliates (collectively, "Vulcan") and applies to the information we collect through www.paulallen.com (the "Site"). By accessing and/or using the Site, you are consenting to the collection, storage, and disclosure of data as described in this Privacy Policy. 
 
 Vulcan reserves the right, at any time, to modify, alter, update, or remove portions of this Privacy Policy. We will post any changes to this Policy on this page so you can readily review the most current version. We will alert you that changes have been made by indicating on the bottom of this Privacy Policy the date it was last updated. 
@@ -19,7 +18,7 @@ Most browsers are set up to accept cookies, but you can usually change your brow
 **Use of Submission Information**  
 As stated in our Terms of Use, we do not accept requests for information or funding through the Site. All or any part of the information collected or submitted through the Site (including, without limitation, information regarding funding requests, requests for information or updates, feedback regarding the Site, or any personal information you provide) is referred to in this Privacy Policy as "Submission Information." 
 
-As described in our [Terms of Use](https://web.archive.org/Template2.aspx?contentId=12), Vulcan does not accept or collect Submission Information on a confidential or proprietary basis. Consequently, we are free to use Submission Information for any purpose whatsoever. 
+As described in our [Terms of Use](https://web.archive.org/TemplateGeneric.aspx?contentId=12), Vulcan does not accept or collect Submission Information on a confidential or proprietary basis. Consequently, we are free to use Submission Information for any purpose whatsoever. 
 
 **Disclosures to Third Parties**  
 Because Vulcan does not accept or collect Submission Information on a confidential or proprietary basis, from time to time Vulcan may disclose your Submission Information to third parties, including, without limitation, other potential investors, our consultants, our representatives, our affiliated companies and others. 
