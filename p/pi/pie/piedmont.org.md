@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piedmont.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216033852id_/http%3A//www.piedmont.org/oth/Page.asp%3FPageID%3DOTH000012) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piedmont.org privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221174705id_/http%3A//piedmont.org/oth/Page.asp%3FPageID%3DOTH000012) for the most accurate reproduction.*
 
 # Piedmont Healthcare - Our Privacy Policy
 
