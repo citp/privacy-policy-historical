@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the avangate.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213222710id_/http%3A//www.avangate.com/online-payment-solutions/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avangate.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221091651id_/http%3A//www.avangate.com/online-payment-solutions/privacy.php) for the most accurate reproduction.*
 
 # Avangate.com - Security & Privacy
 
+[Home](http://www.avangate.com/online-payment-solutions/) / Privacy Policy 
+
 ### Privacy Policy
 
-Version: October 18, 2006
+Last update: February, 2008
 
 BEFORE SUBMITTING YOUR PERSONAL DATA PLEASE REVIEW THE FOLLOWING.
 
-This website is owned and operated by Avangate BV, Van Heuven Goedhartlaan 937, 1181LD Amstelveen, Amsterdam Metropolitan Area, The Netherlands.
+This website is owned and operated by Avangate .
 
 **PURPOSE**
 
@@ -48,9 +50,11 @@ Avangate is using your personal data in order:
   * To maintain and improve the security of the Services;
   * To permit access to restricted areas of the Sites.
 
-Some data such as the types of services used and how many users we receive daily may be used by Avangate for statistical, marketing or promotional purposes. This kind of information is collected in aggregate/statistical form, without identifying any user individually. 
 
-**Protection of personal data**  
+
+Some data such as the types of services used and how many users we receive daily may be used by Avangate for statistical, marketing or promotional purposes. This kind of information is collected in aggregate/statistical form, without identifying any user individually.
+
+ **Protection of personal data**  
 Your personal data provided to Avangate when you are shopping on our site, with the exception of credit card details, is collected and stored on a secure server (SSL - Secure Socket Layers), using a digital certificate issued by Verisign and also a firewall. Such secure servers make almost impossible any attempt of third parties to access and/or use your personal data without authorization. 
 
 **Sharing personal data**  
@@ -73,20 +77,4 @@ Avangate reserves the right to change the Privacy Policy from time to time and w
 
 **APPLICABLE LAW**
 
-The present Privacy Policy and/or any dispute that might arise between Avangate and/or its affiliates and you are governed by the applicable law of the Avangate headquarter. All the disputes will be handled initially on an amiable basis and in the event that such a dispute cannot be closed the dispute shall be settled by the arbitration of the competent courts from the territorial jurisdiction of Avangate headquarter. 
-
-**CONTACT DATA**
-
-The present Privacy Policy and/or any dispute that might arise between Avangate and/or its affiliates and you are governed by the applicable law of the Avangate headquarter. All the disputes will be handled initially on an amiable basis and in the event that such a dispute cannot be closed the dispute shall be settled by the arbitration of the competent courts from the territorial jurisdiction of Avangate headquarter. 
-
-If you have questions and/or complaints regarding our Privacy Policy, please contact us at:  
-**Avangate B.V.**   
-Van Heuven Goedhartlaan 937,   
-1181 LD Amstelveen   
-Amsterdam Metropolitan Area   
-The Netherlands   
-Office: +31 20 890 8080   
-Hotline: +31 88 000 0008   
-Fax: +31 20 203 1309   
-Email: [info@avangate.com](mailto:info@avangate.com)   
-
+The present Privacy Policy and/or any dispute that might arise between Avangate and/or its affiliates and you are governed by the applicable law of the Avangate office. All the disputes will be handled initially on an amiable basis and in the event that such a dispute cannot be closed the dispute shall be settled by the arbitration of the competent courts from the territorial jurisdiction of Avangate office. 
