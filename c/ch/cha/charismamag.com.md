@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the charismamag.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219021849id_/http%3A//www.charismamag.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charismamag.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221171804id_/http%3A//www.charismamag.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Charisma Customer Service - Charisma Magazine - Proclaiming Jesus to the World
-
-## Privacy Policy
+# Privacy Policy
 
 At Strang Communications, we are committed to protecting your privacy. We use the information we collect about you to send you information about the latest products and services and to learn from you about new products and services that you would like us to provide. Please read on for more details about our privacy policy.
 
-### What information do we collect? How will we use it? 
+### What information do we collect? How will we use it?
 
 When you sign up for our newsletters, we need to know your e-mail address, first and last name. We gather this information only to get a better understanding of who you are and better serve you. We may use your name in order to personalize communications we have with you.
 
 When you sign up for a web-based (online) or print subscription online, we collect your name, address, phone number, payment information and e-mail address. This is done so we can send the issues to you by mail or grant you access to our online subscriber’s area.
 
-Us or our partners may also use the information collected to occasionally notify you about special promotions, events and products updates, services and special offers you may find valuable. You must "opt-in" at http://www.strang.com/account.php in order to receive this information via email from our partners, but you will always receive special promotions, events and products updates, services and special offers from us.
+Us or our partners may also use the information collected to occasionally notify you about special promotions, events and products updates, services and special offers you may find valuable. You must "opt-in" at <http://www.strang.com/account.php> in order to receive this information via email from our partners, but you will always receive special promotions, events and products updates, services and special offers from us.
 
 We do not sell your personal information to others. However, we do rent our customer list of subscribers from our print magazine versions and offer our email lists available to our partners of those subscribers who have "opt-in." We may provide aggregate statistics about our customers, traffic patterns, and related demographic information to our partners, but these statistics will include no personally identifying information.
 
@@ -46,7 +44,7 @@ The customer data we collect is protected against unauthorized access. Strang Co
 
 ### Children's Online Privacy Protection Act (COPPA)
 
-We care about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children:
+We care about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children: 
 
   1. We will NOT collect, use, or distribute to third parties personally identifiable information without prior verifiable parental consent.
   2. We will NOT give the child access to unmonitored chat rooms, message boards, email accounts, or other services that would give the child the ability to publicly post or otherwise distribute personally identifiable information without prior verifiable parental consent
