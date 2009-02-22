@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.ie privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223174710id_/http%3A//pages.ebay.ie/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.ie privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223005046id_/http%3A//pages.ebay.ie/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # eBay Privacy Policy
 
@@ -8,41 +8,11 @@ This policy tells you about how we use and protect your personal information. To
 
 **Contents**
 
-  * [Scope](http://pages.ebay.ie/help/policies/privacy-policy.html?_trksid=m40#Scope_new)
+  * 
 
+  * 
 
-
-  * [Controlling and Processing Parties](http://pages.ebay.ie/help/policies/privacy-policy.html?_trksid=m40#Controller_new)
-
-
-
-  * [Collection](http://pages.ebay.ie/help/policies/privacy-policy.html?_trksid=m40#Collection_new)
-
-  * [Marketing](http://pages.ebay.ie/help/policies/privacy-policy.html?_trksid=m40#Marketing_new)
-
-  * [Use ](http://pages.ebay.ie/help/policies/privacy-policy.html?_trksid=m40#Use_new)
-
-  * [Our Disclosure of Your Information ](http://pages.ebay.ie/help/policies/privacy-policy.html?_trksid=m40#Disclosure_new)
-
-  * [Information You Share on eBay](http://pages.ebay.ie/help/policies/privacy-policy.html?_trksid=m40#Share_new)
-
-  * [Using Information from eBay ](http://pages.ebay.ie/help/policies/privacy-policy.html?_trksid=m40#Using_new)
-
-  * [Cookies](http://pages.ebay.ie/help/policies/privacy-policy.html?_trksid=m40#Cookies_new)
-
-  * [No Spam, Spyware or Spoofing](http://pages.ebay.ie/help/policies/privacy-policy.html?_trksid=m40#Spam_new)
-
-  * [Account Protection](http://pages.ebay.ie/help/policies/privacy-policy.html?_trksid=m40#Protection_new)
-
-  * [Accessing, Reviewing and Changing Your Personal Information](http://pages.ebay.ie/help/policies/privacy-policy.html?_trksid=m40#Accessing_new)
-
-  * [Security](http://pages.ebay.ie/help/policies/privacy-policy.html?_trksid=m40#Security)
-
-  * [Third Parties](http://pages.ebay.ie/help/policies/privacy-policy.html?_trksid=m40#Third_new)
-
-  * [General](http://pages.ebay.ie/help/policies/privacy-policy.html?_trksid=m40#General_new)
-
-
+  *   *   *   *   *   *   *   *   *   *   *   *   * 
 
 
 ### Scope
@@ -249,33 +219,7 @@ We may amend this Privacy Policy at any time by posting the amended terms on thi
 
 **Contents**
 
-  * [ Scope](http://pages.ebay.ie/help/policies/privacy-policy.html#Scope)
-
-  * [Collection and Storage](http://pages.ebay.ie/help/policies/privacy-policy.html#Collection)
-
-  * [Marketing by Third Parties](http://pages.ebay.ie/help/policies/privacy-policy.html#Marketing)
-
-  * [Use by eBay](http://pages.ebay.ie/help/policies/privacy-policy.html#Use)
-
-  * [Our Disclosure of Your Information ](http://pages.ebay.ie/help/policies/privacy-policy.html#Disclosure)
-
-  * [Data Controller](http://pages.ebay.ie/help/policies/privacy-policy.html#Controller)
-
-  * [User IDs and eBay Activities ](http://pages.ebay.ie/help/policies/privacy-policy.html#Activity)
-
-  * [Cookies](http://pages.ebay.ie/help/policies/privacy-policy.html#Cookies)
-
-  * [Account Protection ](http://pages.ebay.ie/help/policies/privacy-policy.html#Protection)
-
-  * [Accessing, Reviewing and Changing Your Personal Information](http://pages.ebay.ie/help/policies/privacy-policy.html#Accessing)
-
-  * [Security](http://pages.ebay.ie/help/policies/privacy-policy.html#Security)
-
-  * [Third Parties](http://pages.ebay.ie/help/policies/privacy-policy.html#Third)
-
-  * [General](http://pages.ebay.ie/help/policies/privacy-policy.html#General)
-
-
+  *   *   *   *   *   *   *   *   *   *   *   *   * 
 
 
 ### Scope 
