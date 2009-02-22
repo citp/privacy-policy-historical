@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danielstrading.com privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120183954id_/http%3A//www.danielstrading.com/content/priv.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danielstrading.com privacy policy that was archived on 2009-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090222054912id_/http%3A//www.danielstrading.com/content/priv.php) for the most accurate reproduction.*
 
 # Privacy Policy | Daniels Trading
 
