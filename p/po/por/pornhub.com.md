@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornhub.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222142408id_/http%3A//www.pornhub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornhub.com privacy policy that was archived on 2009-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090222211248id_/http%3A//www.pornhub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Pornhub.com
 
