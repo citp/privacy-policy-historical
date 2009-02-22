@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purecostumes.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223130455id_/http%3A//www.purecostumes.com/costumes/store/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purecostumes.com privacy policy that was archived on 2009-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090222234458id_/http%3A//www.purecostumes.com/costumes/store/policy.asp) for the most accurate reproduction.*
 
 # Pure Costumes Privacy Policy Commitment - Costume Store
 
