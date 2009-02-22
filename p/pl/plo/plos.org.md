@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plos.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216030721id_/http%3A//www.plos.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plos.org privacy policy that was archived on 2009-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090222231551id_/http%3A//www.plos.org/privacy.html) for the most accurate reproduction.*
 
 # Public Library of Science: Privacy Statement
 
