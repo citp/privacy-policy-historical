@@ -1,40 +1,48 @@
-<!--The following is the downloaded HTML source of the medwow.com privacy policy that was archived on 2008-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080906202525id_/http%3A//www.medwow.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the medwow.com privacy policy that was archived on 2009-02-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090222105017id_/http%3A//www.medwow.com/view_content.php%3Fid%3D626) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<title>www.medwow.com</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="cache-control" content="public">
-<meta http-equiv="expires" content="0">
-<meta name="robots" content="all"> 
-<meta name="verify-v1" content="UUMx1oiESdT1zgrgy4/i3XbRTQfRGs8vQFLdr8FlU0w=">
-<link rel="alternate" type="application/rss+xml" title="MedWOW.com News" href="/news.php?actions=rss">
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="styles.css" type="text/css">
-<style type="text/css">
-#modal_container {
-    padding:0px;
-    background-color:#fff;
-    border:1px solid #666;
-    overflow:auto;
-    font-family:"Lucida Grande",Verdana;
-    font-size:12px;
-    color:#030303;
-    text-align:left;
-}
+	<title>www.medwow.com</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="Keywords" content="">
+	<meta name="Description" content="">
+	<meta http-equiv="cache-control" content="public">
+	<meta http-equiv="expires" content="0">
+	<meta name="robots" content="all"> 
+	<meta name="verify-v1" content="3cUXXz7y3YkbwpfPgpDO1nqVZbjMPndyw/sdRK/T78A=">
+	<link rel="alternate" type="application/rss+xml" title="MedWOW.com News" href="/news.php?actions=rss">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="stylesheet" href="gstyle.css" type="text/css">
+	<link rel="stylesheet" href="styles.css" type="text/css">
+	<style type="text/css">
+		#modal_container {
+		    padding:0px;
+		    background-color:#fff;
+		    border:1px solid #666;
+		    overflow:auto;
+		    font-family:"Lucida Grande",Verdana;
+		    font-size:12px;
+		    color:#030303;
+		    text-align:left;
+		}
+		
+		#modal_overlay {
+	    /*background-color:#fff;*/
+		}
 
-#modal_overlay {
-    /*background-color:#fff;*/
-}
-
-</style>
-<script type="text/javascript">
-var errorColor = "#E3F2D5";
+	</style>
+	<script type="text/javascript">
+	var errorColor = "#E3F2D5";
 
 
+function set_currency_ajax(after_request_actions, currency_id,UpdateSessionCurrency, stop) {
 
-function set_currency_ajax(after_request_actions, currency_id,UpdateSessionCurrency) {
-
+  if(stop == 1)
+  {
+    eval(after_request_actions);
+  }
+  if(stop == 0)
+  {
      after_request_actions = after_request_actions.replace(/\\'/g,'\'');
      after_request_actions = after_request_actions.replace(/\\"/g,'"');
      after_request_actions = after_request_actions.replace(/\\\\/g,'\\');
@@ -42,7 +50,7 @@ function set_currency_ajax(after_request_actions, currency_id,UpdateSessionCurre
      
 	if(confirm('Would you like the selected currency to become your default currency on all MedWOW pages?')) 
 	{ 
-		ajax = new Ajax.Request('shared_ajax_services.php?NODC=5731a042552a11df4f15c55937b99713&session_currency='+UpdateSessionCurrency+'&actions=set_default_currency&currency_id='+currency_id,{
+		ajax = new Ajax.Request('shared_ajax_services.php?NODC=ee588d99eaf34ac526c0d2c6982eccb3&session_currency='+UpdateSessionCurrency+'&actions=set_default_currency&currency_id='+currency_id,{
 			method:'get',
 			onSuccess: function(transport){
 				if(after_request_actions){
@@ -57,409 +65,369 @@ function set_currency_ajax(after_request_actions, currency_id,UpdateSessionCurre
 		eval(after_request_actions);
 		}
 	}
+  }
 }
-</script>
-<!--
-<script type="text/javascript" src="http://www.google.com/jsapi"></script>
-<script type="text/javascript">google.load("prototype", "1.6.0.2");</script>
--->
-<script type="text/javascript" src="/scripts/prototype.js"></script>
-<!--<script type="text/javascript" src="/scripts/control.modal.js"></script>-->
-<!--<script type="text/javascript" src="/scripts/window.js"></script>--> <!-- This library can replace overlib & modal -->
-<script type="text/javascript" src="/scripts/common.js"></script>
 
-<script type="text/javascript" src="/scripts/AC_ActiveX.js"></script>
-<script type="text/javascript" src="/scripts/AC_RunActiveContent.js"></script>
-
-<script type="text/javascript" src="/scripts/FormCheck_eng.js"></script>
-<script type="text/javascript" src="/scripts/SelectBoxFunctions.js"></script>
-
-<script type="text/javascript" src="/scripts/dateselect.js"></script></head><body><div id="calMain" class="cl_out" style="position:absolute; display:none; background-color:#dddddd;"><br></div>
-<script type="text/javascript" src="/scripts/overlib/overlib.js"><!-- overLIB (c) Erik Bosrup --></script>
-<script type="text/javascript" src="/scripts/jsvalidator.js"><!-- jsValidator By Amir Saleh--></script>
-<!--<script type="text/javascript"  src="/scripts/scriptaculous.js?load=slider"></script>-->
-
-<script type="text/javascript">
-
-function showHelpful(){
-
-	objHelpful = document.getElementById('id_helpful');
-	//alert(objHelpful);
-	if(objHelpful.style.display=='block'){
-		objHelpful.style.display='none';
-	}
-	else {
-		objHelpful.style.display='block';
-		document.forms['helpful'].why.focus();
-	}
-	return 0;
-}
-function checkSearch() {
-		if ($F('head_search_word').length < 2) {
-			alert ("Search string too short!");
-			return false;
+function set_language_ajax(language_id, language_origine_id) {
+  var message= "";
+  
+  if(language_origine_id == 1)
+  {
+	  if(confirm("Would you like the selected language to become your default language on all MedWOW pages?")) 
+	  { 
+	    ajax = new Ajax.Request('shared_ajax_services.php?NODC=dcff9e838b7e2db1c8aba9cc476ecd2b&actions=set_default_language&language_id='+language_id,{
+		method:'get',
+		onSuccess: function(transport){}
 		}
-	return true;
-}
+		)
+	  }
+  }
+  else
+  {
+  	  if(confirm("Would you like the selected language to become your default language on all MedWOW pages?\n\nWould you like the selected language to become your default language on all MedWOW pages?")) 
+	  { 
+	    ajax = new Ajax.Request('shared_ajax_services.php?NODC=dcff9e838b7e2db1c8aba9cc476ecd2b&actions=set_default_language&language_id='+language_id,{
+		method:'get',
+		onSuccess: function(transport){}
+		}
+		)
+	  }
+  }
+}	</script>
+	
+	<script type="text/javascript" src="/scripts/prototype.js"></script>
+	<script type="text/javascript" src="/scripts/common.js"></script>
+	<script type="text/javascript" src="/scripts/AC_ActiveX.js"></script>
+	<script type="text/javascript" src="/scripts/AC_RunActiveContent.js"></script>
+	<script type="text/javascript" src="/scripts/FormCheck_eng.js"></script>
+	<script type="text/javascript" src="/scripts/SelectBoxFunctions.js"></script>
+	<script type="text/javascript" src="/scripts/dateselect.js"></script><script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=8326867"></script></head><body><div id="calMain" class="cl_out" style="position:absolute; display:none; background-color:#dddddd;"><br></div>
+	<script type="text/javascript" src="/scripts/overlib/overlib.js"><!-- overLIB (c) Erik Bosrup --></script>
+	<script type="text/javascript" src="/scripts/jsvalidator.js"><!-- jsValidator By Amir Saleh--></script>
+    <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+    <script type="text/javascript">
 
-function change_lang(lang_id) {
-		document.location.href='/privacy.php?xlang='+lang_id;
-}
-</script>
-<!--Start MyMedWOW CSS-->
-<link rel="stylesheet" href="my_style_0.css" type="text/css">
-<!--End MyMedWOW CSS-->
+    google.load("language", "1");
+
+    function detect (text){
+		
+		google.language.detect(text, function(result) {  if (!result.error) {    var language = 'unknown';    for (l in google.language.Languages) {      if (google.language.Languages[l] == result.language) {        language = l;        break;      }    }    
+		return language }});    
+    }
+    function translate(text,parseto) {
+      google.language.translate(text, "", "en", function(result) {
+        if (!result.error) {
+			document.getElementById(parseto).innerHTML=result.translation;
+        }
+      });
+    }
+
+    </script>
+	<script type="text/javascript">
+		function showHelpful(){
+		
+			objHelpful = document.getElementById('id_helpful');
+			//alert(objHelpful);
+			if(objHelpful.style.display=='block'){
+				objHelpful.style.display='none';
+			}
+			else {
+				objHelpful.style.display='block';
+				document.forms['helpful'].why.focus();
+			}
+			return 0;
+		}
+		function checkSearch() {
+				if ($F('head_search_word').length < 2) {
+					alert ("Search string too short!");
+					return false;
+				}
+				$('search_form_div').hide()
+				$('searchin_animate').show()
+				var x=0;
+				var xlang=1;
+				var arr=new Array();
+				if(xlang>1){
+					arr[x++]='xlang='+xlang;
+				}
+				arr[x++]='searchstring='+$F('head_search_word');
+				location.href ='quick_search_v2.php?' +arr.join("&");
+		}
+	function change_lang(lang_url) {
+			var lngUrl=lang_url.split(",");
+			location.href=lngUrl[1];
+	}
+	</script>
+	<!--Start MyMedWOW CSS-->
+	<link rel="stylesheet" href="my_style_0.css" type="text/css">
+	<!--End MyMedWOW CSS-->
 
 
 
-<div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
-<a name="abs_top" id="abs_top"></a>
-<script type="text/javascript"> 
-function login_form()
-{
-	document.location.href="members.php?actions=login_form&url=/members.php?actions=login_form";
-}
+	<div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
+		<a name="abs_top" id="abs_top"></a>
+		<script type="text/javascript"> 
+			function login_form()
+			{
+				document.location.href="members.php?actions=login_form&url=/members.php?actions=login_form";
+			}
+			
+			function Register()
+			{
+				document.location.href="registration_v3.php";
+			}
+		</script>
+				<form name="currency_changer" id="currency_changer" method="POST">
+			<input type="hidden" name="get_currency">
+		</form>
+		<div id="main">
+			<table style="width:780px" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr class="print_hide">
+				<td style="height:41px">
+					<table border="0" cellspacing="0" cellpadding="0" class="menu_top" align="center">
+					<tbody><tr>
+						<!--Start Search--> 
+						<td style="padding-right:10px;">
+								<table border="0" cellspacing="0" cellpadding="0">
+								<tbody><tr>
+									<td><input type="text" id="head_search_word" name="searchstring" style="border: 1px solid #B8B8B8; width: 120px; height: 15px; " value="" onkeyup="stripHTML(this.value, this);" onkeypress="stripHTML(this.value, this);"></td>
+									<td style="padding-left:5px;">
+										<div id="search_form_div">
+											<button type="button" onclick="checkSearch();" id="go_button">Search</button>
+										</div>
+										<div id="searchin_animate" style="display:none;">
+											<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="https://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="69" height="19" id="btn1" align="middle">
+											<param name="allowScriptAccess" value="sameDomain">
+											<param name="movie" value="gfx/btn1.swf"><param name="quality" value="high"><param name="bgcolor" value="#ffffff"><embed src="gfx/btn1.swf" quality="high" bgcolor="#ffffff" width="69" height="19" name="btn1" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/go/getflashplayer">
+											</object>
+										</div>
+									</td>
+								</tr>
+								</tbody></table>
+						</td>
+						<td nowrap="nowrap"><a href="/browse.php?ViewType=1&amp;ItemType=1">Search Options</a></td>
+						<!--End Search--> 
+						<!--Start Login-->
+												<td style="text-align:right; width:100%;" nowrap="nowrap">
+												 	<a rel="nofollow" href="#" onclick="login_form();">Log In</a> &nbsp;|&nbsp; 
+						 	<a rel="nofollow" href="#" onclick="Register();">Register</a>
+												</td>
+						<!--End Login-->
+						<!--Start Languages-->
+						<td style="text-align:right; padding-left:10px;">
+									<script type="text/javascript">
+				document.write('<select name=\'language_select\' onchange=\'javascript:change_lang(this.options[this.selectedIndex].value);\'>\n<option value="1,/view_content.php?xlang=1&id=626" selected>English</option>\n<option value="4,/view_content.php?xlang=4&id=626" >Español</option>\n<option value="3,/view_content.php?xlang=3&id=626" >Русский</option>\n</select>\n')
+			</script><select name="language_select" onchange="javascript:change_lang(this.options[this.selectedIndex].value);">
+<option value="1,/view_content.php?xlang=1&amp;id=626" selected="">English</option>
+<option value="4,/view_content.php?xlang=4&amp;id=626">Español</option>
+<option value="3,/view_content.php?xlang=3&amp;id=626">Русский</option>
+</select>
 
-function Register()
-{
-	document.location.href="registration_v3.php";
-}
-</script>
-<form name="currency_changer" id="currency_changer" method="POST">
-<input type="hidden" name="get_currency">
-</form>
-<div id="main">
- <table style="width:780px" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr class="print_hide">
-		<td style="height:41px">
-		  <table border="0" cellspacing="0" cellpadding="0" class="menu_top" align="center">
-			<tbody><tr>
-			<!--Start Search--> 
-			  <td style="padding-right:10px;">
-					<form method="get" action="browse.php" name="quick_search_head" onsubmit="return checkSearch();">
-					<table border="0" cellspacing="0" cellpadding="0">
-						<tbody><tr>
-							<td><input type="text" id="head_search_word" name="searchstring" style="border: 1px solid #B8B8B8; width: 120px; height: 15px; " value=""></td>
-							<td style="padding-left:5px;">
-								<input type="hidden" name="search_form" value="search">
-								<input type="hidden" name="actions" value="quick_search">
-								<button type="submit" id="go_button">Search</button>
-							</td>
-						</tr>
+			<noscript>
+								<a href="/view_content.php?id=626">English</a>&nbsp;
+				<a href="/view_content.php?xlang=4&id=626">Español</a>&nbsp;
+				<a href="/view_content.php?xlang=3&id=626">Русский</a>
+			</noscript>
+									</td>
+						<!--End Languages-->
+					</tr>
 					</tbody></table>
-					</form>
-			  </td>
-			  <td nowrap="nowrap"><a href="browse.php">Search Options</a></td>
-			  <!--End Search--> 
-			  <!--Start Login-->
-			  
-			  <td style="text-align:right; width:100%;" nowrap="nowrap">
-			  
-				                        &nbsp;
-				 </td>
-				 
-				 <td style="text-align:right; width:100%;" nowrap="nowrap">
-		         				 	<a href="#" onclick="login_form();">Log In</a> &nbsp;|&nbsp; 
-				 	<a href="#" onclick="Register();">Register</a>
-				 				  </td>
-			  <!--End Login-->
-			  <!--Start Languages-->
-			  <td style="text-align:right; padding-left:10px;">
-				  <select name="language_select" onchange="change_lang(this.options[this.selectedIndex].value)">
-					<option value="1" selected="selected">English</option>
-					<option value="4">Español</option>
-									  </select>
-			  </td>
-			  <!--End Languages-->
+				</td>
 			</tr>
-		  </tbody></table>
-		</td>
-	</tr>
-	<tr class="print_hide">
-		<td style="height:122px; background-image:url(gfx/header_eng.gif)"> 
-		
-		  <table style="width:740px; height:122px" border="0" cellspacing="0" cellpadding="0" align="center">
-			<tbody><tr> 
-			  <td valign="top">
-			  	<div style="float:right;"><img src="gfx/spacer.gif" width="540" height="35" usemap="#map_header" border="0" alt=""></div>
-					<div style="clear:both;"></div>
-				<a id="logo" href="/"></a>
-				<h1 id="slogan">
-					Global On-Line Trading Arena<br>
-					for Pre-Owned Medical Devices
-				</h1>
-							  </td>
+			<tr class="print_hide">
+				<td style="height:122px; background-image:url(gfx/header_eng.gif)"> 
+					<table style="width:740px; height:122px" border="0" cellspacing="0" cellpadding="0" align="center">
+					<tbody><tr> 
+						<td valign="top">
+						<div style="float:right;"><img src="gfx/spacer.gif" width="540" height="35" usemap="#map_header" border="0" alt=""></div>
+						<div style="clear:both;"></div>
+						<a id="logo" href="/"></a>
+						<h1 id="slogan">
+							Global On-Line Trading Arena<br>
+							for Pre-Owned Medical Devices
+						</h1>
+												</td>
+					</tr>
+					<tr> 
+						<td class="menu_sub">
+						
+							<a id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/8326867/?cmd=file&amp;file=visitorWantsToChat&amp;site=8326867&amp;byhref=1&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a" target="chat8326867" onclick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/8326867/?cmd=file&amp;file=visitorWantsToChat&amp;site=8326867&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat8326867','width=475,height=400,resizable=yes');return false;">
+							<img src="gfx/live_support1.png" align="absmiddle" border="0">&nbsp;Live Support
+							</a>&nbsp;|&nbsp;
+							<!--			
+							
+							<a id="_lpChatBtn" href='https://server.iad.liveperson.net/hc/8326867/?cmd=file&file=visitorWantsToChat&site=8326867&byhref=1&SESSIONVAR!skill=MedWOW%20English&imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a' target='chat8326867'  onClick="javascript:window.open('https://server.iad.liveperson.net/hc/8326867/?cmd=file&file=visitorWantsToChat&site=8326867&SESSIONVAR!skill=MedWOW%20English&imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a&referrer='+escape(document.location),'chat8326867','width=475,height=400,resizable=yes');return false;" >
+							<img src="gfx/live_support1.png" align="absmiddle" border="0" />&nbsp;Live Support</a> &nbsp;|&nbsp;
+							-->			  	
+							<a href="help.php">Help</a> &nbsp;|&nbsp; 
+							<a href="faq.php">FAQs</a> &nbsp;|&nbsp; 
+														<a rel="nofollow" href="contact.php">Contact Us</a>
+						</td>
+					</tr>
+					</tbody></table>
+				</td>
 			</tr>
-			<tr> 
-			  <td class="menu_sub">
-			  				   <a href="help.php">Help</a> &nbsp;|&nbsp; 
-			   <a href="faq.php">FAQs</a> &nbsp;|&nbsp; 
-			   			   <a href="contact.php">Contact Us</a></td>
-			</tr>
-		  </tbody></table>
-		 </td>
-	</tr>
-  <!--Start Banners-->
-    <!--End Banners-->
-	<tr>
-		<td class="content">
-			<div style="float:left;width:120px" class="screen_hide">
-				<img src="gfx/logo_print.gif" alt="">
-			</div>
-			<div style="float:left; padding-top:37px; font-weight:bold; color:#3EA7E9;" class="screen_hide">
-				Global On-Line Trading Arena<br>for Pre-Owned Medical Devices
-			</div>
-			<div style="clear:both" class="screen_hide"></div>
-		  <table style="width:100%; line-height: 18px; padding-bottom: 20px;" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr valign="top"> 
-			  			  	<td>
-			  		<div style="min-height:390px;">
-			  					  <!--End Header-->
-			  <!--Start Content-->
-			  <div id="print_version"><div class="path"><a href="/">Home</a> &nbsp;/</div>
-<div style="float:left;width:150px;height:25px">
-	<h1>Privacy Policy</h1>
-</div>
-<div style="float:right;width:150px" align="right">
-	<button type="button" class="butons" onclick="pprint('privacy_police');">Print this page</button>
-</div>
-<div style="clear:both"></div>
-<div id="privacy_police">
-
-<div align="center"><span style="text-decoration: underline; font-weight: bold;">MedWOW.com - Privacy Policy</span></div>
+			<tr>
+				<td class="content">
+					<div style="float:left;width:120px" class="screen_hide">
+						<img src="gfx/logo_print.gif" alt="">
+					</div>
+					<div style="float:left; padding-top:37px; font-weight:bold; color:#3EA7E9;" class="screen_hide">
+						Global On-Line Trading Arena<br>for Pre-Owned Medical Devices
+					</div>
+					<div style="clear:both" class="screen_hide"></div>
+					<table style="width:100%; line-height: 18px; padding-bottom: 20px;" border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr valign="top"> 
+											<td>
+							<div style="min-height:390px;">
+												<!--End Header-->
+							<!--Start Content-->
+							<div id="print_version">
+<table width="100%"><tbody><tr><td width="90%" align="left">
+<h1>Privacy Policy</h1>
+</td><td width="10%" align="right">
+<img name="action_buttons" src="gfx/Print.png" border="0" onclick="javascript:pprint('div_view_content','Privacy Policy', '1');" style="cursor:pointer" align="absmiddle">
+</td></tr></tbody></table>
+<div id="div_view_content">
 
 
-<p align="justify" dir="ltr">We respect your privacy. This policy explains the accepted privacy practices for our website at <a href="http://www.medwow.com/" title="MedWOW site">http://www.medwow.com/</a> ("<span style="font-weight: bold;">MedWOW</span>"). It describes the ways we collect and use your personal information on MedWOW and the rights and options available to you with respect to your information. </p>
+<p dir="ltr" align="left">We respect your privacy. 
+	<ins cite="mailto:Shibolet" datetime="2008-08-13T14:35"></ins></p>
 
+<p dir="ltr" align="left">This policy explains the accepted privacy practices for our website at <a href="http://www.medwow.com/">http://www.medwow.com/</a> ("MedWOW"). It describes the ways we collect and use your personal information on MedWOW and the rights and options available to you with respect to your information. </p>
 
-<p align="justify" dir="ltr">This policy is a part of MedWOW's <a target="_blank" href="help.php?actions=show&amp;id=809">User Agreement</a> ("<span style="font-weight: bold;">User Agreement</span>"). By accepting the User Agreement, you agree to be bound by the terms of this policy, as well.</p>
+<div dir="ltr" align="left">This policy is incorporated to the MedWOW's User Agreement (the "User Agreement"). By accepting the User Agreement, you agree to be bound by the terms of this policy, as well.</div>
 
+<p dir="ltr" align="left">&nbsp;</p>
 
-<div align="justify"><span style="font-weight: bold;">Personal Information we collect </span></div>
+<h2>Personal Information we collect</h2>
 
+<p>When you register with MedWOW, list an item for sale, place an order or a bid offer, or use certain other services on MedWOW, we may ask you to provide us with personal details such as your name, e-mail address, telephone numbers and payment method details such as your credit card number. </p>
 
-<p align="justify" dir="ltr">When you register with MedWOW, list an item for sale, place an order or a bid offer, or use certain other services on MedWOW, we may ask you to provide us with personal details such as your name, e-mail address, telephone numbers and payment method details such as your credit card number. </p>
+<p dir="ltr" align="left">We may collect further information when you use MedWOW. For example, we may record the frequency and scope of your use of the Services, the duration of your sessions, the web pages that you visit, information that you read, details of transactions that you make, content that you use or create, advertisements that you view or click on, your communications with other users and third parties on MedWOW, the Internet protocol (IP) address that serves you to access MedWOW, or any of the services therein, and the geographic location of computer system that you are using to log-in on MedWOW. </p>
 
+<p dir="ltr" align="left">We automatically gather this information, through the use of log files. If you are registered with MedWOW, the information we gather may be anonymous or in some instances personally identifiable. If you are not a registered user, than we will not knowingly make use of any information which personally identifies you. </p>
 
-<p align="justify" dir="ltr">We may collect further information when you use MedWOW. For example, we may record the frequency and scope of your use of the Services, the duration of your sessions, the web pages that you visit, information that you read, details of transactions that you make, content that you use or create, advertisements that you view or click on, your communications with other users and third parties on MedWOW, the Internet protocol (IP) address that serves you to access MedWOW, or any of the services therein, and the geographic location of computer system that you are using to log-in on MedWOW. </p>
+<p dir="ltr" align="left">Further information may be collected when we exchange communications with you, for example, if you submit a request to our customer support, or when our designated Copyright Agent is in contact with you regarding your content on MedWOW.</p>
 
+<p dir="ltr" align="left">&nbsp;</p>
 
-<p align="justify" dir="ltr">We automatically gather this information, through the use of log files. If you are registered with MedWOW, the information we gather may be anonymous or in some instances personally identifiable. If you are not a registered user, than we will not knowingly make use of any information which personally identifies you. </p>
+<h2>What do we do with your personally identifiable information?</h2>
 
+<p>We will use personally identifiable information for the following purposes only:</p>
 
-<p align="justify" dir="ltr">Further information may be collected when we exchange communications with you, for example, if you submit a request to our customer support, or when our designated Copyright Agent is in contact with you regarding your content on MedWOW. </p>
+<p dir="ltr" align="left">- to enable you to use MedWOW and to provide you with the services on MedWOW; </p>
 
+<p dir="ltr" align="left">- to improve and customize our services on MedWOW; </p>
 
-<p align="justify" dir="ltr"><span style="font-weight: bold;">What do we do with your personally identifiable information?</span></p>
+<p dir="ltr" align="left">- to provide you with support, handle complaints and collect fees;</p>
 
+<p dir="ltr" align="left">- to send you updates and notices and to provide you with information pertaining to the services on MedWOW and our services elsewhere. At any time you may request to opt out of our mailing lists, by sending our customer support services a notification to: Info@medwow.com, or by changing "my preferences" in "My MedWOW".</p>
 
-<p align="justify" dir="ltr">We will use personally identifiable information for the following purposes only:</p>
+<p dir="ltr" align="left">- to handle, maintain and manage the online sale of items on MedWOW, including any transfer of personal details between buyers and sellers;</p>
 
+<p dir="ltr" align="left">- to post your content on MedWOW and to facilitate communication between you and us, and between you and other users;</p>
 
-<ul>
+<p dir="ltr" align="left">- to enforce MedWOW's Terms of Use; </p>
+
+<p dir="ltr" align="left">- to contact you as and when we believe it to be necessary;</p>
+
+<p dir="ltr" align="left">- to comply with any applicable law and assist law enforcement agencies under any applicable law:</p>
+
+<p dir="ltr" align="left">- to collect fees and debts, and to prevent fraud, misappropriation, infringements, identity thefts and any other misuse of MedWOW; </p>
+
+<p dir="ltr" align="left">- to take any action in any case of dispute, or legal proceeding of any kind between you and us, or between you and other users or third parties with respect to, or in relation with MedWOW; </p>
+
+<p dir="ltr" align="left">- to send you, from time to time, marketing and advertising material, whether ours or others'. We will not send you third parties' marketing and advertising material without your express consent. You may withdraw your consent at any time and cease receiving material of this kind, by sending our customer support services a notification to: info@medwow.com or by changing "my preferences" in "My MedWOW".</p>
+
+<p dir="ltr" align="left">- In any case, we will not share your personal identifiable details with any advertisers, without your explicit consent; </p>
+
+<div dir="ltr" align="left">- to any other purpose, as stipulated in this Policy, or in MedWOW's User Agreement, or permitted by law.</div>
+
+<div dir="ltr" align="left">&nbsp;</div>
+
+<p dir="ltr" align="left">&nbsp;</p>
+
+<h2>How do we use aggregated information?</h2>
+
+<p>We may use anonymous, statistical and aggregated information on MedWOW, including posting, disseminating, transmitting or otherwise communicating or making available such information through MedWOW, or to users on MedWOW, or to our suppliers, partners and any other third party, at our sole discretion, provided however, that such information does not identify you personally and we would not knowingly, or intentionally use such information to reveal your identity without your consent, under the terms of this policy. </p>
+
+<p dir="ltr" align="left">We may also use such information for the proper operation and function of MedWOW, to improve the quality of the services on MedWOW, to enhance your experience, to create new services, including customized services, to change or cancel existing content or services and for further internal and statistical purposes.</p>
+
+<p dir="ltr" align="left">&nbsp;</p>
+
+<h2>Sharing information with others</h2>
+
+<p>We do not sell, rent or lease your personally identifiable information to third parties for any of their marketing purposes. </p>
+
+<p dir="ltr" align="left">We may share personally identifiable information with others in any of the following instances, or subject to your explicit consent: </p>
+
+<ul type="disc">
 	
-
-	<li style="margin-right: 0px;">to enable you to use MedWOW and to provide you with the services on MedWOW; </li>
+<li dir="ltr">When you list items for sale or place purchase orders or bid offers, or use any other services on MedWOW, or when you take part in any content-related activity, or request for a third party's service through MedWOW, or when you use such service. In these cases, we will share your information only to the extent required to facilitate your use of the services; </li>
 	
-
-	<li>
-		
-
-		<div align="justify">to improve and customize our services on MedWOW; </div></li>
+<li dir="ltr">If we reasonably believe that you have breached MedWOW's User Agreement, or abused your rights to use MedWOW, or performed any act or omission that we reasonably believe to be violating any applicable law, rules, or regulations. We may share your information in these cases, with law enforcement and other competent authorities and with any third party, as may be required to handle any result of your wrongdoing; </li>
 	
-
-	<li>
-		
-
-		<div align="justify">to provide you with support, handle complaints and collect fees;</div></li>
+<li dir="ltr">If we are required, or reasonably believe that we are required by law to share or disclose your information; </li>
 	
-
-	<li>
-		
-
-		<div align="justify">to send you updates and notices and to provide you with information pertaining to the services on MedWOW and our services elsewhere. At any time you may request to opt out of our mailing lists, by sending our customer support services a notification to: Info@medwow.com, or by changing "my preferences" in "My MedWOW".</div></li>
+<li dir="ltr">In any case of dispute, or legal proceeding of any kind between you and us, or between you and other users or third parties with respect to, or in relation with MedWOW; </li>
 	
-
-	<li>
-		
-
-		<div align="justify">to handle, maintain and manage the online sale of items on MedWOW, including any transfer of personal details between buyers and sellers;</div></li>
+<li dir="ltr">In any case where we may reasonably believe that sharing information is necessary to prevent imminent physical damage or damage to property; </li>
 	
-
-	<li>
-		
-
-		<div align="justify">to post your content on MedWOW and to facilitate communication between you and us, and between you and other users;</div></li>
+<li dir="ltr">If we organize the operation of MedWOW within a different framework, or through another legal structure or entity, or if we are acquired by, or merged with another entity, provided however, that those entities agree to be bound by the provisions of this policy, with respective changes taken into consideration; </li>
 	
-
-	<li>
-		
-
-		<div align="justify">to enforce MedWOW's Terms of Use; </div></li>
-	
-
-	<li>
-		
-
-		<div align="justify">to contact you as and when we believe it to be necessary;</div></li>
-	
-
-	<li>
-		
-
-		<div align="justify">to comply with any applicable law and assist law enforcement agencies under any applicable law:</div></li>
-	
-
-	<li>
-		
-
-		<div align="justify">to collect fees and debts, and to prevent fraud, misappropriation, infringements, identity thefts and any other misuse of MedWOW; </div></li>
-	
-
-	<li>
-		
-
-		<div align="justify">to take any action in any case of dispute, or legal proceeding of any kind between you and us, or between you and other users or third parties with respect to, or in relation with MedWOW; </div></li>
-	
-
-	<li>
-		
-
-		<div align="justify">to send you, from time to time, marketing and advertising material, whether ours or others'. We will not send you third parties' marketing and advertising material without your express consent. You may withdraw your consent at any time and cease receiving material of this kind, by sending our customer support services a notification to:info@medwow.com or by changing "my preferences" in "My MedWOW".</div></li>
-	
-
-	<li>
-		
-
-		<div align="justify">In any case, we will not share your personal identifiable details with any advertisers, without your explicit consent; </div></li>
-	
-
-	<li style="margin-right: 0px;" dir="ltr">to any other purpose, as stipulated in this Policy, or in MedWOW's User Agreement, or permitted by law. </li>
-
+<li dir="ltr">We may also share personally identifiable information with companies or organizations connected, or affiliated with us, such as subsidiaries and sister-companies and parent companies, with the express provision that their use of such information must comply with this policy. </li>
 </ul>
 
+<p dir="ltr" align="left">&nbsp;</p>
 
-<p align="justify" dir="ltr"><span style="font-weight: bold;">How do we use aggregated information?</span></p>
+<h2>Accessing your personal information on MedWOW</h2>
 
+<p>At any time you may access your account on MedWOW and edit, or amend your personal information. If you find that the information on your account is not accurate, complete or updated, than you must make all necessary changes to correct it. Please keep in mind that false, incorrect, or out dated information may prevent you from registering with MedWOW and impair our ability to provide you with services and to contact you.</p>
 
-<p align="justify" dir="ltr">We may use anonymous, statistical and aggregated information on MedWOW, including posting, disseminating, transmitting or otherwise communicating or making available such information through MedWOW, or to users on MedWOW, or to our suppliers, partners and any other third party, at our sole discretion, provided however, that such information does not identify you personally and we would not knowingly, or intentionally use such information to reveal your identity without your consent, under the terms of this policy. </p>
+<p dir="ltr" align="left">You are entitled, no more than twice a year, whether by yourself or through a duly authorized proxy, or a legal guardian, and at your own expense, to access your personally identifiable information on MedWOW's databases. If you find that the information is not accurate, complete or updated, then you may request to correct, amend or delete such information. We may refuse to comply with your request for various reasons, for example, if we think that deleting certain information might prevent us from maintaining necessary contact with you, or jeopardize certain activities on MedWOW, or harm other users. In any case, we will inform you whether we would comply or refuse to your request.</p>
 
+<p dir="ltr" align="left">Prior to accessing personal information on behalf of another person, we may ask you to provide us with a written and duly signed power of attorney, specifically confirming that you are authorized by the personal information's subject, or the subject's legal guardian, to access the information and edit, or amend it. You agree that we may deny you access, if you fail to provide us with the necessary power of attorney.</p>
 
-<p align="justify" dir="ltr">We may also use such information for the proper operation and function of MedWOW, to improve the quality of the services on MedWOW, to enhance your experience, to create new services, including customized services, to change or cancel existing content or services and for further internal and statistical purposes. </p>
+<p dir="ltr" align="left">&nbsp;</p>
 
+<h2>Data retention</h2>
 
-<p align="justify" dir="ltr"><span style="font-weight: bold;">Sharing information with others</span></p>
+<p>We reserve the right at all times to review, retain and/or disclose any information as we deem necessary to satisfy any applicable law, regulation, legal process or governmental request.</p>
 
+<p dir="ltr" align="left">&nbsp;</p>
 
-<p align="justify" dir="ltr">We do not sell, rent or lease your personally identifiable information to third parties for any of their marketing purposes. </p>
+<h2>Cookies</h2>
 
+<p>We may use cookies on MedWOW. Cookies are packets of information sent by our servers to your web browser and then sent back by the browser each time it accesses our servers. </p>
 
-<p align="justify" dir="ltr">We may share personally identifiable information with others in any of the following instances, or subject to your explicit consent: </p>
+<p dir="ltr" align="left">The cookies may contain a variety of information, such as the MedWOW's pages you have accessed, session durations and IP addresses. We may also use cookies to save you the need to re-enter your user name and password each time you log-in on MedWOW. </p>
 
+<p dir="ltr" align="left">We may use cookies for various purposes, such as to facilitate the use of services on MedWOW, to collect statistical information with respect to the use of MedWOW, to verify information, to customize services on MedWOW to your personal preferences and for information security purposes. </p>
 
-<ul dir="ltr">
-	
+<p dir="ltr" align="left">Some of the Cookies may expire when the session ends and you exit your browser. Other cookies are saved on your computer's hard drive. If you wish to block our cookies, then please use the help button and follow the necessary instructions. However, bear in mind that disabling cookies may complicate or even prevent your use of MedWOW, or certain features thereof.</p>
 
-	<li>
-		
+<p dir="ltr" align="left">&nbsp;</p>
 
-		<div align="justify" style="margin-right: 0px;">When you list items for sale or place purchase orders or bid offers, or use any other services on MedWOW, or when you take part in any content-related activity, or request for a third party's service through MedWOW, or when you use such service. In these cases, we will share your information only to the extent required to facilitate your use of the services; </div></li>
-	
+<h2>Information Security</h2>
 
-	<li dir="ltr">
-		
+<p>We implement systems, applications and procedures to secure your personal information, to minimize the risks of theft, damage, loss of information, or unauthorized access or use of information. However, these measures are unable to provide absolute assurance. Therefore, although we take great efforts to protect your privacy, we do not guarantee and you cannot reasonably expect that MedWOW and our databases will be immune from any wrongdoings, malfunctions, unlawful interceptions or access, or other kinds of abuse and misuse, or that your private communications on or through MedWOW will remain private.</p>
 
-		<div align="justify">If we reasonably believe that you have breached MedWOW's User Agreement, or abused your rights to use MedWOW, or performed any act or omission that we reasonably believe to be violating any applicable law, rules, or regulations. We may share your information in these cases, with law enforcement and other competent authorities and with any third party, as may be required to handle any result of your wrongdoing; </div></li>
-	
+<p dir="ltr" align="left">&nbsp;</p>
 
-	<li dir="ltr">
-		
+<h2>Changes to this Policy</h2>
 
-		<div align="justify">If we are required, or reasonably believe that we are required by law to share or disclose your information; </div></li>
-	
+<p>We may change and update the terms of this Policy from time to time. We therefore recommend that you read it periodically. All substantial changes that we make to this Policy will be notified on MedWOW and take effect 30 days following their initial posting.</p>
 
-	<li dir="ltr">
-		
+<p dir="ltr" align="left">&nbsp;</p>
 
-		<div align="justify">In any case of dispute, or legal proceeding of any kind between you and us, or between you and other users or third parties with respect to, or in relation with MedWOW; </div></li>
-	
+<h2>Contact us</h2>
 
-	<li dir="ltr">
-		
+<div>You may send us requests, responses, questions and complaints, by using the <a href="http://www.medwow.com/contact.php">'contact us'</a> form on MedWOW, or by contacting us at <a href="mailto:service@medwow.com">service@medwow.com</a>.</div>
 
-		<div align="justify">In any case where we may reasonably believe that sharing information is necessary to prevent imminent physical damage or damage to property; </div></li>
-	
-
-	<li dir="ltr">
-		
-
-		<div align="justify">If we organize the operation of MedWOW within a different framework, or through another legal structure or entity, or if we are acquired by, or merged with another entity, provided however, that those entities agree to be bound by the provisions of this policy, with respective changes taken into consideration; </div></li>
-	
-
-	<li dir="ltr">
-		
-
-		<div align="justify">We may also share personally identifiable information with companies or organizations connected, or affiliated with us, such as subsidiaries and sister-companies and parent companies, with the express provision that their use of such information must comply with this policy.</div></li>
-
-</ul>
-
-
-<div align="justify"><span style="font-weight: bold;">Accessing your personal information on MedWOW </span></div>
-
-
-<p align="justify" dir="ltr">At any time you may access your account on MedWOW and edit, or amend your personal information. If you find that the information on your account is not accurate, complete or updated, than you must make all necessary changes to correct it. Please keep in mind that false, incorrect, or out dated information may prevent you from registering with MedWOW and impair our ability to provide you with services and to contact you.</p>
-
-
-<p align="justify" dir="ltr">(Optional ? required under EU and Israeli laws, but not under US laws) You are entitled, no more than twice a year, whether by yourself or through a duly authorized proxy, or a legal guardian, and at your own expense, to access your personally identifiable information on MedWOW's databases. If you find that the information is not accurate, complete or updated, then you may request to correct, amend or delete such information. We may refuse to comply with your request for various reasons, for example, if we think that deleting certain information might prevent us from maintaining necessary contact with you, or jeopardize certain activities on MedWOW, or harm other users. In any case, we will inform you whether we would comply or refuse to your request.</p>
-
-
-<p align="justify" dir="ltr">Prior to accessing personal information on behalf of another person, we may ask you to provide us with a written and duly signed power of attorney, specifically confirming that you are authorized by the personal information's subject, or the subject's legal guardian, to access the information and edit, or amend it. You agree that we may deny you access, if you fail to provide us with the necessary power of attorney. </p>
-
-
-<p align="justify" dir="ltr"><span style="font-weight: bold;">Data retention</span></p>
-
-
-<p align="justify" dir="ltr">We reserve the right at all times to review, retain and/or disclose any information as we deem necessary to satisfy any applicable law, regulation, legal process or governmental request.<span style="font-weight: bold;"></span></p>
-
-
-<p align="justify" dir="ltr"><span style="font-weight: bold;">Cookies</span> </p>
-
-
-<p align="justify" dir="ltr">We may use cookies on MedWOW. Cookies are packets of information sent by our servers to your web browser and then sent back by the browser each time it accesses our servers. </p>
-
-
-<p align="justify" dir="ltr">The cookies may contain a variety of information, such as the MedWOW's pages you have accessed, session durations and IP addresses. We may also use cookies to save you the need to re-enter your user name and password each time you log-in on MedWOW. </p>
-
-
-<p align="justify" dir="ltr">We may use cookies for various purposes, such as to facilitate the use of services on MedWOW, to collect statistical information with respect to the use of MedWOW, to verify information, to customize services on MedWOW to your personal preferences and for information security purposes. </p>
-
-
-<p align="justify" dir="ltr">Some of the Cookies may expire when the session ends and you exit your browser. Other cookies are saved on your computer's hard drive. If you wish to block our cookies, then please use the help button and follow the necessary instructions. However, bear in mind that disabling cookies may complicate or even prevent your use of MedWOW, or certain features thereof. </p>
-
-
-<p align="justify" dir="ltr"><span style="font-weight: bold;">Advertising campaigns</span> (optional)</p>
-
-
-<p align="justify" dir="ltr">We may permit certain other companies to conduct advertising campaigns on MedWOW. The advertisements that you see when accessing MedWOW are redirected from the servers of those advertising companies. Some advertisers may use cookies on your computer. The cookies enable them to collect information about websites that you have accessed, advertisements posted on those sites and the advertisements that you have viewed. In this manner advertisers try to customize advertisements to your preferences. The advertisers' use of cookies is subject to their own privacy policies and not to this Policy. If you wish to study the privacy policies of those advertisers you should visit their websites, or contact them directly.</p>
-
-
-<p align="justify" dir="ltr"><span style="font-weight: bold;">Information Security</span></p>
-
-
-<p align="justify" dir="ltr">We implement systems, applications and procedures to secure your personal information, to minimize the risks of theft, damage, loss of information, or unauthorized access or use of information. However, these measures are unable to provide absolute assurance. Therefore, although we take great efforts to protect your privacy, we do not guarantee and you cannot reasonably expect that MedWOW and our databases will be immune from any wrongdoings, malfunctions, unlawful interceptions or access, or other kinds of abuse and misuse, or that your private communications on or through MedWOW will remain private. <span style="font-weight: bold;"></span></p>
-
-
-<p align="justify" dir="ltr"><span style="font-weight: bold;">Changes to this Privacy Policy</span></p>
-
-
-<p align="justify" dir="ltr">We may change and update the terms of this Policy from time to time. We therefore recommend that you read it periodically. All substantial changes that we make to this Policy will be notified on MedWOW and take effect 30 days following their initial posting.</p>
-
-
-<p align="justify" dir="ltr"><span style="font-weight: bold;">Contact us</span></p>
-
-
-<p align="justify" dir="ltr">You may send us requests, responses, questions and complaints, by using the <a target="_blank" href="contact.php">'contact us'</a> form on the MedWOW site or by contacting us at info@medwow.com.<br>
-	</p></div>			</div>
+<p dir="ltr">Copyright © 2008 MedWOW ltd. All rights reserved. 
+	<ins cite="mailto:Shibolet" datetime="2008-10-05T13:16"></ins></p></div>
+			</div>
 		</div>
 						</td>
 		</tr>
@@ -469,47 +437,54 @@ function Register()
 			<div style="margin-top: 20px; font-size:8pt; text-align:center;"><a onclick="return showHelpful();" class="help">Was this page helpful?</a></div>
 			<div align="center" id="id_helpful" style="display:none;">
 			<script language="javascript">
-var intervalID;
 	function validate_helpful_form(form_obj)
 	{	
 		var err = "";
-		if (form_obj.why.value.length < 2)
-			err = "Please supply the reason" + "\n";
-		
-		//if (!check_captcha_v2(form_obj.captcha1.value))
-		//	err += "The text below the picture doesn't match picture's text" + "\n";
+		if (form_obj.why.value.length < 2 || ((form_obj.helpful_country_code_telephone.value.length ==  0 && form_obj.helpful_area_code_telephone.value.length == 0 && form_obj.helpful_telephone.value.length == 0) && form_obj.helpful_email.value.length == 0))
+			err = "Please supply the reason and your Email or phone number." + "\n";
 			
 		if (err.length > 0)
 		{
-			alert (err);
-
-			// change the picture
-			var i = document.getElementById('captcha_captcha');
-			var s = i.src;
-			s = s + "&q";
-			i.src = s;
+			alert(err);
 		} else {
-			sendData()
-//			form_obj.submit();
+			var captcha_value=document.getElementById('captcha_helpful').value;
+			new Ajax.Request('wanted_item_ajax_handler.php',{
+			method:'post',
+			parameters: 'NODC=28b1ca56bda34c12f7c9b45437b625bf&actions=captchaCheck&captcha='+captcha_value,
+			onSuccess: function(transport){
+					if(transport.responseText!='SUCCESS'){
+						alert('Please enter the text appearing in the image.');
+					} else {
+						sendData()
+					}
+			}
+			}
+			)
 		}
 	}
+	
+	
 function sendData(){
 	var helpfulStatus = document.getElementById('yesChecked').checked; 
 	document.getElementById('viewer').style.display='';
-	document.getElementById('why').style.display='none';
+	//document.getElementById('why').style.display='none';
 	var why=document.getElementById('why').value;
 	var uri=document.getElementById('uri').value;
+	var helpful_email=document.getElementById('helpful_email').value;
+	var helpful_country_code_telephone=document.getElementById('helpful_country_code_telephone').value;
+	var helpful_area_code_telephone=document.getElementById('helpful_area_code_telephone').value;
+	var helpful_telephone=document.getElementById('helpful_telephone').value;
+	var captcha=document.getElementById('captcha_helpful').value;
+	
 	serialized_request=document.getElementById('serialized_request').value;
 	var isHelpful = (helpfulStatus)?1:0;
 
 	
 	new Ajax.Request('helpful_system.ctrl.php', {
 			method: 'get',
-			parameters: {why: why, uri: uri, serialized_request: serialized_request, isHelpful:isHelpful },
-			onFailure :function() {
-				alert('a problem occured while attempting to send your feedback to us, Please try again later');
-			},
-			onSuccess: function() {intervalID=setInterval("updateViewer()",1500);}
+			parameters: {why: escape(why), uri: uri, helpful_email: escape(helpful_email), helpful_country_code_telephone: escape(helpful_country_code_telephone), helpful_area_code_telephone: escape(helpful_area_code_telephone), helpful_telephone: escape(helpful_telephone), serialized_request: serialized_request, captcha: captcha, isHelpful:isHelpful },
+			onFailure :function() {},
+			onSuccess: function() {intervalID=setInterval("updateViewer()",1500); }
 	});
 	
 }
@@ -517,20 +492,26 @@ function sendData(){
 function updateViewer(){
 	clearInterval(intervalID);
 	alert('Thank you very much for sharing your opinion with us. We will review your comments shortly.');
-	$('viewer').update("<textarea name='why' id='why' style='width:460px; height:40px;'></textarea>");
+	//$('viewer').update("<textarea name='why' id='why' style='width:460px; height:40px;'></textarea>");
+	document.getElementById('viewer').style.display='none';
+	document.getElementById('why').innerHTML='';
 	$('id_helpful').style.display = 'none';
-	
-	
-	
 }
 
+function helpful_addslashes(str) 
+{
+	str=str.replace(/\'/g,'\\\'');
+	str=str.replace(/\"/g,'\\"');
+	str=str.replace(/\\/g,'\\\\');
+	str=str.replace(/\0/g,'\\0');
+	return str;
+}
 </script>
 <form name="helpful" method="POST" action="helpful_system.ctrl.php">
-<input type="hidden" name="res" id="res" value="0" onchange="DataArrived()">
 <input type="hidden" name="reg" value="1">
 <input type="hidden" name="actions" value="SaveData">
-<input type="hidden" id="uri" name="uri" value="/privacy.php">
-<input type="hidden" id="serialized_request" name="serialized_request" value="YTowOnt9">
+<input type="hidden" id="uri" name="uri" value="/view_content.php?id=626">
+<input type="hidden" id="serialized_request" name="serialized_request" value="YTo0OntzOjI6ImlkIjtzOjM6IjYyNiI7czo5OiJQSFBTRVNTSUQiO3M6MjY6InJwb2k2c2FiMzFkamZqYnMyOGQwdW04NHYyIjtzOjU6InhsYW5nIjtzOjE6IjEiO3M6OToiaW50VmlzaXRzIjtzOjE6IjEiO30=">
 
 <table border="0" cellpadding="0" cellspacing="0" style="background-color:#F2F2F2; margin-top:10px; width:500px;">
 	<tbody><tr>
@@ -550,16 +531,58 @@ function updateViewer(){
 				</tr>
 				<tr> 
 					<td style="padding-right:0px;">
-					<div align="left" id="viewer" style="width:460px;height:40px;display:none">
+					<div align="left" id="viewer" style="width:455px;height:40px;display:none">
 						Sending Data...
 					</div>
-					<textarea name="why" id="why" style="width:460px; height:40px;"></textarea>
+					<textarea name="why" id="why" style="width:455px; height:40px;" onkeyup="stripHTML(this.value, this);" onkeypress="stripHTML(this.value, this);"></textarea>
 					</td>
 				</tr>
+				<tr>
+					<td style="padding-right:0px;">
+						<table cellpadding="0" cellspacing="0" width="102%" style="margin-top:5px; font-size:8pt;">
+							<tbody><tr>
+								<td></td>
+								<td style="color:#3ea7e9;" align="left">Country code</td>
+								<td>&nbsp;&nbsp;&nbsp;</td>
+								<td style="color:#3ea7e9;" align="left">Area code</td>
+								<td>&nbsp;&nbsp;&nbsp;</td>
+								<td style="color:#3ea7e9;" align="left">Number</td>
+								</tr>
 								<tr>
+								<td>Telephone :  &nbsp;&nbsp;&nbsp;</td>
+								<td><input type="text" id="helpful_country_code_telephone" name="helpful_country_code_telephone" value="" style="width:80px;" onkeyup="stripHTML(this.value, this);" onkeypress="editKeyBoard(this,keybNumeric,event);"></td>
+								<td> - </td>
+								<td><input type="text" id="helpful_area_code_telephone" name="helpful_area_code_telephone" value="" style="width:60px;" onkeyup="stripHTML(this.value, this);" onkeypress="editKeyBoard(this,keybNumeric,event);"> </td>
+								<td> - </td>
+								<td><input type="text" id="helpful_telephone" name="helpful_telephone" value="" style="width:130px;" onkeyup="stripHTML(this.value, this);" onkeypress="editKeyBoard(this,keybNumeric,event);"></td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td style="padding-right:0px;" align="left">
+					Email : <input type="text" id="helpful_email" name="helpful_email" value="" style="width:88%;" onkeyup="stripHTML(this.value, this);" onkeypress="stripHTML(this.value, this);"> 
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2" width="100%" align="left">
+						Please enter the text appearing in the image into the text box, for verification :<br>
+						<table cellpadding="0" cellspacing="0" style="margin-top:10px;">
+						<tbody><tr>
+							<td>
+								<img src="_captcha_img.php?PHPSESSID=f0nopdetsjvqh2jcquv2pjq223" id="captcha_captcha" align="middle">
+							</td>
+							<td style="vertical-align:bottom">
+								<input id="captcha_helpful" type="text" name="captcha_helpful" value="" style="width:150px;" onkeyup="stripHTML(this.value, this);" onkeypress="stripHTML(this.value, this);"><br>
+							</td>
+						</tr>
+						</tbody></table>
+					</td> 
+				</tr>
+				<tr>
 					<td style="padding-bottom:0px; padding-right:0px; text-align:center;">
 					<input type="button" name="Submit2" value="Submit" class="buttons" onclick="validate_helpful_form(this.form);" style="width:80px;"> 
-					<input type="button" name="Cancel" value="Cancel" class="buttons" onclick="DataArrived();showHelpful();" style="width:80px;">
+					<input type="button" name="Cancel" value="Cancel" class="buttons" onclick="showHelpful();" style="width:80px;">
 					</td>
 									</tr>
 			</tbody></table>
@@ -578,8 +601,7 @@ function updateViewer(){
 		  <!--Start Footer-->
 		  </td>
                   </tr>
-
-		</tbody></table>
+        		</tbody></table>
 		</td>
 		</tr>
 		<tr class="print_hide">
@@ -590,46 +612,45 @@ function updateViewer(){
 				  	
 				  <div class="menu_bottom"><a href="/">Home</a> &nbsp;
 				  |&nbsp; <a href="about.php">About Us</a> &nbsp;
-				  |&nbsp; <a href="terms.php">User Agreement</a> &nbsp;
-				  |&nbsp; <a href="privacy.php">Privacy Policy</a> &nbsp;
+				  |&nbsp; <a rel="nofollow" href="view_content.php?id=622">User Agreement</a> &nbsp;
+				  |&nbsp; <a rel="nofollow" href="view_content.php?id=626">Privacy Policy</a> &nbsp;
 <!--				  |&nbsp; <a href="site_map.php">Site Map</a> &nbsp;-->
 				  |&nbsp; <a href="help.php">Help</a> &nbsp;
-				  |&nbsp; <a href="contact.php">Contact Us</a></div>
+				  |&nbsp; <a rel="nofollow" href="contact.php">Contact Us</a></div>
 				  <!--<div style="margin-top: 10px; margin-bottom: 7px"><a href="#" onClick="return showHelpful();">Was this page helpful?</a></div>
 				  <div align="center" id="id_helpful" style="display:none;">
 					  				  </div>
 				  -->
 				  	<div style="margin-top: 10px; margin-bottom: 7px">
-				  		Current MedWOW Time (GMT): <b>Saturday, September 06th 2008, 20:20</b> &nbsp;|&nbsp; © 2008 All Rights Reserved to <b>MedWOW Ltd.</b>
+				  		Current MedWOW Time (GMT): <b>Sunday, February 22nd 2009, 10:48</b> &nbsp;					</div>
+					Use of this website constitutes acceptance of the MedWOW <a rel="nofollow" href="view_content.php?id=622">User Agreement</a>&nbsp;and <a rel="nofollow" href="view_content.php?id=626">Privacy Policy</a>. 					<br><br>
+					<div style="width:680px;">
+					© 2009. All rights reserved, MedWOW Ltd. The leading global marketplace for used medical equipment, medical devices, medical equipment dealers, medical suppliers and companies, medical instruments auctions, offering comprehensive information and professional services for buying and selling secondhand medical devices, parts and accessories.
 					</div>
-					Use of this website constitutes acceptance of the MedWOW <a href="terms.php">User Agreement</a> and <a href="privacy.php">Privacy Policy</a>.
+
 			</td>
 		</tr>
 	</tbody></table>
 <map name="map_header" id="map_header"> 
-  <area shape="rect" coords="455,0,545,35" href="mymedwow.php" alt="My MedWOW" title="My MedWOW"> <!--My MedWOW-->
+  <area shape="rect" rel="nofollow" coords="455,0,545,35" href="mymedwow.php" alt="My MedWOW" title="My MedWOW"> <!--My MedWOW-->
   <area shape="rect" coords="365,0,455,35" href="services.php" alt="Services" title="Services"> <!--Services-->
     <!-- alexey changed link in next line <area shape="rect" coords="275,0,365,35" href="/sale_offer_mgr.php?actions=sale_form" alt="Sell" title="Sell"/> Sell--> 
-   <area shape="rect" coords="275,0,365,35" href="/sale_welcome.php" alt="Sell" title="Sell"> <!--Sell--> 
-  <area shape="rect" coords="185,0,275,35" href="/browse.php" alt="Buy" title="Buy"> <!--Browse--> 
+  <area shape="rect" coords="275,0,365,35" href="/sale_welcome.php" alt="Sell" title="Sell"> <!--Sell--> 
+  <area shape="rect" coords="185,0,275,35" href="/browse.php?ViewType=1&amp;ItemType=1" alt="Buy" title="Buy"> <!--Browse--> 
   <area shape="rect" coords="95,0,185,35" href="/" alt="Home" title="Home"> <!--Home-->
   </map>
 
 </div>
+<script language="JavaScript"><!--
+agent_dom = 24398001; //-->
+</script>
+<script language="JavaScript" src="http://stats.agentinteractive.com/stats.js" type="text/javascript"></script>
 
 
-	<!-- BEGIN Invitation Positioning  -->
-	<script language="javascript" type="text/javascript">
-	var lpPosY = 100;
-	</script>
-	<!-- END Invitation Positioning  -->
-	<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
-	<script language="javascript" src="https://server.iad.liveperson.net/hc/8326867/x.js?cmd=file&amp;file=chatScript3&amp;site=8326867&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
-	<!-- BEGIN Invitation Sound  -->
-	<script language="javascript" type="text/javascript">function lpShowTheImageHook() {var body = document.getElementsByTagName('body');var divE = document.createElement('bgsound');divE.id = 'lpInvitationSound';divE.style.position = 'absolute';divE.style.left = '0px';divE.style.top = '0px';divE.hidden = 'true';divE.src='https://server.iad.liveperson.net/hcp/Gallery/chime03.wav';divE.autostart='true';divE.loop='0';body[0].appendChild(divE);setTimeout("document.getElementsByTagName('body')[0].removeChild(document.getElementById('lpInvitationSound'))", 3000);lpOldShowTheImage();}
-	if (document.all && typeof(hcShowTheImage) != 'undefined') {lpOldShowTheImage = hcShowTheImage;hcShowTheImage = lpShowTheImageHook;}
-	</script>
-	<!-- END Invitation Sound  --> 
+	
+	
+<!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "8326867",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
+
 	
 	<!--BEGIN GOOGLE ANALYTICS CODE -->
 	<script type="text/javascript">
@@ -642,7 +663,10 @@ function updateViewer(){
 	pageTracker._trackPageview();
 	</script>
 	<!--END GOOGLE ANALYTICS CODE -->
-	
+	<div id="show" style="position:absolute;left:0;top:0;background-color:#ffff00;">
+</div>
+
+
 
 
 </body></html>
