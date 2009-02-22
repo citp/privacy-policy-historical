@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the my-wardrobe.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023915id_/http%3A//www.my-wardrobe.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-wardrobe.com privacy policy that was archived on 2009-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090222220634id_/http%3A//www.my-wardrobe.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy | my-wardrobe.com
+# Privacy Policy
 
 Meemi Ltd trading as www.my-wardrobe.com ("MW", "we", "our", "us") respect the privacy rights of its online visitors/customers ("you", "your", "yours") and recognise the importance of protecting the information collected about them. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). 
 
@@ -10,10 +10,10 @@ Please note that this policy applies to MW and/or its subsidiaries, but not to w
 
   
 All queries relating to any company policies should be sent to:  
-Meemi Ltd  
-Unit 2, Central Court  
-Finch Close  
-Nottingham, NG7 2NN  
+Meemi Ltd trading as my-wardrobe.com  
+32-34 Lenton Lane  
+Nottingham  
+NG7 2NR  
 Tel: 0845 260 3880 
 
   
@@ -39,7 +39,7 @@ A cookie is a piece of information that is stored by your computer's hard drive 
 
 ## Who do I contact if I have a complaint?
 
-Please go to the Contact Us section of the web site and send an email to [customerservices@my-wardrobe.com](https://web.archive.org/web/20081216023915id_/http%3A//www.my-wardrobe.com/customerservices@my-wardrobe.com "my-wardrobe.com Customer Services"). If you wish to talk to a MW customer care representative please call 44 (0) 845 260 3880. 
+Please go to the Contact Us section of the web site and send an email to [customerservices@my-wardrobe.com](https://web.archive.org/web/20090222220634id_/http%3A//www.my-wardrobe.com/customerservices@my-wardrobe.com "my-wardrobe.com Customer Services"). If you wish to talk to a MW customer care representative please call 44 (0) 845 260 3880. 
 
 ## and finally...
 
