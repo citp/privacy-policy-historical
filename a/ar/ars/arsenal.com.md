@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arsenal.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217051634id_/http%3A//www.arsenal.com/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arsenal.com privacy policy that was archived on 2009-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090222043726id_/http%3A//www.arsenal.com/terms-of-use) for the most accurate reproduction.*
 
-# Terms of Use & Privacy Policy | Functional pages and redirects | Arsenal.com
+# Terms of Use & Privacy Policy | Arsenal.com
 
 If you send any comments, suggestions or materials to us from or concerning this website or our email services, any materials on or in either of them or relating to Arsenal Football Club, its players, management or staff you assign any rights (including intellectual property rights) you may have in them to Arsenal Football Club which may adapt, broadcast, copy, disclose, licence, publish, sell, transmit and do anything else consistent with rights of ownership in any form and media on a royalty free basis anywhere in the world. You also waive and agree not to assert any moral rights in such comments, suggestions or materials.
 
