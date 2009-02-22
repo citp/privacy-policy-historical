@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the draft.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218100413id_/http%3A//www.draft.com/modules/wfchannel/index.php%3Fpagenum%3D292) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draft.com privacy policy that was archived on 2009-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090222200617id_/http%3A//www.draft.com/modules/wfchannel/index.php%3Fpagenum%3D292) for the most accurate reproduction.*
 
 # Draft.com - Content
 
