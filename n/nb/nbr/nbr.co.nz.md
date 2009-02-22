@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nbr.co.nz privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217235619id_/http%3A//www.nbr.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbr.co.nz privacy policy that was archived on 2009-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090222220819id_/http%3A//www.nbr.co.nz/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | National Business Review (NBR) New Zealand - Business, News, Arts, Media, Share Market & More
+# Privacy Policy | National Business Review (NBR) New Zealand - Business, News, Arts, Media, Share Market and More
 
 By using this site, you agree to the Privacy Policy of National Business Review. If you do not agree to the Policy, please do not use this site. National Business Review examines its privacy policy periodically and reserves the right, at its discretion, to modify or remove portions of this policy at any time. This page should be reviewed periodically so that you are updated on any changes. If you want to communicate with us about our policy, please write to us at:   
 News Liberty Press Group.   
