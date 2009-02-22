@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cisworldwide.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218000643id_/http%3A//www.cisworldwide.com/search/index.php%3Fxpath%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cisworldwide.com privacy policy that was archived on 2009-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090222143952id_/http%3A//www.cisnationwide.com/privacy.html) for the most accurate reproduction.*
 
-# CIS WORLDWIDE - THE WORLD @ YOUR FINGERTIPS!
-
-**CIS WorldWide Privacy Policy**
+# CIS - Information @ Your Fingertips!
 
 **Effective Date:   January 1, 2008**
 
@@ -68,5 +66,4 @@ We may change this privacy policy from time to time.  When we do, we will post 
 
 If you have questions or concerns about this Privacy Policy, contact us at [_support@cisworldwide.com_](mailto:support@cisworldwide.com). 
 
-  
-
+By using this site, you certify that you will use any information obtained for lawfully acceptable purposes. Please be advised that it is against the law to use the information obtained from this site to stalk or harass others. Search requests on public officials, juveniles, and/or celebrities are strictly prohibited. Users who request information under false pretenses or use data obtained from this site in contravention of the law may be subject to civil & criminal penalties. All searches are subject to terms of use and applicable law. Information contained herein is derived from records that may have errors and/or not always be accurate or complete. CIS Worldwide is not a consumer reporting agency as defined under the Fair Credit Reporting Act ("FCRA"), and the information in our databases has not been collected in whole or in part for the purpose of furnishing consumer reports, as defined in the FCRA. Website information cannot be used to: (a) establish an individual's legibility for personal credit or insurance; (b) assess risks associated with existing consumer credit obligations, (c) evaluate an individual for employment, promotion, reassignment or retention (including employment of household workers such a nannies, housekeepers, or contractors), or (c) in conjunction with assessing the merits of entering into any other personal business transaction with another individual). You can easily access the full disclaimer page by clicking HERE
