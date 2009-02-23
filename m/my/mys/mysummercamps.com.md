@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysummercamps.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170841id_/http%3A//www.mysummercamps.com/camps/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysummercamps.com privacy policy that was archived on 2009-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090224001127id_/http%3A//www.mysummercamps.com/camps/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Summer Camps 2008 - MySummerCamps.com
 
@@ -24,9 +24,9 @@ This site gives users the following options for removing their information from 
 2\. You can visit the following URL: [http://www.MySummerCamps.com](http://www.mysummercamps.com/) and use the Contact Us form.
 
 3\. You can send mail to the following postal address:  
-    65 Samor Road, Toronto, ON M6A 1J2
+    909 Sepulveda Blvd. El Segundo, 90245
 
-4\. You can send a fax to: 416-850-9908
+4\. You can send a fax to: 310-280-4921
 
 5\. You can call the following telephone number: 877-777-7738
 
@@ -39,9 +39,9 @@ This site gives users the following options for changing and modifying informati
 2\. Visit [http://www.MySummerCamps.com](http://www.mysummercamps.com/) and fill out the online update form.
 
 3\. Send mail to the following postal address:  
-    65 Samor, Toronto, ON M6A 1J2
+    909 Sepulveda Blvd. El Segundo, 90245
 
-4\. You can send a fax to: 416-850-9908
+4\. You can send a fax to: 310-280-4921
 
 5\. Call the following telephone number: 877-777-7738
 
@@ -50,10 +50,10 @@ Contacting the Web Site
 If you have any questions about this privacy statement or the practices of the site you can contact:
 
 **MySummerCamps.com**  
-65 Samor Road  
-Toronto, ON M6A 1J2
-
-**Telephone:** 416-544-9925   
-**Facsimile:** 416-850-9908  
+c/o Internet Brands, Inc.  
+909 Sepulveda Blvd.  
+El Segundo, 90245  
+**Phone:** 310-280-4105  
+**Fax:** 310-280-4921  
 **Toll-Free:** 877-777-7738  
 **Email:**[info@MySummerCamps.com](mailto:info@MySummerCamps.com)
