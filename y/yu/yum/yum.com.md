@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yum.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218205122id_/http%3A//www.yum.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yum.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223192701id_/http%3A//yum.com//privacy.asp) for the most accurate reproduction.*
 
 # Yum! Brands — The world's largest restaurant company: KFC, Pizza Hut, Taco Bell, A&W All-American Food, Long John Silver's
 
