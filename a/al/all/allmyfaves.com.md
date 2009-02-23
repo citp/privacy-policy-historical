@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the allmyfaves.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044116id_/http%3A//www.allmyfaves.com/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmyfaves.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223192213id_/http%3A//www.allmyfaves.com/policy/privacy.php) for the most accurate reproduction.*
 
-# allmyfaves.com | Why Search? ALLMYFAVES did the search for You
+# All My Faves | Why Search? AllMyFaves Did The Search For You.
+
+  
+
 
 ## Privacy Statement of AllMyFaves Inc.
 
@@ -14,7 +17,7 @@ Our principal activity is: Visual Portal
 
 Our privacy policy covers AllMyFaves and its Web site: 
 
-**Organisation Name:** | **AllMyFaves Inc.**  
+| **Organisation Name:** | **AllMyFaves Inc.**  
 ---|---  
 **City:** | **Tel Aviv**  
 **Country:** | **Israel**  
