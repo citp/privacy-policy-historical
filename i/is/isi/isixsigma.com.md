@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the isixsigma.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044134id_/http%3A//www.isixsigma.com/uagree/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isixsigma.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223185212id_/http%3A//www.isixsigma.com/uagree/privacy.asp) for the most accurate reproduction.*
 
 # iSixSigma.com Privacy Policy
 
 | [](http://www.isixsigma-magazine.com/)  
 ---  
   **iSixSigma Live!     
-  [ **iSixSigma Live! Summit**](http://live.isixsigma.com/events/summit/miami/2009/default.html)  
-  [Agenda](http://live.isixsigma.com/events/summit/miami/2009/agenda.html)  
-  [Registration Info](http://live.isixsigma.com/events/summit/miami/2009/register.html)  
-  [Breakthrough Awards](http://live.isixsigma.com/awards/default.html)  
+
+
+[**Energy Forum for Process Excellence**](http://live.isixsigma.com/events/forum/houston/2009/default.html)
+
+  [Agenda](http://live.isixsigma.com/events/forum/houston/2009/agenda.html)  
 **  
   **Free Newsletters!     
   [ **Sign Up Now!**](http://www.isixsigma.com/newsletter/)  
@@ -100,10 +101,10 @@ iSixSigma.com will not sell or rent your personally identifiable information to 
 
 
  **Cookies**  
-iSixSigma.com may set and access iSixSigma.com cookies on your computer. iSixSigma.com allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to iSixSigma.com's cookies. If you would like to learn more about cookies, please visit [Cookie Central](http://www.isixsigma.com/offsite.asp?A=Fr&Url=http://www.cookiecentral.com/content.phtml?area=2&id=1). If you would like to remove the iSixSigma.com cookies stored on your computer that identify your name and email address and make it easier for you to post to the discussion forum, [click here](https://web.archive.org/web/20081216044134id_/http%3A//www.isixsigma.com/newsletter/expire.asp).
+iSixSigma.com may set and access iSixSigma.com cookies on your computer. iSixSigma.com allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to iSixSigma.com's cookies. If you would like to learn more about cookies, please visit [Cookie Central](http://www.isixsigma.com/offsite.asp?A=Fr&Url=http://www.cookiecentral.com/content.phtml?area=2&id=1). If you would like to remove the iSixSigma.com cookies stored on your computer that identify your name and email address and make it easier for you to post to the discussion forum, [click here](https://web.archive.org/web/20090223185212id_/http%3A//www.isixsigma.com/newsletter/expire.asp).
 
  **Your Ability to Edit and Delete Your Account Information**  
-iSixSigma.com gives you the ability to edit your iSixSigma.com Account Information and preferences at any time. You may request deletion of your iSixSigma.com account, opt-in or opt-out of any of our lists by notifying iSixSigma.com using our [contact form](https://web.archive.org/web/20081216044134id_/http%3A//www.isixsigma.com/contact/default.asp?ToDo=contact&o=oi). All account inquiries will be verified via return email.
+iSixSigma.com gives you the ability to edit your iSixSigma.com Account Information and preferences at any time. You may request deletion of your iSixSigma.com account, opt-in or opt-out of any of our lists by notifying iSixSigma.com using our [contact form](https://web.archive.org/web/20090223185212id_/http%3A//www.isixsigma.com/contact/default.asp?ToDo=contact&o=oi). All account inquiries will be verified via return email.
 
  **Security**  
 Your iSixSigma.com Account Information is protected for your privacy and security.
@@ -112,7 +113,7 @@ Your iSixSigma.com Account Information is protected for your privacy and securit
 iSixSigma.com may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
 
 **Questions or Suggestions**  
-If you have questions or suggestions complete our [feedback form](https://web.archive.org/web/20081216044134id_/http%3A//www.isixsigma.com/contact/default.asp?ToDo=contact&o=oi).
+If you have questions or suggestions complete our [feedback form](https://web.archive.org/web/20090223185212id_/http%3A//www.isixsigma.com/contact/default.asp?ToDo=contact&o=oi).
 
   
 [**"The Bottom Line" Links**](http://www.isixsigma.com/adsales/ad-opps.asp#bottomline)  
@@ -120,7 +121,7 @@ If you have questions or suggestions complete our [feedback form](https://web.ar
 | 
 
 1BMG  
-UNIVERSITY.
+**UNIVERSITY**
 
 | 
 
@@ -129,11 +130,9 @@ I
 
 | 
 
-**Lean Six Sigma** ** **** **
-
-Online
-
-****
+**Blended Black Belt**  
+Lean Six Sigma Certification  
+Online/Classroom Training 
 
 | 
 
@@ -142,18 +141,22 @@ I
 
 | 
 
-**•** **Reduce Travel Costs** ****  
-**•** **Maximize Training Budget**
+**•** **Cost Effective** ****  
+**•** **Flexible Schedule**   
+**•** **Starts March 9**
 
-** >>** [****Get Certified Now****](http://www.bmguniversity.com/OA/Lean-Six-Sigma/011a/)...  
+** >>** [****Get Certified Now****](http://www.bmguniversity.com/OA/Lean-Six-Sigma/011a/) ...  
   
 ---|---|---|---|---  
   
 | VILLANOVA  
-UNIVERSITY |   |   | Become a Leader.  
-  
-Earn your Six Sigma Green Belt or Black Belt Certificate Online!  
-Gain Valuable Skills to Enhance Your Career in Just 8 Weeks! |   |   | **START NOW**  
+UNIVERSITY |   |   | 
+
+Stay Competitive in Any Economy   
+Master Six Sigma Methodologies  
+Gain Six Sigma Certification – 100% Online 
+
+|   |   | **START NOW**  
 ---|---|---|---|---|---|---  
   
 | 
@@ -167,43 +170,7 @@ Gain Valuable Skills to Enhance Your Career in Just 8 Weeks! |   |   | **START
 ** when  experience matters most...**  
   
 ---|---  
-| 
-
-M O T O R O L A   
-U N I V E R S I T Y
-
-|  Learn from the most experienced  
-practitioners of Six Sigma in the world  
-Public Training & Certification  
-**Click here to take a free Six Sigma Lesson**  
----|---  
-| 
-
-JURΛN
-
-| 
-
-**_ 2009 Lean Six Sigma Public Workshops_** \- **SPECIAL OFFER!** _  
-Register for any course before December 31st and receive 50% off any additional registrations, plus receive free consulting support! Call 800-338-7726 to register._  
-  
----|---  
-  
-|  | 
-
-LodeStar Institute
-
-| 
-
-|
-
-| 
-
-Live Lean Six Sigma Training
-
-Starting at $660  
-  
----|---|---  
-**  WHY SETTLE FOR ONLINE? GET LIVE TRAINING AND PROJECT MENTORING FOR ONLINE PRICES.**  
+[](http://www.isixsigma.com/r.asp?id=5325&r=http://www.isixsigma.com/default.asp)  
   
 |  Finding that key person for your  
 team is just a click away . . .  |   |   | 
@@ -233,17 +200,6 @@ Find us on LinkedIn
 
 | Join the iSixSigma Network  
 and Connect with Other Six Sigma Pros  
----|---  
-.  
-| .  
----  
-| 
-
-iSixSigma Live! Summit & Awards  
-Jan 13-16, 2009 • Miami, FL
-
-| Save up to $200.00 • _Click Here_!  
-Space is Limited! Hurry!  
 ---|---  
 .  
   
