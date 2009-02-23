@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juniper.net privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223131045id_/http%3A//www.juniper.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juniper.net privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223084300id_/http%3A//www.juniper.net/privacy.html) for the most accurate reproduction.*
 
 # Juniper Networks :: Juniper Networks Privacy Policy
 
