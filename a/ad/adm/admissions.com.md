@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admissions.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219145603id_/http%3A//learning.monster.com/learning/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admissions.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223183130id_/http%3A//learning.monster.com/learning/about/privacy) for the most accurate reproduction.*
 
 # Your Privacy Rights - Monster Learning
 
