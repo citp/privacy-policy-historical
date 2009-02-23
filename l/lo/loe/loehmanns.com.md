@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loehmanns.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219004413id_/http%3A//www.loehmanns.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loehmanns.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223191638id_/http%3A//www.loehmanns.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Loehmann's Discount Designer Fashions - Privacy Policy
 
