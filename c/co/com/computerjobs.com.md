@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computerjobs.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613100830id_/http%3A//www.computerjobs.com/about_us/main/main.aspx%3Fdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computerjobs.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223091623id_/http%3A//www.computerjobs.com/about_us/main/privacy.aspx) for the most accurate reproduction.*
 
 # ComputerJobs.com - About Us - Privacy
 
