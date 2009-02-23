@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richcasino.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221140056id_/http%3A//www.richcasino.com/securityandprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richcasino.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223110425id_/http%3A//richcasino.com/securityandprivacy) for the most accurate reproduction.*
 
 # Security & Privacy
 
