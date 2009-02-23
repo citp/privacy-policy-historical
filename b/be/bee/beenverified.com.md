@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beenverified.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220185556id_/http%3A//www.beenverified.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beenverified.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223060516id_/http%3A//www.beenverified.com/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BeenVerified
 
@@ -78,7 +78,7 @@ To the extent that BeenVerified™ collects your credit card-specific informatio
 
 #### Correcting/Updating or Removing Information
 
-BeenVerified™ provides Registered Users with several options for modifying or removing their information from our database. Verified Members may remove any Verified Profiles appearing on the Site at any time, or revoke any Profile Display Privileges (as that term is defined in the Terms and Conditions) upon prior written notice to BeenVerified™. Please visit the link <http://www.beenverified.com/user/personal_info> or contact us at [help@beenverified.com](https://mail.google.com/mail?view=cm&tf=0&to=help@beenverified.com) for an explanation.
+BeenVerified™ provides Registered Users with several options for modifying or removing their information from our database. Verified Members may remove any Verified Profiles appearing on the Site at any time, or revoke any Profile Display Privileges (as that term is defined in the Terms and Conditions) upon prior written notice to BeenVerified™. Please visit the the personsal info page of while logged in or contact us at [help@beenverified.com](https://mail.google.com/mail?view=cm&tf=0&to=help@beenverified.com) for an explanation.
 
 #### Changes in Our Privacy Policy
 
