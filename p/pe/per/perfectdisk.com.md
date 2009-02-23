@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the perfectdisk.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217054013id_/http%3A//www.raxco.com/company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectdisk.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223111215id_/http%3A//www.perfectdisk.com/privacy-policy) for the most accurate reproduction.*
 
-# Raxco - Privacy Statement
+# Privacy Policy
 
 This is the Web site of Raxco Software, Inc. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices in connection with this Web site and the choices you can make about the way your information is collected and used at this Web site. We can be reached by mail at our postal address (6 Montgomery Village Avenue, Suite 500, Gaithersburg, MD 20871), by e-mail ([information@perfectdisk.com](mailto:information@perfectdisk.com)), or by telephone (301.527.0803 or 800.836.3844). 
 
@@ -22,5 +22,4 @@ Consumers can access the information that we have collected from them online and
 
 With respect to security: we have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our Web site. However, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. 
 
-If you feel that this Web site is not following its stated information policy, you may contact us at the above-listed addresses or phone number.  
-
+If you feel that this Web site is not following its stated information policy, you may contact us at the above-listed addresses or phone number.
