@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suzannah.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224005052id_/http%3A//www.dress-boutique.com/epages/es112900.sf/en_GB/%3FObjectPath%3D/Shops/es112900_es121563507133/Pages/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suzannah.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223183940id_/http%3A//www.dress-boutique.com/epages/es112900.sf/en_GB/%3FObjectPath%3D/Shops/es112900_es121563507133/Pages/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy policy - Suzannah Dress Boutique
 
