@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyspanish.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155045id_/http%3A//www.studyspanish.com/aboutus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyspanish.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223102917id_/http%3A//www.studyspanish.com/aboutus/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,7 +78,7 @@ Sometimes we offer educational discounts to bonafide Spanish teachers. In order 
 
 ## Links to Other Sites
 
-This Web site contains links to other sites that are not owned or controlled by Spanish Learning Resources. As you would expect, we cannot be responsible for the privacy practices of other sites. This privacy statement applies only to information collected by this Web site.
+This Web site contains links to other sites that are not owned or controlled by Study Languages, LLC. As you would expect, we cannot be responsible for the privacy practices of other sites. This privacy statement applies only to information collected by this Web site.
 
 ## Changes in this Privacy Statement
 
@@ -87,11 +87,11 @@ If we decide to change our privacy policy, we will post those changes to this pr
 ## Mailing Address
 
 Privacy  
-Spanish Learning Resources  
-PO Box 190913  
-Anchorage, AK 99519-0913
+Study Languages, LLC  
+PO Box 110567  
+Anchorage, AK 99511-0567
 
-Last Updated: 07/03/08
+Last Updated: 01/16/09
 
   * Print Page
   * Email Page
