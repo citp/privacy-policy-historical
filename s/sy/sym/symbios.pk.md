@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the symbios.pk privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224232358id_/http%3A//symbios.pk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symbios.pk privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223222024id_/http%3A//www.symbios.pk/privacy.php) for the most accurate reproduction.*
 
-# Best Onlne shop all over Pakistan
+# Symbios
 
 Symbios a company incorporated in Pakistan, is a member of the e-group.
 
@@ -46,7 +46,6 @@ Please be aware that our site may link to other websites which may be accessed t
 
 
 
-  
 **How can I get my name removed from the symbios.pk  mailing list?**
 
 If you want to be removed from our mailing list, please send an email to [info@symbios.com.pk](mailto:info@symbios.pk) with the word 'remove' in the subject line and the email address that you wish to be removed within the email. Please note that it may take up to 28 days to action your request.
