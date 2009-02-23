@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the googleconquest.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021526id_/http%3A//googleconquest.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googleconquest.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223183943id_/http%3A//googleconquest.com/privacy) for the most accurate reproduction.*
 
-# Google Conquest
+# Google Conquest: Privacy
 
 **1\. HOW WE PROTECT YOUR PRIVACY.**   
 This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
@@ -30,7 +30,7 @@ From time to time, we may use third party suppliers to provide services on our w
 
   
 **6\. USER NAMES AND PASSWORDS.**  
-Your access to parts of our website may be protected by a user name and a password. Do not give  your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
+Your access to parts of our website may be protected by a user name and a password. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
 
   
 **7\. YOUR USE OF INFORMATION AND UNSOLICITED JUNK E-MAIL.**  
@@ -64,4 +64,4 @@ USA
 
 This policy was last updated on 11-20-2008.
 
-Copyright © 2008[Law Office of Michael E. Young PLLC ](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at GoogleConquest.com. All Rights Reserved.  No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner. 
+Copyright © 2008[Law Office of Michael E. Young PLLC ](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at GoogleConquest.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner. 
