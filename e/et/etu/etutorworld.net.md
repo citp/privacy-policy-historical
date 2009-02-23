@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etutorworld.net privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224185413id_/http%3A//etutorworld.net/index.php%3Fname%3DIndex_Page%26req%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etutorworld.net privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223103848id_/http%3A//etutorworld.net/index.php%3Fname%3DIndex_Page%26req%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # eTutorWorld :: Learning by Design
 
