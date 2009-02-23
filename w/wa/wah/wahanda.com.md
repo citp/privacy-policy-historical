@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wahanda.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021505id_/http%3A//www.wahanda.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wahanda.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223065151id_/http%3A//www.wahanda.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Wahanda
 
@@ -84,7 +84,5 @@ By using our website you consent to our collection and use of your Personal Info
 ### Where we store your personal data
 
 The data that we collect from you may be transferred to and stored at a destination outside the European Economic Area. By submitting your Personal Information you agree to this transfer. We will take all steps reasonably necessary to ensure that your Personal Information is treated securely and in accordance with this Privacy Policy.
-
-## Didn’t find what you were looking for?
 
 Is there a spa that we don’t know about and you think we should?
