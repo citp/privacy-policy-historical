@@ -1,14 +1,25 @@
-<!--The following is the downloaded HTML source of the themelib.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216032350id_/http%3A//themelib.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the themelib.com privacy policy that was archived on 2009-02-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090224182538id_/http%3A//themelib.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-<title>Privacy Policy | Blogger Templates</title>
+<title>Privacy Policy | ThemeLib</title>
 
-<meta name="generator" content="WordPress 2.7"> <!-- leave this for stats -->
+<meta name="generator" content="WordPress 2.7.1"> <!-- leave this for stats -->
 
-<link rel="stylesheet" href="http://themelib.com/wp-content/themes/arthemia/style.css" type="text/css" media="screen">
+<link rel="stylesheet" type="text/css" media="screen" href="http://themelib.com/wp-content/themes/arthemia/css/reset.css">
+<link rel="stylesheet" type="text/css" media="screen" href="http://themelib.com/wp-content/themes/arthemia/css/global.css">
+<link rel="stylesheet" type="text/css" media="screen" href="http://themelib.com/wp-content/themes/arthemia/style.css">
+
+<!--[if IE 6]>
+    <style type="text/css"> 
+    body {
+        behavior:url("http://themelib.com/wp-content/themes/arthemia/scripts/csshover2.htc");
+    }
+    </style>
+<![endif]-->
+
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://themelib.com/feed/">
 <link rel="alternate" type="text/xml" title="RSS .92" href="http://themelib.com/feed/rss/">
 <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://themelib.com/feed/atom/">
@@ -19,281 +30,42 @@
 <link rel="icon" href="http://themelib.com/wp-content/themes/arthemia/images/favicon.png">
 <link rel="shortcut icon" href="http://themelib.com/wp-content/themes/arthemia/images/favicon.png">
 
-<script type="text/javascript" src="http://themelib.com/wp-content/themes/arthemia/snow.js"></script>
-
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://themelib.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://themelib.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 2.7">
+<meta name="generator" content="WordPress 2.7.1">
 
 
-<!-- all in one seo pack 1.4.6.15 [301,350] -->
+<!-- all in one seo pack 1.4.7 [301,340] -->
 <meta name="description" content="If you require any more information or have any questions about our privacy policy, please feel free to contact us through the contact form. At Theme Lib,">
 <!-- /all in one seo pack -->
-<script language="javascript" type="text/javascript">
-<!--
-		function collapseThread( theId ) {
-			var comment = document.getElementById(theId);
-			if(!comment)
-			{
-				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
-				return;
-			}
-			var theBody = findBody(comment);
-			if(comment.className.indexOf("collapsed") > -1) {
-				comment.className = comment.className.replace(" collapsed", "");;
-			} else {
-				comment.className += " collapsed";
-			}
-		}
 
-		function expandThread( theId ) {
-			var comment = document.getElementById(theId);
-			if(!comment)
-			{
-				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
-				return;
-			}
-			var theBody = findBody(comment);
-			if(comment.className.indexOf("collapsed") > -1) {
-				comment.className = comment.className.replace(" collapsed", "");;
-			} 
-		}
-		
-		function findBody(el)
-		{
-			var divs = el.getElementsByTagName("div");
-			var ret;
-			for(var i = 0; i < divs.length; ++i) {
-				if(divs.item(i).className.indexOf("body") > -1)
-					return divs.item(i);
-			}
-			return false;
-		}
-	
-		function onAddComment() {
-			//checkDocumentIntegrity();
-			var el = document.getElementById("commentform");
-			// Future release: Check if form is filled correctly and mark the form fields.
-			el.submit();
-		}
-		
-		function moveAddCommentBelow(theId, threadId, collapse)
-		{
-			expandThread( theId );
-			var addComment = document.getElementById("addcomment");
-			if(!addComment)
-			{
-			  	alert("ERROR:\nThreaded Comments can't find the 'addcomment' div.\nThis is probably because you have changed\nthe comments.php file.\nMake sure there is a tag around the form\nthat has the id 'addcomment'"); 
-				return
-			}
-			var comment = document.getElementById(theId);
-			if(collapse)
-			{
-				for(var i = 0; i < comment.childNodes.length; ++i) {
-					var c = comment.childNodes.item(i);
-					if(typeof(c.className) == "string" && c.className.indexOf("collapsed")<0) {
-						c.className += " collapsed";
-					}
-				}
-			}
-			addComment.parentNode.removeChild(addComment);
-
-			comment.appendChild(addComment);
-			if(comment.className.indexOf("alt")>-1) {
-				addComment.className = addComment.className.replace(" alt", "");					
-			} else {
-				addComment.className += " alt";
-			}
-		        var replyId = document.getElementById("comment_reply_ID");
-			if(replyId == null)
-			{
-				alert("Brians Threaded Comments Error:\nThere is no hidden form field called\n'comment_reply_ID'. This is probably because you\nchanged the comments.php file and forgot\nto include the field. Please take a look\nat the original comments.php and copy the\nform field over.");
-			}
-			replyId.value = threadId;
-			var reRootElement = document.getElementById("reroot");
-			if(reRootElement == null)
-			{
-				alert("Brians Threaded Comments Error:\nThere is no anchor tag called 'reroot' where\nthe comment form starts.\nPlease compare your comments.php to the original\ncomments.php and copy the reroot anchor tag over.");
-			}
-			reRootElement.style.display = "block";
-			var aTags = comment.getElementsByTagName("A");
-			var anc = aTags.item(0).id;
-			//document.location.href = "#"+anc;
-			document.getElementById("comment").focus();
-		}
-
-		function checkDocumentIntegrity()
-		{
-			str = "";
-			
-			str += checkElement("reroot","div tag");
-			str += checkElement("addcomment", "div tag");
-			str += checkElement("comment_reply_ID", "hidden form field");
-			str += checkElement("content", "div tag");
-			str += checkElement("comment", "textfield");
-			str += checkElement("addcommentanchor", "anchor tag");
-			
-			if(str != "")
-			{
-				str = "Brian's Threaded Comments are missing some of the elements that are required for it to function correctly.\nThis is probably the because you have changed the original comments.php that was included with the plugin.\n\nThese are the errors:\n" + str;
-				str += "\nYou should compare your comments.php with the original comments.php and make sure the required elements have not been removed.";
-
-				alert(str);
-			}
-		}
-               
-		function checkElement(theId, elDesc)
-		{
-			var el = document.getElementById(theId);
-			if(!el)
-			{
-				if(elDesc == null)
-					elDesc = "element";
-				return "- The "+elDesc+" with the ID '" +theId + "' is missing\n"; 
-			}
-			else 
-				return "";
-		}
-		
-		function reRoot()
-		{
-			var addComment = document.getElementById("addcomment");			
-			var reRootElement = document.getElementById("reroot");
-			reRootElement.style.display = "none";
-			var content = document.getElementById("content-main");
-			if( !content )
-				content = document.getElementById("content");
-			if( content )
-			{
-				addComment.parentNode.removeChild(addComment);
-				content.appendChild(addComment);
-			}
-			addComment.className = addComment.className.replace(" alt", "");
-			document.location.href = "#addcommentanchor";
-			document.getElementById("comment").focus();				
-			document.getElementById("comment_reply_ID").value = "0";
-		}			
-		
-		function changeCommentSize(d)
-		{
-			var el = document.getElementById("comment");
-			var height = parseInt(el.style.height);
-			if(!height && el.offsetHeight)
-				height = el.offsetHeight;
-			height += d;
-			if(height < 20) 
-				height = 20;
-			el.style.height = height+"px";
-		}		
--->
-</script>
-<style type="text/css">
-.comment 
-{
-	position: 				relative;
-	margin:					3px;
-	margin-top:				6px;
-/*	border: 				1px solid #666; */
-	padding:				4px 4px 4px 8px;
-	background-color:		#fff;
-}
-
-.odd
-{
-	background-color: #f8f8f8;
-}
-
-.comment div {
-	position: 				relative;
-}
-
-.comment .comment img
-{
-	margin: 				0px;
-}
-
-.comment .collapseicon 
-{
-	width: 					13px;
-	height: 				13px;
-	overflow:				hidden;
-	background-image: 		url(http://themelib.com/wp-content/plugins/briansthreadedcomments.php?image=subthread-open.png);
-}
-
-.collapsed .collapseicon 
-{
-	background-image: 		url(http://themelib.com/wp-content/plugins/briansthreadedcomments.php?image=subthread.png);
-}
-
-
-.comment .reply {
-	text-align: 			right;
-	font-size: 				80%;
-	padding: 				0px 6px 6px 0px;
-}
-
-.comment
-{
-	border: 	1px solid #ddd;
-	margin-top: 			10px;
-}
-
-input#subscribe
-{
-	width: auto;
-}
-
-.comment .body .content
-{
-	padding:				0px 3px 0px 3px;
-	/*width: 					100%;	*/
-	overflow: 				auto; 
-}
-
-.comment .title abbr
-{
-	border: none;
-}
-
-.collapsed .body, .collapsed .comment
-{
-	display:				none;
-}
- 
-#commentform textarea {
-	width: 97%;
-}
-
-.btc_gravatar {
-	float: right;
-	margin: 3px 3px 4px 4px;
-}
-</style>
-
-<!-- Start Of Script Generated By cforms v8.5.1 [Oliver Seidel | www.deliciousdays.com] -->
+<!-- Start Of Script Generated By cforms v10.1 [Oliver Seidel | www.deliciousdays.com] -->
 <link rel="stylesheet" type="text/css" href="http://themelib.com/wp-content/plugins/cforms/styling/fancy_white.css">
 <script type="text/javascript" src="http://themelib.com/wp-content/plugins/cforms/js/cforms.js"></script>
 <!-- End Of Script Generated By cforms -->
 
-<link rel="stylesheet" type="text/css" media="screen" href="http://themelib.com/wp-content/plugins/sociable/sociable.css">
+
+<!-- Start Of Script Generated By WP-CommentNavi 1.00 -->
+<link rel="stylesheet" href="http://themelib.com/wp-content/plugins/wp-commentnavi/commentnavi-css.css?ver=1.00" type="text/css" media="all">
+<!-- End Of Script Generated By WP-CommentNavi 1.00 -->
 
 <!-- Start Of Script Generated By WP-DownloadManager 1.40 -->
 <link rel="stylesheet" href="http://themelib.com/wp-content/plugins/wp-downloadmanager/download-css.css?ver=1.40" type="text/css" media="all">
 <!-- End Of Script Generated By WP-DownloadManager 1.40 -->
 
-<!-- Start Of Script Generated By WP-PageNavi 2.31 -->
+<!-- Start Of Script Generated By WP-PageNavi 2.40 -->
 <link rel="stylesheet" href="http://themelib.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css" type="text/css" media="screen">
-<!-- End Of Script Generated By WP-PageNavi 2.31 -->
+<!-- End Of Script Generated By WP-PageNavi 2.40 -->
 
-<!-- Protected by WP-SpamFree v1.9.6.7 :: JS BEGIN -->
+<!-- Protected by WP-SpamFree v1.9.8.6 :: JS BEGIN -->
 <script type="text/javascript" src="http://themelib.com/wp-content/plugins/wp-spamfree/js/wpsf-js.php"></script> 
-<!-- Protected by WP-SpamFree v1.9.6.7 :: JS END -->
+<!-- Protected by WP-SpamFree v1.9.8.6 :: JS END -->
 
 
 </head>
 <body>
 
-<div id="head" class="clearfloat">
+<div id="head">
 
 	<div class="clearfloat">
 
@@ -301,48 +73,21 @@ input#subscribe
 			<a title="Blogger Templates, Wordpress Themes" href="http://themelib.com/"><img src="http://themelib.com/wp-content/themes/arthemia/images/logo.png" alt="ThemeLib logo"></a>
 		</div>
 
-		<!-- 468x60 ads -->
-		<div style="width:468px; height:60px; padding:10px 0;" class="right">
-	<script type="text/javascript"><!--
-	google_ad_client = "pub-8533752257741346";
-	/* themelib-468x60, created 12/14/08 */
-	google_ad_slot = "7954294169";
-	google_ad_width = 468;
-	google_ad_height = 60;
-	//-->
-	</script>
-	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-	</script>
-</div>		<!-- /468x60  ads -->
-
-	</div>
-
-<div id="navbar" class="clearfloat">
+		<div id="ads-header">
+	
+</div>	</div>
+	
+	<div id="navbar" class="clearfloat">
 	<ul id="page-bar" class="left clearfloat">
 		<li><a href="http://themelib.com/">Home</a></li>
-
-		<li><a href="http://themelib.com/#">Blogger</a>
-		<ul class="children">
-		<li class="cat-item"><a href="http://themelib.com/category/free-blogger-templates/">Blogger Templates</a></li>
-		<li class="cat-item"><a href="http://themelib.com/category/blogger-tutorials/">Blogger Tutorials</a></li>
-		</ul></li>
-
-		<li><a href="http://themelib.com/#">Wordpress</a>
-		<ul class="children">
-		<li class="cat-item"><a href="http://themelib.com/category/wordpress-themes/">Wordpress Themes</a></li>
-		<li class="cat-item"><a href="http://themelib.com/category/wordpress-plugins/">Wordpress Plugins</a></li>
-		<li class="cat-item"><a href="http://themelib.com/category/wordpress-tutorials/">Wordpress Tutorials</a></li>
-		</ul></li>
-
+		<li><a href="http://themelib.com/category/free-blogger-templates/">Blogger Templates</a></li>
+		
 		<li><a href="http://themelib.com/money-makers/">Money Makers</a></li>
 		<li><a href="http://themelib.com/about/">About</a></li>
-		<li><a href="http://themelib.com/contact/">Contact</a></li>
-		<li><a href="http://themelib.com/advertise/">Advertise</a></li>
+		<li><a href="http://themelib.com/contact/" rel="nofollow">Contact</a></li>
+		<li><a href="http://themelib.com/advertise/" rel="nofollow">Advertise</a></li>
 	</ul>
-</div>
-
-	<div id="subnavbar">
-		<div style="float:left;width:728px;padding-top:5px;">
+</div>	<div id="subnav">
 	<script type="text/javascript"><!--
 	google_ad_client = "pub-8533752257741346";
 	/* 728x15, created 10/28/08 */
@@ -353,17 +98,29 @@ input#subscribe
 	</script>
 	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 	</script>
-</div>	</div>
-
+</div>
 <div id="page" class="clearfloat">
-	<div id="fullpage">
+<div id="content">
 	
-			
-	<!-- post -->
-	<div class="content" id="post_26">
-		<a href="http://themelib.com/">Home</a> » Privacy Policy		<h1 class="title">Privacy Policy</h1>
-		<div class="entry">
-			<p>If you require any more information or have any questions about our privacy policy, please feel free to contact us through the <a title="Contact me" href="http://themelib.com/contact-me/">contact form</a>.</p>
+		<div class="post" id="post_26">
+		<div id="breadcrumb"><a href="http://themelib.com/">Home</a> » Privacy Policy </div>
+		<h1 class="pagetitle">Privacy Policy</h1>
+		<div style="margin-bottom:5px;">
+	<script type="text/javascript"><!--
+	google_ad_client = "pub-8533752257741346";
+	/* ThemeLib Toppost 336x280, created 11/9/08 */
+	google_ad_slot = "7747018645";
+	google_ad_width = 336;
+	google_ad_height = 280;
+	//-->
+	</script>
+	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+	</script>
+
+	<noscript>
+		<a href="http://themelib.com/go/revolutiontwo"><img src="http://www.revolutiontwo.com/images/banners/300_250.png" alt="revolution themes"/></a>
+	</noscript>
+</div>		<p>If you require any more information or have any questions about our privacy policy, please feel free to contact us through the <a title="Contact me" href="http://themelib.com/contact-me/">contact form</a>.</p>
 <p>At <strong>Theme Lib</strong>, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://themelib.com and how it is used.</p>
 <h3>Log Files</h3>
 <p>Like many other Web sites, http://themelib.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.</p>
@@ -374,73 +131,179 @@ input#subscribe
 <p>http://themelib.com has no access to or control over these cookies that are used by third-party advertisers.</p>
 <p>You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://themelib.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</p>
 <p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.</p>
-		</div>
-			</div>
+	</div>
 		
 	
+</div>
+
+<div id="sidebar">
+	<div id="rss">
+	<div class="right">
+		<a href="http://feedproxy.google.com/ThemeLib" title="Subscribe to RSS feed"><img src="http://themelib.com/wp-content/themes/arthemia/images/sub-rss.gif" alt="RSS feed"></a><br><br>
+		<a href="http://feedproxy.google.com/ThemeLib" title="Subscribe to RSS feed"><img src="http://feedproxy.google.com/~fc/Themelib?bg=99CCFF&amp;fg=444444&amp;anim=1" alt="Feedburner RSS feed" width="88" height="26"></a>
 	</div>
+	
+	Most articles on this site are related to blogger templates, wordpress themes, blog design, tips, tricks, and plenty of fun :)<br><br>
+    Grab the feed or enter your email address to get the party started! It is FREE.<br><br>
 
-</div>  
+	<form id="subscribe" style="margin-top:-10px;" action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><input type="text" value="Enter your email address..." class="shadow" id="subbox" onfocus="if (this.value == 'Enter your email address...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Enter your email address...';}" name="email"><input type="hidden" value="http://feeds.feedburner.com/~e?ffid=2136690" name="url"><input type="hidden" value="eNews Subscribe" name="title"><input type="submit" value="Subscribe" id="subbutton" class="shadow"></form>	
+</div>	<div id="sidebar_125x125">
+	<img src="http://themelib.com/wp-content/plugins/max-banner-ads/max-banner-ads-lib/include/impression.php?ids=59_57_65_61_60_58" width="1" height="1"><div style="padding:0; text-align:center"><a href="http://themelib.com/wp-content/plugins/max-banner-ads/max-banner-ads-lib/include/redirect.php?id=59" target="_blank" rel="nofollow"><img src="http://i452.photobucket.com/albums/qq247/themelib3/woothemes-125x125.gif" style="padding:0 8px 8px 0;
+border:0;" title="Wordpress Themes Club WooThemes"></a><a href="http://themelib.com/wp-content/plugins/max-banner-ads/max-banner-ads-lib/include/redirect.php?id=57" target="_blank" rel="nofollow"><img src="http://i452.photobucket.com/albums/qq247/themelib3/themespreview-logo.jpg" style="padding:0 8px 8px 0;
+border:0;" title="Themes Preview"></a><a href="http://themelib.com/wp-content/plugins/max-banner-ads/max-banner-ads-lib/include/redirect.php?id=65" target="_blank" rel="nofollow"><img src="http://i452.photobucket.com/albums/qq247/themelib3/wpremix-banner-2.png" style="padding:0 8px 8px 0;
+border:0;" title="WP Remix wordpress theme"></a><a href="http://themelib.com/wp-content/plugins/max-banner-ads/max-banner-ads-lib/include/redirect.php?id=61" target="_blank" rel="nofollow"><img src="http://i536.photobucket.com/albums/ff324/themelib1/125x125-7.gif" style="padding:0 8px 8px 0;
+border:0;" title="Elegant wordpress themes"></a><a href="http://themelib.com/wp-content/plugins/max-banner-ads/max-banner-ads-lib/include/redirect.php?id=60" target="_blank" rel="nofollow"><img src="http://i536.photobucket.com/albums/ff324/themelib1/arthemia-premium-125.jpg" style="padding:0 8px 8px 0;
+border:0;" title="Arthemia wordpress theme"></a><a href="http://themelib.com/wp-content/plugins/max-banner-ads/max-banner-ads-lib/include/redirect.php?id=58" target="_blank" rel="nofollow"><img src="http://i286.photobucket.com/albums/ll96/themelib/revolution-ad.jpg" style="padding:0 8px 8px 0;
+border:0;" title="Revolution wordpress theme"></a></div></div>	<div id="search">
+	<div id="searchform">
+		<h2>Search our archives</h2>
+		<form action="http://themelib.com/search-results-for-themelib/" id="cse-search-box">
+			<div>
+				<input type="hidden" name="cx" value="009463622390465792760:yt2gl5tcuty">
+				<input type="hidden" name="cof" value="FORID:11">
+				<input type="hidden" name="ie" value="UTF-8">
+				<input type="text" id="searchbox" class="shadow" name="q" size="22">
+				<input type="submit" id="searchbutton" class="shadow" name="sa" value="Search">
+			</div>
+		</form>
+		<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+	</div>
+</div>
 
-<div id="front-popular" class="clearfloat">
+	<div id="sidebar-middle" class="clearfloat"> 
+		<div id="sidebar-left">
+			<h3>Categories</h3>		<ul>
+			<li class="cat-item cat-item-3"><a href="http://themelib.com/category/free-blogger-templates/" title="Nice and cool templates for your Blogger blog. Unique released by me. Live demo, direct download. All for FREE.">Blogger Templates</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://themelib.com/category/blogger-tutorials/" title="Learn how to make your Blogger blog better with tricks, hacks, widgets, ... Articles usually oriented to beginners.">Blogger Tutorials</a>
+</li>
+	<li class="cat-item cat-item-59"><a href="http://themelib.com/category/blogger-widgets/" title="View all posts filed under Blogger Widgets">Blogger Widgets</a>
+</li>
+	<li class="cat-item cat-item-165"><a href="http://themelib.com/category/blogging-tips/" title="View all posts filed under Blogging Tips">Blogging Tips</a>
+</li>
+	<li class="cat-item cat-item-169"><a href="http://themelib.com/category/blogosphere/" title="View all posts filed under Blogosphere">Blogosphere</a>
+</li>
+	<li class="cat-item cat-item-74"><a href="http://themelib.com/category/make-money-online/" title="Make money from your blog. Why not ? Some blog tips to help you make money online. Most related to Google Adsense.">Make Money Online</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://themelib.com/category/personal/" title="View all posts filed under Personal">Personal</a>
+</li>
+	<li class="cat-item cat-item-164"><a href="http://themelib.com/category/reviews/" title="View all posts filed under Reviews">Reviews</a>
+</li>
+	<li class="cat-item cat-item-118"><a href="http://themelib.com/category/site-news/" title="View all posts filed under Site News">Site News</a>
+</li>
+	<li class="cat-item cat-item-83"><a href="http://themelib.com/category/web-stuff/" title="Anything on the WWW does matter! Get lots of web stuff ralated to blogging here. Also contain funny stuff to relax :)">Web Stuff</a>
+</li>
+	<li class="cat-item cat-item-52"><a href="http://themelib.com/category/wordpress-plugins/" title="View all posts filed under Wordpress Plugins">Wordpress Plugins</a>
+</li>
+	<li class="cat-item cat-item-107"><a href="http://themelib.com/category/wordpress-themes/" title="Best themes for your Wordpress blogs. High quality and professionally design Wordpress themes.">Wordpress Themes</a>
+</li>
+	<li class="cat-item cat-item-55"><a href="http://themelib.com/category/wordpress-tutorials/" title="Wordpress is an excellent open-source blogging platform. Want to make good use of it ? Read and learn.">Wordpress Tutorials</a>
+</li>
+		</ul>
+<h3>Archives</h3>		<ul>
+			<li><a href="http://themelib.com/2009/02/" title="February 2009">February 2009</a>&nbsp;(19)</li>
+	<li><a href="http://themelib.com/2009/01/" title="January 2009">January 2009</a>&nbsp;(15)</li>
+	<li><a href="http://themelib.com/2008/12/" title="December 2008">December 2008</a>&nbsp;(17)</li>
+	<li><a href="http://themelib.com/2008/11/" title="November 2008">November 2008</a>&nbsp;(15)</li>
+	<li><a href="http://themelib.com/2008/10/" title="October 2008">October 2008</a>&nbsp;(15)</li>
+	<li><a href="http://themelib.com/2008/09/" title="September 2008">September 2008</a>&nbsp;(11)</li>
+	<li><a href="http://themelib.com/2008/08/" title="August 2008">August 2008</a>&nbsp;(26)</li>
+	<li><a href="http://themelib.com/2008/07/" title="July 2008">July 2008</a>&nbsp;(27)</li>
+	<li><a href="http://themelib.com/2008/06/" title="June 2008">June 2008</a>&nbsp;(16)</li>
+		</ul>
+ 
+		</div>  
+
+		<div id="sidebar-right">
+								<h3>Entrecard Blog</h3>			<div class="textwidget"><div style="width:200px;overflow:hidden;">
+<script src="http://entrecard.s3.amazonaws.com/widget.js?user_id=18583&amp;type=standard_200" type="text/javascript" id="ecard_widget"></script>
+</div></div>
+							<h3>More Resources</h3>			<div class="execphpwidget"><ul>
+
+
+
+<li><a href="http://www.lcn.com" target="_blank">Domain Name Registration</a></li>
+
+<li><a href="http://www.websitetemplates.bz" target="_blank">Web Templates</a></li>
+
+<li><a href="http://www.bokrin.com/services_cat/web-design_sub/" target="_blank">Web Design Services</a></li>
+
+<li><a href="http://www.hostsvault.com/" target="_blank">Cheap Hosting</a></li>
+
+<li><a href="http://www.3ebooks.com/" target="_blank" title="More than 23K Free eBooks Download">Free eBooks Download</a></li>
+
+</ul>
+
+<ul>
+<li><b><a rel="nofollow" href="http://themelib.com/advertise">Your links here, $25/month</a></b></li>
+</ul>
+</div>
+		<h3>Top Commentators</h3>
+<ul>
+<li><a href="http://financialbreakthrough101.com/workfromhomeblog">Kenney Works From... (7)</a></li>
+<li><a href="http://www.doex.net/">Download Movies (6)</a></li>
+<li><a href="http://buzzerbeeser.blogspot.com">Start Blogging (6)</a></li>
+<li><a href="http://fxtradingsecrets.net/">Trivia (5)</a></li>
+<li><a href="http://tutorialcompiler.com">Ali Hussain (4)</a></li>
+</ul><!-- end of widget -->  
+		</div> 
+	</div>
+</div></div>  
+
+<div id="footer" class="clearfloat">
 
 	<div id="col1">
 		<h2 class="blue">Recent Posts</h2>
-		<ul><li><a href="http://themelib.com/2008/12/slidepress-premium-wordpress-theme/">Slidepress Premium WordPress Theme</a></li><li><a href="http://themelib.com/2008/12/free-wordpress-e-commerce-plugin-wordpress-shopping-cart-plugin/">Free WordPress e-Commerce Plugin / Wordpress Shopping Cart Plugin</a></li><li><a href="http://themelib.com/2008/12/download-wordpress-27-final-now/">Download Wordpress 2.7 Final Now!</a></li><li><a href="http://themelib.com/2008/12/remove-nofollow-attribute-from-your-template-blog-comment-series-part-01/">Remove Nofollow Attribute from Your Template - Blog Comment Series Part 01</a></li><li><a href="http://themelib.com/2008/12/how-to-get-more-comments-through-the-blogger-system-series/">“How to Get More Comments Through the Blogger System” Series</a></li><li><a href="http://themelib.com/2008/12/and-the-winners-of-themelib-giveaway-are/">And The Winners of ThemeLib Giveaway Are …</a></li><li><a href="http://themelib.com/2008/12/domain-names-registration-and-web-hosting-at-lcn/">Domain Names Registration and Blog Hosting at LCN</a></li><li><a href="http://themelib.com/2008/12/wordpress-27-release-candidate-1/">WordPress 2.7 Release Candidate 1</a></li><li><a href="http://themelib.com/2008/11/last-chance-to-enter-the-themelib-giveaway/">Last Chance to Enter the ThemeLib Giveaway</a></li><li><a href="http://themelib.com/2008/11/blogger-notes-blogger-template/">Blogger Notes blogger template</a></li></ul>
+		<ul><li><a href="http://themelib.com/2009/02/customizing-google-adsense-text-ads-font-face/">Customizing Google Adsense Text Ads Font Face</a></li><li><a href="http://themelib.com/2009/02/webhostingsleuthcom-web-hosting-reviews/">WebHostingSleuth.com - Web Hosting Reviews</a></li><li><a href="http://themelib.com/2009/02/blogging-tip-how-to-find-the-next-great-blog/">Blogging Tip : How to Find the Next Great Blog</a></li><li><a href="http://themelib.com/2009/02/content-based-marketing-experts-at-justarticlescom/">Content-Based Marketing Experts at JustArticles.com</a></li><li><a href="http://themelib.com/2009/02/best-web-hosting-review/">Best Web Hosting Review</a></li><li><a href="http://themelib.com/2009/02/how-blogging-has-evolved-part-05-the-direction-of-blogging/">How Blogging Has Evolved - Part 05 : The Direction of Blogging</a></li><li><a href="http://themelib.com/2009/02/free-image-hosting-and-photo-share-at-pictcom/">Free Image Hosting and Photo Share at Pict.com</a></li><li><a href="http://themelib.com/2009/02/puretype-wordpress-theme-by-elegant-themes/">PureType Wordpress Theme by Elegant Themes</a></li><li><a href="http://themelib.com/2009/02/how-blogging-has-evolved-part-04-bloggers-of-today/">How Blogging Has Evolved - Part 04 : Bloggers of Today</a></li><li><a href="http://themelib.com/2009/02/urban-elements-premium-wordpress-theme-from-press75/">Urban Elements Premium WordPress Theme from Press75</a></li></ul>
 	</div>
 
 	<div id="col2">
 		<h2 class="green">Popular Posts</h2>
-		<ul><li><a href="http://themelib.com/2008/09/arthemia-magazine-blogger-template/" title="Arthemia magazine blogger template">Arthemia magazine blogger template</a> (240)</li><li><a href="http://themelib.com/2008/09/my-blog-got-pr5-google-pagerank-update-september-2008/" title="My blog got PR5 - Google PageRank update Sep 2008">My blog got PR5 - Google PageRank update Sep 2008</a> (96)</li><li><a href="http://themelib.com/2008/07/maggo-magazine-blogger-template/" title="Maggo magazine blogger template">Maggo magazine blogger template</a> (81)</li><li><a href="http://themelib.com/2008/07/personal-mag-magazine-blogger-template/" title="Personal Mag magazine blogger template">Personal Mag magazine blogger template</a> (61)</li><li><a href="http://themelib.com/2008/08/astro-colorful-blogger-template/" title="Astro colorful blogger template">Astro colorful blogger template</a> (55)</li><li><a href="http://themelib.com/2008/08/white-space-blogger-template/" title="White Space blogger template">White Space blogger template</a> (55)</li><li><a href="http://themelib.com/2008/06/windows-vista-blogger-template/" title="Windows Vista blogger template">Windows Vista blogger template</a> (53)</li><li><a href="http://themelib.com/2008/09/the-first-contest-on-themelib/" title="The first contest on ThemeLib">The first contest on ThemeLib</a> (51)</li><li><a href="http://themelib.com/2008/10/rabel-magazine-blogger-template/" title="Rebel magazine blogger template">Rebel magazine blogger template</a> (40)</li><li><a href="http://themelib.com/2008/08/link-love-to-top-commentators/" title="Link love to Top Commentators :)">Link love to Top Commentators :)</a> (36)</li></ul>
+		<ul><li><a href="http://themelib.com/2008/09/arthemia-magazine-blogger-template/" title="Arthemia magazine blogger template">Arthemia magazine blogger template</a> (358)</li><li><a href="http://themelib.com/2008/09/my-blog-got-pr5-google-pagerank-update-september-2008/" title="Google PageRank update September 2008 - My blog got PR5">Google PageRank update September 2008 - My blog got PR5</a> (121)</li><li><a href="http://themelib.com/2008/12/google-pagerank-update-december-2008-themelib-is-now-pr6/" title="Google Pagerank Update December 2008 - ThemeLib is now PR6!">Google Pagerank Update December 2008 - ThemeLib is now PR6!</a> (90)</li><li><a href="http://themelib.com/2008/07/maggo-magazine-blogger-template/" title="Maggo magazine blogger template">Maggo magazine blogger template</a> (86)</li><li><a href="http://themelib.com/2008/07/personal-mag-magazine-blogger-template/" title="Personal Mag magazine blogger template">Personal Mag magazine blogger template</a> (79)</li><li><a href="http://themelib.com/2008/08/white-space-blogger-template/" title="White Space blogger template">White Space blogger template</a> (76)</li><li><a href="http://themelib.com/2008/08/astro-colorful-blogger-template/" title="Astro colorful blogger template">Astro colorful blogger template</a> (68)</li><li><a href="http://themelib.com/2008/10/rabel-magazine-blogger-template/" title="Rebel magazine blogger template">Rebel magazine blogger template</a> (52)</li><li><a href="http://themelib.com/2008/08/link-love-to-top-commentators/" title="Link love to Top Commentators :)">Link love to Top Commentators :)</a> (51)</li><li><a href="http://themelib.com/2008/06/windows-vista-blogger-template/" title="Windows Vista blogger template">Windows Vista blogger template</a> (44)</li><li><a href="http://themelib.com/2009/01/how-to-rank-higher-in-google-creating-customized-permalinks-in-blogger/" title="How to Rank Higher in Google - Creating Customized Permalinks in Blogger">How to Rank Higher in Google - Creating Customized Permalinks in Blogger</a> (44)</li><li><a href="http://themelib.com/2009/01/google-loves-me-again/" title="Google Loves Me, Again!">Google Loves Me, Again!</a> (44)</li></ul>
 	</div>
 
 	<div id="col3">
 		<h2 class="orange">Recent Comments</h2>
-	    <ul><li><a href="http://themelib.com/2008/12/slidepress-premium-wordpress-theme/#comment-3527" title="View the entire comment by Wiehanne"><strong>Wiehanne</strong></a>:It's a PAID premium theme. If it's a free theme, I think nhc will be more than </li><li><a href="http://themelib.com/2008/09/arthemia-magazine-blogger-template/#comment-3526" title="View the entire comment by Henry"><strong>Henry</strong></a>:Hi there, this an excellent template! great work
-
-I have a question though, h</li><li><a href="http://themelib.com/2008/12/slidepress-premium-wordpress-theme/#comment-3525" title="View the entire comment by chodirin"><strong>chodirin</strong></a>:oh, i think premium themes can convert to blogger them. actually not.is ok</li><li><a href="http://themelib.com/2008/12/and-the-winners-of-themelib-giveaway-are/#comment-3524" title="View the entire comment by chodirin"><strong>chodirin</strong></a>:congrats to the winne</li><li><a href="http://themelib.com/2008/12/free-wordpress-e-commerce-plugin-wordpress-shopping-cart-plugin/#comment-3522" title="View the entire comment by Pages tagged " commerce""=""><strong>Pages tagged "commerce"</strong></a>:[...] bookmarks tagged commerce Free WordPress e-Commerce Plugin / Wordpress Sh</li><li><a href="http://themelib.com/2008/06/be-careful-of-fake-paypal-emails/#comment-3521" title="View the entire comment by Arun Basil Lal"><strong>Arun Basil Lal</strong></a>:Hey,
-There is yet another issue. Last month IEEE spectrum reported this.
-Hack</li><li><a href="http://themelib.com/2008/07/blogupp-boost-your-incoming-traffic/#comment-3518" title="View the entire comment by Arun Basil Lal"><strong>Arun Basil Lal</strong></a>:Hey, You cant say its from Blog Upp..
-
-Alexa rank will shift faster when you </li></ul> 
+	    <ul><li><a href="http://themelib.com/2009/02/blogging-tip-how-to-find-the-next-great-blog/#comment-5478" title="View the entire comment by Start Blogging"><strong>Start Blogging</strong></a>:Technorati, Digg, Stumbleupon, Delicious. From these sites you can browse for i</li><li><a href="http://themelib.com/2009/02/blogging-tip-how-to-find-the-next-great-blog/#comment-5477" title="View the entire comment by Start Blogging"><strong>Start Blogging</strong></a>:how about the power of word of mouth</li><li><a href="http://themelib.com/2009/02/blogging-tip-how-to-find-the-next-great-blog/#comment-5476" title="View the entire comment by Start Blogging"><strong>Start Blogging</strong></a>:THis is what Seth Godin talked about when he said that blogs are already satura</li><li><a href="http://themelib.com/2009/02/blogging-tip-how-to-find-the-next-great-blog/#comment-5475" title="View the entire comment by Kenney Works From Home"><strong>Kenney Works From Home</strong></a>:Yeah the word of mouth thing is usually a great way to find great blogs.  But y</li><li><a href="http://themelib.com/2009/02/blogging-tip-how-to-find-the-next-great-blog/#comment-5474" title="View the entire comment by Kenney Works From Home"><strong>Kenney Works From Home</strong></a>:You could go to Technorati and look at the top related blogs there</li><li><a href="http://themelib.com/2009/02/blogging-tip-how-to-find-the-next-great-blog/#comment-5473" title="View the entire comment by nhc"><strong>nhc</strong></a>:So what do you think about my blog? Is it a great one? :</li><li><a href="http://themelib.com/2009/02/blogging-tip-how-to-find-the-next-great-blog/#comment-5472" title="View the entire comment by Ryan Martin"><strong>Ryan Martin</strong></a>:I visit a high number of blogs on a daily basis. When I find a blog a like I al</li><li><a href="http://themelib.com/2009/02/blogging-tip-how-to-find-the-next-great-blog/#comment-5471" title="View the entire comment by Trivia"><strong>Trivia</strong></a>:That means that owners of great blogs should learn SEO :</li></ul> 
 	</div>
 
 </div>
 
-<div id="footer">  
+<div id="credits">  
 	<div class="left">
 	     Copyright<br>
 		 Links<br>
 	</div>
 	
 	<div class="right">
-		 © 2008 <a href="http://themelib.com">ThemeLib</a>. Some Rights Reserved. <a href="http://themelib.com/go/arthemia">Arthemia Theme</a> by <a href="http://michaeljubel.com">MichaelJubel</a> - Enhanced by <a href="http://themelib.com">ThemeLib</a><br>
+		 © 2008 - 2009 <a href="http://themelib.com">ThemeLib</a>. Some Rights Reserved. <a href="http://themelib.com/go/arthemia">Arthemia Theme</a> by <a href="http://michaeljubel.com">MichaelJubel</a> - Enhanced by <a href="http://themelib.com">ThemeLib</a><br>
 		 <a href="http://themelib.com/about">About Us</a> | <a href="http://themelib.com/contact">Contact Us</a> | <a href="http://themelib.com/advertise">Advertise With Us</a> | <a href="http://themelib.com/hire">Hire Us</a> | <a href="http://themelib.com/terms-of-service">Terms of Service</a> | <a href="http://themelib.com/privacy-policy">Privacy Policies</a> | <a href="http://feedproxy.google.com/ThemeLib">RSS Feed</a> | <a href="http://www.feedburner.com/fb/a/emailverifySubmit?feedId=2136690">Email Subscription</a> | <a href="http://themelib.com/sitemap.xml">Sitemap</a> | <a href="http://themelib.com/wp-admin">Log In</a><br>
 	</div>
 	
-	<!-- google analytics -->
+	<!-- top.org -->
+<a rel="nofollow" href="http://web.top.org/templates-themes/"><img style="border:none;width:0;height:0;" src="http://img1.top.org/toporg_843.gif"></a>
+<!-- /top.org -->
+
+<!-- google analytics -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript">
 var pageTracker = _gat._getTracker("UA-3908036-3");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
 <!-- /google analytics -->
 
-<!-- Start of StatCounter Code -->
+<!-- StatCounter -->
 <script type="text/javascript">
 var sc_project=3812816; 
 var sc_invisible=1; 
 var sc_partition=34; 
 var sc_click_stat=1; 
 var sc_security="8f458458"; 
-</script>
-
-<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script>
-<!-- End of StatCounter Code -->
+</script><script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script>
+<!-- /StatCounter -->
 
 <!-- infolinks -->
 <script type="text/javascript">var infolink_pid = 10463;</script>
