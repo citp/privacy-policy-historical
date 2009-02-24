@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crif.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218221506id_/http%3A//www.crif.com/en/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crif.com privacy policy that was archived on 2009-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090224161606id_/http%3A//www.crif.com/en/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy adopted by CRIF SpA’s website
 
