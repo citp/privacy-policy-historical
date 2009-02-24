@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the faniq.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630210254id_/http%3A//www.faniq.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faniq.com privacy policy that was archived on 2009-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090224111044id_/http%3A//www.faniq.com/privacy.php) for the most accurate reproduction.*
 
 # FanIQ - DCMA Policy
-
-FanIQ Privacy Policy
 
 FanIQ.com is an online service that allows our member sports fans to set up personal profiles. FanIQ members can view each others' profiles and communicate and compete with them in unique ways. To enrich our members' experience, we request and display some personal information to other members and visitors, which allows our users to identify each other and expand their network of friends. FanIQ members can change their profile information at any time.
 
