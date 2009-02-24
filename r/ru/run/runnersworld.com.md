@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runnersworld.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223075610id_/http%3A//www.rodale.com/1%2C%2C8-114%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runnersworld.com privacy policy that was archived on 2009-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090224070222id_/http%3A//www.rodale.com/1%2C6597%2C8-114%2C00.html) for the most accurate reproduction.*
 
 # Rodale
 
