@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplesearchnow.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218064323id_/http%3A//www.peoplesearchnow.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplesearchnow.com privacy policy that was archived on 2009-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090224154615id_/http%3A//www.peoplesearchnow.com/privacy.aspx) for the most accurate reproduction.*
 
 # People Search Now - Privacy Policy
 
