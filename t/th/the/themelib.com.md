@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the themelib.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216032350id_/http%3A//themelib.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themelib.com privacy policy that was archived on 2009-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090224182538id_/http%3A//themelib.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Blogger Templates
+# Privacy Policy | ThemeLib
+
+[Home](http://themelib.com/) » Privacy Policy 
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us through the [contact form](http://themelib.com/contact-me/ "Contact me").
 
