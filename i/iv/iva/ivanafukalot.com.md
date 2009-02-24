@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivanafukalot.com privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820002147id_/http%3A//www.ivanafukalot.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivanafukalot.com privacy policy that was archived on 2009-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090224192011id_/http%3A//www.ivanafukalot.com/legal/privacy.html) for the most accurate reproduction.*
 
 # 
 
