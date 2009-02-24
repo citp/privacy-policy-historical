@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modelmayhem.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160737id_/http%3A//www.modelmayhem.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modelmayhem.com privacy policy that was archived on 2009-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090224163259id_/http%3A//www.modelmayhem.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
