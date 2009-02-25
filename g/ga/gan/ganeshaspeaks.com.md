@@ -1,17 +1,10 @@
-> *The following text is extracted and transformed from the ganeshaspeaks.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611140524id_/http%3A//www.ganeshaspeaks.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ganeshaspeaks.com privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225114946id_/http%3A//www.ganeshaspeaks.com/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Free Astrology, Free Horoscope by GaneshaSpeaks.com
 
-|  |  |   
----  
-  
-|  |  |   
----|---|---  
-| 
-
 Privacy Policy
 
-| We at SiddhiVinayak Astrology Services ("we" or "GaneshaSpeaks") have created this privacy policy to demonstrate our commitment to privacy. We realize the importance of feeling safe online and want you to feel comfortable using our personalized services and exchanging information on our web site. We are committed to protecting your personal information and will take reasonable steps to see that this privacy policy is followed within our company. This statement below outlines the privacy practices for GaneshaSpeaks.com and is incorporated into and subject to the terms and conditions of our Terms of Service.  
+We at SiddhiVinayak Astrology Services ("we" or "GaneshaSpeaks") have created this privacy policy to demonstrate our commitment to privacy. We realize the importance of feeling safe online and want you to feel comfortable using our personalized services and exchanging information on our web site. We are committed to protecting your personal information and will take reasonable steps to see that this privacy policy is followed within our company. This statement below outlines the privacy practices for GaneshaSpeaks.com and is incorporated into and subject to the terms and conditions of our Terms of Service.  
 ---  
 **Information collected**  
 In order to provide you with personalized services and features we may ask you to register and establish your personal profile. During the registration process we may ask you for information such as your name, gender, birth information, e-mail address, password, place of residence, zip code, etc. This information is used to calculate an accurate horoscope or biorhythm and to provide you with the best possible personalized service. Your e-mail address together with a password is used to secure your profile and to make our personalized e-mail services available to you. We collect non-personally identifiable information about you in a number of ways, including tracking your activities on our site through your IP address or most-recently-visited URL. However, we do not collect any personally identifiable information about you unless you voluntarily submit such information to us, by using our products and services or by filling out a form or survey.  
@@ -38,35 +31,4 @@ You can delete your profile at any time by clicking on the "delete" link.
 **Contacting us**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us at [contact@ganeshaspeaks.com](mailto:contact@ganeshaspeaks.com).  
   
-[home](https://web.archive.org/web/20080611140524id_/http%3A//www.ganeshaspeaks.com/)  
-  
-|  |   
-  
-|   
----  
-|  | Testimonials |   
----|---|---  
-|  | 
-
-The language impresses me the most. It is a very mature, friendly advice which I get from this site
-
-R. Srinivasan  
-Chennai, India  
-  
----  
-  
-* * *  
-  
-I am impressed with the product range of this site. I have ordered a few reports here and they are right on the dot when it comes to accuracy
-
-Rajiv Chhabra  
-London, England  
-  
-* * *  
-  
-If you want really quick horoscopes (within 72 hours), this is the site. I have always got all my forecasts in time
-
-Rajesh Shah  
-Toronto, Canada  
-  
-|  | 
+[home](https://web.archive.org/web/20090225114946id_/http%3A//www.ganeshaspeaks.com/)
