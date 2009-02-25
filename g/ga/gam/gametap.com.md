@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gametap.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063523id_/http%3A//www.gametap.com/common/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gametap.com privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225234521id_/http%3A//www.gametap.com/common/privacy_policy.jsp) for the most accurate reproduction.*
 
 # GameTap - Privacy Policy
 
@@ -8,9 +8,9 @@ Thank you for visiting GameTap. Your privacy is important to us. To better prote
 
 THE INFORMATION WE COLLECT
 
-At some Time Warner sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
+At some GameTap, LLC. sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
 
-At some other Time Warner sites, you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card, to send a link or message to a friend about GameTap products or services, or the site, or other material, and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people include: recipient's name, address, e-mail address, and telephone number.
+At some other GameTap, LLC. sites, you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card, to send a link or message to a friend about GameTap products or services, or the site, or other material, and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people include: recipient's name, address, e-mail address, and telephone number.
 
 At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings.
 
@@ -32,11 +32,11 @@ We sometimes use information that we collect to improve the design and content o
 
 We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations or our terms of use, or as otherwise required by law. In addition, we may transfer information about you if we are acquired by or merged with another company.
 
-Agents and contractors of Time Warner who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for Time Warner.
+Agents and contractors of GameTap, LLC. who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for GameTap, LLC..
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice.
 
-Certain Time Warner sites may disclose personally identifiable information to companies whose practices are not covered by this privacy notice (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that may want to market products or services to you. If we share personally identifiable information with third parties, we will provide you with notice prior to sharing such information.
+Certain GameTap, LLC. sites may disclose personally identifiable information to companies whose practices are not covered by this privacy notice (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that may want to market products or services to you. If we share personally identifiable information with third parties, we will provide you with notice prior to sharing such information.
 
 We may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you.
 
@@ -54,11 +54,11 @@ back to top
 
 COLLECTION OF INFORMATION BY THIRD-PARTY SITES, AD SERVERS AND SPONSORS
 
-GameTap and other Time Warner websites may contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
+GameTap and other GameTap, LLC. websites may contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
-GameTap and other Time Warner websites sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. Time Warner has no control over these third parties' use of this information. The Time Warner site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
+GameTap and other GameTap, LLC. websites sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. GameTap, LLC. has no control over these third parties' use of this information. The GameTap, LLC. site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
 
-GameTap and other Time Warner websites may use a reputable third party to present or serve the advertisements that you may see at its Web pages. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our privacy policy. For more information on such third-party ad servers, please see the section below, entitled "Third-Party Ad Servers".
+GameTap and other GameTap, LLC. websites may use a reputable third party to present or serve the advertisements that you may see at its Web pages. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our privacy policy. For more information on such third-party ad servers, please see the section below, entitled "Third-Party Ad Servers".
 
 back to top
 
@@ -70,7 +70,7 @@ back to top
 
 HOW YOU CAN ACCESS OR CORRECT INFORMATION
 
-For instructions on how you can access the personally identifiable information that this Time Warner site has collected about you online, or how to correct factual errors in such information, please follow the directions at the bottom of this policy.
+For instructions on how you can access the personally identifiable information that this GameTap, LLC. site has collected about you online, or how to correct factual errors in such information, please follow the directions at the bottom of this policy.
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
@@ -95,7 +95,7 @@ back to top
 
 HOW TO CONTACT US
 
-If you have any questions or concerns about the Time Warner online policy for this site or its implementation you may contact us at [privacy.gametap@turner.com](mailto:privacy.gametap@turner.com).
+If you have any questions or concerns about the GameTap, LLC. online policy for this site or its implementation you may contact us at [privacy@gametap.com](mailto:customer.support@gametap.com).
 
 back to top
 
@@ -109,7 +109,7 @@ UNSUBSCRIBING & ACCESS TO YOUR INFORMATION
 
 If you have signed up to receive our emails and prefer not to receive marketing information from this site, follow the "unsubscribe" instructions provided on any marketing email you receive from GameTap.
 
-For instructions on how you can access the personally identifiable information that this Time Warner site has collected about you online, or how to correct factual errors in such information, please follow the instructions below.
+For instructions on how you can access the personally identifiable information that this GameTap, LLC. site has collected about you online, or how to correct factual errors in such information, please follow the instructions below.
 
 back to top
 
@@ -129,11 +129,10 @@ back to top
 
 You may send an e-mail or letter to the following e-mail or street address requesting access to or correction of the personally identifiable information that this site has collected about you online. For verification purposes, please include your first name, last name, and e-mail address.
 
-Privacy Manager - GameTap  
-TEG Online  
-1050 Techwood Drive NW  
-Atlanta, GA 30318 
+Privacy Manager  
+384 Northyards Boulevard, Building 500  
+Atlanta, GA 30313 
 
-e-mail: [privacy.gametap@turner.com](mailto:privacy.gametap@turner.com)
+e-mail: [privacy@gametap.com](mailto:customer.support@gametap.com)
 
 back to top
