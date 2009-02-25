@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidzbop.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219182536id_/http%3A//www.kidzbop.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzbop.com privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225103029id_/http%3A//www.kidzbop.com/privacy) for the most accurate reproduction.*
 
 # Kidz Bop
 
@@ -40,8 +40,15 @@ KidzBop.com provides links to other websites that may have their own information
 
 ## Questions/Concerns?
 
-If you have any questions, comments or concerns regarding KidzBop.com's privacy policy and/or practices, please e-mail us at: [info@kidzbop.com](mailto:info@kidzbop.com)
+If you have any questions, comments or concerns regarding KidzBop.com's privacy policy and/or practices, please contact:
+
+Cara Quinones  
+[cquinones@razorandtie.com](mailto:cquinones@razorandtie.com)  
+214 Sullivan St. Suite 4A  
+New York, NY 10012  
+P: (212) 598-2258  
+
 
 The KidzBop.com website is intended for domestic viewers and is consequently directed towards residents of the United States.
 
-This privacy policy was last updated on May 19, 2003.
+This privacy policy was last updated on February 12, 2009.
