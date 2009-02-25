@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cnb.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220185939id_/http%3A//www.cnb.com/aboutus/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnb.com privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225090155id_/http%3A//www.cnb.com/aboutus/terms/privacy.asp) for the most accurate reproduction.*
 
 # City National Bank: About Us - Privacy & Legal - Privacy Statement
 
-| [](mailto:?subject=City%20National%20Bank%20Web%20Page&body=The%20following%20page%20is%20from%20the%20City%20National%20Bank%20website%3A%0A%0Ahttps%3A//web.archive.org/web/20081220185939id_/http%253A//www.cnb.com/aboutus/terms/privacy.asp)  
+| [](mailto:?subject=City%20National%20Bank%20Web%20Page&body=The%20following%20page%20is%20from%20the%20City%20National%20Bank%20website%3A%0A%0Ahttps%3A//web.archive.org/web/20090225090155id_/http%253A//www.cnb.com/aboutus/terms/privacy.asp)  
 ---|---  
   
 Safeguarding Your Privacy
