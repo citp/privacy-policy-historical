@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affspy.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011719id_/http%3A//www.affspy.com/beta/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affspy.com privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225122520id_/http%3A//www.affspy.com/beta/privacy-policy.php) for the most accurate reproduction.*
 
 # Affspy :: #1 Affiliate Intelligence Tool
 
