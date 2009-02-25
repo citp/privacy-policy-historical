@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b-m.net privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219230738id_/http%3A//b-m.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b-m.net privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225090327id_/http%3A//b-m.net/privacypolicy.php) for the most accurate reproduction.*
 
 # Big Mega Directory- Contact Us
 
