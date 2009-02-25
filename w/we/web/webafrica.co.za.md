@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the webafrica.co.za privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220161618id_/http%3A//www.webafrica.co.za/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webafrica.co.za privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225105325id_/http%3A//www.webafrica.co.za/docs/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  
-
 
 Thank you for visiting our web site and reviewing our privacy policy. The purpose of this policy is to explain how we handle information we collect from you during your visit to our web site. It is important to keep in mind that we do not collect personally-identifiable information (name, address, e-mail address or other unique identifiers). 
 
