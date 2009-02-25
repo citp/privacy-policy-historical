@@ -1,28 +1,27 @@
-> *The following text is extracted and transformed from the pixsy.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixsy.com privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225081948id_/http%3A//www.pixsycorp.com/privacy.aspx) for the most accurate reproduction.*
 
 # Pixsy Corporation | Privacy Policy
 
-|  [ ](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/benefits.aspx)  
-[ ](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/management.aspx)  
-[ ](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/advisoryboard.aspx)  
-[ ](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/jobs.aspx)  
-[ ](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/events.aspx)  
-[ ](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/press.aspx)  
-[ ](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/news.aspx)  
-[ ](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/videos.aspx)  
-[ ](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/awards.aspx)  
-[ ](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/contact.aspx)  
-[ ](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/network.aspx)  
+|  [ ](https://web.archive.org/web/20090225081948id_/http%3A//www.pixsycorp.com/benefits.aspx)  
+[ ](https://web.archive.org/web/20090225081948id_/http%3A//www.pixsycorp.com/management.aspx)  
+[ ](https://web.archive.org/web/20090225081948id_/http%3A//www.pixsycorp.com/advisoryboard.aspx)  
+[ ](https://web.archive.org/web/20090225081948id_/http%3A//www.pixsycorp.com/jobs.aspx)  
+[ ](https://web.archive.org/web/20090225081948id_/http%3A//www.pixsycorp.com/events.aspx)  
+[ ](https://web.archive.org/web/20090225081948id_/http%3A//www.pixsycorp.com/press.aspx)  
+[ ](https://web.archive.org/web/20090225081948id_/http%3A//www.pixsycorp.com/news.aspx)  
+[ ](https://web.archive.org/web/20090225081948id_/http%3A//www.pixsycorp.com/videos.aspx)  
+[ ](https://web.archive.org/web/20090225081948id_/http%3A//www.pixsycorp.com/awards.aspx)  
+[ ](https://web.archive.org/web/20090225081948id_/http%3A//www.pixsycorp.com/contact.aspx)  
+[ ](https://web.archive.org/web/20090225081948id_/http%3A//www.pixsycorp.com/network.aspx)  
 
 
-[ ](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/misc/GoldmanSachsInternetConference2008.doc)
+[ ](http://www.natpemarket.com/index.php?option=com_wrapper&view=wrapper&Itemid=200)
 
-Pixsy CEO to speak at 17th annual Goldman Sachs Communacopia Conference 
+Pixsy CEO to speak at 2009 NATPE on Online Video Syndication  
 
-Sept 17-18th 2008   
-New York, NY 
 
-[more ›](https://programs.regweb.com/gs/cxvii2008/assets/cxvii2008_agenda_2008-09-04.pdf)     [agenda ›](http://pixsycorp.com/pressrelease.aspx?prid=51)
+January 28  
+Las Vegas, NV 
 
 [ ](http://videos.webpronews.com/2008/08/19/ses-norlin/)
 
