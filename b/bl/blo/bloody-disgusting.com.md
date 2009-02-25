@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloody-disgusting.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041116id_/http%3A//www.bloody-disgusting.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloody-disgusting.com privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225090554id_/http%3A//www.bloody-disgusting.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Bloody-Disgusting - About Us
 
