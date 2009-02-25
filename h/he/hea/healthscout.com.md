@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the healthscout.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220042956id_/http%3A//www.healthscout.com/nav/policy/1/main.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthscout.com privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225165833id_/http%3A//www.healthscout.com/nav/policy/1/main.html) for the most accurate reproduction.*
 
 # Consumer Health News, Information and Resources Updated Daily
 
 |  [](http://www.truste.org/ivalidate.php?url=www.healthscout.com&sealid=101)
 
-**(Updated November 15, 2007)**
+**(Updated January 5, 2009)**
 
   1. **Overview**
   2. **Information Collected Through the Sites**
@@ -117,7 +117,7 @@ At times, the Sites make use of "framing" technology, during which a frame withi
 
 13\. **Other Terms and Conditions:**
 
-Your access to and use of the Sites are subject to the [Terms of Use](https://web.archive.org/web/20081220042956id_/http%3A//www.healthscout.com/nav/policy/1/service-terms.html). The Sites are intended for United States users. United States law governs all transaction conducted on the Sites and any use of materials found on the Sites. 
+Your access to and use of the Sites are subject to the [Terms of Use](https://web.archive.org/web/20090225165833id_/http%3A//www.healthscout.com/nav/policy/1/service-terms.html). The Sites are intended for United States users. United States law governs all transaction conducted on the Sites and any use of materials found on the Sites. 
 
 ALL CONTENT PROVIDED ON THESE WEB SITES IS GENERAL IN NATURE AND IS PROVIDED FOR INFORMATIONAL PURPOSES ONLY. THE CONTENT PROVIDED ON THESE WEB SITES SHOULD NOT BE TREATED AS MEDICAL OR HEALTH CARE ADVICE. NOTHING CONTAINED ON THESE WEB SITES IS INTENDED TO BE USED FOR MEDICAL DIAGNOSIS OR TREATEMENT OR AS A SUBSTITUTE FOR CONSULTATION WITH A QUALIFIED HEALTH CARE PROFESSIONAL. ALWAYS SEEK THE ADVICE OF YOUR PHYSICIAN OR OTHER QUALIFIED HEALTH CARE PROVIDER WITH ANY QUESTIONS YOU MAY HAVE REGARDING A MEDICAL CONDITION. NEVER DISREGARD MEDICAL ADVICE OR DELAY IN SEEKING IT BECAUSE OF SOMETHING YOU HAVE READ ON THESE WEB SITES. 
 
@@ -126,9 +126,9 @@ ALL CONTENT PROVIDED ON THESE WEB SITES IS GENERAL IN NATURE AND IS PROVIDED FOR
 If you have any questions about this Privacy Policy, the practices of the Sites, or your interaction with the Sites, please contact us by clicking on the "Contact Us" link at the bottom of the page or at the following address: 
 
 The HealthCentral Network, Inc.  
-1655 N. Fort Myer Drive  
-Suite 400  
-Arlington, Virginia 22209  
+2300 Wilson Boulevard  
+Suite 600  
+Arlington, Virginia 22201  
 Telephone: 703-302-1040 
 
 16\. **Changes to this Privacy Policy.**
@@ -136,7 +136,7 @@ Telephone: 703-302-1040
 THCN reserves the right to modify this Privacy Policy from time to time, so please review it frequently. If we make material changes in the way we use Personal Data, we will notify you here, by email or by posting an announcement on the home pages of our Sites. Your continued use of the Sites after such changes to the Privacy Policy are posted will indicate your acceptance of the changed terms of the Privacy Policy. 
 
 **Copyright Notice**  
-©2007 The HealthCentral Network, Inc. All Rights Reserved 
+©2009 The HealthCentral Network, Inc. All Rights Reserved 
 
 **Registered Trademarks**  
 HEALTHCENTRAL®, HEALTHSQUARE®, HEALTHSCOUT®, FOODFIT®, FOODFIT.COM®, DRUG CHECKER®, AND DR.KOOP.COM® are registered trademarks of The HealthCentral Network, Inc. 
