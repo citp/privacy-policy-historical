@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simhq.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217085615id_/http%3A//www.simhq.com/_aboutus/aboutus.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simhq.com privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225105300id_/http%3A//www.simhq.com/_aboutus/aboutus.html%23privacy) for the most accurate reproduction.*
 
 # SimHQ.com - About Us
 
@@ -26,7 +26,7 @@ Since 1997, SimHQ has existed for one purpose... providing the simulation commun
 
 This didn’t happen by accident… it took dedicated volunteers, the support of our readers, and a continuing desire to be the best. If you’re new to SimHQ, take a look at our Staff Bios. Here you’ll see one of the things that set us apart. Many of our writers not only have “been there and done that” around the world, but continue pushing the envelope today. They are our inspiration and our ‘reality check’ that we are, after all, gaming, but their deep knowledge of the topics they write about shines through in their articles.
 
-Another ‘SimHQ difference’ is our technical knowledge. We’re all tinkerers….the kind of people who understand what makes our PCs tick, and who always seek to make our sims run the fastest, most stable, and with the highest quality that it can. Several of our staff either currently work for the world’s leading technology companies, or have in the past. We’re the best of both worlds…a site focused on simulations, but deeply interested in the hardware that makes it happen.
+Another ‘SimHQ difference’ is our technical knowledge. We’re all tinkerers…the kind of people who understand what makes our PCs tick, and who always seek to make our sims run the fastest, most stable, and with the highest quality that it can. Several of our staff either currently work for the world’s leading technology companies, or have in the past. We’re the best of both worlds…a site focused on simulations, but deeply interested in the hardware that makes it happen.
 
 Lastly, SimHQ staff are here for a simple reason….the freedom to tell it like it is. Many of us have written for other commercial or fan sites, and the experience hasn’t always been a good one. That desire to be accurate, truthful, and respectable comes through in any of our articles, and it’s the core of our Pledge to our Readers. Check the pledge out, and think about it the next time you’re reading an article trying to decide whether to spend your hard-earned money on a software title or piece of hardware. We mean what we say, and for good reason.
 
@@ -49,20 +49,22 @@ Forums Manager
 Tom "20mm" Hayden
 
 Assistant Forums Manager  
-Jay "Weasel Keeper" Jenkins
+Jay "Weasel Keeper" Jenkins  
+(Note: Jay is on leave of absence  
+moving to a new home)
+
+Downloads Manager  
+David "Stormtrooper" Tessier
 
 Administrators  
 Chuck "PFunk" Bellows  
 Dan "Chipwich" Blake  
 "Cat"  
-Ian "Chunx" Anderson   
+"Chunx"  
 Tom "WKLINK" Cofield  
 "dude163"  
 "Electra"  
-Doug "Uther" Lawrence  
-"Mad Max"  
 "*Panther*"  
-Vince "Beer Camel" Putze  
 "Sandbagger"
 
 Custodian  
@@ -71,9 +73,12 @@ Doug "guod" Atkinson
 | 
 
 Aviation & Air Combat Editors  
-Chris "BeachAV8R" Frishmuth  
 Frank "Dart" Giger  
 Ken "531 Ghost" King
+
+Chris "BeachAV8R" Frishmuth  
+(Note: Chris is on leave of absence  
+catching-up on personal stuff)
 
 Land & Armor Combat Editor  
 Chuck "Magnum" Ankenbauer
@@ -85,16 +90,13 @@ Motorsports Editor
 Jens "McGonigle" Lindblad
 
 Technology Editor  
-Joe Keefe 
+Joe Keefe
 
 Hardware Editor  
 John Reynolds
 
 Console Simulations Editor  
-Chuck "Magnum" Ankenbauer
-
-Downloads Manager  
-David "Stormtrooper" Tessier  
+Chuck "Magnum" Ankenbauer  
   
 ---|---  
   
@@ -208,13 +210,13 @@ Frequently Asked Questions
 
 **How much does it cost to maintain SimHQ?**
 
-The hours provided by our volunteers each month is well into the hundreds, as is the amount of money to pay for server space and traffic. The site depends on advertising revenue to exist. If you would like to advertise on SimHQ, [click here](https://web.archive.org/web/20081217085615id_/http%3A//www.simhq.com/_advertising/advertising.html).
+The hours provided by our volunteers each month is well into the hundreds, as is the amount of money to pay for server space and traffic. The site depends on advertising revenue to exist. If you would like to advertise on SimHQ, [click here](https://web.archive.org/web/20090225105300id_/http%3A//www.simhq.com/_advertising/advertising.html).
 
 **How can I support SimHQ?**
 
 There are several ways to support us.
 
-  * Purchasing a book, video, or other product through our [Library](https://web.archive.org/web/20081217085615id_/http%3A//www.simhq.com/_library/library.html). A percentage of the [Amazon](http://www.amazon.com/) sales help maintain the site's costs.
+  * Purchasing a book, video, or other product through our [Library](https://web.archive.org/web/20090225105300id_/http%3A//www.simhq.com/_library/library.html). A percentage of the [Amazon](http://www.amazon.com/) sales help maintain the site's costs.
   * Supporting our advertisers’ banner ads and letting them know you appreciate their supporting SimHQ.
   * You can also support us by recommending us to a friend. 
   * By visiting the site yourself!
@@ -252,4 +254,4 @@ Click here to go to top of this page.
 
 * * *
 
-Copyright 2008, SimHQ. All Rights Reserved. Contact the [webmaster](mailto:webmaster@simhq.com).
+Copyright 2009, SimHQ. All Rights Reserved. Contact the [webmaster](mailto:webmaster@simhq.com).
