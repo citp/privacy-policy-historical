@@ -1,16 +1,18 @@
-<!--The following is the downloaded HTML source of the chadwicks.com privacy policy that was archived on 2008-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080514172013id_/http%3A//www.chadwicks.com/Help/PrivacySecurity.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chadwicks.com privacy policy that was archived on 2009-02-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090225065607id_/http%3A//www.chadwicks.com/Help/PrivacySecurity.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="robots" content="all"><meta name="revisit" content="5 days"><meta name="language" content="com, es"><meta name="author" content="Chadwicks.com"><meta name="description" content="Chadwick's online shop for women's clothing. Career and casual dresses, tops, blazers, pants and suits with a large selection of Petite clothing, Tall and Women's sizes. Also find special occasion, swim &amp; outerwear.
 "><meta name="keywords" content="women's apparel, dress, tops, blazer, pants, suits, petite, misses, tall, women's size, womens apparel, women apparel, woman apparel, woman's apparel, womans apparel, chadwicks.com, chadwick, chadwicks, chawick, chawicks, chadwicks of boston, chadwick's of boston, chadwick.com, chadwick's.com, boston
 "><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><title>
 	Women’s Clothing &amp; Shoes, Petite, Tall &amp; Women's Sizes - Chadwick’s
 
-</title><link href="/Styles/master.css" rel="stylesheet" type="text/css"><link href="/Chameleon/CssFile/ChameleonGlobal.css" rel="stylesheet" type="text/css">
+</title><link href="/Styles/master.css" rel="stylesheet" type="text/css"><link href="/Chameleon/ContentFile/508754.css" type="text/css" rel="stylesheet"><link href="/Chameleon/CssFile/ChameleonGlobal.css" rel="stylesheet" type="text/css">
         <script src="/scripts/CookieHelper.js" type="text/javascript"></script>
         <script src="/scripts/EmailAsync.js" type="text/javascript"></script>
         <script language="javascript" type="text/javascript" src="/Scripts/ABTesting.js"></script>
         <script language="javascript" type="text/javascript" src="/Scripts/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
+        <script language="JavaScript" type="text/javascript" src="/js/underlayerframe.js"></script>
+      
         
     <link href="../styles/ss_main_grp1.css" rel="stylesheet" type="text/css">
     <link href="../styles/help.css" rel="stylesheet" type="text/css">
@@ -18,12 +20,24 @@
     <script language="JavaScript" type="text/javascript" src="../js/functions.js"></script>
 
 </head>
-    <body onload="loadResponse();processReqChange();">
-        <form name="aspnetForm" method="post" action="PrivacySecurity.aspx" id="aspnetForm">
+    
+    <body>
+           <div id="quickinfooverlay" onclick="window.parent.jsPopup.close();"></div>
+       <form name="aspnetForm" method="post" action="privacysecurity.aspx" id="aspnetForm">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE4Mzg0Mjk5ODdkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBR5jdGwwMCRIZWFkZXIxJGlidG5TZWFyY2hTdWJtaXQFImN0bDAwJEhlYWRlcjEkaWJ0blF1aWNrT3JkZXJTdWJtaXQ1T5oRFtvGrOT3cQEj8qcfDGewww==">
 
            
+      
+                    
+            <!-- MAXCHMB COB_UniversalBrandConnection_Header -->
+            <!-- MAXCHME COB_UniversalBrandConnection_Header -->
+
+            <!-- MAXCHMB COB_UniversalAdBanner_Header -->
+            <!-- MAXCHME COB_UniversalAdBanner_Header -->
+        
+            <!-- note: there should be no 'container' div here. -->
                 
+            
 
 <script language="javascript">
 function clearBox(box) 
@@ -33,104 +47,8 @@ function clearBox(box)
 }
 </script>
 
-<script type="text/javascript" language="javascript">
-var xmlReq = null;	
-	
-loadResponse();
-processReqChange();		
-
-function processReqChange() 
-{
-	// only if req shows "loaded"
-	if(xmlReq == null)
-	{
-		return "";
-	}
-	
-	if (xmlReq.readyState == 4)
-	{		
-		if (xmlReq.status == 200) 
-		{
-			if(xmlReq.responseText != null)
-			{
-				var promoDiv = document.getElementById("tdPromotion");				
-                //Simon add code for promo slider layer
-                var promoSlider = document.getElementById("promoLayer");
-                //alert(promoSlider);
-                //alert(xmlReq.responseText);
-                //this is stupid..but we have to do this
-                
-                var displayHtml = xmlReq.responseText;
-                
-                if(window.location.protocol.indexOf("s")<0)
-                {
-                    displayHtml = displayHtml.replace("https://secureimages.redcatsusa.com/", "http://images.redcatsusa.com/");
-                }
-                
-                
-				if(promoDiv != null)
-				{					
-					
-					promoDiv.innerHTML = displayHtml;
-				}
-				if(promoSlider!=null)
-				{
-				    promoSlider.innerHTML=displayHtml;
-				}
-			}
-				
-		} 		
-	}
-}
-
-
-function getFileName()
-{
-   if(window.location.protocol.indexOf("s")>0)
-       return "/account/acct_promotionserverS.aspx";
-    else
-        return "/account/acct_promotionserver.aspx";   
-
-}
-
-function loadResponse() 
-{				
-	xmlReq = getXmlHTTP();
-		
-	if(xmlReq != null)
-	{
-		//xmlReq.onreadystatechange = processReqChange;
-		var sURL=getFileName();
-		xmlReq.open("GET",sURL,false);	
-		//xmlReq.open("GET","/account/acct_promotionserver.aspx",false);	
-		xmlReq.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
-		xmlReq.send(null);
-		
-	}
-
-}
-
-function getXmlHTTP(){
-	if(typeof XMLHttpRequest!="undefined"){
-		return new XMLHttpRequest();
-	}
-	else if(typeof ActiveXObject != "undefined")
-	{
-		try{
-			var xmlhttp= new ActiveXObject("Microsoft.XMLHTTP");
-			return xmlhttp;
-		}
-		catch(e)
-		{
-			return null;
-		}
-	}
-	return null;
-}
-</script>
-
 <div class="mboxDefault" style="visibility: visible; display: block;"> </div>
-<script type="text/javascript">mboxCreate('chadwick_global');</script><div id="mboxMarker-default-chadwick_global-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://redcatsusa.tt.omtrdc.net/m2/redcatsusa/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580403852621-344985&amp;mboxPage=1580403857940-354074&amp;mboxCount=1&amp;mbox=chadwick_global&amp;mboxId=0&amp;mboxTime=1580403858455&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20080514172013id_%2Fhttp%253A%2F%2Fwww.chadwicks.com%2FHelp%2FPrivacySecurity.aspx&amp;mboxReferrer=&amp;mboxVersion=37" language="JavaScript"></script>
+<script type="text/javascript">mboxCreate('chadwick_global');</script><div id="mboxMarker-default-chadwick_global-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://redcatsusa.tt.omtrdc.net/m2/redcatsusa/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1582145029119-743622&amp;mboxPage=1582145031296-796991&amp;mboxCount=1&amp;mbox=chadwick_global&amp;mboxId=0&amp;mboxTime=1582145032240&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20090225065607id_%2Fhttp%253A%2F%2Fwww.chadwicks.com%2FHelp%2FPrivacySecurity.aspx&amp;mboxReferrer=&amp;mboxVersion=37" language="JavaScript"></script>
 
 <div id="promo-bar">
     
@@ -142,16 +60,16 @@ function getXmlHTTP(){
 
     
         <p>
-            <span id="ctl00_Header1_UserIdentification1_lblWelcomeText"></span><span id="ctl00_Header1_UserIdentification1_lblFirstNameWelcome"></span>
+            <span id="ctl00_Header1_UserIdentification1_lblWelcomeText">Welcome. <a href="/account/acct_login.aspx?ReturnUrl=%2fAccount%2fAcct_Main.aspx">Log In</a>  </span><span id="ctl00_Header1_UserIdentification1_lblFirstNameWelcome" style="font-weight: normal;">First time visitor? Create a <a href="/account/Acct_CreateProfile.aspx?ReturnUrl=%2fAccount%2fAcct_Main.aspx">New Account</a></span>
         </p>
         <p>
             <a id="ctl00_Header1_UserIdentification1_linkWelcomeToMyAcct" href="javascript:__doPostBack('ctl00$Header1$UserIdentification1$linkWelcomeToMyAcct','')"></a></p>
         <!-- used to sperate welcome message and previewed product link -->
         <p visible="false">
-            <span id="ctl00_Header1_UserIdentification1_spanDivider">&nbsp;|&nbsp;</span></p>
+            <span id="ctl00_Header1_UserIdentification1_spanDivider" style="display: none;">&nbsp;|&nbsp;</span></p>
     
     <p>
-        <a id="ctl00_Header1_UserIdentification1_lkPreViewedProducts" href="/ProductList/PreviouslyViewedProducts.aspx">Previously Viewed Products</a>
+        <a id="ctl00_Header1_UserIdentification1_lkPreViewedProducts" href="/ProductList/PreviouslyViewedProducts.aspx" style="display: none;">Previously Viewed Products</a>
         <span id="ctl00_Header1_UserIdentification1_spanWishListLink"></span>
     </p>
 
@@ -164,7 +82,7 @@ function getXmlHTTP(){
             <a href="/shopping_bag/ShoppingBag.aspx"><img src="http://images.redcatsusa.com/images/site_images/Chadwicks/121_icon_shopping_white.gif" alt="my shopping bag" id="shopping-bag" border="0"></a>
             
 <script src="/scripts/BasketItemCounterCookieHelper.js" type="text/javascript"></script>
-<a href="../shopping_bag/ShoppingBag.aspx" id="ctl00_Header1_ShoppingBasket1_hlbask" style="TEXT-DECORATION: none;float:left; "><span id="ctl00_Header1_ShoppingBasket1_lblBasketItemCount"></span></a>
+<a href="../shopping_bag/ShoppingBag.aspx" id="ctl00_Header1_ShoppingBasket1_hlbask" style="TEXT-DECORATION: none;float:left; "><span id="ctl00_Header1_ShoppingBasket1_lblBasketItemCount">&nbsp;Shopping Bag:&nbsp;(0&nbsp;Items)</span></a>
 
         
             
@@ -180,9 +98,9 @@ function getXmlHTTP(){
         <div style="float:left; width:135px; padding-left:10px;">
            
             <div class="acctlink"><a href="/Help/Help.aspx">Help</a></div>
-            <div class="acctlink"><a href="/Gift_Certificates/GiftCertificateMain.aspx">Gift Services</a></div>
+            <div class="acctlink"><a href="/Landing_Pages/GiftCardLandingPage.aspx">Gift Cards</a></div>
             <div class="acctlink"><a id="ctl00_Header1_hlCatalogRequest" href="../Catalog/email_cat_main_notlggdin.aspx">Email &amp; Catalog Request</a></div>
-            <div class="acctlink" style="margin-top:3px;"><a href="#" onclick="promoSlider('click');"><img style="" id="my-promotions" src="http://images.redcatsusa.com/images/site_images/Chadwicks/121_btn_specialoffers_blue.gif" alt="my promotions"></a></div>
+            <div class="acctlink" style="margin-top:3px;"><a href="/Account/Acct_MyPromotions.aspx"><img style="" id="my-promotions" src="http://images.redcatsusa.com/images/site_images/Chadwicks/121_btn_specialoffers_blue.gif" alt="my promotions"></a></div>
            
         </div>
         <div style="float:left; width:135px;">
@@ -192,8 +110,8 @@ function getXmlHTTP(){
             <!-- Inkriti changes start : bug fix no : 9708 -->
             <div class="acctlink"><a href="/Account/Apply_CreditCard.aspx" id="ctl00_Header1_haApplyCreditCard">Chadwick's Gold Card</a></div>
             <!--changes end-->
-            <div class="acctlink" style="margin-top:5px;"><a id="ctl00_Header1_hlCreditCardInfo" style="display:  none;"><img id="ctl00_Header1_imgCreditCardInfo" src="http://images.redcatsusa.com/images/site_images/Chadwicks/121-preapproved-blue.gif" border="0"></a>
-            <div class="acctlink"><a href="/Account/Apply_CreditCard.aspx" id="ctl00_Header1_haApplyCreditCardOTB"></a></div>
+            <div class="acctlink" style="margin-top:5px;"><a id="ctl00_Header1_hlCreditCardInfo" style="display:  none;"><img id="ctl00_Header1_imgCreditCardInfo" src="http://images.redcatsusa.com/images/site_images/Chadwicks/121-preapproved-blue.gif" border="0" style="display: none;"></a>
+            <div class="acctlink"><a href="/Account/Apply_CreditCard.aspx" id="ctl00_Header1_haApplyCreditCardOTB" style="display: none;"></a></div>
             </div>
            
         </div>
@@ -282,6 +200,10 @@ function changeImages() {
                 <a id="ctl00_Header1_TabNavigation_rptTopDepartments_ctl08_hlDepartmentId" href="/Womens-CLEARANCE.aspx?DeptId=8389">CLEARANCE</a>
             </div>
         
+            <div alt="Gift Cards" title="Gift Cards" id="Gift-Cards">
+                <a id="ctl00_Header1_TabNavigation_rptTopDepartments_ctl09_hlDepartmentId" href="/Womens-Gift-Cards.aspx?DeptId=18365">Gift Cards</a>
+            </div>
+        
         </div>
     
 </div>
@@ -290,102 +212,30 @@ function changeImages() {
 
 <!-- My Promotion DIV Layer Start -->
 <div id="promoLayer" style="display:none;">
-<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
-<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app104.us.archive.org';v.server_ms=249;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/_static/js/ait-client-rewrite.js" charset="utf-8"></script>
-<script type="text/javascript">
-WB_wombat_Init("https://web.archive.org/web/", "20070711062719", "www.chadwicks.com");
-</script>
-<script type="text/javascript" src="/_static/js/wbhack.js" charset="utf-8"></script>
-<script type="text/javascript">
-__wbhack.init('https://web.archive.org/web');
-</script>
-<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css">
-<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css">
-<!-- End Wayback Rewrite JS Include -->
-<div id="offers">
-	<table cellpadding="0" cellspacing="0" border="0" align="left">
-	
-		
-		<tbody><tr id="trNotLoggedIn">
-	<td colspan="2" valign="top">
-			
-				<div>
-				
-                    
-				    As a Valued Customer, you're
-				    <br>
-				    eligible for SPECIAL PROMOTIONS.
-				    <br>   <br>
-				    Your special promotions change<br>
-				    all the time, so check with us often!
-					<br>   <br>
-					
-					<a href="/web/20070711062719/https://www.chadwicks.com/Account/Acct_MyPromotions.aspx">Log in</a> or <a href="/web/20070711062719/https://www.chadwicks.com/Account/Acct_CreateProfile.aspx">
-						Register</a> to see<br>Your SPECIAL PROMOTIONS Now!
-						
-				</div>
-				
-				
-			</td>
-</tr>
-
-		<tr>
-		    <td colspan="2">
-		    <div class="close-promo"><a href="#" onclick="promoSlider('close');"><img src="https://web.archive.org/web/20070711062719im_/https://secureimages.redcatsusa.com/images/site_images/chadwicks/121_btn_promo_close.gif" alt="Close"></a></div>
-		    </td></tr>
-	</tbody></table>
-	
-	<br clear="all">
-	
 </div>
-<!--
-     FILE ARCHIVED ON 06:27:19 Jul 11, 2007 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 17:04:13 Jan 30, 2020.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
--->
-<!--
-playback timings (ms):
-  RedisCDXSource: 71.239
-  exclusion.robots.policy: 0.186
-  CDXLines.iter: 16.672 (3)
-  esindex: 0.017
-  PetaboxLoader3.datanode: 101.035 (4)
-  LoadShardBlock: 62.06 (3)
-  captures_list: 154.546
-  load_resource: 87.32
-  exclusion.robots: 0.201
-  PetaboxLoader3.resolve: 43.965
---></div>
       
 
 <!-- My Promotion DIV Layer End -->
 
-                
-                
-                
-<div id="content-wrapper">
+            
+            
+            
+<!-- MAXCHMB COB_Help_PrivacySecurity_ContentZone --><div id="content-wrapper">
         <div id="breadcrumbs">
 
             <a href="/">Home</a>
         </div>
 
-        <h2>Privacy Security</h2>
-<p>Privacy Policy and Terms of Use Last updated on: 03-11-08</p>
-        <p>
+        <h2>Privacy &amp; Security</h2>
+        <p>Privacy Policy and Terms of Use Last updated on: 10-30-08</p>
+        <p>Women's Apparel Group, LLC doing business as Boston Apparel Group, LLC offers customer-friendly policies designed to afford you a most secure and safe shopping experience. Click  <a href="#privacypolicy">PRIVACY</a>, <a href="#calprivacy">YOUR CALIFORNIA PRIVACY RIGHTS</a>, <a href="#privacystatement">PRIVACY STATEMENT</a>
 
-            <a href="http://www.redcats.com/english/" target="_blank">Redcats USA's</a> Family of Brands offers customer-friendly
-            policies designed to afford you a most secure and safe shopping experience. Click  <a href="#privacypolicy">PRIVACY</a>, <a href="#calprivacy">YOUR CALIFORNIA PRIVACY RIGHTS</a>, <a href="#privacystatement">PRIVACY STATEMENT</a>
-
-            and <a href="#terms">TERMS OF USE</a> for the details or simply scroll down.
-        </p>
+            and <a href="#terms">TERMS OF USE</a> for the details or simply scroll down.        </p>
         
         <p>
             <a name="privacypolicy"></a><strong>Privacy Policy</strong><br>
 
-           Redcats USA is committed to protecting your privacy.  The purpose of this privacy policy is to assist you in understanding the type of personal
+           Women's Apparel Group, LLC doing business as Boston Apparel Group, LLC is committed to protecting your privacy.  The purpose of this privacy policy is to assist you in understanding the type of personal
            information we may collect from you, how such information may be used and the choices that are available to you concerning the use of your 
            information and your ability to correct or modify the information you have provided us.  This policy is only applicable to customers in the United States.   
            
@@ -394,14 +244,7 @@ playback timings (ms):
 
            We reserve the right to modify or update this policy from time to time.  The effective date of this policy, as noted above, is the date that this
            policy was last updated.  We encourage you to periodically review this policy for any changes.  By visiting this web site you agree to be bound 
-           to the terms and conditions of our Privacy Policy.  If you do not agree with the terms of this Privacy Policy, please do not use or access our web site.
-        </p>
-        <p>
-          If you have any questions or concerns about our privacy policy, you may email us at PrivacyOfficer@RedcatsUSA.com.  We welcome your feedback and 
-          suggestions to help us improve our policy and practices.
-        </p>
-        
-        
+           to the terms and conditions of our Privacy Policy.  If you do not agree with the terms of this Privacy Policy, please do not use or access our web site.        </p>
         <p>
             <a href="#calprivacy"></a><strong>Your California Privacy Rights</strong><br>
 
@@ -409,93 +252,24 @@ playback timings (ms):
             The following only applies to California residents.<br>
 
             <br>
-            Redcats USA may from time to time share your personal information with third parties, including our affiliates, licensees and marketing partners, 
+            Women's Apparel Group, LLC doing business as Boston Apparel Group, LLC may from time to time share your personal information with third parties, including our affiliates, licensees and marketing partners, 
             for their direct marketing purposes. If you do not want us to share your personal information with third parties for their direct marketing purposes,
-            please contact each of the appropriate brand or brands by phone or email and request that your information not be shared. 
-        </p>
+            please contact each of the appropriate brand or brands by phone or email and request that your information not be shared.        </p>
         
         
         
         
         
-        <p>
-            <a href="http://www.avenue.com/webapp/wcs/stores/servlet/DisplayJsp?storeId=326&amp;langId=-1&amp;jspName=service/contact_us.jsp" target="_blank">Avenue:</a>
-            <span id="lblBHCustServNumber">(800) 411-1362</span>
-            <br>
-            
-            <a href="https://www.bcoutlet.com/ContactUs/ContactUs.aspx" target="_blank">Bargain
-                Catalog Outlet:</a> <span id="lblBCOCustServNumber">(888) 289-2815</span>
-
-            <br>
-             <a href="http://www.bargainoutfitters.com/net/main/MailUs.aspx" target="_blank">BargainOutfitters.com:</a>
-            <span id="lblBHCustServNumber">(888) 324-9634</span>
-
-            <br>
-             <a href="http://www.baseballsavings.com/about/contact.jsp" target="_blank">BaseballSavings.com:</a>
-            <span id="lblBHCustServNumber">(866) 923-5050</span>
-
-            <br>
-            
-            <a href="https://www.brylanehome.com/ContactUs/ContactUs.aspx" target="_blank">BrylaneHome:</a>
-            <span id="lblBHCustServNumber">(800) 677-0339</span>
-
-            <br>
-            <a href="https://www.brylanehome.com/ContactUs/ContactUs.aspx" target="_blank">BrylaneHome
-                Kitchen:</a> <span id="lblBKCustServNumber">(800) 784-8006</span>
-
-            
-            <br>
+        <p><br>
             <a href="https://www.chadwicks.com/ContactUs/ContactUs.aspx" target="_blank">Chadwick's:</a> <span id="lblCOBCustServNumber">
-                (800) 677-0340</span>
-            <br>
-
-            <a href="https://www.coboutlet.com/ContactUs/ContactUs.aspx" target="_blank">Closeout
-                Catalog Outlet:</a> <span id="lblCCOCustServNumber">(888) 289-2840</span>
-
-             <br>
-             
-            <a href="https://www.jessicalondon.com/ContactUs/ContactUs.aspx" target="_blank">
-                Jessica London:</a> <span id="lblJLCustServNumber">(800) 677-0357</span>
-            <br>
-           
-           <a href="https://www.kingsizedirect.com/ContactUs/ContactUs.aspx" target="_blank">
-                KingSize:</a> <span id="lblKSDCustServNumber">(800) 677-0249</span>
-
-            <br>
-
-            <a href="https://www.us.redoute.com/ContactUs/ContactUs.aspx" target="_blank">La
-                Redoute:</a> <span id="lblLARCustServNumber">(800) 677-0265</span>
-            <br>
-           
+                (800) 677-0340</span><br>
            <a href="https://www.metrostyle.com/ContactUs/ContactUs.aspx" target="_blank">metrostyle:</a> <span id="lblLERCustServNumber">(800) 677-0248</span>
             <br>
-
-            
-            <a href="https://www.onestopplus.com/ContactUs/ContactUs.aspx" target="_blank">OneStopPlus.com:</a> <span id="lblOSPCustServNumber">(800) 400-4481</span>
-
-            <br>
-           
-            <a href="https://www.roamans.com/ContactUs/ContactUs.aspx" target="_blank">Roaman's:</a>
-            <span id="lblROMCustServNumber">(800) 677-0229</span>
-            
-            <br>
-            <a href="http://www.tgw.com/about/golf/customerService/customerService.jsp" target="_blank">The Golf Warehouse:</a>
-
-            <span id="lblROMCustServNumber">(888) 838-5551</span>
-            
-            <br>
-            <a href="http://www.sportsmansguide.com/net/main/MailUs.aspx" target="_blank">The Sportsman's Guide:</a>
-            <span id="lblROMCustServNumber">(888)-844-0667</span>
-            
-            <br>
-           
-           <a href="https://www.womanwithin.com/ContactUs/ContactUs.aspx" target="_blank">Woman Within®:</a> <span id="lblLBCustServNumber">(800) 677-0216</span>
-
             <br>
             
             
             For more information on how your personal information is collected and used, please
-            read our PRIVACY POLICY below.        </p>
+  read our PRIVACY POLICY below.        </p>
             
             
             <p>
@@ -511,7 +285,7 @@ playback timings (ms):
             <p>
             Your privacy is important to us. To best serve your shopping needs, we endeavor to provide products, services, and 
             offers of value to you. We are able to present meaningful offers to you through the information we collect from our 
-            interactions with you, from other customers, and from other parties. Redcats USA has procedures in place to ensure 
+            interactions with you, from other customers, and from other parties. Women's Apparel Group, LLC has procedures in place to ensure 
             that your personal information is handled in a safe, secure, and responsible manner.<br>
             
             <br>
@@ -523,16 +297,15 @@ playback timings (ms):
         <div id="privacy">
 
             <ol>
-                <li><a href="#one">Who is Redcats USA?</a></li>
-                <li><a href="#two">What Information Does Redcats USA Collect?</a></li>
+                <li>1. <a href="#one">Who is Women's Apparel Group, LLC?</a></li>
+                <li>2.<a href="#two">What Information Does Women's Apparel Group, LLC Collect?</a></li>
 
-                <li><a href="#three">How Does Redcats USA Use The Information Collected?</a></li>
-                <li><a href="#four">What Information Does Redcats USA Share With Others?</a></li>
-                <li><a href="#five">Does Redcats USA use Third-Party Advertising?</a></li>
+                <li>3.<a href="#three">How Does Women's Apparel Group, LLC Use The Information Collected?</a></li>
+                <li>4.<a href="#four">What Information Does Women's Apparel Group, LLC Share With Others?</a></li>
+                <li>5.<a href="#five">Does Women's Apparel Group, LLC use Third-Party Advertising?</a></li>
 
-                <li><a href="#six">How Can I Access And Correct Information Collected?</a></li>
-                <li><a href="#seven">How Can I Opt Out Of Receiving Further Communications From Redcats
-                    USA?</a>
+                <li>6.<a href="#six">How Can I Access And Correct Information Collected?</a></li>
+                <li>7.<a href="#seven">How Can I Opt Out Of Receiving Further Communications From Women's Apparel Group, LLC?</a>
                     <ol>
 
                         <li style="list-style-type: lower-alpha"><a href="#seven">How to be Removed from a Paper
@@ -542,70 +315,847 @@ playback timings (ms):
                     </ol>
 
                 </li>
-                <li><a href="#eight">Are Redcats USA Division Credit Cards available?</a></li>
-                <li><a href="#nine">Does Redcats USA Send Unsolicited Promotional E-Mails?</a></li>
-                <li><a href="#ten">How Does Redcats USA Safeguard The Information Collected?</a></li>
+                <li>8. <a href="#eight">Are Women's Apparel Group, LLC Division Credit Cards available?</a></li>
+                <li>9. <a href="#nine">Does Women's Apparel Group, LLC Send Unsolicited Promotional E-Mails?</a></li>
+                <li>10.<a href="#ten">How Does Women's Apparel Group, LLC Safeguard The Information Collected?</a></li>
 
-                <li><a href="#eleven">Is My Online Transaction Secure?</a></li>
-                <li><a href="#twelve">Does Redcats USA Use Cookies?</a></li>
+                <li>11.<a href="#eleven">Is My Online Transaction Secure?</a></li>
+                <li>12.<a href="#twelve">Does Women's Apparel Group, LLC Use Cookies?</a></li>
 
-                <li><a href="#thirteen">Does Redcats USA Aggregate Information?</a></li>
-                <li><a href="#fourteen">What is Redcats USA's Policy With Respect To Data Collection
+                <li>13.<a href="#thirteen">Does Women's Apparel Group, LLC Aggregate Information?</a></li>
+                <li>14.<a href="#fourteen">What is Women's Apparel Group, LLC's Policy With Respect To Data Collection
                     From Children?</a></li>
-                <li><a href="#fifteen">Whom Do I Contact If I Have Additional Questions Or Concerns
+                <li>15.<a href="#fifteen">Whom Do I Contact If I Have Additional Questions Or Concerns
                     About This Policy?</a></li>
-                <li><a href="#sixteen">Information on Magazines Offer.</a></li>
-                
-
-                <li><a href="#seventeen" class="baselink">Links to Other Web Sites</a><br>
+                <li>17.<a href="#seventeen" class="baselink">Links to Other Web Sites</a><br>
                 </li>
 
-                <li><a href="#eighteen" class="baselink">Policy Changes</a></li>
+                <li>18.<a href="#eighteen" class="baselink">Policy Changes</a></li>
             </ol>
       </div>
   <p>
-            <a name="one"></a><strong>Who is Redcats USA?</strong><br>
-      <a href="http://www.redcats.com/english/" target="_blank">Redcats USA</a>, a member of
-            the <a href="http://www.redcats.com/uk/index.htm" target="_blank">Redcats Home Shopping
-                Division</a> of the <a href="http://www.ppr.com/" target="_blank">PPR group</a>,
-            of home shopping brands that offer value-priced home goods, apparel from regular to extended 
-            sizes for women and men, and sporting goods. Redcats USA Brands include such well-known names
-            as <a href="http://www.chadwicks.com/" target="_blank">Chadwick's</a>,
-      <a href="http://www.metrostyle.com/" target="_blank">metrostyle</a>, and <a href="http://www.us.redoute.com/" target="_blank">La Redoute</a> in misses footwear
-            and apparel; <a href="http://www.avenue.com/" target="_blank">Avenue®</a>, 
-      <a href="http://www.womanwithin.com/" target="_blank">Woman Within®</a>,
-      <a href="http://www.roamans.com/" target="_blank">Roaman's®</a> and <a href="http://www.jessicalondon.com" target="_blank">Jessica London</a> for women’s extended size footwear and apparel   
-            
-            sizes 12W &amp; up; <a href="http://www.kingsizedirect.com" target="_blank">KingSize</a>
-
-      offering men’s Big and Big/ Tall footwear and apparel from XL to 10XL; <a href="http://www.brylanehome.com" target="_blank">BrylaneHome</a>, offering home textile fashions and decorative
-            accessories; <a href="http://www.brylanehome.com" target="_blank">BrylaneHome Kitchen</a>,
-            your source for unusual and hard-to-find kitchen and home essentials, super-efficient gadgets, 
-            utensils, state-of-the-art cookware, cleaners, organizers, decorating accessories, bathroom 
-            fixer-uppers and much more. Our two outlet sites offer discounts from 30% to 80%. 
-      <a href="http://www.coboutlet.com" target="_blank">Closeout Catalog Outlet</a> offers misses' apparel and home fashions.
-      <a href="http://www.bcoutlet.com" target="_blank">Bargain Catalog Outlet</a> offers women’s and men’s plus-size apparel 
-            and home fashions. Redcats USA’s brand portfolio also contains leading sporting goods divisions like 
-      <a href="http://www.tgw.com/main.jsp" target="_blank">The Golf Warehouse</a>, 
-      <a href="http://www.sportsmansguide.com" target="_blank">The Sportsman’s Guide</a>, 
-      <a href="http://www.bargainoutfitters.com" target="_blank">Bargain Outfitters</a> and 
-      <a href="http://www.baseballsavings.com" target="_blank">Baseball Savings</a>.  The Golf Warehouse offers golf equipment and accessories.  
-            The Sportsman’s Guide makes available value-priced outdoor gear and general merchandise.  Bargain Outfitters offers 
-            top quality name brand gear, clothing and footwear.  Baseball Savings offers baseball equipment, apparel, shoes, 
-            accessories and team logos.  With this strong family of brands, many of which have been in existence for over 75 years, 
-            Redcats USA is one of the leading multi-channel retailers in the United States, and part of an international Family of 
-            Brands that make PPR a world leader in distribution to consumers and businesses. 
-      <a href="http://www.redcats.com/english/contacts.aspx" target="_blank">Click
-          here</a> for Redcats USA brands' contact information.        </p>
-
-        <p>
-            <a name="two"></a><strong>What Information Does Redcats USA Collect?</strong>
-        </p>
+      <a name="one"></a><strong>Who is Women's Apparel Group, LLC?</strong></p>
+  <p>Women's Apparel Group, LLC offers apparel from regular to extended sizes for women. Women's Apparel Group, LLC Brands include well-known names such as (<a href="http://www.chadwicks.com/Default.aspx">Chadwick's</a>, and <a href="http://www.metrostyle.com/">Metrostyle</a>)</p>
+  <p>
+            <a name="two"></a><strong>What Information Does Women's Apparel Group, LLC Collect?</strong>
+  </p>
         <ul id="privacy2">
             
-            <li>Redcats USA collects information you provide to us about yourself to serve your needs. 
+            <li>•&nbsp;Women's Apparel Group, LLC collects information you provide to us about yourself to serve your needs. 
             For example, if you place an order, or simply register on our site, you will provide to us 
             your name, address, e-mail address, phone number and credit card or other payment related 
             information. When purchasing age-restricted products you will also be asked for your birth
             date.  Of course, if you are placing an order, you will need to know the product(s) you wish
-            to purchase.  Whether you choose to provide us with this inf</li></ul></div></div></form></body></html>
+            to purchase.  Whether you choose to provide us with this information is completely voluntary.
+            If, however, you do not choose to provide such information you may not be able to purchase 
+            products from us or access certain services and/or portions of our web sites.  </li>
+            
+            <li>•&nbsp;Women's Apparel Group, LLC also collects information you voluntarily submit when participating in one of our 
+            various services, promotions, programs or surveys. From your transactions and other interactions 
+            with us, we obtain information concerning the specific products or services you purchase or use. </li>
+            
+            <li>•&nbsp;Women's Apparel Group, LLC also receives information about you from other companies, including, but not limited to 
+            information on your creditworthiness for private label credit card offers and products you may be interested in purchasing. 
+              <p></p>
+        </li>
+  </ul>
+        <p>
+            <a name="three"></a><strong>How Does Women's Apparel Group, LLC Use The Information Collected?</strong><br>
+            Women's Apparel Group, LLC uses the information collected as follows:
+        </p>
+        <ul id="privacy2">
+            <li>to process and complete your purchase transactions and provide the services you request; </li>
+
+            <li>to send you catalogs and other offerings through the mail;</li>
+            <li>to contact you about the status of your orders; </li>
+            <li>to identify your product and service preferences, so that you can be informed of new or 
+            additional products, services, and promotions that might be of interest to you; </li>
+            
+            <li>to notify you of product recalls or provide other information concerning products you have purchased; and </li>
+            <li>to improve our merchandise selections, customer service, and overall customer shopping experience. </li>
+            <li>see third-party advertising below.</li>
+
+        </ul>
+        <p>
+            <a name="four"></a><strong>What Information Does Women's Apparel Group, LLC Share with Others?</strong>
+        </p>
+        <ul id="privacy2">
+            <li><strong>Women's Apparel Group, LLC Family of Brands:</strong> Women's Apparel Group, LLC is a family of direct mail catalogers and e-tailers, including, Chadwick’s® and metrostyle®.</li>
+            <li>Women's Apparel Group, LLC also shares the collected information with affiliated companies and licensees. </li>
+            <li><strong>Third-Party Offers:</strong> Women's Apparel Group, LLC provides information to certain outside companies and marketing partners so they can let our customers know about products or services that might be of interest to you. </li>
+            <li><strong>Third-Party Advertising:</strong> See below. </li>
+            <li><strong>Legal Disclosures:</strong> In the highly unlikely event Women's Apparel Group, LLC is required to disclose customer information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws, Women's Apparel Group, LLC will make such disclosure. Women's Apparel Group, LLC also reserves the right to share information with legal authorities and other companies for purposes of fraud protection. In the event the ownership of all or a part of a business within the Women's Apparel Group, LLC Family were to change, customer information pertinent to that business' operations would likely be transferred to, or licensed for use by, the new owner. </li>
+            <li><strong>Magazines:</strong> If you chose to order magazines over the telephone or the Internet, Women's Apparel Group, LLC will supply SynapseConnect (their telemarketing division- Magazine Direct; their online division- MagazineOutlet.com) with the information that is relevant to your magazine order. </li>
+            <li><strong>Women's Apparel Group, LLC Credit Card Accounts:</strong> We may share your information with the bank that issues Women's Apparel Group, LLC division credit card accounts, World Financial Network National Bank.<br>
+
+                                    <br>
+          If you do not want us to share your personal information with third parties for promotional purposes, please contact the appropriate brand or brand by phone or email and request that your information not be shared. <br>
+          <br>
+          <a href="https://www.chadwicks.com/ContactUs/ContactUs.aspx" target="_blank">Chadwick's:</a> <span id="lblCOBCustServNumber">
+          (800) 677-0340</span><br>
+           
+                <a href="https://www.metrostyle.com/ContactUs/ContactUs.aspx" target="_blank">metrostyle:</a> <span id="lblLERCustServNumber">(800) 677-0248</span><br> 
+          </li>
+  </ul>
+        <p>
+            <a name="five"></a><strong>Does Women's Apparel Group, LLC Use Third-Party Advertising?</strong><br>
+            Women's Apparel Group, LLC shares website usage information about visitors to our website, who have received a targeted promotional campaign, with a 
+            reputable third-party advertising company for the purpose of targeting future campaigns and upgrading visitor information used in reporting
+            statistics. For this purpose, we and our third-party advertising company note some of the pages you visit on our website through the use 
+            of pixel tags (also called clear gifs). For more information about our third-party advertising company, 
+            please <a href="http://www.doubleclick.net/us/corporate/privacy/privacy/email/default.asp?asp_object_1=" class="redtext" target="_blank">click here</a>.
+        </p>
+        <p>
+
+            <a name="six"></a><strong>How To Access And Correct Information Collected?</strong><br>
+
+            You can update or correct your name, address, telephone number or e-mail address at any
+            time by visiting any of our websites and clicking on the  <u>My Account</u>
+            link at the top of any of our websites and <u>registering/logging in</u> with your e-mail address 
+            
+            and password. You can also call, write, fax or e-mail us to access or correct any of this information. 
+            See the table below to update your information with any or all of our brands.
+        </p>
+        <p>
+      </p><table width="90%" border="1" cellpadding="3" cellspacing="0">
+
+                <tbody><tr valign="top">
+                    <td width="10%">
+
+                        BRAND</td>
+                    <td width="20%">
+                        CAN YOU EDIT YOUR OWN PERSONAL INFO ONLINE?</td>
+                    <td width="15%">
+                        MAIL ORDER ADDRESS</td>
+
+                    <td width="15%">
+                        WRITE US CUSTOMER SERVICE / MAIL PREFERENCE</td>
+
+                    <td width="15%">
+                        RETURN MERCHANDISE ADDRESS</td>
+                    <td width="25%">
+                        CONTACT</td>
+                </tr>
+
+                <tr valign="top">
+                    <td width="10%">
+
+                        Chadwick's</td>
+
+                    <td width="20%">
+                        Yes, please visit<br>
+                        My Account on<br>
+                        <a href="http://www.chadwicks.com/Account/Acct_Main.aspx">www.chadwicks.com</a></td>
+                    <td width="15%">
+
+                        Chadwick's Catalog and Real Comfort 300 Constitution Drive, Taunton, MA 02780</td>
+                    <td width="15%">Chadwick's Catalog and Real Comfort 300 Constitution Drive, Taunton, MA 02780</td>
+                    <td width="15%">
+                        Chadwick's One Chadwick Place PO Box 4400 Taunton, MA 02783</td>
+                    <td width="25%">
+                        Internet Orders:<br>
+
+                        (800) 544-3795
+                        <br>
+                        <br>
+
+                        Customer Service:<br>
+                        (800) 677-0340
+                        <br>
+                        <br>
+                        TDD Hearing Impaired:<br>
+
+                        (800) 978-8798
+                        <br>
+                        <br>
+                        Fax:<br>
+
+                        (800) 448-5767
+                        <br>
+                        <br>
+                        Website technical Problems/Error Messages:<br>
+
+                        (800) 507-9307
+                        <br>
+                        <br>
+                        Contact (e-mail):<br>
+                        <a href="https://www.chadwicks.com/ContactUs/ContactUs.aspx" target="_blank">Click here to contact us</a><br>                    </td>
+                </tr>
+                <tr valign="top">
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr valign="top">
+
+                    <td width="10%">
+                        Metrostyle</td>
+                    <td width="20%">
+                        Yes, please visit<br>
+                        My Account on<br>
+                        <a href="https://www.metrostyle.com/account/acct_login.aspx">www.metrostyle.com</a></td>
+
+                    <td width="15%">
+
+                        Metrostyle PO Box 8320 Indianapolis, IN 46283-8320</td>
+                    <td width="15%">Metrostyle PO Box 8320 Indianapolis, IN 46283-8320</td>
+                    <td width="15%">
+                        Metrostyle 2300 Southeastern Ave Indianapolis, IN 46283</td>
+                    <td width="25%">
+
+                        Internet Orders:<br>
+
+                        (800) 416-9471
+                        <br>
+                        <br>
+                        Customer Service:<br>
+                        (800) 677-0248
+                        <br>
+                        <br>
+
+                        TDD Hearing Impaired:<br>
+                        (800) 288-0291
+                        <br>
+
+                        <br>
+                        Fax:<br>
+                        (800) 288-0448
+                        <br>
+                        <br>
+
+                        Website technical Problems/Error Messages:<br>
+                        (800) 507-9303
+                        <br>
+                        <br>
+
+                        Contact (e-mail):<br>
+                        <a href="https://www.metrostyle.com/ContactUs/ContactUs.aspx" target="_blank">Click here to contact us</a><br>                    </td>
+                </tr>
+   </tbody></table>
+
+        <p></p>
+
+
+        <p><strong>Any request to update your personal information may take up to 30 days for email requests and up to 60 days for mail and phone requests.</strong>
+        
+        </p>
+        <p>
+            <a name="seven"></a><strong>How Can I Opt Out of Receiving Further Communications from Women's Apparel Group, LLC?</strong><br>
+            <br>
+            <u>How to Be Removed from a Paper Catalog Mailing List</u><br>
+
+            <br>
+            You can contact us by mail, phone or Email at the relevant address or phone number listed on the above 
+            table for the specific brand from whom you wish to stop receiving paper catalogs.  Please make sure to 
+            provide us with your exact name and address or the mailing label from your catalog so that we can identify you correctly.
+            <br>
+            <br>
+
+            We will make every effort to implement any choice you make as soon as possible, but you should allow approximately three 
+            months for mailing change requests to be fully implemented.  Any mailings that you may receive during this time do not 
+            reflect your subscription status, and we ask that you please disregard them.  
+            <br>
+            <br>
+            <u>How to Unsubscribe from an E-Mail Marketing List</u><br>
+            <br>
+
+            To be removed from any one of the Emailing solicitation lists from any one of the Women's Apparel Group, LLC Family of brands, please click on the relevant link below to be taken to the proper unsubscribe page:        </p>
+        <ul id="privacy2"><li>Chadwicks.com Email List <a href="https://www.chadwicks.com/Account/Email_Unsubscribe.aspx" class="redtext" target="_blank">Unsubscribe Page</a></li>                  
+          <li>metrostyle.com Email List <a href="https://www.metrostyle.com/Account/Email_Unsubscribe.aspx" class="redtext" target="_blank">Unsubscribe Page</a></li>                  
+        </ul>
+
+        <p>You will be removed from receiving future e-mail solicitations, from the specific brand from which you unsubscribed, apart from those that have already been processed before this request was received. When making the request please provide the exact email address you which to exclude from our promotions.<br> 
+          <br>
+        Please know that it may take up to 7 days to remove you from our e-mailing solicitation lists. If you choose to be removed from our e-mailing solicitation lists you will still continue to receive order and confirmation emails as well as emails relating to your other transactions. </p>
+        <p>
+            <a name="eight"></a><strong>Are Women's Apparel Group, LLC Division Credit Cards Available?</strong><br>
+            <br>
+          Yes. You can apply for a Chadwick’s®, metrostyle® credit card account or Visa Card accounts issued by World Financial Network National Bank to receive special offers and participate in exclusive brand benefits. <br>
+	<br>
+		When you apply for one of these credit cards online, you provide your financial and personal information needed to process your application directly to World Financial Network National Bank. Women's Apparel Group, LLC is independent of and not affiliated with World Financial Network National Bank. <br>
+	<br>
+		To obtain a privacy policy, opt-out information, or contact information, for any Women's Apparel Group, LLC private label credit card or Visa Card accounts, you may contact the issuer of your card, the World Financial Network National Bank, by clicking through to the links provided below: <br>
+	<br>
+		<a href="https://onlineaccess.mycreditcard.cc/chadwicks">Chadwick's®</a><br>
+		<a href="https://onlineaccess.mycreditcard.cc/chadwicks-BC">Chadwick's® Visa®</a><br>
+		<a href="https://onlineaccess.mycreditcard.cc/metrostyle">metrostyle®</a><br>
+  <strong>&nbsp;</strong></p>
+        
+        
+       
+       <p>
+
+            <a name="nine"></a><strong>Does Women's Apparel Group, LLC Send Unsolicited Promotional Emails?</strong>
+  </p>
+
+            No. Women's Apparel Group, LLC only sends marketing e-mail offers to customers who agree to receive them.
+            
+            <p></p>
+            <p>
+            Our on-line order form contains a pre-checked box signifying your consent to receive promotional emails from us.  
+            If you do not wish to receive such e-mails, please un-check the box. 
+            </p>
+           
+           <p> 
+            If you are not placing an order and would like 
+            to request occasional promotional e-mail offers, notifying you of special deals, web-only offers and product previews,
+            you may sign up for <u>E-Mail Offers</u> on this website, or call, fax or write us at the addresses listed above. 
+            
+      </p>
+
+            
+            <p>
+            To remove your name from any e-mail offer list, click the unsubscribe link in any of our marketing e-mails you receive, login to the 
+            <u>Account Settings</u> under the <u>My Account</u> section of the website in question, or contact our Customer Service Center.
+            </p>
+            
+            <p>
+            Registered website users who have purchased from one of our websites will receive standard order status communications, such as order 
+            confirmation, shipping dates, etc. via e-mail at the registered e-mail account the user has designated. Your choice to opt-in or opt-out 
+            of promotional e-mails will not affect the order status and registration service.
+            </p>
+            
+            <p>
+
+            We may offer from time to time referral programs that permit you to submit information about other persons (each, a “Referred Person”), 
+            including, without limitation, email addresses, names, street addresses and other contact information so that they may receive information
+
+
+
+
+
+            and/or promotional offers. We will use and store any such information that we collect from you about a Referred Person only to the extent 
+            necessary to carry out your request, and we will not use any such information for any other purpose unless the Referred Person consents to 
+            the use for such other purpose.
+            </p>
+           
+            <p>
+            Women's Apparel Group, LLC does not rent, sell or exchange your e-mail address with third parties to send you unsolicited e-mail offers.
+            
+        </p>
+        <p>
+            <a name="ten"></a><strong>How Does Women's Apparel Group, LLC Safeguard the Information Collected?</strong><br>
+
+            Women's Apparel Group, LLC protects against unauthorized disclosures by limiting access only to those of our employees who need the information to 
+            do their jobs. Women's Apparel Group, LLC employees are trained about their responsibility to protect our customers’ privacy. We limit the information
+            we provide to outside companies to only the information we believe is appropriate to enable them to carry out their responsibilities under
+            our contracts or to offer you products and services we think might be of interest to you. We contractually require that the information 
+            provided be used only for the specifically authorized purpose and that its confidentiality be maintained. 
+        </p>
+
+        <p>
+            <a name="eleven"></a><strong>Is My Online Transaction Secure?</strong><br>
+            
+            Yes. It is very secure. The use of the latest cutting edge technology ensures that your shopping experience will be safe and secure. We encrypt your
+            personal information, including your name, address, and credit card number when transmitting over the Internet using Secure Socket Layer (SSL) security
+            software. We constantly update our security procedures and enhance our site to meet the very latest encryption standards. We retain a third party security
+            firm to audit our procedures to ensure compliance with these standards. All of your sensitive information is scrambled before, during and after your order 
+            is placed on our site.
+            <br>
+            <br>
+            You may notice an unbroken key
+            <img src="http://images.redcatsusa.com/images/site_images/brylanehome/key.millena.gif" width="18" height="18" alt="">
+            or a closed lock
+            <img src="http://images.redcatsusa.com/images/site_images/brylanehome/lock.millena.gif" width="18" height="18" alt="">
+
+           at the bottom of the page when you enter our "check-out" page. This means that your browser has opened a secure connection with our site! You can also 
+           check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "http" to "https." 
+            <br>
+            <br>
+            <strong>PLEASE NOTE THAT NORMAL E-MAIL (SUCH AS USING CONTACT US OR YOUR HOME E-MAIL) IS NOT ENCRYPTED AND THUS IS NOT A SECURE MEANS FOR TRANSMITTING CREDIT CARD 
+            INFORMATION OR ANY PERSONAL INFORMATION YOU WISH TO KEEP PRIVATE AND SECURE.</strong>
+        </p>
+        <p>
+            <a name="twelve"></a><strong>Does Women's Apparel Group, LLC Use Cookies?</strong><br>
+           Women's Apparel Group, LLC uses cookies to enhance the browsing and shopping experience on the Women's Apparel Group, LLC Family of Brands’ websites. Cookies are small files or records that we 
+           place on your computer’s hard drive to collect information about your activities on the Women's Apparel Group, LLC sites. There are absolutely no personally identifiable pieces 
+           of information stored anywhere in these files, and they are used solely by Women's Apparel Group, LLC to enhance your shopping experience and to allow us to serve you better in 
+           the future. These cookies transmit information back to the computers at Women's Apparel Group, LLC’s Family of Brands; these computers are, generally speaking, the only computers
+           which are authorized to read such information. The information captured makes it possible for us (i) to speed navigation, keep track of items in your shopping cart, 
+           and provide you with custom tailored content; (ii) to remember information you gave to us so you don’t have to reenter it each time you visit the Women's Apparel Group, LLC sites; 
+           (iii) to monitor the effectiveness of some of our marketing e-mail campaigns; and (iv) to monitor total number of visitors, pages viewed, and the total number of 
+           visitors served. 
+            <br>
+
+            <br>
+            Most people do not even know that cookies are being placed on their computers when they visit the Women's Apparel Group, LLC Family of Brands’ sites or most other websites 
+            because web browsers are typically set to accept cookies. You can choose to have your browser warn you every time a cookie is being sent to you or you can turn
+            off cookie acceptance altogether.  However, if you refuse cookies, you will be unable to order from the Women's Apparel Group, LLC sites using the Shopping Cart. You will still be able to browse our selection, but 
+            the order process requires that your Web Browser be set to allow cookies. Moreover, by not allowing cookies, your overall Internet browsing experience could be adversely affected.
+            
+          
+        </p>
+        <p>
+            <a name="thirteen"></a><strong>Does Women's Apparel Group, LLC Aggregate Information?</strong><br>
+            Yes. Women's Apparel Group, LLC collects non-personal information about how users navigate through our websites. This statistical information is gathered in order to improve the Women's Apparel Group, LLC sites. This information may be shared with Women's Apparel Group, LLC affiliates or other outside companies. This aggregated statistical and navigational information does not include
+            individual names, personal data or account information, so it does not identify you or any other customer.
+        </p>
+
+        <p>
+
+            <a name="fourteen"></a><strong>What is Women's Apparel Group, LLC's Policy With Respect To Data Collection From Children?</strong><br>
+            Women's Apparel Group, LLC takes care to protect the privacy and safety of children.  Our web sites are not directed or targeted to children under the age of 13 and we 
+            do not knowingly collect any personal information from children under the age of 13 on our websites.  We do not permit anyone under the age of 13 to register
+            with us.  If you are under the age of 13, you are welcome to browse our websites.  However, you are not permitted to use any features of our site that require 
+            the collection of any personally identifiable information.  If we learn that we have obtained personal information from a child under the age of 13, we will 
+            use reasonable efforts to immediately delete that data from our records.  
+        </p>
+        <p>
+            <a name="fifteen"></a><strong>Concerns About This Policy?</strong><br>
+           If you have any questions or concerns about this policy, please contact PrivacyOfficer@RedcatsUSA.com for our Customer Service Center by phone, e-mail, or mail.<br>
+           <a name="seventeen" id="seventeen"></a> 
+  </p>
+        <p></p>
+
+      <h3>Links to Other Web Sites</h3>
+        
+        <p>Women's Apparel Group, LLC occasionally provides links on our web sites to other non-affiliated we sites to enhance your shopping experience.  These other web sites operate 
+        independently from Women's Apparel Group, LLC and will have their own privacy and security policies.  We strongly encourage you to review these policies at any web site you visit.  
+        Women's Apparel Group, LLC does not take responsibility for such non-affiliated web sites.  &nbsp; </p>
+        <a name="eighteen" id="eighteen"></a>
+
+        
+        <h3>Effective Date and Policy Changes </h3>
+        
+        
+        <p>Women's Apparel Group, LLC may from time to time make changes to its Privacy Policy to reflect changes in its privacy practices.  Accordingly, Women's Apparel Group, LLC reserves the right to 
+        revise or modify this Privacy Policy in whole or in part at any time.  We will inform you of any update to our Privacy Policy by posting a notice on our web site/s.  
+        The effective date of the updated policy will be the date posted on the notice.  The updated policy shall replace any prior policies and will be applicable to all 
+        current and past users of our web sites.  </p>
+       
+       
+       <p>
+            <strong>NOTE: This policy may be modified from time to time. You are encouraged to review this policy on a monthly basis</strong>
+      </p>
+        
+        <p>
+        <a name="terms"></a>
+
+      </p><h2>Terms of Use</h2>
+                
+                <p>PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING THIS SITE.
+                <br>
+                By using this site, you signify your agreement to these terms of use. If you do not agree to these terms of use, please do not use this site. 
+                This site is owned and operated by Women's  Apparel Group ("Women's Apparel Group"). Women's Apparel Group reserves the right, at its sole discretion, to change, modify or 
+                otherwise alter these terms and conditions at any time. Such changes and/or modifications shall become effective immediately upon the posting 
+                thereof. Please review the terms and conditions periodically. Your continued use of the site following the posting of changes and/or modifications 
+                will constitute your acceptance of the revised terms and conditions.</p>
+                
+                
+                <p>ACCEPTABLE USES
+                <br>
+                You may use this site for legitimate shopping purposes only. You may not harm the site in any way or otherwise use the site in any improper manner, 
+                including, but not limited to hacking into the site’s systems, spoofing or faking e-mail headers or slowing or stopping the functionality of the site. 
+                In the event you register and/or purchase product, you agree to: (a) provide true, accurate, current and complete information about yourself as prompted 
+                by the registration form. If you provide any information that is untrue, inaccurate, not current or incomplete, or Women's Apparel Group, LLC suspects, for any reason, 
+                that such information is untrue, inaccurate, not current or incomplete, Women's Apparel Group, LLC, in its sole discretion, has the right to suspend or terminate your 
+                account and refuse any and all current or future use of the site. You will create a password and account designation upon completing the registration process. 
+                You are responsible for maintaining the confidentiality of the password and account, and are fully responsible for all activities that occur under your password 
+                or account. You agree to (a) immediately notify Women's Apparel Group, LLC of any unauthorized use of your password or account or any other breach of security, and (b) ensure 
+                that you exit from your account at the end of each session. Women's Apparel Group, LLC will not be liable for any loss or damage arising from your failure to comply with this 
+                paragraph. RESTRICTIONS ON USE OF MATERIALS This site contains copyrighted materials, trademarks and other proprietary information, including, but not limited to, 
+                text, photos and graphics, the worldwide rights to which are owned by Women's Apparel Group, LLC, its related entities, parents and its licensors or licensees. You may not use, 
+                copy, publish, upload, post (to a bulletin board or otherwise), transmit, distribute, or modify any contents of this site in any way, except that you may download
+                one copy of such contents on any single computer for your personal, non-commercial use only, provided you do not alter or remove any copyright, trademark, author 
+     attribution or other proprietary notices and legends.</p>
+                
+                
+  <p>DISCLAIMER                <br>
+
+    THIS SITE AND ALL MATERIALS CONTAINED ON IT ARE DISTRIBUTED AND TRANSMITTED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, 
+                INCLUDING, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. WOMEN'S APPAREL GROUP, LLC DOES NOT WARRANT THAT: (A) THE CONTENTS OF THIS SITE (INCLUDING 
+                PRICING AND OTHER PRODUCT INFORMATION) WILL BE ACCURATE, RELIABLE OR ERROR-FREE, OR THAT ANY ERRORS IN SUCH CONTENTS WILL BE CORRECTED; OR MISTAKES IN PRICING OR OTHER PRODUCT
+                DETAILS WILL BE HONORED; (B) THAT THIS SITE OR THE SERVER THAT MAKES IT AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS; OR (C) THAT YOUR USE OF THIS SITE WILL BE 
+                UNINTERRUPTED.  LIMITATION OF LIABILITY. UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY (INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE) SHALL WOMEN'S APPAREL GROUP, LLC BE LIABLE TO YOU OR
+                ANY OTHER PERSON FOR ANY DAMAGES, WHETHER DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR OTHERWISE THAT RESULT FROM, ARISE OUT OF, OR ARE IN CONNECTION 
+                WITH THE USE OF OR ACCESS TO, OR THE INABILITY TO USE OR ACCESS, THIS SITE OR ITS CONTENTS, EVEN IF WOMEN'S APPAREL GROUP, LLC HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGED LINKS. 
+                THIS SITE MAY PROVIDE, OR THIRD PARTIES MAY PROVIDE, LINKS TO OTHER WORLD WIDE WEB SITES OR RESOURCES. BECAUSE WOMEN'S APPAREL GROUP, LLC HAS NO CONTROL OVER SUCH SITES AND RESOURCES, 
+                YOU ACKNOWLEDGE AND AGREE THAT WOMEN'S APPAREL GROUP, LLC IS NOT RESPONSIBLE FOR THE AVAILABILITY OF SUCH EXTERNAL SITES OR RESOURCES, AND DOES NOT ENDORSE AND IS NOT RESPONSIBLE OR LIABLE 
+                FOR ANY CONTENT, ADVERTISING, PRODUCTS, OR OTHER MATERIALS ON OR AVAILABLE FROM SUCH SITES OR RESOURCES. YOU FURTHER ACKNOWLEDGE AND AGREE THAT WOMEN'S APPAREL GROUP, LLC SHALL NOT BE 
+                RESPONSIBLE OR LIABLE, DIRECTLY OR INDIRECTLY, FOR ANY DAMAGE OR LOSS CAUSED OR ALLEGED TO BE CAUSED BY OR IN CONNECTION WITH USE OF OR RELIANCE ON ANY SUCH CONTENT, GOODS
+  OR SERVICES AVAILABLE ON OR THROUGH ANY SUCH SITE OR RESOURCE.</p>
+                
+                <p>INDEMNIFICATION
+                <br>
+                You agree to indemnify, defend, and hold harmless, Women's Apparel Group, LLC, its affiliates, parents, and their respective officers, directors, employees, agents, licensors, 
+                representatives, and third party providers to the Site from and against all losses, expenses, damages, and costs, including reasonable attorneys’ fees, resulting 
+                from any violation of this agreement by you. Women's Apparel Group, LLC reserves the right to assume, at its sole expense, the exclusive defense and control of any matter subject
+                to indemnification by you, in which event you’ll fully cooperate with Women's Apparel Group, LLC in asserting any available defenses.</p>
+                
+                
+                <p>UNSOLICITED SUGGESTIONS AND CUSTOMER SUBMISSIONS
+                <br>
+                Please note that any suggestions, materials, ideas or comments submitted to Women's Apparel Group, LLC shall be deemed not confidential. You hereby grant Women's Apparel Group, LLC an irrevocable 
+                and unrestricted license to use, modify, reproduce, transmit, display and distribute such materials, information, suggestions, ideas or comments (other than your name) 
+                for any purpose whatsoever, and you represent and warrant to Women's Apparel Group, LLC that no such submissions will violate or infringe upon any copyright, trademark, or any other 
+                intellectual property or other rights (including but not limited to defamation or invasion of privacy) of any person or entity. All such submissions are subject to the 
+                DMCA notice-and-takedown procedure described below.    </p>
+                
+                <p>JURISDICTION AND GOVERNING LAW
+                <br>
+
+                
+                This site is controlled and operated by Women's Apparel Group, LLC from its offices in the State of Massachusetts, United States of America. The privacy policy and terms of use are managed by 
+                Women's Apparel Group, LLC from its offices in the State of Massachusetts, United States of America.  Although this site can be accessed from other locations, by accessing this site you agree 
+                that these terms of use shall be governed by and construed in accordance with the laws of the State of Massachusetts, without giving effect to its conflicts of law principles.
+                You also consent to personal jurisdiction in the City and State of Boston, Massachusetts for any dispute arising hereunder. This Site is intended for residents of the 
+                United States only. No software from this Site may be downloaded, exported or re-exported in violation of any law including, without limitation, to countries that are subject
+                to U.S. export restrictions.</p>
+                
+                
+                <p>TERMINATION
+                <br>
+                All of these terms of use are material. Upon any breach by you of any such term, your right to access, download and otherwise use this site, all materials obtained from 
+                this site and all copies thereof shall immediately terminate.</p>
+                
+                <p>OTHER
+                <br>
+                If any of these terms of use is unlawful, void, or for any reason unenforceable, then that term shall be deemed severable from the other terms and shall not affect 
+                the validity and enforceability of any remaining terms. These terms of use constitute the entire agreement between Women's Apparel Group, LLC and you relating to the subject matter
+                herein. Women's Apparel Group, LLC shall have the right to change or modify these terms of use at any time. </p>
+                
+                <p><strong>Notifying Us of Claimed Copyright Infringement</strong>
+
+                <br>
+                If you wish to notify Women's Apparel Group, LLC of an alleged copyright infringement for material posted on our site, to be effective, your notice must be a written communication 
+                to our designated agent that complies with Section 512(c)(3) of the U.S. Copyright Act. Please consult your legal advisor. Your notice must include substantially the 
+                following:</p>
+                    <p style="margin-left:32px;">1. A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.</p>
+                    <p style="margin-left:32px;">2. Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site.</p>
+                    <p style="margin-left:32px;">3.    Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material. The best method is to provide a URL in the body of an email.</p>
+                    <p style="margin-left:32px;">4.    Information reasonably sufficient to permit us to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted.</p>
+
+                    <p style="margin-left:32px;">5.    A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.</p>
+                    <p style="margin-left:32px;">6.    A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.</p>
+                
+                <p>Such written notice should be sent to our designated agent as follows:
+      </p><p style="margin-left:32px;">DMCA Complaints<br>
+        c/o David Myles<br>
+Women's Apparel Group, LLC<br>
+35 United Drive<br>
+West Bridgewater, Ma 02379<br>
+Email: David.Myles@BostonApparel.com<br>
+Please also note that under Section 512(f) any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.</p>
+                <p><strong>Counter-Notification</strong>
+                <br>
+                If you elect to send us a counter-notice, to be effective, your counter-notice must be a written communication to our designated agent that complies with Section 512(g)(3) of the U.S. Copyright Act. Please consult your legal advisor. Your counter-notice must include substantially the following: <br>
+</p>
+                <ol>
+                  <li>A physical or electronic signature of the subscriber.</li>
+                  <li>Identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled.</li>
+                  <li>A statement under penalty of perjury that the subscriber has a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled.</li>
+                  <li>The subscriber's name, address, and telephone number, and a statement that the subscriber consents to the jurisdiction of Federal District Court for the judicial district in which the address is located, or if the subscriber's address is outside of the United States, for any judicial district in which the service provider may be found, and that the subscriber will accept service of process from the person who provided notification under subsection (c)(1)(C) or an agent of such person.Such written notice should be sent to our designated agent as follows: <br>
+                    DMCA Complaints<br>
+                    c/o David Myles<br>
+                    Women's Apparel Group, LLC<br>
+                    35 United Drive<br>
+                    West Bridgewater, Ma 02379<br>
+                    Email: David.Myles@BostonApparel.com<br>
+                    <br>
+                  Please note that under Section 512(f) of the Copyright Act, any person who knowingly materially misrepresents that material or activity was removed or disabled by mistake or misidentification may be subject to liability. Please also be advised that we enforce a policy that provides for the termination in appropriate circumstances of subscribers who are repeat infringers. </li>
+                </ol>
+                <img src="jessicalondon/gra-arrow-up.gif" alt="" border="0" height="7" width="11"><a href="javascript:window.scrollTo(0, 0);" class="blueS1">back to top</a>
+</div>
+
+    
+
+                
+
+<!--    BEGIN FOOTER    -->
+<!--    END div id="footer"    -->
+</div>
+<script language="JavaScript" src="/Scripts/AssignEnterKey.js"></script><script language="JavaScript">this.CardInfoLink('Indy.CreditInfoString','Indy.HasAdsCard','Indy.PreApprovedOfferDeclined','ctl00_Header1_haApplyCreditCard');</script><script language="Javascript">this.CardInfoMessageEx('Indy.CreditInfoString','Indy.PreApprovedOfferDeclined','ctl00_Header1_hlCreditCardInfo','ctl00_Header1_imgCreditCardInfo');</script><script language="JavaScript">this.BasketCountInterface('Indy.Basket.BasketCount','ctl00_Header1_ShoppingBasket1_lblBasketItemCount');</script><script language="JavaScript">this.WelcomeMessageInterface('Indy.FirstName','ctl00_Header1_UserIdentification1_lblFirstNameWelcome','ctl00_Header1_UserIdentification1_lblWelcomeText','ctl00_Header1_UserIdentification1_linkWelcomeToMyAcct','');</script><script language="JavaScript">this.ProductMessageInterface('LastViewedProducts','ctl00_Header1_UserIdentification1_lkPreViewedProducts','ctl00_Header1_UserIdentification1_spanDivider');</script><script language="Javascript">this.CardInfoMessageNew('Indy.CreditInfoString','Indy.PreApprovedCardType','ctl00_Footer1_hlCreditCardInfo','ctl00_Footer1_hlCreditCardInfo1','ctl00_Footer1_imgCreditCardInfo');</script></form>
+
+    
+
+<!-- SiteCatalyst code version: H.1.
+Copyright 1997-2005 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="/SiteAnalytics/Omniture/Production/s_code.js"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName="US:LB:privacysecurity.aspx"
+s.prop1="USA"
+s.prop2="Women's Apparel Group, LLC"
+s.prop3="Special Size"
+s.prop4=""
+s.prop5="Woman Within"
+s.prop22="US:LB:privacysecurity.aspx"
+s.prop40 = REDCATS.ABTesting.GetABGroup ? REDCATS.ABTesting.GetABGroup() : "";
+s.eVar1="USA"
+s.eVar2="Women's Apparel Group, LLC"
+s.eVar3="Special Size"
+s.eVar4=""
+s.eVar5="Woman Within"
+s.eVar21=""
+s.eVar40 = REDCATS.ABTesting.GetABGroup ? REDCATS.ABTesting.GetABGroup() : "";
+s.events=""
+
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img
+src = "//redcatsusawomanwithinVISTA.122.2O7.net/b/ss/redcatsusawomanwithinVISTA/1/H.1--NS/0"
+height="1" width="1" border="0" alt="" /></noscript>.<!-- MAXCHME COB_Help_PrivacySecurity_ContentZone -->
+    
+
+            
+
+<!--	BEGIN FOOTER	-->
+<div id="footer">
+	<!--	BEGIN TRIPTYCH	-->
+	<div id="triptych-wrapper">
+		<div class="triptych left">
+		  <!-- MAXCHMB COB_Footer_Links_Content_Left --><style type="text/css">
+<!--
+body {
+margin-top: 0px;
+}
+-->
+</style>
+<div align="center"><a href="/staticpage/contentpage.aspx?pagename=asseenin042208"><img src="//images.redcatsusa.com/images/site_images/chadwicks/COB_makingHeadlines_5.156.08.jpg" alt="" border="0" height="57" width="234"></a></div>
+<!-- MAXCHME COB_Footer_Links_Content_Left -->                                               
+	    </div>                                                                                                                      
+		<div class="triptych middle">
+				<a id="ctl00_Footer1_hlCreditCardInfo" href="/Account/Apply_CreditCard.aspx?MEC=CH07_009_04_01_01"><img id="ctl00_Footer1_imgCreditCardInfo" src="https://web.archive.org/web/20090226165229/https://secureimages.redcatsusa.com/images/site_images/chadwicks/121_footer_apply.gif" alt="Apply for Credit Card" border="0"></a>
+		</div>
+		<div class="triptych right" style="padding:0px;">
+				  <!-- MAXCHMB COB_Footer_Links_Content_Right --><a href="/Browse_Catalog/BrowseCatalogs.aspx"><img src="http://images.redcatsusa.com/images/site_images/chadwicks/shopCat021709.jpg" alt="" align="right" border="0"></a>
+<!-- MAXCHME COB_Footer_Links_Content_Right -->                                               
+            
+	</div>
+	<div style="clear:both;"></div>
+	</div>
+	   
+	<div>
+<script language="javascript" type="text/javascript">
+	function emptyIt(e)
+	{
+		try
+		{
+			
+			if(e)
+			{
+				src = e.srcElement;
+				
+				if(!src)
+				{
+					var src = e.target;
+				}
+				
+				//alert(src);
+				
+				var txtValue = src.value;
+			
+				//alert(txtValue);
+				
+				var stringObj = new String(txtValue);
+			
+			
+				
+				if(stringObj.toUpperCase() == "ENTER EMAIL ADDRESS")
+				{
+					src.value = "";
+				}
+			}
+		}
+		catch(ex){}
+		
+		
+	}
+</script>
+<div style="margin-left:389px;margin-top:10px;">
+       	
+    </div>
+ <div style="height:45px; margin-top: 8px;">
+	<label for="txtEmailAddress"> Email updates. Receive Emails with Special Promotions and
+the latest information on our Product Offerings</label>
+	
+       
+    <div><input name="ctl00$Footer1$EmailSignUp1$txtEmailAddress" type="text" id="ctl00_Footer1_EmailSignUp1_txtEmailAddress" class="text" maxlength="50" value="Enter Email Address" onclick="emptyIt(event);" onkeypress="AssignEnterKey('ctl00_Footer1_EmailSignUp1_lbtnEmailSignUp', event)"></div>
+    <div style="float:left;"><a id="ctl00_Footer1_EmailSignUp1_lbtnEmailSignUp" href="javascript:__doPostBack('ctl00$Footer1$EmailSignUp1$lbtnEmailSignUp','')"><img src="http://images.redcatsusa.com/images/site_images/Chadwicks/121_Email_Signup_blue.gif" style="margin-top:5px;"></a></div>
+       
+</div><!--	END div class="triptych"	-->
+<div style="clear: both; text-align:right; padding-right:75px;">
+	
+	
+</div></div>
+	
+	</div>
+	
+	<div>
+ 
+    <!-- MAXCHMB COB_Footer_Links_ContentZone2 --><ul class="utility">
+  
+  <blockquote>
+      <p align="center"><a href="http://www.chadwicks.com">Home</a> | 
+	  <a href="/Help/Help_AboutUs.aspx">About Chadwick's</a> |
+	  <a href="/Help/Help.aspx">Help</a> | 
+	  <a href="/Help/PrivacySecurity.aspx">Privacy and Security</a> | 
+	  <a href="/Help/Help_ShippingHandling.aspx">Shipping &amp; Tax</a> | 
+	  <a href="javascript:void(0);" onclick="javascript:window.open('https://www.connectcommerce.com/secure/partner_app.html?ccmid=K5986','chart_win','width=593,height=400,scrollbars=yes,resizable=yes,menubar=false,location=false,toolbar=false');">Affiliate Network</a> | 
+	  <a href="/ContactUs/ContactUs.aspx">Contact Us</a> | 
+	  <a href="http://jobsearch.monster.com/search.aspx?re=106&amp;co=xwappgroupx&amp;ah=http%3a%2f%2fcompany.monster.com%2fwappgroup&amp;aj=Boston+Apparel+Group">Careers</a></p>
+  </blockquote>
+</ul>
+<table width="746" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td width="150"><a href="http://www.shopzilla.com/6B_-_mid--24238"><img src="//medals.bizrate.com/medals/dynamic/30782_medal.gif" border="0" class="bizrate"></a></td>
+    <td width="503" align="center" valign="top"><div align="center"><strong><a href="http://www.redcats.com/english/people/join_us/job_openings/offre_usa_en.aspx"><br>
+        </a></strong>
+      <ul class="utility"><li><a href="/womens-Tees.aspx?DeptId=8563">Tees</a> | </li>
+        <li><a href="/Womens-Sweaters.aspx?DeptId=18644">Sweaters</a> | </li>
+        <li><a href="http://www.chadwicks.com/Womens-Sweaters.aspx?DeptId=18644">Twin Sets</a> |</li>
+        <li><a href="/Womens-Sweaters.aspx?DeptId=18644">Cardigans</a> | </li>
+        <li><a href="/Womens-Sweaters.aspx?DeptId=18644">Turtlenecks</a> | </li>
+        <li><a href="/Womens-Bodysuits.aspx?DeptId=19181">Bodysuits</a> | </li>
+        <li><a href="/womens-Shirts-and-Blouses.aspx?DeptId=8561">Shirts &amp; Blouses</a> | </li>
+        <li><a href="/womens-Dresses.aspx?DeptId=8216">Dresses</a> | </li>
+        <li><a href="/womens-Career-Dresses.aspx?DeptId=8217">Career Dresses</a> | </li>
+        <li><a href="/womens-Casual-Dresses.aspx?DeptId=8218">Casual Dresses</a> | </li>
+        <li><a href="/womens-Special-Occasion.aspx?DeptId=8219">Special Occasion Dresses</a> | </li>
+        <li><a href="/Womens-Special-Occasion.aspx?DeptId=8246&amp;fromDeptID=8559">Wedding</a> | </li>
+        <li><a href="/Womens-Pants.aspx?DeptId=15763">Pants</a> | </li>
+        <li><a href="/Womens-Pants.aspx?DeptId=15763">Career Pants</a> | </li>
+        <li><a href="/womens-Casual-Pants-and-Capris.aspx?DeptId=8570">Jeans</a> | </li>
+        <li><a href="/womens-Skirts.aspx?DeptId=8207">Skirts</a> | </li>
+        <li><a href="/Womens-Capris-and-Shorts.aspx?DeptId=19172">Capris &amp; Shorts</a> | </li>
+        <li><a href="/womens-Jackets-and-Blazers.aspx?DeptId=8209">Jackets &amp; Blazers</a> | </li>
+        <li><a href="/womens-Career-Blazers.aspx?DeptId=8210">Career Blazers</a> | </li>
+        <li><a href="/womens-Casual-Jackets.aspx?DeptId=8211">Casual Jackets</a> | </li>
+        <li><a href="/womens-Suits-and-Sets.aspx?DeptId=8212">Suits &amp; Sets</a> | </li>
+        <li><a href="/womens-Pant-Suits.aspx?DeptId=8213">Pant Suits</a> | </li>
+        <li><a href="/womens-Skirt-Suits.aspx?DeptId=8214">Skirt Suits</a> | </li>
+        <li><a href="/womens-Coordinated-Sets.aspx?DeptId=8215">Sets</a> | </li>
+        <li><a href="/Womens-Ensembles.aspx?DeptId=8215">Ensembles</a> | </li>
+        <li><a href="/womens-Swimwear-Leisurewear.aspx?DeptId=8227">Swimwear</a> | </li>
+        <li><a href="/womens-One-Piece.aspx?DeptId=8228">One Piece Swimsuits</a> | </li>
+        <li><a href="/womens-Two-Piece-and-Tankinis.aspx?DeptId=8229">Tankinis</a> | </li>
+        <li><a href="/Womens-Skirtinis.aspx?DeptId=19300">Skirtinis</a> | </li>
+        <li><a href="/womens-Separates-and-Cover-ups.aspx?DeptId=14454">Cover-Ups</a> | </li>
+        <li><a href="/womens-Outerwear.aspx?DeptId=8220">Outerwear</a> | </li>
+        <li><a href="/Womens-Outerwear.aspx?DeptId=8220">Coats</a> | </li>
+        <li><a href="/womens-SHOES-and-ACCESSORIES.aspx?DeptId=8371">Shoes &amp; Accessories</a> | </li>
+        <li><a href="/womens-Sandals.aspx?DeptId=8375">Sandals</a> | </li>
+        <li><a href="/womens-Dress-Shoes.aspx?DeptId=8372">Dress Shoes</a> | </li>
+        <li><a href="/womens-Casual-Shoes.aspx?DeptId=8373">Casual Shoes</a> | </li>
+        <li><a href="/womens-Sneakers.aspx?DeptId=8377">Sneakers</a> | </li>
+        <li><a href="/womens-Boots.aspx?DeptId=8374">Boots</a> | </li>
+        <li><a href="/womens-Wide-Widths.aspx?DeptId=8376">Wide Width Shoes</a> | </li>
+        <li><a href="/Womens-Accessories.aspx?DeptId=17225">Accessories</a> | </li>
+        <li><a href="/Womens-Handbags.aspx?DeptId=17226">Hand Bags</a> | </li>
+        <li><a href="/Womens-Belts.aspx?DeptId=17228">Belts</a> | </li>
+        <li><a href="/womens-SPECIAL-SIZES.aspx?DeptId=8258">Special Sizes</a> | </li>
+        <li><a href="/womens-PETITE.aspx?DeptId=8259">Petite Clothing</a> | </li>
+        <li><a href="/womens-TALL.aspx?DeptId=8295">Tall Clothing</a> | </li>
+        <li><a href="/womens-WOMENS.aspx?DeptId=8333">Women's Clothing</a> | </li>
+        <li><a href="/womens-Buy-2-and-Save.aspx?DeptId=8250&amp;fromDeptID=8258">Buy 2 &amp; Save</a> | </li>
+        <li><a href="/Womens-Web-Exclusives.aspx?DeptId=18505&amp;fromDeptID=8559">Web Exclusives</a> | </li>
+        <li><a href="/womens-In-Season-Sale.aspx?DeptId=8253&amp;fromDeptID=8258">In Season Sale</a> | </li>
+        <li><a href="/womens-CLEARANCE.aspx?DeptId=8389">Clearance</a> | </li>
+        <li><a href="/womens-Fine-Jewelry.aspx?DeptId=8605">Jewelry</a> | </li>
+        <li><a href="/Department.aspx?DeptId=8246" title="Special Occasion">Special Occasion</a></li>
+        <li><a href="/Department.aspx?DeptId=8253" title="In Season Sale">Best Sellers</a> | </li>
+        <li class="last"><a href="/Department.aspx?DeptId=8253" title="In Season Sale">Shop by Outfit</a></li>
+      </ul>
+    </div></td>
+    <td width="93"><ul>
+      <li><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.chadwicks.com" id="hackersafe"><br>
+        &nbsp; <img src="//images.scanalert.com/meter/www.chadwicks.com/31.gif" alt="HACKER safe certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying prohibited by law - hacker safe is a trademark of scanalert'); return false;" align="top" border="0" height="37" vspace="10" width="65"></a></li>
+    </ul>
+      &nbsp; <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.chadwicks.com" id="hackersafe"><br>
+      </a><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.chadwicks.com" id="hackersafe"></a></td>
+  </tr>
+</tbody></table>
+<table width="762" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td><div align="center">
+      <p id="fine-print">&nbsp;</p>
+        <p align="center">Visit our other website:<em> </em><a href="http://www.metrostyle.com">metrostyle®</a><br>
+          Chadwicks.com respects your privacy. Please read about your <a href="Help/PrivacySecurity.aspx" title="Your California Privacy Policy">California Privacy Policy</a> Rights, our <a href="Help/PrivacySecurity.aspx" title="Privacy Policy">Privacy Policy</a>, and <a href="Help/PrivacySecurity.aspx#TERMS" title="Terms of Use">Terms of Use</a>(last updated on 01-02-09) Chadwicks™ All Rights Reserved. <a href="http://www.chadwicks.com">Chadwicks™</a> and Chadwick's of Boston are trademarks of Chadwicks™. <br>
+  Boston Apparel Group&nbsp;&nbsp;All Rights Reserved </p>
+        <p>&nbsp;</p>
+    </div></td>
+  </tr>
+</tbody></table>
+<div align="center"><a href="http://www.shopzilla.com/6B_-_mid--24238">
+  <!-- START SCANALERT CODE -->
+  </a>
+  <!-- begin SHOPPING -->
+  <!-- begin UTILITY MENUS -->
+  &nbsp;
+  <!-- end div id="utility-menus" -->
+  <!-- end div id="utility-menus" -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;<br>
+  &nbsp;
+
+Products by:
+<a href="http://www.chadwicks.com/1/1/index1.html">Title</a> <a href="http://www.chadwicks.com/1/1/indexb1.html">Price</a> <br>
+Categories by: <a href="http://www.chadwicks.com/1/2/index1.html">Title</a> <a href="http://www.chadwicks.com/1/2/indexb1.html">Price</a> <br>
+Items by: <a href="http://www.chadwicks.com/1/3/index1.html">Popularity</a> <a href="http://www.chadwicks.com/1/3/indexb1.html">Our Choice</a> <a href="http://www.chadwicks.com/1/3/indexc1.html">Favorites</a> <a href="http://www.chadwicks.com/1/3/indexd1.html">Title</a> <br>
+Popular items by: <a href="http://www.chadwicks.com/1/4/index1.html">Popularity</a> <a href="http://www.chadwicks.com/1/4/indexb1.html">Our Choice</a> <a href="http://www.chadwicks.com/1/4/indexc1.html">Favorites</a> <a href="http://www.chadwicks.com/1/4/indexd1.html">Title</a> <br>
+Selected items by: <a href="http://www.chadwicks.com/1/5/index1.html">Popularity</a> <a href="http://www.chadwicks.com/1/5/indexb1.html">Our Choice</a> <a href="http://www.chadwicks.com/1/5/indexc1.html">Favorites</a> <a href="http://www.chadwicks.com/1/5/indexd1.html">Title</a><br><br>
+<a href="http://www.chadwicks.com/CustomerReviewsFiles/pwr/product-reviews/7667/c/index.html" target="_blank">
+See our Clothing Reviews</a></div><!-- MAXCHME COB_Footer_Links_ContentZone2 -->
+</div>
+<!--	END div id="footer"	-->
+
+
+
+
+        
+            
+            
+                
+            
+
+            <!-- MAXCHMB COB_UniversalAdBanner_Footer -->
+            <!-- MAXCHME COB_UniversalAdBanner_Footer -->
+            
+        
+<script language="JavaScript" src="/Scripts/AssignEnterKey.js"></script><script language="JavaScript">this.CardInfoLink('Indy.CreditInfoString','Indy.HasAdsCard','Indy.PreApprovedOfferDeclined','ctl00_Header1_haApplyCreditCard');</script><script language="Javascript">this.CardInfoMessageEx('Indy.CreditInfoString','Indy.PreApprovedOfferDeclined','ctl00_Header1_hlCreditCardInfo','ctl00_Header1_imgCreditCardInfo');</script><script language="Javascript">this.CardLinkDisplay('Indy.CreditInfoString','Indy.HasAdsCard','Indy.PreApprovedOfferDeclined','ctl00_Header1_haApplyCreditCardOTB');</script><script language="JavaScript">this.WelcomeMessageInterface('Indy.FirstName','ctl00_Header1_UserIdentification1_lblFirstNameWelcome','ctl00_Header1_UserIdentification1_lblWelcomeText','ctl00_Header1_UserIdentification1_linkWelcomeToMyAcct','');</script><script language="JavaScript">this.ProductMessageInterface('LastViewedProducts','ctl00_Header1_UserIdentification1_lkPreViewedProducts','ctl00_Header1_UserIdentification1_spanDivider');</script><script language="JavaScript">this.BasketCountInterface('Indy.Basket.BasketCount','ctl00_Header1_ShoppingBasket1_lblBasketItemCount');</script><script language="javascript" type="text/javascript" id="populateVendorItems">this.SetVendorCookie('seta');</script><script language="Javascript">this.CardInfoMessage('Indy.CreditInfoString','Indy.PreApprovedCardType','ctl00_Footer1_hlCreditCardInfo','ctl00_Footer1_imgCreditCardInfo');</script>
+    
+
+<!-- SiteCatalyst code version: H.1.
+Copyright 1997-2005 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="/SiteAnalytics/Omniture/Production/s_code.js"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName="US:COB:privacysecurity.aspx"
+s.prop1="USA"
+s.prop2="RedCats USA"
+s.prop3="Missy"
+s.prop4=""
+s.prop5="Chadwicks"
+s.prop22="US:COB:privacysecurity.aspx"
+s.prop40 = REDCATS.ABTesting.GetABGroup ? REDCATS.ABTesting.GetABGroup() : "";
+s.eVar1="USA"
+s.eVar2="RedCats USA"
+s.eVar3="Missy"
+s.eVar4=""
+s.eVar5="Chadwicks"
+s.eVar21=""
+s.eVar40 = REDCATS.ABTesting.GetABGroup ? REDCATS.ABTesting.GetABGroup() : "";
+s.events=""
+
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img
+src = "//redcatsusajessicalondonprod.122.2O7.net/b/ss/redcatsusajessicalondonprod/1/H.1--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.1. -->
+
+    
+
+<!-- Source: x.x.x.25, TimeStamp: 2/25/2009 6:56:07 AM --></body></html>
