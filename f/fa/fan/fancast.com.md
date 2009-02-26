@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fancast.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217030724id_/http%3A//www.fancast.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fancast.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226193418id_/http%3A//www.fancast.com/info/privacy) for the most accurate reproduction.*
 
 # Fancast | Privacy Statement
 
@@ -17,7 +17,7 @@ Welcome to Fancast.com, a service of Comcast Interactive Media and its affiliate
 
 
 
-Questions regarding this statement should be directed to Comcast by emailing us at the email address located in the Contact Us section of the website, or by sending a notice by U.S. Mail to Comcast Interactive Media, LLC, 1500 Market Street, Philadelphia, Pennsylvania 19102, Attention: Fancast.com Privacy Feedback. 
+Questions regarding this statement should be directed to Comcast by emailing us at the email address located in the Contact Us section of the website, or by sending a notice by U.S. Mail to Comcast Interactive Media, LLC, One Comcast Center, 1701 John F. Kennedy Boulevard, Philadelphia, PA 19103-2838 Attention: Fancast.com Privacy Feedback. 
 
 ##  Information Collection and Use 
 
