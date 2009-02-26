@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newtabking.com privacy policy that was archived on 2008-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081212221254id_/http%3A//www.newtabking.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newtabking.com privacy policy that was archived on 2009-02-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090226220944id_/http%3A//www.newtabking.com/privacy.php) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head></head><body><type html="" public="" "-="" w3c="" dtd="" xhtml="" 1.0="" strict="" en"="" "http:="" www.w3.org="" tr="" xhtml1="" xhtml1-strict.dtd"="">
 
@@ -26,6 +26,22 @@
 </tr>
 </tbody></table>
 </center>
+
+<script type="text/javascript">
+		function install (aEvent)	{
+		  var params = {
+		    "NewTabKing": { URL: "newTabKing.xpi",
+		             IconURL: aEvent.target.getAttribute("iconURL"),
+		             Hash: aEvent.target.getAttribute("hash"),
+		             toString: function () { return this.URL; }
+		    }
+		  };
+		  //InstallTrigger.install(params);
+		  window.location="https://addons.mozilla.org/en-US/firefox/addon/10828";
+		  return false;
+		}
+		
+		</script>
 
 <div id="pageheader">
   <div align="left" class="content" style="width:900px">
@@ -113,14 +129,15 @@ team.</span> </p>
 <tbody><tr valign="middle" align="left">
 	<td valign="middle" align="left" style=" vertical-align:middle; font-size:small;font-family: verdana,arial,sans-serif">
 		<a href="index.php">Home</a>&nbsp; |&nbsp; 
-		<a href="privacy.php">Privacy</a>&nbsp; |&nbsp;						
-		<a href="aboutus.php">About</a>&nbsp; |&nbsp;
+		<a href="privacy.php">Privacy</a>&nbsp;&nbsp; |&nbsp;
 		<a href="http://www.newtabking.com/blog/">Blog</a>&nbsp; |&nbsp;		
-		<a href="download.php">Download</a>&nbsp; |&nbsp;				
+		<a href="https://addons.mozilla.org/en-US/firefox/addon/10828">Download</a>&nbsp; |&nbsp;				
+		
+<!--		<a href="#" iconurl="images/king2.png" hash="sha1:d536fdcc56c7eb66b57e014a8b179d73242147ef" onclick="install(event);">Download</a>&nbsp; |&nbsp;	-->
 		<a href="learnmore.php">Learn more</a> 		
 	</td>
 	<td valign="middle" align="right" style="vertical-align:middle; font-size:x-small;font-family: verdana,arial,sans-serif">		
-			© Copyright 2008 <a href="index.php">New Tab King</a> - All Rights Reserved
+			© Copyright 2009 <a href="index.php">New Tab King</a>
 	 </td>
 </tr></tbody></table>
 </center>
