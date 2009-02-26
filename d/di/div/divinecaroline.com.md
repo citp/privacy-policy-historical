@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the divinecaroline.com privacy policy that was archived on 2007-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071118115526id_/http%3A//www.divinecaroline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divinecaroline.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226195538id_/http%3A//www.divinecaroline.com/public/help/privacy_policy) for the most accurate reproduction.*
 
-# DivineCaroline::Privacy Policy
+# Privacy Policy
 
 Real Girls Media Network, Inc. Privacy Policy  
 We are committed to protecting the privacy and security of the users of our sites. 
