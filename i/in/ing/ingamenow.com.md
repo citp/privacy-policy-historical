@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingamenow.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218024523id_/http%3A//ingamenow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingamenow.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226053714id_/http%3A//www.ingamenow.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
