@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcdelivery.com.ph privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220112554id_/http%3A//www.mcdelivery.com.ph/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdelivery.com.ph privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226235709id_/http%3A//www.mcdelivery.com.ph/privacypolicy) for the most accurate reproduction.*
 
 # McDelivery
 
@@ -20,15 +20,13 @@ McDonald's only gathers personal information, such as, first and last names, add
 
 In addition, McDonald's may gather complete and accurate customer location and contact number/s only for food delivery services it provides. 
 
-By using our website, you consent to the collection and use of the information by McDonald's. 
-
 **Sharing of Personal Information**
 
-McDonald's may share personal information within the McDonald's Family. The McDonald's Family includes McDonald's Corporation, our franchisees, our subsidiaries and our affiliates. Of course, any use of this information by the McDonald's Family will comply with this policy. Occasionally, with your permission, we will send marketing information to you, such as discount coupons, information about new product offerings, etc. If you do not elect to receive such materials, we will not send them to you.
+McDonald's may share personal information within the McDonald's Family. The McDonald's Family includes the McDonald's Corporation, our franchisees, our subsidiaries and our affiliates. Of course, any use of this information by the McDonald's Family will comply with this policy. Occasionally, with your permission, we will send marketing information to you, such as discount coupons, information about new product offerings, etc. If you do not elect to receive such materials, we will not send them to you.
 
-Companies may be engaged by McDonald's to perform a variety of functions, such as, fulfilling orders, assisting with promotions, providing technical services for our web sites, etc. These companies may have access to personal information if needed to perform such functions.
+Companies and other third – party providers of McDonald’s may be engaged by McDonald's to perform a variety of functions, such as, fulfilling orders, assisting with promotions, providing technical services for our web sites, etc. These companies may have access to personal information if needed to perform such functions.
 
-McDonald's does not sell, transfer or disclose personal information to third parties outside the McDonald's Family or as may be described above. However, with your permission, we will, on occasion send marketing information on behalf of one of our business partners about products or services they provide that may be of interest to you. You may be asked if you wish to receive marketing materials from McDonald's business partners. If you elect to receive such materials, McDonald's will not share your personal information with such partners but rather will send a mailing or email on behalf of the partners. 
+McDonald's does not sell, transfer or disclose personal information to third parties outside the McDonald's Family or such other entities as may be described above. However, with your permission, we will, on occasion send marketing information on behalf of one of our business partners about products or services they provide that may be of interest to you. You may be asked if you wish to receive marketing materials from McDonald's business partners. If you elect to receive such materials, McDonald's will not share your personal information with such partners but rather will send a mailing or email on behalf of the partners. 
 
 McDonald's reserves the right to use or disclose any information as needed to satisfy any law, regulation or legal request, to protect the integrity of the site, to fulfill your requests, or to cooperate in any law enforcement investigation or an investigation on a matter of public safety. 
 
@@ -61,5 +59,9 @@ Many McDonald's restaurants are owned and operated by franchisees, who are indep
 **Changes to our Privacy Policy**
 
 This privacy policy is effective as of 1st April, 2006. From time to time, it may be necessary for McDonald's to change this privacy policy. If we change our policy, we will post the revised version here, so we suggest that you check here periodically for the most up-to-date version of our privacy policy. Rest assured, however, that any changes will not be retroactively applied and will not alter how we handle previously collected information.
+
+Your consent effectively constitutes a waiver of any and all privacy rights pertaining to the disclosure, collection and use of the personal information and data under the specific terms and conditions of McDonald’s Internet Privacy Policy. 
+
+By using our website, you understand that you are signifying your unequivocal consent to the disclosure, collection and use of the personal information and data described above by McDonald’s, the McDonald’s Family and other entities and third-party providers of McDonald’s engaged to facilitate the implementation and continuous development of McDonald’s food delivery service; Provided that such use shall at all times be pursuant to McDonald’s legitimate business purposes and activities as discussed in the foregoing paragraphs.
 
 If you have any questions about our McDonald's Internet Privacy Policy, please contact us at: (63) 2 8909267, look for the team leader.
