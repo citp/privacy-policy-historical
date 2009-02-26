@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wenworld.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218095223id_/http%3A//wenatcheeworld.com/article/20070314/SANDR/70314001/1001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wenworld.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227001554id_/http%3A//wenatcheeworld.com/article/20070314/SANDR/70314001/1001) for the most accurate reproduction.*
 
 # The Wenatchee World Online - Online services for Wenatchee, Washington readers
 
