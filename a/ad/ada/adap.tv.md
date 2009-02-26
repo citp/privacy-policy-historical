@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adap.tv privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227213405id_/http%3A//www.adap.tv/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adap.tv privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226151138id_/http%3A//www.adap.tv/privacy_policy.html) for the most accurate reproduction.*
 
 # Adap.tv -- Make the Most of Online Video Advertising
 
