@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singlescrowd.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063051id_/http%3A//www.singlescrowd.com/static/about_us/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singlescrowd.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226223220id_/http%3A//www.singlescrowd.com/static/about_us/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,17 +12,19 @@ You should read this privacy policy in conjunction with our [Member Terms and Co
 
 **Information Collected**
 
-If you use the Services or if you contact us with an enquiry we will collect information about you including your name, contact details including your e-mail address and your credit or debit card information. We will use this information to deal with your enquiries, supply the services to you, operate your membership account and contact you where necessary about the Services. 
+If you use the Services or if you contact us with an enquiry we will collect information about you including your name, contact details including your e-mail address and your credit or debit card information. We will use this information to deal with your enquiries, supply the services to you, operate your membership account and contact you where necessary about the Services.
 
 **Use of Information**
 
-The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (" **EEA** "). It may also be processed by our staff in the UK, staff who operate outside the EEA who work for us or by those who provide support services to us . Such staff maybe engaged in, among other things, the processing of your membership details and the processing of your payment details. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
+The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (" **EEA** "). t may also be processed by our staff in the UK, staff who operate outside the EEA who work for us or by those who provide support services to us . Such staff maybe engaged in, among other things, the processing of your membership details and the processing of your payment details. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
 
 We may also share your information with third parties where necessary to provide Services to you. We may pass aggregate information on the usage of our Website to third parties but this will not include information that can be used to identify you. 
 
-We will not share your information with any third party for marketing purposes without your consent. 
+We will not share your information with any third party for marketing purposes without your consent.
 
-We will not send you unsolicited e-mails. However, we will send you e-mails in relation to:
+We may from time to time send you emails from third parties of promotions that we fill will be of benefit for you to the Email you provided us with. You may [unsubscribe](mailto:unsubscribe@singlescrowd.com) to these at any time. 
+
+We will also send you e-mails in relation to:
 
   * providing you with your user registration details; 
   * confirming payment; 
