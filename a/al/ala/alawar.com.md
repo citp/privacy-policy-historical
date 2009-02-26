@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alawar.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217042649id_/http%3A//www.alawar.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alawar.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226183515id_/http%3A//www.alawar.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Alawar Online Privacy Policy | Alawar Entertainment
 
