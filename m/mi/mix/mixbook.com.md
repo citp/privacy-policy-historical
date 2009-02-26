@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mixbook.com privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919170521id_/http%3A//www.mixbook.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixbook.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226225327id_/http%3A//www.mixbook.com/main/privacy) for the most accurate reproduction.*
 
-# Mixbook | Privacy
+# Mixbook Privacy Policy
 
-This policy is effective August 8, 2007.
+This policy is effective December 18, 2008.
 
 Mixbook’s Privacy Policy is designed to help you:
 
@@ -74,7 +74,7 @@ If you provide feedback on any of our products and services to us, we may use su
 
 ## Children Under Age 13
 
-Mixbook does not knowingly collect or solicit Personal Information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not use Mixbook or send any information about yourself to us, including your name, address, telephone number or email address. No one under age 13 is allowed to provide any Personal Information to or on Mixbook. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [info@mixbook.com](mailto:info@mixbook.com)
+The Children's Online Privacy Protection Act (COPPA) defines personal information as "individually identifiable information," including things like a first and last name, a street address, an email address, or a telephone number. COPPA places requirements on websites that collect such information from children. You must be at least 13 years or older to register and use this Service. If you are under the age of 13, you must use an account created by a parent or guardian, and you must have the explicit permission of a parent or guardian to use the Service. 
 
 ## Children Between the Ages of 13 and 18
 
