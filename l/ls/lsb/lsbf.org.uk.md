@@ -1,43 +1,92 @@
-> *The following text is extracted and transformed from the lsbf.org.uk privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912110137id_/http%3A//www.lsbf.org.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsbf.org.uk privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226231755id_/http%3A//www.lsbf.org.uk/privacy.html) for the most accurate reproduction.*
 
 # LSBF - London School of Business and Finance Privacy Policy
 
-This privacy policy applies to and covers the website operated and owned by the **London School of Business & Finance (LSBF)**, and is freely accessible at all times.
+| 
 
-The London School of Business & Finance is committed to **safeguarding your privacy online**. It is very important to us that you should be able to use and enjoy the website without you having to compromise your privacy in any way. Please read the following policy to understand how your personal information will be treated. This policy may change from time to time so please check back regularly.
+The London School of Business & Finance (“LSBF” or "We") are committed to protecting and respecting your privacy.
 
-Please keep in mind that whenever you voluntarily **disclose personal information online** \- for example on message boards, through e-mail, or in chat areas - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+This policy (together with our terms of use www.lsbf.org.uk/terms-and-conditions.html and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-Ultimately, you are solely responsible for maintaining the secrecy of your passwords, where applicable. **Please be careful and responsible when you're online**.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is London School of Business & Finance (UK) Limited of 8-9 Holborn, London EC1N 2LL. 
 
-If you have any requests concerning your personal information or any queries with regard to these practices, [please contact us](mailto:feedback@lsbf.org.uk).
+##  Information we may collect from you 
 
-back to top
+We may collect and process the following data about you: 
 
-## Use of Cookies
+  * Information that you provide by filling in forms on our site www.lsbf.org.uk (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site. 
+  * If you contact us, whether by email, telephone, facsimile or post, we may keep a record of that correspondence. 
+  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them. 
+  * Details of transactions you carry out through our site and of the fulfilment of your orders. 
+  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
-A "cookie" is a piece of information, like a tag, which some websites create on your PC. In order to provide you with the best possible online experience, we may create "cookies" when you visit the website. Our cookies allocate each user of the site with a random number. This procedure **does not entail the collection of any personal information and you cannot be personally identified**.
+  
 
-Cookies may be used in the following ways: to limit the frequency with which you will see particular advertisements or site announcements on the site; without actually identifying you; to track where you have come from if you were referred to our website; or to provide you with self-help information. **Our cookies will not be used to analyse your visits to other sites or track any searches you may undertake whilst on the LSBF site**.
 
-Agents of the LSBF, who assist in the serving, and targeting of advertisements, promotions and other marketing messages may also use cookies to collect anonymous data.
+##  IP addresses and cookies
 
-## Data Protection Policy
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and for aggregate marketing reporting purposes. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.  
+For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
 
-The information you provide on the LSBF website will be held only by the London School of Business and Finance and duly authorised agents.
+  * To estimate our audience size and usage pattern.
+  * To store information about your preferences, and so allow us to customise our site according to your individual interests.
+  * To speed up your searches.
+  * To recognise you when you return to our site. 
 
-back to top
 
-## Use of your information
 
-The information you provide on this site may be held and used by us for **market analysis and production of internal reports, for marketing our products and services generally** and (subject to any objection or preference you may indicate when submitting your details to us) for sending information to you about our products and services from time to time.
+You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.  
+Please note that third-party sites which are linked to on our site may also use cookies, over which we have no control.
+
+## Where we store your personal data
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.  
+When using our site to carry out transactions which involve the use of a credit or a debit card (and only then), all information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.  
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+## Uses made of the information
+
+We use information held about you in the following ways:
+
+  * To ensure that content from our site is presented in the most effective manner for you and for your computer. 
+  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes. 
+  * To carry out our obligations arising from any contracts entered into between you and us.
+  * To allow you to participate in interactive features of our service, when you choose to do so.To notify you about changes to our service.
+
+
+
+We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by email, post or telephone.   
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please notify us by writing to privacy@lsbf.org.uk. 
 
 ## Disclosure of your information
 
-We will not disclose your information to any other companies or their respective partners, agents and sub contractors, for any purposes without your express permission. We may, however, disclose your information as may be required by law, regulation or legal proceedings.
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985, and other associated companies.  
+We may disclose your personal information to third parties:
 
-## Information Retention
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * If LSBF or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use www.lsbf.org.uk/terms-and-conditions.html and other agreements; or to protect the rights, property, or safety of LSBF, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-We hope that you will enjoy our sites and that you will revisit them regularly. Should a user login remain unused for a period of 180 days, the account will be automatically terminated. Under the Data Protection Act we will also remove any personal data on request (assuming that we can ensure the request came from the information owner). To do so, please write to [dpa@lsbf.org.uk](mailto:dpa@lsbf.org.uk).
+  
+
+
+## Your rights
+
+You have the right to ask us not to process your personal data for marketing purposes. We will sometimes inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data, when available.  You can also exercise the right at any time by contacting us at [privacy@lsbf.org.uk](mailto:privacy@lsbf.org.uk).  
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+## Access to information
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+## Changes to our privacy policy
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+
+## Contact
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [privacy@lsbf.org.uk](mailto:privacy@lsbf.org.uk). 
 
 back to top
+
+| 
