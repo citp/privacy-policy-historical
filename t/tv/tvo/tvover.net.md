@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvover.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216024439id_/http%3A//www.tvover.net/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvover.net privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226233929id_/http%3A//www.tvover.net/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - TVover.net
 
@@ -64,4 +64,4 @@ St. Louis, MO 63119
 U.S.
 
   All brand, company, and product names are trademarks or registered trademarks of their   
-  respective owners. © 2008 TVover.net. All rights reserved. [Privacy Policy](http://www.tvover.net/PrivacyPolicy.aspx)  [Terms](http://www.tvover.net/Terms.aspx)
+  respective owners. © 2009 TVover.net. All rights reserved. [Privacy Policy](http://www.tvover.net/PrivacyPolicy.aspx)  [Terms](http://www.tvover.net/Terms.aspx)
