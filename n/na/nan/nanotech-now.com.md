@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219002654id_/http%3A//www.nanotech-now.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226215823id_/http%3A//www.nanotech-now.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Our NanoNews Digest Sponsors **
+
+[](https://web.archive.org/banners/track.pl?banner_id=128)
+
+[](https://web.archive.org/banners/track.pl?banner_id=127)
 
 [](https://web.archive.org/banners/track.pl?banner_id=123)
 
@@ -22,7 +26,7 @@
 
 ******** | 
 
-[Home](https://web.archive.org/web/20081219002654id_/http%3A//www.nanotech-now.com/) > Privacy
+[Home](https://web.archive.org/web/20090226215823id_/http%3A//www.nanotech-now.com/) > Privacy
 
 **Privacy Notice:**
 
