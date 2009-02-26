@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecommercepartners.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218162622id_/http%3A//www.ecommercepartners.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecommercepartners.net privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226042148id_/http%3A//www.ecommercepartners.net/privacy.shtml) for the most accurate reproduction.*
 
 # Ecommerce Software Solutions in Web Site Design for all Websites
 
@@ -42,7 +42,7 @@ ECommerce Partners also runs
 
 Promotions on its own behalf. Such Promotions are to generate interest from other businesses in ECommerce Partners' products and services. ECommerce Partners uses the personally identifiable information collected in such Promotions as sales leads and may contact the individual registrants by email, mail or phone to discuss the registrant's interest in retaining ECommerce Partners. ECommerce Partners will never sell such information, share it with another business, or use it for any purpose other than marketing ECommerce Partners own core business. If you want to "opt-out" of being contacted by ECommerce Partners after you have participated in one of its Promotions, or you wish to correct the information you have provided to ECommerce Partners, you may do so in one of two (2) ways: 
 
-1\. Please send email to [remove@ECommercepartners.com](https://web.archive.org/web/20081218162622id_/http%3A//www.ecommercepartners.net/remove@ECommercepartners.com). Please make sure to include the name of the promotion in the subject line and in the body of the email from which you wish to opt-out. Failure to provide this information may delay the processing of your request. 
+1\. Please send email to [remove@ECommercepartners.com](https://web.archive.org/web/20090226042148id_/http%3A//www.ecommercepartners.net/remove@ECommercepartners.com). Please make sure to include the name of the promotion in the subject line and in the body of the email from which you wish to opt-out. Failure to provide this information may delay the processing of your request. 
 
 2\. Mail the details of your request to:   
 Privacy Policy ECommerce Partners, Inc.   
