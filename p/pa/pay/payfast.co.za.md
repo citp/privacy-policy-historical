@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payfast.co.za privacy policy that was archived on 2008-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081112083459id_/http%3A//www.payfast.co.za/c/std/v/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payfast.co.za privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227092009id_/http%3A//www.payfast.co.za/c/std/privacy-policy) for the most accurate reproduction.*
 
 # PayFast - Privacy Policy
 
@@ -48,7 +48,7 @@ In the course of service provision to the User we may collect certain forms of i
 
 5.1 PayFast may send the User, site and service announcement updates on an irregular basis. Users are not able to unsubscribe from service announcements, which contain important information about our service.
 
-5.2 On occasion PayFast will email newletters to provide the User with information that we think the User will find useful, including information about new products and services. We might also contact the User by email to see if the User is interested in participating in market research regarding PayFast. We may also contact the User by email to respond to customer-service complaints that the User has submitted, to address a problem affecting the User’s use of the service or to verify the User’s account information if the User submits a password request.
+5.2 On occasion PayFast will email newletters to provide the User with information that we think the User will find useful, including information about new products and services. We might also contact the User by email to see if the User is interested in participating in market research regarding PayFast. We may also contact the User by email to respond to customer-service complaints that the User has submitted, to address a problem affecting the User�s use of the service or to verify the User�s account information if the User submits a password request.
 
 ## 6\. Information sharing
 
