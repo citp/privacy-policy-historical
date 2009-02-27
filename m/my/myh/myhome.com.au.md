@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myhome.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013433id_/http%3A//www.myhome.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhome.com.au privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227055802id_/http%3A//www.myhome.com.au/privacy-policy) for the most accurate reproduction.*
 
 # myhome.com.au privacy policy - myhome.com.au Australian real estate search
 
-myhome.com.au Pty Ltd ACN 098 429 166 ("myhome.com.au") operates the myhome.com.au website.
+myhome group Pty Ltd ACN 131 453 033 ("myhome.com.au") operates the myhome.com.au website
 
 myhome.com.au respects the privacy of the users of its site and the other people we do business with. We strive to comply with the National Privacy Principles in the Privacy Act 1988 when we handle personal information (that is, information from which a person's identity reasonably can be ascertained).
 
@@ -77,14 +77,14 @@ When you visit myhome.com.au, the website automatically collects other informait
 
 Our website also uses cookies. Most web browsers are set by default to accept cookies. However, if you do not wish to receive any cookies you may set your browser to either prompt of refuse cookies, but this may mean you can not access all the features of the website. We use cookies for tracking the statistics about the use of our website. This allows us to improve the layout and functionality of our website. This tracking is conducted in such a way to ensure the anonymity of visitors. The cookie may identify your computer, but it should not identify you.
 
-myhome.com.au also uses the independent company Nielsen//NetRatings to measure and analyse the internet usage across our websites. However, this occurs in a way that does not identify any user. The information is collected and aggregated by Neilsen//NetRatings. We do not 'match' data collected by Neilsen//NetRatings with any personal information collected on our website.
+myhome.com.au also uses the independent company Google Analytics to measure and analyse the internet usage across our websites. However, this occurs in a way that does not identify any user. The information is collected and aggregated by Google Analytics. We do not 'match' data collected by Google Analytics with any personal information collected on our website.
 
 * ### Additional privacy information and how to contact myhome.com.au
 
-In keeping up to date with the current environment and regulations, myhome.com.au may from time to time review and update this privacy policy to take account of new laws and technology and changes to myhome.com.au's operations. All personal information help by myhome.com.au Pty Ltd will be governed by myhome.com.au's most recent policy. We will make this Privacy Policy available to anyone who requests it, either at our offices or through our website.
+In keeping up to date with the current environment and regulations, myhome.com.au may from time to time review and update this privacy policy to take account of new laws and technology and changes to myhome.com.au's operations. All personal information held by myhome group Pty Ltd will be governed by myhome.com.au's most recent policy. We will make this Privacy Policy available to anyone who requests it, either at our offices or through our website.
 
 For further information about privacy issues, see the Australian Federal Privacy Commissioner's website at [www.privacy.gov.au](http://www.privacy.gov.au/)
 
 If you have a privacy concern or query, please contact the following: [contact@myhome.com.au](mailto:contact@myhome.com.au)
 
-myhome.com.au Privacy Policy was last updated on 14 February 2007
+myhome.com.au Privacy Policy was last updated on 16 February 2009
