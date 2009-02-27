@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the njng.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221141559id_/http%3A//www.njng.com/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the njng.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227052527id_/http%3A//www.njng.com/privacy/index.asp) for the most accurate reproduction.*
 
 # New Jersey Natural Gas ::
 
@@ -11,8 +11,7 @@ This statement was created in order to demonstrate our firm commitment to privac
 _**Personal Information**_  
 The personal information you provide us enables you to access various community and customer account services offered on our Web site. We may use this information to contact you to respond to an inquiry that you may send us. We may also use this information to keep you informed about new products and services, updates and announcements. You may opt-out of receiving this information.
 
-Some of the customer account services we offer on our Web site may require transferring you to Web sites operated by third parties. We hire third-party vendors to provide specialized services such as customer support, e-mail message deployment and special products or services that you have requested. These companies are only allowed to use the information in order to help us fulfill our services to you. We do not provide your information to these companies for their own, permanent use.  
-
+Some of the customer account services we offer on our Web site may require transferring you to Web sites operated by third parties. We hire third-party vendors to provide specialized services such as customer support, e-mail message deployment and special products or services that you have requested. These companies are only allowed to use the information in order to help us fulfill our services to you. We do not provide your information to these companies for their own, permanent use.
 
 _**General Information**_  
 Our Web servers automatically collect limited information about your computer's connection to the Internet, including your Internet provider (IP) address, when you visit our sites. Your IP address does not identify you personally. We use your IP address to help diagnose problems with our server, and to administer our Web site. We use this information to deliver our Web pages to you upon request, to tailor our site to the interests of our visitors and to measure traffic within our site.
@@ -33,7 +32,7 @@ This site also contains links to third-party Web sites. Third-party sites that w
 
 My Account Information, which provides customer services that involve transactions and requests initiated by you, uses secure areas protected by firewall technology and data encryption.
 
-Please refer to our [Help section](https://web.archive.org/web/20081221141559id_/http%3A//www.njng.com/my-account-services/Help.asp) for information on registration and passwords.
+Please refer to our [Help section](https://web.archive.org/my-account-services/help.asp) for information on registration and passwords.
 
 **Choice/Opt-Out**    
 Our site provides visitors the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. A visitor has the option to remove their information from our database to discontinue receiving communications. This can be done by sending an e-mail to [sitesupport@njng.com](mailto:sitesupport@njng.com) and telling us that you do not want to receive such communications from our company.
