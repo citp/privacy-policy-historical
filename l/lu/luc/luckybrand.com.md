@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luckybrand.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011909id_/http%3A//www.luckybrand.com/ccare_security_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckybrand.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227095944id_/http%3A//www.luckybrand.com//ccare_security_privacy.aspx) for the most accurate reproduction.*
 
 # Lucky Brand - Security and Privacy
 
@@ -14,7 +14,7 @@ Please be advised that the practices described in this Privacy Policy apply only
 You may opt out of our information sharing by contacting us in accordance with Section 4 below. To do so, you may contact us as follows:
 
 1) Call us at 800.964.5777  
-2) E-mail us at [customercare@luckybrandjeans.biz](mailto:customercare@luckybrandjeans.biz); or  
+2) E-mail us at [customercare@luckybrand.biz](mailto:customercare@luckybrand.biz); or  
 3) Write us at:
 
 > Lucky Brand Dungarees, Inc.  
@@ -63,7 +63,7 @@ As with any business, it is possible that as our business develops, we might sel
 Return to Top
 
 **What Steps Are Taken To Keep Personal Information Secure?**  
-We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web Site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our Customer Care Department by email at [customercare@luckybrandjeans.biz](mailto:customercare@luckybrandjeans.biz) or by phone at 1.800.964.5777.  
+We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web Site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our Customer Care Department by email at [customercare@luckybrand.biz](mailto:customercare@luckybrand.biz) or by phone at 1.800.964.5777.  
 Return to Top
 
 ####  **How Can I Access, Correct and Update Personal Information?**
@@ -77,7 +77,7 @@ We want to communicate with you only if you want to hear from us. If you prefer 
 
 You will have an opportunity to "unsubscribe" by clicking on the hyperlink contained in promotional emails we send you.
 
-Additionally to OPT OUT, you may email us at [customercare@luckybrandjeans.biz](mailto:customercare@luckybrandjeans.biz) or call us at **1.800.964.5777** or write to us at **Lucky Brand Dungarees, Inc., Customer Care – Privacy Policy Issues, 141-A1 Suburban Rd., San Luis Obispo, CA 93401.** Please note that any request to be removed from such mailing lists may take up to two (2) weeks to become effective.
+Additionally to OPT OUT, you may email us at [customercare@luckybrand.biz](mailto:customercare@luckybrand.biz) or call us at **1.800.964.5777** or write to us at **Lucky Brand Dungarees, Inc., Customer Care – Privacy Policy Issues, 141-A1 Suburban Rd., San Luis Obispo, CA 93401.** Please note that any request to be removed from such mailing lists may take up to two (2) weeks to become effective.
 
 Please note that even if you are removed from any such list, if you order online, we will continue to confirm your order by e-mail and may need to contact you by phone, email, or regular mail if we have questions about your order.
 
