@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the footmapping.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219125707id_/http%3A//www.spfiles.com/policy/IWW0341.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footmapping.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227183316id_/http%3A//www.spfiles.com/policy/IWW0341.jsp) for the most accurate reproduction.*
 
 # Schering-Plough Privacy Policy
 
 | 
 
-**Personal Information                                 ****_ [Additional Details](https://web.archive.org/web/20081219125707id_/http%3A//www.spfiles.com/policy/schering-plough-privacy-policy-layer2.jsp#Personal-Information)_**
+**Personal Information                                 ****_ [Additional Details](https://web.archive.org/web/20090227183316id_/http%3A//www.spfiles.com/policy/schering-plough-privacy-policy-layer2.jsp#Personal-Information)_**
 
 * Generally, you can access and browse our Web sites without disclosing any Personal Information.
 * If you request information, products or services from our Web sites or ask us to resolve complaints or concerns, we will ask you to provide information such as your name, contact information and other identifying information necessary to fulfill a particular request.
@@ -14,7 +14,7 @@
   |  | 
 
 **Uses and Disclosures** ** _  
-[Additional Details](https://web.archive.org/web/20081219125707id_/http%3A//www.spfiles.com/policy/schering-plough-privacy-policy-layer2.jsp#Uses-and-Disclosures)_**
+[Additional Details](https://web.archive.org/web/20090227183316id_/http%3A//www.spfiles.com/policy/schering-plough-privacy-policy-layer2.jsp#Uses-and-Disclosures)_**
 
 * We use the Personal Information you provide to fulfill your requests for information, products or services, and to provide you access to your registered accounts.
 * We use the Personal Information you provide only for the purposes consistent with the reason you provided it.
