@@ -1,80 +1,32 @@
-> *The following text is extracted and transformed from the winbuyer.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625030036id_/http%3A//winbuyer.com/Privacy.aspx%3Fc%3D9000000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winbuyer.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227042803id_/http%3A//www.winbuyer.com/privacy.aspx) for the most accurate reproduction.*
 
-# Download
+# Privacy Policy
 
-This Privacy Policy covers the use of the website www.WinBuyer.com and the **"Win Buyer Shopping Messenger"** software and comparative service provided therein (collectively: **"Win Buyer Shopping Messenger"** ), which are owned by Win Buyer Ltd. At Win Buyer, we're committed to your privacy and your privacy is safe with us. Our Privacy Policy is simple: 
+Winbuyer.com Privacy Policy 
 
-**What do we do?**
-
-  * When you visit a recognized shopping website, the **Win Buyer Shopping Messenger** software connects to our servers to check for product information, better prices and alternative offers for the product you were interested in, in order to present them to you. 
-  * The sites on which **Win Buyer Shopping Messenger** operates are only sites which we have examined and approved as safe for the user, and the software maintains a regularly-updated "white list" of such sites. The software does not track or transmit any data when you visit sites which are not on that "white list". 
-  * The software transmits to our servers only the URL of the e-commerce site you are visiting or the search term you typed in on these e-commerce sites. In some of the pages our software also transmits data about the products information presented on the page, in order to provide you with related information and comparative offers. 
-  * We offer you comparative product, as well as additional product information, from trusted vendors on the net. 
-
-
+At Winbuyer.com we appreciate your privacy and hope that you feel comfortable trusting us. Winbuyer.com provides a comparison shopping service that enables consumers to compare prices, products and stores when they shop online. We believe that you have a right to know what information we collect, how we intend to use that information, whom we intend to share it with, and what measures we take to keep that information secure.
 
   
-**What we don't do:**
+**Collecting Your Information**
 
-  * We do not collect any personally identifiable information ("PII") about you. 
-  * We do not trade, rent or sell PII to third parties. We do not disclose the URLs visited by you to anybody else. 
-  * We do not transmit to our servers any information about your searches or website visits, except for information about visits to e-commerce sites, and searches performed on such sites. When such information is transmitted to our servers, it is processed only for the purpose of performing the comparative service. 
-  * We do not display popup on your computer. 
+We collect information at several stages during your interaction with. When you first enter our site, we note your IP address and time of your visit. As you browse the site, we record your zip code via a cookie so we can serve more location specific information on your next visit. We will not collect any personally identifiable information about you. Cookies do not recognize you as a person, just your computer.  
+You are always free to decline our cookies if your browser permits although in that case you may not be able to use certain features on our site.
 
+  
+**Third Party Advertising**
 
+We work with third parties who use cookies to collect non-personally identifiable information when you visit our Web site and other sites. This information may be used to provide you with better shopping or savings opportunities through advertisements on this and other Web sites that you visit, or to conduct market research and website analysis.
 
-**WHAT INFORMATION DO WE COLLECT?**
+  
+**User Submitted Reviews**
 
-(a)Anonymous Aggregate Information  
-**Win Buyer Shopping Messenger** collects and stores aggregated anonymous information about the e-commerce web pages its users view and the data they enter in search engine search fields while using the **Win Buyer Shopping Messenger** software (the "Service"). **Win Buyer Shopping Messenger** uses this information to determine which alternative offers and additional product information to display on your message box. The **Win Buyer Shopping Messenger** software does not send to our servers any information about the web pages you view unless you are visiting one of the e-commerce sites that we have examined. For every such e-commerce web page you view while using the Service, the **Win Buyer Shopping Messenger** software transmits from your computer to the **Win Buyer Shopping Messenger** server and stores the following information: your Internet Protocol (IP) Address; the Full Uniform Resource Locator (URL) of the web page you are visiting. We also collect and store the following **Win Buyer Shopping Messenger** box for statistics and accounting purposes: what is clicked on the browser window pane; which keyword searches are performed within the application search box and what alternative results are received during any given session. 
+We discourage you from entering any personal information and please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. It is not required for you to submit personally identifiable information to enable you to submit a review.   
+Sharing of information  
+Winbuyer.comdoes not share any contact information or IP address information with its partners. We will only use information that helps our customers to find the lowest prices. 
 
-(b)Personally Identifiable Information  
-**Win Buyer Shopping Messenger** software does not collect and store any personal information 
+  
+**How We Protect Your Information**
 
-**COOKIES**
-
-Win Buyer Shopping Messenger site is not a Cookie's based web site. 
-
-**WHAT DO WE DO WITH THE INFORMATION WE COLLECT?**  
-**Win Buyer Shopping Messenger** analyzes its logs of usage paths and stored search terms collected from users to build anonymous web usage trends.   
-**Win Buyer Shopping Messenger** does not: 
-
-(a) Associate or store non-personally identifiable web usage data or search information with any PII; 
-
-(b) Analyze such web usage data or search information to determine the identity of any **Win Buyer Shopping Messenger** user; or 
-
-(c) Use PII to determine which ads and alternative offers to display on your **Win Buyer Shopping Messenger** box. 
-
-**AGE REQUIREMENT**
-
-You must be at least 18 years of age to use the Software. By accepting the terms of this Agreement and using Software, you represent that you are over the age of 18. If you are under 18 years of age, but are at least 13 years of age or older, your parent or legal guardian must accept the terms of this Agreement on your behalf. 
-
-**CHILDREN'S PRIVACY**
-
-This website is directed towards and designed for use by persons aged 13 or older. We will not approve applications of, or establish or maintain accounts for, any child whom we know to be under the age of 13. We do not solicit or knowingly collect personally identifiable information from children under the age of 13. If we nevertheless receive personally identifiable information from an individual who indicates that he or she is, or whom we otherwise have reason to believe is, under the age of 13, we will delete such information from our systems. 
-
-**THIRD PARTY SITES**
-
-Win Buyer may work with affiliates and/or sponsors to offer users the opportunity to register for services or subscribe to various newsletters or other information services. In such case, you will be informed while we do the best efforts to link only to websites that we believe share our respect for privacy, please note that Win Buyer is not responsible for the privacy practices or the content of other websites and we encourage you to read the privacy statements and terms of use of such other third parties before you provide personally identifiable information to them since their privacy policy and terms of use shall apply to such activity. 
-
-**SOFTWARE UPDATES**
-
-The Software is designed to check for the availability of software updates to ensure that you enjoy the latest improvements to the Software. When the Software checks for the availability of software updates, anonymous information about the **Win Buyer Shopping Messenger** software version and installed components is sent to our web server. The information is used only to determine whether new free software is available for download. 
-
-**REMOVAL OF THE WIN BUYER SHOPPING MESSENGER SOFTWARE**
-
-If you are having technical or other difficulty with the **Win Buyer Shopping Messenger** comparative shopping application, please contact our support team at [support@WinBuyer.com](mailto:support@WinBuyer.com). To remove the **Win Buyer Shopping Messenger** comparative shopping application you will need to uninstall the software using Microsoft's Windows control panel add/remove software function (by removing the entry "Win Buyer Shopping Messenger"). 
-
-**INFORMATION SECURITY**
-
-Win Buyer undertakes reasonable physical, electronic and procedural security measures in order to protect against the loss, misuse and alteration of the information under our control. 
-
-**CHANGES TO THIS PRIVACY POLICY**
-
-**Win Buyer Shopping Messenger** is constantly evolving. New features are continuously being added to the site and software. With these improvements, our Privacy Policy may evolve. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy on the Win Buyer homepage and website, on the **Win Buyer Shopping Messenger** application, and other places within appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. 
-
-**HOW TO CONTACT US ABOUT PRIVACY**
-
-If you have any questions about this Privacy Policy, the practices of this site and Service, or your dealings with this web site, you can email us at: [ privacy@WinBuyer.com](mailto:privacy@WinBuyer.com)
-
-This privacy policy was last updated on November 7, 2006. 
+The privacy and protection of your personal information is vitally important to us. Winbuyer.comdoes not make personal information available to any third parties without your permission. Any user statistics that we may provide to prospective advertisers or partners regarding your Winbuyer.comusage are provided in the aggregate only and do not include any personally identifiable information about any individual user.   
+This Website Privacy Statement is effective as of the date listed below. Even if you read and/or agreed to a prior policy statement, you need to review this updated version. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, or other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days.  
+We are happy to receive any errors that occur while attaching a link from the site. Thank you very much! 
