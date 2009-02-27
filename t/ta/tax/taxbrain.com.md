@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxbrain.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045934id_/http%3A//www.taxbrain.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxbrain.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227040855id_/https%3A//www.taxbrain.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | TaxBrain
 
@@ -52,7 +52,7 @@ From time to time, users may be asked to provide certain Identifying and Contact
 
 
 **  
-Cookies**
+Cookies **
 
 A "cookie" is a small piece of information that our Web sites may provide to a user's browser while they are at our site. Registered users on TaxBrain will receive a cookie when they login. This cookie is maintained by their browser and contains their unique identifier. This cookie is also used to authenticate their identity and provide access to areas of our Web site that are limited to registered users, such as those for tax return preparation and electronic filing. The cookie is tied to the user's account id. Only TaxBrain knows what personal information matches the account id number. There is no way any personally identifiable information could be directly extracted from our cookie. However, if a user has opted to have their username and password remembered, the information is stored in the cookie. 
 
@@ -76,7 +76,7 @@ We partner with other third party banks, such as the Santa Barbara Bank & Trust,
 
 
 **  
-Live Chat**
+Live Chat **
 
 To better serve our users we contract with LivePerson to offer live chat. LivePerson's privacy policy can be reviewed at <http://www.liveperson.com/help/privacy.asp>. To use the chat service you will be required to enter your email address. Upon exiting the chat session you will be given an option of having a transcript of your chat emailed to you. LivePerson may store a log of your chat session for up to 13 months, however they will not share your information with anyone unless it is required by law.   
 
@@ -145,7 +145,8 @@ Back to Top
    
 Contact Us  
   
-If users have any questions or suggestions regarding our privacy policy, please contact us at:
+If users have any questions or suggestions regarding our privacy policy,   
+please contact us at:
 
 > _Mailing Address:_  
 >  PEI, TaxBrain  
@@ -158,7 +159,7 @@ If users have any questions or suggestions regarding our privacy policy, please 
 >  Tracy, CA 95304
 > 
 > Phone: 866.829.2724  
->  Fax: 209.835.0409  
+>  Fax: 209.835.7227  
 >  Email: [support@taxbrain.com](mailto:support@taxbrain.com)
 > 
 > Web site URL: [http://www.taxbrain.com](https://web.archive.org/)
@@ -169,8 +170,7 @@ Back to Top
    
   
 PRIVATE WEB FORM EMAIL  
-Your most secure means of support is the personal web form provided within your myTaxBrain page. From there we can answer tax, technical, customer service and other support questions.  
-All questions receive a response within 24 hours, while most questions are answered right away.  
+Your most secure means of support is the personal web form provided within your myTaxBrain page. From there we can answer tax, technical, customer service and other support questions. All questions receive a response within 24 hours, while most questions are answered right away.  
   
 Back to Top
 
