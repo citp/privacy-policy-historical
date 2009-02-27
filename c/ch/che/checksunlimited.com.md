@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checksunlimited.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218051515id_/http%3A//www.checksunlimited.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checksunlimited.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227050357id_/http%3A//www.checksunlimited.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
