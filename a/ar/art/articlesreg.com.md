@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesreg.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226145928id_/http%3A//www.articlesreg.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesreg.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227172519id_/http%3A//www.articlesreg.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
