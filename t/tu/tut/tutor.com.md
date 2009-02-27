@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutor.com privacy policy that was archived on 2008-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080924142616id_/http%3A//www.tutor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutor.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227102448id_/http%3A//www.tutor.com/privacy) for the most accurate reproduction.*
 
 # Tutor.com | Privacy Policy
 
@@ -33,13 +33,13 @@ If you are under age 13, a law called the Children's Online Privacy Protection A
 
 Note to parents of children under the age of 13: You are welcome to call us at (800) 411-1970 to review any identifiable information we have collected about your child. If you desire, you may request that we delete this information and/or specify that we collect no more of your child's information. Please note that we will need to verify the identity of anyone requesting information about a child to ensure that the person is in fact the child's parent or legal guardian, and that a request for us to delete all personal information about a child requires us to cancel the child's tutoring account.
 
-### We Share Your Personal Information With Those Who Pay For Your Account
+### We Share Your Personal Information With Those Who Pay For Your Account and With Those Vendors Who Help Us Process Transactions 
 
-If your parents and/or your school pay for/subsidize the cost of your tutoring, we may share your Personal Information with them at their request. This includes the content of your tutoring sessions (transcripts) and the written comments you leave in post-session surveys.
+If your parents and/or your school pay for/subsidize the cost of your tutoring, we may share your Personal Information with them at their request. This includes the content of your tutoring sessions (transcripts) and the written comments you leave in post-session surveys. On the other hand, if you pay us for your own account, without the involvement of your parents or your school, we will not share your Personal Information with them. 
 
-On the other hand, if you pay us for your own account, without the involvement of your parents or your school, we will not share your Personal Information with them.
+If you use a promotion code at Tutor.com to create an account, or to add minutes to an account, we may let the source of that promotion code know that you used that code. For example, if you sign up for Tutor.com as part of our tell a friend program, we may let your friend know that you redeemed their tell a friend offer. 
 
-If you use a promotion code at Tutor.com to create an account, or to add minutes to an account, we may let the source of that promotion code know that you used that code. For example, if you sign up for Tutor.com as part of our tell a friend program, we may let your friend know that you redeemed their tell a friend offer.
+We share your personal information with the vendors (companies) that help us process transactions, such as charging your credit card when you make purchases. Any such sharing is always done subject to a legal agreement that requires them to keep your personal information strictly confidential. 
 
 ### We May Share Your Personal Information For Safety Reasons
 
