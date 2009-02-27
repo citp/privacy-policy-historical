@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3rocket.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050046id_/http%3A//www.mp3rocket.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3rocket.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228004511id_/http%3A//www.mp3rocket.com/privacy.htm) for the most accurate reproduction.*
 
 # MP3Rocket - The world's most popular file sharing software...made better!
 
