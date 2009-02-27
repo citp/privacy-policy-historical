@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the kanetix.ca privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019095846id_/http%3A//www.kanetix.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanetix.ca privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227062430id_/http%3A//www.kanetix.ca/privacy) for the most accurate reproduction.*
 
 # privacy
 
 Your privacy and security
 
-Our Privacy Pledge
+Our privacy pledge
 
-Effective on August 09, 2006
+Effective on December 02, 2008
 
-#### _kanetix_ believes in protecting the personal information that you provide us. We have made safe computing and the protection of your privacy an important priority. _kanetix_ provides insurance quotes/estimates with minimal personal information. With the exception of our insurance suppliers and where mandated by the government, the personal information that you share with us will not be shared with third parties without your prior consent.
+#### _kanetix_ believes in protecting the personal information that you provide us. We have made safe computing and the protection of your privacy an important priority. _kanetix_ provides insurance quotes/estimates with minimal personal information. Except where mandated by the government and its regulatory bodies or the courts, the personal information that you share with us will not be shared with third parties without your prior consent.
 
-#### _kanetix_ is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site kanetix.ca. Because the _kanetix_ website wants to demonstrate its commitment to your privacy, _kanetix_ has agreed to disclose its information practices to TRUSTe and have its privacy practices reviewed for compliance to TRUSTe privacy standards. By displaying the TRUSTe trustmark, we have agreed to notify you of: 
+#### _kanetix_ is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site kanetix.ca. Because the _kanetix_ website wants to demonstrate its commitment to your privacy, _kanetix_ has agreed to disclose its information practices to TRUSTe and have its privacy practices reviewed for compliance to TRUSTe privacy standards. By displaying the TRUSTe trustmark, we have agreed to provide you with information on the following: 
 
   1. What personally identifiable information of yours or third party personally identifiable information is collected from you through the website
   2. Who is collecting the information
@@ -50,7 +50,13 @@ We gather and store data about online usage on a collective rather than individu
 #### Please note that our online usage and affiliate tracking systems do not gather or store personally identifiable information.
 
 ####    
-From time to time, _kanetix_ requests and collects personal information from visitors via surveys, contests, "Tell-a-friend" and Renewal Reminder services. Participation is completely voluntary (opt-in). Information requested has included your email address and that of the friend you are referring, name, demographic and insurance-related information.
+In some provinces, _kanetix_ offers visitors the option of personalized quotes and gathers personal information as part of this process. Also, from time to time, _kanetix_ requests and collects personal information from visitors via surveys, contests, "Tell-a-friend" and Renewal Reminder services. Participation is completely voluntary (opt-in). Information requested has included your email address and that of the friend you are referring, name, demographic and insurance-related information.
+
+#### **Communication of personal identifiable information**  
+At various points on the _kanetix_ website and when visitors contact _kanetix_ , visitors may be asked if they consent to sharing their personal information with 3rd parties. If they agree, _kanetix_ , provides one or more insurance suppliers with their personal information for the purposes of either preparing or validating an insurance quote.
+
+#### **Email**  
+_kanetix_ will not accept transactions or instructions by Internet email messages. However, questions of a general nature or inquiries may be communicated by [submitting your question online](http://www.kanetix.ca/about_generic_about_us). By submitting your question, comment or suggestion online the information you provide becomes the property of _kanetix_. Where necessary, we may share the information you provide in your email with 3rd parties in order to address your question, comments or concerns. The content of your email may be used for any purpose and _kanetix_ is free to use any idea contained in it for any purpose whatsoever, including, but not limited to, developing, manufacturing and marketing products using such information.
 
 #### **Tell-a-friend**  
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Kanetix Ltd. does not store this information.
