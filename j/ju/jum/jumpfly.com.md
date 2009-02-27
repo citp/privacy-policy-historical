@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumpfly.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216042001id_/http%3A//www.jumpfly.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpfly.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227041511id_/http%3A//www.jumpfly.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # JumpFly, Inc. - Maximizing Sponsored Search Advertising Results
 
