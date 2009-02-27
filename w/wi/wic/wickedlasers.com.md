@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wickedlasers.com privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014060646id_/http%3A//www.wickedlasers.com/laser-tech/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wickedlasers.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227070032id_/http%3A//www.wickedlasers.com/laser-tech/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
