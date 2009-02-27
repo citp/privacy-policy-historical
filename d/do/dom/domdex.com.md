@@ -1,18 +1,17 @@
-> *The following text is extracted and transformed from the domdex.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218110740id_/http%3A//domdex.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domdex.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227042000id_/http%3A//domdex.com/w3c/policy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Domdex, Inc.
 
 ## About Us
 
-This is a privacy policy for Domdex, Inc.. Our homepage on the Web is located at [ http://domdex.com](http://domdex.com/). The full text of our privacy policy is available on the Web at [ http://domdex.com/w3c/policy.html](http://domdex.com/w3c/policy.html) Users may go to [ http://domdex.com/w3c/optout.html](http://domdex.com/w3c/optout.html) for information on how to opt-in or opt-out of use of their information. 
+This is a privacy policy for Domdex, Inc.. Our homepage on the Web is located at [ http://www.domdex.com](http://www.domdex.com/). The full text of our privacy policy is available on the Web at [ http://domdex.com/w3c/policy.html](http://domdex.com/w3c/policy.html). Domdex may allow third parties to monitor Domdex Affiliated Sites for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Domdex users. Users may go to <http://domdex.com/i> for information on what is being tracked. Users may go to [ http://domdex.com/w3c/optout.html](http://domdex.com/w3c/optout.html) for information on how to opt-in or opt-out of use of their information. 
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
     
     
-    Domdex, Inc.
-    344 Hauser Blvd
-    Apt 224
-    Los Angeles, CA 90036 
+    10983 Bluffside Drive
+    Apartment 6208
+    Studio City, CA 91604 
     USA
     
 
@@ -24,7 +23,7 @@ We have no privacy seals or other assurance mechanisms.
 
 ## Additional Information
 
-This policy is valid until 1 Jan, 2009 at 12:00:00 PST. 
+This policy is valid until 1 Jan, 2010 at 12:00:00 PST. 
 
 ## Data Collection
 
@@ -68,16 +67,17 @@ At the user's option, we will collect the following data:
 
 This data will be used for the following purposes:
 
+  * Targetting advertisements
   * Research and development.
   * One-time tailoring.
 
 
 
-This data will be used by ourselves and our agents. 
+This data will be used by ourselves and our agents. Domdex may allow third parties to monitor our data for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Domdex users. 
 
 The following explanation is provided for why this data is collected:
 
-> Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you.
+> Cookies are used to track visitors to our affiliate sites, so we can better understand what portions of our site best serve you and tailor advertisements served on our partner websites.
 
 * * *
 
