@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bab.la privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216061747id_/http%3A//bab.la/dataprotection.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bab.la privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227153529id_/http%3A//bab.la/dataprotection.php) for the most accurate reproduction.*
 
 # bab.la language portal
 
@@ -34,7 +34,7 @@ The user can provide additional personal information about him or herself. This 
 
 #### 5\. Data security
 
-bab.la has employed several security measures to protect user data from deletion, change, or abusive use. bab.la uses constantly updated industry-standard firewalls as well as other security systems. bab.la is committed to an adequate security level and to changing the security systems based on standard industry developments. Please note that due to constantly new computer viruses and other measures a hundred percent protection cannot be guaranteed. In case of damage or deletion of data through unknown viruses bab.la cannot be held responsible. bab.la will prosecute any hacker attacks or similar measures to the fullest extent of the law (“zivilrechtliche und strafrechtliche Verfolgung”).
+bab.la has employed several security measures to protect user data from deletion, change, or abusive use. bab.la uses constantly updated industry-standard firewalls as well as other security systems. bab.la is committed to an adequate security level and to changing the security systems based on standard industry developments. Please note that due to constantly new computer viruses and other measures a hundred percent protection cannot be guaranteed. In case of damage or deletion of data through unknown viruses bab.la cannot be held responsible. bab.la will prosecute any hacker attacks or similar measures to the fullest extent of the law ("zivilrechtliche und strafrechtliche Verfolgung”).
 
 #### 6\. Information request, changing or removing of information
 
@@ -70,7 +70,7 @@ Identification with valid legal ID papers.
 
 #### 8\. Contact
 
-Your trust in our services is essential to us. If you have any questions or want more detailed information about this Privacy Policy please contact our person responsible for all issues regarding data protection (“Datenschutzbeautragter”).   
+Your trust in our services is essential to us. If you have any questions or want more detailed information about this Privacy Policy please contact our person responsible for all issues regarding data protection ("Datenschutzbeautragter”).   
 bab.la GmbH  
 \- Datenschutzbeauftragter -  
 Baumwall 7  
