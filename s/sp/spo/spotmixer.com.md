@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the spotmixer.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216063056id_/http%3A//www.spotmixer.com/create_video/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotmixer.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227100816id_/http%3A//www.spotmixer.com/create_video/privacypolicy) for the most accurate reproduction.*
 
 # SpotMixer - Privacy Policy
+
+| 
 
 [](http://www.truste.org/ivalidate.php?url=www.onetruemedia.com&sealid=101)
 
@@ -10,7 +12,7 @@ _Last updated April 23, 2008_
 
 To protect your privacy we provide this statement to explain our information practices and to define your options for how your information is collected and used.
 
-This policy applies to the [http://www.SpotMixer.com](http://www.spotmixer.com/) website (the "Site"). The Site is owned and operated by One True Media, Inc., a company incorporated under the laws of the State of Delaware whose principal business address is One True Media, Inc., 955-A Charter St., Redwood City, CA 94063. 
+This policy applies to the [SpotMixer.com](http://www.spotmixer.com/) website (the "Site"). The Site is owned and operated by One True Media, Inc., a company incorporated under the laws of the State of Delaware whose principal business address is One True Media, Inc., 955-A Charter St., Redwood City, CA 94063. 
 
 One True Media, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. Because this Site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe
 
@@ -100,3 +102,5 @@ This Site contains links to other websites. One True Media is not responsible fo
 ### How to contact us
 
 Should you have questions or concerns, please call our Customer Care line at 1-866-MY1TRUE (1-866-691-8783), send an email to [Help@SpotMixer.com](mailto:Help@SpotMixer.com), or mail One True Media, Inc., 955-A Charter St., Redwood City, CA 94063.
+
+| 
