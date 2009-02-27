@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoniac.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217143234id_/http%3A//www.infoniac.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoniac.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227072027id_/http%3A//www.infoniac.com/privacy-policy.html) for the most accurate reproduction.*
 
 # InfoNIAC
 
@@ -41,6 +41,3 @@ Users can access personal information on their page on InfoNIAC and edit or dele
 
 
 InfoNIAC reserves the right to change the current Privacy Policy at its sole discretion. In case InfoNIAC team makes any changes in its Privacy Policy, all changes will be posted on the site's home page, so you could always be aware. 
-
-  
-
