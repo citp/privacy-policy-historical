@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookswim.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613164529id_/http%3A//www.bookswim.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookswim.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227095121id_/http%3A//www.bookswim.com/privacy.html) for the most accurate reproduction.*
 
-# Private Policy
+# Privacy Policy
 
   
 
@@ -35,8 +35,8 @@ We offer membership services only to consumers over the age of 18. We do not kno
 
 **BookSwim Corporation**   
 Attn: Customer Service   
-101 Church Street   
-Suite 2   
-Aberdeen , NJ 07747  
+211 Warren Street  
+Suite 305  
+Newark, NJ 07103  
 **Email:**  
 **Facsimile:** 732-653-0296 
