@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the thestreet.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152829id_/http%3A//www.thestreet.com/static/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestreet.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227070930id_/http%3A//www.thestreet.com/static/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy Rights of Using Financial Market Analysis & Premium Services | Privacy | TheStreet.com
+# Privacy Policy on Using Financial Stock Market & Investing Analysis & Premium Services | Privacy | TheStreet.com
 
-[About Us](https://web.archive.org/web/20081216152829id_/http%3A//www.thestreet.com/static/about/index.html) | [Investor Relations](https://web.archive.org/investor-relations/index.html) | [TSC Tour](https://web.archive.org/static/slim/tour.html) | [Jobs](https://web.archive.org/web/20081216152829id_/http%3A//www.thestreet.com/static/about/jobs.html) | [Terms of Use](https://web.archive.org/web/20081216152829id_/http%3A//www.thestreet.com/static/about/terms-of-use.html) | [Masthead](https://web.archive.org/web/20081216152829id_/http%3A//www.thestreet.com/static/about/masthead.html) | [Who's Who](https://web.archive.org/web/20081216152829id_/http%3A//www.thestreet.com/static/about/whos-who.html) | [Conflicts & Disclosure Policy](https://web.archive.org/web/20081216152829id_/http%3A//www.thestreet.com/static/about/disclosure.html) | [Privacy Policy](https://web.archive.org/web/20081216152829id_/http%3A//www.thestreet.com/static/about/privacy.html) | [Reprints](https://web.archive.org/web/20081216152829id_/http%3A//www.thestreet.com/static/about/reprints.html) | [Corrections](https://web.archive.org/story/corrections.html) | [FAQs](https://web.archive.org/web/20081216152829id_/http%3A//www.thestreet.com/static/about/faq.html)
+[About Us](https://web.archive.org/web/20090227070930id_/http%3A//www.thestreet.com/static/about/index.html) | [Investor Relations](https://web.archive.org/investor-relations/index.html) | [TSC Tour](https://web.archive.org/static/slim/tour.html) | [Jobs](https://web.archive.org/web/20090227070930id_/http%3A//www.thestreet.com/static/about/jobs.html) | [Terms of Use](https://web.archive.org/web/20090227070930id_/http%3A//www.thestreet.com/static/about/terms-of-use.html) | [Masthead](https://web.archive.org/web/20090227070930id_/http%3A//www.thestreet.com/static/about/masthead.html) | [Who's Who](https://web.archive.org/web/20090227070930id_/http%3A//www.thestreet.com/static/about/whos-who.html) | [Conflicts & Disclosure Policy](https://web.archive.org/web/20090227070930id_/http%3A//www.thestreet.com/static/about/disclosure.html) | [Privacy Policy](https://web.archive.org/web/20090227070930id_/http%3A//www.thestreet.com/static/about/privacy.html) | [Reprints](https://web.archive.org/web/20090227070930id_/http%3A//www.thestreet.com/static/about/reprints.html) | [Corrections](https://web.archive.org/story/corrections.html) | [FAQs](https://web.archive.org/web/20090227070930id_/http%3A//www.thestreet.com/static/about/faq.html)
+
+TheStreet.com
 
 _Last revised: January 12, 2007_
 
@@ -18,33 +20,33 @@ TheStreet.com, Inc. gathers two types of data about users: ( **a** ) personal in
 
 TheStreet.com collects personal information in several places on our web sites, which are set forth generally below. We will always provide a secure area of our sites for you to enter your information, but if you prefer, you may talk offline to a customer service representative and provide the required information over the telephone or via email.
 
-## Membership
+Membership
 
 Currently, we do not require users to become members of TheStreet.com in order to have access to the free commentary, analysis and news available on our flagship site, www.thestreet.com. However, if you'd like to receive one or more of our free email newsletters, gain access select commentary articles from RealMoney and daily archives of Jim Cramer's radio program, or use our _MyStockWatch_ service to filter content from TheStreet.com, we require you to [register here](https://secure2.thestreet.com/cap/prm.do?PID=PRFR-0003&OID=000842) to become a member.
 
 In order to register, you'll have to supply us with your email and postal addresses, choose a unique User Name and Password, and provide us with some additional information about you (the reason for your visit to TheStreet.com, what kind of investor you are, etc.). Additionally, you will be required to verify your email address by clicking on the activation link in the Welcome Letter that will be sent to you upon your submission of a completed registration form.
 
-## Premium Services
+Premium Services
 
 If you'd like access to one or more of our premium subscription-based services, you first must [register](https://secure2.thestreet.com/cap/prm.do?PID=PRFR-0003&OID=000842) as a member of TheStreet.com as described above, and then you'll have to pick a unique User Name and Password. Then, on the subscription registration page for the premium service you are interested in, you'll need to supply us with the information specified to activate your free trial or paid subscription.
 
-## Real-Time Portfolio Tracker
+Real-Time Portfolio Tracker
 
 You may, at your option, subscribe to a real-time, streaming Real-Time Portfolio Tracker, which is provided to us as a result of a partnership with B4Utrade.com Corp. Use of the B4Utrade.com Real-Time Portfolio Tracker is completely voluntary and is the privacy or your portfolio information is governed by B4Utrade.com's [ Privacy Policy](http://www.b4utrade.com/b4utrade/jsp/common/PrivacyPolicy.jsp).
 
-## MyStockWatch
+MyStockWatch
 
 We provide a free service called MyStockWatch, which you can use to stay current on TheStreet.com or RealMoney coverage of stocks in your portfolio. Registered members of TheStreet.com may create up to five lists with a maximum of 50 tickers each. You must therefore enter in tickers of stocks you are interested in following. This information is kept confidential and is not utilized for marketing purposes by TheStreet.com.
 
-## Blogs and Chats
+Blogs and Chats
 
 We provide blogs featuring running commentary throughout the trading day by RealMoney's most popular contributors, including Jim Cramer. This exciting feature allows subscribers to respond to a blogger's commentary or to another subscriber's post. The blogs are provided subject to their own terms of use, which can be found [ here](http://www.thestreet.com/tsc/commerce/terms/tou-sb-1_blogs.html). Only paid subscribers of our RealMoney service may use the blogs. We urge and encourage participants posting comments on the blogs to include their full name in any comment and to disclose any positions held in securities they discuss in any comment. We also host chat events for discussion of various topics. Please note that information you submit to the blogs or during a chat will be available for any user of that service to read, and is no longer private.
 
-## Surveys/Polls
+Surveys/Polls
 
 At certain times, you may be asked to participate in surveys, which are generally aimed at obtaining general information, for example, your investment experience or your reactions to a particular article. Because information obtained in these surveys is connected with individual subscribers and is used internally to better market our services, participation is voluntary. In addition, some columnists will on occasion take polls of their readers. Such polls are solely for the editorial use of the individual columnists, and participation is voluntary.
 
-## Contests and Sweepstakes
+Contests and Sweepstakes
 
 We sometimes offer contests or sweepstakes in which certain personal information is required for registration, for purposes of verifying the entrants' identities and notifying the winners. If the contest or sweepstakes is being administered by a third party, this information will be disclosed to that third party. However, entrants may select contest names distinct from their User Names, and the information is not connected with their User Names.
 
@@ -58,7 +60,7 @@ We use cookies in several ways to track user behavior. First, the information we
 
 You can control your browser's settings regarding cookies by selecting "Internet Options" or "Preferences" in the menu bar of your browser. This will allow you to prevent your browser from accepting new cookies, have your browser notify you when you receive a new cookie, or disable cookies altogether. However, because cookies allow you to easily navigate our web sites without having to constantly log in using your User Name and Password, we recommend that you leave them turned on.
 
-## Revenue Science
+Revenue Science
 
 In addition to our own internal tracking, we utilize the services of [Revenue Science](http://www.revenuescience.com/privacyStatement.asp), a company that provides data analyses and audience segmentation services, in order to better target advertising to our visitors based on their activity on our sites.
 
@@ -68,7 +70,7 @@ In addition to our own internal tracking, we utilize the services of [Revenue Sc
 
 
 
-## Atlas
+Atlas
 
 TheStreet.com uses [Atlas](http://www.atlassolutions.com/), an operating unit of [aQuantive, Inc.](http://www.aquantive.com/), a digital marketing company.
 
@@ -78,7 +80,7 @@ TheStreet.com uses [Atlas](http://www.atlassolutions.com/), an operating unit of
 
 
 
-## Coremetrics
+Coremetrics
 
 [Coremetrics](http://www.coremetrics.com/), an online marketing analysis company, is used by TheStreet.com to collect data as to what pages our customers are visiting and what, if any, pattern of page viewing exists. We utilize Coremetrics to analyze such customer activity data solely to better serve the interests of our customers. Only non-personally identifiable information is collected by Coremetrics for analysis, using anonymous cookies, and all such data belongs to TheStreet.com. 
 
@@ -87,7 +89,7 @@ TheStreet.com uses [Atlas](http://www.atlassolutions.com/), an operating unit of
 
 
 
-## Omniture
+Omniture
 
 TheStreet.com uses [Omniture, Inc.](http://www.omniture.com/), a provider of online business optimization software, to assist us in the capture and analysis of customer usage and tracking information. Omniture acts as a limited agent to TheStreet.com only for the purpose of providing such services. Any information obtained by Omniture from TheStreet.com is and will remain TheStreet.com's property, and will be treated by Omniture as proprietary and confidential information of TheStreet.com. As such, Omniture will not disclose such information to any third party, unless specifically and rightfully instructed to do so by TheStreet.com. Omniture will not review, share, distribute, print, or reference any session data of visitors to TheStreet.com websites except as requested by TheStreet.com or as may be required by law.
 
@@ -101,7 +103,7 @@ TheStreet.com's advertisers include financial services companies (such as broker
 
 In addition to cookies placed by TheStreet.com or its agents, as described above, advertisers and advertising vendors that serve ads onto our web sites may use their own cookies or other tracking technologies. We cannot be responsible for the privacy policies or practices of any such advertisers and vendors.
 
-## DoubleClick
+DoubleClick
 
 If you would like to know more about the privacy practices of our primary third-party ad server, please click [here](http://www.doubleclick.com/us/about_doubleclick/privacy/) to view DoubleClick's privacy policy. DoubleClick collects certain non-personally identifiable information in order to better target advertising to you.
 
@@ -109,7 +111,7 @@ If you would like to know more about the privacy practices of our primary third-
 
 
 
-## Avenue A|Razorfish
+Avenue A|Razorfish
 
 Some advertisements on our site are served by interactive advertising agency Avenue A|Razorfish, another operating unit of [aQuantive, Inc](http://www.aquantive.com/).
 
@@ -123,7 +125,7 @@ Some advertisements on our site are served by interactive advertising agency Ave
 
 TheStreet.com, Inc. uses personal information obtained from its users as stated in this Privacy Policy, and to enhance users' experiences on our sites. 
 
-## Disclosures Permitted by Law
+Disclosures Permitted by Law
 
 TheStreet.com does not sell or disclose personal information about you described above to with other people or nonaffiliated companies, except to provide you with products or services, when we have your permission, or under the following circumstances:
 
@@ -133,11 +135,11 @@ TheStreet.com does not sell or disclose personal information about you described
 
 
 
-## Disclosures for Joint Marketing and Servicing
+Disclosures for Joint Marketing and Servicing
 
 TheStreet.com may disclose all the information we collect as described above to other companies such as direct marketers to perform marketing services on our behalf, or to financial institutions, such as banks, insurance companies and securities broker-dealers, with whom we have joint marketing agreements.
 
-## Other Uses
+Other Uses
 
   * Free Newsletters  
 If you're a registered member of TheStreet.com, we use your email address to send you free email newsletters containing selected stories, market information, advertisements and links to our sites. You can select which free newsletters you would like to receive or remove yourself from our free newsletter delivery list at any time by visiting the [Communication Preferences page](https://secure2.thestreet.com/cap/selfserve/EmailPrefs.jsp) or contacting our customer service department by email at [members@thestreet.com](mailto:members@thestreet.com) or by telephone at (866) 321-TSCM [8726], between the hours of 8:00 a.m. and 6:00 p.m. EST.
