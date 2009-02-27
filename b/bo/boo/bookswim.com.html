@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bookswim.com privacy policy that was archived on 2008-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080613164529id_/http%3A//www.bookswim.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bookswim.com privacy policy that was archived on 2009-02-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090227095121id_/http%3A//www.bookswim.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	<meta http-equiv="Pragma" content="no-cache">
@@ -7,17 +7,64 @@
 	<link rel="stylesheet" type="text/css" href="http://www.bookswim.com/css/lightbox_rab.css">
 <!--[if IE]> <style type="text/css">@import "http://www.bookswim.com/css/ie.css";</style> <![endif]-->
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="description" content="Bookswim Private Policy BookSwim is the first netflix-style online book rental library club lending you paperbacks and hardcovers netflix-style directly to your house without the need to purchase! Whether it's New Releases, Bestsellers, or Classics, we've got over 200,000 titles to choose from, with free shipping both ways! Read your books as long as you want. -- no late fees! Even choose to purchase and keep the titles you love!">
+<meta name="description" content="Bookswim Private Policy BookSwim is the 1st Netflix-style online book rental library club lending paperbacks, hardcovers, and now college textbooks Netflix-style directly to your house without the need to purchase! Whether it's New Releases, Bestsellers, or Classics, we've got a plethora titles to choose from, with free shipping both  
+ways! Read your books as long as you want. -- no late fees! Even choose to purchase and keep the books and college textbooks you love!
+">
 <script language="Javascript"><!--
 function textClear (input) { if ( input.value == input.defaultValue ) { input.value = ""; } }
 function textRestore (input) { if ( input.value == "" ) { input.value = input.defaultValue;	} }
 // --></script>
-<script type="text/javascript" src="http://www.bookswim.com/js/misc.js"></script>
+
 <script type="text/javascript" src="http://www.bookswim.com/js/lib/prototype.js"></script>
+<script type="text/javascript" src="http://www.bookswim.com/js/misc.js"></script>
+<script type="text/javascript" src="http://www.bookswim.com/js/register.js"></script>
+<script type="text/javascript" src="http://www.bookswim.com/js/gift.js"></script>
 <script type="text/javascript" src="http://www.bookswim.com/js/src/scriptaculous.js"></script>
 <script type="text/javascript" src="http://www.bookswim.com/pages/ratings/js/script.js"></script>
 <script type="text/javascript" src="http://www.bookswim.com/js/lib/lightbox.js"></script>
 
+
+<script language="JavaScript" type="text/JavaScript">
+
+function changeFormVal()
+{
+  var lst = document.getElementById("search_type");
+  var txtHidden = document.getElementById("search_form");
+  var selected  = lst.options[lst.selectedIndex];
+  
+  if (lst.options[lst.selectedIndex].text == "College Text Books") document.location.href = '/rent_textbooks.html';
+  if(txtHidden.value == txtHidden.defaultValue){
+  	if(lst.options[lst.selectedIndex].text == "Author"){
+  		  txtHidden.value = "Enter an " +lst.options[lst.selectedIndex].text;
+  		  txtHidden.defaultValue = "Enter an " +lst.options[lst.selectedIndex].text;
+  		  }
+  	else{
+  txtHidden.value = "Enter a " +lst.options[lst.selectedIndex].text;
+  txtHidden.defaultValue = "Enter a " +lst.options[lst.selectedIndex].text;
+
+		}
+   return true;
+	}
+}
+
+function changeToPass(){
+  var field = document.getElementById("top_pass");
+
+	 field.type = "password";
+	 
+	 field.focus();
+}
+
+function changeToText(){
+	var field = document.getElementById("top_pass");
+
+	if(field.value == field.defaultValue)
+	 field.type = "text";
+	
+	 
+
+}
+</script>
 <script type="text/javascript">
 function submitRating(evt) {
 	var tmp = Event.element(evt).getAttribute('id').substr(5);
@@ -38,7 +85,21 @@ function prototypeInit()
 Event.observe(window, 'load', prototypeInit);
 </script>
 
-		<title>Private Policy</title>
+		<script type="text/javascript">
+var xajaxRequestUri="http://www.bookswim.com/privacy.html";
+var xajaxDebug=false;
+var xajaxStatusMessages=false;
+var xajaxWaitCursor=true;
+var xajaxDefinedGet=0;
+var xajaxDefinedPost=1;
+var xajaxLoaded=false;
+function xajax_add_to_session_queue(){return xajax.call("add_to_session_queue", arguments, 1);}
+function xajax_validateLogin(){return xajax.call("validateLogin", arguments, 1);}
+	</script>
+	<script type="text/javascript" src="/xajax_js/xajax.js"></script>
+	<script type="text/javascript">
+	</script>
+	<title>Privacy Policy</title>
 </head>
 <body onload="">
 <script id="pap_x2s6df8d" src="https://www.bookswim.com/affiliate/scripts/track.js" type="text/javascript">
@@ -49,23 +110,58 @@ Event.observe(window, 'load', prototypeInit);
 papTrack();
 //-->
 </script>
-	<div id="container">
-		<a style="text-decoration: none" href="http://www.bookswim.com"><div id="header"> &nbsp;</div></a>
-		<div id="search">
-		<form style="margin: 0; padding: 0; display: inline" action="http://www.bookswim.com/search.do" method="GET"><input type="hidden" name="page" value="catalog"><input name="search" id="searchform" type="text" onfocus="textClear(this);" onblur="textRestore(this);" value="Enter Title, Author, Keyword">
-		<select name="param">
-			<option selected="" value="t">Title</option>
-			<option value="a">Author</option>
-			<option value="keyword">Keyword</option>
-		</select>
-		<input type="hidden" name="quicksearch" value="true">
-		<input id="searchbutton" type="image" src="http://www.bookswim.com/images_site/searchbutton.gif"></form></div>
-		<div style="clear: both"></div>
-		<div id="navbar"><a style="text-decoration: none" href="http://www.bookswim.com"><div style="height: 51px; width: 267px; float: left"></div></a><div class="nav_position">
-	<a href="http://www.bookswim.com/catalog_index.html"><div class="tab" onmouseover="this.className='tab_hover'" onmouseout="this.className='tab'">Books</div></a><a href="http://www.bookswim.com/how.html"><div class="tab" onmouseover="this.className='tab_hover'" onmouseout="this.className='tab'">How it Works</div></a><a href="http://www.bookswim.com/groups"><div class="tab" onmouseover="this.className='tab_hover'" onmouseout="this.className='tab'">Groups</div></a><a href="http://www.bookswim.com/register.html?src=header"><div class="tab" onmouseover="this.className='tab_hover'" onmouseout="this.className='tab'">Sign Up</div></a><a href="http://www.bookswim.com/login.html"><div class="tab" onmouseover="this.className='tab_hover'" onmouseout="this.className='tab'">Log In</div></a><a href="http://www.bookswim.com/faq.html"><div class="tab" onmouseover="this.className='tab_hover'" onmouseout="this.className='tab'">Help</div></a><a href="http://www.bookswim.com/gift.html"><div class="tab" onmouseover="this.className='tab_hover'" onmouseout="this.className='tab'">Give a Gift</div></a></div>
-</div> 
-<div id="maincontent">
 
+
+	<div id="container">
+			<a style="text-decoration: none" href="http://www.bookswim.com">
+				<div id="header"> &nbsp;</div>
+			</a>
+				<div id="login_top">
+					<div style="padding-top: 0px; padding-left: 8px">
+					<form name="login_form" method="post" action="" onsubmit="xajax_validateLogin(document.login_form.username.value, document.login_form.password.value); return false;">
+					<!-- <form method='post' action='' onSubmit="new Ajax.Updater('login_form_top', '/pages/login_ajax.php', {asynchronous:false, parameters:Form.serialize(this)});  return false;"> //--->
+				<div id="login_form_top">
+					<div style="padding-top: 8px;"><input type="text" size="12" class="input_s" name="username" value="Username" onfocus="textClear(this);" onblur="textRestore(this)"> <input id="top_pass" type="password" size="12" class="input_s" name="password" value="Password" onfocus="textClear(this);" onblur="textRestore(this);"> <input style="vertical-align: bottom" type="image" name="top_submit" src="http://www.bookswim.com/images_site/login_button_top.jpg"></div></div></form>
+					</div>
+				</div>
+		<div style="clear: both"></div>
+		<div id="navbar">
+		<a style="text-decoration: none" href="http://www.bookswim.com">
+			<div style="height: 51px; width: 267px; float: left">
+			</div>
+		</a>
+		<div class="nav_position">
+	<a href="http://www.bookswim.com/catalog_index.html"><div class="tab" onmouseover="this.className='tab_hover'" onmouseout="this.className='tab'">Books</div></a><a href="http://www.bookswim.com/rent_textbooks.html"><div class="tab" onmouseover="this.className='tab_hover'" onmouseout="this.className='tab'">Textbooks</div></a><a href="http://www.bookswim.com/how.html"><div class="tab" onmouseover="this.className='tab_hover'" onmouseout="this.className='tab'">How it Works</div></a><a href="http://www.bookswim.com/value.html"><div class="tab" onmouseover="this.className='tab_hover'" onmouseout="this.className='tab'">Value</div></a><a href="http://www.bookswim.com/register.html"><div class="tab" onmouseover="this.className='tab_hover'" onmouseout="this.className='tab'">Start Now</div></a><a href="http://www.bookswim.com/faq.html"><div class="tab" onmouseover="this.className='tab_hover'" onmouseout="this.className='tab'">Help</div></a><a href="http://www.bookswim.com/gift.html"><div class="tab" onmouseover="this.className='tab_hover'" onmouseout="this.className='tab'">Give a Gift</div></a></div>
+</div>
+<div id="searchbar">
+<div style="position:relative; float:left; vertical-align: bottom; top:-8px">
+<form style="margin: 0; padding: 0;" action="http://www.bookswim.com/search.do" method="GET">
+	
+	<input type="hidden" name="page" value="catalog">
+	<input type="hidden" name="quicksearch" value="true">
+
+		<!-- id='searchform_top'  //-->
+		<table id="searchform_top" border="0" cellpadding="3" cellspacing="0">
+			<tbody><tr>
+			<td>
+			&nbsp;<select id="search_type" name="param" onchange="changeFormVal()">
+			<option selected="" value="k">Keyword or ISBN</option>
+			<option value="t">Book Title</option>
+			<option value="a">Author</option>
+			<option value="tb">College Text Books</option>
+		</select>
+		</td>
+		<td valign="bottom">
+		<input class="input_s" id="search_form" name="search" length="20" onfocus="textClear(this);" onblur="textRestore(this);" value="Enter a Keyword or ISBN"></td>
+		<td valign="bottom" style="width: 60px">
+		<input class="s_button" type="image" src="http://www.bookswim.com/images_site/searchform_button.jpg"></td>
+		</tr>
+		</tbody></table>
+		</form>
+	</div>
+</div>
+<div id="maincontent">
+<div style="clear: both"></div> <br>
 <div id="book_view_capsule">
 	<h1>Privacy Policy</h1>
 <br>
@@ -106,9 +202,9 @@ We have implemented technology and security features, as well as  strict interna
 
       <strong>BookSwim Corporation</strong> <br>
         Attn: Customer Service <br>
-        101 Church Street <br>
-        Suite 2 <br>
-        Aberdeen , NJ 07747<br>
+        211 Warren Street<br>
+        Suite 305<br>
+        Newark, NJ 07103<br>
         <strong>Email: </strong><img src="images_site/general_email.png" alt="text"><br>
         <strong>Facsimile:</strong> 732-653-0296
 </h3>
@@ -117,23 +213,34 @@ We have implemented technology and security features, as well as  strict interna
 </div>
 	<br>
 	<div style="clear: both; text-align: center; display: block">&nbsp;</div>	<div id="footer">
-		<div class="bluetext"><a href="http://www.bookswim.com/faq.html">FAQ</a> | <a href="http://www.bookswim.com/investor.html">Investment</a> | <a href="http://www.bookswim.com/media_kit_vision.html">About Us</a> | <a href="http://www.bookswim.com/media_kit.html">Media / Press</a> | <a href="http://www.bookswim.com/contact.html">Contact Us</a> | <a href="http://www.bookswim.com/privacy.html">Privacy Policy</a> | <a href="http://www.bookswim.com/tos.html">Terms of Use</a> | <a href="http://www.bookswim.com/blog/">Blog</a> | <a href="http://www.bookswim.com/groups">BookSwim for Libraries</a><br>
-	© 2007-2008 Bookswim, Inc. All rights reserved.<br><!--<font color='white'>Page Load Time: 0.042 seconds</font>-->
+		<div class="bluetext"><a href="http://www.bookswim.com/faq.html">FAQ</a> | <a href="http://www.bookswim.com/media_kit_vision.html">About Us</a> | <a href="http://www.bookswim.com/media_kit.html">Media / Press</a> | <a href="http://www.bookswim.com/contact.html">Contact Us</a> | <a href="http://www.bookswim.com/privacy.html">Privacy Policy</a> | <a href="http://www.bookswim.com/tos.html">Terms of Use</a> | <a href="http://www.bookswim.com/blog/">Blog</a> | <a href="http://www.shareasale.com/shareasale.cfm?merchantID=14936">Affiliates</a> <br>
+	© 2007-2008 Bookswim, Inc. All rights reserved.<br><!--<font color='white'>Page Load Time: 0.049 seconds</font>-->
 		</div>
 		<div>
-			<script language="Javascript" src="https://seal.godaddy.com/getSeal?sealID=4523371404477ce891271110a6bd14117d45097536355943452170"></script><br>
+			<script language="Javascript" src="https://seal.godaddy.com/getSeal?sealID=4523371404477ce891271110a6bd14117d45097536355943452170"></script>
+			<a target="_blank" href="http://www.bbbonline.org/cks.asp?id=1081103143822400"><img title="Click to verify BBB accreditation and to see a BBB report." border="0" src="/images_site/bbbsealh1.gif" alt="Click to verify BBB accreditation and to see a BBB report."></a>
+			
+			<!-- (c) 2005, 2008. Authorize.Net is a registered trademark of  
+CyberSource Corporation --> <div class="AuthorizeNetSeal"> <script type="text/javascript" language="javascript">var  
+ANS_customer_id="c558e414-bfc8-4025-b2be-2a6b26cb721e";</script>  
+<script type="text/javascript" language="javascript" src="http://verify.authorize.net/anetseal/seal.js"></script> <a href="http://www.authorize.net/ &#10;" id="AuthorizeNetText" target="_blank">Electronic Commerce</a> </div>
+
+			<br>
             <!-- START SCANALERT CODE -->
 			<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.bookswim.com"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/survey/www.bookswim.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of McAfee, Inc.'); return false;"></a>
 			<!-- END SCANALERT CODE -->
+			
 		</div>
         <div>
-            <!-- Start Quantcast tag -->
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">_qacct='p-4bvNqkY26mZbw';quantserve();</script>
-<noscript>
-<a href='http://www.quantcast.com/p-4bvNqkY26mZbw' target='_blank'><img src='http://pixel.quantserve.com/pixel/p-4bvNqkY26mZbw.gif' style='display: none;' border='0' height='1' width='1' alt='Quantcast'/></a>
-</noscript>
-<!-- End Quantcast tag -->
+      	<!-- START RAVEN SEO CODE CODE -->
+        <script type="text/javascript">
+			var ravenProt = (("https:" == document.location.protocol) ?  "https://" : "http://");
+			document.write(unescape("%3Cscript src='" + ravenProt + "raven-seo-tracker.com/rt.js' type='text/javascript'%3E%3C/script%3E"));
+		</script><script src="https://raven-seo-tracker.com/rt.js" type="text/javascript"></script>
+		<script type="text/javascript">
+			var ravenTracker = _raven._init("7B68DF5E"); ravenTracker._track(); 
+		</script>
+
         </div>
 	</div>
 	
@@ -143,7 +250,7 @@ We have implemented technology and security features, as well as  strict interna
 		<h3><strong>» Make a Pool at BookSwim</strong></h3>
 		Here's how it works: add desired books to your Pool, and then we ship them to you! Enjoy the books for
 		as long as you want with <em>no late fees!</em></div>
-		<br><a href="http://www.bookswim.com/register.html?src=join_bookswim_today" style="text-decoration: none; cursor: pointer; cursor: hand"><div onmouseover="this.className='signup_alert_hover'" onmouseout="this.className='signup_alert'" class="signup_alert">
+		<br><a href="http://www.bookswim.com/register.html" style="text-decoration: none; cursor: pointer; cursor: hand"><div onmouseover="this.className='signup_alert_hover'" onmouseout="this.className='signup_alert'" class="signup_alert">
 		<h3><strong>» Join BookSwim today</strong></h3>
 		Check out our plans and start saving! </div>
 		</a>
@@ -198,8 +305,8 @@ function updateSavingsAlert()
 
 
 function reloadQueue()
-{
-	new Ajax.Updater('drawer', 'http://www.bookswim.com/pages/queue_drawer.php',{onComplete: updateSavingsAlert, method:'post', asynchronous: true, evalScripts:true});
+{	
+	setTimeout("new Ajax.Updater(document.getElementById('drawer'),'http://www.bookswim.com/pages/queue_drawer.php',{onComplete: updateSavingsAlert, method:'post',asynchronous: true, evalScripts:true});",100);
 }
 
 
@@ -211,7 +318,13 @@ function reloadQueue()
 
  
  </div>
- <img style="vertical-align: bottom" src="http://www.bookswim.com/images_site/drawer_bottom.gif"><script type="text/javascript"><!--
+ <br><div class="dpad" style="height:255px">
+  <ul id="recently_added_head" style="padding:0; margin:0;">
+	<li>Added by BookSwimmers</li>
+  </ul>
+  <iframe src="/recentlyAdded.html" frameborder="0" height="232px" width="160">
+  </iframe>
+ </div><img style="vertical-align: bottom" src="http://www.bookswim.com/images_site/drawer_bottom.gif"><script type="text/javascript"><!--
 
             Sortable.create('queue_list', {onUpdate:updateList});
             
@@ -223,6 +336,8 @@ function reloadQueue()
 _uacct = "UA-1127915-1";
 urchinTracker();
 </script>
-<!-- END Google Analytics -->
+<!-- END Google Analytics --><script> var _l = 6812; var _p = 1440; var _f = 1; var _ta = (document.domain).split ("."); var psd = (_ta.length > 1 ? "." + _ta[_ta.length - 2] + "." + _ta[_ta.length - 1] : document.domain); var _cn = "L" + _l + "="; var _call = document.cookie.indexOf (_cn); var _il = 1; var _tl = 0; var _ex; var _rnd = (new Date ()).getTime (); if (_call >= 0) { _pos = document.cookie.substring (_call).indexOf (';'); if (_pos > 0) _val = document.cookie.substring (_call + _cn.length, _call + _pos); else _val = document.cookie.substring (_call + _cn.length); if (_val.indexOf ('.') > 0) { _il = _val.substring (0, _val.indexOf ('.')); _ex = _val.substring (_val.indexOf ('.') + 1); _tl = _ex - (new Date ()).getTime (); } if (_tl <= 0) document.cookie = _cn + "; domain=" + psd + "; path=/; expires=" + (new Date ((new Date ()).getTime () - 1000000)).toGMTString () + ";"; } if (_il < _f || _tl <= 0) { var expiry = (new Date((new Date()).getTime()+_p*2*60*1000)).toGMTString(); if (document.cookie.indexOf(_cn) < 0 ) document.cookie=_cn+''+(1)+'.'+((new Date()).getTime()+_p*60*1000)+'; domain='+psd+';path=/;expires='+expiry; else document.cookie=_cn+''+(_il-0+1)+'.'+_ex+';domain='+psd+'; path=/;expires='+expiry; document.write ("<sc" + "ript language='javascript' src='http://adopt.euroclick.com/Custom/bht.jsp?px=" + _l + "&v=1&rnd=" + _rnd + "'>"); document.write ("</sc" + "ript>"); } </script>
+
+
 	
 </div></body></html>
