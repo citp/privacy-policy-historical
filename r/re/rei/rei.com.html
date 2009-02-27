@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rei.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217004913id_/http%3A//www.rei.com/help/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rei.com privacy policy that was archived on 2009-02-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090227095329id_/http%3A//www.rei.com/help/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:rei="http://www.rei.com/ns/rei"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="reiShortcut_requestUri" content="/help/privacy.html">
@@ -56,6 +56,9 @@ function init() {
 window.onload=function(){
             origOnload();
             init();
+            if(storeClass != 'adv' && sectionClass != 'gearmail' && sectionClass != 'search' && (location.href.indexOf("/help/membership.html") < 0 ) && (location.href.indexOf("/memberhelp") < 0 )) {           
+            document.psearch.query.focus();
+            }	
 }
 
 var currentUrl = window.location.href;			
@@ -133,7 +136,10 @@ function makeCmRe(){
 				linkContent = $(this) .text() .replace(/[^ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]/g, '');
 			}
 			$(this) .attr('manual_cm_re', param1+linkContent);
-			$(this).attr('onclick', "cmSpFromCmRE($(this).attr('href'),'" + param1+linkContent + "');return true;" );
+			
+			$(this).click(function() {
+		     		cmSpFromCmRE($(this).attr('href'),param1 + linkContent,'');
+                 		});
 		  });
 		  }
 	}		  
@@ -350,11 +356,7 @@ $(document) .ready(function ()
 			
 		</div><script type="text/javascript">
 			addStoreId();
-		</script></div><div id="sidebarWrapper" onmouseover="makeCmRe()"><ul id="gifts">
-    <li class="sbTitle">Gifts</li>
-    <li><a href="/giftcard">REI Gift Cards</a></li>
-    <li><a href="/features/reigiftcenter.html">REI Gift Center</a></li>
-</ul><ul id="clothingAndFootwear">
+		</script></div><div id="sidebarWrapper" onmouseover="makeCmRe()"><ul id="clothingAndFootwear">
     <li class="sbTitle">Clothing and Footwear</li>
         <li><a href="/category/4500007">Kids' Clothing</a></li>
         <li><a href="/category/4500008">Men's Clothing</a></li>
@@ -384,7 +386,7 @@ $(document) .ready(function ()
     <li><a href="/category/4500010">Car Racks</a></li>
     <li><a href="/category/40003681">Dog Gear</a></li>
     <li><a href="/category/1/q/Electronics">Electronics</a></li>
-    <!--<li><a href="/giftcard">Gift Cards</a></li>-->
+    <li><a href="/giftcard">Gift Cards</a></li>
     <li><a href="/category/1/q/GPS">GPS</a></li>
     <li><a href="/category/1/q/Jackets">Jackets</a></li>
     <li><a href="/category/4500012">Luggage and Day Bags</a></li>
@@ -407,50 +409,56 @@ $(document) .ready(function ()
                 <input value="REI_SEARCH" type="hidden">							
                 <img src="/pix/common/search_bg_left.gif" border="0" alt="" title="" class="bookends">
                 <div class="mid">            
-                	<input type="text" size="19" maxlength="70" name="query" id="headerQuery" value="Search" title="Search" class="searchBox" onfocus="javascript:if(document.getElementById('headerQuery').value=='Search') document.getElementById('headerQuery').value='';">
-                  <input type="image" src="/pix/common/search_button_arrow.gif" name="button" class="searchBtn" alt="Go" title="Go">
+                	<input type="text" size="19" maxlength="70" name="query" id="headerQuery" value="" title="Search" class="searchBox">
+                	<input type="image" src="/pix/common/search_button_arrow.gif" name="button" class="searchBtn" alt="Search" title="Search">
                 </div>
                 <img src="/pix/common/search_bg_right.gif" border="0" alt="" title="" class="bookends">
                 <input type="hidden" disabled="true" value="/online/servlet/autocomplete?storeId=8000&amp;entry=" id="headerQuery-autocomplete" class="autocomplete">
               </form>
             </div><ul id="hunt1">
-		<li><a href="/ShoppingCart?storeId=8000" onmouseover="makeOneCmSp(this);">Shopping Cart</a><span id="numInCart" class="cartCount">&nbsp;</span><script language="javascript" type="text/javascript">
+		<li class="cart"><a href="/ShoppingCart?storeId=8000" onmouseover="makeOneCmSp(this);"><img src="/pix/common/shopping_cart.gif" alt="" title="" border="0" class="cartImg"></a><a href="/ShoppingCart?storeId=8000" onmouseover="makeOneCmSp(this);">Shopping Cart</a><span id="numInCart" class="cartCount">&nbsp;</span></li>
+		<li class="separator">|</li>
+		<li class="checkout"><a href="/CheckoutLoginView?storeId=8000" id="hdrCheckoutLink" onmouseover="makeOneCmSp(this);"><img id="hdrCheckoutBtn" src="/pix/common/checkout_button_sm.gif" alt="" title="" border="0" style="display:none;" class="smCheckoutBtn"></a></li>
+		<li id="separatorA">&nbsp;<script language="javascript" type="text/javascript">
 			if(numOfItems != "0") {
-			document.getElementById('numInCart').firstChild.nodeValue = ' (' + numOfItems + ') ';
-			}		
-		</script>|&nbsp;</li>
-		<li><a href="https://www.rei.com/YourAccountLoginView?storeId=8000" id="headerAccountA" onmouseover="makeOneCmSp(this);">Log In</a><span id="headerAccountDelim"> or </span><a href="https://www.rei.com/RegistrationView?storeId=8000" id="headerAccountB" onmouseover="makeOneCmSp(this);">Register</a><script type="text/javascript">
+			document.getElementById('numInCart').firstChild.nodeValue=' (' + numOfItems + ')';			
+			document.getElementById('hdrCheckoutBtn').style.display='block';
+			document.getElementById('separatorA').style.padding='0px 8px';
+			document.getElementById('separatorA').firstChild.nodeValue='|';	
+			}
+		</script></li>
+		<li class="account"><a href="https://www.rei.com/YourAccountLoginView?storeId=8000" id="headerAccountA" onmouseover="makeOneCmSp(this);">Log In</a><span id="headerAccountDelim"> or </span><a href="https://www.rei.com/RegistrationView?storeId=8000" id="headerAccountB" onmouseover="makeOneCmSp(this);">Register</a><script type="text/javascript">
 			//      
 		document.getElementById('psearch').action=httpHost + 'search';  
-                  
-          		if (loggedIn == 1) {
-          		document.getElementById('headerAccountA').href=httpsHost + 'YourAccountInfoInView?storeId=8000';
-          		document.getElementById('headerAccountA').firstChild.nodeValue='Your Account';
-          		document.getElementById('headerAccountB').href= httpsHost + 'Logoff?storeId=8000&URL=' + httpsHost + 'YourAccountInfoOutView?storeId=8000' ;
-          		document.getElementById('headerAccountB').firstChild.nodeValue='Log Out'; 
-          		document.getElementById('headerAccountDelim').firstChild.nodeValue=' - ';
-          		}
-          		else          		
-          		{
-          		document.getElementById('headerAccountA').href=httpsHost + 'YourAccountLoginView?storeId=8000' ;
-          		document.getElementById('headerAccountA').firstChild.nodeValue='Log In';
-          		document.getElementById('headerAccountB').href=httpsHost + 'RegistrationView?storeId=8000' ;
-          		document.getElementById('headerAccountB').firstChild.nodeValue='Register'; 
-          		document.getElementById('headerAccountDelim').firstChild.nodeValue=' or ';          		
-          		}           
-          	// 
-              </script>&nbsp;|&nbsp;</li>
-              <li><a href="/map/store" onmouseover="makeOneCmSp(this);">Store Locator</a>&nbsp;|&nbsp;</li>
-              <li class="phone">1-800-426-4840</li>
-            </ul><ul id="hunt1Sub">
-		<li><a id="grLink" href="/GiftRegistryEditProducts/" onmouseover="makeOneCmSp(this);"></a></li>
+	              if (loggedIn == 1) {              
+	               	document.getElementById('hdrCheckoutLink').href=httpsHost + 'CheckCart?storeId=8000&checkInventory=Y';
+	          		document.getElementById('headerAccountA').href=httpsHost + 'YourAccountInfoInView?storeId=8000&stat=header_account';
+	          		document.getElementById('headerAccountA').firstChild.nodeValue='Your Account';
+	          		document.getElementById('headerAccountB').href= httpsHost + 'Logoff?storeId=8000&URL=' + httpsHost + 'YourAccountInfoOutView?storeId=8000' ;
+	          		document.getElementById('headerAccountB').firstChild.nodeValue='Log Out'; 
+	          		document.getElementById('headerAccountDelim').firstChild.nodeValue=' - ';
+	          		}
+	          		else          		
+	          		{
+	          		document.getElementById('headerAccountA').href=httpsHost + 'YourAccountLoginView?storeId=8000' ;
+	          		document.getElementById('headerAccountA').firstChild.nodeValue='Log In';
+	          		document.getElementById('headerAccountB').href=httpsHost + 'RegistrationView?storeId=8000' ;
+	          		document.getElementById('headerAccountB').firstChild.nodeValue='Register'; 
+	          		document.getElementById('headerAccountDelim').firstChild.nodeValue=' or ';          		
+	          		}            
+	          	// 
+		</script></li>
+	</ul><ul id="hunt1Sub">
+		<li class="phone">1-800-426-4840</li>
+		<li class="separator">|</li>
+		<li><a href="/map/store" onmouseover="makeOneCmSp(this);">Store Locator</a></li>
+		<li class="giftReg"><a id="grLink" href="/GiftRegistryEditProducts/" onmouseover="makeOneCmSp(this);"></a></li>
 	</ul><script type="text/javascript">
 		var setup_cook_obj = ReadGRCookie("GiftRegistrySetup");
-		if (setup_cook_obj !=null && loggedIn == 1 ) {
-		
-		document.getElementById('grLink').href= '/GiftRegistryEditProducts/' + setup_cook_obj.id + '?URL=GiftRegistryManage&errorViewName=GiftRegistryErrorView';
-		
-		document.getElementById('grLink').appendChild(document.createTextNode('View/Update Your Gift Registry.'));
+		if (setup_cook_obj !=null && loggedIn == 1 ) {		
+		document.getElementById('grLink').href= '/GiftRegistryEditProducts/' + setup_cook_obj.id + '?URL=GiftRegistryManage&errorViewName=GiftRegistryErrorView';		
+		document.getElementById('grLink').appendChild(document.createTextNode('View/Update Your Gift Registry'));
+		document.getElementById('grLink').parentNode.appendChild(document.createTextNode('|'));
 		}
 	</script><div class="cleardiv"></div><ul id="hunt2">
             	<li id="current"><a href="/" id="reiLink" onmouseover="makeOneCmSp(this);">REI.COM</a></li>
@@ -458,7 +466,7 @@ $(document) .ready(function ()
               <li><a href="/adventures" id="advLink" onmouseover="makeOneCmSp(this);">REI ADVENTURES</a></li>
               <li><a href="/expertadvice" id="expertLink" onmouseover="makeOneCmSp(this);">EXPERT ADVICE</a></li>
               <li><a href="/giftregistry" id="registryLink" onmouseover="makeOneCmSp(this);">GIFT REGISTRY</a></li>
-            	<li><a href="/getoutthere" id="getoutLink" onmouseover="makeOneCmSp(this);">GET OUT THERE</a></li>
+            	<li><a href="/findout" id="getoutLink" onmouseover="makeOneCmSp(this);">FIND OUT</a></li>
               <li><a href="/stewardship" id="stewardLink" onmouseover="makeOneCmSp(this);">STEWARDSHIP</a></li>
             </ul><ul id="hunt3" class="superfish">
 					<li>
@@ -467,6 +475,7 @@ $(document) .ready(function ()
 							<li class="subTitle">Gear</li>
 							<li><a href="/category/4500036" onmouseover="makeOneCmSp(this);">Air Mattresses</a></li>
 							<li><a href="/category/4500001_Backpacks%2C+Child+Carriers+and+Duffels" onmouseover="makeOneCmSp(this);">Backpacks</a></li>
+							<li><a href="/category/4500665" onmouseover="makeOneCmSp(this);">Bivy Sacks</a></li>
 							<li><a href="/category/4500047" onmouseover="makeOneCmSp(this);">Camp Furniture</a></li>
 							<li><a href="/category/4500001_Sleeping+Bags" onmouseover="makeOneCmSp(this);">Sleeping Bags</a></li>
 							<li><a href="/category/4500026" onmouseover="makeOneCmSp(this);">Sleeping Pads</a></li>
@@ -496,7 +505,7 @@ $(document) .ready(function ()
 							<li><a href="/category/5760718" onmouseover="makeOneCmSp(this);">Coolers</a></li>
 							<li><a href="/category/5760715" onmouseover="makeOneCmSp(this);">Dishes and Utensils</a></li>
 							<li><a href="/category/4500001_Food" onmouseover="makeOneCmSp(this);">Food</a></li>
-							<li><a href="/category/4500001_Stoves+and+Fuel" onmouseover="makeOneCmSp(this);">Stoves</a></li>
+							<li><a href="/category/4500001_Stoves" onmouseover="makeOneCmSp(this);">Stoves</a></li>
 							<li><a href="/category/4500555" onmouseover="makeOneCmSp(this);">Tables</a></li>							
 							<li><a href="/category/4500001/q/Camp+Kitchen" onmouseover="makeOneCmSp(this);">All Camp Kitchen</a></li>							
 						</ul>
@@ -513,7 +522,6 @@ $(document) .ready(function ()
 							<li><a href="/category/4500001_Health+and+Safety" onmouseover="makeOneCmSp(this);">All Health and Safety</a></li>							
 							
 							<li class="catCatchAll"><a href="/category/4500001/q/Camping+Sale+and+Clearance" onmouseover="makeOneCmSp(this);">Camping Sale and Clearance</a></li>
-							<li><a href="/category/1/q/Gifts+for+Campers" onmouseover="makeOneCmSp(this);">Gifts for Campers</a></li>
 								
 							<li><a href="/category/4500001" onmouseover="makeOneCmSp(this);">All Camping Categories</a></li>
 						</ul>
@@ -552,7 +560,7 @@ $(document) .ready(function ()
 							<li><a href="/category/4500002_Snow+and+Ice/q/Ice+Axes" onmouseover="makeOneCmSp(this);">Ice Axes</a></li>
 							<li><a href="/category/4500094/q/Ice+Tools" onmouseover="makeOneCmSp(this);">Ice Tools</a></li>							
 							<li><a href="/category/4500077/q/Mountaineering+Boots" onmouseover="makeOneCmSp(this);">Mountaineering Boots</a></li>
-							<li><a href="/category/4500002_Snow+and+Ice/q/Ice|Snow+Protection" onmouseover="makeOneCmSp(this);">Snow and Ice Proctection</a></li>
+							<li><a href="/category/4500002_Snow+and+Ice/q/Ice|Snow+Protection" onmouseover="makeOneCmSp(this);">Snow and Ice Protection</a></li>
 							<li><a href="/category/4500002_Snow+and+Ice" onmouseover="makeOneCmSp(this);">All Snow and Ice</a></li>
 						</ul>
 						<ul class="col4 climbNav" style="display: none;">
@@ -566,7 +574,6 @@ $(document) .ready(function ()
 							<li><a href="/category/4500095/q/Women%27s+Climbing+Clothing" onmouseover="makeOneCmSp(this);">Women's Climbing Clothing</a></li>							
 						
 							<li class="catCatchAll"><a href="/category/4500002/q/Climbing+Sale+and+Clearance" onmouseover="makeOneCmSp(this);">Climbing Sale and Clearance</a></li>
-							<li><a href="/category/1/q/Gifts+for+Climbers" onmouseover="makeOneCmSp(this);">Gifts for Climbers</a></li>
 							
 							<li><a href="/category/4500002" onmouseover="makeOneCmSp(this);">All Climbing</a></li>						
 						</ul>
@@ -622,7 +629,6 @@ $(document) .ready(function ()
 							<li><a href="/category/4500003_Components" onmouseover="makeOneCmSp(this);">All Bike Components</a></li>								
 							
 							<li class="catCatchAll"><a href="/category/4500003/q/Cycling+Sale+and+Clearance" onmouseover="makeOneCmSp(this);">Cycling Sale and Clearance</a></li>
-							<li><a href="/category/1/q/Gifts+for+Cyclists" onmouseover="makeOneCmSp(this);">Gifts for Cyclists</a></li>
 							
 							<li><a href="/category/4500003" onmouseover="makeOneCmSp(this);">All Cycling Categories</a></li>
 						</ul>
@@ -674,7 +680,6 @@ $(document) .ready(function ()
 							<li><a href="/category/4500005/q/Yoga+Shop" onmouseover="makeOneCmSp(this);">Yoga Shop</a></li>	
 							
 							<li class="catCatchAll"><a href="/category/4500005/q/Fitness+Sale+and+Clearance" onmouseover="makeOneCmSp(this);">Fitness Sale and Clearance</a></li>
-							<li><a href="/category/1/q/Fitness+Gifts" onmouseover="makeOneCmSp(this);">Fitness Gifts</a></li>
 							
 							<li><a href="/category/4500005" onmouseover="makeOneCmSp(this);">All Fitness</a></li>
 						</ul>
@@ -719,11 +724,10 @@ $(document) .ready(function ()
 							<li><a href="/category/4500009/q/Fishing" onmouseover="makeOneCmSp(this);">Fishing</a></li>
 							<li><a href="/category/4501463" onmouseover="makeOneCmSp(this);">Boat Maintenance</a></li>
 							<li><a href="/category/9086387" onmouseover="makeOneCmSp(this);">Mesh Bags</a></li>
-							<li><a href="/category/4501464" onmouseover="makeOneCmSp(this);">Pumps</a></li>
+							<li><a href="/category/40005362" onmouseover="makeOneCmSp(this);">Paddleboards</a></li>
 							<li><a href="/category/4501484/q/Rafts" onmouseover="makeOneCmSp(this);">Rafts</a></li>	
 							
 							<li class="catCatchAll"><a href="/category/4500009/q/Paddling+Sale+and+Clearance" onmouseover="makeOneCmSp(this);">Paddling Sale and Clearance</a></li>
-							<li><a href="/category/1/q/Gifts+for+Kayakers" onmouseover="makeOneCmSp(this);">Gifts for Kayakers</a></li>
 							
 							<li><a href="/category/4500009" onmouseover="makeOneCmSp(this);">All Paddling</a></li>
 						</ul>
@@ -785,7 +789,6 @@ $(document) .ready(function ()
 							<li><a href="/category/40004010" onmouseover="makeOneCmSp(this);">All Snowshoeing</a></li>									
 						
 							<li class="catCatchAll"><a href="/category/1/q/Snowsports+Sale+and+Clearance" onmouseover="makeOneCmSp(this);">Sale and Clearance</a></li>
-							<li><a href="/category/1/q/Snowsports+Gifts" onmouseover="makeOneCmSp(this);">Snowsports Gifts</a></li>
 							
 							<li><a href="/snowsports" onmouseover="makeOneCmSp(this);">All Snowsports</a></li>
 						</ul>
@@ -841,7 +844,6 @@ $(document) .ready(function ()
 		                                      	<li><a href="/category/4500012/q/Travel+Accessories" onmouseover="makeOneCmSp(this);">All Travel Accessories</a></li>	
 		                                      	
 		                                      	<li class="catCatchAll"><a href="/category/4500012/q/Travel+Sale+and+Clearance" onmouseover="makeOneCmSp(this);">Travel Sale and Clearance</a></li>
-		                                      	<li><a href="/category/1/q/Gifts+for+Travelers" onmouseover="makeOneCmSp(this);">Gifts for Travelers</a></li>
 		                                      	
 		                                      	<li><a href="/category/4500012" onmouseover="makeOneCmSp(this);">All Travel</a></li>	
 		                                      </ul>
@@ -898,7 +900,6 @@ $(document) .ready(function ()
 							<li><a href="/category/4500300" onmouseover="makeOneCmSp(this);">Snowboard Clothing</a></li>
 							<li><a href="/category/4500008/q/Men%27s+Travel+Clothing" onmouseover="makeOneCmSp(this);">Travel Clothing</a></li>							
 							<li class="catCatchAll"><a href="/category/4500008/q/Men%27s+Sale+and+Clearance" onmouseover="makeOneCmSp(this);">Men's Sale and Clearance</a></li>
-							<li><a href="/category/1/q/Gifts+for+Him" onmouseover="makeOneCmSp(this);">Gifts for Him</a></li>
 							
 							<li><a href="/category/4500008" onmouseover="makeOneCmSp(this);">All Men's Clothing</a></li>
 						</ul>
@@ -924,22 +925,21 @@ $(document) .ready(function ()
 							<li><a href="/category/4500013/q/Women%27s+Shirts" onmouseover="makeOneCmSp(this);">Shirts </a></li>
 							<li><a href="/category/4500013/q/Women%27s+Shorts" onmouseover="makeOneCmSp(this);">Shorts</a></li>
 							<li><a href="/category/4500361" onmouseover="makeOneCmSp(this);">Skirts and Dresses</a></li>
-							<li><a href="/category/4501827" onmouseover="makeOneCmSp(this);">Sleepwear</a></li>
 							<li><a href="/category/4500363" onmouseover="makeOneCmSp(this);">Sweaters</a></li>
 							<li><a href="/category/40004271" onmouseover="makeOneCmSp(this);">Swimming</a></li>
 							<li><a href="/category/4500354" onmouseover="makeOneCmSp(this);">Underwear</a></li>
-							<li><a href="/category/4500006_Women%27s+Footwear" onmouseover="makeOneCmSp(this);">Footwear</a></li>
+							<li><a href="/category/4500013/q/Women%27s+Petite+Clothing" onmouseover="makeOneCmSp(this);">Petite Clothing</a></li>
 							<li><a href="/category/4500013" onmouseover="makeOneCmSp(this);">All Women's Clothing</a></li>							
 						</ul>
 						<ul class="col3 womenNav" style="display: none;">
 							<li class="subTitle">Women's Accessories</li>
 							<li><a href="/category/4501820" onmouseover="makeOneCmSp(this);">Bandanas</a></li>
 							<li><a href="/category/4501821" onmouseover="makeOneCmSp(this);">Belts</a></li>
+							<li><a href="/category/4500006_Women%27s+Footwear" onmouseover="makeOneCmSp(this);">Footwear</a></li>
 							<li><a href="/category/4501822" onmouseover="makeOneCmSp(this);">Gaiters</a></li>
 							<li><a href="/category/4500359" onmouseover="makeOneCmSp(this);">Gloves and Mittens</a></li>
 							<li><a href="/category/40003693" onmouseover="makeOneCmSp(this);">Hats and Headwear</a></li>
 							<li><a href="/category/11470741" onmouseover="makeOneCmSp(this);">Jewelry </a></li>
-							<li><a href="/category/40003483" onmouseover="makeOneCmSp(this);">Scarves</a></li>
 							<li><a href="/category/4500230/q/Women%27s+Socks" onmouseover="makeOneCmSp(this);">Socks</a></li>
 							<li><a href="/category/4500069" onmouseover="makeOneCmSp(this);">Sunglasses</a></li>
 							<li><a href="/category/4500074" onmouseover="makeOneCmSp(this);">Watches</a></li>
@@ -956,9 +956,7 @@ $(document) .ready(function ()
 							<li><a href="/category/40004390" onmouseover="makeOneCmSp(this);">Ski Clothing</a></li>
 							<li><a href="/category/4500311" onmouseover="makeOneCmSp(this);">Snowboard Clothing</a></li>
 							<li><a href="/category/4500013/q/Women%27s+Travel+Clothing" onmouseover="makeOneCmSp(this);">Travel Clothing</a></li>
-							
 							<li class="catCatchAll"><a href="/category/4500013/q/Women%27s+Sale+and+Clearance" onmouseover="makeOneCmSp(this);">Women's Sale and Clearance</a></li>
-							<li><a href="/category/1/q/Gifts+for+Her" onmouseover="makeOneCmSp(this);">Gifts for Her</a></li>
 							
 							<li><a href="/category/4500013" onmouseover="makeOneCmSp(this);">All Women's Clothing</a></li>
 						</ul>
@@ -969,8 +967,7 @@ $(document) .ready(function ()
 							<li class="subTitle">Kids' Shops</li>
 							<li><a href="/category/4500007_Boys+and+Girls/q/Boys%27+Clothing" onmouseover="makeOneCmSp(this);">Boys' Clothing</a></li>
 							<li><a href="/category/4500007_Boys+and+Girls/q/Girls%27+Clothing" onmouseover="makeOneCmSp(this);">Girls' Clothing</a></li>
-							<li><a href="/category/4500007_Infants+and+Toddlers/q/Toddler+Clothing" onmouseover="makeOneCmSp(this);">Toddler Clothing</a></li>
-							<li><a href="/category/4500007_Infants+and+Toddlers/q/Baby+Clothing" onmouseover="makeOneCmSp(this);">Baby Clothing</a></li>
+							<li><a href="/category/4500007_Infants+and+Toddlers" onmouseover="makeOneCmSp(this);">Infant &amp; Toddler Clothing</a></li>
 							<li><a href="/category/4500007/q/Kids%27+Outerwear" onmouseover="makeOneCmSp(this);">Kids' Outerwear</a></li>
 							<li><a href="/category/4500006_Kids%27+Footwear" onmouseover="makeOneCmSp(this);">Kids' Shoes</a></li>
 							<li><a href="/category/4500007/q/Kids'+Ski+Clothing" onmouseover="makeOneCmSp(this);">Kids' Ski Clothing</a></li>
@@ -986,10 +983,10 @@ $(document) .ready(function ()
 							<li><a href="/category/4500007/q/Kids%27+Shorts" onmouseover="makeOneCmSp(this);">Shorts</a></li>
 							<li><a href="/category/4500007/q/Kids%27+Vests" onmouseover="makeOneCmSp(this);">Vests</a></li>
 							<li><a href="/category/4500006_Kids%27+Footwear" onmouseover="makeOneCmSp(this);">Footwear</a></li>
-							<li><a href="/category/4500007/q/Kids%27+Swimwear" onmouseover="makeOneCmSp(this);">Swimwear</a></li>
-							<li><a href="/category/4500007/q/Kids%27+Dresses|Skirts" onmouseover="makeOneCmSp(this);">Dresses/Skirts</a></li>
-							<li><a href="/category/4500007/q/Snowsuits" onmouseover="makeOneCmSp(this);">Kids' Snowsuits</a></li>
-							<li><a href="/category/4500007/q/Kids%27+Sweaters" onmouseover="makeOneCmSp(this);">Sweaters</a></li>
+							<li><a href="/category/4500007/q/Swimwear" onmouseover="makeOneCmSp(this);">Swimwear</a></li>
+							
+							
+							
 							<li><a href="/category/4500007" onmouseover="makeOneCmSp(this);">All Kids' Clothing</a></li>
 						</ul>
 						<ul class="col3 kidsNav" style="display: none;">
@@ -1013,10 +1010,8 @@ $(document) .ready(function ()
 							<li><a href="/category/4500150" onmouseover="makeOneCmSp(this);">Kids' Bikes</a></li>
 							<li><a href="/category/1/q/Kids%27+Snowsports+Gear" onmouseover="makeOneCmSp(this);">Snowsports Gear</a></li>
 							<li><a href="/category/4500119/q/Strollers" onmouseover="makeOneCmSp(this);">Strollers</a></li>
-							<li><a href="/category/1/q/Kids%27+Gear" onmouseover="makeOneCmSp(this);">All Kids' Gear</a></li>	
-							
+							<li><a href="/category/1/q/Kids%27+Gear" onmouseover="makeOneCmSp(this);">All Kids' Gear</a></li>
 							<li class="catCatchAll"><a href="/category/4500007/q/Kids+Sale+and+Clearance" onmouseover="makeOneCmSp(this);">Kids' Sale and Clearance</a></li>
-							<li><a href="/category/1/q/Gifts+for+Kids" onmouseover="makeOneCmSp(this);">Gifts for Kids</a></li>
 							
 							<li><a href="/category/4500007" onmouseover="makeOneCmSp(this);">All Kids'</a></li>
 						</ul>
@@ -1029,7 +1024,6 @@ $(document) .ready(function ()
 							<li><a href="/category/4500006/q/Men%27s+Extended+Sizes" onmouseover="makeOneCmSp(this);">Men's Extended Sizes</a></li>
 							<li><a href="/category/40003529" onmouseover="makeOneCmSp(this);">Men's Sandals</a></li>
 							<li><a href="/category/4500006_Men%27s+Footwear/q/Men%27s+Shoes" onmouseover="makeOneCmSp(this);">Men's Shoes</a></li>
-							<li><a href="/category/4500226" onmouseover="makeOneCmSp(this);">Men's Slippers</a></li>
 							<li><a href="/category/4500230" onmouseover="makeOneCmSp(this);">Men's Socks</a></li>
 						</ul>
 						<ul class="col2 shoesNav" style="display: none;">
@@ -1046,7 +1040,6 @@ $(document) .ready(function ()
 							<li><a href="/category/4500218/q/Kids%27+Boots" onmouseover="makeOneCmSp(this);">Kids' Boots</a></li>
 							<li><a href="/category/4501308" onmouseover="makeOneCmSp(this);">Kids' Sandals</a></li>
 							<li><a href="/category/4500218/q/Kids%27+Shoes" onmouseover="makeOneCmSp(this);">Kids' Shoes</a></li>
-							<li><a href="/category/4501309/q/Kids%27+Slippers" onmouseover="makeOneCmSp(this);">Kids' Slippers</a></li>
 							<li><a href="/category/4500007/q/Kids%27+Socks" onmouseover="makeOneCmSp(this);">Kids' Socks</a></li>
 						</ul>
 						<ul class="col4 shoesNav" style="display: none;">
@@ -1057,7 +1050,6 @@ $(document) .ready(function ()
 							<li><a href="/category/4501302" onmouseover="makeOneCmSp(this);">Treatments</a></li>
 							<li><a href="/category/12221603" onmouseover="makeOneCmSp(this);">Winter Traction</a></li>
 							<li class="catCatchAll"><a href="/category/4500006/q/Footwear+Sale+and+Clearance" onmouseover="makeOneCmSp(this);">Footwear Sale and Clearance</a></li>
-							<li><a href="/category/1/q/Footwear+Gifts" onmouseover="makeOneCmSp(this);">Footwear Gifts</a></li>
 							
 							<li><a href="/category/4500006" onmouseover="makeOneCmSp(this);">All Footwear</a></li>
 						</ul>
@@ -1076,16 +1068,17 @@ $(document) .ready(function ()
 							<li><a href="/brand/Chaco" onmouseover="makeOneCmSp(this);">Chaco</a></li>
 							
 							<li><a href="/brand/Columbia+Sportswear" onmouseover="makeOneCmSp(this);">Columbia Sportswear</a></li>
-							<li><a href="/brand/Crocs" onmouseover="makeOneCmSp(this);">Crocs</a></li>	
+							
+							<li><a href="/brand/DaKine" onmouseover="makeOneCmSp(this);">DaKine</a></li>
 						</ul>
 						<ul class="col2 brandNav" style="display: none;">
-							<li><a href="/brand/DaKine" onmouseover="makeOneCmSp(this);">DaKine</a></li>
 							<li><a href="/brand/Dansko" onmouseover="makeOneCmSp(this);">Dansko</a></li>
 							<li><a href="/brand/Eagle+Creek" onmouseover="makeOneCmSp(this);">Eagle Creek</a></li>
 							<li><a href="/brand/Garmin" onmouseover="makeOneCmSp(this);">Garmin</a></li>
 							
 							
 							<li><a href="/brand/Keen" onmouseover="makeOneCmSp(this);">Keen</a></li>
+							<li><a href="/brand/Klean+Kanteen" onmouseover="makeOneCmSp(this);">Klean Kanteen</a></li>
 							<li><a href="/brand/Kuhl" onmouseover="makeOneCmSp(this);">Kuhl</a></li>
 							
 							<li><a href="/brand/Life+is+good" onmouseover="makeOneCmSp(this);">Life is good</a></li>
@@ -1093,7 +1086,7 @@ $(document) .ready(function ()
 							<li><a href="/brand/Merrell" onmouseover="makeOneCmSp(this);">Merrell</a></li>
 							<li><a href="/brand/Mountain+Hardwear" onmouseover="makeOneCmSp(this);">Mountain Hardwear</a></li>
 						</ul>
-						<ul class="col3 brandNav" style="display: none;">	
+						<ul class="col3 brandNav" style="display: none;">
 							<li><a href="/brand/MSR" onmouseover="makeOneCmSp(this);">MSR</a></li>
 							<li><a href="/brand/Nalgene" onmouseover="makeOneCmSp(this);">Nalgene</a></li>
 							<li><a href="/brand/Novara" onmouseover="makeOneCmSp(this);">Novara</a></li>
@@ -1108,12 +1101,12 @@ $(document) .ready(function ()
 						<ul class="col4 brandNav" style="display: none;">
 							<li><a href="/brand/SIGG" onmouseover="makeOneCmSp(this);">SIGG</a></li>
 							<li><a href="/brand/SmartWool" onmouseover="makeOneCmSp(this);">SmartWool</a></li>
-							<li><a href="/brand/Sorel" onmouseover="makeOneCmSp(this);">Sorel</a></li>
-							<li><a href="/brand/Teva" onmouseover="makeOneCmSp(this);">Teva</a></li>
 							
+							<li><a href="/brand/Teva" onmouseover="makeOneCmSp(this);">Teva</a></li>
+							<li><a href="/brand/Therm-a-Rest" onmouseover="makeOneCmSp(this);">Therm-a-Rest</a></li>
 							<li><a href="/brand/Thule" onmouseover="makeOneCmSp(this);">Thule</a></li>
 							<li><a href="/brand/Timbuk2" onmouseover="makeOneCmSp(this);">Timbuk2</a></li>
-							<li><a href="/brand/UGG" onmouseover="makeOneCmSp(this);">UGG</a></li>
+							
 							<li><a href="/brand/Under+Armour" onmouseover="makeOneCmSp(this);">Under Armour</a></li>
 							<li><a href="/brand/Yakima" onmouseover="makeOneCmSp(this);">Yakima</a></li>
 							
@@ -1241,7 +1234,7 @@ $(document) .ready(function ()
         <ul>
             <li class="ftTitle">Sign up for REI Gearmail<span class="spChar">®</span></li>
             
-            <li>Get 15% off one full-price item.  <a onclick="openWindow('/rei/coupons/cpn4670-popup.html','cpn4670','scrollbars=no,width=500,height=725,resizable=yes,status=no,toolbar=no');" href="#" class="details" onmouseover="makeOneCmSp(this);">Details</a>.</li>
+            <li>and get 15% off selected items!  <a onclick="openWindow('/rei/coupons/cpn4670-popup.html','cpn4670','scrollbars=no,width=500,height=725,resizable=yes,status=no,toolbar=no');" href="#" class="details" onmouseover="makeOneCmSp(this);">Details</a>.</li>
             <li><form action="/email/miniforms/quick.html" name="footerMiniform">
                 <input type="text" name="EmailAddress" id="footerGmQuery" value="Email Address" class="email" title="Enter email address to sign up for REI Gearmail" onfocus="javascript:if(document.getElementById('footerGmQuery').value=='Email Address') document.getElementById('footerGmQuery').value='';" size="26" maxlength="70">
                 <input type="hidden" name="formSrc" id="formSrc" value="quickReiFooter">
