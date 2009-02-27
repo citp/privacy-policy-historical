@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dslextreme.com privacy policy that was archived on 2008-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081113120749id_/https%3A//www.dslextreme.com/Terms/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dslextreme.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227103906id_/http%3A//www.dslextreme.com/Terms/Privacy.aspx) for the most accurate reproduction.*
 
 # DSL Extreme - Privacy Policy
 
@@ -32,5 +32,5 @@ All customer/visitor information, not just the sensitive information mentioned a
 **  
 Customer Service**  
 DSL Extreme  
-20847 Sherman Way  
-Winnetka, CA 91306 
+21540 Plummer Street - Suite A  
+Chatsworth CA, 91311 
