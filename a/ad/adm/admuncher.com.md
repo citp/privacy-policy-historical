@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admuncher.com privacy policy that was archived on 2008-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081207093205id_/http%3A//www.admuncher.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admuncher.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227184110id_/http%3A//www.admuncher.com/privacy.shtml) for the most accurate reproduction.*
 
 # Ad Muncher - Privacy Policy
 
@@ -35,25 +35,22 @@ We will never send regular unsolicited emails (eg: newsletters) unless specifica
 Information provided to our staff will not be sold, rented or traded to any third party under any conditions.
 
 **Privacy Policy Changes**  
-Any changes to the privacy policy will be posted here.  If you have any further questions about our privacy practices (or anything else) please feel free to [contact us](https://web.archive.org/web/20081207093205id_/http%3A//www.admuncher.com/contact.shtml). 
+Any changes to the privacy policy will be posted here.  If you have any further questions about our privacy practices (or anything else) please feel free to [contact us](https://web.archive.org/web/20090227184110id_/http%3A//www.admuncher.com/contact.shtml). 
 
-"Works flawlessly!"  
-\- Bhanche Prasad
+"In a class all it's own"  
+\- SnapFiles.com
 
-"Gizmo of the Month"  
-\- Tales from the Terminal Room
-
-"It's worth every penny!"  
-\- Tenaia Flournoy
-
-"I absolutely love it, no ads!!! I have dialup and it speeds my pc up considerably"  
-\- Winging it, United States
-
-"it just works without creating any browsing problems, and that's exactly how it should be"  
-\- PC Pro
-
-"Speachless. Just when you thought things couldn't get any better... . Why are people even still using other adblockers?!"  
+"Great Program! works for me!"  
 \- Download.com
+
+"By FAR the best, most effective program of the type I have found. Others like Ad Block Plus don't compare at all"  
+\- Brad M
+
+"The best around. I couldn't live without it! It makes the internet so much faster as it takes off all the advertisements"  
+\- Download.com
+
+"I've tried 5-6 different pop-up and banner ad killers but this one leaves them all lightyears behind on features, performance, and stability"  
+\- FileForum.com
 
   
 
