@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the superglam.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606103541id_/http%3A//www.superglam.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superglam.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227091047id_/http%3A//www.superglam.com/privacy.html) for the most accurate reproduction.*
 
-# ONECOM BV Privacy Policy
+# Price Global Limited Privacy Policy
 
 **Our Commitment To Privacy**
 
@@ -8,7 +8,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 The Information We Collect: 
 
-This notice applies to all information collected or submitted to superglam.com. On some pages, you can purchase a Membership to superglam.com, make requests, and register to receive materials. The types of personal information collected at these pages are name, age, email address, sexual orientation, etc. We use ccBill, iBill, Verotel, third-party credit card processing services, who will obtain additional information such as your address, phone number, and credit card data. 
+This notice applies to all information collected or submitted to superglam.com. On some pages, you can purchase a Membership to superglam.com, make requests, and register to receive materials. The types of personal information collected at these pages are name, age, email address, sexual orientation, etc. We use ccBill, iBill, Verotel, Epoch, and NetBilling third-party credit card processing services, who will obtain additional information such as your address, phone number, and credit card data. 
 
 The Way We Use Information: 
 
