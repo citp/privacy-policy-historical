@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the minyanville.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216055304id_/http%3A//www.minyanville.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minyanville.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227094144id_/http%3A//www.minyanville.com/company/privacy.htm) for the most accurate reproduction.*
 
-# Minyanville - Market Commentary, Finance and Subscriptions
+# - Minyanville
 
 **MINYANVILLE.COM PRIVACY STATEMENT**
 
@@ -12,7 +12,7 @@ Minyanville.com is committed to safeguarding your privacy online. Please read th
 
  **Personal Information**
 
-Minyanville.com collects personally identifying information from two categories of Minyanville.com Web site users. Personal information about paying subscribers is collected as well as from non-paying subscribers (for example, students are $10.00 with an .edu address). In addition, we may ask you for additional information when you register to receive a newsletter or so we can better understand our user base to constantly upgrade and improve the Minyanville service. You always have the option not to provide the additional information we request. If you choose not to provide the additional information we request, you can still visit most of the Minyanville.com Web site, but you may be unable to access certain options and services. 
+Minyanville.com collects personally identifying information from two categories of Minyanville.com Web site users. Personal information about paying subscribers is collected as well as from non-paying subscribers (for example, students are .00 with an .edu address). In addition, we may ask you for additional information when you register to receive a newsletter or so we can better understand our user base to constantly upgrade and improve the Minyanville service. You always have the option not to provide the additional information we request. If you choose not to provide the additional information we request, you can still visit most of the Minyanville.com Web site, but you may be unable to access certain options and services. 
 
 **Cookies**
 
@@ -30,7 +30,9 @@ All information collected is for the building of a subscriber database to valida
 
 One of our goals in collecting user information is to enhance your experience on our Web site. We achieve this goal by, among other things, providing interactive communications such as our electronic newsletters to the e-mail address that you provide to us, and developing future editorial content based on your interests. You are always entitled to unsubscribe to certain email communications though the ÒManage AccountÓ link. To develop content targeted to your interests, we use aggregated user information to determine which areas of our Web site users prefer based upon traffic to those areas. We do not track what individual users read, but instead how well each page or content area performs overall. 
 
-Minyanville.com may derive revenue from advertising. In order to attract and retain advertisers we may use the aggregated, anonymous information that we gather (as well as information from third-party market researchers) to describe our services to partners and to assist our advertisers and sponsors to better understand our audience. **We do not disclose personally identifying information about our users.**
+Minyanville.com may derive revenue from advertising. In order to attract and retain advertisers we may use the aggregated, anonymous information that we gather (as well as information from third-party market researchers) to describe our services to partners and to assist our advertisers and sponsors to better understand our audience. 
+
+**We do not disclose personally identifying information about our users.**
 
 Minyanville.com may also disclose information about our users when we believe, in good faith, that the disclosure is required by law. 
 
