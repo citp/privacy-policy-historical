@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuemags.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216105135id_/http%3A//www.valuemags.com/home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuemags.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227100348id_/http%3A//www.valuemags.com/home/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,7 +52,7 @@ If you have any questions about this privacy statement, the practices of this si
 > ValueMags  
 >  212 West Superior St.  
 >  Ste 202  
->  Chicago, IL 60610
+>  Chicago, IL 60654
 
   
 [Click here to contact support.](http://www.valuemags.com/supportticket.asp)
