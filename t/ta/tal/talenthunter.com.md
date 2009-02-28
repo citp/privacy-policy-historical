@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the talenthunter.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155358id_/http%3A//talenthunter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talenthunter.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228172755id_/http%3A//talenthunter.com/privacy.php) for the most accurate reproduction.*
 
 # Talent Modeling Auditions Acting Casting Calls TalentHunter.com
+
+  | 
 
 **This privacy notice discloses the privacy practices for TalentHunter.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
@@ -98,3 +100,5 @@ Sherman Oaks, CA 91403
 
 You may also contact us by e-mail at   
 privacy@talenthunter.com 
+
+|  
