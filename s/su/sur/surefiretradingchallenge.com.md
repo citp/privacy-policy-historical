@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the surefiretradingchallenge.com privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201234316id_/http%3A//www.surefiretradingchallenge.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surefiretradingchallenge.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228111252id_/http%3A//www.surefiretradingchallenge.com/privacy.html) for the most accurate reproduction.*
 
-# Sure Fire Trading Challenge | surefiretradingchallenge.com
+# Privacy
 
 ### [HOME](http://www.surefiretradingchallenge.com/)
 
@@ -74,7 +74,7 @@ For example the ability to withstand losses or to adhere to a particular trading
 
 [HOME](http://www.surefiretradingchallenge.com/)
 
-[Terms of Use](https://web.archive.org/web/20081201234316id_/http%3A//www.surefiretradingchallenge.com/terms.html) | [Privacy Policy](https://web.archive.org/web/20081201234316id_/http%3A//www.surefiretradingchallenge.com/privacy.html)
+[Terms of Use](https://web.archive.org/web/20090228111252id_/http%3A//www.surefiretradingchallenge.com/tou.html) |[ Privacy Policy ](https://web.archive.org/web/20090228111252id_/http%3A//www.surefiretradingchallenge.com/privacy.html)
 
 \--------------------------------------------------------------------------------------------------
 
