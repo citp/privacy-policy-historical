@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the calloptionputoption.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221150326id_/http%3A//www.calloptionputoption.com/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calloptionputoption.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228083740id_/http%3A//www.calloptionputoption.com/Privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy_policy
 
 **Privacy policy               ****                                                                                                                                                                                   
-****     ****calloptionputoption.com Advisory Services Private Limited ("calloptionputoption.com") is committed to safeguarding your privacy   online. Please read the following privacy policy to understand how your personal information will be treated as you make full  use of our many offerings. This policy may change from time to time and hence please check periodically.  
+****     ****calloptionputoption.com Advisory Services   ("calloptionputoption.com") is committed to safeguarding your privacy  online. Please read the following privacy policy to understand how your personal information will be treated as you make full  use of our many offerings. This policy may change from time to time and hence please check periodically.  
 ****  
 ****1\. INFORMATION GATHERED AND/OR                                                                                                                                                           ****  
 ********calloptionputoption.com gathers two types of data about users.  
@@ -22,9 +22,9 @@ Wherever we collect personal information, we make an effort to include a link to
 
 We do not rent or sell any personal information about our subscribers or other users. As a general rule, we will not disclose  any personal information to any third parties, except when we believe in good faith that the law requires it, or if the subscriber  has given permission, for example by voluntarily entering a contest, where the information is required to register for the  particular contest is provided to the partner operating the contest.
 
-calloptionputoption.com may disclose account or personal information in special cases when we have reason to believe that  disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating 
+calloptionputoption.com may disclose account or personal information in special cases when we have reason to believe that  disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating  calloptionputoption.com's Terms of Service or may be causing injury to or interference with (either intentionally or unintentionally )  calloptionputoption.com rights or property, other calloptionputoption.com users, or anyone else that could be harmed by such activities.  calloptionputoption.com may disclose or access account or personal information when we believe in good faith that the law  requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products  and services.
 
-****calloptionputoption.com** **'s Terms of Service or may be causing injury to or interference with (either intentionally or unintentionally )   ****calloptionputoption.com** **rights or property, other** **calloptionputoption.com** **users, or anyone else that could be harmed by such activities.   ****calloptionputoption.com** **may disclose or access account or personal information when we believe in good faith that the law   requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products  and services.** **  
+** **  
 ****5\. CORRECTING THE INFORMATION                                                                                                                                                               ********The accuracy of your personal information is important to us. If you are a paid subscriber and have a concern about your   personal or account information maintained at calloptionputoption.com, or want to correct, update, or confirm your information,  please send us an email at Customer Service Desk. We will be happy to review and update your information with our records.
 
 If you identify any error in your personal information or need to make a change, please contact us by email and it will be  promptly attended to.
@@ -47,7 +47,7 @@ Ultimately, you are solely responsible for maintaining the secrecy of your passw
 
 **Trade In Call and Put Option**
 
-**[Home](https://web.archive.org/web/20081221150326id_/http%3A//www.calloptionputoption.com/index.htm)  ||  [NSE](http://www.nseindia.com/)  || [ BSE](http://bseindia.com/)  ||  [SEBI](http://www.sebi.gov.in/)  || [ Contact Us](https://web.archive.org/web/20081221150326id_/http%3A//www.calloptionputoption.com/Contact_Us.html)  ||  [Disclaimer](https://web.archive.org/web/20081221150326id_/http%3A//www.calloptionputoption.com/Disclaimer.html)  ||  [Privacy Policy](https://web.archive.org/web/20081221150326id_/http%3A//www.calloptionputoption.com/Privacy_policy.html)  ||  [Subscribe Us](https://web.archive.org/web/20081221150326id_/http%3A//www.calloptionputoption.com/Subscription_Plan.html)  ||
+**[Home](https://web.archive.org/web/20090228083740id_/http%3A//www.calloptionputoption.com/index.htm)  ||  [NSE](http://www.nseindia.com/)  || [ BSE](http://bseindia.com/)  ||  [SEBI](http://www.sebi.gov.in/)  || [ Contact Us](https://web.archive.org/web/20090228083740id_/http%3A//www.calloptionputoption.com/Contact_Us.html)  ||  [Disclaimer](https://web.archive.org/web/20090228083740id_/http%3A//www.calloptionputoption.com/Disclaimer.html)  ||  [Privacy Policy](https://web.archive.org/web/20090228083740id_/http%3A//www.calloptionputoption.com/Privacy_policy.html)  ||  [Subscribe Us](https://web.archive.org/web/20090228083740id_/http%3A//www.calloptionputoption.com/Subscription_Plan.html)  ||
 
 Copyright © 2008 calloptionputoption.com  All rights reserved. 
 
