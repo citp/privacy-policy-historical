@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the designbyhumans.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020749id_/http%3A//www.designbyhumans.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designbyhumans.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228191721id_/http%3A//www.designbyhumans.com/privacy) for the most accurate reproduction.*
 
-# Design By Humans T-shirts - New T-shirt designs everyday - Privacy - Index
+# Design By Humans T-shirts - New T-shirt designs everyday - Cool Tees Designer Shirts - T shirt Art Contest
 
 ### Introduction
 
