@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imvite.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021322id_/http%3A//imvite.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imvite.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228191714id_/http%3A//www.imvite.com/privacy.php) for the most accurate reproduction.*
 
 # /privacy.php Watch The Newest Video Clips and Free TV Episodes
 
