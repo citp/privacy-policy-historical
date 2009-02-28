@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the targetwoman.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217143259id_/http%3A//www.targetwoman.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the targetwoman.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228220827id_/http%3A//targetwoman.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TargetWoman
 
-TargetWoman, a directory dedicated for Women, is deeply committed to protecting individual privacy. We respect the privacy of the individuals who visit our directory. We declare here that we will not sell, distribute, lend or part with the collected personal information - if any. This is in consonance with our avowed policy to protect individual privacy. The following is a brief declaration of the information gathering and dissemination practices that this web site follows. 
+TargetWoman, an Online Women Publication dedicated to Women, is deeply committed to protecting individual privacy. We respect the privacy of the individuals who visit our directory. We declare here that we will not sell, distribute, lend or part with the collected personal information - if any. This is in consonance with our avowed policy to protect individual privacy. The following is a brief declaration of the information gathering and dissemination practices that this web site follows. 
 
   
 
