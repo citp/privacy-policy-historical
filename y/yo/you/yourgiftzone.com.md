@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the yourgiftzone.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913081223id_/http%3A//your-gift-zone.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D380name%26catalog_id%3D7680) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourgiftzone.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228221936id_/http%3A//your-gift-zone.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D380name%26catalog_id%3D7680) for the most accurate reproduction.*
 
-# Help Desk
-
-  
-
+# Your-gift-zone
 
 **PRIVACY POLICY**
 
@@ -60,3 +57,5 @@ If you wish to access, delete or correct the information you have provided to us
 If you are a California resident or another state with specific laws relating to the collection and use of Information, you may have specific rights not set forth in this policy. For example, California residents have the right to receive: a) information identifying any third party company(ies) to whom we may have disclosed, within the past calendar year, personal information pertaining to you and your family for the company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information you must make a request in writing. Your request must include your name registration (email address), the site name you visited and a return address or it will not be processed. We will not honor such requests more than once per calendar year. Requests made via email will not be accepted. Please mail your request to Customer Service Manager at the address listed in the footer of this site or the Contact Us page.
 
 PLEASE CHECK THIS PRIVACY POLICY PERIODICALLY FOR CHANGES AS WE RESERVE THE RIGHT TO REVISE THIS PRIVACY POLICY. SUCH REVISIONS TO THE PRIVACY POLICY SHALL TAKE EFFECT WHEN POSTED. YOUR CONTINUED USE OF OUR SERVICES THROUGH ANY COMMUNICATION CHANNEL FOLLOWING THE POSTING OF ANY CHANGES TO THE PRIVACY POLICY CONSTITUTES YOUR ACCEPTANCE OF SUCH CHANGES.
+
+**Customer Service Department :** 13762 W. SR. 84 • Suite 612 • Davie, FL 33325 • (954) 653-9350
