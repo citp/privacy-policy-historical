@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walmartstores.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217011603id_/http%3A//walmartstores.com/7735.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walmartstores.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228193324id_/http%3A//walmartstores.com/7735.aspx) for the most accurate reproduction.*
 
 # Wal-Mart Stores, Inc. - Security & Privacy
 
