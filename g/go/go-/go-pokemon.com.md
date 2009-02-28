@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go-pokemon.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217024420id_/http%3A//www.go-pokemon.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-pokemon.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228185413id_/http%3A//www.go-pokemon.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Go-Pokemon.com - Privacy Policy
 
