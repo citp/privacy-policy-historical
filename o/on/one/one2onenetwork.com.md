@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the one2onenetwork.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218112311id_/http%3A//www.one2onenetwork.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the one2onenetwork.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228191051id_/http%3A//one2onenetwork.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # One2One Network: Privacy Policy
 
