@@ -1,0 +1,995 @@
+<!--The following is the downloaded HTML source of the buildingregister.com privacy policy that was archived on 2009-02-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090228201756id_/http%3A//www.buildingregister.com/privacy_policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<link rel="stylesheet" type="text/css" href="css/reset.css">
+		<link rel="stylesheet" type="text/css" href="css/content.css">
+		<link type="text/css" rel="stylesheet" href="scripts/datepickers4.css">
+		<link type="text/css" rel="stylesheet" href="css/news.css">
+		<style type="text/css" media="all">@import "css/thickbox.css";</style>
+		<!--[if IE]>
+			<style type="text/css">
+				.TB_overlayBG { filter:alpha(opacity=75); }
+				* html #TB_overlay { height: expression(document.body.scrollHeight > document.body.offsetHeight ? document.body.scrollHeight : document.body.offsetHeight + 'px'); }
+				* html #TB_window { margin-top: expression(0 - parseInt(this.offsetHeight / 2) + (TBWindowMargin = document.documentElement && document.documentElement.scrollTop || document.body.scrollTop) + 'px');}
+				* html #TB_load { margin-top: expression(0 - parseInt(this.offsetHeight / 2) + (TBWindowMargin = document.documentElement && document.documentElement.scrollTop || document.body.scrollTop) + 'px'); }
+				#TB_HideSelect{ filter:alpha(opacity=0);}
+				* html #TB_HideSelect { height: expression(document.body.scrollHeight > document.body.offsetHeight ? document.body.scrollHeight : document.body.offsetHeight + 'px'); }
+			</style>
+		<![endif]-->
+		<script language="javascript" type="text/javascript">
+		document.write("<style type=\"text/css\">\n");
+		document.write(".TB_overlayBG { -moz-opacity: 0.75; opacity: 0.75; }\n");
+		document.write("#TB_HideSelect { -moz-opacity: 0; opacity: 0; }\n");
+		document.write("#TB_iframeContent { _margin-bottom:1px; }\n");
+		document.write("<\/style>\n");
+		</script><style type="text/css">
+.TB_overlayBG { -moz-opacity: 0.75; opacity: 0.75; }
+#TB_HideSelect { -moz-opacity: 0; opacity: 0; }
+#TB_iframeContent { _margin-bottom:1px; }
+</style>
+
+		<script type="text/javascript" src="js/newvalidator.js"></script>
+		<script type="text/javascript" src="js/popup-window.js"></script>
+		<script type="text/javascript" src="js/nav.js"></script>
+		<script type="text/javascript" src="js/swfobject.js"></script>
+		<script language="javascript" type="text/javascript" src="/js/jquery.js"></script>
+		<script language="javascript" type="text/javascript" src="/js/thickbox.js"></script>
+		<title>Building Register - Privacy Policy</title>
+		<script type="text/javascript">
+			function userAction(option)//This function takes to different pages according to the selected action in action box
+			{		if(option==133)//This is special case for advanced user clicking on process EA
+		   		{
+		   			window.location='advanced_sendemail.php';
+		   		}
+		   		if(option==134)//For process EA
+		   		{showDiv('menu4');document.frmsearch.NUM_RES.style.visibility='hidden'}
+		   		//modified by srikanth on 13/12/06 for #RT - 772
+		   		if(option==135 )//For select package in Basket Action box -- && option[option.selectedIndex].text == 'Select Package'
+		   		{
+		   			window.location='manage_projects.php?searchflag=1';
+		   		}
+		   		//modified by srikanth on 13/12/06 for #RT - 772
+		   		//if(option==135)//For select different package in Basket Action box --  && option[option.selectedIndex].text == 'Select Another Package'
+		   		{
+		   		//	window.location='manage_packages.php';
+		   		}
+		   		if(option==136)//For Last search results
+		   		{
+		   			window.location='searchResults.php';
+		   		}
+		   		if(option==145)//for preferred vendors
+		   		{
+		   		    prefandcons(1);
+		   		}
+		   		if(option==146)//for considered vendors
+		   		{
+		   		   	prefandcons(2);
+		   		}
+		   		if(option==147)//for preferred and considered vendors
+		   		{
+		   		   	prefandcons(3);
+		   		}
+		   		if(option==148)//to Empty Basket
+		   		{
+		   			emptyBasket();
+		   		}
+		   		if(option==149)//for download PDF action
+		   		{
+		   			window.location='VM_style_download.php';
+		   		}
+		   		if(option==151)//for send Emails to managed vendors
+		   		{
+		   			window.location='VM_email_utility.php';
+		   		}
+		   		/*if(option==164)
+		   		{
+		   			window.location='VM_SendEQ.php';
+		   		}*/
+		   		if(option==201)//for User Maintenance Report
+		   		{
+		   			window.location='User_Maintenance_Report.php';
+		   		}
+		   		if(option==199)
+		   		{
+		   			window.location='View_Usage_Reports.php';
+		   		}
+		   		if(option==207)
+		   		{
+		   			window.location='VM_Usage_Reports.php';
+		   		}
+				if(option==220)
+				{
+					window.location='Report_EAReports_Select.php';
+				}
+					/***
+						Change as per request #DR000480
+					**/
+				if(option==480)
+				{
+					window.location='EQ_login.php';
+				}
+		  	}
+
+			function userActionSelect(option)//This function takes to different pages according to the selected action in action box
+			{		if(option.value==133)//This is special case for advanced user clicking on process EA
+		   		{
+		   			window.location='advanced_sendemail.php';
+		   		}
+		   		if(option.value==134)//For process EA
+		   		{showDiv('menu4');
+							document.frmsearch.NUM_RES.style.visibility='hidden'
+							tb_remove();}
+		   		//modified by srikanth on 13/12/06 for #RT - 772
+		   		if(option.value==135 )//For select package in Basket Action box -- && option[option.selectedIndex].text == 'Select Package'
+		   		{
+		   			window.location='manage_projects.php?searchflag=1';
+		   		}
+		   		//modified by srikanth on 13/12/06 for #RT - 772
+		   		//if(option.value==135)//For select different package in Basket Action box --  && option[option.selectedIndex].text == 'Select Another Package'
+		   		{
+		   		//	window.location='manage_packages.php';
+		   		}
+		   		if(option.value==136)//For Last search results
+		   		{
+		   			window.location='searchResults.php';
+		   		}
+		   		if(option.value==145)//for preferred vendors
+		   		{
+		   		    prefandcons(1);
+		   		}
+		   		if(option.value==146)//for considered vendors
+		   		{
+		   		   	prefandcons(2);
+		   		}
+		   		if(option.value==147)//for preferred and considered vendors
+		   		{
+		   		   	prefandcons(3);
+		   		}
+		   		if(option.value==148)//to Empty Basket
+		   		{
+		   			emptyBasket();
+		   		}
+		   		if(option.value==149)//for download PDF action
+		   		{
+		   			window.location='VM_style_download.php';
+		   		}
+		   		if(option.value==151)//for send Emails to managed vendors
+		   		{
+		   			window.location='VM_email_utility.php';
+		   		}
+		   		/*if(option.value==164)
+		   		{
+		   			window.location='VM_SendEQ.php';
+		   		}*/
+		   		if(option.value==201)//for User Maintenance Report
+		   		{
+		   			window.location='User_Maintenance_Report.php';
+		   		}
+		   		if(option.value==199)
+		   		{
+		   			window.location='View_Usage_Reports.php';
+		   		}
+		   		if(option.value==207)
+		   		{
+		   			window.location='VM_Usage_Reports.php';
+		   		}
+				if(option.value==220)
+				{
+					window.location='Report_EAReports_Select.php';
+				}
+				if(document.getElementById('menubasket')!=null){
+					tb_remove();
+				}
+
+		  	}
+	  	</script>		<link rel="stylesheet" media="all" type="text/css" href="css/dropdown.css">
+		<!--[if lte IE 6]>
+			<link rel="stylesheet" media="all" type="text/css" href="css/dropdown_ie.css">
+			<style type="text/css">
+				#newsholder { width: 588px; }
+			</style>
+		<![endif]-->
+		<!--[if IE]>
+			<style type="text/css">
+				.zContent {
+					filter:alpha(opacity = 0);
+				}
+			</style>
+		<![endif]-->
+		<script type="text/javascript" language="javascript">
+		<!--
+			document.write('<style type="text/css">\n.zContent { 	opacity: 0.0; }\n<\/style>');
+		//-->
+		</script><style type="text/css">
+.zContent { 	opacity: 0.0; }
+</style>
+	</head>
+	<body style="">
+<script src="newvalidator.js" type="text/javascript"></script>
+<script language="JavaScript" type="text/javascript" src="NumberFormat153.js"></script>
+<script type="text/javascript">
+	/********************Validations For Registration Forms*************
+	******************************************************************
+	****************************************************************/
+	function validator() {
+		alert("HERE");
+		var sForm = document.form123;
+		var sFName =sForm.First_Name.value;
+		result=checkFirstname(sFName,'First Name')
+		if(result!= '') {  
+			alert(result);
+			sForm.First_Name.focus();
+			return false;
+		}
+		var sLName =sForm.Last_Name.value;
+		result=checkUsername(sLName,'Last Name')
+		if(result!= '') {
+			alert(result);
+			sForm.Last_Name.focus();
+			return false;
+	 	}
+		var sBName =sForm.Business_Name.value;
+		result=checkUsername(sBName,'Company Name')
+		if(result!= ''){
+			alert(result);
+			sForm.Business_Name.focus();
+			return 
+		}
+		var sSalutation =sForm.Salutation.value;
+		result=isEmpty(sSalutation,'Salutation')
+		if(result!= ''){
+			alert(result);
+			sForm.Salutation.focus();
+			return 
+		}
+		var iPostCode =sForm.Post_Code.value;
+		result=checkpostcode(iPostCode,'Post Code')
+	 	if(result!= ''){
+			alert(result);
+			sForm.Post_Code.focus();
+			return 
+		}
+		sForm.flag.value=1;
+		sForm.action="Registration20_Form.php";
+		sForm.submit();
+	}
+	function validator1() {	
+		var sForm = document.form123;	
+		var sFName =sForm.First_Name.value;
+		result=checkFirstname(sFName,'First Name')
+		if(result!= ''){
+			alert(result);
+			sForm.First_Name.focus();
+			return false;
+		}
+		var sLName =sForm.Last_Name.value;
+	  result=checkUsername(sLName,'Last Name')
+	  if(result!= ''){
+			alert(result);
+			sForm.Last_Name.focus();
+			return false;
+		}
+		var sBName =sForm.Business_Name.value;
+		result=checkUsername(sBName,'Company Name')
+		if(result!= ''){
+			alert(result);
+			sForm.Business_Name.focus();
+			return 
+		}
+		var sSalutation =sForm.Salutation.value;
+		result=isEmpty(sSalutation,'Salutation')
+		if(result!= ''){
+			alert(result);
+			sForm.Salutation.focus();
+			return 
+		}
+		var iPostCode =sForm.Post_Code.value;
+	  result=checkpostcode(iPostCode,'Post Code')
+	  if(result!= ''){
+			alert(result);
+			sForm.Post_Code.focus();
+			return 
+		}
+		var sSAdd1 =sForm.Street_Address1.value;
+		result=checkUsername(sSAdd1,'Address1 value')
+		if(result!= ''){
+			alert(result);
+			sForm.Street_Address1.focus();
+			return 
+		}	 
+		var sCity =sForm.City.value;
+	  result=checkUsername(sCity,'City')
+	  if(result!= ''){
+			alert(result);
+			sForm.City.focus();
+			return 
+		}
+		var sCounty = sForm.County.value;
+		result=checkUsername(sCounty,'County')
+		if(result!=''){
+			alert(result);
+			sForm.County.focus();
+			return 
+	  }	 
+		var sCountry = sForm.Country.selectedIndex;
+		result=checkDropdown(sCountry,'Country')
+		if(result!=''){
+			alert(result);
+			sForm.Country.focus();
+			return 
+		}	
+		var iPritelnum =sForm.Phone_No1.value;
+		result=checknumber(iPritelnum,'phone')
+	  if(result!= ''){
+			alert(result);
+			sForm.Phone_No1.focus();
+			return 
+		}
+	   
+	  
+	
+	 /*var sCkeck1 =sForm.check1;
+	  result=CheckboxVal(sCkeck1,'terms&')
+	  if(result!= ''){
+		alert(result);
+		return 
+	 }*/
+	
+	 
+	 sForm.action="enquiry_alert_registration.php";
+	 sForm.submit();
+
+
+}
+/**************End of Registration validations*******************/
+
+
+
+
+
+
+ /********************Function for opening a new window**************
+ *******************************************************************/
+
+
+function newwindow(flag){
+	if(flag == 1)
+		OpenSubWin('EA_terms_conditions.php?flag=1',810,560,0);
+	else
+		OpenSubWin('EA_terms_conditions.php',810,560,0);
+	//window.close();
+}
+
+
+
+
+
+
+
+
+/*******************Function for alphanumeric characters******
+*************************************************************/
+
+
+function isAlpha(val,feeld) 
+{
+  var values = "1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ$%&()-\./£ ";
+  for (var i=0; i < val.length; i++) 
+    if (values.indexOf(val.charAt(i)) < 0) 
+    {
+        return false;
+        alert('Please do not enter symbols into the ' + feeld + ' field.');
+    }
+  return true;
+}
+
+
+
+
+
+/********************Validations For Package Addition*************
+******************************************************************
+****************************************************************/
+
+
+
+
+
+function isAllFieldsEntered(){
+    /*if ((document.addPack.Classification.value.length == 0) ||
+	(document.addPack.EnqRef.value.length==0) ||
+	(document.addPack.StartDate.value.length==0) ||
+	(document.addPack.EndDate.value.length==0) ||
+	(document.addPack.EstValue.value.length==0) ||
+	(document.addPack.EARespDate.value.length==0) ||
+		(document.addPack.TCDate.value.length==0))*/
+	if((document.addPack.Classification.value.length == 0) || (document.addPack.EARespDate.value.length==0))
+
+		return false;
+	else
+		return true;
+}
+
+
+function validatePackageData() {
+	
+	retval=isAllFieldsEntered();
+	if(!retval) 
+	{	
+		alert("Please fill all required fields.");
+		return false;
+	}
+	else
+	{
+		 if(!((isAlpha( document.addPack.Classification.value, 'Classification' )) &&
+			(isAlpha( document.addPack.EnqRef.value, 'EnqRef' )) &&
+			(isAlpha( document.addPack.StartDate.value, 'StartDate' )) &&
+			(isAlpha( document.addPack.EndDate.value, 'EndDate' )) &&
+			//(isAlpha( document.addPack.EstValue.value, 'EstValue' )) &&
+			(isAlpha( document.addPack.EARespDate.value, 'EARespDate' )) &&
+			 (isAlpha( document.addPack.TCDate.value, 'TCDate' ))))
+			{
+				alert("Please do not enter any symbols in the fields.");
+				return false;
+			}
+			else 
+			{
+				//alert(" passed ");
+				document.addPack.submit();
+			}
+	}
+}
+
+/**************End of Package form validations*******************/
+
+
+
+
+
+
+
+
+/********************Validations For Package updation*************
+******************************************************************
+****************************************************************/
+
+
+function isAllupdateFieldsEntered(){
+    /*if ((document.update.Classification.value.length == 0) ||
+	(document.update.EnqRef.value.length==0) ||
+	(document.update.StartDate.value.length==0) ||
+	(document.update.EndDate.value.length==0) ||
+	(document.update.EstValue.value.length==0) ||
+	(document.update.EARespDate.value.length==0)||
+	(document.update.TCDate.value.length==0) )*/
+	if((document.update.Classification.value.length == 0) || (document.update.EARespDate.value.length==0))
+		return false;
+	else
+		return true;
+}
+
+
+function validateupdatePackageData() {
+	
+	retval=isAllupdateFieldsEntered();
+	if(!retval) 
+	{	
+		alert("Please fill all required fields.");
+		return false;
+	}
+	else
+	{
+		 if(!((isAlpha( document.update.Classification.value, 'Classification' )) &&
+			(isAlpha( document.update.EnqRef.value, 'EnqRef' )) &&
+			(isAlpha( document.update.StartDate.value, 'StartDate' )) &&
+			(isAlpha( document.update.EndDate.value, 'EndDate' )) &&
+			//(isAlpha( document.update.EstValue.value, 'EstValue' )) &&
+			(isAlpha( document.update.EARespDate.value, 'EARespDate' ))&&
+			(isAlpha( document.update.TCDate.value, 'TCDate' ))))
+			{
+				alert("Please do not enter any symbols in the fields.");
+				return false;
+			}
+			else 
+			{
+				//alert(" passed ");
+				document.update.submit();
+			}
+
+	}
+
+}
+
+/**************End of Package updation validations*******************/
+
+
+
+
+
+/********************Validations For Project Addition*************
+******************************************************************
+****************************************************************/
+
+
+
+
+function isAllProjectFieldsEntered(){
+    if ((document.addform.ProjectName.value.length == 0) ||
+	(document.addform.EnqRef.value.length==0) )
+		return false;
+	else
+		return true;
+}
+
+
+function validateProjectData() {
+	
+	retval=isAllProjectFieldsEntered();
+	if(!retval) 
+	{	
+		alert("Please fill all required fields.");
+		return false;
+	}
+	else
+	{
+		 if(!((isAlpha( document.addform.ProjectName.value, 'Classification' )) &&
+			(isAlpha( document.addform.EnqRef.value, 'EnqRef' )) &&
+			(isAlpha( document.addform.Location.value, 'Location' )) &&
+			(isAlpha( document.addform.StartDate.value, 'StartDate' )) &&
+			(isAlpha( document.addform.EndDate.value, 'EndDate' ))
+			// && (isAlpha( document.addform.EstimateValue.value, 'EstValue' ))
+			))
+			{
+				alert("Please do not enter any symbols in the fields.");
+				return false;
+			}
+			else 
+			{
+				//alert(" passed ");
+				document.addform.submit();
+			}
+	}
+}
+
+/**************End of Project form validations*******************/
+
+
+
+
+
+
+/********************Validations For Project Updation*************
+******************************************************************
+****************************************************************/
+ 
+
+
+function isAllUpdateFieldsEntered(){
+	if ((document.modifyform.ProjectName.value.length == 0) ||
+	(document.modifyform.EnqRef.value.length==0) )
+	return false;
+	else
+	return true;
+}
+
+
+function validateUpdateProjectData() {
+
+	retval=isAllUpdateFieldsEntered();
+	if(!retval)
+	{
+		alert("Please fill all required fields.");
+		return false;
+	}
+	else
+	{
+		if(!((isAlpha( document.modifyform.ProjectName.value, 'Classification' )) &&
+		(isAlpha( document.modifyform.EnqRef.value, 'EnqRef' )) &&
+		(isAlpha( document.modifyform.Location.value, 'Location' )) &&
+		(isAlpha( document.modifyform.StartDate.value, 'StartDate' )) &&
+		(isAlpha( document.modifyform.EndDate.value, 'EndDate' )) 
+		//&& (isAlpha( document.modifyform.EstimateValue.value, 'EstValue' ))
+		))
+		{
+			alert("Please do not enter any symbols in the fields.");
+			return false;
+		}
+		else
+		{
+			//alert(" passed ");
+			document.modifyform.submit();
+		}
+	}
+}
+
+/**************End of Project form Updation validations*******************/
+
+
+
+/*************Home page Username,Password validations**********
+**************************************************************/
+
+
+function loginvalidation()
+{
+	//alert('here');
+     if(document.LoginForm.username.value == ''){
+     alert('please enter username');
+	document.LoginForm.username.focus();
+	return
+	}
+	if(document.LoginForm.password.value == ''){
+     alert('please enter password');
+	document.LoginForm.password.focus();
+	return
+	}
+	/*var keyCode = event.keyCode ? event.keyCode : event.which ? event.which : event.charCode;
+	if (keyCode == 13) {
+	LoginForm.submit();}*/
+
+	document.LoginForm.submit();
+
+}
+function Click(user)
+{
+	if(user.value=="")
+	{
+		alert("Please enter a valid username");
+		return;
+	}
+	OpenSubWin('email_password.php?user='+user.value,400,200,0);
+}
+
+function enterkey(event)
+	{
+		var keyCode = event.keyCode ? event.keyCode : event.which ? event.which : event.charCode;
+		if (keyCode == 13) {
+		loginvalidation();}
+	}
+function OpenSubWin( page, w, h, sb )
+			{
+			    var sw = screen.width, sh = screen.height;
+  				var ulx = ((sw-w)/2), uly = ((sh-h)/2);
+  				var sbt = (sb==1) ? 'yes' : 'no';
+
+  				var paramz = 'toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=no,scrollbars='+sbt+',width='+w+',height='+h+'';
+  				var oSubWin = window.open( '', 'SubWin', paramz );
+
+  				oSubWin.moveTo( ulx, uly );
+  				oSubWin.location.replace( page );
+			}
+		
+
+
+
+
+
+
+
+/*******************Validation for restricting alphabetic ************
+*************************characters for text boxes****************/
+
+
+	
+var numb1 = "0123456789";
+
+function res(t,v){
+var w = "";
+for (i=0; i < t.value.length; i++) {
+x = t.value.charAt(i);
+if (v.indexOf(x,0) != -1)
+w += x;
+}
+t.value = w;
+
+}
+
+var numb = "0123456789";
+
+function res1(t,v){
+var w = "";
+for (i=0; i < t.value.length; i++) {
+x = t.value.charAt(i);
+if (v.indexOf(x,0) != -1)
+w += x;
+}
+t.value = w;
+formatNumber();
+}
+
+function formatNumber()
+{
+var num = new NumberFormat();
+
+num.setInputDecimal('.');
+
+num.setNumber(document.searchForm.packagevalue.value); 
+
+num.setPlaces('0');
+
+num.setCurrencyValue('$');
+
+num.setCurrency(false);
+
+num.setCurrencyPosition(num.LEFT_OUTSIDE);
+
+num.setNegativeFormat(num.PARENTHESIS);
+
+num.setNegativeRed(false);
+
+num.setSeparators(true, ',', ',');
+
+document.searchForm.packagevalue.value = num.toFormatted();
+}
+ 
+function res2(t,v){
+var w = "";
+for (i=0; i < t.value.length; i++) {
+x = t.value.charAt(i);
+if (v.indexOf(x,0) != -1)
+w += x;
+}
+t.value = w;
+formatNumber1();
+}
+
+function formatNumber1()
+{
+var num = new NumberFormat();
+
+num.setInputDecimal('.');
+
+num.setNumber(document.searchForm.insurancecover.value); 
+
+num.setPlaces('0');
+
+num.setCurrencyValue('$');
+
+num.setCurrency(false);
+
+num.setCurrencyPosition(num.LEFT_OUTSIDE);
+
+num.setNegativeFormat(num.PARENTHESIS);
+
+num.setNegativeRed(false);
+
+num.setSeparators(true, ',', ',');
+
+document.searchForm.insurancecover.value = num.toFormatted();
+}
+ 
+
+</script>
+<script type="text/javascript" src="./js/nav.js"></script>
+<div style="background: #fff; width: 800px; margin: 0 auto; text-align: left; padding: 0;">
+	<div id="header">
+		<div id="logo"><a href="/"><img src="/images/logo.gif" alt="LOGO" border="0"></a></div>
+			<div id="welcome">
+				<table border="0" width="100%">
+					<tbody><tr><td colspan="2" align="left"><div id="menu" style="width:469px;"><a href="aboutus.php">About Us</a>
+|
+<a href="customers_display.php">Customers</a>
+|
+<a href="send_feedback.php">Feedback</a>
+|
+                <a href="NewRegistration.php">Register</a>
+</div></td></tr>
+					<tr><td colspan="2"><div style="height: 42px;"></div></td></tr>
+					<tr>
+					<td align="right" style="padding-right:55px" valign="middle">28th February 2009&nbsp;&nbsp;&nbsp;</td>
+				</tr>
+			</tbody></table>
+		</div>
+	</div>
+	<div id="h-menu">
+		<div class="dropdown">
+			<ul id="nav">
+				<li class="topLevel"><span><a href="/">Home</a></span></li>
+				<li class="topLevel" style="border-left: 1px solid #fff;"><span><a href="javascript: void(0);" style="cursor: default;">Enquiry alert</a></span>
+					<ul>
+						<li><a href="/whatis_enquiryAlert.php">What is this?</a></li>
+						<li><span>Enquiry alert service</span></li>					</ul>
+				</li>
+				<li class="topLevel" style="border-left: 1px solid #fff;"><span><a href="javascript: void(0);" style="cursor: default;">Pre qualification</a></span>
+					<ul>
+						<li><a href="/whatis_pqq.php">What is this?</a></li>
+						<li><span>Pre qualification service</span></li>					</ul>
+				</li>
+				<li class="topLevel" style="border-left: 1px solid #fff;"><span><a href="javascript: void(0);" style="cursor: default;">Tradex</a></span>
+					<ul>
+						<li><a target="_blank" href="/Causeway_Tradex_datasheet.pdf">What is this?</a></li>
+					</ul>
+				</li>
+				<li class="topLevel" style="border-left: 1px solid #fff;"><span><a href="javascript: void(0);" style="cursor: default;">Other services</a></span>
+				<ul>
+					<li><!--a href="/myregister.php"--><a target="_blank" href="/myRegisterDatasheet.pdf">My register</a></li>
+				</ul>
+				</li>
+				   <li class="topLevel" style="border-left: 1px solid #fff;"><span><a href="javascript: void(0);" style="cursor: default;">Actions</a></span>
+					</li>
+			</ul>
+		</div>
+
+
+
+		<script type="text/javascript">
+		<!--
+    	function pad(i) {
+				if(i<10) { i = "0" + i; }
+				return i;
+			}
+			function updateClocks() {
+				var dt = new Date();
+        var lc = document.getElementById("timeLondon");
+        var hours = dt.getUTCHours();
+        var mins = dt.getUTCMinutes();
+        var secs = dt.getUTCSeconds();
+        var dst = 0;
+        if(dst==1) { hours++; }
+        lcstr = pad(hours) + ':' + pad(mins) + ':' + pad(secs);
+        lc.innerHTML = lcstr;
+        setTimeout("updateClocks()", 1000);
+			}
+		-->
+		</script>
+
+   	<div class="clock" id="clock">
+			<div id="clockLondon">London </div><div class="trans" id="timeLondon">21:01:40</div>
+		</div>
+
+    <script type="text/javascript">updateClocks();</script>
+
+	</div>
+
+
+<script language="javascript" type="text/javascript">
+function passvalues()
+{
+	window.close();
+}	
+</script>
+
+	<div id="content">
+		<div style="padding: 10px">
+	<form style="margin:0; padding:0; margin-bottom:0; margin-top:0;" name="registration" method="POST" action="#" id="privacypolicy">
+		<h1>THE BUILDING REGISTER SERVICES<br>PRIVACY POLICY ("PRIVACY POLICY")</h1>
+		<p>Building Register Limited ("<b>Building Register</b>") recognises the importance of protecting the personal information and the privacy of data provided 
+			by You and that may personally identify You which We collect in connection with Your use of any BR website ("<b>Website</b>") and the services offered on 
+			the Website ("<b>Services</b>") referred to in this policy as ("<b>Personal Data</b>"). </p>
+		<h2>
+			<a href="#WhyPersonalData" class="add">Why We ask you for Your Personal Data</a><br> 	
+			<a href="#DataWhatandWhen" class="add">What data We ask You to provide and when</a><br> 
+			<a href="#ContactUs" class="add">How to contact Us for further information </a><br> 
+			<a href="#UsePersonalData" class="add">How We use Your Personal Data </a><br> 
+			<a href="#UseEmail" class="add">How We use Your email and IP address </a><br> 
+			<a href="#PartnerSites" class="add">Partner Sites </a><br> 
+			<a href="#Cookies" class="add">Do We use Cookies? </a><br> 
+			<a href="#Advertising" class="add">Advertising on Our Website </a><br> 
+			<a href="#UpdatePersonalData" class="add">How can You change, correct or update Your Personal Data?</a><br> 
+			<a href="#CloseRegistration" class="add">How to close Your user registration </a><br>
+		</h2>
+		<b style="clear: both;"></b>
+		<h2><a name="WhyPersonalData">Why We ask you for Your Personal Data</a></h2>
+		<p>We ask You for Your Personal Data to allow You to use the Services most effectively and for Us to work on Your behalf to develop Building Register for 
+			You by making available services which are relevant to You.</p>
+		<p>We ask that You provide Us in return with some information about You to enable Us to meet this objective. 
+			We may ask You for additional information from time to time and will store this information with the data We already keep about You. You may change, 
+			update or remove it at any time in accordance with this Privacy Policy.</p>
+		<p><a href="#" class="add">Top</a></p> 
+
+    <h2><a name="DataWhatandWhen">What data We ask You to provide and when</a></h2>
+		<p>Building Register will always notify You as to the types of Personal Data and any other information We are collecting about You as well as the uses that 
+			Building Register intends to make of such information.  When You complete Our registration process We will collect Your full name, address, email address 
+			and such other relevant information as We may state in the registration from time-to-time.  We may collect data which tracks how You use the Website and 
+			Services.</p>
+		<p><a href="#" class="add">Top</a></p>
+
+		<h2><a name="ContactUs">How to contact Us for further information</a></h2>
+		<p>Your questions regarding Our Privacy Policy should be directed to the Building Register site co-ordinator who will be pleased to assist You with any 
+			questions or problems You might have: please contact him here.To return to the Building Register home page please click <a href="index.php">here</a>. </p>
+		<p><a href="#" class="add">Top</a></p> 
+
+		<h2><a name="UsePersonalData">How We use Your Personal Data</a></h2>
+		<p>We will only use Your Personal Data to improve Your use of Services, the quality and relevance of any communications We send to You and the Website itself. </p>
+		<p>Except as We state in the Privacy Policy, We do not sell, rent or provide third parties with any of the information comprised within Your Personal Data that 
+			enables You to be personally identified. </p>
+		<p>Building Register does however, collect certain non-personally identifiable information about You, such as the number and types of sessions and transactions 
+			that You make Using the Website and Services.  Such information is usually aggregated with that collected in respect of all users of the Website and Services 
+			in the form of general demographic or geographic statistical information about the numbers and types of products and services that all users of the Website 
+			and Services may browse.  These statistics may be collected in respect of specific partners.  Only such non-personally identifiable information is ever made 
+			available by Building Register to third parties and never Your Personal Data that identifies You such as Your name, address, financial details or email address.</p>
+		<p><a href="#" class="add">Top</a></p> 
+
+		<h2><a name="UseEmail">How We use Your email and IP address</a></h2>
+		<p>Building Register uses Your email address primarily to contact You in the way We have described and for the administration of the Website. 
+			If however You do not wish receive emails that We send for information or marketing purposes please notify Us by email.</p>
+		<p>We may use the IP address log to determine where users of the Website are located and where problems such as accessing the Website may have originated. </p>
+		<p>Any statistical information is aggregated on an anonymous basis about all users of Our Website.  This statistical information may be used by Building 
+			Register to help Us develop enhanced services as part of the Website and Services for Our users and to determine which elements of Our Website are being 
+			used most effectively.  This data will only be used by Building Register to offer categories of users relevant products or services We develop specifically for them.</p>
+		<p>The information provided by You in relation to Your log-in and user identity is, subject to the statements made above, unique to You and viewable only by Us and by You. </p> 
+		<p>From time to time We may confirm Your email address by sending an email to the email address which You have registered.  We may also from time to time as 
+			required send registered users an email message containing information about updates to the Website, the Services, or in accordance with the Building 
+			Register User Terms.  Additionally, We may contact You via Your email address in the event that We need to inform You of any issues or problems with the Website, 
+			the Services or any specific transaction carried out by You.</p>
+		<p><a href="#" class="add">Top</a></p> 
+
+		<h2><a name="PartnerSites"><b>Partner Sites</b></a></h2>
+		<p>We believe that the statements We make in this Privacy Policy should always apply to You.  However some of the services made available to You may mean that 
+			You leave the Website, and where You enter another Website it will not be possible to apply Our Privacy Policy. </p>
+		<p><a href="#" class="add">Top</a></p> 
+
+		<h2><a name="Cookies">Do We use Cookies?</a></h2>
+		<p>The Website may use small pieces of data know as “cookies”.  Cookies are set on Your browser when You log-in to the Website and We use cookies to 
+			identify users on the Website.  Cookies enable Us to remember Your log-in and password so You do not have to remember it and re-enter it each time 
+			You visit Our Website. Building Register cookies cannot be read or used by any other Websites and do not contain Your Personal Data.</p>
+		<p><a href="#" class="add">Top</a></p> 
+
+		<h2><a name="Advertising">Advertising on Our Website</a></h2>
+		<p>We may use an advertising company to display banner advertisements on Our Website.  These advertisements may contain cookies.  While We may use 
+			cookies on other parts of Our Website, We do not have access to the information stored on cookies received with banner advertisements. </p>
+		<p><a href="#" class="add">Top</a></p> 
+	
+		<h2><a name="UpdatePersonalData">How can you change, correct or update Your Personal Data?</a></h2>
+		<p>We aim to keep the information We keep about You up to date and We will change any of the information We keep about You at any time when You notify Us 
+			by email at <a href="mailto:directoryadmin@causeway.com">directoryadmin@causeway.com</a></p>
+		<p><a href="#" class="add">Top</a></p> 
+
+		<h2><a name="CloseRegistration">How to Close Your user Registration</a></h2>
+		<p>If You wish to cease Your use of the Website You may close Your Building Register membership by notifying Us by <a href="mailto:directoryadmin@causeway.com">email</a>. 
+			We will withdraw the information held by Us about You from the Building Register database.<br>In any case where We have the right to terminate Your use of Building Register, 
+			We will confirm by email to You that Your Building Register User registration has been closed.  </p>
+		<p>Building Register recommends that You review this Privacy Statement periodically as Building Register may update it from time to time with the aim of ensuring that 
+			You are fully informed of Our use of Your Personal Data.</p>
+		
+		<p><b>Building Register Limited</b><br>
+		1st Floor<br>
+    West Wing<br>
+    Kent House<br>
+    Romney Place<br>
+		Maidstone<br>
+    ME15 6LH<br>
+    Tel: 01622 662668<br>
+    Fax: 01622 609409</p>	
+  
+</form></div>
+</div>
+<div class="infoBox" id="signin" style="height: 172px;">
+<form id="LoginForm" name="LoginForm" action="Login.php" method="post" style="margin:0; padding:0">
+    <div style="height: 172px;">
+    	           <p>Already a member? Sign in here</p>
+					<p>Username<br>
+					<input class="inputactive" type="text" name="username" size="17" maxlength="60" onkeypress="javascript:enterkey(event)"></p>
+					<p>Password<br>
+					<input class="inputactive" type="password" name="password" size="17" maxlength="32" onkeypress="javascript:enterkey(event)"></p>
+					<p><a href="javascript:loginvalidation()" class="orangeButton100">Sign in</a></p>
+	</div>
+					<p>Not a member? Register here</p>
+					<p><a href="NewRegistration.php" class="orangeButton100">Register here</a></p>
+</form>
+</div>
+			<div id="footer">
+				<ul>
+					<li><a href="/sitemap.php">Site map</a></li>
+					<li style="line-height: 28px;">|</li>
+					<li><a href="/order_terms_conditions.php">Terms &amp; conditions</a></li>
+					<li style="line-height: 28px;">|</li>
+					<li><a href="/privacy_policy.php">Privacy policy</a></li>
+					<li style="line-height: 28px;">|</li>
+					<li><a href="http://www.causeway.com" target="_blank">Causeway</a></li>
+				</ul>
+				<p>© Copyright 2009 Building Register Ltd. All rights reserved.</p>
+			</div>
+		</div>
+		<div style="background: url(/images/c-bg3.jpg) top center no-repeat; height: 10px; width: 800px; margin: 0 auto;"></div>
+		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+		<script type="text/javascript">
+       		 	_uacct = "UA-1671417-1";
+       	 		urchinTracker();
+		</script>
+
+	
+
+</body></html>
