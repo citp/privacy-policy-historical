@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nokia.co.in privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013229id_/http%3A//www.nokia.co.in/A4537003) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokia.co.in privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228172915id_/http%3A//www.nokia.co.in/A4537003) for the most accurate reproduction.*
 
 # Nokia India - Privacy policy - Default footer and common elements
 
@@ -69,9 +69,9 @@ Nokia may from time to time change this Policy or change, modify or withdraw acc
 
 **How to Contact Nokia:**
 
-To update your personal data or elect to opt-out of marketing communications from Nokia, please email [ apac.onlineteam@nokia.com](https://web.archive.org/web/20081216013229id_/http%3A//www.nokia.co.in/apac.onlineteam@nokia.com).
+To update your personal data or elect to opt-out of marketing communications from Nokia, please email [ apac.onlineteam@nokia.com](https://web.archive.org/web/20090228172915id_/http%3A//www.nokia.co.in/apac.onlineteam@nokia.com).
 
-© Copyright Nokia 2005. All Rights Reserved. Read our [ legal notice](https://web.archive.org/A4537006).
+© Copyright Nokia 2005. All Rights Reserved. Read our [ legal notice](https://web.archive.org/default-footer-and-common-elements/site-terms).
 
   
 
