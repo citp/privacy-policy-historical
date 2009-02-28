@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the userpart.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045114id_/http%3A//userpart.com/%3Fid%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the userpart.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228055315id_/http%3A//userpart.com/%3Fid%3DPrivacy) for the most accurate reproduction.*
 
-# UserPart.com | get paid
+# UserPart.com | active proxy
 
 As an Infomediary, the purpose of UserPart.com is to use technology to enable businesses to interact with consumers in highly personalized ways, without forfeiting the privacy of the user. Therefore privacy is at the core of UserPart™. 
 
