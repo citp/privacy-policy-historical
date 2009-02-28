@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekmo.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226143740id_/http%3A//www.seekmo.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekmo.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228182715id_/http%3A//www.seekmo.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Free downloads and online search tools from Seekmo
 
