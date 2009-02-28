@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kahuki.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218135145id_/http%3A//www.kahuki.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kahuki.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228213614id_/http%3A//www.kahuki.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Kahuki Web Directory » Privay Policy
 
@@ -19,3 +19,6 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+
+[Home Appliances](http://www.pricerunner.co.uk/t/3/compare-Home-Appliances-prices)  
+We'll show you how easy it is to compare products and prices side-by-side for almost any home appliance.
