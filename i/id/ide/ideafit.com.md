@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideafit.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219140918id_/http%3A//www.ideafit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideafit.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228083317id_/http%3A//www.ideafit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
