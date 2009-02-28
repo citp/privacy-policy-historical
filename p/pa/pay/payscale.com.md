@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2008-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081110191520id_/http%3A//www.payscale.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228214134id_/http%3A//www.payscale.com/privacy.asp) for the most accurate reproduction.*
 
 # PayScale - Salary Survey, Salaries, Wages, Compensation Information and Analysis
 
-**Last Updated: October, 2008**
-
-**Our Privacy Philosophy**
+[](http://www.truste.org/ivalidate.php?url=www.payscale.com&sealid=103)
 
 This site is owned and operated by PayScale, Inc. We understand that you value your privacy and take every precaution to ensure that your information is protected. At PayScale, we want to make your experience online satisfying and safe. This Privacy Policy covers PayScale's treatment of Personally Identifiable Information that is collected when you are on the PayScale site, and when you use PayScale's services. This policy also covers PayScale's treatment of any Personally Identifiable Information that PayScale receives from employers and our business partners. This policy does not apply to the privacy practices of companies or sites that PayScale does not own, or to individuals that PayScale does not employ. 
 
@@ -25,6 +23,7 @@ Our primary purpose for collecting Personally Identifiable Information is to pro
   * If you choose to use our email service to tell a friend about our site, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. PayScale collects this information for the sole purpose of sending this one-time email. PayScale does not store this information.
   * If you use the PayScale Advice forum on this Web site, any personal information submitted will be removed by PayScale, however we do not guarantee that personally identifiable information you submit will be identified and removed. You should be aware that any personally identifiable information you submit has the potential to be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in this forums.
   * We post customer testimonials on our web site. PayScale will not post any personally identifiable information in a customer testimonial and always obtains the customer's consent prior to posting the testimonial.
+  * If you post a comment to a blog on this Web site you should be aware that any personally identifiable information you submit can be read, collected, or used by other users of these blogs, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these blogs.
 
 
 
@@ -86,7 +85,7 @@ This web site is hosted in the United States. If you are visiting from the Europ
 **Your Use of PayScale Information**
 
   * In order to enable the attribute-matching features of the PayScale system, users running a PayScale Report(tm) receive limited access to questionnaire data in the form of generic peer profiles. While these profiles include data on job, compensation, geographic location, skills, experience, education and demographic information, the intent of the PayScale service is that this information is not traceable to any particular user. Use of the system signifies an understanding of the source of the data and an agreement on the part of the user to both access and share anonymous user data.
-  * In order to enable the attribute-matching features of the PayScale Business Services, users running searches on PayScale MarketRate and other Business Services Platforms are asked to enter employee and job-specific profile information. While these profiles include data on employee skills, tasks, experiences, organization size, geographic location, minimum requirements for jobs, compensation, skills, experience, education and demographic information, the intent of the PayScale service is that this information is not traceable to any particular employer or employee. Use of the system signifies an understanding of the source of the data and an agreement on the part of the user to both access and share anonymous user data.
+  * In order to enable the attribute-matching features of the PayScale Business Services, users running searches on PayScale Professional and other Business Services Platforms are asked to enter employee and job-specific profile information. While these profiles include data on employee skills, tasks, experiences, organization size, geographic location, minimum requirements for jobs, compensation, skills, experience, education and demographic information, the intent of the PayScale service is that this information is not traceable to any particular employer or employee. Use of the system signifies an understanding of the source of the data and an agreement on the part of the user to both access and share anonymous user data.
   * 
 
 
@@ -137,4 +136,4 @@ Seattle, Washington 98104 **
 
 TRUSTe, an industry watchdog organization that monitors privacy and security policies of its members to act as an agent to help resolve your issue. In the event that you are still unable to resolve your concerns, you can send email directly to: [privacy@payscale.com](mailto:privacy@payscale.com). PayScale is committed to achieving a resolution of your privacy concerns.
 
-**Last Updated: October, 2008**
+**Last Updated: November, 2008**
