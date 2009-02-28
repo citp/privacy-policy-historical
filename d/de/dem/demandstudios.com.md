@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the demandstudios.com privacy policy that was archived on 2008-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080709040639id_/http%3A//www.demandstudios.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandstudios.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228170306id_/http%3A//www.demandstudios.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | DemandStudios.com
+# Privacy Policy | Demand Studios
 
-Demand Studios Privacy and Information Security Policy
+Join the Studio Now!
 
-**Effective Date: September 12, 2007**
+**Effective Date: February 19, 2009**
 
 This Privacy and Information Security Policy (the "Policy") discusses the personally identifying information ("PII") that we collect about you when you use our website http://www.demandstudios.com/ (the “Site”). This Policy applies only to information collected by us or submitted by you through the Site, and not to any information collected or submitted outside of the Site.
 
-**Who We Are. We are Demand Media, Inc. ("Demand Studio," "Site," "we," "us," or "our").** Demand Studios is Demand Media’s production house. We recruit freelance writers and videographers, match them with content assignments, and offer them the opportunity to reach a passionate audience of millions and make money for the articles and videos they create.. In conducting our business, we collect information, including PII, about the individuals who use the Site.
+**Who We Are. We are Demand Media, Inc. ("Demand Studio," "Site," "we," "us," or "our").** Demand Studios is Demand Media’s production house. We recruit freelance writers, videographers editors, transcribers, and other skilled individuals, and match them with content assignments, and offer them the opportunity to reach a passionate audience of millions and make money for the articles and videos they create or contribute. In conducting our business, we collect information, including PII, about the individuals who use the Site.
 
 **This Policy and the Terms of Use.** This Policy is part of and incorporated into the Demand Studios [Terms of Use](https://web.archive.org/terms-of-use.html) (collectively, the “Terms”).
 
@@ -16,7 +16,7 @@ This Privacy and Information Security Policy (the "Policy") discusses the person
 
 1\. INFORMATION YOU GIVE US
 
-We collect any information you enter on the Site. The information that we collect varies depending upon how you use our Site. Our application process to become a writer for Demand Studios asks that you provide us with PII such as your name, phone number, address and e-mail address. If we accept your application, we will also ask you for information necessary to pay you electronically, which may include information about your PayPal account, as well as information necessary to report your earnings to the appropriate tax authorities, such as your social security number.
+We collect any information you enter on the Site. The information that we collect varies depending upon how you use our Site. Our application process to participate in Demand Studios asks that you provide us with PII such as your name, phone number, address and e-mail address. If we accept your application, we will also ask you for information necessary to pay you electronically, which may include information about your PayPal account, as well as information necessary to report your earnings to the appropriate tax authorities, such as your social security number.
 
 2\. AUTOMATIC INFORMATION COLLECTION
 
@@ -38,9 +38,9 @@ We collect any information you enter on the Site. The information that we collec
 
 3.1 Use of PII.
 
-(a) We use your PII for such purposes as responding to your requests; operating the Site, the Demand Studios Writer Program and the Demand Studios Filmmaker Program; processing your application to contribute to Demand Studios; verifying the accuracy of the information you have submitted to us in the application process; discussing your qualifications and work history with any references you give to us, providing you with advertising and non-advertising content that we believe would be of interest to you; enforcing our rights and the rights of third parties, and investigating and ensuring compliance with the [Terms](https://web.archive.org/terms-of-use.html) and any other contract to which you and Demand Media are party. 
+(a) We use your PII for such purposes as responding to your requests; operating the Site and, the Demand Studios programs; processing your application to contribute to Demand Studios; verifying the accuracy of the information you have submitted to us in the application process; discussing your qualifications and work history with any references you give to us, providing you with advertising and non-advertising content that we believe would be of interest to you; enforcing our rights and the rights of third parties; paying you electronically and preparing all necessary tax documentation; and investigating and ensuring compliance with the [Terms](https://web.archive.org/terms-of-use.html) and any other contract to which you and Demand Media are party. 
 
-(b) If are accepted as a Demand Studios contributor, we may use your personal and biographical information to promote and market the contributions you submit to us. This promotion and marketing may include the public display of your name and other personal information adjacent to your published materials on the Internet. 
+(b) If you are accepted as a Demand Studios contributor, we may use your personal and biographical information to promote and market the contributions you submit to us. This promotion and marketing may include the public display of your name and other personal information adjacent to your published materials on the Internet. 
 
 (c) We also may use your PII to contact you regarding your application, such as to inform you that we have an assignment in which you may be interested, or to forward to you comments about the content you have provided us. We may also email newsletters and similar communications about the Site, the Writers Program and the Filmmakers Program. 
 
@@ -79,7 +79,7 @@ We share information with third parties, but only as described in this Section 4
 
 6\. LINKS
 
-The Site contains links to other sites. We are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of every web site that collects your personally identifiable information. This Policy applies only to information collected by the Site. For example, this Policy does not apply to information collected when you are visiting our sister site, [www.expertvillage.com](http://www.expertvillage.com/). Expert Village has its own [privacy policy](http://www.expertvillage.com/privacy.htm) which applies to information collected on the Expert Village web site.
+The Site contains links to other sites. We are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of every web site that collects your personally identifiable information. This Policy applies only to information collected by the Site. For example, this Policy does not apply to information collected when you are visiting our sister site, [www.expertvillage.com](http://www.expertvillage.com/). Expert Village has its own [ privacy policy](http://www.expertvillage.com/privacy.htm) which applies to information collected on the Expert Village web site.
 
 7\. CHOICE
 
@@ -99,4 +99,4 @@ We reserve the right to send you customary business communications such as accep
 
 Demand Studios is a trademark or registered trademark of Demand Media, Inc. in the United States and other countries.
 
-Copyright © 2007. Demand Media, Inc.
+Copyright © 2009. Demand Media, Inc. All Rights Reserved.
