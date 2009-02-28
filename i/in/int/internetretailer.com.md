@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetretailer.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014053id_/http%3A//www.internetretailer.com/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetretailer.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228181357id_/http%3A//www.internetretailer.com/privacyPolicy.asp) for the most accurate reproduction.*
 
 # InternetRetailer.com - Press Releases
 
