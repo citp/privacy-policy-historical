@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cottages4you.co.uk privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912113544id_/http%3A//www.cottages4you.co.uk/c4y%3Faction%3Dxsl%26view%3Dxsl%26xsltId%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottages4you.co.uk privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228131314id_/http%3A//www.cottages4you.co.uk/sites/cottages4you/pages/sec_priv.aspx) for the most accurate reproduction.*
 
-# Cottage Holidays in the UK and Europe at cottages4you.co.uk
-
-| 
+# Security and Privacy Policy | cottages4you
 
 **BY USING THIS WEB SITE, YOU SIGNIFY YOUR AGREEMENT TO HOLIDAY COTTAGES GROUP LIMITED’S (HCG'S) PRIVACY POLICY. IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, PLEASE DO NOT USE THIS WEB SITE. YOUR CONTINUED USE OF HCG'S WEB SITES FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES.**
 
@@ -12,21 +10,23 @@ HCG has reviewed its policies, processes, procedures and practices to ensure tha
 
 **The purpose of this document is to inform you of the policies that have been put in place to protect your interests in this respect.**
 
- **1\. Fair and lawful information-handling**
+**1\. Fair and lawful information-handling**
 
 We will process all data that we collect and hold on you fairly and in accordance with applicable law. As further explained in this privacy policy, we will ensure the quality and security of your data (even if the data are transferred to other companies in the UK, Europe or elsewhere); and we will fully respect your rights, interests and fundamental freedoms with regard to your data.
 
- **2\. Legitimate purposes**
+**2\. Legitimate purposes**
 
 We will only collect, record, process and store data which are needed to fulfil our contractual obligations towards our Customers, and/or our affiliated or related entities, associates, or partners, or any company or companies within the Wyndham Worldwide Group of Companies, and the customers of such affiliated or related entities, associates or partners, or any company or companies within the Wyndham Worldwide Group of Companies; to serve other legitimate business interests such as credit assessment or marketing; or to comply with legal requirements.
 
-We may disclose to our affiliated or related entities, associates, or partners, or any company or companies within the Wyndham Worldwide Group of Companies, or to third parties authorised by us, such information as may be necessary to provide you with products and services you have requested or for the purpose of verification of details relating to your data held by us for legitimate purposes. 
+We may disclose to our affiliated or related entities, associates, or partners, or any company or companies within the Wyndham Worldwide Group of Companies, or to third parties authorised by us, such information as may be necessary to provide you with products and services you have requested or for the purpose of verification of details relating to your data held by us for legitimate purposes.
 
 **3\. Data quality**
 
 We will employ effective procedures and safeguards to ensure that data we hold on you are adequate, relevant and not excessive in relation to the purposes for which they were obtained, as well as accurate and up-to-date. Where we become aware of any inaccuracies in data we hold, we will correct and, where appropriate, delete incorrect data. 
 
-Retention periods are in place to ensure that data are only stored whilst they are required for the purposes in question or to meet legal and regulatory requirements. Where data are no longer required, we will ensure that they are disposed off in a secure manner. **4\. Information to you**
+Retention periods are in place to ensure that data are only stored whilst they are required for the purposes in question or to meet legal and regulatory requirements. Where data are no longer required, we will ensure that they are disposed off in a secure manner. 
+
+**4\. Information to you**
 
 When we collect data from you, we will identify ourselves and inform you of the purpose(s) for which we are collecting data. If we are collecting data from you on behalf of our affiliated or related entities, associates or partners, or any company or companies within the Wyndham Worldwide Group of Companies, we will identify the affiliated or related entity, associate or partner, or the company or companies within the Wyndham Worldwide Group of Companies (the "controller" in terms of the European data protection regime) and explain that we are acting as the agent (or "processor") for that entity or organisation. If our affiliated or related entity, associate or partner, or any company or companies within the Wyndham Worldwide Group of Companies, is a non-European company which has appointed a representative in Europe in accordance with the Directives, we will also inform you of the identity of that representative (which may be HCG). If we have obtained data on you other than directly from you, we will inform you of this as soon as practicable after we have entered data in our files or computers (unless you were already aware of the fact).
 
@@ -34,9 +34,7 @@ We may also record or monitor telephone calls to and from HCG or to or from any 
 
 **5\. When will we seek your prior consent?**
 
-We will go further and ask for your prior consent in the following circumstances:
-
-a credit check on you; 
+We will go further and ask for your prior consent in the following circumstances: a credit check on you;
 
 before we pass on any of your Personal Data to other companies for direct marketing purposes, by offering you the opportunity to object to such disclosures either through a "tick-box" or an "opt out" box on your purchase order form or booking form or membership application or enrolment form, or by asking you to notify us by telephone, fax or e-mail. (If you use more than one e-mail address to communicate with us, please notify us of each e-mail account you use.); or 
 
@@ -46,14 +44,9 @@ if we process sensitive data on you under any contract with you (or under a cont
 
 We will not normally seek data on your racial or ethnic origins, political opinions, religious or other beliefs, trade-union membership, physical or mental health, sex life or criminal convictions. When we do collect such data, it will be limited to data which are:
 
-  •  required to be kept by law;  
-  •  needed for legal proceedings or to establish, exercise or defend legal rights   
-     (including protection against fraud);  
-  •  clearly and strictly necessary to fulfil a contract between you and us (or   
-     between you and a company we represent); or  
-  •  needed to protect your vital interests or the vital interests of another person   
-     (for instance, if medical data are urgently required after an accident and you   
-     cannot give your consent). 
+  * required to be kept by law needed for legal proceedings or to establish, exercise or defend legal rights(including protection against fraud) clearly and strictly necessary to fulfil a contract between you and us(or between you and a company we represent) or needed to protect your vital interests or the vital interests of another person (for instance, if medical data are urgently required after an accident and you cannot give your consent).
+
+
 
 **7\. Your rights**
 
@@ -67,7 +60,7 @@ Where any discrepancies are discovered following your enquiry, we will take imme
 
 We will only provide access to data on you to those of our employees who need such access in order to carry out any necessary processing. We have taken appropriate steps to ensure the security of data, whether it is stored in computer systems, paper files or other storage media. We expect the same high standards of security and confidentiality of our affiliated or related entities, associates or partners, agents or subcontractors, or any company or companies within the Wyndham Worldwide Group of Companies we engage to process data for us.
 
- **9\. Transfer of information outside the EEA**
+**9\. Transfer of information outside the EEA**
 
 Data on you may, on occasion, be transferred to HCG's facilities, or to any company or companies within the Wyndham Worldwide Group of Companies, or to its or their affiliated or related entities, associates or partners, or to data processing agencies ("processors") or third parties authorised by us, outside the EU or the EEA for analysis, technical processing or other legitimate purposes. The countries where such other facilities or companies are situated may have no data protection legislation, or laws which are less rigorous than the legislation introduced by the Member States of the EU and the EEA. In such cases, we will ensure that your rights with regards to any such processing and your data will still be adequately protected. 
 
@@ -81,7 +74,7 @@ We, and/or our affiliated or related entities, associates or partners, or any co
 
 We, and/or our affiliated or related entities, associates or partners, or any company or companies within the Wyndham Worldwide Group of Companies, or third parties authorised by us, will always act according to your wishes and preferences. Whenever we, and/or our affiliated or related entities, associates or partners, or any company or companies within the Wyndham Worldwide Group of Companies, or third parties authorised by us, directly market to you by telephone or fax, we, and/or our affiliated or related entities, associates or partners, or any company or companies within the Wyndham Worldwide Group of Companies, or third parties authorised by us, will comply beforehand with the requirements of applicable national legislation under and by which you have recorded your desire not to be contacted by telephone and/or fax, as the case may be, for the purposes of direct marketing by any organisation. If you have notified such desire according to the laws of your country of domicile, then we, and/or our affiliated or related entities, associates or partners, or any company or companies within the Wyndham Worldwide Group of Companies, or third parties authorised by us, will not call or fax you unless you subsequently notify us directly (either in writing, or by telephone, fax or e-mail) that this no longer applies or at least does not apply to our affiliated or related entities, associates or partners, or any company or companies within the Wyndham Worldwide Group of Companies, or third parties authorised by us. (If you use more than one e-mail address to communicate with us, please notify us of each e-mail account you use.)
 
- **11\. Internet**
+**11\. Internet**
 
 HCG is the sole controller in the EEA/EU Member States of all data held in relation to your use of our Web sites and all processing of data relating to your requirements and requests is therefore subject to and in accordance with the EU Directives and subject additionally to the data protection laws and regulations of your country of domicile. If no such laws and regulations exist in your country of domicile, then all processing of data relating to your requirements and requests is subject to United Kingdom data protection laws and regulations only. Where any local country's laws and regulations relating to data protection and privacy conflict with or are inconsistent with the EU Directives, then the EU Directives shall prevail.
 
@@ -103,7 +96,7 @@ An IP address is a unique number that is automatically assigned to your computer
 
 HCG and/or its affiliated or related entities, associates or partners, or any company or companies within the Wyndham Worldwide Group of Companies, collect IP addresses for the purposes of system administration, to report aggregated information to Providers, or to other third parties authorised by us, and to audit the use of our Web sites. When Customers request pages from those Web sites of HCG, and/or its affiliated or related entities, associates or partners, or any company or companies within the Wyndham Worldwide Group of Companies, and/or Providers, or other third parties authorised by us, our Web servers log the Customers' IP addresses. We do not normally link IP addresses to anything personally identifiable, which means that a Customer's session will be logged, but the Customer will remain anonymous to us. We can and will use IP addresses to identify a Customer when we feel it is necessary to enforce compliance with our Web sites' terms of use or terms of service, or to protect our service, our Web sites and/or those of our affiliated or related entities, associates or partners, or any company or companies within the Wyndham Worldwide Group of Companies, or Providers, or other third parties authorised by us, our other Customers or the customers of our affiliated or related entities, associates or partners, or any company or companies within the Wyndham Worldwide Group of Companies, or Providers, or other third parties authorised by us. 
 
-Use of Cookies
+**Use of Cookies**
 
 What are cookies? Cookies are small pieces of information that a Web site sends to your computer for record-keeping purposes, which information is stored in a file on your computer. Cookies make Web-surfing easier for you by saving your preferences so that, for example, we can use the saved information to facilitate your use of our Web sites when you return to them. Cookies do not tell us your individual identity unless you have chosen to provide it to us. We never save passwords or credit card information in cookies. The use of cookies is an industry standard and, as such, you will find that most major Web sites use them.
 
@@ -115,7 +108,7 @@ HCG and/or its affiliated or related entities, associates or partners, or any co
 
 You may occasionally receive cookies from Providers or other third parties authorised by us. HCG and/or its affiliated or related entities, associates or partners, or any company or companies within the Wyndham Worldwide Group of Companies, do not control these cookies. The use of advertising cookies sent by third party Web servers is standard in the Internet industry.
 
- **With whom does HCG share my information?**
+**With whom does HCG share my information?**
 
 As a general rule, HCG will not disclose any Personal Data that you submit to us about you in a manner that connects you with the Personal Data, except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. The following describes some of the ways that your Personal Data may be disclosed:
 
@@ -127,7 +120,7 @@ We may monitor resort traffic patterns and usage of our Web sites to help us dev
 
 Other: We may also disclose account data of Customers in special cases when we have reason to believe that disclosing this data is necessary to identify, contact or bring legal action against someone who may be violating HCG's terms of use or terms of service, or may be causing injury to or interference (either intentionally or unintentionally) with any of HCG's rights or property, our other Customers, or anyone else. HCG may disclose or access account data when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services to our Customers.
 
- **How can you control the usage of information?**
+**How can you control the usage of information?**
 
 In the event that you change your mind or some Personal Data changes (such as your e-mail address), we will provide a way to correct, update or remove the Personal Data that you give us. We also give you the opportunity to control the communications that we direct to you. We will always seek your consent before disclosing Personal Data relating to you for the making of offers by our affiliated or related entities, or any company or companies within the Wyndham Worldwide Group of Companies, or Providers, or other third parties authorised by us, by informing you of an intention to process your Personal Data for such purposes, and offering you a possibility to "opt out" of such use of your Personal Data, in a form or document returned to us or by notifying us by telephone, fax or e-mail. (If you use more than one e-mail address to communicate with us, complete this form for each e-mail account you use.) If a Customer wishes to update Personal Data or objects to any usage provided herein for any reason, he/she may e-mail the requested change to: 
 
@@ -137,7 +130,7 @@ You are entitled to receive a copy of any data held by us on you in accordance w
 
 Where any discrepancies are discovered following your enquiry, we will take immediate steps to validate and, where appropriate, correct our records. We will confirm the actions taken in writing to you within an appropriate period of time in accordance with applicable national legislation, but in any event no more than 40 days after receiving your request to amend our records.
 
- **What happens when you link to a third party Web site?**
+**What happens when you link to a third party Web site?**
 
 You should be aware that when you are on HCG 's and/or its affiliated or related entities', or any company's or companies' within the Wyndham Worldwide Group of Companies, Web sites you could hyperlink or be directed to other Web sites that are beyond our control and/or outside our service. For example, if you "click" on a banner advertisement or an HCG Web site search result, the "click" may transfer you off the HCG Web site. These other Web sites may include Web sites of Providers, or other third parties authorised by us, that may use HCG's and/or its affiliated or related entities', or any company's or companies' within the Wyndham Worldwide Group of Companies, logos as part of a co-branding agreement. These other Web sites may send their own cookies to Customers, and collect or solicit data and Personal Data.
 
@@ -147,7 +140,7 @@ Please keep in mind that whenever you give out information on-line (for example,
 
 We, and/or our affiliated or related entities, or any company or companies within the Wyndham Worldwide Group of Companies, will not send you e-mails that you do not want, but we cannot guarantee that Providers, or other third parties authorised by us, to whom your details are sent will not do so.
 
- **Is my information secure from others using the HCG Web sites?**
+**Is my information secure from others using the HCG Web sites?**
 
 The security of all data associated with our Customers is an important concern to us. We exercise a high degree of care, skill and due diligence in providing secure transmission of your data and Personal Data from your computer to our Web servers. Unfortunately, no data transmission over the Internet is 100% secure. As a result, while we strive to protect your data and Personal Data, HCG and/or its affiliated or related entities, or any company or companies within the Wyndham Worldwide Group of Companies, cannot ensure and do not warrant the security of any information you transmit to us or from our on-line products or services, and you do so at your own risk. Once we receive your transmission, HCG uses industry standard efforts to safeguard the confidentiality of your data and Personal Data, such as firewalls and secure servers. When you use our Web sites for transactional purposes the secure server software – Secure Socket Layers ("SSL") – encrypts all credit card details you input before it is sent to us. We use Verisign as an officially recognised trusted third party to authenticate and certify the security of our Web sites and to encrypt your credit card details. However, "perfect security" does not exist on and in the use of the Internet.
 
