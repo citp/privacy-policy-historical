@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinebootycall.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050829id_/http%3A//www.onlinebootycall.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinebootycall.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228231937id_/http%3A//www.onlinebootycall.com/privacy_policy.php) for the most accurate reproduction.*
 
-# OnlineBootyCall.com - Finding the pieces.... without the Puzzle
+# OnlineBootyCall.com - Online Dating Personals for Singles who Love to Date and Booty Call
 
 This policy is effective as of March, 17, 2008.
 
