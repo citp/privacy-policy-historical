@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the plumbersurplus.com privacy policy that was archived on 2008-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080725050018id_/http%3A//www.plumbersurplus.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plumbersurplus.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228152335id_/http%3A//www.plumbersurplus.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - PlumberSurplus.com
 
 [Home](https://web.archive.org/) > Privacy Policy 
 
-[](https://web.archive.org/Promotions.aspx#promo7)
+[ ](https://web.archive.org/Promotions.aspx)
 
 #### Overview
 
