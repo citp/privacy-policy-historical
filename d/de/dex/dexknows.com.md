@@ -1,17 +1,43 @@
-> *The following text is extracted and transformed from the dexknows.com privacy policy that was archived on 2008-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080705092017id_/http%3A//www.rhd.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dexknows.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228063459id_/http%3A//www.dexknows.com/info/privacy_policy.asp) for the most accurate reproduction.*
 
-# R.H. Donnelley Privacy Policy
+# DexKnows - Privacy Policy
 
-Copyright 2006. R.H. Donnelley Inc.
+Last Updated February 24, 2009
 
-A. General 
+Dex Media, Inc., R.H. Donnelley Publishing & Advertising, Inc. and R.H. Donnelley Publishing & Advertising of Illinois Partnership (collectively, "Dex") understand and respect your concerns about privacy. This notice describes Dex's privacy policy as it pertains to the website at www.DexKnows.com (the "Website"). We may from time-to-time revise this privacy policy, and the date of last revision will be available at the top of this page, so please be sure to check back periodically. **By visiting the Website, you are acknowledging and accepting this Privacy Policy. Your continued use of the Website after changes have been posted to the Privacy Policy will constitute your acceptance of such changes**.
 
-This Privacy Policy applies only to the privacy of users of the [www.rhd.com](http://www.rhd.com/), [www.bestredyp.com](http://www.bestredyp.com/), [www.dexknows.com](http://www.dexknows.com/), [www.advertisewithdex.com](http://www.advertisewithdex.com/), [www.dexmedia.com](http://www.dexmedia.com/), [www.rhdyp.com/blue](http://www.rhdyp.com/blue), [www.embarqyp.com](http://www.embarqyp.com/), [www.cmrconnection.com](http://www.cmrconnection.com/), [www.dexnational.com](http://www.dexnational.com/), [www.rhdforteachers.com](http://www.rhdforteachers.com/), [www.chicagob2b.com](http://www.chicagob2b.com/), [www.dexonline.com](http://www.dexonline.com/), [CHICAGOLANDYP.COM](http://www.chicagolandyp.com/), [ ILLINOISAREAYP.COM](http://illinoisareayp.com/), [PEORIAYP.COM](http://peoriayp.com/), [SPRINGFIELDYP.COM](http://springfieldyp.com/), [ROCKFORDAREAYP.COM](http://rockfordareayp.com/), [CHAMPAIGNYP.COM](http://champaignyp.com/), [QUADCITIESYP.COM](http://quadcitiesyp.com/) and [METROEASTYYP.COM](http://metroeastyp.com/) Web sites (collectively referred to as the “Site”).  This privacy policy outlines the information R. H. Donnelley Inc., Dex Media, Inc. and their affiliates (collectively the “Company,” “we” or “us”), will collect during your visit to the Site and how we will use the information. ****   This Privacy Policy does not apply to any other activities of the Company. 
+**What information we collect:** Dex may ask for and collect from you personally identifiable information at certain points throughout the Website. Depending on the information and/or services you request, you may be asked to provide your name, email address and other information. Once you provide your personal information, you are not anonymous to Dex.
 
-B. Internet Privacy and Information Collected 
+In addition to the information you knowingly provide, Dex collects the domain names and IP addresses of its visitors, along with usage statistics (e.g., types of web browsers and operating systems used) and browsing history. This data is used to more efficiently operate Dex's business, promote our products and services and administer the Website. Dex may combine this information with the personally identifiable information it collects.
 
-We respect your right to privacy.  We do not collect personally identifiable information (for example your name, address, telephone number or e-mail address) about you from the Site unless you voluntarily provide it to us.  During your visit to the Site, we will collect non-personally identifiable information regarding your usage of the Site.  We use this information to monitor Site usage, enhance the Site and as otherwise provided in this Privacy Policy or on the Site. You may visit the Site without providing any personally identifiable information.
+**How Dex uses your information:** Dex may use your information:
 
-C. Personal Information 
+  * To provide you with personalized content. 
+  * To process and respond to inquiries.
+  * For the purposes for which you provided the information.
+  * To improve the content and navigability of the Website.
+  * To alert you to new Website features, special events, products and services, and to deliver newsletters from which you may opt out.
+  * To enforce the [Terms of Use](http://www.dexknows.com/info/site_use.asp) and/or the [Code of Conduct](http://www.dexknows.com/info/code_conduct.asp).
+  * In the future, we may sell some or all or our assets. In such transactions, customer information generally is one of the transferred business assets. In the event of a sale of our assets including our database, customer information will be transferred. We will require buyers to honor our privacy policy.
 
-When you provide personal information for a specific purpose, we generally use it for that purpose.  Examples of personal information you may be asked to provide include your name, age, e-mail address, phone number, zip code, mailing address or mother’s maiden name. We may also use your personally identifiable information in a manner s
+
+
+**Information Sharing with Unaffiliated Third Parties:** Dex may disclose your personally identifiable information to another entity (i) for purposes of outsourcing one or more of the functions described in the previous section; (ii) to confirm or update information provided by you; (iii) to inform you of important information; and/or (iv) as a part of a sale of assets as described in the previous section. We may also share your information in response to a subpoena, legal order or official request, when we believe you have acted in violation of the [Terms of Use](http://www.dexknows.com/info/site_use.asp) or the [Code of Conduct](http://www.dexknows.com/info/code_conduct.asp), or when we believe that doing so may protect your safety or the safety of others.
+
+**Information Sharing with Affiliated Companies:** We may share your personally identifiable information with other companies in the R.H. Donnelley family, business partners and network partners, and will require the recipient to comply with the provisions of this privacy policy.
+
+**Sharing and use of de-identified information:** Information that is de-identified (stripped of any information that could be used to identify you) may be used by Dex for any reason and shared freely with affiliates, partners and other third parties. This information is usually aggregated (combined with information from many other users), and may include information such as traffic patterns, trends in connection with various types of inquiries, and other information.
+
+**How we collect information:** In addition to the methods described above, we may also collect information using cookies, web beacons or similar technologies. These methods permit us to collect various types of information, including which pages you visit, which of our email messages you read, and other information.
+
+**How we protect information:** Dex attempts to protect against the loss, misuse and alteration of your personal information. Our servers are protected by reasonable physical and electronic security measures.
+
+**How you can view or update your personal information:** To ensure that you have as much control over your personally identifiable information as possible, you may update your information by contacting us at [customercareemail@dexknows.com](mailto:customercareemail@dexknows.com). We will use reasonable efforts to process any change you make; provided, however, that requests to delete information are subject to Dex's internal reporting and retention policies and all applicable legal obligations.
+
+**Targeted Advertising:** We use third-party advertising companies to serve ads when you visit our website. Some of these companies may use information (not including your name, address, e-mail address or telephone number) about your visits to Dex and other websites in order to provide advertisements about goods and services that may be of interest to you. To learn more about this practice, its benefits, or about your choice to opt-out of this practice, see <http://www.networkadvertising.org/optout_nonppii.asp>.
+
+**Children:** This Website is not directed toward children under 13 years of age nor does Dex knowingly collect information from children under 13. If you are under 13, please do not submit any personally identifiable information to Dex.
+
+**Links:** The Website may contain links to third-party websites. Dex is not responsible for the privacy practices or the content of such websites.
+
+**Contacts:** If you have any questions, concerns, or suggestions regarding this privacy policy, please contact us at [customercareemail@dexknows.com](mailto:customercareemail@dexknows.com).
