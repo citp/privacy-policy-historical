@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcuniverseonline.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152017id_/http%3A//www.station.sony.com/sonyonline/privacy.vm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcuniverseonline.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228210703id_/http%3A//www.station.sony.com/sonyonline/privacy.vm) for the most accurate reproduction.*
 
 # Station.com
 
