@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluekai.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218210824id_/http%3A//www.bluekai.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluekai.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228191111id_/http%3A//www.bluekai.com/privacy.html) for the most accurate reproduction.*
 
 # BlueKai :: Privacy
 
@@ -44,7 +44,7 @@ In addition, information in our possession or control, including Preference Data
 
 We provide multiple ways for you to opt out of our services.
 
-We make available a Blue Kai “opt-out” cookie that you may download to your browser. This cookie, when installed on your browser, will prevent us from collecting Preference Data on that browser. You can learn more about our opt-out cookie [here](https://web.archive.org/web/20081218210824id_/http%3A//www.bluekai.com/consumers.html). 
+We make available a Blue Kai “opt-out” cookie that you may download to your browser. This cookie, when installed on your browser, will prevent us from collecting Preference Data on that browser. You can learn more about our opt-out cookie [here](https://web.archive.org/web/20090228191111id_/http%3A//www.bluekai.com/consumers.html). 
 
 You may also opt out of our collection of Preference Data using the NAI's opt-out tool. The NAI's opt-out tool allows you to opt out of our collection of Preference Data, as well as the data collection and preference-based ad programs of other NAI members. You may access the NAI opt-out tool [here](http://www.networkadvertising.org/).
 
