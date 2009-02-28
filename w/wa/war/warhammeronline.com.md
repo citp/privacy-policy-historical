@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warhammeronline.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231051615id_/http%3A//www.ea.com/global/legal/privacy_noseal.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warhammeronline.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228162254id_/http%3A//www.ea.com/global/legal/privacy_noseal.jsp) for the most accurate reproduction.*
 
 # EA Online Privacy Policy
 
