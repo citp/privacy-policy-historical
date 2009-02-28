@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zebra.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152017id_/http%3A//www.zebra.com/id/zebra/na/en/index/about_zebra/our_company/compliance/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zebra.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228093952id_/http%3A//www.zebra.com/id/zebra/na/en/index/about_zebra/our_company/compliance/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -75,7 +75,7 @@ Contact
 If you have any questions about this Privacy Statement or our privacy practices, please contact us at:   
   
   
-**Zebra Technologies International, LLC  
+**Zebra Technologies Corporation  
 International Headquarters **  
 Attn: Legal Department  
 333 Corporate Woods Parkway  
