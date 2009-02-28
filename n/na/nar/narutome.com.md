@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the narutome.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216033245id_/http%3A//www.narutome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narutome.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228062241id_/http%3A//www.narutome.com/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy - NarutoEpisodes
 
