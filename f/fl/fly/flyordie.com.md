@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyordie.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219083120id_/http%3A//www.flyordie.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyordie.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228153222id_/http%3A//www.flyordie.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statment - FlyOrDie.com
 
@@ -41,5 +41,5 @@ This web site contains links to other sites. Please be aware that FlyOrDie is no
 
 Last updated: August 7, 2008 
 
-Copyright © 2008 [FlyOrDie.com](http://www.flyordie.com/ "Flyordie Online Games"). All rights reserved.  
+Copyright © 2009 [FlyOrDie.com](http://www.flyordie.com/ "Flyordie Online Games"). All rights reserved.  
 FlyOrDie © is a registered trademark of Solware Ltd.
