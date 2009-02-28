@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfspot.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217085648id_/http%3A//www.perfspot.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfspot.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228160534id_/http%3A//www.perfspot.com/privacy.asp) for the most accurate reproduction.*
 
 # PerfSpot.com
 
@@ -18,7 +18,7 @@ You are informed that any photograph, image, graphic, video or other content pos
 
   
   
-2\. Collected Information  
+2\. Información recogida  
   
 
 
@@ -32,7 +32,7 @@ d. Log File Data: When Users log-in to their PerfSpot account, our servers will 
 
   
   
-3\. Information Uses  
+3\. Usos de la información  
   
 
 
@@ -43,7 +43,7 @@ d. PerfSpot uses clear .GIFs and log file data to: (i) provide custom content an
 
   
   
-4\. Disclosure of Information  
+4\. Divulgación de información  
   
 
 
@@ -55,7 +55,7 @@ e. PerfSpot may release any information available if required to do so by law, o
 
   
   
-5\. Decline to Accept  
+5\. Declinar aceptar  
   
 
 
@@ -63,7 +63,7 @@ You may, of course, decline to submit or allow the submission of personally iden
 
   
   
-6\. Links and Third Party Advertisers  
+6\. Vínculos y anunciantes terceros  
   
 
 
@@ -73,7 +73,7 @@ PerfSpot does not provide any personally identifiable information to these Adver
 
   
   
-7\. Data Security  
+7\. Seguridad de los datos  
   
 
 
@@ -81,7 +81,7 @@ In an effort to provide maximum protection of User's privacy, PerfSpot routinely
 
   
   
-8\. Children's Privacy  
+8\. Intimidad de los niños  
   
 
 
@@ -89,7 +89,7 @@ PerfSpot complies with the Children's Online Privacy Protection Act of 1998 (COP
 
   
   
-9\. Transfer of Rights  
+9\. Transferencia de derechos  
   
 
 
@@ -99,23 +99,23 @@ In the unlikely event of a bankruptcy, assignment for the benefit of creditors, 
 
   
   
-10\. Contact Information  
+10\. Información de contacto  
   
 
 
-You may contact PerfSpot Customer Service at:
+Puedes ponerte en contacto con Atención al Cliente de PerfSpot en:
 
 PerfSpot.com, LLC  
 Attention: Customer Service  
 4800 N. Scottsdale Rd, Suite 4500  
 Scottsdale, Arizona 85251 USA  
-Email: support@perfspot.com  
-Toll Free (USA): 1-888-311-PERF (311-7373)  
-Direct Dial (International): (1)602-273-3758
+Correo electrónico: support@perfspot.com  
+(USA): 1-888-311-PERF (311-7373)  
+Directo (Internacional): (1)602-273-3758
 
   
   
-11\. Changes and Updates  
+11\. Cambios y actualizaciones  
   
 
 
@@ -123,7 +123,7 @@ This Privacy Policy may be revised at will. Such changes, edits, revisions, and/
 
   
   
-12\. Communications  
+12\. Comunicaciones  
   
 
 
@@ -131,7 +131,7 @@ On occasion as deemed necessary by PerfSpot (daily, weekly, monthly, etc.), Perf
 
   
   
-13\. Presiding Language  
+13\. Lengua De Presidencia  
   
 
 
