@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opinionresearchpanel.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231033905id_/http%3A//www.opinionresearchpanel.com/leads/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionresearchpanel.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228152828id_/http%3A//www.opinionresearchpanel.com/leads/privacy.php) for the most accurate reproduction.*
 
 # opinionresearchpanel.com
 
