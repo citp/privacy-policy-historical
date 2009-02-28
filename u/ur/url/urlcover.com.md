@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urlcover.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517084146id_/http%3A//urlcover.com/index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urlcover.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228061924id_/http%3A//urlcover.com/index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
 
 # Free URL Redirection Service by UrlCover.com
 
