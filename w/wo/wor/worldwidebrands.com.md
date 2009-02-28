@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwidebrands.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154659id_/http%3A//www.worldwidebrands.com/wwb/priv_index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwidebrands.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228161359id_/http%3A//www.worldwidebrands.com/wwb/priv_index.asp) for the most accurate reproduction.*
 
 # Worldwide Brands Privacy Policy
 
