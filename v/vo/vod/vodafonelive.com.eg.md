@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafonelive.com.eg privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044215id_/http%3A//www.vodafone.com.eg/db/JSP/personal/dynamic/en/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafonelive.com.eg privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228114204id_/http%3A//www.vodafone.com.eg/db/JSP/personal/dynamic/en/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
