@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the esoft.web.id privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216052325id_/http%3A//www.esoft.web.id/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esoft.web.id privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301034425id_/http%3A//www.esoft.web.id/privacy-statement.html) for the most accurate reproduction.*
 
 # Esoft.Web.Id - Esoft Download Free Software Privacy Statement - Free Software Download and Review @Esoft.Web.id
-
-s p o n s o r e d   l i n k s
 
 What follows is the Privacy Statement for all **Esoft.Web.Id|Esoft Download Free Software** websites including all the websites run under the **Esoft.Web.Id** domain.
 
@@ -51,5 +49,3 @@ When **Esoft.Web.Id|Esoft Download Free Software** makes changes to this privacy
 **Contact Information**
 
 If you have any questions regarding our privacy policy, please contact us.
-
-Bookmark/Search this post with: 
