@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infolinks.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217081124id_/http%3A//publishers.infolinks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infolinks.com privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301023943id_/http%3A//www.infolinks.com/privacy.html) for the most accurate reproduction.*
 
 # infolinks | Privacy Policy
 
@@ -12,7 +12,7 @@ Infolinks is a Publisher-side Technology Company. Publisher-side means that all 
 
 
 
-Infolinks, Inc. (“Infolinks”) respects the privacy concerns of the users of its Website, [www.infolinks.com](http://www.infolinks.com/) (the “Website”). Infolinks thus provides this privacy policy to explain what information is gathered during a visit to the Website and how such information may be used. 
+Infolinks, Inc. (“Infolinks”) respects the privacy concerns of the users of its Website, [www.infolinks.com](https://web.archive.org/) (the “Website”). Infolinks thus provides this privacy policy to explain what information is gathered during a visit to the Website and how such information may be used. 
 
 ### Use of Information:
 
@@ -49,8 +49,8 @@ Contact Information for Questions, Comments and Complaints: If you have any ques
 Via mail:
 
 Infolinks, Inc.  
-151e 31st Street #24F  
-New York, New York 10016  
+2400 W El Camino Real, Suite 813  
+Mountain View, CA 94040  
 US 
 
 Via email: [info@infolinks.com](mailto:info@infolinks.com)
