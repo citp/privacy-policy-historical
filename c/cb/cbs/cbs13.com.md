@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cbs13.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216050251id_/http%3A//cbs13.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs13.com privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301154130id_/http%3A//cbs13.com/privacy) for the most accurate reproduction.*
 
-# cbs13.com - Privacy
+# Privacy - cbs13.com
 
 **Effective Date** : September 8, 2008
 
