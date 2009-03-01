@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squiggly.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062454id_/http%3A//www.squiggly.com/us/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squiggly.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302000934id_/http%3A//www.squiggly.com/au/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Squiggly Swatch Watches and Straps - Online Watch Store || Swatch Originals / Skin / Irony / Flik Flak
 
