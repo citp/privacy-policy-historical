@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iqpc.sg privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229164825id_/http%3A//www.iqpc.sg/redContent.aspx%3Fid%3D12270) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iqpc.sg privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301030922id_/http%3A//www.iqpc.sg/redContent.aspx%3Fid%3D12270) for the most accurate reproduction.*
 
 # Privacy Policy
 
