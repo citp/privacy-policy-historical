@@ -1,42 +1,55 @@
-> *The following text is extracted and transformed from the scanalert.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510145746id_/https%3A//www.scanalert.com/site/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanalert.com privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301101732id_/http%3A//www.mcafee.com/us/about/privacy.html) for the most accurate reproduction.*
 
-# HACKER SAFE
+# McAfee® - about - Privacy policy
 
-Our privacy and security policies exceed industry standards. The nature of our services dictates that we restrict our use of information to only what is needed to deliver the best services in our industry, and no more. We encourage you to read our Privacy Statement as part of your evaluation process and to read it again when we notify you of changes from time to time.
+### Privacy policy
 
-About TRUSTe
+#### Our mailing address:
 
-McAfee is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices including full and honest disclosure of specific practices in a Privacy Statement. 
+**McAfee, Inc.  
+Attn: Privacy Officer - 3rd Floor  
+3965 Freedom Circle  
+Santa Clara, CA 95054**
 
-Each change to McAfees Privacy Statement is reviewed by TRUSTe before publication to ensure compliance with their strict standards. However, our goal is always to raise the bar, and exceed industry standards wherever possible. 
+#### Reach us by:
 
-What is Covered in This Statement
+**E-mail:  ** [**privacy@mcafee.com**](mailto:privacy@mcafee.com)
 
-Effective as of Jan 1, 2003, this privacy statement covers the site www.hackersafe.com This site is operated by McAfee, Inc., a California corporation with its headquarters located at:
+**This statement discloses the privacy practices for McAfee, Inc.** ® **Please note that because we are very sensitive to the privacy concerns of our home users, we have additional precautions in place to protect the personal information that consumers provide.  If you are a home user, please review our Consumer Privacy Policy.**
 
-860 Napa Valley Corporate Way, Suite R  
-Napa CA 94558
+[Consumer privacy policy](http://us.mcafee.com/root/aboutUs.asp?id=privacy)
 
-Our Privacy Statement clearly discloses:
+#### What information we collect
 
-1\. What personally or company identifiable information McAfee collects.  
-2\. What personally and company identifiable information third parties collect through the Web site.  
-3\. What organization collects the information.   
-4\. How McAfee uses the information.  
-5\. With whom McAfee may share user information.   
-6\. What choices are available to users regarding collection, use and distribution of the information.  
-7\. What types of security procedures are in place to protect the loss, misuse or alteration of information under McAfee control.   
-8\. How users can correct any inaccuracies in the information.   
+McAfee asks you for information when you register as a customer, purchase one of our products; download free evaluation software, upgrades, or white papers; order e-mail newsletters, respond to a marketing campaign, or place orders on the www.mcafeesecurity.com site. We use the information we gather to improve the user experience on our site, identify frequent visitors and for the following purposes:
+
+  * To provide product, fulfill an order, or complete a transaction
+  * To ensure that the products you purchase are up to date and operating correctly, and to provide the appropriate level of support
 
 
-Please note that our site contains links to other sites. McAfee is not responsible for the privacy practices, privacy statements, or content of these other sites.
 
-Information Collection and Use
+In addition, we may use your information to improve the content of our Web site, products, and services; to alert you to product upgrades, updates, and renewal information regarding your product; and to share special offers, product announcements, and other new services from McAfee, Inc. When you register or make a purchase, we offer you the opportunity to opt into or out of these uses of your information. If you do not choose to opt out initially, you may still block future contact of this type by simply following the unsubscribe instructions that accompany all such communications, or by contacting us at the above address.
 
-Information Collection
+We e-mail service notifications inform you about the status of your service orders or accounts, and to provide updates and technical notices. These messages are essential to maintain your subscription and the functionality of our services, so there is no opt-out available for service notifications, and these messages cannot be blocked.
 
-McAfee never collects personally identifying information from users of our site unless the user explicitly and intentionally enters it, or attempts to violate our security measures. McAfee is the sole owner of the information collected on the web sites listed in the What is Covered Section above. McAfee offers users the ability to enter personally identifying information at several different points on our web site.
+We follow strict best practices for e-mail marketing and customer contact, and we urge our business partners to do so as well. For more information on our practices, [please click here](http://us.mcafee.com/root/marketerTips.asp)
 
-Registration (Sign-Up)
+#### Who we share it with
 
-In order to use McAfee's products and services, a user must first complete the registration form. During registration a user is required to give contact information such as nam
+We may share the information you provide with our business partners who act on our behalf for the uses described above.   
+
+
+#### How we offer our customers a choice
+
+If you do not want McAfee to contact you or your company for marketing purposes by e-mail, postal mail, fax and/or phone, you may opt out by contacting our customer service, by sending e-mail, or writing to us at the above address.
+
+Please note that we do not allow our customers to opt out of contact that is required for the functionality of our products and services.
+
+#### Security of your information
+
+McAfee uses state-of-the-art security technology to protect our customer data. Access to customer information is restricted to authorized personnel only. Credit card numbers are only used for payment processing and automatic renewals, where applicable, and are never retained for marketing or other purposes.  
+
+
+#### Access to your information
+
+If you are a home user or consumer and you wish to view or correct McAfee's information about you or your company, please click the "My Account" link. Enterprise customers who wish to change or view information should contact their sales representative or contact us at the above address. 
