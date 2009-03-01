@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the roughstock.com privacy policy that was archived on 2008-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081227110056id_/http%3A//www.roughstock.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the roughstock.com privacy policy that was archived on 2009-03-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090301183335id_/http%3A//roughstock.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Privacy Policy</title>
-	<link rel="stylesheet" type="text/css" href="/css/site.css">
+	<link rel="stylesheet" type="text/css" href="/css/site.css?20090210">
 	<link rel="stylesheet" type="text/css" href="/css/homepage.css">
 	<link rel="stylesheet" type="text/css" href="/css/lyrics.css">
 	<link rel="alternate" title="Roughstock.com RSS Feed" href="/rss/feed.xml" type="application/rss+xml">
@@ -16,25 +16,33 @@
 <div id="total" style="position: relative;">
 	
 	<div id="header"> 
-		<div id="loginbar" style="background: #000; height: 50px; position: absolute; right: 38px; display: none; padding: 5px 10px;">
-			<div id="loginFrm">
-				<form method="post" action="/user.php" id="signin">
-					<input type="hidden" name="redirect" value="">
-					<input type="hidden" name="post_form" value="login">
-					<input type="text" name="email" value="Email" onclick="clrMe(this, 'Email');"> <input type="password" name="pass" value="........" onclick="clrMe(this, '........');">
-					 <a href="javascript:document.getElementById('signin').submit();" style="text-decoration: none;">
-					<span style="color: #E0E4DA;" onmouseover="this.style.color = '#996600'" onmouseout="this.style.color = '#E0E4DA'">SIGN IN</span></a>
-					<a href="#" onclick="document.getElementById('loginbar').style.display='none';"><span style="color: #E0E4DA;" onmouseover="this.style.color = '#996600'" onmouseout="this.style.color = '#E0E4DA'">CANCEL</span></a>
-				</form>
-			</div>
-			<a href="/user.php?forgot">Forgot Password?</a>
+	    <div id="loginbar" style="display: none; background-color:gray; height:100%; left:0; opacity:0.7; filter: alpha(opacity = 70);position:fixed; top:0; width:100%; z-index:1000;margin:0px;padding:0px;" onclick="document.getElementById('loginbar').style.display='none';document.getElementById('loginFrm').style.display='none';"></div>
+		<div id="loginFrm" style="display: none; border-style:solid; border-width:1px; background-color: #FFF; border-color:#B2B2B2 black black #B2B2B2; width: 280px; height: 240px; position: absolute; left: 35%; top: 299px; z-index:1001; padding: 10px 10px 10px 10px;">
+	        <div style="text-align: right; font-size: 12px;">
+			    [<a href="#" style="text-decoration: none;" onclick="document.getElementById('loginbar').style.display='none';document.getElementById('loginFrm').style.display='none';">
+				<span style="color: #2D4802; " onmouseover="this.style.color = '#996600'" onmouseout="this.style.color = '#2D4802'">close</span>
+				</a>]
+			</div>	
+			<h3 style="color: #8E5802;">Sign In</h3>	
+			<form method="post" action="/user.php" id="signin">
+				<input type="hidden" name="redirect" value="">
+				<input type="hidden" name="post_form" value="login"> 
+				<label class="label" style="font-size: 12px;">EMAIL:</label>
+				<input type="text" name="email" value=""> <br>
+				<label class="label" style="font-size: 12px;">PASSWORD:</label>
+				<input type="password" name="pass" value=""> <br>
+				<div style="font-size: 12px;">
+				    <a href="javascript:document.getElementById('signin').submit();" style="text-decoration: none;">
+				    <span style="color: #2D4802;" onmouseover="this.style.color = '#996600'" onmouseout="this.style.color = '#2D4802'">SIGN IN</span></a>
+				</div>
+			</form>
+			<br><a href="/user.php?forgot" style="color: #2D4802; font-size: 12px; text-decoration: none;">Forgot Password?</a>
 		</div>
 		<table width="970" cellspacing="0" cellpadding="0" border="0">
-
 			<tbody><tr>
 				<td colspan="2" height="32" id="login">
 								<div id="welcomeTxt">
-					<a href="/user.php?register">Become a Roughstock Member</a> | <a href="javascript:void(null);" onclick="document.getElementById('loginbar').style.display='block';" class="signin">Sign In</a>
+					<a href="/user.php?register">Become a Roughstock Member</a> | <a href="javascript:void(null);" onclick="document.getElementById('loginbar').style.display='block';document.getElementById('loginFrm').style.display='block';" class="signin">Sign In</a>
 				</div>
 		
 								</td>
@@ -60,7 +68,7 @@
 
 	</div>
 	<div id="menu">
-	    <a href="/"><img src="/images/nav/home_On.gif" onmouseover="this.src='/images/nav/home_Over.gif'" onmouseout="this.src='/images/nav/home_On.gif'" width="59" height="40" border="0" alt="Home"></a><a href="/blog"><img src="/images/nav/blog.gif" onmouseover="this.src='/images/nav/blog_Over.gif'" onmouseout="this.src='/images/nav/blog.gif'" width="59" height="40" border="0" alt="Blog"></a><a href="/audio"><img src="/images/nav/audio.gif" onmouseover="this.src='/images/nav/audio_Over.gif'" onmouseout="this.src='/images/nav/audio.gif'" width="65" height="40" border="0" alt="Audio"></a><a href="/video"><img src="/images/nav/video.gif" onmouseover="this.src='/images/nav/video_Over.gif'" onmouseout="this.src='/images/nav/video.gif'" width="69" height="40" border="0" alt="Video"></a><a href="/reviews"><img src="/images/nav/reviews.gif" onmouseover="this.src='/images/nav/reviews_Over.gif'" onmouseout="this.src='/images/nav/reviews.gif'" width="92" height="40" border="0" alt="Reviews"></a><a href="/cowpie/songs/"><img src="/images/nav/cowpie.gif" onmouseover="this.src='/images/nav/cowpie_Over.gif'" onmouseout="this.src='/images/nav/cowpie.gif'" width="76" height="40" border="0" alt="COWPIE"></a><a href="/release-dates"><img src="/images/nav/releasedates.gif" onmouseover="this.src='/images/nav/releasedates_Over.gif'" onmouseout="this.src='/images/nav/releasedates.gif'" width="147" height="40" border="0" alt="Release Dates"></a><a href="/contests/"><img src="/images/nav/contest.gif" onmouseover="this.src='/images/nav/contest_Over.gif'" onmouseout="this.src='/images/nav/contest.gif'" width="86" height="40" border="0" alt="Contest"></a><a href="http://roughstock.com/history/"><img src="/images/nav/history.gif" onmouseover="this.src='/images/nav/history_Over.gif'" onmouseout="this.src='/images/nav/history.gif'" width="86" height="40" border="0" alt="History"></a></div>	
+	    <a href="/"><img src="/images/nav/home_On.gif" onmouseover="this.src='/images/nav/home_Over.gif'" onmouseout="this.src='/images/nav/home_On.gif'" width="59" height="40" border="0" alt="Home"></a><a href="/blog"><img src="/images/nav/blog.gif" onmouseover="this.src='/images/nav/blog_Over.gif'" onmouseout="this.src='/images/nav/blog.gif'" width="59" height="40" border="0" alt="Blog"></a><a href="/audio"><img src="/images/nav/audio.gif" onmouseover="this.src='/images/nav/audio_Over.gif'" onmouseout="this.src='/images/nav/audio.gif'" width="65" height="40" border="0" alt="Audio"></a><a href="/video"><img src="/images/nav/video.gif" onmouseover="this.src='/images/nav/video_Over.gif'" onmouseout="this.src='/images/nav/video.gif'" width="69" height="40" border="0" alt="Video"></a><a href="/reviews"><img src="/images/nav/reviews.gif" onmouseover="this.src='/images/nav/reviews_Over.gif'" onmouseout="this.src='/images/nav/reviews.gif'" width="92" height="40" border="0" alt="Reviews"></a><a href="/cowpie/songs/"><img src="/images/nav/cowpie.gif" onmouseover="this.src='/images/nav/cowpie_Over.gif'" onmouseout="this.src='/images/nav/cowpie.gif'" width="76" height="40" border="0" alt="COWPIE"></a><a href="/release-dates"><img src="/images/nav/releasedates.gif" onmouseover="this.src='/images/nav/releasedates_Over.gif'" onmouseout="this.src='/images/nav/releasedates.gif'" width="147" height="40" border="0" alt="Release Dates"></a><a href="/contests/"><img src="/images/nav/contest.gif" onmouseover="this.src='/images/nav/contest_Over.gif'" onmouseout="this.src='/images/nav/contest.gif'" width="98" height="40" border="0" alt="Contest"></a><a href="http://roughstock.com/history/"><img src="/images/nav/history.gif" onmouseover="this.src='/images/nav/history_Over.gif'" onmouseout="this.src='/images/nav/history.gif'" width="86" height="40" border="0" alt="History"></a></div>	
 	<div id="banner-newsletter">
 		<div id="banner"><iframe style="margin: 0; padding: 0;" width="728" height="90" framespacing="0" frameborder="no" scrolling="no" align="center" src="/ads/DART-ad-728x90-ROS-iframe.html"></iframe></div>
 		<div id="newsletter" style="float: right; margin: 0px 15px 0px 0px; padding: 0px 0px 0px 0px;">
@@ -171,7 +179,7 @@ Physical Location
 <iframe style="margin: 0; padding: 0;" width="300" height="300" framespacing="0" frameborder="no" scrolling="no" align="center" src="/ads/DART-ad-300x250-ROS-iframe.html"></iframe>
 </div></div>
 		<div id="discussion">
-    </div>		
+    </div>		<div style="text-align:center;"><a href="http://www.twitter.com/roughstock"><img src="/images/sidebar/rgh-twitter.jpg" alt="Follow Roughstock On Twitter" border="0"></a></div>
 	</div>	</div>
 	<!-- div id="back-to-top">
 			<p align="right"><a class="backtotop" href="#top">&nbsp;</a></p>
