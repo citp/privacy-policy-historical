@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netprofitstoday.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228051738id_/http%3A//netprofitstoday.com/pages/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netprofitstoday.com privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301022345id_/http%3A//netprofitstoday.com/pages/Privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
