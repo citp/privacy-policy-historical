@@ -1,87 +1,74 @@
-> *The following text is extracted and transformed from the alpari.co.uk privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219040945id_/http%3A//www.alpari.co.uk/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpari.co.uk privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301181950id_/http%3A//www.alpari.co.uk/en/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Your privacy is important to us
+# Forex with Alpari (UK) - Privacy Policy
 
-This Privacy Policy forms part of our Terms of Business. We take care to protect the privacy of our clients and will do the same for all users of this web-site and our [trading platform](https://web.archive.org/en/metatrader4/). This policy explains how we process information about site visitors, [demo](https://web.archive.org/en/metatrader4/open-demo-account.html) and [live customers](https://web.archive.org/en/open-live-account.html).
+**Commitment**
 
-Information safeguards
+**The privacy of our website users, whether you are our former or existing client or visitor to our website (the “Site”), is important to us and Alpari (UK) Ltd (“Alpari UK”) is committed to safeguard it. This policy demonstrates how we collect, use and protect the personal information we hold about you.**
 
-We endeavour to take all reasonable steps to protect your personal information. We maintain strict security standards and procedures with a view to preventing unauthorised access to your data by anyone, including our staff. We use leading technologies such as (but not limited to) data encryption, firewalls and server authentication to protect the security of your data.
+**Data Collection**
 
-Disclosure of your Personal Data and Trans-Border Data Transfers
+When you apply for or maintain a demo or live account with Alpari UK, we need to collect information from you (“Personal Data”) for business purposes. The Personal Data we collect from you will also allow us to treat you (i.e. our customer) fairly, such as understand your financial needs and/or investment prospectus so that can provide you the products and services that are suitable for you, advise you on investment strategies, process your requests and transactions as well as provide you with sales and post sales services.
 
-We comply with the United Kingdom Data Protection Act 1998. In particular, we must comply with the eight principles. They state that the data must be:
+The Personal Data that we collect from you includes:
 
-  * fairly and lawfully processed;
-  * processed for limited purposes;
-  * adequate, relevant and not excessive;
-  * accurate and up to date;
-  * not kept longer than necessary;
-  * processed in accordance with the individual's rights;
-  * secure;
-  * not transferred to countries outside the European Economic area, unless there is adequate protection.
+  * personal information you provide to us on applications and other forms, such as your name, address, date of birth, Social Security number and occupation;
+  * financial information such as income, assets and your financial investment experience;
+  * documents that you provide to us to verify your identity, such as your passport, utility bills, and/or bank statement or your company incorporation details.
 
 
 
-The Data Protection Act declares that personal information shall not be transferred to a country outside the European Economic Area, unless the country has equivalent levels of protection for personal data.
+Demographic data is not frequently sought, unless under the legal requirement for recruitment purposes.
 
-Who we share your information with
+**Please be aware that Alpari UK has regulatory obligations to keep your Personal Data in record for a period of five years in the case you wish to terminate your working relationship with us.**
 
-Your personal information may be disclosed to:
+**  
+Use of Personal Data**
 
-  * other companies within our corporate group who provide financial services;
-  * service providers and professional advisers contracted by us to provide us with consultancy, administrative, financial, insurance, research and other services;
-  * introducing brokers with whom we have a mutual relationship (some of whom may be located outside the European Economic Area);
-  * credit providers, courts, tribunals and regulatory authorities as permitted or required by law;
-  * credit reference agencies;
-  * anyone expressly authorised by you.
+Alpari UK may use your Personal Date for one or more of the following purposes:
 
-
-
-Data Access & Corrections
-
-Upon receipt of your written request, we will disclose to you your personal data held by us: we shall correct or delete inaccurate details. We regularly delete data which is no longer required.
-
-Changes to the website content and Privacy Policy
-
-We may change the content or services found on our website at any time without notice, and consequently our Privacy Policy will be reviewed from time to time to take account of new laws and technology, changes to our operations and practices and to make sure it remains appropriate to the changing environment. You agree to revisit this page regularly and your continued access to or use of the website will mean that you agree to the changes.
-
-Third parties
-
-We work with third parties to research certain usage and activities on our website on our behalf. No personal information about you is shared, however in the course of conducting this research these third parties may place a unique 'cookie' on your browser.
-
-Cookies
-
-We may use cookies to monitor website user traffic patterns and site usage.
-
-Cookies are small pieces of text that a website transfers to the cookie file on your computer’s hard disk. Cookies enable users to navigate around the website and help us determine where you have been on the website, when you return to the website, where you came from, etc.
-
-Cookies cannot look into your computer and obtain information about you or your family or read any material kept on your hard drive.
-
-You can choose to disable cookies on your computer by changing your preferences and options in your browser. If you disable cookies, you may not be able to access some parts of our website.
-
-Hyperlinks
-
-This website may contain hyperlinks or links to other sites, and other sites may link to our website. Please note that we are not responsible for the privacy practices of these sites and this Privacy Policy does not apply to information collected by these websites.
-
-Monitoring
-
-Please note that telephone conversations may be recorded.
-
-We may monitor our communications with our customers (including, but not limited to, phone conversations and emails) for legal, regulatory, quality assurance and training reasons.
-
-Important
-
-  * By using this website and by submitting information to us via this website you give your consent that all your personal data collected by us via this website may be processed by us set out above.
-  * By submitting your personal details, you will be taken to have consented to this limited use of your personal data.
-  * You accept the inherent security risks of providing information and dealing on-line over the Internet and will not hold us responsible for any breach of security unless this is due to our negligence or wilful default.
-  * You expressly invite us, for the purpose of the provision of services to you or otherwise marketing financial services and products, from time to time, to make direct contact with you by telephone, fax, or otherwise.
-  * You consent to such communications and acknowledge that such communication would not be considered by you as being a breach of any of your rights under any relevant data protection and/or privacy regulations.
+  * to confirm your identity; 
+  * to assess your suitability to the products and services we provide;
+  * to maintain and manage your account with us;
+  * to process your transactions;
+  * to provide you on transaction and post transaction related services; 
+  * to inform you products and/or services might be of your interest;
+  * to keep you updated on the issues that are relevant to your business relationship with us;
+  * to improve the Site;
+  * to analyze statistical data to enable us to provide you with better products and/or services.
 
 
 
-While we may send you marketing material from time to time that we think will be useful to you, we are conscious of the need to respect your privacy.
+**  
+Cookies**
 
-Contact Us
+Cookies are small pieces of information sent by a web server to store on a web browser so it can later be read back from that web browser. Cookies may be used on some pages of the Site for us to provide website users a more customised web browsing experience. Cookies are not used to determine the personal identity of anyone merely visiting the Site.
 
-If you have any comments or queries in connection with our privacy policy please contact our [Compliance Department](https://web.archive.org/en/company/contacts.html).
+If you do not wish to receive cookies, most web browsers will permit you to decline cookies and in most cases will still allow you fully browse our Site.
+
+Third Parties and Third Party Links  
+We may provide your Personal Data to the following third parties who are not our partners, agents or affiliates:
+
+  * person or company who provides certain services to us and you;
+  * person or company takes over certain rights and/or responsibilities of Alpari UK;
+  * administrative and judicial authorities when excising laws and regulations Alpari UK is obligated to.
+
+
+
+For our website users’ convenience, this Site may provide links to other websites owned, operated and maintained by third parties. These websites provide separate privacy polices than that of Alpari UK’s. For the avoidance of doubt, Alpari UK’s privacy policy applies exclusively to Alpari UK and the Personal Data collected by us. Alpari UK is not responsible for the privacy policies of the third parties’ websites that you link to, nor do we have control over the use or security of information provided by you to those websites or collected by those websites.
+
+**  
+Security & Protection**
+
+Alpari UK takes security issues very seriously. We endeavour to take all reasonable steps, including maintaining strict security standards and procedures, using leading security technologies to protect your Personal Data. ******  
+Your Consent**
+
+By accessing the Site, you consent to Alpari UK collecting, maintaining, using and disclosing your Personal Data in accordance with this privacy policy. **** **  
+Your Rights**
+
+The Data Protection Act gives you various rights about your Personal Data, such as accessing and correcting your Personal Data, preventing processing of your Personal Data, preventing unsolicited marketing and so on. Detailed information about your rights under UK Data Protection Act can be found on the website of the United Kingdom Information Commissioner, [www.ico.gov.uk](http://www.ico.gov.uk/).
+
+**  
+Queries**
+
+If you have privacy questions which are not answered by this Privacy Policy or any other concerns about how we use your personal data, please write to us ([info@alpari.co.uk](mailto:info@alpari.co.uk "mailto:info@alpari.co.uk")) or contact us +44 (0)2076484560.
