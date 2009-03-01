@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the freeblog.co.nz privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014033227id_/http%3A//freeblog.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeblog.co.nz privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301022425id_/http%3A//freeblog.co.nz/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-## Privacy Policy
+# Privacy Policy | Free blog Get yours Now
 
 This privacy policy (”Privacy Policy”) applies to collection and use of personal information by means of this Web site (the “Web site”). The use of the Web site is also governed by the Terms of Use, of which this Privacy Policy forms a part.
 
@@ -73,7 +71,3 @@ Freeblog.co.nz reserves the right to change this Privacy Policy at any time by n
 If you have any questions about this Privacy Policy or the privacy practices of Freeblog.co.nz in respect of this Web site, please direct your inquiry to us via our [Contact form](http://freeblog.co.nz/contact/).
 
 **Last updated 20-06-2008**
-
-Posted under [General](http://freeblog.co.nz/category/general/ "View all posts in General")
-
-This post was written by [admin](http://freeblog.co.nz/) on July 1, 2008
