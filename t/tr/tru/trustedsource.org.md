@@ -1,36 +1,55 @@
-> *The following text is extracted and transformed from the trustedsource.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160845id_/http%3A//www.securecomputing.com/index.cfm%3Fskey%3D570) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedsource.org privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301101732id_/http%3A//www.mcafee.com/us/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy: Secure Computing
+# McAfee® - about - Privacy policy
 
-Secure Computing Corporation has created this privacy policy in order to demonstrate our firm commitment to the privacy of our Website visitors. The following discloses the information gathering and dissemination practices for the Secure Computing Websites at: [www.securecomputing.com](http://www.securecomputing.com/) and [partner.securecomputing.com](https://partner.securecomputing.com/). 
+### Privacy policy
 
-_**Website Registration Forms**_  
-Our site is designed to require you to complete a registration form if you are interested in obtaining additional information or products from us. Therefore, registration forms may require you to give us contact information (like your name, email, and postal address). 
+#### Our mailing address:
 
-Secure Computing does not engage in the practice of selling or distributing contact information to other companies. 
+**McAfee, Inc.  
+Attn: Privacy Officer - 3rd Floor  
+3965 Freedom Circle  
+Santa Clara, CA 95054**
 
-Contact information from our registration forms is used to send requested product information and promotional material to prospects. Sometimes the mailings are handled by a third party fulfillment house that requires access to the information on registration forms in order to send you requested materials. In addition, contact information is sometimes shared with authorized Secure Computing value added resellers who are designated by Secure Computing to follow up with the prospective customer. 
+#### Reach us by:
 
-**_Supplementation of Information_**  
-This site sometimes supplements the information that you provide with information that is received from third parties. For instance, if inaccurate address information is received, we may use third party software to fix such erroneous items. 
+**E-mail:  ** [**privacy@mcafee.com**](mailto:privacy@mcafee.com)
 
-**_Choice/Opt-Out_**  
-You can send email to [webmaster@securecomputing.com](mailto:webmaster@securecomputing.com) to be removed from any email or standard mail lists. Please specify from which list you wish to be removed when sending the email. 
+**This statement discloses the privacy practices for McAfee, Inc.** ® **Please note that because we are very sensitive to the privacy concerns of our home users, we have additional precautions in place to protect the personal information that consumers provide.  If you are a home user, please review our Consumer Privacy Policy.**
 
-_**WebSite Information Logging**_  
-We use your IP address to help diagnose problems with our server and to administer our Website. An IP address is a numeric code that identifies your computer on a network, or in this case, the Internet. Your IP address is also used to gather broad demographic information, such as determining how many of our visitors are from different parts of the world. 
+[Consumer privacy policy](http://us.mcafee.com/root/aboutUs.asp?id=privacy)
 
-We may also perform IP lookups to determine which domain you are coming from (ie: aol.com, yourcompany.com) to more accurately gauge our users' demographics. Secure Computing Corporation does not extract any personal information (eg: email addresses or names) that may be contained in a Web browser's user preference file. 
+#### What information we collect
 
-**_Cookies_**  
-Our Site may use cookies to track the length of time you spend on the site, or to store frequently used user information to personalize your online experience. For some users, cookies are used with the SafeWord® Web Access Authentication Agent. 
+McAfee asks you for information when you register as a customer, purchase one of our products; download free evaluation software, upgrades, or white papers; order e-mail newsletters, respond to a marketing campaign, or place orders on the www.mcafeesecurity.com site. We use the information we gather to improve the user experience on our site, identify frequent visitors and for the following purposes:
 
-**_External Links_**   
-This site contains links to other sites. Secure Computing is not responsible for the privacy practices or the content of such Websites. 
+  * To provide product, fulfill an order, or complete a transaction
+  * To ensure that the products you purchase are up to date and operating correctly, and to provide the appropriate level of support
 
-**_Security_**  
-Secure Computing receives information via online applications. Many of these applications may ask for sensitive data and require industry standard Secure Socket Layer (SSL) encrypted browsers. We use 128-bit encryption, the most powerful available, to protect transmissions over the Internet. 
 
-**_Changes to Privacy Policy_**  
-If we decide to change our privacy and/or security policies, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.    
 
+In addition, we may use your information to improve the content of our Web site, products, and services; to alert you to product upgrades, updates, and renewal information regarding your product; and to share special offers, product announcements, and other new services from McAfee, Inc. When you register or make a purchase, we offer you the opportunity to opt into or out of these uses of your information. If you do not choose to opt out initially, you may still block future contact of this type by simply following the unsubscribe instructions that accompany all such communications, or by contacting us at the above address.
+
+We e-mail service notifications inform you about the status of your service orders or accounts, and to provide updates and technical notices. These messages are essential to maintain your subscription and the functionality of our services, so there is no opt-out available for service notifications, and these messages cannot be blocked.
+
+We follow strict best practices for e-mail marketing and customer contact, and we urge our business partners to do so as well. For more information on our practices, [please click here](http://us.mcafee.com/root/marketerTips.asp)
+
+#### Who we share it with
+
+We may share the information you provide with our business partners who act on our behalf for the uses described above.   
+
+
+#### How we offer our customers a choice
+
+If you do not want McAfee to contact you or your company for marketing purposes by e-mail, postal mail, fax and/or phone, you may opt out by contacting our customer service, by sending e-mail, or writing to us at the above address.
+
+Please note that we do not allow our customers to opt out of contact that is required for the functionality of our products and services.
+
+#### Security of your information
+
+McAfee uses state-of-the-art security technology to protect our customer data. Access to customer information is restricted to authorized personnel only. Credit card numbers are only used for payment processing and automatic renewals, where applicable, and are never retained for marketing or other purposes.  
+
+
+#### Access to your information
+
+If you are a home user or consumer and you wish to view or correct McAfee's information about you or your company, please click the "My Account" link. Enterprise customers who wish to change or view information should contact their sales representative or contact us at the above address. 
