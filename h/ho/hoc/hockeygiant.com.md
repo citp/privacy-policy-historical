@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hockeygiant.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220173915id_/http%3A//www.hockeygiant.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeygiant.com privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301193053id_/http%3A//www.hockeygiant.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
