@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frontrush.com privacy policy that was archived on 2008-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080331212047id_/http%3A//www.frontrush.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontrush.com privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301031336id_/http%3A//www.frontrush.com/web/company/privacypolicy) for the most accurate reproduction.*
 
-# FRONT RUSH - Company
+# Front Rush : Privacy Policy
 
 **Front Rush Privacy Statement**  
 Front Rush LLC ("Front Rush") respects your privacy and has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. This policy governs web sites owned and operated by Front Rush, including www.frontrush.com. We have established this Statement as a means to communicate our information gathering and dissemination practices to our customers and visitors. This online privacy policy describes how we use, disclose and protect personal information that you share with us. "Personal information" is information that enables us to identify you, such as your name and e-mail address. By using this Site, you agree to this Privacy Policy.
