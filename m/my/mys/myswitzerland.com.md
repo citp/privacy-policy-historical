@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myswitzerland.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020836id_/http%3A//www.myswitzerland.com/en/page-Footer_Content-Privacy-100465.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myswitzerland.com privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301052653id_/http%3A//myswitzerland.com/en/page-Footer_Content-Privacy-100465.html) for the most accurate reproduction.*
 
 # Home - Switzerland Tourism
 
