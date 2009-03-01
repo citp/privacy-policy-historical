@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingolotto.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044550id_/http%3A//www.kingolotto.co.uk/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingolotto.co.uk privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301055827id_/http%3A//kingolotto.co.uk/privacyPolicy.php) for the most accurate reproduction.*
 
 # Kingolotto - 100% free UK lottery - Win : vouchers, DVDs, holidays, DVD players, mobile phones and loads of great prizes!
 
