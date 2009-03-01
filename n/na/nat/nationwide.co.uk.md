@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050133id_/http%3A//www.nationwide.co.uk/about_nationwide/membership_matters/cookie_and_privacy_policy/cookie_and_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301070032id_/http%3A//www.nationwide.co.uk/about_nationwide/membership_matters/cookie_and_privacy_policy/cookie_and_privacy_policy.htm) for the most accurate reproduction.*
 
 # About Nationwide - Membership matters - Cookie and privacy policy
 
