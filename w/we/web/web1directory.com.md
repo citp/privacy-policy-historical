@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web1directory.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912225823id_/http%3A//www.web1directory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web1directory.com privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301032606id_/http%3A//web1directory.com/privacy.html) for the most accurate reproduction.*
 
 # Super Web Directory - Web1Directory.com
 
