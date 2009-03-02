@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spikesource.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222205118id_/http%3A//www.spikesource.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spikesource.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302093518id_/http%3A//www.spikesource.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SpikeSource
 
