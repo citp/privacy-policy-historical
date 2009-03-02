@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dog.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216053725id_/http%3A//www.dog.com/CS/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dog.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303000032id_/http%3A//www.dog.com/CS/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Dog.com
 
-|  You are here > [Home ](https://web.archive.org/) >
+|  You are here > [dog.com ](https://web.archive.org/) >
 
 Privacy Policy
 
@@ -26,16 +26,9 @@ Dog.com may share non personal, non-individual aggregate information or summary 
 
 | 
 
-  
+[](https://web.archive.org/clearance/?intid=HPBClearance) [](https://web.archive.org/ScreenSaverSignup.aspx) [](https://web.archive.org/CS/EmailSignup.aspx)
 
-
-[](https://web.archive.org/CS/HolidayShipping.aspx "Holiday Shipping Schedule")
-
-[](https://web.archive.org/ScreenSaverSignup.aspx "Free Screensavers")
-
-Sign up for Dog.com's exclusive promotions and for your chance to win.
-
-[](https://web.archive.org/CS/EmailSignup.aspx) This Month's Winner:  
-Vance S. of Barnegat, NJ  
+This Month's Winner:  
+Terry M. of Kinsale, VA  
   
 ---|---|---
