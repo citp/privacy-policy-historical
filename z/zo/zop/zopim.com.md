@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zopim.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065606id_/http%3A//www.zopim.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zopim.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302170734id_/http%3A//www.zopim.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Simple, Effective Live Chat | Live Support | Live Chat Bar
+# Simple, Effective Live Chat | Zopim Privacy Agreement
 
 April 29, 2008  
 We at Zopim respect your privacy and take the issue of Internet privacy very seriously. This Policy applies to all of the products and services offered by Zopim or its subsidiaries or affiliated companies. If you have any questions about this Policy, please feel free to contact us through our website or email us at 
@@ -11,7 +11,7 @@ _support@zopim.com_
 
 1\. Information we collect and how we use it 
 
-1.1 Information you provide – As an end user, we generally do not require you to provide any information. However, you may still supply us with information such as email or webpage address. If you register for an account with us, we may ask you for personal information such as name, contact details, account password, instant messaging ID or credit card information. 
+1.1 Information you provide � As an end user, we generally do not require you to provide any information. However, you may still supply us with information such as email or webpage address. If you register for an account with us, we may ask you for personal information such as name, contact details, account password, instant messaging ID or credit card information. 
 
 1.2 Cookies -Zopim use "cookies" to enable you to sign in to our services and to help personalize your online experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies contain information that can later be read by a web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer. 
 
