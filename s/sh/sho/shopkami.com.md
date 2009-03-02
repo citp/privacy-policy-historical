@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopkami.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217121801id_/http%3A//shopkami.com/faqs/7/22-privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopkami.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302101717id_/http%3A//shopkami.com/faqs/7/22-privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy Notice-Buy Cheap Wholesale Price - Shop Kami
 
@@ -82,4 +82,4 @@ We may update this privacy policy from time-to-time by posting a new version on 
 
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to info@shopkami.com
 
-[](http://shopkami.com/www.website-law.co.uk "www.website-law.co.uk")
+[](http://www.shopkami.com/www.website-law.co.uk "www.website-law.co.uk")
