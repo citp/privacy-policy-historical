@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artistdirect.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012747id_/http%3A//www.artistdirect.com/nad/misc/policy/0%2C%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artistdirect.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302081229id_/http%3A//www.artistdirect.com/nad/misc/policy/0%2C%2C%2C00.html) for the most accurate reproduction.*
 
 # Free Music Download, MP3 Music, Music Chat, Music Video, Music CD, ARTISTdirect Network
 
@@ -61,7 +61,7 @@ We'll do everything we can to protect you and your personal information, but we 
 back to FAQ
 
 **What about the privacy of users who are 13 and under?**  
-We're committed to protecting the safety and privacy of all our users, especially those who are under 13. To this end, we comply with the Children's Online Privacy Protection Act (16 C.F.R. Part 312). We do not collect or display the individually identifying information of users who are under the age of 13. Except for the community areas of the ARTISTdirect Network, if you're under 13, you will be able to create a user name and passcode, but we won't keep any information that's personal to you. In addition, because we do not collect your individually identifying information if you are under 13, you will not receive any direct communications from ARTISTdirect. If you would like to learn more about the Children's Online Privacy Protection Act, please visit the Federal Trade Commission's website at <http://www.ftc.gov/bcp/conline/pubs/online/kidsprivacy.htm>. 
+We're committed to protecting the safety and privacy of all our users, especially those who are under 13. To this end, we comply with the Children's Online Privacy Protection Act (16 C.F.R. Part 312). We do not collect or display the individually identifying information of users who are under the age of 13. Except for the community areas of the ARTISTdirect Network, if you're under 13, you will be able to create a user name and passcode, but we won't keep any information that's personal to you. In addition, because we do not collect your individually identifying information if you are under 13, you will not receive any direct communications from ARTISTdirect. If you would like to learn more about the Children's Online Privacy Protection Act, please visit the Federal Trade Commission's website at <http://www.ftc.gov/privacy/privacyinitiatives/childrens.html>. 
 
 back to FAQ
 
