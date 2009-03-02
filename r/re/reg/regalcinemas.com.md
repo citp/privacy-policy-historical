@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regalcinemas.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013134id_/http%3A//www.regmovies.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regalcinemas.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302065832id_/http%3A//www.regalcinemas.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Regal Entertainment Group: Privacy Policy
 
