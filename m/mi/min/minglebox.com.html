@@ -1,19 +1,20 @@
-<!--The following is the downloaded HTML source of the minglebox.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217045317id_/http%3A//minglebox.com/privacy-policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the minglebox.com privacy policy that was archived on 2009-03-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090302200210id_/http%3A//minglebox.com/privacy-policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>minglebox | Welcome to minglebox.com | people</title>
 <meta http-equiv="Content-type" content="text/html; charset=utf-8">
 <meta name="keywords" content="social networking, India, Bangalore, consumer  internet, friends, groups, community, people, networks, campus, college, festivals, blog, photos, printing, chit chat, music, scrap, mobile mms, sms">
 <meta name="description" content="Join your School, College, Work community to connect with classmates &amp; friends. Express &amp; share thro Blogs, Photos, Videos. Checkout College Festival Videos &amp; Photos">
-<link href="/templates/style2-6/layout.css?v=1229436688402" rel="stylesheet" type="text/css">
-<link href="/templates/style2-6/mingleboxwt.css?v=1229436688402" rel="stylesheet" type="text/css">
-<link href="/templates/style2-6/chat.css?v=1229436688402" rel="stylesheet" type="text/css">
+<link href="/templates/style2-6/layout.css?v=1236002508715" rel="stylesheet" type="text/css">
+<link href="/templates/style2-6/mingleboxwt.css?v=1236002508715" rel="stylesheet" type="text/css">
+<link href="/templates/style2-6/chat.css?v=1236002508715" rel="stylesheet" type="text/css">
 <link href="/favicon.ico" rel="shortcut icon">
+<link href="/templates/style2-6/pobox.css?v=1236002508715" rel="stylesheet" type="text/css">
 <!-- Dependencies -->
 <!-- commented for reduction of object downloads -->
 <!-- following six files have been moved into mbcommon.js .. -->
-<script type="text/javascript" src="/scripts-2-6/mbcommon.js?v=1229436688402"></script>
+<script type="text/javascript" src="/scripts-2-6/mbcommon.js?v=1236002508715"></script>
 <!---->
 <!---->
 <!-- script that are not required for not logged in users .. put them in here ..  -->
@@ -119,93 +120,60 @@ font-weight: normal;
 <div class="hPart2" style="float:right; width:400px; text-align:right;padding:5px 10px 2px 2px;height:60px;">
 <form method="post" name="LoginForm" id="LoginForm" style="padding-left: 150px;" action="/j_security_check" class="homesign" onsubmit="saveUsername(this)">
 <table cellspacing="0" cellpadding="0" width="240">
-<tbody><tr>
-<td align="left">
-<input name="rememberMe" id="rememberMe" type="checkbox" align="top" style="height: 9px; *height: 10px; *width: 10px; padding:
-0px; margin: 0px; ">
-<a href="#" onclick="javascript: var e =
-document.getElementById('rememberMe'); if(e){ e.checked =   e.checked ? false : true; }
-return false;" style="font-weight: normal; text-decoration: none;">Remember Me</a>
-</td>
-<td align="left" style="padding-top:5px;*padding-top:0px;">
-<a href="/forgotpass.jsp" style="font-weight: normal;
-text-decoration: none;">Forgot Password</a>
-</td>
-<td>
+<tbody><tr><td align="left">
+<input name="rememberMe" id="rememberMe" type="checkbox" align="top" style="height: 9px; *height: 10px; *width: 10px; padding: 0px; margin: 0px; ">
+<a href="#" onclick="javascript: var e = document.getElementById('rememberMe'); if(e){ e.checked =   e.checked ? false : true; } return false;" style="font-weight: normal; text-decoration: none;">Remember Me</a>
+</td><td align="left" style="padding-top:5px;*padding-top:0px;">
+<a href="/forgotpass.jsp" style="font-weight: normal; text-decoration: none;">Forgot Password</a>
+</td><td>
 &nbsp;
-</td>
-</tr>
-<tr>
-<td align="left">
+</td></tr>
+<tr><td align="left">
 <input name="j_username" class="txtBox" id="j_username" value="user name" size="15" maxlength="250" type="text" onfocus="if (this.value=='user name') this.value = '';" onblur="if (this.value=='') this.value = 'user name'" style="width:100px;height:16px; padding: 1px; ">
-</td>
-<td align="left">
-<input name="j_password_hide" class="txtBox" id="j_password_hide" size="15" maxlength="250" type="text" value="password" onfocus="this.style.display='none'; var e = document.getElementById('j_password');
-if(e) { e.style.display=''; e.focus() }" style="padding: 1px;width:100px;height:16px;">
-<input name="j_password" class="txtBox" id="j_password" size="16" maxlength="250" type="password" onblur="if(this.value == '' ) {
-this.style.display='none'; var e = document.getElementById('j_password_hide'); if(e)
-e.style.display='' } else { this.style.display=''; }" style="display: none; padding:
-1px;width:100px;height:16px;font-size: 12px !important;">
-</td>
-<td align="left">
+</td><td align="left">
+<input name="j_password_hide" id="j_password_hideNew" size="15" maxlength="250" type="text" value="password" onfocus="this.style.display='none'; var e = document.getElementById('j_passwordNew'); if(e) { e.style.display=''; e.focus() }" style=" color: #333; border: 1px solid #BFCED7; font-size: 10px !important;padding: 1px;width:100px;height:16px;">
+<input name="j_password" id="j_passwordNew" size="16" maxlength="250" type="password" onblur="if(this.value == '' ) { this.style.display='none'; var e = document.getElementById('j_password_hideNew'); if(e) e.style.display='' } else { this.style.display=''; }" style=" color: #333; border: 1px solid #BFCED7; font-size: 10px !important;display: none; padding: 1px;width:100px;height:16px;font-size: 12px !important;">
+</td><td align="left">
 <input value="Login" onclick="return checkForm()" class="UILinkButton_A" style="margin-left: 0pt; font-size: 10px;padding:1px;" type="submit">
-</td>
-</tr>
-<tr>
-<td colspan="2" align="right">
-<span style="font-size: 10px;">Not a
-Member yet?</span> <a href="/login-redirect.jsp" style="font-weight: normal;
-text-decoration: none; ">Join Now</a>
-</td>
-<td>
+</td></tr>
+<tr><td colspan="2" align="right">
+<span style="font-size: 10px;">Not a Member yet?</span> <a href="/login-redirect.jsp" style="font-weight: normal; text-decoration: none; ">Join Now</a>
+</td><td>
 &nbsp;
-</td>
-</tr>
+</td></tr>
 </tbody></table>
 </form>
 </div>
 <div id="myLinkz">
 <ul id="newMenu">
-<li class="rcLinkOne" id="10"><a href="/"><strong>Home</strong></a>
-<ul class="submenu-drop catdropm" id="sm_1" style="display:none">
-<li><a href="">View Profile</a></li>
-<li><a href="/user/profile.do?method=profile&amp;mzi=-8894739488709126112">About Me</a></li>
-<li><a href="/user/comment.do?method=viewAll&amp;mzi=-8894739488709126112">Chitchats</a></li>
-<li><a href="/pobox/msglist.do?method=viewInbox&amp;mzi=-8894739488709126112">Mail</a></li>
-<li><a href="/channel/friends.do?method=load&amp;mzi=-8894739488709126112">Friends</a></li>
-<li><a href="/blog.do?method=view&amp;mzi=-8894739488709126112">Blogs</a></li>
-<li><a href="/shutterbox/myPhotos.do?method=view&amp;mzi=-8894739488709126112">Photos</a></li>
-<li><a href="/video.do?method=view&amp;mzi=-8894739488709126112">Videos</a></li>
-<li><a href="/channel/groups.do?method=load&amp;mzi=-8894739488709126112">Groups</a></li>
-<li><a href="/user/profile.do?method=settings&amp;mzi=-8894739488709126112">Settings</a></li>
-</ul>
-</li>
-<li class="rcLinkOne" id="3"><a href="/channel/campus.do?method=load&amp;mzi=-8894739488709126112" id="campusMenuId"><strong>Campus</strong></a>
+<li class="rcLinkOne" id="10"><a href="/"><strong>Home</strong></a></li>
+<li class="rcLinkOne" id="3"><a href="/channel/campus.do?method=load&amp;mzi=7996389779154236670" id="campusMenuId"><strong>Campus</strong></a>
 <ul class="submenu-drop catdropm" id="sm_3" style="display:none">
 </ul>
 </li>
-<li class="rcLinkOne" id="5"><a href="/channel/blogs.do?mzi=-8894739488709126112" id="blogsMenuId"><strong>Blogs</strong></a>
+<li class="rcLinkOne" id="5"><a href="/channel/blogs.do?mzi=7996389779154236670" id="blogsMenuId"><strong>Blogs</strong></a>
 <ul class="submenu-drop catdropm" id="sm_5" style="display:none">
-<li><a href="/blog/post.do?method=create&amp;mzi=-8894739488709126112">Write a Blog</a></li>
-<li><a href="/blog.do?method=view&amp;mzi=-8894739488709126112">My Blog</a></li>
-<li><a href="/blog/main.do?method=draftview&amp;mzi=-8894739488709126112">My Drafts</a></li>
-<li><a href="/blog/main.do?method=viewSubscriptions&amp;mzi=-8894739488709126112">My Subscriptions</a></li>
-<li><a href="/channel/blogs.do?method=relatedBlogs&amp;mzi=-8894739488709126112">Friend and Campus Blogs</a></li>
-<li><a href="/channel/blogs.do?mzi=-8894739488709126112">Interesting Blogs</a></li>
-<li><a href="/channel/blogs.do?method=viewPopular&amp;mzi=-8894739488709126112">Popular Blogs</a></li>
+<li><a href="/blog/post.do?method=create&amp;mzi=7996389779154236670">Write a Blog</a></li>
+<li><a href="/blog.do?method=view&amp;mzi=7996389779154236670">My Blog</a></li>
+<li><a href="/blog/main.do?method=draftview&amp;mzi=7996389779154236670">My Drafts</a></li>
+<li><a href="/blog/main.do?method=viewSubscriptions&amp;mzi=7996389779154236670">My Subscriptions</a></li>
+<li><a href="/channel/blogs.do?method=relatedBlogs&amp;mzi=7996389779154236670">Friend and Campus Blogs</a></li>
+<li><a href="/channel/blogs.do?mzi=7996389779154236670">Interesting Blogs</a></li>
+<li><a href="/channel/blogs.do?method=viewPopular&amp;mzi=7996389779154236670">Popular Blogs</a></li>
 </ul>
 </li>
-<li class="rcLinkOne" id="11"><a href="/mba?mzi=-8894739488709126112" id="mba"><strong>MBA</strong></a>
-</li><li class="rcLinkOne" id="12"><a href="/careercourses?mzi=-8894739488709126112" id="careercourses"><strong>IT Courses</strong></a>
-</li><li class="rcLink" id="7"><a href="/studyuk?mzi=-8894739488709126112" id="eduMenuId"><strong>Study Abroad</strong></a><em id="_7"> more</em>
+<li class="rcLinkOne" id="11"><a href="/engineering?mzi=7996389779154236670" id="engineering"><strong>Engineering</strong></a>
+</li><li class="rcLinkOne" id="11"><a href="/mba?mzi=7996389779154236670" id="mba"><strong>MBA</strong></a>
+</li><li class="rcLinkOne" id="12"><a href="/careercourses?mzi=7996389779154236670" id="careercourses"><strong>IT Courses</strong></a>
+</li><li class="rcLink" id="7"><a href="/studyuk?mzi=7996389779154236670" id="eduMenuId"><strong>Study Abroad</strong></a><em id="_7"> more</em>
 <ul class="submenu-drop catdropm" id="sm_7" style="display:none">
-<li><a href="/studyuk?mzi=-8894739488709126112">Study Abroad - UK</a></li>
-<li><a href="/studyusa?mzi=-8894739488709126112">Study Abroad - USA</a></li>
-<li><a href="/studyaustralia?mzi=-8894739488709126112">Study Abroad - Australia</a></li>
-<li><a href="/studysingapore?mzi=-8894739488709126112">Study Abroad - Singapore</a></li>
+<li><a href="/studyuk?mzi=7996389779154236670">Study Abroad - UK</a></li>
+<li><a href="/studyusa?mzi=7996389779154236670">Study Abroad - USA</a></li>
+<li><a href="/studyaustralia?mzi=7996389779154236670">Study Abroad - Australia</a></li>
+<li><a href="/studysingapore?mzi=7996389779154236670">Study Abroad - Singapore</a></li>
 </ul>
 </li>
-<li class="rcLinkOne" id="11"><a href="/rfi.do?method=loadCounsel&amp;mzi=-8894739488709126112" id="counselling"><strong>Counselling</strong></a>
+<li class="rcLinkOne" id="11"><a href="/newcareers?mzi=7996389779154236670" id="newcareers"><strong>New Careers</strong></a>
 </li></ul>
 </div>
 </div>
