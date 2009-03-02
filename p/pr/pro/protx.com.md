@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protx.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216035814id_/http%3A//www.protx.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protx.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302085749id_/http%3A//www.protx.com/privacy.asp) for the most accurate reproduction.*
 
 # Protx - secure online payment gateway for credit card processing | Disclaimers : Privacy Policy
 
