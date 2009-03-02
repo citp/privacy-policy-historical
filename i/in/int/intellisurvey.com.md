@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the intellisurvey.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026060136id_/http%3A//intellisurvey.com/run/website%3Fgfrm%3Dprivacy%26trans_id%3DGZBTH8T8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellisurvey.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302164823id_/http%3A//intellisurvey.com/run/website%3Fgfrm%3Dprivacy%26trans_id%3DFMB63EO4) for the most accurate reproduction.*
 
 # IntelliSurvey: IntelliSurvey Privacy Policy
 
-**PRIVACY POLICY -- SURVEY PARTICIPANTS**
+### IntelliSurvey Privacy Policy
 
 IntelliSurvey, Incorporated ("IntelliSurvey") is a leading provider of online research technology and services. IntelliSurvey is committed to protecting the privacy of survey participants. We strictly adhere to the privacy policies of the Council of American Survey Research Organizations ("CASRO"), posted online at http://www.casro.org/codeofstandards.cfm.
 
@@ -22,4 +22,7 @@ We abide by the highest standards of privacy. Specifically:
 
 
 
-For further information about our privacy policy, please contact us at [privacy@intellisurvey.com](mailto:privacy@intellisurvey.com). A current version of this Privacy Policy, responsive to current laws and industry standards, will be posted on our website: [www.intellisurvey.com/privacy.htm](https://web.archive.org/web/20061026060136id_/http%3A//intellisurvey.com/run/privacy.htm).
+**U.S. - EU Safe Harbor Privacy Statement**   
+For any personal information that we receive from the European Economic Area, IntelliSurvey has committed to handling such personal information in accordance with the Safe Harbor Principles. IntelliSurvey's Safe Harbor certification can be found at http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's Website at [http://www.export.gov/safeharbor.](http://www.export.gov/safeharbor)
+
+For further information about our privacy policy, please contact us. A current version of this Privacy Policy, responsive to current laws and industry standards, will be posted on our website and accessible from a link on our home page. 
