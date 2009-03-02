@@ -1,36 +1,63 @@
-> *The following text is extracted and transformed from the aspca.org privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404010238id_/http%3A//www.aspca.org/site/PageServer%3Fpagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspca.org privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302092814id_/http%3A//www.aspca.org/about-us/legal-information/privacy-policy.html) for the most accurate reproduction.*
 
-# ASPCA: About Us: ASPCA Privacy Policy
+# Privacy Policy
 
-By visiting our website, you are accepting the practices described in this privacy policy (the "Privacy Policy"). The ASPCA reserves the right to change this Privacy Policy at any time by posting such change at this URL. [See our copyright policy](http://www.aspca.org/site/PageServer?pagename=copyright). 
+The website is operated by The American Society for the Prevention of Cruelty to Animals®, with offices at 424 East 92nd Street, New York, New York 10128 (the "ASPCA").
 
-INFORMATION COLLECTED  
-The ASPCA collects non-personally identifiable information about you through your IP address, computer settings or most-recently visited URL. We may also ask you to provide certain non-personally identifiable information about yourself, such as your age, household income, buying preferences, etc. We do not collect any personally identifiable information about you unless you voluntarily submit such information to us, by, for example, filling out a survey or registration form. The types of information that may be requested include your name, address, email address, and telephone number to respond to a specific request for further information. This information is used solely by ASPCA for internal purposes. ASPCA assumes no responsibility for the data collection and use practices of third parties that process online credit card donation transactions. You may request a record of your information by calling (212) 876-7700 during normal business hours, Monday-Friday, 9:00am-5:00pm or by e-mail at [development@aspca.org](mailto:development@aspca.org "E-mail development@aspca.org").
+By visiting our website, you are accepting the practices described in this privacy policy (the "Privacy Policy").  The ASPCA reserves the right to change this Privacy Policy at any time by posting such change here.  Your continued use of the website after such change is made constitutes acceptance of and agreement to be bound by the terms of the Privacy Policy as modified.
 
-USE OF INFORMATION  
-ASPCA respects your privacy and has instituted policies intended to ensure that your personal information is handled in a safe and responsible manner. We may use this information to deliver to you information about our company and promotional material from some of our business partners, as well as for trend analysis, pattern detection, and site administration. Your information may also be used to contact you when necessary and may be shared with other companies that may want to contact you with offers consistent with your stated preferences and/or our mission. Non-personal demographic and profile data is used to tailor your experience at our site, showing you content we think you might be interested in. Occasionally, ASPCA may contact registered visitors who have provided their personally identifiable information through the Web site in order to conduct surveys seeking feedback about their experience on this site. These surveys are used for quality assurance purposes to improve our level of customer service. The data collected may be shared with third parties on an aggregated basis.
+This Privacy Policy applies only to the website. In addition to our own website, we provide links to other third party websites that are not under the ASPCA's control.  The ASPCA is not responsible for the privacy policy or content of any website linked to from the Web Sites.
 
-We will only disclose personally identifiable information to third parties when (i) the person submitting the information authorizes us to do so; (ii) sharing the information is a necessary operation of the site (i.e. to process credit card information); and (iii) we are required to do so by law or in the good-faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on ASPCA or the site; (b) protect and defend the rights or property of ASPCA, the site or the visitors to the site, and/or (c) act under exigent circumstances to protect the personal safety of visitors to the site or the public.
+[What information does the ASPCA collect?](http://www.aspca.org/about-us/legal-information/privacy-policy.html#whatinfo)  
+[How is the information used?](http://www.aspca.org/about-us/legal-information/privacy-policy.html#howinfo)  
+[Does the ASPCA use cookies?](http://www.aspca.org/about-us/legal-information/privacy-policy.html#cookies)  
+[How secure is the ASPCA's website?](http://www.aspca.org/about-us/legal-information/privacy-policy.html#secure)  
+[Does the ASPCA collect information from children?](http://www.aspca.org/about-us/legal-information/privacy-policy.html#childinfo)  
+[Do I have control over how my information is used?](http://www.aspca.org/about-us/legal-information/privacy-policy.html#controlinfo)  
+[How can I get more information about the Privacy Policy?](http://www.aspca.org/about-us/legal-information/privacy-policy.html#moreinfo)
 
-By visiting this Web site you agree that no information you submit to the site shall contain libelous or otherwise unlawful, abusive or obscene material. You are solely responsible for the content of any information you provide to ASPCA.
+#### What information does the ASPCA collect?
 
-USE OF COOKIES  
-When you register on our Web site, we might store some information on your computer in the form of a cookie or similar file in order to collect information about your activities on the site or to make it possible for you to keep track of items you wish to purchase on our site. We use cookies to deliver to you content that is specific to your interests, and to prevent you from reentering all your registration data at each connection. The cookies shall only be used to obtain non-personal information in order to improve your online experience. No other information is stored in these cookies.
+The ASPCA collects non-personally identifiable information about you through your IP address, computer settings and/or most-recently visited website.  We may also ask you to provide certain non-personally identifiable information about yourself, such as your age, household income, buying preferences, etc.  We do not collect any personally identifiable information about you unless you voluntarily submit such information to us, by, for example, filling out a survey or registration form.  The types of information that may be requested include your name, address, email address, and telephone number. In no case does the ASPCA share telephone numbers or e-mail addresses or permit other organizations to solicit our donors through either of these mediums. Your may opt out of receiving communications from us by sending an e-mail to [website@aspca.org](mailto:website@aspca.org) with your complete name, address, and e-mail address.  The ASPCA assumes no responsibility for the data collection and use practices of third parties that process online credit card transactions.  You may request a record of your information by calling the Development Department at (212) 876-7700 during normal business hours, Monday-Friday, 9:00am-5:00pm or by e-mail at [development@aspca.org](mailto:development@aspca.org).
 
-SECURITY  
-Our site has industry standard high encryption security measures in place to protect the loss, misuse and alteration of the information under our control. The ASPCA makes every effort to protect your online order information by using Secure Socket Layer (SSL) technology. SSL encrypts your order information to avoid the decoding of that information by anyone other than ASPCA. We do not store your credit card information.
+#### How is the information used?
 
-CHILDREN  
-This site is intended for an adult audience. No one under the age of 18 is allowed to register on this site. We will not knowingly accept any personal data from children on this site. If you are under the age of 18, please visit our ASPCA Animaland children's eb site at <http://www.animaland.org/>.
+The ASPCA respects your privacy and has instituted policies intended to ensure that your personal information is handled in a safe and responsible manner.  We may use this information to deliver information to you about our company and promotional material from some of our business partners, as well as for trend analysis, pattern detection, and website administration.  Your information may also be used to contact you and share with other companies that may want to contact you with offers consistent with your stated preferences and/or our mission or for other solicitation purposes.  Non-personal demographic and profile data is used to tailor your experience at our website, showing you content we think you might be interested in.  Occasionally, the ASPCA may contact visitors who have provided their personally identifiable information through the website to conduct surveys seeking feedback about their experience on the website. These surveys are used for quality assurance purposes to improve our level of customer service. The data collected may be shared with third parties on an aggregated basis.
 
-OTHER WEB SITES; LINKS  
-This Privacy Policy only applies to www.aspca.org. This site contains links to other Web sites that are not under ASPCA's control. ASPCA is not responsible for the privacy practices or the content of such Web sites. ASPCA is not responsible for the privacy policy of any Web site linked to from this site.
+We will only disclose personally identifiable information to third parties when: (i) the person submitting the information authorizes us to do so; (ii) sharing the information is a necessary operation of the website (i.e. to process credit card information); and (iii) we are required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on the ASPCA or the website, (b) protect and defend the rights or property of the ASPCA, the website or the visitors to the website, and/or (c) prevent or mitigate harm or potential harm or damage of any type to visitors to the website or the public.
 
-OPT-OUT  
-You may opt-out of receiving communications from our partners and/or from us by sending an email to us at [membership@aspca.org](mailto:membership@aspca.org "E-mail membership@aspca.org") with your complete name, address and email address.
+By visiting the website you agree that information you submit to the website shall not contain libelous or otherwise unlawful, abusive or obscene material.  You are solely responsible for the content of any information you provide to the ASPCA.
 
-DISCLAIMER  
-This site and all of the materials on or referenced by the site are provided on an "as is" basis. In no event shall ASPCA be liable for any direct, indirect, incidental, punitive, or consequential damages of any kind whatsoever with respect to the use of this site. You agree that you are using this site solely at your own risk.
+#### Does the ASPCA use cookies?
 
-INDEMNIFICATION  
-By using ASPCA's Web site and all its contents, you agree to defend, indemnify and hold ASPCA harmless from any and all claims, damages, costs and expenses, including attorneys' fees, arising from or related to your use of the site. Your use of this site constitutes an agreement between you and the ASPCA. This agreement, which consists of the terms and conditions set forth herein, shall be governed by, construed under and enforced in accordance with the laws of the State of New York, without regard to any conflict of law provisions. User acknowledges and consents to jurisdiction in New York. Any action in connection with, relating to and/or arising from this Agreement shall be brought exclusively in New York, New York, in a federal or state court of competent jurisdiction. This agreement is effective unless and until terminated by either you or ASPCA. You may terminate this agreement at any time by notifying ASPCA by email or mail. ASPCA may also terminate this agreement at any time and may do so immediately without notice, and accordingly deny you access to the site, if in ASPCA's sole discretion you fail to comply with any term or provision of this agreement. Possible evidence of use of this site for illegal purposes may be provided to law enforcement authorities in the discretion of ASPCA. This is the entire agreement between the parties related to the use of this site.
+When you register on our website, we might store some information on your computer in the form of a "cookie" (i.e. a small piece of text that stores information on your browser in your computers hard drive) or similar file.  We do this to collect information about your activities on the website, make it possible for you to keep track of items you wish to purchase on our website, deliver to you content that is specific to your interests, and/or to prevent you from re-entering all your registration data at each connection.  The cookies shall only be used to obtain non-personal information to improve your online experience. No other information is stored in these cookies.  You can set your browser to notify you when you receive a cookie and delete any cookies you receive.
+
+#### How secure is the ASPCA's website?
+
+Our website has industry standard high encryption security measures in place to protect the loss, misuse and alteration of the information under our control.  The ASPCA makes every effort to protect your online order information by using Secure Socket Layer (SSL) technology.  SSL encrypts your order information to avoid the decoding of that information by anyone other than the ASPCA.  We do not store your credit card information.
+
+#### Does the ASPCA collect information from children?
+
+No one under the age of 18 is allowed to register on the website.  The ASPCA is committed to safeguarding our users' online privacy and recognizes the importance of protecting the privacy of personal information, particularly that of children.  The ASPCA takes all required steps to protect the privacy and safety of children in accordance with the Children's Online Privacy Protection Act ("COPPA") .  To review the measures the ASPCA takes in relation to the privacy of children, visit our [children's website's Privacy Policy](http://www2.aspca.org/site/PageServer?pagename=kids_li_privacy).
+
+#### Do I have control over how my information is used?
+
+You may opt-out of receiving communications from us by sending an email to us at [website@aspca.org](mailto:website@aspca.org) with your complete name, address and email address.
+
+#### How can I get more information about the Privacy Policy?
+
+If you have questions or concerns about the Privacy Policy, you can contact the ASPCA Legal Department at:
+
+Via Regular Mail:  
+ASPCA  
+Attn.: Legal Department  
+424 E. 92nd Street  
+New York, NY 10128 
+
+Via email:  
+[legal@aspca.org](mailto:legal@aspca.org)
+
+Via Fax:  
+(212) 860-3560
+
+_Last Revised: April 19, 2006_
