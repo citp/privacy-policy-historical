@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the match.com.au privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511191836id_/http%3A//au.match.com/Help/Privacy.aspx%3Ftrackingid%3D244032) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the match.com.au privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302090129id_/http%3A//www.match.com.au/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # match.com - When you're serious about love.
 
