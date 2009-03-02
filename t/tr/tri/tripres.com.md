@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tripres.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012210id_/http%3A//www.tripres.com/information/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripres.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302090734id_/http%3A//www.tripres.com/information/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Information - TripRes.com
 
-|  |   
+[](http://www.tripres.com/) |  |   
   
 
 
