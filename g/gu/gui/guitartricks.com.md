@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the guitartricks.com privacy policy that was archived on 2006-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060419073813id_/http%3A//guitartricks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitartricks.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302193509id_/http%3A//www.guitartricks.com/privacy.php) for the most accurate reproduction.*
 
-# Guitar Lessons: Legal Notice
+# Guitar Lessons: Privacy Policy
 
-**Privacy Policy** ****
+  
+
 
 Guitar Tricks has created this privacy statement in order to demonstrate our community's firm commitment to the privacy of our visitors. (Visitors are also referred to as "users" interchangeably in this policy.) The following discloses our information gathering and dissemination practices for guitartricks.com (referred to as "our site" in this policy). If you find any of this objectionable, we would welcome your feedback. We want to be as respectful of your privacy as possible. 
 
@@ -28,7 +29,7 @@ We use an outside ad company to display ads on our site. These ads may contain c
 **This site has security measures in place to protect the loss, misuse and alteration of the information under our control. For more information about our security measures, you may send an e-mail to [webmaster](https://web.archive.org/contact.php). 
 
 **Choice/Opt-Out  
-**Our site provides users with the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. Generally, we will not contact visitors at all unless they subscribe to our newsletter or we have specific account management reasons to contact a user (password resets, billing issues, etc.). For more information about opting-out, please send an e-mail to [webmaster](https://web.archive.org/contact.php). This site gives users the option of changing and modifying information previously provided. If you have questions about correcting and updating your information, please send an e-mail to [webmaster](https://web.archive.org/contact.php). 
+**Our site provides users specific account management reasons to contact a user (password resets, billing issues, etc.). For more information about opting-out, please send an e-mail to [webmaster](https://web.archive.org/contact.php). This site gives users the option of changing and modifying information previously provided. If you have questions about correcting and updating your information, please send an e-mail to [webmaster](https://web.archive.org/contact.php). 
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [webmaster](https://web.archive.org/contact.php). 
