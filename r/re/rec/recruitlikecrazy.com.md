@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recruitlikecrazy.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021902id_/http%3A//www.recruitlikecrazy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitlikecrazy.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302225805id_/http%3A//www.recruitlikecrazy.com/privacy.html) for the most accurate reproduction.*
 
 # RecruitLikeCrazy.com - Privacy Policy
 
@@ -109,3 +109,15 @@ From time to time, Power Prospecting System LLC will enter into an arrangement w
 
 
 We hope this information satisfies any questions or concerns you may have regarding the email practices of Power Prospecting System LLC. If you have additional questions or wish to discuss this matter further, please contact us at: infoATgetnetmlmprofitsDOTcom (Please replace "AT" with @ and "DOT" with .) 
+
+**EARNINGS DISCLAIMER:**
+
+We make no suggestions, implications, warranties, or guarantees that by joining this website, or that by following or adhering to any program or information featured anywhere inside this web site or elsewhere, that users will make money. We are not responsible for any losses or damages resulting from the use of any product, link, information, or opportunity contained within this web site. Users realize any business has potential risk for loss of capital. 
+
+Furthermore, any earnings or income statements used within the website are only examples or estimates of what you could earn. There are absolutely no guarantees that you'll do as well and you must be prepared to accept the risk of doing not as well. In the event that there are any specific income or earnings figures that have been reported within the website, this must not be considered as average earnings. You must be prepared to accept the risk of doing not as well.
+
+Earnings and income results are based on multiple factors. Every individual is different and will achieve different results. We do not know your education, experience, motivation, work ethic, as well as many other factors that may determine or affect the results of how well you may or may not do
+
+There are absolutely no guarantees that past successes or prior results are any indication of future successes or results. The internet is a rapidly changing environment. What has worked in the past will not necessarily work in the future. Always do your own due diligence before entering into any business or making business decisions. 
+
+By using our products and services, you agree that we are not responsible for the success or failure of your business.
