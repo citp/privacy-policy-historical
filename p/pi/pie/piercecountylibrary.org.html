@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the piercecountylibrary.org privacy policy that was archived on 2008-09-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080930124336id_/http%3A//www.piercecountylibrary.org/about-us/policies/web-site-privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the piercecountylibrary.org privacy policy that was archived on 2009-03-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090302073152id_/http%3A//www.piercecountylibrary.org/about-us/policies/web-site-privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html><head>
 	<title>Pierce County Library &gt; Web site Privacy Policy</title>
@@ -13,12 +13,76 @@
 
 	<script type="text/javascript" src="/js/common.js"></script>
 	
-	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3386238-1");
+pageTracker._trackPageview();
+</script>
         
         <script type="text/javascript">
-        _uacct = "UA-3386238-1";
-        urchinTracker();
-        </script>
+		// <![CDATA[
+			/************************************************
+				New window link
+				by Marko Dugonjic, http://www.maratz.com/
+			*************************************************/
+
+			// Config:
+			var path_to_icon 		= '/images/new-window.gif',
+				link_alt_text 		= '(Open in new window?)',
+				link_title_text 	= 'Open this link in a new window!';
+				
+
+			function new_window_link() {
+				var d 	= document,
+					dn 	= d.domain;
+					
+				if (!d.getElementById || !d.createTextNode || !dn) return;
+				
+				var l = d.getElementsByTagName('a'),
+					lnk,
+					i = l.length - 1;
+				
+				while (i--) {
+					
+					lnk = l[i];
+					
+					// skip mailto links
+					if (lnk.href.match(/^mailto:/)) continue;
+
+					// just for off-site links and links without target attribute
+					if (lnk.href.split('/')[2].replace(/www\./, '') != dn.replace(/www\./, '')
+						&& !lnk.getAttribute('target')) {
+
+						// create new elements
+						var nwl 		= d.createElement('a');
+						var nwi 		= d.createElement('img');
+						var spc 		= d.createTextNode(' ');
+
+						// setup image attributes
+						nwi.setAttribute('src', 	path_to_icon);
+						nwi.setAttribute('alt', 	link_alt_text);
+						nwi.setAttribute('title', 	link_title_text);
+
+						// set link attributes
+						nwl.setAttribute('href', 	lnk.getAttribute('href'));
+						nwl.setAttribute('target', 	'_blank');
+						nwl.setAttribute('title', 	link_title_text);
+						nwl.className = 'new_window_link';
+
+						// append new elements
+						nwl.appendChild(nwi);
+						lnk.parentNode.insertBefore(spc, lnk.nextSibling);
+						lnk.parentNode.insertBefore(nwl, lnk.nextSibling.nextSibling);
+					}
+					
+				}
+			}
+			onload = new_window_link;
+		// ]]>
+	</script> 
 
 </head>
 
@@ -103,7 +167,7 @@
                 </ul>
                 <!-- SUB NAV END -->
                 </li>
-                <li><a href="/services/sources.htm" class="nochild">E-Sources</a></li>
+                <li><a href="/services/sources/Default.htm" class="nochild">E-Sources</a></li>
                 <li><a href="/services/genxgeny.htm" class="nochild">genXgenY</a></li>
                 <li><a href="/services/help/Default.htm" class="daddy">Help</a>
                 <!-- SUB NAV START -->
@@ -112,7 +176,7 @@
                     <li><a href="/services/help/ask-librarian/Default.htm" class="nochild">Ask a Librarian</a></li>
                     <li><a href="/services/help/computer-support/Default.htm" class="nochild">Computer Support</a></li>
                     <li><a href="/services/help/know/Default.htm" class="nochild">Did You Know?</a></li>
-                    <li><a href="/services/help/mail.htm" class="nochild">E-mail</a></li>
+                    <li><a href="/services/help/mail-services.htm" class="nochild">E-mail Services</a></li>
                 </ul>
                 <!-- SUB NAV END -->
                 </li>
@@ -139,14 +203,7 @@
                 <!-- SUB NAV END -->
                 </li>
                 <li><a href="/services/live-homework-help.htm" class="nochild">Live Homework Help®</a></li>
-                <li><a href="/services/meeting-rooms/Default.htm" class="daddy">Meeting Rooms</a>
-                <!-- SUB NAV START -->
-                <ul>
-                    <li><a href="/services/meeting-rooms/branches.htm" class="nochild">Branches</a></li>
-                    <li><a href="/services/meeting-rooms/processing-administrative-center.htm" class="nochild">Processing &amp; Administrative Center</a></li>
-                </ul>
-                <!-- SUB NAV END -->
-                </li>
+                <li><a href="/services/online-meeting-room.htm" class="nochild">Meeting Rooms</a></li>
                 <li><a href="/services/outreach/Default.htm" class="daddy">Outreach</a>
                 <!-- SUB NAV START -->
                 <ul>
@@ -154,6 +211,17 @@
                     <li><a href="/services/outreach/hearing-impaired.htm" class="nochild">Hearing Impaired</a></li>
                     <li><a href="/services/outreach/homebound-adult-care.htm" class="nochild">Homebound and Adult Care Delivery</a></li>
                     <li><a href="/services/outreach/visually-impaired.htm" class="nochild">Visually Impaired</a></li>
+                </ul>
+                <!-- SUB NAV END -->
+                </li>
+                <li><a href="/services/1-12-09/Default.htm" class="daddy">Pierce County Library 2030: Facilities Master Plan</a>
+                <!-- SUB NAV START -->
+                <ul>
+                    <li><a href="/services/1-12-09/overview.htm" class="nochild">Overview</a></li>
+                    <li><a href="/services/1-12-09/timeline-key-dates.htm" class="nochild">Timeline of Key Dates</a></li>
+                    <li><a href="/services/1-12-09/assessment-library-services.htm" class="nochild">Assessment of Library Services</a></li>
+                    <li><a href="/services/1-12-09/involved.htm" class="nochild">Get Involved!</a></li>
+                    <li><a href="/services/1-12-09/community-leaders-advisory.htm" class="nochild">Community Leaders Advisory Groups</a></li>
                 </ul>
                 <!-- SUB NAV END -->
                 </li>
@@ -198,30 +266,12 @@
                 </ul>
                 <!-- SUB NAV END -->
                 </li>
-                <li><a href="/services/technology.htm" class="nochild">Your dollars, your library technology</a></li>
             </ul>
             <!-- SUB NAV END -->
         </li>
         <li class="toplevel" id="toplevel2"><a href="/reading-books/Default.htm" class="books"><span>Reading/Books</span></a>
             <!-- SUB NAV START -->
             <ul>
-                <li><a href="/reading-books/pierce-county-reads/Default.htm" class="daddy">Pierce County READS</a>
-                <!-- SUB NAV START -->
-                <ul>
-                    <li><a href="/reading-books/pierce-county-reads/alexander-mccall-smith.htm" class="nochild">Author Event</a></li>
-                    <li><a href="/reading-books/pierce-county-reads/overview-pierce-county.htm" class="nochild">Overview</a></li>
-                    <li><a href="/reading-books/pierce-county-reads/no-1-ladies.htm" class="nochild">2008 book series</a></li>
-                    <li><a href="/reading-books/pierce-county-reads/meet-author-hear.htm" class="nochild">Meet the author, podcast</a></li>
-                    <li><a href="/reading-books/pierce-county-reads/listing-program-events.htm" class="nochild">Listing of program events</a></li>
-                    <li><a href="/reading-books/pierce-county-reads/online-readers-guide.htm" class="nochild">Online readers' guide</a></li>
-                    <li><a href="/reading-books/pierce-county-reads/give-review-no.htm" class="nochild">Give your review</a></li>
-                    <li><a href="/reading-books/pierce-county-reads/editorial-reviews-no.htm" class="nochild">Editorial reviews</a></li>
-                    <li><a href="/reading-books/pierce-county-reads/selecting-2008-book.htm" class="nochild">Selecting the 2008 book</a></li>
-                    <li><a href="/reading-books/pierce-county-reads/history-note-no.htm" class="nochild">A History Note</a></li>
-                    <li><a href="/reading-books/pierce-county-reads/sponsors-community-partners.htm" class="nochild">Sponsors and Partners</a></li>
-                </ul>
-                <!-- SUB NAV END -->
-                </li>
                 <li><a href="/reading-books/audiobooks-ebooks/Default.htm" class="daddy">Audiobooks and eBooks</a>
                 <!-- SUB NAV START -->
                 <ul>
@@ -269,13 +319,28 @@
                 </ul>
                 <!-- SUB NAV END -->
                 </li>
-                <li><a href="/reading-books/reading-programs-book.htm" class="nochild">Reading Programs &amp; Book Reviews</a></li>
+                <li><a href="/reading-books/2009-pierce-county/Default.htm" class="daddy">Pierce County READS</a>
+                <!-- SUB NAV START -->
+                <ul>
+                    <li><a href="/reading-books/2009-pierce-county/overview.htm" class="nochild">Overview</a></li>
+                    <li><a href="/reading-books/2009-pierce-county/about-book.htm" class="nochild">About the Book</a></li>
+                    <li><a href="/reading-books/2009-pierce-county/about-authors.htm" class="nochild">About the Authors</a></li>
+                    <li><a href="/reading-books/2009-pierce-county/author-event.htm" class="nochild">Author Event</a></li>
+                    <li><a href="/reading-books/2009-pierce-county/book-list.htm" class="nochild">Book list</a></li>
+                    <li><a href="/reading-books/2009-pierce-county/listing-program-events.htm" class="nochild">Listing of Free Program Events</a></li>
+                    <li><a href="/reading-books/2009-pierce-county/discussion-questions.htm" class="nochild">Discussion Questions</a></li>
+                    <li><a href="/reading-books/2009-pierce-county/timeline.htm" class="nochild">Timeline</a></li>
+                    <li><a href="/reading-books/2009-pierce-county/sponsors-partners.htm" class="nochild">Sponsors and Partners</a></li>
+                </ul>
+                <!-- SUB NAV END -->
+                </li>
+                <li><a href="/reading-books/reading-programs-book/Default.htm" class="nochild">Reading Programs &amp; Book Reviews</a></li>
                 <li><a href="/reading-books/wiki.htm" class="nochild">WIKI</a></li>
                 <li><a href="/reading-books/worldcat.htm" class="nochild">WorldCat</a></li>
             </ul>
             <!-- SUB NAV END -->
         </li>
-        <li class="toplevel" id="toplevel3"><a href="/calendar/Default.htm" class="calendar"><span>Calendar</span></a>
+        <li class="toplevel" id="toplevel3"><a href="/calendar.htm" class="calendar"><span>Calendar</span></a>
         </li>
         <li class="toplevel" id="toplevel4"><a href="/branches/Default.htm" class="branches"><span>Branches</span></a>
             <!-- SUB NAV START -->
@@ -283,43 +348,6 @@
                 <li><a href="/branches/bookmobiles.htm" class="nochild">Bookmobiles</a></li>
                 <li><a href="/branches/branch-listing.htm" class="nochild">Branch listing</a></li>
                 <li><a href="/branches/branch-map.htm" class="nochild">Branch Map</a></li>
-                <li><a href="/branches/central-south-county/Default.htm" class="daddy">Central - South County Branches</a>
-                <!-- SUB NAV START -->
-                <ul>
-                    <li><a href="/branches/central-south-county/eatonville/Default.htm" class="nochild">Eatonville</a></li>
-                    <li><a href="/branches/central-south-county/graham/Default.htm" class="nochild">Graham</a></li>
-                    <li><a href="/branches/central-south-county/orting/Default.htm" class="nochild">Orting</a></li>
-                    <li><a href="/branches/central-south-county/pac-processing-administration/Default.htm" class="nochild">PAC - Processing &amp; Administration Center</a></li>
-                    <li><a href="/branches/central-south-county/parkland-spanaway/Default.htm" class="nochild">Parkland Spanaway</a></li>
-                    <li><a href="/branches/central-south-county/south-hill/Default.htm" class="nochild">South Hill</a></li>
-                    <li><a href="/branches/central-south-county/summit/Default.htm" class="nochild">Summit</a></li>
-                </ul>
-                <!-- SUB NAV END -->
-                </li>
-                <li><a href="/branches/north-east-county/Default.htm" class="daddy">North - East County Branches</a>
-                <!-- SUB NAV START -->
-                <ul>
-                    <li><a href="/branches/north-east-county/bonney-lake/Default.htm" class="nochild">Bonney Lake</a></li>
-                    <li><a href="/branches/north-east-county/buckley/Default.htm" class="nochild">Buckley</a></li>
-                    <li><a href="/branches/north-east-county/milton/Default.htm" class="nochild">Milton</a></li>
-                    <li><a href="/branches/north-east-county/orting/Default.htm" class="nochild">Orting</a></li>
-                    <li><a href="/branches/north-east-county/sumner/Default.htm" class="nochild">Sumner</a></li>
-                </ul>
-                <!-- SUB NAV END -->
-                </li>
-                <li><a href="/branches/west-county-branches/Default.htm" class="daddy">West County Branches</a>
-                <!-- SUB NAV START -->
-                <ul>
-                    <li><a href="/branches/west-county-branches/dupont/Default.htm" class="nochild">DuPont</a></li>
-                    <li><a href="/branches/west-county-branches/key-center/Default.htm" class="nochild">Key Center</a></li>
-                    <li><a href="/branches/west-county-branches/lakewood/Default.htm" class="nochild">Lakewood</a></li>
-                    <li><a href="/branches/west-county-branches/peninsula/Default.htm" class="nochild">Peninsula</a></li>
-                    <li><a href="/branches/west-county-branches/steilacoom/Default.htm" class="nochild">Steilacoom</a></li>
-                    <li><a href="/branches/west-county-branches/tillicum/Default.htm" class="nochild">Tillicum</a></li>
-                    <li><a href="/branches/west-county-branches/university-place/Default.htm" class="nochild">University Place</a></li>
-                </ul>
-                <!-- SUB NAV END -->
-                </li>
                 <li><a href="/branches/library-systems/Default.htm" class="nochild">Other Library Systems</a></li>
             </ul>
             <!-- SUB NAV END -->
@@ -349,13 +377,14 @@
                     <li><a href="/kids-teens/teens/book-lists-teens/Default.htm" class="nochild">Book lists for Teens</a></li>
                     <li><a href="/kids-teens/teens/colleges-careers/Default.htm" class="nochild">Colleges and Careers</a></li>
                     <li><a href="/kids-teens/teens/local-authors.htm" class="nochild">Local Authors</a></li>
+                    <li><a href="/kids-teens/teens/library-clubs.htm" class="nochild">Library Clubs</a></li>
                     <li><a href="/kids-teens/teens/local-history-teens.htm" class="nochild">Local History for Teens</a></li>
                     <li><a href="/kids-teens/teens/research-tips.htm" class="nochild">Research Tips</a></li>
                     <li><a href="/kids-teens/teens/school-districts.htm" class="nochild">School Districts</a></li>
+                    <li><a href="/kids-teens/teens/teen-writing-contest/Default.htm" class="nochild">Teen Writing Contest</a></li>
                     <li><a href="/kids-teens/teens/teen-blog.htm" class="nochild">Teen Blog</a></li>
                     <li><a href="/kids-teens/teens/teen-lit-blog.htm" class="nochild">Teen Lit Blog</a></li>
                     <li><a href="/kids-teens/teens/teen-manga-drawing/Default.htm" class="nochild">Teen Manga Drawing Contest</a></li>
-                    <li><a href="/kids-teens/teens/teen-writing-contest/Default.htm" class="nochild">Teen Writing Contest</a></li>
                 </ul>
                 <!-- SUB NAV END -->
                 </li>
@@ -363,17 +392,18 @@
                 <!-- SUB NAV START -->
                 <ul>
                     <li><a href="/kids-teens/parents-caregivers/child-care/Default.htm" class="nochild">Child Care</a></li>
-                    <li><a href="/kids-teens/parents-caregivers/early-learning.htm" class="nochild">Early Learning</a></li>
+                    <li><a href="/kids-teens/parents-caregivers/early-learning/Default.htm" class="nochild">Early Learning</a></li>
                     <li><a href="/kids-teens/parents-caregivers/selection/Default.htm" class="nochild">Selection</a></li>
                     <li><a href="/kids-teens/parents-caregivers/wiggles-tickles-rhymes.htm" class="nochild">Wiggles, Tickles &amp; Rhymes</a></li>
+                    <li><a href="/kids-teens/parents-caregivers/play-pass.htm" class="nochild">Play Pass</a></li>
                 </ul>
                 <!-- SUB NAV END -->
                 </li>
-                <li><a href="/kids-teens/read-spring/Default.htm" class="daddy">Read into spring!</a>
+                <li><a href="/kids-teens/read-spring-2009/Default.htm" class="daddy">READ into spring!</a>
                 <!-- SUB NAV START -->
                 <ul>
-                    <li><a href="/kids-teens/read-spring/read-patch.htm" class="nochild">Read Patch</a></li>
-                    <li><a href="/kids-teens/read-spring/read-poster.htm" class="nochild">Read Poster</a></li>
+                    <li><a href="/kids-teens/read-spring-2009/read-patch.htm" class="nochild">Read Patch</a></li>
+                    <li><a href="/kids-teens/read-spring-2009/read-poster.htm" class="nochild">Read Poster</a></li>
                 </ul>
                 <!-- SUB NAV END -->
                 </li>
@@ -389,9 +419,9 @@
                 <li><a href="/about-us/about-overview/Default.htm" class="daddy">About Us - Overview</a>
                 <!-- SUB NAV START -->
                 <ul class="last-item">
+                    <li><a href="/about-us/about-overview/fast-facts.htm" class="nochild">Fast Facts</a></li>
                     <li><a href="/about-us/about-overview/library-history.htm" class="nochild">Library History</a></li>
                     <li><a href="/about-us/about-overview/library-mission.htm" class="nochild">Library Mission</a></li>
-                    <li><a href="/about-us/about-overview/library-system.htm" class="nochild">Library System</a></li>
                     <li><a href="/about-us/about-overview/interactive-image-gallery.htm" class="nochild">Interactive Image Gallery</a></li>
                 </ul>
                 <!-- SUB NAV END -->
@@ -421,6 +451,7 @@
                 <ul class="last-item">
                     <li><a href="/about-us/board-trustees/agendas.htm" class="nochild">Agendas</a></li>
                     <li><a href="/about-us/board-trustees/board-members.htm" class="nochild">Board Members</a></li>
+                    <li><a href="/about-us/board-trustees/board-agenda-packet/Default.htm" class="nochild">Board Agenda Packet</a></li>
                     <li><a href="/about-us/board-trustees/meeting-schedule.htm" class="nochild">Meeting Schedule</a></li>
                     <li><a href="/about-us/board-trustees/minutes.htm" class="nochild">Minutes</a></li>
                 </ul>
@@ -434,7 +465,7 @@
                     <li><a href="/about-us/employment/application-procedures.htm" class="nochild">Application Procedures</a></li>
                     <li><a href="/about-us/employment/current-job-openings/Default.htm" class="nochild">Current Job Openings</a></li>
                     <li><a href="/about-us/employment/equal-opportunity-employer.htm" class="nochild">Equal Opportunity Employer</a></li>
-                    <li><a href="/about-us/employment/employment-faq.htm" class="nochild">Employment FAQ's</a></li>
+                    <li><a href="/about-us/employment/employment-faqs.htm" class="nochild">Employment FAQs</a></li>
                 </ul>
                 <!-- SUB NAV END -->
                 </li>
@@ -451,9 +482,12 @@
                 <!-- SUB NAV END -->
                 </li>
                 <li><a href="/about-us/friends-library.htm" class="nochild">Friends of the Library</a></li>
+                <li><a href="/about-us/library-helping-in.htm" class="nochild">Library helping in hard economic times</a></li>
                 <li><a href="/about-us/library-quarterly/Default.htm" class="daddy">Library Quarterly</a>
                 <!-- SUB NAV START -->
                 <ul class="last-item">
+                    <li><a href="/about-us/library-quarterly/february-2009/Default.htm" class="nochild">February 2009</a></li>
+                    <li><a href="/about-us/library-quarterly/november-2008/Default.htm" class="nochild">November 2008</a></li>
                     <li><a href="/about-us/library-quarterly/september-2008/Default.htm" class="nochild">September 2008</a></li>
                 </ul>
                 <!-- SUB NAV END -->
@@ -461,8 +495,8 @@
                 <li><a href="/about-us/news-releases/Default.htm" class="daddy">News Releases</a>
                 <!-- SUB NAV START -->
                 <ul class="last-item">
-                    <li><a href="/about-us/news-releases/2008.htm" class="nochild">2008</a></li>
-                    <li><a href="/about-us/news-releases/archive-2007.htm" class="nochild">Archive - 2007</a></li>
+                    <li><a href="/about-us/news-releases/2009.htm" class="nochild">2009</a></li>
+                    <li><a href="/about-us/news-releases/archive-2008.htm" class="nochild">Archive - 2008</a></li>
                     <li><a href="/about-us/news-releases/board-trustees.htm" class="nochild">Board of Trustees</a></li>
                     <li><a href="/about-us/news-releases/foundation.htm" class="nochild">Foundation</a></li>
                     <li><a href="/about-us/news-releases/kids-teens.htm" class="nochild">Kids/Teens</a></li>
@@ -484,10 +518,9 @@
                 <li><a href="/about-us/re-authorized-levy/Default.htm" class="daddy">Re-authorized Levy</a>
                 <!-- SUB NAV START -->
                 <ul class="last-item">
-                    <li><a href="/about-us/re-authorized-levy/about-library.htm" class="nochild">About the Library</a></li>
                     <li><a href="/about-us/re-authorized-levy/community-advisory-committee.htm" class="nochild">Community Advisory Committee</a></li>
                     <li><a href="/about-us/re-authorized-levy/about-re-authorized.htm" class="nochild">More about re-authorized levy rate</a></li>
-                    <li><a href="/about-us/re-authorized-levy/new-branch-hours.htm" class="nochild">New Branch Hours</a></li>
+                    <li><a href="/about-us/re-authorized-levy/new-branch-hours.htm" class="nochild">New branch hours</a></li>
                     <li><a href="/about-us/re-authorized-levy/overview.htm" class="nochild">Overview</a></li>
                     <li><a href="/about-us/re-authorized-levy/public-opinion-survey.htm" class="nochild">Public opinion survey results</a></li>
                     <li><a href="/about-us/re-authorized-levy/to-re-authorized.htm" class="nochild">Q &amp; A to Re-authorized Levy</a></li>
@@ -526,7 +559,7 @@
 
             <img src="/images/spacer.gif" class="spacer" alt="&nbsp;">
 
-<ul><li class="first nochild"><a href="/about-us/about-overview/Default.htm">About Us - Overview</a></li><li class="nochild"><a href="/about-us/administration/Default.htm">Administration</a></li><li class="nochild"><a href="/about-us/annual-report/Default.htm">Annual Report</a></li><li class="nochild"><a href="/about-us/board-trustees/Default.htm">Board of Trustees</a></li><li class="nochild"><a href="/about-us/community-partner-links/Default.htm">Community Partner Links</a></li><li class="nochild"><a href="/about-us/contact.htm">Contact Us</a></li><li class="nochild"><a href="/about-us/employment/Default.htm">Employment</a></li><li class="nochild"><a href="/about-us/foundation/Default.htm">Foundation</a></li><li class="nochild"><a href="/about-us/friends-library.htm">Friends of the Library</a></li><li class="nochild"><a href="/about-us/library-quarterly/Default.htm">Library Quarterly</a></li><li class="nochild"><a href="/about-us/news-releases/Default.htm">News Releases</a></li><li class="nochild"><a href="/about-us/policies/Default.htm">Policies</a></li><ul><li class="first nochild"><a href="/about-us/policies/freedom-access.htm">Freedom of Access</a></li><li class="nochild"><a href="/about-us/policies/internet-policy.htm">Internet Use Policy</a></li><li class="nochild"><a href="/about-us/policies/meeting-room-policy.htm">Meeting Room Use Policy</a></li><li class="nochild"><a href="/about-us/policies/refund-policy.htm">Refund Policy</a></li><li class="active"><a href="/about-us/policies/web-site-privacy.htm">Web site Privacy Policy</a></li><li class="nochild"><a href="/about-us/policies/wi-fi-policy.htm">Wi-Fi Policy</a></li></ul><li class="nochild"><a href="/about-us/re-authorized-levy/Default.htm">Re-authorized Levy</a></li><li class="nochild"><a href="/about-us/volunteering/Default.htm">Volunteering</a></li></ul>
+<ul><li class="first nochild"><a href="/about-us/about-overview/Default.htm">About Us - Overview</a></li><li class="nochild"><a href="/about-us/administration/Default.htm">Administration</a></li><li class="nochild"><a href="/about-us/annual-report/Default.htm">Annual Report</a></li><li class="nochild"><a href="/about-us/board-trustees/Default.htm">Board of Trustees</a></li><li class="nochild"><a href="/about-us/community-partner-links/Default.htm">Community Partner Links</a></li><li class="nochild"><a href="/about-us/contact.htm">Contact Us</a></li><li class="nochild"><a href="/about-us/employment/Default.htm">Employment</a></li><li class="nochild"><a href="/about-us/foundation/Default.htm">Foundation</a></li><li class="nochild"><a href="/about-us/friends-library.htm">Friends of the Library</a></li><li class="nochild"><a href="/about-us/library-helping-in.htm">Library helping in hard economic times</a></li><li class="nochild"><a href="/about-us/library-quarterly/Default.htm">Library Quarterly</a></li><li class="nochild"><a href="/about-us/news-releases/Default.htm">News Releases</a></li><li class="nochild"><a href="/about-us/policies/Default.htm">Policies</a></li><ul><li class="first nochild"><a href="/about-us/policies/freedom-access.htm">Freedom of Access</a></li><li class="nochild"><a href="/about-us/policies/internet-policy.htm">Internet Use Policy</a></li><li class="nochild"><a href="/about-us/policies/meeting-room-policy.htm">Meeting Room Use Policy</a></li><li class="nochild"><a href="/about-us/policies/refund-policy.htm">Refund Policy</a></li><li class="active"><a href="/about-us/policies/web-site-privacy.htm">Web site Privacy Policy</a></li><li class="nochild"><a href="/about-us/policies/wi-fi-policy.htm">Wi-Fi Policy</a></li></ul><li class="nochild"><a href="/about-us/re-authorized-levy/Default.htm">Re-authorized Levy</a></li><li class="nochild"><a href="/about-us/volunteering/Default.htm">Volunteering</a></li></ul>
             <div class="cleaner">&nbsp;</div>
 
         </div>
