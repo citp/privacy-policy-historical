@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoono.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070510id_/http%3A//yoono.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoono.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302105046id_/http%3A//yoono.com/privacy.html) for the most accurate reproduction.*
 
 # yoono
 
@@ -9,8 +9,8 @@ Yoono, Inc. ("Yoono," "we," or "us") knows that you care how information about y
 How it works
 
 • The number one priority for Yoono is our users' experience, so we do our best to make sure you understand how this works so you can get the best out of the Service.   
-• Yoono respects transparency, so we don't do anything with your information other than as described in this Privacy Policy and as laid out in the [Yoono Terms of Use Agreement.](https://web.archive.org/web/20081217070510id_/http%3A//yoono.com/conditions.html)   
-• For the details, please read the full Privacy Policy below and our [Terms of Use Agreement.](https://web.archive.org/web/20081217070510id_/http%3A//yoono.com/conditions.html)
+• Yoono respects transparency, so we don't do anything with your information other than as described in this Privacy Policy and as laid out in the [Yoono Terms of Use Agreement.](https://web.archive.org/web/20090302105046id_/http%3A//yoono.com/conditions.html)   
+• For the details, please read the full Privacy Policy below and our [Terms of Use Agreement.](https://web.archive.org/web/20090302105046id_/http%3A//yoono.com/conditions.html)
 
 Information Collection and Use
 
@@ -40,7 +40,7 @@ When you provide another person's email address to invite that person to use Yoo
 
 Yoono may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions. 
 
-Yoono reserves the right, but has no obligation, to monitor the User Content you post on the site. Yoono has the right to remove any such information or material for any reason or no reason, including without limitation, if in its sole opinion, such information or material violates, or may violate, any applicable law or our [Terms of Use Agreement](https://web.archive.org/web/20081217070510id_/http%3A//yoono.com/conditions.html) or to protect or defend its rights or property or those of any third party. Yoono also reserves the right to remove information upon the request of any third party.
+Yoono reserves the right, but has no obligation, to monitor the User Content you post on the site. Yoono has the right to remove any such information or material for any reason or no reason, including without limitation, if in its sole opinion, such information or material violates, or may violate, any applicable law or our [Terms of Use Agreement](https://web.archive.org/web/20090302105046id_/http%3A//yoono.com/conditions.html) or to protect or defend its rights or property or those of any third party. Yoono also reserves the right to remove information upon the request of any third party.
 
 We use cookies, bookmarks and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our service; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web Yoono or ISP; and (f) help you efficiently access your information after you sign in. 
 
@@ -52,7 +52,7 @@ Yoono will not rent or sell your personally identifiable information to others a
 
 As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution. 
 
-Except as otherwise described in this privacy statement, Yoono will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our [Terms of Use](https://web.archive.org/web/20081217070510id_/http%3A//yoono.com/conditions.html), take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of Yoono, our users or others. 
+Except as otherwise described in this privacy statement, Yoono will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our [Terms of Use](https://web.archive.org/web/20090302105046id_/http%3A//yoono.com/conditions.html), take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of Yoono, our users or others. 
 
 Non-Personally Identifiable Information:
 
