@@ -1,23 +1,16 @@
-> *The following text is extracted and transformed from the ereader.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217181434id_/http%3A//www.ereader.com/ereader/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ereader.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302094729id_/http%3A//www.ereader.com/ereader/privacy.htm) for the most accurate reproduction.*
 
 # eReader.com Privacy Policy
 
-[](https://web.archive.org/help/iphonefaq.htm)
-
   
 
-
-[](http://www.ereader.com/servlet/mw?t=holiday08&si=59)
 
 [](http://www.ereader.com/servlet/mw?t=freebooks&si=59)
 
 [](https://web.archive.org/ereader/software/ebookstudio.htm)
 
-[](https://web.archive.org/ereader/software/product/15005_pro_ppcwm.htm)
+[](https://web.archive.org/ereader/software/product/22726_wm.htm)
 
-[](https://web.archive.org/ereader/software/browse.htm)
-
-  
 | 
 
 Your privacy is important to us. This Privacy Policy will tell you what information we collect, how we collect it, how we use it, how we disclose it, how we protect it, and what choices you have with respect to all of the above. We urge you to read this Privacy Policy so that you will understand both our commitment to you and your privacy, and how you can participate in that commitment.
