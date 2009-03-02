@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the orkin.com privacy policy that was archived on 2008-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081112012605id_/http%3A//www.orkin.com/globals/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orkin.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302090036id_/http%3A//www.orkin.com/globals/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### SCHEDULE SERVICE NOW
 
-For your convenience and immediate attention, call **888-215-0059** or fill out the form below.
+For your convenience and immediate attention, call **866-949-6097** or fill out the form below.
 
   * First name
   * Last name
@@ -37,7 +37,7 @@ Pest need food, water and a comfortable temperature to survive. As the temperatu
 
 
 
-#### [Get more info on local pests](https://web.archive.org/learningcenter/pest_library/pest_category/ants.aspx)
+#### [Get more info on local pests](https://web.archive.org/ants)
 
 ## Privacy policy
 
@@ -55,7 +55,7 @@ Occasionally we conduct surveys and contests on myorkin.com. If you choose to pa
 
 Information collected on orkin.com may be used in the following ways:
 
-  * Schedule appointments
+  * Schedule appointments 
   * Respond to your customer service inquiries 
   * Provide promotional communication and other information to you, if you choose to receive them 
   * Offer the products you want 
@@ -68,7 +68,7 @@ Information collected on orkin.com may be used in the following ways:
 
 Cookies are small pieces of data that are transferred to your computer's hard drive through your Web browser from our Web Server. A cookie cannot read data from your hard disk or read cookie files that may have been created from other sites. The Orkin.com Web site utilizes cookies as a means of providing personalization features to our visitors. For example, we utilize cookies to remember settings (zipcodes, accessibility settings, etc.) that you may have made at our Web site.
 
-The information stored in a cookie cannot be used to identify you personally unless combined with information that you have provided in connection with scheduling an appointment or registering for promotional emails, contests, or surveys. 
+The information stored in a cookie cannot be used to identify you personally unless combined with information that you have provided in connection with scheduling an appointment or registering for promotional emails, contests, or surveys.
 
 You can choose whether to accept cookies by changing the settings of your browser. Typically, by accessing the browser's help feature you can obtain information on how to prevent your browser from accepting all cookies or to notify you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Web site and other web sites may be diminished, and some features may not work as intended.
 
@@ -94,7 +94,7 @@ Orkin, Inc. will disclose your personal information or any of its log file infor
 
   1. Conform to the edicts of the law or comply with a legal process served on Orkin, Inc. 
   2. Protect and defend the rights or property of Orkin, Inc., or visitors of Orkin, Inc. 
-  3. Identify persons who may be violating the law, the legal notice or the rights of third parties.
+  3. Identify persons who may be violating the law, the legal notice or the rights of third parties. 
   4. Cooperate with the investigations of purported unlawful activities. 
 
 
