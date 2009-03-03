@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygrafico.com privacy policy that was archived on 2008-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081210085347id_/http%3A//www.mygrafico.com/privacy-policy/info_4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygrafico.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303101558id_/http%3A//www.mygrafico.com/privacy-policy/info_4.html) for the most accurate reproduction.*
 
 # Privacy Policy - MY GRAFICO (Powered by CubeCart)
 
