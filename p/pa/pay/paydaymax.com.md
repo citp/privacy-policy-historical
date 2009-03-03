@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paydaymax.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094911id_/http%3A//www.paydaymax.com/Short-Term-Payday-Loans-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydaymax.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303050555id_/http%3A//www.paydaymax.com/Short-Term-Payday-Loans-privacy-policy.php) for the most accurate reproduction.*
 
 # Short Term Payday Loans, Fast Cash -PayDayMax.com - privacy policy
 
