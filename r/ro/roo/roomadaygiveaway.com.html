@@ -1,0 +1,482 @@
+<!--The following is the downloaded HTML source of the roomadaygiveaway.com privacy policy that was archived on 2009-03-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090303021524id_/http%3A//www.roomadaygiveaway.com/policy_box.html) for the most accurate reproduction.-->
+
+<html><head><link rel="stylesheet" href="lytebox.css">
+<script language="JavaScript" type="text/javascript">
+/* ***********************************************************
+Example 4-3 (DHTMLAPI.js)
+"Dynamic HTML:The Definitive Reference"
+2nd Edition
+by Danny Goodman
+Published by O'Reilly & Associates  ISBN 1-56592-494-0
+http://www.oreilly.com
+Copyright 2002 Danny Goodman.  All Rights Reserved.
+************************************************************ */
+// DHTMLapi.js custom API for cross-platform
+// object positioning by Danny Goodman (http://www.dannyg.com).
+// Release 2.0. Supports NN4, IE, and W3C DOMs.
+
+// Global variables
+var isCSS, isW3C, isIE4, isNN4, isIE6CSS;
+// Initialize upon load to let all browsers establish content objects
+function initDHTMLAPI() {
+    if (document.images) {
+        isCSS = (document.body && document.body.style) ? true : false;
+        isW3C = (isCSS && document.getElementById) ? true : false;
+        isIE4 = (isCSS && document.all) ? true : false;
+        isNN4 = (document.layers) ? true : false;
+        isIE6CSS = (document.compatMode && document.compatMode.indexOf("CSS1") >= 0) ? true : false;
+    }
+}
+// Set event handler to initialize API
+window.onload = initDHTMLAPI;
+
+// Seek nested NN4 layer from string name
+function seekLayer(doc, name) {
+    var theObj;
+    for (var i = 0; i < doc.layers.length; i++) {
+        if (doc.layers[i].name == name) {
+            theObj = doc.layers[i];
+            break;
+        }
+        // dive into nested layers if necessary
+        if (doc.layers[i].document.layers.length > 0) {
+            theObj = seekLayer(document.layers[i].document, name);
+        }
+    }
+    return theObj;
+}
+
+// Convert object name string or object reference
+// into a valid element object reference
+function getRawObject(obj) {
+    var theObj;
+    if (typeof obj == "string") {
+        if (isW3C) {
+            theObj = document.getElementById(obj);
+        } else if (isIE4) {
+            theObj = document.all(obj);
+        } else if (isNN4) {
+            theObj = seekLayer(document, obj);
+        }
+    } else {
+        // pass through object reference
+        theObj = obj;
+    }
+    return theObj;
+}
+
+// Convert object name string or object reference
+// into a valid style (or NN4 layer) reference
+function getObject(obj) {
+    var theObj = getRawObject(obj);
+    if (theObj && isCSS) {
+        theObj = theObj.style;
+    }
+    return theObj;
+}
+
+// Position an object at a specific pixel coordinate
+function shiftTo(obj, x, y) {
+    var theObj = getObject(obj);
+    if (theObj) {
+        if (isCSS) {
+            // equalize incorrect numeric value type
+            var units = (typeof theObj.left == "string") ? "px" : 0 
+            theObj.left = x + units;
+            theObj.top = y + units;
+        } else if (isNN4) {
+            theObj.moveTo(x,y)
+        }
+    }
+}
+
+// Move an object by x and/or y pixels
+function shiftBy(obj, deltaX, deltaY) {
+    var theObj = getObject(obj);
+    if (theObj) {
+        if (isCSS) {
+            // equalize incorrect numeric value type
+            var units = (typeof theObj.left == "string") ? "px" : 0 
+            theObj.left = getObjectLeft(obj) + deltaX + units;
+            theObj.top = getObjectTop(obj) + deltaY + units;
+        } else if (isNN4) {
+            theObj.moveBy(deltaX, deltaY);
+        }
+    }
+}
+
+// Set the z-order of an object
+function setZIndex(obj, zOrder) {
+    var theObj = getObject(obj);
+    if (theObj) {
+        theObj.zIndex = zOrder;
+    }
+}
+
+// Set the background color of an object
+function setBGColor(obj, color) {
+    var theObj = getObject(obj);
+    if (theObj) {
+        if (isNN4) {
+            theObj.bgColor = color;
+        } else if (isCSS) {
+            theObj.backgroundColor = color;
+        }
+    }
+}
+
+// Set the visibility of an object to visible
+function show(obj) {
+    var theObj = getObject(obj);
+    if (theObj) {
+        theObj.visibility = "visible";
+    }
+}
+
+// Set the visibility of an object to hidden
+function hide(obj) {
+    var theObj = getObject(obj);
+    if (theObj) {
+        theObj.visibility = "hidden";
+    }
+}
+
+// Retrieve the x coordinate of a positionable object
+function getObjectLeft(obj)  {
+    var elem = getRawObject(obj);
+    var result = 0;
+    if (document.defaultView) {
+        var style = document.defaultView;
+        var cssDecl = style.getComputedStyle(elem, "");
+        result = cssDecl.getPropertyValue("left");
+    } else if (elem.currentStyle) {
+        result = elem.currentStyle.left;
+    } else if (elem.style) {
+        result = elem.style.left;
+    } else if (isNN4) {
+        result = elem.left;
+    }
+    return parseInt(result);
+}
+
+// Retrieve the y coordinate of a positionable object
+function getObjectTop(obj)  {
+    var elem = getRawObject(obj);
+    var result = 0;
+    if (document.defaultView) {
+        var style = document.defaultView;
+        var cssDecl = style.getComputedStyle(elem, "");
+        result = cssDecl.getPropertyValue("top");
+    } else if (elem.currentStyle) {
+        result = elem.currentStyle.top;
+    } else if (elem.style) {
+        result = elem.style.top;
+    } else if (isNN4) {
+        result = elem.top;
+    }
+    return parseInt(result);
+}
+
+// Retrieve the rendered width of an element
+function getObjectWidth(obj)  {
+    var elem = getRawObject(obj);
+    var result = 0;
+    if (elem.offsetWidth) {
+        result = elem.offsetWidth;
+    } else if (elem.clip && elem.clip.width) {
+        result = elem.clip.width;
+    } else if (elem.style && elem.style.pixelWidth) {
+        result = elem.style.pixelWidth;
+    }
+    return parseInt(result);
+}
+
+// Retrieve the rendered height of an element
+function getObjectHeight(obj)  {
+    var elem = getRawObject(obj);
+    var result = 0;
+    if (elem.offsetHeight) {
+        result = elem.offsetHeight;
+    } else if (elem.clip && elem.clip.height) {
+        result = elem.clip.height;
+    } else if (elem.style && elem.style.pixelHeight) {
+        result = elem.style.pixelHeight;
+    }
+    return parseInt(result);
+}
+
+// Return the available content width space in browser window
+function getInsideWindowWidth() {
+    if (window.innerWidth) {
+        return window.innerWidth;
+    } else if (isIE6CSS) {
+        // measure the html element's clientWidth
+        return document.body.parentElement.clientWidth
+    } else if (document.body && document.body.clientWidth) {
+        return document.body.clientWidth;
+    }
+    return 0;
+}
+
+// Return the available content height space in browser window
+function getInsideWindowHeight() {
+    if (window.innerHeight) {
+        return window.innerHeight;
+    } else if (isIE6CSS) {
+        // measure the html element's clientHeight
+        return document.body.parentElement.clientHeight
+    } else if (document.body && document.body.clientHeight) {
+        return document.body.clientHeight;
+    }
+    return 0;
+}
+
+
+
+</script>
+
+<script language="JavaScript" type="text/javascript">
+var scrollEngaged = false;
+var scrollInterval;
+var scrollBars = new Array();
+
+function getElementStyle(elemID, IEStyleAttr, CSSStyleAttr) {
+    var elem = document.getElementById(elemID);
+    if (elem.currentStyle) {
+        return elem.currentStyle[IEStyleAttr];
+    } else if (window.getComputedStyle) {
+        var compStyle = window.getComputedStyle(elem, "");
+        return compStyle.getPropertyValue(CSSStyleAttr);
+    }
+    return "";
+}
+
+function scrollBar(ownerID, ownerContentID, upID, dnID) {
+    this.ownerID = ownerID;
+    this.ownerContentID = ownerContentID;
+    this.index = scrollBars.length;
+    this.upButton = document.getElementById(upID);
+    this.dnButton = document.getElementById(dnID);
+    this.upButton.index = this.index;
+    this.dnButton.index = this.index;
+    
+    this.ownerHeight = parseInt(getElementStyle(this.ownerID, "height", "height"));
+
+    this.contentElem = document.getElementById(ownerContentID);
+    this.contentFontSize = parseInt(getElementStyle(this.ownerContentID, 
+        "fontSize", "font-size"));
+    this.contentScrollHeight = (this.contentElem.scrollHeight) ? 
+        this.contentElem.scrollHeight : this.contentElem.offsetHeight;
+    this.initScroll = initScroll;
+}
+
+function initScroll() {
+    this.upButton.onmousedown = handleScrollClick;
+    this.upButton.onmouseup = handleScrollStop;
+    // this.upButton.oncontextmenu = blockEvent;
+
+    this.dnButton.onmousedown = handleScrollClick;
+    this.dnButton.onmouseup = handleScrollStop;
+    // this.dnButton.oncontextmenu = blockEvent;
+    
+    var isIEMac = (navigator.appName.indexOf("Explorer") != -1 && navigator.userAgent.indexOf("Mac") != -1);
+    if (!isIEMac) {
+        document.getElementById("innerWrapper0").style.overflow = "hidden";
+    }
+}
+
+function handleScrollStop() {
+    scrollEngaged = false;
+}
+
+function blockEvent(evt) {
+    evt = (evt) ? evt : event;
+    evt.cancelBubble = true;
+    return false;
+}
+
+function handleScrollClick(evt) {
+    var fontSize;
+    evt = (evt) ? evt : event;
+    var target = (evt.target) ? evt.target : evt.srcElement;
+    var index = target.index;
+
+    fontSize = scrollBars[index].contentFontSize;
+    fontSize = (target.className == "lineup") ? fontSize : -fontSize;
+    scrollEngaged = true;
+    scrollBy(index, parseInt(fontSize));
+    scrollInterval = setInterval("scrollBy(" + index + ", " + 
+        parseInt(fontSize) + ")", 30);
+    evt.cancelBubble = true;
+    return false;
+}
+
+function scrollBy(index, px) {
+    var scroller = scrollBars[index];
+    var elem = document.getElementById(scroller.ownerContentID);
+    var top = parseInt(elem.style.top);
+    var scrollHeight = parseInt(scroller.contentScrollHeight);
+    var height = scroller.ownerHeight;
+    if (scrollEngaged && top + px >= -scrollHeight + height && top + px <= 0) {
+        shiftBy(elem, 0, px);
+    } else {
+        clearInterval(scrollInterval);
+    }
+}
+
+</script>
+<script type="text/javascript">
+
+function initScrollers() {
+    scrollBars[0] = new scrollBar("outerWrapper0", "innerWrapper0", "lineup0", 
+        "linedown0");
+    scrollBars[0].initScroll();
+}
+
+</script>
+
+<style rel="stylesheet" id="mainStyle" type="text/css">
+.buttons {margin-top:10px}
+</style>
+
+<style type="text/css">
+  html, body
+  {
+    border: none ;
+    overflow: hidden ;
+  }
+</style>
+
+
+<style type="text/css">
+
+#MainContainer  {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	width: 675px;
+	height: 410px;
+	border: 0px;
+	padding: 0px;
+	background-image: url(images/policy_body_bkgrnd.jpg);
+	background-repeat:no-repeat;
+	background-position: top left;
+	}
+	
+#TopArea {
+	position: absolute;
+	right: 5px;
+	padding: 0px;
+	width:650px;
+	top: 15px;
+	border: 0px solid #00dd33;
+	}
+	
+#TopMenu {
+	position: absolute;
+	right: 0px;
+	height: 20px;
+	width: 290px;
+	top: 53px;
+	border:0px solid #00ffff;
+	}
+
+#CopyArea {
+	width: 600px;
+	height: 250px;
+	padding: 0px 0px 0px 1px;
+	border: 0px solid #FF0044;
+	text-align:left;
+}
+
+#CopyAreaContent {
+	position: relative;
+	top: 75px;
+	left: 30px;
+	width: 620px;
+	height: 290px;
+	overflow: auto;
+	padding: 10px 10px 10px 10px;
+	border: 0px solid #fff;
+	}
+	
+p.CopyAreaCopy  {
+	text-align: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	}
+</style>
+</head><body style="height:675px" onload="initDHTMLAPI(); initScrollers()" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
+	<div id="MainContainer">
+		<div id="TopArea">
+			<a href="#" onclick="javascript:parent.myLytebox.end(); return false;"><img src="images/dot.gif" alt="close" height="23" hspace="9" width="23" align="right" border="0"></a></div>
+			<br>
+		<div id="TopMenu"><!--<a href="swpstks_box.html" rel="lyteframe" rev="width: 675px; height: 410px; scrolling: no; frameborder= no;" title="" class="iframe" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image4','','images/sweeps_on.gif',1)"><img src="images/sweeps.gif" name="Image4" width="144" height="18" border="0"></a><a href="instant_box.html" rel="lyteframe" rev="width: 675px; height: 410px; scrolling: no; frameborder= no;" title="" class="iframe" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image5','','images/instant_on.gif',1)"><img src="images/instant.gif" name="Image5" width="141" height="18" border="0"></a> --></div>
+      	<div id="CopyAreaContent">
+		<p class="CopyAreaCopy">
+</p><div id="pseudoWindow0" style="position:absolute; top:10px; left:5px;">
+<div id="outerWrapper0" style="position:absolute; top:0px; left:0px; 
+    height:150px; width:550px; overflow:hidden; border-top:0px solid #666666; 
+    border-left:0px solid #666666; border-right:0px solid #cccccc;
+    border-bottom:0px solid #cccccc; background: url(images/dot.gif); height: 270px;">
+<div id="innerWrapper0" style="position: absolute; top: 0px; left: 0px; padding: 5px; font: 12px Arial, Helvetica, sans-serif; overflow: hidden;">
+<p align="left" style="margin-top:0em">	
+<strong>Privacy Policy</strong><br>
+This web site is owned and operated by Kimberly-Clark Corporation. Here at Kimberly-Clark, we recognize that many visitors to our site are concerned about the information they provide and how we treat that information. Our Privacy Policy addresses those concerns. We may update the Policy from time to time, so please check in occasionally. Regulations enacted in April 2000 under the U.S. Children's Online Privacy Protection Act give children under 13 years of age greater privacy protection online. Please see our policy under "Children" below.
+<br><br></p><div align="left">
+<strong>Our Policy</strong><br>
+At our site, we don't collect personally identifiable information from you unless you provide it to us voluntarily and knowingly. You can visit our sites without telling us who you are or revealing information about yourself. However, if you specifically agree to provide us with identifiable information, such as by asking to be put on our mailing list, we may contact you from time to time.
+There are some features of our site that require you to sign up to use. And if you do sign up, we use the information you supply for the purpose of providing the products, product information or services you request. Because of the volume of requests we receive, however, we may have to give your name, e-mail and postal addresses to a fulfillment house or distributor of our products who partner with us. On our behalf our partners will provide you with the information or products in which you expressed an interest. Our partners have agreed to keep the personal information they receive from us confidential and secure unless you have given your consent to it being shared with other product manufacturers.<br><br>
+Our site sometimes includes notices of sweepstakes or other promotions we are conducting, and we may permit you to send your entry electronically in some cases. If that occurs, we will use the information you provide for the purpose of conducting the promotion (i.e., to contact you if you're a winner).<br><br>
+<strong>Children</strong><br>
+Children's privacy is of primary concern to us, and our Policy and practices reflect applicable laws and regulations on children's privacy. We do not knowingly collect personal information from children under 13 years of age. Any communication we get that is identified as being from a child under 13 will not be kept by Kimberly-Clark.<br><br>
+<strong>Cookies</strong><br>
+Like many companies, we sometimes use "cookie" technology on our web site. These cookies are stored on your computer by your browser. When you log in, this type of cookie tells us whether you've visited us before or are a new visitor. The cookie doesn't obtain any personal information about you or provide us with any way to contact you, and the cookie doesn't extract any information from your computer. We do use the cookie to help us identify site features in which you have the greatest interest, so that we can provide more of what you may want.<br><br>
+<strong>Contact Us</strong><br>
+If you have any questions about our Privacy Policy, you can contact us via <a href="http://www.kimberly-clark.com/ask/country.asp" target="_blank">e-mail</a> or phone us at 1-800-665-9773. For postal mail, please write to us at:<br>
+Kimberly-Clark Corporation<br>
+P.O. Box 2020<br>
+Neenah, WI 54957-2020<br></div>
+
+<p></p>
+</div>
+</div>
+<img id="lineup0" class="lineup" src="scrollup.jpg" height="31" width="44" alt="Scroll Up" style="position:absolute; top:95px; left:560px">
+<img id="linedown0" class="linedown" src="scrolldown.jpg" height="30" width="45" alt="Scroll Down" style="position:absolute; top:132px; left:560px">
+</div>
+        </div>
+	</div>
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2009 WebTrends Inc.  All rights reserved. -->
+<!-- Version: 8.6.0 -->
+<!-- Tag Builder Version: 2.1.0  -->
+<!-- Created: 1/9/2009 11:30:56 PM -->
+<script src="/includes/webtrends.js" type="text/javascript"></script>
+<!-- ----------------------------------------------------------------------------------- -->
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<!-- ----------------------------------------------------------------------------------- -->
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+// Add custom parameters here.
+//_tag.DCSext.param_name=param_value;
+_tag.dcsCollect();
+//]]>>
+</script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://sdc.tribalddb.net/dcshwdt1nop1on0i3ite2wdtz_2w1m/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.0"/></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+
+
+</body></html>
