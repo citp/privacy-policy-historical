@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the peoplefinders.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214055844id_/http%3A//www.peoplefinders.com/privacy.aspx%3Fpopup%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplefinders.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303140547id_/http%3A//www.peoplefinders.com/privacy.aspx) for the most accurate reproduction.*
 
-# PeopleFinders.com | Privacy Policy
+# Privacy Policy at PeopleFinders
+
+[<< Return to Home Page](https://web.archive.org/default.aspx)
 
 ## PRIVACY POLICY
 
@@ -24,7 +26,7 @@ _In General_. We may collect personal information that can identify you, such as
 _Use of cookies and other technologies to collect information_. We use various technologies to collect information from your computer and about your activities on our web site.
 
   * **Information collected automatically.** We automatically collect information from your browser when you visit our web site. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies", below), and the referring web site address. 
-  * **Cookies**. We may employ "cookies" to help customize your access to our web site, and also for the delivery of targeted advertisements. A cookie is a piece of data stored on your hard drive containing information about you. Through the use of a cookie, we may automatically collect information about your online activity on our web site, such as the web pages you visit, the links you click, and the searches you conduct on our web site. Cookies have many benefits to enhance your experience at our web site and to facilitate the receipt of targeted advertisements. For instance, by setting a cookie on our web site, you do not have to log in a password more than once, thereby saving time while on our web site. Even in the case where you reject a cookie, you may still use our web site. We use cookies to track, monitor and target the interests of our users to further enhance the experience on our web site, and for subsequent advertising and/or delivery purposes. To find out more about cookies, please visit http://www.cookiecentral.com/. 
+  * **Cookies**. We may employ "cookies" to help customize your access to our web site, and also for the delivery of targeted advertisements. A cookie is a piece of data stored on your hard drive containing information about you. Through the use of a cookie, we may automatically collect information about your online activity on our web site, such as the web pages you visit, the links you click, and the searches you conduct on our web site. Cookies have many benefits to enhance your experience at our web site and to facilitate the receipt of targeted advertisements. For instance, by setting a cookie on our web site, you do not have to log in a password more than once, thereby saving time while on our web site. Even in the case where you reject a cookie, you may still use our web site. We use cookies to track, monitor and target the interests of our users to further enhance the experience on our web site, and for subsequent advertising and/or delivery purposes. To find out more about cookies, please visit <http://www.cookiecentral.com/>. 
   * **Other Technologies.** For the purpose of formatting and delivering future marketing or sales campaigns (either electronic or direct), we may employ pixel tags (also known as clear gifs) to track: 1) the pages that our users visit on affiliate and/or partner web sites; and 2) user opens of, and clicks on, our targeted e-mail advertising. We reserve the right to employ user source information, including applicable category and interest(s), for the marketing of targeted e-mail messages on behalf of our clients. This source information may be shared with our third party marketing partners, and we reserve the right to retain cookie and pixel tag data indefinitely.
   * **Information collected by third-parties.** We may also work with other businesses to bring select retail opportunities to our users from us, our partner web sites, or our marketing partners, including affiliated third party advertisers. These e-mail campaigns may use tracking technologies, such as cookies, to collect information about users who view or interact with the e-mail marketing material. Users may remove themselves from a specific mailing list by utilizing the unsubscribe options that are present at the end of each e-mail we send on behalf of the list owner. Unsubscribing from one list will not automatically unsubscribe a user from all lists. **__**
 
@@ -79,7 +81,7 @@ The information contained in our reports comes from proprietary sources and thir
 
 **5. _How you can access your information_**
 
-If you have an online account with us, you have the ability to review and update your personal information online by logging into your account http://PeopleFinders.com/myaccount/default.aspx. You can also review and update your personal information by contacting us. More information about how to contact us is provided below.
+If you have an online account with us, you have the ability to review and update your personal information online by logging into your account [http://PeopleFinders.com/myaccount/default.aspx?type=reports](http://peoplefinders.com/myaccount/default.aspx?type=reports). You can also review and update your personal information by contacting us. More information about how to contact us is provided below.
 
 **6. _Your choices about collection and use of your information_**
 
@@ -91,13 +93,13 @@ At any time you can choose to no longer receive commercial or promotional e-mail
 
 We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. When users submit information at our web site, their information is protected both online and offline. The privacy of your personal information is very important to us and access to your information is strictly limited, and not accessible to the public. The servers in which we store personally identifiable information are kept in a secure physical environment. We have security measures in place to protect the loss, misuse, and alteration of personal information under our control. Currently, we use Secure Socket Layer Software ("SSL") to protect data and to secure any transactions. SSL encrypts information, including credit card numbers, names and addresses as they are transmitted over the Internet. Please be advised that, although we take every reasonable technological precaution available to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, we cannot warrant that your information will be absolutely secure and any transmission of data at or through our web site is at your own risk. 
 
-Please refer to the Federal Trade Commission's web site at http://www.ftc.gov/bcp/menus/consumer/data.shtm for information about how to protect yourself against identity theft.
+Please refer to the Federal Trade Commission's web site at <http://www.ftc.gov/bcp/menus/consumer/data.shtm> for information about how to protect yourself against identity theft.
 
 To the extent that user credit card-specific information (or alternate user payment method information, such as PayPay, Google Check-Out, etc.) is collected by us and/or any of our partners and affiliates, this information will be kept in confidence and will not be shared with any third parties (other than consumer credit agencies) without the user's prior informed consent. Notwithstanding the foregoing, PeopleFinders.com, our partners and affiliates reserve the right to share with third parties the fact that we have credit card information on file for specific users but we will not share the specific credit card information with third parties without the user's prior informed consent.
 
 To the extent that user credit card-specific information (or alternate user payment method information, such as PayPay, Google Check-Out, etc.) is collected by PeopleFinders.com and any of its partners and affiliates, this information will be kept in confidence and will not be shared with any third parties (other than consumer credit agencies) without the user's prior informed consent. Notwithstanding the foregoing, PeopleFinders.com and its affiliates and/or subsidiaries reserve the right to share with third parties the fact that we have credit card information on file for specific users but we will not share the specific credit card information with third parties without the user's prior informed consent.
 
-We value your privacy and, upon request, can block your records from being shown in many, but not all, of our search results. To do so, you should contact us by writing a letter giving us your:
+We value your privacy and, upon request, can block your records from being shown in many, but not all, of our search results. To do so, you should contact us by writing a letter, signed by you (we do not accept any unsigned requests or substitute service), giving us your:
 
   * First name 
   * Last name 
@@ -117,7 +119,7 @@ Opt-Out/PeopleFinders.com
 1821 Q Street  
 Sacramento, CA 95814
 
-This information will be kept confidential and is used to ensure complete suppression of your records. 
+This information will be kept confidential and is used to ensure complete suppression of your records. Or, if you would prefer, there is an online service that will remove you from certain public records databases, credit offers, and other lists. Please refer to **[OptOut.com](http://www.optout.com/)** ( **[www.optout.com](http://www.optout.com/)** ).
 
 **8. _No Rights of Third Parties_**
 
@@ -125,11 +127,11 @@ This Privacy Policy does not create rights enforceable by third parties or requi
 
 **9. _Changes to this Privacy Policy_**
 
-We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. **We reserve the right, at our discretion, to change, modify, add, and/or remove portions of this Privacy Policy at any time. All Privacy Policy changes will take effect immediately upon their posting on the PeopleFinders.com web site. **We recommend that you check our web site from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies. Your continued use of the PeopleFinders.com web site or acceptance of our e-mails following the posting of changes to these terms will mean that you accept these changes and agree to continue receiving e-mails from us. 
+We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. **We reserve the right, at our discretion, to change, modify, add, and/or remove portions of this Privacy Policy at any time. All Privacy Policy changes will take effect immediately upon their posting on the PeopleFinders.com web site.** We recommend that you check our web site from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies. Your continued use of the PeopleFinders.com web site or acceptance of our e-mails following the posting of changes to these terms will mean that you accept these changes and agree to continue receiving e-mails from us. 
 
 **10. _How to contact us_**
 
-If you have any questions about this Privacy Policy, please contact us at or in writing at:
+If you have any questions about this Privacy Policy, please [contact us via email](https://web.archive.org/contact-us.aspx) or in writing at:
 
 PeopleFinders.com  
 Customer Service  
@@ -140,10 +142,13 @@ Sacramento, CA 95814
 
 If you are a resident of California, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties and our partners and affiliates for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information:
 
-  * The categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year; 
+  * The categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year;
   * The names and addresses of the third parties that received that information; and 
   * If the nature of the third party's business cannot be determined from their name, examples of the products or services marketed. 
 
 
 
 We will try to respond to your queries in a timely fashion. 
+
+  
+
