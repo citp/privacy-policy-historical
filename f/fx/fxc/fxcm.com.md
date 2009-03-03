@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxcm.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221112010id_/http%3A//www.fxcm.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcm.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303224257id_/http%3A//www.fxcm.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - FXCM
 
@@ -64,4 +64,6 @@ Forex Capital Markets LLC
 Attention: Privacy Officer   
 Financial Square   
 32 Old Slip, 10th Floor   
-New York, NY 10005 
+New York, NY 10005
+
+Please be advised, that if we receive such instruction we will not be able to service your account and must close any open and funded accounts you have.
