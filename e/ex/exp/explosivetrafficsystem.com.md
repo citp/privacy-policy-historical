@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explosivetrafficsystem.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217104946id_/http%3A//www.explosivetrafficsystem.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explosivetrafficsystem.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303213300id_/http%3A//www.explosivetrafficsystem.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.ExplosiveTrafficSystem.com
 
