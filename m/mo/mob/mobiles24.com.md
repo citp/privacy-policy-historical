@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiles24.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012123id_/http%3A//www.mobiles24.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiles24.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303205007id_/http%3A//www.mobiles24.com/privacy) for the most accurate reproduction.*
 
 # Free Ringtones - Free Mobile Downloads - Mobiles24.com
 
