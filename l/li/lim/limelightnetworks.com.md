@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limelightnetworks.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217092125id_/http%3A//www.limelightnetworks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limelightnetworks.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303101733id_/http%3A//www.limelightnetworks.com/privacy.htm) for the most accurate reproduction.*
 
 # Limelight Networks - Company
 
@@ -8,7 +8,7 @@ Welcome to the Limelight Networks ("Limelight") web site (www.limelightnetworks.
 
 By using the Limelight Platform, you expressly consent to the information handling practices described in this Privacy Policy. If you do not agree with our Privacy Policy, please do not use the Limelight Platform. 
 
-This Privacy Policy should be read in connection with the Limelight Acceptable Use Policy at <http://www.limelightnetworks.com/termsofuse.html>. Your use of the Limelight Platform and any personal information you provide through the Limelight Platform are subject at all time to this Privacy Policy and the Acceptable Use Policy. 
+This Privacy Policy should be read in connection with the [Limelight Acceptable Use Policy](http://www.limelightnetworks.com/termsofuse.html). Your use of the Limelight Platform and any personal information you provide through the Limelight Platform are subject at all time to this Privacy Policy and the Acceptable Use Policy. 
 
 ## TABLE OF CONTENTS
 
@@ -98,7 +98,7 @@ The following are some resources that may help parents and legal guardians in mo
 
   * ["OnGuard Online," maintained by the Federal Trade Commission.](http://onguardonline.gov/socialnetworking.html)
   * [WiredSafety](http://www.wiredsafety.org/)
-  * [Netsmartz.org](https://web.archive.org/web/20081217092125id_/http%3A//www.limelightnetworks.com/www.netsmartz.org)
+  * [Netsmartz.org](https://web.archive.org/web/20090303101733id_/http%3A//www.limelightnetworks.com/www.netsmartz.org)
   * [The Child Safety Network](http://www.csn.org/index.jsp)
   * [Control Kids](http://www.controlkids.com/)
   * [Cyber Sitter](http://www.solidoak.com/)
