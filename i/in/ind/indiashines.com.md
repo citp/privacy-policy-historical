@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indiashines.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218035142id_/http%3A//www.indiashines.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiashines.com privacy policy that was archived on 2009-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090304001636id_/http%3A//www.indiashines.com/index.php%3Fop%3Dcontent%26type%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy @ Indiashines
 
-The Indiashines Privacy Policy describes how we treat personal information when you use Indiashines 's products and services, including information provided when you use Indiashines. In addition, the following describes our additional privacy practices that are specific to Indiashines. 
+The Indiashines Privacy Policy describes how we treat personal information when you use Indiashines products and services, including information provided when you use Indiashines. In addition, the following describes our additional privacy practices that are specific to Indiashines. 
 
 ## Personal information
 
@@ -18,7 +18,7 @@ The Indiashines Privacy Policy describes how we treat personal information when 
 
 * Indiashines maintains and processes your personal information and content of your communications in order to provide your Indiashines account, access to that account, and use of Indiashines services, in addition to the purposes described in the Indiashines Privacy Policy. Your profile information is displayed according to the preferences you set in your account. 
 
-* When you send messages through Indiashines, your name and email address will be identified in the message. We also use your name and email address to notify you of new members, messages, or other information, such as invitations to join friends' networks, new testimonials or friend�s ratings etc.
+* When you send messages through Indiashines, your name and email address will be identified in the message. We also use your name and email address to notify you of new members, messages, or other information, such as invitations to join friend's networks, new testimonials or friend�s ratings etc.
 
 * If you invite another person to join Indiashines, we use the name and email address you provide us to contact that person and, if necessary, remind that person that he or she has been invited to join Indiashines. All invitees are given the option not to receive further invitations from Indiashines. 
 
