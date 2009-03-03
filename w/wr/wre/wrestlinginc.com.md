@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrestlinginc.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015558id_/http%3A//www.wrestlinginc.com/pages/winc_privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlinginc.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303134344id_/http%3A//www.wrestlinginc.com/pages/winc_privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - WrestlingInc.com
 
@@ -12,12 +12,13 @@ MMA news at
 |   
 ---  
   
-How would you rate _WWE Armageddon_?
+Who would you want to see Chris Jericho face at WM 25?
 
- **    Good - Excellent  
-   Average  
-   Poor - Terrible  
-   Didn't Watch It  
+ **    Mickey Rourke  
+   Ric Flair  
+   Steve Austin  
+   Hulk Hogan  
+   Other  
 **   
   
   
@@ -73,6 +74,6 @@ Last updated as of August 29, 2007
   
   
 [ Add To Favorites | [Contact Us](https://web.archive.org/pages/winc_contact_us.shtml "Contact Us") | [Recommend Us](https://web.archive.org/pages/winc_recommend_us.shtml "Recommend Us") | [Privacy Policy](https://web.archive.org/pages/winc_privacy_policy.shtml "Privacy Policy") | [Staff](https://web.archive.org/pages/winc_staff.shtml "Staff") | [Email Updates](https://web.archive.org/pages/winc_email_updates.shtml "Email Updates") ]  
-© 2008 [WrestlingInc.com](https://web.archive.org/ "WrestlingInc.com").   All Rights Reserved.  
+© 2009 [WrestlingInc.com](https://web.archive.org/ "WrestlingInc.com").   All Rights Reserved.  
   
 [](https://web.archive.org/rss/winc_rss.shtml "RSS Feeds")
