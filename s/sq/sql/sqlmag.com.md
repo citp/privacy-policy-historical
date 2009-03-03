@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlmag.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170627id_/http%3A//www.penton.com/Pages/PrivacyStatementSH.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmag.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303161159id_/http%3A//www.penton.com/Pages/PrivacyStatementSH.aspx) for the most accurate reproduction.*
 
 # Safe Harbor Privacy Statement
 
@@ -21,7 +21,7 @@ This section is a summary of the main features of our privacy policy.  The comp
 
 ### A.  What this Privacy Policy Covers
 
-This policy covers customer information gathered by Penton Media, Inc.’s Information Technology Group and its divisions. When we say “we”, we mean “Penton Media, Inc.’s Information Technology Group.”  Businesses included in this group include Windows IT Pro, Windows IT Pro Community, SQL Server, System iNetwork, Office and Sharepoint Pro, Windows Dev Pro, Connected Home, and other Penton Media businesses that link to this policy.  Penton Media, Inc. businesses that do not link to this privacy policy are covered by a different privacy policy.  Please see the privacy policy link on those sites for their privacy policy.
+This policy covers customer information gathered by Penton Media, Inc.’s Information Technology Group and its divisions. When we say “we”, we mean “Penton Media, Inc.’s Information Technology Group.”  Businesses included in this group include Windows IT Pro, Windows IT Pro Community, SQL Server, System iNetwork, Office and SharePoint Pro, Win Dev Pro, Connected Home, and other Penton Media businesses that link to this policy.  Penton Media, Inc. businesses that do not link to this privacy policy are covered by a different privacy policy.  Please see the privacy policy link on those sites for their privacy policy.
 
 This policy describes our privacy practices for both online and offline activities including but not limited to our print and digital publications, websites, in-person and online events, email newsletters, and all other products and services of Penton Media, Inc.’s Information Technology Group.   By using any of our websites, you consent to our use and disclosure of your personal information as described in our privacy policy.
 
@@ -31,17 +31,12 @@ The websites covered by this policy, include but are not limited to:
   * SQL Server Magazine (sqlmag.com)  
 
   * Office and SharePoint Pro (officesharepointpro.com)
-  * Connected Home (connectedhomemedia.com)
   * Connected Home Magazine (connectedhomemag.com)
-  * IT Community Research (itcommunityresearch.com)
   * IT Library (windowsitlibrary.com)
-  * Windows Supersite (winsupersite.com)
-  * Windows Excavator (winexcavator.com)
-  * Windows Dev Pro (windowsdevpro.com)
-  * Exchange ProVIP (exchangeprovip.com)
-  * Scripting ProVIP (scriptingprovip.com)
-  * Security ProVIP (securityprovip.com)
-  * JSI FAQ (jsifaq.com)
+  * ITTV (ittv.net)  
+
+  * Windows SuperSite (winsupersite.com)
+  * Win Dev Pro (windevpro.com)
   * System iNetwork (www.systeminetwork.com) 
   * Any Penton Media, Inc.’s Information Technology Group website that links to this policy
 
@@ -161,7 +156,7 @@ If you wish, you may disable pixel tags by setting your browser to omit images a
 
 **Online Ad Serving**
 
-We use industry-standard, third party advertising service companies to serve advertisements when you visit our sites or open our emails. These companies may use cookies, pixel tags, and other methods to collect information (typically not including your name, address, email address or telephone number) about your visits to our and other web sites to provide you with relevant advertisements about products, services, and events during your visit to our website. They can also provid us with aggregate pictures of traffic patterns, help us improve site experience, help advertisers better understand our services, and monitor advertising efforts. 
+We use industry-standard, third party advertising service companies to serve advertisements when you visit our sites or open our emails. These companies may use cookies, pixel tags, and other methods to collect information (typically not including your name, address, email address or telephone number) about your visits to our and other web sites to provide you with relevant advertisements about products, services, and events during your visit to our website. They can also provide us with aggregate pictures of traffic patterns, help us improve site experience, help advertisers better understand our services, and monitor advertising efforts. 
 
 If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://networkadvertising.org/consumer/opt_out.asp> <<http://networkadvertising.org/consumer/opt_out.asp%3c>> to visit the Network Advertising Initiative’s website, of which one of our partners, TACODA, is a member.  You can also learn how to opt out of third-party advertisers' tracking methods in conjunction with links, online ads, etc. by visiting the advertisers' sites.
 
@@ -276,3 +271,7 @@ Address any questions about our privacy policy to:           
                         Cleveland, OH44114   USA  
                         privacy@penton.com  
                         216-931-9161
+
+[We self-certify with](http://web.ita.doc.gov/safeharbor/shlist.nsf/%20webPages/safe+harbor+list "Safe Harbor website")
+
+[](http://www.export.gov/safeharbor)
