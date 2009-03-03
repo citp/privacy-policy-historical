@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the powerbar.com privacy policy that was archived on 2008-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081020050829id_/http%3A//www.powerbar.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerbar.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303171036id_/http%3A//www.powerbar.com/privacy.aspx) for the most accurate reproduction.*
 
-# PowerBar: Privacy
-
-[](https://web.archive.org/Company/)  
-[](https://web.archive.org/Company/Partners.aspx)  
-[](https://web.archive.org/Company/MediaResources/)  
-[](https://web.archive.org/Company/Jobs.aspx)  
-[](https://web.archive.org/Company/AroundTheWorld.aspx)  
-[](https://web.archive.org/Company/ContactUs.aspx)  
-| 
+# Privacy Policy
 
 Effective Date: 10/25/2006  
 Last Updated On: 9/12/2008
@@ -288,11 +280,3 @@ If any of the options set forth above are not available or you wish to make a di
 Please be advised that if you permit your child to register on a Nestlé USA Site or participate in other Site activities available to children under 13, your child may also have the ability to review, modify, or delete his/her personal information associated with such registration or activity. This may include the ability to unsubscribe himself/herself from a feature that you’ve consented to.
 
 Any changes to this Children's Privacy Policy will be posted here and material changes will generally apply only to activities and information collected on a going forward basis. If we wish to materially change how we use your child's previously-collected personal information, we will notify you by email and seek the required parental consent.
-
-* * *
-
-### The PowerBar Store
-
-There are two sections of the PowerBar Store; one section is for PowerBar nutritional products and the other for PowerBar branded clothing. For the sale of PowerBar nutritional products, PowerBar has partnered with REI.com a leader in online commerce. REI's back-end systems process all orders and provide a secure environment for credit card transactions. REI fulfills all orders and provides customer support by telephone and email. REI may use your personally identifiable information (name, email, and postal address) to market to you. REI will not share your personally identifiable information with third parties. PowerBar does not share the personal information you provide to other third parties. Both PowerBar and REI may share aggregate consumer use and purchase information with third parties. 
-
-PowerBar has partnered with ImPrintStore.com to bring you PowerBar branded clothing and sports gear. ImPrintStore's back-end systems process all orders and provide a secure environment for credit card transactions. ImPrintStore fulfills all orders and provides customer support by email. The information you provide at ordering is used by ImprintStore and PowerBar solely to complete your order, except that you may opt in to receiving future information from PowerBar. 
