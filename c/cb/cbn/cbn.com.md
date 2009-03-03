@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044920id_/http%3A//www.cbn.com/about/privacy_notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303143120id_/http%3A//www.cbn.com/about/privacy_notice.aspx) for the most accurate reproduction.*
 
 # CBN.com Privacy Notice
 
@@ -11,6 +11,10 @@
   * [Link to CBN.com](https://web.archive.org/about/LinkToCBNDirections.aspx?WT.svl=menu)
   * [Set Homepage](https://web.archive.org/about/make_cbn_your_homepage.aspx?WT.svl=menu)
   * [Visit CBN](https://web.archive.org/about/visit/index.aspx?WT.svl=menu)
+
+
+
+[](https://web.archive.org/communitypublic/interactiveblogs.aspx?ad=about_lt_ws&an=Blogs2_WS)
 
   
 |    
@@ -58,7 +62,7 @@ CBN.com gives you access to a broad range of information about your account and 
 CBN.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use CBN.com only with the involvement of a parent or guardian.
 
 **Conditions of Use, Notices, and Revisions**  
-If you choose to visit CBN.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://web.archive.org/web/20081216044920id_/http%3A//www.cbn.com/about/termsofuse.aspx), including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Virginia. If you have any concern about privacy at CBN.com, please send us a thorough description to [partners@CBN.com](mailto:partners@CBN.com), and we will try to resolve it.
+If you choose to visit CBN.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://web.archive.org/web/20090303143120id_/http%3A//www.cbn.com/about/termsofuse.aspx), including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Virginia. If you have any concern about privacy at CBN.com, please send us a thorough description to [partners@CBN.com](mailto:partners@CBN.com), and we will try to resolve it.
 
 Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
@@ -89,16 +93,18 @@ A caring friend will be there to pray with you in your time of need.
 
 | 
 
-[](https://web.archive.org/giving/700club/option.asp?o=1&m=giveRightNav1about&WT.svl=RightNav1)
-
 [](https://web.archive.org/spirituallife/BibleStudyAndTheology/Discipleship/Steps_to_Peace_With_God.aspx?WT.svl=right_nav)
 
 [](https://web.archive.org/spirituallife/ChristianCourses/index.aspx?WT.svl=right_nav)
 
+[](https://web.archive.org/communitypublic/postoffice/index.aspx?ad=about_rt_sr&an=newsletter3_SR)
+
 ## What Our Partners Are Doing 
 
-### [From Food Stamps to Abundance ](https://web.archive.org/partners/profiles/Scott_Melissa_Steele_f.aspx)
+### [A New Home for Marielena](http://www.cbn.com/redir/redirect.aspx?p=http://www.ob.org/_programs/micro/news/2009/me_2009_0212_new_home_for_marielena.asp?adsource=cbn)
 
-Scott and Melissa followed some very simple and specific instructions - the financial results: $150,000 in 3 months. 
+OBI replaces a woman’s flimsy shanty with a sturdy, new house, inspiring a home building project for other impoverished families throughout Peru.
 
-[](http://www.daytopray.com/Home.aspx)
+### [Paycheck from God](https://web.archive.org/partners/profiles/crofts.aspx)
+
+Rod and Vickie Croft were $20,000 in credit card debt. "We were not living from dollar to dollar but from penny to penny -- and we didn’t have the penny."
