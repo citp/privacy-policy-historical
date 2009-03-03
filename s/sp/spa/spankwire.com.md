@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spankwire.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220010247id_/http%3A//www.spankwire.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spankwire.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303082514id_/http%3A//www.spankwire.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Free Porn, Adult XXX and Sex Videos – The Youtube of Porno | Spankwire.com
+# Sex - Porn - Free porn
 
 ## Privacy Policy
 
