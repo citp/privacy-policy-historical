@@ -1,987 +1,174 @@
-<!--The following is the downloaded HTML source of the vizu.com privacy policy that was archived on 2007-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070625232417id_/http%3A//www.vizu.com/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vizu.com privacy policy that was archived on 2009-03-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090303230032id_/http%3A//www.vizu.com/w3c/policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    
-    
-    <title>Vizu: Privacy Policy</title>
-    <base href="http://www.vizu.com/">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Vizu: Privacy Policy</title>
+<link href="http://answers.vizu.com/solutions/css/promo.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript" src="http://answers.vizu.com/js/global.js"></script>
+<style type="text/css">
+    #terms{
+    width:846px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:left;
+    }
+    h1{
+        margin-left:0px;
+        padding-left:0;
+        margin-bottom:0px;
+        padding-bottom:0px;
+    }
+    ol{
+        font-size:1.2em;
+    }
+    li {
+        margin-top:7px;
+        margin-bottom:7px;
+        font-size:1.2em;
+    }
+	#myMssg{
+		font-weight:bold;
+	}
+</style>
 
-    <link rel="stylesheet" type="text/css" href="style.css">
+<script type="text/javascript">
+	function externalMssg(x){
+		var mssg = "";
+		if(x==false){
+			mssg = "You are currently opted-out of the Vizu Ad Catalyst Network. <br/><span style='font-weight:normal;'>To opt-in please click the button below.</span>";
+			deleteCookie();
+		}else{
+			mssg = "You are currently opted-in to the Vizu Ad Catalyst Network. <br/><span style='font-weight:normal;'>To opt-out please click the button below.</span>";
+			setCookie();
+		}
+		document.getElementById("myMssg").innerHTML = mssg;			
+	}
+	
+	var domain= "vizu.com"; // Cookie Location
+	function setCookie(){
+		// Set the opt-out to false
+		cName = "opt-out";
+		cValue = false;
+		document.cookie = cName+ "=" +cValue+ "; domain=" +domain+ "; expires=Thu, 2 Sep 2019 11:11:11 UTC; path=/";
+	}	
+	function deleteCookie(){		
+		// Delete all Cookies
+		var Cookies=document.cookie.split(';')		
+		for ( var Cnt=0; Cnt < Cookies.length; Cnt++ ) {			
+			var CurCookie = Cookies[Cnt].split("=");
+			if ( CurCookie[0] ) {
+				document.cookie = CurCookie[0]+ "=" +CurCookie[1]+ "; domain=" +domain+ "; expires=Thu, 2 Sep 1978 11:11:11 UTC; path=/";
+			};
+		};		
+		// Set the opt-out to true
+		cName = "opt-out";
+		cValue = true;		
+		document.cookie = cName+ "=" +cValue+ "; domain=" +domain+ "; expires=Thu, 2 Sep 2019 11:11:11 UTC; path=/";		
+	}
 
-<link rel="stylesheet" type="text/css" href="css/global.css" id="global">
-<link rel="stylesheet" type="text/css" href="css/menu.css" id="menu">
-    <script language="JavaScript" type="text/javascript">
-    <!--
-    //<![CDATA[
-      	var pageTitle = "Vizu: Privacy Policy";
-        var pageLocation = " ";
-        
-            
-                var logged = false; 
-             
-                
-        
-        //]]>
-    -->
-    </script>
-    <script language="JavaScript" type="text/javascript" src="js/global.js"></script>
-    <script language="JavaScript" type="text/javascript" src="js/menu.js"></script>
+</script>
 
 </head>
 <body>
-<div id="wrapper">
-		<div id="container">
-            <a name="top"></a>
-            <div id="header">
-                <div id="logo"><a title="Vizu Web Polls" href="/index.html"><img src="img/logo_WebPoll.gif" alt="Vizu Web Polls" title="Vizu Web Polls" height="75" width="129"></a></div>
-                <div id="register">&nbsp;&nbsp;&nbsp;<a href="registration.html" class="signUp" title="Sign Up - It's Free!"><b>Sign Up</b> - It's Free!</a> &nbsp; | &nbsp;<a href="javascript:opacity('loginBox', 0, 100, 200);" title="Login" class="purple" onmouseover="window.status='Login'; return true;" onmouseout="window.status=''; return true;">Sign In</a> &nbsp;&nbsp;&nbsp;&nbsp;
-            	</div>
-            </div>
-            
-                
-                    
-<!-- Login Box -->
-<div id="loginBox">
-<form name="small_login_form" action="login.html" method="post" style="margin: 0px; padding:0px;">
-    <input type="hidden" name="referrer" value="//policy.html">
-    <div><img src="/img/hdr_signin.gif" width="255" height="15" alt="Sign In" title="Sign In" usemap="#closeLogin"><map name="closeLogin"><area alt="Close" coords="227,2,243,17" href="javascript:opacity('loginBox',100, 0, 200)" onmouseover="window.status='Close Login Box'; return true;" onmouseout="window.status=''; return true;"></map></div>
-    <div id="loginContainer" class="loginBorder" style="border-bottom:0;background-color:#fff">
-        <div class="clearfix loginContainer">
-            <div style="float:left; padding: 5px 0 0 10px; height:35px;">
-                <div>Username: <input name="login" id="loginField" class="login" type="text" value="">
-                </div>
-                <div>Password: <input type="password" name="password" class="login" value="" style="margin: 0 0 0 -1px;" onkeydown="checkKey()"></div>
-            </div>
-            <div style="float: right; padding: 15px 20px 0 0;">
-                <input type="image" img="" src="img/but_signin-sm.gif" alt="Sign In" width="70" height="21" border="0" title="Sign In">
-            </div>
-        </div>
+<div id="top"><img src="http://answers.vizu.com/img/box_top.gif" width="916" height="5" alt=""></div>
+<div id="container">
+  <!-- Nav -->
+  <div id="navBlock">
+    <div class="clearfix navBlock">
+      <div id="logo"> <a href="http://www.vizu.com/index.htm"><img src="http://answers.vizu.com/img/logo-global.gif" alt="Vizu - See What the World Thinks" title="Vizu - See What the World Thinks" width="232" height="43"></a> </div>
+      <div id="nav"> <a href="javascript:self.close();">Close Window</a> </div>
     </div>
-    <div class="loginBorder">
-        <!--[if IE 7]>
-            <br clear="all" style="height:0px;line-height:0px; />
-        <![endif]-->
-        <input name="remember" checked="" value="true" type="checkbox" style="vertical-align:middle; margin: 0 0 4px 0;"> Remember me | <a href="reminder.html" class="purple">Forgot Password</a>
-    </div>
-</form>
-</div>
-
- 
-                 
-                    
-              
-            <!-- Navigation -->
-
-		<!--[if IE 7]>
-			<STYLE type=text/css>
-				  .menulist ul li {margin-bottom: -3px;}
-				   #featuredPollButton {margin:0px 0 0 0; position:absolute; bottom:0px; left:0px;}
-			</STYLE>
-		<![endif]-->
-
-<div id="nav">
-<ul class="menulist" id="listMenuRoot">
-	<script language="JavaScript1.2" type="text/javascript">
-    if (pageLocation == 'home') {
-        document.write('<li><a id="tNavOn" style="cursor:default;" >Home</a>');
-    } else {
-        document.write('<li><a id="tNav" onclick="window.location.href=\'http://www.vizu.com/index.html\'" style="cursor:pointer;" >Home</a>');
-   }
-</script><li><a id="tNav" onclick="window.location.href='http://www.vizu.com/index.html'" style="cursor:pointer;">Home</a>
-	</li>
-<!-- Create Polls -->
-    <script language="JavaScript1.2" type="text/javascript">
-    if (pageLocation == 'createpolls') {
-        document.write('<li><a id="tNavOn" style="cursor:default">Create Polls</a>');
-    } else {
-        document.write('<li><a id="tNav" style="cursor:default">Create Polls</a>');
-   }
-    </script><li><a id="tNav" style="cursor:default">Create Polls</a>
-		<ul>
-			<li><a href="http://www.vizu.com/poll_creator/index.html" id="sNav" onfocus="if(this.blur)this.blur()">Create A Poll</a></li>
-			<li><a href="http://www.vizu.com/myvizu-mypolls.html?pageName=EditPolls" id="sNav" onfocus="if(this.blur)this.blur()">Edit Your Polls</a></li>
-			<li style="white-space:nowrap"><a href="http://answers.vizu.com" target="_blank" id="sNav" onfocus="if(this.blur)this.blur()">Field Market Research</a></li>
-		</ul>
-	</li>
-	<!-- View Polls -->
-    <script language="JavaScript1.2" type="text/javascript">
-    if (pageLocation == 'viewpolls') {
-        document.write('<li><a id="tNavOn" style="cursor:default">View Polls</a>');
-    } else {
-        document.write('<li><a id="tNav" style="cursor:default">View Polls</a>');
-   } 
-    </script><li><a id="tNav" style="cursor:default">View Polls</a>
-    
-		<ul>
-			<li><a href="http://www.vizu.com/all/polls/new-polls-list.html?sort=1&amp;voteStatus=0&amp;newest=1" id="sNav" onfocus="if(this.blur)this.blur()">Newest Polls</a></li>
-            <li><a href="http://www.vizu.com/Current+Events/polls-list.html?c=4" id="sNav" onfocus="if(this.blur)this.blur()">&nbsp;Current Events</a></li>
-            <li><a href="http://www.vizu.com/Entertainment/polls-list.html?c=3" id="sNav" onfocus="if(this.blur)this.blur()">&nbsp;Entertainment</a></li>
-            <li><a href="http://www.vizu.com/Business/polls-list.html?c=1" id="sNav" onfocus="if(this.blur)this.blur()">&nbsp;Business</a></li>
-            <li><a href="http://www.vizu.com/Sports/polls-list.html?c=2" id="sNav" onfocus="if(this.blur)this.blur()">&nbsp;Sports</a></li>
-            <li><a href="http://www.vizu.com/Grab-bag/polls-list.html?c=5" id="sNav" onfocus="if(this.blur)this.blur()">&nbsp;Grab-bag</a></li>
-		</ul>
-	</li>
-	<!-- My Vizu -->
-    <script language="JavaScript1.2" type="text/javascript">
-    if (pageLocation == 'myvizu') {
-        document.write('<li><a id="tNavOn" style="cursor:default">My Vizu</a>');
-    } else {
-        document.write('<li><a id="tNav" style="cursor:default">My Vizu</a>');
-   }
-    </script><li><a id="tNav" style="cursor:default">My Vizu</a>
-		<ul>
-  	 		<li><a href="http://www.vizu.com/myvizu-mypolls.html" id="sNav" onfocus="if(this.blur)this.blur()">My Polls</a></li>
-   			<li><a href="http://www.vizu.com/myvizu-profile-view.html" id="sNav" onfocus="if(this.blur)this.blur()">Profile</a></li>
-			<li><a href="http://www.vizu.com/myvizu-preferences.html" id="sNav" onfocus="if(this.blur)this.blur()">Preferences</a></li>
-            <li><a href="http://www.vizu.com/myvizu-email.html" id="sNav" onfocus="if(this.blur)this.blur()">Email Address Book</a></li>
-		</ul>
-	</li>
-</ul>
-
-</div>
-<br clear="all">
-            <!-- START OF PAGE CONTENT -->
-
-<table cellpadding="0" cellspacing="0" class="myvizu-table">
-<tbody><tr>
-    <td class="myvizu-title">Privacy Policy <a name="policy_top">&nbsp;</a></td>
-    <td style="padding-left:5px">&nbsp;</td>
-</tr>
-<tr><!-- content -->
-    <td width="503">
-        <table width="503" cellpadding="0" cellspacing="0">
-        <tbody><tr><!-- header -->
-            <td width="100%">
-                <table cellpadding="0" cellspacing="0" width="100%">
-                <tbody><tr>
-                    <td><img src="img/ch-left.gif"></td>
-                    <td width="100%" class="cp-head">Privacy Policy</td>
-                    <td><img src="img/ch-right.gif"></td>
-                </tr>
-                </tbody></table>
-            </td>
-        </tr>
-        <tr>
-            <td width="100%">
-                <table cellpadding="0" cellspacing="0" width="100%">
-                <tbody><tr>
-                    <td style="background-color: #ffffff"><img src="img/spacer.gif" width="10"></td>
-                    <td width="100%" style="background-color: #ffffff; padding-top: 10px">
-                        <p>
-<a name="vizu_principles"><b>VIZU PRIVACY PRINCIPLES:</b></a></p>
-
-<p>- Our business is predicated on trust and privacy.</p>
-<ul type="circle">
-    <li>Accurate, truthful information from our users is the foundation of our business.</li>
-</ul>
-<p>- We respect our users' privacy.</p>
-<p>- We will strive to earn our users' trust and to maintain their privacy every day.</p>
-<p>&nbsp;</p>
-<p><a name="vizu_summary"><b>VIZU PRIVACY SUMMARY:</b></a></p>
-
-<p>- Much of Vizu is available for anonymous use by the general public.</p>
-<p>
-    - The Vizu experience is enhanced for registered users proportionately to the information they choose to share about
-    themselves during registration and in their user preferences.
-</p>
-<ul type="circle">
-    <li>
-        Vizu deeply respects the privacy of this information and does not make it available on the site, other than in
-        aggregate form, unless requested or allowed by the user.
-    </li>
-</ul>
-
-<p>
-    - Vizu does use the information collected via interaction with its service to continually improve its service and
-    offerings and those of its partners.
-</p>
-<p>
-    - Vizu respects the fact the various people may have different wishes with respect to the degree that they are
-    contacted by Vizu or any of its partners.&nbsp; Vizu and its partners will only contact users to the degree they specify.
-</p>
-<p>
-    - Users are free to update or delete their information and preferences or to opt out of the Vizu community at any
-    time.
-</p>
-<p>
-    - Users are advised to read Vizu's entire Privacy Policy and Terms of Service.
-    </p><div align="right"><a href="policy.html#policy_top"><img src="img/top-link.gif" width="39" height="12" alt="Back to Top" title="Back to Top"></a></div>
-<p></p>
-<p>
-    &nbsp;<br><a name="privacy_policy"><b>VIZU PRIVACY POLICY</b></a><br>
-    We at Vizu, Inc. ("Vizu", "we", or "us") recognize
-    the importance of protecting the privacy rights of our users. We have created
-    this privacy policy ("Privacy Policy") to explain our privacy
-    practices so you will understand when and how personally identifiable
-    information is collected, used, disclosed and protected with respect to our web
-    site located at www.Vizu.com (the "Site"). BY ACCESSING OUR SITE, YOU
-    CONSENT TO OUR PRIVACY POLICY AS DESCRIBED HEREIN. </p><div align="right"><a href="policy.html#policy_top"><img src="img/top-link.gif" width="39" height="12" alt="Back to Top" title="Back to Top"></a></div>
-<p></p>
-
-<p>&nbsp;</p>
-<p><b>POLICY DATE:</b><br>
-This policy was last updated on July 1, 2005.</p>
-<p>&nbsp;</p>
-
-<p>
-    <a name="changes"><b>CHANGES TO PRIVACY POLICY</b></a> <br>
-    From time to time, Vizu may need to change our Privacy Policy because of changes in the law, in technology, in Vizu's business, or in our attempts to serve your needs better. If we make any material changes to our Privacy Policy, we will post a new statement on our Site and update the effective date set forth above. Therefore, we encourage you to check the date of our Privacy Policy whenever you visit this Site to see if it has been updated since your last visit. Below we explain how we may collect personal information, what we do with it, and how we protect it. 
-    </p><div align="right"><a href="policy.html#policy_top"><img src="img/top-link.gif" width="39" height="12" alt="Back to Top" title="Back to Top"></a></div>
-<p></p>
-
-<p><b>USE BY CHILDREN UNDER 13 YEARS OF AGE PROHIBITED</b><br>
-    Our Site is intended solely for use by persons 13 years of age or older. All persons under 13 years of age are prohibited from registering on our Site. All persons between the ages of 13 and 18 must have a parent assist in the completion of registration on our Site.
-</p>
-
-<p>
-    <a name="information"><b>WHAT INFORMATION DOES VIZU GATHER?</b></a><br>
-    The choice of how much personally identifiable information you disclose to us is
-    completely at your discretion. Some areas of our Site are accessible without
-    registration of any kind. This is true of many of the basic content areas on our
-    Site. Other areas of our Site require registration in order for you to
-    participate in the services offered. It is not mandatory for you to register and
-    provide information to us, but please realize that in order for us to serve you
-    better, you will need to provide certain information to access some areas of our
-    Site, to obtain or register for the specialized services we provide, or to
-    complete transactions that you initiate on our Site. If you choose not to
-    provide information, we may not be able to permit access to such areas, provide
-    those specialized services, or complete such transactions. A user's email
-    address and other personally identifiable information collected are used only as
-    described in this Privacy Policy and, unless opted-out, for the purposes of
-    offering you goods and services that, in the sole discretion of Vizu and its
-    affiliates, you may find interesting or of use. By providing such information,
-    you consent to Vizu's Privacy Policy, including the collection and uses of the
-    information described in this policy.
-</p>
-
-<ul type="disc">
-    <li>
-        Information gathered through registration, login, and participation in Vizu polls or
-        other services:<br>
-        Registration is required to enable access to some features, functionality,
-        and information on the Site, to send you specific information related to
-        your service, to allow you to access stored information, and in the event
-        that you do not opt-out, to provide third party access to you. When
-        registering on Vizu you may need to provide your full name and email address,
-        along with other personally identifiable information that may be voluntarily
-        provided. You will also need to select a username and password for your
-        account.&nbsp; Also, we may collect
-        information that identifies you personally when you send us comments,
-        questions or suggestions. From time-to-time we may post contests or
-        sweepstakes on our Site, which may request demographic information and
-        customer feedback. Participation in these requests is completely voluntary
-        and with each request you will have the choice of whether or not to
-        participate and disclose information.
-    </li>
-    <li>
-        Communication Features:<br>
-        Our users also have the option of forwarding some of our content to friends,
-        colleagues or acquaintances (Contacts) through such features as our email
-        and IM capabilities.&nbsp; If a user
-        elects to use our communication features, we ask them for the required
-        contact information (e.g. email address or IM address).&nbsp;
-        Vizu stores this information for the sole purpose of sending these
-        messages only; we will not use this information for other purposes unless
-        the Contacts registers on our Site. Contacts may <a href="contact-us.html?referrer=%2fpolicy.html" class="purple"><b>contact Vizu</b></a> to request the removal of this information from our database.
-    </li>
-    <li>
-        Information gathered through traffic monitoring<br>
-        Like many other Web sites, our Site is equipped with a program that monitors
-        traffic by automatically logging information such as visitor's host, domain
-        name, pages visited, length of user sessions, browser type and/or IP address.
-        This program tracks the number of times the Site is hit, how many visitors
-        come to the Site, which parts of the Site they frequent, and the length of
-        time of each visit. Please note that if you have registered with us, this
-        information may contain personally identifiable information, and is used to
-        evaluate areas of interest and to improve the Vizu site and may be provided
-        to third parties by Vizu or its affiliates. In addition to log information,
-        we may use a variety of technologies to create a more personalized
-        experience for our users. A cookie is a small text file placed on a user's
-        computer when a user visits a Web site. The cookie gives the user a unique,
-        random ID, and this ID enables our Site to readily recognize each visitor on
-        a subsequent visit to the Site. For example, a cookie may indicate the
-        preferences selected by a visitor on a prior visit, and facilitate more
-        efficient browsing on subsequent visits by using such preferences to
-        customize the content and/or layout of our Site for the visitor. Vizu may
-        use cookies. Users are free to change their web browsers to prevent the
-        acceptance of cookies. However, subscribers of Vizu must enable cookies to
-        access member areas. Vizu's cookies may contain personally identifiable
-        information collected by Vizu. Pixel tags are tiny graphic files that are
-        included in HTML-encoded e-mail messages. We may use pixel tags to gather
-        information about the e-mails we send to our registered users and to
-        recipients of referral messages. When such a message is opened in an
-        HTML-capable e-mail program, the recipient's computer accesses our server to
-        retrieve the pixel tag file, and allows us to record and store the date and
-        time, the recipient's e-mail address, and other standard logging information.
-        The pixel tag also may read cookies. Our web pages may also contain similar
-        pixel tags that allow us to count users who have visited those pages, to
-        compile aggregated statistics about Site usage, and to deliver co-branded
-        services as they become available. Our pixel tags collect only a limited set
-        of information including a cookie number, time and date of a page view, and
-        a description of the page on which the pixel tag resides. Our web pages may
-        also contain pixel tags placed there by third party ad servers, to monitor
-        the effectiveness of their advertising. <div align="right"><a href="policy.html#policy_top"><img src="img/top-link.gif" width="39" height="12" alt="Back to Top" title="Back to Top"></a></div>
-    </li>
-</ul>
-<p><a name="how_use"><b>HOW DOES VIZU USE COLLECTED INFORMATION?</b></a></p>
-<p>
-    Vizu uses personally identifiable user information for the purposes of our Site and
-    the services offered on our Site. By registering on our Site, you provide
-    permission for Vizu to contact you via email, or other automated means of
-    communication, and to share your information with third parties to offer goods
-    and services to you, to facilitate the process of applying to college. All users
-    have the ability to opt-out of receiving advertising emails or other advertising
-    communications from Vizu. Users may also opt-out of sharing this information
-    with our partners and third parties. If you have not opted out from being
-    contacted by a third party, then your personal information could be used by our
-    partners and third parties to direct targeted messages to you. In addition, once
-    we have provided information to our suppliers or selected vendors or third
-    parties due to registration, requests for services, or transactions initiated by
-    you, we are not responsible for their use of the information, and you should
-    consult their respective privacy and information use policies.&nbsp;
-    In all cases, we strive to work only with other entities that understand
-    the sensitivity of personal information and have and uphold strict privacy
-    policies.
-</p>
-
-<p>Listed below are some of the ways in which your information may be used:</p>
-<ul type="disc">
-    <li>To compile the results of our Vizu polls;</li>
-    <li>To improve Vizu's and its affiliates' products and services;</li>
-    <li>To customize the content and/or layout of our page for each individual visitor;</li>
-    <li>To ask for your participation in surveys, contests or sweepstakes;</li>
-    <li>
-        To notify visitors about updates, products, services, and/or special offers from Vizu
-        or its affiliates, selected vendors, or suppliers;
-    </li>
-    <li>
-        To assist our suppliers and selected vendors in targeting updates, new products,
-        services, and/or special offers to you through Vizu.
-    </li>
-    <li>
-        To generate aggregate statistical studies and conduct and report research
-        related to our polls;
-    </li>
-    <li>
-        To complete any purchases or other transactions you may do at the Site (which
-        will include providing your information to the relevant supplier or selected
-        vendor so that they can complete your purchase or transaction);
-    </li>
-    <li>
-        To identify, develop, and offer polling or market research related products and
-        services or to obtain such products and services from suppliers and selected
-        vendors;
-    </li>
-    <li>
-        To share with contractors who assist Vizu with programming and technical aspects of
-        hosting and Web site operation. All contractors subscribe to Vizu's
-        confidentiality and privacy conditions. <div align="right"><a href="policy.html#policy_top"><img src="img/top-link.gif" width="39" height="12" alt="Back to Top" title="Back to Top"></a></div>
-    </li>
-</ul>
-<p>
-    <a name="suppliers"><b>VIZU SUPPLIERS AND SELECTED VENDORS; LINKED SITES</b></a><br>
-    Vizu provides, for the convenience of our users, the opportunity to link to Web
-    sites of organizations not related to Vizu, Inc. If you click on a hypertext
-    link that takes you to a Web site outside of Vizu, we are not responsible for
-    their privacy policies or information collection practices and uses. In addition,
-    when you initiate a transaction with one of our suppliers or selected vendors
-    through Vizu, the information that you and we submit to the supplier or selected
-    vendor for the transaction becomes subject to the supplier or selected vendor's
-    privacy or information use policies. Vizu is not responsible for the privacy or
-    information use policies of its suppliers and selected vendors. We encourage you
-    to read the posted privacy statement whenever interacting with any website you
-    visit. Our Site may provide links to third party websites, which may, or may not,
-    use cookies, pixel tags and web tags. We also may allow other companies, called
-    third-party ad servers, to display advertisements on our Site. Ad servers may
-    also use these tools to compile information about where users saw particular
-    advertisements, and to determine which ads were clicked on. We are not
-    responsible for, or have any control over, the privacy policies of those third
-    party websites and ad servers, and encourage all users to read the privacy
-    policies of each and every website visited when linking directly from our Site. 
-    </p><div align="right"><a href="policy.html#policy_top"><img src="img/top-link.gif" width="39" height="12" alt="Back to Top" title="Back to Top"></a></div>
-<p></p>
-<p>
-    <a name="update_info"><b>HOW CAN USERS UPDATE THEIR INFORMATION OR OPT-OUT?</b></a><br>
-    If you would like to change any of the personally identifiable information that
-    you completed when you registered, you can: login using your username and
-    password, go to MY Vizu / Profile / Edit Profile and make any necessary changes.
-    If you would like to change any of your preferences (opt-out or opt-ins) for
-    receiving emails or other communications, login using your username and password,
-    go to MY Vizu / Profile / Edit Profile / Manage Services. You indicate your
-    option whether or not to receive this information by checking or unchecking a
-    box as provided on a form; based on your preferences, information will or will
-    not be shared with third parties. To opt-out of or unsubscribe from any online
-    service on Vizu, simply sign-in to your personal account and click My Vizu /
-    Preferences / Manage Services and opt-out of any service you wish. Again, please
-    remember, once we have provided information to our suppliers or selected vendors
-    due to transactions initiated by you, we are not responsible for their use of
-    the information, and you should consult their respective privacy and information
-    use policies. </p><div align="right"><a href="policy.html#policy_top"><img src="img/top-link.gif" width="39" height="12" alt="Back to Top" title="Back to Top"></a></div>
-<p></p>
-<p>
-    <a name="security"><b>SECURITY</b></a><br>
-    The importance of security for all personal information associated with our
-    users is important to us. We strongly recommend that you employ a secure browser
-    - one that supports secure transmission of data across the Internet. For more
-    information, use your browser's help feature. We implement commercially
-    reasonable measures in providing secure transmission of your information from
-    your computer to our servers. Unfortunately, no data transmission over the
-    Internet can be guaranteed to be 100% secure. Please note, if you do not logout
-    once registered for services that require registration, your personal
-    information could be viewed by other users with access to your computer. Once we
-    receive your transmission, we make our best effort to ensure its security on our
-    systems. Your Vizu password is protected so that only you can access it and view
-    the member information relevant to the account. We recommend that you do not
-    divulge your password to anyone. Vizu will never ask you for your password in an
-    unsolicited phone call or email. Ultimately, you are responsible for maintaining
-    the secrecy of your passwords and any account information. Please note, if you
-    choose to participate in our online discussion forums, your posts will be
-    publicly accessible, as will your username.&nbsp;&nbsp;
-    Unless you choose to reveal more about yourself to other users of Vizu,
-    you will be known only by your User Name / User ID, which need not reflect your
-    true identity in any way.
-    </p><div align="right"><a href="policy.html#policy_top"><img src="img/top-link.gif" width="39" height="12" alt="Back to Top" title="Back to Top"></a></div>
-<p></p>
-
-<p>
-    <a name="ownership"><b>CHANGE OF OWNERSHIP</b></a><br>
-    In the event of a change in ownership, merger or acquisition with another entity, sale or pledge of company assets, or in the event of an insolvency, bankruptcy or receivership, we reserve the right to transfer all of Vizu's user information, including email addresses, postal addresses, and other personally identifiable information, to third parties as one of our business assets.
-    </p><div align="right"><a href="policy.html#policy_top"><img src="img/top-link.gif" width="39" height="12" alt="Back to Top" title="Back to Top"></a></div>
-<p></p>
-<p>
-    <a name="protection"><b>PROTECTION OF VIZU AND OTHERS</b></a><br>
-    Vizu may disclose any user information, including personally identifiable information, pursuant to a subpoena or other judicial or administrative order, where required by law, or, at our sole discretion, where we deem necessary to protect the safety of any individual or the public or to prevent the violation of our Terms of Service Agreement or of the rights of Vizu or any third party.
-    </p><div align="right"><a href="policy.html#policy_top"><img src="img/top-link.gif" width="39" height="12" alt="Back to Top" title="Back to Top"></a></div>
-<p></p>
-<p>
-    <a name="contact"><b>WHO CAN I CONTACT FOR MORE INFORMATION?</b></a><br>
-    If you have questions or would like to be deactivated from Vizu's lists, you may <a href="contact-us.html?referrer=%2fpolicy.html" class="purple"><b>contact us</b></a> or write us at Vizu, Inc., CORPORATE ADRESS. Vizu will use reasonable efforts to assist you. 
-    </p><div align="right"><a href="policy.html#policy_top"><img src="img/top-link.gif" width="39" height="12" alt="Back to Top" title="Back to Top"></a></div>
-<p></p>
-                    </td>
-                    <td style="background-image: url('img/cb-rbg.gif')"><img src="img/spacer.gif" width="10"></td>
-                </tr>
-                <tr>
-                    <td style="height: 10px; width: 10px"><img src="img/cb-left.gif"></td>
-                    <td width="100%" style="background-image: url('img/cb-bbg.gif')"><img src="img/spacer.gif" height="10"></td>
-                    <td style="height: 10px; width: 10px"><img src="img/cb-right.gif"></td>
-                </tr>
-                </tbody></table>
-            </td>
-        </tr>
-        </tbody></table>
-    </td><!-- end content -->
-    <td style="text-align: right" width="250">
-        <table width="250" cellpadding="0" cellspacing="0">
-        <tbody><tr>
-            <td width="100%"><!-- Browse -->
-                <table width="100%" cellpadding="0" cellspacing="0">
-                <tbody><tr><!-- header -->
-                    <td width="100%">
-                        <table cellpadding="0" cellspacing="0" width="100%">
-                        <tbody><tr>
-                            <td><img src="img/ch-left.gif"></td>
-                            <td width="100%" class="cp-head">Privacy Policy Contents</td>
-                            <td><img src="img/ch-right.gif"></td>
-                        </tr>
-                        </tbody></table>
-                    </td>
-                </tr><!-- end header -->
-                <tr>
-                    <td width="100%">
-                        <table cellpadding="0" cellspacing="0" width="100%">
-                        <tbody><tr>
-                            <td style="background-color: #ffffff"><img src="img/spacer.gif" width="10"></td>
-                            <td width="100%" style="background-color: #ffffff; padding: 10px 10px 0px 5px">
-                                <table cellpadding="0" cellspacing="0" width="100%">
-                                <tbody><tr>
-                                    <td class="cat-menu-place"><img src="img/spacer.gif"></td>
-                                    <td class="cat-menu-place" width="100%"><a href="policy.html#vizu_principles" class="topics-link">Vizu privacy principles</a></td>
-                                </tr>
-                                <tr>
-                                    <td class="cat-menu-place"><img src="img/spacer.gif"></td>
-                                    <td class="cat-menu-place" width="100%"><a href="policy.html#vizu_summary" class="topics-link">Vizu privacy summary</a></td>
-                                </tr>
-                                <tr>
-                                    <td class="cat-menu-place"><img src="img/spacer.gif"></td>
-                                    <td class="cat-menu-place" width="100%"><a href="policy.html#privacy_policy" class="topics-link">Vizu privacy policy</a></td>
-                                </tr>
-                                <tr>
-                                    <td class="cat-menu-place"><img src="img/spacer.gif"></td>
-                                    <td class="cat-menu-place" width="100%"><a href="policy.html#changes" class="topics-link">Changes to privacy policy</a></td>
-                                </tr>
-                                <tr>
-                                    <td class="cat-menu-place"><img src="img/spacer.gif"></td>
-                                    <td class="cat-menu-place" width="100%"><a href="policy.html#information" class="topics-link">What information does vizu gather?</a></td>
-                                </tr>
-                                <tr>
-                                    <td class="cat-menu-place"><img src="img/spacer.gif"></td>
-                                    <td class="cat-menu-place" width="100%"><a href="policy.html#how_use" class="topics-link">How does vizu use collected information?</a></td>
-                                </tr>
-                                <tr>
-                                    <td class="cat-menu-place"><img src="img/spacer.gif"></td>
-                                    <td class="cat-menu-place" width="100%"><a href="policy.html#suppliers" class="topics-link">Vizu suppliers and selected vendors</a></td>
-                                </tr>
-                                <tr>
-                                    <td class="cat-menu-place"><img src="img/spacer.gif"></td>
-                                    <td class="cat-menu-place" width="100%"><a href="policy.html#update_info" class="topics-link">How can users update their information?</a></td>
-                                </tr>
-                                <tr>
-                                    <td class="cat-menu-place"><img src="img/spacer.gif"></td>
-                                    <td class="cat-menu-place" width="100%"><a href="policy.html#security" class="topics-link">Security</a></td>
-                                </tr>
-                                <tr>
-                                    <td class="cat-menu-place"><img src="img/spacer.gif"></td>
-                                    <td class="cat-menu-place" width="100%"><a href="policy.html#ownership" class="topics-link">Change of ownership</a></td>
-                                </tr>
-                                <tr>
-                                    <td class="cat-menu-place"><img src="img/spacer.gif"></td>
-                                    <td class="cat-menu-place" width="100%"><a href="policy.html#protection" class="topics-link">Protection of vizu and others</a></td>
-                                </tr>
-                                <tr>
-                                    <td class="cat-menu-place"><img src="img/spacer.gif"></td>
-                                    <td class="cat-menu-place" width="100%"><a href="policy.html#contact" class="topics-link">Who I can contact for more information?</a></td>
-                                </tr>
-                                </tbody></table>
-                            </td>
-                            <td style="background-image: url('img/cb-rbg.gif')"><img src="img/spacer.gif" width="10"></td>
-                        </tr>
-                        <tr>
-                            <td style="height: 10px; width: 10px"><img src="img/cb-left.gif"></td>
-                            <td width="100%" style="background-image: url('img/cb-bbg.gif')"><img src="img/spacer.gif" height="10"></td>
-                            <td style="height: 10px; width: 10px"><img src="img/cb-right.gif"></td>
-                        </tr>
-                        </tbody></table>
-                    </td>
-                </tr>
-                </tbody></table> 
-            </td><!-- End Hot topics -->
-        </tr>
-        </tbody></table>
-    </td>
-</tr>
-</tbody></table>
-        <!-- END OF PAGE CONTENT -->        	
-        <div id="footer">
-                    <a href="contact-us.html?referrer=%2f%2fpolicy.html" class="purple">Contact Us</a> &nbsp;|&nbsp;  <a href="terms.html" class="purple">Terms of Service</a> &nbsp;|&nbsp;  <a href="policy.html" class="purple">Privacy Policy</a> &nbsp;|&nbsp; <a href="http://answers.vizu.com/market-research.htm" class="purple" target="_blank">Market Research</a><br>
-                    <div style="margin: 7px 0 0px 0; text-align: center;"><a href="http://www.vizuble.com" class="purple" target="_blank">Public Opinion Polls</a> &nbsp;|&nbsp; <a href="http://www.marketresearchdaily.com" class="purple" target="_blank">Market Research Daily</a> &nbsp;|&nbsp; <a href="http://www.facebookpolls.com" class="purple" target="_blank">Free Facebook Polls</a></div>
-        		<div style="margin: 10px 0 5px 0; text-align: center;"><span class="textBlk33">Copyright © 2007 Vizu Corp.</span></div>
-        </div>
-    </div>
-</div>
-
-<script type="text/javascript">
-            document.write('<'
-                        + 'script type="text/javascript" src="'
-                        + document.location.protocol
-                        + '//stats4.clicktracks.com/cgi-bin/ctasp-server.cgi'
-                        + '?i=zRReCDbjinJqZS'
-                        + '&c='+escape(document.cookie)
-                        + '&fp=.vizu.com'
-                        + '"></'+'script>');
-</script><script type="text/javascript" src="https://stats4.clicktracks.com/cgi-bin/ctasp-server.cgi?i=zRReCDbjinJqZS&amp;c=WT_FPC%3Did%3D21f8b16577d176f06f81582115280572%3Alv%3D1582115280572%3Ass%3D1582115280572&amp;fp=.vizu.com"></script><noscript><img src="https://stats4.clicktracks.com/cgi-bin/ctasp-server.cgi?i=zRReCDbjinJqZS&g=1" alt="Web Analytics" border=0></noscript>
-
-
-
-<!-- START OF SDC Advanced Tracking Code -->
-<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-<!-- V8.0 -->
-<!-- $DateTime: 2006/05/02 08:33:13 $ -->
-<script type="text/javascript"><!--
-var gService = true;
-var gTimeZone = -8;
-// Code section for Enable First-Party Cookie Tracking
-function dcsCookie(){
-	if (typeof(dcsOther)=="function"){
-		dcsOther();
-	}
-	else if (typeof(dcsPlugin)=="function"){
-		dcsPlugin();
-	}
-	else if (typeof(dcsFPC)=="function"){
-		dcsFPC(gTimeZone);
-	}
-}
-function dcsGetCookie(name){
-	var pos=document.cookie.indexOf(name+"=");
-	if (pos!=-1){
-		var start=pos+name.length+1;
-		var end=document.cookie.indexOf(";",start);
-		if (end==-1){
-			end=document.cookie.length;
-		}
-		return unescape(document.cookie.substring(start,end));
-	}
-	return null;
-}
-function dcsGetCrumb(name,crumb){
-	var aCookie=dcsGetCookie(name).split(":");
-	for (var i=0;i<aCookie.length;i++){
-		var aCrumb=aCookie[i].split("=");
-		if (crumb==aCrumb[0]){
-			return aCrumb[1];
-		}
-	}
-	return null;
-}
-function dcsGetIdCrumb(name,crumb){
-	var cookie=dcsGetCookie(name);
-	var id=cookie.substring(0,cookie.indexOf(":lv="));
-	var aCrumb=id.split("=");
-	for (var i=0;i<aCrumb.length;i++){
-		if (crumb==aCrumb[0]){
-			return aCrumb[1];
-		}
-	}
-	return null;
-}
-function dcsFPC(offset){
-	if (typeof(offset)=="undefined"){
-		return;
-	}
-	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
-		return;
-	}
-	var name=gFpc;
-	var dCur=new Date();
-	var adj=(dCur.getTimezoneOffset()*60000)+(offset*3600000);
-	dCur.setTime(dCur.getTime()+adj);
-	var dExp=new Date(dCur.getTime()+315360000000);
-	var dSes=new Date(dCur.getTime());
-	WT.co_f=WT.vt_sid=WT.vt_f=WT.vt_f_a=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
-	if (document.cookie.indexOf(name+"=")==-1){
-		if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
-			WT.co_f=gWtId;
-		}
-		else if ((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
-			WT.co_f=gTempWtId;
-			WT.vt_f="1";
-		}
-		else{
-			WT.co_f="2";
-			var cur=dCur.getTime().toString();
-			for (var i=2;i<=(32-cur.length);i++){
-				WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
-			}
-			WT.co_f+=cur;
-			WT.vt_f="1";
-		}
-		if (typeof(gWtAccountRollup)=="undefined"){
-			WT.vt_f_a="1";
-		}
-		WT.vt_f_s=WT.vt_f_d="1";
-		WT.vt_f_tlh=WT.vt_f_tlv="0";
-	}
-	else{
-		var id=dcsGetIdCrumb(name,"id");
-		var lv=parseInt(dcsGetCrumb(name,"lv"));
-		var ss=parseInt(dcsGetCrumb(name,"ss"));
-		if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
-			return;
-		}
-		WT.co_f=id;
-		var dLst=new Date(lv);
-		WT.vt_f_tlh=Math.floor((dLst.getTime()-adj)/1000);
-		dSes.setTime(ss);
-		if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
-			WT.vt_f_tlv=Math.floor((dSes.getTime()-adj)/1000);
-			dSes.setTime(dCur.getTime());
-			WT.vt_f_s="1";
-		}
-		if ((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
-			WT.vt_f_d="1";
-		}
-	}
-	WT.co_f=escape(WT.co_f);
-	WT.vt_sid=WT.co_f+"."+(dSes.getTime()-adj);
-	var expiry="; expires="+dExp.toGMTString();
-	document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
-	if (document.cookie.indexOf(name+"=")==-1){
-		WT.co_f=WT.vt_sid=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
-		WT.vt_f=WT.vt_f_a="2";
-	}
-}
-
-// Code section for Use the new first-party cookie generated with this tag.
-var gFpc="WT_FPC";
-var gConvert=true;
-
-function dcsAdv(){
-	dcsFunc("dcsET");
-	dcsFunc("dcsCookie");
-	dcsFunc("dcsAdSearch");
-	dcsFunc("dcsTP");
-}
-
-//-->
-</script>
-<!-- END OF SDC Advanced Tracking Code -->
-
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-<!-- V8.0 -->
-<!-- $DateTime: 2006/05/02 08:33:13 $ -->
-<script type="text/javascript"><!--
-var gDomain="statse.webtrendslive.com";
-var gDcsId="dcs1bky7e10000gc4ocaij7vm_8u2k";
-
-if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)&&(document.cookie.indexOf("WTLOPTOUT=")==-1)){
-	document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
-}
-//-->
-</script>
-<script type="text/javascript"><!--
-var gImages=new Array;
-var gIndex=0;
-var DCS=new Object();
-var WT=new Object();
-var DCSext=new Object();
-var gQP=new Array();
-var gI18n=false;
-if (window.RegExp){
-	var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g,"%22":/\"/g,"%7F":/\x7F/g,"%A0":/\xA0/g};
-	var I18NRE={"%25":/%/g};
-}
-
-// Add customizations here
-
-function dcsVar(){
-	var dCurrent=new Date();
-	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
-	if (WT.tz==0){
-		WT.tz="0";
-	}
-	WT.bh=dCurrent.getHours();
-	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
-	if (typeof(screen)=="object"){
-		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
-		WT.sr=screen.width+"x"+screen.height;
-	}
-	if (typeof(navigator.javaEnabled())=="boolean"){
-		WT.jo=navigator.javaEnabled()?"Yes":"No";
-	}
-	if (document.title){
-		WT.ti=gI18n?dcsEscape(dcsEncode(document.title),I18NRE):document.title;
-	}
-	WT.js="Yes";
-	WT.jv=dcsJV();
-	if (document.body&&document.body.addBehavior){
-		document.body.addBehavior("#default#clientCaps");
-		if (document.body.connectionType){
-			WT.ct=document.body.connectionType;
-		}
-		document.body.addBehavior("#default#homePage");
-		WT.hp=document.body.isHomePage(location.href)?"1":"0";
-	}
-	if (parseInt(navigator.appVersion)>3){
-		if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
-			WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
-		}
-		else if (navigator.appName=="Netscape"){
-			WT.bs=window.innerWidth+"x"+window.innerHeight;
-		}
-	}
-	WT.fi="No";
-	if (window.ActiveXObject){
-		for(var i=10;i>0;i--){
-			try{
-				var flash = new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+i);
-				WT.fi="Yes";
-				WT.fv=i+".0";
-				break;
-			}
-			catch(e){
-			}
-		}
-	}
-	else if (navigator.plugins&&navigator.plugins.length){
-		for (var i=0;i<navigator.plugins.length;i++){
-			if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
-				WT.fi="Yes";
-				WT.fv=navigator.plugins[i].description.split(" ")[2];
-				break;
-			}
-		}
-	}
-	if (gI18n){
-		WT.em=(typeof(encodeURIComponent)=="function")?"uri":"esc";
-		if (typeof(document.defaultCharset)=="string"){
-			WT.le=document.defaultCharset;
-		} 
-		else if (typeof(document.characterSet)=="string"){
-			WT.le=document.characterSet;
-		}
-	}
-	WT.tv="8.0.0";
-	WT.sp="@@SPLITVALUE@@";
-	DCS.dcsdat=dCurrent.getTime();
-	DCS.dcssip=window.location.hostname;
-	DCS.dcsuri=window.location.pathname;
-	if (window.location.search){
-		DCS.dcsqry=window.location.search;
-		if (gQP.length>0){
-			for (var i=0;i<gQP.length;i++){
-				var pos=DCS.dcsqry.indexOf(gQP[i]);
-				if (pos!=-1){
-					var front=DCS.dcsqry.substring(0,pos);
-					var end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
-
-					DCS.dcsqry=front+end;
-				}
-			}
-		}
-	}
-	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
-		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
-			DCS.dcsref=gI18n?dcsEscape(window.document.referrer, I18NRE):window.document.referrer;
-		}
-	}
-}
-
-function dcsA(N,V){
-	return "&"+N+"="+dcsEscape(V, RE);
-}
-
-function dcsEscape(S, REL){
-	if (typeof(REL)!="undefined"){
-		var retStr = new String(S);
-		for (R in REL){
-			retStr = retStr.replace(REL[R],R);
-		}
-		return retStr;
-	}
-	else{
-		return escape(S);
-	}
-}
-
-function dcsEncode(S){
-	return (typeof(encodeURIComponent)=="function")?encodeURIComponent(S):escape(S);
-}
-
-function dcsCreateImage(dcsSrc){
-	if (document.images){
-		gImages[gIndex]=new Image;
-		if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
-			gImages[gIndex].onload=gImages[gIndex].onerror=dcsLoadHref;
-		}
-		gImages[gIndex].src=dcsSrc;
-		gIndex++;
-	}
-	else{
-		document.write('<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
-	}
-}
-
-function dcsMeta(){
-	var elems;
-	if (document.all){
-		elems=document.all.tags("meta");
-	}
-	else if (document.documentElement){
-		elems=document.getElementsByTagName("meta");
-	}
-	if (typeof(elems)!="undefined"){
-		for (var i=1;i<=elems.length;i++){
-			var meta=elems.item(i-1);
-			if (meta.name){
-				if (meta.name.indexOf('WT.')==0){
-					WT[meta.name.substring(3)]=(gI18n&&(meta.name.indexOf('WT.ti')==0))?dcsEscape(dcsEncode(meta.content),I18NRE):meta.content;
-				}
-				else if (meta.name.indexOf('DCSext.')==0){
-					DCSext[meta.name.substring(7)]=meta.content;
-				}
-				else if (meta.name.indexOf('DCS.')==0){
-					DCS[meta.name.substring(4)]=(gI18n&&(meta.name.indexOf('DCS.dcsref')==0))?dcsEscape(meta.content,I18NRE):meta.content;
-				}
-			}
-		}
-	}
-}
-
-function dcsTag(){
-	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
-		return;
-	}
-	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
-	for (N in DCS){
-		if (DCS[N]) {
-			P+=dcsA(N,DCS[N]);
-		}
-	}
-	for (N in WT){
-		if (WT[N]) {
-			P+=dcsA("WT."+N,WT[N]);
-		}
-	}
-	for (N in DCSext){
-		if (DCSext[N]) {
-			P+=dcsA(N,DCSext[N]);
-		}
-	}
-	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
-		P=P.substring(0,2040)+"&WT.tu=1";
-	}
-	dcsCreateImage(P);
-}
-
-function dcsJV(){
-	var agt=navigator.userAgent.toLowerCase();
-	var major=parseInt(navigator.appVersion);
-	var mac=(agt.indexOf("mac")!=-1);
-	var nn=((agt.indexOf("mozilla")!=-1)&&(agt.indexOf("compatible")==-1));
-	var nn4=(nn&&(major==4));
-	var nn6up=(nn&&(major>=5));
-	var ie=((agt.indexOf("msie")!=-1)&&(agt.indexOf("opera")==-1));
-	var ie4=(ie&&(major==4)&&(agt.indexOf("msie 4")!=-1));
-	var ie5up=(ie&&!ie4);
-	var op=(agt.indexOf("opera")!=-1);
-	var op5=(agt.indexOf("opera 5")!=-1||agt.indexOf("opera/5")!=-1);
-	var op6=(agt.indexOf("opera 6")!=-1||agt.indexOf("opera/6")!=-1);
-	var op7up=(op&&!op5&&!op6);
-	var jv="1.1";
-	if (nn6up||op7up){
-		jv="1.5";
-	}
-	else if ((mac&&ie5up)||op6){
-		jv="1.4";
-	}
-	else if (ie5up||nn4||op5){
-		jv="1.3";
-	}
-	else if (ie4){
-		jv="1.2";
-	}
-	return jv;
-}
-
-function dcsFunc(func){
-	if (typeof(window[func])=="function"){
-		window[func]();
-	}
-}
-
-dcsVar();
-dcsMeta();
-dcsFunc("dcsAdv");
-dcsTag();
-//-->
-</script>
-
-<noscript>
-<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcs1bky7e10000gc4ocaij7vm_8u2k/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.0">
-</noscript>
-<!-- END OF SmartSource Data Collector  TAG -->	
-
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-373323-5";
-urchinTracker();
-</script>
-
+  </div>
+  <!-- End Nav -->
+  <!-- Content -->
+  <div id="terms">
+    <h1>Vizu Privacy Policy</h1>
+    <h2>VIZU PRIVACY PRINCIPLES - THE BOTTOM LINE</h2>
+    <p>Our business is predicated on trust and privacy.</p>
+    <p>Accurate, truthful information from our users is the foundation of our business.</p>
+    <p>We respect our users' privacy, and we will strive to earn our users' trust and to maintain their privacy every day.</p>
+    <p>We will never rent or sell your email address or any other contact information with anyone.  We only use this information for the sole purpose of communicating with you about your business with Vizu, or to notify you about new services that we may be offering.</p>
+    <p>All data collected by voters through Vizu polls is reported anonymously, and never tied to any personal contact information.</p>
+    <h2>VIZU PRIVACY SUMMARY</h2>
+    <p>Much of Vizu's sites and services are available for anonymous use by the general public.  Users can vote on Vizu polls either through the off-site poll widgets, or on the Vizu Web Polls site itself, without providing any personal information.  Vizu deeply respects the privacy of this data and does not make it available on the site, other than in aggregate form, unless requested or allowed by the user. </p>
+    <p>The Vizu Web Polls experience is enhanced for registered users proportionately to the information they choose to share about themselves during registration and in their user preferences.</p>
+    <p>Vizu Answers and Vizu Ad Catalyst require registration information to access these services.  This information is kept private and will never be shared externally.</p>
+    <p>Vizu does use the information collected via interaction with its service to continually improve its service and offerings and those of its partners.</p>
+    <p>Vizu respects the fact the various people may have different wishes with respect to the degree that they are contacted by Vizu or any of its partners.  Vizu and its partners will only contact users to the degree they specify.</p>
+    <p>Users are free to update or delete their information and preferences or to opt out of the Vizu sites and services at any time.</p>
+    <p>Users are advised to read Vizu's entire Privacy Policy below.</p>
+    <h2>VIZU PRIVACY POLICY</h2>
+    <p>We at Vizu, Inc. ("Vizu", "we", or "us") recognize the importance of protecting the privacy rights of our users. We have created this privacy policy ("Privacy Policy") to explain our privacy practices so you will understand when and how personally identifiable information is collected, used, disclosed and protected with respect to our suite of web properties located at the primary domain of Vizu.com (the "Site"). BY ACCESSING OUR SITE, YOU CONSENT TO OUR PRIVACY POLICY AS DESCRIBED HEREIN.</p>
+    <p><b>POLICY DATE:</b><br>
+      This policy was last updated on September 18, 2007.</p>
+    <p><b>CHANGES TO PRIVACY POLICY </b><br>
+      From time to time, Vizu may need to change our Privacy Policy because of changes in the law, in technology, in Vizu's business, or in our attempts to serve your needs better. If we make any material changes to our Privacy Policy, we will post a new statement on our Site and update the effective date set forth above. Therefore, we encourage you to check the date of our Privacy Policy whenever you visit this Site to see if it has been updated since your last visit. Below we explain how we may collect personal information, what we do with it, and how we protect it. </p>
+    <p><b>USE BY CHILDREN UNDER 13 YEARS OF AGE PROHIBITED</b><br>
+      Our Site is intended solely for use by persons 13 years of age or older. All persons under 13 years of age are prohibited from registering on our Site. All persons between the ages of 13 and 18 must have a parent assist in the completion of registration on our Site. </p>
+    <p><b>WHAT INFORMATION DOES VIZU GATHER?</b><br>
+      The choice of how much personally identifiable information you disclose to us is completely at your discretion. Some areas of our Site are accessible without registration of any kind. This is true of many of the basic content areas on our Site. Other areas of our Site require registration in order for you to participate in the services offered. It is not mandatory for you to register and provide information to us, but please realize that in order for us to serve you better, you will need to provide certain information to access some areas of our Site, to obtain or register for the specialized services we provide, or to complete transactions that you initiate on our Site. If you choose not to provide information, we may not be able to permit access to such areas, provide those specialized services, or complete such transactions. A user's email address and other personally identifiable information collected are used only as described in this Privacy Policy and, unless opted-out, for the purposes of offering you goods and services that, in the sole discretion of Vizu and its affiliates, you may find interesting or of use. By providing such information, you consent to Vizu's Privacy Policy, including the collection and uses of the information described in this policy.</p>
+    <p><b>Registration:</b><br>
+      Registration is required to enable access to some features, functionality, and information on the Site, to send you specific information related to your service, to allow you to access stored information, and to facilitate communication from Vizu to you. When registering on Vizu you may need to provide your full name and email address, along with other personally identifiable information that may be voluntarily provided. You will also need to select a username and password for your account.  Also, we may collect information that identifies you personally when you send us comments, questions or suggestions. From time-to-time we may post contests or sweepstakes on our Site, which may request demographic information and customer feedback. Participation in these requests is completely voluntary and with each request you will have the choice of whether or not to participate and disclose information. </p>
+    <p><b>Communication Features:</b><br>
+      Our users also have the option of forwarding some of our content to friends, colleagues or acquaintances (Contacts) through such features as our email and IM capabilities.  If a user elects to use our communication features, we ask them for the required contact information (e.g. email address or IM address).  Vizu stores this information for the sole purpose of sending these messages only; we will not use this information for other purposes unless the Contacts register on our Site. Contacts may contact Vizu to request the removal of this information from our database. </p>
+    <p><b>Information Gathered through Traffic Monitoring:</b><br>
+      Like many other Web sites, our Site is equipped with a program that monitors traffic by automatically logging information                 such as visitor's host, domain name, pages visited, length of user sessions, browser type and/or IP address. This program tracks                 the number of times the Site is hit, how many visitors come to the Site, which parts of the Site they frequent, and the length of                 time of each visit. Please note that if you have registered with us, this information may contain personally identifiable                 information, and is used to evaluate areas of interest and to improve the Vizu Site. In addition to log information, we may use a                 variety of technologies to create a more personalized experience for our users. A cookie is a small text file placed on a user's                 computer when a user visits a Web site. The cookie gives the user a unique, random ID, and this ID enables our Site to readily                 recognize each visitor on a subsequent visit to the Site. For example, a cookie may indicate the preferences selected by a visitor                 on a prior visit, and facilitate more efficient browsing on subsequent visits by using such preferences to customize the content                 and/or layout of our Site for the visitor. Vizu may use cookies. Users are free to change their web browsers to prevent the                 acceptance of cookies. However, subscribers of Vizu must enable cookies to access member areas. Vizu's cookies may contain                 personally identifiable information collected by Vizu. Pixel tags are tiny graphic files that are included in HTML-encoded e-mail                 messages. We may use pixel tags to gather information about the e-mails we send to our registered users and to recipients of                 referral messages. When such a message is opened in an HTML-capable e-mail program, the recipient's computer accesses our server                 to retrieve the pixel tag file, and allows us to record and store the date and time, the recipient's e-mail address, and other                 standard logging information. The pixel tag also may read cookies. Our web pages may also contain similar pixel tags that allow us                 to count users who have visited those pages, to compile aggregated statistics about Site usage, and to deliver co-branded services                 as they become available. Our pixel tags collect only a limited set of information including a cookie number, time and date of a                 page view, and a description of the page on which the pixel tag resides. Our web pages may also contain pixel tags placed there by                 third party ad servers, to monitor the effectiveness of their advertising. </p>
+    <p><b>HOW DOES VIZU USE COLLECTED INFORMATION?</b><br>
+      Vizu uses personally identifiable user information for the purposes of our Site and the services offered on our Site. By registering on our Site, you provide permission for Vizu to contact you via email regarding your activities on the Site, as well as to notify you of new services that we may be offering. All users have the ability to opt-out of receiving marketing communications from Vizu. In all cases, we strive to work only with other entities that understand the sensitivity of personal information and have and uphold strict privacy policies. </p>
+    <p> Listed below are some of the ways in which your information may be used:
+    </p><ul>
+      <li>To compile the results of our Vizu polls</li>
+      <li>To improve Vizu's products and services</li>
+      <li>To customize the content and/or layout of our page for each individual visitor</li>
+      <li>To notify visitors about updates, products, services, and/or special offers from Vizu</li>
+      <li>To generate aggregate statistical studies and conduct and report research related to our polls</li>
+      <li>To complete any purchases or other commerce transactions you may do at the Site (which will include providing your information to the relevant supplier or selected vendor so that they can complete your purchase or transaction) </li>
+      <li>To identify, develop, and offer polling or market research related products and services</li>
+      <li>To share with contractors who assist Vizu with programming and technical aspects of hosting and Web site operation. All contractors subscribe to Vizu's confidentiality and privacy conditions. </li>
+    </ul>
+    <p></p>
+    <p><b>VIZU SUPPLIERS AND SELECTED VENDORS; LINKED SITES</b><br>
+      Vizu provides, for the convenience of our users, the opportunity to link to Web sites of organizations not related to Vizu, Inc. If you click on a hypertext link that takes you to a Web site outside of Vizu, we are not responsible for their privacy policies or information collection practices and uses. In addition, when you initiate a transaction with one of our suppliers or selected vendors through Vizu, the information that you and we submit to the supplier or selected vendor for the transaction becomes subject to the supplier or selected vendor's privacy or information use policies. Vizu is not responsible for the privacy or information use policies of its suppliers and selected vendors. We encourage you to read the posted privacy statement whenever interacting with any website you visit. Our Site may provide links to third party websites, which may, or may not, use cookies, pixel tags and web tags. We also may allow other companies, called third-party ad servers, to display advertisements on our Site. Ad servers may also use these tools to compile information about where users saw particular advertisements, and to determine which ads were clicked on. We are not responsible for, or have any control over, the privacy policies of those third party websites and ad servers, and encourage all users to read the privacy policies of each and every website visited when linking directly from our Site. </p>
+    <p><b>HOW CAN USERS UPDATE THEIR INFORMATION OR OPT-OUT?</b><br>
+      If you would like to change any of the personally identifiable information that you completed when you registered, you can: login using your username and password, go to your account/profile page and make any necessary changes. If you would like to change any of your preferences (opt-out or opt-ins) for receiving emails or other communications, login using your username and password, and go to your account/profile page. You indicate your option whether or not to receive this information by checking or unchecking the appropriate box as provided on the form.</p>
+    <p><b>SECURITY</b><br>
+      The importance of security for all personal information associated with our users is important to us. We strongly recommend that you employ a secure browser - one that supports secure transmission of data across the Internet. For more information, use your browser's help feature. We implement commercially reasonable measures in providing secure transmission of your information from your computer to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Please note, if you do not logout once registered for services that require registration, your personal information could be viewed by other users with access to your computer. Once we receive your transmission, we make our best effort to ensure its security on our systems. Your Vizu password is protected so that only you can access it and view the member information relevant to the account. We recommend that you do not divulge your password to anyone. Vizu will never ask you for your password in an unsolicited phone call or email. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information. Please note, if you choose to participate in our online discussion forums on Vizu Web Polls, your posts will be publicly accessible, as will your username.   Unless you choose to reveal more about yourself to other users of Vizu, you will be known only by your User Name / User ID, which need not reflect your true identity in any way.</p>
+    <p><b>CHANGE OF OWNERSHIP</b><br>
+      In the event of a change in ownership, merger or acquisition with another entity, sale or pledge of company assets, or in the event of an insolvency, bankruptcy or receivership, we reserve the right to transfer all of Vizu's user information, including email addresses, postal addresses, and other personally identifiable information, to third parties as one of our business assets. </p>
+    <p><b>PROTECTION OF VIZU AND OTHERS</b><br>
+      Vizu may disclose any user information, including personally identifiable information, pursuant to a subpoena or other judicial or administrative order, where required by law, or, at our sole discretion, where we deem necessary to protect the safety of any individual or the public or to prevent the violation of our Terms of Service Agreement or of the rights of Vizu or any third party. </p>
+   
+    <p><b>OPTING OUT OF VIZU'S AD CATALYST AD MEASUREMENT SERVICE</b><br>
+      Ad Catalyst is a measurement service that allows advertisers to understand how effective their ad campaigns are.  Ad Catalyst tracks the ad impression history of certain ads that you have seen and stores this information in a cookie on your computer.  No personally identifiable information is ever collected by Vizu; this is a completely safe and anonymous service.  Ad Catalyst plays a valuable function as it helps advertisers and sites to improve the quality of online advertising which is the primary source of revenue for many of the free Web sites that you visit on a daily basis. </p>
+    <p> If you wish to opt-out of Vizu's Ad Catalyst service, you can do so by clicking the button below.  This action downloads a do-not-track cookie to your machine (also referred to as an "opt-out" cookie) and you will no longer be tracked or surveyed about ad campaigns that you may view. </p>
+	<div style="text-align:center; font-size:1.2em;">
+			<div id="myMssg"></div>		
+			<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="172" height="40" id="unsubscibe" align="middle">
+			<param name="allowScriptAccess" value="always">
+			<param name="movie" value="http://wp.vizu.com/ac/swf/unsubscibe.swf">
+			<param name="quality" value="high">
+			<param name="bgcolor" value="#ffffff">
+			<param name="FlashVars" value="txtIn=Opt-In&amp;txtOut=Opt-out">
+			<embed src="http://wp.vizu.com/ac/swf/unsubscibe.swf" quality="high" bgcolor="#ffffff" width="172" height="40" name="unsubscibe" align="middle" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="txtIn=Opt-In&amp;txtOut=Opt-out">
+			</object>
+	</div>
 	
+	<p>
+		<strong>COLLECTION OF AD MEASUREMENT DATA FROM WEBMD</strong> <br>
+	  Ad Catalyst is employed to measure the performance of some campaigns that run on WebMD.  While no personally identifiable information is ever collected by this service as well as all principles of Vizu's privacy policy are always followed, Vizu also strictly adhere's the WebMD's privacy policy regarding data collection on that property.  <a href="http://www.webmd.com/about-webmd-policies/about-privacy-policy" target="_blank">Click here</a> to view WebMD's privacy policy.	</p>
+	
+	<p>
+      <strong>WHO CAN I CONTACT FOR MORE INFORMATION?</strong><br>
+    If you have questions or would like to be deactivated from Vizu's lists, you may <a href="http://answers.vizu.com/contact-us.htm" target="_blank">contact us</a> or write us at Vizu, Inc., 463 Pacific Ave, San Francisco, CA. 94133. Vizu will use all reasonable efforts to assist you. </p>
+    <p align="center"><a href="javascript:self.close();">Close Window</a></p>
+    <br>
+  </div>
+  <!-- End Content -->
+</div>
+<div id="bottom"><img src="/img/box_bottom.gif" width="916" height="5" alt=""></div>
+<br>
+<br>
+
+
 </body></html>
