@@ -1,49 +1,151 @@
-> *The following text is extracted and transformed from the comics.com privacy policy that was archived on 2008-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081022120434id_/http%3A//www.comics.com/uminfo/um_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comics.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303121455id_/http%3A//comics.com/privacy) for the most accurate reproduction.*
 
-# Comics.com Privacy Policy
+# Privacy Policy
 
-|  |  |  | 
+### WELCOME TO COMICS.COM PRIVACY POLICY
 
-|  |  [](https://web.archive.org/) |  [](https://web.archive.org/categories/index.html) |  [](https://web.archive.org/editoons/) |  [](https://web.archive.org/columns) |  [](https://web.archive.org/crossword/) |  [](https://web.archive.org/store/index.html) |  [](https://web.archive.org/ecards/index.html) |   
----|---|---|---|---|---|---|---  
-|  |   
-|  | [](https://web.archive.org/uminfo/index.html)  
----  
-|   
-|  |    
-PRIVACY STATEMENT
+This Privacy Policy applies only to Comics.com (however accessed) and other interactive features or downloads that are that are accessible or downloadable through, or related to, Comics.com and owed by United Media (collectively, the " _Web Site_ "). The Web Site is owned by United Media ( _"United Media," "we" or "us"_ ). This Privacy Policy only covers information collected at or via the Web Site and does not cover any information collected at any other web site or offline by United Media (unless specifically stated). This Privacy Policy addresses how United Media collects information at or via the Web Site, what information it collects, how it may use this information and other related issues. Please review this Privacy Policy carefully. In addition, please review the Web Site's [Terms of Use](https://web.archive.org/terms/ "Terms of Use"), which govern your use of the Web Site 
 
-At United Media, we believe that greater protection of personal privacy on the web will not only protect consumers but also increase consumer confidence, ultimately increasing participation in online activities. We endeavor to educate users about how to protect their privacy when using the Web. Our information collection practices are described below.
+### YOUR CALIFORNIA PRIVACY RIGHTS
 
-Comic Basic (Free Services).  
-When a user registers for Comic Basic, services available to our users at no charge, certain personal information is collected and retained after registration is successfully completed. This information is: user name, e-mail address, zip code, gender and age.Comics Extra (Premium Services).  
-When a user registers for Comics Extra, premium services available to our users for a subscription fee, certain personal information is collected and retained after registration is successfully completed. This information is: user name, e-mail address, zip code, gender, age as well as payment and billing information including credit card and billing address information.Send a Strip and E-cards.  
-Comics.com, and all its related brands and sites, welcome all of its users to send comic strips and e-cards to their friends. While users are required to provide their names and e-mail addresses to utilize these services, that information is only temporarily retained by United Media. It is also forwarded to the recipients of the comic strips and e-cards. Use of Information.  
-We may disclose personally identifiable information to third parties when required by law or in the event such information is relevant to judicial or government investigations or proceedings, or otherwise necessary to protect our website or the safety of its users. Finally, United Media may also use information obtained from cookies to perform statistical analyses of aggregate user behavior, but personally identifiable information is not used in that instance. We may use that information for internal purposes to improve content and design, and share it, in the aggregate, with advertisers. Cookies.  
-Cookies are information files that your web browser places on the hard drive of your computer when you visit a website. Cookies were designed to help a web site recognize the prior visits to a site made by a user's browser. Cookies cannot damage user files, pass on computer viruses, capture e-mail addresses or read information from a user's hard drive. At Comics.com, we do not store any personal information into cookies nor do we link or combine information collected through cookies to any personal information that is submitted online when participating in our activities.Third Party Advertising  
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here:
+Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed personally identifiable information during the preceding year for direct marketing purposes. Alternatively, the law provides that if the company has a Privacy Policy that gives either an opt-out or opt-in choice for use of your personally identifiable information by third parties (such as advertisers) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options. 
 
-<http://networkadvertising.org/consumer/opt_out.asp>
+United Media has opted for the alternative option and therefore it has a comprehensive Privacy Policy and provides you with details on how you may opt-out or opt-in to the use of your personally identifiable information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of third parties that received your personally identifiable information for marketing purposes 
 
-Third Party Cookies  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. Advertisers, Partners and Third Party Content Providers.  
-Comics.com, and all its related brands and sites, provide links to other websites, such as those of our advertising partners and Third Party content providers, including but not limited to web search-engine providers, that may have their own information collection practices. These other websites are governed by their own privacy policies or information collection practices, which may be substantially different from ours. We encourage visitors to review the privacy policies and information collection practices of those websites.Security.  
-United Media uses its best efforts to ensure the security of personal information submitted by its users. All forms used for the submission of personal information are secure and all user data is stored in a secure environment.Use of Materials.  
-The right to download and store or output the materials in our site is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [reprints@unitedmedia.com](mailto:reprints@unitedmedia.com).Customer Contacts.  
-United Media reserves the right to email any free or premium subscribers information regarding important issues and/or changes related to their accounts. Questions and How Users Can Correct Information.  
-If you have any questions, comments or concerns regarding Comics.com's privacy policy and/or practices, or you need to correct personal information, please write to us at: United Media  
-Attn: Web Privacy Policy  
-200 Madison Avenue  
-New York, NY 10016  
-Or e-mail us at:  
-[customerservice@comicmembers.com](mailto:customerservice@comicmembers.com)This policy is effective as of August 1, 2003. Any change will be posted at the earliest possible time and shall apply to all personal information submitted after the effective date of such change.
+### OVERVIEW
 
-To link to the full Terms of Use Agreement pertaining to our site, please [click here](https://web.archive.org/members/info/termsofuse.html).
+This policy statement discloses our privacy practices including the notification of: 
 
-The [Comics.com](http://www.comics.com/) website is intended for domestic viewers and is consequently directed towards residents of the United States.
+  * Personally identifiable information collected through the Web Site;
+  * Intended usage of this information;
+  * Choices available regarding opt-in/opt-out, data collection, use and distribution of the information;
+  * Security measures designed to protect the loss or misuse of information under our control; and
+  * How to maintain the accuracy of your information.
 
-|   
----|---|---  
-  
-|  |   
----|---
+
+
+### HOW INFORMATION IS COLLECTED AND USED
+
+### Information You Provide To The Web Site
+
+The Web Site may collect personally identifiable information about you, such as your name and e-mail address ("Personal Information") and other information that, on its own, can not be used to identify you personally, such as your age ("Demographic Information"). We may collect the Personal Information and Demographic Information at multiple places on the Web Site, including, the Web Site's main registration form; entry forms for contests, sweepstakes, or surveys; or when you submit content or communications to the Web Site. If we ever use any Demographic Information together with any Personal Information, such Demographic Information will be treated as Personal Information under this Privacy Policy. 
+
+We will use the Personal Information and Demographic Information you provide to the Web Site as disclosed at the time we collect the information from you. In addition, this information may be used to: 
+
+  * Send you communications, including e-mails containing editorial cartoons, comics and newsletters;
+  * Notify you about content or features available at the Web Site;
+  * Notify you about additions or changes to content you or others have submitted to the Web Site;
+  * Send you communications on behalf of third parties, including promotional offers; 
+  * Contact you with regard to a sweepstakes, contest, survey or promotion in which you have participated; 
+  * Register you for participation in an online activity; 
+  * Complete a transaction, provide you with a refund or authorize a purchase that you have requested; 
+  * Verify the accuracy of information you submit to the Web Site; 
+  * Collect and respond to reports of inappropriate conduct at the Web Site; 
+  * Monitor, administer or improve the Web Site or develop future web sites or for other internal business purposes; 
+  * Customize and tailor the Web Site's advertising and other content; 
+  * Contact you about the Web Site, your Personal Information or content, to provide customer service or give important notices or to respond to inquiries you make through the Web Site; or 
+  * Comply with and monitor compliance with the Web Site's Terms of Use and other applicable agreements and polices. 
+
+
+
+Information submitted to the Web Site through a "contact us" form, address or other similar mechanism, or when you otherwise e-mail us, may not receive a response from United Media. We will not use this information to contact you for marketing purposes unrelated to your inquiry unless you agree otherwise. For security reasons, we do not recommend that you send non-public personal information, such as passwords, social security numbers, or bank account information to us by email. 
+
+This Web Site may make blogs, message boards and other public forums available to its users. If you post Personal Information online, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public. We also cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose Personal Information in these areas. 
+
+Also, remember that if you submit comments, votes, blog entries, comic strip text, photographs, videos, music or other user-generated content to the Web Site, it may be published online or offline in any media or format (currently existing or hereafter developed). Others may have access to this content and may have the ability to share it with third parties across the Internet. United Media may also publish your name, voice, likeness and other Personal Information with the content (or a portion thereof), and United Media may use the content, (or a portion thereof) for advertising, marketing, publicity and promotional activities. For full terms and conditions regarding user-generated content you submit to the Web Site, please review the Web Site's [Terms of Use](https://web.archive.org/terms/ "Terms of Use"). 
+
+### Content You Send From The Web Site To A Friend
+
+If you send a friend a communication from the Web Site, the information you provide is used on a one-time basis to facilitate the communication and is not used for any other marketing purpose, unless we obtain additional consent. 
+
+### Third Parties Provide Us With Information About You
+
+We also may, from time to time, combine the information we collect from you with information obtained from third parties. We may do this to provide you with services, tailor our content to you or present you with a chance to purchase products or services that may be of interest to you. We may combine information received from third parties with information we collect through the Web Site. In those cases, we will apply this Privacy Policy to any personal identifiable information received from third parties, unless we tell you otherwise at the time you provide us with your personally identifiable information. 
+
+### We Collect Information As You Access And Use The Web Site
+
+We may collect certain non-personally identifiable information related to your usage of the Web Site and how you arrived at the Web Site ("Usage Information"), which may include a visitor's "IP Address" (discussed below) or another unique identifier for a device used to access the Internet, operating system, browser type, referring web site URL. This Usage Information allows us, among other things, to calculate the number of visitors to the Web Site, diagnose problems with the Web Site's server and operate the Web Site. Usage Information may also be used to tailor and improve the Web Site, serve you relevant content and/or advertising at the Web Site and serve you an appropriate version of a web page. 
+
+### ip address
+
+An IP address is a number that is automatically assigned to you whenever you access the Internet and is often associated with the place where you enter the Internet like your ISP ("Internet Service Provider"), your company or your university. This IP address may be the same each time you access the Internet or it may change. 
+
+### the web site uses cookies and web beacons
+
+Web pages at the Web Site may utilize cookies, which are small data files that your web browser places on your computer (or other Internet-accessing device) when you visit a web site. These cookies may allow us to collect information to tailor your user interface and facilitate your navigation of the Web Site. Your browser may allow you to reject cookies. However, the Web Site may not function properly if you reject cookies. We do not typically save Personal Information in cookies, but we may link cookies to any information we collect. The Web Site may also use web beacons, clear gifs, pixel tags or technologies (as they become available), which allow United Media and third parties to monitor and collect certain information about the viewer of a web page, web-based document or message sent by the Web Site, such as browser type. We use the information collected though these technologies for a variety of purposes, such as to serve you relevant content and/or advertising at the Web Site, count Web Site visitors and monitor Web Site traffic patterns. 
+
+### the web site uses embedded scripts
+
+Scripts and other programming code used in the Web Site may collect non-personally identifiable information regarding use of the Web Site, such as web pages visited, for how long they are visited and which links are clicked. We may use this information for a number of purposes, for example, to enhance or customize content served to users of the Web Site. 
+
+### third-party ad serving & audience and traffic measurement services
+
+The Web Site may use third party network advertisers to serve advertisements on the Web Site and may use a traffic measurement service to analyze traffic on the Web Site. Network advertisers are third parties that display advertisements based on your visits to the Web Site and other web sites you have visited. Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested. Although advertisers and other companies do not have access to cookies set by the Web Site, the Web Site's third party ad network providers, the advertisers, the sponsors, and/or traffic measurement services may themselves set and access their own cookies and technologies on your computer. These third party cookies and/or technologies may be set to, among other things, help deliver advertisements to you that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies and/or technologies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies, web beacons and other technologies are governed by each third party's specific privacy policy, not this one. While we may use a variety of companies to serve advertisements on the Web Site, you may wish to visit <http://www.networkadvertising.org/managing/opt_out.asp>, which provides information regarding the "opt-out" procedures of certain third party ad servers we may use. 
+
+### HOW AND WHEN WE DISCLOSE INFORMATION TO THIRD PARTIES
+
+We do not share your Personal Information with third parties for those third parties' marketing purposes unless you opt-in to or opt-out of such sharing at the time you provide your Personal Information (for example, you may be provided with an opt-out choice on a sweepstakes registration form). We may share non-personally identifiable information, including aggregated statistics and Usage Information that is not associated with Personal Information, with third parties. Also, we may share information collected about you, including Personal Information ("Information"), as disclosed in this Privacy Policy, as explained when you provide your information and as described below: 
+
+### third party providers, vendors and licensees
+
+We may use or otherwise authorize third parties for certain purposes related to exercising our rights or performing our obligations under the Web Site's [Terms of Use](https://web.archive.org/terms/ "Terms of Use"), such as hosting the Web Site, designing and/or operating Web Site features, enabling us to send you communications, or distributing or otherwise exploiting content or communications. These other companies and individuals may have access to Information, but will only have access to perform services for you or United Media. 
+
+### sweepstakes, contests and promotions
+
+We may offer sweepstakes, contests, and other promotions through the Web Site. These features may require registration. If you choose to enter a sweepstakes, contest or other promotion, Information may be disclosed to third parties in connection with the administration of such promotion. For example, in connection with winner selection; prize fulfillment; and as required by law, such as on a winners list. You may also need to agree to the to the official rules for a promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the promotion to use your name, voice and/or likeness in advertising or marketing associated with the promotion. 
+
+### safety and legal obligations
+
+We may also transfer and disclose Information to third parties: 
+
+  * if we must respond to subpoenas, court orders, legal process or other valid law enforcement measures; 
+  * if governmental authorities request it; 
+  * in connection with a legal obligation; 
+  * if in our good faith opinion such disclosure is required by law; 
+  * to protect and/or defend the Web Site's Terms of Use or other Web Site policies; 
+  * to protect the rights, safety, rights, property or security of any individual; or 
+  * in an emergency situation. 
+
+
+
+We may also use IP address to identify users, and may do so in cooperation with copyright owners, internet service providers, wireless service providers or law enforcement agencies in our discretion. 
+
+### business transfers
+
+We may disclosure and transfer Information: (i) our parent and its and our subsidiaries and affiliates; (ii) to a subsequent owner, co-owner or operator of the Web Site or applicable database; or (iii) in connection with a corporate merger, consolidation, restructuring, the sale of substantially all of United Media's stock and/or assets or other corporate change, including, without limitation, during the course of any due diligence process; provided, however, that this Privacy Policy shall continue to govern such Information. 
+
+### NOTICE TO PARENTS
+
+The Web Site is a general audience web site. We do not knowingly collect any Personal Information from children younger than the age of thirteen (13) on the Web Site and we will delete any information later determined to be from a user younger than thirteen (13). 
+
+### CHANGING YOUR INFORMATION AND SUBSCRIPTIONS AND QUESTIONS
+
+You are responsible for maintaining the accuracy of the information you submit to us, such as your contact information provided as part of registration. The Web Site may allow you to correct or update Information you have provided to us through a Web Site registration form or otherwise. We will make good faith efforts to make requested changes in our then active databases as soon as reasonably practicable. You may cancel or modify your subscriptions to e-mails from the Web Site by following the instructions contained within an e-mail you receive from the Web Site. 
+
+### LINKS TO THIRD PARTY SITES
+
+The Web Site may link to or contain links to other third party web sites that we do not control or maintain, such as in connection with purchasing products referenced on our Web Site and banner advertisements. We are not responsible for the privacy practices employed by any third party web site. We encourage you to note when you leave our Web Site and to read the privacy statements of all third party web sites before submitting any personally identifiable information. 
+
+### THIRD PARTY APPLICATIONS
+
+Third party applications may be available via the Web Site. The owners of these applications ("Third Party Owners") may collect your information and may have their own policies and practices. While we ask Third Party Owners to refrain from collecting your Personal Information without first obtaining your prior consent, we do not guarantee that all Third Party Owners will abide by this request. We do not screen or pre-approve Third Party Owners or their applications and we have no control over how Third Party Owners or their applications use your Information. These Third Party Owners may have their own terms of service, privacy policies or other policies and ask you to agree to the same. We are not responsible for these policies or the practices of Third Party Owners. Be sure to review any available policies before submitting any personally identifiable information to a third party application or otherwise interacting with it. 
+
+### TRANSFER TO THE UNITED STATES
+
+The Web Site is operated in the United States and intended for residents of the United States. If you are located outside of the United States, be aware that Information we collect will be transferred to the United States. By using the Web Site, accessing the Web Site or providing your information to the Web Site or United Media, you consent to this transfer. 
+
+### SECURITY
+
+No data transmission over the Internet, wireless transmission or electronic storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information we collect, and you do so at your own risk. Nonetheless, we have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control. Please be advised, however, that while we strive to protect your Information and privacy, we cannot guarantee the security of any Information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your Information. In the unfortunate event that your "personally identifiable Information" (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. From time to time we evaluate new technology for protecting information, and when we deem appropriate, we upgrade our information security systems. 
+
+### CHANGES TO THIS PRIVACY POLICY
+
+We generally keep this Privacy Policy posted on the Web Site and you should review it frequently, as it may change from time to time without notice. Any changes will be effective immediately upon the posting of the revised Privacy Policy. WHEN YOU ACCESS THE WEB SITE, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING THE WEB SITE. If, at any point, we decide to use your Personal Information in a manner materially different than what was stated at the time it was collected, we will notify users of this change by e-mail to the last e-mail address provided to us. Users will have a choice (by means of an opt-in or opt-out at our discretion) as to whether or not we use their Personal Information in this different manner. We will use Personal Information in accordance with the privacy policy under which the information was collected if you opt-out of the new policy. 
+
+### SOLE STATEMENT
+
+This Privacy Policy as posted on the Web Site is the sole statement of our privacy policy with respect to the Web Site, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Web Site. 
+
+The Effective Date of this Privacy Policy is March 28, 2008.
+
+© 2008 United Feature Syndicate, Inc. All Rights Reserved.
