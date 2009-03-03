@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the priacta.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011409id_/http%3A//www.priacta.com/Information/Privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priacta.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303155755id_/http%3A//www.priacta.com/Information/Privacy.shtml) for the most accurate reproduction.*
 
 # Priacta Privacy Policy
 
 ### Privacy Policy for Priacta, Inc.
 
-#### October 30, 2007
+#### January 9, 2009
 
 At Priacta we recognize that privacy is important. In order to provide our services to you, the user, it is often necessary for us to collect personal information from you. Our goal is to provide you with the services you need while maintaining the highest possible level of integrity and security of user data.
 
@@ -21,7 +21,7 @@ or e-mail dataintegrity@priacta.com. You may also contact us via our main websit
 
 ### Information We Collect
 
-Priacta does not knowingly collect information from or provide services to children under the age of thirteen for any reason. In addition, Priacta is not at this time a member of Safe Harbor and therefore does not at this time knowingly provide services to members of the European Union. By using our services, you assert that you are at least thirteen years of age and are legally able to purchase/use Priacta products and services according to current trade agreements and restrictions.
+Priacta does not knowingly collect information from or provide services to children under the age of thirteen for any reason. By using our services, you assert that you are at least thirteen years of age and are legally able to purchase/use Priacta products and services according to current trade agreements and restrictions.
 
 In order to provide our full range of services, we may collect the following types of information:
 
@@ -39,7 +39,7 @@ When you visit Priacta, we send one or more cookies-a small file containing a st
 
 #### Communication
 
-When you communicate with Priacta or other people using Priacta services, we may retain those communications in order to process inquires, respond to requests and improve our services.
+When you communicate with Priacta or other people using Priacta services, we may retain those communications in order to process inquires, respond to requests and improve our services. Phone communication may be monitored or recorded for the sole purposes training and assuring quality service.
 
 Priacta provides an online forum to expedite technical support, provide information that may be useful to you, and allow you to communicate with other visitors. While we monitor forum communications, we are not liable for anything that our guests post or communicate. We do not affirm the correctness or advisability of using any information not provided directly by Priacta. This includes, but is not limited to, advice, technical information, and/or code. If you find something on a Priacta website offensive, obscene, incorrect, or otherwise dissatisfactory, please inform Priacta immediately.
 
@@ -80,7 +80,7 @@ We will never sell, rent, lease, intentionally compromise, or share information 
 
 ### Ensuring Information Protection and Accuracy
 
-Priacta ascribes to the principles of Onward Transfer, Choice, Notice, Access, Data Integrity, Security, and Enforcement as are contained within the US Department of Commerce's Safe Harbor program. However, Priacta is currently NOT currently registered as part of Safe Harbor and, as such, does not at this time knowingly provide services to members of the European Union.
+Priacta ascribes to the principles of Onward Transfer, Choice, Notice, Access, Data Integrity, Security, and Enforcement as are contained within the US Department of Commerce's Safe Harbor program. 
 
 #### Your Information and Third Parties / Onward Transfer
 
