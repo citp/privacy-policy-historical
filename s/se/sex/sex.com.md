@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sex.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217213000id_/http%3A//www.sex.com/content/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sex.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303140613id_/http%3A//www.sex.com/content/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Escom Community - Privacy Policy
 
