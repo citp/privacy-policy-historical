@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pedigreedatabase.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218173030id_/http%3A//pedigreedatabase.com/dogs/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pedigreedatabase.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303233103id_/http%3A//www.pedigreedatabase.com/dogs/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
