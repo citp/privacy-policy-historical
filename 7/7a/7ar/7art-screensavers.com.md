@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7art-screensavers.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219184845id_/http%3A//7art-screensavers.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7art-screensavers.com privacy policy that was archived on 2009-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090304170602id_/http%3A//7art-screensavers.com/privacy.shtml) for the most accurate reproduction.*
 
 # 7art-screensavers - 3D and free Clock screensavers to raise your spirits!
 
