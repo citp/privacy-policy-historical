@@ -1,11 +1,158 @@
-<!--The following is the downloaded HTML source of the creativevideo.co.uk privacy policy that was archived on 2008-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080628190952id_/http%3A//www.creativevideo.co.uk/public/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the creativevideo.co.uk privacy policy that was archived on 2009-03-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090304014155id_/http%3A//www.creativevideo.co.uk/public/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<style type="text/css">
+
+
+
+#pscroller1{
+width: 136px;
+height: 155px;
+background-color:#333333;
+color:#eee;
+font-size:11px;
+}
+
+
+</style>
+
+<script type="text/javascript">
+
+/*Example message arrays for the two demo scrollers*/
+
+var pausecontent=new Array()
+pausecontent[0]='<div style=\"padding-left:7px; padding-right:7px;\"><br /><br /><br /><strong>QUALITY</strong><span style=\"font-size:10px;\"><br /><br />We don\'t sell inferior \'grey\' imports - You only get the \'real deal\' from us.</span></div>'
+pausecontent[1]='<div style=\"padding-left:7px; padding-right:7px;\"><br /><br /><strong>FINANCE</strong><span style=\"font-size:10px;\"><br /><br />Spread the cost of your purchase with one of our wide range of personal or commercial finance options.</span></div>'
+pausecontent[2]='<div style=\"padding-left:7px; padding-right:7px;\"><br /><br /><strong>PRICE</strong><span style=\"font-size:10px;\"><br /><br />If you\'ve seen an identical product at a lower price elsewhere simply call us and let us match it for you (prior to the point of sale).</span></div>'
+pausecontent[3]='<div style=\"padding-left:7px; padding-right:7px;\"><br /><br /><strong>EXPERIENCE</strong><span style=\"font-size:10px;\"><br /><br />First class telephone advice, comprehensive in-house demo facilities plus simple and efficient on-line ordering whenever you need it.</span></div>'
+pausecontent[4]='<div style=\"padding-left:7px; padding-right:7px;padding-top:5px;\"><strong>WARRANTY</strong><span style=\"font-size:10px;\"><br /><br />Rest-assured that when you buy equipment from us you\'ll get the benefit of a comprehensive warranty package that\'s backed by our manufacturer-approved, in-house broadcast engineering team.</span></div>'
+
+
+
+</script>
+
+<script type="text/javascript">
+
+/***********************************************
+* Pausing up-down scroller- Dynamic Drive (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+
+function pausescroller(content, divId, divClass, delay){
+this.content=content //message array content
+this.tickerid=divId //ID of ticker div to display information
+this.delay=delay //Delay between msg change, in miliseconds.
+this.mouseoverBol=0 //Boolean to indicate whether mouse is currently over scroller (and pause it if it is)
+this.hiddendivpointer=1 //index of message array for hidden div
+document.write('<div id="'+divId+'" class="'+divClass+'" style="position: relative; overflow: hidden"><div class="innerDiv" style="position: absolute; width: 100%" id="'+divId+'1">'+content[0]+'</div><div class="innerDiv" style="position: absolute; width: 100%; visibility: hidden" id="'+divId+'2">'+content[1]+'</div></div>')
+var scrollerinstance=this
+if (window.addEventListener) //run onload in DOM2 browsers
+window.addEventListener("load", function(){scrollerinstance.initialize()}, false)
+else if (window.attachEvent) //run onload in IE5.5+
+window.attachEvent("onload", function(){scrollerinstance.initialize()})
+else if (document.getElementById) //if legacy DOM browsers, just start scroller after 0.5 sec
+setTimeout(function(){scrollerinstance.initialize()}, 500)
+}
+
+// -------------------------------------------------------------------
+// initialize()- Initialize scroller method.
+// -Get div objects, set initial positions, start up down animation
+// -------------------------------------------------------------------
+
+pausescroller.prototype.initialize=function(){
+this.tickerdiv=document.getElementById(this.tickerid)
+this.visiblediv=document.getElementById(this.tickerid+"1")
+this.hiddendiv=document.getElementById(this.tickerid+"2")
+this.visibledivtop=parseInt(pausescroller.getCSSpadding(this.tickerdiv))
+//set width of inner DIVs to outer DIV's width minus padding (padding assumed to be top padding x 2)
+this.visiblediv.style.width=this.hiddendiv.style.width=this.tickerdiv.offsetWidth-(this.visibledivtop*2)+"px"
+this.getinline(this.visiblediv, this.hiddendiv)
+this.hiddendiv.style.visibility="visible"
+var scrollerinstance=this
+document.getElementById(this.tickerid).onmouseover=function(){scrollerinstance.mouseoverBol=1}
+document.getElementById(this.tickerid).onmouseout=function(){scrollerinstance.mouseoverBol=0}
+if (window.attachEvent) //Clean up loose references in IE
+window.attachEvent("onunload", function(){scrollerinstance.tickerdiv.onmouseover=scrollerinstance.tickerdiv.onmouseout=null})
+setTimeout(function(){scrollerinstance.animateup()}, this.delay)
+}
+
+
+// -------------------------------------------------------------------
+// animateup()- Move the two inner divs of the scroller up and in sync
+// -------------------------------------------------------------------
+
+pausescroller.prototype.animateup=function(){
+var scrollerinstance=this
+if (parseInt(this.hiddendiv.style.top)>(this.visibledivtop+5)){
+this.visiblediv.style.top=parseInt(this.visiblediv.style.top)-5+"px"
+this.hiddendiv.style.top=parseInt(this.hiddendiv.style.top)-5+"px"
+setTimeout(function(){scrollerinstance.animateup()}, 50)
+}
+else{
+this.getinline(this.hiddendiv, this.visiblediv)
+this.swapdivs()
+setTimeout(function(){scrollerinstance.setmessage()}, this.delay)
+}
+}
+
+// -------------------------------------------------------------------
+// swapdivs()- Swap between which is the visible and which is the hidden div
+// -------------------------------------------------------------------
+
+pausescroller.prototype.swapdivs=function(){
+var tempcontainer=this.visiblediv
+this.visiblediv=this.hiddendiv
+this.hiddendiv=tempcontainer
+}
+
+pausescroller.prototype.getinline=function(div1, div2){
+div1.style.top=this.visibledivtop+"px"
+div2.style.top=Math.max(div1.parentNode.offsetHeight, div1.offsetHeight)+"px"
+}
+
+// -------------------------------------------------------------------
+// setmessage()- Populate the hidden div with the next message before it's visible
+// -------------------------------------------------------------------
+
+pausescroller.prototype.setmessage=function(){
+var scrollerinstance=this
+if (this.mouseoverBol==1) //if mouse is currently over scoller, do nothing (pause it)
+setTimeout(function(){scrollerinstance.setmessage()}, 100)
+else{
+var i=this.hiddendivpointer
+var ceiling=this.content.length
+this.hiddendivpointer=(i+1>ceiling-1)? 0 : i+1
+this.hiddendiv.innerHTML=this.content[this.hiddendivpointer]
+this.animateup()
+}
+}
+
+pausescroller.getCSSpadding=function(tickerobj){ //get CSS padding value, if any
+if (tickerobj.currentStyle)
+return tickerobj.currentStyle["paddingTop"]
+else if (window.getComputedStyle) //if DOM2
+return window.getComputedStyle(tickerobj, "").getPropertyValue("padding-top")
+else
+return 0
+}
+
+</script>
+
+
+<!--<script type="text/javascript" src="https://www.cvp.com/chat/livehelp_js.php?eo=1&department=2&what=hidden&serversession=1&pingtimes=15"></script>-->
+
+
 <noscript></noscript>
  
 <link href="cvpsuggest.css" type="text/css" rel="stylesheet">
-<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.creativevideo.co.uk/rss/feed.php?feed=all">
+<link rel="alternate" type="application/rss+xml" title="CVP RSS All" href="http://www.creativevideo.co.uk/rss/feed.php?feed=all">
+<link rel="alternate" type="application/rss+xml" title="CVP RSS News" href="http://www.creativevideo.co.uk/rss/feed.php?feed=news">
+<link rel="alternate" type="application/rss+xml" title="CVP RSS Videos" href="http://www.creativevideo.co.uk/rss/feed.php?feed=videos">
+<link rel="alternate" type="application/rss+xml" title="CVP RSS Used Products" href="http://www.creativevideo.co.uk/rss/feed.php?feed=used">
+<link rel="alternate" type="application/rss+xml" title="CVP RSS New Products" href="http://www.creativevideo.co.uk/rss/feed.php?feed=new">
+
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 <style type="text/css" media="print">@import "cvpprint.css";</style>
 
@@ -42,7 +189,7 @@ if (document.images)
 </script>
 <meta name="author" content="Creative Video Productions Ltd">
 <meta name="copyright" content="Creative Video Ltd 1986-2006">
-<meta name="created" content="20080628">
+<meta name="created" content="20090304">
 <meta name="description" content="">
 <meta name="distribution" content="Global">
 <meta name="generator" content="Creative Video ">
@@ -63,7 +210,7 @@ var pageTracker = _gat._getTracker("UA-95911-2");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
-<title>» Creative Video    &gt; Creative Video &gt; Privacy Policy </title>
+<title>» Creative Video   &gt; Creative Video &gt; Privacy Policy </title>
 
 
 <script src="mccart_new.js" language="javascript" type="text/javascript"></script>
@@ -100,6 +247,12 @@ This web site requires JavaScript in order to work.</span>
 
 
 <script>
+
+function say_happy()
+{
+	window.status ="Merry Christmas and a Happy New Year from everyone at CVP Mitcorp.";
+}
+
 function do_effall(){
 
 }
@@ -125,21 +278,34 @@ function search_checker(){
   <embed src="flash/world_head.swf" quality="high" pluginspage="http< ?=$securitas?>://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="245" height="77"></embed>
 </object></td></tr></table>
 -->
+
+<!--<div style="text-align:center;"><div style="background-color:#cc0000;color:#ffffff;padding:4px;font-size:12px;font-size:12px;"><strong>Important notice to UK & EU customers:</strong> All prices are now at the new reduced VAT rate of 15%</div></div>
+-->
+
+
 <div id="bodycontainer">
 <!--div id="head" class="headlayer"> -->
 <!--
 <a href="index.php"><img src="images/another_header.jpg" border="0"></a></div><div id="menutext" class="menutext" onClick="javascript:top.location.href='index.php' ">-->
 <!--<a href="index.php"><img src="images/header_latest_m.jpg" border="0"></a></div> -->
 
-
+	
 	<div style="position:absolute;z-index:5;top:10px;left:758px;">
 		<form name="searchform" method="GET" action="search.php" style="display:inline;">
-		<input type="hidden" value="1" name="w"><input value="Product search..." onclick="search_checker();" name="q" type="text" style="background-image:url(images/sbb.jpg);background-repeat:no-repeat;padding-left:19px;border:1px solid #336699;width:125px;background-color:#eeeeee;color:#336699;">&nbsp;&nbsp;&nbsp;<input type="submit" value="Go" style="border:1px solid #fff;background-color:#336699;color:#fff;font-size:11px;">
+		<input type="hidden" value="1" name="w"><input value="Product search..." onclick="search_checker();" name="q" type="text" style="background-image:url(images/sbb.jpg);background-repeat:no-repeat;padding-left:19px;border:1px solid #333333;width:125px;background-color:#eeeeee;color:#333333;">&nbsp;&nbsp;&nbsp;<input type="submit" value="Go" style="border:1px solid #999;background-color:#666;color:#fff;font-size:11px;">
 		</form>
 	</div>
+	  <map name="Map">
+        <area shape="poly" coords="102,5,147,12,177,28,187,44,181,60,160,74,122,84,82,84,43,76,18,58,16,48,19,33,46,16" href="index.php">
+      </map>
+	<div id="head" class="headlayer"><img style="display:block;" src="images2/header.jpg" border="0" usemap="#Map"></div>
+ 
 	
-	<div id="head" class="headlayer"><a href="index.php"><img src="images2/header.jpg" border="0"></a></div>
-    
+
+
+
+
+
 <style type="text/css" media="screen">
    
  
@@ -166,7 +332,7 @@ function search_checker(){
 
 <div id="welcometextcontainer"><div id="welcometext" onclick="javascript:top.location.href='index.php' ">Welcome</div></div>
 
-<div style="width:932px;height:24px;overflow:visible;visibility:visible;line-height:24px;text-indent:170px;vertical-align:middle;background-image:url(images/headermenu4.gif);" onclick="javascript:top.location.href='index.php' ">
+<div style="width:926px;height:24px;overflow:visible;visibility:visible;line-height:24px;text-indent:170px;vertical-align:middle;background-image:url(images/headermenu5.gif);" onclick="javascript:top.location.href='index.php' ">
 
 
 
@@ -176,11 +342,12 @@ function search_checker(){
 
 
 <a href="index.php"><strong>Home</strong></a>&nbsp;&nbsp;|&nbsp;
+<a href="cvp_videos.php"><strong>CVP TV</strong></a>&nbsp;&nbsp;|&nbsp;
 <a href="productcat.php"><strong>Products</strong></a>&nbsp;&nbsp;|&nbsp;
  <a href="register.php"><strong>New account</strong></a>&nbsp;&nbsp;|&nbsp;
 <a href="forum_index.php"><strong>Forum</strong></a>&nbsp;&nbsp;|&nbsp;
 <a href="articles.php"><strong>Information</strong></a>&nbsp;&nbsp;|&nbsp;
-<a href="events.php"><strong>Events</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;<!-- TEMP removed events link and added extra spacing to each link -->
+<!--<a href="events.php" ><strong>Events</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;--><!-- TEMP removed events link and added extra spacing to each link -->
 <!--<a href="educate.php" < ? echo($classmenu); ?>><strong>Education</strong></a>&nbsp;&nbsp;|&nbsp;-->
 <a href="news_script.php"><strong>News</strong></a>&nbsp;&nbsp;|&nbsp;
 
@@ -192,7 +359,7 @@ function search_checker(){
 
 
 
-<a href="contactus.php"><strong>Contact us</strong></a></div>
+<a href="contactus.php"><strong>Contact</strong></a></div>
 <div style="margin-bottom:5px;"></div>
 
 
@@ -304,92 +471,566 @@ function showadv(faqno) {
 
 
 
-<div class="leftmenumaingrey"><a href="productcat.php"><img src="images/product_catalogue_top.gif" border="0" width="136" height="22"></a><br><div style="border:1px solid #336699;"><table cellpadding="0" cellspacing="3" border="0">
-   <tbody><tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=2&amp;xdev=Audio" class="specialmenu"><strong>Audio</strong></a>
+<div class="leftmenumaingrey"><a href="productcat.php"><img src="images/product_catalogue_top.gif" border="0" width="136" height="22"></a><br><div style="border:1px solid #000000;"><table cellpadding="0" cellspacing="3" border="0">
+   <tbody><tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=2&amp;xdev=Audio" class="specialmenu"><strong>Audio</strong></a>
 
    </td></tr>
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=18&amp;xdev=Bags and Cases" class="specialmenu"><strong>Bags and Cases</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=18&amp;xdev=Bags and Cases" class="specialmenu"><strong>Bags and Cases</strong></a>
 
    </td></tr>
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=6&amp;xdev=Batteries &amp; Power" class="specialmenu"><strong>Batteries &amp; Power</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=6&amp;xdev=Batteries &amp; Power" class="specialmenu"><strong>Batteries &amp; Power</strong></a>
 
    </td></tr>
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=16&amp;xdev=Blank Media &amp; Consumables" class="specialmenu"><strong>Blank Media &amp; Consumables</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=16&amp;xdev=Blank Media &amp; Consumables" class="specialmenu"><strong>Blank Media &amp; Consumables</strong></a>
 
    </td></tr>
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=15&amp;xdev=Cables" class="specialmenu"><strong>Cables</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=15&amp;xdev=Cables" class="specialmenu"><strong>Cables</strong></a>
 
    </td></tr>
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=1&amp;xdev=Camcorders" class="specialmenu"><strong>Camcorders</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=1&amp;xdev=Camcorders" class="specialmenu"><strong>Camcorders</strong></a>
 
    </td></tr>
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=8&amp;xdev=Camera Accessories" class="specialmenu"><strong>Camera Accessories</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=8&amp;xdev=Camera Accessories" class="specialmenu"><strong>Camera Accessories</strong></a>
 
    </td></tr>
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=29&amp;xdev=Camera Heads" class="specialmenu"><strong>Camera Heads</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=29&amp;xdev=Camera Heads" class="specialmenu"><strong>Camera Heads</strong></a>
 
    </td></tr>
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=39&amp;xdev=DVD &amp; Blu-Ray Authoring, Players &amp; Recorders" class="specialmenu"><strong>DVD &amp; Blu-Ray Authoring, Players &amp; Recorders</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=19&amp;xdev=Digital Photography" class="specialmenu"><strong>Digital Photography</strong></a>
 
    </td></tr>
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=41&amp;xdev=HD Televisions  Projectors &amp; Home Cinema" class="specialmenu"><strong>HD Televisions  Projectors &amp; Home Cinema</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=39&amp;xdev=DVD &amp; Blu-Ray Authoring, Players &amp; Recorders" class="specialmenu"><strong>DVD &amp; Blu-Ray Authoring, Players &amp; Recorders</strong></a>
 
    </td></tr>
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=3&amp;xdev=Lenses &amp; Filters" class="specialmenu"><strong>Lenses &amp; Filters</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=41&amp;xdev=HD Televisions  Projectors &amp; Home Cinema" class="specialmenu"><strong>HD Televisions  Projectors &amp; Home Cinema</strong></a>
 
    </td></tr>
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=4&amp;xdev=Lighting &amp; Chroma-Key" class="specialmenu"><strong>Lighting &amp; Chroma-Key</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=3&amp;xdev=Lenses &amp; Filters" class="specialmenu"><strong>Lenses &amp; Filters</strong></a>
 
    </td></tr>
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=20&amp;xdev=Live Production" class="specialmenu"><strong>Live Production</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=4&amp;xdev=Lighting &amp; Chroma-Key" class="specialmenu"><strong>Lighting &amp; Chroma-Key</strong></a>
 
    </td></tr>
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=38&amp;xdev=Medical Grade Products" class="specialmenu"><strong>Medical Grade Products</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=20&amp;xdev=Live Production" class="specialmenu"><strong>Live Production</strong></a>
 
    </td></tr>
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=7&amp;xdev=Monitors" class="specialmenu"><strong>Monitors</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=38&amp;xdev=Medical Grade Products" class="specialmenu"><strong>Medical Grade Products</strong></a>
 
    </td></tr>
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=11&amp;xdev=Non Linear Editing" class="specialmenu"><strong>Non Linear Editing</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=7&amp;xdev=Monitors" class="specialmenu"><strong>Monitors</strong></a>
 
    </td></tr>
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=10&amp;xdev=Signal Processing &amp; Digital Glue" class="specialmenu"><strong>Signal Processing &amp; Digital Glue</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=11&amp;xdev=Non Linear Editing" class="specialmenu"><strong>Non Linear Editing</strong></a>
 
    </td></tr>
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=13&amp;xdev=Software" class="specialmenu"><strong>Software</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=10&amp;xdev=Signal Processing &amp; Digital Glue" class="specialmenu"><strong>Signal Processing &amp; Digital Glue</strong></a>
 
    </td></tr>
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=19&amp;xdev=Stills Cameras" class="specialmenu"><strong>Stills Cameras</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=13&amp;xdev=Software" class="specialmenu"><strong>Software</strong></a>
 
    </td></tr>
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=47&amp;xdev=Teleprompting" class="specialmenu"><strong>Teleprompting</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=52&amp;xdev=Spare Parts" class="specialmenu"><strong>Spare Parts</strong></a>
 
    </td></tr>
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=5&amp;xdev=Tripods &amp; Camera Support" class="specialmenu"><strong>Tripods &amp; Camera Support</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=47&amp;xdev=Teleprompting" class="specialmenu"><strong>Teleprompting</strong></a>
 
    </td></tr>
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=17&amp;xdev=Used Broadcast &amp; Professional Equipment" class="specialmenu"><strong>Used Broadcast &amp; Professional Equipment</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=5&amp;xdev=Tripods &amp; Camera Support" class="specialmenu"><strong>Tripods &amp; Camera Support</strong></a>
 
    </td></tr>
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=46&amp;xdev=Video Test &amp; Measurement" class="specialmenu"><strong>Video Test &amp; Measurement</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=17&amp;xdev=Used Broadcast &amp; Professional Equipment" class="specialmenu"><strong>Used Broadcast &amp; Professional Equipment</strong></a>
 
    </td></tr>
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=9&amp;xdev=VTRs and DDRs" class="specialmenu"><strong>VTRs and DDRs</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=46&amp;xdev=Video Test &amp; Measurement" class="specialmenu"><strong>Video Test &amp; Measurement</strong></a>
 
    </td></tr>
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=50&amp;xdev=Warranty Extensions &amp; Renewals" class="specialmenu"><strong>Warranty Extensions &amp; Renewals</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=9&amp;xdev=VTRs and DDRs" class="specialmenu"><strong>VTRs and DDRs</strong></a>
 
    </td></tr>
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="padding-bottom:2px;"><a href="show_category.php?categoryID=48&amp;xdev=Wireless Systems" class="specialmenu"><strong>Wireless Systems</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px solid #666;padding-bottom:2px;">
+   <a href="show_category.php?categoryID=50&amp;xdev=Warranty Extensions &amp; Renewals" class="specialmenu"><strong>Warranty Extensions &amp; Renewals</strong></a>
+
+   </td></tr>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="padding-bottom:2px;">
+   <a href="show_category.php?categoryID=48&amp;xdev=Wireless Systems" class="specialmenu"><strong>Wireless Systems</strong></a>
 
    </td></tr></tbody></table></div>	<!-- <img src="images2/menubottom.gif" width="136" height="22"></div> -->
 
 		<img src="images/menubottomsmall_new2.gif" width="136" height="13"></div>
 	
 
-<div style="margin-bottom:6px;margin-top:6px;"><div style="background-image:url(images/just_arrived_top.gif);width:136px;height:22px;cursor:pointer;" onclick="javascript:window.location = 'new.php';" class="newhot"></div>
-<div style="width:136px;background-color:#eeeeee;border:1px solid #336699;"><div style="padding:7px;padding-top:6px;padding-bottom:4px;padding-right:0px;">
-<div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="Sony BRC-Z700P (BRCZ700P) 3-CMOS HD / SD robotic video camera" href="view_item_cat.php?catalogue_number=sony_brc-z700">SONY BRC Z700</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="Sony SBP-32 (SBP32) 32GB SXS Pro media card for PMW-EX1 / PMW-EX3 XDCAM EX solid state camcorders" href="view_item_cat.php?catalogue_number=sony_sbp-32">SONY SBP 32</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="Used Sony DXC-D30P (DXCD30P) 4:3 professional modular 3-CCD camera head (Docks with DSR-1P)" href="view_item_cat.php?catalogue_number=used_sony_dxc-d30p">USED SONY DXC D30P</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="Sony DCR-HC62E (DCRHC62E) compact Mini DV camcorder with 25x optical zoom and USB streaming (DV in + out) " href="view_item_cat.php?catalogue_number=sony_dcrhc62e">SONY DCRHC62E</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="MINT USED Panasonic AJ-HDX900 High Definition Tape Camcorder (DVCPRO HD EX) - Body + VF + Tripod Plate (no lens) (very low hours)" href="view_item_cat.php?catalogue_number=used_panasonic_aj-hdx900">USED PANASONIC AJ HD</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="Panasonic AJ-HDX900EVTM package deal 1 with 2 x Anton-Bauer batteries + charger + Portabrace case" href="view_item_cat.php?catalogue_number=panasonic_aj-hdx900_pk1">PANASONIC AJ HDX900 </a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="Letus35 Extreme HVX200 / 201 optimised Starter Bundle - Includes Extreme + 82mm HVX T-ring + Optimised Achromat + rail support + case (Just add the lens adaptor of choice)" href="view_item_cat.php?catalogue_number=letus_35_extreme_opt-hvx200">LETUS 35 EXTREME OPT</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="Letus35 Extreme PMW-EX1 optimised Starter Bundle - Includes Extreme + 77mm EX1 T-ring + Optimised Achromat + rail support + case (Just add the lens adaptor of choice)" href="view_item_cat.php?catalogue_number=letus_35_extreme_opt-ex1">LETUS 35 EXTREME OPT</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="Sony HVR-S270E package deal 1 c/w VCT-U14 tripod plate + PowerLok Charger + 2 x 95W/h batteries + CTC-3 case" href="view_item_cat.php?catalogue_number=sony_hvr-S270e_pk1">SONY HVR S270E PK1</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="Panasonic AG-HVX201AE package deal 1 with 2 x 16GB P2 cards + AG-MC200G camera mic + PortaBrace CS-DV4 case" href="view_item_cat.php?catalogue_number=panasonic_ag-hvx201ae_pk1">PANASONIC AG HVX201A</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="USED Kramer Electronics FC-4045 (FC4045) Multicoder Universal Transcoder with Y-C, Component and SDI" href="view_item_cat.php?catalogue_number=used_kramer_electronics_fc-4045">USED KRAMER ELECTRON</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="USED (as new condition) JVC TM-1700PN-K (TM1700, TM1700PNK) 17inch colour video monitor" href="view_item_cat.php?catalogue_number=used_jvc_tm-1700pn-k">USED JVC TM 1700PN K</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="USED Panasonic AG-DV2700E (AGDV2700E) Mini / full size DV Edit Recorder (VCR)" href="view_item_cat.php?catalogue_number=used_panasonic_ag-dv2700e">USED PANASONIC AG DV</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="Dedolight DSC2 (DSC-2) Large Deluxe Soft Case - 75 x 29 x 32 cm (29.5 x 11.4 x 12.6inch) " href="view_item_cat.php?catalogue_number=dedo_dsc2">DEDO DSC2</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="Dedolight DPL85M 85mm f2.8 lens for use with DP1 / DP10 projectors" href="view_item_cat.php?catalogue_number=dedo_dpl85m">DEDO DPL85M</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="Dedolight Dedoflex DSBSXS + DSLR70 30x30cm Softbox + mounting ring for dedolight / zylight etc..." href="view_item_cat.php?catalogue_number=dedo_dsbsxs_dslr70">DEDO DSBSXS DSLR70</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="Dedolight DLHM4-300DMX (DLHM4300DMX) lamphead with integrated 150W electronic transformer / dimmer with DMX control for use with 230V/50Hz AC mains supplies" href="view_item_cat.php?catalogue_number=dedolight_dlhm4-300dmx">DEDOLIGHT DLHM4 300D</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="Sony AC-VQL1BP (ACVQL1BP) Intelligent dual AC adaptor / Quad-channel battery charger for NP-F series Li-Ion batteries" href="view_item_cat.php?catalogue_number=sony_ac-vql1bp">SONY AC VQL1BP</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="Used As New Condition Infocus LP350 (LP-350) DLP Projector - 1300 ANSI Lumens / 1024x768 XGA resolution " href="view_item_cat.php?catalogue_number=used_infocus_LP350">USED INFOCUS LP350</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="USED (as new condition) Soundcraft Spirit Folio Notepad 10 channel stereo audio mixer" href="view_item_cat.php?catalogue_number=used_soundcraft_spirit-folio">USED SOUNDCRAFT SPIR</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="USED (as new condition) Photon Beard Hyperlight 471 - 12V Fluorescent Camera-Top Light including D-Tap power cable" href="view_item_cat.php?catalogue_number=used_photon-beard_hl471">USED PHOTON BEARD HL</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="USED (as new) Panasonic AG-MD830 (AGMD830) Medical Grade VHS Video Cassette Recorder " href="view_item_cat.php?catalogue_number=used_panasonic_ag-md830-medical">USED PANASONIC AG MD</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="USED (as new condition ) Strand Lighting 200W Pocket Par HMI (metal halide) daylight lighting kit c/w Lenses / Scrims / Lamps + Flight Case" href="view_item_cat.php?catalogue_number=used_strand_200_pocket_par">USED STRAND 200 POCK</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="USED Excellent Condition Sony DSR-11 (DSR11) DV/DVCAM Player Recorder - Drum 60 Hours" href="view_item_cat.php?catalogue_number=used_sony_dsr-11_60h">USED SONY DSR 11 60H</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="Used Sony DVW-A500P (DVWA500P, DVWA500) Digital Betacam (Digibeta) Studio VTR - Prices according to age / condition - CALL" href="view_item_cat.php?catalogue_number=used_sony_dvw-a500p">USED SONY DVW A500P</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="USED As New JVC TM-1010PNK (TM-1010) 10-inch Colour Video Monitor with Portabrace Case" href="view_item_cat.php?catalogue_number=used_jvc_tm1010pnk">USED JVC TM1010PNK</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="Ex-demo Fostex PD6 (PD-6) DVD-RAM 6 channel 96KHz digital location recorder - Excellent condition, Boxed!" href="view_item_cat.php?catalogue_number=ex-demo_fostex_pd6">EX DEMO FOSTEX PD6</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="Used Sony PVM-20L4 (PVM20L4) 20inch L Series CRT Control Monitor with EBU Phosphors" href="view_item_cat.php?catalogue_number=used_sony_pvm-20l4">USED SONY PVM 20L4</a><br></div><div style="margin-bottom:3px;"><a style="font-family:arial;font-size:9px;color:#336699;" title="Used Sony PVM-20M4E (PVM20M4E) 16x9 switchable grade 2 CRT monitor with Component Input and Underscan mode" href="view_item_cat.php?catalogue_number=used_sony_pvm-20m4e">USED SONY PVM 20M4E</a><br></div></div></div><div style="background-image:url(images/menubottomsmall_new2.gif);width:136px;height:13px;"></div></div>
+<div style="margin-bottom:7px;margin-top:7px;">
+		<div style="background-image:url(images/just_arrived_top.gif);width:136px;height:22px;" class="newhot">
+	  </div>
+	  <div style="width:136px;background-color:#333333;border:0px;height:388px;overflow:auto;scrollbar-face-color:#333333;scrollbar-highlight-color:#cccccc;scrollbar-3dlight-color:#eeeeee;scrollbar-darkshadow-color:#666666;scrollbar-shadow-color:#666666;scrollbar-arrow-color:#eeeeee;scrollbar-track-color:#666666;">
+	  <div style="padding:0px;padding-top:6px;padding-bottom:3px;padding-right:0px;padding-left:5px;">
+	  <table cellpadding="0" cellspacing="0"> <tbody><tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Canopus ADVC HD50 - HDMI to HDV converter" href="view_item_cat.php?catalogue_number=canopus_advc-hd50">CANOPUS ADVC HD50</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=canopus_advc-hd50"><img src="mic_show_image.php?src=product_images/thumb100/03-03-2009-1236091539advc- HD50 - 200.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£540.00<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Panasonic AJ-HRW10 (AJHRW10) rapid writer P2 workflow tool" href="view_item_cat.php?catalogue_number=panasonic_AJ-HRW10_rapid_writer">PANASONIC AJ HRW10 R</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=panasonic_AJ-HRW10_rapid_writer"><img src="mic_show_image.php?src=product_images/thumb100/24-02-2009-1235494699panasonic_AJ-HRW10.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">Call us</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="MINT CONDITION USED Sony HDW-750P (HDW750P) 25p HDCAM Camcorder with HDVF-20A monochrome CRT viewfinder - NEGLIGIBLE HOURS!" href="view_item_cat.php?catalogue_number=used_sony_hdw-750p">USED SONY HDW 750P</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=used_sony_hdw-750p"><img src="mic_show_image.php?src=product_images/thumb100/15_01_2006sony_hdw-750p-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£15995.00<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Letus35 LTB4S Compact B4 relay (F1.8) - Allows direct fitment of Extreme / Elite / Ultimate to B4 mount cameras" href="view_item_cat.php?catalogue_number=letus_b4_compact_relay">LETUS B4 COMPACT REL</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=letus_b4_compact_relay"><img src="mic_show_image.php?src=product_images/thumb100/23-02-2009-1235424277Letus-B4-Short-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£2800.00<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Letus35 LTB4PRO Professional B4 relay (F1.5) - Allows direct fitment of Extreme / Elite / Ultimate to B4 mount cameras" href="view_item_cat.php?catalogue_number=letus_b4_relay_pro">LETUS B4 RELAY PRO</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=letus_b4_relay_pro"><img src="mic_show_image.php?src=product_images/thumb100/23-02-2009-1235423703Letus-B4-Pro-relay-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£4995.00<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Ex-Demo Sony PDW-700 (PDW700) XDCAM HD MPEG HD422 full 1920x1080 broadcast camcorder (4:2:2 sampling) - BODY ONLY" href="view_item_cat.php?catalogue_number=demo_sony_pdw-700">DEMO SONY PDW 700</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=demo_sony_pdw-700"><img src="mic_show_image.php?src=product_images/thumb100/25-10-2007-1193346734sony_pdw-700-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£15500.00<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="JVC GY-HM700 (GYHM700) ProHD solid state shoulder-mount 3-CCD camcorder" href="view_item_cat.php?catalogue_number=jvc_gy-hm700">JVC GY HM700</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=jvc_gy-hm700"><img src="mic_show_image.php?src=product_images/thumb100/20-02-2009-1235122205jvc_gy-hm700-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£4995.00<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="JVC GY-HM100 (GYHM100) ProHD solid state handheld 3-CCD camcorder" href="view_item_cat.php?catalogue_number=jvc_gy-hm100">JVC GY HM100</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=jvc_gy-hm100"><img src="mic_show_image.php?src=product_images/thumb100/19-02-2009-1235057697JVC_GY-HM100-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£2599.00<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Used Sony DSR-570WSPL 2/3inch DVCAM Camcorder, VGC (Excludes lens)" href="view_item_cat.php?catalogue_number=used_sony_dsr-570wsp_kit">USED SONY DSR 570WSP</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=used_sony_dsr-570wsp_kit"><img src="mic_show_image.php?src=product_images/thumb100/09-12-2006-used_sony_dsr-500wsp-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£3995.00<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Excellent Panasonic AJ-HDX900 (AJHDX900, HDX900) DVCPRO HD Camcorder body c/w HVF21 Viewfinder + MC900 Microphone" href="view_item_cat.php?catalogue_number=used_panasonic_aj-hdx900">USED PANASONIC AJ HD</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=used_panasonic_aj-hdx900"><img src="mic_show_image.php?src=product_images/thumb100/20-05-2008-1211316768panasonic_aj-hdx900-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£8995.00<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Excellent used Panasonic AJ-HDC27HE (AJHDC27) DVCPROHD Varicam variable frame rate HD camcorder c/w viewfinder + mic." href="view_item_cat.php?catalogue_number=used_panasonic_aj-hdc27he_varicam">USED PANASONIC AJ HD</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=used_panasonic_aj-hdc27he_varicam"><img src="mic_show_image.php?src=product_images/thumb100/11-03-2007-panasonic_aj-hdc27-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£18995.00<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Sony UTX-H2 (UTX-H2/67, UTX-H2/62) Sony UWP UHF Handheld Transmitter" href="view_item_cat.php?catalogue_number=sony_UTX-H2-master">SONY UTX H2 </a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=sony_UTX-H2-master"><img src="mic_show_image.php?src=product_images/thumb100/16-02-2009-1234792693sony_UTX-H2-67 copy.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£308.73<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Sony WRR-855S (WRR-855S/67, WRR-855S/62) UHF SX Diversity Receivers" href="view_item_cat.php?catalogue_number=sony_WRR-855S-master">SONY WRR 855S </a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=sony_WRR-855S-master"><img src="mic_show_image.php?src=product_images/thumb100/noimage.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£985.32<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Panasonic AG-HPX301E (AGHPX301E) 3 x 2.2MP 1/3inch MOS P2 camcorder with 17x HD Fujinon lens" href="view_item_cat.php?catalogue_number=panasonic_ag-hpx301e">PANASONIC AG HPX301E</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=panasonic_ag-hpx301e"><img src="mic_show_image.php?src=product_images/thumb100/13-02-2009-1234527107HPX300-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£7680.72<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="JVC DT-V17L3R (DT-V17, DTV17L3R) 17inch multi-format LCD monitor with HD-SDI and waveform monitor" href="view_item_cat.php?catalogue_number=jvc_dt-v17l3r">JVC DT V17L3R</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=jvc_dt-v17l3r"><img src="mic_show_image.php?src=product_images/thumb100/30-10-2007-1193756900jvc_dt-v17l2d-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£1053.33<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Sony PDW-75MD (PDW75MD) Professional Disc Recorder " href="view_item_cat.php?catalogue_number=sony_PDW-75MD">SONY PDW 75MD</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=sony_PDW-75MD"><img src="mic_show_image.php?src=product_images/thumb100/10-02-2009-1234302402sony_pdw-75md-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£9661.50<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Sony LMD-2450MD (LMD2450MD) 24 Inch Medical Lcd Monitor " href="view_item_cat.php?catalogue_number=sony_LMD-2450MD">SONY LMD 2450MD</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=sony_LMD-2450MD"><img src="mic_show_image.php?src=product_images/thumb100/10-02-2009-1234298932sony_lmd-2450-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£3315.50<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Sony LMD-3250MD (LMD3250MD) 32 Inch Medical Lcd Monitor " href="view_item_cat.php?catalogue_number=sony_LMD-3250MD">SONY LMD 3250MD</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=sony_LMD-3250MD"><img src="mic_show_image.php?src=product_images/thumb100/11-02-2009-1234336958sony_lmd-3250md-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£4389.00<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Sony UP-DR80MD (UPDR80MD) A4 Digital Medical Colour Printer " href="view_item_cat.php?catalogue_number=sony_UP-DR80MD">SONY UP DR80MD</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=sony_UP-DR80MD"><img src="mic_show_image.php?src=product_images/thumb100/11-02-2009-1234349448sony_updr80mdcopy.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£1254.00<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Panasonic KIT AG-HPX500 F17 (AGHPX500, HPX) P2 2/3inch DVCPRO HD (High Definition) Camcorder c/w 17x Fujinon lens and 4 x 32GB P2 Cards" href="view_item_cat.php?catalogue_number=panasonic_kit-ag-hpx500-f17">PANASONIC KIT AG HPX</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=panasonic_kit-ag-hpx500-f17"><img src="mic_show_image.php?src=product_images/thumb100/09-03-2007-panasonic_ag-hpx500-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£16543.13<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Panasonic KIT AG-HPX500 (AGHPX500, HPX) P2 2/3inch DVCPRO HD (High Definition) Camcorder c/w 4 x 32GB P2 Cards" href="view_item_cat.php?catalogue_number=panasonic_kit_ag-hpx500">PANASONIC KIT AG HPX</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=panasonic_kit_ag-hpx500"><img src="mic_show_image.php?src=product_images/thumb100/09-03-2007-panasonic_ag-hpx500-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£11028.75<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Bebob Coco-EX3 (Coco, EX3) V-mount battery adapter for the Sony PMW-EX3 XDCAM EX camcorder" href="view_item_cat.php?catalogue_number=bebob_coco-ex3">BEBOB COCO EX3</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=bebob_coco-ex3"><img src="mic_show_image.php?src=product_images/thumb100/09-02-2009-1234180937bebob_coco_ex3-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£265.00<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Portabrace CBA-EX3 (CBAEX3) Camera Body Armour for the Sony PMW-EX3 " href="view_item_cat.php?catalogue_number=portabrace_CBA-EX3">PORTABRACE CBA EX3</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=portabrace_CBA-EX3"><img src="mic_show_image.php?src=product_images/thumb100/11-02-2009-1234351666portabrace_cba-ex3-copy.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£313.00<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Redbyte Design Decimator - 3G/HD/SD-SDI to NTSC/PAL Composite Down Convertor" href="view_item_cat.php?catalogue_number=redbyte_decimator">REDBYTE DECIMATOR</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=redbyte_decimator"><img src="mic_show_image.php?src=product_images/thumb100/06-02-2009-1233930133Decimator-200.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£279.00<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Ex-Demo Sony BRC-H700P (BRCH700P) 3-CCD HD robotic video camera " href="view_item_cat.php?catalogue_number=ex-demo_sony_brc-h700p">EX DEMO SONY BRC H70</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=ex-demo_sony_brc-h700p"><img src="mic_show_image.php?src=product_images/thumb100/26-10-2006-sony_brc-h700p-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£3795.00<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Sony DWT-B01/6267 (DWTB01, DWT) digital wireless radio microphone pocket transmitter (TV Ch 62 to 69)" href="view_item_cat.php?catalogue_number=sony_dwt-b01/6267">SONY DWT B01/6267</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=sony_dwt-b01/6267"><img src="mic_show_image.php?src=product_images/thumb100/05-05-2008-1210021884sony_dwt-b01-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£2107.50<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="JVC VF-HP840U (VFHP840U) 8.4-inch LCD Studio Viewfinder " href="view_item_cat.php?catalogue_number=jvc_VF-HP840U">JVC VF HP840U</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=jvc_VF-HP840U"><img src="mic_show_image.php?src=product_images/thumb100/20-02-2009-1235148160jvc_vfhp840u copy2.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£2236.10<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Sound Devices 442N (442-N) Broadcast Quality 4-2 Stereo Location Audio Mixer Nordic PPM Meter Scale Version " href="view_item_cat.php?catalogue_number=sound-devices_442N">SOUND DEVICES 442N</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=sound-devices_442N"><img src="mic_show_image.php?src=product_images/thumb100/17-02-2009-1234863092sounddevices_442n copy.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£2499.00<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="PAG 2001 X1 Single-Handed Camcorder Support System" href="view_item_cat.php?catalogue_number=pag_2001">PAG 2001</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=pag_2001"><img src="mic_show_image.php?src=product_images/thumb100/30-01-2009-1233327792pag_2001 copy2.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£265.50<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="PAG 9701V V4-CPA (VPACPA) Camera Power Adaptor for 9702V Cube &amp; 9700V V4-iPC charger" href="view_item_cat.php?catalogue_number=pag_9701v">PAG 9701V</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=pag_9701v"><img src="mic_show_image.php?src=product_images/thumb100/29-01-2009-1233226648pag_9701V copy.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£98.10<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Swit S-S1080BF (S1080BF) YUV Component / Composite / YC monitor c/w Sony NP-F type battery adaptor" href="view_item_cat.php?catalogue_number=swit_s1080bf">SWIT S1080BF</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=swit_s1080bf"><img src="mic_show_image.php?src=product_images/thumb100/31-05-2008-1212240597swit_s-1080bs-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£715.33<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="PAG 9702V Cube Charger with 4 x V-Mount compatible connectors" href="view_item_cat.php?catalogue_number=pag_9702v">PAG 9702V</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=pag_9702v"><img src="mic_show_image.php?src=product_images/thumb100/29-01-2009-1233225969pag_9702V copy2.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£355.50<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Canon HJ14ex4.3B (HJ14) super wide angle 2/3inch HD zoom lens 4.3-60mm with 2x extender" href="view_item_cat.php?catalogue_number=canon_hj14ex4.3b">CANON HJ14EX4.3B</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=canon_hj14ex4.3b"><img src="mic_show_image.php?src=product_images/thumb100/04-02-2009-1233783351hj14ex43b-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">Call us</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Blackmagic Design BMD-CONV Mini Converters - 4 versions Analogue to SDI / SDI to Analogue / HDMI to SDI / SDI to HDMI " href="view_item_cat.php?catalogue_number=BMD-CONV-MASTER">BMD CONV MASTER</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=BMD-CONV-MASTER"><img src="mic_show_image.php?src=product_images/thumb100/23-01-2009-1232708267bmd_hdmi_sdi_front copy.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£308.75<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Panasonic BT-LH2550E (BT-LH2550E) Monitor LCD 25.5 inch 16/9 Full HD " href="view_item_cat.php?catalogue_number=panasonic_BT-LH2550E">PANASONIC BT LH2550E</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=panasonic_BT-LH2550E"><img src="mic_show_image.php?src=product_images/thumb100/12-02-2009-1234447135panasonic_BT-LH2550 copy2.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£3943.88<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Glidecam HD-4000 (HD4000) handheld camera stabilisation system for cameras weighing 1.8-4.5Kg (4-10lb)" href="view_item_cat.php?catalogue_number=glidecam_hd4000">GLIDECAM HD4000</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=glidecam_hd4000"><img src="mic_show_image.php?src=product_images/thumb100/19-01-2009-1232405764glidecam_hd-4000-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£439.27<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="USED Sony SRW-5500 (SRW5500) HDCAM SR Edit VTR - FULLY LOADED WITH ALL OPTIONS - Excellent condition!" href="view_item_cat.php?catalogue_number=used_sony_srw-5500">USED SONY SRW 5500</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=used_sony_srw-5500"><img src="mic_show_image.php?src=product_images/thumb100/10-12-2006-sony_srw-5500-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£63500.00<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="AJA Electronics 3GDA (3-GDA) 1X6 3G/HD/SD Reclocking Distribution Amplifier" href="view_item_cat.php?catalogue_number=AJA_3GDA">AJA 3GDA</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=AJA_3GDA"><img src="mic_show_image.php?src=product_images/thumb100/16-01-2009-1232115892aja_3gda.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£553.13<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Blackmagic Design BMD-CONVMSYNC (CONV-MSYNC) Sync Generator" href="view_item_cat.php?catalogue_number=BMD-CONVMSYNC">BMD CONVMSYNC</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=BMD-CONVMSYNC"><img src="mic_show_image.php?src=product_images/thumb100/23-01-2009-1232709345bmd_MiniConverterSyncGeneratorFront copy2.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£204.25<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Panasonic FS-250-UK (FS250, FS-250) 250GB Firestore HDD recorder for Panasonic DVCPRO HD" href="view_item_cat.php?catalogue_number=panasonic_fs-250">PANASONIC FS 250</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=panasonic_fs-250"><img src="mic_show_image.php?src=product_images/thumb100/21-02-2006-panasonic_fs-100-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£1299.00<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Used Sony DSR-500WSPL DVCAM Camcorder, excellent condition + Canon YJ19x9B KRS IF  lens + 2 x batteries + charger" href="view_item_cat.php?catalogue_number=used_sony_dsr-500wsp_kit">USED SONY DSR 500WSP</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=used_sony_dsr-500wsp_kit"><img src="mic_show_image.php?src=product_images/thumb100/09-12-2006-used_sony_dsr-500wsp-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£3995.00<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Panasonic AG-HPX171E (AGHPX171E, AGHPX171) P2 HD handheld Varicam camcorder - Includes 2 year Panasonic Premium EU warranty + 2 x 32GB P2 media Cards" href="view_item_cat.php?catalogue_number=panasonic_ag-hpx171_2x32gb">PANASONIC AG HPX171 </a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=panasonic_ag-hpx171_2x32gb"><img src="mic_show_image.php?src=product_images/thumb100/17_12_2005panasonic_ag-hvx200-small.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£3999.00<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Frezzi MFKIC-2A (MFKIC2A) Mini Fill Dimmer Kit with Soft Box, Filters and Case - with a choice of connectors " href="view_item_cat.php?catalogue_number=frezzi_mfkic-2a-master">FREZZI MFKIC 2A </a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=frezzi_mfkic-2a-master"><img src="mic_show_image.php?src=product_images/thumb100/19-12-2008-1229704354frezzi_mfk-2a_mfkic-2a copy2.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£557.69<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="AJA Video Systems - HA5 -HDMI to SDI/HD-SDI Video and Audio Converter" href="view_item_cat.php?catalogue_number=aja_ha5">AJA HA5</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=aja_ha5"><img src="mic_show_image.php?src=product_images/thumb100/19-12-2008-1229704070HA5_200.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£393.75<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Frezzi MFK-1A (MFK1A) Mini Fill Standard Kit with 5600K filter, barndoor / diffuser and case - with a choice of connectors " href="view_item_cat.php?catalogue_number=frezzi_mfk-1a-master">FREZZI MFK 1A </a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=frezzi_mfk-1a-master"><img src="mic_show_image.php?src=product_images/thumb100/19-12-2008-1229682612frezzi_mfk1a_mfkic-1a copy2.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£500.00<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Frezzi MFKIC-1A (MFKIC1A) Mini Fill Dimmer Kit with 5600K filter, barndoor / diffuser and case - with a choice of connectors " href="view_item_cat.php?catalogue_number=frezzi_mfkic-1a-master">FREZZI MFKIC 1A </a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=frezzi_mfkic-1a-master"><img src="mic_show_image.php?src=product_images/thumb100/19-12-2008-1229682612frezzi_mfk1a_mfkic-1a copy2.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£576.92<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Peli Products 1080 Waterproof Hardback Case for notebook computers 31.2 x 23.6 x 3.6cm " href="view_item_cat.php?catalogue_number=peli_1080">PELI 1080</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=peli_1080"><img src="mic_show_image.php?src=product_images/thumb100/18-12-2008-1229608633peli_1080 copy.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£62.87<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Hawk-Woods PCX-3 (PCX3) Power-Con Plug with extra female socket" href="view_item_cat.php?catalogue_number=hawk-woods_pcx-3">HAWK WOODS PCX 3</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=hawk-woods_pcx-3"><img src="mic_show_image.php?src=product_images/thumb100/18-12-2008-1229606771hawk-woods_PCX-3 copy2.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£16.20<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="2"><a style="font-size:8px;font-family:arial;color:#eeeeee;" title="Hawk-Woods HB-A1 (HBA1) Hot Bloc Adaptor for hot-shoe fitting to provide 3 more mounts" href="view_item_cat.php?catalogue_number=hawk-woods_hotbloc">HAWK WOODS HOTBLOC</a></td>
+			 </tr>
+			 <tr>
+				<td style="margin-bottom:3px;"><a href="view_item_cat.php?catalogue_number=hawk-woods_hotbloc"><img src="mic_show_image.php?src=product_images/thumb100/18-12-2008-1229606308hawk-woods_hb-a1copy.jpg&amp;w=50&amp;h=50&amp;zc=1" border="0" style="margin-top:5px;"></a></td>
+				<td style="font-size:10px;font-family:arial;color:#eeeeee;">&nbsp;£36.00<br>&nbsp;+VAT</td>
+			 </tr><tr>
+				<td colspan="2" style="height:5px;font-size:8px;font-family:arial;color:#eeeeee;"><hr color="#666666" size="1"></td>
+			 </tr>
+			</tbody></table></div></div><div style="background-image:url(images/menubottomsmall_new2.gif);width:136px;height:13px;"></div></div>
 
 
 <!--
@@ -399,7 +1040,7 @@ function showadv(faqno) {
 <img src="images2/menubottom.gif" width="136" height="22"></div>
 
 <img src="images2/safeeasy.gif" border="0" width="136" height="22"><br>
-<div id="friger" class="leftmenumain2" align="center"><div style="padding:5px;border:1px solid #336699;">
+<div id="friger" class="leftmenumain2" align="center"><div style="padding:5px;border:1px solid #333333;">
 <br>For both your  security and convenience, we have integrated the following in to our web site:<br>
 
 <br>
@@ -418,7 +1059,7 @@ function showadv(faqno) {
 	 
 <!-- <div id="friger343434" class="leftmenumain2" align="center">
 <img src="images2/safeeasy.gif" border="0" width="136" height="22">
-<div style="padding:9px;border:1px solid #336699;">
+<div style="padding:9px;border:1px solid #333333;">
 <img src="images/find_it.gif">
 If you cannot find what you are looking for online
 then please give us a call and we will find it for you.
@@ -443,7 +1084,8 @@ then please give us a call and we will find it for you.
 <div id="maindivbody" class="maindivbody">
 
 <div id="rightmenu" class="rightmenu">
-   <div id="login" class="leftmenumain"><img src="images/login_top.gif" width="136" height="22">
+ 
+   <div id="login" class="leftmenumain" style="background-color:#333333;"><img src="images/login_top.gif" width="136" height="22">
     <div style="padding:5px;">
 <form action="login.php" name="form_login" method="post" style="display:inline;"><input type="hidden" name="where_from" value="members.php"> 
 <script>
@@ -480,49 +1122,30 @@ function capsDetect( e ) {
 <div align="left" style="color:#ffffff;height:13px;line-height:12px;">Password</div>
 <div align="left">
 <input value="" class="loginform" title="CasE SenSiTIVe" type="password" onkeypress="capsDetect(arguments[0]);" onblur="" size="17" maxlength="17" name="password" style="display:inline;"><br>
-<input class="loginformalert" title="Login details are case sensitive" size="16" name="alerter" readonly="">
+<input class="loginformalert" style="background-color:#333333;" title="Login details are case sensitive" size="16" name="alerter" readonly="">
 </div>
-<div align="left"><input class="loginbtn" type="submit" name="submit" value="Login" style="display:inline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="register.php">Register</a></div>
+<div align="left"><input class="loginbtn" type="submit" name="submit" value="Login" style="display:inline;background-color:#666;border:1px solid #999;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="register.php">Register</a></div>
 <!--
 <div align="left"></div>-->
 </div></form>  </div><img src="images/menubottomsmall_new2.gif" width="136" height="13"></div>
      
      <div id="shipping" class="leftmenumain">
      <img src="images/international_top.gif" width="136" height="22"><br>
-     <div>
-     <img src="images/wsww.gif"><br>
-  </div><img src="images/menubottomsmall_new2.gif" width="136" height="13"><br></div>
+     <div style="width:136px;height:85px; background-image:url(images/wsww.gif);background-repeat:no-repeat;">
+     <table cellpadding="0" cellspacing="0" border="0"><tbody><tr>
+     <td valing="middle" align="center" style="font-size:13px;width:136px;height:85px;font-weight:bold; color:white;">
+     You can pay us in<br><span style="font-size:35px;">£ € $</span><br>by bank transfer
+     
+     
+     </td></tr>
+     </tbody></table>
+     </div>
+  <img src="images/menubottomsmall_new2.gif" width="136" height="13"><br></div>
     
 <div id="yourbasket22" class="leftmenumain"><a href="javascript:show_basket();"><img src="images/basket_top.gif" border="0" width="136" height="22"></a><br><br><center><span class="whitetextbold">Your basket<br>is empty.</span></center><br><img src="images/menubottomsmall_new2.gif" width="136" height="13"></div>
-   
-   <script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
+ 
 
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
 
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
-</script>
-
-<!------------------------>
 
 
 <!--
@@ -531,57 +1154,22 @@ function MM_swapImage() { //v3.0
 <img src="images/faye1.jpg" name="kurcze" id="kurcze" border="0" width="136"></a>
 <img src="images/menubottomsmall_new2.gif" width="136" height="13"></div>
 -->
-<img src="images/secure_top.gif" border="0" width="136" height="22"><br>
-<!-- took out from friger:  class="leftmenumain2"  -->
-<div id="friger" align="center"><div style="padding-top:7px;padding-bottom:7px;padding-left:5px;padding-right:5px;border:1px solid #336699;" onselectstart="return false" ondragstart="return false">
-<!--Your details are are 100% secure on this web site.<br><br>
--->
-
-<table cellpadding="0" cellspacing="0"><tbody><tr><td style="height:75px;font-size:10px;">
-For both your security<br>
-and convenience, we<br>
-have integrated the<br>
-following in to our site:
-</td></tr></tbody></table>
-
-<a href="#" title="Online shopping is safe with us!" onclick="open_secure('secure_payments.popup');">
-<img width="94" height="54" border="0" style="margin-bottom:10px;" src="//images.scanalert.com/meter/www.creativevideo.co.uk/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;">
-
-<!-------------  CARD AWARE  ---------------->
-<table width="105" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td><a href="#" style="text-decoration:none;" title="CardAware stops over 99.9% of credit card fraud." onclick="open_secure('secure_payments.popup');"><img src="images/caa.jpg" border="0"></a></td>
-    <td><div align="center"><a href="#" style="text-decoration:none;font-size:9px;font-family:arial;color:#000000;" title="CardAware stops over 99.9% of credit card fraud." onclick="open_secure('secure_payments.popup');">Protected by<br>
-      <span style="color:#F70201;">CardAware</span>™<br>
-    Anti-Fraud</a></div></td>
-  </tr>
-  <tr>
-    <td colspan="2" height="8" valign="top" bgcolor="eeeeee"><div align="center"><a href="#" style="text-decoration:none;font-size:9px;font-family:arial;color:#F70201;" title="CardAware stops over 99.9% of credit card fraud." onclick="open_secure('secure_payments.popup');">Verified: 
-        28/06/2008</a>
-    </div></td>
-  </tr>
-</tbody></table>
-<span style="font-size:5px;font-family:arial;color:#F70201;"><br>
-<br></span>
-
-<!--------------  SCAN ALERT  --------------->
-
-
-
-<!--<iframe src="thawtesiteseal.php" width="66" height="66" hspace="0" vspace="0" frameborder="0" style="margin-bottom:10px;"></iframe> -->
-<div title="Secured by GeoTrust from Equifax." style="background-image:url('images/geogeo.gif');background-repeat:no-repeat;width:75px;height:75px;font-size:11px;text-decoration:none;cursor:default;text-align:center;padding-top:55px;">
-
-
-	<span style="font-family:arial;color:#000000;">2008-06-28</span>
-	</div>
 
 
 
 
-<br>
 
-<img src="images/hsbc_secure.jpg" border="0" style="margin-bottom:10px;"><img src="images/v12_logo_small.jpg" style="margin-bottom:10px;" border="0"></a><img src="images/cvp_verified_by_mastercard.jpg" title="100% secure online order processing." border="0"><span style="font-size:5px;"><br><br></span><img src="images/cvp_verified_by_visa.jpg" title="100% secure online order processing." border="0"></div><img src="images/menubottomsmall_new2.gif" width="136" height="13"></div>
 
+<div id="whyus">
+<img src="images/whycvp_top.gif" border="0" width="136" height="22" style="display:block">
+<script type="text/javascript">
+
+//new pausescroller(name_of_message_array, CSS_ID, CSS_classname, pause_in_miliseconds)
+
+new pausescroller(pausecontent, "pscroller1", "someclass", 3000)
+
+</script><div id="pscroller1" class="someclass" style="position: relative; overflow: hidden"><div class="innerDiv" style="position: absolute; width: 136px; top: 0px;" id="pscroller11"><div style="padding-left:7px; padding-right:7px;"><br><br><br><strong>QUALITY</strong><span style="font-size:10px;"><br><br>We don't sell inferior 'grey' imports - You only get the 'real deal' from us.</span></div></div><div class="innerDiv" style="position: absolute; width: 136px; visibility: visible; top: 155px;" id="pscroller12"><div style="padding-left:7px; padding-right:7px;"><br><br><strong>FINANCE</strong><span style="font-size:10px;"><br><br>Spread the cost of your purchase with one of our wide range of personal or commercial finance options.</span></div></div></div>
+<img src="images/menubottomsmall_new2.gif" width="136" height="13"></div>
 
 
 <!------------------------>
@@ -604,12 +1192,71 @@ following in to our site:
      </div><img src="images/menubottomsmall_new2.gif" width="136" height="13"></div>
 	 -->
 	 
-	<div id="eduad" class="leftmenumain" style="margin-top:5px;">
+	
+
+<div style="margin-top:6px;width:136px;height:114px;background-image:url(images/secure_shopping_box.gif);">
+<table width="134" height="108" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td height="18">&nbsp;</td>
+	</tr>
+	<tr>
+		<td height="40" align="center"><div style="cursor:pointer;width:90px;height:30px;" title="Click to verify www.creativevideo.co.uk" onclick="window.open('https://www.mcafeesecure.com/RatingVerify?ref=www.creativevideo.co.uk','_blank');"></div></td>
+	</tr>
+	<tr>
+	  <td height="40">&nbsp;</td>
+    </tr>
+</tbody></table>
+</div>
+
+<div style="margin-top:5px;width:136px;height:109px;background-image:url(images/testpay.jpg);">
+	<table width="100%" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td height="21" colspan="3"><div id="show_pay_box" style="padding-left:20px;font-size:10px;color:#ffffff;font-family:arial;">Payment methods</div></td>
+		</tr>
+		<tr>
+			<td width="34%" height="25" align="center"><div onmouseover="show_pay('visa');" onmouseout="hide_pay();" style="width:40px;height:20px;padding-top:1px;cursor:pointer;"></div></td>
+			<td width="32%" align="center"><div onmouseover="show_pay('mastercard');" onmouseout="hide_pay();" style="width:40px;height:20px;padding-top:1px;cursor:pointer;"></div></td>
+			<td width="34%" align="center"><div onmouseover="show_pay('switch_maestro');" onmouseout="hide_pay();" style="width:40px;height:20px;padding-top:1px;cursor:pointer;"></div></td>
+		</tr>
+		<tr>
+			<td width="34%" height="25" align="center"><div onmouseover="show_pay('solo');" onmouseout="hide_pay();" style="width:40px;height:20px;padding-top:1px;cursor:pointer;"></div></td>
+			<td width="32%" align="center"><div onmouseover="show_pay('v12');" onmouseout="hide_pay();" style="width:40px;height:20px;padding-top:1px;cursor:pointer;"></div></td>
+			<td width="34%" align="center"><div onmouseover="show_pay('cheque');" onmouseout="hide_pay();" style="width:40px;height:20px;padding-top:1px;cursor:pointer;"></div></td>
+		</tr>
+		<tr>
+			<td width="34%" height="25" align="center"><div onmouseover="show_pay('cvp');" onmouseout="hide_pay();" style="width:40px;height:20px;padding-top:1px;cursor:pointer;"></div></td>
+			<td width="32%" align="center"><div onmouseover="show_pay('bank');" onmouseout="hide_pay();" style="width:40px;height:20px;padding-top:1px;cursor:pointer;"></div></td>
+			<td width="34%" align="center"><div onmouseover="show_pay('collect');" onmouseout="hide_pay();" style="width:40px;height:20px;padding-top:1px;cursor:pointer;"></div></td>
+		</tr>
+		
+	</tbody></table>
+</div>
+
+
+
+
+<div id="eduad" class="leftmenumain" style="margin-top:5px;">
 <a href="educate.php"><img src="images/education_top.gif" border="0" width="136"></a><br>
-<a href="educate.php"><center><img src="images/educationad.jpg" title="We offer special educational pricing on many products" border="0"></center></a>
+<a href="educate.php"><center><img src="images/educationad2.jpg" title="We offer special educational pricing on many products" border="0"></center></a>
 <img src="images/menubottomsmall_new2.gif" width="136" height="13" border="0"><br>
 </div>
-<div id="jobad" class="leftmenumain">
+
+
+<div id="rez" class="leftmenumain">
+<a href="bzone.php"><img src="images/resources_top.gif" border="0" width="136"></a><br>
+<a href="bzone.php"><center><img src="images/extra_space_right.jpg" title="Free product brochure downloads for all creativevideo.co.uk members!" border="0"></center></a>
+<img src="images/menubottomsmall_new2.gif" width="136" height="13"><br>
+</div>
+
+
+<div><a href="events.php"><img src="images/open_day_small_box.jpg" border="0"></a></div>
+
+
+
+
+
+
+<div id="jobad" class="leftmenumain" style="margin-top:5px;">
 <a href="jobs.php"><img src="images/jobs_top.gif" border="0" width="136"></a><br>
 <a href="jobs.php"><center><img src="images/working2.jpg" title="Click for a promising career with one of the UK's leading suppliers of broadcast solutions." border="0"></center></a>
 <img src="images/menubottomsmall_new2.gif" width="136" height="13"><br>
@@ -623,12 +1270,7 @@ following in to our site:
 </div>
 -->
 
-
-<div id="rez" class="leftmenumain">
-<a href="bzone.php"><img src="images/resources_top.gif" border="0" width="136"></a><br>
-<a href="bzone.php"><center><img src="images/extra_space_right.jpg" title="Free product brochure downloads for all creativevideo.co.uk members!" border="0"></center></a>
-<img src="images/menubottomsmall_new2.gif" width="136" height="13"><br>
-</div> 
+ 
 
 <!--
 <div id="onlinesupport" class="leftmenumain"><a href="#" onClick="open_window('live_support/< ?=$chatlink?>')">
@@ -641,7 +1283,7 @@ following in to our site:
 <!-- OKAY -->  
    <!--
    <img src="images2/webelieve.gif" border="0" width="136" height="13"><br>
-<div id="friger" class="leftmenumain2" align="center"><div align=left style="padding:3px;border:1px solid #336699;font-size:9px;">
+<div id="friger" class="leftmenumain2" align="center"><div align=left style="padding:3px;border:1px solid #000000;font-size:9px;">
 <table style="font-size:9px;">
 <tr ><td style="font-size:9px;" width=6>1.</td><td style="font-size:9px;">Large choice of products</td></tr>
 <tr ><td style="font-size:9px;" width=6>2.</td><td style="font-size:9px;">Affordable pricing structure</td></tr>
@@ -689,7 +1331,7 @@ oncopy="alert('Copyright Creative Video. If you want this content then please re
 
 <div class="htr">Creative Video Privacy Policy</div>
 <div class="box">
-<div style="padding:15px;;border:1px solid #336699;"><span class="articletext">
+<div style="padding:15px;;border:1px solid #333333;"><span class="articletext">
 <h3 style="font-family:arial;">Privacy Policy</h3>
       <p>
 	  
@@ -734,9 +1376,9 @@ By supplying us with your information you confirm that you do not consider use o
 </div>
 <img src="images2/htrbottom.gif"><br><br>
 
-<span style="font-size:7px;"><br></span><div class="htr">Product demonstrations at CVP</div><div style="width:640px;background:#eeeeee;border:1px solid #336699;" align="center"><br><span class="articletext">To see the equipment you're interested in before you buy, you are most welcome and indeed encouraged to<br> visit us for a few hours to relax and enjoy a dedicated demonstration during which we can address <br>any questions you might have and help you to ensure you're investing in the equipment that's right for you.<br><br>
-
-<strong>Simply call us on 01527 854222 and we'll reserve your place today!</strong><br></span><br></div><img src="images2/htrbottom.gif"><br>
+<div style="margin-top:7px;" class="htr">Product demonstrations at CVP</div><div style="width:640px;background:#333333;color:#ffffff;font-family:arial;font-size:12px;"><div style="padding:10px;border:1px solid #333333;">To see the equipment you're interested in before you buy, you are most welcome and indeed encouraged to<br> visit us for a few hours to relax and enjoy a dedicated demonstration during which we can address <br>any questions you might have and help you to ensure you're investing in the equipment that's right for you.
+<br><br>
+<strong>Simply call us on 01527 854222 and we'll reserve your place today!</strong></div></div><img src="images2/htrbottom.gif"><br>
 <!--<div id="footerdiv" class="footerdiv"><span class=greentext><strong>Quality:</strong></span> Rest-assured that we supply genuine UK & European supported products, with full 
            manufacturer warranties and CE approval - Beware of "grey" imports elsewhere!<br><br>
 
@@ -753,10 +1395,18 @@ By supplying us with your information you confirm that you do not consider use o
 
 <script language="Javascript1.2" type="text/javascript">
 <!--
+// please keep these lines on when you copy the source
+// made by: Nicolas - http://www.javascript-page.com
+
 var message = "Print this Page";
+
 function printpage() {
 window.print();  
 }
+
+//document.write("<form><input type=button "
+//+"value=\""+message+"\" onClick=\"printpage()\"></form>");
+
 //-->
 </script>
 <center><img src="images/printerico.gif" border="0" onclick="printpage()"><br>
@@ -764,11 +1414,12 @@ window.print();
 
 
 <a href="index.php" class="special"><strong>Home</strong></a>&nbsp;&nbsp;|&nbsp;
+<a href="cvp_videos.php" class="special"><strong>CVP TV</strong></a>&nbsp;&nbsp;|&nbsp;
 <a href="productcat.php" class="special"><strong>Products</strong></a>&nbsp;&nbsp;|&nbsp;
  <a href="register.php" class="special"><strong>New account</strong></a>&nbsp;&nbsp;|&nbsp;
 <a href="forum_index.php" class="special"><strong>Forum</strong></a>&nbsp;&nbsp;|&nbsp;
 <a href="articles.php" class="special"><strong>Information</strong></a>&nbsp;&nbsp;|&nbsp;
-<a href="events.php" class="special"><strong>Events</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;<!-- TEMP removed events link and added extra spacing to each link -->
+<!--<a href="events.php" class="special"><strong>Events</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;--><!-- TEMP removed events link and added extra spacing to each link -->
 <!--<a href="educate.php" < ? echo($classmenu); ?>><strong>Education</strong></a>&nbsp;&nbsp;|&nbsp;-->
 <a href="news_script.php" class="special"><strong>News</strong></a>&nbsp;&nbsp;|&nbsp;
 
@@ -780,32 +1431,19 @@ window.print();
 
 
 
-<a href="contactus.php" class="special"><strong>Contact us</strong></a><br><a href="privacy.php" class="special">Privacy Policy</a> | <a href="terms.php" class="special">Terms of Service</a> | <a href="sitemap.php" class="special">Site map</a><br>
-© 2008 Creative Video Productions Limited • 
+<a href="contactus.php" class="special"><strong>Contact</strong></a><br><a href="privacy.php" class="special">Privacy Policy</a> | <a href="terms.php" class="special">Terms of Service</a> | <a href="sitemap.php" class="special">Site map</a><br>
+© 2009 Creative Video Productions Limited • 
 Studley • Warwickshire • UK<br>
 <strong>E&amp;OE</strong>
 </center>
 
-
-<br><center><img src="images/all_payment_optionsS.jpg"><br><br><span style="font-family:arial;font-size:10px;color:#cccccc;">This web site requires cookies &amp; javascript enabled and is optimised for 1024 x 768 (XVGA).<br>Tested &amp; compliant with MSIE 6, MSIE 7, Opera 8.5, Firefox 1.5 and Safari 2.<br></span>
-</center>
+<center><br><span style="font-family:arial;font-size:10px;color:#cccccc;">This web site requires cookies &amp; javascript enabled and is optimised for 1024 x 768 (XVGA).<br>Tested &amp; compliant with MSIE 6, MSIE 7, Opera 8.5, Firefox 1.5 and Safari 2.<br></span>
 
 
 
+		<div id="hackhackssheoit" class="bodyhack"></div>
+	</center></div>
+</div>
 
 
-
-
-
-</div> </div> </div>
-<div id="hackhackssheoit" class="bodyhack"></div>
-<!--
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-95911-2";
-urchinTracker();
-</script> -->
-
-
-</body></html>
+</div></body></html>
