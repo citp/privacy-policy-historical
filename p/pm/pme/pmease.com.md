@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pmease.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220004354id_/http%3A//www.pmease.com/PrivacyPolicy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmease.com privacy policy that was archived on 2009-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090304195200id_/http%3A//www.pmease.com/PrivacyPolicy.page) for the most accurate reproduction.*
 
 # QuickBuild - automate and manage your builds
 
@@ -7,8 +7,10 @@
    
 |  News  
 ---  
-| Sep 5, 2008 \- The second milestone release of QuickBuild 2.0 is available to collect feedbacks. Please refer to [the wiki](http://wiki.pmease.com/display/qb2/2.0-M2) for details.  
+| Feb 10, 2009 \- QuickBuild 2.0 milestone 4 is available to collect feedbacks. Please refer to [the wiki](http://wiki.pmease.com/display/qb2/2.0-M4) for details.  
 ---  
+Dec 31, 2008 \- The third milestone release of QuickBuild 2.0 is available to collect feedbacks. Please refer to [the wiki](http://wiki.pmease.com/display/qb2/2.0-M3) for details.  
+Sep 5, 2008 \- The second milestone release of QuickBuild 2.0 is available to collect feedbacks. Please refer to [the wiki](http://wiki.pmease.com/display/qb2/2.0-M2) for details.  
 June 30, 2008 \- The first milestone release of QuickBuild 2.0 is available to collect feedbacks. Please refer to [the wiki](http://wiki.pmease.com/display/qb2/2.0-M1) for details.  
 Apr 11, 2008 \- A minor version QuickBuild 1.2.13 has been released to fix bugs. Refer to [release notes](http://quickbuild.pmease.com/publish/219/artifacts/release_notes.txt) for more information.   
 Mar 18, 2008 \- A minor version QuickBuild 1.2.12 has been released to fix bugs. Refer to [release notes](http://quickbuild.pmease.com/publish/214/artifacts/release_notes.txt) for more information.   
