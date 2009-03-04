@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the valueapplications.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060027id_/http%3A//www.godaddy.com/gdshop/legal_agreements/show_doc.asp%3Fpageid%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valueapplications.com privacy policy that was archived on 2009-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090304120725id_/http%3A//www.godaddy.com/gdshop/legal_agreements/show_doc.asp%3Fpageid%3DPRIVACY) for the most accurate reproduction.*
 
 # Legal Agreement
 
-Go Daddy is a licensee of the [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) Privacy Program. If you have questions or concerns regarding this statement, you should first contact Go Daddy at TEST [privacy@godaddy.com](mailto:privacy@godaddy.com) or call (480) 505-8800. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) will then serve as a liaison with the Web site to resolve your concerns. However, please understand the [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) Privacy Program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. 
+Go Daddy is a licensee of the [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) Privacy Program. If you have questions or concerns regarding this statement, you should first contact Go Daddy at [privacy@godaddy.com](mailto:privacy@godaddy.com) or call (480) 505-8800. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) will then serve as a liaison with the Web site to resolve your concerns. However, please understand the [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) Privacy Program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. 
 
-**Go Daddy complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. We will respond to your request for access to modify or delete your information within 30 days.**
+**Go Daddy complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. We will respond to your request for access to modify or delete your information within thirty (30) days.**
 
 **We will not give any information about you to others without your express permission.**
 
-Our site uses forms in which you give us contact information (your name, address, daytime telephone number, and email address) so you can place orders, request information and support, and make product suggestions. We will then create an account number for you and if you choose to order from us using a credit card, we will collect your credit card number and expiration date. If you contact us for support, we will keep an internal record of what support was given. We use your customer information only when it will be important for us to contact you regarding functionality changes to our products, our web site, new Go Daddy Software services, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences. If we present a co-branded offer with our partners or affiliates, it will be clear at the point of collection who is collecting the information and whose privacy statement applies. 
+Our site uses forms in which you give us contact information (your name, address, daytime telephone number, and email address) so you can place orders, request information and support, and make product suggestions. We will then create an account number for you and if you choose to order from us using a credit card, we will collect your credit card number and expiration date. If you contact us for support, we will keep an internal record of what support was given. We use your customer information only when it will be important for us to contact you regarding functionality changes to our products, our web site, new Go Daddy services, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences. If we present a co-branded offer with our partners or affiliates, it will be clear at the point of collection who is collecting the information and whose privacy statement applies. 
 
 We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here](http://www.networkadvertising.org/optout_nonppii.asp). 
 
@@ -19,6 +19,12 @@ We use information gathered about you from our site statistics (for example your
 Our site uses cookies to keep track of your shopping cart and receipts. We use [cookies](https://www.godaddy.com/gdshop/secure.asp) to identify you so you don't have to login each time you visit our site. They are linked to your customer number which is associated with the information in your account. 
 
 This site also contains links to other sites. Unfortunately Go Daddy is not responsible for the privacy practices or the content of such Web sites. 
+
+**For Go Daddy Marketplace Customers Only**
+
+When you purchase goods through Go Daddy Marketplace, you are granting Go Daddy express permission to share your name and contact information (as well as the “ship to” name and contact information, if different) with the merchant from which you make the purchase, for the purposes of shipping and order fulfillment only. By making a purchase from a merchant, you are not granting that merchant consent to use your information for marketing or any other purposes unless you specifically “opt in” to do so. Go Daddy has agreements with the merchants on Go Daddy Marketplace requiring them to maintain the privacy of your information; however, Go Daddy is not responsible for improper use by merchants of your information. 
+
+When you create a storefront to offer goods for sale through Go Daddy Marketplace, you will be prompted to enter information about your business, including business name, e-mail address and telephone number (all mandatory), and address, fax number and business hours (all optional). The business information that you enter will be publicly displayed on your storefront page, and will be included in confirmation e-mails sent to people who make purchases from you. 
 
 **Security**
 
@@ -42,7 +48,7 @@ As stated previously in this policy, we will not share your personal information
 
 **Changes in Our Practices**
 
-If we make material changes to our information handling practices or other privacy aspects, we will post those changes on this privacy statement, at least 30 days prior to their implementation or notify you directly via email. Minor changes will be immediately effective upon reposting to this privacy policy on the Go Daddy Software Web site. 
+If we make material changes to our information handling practices or other privacy policies, we will post those changes on this privacy statement, or notify you directly via email, at least 30 days prior to their implementation. Minor changes will be immediately effective upon reposting to this privacy statement on the Go Daddy Web site. 
 
 **Service Provider**
 
@@ -51,17 +57,3 @@ We use a credit card processing company to bill users for goods and services. Th
 **Contest**
 
 From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level – you must be 18 or above to enter). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
-
-| 
-
-**Contacting the Web Site**
-
-If you have any questions about our privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: 
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, US 
