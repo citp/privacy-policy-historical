@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativevideo.co.uk privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628190952id_/http%3A//www.creativevideo.co.uk/public/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativevideo.co.uk privacy policy that was archived on 2009-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090304014155id_/http%3A//www.creativevideo.co.uk/public/privacy.php) for the most accurate reproduction.*
 
 # » Creative Video > Creative Video > Privacy Policy
 
@@ -31,12 +31,3 @@ You should be aware that if we are requested by the police or any regulatory or 
 We are currently aware of professional spammers who use the creativevideo.co.uk domain as the sender. We can assure you that we don't have any involvement in this. Likewise, we have no interest in making you aware of products other than the products that we are proud to sell on this web site. Even so, we **never** send unsolicited emails.
 
 Thank you for taking the time to read our Privacy Policy.
-
-To see the equipment you're interested in before you buy, you are most welcome and indeed encouraged to  
-visit us for a few hours to relax and enjoy a dedicated demonstration during which we can address   
-any questions you might have and help you to ensure you're investing in the equipment that's right for you.
-
-**Simply call us on 01527 854222 and we'll reserve your place today!**
-
-  
-
