@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activehotels.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216073920id_/http%3A//www.activehotels.com/hotel/static/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activehotels.com privacy policy that was archived on 2009-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090304154253id_/http%3A//www.activehotels.com/hotel/static/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy · Active Hotels
 
@@ -40,7 +40,7 @@ The personal information you provide through online collections forms on the sit
     * We may request information from you via email surveys or competitions. Survey information will be used for the purposes of monitoring or improving the use and satisfaction of our site - for example, we may invite your comments on the ease of using our booking service. 
   * Hotel Reviews: 
     * Providing reviews of hotels you have stayed in is voluntary and you have the choice whether or not to disclose any information. 
-    * After you have stayed in one of our member hotels, we may invite you to provide a review of that hotel. You can publish scores and written comments. Your scores and comments are displayed publicly; however, Active Hotels reserves the right to remove the scores and comments published by you and may contact you, concerning your scores and written comments, if you have not followed the [Rules of Posting](https://web.archive.org/hotel/static/en/terms.html#posting?subid=amigo-other).
+    * After you have stayed in one of our member hotels, we may invite you to provide a review of that hotel. You can publish scores and written comments. Your scores and comments are displayed publicly; however, Active Hotels reserves the right to remove the scores and comments published by you and may contact you, concerning your scores and written comments, if you have not followed the [Rules of Posting](https://web.archive.org/hotel/static/en/terms.html#posting).
     * Your first name, town and country are automatically displayed with the reviews and comments you publish unless you change this default configuration. 
     * Your booking reference number is displayed so that hotels may reply to your comments.
     * You retain all ownership rights to content you publish on Active Hotels (your “Content”). However, we can publish all or teaser portions of your Content online and offline and permit others to do the same. 
