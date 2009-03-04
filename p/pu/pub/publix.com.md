@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055941id_/http%3A//www.publix.com/PrivacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2009-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090304151552id_/http%3A//www.publix.com/PrivacyPolicy.do) for the most accurate reproduction.*
 
 # Publix Privacy Policy
 
 At Publix, we are committed to protecting your privacy. We developed this Privacy Policy to share with you our information collection practices and the options you have when visiting our Web site. You can always be assured the information we collect is used to provide a more personalized experience for users of this site. This Privacy Policy is an online Privacy Policy, applicable to this site only. By using this site, you are agreeing to accept the practices described in this Privacy Policy.
 
-Please note that other Publix Web sites may be governed by separate policies. When visiting any of our other sites, please refer to its Privacy Policy.
+Please note that other Publix Web sites may be governed by separate policies. When visiting any of our other sites, please refer to its Privacy Policy. 
 
- **Who is Collecting Your Information**  
+**Who is Collecting Your Information**  
 Publix and its affiliates are the sole owners of the information collected; except as otherwise provided in this Privacy Policy, we will not sell, share, rent or loan this information to any third party. However, we may use and share aggregated information that does not personally identify you with third parties in order to improve the site for our users.
 
 The Publix [Apron's](http://www.publix.com/aprons) portion of our site collects a minimal amount of required information from those users requesting a reservation for a Publix Apron's Cooking School class and those users opting in to our Cooking School's printed calendar and/or electronic communication distribution list.  This information is strictly used to process the reservation request or to send the user the requested materials and/or e-mails.  None of the required information and/or optional information collected on any Publix Apron's form is used for other purposes than those stated in this policy; however, Publix may use third parties to assist in providing certain services to users.  In the event that Publix utilizes a third party to provide such services, our contract with the third party will include obligations upon the third party to keep all information obtained during such contract confidential and secure.
@@ -353,9 +353,9 @@ Our site may contain links to other sites. Please be aware that Publix is not re
 If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users. We will use information in accordance with the privacy policy under which the information was collected.  
 
 **Contact Us**  
-Please let us know if you have any questions about our Privacy Policy. Simply send us an [e-mail](https://web.archive.org/web/20081217055941id_/http%3A/contact/SendUsAMessage.do).  
+Please let us know if you have any questions about our Privacy Policy. Simply send us an [e-mail](https://web.archive.org/contact/SendUsAMessage.do).  
 
 **COPYRIGHT NOTICE**  
 Copyright© 2008 Publix Asset Management Company. All rights reserved. Any rights not expressly granted herein are reserved.  
 
-Last modified: 04/2008
+Last modified: 12/2008
