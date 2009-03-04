@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soaring4traffic.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011312id_/http%3A//www.soaring4traffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soaring4traffic.com privacy policy that was archived on 2009-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090304014330id_/http%3A//www.soaring4traffic.com/privacy.php) for the most accurate reproduction.*
 
-# Soaring4Traffic.com
+# Soaring4Traffic Manual Traffic Exchange
 
 **Soaring4Traffic Privacy Policy**
 
