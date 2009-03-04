@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the valueapplications.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217060027id_/http%3A//www.godaddy.com/gdshop/legal_agreements/show_doc.asp%3Fpageid%3DPRIVACY) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the valueapplications.com privacy policy that was archived on 2009-03-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090304120725id_/http%3A//www.godaddy.com/gdshop/legal_agreements/show_doc.asp%3Fpageid%3DPRIVACY) for the most accurate reproduction.-->
 
 <html><head><script language="javascript">
 		var imagesURL = "https://imagesak.godaddy.com/";
@@ -16,7 +16,7 @@
 
         }
         function openAVPlayer(mediaID, cici) {
-			var pgurl = 'http://www.godaddy.tv/popups/AVPlayerPopup.aspx?app%5Fhdr=&ci=cici&mediaID=mediaIDVal';
+			var pgurl = 'http://videos.godaddy.com/popups/AVPlayerPopup.aspx?app%5Fhdr=&ci=cici&mediaID=mediaIDVal';
 			pgurl = pgurl.replace('cici', cici);
 			if (mediaID != '') pgurl = pgurl.replace('mediaIDVal', mediaID);
 			var win = window.open(pgurl, 'avPlayerPopup', 'left=50,top=50,resizable=yes,scrollbars=yes,width=700px,height=520px');
@@ -29,7 +29,6 @@
 		}
 		</script><style>
 a.sb:link,a.sb:active,a.sb:hover,a.sb:visited,.sb{font-size: 11px; font-weight:bold; color:#2f2f2f; text-decoration:none;}
-.sbred{color: #cc0000; font-weight:normal; font-size: 9px;}
 .row1{font-size: 11px; width:185px; padding: 4px 2px 4px 2px;}
 .row2{font-size: 11px; width:185px; padding:4px 2px 4px 2px; border-top:1px solid #444444;}
 .row3{font-size: 1px; line-height: 1px; width:185px; border-bottom:1px solid #444444;}
@@ -40,40 +39,12 @@ a.sb:link,a.sb:active,a.sb:hover,a.sb:visited,.sb{font-size: 11px; font-weight:b
 .sblist{list-style-type:square; list-style-image:url('http://imagesak.godaddy.com/aaa/common/1/bul_li_sized.gif'); padding: 0px 0px 0px 23px; list-style-position: outside; margin-top: 0px; margin-left: 0px; margin-bottom: 0px;}
 .sblist2{padding: 4px 0px 0px 23px; list-style-position: outside; margin-top: 0px; margin-left: 0px; margin-bottom: 0px;}
 .sbli{text-indent: 0px; padding: 2px 0px 0px 0px; margin-top: 0px; margin-left: 0px; margin-bottom: 0px;}
-.myvideo{cursor:pointer;padding:2px 0px 0px 20px;color:#000000;text-decoration:none;width:161px;height:18px;background-image:url('http://imagesak.godaddy.com/aaa/sb/videoLabel_off.gif');background-repeat:no-repeat;}
 a.sblink:link,a.sblink:active,a.sblink:hover,a.sblink:visited,.sblink{color:#2f2f2f; text-decoration:none;}
 </style>
 <script language="javascript">
 if (document.images){
 	status_open = new Image();status_close = new Image();
 	status_open.src = "http://imagesak.godaddy.com/aaa/sb/bul_open.gif";status_close.src = "http://imagesak.godaddy.com/aaa/sb/bul_close.gif";}
-	
-function gosb(url,t){
-	if(t == "")t="_self";window.open(url,t);}
-
-function sbStatus(){
-	var dpClosed = false;
-	var item = new Array("qs","mc","ma","s","e","rp","b","cr","mr","mn","rg","mv"); //sidebar open/close
-	for(x=0;x<item.length;x++){
-		if(getCookie('sidebar_' + item[x]) == "1"){
-			if(document.images [item[x]+"_img"]) document.images [item[x]+"_img"].src = status_close.src;
-			if(document.getElementById(item[x]+'_div')) document.getElementById(item[x]+'_div').style.display = "";
-			if((item[x]=="rp")||(item[x]=="s")) dpClosed = true;}
-	}if(document.getElementById('dp_divA')) document.getElementById('dp_divA').style.display = "";
-
-	var item = new Array("customize","test");//landing page open/close
-	for(x=0;x<item.length;x++){
-		if(getCookie('sidebar_' + item[x]) == "1"){
-			if (document.images [item[x]+"_img"]){
-				document.images [item[x]+"_img"].src = status_open.src;document.getElementById(item[x]+'_div').style.display = "none";}
-}}}
-
-function checkHome(item)
-{
-	//homepage sidebar hasn't been activated yet, reload	
-	var url = "https://www.godaddy.com/gdshop/default.asp?app%5Fhdr=&sb=1&item=sbitem";
-	url = url.replace('sbitem', item);window.open(url,'_self');}
-
 function togSB(item){
 	if(document.images [item+"_img"])	document.images [item+"_img"].src = (document.images [item+"_img"].src == status_open.src) ? status_close.src:status_open.src;
 	if(document.getElementById(item+'_div')) document.getElementById(item+'_div').style.display = (document.getElementById(item+'_div').style.display=="none") ? "":"none";
@@ -85,10 +56,6 @@ function togSB(item){
 		createCookie('sidebar_' + item,1,'');
 		if((document.getElementById('dp_divB'))&&((getCookie('sidebar_rp') == "1")||(getCookie('sidebar_s') == "1"))) document.getElementById('dp_divB').style.display = "none";		
 }}
-
-function linkSB(url){
-	location.href = url;}
-
 function createCookie(name,value,days){
 	if (days){
 		var date = new Date();
@@ -110,33 +77,6 @@ function getCookie(name){
 
 function eraseCookie(name){
 	createCookie(name,"",-1);}
-
-function editSBselected(theForm, theVal, theDomain){
-	if (theVal){
-		theForm.searchSBselected.value = theForm.searchSBselected.value + '|' + theDomain + '|'}
-	else{
-		var theStr = theForm.searchSBselected.value;theStr = theStr.replace('|' + theDomain + '|', '');theForm.searchSBselected.value = theStr
-}}
-
-function checkSBDomain(searchForm){
-	var canSubmit = false;
-	var searchValue;
-	if ('' == '' && searchForm.domainToCheck){
-		searchValue = searchForm.domainToCheck.value;
-		if (searchValue != ''){
-			var regExInvalidChars = /[^a-zA-Z0-9-\s.]+/;
-			if (regExInvalidChars.test(searchValue)){
-				alert('Invalid character in domain.\n\nOnly letters, numbers or hyphens are allowed.')}
-			else{
-			canSubmit = true;}
-		}
-	}
-	if (canSubmit){
-		return true;
-	}
-	else{
-		return false;}
-}
 </script>
 
 	
@@ -346,64 +286,40 @@ function checkSBDomain(searchForm){
                 <tr>
                   <td class="heading1">
                     <b>
-                      <br>   Go Daddy    Respects your privacy</b>
+                      <br>    Go Daddy     Respects your privacy</b>
                   </td>
                 </tr>
                 <tr>
-                  <td class="bodyText">  <a href="http://www.truste.org/ivalidate.php?sealid=101&amp;url=www.godaddy.com"><img src="https://images.secureserver.net/assets/legal/truste_seal_ctv.gif" width="68" height="95" border="0"></a>                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <a href="javascript:void(window.open('http://www.godaddy.com/gdshop/jump_pages/afwg_explain.asp?isc=', 'display5', 'left=200,top=50,resizable=yes,scrollbars=yes,width=420,height=300'));"><img border="0" src="https://images.secureserver.net/Assets/log_afwg_sm.gif"></a> </td>
+                  <td class="bodyText"><a href="http://www.truste.org/ivalidate.php?sealid=102&amp;url=www.godaddy.com"><img src="https://images.secureserver.net/assets/legal/truste_seal_ctv.gif" width="68" height="95" border="0"></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="javascript:void(window.open('http://www.godaddy.com/gdshop/jump_pages/afwg_explain.asp?isc=', 'display5', 'left=200,top=50,resizable=yes,scrollbars=yes,width=420,height=300'));"><img border="0" src="https://images.secureserver.net/Assets/log_afwg_sm.gif"></a> </td>
                 </tr>
                 <tr>
-                  <td class="bodyText">  <p> Go Daddy is a licensee of the <a href="http://www.truste.org/consumers/watchdog_complaint.php">TRUSTe</a> Privacy Program. If you have questions or concerns regarding this statement, you should first contact Go Daddy at TEST <a href="mailto:privacy@godaddy.com">privacy@godaddy.com</a> or call (480) 505-8800. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact <a href="http://www.truste.org/consumers/watchdog_complaint.php">TRUSTe</a>. <a href="http://www.truste.org/consumers/watchdog_complaint.php">TRUSTe</a> will then serve as a liaison with the Web site to resolve your concerns. However, please understand the <a href="http://www.truste.org/consumers/watchdog_complaint.php">TRUSTe</a> Privacy Program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. </p> <p> <b> Go Daddy complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. We will respond to your request for access to modify or delete your information within 30 days. </b> </p>   <p> <b> We will not give any information about you to others without your express permission. </b> </p><p> Our site uses forms in which you give us contact information (your name, address, daytime telephone number, and email address) so you can place orders, request information and support, and make product suggestions. We will then create an account number for you and if you choose to order from us using a credit card, we will collect your credit card number and expiration date. If you contact us for support, we will keep an internal record of what support was given. We use your customer information only when it will be important for us to contact you regarding functionality changes to our products, our web site, new Go Daddy Software services, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences. If we present a co-branded offer with our partners or affiliates, it will be clear at the point of collection who is collecting the information and whose privacy statement applies. </p> <p> We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click <a href="http://www.networkadvertising.org/optout_nonppii.asp">here</a>. </p> <p> On rare occasions, one of our partners may require us to share your personal information with them. We will only do so with your explicit permission first. </p> <p> We use information gathered about you from our site statistics (for example your IP address) to help diagnose problems with our server, and to administer our Web site. We also gather broad demographic information from this data to help us improve our site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system. </p> <p> Our site uses cookies to keep track of your shopping cart and receipts. We use <a href="https://www.godaddy.com/gdshop/secure.asp">cookies</a> to identify you so you don't have to login each time you visit our site. They are linked to your customer number which is associated with the information in your account. </p> <p> This site also contains links to other sites. Unfortunately Go Daddy is not responsible for the privacy practices or the content of such Web sites. </p> <p> <b> Security </b> </p> <p> This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Please view our <a href="https://www.godaddy.com/gdshop/secure.asp">Secure Ordering</a> page for further details. </p> <p> <b> Updating Your Information </b> </p> <p> As a customer of Go Daddy, you may alter your customer information or opt-out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your customer information. </p></td>
-                </tr>
-                <tr>
-                  <td class="bodyText">  </td>
-                </tr>
-                <tr>
-                  <td class="bodyText">  </td>
+                  <td class="bodyText">  <p> Go Daddy is a licensee of the <a href="http://www.truste.org/consumers/watchdog_complaint.php">TRUSTe</a> Privacy Program. If you have questions or concerns regarding this statement, you should first contact Go Daddy at <a href="mailto:privacy@godaddy.com">privacy@godaddy.com</a> or call (480) 505-8800. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact <a href="http://www.truste.org/consumers/watchdog_complaint.php">TRUSTe</a>. <a href="http://www.truste.org/consumers/watchdog_complaint.php">TRUSTe</a> will then serve as a liaison with the Web site to resolve your concerns. However, please understand the <a href="http://www.truste.org/consumers/watchdog_complaint.php">TRUSTe</a> Privacy Program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. </p> <p> <b> Go Daddy complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. We will respond to your request for access to modify or delete your information within thirty (30) days. </b> </p>   <p> <b> We will not give any information about you to others without your express permission. </b> </p><p> Our site uses forms in which you give us contact information (your name, address, daytime telephone number, and email address) so you can place orders, request information and support, and make product suggestions. We will then create an account number for you and if you choose to order from us using a credit card, we will collect your credit card number and expiration date. If you contact us for support, we will keep an internal record of what support was given. We use your customer information only when it will be important for us to contact you regarding functionality changes to our products, our web site, new Go Daddy services, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences. If we present a co-branded offer with our partners or affiliates, it will be clear at the point of collection who is collecting the information and whose privacy statement applies. </p> <p> We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click <a href="http://www.networkadvertising.org/optout_nonppii.asp">here</a>. </p> <p> On rare occasions, one of our partners may require us to share your personal information with them. We will only do so with your explicit permission first. </p> <p> We use information gathered about you from our site statistics (for example your IP address) to help diagnose problems with our server, and to administer our Web site. We also gather broad demographic information from this data to help us improve our site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system. </p> <p> Our site uses cookies to keep track of your shopping cart and receipts. We use <a href="https://www.godaddy.com/gdshop/secure.asp">cookies</a> to identify you so you don't have to login each time you visit our site. They are linked to your customer number which is associated with the information in your account. </p> <p> This site also contains links to other sites. Unfortunately Go Daddy is not responsible for the privacy practices or the content of such Web sites. </p>  <p> <b> For Go Daddy Marketplace Customers Only </b> </p> <p> When you purchase goods through Go Daddy Marketplace, you are granting Go Daddy express permission to share your name and contact information (as well as the “ship to” name and contact information, if different) with the merchant from which you make the purchase, for the purposes of shipping and order fulfillment only. By making a purchase from a merchant, you are not granting that merchant consent to use your information for marketing or any other purposes unless you specifically “opt in” to do so. Go Daddy has agreements with the merchants on Go Daddy Marketplace requiring them to maintain the privacy of your information; however, Go Daddy is not responsible for improper use by merchants of your information. </p> <p> When you create a storefront to offer goods for sale through Go Daddy Marketplace, you will be prompted to enter information about your business, including business name, e-mail address and telephone number (all mandatory), and address, fax number and business hours (all optional). The business information that you enter will be publicly displayed on your storefront page, and will be included in confirmation e-mails sent to people who make purchases from you. </p>  <p> <b> Security </b> </p> <p> This site has security measures in place to protect the loss, misuse and alteration of the information under our control.  Please view our <a href="https://www.godaddy.com/gdshop/secure.asp">Secure Ordering</a> page for further details.  </p> <p> <b> Updating Your Information </b> </p> <p> As a customer of Go Daddy, you may alter your customer information or opt-out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your customer information. </p></td>
                 </tr>
                 <tr>
                   <td class="bodyText">  <ol> <li> You may send an email to <a href="mailto:sales@godaddy.com"> sales@godaddy.com </a> </li> <li> You may visit your online <a href="https://www.godaddy.com/gdshop/shopper_lookup.asp?isc=">Account Manager</a> </li> <li> You may send mail to Go Daddy at the following postal address: <br> 14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA </li> <li> You may call us at: (480) 505-8800 </li> <li> Or you may fax us at (480) 505-8844 </li> </ol>  </td>
                 </tr>
                 <tr>
-                  <td class="bodyText">  </td>
+                  <td class="bodyText">  <p> <b> Sending Emails </b> </p> <p> We use emails to communicate with you, to confirm your placed orders, and to send information that you have requested. We also provide email links, as on our <a href="https://www.godaddy.com/gdshop/about.asp">"About Go Daddy"</a> page, to allow you to contact us directly. We strive to promptly reply to your messages. </p> <p> The information you send to us may be stored and used to improve this site and our products, or it may be reviewed and discarded. However, your information will only be shared with third parties with your explicit permission. </p> <p> <b> Only If We Have To </b> </p> <p> As stated previously in this policy, we will not share your personal information except with a third party to assist us in the processing or securing of your personal information or when we are required by law unless we have given you notice and choice, in the good-faith belief that such action is necessary in order to conform to the edicts of the law, or we must comply with a legal process served on our web site. We will share your information in order to comply with ICANN's rules, regulations and policies. We may also need to give out your information if one of our partners requires it, but these situations are rare. </p> <p> <b> Changes in Our Practices </b> </p> <p> If we make material changes to our information handling practices or other privacy policies, we will post those changes on this privacy statement, or notify you directly via email, at least 30 days prior to their implementation. Minor changes will be immediately effective upon reposting to this privacy statement on the Go Daddy Web site. </p> <p> <b> Service Provider </b> </p> <p> We use a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. </p> <p> <b> Contest </b> </p> <p> From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level – you must be 18 or above to enter). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. </p> <p> </p> </td>
                 </tr>
                 <tr>
-                  <td class="bodyText">  <p> <b> Sending Emails </b> </p> <p> We use emails to communicate with you, to confirm your placed orders, and to send information that you have requested. We also provide email links, as on our <a href="https://www.godaddy.com/gdshop/about.asp">"About Go Daddy"</a> page, to allow you to contact us directly. We strive to promptly reply to your messages. </p> <p> The information you send to us may be stored and used to improve this site and our products, or it may be reviewed and discarded. However, your information will only be shared with third parties with your explicit permission. </p> <p> <b> Only If We Have To </b> </p> <p> As stated previously in this policy, we will not share your personal information except with a third party to assist us in the processing or securing of your personal information or when we are required by law unless we have given you notice and choice, in the good-faith belief that such action is necessary in order to conform to the edicts of the law, or we must comply with a legal process served on our web site. We will share your information in order to comply with ICANN's rules, regulations and policies. We may also need to give out your information if one of our partners requires it, but these situations are rare. </p> <p> <b> Changes in Our Practices </b> </p> <p> If we make material changes to our information handling practices or other privacy aspects, we will post those changes on this privacy statement, at least 30 days prior to their implementation or notify you directly via email. Minor changes will be immediately effective upon reposting to this privacy policy on the Go Daddy Software Web site. </p> <p> <b> Service Provider </b> </p> <p> We use a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. </p> <p> <b> Contest </b> </p> <p> From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level – you must be 18 or above to enter). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. </p> <p> </p> </td>
+                  <td class="bodyText">  <p> <b> Tell-A-Friend </b> </p> <p> If a user elects to use our referral service for informing a friend about our site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Web site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at <a href="mailto:support@godaddy.com"> support@godaddy.com </a> to request the removal of this information from our database. <br> </p>  </td>
                 </tr>
                 <tr>
-                  <td class="bodyText">  <p> <b> Tell-A-Friend </b> </p> <p> If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit the site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at <a href="mailto:support@godaddy.com"> support@godaddy.com </a> to request the removal of this information from our database. <br> </p>  </td>
+                  <td class="bodyText"> <br> <p> <b> What Happens to my Personal Information if I Terminate my Go Daddy Account? </b> </p> <p> When Your Go Daddy account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status on our relevant Go Daddy databases. However, you should know that deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to resolve disputes or enforce our agreements. <br> </p> </td>
                 </tr>
                 <tr>
-                  <td class="bodyText">  </td>
-                </tr>
-                <tr>
-                  <td class="bodyText">  </td>
-                </tr>
-                <tr>
-                  <td class="bodyText">  </td>
-                </tr>
-                <tr>
-                  <td class="bodyText">
-	<p> </p>
-	<p><b>What Happens to my Personal Information if I Terminate my Go Daddy Account?</b></p>
-	<p>
-When Your Go Daddy account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status on our relevant Go Daddy databases. However, you should know that deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to resolve disputes or enforce our agreements.<br>
-</p>
-	</td>
-                </tr>
-                <tr>
-                  <td class="bodyText"> <p> </p> <p> <b> Contacting the Web Site </b> </p> <p> If you have any questions about our privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: </p><hr> <p></p> <p> Go Daddy <br> ATTN: Web Team <br> 14455 North Hayden Rd. <br> Suite 219 <br> Scottsdale, AZ, 85260, US <br> <br> </p> </td>
+                  <td class="bodyText"> <br> <p> <b> Contacting the Web Site </b> </p> <p> If you have any questions about our privacy statement, the practices of this Web site, or your dealings with this site, please contact us at: </p><hr> <p></p> <p> Go Daddy <br> ATTN: Web Team <br> 14455 North Hayden Rd. <br> Suite 219 <br> Scottsdale, AZ, 85260, US <br> <br> </p> </td>
                 </tr>
               </tbody>
               <tbody><tr>
                 <td>
                   <br>
                   <span class="finePrint">
-											Revised: 12/12/2008</span>
+											Revised: 2/27/2009</span>
                   <br>
                   <span class="fineprint">
 										Copyright © 
-										2000 - 2008 GoDaddy.com, Inc. All Rights Reserved.
+										2000 - 2009 GoDaddy.com, Inc. All Rights Reserved.
 									</span>
                 </td>
               </tr>
