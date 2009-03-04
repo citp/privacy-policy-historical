@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketo.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218163353id_/http%3A//www.marketo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketo.com privacy policy that was archived on 2009-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090304020036id_/http%3A//www.marketo.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - Marketo | On-demand solution for B2B lead generation
 
