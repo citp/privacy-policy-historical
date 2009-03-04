@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iherb.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013734id_/http%3A//www.iherb.com/info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iherb.com privacy policy that was archived on 2009-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090304012642id_/http%3A//www.iherb.com/info/Privacy.aspx) for the most accurate reproduction.*
 
 # iHerb.com - Privacy Policy
 
