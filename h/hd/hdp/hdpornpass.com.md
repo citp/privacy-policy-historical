@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hdpornpass.com privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911220151id_/http%3A//www.silvercash.com/service/privacy.mas) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdpornpass.com privacy policy that was archived on 2009-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090305142727id_/http%3A//www.safetybilling.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# Privacy Policy : SafetyBilling
 
 **
 
@@ -8,11 +8,11 @@ Privacy Policy Statement
 
 **
 
-This website (the "site") is licensed to CyberTrend Inc / Price Communications Inc.
+This website (the "site") is licensed to SinComm Limited.
 
 Our postal address is  
-3880 Lemon St. Suite 205  
-Riverside, California 92501 USA 
+Strovolou, 77 Strovolos Center Flat/Office 204  
+Nicosia 2018 Cyprus 
 
 We can be reached via e-mail at [privacy-1@silvercash.com](mailto:privacy-1@silvercash.com)
 
