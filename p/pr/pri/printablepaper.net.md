@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printablepaper.net privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230164807id_/http%3A//www.savetzpublishing.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printablepaper.net privacy policy that was archived on 2009-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090305041548id_/http%3A//www.savetzpublishing.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,4 +22,4 @@ Savetz Publishing web sites may use cookies to keep track of your online session
 
 Certain Savetz Publishing web sites may have separate privacy policy documents that supplement this one.
 
-Back to [Savetz Publishing](https://web.archive.org/web/20081230164807id_/http%3A//www.savetzpublishing.com/)
+Back to [Savetz Publishing](https://web.archive.org/web/20090305041548id_/http%3A//www.savetzpublishing.com/)
