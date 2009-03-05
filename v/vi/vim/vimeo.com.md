@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vimeo.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220162748id_/http%3A//www.vimeo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vimeo.com privacy policy that was archived on 2009-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090305011901id_/http%3A//vimeo.com/privacy) for the most accurate reproduction.*
 
 # Vimeo.com Privacy Policy
 
@@ -68,7 +68,7 @@ We may share aggregated, non-personal information in any of the above situations
 You may choose:
 
   * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;
-  * To stop receiving promotional emails or newsletters from us by sending an email to the contact address at the bottom of this policy or by [link to opt out page(s)];
+  * To stop receiving promotional emails or newsletters from us by sending an email to the contact address at the bottom of this policy or by [clicking here](https://web.archive.org/opt_out);
   * To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
   * To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account.
 
@@ -93,4 +93,4 @@ If you have any questions about this summary, our Privacy Policy, or our informa
 >  ATTN: Privacy Officer/Legal Dept.  
 >  [privacy@vimeo.com](mailto:privacy@vimeo.com)
 
-© 2008 Vimeo, LLC. All rights reserved.
+©2009 Vimeo, LLC. All rights reserved.
