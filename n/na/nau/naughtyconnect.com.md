@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naughtyconnect.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021342id_/http%3A//www.naughtyconnect.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naughtyconnect.com privacy policy that was archived on 2009-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090306211657id_/http%3A//www.naughtyconnect.com/privacy.php) for the most accurate reproduction.*
 
 # NaughtyConnect Adult Dating, Sex and Swingers Personals
 
