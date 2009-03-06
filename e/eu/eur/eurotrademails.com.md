@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eurotrademails.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218071930id_/http%3A//eurotrademails.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurotrademails.com privacy policy that was archived on 2009-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090306064942id_/http%3A//eurotrademails.com/pages/privacy.php) for the most accurate reproduction.*
 
 # EuroTradeMails.com
 
-**Members:** 21,282   
+**Members:** 28,334   
 **Total Payouts:** €2,349,612.19   
   
 
@@ -13,7 +13,7 @@
   
 
 |    
-[](http://depacco.com/pages/index.php?refid=tertko)   
+  
 
 
 **EuroTradeMails Respects Your Privacy**   
