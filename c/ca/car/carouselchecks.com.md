@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carouselchecks.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224005956id_/https%3A//www.carouselchecks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carouselchecks.com privacy policy that was archived on 2009-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090306234213id_/https%3A//www.carouselchecks.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of Carousel Checks
 
