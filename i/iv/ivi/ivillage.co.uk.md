@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivillage.co.uk privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509131044id_/http%3A//www.ivillage.co.uk/ivillageuk/network/articles/0%2C%2C165080_165191%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivillage.co.uk privacy policy that was archived on 2009-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090306075010id_/http%3A//www.ivillage.co.uk/ivillageuk/network/articles/0%2C%2C165080_165191%2C00.html) for the most accurate reproduction.*
 
 # iVillage UK Privacy Policy
 
