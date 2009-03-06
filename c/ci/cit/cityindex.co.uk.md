@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityindex.co.uk privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204151726id_/http%3A//www.cityindex.co.uk/apply_for_an_account/important_information/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityindex.co.uk privacy policy that was archived on 2009-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090306070414id_/http%3A//www.cityindex.co.uk/apply_for_an_account/important_information/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - City Index
 
@@ -6,7 +6,7 @@
 
 (2) The purpose of this statement is to explain to you what personal information we collect and how we and our associated companies may use it.
 
-(3). The personal information we hold is only used for establishing and managing your account, to help us identify you when you contact us and supplying you with information regarding opportunities that we believe may be of interest to you. As a result we may send you marketing material from time to time by email, telephone, fax or other electronic messaging service unless you indicate to us that you would prefer not to receive it. If you do not wish to receive this information, please [contact us](http://www.cityindex.co.uk/support/contact_us.aspx).
+(3). The personal information we hold is only used for establishing and managing your account, to help us identify you when you contact us and supplying you with information regarding opportunities that we believe may be of interest to you. As a result we may send you marketing material from time to time by email, telephone, fax or other electronic messaging service unless you indicate to us that you would prefer not to receive it. If you do not wish to receive this information, please [contact us](http://cityindex.co.uk/support/contact_us.aspx).
 
 (4) We, and our associated companies, may disclose your personal information to successors in title to our business and suppliers we engage to process data on our behalf. However, we do not sell, rent or exchange your personal information with any third party for commercial reasons, beyond the essential requirement for debit card validation when depositing or withdrawing funds, credit agencies should you wish to open a credit account with City Index and fraud prevention agencies.
 
