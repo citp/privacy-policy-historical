@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokyowebdesigns.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216033743id_/http%3A//www.tokyowebdesigns.com/eng/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyowebdesigns.com privacy policy that was archived on 2009-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090306070233id_/http%3A//www.tokyowebdesigns.com/eng/privacy.php) for the most accurate reproduction.*
 
 # Tokyo Web Designs - Privacy | English-Japanese Webpage Developers | Japan
 
@@ -44,4 +44,4 @@ The Site may contain links to other sites. With the exception of other sites ope
 
 ### Further queries
 
-If we become aware of any ongoing concerns or problems with the Site, we will take the issue seriously and work to address your concerns. If you have any queries about this Privacy Policy, or have a problem or complaint, then you should contact us via our [contact page](https://web.archive.org/web/20081216033743id_/http%3A//www.tokyowebdesigns.com/eng/contact.php).
+If we become aware of any ongoing concerns or problems with the Site, we will take the issue seriously and work to address your concerns. If you have any queries about this Privacy Policy, or have a problem or complaint, then you should contact us via our [contact page](https://web.archive.org/web/20090306070233id_/http%3A//www.tokyowebdesigns.com/eng/contact.php).
