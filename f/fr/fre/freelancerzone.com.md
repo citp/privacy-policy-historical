@@ -1,48 +1,33 @@
-> *The following text is extracted and transformed from the freelancerzone.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213222738id_/http%3A//www.scriptsagent.com/privacy-policy/info_4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancerzone.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307165447id_/http%3A//www.freelancerzone.com/pages/page.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Scripts Agent PHP CGI Scripts Store (Powered by CubeCart)
+# Custom Web Design and Programming. Freelance Programmers. Outsource Web Development Outsourcing
 
-Privacy Policy
+**Privacy Statement for Freelancerzone.com**
 
- **Our Commitment To Privacy**
+**Freelancerzone.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Freelancerzone.com 
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+  
+For each visitor to Freelancerzone.com web site, our web server automatically recognizes only the consumer's domain name, but not the e-mail address. Freelancerzone.com collects only the domain name, but not the e-mail address of visitors to our web site, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations. The information we collect is used to improve the content of our web site, used to notify consumers about updates to our web site, not shared with other organizations for commercial purposes. 
 
-### The Information We Collect: 
+When you participate on the Freelancerzone.com web site, we request certain information. Freelancerzone.com does not share any of your personally identifiable or transactional information with any person or entity. No other third party receives your personally identifiable information or other transactional data except for those with whom you have transactions. 
 
-This notice applies to all information collected or submitted on this website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+If you supply Freelancerzone.com with your postal address on-line you will only receive the information for which you provided us your address. Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line. 
 
-Name   
-Address   
-Email address   
-Phone number 
+Personally Identifiable Information-When visiting Freelancerzone.com's or any Client's Web site and signing up for or using Freelancerzone.com services through any Service Page, you may choose to supply Freelancerzone.com with information that identifies users personally. For End-Users (Suppliers of Service), this information may include name and contact information, gender, birth date, occupation and industry, shipping and billing information, credit card numbers and other payment information, behavior patterns, purchase history, and other information. 
 
-On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are: 
+From time to time, Freelancerzone.com may use customer information for new, innovative and unanticipated uses not previously disclosed or described in our privacy notice. If our information practices change at some time in the future we will post the policy changes to the Freelancerzone.com web site to notify you of these changes and provide you with the ability to opt out of these new uses or changes. If you are concerned about how your information is used, you should check back at our web site periodically. 
 
-Name   
-Address   
-Phone Number 
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by contacting us here . Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. 
 
-### The Information We DONT Collect:
+Aggregate Information--Freelancerzone.com collects non-identifying, general, generic and aggregate information to better design our Web site and services, and shares the aggregate data with advertisers and other third parties. With respect to security: Freelancerzone.com uses industry-standard encryption technologies when transferring and receiving consumer and transaction data exchanged with our site. 
 
-Credit/Debit Card Information 
+  
+**Contacting the Web Site**  
 
-### The Way We Use Information:
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please use: 
 
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
+[Contact us](http://www.freelancerzone.com/support/support_center.php)
 
-We offer gift-cards by which you can personalize a product you order for another person. Information you provide to us to create a gift-card is only used for that purpose, and it is only disclosed to the person receiving the gift. 
+  
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
-
-You can register with our website if you would like to receive our catalog as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
-
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
-
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
-
-### Our Commitment To Data Security
-
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
