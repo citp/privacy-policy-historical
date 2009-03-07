@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quill.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217042805id_/http%3A//www.quill.com/Content/iw/site/Policy/C_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quill.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307020312id_/http%3A//www.quill.com/content/iw/site/policy/c_privacy.aspx) for the most accurate reproduction.*
 
 # Help | Quill.com
 
