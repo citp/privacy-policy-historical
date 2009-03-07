@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essex.ac.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015029id_/http%3A//www.essex.ac.uk/site/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essex.ac.uk privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307060421id_/http%3A//www.essex.ac.uk/site/privacy_policy.aspx) for the most accurate reproduction.*
 
 # University of Essex :: Website privacy policy
 
@@ -6,9 +6,9 @@
 
 This statement explains what information we gather when you visit the University of Essex website and informs you how this information is used and protected. The University hosts a number of websites on various webservers: this policy covers websites hosted at www.essex.ac.uk, www2.essex.ac.uk, courses.essex.ac.uk, courses2.essex.ac.uk, moodle.essex.ac.uk, libwww.essex.ac.uk, and perception.essex.ac.uk; other University of Essex webservers have their own privacy policies. University web pages link to external websites: the University has no responsibility for privacy or other legal issues relating to these external sites. 
 
-This privacy policy, and the ways in which personal data may be gathered and processed via this website, are subject to review and development and any such changes will only be notified by this page. 
+This privacy policy, and the ways in which personal data may be gathered and processed via this website, are subject to review and development and any such changes will only be notified by this page.
 
-**This policy was last reviewed on 10 March 2008.**
+**This policy was last reviewed on 03 March 2009.**
 
 ## What data is collected?
 
