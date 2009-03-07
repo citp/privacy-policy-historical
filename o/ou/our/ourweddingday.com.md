@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourweddingday.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015842id_/http%3A//www.ourweddingday.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourweddingday.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307053617id_/http%3A//www.ourweddingday.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # OurWeddingDay: Privacy Policy
 
