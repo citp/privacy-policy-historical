@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the next.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216062149id_/http%3A//www.next.co.uk/help/WinHelpSC.asp%3FLID%3D01_99_02) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the next.co.uk privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307055714id_/http%3A//www.next.co.uk/help/WinHelpSC.asp%23LID%3D01_99_01) for the most accurate reproduction.*
 
-# NEXT Directory Online : Privacy Policy
+# Next: Official Site - Privacy Policy
 
 ### Security
 
-Next Directory take on-line security very seriously and are a registered secure site under [Verisign Certificate Authority](http://www.verisign.co.uk/index.html).
+Next Directory take on-line security very seriously and uses a registered secure site under [Verisign Certificate Authority](http://www.verisign.co.uk/index.html).
 
 _How do we protect your information?_
 
@@ -27,15 +27,13 @@ Click on the padlock within the address bar of your browser to bring up the secu
 
 _At the Verisign web site_
 
-The Verisign web site enables you to validate the security of our pages online. [Validate our secure server](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=next.co.uk&lang=en).
-
-Alternatively, click on the Verisign Secured Seal throughout secure areas of next.co.uk.
+The Versign web site enables you to validate the security of our pages online, click on the Verisign Secured Seal throughout secure areas of next.co.uk.
 
 The security measures described above ensure that all reasonable steps are taken to protect your personal information. However, the nature of the Internet means that an absolute guarantee of security cannot be offered, and you should be aware that there may be a small security risk in exceptional circumstances when disclosing information online.
 
 ### Privacy
 
-Next are committed to complying with the Data Protection Act 1998 and have published this guide to help you understand how and why Next collect information from you, to whom such information is disclosed and what your rights are. You can access our Website home page and browse our site without disclosing your personal data.  
+Next are committed to complying with the Data Protection Act 1998 and have published this guide to help you understand how and why Next collect information from you, to whom such information is disclosed and what your rights are. If we make changes to this Policy we will notify you by updating this statement on our website. You can access our Website home page and browse our site without disclosing your personal data.  
 However, when you register with Next you will be asked to provide certain information about yourself.
 
 _What information do we collect and how do we obtain it?_
@@ -52,11 +50,13 @@ We use the information that we collect about you to:
   2. Manage your account - see also "Use of credit reference agency information".
   3. Administer this website.
   4. Monitor customer traffic patterns and site usage to help us develop and improve the design and layout of the site.
-  5. Notify you about enhancement to our services, such as changes to the website, new services and special offers that may be of interest.
+  5. Notify you about enhancement to our services, such as changes to the website, new services and special offers that may be of interest. We may contact you by mail, telephone or email with offers from the following Next Group Companies: Next Retail Limited and Lipsy Limited.
 
 
 
-If you have given us permission to send you information about our products and services by telephone, email or in writing, NEXT will do so in accordance with the Privacy and Electronic Communications Regulations 2003 and the Direct Marketing Association (DMA) Code of Practice. Use of Credit Reference Agency Information and sharing of credit information. In the interests of responsible lending and for security purposes we carry out searches with credit reference agencies when you register with Next and further searches may be carried out before deciding whether to accept orders and/or grant further credit. The agencies record these searches. We also share information about you and the conduct of your account with credit reference agencies, other lenders and relevant third parties.  
+### Use of Credit Reference Agency Information and sharing of credit information.
+
+In the interests of responsible lending and for security purposes we carry out searches with credit reference agencies when you register with Next and further searches may be carried out before deciding whether to accept orders and/or grant further credit. The agencies record these searches. We also share information about you and the conduct of your account with credit reference agencies, other lenders and relevant third parties.  
 Information about you and other members of your household and those with whom you are financially linked will be used to verify your identity and for the credit assessment of you and them.  
 We may also use your information for payment recovery or fraud and debt tracing. We will pass on details of defaulting accounts to debt collection agencies.  
 For details of the Credit Reference Agencies that we receive information from and share information with write to the Group Data Protection Manager at [Head Office](https://web.archive.org/Help/WinHelpHO.asp "click to view head office postal address") or via [dataprotection@next.co.uk](mailto:dataprotection@next.co.uk?subject=Security%20and%20Privacy%20Enquiry "mailto:dataprotection@next.co.uk"), quoting Security and Privacy Enquiry.
@@ -68,10 +68,11 @@ We use information about you for purposes other than the provision of a website 
   1. Credit Reference Agencies - for more information see above.
   2. Legal and debt recovery representatives for debt collection and debtor tracing purposes.
   3. Reputable companies to fulfil your order or process your data on our behalf.
+  4. Next Group Companies.
 
 
 
-Next will not share your information with companies outside Next for marketing purposes. Please be aware that if we are requested, by the police or any other regulatory or Government authority investigating suspected illegal activities, to provide your information and/or use your information, we are entitled to do so.
+Next will not share your information with companies outside of the Next Group for marketing purposes. Please be aware that if we are requested, by the police or any other regulatory or Government authority investigating suspected illegal activities, to provide your information and/or use your information, we are entitled to do so.
 
 ### Keeping in touch with you
 
@@ -112,6 +113,21 @@ As part of our efforts to make further improvements to the service we provide to
 ### Contact Us
 
 If you have any questions relating to this policy or the use by Next of personal data please write to the Group Data Protection Manager at [Head Office](https://web.archive.org/Help/WinHelpHO.asp "click to view head office postal address") or via [dataprotection@next.co.uk](mailto:dataprotection@next.co.uk?subject=Security%20and%20Privacy%20Enquiry "mailto:dataprotection@next.co.uk"), quoting Security and Privacy Enquiry.
+
+We may also use your information, including shopping habits, to open and run your credit account including payment recovery, fraud prevention and debt tracing and for our marketing.
+
+We may contact you for marketing purposes by email, mail or telephone with relevant offers from the following Next Group Companies: Next Retail Limited and Lipsy Limited.
+
+Next Directory is a trading name of Next Retail Ltd and a member of Next Group Plc. Some of the information you provide may be transferred outside the European Economic Area for processing. However, strict rules regarding the confidentiality of security of your information are in place to safeguard it.
+
+### Head Office Contact Details
+
+Group Data Protection Manager  
+Next Retail Ltd.  
+Desford Road,  
+Enderby,  
+Leicester.  
+LE19 4AT 
 
 |   | [](http://www.dma.org.uk/)  
 ---|---|---
