@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the napaonline.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013016id_/http%3A//www.napaonline.com/misc/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napaonline.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307022807id_/http%3A//www.napaonline.com/misc/privacypolicy.aspx) for the most accurate reproduction.*
 
 # NAPAONLINE®
 
@@ -8,12 +8,12 @@ Read our terms and conditions of use. At NAPAONLINE®, we are committed to prote
 
 The following are some common questions that may arise with regard to NAPAONLINE® and the information which we request from our customers at different points in our website. 
 
-[What information Does NAPAONLINE® Collect?](https://web.archive.org/web/20081216013016id_/http%3A//www.napaonline.com/misc/PrivacyPolicy.aspx#1)  
-[How Does NAPAONLINE® Use the Information It Collects?](https://web.archive.org/web/20081216013016id_/http%3A//www.napaonline.com/misc/PrivacyPolicy.aspx#2)  
-[How Does NAPAONLINE® Protect the Information It Collects?](https://web.archive.org/web/20081216013016id_/http%3A//www.napaonline.com/misc/PrivacyPolicy.aspx#3)  
-[Does NAPAONLINE® Share Its Information with Other Companies?](https://web.archive.org/web/20081216013016id_/http%3A//www.napaonline.com/misc/PrivacyPolicy.aspx#4)  
-[What are "Cookies" and How Are They Used by NAPAONLINE®?](https://web.archive.org/web/20081216013016id_/http%3A//www.napaonline.com/misc/PrivacyPolicy.aspx#5)  
-[Can Customers Update or Change Their Information Once It has been Input?](https://web.archive.org/web/20081216013016id_/http%3A//www.napaonline.com/misc/PrivacyPolicy.aspx#6)
+[What information Does NAPAONLINE® Collect?](https://web.archive.org/web/20090307022807id_/http%3A//www.napaonline.com/misc/PrivacyPolicy.aspx#1)  
+[How Does NAPAONLINE® Use the Information It Collects?](https://web.archive.org/web/20090307022807id_/http%3A//www.napaonline.com/misc/PrivacyPolicy.aspx#2)  
+[How Does NAPAONLINE® Protect the Information It Collects?](https://web.archive.org/web/20090307022807id_/http%3A//www.napaonline.com/misc/PrivacyPolicy.aspx#3)  
+[Does NAPAONLINE® Share Its Information with Other Companies?](https://web.archive.org/web/20090307022807id_/http%3A//www.napaonline.com/misc/PrivacyPolicy.aspx#4)  
+[What are "Cookies" and How Are They Used by NAPAONLINE®?](https://web.archive.org/web/20090307022807id_/http%3A//www.napaonline.com/misc/PrivacyPolicy.aspx#5)  
+[Can Customers Update or Change Their Information Once It has been Input?](https://web.archive.org/web/20090307022807id_/http%3A//www.napaonline.com/misc/PrivacyPolicy.aspx#6)
 
 What information does NAPAONLINE® Collect?
 
