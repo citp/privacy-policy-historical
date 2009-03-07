@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerinput.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223060112id_/http%3A//consumerinput.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerinput.com privacy policy that was archived on 2009-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090308002703id_/http%3A//consumerinput.com/privacy) for the most accurate reproduction.*
 
 # Consumer Input - Privacy Statement
 
