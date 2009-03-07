@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urb.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217102445id_/http%3A//www.urb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urb.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307021058id_/http%3A//www.urb.com/privacy.php) for the most accurate reproduction.*
 
 # URB Magazine :: Fresh Noise Daily
 
