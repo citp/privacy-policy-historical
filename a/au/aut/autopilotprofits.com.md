@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autopilotprofits.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216033620id_/http%3A//www.autopilotprofits.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autopilotprofits.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307050605id_/http%3A//www.autopilotprofits.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
