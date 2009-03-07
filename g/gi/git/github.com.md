@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the github.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223065407id_/http%3A//github.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the github.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307235612id_/http%3A//github.com/site/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — GitHub
+# Privacy Policy - GitHub
 
 ## General Information
 
