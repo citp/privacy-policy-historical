@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viator.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217114351id_/http%3A//www.viator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viator.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307223907id_/http%3A//www.viator.com/privacy-policy) for the most accurate reproduction.*
 
 # Viator Customer Care - 24/7 Assistance | Viator.com
 
