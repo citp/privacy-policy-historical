@@ -1,31 +1,27 @@
-> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217142947id_/http%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307014304id_/http%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
 
-# Refurbished Computers, Laptops, Monitors - Cheap Prices!
+# Our Policy in Summary - Tech for Less
 
-## Our Policy in Summary:
-
-Your information is safe with us. We do not sell, rent or otherwise share your information with anyone. Tech for Less LLC is a member of the Better Business Bureau (BBB) and has the earned the Online Reliability Seal. |   
+Your information is safe with us. We do not sell, rent or otherwise share your information with anyone. Tech for Less LLC is a member of the Better Business Bureau (BBB) and has the earned the Online Reliability Seal. |      
 ---|---  
   
-
-
 ### What Personally Identifiable Information Is Collected When Making a Purchase?
 
-When you make a purchase on our site, you provide the following information:  
+When you make a purchase on our site, you provide the following information:   
 \- Name   
 \- E-mail address   
 \- Billing and shipping address   
 \- Telephone number   
-\- Credit card number and expiration date, or other form of payment   
-  
+\- Credit card number and expiration date, or other form of payment 
+
 ### Data Security:
 
-Tech for Less LLC uses a secured network to handle your personal information. A secured server is used and information is transmitted via SSL encryption. This security technology makes it safe to enter and transmit your credit card over the Internet by providing the following protections: |   
----|---  
-Server authentication - keeps out imposters  
-Privacy using encryption - keeps out eavesdroppers  
-Data integrity - keeps out vandals   
-  
+Tech for Less LLC uses a secured network to handle your personal information. A secured server is used and information is transmitted via SSL encryption. This security technology makes it safe to enter and transmit your credit card over the Internet by providing the following protections: 
+
+Server authentication - keeps out imposters   
+Privacy using encryption - keeps out eavesdroppers   
+Data integrity - keeps out vandals 
+
 ### Personal Information:
 
 Personal information relating to you and your order history are only available to employees of Tech for Less LLC and cannot be modified by web visitors. We do not store your information nor your credit card number on our Web Site. 
@@ -53,8 +49,6 @@ Personal information relating to you and your order history are only available t
 ### Opt-out:
 
 Tech for Less LLC will give visitors a choice whether they wish to be on the mailing list, receive promotions, information or updates about the site. The visitor may choose to remove their name from the site's mailing list by clicking the "remove" link at the bottom of any promotional email communication. 
-
-We work with FetchBack to display Retargeted ads to our site prospects, on our behalf, across the Internet. They collect Non-Personally Identifiable Information about your visits to our Website, and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No Personally Identifiable Information is collected during in this process. To read FetchBack’s Privacy Policy, click [here](http://www.fetchback.com/privacy.html). If you do not want FetchBack to collect this information, you may opt out of their service. Opting out will not in any way effect your use of our site. To Opt-Out of FetchBack Retargeting, please click [here](http://www.fetchback.com/optout.html).
 
 ### Data Sharing:
 
@@ -96,17 +90,10 @@ M-F 8:00am to 6:00pm MST
 
   
 Local Phone: 1-719-886-8000  
-Fax: 1-719-886-8001 
+Fax: 1-719-886-8001
 
 E-mail: [sales@techforless.com](mailto:sales@techforless.com)  
   
 ---|---  
-**Tech for Less LLC**  
----  
-Outlet Store Location: |     | Toll Free: 1-866-880-1230  
-1610 Garden of the Gods Rd. |     | Local Phone: 1-719-886-8000  
-Colorado Springs, CO 80907 |     | Fax: 1-719-886-8001  
-   
-M-F 7:30am to 6:30pm MST |     | Sales/Product Questions: [sales@techforless.com](mailto:sales@techforless.com)  
-Sat 9:00am to 4:00pm MST |     | After Sales Support: [customerservice@techforless.com](mailto:customerservice@techforless.com)  
-Sun 11:00am to 4:00pm MST |     |  
+  
+*Lowest internet price is the lowest price we've recently found on the Web from another reputable merchant.
