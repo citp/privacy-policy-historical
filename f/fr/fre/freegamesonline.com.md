@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freegamesonline.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226062037id_/http%3A//freegamesonline.com/page/3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegamesonline.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307223201id_/http%3A//www.freegamesonline.com/page/3.html) for the most accurate reproduction.*
 
-# Free Games Online | Games Online | Free Games | Freegamesonline - Play Free Online Games
+# Free Games Online | Games Online | Free Games | Free Online Games - Play Free Online Games
 
 ### Privacy
 
