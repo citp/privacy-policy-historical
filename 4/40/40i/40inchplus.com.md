@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 40inchplus.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628005651id_/http%3A//service.adultprovide.com/docs/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 40inchplus.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307013316id_/http%3A//service.adultprovide.com/docs/privacy.htm) for the most accurate reproduction.*
 
 # RealityKings Privacy Policy
 
