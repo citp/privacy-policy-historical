@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comparetheinsurance.com privacy policy that was archived on 2008-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081029213218id_/http%3A//www.comparetheinsurance.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparetheinsurance.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307122744id_/http%3A//www.comparetheinsurance.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy of ComparetheInsurance
 
@@ -16,4 +16,4 @@ We store information we collect through server log files and/or secure databases
 
 Use of Cookies
 
-ComparetheInsurance uses cookies to increase the user experience. and to make the site more useful. For more information on my privacy policy , please [contact us ](https://web.archive.org/web/20081029213218id_/http%3A//www.comparetheinsurance.com/contact.php). 
+ComparetheInsurance uses cookies to increase the user experience. and to make the site more useful. For more information on my privacy policy , please [contact us ](https://web.archive.org/web/20090307122744id_/http%3A//www.comparetheinsurance.com/contact.php). 
