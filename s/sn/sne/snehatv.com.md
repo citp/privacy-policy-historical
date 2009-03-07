@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snehatv.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205183429id_/http%3A//www.snehatv.com/Privacy-Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snehatv.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307183938id_/http%3A//www.snehatv.net/Privacy-Policy.asp) for the most accurate reproduction.*
 
 # Welcome to Sneha TV, Watch TV9 Telugu Live, TV9 Kannada Live, 9PM with Ravi Prakash, Question Hour, Naveena, Praja Paksham, Morning News, Midday News, Evening News, Open Forum, Telugu Music, Video Clips, TANA, TANA 2007.
 
@@ -6,7 +6,7 @@
 
 Sneha TV, LLC. ("Sneha TV") recognizes that its customers, visitors, users, and others who use www.SnehaTV.com or other web sites owned or operated by Sneha TV (the "Sneha TV Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Sneha TV Sites. Sneha TV provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Sneha TV Sites.
 
-This Privacy Notice is incorporated into and is subject to the Sneha TV [Terms of Use](https://web.archive.org/web/20071205183429id_/http%3A//www.snehatv.com/terms-conditions.asp). Your use of the Sneha TV Sites and any personal information you provide on the Sneha TV Sites remains subject to the terms of this Privacy Notice and our [Terms of Use](https://web.archive.org/web/20071205183429id_/http%3A//www.snehatv.com/terms-conditions.asp).
+This Privacy Notice is incorporated into and is subject to the Sneha TV [Terms of Use](https://web.archive.org/web/20090307183938id_/http%3A//www.snehatv.net/terms-conditions.asp). Your use of the Sneha TV Sites and any personal information you provide on the Sneha TV Sites remains subject to the terms of this Privacy Notice and our [Terms of Use](https://web.archive.org/web/20090307183938id_/http%3A//www.snehatv.net/terms-conditions.asp).
 
 Please note that any video, image, or other content posted at the direction of Users onto the Sneha TV Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
 
@@ -48,14 +48,14 @@ Please note that any video, image, or other content posted at the direction of U
 
   * We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.
 
-  * Sneha TV also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Sneha TV believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](https://web.archive.org/web/20071205183429id_/http%3A//www.snehatv.com/terms-conditions.asp), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Sneha TV, our Users or others.
+  * Sneha TV also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Sneha TV believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](https://web.archive.org/web/20090307183938id_/http%3A//www.snehatv.net/terms-conditions.asp), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Sneha TV, our Users or others.
 
 
 
 
 #### **_Your Choices_**
 
-You may, of course, decline to submit personally identifiable information through the Sneha TV Sites, in which case Sneha TV may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. Please note that media files uploaded by Users to the Sneha TV Sites cannot be removed and remain subject to our [Terms of Use](https://web.archive.org/web/20071205183429id_/http%3A//www.snehatv.com/terms-conditions.asp)
+You may, of course, decline to submit personally identifiable information through the Sneha TV Sites, in which case Sneha TV may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. Please note that media files uploaded by Users to the Sneha TV Sites cannot be removed and remain subject to our [Terms of Use](https://web.archive.org/web/20090307183938id_/http%3A//www.snehatv.net/terms-conditions.asp)
 
 To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
@@ -81,7 +81,7 @@ Protecting the privacy of young children is especially important. For that reaso
 
 #### **_Special Note to International Users_**
 
-The Sneha TV Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the Sneha TV Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Sneha TV Sites, which are governed by U.S. law, this Privacy Notice, and our [Terms of Use](https://web.archive.org/web/20071205183429id_/http%3A//www.snehatv.com/terms-conditions.asp), you are transferring your personal information to the United States and you consent to that transfer.
+The Sneha TV Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the Sneha TV Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Sneha TV Sites, which are governed by U.S. law, this Privacy Notice, and our [Terms of Use](https://web.archive.org/web/20090307183938id_/http%3A//www.snehatv.net/terms-conditions.asp), you are transferring your personal information to the United States and you consent to that transfer.
 
 #### **_In the Event of Merger, Sale, or Bankruptcy_**
 
