@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alternativeairlines.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219153026id_/http%3A//www.alternativeairlines.com/privacy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternativeairlines.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307022222id_/http%3A//www.alternativeairlines.com/privacy) for the most accurate reproduction.*
 
-# Flights - alternativeairlines.com - Privacy
+# <h1>Privacy Policies</h1> - Alternative Airlines
 
 The following discloses the information gathering and dissemination practices for this web site.
 
@@ -20,8 +20,8 @@ You will not receiving mailings from us unless you have at any time registered y
 
 ### Data Quality/Access
 
-This site gives you the option to changing and modifying information previously provided by contacting us using the [feedback form](https://web.archive.org/web/20081219153026id_/http%3A//www.alternativeairlines.com/aa/contactus.cfm).
+This site gives you the option to changing and modifying information previously provided by contacting us using the [feedback form](https://web.archive.org/web/20090307022222id_/http%3A//aa/contactus.cfm).
 
 ### Contacting the Web Site Owners
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us using the [feedback form](https://web.archive.org/web/20081219153026id_/http%3A//www.alternativeairlines.com/aa/contactus.cfm).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us using the [feedback form](https://web.archive.org/web/20090307022222id_/http%3A//aa/contactus.cfm).
