@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zyoin.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217081209id_/http%3A//zyoin.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zyoin.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307043938id_/http%3A//zyoin.com/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Job Referral, Refer a Job, Recruitment Marketplace,India-Zyoin.com
 
   * This privacy policy pertains to the use of the Zyoin website at http://www.Zyoin.com.
   * This privacy policy covers how Zyoin treats personal information that Zyoin collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number.
