@@ -1,72 +1,53 @@
-> *The following text is extracted and transformed from the isearch.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204052348id_/http%3A//isearch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isearch.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307034245id_/http%3A//www.isearch.com/privacy.html) for the most accurate reproduction.*
 
-# iSearch - Searching Made Simple
+# iSearch - Social Directory - Privacy
 
-**Information Collection**
+## iSearch Privacy Policy
 
-iSearch.com is the sole owner of the information collected on www.isearch.com.  iSearch.com collects no information from our users on our Web site.
+This Privacy Policy explains our information practices for the iSearch website which is owned and controlled by Intelius Inc. We want you to understand how we may use your information, before you provide it. The purpose of this policy is to inform you of what type of information (if any) we gather and track, how we may use that information, and with whom we may share that information. 
 
-**Cookies**
+##### Personal Information:
 
-A cookie is a piece of data stored on the user's computer tied to information about the user.  Usage of a cookie is linked to personally identifiable information while on our site. We use cookies for non personally identifiable information purposes of tracking the sales path.  iSearch.com uses both session ID cookies and persistent cookies.  For the session ID cookie, once users close the browser, the cookie simply terminates. Cookies can be managed via your Internet Browser. Failure to enable cookies may result in your inability to use certain portions of our web site.
+You can visit iSearch on the Internet without telling us who you are and without giving any personal information about yourself. However, you may choose to give us personal information in a variety of situations. For example, you may want to give us information such as your name and address or e-mail ID so we may correspond with you, or provide you with subscription or service opportunities. If you tell us that you do not want us to use information you provide to make further contact with you beyond fulfilling your requests, we will respect your wishes. If you give us personal information about somebody else, we will assume that you have their prior permission to do so. 
 
-**Log Files**
+##### Using and Sharing Personal Information:
 
-Like most standard Web site servers we use log files.  This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for  aggregate use.  IP addresses, etc. are linked to personally identifiable information for the purpose of order tracking and product delivery authentication.
+The following paragraphs describe in more detail how we may use the information you provide to us on the iSearch site and with whom we may share it. Depending on the part of the iSearch site you are visiting, one or more of the following paragraphs may apply 
 
-**Sharing**
+##### Fulfilling Your Request:
 
-**Legal Disclaimer**
+If you request something from or through the iSearch Web site (for example, more information on a product or service or a callback) we will use the information you provide to fulfill your request. To help us do this, we may share information with others. For instance, our affiliates, business partners, financial institutions, or postal or government authorities may participate in fulfilling your request. 
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such  action is necessary to comply with a current judicial proceeding, a court order  or legal process served on our Web site. 
+##### Marketing Use:
 
-Aggregate Information (non-personally identifiable) 
+The information you provide on or through the iSearch site also may be used, with your permission, by Intelius, its affiliates and/or selected third parties for marketing purposes. We will not use this information unless you give us your permission to do so. 
 
-We share aggregated demographic information with our partners and advertisers.  
+##### Links to Other Websites:
 
-**These are the instances in which we will share users  personal information: **
+In some cases, when you are seeking further information about a person you are searching, you may see links or advertisements about information and data available to you through other websites. For example, if you find an old classmate through the iSearch site, you may be able to gather more detailed information such as a phone number or address, subject to certain terms and conditions, through [www.intelius.com](http://www.intelius.com/redir.php?qvar=tezHJBEm5gQTAVR5QYyJQwYD40zQUKRHV4BRYAPe4J1RwETiwZXgEafGEyWlKUEBRW). You should carefully review the privacy and personal information policies of any advertised or linked websites before providing any personal information or purchasing any product or service from them. We are not responsible for the privacy practices or the content of third party Web sites. 
 
-We DO NOT Share Personal Information with Third Parties. 
+##### Information Security:
 
-**Business Transitions**
+We protect your personal information and maintain its quality. We implement measures and processes to help us keep your information secure. 
 
-In  the event iSearch.com goes through a business transition, such as a  merger, being acquired by another company, or selling a portion of its assets,  users' personal information will, in most instances, be part of the assets  transferred. For more information see our "Notification of Changes" section below. 
+##### Cookies, and Other Web Technologies:
 
-**Choice/Opt-out**
+We sometimes collect non-identifiable information from visits to the iSearch site to help us provide better customer service. For example, we keep track of the domains from which people visit and we measure visitor activity on iSearch, but we do so in ways that keep our visitors\' identities anonymous. We may use this data to analyze trends and statistics and to help us provide better user service. 
 
-Our  users are given the opportunity to 'opt-out' of having their information used  for purposes not directly related to our site.  
+We collect the information we mentioned in the previous paragraphs through the use of various technologies, including one called "cookies". A cookie is a piece of data that a Web site can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer but not you. Some iSearch pages use cookies, sent by Intelius or its third party vendors, or other technologies to better serve you when you return to the Web site. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You also can set your browser to turn off cookies. If you do so, however, some Web sites may not work properly. 
 
-Users  who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the  subject line in the email or email us at webmaster@isearch.com . 
+##### Online Advertising:
 
-Users  of our site are always notified when their information is being collected by  any outside parties.  We do this so our  users can make an informed choice as to whether or not they should proceed with  services that require an outside party. 
+Certain companies help us deliver interactive on-line advertising. These companies may collect and use information about customers to help us better understand the offers, promotions, and types of advertising that are most appealing to our customers. After the information is collected, it is aggregated so it is not identifiable to a specific individual. 
 
-**Links**
+##### Disclosures Required By Law:
 
-This Web site contains links to other sites. Please be aware that we, iSearch.com, are not responsible for the privacy practices of such other sites.  We encourage our users to be aware when they leave our site and to read the privacy statements of each and  every Web site that collects personally identifiable information.  This privacy statement applies solely to  information collected by this Web site even for instances where the site is associated or affiliated with other brands.
+Please be aware that in certain circumstances, it is possible that personal information may be subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders. 
 
-**Third Party Advertising**  
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here  
-http://www.maxonline.com/privacy_policy/index.php
+##### Enforcement:
 
-**Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+Intelius regularly reviews its compliance with this policy. Please feel free to direct any questions or concerns regarding this policy by sending an email to privacy@iSearch.com or by writing us at iSearch Privacy c/o Intelius, 500 108th AVE NE, 25th Floor, Bellevue, WA 98004. It is our policy to contact the inquiring user regarding his or her questions. 
 
-**Supplementation of Information**
+##### Changes to this Policy:
 
-In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources. 
-
-**Notification of Changes**
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are  always aware of what information we collect, how we use it, and under what  circumstances, if any, we disclose it.  
-
-If, however, we are going to use users' personally identifiable information in a  manner materially different from that stated at the time of collection we will notify  users by posting a notice on our Web site for 30 days.  An email may be sent with information on policy changes.
-
-**Contact Information**
-
-If users have any questions or suggestions regarding our privacy policy, please  contact us at: 
-
-webmaster@isearch.com 
-
-iSearch.com  
-701 Brazos Suite 500  
-Austin, TX 78701
+This Privacy Policy may occasionally change. Any Policy changes will be posted to this page. Each version of this policy will be denoted at the top of this page by its effective date. 
