@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quityourdayjob.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217113556id_/http%3A//www.quityourdayjob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quityourdayjob.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307020650id_/http%3A//www.quityourdayjob.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Quit Your Day Job
 
@@ -32,7 +32,7 @@ If you choose to correspond with us through email, we may retain the content of 
 
 Once you have purchased one of our products or services you may have access to our exclusive members-only forums. If you decide to use the forums on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-Any member of the forum who sends unsolicited messages to other members may be permanently removed from our forums. If you have received an unsolicited message from any member of the forum, please let us know by e-mailing us at <http://www.quityourdayjob.com/contact>. 
+Any member of the forum who sends unsolicited messages to other members may be permanently removed from our forums. If you have received an unsolicited message from any member of the forum, please let us know by e-mailing us at [http://www.quityourdayjob.com/contact](https://web.archive.org/web/20090307020650id_/http%3A//www.quityourdayjob.com/contact.html). 
 
 **2\. Web Site Usage Information:**
 
@@ -40,11 +40,11 @@ Similar to other commercial Web sites, our Web site utilizes a standard technolo
 
 Some of our business partners; including advertisers, and web analytics providers use cookies on our site. We have no access to or control over these cookies.
 
-This privacy statement covers the use of cookies by [www.quityourdayjob.com](http://www.quityourdayjob.com/ "www.quityourdayjob.com") only and does not cover the use of cookies by any advertisers.
+This privacy statement covers the use of cookies by [www.quityourdayjob.com](https://web.archive.org/web/20090307020650id_/http%3A//www.quityourdayjob.com/index.html "www.quityourdayjob.com") only and does not cover the use of cookies by any advertisers.
 
 **How Do We Use the Information That You Provide to Us?**
 
-Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at <http://www.quityourdayjob.com/contact>
+Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at [http://www.quityourdayjob.com/contact](https://web.archive.org/web/20090307020650id_/http%3A//www.quityourdayjob.com/contact.html)
 
 **What Are Cookies?**
 
@@ -60,7 +60,7 @@ We will not sell or share your personally identifiable information with any thir
 
 **Notice of New Services and Changes**
 
-Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email request at <http://www.quityourdayjob.com/contact>
+Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email request at [http://www.quityourdayjob.com/contact](https://web.archive.org/web/20090307020650id_/http%3A//www.quityourdayjob.com/contact.html)
 
 ### Choice/Opt-out
 
@@ -76,7 +76,7 @@ You will be notified when your personal information is collected by any third pa
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can e-mail us at <http://www.quityourdayjob.com/contact>. 
+If you have any questions about security on our Web site, you can e-mail us at [http://www.quityourdayjob.com/contact](https://web.archive.org/web/20090307020650id_/http%3A//www.quityourdayjob.com/contact.html). 
 
 **How Do We Secure Information Transmissions?**
 
@@ -84,11 +84,11 @@ Email is not recognized as a secure medium of communication. For this reason, we
 
 **How Can You Access and Correct Your Information?**
 
-You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing <http://www.quityourdayjob.com/contact>. You can also change any of your subscription options by following the directions in any of our newsletters. 
+You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing [http://www.quityourdayjob.com/contact](https://web.archive.org/web/20090307020650id_/http%3A//www.quityourdayjob.com/contact.html). You can also change any of your subscription options by following the directions in any of our newsletters. 
 
 **Certain Disclosures**
 
- ****We may disclosure your personal information if required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on us or Affiliated Parties; (b) protect and defend our rights and property, the Site, the users of the Site, and/or our Affiliated Parties; (c) act under circumstances to protect the safety of users of the Site, us, or third parties.
+****We may disclosure your personal information if required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on us or Affiliated Parties; (b) protect and defend our rights and property, the Site, the users of the Site, and/or our Affiliated Parties; (c) act under circumstances to protect the safety of users of the Site, us, or third parties.
 
 **What About Other Web Sites Linked to Our Web Site?**
 
@@ -110,7 +110,7 @@ Ste 320
 
 Sandy, UT 84070
 
-<http://www.quityourdayjob.com/contact>
+[http://www.quityourdayjob.com/contact](https://web.archive.org/web/20090307020650id_/http%3A//www.quityourdayjob.com/contact.html)
 
 **Model Disclosure**
 
