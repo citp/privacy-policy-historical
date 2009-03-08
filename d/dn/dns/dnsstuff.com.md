@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnsstuff.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021550id_/http%3A//member.dnsstuff.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnsstuff.com privacy policy that was archived on 2009-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090308164302id_/http%3A//member.dnsstuff.com/info/privacy.php) for the most accurate reproduction.*
 
 # DNS Network Tools: Network Monitoring and DNS Monitoring from DNSstuff
 
