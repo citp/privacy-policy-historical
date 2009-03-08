@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexternal.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217033040id_/http%3A//www.nexternal.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexternal.com privacy policy that was archived on 2009-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090308053547id_/http%3A//www.nexternal.com/privacy.htm) for the most accurate reproduction.*
 
 # Nexternal Solutions Privacy Policy
 
