@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponalbum.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222033607id_/http%3A//www.couponalbum.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponalbum.com privacy policy that was archived on 2009-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090308103331id_/http%3A//www.couponalbum.com/policy.htm) for the most accurate reproduction.*
 
 # Couponalbum's Privacy Policy
 
@@ -10,4 +10,4 @@
 
 Hot Online Savings Coupons
 
-The Contents of this Webpage are Copyright © 2007 CouponAlbum All Rights Reserved. 
+The Contents of this Webpage are Copyright © 2009 CouponAlbum All Rights Reserved. 
