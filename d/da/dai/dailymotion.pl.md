@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailymotion.pl privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225043110id_/http%3A//www.dailymotion.pl/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailymotion.pl privacy policy that was archived on 2009-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090308014831id_/http%3A//www.dailymotion.pl/legal/privacy) for the most accurate reproduction.*
 
-# Dailymotion United States - Share your videos
+# Dailymotion Brasil - Compartilhar seus vídeos
 
 This document sets out Dailymotion’s commitment to your privacy and to the protection of personal data (the "Data") collected and processed in connection with your use of the Website, under the terms and conditions set out in the [General Terms of Use](https://web.archive.org/legal/terms).
 
