@@ -1,547 +1,867 @@
-<!--The following is the downloaded HTML source of the desitara.com privacy policy that was archived on 2008-09-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080912053943id_/http%3A//www.desitara.com/staticPage.php%3Fpg%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the desitara.com privacy policy that was archived on 2009-03-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090308131609id_/http%3A//www.desitara.com/static/privacy) for the most accurate reproduction.-->
 
-<html lang="en-US" dir="ltr" xmlns="http://www.w3.org/1999/xhtml"><head><script>
-</script>
-<!--?xml version="1.0"?-->
-
-
-
-<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en-US" dir="ltr" xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="content-type" content="application/xhtml+xml;	charset=UTF-8">
 <meta http-equiv="content-Language" content="en-US">
-<meta name="keywords" content="desitara, desi, community, video chat, bollywood, hollywood, videos, music, indian idol, pop idol, x factor">
-<meta name="description" content="Desitara.com is the world's first online DESI TALENT PORTAL. Sing, Dance or Act in a major Bollywood film. You can also upload your photos, home videos, blogs, groups, events, make new friends and participate in forums and live video chat with millions of desitara members worldwide">
-<!-- Disable MSSmartTags -->
-<meta name="MSSmartTagsPreventParsing" content="true">
-<script type="text/javascript">
-var easyChatUserName = ''
-var easyChatUserId = ''
-var msgTemplate = "<span>{user_name}&nbsp;[{time}]&nbsp;:&nbsp;{message}<\/span>"; 
-var easyChatActiveCss = 'easyChatMain-Active';
-var easyChatInactiveCss = 'easyChatMain-Inactive';
-var userOnline = false;
-var easyChatUrl = 'http://www.desitara.com/chat/';
-var easyChatProfileUrl = 'http://www.desitara.com/members/';
-var easyChatUserPrivateLogin= false;
-var userCurentUserStatusMessage = 'Online';
-var pingTiming = 10000;//In miliseconds...ie. 10 seconds...
-var idleTimeIncrement = (pingTiming / 1000);
-var idleLogoutTime = 900;//In seconds...ie. 15 minutes...
-var idleTimeCounter = 0;
-var easyChatUser = { 	
-	id : '',
-	userName:'',		
-	imgSrc:'',
-	timeDisplay: false
-}
-var emotIconsArray = {":)": "smile.gif", ":-)": "smile.gif", ":D": "grin.gif", ":-D": "grin.gif", ";)": "wink.gif", ";-)": "wink.gif", ":[": "embarassed.gif", ":-[": "embarassed.gif", ":*": "love.gif", ":-*": "love.gif", ":(": "sad.gif", ":-(": "sad.gif", ":'(": "cry.gif", ":'-(": "cry.gif", "8-)": "cool.gif", ":angry:": "angry.gif", ":O": "surprised.gif", ":-O": "surprised.gif", ":|": "serious.gif", ":-|": "serious.gif", ":-S": "sick.gif", ":P": "tongue.gif", ":-P": "tongue.gif", ":heart:": "heart.gif", ":brokenheart:": "heartbroken.gif", ":kiss:": "kiss.gif"};
+<meta name="keywords" content="showcase your talent, desitara, upload videos online">
+<meta name="description" content="Showcase Your Talent at Desitara - The world’s first online Desi talent portal,  where you get a chance to Showcase Your Talent and get elevated to next level so don’t wait and start uploading your talent.">
+<meta name="verify-v1" content="J6i5QjqlIwbMhXiKbHZRwzUFfwYrTr8MZbFwz9bo0ys=">
 
-// Timestamp Format //
-// This is the timestamp format used to note when an IM was received.
-/* M = month, Jan - Dec
- * m = month, 01 - 12, with prepended 0 (01, 02, ...)
- * u = month, 1 - 12, without prepended 0 (1, 2, ...)
- * d = day, 01 - 31, with prepended 0 (01, 02, ...)
- * x = day, 1 - 31, without prepended 0 (1, 2, ...)
- * Y = year, 4 digits (eg: 2008)
- * y = year, 2 digits (eg: 08)
- * H = hours, 24-hour format with prepended 0 (01, 02, ...)
- * h = hours, 12-hour format without prepended 0 (1, 2, ...)
- * Q = hours, 24-hour format without prepended 0 (1, 2, ...)
- * q = hours, 12-hour format with prepended 0 (01, 02, ...)
- * i = minutes
- * s = seconds
- * a = am/pm
- * A = AM/PM
- */
-var easyChatTimeStamp = 'h:i:s A';
-easyChatUserPrivateLogin = true;
+    <!-- Disable MSSmartTags -->
+    <meta name="MSSmartTagsPreventParsing" content="true">
 
-</script>
-<!--[if lte IE 7]>
-<style type="text/css">
-*html #easyChatfooter {
-  position:absolute;
-  bottom:0;
-  top: expression( ( 0 - easyChatfooter.offsetHeight + ( document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight ) + ( ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop ) ) + 'px' );
-}
-*html #easyChat_usersList{
-  position:absolute;
-  top: expression( ( 0 - easyChat_usersList.offsetHeight + ( document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight ) + ( ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop ) ) + 'px' );
-  padding-bottom:'33px';
-}
+	<link rel="stylesheet" type="text/css" href="http://images.desitara.com/css/screen_white.css?version=V3">
 
-*html #easyChatUserStatusMainWindow {
-  position:absolute;
-  top: expression( ( 0 - easyChatUserStatusMainWindow.offsetHeight + ( document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight ) + ( ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop ) ) + 'px' );
-  padding-bottom:33px;
-}
 
-*html #easyChat_extraButtons {
-  position:absolute;
-  top: expression( ( 0 - easyChatUserStatus.easyChat_extraButtons + ( document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight ) + ( ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop ) ) + 'px' );
-  padding-bottom:33px;
-}
-
-*html #easyChatIEpaddingSpan{
-padding-bottom:33px;
-}
-</style>
-<![endif]--> 
-<link rel="stylesheet" type="text/css" href="http://s.desitara.com/css/include_css.php?file=screen_black">
-<link rel="stylesheet" type="text/css" href="http://s.desitara.com/css/include_css.php?file=jsbased">
-<link rel="stylesheet" type="text/css" href="http://s.desitara.com/css/include_css.php?file=print" media="print">
-<link rel="shortcut icon" href="http://www.desitara.com/favicon.ico" type="image/x-icon">
-<link rel="icon" href="http://www.desitara.com/animated_favicon.gif" type="image/gif"> 
+<link rel="stylesheet" type="text/css" href="http://images.desitara.com/css/modalbox.css?version=V3">
+<link rel="stylesheet" type="text/css" href="http://images.desitara.com/css/jsbased.css?version=V3">
+<link rel="stylesheet" type="text/css" href="http://images.desitara.com/css/print.css?version=V3" media="print">
+<link rel="shortcut	icon" href="http://www.desitara.com/favicon.ico?version=02012009" type="image/x-icon">
+<link rel="icon" href="http://www.desitara.com/animated_favicon.gif?version=02012009" type="image/gif">
 <!-- for link bar -->
 <link rel="Home" href="http://www.desitara.com/" title="Home page">
 <link rel="Index" href="http://www.desitara.com/" title="Index">
-<link rel="search" href="#" title="Search this site">
+<link rel="search" href="#" title="Search	this site">
 <link rel="contents" href="#" title="Site map">
+	<title>Desitara - Showcase Your Talent | Desitara</title>
 
-<title>Desitara - World's first DESI TALENT PORTAL</title>
-<script type="text/javascript" src="http://img.desitara.com/include_javascript.php?folder=lib&amp;file=cssQuery-p.js"></script>
-<script type="text/javascript" src="http://img.desitara.com/include_javascript.php?file=script.js"></script>
-<script type="text/javascript" src="http://img.desitara.com/include_javascript.php?folder=lib&amp;file=prototype.js"></script>
-<script type="text/javascript" src="http://img.desitara.com/include_javascript.php?folder=lib&amp;file=effects.js"></script>
-<script type="text/javascript" src="http://img.desitara.com/include_javascript.php?folder=lib&amp;file=prototip.js"></script>
-<script type="text/javascript" src="http://img.desitara.com/include_javascript.php?folder=lib&amp;file=modalbox.js"></script>
-<script type="text/javascript" src="http://img.desitara.com/include_javascript.php?file=validation.js"></script>
-<script type="text/javascript" src="http://img.desitara.com/include_javascript.php?folder=chat&amp;file=window.js"></script>
-<script type="text/javascript" src="http://img.desitara.com/include_javascript.php?folder=chat&amp;file=window_effects.js"></script>
-<script type="text/javascript" src="http://img.desitara.com/include_javascript.php?folder=chat&amp;file=chatPlugin.js"></script>
-<script type="text/javascript" src="http://img.desitara.com/include_javascript.php?folder=chat&amp;file=sm2.js"></script>
-<link rel="stylesheet" type="text/css" href="http://s.desitara.com/chat/css/include_css.php?file=easyChat">
-<link href="http://s.desitara.com/chat/css/include_css.php?file=default" rel="stylesheet" type="text/css"> 
+<script type="text/javascript" language="javascript">
+	function tellerror(err){
+
+	return true;  // here!
+	}
+	window.onerror=tellerror
+
+</script>
+
+<script type="text/javascript">var siteUserId="0"; var siteUrl="http://www.desitara.com/";var	relativeUrl="http://www.desitara.com/";var pageId="staticPage";</script>
+	<script type="text/javascript" src="http://static.desitara.com/js/script.js?version=V1"></script>
+    <script type="text/javascript" src="http://static.desitara.com/js/lib/prototype.js?version=V1"></script>
+    <script type="text/javascript" src="http://static.desitara.com/js/lib/effects.js?version=V1"></script>
+    <script type="text/javascript" src="http://static.desitara.com/js/lib/modalbox.js?version=V1"></script>
+    <script type="text/javascript" src="http://static.desitara.com/js/lib/prototip.js?version=V1"></script>
+    <script type="text/javascript" src="http://static.desitara.com/js/functions.js?version=V1"></script>
+
+
 </head>
+
 <body>
-<script type="text/javascript">
-function handleError() 
-{
-return true;
-}
-window.onerror = handleError;
-</script>
-<script type="text/javascript">browsePanel();</script>
-<!-- BodyContent(to fix the whole template body) -->
-<div class="clsBodyMainContent">
-<div id="staticPage" class="clsBodySubContent">
-<div id="hideScreen" style="z-index: 100; display: none;" class="VeilStyle1c">&nbsp;</div>
-<a href="#" id="alertHyperLink"></a>
-<div id="selAlertbox" class="clsMsgAlert" style="display:none;position:absolute;">
-  <p id="selAlertMessage"></p>
-  <form name="formAlertBox" id="formAlertBox">
-    <input type="button" class="clsSubmitButton" name="selAlertOkButton" id="selAlertOkButton" value="Ok" onclick="return hideAllBlocks();">
-  </form>
-</div>
-<!-- Accessibility Links -->
-<div id="top">
-  <ul>
-    <li><a href="#main">Skip to main content</a></li>
-    <li><a href="#selSubHeader">Skip to Navigation Links</a></li>
-    <li><a href="#footer">Skip to Footer</a></li>
-  </ul>
-</div>
-<!--selTopMainBody-->
-	<div id="selTopMainBody">
-<!-- Header -->
-<div id="header" class="clsClearFix">
-	<!-- selHeaderLogo -->
-	<div id="selHeaderLogo" class="clsFloatLeft">
-		<h1><a href="http://www.desitara.com/index.php" title="Browse to homepage">Desitara</a></h1>
-	</div><!-- end of  selHeaderLogo -->
-	<!-- selSlabLogo -->
-	<div id="selSlabLogo" class="clsFloatRight">
-		<p><a href="http://www.sladgroup.com" target="_blank">Slab</a></p>
-	</div><!-- end of  selHeaderLogo -->
+    <!-- BodyContent(to	fix	the	whole template body) -->
+    <!--start clsMainBody-->
+    <div class="clsMainBody" id="selBottomMainBody">
+    	<div id="staticPage" class="clsBodySubContent">
+        <!-- Accessibility Links -->
+        <div id="top">
+        <ul>
+        <li><a href="#main">Skip to	main content</a></li>
+        <li><a href="#selSubHeader">Skip to	Navigation Links</a></li>
+        <li><a href="#footer">Skip to Footer</a></li>
+        </ul>
+        </div>
+        <!--three roundered courner for header	part-->
+        <div class="clsHeader-right">
+            <div class="clsHeader-left">
+       <!-- <div class="clsHeaderover-right">
+            <div class="clsHeaderover-left"> -->
+    			<div class="clsHeader-center">
+                    <!--start clsHeader-->
+                    <div class="clsHeader">
+                    	<!-- headerSignIn -->
+        				<div class="clsHeaderSignIn">
+                        	<p class="clsBeta">BETA</p>
+							<form name="top_login_form" action="http://www.desitara.com/login/" method="post">
+					    	<span id="login_section_1" style="display:none">
+    						<input class="clsSignInput clsUser" value="User Name" name="user_name" type="text" onfocus="clearUsername(this);" id="header_username" onblur="retainUsername(this)">
+                            <input class="clsSignInput clsPass" value="password" name="password" type="Password" onfocus="clearPassword(this);" id="header_password" onblur="retainPassword(this)">
+    						<p class="clsRemberSignIn clsClearFix">
+                            <input class="clsSignInput clsSignInCheck" name="remember" type="checkbox" value="">  Remember Me |
+                            <a href="http://www.desitara.com/forgotpassword/">Forgot Password?</a>&nbsp;
+                            <input class="clsSignInBg clsSignUp" name="" type="submit" value="">		    <input class="clsCloseBg" name="" type="button" value="" onclick="closeLoginSection()">
+						    <a href="http://www.desitara.com/signup/">Register Now</a>
+                            </p>
 
-  </div>
-<!--end of Header -->
-<!--selTopNavigation -->
-<div id="selTopNavigation">
-			<div id="selNavigation">
-			  <div id="selNavigationContent">
-					<div id="selSubHeader">
-						  <div id="selNav">
-											<dl>
-					  <dt class="index" id="dt_home"><a href="http://www.desitara.com/index.php" onclick="displaySubMenu('home')">Home</a></dt>
-						  <dd class="community" id="homeMenu">
-							  	<ul id="home_main" style="display:none" class="clsSubheaderSubLink">
+	    					</span>
+    						</form>
+    						<div id="alertLoginBox" class="clsPleaseLogin" style="position:absolute; display:none; z-index:999999">
+                            <span style=" cursor:pointer; float:right; padding-right:3px; padding-top:10px; color:#CF0E30" onclick="hideLoginAlertBox();">x</span>
+                            <p>Please login to continue..</p>
+                            </div>
+                            <!--start clsHeaderRegister-->
+                                                            <div class="clsHeaderRegister clsClearFix">
+                                    <ul id="sign_in_id">
+                                        <li class="clsSignIn">
+                                                                                    <a href="javascript: void 0" onclick="openLoginSection(false)">Sign In</a>
+                                                                                </li>
+                                        <li class="clsHelp"><a href="http://www.desitara.com/tour/desitara/">Site Tour</a></li>
+                                        <li class="clsHelp"><a href="http://www.desitara.com/contactus/">Help</a></li>
+                                        <li class="clsSignUp clsNoBorder"><a href="http://www.desitara.com/signup/">Register Now</a></li>
+                                    </ul>
 
-			<!--//onclick="displaySideMenu('my_home')"-->
-			<li class=""><a href="#" id="li_my_home">My Home</a> </li>
-				<!--//onclick="displaySideMenu('view_my_profile')"-->
-			<li class=""><a href="#" id="li_view_my_profile">View My Profile</a> </li>
-				<!--//onclick="displaySideMenu('edit_profile')"-->
-			<li class=""><a href="#" id="li_edit_profile">Edit Profile</a> </li>
-				<!--//onclick="displaySideMenu('inbox')"-->
-			<li class=""><a href="#" id="li_inbox">Inbox</a> </li>
-				<!--//onclick="displaySideMenu('my_friends')"-->
-			<li class=" clsNoBorder"><a href="#" id="li_my_friends">My Friends</a> </li>
-			</ul>
-							  </dd>
-					</dl>
-						<dl>
-					  <dt class="index" id="dt_competition"><a href="competition.php" onclick="displaySubMenu('competition')">Competition</a></dt>
-						  <dd class="community" id="homeMenu">
-							  	<ul id="competition_main" class="clsSubheaderSubLink">
 
-			<!--//onclick="displaySideMenu('competition')"-->
-			<li class=""><a href="http://www.desitara.com/competition.php" id="li_competition">Competition</a> </li>
-				<!--//onclick="displaySideMenu('details')"-->
-			<li class=" clsActiveSubLink"><a href="http://www.desitara.com/staticPage.php?pg=comp" id="li_details">Details</a> </li>
-				<!--//onclick="displaySideMenu('recent')"-->
-			<li class=""><a href="http://www.desitara.com/videoList.php?pg=cat_type&amp;cat_name=allvideos" id="li_recent">Recent</a> </li>
-				<!--//onclick="displaySideMenu('singing')"-->
-			<li class=""><a href="http://www.desitara.com/videoList.php?pg=cat_type&amp;cat_name=singing&amp;fromPage=" id="li_singing">Singing</a> </li>
-				<!--//onclick="displaySideMenu('dancing')"-->
-			<li class=""><a href="http://www.desitara.com/videoList.php?pg=cat_type&amp;cat_name=dancing&amp;fromPage=" id="li_dancing">Dancing</a> </li>
-				<!--//onclick="displaySideMenu('acting')"-->
-			<li class=""><a href="http://www.desitara.com/videoList.php?pg=cat_type&amp;cat_name=acting&amp;fromPage=" id="li_acting">Acting</a> </li>
-				<!--//onclick="displaySideMenu('winners')"-->
-			<li class=""><a href="http://www.desitara.com/winners.php" id="li_winners">Winners</a> </li>
-				<!--//onclick="displaySideMenu('archives')"-->
-			<li class=""><a href="http://www.desitara.com/videoList.php?pg=archive" id="li_archives">Archives</a> </li>
-				<!--//onclick="displaySideMenu('live_shows')"-->
-			<li class=" clsNoBorder"><a href="http://www.desitara.com/eventLive.php?fromPage=live_shows" id="li_live_shows">Live Shows</a> </li>
-			</ul>
-							  </dd>
-					</dl>
-						<dl>
-					  <dt class="index" id="dt_community"><a href="http://www.desitara.com/communityList.php" onclick="displaySubMenu('community')">Community</a></dt>
-						  <dd class="community" id="homeMenu">
-							  	<ul id="community_main" style="display:none" class="clsSubheaderSubLink">
+                                    <!-- Ajax Login	-->
+                                    <div id="advLoginBar" style="display:none;">
+                                    <form name="frm_login_header" id="frm_login_header" action="http://www.desitara.com/login/" method="post">
+                                    <table>
+                                    	<tbody><tr><td>&nbsp;</td></tr>
+										<tr>
+                                            <td>
+                                                <div style="float:left">Username</div>
+                                                <div style="float:right">
+                                                <input type="text" class="required clsLoginInput" id="user_name1" name="user_name" value="Username" tabindex="121" onfocus="if(this.value=='Username')	this.value='' " onblur="if(this.value=='') this.value='Username'">
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <div style="float:left"> Password</div>
+                                                <div style="float:right">
+                                                <input type="password" class="required clsLoginInput" id="password1" name="password" value="Password" tabindex="122" onfocus="if(this.value=='Password')this.value='';" onblur="if(this.value=='')this.value='Password';">
+                                                </div>
+                                            </td>
+                                       	</tr>
+                                        <tr>
+                                        <td>
+                                        	<div style="float:right">
+                                            <input type="checkbox" class="clsCheckRadio" tabindex="123" name="remember" id="remember" value="1">
+                                            Remember me on this computer &nbsp; &nbsp;
+                                            </div>
+                                        </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                            <div style="float:left">
+                                            <p>Forgot username or password?
+                                            <a id="selForgotPwd" href="http://www.desitara.com/forgotpassword/">Click here</a>
+                                            </p>
+                                            <p> New to Desitara?
+                                            <a id="selSignUpLink" href="http://www.desitara.com/signup/"><span>Join now.. </span></a>
+                                            </p>
+                                            </div>
+                                            <div style="float:right">
+                                            <input type="submit" class="clsSubmitButton" name="login_submit2" id="login_submit" value="Login" tabindex="124" onclick="formCallback1()">
+                                            </div>
+                                            </td><td>
+                                        </td></tr>
+                                    </tbody></table>
+                                    </form>
+    								<div id="loginErrMsg" style="display:none; color:#FF0000">Login	Error: Invalid username	or password</div>
+    							</div>
+								<script type="text/javascript">
+                                function formCallback1(){
+									if($('user_name1').value=='')
+									{
+									$('loginErrMsg').innerHTML='Please provide username';
+									$('loginErrMsg').style.display='block';
 
-			<!--//onclick="displaySideMenu('community')"-->
-			<li class=""><a href="http://www.desitara.com/communityList.php" id="li_community">Community</a> </li>
-				<!--//onclick="displaySideMenu('groups')"-->
-			<li class=""><a href="http://www.desitara.com/groupGeneral.php?fromPage=groups" id="li_groups">Groups</a> </li>
-				<!--//onclick="displaySideMenu('events')"-->
-			<li class=""><a href="http://www.desitara.com/eventGeneral.php?fromPage=events" id="li_events">Events</a> </li>
-				<!--//onclick="displaySideMenu('forums')"-->
-			<li class=""><a href="http://www.desitara.com/forumIndex.php" id="li_forums">Forums</a> </li>
-				<!--//onclick="displaySideMenu('non_competition_videos')"-->
-			<li class=""><a href="http://www.desitara.com/videoGeneral.php?fromPage=videosPage" id="li_non_competition_videos">Non Competition Videos</a> </li>
-				<!--//onclick="displaySideMenu('photos')"-->
-			<li class=""><a href="http://www.desitara.com/albumIndex.php?fromPage=photosPage" id="li_photos">Photos</a> </li>
-				<!--//onclick="displaySideMenu('audios')"-->
-			<li class=""><a href="http://www.desitara.com/musicAlbumIndex.php?fromPage=audiosPage" id="li_audios">Audios</a> </li>
-				<!--//onclick="displaySideMenu('blogs')"-->
-			<li class=" clsNoBorder"><a href="http://www.desitara.com/blogIndex.php?fromPage=blogsPage" id="li_blogs">Blogs</a> </li>
-			</ul>
-							  </dd>
-					</dl>
-						<dl>
-					  <dt class="index" id="dt_members"><a href="membersList.php" onclick="displaySubMenu('members')">Members</a></dt>
-						  <dd class="community" id="homeMenu">
-							  	<ul id="members_main" style="display:none" class="clsSubheaderSubLink">
+									$('user_name1').select();
+									return false;
+									}
+									else if($('password1').value==''){
+									$('loginErrMsg').innerHTML='Please provide password';
+									$('loginErrMsg').style.display='block';
 
-			<!--//onclick="displaySideMenu('members')"-->
-			<li class=""><a href="http://www.desitara.com/membersList.php?fromPage=membersPage" id="li_members">Members</a> </li>
-				<!--//onclick="displaySideMenu('my_friends')"-->
-			<li class=" clsNoBorder"><a href="http://www.desitara.com/members/myFriends.php" id="li_my_friends">My Friends</a> </li>
-			</ul>
-							  </dd>
-					</dl>
-						<dl>
-					  <dt class="index" id="dt_mobile"><a href="mobile.php" onclick="displaySubMenu('mobile')">Mobile</a></dt>
-						  <dd class="community" id="homeMenu">
-							  	<ul id="mobile_main" style="display:none" class="clsSubheaderSubLink">
+									$('password1').select();
+									return false;
+									}
+									$('loginErrMsg').innerHTML='Login Error: Invalid username or password';
+									url	= "http://www.desitara.com/"+"ajax/login.php?user_name="+$('user_name1').value+"&amp;password="+$('password1').value;
+									new	Ajax.Request(url,{asynchronous:false, contentType:'text/xml', onSuccess: function(data)	{
+									result=data.responseXML.getElementsByTagName('result')[0].childNodes[0].nodeValue;}});
+									if(result=='yes'){
+										$('frm_login_header').submit();
+									}
+									else {
+										$('loginErrMsg').style.display='block';
+										Modalbox.resizeToInclude('loginErrMsg');
+										$('user_name1').focus();
+										$('user_name1').select();
+									}
+									return false;
+								}
+                                function validateLoginForm(){
+                                	var	valid =	new	Validation($('frm_login_header'));
+                                }
+                                </script>
+                                <!-- End Login -->
+                                                             	<!--end of clsHeaderRegister-->
+							</div>
+                    	</div>
+                        <!-- end of headerSignIn -->
+                        <!--start	clsTopPart-->
+                        <div class="clsHeaderTop clsClearFix">
+                            <!--start clsHeaderLeft-->
+                            <div class="clsHeaderLeft">
+                                <!--start clsLogo-->
+                                <div class="clsLogo">
+    								<h1><a href="http://www.desitara.com/index/">Desitara.com</a></h1>
+   								</div>
+                            <!--end	of clsLogo-->
+                            </div>
+                            <!--end	of clsHeaderLeft-->
+                            <!--clsHeaderCenter-->
+                            <div class="clsHeaderCenter">
+                            &nbsp;
+                            </div>
+                            <!--end	of clsHeaderCenter-->
+                            <!--start clsHeaderRight-->
+                            <div class="clsHeaderRightUser">
+                            <!--start clsHeaderSearch-->
 
-			<!--//onclick="displaySideMenu('mobile')"-->
-			<li class=" clsNoBorder"><a href="http://www.desitara.com/mobile.php" id="li_mobile">Mobile</a> </li>
-			</ul>
-							  </dd>
-					</dl>
-					  </div>
-				</div>
-			  </div>
-			</div>
-</div><!--end of selTopNavigation -->
-	</div><!--end of selTopMainBody-->
-<!--selBottomSearch -->
-<div id="selBottomSearch" class="clsClearAfter">
-	<!--selBottomSearchLeft -->
-	<div id="selBottomSearchLeft" class="clsFloatLeft">
-		<div id="selBottomSearchLeftBlock" class="clsClearFix">
-										
-						<form name="formCommonSearch" id="formCommonSearch" method="post" action="" onsubmit="return changeActionIndex()">
-								<p class="clsSearchFirst clsFloatLeft"><input type="text" class="clsSearchText clsTextBox" name="tags" value="Search..." tabindex="104" onclick="if(this.value=='Search...')this.value=''" onblur="if(this.value=='')this.value='Search...';"></p>
-								<p class="clsSearchThird clsFloatLeft">	
-									<select class="clsSearchListBox" name="soption" id="soption" tabindex="105">
-										<option value="videos">Videos</option>
-										<option value="musics">Audio</option>
-										<option value="photos">Photos</option>
-										<option value="members">Members</option>
-										<option value="groups">Groups</option>
-										<option value="events">Events</option>
-										<option value="cities">City</option>
-									  </select>	
-								 </p>						  
-								<p class="clsSearchSecond clsFloatLeft"><input type="submit" class="clsSubmit" name="commonSearchSubmit" tabindex="107"></p>
-							  </form>
-		</div>							  						  			
-	</div><!-- end of selBottomSearchLeft -->
-	<!--selBottomSearchCenter -->
-	<div id="selBottomSearchCenter" class="clsFloatLeft">
-				<div id="selBottomSearchCenterBlock">
-						<form id="login" action="login.php" method="post">
-				<div class="clsClearFix clsLoginSection1">
-					<p class="clsBottomSearch1 clsFloatLeft"><span class="clsLoginText">Login</span>&nbsp;<span><input class="clsTextBox" name="user_name" value="Username" type="text" onfocus="if(this.value=='Username')this.value=''" onblur="if(this.value=='')this.value='Username';" tabindex="108"></span>&nbsp;<span><input value="Password" class="clsTextBox" name="password" type="password" onfocus="if(this.value=='Password')this.value=''" onblur="if(this.value=='')this.value='Password';" tabindex="109"></span></p>
-					<p class="clsBottomSearch2 clsFloatLeft"><input value="Go" name="login_submit2" id="login_submit2" type="submit" tabindex="1203"></p>
-				</div>
-				<p class="clsLoginSection2">
-				<span>&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;<a id="selForgotPwd" href="http://www.desitara.com/forgotPassword.php">Lost password?</a></span>&nbsp;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" class="clsCheckRadio" name="remember" id="remember" tabindex="1202">
-									<span>Remember me</span></span></p>
-			</form>
+
+	 	     <div class="clsHeaderSearch clsClearFix">
+				<form name="search" id="search" action="http://www.desitara.com/searchindex/" method="post" onsubmit="if(search.searchText.value == 'Enter a search keyword') search.searchText.value ='';">
+                	<div class="clsNewSearchBlock">
+					<div class="clsSearchInput">
+ 						<input id="searchText" name="searchText" value="Enter a search keyword" class="" type="text" onblur="if(this.value=='') this.value='Enter a search keyword'" onclick="if(this.value=='Enter a search keyword') this.value=''"> <!-- onclick="if(this.value=='Search...')this.value=''" onblur="if(this.value=='')this.value='Search...';" -->
+						<input type="hidden" name="searchType" id="searchType" value="Videos">
+                    </div>
+
+						<div id="selSearchSelectDiv" class="clsSearchSelect" onclick="document.getElementById('selSearchSelectionDiv').style.display = 'block'; setVarForUpperDiv(1);" onmouseout="setTimeout('checkVar(\'selSearchSelectionDiv\')',1000);setVarForUpperDiv(0);">
+							<p id="sel1"><span><a>Videos</a></span></p>
+						</div>
+
 					</div>
-		</div><!--end of selBottomSearchCenter -->
-	<!--selBottomSearchRight -->
-	<div id="selBottomSearchRight" class="clsFloatLeft">
-		<ul class="clsClearFix">
-			<li class="signup"><a href="http://www.desitara.com/signup.php">SignUp</a></li>
-			<li class="upload"><a href="http://www.desitara.com/uploadFiles.php">Upload</a></li>
-		</ul>
-		
-	</div><!--end of selBottomSearchRight -->
-</div><!--end of selBottomSearch-->	
+	<!--
+						<p><a href="javascript:void 0;"  class="clsMouse" onclick="putSearchType('Videos');" onmouseover="showList('selSearchSelectionDiv');" >Videos</a></p>
+						<p><a href="javascript:void 0;"  class="clsMouse" onclick="putSearchType('Audios');" onmouseover="showList('selSearchSelectionDiv');" >Audios</a></p>
+						<p><a href="javascript:void 0;"  class="clsMouse" onclick="putSearchType('Photos');" onmouseover="showList('selSearchSelectionDiv');" >Photos</a></p>
+						<p><a href="javascript:void 0;"  class="clsMouse" onclick="putSearchType('Members');" onmouseover="showList('selSearchSelectionDiv');" >Members</a></p>
+						<p><a href="javascript:void 0;"  class="clsMouse" onclick="putSearchType('Groups');" onmouseover="showList('selSearchSelectionDiv');" >Groups</a></p>
+						<p><a href="javascript:void 0;"  class="clsMouse" onclick="putSearchType('Events');" onmouseover="showList('selSearchSelectionDiv');" >Events</a></p>
+                        <p><a href="javascript:void 0;"  class="clsMouse" onclick="putSearchType('Forums');" onmouseover="showList('selSearchSelectionDiv');" >Forums</a></p>
+                        <p><a href="javascript:void 0;"  class="clsMouse" onclick="putSearchType('Blogs');" onmouseover="showList('selSearchSelectionDiv');" >Blogs</a></p>
+						<p><a href="javascript:void 0;"  class="clsMouse" onclick="putSearchType('Web');" onmouseover="showList('selSearchSelectionDiv');" >Web</a></p>
+-->
+					<div id="selSearchSelectionDiv" style="display:none" class="clsSearchClick" onmouseout="document.getElementById('selSearchSelectionDiv').style.display='none';setVarForLowerDiv(0)" onmouseover="setVarForLowerDiv(1);document.getElementById('selSearchSelectionDiv').style.display='block';">
+						<p><a href="javascript:void 0;" class="clsMouse" onclick="putSearchType('Videos');">Videos</a></p>
+						<p><a href="javascript:void 0;" class="clsMouse" onclick="putSearchType('Audios');">Audios</a></p>
+						<p><a href="javascript:void 0;" class="clsMouse" onclick="putSearchType('Photos');">Photos</a></p>
+						<p><a href="javascript:void 0;" class="clsMouse" onclick="putSearchType('Members');">Members</a></p>
+						<p><a href="javascript:void 0;" class="clsMouse" onclick="putSearchType('Groups');">Groups</a></p>
+						<p><a href="javascript:void 0;" class="clsMouse" onclick="putSearchType('Events');">Events</a></p>
+						<p><a href="javascript:void 0;" class="clsMouse" onclick="putSearchType('Blogs');">Blogs</a></p>
+						<p><a href="javascript:void 0;" class="clsMouse" onclick="putSearchType('Forums');">Forums</a></p>
+						<p><a href="javascript:void 0;" class="clsMouse" onclick="putSearchType('Web');">Web</a></p>
+					</div>
+                    <div class="clsSearchSearch">
+                    	<input type="submit" value="Search">
+                    </div>
+				</form>
+                </div>
+				<script>
+					var upperDiv=0;
+					var lowerDiv = 0;
+					function setVarForUpperDiv(val)
+					{
+								upperDiv=val;
+					}
+					function setVarForLowerDiv(val1)
+					{
+								lowerDiv=val1;
+					}
+					function checkVar(div)
+					{
+						if(upperDiv==0 && lowerDiv==0)
+							document.getElementById(div).style.display='none';
+					}
 
-<div id="selBottomMainBody"><!--selBottomMainBody-->
-		  <script type="text/javascript">
-	  var errorDivId = 'javaScriptDisabledError';
-	  var mainDivId = 'selBottomMainBody';
-	  var mainDivObj = document.getElementById(mainDivId);
-	  </script>
-	  
-	  <script type="text/javascript">
-	  var mainDivObj = document.getElementById(mainDivId);
-	  var olddiv = document.getElementById(errorDivId);
-	  mainDivObj.removeChild(olddiv);
-	  </script>
-	  
-<!--SIDEBAR-->
-<!-- selBottomHeader (for member login,search video,upload video blocks) -->
-<!-- end of selBottomHeader-->
-   <div id="sideBar">
-  <!--SIDEBAR1-->
-  <div class="sideBar1">
-	 <div id="sideBar_details"> 			<div class="clsSideBarLinks">
-			<h3><span><a href="http://www.desitara.com/staticPage.php?pg=comp">Current Competitions</a></span></h3>
-			</div>			
-					<div class="clsSideBarLinks">
-			<h3><span><a href="http://www.desitara.com/news.php?fromPage=latest_news">Latest News</a></span></h3>
-			</div>			
-						<div class="clsSideBarLinks"><ul>			<li>
-			<a href="http://www.desitara.com/news.php?fromPage=latest_news&amp;news_blog_id=2">Desitara.com</a>
-			</li>
-		</ul></div>
-							<div class="clsSideBarLinks">
-			<h3><span><a href="http://www.desitara.com/staticPage.php?pg=bginfo">Background Information</a></span></h3>
-			</div>			
-					<div class="clsSideBarLinks">
-			<h3><span><a href="http://www.desitara.com/compRules.php">Rules</a></span></h3>
-			</div>			
-					<div class="clsSideBarLinks">
-			<h3><span><a href="http://www.desitara.com/judge.php">Judges</a></span></h3>
-			</div>			
-					<div class="clsSideBarLinks">
-			<h3><span><a href="http://www.desitara.com/prizes.php">Prizes</a></span></h3>
-			</div>			
-					<div class="clsSideBarLinks">
-			<h3><span><a href="http://www.desitara.com/empty.php">Sponsors</a></span></h3>
-			</div>			
-		 </div> 						
-				<script type="text/javascript">
-var currentSubMenu='competition';
-var currentSubMenu_dt='dt_'+currentSubMenu;
-function displaySubMenu(menuId){
-//alert($(currentSubMenu).match('div'));
+				</script>
+  <!--end of clsHeaderSearch-->
+  		                            </div>
+                        <!--end	of clsHeaderRight-->
+                        </div>
+    					<!--end of clsTopPart-->
+                        <!--start	clsBottom-->
+                        <div class="clsHeaderBottom">
+                            <!--start clsSubheader-->
+                            <div class="clsSubMenu clsClearFix">
+							                            <script type="text/javascript">
+                            var menuTabKey='MainMenu';
+                            var subMenuKey='SubMenu';
+                            var menuTabString='home,talent,competition,channels,community,members'
+                            var menuTabArray=menuTabString.split(',');
 
-/*	if($(currentSubMenu) && $(currentSubMenu).match('ul'))
-	{
-	$(currentSubMenu).hide();
-	}
-*/	if($(menuId) /*&& $(menuId).match('ul')*/)
-	$(menuId).show();	
-	
-	if($(currentSubMenu_dt))
-	$(currentSubMenu_dt).className = '';
-	
-	currentSubMenu_dt='dt_'+menuId;
-	
-	if($(currentSubMenu_dt))
-	$(currentSubMenu_dt).className = 'clsMenuHighLight clsActive';
-	
-	currentSubMenu=menuId;
-}
-var currentSideMenuParentDiv = '';
-var currentSideMenu='details';
-var currentSubMenu_li='li_'+currentSideMenu;
-function displaySideMenu(menuId){
-  if($('sideBar_'+currentSideMenu))
-	$('sideBar_'+currentSideMenu).hide();
-	
-	if($('sideBar_'+menuId))	
-	$('sideBar_'+menuId).show();
+                            function toggle1(id){
+                            var obj = document.getElementById(id)
+                            if(obj.style.display=='none')
+                            obj.style.display='block';
+                            else
+                            obj.style.display='none';
+                            }
+                            </script>
 
-	if($('li_'+menuId))	
-	$('li_'+menuId).className = 'clsMenuSubHighLight clsActiveSubLink';
-	
-	if($(currentSubMenu_li))	
-	$(currentSubMenu_li).className = '';
-	
-	currentSideMenu=menuId;	
-	currentSubMenu_li='li_'+menuId;
-}
-displaySubMenu('competition');
-</script>
-  <!--end of SIDEBAR1-->
-      <div class="clsSideBanner">
-	  
-      </div>  
-  </div>
-  </div>
-<!--end of SIDEBAR-->
-<!-- Main -->
-<div id="main" class="clsMain clsMainNoBanner  clsIsAdd">
-<!-- Header ends -->
-  
+                            <ul class="clsClearFix">
+                            						<li title="Home" id="homeMainMenu"><a href="http://www.desitara.com/index/" onmouseover="mainMenuValue(1);showSubMenuClick('home',false,staticPage.php');" onmouseout="mainMenuValue(0); hideSubMenu('home');">Home</a> </li>
+					 				<script type="application/javascript" language="javascript">
+					var mainMenu=0;
+					var subMenu=0;
+				</script>
+										<li title="Talent" id="talentMainMenu"><a href="http://www.desitara.com/talent/" onmouseover="mainMenuValue(1);showSubMenuClick('talent',true,'staticPage.php');" onmouseout="mainMenuValue(0);checkMenuVar('talent');">Talent</a> </li>
+					 				<script type="application/javascript" language="javascript">
+					var mainMenu=0;
+					var subMenu=0;
+				</script>
+										<li title="Competition" id="competitionMainMenu"><a href="http://www.desitara.com/bcc-disha" onmouseover="mainMenuValue(1);showSubMenuClick('competition',true,'staticPage.php');" onmouseout="mainMenuValue(0);checkMenuVar('competition');">Competition</a> </li>
+					 				<script type="application/javascript" language="javascript">
+					var mainMenu=0;
+					var subMenu=0;
+				</script>
+										<li title="Channels" id="channelsMainMenu"><a href="http://www.desitara.com/channels/" onmouseover="mainMenuValue(1);showSubMenuClick('channels',true,'staticPage.php');" onmouseout="mainMenuValue(0);checkMenuVar('channels');">Channels</a> </li>
+					 				<script type="application/javascript" language="javascript">
+					var mainMenu=0;
+					var subMenu=0;
+				</script>
+										<li title="Community" id="communityMainMenu"><a href="http://www.desitara.com/community/" onmouseover="mainMenuValue(1);showSubMenuClick('community',true,'staticPage.php');" onmouseout="mainMenuValue(0);checkMenuVar('community');">Community</a> </li>
+					 				<script type="application/javascript" language="javascript">
+					var mainMenu=0;
+					var subMenu=0;
+				</script>
+										<li title="Members" id="membersMainMenu"><a href="http://www.desitara.com/memberslist/" onmouseover="mainMenuValue(1);showSubMenuClick('members',true,'staticPage.php');" onmouseout="mainMenuValue(0);checkMenuVar('members');">Members</a> </li>
+					 				<script type="application/javascript" language="javascript">
+					var mainMenu=0;
+					var subMenu=0;
+				</script>
+				                            </ul>
+                            	<!--start clsUpload-->
+                                <div class="clsUpload">
+                                    <a href="http://www.desitara.com/upload/">upload</a>
+                                </div>
+                           	<!--end	of clsUpload-->
+                            </div>
+                        <!--end of clsSubheader-->
+						</div>
+					<!--end of clsBottomt-->
+					</div>
+					<!--end	of clsHeader-->
+    			</div>
+    		</div>
+    	</div>
+   <!--     </div>
+      </div> -->
+    			<div class="clsSubmenuList" id="homeSubMenu" onmouseout="subMenuValue(0);checkMenuVar('home');" onmouseover="subMenuValue(1);showSubMenu('home',true)" style="display:none">
+			  <div class="right-submenu">
+				 <div class="left-submenu">
+					<div class="center-submenu">
+					  <div class="clsMenu">
+                        <div class="clsLeftMenu">
+															 									</div>
 
-<div id="advLoginBar" style="display:none;">
-  <form name="frm_login_header" id="frm_login_header" action="http://www.desitara.com/login.php" method="post">
-    <table id="selUploadTbl">
-      <tbody><tr>
-        <td class="clsFormLabelCellDefault">User Name or Email </td>
-        <td class="clsFormFieldCellDefault"><input type="text" class="required clsTextBox" id="user_name1" name="user_name" value="" tabindex="111"></td>
-      </tr>
-      <tr>
-	  	<td class="clsFormLabelCellDefault">Password</td>
- 	  	<td class="clsFormFieldCellDefault"><input type="password" class="required clsTextBox" id="password1" name="password" value="" tabindex="112"> </td>
-  	  </tr>
-      <tr>
-	  <td class="clsFormLabelCellDefault">&nbsp;</td>
-        <td class="clsFormFieldCellDefault"><input type="checkbox" class="clsCheckRadio" tabindex="113" name="remember" id="remember" value="1">
-          Remember me on this computer
-        &nbsp; &nbsp;</td>
-      </tr>
-      <tr>
-        <td class="clsFormLabelCellDefault">&nbsp;</td>
-        <td class="clsFormFieldCellDefault clsLoginSubmit"><input type="submit" class="clsSubmitButton" name="login_submit2" id="login_submit" value="Login" tabindex="114" onclick="formCallback1()"></td>
-      </tr>
-      <tr>
-        <td colspan="2" class="">Forgot username or password? <a id="selForgotPwd" href="http://www.desitara.com/forgotPassword.php">Click here</a>&nbsp;</td>
-      </tr>
-      <tr>
-        <td colspan="2"><p class="clsNewDesitara">New to Desitara? <a id="selSignUpLink" href="http://www.desitara.com/signup.php"><span>Join now.. </span></a>&nbsp;</p></td>
-      </tr>
-    </tbody></table>	
-  </form>
-	<div id="loginErrMsg" style="display:none; color:#CC0000">Login Error: Invalid username or password</div>
-</div>
-<script type="text/javascript">
-			function formCallback1(){	
-				if($('user_name1').value=='')
-				{
-				$('loginErrMsg').innerHTML='Please provide username';
-				$('loginErrMsg').style.display='block';
-				Modalbox.resizeToInclude('loginErrMsg');
-				$('user_name1').select();
-				return false;
-				}		
+                                 </div>
 
-				else if($('password1').value==''){
-				$('loginErrMsg').innerHTML='Please provide password';
-				$('loginErrMsg').style.display='block';
-				Modalbox.resizeToInclude('loginErrMsg');
-				$('password1').select();
-				return false;
-				}		
-				$('loginErrMsg').innerHTML='Login Error: Invalid username or password';
-				url = 'http://www.desitara.com/'+'ajax/login.php?user_name='+$('user_name1').value+'&password='+$('password1').value;																						
-				new Ajax.Request(url,{asynchronous:false, contentType:'text/xml', onSuccess: function(data) { result=data.responseXML.getElementsByTagName('result')[0].childNodes[0].nodeValue;}});								
+						</div>
+					</div>
+				</div>
+			 </div>
+		  			<div class="clsSubmenuList" id="talentSubMenu" onmouseout="subMenuValue(0);checkMenuVar('talent');" onmouseover="subMenuValue(1);showSubMenu('talent',true)" style="display:none">
+			  <div class="right-submenu">
+				 <div class="left-submenu">
+					<div class="center-submenu">
+					  <div class="clsMenu">
+                        <div class="clsLeftMenu">
+																				<div id="talentMenuBlock_1" style="display:block">
+													<!--<p class="clsMenuNavLinks"></p>-->
+												<ul class="clsClearFix">
+											                                                 
+												 <li class=""><a href="http://www.desitara.com/videolist/all/recent_talent_videos/">Recent Talent Videos</a></li>
 
-				if(result=='yes'){		
-				$('frm_login_header').submit();
-				}
-				else {
-				$('loginErrMsg').style.display='block';
-				Modalbox.resizeToInclude('loginErrMsg');
-				$('user_name1').focus();
-				$('user_name1').select();				
-				}
-			return false;					
-			}
-			function validateLoginForm(){
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/videolist/51/singing/?pg=cat_type">Singing</a></li>
 
-				var valid = new Validation($('frm_login_header'));					
-			}	
-			displaySubMenu(currentSubMenu);
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/videolist/52/dancing/?pg=cat_type">Dancing</a></li>
 
-function changeActionIndex(){
-	var obj = document.formCommonSearch;
-	var act_url = '';
-	if(obj.tags.value=='')
-		return false;
-	switch (obj.soption.value){
-		case 'photos':
-			act_url = 'http://www.desitara.com/albumList.php?pg=photonew&tags=';
-			obj.action = act_url+obj.tags.value;
-			return true;
-			break;
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/videolist/53/acting/?pg=cat_type">Acting</a></li>
 
-		case 'videos':
-			act_url = 'http://www.desitara.com/videoSearchIndex.php?tags=';
-			obj.action = act_url+obj.tags.value;
-			return true;
-			break;
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/videolist/54/adventure__amp__games/?pg=cat_type">Adventure &amp; Games</a></li>
 
-		case 'articles':
-			act_url = 'http://www.desitara.com/articleList.php?pg=articlenew&tags=';
-			obj.action = act_url+obj.tags.value;
-			return true;
-			break;
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/videolist/55/magic/?pg=cat_type">Magic</a></li>
 
-		case 'musics':
-			act_url = 'http://www.desitara.com/musicList.php?pg=musicnew&tags=';
-			obj.action = act_url+obj.tags.value;
-			return true;
-			break;
+												
+												 
+											                                                      
+												 <li class="clsNoBorder"><a href="http://www.desitara.com/videolist/56/instrumental/?pg=cat_type">Instrumental</a></li>
+
+												
+												 
+											     </ul>													</div>
+																									<div id="talentMenuBlock_2" style="display:block">
+													<!--<p class="clsMenuNavLinks"></p>-->
+												<ul class="clsClearFix">
+											                                                 
+												 <li class=""><a href="http://www.desitara.com/videolist/57/comedy_act/?pg=cat_type">Comedy Act</a></li>
+
+												
+												 
+											                                                      
+												 <li class="clsNoBorder"><a href="http://www.desitara.com/videolist/58/other_talents/?pg=cat_type">Other Talents</a></li>
+
+												
+												 
+											     								                                                        	<p class="clsEmptyMenu"></p>
+                                                                                                                	<p class="clsEmptyMenu"></p>
+                                                                                                                	<p class="clsEmptyMenu"></p>
+                                                                                                                	<p class="clsEmptyMenu"></p>
+                                                                                                                	<p class="clsEmptyMenu"></p>
+                                                         </ul>                                            </div>
+								 									</div>
+
+                                 </div>
+
+						</div>
+					</div>
+				</div>
+			 </div>
+		  			<div class="clsSubmenuList" id="communitySubMenu" onmouseout="subMenuValue(0);checkMenuVar('community');" onmouseover="subMenuValue(1);showSubMenu('community',true)" style="display:none">
+			  <div class="right-submenu">
+				 <div class="left-submenu">
+					<div class="center-submenu">
+					  <div class="clsMenu">
+                        <div class="clsLeftMenu">
+																				<div id="communityMenuBlock_1" style="display:block">
+													<!--<p class="clsMenuNavLinks"></p>-->
+												<ul class="clsClearFix">
+											                                                 
+												 <li class=""><a href="http://www.desitara.com/groups/">Groups</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/events/">Events</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/forums/">Forums</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/photos/">Photos</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/audios/">Audios</a></li>
+
+												
+												 
+											                                                      
+												 <li class="clsNoBorder"><a href="http://www.desitara.com/blogs/">Blogs</a></li>
+
+												
+												 
+											     								 </ul>                                            </div>
+								 									</div>
+
+                                 </div>
+
+						</div>
+					</div>
+				</div>
+			 </div>
+		  			<div class="clsSubmenuList" id="membersSubMenu" onmouseout="subMenuValue(0);checkMenuVar('members');" onmouseover="subMenuValue(1);showSubMenu('members',true)" style="display:none">
+			  <div class="right-submenu">
+				 <div class="left-submenu">
+					<div class="center-submenu">
+					  <div class="clsMenu">
+                        <div class="clsLeftMenu">
+																				<div id="membersMenuBlock_1" style="display:block">
+													<!--<p class="clsMenuNavLinks"></p>-->
+												<ul class="clsClearFix">
+											                                                 
+												 <li class=""><a href="http://www.desitara.com/memberslist/recentMembers/">Recent Members</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/memberssearch/">Search Members</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/memberslist/">View All Members</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/compare/">Compare Members</a></li>
+
+												
+												 
+											                                                      
+												 <li class="clsNoBorder"><a href="http://www.desitara.com/meetme/">Meet Me</a></li>
+
+												
+												 
+											     								 </ul>                                            </div>
+								 									</div>
+
+                                 </div>
+
+						</div>
+					</div>
+				</div>
+			 </div>
+		  			<div class="clsSubmenuList" id="channelsSubMenu" onmouseout="subMenuValue(0);checkMenuVar('channels');" onmouseover="subMenuValue(1);showSubMenu('channels',true)" style="display:none">
+			  <div class="right-submenu">
+				 <div class="left-submenu">
+					<div class="center-submenu">
+					  <div class="clsMenu">
+                        <div class="clsLeftMenu">
+																				<div id="channelsMenuBlock_1" style="display:block">
+													<!--<p class="clsMenuNavLinks"></p>-->
+												<ul class="clsClearFix">
+											                                                 
+												 <li class=""><a href="http://www.desitara.com/ncvideolist/">Recent Channel Videos</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/ncvideolist/1/Bollywood_Films/">Bollywood Films</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/ncvideolist/2/Hollywood_Films/">Hollywood Films</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/ncvideolist/5/Bollywood_music/">Bollywood Music</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/ncvideolist/6/International_Music/">International Music</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/ncvideolist/3/Desi_Videos/">Desi Videos</a></li>
+
+												
+												 
+											                                                      
+												 <li class="clsNoBorder"><a href="http://www.desitara.com/ncvideolist/4/International_Videos/">International Videos</a></li>
+
+												
+												 
+											     </ul>													</div>
+																									<div id="channelsMenuBlock_2" style="display:block">
+													<!--<p class="clsMenuNavLinks"></p>-->
+												<ul class="clsClearFix">
+											                                                 
+												 <li class=""><a href="http://www.desitara.com/ncvideolist/7/Animation/">Animation</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/ncvideolist/9/Cars__amp__Vehicles/">Cars</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/ncvideolist/8/Comedy/">Comedy</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/ncvideolist/10/Education/">Education</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/ncvideolist/11/News__amp__Politics/">News &amp; Politics</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/ncvideolist/12/People_s_Voice/">People's Voice</a></li>
+
+												
+												 
+											                                                      
+												 <li class="clsNoBorder"><a href="http://www.desitara.com/ncvideolist/13/Pets__amp__Animals/">Pets &amp; Animals</a></li>
+
+												
+												 
+											     </ul>													</div>
+																									<div id="channelsMenuBlock_3" style="display:block">
+													<!--<p class="clsMenuNavLinks"></p>-->
+												<ul class="clsClearFix">
+											                                                 
+												 <li class=""><a href="http://www.desitara.com/ncvideolist/14/Science__amp__Technology/">Science &amp; Technology</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/ncvideolist/16/Television/">Television</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/ncvideolist/17/Travel__amp__Events/">Travel &amp; Events</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/ncvideolist/18/Kids/">Kids</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/ncvideolist/19/Schools__amp__College/">Schools &amp; College</a></li>
+
+												
+												 
+											                                                      
+												 <li class="clsNoBorder"><a href="http://www.desitara.com/ncvideolist/20/Sports/">Sports</a></li>
+
+												
+												 
+											     								                                                        	<p class="clsEmptyMenu"></p>
+                                                         </ul>                                            </div>
+								 									</div>
+
+                                 </div>
+
+						</div>
+					</div>
+				</div>
+			 </div>
+		  			<div class="clsSubmenuList" id="competitionSubMenu" onmouseout="subMenuValue(0);checkMenuVar('competition');" onmouseover="subMenuValue(1);showSubMenu('competition',true)" style="display:none">
+			  <div class="right-submenu">
+				 <div class="left-submenu">
+					<div class="center-submenu">
+					  <div class="clsMenu">
+                        <div class="clsLeftMenu">
+																				<div id="competitionMenuBlock_1" style="display:block">
+													<!--<p class="clsMenuNavLinks"></p>-->
+												<ul class="clsClearFix">
+											                                                 
+												 <li class=""><a href="http://www.desitara.com/bcc-disha">Disha</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/mescacs-anubhav">Anubhav</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/mountculah">Mount Carmel</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/iimbunmaad">IIMB-unmaad</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/dhwani">Dhwani</a></li>
+
+												
+												 
+											                                                      
+												 <li class=""><a href="http://www.desitara.com/moodindigo">Mood Indigo</a></li>
+
+												
+												 
+											                                                      
+												 <li class="clsNoBorder"><a class="clsCompetitionTitle" href="http://www.desitara.com/competition/">Bollywood Club</a></li>
+
+												
+												 
+											     </ul>													</div>
+																									<div id="competitionMenuBlock_2" style="display:block">
+													<!--<p class="clsMenuNavLinks"></p>-->
+												<ul class="clsClearFix">
+											                                                 
+												 <li class="clsNoBorder"><a href="http://www.desitara.com/valentinesday">Valentine</a></li>
+
+												
+												 
+											     								                                                        	<p class="clsEmptyMenu"></p>
+                                                                                                                	<p class="clsEmptyMenu"></p>
+                                                                                                                	<p class="clsEmptyMenu"></p>
+                                                                                                                	<p class="clsEmptyMenu"></p>
+                                                                                                                	<p class="clsEmptyMenu"></p>
+                                                                                                                	<p class="clsEmptyMenu"></p>
+                                                         </ul>                                            </div>
+								 									</div>
+
+                                 </div>
+
+						</div>
+					</div>
+				</div>
+			 </div>
+		      <!--end of three	roundered courner for header part-->
+            <!--Eight roundered	courner	for	sidebar	and	main part-->
+        <div class="clsMainRoundered">
+        	<div class="lb-main">
+                <div class="rb-main">
+                    <div class="bb-main">
+                        <div class="blc-main">
+                            <div class="brc-main">
+                                <div class="tb-main">
+                                    <div class="tlc-main">
+                                        <div class="trc-main">
+                                        	<div class="clsRoundered clsClearFix">
+                                            <!--start sidebar-->
+                                                                                            <div id="sidebar">
+                                                    <!--start	sidebarRight-->
+                                                    <div id="sidebarRight">
+													                                                        <div class="bottom-white">
+                                                            <div class="top-white">
+                                                            	<div class="center-white">
+                                                                    <!--clsVideoListSidebar-->
+                                                                    <div class="clsVideoListSidebar">
+                                                                        <div class="clsVideoSidebarTop">
+                                                                        													<div class="clsVotting">
+								<h3 id="Quick Links" onclick="changeClassOfThis(this)" class="clsActive"><a class="clsMouse" href="javascript:void 0" onclick="Effect.toggle('Quick LinksSideMenu','slide');">Quick Links</a></h3>
+							</div>
+												<div id="Quick LinksSideMenu" style="display:block">
+							<ul>
+																		<li onmouseover="this.className='highlightSideMenu';" onmouseout="this.className='';">
+																							<a href="http://www.desitara.com/static/aboutus/">About Us</a>
+																																</li>
+																		<li onmouseover="this.className='highlightSideMenu';" onmouseout="this.className='';">
+																							<a href="http://www.desitara.com/static/executiveteam/">Board Of Directors</a>
+																																</li>
+																		<li onmouseover="this.className='highlightSideMenu';" onmouseout="this.className='';">
+																							<a href="http://www.desitara.com/static/coreteam/">Core Team</a>
+																																</li>
+																		<li onmouseover="this.className='highlightSideMenu';" onmouseout="this.className='';">
+																							<a href="http://www.desitara.com/contactus/">Contact Us</a>
+																																</li>
+																		<li onmouseover="this.className='highlightSideMenu';" onmouseout="this.className='';">
+																							<a href="http://www.desitara.com/advertise/">Advertise</a>
+																																</li>
+																		<li onmouseover="this.className='highlightSideMenu';" onmouseout="this.className='';">
+																							<a href="http://www.desitara.com/static/pressreleases/">Press</a>
+																																</li>
+																		<li onmouseover="this.className='highlightSideMenu';" onmouseout="this.className='';">
+																							<a href="http://www.desitara.com/static/jobs/">Jobs</a>
+																																</li>
+																		<li onmouseover="this.className='highlightSideMenu';" onmouseout="this.className='';">
+																						<span> Privacy</span>
+																																</li>
+																		<li onmouseover="this.className='highlightSideMenu';" onmouseout="this.className='';">
+																							<a href="http://www.desitara.com/static/toc/">Terms Of Use</a>
+																																</li>
+																		<li onmouseover="this.className='highlightSideMenu';" onmouseout="this.className='';">
+																							<a href="http://www.desitara.com/faq/">Faq</a>
+																																</li>
+																		<li onmouseover="this.className='highlightSideMenu';" onmouseout="this.className='';">
+																							<a href="http://www.desitara.com/static/tips/">Tips</a>
+																																</li>
+															</ul>
+						</div>
+															   <script type="text/javascript">
+										   document.observe("dom:loaded", function() {
+											if ($('Quick LinksSideMenu') && $('Quick LinksSideMenu').style.display == 'none') {
+													Effect.toggle('Quick LinksSideMenu','slide');
+													changeClassOfThis('Quick Links');
+											}
+											});
+											</script>                                                                         </div>
+                                                                    </div>
+                                                                <!--end of clsVideoListSidebar-->
+                                                                </div>
+                                                            <!--end	of sidebarRight-->
+                                                            </div>
+                                                        <!--end of sidebar-->
+                                                        </div>
+													
+                                                    </div>
+												                                        </div>
+									
+                                     <!-- Main -->
+                                    <div id="main">
+									                                       <!-- end of banner -->
+                                    									<script type="text/javascript" language="javascript">
+                                    function closeLoginSection(){
+                                    //document.getElementById('login_section_2').style.display='none';
+                                    document.getElementById('login_section_1').style.display='none';
+                                    document.getElementById('sign_in_id').style.display='block';
+                                    }
+									var keepLoginSectionOpen = false;
+                                    function openLoginSection(){
+                                    //document.getElementById('login_section_2').style.display='block';
+                                    document.getElementById('login_section_1').style.display='block';
+                                    document.getElementById('sign_in_id').style.display='none';
+                                    document.top_login_form.user_name.focus();
+										if(typeof(Element)=='function'){
+											if(arguments[0]==null)
+											openLoginAlertBox();
+										}
+                                    }
+									var loginAlertBoxTimer;
+									function openLoginAlertBox(){
+										clearTimeout(loginAlertBoxTimer);
+										var $pos = $('header_username').cumulativeOffset();
+										var $newLeft = $pos.left; var $newTop = $pos.top+20;
+										$('alertLoginBox').show();
+										$('alertLoginBox').setStyle({left:$newLeft+'px',top:$newTop+'px'});
+										new Effect.Shake('alertLoginBox',{
+													afterFinish:function(){
+														var $pos = $('header_username').cumulativeOffset();
+														var $newLeft = $pos.left; var $newTop = $pos.top+20;
+														$('alertLoginBox').setStyle({left:$newLeft+'px',top:$newTop+'px'});
+													}
+										});
+
+										loginAlertBoxTimer = setTimeout("hideLoginAlertBox();",3000);
+									}
+
+									function  hideLoginAlertBox(){
+										new Effect.Fade('alertLoginBox');
+									}
+
+                                    function clearPassword(obj){
+                                    if(obj.value=='password')
+                                    obj.value='';
+                                    }
+
+                                    function clearUsername(obj){
+                                    if(obj.value=='User Name')
+                                    obj.value='';
+                                    }
+
+                                    function retainPassword(obj){
+                                    if(obj.value=='')
+                                    obj.value='password';
+                                    }
+
+                                    function retainUsername(obj){
+                                    if(obj.value=='')
+                                    obj.value='User Name';
+                                    }
 
 
-		case 'members':
-			act_url = 'http://www.desitara.com/membersList.php?tags=';
-			obj.action = act_url + obj.tags.value;
-			return true;
-
-		case 'groups':
-			act_url = 'http://www.desitara.com/groupListAll.php?tags=';
-			obj.action = act_url + obj.tags.value;
-			return true;
-			
-		case 'events':
-			act_url = 'http://www.desitara.com/eventListAll.php?tags=';
-			obj.action = act_url + obj.tags.value;
-			return true;
-
-		case 'cities':
-			act_url = 'http://www.desitara.com/membersList.php?browse=city&city=';
-			obj.action = act_url + obj.tags.value;
-			return true;			
-
-		default:
-			return false;
-			break;
-	}
-}
-</script><!--selStaticPage-->
+                                    </script>
+<!--selStaticPage-->
 <div id="selStaticPage">
-<!--selAboutUs-->
-	<div id="selAboutUs">
-	<!--selGeneralCommonBlock-->
-		<div id="selGeneralCommonBlock">
-		<!--selGeneralCommonBlockLeft-->
-		<div id="selGeneralCommonBlockLeft" class="clsNoImg clsWithOutBoder">
-								<h2>Desitara Privacy Policies</h2>
+	<div class="clsListing clsStaticTerms">
+	<div class="clsStaticLine">
+	<ul class="clsAboutContact"><li>
+ <h2>Desitara Privacy Policies</h2>
 <div align="left">
 	<h3>Updated as of Apr 22, 2008</h3>
 	
@@ -583,87 +903,87 @@ function changeActionIndex(){
 		<li>Cookies, clear gifs, and log file information are used to (a) store information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests. </li>
 		<li>N.B: You have the freedom to choose to decline to submit personally identifiable information through the sites, in which case you can still view videos and explore the site, but the site may not be able to provide certain services to you. Some advanced site features may, for authentication purposes, require you to sign up for other services like Checkout or AdSense. The privacy notices of those services govern the use of your personal information associated with them.</li>
 	</ul>		
-</div>							 </div>		<!--selGeneralCommonBlockLeft-->
-				
-	</div><!-- end of selGeneralCommonBlock-->
-</div><!-- end of selAboutUs-->
-</div><!--end of  selStaticPage-->
-
-    <!-- Footer begins -->
-  </div>
-	</div><!--end of selBottomMainBody-->
-  
-</div><!-- end of clsBodySubContent -->
-</div><!-- end of clsBodyMainContent -->
-  <!-- Footer -->
-  <div id="footer"> 
-	  	<div id="selFooter">
-  <!-- selTopFooter -->
-  	<div id="selTopFooter">
-		<table class="clsFooterTb1">
-			<tbody><tr>
-				<td>
-					<h3 class="clsDesitaraCompetition">Desitara <span>Competition</span></h3>
-						<ul>
-							<li><a href="http://www.desitara.com/news.php?fromPage=latest_news">Latest News</a></li>			
-							<li><a href="http://www.desitara.com/compDetails.php">Details</a></li>			
-							<li><a href="http://www.desitara.com/videoList.php?pg=cat_type&amp;cat_name=singing&amp;fromPage=">Singing Videos</a></li>			
-							<li><a href="http://www.desitara.com/videoList.php?pg=cat_type&amp;cat_name=dancing&amp;fromPage=">Dancing Videos</a></li>			
-							<li><a href="http://www.desitara.com/videoList.php?pg=cat_type&amp;cat_name=acting&amp;fromPage=">Acting Videos</a></li>			
-							<li><a href="http://www.desitara.com/winners.php">Winners</a></li>			
-							<li><a href="http://www.desitara.com/videoList.php?pg=archive">Archives</a></li>			
-						</ul>
-				</td>
-				<td>
-					<h3 class="clsDesitaraCommunity">Desitara <span>Community</span></h3>
-						<ul>
-							<li><a href="http://www.desitara.com/membersList.php?fromPage=membersPage">Members</a></li>	
-							<li><a href="http://www.desitara.com/groupGeneral.php?fromPage=groups">Groups</a></li>	
-							<li><a href="http://www.desitara.com/eventGeneral.php">Events</a></li>		
-							<li><a href="http://www.desitara.com/forumIndex.php">Forums</a></li>		
-							<li><a href="http://www.desitara.com/videoGeneral.php?fromPage=videosPage">Videos</a></li>			
-							<li><a href="http://www.desitara.com/albumIndex.php?fromPage=photosPage">Photos</a></li>			
-							<li><a href="http://www.desitara.com/musicAlbumIndex.php?fromPage=audiosPage">Audios</a></li>			
-							<li><a href="http://www.desitara.com/blogIndex.php?fromPage=blogsPage">Blogs</a></li>			
-						</ul>
-				</td>
-				<td>
-					<h3 class="clsAboutDesitara">About <span> Desitara </span></h3>
-						<ul>
-							<li><a href="http://www.desitara.com/staticPage.php?pg=aboutus">About Us</a></li>			
-							<li><a href="http://www.desitara.com/staticPage.php?pg=executiveteam">Board of Directors</a></li>			
-							<li><a href="http://www.desitara.com/staticPage.php?pg=coreteam">Core Team</a></li>			
-							<li><a href="http://www.desitara.com/advertise.php">Advertise with us</a></li>			
-							<li><a href="http://www.desitara.com/contactUs.php">Contact Us</a></li>			
-							<li><a href="http://www.desitara.com/staticPage.php?pg=privacy">Privacy Policy</a></li>			
-							<li><a href="http://www.desitara.com/staticPage.php?pg=toc">Terms of Use</a></li>			
-							<li><a href="http://www.desitara.com/faq.php">FAQ</a></li>
-							<li><a href="http://www.desitara.com/staticPage.php?pg=jobs">Jobs</a></li>		
-							<li><a href="http://www.desitara.net" target="_blank">Take our Survey</a></li>			
-						</ul>
-				</td>
-			</tr>
-		</tbody></table>
-	</div>  <!-- end of  selTopFooter -->
-  <!-- selBottomFooter -->
-  	<div id="selBottomFooter">
-		<div id="selFooterNavigation">
-			<div id="selFooterNavigationLeft">
-				<p>Tell us what you think about <span class="clsSiteName">desitara.com</span> <span>-</span> <a href="http://www.desitara.com/contactUs.php"><span>Send us your feedback</span></a></p>
-				<p class="clsCopyRights">Copyrights @ 2008 <a href="http://www.desitara.com/staticPage.php?pg=aboutus"><span class="clsSiteName">Connectfilms Media Ltd</span></a> All rights reserved.</p>
-			 </div> 
-			<div id="selFooterNavigationRight">
-					<p class="clsSlab"><a target="_blank" href="http://www.sladgroup.com"><img src="http://s.desitara.com/images/screen_red/logo-slad.jpg" height="140" width="85"></a></p>
-			 </div> 
-		</div>
-		</div>  <!-- end of selBottomFooter -->
+</div>	</li></ul>
 	</div>
-	</div>		
+ 	</div>
+</div>
+</div>
+	</div>
+				</div>
+			  </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!--end of Eight roundered courner for sidebar and main part-->
+<!-- end of main -->
+<!-- Footer -->
+</div>
+<div id="footer">
+  	<div class="footermain clsClearFix">
+    	<div class="clsFottorLeft">
+       <p><a href="http://www.connectfilms.com/" target="_blank">Connect<span class="clsFilms">Films</span> Media</a><a href="http://www.sladgroup.com/" target="_blank">S.Lad Group</a></p>
+        </div>
+        <div class="clsFottorRight">
+         	<ul>
+                                <li><a href="http://www.desitara.com/static/aboutus/">ABOUT US</a></li>
+                                <li><a href="http://www.desitara.com/contactus/">CONTACT</a></li>
+                                <li><a href="http://www.desitara.com/advertise/">ADVERTISE</a></li>
+                                <li><a href="http://www.desitara.com/static/pressreleases/">PRESS</a></li>
+                                <li><a href="http://www.desitara.com/static/jobs/">JOBS</a></li>
+                                <li><a href="http://www.desitara.net" target="_blank">SURVEY</a></li>
+                                <li class="clsActive"><a href="http://www.desitara.com/static/privacy/">PRIVACY POLICY</a></li>
+                                <li><a href="http://www.desitara.com/static/toc/">TERMS OF USE</a></li>
+	                            <li><a href="http://www.desitara.com/faq/">FAQ</a></li>
+            </ul>
+        </div>
+    </div>
+  </div>
+</div>
+<!-- end of clsBodySubContent -->
+ 
+<!--end of clsMainBody-->
+<strong></strong>
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+ <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
 _uacct = "UA-4217179-1";
 urchinTracker();
 </script>
-</body></html>
+
+<!-- Piwik -->
+<a href="http://piwik.org" title="Web analytics" onclick="window.open(this.href);return(false);">
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.desitara.com/" : "http://piwik.desitara.com/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://piwik.desitara.com/piwik.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+piwik_action_name = '';
+piwik_idsite = 2;
+piwik_url = pkBaseURL + "piwik.php";
+piwik_log(piwik_action_name, piwik_idsite, piwik_url);
+//-->
+</script><object>
+<noscript><p>Web analytics <img src="http://piwik.desitara.com/piwik.php" style="border:0" alt="piwik"/></p>
+</noscript></object></a>
+<!-- /Piwik -->
+
+
+
+
+<!--
+<benchmark>
+  <querytime>
+   <sec>0.00168</sec><sql>1c0730b7ae760e0af621406e83dbeab9</sql>
+   <sec>0.00164</sec><sql>7ff7a9ae1e0665fd9795f01cac632344</sql>
+   <sec>0.00149</sec><sql>21037923b3a91b5084ff1844d92f28c9</sql>
+   <sec>0.00156</sec><sql>25e84d4adb934209017a401525c792de</sql>
+   <sec>0.00152</sec><sql>510eab8671488352b3a46bfe063ca19b</sql>
+   <sec>0.00323</sec><sql>b614bb0a7c19c23666b1c2ab3c09dde6</sql>
+  </querytime>
+</benchmark>
+--></body></html>
