@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the transworldnews.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152915id_/http%3A//www.transworldnews.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transworldnews.com privacy policy that was archived on 2009-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090308090335id_/http%3A//www.transworldnews.com/privacy.aspx) for the most accurate reproduction.*
 
-# TransWorldNews - www.transworldnews.com/privacy.aspx
+# News and Press release service TransWorldnews
 
 The privacy policy and statement below cover all websites owned and operated by TransWorldNews, Inc. ("TransWorldNews"). Websites included under "TransWorldNews" include Finditt.com, StockENews.com, StockFiling.com and TWNKeys.com. 
 
