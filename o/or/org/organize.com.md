@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organize.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222033947id_/http%3A//www.organize.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organize.com privacy policy that was archived on 2009-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090308021542id_/http%3A//www.organize.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
