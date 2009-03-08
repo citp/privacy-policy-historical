@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4woman.gov privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216221324id_/http%3A//www.4woman.gov/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4woman.gov privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309000012id_/http%3A//www.4woman.gov/about/privacy) for the most accurate reproduction.*
 
 # About the National Women's Health Information Center - NWHIC Web Site Privacy Policy Notice
 
@@ -12,7 +12,7 @@ About the National Women's Health Information Center
   
 
 
-[About the National Women's Health Information Center Home](https://web.archive.org/web/20081216221324id_/http://www.4woman.gov/about/index.cfm) > NWHIC Web Site Privacy Policy Notice
+[About the National Women's Health Information Center Home](https://web.archive.org/web/20090309000012id_/http%3A//www.4woman.gov/index.cfm) > NWHIC Web Site Privacy Policy Notice
 
 Thank you for visiting the National Women's Health Information Center (NWHIC) web site and for reviewing our Privacy Policy. Our policy is clear: 
 
