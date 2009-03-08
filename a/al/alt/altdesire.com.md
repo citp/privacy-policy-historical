@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altdesire.com privacy policy that was archived on 2008-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081022173421id_/http%3A//www.altdesire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altdesire.com privacy policy that was archived on 2009-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090308191427id_/http%3A//www.altdesire.com/privacy.php) for the most accurate reproduction.*
 
 # Altdesire
 
