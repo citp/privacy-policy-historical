@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the domainmonster.com privacy policy that was archived on 2008-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080922230922id_/http%3A//www.domainmonster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainmonster.com privacy policy that was archived on 2009-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090308131641id_/http%3A//www.domainmonster.com/privacy) for the most accurate reproduction.*
 
-# Domain Name Registration - Bulk Discount Domain Names & Domain Name Registration Services
+# Domain Name Registration - Bulk Discount Domain Names & .Tel Domain Name Registration Services
 
 ## Mesh Digital Ltd - Privacy Policy
 
@@ -51,4 +51,4 @@ If at any point we decide to use particular personally identifiable information 
 If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at [legal@meshdigital.com](mailto:legal@meshdigital.com). You can also send us postal email to: Privacy Officer, Legal Department, Mesh Digital Ltd, Quarry Court, Lime Quarry Mews, Guildford, Surrey, GU1 2RD
 
 *excludes ICANN fee of 20 cents per domain name year & based on maximum bulk discounts. **based on maximum bulk discounts. †subject to registry imposed fees.  
-Telephone orders charged at small premium. Please refer to price list. 
+Telephone orders charged at small premium. Please refer to [price list](http://www.domainmonster.com/domain-names/). 
