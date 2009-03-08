@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seenation.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522023444id_/http%3A//www.seenation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seenation.com privacy policy that was archived on 2009-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090308073141id_/http%3A//www.seenation.com/privacy.php) for the most accurate reproduction.*
 
 # Seenation.com -Privacy Statements
 
