@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vindale.com privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230174559id_/http%3A//vindale.com/v/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vindale.com privacy policy that was archived on 2009-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090308031815id_/http%3A//www.vindale.com/v/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy policy - Vindale Research
 
@@ -82,4 +82,4 @@ _Telephone: 1-877-484-6325
 Facsimile: 1-866-841-3898   
 Email: privacy@vindale.com _
 
-LAST UPDATED 06/01/2007
+LAST UPDATED 06/01/2007 
