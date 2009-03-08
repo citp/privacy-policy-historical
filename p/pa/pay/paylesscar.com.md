@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paylesscar.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218005615id_/http%3A//www.paylesscarrental.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paylesscar.com privacy policy that was archived on 2009-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090308084544id_/http%3A//www.paylesscarrental.com/privacy.asp) for the most accurate reproduction.*
 
 # Discount Rental Cars: Payless Car Rental
 
@@ -18,7 +18,7 @@ We collect customer data in two ways:
 
 > **1) While making a reservation at Payless.** The information you send will be kept for our records and for our franchisees and affiliates who need that information to provide you a rental car. This information will not be shared with any third parties or any other Payless companies. 
 > 
-> **2) When signing up for a Payless promotion or program.** The information you send will only be used for Payless Car Rental promotions, contests, newsletters, and upcoming events/offers. We will never transmit this information to a third party without your express permission. 
+> **2) When signing up for a Payless promotion or program.** The information you send will only be used for Payless Car Rental promotions (and sister companies), contests, newsletters, and upcoming events/offers. We will never transmit this information to a third party without your express permission. 
 > 
 > If, after signing up for a Payless contest or promotion, you no longer wish to participate, you may Opt-Out of all future mailings from Payless Car Rental System, Inc.
 > 
