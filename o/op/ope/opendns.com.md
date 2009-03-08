@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opendns.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222191657id_/http%3A//www.opendns.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendns.com privacy policy that was archived on 2009-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090308111312id_/http%3A//www.opendns.com/privacy) for the most accurate reproduction.*
 
 # OpenDNS > Privacy Policy
 
