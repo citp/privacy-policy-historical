@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heatworld.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220132950id_/http%3A//www.heatworld.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heatworld.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309195009id_/http%3A//www.heatworld.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Latest celebrity gossip, News and Celeb Pictures | Heat Magazine | Heatworld.com
 
@@ -13,7 +13,7 @@ From time to time we may invite you to supply personal information in order for 
 
 Bauer is registered in accordance with and seeks to comply with the UK Data Protection Act 1998. We follow appropriate security procedures in the storage and disclosure of personal information so as to prevent unauthorised access by third parties. We also require those parties to whom we transfer personal information to comply with the same. However, the Internet is not a totally secure medium and you acknowledge and agree that Bauer shall not be responsible for any unauthorised use, distribution, damage or destruction of personal data, except to the extent. We are required to accept such responsibility by the Data Protection Act 1998.
 
-This Policy only applies to the use that we make of data provided to us via the Internet and email. Other uses may be made of data provided to Bauer in correspondence, by telephone or by other means not detailed in this Policy. These terms apply in addition to [Terms & Conditions Of Use for the website](https://web.archive.org/web/20081220132950id_/http%3A//www.heatworld.com/termsandconditions.aspx).
+This Policy only applies to the use that we make of data provided to us via the Internet and email. Other uses may be made of data provided to Bauer in correspondence, by telephone or by other means not detailed in this Policy. These terms apply in addition to [Terms & Conditions Of Use for the website](https://web.archive.org/web/20090309195009id_/http%3A//www.heatworld.com/termsandconditions.aspx).
 
 ## **Why We Need To Collect Information From You**
 
@@ -35,7 +35,7 @@ We may also need to provide your data to our subscription and other fulfilment a
 
 ## **Content Posted by You**
 
-Of course, if you post any personal information to any bulletin boards or forums, this information will immediately be made available to other users throughout the world who may use it to send you unsolicited communications. Furthermore, in some circumstances we may display some of your personal information (such as username and age) when you post material to the website to allow users to identify each other. At the point of providing personal information, we will advise you of what information may be displayed to other users. Also, if you post any content in breach of our _[Terms& Conditions](https://web.archive.org/web/20081220132950id_/http%3A//www.heatworld.com/termsandconditions.aspx)_ Of Use we may inform any relevant third parties such as your employer, school e-mail/Internet provider and law enforcement agencies about the content and your behaviour.
+Of course, if you post any personal information to any bulletin boards or forums, this information will immediately be made available to other users throughout the world who may use it to send you unsolicited communications. Furthermore, in some circumstances we may display some of your personal information (such as username and age) when you post material to the website to allow users to identify each other. At the point of providing personal information, we will advise you of what information may be displayed to other users. Also, if you post any content in breach of our _[Terms& Conditions](https://web.archive.org/web/20090309195009id_/http%3A//www.heatworld.com/termsandconditions.aspx)_ Of Use we may inform any relevant third parties such as your employer, school e-mail/Internet provider and law enforcement agencies about the content and your behaviour.
 
 ## **Security and possibility of international transfer.**
 
