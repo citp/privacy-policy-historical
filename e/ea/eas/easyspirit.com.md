@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easyspirit.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217130104id_/http%3A//www.easyspirit.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyspirit.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309074833id_/http%3A//www.easyspirit.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# Easy Spirit: Shoes and Handbags for Women
+# Easy Spirit: Comfortable Shoes and Handbags for Women
 
 This easyspirit.com web site is a service of Jones Retail Corporation.
 
