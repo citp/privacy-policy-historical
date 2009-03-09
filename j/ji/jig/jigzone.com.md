@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jigzone.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012615id_/http%3A//jigzone.com/faq/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jigzone.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309231533id_/http%3A//www.jigzone.com/faq/privacy) for the most accurate reproduction.*
 
 # JigZone: Privacy Policy
 
