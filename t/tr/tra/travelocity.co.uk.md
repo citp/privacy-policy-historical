@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelocity.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012126id_/http%3A//trips.travelocity.co.uk/lmn/lmnimage/whitelabel/en_GB/travelo/site/nav/security.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelocity.co.uk privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309061741id_/http%3A//trips.travelocity.co.uk/lmn/lmnimage/whitelabel/en_GB/travelo/site/nav/security.html%23privacy) for the most accurate reproduction.*
 
 # travelocity.co.uk - security
 
@@ -53,7 +53,7 @@ In a large, distributed and complex network such as the Web, the third-party tru
   
    
 **Privacy statement **  
-We are **Last Minute Network Limited (trading as ‘travelocity.co.uk')** and our registered address is 39 Victoria Street, London, SW1E 6JP. **travelocity.co.uk** takes the privacy of its customers data very seriously. Please read the following policy to understand how we will treat your personal data when you use our site. If this policy changes then we will let you know via our homepage but we assure you that we only use your data as specified here and for our legitimate business reasons. 
+We are **Last Minute Network Limited (trading as ‘travelocity.co.uk')** and our registered address is 39 Victoria Street, London, SW1H 0EU. **travelocity.co.uk** takes the privacy of its customers data very seriously. Please read the following policy to understand how we will treat your personal data when you use our site. If this policy changes then we will let you know via our homepage but we assure you that we only use your data as specified here and for our legitimate business reasons. 
 
 **When do we collect data?**   
 We can collect data on you from a variety of different sources these include.   
