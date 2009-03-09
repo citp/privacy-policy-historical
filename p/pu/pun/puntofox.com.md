@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puntofox.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218093127id_/http%3A//www.puntofox.com/ingles/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puntofox.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309154817id_/http%3A//puntofox.com/ingles/privacypolicy.html) for the most accurate reproduction.*
 
 # Welcome to .FOX
 
@@ -9,7 +9,7 @@
 **Notice**
 
 This Web site is operated by Fox Latin American Channel, Inc., and/or its parent or subsidiary companies in the United States of America and worldwide (collectively, “FLAC”). This privacy policy (“Privacy Policy”) applies to information that you provide to FLAC via this site, and/or by use of other services (collectively, the “Services”) that may be provided by other means or media, including as set forth below and as defined in the applicable Terms of Use or other terms.  
-This Privacy Policy is intended to provide you notice of FLAC’s information management practices, including the types of information gathered, how it is used and safeguarded, and the degree to which you may control the maintenance and sharing of your information. Your use of any FLAC Service or Web site constitutes acceptance of this Privacy Policy, the Terms of Use and any other applicable terms. The **[Terms of Use](https://web.archive.org/web/20081218093127id_/http%3A//www.puntofox.com/ingles/termsofuse.html)** for this Web site are hereby incorporated by reference.
+This Privacy Policy is intended to provide you notice of FLAC’s information management practices, including the types of information gathered, how it is used and safeguarded, and the degree to which you may control the maintenance and sharing of your information. Your use of any FLAC Service or Web site constitutes acceptance of this Privacy Policy, the Terms of Use and any other applicable terms. The **[Terms of Use](https://web.archive.org/web/20090309154817id_/http%3A//puntofox.com/ingles/termsofuse.html)** for this Web site are hereby incorporated by reference.
 
 **Personally Identifiable Information That We Collect**  
 FLAC respects your privacy and is committed to protecting personally identifiable information that you provide in connection with your use of its Web sites and Services.
