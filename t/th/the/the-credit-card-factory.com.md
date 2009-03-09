@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the the-credit-card-factory.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219004405id_/http%3A//www.the-credit-card-factory.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-credit-card-factory.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309155944id_/http%3A//www.the-credit-card-factory.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - www.the-credit-card-factory.com
+# Privacy Policy - the-credit-card-factory.com
 
 Advertiser Links for  Below 
 
