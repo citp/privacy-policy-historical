@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the perezhilton.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225032018id_/http%3A//perezhilton.com/%3Fpage_id%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perezhilton.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309095221id_/http%3A//perezhilton.com/%3Fpage_id%3D37) for the most accurate reproduction.*
 
-# Celebrity gossip juicy celebrity rumors Hollywood gossip blog from Perez Hilton » PRIVACY NOTICE
+# Celebrity gossip juicy celebrity rumors Hollywood gossip blog from Perez HiltonPRIVACY NOTICE
 
 **Last updated: May 19, 2008.**
 
