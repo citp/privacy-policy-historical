@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestfares.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220085320id_/http%3A//www.bestfares.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestfares.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309102935id_/http%3A//www.bestfares.com/privacy.php) for the most accurate reproduction.*
 
 # Best Fares.com :. Cheap discount airfares, Cheap discount flights, Cheap discount tickets, Cheap discount cruises
 
