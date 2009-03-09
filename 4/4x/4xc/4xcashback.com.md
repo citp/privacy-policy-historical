@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the 4xcashback.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231023044id_/http%3A//www.4xcashback.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4xcashback.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309071953id_/http%3A//www.4xcashback.com/privacy.php) for the most accurate reproduction.*
 
 # 4XCashback, Forex Rebates, Forex Trading, Online Forex Trading, Foreign Exchange Trading
 
 Privacy Policy   
-  Welcome to [4XCashback](https://web.archive.org/web/20081231023044id_/http%3A//www.4xcashback.com/risk-warning.php) (the “Site”).  
+  Welcome to [4XCashback](https://web.archive.org/web/20090309071953id_/http%3A//www.4xcashback.com/risk-warning.php) (the “Site”).  
 We understand that privacy online is important to users of our Site, especially when conducting business.
 
 This statement governs our privacy policies with respect to those users of the Site (”Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by www. fxrebates.com (collectively, “Services”) (”Authorized Customers”).  
