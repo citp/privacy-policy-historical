@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbtoystore.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220150113id_/http%3A//www.bbtoystore.com/store/CS_privacy.html%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbtoystore.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309161319id_/http%3A//www.bbtoystore.com/store/CS_privacy.html%23privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy: BBToyStore.com - Ty Beanie Babies, Webkinz, McFarlane Toys, Yu-Gi-Oh Pokemon cards for sale buy sell
 
