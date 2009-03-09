@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweepstakes.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216025101id_/http%3A//www.sweepstakes.com/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweepstakes.com privacy policy that was archived on 2009-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090310001906id_/http%3A//www.sweepstakes.com/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Sweepstakes.com Privacy Policy
 
