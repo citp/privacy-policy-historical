@@ -1,115 +1,55 @@
-> *The following text is extracted and transformed from the payoneer.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217053109id_/http%3A//www.payoneer.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payoneer.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309134101id_/http%3A//www.payoneer.com/privacy.aspx) for the most accurate reproduction.*
 
 # Payoneer uses MasterCard prepaid cards to enable payouts from websites to individuals worldwide.
 
-Your trust is the cornerstone of our relationship. That is why we work so diligently to safeguard your privacy. First Bank of Delaware is committed to providing you with the best service and respecting your privacy at the same time. In our effort to provide you with enhanced financial services, First Bank of Delaware may work with affiliates and non-affiliated third parties to provide you with products and services designed to assist you in meeting your financial goals. In order to fulfill this goal, we may share information about you with affiliates or non-affiliated third parties.
+This Privacy Disclosure explains the privacy policies of MetaBank and Payoneer® (“Company”) with respect to the Payoneer prepaid card program.
 
-The following Privacy Notice explains how we use and protect the information about our customers. We ask that you read it carefully.
+We are committed to protecting our customers’ privacy and security. This disclosure explains what information we collect about you, with whom we share it, and how you can direct us not to share certain information with certain parties.
 
-**Notice of Your Financial Privacy Rights**  
-We, our, us, or Bank when used in this Notice, means First Bank of Delaware.
+**We, our, and us,** means MetaBank and Company, the marketer for your Prepaid card issued by MetaBank.
 
-  * Deposit or Loan Account
-  * Credit Card or Stored Value Card 
-  * Credit Card or Stored Value Card 
-  * Financial, investment, or economic advisory services
+**You and your,** means customers with a prepaid card issued by MetaBank, as well as any consumers who enroll for a prepaid card issued by MetaBank.
 
+**Nonpublic personal information,** means information about you that we collect in connection with providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records. Hereafter we will use the term “information” to mean nonpublic personal information as defined by this section.
 
+**Affiliate,** means a company MetaBank or Company owns or controls, a company that owns or controls MetaBank or Company, or a company that is owned or controlled by the same company that owns or controls MetaBank or Company. Ownership does not mean complete ownership, but means enough to have control.
 
-We will tell you the information we collect about you and the measures we take to secure that information. We first define some terms: 
+**Nonaffiliated third party,** means a person not employed by MetaBank or Company or a company that is not an affiliate of MetaBank or Company.
 
-Nonpublic personal information means information about you that we collect in connection with providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or governmental records. Hereinafter, we will use the term “information” to mean nonpublic personal information as defined in this section. 
+**Opt out,** means a choice you can make to prevent certain sharing or use of information. We will explain how you can exercise this choice.
 
-An affiliate is a company we own or control, a company that owns or controls us, or a company that is owned or controlled by the same company that owns or controls us. Ownership does not mean complete ownership, but means owning enough to have control.
+We collect and may disclose the following information about you: 
 
-A person we do not employ or a company that is not an affiliate of ours. 
-
-We restrict access to your personal account information to those staff members who need to know that information in order to provide products and services to you. Examples of how we protect your information include, but are not limited to, the following:
-
-  * Restricting physical or other access to your personal information to persons with a legitimate business need to know the information;
-  * Contractually requiring third parties doing business with us to comply with privacy and security laws;
-  * Maintaining physical, electronic, and procedural safeguards that comply with federal standards to guard your personal information.
+  * Information you provide on applications or other forms, such as name, address, e-mail address, social security number, telephone number, and date of birth;
+  * Information about your transactions with us, our affiliates, or other parties, such as card balance, payment history, parties to transactions, and card usage; and
+  * Information we receive from a consumer reporting agency, such as verification of your identity and creditworthiness.
 
 
 
-We carefully select the companies that provide services on our behalf, or offer you financial services that we do not provide. In order to optimize your relationship with us, we may share nonpublic information we collect about you as follows:
+We may also collect and disclose information about how users use our Web site, for example, by tracking unique views received by pages of the Web site or the domains from which users originate. This information is not personally identifiable. We may also use “cookies” to track returning users to our Web site. A cookie is a piece of software that a Web server can store on the users’ PCs and use to identify the users should they visit the Web site again. Information collected may be associated with nonpublic personal information users provide us through our Web site. 
 
-  * Information we receive from you on applications or other forms in connection with our products and services (including for example, your name, address, social security number, date of birth, assets and income); 
-  * Information about your transactions with us, an affiliate or others (including for example, your account balance, payment history, and credit or debit card usage); and 
-  * Information we receive from a consumer reporting agency (including for example, your creditworthiness and credit history). 
+We may disclose all of the information we collect, as described above, to companies (including affiliates) that perform services on our behalf, including those who assist us in preparing and mailing statements (if applicable) and responding to customer inquiries. We may provide that information, except for information from consumer reporting agencies, to others who perform marketing services for us and to financial institutions that are not our affiliates with whom we jointly offer financial products or services. You do not have the right to opt out of the disclosure of this information.
 
+Our respective affiliates include nonfinancial companies, and may include financial service providers, such as insurance companies. In addition to the information we share with affiliates that provide services to us, we may share information described above among our respective affiliates in order to provide you with information about additional products and services. You have the choice to opt out from our sharing of information with affiliates although, even if you opt out, we may still disclose your information as permitted by law.
 
+We may disclose information to third parties who do not belong to our corporate family. These nonaffiliated third parties may include financial services providers, such as mortgage and insurance companies; nonfinancial companies, such as direct marketers, retailers and publishers; and others, such as nonprofit organizations.
 
-We may share nonpublic personal information about you with the following types of parties as permitted by law (which may be an affiliate or a nonaffiliated third party):
+You have the choice to opt out from our sharing of information with these types of third parties although we may still disclose your information as permitted by law. In addition, we generally will not disclose information to nonaffiliated third parties as long as your billing address is in California or Vermont except as permitted by law.
 
-  * Information we receive from you on applications or other forms, such as your name, address, telephone number, social security number, and date of birth; 
-  * Information about your transactions with us, our affiliates, or others, such as your account balance, types of accounts, or payment performance; and, 
-  * Information we receive from a consumer reporting agency, such as your creditworthiness and credit history. 
+If you prefer that we not share nonpublic personal information about you with third parties, you may optout of those disclosures at any time by directing us not to make those disclosures (other than disclosures permitted or required by law). You may opt-out by calling Company’s Customer Service at 1-800-251- 2521 or by writing to us at Payoneer, Customer Service, 410 Park Avenue, 15th Floor, New York, NY 10022.
 
+We restrict access to nonpublic personal information about you to our employees who have a need to know such information (e.g., to process your transactions). We train our employees on the importance of customer privacy and confidentiality. We also maintain physical, electronic, and procedural safeguards that comply with federal standards to guard the nonpublic personal information of our customers.
 
+The privacy policies and practices described in this Privacy Disclosure also apply to our former customers.
 
-All information conveyed herein with respect to how we use or disclose nonpublic personal information shall also apply to former customers. 
+Our website may feature links to third-party sites that offer goods, services, or information. We are not responsible for content or privacy policies or practices of any advertisers or linked sites of any third parties. We encourage you to review their privacy policy before providing them with any personally identifiable information. Third party sites may collect and use information about you in a way that is different from this policy.
 
-Under the Fair Credit Reporting Act, we are permitted to share your name, address, and facts about your transactions with us (such as your payment history and other transactions on your accounts with us) with companies affiliated with First Bank of Delaware. 
+You can access most of your nonpublic personal information that we collect online and maintain at [www.payoneer.com.](http://www.payoneer.com/) You can correct factual errors in your nonpublic personal information by contacting us at the number or address listed above.
 
-If you believe you may be a victim of identity theft, please follow the following procedures: 
+We may change our Privacy Disclosure from time to time. We will provide current customers with a revised disclosure that describes the new practices as required by law.
 
-  * If you suspect that someone has had unauthorized access to your account with us, or access to your personal identifying information such as your social security number or credit/debit card information, please call us immediately at 1-888-FBD-3511 so we can take action to protect you. Our website also provides additional information regarding “Customer Security Awareness” --Please visit our website at [www.fbdel.com](http://www.fbdel.com/pgsGen/default.asp). 
-  * You should also report the crime to your local law enforcement agency and to the Federal Trade Commission (“FTC”). To speak with a trained FTC telephone counselor, call toll-free at 1-877-IDTHEFT (1-877-438-4338). Or to enter information about your complaint into a secure FTC online database, sign onto [www.ftc.gov/idtheft](http://www.ftc.gov/bcp/edu/microsites/idtheft/). The site also provides links to numerous consumer education materials.
-  * Contact the Social Security Administration’s Fraud Hotline toll-free at 1-800-269-0271 to report any suspected fraudulent use of your identification information.
-  * Report the incident as quickly as possible to any one of the credit reporting agencies:  
-Experian: \- 888-397-3742  
-Equifax: \- 800-525-6285  
-Tran Union: \- 800-680-7289
-  * You should obtain and review a current credit bureau report to identify any unauthorized accounts or inquiries and ask the credit reporting agency about placing a “Victim Alert Flag” on your files. 
+In order to comply with California law, if our records with respect to your card indicate a California address we will not disclose information that we have about you outside of our family of companies, unless otherwise permitted by law.
 
+In order to comply with Vermont law, if our records with respect to your card indicate a Vermont address we will not disclose nonpublic personal financial information about you to nonaffiliated third parties, other than permitted by law, unless you authorize us to make that disclosure. Your authorization must be in writing or, if you agree, in electronic form. If we disclose information about you to nonaffiliated third parties with whom we have joint marketing agreements, we will only share information about your name, contact information, and our own transactions and experiences with you.
 
-
-Federal law gives you the right to limit some but not all marketing from our affiliates. Federal law also requires us to give you this Notice to tell you about your choices to limit marketing from our affiliates.
-
-You may limit our affiliates from marketing their products or services to you based on your personal information that we collect and share with them. This information includes your income, your account history with us, and your credit score.
-
-You have the right to restrict the sharing of personal and financial information with our affiliates(s) and outside companies that we do business with. Nothing in the Notice prohibits the sharing of information as permitted by law. This includes sending you information about some other products or services. 
-
-If you have no objection to our sharing of information about you as described in this Notice, you do not have to do anything. If you have previously opted not to allow us to share your information, again, you do not have to do anything as that election will continue to be honored until you tell us to change your choice. Your election will also apply to all individuals with whom you hold joint accounts.
-
-Please remember that if we are not permitted to share non-transaction information about you with our affiliates, it may affect our ability to help you fulfill your financial goals and the way we manage our relationship with you.
-
-If you wish to opt-out of our sharing of information about you, please complete the following “Your Choices” form in its entirety and return it to:
-
-First Bank of Delaware  
-Attention: Privacy Choice Processing/Operations  
-Two Liberty Place  
-50 South 16th Street, Suite 2400  
-Philadelphia, PA 19102
-
-Or call us toll-free at 1-888-FBD-3511
-
-\------------------------CUT HERE & RETURN BOTTOM PORTION ONLY------------------------  
-( PLEASE RETAIN PRIVACY NOTICE FOR YOUR RECORDS) 
-
-_YOUR CHOICES_ (Please State Your Choices Below):
-
-Restrict Information Sharing With Companies We Own or Control (Affiliates)  
-Unless you “Opt-Out” below, First Bank of Delaware may share non-transaction (other than transaction or experience information) personal and financial information about you with our affiliated companies.
-
-Yes, I want to “Opt-Out” of sharing – Please do not share my non-transaction personal and financial information with your affiliated companies.
-
-Restrict Information Sharing With Other Companies We Do Business With  
-Unless you “Opt-Out” below, First Bank of Delaware may share personal and financial information about you with outside companies we contract with to provide financial products and services to you.
-
-Yes, I want to “Opt-Out” of sharing – Please do not share my personal and financial information with outside companies you contract with to provide financial products and services.
-
-NAME:___________________________________________________________________  
-(Please Print)
-
-SIGNATURE: _____________________________________________________________
-
-ACCOUNT(s): ____________________________________________________________  
-(Account Numbers to be Provided by Customer)
-
-Time Sensitive Rely: You may make your Privacy Choice(s) at any time. Your Privacy Choice(s) marked here will remain unless you state otherwise. However, if we do not hear from you, we may share some of your information with affiliated companies and other companies with whom we have contracts to provide products and services.
-
-Special Notice to Vermont and California Customers: If you have a Vermont or California mailing address, we will automatically limit the disclosure of your information to affiliated and non-affiliated companies.
-
-Other State Privacy Laws: We will also comply with all other state privacy laws to the extent that they apply to First Bank of Delaware. 
+If you have any questions regarding this Privacy Disclosure, you can contact us at 1-800-251-2521 or by writing to us at Payoneer, Customer Service, 410 Park Avenue, 15th Floor, New York, NY 10022.
