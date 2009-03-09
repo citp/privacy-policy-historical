@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designforjoomla.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216041324id_/http%3A//designforjoomla.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designforjoomla.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309065123id_/http%3A//designforjoomla.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Joomla Templates, Joomla Extensions for the Joomla CMS - Privacy Policy
 
@@ -26,17 +26,17 @@ We do not sell user list of our users to any third party company for any further
 
 ### Popular D4J Joomla! Templates Club Templates
 
-**Carbonated** is a modern design added to D4J Joomla! Templates Club. ...
+**Sun Flower** is simple and usable design. You can use ...
 
-| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/carbonated.php)  
+| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/sunflower.php)  
 ---|---  
   
-**Busy_City** is a clean and elegant design. The layout is simple ...
+**Summer_Holiday** is a vivid and inspired template that is a perfect ...
 
-| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/busy_city.php)  
+| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/summer_holiday.php)  
 ---|---  
   
-**Expert Vision** \- a simple style - easily editable for your website. ...
+**Infotech Growth** is a modest design added to D4J Joomla! Template ...
 
-| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/rainbow_consultant_2.php)  
+| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/breakingontop_2.php)  
 ---|---
