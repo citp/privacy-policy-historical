@@ -1,41 +1,90 @@
-> *The following text is extracted and transformed from the ebgames.ca privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610084605id_/http%3A//www.ebgames.com/ebx/help/default.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebgames.ca privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309233029id_/http%3A//www.ebgames.ca/privacy.asp) for the most accurate reproduction.*
 
-# EBgames.com - Help Desk
+# EBGames Canada
 
-* * *
+## EB Games Privacy Statement
 
-  
-**First Time Visitors**
+**EB Games Commitment to Privacy**  
+At EB Games we are committed to your right to privacy.  We collect personal information from our customers in the regular course of doing business.  This document answers some of your most frequently asked questions, and lets you know exactly how we’re protecting the information you entrust to us.
 
-* * *
+**What personal information do we collect about you?**  
+At EB Games we collect personal information such as:
 
-» **Welcome to EBgames.com**  
-You've probably come here because you have a question about something, or you are just curious how something on our site works. Either way, we here at EBgames.com are committed to making your shopping experience an enjoyable one. If you don't find what you need here, feel free to call our Customer Service center at **1-877-432-9675** to speak with a Customer Service Representative. Hours of operation: Open everyday 8:00 a.m. to midnight e.s.t. 
+  * Name
+  * Address, Postal Code & Municipality
+  * Telephone Number with Area Code
+  * Driver’s License or any other applicable piece of identification in accordance with the federal and provincial statutes (excluding Social Insurance Numbers and Provincial Health Card)
+  * Customer financial information (including debit card and credit card numbers)
+  * From time to time we may solicit customer opinions, interests and/or hobbies
 
-Still have a question?    
-[contact EBgames.com](javascript:atOnce\(\);)
 
-» **Privacy Statement**  
-Your Privacy is taken seriously at EBgames.com 
 
-The data we collect is used to give us demographic information about the entire EBgames.com audience to improve the EBgames.com service and help us sell the advertising that supports the site. The personal information you provide lets us inform you about updates to the service and notify you of products and services of EBgames.com. 
+**When you visit our web site, we also collect:**
 
-EBgames.com will not give out personal information to any third parties unless authorized. If at any time you would no longer like to take part in the e-mail program, simply e-mail us via the address that is provided at the bottom of any e-mail that we send to you with the UN-SUBSCRIBE command and you will be taken off of the list within 24-48 hours.
+  * We track selected IP addresses from our most frequent visitors 
+  * No other electronic information is captured
 
-» **Secure Shopping**  
-You don't have to worry about the safety of your credit card information when shopping at EBgames.com. You can rest assured that your online shopping experience at EBgames.com will be a secure one.
 
-EBgames.com uses encryption technology to ensure that any information you transmit during the ordering process is secure. Our servers here at EBgames.com are secured to protect all personal information including credit card numbers, your address and any products you may order. EBgames.com has been certified as an Authentic VeriSign Site and displays the VeriSign logo to prove it (Look at the navigation area to the left).
 
-If you still do not feel comfortable sending your credit card information over the Internet, and prefer to place the order by phone with an EBgames.com Customer Service Representative, simply call **1-877-432-9675** and a representative will help you. Hours of operation: Open everyday 8:00 a.m. to midnight e.s.t.  You can send e-mail to [help@ebgames.com](mailto:help@ebgames.com). 
+**How do we use your information?**  
+The main reasons we collect personal information from you are:
 
-» **Parent's Guide**  
-As a parent today, you are constantly faced with decisions regarding your child's development in this age of high technology...
+  * To complete a sales transaction with you
+  * To place pre-orders on your behalf 
+  * Processing trades, Edge Card memberships
+  * To limit the possibility of fraud when we process your refunds and/or exchanges
+  * Rebates
+  * Contests, promotions or surveys
 
-These choices can seem especially daunting when you are buying or renting software for children to use on computers and video game systems. Indeed, you can sometimes feel as if you know less about what's in this software than your own kids do.
 
-This is why the Entertainment Software Rating Board (ESRB) has written the [Parent's Guide To Interactive Entertainment](https://web.archive.org/web/20020610084605id_/http%3A//www.ebgames.com/ebx/help/esrb/default.asp). 
 
-» **Search Tips**  
-To perform a search on EBgames.com, use the search box on the top of the blue bar at the left hand side of every page. When typing a name to search for, be general. For example, if you want to find the game Diablo 2, just type in "Diablo". This would find all of the games that contain Diablo in the title, among them Diablo 2.   
+**We also use your personal information for other, secondary reasons, including:**
 
+  * Customer service
+  * As part of extended service agreements
+  * To administer a loyalty program
+
+
+
+**Legal Disclosure**  
+We will also disclose your personal information if we are required by law to do so.
+
+**How do we gain your consent?**  
+When you provide us with personal information to complete a transaction, place a pre-order, or return a purchase, we assume you consent to our collecting it and using it for that specific reason only.  Please note that our refund policy is prominently displayed in each store location at the point of sale terminal.
+
+If we ask you for personal information for a secondary reason, like contests, we will either ask you directly for your consent or provide you with an opportunity to say no. 
+
+**What EB Games doesn’t do with your information?**
+
+  * EB Games does not share your information with any third party company
+  * We do not compile databases or personal subscriber lists
+  * We do not use your information for internal marketing purposes
+
+
+
+**How does EB Games protect your information?**
+
+  * We are fully SOX compliant with debit / credit card data
+  * We are PCI compliant in all areas
+  * We have numerous fire walls that protect us from intrusion 
+  * Electronic data is stored behind secured encryption access
+  * Paper data is stored in a secure location
+
+
+
+**When is my information removed?**
+
+  * In accordance to EB Games retention schedule and depending on the nature of the document within a timely manner 
+  * Documents are securely shredded by a member of the upper management team
+
+
+
+**How can I contact EB Games?**  
+EB Games is responsible for all personal information within its control.  Our senior management team is accountable for EB Games compliance in respect to our privacy commitment to you, our consumer.
+
+You may contact a member of the senior management team by calling **(905) 790-9262** or in writing to:
+
+**Privacy Compliance @ EB Games**  
+**8995 Airport Road** ****  
+**Brampton** **, Ontario** ****  
+**L6T 5T2**
