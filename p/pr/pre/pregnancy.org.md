@@ -1,73 +1,32 @@
-> *The following text is extracted and transformed from the pregnancy.org privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613043123id_/http%3A//www.pregnancy.org/article.php%3Fsid%3D242) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pregnancy.org privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309070236id_/http%3A//www.pregnancy.org/content/privacy-policy) for the most accurate reproduction.*
 
-# Inside Pregnancy.org
+# Privacy Policy | Pregnancy.org
 
-| 
+**Privacy Policy Statement**  
+This is the web site of Pregnancy.org, LLC
 
-#### Pregnancy.org's Privacy Policy
+Our postal address is  
+21976 Palm Grass Drive  
+Boca Raton, FL 33428
 
-##### Site Information
+We can be reached via e-mail [by clicking here](mailto:molleeb@pregnancy.org) or you can reach us by telephone at 561-883-5243.
 
-##### OVERVIEW
+For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
-This privacy policy describes the information we collect through the Pregnancy.org Network of websites (collectively, the "Website Partners") and our own site Pregnancy.org, and how we use and protect it. Our privacy policy may be updated to meet the needs of consumers and Partners. We will always post our most current privacy policy on the Web Site. Any changes to our privacy policy will be effective upon posting pursuant to our notification of changes section. By using the Web Site, you are agreeing to accept the terms of our privacy policy as currently [posted on the Web Site](http://www.pregnancy.org/article.php?sid=305). If you have any questions about our privacy policy, [please contact us](mailto:feedback@pregnancy.org). 
+We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address and photographs in community areas.
 
-##### GENERAL PROVISIONS
+The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, shared with agents or contractors who assist in providing support for our internal operations, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the Website.
 
-**Privacy Philosophy for Pregnancy.org**  
-Pregnancy.org has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for data collected through Pregnancy.org and received from Website Partners. 
+With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site , ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors' browser type or other information that the visitor sends.
 
-**What non-personally identifiable information is collected and how is it used?**  
-IP Address and Other Non-personally Identifiable Information. We collect and use your IP address to help administer the Web Site. Your IP address is used to help identify you and your previous activity on the Pregnancy.org. We may also collect information such as browser type, domain name, access time, and page views. This information may be used to help analyze site traffic and improve our services to our customers. 
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
-**Cookies.**  
-For your convenience, we place cookies on your computer, so we can keep track of your personal information and previous promotion selections, make sure that you don't see the same promotional offer repeatedly, and otherwise customize your experience on the Pregnancy.org website. If your system does not accept cookies, we cannot customize your experience on the Pregnancy.org website. 
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. 
 
-**What personally identifiable information of yours is collected & how is it used?**  
-Both our Website Partners and Pregnancy.org collect personally identifiable information. 
+For further information, consult the privacy policies of: [NBC](http://www.nbc.com/Footer/Privacy)
 
-The personally identifiable information we receive from Website Partners has been voluntarily submitted by you, during an online registration. Website Partners share select data elements (such as your name and address) from your registration with Pregnancy.org to help us determine which promotional offers, advertisements, surveys and contests may be of interest to you. 
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-Pregnancy.org collects personally identifiable information you submit in response to the promotional offers, advertisements, surveys and contests. To streamline the process and eliminate the need to re-key your information, we link your selections of offers and advertisements, survey answers or entry into contests to the data elements we receive from the referring Website Partner. 
+Upon request we offer visitors the ability to have inaccuracies corrected in contact information, unique identifiers. Consumers can have this information corrected by sending an email to [errors-bugreports@pregnancy.org](mailto:errors-bugreports@pregnancy.org).
 
-**Promotional Offers.**  
-All information that you submit on our order forms is collected and stored by us and may be provided to the applicable Partner (as this term is defined in this policy). We also use such personally identifiable information provided by you on the order form to fulfill your requests and orders. 
-
-**Online Surveys and Questions.**  
-We sometimes ask you to complete our online surveys or answer additional questions regarding your interest in a particular product or service in which you.ve expressed interest. You may be asked to provide contact information (like your email address) and demographic information (like your zip code, age, or income level). Participation in these surveys is optional. The personally identifiable information that we collect from these surveys is used by both Pregnancy.org and our Partners to better understand your needs. 
-
-**Contests.**  
-Pregnancy.org has relationships with businesses that contribute and offer promotions on the Pregnancy.org Network, commonly referred to as Advertisers, and Web sites that carry the promotions offered by Advertisers on the Pregnancy.org Network, commonly referred to as Web Site Partners (collectively, "Partners"). Certain Partners may run contests, sweepstakes, and other promotions on the Web Site from time to time. To participate, you may be asked for to provide certain personally identifiable information and other information and materials. Any such information that you submit is collected by us (and may be shared with our Partners) and/or our Partner (and may be shared with us) running the contest, sweepstakes, or other promotion and will be used in accordance with the Official Rules provided in connection with such contest, sweepstakes, or other promotion. 
-
-**Contact Us and Feedback Forms.**  
-Pregnancy.org collects contact information (like your email address) on Contact Us and Feedback Forms. The personally identifiable information that we collect from these forms is used to better understand your needs and provide you with the type of services and information that you may be interested in. We may store such information to be used for future mailings or to otherwise contact you. 
-
-**What organization is collecting the information?**  
-All information that you provide is collected by Pregnancy.org and/or our Partners. 
-
-**Do you share any of the above information with others?**  
-We may share personally identifiable information and non-personally identifiable information about our customers (i.e., information that does not identify individual users such as individual or aggregate demographic information) with (i) our Partners and (ii) other third parties that perform functions on our behalf or on behalf of our Partners, such as companies or individuals that deliver packages, fulfill orders, provide marketing assistance, process credit card payments, analyze data, or provide customer service (collectively, "Agents"). Personally identifiable information is shared with those Partners on whose behalf such information was collected (e.g., for the purpose of fulfilling your orders) or whom you have opted-in to allow (or on certain occasions, not opted-out of allowing) us to share your information, and with Agents only to the extent they need such information to perform their functions. We do not resell or otherwise distribute personally identifiable information to parties other than our Partners and Agents and we do not authorize any of our Partners or Agents to resell or otherwise distribute any information that we provide them without prior approval from you. We and our Partners may, however, sell and otherwise share non-personally identifiable, aggregate information with third parties. 
-
-**What choices are available to you regarding collection, use and distribution of the information?** All personally identifiable information that we collect on the Web Site is provided to us voluntarily by users. We provide you with the opportunity to opt-out of receiving communications from us by [e-mailing us](mailto:errors@pregnancy.org). We also urge all of our Partners to give you the opportunity to opt-out of receiving future communications from them. However, we cannot monitor or guarantee that our Partners will provide you with such opt-out opportunity. If you wish to remove your personally identifiable information from our database and not receive future communications from us, you can contact us as provided below. If you wish to remove your information from the database of our Partners to whom we provided your information, you must contact them directly. 
-
-**What kinds of security procedures are in place to protect the loss, misuse or unauthorized alteration of information under the company's control?**  
-Pregnancy.org has security measures in place to protect the loss, misuse, and alteration of the information under our control. The Pregnancy.org Network operates secure data networks protected by industry standard firewall and password protection systems. All financial information is encrypted and securely transferred for fulfillment purposes. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers. Any particularly sensitive information, such as a customer's credit card number collected for a commerce transaction, is encrypted prior to transmission and is sent directly to the applicable Marketers and not to any other intermediaries. 
-
-**How you can correct any inaccuracies in the information?**  
-You can review, modify, or delete the information you previously provided at any time. If you wish to review, change or modify your information, stop receiving future communications from us, or have any questions about this privacy statement, you may contact us by e-mail or postal mail. 
-
-##### OTHER PROVISIONS
-
-**Legal Requirements.**  
-We may, however, disclose personally identifiable information to other parties if required to do so by law or if we reasonably believe that such action is necessary (i) to conform to the requirements of the law or to comply with legal process served on Pregnancy.org, (ii) to protect and defend the legal rights or property of Pregnancy.org, the Web Site or our customers, or (iii) in an emergency, to protect the health and safety of our customers or the general public. 
-
-**Transfer of Assets.**  
-If another entity acquires Pregnancy.org or all or substantially all of its assets, personally identifiable information, aggregate information, and any other information that we have collected about our customers will be transferred to such entity as one of the transferred assets. Also, if any bankruptcy or reorganization proceeding is brought by or against Pregnancy.org, all such information may be considered an asset of Pregnancy.org and as such may be sold or transferred to third parties. Users will be notified via email prior to the transfer of ownership or control of your information and will be presented with an opportunity to opt-out of having their information shared with the new entity. 
-
-**Notification of Changes.**  
-If at some point in the future, there is a substantive change to our information usage practices that materially affect your personally identifiable information, we will send an email to the email address you have provided, notifying you of the relevant changes. You will be provided in the email the opportunity to opt-out of any further use by us of any of your personally identifiable information. 
-
-**Third-Party Links.**  
-For your convenience, the Web Site contains links to other sites, including site owned or operated by our Partners. Although every Partner (but not advertiser whose banner or other advertising is displayed on the Web Site) is required to sign a contract that requires them to adhere to Pregnancy.org's privacy policy, we have no real control over the linked sites and we are not responsible for the privacy practices or the content of any third-party sites linked to or from Pregnancy.org. We encourage you to note when you leave Pregnancy.org and to read the privacy statement of these third-party sites. 
-
-| 
+With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
