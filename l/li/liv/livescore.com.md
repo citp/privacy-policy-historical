@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livescore.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004123354id_/http%3A//www1.livescore.com/default.dll%3Fpage%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livescore.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309161052id_/http%3A//www.livescore.com/default.dll%3Fpage%3Dpolicy) for the most accurate reproduction.*
 
-# Live Score service (powered by LiveScore.com)
+# LiveScore.com - Soccer Live Scores
 
   
 LiveScore Ltd, and its affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. 
@@ -33,4 +33,4 @@ If you do not want the benefit of cookies, there is a simple procedure to manual
 
  **Third party ad serving**
 
-LiveScore Ltd also works with some other third parties that serve ads to this site (i.e. Doubleclick, Realmedia, 24/7, Bostonmedia, Zedo,...). We only choose to use ad serving solutions of companies whose Privacy Policy is in line with ours and if you would like to find out more about how they manage the privacy of information in conjunction with serving ads on this site, or if you have any additional questions about our dedication to consumer privacy, please contact us at [info@livescore.com](mailto:info@livescore.com)
+LiveScore Ltd also works with some other third parties that serve ads to this site (i.e. Doubleclick, Realmedia, 24/7, Zedo,...). We only choose to use ad serving solutions of companies whose Privacy Policy is in line with ours and if you would like to find out more about how they manage the privacy of information in conjunction with serving ads on this site, or if you have any additional questions about our dedication to consumer privacy, please contact us at [LiveScore Ltd.](https://web.archive.org/default.dll?page=contact)
