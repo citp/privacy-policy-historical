@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glitterfy.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220135008id_/http%3A//www.glitterfy.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glitterfy.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309223214id_/http%3A//www.glitterfy.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Service - Glitterfy.com
 
@@ -35,7 +35,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 Third Party Cookies In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. Glitterfy.com welcomes your questions and comments about privacy. Please send e-mail to [glitterfied@glitterfy.com](mailto:glitterfied@glitterfy.com)
 
-© 2006-2008 [Binary Inertia LLC](http://www.binaryinertia.net/)  
+© 2006-2009 [Binary Inertia LLC](http://www.binaryinertia.net/)  
 All Rights Reserved  
 [Privacy Policy](http://www.glitterfy.com/privacypolicy.php)  
 We are in no way affiliated with MySpace, Friendster, Hi5, Orkut  
