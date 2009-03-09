@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winemarket.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216111839id_/http%3A//www.winemarket.com.au/Terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winemarket.com.au privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309065507id_/http%3A//www.winemarket.com.au/Terms_privacy.asp) for the most accurate reproduction.*
 
 # Winemarket, the cheapest Australian Online wine shop to buy wine online or buy champagne online! The biggest brands at the cheapest prices!
 
@@ -55,7 +55,7 @@ Online Policy Only
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 Terms and Conditions  
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20081216111839id_/http%3A//www.winemarket.com.au/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20090309065507id_/http%3A//www.winemarket.com.au/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent  
 By using our site, you consent to our privacy policy.
