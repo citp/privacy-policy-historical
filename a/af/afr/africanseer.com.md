@@ -1,46 +1,61 @@
-> *The following text is extracted and transformed from the africanseer.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216024610id_/http%3A//www.africanseer.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africanseer.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309045011id_/http%3A//www.africanseer.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy | Africanseer News & Information
 
-  
-**Privacy Statement for AfricanSeer  
-**AfricanSeer.Com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: AfricanSeer 
+Africanseer takes your privacy seriously. Please read the following to learn more about our privacy policy.  
+What This Privacy Policy Covers
 
-**Information Automatically Logged  
-**We use your IP address to help diagnose problems with our server and to administer our Web site, and to help identify you and your shopping cart. Your IP address is also used to gather broad demographic information, and for other purposes. 
+This policy covers how Africanseer treats personal information that Africanseer collects and receives, including information related to your past use of Africanseer products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.  
+This policy does not apply to the practices of companies that Africanseer does not own or control or to people that Africanseer does not employ or manage.  
+Information Collection and Use  
+General 
 
-Our Site uses cookies to save your password so you don't have to re-enter it each time you visit our site. We also use cookies for other purposes. 
+Africanseer collects personal information when you register with Africanseer, when you use Africanseer products or services, when you visit Africanseer pages or the pages of certain Africanseer partners, and when you enter promotions or newsletters. Africanseer may combine information about you that we have with information we obtain from business partners or other companies.  
+When you register we ask for information such as your name, email address, birth date, gender, postal code, occupation, industry, and personal interests. For some financial products and services we may also ask for your address, Social Security number, and information about your assets. Once you register with Africanseer and sign in to our services, you are not anonymous to us.  
+Africanseer collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.  
+Africanseer automatically receives and records information on our server logs from your browser, including your IP address, Africanseer cookie information, and the page you request.  
+Africanseer uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.  
+Children
 
-**Advertisers  
-**We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+When a child under age 18 attempts to register with Africanseer, we ask that he or she has a parent or guardian creates a Africanseer Account to obtain parental permission.  
+Africanseer will not contact children under age 18 about special offers or for marketing purposes without a parent’s permission.  
+Africanseer does not ask a child under age 18 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion.  
+Information Sharing and Disclosure
 
-**Personal Information  
-**This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. 
+Africanseer does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:  
+We provide the information to trusted partners who work on behalf of or with Africanseer under confidentiality agreements. These companies may use your personal information to help Africanseer communicate with you about offers from Africanseer and our marketing partners. However, these companies do not have any independent right to share this information.  
+We have a parent’s permission to share the information if the user is a child under age 18. Parents have the option of allowing Africanseer to collect and use their child’s information without consenting to Africanseer sharing of this information with people and companies who may use this information for their own purposes;  
+We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;  
+We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Africanseer’s terms of use, or as otherwise required by law.  
+We transfer information about you if Africanseer is acquired by or merged with another company. In this event, Africanseer will notify you before information about you is transferred and becomes subject to a different privacy policy.  
+Africanseer displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area.  
+Africanseer does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.  
+Africanseer advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies).  
+Africanseer works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you’ve requested contact us.  
+Cookies
 
-Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes. 
+Africanseer may set and access Africanseer cookies on your computer.  
+Africanseer lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies’ use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Africanseer’s cookies.  
+Africanseer uses web beacons to access Africanseer cookies inside and outside our network of web sites and in connection with Africanseer products and services.  
+Your Ability to Edit and Delete Your Account Information and Preferences  
+General
 
-**External Links  
-**This site contains links to other sites. AfricanSeer is not responsible for the privacy practices or the content of such Web sites. 
+You can edit your Africanseer Account Information, including your marketing preferences, at any time.  
+New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.  
+We reserve the right to send you certain communications relating to the Africanseer service, such as service announcements, administrative messages and the Africanseer Newsletter, that are considered part of your Africanseer account, without offering you the opportunity to opt-out of receiving them.  
+You can delete your Africanseer account by visiting our Account Deletion page. Please be aware that your information might possibly remain in our archived records after your account has been deleted.  
+Children 
 
-**Public Forums  
-**This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+Parents can review, edit, and delete information relating to their child’s Africanseer account using tools offered by Africanseer Accounts.  
+If a parent chooses not to allow us to further collect or use a child’s information, parents enrolled in Africanseer Accounts can delete their child’s account by signing into that child’s account and then visiting our Account Deletion page. Please be aware that your information might possibly remain in our archived records after your account has been deleted.  
+Confidentiality and Security 
 
-**Children's Guidelines  
-**AfricanSeer is a family oriented website and as such due caution is taken to see that it meets with all national, international and local standards of operation. Safeguarding the Personal Information of children is extremely important. For those AfricanSeer sites specifically directed at children, and where users have indicated they are younger than 18, AfricanSeer sites will collect the minimum amount of Personal Information necessary to the operation of the service. These Online Ghana sites will also send follow up mail to the user's e-mail address instructing them to seek parental permission for their use of the site. A child's Personal Information will be used for the operation of the service but it will not be used for "Secondary Uses" without a parent's permission. 
+We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.  
+We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.  
+To learn more about security, including the security steps we have taken and security steps you can take, please contact us.  
+Changes to this Privacy Policy
 
-**Contacting the Web Site  
-**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us. 
+Africanseer may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Africanseer account or by placing a prominent notice on our site.  
+Questions and Suggestions 
 
-AfricanSeer.com works with third parties that serves ads to this site. They include: 
-
-  * **Value Click Media**
-  * **Casalemedia**
-
-
-
-To find out more about how valueclickmedia manages the privacy of information in conjunction with serving ads on this site, please go to [http://www.valueclickmedia.com/about/privacy.html](http://www.fastclick.com/about/privacy.html)
-
-  
-To find out more about how Casalemedia manages the privacy of information in conjunction with serving ads on this site, please go to [http://www.Casalemedia.com/release/privacy.asp](http://www.casalemedia.com/release/privacy.asp)
-
-Send mail to [info@AfricanSeer.com](mailto:info@AfricanSeer.com) with questions or comments about this web site. 
+If you have questions or suggestions, please complete a feedback form or you can contact us at: Webmaster@africanseer.com 
