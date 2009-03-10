@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roberthalf.com.au privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612132210id_/http%3A//www.roberthalf.com.au/Site/showpage.jsp%3Fp%3DPRIVACY_STATEMENT%26s%3DRHI_AUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roberthalf.com.au privacy policy that was archived on 2009-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090310043105id_/http%3A//www.roberthalf.com.au/Site/showpage.jsp%3Fp%3DPRIVACY_STATEMENT%26s%3DRHI_AUS) for the most accurate reproduction.*
 
 # Robert Half Privacy Statement
 
