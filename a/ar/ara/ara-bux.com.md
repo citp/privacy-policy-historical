@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ara-bux.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035218id_/http%3A//www.ara-bux.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ara-bux.com privacy policy that was archived on 2009-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090311001259id_/http%3A//www.ara-bux.com/privacy.php) for the most accurate reproduction.*
 
 # ARA-Bux | .click .view .earn
 
@@ -27,7 +27,7 @@ There are links on ARA-UK.com Ltd. web sites to third party web sites which ARA-
 **Cookies and other tracking devices**  
 Cookies are information that are sent to and stored on your computer. They are used to identify you when you visit our sites. Cookies are used to remember usernames, passwords and your preferences. ARA-UK.com Ltd. websites may contain advertisements created and provided by third parties. These advertisements may also place Cookies on your computer that collect information about your use of the Internet. ARA-UK.com Ltd. does not control the collection or use of your information by such advertisers and our privacy policy does not apply to such information. 
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us by sending a [support ticket](https://web.archive.org/web/20081217035218id_/http%3A//www.ara-bux.com/contact). 
+If you do not want to receive e-mail from us in the future, please let us know by sending us by sending a [support ticket](https://web.archive.org/web/20090311001259id_/http%3A//www.ara-bux.com/contact). 
 
   
 
