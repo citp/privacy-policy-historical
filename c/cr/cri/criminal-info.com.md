@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the criminal-info.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217090657id_/http%3A//criminal-info.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criminal-info.com privacy policy that was archived on 2009-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090310035315id_/http%3A//criminal-info.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Criminal-Info.com - Privacy Policy
 
