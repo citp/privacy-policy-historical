@@ -1,121 +1,88 @@
-> *The following text is extracted and transformed from the alphamediagroup.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630144358id_/http%3A//privacy.yahoo.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphamediagroup.com privacy policy that was archived on 2009-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090310150410id_/http%3A//www.alphamediagroup.com/legal/privacy.aspx) for the most accurate reproduction.*
 
-# Yahoo! Privacy
+# Privacy | Maxim.com
 
-| **More about Yahoo! Privacy**  
----  
-|  We have detailed reference links describing our privacy practices for a wide range of Yahoo! products and services.   
-[Find them here](https://web.archive.org/privacy/us/all.html).   
-**Assistance**  
-· | [Printer-friendly format](https://web.archive.org/privacy/us/print.html)  
-· | [Help](http://help.yahoo.com/help/us/privacy/)  
-· | [Contact us](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback)  
-· | [Edit Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.done=privacy.yahoo.com/privacy/us/)  
-· | [Marketing Preferences](http://subscribe.yahoo.com/showaccount)  
-**Special Topics**  
-· | [Security at Yahoo!](https://web.archive.org/privacy/us/security/details.html)  
-· | [Cookies](https://web.archive.org/privacy/us/cookies/details.html)  
-· | [Third Party Ad Servers](https://web.archive.org/privacy/us/adservers/details.html)  
-· | [more...](https://web.archive.org/privacy/us/all.html)  
-**Privacy Links**  
-· | [Full Coverage: Privacy](http://fullcoverage.yahoo.com/Full_Coverage/Tech/Internet_Privacy)  
-· | [Yahoo! Category: Privacy](http://dir.yahoo.com/Computers_and_Internet/Internet/Issues/Privacy/)  
-· | [Yahoo! Search: Privacy](http://search.yahoo.com/bin/search?p=privacy)  
-· | [Yahoo! Category: Security](http://dir.yahoo.com/Computers_and_Internet/Security_and_Encryption/)  
-· | [Federal Trade Commission](http://www.ftc.gov/)  
-  
-* * *  
-  
-  | 
+**PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS SITE.
 
-[](https://www.truste.org/ivalidate.php?url=www.yahoo.com) Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
+LAST UPDATED: November 17, 2006
 
-**NOTICE:[Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm) for important information about safe surfing from the Federal Trade Commission. **
+**
 
-**What This Privacy Policy Covers**  
+As used herein, "Site" refers to maxim.com and other sites on the World Wide Web (including sites designed to be accessed by browsers using Wireless Application Protocol) originating in the United States which are owned and/or operated by Dennis Digital, Inc. (collectively, "Dennis"). By using the Site, you indicate your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, you are not permitted to access the Site and you should not do so. 
 
+Dennis reserves the right to change or otherwise update this Privacy Policy at any time. Such changes or updates are effective immediately after Dennis gives notice of the change or update, which Dennis may do by posting on the Site, or by e-mail or conventional mail, and/or by any other means which provides reasonable notice. Your use of the Site after such notice is posted means that you accept these changes or updates. 
 
-  * This policy covers how Yahoo! treats personal information that Yahoo! collects and receives, including information related to your past use of Yahoo! products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
-  * This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, certain Yahoo! associated companies such as [Inktomi](http://www.inktomi.com/info/privacy.html), [Overture](http://www.content.overture.com/d/USm/about/company/privacypolicy.jhtml), and [Altavista](http://www.altavista.com/web/legal/privacy) have their own privacy statements which can be viewed by clicking on the links. 
+Dennis understands and respects your desire for privacy. To that end, we would like you to know how we use the personal information you provide to us. 
 
-**Information Collection and Use**
+We (both directly and through third parties) collect personally identifying information when you register for the online newsletter or our magazine-subscriber-only area, enter contests, or participate in other interactive online activities (e.g., surveys, chat rooms, games, or bulletin boards) throughout the Site. This personally identifiable information may include your name, street address, city, state, zip code, e-mail address, landline phone number, cell phone number, and other identifiers that permit the physical or online contacting of a specific individual. As described below, we may use such information to award prizes or, with your permission, for promotional and marketing purposes. We also collect non-personally-identifiable information (such as your IP address or domain, or about your use of the Site) both directly and through third parties, including through the use of Web beacons, for purposes of site administration and to compile aggregate information about usage of the Site.
 
-      **General**  
+Click here: <http://www.nielsen-netratings.com/privacy/sitecensus.htm>, to learn more information about how we use a third party service to collect and use information on this Site. 
 
+From time to time, we may use personally identifiable information to offer promotions, products, programs or services that may be of interest to you, or combine information we receive online without outside records to enhance our ability to offer you promotions, products, programs or services that may be of interest to you. If you prefer not to receive such offers from us, [please click here.](http://reporting.worldata.com/DennisPostalOptout/Default.aspx?t=m) From time to time, we also may make personally identifiable information available to other companies to offer promotions, products, programs or services that may be of interest to you. If you prefer not to receive such offers from other companies, [please click here.](http://reporting.worldata.com/DennisPostalOptout/Default.aspx?t=m)
 
-  * Yahoo! collects personal information when you register with Yahoo!, when you use [Yahoo! products or services](https://web.archive.org/privacy/us/all.html), when you visit Yahoo! pages or the pages of certain Yahoo! partners, and when you enter [promotions or sweepstakes](https://web.archive.org/privacy/us/promo/details.html). Yahoo! may combine information about you that we have with information we obtain from business partners or other companies. 
-  * When you register we ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. For some financial products and services we may also ask for your address, Social Security number, and information about your assets. Once you register with Yahoo! and sign in to our services, you are not anonymous to us. 
-  * Yahoo! collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer. 
-  * Yahoo! automatically receives and records information on our server logs from your browser, including your [ IP address](https://web.archive.org/privacy/us/ip/details.html), Yahoo! [ cookie](https://web.archive.org/privacy/us/cookies/details.html) information, and the page you request. 
-  * Yahoo! uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
+The Site has implemented appropriate safeguards to help prevent unauthorized access, maintain data security, and to make proper use of the information that we collect. However, no transmission of data over the Internet is guaranteed to be completely secure. Thus, while we strive to protect your personal information, Dennis cannot absolutely guarantee the security of any information you provide to us. 
 
-      **Children**  
+To unsubscribe from the Maxim Online newsletter and/or other electronic communications from Dennis, reply to the e-mail newsletter with "UNSUBSCRIBE" (and only "UNSUBSCRIBE") in the subject line, or by following the "unsubscribe" link at the bottom of the e-mail. You can also unsubscribe from promotional and marketing e-mails that you receive from one of the Site's partners by typing "UNSUBSCRIBE" (and only "UNSUBSCRIBE") in the subject line in a reply to one of the partner's e-mails to you, or following the "unsubscribe" link at the bottom of the e-mail. 
 
+To change the address of your Maxim Magazine subscription, or to provide any other subscription-related information to Dennis, you may write to Maxim, P.O. Box 420235, Palm Coast, FL 32142 or call 1-386-447-6312. 
 
-  * When a child under age 13 attempts to register with Yahoo!, we ask that he or she have a parent or guardian create a [ Yahoo! Family Account](https://web.archive.org/privacy/us/family/details.html) to obtain parental permission. 
-  * Yahoo! will not contact children under age 13 about special offers or for marketing purposes without a parent's permission. 
-  * Yahoo! does not ask a child under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion. 
+**POLICY FOR MINORS**
 
-**Information Sharing and Disclosure**  
+Children should always ask parents for permission before providing any personal information online. No information should be submitted to or posted on the Site by any Minor (a guest under 18 years of age) without the consent of a parent or guardian. Unless otherwise disclosed during collection, we do not knowingly provide any personally identifying information about Minors, regardless of its source, to third parties, nor is this information knowingly used by Dennis for any marketing or promotional purposes. Minors are not allowed to participate in contests on the Site. 
 
+**POLICY FOR ADULT GUESTS**
 
-  * Yahoo! does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
-    * We provide the information to trusted partners who work on behalf of or with Yahoo! under confidentiality agreements. These companies may use your personal information to help Yahoo! communicate with you about offers from Yahoo! and our marketing partners. However, these companies do not have any independent right to share this information. 
-    * We have a parent's permission to share the information if the user is a child under age 13. Parents have the option of allowing Yahoo! to collect and use their child's information without consenting to Yahoo! sharing of this information with people and companies who may use this information for their own purposes; 
-    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
-    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law. 
-    * We transfer information about you if Yahoo! is acquired by or merged with another company. In this event, Yahoo! will notify you before information about you is transferred and becomes subject to a different privacy policy. 
-  * Yahoo! displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area. 
-    * Yahoo! does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
-    * Yahoo! advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
+The Site collects personal information from guests over 18 years of age in order to provide guests with a personalized online experience and to provide our advertisers a way to reach the right audience. Dennis may share the personal and aggregate information we collect with our affiliates and other sites operated by and for Dennis. On a confidential basis, Dennis may also share personal information with our corporate affiliates or consultants, or with third parties that perform a particular service on our behalf (such as fulfilling orders or for general site administration purposes). Dennis shares aggregate information with third parties for advertising and promotional purposes. We may also disclose personal information in response to legal process, such as a request by law enforcement, a court order or subpoena, or to protect the integrity of the Site if we believe that a guest has committed unlawful or otherwise harmful acts. 
 
-**Cookies**  
+With the permission of guests 18 years or older, information submitted at the time of registration or submission may be used for marketing and promotional purposes by us and, also with the permission of the guest, may be shared by us with companies that have agreed with Dennis to use this information only for the marketing and promotion of its products and services. 
 
+If any individual submits content for publication, we may publish his or her name and any other information submitted by that individual. 
 
-  * Yahoo! may set and access Yahoo! [ cookies](https://web.archive.org/privacy/us/cookies/details.html) on your computer. 
-  * Yahoo! lets [ other companies](https://web.archive.org/privacy/us/adservers/details.html) that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo!'s cookies. 
-  * Yahoo! uses [ web beacons](https://web.archive.org/privacy/us/pixels/details.html) to access Yahoo! cookies inside and outside our network of web sites and in connection with Yahoo! products and services. 
+If guests elect to use our "E-mail to a Friend" referral service for informing a friend about this Site, we ask for the friend's e-mail address, and we will send an e-mail in response to the guest's request inviting their friend to visit the Site. This information is stored at this Site solely for the purpose of sending the e-mail. 
 
-**Your Ability to Edit and Delete Your Account Information and Preferences**
+**PUBLIC FORUMS**
 
-      **General**  
+Whenever you voluntarily disclose personal information online in chat rooms, message boards, or similar posting areas, the information can be reviewed and collected by anyone. Therefore, do not post any information that you do not want to be made available to the general public. Dennis is not responsible for unsolicited communications that arise from your postings on the Site. 
 
+**PURCHASE OF PRODUCTS FROM THE SITE**
 
-  * You can edit your [ Yahoo! Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.intl=us&.done=privacy.yahoo.com/privacy/us), including your [ marketing preferences](http://subscribe.yahoo.com/showaccount), at any time. 
-  * New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
-  * We reserve the right to send you certain communications relating to the Yahoo! service, such as service announcements, administrative messages and the Yahoo! Newsletter, that are considered part of your Yahoo! account, without offering you the opportunity to opt-out of receiving them. 
-  * You can delete your Yahoo! account by visiting our [ Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [ click here](https://web.archive.org/privacy/us/archives/details.html) to read about information that might possibly remain in our archived records after your account has been deleted. 
+If you purchase a product from a third party or from the Site, information may be collected from you, including your credit card and contact information, for transfer to and use by third party providers of the product. Dennis does not retain this information. Unless otherwise stated, Dennis does not have any responsibility in connection with such purchases and all transactions and use of any customer information are the sole responsibility of the product provider. Be sure to review the product provider's privacy policy and contact them directly if you have any questions. They may have privacy terms that differ from Dennis' Privacy Policy. 
 
-      **Children**  
+In addition to the foregoing, Dennis may share or disclose personally identifiable information about you to other companies or individuals when: 
 
-
-  * Parents can review, edit, and delete information relating to their child's Yahoo! account using tools offered by [Yahoo! Family Accounts](http://family.yahoo.com/). 
-  * If a parent chooses not to allow us to further collect or use a child's information, parents enrolled in Yahoo! Family Accounts can delete their child's account by signing into that child's account and then visiting our [ Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [ click here](https://web.archive.org/privacy/us/archives/details.html) to read about information that might possibly remain in our archived records after your account has been deleted. 
-
-**Confidentiality and Security**  
-
-
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
-  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
-  * To learn more about security, including the security steps we have taken and security steps you can take, please read [Security at Yahoo!](http://privacy.yahoo.com/privacy/us/security/details.html). 
-
-**Changes to this Privacy Policy**  
-
-
-  * Yahoo! may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo! account or by placing a prominent notice on our site. 
-
-**Questions and Suggestions**  
-
-
-  * [Yahoo! is TRUSTe-certified](https://www.truste.org/validate/361). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/users/users_watchdog.html), an independent privacy organization. TRUSTe serves as a liaison with Yahoo! to resolve your concern. 
-  * If you have questions or suggestions, please complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305) or you can contact us at: 
-
-Yahoo! Inc.  
-Customer Care - Privacy Policy Issues  
-701 First Avenue  
-Sunnyvale, CA 94089  
-(408) 349-5070  
+  * we utilize third party service providers to provide products, services or functions on our behalf (such as sending emails or processing credit cards or fulfilling subscriptions), and ask these service providers to agree to maintain the confidentiality of your personally identifiable information and not to use your personally identifiable information for any reason except to carry out the purpose(s) for which we hired them; 
+  * You have entered a contest or sweepstakes sponsored by a third party and you have agreed to permit the third party to share, disclose or otherwise use personally identifying information, in which case the information may be shared with that third party for their use as permitted by their respective privacy policies, including direct marketing; 
+  * we need to protect our legal rights (for example, if we are trying to collect money you owe us); 
+  * we must comply with applicable laws, regulations, or legal or regulatory process; or in connection with a sale, merger, transfer, exchange, or other disposition (whether of assets, stock, or otherwise) of all or a portion of the business conducted by the web sites to which this policy applies.
 
 
 
+**THIRD PARTY ADVERTISING**
 
+We use third party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to the Site and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the following web addresses:
+
+<http://www.networkadvertising.org/optout_nonppii.asp>   
+<http://www.advertising.com/Privacy.html>   
+<http://www.doubleclick.com/us/about_doubleclick/privacy>
+
+**USE OF IP ADDRESSES**
+
+An IP address is a number that is automatically assigned to your computer by your Internet service provider whenever you log on to the Web. Web servers automatically identify your computer by its IP address, so when a guest requests pages from the Site, our servers log the guest's IP address. The IP addresses of our guests are collected only for the purposes of system administration and to report aggregate information to our advertisers, our corporate affiliates or consultants, or with third parties that perform a particular service on our behalf. We do not combine IP addresses with any personally identifying information, nor do we compile any session activity reports by IP address. 
+
+**USE OF COOKIES**
+
+In cyberspace, cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes. 
+
+Cookies make Web-surfing easier for you by saving your passwords, purchases, and preferences while you're online. The use of cookies is an industry standard. You'll find them at most major Web sites. 
+
+We use cookies to help us see which areas are popular and which are not. This helps us to target ads based on guest interests, and also improve and update the Site based on such data as total number of guests and pages viewed. This information is most easily tracked with cookies. 
+
+A cookie allows us to store the personal preferences that you set during each visit to the Site, which in turn allows us to speed up your future activities at the Site. Similarly, the stores hosted by the Site usually use cookies to track which products you've chosen to purchase while shopping. Letting cookies do the record-keeping saves you the trouble of entering information over and over again. If you are a subscriber of Maxim Magazine and have registered to access the subscriber-only portion of the Site, an identifying cookie will be placed on your computer. During future visits to the Site, we will only read and retrieve information that we set in a cookie during an earlier visit to the Site. 
+
+You may occasionally get cookies from our advertisers on the Site as well. The Site does not control these cookies, and they are not subject to Dennis' Privacy Policy. Advertisers do not have access to the Site's cookies. 
+
+The use of advertising cookies sent by third-party servers is standard in the Internet industry. 
+
+Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the Site, such as the shopping, contest, and game areas, will not function properly if you do so. 
+
+If you have any questions or concerns about Dennis' Privacy Policy or its implementation, you may contact us at Dennis Digital, Privacy Policy, 1040 Avenue of the Americas, 22nd Fl., New York, NY 10018.
