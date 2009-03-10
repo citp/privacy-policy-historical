@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the ffxiah.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070051id_/http%3A//www.ffxiah.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffxiah.com privacy policy that was archived on 2009-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090310042616id_/http%3A//www.ffxiah.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - FFXIAH.com
 
 |  Language: [JP](http://jp.ffxiah.com/privacy.php) [EN](http://www.ffxiah.com/privacy.php)   
-  
 [](http://fanzone.playonline.com/lscom/index.do) | 
 
 Privacy
