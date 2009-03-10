@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geowarehouse.ca privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082453id_/http%3A//www.geowarehouse.ca/Privacy_Statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geowarehouse.ca privacy policy that was archived on 2009-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090310042446id_/http%3A//www.geowarehouse.ca/Privacy_Statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -50,7 +50,7 @@ As we continue to develop our business, we may acquire additional companies. In 
 
 _Safeguarding Information:_
 
-We have security measures in place to protect the loss, misuse and alteration of the information under our control. We have adopted appropriate safeguards to ensure that personal information is secure against disclosure, loss or theft or unauthorized access, copying, use or modification. Such safeguards include physical measures, such as restricting access to offices and filing cabinets, organizational measures, such as limiting access to personal information on a "need to know" basis and technological measures such as using passwords and encryption. Our employees are aware of the importance of maintaining the confidentiality of personal information. Please see our [Security Statement](https://web.archive.org/web/20081217082453id_/http%3A//Security_Statement.htm).
+We have security measures in place to protect the loss, misuse and alteration of the information under our control. We have adopted appropriate safeguards to ensure that personal information is secure against disclosure, loss or theft or unauthorized access, copying, use or modification. Such safeguards include physical measures, such as restricting access to offices and filing cabinets, organizational measures, such as limiting access to personal information on a "need to know" basis and technological measures such as using passwords and encryption. Our employees are aware of the importance of maintaining the confidentiality of personal information. Please see our [Security Statement](https://web.archive.org/web/20090310042446id_/http%3A//Security_Statement.htm).
 
 As the Internet is not a totally secure medium, we cannot guarantee that our safeguards will always be totally effective particularly in cases of fraudulent conduct or fraudulent concealment, provision by third parties of incorrect data, willful actions by third parties to corrupt or tamper with the database and/or the data and other such actions or occurrences. 
 
@@ -60,7 +60,7 @@ We would like to remind you that we provide additional links to resources we bel
 
 _How to Contact Us:_
 
-Upon request and reasonable notice customers will be given information about their personal information held by us. You will be provided with an opportunity to confirm the accuracy and completeness of your personal information and have it amended. [Please see our Access to Personal Information Policy](https://web.archive.org/web/20081217082453id_/http%3A//Personal_Info_Access_Policy.htm).
+Upon request and reasonable notice customers will be given information about their personal information held by us. You will be provided with an opportunity to confirm the accuracy and completeness of your personal information and have it amended. [Please see our Access to Personal Information Policy](https://web.archive.org/web/20090310042446id_/http%3A//Personal_Info_Access_Policy.htm).
 
 Our goal is to protect your privacy. If you have any questions, comments or concerns about these privacy policies, please contact our Privacy Officer at:
 
