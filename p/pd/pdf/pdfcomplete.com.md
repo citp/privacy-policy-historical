@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfcomplete.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219040722id_/http%3A//www.pdfcomplete.com/cms/Home/tabid/52/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfcomplete.com privacy policy that was archived on 2009-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090311024305id_/http%3A//www.pdfcomplete.com/cms/Home/tabid/52/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # PDF Complete > Home
 
@@ -44,4 +44,4 @@ PDF Complete will occasionally update this Statement of Privacy to reflect compa
 
 Contact Information
 
-PDF Complete welcomes your comments regarding this Statement of Privacy. If you believe that PDF Complete has not adhered to this Statement, please contact PDF Complete at [dsmith@pdfcomplete.com](mailto:dsmith@pdfcomplete.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+PDF Complete welcomes your comments regarding this Statement of Privacy. If you believe that PDF Complete has not adhered to this Statement, please contact PDF Complete at [david.smith@pdfcomplete.com](mailto:david.smith@pdfcomplete.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
