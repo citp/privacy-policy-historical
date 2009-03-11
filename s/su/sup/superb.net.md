@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the superb.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218161123id_/http%3A//www.superbhosting.net/p-priv.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superb.net privacy policy that was archived on 2009-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090311024217id_/http%3A//www.superbhosting.net/p-priv.php) for the most accurate reproduction.*
 
 # Web Hosting, Cheap Web Hosting, Dedicated Servers by Superbhosting.Net
 
 ## Privacy Policy
-
-  
-
- **by Superb Internet**
 
 Superb Internet Corporation takes the privacy of its customers and users of its web site seriously. This Privacy Policy covers the ways in which Superb attains, manages, stores, processes and shares information given to it by its customers and visitors to Superb's web sites. As a thoughtful and responsible member of the Internet community, Superb is committed to monitoring changes in the attitudes of both customers and the community in general towards the use of information. As part of this commitment, Superb will make changes from time-to-time to its Privacy Policy. Superb endeavors to give advance notice of material changes to the Privacy Policy, but reserves the right to make changes without notice. The most recent version of the Privacy Policy may always be found on Superb's web site.
 
@@ -100,8 +96,8 @@ You are responsible for, and have unlimited access to modify or change, all Cust
 
 Privacy Officer  
 Superb Internet Corporation   
-14th floor - 700 West Pender St.   
-Vancouver, BC V6C 1G8   
+999 Bishop St. #1850  
+Honolulu, HI 96813-4457  
 Canada
 
 Superb will review your request, and respond within 30 days. 
