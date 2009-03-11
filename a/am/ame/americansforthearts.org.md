@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americansforthearts.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217234836id_/http%3A//www.americansforthearts.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americansforthearts.org privacy policy that was archived on 2009-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090311040704id_/http%3A//www.americansforthearts.org/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
