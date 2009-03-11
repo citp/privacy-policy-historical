@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multichoice.co.za privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220114345id_/http%3A//www.multichoice.co.za/multichoice/view/multichoice/en/page115) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multichoice.co.za privacy policy that was archived on 2009-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090311044500id_/http%3A//www.multichoice.co.za/multichoice/view/multichoice/en/page115) for the most accurate reproduction.*
 
 # MultiChoice | People | Careers in TV, internet and mobile services
 
