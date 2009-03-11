@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ashford.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219062543id_/http%3A//www.ashford.com/viewinfo/privacy-policy-9.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashford.com privacy policy that was archived on 2009-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090311022003id_/http%3A//www.ashford.com/viewinfo/privacy-policy-9.html) for the most accurate reproduction.*
 
-# Ashford.com
+# Luxury Watch Movado, Ebel, Tag Heuer, Concord, Bulova, Breitling, Seiko, ESQ, Cartier, Corum, Kenneth Cole, Citizen, Bulgari, Chopard - Ashford.com
 
 At Ashford.com We Respect Your Privacy.   
 This statement is our privacy policy, which discloses our information practices.  It describes: 
