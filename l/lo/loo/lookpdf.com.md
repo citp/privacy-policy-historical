@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lookpdf.com privacy policy that was archived on 2008-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080930171002id_/http%3A//www.lookpdf.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookpdf.com privacy policy that was archived on 2009-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090311025117id_/http%3A//lookpdf.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy LooKPDF.com - Search Portable Document Format Files for FREE
 
