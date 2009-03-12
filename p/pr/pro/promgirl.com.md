@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promgirl.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063626id_/http%3A//www.promgirl.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promgirl.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312061954id_/http%3A//www.promgirl.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,6 +29,3 @@ Cookies are bits of electronic information that a website can transfer to your c
 PromGirl.com uses cookies to identify returning registrants to the site so we can enhance your experience with a personal greeting on the homepage and provide a more convenient shopping experience. The cookie allows us to provide you with a personal mini-bag that appears on your screen and stores any items you dropped in the bag during your last visit. The site will also pre-populate shipping and billing (but not credit card) information to save time during check out. Please be assured that we do not use cookies to track information about other sites you may visit.
 
 Although most browsers automatically accept cookies, you can usually change your browser to prevent cookies or notify you whenever you are sent a cookie. This gives you the option to decide whether or not to accept it.
-
-  
-
