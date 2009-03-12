@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the israelnationalnews.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621230618id_/http%3A//www.israelnationalnews.com/More/ActivePage.aspx/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the israelnationalnews.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312054412id_/http%3A//www.israelnationalnews.com/More/ActivePage.aspx/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Arutz Sheva
+# Privacy Policy - Israel National News
 
-| 19 Sivan 5768, June 22, '08|    
+| Adar 16, 5769 / March 12, '09|    
   
 [](https://web.archive.org/Blogs/)  
 [](https://web.archive.org/Subscribe/)  
