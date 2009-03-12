@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelchatter.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216050309id_/http%3A//www.hotelchatter.com/special/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelchatter.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312074054id_/http%3A//www.hotelchatter.com/special/privacy) for the most accurate reproduction.*
 
 # HotelChatter Privacy Policy || HotelChatter
 
