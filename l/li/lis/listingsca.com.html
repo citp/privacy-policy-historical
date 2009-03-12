@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the listingsca.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216021331id_/http%3A//listingsca.com/common/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the listingsca.com privacy policy that was archived on 2009-03-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090312070229id_/http%3A//listingsca.com/common/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>Privacy Policy - Listings Canada</title>
 <link rel="stylesheet" href="/common/lstyle.css">
 
-
+<script type="text/javascript" src="/common/js/global.js"></script>
 <script type="text/javascript" src="/common/log.js"></script><script type="text/javascript" src="/common/dropdownad.js"></script>
 <link rel="stylesheet" href="/common/dropdownad.css">
 </head>
@@ -20,46 +20,52 @@
 	<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#0467AB">
 	  <tbody><tr>
 	    <td width="100%">
-    <table border="0" cellpadding="0" cellspacing="0" class="dparent">
-    <tbody><tr>
-    <td width="100%" valign="middle">
-    <table border="0" cellpadding="3" cellspacing="0" id="dmenu" width="100%">
+	<table border="0" cellpadding="0" cellspacing="0" class="dparent">
+	<tbody><tr>
+	<td width="100%" valign="middle">
+	<table border="0" cellpadding="3" cellspacing="0" id="dmenu" width="100%">
       <tbody><tr class="dmenu1">
         <td><a href="/">Home</a></td>
         <td><a href="/index.asp">Directory</a></td>
-        <td class="selected"><a href="http://shop.listingsca.com/">Shopping&nbsp;&nbsp;<font color="yellow" style="letter-spacing: 0.07em">(New!)</font></a></td>
+        
+        <td><a href="http://autocatch.com/" onclick="logci('9','c','ad');">Used Cars</a></td>
+        <td><a href="http://shop.listingsca.com/" onclick="logci('11','c','ad');">Shopping</a></td>
+        
         <td><a href="/mapmenu.asp">Maps</a></td>
         
-            <td><a href="/gallery/">Gallery</a></td>
-        <td><a href="http://www.careerbuilder.ca/intl/landingpage.aspx?lr=int_calistingsca&amp;siteID=int_calistingsca03">Jobs</a></td>
+        	<td><a href="/gallery/">Gallery</a></td>
+        <td><a href="http://www.careerbuilder.ca/intl/landingpage.aspx?lr=int_calistingsca&amp;siteID=int_calistingsca03" onclick="logci('10','c','ad');">Jobs</a></td>
         <td nowrap=""><a href="/common/links/">Add Your Site</a></td>
         <td class="end"></td>
       </tr>
-      <form name="searchForm" method="get" id="searchForm" action="http://shop.listingsca.com/cgi-bin/WebObjects/ShopToIt.woa/wa/productSearch"></form>
-      <input name="WOURLEncoding" type="hidden" value="UTF8">
-              <input name="cbaId" type="hidden" value="120">
+	
+      
           <tr class="dmenu2">
-        <td colspan="7" align="left" valign="top" style="vertical-align: top;">
-            <img src="/common/images/minicart.gif">
-            <b>Shopping Search <input name="term" type="search" maxlength="60" id="FindIt" autosave="shoptoit"></b>
-            <img class="search" src="/common/images/minicartsearch.gif" onclick="document.getElementById(" searchform").submit()"=""></td>
+          <form method="POST" action="/common/search.asp" id="RegSearchForm"></form>
+        <td colspan="5" align="left" valign="top" style="vertical-align: top;">
+        	<b>Site Search</b>  <input id="mainSearch" type="text" name="term" size="30" style="padding-left: 5px">
+        	<img class="search" src="/common/images/minicartsearch.gif" onclick="document.getElementById('RegSearchForm').submit()"></td>
+        
+        
+        <form name="searchForm" method="get" id="ShopSearchForm" action="http://shop.listingsca.com/cgi-bin/WebObjects/ShopToIt.woa/wa/productSearch"></form>
+      <input name="WOURLEncoding" type="hidden" value="UTF8">
+		      <input name="cbaId" type="hidden" value="120">
+ 		<td colspan="3" align="left" valign="top" style="vertical-align: top;">	
+        	<b>Price Lookup</b> <input name="term" type="search" maxlength="60" id="FindIt" autosave="shoptoit" style="padding-left: 5px">
+        	<img class="search" src="/common/images/minicartsearch.gif" onclick="logci('11','c','ad');document.getElementById('ShopSearchForm').submit();"></td>
         <td class="end"></td>
+          
       </tr>
-      
+    
+
     </tbody></table>     
-    </td>
-    <td width="*">
-    
-      <script src="http://listingsca.com/common/externaljs/yp234_60ca.js" type="text/javascript">&nbsp;</script>
-      
-    </td>
-    </tr></tbody></table>
-
-
-
-
-
-    
+	</td>
+	<td width="*">
+	
+  <script src="http://listingsca.com/common/externaljs/yp234_60ca.js" type="text/javascript">&nbsp;</script>
+  
+	</td>
+	</tr></tbody></table>    
 </td>
 	  </tr>
 	</tbody></table>
@@ -165,7 +171,8 @@ on your browser to return to the previous page.</p>
 <a href="http://listingsus.com/">USA</a>
 
 </p>
-<p class="smalltext" align="center">This site owned and operated by 2008 <a href="http://lworldmedia.com/">LWorld Media Inc.</a></p>
+<p class="smalltext" align="center">This site owned and operated by 2009 <a href="http://lworldmedia.com/">LWorld Media Inc.</a></p>
+<script type="text/javascript">logpage();</script>
 
 <script type="text/javascript">
 logitem('capage','');
@@ -178,6 +185,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 <script type="text/javascript">
 var pageTracker = _gat._getTracker("UA-4919230-4");
 pageTracker._trackPageview();
+
 </script>
 
 
