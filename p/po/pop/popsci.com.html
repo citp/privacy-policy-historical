@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the popsci.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217045210id_/http%3A//www.popsci.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the popsci.com privacy policy that was archived on 2009-03-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090312062005id_/http%3A//www.popsci.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class="js"><head>
 	<!-- Pagepeel code should go here -->
@@ -18,7 +18,7 @@
 
 	<title>Privacy Policy | Popular Science</title>
 
-	<style type="text/css" media="all">@import "/files/css/a975d43d05b8715c2f8b539a7556bab3.css";</style>
+	<style type="text/css" media="all">@import "/files/css/628df0e2989d276033515793acfdd07b.css";</style>
 <style type="text/css" media="print">@import "/files/css/33f6b7ecb4513ed2fe6c670880a27187.css";</style>
 
 <!--[if IE]>
@@ -36,14 +36,16 @@
 <script type="text/javascript" src="/sites/all/modules/jstools/tabs/jquery.tabs.pack.js"></script>
 <script type="text/javascript" src="/sites/all/modules/jstools/jquery.history_remote.js"></script>
 <script type="text/javascript" src="/sites/all/modules/jstools/tabs/tabs.js"></script>
+<script type="text/javascript" src="/sites/all/modules/popsci_menu/superfish.js"></script>
+<script type="text/javascript" src="/sites/all/modules/popsci_menu/popsci_menu.js"></script>
 <script type="text/javascript" src="/sites/all/modules/nodecarousel/jcarousel/lib/jquery.jcarousel.js"></script>
 <script type="text/javascript" src="/sites/all/modules/popsci_popular/jquery.create_tabs.js"></script>
 <script type="text/javascript">Drupal.extend({ settings: { "jstools": { "cleanurls": true, "basePath": "/" }, "tabs": { "slide": false, "fade": false, "speed": "slow", "auto_height": false }, "googleCSE": { "locale": [ "en" ] } } });</script>
 <script type="text/javascript">//configuration
 OAS_url = 'http://oasc03049.247realmedia.com/RealMedia/ads/';
-OAS_sitepage = 'www.popsci.com';
+OAS_sitepage = 'www.popsci.com/index.jsp';
 //OAS_sitepage = window.location.hostname + window.location.pathname;
-OAS_listpos = 'Top,TopRight,Right1,Right2,Right3,Bottom';
+OAS_listpos = 'Top,Right1,Right2,Bottom,Position1';
 OAS_query = '';
 OAS_target = '_top';
 //end of configuration
@@ -55,6 +57,62 @@ function OAS_NORMAL(pos) {
   document.write('<img src="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" border=0></a>');
 }
 </script>
+<script type="text/javascript">jQuery(document).ready(function() {
+jQuery('ul').removeClass('hidden');
+jQuery('div.jcarousel_waiting').hide();
+  jQuery('ul#nc_main_feature_touts').jcarousel({
+    visible: 1,
+    scroll: 1,
+    vertical: false,
+    wrap: 'both',
+    auto: 7,
+    animation: 'fast',
+    start: 1,
+    buttonNextHTML: '<div></div>',
+    buttonPrevHTML: '<div></div>',
+    itemFirstInCallback: trigger_js_scroll_2,
+    itemLastInCallback: fetchMoreCarousel_2,
+    initCallback: initialize_2,
+    itemVisibleInCallback: item_visible_2,
+    itemVisibleOutCallback: item_invisible_2
+  });
+});
+function fetchMoreCarousel_2(carousel, lastLI, index, carouselState) {}
+
+function item_visible_2(carousel, listItem, index, state) {}
+function item_invisible_2(carousel, listItem, index, state) {}
+    function trigger_js_scroll_2(carousel, listItem, index, state) {}
+function initialize_2(carousel, state) {
+  if (state == 'init') {
+    var carouselName = 'main_feature_touts';
+    var outermostDiv = $("#nc_" + carouselName).parent().parent();
+    var first = '';
+    var last  = '';
+    outermostDiv.addClass("nc_" + carouselName);
+    outermostDiv.children(".jcarousel-clip").addClass("nc_clip_" + carouselName);
+    $("#nc_" + carouselName).children("li").addClass("nc_item_" + carouselName);
+    if (first != '') {
+      outermostDiv.children(".jcarousel-prev").before("<div class='jcarousel-first' id='nc_first_2'>" + first + "</div>");
+    }
+    if (last != '') {
+      outermostDiv.children(".jcarousel-next").after("<div class='jcarousel-last' id='nc_last_2'>" + last + "</div>");
+    }
+
+    jQuery('div#nc_first_2').click(function(e) {
+      carousel.scroll(1, true);
+    });
+
+    jQuery('div#nc_last_2').click(function(e) {
+      carousel.scroll($("#nc_" + carouselName + " li").length, true);
+    });
+  }
+}
+</script>
+<script type="text/javascript">$(document).ready( function() {
+      $('#popular_on_popsci').css('overflow', 'visible').css('height', 'auto');
+      createTabsFromBlocks('#popular_on_popsci', '');
+      $('#popular_on_popsci ul').before($('h2.major-title'));
+    } );</script>
 <script type="text/javascript">jQuery(document).ready(function() {
 jQuery('ul').removeClass('hidden');
 jQuery('div.jcarousel_waiting').hide();
@@ -109,86 +167,6 @@ function initialize_1(carousel, state) {
   }
 }
 </script>
-<script type="text/javascript">jQuery(document).ready(function() {
-jQuery('ul').removeClass('hidden');
-jQuery('div.jcarousel_waiting').hide();
-  jQuery('ul#nc_main_feature_touts').jcarousel({
-    visible: 1,
-    scroll: 1,
-    vertical: false,
-    wrap: 'last',
-    auto: 7,
-    animation: 'slow',
-    start: 1,
-    buttonNextHTML: '<div></div>',
-    buttonPrevHTML: '<div></div>',
-    itemFirstInCallback: trigger_js_scroll_2,
-    itemLastInCallback: fetchMoreCarousel_2,
-    initCallback: initialize_2,
-    itemVisibleInCallback: item_visible_2,
-    itemVisibleOutCallback: item_invisible_2
-  });
-});
-function fetchMoreCarousel_2(carousel, lastLI, index, carouselState) {}
-
-function item_visible_2(carousel, listItem, index, state) {
-  var outermostDiv = $("#nc_main_feature_touts").parent().parent();
-  $(".index_control_item_" + index, outermostDiv).addClass("visible");
-}
-function item_invisible_2(carousel, listItem, index, state) {
-  var outermostDiv = $("#nc_main_feature_touts").parent().parent();
-  $(".index_control_item_" + index, outermostDiv).removeClass("visible");
-}
-    function trigger_js_scroll_2(carousel, listItem, index, state) {}
-function initialize_2(carousel, state) {
-  if (state == 'init') {
-    var carouselName = 'main_feature_touts';
-    var outermostDiv = $("#nc_" + carouselName).parent().parent();
-    var first = '';
-    var last  = '';
-    outermostDiv.addClass("nc_" + carouselName);
-    outermostDiv.children(".jcarousel-clip").addClass("nc_clip_" + carouselName);
-    $("#nc_" + carouselName).children("li").addClass("nc_item_" + carouselName);
-    if (first != '') {
-      outermostDiv.children(".jcarousel-prev").before("<div class='jcarousel-first' id='nc_first_2'>" + first + "</div>");
-    }
-    if (last != '') {
-      outermostDiv.children(".jcarousel-next").after("<div class='jcarousel-last' id='nc_last_2'>" + last + "</div>");
-    }
-
-    jQuery('div#nc_first_2').click(function(e) {
-      carousel.scroll(1, true);
-    });
-
-    jQuery('div#nc_last_2').click(function(e) {
-      carousel.scroll($("#nc_" + carouselName + " li").length, true);
-    });
-    outermostDiv.append('<ul class="index_control_list"></ul>');
-    jQuery("#nc_main_feature_touts>li").each(function(i) {
-      var displayText = i + 1;
-      if ("thm" == "ttl") {
-        displayText = $(this).children('.node-carousel-item').children('.node-carousel-label').children("a").text();
-        if (displayText == '') {
-          displayText = $('.node-carousel-label', this).children('.node-carousel-item').children('.node-carousel-label').text();
-        }
-      }
-      if ("thm" == "thm") {
-        displayText = $('.node-carousel-index', this).text();
-      }
-      outermostDiv.children(".index_control_list").append("<li class='index_control_item index_control_item_" + (i + 1) + "' li_index='" + (i + 1) + "'><span class='index_control'>" + displayText + "</span></li>");
-    });
-    outermostDiv.children(".index_control_list").children(".index_control_item").click(function(e) {
-      carousel.scroll(parseInt($(this).attr('li_index')), true);
-    });
-
-  }
-}
-</script>
-<script type="text/javascript">$(document).ready( function() {
-      $('#popular_on_popsci').css('overflow', 'visible').css('height', 'auto');
-      createTabsFromBlocks('#popular_on_popsci', '');
-      $('#popular_on_popsci ul').before($('h2.major-title'));
-    } );</script>
 	<!-- Yes, the following bits would normally be handled in Drupal.  However, there's no way to have drupal print out a script tag with the language="Javascript1.1", so to follow our client's wishes these are being hard-wired to the page. JCF -->
 	<script language="JavaScript1.1">
 	<!--
@@ -198,7 +176,7 @@ function initialize_2(carousel, state) {
 	if (OAS_version >= 11)
 	  document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
 	  //-->
-	</script><script language="JavaScript1.1" src="http://oasc03049.247realmedia.com/RealMedia/ads/adstream_mjx.ads/www.popsci.com/1951435911@Top,TopRight,Right1,Right2,Right3,Bottom?"></script>
+	</script><script language="JavaScript1.1" src="http://oasc03049.247realmedia.com/RealMedia/ads/adstream_mjx.ads/www.popsci.com/index.jsp/1736156686@Top,Right1,Right2,Bottom,Position1?"></script>
 	
 	<script language="JavaScript">
 	<!--
@@ -312,39 +290,12 @@ function initialize_2(carousel, state) {
 	};
 
 	</script>	
-	
-	<script type="text/javascript">
-	
-	// bind popunder handler to unload event
-	
-	 $(document).ready(function() {
-	 	
-		$(window).bind("unload", function() { 
-		
-			// if popunder has not been loaded yet 
-			
-			 if (!$.cookie('popunder')) {	
-		
-				// set up popunder variables
-				var popunder_src = "https://secure.palmcoastd.com/ows-img/popsci/popup0808/pop_lb.html";
-				// set 1 to enable a particular feature, 0 to disable
-				var popunder_features = "width=720,height=300,scrollbars=0,resizable=0,toolbar=0,location=0,menubar=0,status=0,directories=0";
-				
-				// set popunder cookie
-				$.cookie('popunder', true, { expires: 1});
-				
-				// launch popunder
-				popunder_window = window.open(popunder_src, "popunder_window", popunder_features);
-				if (popunder_window) popunder_window.blur();
-				window.focus();				
-				
-			}
-				
-		});
 
-	 });
 
-	</script> 	
+<script type="text/javascript" src="http://redir.adap.tv/redir/javascript/adaptvAdPlayer.js"></script>
+<script type="text/javascript">
+  var adaptvCompanionAdTag;
+</script> 	
 	
 	<!--<script type='text/javascript' src='http://getfirebug.com/releases/lite/1.2/firebug-lite-compressed.js'></script>-->
 	
@@ -356,32 +307,24 @@ function initialize_2(carousel, state) {
 		<div id="header">
 		
 		<div id="header_row1">
-		    			<div id="header_ad"><iframe name="top-position" id="top-position" src="/files/iframes/top.html?1229489412" width="728" height="90" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></div>
+		  <div id="header_ad">
+			<div class="ad"><script language="JavaScript">
+<!--
+OAS_AD('Top');
+//-->
+</script></div> <!-- /.ad -->		  </div>
 			
-						  				<div id="services"><div id="block-views-special_offer" class="block block-views clear-block">
+						  				<div id="services"><div id="block-poplocal_subscribe-0" class="block block-poplocal_subscribe clear-block">
   <div class="content">
-    <div class="view view-special-offer"><div class="view-content view-content-special-offer"><div class="item-list"><ul class=""><li class="odd"><div class="view-item view-item-special-offer"><div class="view-field view-data-node-data-field-cover-field-cover-fid"><img src="http://www.popsci.com/files/imagecache/current_issue_cover_for_special_offer_block/files/may2008_cover.jpg" alt="may2008_cover.jpg" title="may2008_cover.jpg"></div></div>
-</li></ul></div></div></div>
-
+            <object width="205" height="94">
+          <param name="movie" value="/files/swf/cover_fullbox.swf">
+          <param name="allowScriptAccess" value="sameDomain"> 
+          <param name="wmode" value="opaque">
+          <embed src="/files/swf/cover_fullbox.swf" width="205" height="94" wmode="opaque">
+          
+        </object>
   </div>
-</div> <!-- /#block-views-special_offer -->
-
-<div id="block-block-2" class="block block-block clear-block">
-  <div class="content">
-    <div class="special_offer">
-<p class="offer-12412">SUBSCRIBE NOW!</p>
-<p class="offer-two-free">12 issues for<br> only $14</p>
-<ul class="">
-<li><a href="https://secure.palmcoastd.com/pcd/eSv?iMagId=08913&amp;i4Ky=HCWA" target="_blank">Subscribe</a></li>
-<li><a href="https://secure.palmcoastd.com/pcd/eSv?iMagId=08913&amp;i4Ky=HHWN" target="_blank">Give a Gift</a></li>
-<li><a href="https://secure.palmcoastd.com/pcd/eServ?iServ=MDg5MTM0NjQ1Ng" target="_blank">Renew</a></li>
-<li><a href="https://secure.palmcoastd.com/pcd/eServ?iServ=MDg5MTM0NTM0NyZpVHlwZT1PVEhFUklERU5U" target="_blank">Subscriber Services</a></li>
-</ul>
-</div>
-<p> <!-- /.special_offer --></p>
-
-  </div>
-</div> <!-- /#block-block-2 -->
+</div> <!-- /#block-poplocal_subscribe-0 -->
 
 </div>
 			  					</div> <!-- /#header_row1 -->
@@ -411,7 +354,7 @@ function initialize_2(carousel, state) {
     <form action="/search/google" accept-charset="UTF-8" method="get" id="google-cse-searchbox-form">
 <div><input type="hidden" name="cx" id="edit-cx" value="001914279043464587231:aaxz2fscymw">
 <input type="hidden" name="cof" id="edit-cof" value="FORID:11">
-<div class="form-item">
+<div class="form-item" id="edit-query-wrapper">
  <input type="text" maxlength="128" name="query" id="edit-query" size="15" value="" title="Enter the terms you wish to search for." class="form-text" style="background: rgb(255, 255, 255);">
 </div>
 <input type="submit" name="op" id="edit-sa" value="Search" class="form-submit">
@@ -421,6 +364,12 @@ function initialize_2(carousel, state) {
 
   </div>
 </div> <!-- /#block-google_cse-0 -->
+
+<div id="block-popsci-home_icon" class="block block-popsci clear-block">
+  <div class="content">
+    <a href="/"><img src="/sites/all/themes/albert/images/home_icon.png"></a>
+  </div>
+</div> <!-- /#block-popsci-home_icon -->
 
 <div id="block-menu-61" class="block block-menu clear-block">
   <h2 class="title">Search Links</h2>
@@ -444,15 +393,47 @@ function initialize_2(carousel, state) {
 		
 					<div id="main_menu_wrapper">
 			<div id="main_menu" class="clear-block">
-				<ul class="links"><li class="first menu-1-1-2 "><a href="http://ppx.popsci.com/" class="menu-1-1-2">PPX</a></li>
-<li class="menu-1-2-2 "><a href="/cars" class="menu-1-2-2">Cars</a></li>
-<li class="menu-1-3-2 "><a href="/gear-amp-gadgets" class="menu-1-3-2">Gear &amp; Gadgets</a></li>
-<li class="menu-1-4-2 "><a href="/diy" class="menu-1-4-2">DIY</a></li>
-<li class="menu-1-5-2 "><a href="/military-aviation-amp-space" class="menu-1-5-2">Military, Aviation &amp; Space</a></li>
-<li class="menu-1-6-2 "><a href="/entertainment-amp-gaming" class="menu-1-6-2">Entertainment &amp; Gaming</a></li>
-<li class="menu-1-7-2 "><a href="/environment" class="menu-1-7-2">The Environment</a></li>
-<li class="last menu-1-8-2 "><a href="/scitech" class="menu-1-8-2">SciTech</a></li>
-</ul>			</div> <!-- /#main_menu -->
+				<ul class="menu"><li class="primary item-0"><a href="http://ppx.popsci.com/" class="primary">PPX</a><ul class="menu secondary"><li class="item odd"><a href="http://ppx.popsci.com/portfolio/" class="secondary">Portfolio</a></li>
+<li class="item even"><a href="http://ppx.popsci.com/leader/" class="secondary">Leaderboard</a></li>
+<li class="item odd"><a href="http://www.popsci.com/ppx/article/2009-02/ppx-leagues-classroom-awards" class="secondary">Classroom Awards</a></li>
+<li class="item even"><a href="http://www.popsci.com/forum" class="secondary">Forums</a></li>
+<li class="item odd"><a href="http://ppx.popsci.com/league/" class="secondary">Leagues</a></li>
+</ul></li><li class="primary item-1"><a href="/cars" class="primary">Cars</a><ul class="menu secondary"><li class="item odd"><a href="/category/tags/auto-news" class="secondary">Auto News</a></li>
+<li class="item even"><a href="/category/tags/fuel" class="secondary">Fuel Efficiency</a></li>
+<li class="item odd"><a href="/category/tags/prototypes" class="secondary">Prototypes</a></li>
+<li class="item even"><a href="/category/tags/alt-vehicles" class="secondary">Alt Vehicles</a></li>
+<li class="item odd"><a href="/cars" class="secondary">All Cars</a></li>
+</ul></li><li class="primary item-2"><a href="/gear-amp-gadgets" class="primary">Gear &amp; Gadgets</a><ul class="menu secondary"><li class="item odd"><a href="/category/tags/gadget-news" class="secondary">Gadget News</a></li>
+<li class="item even"><a href="/category/tags/computers" class="secondary">Computers</a></li>
+<li class="item odd"><a href="/category/tags/cameras" class="secondary">Cameras</a></li>
+<li class="item even"><a href="/category/tags/cellphones" class="secondary">Cellphones</a></li>
+<li class="item odd"><a href="/category/tags/tvs" class="secondary">TVs</a></li>
+<li class="item even"><a href="/gear-amp-gadgets" class="secondary">All Gear and Gadgets</a></li>
+</ul></li><li class="primary item-3"><a href="/diy" class="primary">DIY</a><ul class="menu secondary"><li class="item odd"><a href="/category/tags/science-projects" class="secondary">Science Projects</a></li>
+<li class="item even"><a href="/category/tags/5-minute-projects" class="secondary">5-minute Projects</a></li>
+<li class="item odd"><a href="/category/tags/hacks" class="secondary">Hacks &amp; Mods</a></li>
+<li class="item even"><a href="/diy" class="secondary">All DIY</a></li>
+</ul></li><li class="primary item-4"><a href="/military-aviation-amp-space" class="primary">Military, Aviation &amp; Space</a><ul class="menu secondary"><li class="item odd"><a href="/category/tags/space-news" class="secondary">Space News</a></li>
+<li class="item even"><a href="/category/tags/military-news" class="secondary">Military News</a></li>
+<li class="item odd"><a href="/category/tags/aviation-news" class="secondary">Aviation News</a></li>
+<li class="item even"><a href="/military-aviation-amp-space" class="secondary">All Military, Aviation &amp; Space</a></li>
+</ul></li><li class="primary item-5"><a href="/entertainment-amp-gaming" class="primary">Entertainment &amp; Gaming</a><ul class="menu secondary"><li class="item odd"><a href="/category/tags/videogames" class="secondary">Videogames</a></li>
+<li class="item even"><a href="/category/category-badges/score" class="secondary">Sports Science</a></li>
+<li class="item odd"><a href="/category/tags/movie-physics" class="secondary">Movie Physics</a></li>
+<li class="item even"><a href="/category/tags/tv" class="secondary">TV</a></li>
+<li class="item odd"><a href="/entertainment-amp-gaming" class="secondary">All Entertainment and Gaming</a></li>
+</ul></li><li class="primary item-6"><a href="/environment" class="primary">The Environment</a><ul class="menu secondary"><li class="item odd"><a href="/category/tags/eco-tech" class="secondary">Eco Tech</a></li>
+<li class="item even"><a href="/category/tags/energy" class="secondary">Energy</a></li>
+<li class="item odd"><a href="/category/tags/enviro-science" class="secondary">Enviro Science</a></li>
+<li class="item even"><a href="/category/tags/conservation" class="secondary">Conservation</a></li>
+<li class="item odd"><a href="/environment" class="secondary">All Environment</a></li>
+</ul></li><li class="primary item-7"><a href="/scitech" class="primary">SciTech</a><ul class="menu secondary last"><li class="item odd"><a href="/category/tags/science-news" class="secondary">Science News</a></li>
+<li class="item even"><a href="/category/tags/future-tech" class="secondary">Future Tech</a></li>
+<li class="item odd"><a href="/category/tags/health" class="secondary">Health</a></li>
+<li class="item even"><a href="/category/tags/computers" class="secondary">Computers</a></li>
+<li class="item odd"><a href="/category/tags/robots" class="secondary">Robots</a></li>
+<li class="item even"><a href="/scitech" class="secondary">All SciTech</a></li>
+</ul></li></ul>			</div> <!-- /#main_menu -->
 			</div> <!-- /#main_menu_wrapper -->
 		
 	</div> <!-- /#header -->
@@ -532,7 +513,7 @@ function initialize_2(carousel, state) {
 <p>Cookies, by themselves, do not provide us with any personally-identifying information. However, if you elect to provide us with personally-identifying information during your visit, that information may be linked to the data stored in the cookie.</p>
 <p>On our websites, we may also use tiny graphic images called pixel tags, web beacons, or clear gifs. These tiny images help us to analyze our users' online behavior and collect other data, such as page views or advertising responses. Pixel tags also allow us to send you e-mail in a format that you can read, and let us know when you have opened an e-mail message from us. Pixel tags may also be used to deliver cookies.</p>
 <p>We work with reputable third parties that provide data tracking and collection technologies in order to:</p>
-<ul class="">
+<ul>
 <li>Present or serve the advertisements you may see at Bonnier websites;</li>
 <li>Deliver and track e-mail communications;</li>
 <li>Process purchase orders through e-commerce transactions;</li>
@@ -549,7 +530,7 @@ function initialize_2(carousel, state) {
 <p>If you provide us with your e-mail and/or postal address, we may include that address in e-mail and/or postal address lists that we sell, trade, or rent to third parties. Before sharing your e-mail or postal address with companies not owned by Bonnier who want to market products or services to you, we will provide you with an opportunity to opt out. You may also opt out of the receipt of any marketing materials from Bonnier as detailed below.</p>
 <p>We may transfer your sensitive personally-identifying information to other Bonnier offices for internal management and administrative purposes. In addition, your personal data will be transferred to other Bonnier offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. Transfers of personally-identifying information may also be made where necessary for the establishment, exercise, or defense of legal claims.</p>
 <p>Bonnier will only share your sensitive personal information with outside companies or individuals in any of the following limited circumstances:</p>
-<ul class="">
+<ul>
 <li>When we use trusted businesses or persons to process personal information on our behalf. Before sharing any personal information with outside parties, we require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.</li>
 <li>When we have a good faith belief that access, use, preservation, or disclosure is necessary to (a) comply with applicable law, regulation, or legal process; (b) enforce the applicable Terms of Service or other agreements and policies on the Company's Websites; (c) detect, prevent, or otherwise address fraud, security, or technical issues; or (d) protect against imminent harm to the rights, property, or safety or Bonnier, its users, or the public as required or permitted by law.</li>
 <li>When you consent. Before we share your sensitive personal information outside of the previously listed circumstances, we will ask you for permission first. Please note that this only applies to sensitive information, as defined above.</li>
@@ -595,6 +576,9 @@ function initialize_2(carousel, state) {
 </div>
 </div> <!-- /#node-19 -->
 
+						
+                        						
+						
 					</div> <!-- /.subcontent -->
 							  
 			</div> <!-- /#content -->
@@ -611,63 +595,15 @@ function initialize_2(carousel, state) {
 				  
 										
 								
-							    				  <div style="padding-bottom: 10px; background: transparent;">
-				    <iframe name="right1-position" id="right1-position" src="/files/iframes/right1.html?1229489412" width="" height="250" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-				  </div>							
-													
+ 			    <div class="ad"><script language="JavaScript">
+<!--
+OAS_AD('Right1');
+//-->
+</script></div> <!-- /.ad -->									
 								
-											<div id="block-block-22" class="block block-block clear-block">
+											<div id="block-popsci-photo_gallery_teaser" class="block block-popsci clear-block">
   <div class="content">
-    <a href="http://popsci.com/bown/2008"><img src="http://www.popsci.com/files/bown2_1.jpg" alt="BOWN Block Header"></a>
-<!-- Start of BOWN Badge -->
-
-
-			<p style="margin: 0; padding: 20px 0; border-bottom: 1px solid #DEDEDE;"><img src="http://www.popsci.com/files/imagecache/article_image_large/files/articles/bahrain-wtc1.jpg" width="98" height="98" hspace="5" alt="speedy" style="border: 1px solid #0068A5; float: right; padding: 0;">
-			<a href="http://www.popsci.com/bown/2008/product/bahrain-world-trade-center" target="_blank" style="font-weight: bold; font-size: 13px; color: #0068A5; text-decoration: none;">
-Wind Turbine Towers	<br></a>
-
-<i>"To maximize energy output, the tapered towers of the Bahrain World Trade Center funnel wind between them, creating <b>a negative pressure zone </b>behind the buildings that draws more air through the gap."</i>
-
-<br>
-			<span style="font-weight: bold; font-size: 11px; text-transform: uppercase;">[<a href="http://www.popsci.com/bown/2008/product/bahrain-world-trade-center" target="_blank" style="color: #0068A5; text-decoration: none; line-height: 25px;">Read full story</a>]</span></p>
-            
-  <p style="margin: 0; padding: 20px 0; border-bottom: 1px solid #DEDEDE;"><img src="http://www.popsci.com/files/imagecache/article_image_large/files/articles/hillman-composite-beams.jpg" width="98" height="90" hspace="5" alt="speedy" style="border: 1px solid #0068A5; float: right; padding: 0;">
-			<a href="http://www.popsci.com/bown/2008/product/hillman-composite-beam" target="_blank" style="font-weight: bold; font-size: 13px; color: #0068A5; text-decoration: none;">
-
-A Super-Strong Bridge Beam<br></a>
-
-<i>"The Hillman Composite Beam weighs one third as much as concrete competitors—saving 20 percent on shipping and installation costs—and <b>can hold 50 percent more</b> weight."</i>
-
-<br>
-			<span style="font-weight: bold; font-size: 11px; text-transform: uppercase;">[<a href="http://www.popsci.com/bown/2008/product/hillman-composite-beam" target="_blank" style="color: #0068A5; text-decoration: none; line-height: 25px;">Read full story</a>]</span></p>
-			<p style="margin: 0; padding: 20px 0; border-bottom: 1px solid #DEDEDE;"><img src="http://www.popsci.com/files/articles/bamboo-bridge_th.jpg" width="98" height="98" hspace="5" alt="speedy" style="border: 1px solid #0068A5; float: right; padding: 0;">
-			<a href="http://www.popsci.com/bown/2008/product/glubam-construction" target="_blank" style="font-weight: bold; font-size: 13px; color: #0068A5; text-decoration: none;">
-
-
-Transforming Bamboo
-<br></a>
-<i>"First Yan Xiao tore strips of bamboo from the stalk and arranged them in such a way as to provide the most strength. He then coated the strips with glue and compressed them in a self-built hydraulic press into beams, 33 feet long and up to three feet wide, <b>each capable of supporting eight tons</b>."</i>
-
-<br> 
-			<span style="font-weight: bold; font-size: 11px; text-transform: uppercase;">[<a href="http://www.popsci.com/bown/2008/product/glubam-construction" target="_blank" style="color: #0068A5; text-decoration: none; line-height: 25px;">Read full story</a>]</span></p>
-			
-						<p style="margin: 0; padding: 20px 0; border-bottom: 1px solid #DEDEDE;"><img src="http://www.popsci.com/files/articles/adobe-air_th.jpg" width="98" height="98" hspace="5" alt="speedy" style="border: 1px solid #0068A5; float: right; padding: 0;">
-			<a href="http://www.popsci.com/bown/2008/product/adobe-air" target="_blank" style="font-weight: bold; font-size: 13px; color: #0068A5; text-decoration: none;">
-Surf the Web Without a Browser 
-<br></a>
-
-<i>"Adobe AIR's programming tools let developers create snazzy <b>desktop applications</b> that connect to the Web."</i> <br>
-<br>
-			<span style="font-weight: bold; font-size: 11px; text-transform: uppercase;">[<a href="http://www.popsci.com/bown/2008/product/adobe-air" target="_blank" style="color: #0068A5; text-decoration: none; line-height: 25px;">Read full story</a>]</span></p>
-
-<!-- End of BOWN Badge -->
-
-  </div>
-</div> <!-- /#block-block-22 -->
-
-<div id="block-popsci-photo_gallery_teaser" class="block block-popsci clear-block">
-  <div class="content">
-    <div id="block-photo_gallery"><div class="content"><div class="header"><h3>Photo Galleries</h3><span class="block-rss"><a href="/galleries/feed"><span>RSS Link</span></a></span></div><ul class="item-list clear-block"><li class="view-item-photo-gallery"><div class="data-field-image"><a href="/cars/gallery/2008-12/sexiest-cyborgs"><img src="http://www.popsci.com/files/imagecache/photogallery_thumbnails_for_block/files/articles/sved.jpg" alt="" title=""></a></div><h4><a href="/cars/gallery/2008-12/sexiest-cyborgs">800 Years of Fembots</a></h4><p class="data-node-body"><i>PopSci</i>'s Sex Files columnist rounds up the borgs, bots and automata that give (mechanical) life to the ultimate geek fantasy</p></li><li class="view-item-photo-gallery"><div class="data-field-image"><a href="/gear-amp-gadgets/gallery/2008-12/popsci-staff-boombust-holiday-gift-guide"><img src="http://www.popsci.com/files/imagecache/photogallery_thumbnails_for_block/files/articles/KEF_Muon_RossLovegrove.jpg" alt="" title=""></a></div><h4><a href="/gear-amp-gadgets/gallery/2008-12/popsci-staff-boombust-holiday-gift-guide">The PopSci Staff Boom/Bust Holiday Gift Guide</a></h4><p class="data-node-body">We hit up the entire staff of <i>PopSci</i> to see what they're dreaming of, what they're expecting, and what they'd recommend to you</p></li><li class="view-item-photo-gallery"><div class="data-field-image"><a href="/diy/gallery/2008-12/diy-gas-mask-popsci-fans-step-step-guide"><img src="http://www.popsci.com/files/imagecache/photogallery_thumbnails_for_block/files/articles/introduction img.jpg" alt="" title=""></a></div><h4><a href="/diy/gallery/2008-12/diy-gas-mask-popsci-fans-step-step-guide">DIY Gas Mask: A PopSci Fan's Step-by-Step Guide</a></h4><p class="data-node-body"><a href="http://www.instructables.com" target="_blank">Instructables.com</a> member <a href="http://www.instructables.com/member/TimAnderson/" target="_blank">TimAnderson</a> uses a 1942 Popular Science article as a guide for creating a DIY gas mask. </p></li></ul><div class="more"><a href="/galleries">+ More Photo Galleries</a></div></div></div>
+    <div id="block-photo_gallery"><div class="content"><div class="header"><h3>Photo Galleries</h3><span class="block-rss"><a href="/galleries/feed"><span>RSS Link</span></a></span></div><ul class="item-list clear-block"><li class="view-item-photo-gallery"><div class="data-field-image"><a href="/scitech/gallery/2009-03/sail-egyptian"><img src="http://www.popsci.com/files/imagecache/photogallery_thumbnails_for_block/files/articles/Ship 5 strg gear adj DSCN4782.jpg" alt="" title=""></a></div><h4><a href="/scitech/gallery/2009-03/sail-egyptian">Sail Like An Egyptian</a></h4><p class="data-node-body">Reconstructing the most ancient ships -- and setting sail</p></li><li class="view-item-photo-gallery"><div class="data-field-image"><a href="/military-aviation-amp-space/gallery/2009-03/top-10-nasa-probe-failures"><img src="http://www.popsci.com/files/imagecache/photogallery_thumbnails_for_block/files/articles/Orbiting_Carbon_Observatory_1.jpg" alt="" title=""></a></div><h4><a href="/military-aviation-amp-space/gallery/2009-03/top-10-nasa-probe-failures">The Top 10 Failed NASA Missions </a></h4><p class="data-node-body">In space, no one can hear you screw up</p></li><li class="view-item-photo-gallery"><div class="data-field-image"><a href="/cars/gallery/2009-02/push-solar-energy-new-york-get-boost-bar"><img src="http://www.popsci.com/files/imagecache/photogallery_thumbnails_for_block/files/articles/final-contestants.gif" alt="" title=""></a></div><h4><a href="/cars/gallery/2009-02/push-solar-energy-new-york-get-boost-bar">The Push for Solar Energy in New York Gets a Boost At a Bar</a></h4><p class="data-node-body">“Party for a Solar Powered New York” yields some innovative solar-powered toy cars</p></li></ul><div class="more"><a href="/galleries">+ More Photo Galleries</a></div></div></div>
   </div>
 </div> <!-- /#block-popsci-photo_gallery_teaser -->
 
@@ -693,11 +629,10 @@ Surf the Web Without a Browser
 <div class="flickr_badge_images">
   <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?show_name=1&amp;count=4&amp;display=random&amp;size=s&amp;layout=x&amp;context=in%2Fpool-popsci%2F&amp;source=group&amp;group=835991%40N23"></script><br>
   <span class="flickr_badge_uber_wrapper clear">Share your photos in the <a href="http://www.flickr.com/groups/popsci/pool/" target="_blank">Pop Sci pool</a> at <a href="http://www.flickr.com" id="flickr_www" name="flickr_www">www.<strong class="c2">flick<span class="c1">r</span></strong>.com</a>!</span><br>
-  <span class="flickr_badge_uber_wrapper">Current theme: <strong>Spooky Science</strong></span><br>
+<!--  <span class="flickr_badge_uber_wrapper">Current theme: <strong>Spooky Science</strong></span><br /> -->
   <span class="flickr_badge_uber_wrapper">Our latest <a href="http://www.popsci.com/events-and-promotions/article/2008-09/popsci-photo-contest-0">winner</a></span>
 </div>
-<!-- End of Flickr Badge -->
-
+<!-- End of Flickr Badge --><div style="visibility:hidden;"><a href="http://technorati.com/claim/rkc7au63xg" rel="me">Technorati Profile</a></div>
   </div>
 </div> <!-- /#block-block-15 -->
 
@@ -708,16 +643,27 @@ Surf the Web Without a Browser
 <div class="view-content view-content-comments-recent"><table>
  <thead><tr><th class="view-cell-header view-field-node-title"><span style="font-size:smaller; align:center; padding: 5px;">regarding</span></th><th class="view-cell-header view-field-comments-name"><span style="font-size:smaller; padding: 5px;">user</span></th><th class="view-cell-header view-field-comments-subject"><span style="font-size:smaller; align:center; padding: 5px;">just&nbsp;commented</span></th> </tr></thead>
 <tbody>
- <tr class="odd"><td class="view-field view-field-node-title"><a href="/scitech/article/2008-12/dude-wheres-my-bacon-cheeseburger" class="active">Dude, Where's My Bacon Cheeseburger?</a></td><td class="view-field view-field-comments-name"><a href="/users/darkfx" title="View user profile.">DarkFx</a></td><td class="view-field view-field-comments-subject"><a href="/scitech/article/2008-12/dude-wheres-my-bacon-cheeseburger#comment-28024" class="active">What if you have been</a></td> </tr>
- <tr class="even"><td class="view-field view-field-node-title"><a href="/military-aviation-amp-space/article/2008-11/weaponizing-mp3s">Weaponizing MP3s</a></td><td class="view-field view-field-comments-name"><a href="/users/lbarnes63" title="View user profile.">lbarnes63</a></td><td class="view-field view-field-comments-subject"><a href="/military-aviation-amp-space/article/2008-11/weaponizing-mp3s#comment-28022">I'm sorry, but these pirates</a></td> </tr>
- <tr class="odd"><td class="view-field view-field-node-title"><a href="/entertainment-amp-gaming/article/2008-12/day-earth-stood-science">The Day The Earth Stood Science</a></td><td class="view-field view-field-comments-name"><a href="/users/aliusdragonfly" title="View user profile.">aliusdragonfly</a></td><td class="view-field view-field-comments-subject"><a href="/entertainment-amp-gaming/article/2008-12/day-earth-stood-science#comment-28011">I'm afraid I have to</a></td> </tr>
- <tr class="even"><td class="view-field view-field-node-title"><a href="/cars/article/2008-12/charging-ahead">Charging Ahead</a></td><td class="view-field view-field-comments-name"><a href="/users/iamanerd" title="View user profile.">i_am_a_nerd</a></td><td class="view-field view-field-comments-subject"><a href="/cars/article/2008-12/charging-ahead#comment-28008">the tesla roadster is</a></td> </tr>
- <tr class="odd"><td class="view-field view-field-node-title"><a href="/node/30316">Three Bodacious Green Innovations</a></td><td class="view-field view-field-comments-name"><a href="/users/iamanerd" title="View user profile.">i_am_a_nerd</a></td><td class="view-field view-field-comments-subject"><a href="/node/30316#comment-28006">thats a huge breakthrough,</a></td> </tr>
-</tbody></table>
+ <tr class="odd"><td class="view-field view-field-node-title"><a href="/environment/article/2009-03/dispatch-copenhagen-day-one-outlook-not-so-good">Dispatch from Copenhagen, Day One: Outlook Not So Good</a></td><td class="view-field view-field-comments-name"><a href="/users/laurenra7" title="View user profile.">laurenra7</a></td><td class="view-field view-field-comments-subject"><a href="/environment/article/2009-03/dispatch-copenhagen-day-one-outlook-not-so-good#comment-31857">It's depressing when you</a></td> </tr>
+ <tr class="even"><td class="view-field view-field-node-title"><a href="/environment/article/2009-03/pronouncement-global-warming%E2%80%99s-demise-thin-ice">Pronouncement of Global Warming’s Demise On Thin Ice</a></td><td class="view-field view-field-comments-name"><a href="/users/rshand" title="View user profile.">rshand</a></td><td class="view-field view-field-comments-subject"><a href="/environment/article/2009-03/pronouncement-global-warming%E2%80%99s-demise-thin-ice#comment-31856">Dr. Chameides,
+I agree that</a></td> </tr>
+ <tr class="odd"><td class="view-field view-field-node-title"><a href="/military-aviation-amp-space/gallery/2009-03/top-10-nasa-probe-failures">The Top 10 Failed NASA Missions </a></td><td class="view-field view-field-comments-name"><a href="/users/dontbother" title="View user profile.">dontbother</a></td><td class="view-field view-field-comments-subject"><a href="/military-aviation-amp-space/gallery/2009-03/top-10-nasa-probe-failures#comment-31855">Er, wha? Hubble's main</a></td> </tr>
+ <tr class="even"><td class="view-field view-field-node-title"><a href="/military-aviation-amp-space/gallery/2009-03/top-10-nasa-probe-failures">The Top 10 Failed NASA Missions </a></td><td class="view-field view-field-comments-name"><a href="/users/stuartkrogers" title="View user profile.">stuart_k_rogers</a></td><td class="view-field view-field-comments-subject"><a href="/military-aviation-amp-space/gallery/2009-03/top-10-nasa-probe-failures#comment-31852">Two of those are not NASA</a></td> </tr>
+ <tr class="odd"><td class="view-field view-field-node-title"><a href="/military-aviation-amp-space/article/2009-03/hurricane-busters">Hurricane Busters </a></td><td class="view-field view-field-comments-name"><a href="/users/beantown179" title="View user profile.">beantown179</a></td><td class="view-field view-field-comments-subject"><a href="/military-aviation-amp-space/article/2009-03/hurricane-busters#comment-31850">Its too bad we can't harness</a></td> </tr>
+</tbody>
+</table>
 </div></div>
 
   </div>
 </div> <!-- /#block-popsci_recent_comments-recent_comments_block -->
+
+<div id="block-block-36" class="block block-block clear-block">
+  <div class="content">
+    <p><img src="http://www.popsci.com/files/yourlabs-header3.jpg"></p>
+<p><img src="http://www.popsci.com/files/beaker-flask.jpg" style="float:left;margin-right:1em;margin-bottom:1em;">Do you moonlight as a scientist? Rush home from your day job to tinker and mix in your  basement or garage?</p>
+<p>PopSci.com is seeking submissions from readers with home workshops or laboratories, to profile in a future feature. Please <a href="mailto:yourpopsci@gmail.com">send us</a> a brief description of your lab and equipment (and how you procured it), tell us about the work that you do there and how you became interested in it, and what you do for your day job. Please also send photos and/or videos of the workspace, and your contact information.</p>
+
+  </div>
+</div> <!-- /#block-block-36 -->
 
 														
 											<div id="popular_on_popsci">
@@ -725,47 +671,41 @@ Surf the Web Without a Browser
 							<div id="block-popsci_popular-most_viewed" class="block block-popsci_popular">
   <h2 class="title">Most Viewed</h2>
   <div class="content">
-    <div class="item-list"><ol><li class="odd"><a href="/gear-amp-gadgets/gallery/2008-12/top-100-innovations-2008">The Top 100 Innovations of 2008</a></li><li class="even"><a href="/gross">Nature's Grossest Creatures</a></li><li class="odd"><a href="/diy/gallery/2008-12/ten-clever-tips-digital-camera-owners">Eleven Clever Tips for Digital Camera Owners</a></li><li class="even"><a href="/gear-amp-gadgets/gallery/2008-12/popsci-staff-boombust-holiday-gift-guide">The PopSci Staff Boom/Bust Holiday Gift Guide</a></li><li class="odd"><a href="/entertainment-amp-gaming/gallery/2008-12/homemade-kicks">Homemade Kicks</a></li><li class="even"><a href="/cars/gallery/2008-12/future-then">Future Then</a></li><li class="odd"><a href="/military-aviation-amp-space/article/2008-12/silent-electric-plane">A Silent Electric Plane</a></li><li class="even"><a href="/diy/article/2008-12/eleven-clever-tips-digital-camera-owners">Eleven Clever Tips for Digital Camera Owners</a></li><li class="odd"><a href="/military-aviation-amp-space/article/2008-12/why-fighter-plane-failed">Why the Fighter Plane Failed</a></li><li class="even"><a href="/scitech/article/2008-12/science-dweebs-often-virgins">Science Dweebs Often Virgins</a></li></ol></div>
+    <div class="item-list"><ol><li class="odd"><a href="/scitech/article/2009-02/extreme-engineering-floating-city-0">Extreme Engineering: A Floating City </a></li><li class="even"><a href="/scitech/article/2009-02/power-people">Power From The People</a></li><li class="odd"><a href="/scitech/article/2009-02/totally-tubular">Totally Tubular</a></li><li class="even"><a href="/scitech/article/2009-03/future-isn%E2%80%99t-what-it-used-be">The Future Isn’t What It Used to Be </a></li><li class="odd"><a href="/diy/article/2009-02/how-make-iphone-app">How to Make an iPhone App: Part One</a></li><li class="even"><a href="/scitech/article/2009-02/extreme-engineering-tallest-skyscraper">Extreme Engineering: The Tallest Skyscraper</a></li><li class="odd"><a href="/environment/article/2009-03/birth-control-animals">Birth Control for Animals</a></li><li class="even"><a href="/military-aviation-amp-space/article/2009-03/martian-debris-aprons-are-full-water">Martian "Debris Aprons" Are Full Of Water</a></li><li class="odd"><a href="/environment/article/2009-02/big-melt">The Big Melt</a></li><li class="even"><a href="/scitech/article/2009-03/podcast-extreme-engineering">Podcast: Extreme Engineering</a></li></ol></div>
   </div>
 </div> <!-- /#block-popsci_popular-most_viewed -->
 
 <div id="block-popsci_popular-most_commented" class="block block-popsci_popular">
   <h2 class="title">Most Commented</h2>
   <div class="content">
-    <div class="item-list"><ol><li class="odd"><a href="/environment/article/2008-12/saudi-arabias-jurassic-park">Saudi Arabia's Jurassic Park</a></li><li class="even"><a href="/military-aviation-amp-space/article/2008-12/why-fighter-plane-failed">Why the Fighter Plane Failed</a></li><li class="odd"><a href="/military-aviation-amp-space/article/2008-12/silent-electric-plane">A Silent Electric Plane</a></li><li class="even"><a href="/scitech/article/2008-12/shock-your-way-happiness">Shock Your Way to Happiness</a></li><li class="odd"><a href="/military-aviation-amp-space/article/2008-12/conversation-robert-zubrin">A Conversation With Robert Zubrin</a></li><li class="even"><a href="/gross">Nature's Grossest Creatures</a></li><li class="odd"><a href="/scitech/article/2008-12/why-are-so-many-kids-allergic-peanuts">Why Are So Many Kids Allergic to Peanuts?</a></li><li class="even"><a href="/military-aviation-amp-space/article/2008-12/chicago-we-have-problem">Obama Clashes With NASA Moon Program</a></li><li class="odd"><a href="/military-aviation-amp-space/article/2008-12/evidence-liquid-water-saturns-moon">Evidence for Liquid Water on Saturn's Moon </a></li><li class="even"><a href="/environment/article/2008-12/mass-whale-strandings-tasmania">Mass Whale Strandings in Tasmania</a></li></ol></div>
+    <div class="item-list"><ol><li class="odd"><a href="/environment/article/2009-03/pronouncement-global-warming%E2%80%99s-demise-thin-ice">Pronouncement of Global Warming’s Demise On Thin Ice</a></li><li class="even"><a href="/environment/article/2009-02/big-melt">The Big Melt</a></li><li class="odd"><a href="/environment/article/2009-03/birth-control-animals">Birth Control for Animals</a></li><li class="even"><a href="/scitech/article/2009-03/future-isn%E2%80%99t-what-it-used-be">The Future Isn’t What It Used to Be </a></li><li class="odd"><a href="/scitech/article/2009-03/r-u-down-wiv-txt-slang">R U Down Wiv Txt Slang?</a></li><li class="even"><a href="/scitech/article/2009-02/extreme-engineering-floating-city-0">Extreme Engineering: A Floating City </a></li><li class="odd"><a href="/environment/article/2009-03/dispatch-copenhagen-day-one-outlook-not-so-good">Dispatch from Copenhagen, Day One: Outlook Not So Good</a></li><li class="even"><a href="/node/32665">Re-Print</a></li><li class="odd"><a href="/gear-amp-gadgets/article/2009-03/universal-phone-charger-so-what-0">Universal Phone Charger -- So What?</a></li><li class="even"><a href="/scitech/article/2009-02/extreme-engineering-tallest-skyscraper">Extreme Engineering: The Tallest Skyscraper</a></li></ol></div>
   </div>
 </div> <!-- /#block-popsci_popular-most_commented -->
 
 <div id="block-popsci_popular-most_emailed" class="block block-popsci_popular">
   <h2 class="title">Most Emailed</h2>
   <div class="content">
-    <div class="item-list"><ol><li class="odd"><a href="/military-aviation-amp-space/article/2008-12/silent-electric-plane">A Silent Electric Plane</a></li><li class="even"><a href="/gear-amp-gadgets/gallery/2008-12/top-100-innovations-2008">The Top 100 Innovations of 2008</a></li><li class="odd"><a href="/scitech/article/2008-12/dude-wheres-my-bacon-cheeseburger">Dude, Where's My Bacon Cheeseburger?</a></li><li class="even"><a href="/diy/article/2008-12/making-vinegar-home">Making Vinegar at Home</a></li><li class="odd"><a href="/cars/gallery/2008-12/sexiest-cyborgs">800 Years of Fembots</a></li><li class="even"><a href="/cars/article/2008-12/return-bodacious-bots">Return of the Bodacious 'Bots</a></li><li class="odd"><a href="/diy/article/2008-12/whats-good-way-send-myself-reminders">What's a Good Way to Send Myself Reminders?</a></li><li class="even"><a href="/entertainment-amp-gaming/article/2008-12/how-predict-tomorrows-hit-songs-today">How to Predict Tomorrow's Hit Songs Today</a></li><li class="odd"><a href="/scitech/article/2008-12/missing-links-christmas-edition">Missing Links: the Christmas Edition</a></li><li class="even"><a href="/node/30316">Three Bodacious Green Innovations</a></li></ol></div>
+    <div class="item-list"><ol><li class="odd"><a href="/scitech/article/2009-03/double-or-nothing">Double or Nothing? </a></li><li class="even"><a href="/environment/article/2009-03/new-yorks-green-plan-draws-global-solutions">New York's Green Plan Draws on Global Solutions</a></li><li class="odd"><a href="/diy/article/2009-02/how-make-iphone-app">How to Make an iPhone App: Part One</a></li><li class="even"><a href="/diy/article/2009-03/how-make-iphone-app-part-two">How to Make an iPhone App: Part Two</a></li><li class="odd"><a href="/scitech/article/2009-03/3-d-gaming-real-or-really-lame">3-D Gaming: Real, or Really Lame?</a></li><li class="even"><a href="/environment/article/2009-03/pronouncement-global-warming%E2%80%99s-demise-thin-ice">Pronouncement of Global Warming’s Demise On Thin Ice</a></li><li class="odd"><a href="/military-aviation-amp-space/article/2009-03/hurricane-busters">Hurricane Busters </a></li><li class="even"><a href="/entertainment-amp-gaming/article/2009-03/play-it-again-sam-0">Play It Again, Sam</a></li><li class="odd"><a href="/scitech/article/2009-03/300-million-year-old-brain">The 300-Million-Year-Old Brain</a></li><li class="even"><a href="/environment/article/2009-02/new-smart-grid-21st-century-tech-21st-century">The New Smart Grid: 21st Century Tech for the 21st Century</a></li></ol></div>
   </div>
 </div> <!-- /#block-popsci_popular-most_emailed -->
 
 						</div>
 										
 				
-					
-			    					<div style="padding-top: 10px; padding-bottom: 10px; background: transparent;">
-					  <iframe name="right2-position" id="right2-position" src="/files/iframes/right2.html?1229489412" width="" height="250" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-					</div>
-									
+				    <div class="ad"><script language="JavaScript">
+<!--
+OAS_AD('Right2');
+//-->
+</script></div> <!-- /.ad -->					
 																						
-											<div id="block-block-23" class="block block-block clear-block">
-  <div class="content">
-    <p><a href="http://cnn.com/planetinperil"><img src="http://www.popsci.com/files/pip_360x1502.jpg" align="center" border="0" width="338" height="99"></a></p>
-
-  </div>
-</div> <!-- /#block-block-23 -->
-
-<div id="block-popsci-global_ofie" class="block block-popsci clear-block">
+											<div id="block-popsci-global_ofie" class="block block-popsci clear-block">
   <h2 class="title">Subscribe for 2 free issues!</h2>
   <div class="content">
-    <div id="block-OFIE_form" class="block"><a href="javascript:void();" onclick="window.open('http://issuu.com/popsci/docs/0908?mode=embed&amp;documentId=080905172642-456b4c2768a940d5861ae2c376c7099a&amp;layout=grey','welcome','width=720,height=620');"><img src="http://www.popsci.com/files/imagecache/current_issue_cover_for_OFIE_block/files/POP_embeddedForm_cover.jpg" alt="POP_embeddedForm_cover.jpg" title="POP_embeddedForm_cover.jpg"></a></div>
-  <div class="view-footer view-footer-OFIE-form"><form action="https://secure.palmcoastd.com/pcd/eSv" method="post">
+    
+    <div id="block-OFIE_form" class="block"><a href="#" onclick="window.open('http://www.popsci.com/zinio-demo','welcome','width=720,height=620,toolbar=0'); return(false);"><img src="http://www.popsci.com/files/imagecache/current_issue_cover_for_OFIE_block/files/POP_embeddedForm_cover_Mar09.jpg" alt="POP_embeddedForm_cover_Mar09.jpg" title="POP_embeddedForm_cover_Mar09.jpg"></a></div>              
+    <div class="view-footer view-footer-OFIE-form"><form action="https://secure.palmcoastd.com/pcd/eSv" method="post">
     <!-- Changed by ilatorre for Dotproject Ticket #58970 -->
-    <input type="hidden" name="i4Ky" value="H4EA">
+    <input type="hidden" name="i4Ky" value="HB5A">
     <input type="hidden" name="iMagId" value="08913">
     <input type="hidden" name="iTk" value="1">
 
@@ -784,17 +724,11 @@ Surf the Web Without a Browser
   </div>
 </div> <!-- /#block-popsci-global_ofie -->
 
-<div id="block-block-20" class="block block-block clear-block">
-  <div class="content">
-    <p><a href="http://popsci.com/bown/2008"><img src="http://www.popsci.com/files/bown2_0.png"></a></p>
-
-  </div>
-</div> <!-- /#block-block-20 -->
-
 										
 						
 			</div> <!-- /#content -->          	
-			</div> <!-- /#main_supplements -->		
+			</div> <!-- /#main_supplements -->
+		
 		
     </div> <!-- /#subwrapper -->
   	</div> <!-- /#wrapper -->
@@ -803,22 +737,28 @@ Surf the Web Without a Browser
 		
 		<div id="footer">
 	
-						  <div class="jcarousel-next jcarousel-next-horizontal jcarousel-clip jcarousel-clip-horizontal jcarousel-list jcarousel-list-horizontal jcarousel-container jcarousel-container-horizontal"><span>&gt;</span></div><div class="jcarousel-prev jcarousel-prev-horizontal"><span>&lt;</span></div><div><div id="block-nodecarousel-nc_footer_tout_carousel" class="block block-nodecarousel">
+						  <div id="block-nodecarousel-nc_footer_tout_carousel" class="block block-nodecarousel">
   <h2 class="title">Today on PopSci.com</h2>
-  <div class="nc_footer_tout_carousel"><div class="content">
+  <div class="content">
 
-    <ul class="jcarousel_target" id="nc_footer_tout_carousel"><li class="nc_item_footer_tout_carousel"><div class="node-carousel-item"><a href="/best-whats-new/article/2008-11/casio-exilim-ex-f1"><img src="http://www.popsci.com/files/imagecache/thumbnail/files/articles/casio-ex-f1.jpg" alt="Casio Exilim EX-F1" title=""></a><div class="node-carousel-title node-carousel-label"><a href="/best-whats-new/article/2008-11/casio-exilim-ex-f1">Casio Exilim EX-F1</a></div><div class="hidden nid">29457</div><div class="hidden total">9</div><div class="hidden position">1</div></div></li><li class="nc_item_footer_tout_carousel"><div class="node-carousel-item"><a href="/environment/article/2008-11/fast-winds-bahrain-world-trade-center"><img src="http://www.popsci.com/files/imagecache/thumbnail/files/articles/bahrain-wtc1.jpg" alt="Bahrain World Trade Center" title=""></a><div class="node-carousel-title node-carousel-label"><a href="/environment/article/2008-11/fast-winds-bahrain-world-trade-center">Fast Winds at the Bahrain World Trade Center</a></div><div class="hidden nid">29496</div><div class="hidden total">9</div><div class="hidden position">2</div></div></li><li class="nc_item_footer_tout_carousel"><div class="node-carousel-item"><a href="/best-whats-new/article/2008-11/draganfly-draganflyer-x6"><img src="http://www.popsci.com/files/imagecache/thumbnail/files/articles/draganflyer-x6.jpg" alt="Draganfly Draganflyer X6" title=""></a><div class="node-carousel-title node-carousel-label"><a href="/best-whats-new/article/2008-11/draganfly-draganflyer-x6">Draganfly Draganflyer X6</a></div><div class="hidden nid">29456</div><div class="hidden total">9</div><div class="hidden position">3</div></div></li><li class="nc_item_footer_tout_carousel"><div class="node-carousel-item"><a href="/best-whats-new/article/2008-11/electronic-artsmaxis-spore"><img src="http://www.popsci.com/files/imagecache/thumbnail/files/articles/maxis-spore-creature-1_badge.jpg" alt="Electronic Arts/Maxis Spore" title=""></a><div class="node-carousel-title node-carousel-label"><a href="/best-whats-new/article/2008-11/electronic-artsmaxis-spore">Electronic Arts/Maxis Spore</a></div><div class="hidden nid">29455</div><div class="hidden total">9</div><div class="hidden position">4</div></div></li><li class="nc_item_footer_tout_carousel"><div class="node-carousel-item"><a href="/best-whats-new/article/2008-11/2009-nissan-gt-r"><img src="http://www.popsci.com/files/imagecache/thumbnail/files/articles/nissan-2009-gt-r_badge.jpg" alt="2009 Nissan GT-R" title=""></a><div class="node-carousel-title node-carousel-label"><a href="/best-whats-new/article/2008-11/2009-nissan-gt-r"> 2009 Nissan GT-R</a></div><div class="hidden nid">29446</div><div class="hidden total">9</div><div class="hidden position">5</div></div></li><li class="nc_item_footer_tout_carousel"><div class="node-carousel-item"><a href="/best-whats-new/article/2008-11/tartan-racing-boss"><img src="http://www.popsci.com/files/imagecache/thumbnail/files/articles/carnegie-mellon-tartan.jpg" alt="Tartan Racing Boss" title=""></a><div class="node-carousel-title node-carousel-label"><a href="/best-whats-new/article/2008-11/tartan-racing-boss"> Tartan Racing Boss</a></div><div class="hidden nid">29447</div><div class="hidden total">9</div><div class="hidden position">6</div></div></li><li class="nc_item_footer_tout_carousel"><div class="node-carousel-item"><a href="/best-whats-new/article/2008-11/rocket-racing-league-x-racer"><img src="http://www.popsci.com/files/imagecache/thumbnail/files/articles/rocket-racer.jpg" alt="Rocket Racing League X Racer" title=""></a><div class="node-carousel-title node-carousel-label"><a href="/best-whats-new/article/2008-11/rocket-racing-league-x-racer"> Rocket Racing League X Racer</a></div><div class="hidden nid">29448</div><div class="hidden total">9</div><div class="hidden position">7</div></div></li><li class="nc_item_footer_tout_carousel"><div class="node-carousel-item"><a href="/best-whats-new/article/2008-11/icon-a5"><img src="http://www.popsci.com/files/imagecache/thumbnail/files/articles/icon-a5-aircraft.jpg" alt="Icon A5" title=""></a><div class="node-carousel-title node-carousel-label"><a href="/best-whats-new/article/2008-11/icon-a5">Icon A5</a></div><div class="hidden nid">29452</div><div class="hidden total">9</div><div class="hidden position">8</div></div></li><li class="nc_item_footer_tout_carousel"><div class="node-carousel-item"><a href="/best-whats-new/article/2008-11/envirofit-clean-cookstove"><img src="http://www.popsci.com/files/imagecache/thumbnail/files/articles/envirofit-cookstove.jpg" alt="Envirofit Clean Cookstove" title=""></a><div class="node-carousel-title node-carousel-label"><a href="/best-whats-new/article/2008-11/envirofit-clean-cookstove">Envirofit Clean Cookstove</a></div><div class="hidden nid">29454</div><div class="hidden total">9</div><div class="hidden position">9</div></div></li></ul><script type="text/javascript">$("#nc_footer_tout_carousel").addClass("hidden");</script>
-  </div></div>
-</div></div> <!-- /#block-nodecarousel-nc_footer_tout_carousel -->
+    <ul class="jcarousel_target hidden" id="nc_footer_tout_carousel"><li><div class="node-carousel-item"><a href="/scitech/article/2009-01/real-cloaking-device"><img src="http://www.popsci.com/files/imagecache/thumbnail/files/articles/cloaker.png" alt="" title=""></a><div class="node-carousel-title node-carousel-label"><a href="/scitech/article/2009-01/real-cloaking-device">A Real Cloaking Device</a></div><div class="hidden nid">31078</div><div class="hidden total">10</div><div class="hidden position">1</div></div></li><li><div class="node-carousel-item"><a href="/node/31063"><img src="http://www.popsci.com/files/imagecache/thumbnail/files/articles/wingman1.jpg" alt="" title=""></a><div class="node-carousel-title node-carousel-label"><a href="/node/31063">Wingman</a></div><div class="hidden nid">31063</div><div class="hidden total">10</div><div class="hidden position">2</div></div></li><li><div class="node-carousel-item"><a href="/entertainment-amp-gaming/article/2009-01/future-gaming"><img src="http://www.popsci.com/files/imagecache/thumbnail/files/articles/2956868680_9e497fa807.jpg" alt="" title=""></a><div class="node-carousel-title node-carousel-label"><a href="/entertainment-amp-gaming/article/2009-01/future-gaming">The Future of Gaming</a></div><div class="hidden nid">30672</div><div class="hidden total">10</div><div class="hidden position">3</div></div></li><li><div class="node-carousel-item"><a href="/lightspikes"><img src="http://www.popsci.com/files/imagecache/thumbnail/files/articles/plants.jpg" alt="" title=""></a><div class="node-carousel-title node-carousel-label"><a href="/lightspikes">DIY Grow Lights</a></div><div class="hidden nid">31080</div><div class="hidden total">10</div><div class="hidden position">4</div></div></li><li><div class="node-carousel-item"><a href="/cars/article/2009-01/detroit-becomes-electric"><img src="http://www.popsci.com/files/imagecache/thumbnail/files/articles/6.Chrysler Circuit_0.JPG" alt="" title=""></a><div class="node-carousel-title node-carousel-label"><a href="/cars/article/2009-01/detroit-becomes-electric">Detroit Becomes Electric</a></div><div class="hidden nid">30996</div><div class="hidden total">10</div><div class="hidden position">5</div></div></li><li><div class="node-carousel-item"><a href="/node/30794"><img src="http://www.popsci.com/files/imagecache/thumbnail/files/articles/bomber-485.jpg" alt="" title=""></a><div class="node-carousel-title node-carousel-label"><a href="/node/30794">Stealth Reborn</a></div><div class="hidden nid">30794</div><div class="hidden total">10</div><div class="hidden position">6</div></div></li><li><div class="node-carousel-item"><a href="/node/31087"><img src="http://www.popsci.com/files/imagecache/thumbnail/files/articles/isolate.jpg" alt="" title=""></a><div class="node-carousel-title node-carousel-label"><a href="/node/31087">The New Virus Killer</a></div><div class="hidden nid">31087</div><div class="hidden total">10</div><div class="hidden position">7</div></div></li><li><div class="node-carousel-item"><a href="/gear-amp-gadgets/article/2009-01/abcs-ces"><img src="http://www.popsci.com/files/imagecache/thumbnail/files/articles/abcs.jpg" alt="" title=""></a><div class="node-carousel-title node-carousel-label"><a href="/gear-amp-gadgets/article/2009-01/abcs-ces">ABCs of CES</a></div><div class="hidden nid">30933</div><div class="hidden total">10</div><div class="hidden position">8</div></div></li><li><div class="node-carousel-item"><a href="/node/31142"><img src="http://www.popsci.com/files/imagecache/thumbnail/files/articles/skiesmain.jpg" alt="" title=""></a><div class="node-carousel-title node-carousel-label"><a href="/node/31142">Flying the Coal-Fired Skies</a></div><div class="hidden nid">31142</div><div class="hidden total">10</div><div class="hidden position">9</div></div></li><li><div class="node-carousel-item"><a href="/gear-amp-gadgets/article/2008-12/popsci-staff-boombust-holiday-gift-guide"><img src="http://www.popsci.com/files/imagecache/thumbnail/files/articles/festivus1.jpg" alt="" title=""></a><div class="node-carousel-title node-carousel-label"><a href="/gear-amp-gadgets/article/2008-12/popsci-staff-boombust-holiday-gift-guide">The PopSci Staff Boom/Bust Holiday Gift Guide</a></div><div class="hidden nid">30276</div><div class="hidden total">10</div><div class="hidden position">10</div></div></li></ul><script type="text/javascript">$("#nc_footer_tout_carousel").addClass("hidden");</script>
+  </div>
+</div> <!-- /#block-nodecarousel-nc_footer_tout_carousel -->
 
-				        			<div id="footer_ad"><iframe name="bottom-position" id="bottom-position" src="/files/iframes/bottom.html?1229489412" width="728" height="90" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></div>
-	
+						
+	        <div id="footer_ad">
+	          <div class="ad"><script language="JavaScript">
+<!--
+OAS_AD('Bottom');
+//-->
+</script></div> <!-- /.ad -->	        </div>
+	        
 							<div id="block-menu-95" class="block block-menu clear-block">
   <h2 class="title">Footer Menu</h2>
   <div class="content">
     
 <ul class="menu">
-  <li class="leaf first"><a href="https://secure.palmcoastd.com/pcd/eSv?iMagId=08913&amp;i4Ky=HCWE" title="Subscribe to Popular Science">Subscribe</a></li>
+  <li class="leaf first"><a href="https://secure.palmcoastd.com/pcd/eSv?iMagId=08913&amp;i4Ky=HB2E" title="Subscribe to Popular Science">Subscribe</a></li>
   <li class="leaf"><a href="https://secure.palmcoastd.com/pcd/eServ?iServ=MDg5MTM0NTM0NyZpVHlwZT1PVEhFUklERU5U">Subscriber Services</a></li>
   <li class="leaf"><a href="/sitemap">Site Map</a></li>
   <li class="leaf"><a href="/about-us">About Us</a></li>
@@ -832,11 +772,10 @@ Surf the Web Without a Browser
   </div>
 </div> <!-- /#block-menu-95 -->
 
-				Drupal web development by <a title="Drupal web development by Ping Vision" href="http://pingv.com/">Ping Vision</a>.
 				<p>&nbsp;</p>
 				
 						
-							<p id="copy">Copyright © 2008 Popular Science</p>
+							<p id="copy">Copyright © 2009 Popular Science</p>
 <p id="rights">A <a href="http://www.bonniercorp.com/" target="_blank">Bonnier Corporation</a> Company. All rights reserved. Reproduction in whole or in part without permission is prohibited.</p>
 
 <div id="block-block-12" class="block block-block clear-block">
