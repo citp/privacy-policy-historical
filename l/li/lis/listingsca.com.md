@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listingsca.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021331id_/http%3A//listingsca.com/common/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listingsca.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312070229id_/http%3A//listingsca.com/common/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Listings Canada
 
@@ -34,7 +34,7 @@ This web site contains links to other sites. Please be aware that we [LWorld Med
 
 **Security**
 
-This website takes every precaution to protect our users’ information. If you have any questions about the security at our website, please feel free to [contact us](https://web.archive.org/web/20081216021331id_/http%3A//listingsca.com/common/contact.asp).
+This website takes every precaution to protect our users’ information. If you have any questions about the security at our website, please feel free to [contact us](https://web.archive.org/web/20090312070229id_/http%3A//listingsca.com/common/contact.asp).
 
 **Site and Service Updates**
 
@@ -56,4 +56,4 @@ Press the Back Button on your browser to return to the previous page.
 
 [Home](https://web.archive.org/) | [Jobs](http://www.careerbuilder.ca/intl/landingpage.aspx?lr=int_calistingsca&siteID=int_calistingsca03) | [Add/Modify Listing](https://web.archive.org/common/links/) | [Photo Gallery](https://web.archive.org/gallery/) | [Maps](https://web.archive.org/mapmenu.asp) | [Contact](https://web.archive.org/common/contact.asp) | [Privacy Statement](https://web.archive.org/common/privacy.asp) | [Advertise](https://web.archive.org/common/advertise/) | [USA](http://listingsus.com/)
 
-This site owned and operated by 2008 [LWorld Media Inc.](http://lworldmedia.com/)
+This site owned and operated by 2009 [LWorld Media Inc.](http://lworldmedia.com/)
