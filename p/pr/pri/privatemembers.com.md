@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privatemembers.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619112420id_/http%3A//private.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privatemembers.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312061936id_/http%3A//www.private.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Private - The hardcore adult and private xxx porn source.
 
@@ -60,6 +60,10 @@ On rare occasions it is necessary to send out a strictly service related announc
 ### Customer Service
 
 We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes. 
+
+### CONTENT
+
+All content contained on the Private Media Group (PMG) sites (the "Sites") is PMG copyrighted property or the copyrighted property of the companies affiliated and/or pertaining to the PMG. All trademarks, service marks, trade names, and trade dress belong to the PMG or the companies affiliated and/or pertaining to the PMG. The PMG or any of the companies pertaining or affilliated to the PMG may alter the Sites or delete parts of the content or features of the Sites at any time, in any way, for any or no reason. 
 
 ### 18 U.S.C. Section 2257 Compliance Notice
 
