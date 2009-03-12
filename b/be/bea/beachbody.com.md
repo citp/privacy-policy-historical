@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beachbody.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224055635id_/http%3A//beachbody.com/product/about_us/privacy_policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachbody.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312065644id_/http%3A//beachbody.com/product/about_us/privacy_policy.do) for the most accurate reproduction.*
 
-# Beachbody Privacy Policy - Fitness, Nutrition, Diet, Weight Loss Official Website
+# Beachbody Privacy Policy - Fitness, Nutrition, Diet, Weight Loss Official Web site
 
 Welcome to Beachbody, a wholly owned business unit of Product Partners. Beachbody has created the following privacy policy to demonstrate our commitment to protecting your privacy, and to disclose our information-gathering and dissemination practices. This online privacy policy is here to tell you about, among other things, the information Beachbody collects through our Web site, how we use that information, how you can opt out of certain uses of the information we collect, and how Beachbody can make changes to this privacy policy. Please let us know if you have any questions regarding this privacy policy by contacting us at [privacy@beachbody.com](mailto:privacy@beachbody.com).
 
@@ -51,8 +51,8 @@ Beachbody's Use of Personal Information and Non-Personal Information: We use you
 You may opt out of receiving communication from us, from Affiliated Companies, or from other third parties by emailing us at: [privacy@beachbody.com](mailto:privacy@beachbody.com) or writing to us at:
 
     Beachbody c/o Product Partners
-    8383 Wilshire Blvd., Suite 1050
-    Beverly Hills, CA 90211
+    3301 Exposition Blvd., 3rd Floor
+    Santa Monica, CA 90404
     Attention: Privacy Policy Department
 
 In addition, when we contact you via email, we may include instructions to unsubscribe from future emails if you so choose.
@@ -94,8 +94,8 @@ Last changed: 8/08/2008
 Please feel free to share any comments and concerns with us. If you have any questions about this privacy policy or the practices of this Web site, please contact: 
 
     Beachbody c/o Product Partners
-    8383 Wilshire Blvd., Suite 1050
-    Beverly Hills, CA 90211
+    3301 Exposition Blvd., 3rd Floor
+    Santa Monica, CA 90404
     Attention: Privacy Policy Department
 
 or email us: [privacy@beachbody.com](mailto:privacy@beachbody.com)
