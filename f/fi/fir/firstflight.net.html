@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the firstflight.net privacy policy that was archived on 2008-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081229042602id_/http%3A//www.firstflight.net/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the firstflight.net privacy policy that was archived on 2009-03-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090312055846id_/http%3A//www.firstflight.net/privacypolicy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -376,8 +376,8 @@ if(document.all){glow_const=1; glow_size=glow_min; document.all.glow_text.style.
 	  <tr>
         <td colspan="2"><table width="100%" border="0">
           <tbody><tr>
-            <td width="32%"><img src="images/leftpanel_chail.gif" width="40" height="40"></td>
-            <td width="68%" height="50"><a href="http://www.firstflight.net/conference/" target="_blank" class="links_01">Conference</a></td>
+            <td width="32%"><img src="images/leftpanel_irctc.gif" width="40" height="40"></td>
+            <td width="68%" height="50"><div id="glow_text"><a href="eticket.asp" class="links_01"><font color="#000066">Authorized Railway e-ticketing Agent</font> </a></div></td>
           </tr>
         </tbody></table></td>
       </tr>
@@ -387,7 +387,27 @@ if(document.all){glow_const=1; glow_size=glow_min; document.all.glow_text.style.
     </tbody></table></td>
   </tr>
 </tbody></table>
-					
+							  <script language="javascript">
+//----   Choice of variables   ----\\
+glow_color="#E87918"
+glow_min=3
+glow_max=7
+glow_speed=70
+//---------The description---------\\
+/*
+glow_color - color of the glow
+glow_min - minimal size
+glow_max - maximal size
+glow_speed - the glow speed
+*/
+//----------------------------------\\
+function f_glow(){
+ glow_size+=glow_const
+ if (glow_size>glow_max || glow_size<glow_min) glow_const*=(-1)
+ document.all.glow_text.style.filter = "glow(color="+glow_color+", strength="+glow_size+")"
+}
+if(document.all){glow_const=1; glow_size=glow_min; document.all.glow_text.style.width="100%"; glow_go=setInterval("f_glow()",glow_speed)}
+</script>					
 			<!-- LEFT PANEL AREA--></td>
                 <td width="5">&nbsp;</td>
                 <td valign="top" bgcolor="#EFEFEF"><table width="587" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -485,7 +505,7 @@ if(document.all){glow_const=1; glow_size=glow_min; document.all.glow_text.style.
     <td bgcolor="#E87918"><div align="center">
       <table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
-          <td><span class="white_text">Copyright © 2008 First Flight Couriers Ltd.,</span></td>
+          <td><span class="white_text">Copyright © 2009 First Flight Couriers Ltd.,</span></td>
           <td><div align="right"><a href="termsofuse.asp" class="white_text">Terms of use</a> | <a href="privacypolicy.asp" class="white_text">Privacy statement</a> </div></td>
         </tr>
       </tbody></table>
