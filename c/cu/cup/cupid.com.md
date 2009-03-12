@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cupid.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050509id_/http%3A//www.cupid.com/cupid-privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cupid.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312091909id_/http%3A//www.cupid.com/cupid-privacy-statement.aspx) for the most accurate reproduction.*
 
 # Cupid - date online from the privacy of home
 
@@ -22,7 +22,7 @@ Your privacy is important to us here at www.Cupid.com ("Website"). In our effort
 
 If users of this Website have questions or concerns regarding this Privacy Statement, they should [contact Cupid.com, Inc.](mailto:privacyissue@cupid.com)
 
-This Privacy Statement is incorporated by reference into Cupid.com, Inc.'s [ Terms of Use Agreement](https://web.archive.org/web/20081217050509id_/http%3A//www.cupid.com/internet-dating-conduct.aspx).
+This Privacy Statement is incorporated by reference into Cupid.com, Inc.'s [ Terms of Use Agreement](https://web.archive.org/web/20090312091909id_/http%3A//www.cupid.com/internet-dating-conduct.aspx).
 
   
 
