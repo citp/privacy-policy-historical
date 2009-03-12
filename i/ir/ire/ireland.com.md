@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ireland.com privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201152240id_/http%3A//www.ireland.com/privacypolicy/generic.ie) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ireland.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312053028id_/http%3A//www.ireland.com/privacypolicy/generic.ie) for the most accurate reproduction.*
 
 # privacy policy | Ireland.com
 
@@ -66,7 +66,7 @@ The safety of children using the internet is very important to Ireland.com. It i
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Unfortunately, no data transmission over the internet can be guaranteed to be 100 per cent secure. As a result, while we strive to protect your personal information, Ireland.com cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
 
 **Opt-in:**  
-Our site provides users with the opportunity to opt-in to receive promotional/marketing information from Ireland.com and select advertisers. To unsubscribe please email [unsubscribe@digitalworx.ie](https://web.archive.org/web/20081201152240id_/http%3A//www.ireland.com/privacypolicy/unsubscribe@digitalworx.ie) and enter your e-mail address. 
+Our site provides users with the opportunity to opt-in to receive promotional/marketing information from Ireland.com and select advertisers. To unsubscribe please email [unsubscribe@digitalworx.ie](https://web.archive.org/web/20090312053028id_/http%3A//www.ireland.com/privacypolicy/unsubscribe@digitalworx.ie) and enter your e-mail address. 
 
 **Correcting and updating:**  
 Ireland.com offers users the ability to change certain personal identifiable information (e-mail address,) collected during the sign up process for specific services.
@@ -76,10 +76,10 @@ Ireland.com provides certain services in conjunction with third parties. These t
 
 Ireland.com also offers you the opportunity to post, submit and exchange content and information on publicly accessible areas. A publicly accessible area is any area of Ireland.com that is accessible by the general public and may be accessed through an index link from a search engine. You may submit, post and exchange material and information in such areas, but should exercise caution in disclosing any personal information that may identify you, or others, personally. Remember that this information may remain indefinitely in the publicly accessible area of the Service. Also, depending on the particular Service, other users may also be able to view two or more of your individual postings collectively.
 
-You are solely responsible for any personally identifiable information that you disclose and disseminate on publicly accessible areas. If you have a concern about any personally identifiable information you have posted on any publicly accessible areas and are unable to delete or edit it, please contact us at: [content@digitalworx.ie](https://web.archive.org/web/20081201152240id_/http%3A//www.ireland.com/privacypolicy/content@digitalworx.ie)
+You are solely responsible for any personally identifiable information that you disclose and disseminate on publicly accessible areas. If you have a concern about any personally identifiable information you have posted on any publicly accessible areas and are unable to delete or edit it, please contact us at: [content@digitalworx.ie](https://web.archive.org/web/20090312053028id_/http%3A//www.ireland.com/privacypolicy/content@digitalworx.ie)
 
 **What Else you Should Know about Privacy:**  
 It is recommended that you close your browser when you have finished your user session. This will make it more difficult for others to access your personal information and correspondence specifically if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. You agree that as an individual you, and in no way Ireland.com, are responsible for the security of, and access to, your own computer. You agree that you are aware that whenever you voluntarily disclose personal information over the Internet that this information can be collected and used by others. Ultimately, you are solely responsible for maintaining the secrecy of your usernames and passwords and any account information. Our Websites may contain links to other websites, and you should be aware that we are not responsible for the privacy practices on other websites.
 
 **Contacting the website:**  
-If you have any questions about this privacy statement, or the security practices of this site, you can contact: [info@digitalworx.ie](https://web.archive.org/web/20081201152240id_/http%3A//www.ireland.com/privacypolicy/info@digitalworx.ie)
+If you have any questions about this privacy statement, or the security practices of this site, you can contact: [info@digitalworx.ie](https://web.archive.org/web/20090312053028id_/http%3A//www.ireland.com/privacypolicy/info@digitalworx.ie)
