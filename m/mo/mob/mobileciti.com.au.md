@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobileciti.com.au privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912145239id_/http%3A//www.mobileciti.com.au/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileciti.com.au privacy policy that was archived on 2009-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090313003500id_/http%3A//mobileciti.com.au/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
 
 # MobileCiti Online
 
