@@ -1,37 +1,23 @@
-> *The following text is extracted and transformed from the renlearn.co.uk privacy policy that was archived on 2006-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060831224906id_/http%3A//www.renaissance-learning.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renlearn.co.uk privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312051917id_/http%3A//www.renlearn.co.uk/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Renaissance Learning - Privacy Policy
 
-## Navigation
+Privacy Policy
 
-* * *
+Renaissance Learning Ltd. UK (RLUK) considers the privacy and security of visitors to our web site to be of paramount importance. We have developed this privacy policy to communicate our commitment that we will keep any information we obtain private and secure. 
 
-## Contents
+RLUK is the sole owner of the information collected on this site. We will not sell, share or rent this information to others in any manner other than that which is disclosed in this policy. Please note that RLUK does collect certain information from our users at several different points on our website. If you have any questions about this privacy policy, or other parts to our web site, we can be reached via email at [info@renlearn.co.uk](mailto:info@renlearn.co.uk) or you can call on Freecall 0800 917 4447. Changes to this privacy policy will be posted at this location and emailed to anyone who has provided us with personally identifiable information as set forth below.
 
-## Privacy Policy
+Personal Information  
+As noted above, certain areas of our web site may collect personally identifiable information. The information collected usually consists of an individual's name, address, telephone number, email address and school information. This information is required only when an individual wishes to pursue a business relationship with RLUK such as receiving product information, or purchasing products from our online store. This information is collected, and stored in a secure, password-protected database that RLUK keeps separate from its corporate web site. RLUK will not disclose this personal information to any unrelated third party except when a third party is helping us pursue the business relationship initiated by the individual when the individual provided the personal information. Personally identifiable information does not include information that is collected anonymously (i.e., without identification of the individual user) or demographic information not connected to an identified individual (See Non Personal Information below).  
+If your personal identifiable information changes, you may correct that information by sending an email message to [info@renlearn.co.uk](mailto:info@renlearn.co.uk) and putting the word UPDATE in the subject line of the message.
 
-Renaissance Learning Ltd. UK (RLUK) considers the privacy and security of visitors to our web site to be of paramount importance. We have developed this privacy policy to communicate our commitment that we will keep any information we obtain private and secure. RLUK is the sole owner of the information collected on this site. We will not sell, share or rent this information to others in any manner other than that which is disclosed in this policy. Please note that RLUK does collect certain information from our users at several different points on our website. If you have any questions about this privacy policy, or other parts to our web site, we can be reached via email at [answers@renlearn.co.uk](mailto:answers@renlearn.co.uk) or you can call on Freecall 0800 917 4447. Changes to this privacy policy will be posted at this location and emailed to anyone who has provided us with personally identifiable information as set forth below. 
+Communication  
+From time-to-time RLUK sends out promotional and informational communications relying on the personal identifiable information it has collected. You will have the option of indicating your desire to receive or not receive this type of communication at the time of your provision of such information to RLUK.
 
-### Personal Information
+Non Personal Information  
+Current technology allows for tracking of other information originating from a user's computer, Internet Service Provider or another originating network component. This information includes a user's IP address and domain information, as well as "cookie" information.  
+With regard to IP address and domain information, RLUK uses a specialised computer system to record this data when a user visits our site. This information is only used to provide aggregate statistical information to help us keep the site functional and responsive, and to determine overall visitor usage patterns. This information is not utilised to try and identify specific individuals, or track an individual's navigation through the site.Our web site does use "cookie" information to help provide an enhanced functional system experience to those visiting the site. A cookie is a piece of data stored on the user's hard drive containing information about the user. While our site does use cookie information, only specific cookie data elements helpful for our site operation are accessed and utilised. We may use cookie information to determine ways in which our web site can be improved, but no personal identification information is included in such activities, and this information is not shared with any third party. If a user rejects the cookie, the user may still use the site.
 
-As noted above, certain areas of our web site may collect personally identifiable information. The information collected usually consists of an individual's name, address, telephone number, email address and school information. This information is required only when an individual wishes to pursue a business relationship with RLUK such as receiving product information, or purchasing products from our online store. This information is collected, and stored in a secure, password-protected database that RLUK keeps separate from its corporate web site. RLUK will not disclose this personal information to any unrelated third party except when a third party is helping us pursue the business relationship initiated by the individual when the individual provided the personal information. Personally identifiable information does not include information that is collected anonymously (i.e., without identification of the individual user) or demographic information not connected to an identified individual (See Non Personal Information below). 
-
-If your personal identifiable information changes, you may correct that information by sending an email message to [answers@renlearn.co.uk](mailto:answers@renlearn.co.uk) and putting the word UPDATE in the subject line of the message. 
-
-### Communication
-
-From time-to-time RLUK sends out promotional and informational communications relying on the personal identifiable information it has collected. You will have the option of indicating your desire to receive or not receive this type of communication at the time of your provision of such information to RLUK. 
-
-### Non Personal Information
-
-Current technology allows for tracking of other information originating from a user's computer, Internet Service Provider or another originating network component. This information includes a user's IP address and domain information, as well as "cookie" information. 
-
-With regard to IP address and domain information, RLUK uses a specialised computer system to record this data when a user visits our site. This information is only used to provide aggregate statistical information to help us keep the site functional and responsive, and to determine overall visitor usage patterns. This information is not utilised to try and identify specific individuals, or track an individual's navigation through the site. 
-
-Our web site does use "cookie" information to help provide an enhanced functional system experience to those visiting the site. A cookie is a piece of data stored on the user's hard drive containing information about the user. While our site does use cookie information, only specific cookie data elements helpful for our site operation are accessed and utilised. We may use cookie information to determine ways in which our web site can be improved, but no personal identification information is included in such activities, and this information is not shared with any third party. If a user rejects the cookie, the user may still use the site. 
-
-### External Links to Other Web Sites
-
-Users visiting our web site may find links to web sites owned and operated by other organisations. Please note that when you click on one of these links, you are moving to another web site. While we reviewed the linked sites at the time of the posting of the link, and only provide a link if we believe the content of a site might be of interest to visitors to our site, the content of those linked sites is the responsibility of the organisation actually owning and/or operating the site. RLA is not responsible for the content of any linked site. We encourage you to read the privacy statements of any linked site as its privacy policy may differ from RLUK's. 
-
-## Copyright and footer links
+External Links to Other Web Sites  
+Users visiting our web site may find links to web sites owned and operated by other organisations. Please note that when you click on one of these links, you are moving to another web site. While we reviewed the linked sites at the time of the posting of the link, and only provide a link if we believe the content of a site might be of interest to visitors to our site, the content of those linked sites is the responsibility of the organisation actually owning and/or operating the site. RLA is not responsible for the content of any linked site. We encourage you to read the privacy statements of any linked site as its privacy policy may differ from RLUK's.
