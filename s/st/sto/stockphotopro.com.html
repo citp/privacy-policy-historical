@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stockphotopro.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216152309id_/http%3A//www.stockphotopro.com/sppprivacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stockphotopro.com privacy policy that was archived on 2009-03-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090312094903id_/http%3A//www.stockphotopro.com/sppprivacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
@@ -10,7 +10,7 @@
 <meta name="rating" content="general">
 <meta name="author" content="StockphotoPro">
 <meta name="copyright" content="Copyright © 2001-2008">
-<title>StockphotoPro - Stock Photography - Search 3.1 Million Stock Photos, Royalty Free Images, and Illustrations</title>
+<title>StockphotoPro - Stock Photography - Search 4 Million Stock Photos, Royalty Free Images, and Illustrations</title>
 <link href="http://www.stockphotopro.com/favicon.ico" rel="SHORTCUT ICON">
 <link rel="stylesheet" type="text/css" media="screen" href="http://www.stockphotopro.com/spp.css">
 <link rel="stylesheet" type="text/css" media="screen" href="http://www.stockphotopro.com/themes/spp/styleNN.css">
@@ -27,13 +27,12 @@
 <script language="javascript" src="http://www.stockphotopro.com/include/sppmain.js"></script>
 <script language="javascript" src="http://www.stockphotopro.com/include/expand/highslide.js"></script>
 <script language="javascript" src="http://www.stockphotopro.com/include/expand/highslide-html.js"></script>
-<script language="javascript" src="http://www.stockphotopro.com/include/filesearchhover.js" type="text/javascript"></script>
 <script language="javascript" src="http://www.stockphotopro.com/include/clienthint.js" type="text/javascript"></script>
 <script language="javascript" src="http://www.stockphotopro.com/include/search.js" type="text/javascript"></script>
 <script language="javascript" src="http://www.stockphotopro.com/include/cookie.js" type="text/javascript"></script>
 <script language="javascript" src="http://www.stockphotopro.com/include/saveFormValues.js" type="text/javascript"></script>
-<script language="javascript" src="http://www.stockphotopro.com/include/dragimg.js" type="text/javascript"></script>
-
+<script language="javascript" src="http://www.stockphotopro.com/include/popup.js" type="text/javascript"></script>
+	<script language="javascript" src="http://www.stockphotopro.com/include/dragimg.js" type="text/javascript"></script><!-- default js file changed from filesearchhover.js to dragimg.js - March 5 2009 -->
 <script language="javascript" src="http://www.stockphotopro.com/include/thickbox/jquery.js" type="text/javascript"></script>
 
 
@@ -48,8 +47,7 @@
 	
 	function hideAdvSrchOnLoad()///called on every page load
 	{
-	
-		if (document.cookie.length>0)
+		if (document.cookie)
 		{
 			c_start=document.cookie.indexOf('advSrchVisited=');
 			if (c_start==-1)///check if cookie was not set, then call after 2 seconds			
@@ -57,10 +55,12 @@
 				jQuery("div#advsrchfields").show();
 				setTimeout('showHideAdvSrch(false);',2000);
 			}
-			/*else///check if cookie was set, then call at once
+			else///check if cookie was set, then call at once
 			{
-				jQuery("div#advsrchfields").hide();
-			}*/	
+				//Mantis 578: Left Nav - New Advanced search functionality 
+				PopUpdiv('bubble','Click \'Advanced Search\' to toggle more options',125,-20,'advanceSearchBubbleDiv');
+					
+			}	
 		}
 	}
 	function showHideAdvSrch(showAdvSrchDiv)
@@ -68,9 +68,15 @@
 	   if (typeof showAdvSrchDiv =="undefined")//if parameter was not passed
 	   {
 		   if (jQuery("div#advsrchfields").is(":hidden")) {//if div is visible, show it
-				jQuery("div#advsrchfields").slideDown("slow");	
+				jQuery("div#advsrchfields").slideDown("slow");
+				//Mantis 578: Left Nav - New Advanced search functionality 
+				document.getElementById('advanceSearchLink').src='/images/arrow_down.png';
+			
 		   } else {//otherwise hide it
 				jQuery("div#advsrchfields").slideUp();
+				//Mantis: 578: Left Nav - New Advanced search functionality 
+				document.getElementById('advanceSearchLink').src='/images/arrow_right.png';
+			
 		   }
 	   }
 	   else
@@ -78,8 +84,14 @@
 		   if (showAdvSrchDiv) {//show
 				jQuery("div#advsrchfields").slideDown("slow");
 				document.cookie='advSrchVisited=1;expires=365';
+				//Mantis 578: Left Nav - New Advanced search functionality 
+				document.getElementById('advanceSearchLink').src='/images/arrow_down.png';
+			
 		   } else {//hide
 				jQuery("div#advsrchfields").slideUp();
+				//Mantis: 578: Left Nav - New Advanced search functionality 
+				document.getElementById('advanceSearchLink').src='/images/arrow_right.png';
+			
 		   }	   
 	   }
 	   ///set the access cookie
@@ -87,10 +99,18 @@
 		exdate.setDate(exdate.getDate()+7);
 		document.cookie='advSrchVisited=1;expires='+exdate.toGMTString();
 	}
+	function disableField(srcId,destId)
+	{
+		if(document.getElementById(srcId).value.length>0)
+			document.getElementById(destId).style.background='#cccccc';
+		else	
+			document.getElementById(destId).style.background='#ffffff';
+	}
 </script>
 
 </head>
-<body onload="hideAdvSrchOnLoad();cp_init();">
+<body onload="hideAdvSrchOnLoad();cp_init();cp_text_entry();"><!-- 0000628: Color should be dislpayed in the Color box : cp_text_entry(); added on load -->
+<img src="/images/bubble.png" style="display:none;">
 <script language="javascript" src="http://www.stockphotopro.com/include/picker.js" type="text/javascript"></script>
 <table id="wraper" cellspacing="0" cellpadding="0">
   <tbody><tr>
@@ -106,7 +126,7 @@
       <tbody><tr>
     <td style="text-align: left;">
 Welcome to StockphotoPro - high quality stock photography         </td>
-         <td class="time">Tuesday, December 16, 2008  <a href="?language=en"><img src="/modules/osC/includes/languages/english/images/icon.gif" border="0" alt="English" title=" English " \=""></a>  <a href="?language=de"><img src="/modules/osC/includes/languages/german/images/icon.gif" border="0" alt="Deutsch" title=" Deutsch " \=""></a>  <a href="?language=ja"><img src="/modules/osC/includes/languages/japanese/images/icon.gif" border="0" alt="Japanese" title=" Japanese " \=""></a>  <a href="?language=es"><img src="/modules/osC/includes/languages/espanol/images/icon.gif" border="0" alt="Español" title=" Español " \=""></a>  <a href="?language=fr"><img src="/modules/osC/includes/languages/french/images/icon.gif" border="0" alt="French" title=" French " \=""></a> </td>
+         <td class="time">Thursday, March 12, 2009  <a href="?language=en"><img src="/modules/osC/includes/languages/english/images/icon.gif" border="0" alt="English" title=" English " \=""></a>  <a href="?language=de"><img src="/modules/osC/includes/languages/german/images/icon.gif" border="0" alt="Deutsch" title=" Deutsch " \=""></a>  <a href="?language=ja"><img src="/modules/osC/includes/languages/japanese/images/icon.gif" border="0" alt="Japanese" title=" Japanese " \=""></a>  <a href="?language=es"><img src="/modules/osC/includes/languages/espanol/images/icon.gif" border="0" alt="Español" title=" Español " \=""></a>  <a href="?language=fr"><img src="/modules/osC/includes/languages/french/images/icon.gif" border="0" alt="French" title=" French " \=""></a> </td>
         </tr>
       </tbody></table>
 	  <table cellspacing="0" cellpadding="0" width="100%" id="menuHeadNavTable">
@@ -130,35 +150,47 @@ Welcome to StockphotoPro - high quality stock photography         </td>
 						<div class="blockContent">
 
        						<form action="http://www.stockphotopro.com/searchphoto.php" method="GET" name="advsearch">
-							<div class="searchItem">Enter Keywords<br><input type="text" name="Keyword" id="Keyword" class="fontStyleTxtBox" tabindex="11" onfocus="javascript:showHideAdvSrch(true);" onkeydown="javascript: CheckKey(event)" ;"=""></div>
-							<div class="searchItem"><div class="fpd"><input type="checkbox" name="photograph" value="1" tabindex="15" checked=""></div><div class="fpd" style="margin-top:3px;">Photograph</div></div>
-					        <div class="searchItem"><div class="fpd"><input type="checkbox" name="illustration" value="1" tabindex="15" checked=""></div><div class="fpd" style="margin-top:3px;">Illustration</div></div>
+							<div class="searchItem"><img src="/images/arrow_right.png" style="margin-right:3px;">Keywords or Image Id<br><input type="text" name="Keyword" id="Keyword" class="fontStyleTxtBox" onfocus="javascript:showHideAdvSrch(true);" onkeydown="javascript: CheckKey(event)" ;"=""></div>
+							<!-- 0000695: Subscription: Search checkbox to return only subscription images -->
+					        	<div class="searchItem"><div class="fpd"><input type="checkbox" name="SubscriptionImage" value="On"></div><div class="fpd" style="margin-top:3px;">Subscription Images</div></div>
+					        
+							<div class="searchItem" id="advanceSearchBubbleDiv"></div>
 							<div class="searchItem">
-								<a href="javascript:showHideAdvSrch();">Advanced Search</a>
-							</div>							
+								<a href="javascript:showHideAdvSrch();"><img src="/images/arrow_right.png" id="advanceSearchLink" style="margin-right:3px;">Advanced Search</a>
+								
+							</div>
+											
 							<div id="advsrchfields" name="advsrchfields" style="display:none">
-							<div class="searchItem">By Photographer<input type="text" name="Photographer" id="Photographer" class="fontStyleTxtBox" autocomplete="off" style="left:0px" tabindex="12"><br><div id="txtHint"></div><!--input type="text" name="Photographer" id="Photographer" class="fontStyleTxtBox" autocomplete="off" onblur="hide()"/--></div>
-							<div class="searchItem">By Image Id<br><input type="text" name="Imageid" id="Imageid" class="fontStyleTxtBox" tabindex="11" onkeydown="javascript: CheckKey(event)" ;"=""></div>
+							<div class="searchItem"><div class="fpd"><input type="checkbox" name="photograph" value="1" checked=""></div><div class="fpd" style="margin-top:3px;">Photograph</div></div>
+						       <div class="searchItem"><div class="fpd"><input type="checkbox" name="illustration" value="1" checked=""></div><div class="fpd" style="margin-top:3px;">Illustration</div></div>
+							<div class="searchItem">By Photographer<input type="text" name="Photographer" id="Photographer" class="fontStyleTxtBox" autocomplete="off" style="left:0px"><br><div id="txtHint"></div><!--input type="text" name="Photographer" id="Photographer" class="fontStyleTxtBox" autocomplete="off" onblur="hide()"/--></div>
+							<!--0000754: Keyword search to allow searching for image ID - Search by image ID is disabled now
+							<div class=searchItem>By Image Id<br/><input type="text" name="Imageid" id="Imageid" class="fontStyleTxtBox"   onkeyup="disableField('Imageid','Keyword');" onkeydown="javascript: CheckKey(event)";"/></div> -->
+							<!-- dummy image id feild is aded to help prevent js errors as this may be used in header.php and searchphoto.php--><input type="hidden" name="Imageid" id="Imageid">
+							
 							<div class="searchItem">Orientation<br>
 								<div>
-									<select name="Orientation" class="fontStyleTxtBox" tabindex="13">
-							            <option value="0">&nbsp;</option>
+									<select name="Orientation" class="fontStyleTxtBox" style="background: none;">
+							            <option value="0">H or V</option>
 							            <option value="H">Horizontal</option>
 							            <option value="V">Vertical</option>
 						        	</select>
 						        </div>
 						    </div>
 						    <div class="searchItem">License Type<br>
-					        <div>
-					        	<select name="LicenseType" class="fontStyleTxtBox">
-					        		<option value="0">&nbsp;</option>
-						            <option value="2" selected="selected">Royalty Free</option>
-						            <option value="1">Rights Managed</option>
-						         </select>
+						        <div>
+						        	<select name="LicenseType" class="fontStyleTxtBox" style="background: none;">
+						        	<!-- 0000753: Left Nav: Royalty Free/Rights Managed drop down behaviour RF & RM is set as default wiuth text-->
+						        		<option value="0" selected="selected">RF &amp; RM</option>
+							            <option value="2">Royalty Free - RF</option>
+							            <option value="1">Rights Managed - RM</option>
+							         </select>
+						        </div>
 					        </div>
 					        
+					        
 							<div class="searchItem">
-								<div class="fpd"><input type="checkbox" id="Color" name="Color" onclick="div_display('Picker','Color');" tabindex="14"></div><div class="fpd" style="margin-top:3px;">Search By Color</div>
+								<div class="fpd"><input type="checkbox" id="Color" name="Color" onclick="div_display('Picker','Color');"></div><div class="fpd" style="margin-top:3px;">Search By Color</div>
 								<div class="clear"></div>
 								<div id="Picker" name="Picker" style="display:none;">
 								  <input name="cp_color" value="" type="hidden">
@@ -181,7 +213,7 @@ Welcome to StockphotoPro - high quality stock photography         </td>
 										      </td>
 										    </tr>
 										    <tr>
-										      <td colspan="3"><table widt="130"><tbody><tr>
+										      <td colspan="3"><table width="130"><tbody><tr>
 										      <td><font class="small">Code:<input type="text" name="rgb1_value" class="adv" style="width:60px;" onblur="cp_text_entry();"></font></td>
 										      <td width="22" height="22" id="cp_swatch" onclick="small_wheel_click(); return false" style="background-color:#fff; border: 1px solid #ccc;background-repeat: no-repeat;"><img src="/advancedsearch/images/spacer.gif" width="22" height="22" id="cp_swatch_spacer"></td>
 										      <td>&nbsp;&nbsp;</td>
@@ -217,11 +249,11 @@ Welcome to StockphotoPro - high quality stock photography         </td>
 							  			</tbody></table><br></div>
 								  </div><!-- End Color Picker Div //-->
 							  </div><!-- End Color search by color div //-->
-							  <div class="searchItem"><div class="fpd"><input type="checkbox" name="ModelReleased" value="NotNull" tabindex="15"></div><div class="fpd" style="margin-top:3px;">Model Released</div></div>
-							  <div class="searchItem"><div class="fpd"><input type="checkbox" name="PropertyReleased" value="NotNull" tabindex="16"></div><div class="fpd" style="margin-top:3px;">Property Released</div></div>
+							  <div class="searchItem"><div class="fpd"><input type="checkbox" name="ModelReleased" value="NotNull"></div><div class="fpd" style="margin-top:3px;">Model Released</div></div>
+							  <div class="searchItem"><div class="fpd"><input type="checkbox" name="PropertyReleased" value="NotNull"></div><div class="fpd" style="margin-top:3px;">Property Released</div></div>
 							<div class="searchItem">File Types &amp; Sizes<br>
 									<div>
-										<select name="ImageSize" class="fontStyleTxtBox" id="ImageSize" tabindex="17">
+										<select name="ImageSize" class="fontStyleTxtBox" id="ImageSize" style="background: none;">
 								            <option value="0" selected="selected">All</option>
 								            <option value="1">Medium and bigger</option>
 											<option value="2">Large and bigger</option>
@@ -233,7 +265,7 @@ Welcome to StockphotoPro - high quality stock photography         </td>
 							<div class="searchItem">
 							 	Items Per Page<br>
 									<div>
-										<select name="images_per_page" class="fontStyleTxtBox" id="images_per_page" tabindex="18">
+										<select name="images_per_page" class="fontStyleTxtBox" id="images_per_page" style="background: none;">
 								          <option value="20" selected="selected">20</option>
 								          <option value="50">50</option>
 								          <option value="100">100</option>
@@ -244,23 +276,23 @@ Welcome to StockphotoPro - high quality stock photography         </td>
 							<div class="searchItem">
 							 Sort Order<br>
 								<div>
-									<select name="SortOrder" class="fontStyleTxtBox" id="SortOrder" tabindex="19">
-									 <option value="0">Most Popular</option>
-									  <option value="1" selected="selected">Most Recent First</option>
+									<select name="SortOrder" class="fontStyleTxtBox" id="SortOrder" style="background: none;">
+									  <option value="0" selected="selected">Most Popular</option>
+									  <option value="1">Most Recent First</option>
 									  <option value="2">Most Recent Last</option>
 									</select>
 						        </div>
-							</div>
-							</div>
+							</div>							
 							</div>
 							 <div class="searchItem"><br><input type="hidden" name="txt_PageNo" value="1">
-								<input type="button" name="btn_Submit" value="Submit" class="fontStyleTxtBox" tabindex="20" onclick="javascript:submitSearch(document.forms.advsearch);">
+								<input type="button" name="btn_Submit" value="Submit" onclick="javascript:submitSearch(document.forms.advsearch);">
+								<input type="reset" name="btn_Reset" value="Clear" onclick="document.getElementById('Picker').style.display = 'none';">
 							</div><br>
 						</form>
 			    </div>
 <script type="text/javascript">
-<!--
-cp_init();
+//<!--
+//cp_init();this line commented: 0000628: Color should be dislpayed in the Color box 
 //-->
 </script>
 		<!-- Start left blocks loop -->
@@ -284,7 +316,7 @@ cp_init();
                     <!-- End left blocks loop -->
 		  <!-- Links below -->
 			 <div class="block"><br>
-                 <div class="blockTitle">Quick Links</div>
+                <div class="blockTitle">Quick Links</div>
 				<div id="usermenu">
 				 <a href="http://www.stockphotopro.com/spprecent.php" class="menuTop">Browse Recent</a>
 				 <a href="http://www.stockphotopro.com/lightbox.php" class="menuTop">Lightbox</a>
@@ -295,7 +327,19 @@ cp_init();
 				 <a href="http://www.stockphotopro.com/affiliate.php" class="menuTop">Affiliate Program</a>
 				 <a href="http://www.stockphotopro.com/sppsupport.php" class="menuTop">Support</a>
 				 <a href="http://www.stockphotopro.com/modules/smartfaq/index.php" class="menuTop">FAQ</a>
-				<br><br><br><br><br><br><br><br><br><br><br><br><br>
+				<br><br>
+				
+				<!-- BEGIN ProvideSupport.com Graphics Chat Button Code -->
+					<div id="cihFiP" style="z-index:100;position:absolute"></div>
+					<div id="schFiP" style="display:inline"></div>
+					<div id="sdhFiP" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/stockphotopro/safe-standard.js?ps_h=hFiP&amp;ps_t=1582136271293"></script></div>
+					<script type="text/javascript">var sehFiP=document.createElement("script");sehFiP.type="text/javascript";var sehFiPs=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/stockphotopro/safe-standard.js?ps_h=hFiP\u0026ps_t="+new Date().getTime()+"";
+					setTimeout("sehFiP.src=sehFiPs;document.getElementById('sdhFiP').appendChild(sehFiP)",1)</script>
+					<noscript>
+					<div style="display:inline"><a href="http://www.providesupport.com?messenger=stockphotopro">Online Customer Service</a></div>
+					</noscript>
+				<!-- END ProvideSupport.com Graphics Chat Button Code -->
+				<br><br><br><br><br><br><br><br><br><br><br>
 				</div>
               </div>
 			 </div>
@@ -305,7 +349,54 @@ cp_init();
         <td id="centercolumn">
           <!-- Display center blocks if any -->
                     <!-- End display center blocks -->
-          <div id="content">		<div style="width:500px;">
+          <div id="content"><script>
+//mantis: 578 - Left Nav - New Advanced search functionality 
+
+if(document.forms.advsearch)
+{ 
+	if(document.forms.advsearch.Keyword.value!='')
+	{
+		if(document.forms.advsearch.Imageid.value!='')
+			document.forms.advsearch.Keyword.style.background='#cccccc';
+		else	
+		document.forms.advsearch.Keyword.style.background='#ccff99';
+	}	
+	if(document.forms.advsearch.Photographer.value!='')
+		document.forms.advsearch.Photographer.style.background='#ccff99';
+	if(document.forms.advsearch.Imageid.value!='')
+		document.forms.advsearch.Imageid.style.background='#ccff99';
+	if(document.forms.advsearch.Orientation.value=='H' || document.forms.advsearch.Orientation.value=='V')
+		document.forms.advsearch.Orientation.style.background='#ccff99';
+	else
+		document.forms.advsearch.Orientation.style.background='none';	
+	if(document.forms.advsearch.rgb1_value.value!='')
+		document.forms.advsearch.rgb1_value.style.background='#ccff99';
+	/* 	 0000715: Property release checkbox is not correct in IE 7 : Following lines are not highlighting the checkbox, rather causing the bug, so commenting.
+	if(document.forms.advsearch.ModelReleased.checked!='')
+		document.forms.advsearch.ModelReleased.style.borderColor='#ccff99';
+	if(document.forms.advsearch.PropertyReleased.value!='')
+		document.forms.advsearch.PropertyReleased.style.borderColor='#ccff99';*/
+	if(document.forms.advsearch.ImageSize.value!=0)
+		document.forms.advsearch.ImageSize.style.background='#ccff99';
+	else
+		document.forms.advsearch.ImageSize.style.background='none';	
+	if(document.forms.advsearch.SortOrder.value!=0)
+		document.forms.advsearch.SortOrder.style.background='#ccff99';
+	else
+		document.forms.advsearch.SortOrder.style.background='none';		
+	if(document.forms.advsearch.images_per_page.value!=20)
+		document.forms.advsearch.images_per_page.style.background='#ccff99';
+	else
+		document.forms.advsearch.images_per_page.style.background='none';							
+	//if(document.forms.advsearch.LicenseType.value!=2)
+	//0000753: Left Nav: Royalty Free/Rights Managed drop down behaviour ; 0 is set as default
+	if(document.forms.advsearch.LicenseType.value!=0)
+		document.forms.advsearch.LicenseType.style.background='#ccff99';
+	else
+		document.forms.advsearch.LicenseType.style.background='none';
+}
+</script>
+		<div style="width:500px;">
 		<h1>Privacy Policy</h1>
        for <b>STOCKPHOTOPRO, INC.</b>.<br>
 <p>Our postal address is <br>
@@ -330,7 +421,7 @@ Consumers can access this information by writing to us at the above address.<p><
 <p>Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information, communications that the consumer/visitor has directed to the site.</p>
 Consumers can have this information corrected by sending us e-mail at the above address, writing to us at the above address.<p></p>
 <p>With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.</p>
-<p>If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at <a href="mailto:mgoldberger@the-dma.org">mgoldberger@the-dma.org</a>, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <a href="http://www.ftc.gov/ftc/complaint.htm">http://www.ftc.gov/ftc/complaint.htm</a>.</p>
+<p>If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at <a href="mailto:mgoldberger@the-dma.org">mgoldberger@the-dma.org</a>, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <!-- 	 0000523: External links need to be opened in new tab --><a href="http://www.ftc.gov/ftc/complaint.htm" target="_blank">http://www.ftc.gov/ftc/complaint.htm</a>.</p>
 </div>
                 </div></td>
        <!--
