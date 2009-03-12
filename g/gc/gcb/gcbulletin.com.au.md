@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gcbulletin.com.au privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410033203id_/http%3A//www.goldcoast.com.au/gold-coast-bulletin/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcbulletin.com.au privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312082641id_/http%3A//www.goldcoast.com.au/gold-coast-bulletin/privacy-policy.html) for the most accurate reproduction.*
 
 # The Gold Coast Bulletin :: Privacy Policy :: goldcoast.com.au :: Queensland, Australia
 
