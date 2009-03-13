@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteadvisor.pl privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913205033id_/http%3A//siteadvisor.pl/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteadvisor.pl privacy policy that was archived on 2009-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090313043721id_/http%3A//www.siteadvisor.pl/privacypolicy.html) for the most accurate reproduction.*
 
 # McAfee SiteAdvisor - Privacy policy
 
