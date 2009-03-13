@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluechipvacations.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217150025id_/http%3A//www.bluechipvacations.com/booking-your-holiday/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluechipvacations.com privacy policy that was archived on 2009-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090313174900id_/http%3A//www.bluechipvacations.com/booking-your-holiday/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Blue Chip Vacations UK
 
