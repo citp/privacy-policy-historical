@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novastor.com privacy policy that was archived on 2008-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081002030109id_/http%3A//www1.novastor.com/store/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novastor.com privacy policy that was archived on 2009-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090313080602id_/http%3A//www.novastor.com/store/privacy-statement.html) for the most accurate reproduction.*
 
 # NovaStor Privacy Statement - Committed to protecting your privacy
 
