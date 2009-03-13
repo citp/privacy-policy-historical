@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellingtonnz.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219072545id_/http%3A//wellingtonnz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellingtonnz.com privacy policy that was archived on 2009-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090313063122id_/http%3A//www.wellingtonnz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | WellingtonNZ.com
 
