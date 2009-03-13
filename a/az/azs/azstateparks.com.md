@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azstateparks.com privacy policy that was archived on 2008-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081213195717id_/http%3A//www.azstateparks.com/find/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azstateparks.com privacy policy that was archived on 2009-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090313203903id_/http%3A//www.azstateparks.com/find/privacy.html) for the most accurate reproduction.*
 
 # Arizona State Parks: Privacy Policy
 
@@ -45,6 +45,8 @@ The Arizona State Parks' website uses cookies. A “cookie” is a small text fi
   You can set your browser to refuse all cookies or to indicate when a cookie is being set.
 
   In the future Arizona State Parks may use persistent cookies which remain on your hard drive until you erase them or they expire. Persistent cookies could enhance subsequent website visits, and/or speed up or enhance our website's services or functions.
+
+For videos that are embedded, a persistent flash-based cookie is set by third-party providers when you click to play the video. This persistent cookie is used by some third-party providers to help maintain the integrity of video statistics. To change your Flash-based privacy settings [visit this link](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html#117645 "Flash-based privacy settings") where you can also delete any flash-based cookies.
 
 The web server that hosts Arizona State Parks does gather certain information about the visit automatically in a standard log file. This information never identifies you personally and consists of only the following items: 
 
@@ -125,4 +127,4 @@ If you choose to provide us with personal information — by submitting an onlin
 
 ## Privacy Policy Statement Is Subject To Change 
 
-This Privacy Policy Statement is subject to change _._ Last updated April 2008.
+This Privacy Policy Statement is subject to change _._ Last updated March 2009.
