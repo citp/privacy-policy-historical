@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the case-mate.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218122004id_/http%3A//www.case-mate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the case-mate.com privacy policy that was archived on 2009-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090313031236id_/http%3A//www.case-mate.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,4 +28,4 @@ By accessing and using the case-mate site, you consent to our collection, use an
 Case-mate ® would like to communicate with you only if you want to hear from us. If you are registered with us and would like to delete or update your registration and personal details from our database, please click on this unsubscribe link. If you prefer not to receive promotional information from us or our affiliated brands, or if you do not want us to use your information to enhance your shopping experience, please let us know by calling us at 770-888-9965, by writing to us or by sending us an e-mail. Please be sure to include your full name and the e-mail address you used when you registered or made a purchase from us. If you ask us to remove your name and address from promotional lists, we will maintain your name in a "do not contact" file to ensure that we can honor your request. It may take up to 10 days to process your e-mail request, and 6-8 weeks to process your postal mail request, during which period you may continue to receive communications from Case-mate ®. Please also note that your on-line purchase will be confirmed through e-mail. In addition, we may also need to contact you via phone, e-mail or postal mail with other questions regarding your order.   
 | **Contact Us**  
 ---  
-If you have any comments or queries regarding our privacy policy, please send an e-mail to [support@case-mate.com](https://web.archive.org/web/20081218122004id_/http%3A//www.case-mate.com/support). 
+If you have any comments or queries regarding our privacy policy, please send an e-mail to [support@case-mate.com](https://web.archive.org/web/20090313031236id_/http%3A//www.case-mate.com/support). 
