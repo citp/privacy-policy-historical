@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the getmeinsure.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227043923id_/http%3A//www.getmeinsure.com/privacy-policy-getmeinsure.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmeinsure.com privacy policy that was archived on 2009-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090314140653id_/http%3A//www.getmeinsure.com/privacy-policy-getmeinsure.php) for the most accurate reproduction.*
 
 # Privacy Policy For Getmeinsure.com: Apply Online For Insurance India, Compare Life Insurance Online India, Compare Health Insurance , Car / Auto Insurance , Travel Insurance , Child ,Retirement
+
+**We value the security of your information. Your privacy is important to us. We will never sell or trade any of the information you provide to us at anytime. You may be contacted only in relation to this insurance request only.**
 
 This is the privacy policy ("Privacy Policy") for the www.getmeinsure.com site (the "Site"). This Privacy Policy sets forth our policies regarding the collection, use and disclosure of certain information relating to your use of the Site. Your use of this Site signifies your understanding and acceptance of the terms of this Privacy Policy. 
 
