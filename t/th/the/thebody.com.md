@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebody.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223062734id_/http%3A//www.thebody.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebody.com privacy policy that was archived on 2009-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090314062218id_/http%3A//www.thebody.com/privacy.html) for the most accurate reproduction.*
 
 # The Body: Privacy Policy
 
@@ -68,13 +68,17 @@ The Body provides links to various Web sites other than our own, and we do not c
 
 It is The Body's policy not to collect personal information or any other identifying data from children under 13 years of age. Should a child whom we know to be under 13 send personal information to us, it is our policy not to use that information except to respond directly to that child to inform him or her that it is our policy not to accept the submission. Certain areas of The Body are dedicated to the important issues of AIDS and HIV among young people and children. These areas of our site present issues that are important to parents, children and health-care professionals, but are not directed toward children under the age of 13. In this context, please be mindful of The Body's policy concerning external links, above. 
 
+### MyHealthTracker Service
+
+By using the MyHealthTracker Service offered by The Body, you agree to be subject to the terms of the Participation Agreement as part of the registration process. The terms of the Participation Agreement shall govern any personal information that you submit through the MyHealthTracker Service. 
+
 ### Terms, Changes and Questions
 
 By using The Body, you signify your agreement to the terms of our privacy policy. If you do not agree with these terms, please do not disclose any personal information through The Body. If we decide to change The Body's privacy policy, we will post those changes here so that you will be aware of what information we gather, how we might use that information, and whether we will disclose it to anyone. 
 
 Questions or comments about this policy or the use of personal information may be sent to [registration@thebody.com](mailto:registration@thebody.com). We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of personal information. 
 
-_Last Updated March 30, 2004_
+_Last Updated January 28, 2009_
 
 | 
 
