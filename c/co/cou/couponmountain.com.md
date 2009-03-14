@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the couponmountain.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222034841id_/http%3A//www.couponmountain.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponmountain.com privacy policy that was archived on 2009-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090314200822id_/http%3A//www.couponmountain.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Offer Online Coupons & Coupon Codes at Coupon Mountain
-
-| 
-
-[Home](http://www.couponmountain.com/) > **Privacy Policy**
 
 ### COUPONMOUNTAIN.COM
 
@@ -83,5 +79,3 @@ CouponMountain.com/MeziMedia
 Monrovia, CA 91016 
 
 E-Mail: [privacy@MeziMedia.com](mailto:privacy@MeziMedia.com)
-
-| 
