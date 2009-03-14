@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singersroom.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152136id_/http%3A//www.singersroom.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singersroom.com privacy policy that was archived on 2009-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090314041204id_/http%3A//www.singersroom.com/company/privacy.asp) for the most accurate reproduction.*
 
 # Singersroom.com Privacy Policy
 
@@ -37,4 +37,4 @@ By using our Web site, you consent to the collection and use of your personal in
 From time to time, we may change our Privacy Policy. We will post those changes on this page so that our customers will always be aware of what information we collect, how we use it, and under what circumstances we share the information with others.   
 
 
-If you have suggestions as to how the site can be improved, please [**email us**](https://web.archive.org/web/20081216152136id_/http%3A//www.singersroom.com/company/contact.asp)
+If you have suggestions as to how the site can be improved, please [**email us**](https://web.archive.org/web/20090314041204id_/http%3A//www.singersroom.com/company/contact.asp)
