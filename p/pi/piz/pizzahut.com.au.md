@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pizzahut.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080807id_/http%3A//www.pizzahut.com.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizzahut.com.au privacy policy that was archived on 2009-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090314174927id_/http%3A//www.pizzahut.com.au/privacy_policy) for the most accurate reproduction.*
 
-# Pizza Hut - Privacy Policy
+# Ordering Pizza - Privacy Policy - Pizza Hut
 
 **PIZZA HUT AUSTRALIA**  
 A division of Yum! Restaurants Australia Pty Limited A.B.N. 16 000 674 993
