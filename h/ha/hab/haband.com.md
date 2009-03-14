@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haband.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229025429id_/http%3A//www.haband.com/index.cfm/fuseaction/content.page/nodeID/3fcbd794-1455-45a0-8dab-0292b0a39337) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haband.com privacy policy that was archived on 2009-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090314145654id_/http%3A//www.haband.com/index.cfm/fuseaction/content.page/nodeID/3fcbd794-1455-45a0-8dab-0292b0a39337) for the most accurate reproduction.*
 
 # Haband About Haband Privacy Policy
 
