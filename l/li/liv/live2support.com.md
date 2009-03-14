@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the live2support.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021412id_/http%3A//www.live2support.com/privacyls.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the live2support.com privacy policy that was archived on 2009-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090314021531id_/http%3A//live2support.com/privacyls.php) for the most accurate reproduction.*
 
 # Live2Support - Privacy Statement
 
@@ -39,4 +39,4 @@ To modify or update the contact and billing information you provide to Live2Supp
 
 **Changes to This Privacy Policy and Questions about Privacy**
 
-Live2Support.com reserves the right to make changes to this privacy policy from time to time without prior notice. Those changes will become effective fifteen (15) days after a notice of the change is posted on this web page. If you have any questions regarding this privacy policy, please feel free to write to us at: [webmaster @ live2support.com](https://web.archive.org/web/20081217021412id_/http%3A//www.live2support.com/contactus.php)
+Live2Support.com reserves the right to make changes to this privacy policy from time to time without prior notice. Those changes will become effective fifteen (15) days after a notice of the change is posted on this web page. If you have any questions regarding this privacy policy, please feel free to write to us at: [webmaster @ live2support.com](https://web.archive.org/web/20090314021531id_/http%3A//live2support.com/contactus.php)
