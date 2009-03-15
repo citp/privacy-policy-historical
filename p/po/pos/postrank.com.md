@@ -1,54 +1,54 @@
-> *The following text is extracted and transformed from the postrank.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912140740id_/http%3A//postrank.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postrank.com privacy policy that was archived on 2009-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090315115316id_/http%3A//www.postrank.com/privacy) for the most accurate reproduction.*
 
-# PostRank
+# Privacy Policy - PostRank
 
-## Privacy Policy
+AideRSS, Inc. ("AideRSS" or "we" or "us") is committed to protecting the privacy of the personally identifiable information ("Personal Information" further described below) that we collect from you. This privacy policy ("Privacy Policy") is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information and anonymous information ("Anonymous Information" further described below) you submit to us.
 
-PostRank, is committed to protecting the privacy of the personally-identifiable information that we collect from you. As part of this commitment , we have created policies and procedures to comply with Bill C-6, the federal government's Privacy Legislation and the scope is detailed in this Privacy Policy.
+AideRSS may collect Personal Information on certain areas of the site when you register, request information or a response, sign up for events, apply for jobs, and participate in user posting areas, such as bulletin boards, discussion forums, and surveys. The information collected may include, without limitation, your access ID/password, company, and contact information such as name, mailing address, e-mail address, and phone/ fax numbers.
 
-Through use of this Website, Software, Servers, etc. (hereafter referred in common to as the "site") or by submitting any information, you agree to PostRank's use of such information as described herein. Please also see our Terms of Use for more information about our on-line policies in general.
-
-PostRank may collect personally-identifiable information ("Personal Info") on certain areas of the site when users register, request information or a response, sign up for events, apply for jobs, and participate in user posting areas, such as bulletin boards, discussion forums, and surveys. The information collected may include, without limitation, your access ID/password, company, association, or school affiliations, and contact information (names, mailing and e-mail addresses, phone/ fax numbers).
+Through use of our website, software, services, etc. (hereafter collectively referred to as the "Site") or by submitting any information to us, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Information according to this Privacy Policy and AideRSS' Terms of Service located at http://www.aiderss.com/terms.html.
 
 ### Personal Information
 
-PostRank uses your Personal Info to fulfill your requests for information, to process your requests to participate in events, and to review and consider any employment-related inquiries that you may submit. We may keep any of your Personal Info on file and use it to contact you for recruiting purposes. PostRank may also use Personal Info to measure and assess interest in specific items posted on our site and provided by our service. The e-mail addresses provided at registration allow PostRank to send e-mail to individuals based on the areas of interest that they indicate during any registration process. If you do not wish to receive e-mailed advance notice of items posted on the site, simply do not check off any of the subject boxes on any registration pages. PostRank may use Personal Info collected from cookies and IP addresses as described below. PostRank may also provide your Personal Info to any of its affiliates worldwide for such purposes, however, we will NOT collect information or obtain consent through deceptive means.
+AideRSS uses your Personal Information to for the following purposes: to fulfill your requests for information, to respond to comments you post on the Site, to improve our community and Site and to better tailor the features, performance and support of the Site and to offer you additional information, opportunities and functionality. AideRSS may also use Personal Information to measure and assess interest in specific items posted on our Site and provided by our service. The e-mail addresses provided at registration allow AideRSS to send e-mails to you if the need arises. If you do not wish to receive emails or other communications from us, please let us know. AideRSS may use Personal Information collected from cookies and IP addresses as described below. AideRSS may also provide your Personal Information to any of its affiliates worldwide for such purposes, however, we will NOT collect information or obtain consent through deceptive means.
+
+We may create Anonymous Information records (which do not permit the identification of individual persons) from Personal Information by excluding information (such as your name) that make the information personally identifiable to you. We may use this Anonymous Information to analyze usage patterns so that we may enhance our Site and services. We reserve the right to use and disclose Anonymous Information to third parties in our discretion. 
+
+If we delete your account at your request, we will delete all Personal Information from the account, but we retain the right to maintain non-personally identifiable information about the account (e.g. date created, date terminated, feeds, etc.). Also, if we terminate your account as allowed under the Terms of Service, we may choose to maintain all data collected from your use of the Site, including Personal Information.
 
 ### Cookies and IP Addresses
 
-We will limit the amount and the type of personal information we collect however, we may use cookies to identify you and your interests and to track usage of the site. Cookies are small pieces of information stored on your computer that help us know which browser you are using and where you have been on the site and on Web sites to which you may link in order to use some of our features. Cookies also let us know whether you have registered with us and otherwise enable us to relate your current usage of the site to prior usage of this or other sites of PostRank or its affiliates. By accepting our cookie, you will be conveniently permitted access to certain pages of the site without having to log in each time you visit. A user who refuses cookies from the site may not be able to access certain areas of the site. PostRank also logs IP addresses, or the location of computers on the Internet, to help diagnose problems and to administer our site.
+We will limit the amount and the type of Personal Information we collect however, we may use cookies to identify you and your interests and to track usage of the site. Cookies are small pieces of information stored on your computer that help us know which browser you are using and where you have been on the Site and on websites to which you may link in order to use some of our features. Cookies also let us know whether you have registered with us and otherwise enable us to relate your current usage of the Site to prior usage of this or other sites of AideRSS or its affiliates. By accepting our cookie, you will be conveniently permitted access to certain pages of the Site without having to log in each time you visit. A user who refuses cookies from the Site may not be able to access certain areas of the Site. AideRSS also logs IP addresses, or the location of computers on the Internet, to help diagnose problems and to administer our Site.
 
 ### Third Party Disclosure
 
-PostRank will not intentionally disclose (and will take commercially reasonable steps to prevent the accidental disclosure of) your Personal Info to third parties (i.e., persons or entities that are not affiliates of PostRank), whether for such third parties' marketing purposes or otherwise, subject to the following exceptions:
+AideRSS will not intentionally disclose (and will take commercially reasonable steps to prevent the accidental disclosure of) your Personal Info to third parties (i.e., persons or entities that are not affiliates of AideRSS), whether for such third parties' marketing purposes or otherwise, subject to the following exceptions:
 
-  1. PostRank may disclose your Personal Info to third parties as required or permitted by the laws, rules, and regulations of any nation, state, or other applicable jurisdiction;
-  2. PostRank may disclose your Personal Info to third parties who deliver information from us to you for the purpose of performing such delivery;
-  3. PostRank may disclose your Personal Info if, in connection with submitting the information, you consent to such disclosure;
-  4. PostRank may disclose contact information for you in response to inquiries by bona-fide rights owners in connection with allegations of infringement of copyright or other proprietary rights arising from information you have posted on the site or otherwise provided to PostRank;
+  * AideRSS may disclose your Personal Information to third parties as required or permitted by the laws, rules, and regulations of any nation, state, or other applicable jurisdiction;
+  * AideRSS may disclose your Personal Information to third parties who deliver information from us to you for the purpose of performing such delivery;
+  * AideRSS may disclose your Personal Information if, in connection with submitting the information, you consent to such disclosure;
+  * AideRSS may disclose your Personal Information in response to inquiries by bona-fide rights owners in connection with allegations of infringement of copyright or other proprietary rights arising from information you have posted on the Site or otherwise provided to AideRSS. If AideRSS and/or any of its affiliates merges with or sells substantially all of its assets or a majority of its equity to a third party, information collected by AideRSS or such affiliates on their websites may be disclosed to and owned by the merged entity or third party.
 
 
-
-If PostRank and/or any of its affiliates merges with or sells substantially all of its assets or a majority of its equity to a third party, information collected by PostRank or such affiliates on their Web sites may be disclosed to and owned by the merged entity or third party.
 
 ### Additional Links
 
-We may provide links to third-party Web sites as a service to our users. In addition, some of the content appearing to be on this site is in fact supplied by third parties, for example, in instances of framing of third- party Web sites or incorporation through framesets of content supplied by third-party servers. We cannot control and are not responsible for the information collection and privacy practices of such third-party Web sites, which may differ from those of this site.
+We may provide links to third-party websites as a service to our users. In addition, some of the content appearing to be on this Site is in fact supplied by third parties, for example, in instances of framing of third-party websites or incorporation through framesets of content supplied by third-party servers. We cannot control and are not responsible for the information collection and privacy practices of such third-party websites, which may differ from those of this Site.
 
 ### Security Disclaimer
 
-PostRank has implemented generally accepted standards of technology and operational security in order to protect Personal Info from loss, misuse, alteration, or destruction. Only authorized PostRank personnel are provided access to Personal Info, and these employees are required to treat this information as confidential. Despite these precautions, PostRank cannot guarantee that unauthorized persons will not obtain access to your Personal Info.
+AideRSS has implemented generally accepted standards of technology and operational security in order to protect Personal Information from loss, misuse, alteration, or destruction. Only authorized AideRSS personnel are provided access to Personal Information, and these employees are required to treat this information as confidential. Despite these precautions, AideRSS cannot guarantee that unauthorized persons will not obtain access to your Personal Information.
 
 ### Transborder Hosting and Information Transfer
 
-Personal Info collected on the Site may be transferred from time to time to PostRank locations and hosting facilities located throughout the world. The Site may be viewed and hosted anywhere in the world, including countries (such as the United States) that may not have laws regulating the use and transfer of personally-identifiable data. By using the Site and submitting such information on it, you voluntarily consent to such transborder transfer and hosting of such information.
+Personal Information collected on the Site may be transferred from time to time to AideRSS locations and hosting facilities located throughout the world. The Site may be viewed and hosted anywhere in the world, including countries (such as the United States) that may not have laws regulating the use and transfer of personally-identifiable data. By using the Site and submitting such information on it, you voluntarily consent to such transborder transfer and hosting of such information.
 
-### Consent and Acceptance
+### Contact Us
 
-By using the Site, you consent to the collection, use, and storage of your information by us in the manner described in this Privacy Policy and elsewhere on the Site. We reserve the right to make changes to this Privacy Policy from time to time.
+We understand privacy is an important issue. If you have any questions or concerns about our Privacy Policy, please contact us at [info@aiderss.com](mailto:info@aiderss.com "Contact AideRSS").
 
-We understand privacy is an important issue. If you have any questions or concerns about our Privacy Policy, please contact us at [info@postrank.com](mailto:info@postrank.com).
+### Privacy Policy Updates
 
-### Effective Date
+As part of the Terms of Service, this Privacy Policy is subject to occasional amendment, in accordance with the Terms of Service.
 
-This privacy policy has been in place since June 1, 2007.
+**_This document was last revised August 26, 2008._**
