@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ebay.in privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217053101id_/http%3A//pages.ebay.in/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.in privacy policy that was archived on 2009-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090315101139id_/http%3A//pages.ebay.in/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # eBay Privacy Policy
-
-| | 
 
 eBay Privacy Policy
 
@@ -111,14 +109,11 @@ To protect your privacy and security, we will verify your identity before granti
 
   10. By using the Site, you consent to the collection and use of the information you disclose on the Site by eBay. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Any changes to our privacy policy will be communicated through our Web site at least 10 days in advance of implementation.
 
-  11.  **PaisaPay Data Privacy and Security Policy**
-
-Please click the hyperlink to carefully read [PaisaPay Data Privacy and Security Policy](http://pages.ebay.in/help/policies/paisapay-policy-data-privacy-security.html).
-
-  12.  **Tell us what you think**
-
-  
-At eBay, we welcome your questions and comments regarding our privacy policy. You may contact eBay at [http://pages.ebay.in/help/contact_inline/index.html.](http://pages.ebay.in/help/contact_inline/index.html)
+  11.   12. 
 
 
+| | 
 
+Contact us
+
+ ****Have a question? We can help.
