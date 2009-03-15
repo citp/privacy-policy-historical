@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dapper.net privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231073341id_/http%3A//www.dapper.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dapper.net privacy policy that was archived on 2009-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090315101335id_/http%3A//www.dapper.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Dapper Privacy Policy
 
