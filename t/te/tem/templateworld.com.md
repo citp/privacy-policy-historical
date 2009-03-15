@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templateworld.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170844id_/http%3A//www.templateworld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templateworld.com privacy policy that was archived on 2009-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090315063328id_/http%3A//www.templateworld.com/privacy.html) for the most accurate reproduction.*
 
 # TemplateWorld - Privacy Policy
 
@@ -8,14 +8,18 @@ Templateworld.com places a high emphasis on the privacy of its users and is comm
 
 With an objective to offer the most holistic and enriching experience of the internet to its users, templateworld.com offers a vast collection of professional web templates and related services. All templates are available for sale but you need to have a universally mandatory registration to surf the URL www.templateworld.com. In the process templateworld.com collects certain information about its users, such as:
 
-(a) The information supplied by users and  
+(a) The information supplied by users and
+
 (b) The information automatically tracked while surfing www.templateworld.com.
 
 In order to become members or affiliates of templateworld.com, the users are required to provide certain mandatory information for registration which may include
 
-(a) Your Name  
-(b) Postal Address  
-(c) Phone Number  
+(a) Your Name
+
+(b) Postal Address
+
+(c) Phone Number
+
 (d) Email Address
 
 The Information thus supplied by the users enables us to make necessary improvements to our website in order to provide the user, most user-friendly surfing experience and is used to fill your order and verification purpose only.
@@ -38,16 +42,22 @@ All questions or clarifications regarding this Policy should be addressed to:
 
 privacypolicy@templateworld.com or by snail mail to
 
-TemplateWorld.com  
-P.O. Box 5, S.R. Nagar  
-Hyderabad, AP 500038  
+TemplateWorld.com
+
+P.O. Box 5, S.R. Nagar
+
+Hyderabad, AP 500038
+
 India
 
 OR
 
-TemplateWorld.com  
-1903 60th Place, M4105  
-Bradenton, FL 34203  
+TemplateWorld.com
+
+1903 60th Place, M4105
+
+Bradenton, FL 34203
+
 U.S.A
 
 OR by telephone to: (941) 827-2023 
