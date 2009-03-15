@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-love-cats.com privacy policy that was archived on 2008-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080103004114id_/http%3A//www.i-love-cats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-love-cats.com privacy policy that was archived on 2009-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090315140001id_/http%3A//www.i-love-cats.com/privacy.html) for the most accurate reproduction.*
 
 # I-Love-Cats.com Privacy Policy
 
