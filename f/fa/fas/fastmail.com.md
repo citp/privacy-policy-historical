@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastmail.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222222931id_/http%3A//fastmail.com/fastweb/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastmail.com privacy policy that was archived on 2009-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090315235046id_/http%3A//fastmail.com/fastweb/about/privacy) for the most accurate reproduction.*
 
 # FastWeb: Privacy Policy — Your Privacy Rights
 
@@ -22,7 +22,7 @@ Password: |
 |  |   
 | 
 
-[](https://web.archive.org/printer/about/privacy?)
+[](https://web.archive.org/printer/about/privacy)
 
   
 FastWeb: Privacy Policy — Your Privacy Rights
