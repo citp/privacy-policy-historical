@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catofashions.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217084236id_/http%3A//www.catofashions.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catofashions.com privacy policy that was archived on 2009-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090315114910id_/http%3A//www.catofashions.com/privacy.cfm) for the most accurate reproduction.*
 
 # Cato – Site Map - Specialty Retailer of Women’s Fashions & Accessories
 
@@ -27,7 +27,7 @@ The Cato Corporation collects information in several ways from different areas o
 
 **Personal Information**
 
-The types of information we collect to personally identify you include your name, address, telephone number, and email address. Cato collects this information only when you volunteer this information on applications or sign-up forms located on this web site. By entering information into any one of these areas, you grant Cato permission to contact you about selected products, companies and events we think may interest you. If you later decide you do not want to be contacted, please let us know by mail, phone or email at [general1@catocorp.com](mailto:general1@catocorp.com). If you wish to modify your personal information, please [click here](https://web.archive.org/web/20081217084236id_/http%3A//www.catofashions.com/myinfo/index.cfm).
+The types of information we collect to personally identify you include your name, address, telephone number, and email address. Cato collects this information only when you volunteer this information on applications or sign-up forms located on this web site. By entering information into any one of these areas, you grant Cato permission to contact you about selected products, companies and events we think may interest you. If you later decide you do not want to be contacted, please let us know by mail, phone or email at [general1@catocorp.com](mailto:general1@catocorp.com). If you wish to modify your personal information, please [click here](https://web.archive.org/web/20090315114910id_/http%3A//www.catofashions.com/myinfo/index.cfm).
 
 Certain areas of our site are only accessible upon disclosure of personally identifiable information. These areas include our Contact Form, Credit Card Application, and Vendor pages. Therefore, if you do not wish to volunteer your personal information in these areas, access will be denied.
 
@@ -86,4 +86,4 @@ The Cato Corporation offers and displays the products on this site as reasonable
 
 **Customer Email Correspondence**
 
-The Cato Corporation adheres to the requirements established under the CAN-SPAM Act of 2003 for broadcast customer email correspondence. If you are already on the Cato email address list and would like to be removed, please [click here](https://web.archive.org/web/20081217084236id_/http%3A//www.catofashions.com/myinfo/index.cfm). To view the CAN-SPAM Act of 2003, please [click here](http://www.spamlaws.com/federal/108s877.html).
+The Cato Corporation adheres to the requirements established under the CAN-SPAM Act of 2003 for broadcast customer email correspondence. If you are already on the Cato email address list and would like to be removed, please [click here](https://web.archive.org/web/20090315114910id_/http%3A//www.catofashions.com/myinfo/index.cfm). To view the CAN-SPAM Act of 2003, please [click here](http://www.spamlaws.com/federal/108s877.html).
