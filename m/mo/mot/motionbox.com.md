@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motionbox.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223062834id_/http%3A//www.motionbox.com/content/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motionbox.com privacy policy that was archived on 2009-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090316093149id_/http%3A//www.motionbox.com/content/help/privacy) for the most accurate reproduction.*
 
-# 'Motionbox Privacy Policy' in Motionbox Help
+# Motionbox Privacy Policy - Motionbox Help
 
 [](http://www.truste.org/ivalidate.php?url=www.motionbox.com&sealid=101)
 
