@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the adengage.com privacy policy that was archived on 2007-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071112114118id_/http%3A//www.adengage.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adengage.com privacy policy that was archived on 2009-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090316051718id_/http%3A//www.adengage.com/privacy.cfm) for the most accurate reproduction.*
 
-# AdEngage - Engaging Internet Advertising - Privacy Policy
+# AdEngage - Privacy Policy
 
 #### (Last Updated on June 16, 2006)
 
-Welcome to the **www.adengage.com** website run by AdEngage, Inc. (the **"Company," "we," "us,"** or **"our"** ). The Company is committed to respecting the privacy rights and concerns of all users of our website (the **"Site"** ) (we refer to the Site and the services we provide as described in our Site collectively as the **"Company Features"** ). As such, we have established and implemented this privacy statement to inform visitors to the Site and users of the Company Features how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled **"Questions? Contact Us"** at the end of this privacy statement. This privacy statement is effective as of June 1, 2006. 
+Welcome to the **www.adengage.com** website run by AdEngage, Inc (the **"Company," "we," "us,"** or **"our"** ). The Company is committed to respecting the privacy rights and concerns of all users of our website (the **"Site"** ) (we refer to the Site and the services we provide as described in our Site collectively as the **"Company Features"** ). As such, we have established and implemented this privacy statement to inform visitors to the Site and users of the Company Features how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled **"Questions? Contact Us"** at the end of this privacy statement. This privacy statement is effective as of June 1, 2006. 
 
 The Company does not collect personally identifiable information unless our visitors voluntarily provide it to us. We do, however, collect certain types of information and ask for personal information in certain circumstances, such as when you set up an account. The following sections describe what type of information we collect, when we collect it and how we use it. 
 
@@ -56,4 +56,4 @@ By visiting the Site or using the Company Features, you consent to the collectio
 
 If you have any questions about our privacy practices or your dealings with the Company Features, please do not hesitate to contact: [contact@adengage.com](mailto:contact@adengage.com)
 
-Please also read the [Terms of Service](https://web.archive.org/web/20071112114118id_/http%3A//www.adengage.com/terms.cfm) establishing the use, disclaimers, and limitations of liability governing the use of the Site and the Company Features. 
+Please also read the [Terms of Service](https://web.archive.org/web/20090316051718id_/http%3A//www.adengage.com/terms.cfm) establishing the use, disclaimers, and limitations of liability governing the use of the Site and the Company Features. 
