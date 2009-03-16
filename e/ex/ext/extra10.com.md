@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extra10.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021217id_/http%3A//www.extra10.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extra10.com privacy policy that was archived on 2009-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090316084352id_/http%3A//www.extra10.com/privacy.php) for the most accurate reproduction.*
 
 # Extra10 - view. click. make money.
 
