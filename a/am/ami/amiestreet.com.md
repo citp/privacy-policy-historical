@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the amiestreet.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914052029id_/http%3A//amiestreet.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amiestreet.com privacy policy that was archived on 2009-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090316065843id_/http%3A//amiestreet.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Amie Street - Privacy Policy
+# Privacy Policy | Amie Street
 
-Our privacy policy is designed to let you know what information we collect from you, how that information is used, and how can you tailor your Amie Street experience to your personal preferences. For complete details, please see the [Terms Of Agreement ](https://web.archive.org/userAgreement.php).
+Our privacy policy is designed to let you know what information we collect from you, how that information is used, and how can you tailor your Amie Street experience to your personal preferences. For complete details, please see the [Terms Of Agreement ](https://web.archive.org/page/user-agreement).
 
 ## What Information We Collect
 
-We store information that we collect through cookies, log files, and clear gifs to create a "profile" of your preferences. Personally identifiable information is used by Amie Street in order to provide tailored services and to improve the content of the site for you. All userís profiles are initially set to "Do Not Disturb," which means we will only email you regarding administrative matters regarding your account. Should you wish to receive newsletters, information on bands touring in your area, promotions, etc. you have the option to opt-in to those services. Non-personally identifiable, group information may be shared or sold to Amie Street partners. 
+We store information that we collect through cookies, log files, and clear gifs to create a "profile" of your preferences. Personally identifiable information is used by Amie Street in order to provide tailored services and to improve the content of the site for you. All users' profiles are initially set to "Do Not Disturb," which means we will only email you regarding administrative matters regarding your account. Should you wish to receive newsletters, information on bands touring in your area, promotions, etc. you have the option to opt-in to those services. Non-personally identifiable, group information may be shared or sold to Amie Street partners. 
 
 ## Who We Share Your Information With
 
