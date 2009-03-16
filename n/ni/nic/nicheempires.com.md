@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicheempires.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228004106id_/http%3A//www.nicheempires.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicheempires.com privacy policy that was archived on 2009-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090316073242id_/http%3A//www.nicheempires.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Niche products for sale with private label and master resell rights
 
