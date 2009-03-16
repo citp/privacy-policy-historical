@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myer.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217144327id_/http%3A//www.myer.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myer.com.au privacy policy that was archived on 2009-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090316093237id_/http%3A//www.myer.com.au/privacy.asp) for the most accurate reproduction.*
 
 # Myer - Privacy Policy
 
-[home](https://web.archive.org/web/20081217144327id_/http%3A//www.myer.com.au/default.asp) > privacy policy 
+[home](https://web.archive.org/web/20090316093237id_/http%3A//www.myer.com.au/default.asp) > privacy policy 
 
 At Myer your privacy is paramount. We recognise that your personal information is important to you and share your concerns about how information is collected, used and shared. Myer is committed to safeguarding your personal information and will always handle your personal information securely and carefully.
 
