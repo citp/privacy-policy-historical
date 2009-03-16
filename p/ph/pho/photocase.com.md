@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photocase.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216135146id_/http%3A//www.photocase.com/en/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photocase.com privacy policy that was archived on 2009-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090316034800id_/http%3A//photocase.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Photocase - Privacy policy
 
@@ -6,7 +6,7 @@ Data protection is a special concern for us. As a user of our service you are en
 
 This declaration is designed to inform you of the data protection aspects of our offer and of what action we take to protect your rights.
 
-Moreover, you declare, in regard to some processing steps, that we may, in certain circumstances and to a certain extent, collect, process and use your personal data. Of course, you may revoke your consent at any time via [email](https://web.archive.org/web/20081216135146id_/http%3A//www.photocase.com/en/contact.asp) and/or in [writing](https://web.archive.org/web/20081216135146id_/http%3A//www.photocase.com/en/imprint.asp).
+Moreover, you declare, in regard to some processing steps, that we may, in certain circumstances and to a certain extent, collect, process and use your personal data. Of course, you may revoke your consent at any time via [email](https://web.archive.org/web/20090316034800id_/http://photocase.com/en/contact.asp) and/or in [writing](https://web.archive.org/web/20090316034800id_/http://photocase.com/en/imprint.asp).
 
 #### 1.Collection and processing of personal data
 
