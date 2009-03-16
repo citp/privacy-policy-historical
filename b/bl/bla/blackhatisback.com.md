@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackhatisback.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216025731id_/http%3A//www.blackhatisback.com/member/membership/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackhatisback.com privacy policy that was archived on 2009-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090316131211id_/http%3A//www.blackhatisback.com/member/membership/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Black Hat Is Back
 
