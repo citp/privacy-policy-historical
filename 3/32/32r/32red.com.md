@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 32red.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225074811id_/http%3A//32red.com/banking/32red-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 32red.com privacy policy that was archived on 2009-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090316115213id_/http%3A//www.32red.com/banking/32red-privacy-policy.html) for the most accurate reproduction.*
 
 # 32Red Banking & Security - 32Red Online Casino
 
