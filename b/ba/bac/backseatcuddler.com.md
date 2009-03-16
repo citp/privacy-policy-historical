@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the backseatcuddler.com privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230073716id_/http%3A//backseatcuddler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backseatcuddler.com privacy policy that was archived on 2009-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090316084715id_/http%3A//backseatcuddler.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Backseat Cuddler
+# Privacy Policy--Backseat Cuddler
 
 **BackseatCuddler.com Privacy and Security Policy**   
 
@@ -18,7 +18,7 @@ Unauthorized attempts to upload information or change information on this servic
 
 If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does **not** identify you personally. We automatically collect and store **only** the following information about your visit:
 
-  1. The Internet domain (for example, “xyzcompany.com” if you use a private Internet access account, or “college.edu” if you connect from a university’s domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website;
+  1. The Internet domain (for example, �xyzcompany.com� if you use a private Internet access account, or �college.edu� if you connect from a university�s domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website;
   2. The type of browser and operating system used to access our site;
   3. The date and time you access our site;
   4. The pages you visit; and
@@ -26,7 +26,7 @@ If you do nothing during your visit but browse through the website, read pages, 
 
 
 
-We use this information to help us make our site more useful to visitors — to learn about the number of visitors to our site and the types of technology our visitors use. We do **not** track or record information about individuals and their visits. ****
+We use this information to help us make our site more useful to visitors � to learn about the number of visitors to our site and the types of technology our visitors use. We do **not** track or record information about individuals and their visits. ****
 
 **If You Send Us Personal Information**
 
