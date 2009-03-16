@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the flycell.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217094901id_/http%3A//www.flycell.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flycell.com privacy policy that was archived on 2009-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090316055936id_/http%3A//www.flycell.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd"><html><head>
                     <!-- ny0118.lan.usny.acotel.com. -->
@@ -44,7 +44,7 @@
             </head>
     
     <body onload="
-            ">
+        ">
     
 <script type="text/javascript">
 function toggleBlock(block, inline)
@@ -52,6 +52,10 @@ function toggleBlock(block, inline)
     var div = document.getElementById(block);
     var type = (inline) ? "inline" : "block";
     div.style.display = (div.style.display == type) ? "none" : type;
+}
+function requireLogin(returnUrl) {
+    loginRequired = true;
+    returnRedirect = returnUrl;
 }
 loginRequired = false;
 returnRedirect = false;
@@ -354,7 +358,8 @@ function getTs()
     <div class="existing_member">
       <!-- login -->
       <div id="login_toggle" style="display: block;">
-        <h2>Log In</h2>
+       <div><a class="close right" href="javascript:void(0);" onclick="overlay()"></a></div>
+        <h2 class="form_color large">Log In</h2>
 
         <p id="requiredLoginText" style="display: none;">You must be logged in to do that. Log in below or <a href="/offer/?ref=901">Register</a>.</p>
         <p id="normalLoginText">Welcome back to Flycell! Please log in below or <a href="/offer/?ref=901">click to register</a>.</p>
@@ -363,12 +368,12 @@ function getTs()
                 </div>
 
         <div id="form_field">
-          <label for="login">E-mail Address or Phone No.</label>
+          <label for="login" class="bold large" style="">E-mail Address or Phone No.</label>
           <input tabindex="1" class="input_text" name="login" id="login_captcha" value="" type="text">
         </div>
 
         <div id="form_field">
-          <label for="captcha_text">
+          <label for="captcha_text" class="bold large">
             Please type in the code that is displayed on the image.
           </label>
 
@@ -385,8 +390,7 @@ function getTs()
       <!-- end of login -->
 
     </div>
-    </form>
-    <div><a class="close" href="javascript:void(0);" onclick="overlay()">Close</a></div>
+    </form>   
   </div>
 </div>
     <!-- product detail preload -->
@@ -787,7 +791,7 @@ function clearTextSw(el)
 
 <div id="wrap">
    <div id="hd">
-        <div id="logo"><a href="/"><img src="http://images-cdn.flycell.com/template/shared/images/community/clear.gif" width="200" height="60"></a></div>
+        <div id="logo"><a href="/"><img src="http://images-cdn.flycell.com/template/shared/images/community/clear.gif" width="200" height="60" alt="Flycell Ringtones"></a></div>
 
         <div id="userLinks">
         
@@ -838,7 +842,7 @@ window.onload=startList;
 	      <li class="sub_close"></li>
 			</ul>
 		</li>
-	
+
 		<li class="nav_graphic">Graphics
 			<ul class="subnav_graphic">
 				<li class="sub_open"></li>
@@ -849,7 +853,7 @@ window.onload=startList;
 				<li class="sub_close"></li>
 			</ul>
 		</li>
-	
+
 		<li class="nav_play">Play
 			<ul class="subnav_play">
 				<li class="sub_open"></li>
@@ -857,21 +861,22 @@ window.onload=startList;
 								<li class="sub_close"></li>
 			</ul>
 		</li>
-		
+
 		<li class="nav_text">Text
 			<ul class="subnav_text">
 				<li class="sub_open"></li>
 				<li class="sub_cat"><a href="/text-alerts" class="sub_link">Text Alerts</a></li>
+				<li class="sub_cat"><a href="/sports-alerts" class="sub_link">Sports Alerts</a></li>
 								<li class="sub_cat"><a href="javascript:void(0);" onclick="loginRequired = true; overlay();" class="sub_link">Unlimited Txt'ing</a></li>
 													<li class="sub_cat"><a href="/community" class="sub_link">Inbox</a></li>
 								<li class="sub_close"></li>
 			</ul>
-		</li>	
+		</li>
 		<li class="nav_community">Community
 			<ul class="subnav_community">
 				<li class="sub_open"></li>
 								<li class="sub_cat"><a href="/community" class="sub_link">Upload</a></li>
-								
+				
 									<li class="sub_cat"><a href="/community" class="sub_link">My Locker</a></li>
 					<li class="sub_cat"><a href="/community" class="sub_link">Account</a></li>
 													<li class="sub_cat"><a href="/community" class="sub_link">My Profile</a></li>
@@ -891,8 +896,8 @@ window.onload=startList;
 		</ul>
 	</div>
 	</div>
-		
-		
+
+	
                         
 <div id="bd">
 		<div class="col_680 left">	
@@ -1123,7 +1128,7 @@ window.onload=startList;
   
 
 
-        <a href="/" class="footLink xmall">Ringtones</a>&nbsp;|&nbsp;
+        <a href="/" class="footLink xmall">Download Ringtones</a>&nbsp;|&nbsp;
     <a href="/realtones-polyphonic-ringtones" class="footLink xmall">MP3 Ringtones</a>&nbsp;|&nbsp;
     <a href="/realtones-polyphonic-ringtones" class="footLink xmall">MP3 and Music Ringtones</a>&nbsp;|&nbsp;
     <a href="/mobile-cell-phone-wallpapers" class="footLink xmall">Cell Phone Wallpapers</a>&nbsp;|&nbsp;
@@ -1174,8 +1179,9 @@ window.onload=startList;
 
 <br>
 	        <div style="clear:both;text-align:center;margin-bottom:10px;">
-            <img src="http://images-cdn.flycell.com/template/us/images/carrier_logos_dark.gif" width="616" height="34" alt="Flycell services are available for Verizon Wireless, AT&amp;T, T-Mobile, Sprint, Nextel, Alltel, Boost, Virgin and Cellular One users">
-        </div>
+        
+        	        	<img src="http://images-cdn.flycell.com/template/us/images/carrier_logos_dark_no_sprint.gif" width="616" height="34" alt="Flycell services are available for Verizon Wireless, AT&amp;T, T-Mobile, Alltel, Virgin and Cellular One users">
+        	        </div>
 					
 <div align="center" class="copyright">
 
@@ -1217,6 +1223,8 @@ Flycell US: (<a href="goto-english">English</a> | <a href="goto-spanish">Españo
 
 
 
+
+    
         
  
 <!-- Google Analytics Code NEW PROFILE  -->
@@ -1274,6 +1282,8 @@ qacct:"p-012Kq1nHYGWi6"
 
 
 
+
+
 <!-- SiteCatalyst code version: H.9.
 Copyright 1997-2007 Omniture, Inc. More info available at http://www.omniture.com -->
 <script language="JavaScript" src="http://images-cdn.flycell.com/template/shared/js/s_code.js"></script>
@@ -1312,9 +1322,6 @@ s.eVar13=""
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.9. -->
-
-
-
 
 
     </body></html>
