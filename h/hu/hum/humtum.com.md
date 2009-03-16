@@ -1,149 +1,89 @@
-> *The following text is extracted and transformed from the humtum.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humtum.com privacy policy that was archived on 2009-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090316094844id_/http%3A//humtum.com/customerservice/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# HumTum.com - Indian Dating and Matrimonials
 
-#### Find Answers To Your Questions:
+Information Collection and Use
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+Registration  
+In order to create a profile on HUMTUM.COM you must first complete the registration form and create a user name/password.  During registration you are required to give contact information such as your name and email address.  We use this information to contact you about the services on our site in which you have expressed interest (See Operational Communications).  
 
-### Privacy Policy
+Information you choose to disclose to HUMTUM.COM falls into two categories:  Public and Private Information -
 
-**Why A Privacy Policy?**  
+    Public Information:  
+Information that falls under this category is information that can be seen by all users of HUMTUM.COM.  This includes, but is not limited to, username, gender, age, religion, and all other information that the user chooses to put on his/her profile
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+    Private Information:  
+Information that falls under this category is information that can only be seen by the user and HUMTUM.COM representatives.  This includes, but is not limited to, first name, last name, credit card number, checking account information for payment, user-specified password, mailing address, zip code, and telephone number
 
- **This Privacy Policy protects your privacy by:**
+HUMTUM.COM is the sole owner of the information collected on HUMTUM.COM.  We collect personally identifiable information from our users at several different points on our Web site (See Information Sharing and Disclosure).
 
- **Informing you about:**
+Orders  
+If you purchase services from HUMTUM.COM, we request certain personally identifiable information from you on our order form.  You must provide both contact and financial information.  We use this information ONLY for billing purposes and to fill your orders.  If we have difficulty processing an order we will also use this information to contact you.
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
+Surveys or Contests  
+Occasionally, we may provide the user with opportunities to participate in contests or surveys on our site.  If you choose to participate, HUMTUM.COM will request certain personally identifiable information from you.  Participation in these surveys or contest is completely voluntary and you therefore have a choice whether or not to disclose this private information, which typically includes contact and demographic information.  We use this information to notify contest winners and award prizes, to monitor site traffic, gain user feedback on our functionality, and send participants emails and other Operational Communications.  We may use a third party provider to conduct these surveys or contests; that company will be prohibited from using our user’s personally identifiable information for any other purpose.  We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice (See Information Sharing and Disclosure).
 
+Uses of Information  
+HUMTUM.COM collects information from its members and does not sell any information to third parties.  HUMTUM.COM uses your email address for confirmation emails, important news, and other operational communications as well as exclusive discounts and offers.  Except when you are expressly informed, HUMTUM.COM does not sell, rent, share, trade, or give away any of your personal information except to the financial institution that processes your credit card information.  HUMTUM.COM may share your personal information with their agents or representatives in order to enhance the services it provides.  HUMTUM.COM uses your financial information to check your qualifications, to bill you for products and services, and to enable you to participate in discount or rebate programs.  HUMTUM.COM may use the demographic data provided to provide target specific ads to the user.  HUMTUM.COM will comply with the applicable law and share any personal and financial information law enforcement or other government/regulatory authorities ask for.
 
+Operational Communications
 
-**Empowering you to choose:**
+ Special Offers and Updates  
+We will occasionally send you information on products, services, special deals, promotions, and other HUMTUM.COM offers.  You can sign up for these emails from us in Email Settings in the My Account section.  HUMTUM.COM gives the user the option not to receive these types of communications (See Choice and Opt-Out).
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
+Newsletters  
+If you wish to subscribe to our newsletters, if and when HUMTUM.COM begins this service, we will use your name and email address to send the newsletter to you.  HUMTUM.COM gives the user the option not to receive these types of communications (see Opt-Out Provisions below) 
 
+Service-related Announcements  
+In the event that our services will be suspended for maintenance, HUMTUM.COM will send you strictly service-related announcements when it is necessary to do so.  Generally you may not opt-out of these communications, which are not promotional in nature.  If you do not wish to receive them, you have the option to delete your account.
 
+Customer Service  
+Based upon the personally identifiable information you provide us, we will send you a welcome email to activate your new account.  We will also communicate with you by email in response to your inquiries, to provide the services you request, and to manage your account.  
 
-**Assuring you that Network Solutions:**
+Information Sharing and Disclosure
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
+Except where you are expressly informed, we do not sell, rent, share, trade, or give away any of your personal information except to the financial institution that processes your credit card or check transactions unless required by law.  HUMTUM.COM will never share your personal information, without your express permission.
 
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process involving HUMTUM.COM.
 
+Opt-Out Provisions
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+We provide you the opportunity to opt-out of having your personally identifiable information used for certain purposes, when we ask for this information.  For example, if you purchase services but do not wish to receive any additional marketing material from us, you can indicate your preference in Email Settings of the My Account section.
 
-  
-**Third Party Advertising and Cookies**
+If you no longer wish to receive our newsletter, if and when this service begins, and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by making changes to Email Settings of the My Account section.
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+You will be notified when any third party that is not our agent/service provider collects your personal information, so you can make an informed choice as to whether or not to share your information with that party.
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
+Log Files
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
+As is true of most Web sites, we gather certain information automatically and store it in log files.  This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track user’s movements around the site and to gather broad demographic information about our user base as a whole.
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+We do not link this automatically collected data to personally identifiable information.
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+Cookies
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+HUMTUM.COM uses cookies.  Cookies are small text files that are stored on a user’s computer for record keeping purposes.  We use cookies to deliver various services, such as storing your password, and to keep track of your personal preferences.  If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited.  Some of our business partners (for example, advertisers) may use cookies on our site.  We have no access to or control over these cookies.
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+Links to Other Sites
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+HUMTUM.COM may contain links to other sites that are not owned or controlled by HUMTUM.COM.  Please be aware that we, HUMTUM.COM, are not responsible for the privacy practices of such other sites.  We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information.  This privacy statement applies only to information collected by HUMTUM.COM
 
- **Getting to Know Our Customers**
+Access to Personally Identifiable Information
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+If your personally identifiable information changes, or if you no longer desire our services, you may correct, update or delete your profile/account by making appropriate changes in the My Profile and My Account sections of the site.  
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
+Security
 
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+The security of your personal information is very important to us.  When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).  We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  However, no method of transmission over the Internet, or method of electronic storage is 100% secure.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.  If you have any questions about security on our website, you can contact a HUMTUM.COM representative through the Customer Service section or through the Feedback/Comments link located in the footer of the website. 
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+Changes to this Privacy Statement
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
+We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+Contact Us 
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
-
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
-
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
-
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
-
-b. Click “Edit User Info” in the left menu;
-
-c. Scroll to the bottom of the page;
-
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
-
-e. Click “SAVE.”
-
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
-
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
-
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
-
-b. Click “Edit User Info” in the left menu;
-
-c. Scroll to the bottom of the page;
-
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
-
-e. Click “SAVE.” 
-
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
-
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
-
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
-
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
-
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
-
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
-
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
-
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+If you have any questions or suggestions regarding our privacy policy, please contact us through the Feedback/Comments link located in the footer of the website or through the Customer Service section.  
