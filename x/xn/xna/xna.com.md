@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xna.com privacy policy that was archived on 2008-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081007032114id_/http%3A//creators.xna.com/w3c/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xna.com privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318002824id_/http%3A//creators.xna.com/w3c/policy) for the most accurate reproduction.*
 
 # XNA Creators Club Online - privacy statement
 
@@ -9,7 +9,7 @@ Microsoft is committed to protecting your privacy. This privacy statement applie
 YOUR PERSONAL INFORMATION  
 We will ask you when we need information that personally identifies you or allows us to contact you. The personal information we collect may include your email address and physical address.
 
-To sign in to the Site, you will be asked to enter an e-mail address and password, which we refer to as your Windows Live™ ID credentials. After you create your Windows Live ID, you can use the same credentials to sign into many different Microsoft sites and services, as well as those of select Microsoft partners, that display the Windows Live ID logo. By signing in on one Microsoft site or service, you may be automatically signed in when you visit other Microsoft sites and services. To learn more about how your credential information is used when you sign into participating sites, please read the Microsoft Online Privacy Statement at <http://privacy.microsoft.com/>.
+To sign in to the Site, you will be asked to enter an e-mail address and password, which we refer to as your Windows Live™ ID credentials. After you create your Windows Live ID, you can use the same credentials to sign into many different Microsoft sites and services, as well as those of select Microsoft partners, that display the Windows Live ID logo. By signing in on one Microsoft site or service, you may be automatically signed in when you visit other Microsoft sites and services. To learn more about how your credential information is used when you sign into participating sites, please read the Microsoft Online Privacy Statement at <http://privacy.microsoft.com/en-us/default.mspx>.
 
 We may collect information about your visit, including the pages you view, the links you click and other actions taken in connection with the Site. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses. 
 
