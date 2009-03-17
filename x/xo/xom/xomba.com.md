@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xomba.com privacy policy that was archived on 2008-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081203170336id_/http%3A//xomba.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xomba.com privacy policy that was archived on 2009-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090317085452id_/http%3A//www.xomba.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
